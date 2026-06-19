@@ -26,7 +26,11 @@
   ],
   "khai": {
     "engine": "cultures",
-    "collection": "cultures",
+    "collection": {
+      "dir": "cultures",
+      "key": "cultures",
+      "anchor": "play_"
+    },
     "card": {
       "wire": "The Cultures house: a collection of khai cultures."
     }
