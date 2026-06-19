@@ -1,0 +1,54 @@
+{
+  "name": "@chbrain/khai-cultures",
+  "version": "0.0.0",
+  "description": "khai cultures: the Cultures content house. Cultures modelled with khai; sources are credited where they are in the public domain.",
+  "type": "module",
+  "exports": {
+    ".": "./package.json",
+    "./package.json": "./package.json",
+    "./registry.json": "./registry.json"
+  },
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "files": [
+    "cultures/**",
+    "registry.json",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "engine": "cultures",
+    "collection": "cultures",
+    "card": {
+      "wire": "The Cultures house: a collection of khai cultures."
+    }
+  },
+  "scripts": {
+    "test": "vitest run --test-timeout=30000",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "version": "changeset version && npx khai-tests registry build",
+    "release": "changeset publish",
+    "registry": "npx khai-tests registry build"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.8",
+    "@chbrain/khai-arch": "^0.1.15",
+    "@chbrain/khai-guard": "^0.1.10",
+    "@chbrain/khai-language": "^0.1.3",
+    "@chbrain/khai-pack": "^0.0.3",
+    "@chbrain/khai-review": "^0.1.3",
+    "@chbrain/khai-tests": "^0.1.25",
+    "husky": "^9.1.0",
+    "prettier": "^3.8.4",
+    "vitest": "^4.1.9"
+  }
+}
