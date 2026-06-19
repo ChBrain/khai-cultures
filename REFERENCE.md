@@ -70,7 +70,7 @@ Each khai type carries a fixed cultural meaning. The mapping is the contract.
 
 | khai type   | In a culture                                      | Minimum                                                                  |
 | ----------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
-| `play_`     | the culture itself (the anchor)                   | 1 — region, ISO, language in frontmatter                                 |
+| `play_`     | the culture itself (the anchor)                   | 1 (geo lives in `geo.json`, not frontmatter — see below)                 |
 | `pitch_`    | the Hofstede layer (written from the data)        | 1                                                                        |
 | `plot_`     | a historical event — history is the plot line     | 3 or more; each casts its historic personas                              |
 | `persona_`  | the people                                        | 2 defining (generational tension) + the historic personas the plots cast |
@@ -80,14 +80,21 @@ Each khai type carries a fixed cultural meaning. The mapping is the contract.
 | `piece_`    | a culture-defining artifact                       | 1 or more                                                                |
 
 Per culture, beyond the khai instances: a `README.md` (the culture's
-front-of-house identity and its Estate link back to this house) and a
+front-of-house identity and its Estate link back to this house), a
 `REFERENCES.md` (provenance: the historical sources behind the plots and
-personas, public-domain credits, and the Hofstede source data).
+personas, public-domain credits, and the Hofstede source data), and a
+`geo.json` (the culture's place on the map: `{ region, iso }`, with optional
+`parent`/`state` for a sub-national culture). **`geo.json` carries the geo, not
+the play frontmatter** — khai frontmatter keys are closed, so the play file
+cannot hold `region`/`iso`. The website producer reads `geo.json` to emit the
+map manifest (`available.json`); the language is the culture's declared
+language, enforced by `@chbrain/khai-language`, not a frontmatter field here.
 
 ---
 
-Worked example — Germany (`cultures/germany/`, `play_germany.md`, region
-`europe`, ISO `DE`, language `de`): the pitch dramatizes Germany's profile
+Worked example — Germany (`cultures/germany/`, anchored by `play_germany.md`,
+with `geo.json` `{ "region": "europe", "iso": "DE" }`, declared language `de`):
+the pitch dramatizes Germany's profile
 without naming it (there is a correct way, found by competence not rank, said
 plainly even when it stings; beneath it the long memory that something once went
 catastrophically wrong, so the rules are a promise kept across time). Plots from
