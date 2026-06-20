@@ -1,0 +1,83 @@
+---
+khai: play
+title: "Schleswig-Holstein"
+description: "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke."
+declared: "Schleswig-Holstein"
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-20"
+---
+
+# Play: Schleswig-Holstein
+
+## Estate
+
+[khai-cultures](https://github.com/ChBrain/khai-cultures): das Haus, das diese Produktion hält und für sie einsteht.
+
+## Name
+
+Schleswig-Holstein, das nördlichste Land Deutschlands, zwischen Nordsee und Ostsee, an der Grenze zu Dänemark. ISO DE-SH, Sprache de.
+
+## Arc
+
+Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und deutsch gemacht, dann seine Grenze in Frieden selbst gewählt. Eine flache, windige Küste, die hinter ihren Deichen lebt und einen Menschen nicht an grossen Worten misst, sondern daran, ob seine Arbeit hält, wenn das Wasser kommt. Wenig Worte, ein hoher Deich, eine lange Geduld. Über allem der weite Himmel und das Wissen, dass das Meer gibt und nimmt und dass nur besteht, wer zusammen deicht.
+
+## Company
+
+**Personas**
+
+- [Theodor Storm](persona_storm.md)
+- [Karl Artelt](persona_artelt.md)
+- [Okke](persona_okke.md)
+- [Merle](persona_merle.md)
+
+**Places**
+
+- [Kiel](place_kiel.md)
+- [das Wattenmeer](place_wattenmeer.md)
+- [Flensburg](place_flensburg.md)
+
+**Processes**
+
+- [der Deichbau](process_deichbau.md)
+- [die Kieler Woche](process_kieler_woche.md)
+
+**Positions**
+
+- [der Deichgraf](position_deichgraf.md)
+- [Moin](position_moin.md)
+- [das Grenzland](position_grenzland.md)
+
+**Pieces**
+
+- [der Schimmelreiter](piece_schimmelreiter.md)
+- [der Deich](piece_deich.md)
+- [die Krabben](piece_krabben.md)
+
+**Pitches**
+
+- [der Ton zwischen den Meeren](pitch_sh.md)
+
+## Triggers
+
+**[Plot 1: Der Deutsch-Dänische Krieg 1864](plot_01_1864.md)**
+
+Die Herzogtümer werden mit Gewalt aus dänischer Hand gelöst und preussisch. [Storm](persona_storm.md) kehrt aus dem Exil heim, doch die Frage, wem das [Grenzland](position_grenzland.md) gehört, ist niedergerungen, nicht beantwortet.
+
+**[Plot 2: Der Kieler Matrosenaufstand 1918](plot_02_kieler_matrosenaufstand.md)**
+
+In [Kiel](place_kiel.md) verweigern die Matrosen den sinnlosen letzten Befehl. [Artelt](persona_artelt.md) führt die Meuterei mit an, und von der stillen Küste springt der Funke über das ganze Reich.
+
+**[Plot 3: Die Volksabstimmung in Schleswig 1920](plot_03_volksabstimmung_1920.md)**
+
+Zum ersten Mal wird die alte Grenzfrage mit Stimmzetteln entschieden, nicht mit Waffen. Um [Flensburg](place_flensburg.md) bleibt das Land deutsch, der Norden wird dänisch, und das [Grenzland](position_grenzland.md) lernt, zweierlei zugleich zu sein.
+
+**[Plot 4: Die Sturmflut 1962](plot_04_sturmflut_1962.md)**
+
+Der Orkan treibt die See gegen die Küste, der [Deich](piece_deich.md) bricht, Menschen ertrinken. Danach baut das Land höher und achtet das Amt des [Deichgrafen](position_deichgraf.md), der über den Schutz wacht.
+
+## Stakes
+
+Ob ein Grenzland, das die See nur gemeinsam zurückhält und das gelernt hat, seine Linien durch Wahl statt durch Krieg zu ziehen, seine stille Beständigkeit bewahrt, während die alte Arbeit am Wasser, die Sprache der Küste und das Leben hinterm Deich der neuen, offenen Welt aus Wind und Verbindung weichen.
