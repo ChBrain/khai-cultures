@@ -1,5 +1,11 @@
 # @chbrain/khai-cultures
 
+## 0.5.3
+
+### Patch Changes
+
+- 72db8b8: Format release output: the `version` script now runs `npm run format` after the registry build, so the bot-generated "Version Packages" PR ships a prettier-clean `registry.json` (and CHANGELOG) and no longer fails the `format:check` gate.
+
 ## 0.5.2
 
 ### Patch Changes
