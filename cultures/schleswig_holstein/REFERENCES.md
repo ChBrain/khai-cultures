@@ -46,10 +46,13 @@ staging is original work.
 | The Schleswig plebiscite, 1920 | [plot_05_volksabstimmung_1920.md](plot_05_volksabstimmung_1920.md)                                                           | The vote that drew the German-Danish border and the protected minorities.          |
 | Der Schimmelreiter             | [piece_schimmelreiter.md](piece_schimmelreiter.md)                                                                           | Theodor Storm's novella of the dyke master Hauke Haien (public domain).            |
 
-The two defining personas, [Okke](persona_okke.md) and [Merle](persona_merle.md),
-are archetypes, not historical individuals: composites that carry the
-generational tension between the older coast (the dyke-and-sea life, Low German)
-and the younger, connected generation (wind energy, the open border).
+The defining personas [Okke](persona_okke.md), [Merle](persona_merle.md),
+[Sönke](persona_soenke.md), and [Wiebke](persona_wiebke.md) are archetypes, not
+historical individuals: composites that carry the culture's living tensions —
+the older coast against the younger connected generation (Okke / Merle), and the
+Plattdeutsch-speaking coast of the border (Sönke, Flensburg) and the tides
+(Wiebke, Husum). Sönke and Wiebke are written in Low German (`nds`); the
+Plattdeutsch is the authors' own composition, not a quoted source.
 
 Content is CC-BY-NC-SA, code is MIT; public-domain sources are credited, never
 claimed.

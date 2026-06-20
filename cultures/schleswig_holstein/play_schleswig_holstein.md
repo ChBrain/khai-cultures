@@ -34,6 +34,8 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 - [Karl Artelt](persona_artelt.md)
 - [Okke](persona_okke.md)
 - [Merle](persona_merle.md)
+- [Sönke](persona_soenke.md)
+- [Wiebke](persona_wiebke.md)
 
 **Places**
 
@@ -41,6 +43,7 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 - [Lübeck](place_luebeck.md)
 - [das Wattenmeer](place_wattenmeer.md)
 - [Flensburg](place_flensburg.md)
+- [Husum](place_husum.md)
 
 **Processes**
 

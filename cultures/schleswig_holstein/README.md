@@ -25,14 +25,16 @@ Estate; a culture with no Estate is not yet a production.
   — each casting the elements that event needs (a figure, a place, a practice, or
   an object; the Mandränke casts only a piece and a position, no persona).
 - **Personas:** Jürgen Wullenwever, Theodor Storm, and Karl Artelt as the
-  historic cast, plus two defining personas in generational tension, Okke (older,
-  the dyke-and-sea life) and Merle (younger, wind energy and the open, connected
-  world).
+  historic cast, plus defining personas in generational and regional tension:
+  Okke (older, the dyke-and-sea life) and Merle (younger, wind energy and the
+  open, connected world), and two **Plattdeutsch-speaking** archetypes — Sönke
+  (Flensburg, the border life) and Wiebke (Husum, the tides and the grey sea),
+  written in Low German (`nds`).
 - **Positions:** der Deichgraf (the dyke master), der Kaufmann (the Hanseatic
   merchant-burgher), Moin (the one greeting for all), das Grenzland (the
   bilingual border identity).
 - **Places:** Kiel (the capital), Lübeck (the Hanseatic queen), das Wattenmeer
-  (the Wadden Sea), Flensburg.
+  (the Wadden Sea), Flensburg, Husum (Storm's grey town).
 - **Processes:** der Deichbau, die Kieler Woche.
 - **Pieces:** der Schimmelreiter, der Deich, die Krabben.
 
