@@ -1,5 +1,15 @@
 # @chbrain/khai-cultures
 
+## 0.1.2
+
+### Patch Changes
+
+- 8a46e49: Correct the authoring contract: a culture's geo (region, ISO) lives in a
+  per-culture geo.json sidecar, not in play frontmatter (khai frontmatter keys
+  are closed). Document geo.json as a required per-culture file alongside README
+  and REFERENCES.
+- b49cca3: Germany: add `geo.json` (`{ region: "europe", iso: "DE" }`) so the website map producer can place Germany on the world map. Sidecar data only; no change to the culture content or the count.
+
 ## 0.1.1
 
 ### Patch Changes
