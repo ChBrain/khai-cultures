@@ -1,5 +1,17 @@
 # @chbrain/khai-cultures
 
+## 0.5.1
+
+### Patch Changes
+
+- 76b117d: Adopt `@chbrain/khai-engine-language`: install the language engine and wire every persona's `## Projection` to the language-crossing width it holds (speaking/writing/thinking × mother-tongue/borrowed/worn/carried). This activates the engine layer (previously the house installed no engine, so its wiring was never enforced) and models language as process per persona — natives in their mother tongue, Sönke borrowing Danish across the border, Merle wearing English, Luther and Storm forging the written mother tongue.
+- 25d0b39: Align the house to the upgraded engine: declare the `groups` referencing collection (anchored by `play_`, referencing `cultures`, not counted) and register `nds` (Plattdeutsch) in `khai.languages`; add a `group/*` branch lane; fix the language test (it pointed at the non-existent `root/plays`, silently no-op) to validate `cultures/`; document groups, the registry `kind`/`iso` shape, and the language path in `REFERENCE.md`. `registry.json` gains an empty `groups` array.
+- 9411077: Fix the count-driven add gate to match the real culture anchor (`play_*.md`, not the legacy `culture_*.md`), and correct CLAUDE.md to describe the full play canon. Adding a culture is once again changeset-free per the documented versioning model.
+- 23b4130: Germany: declare `language: de` on the play (per-play language, now that the engine enforces the language policy) and trim `geo.json` to iso-only (the website derives region/parent from the ISO code).
+- 3086050: REFERENCE: document the language engine — how khai engines are installed and enforced, and the rule that every persona links its language-crossing width in its Projection. Also correct the worked example's geo to the iso-only shape.
+- 470ad90: Retire strict per-culture isolation in favour of ownership + resolvable casting, and make the plot-casting law type-agnostic, aligning the gates and the REFERENCE contract with the approved design of record. Geo contract restated as iso-required with region/parent/name as website-derived optional overrides. (Repo-side deltas only; the groups collection and registry changes await the khai-tests engine work.)
+- dd76464: Upgrade the khai engine (khai-tests 0.1.26, khai-language 0.1.4, khai-arch 0.1.19, khai-guard 0.1.12, khai-rules 0.1.6). The registry build now stamps each entry with its `kind` and folds in the `iso` from a `geo.json` sidecar, so `registry.json` gains `kind: "culture"` and `iso` on every entry.
+
 ## 0.1.2
 
 ### Patch Changes
