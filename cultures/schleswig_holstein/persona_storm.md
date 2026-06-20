@@ -26,7 +26,7 @@ Der Dichter der grauen Küste. Ein Mann des Maßes und der leisen Schwermut, Jur
 
 ## Action
 
-Er geht ins Exil, als die dänische Herrschaft ihm die Heimat verleidet, und kehrt im [Krieg von 1864](plot_01_1864.md) nach Husum zurück. In seinem [Schimmelreiter](piece_schimmelreiter.md) setzt er dem [Deichgrafen](position_deichgraf.md) und dem ewigen Kampf gegen das Wasser ein Denkmal, das die Küste bis heute von sich selbst erzählt.
+Er geht ins Exil, als die dänische Herrschaft ihm die Heimat verleidet, und kehrt im [Krieg von 1864](plot_03_1864.md) nach Husum zurück. In seinem [Schimmelreiter](piece_schimmelreiter.md) setzt er dem [Deichgrafen](position_deichgraf.md) und dem ewigen Kampf gegen das Wasser ein Denkmal, das die Küste bis heute von sich selbst erzählt.
 
 ## Shadow
 

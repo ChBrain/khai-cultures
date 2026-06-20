@@ -25,7 +25,7 @@ Die Macht, zweierlei zugleich zu sein. An der Grenze zu Dänemark hält die Spra
 
 ## Orders
 
-Dass man die andere Seite achtet und die Minderheit schützt, statt sie zu beugen. Seit der [Volksabstimmung 1920](plot_03_volksabstimmung_1920.md) gilt: die Grenze wird durch Stimmen gezogen, nicht durch Gewalt, und was anders ist, darf anders bleiben.
+Dass man die andere Seite achtet und die Minderheit schützt, statt sie zu beugen. Seit der [Volksabstimmung 1920](plot_05_volksabstimmung_1920.md) gilt: die Grenze wird durch Stimmen gezogen, nicht durch Gewalt, und was anders ist, darf anders bleiben.
 
 ## Loses
 

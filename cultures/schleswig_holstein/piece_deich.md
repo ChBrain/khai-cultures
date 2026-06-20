@@ -34,5 +34,5 @@ Ein breiter, sanft ansteigender Wall aus Erde und Gras, von Schafen kurz gehalte
 ## Yearbook
 
 - Gebaut und erhöht durch den [Deichbau](process_deichbau.md), Geschlecht für Geschlecht.
-- In der [Sturmflut 1962](plot_04_sturmflut_1962.md) gebrochen und danach höher gebaut als zuvor.
+- In der [Grote Mandränke 1362](plot_02_mandraenke_1362.md) auf ganzer Länge gebrochen und danach höher gebaut als zuvor.
 - Gehütet vom [Deichgrafen](position_deichgraf.md), dessen Amt über ihn wacht.

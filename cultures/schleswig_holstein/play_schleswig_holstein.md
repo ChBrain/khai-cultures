@@ -28,6 +28,7 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 
 **Personas**
 
+- [Jürgen Wullenwever](persona_wullenwever.md)
 - [Theodor Storm](persona_storm.md)
 - [Karl Artelt](persona_artelt.md)
 - [Okke](persona_okke.md)
@@ -36,6 +37,7 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 **Places**
 
 - [Kiel](place_kiel.md)
+- [Lübeck](place_luebeck.md)
 - [das Wattenmeer](place_wattenmeer.md)
 - [Flensburg](place_flensburg.md)
 
@@ -47,6 +49,7 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 **Positions**
 
 - [der Deichgraf](position_deichgraf.md)
+- [der Kaufmann](position_kaufmann.md)
 - [Moin](position_moin.md)
 - [das Grenzland](position_grenzland.md)
 
@@ -62,21 +65,25 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 
 ## Triggers
 
-**[Plot 1: Der Deutsch-Dänische Krieg 1864](plot_01_1864.md)**
+**[Plot 1: Die Hanse](plot_01_hanse.md)**
+
+[Lübeck](place_luebeck.md) wird Königin der Hanse und beherrscht den Handel der Ostsee. Nicht ein Fürst regiert, sondern der [Kaufmann](position_kaufmann.md) und der Rat der Bürger; [Wullenwever](persona_wullenwever.md) kämpft später vergeblich um diese alte Vormacht.
+
+**[Plot 2: Die Grote Mandränke 1362](plot_02_mandraenke_1362.md)**
+
+Ein Orkan treibt die Nordsee gegen die Küste, der [Deich](piece_deich.md) bricht auf ganzer Länge, und Rungholt versinkt für immer. Die Küstenlinie ist danach eine andere, und das Land lernt, dass nur besteht, wer das Amt des [Deichgrafen](position_deichgraf.md) achtet.
+
+**[Plot 3: Der Deutsch-Dänische Krieg 1864](plot_03_1864.md)**
 
 Die Herzogtümer werden mit Gewalt aus dänischer Hand gelöst und preussisch. [Storm](persona_storm.md) kehrt aus dem Exil heim, doch die Frage, wem das [Grenzland](position_grenzland.md) gehört, ist niedergerungen, nicht beantwortet.
 
-**[Plot 2: Der Kieler Matrosenaufstand 1918](plot_02_kieler_matrosenaufstand.md)**
+**[Plot 4: Der Kieler Matrosenaufstand 1918](plot_04_kieler_matrosenaufstand.md)**
 
 In [Kiel](place_kiel.md) verweigern die Matrosen den sinnlosen letzten Befehl. [Artelt](persona_artelt.md) führt die Meuterei mit an, und von der stillen Küste springt der Funke über das ganze Reich.
 
-**[Plot 3: Die Volksabstimmung in Schleswig 1920](plot_03_volksabstimmung_1920.md)**
+**[Plot 5: Die Volksabstimmung in Schleswig 1920](plot_05_volksabstimmung_1920.md)**
 
 Zum ersten Mal wird die alte Grenzfrage mit Stimmzetteln entschieden, nicht mit Waffen. Um [Flensburg](place_flensburg.md) bleibt das Land deutsch, der Norden wird dänisch, und das [Grenzland](position_grenzland.md) lernt, zweierlei zugleich zu sein.
-
-**[Plot 4: Die Sturmflut 1962](plot_04_sturmflut_1962.md)**
-
-Der Orkan treibt die See gegen die Küste, der [Deich](piece_deich.md) bricht, Menschen ertrinken. Danach baut das Land höher und achtet das Amt des [Deichgrafen](position_deichgraf.md), der über den Schutz wacht.
 
 ## Stakes
 

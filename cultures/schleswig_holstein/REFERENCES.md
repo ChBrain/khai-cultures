@@ -37,13 +37,14 @@ The plots, the historic personas they cast, the places, and the pieces are drawn
 from the public historical record. They are credited here and never claimed; the
 staging is original work.
 
-| Subject                        | In this culture                                                                                                  | Scope                                                                          |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| The Second Schleswig War, 1864 | [plot_01_1864.md](plot_01_1864.md), [persona_storm.md](persona_storm.md)                                         | The Prusso-Austrian war against Denmark and the passing of the duchies.        |
-| The Kiel mutiny, 1918          | [plot_02_kieler_matrosenaufstand.md](plot_02_kieler_matrosenaufstand.md), [persona_artelt.md](persona_artelt.md) | Karl Artelt, the Kiel sailors' revolt, and the start of the German Revolution. |
-| The Schleswig plebiscite, 1920 | [plot_03_volksabstimmung_1920.md](plot_03_volksabstimmung_1920.md)                                               | The vote that drew the German-Danish border and the protected minorities.      |
-| The North Sea flood, 1962      | [plot_04_sturmflut_1962.md](plot_04_sturmflut_1962.md)                                                           | The storm tide that broke the dykes along the coast.                           |
-| Der Schimmelreiter             | [piece_schimmelreiter.md](piece_schimmelreiter.md)                                                               | Theodor Storm's novella of the dyke master Hauke Haien (public domain).        |
+| Subject                        | In this culture                                                                                                              | Scope                                                                              |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| The Hanseatic League           | [plot_01_hanse.md](plot_01_hanse.md), [place_luebeck.md](place_luebeck.md), [persona_wullenwever.md](persona_wullenwever.md) | Lübeck as Queen of the Hanse; Jürgen Wullenwever's failed 1530s bid to restore it. |
+| The Great Drowning, 1362       | [plot_02_mandraenke_1362.md](plot_02_mandraenke_1362.md)                                                                     | The Grote Mandränke storm tide that sank Rungholt and remade the coastline.        |
+| The Second Schleswig War, 1864 | [plot_03_1864.md](plot_03_1864.md), [persona_storm.md](persona_storm.md)                                                     | The Prusso-Austrian war against Denmark and the passing of the duchies.            |
+| The Kiel mutiny, 1918          | [plot_04_kieler_matrosenaufstand.md](plot_04_kieler_matrosenaufstand.md), [persona_artelt.md](persona_artelt.md)             | Karl Artelt, the Kiel sailors' revolt, and the start of the German Revolution.     |
+| The Schleswig plebiscite, 1920 | [plot_05_volksabstimmung_1920.md](plot_05_volksabstimmung_1920.md)                                                           | The vote that drew the German-Danish border and the protected minorities.          |
+| Der Schimmelreiter             | [piece_schimmelreiter.md](piece_schimmelreiter.md)                                                                           | Theodor Storm's novella of the dyke master Hauke Haien (public domain).            |
 
 The two defining personas, [Okke](persona_okke.md) and [Merle](persona_merle.md),
 are archetypes, not historical individuals: composites that carry the

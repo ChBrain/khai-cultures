@@ -35,4 +35,4 @@ Eine düstere, kühle Geschichte aus Nebel, Sturm und Aberglaube, getragen von d
 
 - Geschrieben von [Storm](persona_storm.md) als sein letztes und grösstes Werk.
 - Erzählt vom [Deichgrafen](position_deichgraf.md), der dem Wasser einen besseren Deich abringt.
-- Gelesen als das Bild, in dem die Küste ihren ewigen Kampf gegen die [Flut](plot_04_sturmflut_1962.md) wiedererkennt.
+- Gelesen als das Bild, in dem die Küste ihren ewigen Kampf gegen die [Flut](plot_02_mandraenke_1362.md) wiedererkennt.

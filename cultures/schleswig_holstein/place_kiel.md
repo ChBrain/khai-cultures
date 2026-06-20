@@ -25,7 +25,7 @@ Die Landeshauptstadt an ihrer langen Förde, eine Stadt des Wassers und der Schi
 
 ## Holds
 
-- den [Kieler Matrosenaufstand 1918](plot_02_kieler_matrosenaufstand.md): hier begann die Meuterei, die das Kaiserreich stürzte.
+- den [Kieler Matrosenaufstand 1918](plot_04_kieler_matrosenaufstand.md): hier begann die Meuterei, die das Kaiserreich stürzte.
 - die [Kieler Woche](process_kieler_woche.md): das grosse Segelfest, das die Stadt zur offenen See hin öffnet.
 
 ## Offers

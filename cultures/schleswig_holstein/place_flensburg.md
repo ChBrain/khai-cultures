@@ -25,7 +25,7 @@ Die nördlichste Stadt des Landes, dicht an der dänischen Grenze, an ihrer eige
 
 ## Holds
 
-- die [Volksabstimmung 1920](plot_03_volksabstimmung_1920.md): hier wurde die Grenze in Frieden gezogen.
+- die [Volksabstimmung 1920](plot_05_volksabstimmung_1920.md): hier wurde die Grenze in Frieden gezogen.
 - das [Grenzland](position_grenzland.md): die gelebte Nachbarschaft zweier Sprachen und zweier Zugehörigkeiten.
 
 ## Offers

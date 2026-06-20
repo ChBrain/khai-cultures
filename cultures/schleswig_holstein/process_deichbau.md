@@ -29,7 +29,7 @@ Hin zu einem Deich, der höher und stärker ist, als die letzte Flut es verlangt
 
 ## Lever
 
-Die Erinnerung an die [Sturmflut](plot_04_sturmflut_1962.md) treibt ihn an, gestützt vom alten Satz, dass weichen muss, wer nicht deichen will. Dagegen steht nur die Bequemlichkeit der ruhigen Jahre, und gegen die See zählt sie nichts.
+Die Erinnerung an die [Grote Mandränke](plot_02_mandraenke_1362.md) treibt ihn an, gestützt vom alten Satz, dass weichen muss, wer nicht deichen will. Dagegen steht nur die Bequemlichkeit der ruhigen Jahre, und gegen die See zählt sie nichts.
 
 ## Echo
 

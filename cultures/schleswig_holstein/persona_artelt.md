@@ -26,7 +26,7 @@ Ein Matrose und Heizer, einer von unten. Kein Offizier und kein Redner von Beruf
 
 ## Action
 
-Im [Kieler Matrosenaufstand 1918](plot_02_kieler_matrosenaufstand.md) ist er einer der Wortführer, organisiert die Räte und hilft, die Meuterei in [Kiel](place_kiel.md) zu einer Bewegung zu machen, die das ganze Reich ergreift.
+Im [Kieler Matrosenaufstand 1918](plot_04_kieler_matrosenaufstand.md) ist er einer der Wortführer, organisiert die Räte und hilft, die Meuterei in [Kiel](place_kiel.md) zu einer Bewegung zu machen, die das ganze Reich ergreift.
 
 ## Shadow
 
