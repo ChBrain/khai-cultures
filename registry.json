@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "cultures": [
     {
       "kind": "culture",
@@ -45,7 +45,11 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
-      "references": ["austria", "germany", "switzerland"]
+      "references": [
+        "austria",
+        "germany",
+        "switzerland"
+      ]
     }
   ]
 }
