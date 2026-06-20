@@ -4,14 +4,19 @@
   "version": "0.2.0",
   "cultures": [
     {
+      "kind": "culture",
       "id": "germany",
       "title": "Germany",
-      "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory."
+      "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory.",
+      "iso": "DE"
     },
     {
+      "kind": "culture",
       "id": "schleswig_holstein",
       "title": "Schleswig-Holstein",
-      "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke."
+      "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
+      "iso": "DE-SH"
     }
-  ]
+  ],
+  "groups": []
 }

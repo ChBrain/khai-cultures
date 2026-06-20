@@ -3,6 +3,7 @@ khai: play
 title: "Schleswig-Holstein"
 description: "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke."
 declared: "Schleswig-Holstein"
+language: de
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

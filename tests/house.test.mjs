@@ -43,7 +43,9 @@ describe("Cultures house: content conforms to the canon", () => {
   });
 
   it("every instance satisfies the language policy", () => {
-    const results = validateProjectLanguages(root);
+    // Point the validator at the content collection; its default (root/plays)
+    // does not exist in a cultures house, which would silently no-op the check.
+    const results = validateProjectLanguages(root, { contentDir: culturesDir });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
   }, 30000);
