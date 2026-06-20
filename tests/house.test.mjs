@@ -25,20 +25,6 @@ const REQUIRED_TYPES = [
   "piece_",
 ];
 
-// The basenames of every strictly-local markdown link in a file. Mirrors the
-// isolation walk's parser, so "casts a persona" reads casting the same way.
-function linkedBasenames(text) {
-  const re = /\]\(([^()\s]+)\)/g;
-  const out = [];
-  let m;
-  while ((m = re.exec(text))) {
-    const target = m[1].split("#")[0];
-    if (!target || /^[a-z]+:\/\//i.test(target)) continue;
-    out.push(target.split(/[/\\]/).pop());
-  }
-  return out;
-}
-
 function cultureIds() {
   if (!existsSync(culturesDir)) return [];
   return readdirSync(culturesDir, { withFileTypes: true })
@@ -71,47 +57,11 @@ describe("Cultures house: content conforms to the canon", () => {
     expect(() => referenceCard(refText)).not.toThrow();
   });
 
-  it("every culture is isolated (no relative links pointing outside its directory)", () => {
-    const errors = [];
-    // Green on a house whose content folder is not present yet (e.g. before the
-    // cultures/ seed lands): nothing to walk, nothing to isolate.
-    if (!existsSync(culturesDir)) {
-      expect(errors).toEqual([]);
-      return;
-    }
-
-    function walk(dir) {
-      for (const entry of readdirSync(dir, { withFileTypes: true })) {
-        const fullPath = join(dir, entry.name);
-        if (entry.isDirectory()) {
-          if (entry.name.startsWith(".") || entry.name === "node_modules") continue;
-          walk(fullPath);
-        } else if (entry.name.endsWith(".md")) {
-          // Only check files inside a culture subdirectory (a child of cultures/)
-          const relativeDir = dirname(fullPath)
-            .slice(culturesDir.length)
-            .replace(/^[/\\]+/, "");
-          if (!relativeDir) continue;
-
-          const content = readFileSync(fullPath, "utf8");
-          const re = /\]\(([^()\s]+)\)/g;
-          let m;
-          while ((m = re.exec(content))) {
-            const target = m[1].split("#")[0];
-            if (!target || /^[a-z]+:\/\//i.test(target)) continue;
-
-            // Relative link must be strictly local (no traversal or folder nesting)
-            if (target.includes("..") || target.includes("/") || target.includes("\\")) {
-              errors.push(`${fullPath}: relative link "${m[1]}" escapes local culture directory`);
-            }
-          }
-        }
-      }
-    }
-
-    walk(culturesDir);
-    expect(errors).toEqual([]);
-  });
+  // Note: strict per-culture isolation was retired in favour of ownership +
+  // resolvable casting (see REFERENCE.md and the design of record). A play may
+  // cast a file in another play's directory; the engine's link check
+  // (validateProject, above) is the guard — it proves every cast resolves to a
+  // real owned file, so a broken cross-play link is already a finding there.
 });
 
 // The mandatory setup: a culture is a complete theatre. Every culture/<id>/
@@ -137,15 +87,10 @@ describe("Cultures house: every culture is a complete theatre", () => {
       if (count("plot_") < 3) errors.push(`>=3 plot_ (history) required, found ${count("plot_")}`);
       if (count("persona_") < 2) errors.push(`>=2 persona_ required, found ${count("persona_")}`);
 
-      // Casting law: a plot is a historical event, so it casts the historic
-      // personas of that event — it must link at least one persona_ in this dir.
-      for (const plot of files.filter((f) => f.startsWith("plot_"))) {
-        const casts = linkedBasenames(readFileSync(join(dir, plot), "utf8")).some((b) =>
-          b.startsWith("persona_"),
-        );
-        if (!casts)
-          errors.push(`plot ${plot} casts no persona (a historical event must cast its figures)`);
-      }
+      // Casting is type-agnostic: a plot casts whatever khai type the scene
+      // needs, not necessarily a persona. The canon already enforces coverage
+      // (every plot casts >=1 element of its play's Company, any type) via
+      // validateProject above, so the per-plot check is left to the engine.
 
       // Front matter: a culture carries its own README + REFERENCES, like a play.
       for (const doc of ["README.md", "REFERENCES.md"]) {
