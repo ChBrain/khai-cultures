@@ -45,11 +45,7 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
-      "references": [
-        "austria",
-        "germany",
-        "switzerland"
-      ]
+      "references": ["austria", "germany", "switzerland"]
     }
   ]
 }
