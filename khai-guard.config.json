@@ -28,6 +28,11 @@
         "allow": ["cultures/**"]
       },
       {
+        "pattern": "group/*",
+        "layer": "solution",
+        "allow": ["groups/**"]
+      },
+      {
         "pattern": "governance/*",
         "layer": "governance",
         "allow": [
