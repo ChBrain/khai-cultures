@@ -119,10 +119,27 @@ stamps each entry with its `kind` (`culture` or `group`) and folds in a culture'
 `iso` from its `geo.json`; the website reads `kind` to switch culture-versus-group
 and resolves a group's `references` to place its members.
 
+### The language engine
+
+The house installs khai **engines** — domain content packages, declared as
+dependencies, that the conformance kit discovers and whose wiring it enforces.
+The **language engine** (`@chbrain/khai-engine-language`) models language as a
+process: the gap a persona crosses, channel by channel (speaking, hearing,
+reading, writing, thinking), at a width (mother-tongue, worn, carried,
+borrowed, …). Its rule on a culture is one link per persona: **every persona
+links, in its `## Projection`, the language-crossing width it holds** — a native
+in the mother tongue, a neighbour borrowing a second, a writer forging the
+written word. The width leaves are wiring targets (resolved against the engine,
+not the culture directory), so casting one needs no local file. This is the fine
+grain beneath the coarse declared `language:`: the play declares the culture's
+tongue; each persona declares _how_ it crosses, and a regional tongue the local
+detector cannot read (e.g. `nds`) is registered in `khai.languages` and routed
+to assisted verification.
+
 ---
 
 Worked example — Germany (`cultures/germany/`, anchored by `play_germany.md`,
-with `geo.json` `{ "region": "europe", "iso": "DE" }`, declared language `de`):
+with `geo.json` `{ "iso": "DE" }`, declared language `de`):
 the pitch dramatizes Germany's profile
 without naming it (there is a correct way, found by competence not rank, said
 plainly even when it stings; beneath it the long memory that something once went
