@@ -6,9 +6,10 @@ folder is **`cultures/`** (indexing a `cultures` collection) instead of `plays/`
 
 ## What lives here
 
-- `cultures/` holds the cultures: each a subdirectory of khai instances (the
-  reused canon types — persona, place, position, process) anchored by a
-  `culture_*.md`. This is the only content.
+- `cultures/` holds the cultures: each a full khai **play** staged as a culture —
+  a subdirectory of khai instances across the whole play canon (play, pitch,
+  plot, persona, position, place, process, piece) anchored by a `play_*.md`. This
+  is the only content.
 - The rest is the wiring and the gates, raised once and not improvised.
 
 ## The house is the Estate

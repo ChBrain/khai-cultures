@@ -71,6 +71,6 @@
     ]
   },
   "changesetPolicy": {
-    "countDrivenAdd": ["cultures/*/culture_*.md"]
+    "countDrivenAdd": ["cultures/*/play_*.md"]
   }
 }
