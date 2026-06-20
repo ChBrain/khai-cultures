@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein alter, nüchterner Mann mit unbeirrbarer Geduld, der erste Kanzler nach der Katastrophe. Wortkarg, beharrlich, misstrauisch gegen jeden Rausch. Er führt nicht durch grosse Reden, sondern durch verlässliche, stetige Schritte.
+Ein alter, nüchterner Mann mit unbeirrbarer Geduld, der erste Kanzler nach der Katastrophe. Wortkarg, beharrlich, misstrauisch gegen jeden Rausch. Er führt nicht durch grosse Reden, sondern durch verlässliche, stetige Schritte. Er spricht die [Muttersprache](process_speaking_mother_tongue.md), den festen Boden, von dem aus er das Land aus den Trümmern führt.
 
 ## Action
 

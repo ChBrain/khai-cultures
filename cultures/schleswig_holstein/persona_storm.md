@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Der Dichter der grauen Küste. Ein Mann des Maßes und der leisen Schwermut, Jurist und Beamter zugleich, der die karge Schönheit des Landes zwischen den Meeren in Verse und Erzählungen fasst. Kein Mann der grossen Geste, sondern der genauen, verhaltenen Beobachtung.
+Der Dichter der grauen Küste. Ein Mann des Maßes und der leisen Schwermut, Jurist und Beamter zugleich, der die karge Schönheit des Landes zwischen den Meeren in Verse und Erzählungen fasst. Kein Mann der grossen Geste, sondern der genauen, verhaltenen Beobachtung. Er [schreibt in der Muttersprache](process_writing_mother_tongue.md), für die das graue Meer und die Küste die einzige Vorlage sind.
 
 ## Action
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En Mann ut [Flensborg](place_flensburg.md), boren dicht bi de Grenz. He snackt Platt un ok en beten Däänsch, un för em is de Grenz keen Muur, man bloots en Streek up de Koort. He kennt beide Sieden un nimmt keen vun beid as Feind.
+En Mann ut [Flensborg](place_flensburg.md), boren dicht bi de Grenz. He snackt Platt un ok en beten Däänsch, un för em is de Grenz keen Muur, man bloots en Streek up de Koort. He kennt beide Sieden un nimmt keen vun beid as Feind. Dat beten Däänsch is em [bloots leent](process_speaking_borrowed.md), grad so veel, dat een sik över de Grenz verstaan kann.
 
 ## Action
 

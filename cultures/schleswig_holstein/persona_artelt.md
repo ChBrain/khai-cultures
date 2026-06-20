@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein Matrose und Heizer, einer von unten. Kein Offizier und kein Redner von Beruf, sondern ein Mann der Werft und des Maschinenraums, der nicht mehr hinnimmt, dass über sein Leben von oben verfügt wird.
+Ein Matrose und Heizer, einer von unten. Kein Offizier und kein Redner von Beruf, sondern ein Mann der Werft und des Maschinenraums, der nicht mehr hinnimmt, dass über sein Leben von oben verfügt wird. Er redet die klare [Muttersprache](process_speaking_mother_tongue.md) des Maschinenraums, in der keiner über dem anderen steht.
 
 ## Action
 

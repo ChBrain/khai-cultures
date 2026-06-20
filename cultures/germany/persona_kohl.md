@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein breiter, behäbiger Mann mit langem Atem, der unterschätzt wird und gerade darum gewinnt. Er denkt in grossen Linien und langen Zeiträumen, und er hält an einem Ziel fest, bis die Stunde reif ist.
+Ein breiter, behäbiger Mann mit langem Atem, der unterschätzt wird und gerade darum gewinnt. Er denkt in grossen Linien und langen Zeiträumen, und er hält an einem Ziel fest, bis die Stunde reif ist. Er redet die breite [Muttersprache](process_speaking_mother_tongue.md) seiner Heimat, die ihn unterschätzen lässt und ihm gerade darum nützt.
 
 ## Action
 

@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Eine junge Frau aus der Gegend um [Kiel](place_kiel.md), aufgewachsen mit der offenen, vernetzten Welt. Sie arbeitet an der Energie aus Wind und Meer, fährt für ein langes Wochenende nach Dänemark, als wäre keine Grenze da, und spricht Hochdeutsch und Englisch, kaum noch Platt.
+Eine junge Frau aus der Gegend um [Kiel](place_kiel.md), aufgewachsen mit der offenen, vernetzten Welt. Sie arbeitet an der Energie aus Wind und Meer, fährt für ein langes Wochenende nach Dänemark, als wäre keine Grenze da, und spricht Hochdeutsch und Englisch, kaum noch Platt. Das Englische [trägt sie wie selbstverständlich](process_speaking_worn.md); es liegt ihr schon auf der Zunge, ehe sie danach greift.
 
 ## Action
 

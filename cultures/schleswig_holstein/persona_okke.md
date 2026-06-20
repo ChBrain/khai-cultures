@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Ein Mann über sechzig von der Westküste, Bauer und einst Fischer, wortkarg, wettergegerbt, mit dem trockenen Blick dessen, der das Meer kennt. Er traut keinem grossen Wort und keiner schnellen Begeisterung, nur der Arbeit, die hält.
+Ein Mann über sechzig von der Westküste, Bauer und einst Fischer, wortkarg, wettergegerbt, mit dem trockenen Blick dessen, der das Meer kennt. Er traut keinem grossen Wort und keiner schnellen Begeisterung, nur der Arbeit, die hält. Sein Platt ist ihm [Muttersprache](process_speaking_mother_tongue.md), die Sprache, die unter allem anderen liegt.
 
 ## Action
 

@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Eine Frau über sechzig, im Osten aufgewachsen und durch die Jahre vor 1989 geprägt. Sparsam, gründlich, misstrauisch gegen grosse Versprechen. Sie hält auf Ordnung, auf Pünktlichkeit und auf das gegebene Wort, und sie siezt jeden, den sie nicht lange kennt.
+Eine Frau über sechzig, im Osten aufgewachsen und durch die Jahre vor 1989 geprägt. Sparsam, gründlich, misstrauisch gegen grosse Versprechen. Sie hält auf Ordnung, auf Pünktlichkeit und auf das gegebene Wort, und sie siezt jeden, den sie nicht lange kennt. Sie sagt das Unbequeme gerade heraus, in der [Muttersprache](process_speaking_mother_tongue.md), die keine Beschönigung kennt.
 
 ## Action
 

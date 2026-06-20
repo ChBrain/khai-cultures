@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein Mönch und Gelehrter, der seine Sache, die Schrift, beherrscht wie kein Zweiter und sich darauf das Recht nimmt, sie gegen die höchste Obrigkeit zu deuten. Streng, derb, unbeugsam im Gewissen. Er spricht und schreibt ein Deutsch, das jeder versteht.
+Ein Mönch und Gelehrter, der seine Sache, die Schrift, beherrscht wie kein Zweiter und sich darauf das Recht nimmt, sie gegen die höchste Obrigkeit zu deuten. Streng, derb, unbeugsam im Gewissen. Er spricht und schreibt ein Deutsch, das jeder versteht. Er gibt dem Volk die Schrift, indem er sie [in die Muttersprache schreibt](process_writing_mother_tongue.md), und schafft so erst die Sprache, in der alle lesen können.
 
 ## Action
 

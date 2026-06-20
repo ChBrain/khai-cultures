@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein Kaufmann und Bürgermeister, aufgestiegen aus dem Handel, nicht aus dem Adel. Ein Mann von Ehrgeiz und Härte, der die alte Grösse [Lübecks](place_luebeck.md) nicht hinnehmen will als etwas Vergangenes, sondern sie mit aller Kraft zurückholen möchte.
+Ein Kaufmann und Bürgermeister, aufgestiegen aus dem Handel, nicht aus dem Adel. Ein Mann von Ehrgeiz und Härte, der die alte Grösse [Lübecks](place_luebeck.md) nicht hinnehmen will als etwas Vergangenes, sondern sie mit aller Kraft zurückholen möchte. Die Sprache ist ihm Werkzeug: er [greift nach ihr wie nach einem Gerät](process_speaking_carried.md), das in der Hand liegt, eh die Aufgabe genannt ist.
 
 ## Action
 
