@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "cultures": [
     {
       "kind": "culture",
@@ -30,6 +30,13 @@
       "title": "Schleswig-Holstein",
       "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
       "iso": "DE-SH"
+    },
+    {
+      "kind": "culture",
+      "id": "switzerland",
+      "title": "Switzerland",
+      "description": "Switzerland staged as a culture: a nation made by will, holding four languages together as one.",
+      "iso": "CH"
     }
   ],
   "groups": []
