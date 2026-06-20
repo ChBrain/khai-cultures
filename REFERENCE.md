@@ -23,7 +23,8 @@ minimums:
 - `play_` — the culture itself (the anchor): exactly one.
 - `pitch_` — the Hofstede layer: one.
 - `plot_` — a historical event (history is the plot line): three or more, and
-  **each plot casts the historic personas of that event**.
+  **each plot casts the elements that event needs** — its figures, places, or
+  artifacts; whatever khai type the scene requires.
 - `persona_` — the people: at least two **defining** personas (in generational
   tension), plus the historic personas the plots cast.
 - `position_` — a language position (a role the language encodes): one or more.
@@ -56,8 +57,12 @@ What the house refuses, and the laws it holds every culture to.
   link target paths. Enforced by `@chbrain/khai-language`.
 - **Multilingual cultures fan out.** A culture with more than one language
   carries the corresponding khai files in **each** language.
-- **Strict per-culture isolation.** A culture's files never link outside their
-  own `cultures/<id>/` directory.
+- **Ownership, not isolation.** Every khai file is owned by exactly one play's
+  directory — no duplication. Any play may **cast** any file by a relative link
+  that resolves to a real owned file (enforced by the engine's link check, which
+  proves the cast target exists). Give a thing to whoever owns it and cast it by
+  reference: a culture's figure lives in that culture; another play references it
+  rather than copying it.
 - **Credit, never claim.** Public-domain sources are attributed in
   `REFERENCES.md`.
 - **No culture ships unverified.** The house test holds every culture to the
@@ -72,7 +77,7 @@ Each khai type carries a fixed cultural meaning. The mapping is the contract.
 | ----------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
 | `play_`     | the culture itself (the anchor)                   | 1 (geo lives in `geo.json`, not frontmatter — see below)                 |
 | `pitch_`    | the Hofstede layer (written from the data)        | 1                                                                        |
-| `plot_`     | a historical event — history is the plot line     | 3 or more; each casts its historic personas                              |
+| `plot_`     | a historical event — history is the plot line     | 3 or more; each casts the elements it needs (any khai type)              |
 | `persona_`  | the people                                        | 2 defining (generational tension) + the historic personas the plots cast |
 | `position_` | a language position (a role the language encodes) | 1 or more                                                                |
 | `place_`    | a place (the capital at minimum)                  | 1 or more                                                                |
@@ -83,11 +88,15 @@ Per culture, beyond the khai instances: a `README.md` (the culture's
 front-of-house identity and its Estate link back to this house), a
 `REFERENCES.md` (provenance: the historical sources behind the plots and
 personas, public-domain credits, and the Hofstede source data), and a
-`geo.json` (the culture's place on the map: `{ region, iso }`, with optional
-`parent`/`state` for a sub-national culture). **`geo.json` carries the geo, not
-the play frontmatter** — khai frontmatter keys are closed, so the play file
-cannot hold `region`/`iso`. The website producer reads `geo.json` to emit the
-map manifest (`available.json`); the language is the culture's declared
+`geo.json` carrying the **one required geo fact: `{ "iso": "DE-BY" }`** (ISO
+3166-1 for a country, 3166-2 for a subdivision). The website derives `parent`
+(the subdivision code embeds its country), display `name`, and `region`/fill
+from ISO atlases (UN M49 macro-regions), so those are optional overrides, not
+required fields. A culture with no `iso` is non-mappable: it still lists and can
+be referenced by a group, it just does not place on the map. **`geo.json`
+carries the geo, not the play frontmatter** — khai frontmatter keys are closed,
+so the play file cannot hold `iso`. The website producer reads `geo.json` to
+emit the map manifest (`available.json`); the language is the culture's declared
 language, enforced by `@chbrain/khai-language`, not a frontmatter field here.
 
 ---
