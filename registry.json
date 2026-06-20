@@ -1,8 +1,15 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "cultures": [
+    {
+      "kind": "culture",
+      "id": "austria",
+      "title": "Austria",
+      "description": "Austria staged as a culture: the same German tongue as its neighbour, in a softer, baroque, charming key.",
+      "iso": "AT"
+    },
     {
       "kind": "culture",
       "id": "denmark",
