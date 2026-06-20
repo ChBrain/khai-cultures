@@ -3,6 +3,7 @@ khai: play
 title: "Germany"
 description: "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory."
 declared: "Deutschland"
+language: de
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
