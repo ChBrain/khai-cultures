@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Ein junger Mann Mitte zwanzig, geboren nach der Einheit, der das geteilte Land nur aus Erzählungen kennt. Offen, direkt, ungeduldig mit alten Formen. Er duzt rasch, hält die strenge Anrede für überholt und will die Wahrheit lieber gleich als verpackt.
+Ein junger Mann Mitte zwanzig, geboren nach der Einheit, der das geteilte Land nur aus Erzählungen kennt. Offen, direkt, ungeduldig mit alten Formen. Er duzt rasch, hält die strenge Anrede für überholt und will die Wahrheit lieber gleich als verpackt. Das Englische hält er tief genug, um [darin zu denken](process_thinking_worn.md), und wechselt die Sprache, wie man die Tastatur wechselt.
 
 ## Action
 

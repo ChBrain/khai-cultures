@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Der eiserne Kanzler. Ein Mann der kühlen Berechnung und des eisernen Willens, der die Macht nüchtern als Werkzeug begreift. Er traut keinem Pathos und keinem schnellen Gefühl, nur dem geprüften Plan und dem festen Apparat.
+Der eiserne Kanzler. Ein Mann der kühlen Berechnung und des eisernen Willens, der die Macht nüchtern als Werkzeug begreift. Er traut keinem Pathos und keinem schnellen Gefühl, nur dem geprüften Plan und dem festen Apparat. Die deutsche Sprache spricht er als [Muttersprache](process_speaking_mother_tongue.md), den selbstverständlichen Grund, auf dem all sein Verhandeln ruht.
 
 ## Action
 

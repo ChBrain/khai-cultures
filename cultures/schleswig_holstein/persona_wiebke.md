@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En Fru ut [Husum](place_husum.md), de grise Stadt an't grise Meer. Se fohrt mit't Boot rut up't [Wattenmeer](place_wattenmeer.md) un fischt [Krabben](piece_krabben.md), as ehr Vader un ehr Grootvader dat al maakt hebbt. Se leevt na de Tieden, nich na de Klock.
+En Fru ut [Husum](place_husum.md), de grise Stadt an't grise Meer. Se fohrt mit't Boot rut up't [Wattenmeer](place_wattenmeer.md) un fischt [Krabben](piece_krabben.md), as ehr Vader un ehr Grootvader dat al maakt hebbt. Se leevt na de Tieden, nich na de Klock. Platt is ehr de [Moderspraak](process_speaking_mother_tongue.md), de Spraak, de ünner all dat annere liggt.
 
 ## Action
 
