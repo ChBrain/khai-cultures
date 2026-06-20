@@ -4,9 +4,11 @@
   "version": "0.1.2",
   "cultures": [
     {
+      "kind": "culture",
       "id": "germany",
       "title": "Germany",
-      "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory."
+      "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory.",
+      "iso": "DE"
     }
   ]
 }
