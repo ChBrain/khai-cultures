@@ -52,11 +52,17 @@ What the house refuses, and the laws it holds every culture to.
   written _from_ the scores but never says "uncertainty avoidance", "power
   distance", or any dimension, and carries no numbers. The data lives in
   `REFERENCES.md`; the pitch is its invisible hand.
-- **Own language.** A culture is written in its declared language; English is
-  permitted only in section headings, the Owner block, YAML frontmatter, and
-  link target paths. Enforced by `@chbrain/khai-language`.
+- **Own language.** A culture is written in its declared language, set per play
+  (or per file) with a `language:` frontmatter key; English is permitted only in
+  section headings, the Owner block, YAML frontmatter, and link target paths.
+  Enforced by `@chbrain/khai-language`. A regional language the local detector
+  cannot recognize (e.g. `nds`, Plattdeutsch) is registered in `package.json`
+  `khai.languages`, which routes its files to assisted verification instead of
+  the local detector.
 - **Multilingual cultures fan out.** A culture with more than one language
-  carries the corresponding khai files in **each** language.
+  carries the corresponding khai files in **each** language; a single file may
+  also declare its own `language:` (e.g. a persona who speaks Platt) while the
+  rest of the culture stays in the play's language.
 - **Ownership, not isolation.** Every khai file is owned by exactly one play's
   directory — no duplication. Any play may **cast** any file by a relative link
   that resolves to a real owned file (enforced by the engine's link check, which
@@ -98,6 +104,20 @@ carries the geo, not the play frontmatter** — khai frontmatter keys are closed
 so the play file cannot hold `iso`. The website producer reads `geo.json` to
 emit the map manifest (`available.json`); the language is the culture's declared
 language, enforced by `@chbrain/khai-language`, not a frontmatter field here.
+
+### Groups
+
+A **group** (a bloc, alliance, or sphere several cultures belong to — DACH,
+NATO, the EU) is itself a khai **play**, living in the shared `groups/`
+collection alongside `cultures/`. `cultures/` is the primary, counted collection
+(the minor IS the culture count); `groups/` is a **referencing** collection
+(declared in `package.json` `khai.collections`), anchored by `play_` and **not**
+counted. A group play casts its member culture plays the same way any play casts
+any file; the registry build derives a group entry's `references` from exactly
+those casts (gated by the link check, so a reference cannot dangle). The registry
+stamps each entry with its `kind` (`culture` or `group`) and folds in a culture's
+`iso` from its `geo.json`; the website reads `kind` to switch culture-versus-group
+and resolves a group's `references` to place its members.
 
 ---
 

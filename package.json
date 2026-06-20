@@ -31,6 +31,16 @@
       "key": "cultures",
       "anchor": "play_"
     },
+    "collections": [
+      {
+        "dir": "groups",
+        "anchor": "play_",
+        "references": "cultures"
+      }
+    ],
+    "languages": [
+      "nds"
+    ],
     "card": {
       "wire": "The Cultures house: a collection of khai cultures."
     }
