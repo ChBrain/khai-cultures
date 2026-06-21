@@ -49,6 +49,7 @@ A small, hard-won nation that fought free on the field, reformed its faith into 
 - [the Kirk](position_the_kirk.md)
 - [egalitarianism](position_egalitarianism.md)
 - [the clan](position_the_clan.md)
+- [the Scots tongue](position_the_scots_tongue.md)
 
 **Pieces**
 
@@ -58,6 +59,11 @@ A small, hard-won nation that fought free on the field, reformed its faith into 
 **Pitches**
 
 - [the Scottish key](pitch_sct.md)
+
+**Plans**
+
+- [the Gaelic revival](plan_the_gaelic_revival.md)
+- [the national question](plan_the_national_question.md)
 
 ## Triggers
 
