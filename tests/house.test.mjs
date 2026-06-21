@@ -132,3 +132,28 @@ describe("Cultures house: every culture is a complete theatre", () => {
     });
   }
 });
+
+// The engines a culture runs on are CONTENT, not tooling. npm's *production*
+// dependency graph is the single source of truth for which engines a culture
+// carries (the zip bundler derives the set from it, never a hardcoded list), so
+// every @chbrain/khai-engine-* must be a runtime `dependency`. An engine stranded
+// in `devDependencies` is present for the test run (engine discovery scans
+// node_modules) yet invisible to the production graph — green here, but dropped
+// from the bundle. That split is the exact gap this guard closes: a finding, not
+// a style choice.
+describe("Cultures house: engines are declared as content dependencies", () => {
+  const pkg = JSON.parse(readFileSync(join(root, "package.json"), "utf8"));
+  const isEngine = (name) => name.startsWith("@chbrain/khai-engine-");
+
+  it("no engine is stranded in devDependencies", () => {
+    const stranded = Object.keys(pkg.devDependencies ?? {}).filter(isEngine);
+    expect(
+      stranded,
+      `engines are content and must be runtime dependencies; move to "dependencies": ${stranded.join(", ")}`,
+    ).toEqual([]);
+  });
+
+  it("the spine engine is a runtime dependency (the contract every culture runs on)", () => {
+    expect(Object.keys(pkg.dependencies ?? {})).toContain("@chbrain/khai-engine-spine");
+  });
+});
