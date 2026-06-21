@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "cultures": [
     {
       "kind": "culture",
@@ -44,6 +44,13 @@
       "title": "Iceland",
       "description": "Iceland staged as a culture: a small, tough island nation that trusts it will sort itself out and lets none stand above.",
       "iso": "IS"
+    },
+    {
+      "kind": "culture",
+      "id": "northern_ireland",
+      "title": "Northern Ireland",
+      "description": "Northern Ireland staged as a culture: two traditions held in one small place, and a hard-won peace they made together.",
+      "iso": "GB-NIR"
     },
     {
       "kind": "culture",
