@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ung kona um tvítugt, alin upp í opnum, samtengdum heimi. Hún ferðast, vinnur í tækni og skapandi greinum og tekur jafnréttinu og sjálfstæðinu sem sjálfsögðum hlut. Enskuna [ber hún sem sjálfsagðan hlut](process_speaking_worn.md); hún liggur henni á tungu áður en hún teygir sig eftir henni.
+Ung kona um tvítugt, alin upp í opnum, samtengdum heimi. Hún ferðast, vinnur í tækni og skapandi greinum og tekur jafnréttinu og sjálfstæðinu sem sjálfsögðum hlut. Hún [talar, heyrir og hugsar](process_speaking_mother_tongue.md) á móðurmálinu, en enskuna [ber hún sem sjálfsagðan hlut](process_speaking_worn.md) - hún liggur henni á tungu áður en hún teygir sig eftir henni - og hún [les hana og ritar](process_reading_followed.md) allan daginn í tækni og skapandi greinum: þar er gjá ungu kynslóðarinnar, tvær tungur sem báðar liggja henni nærri, og íslenska sem hægt víkur fyrir enskunni í vinnu og á skjá, þrátt fyrir alla málrækt.
 
 ## Action
 
