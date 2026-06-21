@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-cultures": patch
+---
+
+Bring France up to the language-engine standard and add its plans. The four defining personas now carry full per-channel reads under Projection, each showing the gap at the limit of its tongue: de Gaulle (French as the verb-weapon, English handled at arm's length while he demands the world hear France in French), Zola (French written to public force, the rigged dossier read to its flaw, his Italian father's tongue only caught), Colette (French whole and savoured, the world's English left on the threshold), and Yasmine (French held entire with every register, her parents' Arabic only caught and thinning in one generation, English carried for the grandes ecoles). Two language-themed plans join the play's Company: l'ecole republicaine (the free secular school that made French the common tongue, at the cost of the regional languages) and la defense de la langue francaise (the Academie, the loi Toubon, the Francophonie holding French as a living world language). Content fix at the same culture count.
