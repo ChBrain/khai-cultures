@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A woman in her late seventies, of the post-war generation that grew up with rationing and the new welfare state. Thrifty, courteous, and undemonstrative, she keeps strong feeling behind a level voice and meets trouble with the remark that it could be worse. She speaks her [mother tongue](process_speaking_mother_tongue.md) plainly and understated, distrustful of anyone who lays it on too thick.
+A woman in her late seventies, of the post-war generation that grew up with rationing and the new welfare state. Thrifty, courteous, and undemonstrative, she keeps strong feeling behind a level voice and meets trouble with the remark that it could be worse. She [speaks, hears, and thinks in](process_speaking_mother_tongue.md) her mother tongue plainly and understated, keeping strong feeling behind a level voice and meeting trouble with the remark that it could be worse. There is the gap: her English says least about what matters most, the louder, more confessional speech of a newer Britain strikes her as laying it on too thick, and a whole [class](position_class.md) and post-war generation are written into the very flatness of her voice.
 
 ## Action
 
