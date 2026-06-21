@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A younger man of the largely English-speaking Valleys, raised in a terraced town after the pits closed. Wry, warm, and quick with a joke, he carries the solidarity of the coalfield without the coal, and the pride without the work that built it. Rugby is half his religion; he has a few words of Welsh from school and the anthem, and he reaches for [his mother tongue](process_speaking_mother_tongue.md) of the valley - the lilting, English-laced speech of the south - as the natural ground of who he is.
+A younger man of the largely English-speaking Valleys, raised in a terraced town after the pits closed. Wry, warm, and quick with a joke, he carries the solidarity of the coalfield without the coal, and the pride without the work that built it. Rugby is half his religion. His [valley English is his mother tongue](process_speaking_mother_tongue.md), every channel of it his own; of Welsh he has only [a handful of borrowed words](process_speaking_borrowed.md) from school and the anthem, and an ear that [catches the tune of a hymn](process_hearing_caught.md) without the sense. He stands in the eisteddfod his great-grandparents made and the cynghanedd closes like a door he has no key to: he owns the place, the club, and the pride, but the tongue that carried them only as an echo.
 
 ## Action
 

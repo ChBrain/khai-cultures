@@ -59,6 +59,11 @@ A small nation that lost its last native prince to the conqueror, saw its land r
 
 - [the Welsh key](pitch_wls.md)
 
+**Plans**
+
+- [Cymraeg 2050](plan_cymraeg_2050.md)
+- [Datganoli](plan_datganoli.md)
+
 ## Triggers
 
 **[Plot 1: The Death of Llywelyn 1282](plot_01_llywelyn_1282.md)**

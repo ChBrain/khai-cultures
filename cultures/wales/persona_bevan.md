@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-A collier's son from Tredegar in the coalfield, who went down the pit at fourteen and taught himself in the miners' institute library and the debating club. Fiery, eloquent, and unbowed, he believed to his marrow that working people must stand together and that no one should be left to fall. He carried [his class voice with him](process_speaking_carried.md), the cadence and the conviction of the Valleys, onto the national stage, and never once filed off the accent of the coalfield that made him.
+A collier's son from Tredegar in the coalfield, who went down the pit at fourteen and taught himself in the miners' institute library and the debating club. Fiery, eloquent, and unbowed, he believed to his marrow that working people must stand together and that no one should be left to fall. He [speaks, reads, and writes the English of the coalfield as his mother tongue](process_speaking_mother_tongue.md), every channel of it his own; what he carries onto the national stage is not another language but the cadence and the class of the Valleys in the one he was born to. The Welsh his grandparents prayed in reaches him only as [the sound of the chapel](process_hearing_caught.md), a music he can catch but never answer: the tongue his valley had already set down a generation before him.
 
 ## Action
 
