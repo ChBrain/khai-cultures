@@ -56,6 +56,7 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 - [der Kaufmann](position_kaufmann.md)
 - [Moin](position_moin.md)
 - [das Grenzland](position_grenzland.md)
+- [dat Plattdüütsch](position_plattduutsch.md)
 
 **Pieces**
 
@@ -66,6 +67,10 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 **Pitches**
 
 - [der Ton zwischen den Meeren](pitch_sh.md)
+
+**Plans**
+
+- [das Miteinander der Minderheiten](plan_das_miteinander_der_minderheiten.md)
 
 ## Triggers
 

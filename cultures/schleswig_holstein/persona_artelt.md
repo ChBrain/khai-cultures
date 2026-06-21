@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein Matrose und Heizer, einer von unten. Kein Offizier und kein Redner von Beruf, sondern ein Mann der Werft und des Maschinenraums, der nicht mehr hinnimmt, dass über sein Leben von oben verfügt wird. Er redet die klare [Muttersprache](process_speaking_mother_tongue.md) des Maschinenraums, in der keiner über dem anderen steht.
+Ein Matrose und Heizer, einer von unten. Kein Offizier und kein Redner von Beruf, sondern ein Mann der Werft und des Maschinenraums, der nicht mehr hinnimmt, dass über sein Leben von oben verfügt wird. Er [spricht, hört und denkt](process_speaking_mother_tongue.md) die klare Sprache des Maschinenraums und der Werft, in der keiner über dem anderen steht. Das geschriebene Amtsdeutsch der Befehle und Papiere [entziffert er mühsam](process_reading_caught.md), und das herrische Kommandodeutsch der Offiziere bleibt ihm das Wort derer da oben: da ist der Riss, der Aufstand ist auch einer der Sprache, die einfache Rede derer von unten gegen das abgehobene Wort derer, die über ihr Leben verfügen.
 
 ## Action
 
