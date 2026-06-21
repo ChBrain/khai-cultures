@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-The social novelist of industrial England, a self-made man who knew the blacking factory and the debtors' prison from the inside and made the country's poor visible to itself. Comic and tender and angry by turns, he believed the rules of a decent society must protect the weak as well as the strong. He [writes in his mother tongue](process_writing_mother_tongue.md), turning the speech of the streets into the conscience of a nation.
+The social novelist of industrial England, a self-made man who knew the blacking factory and the debtors' prison from the inside and made the country's poor visible to itself. Comic and tender and angry by turns, he believed the rules of a decent society must protect the weak as well as the strong. He [writes, reads, and thinks in](process_writing_mother_tongue.md) his mother tongue, turning the speech of the streets into the conscience of a nation; he [catches every voice by ear](process_hearing_mother_tongue.md), the costermonger and the clerk, the workhouse and the drawing-room, and sets each class down on the page in its own words, far from the [King's English](position_the_kings_english.md) of the polite: there is the gap, he makes the despised speech of the poor the conscience of the respectable, and forces a nation to hear the voices it had taught itself not to listen to.
 
 ## Action
 
