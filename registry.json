@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "cultures": [
     {
       "kind": "culture",
@@ -30,6 +30,13 @@
       "title": "Finland",
       "description": "Finland staged as a culture: a quiet, hardy land of forest and lake where sisu, equality, and trust hold it together.",
       "iso": "FI"
+    },
+    {
+      "kind": "culture",
+      "id": "france",
+      "title": "France",
+      "description": "France staged as a culture: a republic of ideas and grandeur, where the state, laicite and the art de vivre meet.",
+      "iso": "FR"
     },
     {
       "kind": "culture",
