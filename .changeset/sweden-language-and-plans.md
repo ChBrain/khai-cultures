@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-cultures": patch
+---
+
+Bring Sweden up to the language-engine standard and add its plans. The four defining personas now carry full per-channel reads under Projection, each showing the gap at the limit of its tongue: Astrid (Swedish plain and low, the silence let to speak, Danish and Swedish neighbours followed as her own while the world's English stays on the threshold), Linnea (Swedish whole but English worn and read all day), Vasa (the folk's tongue spoken and the Bible printed in Swedish to give the written tongue its form, against the Danish union and the Mass's Latin), and Wallenberg (mother tongue carried as a shield, yet saving lives in the perpetrators' German, the neutral passport his weapon). Two forward mandates join the play's Company, neither re-telling a plot: neutraliteten (the two-century non-alignment used as shield and room for mediation, its old tradition struck by the 2024 NATO accession) and jamstalldheten (the ongoing project of gender equality beyond the 1921 suffrage). Content fix at the same culture count.

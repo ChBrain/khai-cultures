@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Befriaren och riksbyggaren, adelsmannen som samlade bönderna och bröt unionen med Danmark. En hård, slug och misstänksam härskare som såg att ett samlat och självständigt rike stod starkare än spridda landskap under en främmande krona. Han bygger inte bara åt sig själv utan grundar en stark statsmakt och ett arvkungadöme som ska bära landet i sekler. Han talar folkets [modersmål](process_speaking_mother_tongue.md) som den självklara grunden under sin makt och låter trycka Bibeln på svenska.
+Befriaren och riksbyggaren, adelsmannen som samlade bönderna och bröt unionen med Danmark. En hård, slug och misstänksam härskare som såg att ett samlat och självständigt rike stod starkare än spridda landskap under en främmande krona. Han bygger inte bara åt sig själv utan grundar en stark statsmakt och ett arvkungadöme som ska bära landet i sekler. Han [talar och tänker](process_speaking_mother_tongue.md) folkets modersmål som den självklara grunden under sin makt, och [låter trycka Bibeln på svenska](process_writing_drafted.md) och ger så skriftspråket dess form. Danskan från unionen bryter han med, och kyrkans latin, prästernas språk, [fångar han mest med örat](process_hearing_caught.md) innan han gör kyrkan till sin: där är klyftan, han reser ett eget rike och ett eget skriftspråk mot den främmande kronan och mot mässans latin.
 
 ## Action
 
