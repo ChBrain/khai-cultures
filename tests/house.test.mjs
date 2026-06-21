@@ -37,9 +37,38 @@ function cultureIds() {
 // khai type, the wiring the installed engines declare, and the cultures registry.
 describe("Cultures house: content conforms to the canon", () => {
   it("every instance validates against the canon (zero findings)", () => {
-    const results = validateProject({ root });
+    // Scope the canon scan to the content collections (cultures/ + groups/).
+    // management/ is the voice layer, not content: it is chain-owned wiring held
+    // to the blueprint (see the management test below), and it carries no
+    // declared culture, so the installed content engines (the language engine in
+    // particular, which requires every persona to link a language-crossing leaf
+    // in its Projection) must not run over the management cast — the chain's
+    // Choregos (Pericles, Nicias) speaks no culture's tongue.
+    const contentDirs = ["cultures", "groups"]
+      .map((d) => join(root, d))
+      .filter((d) => existsSync(d));
+    const results = contentDirs.flatMap((dir) => validateProject({ root, contentDir: dir }));
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
+  });
+
+  it("the management cast is complete: every position has a persona", () => {
+    // The voice layer mirrors a plays house (REFERENCE.md, the blueprint in
+    // @chbrain/khai-stage): the shared core is held verbatim and each position
+    // is held by a named persona. Engine wiring is out of scope here (see above),
+    // so this checks only the casting law: a needed position without a persona is
+    // a failure. Run `npx khai-tests management check .` for the full blueprint
+    // convergence gate.
+    const mgmt = join(root, "management");
+    if (!existsSync(mgmt)) return;
+    const files = readdirSync(mgmt).filter((f) => f.endsWith(".md"));
+    const positions = files.filter((f) => f.startsWith("position_"));
+    const linked = new Set();
+    for (const p of files.filter((f) => f.startsWith("persona_")))
+      for (const m of readFileSync(join(mgmt, p), "utf8").matchAll(/position_[a-z0-9_]+\.md/g))
+        linked.add(m[0]);
+    const orphans = positions.filter((p) => !linked.has(p));
+    expect(orphans, `unheld positions: ${orphans.join(", ")}`).toEqual([]);
   });
 
   it("every instance satisfies the language policy", () => {

@@ -4,6 +4,13 @@ This repository is a **khai content house**: a house dedicated to cultures. It i
 structured and governed exactly like a khai **plays** house, but its content
 folder is **`cultures/`** (indexing a `cultures` collection) instead of `plays/`.
 
+> **Voice first.** Operate under the khai **voice layer**,
+> [management/management_instructions.md](management/management_instructions.md):
+> who speaks, through which Persona, and how the company collaborates. _Then_ this
+> file is the **coding contract** (branching, versioning, the gates). Voice and
+> mechanics there; coding rules here. The order matters: management voice first,
+> coding second.
+
 ## What lives here
 
 - `cultures/` holds the cultures: each a full khai **play** staged as a culture —
@@ -31,6 +38,12 @@ npx khai-guard branch <topic>
   `khai-guard.config.json`, `tests/**`, `CLAUDE.md`, `GEMINI.md`, `README.md`,
   `REFERENCE.md`, `REFERENCES.md`, `management/**`).
 - `changeset-release/*` is a bot-controlled general lane for version releases.
+
+A **management order** (`management/orders/**`) is a **rider**: an order directs
+work in any lane, so it rides the lane of the change it drives. Write the order
+beside that change and the guard folds both onto one branch (an order that
+restages a culture lands as one `culture/` PR); committed alone, an order homes to
+`governance/`. So an order and the change it commands are one PR, never two.
 
 Never `--no-verify`. Never merge; open the PR and stop.
 
