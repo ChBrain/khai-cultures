@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein junger Wiener Ende zwanzig, daheim in der offenen, vernetzten Welt, in Start-up, Rad und Berg. Locker, ironisch, mit dem ererbten Schmäh, aber ohne die Kaisernostalgie. Englisch [trägt er wie selbstverständlich](process_speaking_worn.md); es liegt ihm auf der Zunge, noch eh er danach greift.
+Ein junger Wiener Ende zwanzig, daheim in der offenen, vernetzten Welt, in Start-up, Rad und Berg. Locker, ironisch, mit dem ererbten Schmäh, aber ohne die Kaisernostalgie. [Er spricht, hört und denkt](process_speaking_mother_tongue.md) sein Wienerisch mit ererbtem Schmäh, aber ohne Kaisernostalgie. Das Englisch der offenen, vernetzten Welt [trägt er wie selbstverständlich](process_speaking_worn.md) - es liegt ihm auf der Zunge, noch eh er danach greift - und im Start-up [liest und schreibt er es](process_reading_followed.md) den ganzen Tag: da ist der Spalt seiner Generation, zwei nahe Sprachen und ein österreichisches Deutsch, das im globalen Englisch langsam dünner wird.
 
 ## Action
 

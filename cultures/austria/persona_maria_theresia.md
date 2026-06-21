@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Die einzige Frau auf dem Habsburger Thron, Landesmutter eines Vielvölkerreiches. Fromm, zäh und mütterlich-streng, regiert sie mit Pflichtgefühl und Hausverstand mehr als mit Glanz. Sie spricht die [Muttersprache](process_speaking_mother_tongue.md) ihres Hauses als selbstverständlichen Grund über all den Sprachen des Reiches.
+Die einzige Frau auf dem Habsburger Thron, Landesmutter eines Vielvölkerreiches. Fromm, zäh und mütterlich-streng, regiert sie mit Pflichtgefühl und Hausverstand mehr als mit Glanz. [Sie spricht und denkt](process_speaking_mother_tongue.md) die Muttersprache ihres Hauses als selbstverständlichen Grund über all den Sprachen des Reiches, und die französischen und lateinischen Depeschen der Diplomatie [liest und verfolgt sie](process_reading_followed.md). Doch Ungarisch, Böhmisch, Italienisch und die vielen Zungen ihrer Völker [erreichen sie nur, soweit das Ohr sie aufschnappt](process_hearing_caught.md), durch Dolmetsch und Akten: die Landesmutter regiert Völker, deren Sprachen sie nicht spricht, und macht das Deutsch ihrer Kanzlei zur Klammer, die das Reich von oben zusammenhält.
 
 ## Action
 
