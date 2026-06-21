@@ -59,6 +59,11 @@ Una tierra antigua que fue imperio y lo perdió, hecha de muchos reinos cosidos 
 
 - [el tono español](pitch_es.md)
 
+**Plans**
+
+- [el Estado de las Autonomías](plan_el_estado_de_las_autonomias.md)
+- [el pacto de la Transición](plan_el_pacto_de_la_transicion.md)
+
 ## Triggers
 
 **[Plot 1: 1492](plot_01_1492.md)**
