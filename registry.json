@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "cultures": [
     {
       "kind": "culture",
@@ -58,6 +58,13 @@
       "title": "Schleswig-Holstein",
       "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
       "iso": "DE-SH"
+    },
+    {
+      "kind": "culture",
+      "id": "scotland",
+      "title": "Scotland",
+      "description": "Scotland staged as a culture: a proud, egalitarian nation that kept its mind, its kirk, and its independence of spirit.",
+      "iso": "GB-SCT"
     },
     {
       "kind": "culture",
