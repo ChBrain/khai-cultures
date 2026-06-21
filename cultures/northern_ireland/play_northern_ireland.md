@@ -49,6 +49,7 @@ A small place shaped by two peoples who share one ground and have long read its 
 - [unionism](position_unionism.md)
 - [nationalism](position_nationalism.md)
 - [the peace](position_the_peace.md)
+- [the two tongues](position_the_two_tongues.md)
 
 **Pieces**
 
@@ -58,6 +59,10 @@ A small place shaped by two peoples who share one ground and have long read its 
 **Pitches**
 
 - [the Northern Irish key](pitch_nir.md)
+
+**Plans**
+
+- [parity of esteem](plan_parity_of_esteem.md)
 
 ## Triggers
 
