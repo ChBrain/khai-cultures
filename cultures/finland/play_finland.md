@@ -33,6 +33,7 @@ Pieni kansa idän ja lännen välissä, joka eli pitkään vieraan vallan alla, 
 - [C.G.E. Mannerheim](persona_mannerheim.md)
 - [Aino](persona_aino.md)
 - [Eero](persona_eero.md)
+- [Solveig](persona_solveig.md)
 
 **Places**
 
@@ -58,6 +59,10 @@ Pieni kansa idän ja lännen välissä, joka eli pitkään vieraan vallan alla, 
 **Pitches**
 
 - [suomalainen sävy](pitch_fi.md)
+
+**Plans**
+
+- [kaksikielisyys](plan_kaksikielisyys.md)
 
 ## Triggers
 
