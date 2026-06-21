@@ -74,6 +74,13 @@
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
       "references": ["austria", "germany", "switzerland"]
+    },
+    {
+      "kind": "group",
+      "id": "nordics",
+      "title": "The Nordics",
+      "description": "The Nordics as a group: Denmark, Sweden, Norway, Finland, and Iceland, bound by a shared model and a common north.",
+      "references": ["denmark", "finland", "iceland", "norway", "sweden"]
     }
   ]
 }
