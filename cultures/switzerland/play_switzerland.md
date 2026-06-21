@@ -35,6 +35,7 @@ Ein kleines Land mitten in Europa, das nicht durch eine Sprache, ein Volk oder e
 - [Vreni](persona_vreni.md)
 - [Marco](persona_marco.md)
 - [Gian](persona_gian.md)
+- [Menga](persona_menga.md)
 
 **Places**
 
