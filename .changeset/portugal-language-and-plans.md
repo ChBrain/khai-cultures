@@ -1,5 +1,0 @@
----
-"@chbrain/khai-cultures": patch
----
-
-Bring Portugal up to the language-engine standard and add its plans. The four defining personas now carry full per-channel reads under Projection, each showing the gap at the limit of its tongue: Camoes (Portuguese written to its monument and the word saudade fixed forever, Castilian carried, the tongues of India and Africa only caught), da Gama (his mother tongue planted in distant ports while the world reaches him only through the interpreter and foreign script he can barely read), Amalia (fado and saudade whole in her tongue, the applauding world's languages left outside, no outsider translating them without loss), and Tiago (Portuguese carrying the emigrants' saudade, English carried and read for the future calling him away). Two language-themed plans join the play's Company: a empresa dos Descobrimentos (the deliberate sea-venture that planted Portuguese across four continents) and a lusofonia (the CPLP and the Acordo Ortografico holding the Portuguese-speaking world together by the shared tongue). Content fix at the same culture count.

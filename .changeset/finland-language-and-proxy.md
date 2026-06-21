@@ -1,5 +1,0 @@
----
-"@chbrain/khai-cultures": patch
----
-
-Bring Finland up to the language-engine standard, add its bilingual proxy pair and a language plan. The four standing personas now carry full per-channel reads, each showing the gap at the limit of its tongue: Aino (Finnish whole and sparse, school Swedish forgotten and only caught, no shared tongue with the Swedish coast without a go-between), Eero (Finnish whole but English worn and read all day), Lonnrot (Finnish written to a literary tongue, the gentry's Swedish carried, the singers' Finnish heard in the villages and raised to a book), and Mannerheim (Swedish his mother tongue, Finnish learned and carried to serve a people not his own, the bridge who shares Swedish with the coast and Finnish with the nation). A proxy pair joins the cast: Solveig, a monolingual Aland Swedish-speaker who reaches the Finnish country only through Mannerheim, who carries her words into Finnish twice-worn. And one forward language-mandate, kaksikielisyys (the two national languages, Finnish and Swedish equal before the law, so the minority's voice carries without a single bridge). Content fix at the same culture count.
