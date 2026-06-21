@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Euskal emakume bat, mendien eta itsasoaren artean hazia, etxean euskaraz hitz egiten zen baserri batean. Lurrari, baserriari eta kuadrillari lotua dago, dirua baino garrantzitsuagoak diren lagun zaharrei eta auzoari. Mendia eta kostaldea maite ditu, lagunarteko bazkari luzeak eta herriko festak. Bere [ama-hizkuntzan](process_speaking_mother_tongue.md) hitz egiten du, euskaraz, beste guztiaren azpiko oinarri zaharrean.
+Euskal emakume bat, mendien eta itsasoaren artean hazia, etxean euskaraz hitz egiten zen baserri batean. Lurrari, baserriari eta kuadrillari lotua dago, dirua baino garrantzitsuagoak diren lagun zaharrei eta auzoari. Mendia eta kostaldea maite ditu, lagunarteko bazkari luzeak eta herriko festak. [Euskaraz hitz egiten, entzuten eta pentsatzen du](process_speaking_mother_tongue.md), beste guztiaren azpiko oinarri zaharrean. Baina mundu zabala eta administrazioa gaztelaniaz datoz: paperak eta inprimakiak [gaztelaniaz irakurtzen ditu](process_reading_followed.md) eta ofiziala dena [gaztelaniaz idazten du](process_writing_drafted.md). Hortxe dago arrakala: ahoan eta buruan osorik daukan hizkuntza, baina orria eta agiria gaztelaniarenak dira, eta gazteak hirira doazen heinean, hitz egitea bera ere galtzeko beldur da.
 
 ## Action
 
