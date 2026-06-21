@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Boireannach Gàidhealach a tha a' fàs sean, a thogadh ann an gleann iomallach far an robhar a' bruidhinn na Gàidhlig a-mhàin. Tha i ceangailte ris an fhearann, ris a' chroit, agus ris an t-seann dòigh-beatha far an robh an cinneadh agus an dìlseachd nas cudromaiche na airgead. Bidh i a' bruidhinn na [cànain mhàthaireil](process_speaking_mother_tongue.md) aice gu nàdarra, an seann bhunait fon a h-uile càil eile.
+Boireannach Gàidhealach a tha a' fàs sean, a thogadh ann an gleann iomallach far an robhar a' bruidhinn na Gàidhlig a-mhàin. Tha i ceangailte ris an fhearann, ris a' chroit, agus ris an t-seann dòigh-beatha far an robh an cinneadh agus an dìlseachd nas cudromaiche na airgead. Bidh i a' [bruidhinn, a' cluinntinn agus a' smaoineachadh](process_speaking_mother_tongue.md) anns a' chànain mhàthaireil aice, an seann bhunait fon a h-uile càil eile. Dh'ionnsaich i am Beurla aig an sgoil agus [ga giùlan mar inneal](process_speaking_carried.md), a' chànain a chuir às don Ghàidhlig anns na glinn: sin an sgoltadh, chaidh a cànan a bhualadh a-mach às an sgoil agus fhuadach às na glinn, agus chan eil air fhàgail ga bruidhinn ach na seann daoine.
 
 ## Action
 
