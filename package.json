@@ -66,5 +66,8 @@
     "husky": "^9.1.0",
     "prettier": "^3.8.4",
     "vitest": "^4.1.9"
+  },
+  "dependencies": {
+    "@chbrain/khai-engine-spine": "^0.1.4"
   }
 }
