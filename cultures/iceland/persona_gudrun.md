@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Kona á sjötugsaldri, alin upp við harðari tíma og sjálfsbjargarviðleitni eyjarbúans. Nægjusöm, blátt áfram og tortryggin í garð þeirra sem vilja vera merkilegri en aðrir. Hún kann að bjarga sér, prjónar, ræktar samband við nágranna og treystir því að þetta reddist. Hún talar [móðurmálið](process_speaking_mother_tongue.md) hreint og blátt áfram, án stóryrða.
+Kona á sjötugsaldri, alin upp við harðari tíma og sjálfsbjargarviðleitni eyjarbúans. Nægjusöm, blátt áfram og tortryggin í garð þeirra sem vilja vera merkilegri en aðrir. Hún kann að bjarga sér, prjónar, ræktar samband við nágranna og treystir því að þetta reddist. Hún [talar, heyrir og hugsar](process_speaking_mother_tongue.md) móðurmálið hreint og blátt áfram, án stóryrða. Dönskuna úr skóla [nær hún því sem eyrað grípur](process_hearing_caught.md), og ensku heimsins [les hún með herkjum](process_reading_caught.md): allt sem máli skiptir kemur henni heilt á hennar tungu, og heimurinn sem talar ensku stendur eftir á þröskuldinum, en hún treystir því að [þetta reddist](position_thetta_reddast.md).
 
 ## Action
 
