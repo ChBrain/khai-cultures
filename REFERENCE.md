@@ -63,6 +63,13 @@ What the house refuses, and the laws it holds every culture to.
   carries the corresponding khai files in **each** language; a single file may
   also declare its own `language:` (e.g. a persona who speaks Platt) while the
   rest of the culture stays in the play's language.
+- **Language is read, per channel.** The house runs on the shared
+  `@chbrain/khai-engine-spine` Prose register (everything is a Scene, played
+  through Personas). On top of it, every persona reads each tongue it uses
+  through `@chbrain/khai-engine-language`, rooted in `process_using_language.md`,
+  per channel at its own width, with the gap shown and never named. The engine
+  law is carried by the installed engines and plumbed into Instructions at
+  deploy; the house authors no instructions copy of its own.
 - **Ownership, not isolation.** Every khai file is owned by exactly one play's
   directory — no duplication. Any play may **cast** any file by a relative link
   that resolves to a real owned file (enforced by the engine's link check, which
