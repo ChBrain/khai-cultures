@@ -33,6 +33,7 @@ Una tierra antigua que fue imperio y lo perdió, hecha de muchos reinos cosidos 
 - [Antoni Gaudí](persona_gaudi.md)
 - [Carmen](persona_carmen.md)
 - [Ane](persona_ane.md)
+- [Joxepa](persona_joxepa.md)
 
 **Places**
 

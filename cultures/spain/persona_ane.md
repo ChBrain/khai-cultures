@@ -27,7 +27,7 @@ Euskal emakume bat, mendien eta itsasoaren artean hazia, etxean euskaraz hitz eg
 
 ## Action
 
-[las autonomías](position_las_autonomias.md) barruan, bere hizkuntzan eta bere izaeran aitortzen den Euskal Herria irudikatzen du: Espainiaren parte eta, aldi berean, oso berezia. Kuadrillarekin elkartzen da, [sobremesa](process_la_sobremesa.md) amaigabean luzatzen ditu bazkariak, eta [festan](process_la_fiesta.md) parte hartzen du, herriko jaietan kantuan eta dantzan, antzinako ohiturak bizirik mantenduz.
+[las autonomías](position_las_autonomias.md) barruan, bere hizkuntzan eta bere izaeran aitortzen den Euskal Herria irudikatzen du: Espainiaren parte eta, aldi berean, oso berezia. Kuadrillarekin elkartzen da, [sobremesa](process_la_sobremesa.md) amaigabean luzatzen ditu bazkariak, eta [festan](process_la_fiesta.md) parte hartzen du, herriko jaietan kantuan eta dantzan, antzinako ohiturak bizirik mantenduz. Eta zubi da: bi hizkuntzak dituenez, [Joxepa](persona_joxepa.md) bezalako euskaldun zaharren hitzak gaztelaniara eramaten ditu administraziora eta mundura, eta hura gabe isilik geratuko lirateke.
 
 ## Shadow
 
