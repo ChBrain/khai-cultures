@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-cultures": patch
+---
+
+Bring Iceland up to the language-engine standard and add its plan. The four defining personas now carry full per-channel reads under Projection, each showing the gap at the limit of its tongue: Snorri (Icelandic written to make the living tongue an immortal book, Latin carried but the vernacular chosen, so the nation still reads him eight centuries on), Jon Sigurdsson (the nation's cause pleaded in the king's Copenhagen on the Danish he carries, fighting in law and history for the right to his own tongue), Gudrun (Icelandic whole and plain, school Danish only caught and the world's English barely read), and Birna (Icelandic whole but English worn and read all day, the tongue thinning on screen despite all the language work). One forward language-mandate joins the play's Company, not a re-telling of any plot: malraektin (the deliberate purism and word-coining that keeps Icelandic so unchanged the nation still reads the sagas). Content fix at the same culture count.

@@ -59,6 +59,10 @@ Lítil og hörð eyja, byggð af fólki sem flúði konungsvald og stofnaði þi
 
 - [íslenski tónninn](pitch_is.md)
 
+**Plans**
+
+- [málræktin](plan_malraektin.md)
+
 ## Triggers
 
 **[Plot 1: Alþingi á Þingvöllum 930](plot_01_althingi_930.md)**
