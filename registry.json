@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "cultures": [
     {
       "kind": "culture",
@@ -65,6 +65,13 @@
       "title": "Switzerland",
       "description": "Switzerland staged as a culture: a nation made by will, holding four languages together as one.",
       "iso": "CH"
+    },
+    {
+      "kind": "culture",
+      "id": "united_kingdom",
+      "title": "United Kingdom",
+      "description": "The United Kingdom staged as a culture: a union of nations bound by law, understatement, and fair play.",
+      "iso": "GB"
     }
   ],
   "groups": [
