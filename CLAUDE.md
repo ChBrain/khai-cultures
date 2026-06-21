@@ -4,13 +4,6 @@ This repository is a **khai content house**: a house dedicated to cultures. It i
 structured and governed exactly like a khai **plays** house, but its content
 folder is **`cultures/`** (indexing a `cultures` collection) instead of `plays/`.
 
-> **Voice first.** Operate under the khai **voice layer**,
-> [management/management_instructions.md](management/management_instructions.md):
-> who speaks, through which Persona, and how the company collaborates. _Then_ this
-> file is the **coding contract** (branching, versioning, the gates). Voice and
-> mechanics there; coding rules here. The order matters: management voice first,
-> coding second.
-
 ## What lives here
 
 - `cultures/` holds the cultures: each a full khai **play** staged as a culture —
