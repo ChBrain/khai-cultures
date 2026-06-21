@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Polfareren, vitenskapsmannen og humanisten som først krysset Grønland på ski og siden drev mot Nordpolen med skuta Fram. En seig og nøktern mann formet av friluftslivet og av en hard natur, som senere brukte sin verdensberømmelse til å redde sultne og hjemløse mennesker etter den store krigen. Han [bærer det fremmede språket](process_speaking_carried.md) ut i verden som diplomat og hjelpearbeider, men det blir aldri helt hans eget.
+Polfareren, vitenskapsmannen og humanisten som først krysset Grønland på ski og siden drev mot Nordpolen med skuta Fram. En seig og nøktern mann formet av friluftslivet og av en hard natur, som senere brukte sin verdensberømmelse til å redde sultne og hjemløse mennesker etter den store krigen. Han [taler, skriver og tenker](process_speaking_mother_tongue.md) på morsmålet, men ute i verden, som forsker, diplomat og hjelpearbeider, [bærer han de fremmede språkene](process_speaking_carried.md), engelsk og fransk, uten at de noen gang blir helt hans egne, og forhandlingenes papirer [leser og følger han](process_reading_followed.md) på andres tunge: der er kløften, den verdensberømte nordmannen taler de statsløses sak i språk som ikke er hans.
 
 ## Action
 
