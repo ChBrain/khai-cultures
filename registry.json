@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.5.3",
+  "version": "0.9.0",
   "cultures": [
     {
       "kind": "culture",
@@ -19,6 +19,13 @@
     },
     {
       "kind": "culture",
+      "id": "finland",
+      "title": "Finland",
+      "description": "Finland staged as a culture: a quiet, hardy land of forest and lake where sisu, equality, and trust hold it together.",
+      "iso": "FI"
+    },
+    {
+      "kind": "culture",
       "id": "germany",
       "title": "Germany",
       "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory.",
@@ -26,10 +33,31 @@
     },
     {
       "kind": "culture",
+      "id": "iceland",
+      "title": "Iceland",
+      "description": "Iceland staged as a culture: a small, tough island nation that trusts it will sort itself out and lets none stand above.",
+      "iso": "IS"
+    },
+    {
+      "kind": "culture",
+      "id": "norway",
+      "title": "Norway",
+      "description": "Norway staged as a culture: a steep land of mountains and sea where people belong to nature and share the work.",
+      "iso": "NO"
+    },
+    {
+      "kind": "culture",
       "id": "schleswig_holstein",
       "title": "Schleswig-Holstein",
       "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
       "iso": "DE-SH"
+    },
+    {
+      "kind": "culture",
+      "id": "sweden",
+      "title": "Sweden",
+      "description": "Sweden staged as a culture: a reserved land of consensus and lagom, where the people's home keeps everyone in.",
+      "iso": "SE"
     },
     {
       "kind": "culture",
