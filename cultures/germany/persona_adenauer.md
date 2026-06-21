@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein alter, nüchterner Mann mit unbeirrbarer Geduld, der erste Kanzler nach der Katastrophe. Wortkarg, beharrlich, misstrauisch gegen jeden Rausch. Er führt nicht durch grosse Reden, sondern durch verlässliche, stetige Schritte. Er spricht die [Muttersprache](process_speaking_mother_tongue.md), den festen Boden, von dem aus er das Land aus den Trümmern führt.
+Ein alter, nüchterner Mann mit unbeirrbarer Geduld, der erste Kanzler nach der Katastrophe. Wortkarg, beharrlich, misstrauisch gegen jeden Rausch. Er führt nicht durch grosse Reden, sondern durch verlässliche, stetige Schritte. Er [spricht](process_speaking_mother_tongue.md) die Muttersprache, das [deutschländische Deutsch](position_deutsches_deutsch.md) als festen Boden, von dem aus er das Land aus den Trümmern führt. Doch um die junge Republik nach Westen zu binden, muss er mit dem Französischen und dem Englischen verhandeln, Sprachen, die er nur [wie ein Werkzeug trägt](process_speaking_carried.md): das ist der Verlust, der Rheinländer, der Deutschland in einem Westen verankert, dessen Zungen er sich strecken muss, ohne in ihnen zu Hause zu sein. Er gehört der [deutschen Kultur](position_deutsche_kultur.md) an und bindet sie nach Westen.
 
 ## Action
 

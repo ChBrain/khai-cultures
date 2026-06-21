@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Ein junger Mann Mitte zwanzig, geboren nach der Einheit, der das geteilte Land nur aus Erzählungen kennt. Offen, direkt, ungeduldig mit alten Formen. Er duzt rasch, hält die strenge Anrede für überholt und will die Wahrheit lieber gleich als verpackt. Das Englische hält er tief genug, um [darin zu denken](process_thinking_worn.md), und wechselt die Sprache, wie man die Tastatur wechselt.
+Ein junger Mann Mitte zwanzig, geboren nach der Einheit, der das geteilte Land nur aus Erzählungen kennt. Offen, direkt, ungeduldig mit alten Formen. Er duzt rasch, hält die strenge Anrede für überholt und will die Wahrheit lieber gleich als verpackt. Sein Deutsch hält er ganz, die Muttersprache, in der er [spricht](process_speaking_mother_tongue.md) und denkt, das [deutschländische Deutsch](position_deutsches_deutsch.md) seiner Generation. Das Englische [trägt er übergestreift](process_speaking_worn.md) wie eine globale Brücke, das Business English, ein Werkzeug für die Welt. Doch der Verlust steckt in der Naht: der Deal und das Meme kreuzen im übergestreiften Englisch, die Tiefe aber bleibt im Deutschen, und was ihm wirklich am Herzen liegt, sagt er erst, wenn er die fremde Sprache wieder ablegt. Er gehört der [deutschen Kultur](position_deutsche_kultur.md) an und trägt sie offen, ungeduldig, in eine globale Welt.
 
 ## Action
 
