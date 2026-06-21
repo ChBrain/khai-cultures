@@ -52,6 +52,7 @@ Ein kleines Land mitten in Europa, das nicht durch eine Sprache, ein Volk oder e
 - [die Konkordanz](position_konkordanz.md)
 - [der Milizgedanke](position_milizsystem.md)
 - [die Neutralität](position_neutralitaet.md)
+- [die Viersprachigkeit](position_die_viersprachigkeit.md)
 
 **Pieces**
 
