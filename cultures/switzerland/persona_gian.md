@@ -27,7 +27,7 @@ In um dals Grischuns, creschì en ina val da muntogna, nua ch'ins discurra ruman
 
 ## Action
 
-El viva la [concordanza](position_konkordanz.md) sco part d'ina pitschna minoritad: el va a votar pliras giadas l'onn e cumbatta per che sia lingua na svaneschia. El tegna ferm che la pitschna Rumantschia haja il medem dretg sco las grondas linguas dal pajais.
+El viva la [concordanza](position_konkordanz.md) sco part d'ina pitschna minoritad: el va a votar pliras giadas l'onn e cumbatta per che sia lingua na svaneschia. El tegna ferm che la pitschna Rumantschia haja il medem dretg sco las grondas linguas dal pajais. El è er il pont per [Menga](persona_menga.md) e per ils vegls da la val: el porta lur rumantsch en tudestg al chantun ed al mund, e senza el restassan els taschents.
 
 ## Shadow
 
