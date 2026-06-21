@@ -182,7 +182,7 @@ khai stays clean either way.
 - `geo.json` → **iso-only** (allow ISO 3166-2); drop `region`/`state`. (`DE`
   stays for Germany.)
 - `package.json` `khai` config: declare the **groups referencing collection**.
-- `REFERENCE.md` rewrite: groups-are-plays; **ownership + resolvable casting**
+- `REFERENCES.md` rewrite: groups-are-plays; **ownership + resolvable casting**
   (retire isolation); geo iso-only; generalize the plot-casting rows to "casts
   the elements the event needs".
 - `tests/house.test.mjs`: **remove** the isolation test and the persona-only plot
@@ -216,5 +216,5 @@ The entry contract of §3.1: explicit `kind` (both kinds), `iso` optional,
 
 ## 6. Explicitly out of scope here
 
-No engine code, no `geo.json` edits, no `REFERENCE.md`/`tests` rewrite, no
+No engine code, no `geo.json` edits, no `REFERENCES.md`/`tests` rewrite, no
 `groups/` content. Those land as the §4 deltas once this paper is approved.
