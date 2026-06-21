@@ -50,6 +50,7 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 - [der Titel](position_titel.md)
 - [der Schmäh](position_schmaeh.md)
 - [der Grant](position_grant.md)
+- [das österreichische Deutsch](position_oesterreichisches_deutsch.md)
 
 **Pieces**
 
@@ -59,6 +60,10 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 **Pitches**
 
 - [der österreichische Ton](pitch_at.md)
+
+**Plans**
+
+- [die österreichische Identität](plan_die_oesterreichische_identitaet.md)
 
 ## Triggers
 
