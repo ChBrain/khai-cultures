@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Le général genevois qui commanda l'armée fédérale. Ingénieur, cartographe et homme de mesure, il vit dans la guerre civile non pas un ennemi à écraser mais des compatriotes à ramener. Il [porte les autres langues nationales comme un outil](process_speaking_carried.md), commandant en français une armée où l'on parle aussi l'allemand et l'italien.
+Le général genevois qui commanda l'armée fédérale. Ingénieur, cartographe et homme de mesure, il vit dans la guerre civile non pas un ennemi à écraser mais des compatriotes à ramener. Le français est sa [langue maternelle](process_speaking_mother_tongue.md), celle où il pense et commande sans y songer. Mais l'armée qu'il mène franchit la ligne des langues: il [porte l'allemand comme un outil](process_speaking_carried.md) pour donner ses ordres au-delà du Röstigraben et il [suit](process_hearing_followed.md) ses officiers alémaniques dans leur langue, retenant le sens à mesure. Il tient le pays ensemble en commandant dans une langue qui n'est pas la sienne.
 
 ## Action
 
