@@ -1,5 +1,0 @@
----
-"@chbrain/khai-cultures": patch
----
-
-Bring Denmark up to the language-engine standard and add its plans. The four defining personas now carry full per-channel reads under Projection, each showing the gap at the limit of its tongue: Grundtvig (the living word given to the whole folk in the mother tongue, Latin and German carried then turned from, the old Norse writings read to wake the past), Harald (the daner's tongue spoken and cut in runes on the Jelling stone, the Church's Latin only caught), Inger (Danish plain and low, Norwegian and Swedish followed almost as her own - skandinavisk - while the world's English stays on the doorstep), and Mads (Danish whole but English worn and read all day, the young tongue giving way to English at work and screen). Two forward mandates join the play's Company, neither re-telling a plot: folkeoplysningen (Grundtvig's folk-enlightenment, dannelse for all in the mother tongue) and velfaerdsstaten (the universal welfare model of trust and equality, carried by Janteloven). Content fix at the same culture count.

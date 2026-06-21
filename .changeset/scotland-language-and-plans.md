@@ -1,5 +1,0 @@
----
-"@chbrain/khai-cultures": patch
----
-
-Bring Scotland up to the language-engine standard, add its Scots variety-position and two plans. The four personas now carry full per-channel reads, each showing the gap at the limit of its tongue: Bruce (the people's tongue the ground of his crown, Latin and Norman French carried by the feudal court), Burns (braid Scots written to a literature, the genteel English of the drawing-rooms put on like a borrowed coat), Eilidh (one tongue in two registers, street Scots and standard English, the Highland Gaelic barely caught), and Mairi (Gaelic her mother tongue, the English of the school carried, the tongue beaten out of the glens and held now only by the old). A variety-position joins the cast, the Scots tongue (braid Scots as a leid in its own right, the sister of English, losing ground to the standard). And two forward mandates, neither re-telling a plot: the Gaelic revival (bringing Gaelic back from the edge of death) and the national question (the modern drive for Scotland to govern itself, the reconvened Parliament and the open question of independence). Content fix at the same culture count.
