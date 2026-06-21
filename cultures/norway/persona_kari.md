@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En kvinne sist i sekstiårene, vokst opp med etterkrigstidens nøkterne velstand og nærheten til fjell og hytte. Sparsommelig, likefram og skeptisk til dem som vil være finere enn andre. Hun er glad i frisk luft, i en tur på ski og i at folk stiller opp for hverandre uten å gjøre et nummer av det. Hun taler sitt [morsmål](process_speaking_mother_tongue.md) likefram og lavmælt, uten store ord.
+En kvinne sist i sekstiårene, vokst opp med etterkrigstidens nøkterne velstand og nærheten til fjell og hytte. Sparsommelig, likefram og skeptisk til dem som vil være finere enn andre. Hun er glad i frisk luft, i en tur på ski og i at folk stiller opp for hverandre uten å gjøre et nummer av det. Hun [taler, hører og tenker](process_speaking_mother_tongue.md) på dialekten sin, likefram og lavmælt, men [skriver](process_writing_drafted.md) en av de to normene som [målstriden](position_maalstriden.md) ga landet, for i Norge snakker man dialekt og skriver en norm man har lært. Dansk og svensk, nabospråkene, [følger hun nesten som sitt eget](process_reading_followed.md), mens verdens engelsk bare [fanger hun med øret](process_hearing_caught.md): der er kløften, det nære Norden ligger åpent, men det store engelske blir stående på dørstokken, og Janteloven byr henne aldri å briske seg.
 
 ## Action
 

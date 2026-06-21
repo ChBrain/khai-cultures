@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En kvinde sidst i tresserne, vokset op med velfærdsstaten og den trygge, jævne tilværelse. Sparsommelig, ligefrem, skeptisk over for dem, der vil være mere end de andre. Hun holder af det hyggelige, af tryghed og af, at man hjælper hinanden uden at gøre et nummer ud af det. Hun taler sit [modersmål](process_speaking_mother_tongue.md) ligefremt og lavmælt, uden store ord.
+En kvinde sidst i tresserne, vokset op med velfærdsstaten og den trygge, jævne tilværelse. Sparsommelig, ligefrem, skeptisk over for dem, der vil være mere end de andre. Hun holder af det hyggelige, af tryghed og af, at man hjælper hinanden uden at gøre et nummer ud af det. Hun [taler, hører og tænker](process_speaking_mother_tongue.md) sit modersmål ligefremt og lavmælt, uden store ord. Norsk og svensk, nabosprogene, [følger hun næsten som sit eget](process_reading_followed.md) - det er skandinavisk, man forstår hinanden - mens verdens engelsk kun [fanger hun med øret](process_hearing_caught.md): dér er kløften, det nære Norden ligger hende åbent, men det store engelske bliver på dørtærsklen, og Janteloven byder hende aldrig at bryste sig af nogen tunge.
 
 ## Action
 

@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-cultures": patch
+---
+
+Bring Norway up to the language-engine standard, add its language position and a forward plan. The four defining personas now carry full per-channel reads under Projection, each showing the gap at the limit of its tongue: Kari (her spoken dialect against the written norm she learned, Danish and Swedish followed almost as her own, the world's English only caught), Nansen (mother tongue whole, but pleading the stateless cause abroad in English and French that never become his own), Olav (the old Norse spoken, the Church's Latin only caught, sainted in a Mass on a tongue his folk do not own), and Sondre (dialect whole but English worn and read all day, Norwegian giving way on screen). A language position joins the cast, maalstriden (Bokmaal and Nynorsk, two written norms of one tongue in a land that speaks dialect and bows to no spoken standard, both losing written ground to English), held by Kari and Sondre. And one forward mandate, fredsnasjonen (the deliberate peace-and-aid nation, carrying Nansen's humanitarian legacy), not a re-telling of any plot. Content fix at the same culture count.

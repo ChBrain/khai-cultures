@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En Fru ut [Husum](place_husum.md), de grise Stadt an't grise Meer. Se fohrt mit't Boot rut up't [Wattenmeer](place_wattenmeer.md) un fischt [Krabben](piece_krabben.md), as ehr Vader un ehr Grootvader dat al maakt hebbt. Se leevt na de Tieden, nich na de Klock. Platt is ehr de [Moderspraak](process_speaking_mother_tongue.md), de Spraak, de ünner all dat annere liggt.
+En Fru ut [Husum](place_husum.md), de grise Stadt an't grise Meer. Se fohrt mit't Boot rut up't [Wattenmeer](place_wattenmeer.md) un fischt [Krabben](piece_krabben.md), as ehr Vader un ehr Grootvader dat al maakt hebbt. Se leevt na de Tieden, nich na de Klock. Platt, [dat Plattdüütsch](position_plattduutsch.md), is ehr de Moderspraak, de se [snackt, höört un denkt](process_speaking_mother_tongue.md), de Spraak, de ünner all dat annere liggt. Dat Hoochdüütsch vun de Ämter [schrifft un leest se stief](process_writing_drafted.md), un dat Engelsch vun de Welt [fangt se bloots mit't Ohr](process_hearing_caught.md): dor is de Reet, an't Water un an de Disch is ehr Spraak heel de ehre, man de Schrift un dat Amt höört dat Hoochdüütsch, un mit de Tiet warrt dat Platt jümmer weniger.
 
 ## Action
 

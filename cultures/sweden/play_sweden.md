@@ -59,6 +59,11 @@ Ett stort men glesbefolkat land som en gång var en stormakt kring Östersjön o
 
 - [den svenska tonen](pitch_se.md)
 
+**Plans**
+
+- [neutraliteten](plan_neutraliteten.md)
+- [jämställdheten](plan_jamstalldheten.md)
+
 ## Triggers
 
 **[Plot 1: Gustav Vasa och självständigheten 1523](plot_01_vasa_1523.md)**

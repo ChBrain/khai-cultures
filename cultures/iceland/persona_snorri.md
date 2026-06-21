@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Höfðinginn, sagnaritarinn og skáldið á þrettándu öld, valdamikill goðorðsmaður og lögsögumaður á Alþingi, en umfram allt sá sem festi sögurnar og goðafræðina á bók. Slunginn, metnaðargjarn og orðhagur, hann ritar Eddu og konungasögur og bjargar þannig arfi heillar menningar frá gleymsku. Hann skrifar á [móðurmálinu](process_writing_mother_tongue.md) og gerir hina lifandi, töluðu tungu að ódauðlegri bók.
+Höfðinginn, sagnaritarinn og skáldið á þrettándu öld, valdamikill goðorðsmaður og lögsögumaður á Alþingi, en umfram allt sá sem festi sögurnar og goðafræðina á bók. Slunginn, metnaðargjarn og orðhagur, hann ritar Eddu og konungasögur og bjargar þannig arfi heillar menningar frá gleymsku. Hann [skrifar, les og hugsar](process_writing_mother_tongue.md) á móðurmálinu og gerir hina lifandi, töluðu tungu að ódauðlegri bók, Eddu og konungasögum. Latínu lærdómsins og kirkjunnar [ber hann sem verkfæri](process_speaking_carried.md), en velur þjóðtunguna fram yfir hana: þar er gjáin, lærðir menn rituðu á latínu, en hann leggur arf heillar menningar í móðurmálið, og þess vegna geta Íslendingar enn lesið hann átta öldum síðar.
 
 ## Action
 
