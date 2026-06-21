@@ -59,6 +59,11 @@ Uma nação pequena e antiga que, voltada ao mar, partiu de uma orla estreita pa
 
 - [o tom português](pitch_pt.md)
 
+**Plans**
+
+- [a empresa dos Descobrimentos](plan_a_empresa_dos_descobrimentos.md)
+- [a lusofonia](plan_a_lusofonia.md)
+
 ## Triggers
 
 **[Plot 1: Os Descobrimentos](plot_01_descobrimentos.md)**

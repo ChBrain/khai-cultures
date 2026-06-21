@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Uma mulher já de idade, mulher de bairro, criada entre o fado, os santos populares e a missa de domingo. Conhece de cor as cantigas tristes da taberna e canta-as como quem reza, com a voz a tremer na palavra saudade. Paciente, calorosa e resignada, suporta com dignidade aquilo que a vida lhe tirou. Fala a sua [língua materna](process_speaking_mother_tongue.md) baixinho, à mesa e à janela, sem palavras grandes.
+Uma mulher já de idade, mulher de bairro, criada entre o fado, os santos populares e a missa de domingo. Conhece de cor as cantigas tristes da taberna e canta-as como quem reza, com a voz a tremer na palavra saudade. Paciente, calorosa e resignada, suporta com dignidade aquilo que a vida lhe tirou. [Fala, ouve e pensa](process_speaking_mother_tongue.md) na sua língua materna baixinho, à mesa e à janela, sem palavras grandes, e canta-a como quem reza. As línguas do estrangeiro que a aplaude pelo mundo mal as [apanha de ouvido](process_hearing_caught.md), e o que vem escrito noutra língua custa-lhe [decifrá-lo](process_reading_caught.md): o fado e a palavra saudade chegam-lhe inteiros na sua língua, e ninguém de fora os traduz sem os perder.
 
 ## Action
 
