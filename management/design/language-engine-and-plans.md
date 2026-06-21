@@ -67,6 +67,41 @@ The engine's first requirement is that the law be declared once, in an
 `process_using_language.md`, so the ladder reads system-wide. The house does not
 declare it today; the rollout adds it (a governance step).
 
+### 2.4 Communication between personas
+
+Whether two personas can speak is **emergent** - read off their two language
+reads, never authored pairwise (that would be O(n-squared) and would drift). The
+law, declared once in `instructions.md`, states the resolution ladder:
+
+1. **Same mother tongue and variety** -> meaning crosses whole, culture and all.
+2. **Same language, different variety** (de-DE / de-AT, en-GB / en-US, Scots / en)
+   -> the words cross, idiom and connotation slip.
+3. **Only the worn common tongue** (Business English = English at the **worn**
+   width, not a separate language) -> the transaction crosses, the culture does
+   not.
+4. **No shared tongue -> a proxy relays it.** A third persona who shares a tongue
+   with each carries the meaning across two gaps; it arrives **twice-worn**,
+   stripped a little at each hop, and the proxy holds the power.
+5. **No shared tongue and no proxy** -> silence; it does not cross.
+
+**Standing rule:** every multilingual culture fields at least one
+no-shared-language pair and a **named proxy** (Switzerland: Menga reaches the
+country only through Gian). Cross-**culture** dialogue resolves by the same
+ladder and is staged in **groups** (a group casts member-culture personas into
+one encounter) - a follow-on workstream after the per-culture rollout.
+
+### 2.5 Language variety as a position
+
+A language **variety** is a `position` (Has / Orders / Loses / Drives), **held and
+shared** by a culture's personas - the position's `Drives` names them. A German
+persona holds **German Standard German**; three Austrians share one **Austrian
+German**; an English persona holds **British English**, a Scot **Scots**. `Has` is
+the standard's authority, `Orders` what it prescribes as correct, `Loses` where
+dialect or another variety wins, `Drives` who holds it. Varieties are
+**per-culture** (self-contained); the cross-variety friction of tier 2 is read off
+two personas holding different variety-positions of a shared base tongue. `pitch`
+stays reserved for the single Hofstede tone; it is not used for varieties.
+
 ## 3. Rollout
 
 - **Cadence:** one PR per culture, sequential (do one, merge, next), mirroring the
@@ -76,8 +111,13 @@ declare it today; the rollout adds it (a governance step).
   (Switzerland, Spain, Scotland, Northern Ireland), the diaspora/young-global
   archetypes everywhere, the writers and orators - and hold native majorities
   whole as the baseline with loss at the edges.
+- **Variety-positions:** where a culture shares a base language with another, it
+  declares its variety as a `position` (German Standard German, Austrian German,
+  British English, Scots) and links its personas to it.
+- **Proxy, every multilingual culture:** at least one no-shared-language pair and
+  a named proxy (per 2.4).
 - **One governance PR** declares the engine law (the `instructions` / `Knowledge`
-  chapter).
+  chapter), including the communication ladder of 2.4.
 
 ### 3.1 Candidate plans per culture (first draft, to be tuned)
 
@@ -104,8 +144,13 @@ declare it today; the rollout adds it (a governance step).
 ## 4. Status
 
 - **Pilot:** Wales (PR #41) - full language reads on all four personas + two
-  plans. Landed against this design.
-- **Remaining:** 16 culture PRs + 1 governance PR (the engine law).
+  plans. Merged.
+- **Switzerland:** reads + two plans (#44, merged); the proxy / no-shared-language
+  case via Menga and Gian (#45).
+- **Remaining:** the other 15 cultures (each: reads, plans, a variety-position
+  where it shares a base tongue, and a proxy pair if multilingual), 1 governance
+  PR for the engine law and the communication ladder, and a later groups
+  workstream for cross-culture dialogue.
 
 Content is CC-BY-NC-SA, code is MIT; the staging and the architecture are original
 work.
