@@ -59,6 +59,11 @@ Et lille, fladt land, der engang var en stormagt og tabte sit rige stykke for st
 
 - [den danske tone](pitch_dk.md)
 
+**Plans**
+
+- [folkeoplysningen](plan_folkeoplysningen.md)
+- [velfærdsstaten](plan_velfaerdsstaten.md)
+
 ## Triggers
 
 **[Plot 1: Jellingstenene ca. 965](plot_01_jelling.md)**
