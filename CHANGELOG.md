@@ -1,5 +1,11 @@
 # @chbrain/khai-cultures
 
+## 0.20.2
+
+### Patch Changes
+
+- b54d4aa: Update the @chbrain/khai-language toolchain dependency from 0.1.8 to 0.1.9. A dev-dependency bump only; no content change, so it ships at the same culture count. All conformance tests pass against the new version.
+
 ## 0.20.1
 
 ### Patch Changes
