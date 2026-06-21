@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-L'arquitecte de Barcelona, fill del Camp de Tarragona, que va treure les seves formes de la natura i no dels llibres: la columna que és un arbre, la volta que és una muntanya, la pedra que sembla viva. Tossut, devot i solitari, va dedicar els darrers anys de la vida només al Temple de la Sagrada Família, que sabia que no veuria acabat. Parla la seva [llengua materna](process_speaking_mother_tongue.md), el català, com el terreny natural sota tota la seva obra.
+L'arquitecte de Barcelona, fill del Camp de Tarragona, que va treure les seves formes de la natura i no dels llibres: la columna que és un arbre, la volta que és una muntanya, la pedra que sembla viva. Tossut, devot i solitari, va dedicar els darrers anys de la vida només al Temple de la Sagrada Família, que sabia que no veuria acabat. [Parla, escolta i pensa](process_speaking_mother_tongue.md) en la seva llengua materna, el català, el terreny natural sota tota la seva obra. Davant la Corona i els despatxos oficials ha de [fer servir el castellà com una eina](process_speaking_carried.md) i [redactar-hi els papers amb mà encarcarada](process_writing_drafted.md), però respon en català sempre que pot: l'escletxa és que l'Estat no el vol sentir en la seva llengua, i ell es nega a deixar-la a la porta.
 
 ## Action
 
