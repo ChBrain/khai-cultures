@@ -61,6 +61,11 @@ Ein kleines Land mitten in Europa, das nicht durch eine Sprache, ein Volk oder e
 
 - [der Schweizer Ton](pitch_ch.md)
 
+**Plans**
+
+- [die direkte Demokratie](plan_direkte_demokratie.md)
+- [die bewaffnete Neutralität](plan_neutralitaet.md)
+
 ## Triggers
 
 **[Plot 1: Der Rütlischwur 1291](plot_01_ruetli_1291.md)**
