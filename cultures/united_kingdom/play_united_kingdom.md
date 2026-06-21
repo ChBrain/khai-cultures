@@ -49,6 +49,7 @@ An island that turned an offshore kingdom into a union of nations and then into 
 - [the Crown](position_the_crown.md)
 - [Westminster](position_westminster.md)
 - [class](position_class.md)
+- [the common tongue](position_the_common_tongue.md)
 
 **Pieces**
 
@@ -58,6 +59,10 @@ An island that turned an offshore kingdom into a union of nations and then into 
 **Pitches**
 
 - [the British key](pitch_uk.md)
+
+**Plans**
+
+- [the union](plan_the_union.md)
 
 ## Triggers
 
