@@ -59,6 +59,11 @@ Un grand pays qui s'est fait par l'Etat, du roi absolu de Versailles a la Republ
 
 - [le ton francais](pitch_fr.md)
 
+**Plans**
+
+- [l'ecole republicaine](plan_l_ecole_republicaine.md)
+- [la defense de la langue francaise](plan_la_defense_de_la_langue.md)
+
 ## Triggers
 
 **[Plot 1 : Versailles et le Roi-Soleil, vers 1680](plot_01_versailles.md)**

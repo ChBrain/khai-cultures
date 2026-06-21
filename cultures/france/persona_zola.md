@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Le romancier qui ne se contente pas d'ecrire le monde mais qui s'en mele, et qui met sa gloire et sa liberte en jeu pour un homme injustement condamne. Ardent, obstine, convaincu que la verite finit par l'emporter, il invente la figure de l'intellectuel : celui qui, au nom de principes, ose dire non au pouvoir. Il [ecrit dans sa langue maternelle](process_writing_mother_tongue.md) une lettre qui devient un acte, et fait de la plume une force publique.
+Le romancier qui ne se contente pas d'ecrire le monde mais qui s'en mele, et qui met sa gloire et sa liberte en jeu pour un homme injustement condamne. Ardent, obstine, convaincu que la verite finit par l'emporter, il invente la figure de l'intellectuel : celui qui, au nom de principes, ose dire non au pouvoir. Il [ecrit, lit et pense](process_writing_mother_tongue.md) dans sa langue maternelle, et fait de la plume une force publique : une lettre, ' J'accuse ', qui devient un acte. Le dossier truque de l'armee, il le [lit et le suit](process_reading_followed.md) jusqu'a la faille ; mais la langue de son pere italien, celle de son nom, il n'en [retient que ce que l'oreille attrape](process_hearing_caught.md) : l'homme qui devint la conscience de la France portait dans son nom une langue qu'il ne parlait pas.
 
 ## Action
 
