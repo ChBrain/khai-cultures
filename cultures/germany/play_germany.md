@@ -52,6 +52,8 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st√
 - [Sie und Du](position_sie_du.md)
 - [der Meister](position_meister.md)
 - [der Beamte](position_beamte.md)
+- [die deutsche Kultur](position_deutsche_kultur.md)
+- [das deutschl√§ndische Deutsch](position_deutsches_deutsch.md)
 
 **Pieces**
 
@@ -62,6 +64,11 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st√
 **Pitches**
 
 - [die deutsche Tonart](pitch_germany.md)
+
+**Plans**
+
+- [die Energiewende](plan_energiewende.md)
+- [die Erinnerungskultur](plan_erinnerungskultur.md)
 
 ## Triggers
 
