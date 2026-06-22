@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.20.2",
+  "version": "0.21.0",
   "cultures": [
     {
       "kind": "culture",
@@ -58,6 +58,13 @@
       "title": "Iceland",
       "description": "Iceland staged as a culture: a small, tough island nation that trusts it will sort itself out and lets none stand above.",
       "iso": "IS"
+    },
+    {
+      "kind": "culture",
+      "id": "ireland",
+      "title": "Ireland",
+      "description": "Ireland staged as a culture: a nation that reveres a first language it barely speaks and lives in English.",
+      "iso": "IE"
     },
     {
       "kind": "culture",
