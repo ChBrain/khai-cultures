@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.25.0",
+  "version": "0.26.0",
   "cultures": [
     {
       "kind": "culture",
@@ -142,6 +142,13 @@
       "title": "Scotland",
       "description": "Scotland staged as a culture: a proud, egalitarian nation that kept its mind, its kirk, and its independence of spirit.",
       "iso": "GB-SCT"
+    },
+    {
+      "kind": "culture",
+      "id": "slovakia",
+      "title": "Slovakia",
+      "description": "Slovakia staged as a culture: a young nation, long ruled by others, that found its voice and its own state late.",
+      "iso": "SK"
     },
     {
       "kind": "culture",
