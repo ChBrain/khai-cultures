@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.38.0",
+  "version": "0.39.0",
   "cultures": [
     {
       "kind": "culture",
@@ -254,6 +254,13 @@
       "title": "Switzerland",
       "description": "Switzerland staged as a culture: a nation made by will, holding four languages together as one.",
       "iso": "CH"
+    },
+    {
+      "kind": "culture",
+      "id": "turkey",
+      "title": "Turkey",
+      "description": "Turkey staged as a culture: a steppe people astride two continents, between a secular republic and a devout heartland.",
+      "iso": "TR"
     },
     {
       "kind": "culture",
