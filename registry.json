@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.28.0",
+  "version": "0.29.0",
   "cultures": [
     {
       "kind": "culture",
@@ -93,6 +93,13 @@
       "title": "Italy",
       "description": "Italy staged as a culture: a civilization before a state, its national tongue laid late over a peninsula of dialects.",
       "iso": "IT"
+    },
+    {
+      "kind": "culture",
+      "id": "latvia",
+      "title": "Latvia",
+      "description": "Latvia staged as a culture: a peasant nation under foreign lords that sang itself into being and freedom.",
+      "iso": "LV"
     },
     {
       "kind": "culture",
