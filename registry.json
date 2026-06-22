@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.40.0",
+  "version": "0.41.0",
   "cultures": [
     {
       "kind": "culture",
@@ -268,6 +268,13 @@
       "title": "Turkey",
       "description": "Turkey staged as a culture: a steppe people astride two continents, between a secular republic and a devout heartland.",
       "iso": "TR"
+    },
+    {
+      "kind": "culture",
+      "id": "ukraine",
+      "title": "Ukraine",
+      "description": "Ukraine staged as a culture: a distinct nation defending its freedom, dignity, and survival against an empire.",
+      "iso": "UA"
     },
     {
       "kind": "culture",
