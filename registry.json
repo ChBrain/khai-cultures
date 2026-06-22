@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.29.0",
+  "version": "0.30.0",
   "cultures": [
     {
       "kind": "culture",
@@ -37,6 +37,13 @@
       "title": "England",
       "description": "England staged as a culture: a green, ironic land of fair play, the amateur, and mustn't grumble.",
       "iso": "GB-ENG"
+    },
+    {
+      "kind": "culture",
+      "id": "estonia",
+      "title": "Estonia",
+      "description": "Estonia staged as a culture: a small Finnic nation, long ruled by others, reborn through song and code.",
+      "iso": "EE"
     },
     {
       "kind": "culture",
