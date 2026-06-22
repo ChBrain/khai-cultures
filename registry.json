@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.30.0",
+  "version": "0.31.0",
   "cultures": [
     {
       "kind": "culture",
@@ -16,6 +16,13 @@
       "title": "Belgium",
       "description": "Belgium staged as a culture: a country with no common tongue, held across its language border.",
       "iso": "BE"
+    },
+    {
+      "kind": "culture",
+      "id": "croatia",
+      "title": "Croatia",
+      "description": "Croatia staged as a culture: the Adriatic bulwark of Christendom, late to its own state.",
+      "iso": "HR"
     },
     {
       "kind": "culture",
