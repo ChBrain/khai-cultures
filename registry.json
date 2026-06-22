@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.26.0",
+  "version": "0.27.0",
   "cultures": [
     {
       "kind": "culture",
@@ -65,6 +65,13 @@
       "title": "Greece",
       "description": "Greece staged as a culture: the oldest living European tongue, carried three thousand years through every empire.",
       "iso": "GR"
+    },
+    {
+      "kind": "culture",
+      "id": "hungary",
+      "title": "Hungary",
+      "description": "Hungary staged as a culture: a people alone in Europe, bound by a kinless tongue, a wound, and doomed defiance.",
+      "iso": "HU"
     },
     {
       "kind": "culture",
