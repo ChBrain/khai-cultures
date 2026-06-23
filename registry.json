@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.45.0",
+  "version": "0.46.0",
   "cultures": [
     {
       "kind": "culture",
@@ -58,6 +58,13 @@
       "title": "Croatia",
       "description": "Croatia staged as a culture: the Adriatic bulwark of Christendom, late to its own state.",
       "iso": "HR"
+    },
+    {
+      "kind": "culture",
+      "id": "cyprus",
+      "title": "Cyprus",
+      "description": "Cyprus staged as a culture: an island crossroads, Greek and Turkish, split since 1974 and still unhealed.",
+      "iso": "CY"
     },
     {
       "kind": "culture",
