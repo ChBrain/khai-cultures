@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.69.0",
+  "version": "0.70.0",
   "cultures": [
     {
       "kind": "culture",
@@ -114,6 +114,13 @@
       "title": "Croatia",
       "description": "Croatia staged as a culture: the Adriatic bulwark of Christendom, late to its own state.",
       "iso": "HR"
+    },
+    {
+      "kind": "culture",
+      "id": "cuba",
+      "title": "Cuba",
+      "description": "Cuba en escena: una isla de música y resistencia, partida entre dos orillas.",
+      "iso": "CU"
     },
     {
       "kind": "culture",
