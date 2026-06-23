@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.44.0",
+  "version": "0.45.0",
   "cultures": [
     {
       "kind": "culture",
@@ -303,6 +303,13 @@
       "title": "United Kingdom",
       "description": "The United Kingdom staged as a culture: a union of nations bound by law, understatement, and fair play.",
       "iso": "GB"
+    },
+    {
+      "kind": "culture",
+      "id": "usa",
+      "title": "United States",
+      "description": "A nation founded on a creed, forever closing the gap between its promise and its reality.",
+      "iso": "US"
     },
     {
       "kind": "culture",

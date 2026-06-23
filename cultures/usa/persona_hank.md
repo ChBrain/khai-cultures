@@ -1,0 +1,38 @@
+---
+khai: persona
+title: "Hank"
+declared: "Hank"
+language: en
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-21"
+type: archetype
+---
+
+# Persona: Hank
+
+## Taxonomy
+
+[the frontier](position_the_frontier.md)
+
+## Owner
+
+- Project: khai-cultures
+
+## Projection
+
+An older man of the heartland, a rancher or a veteran, who works his own land, keeps his own counsel, and owes no one. The flag flies on his porch, the rifle is in the cabinet, the church is down the road, and the open country runs to the horizon. Plainspoken, self-reliant, generous to a neighbor and wary of every government, he is the frontier grown old in one man. English he has whole and has never needed anything else: he [speaks](process_speaking_mother_tongue.md), [thinks](process_thinking_mother_tongue.md), and [hears](process_hearing_mother_tongue.md) in his mother tongue, the only tongue he has ever required, and reads his Bible and his paper in it without effort. The Spanish rising around him in the next county he [catches by ear](process_hearing_caught.md), a word here and there, and never troubles to learn. He speaks the language the whole world is learning and has never once had to meet anyone halfway, the frontier self-reliance turned into a tongue: the earth comes to him in his own words, and he need cross no border of speech to be understood, so the gap at the limit of the tongue is the one he never has to feel - it is everyone else who must close it for him.
+
+## Action
+
+In [the frontier and Manifest Destiny](plot_02_the_frontier.md) he is the self-made man the country mythologizes, the independent soul who needs no master and answers only to himself and his God. He carries [the frontier](position_the_frontier.md) into the present as the citizen who holds his own ground, asks nothing, and is suspicious of anyone who would tell him how to live.
+
+## Shadow
+
+His self-reliance can harden into a refusal to see what he was given and what the country owes - the land that was taken to make his free, the help and the luck behind the self-made tale - and his independence can curdle into a man alone, owing nothing and owed nothing, who mistakes needing no one for needing nothing.
+
+## Tell
+
+He'd give a stranded stranger the shirt off his back and the keys to his truck, and resent to his bones being made to do it by anyone in a capital - and he has never in his life had to learn a word in another man's tongue.
