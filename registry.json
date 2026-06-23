@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.49.0",
+  "version": "0.50.0",
   "cultures": [
     {
       "kind": "culture",
@@ -184,6 +184,13 @@
       "title": "Malta",
       "description": "Malta staged as a culture: a tiny island fortress at the heart of the Mediterranean, Semitic in tongue yet Catholic.",
       "iso": "MT"
+    },
+    {
+      "kind": "culture",
+      "id": "mexico",
+      "title": "Mexico",
+      "description": "Una nación mestiza nacida del choque de dos mundos, cerrando la herida de la conquista.",
+      "iso": "MX"
     },
     {
       "kind": "culture",
