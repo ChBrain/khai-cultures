@@ -308,6 +308,20 @@
   "groups": [
     {
       "kind": "group",
+      "id": "baltics",
+      "title": "The Baltics",
+      "description": "The Baltics as a group: Estonia, Latvia, and Lithuania, bound by a shared occupation and a sung freedom.",
+      "references": ["estonia", "latvia", "lithuania"]
+    },
+    {
+      "kind": "group",
+      "id": "benelux",
+      "title": "Benelux",
+      "description": "Benelux as a group: Belgium, the Netherlands, and Luxembourg, the small delta union that prototyped Europe.",
+      "references": ["belgium", "luxembourg", "netherlands"]
+    },
+    {
+      "kind": "group",
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
@@ -315,10 +329,24 @@
     },
     {
       "kind": "group",
+      "id": "iberia",
+      "title": "Iberia",
+      "description": "Iberia as a group: Spain and Portugal, the peninsula that once divided the world between its two crowns.",
+      "references": ["portugal", "spain"]
+    },
+    {
+      "kind": "group",
       "id": "nordics",
       "title": "The Nordics",
       "description": "The Nordics as a group: Denmark, Sweden, Norway, Finland, and Iceland, bound by a shared model and a common north.",
       "references": ["denmark", "finland", "iceland", "norway", "sweden"]
+    },
+    {
+      "kind": "group",
+      "id": "visegrad",
+      "title": "The Visegrad Four",
+      "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
+      "references": ["czechia", "hungary", "poland", "slovakia"]
     }
   ]
 }
