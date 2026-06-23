@@ -350,6 +350,13 @@
   "groups": [
     {
       "kind": "group",
+      "id": "anglosphere",
+      "title": "the Anglosphere",
+      "description": "The Anglosphere as a group: five English-speaking nations bound by language, law, and the Five Eyes.",
+      "references": ["australia", "canada", "new_zealand", "united_kingdom", "usa"]
+    },
+    {
+      "kind": "group",
       "id": "baltics",
       "title": "The Baltics",
       "description": "The Baltics as a group: Estonia, Latvia, and Lithuania, bound by a shared occupation and a sung freedom.",
