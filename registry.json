@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.74.0",
+  "version": "0.75.0",
   "cultures": [
     {
       "kind": "culture",
@@ -30,6 +30,13 @@
       "title": "Austria",
       "description": "Austria staged as a culture: the same German tongue as its neighbour, in a softer, baroque, charming key.",
       "iso": "AT"
+    },
+    {
+      "kind": "culture",
+      "id": "bahamas",
+      "title": "The Bahamas",
+      "description": "An archipelago of seven hundred islands, sharing the wealth of its sea and steering its own course.",
+      "iso": "BS"
     },
     {
       "kind": "culture",
