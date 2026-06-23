@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.57.0",
+  "version": "0.58.0",
   "cultures": [
     {
       "kind": "culture",
@@ -44,6 +44,13 @@
       "title": "Belgium",
       "description": "Belgium staged as a culture: a country with no common tongue, held across its language border.",
       "iso": "BE"
+    },
+    {
+      "kind": "culture",
+      "id": "bolivia",
+      "title": "Bolivia",
+      "description": "Bolivia escenificada como cultura: la nación más indígena de América, una y plural en lo alto de los Andes.",
+      "iso": "BO"
     },
     {
       "kind": "culture",
