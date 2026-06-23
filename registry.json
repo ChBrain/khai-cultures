@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.66.0",
+  "version": "0.67.0",
   "cultures": [
     {
       "kind": "culture",
@@ -93,6 +93,13 @@
       "title": "Colombia",
       "description": "A land of magical realism and resilient joy, on the long road from its wound to peace.",
       "iso": "CO"
+    },
+    {
+      "kind": "culture",
+      "id": "costa_rica",
+      "title": "Costa Rica",
+      "description": "Costa Rica en escena: una pequeña democracia sin ejercito que guarda su paz, su igualdad y su verde abundancia.",
+      "iso": "CR"
     },
     {
       "kind": "culture",
