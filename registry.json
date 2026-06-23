@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.73.0",
+  "version": "0.74.0",
   "cultures": [
     {
       "kind": "culture",
@@ -219,6 +219,13 @@
       "title": "Guyana",
       "description": "One plural nation of many peoples and rivers, healing its divide and stewarding a sudden windfall.",
       "iso": "GY"
+    },
+    {
+      "kind": "culture",
+      "id": "haiti",
+      "title": "Haiti",
+      "description": "Premye repiblik nwa a, ki te libere tet li, kanpe ak fyete sou chimen diyite.",
+      "iso": "HT"
     },
     {
       "kind": "culture",
