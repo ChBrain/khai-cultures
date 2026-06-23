@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.54.0",
+  "version": "0.55.0",
   "cultures": [
     {
       "kind": "culture",
@@ -261,6 +261,13 @@
       "title": "Norway",
       "description": "Norway staged as a culture: a steep land of mountains and sea where people belong to nature and share the work.",
       "iso": "NO"
+    },
+    {
+      "kind": "culture",
+      "id": "peru",
+      "title": "Peru",
+      "description": "Una nación de todas las sangres que busca volver compartida su antigua grandeza andina.",
+      "iso": "PE"
     },
     {
       "kind": "culture",
