@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.62.0",
+  "version": "0.63.0",
   "cultures": [
     {
       "kind": "culture",
@@ -184,6 +184,13 @@
       "title": "Guyana",
       "description": "One plural nation of many peoples and rivers, healing its divide and stewarding a sudden windfall.",
       "iso": "GY"
+    },
+    {
+      "kind": "culture",
+      "id": "honduras",
+      "title": "Honduras",
+      "description": "Honduras puesta en escena: una nacion moldeada desde fuera que busca su soberania y su dignidad.",
+      "iso": "HN"
     },
     {
       "kind": "culture",
