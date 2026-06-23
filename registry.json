@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.50.0",
+  "version": "0.51.0",
   "cultures": [
     {
       "kind": "culture",
@@ -44,6 +44,13 @@
       "title": "Bosnia and Herzegovina",
       "description": "Bosnia staged as a culture: the bridge between East and West, three peoples and one tongue, bound and divided.",
       "iso": "BA"
+    },
+    {
+      "kind": "culture",
+      "id": "brazil",
+      "title": "Brazil",
+      "description": "A continental nation of three peoples, the country of the future still arriving.",
+      "iso": "BR"
     },
     {
       "kind": "culture",
