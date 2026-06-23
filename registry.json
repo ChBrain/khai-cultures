@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.55.0",
+  "version": "0.56.0",
   "cultures": [
     {
       "kind": "culture",
@@ -380,6 +380,13 @@
       "title": "United States",
       "description": "A nation founded on a creed, forever closing the gap between its promise and its reality.",
       "iso": "US"
+    },
+    {
+      "kind": "culture",
+      "id": "venezuela",
+      "title": "Venezuela",
+      "description": "La cuna de la independencia de un continente, hoy entre el petróleo y la diáspora.",
+      "iso": "VE"
     },
     {
       "kind": "culture",
