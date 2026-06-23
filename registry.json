@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.63.0",
+  "version": "0.64.0",
   "cultures": [
     {
       "kind": "culture",
@@ -128,6 +128,13 @@
       "title": "Ecuador",
       "description": "El Ecuador puesto en escena: un pequeño país plurinacional en la mitad del mundo, entre sierra y costa.",
       "iso": "EC"
+    },
+    {
+      "kind": "culture",
+      "id": "el_salvador",
+      "title": "El Salvador",
+      "description": "El Salvador en escena: el país más pequeño del istmo, herido por su guerra y unido a sus hijos lejanos.",
+      "iso": "SV"
     },
     {
       "kind": "culture",
