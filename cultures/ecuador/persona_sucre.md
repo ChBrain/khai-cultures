@@ -1,0 +1,38 @@
+---
+khai: persona
+title: "Antonio Jose de Sucre"
+declared: "Antonio José de Sucre"
+language: es
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-23"
+type: real
+---
+
+# Persona: Antonio José de Sucre
+
+## Taxonomy
+
+[la libertad andina](position_la_libertad_andina.md)
+
+## Owner
+
+- Project: khai-cultures
+
+## Projection
+
+El mariscal joven, recto y sereno, mano derecha de Bolívar, que subió con sus tropas las faldas del Pichincha y ganó allí la batalla que dio la libertad a Quito. Caballeroso, exacto y sin afán de gloria propia, fue el soldado en quien más confió el Libertador, y de los próceres el de trato más limpio. El castellano lo tiene entero como cosa suya: [habla](process_speaking_mother_tongue.md), [piensa](process_thinking_mother_tongue.md) y [escribe](process_writing_drafted.md) en su lengua materna los partes y los oficios con que se fundó la república, y en ella dicta la orden y el bando. El francés de los manuales de guerra y de las ideas de la época lo [lee y lo sigue en la página](process_reading_followed.md). Pero mandó un ejército de muchas tierras, criollos, mestizos, soldados indios de la sierra que solo entendían del todo el kichwa, y de aquella lengua de la tropa que lo siguió al volcán apenas [alcanzó a captar lo que el oído recoge](process_hearing_followed.md). Dio la libertad a un pueblo cuya lengua materna no era la suya, y la orden que los hizo libres viajó traducida hasta la última fila, de modo que el vacío se le abrió en el límite de la lengua, allí donde el que mandaba y el que moría no siempre se decían las cosas en el mismo idioma.
+
+## Action
+
+En [la Libertad de Pichincha (1822)](plot_02_la_libertad_de_pichincha.md) gana la batalla en las faldas del volcán y sella la independencia de Quito, dando cuerpo a [la libertad andina](position_la_libertad_andina.md). Con esa victoria incorpora a la nación naciente al gran sueño de la Gran Colombia, del que el país saldrá después para hacerse república propia.
+
+## Shadow
+
+El prócer venido de fuera que libera una tierra que no es la suya es la sombra de una libertad heredada: la tentación de tenerse por libre por gracia de los grandes hombres y no por obra propia, y de quedarse en el bronce del libertador olvidando la república de ciudadanos que la gesta dejó a medio cumplir.
+
+## Tell
+
+Gana la batalla más alta y la cuenta como si fuera de todos; modesto en la victoria, da un país y no se queda con él.
