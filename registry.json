@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.65.0",
+  "version": "0.66.0",
   "cultures": [
     {
       "kind": "culture",
@@ -282,6 +282,13 @@
       "title": "New Zealand",
       "description": "Two peoples bound by a founding treaty, an egalitarian nation at the edge of the world.",
       "iso": "NZ"
+    },
+    {
+      "kind": "culture",
+      "id": "nicaragua",
+      "title": "Nicaragua",
+      "description": "Nicaragua, tierra de lagos y volcanes y de poetas, dos veces dividida entre el Pacifico y el Caribe.",
+      "iso": "NI"
     },
     {
       "kind": "culture",
