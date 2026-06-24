@@ -751,6 +751,13 @@
     },
     {
       "kind": "group",
+      "id": "mercosur",
+      "title": "the Southern Common Market",
+      "description": "Mercosur as a group: the Southern Cone common market, born of rivals reconciled into a river-basin union.",
+      "references": ["argentina", "bolivia", "brazil", "paraguay", "uruguay"]
+    },
+    {
+      "kind": "group",
       "id": "nato",
       "title": "NATO",
       "description": "NATO as a group: the transatlantic alliance that grew from twelve to thirty-two, bound by Article 5.",
