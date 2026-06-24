@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.109.0",
+  "version": "0.110.0",
   "cultures": [
     {
       "kind": "culture",
@@ -611,6 +611,13 @@
       "title": "Serbia",
       "description": "Serbia staged as a culture: an Orthodox nation of defiant inat, marked by the Kosovo covenant and loss.",
       "iso": "RS"
+    },
+    {
+      "kind": "culture",
+      "id": "singapore",
+      "title": "Singapore",
+      "description": "A little red dot that turned scarcity into a global city, holding many peoples at one shared table.",
+      "iso": "SG"
     },
     {
       "kind": "culture",
