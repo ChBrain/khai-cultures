@@ -624,6 +624,22 @@
     },
     {
       "kind": "group",
+      "id": "central_america",
+      "title": "Central America",
+      "description": "Central America as a group: the isthmus of the SICA bloc, from the Maya world to a system of integration.",
+      "references": [
+        "belize",
+        "costa_rica",
+        "dominican_republic",
+        "el_salvador",
+        "guatemala",
+        "honduras",
+        "nicaragua",
+        "panama"
+      ]
+    },
+    {
+      "kind": "group",
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
