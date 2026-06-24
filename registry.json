@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.89.0",
+  "version": "0.90.0",
   "cultures": [
     {
       "kind": "culture",
@@ -338,6 +338,13 @@
       "title": "Malta",
       "description": "Malta staged as a culture: a tiny island fortress at the heart of the Mediterranean, Semitic in tongue yet Catholic.",
       "iso": "MT"
+    },
+    {
+      "kind": "culture",
+      "id": "marshall_islands",
+      "title": "Marshall Islands",
+      "description": "Aelon in ri-jerakrok eo, kinie baam eo, im juon aelon ej jutak iturin lometo eo ej wanlontak.",
+      "iso": "MH"
     },
     {
       "kind": "culture",
