@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.87.0",
+  "version": "0.88.0",
   "cultures": [
     {
       "kind": "culture",
@@ -548,6 +548,13 @@
       "title": "Switzerland",
       "description": "Switzerland staged as a culture: a nation made by will, holding four languages together as one.",
       "iso": "CH"
+    },
+    {
+      "kind": "culture",
+      "id": "tonga",
+      "title": "Tonga",
+      "description": "Ko Tonga ko e fonua Pasifika na'e 'ikai 'aupito pule'i, mo'ui pe 'a e Tu'i mo e tui.",
+      "iso": "TO"
     },
     {
       "kind": "culture",
