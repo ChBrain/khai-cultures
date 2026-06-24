@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.105.0",
+  "version": "0.106.0",
   "cultures": [
     {
       "kind": "culture",
@@ -303,6 +303,13 @@
       "title": "Iceland",
       "description": "Iceland staged as a culture: a small, tough island nation that trusts it will sort itself out and lets none stand above.",
       "iso": "IS"
+    },
+    {
+      "kind": "culture",
+      "id": "indonesia",
+      "title": "Indonesia",
+      "description": "An archipelago of thousands of islands made one nation by a chosen tongue and a shared creed.",
+      "iso": "ID"
     },
     {
       "kind": "culture",
