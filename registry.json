@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.110.0",
+  "version": "0.111.0",
   "cultures": [
     {
       "kind": "culture",
@@ -688,6 +688,13 @@
       "title": "Thailand",
       "description": "Thailand staged as a culture: the never-colonized land of the smile, bending to keep what it holds dear.",
       "iso": "TH"
+    },
+    {
+      "kind": "culture",
+      "id": "timor_leste",
+      "title": "Timor-Leste",
+      "description": "Timor Lorosae staged as a culture: the land of the rising sun, held by lulik, faith, and the long road to freedom.",
+      "iso": "TL"
     },
     {
       "kind": "culture",
