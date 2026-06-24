@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.93.0",
+  "version": "0.94.0",
   "cultures": [
     {
       "kind": "culture",
@@ -373,6 +373,13 @@
       "title": "Montenegro",
       "description": "Montenegro staged as a culture: a warrior nation of the Black Mountain whose tongue is split by its own name.",
       "iso": "ME"
+    },
+    {
+      "kind": "culture",
+      "id": "nauru",
+      "title": "Nauru",
+      "description": "Naoero: ribanan rik, eb me eo aen me imin boe, ngo etsi eko ma dorerin.",
+      "iso": "NR"
     },
     {
       "kind": "culture",
