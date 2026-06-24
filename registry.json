@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.92.0",
+  "version": "0.93.0",
   "cultures": [
     {
       "kind": "culture",
@@ -597,6 +597,13 @@
       "title": "Turkey",
       "description": "Turkey staged as a culture: a steppe people astride two continents, between a secular republic and a devout heartland.",
       "iso": "TR"
+    },
+    {
+      "kind": "culture",
+      "id": "tuvalu",
+      "title": "Tuvalu",
+      "description": "Te fenua foliki e tu i te tafa o te moana, e tau ma te peau e maluga aka.",
+      "iso": "TV"
     },
     {
       "kind": "culture",
