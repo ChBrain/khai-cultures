@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.120.0",
+  "version": "0.121.0",
   "cultures": [
     {
       "kind": "culture",
@@ -814,6 +814,13 @@
       "title": "United States",
       "description": "A nation founded on a creed, forever closing the gap between its promise and its reality.",
       "iso": "US"
+    },
+    {
+      "kind": "culture",
+      "id": "uzbekistan",
+      "title": "Uzbekistan",
+      "description": "The heart of the Silk Road staged as a culture: jewelled cities, the golden age of learning, and the mahalla.",
+      "iso": "UZ"
     },
     {
       "kind": "culture",
