@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.86.0",
+  "version": "0.87.0",
   "cultures": [
     {
       "kind": "culture",
@@ -471,6 +471,13 @@
       "title": "Saint Vincent and the Grenadines",
       "description": "An archipelago of deep Garifuna roots under a living volcano, scattered isles carried forward as one.",
       "iso": "VC"
+    },
+    {
+      "kind": "culture",
+      "id": "samoa",
+      "title": "Samoa",
+      "description": "Samoa o le fatu o Polenisia, o le faaSamoa ma le aiga e tausi i le lalolagi fou.",
+      "iso": "WS"
     },
     {
       "kind": "culture",
