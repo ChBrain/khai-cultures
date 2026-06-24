@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.80.0",
+  "version": "0.81.0",
   "cultures": [
     {
       "kind": "culture",
@@ -163,6 +163,13 @@
       "title": "Denmark",
       "description": "Denmark staged as a culture: a flat, trusting land where no one stands above and the good-enough wins.",
       "iso": "DK"
+    },
+    {
+      "kind": "culture",
+      "id": "dominica",
+      "title": "Dominica",
+      "description": "The Nature Isle, last refuge of the Kalinago, a wild Creole nation rebuilding stronger after the storm.",
+      "iso": "DM"
     },
     {
       "kind": "culture",

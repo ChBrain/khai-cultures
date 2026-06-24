@@ -1,0 +1,37 @@
+---
+khai: process
+title: "Jounen Kweyol"
+declared: "Jounen Kweyol"
+language: en
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-23"
+---
+
+# Process: Jounen Kweyol
+
+## Taxonomy
+
+Parent group: processes
+
+## Owner
+
+- Project: khai-cultures
+
+## Initiated by
+
+The whole island in the last Friday of October, in the Independence season: the schools and offices put aside the everyday and turn to Creole Day, with everyone in the madras and the wob dwiyet, the traditional dress, the radio and the talk turning to Kweyol, and the bakwa and the cassava and the bush rum laid out. It takes only a community willing to wear, speak, cook, and dance its own Creole for a day, and the island does it together.
+
+## Direction
+
+Toward pride in the Creole self: the day the island lifts its Kweyol tongue, its food, its dress, and its music out of the everyday and holds them up as the heart of who it is. It is the festival of the Creole identity that men like the cultural nationalists made the nation's pride, the yard's own way of life claimed openly and worn with honor, the speaking of Kweyol turned from a thing of the kitchen into a thing of celebration.
+
+## Lever
+
+It is driven by the long work of turning Creole from something the island was taught to be ashamed of into something it wears with pride, and by the need of a small nation to know and keep its own. It holds against the pull of the metropolitan and the modern, the English and the imported, that would thin the Kweyol away; against it stands the risk of the day becoming costume alone, the living tongue worn once a year and let slip the rest.
+
+## Echo
+
+Jounen Kweyol makes audible what [the Creole nation's voice](position_the_creole_nations_voice.md) holds: that the Kweyol tongue and the Creole way are not a lesser thing to hide but the very identity of the nation. In its madras and its Kweyol the island wears the pride that [E.O. LeBlanc](persona_eo_leblanc.md) made the work of the nation, the yard's own speech lifted up for all to claim.
