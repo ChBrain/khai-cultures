@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.115.0",
+  "version": "0.116.0",
   "cultures": [
     {
       "kind": "culture",
@@ -457,6 +457,13 @@
       "title": "Nauru",
       "description": "Naoero: ribanan rik, eb me eo aen me imin boe, ngo etsi eko ma dorerin.",
       "iso": "NR"
+    },
+    {
+      "kind": "culture",
+      "id": "nepal",
+      "title": "Nepal",
+      "description": "Nepal staged as a culture: the land in the lap of the Himalaya, where many peoples and two faiths live as one.",
+      "iso": "NP"
     },
     {
       "kind": "culture",
