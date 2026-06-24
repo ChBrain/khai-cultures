@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.103.0",
+  "version": "0.104.0",
   "cultures": [
     {
       "kind": "culture",
@@ -100,6 +100,13 @@
       "title": "Bulgaria",
       "description": "Bulgaria staged as a culture: the nation that gave the Slavs their alphabet and held through five centuries of yoke.",
       "iso": "BG"
+    },
+    {
+      "kind": "culture",
+      "id": "cambodia",
+      "title": "Cambodia",
+      "description": "Cambodia staged as a culture: the heirs of Angkor, a people of the wat and the rice, enduring and renewed.",
+      "iso": "KH"
     },
     {
       "kind": "culture",
