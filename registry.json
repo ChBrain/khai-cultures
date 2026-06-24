@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.118.0",
+  "version": "0.119.0",
   "cultures": [
     {
       "kind": "culture",
@@ -415,6 +415,13 @@
       "title": "Malaysia",
       "description": "Malaysia staged as a culture: many peoples and faiths bound into one nation by muhibbah.",
       "iso": "MY"
+    },
+    {
+      "kind": "culture",
+      "id": "maldives",
+      "title": "Maldives",
+      "description": "A nation of coral atolls held by one faith, one tongue, and the sea that gives and takes.",
+      "iso": "MV"
     },
     {
       "kind": "culture",
