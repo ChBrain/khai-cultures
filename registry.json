@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.114.0",
+  "version": "0.115.0",
   "cultures": [
     {
       "kind": "culture",
@@ -674,6 +674,13 @@
       "title": "Spain",
       "description": "Spain staged as a culture: a plurinational land of warmth and family, one and many at once.",
       "iso": "ES"
+    },
+    {
+      "kind": "culture",
+      "id": "sri_lanka",
+      "title": "Sri Lanka",
+      "description": "The resplendent island staged as a culture: tank and dagoba, faith and many peoples, one island home.",
+      "iso": "LK"
     },
     {
       "kind": "culture",
