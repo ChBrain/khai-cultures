@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.107.0",
+  "version": "0.108.0",
   "cultures": [
     {
       "kind": "culture",
@@ -93,6 +93,13 @@
       "title": "Brazil",
       "description": "A continental nation of three peoples, the country of the future still arriving.",
       "iso": "BR"
+    },
+    {
+      "kind": "culture",
+      "id": "brunei",
+      "title": "Brunei",
+      "description": "Brunei staged as a culture: the abode of peace, an enduring sultanate on the river of Borneo.",
+      "iso": "BN"
     },
     {
       "kind": "culture",
