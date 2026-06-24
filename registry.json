@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.123.0",
+  "version": "0.124.0",
   "cultures": [
     {
       "kind": "culture",
@@ -793,6 +793,13 @@
       "title": "Turkey",
       "description": "Turkey staged as a culture: a steppe people astride two continents, between a secular republic and a devout heartland.",
       "iso": "TR"
+    },
+    {
+      "kind": "culture",
+      "id": "turkmenistan",
+      "title": "Turkmenistan",
+      "description": "Turkmenistan staged as a culture: the desert and the golden horse, the carpet and the poet's word.",
+      "iso": "TM"
     },
     {
       "kind": "culture",
