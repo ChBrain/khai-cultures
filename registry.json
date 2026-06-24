@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.124.0",
+  "version": "0.125.0",
   "cultures": [
     {
       "kind": "culture",
@@ -345,6 +345,13 @@
       "title": "Indonesia",
       "description": "An archipelago of thousands of islands made one nation by a chosen tongue and a shared creed.",
       "iso": "ID"
+    },
+    {
+      "kind": "culture",
+      "id": "iran",
+      "title": "Iran",
+      "description": "Iran staged as a culture: an ancient civilization that kept its tongue, its poets, and its spring.",
+      "iso": "IR"
     },
     {
       "kind": "culture",
