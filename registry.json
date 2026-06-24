@@ -602,6 +602,28 @@
     },
     {
       "kind": "group",
+      "id": "caricom",
+      "title": "the Caribbean Community",
+      "description": "CARICOM as a group: the Caribbean Community, small states bound by a plantation past and a shared future.",
+      "references": [
+        "antigua_and_barbuda",
+        "bahamas",
+        "barbados",
+        "belize",
+        "dominica",
+        "grenada",
+        "guyana",
+        "haiti",
+        "jamaica",
+        "saint_kitts_and_nevis",
+        "saint_lucia",
+        "saint_vincent_and_the_grenadines",
+        "suriname",
+        "trinidad_and_tobago"
+      ]
+    },
+    {
+      "kind": "group",
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
