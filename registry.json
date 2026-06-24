@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.100.0",
+  "version": "0.101.0",
   "cultures": [
     {
       "kind": "culture",
@@ -695,6 +695,13 @@
       "title": "Venezuela",
       "description": "La cuna de la independencia de un continente, hoy entre el petróleo y la diáspora.",
       "iso": "VE"
+    },
+    {
+      "kind": "culture",
+      "id": "vietnam",
+      "title": "Vietnam",
+      "description": "Vietnam staged as a culture: a people of the rice deltas, bound by family and an enduring will to remain themselves.",
+      "iso": "VN"
     },
     {
       "kind": "culture",
