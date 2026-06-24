@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.96.0",
+  "version": "0.97.0",
   "cultures": [
     {
       "kind": "culture",
@@ -317,6 +317,13 @@
       "title": "Jamaica",
       "description": "A small island that became a global cultural superpower, likkle but tallawah.",
       "iso": "JM"
+    },
+    {
+      "kind": "culture",
+      "id": "japan",
+      "title": "Japan",
+      "description": "An island country of four seasons and long continuity, forever joining the old way and the new.",
+      "iso": "JP"
     },
     {
       "kind": "culture",
