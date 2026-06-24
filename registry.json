@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.102.0",
+  "version": "0.103.0",
   "cultures": [
     {
       "kind": "culture",
@@ -331,6 +331,13 @@
       "title": "Kiribati",
       "description": "Te botanaomata n Mikronesia i aon abamwakoro aika a uarereke, e tei imwain te taari ae e a rake.",
       "iso": "KI"
+    },
+    {
+      "kind": "culture",
+      "id": "laos",
+      "title": "Laos",
+      "description": "Laos staged as a culture: the land of the wat, the river, and the unhurried heart of sticky rice.",
+      "iso": "LA"
     },
     {
       "kind": "culture",
