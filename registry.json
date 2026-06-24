@@ -706,6 +706,13 @@
     },
     {
       "kind": "group",
+      "id": "lusophone",
+      "title": "the Lusophone World",
+      "description": "The Lusophone world as a group: Portugal and Brazil, one tongue carried across the Atlantic by the sea.",
+      "references": ["brazil", "portugal"]
+    },
+    {
+      "kind": "group",
       "id": "nato",
       "title": "NATO",
       "description": "NATO as a group: the transatlantic alliance that grew from twelve to thirty-two, bound by Article 5.",
