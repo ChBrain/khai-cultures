@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.119.0",
+  "version": "0.120.0",
   "cultures": [
     {
       "kind": "culture",
@@ -373,6 +373,13 @@
       "title": "Japan",
       "description": "An island country of four seasons and long continuity, forever joining the old way and the new.",
       "iso": "JP"
+    },
+    {
+      "kind": "culture",
+      "id": "kazakhstan",
+      "title": "Kazakhstan",
+      "description": "Kazakhstan staged as a culture: the boundless steppe, the nomad's word, and a young nation reaching for the stars.",
+      "iso": "KZ"
     },
     {
       "kind": "culture",
