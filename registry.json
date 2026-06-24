@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.117.0",
+  "version": "0.118.0",
   "cultures": [
     {
       "kind": "culture",
@@ -86,6 +86,13 @@
       "title": "Belize",
       "description": "A small, late-born, English-speaking nation holding its many peoples as one between forest and reef.",
       "iso": "BZ"
+    },
+    {
+      "kind": "culture",
+      "id": "bhutan",
+      "title": "Bhutan",
+      "description": "Bhutan staged as a culture: the Land of the Thunder Dragon, held by the dharma, the mountains, and happiness.",
+      "iso": "BT"
     },
     {
       "kind": "culture",
