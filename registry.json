@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.82.0",
+  "version": "0.83.0",
   "cultures": [
     {
       "kind": "culture",
@@ -394,6 +394,13 @@
       "title": "Panama",
       "description": "Panamá puesta como cultura: el istmo, el cruce del mundo, un crisol que pelea por su soberanía.",
       "iso": "PA"
+    },
+    {
+      "kind": "culture",
+      "id": "papua_new_guinea",
+      "title": "Papua New Guinea",
+      "description": "Wanpela kantri wantaim 800 tok ples, holim wantaim long Tok Pisin na wantok.",
+      "iso": "PG"
     },
     {
       "kind": "culture",
