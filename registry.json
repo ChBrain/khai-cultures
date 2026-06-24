@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.76.0",
+  "version": "0.77.0",
   "cultures": [
     {
       "kind": "culture",
@@ -415,6 +415,13 @@
       "title": "Russia",
       "description": "Russia staged as a culture: a vast land and a strong state, a great soul and literature, and the weight they carry.",
       "iso": "RU"
+    },
+    {
+      "kind": "culture",
+      "id": "saint_lucia",
+      "title": "Saint Lucia",
+      "description": "A small Creole island fought over fourteen times that gave the world two Nobel laureates.",
+      "iso": "LC"
     },
     {
       "kind": "culture",
