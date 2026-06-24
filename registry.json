@@ -848,6 +848,13 @@
     },
     {
       "kind": "group",
+      "id": "the_andes",
+      "title": "the Andean Community",
+      "description": "The Andes as a group: the Andean Community, heirs of the Inca along the great cordillera.",
+      "references": ["bolivia", "colombia", "ecuador", "peru"]
+    },
+    {
+      "kind": "group",
       "id": "visegrad",
       "title": "The Visegrad Four",
       "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
