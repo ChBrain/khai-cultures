@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.97.0",
+  "version": "0.98.0",
   "cultures": [
     {
       "kind": "culture",
@@ -569,6 +569,13 @@
       "title": "Solomon Islands",
       "description": "Solomon Aelan: planti aelan, planti tok ples, wanfala wantok.",
       "iso": "SB"
+    },
+    {
+      "kind": "culture",
+      "id": "south_korea",
+      "title": "South Korea",
+      "description": "Korea staged as a culture: a people of deep feeling who made an alphabet, a family bond, and a wave the world follows.",
+      "iso": "KR"
     },
     {
       "kind": "culture",
