@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.88.0",
+  "version": "0.89.0",
   "cultures": [
     {
       "kind": "culture",
@@ -345,6 +345,13 @@
       "title": "Mexico",
       "description": "Una nación mestiza nacida del choque de dos mundos, cerrando la herida de la conquista.",
       "iso": "MX"
+    },
+    {
+      "kind": "culture",
+      "id": "micronesia",
+      "title": "Micronesia",
+      "description": "A federation of four island tongues held as one nation by English and a shared ocean.",
+      "iso": "FM"
     },
     {
       "kind": "culture",
