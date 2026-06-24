@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.77.0",
+  "version": "0.78.0",
   "cultures": [
     {
       "kind": "culture",
@@ -219,6 +219,13 @@
       "title": "Greece",
       "description": "Greece staged as a culture: the oldest living European tongue, carried three thousand years through every empire.",
       "iso": "GR"
+    },
+    {
+      "kind": "culture",
+      "id": "grenada",
+      "title": "Grenada",
+      "description": "The Spice Isle, healing the memory of its revolution and carrying a small nation forward as one people.",
+      "iso": "GD"
     },
     {
       "kind": "culture",
