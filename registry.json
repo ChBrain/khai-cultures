@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.99.0",
+  "version": "0.100.0",
   "cultures": [
     {
       "kind": "culture",
@@ -380,6 +380,13 @@
       "title": "Micronesia",
       "description": "A federation of four island tongues held as one nation by English and a shared ocean.",
       "iso": "FM"
+    },
+    {
+      "kind": "culture",
+      "id": "mongolia",
+      "title": "Mongolia",
+      "description": "Mongolia staged as a culture: the great steppe under the eternal blue sky, a nation of herders and horsemen.",
+      "iso": "MN"
     },
     {
       "kind": "culture",
