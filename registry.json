@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.108.0",
+  "version": "0.109.0",
   "cultures": [
     {
       "kind": "culture",
@@ -527,6 +527,13 @@
       "title": "Peru",
       "description": "Una nación de todas las sangres que busca volver compartida su antigua grandeza andina.",
       "iso": "PE"
+    },
+    {
+      "kind": "culture",
+      "id": "philippines",
+      "title": "Philippines",
+      "description": "The Philippines staged as a culture: an archipelago of many islands held as one by kapwa, family, and faith.",
+      "iso": "PH"
     },
     {
       "kind": "culture",
