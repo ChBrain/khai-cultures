@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.139.0",
+  "version": "0.140.0",
   "cultures": [
     {
       "kind": "culture",
@@ -443,6 +443,13 @@
       "title": "Kiribati",
       "description": "Te botanaomata n Mikronesia i aon abamwakoro aika a uarereke, e tei imwain te taari ae e a rake.",
       "iso": "KI"
+    },
+    {
+      "kind": "culture",
+      "id": "kuwait",
+      "title": "Kuwait",
+      "description": "Kuwait staged as a culture: a seafaring people of the dhow and the pearl, the desert and the diwaniya.",
+      "iso": "KW"
     },
     {
       "kind": "culture",
