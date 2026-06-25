@@ -23,7 +23,7 @@ Eine Produktionsvorgabe: der bewusste, nach 1945 gefasste Plan, aus den Trümmer
 
 ## Direction
 
-Hin zu einem Land, das sich nicht als Teil Deutschlands begreift, sondern als eigene Nation, mit eigener Geschichte, eigenem Deutsch und eigenem Selbstbild, nach aussen von der Neutralität und nach innen vom Stolz auf das Eigene getragen. Was [Grete](persona_grete.md) in der Form hochhält und [Lukas](persona_lukas.md) ohne Nostalgie selbstverständlich lebt, soll Bestand haben.
+Hin zu einem Land, das sich nicht als Teil Deutschlands begreift, sondern als eigene Nation, mit eigener Geschichte, eigenem Deutsch und eigenem Selbstbild, nach außen von der Neutralität und nach innen vom Stolz auf das Eigene getragen. Was [Grete](persona_grete.md) in der Form hochhält und [Lukas](persona_lukas.md) ohne Nostalgie selbstverständlich lebt, soll Bestand haben.
 
 ## Orders
 

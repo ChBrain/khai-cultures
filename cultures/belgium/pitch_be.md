@@ -22,11 +22,11 @@ Le ton dans lequel se joue la production [Belgium](play_belgium.md). Il ne chang
 
 ## Tenor
 
-On joue en mineur et en dérision, jamais sur le mode grandiose. Le pays ne se prend pas au sérieux : il préfère l'autodérision à la fierté, le compromis au conflit, la zwanze et l'absurde à la grande déclaration. On y est bon vivant, attaché à la table, à la bière et aux frites, et modeste jusqu'à se moquer de soi avant que les autres ne s'en chargent.
+On joue en mineur et en dérision, jamais sur le mode grandiose. Le pays ne se prend pas au sérieux : il préfère l'autodérision à la fierté, le compromis au conflit, la zwanze et l'absurde à la grande déclaration, et lance volontiers une vanne sur lui-même là où un autre bomberait le torse. On y est bon vivant, attaché à la table, à la bière d'abbaye et aux frites du fritkot, fervent de la BD et du trait clair, et modeste jusqu'à se moquer de soi avant que les autres ne s'en chargent.
 
 ## Undertow
 
-Sous l'ironie court la mélancolie d'un pays bâti sur une faille, jamais tout à fait certain de devoir exister, toujours à un compromis de la rupture. Et court aussi un grand besoin de règles et de certitude, qu'on apaise non par l'autorité mais par la négociation sans fin : on encadre, on partage la poire en deux, on évite le tranchant. C'est ce qui tient le ton loin de l'euphorie comme du drame.
+Sous l'ironie court la mélancolie d'un pays bâti sur une faille, jamais tout à fait certain de devoir exister, toujours à un compromis de la rupture, sous une drache nationale qui n'en finit pas. Et court aussi un grand besoin de règles et de certitude, qu'on apaise non par l'autorité mais par la négociation sans fin : on encadre, on partage la poire en deux, on évite le tranchant. C'est ce qui tient le ton loin de l'euphorie comme du drame.
 
 ## Nerve
 

@@ -35,4 +35,4 @@ Napoleon ist besiegt, und Europa muss neu geordnet werden. Nach [Wien](place_wie
 
 ## Tension
 
-Wien ist noch einmal die Mitte Europas, doch der Glanz ruht auf Form und Inszenierung mehr als auf wirklicher Kraft. Dieselbe Kunst, die Wahrheit zu umspielen statt sie zu nennen, hält den Frieden und verschleiert zugleich, dass die grosse Zeit sich bereits neigt.
+Wien ist noch einmal die Mitte Europas, doch der Glanz ruht auf Form und Inszenierung mehr als auf wirklicher Kraft. Dieselbe Kunst, die Wahrheit zu umspielen statt sie zu nennen, hält den Frieden und verschleiert zugleich, dass die große Zeit sich bereits neigt.

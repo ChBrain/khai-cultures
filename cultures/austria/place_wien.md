@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-Die Hauptstadt an der Donau, einst die Mitte eines Weltreiches, heute eine Stadt, die von ihrer grossen Vergangenheit lebt: Ring und Palais, Kaffeehäuser und Musik, Glanz und ein feiner Hauch von Wehmut.
+Die Hauptstadt an der Donau, einst die Mitte eines Weltreiches, heute eine Stadt, die von ihrer großen Vergangenheit lebt: Ring und Palais, Kaffeehäuser und Musik, Glanz und ein feiner Hauch von Wehmut.
 
 ## Holds
 

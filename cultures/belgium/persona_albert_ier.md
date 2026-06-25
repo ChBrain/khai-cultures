@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Le Roi-Chevalier, souverain d'un pays divisé qui choisit de rester avec son armée plutôt que de fuir. Droit, réservé, courageux sans panache, il se veut le roi de tous ses sujets, des deux langues. [Il parle, écoute et pense](process_speaking_mother_tongue.md) en français, la langue de la cour et de l'État dont il hérite ; mais sur le front, le néerlandais de ses soldats flamands, il l'[apprend et le porte comme un outil](process_speaking_carried.md) pour s'adresser à eux dans leur langue. Là est la faille : le roi francophone doit être aussi le roi des Flamands, et tenir un pays dont il ne peut parler les deux langues d'une même bouche.
+Le Roi-Chevalier, souverain d'un pays divisé qui choisit de rester avec son armée plutôt que de filer. Droit, réservé, courageux sans panache, il se veut le roi de tous ses sujets, des deux langues, une fois pour toutes. [Il parle, écoute et pense](process_speaking_mother_tongue.md) en français, la langue de la cour et de l'État dont il hérite ; mais sur le front, le néerlandais de ses soldats flamands, il l'[apprend et le porte comme un outil](process_speaking_carried.md) pour s'adresser à eux dans leur langue. Là est la faille, au bord même de la langue : le roi francophone doit être aussi le roi des Flamands, et tenir un pays dont il ne peut parler les deux langues d'une même bouche.
 
 ## Action
 
-Sur [l'Yser](plot_02_yser_1914.md) il refuse de quitter le pays, tient avec son armée le dernier coin de Belgique libre, partage la boue des tranchées et s'adresse à ses soldats dans l'une et l'autre langue. Il incarne [la Couronne](position_la_couronne.md) comme le seul lien qui tienne au-dessus des partis et des communautés.
+Sur [l'Yser](plot_02_yser_1914.md) il refuse de quitter le pays, tient avec son armée le dernier coin de Belgique libre, partage la boue des tranchées sous la drache et s'adresse à ses soldats dans l'une et l'autre langue. Il incarne [la Couronne](position_la_couronne.md) comme le seul lien qui tienne au-dessus des partis et des communautés.
 
 ## Shadow
 

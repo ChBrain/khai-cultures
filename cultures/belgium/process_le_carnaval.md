@@ -22,11 +22,11 @@ Parent group: processes
 
 ## Initiated by
 
-Les jours gras, quand le tambour bat dans les rues de Binche et d'ailleurs et que les Gilles, masqués de cire et coiffés de plumes d'autruche, chaussent leurs sabots dès l'aube. Il suffit du roulement du tambour et d'une ville qui ferme ses commerces pour que la fête prenne tout.
+Les jours gras, quand le tambour bat dans les rues de Binche et d'ailleurs et que les Gilles, masqués de cire et coiffés de plumes d'autruche, chaussent leurs sabots dès l'aube, drache ou pas drache. Il suffit du roulement du tambour et d'une ville qui ferme ses commerces pour que la fête prenne tout.
 
 ## Direction
 
-Vers le renversement réglé du quotidien : la ville se met sens dessus dessous pour un jour, les Gilles avancent au pas et lancent des oranges à la foule, et chacun redevient, le temps du carnaval, membre d'une même communauté bruyante et joyeuse.
+Vers le renversement réglé du quotidien : la ville se met sens dessus dessous pour un jour, les Gilles avancent au pas et lancent des oranges sanguines à la foule, attention aux carreaux s'il vous plaît, et chacun redevient, le temps du carnaval, membre d'une même communauté bruyante et joyeuse.
 
 ## Lever
 

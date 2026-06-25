@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-Aan de noordkust van Zuid-Amerika leven de inheemse volken op een land dat de Europeanen pas laat in handen krijgen. In de zeventiende eeuw vechten Engelsen en Nederlanders om de kuststrook, en in de Vrede van Breda van 1667 ruilen de twee machten hun veroveringen: de Nederlanders behouden Suriname en laten Nieuw-Amsterdam, het latere New York, aan de Engelsen.
+Aan de noordkust van Zuid-Amerika leven de Inheemse volken al lang op een land dat de Europeanen pas laat in handen krijgen. In de zeventiende eeuw vechten Engelsen en Nederlanders om de kuststrook, en in de Vrede van Breda van 1667 ruilen de twee machten hun veroveringen: de Nederlanders houden Suriname en laten Nieuw-Amsterdam, het latere New York, aan de Engelsen.
 
 ## Action
 
-De Nederlanders houden de grond aan de Surinamerivier en maken er een plantagekolonie van suiker van, gebouwd op de slavernij van uit Afrika weggevoerde mensen. De kolonie groeit tot een van de wreedste plantagesamenlevingen van de nieuwe wereld, rijk aan suiker en gedragen door onvrije arbeid, terwijl de inheemse volken zich terugtrekken in het binnenland. Zo wordt op de geruilde grond de eerste laag van de natie gelegd, en met haar [de koloniale wond](position_de_koloniale_wond.md) die het hele verhaal daarna zal dragen.
+De Nederlanders houden de grond aan de Surinamerivier en maken er een plantagekolonie van suiker van, gebouwd op de slavernij van mensen die uit Afrika werden weggevoerd. De kolonie groeit tot een van de wreedste plantagesamenlevingen van de nieuwe wereld, rijk aan suiker en gedragen door onvrije arbeid, terwijl de Inheemse volken zich terugtrekken het binnenland in. Zo wordt op de geruilde grond de eerste laag van de natie gelegd, en met haar [de koloniale wond](position_de_koloniale_wond.md) die het hele verhaal daarna zal dragen.
 
 ## Stage
 
-- [Cynthia McLeod](persona_cynthia_mcleod.md): de verteller die deze plantagewereld voor haar volk doet herleven.
+- [Cynthia McLeod](persona_cynthia_mcleod.md): de verteller die deze plantagewereld voor haar sma doet herleven.
 - [Paramaribo](place_paramaribo.md): de rivierstad die als bestuurszetel en handelsplaats van de kolonie verrijst.
 - [de koloniale wond](position_de_koloniale_wond.md): de breuk die in de plantage en de slavernij geslagen wordt.
 
 ## Tension
 
-De natie wordt geboren uit een ruil en een onvrije orde: de Nederlanders kozen deze grond boven Manhattan en bouwden er een rijkdom op die op de slavernij rustte. Hetzelfde land dat het meest plurale volk van de Amerika's zou voortbrengen, begint in een kolonie van suiker en ketenen, en zo draagt Suriname vanaf de eerste dag zowel de grond van zijn latere boom als de wond waaruit die boom moest opgroeien.
+De natie wordt gebore uit een ruil en een onvrije orde: de Nederlanders kozen deze grond boven Manhattan en bouwden er een rijkdom op die op de slavernij rustte. Hetzelfde land dat het meest plurale volk van de Amerika's zou voortbrengen, begint als een kolonie van suiker en ketenen, en zo draagt Suriname vanaf de eerste dag zowel de grond van zijn latere boom als de wond waaruit die boom moest opgroeien.

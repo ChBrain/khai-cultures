@@ -27,7 +27,7 @@ Vers une Belgique qui dure par consentement et non par contrainte : dévoluer au
 
 ## Orders
 
-- Aux partis : former des coalitions et couper la poire en deux, même au prix de centaines de jours de négociation.
+- Aux partis : former des coalitions et couper la poire en deux, même au prix de septante, nonante, et bien davantage de jours de négociation.
 - Aux communautés : coopérer là où le pays commun se joue encore, sans pousser l'avantage jusqu'à la rupture.
 - À [la Couronne](position_la_couronne.md) : arbitrer et se tenir au-dessus quand la politique se bloque.
 
