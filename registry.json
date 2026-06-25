@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.147.0",
+  "version": "0.148.0",
   "cultures": [
     {
       "kind": "culture",
@@ -541,6 +541,13 @@
       "title": "Marshall Islands",
       "description": "Aelon in ri-jerakrok eo, kinie baam eo, im juon aelon ej jutak iturin lometo eo ej wanlontak.",
       "iso": "MH"
+    },
+    {
+      "kind": "culture",
+      "id": "mauritania",
+      "title": "Mauritania",
+      "description": "The desert bridge of caravans and manuscripts, of tea and the tent, where the Maghreb meets the river south.",
+      "iso": "MR"
     },
     {
       "kind": "culture",
