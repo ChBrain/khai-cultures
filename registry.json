@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.128.0",
+  "version": "0.129.0",
   "cultures": [
     {
       "kind": "culture",
@@ -30,6 +30,13 @@
       "title": "Argentina",
       "description": "A nation of immigrants and passion, haunted by a greatness it once held and lost.",
       "iso": "AR"
+    },
+    {
+      "kind": "culture",
+      "id": "armenia",
+      "title": "Armenia",
+      "description": "An ancient highland nation kept by faith, the letter, and the mountain it cannot reach.",
+      "iso": "AM"
     },
     {
       "kind": "culture",
