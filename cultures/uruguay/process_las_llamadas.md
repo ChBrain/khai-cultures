@@ -22,15 +22,15 @@ Parent group: processes
 
 ## Initiated by
 
-Las comparsas de los barrios Sur y Palermo, que en el Carnaval salen a la calle con sus cuerdas de tambores. No hace falta más que el tambor al hombro y el barrio que sale a verlas: cuando rompen los chicos, los repiques y los pianos, el candombe llama, y la gente se suma detrás al desfile.
+Las comparsas de los barrios Sur y Palermo, que en el Carnaval salen a la calle con sus cuerdas de tambores. No hace falta más que el tambor al hombro y el barrio que sale a verlas: cuando arrancan los chicos, los repiques y los pianos, el candombe llama, y la gente se va sumando atrás del desfile.
 
 ## Direction
 
-Hacia el desfile de candombe que recorre las calles del barrio, cuerda tras cuerda de tambores, con sus bailarinas y sus figuras heredadas. No es solo música ni fiesta, sino la memoria afrouruguaya saliendo a la calle: el toque que los descendientes de los esclavizados guardaron y hoy desfilan con orgullo, llamando al barrio entero al ritmo.
+Hacia el desfile de candombe que recorre las calles del barrio, cuerda tras cuerda de tambores, con sus bailarinas y sus figuras heredadas. No es solo música ni fiesta, sino la memoria afrouruguaya saliendo a la calle: el toque que los descendientes de los esclavizados guardaron y hoy sacan a desfilar con orgullo, llamando al barrio entero al ritmo.
 
 ## Lever
 
-Lo mueve el orgullo de una herencia africana que el país hizo suya y la fuerza del tambor que convoca, y un Carnaval que es el más largo del mundo. En contra está el olvido de esa raíz y el riesgo de volverla mero espectáculo; contra eso desfilan las Llamadas, devolviendo cada año la memoria a la calle.
+Lo mueve el orgullo de una herencia africana que el país hizo suya y la fuerza del tambor que convoca, y un Carnaval que es el más largo del mundo, con su murga y todo. En contra está el olvido de esa raíz y el riesgo de volverla mero espectáculo; contra eso salen a la calle las Llamadas, devolviendo cada año la memoria al barrio.
 
 ## Echo
 

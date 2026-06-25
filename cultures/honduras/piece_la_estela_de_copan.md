@@ -22,15 +22,15 @@ Parent group: pieces
 
 ## Place
 
-En las plazas de Copan, alzada sobre el suelo de la antigua ciudad maya: la estela, el monolito de piedra labrado con la figura de un rey y rodeado de jeroglificos, una de las cumbres del arte maya. De pie en el lugar donde la tallaron sus autores, y hoy tambien en los museos y en la imagen que el pais da de su raiz mas honda.
+En las plazas de Copan, parada sobre el suelo de la vieja ciudad maya: la estela, el monolito de piedra labrado con la figura de un rey y forrado de jeroglificos, una de las cumbres del arte maya. De pie en el mismo lugar donde la tallaron sus autores, y hoy tambien en los museos y en la cara que el pais da de su raiz mas honda.
 
 ## Load Bearing
 
-Sostiene la memoria de que Honduras tuvo arte y escritura propios antes de que llegara nadie a moldearla. La estela es la obra de los antepasados hecha piedra: tallada con una maestria que el mundo admira, guarda en sus signos la historia de los reyes y el saber de un pueblo que media el cielo. En ella la raiz indigena del pais se vuelve orgullo visible y tangible. Sin este monumento que el pais reconoce como suyo, la dignidad anterior de Honduras no tendria rostro de piedra al que mirar, la prueba de que su grandeza es propia y anterior, como afirma [la resistencia lenca](position_la_resistencia_lenca.md).
+Sostiene la memoria de que Honduras tuvo arte y escritura propios antes de que llegara nadie a amasarla. La estela es la obra de los antepasados hecha piedra: tallada con una mano que el mundo admira, guarda en sus signos la historia de los reyes y el saber de un pueblo que media el cielo. En ella la raiz indigena del pais se vuelve orgullo que se ve y se toca. Sin este monumento que el pais reconoce como suyo, la dignidad anterior de Honduras no tendria cara de piedra a la cual mirar, la prueba de que su grandeza es propia y anterior, como afirma [la resistencia lenca](position_la_resistencia_lenca.md).
 
 ## Apparent
 
-Un bloque de piedra labrada, alto como un hombre o mas, con la figura de un gobernante en relieve y los costados cubiertos de glifos. En si misma es roca tallada y gastada por los siglos; su peso esta entero en lo que representa, la obra de los ancestros y la raiz de la que el pais bebe su orgullo.
+Un bloque de piedra labrada, alto como un hombre o mas, con la figura de un gobernante en relieve y los costados forrados de glifos. En si misma es roca tallada y gastada por los siglos; su peso esta entero en lo que representa, la obra de los ancestros y la raiz de la que el pais bebe su orgullo.
 
 ## Yearbook
 

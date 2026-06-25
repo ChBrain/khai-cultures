@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Tres hermanas de provincia, Patria, Minerva y María Teresa, que bajo la larga dictadura de Trujillo, la Era, eligieron resistir antes que callar, y a las que el país recuerda con reverencia por su nombre clandestino, las Mariposas. Cultas, valientes y de fe firme, organizaron y sostuvieron la oposición arriesgándolo todo, y su muerte, en 1960, conmovió a la nación y se volvió símbolo perdurable del coraje frente al poder; el mundo escogió la fecha de su pérdida para recordar la dignidad de las mujeres. El español lo tienen entero y les da forma: [hablan](process_speaking_mother_tongue.md), [piensan](process_thinking_mother_tongue.md) y [escriben](process_writing_mother_tongue.md) en su lengua materna, y en ella se nombraron Mariposas y se pasaron en voz baja la palabra que la dictadura prohibía. Lo que llegaba de fuera, en la radio y en la página, lo [seguían al oído](process_hearing_followed.md) y lo [descifraban leyendo](process_reading_deciphered.md), buscando en el mundo el aire que en casa faltaba. En un tiempo en que la palabra libre estaba prohibida, supieron que decir la verdad podía costar la vida, y que el silencio impuesto es la más honda de las mordazas, de modo que su resistencia se libró justo en el límite de la lengua, allí donde no poder nombrar el miedo es ya la primera derrota.
+Tres hermanas del interior, Patria, Minerva y María Teresa, que bajo la larga dictadura de Trujillo, la Era, escogieron resistir antes que quedarse calladas, y a las que el país recuerda con reverencia por su nombre clandestino, las Mariposas. Cultas, valientes y de fe firme, organizaron y sostuvieron la oposición jugándoselo todo, y su muerte, en 1960, estremeció a la nación y se volvió símbolo perdurable del coraje frente al poder; el mundo escogió la fecha de su pérdida para recordar la dignidad de las mujeres. El español lo tienen entero y les da forma: [hablan](process_speaking_mother_tongue.md), [piensan](process_thinking_mother_tongue.md) y [escriben](process_writing_mother_tongue.md) en su lengua materna, y en ella se nombraron Mariposas y se pasaron en voz baja la palabra que la dictadura prohibía. Lo que llegaba de fuera, en la radio y en la página, lo [seguían al oído](process_hearing_followed.md) y lo [descifraban leyendo](process_reading_deciphered.md), buscando en el mundo el aire que en casa faltaba. En un tiempo en que la palabra libre estaba prohibida, supieron que decir la verdad podía costar la vida, y que el silencio impuesto es la más honda de las mordazas, de modo que su resistencia se libró justo en el límite de la lengua, allí donde no poder nombrar el miedo es ya la primera derrota.
 
 ## Action
 
@@ -31,7 +31,7 @@ En [la Era y las Mariposas](plot_03_la_era_y_las_mariposas.md) sostienen contra 
 
 ## Shadow
 
-El país que honra a las Mariposas con su nombre en plazas y billetes ha de cuidar de no convertir su memoria en mero emblema vacío: la tentación de celebrar el coraje pasado mientras se calla ante el abuso presente, de recordar a las que resistieron sin aprender lo que resistieron. Su valentía señala cuánto cuesta, y cuánto vale, no callar.
+El país que honra a las Mariposas con su nombre en plazas y billetes tiene que cuidarse de no convertir su memoria en un emblema vacío: la tentación de celebrar el coraje de ayer mientras se queda callado ante el abuso de hoy, de recordar a las que resistieron sin aprender lo que resistieron. Su valentía señala lo que cuesta, y lo que vale, no quedarse callado.
 
 ## Tell
 

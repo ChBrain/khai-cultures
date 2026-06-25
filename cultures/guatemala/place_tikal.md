@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La gran ciudad maya en lo hondo de la selva del Petén: templos de piedra que rompen el dosel verde y se alzan sobre la copa de los árboles, plazas, estelas y palacios de una urbe que durante siglos fue de las mayores del mundo maya clásico. El bramido del mono aullador entre la niebla del amanecer, el quetzal entre el ramaje, y la pirámide del Gran Jaguar mirando al cielo que sus astrónomos midieron. La cuna de piedra de los hombres de maíz, hoy entre la selva que la guarda.
+La gran ciudad maya en lo hondo de la selva del Petén: templos de piedra que rompen el dosel verde y se alzan sobre la copa de los árboles, plazas, estelas y palacios de una urbe que durante siglos fue de las mayores del mundo maya clásico. El bramido del mono aullador entre la niebla del amanecer, el quetzal entre el ramaje, y la pirámide del Gran Jaguar mirando al cielo que sus astrónomos midieron cabal, sin equivocarse en una cuenta. La cuna de piedra de los hombres de maíz, hoy entre la selva que la guarda.
 
 ## Holds
 

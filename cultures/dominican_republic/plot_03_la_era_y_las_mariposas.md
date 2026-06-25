@@ -26,7 +26,7 @@ A partir de 1930 la República Dominicana queda bajo la larga dictadura de Rafae
 
 ## Action
 
-Tres hermanas, Patria, Minerva y María Teresa Mirabal, conocidas en la clandestinidad como las Mariposas, sostienen con valentía la oposición a la dictadura. Su muerte, en 1960, conmueve a la nación y se vuelve símbolo perdurable del coraje frente al poder; el país las recuerda con reverencia y el mundo escoge la fecha de su pérdida para honrar la dignidad de las mujeres. Su resistencia mantiene viva, en el tiempo más oscuro, la patria y la libertad que Duarte había soñado.
+Tres hermanas, Patria, Minerva y María Teresa Mirabal, conocidas en la clandestinidad como las Mariposas, sostienen con valentía la oposición a la dictadura. Su muerte, en 1960, estremece a la nación y se vuelve símbolo perdurable del coraje frente al poder; el país las recuerda con reverencia y el mundo escoge la fecha de su pérdida para honrar la dignidad de las mujeres. Su resistencia mantiene viva, en el tiempo más oscuro, la patria y la libertad que Duarte había soñado.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Tres hermanas, Patria, Minerva y María Teresa Mirabal, conocidas en la clandest
 
 ## Tension
 
-El país ha de guardar la memoria de la Era con sobriedad y verdad, sin borrarla ni convertirla en espectáculo, honrando el coraje de las Mariposas como herencia viva. La tensión está en sostener ese recuerdo entero para que enseñe a las generaciones nuevas lo que costó la libertad, sin que el símbolo se vacíe ni el silencio gane de nuevo al recuerdo.
+El país tiene que guardar la memoria de la Era con sobriedad y verdad, sin borrarla ni volverla espectáculo, honrando el coraje de las Mariposas como herencia viva. La tensión está en sostener ese recuerdo entero para que les enseñe a las generaciones nuevas lo que costó la libertad, sin que el símbolo se vacíe ni el silencio le gane otra vez al recuerdo.

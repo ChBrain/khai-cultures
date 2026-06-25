@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Sobre los hombros de las mujeres mayas del altiplano, en el mercado, en la iglesia y en la fiesta: la blusa tejida a mano en el telar de cintura, cuajada de figuras de colores, animales, flores y signos antiguos. Cada pueblo tiene el suyo, su patrón y sus colores propios, de modo que por el huipil se sabe de qué aldea es quien lo lleva. La prenda con que la mujer maya viste, a la vez, su cuerpo y su pertenencia.
+Sobre los hombros de las mujeres mayas del altiplano, en el mercado, en la iglesia y en la fiesta: la blusa tejida a mano en el telar de cintura, cuajada de figuras de colores, animales, flores y signos antiguos. Cada pueblo tiene el suyo, su patrón y sus colores propios, de modo que por el huipil se sabe, cabal, de qué aldea es quien lo lleva. La prenda con que la mujer maya viste, a la vez, su cuerpo y su pertenencia.
 
 ## Load Bearing
 

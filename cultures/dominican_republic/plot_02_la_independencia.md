@@ -26,7 +26,7 @@ En la primera mitad del siglo XIX la parte oriental de La Española vive bajo el
 
 ## Action
 
-El 27 de febrero de 1844 los trinitarios proclaman en Santo Domingo la independencia y dan a luz la República Dominicana, una patria que no rompe de España sino de Haití, bajo el lema de Dios, Patria y Libertad. La joven república se da enseguida sus letras y sus escuelas, y voces como la de Salomé Ureña cantan a la nación naciente y abren la educación a quienes el país tenía sin voz, de modo que la patria nace a la vez como libertad ganada y como obra de la palabra.
+El 27 de febrero de 1844 los trinitarios proclaman en Santo Domingo la independencia y echan a andar la República Dominicana, una patria que no rompe de España sino de Haití, bajo el lema de Dios, Patria y Libertad. Enseguidita la joven república se da sus letras y sus escuelas, y voces como la de Salomé Ureña le cantan a la nación naciente y le abren la educación a quienes el país tenía sin voz, de modo que la patria nace a la vez como libertad ganada y como obra de la palabra.
 
 ## Stage
 
@@ -36,4 +36,4 @@ El 27 de febrero de 1844 los trinitarios proclaman en Santo Domingo la independe
 
 ## Tension
 
-La patria nace de una independencia singular, ganada de Haití y no de la metrópoli europea, lo que deja desde el primer día la cuestión de la isla compartida como herida abierta. El país ha de honrar a Duarte y construir su libertad mientras aprende a convivir en dignidad con el pueblo con quien reparte el suelo, sin reproche y sin olvido, pues la frontera que entonces se traza sigue pidiendo respuesta.
+La patria nace de una independencia bien particular, ganada de Haití y no de la metrópoli europea, lo que deja desde el primer día la vaina de la isla compartida como herida abierta. El país tiene que honrar a Duarte y levantar su libertad mientras aprende a convivir en dignidad con el pueblo con quien reparte el suelo, sin reproche y sin olvido, porque la frontera que entonces se traza sigue pidiendo respuesta.

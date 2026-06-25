@@ -26,7 +26,7 @@ Mucho antes de que ningún europeo soñara con estas tierras, en la selva del Pe
 
 ## Action
 
-En el período clásico se alza Tikal entre la selva, con sus templos sobre la copa de los árboles, sus plazas y sus estelas, una de las mayores urbes del mundo maya. Sus astrónomos miden el año y los astros, sus escribas tallan la historia en piedra, y en el altiplano k'iche' se compone el Popol Vuh, el libro del amanecer de la vida, donde los dioses, tras fallar con el barro y la madera, hacen al fin al hombre de maíz. Cuando las grandes ciudades clásicas se vacían, el pueblo maya no desaparece: se reparte en los muchos señoríos del altiplano y sigue vivo, con sus lenguas, sus trajes y su calendario, hasta hoy. La raíz queda plantada para siempre.
+En el período clásico se alza Tikal entre la selva, con sus templos sobre la copa de los árboles, sus plazas y sus estelas, una de las mayores urbes del mundo maya. Sus astrónomos miden el año y los astros, sus escribas tallan la historia en piedra, y en el altiplano k'iche' se compone el Popol Vuh, el libro del amanecer de la vida, donde los dioses, tras fallar con el barro y la madera, hacen al fin al hombre de maíz. Cuando las grandes ciudades clásicas se vacían, el pueblo maya no desaparece: se reparte en los muchos señoríos del altiplano y sigue vivo, con sus lenguas, sus trajes y su calendario, hasta el día de hoy. La raíz queda plantada para siempre, y de ahí no la saca nadie.
 
 ## Stage
 

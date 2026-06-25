@@ -26,7 +26,7 @@ Tras el golpe de 1954 y en el clima de la guerra fría, la vieja distancia del p
 
 ## Action
 
-El conflicto se prolonga por años y deja al país partido por dentro, con un costo grave para las comunidades del altiplano, vivido aquí sobrio y sin detalle, como herida que se nombra para poder curarse. En medio de esos años, una mujer maya k'iche', [Rigoberta Menchú](persona_rigoberta_menchu.md), lleva ante el mundo la voz de los pueblos indígenas y reclama para ellos un lugar de igual dignidad, y recibe por ello el premio Nobel de la paz. En 1996, tras largas negociaciones, el gobierno y la insurgencia firman los Acuerdos de Paz, la paz firme y duradera que pone fin al conflicto y abre la tarea, apenas comenzada, de reconocer a los muchos pueblos del país y salvar la distancia que los separa.
+El conflicto se prolonga por años y deja al país partido por dentro, con un costo grave para las comunidades del altiplano, contado aquí sobrio y sin detalle, como herida que se nombra apenas, en voz baja, para poder curarse. En medio de esos años, una mujer maya k'iche', [Rigoberta Menchú](persona_rigoberta_menchu.md), lleva ante el mundo la voz de los pueblos indígenas y reclama para ellos un lugar de igual dignidad, y recibe por ello el premio Nobel de la paz. En 1996, tras largas negociaciones, el gobierno y la insurgencia firman los Acuerdos de Paz, la paz firme y duradera que pone fin al conflicto y abre la tarea, apenas comenzada, de reconocer a los muchos pueblos del país y salvar la distancia que los separa.
 
 ## Stage
 

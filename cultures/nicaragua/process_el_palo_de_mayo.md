@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-La gente de la costa caribe cuando llega mayo. No la convoca el Pacifico ni el calendario del centro, sino la propia costa: en Bluefields y en los pueblos del Caribe se levanta el mayo, el palo adornado de cintas, y la comunidad sale a bailar al ritmo afrocaribeno que da nombre a la fiesta y al mes entero.
+La gente de la costa caribe en cuanto llega mayo. No la convoca el Pacifico ni el calendario del centro, sino la propia costa: en Bluefields y en los pueblos del Caribe se levanta el mayo, el palo adornado de cintas, y la comunidad entera sale a bailar al ritmo afrocaribeno que le da nombre a la fiesta y al mes completo.
 
 ## Direction
 
-Hacia la celebracion afrocaribena del mayo y la fertilidad de la tierra: musica, tambor y un baile sensual y vivo en torno al palo enramado, herencia que la costa comparte con el Caribe negro de las islas y de tierra firme. Es la otra Nicaragua celebrandose a si misma, en su ritmo y en su lengua, distinta de las fiestas del Pacifico.
+Hacia la celebracion afrocaribena del mayo y la fertilidad de la tierra: musica, tambor y un baile sabroso y vivo alrededor del palo enramado, herencia que la costa comparte con el Caribe negro de las islas y de tierra firme. Es la otra Nicaragua celebrandose a si misma, en su propio ritmo y en su propia lengua, bien distinta de las fiestas del Pacifico.
 
 ## Lever
 
-La mueven la herencia afrocaribena y creole de la costa y el gusto de la comunidad por bailar lo suyo. En contra esta el olvido del centro, que apenas conoce esta fiesta; el Palo de Mayo se afirma justamente como lo que el Pacifico no celebra, la costa diciendo que existe.
+La mueven la herencia afrocaribena y creole de la costa y el gusto de la comunidad por bailar lo suyo. En contra esta el olvido del centro, que casi ni sabe de esta fiesta; el Palo de Mayo se afirma justamente como lo que el Pacifico no celebra, la costa diciendo a su modo: aqui estoy, existo.
 
 ## Echo
 
-El Palo de Mayo hace visible [las dos costas](position_las_dos_costas.md): la otra Nicaragua que tiene fiesta, ritmo y lengua propios, y que en mayo se celebra sin pedir permiso al centro. En su tambor y su baile suena la vertiente que encarna [el costeno miskito](persona_el_costeno_miskito.md), el Caribe afirmando que el pais tiene dos costas y no una.
+El Palo de Mayo hace visible [las dos costas](position_las_dos_costas.md): la otra Nicaragua que tiene fiesta, ritmo y lengua propios, y que en mayo se celebra sin pedirle permiso al centro. En su tambor y su baile suena la vertiente que encarna [el costeno miskito](persona_el_costeno_miskito.md), el Caribe afirmando que el pais tiene dos costas y no una sola.

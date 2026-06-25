@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Al hombro de los lubolos en las Llamadas y templándose al fuego en la calle antes de salir: el tambor de candombe, hecho de duelas de madera y cuero, que en sus tres voces, el chico agudo, el repique que conversa y el piano grave, lleva el ritmo heredado de África por las calles de los barrios Sur y Palermo.
+Al hombro de los lubolos en las Llamadas y templándose al fuego en la vereda antes de salir: el tambor de candombe, hecho de duelas de madera y cuero, que en sus tres voces, el chico agudo, el repique que conversa y el piano grave, lleva el ritmo heredado de África por las calles de los barrios Sur y Palermo.
 
 ## Load Bearing
 
@@ -30,7 +30,7 @@ Sostiene la memoria afrouruguaya y, con ella, una raíz del país que ninguna ot
 
 ## Apparent
 
-Un cilindro de madera con un parche de cuero tensado, que se cuelga al hombro con una correa y se toca con una mano y un palo. En sí mismo es solo madera y cuero al fuego; su peso entero esta en lo que el toque guarda, y en las manos que lo heredaron y lo hacen sonar.
+Un cilindro de madera con un parche de cuero tensado, que se cuelga al hombro con una correa y se toca con una mano y un palo. En sí mismo es nomás madera y cuero al fuego; su peso entero esta en lo que el toque guarda, y en las manos que lo heredaron y lo hacen sonar.
 
 ## Yearbook
 

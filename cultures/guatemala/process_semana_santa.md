@@ -22,7 +22,7 @@ Parent group: processes
 
 ## Initiated by
 
-Las cofradías y hermandades de la Antigua y de toda Guatemala, que cada año, al llegar la cuaresma, preparan las grandes procesiones: los cucuruchos de túnica morada que cargan a hombros las andas enormes del Nazareno, las mujeres que velan a la Virgen, y los vecinos que de madrugada tienden en las calles las alfombras de aserrín teñido, de pino y de flores, para que el cortejo pase sobre ellas. Basta que vuelva la cuaresma para que la ciudad entera se vuelva templo.
+Las cofradías y hermandades de la Antigua y de toda Guatemala, que cada año, al llegar la cuaresma, preparan las grandes procesiones: los cucuruchos de túnica morada que cargan al hombro las andas enormes del Nazareno, las mujeres que velan a la Virgen, y los vecinos que de madrugada tienden en las calles las alfombras de aserrín teñido, de pino y de flores, para que el cortejo pase encima. Basta que vuelva la cuaresma para que la ciudad entera se haga templo.
 
 ## Direction
 
@@ -30,7 +30,7 @@ Hacia la fe hecha calle y comunidad: la procesión que avanza despacio entre nub
 
 ## Lever
 
-La mueve la devoción honda de un pueblo que sostiene su fe con naturalidad, y el orgullo del barrio y la cofradía que cargan juntos lo que ninguno cargaría solo. Se sostiene contra el cansancio de las horas a hombros y el calor, y contra la prisa del mundo de afuera; le pesan en contra la fatiga y el gasto, pero puede más el deber heredado de no faltar al paso.
+La mueve la devoción honda de un pueblo que sostiene su fe con naturalidad, y el orgullo del barrio y la cofradía que cargan juntos lo que ninguno aguantaría solo. Se sostiene contra el cansancio de las horas a hombros y el calor, y contra la prisa del mundo de afuera; le pesan en contra la fatiga y el gasto, pero puede más el deber heredado de no faltar al paso.
 
 ## Echo
 
