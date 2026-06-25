@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.131.0",
+  "version": "0.132.0",
   "cultures": [
     {
       "kind": "culture",
@@ -373,6 +373,13 @@
       "title": "Iran",
       "description": "Iran staged as a culture: an ancient civilization that kept its tongue, its poets, and its spring.",
       "iso": "IR"
+    },
+    {
+      "kind": "culture",
+      "id": "iraq",
+      "title": "Iraq",
+      "description": "Mesopotamia, the cradle of writing and cities, staged from Babylon to Baghdad between two rivers.",
+      "iso": "IQ"
     },
     {
       "kind": "culture",
