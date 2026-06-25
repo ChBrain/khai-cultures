@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.154.0",
+  "version": "0.155.0",
   "cultures": [
     {
       "kind": "culture",
@@ -156,6 +156,13 @@
       "title": "Bulgaria",
       "description": "Bulgaria staged as a culture: the nation that gave the Slavs their alphabet and held through five centuries of yoke.",
       "iso": "BG"
+    },
+    {
+      "kind": "culture",
+      "id": "burkina_faso",
+      "title": "Burkina Faso",
+      "description": "The land of upright people staged as a culture: integrity, the old courts, and a cinema capital in the Sahel.",
+      "iso": "BF"
     },
     {
       "kind": "culture",
