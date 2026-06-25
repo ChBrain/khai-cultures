@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.136.0",
+  "version": "0.137.0",
   "cultures": [
     {
       "kind": "culture",
@@ -891,6 +891,13 @@
       "title": "Ukraine",
       "description": "Ukraine staged as a culture: a distinct nation defending its freedom, dignity, and survival against an empire.",
       "iso": "UA"
+    },
+    {
+      "kind": "culture",
+      "id": "united_arab_emirates",
+      "title": "United Arab Emirates",
+      "description": "A coast of pearl divers and a desert of Bedouin, gathered by Zayed into one union under the date palm.",
+      "iso": "AE"
     },
     {
       "kind": "culture",
