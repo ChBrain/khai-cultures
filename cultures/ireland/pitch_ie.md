@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-The key the production [Ireland](play_ireland.md) is played in. It changes nothing that happens, not the Famine, not the Rising, not the literary revival, not the Celtic Tiger. It sets only the sound, the register in which it is all given.
+The key the production [Ireland](play_ireland.md) is played in. Sure, it changes nothing of what happens, not the Famine, not the Rising, not the literary revival, not the Celtic Tiger itself. It sets only the sound, the register the whole of it is given in.
 
 ## Owner
 
@@ -22,16 +22,16 @@ The key the production [Ireland](play_ireland.md) is played in. It changes nothi
 
 ## Tenor
 
-Played warm, quick, and talkative, with the gift of the gab. Rank counts for little and the put-down for much; one deflates oneself before anyone else can, and turns the worst news into a story worth the telling. Sociable, lyrical, and easy, fonder of the craic and the company than of the rule and the form.
+Played warm, quick, and talkative, and the gift of the gab on it. Rank counts for little and the slagging for much; you'd deflate yourself before anyone else would get the chance, and turn the worst bit of news into a story worth the telling. Sociable, lyrical, and easy, and a sight fonder of the craic and the company than of the rule and the form.
 
 ## Undertow
 
-Under the craic runs a long sorrow: the Famine and the boats, the lost language, the emigrant's ache and the rebel's grievance, and the drink that is both the craic and its shadow. The warmth is real, but it is warmth held up against the dark, and the laugh and the lament are never far apart.
+Under the craic there runs a long sorrow: the Famine and the boats, the lost language, the emigrant's ache and the rebel's grievance, and the drink that is the craic and its shadow both. The warmth is real, to be sure, but it is warmth held up against the dark, and the laugh and the lament are never the one far from the other.
 
 ## Nerve
 
-It strikes the chord of company and of loss at once: the heat of a full kitchen or a session in the corner, and the empty chair of the one who took the boat. It plays for the feeling that a people can turn grief into song, and that the story is how you survive the sorrow.
+It strikes the chord of company and of loss the one time: the heat of a full kitchen or a session above in the corner, and the empty chair of your man that took the boat. It plays for the feeling that a people can turn grief into song, and that the story, sure, is how you'd survive the sorrow at all.
 
 ## Echo
 
-What lingers is a people who made a literature out of a language not first their own, and a music out of their mourning: warm and wounded together, quick to laugh and slow to forget, at home in the word even when the word is in English.
+What lingers is a people that made a literature out of a language that was not first their own, and a music out of their mourning: warm and wounded the one together, quick to laugh and slow to forget, at home in the word even when the word itself is in English.

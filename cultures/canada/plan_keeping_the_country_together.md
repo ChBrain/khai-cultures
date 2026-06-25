@@ -23,7 +23,7 @@ The standing, open mandate the country sets itself: how a vast federation of [tw
 
 ## Direction
 
-Hold the bilingual federation together though the Quebec question is never fully closed; live the mosaic and keep welcoming the world without letting its pieces drift into solitudes that never touch; complete the long reconciliation with First Nations, Metis, and Inuit and revive the languages the schools set out to erase; and remain the distinct, peaceable, communitarian North that knows itself by more than being not-American, keeping the vast cold land.
+Hold the bilingual federation of the two solitudes together though the Quebec question is never fully closed; live the mosaic and keep welcoming the world without letting its pieces drift into solitudes that never touch; complete the long reconciliation with First Nations, Metis, and Inuit, say the sorry owed them in full, and revive the languages the schools set out to erase; and remain the distinct, peaceable, communitarian North, holding the common good in honour, that knows itself by more than being not-American, keeping the vast cold land from the rink to the cottage to the immensity beyond the treeline.
 
 ## Orders
 
@@ -33,7 +33,7 @@ Hold the bilingual federation together though the Quebec question is never fully
 
 ## Implementation
 
-Official bilingualism and a federation negotiated rather than enforced; multiculturalism as official policy and one of the highest rates of welcome in the world; the Truth and Reconciliation Commission's Calls to Action and the slow work of meeting them; and the steady effort to keep a distinct, communitarian Canada alongside the cultural and economic pull of the United States.
+Official bilingualism and a federation negotiated rather than enforced; multiculturalism as official policy and one of the highest rates of welcome in the world; the Truth and Reconciliation Commission's Calls to Action, the formal sorry, and the slow work of meeting them; and the steady effort to keep a distinct, communitarian Canada, decent and modest beside the louder neighbour, alongside the cultural and economic pull of the United States.
 
 ## Targets
 

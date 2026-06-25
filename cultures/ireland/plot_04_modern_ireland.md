@@ -22,17 +22,17 @@ stamp:
 
 ## Cue
 
-In the late twentieth century Ireland is still poor, Church-bound, and emptying of its young, a small nation on the western edge of Europe.
+In the late twentieth century Ireland is still poor, Church-bound, and emptying out of its young, a small nation away on the western edge of Europe.
 
 ## Action
 
-The Celtic Tiger boom and membership of the European Union make it suddenly rich; the tech multinationals make [Dublin](place_dublin.md) their European base; [the Church](position_the_church.md) collapses under the abuse scandals; the people vote in marriage equality and repeal; and a country that exported its own becomes one that others come to.
+The Celtic Tiger boom and membership of the European Union make it rich all of a sudden; the tech multinationals make [Dublin](place_dublin.md) their European base; [the Church](position_the_church.md) collapses in under the abuse scandals; the people vote in marriage equality and repeal; and a country that exported its own becomes one that others now come to.
 
 ## Stage
 
-- [Dublin](place_dublin.md): the boom city and the European headquarters of global tech.
-- [the Church](position_the_church.md): the old authority falling fast and far.
+- [Dublin](place_dublin.md): the boom city and the European headquarters of the global tech.
+- [the Church](position_the_church.md): the old authority falling away fast and far.
 
 ## Tension
 
-Ireland becomes rich, secular, global, and confidently English-speaking, modern and open as never before, but unmoored from the Church and the land that long defined it, and with its first official language still, after all of it, mostly unspoken.
+Ireland becomes rich, secular, global, and confidently English-speaking, modern and open the way it never was before, but cut loose from the Church and the land that long defined it, and its first official language still, after the whole of it, mostly unspoken.

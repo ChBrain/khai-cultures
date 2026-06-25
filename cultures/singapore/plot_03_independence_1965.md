@@ -26,7 +26,7 @@ After the war the island moves through self-government and a brief union with it
 
 ## Action
 
-The separation is met soberly and without recrimination, and turned, almost at once, into a beginning. [Lee Kuan Yew](persona_lee_kuan_yew.md) and his founding colleagues face the open question of whether so small and so mixed a place can survive at all, and answer it by deciding what the nation will be. They choose [pragmatism and meritocracy](position_pragmatism.md) as the only insurance the island can afford - the rule of law, the clean system, the place earned by merit, the hard, clear-eyed planning of the small. And they choose, against the temptation to favour any one community, to be a nation of all of them: [S. Rajaratnam](persona_rajaratnam.md) writes the National Pledge, the vow to be one united people regardless of race, language, or religion, which the whole country comes to recite. A nation no one expected is founded on a deliberate choice to endure as one.
+The separation is met soberly and without recrimination, and turned, almost at once, into a beginning. [Lee Kuan Yew](persona_lee_kuan_yew.md) and his founding colleagues face the open question of whether so small and so mixed a place can survive at all - can or cannot, nobody can say for sure - and answer it by deciding what the nation will be. They choose [pragmatism and meritocracy](position_pragmatism.md) as the only insurance the island can afford - the rule of law, the clean system, the place earned by merit, the hard, clear-eyed planning of the small. And they choose, against the temptation to favour any one community, to be a nation of all of them: [S. Rajaratnam](persona_rajaratnam.md) writes the National Pledge, the vow to be one united people regardless of race, language, or religion, which the whole country comes to recite. A nation no one expected is founded on a deliberate choice to endure as one.
 
 ## Stage
 
@@ -36,4 +36,4 @@ The separation is met soberly and without recrimination, and turned, almost at o
 
 ## Tension
 
-The nation begins where most stories end - alone, small, and unprepared - and makes of that the start of everything. Out of a separation it did not seek, it decides, soberly and at once, to be one disciplined, multiracial people governed by what works; the whole later rise rests on the choices made in this anxious founding moment, when a tiny island chose to survive on purpose.
+The nation begins where most stories end - alone, small, and unprepared - and makes of that the start of everything. Out of a separation it did not seek, it decides, soberly and at once, to be one disciplined, multiracial people governed by what works; the whole later rise rests on the choices made in this anxious founding moment, when a tiny island chose, die die, to survive on purpose.

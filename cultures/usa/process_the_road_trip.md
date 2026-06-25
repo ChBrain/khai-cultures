@@ -22,15 +22,15 @@ Parent group: processes
 
 ## Initiated by
 
-Anyone with a car, a tank of gas, and the urge to go: a family loading the trunk, a young person lighting out after graduation, a worker driving across states for a new job. The interstate runs from coast to coast, the motels and diners are waiting, and all it takes is to point the car at the horizon and drive.
+Anyone with a car, a full tank of gas, and the itch to go: a family loading up the trunk, a young person lighting out after graduation, a worker driving clear across states for a new job. The interstate runs from coast to coast, the motels and diners are waiting, and all it takes is to point the car at the horizon and hit the gas.
 
 ## Direction
 
-Toward freedom of movement and the fresh start: the open road is the frontier turned into a highway, the same restless promise that beyond the next exit lies a new place and a new chance. It is not just travel but a rite of reinvention, the citizen claiming the right to go anywhere, answer to no one, and remake themselves by leaving.
+Toward freedom of movement and the fresh start: the open road is the frontier turned into a highway, the same restless promise that just past the next exit lies a new place and a new chance. It is not just travel but a rite of reinvention, the citizen claiming the right to go anywhere, answer to no one, and remake themselves by lighting out.
 
 ## Lever
 
-It is driven by the deep American faith that the answer to a closed door is to move, and by the car that made every citizen the master of their own going. It holds against a vast continent and the loneliness of the long highway; against it stand the rootlessness it breeds and the bonds left behind at every departure.
+It is driven by the deep American faith that the answer to a closed door is to move on, and by the car that made every citizen the master of their own going. It holds against a vast continent and the loneliness of the long highway; against it stand the rootlessness it breeds and the bonds left behind at every departure.
 
 ## Echo
 

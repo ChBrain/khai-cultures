@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The governing conviction that a small nation with no resources must ask only what works, and must place its people by what they can do. Pragmatism here is not the absence of principle but a principle of its own: that ideology is a luxury the island cannot afford, that the test of any policy is the result, and that survival is won by hard, clear-eyed choices made in time. Meritocracy is its companion creed - that a person rises by ability and effort, that the place is earned and not inherited, and that a nation too small to waste talent must find it wherever it is born. Bound to both is the rule of law applied evenly, the clean and the orderly, the long view and the saved reserve.
+The governing conviction that a small nation with no resources must ask only what works, and must place its people by what they can do. Pragmatism here is not the absence of principle but a principle of its own: that ideology is a luxury the island cannot afford, that the test of any policy is the result - can work or cannot, that one - and that survival is won by hard, clear-eyed choices made in time. Meritocracy is its companion creed - that a person rises by ability and effort, that the place is earned and not inherited, and that a nation too small to waste talent must find it wherever it is born. Bound to both is the rule of law applied evenly, the clean and the orderly, the long view and the saved reserve.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Ground when the discipline that built the nation forgets the people it was meant
 
 ## Drives
 
-Lives in [Lee Kuan Yew](persona_lee_kuan_yew.md), who turned a separation no one wanted into a nation by asking only what would work and what would last. It drives Singapore to govern by results, to place its people by what they can do, and to keep the rule of law and the long view as the insurance of the small.
+Lives in [Lee Kuan Yew](persona_lee_kuan_yew.md), who turned a separation no one wanted into a nation by asking only one thing, can or cannot, and will it last. It drives Singapore to govern by results, to place its people by what they can do, and to keep the rule of law and the long view as the insurance of the small.

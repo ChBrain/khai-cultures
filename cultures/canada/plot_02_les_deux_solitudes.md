@@ -26,7 +26,7 @@ From the start the dominion carries two founding peoples, English and French, wh
 
 ## Action
 
-The awakening turns to the question of the nation itself. [Rene Levesque](persona_levesque.md) founds the Parti Quebecois and carries the cause to a sovereignty referendum in 1980, lost narrowly, and a second in 1995, lost by the thinnest of margins. Official bilingualism makes English and French the two languages of the country, yet the two peoples still mostly cannot speak each other's tongue, and the question of the country's unity is left, after each vote, forever open.
+The awakening turns to the question of the nation itself. [Rene Levesque](persona_levesque.md) founds the Parti Quebecois and carries the cause to a sovereignty referendum in 1980, lost narrowly, and a second in 1995, lost by the thinnest of margins. Official bilingualism makes English and French the two languages of the country, yet the two solitudes still mostly cannot speak each other's tongue, and the question of the country's unity is left, after each vote, forever open.
 
 ## Stage
 

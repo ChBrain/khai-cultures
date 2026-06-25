@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-The old quarter of shophouses and five-foot ways, temples and clan halls and dried-goods shops, where the early Chinese settlers made their town beside the Malay kampong and the Indian district - and at its heart the hawker centre, the great roofed hall of stalls where the nation eats. Long rows of tables under whirring fans, trays clattering, the smell of a hundred dishes at once, stalls of every community side by side: char kway teow next to nasi padang next to fish-head curry. The shophouse city of the old port and the common table at its centre.
+The old quarter of shophouses and five-foot ways, temples and clan halls and dried-goods shops, where the early Chinese settlers made their town beside the Malay kampong and the Indian district - and at its heart the hawker centre, the great roofed hall of stalls where the nation eats. Long rows of tables under whirring fans, trays clattering, the smell of a hundred dishes at once, so good until you cannot decide, stalls of every community side by side: char kway teow next to nasi padang next to fish-head curry. The shophouse city of the old port and the common table at its centre.
 
 ## Holds
 
@@ -35,4 +35,4 @@ A place where the nation's many communities meet at the most ordinary level of a
 
 ## Withheld
 
-The ease of assuming it will always be there. The quarter and the hawker centre carry the strain beneath the heritage - the rising rents and the ageing hawkers, the trades that may not pass to the next generation, and the quiet question of whether a nation grown rich will keep the humble, shared table that taught it to be one people.
+The ease of assuming it will always be there. The quarter and the hawker centre carry the strain beneath the heritage - the rising rents and the ageing hawkers, the trades that may not pass to the next generation, and the quiet question of whether a nation grown rich will still keep the humble, shared table that taught it to be one people, or one day blur already, forget where it came from.

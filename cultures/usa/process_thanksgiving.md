@@ -22,15 +22,15 @@ Parent group: processes
 
 ## Initiated by
 
-A family on the fourth Thursday of November, gathering from across the country to one table: the turkey roasting, the relatives driving and flying home, the chairs pulled up and the grace said. It takes only a household and a feast, and the whole nation sits down on the same day to the same meal.
+A family on the fourth Thursday of November, gathering from clear across the country to one table: the turkey roasting, the relatives driving and flying home, the chairs pulled up and the grace said. It takes only a household and a feast, and the whole nation sits down on the same day to the same meal.
 
 ## Direction
 
-Toward gratitude and belonging: the national feast that binds the family and the nation in one civic-religious table. Rooted in the founding myth of the first harvest shared between settlers and the Native peoples who fed them, it is the day the country gives thanks for what it has and remembers, across all its divisions, that it is one people.
+Toward gratitude and belonging: the national feast that binds the family and the nation around one civic-religious table. Rooted in the founding myth of the first harvest shared between settlers and the Native peoples who fed them, it is the day the country counts its blessings and remembers, across all its divisions, that it is one people.
 
 ## Lever
 
-It is driven by the need for a shared rite in a nation held by an idea rather than by blood, a great common table that asks nothing of creed or origin. It holds against distance, division, and the scattering of families across a continent; against it stand the strain of the homecoming and the harder truth beneath the myth, the cost the first feast's welcome would later exact from the Native peoples.
+It is driven by the need for a shared rite in a nation held by an idea rather than by blood, a great common table that asks nothing of creed or origin and where everyone gets a seat. It holds against distance, division, and the scattering of families across a continent; against it stand the strain of the homecoming and the harder truth beneath the myth, the cost the first feast's welcome would later exact from the Native peoples.
 
 ## Echo
 

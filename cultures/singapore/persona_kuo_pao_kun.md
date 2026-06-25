@@ -35,4 +35,4 @@ The artist who keeps the many tongues alive must work against a tide that prizes
 
 ## Tell
 
-He put four languages on one stage and trusted the audience to meet across them, staging the nation's own daily act of listening past the edge of any single tongue.
+He put four languages on one stage and trusted the audience to meet across them - cannot catch every word also never mind, the meaning still carries - staging the nation's own daily act of listening past the edge of any single tongue.

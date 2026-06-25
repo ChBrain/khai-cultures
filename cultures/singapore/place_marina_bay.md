@@ -31,8 +31,8 @@ The water that made the nation: the old roadstead crowded with ships, the river 
 
 ## Offers
 
-A place where the nation's whole purpose is visible at once - the harbour by which it lives and the bay by which it shows itself to the world. The crossroads of the sea made concrete, where a tiny island stays indispensable to the traffic of the earth, and the proof that position, well used, can be turned into a city.
+A place where the nation's whole purpose is visible at once - the harbour by which it lives and the bay by which it shows itself to the world. The crossroads of the sea made concrete, where a tiny island stays indispensable to the traffic of the earth, and the proof that position, used properly, can be turned into a city, no resources also can lah.
 
 ## Withheld
 
-The illusion that the traffic is owed. The harbour carries the knowledge beneath the skyline - that a crossroads keeps its ships only as long as it stays worth crossing, that the gleaming bay was reclaimed from the sea by deliberate effort, and that the small, exposed island must keep earning the world's passage through it, year after year.
+The illusion that the traffic is owed. The harbour carries the knowledge beneath the skyline - that a crossroads keeps its ships only so long as it stays worth crossing, that the gleaming bay was reclaimed from the sea by deliberate effort, hard work one, not drop from sky, and that the small, exposed island must keep earning the world's passage through it, year after year.

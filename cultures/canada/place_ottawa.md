@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-The capital, set on the river that marks the line between English Ontario and French Quebec, chosen as a compromise precisely because it sits on the border of the two peoples. The Gothic towers of Parliament Hill rise above the Ottawa River; it is a modest, snowbound, governmental city, the seat of "peace, order, and good government" rather than a grand metropolis.
+The capital, set on the river that marks the line between English Ontario and French Quebec, chosen as a compromise precisely because it sits on the border of the two solitudes. The Gothic towers of Parliament Hill rise above the Ottawa River; it is a modest, snowbound, governmental city of toques and frozen canals, the seat of "peace, order, and good government" rather than a grand metropolis.
 
 ## Holds
 

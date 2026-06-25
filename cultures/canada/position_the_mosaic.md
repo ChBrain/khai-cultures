@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The cultural mosaic, not the melting pot: Canada's answer to the question of how many peoples become one country. Where the American ideal melts the newcomer into a single identity, Canada lets those who come keep what they brought, their language, their faith, their custom, and become Canadian without ceasing to be what they were. Made official policy as multiculturalism in 1971, it casts the nation as a community of communities, a pattern of distinct pieces held in one frame rather than dissolved into one colour. It is the everyday fact of the great cities, where dozens of tongues live side by side and the heritage language survives a generation longer than it would across the border.
+The cultural mosaic, not the melting pot: Canada's answer to the question of how many peoples become one country. Where the American ideal melts the newcomer into a single identity, Canada lets those who come keep what they brought, their language, their faith, their custom, and become Canadian without ceasing to be what they were. Made official policy as multiculturalism in 1971, it casts the nation as a community of communities, a pattern of distinct pieces, each keeping its own colour, held in one frame rather than dissolved into a single hue. It is the everyday fact of the great cities, where dozens of tongues live side by side and the heritage language survives a generation longer than it would across the border, and where every origin lines up the same way for the same double-double.
 
 ## Orders
 
