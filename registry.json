@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.188.0",
+  "version": "0.189.0",
   "cultures": [
     {
       "kind": "culture",
@@ -471,6 +471,13 @@
       "title": "Guinea",
       "description": "Guinea staged as a culture: the heartland of old Mali, the water tower of West Africa, the country that said no.",
       "iso": "GN"
+    },
+    {
+      "kind": "culture",
+      "id": "guinea_bissau",
+      "title": "Guinea-Bissau",
+      "description": "Guinea-Bissau staged as a culture: many peoples bound by Kriol, the sacred Bijagos, and the cashew harvest.",
+      "iso": "GW"
     },
     {
       "kind": "culture",
