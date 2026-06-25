@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-The island comes through its hardest chapter and turns to the work of building, and then in 2004 the wide sky turns against it: Hurricane Ivan crosses the small nation almost head on.
+The island come through its hardest chapter and turn to the work of building, and then in 2004 the wide sky turn against it: Hurricane Ivan cross the small nation almost dead on.
 
 ## Action
 
-Ivan strips the nutmeg groves, unroofs the houses, and levels much of the island in a single day, the worst storm in living memory, and the spice on which the nation stands is broken back to bare ground. The island rebuilds, slowly and as one, replanting the groves that take years to bear and raising the roofs again. Spicemas fills the streets once more with J'ouvert and the Jab Jab, the calypso and the soca, and on Carriacou the Big Drum keeps the African heritage alive. Writers like [Merle Collins](persona_merle_collins.md) give the modern island and the memory it carries their voice. The Spice Isle comes back green, resilient as the nutmeg tree, a small nation carrying itself forward on its spice, its faith, and its people.
+Ivan strip the nutmeg groves, tear the roof off the houses, and level much of the island in one single day, the worst storm in living memory, and the spice the nation stand on is broken back to bare ground. The island build back, slow slow and as one, planting back the groves that take years before they bear and raising the roofs again. Spicemas fill the streets once more with J'ouvert and the jab jab black with oil, the shortknee, the calypso and the soca, and on Carriacou the Big Drum keep the African heritage alive. Writers like [Merle Collins](persona_merle_collins.md) give the modern island and the memory it carry their voice. The Spice Isle come back green, hardback like the nutmeg tree, a small nation carrying itself forward on its spice, its faith, and its people.
 
 ## Stage
 
-- [Merle Collins](persona_merle_collins.md): the writer who gives the modern island and its memory their voice.
-- [the Spice Country](place_the_spice_country.md): the hills and groves stripped by Ivan and replanted, the resilient land coming back green.
+- [Merle Collins](persona_merle_collins.md): the writer who give the modern island and its memory their voice.
+- [the Spice Country](place_the_spice_country.md): the hills and groves Ivan strip bare and the people plant back, the hardback land coming back green.
 - [the Spice Isle](position_the_spice_isle.md): the island known by its land and its spice, proving its resilience by coming back from the storm.
 
 ## Tension
 
-The island that names itself by its spice is also the island most exposed to the storm, one hurricane from beginning the groves again, and Ivan proves both the cost and the comeback. The slow replanting of the nutmeg that takes years to bear is the very figure of the nation's resilience, the Spice Isle carrying itself forward not by being spared the blows but by coming back green from each one, as one people.
+The island that name itself by its spice is also the island most exposed to the storm, one hurricane away from starting the groves all over again, and Ivan prove both the cost and the comeback. The slow planting back of the nutmeg that take years before it bear is the very picture of the nation resilience, the Spice Isle carrying itself forward not by being spared the blows but by coming back green from every last one of them, as one people.

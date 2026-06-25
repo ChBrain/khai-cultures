@@ -22,18 +22,18 @@ Parent group: places
 
 ## Shown
 
-The sister isle across a two-mile strait from St. Kitts, a near-perfect cone of a volcano wreathed almost always in a ring of cloud that gave the island its name, its slopes green with old estates and its shore set with the ruins of sugar works and the elegant stones of a once-grand spa town. Charlestown beneath the peak, the birthplace of Alexander Hamilton kept and marked, the hot springs and the old plantation great houses, and the quiet that comes of being the smaller of two small isles. The sister island, beautiful and proud and never quite content to be the lesser partner.
+The small sister cross a two-mile strait from St. Kitts, a near-perfect cone of a volcano wrap almost always in a ring of cloud that give the island she name, the slopes green with old estates and the shore set with the ruins of sugar works and the fine stones of a once-grand spa town. Charlestown sitting under the peak, Alexander Hamilton birthplace kept and mark, the hot springs and the old plantation great houses, and the quiet that come of being the smaller of two small isles. The small sister, ah tell yuh, pretty and proud and never quite content to be the lesser partner.
 
 ## Holds
 
-- [the Mother Colony](plot_01_the_mother_colony.md): the sister isle where Hamilton is born beneath her cloud-ringed peak.
+- [the Mother Colony](plot_01_the_mother_colony.md): the small sister where Hamilton is born under she cloud-ringed peak.
 - [Labour and Federation](plot_03_labour_and_federation.md): the island whose voice and near-secession test the two-island union.
-- [Beyond Sugar](plot_04_beyond_sugar.md): the sister isle turning to the visitor and the sea for her future.
+- [Beyond Sugar](plot_04_beyond_sugar.md): the small sister turning to the visitor and the sea for she future.
 
 ## Offers
 
-A place where the federation's other half holds its own: the cloud-ringed peak and the old estates and the hot springs offered to the visitor, the pride of having borne a founder of another nation, and the standing of a partner that insists on being heard, a small island within a small nation keeping its distinct voice across the strait.
+A place where the federation's other half hold she own: the cloud-ringed peak and the old estates and the hot springs offer up to the visitor, the pride of having bore a founder of another nation, and the standing of a partner that stand up and insist on being heard, a small island inside a small nation keeping she own distinct voice cross the strait.
 
 ## Withheld
 
-The simplicity of a single nation. Nevis carries the gap between the federation in law and the federation in feeling - the sister isle that has more than once felt herself the lesser, governed from across the water, and reached toward going alone, and she reminds the country that to be bound into one nation is not the same as to be made one, and that the union must be kept, not assumed.
+The simplicity of a single nation. Nevis carry the gap between the federation in law and the federation in feeling: the small sister that more than once feel sheself the lesser, govern from across the water, and reach toward going she own way, and she remind the country that to be bound into one nation is not the same thing as to be make one, and that the union must be kept, not take for granted.

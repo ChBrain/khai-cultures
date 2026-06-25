@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-The Georgian naval dockyard at English Harbour on Antigua's south coast, the careening and repair base from which the Royal Navy held the Caribbean in the age of sail - the only surviving working Georgian dockyard of its kind, named for the young Horatio Nelson who served there, and inscribed as a UNESCO World Heritage Site. The stone capstan house and the pillars of the old sail loft, the officers' quarters and the deep sheltered harbour, restored now as a national landmark and a working marina, the colonial naval base become a face of the free nation.
+The Georgian naval dockyard at English Harbour on Antigua's south coast, the careening and repair base the Royal Navy held the Caribbean from in the age of sail - the only surviving working Georgian dockyard of its kind, named for the young Horatio Nelson who served his time there, and inscribed as a UNESCO World Heritage Site. The stone capstan house and the pillars of the old sail loft, the officers' quarters and the deep sheltered harbour, restored now as a national landmark and a working marina, the colonial naval base become a face of the free nation that came after.
 
 ## Holds
 
@@ -31,8 +31,8 @@ The Georgian naval dockyard at English Harbour on Antigua's south coast, the car
 
 ## Offers
 
-A place where the nation shows both the beauty of the colonial age and the truth beneath it, the Georgian stone admired and the labour and the bondage that built the colony kept in view; a working harbour and a heritage site, the start of Sailing Week and a draw for the visitor, where the free nation holds its colonial inheritance plainly and on its own terms.
+A place where the nation shows both the beauty of the colonial age and the hard truth beneath it, the Georgian stone admired and the labour and the bondage that built the whole colony kept in plain view; a working harbour and a heritage site, the start line of Sailing Week and a draw for the visitor, where the free nation holds its colonial inheritance plain and on its own terms.
 
 ## Withheld
 
-The innocence of mere heritage. The dockyard carries the gap between its Georgian beauty and the colony it served - a base built to guard a trade run on bondage, a postcard that can smooth the cost away. It reminds the nation that the old stone is admirable and was never neutral, and that to keep it well is to keep the whole story it stands in, the cane and the chains as much as the sails.
+The innocence of mere heritage. The dockyard carries the gap between its Georgian beauty and the colony it served - a base built to guard a trade run on bondage, a pretty postcard that can smooth the whole cost away. It reminds the nation that the old stone is admirable and was never once neutral, and that to keep it well is to keep the whole story it stands in, the cane and the chains as much as the sails.

@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-A century after emancipation the worker is still in the cane, free in law and poor in fact, the estate still owning the day. Out of that field, in the early twentieth century, rises a labour movement: the cane workers organize, the union hall fills, and a leader steps forward from the sugar works to carry the field's struggle into politics.
+A century after emancipation the worker is still in the cane, free by the law and poor in truth, the estate still owning the day. Out of that same field, in the early twentieth century, a labour movement rise: the cane worker organize, the union hall fill up, and a leader step forward out the sugar works to carry the field's struggle into politics. When poor man stand together, the old people say, even the cane bend.
 
 ## Action
 
-Sir Robert Bradshaw builds the labour movement into a power and carries St. Kitts from estate toward self-government, the worker founding the nation from the union hall. The islands move through self-rule toward independence, won at last in 1983 as the Federation of Saint Kitts and Nevis, the smallest sovereign state in the Americas. But the nation is two: across the strait, Nevis, led by her first Premier Sir Simeon Daniel, insists on being a partner and not a province, and the federation is held together against the pull of the two islands' difference, Nevis very nearly choosing in time to go alone.
+Sir Robert Bradshaw build the labour movement into a power and carry St. Kitts from estate toward self-government, the worker founding the nation right out the union hall. The islands move through self-rule toward independence, win at last in 1983 as the Federation of Saint Kitts and Nevis, the smallest sovereign state in the Americas. But the nation is two: cross the strait, Nevis, led by she first Premier Sir Simeon Daniel, stand up and insist on being a partner and not a province, and the federation is hold together against the pull of the two islands' difference, Nevis near enough choosing in time to go she own way alone.
 
 ## Stage
 
-- [Sir Robert Bradshaw](persona_robert_bradshaw.md): the labour leader and father of the nation who carries the islands toward independence.
-- [Sir Simeon Daniel](persona_simeon_daniel.md): the first Premier of Nevis who holds the sister isle's voice within the union.
-- [Nevis](place_nevis.md): the sister isle whose voice and near-secession test the federation.
+- [Sir Robert Bradshaw](persona_robert_bradshaw.md): the labour leader and father of the nation who carry the islands toward independence.
+- [Sir Simeon Daniel](persona_simeon_daniel.md): the first Premier of Nevis who hold the small sister's voice within the union.
+- [Nevis](place_nevis.md): the small sister whose voice and near-secession test the federation.
 
 ## Tension
 
-The nation is founded twice over in contradiction: born of the worker's labour yet centred on the larger island, and bound into a federation of two that does not always feel like one. The strength that wins independence for St. Kitts leaves Nevis feeling the lesser partner, so that the very founding of the country opens the question it must forever answer - whether the two islands can be held as one without the sister isle being swallowed or reaching for the door.
+The nation is found twice over in contradiction: born of the worker's labour yet centre on the big island, and bound into a federation of two that no always feel like one. The strength that win independence for St. Kitts leave Nevis feeling the lesser partner, so the very founding of the country open the question it must forever answer: whether the two sister can be hold as one without the small one being swallow up or reaching for the door.

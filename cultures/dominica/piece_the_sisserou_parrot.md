@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-On the national flag, the coat of arms, and the heart of the island's high rainforest: the Sisserou, the imperial Amazon, a large purple-and-green parrot found in the wild nowhere on earth but Dominica, perched in green and purple at the center of the flag. The only national flag in the world to carry the colour purple, and it carries it for this bird, the rarest and grandest of the island's endemic life.
+On the national flag, the coat of arms, and the heart of the island's high rainforest: the Sisserou, the imperial Amazon, a big purple-and-green parrot found in the wild nowhere on God's earth but Dominica, perched in green and purple at the center of the flag. The only national flag in the whole world to carry the colour purple, and it carries it for this one bird, the rarest and grandest of all the island's endemic life.
 
 ## Load Bearing
 
@@ -30,7 +30,7 @@ It ties to [the Nature Isle](position_the_nature_isle.md), the wild land and the
 
 ## Apparent
 
-A large parrot of deep purple breast and green back and wings, perched and rendered in the colours of the flag. In itself one rare and threatened bird among the forest canopy; its weight is in being found nowhere else on earth, and in standing on the flag for the whole wild inheritance the island stakes its name on.
+A large parrot of deep purple breast and green back and wings, perched and rendered in the colours of the flag. In itself one rare and threatened bird up in the forest canopy; but its weight is in being found nowhere else on earth, and in standing on the flag for the whole wild inheritance the island stakes her name on.
 
 ## Yearbook
 

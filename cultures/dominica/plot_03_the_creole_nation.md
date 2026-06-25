@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-By the middle of the twentieth century the island is a self-governing colony finding its own feet, its people Kweyol-speaking and Catholic, its slopes growing the bananas that feed the economy, and a generation rising that means to be Dominican in its own right rather than a far province of an empire.
+By the middle of the twentieth century the island is a self-governing colony finding her own feet, her people Kweyol-speaking and Catholic, her slopes growing the bananas that feed the economy, and a generation rising that means to be Dominican in its own right rather than some far province of an empire.
 
 ## Action
 
-E.O. LeBlanc leads the island through self-government and makes the lifting up of Creole identity the work of statecraft, putting the Kweyol tongue and the small farmer at the heart of the nation's idea of itself. The island wins its independence in 1978, a sovereign Commonwealth nation at last. Dame Eugenia Charles becomes the first woman to lead a Caribbean state, steering the young nation through its hard early years and giving it a voice the great powers cannot ignore. And from her exile the novelist Jean Rhys carries the island into the world's literature, writing its Creole light and loss into the canon. A Creole nation claims its own speech, its own faith, and its own seat among nations.
+E.O. LeBlanc leads the island through self-government and makes the lifting up of Creole identity the work of statecraft, putting the Kweyol tongue and the small farmer right at the heart of the nation's idea of itself. The island wins her independence in 1978, a sovereign Commonwealth nation at last. Dame Eugenia Charles becomes the first woman to lead a Caribbean state, steering the young nation through its hard early years and giving it a voice the great powers cannot ignore. And from her exile across the sea the novelist Jean Rhys carries the island into the world's literature, writing her Creole light and loss into the canon. A Creole nation claims its own speech, its own faith, and its own seat among nations.
 
 ## Stage
 
@@ -37,4 +37,4 @@ E.O. LeBlanc leads the island through self-government and makes the lifting up o
 
 ## Tension
 
-The island that the empires fought over and the planters worked becomes, in a single generation, a nation that speaks for itself - in Kweyol lifted from shame into pride, in a stateswoman's word carried to the world's powers, and in a novelist's prose carried into the world's letters. Yet the same gifts that make the Creole nation's voice can pull away from home: the artist claimed elsewhere, the young drawn off the steep island, the small sovereign nation always at risk of being drowned out by the larger powers around it.
+The island that the empires fought over and the planters worked becomes, in a single generation, a nation that speaks for herself - in Kweyol lifted from shame into pride, in a stateswoman's word carried to the world's powers, and in a novelist's prose carried into the world's letters. Yet the same gifts that make the Creole nation's voice can pull a body away from home: the artist claimed elsewhere, the young drawn off the steep island, the small sovereign nation always at risk of being drowned out by the larger powers all around it.

@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-In the hands of the Kalinago weavers of the Territory and on the shelves of the island's markets and homes: the waterproof basketry woven from the split and dyed reed of the larouma plant, the strips dyed black and brown against the natural pale to make the old geometric patterns. The flat panniers, the lidded boxes, and the double-walled baskets that once carried and strained the cassava, now woven for use and for sale, the island's oldest living craft.
+In the hands of the Kalinago weavers of the Territory and on the shelves of the island's markets and homes: the waterproof basketry woven from the split and dyed reed of the larouma plant, the strips dyed black and brown against the natural pale to make the old geometric patterns. The flat panniers, the lidded boxes, and the double-walled baskets that once carried and strained the cassava, now woven for use and for sale, the island's oldest living craft - hand pass to hand, mother to daughter, the way it always go.
 
 ## Load Bearing
 
@@ -30,10 +30,10 @@ It ties to [the Nature Isle](position_the_nature_isle.md), the wild land and the
 
 ## Apparent
 
-A basket of split reed, pale gold worked with bands of black and brown in tight geometric figures, double-walled and close enough to hold water or sift flour. Plain and useful on the shelf; its weight is in the unbroken line of hands that made it, the forest knowledge in every strip, and the people who kept the weave alive when nearly all else of theirs was lost.
+A basket of split reed, pale gold worked with bands of black and brown in tight geometric figures, double-walled and close enough to hold water or sift flour. Plain and useful on the shelf; but its weight is in the unbroken line of hands that made it, the forest knowledge in every strip, and the people who kept the weave alive when nearly all else of theirs was lost.
 
 ## Yearbook
 
 - Woven by the Kalinago from the dyed reed of the larouma plant, a craft older than any European arrival.
 - Made double-walled and waterproof to carry and strain the cassava, the patterns passed down hand to hand.
-- Kept alive in the Kalinago Territory as the island's oldest living craft, woven now for use, for pride, and for sale.
+- Kept alive in the Kalinago Territory as the island's oldest living craft, woven now for use, for pride, and for sale, the weave never once let go.

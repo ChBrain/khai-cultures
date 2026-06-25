@@ -30,7 +30,7 @@ That Barbados carries a weight its size belies, the standing of the place where 
 
 ## Loses
 
-Ground when the order and the calm are admired without the foundation being named - when Little England is remembered as a tidy English county and not as the first plantation society - and when the politeness of the present becomes too careful to speak the past plainly. Ground, too, when the resistance is reduced to a single name and a single date, and the long, daily endurance of the many is forgotten behind the one hero.
+Ground when the order and the calm are admired without the foundation being named - when Little England is remembered as a tidy English county and not as the first plantation society - and when the politeness of the present becomes too careful to speak the past plainly, the dry tongue that say plenty in little gone quiet just where it should say most. Ground, too, when the resistance is reduced to a single name and a single date, and the long, daily endurance of the many is forgotten behind the one hero.
 
 ## Drives
 

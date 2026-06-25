@@ -22,7 +22,7 @@ Parent group: processes
 
 ## Initiated by
 
-The whole island gathering for a Test match at the Kensington Oval, the Mecca of West Indies cricket: the crowd in from every parish, the rum shops emptying toward the ground, the day given over to the game the island treats as its religion. It takes only a Test in town and the island stops, the cricket on every radio and in every conversation, the village matches on the parish grounds the same passion at a smaller scale, played wherever there is flat ground and a bat.
+The whole island gathering for a Test match at the Kensington Oval, the Mecca of West Indies cricket: the crowd in from every parish, the rum shops emptying toward the ground, the day given over to the game the island treats as its religion. It takes only a Test in town and the island stop, the cricket pon every radio and in every conversation, a man at his work with the little radio pressed to his ear and wuh wrong wid the selectors on every tongue. The village matches on the parish grounds run the same passion at a smaller scale, played wherever there is flat ground and a bat, and if there is no bat the boys cut one from the sour-apple tree and carry on.
 
 ## Direction
 
@@ -30,7 +30,7 @@ Toward mastery and pride: the English game the mother country brought, taken up 
 
 ## Lever
 
-It is driven by the Bajan love of a thing done with skill and composure, and by the deep satisfaction of mastering the master's game and beating him at it. It holds against the smallness of the island, the proof that a tiny place can stand at the very top of a world sport; against it stand the danger of resting the nation's pride on the game alone, and the changing fortunes of a sport whose great days a small island must work to keep.
+It is driven by the Bajan love of a thing done with skill and composure, and by the deep satisfaction of mastering the master's game and beating him at it. A century scored against England and the celebrating done quiet, with a nod, because to gloat would be to lower yourself. It holds against the smallness of the island, the proof that a tiny place can stand at the very top of a world sport; against it stand the danger of resting the nation's pride on the game alone, and the changing fortunes of a sport whose great days a small island must work to keep.
 
 ## Echo
 

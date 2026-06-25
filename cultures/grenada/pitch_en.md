@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-The key in which the staging of [Grenada](play_grenada.md) is played. It changes nothing of what happens, not the last stand at Sauteurs, not Fedon's rebellion, not the revolution and the intervention, not the rebuilding after Ivan. It sets only how it sounds, the register in which all of it is given.
+The key in which the staging of [Grenada](play_grenada.md) is played. It don't change one thing of what happen, not the last stand at Sauteurs, not Fedon's rebellion, not the revolution and the intervention, not the building back after Ivan. It set only how it sound, the register all of it is given in.
 
 ## Owner
 
@@ -22,16 +22,16 @@ The key in which the staging of [Grenada](play_grenada.md) is played. It changes
 
 ## Tenor
 
-Played warm, soft-spoken, and unhurried, the way a Grenadian will greet a stranger and call them friend before the talk is done. A devout and family-minded people who keep church on Sunday and the elders close, who move at island pace and let the heat set the rhythm, who carry themselves with a quiet pride and a ready, easy laugh. Spice in everything, on the table and in the air, in the talk and in the music, the calypso and the soca and the Big Drum running under the days. A small-island closeness, where everyone knows everyone, the dialect sweet and quick, the welcome wide. Resilient as the nutmeg tree that comes back after the storm, slow to anger and quick to mend, and proud of a small place that has held its own against the wide world.
+Played warm, soft-spoken, and easy, the way a Grenadian will hail a stranger and call them friend before the talk done. A God-fearing, family-minded people who keep church on a Sunday and hold the old heads close, who move at island pace and let the heat set the rhythm, who carry themself with a quiet pride and a laugh that come quick and free. Spice in everything: nutmeg and mace, cinnamon and clove, in the pot and on the breeze, in the talk and in the music, the calypso and the soca and the Big Drum running under all the days. A small-island closeness where everybody know everybody and everybody is somebody cousin, the dialect sweet and quick like fresh-grated nutmeg, the welcome wide as the Carenage. Hardback like the nutmeg tree that bear again after the storm, slow to vex and quick to mend, and proud, oui, proud of a small place that hold its own against the big wide world.
 
 ## Undertow
 
-Under the sweetness runs the memory of a chapter not yet wholly healed: the revolution of 1979 to 1983 and what came at its end, carried by the island the way a family carries a grief it does not speak of at the table. There is a quiet that falls when the years are named, a reckoning held just under the warmth, the work of memory and reconciliation that the easy welcome does not advertise. And under the resilience runs the strain of the small and the exposed, a nation of slender means in the path of the storm, that has had to rebuild more than once and must carry itself forward with little but its spice, its faith, and its people.
+Under all the sweetness run the memory of a chapter not yet wholly mend: the revolution of 1979 to 1983 and what come at its end, carried by the island the way a family carry a grief they don't talk about at the table. A quiet does fall when you call those years, a reckoning held just under the warmth, the work of memory and reconciliation the easy welcome don't advertise. And under the hardback resilience run the strain of the small and the exposed, a nation of slender means right in the path of the storm, that had to build back more than one time, and must carry itself forward with little besides its spice, its faith, and its people.
 
 ## Nerve
 
-It strikes the chord of the spice and the survival: the pride of a small green island that named itself by what its hills give, that has been fought over and has fought for itself, and that comes back from every blow. It plays on the warmth of the welcome and the closeness of the small place, on the faith that holds the family and the village together, and on the deep belief that the island and its people are one. It plays, too, on the ache underneath, the chapter held in silence and the longing to heal it as one people.
+It strike the chord of the spice and the surviving: the pride of a small green island that name itself by what its hills give, that the world fight over and that fight for itself, and that come back from every blow it take. It play on the warmth of the welcome and the closeness of the small place, on the faith that hold the family and the village together, and on the deep deep belief that the island and its people are one. And it play too on the ache down underneath, the chapter held in silence and the longing to mend it as one people.
 
 ## Echo
 
-What is left is the image of a warm, devout, resilient people on a small green island: soft-spoken and proud, sweet with spice and quick with welcome, holding their faith and their family close, and carrying a chapter of memory they mean one day to heal. A nation that runs on the conviction that the Spice Isle will come back from any storm, and that its people, across three small islands, are one.
+What is left is the picture of a warm, God-fearing, hardback people on a small green island: soft-spoken and proud, sweet with spice and quick with welcome, holding their faith and their family close, and carrying a chapter of memory they mean one day to mend. A nation that run on the conviction that the Spice Isle will come back from any storm the sky send, and that its people, across the three small islands, are one.

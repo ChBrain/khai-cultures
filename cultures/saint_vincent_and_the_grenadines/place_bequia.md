@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-The largest of the Grenadines, a small isle south of the mainland where there is little land and the sea is everything, the home of the nation's old whaling and sailing heritage. Its sheltered harbour of Admiralty Bay, its boatyards and its sail lofts, its seamen who built and crewed schooners and went out after whales in open boats under sail in the old way, and its model-makers who carve the island's craft in miniature: the isle is a place of sailors, where a child grows up knowing the water before the road. Here the sea is the road, the trade, and the calling.
+The biggest of the Grenadines, a little island south of the mainland where it have little land and the sea is everything, the home of the nation old whaling and sailing heritage. Its sheltered harbour of Admiralty Bay, its boatyards and its sail lofts, its seamen who build and crew schooners and went out after whale in open boats under sail in the old-time way, and its model-makers who carve the island craft small: the island is a place of sailormen, where a child grow up knowing the water before he know the road. Here the sea is the road, the trade, and the calling.
 
 ## Holds
 
-- [the Road to Independence](plot_03_the_road_to_independence.md): the Grenadine isle that joins the mainland in one nation, its seafarers part of the people who walk the road to the flag.
-- [the Volcano and the Isles](plot_04_the_volcano_and_the_isles.md): the heart of the sea-life of the Grenadines, the boatbuilding, the sailing, and the old whaling heritage that carry the scattered isles forward.
+- [the Road to Independence](plot_03_the_road_to_independence.md): the Grenadine island that join the mainland in one nation, its sea people part of them that walk the road to the flag.
+- [the Volcano and the Isles](plot_04_the_volcano_and_the_isles.md): the heart of the sea-life of the Grenadines, the boatbuilding, the sailing, and the old whaling heritage that carry the scatter-out islands forward.
 
 ## Offers
 
-A place that gives the nation its sea-soul and its bond across the water: the seafaring skill and the boatbuilding tradition that make the Grenadines, and the proof that a country of scattered isles can be held together by sailors who treat the sea as a road and not a wall. It offers the model boat and the sail as the isle's gift to the whole nation's sense of itself, the land where the sea is mastered.
+A place that give the nation its sea-soul and its bond across the water: the seafaring skill and the boatbuilding tradition that make the Grenadines, and the proof that a country of scatter-out islands can hold together through sailormen who take the sea as a road and not a wall. It offer the model boat and the sail as the island gift to the whole nation sense of itself, the land where the sea get master.
 
 ## Withheld
 
-The ease of the mainland's soil. Bequia withholds the living the land gives the volcano's slopes: here the ground is little and the sea is the only harvest, a harder and a riskier living, and the isle carries the strain of the small and the scattered, the young drawn off to the mainland or away, and the old sea-skills passing as the world that needed them recedes.
+The ease of the mainland soil. Bequia withhold the living the land does give on the volcano slope: here the ground is little and the sea is the only harvest, a harder and a more risky living, and the island carry the strain of the small and the scatter-out, the young ones draw off to the mainland or clean away, and the old sea-skills passing out as the world that did need them fall back.

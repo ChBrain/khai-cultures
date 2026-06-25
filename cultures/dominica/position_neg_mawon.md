@@ -22,11 +22,11 @@ Parent group: positions
 
 ## Has
 
-The free of the forest: the Neg Mawon, the Maroons who refused the plantation and made the mountains their own. Where the island's steep rainforest had sheltered the Kalinago from empire, it sheltered the runaway too, and from the forest camps the Maroons held out against the planters and the soldiers in the longest resistance the island ever saw, under chiefs like Jacko. Neg Mawon is the spirit of the people who would not be owned - the dignity of the one who chose the hard freedom of the bush over the soft chains of the estate, and who carried that refusal down into the free nation that emancipation made.
+The free of the forest: the Neg Mawon, the Maroons who refused the plantation and made the mountains their own. Where the island's steep rainforest had sheltered the Kalinago from empire, she sheltered the runaway too, and from the forest camps the Maroons held out against the planters and the soldiers in the longest resistance the island ever saw, under chiefs like Jacko. Neg Mawon is the spirit of the people who would not be owned - the dignity of the one who chose the hard freedom of the bush over the soft chains of the estate, and who carried that refusal right down into the free nation that emancipation made. Better free in the bush than fat in the chains.
 
 ## Orders
 
-That freedom is worth the forest and the hunger and the long odds, and is never to be given back; that the land itself is an ally of the free, the mountains and the rivers a fort no army holds for long; and that the dignity of the Maroon - the upright, unbowed neg mawon of the island's memory - is the root of what the Dominican is, a people who were not given their freedom so much as they kept refusing to be without it.
+That freedom is worth the forest and the hunger and the long odds, and is never to be handed back; that the land herself is an ally of the free, the mountains and the rivers a fort no army holds for long; and that the dignity of the Maroon - the upright, unbowed neg mawon of the island's memory - is the root of what the Dominican is, a people who were not given their freedom so much as they kept on refusing to be without it.
 
 ## Loses
 
@@ -34,4 +34,4 @@ Ground when the cost of that freedom is softened or forgotten - the years in the
 
 ## Drives
 
-Lives in [Chief Jacko](persona_chief_jacko.md), the Maroon chief whose forest war was the island's longest resistance and who is honored now as a national hero. It drives Dominica to carry the dignity of the unowned into its nationhood, to stand small and unbowed among far larger powers, and to hold its freedom and its ground as something kept, not granted.
+Lives in [Chief Jacko](persona_chief_jacko.md), the Maroon chief whose forest war was the island's longest resistance and who is honored now as a national hero. It drives Dominica to carry the dignity of the unowned into her nationhood, to stand small and unbowed among far larger powers, and to hold her freedom and her ground as something kept, not granted - something a body fought for.

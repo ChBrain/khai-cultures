@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-For two centuries the islands have been a near-total sugar monoculture, the cane planted to the waterline and worked under a slavery as intense as any in the Caribbean. Across the British empire the long campaign against slavery reaches its end, and in 1834 the law of emancipation comes to the estates of St. Kitts and Nevis.
+For two whole century the islands been a sugar monoculture near total, the cane plant right down to the waterline and work under a slavery hard as any in the Caribbean. Cross the British empire the long fight against slavery reach its end, and in 1834 the law of emancipation come to the estates of St. Kitts and Nevis.
 
 ## Action
 
-Emancipation frees the enslaved in law, but the cane stays king and the worker stays in the field. The estate still owns the land and the day; the freed worker, with little else to turn to on islands given over wholly to sugar, cuts the same cane for a wage that keeps them tied. Freedom on paper meets a monoculture that has no room for any other life, and the gap between the promise of liberty and the reality of the field becomes the long ground of the islands' next century. The worker endures, makes a people out of bondage, and carries the cane down the generations to its very last harvest.
+Emancipation free the enslave by the law, but the cane stay king and the worker stay in the field. The estate still own the land and the day; the free worker, with little else to turn to on islands give over whole to sugar, cut the same cane for a wage that hold them tie. Freedom on paper meet a monoculture that have no room for no other kind of life, and the gap between the promise of liberty and the hard truth of the field come the long ground of the islands' next century. The worker endure, make a people out of bondage, and carry the cane down the generations to its very last harvest. Free paper is one thing, the old people say, free belly is another.
 
 ## Stage
 
-- [the sugar worker](persona_the_sugar_worker.md): freed in 1834 and bound still to the cane, the gap between law and life made flesh.
-- [Brimstone Hill](place_brimstone_hill.md): the fort above the estates, the cradle's history standing over the freed field.
-- [the Mother Colony and the sugar cradle](position_the_mother_colony_and_the_sugar_cradle.md): the monoculture and its bondage, carried soberly past emancipation.
+- [the sugar worker](persona_the_sugar_worker.md): free in 1834 and tie still to the cane, the gap between law and life make flesh.
+- [Brimstone Hill](place_brimstone_hill.md): the fort up over the estates, the cradle's history standing watch over the free field.
+- [the Mother Colony and the sugar cradle](position_the_mother_colony_and_the_sugar_cradle.md): the monoculture and its bondage, carry sober-eyed past emancipation.
 
 ## Tension
 
-The morning of emancipation changes the law and not the field: the worker is freed and walks back into the same cane, free and bound at once, on islands where sugar is the only world there is. The promise of liberty is real and the reality undercuts it, the estate quietly holding what the law gave away, so that the islands carry the unfinished work of emancipation as the engine of all that follows.
+The morning of emancipation change the law and not the field: the worker is free and walk right back into the same cane, free and bound at the one time, on islands where sugar is the only world there is. The promise of liberty is real and the truth cut it down, the estate quiet quiet holding on to what the law give away, so the islands carry the unfinish work of emancipation as the engine of all that come after.

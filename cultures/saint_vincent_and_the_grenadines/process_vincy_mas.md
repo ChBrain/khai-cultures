@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-The whole nation in the heat of the summer, giving itself over to the Carnival: the mas bands in their costumes, the calypso and the soca, the steelpan and the road march, the J'ouvert before dawn and the parade of the bands through the streets of the capital, the people of the mainland and the isles come together to play mas. It takes only the season to turn and the music to start, and the country pours into the road to dance.
+The whole nation in the heat of the summer, giving itself over to the Carnival: the mas bands in their costume, the calypso and the soca, the steelpan and the road march, the J'ouvert before day clean and the parade of the bands through the streets of the capital, the people of the mainland and the islands come together to play mas. It take only the season to turn and the music to start, and the country pour right into the road to wine and dance.
 
 ## Direction
 
-Toward release and togetherness: Vincy Mas, the summer Carnival, the nation's great festival, when the people set down the year's weight and take to the street in costume, song, and dance. It is the warm, expressive heart of the country let loose, the calypsonian's word and the masquerader's costume and the steelpan's ring binding the whole nation, mainland and Grenadines, into one moving, singing crowd under the summer sun.
+Toward release and togetherness: Vincy Mas, the summer Carnival, the nation great festival, when the people set down the whole year weight and take to the street in costume, song, and dance. It is the warm, expressive heart of the country let loose, the calypsonian word and the masquerader costume and the steelpan ring tying the whole nation, mainland and Grenadines, into one moving, singing crowd under the summer sun.
 
 ## Lever
 
-It is driven by the warmth and the expressive spirit of a people who carry hardship lightly and find their release in music and the street, the Carnival the great valve of a small resilient nation. It holds against the year's labour and the strain of the scattered isles, drawing them to one road; against it stand the cost of the season and the risk that the deep roots of the mas thin into mere spectacle.
+It is drive by the warmth and the expressive spirit of a people who carry hardship light and find their release in music and the street, the Carnival the great valve of a small strong nation. It hold up against the year labour and the strain of the scatter-out islands, drawing them to one road; against it stand the cost of the season and the risk that the deep roots of the mas thin out into just spectacle.
 
 ## Echo
 
-Vincy Mas makes audible what [the sea and the land](position_the_sea_and_the_land.md) needs: a single road on which the mainland and the isles, the grower and the sailor, dance as one nation. Into this crowd [the Bequia whaler](persona_the_bequia_whaler.md) comes off the water to play mas, the sea-folk and the land-folk made one in the summer street.
+Vincy Mas make audible what [the sea and the land](position_the_sea_and_the_land.md) need: one single road where the mainland and the islands, the grower and the sailor, dance as one nation. Into this crowd [the Bequia whaler](persona_the_bequia_whaler.md) come in off the water to play mas, the sea-people and the land-people make one in the summer street.
