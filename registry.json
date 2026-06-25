@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.140.0",
+  "version": "0.141.0",
   "cultures": [
     {
       "kind": "culture",
@@ -639,6 +639,13 @@
       "title": "Palau",
       "description": "A Belau el beluu el oba a telungalek ma bai, e diak a nuclear, e mesisiich a omenged.",
       "iso": "PW"
+    },
+    {
+      "kind": "culture",
+      "id": "palestine",
+      "title": "Palestine",
+      "description": "Palestine staged as a culture: the olive and the land, the tatreez and the song, and the steadfast keeping of memory.",
+      "iso": "PS"
     },
     {
       "kind": "culture",
