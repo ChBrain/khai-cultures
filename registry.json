@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.152.0",
+  "version": "0.153.0",
   "cultures": [
     {
       "kind": "culture",
@@ -646,6 +646,13 @@
       "title": "Niger",
       "description": "Niger staged as a culture: a Sahelian land of desert, river and caravan, where patience and the given word hold.",
       "iso": "NE"
+    },
+    {
+      "kind": "culture",
+      "id": "nigeria",
+      "title": "Nigeria",
+      "description": "Nigeria staged as a culture: the giant of Africa, many peoples in one, loud with life and never carrying last.",
+      "iso": "NG"
     },
     {
       "kind": "culture",
