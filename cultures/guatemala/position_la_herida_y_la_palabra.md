@@ -26,7 +26,7 @@ La herida abierta entre la promesa de la nación y la vida que vivió: la conqui
 
 ## Orders
 
-Que el dolor de la historia se mire de frente, sobrio y sin saña, ni negado ni reabierto, porque solo lo que se nombra puede curarse; que la fe acompañe la herida sin taparla; y que la palabra, la del escritor y la del testigo, sea la que devuelva a la nación su propia historia, para que el país aprenda a contarse entero y a sostener la paz que tanto le costó.
+Que el dolor de la historia se mire de frente, sobrio y sin saña, ni negado ni reabierto, porque, si pues, solo lo que se nombra puede curarse; que la fe acompañe la herida sin taparla; y que la palabra, la del escritor y la del testigo, sea la que devuelva a la nación su propia historia, para que el país aprenda a contarse entero y a sostener la paz que tanto le costó.
 
 ## Loses
 

@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-En las calles y plazas de los pueblos del Pacifico, sobre todo en Diriamba por las fiestas de San Sebastian: El Gueguense, el drama satirico de mascaras, musica y baile heredado de la colonia, representado al aire libre por personajes enmascarados al son del pito y el tambor.
+En las calles y plazas de los pueblos del Pacifico, sobre todo en Diriamba por las fiestas de San Sebastian: El Gueguense, el drama satirico de mascaras, musica y baile heredado de la colonia, sacado al aire libre por personajes enmascarados al son del pito y el tambor.
 
 ## Load Bearing
 
-Sostiene el ingenio mestizo del nicaraguense, su modo de resistir con la burla. Nacido en la colonia, mezcla el espanol y el nahuat y pone en escena a un viejo astuto, el Gueguense, que se las arregla para burlar a la autoridad colonial con dobles sentidos, enredos y labia, sin enfrentarse de cara. Es la picardia hecha teatro, la palabra ingeniosa como arma del debil frente al poderoso, y por eso encarna como pocas cosas el [tono nicaraguense](pitch_es.md): poetico, burlon y vivo de lengua. La UNESCO lo reconocio como obra maestra del patrimonio oral de la humanidad. Sin esta obra, el ingenio satirico del pais no tendria su mascara.
+Sostiene el ingenio mestizo del nicaraguense, su mana de resistir con la pura burla. Nacido en la colonia, mezcla el espanol y el nahuat y pone en escena a un viejo zorro, el Gueguense, que se las ingenia para tomarle el pelo a la autoridad colonial con dobles sentidos, enredos y mucha labia, sin pelearse de frente con nadie. Es la picardia hecha teatro, la palabra ocurrente vuelta arma del debil contra el poderoso, y por eso encarna como pocas cosas el [tono nicaraguense](pitch_es.md): poetico, burlon y vivo de lengua. La UNESCO lo reconocio como obra maestra del patrimonio oral de la humanidad. Sin esta obra, el ingenio guason del pais se quedaria sin su mascara.
 
 ## Apparent
 
-Un grupo de actores con mascaras de madera de rostros sonrientes, trajes vistosos y monos disecados al hombro, que bailan y declaman al son del pito y el tambor. En si parece solo una mojiganga de fiesta; su peso esta en el doble sentido de cada parlamento y en la burla escondida bajo la mascara.
+Un grupo de actores con mascaras de madera de caras sonrientes, trajes vistosos y monos disecados al hombro, que bailan y declaman al son del pito y el tambor. Asi nomas parece solo una mojiganga de fiesta; pero el peso esta en el doble sentido de cada parlamento y en la burla bien escondida debajo de la mascara.
 
 ## Yearbook
 
-- Nacido en la colonia, mezcla del espanol y el nahuat, primer teatro mestizo del pais.
-- Representado al aire libre en Diriamba y otros pueblos del Pacifico por las fiestas patronales.
+- Nacido en la colonia, mezcla del espanol y el nahuat, el primer teatro mestizo del pais.
+- Sacado al aire libre en Diriamba y otros pueblos del Pacifico por las fiestas patronales.
 - Declarado por la UNESCO obra maestra del patrimonio oral e inmaterial de la humanidad.

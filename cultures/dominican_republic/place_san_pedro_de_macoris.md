@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La ciudad del sureste que el azúcar hizo crecer y que el béisbol hizo célebre: un puerto de ingenios y de braceros que, entre el polvo de los campos de caña, se volvió la cantera más fértil de talento beisbolero del país y de las que más jugadores ha dado a las Grandes Ligas. Sus barrios y sus campos improvisados han visto crecer a generaciones de muchachos con guante, y la liga de invierno enciende aquí una pasión que viene desde los tiempos del ingenio.
+La ciudad del sureste que el azúcar hizo crecer y que el béisbol hizo célebre: un puerto de ingenios y de braceros que, entre el polvo de los cañaverales, se volvió la cantera más fértil de talento beisbolero del país y de las que más jugadores le ha dado a las Grandes Ligas. Sus barrios y sus play improvisados han visto crecer a generaciones de muchachos con guante, y la liga de invierno prende aquí una pasión que viene desde los tiempos del ingenio.
 
 ## Holds
 
@@ -30,8 +30,8 @@ La ciudad del sureste que el azúcar hizo crecer y que el béisbol hizo célebre
 
 ## Offers
 
-Un lugar donde el juego es camino y esperanza: campos de tierra donde cualquier niño puede soñar con firmar, academias que forman a los que despuntan, una ciudad que reconoce en cada pelotero que llega lejos una victoria propia. Ofrece la prueba de que el ritmo y el juego pueden ser una puerta real de prosperidad para los hijos del azúcar.
+Un lugar donde el juego es camino y esperanza: play de tierra donde cualquier muchachito puede soñar con firmar, academias que forman a los que despuntan, una ciudad que en cada pelotero que llega lejos ve una victoria propia. Ofrece la prueba de que el ritmo y el juego sí pueden ser una puerta real de prosperidad para los hijos del azúcar.
 
 ## Withheld
 
-La inocencia del puro semillero. San Pedro de Macorís carga con la dureza de la que nace su gloria: el trabajo del ingenio, la pobreza de los barrios de donde brota el talento, y el reverso del sueño, en que por cada muchacho que firma y triunfa hay muchos a los que el camino deja atrás. Recuerda que la cantera es también un lugar del que hay que querer salir.
+La inocencia del puro semillero. San Pedro de Macorís carga con la dureza de la que nace su gloria: el trabajo del ingenio, la pobreza de los barrios de donde brota el talento, y el reverso del sueño, en que por cada muchacho que firma y la pega hay muchos a los que el camino deja atrás. Recuerda que la cantera es también un lugar del que uno tiene que querer salir.

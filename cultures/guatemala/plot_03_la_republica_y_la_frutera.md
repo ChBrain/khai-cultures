@@ -26,7 +26,7 @@ En 1821 Centroamérica se separa de España, y tras unos años de unión las pro
 
 ## Action
 
-A lo largo del siglo siguiente la economía del banano y del café ata el país a los mercados extranjeros, y una gran compañía frutera del norte llega a tener tierras, ferrocarriles y puertos, hasta pesar tanto como el propio gobierno: la república se vuelve, en la expresión que corrió por el mundo, una "república bananera". En 1944 una primavera democrática promete reformas y tierra para el campesino, pero en 1954 un golpe de Estado la corta en seco. En medio de ese tiempo de poder y de frutera, [Miguel Ángel Asturias](persona_asturias.md) escribe la novela del dictador y la del maíz, y lleva al castellano americano y al país entero a un lugar que el mundo hubo de leer, ganando para la nación el premio Nobel de literatura.
+A lo largo del siglo siguiente la economía del banano y del café ata el país a los mercados extranjeros, y una gran compañía frutera del norte llega a tener tierras, ferrocarriles y puertos, hasta pesar tanto como el propio gobierno: la república se vuelve, en la expresión que corrió por el mundo, una "república bananera". En 1944 una primavera democrática promete reformas y tierra para el campesino, pero en 1954 un golpe de Estado la corta en seco, cabal cuando empezaba a dar fruto. En medio de ese tiempo de poder y de frutera, [Miguel Ángel Asturias](persona_asturias.md) escribe la novela del dictador y la del maíz, y lleva al castellano americano y al país entero a un lugar que el mundo hubo de leer, ganando para la nación el premio Nobel de literatura.
 
 ## Stage
 

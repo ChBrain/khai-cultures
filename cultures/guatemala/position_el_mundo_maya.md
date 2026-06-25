@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La herencia viva del pueblo maya: no una civilización perdida bajo la selva, sino una raíz que aún habla, teje, siembra y reza. Aquí se alzaron las ciudades de piedra como Tikal, se midió el cielo y el tiempo, y se escribió el Popol Vuh, el libro del amanecer de la vida, donde los dioses hacen al hombre del maíz tras fallar con el barro y la madera. De ahí la idea que ordena todo lo demás: que esta tierra es la cuna de los hombres de maíz, y que la mayoría de su pueblo no desciende de los antiguos mayas, sino que es maya todavía, con sus lenguas, sus trajes y su calendario vivos.
+La herencia viva del pueblo maya: no una civilización perdida bajo la selva, sino una raíz que aún habla, teje, siembra y reza. Aquí se alzaron las ciudades de piedra como Tikal, se midió el cielo y el tiempo, y se escribió el Popol Vuh, el libro del amanecer de la vida, donde los dioses hacen al hombre del maíz tras fallar con el barro y la madera. De ahí la idea que ordena todo lo demás: que esta tierra es la cuna de los hombres de maíz, y que la mayoría de su pueblo no es que descienda de los antiguos mayas, es que es maya todavía, cabal, con sus lenguas, sus trajes y su calendario vivos.
 
 ## Orders
 

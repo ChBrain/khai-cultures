@@ -23,13 +23,13 @@ El mandato abierto que la nación se dio a sí misma en los Acuerdos de Paz de 1
 
 ## Direction
 
-Sanar el legado del conflicto sin negarlo ni reabrirlo, nombrando la herida con palabra serena para que pueda curarse; dignificar a los hombres de maíz, reconociendo sus lenguas, sus trajes y sus derechos como suelo de la nación y no como pasado a superar; salvar la distancia vieja entre indígenas y ladinos, para que la diferencia deje de ser desigualdad; y sostener la paz costada en 1996 como tarea de todos los días, no como página vuelta.
+Sanar el legado del conflicto sin negarlo ni reabrirlo, nombrando la herida con palabra serena para que pueda curarse; dignificar a los hombres de maíz, reconociendo sus lenguas, sus trajes y sus derechos como suelo de la nación y no como atraso a superar; salvar la distancia vieja entre indígenas y ladinos, para que la diferencia deje de ser desigualdad; y sostener la paz costada en 1996 como tarea de todos los días, no como página vuelta.
 
 ## Orders
 
-- A la guardiana de la raíz, como [la tejedora maya](persona_la_tejedora_maya.md): sostén la lengua, el telar y la memoria del pueblo, para que la raíz viva no se reduzca a estampa de feria.
-- A la voz del altiplano, como [Rigoberta Menchú](persona_rigoberta_menchu.md): lleva la palabra de los pueblos hasta el centro del país, para que la igual dignidad pase de reclamo a derecho cumplido.
-- A la nación: nombra tu herida sin saña y dignifica a tus pueblos, sin confundir la firma de la paz con la paz misma ni el silencio con la concordia.
+- A la guardiana de la raíz, como [la tejedora maya](persona_la_tejedora_maya.md): sostené la lengua, el telar y la memoria del pueblo, para que la raíz viva no se reduzca a estampa de feria.
+- A la voz del altiplano, como [Rigoberta Menchú](persona_rigoberta_menchu.md): llevá la palabra de los pueblos hasta el centro del país, para que la igual dignidad pase de reclamo a derecho cumplido.
+- A la nación: nombrá tu herida sin saña y dignificá a tus pueblos, sin confundir la firma de la paz con la paz misma ni el silencio con la concordia.
 
 ## Implementation
 

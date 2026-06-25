@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La vieja capital colonial al pie de tres volcanes: calles de piedra y casas de muros gruesos pintados de ocre y añil, claustros, fuentes y el arco amarillo de Santa Catalina, y por todas partes las iglesias barrocas, unas en pie y otras vencidas por los terremotos que la hicieron mudar de sitio. Sede del reino durante dos siglos, conserva la traza del poder colonial y de la fe que lo acompañó, hoy ciudad de adoquín y campana bajo el humo del volcán de Fuego. El barroco devoto del reino, guardado entre temblores.
+La vieja capital colonial al pie de tres volcanes: calles de piedra y casas de muros gruesos pintados de ocre y añil, claustros, fuentes y el arco amarillo de Santa Catalina, y por todas partes las iglesias barrocas, unas en pie y otras vencidas por los terremotos que la hicieron mudar de sitio. Sede del reino durante dos siglos, conserva la traza del poder colonial y de la fe que lo acompañó, hoy ciudad de adoquín y campana bajo el humo del volcán de Fuego, donde todavía se vende el shuco en la esquina y pasa el chucho callejero entre los turistas. El barroco devoto del reino, guardado entre temblores.
 
 ## Holds
 

@@ -22,15 +22,15 @@ Parent group: pieces
 
 ## Place
 
-En la mesa del desayuno de la casa dominicana, del campo a la capital y de la isla a la diáspora: plátano verde hervido y majado, untado con su aceite y coronado de cebolla roja encurtida, servido con los tres golpes, el queso frito, el salami frito y el huevo. Es el primer plato del día y uno de los más queridos del país.
+En la mesa del desayuno de la casa dominicana, del campo a la capital y de la isla a la diáspora: plátano verde hervido y majado, untado con su aceite y coronado de cebolla roja encurtida, servido con los tres golpes, el queso frito, el salami frito y el huevo. Es el primer plato del día y uno de los más queridos del país, una vaina que aquí no falla.
 
 ## Load Bearing
 
-Sostiene la idea de [la cuna de América](position_la_cuna_de_america.md) como tierra que hizo cocina propia con lo que la isla daba: el plátano, llegado de fuera y vuelto raíz, majado al modo de la casa hasta convertirse en seña de identidad. En la mesa del mangú se reconoce la familia, centro de la vida dominicana, y en cada plato de los tres golpes viaja la patria, pues es lo que el emigrante busca recrear lejos para no dejar de ser de aquí. Sin este desayuno, la casa dominicana perdería uno de los gestos en que más claramente se dice quién es.
+Sostiene la idea de [la cuna de América](position_la_cuna_de_america.md) como tierra que hizo cocina propia con lo que la isla daba: el plátano, llegado de fuera y vuelto raíz, majado al modo de la casa hasta volverse seña de identidad. En la mesa del mangú se reconoce la familia, centro de la vida dominicana, y en cada plato de los tres golpes viaja la patria, porque es lo que el que se va busca recrear lejos para no dejar de ser de aquí. Sin este desayuno, la casa dominicana perdería uno de los gestos en que más clarito se dice quién es.
 
 ## Apparent
 
-A simple vista, plátano verde hervido y majado con un poco de aceite, una cebolla encurtida por encima y, al lado, unas lonjas fritas y un huevo. En sí mismo es comida humilde de cada mañana; su peso está entero en lo que la familia ha puesto en él, en la mesa que reúne y en la memoria que despierta en quien lo come lejos de la isla.
+A simple vista, plátano verde hervido y majado con un chin de aceite, una cebolla encurtida por encima y, al lado, unas lonjas fritas y un huevo. En sí mismo es comida humilde de cada mañana; su peso está entero en lo que la familia ha puesto en él, en la mesa que reúne y en la memoria que le despierta a quien lo come lejos de la isla.
 
 ## Yearbook
 

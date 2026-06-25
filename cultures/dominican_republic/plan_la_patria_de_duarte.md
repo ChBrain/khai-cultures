@@ -23,18 +23,18 @@ El mandato abierto que la nación se debe a sí misma en nombre de su fundador: 
 
 ## Direction
 
-Guardar la memoria con verdad, honrando a Duarte y a las Mariposas y recordando la Era con sobriedad, ni borrada ni vuelta espectáculo; compartir la isla con Haití en dignidad y sin reproche, dando respuesta serena a la vieja cuestión de la frontera; cuidar y educar a los suyos, sosteniendo la escuela que Salomé Ureña empezó; y volver el ritmo y el juego camino real de prosperidad, formando con justicia el talento de los barrios y de la caña y haciendo que vuelva a ellos.
+Guardar la memoria con verdad, honrando a Duarte y a las Mariposas y recordando la Era con sobriedad, ni borrada ni vuelta espectáculo; compartir la isla con Haití en dignidad y sin reproche, dando respuesta serena a la vieja vaina de la frontera; cuidar y educar a los suyos, sosteniendo la escuela que Salomé Ureña empezó; y volver el ritmo y el juego camino real de prosperidad, formando con justicia el talento de los barrios y de la caña y haciendo que vuelva a ellos.
 
 ## Orders
 
-- Al muchacho como [el pelotero](persona_el_pelotero.md): persigue tu sueño, pero exige que el camino te cuide como persona y no te use como mercancía.
-- Al artista como [Juan Luis Guerra](persona_juan_luis_guerra.md): lleva la alegría del país al mundo sin olvidar la sed real de la que también canta, y haz que el ritmo vuelva al barrio que lo dio.
-- A la memoria, en nombre de [las hermanas Mirabal](persona_las_mirabal.md): guarda entero el coraje de las Mariposas, para que enseñe a los que vienen lo que costó ser libre.
-- A la nación: honra a Duarte de obra y no solo de estatua, comparte la isla con dignidad y convierte la resiliencia en prosperidad de todos.
+- Al muchacho como [el pelotero](persona_el_pelotero.md): persigue tu sueño, mi pana, pero exige que el camino te cuide como persona y no te use como mercancía.
+- Al artista como [Juan Luis Guerra](persona_juan_luis_guerra.md): lleva la alegría del país al mundo sin olvidarte de la sed real de la que también canta, y haz que el ritmo vuelva al barrio que lo dio.
+- A la memoria, en nombre de [las hermanas Mirabal](persona_las_mirabal.md): guarda entero el coraje de las Mariposas, para que les enseñe a los que vienen lo que costó ser libre.
+- A la nación: honra a Duarte de obra y no solo de estatua, comparte la isla con dignidad y convierte el aguante en prosperidad de todos.
 
 ## Implementation
 
-Una república nacida en la cuna del continente, que ganó su libertad de Haití en 1844, resistió la Era con el coraje de las Mariposas y llevó su música y su pelota al mundo, y que hoy sostiene su alegría sobre heridas que aún pesan: la desigualdad de los barrios y de la caña, la memoria que pide sobriedad, la cuestión no resuelta de la isla compartida, y el reto de que el talento que la hace célebre traiga prosperidad real a los suyos, en casa y en la diáspora.
+Una república nacida en la cuna del continente, que ganó su libertad de Haití en 1844, resistió la Era con el coraje de las Mariposas y llevó su música y su pelota al mundo, y que hoy sostiene su alegría por encima de heridas que todavía pesan: la desigualdad de los barrios y de la caña, la memoria que pide sobriedad, la vaina no resuelta de la isla compartida, y el reto de que el talento que la hace célebre les traiga prosperidad real a los suyos, en casa y en la diáspora.
 
 ## Targets
 

@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capital y el puerto sobre el Río de la Plata, la ciudad que reúne a casi la mitad del país en una sola orilla. La rambla larga junto al agua donde a la tarde todos caminan con el mate; la Ciudad Vieja y el puerto por donde entró la gran inmigración; los barrios del candombe, Sur y Palermo, donde baja el tambor. Una ciudad de escala humana, laica y pareja, que es a la vez la cabeza, el corazón y la mitad del Uruguay.
+La capital y el puerto sobre el Río de la Plata, la ciudad que junta a casi la mitad del país en una sola orilla. La rambla larga al lado del agua donde a la tardecita todos caminan con el mate; la Ciudad Vieja y el puerto por donde entró la gran inmigración; los barrios del candombe, Sur y Palermo, donde sale el tambor. Una ciudad de escala humana, laica y pareja, que es a la vez la cabeza, el corazón y la mitad del Uruguay.
 
 ## Holds
 
@@ -32,8 +32,8 @@ La capital y el puerto sobre el Río de la Plata, la ciudad que reúne a casi la
 
 ## Offers
 
-El lugar donde el país se piensa y se reconoce: el puerto que lo abrió al mundo y a la inmigración, la capital desde donde se gobierna y se reforma, y la rambla donde, mate en mano, el Uruguay se vive a sí mismo todas las tardes. Aquí se concentra casi todo lo que el país es.
+El lugar donde el país se piensa y se reconoce: el puerto que lo abrió al mundo y a la inmigración, la capital desde donde se gobierna y se reforma, y la rambla donde, con el mate en la mano, el Uruguay se vive a sí mismo todas las tardes. Acá se junta casi todo lo que el país es.
 
 ## Withheld
 
-El peso de las grandes capitales del continente y la distancia entre los que mandan y los demás. Montevideo no abruma ni se da aires; es una capital de escala humana, donde se cruza al ministro en la rambla, y recuerda que la grandeza del país no esta en el tamaño de su ciudad sino en lo parejo de su trato.
+El peso de las grandes capitales del continente y la distancia entre los que mandan y los demás. Montevideo no abruma ni se da aires; es una capital de escala humana, donde te cruzás al ministro en la rambla, y recuerda que la grandeza del país no esta en el tamaño de su ciudad sino en lo parejo de su trato.

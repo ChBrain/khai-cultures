@@ -26,7 +26,7 @@ En la isla que sus habitantes, los taínos, llamaban a su manera, llegan a fines
 
 ## Action
 
-Santo Domingo se convierte en la cabeza de la colonia y en la puerta de cuanto vendrá: en ella se alzan la primera catedral, la primera universidad y la primera audiencia del continente, y de ella parten hacia tierra firme las empresas que poblarán medio mundo. La isla, La Española, queda como principio del Nuevo Mundo y como cuna de sus instituciones, sobre la tierra de los taínos que la habitaban desde mucho antes.
+Santo Domingo se convierte en la cabeza de la colonia y en la puerta de todo lo que vendrá: en ella se alzan la primera catedral, la primera universidad y la primera audiencia del continente, las primeras de verdad, y de ella salen hacia tierra firme las empresas que poblarán medio mundo. La isla, La Española, queda como principio del Nuevo Mundo y como cuna de sus instituciones, sobre la tierra de los taínos que la habitaban desde mucho antes.
 
 ## Stage
 
@@ -35,4 +35,4 @@ Santo Domingo se convierte en la cabeza de la colonia y en la puerta de cuanto v
 
 ## Tension
 
-La tierra se vuelve cuna de un mundo nuevo y a la vez deja atrás el mundo que ya estaba: la gloria de ser la primera ciudad del continente carga con la memoria de los taínos que habitaban la isla antes del principio. El país nace, pues, con el orgullo de haber sido el comienzo y con la tarea de honrar entera esa memoria, sin convertir su condición de cuna en mero decorado.
+La tierra se vuelve cuna de un mundo nuevo y a la vez deja atrás el mundo que ya estaba: la gloria de ser la primera ciudad del continente carga con la memoria de los taínos que habitaban la isla antes del principio. El país nace, pues, con el orgullo de haber sido el comienzo y con la tarea de honrar entera esa memoria, sin volver su condición de cuna un puro decorado.

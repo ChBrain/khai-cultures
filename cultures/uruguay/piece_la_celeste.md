@@ -22,15 +22,15 @@ Parent group: pieces
 
 ## Place
 
-Sobre el pecho de los once que salen a la cancha y en la espalda de todo un pueblo los días de partido: la celeste, la camiseta de color cielo de la selección, el emblema de las epopeyas del fútbol que un país de pocos llevó a lo más alto.
+Sobre el pecho de los once que salen a la cancha y en la espalda de todo un pueblo los días de partido: la celeste, la camiseta color cielo de la selección, el emblema de las epopeyas del fútbol que un país de pocos llevó a lo más alto.
 
 ## Load Bearing
 
-Sostiene el orgullo del país chico que pega por encima de su tamaño, encarna [la garra charrua](position_la_garra_charrua.md) en una sola prenda. En la celeste un pueblo pequeño se reconoce entero: la vistió la selección que ganó el primer Mundial de 1930 en casa y la que dio el Maracanazo de 1950, y con ella el Uruguay le enseñó al mundo que el coraje y el aguante no se miden en habitantes. Es la camiseta de las cuatro estrellas, la prueba de que un país que cabe en una ciudad puede mirar de igual a igual a los gigantes. Sin esta prenda, la garra no tendría cuerpo que vestir.
+Sostiene el orgullo del país chico que pega por encima de su tamaño, encarna [la garra charrua](position_la_garra_charrua.md) en una sola prenda. En la celeste un pueblo pequeño se reconoce entero: la vistió la selección que ganó el primer Mundial de 1930 en casa y la que dio el Maracanazo de 1950, y con ella el Uruguay le enseñó al mundo que el coraje y el aguante no se miden por la cantidad de habitantes. Es la camiseta de las cuatro estrellas, la prueba de que un país que entra en una sola ciudad puede mirar de igual a igual a los gigantes. Sin esta prenda, la garra no tendría cuerpo que vestir.
 
 ## Apparent
 
-Una camiseta de color celeste, el azul claro del cielo, con el escudo al pecho y a veces el sol. En sí misma es solo tela teñida; su peso entero esta en las glorias que cargó y en el pueblo chico que se ve en ella mucho más grande de lo que es.
+Una camiseta color celeste, el azul claro del cielo, con el escudo al pecho y a veces el sol. En sí misma es nomás tela teñida; su peso entero esta en las glorias que cargó y en el pueblo chico que se ve en ella mucho más grande de lo que es.
 
 ## Yearbook
 

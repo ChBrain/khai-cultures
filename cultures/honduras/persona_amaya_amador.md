@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-El novelista que trabajo en las plataneras de la costa norte y de aquella vida saco "Prision verde", el libro que puso en literatura la suerte de los bananeros bajo las companias. Comprometido, observador y fiel a la gente sencilla, encarna la voz que nombra el despojo. El espanol es su lengua propia: en el [habla](process_speaking_mother_tongue.md), [piensa](process_thinking_mother_tongue.md) y sobre todo [escribe](process_writing_mother_tongue.md), y con esa pluma convierte el sudor de la platanera en novela y deja por escrito lo que el poder preferia callar. De los libros y las ideas de su tiempo lee y [sigue en la pagina](process_reading_followed.md) cuanto alimenta su mirada sobre la injusticia. Escribio en castellano la vida de los que mandaban desde fuera en ingles, los gerentes y las companias cuya lengua era la del banano y la del puerto; y asi el hueco al limite de la lengua corre entre la lengua del trabajador, que el levanta a literatura, y la del patron lejano, que decidia su jornal sin necesitar la suya.
+El novelista que trabajo en los bananales de la costa norte y de aquella vida saco "Prision verde", el libro que puso en literatura la suerte de los bananeros bajo las companias. Comprometido, observador y de parte de la gente sencilla, encarna la voz que le pone nombre al despojo. El espanol es su lengua propia: en el [habla](process_speaking_mother_tongue.md), [piensa](process_thinking_mother_tongue.md) y sobre todo [escribe](process_writing_mother_tongue.md), y con esa pluma vuelve novela el sudor del bananal y deja por escrito lo que el poder prefiere callar. De los libros y las ideas de su tiempo lee y [sigue en la pagina](process_reading_followed.md) cuanto le alimenta la mirada sobre la injusticia. Escribio en castellano la vida de los que mandaban desde fuera en ingles, los gerentes y las companias cuya lengua era la del banano y la del puerto; y asi el hueco al limite de la lengua corre entre la lengua del trabajador, que el levanta a literatura, y la del patron lejano, que decidia su jornal sin necesitar la suya.
 
 ## Action
 
-En [la Republica Bananera](plot_03_la_republica_bananera.md) escribe "Prision verde" y da voz literaria a [la republica bananera](position_la_republica_bananera.md), al trabajo y al despojo de las plataneras. Al ponerlo por escrito, salva del olvido la vida del bananero y obliga al pais a mirar de frente como fue moldeado desde fuera.
+En [la Republica Bananera](plot_03_la_republica_bananera.md) escribe "Prision verde" y le da voz literaria a [la republica bananera](position_la_republica_bananera.md), al trabajo y al despojo del bananal. Al ponerlo por escrito, salva del olvido la vida del bananero y obliga al pais a mirar de frente como fue amasado desde fuera.
 
 ## Shadow
 
-El escritor que nombra el despojo puede quedar reducido a bandera y consigna, citado mas que leido, su denuncia vuelta lema y su gente vuelta simbolo. La sombra es honrar el titulo del libro y olvidar a los hombres de carne y hueso que lo habitan, las plataneras de los que aun cargan esa herencia.
+El escritor que le pone nombre al despojo puede quedar reducido a bandera y consigna, citado mas que leido, su denuncia vuelta lema y su gente vuelta simbolo. La sombra es honrar el titulo del libro y olvidar a los hombres de carne y hueso que lo habitan, los bananales de los que aun cargan esa herencia.
 
 ## Tell
 
-Saca de la platanera una novela, y pone mas verdad de Honduras en la vida de un bananero que en cualquier informe de la compania.
+Saca del bananal una novela, y pone mas verdad de Honduras en la vida de un bananero que en cualquier informe de la compania.

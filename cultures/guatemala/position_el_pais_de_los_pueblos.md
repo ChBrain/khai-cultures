@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La verdad de que Guatemala no es un pueblo, sino muchos: una veintena de pueblos mayas, cada uno con su lengua, junto a los garífunas, los xinkas y los ladinos, mestizos de habla castellana. Una nación plural cosida en un solo estado, donde conviven el altiplano indígena y la capital ladina, el telar y la oficina, la milpa y el mercado. Y con esa pluralidad, la distancia que aún la divide: una brecha vieja, étnica y social, entre quienes mandan y firman y quienes siembran y tejen, que las leyes empiezan a nombrar y la vida no acaba de cerrar.
+La verdad de que Guatemala no es un pueblo, fíjese, sino muchos: una veintena de pueblos mayas, cada uno con su lengua, junto a los garífunas, los xinkas y los ladinos, mestizos de habla castellana. Una nación plural cosida en un solo estado, donde conviven el altiplano indígena y la capital ladina, el telar y la oficina, la milpa y el mercado. Y con esa pluralidad, la distancia que aún la divide: una brecha vieja, étnica y social, entre quienes mandan y firman y quienes siembran y tejen, que las leyes empiezan a nombrar y la vida no acaba de cerrar.
 
 ## Orders
 

@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La primera ciudad europea permanente de las Américas, levantada en 1496 a orillas del río Ozama y del mar Caribe. La Zona Colonial, con sus calles de piedra, guarda la primera catedral, la primera universidad y la primera audiencia del continente, y por encima de ellas se extiende hoy la gran capital, ruidosa y caliente, con su malecón abierto al mar donde la ciudad entera se reúne al caer la tarde. Aquí late el principio del Nuevo Mundo y la cabeza de la patria, una a la vez.
+La primera ciudad europea permanente de las Américas, levantada en 1496 a orillas del río Ozama y del mar Caribe. La Zona Colonial, con sus calles de piedra, guarda la primera catedral, la primera universidad y la primera audiencia del continente, y por encima de ellas se extiende hoy la gran capital, ruidosa y caliente, con su malecón abierto al mar donde la ciudad entera se reúne al caer la tarde a coger fresco. Aquí late el principio del Nuevo Mundo y la cabeza de la patria, las dos cosas a la vez.
 
 ## Holds
 
@@ -32,8 +32,8 @@ La primera ciudad europea permanente de las Américas, levantada en 1496 a orill
 
 ## Offers
 
-Un lugar donde el país se reconoce como cuna del continente y como cabeza de su patria: una piedra fundacional que se puede tocar, una plaza donde se proclamó la libertad, un malecón donde la nación se junta a vivir el presente. Ofrece la memoria entera del principio y la fiesta diaria de un pueblo que la sostiene.
+Un lugar donde el país se reconoce como cuna del continente y como cabeza de su patria: una piedra fundacional que uno puede tocar con la mano, una plaza donde se proclamó la libertad, un malecón donde la nación se junta a vivir el presente. Ofrece la memoria entera del principio y la fiesta de cada día de un pueblo que la sostiene.
 
 ## Withheld
 
-La inocencia del mero monumento. Santo Domingo carga con la distancia entre las piedras gloriosas de la Zona Colonial y la desigualdad de los barrios que la rodean, entre la primera universidad y la escuela que aún falta, entre la capital de la patria y la de la Era; y recuerda que el principio de un mundo trae consigo toda la memoria de lo que ese principio puso en marcha.
+La inocencia del puro monumento. Santo Domingo carga con la distancia entre las piedras gloriosas de la Zona Colonial y la desigualdad de los barrios que la rodean, entre la primera universidad y la escuela que todavía falta, entre la capital de la patria y la de la Era; y recuerda que el principio de un mundo trae consigo toda la memoria de lo que ese principio puso a andar.

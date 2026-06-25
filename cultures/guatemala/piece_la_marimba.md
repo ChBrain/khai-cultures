@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-En la plaza del pueblo y en el salón de fiestas, en la boda y en el velorio, en el parque de la capital y en la feria del altiplano: el instrumento nacional, una larga hilera de teclas de madera sobre cajas de resonancia, antaño calabazas o guacales, hoy tubos, que varios ejecutantes hacen sonar a la vez con sus baquetas. El sonido dulce y melancólico que pone música a toda Guatemala, declarado símbolo patrio de la nación.
+En la plaza del pueblo y en el salón de fiestas, en la boda y en el velorio, en el parque de la capital y en la feria del altiplano: el instrumento nacional, una larga hilera de teclas de madera sobre cajas de resonancia, antaño calabazas o guacales, hoy tubos, que varios ejecutantes hacen sonar a la vez con sus baquetas. El sonido dulce y melancólico que le pone música a toda Guatemala, declarado símbolo patrio de la nación. Donde suena la marimba, ahí se sabe que hay chapines.
 
 ## Load Bearing
 

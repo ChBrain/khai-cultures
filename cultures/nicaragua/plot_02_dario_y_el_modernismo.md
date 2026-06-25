@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-En el siglo XIX, la joven republica vive la eterna rivalidad de Granada y Leon y la codicia de las potencias por su paso entre los dos mares. En 1856 el filibustero norteamericano William Walker se hace del poder por las armas y llega a proclamarse presidente, hasta que los nicaraguenses y sus vecinos centroamericanos lo expulsan.
+En el siglo XIX, la joven republica vive la eterna pelea de Granada y Leon y la codicia de las potencias por su paso entre los dos mares. En 1856 el filibustero norteamericano William Walker se hace del poder por las armas y hasta llega a proclamarse presidente, vea pues que descaro, hasta que los nicaraguenses y sus vecinos centroamericanos lo sacan a empujones.
 
 ## Action
 
-Pasada la guerra contra Walker, de esta tierra pequena sale el mayor de sus dones. [Ruben Dario](persona_ruben_dario.md), nacido en Metapa y formado entre Leon, Granada y el mundo, publica Azul y Prosas profanas y funda el modernismo, renovando de raiz el verso castellano y devolviendolo, desde America, a la propia Espana. La nacion tantas veces invadida se descubre [tierra de poetas](position_tierra_de_poetas.md), y un pais que apenas figuraba en el mapa da a la lengua espanola su voz mas alta.
+Pasada la guerra contra Walker, de esta tierra chiquita sale el mayor de sus regalos. [Ruben Dario](persona_ruben_dario.md), nacido en Metapa y criado entre Leon, Granada y el mundo, publica Azul y Prosas profanas y funda el modernismo, renovando de raiz el verso castellano y devolviendoselo, desde America, a la mera Espana. La nacion tantas veces invadida se descubre [tierra de poetas](position_tierra_de_poetas.md), y mira vos lo que es la vida: un pais que apenas figuraba en el mapa le da a la lengua espanola su voz mas alta.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Pasada la guerra contra Walker, de esta tierra pequena sale el mayor de sus done
 
 ## Tension
 
-El mismo siglo que trae la intervencion de Walker y la division entre las ciudades trae tambien la gloria de Dario, como si la grandeza de la palabra creciera justo donde mas dura es la historia. El pais pequeno y disputado se vuelve grande en sus letras, pero el orgullo del verso correra siempre el riesgo de mirar solo al Pacifico y olvidar la otra Nicaragua que su gloria no nombra.
+El mismo siglo que trae la intervencion de Walker y el pleito entre las ciudades trae tambien la gloria de Dario, como si la grandeza de la palabra creciera justo donde la historia aprieta mas duro. El pais chiquito y disputado se vuelve grande por sus letras, pero ojo, que el orgullo del verso siempre va a correr el riesgo de mirar solo al Pacifico y olvidarse de la otra Nicaragua que su gloria no nombra.

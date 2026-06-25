@@ -26,7 +26,7 @@ En 1524 baja desde México Pedro de Alvarado con sus huestes y sus aliados, y lo
 
 ## Action
 
-En los llanos de El Pinal cae Tecún Umán frente a Alvarado, y con él la resistencia organizada del altiplano. Sobre los reinos vencidos se levanta el reino colonial: nace la ciudad de Santiago de los Caballeros, la que será la Antigua, y se traza la traza española de calles, plazas e iglesias bajo los volcanes. La fe llega con la conquista y echa raíces: se alzan templos y conventos barrocos, y un humilde pastor venido de Canarias, [el Hermano Pedro](persona_hermano_pedro.md), funda en la Antigua su hospital y su obra de caridad, primer santo nacido de esta tierra. Dos siglos de colonia trenzan, sobre la raíz maya, la lengua castellana y la fe católica, y dejan en pie un país de dos mundos.
+En los llanos de El Pinal cae Tecún Umán frente a Alvarado, y con él la resistencia organizada del altiplano. Sobre los reinos vencidos se levanta el reino colonial: nace la ciudad de Santiago de los Caballeros, la que será la Antigua, y se traza la traza española de calles, plazas e iglesias bajo los volcanes. La fe llega con la conquista y echa raíces: se alzan templos y conventos barrocos, y un humilde pastor venido de Canarias, [el Hermano Pedro](persona_hermano_pedro.md), funda en la Antigua su hospital y su obra de caridad, el primer santo que dio esta tierra. Dos siglos de colonia trenzan, sobre la raíz maya, la lengua castellana y la fe católica, y dejan en pie un país de dos mundos.
 
 ## Stage
 

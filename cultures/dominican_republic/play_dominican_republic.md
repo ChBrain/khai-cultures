@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-La República Dominicana, el país que ocupa los dos tercios orientales de La Española, la isla del Caribe que comparte con Haití, entre el océano Atlántico y el mar Caribe, al este de Cuba y de Jamaica. ISO DO, lengua es, el español caribeño rápido y cantado como tongo de toda la nación. Aquí estuvo el primer asentamiento europeo permanente de las Américas, y de aquí salió buena parte de lo que vino después.
+La República Dominicana, el país que ocupa los dos tercios orientales de La Española, la isla del Caribe que comparte con Haití, entre el océano Atlántico y el mar Caribe, al este de Cuba y de Jamaica. ISO DO, lengua es, el español caribeño rápido y cantado como tono de toda la nación, ese que arranca con un "¿qué lo qué?" y ya está la conversación echando chispa. Aquí estuvo el primer asentamiento europeo permanente de las Américas, y de aquí salió buena parte de lo que vino después.
 
 ## Arc
 
-Una tierra que fue principio de un mundo nuevo. La habitaron los taínos, y sobre su suelo se levantó en 1496 Santo Domingo, la primera ciudad europea de las Américas, con su primera catedral, su primera universidad y su primera audiencia. La isla de La Española quedó luego partida, compartida con Haití, y de esa frontera nace una de las preguntas que el país aún no termina de responder. La independencia no se ganó de España sino de Haití, en 1844, cuando Juan Pablo Duarte y los hombres de la Trinitaria proclamaron una patria propia; y la joven república se dio enseguida sus letras, con voces como la de Salomé Ureña. Vino después la larga sombra de la dictadura de Trujillo, la Era, y contra ella el coraje de las hermanas Mirabal, las Mariposas, que hoy se recuerdan con reverencia. De este suelo brotaron el merengue y la bachata, que conquistaron el mundo, y de sus pueblos azucareros salió la gran cantera del béisbol, la pelota que es pasión nacional. Bajo todo ello late un solo nervio: un pueblo mulato, alegre y resiliente, que sostiene su memoria, su isla y su ritmo entre el colmado, el malecón y la diáspora que lo lleva por todo el mundo sin que deje nunca de ser de aquí.
+Una tierra que fue principio de un mundo nuevo. La habitaron los taínos, y sobre su suelo se levantó en 1496 Santo Domingo, la primera ciudad europea de las Américas, con su primera catedral, su primera universidad y su primera audiencia. La isla de La Española quedó luego partida, compartida con Haití, y de esa frontera nace una de las preguntas que el país todavía no termina de contestar. La independencia no se ganó de España sino de Haití, en 1844, cuando Juan Pablo Duarte y los hombres de la Trinitaria proclamaron una patria propia; y la joven república se dio enseguida sus letras, con voces como la de Salomé Ureña. Vino después la larga sombra de la dictadura de Trujillo, la Era, y contra ella el coraje de las hermanas Mirabal, las Mariposas, que hoy se recuerdan con reverencia. De este suelo brotaron el merengue y la bachata, que conquistaron el mundo, y de sus pueblos azucareros salió la gran cantera del béisbol, la pelota que es pasión nacional. Por debajo de todo late un solo nervio: un pueblo mulato, alegre y duro de matar, que sostiene su memoria, su isla y su ritmo entre el colmado de la esquina, el malecón y la diáspora que lo lleva por todo el mundo sin que deje nunca, ni un chin, de ser de aquí.
 
 ## Company
 
@@ -68,11 +68,11 @@ Una tierra que fue principio de un mundo nuevo. La habitaron los taínos, y sobr
 
 **[Plot 1: la Primada de América](plot_01_la_primada_de_america.md)**
 
-Sobre la tierra de los taínos se levanta en [Santo Domingo](place_santo_domingo.md) la primera ciudad europea de las Américas, la de 1496, y con ella nace [la cuna de América](position_la_cuna_de_america.md): la primera catedral, la primera universidad y la primera audiencia del continente.
+Sobre la tierra de los taínos se levanta en [Santo Domingo](place_santo_domingo.md) la primera ciudad europea de las Américas, la de 1496, y ahí mismo nace [la cuna de América](position_la_cuna_de_america.md): la primera catedral, la primera universidad y la primera audiencia del continente, las primeras de verdad.
 
 **[Plot 2: la Independencia (1844)](plot_02_la_independencia.md)**
 
-En 1844 [Juan Pablo Duarte](persona_duarte.md) y la Trinitaria proclaman en [Santo Domingo](place_santo_domingo.md) una patria propia, y la joven república se da enseguida sus letras de la mano de [Salomé Ureña](persona_salome_urena.md), dueña ya de [la patria y la libertad](position_la_patria_y_la_libertad.md).
+En 1844 [Juan Pablo Duarte](persona_duarte.md) y la Trinitaria proclaman en [Santo Domingo](place_santo_domingo.md) una patria propia, y enseguidita la joven república se da sus letras de la mano de [Salomé Ureña](persona_salome_urena.md), dueña ya de [la patria y la libertad](position_la_patria_y_la_libertad.md).
 
 **[Plot 3: la Era y las Mariposas](plot_03_la_era_y_las_mariposas.md)**
 
@@ -80,8 +80,8 @@ Bajo la larga dictadura de Trujillo, la Era, el coraje de [las hermanas Mirabal]
 
 **[Plot 4: la Patria del Merengue y la Pelota](plot_04_la_patria_del_merengue_y_la_pelota.md)**
 
-En el país moderno [Juan Luis Guerra](persona_juan_luis_guerra.md) lleva el merengue y la bachata al mundo, mientras de los pueblos azucareros sale [el pelotero](persona_el_pelotero.md) rumbo a las Grandes Ligas, y [el ritmo y el juego](position_el_ritmo_y_el_juego.md) se vuelven la cara alegre de la nación y de su diáspora.
+En el país moderno [Juan Luis Guerra](persona_juan_luis_guerra.md) coge el merengue y la bachata y los lleva al mundo entero, mientras de los pueblos azucareros sale [el pelotero](persona_el_pelotero.md) rumbo a las Grandes Ligas, y [el ritmo y el juego](position_el_ritmo_y_el_juego.md) se vuelven la cara alegre de la nación y de su diáspora.
 
 ## Stakes
 
-Si la cuna del Nuevo Mundo es capaz de honrar su memoria sin que la sombra la defina, de compartir su isla con Haití en dignidad y sin reproche, y de convertir su ritmo y su resiliencia en prosperidad compartida en casa y en la diáspora, sosteniendo su alegría sobre las viejas heridas y la desigualdad, o si las preguntas no resueltas de la memoria y de la frontera terminan por pesar más que la música.
+Si la cuna del Nuevo Mundo es capaz de honrar su memoria sin que la sombra la defina, de compartir su isla con Haití en dignidad y sin reproche, y de convertir su ritmo y su aguante en prosperidad compartida en casa y en la diáspora, sosteniendo su alegría por encima de las viejas heridas y la desigualdad, o si las preguntas sin contestar de la memoria y de la frontera terminan pesando más que la música.

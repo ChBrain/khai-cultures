@@ -26,11 +26,11 @@ La convicción de que el Estado debe ser laico y solidario: separado de la Igles
 
 ## Orders
 
-Que ninguno valga más que otro ante el Estado, que la escuela y el hospital sean de todos y que el credo de cada cual quede en su casa y no en la ley. Manda una república laica y pareja, que cuida a su gente con derechos y no con favores, y que mide su grandeza por lo decente y lo igual, no por lo grande ni lo rico.
+Que ninguno valga más que otro ante el Estado, que la escuela y el hospital sean de todos y que el credo de cada cual quede en su casa y no en la ley. Manda una república laica y pareja, que cuida a su gente con derechos y no con favores, y que mide su grandeza por lo decente y lo parejo, no por lo grande ni lo rico.
 
 ## Loses
 
-Terreno cuando la modestia se vuelve resignación y el Estado pareja se deja envejecer sin renovarlo, viviendo del prestigio de lo que fue; y terreno, también, cuando lo solidario se confunde con quietud, y el orgullo de ser igual se conforma con no caer, en vez de seguir levantando a los que quedan atras.
+Terreno cuando la modestia se vuelve resignación y el Estado parejo se deja envejecer sin renovarlo, viviendo del prestigio de lo que fue; y terreno, también, cuando lo solidario se confunde con quietud, y el orgullo de ser igual se conforma con no caer, en vez de seguir levantando a los que quedan atras.
 
 ## Drives
 

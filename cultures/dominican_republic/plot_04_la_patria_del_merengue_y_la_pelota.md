@@ -26,7 +26,7 @@ Pasada la Era, la República Dominicana entra en el mundo moderno con dos artes 
 
 ## Action
 
-Juan Luis Guerra toma el merengue y la bachata y los lleva a las listas del mundo, hechos poesía sin perder el barrio, mientras de los campos de caña de San Pedro de Macorís y de medio país brota una cantera de peloteros que nutre las Grandes Ligas como pocos lugares en la tierra. La diáspora lleva el mangú, la tambora y el habla cantada a todas partes, y el país se afirma, dentro y fuera, como la patria del merengue y de la pelota, alegre y resiliente sobre sus viejas heridas.
+Juan Luis Guerra coge el merengue y la bachata y los mete en las listas del mundo, hechos poesía sin perder el barrio, mientras de los cañaverales de San Pedro de Macorís y de medio país brota una cantera de peloteros que nutre las Grandes Ligas como pocos lugares en la tierra. La diáspora lleva el mangú, la tambora y el habla cantada a todas partes, y el país se afirma, dentro y fuera, como la patria del merengue y de la pelota, alegre y dura de matar por encima de sus viejas heridas.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Juan Luis Guerra toma el merengue y la bachata y los lleva a las listas del mund
 
 ## Tension
 
-El país muestra al mundo su cara más alegre, pero esa alegría se sostiene sobre la desigualdad de la que vienen muchos de sus artistas y peloteros. La tensión está en convertir el ritmo y el juego en prosperidad compartida de verdad, cuidando el talento de los barrios y de la caña en vez de explotarlo, de modo que la patria del merengue y de la pelota lo sea también para los hijos que la hacen sonar.
+El país le muestra al mundo su cara más alegre, pero esa alegría se sostiene sobre la desigualdad de la que vienen muchos de sus artistas y peloteros. La tensión está en volver el ritmo y el juego prosperidad compartida de verdad, cuidando el talento de los barrios y de la caña en vez de explotarlo, de modo que la patria del merengue y de la pelota lo sea también para los hijos que la hacen sonar.
