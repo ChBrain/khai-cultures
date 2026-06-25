@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.134.0",
+  "version": "0.135.0",
   "cultures": [
     {
       "kind": "culture",
@@ -940,6 +940,13 @@
       "title": "Wales",
       "description": "Wales staged as a culture: a small nation that lost its princes and kept its language, its song, and its solidarity.",
       "iso": "GB-WLS"
+    },
+    {
+      "kind": "culture",
+      "id": "yemen",
+      "title": "Yemen",
+      "description": "Yemen staged as a culture: Arabia Felix, home of Sheba, the incense road, and the world's first coffee.",
+      "iso": "YE"
     }
   ],
   "groups": [
