@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.133.0",
+  "version": "0.134.0",
   "cultures": [
     {
       "kind": "culture",
@@ -709,6 +709,13 @@
       "title": "Samoa",
       "description": "Samoa o le fatu o Polenisia, o le faaSamoa ma le aiga e tausi i le lalolagi fou.",
       "iso": "WS"
+    },
+    {
+      "kind": "culture",
+      "id": "saudi_arabia",
+      "title": "Saudi Arabia",
+      "description": "Saudi Arabia staged as a culture: the heartland of Arabia, the cradle of Islam, and the open hand of the desert.",
+      "iso": "SA"
     },
     {
       "kind": "culture",
