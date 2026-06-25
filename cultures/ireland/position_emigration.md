@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The leaving: the coffin ships of the Famine and the generations after who took the boat and the plane to America, Britain, and Australia, until the global Irish far outnumbered the island itself, and every family had its empty chair and its address abroad.
+The leaving: the coffin ships of the Famine and the generations after them that took the boat and the plane to America, to Britain, and to Australia, until the global Irish far outnumbered the island itself, and every family had its empty chair and its address abroad.
 
 ## Orders
 
-That the young go where the work is, that the family scatter across the English-speaking world, and that home be kept alive from a distance, in the letter, the wake held without the body, and the return at Christmas.
+That the young go off where the work is, that the family scatter the length of the English-speaking world, and that home be kept alive away at a distance, in the letter, the wake held and no body in it, and the coming back at Christmas.
 
 ## Loses
 
-The generations gone and the West emptied; a country that exports its own people and measures itself by those who left, and long mistakes leaving for the natural order of things.
+The generations gone and the West emptied out; a country that exports its own people and measures itself by them that left, and long mistakes the leaving for the natural order of things.
 
 ## Drives
 
-It lives in [Mary](persona_mary.md), whose children are scattered abroad, and it drives the Irish longing and the worldwide sense of Irishness, now strangely reversed as a once-emptying island becomes a place people come to.
+It lives in [Mary](persona_mary.md), whose children are scattered abroad on her, and it drives the Irish longing and the worldwide sense of Irishness, turned strangely on its head now as a once-emptying island becomes a place people come to.

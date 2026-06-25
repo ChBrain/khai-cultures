@@ -26,7 +26,7 @@ In the middle of the twentieth century the Second World War reaches the island. 
 
 ## Action
 
-The occupation is endured. The island lives through hard and fearful years under wartime rule, and the population carries them with what dignity and endurance it can until the war ends and the occupation lifts. The detail of those years belongs to memory and to the public record, soberly kept; what the nation takes from them is a lesson, not a grievance. The belief that the small port was safe behind its defences had proven false in a single season, and the people learned, in the hardest way, how exposed a tiny and desirable place can be, how quickly security can vanish, and how completely a nation must look to its own readiness. That lesson outlasts the war and becomes part of the island's understanding of itself.
+The occupation is endured. The island lives through hard and fearful years under wartime rule, and the population carries them with what dignity and endurance it can until the war ends and the occupation lifts. The detail of those years belongs to memory and to the public record, soberly kept; what the nation takes from them is a lesson, not a grievance. The belief that the small port was safe behind its defences had proven false in a single season - so confident, then in the end cannot hold - and the people learned, in the hardest way, how exposed a tiny and desirable place can be, how quickly security can vanish, and how completely a nation must look to its own readiness. That lesson outlasts the war and becomes part of the island's understanding of itself.
 
 ## Stage
 
@@ -35,4 +35,4 @@ The occupation is endured. The island lives through hard and fearful years under
 
 ## Tension
 
-The island emerges with its enduring knowledge: that it is small, exposed, and owed nothing, and that no one else can be relied upon to keep it safe. Held soberly and without rancour, that lesson becomes the root of the later vigilance - the conviction that a tiny nation survives only by staying prepared, useful, and clear-eyed about the world, never taking its own safety for granted.
+The island emerges with its enduring knowledge: that it is small, exposed, and owed nothing, and that no one else can be relied upon to keep it safe. Held soberly and without rancour, that lesson becomes the root of the later vigilance - the conviction that a tiny nation survives only by staying prepared, useful, and clear-eyed about the world, never assume own safety is confirm.

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The conviction that an island with no resource but its position must earn its living by being indispensable to the world. Set on the Strait of Malacca where the sea lanes of half the earth converge, Singapore made of its harbour and its place a vocation: a free port, then one of the busiest container ports and air hubs on the planet, the gateway through which goods, money, and people pass between East and West. The common working tongue of English, the rule of law, the clean and reliable system - all are the port's tools, the means by which a tiny city makes itself the dependable crossroads that the world cannot route around. It is a nation that lives by openness because it cannot live any other way.
+The conviction that an island with no resource but its position must earn its living by being indispensable to the world. Set on the Strait of Malacca where the sea lanes of half the earth converge, Singapore made of its harbour and its place a vocation: a free port, then one of the busiest container ports and air hubs on the planet, the gateway through which goods, money, and people pass between East and West. The common working tongue of English, the rule of law, the clean and reliable system - all are the port's tools, the means by which a tiny city makes itself the dependable crossroads that the world cannot route around. It is a nation that lives by openness because, frankly speaking, no other way to live also.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Ground when openness is taken for granted and the work of staying indispensable 
 
 ## Drives
 
-Lives in [Goh Keng Swee](persona_goh_keng_swee.md), who reasoned a living out of the harbour and the island's wits and built the industries that made it indispensable. It drives Singapore to stay open to the world, to keep its crossroads worth crossing, and to turn its one asset, its place, into the substance of a global city.
+Lives in [Goh Keng Swee](persona_goh_keng_swee.md), who reasoned a living out of the harbour and the island's wits, no resources also can, and built the industries that made it indispensable. It drives Singapore to stay open to the world, to keep its crossroads worth crossing, and to turn its one asset, its place, into the substance of a global city.

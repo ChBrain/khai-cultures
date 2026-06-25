@@ -22,17 +22,17 @@ stamp:
 
 ## Cue
 
-In 1845, under British rule, a blight strikes the potato, the single crop the poorest millions live on. The land is full and the harvest is exported even as the people who grew it begin to starve.
+In 1845, under British rule, a blight strikes the potato, the one single crop the poorest millions are living on. The land is full and the harvest is shipped out even as the people that grew it begin to starve.
 
 ## Action
 
-Over five years a million die and a million more take the coffin ships abroad; the government's laissez-faire response lets the hunger run its course. The Irish-speaking poor of the western seaboard are hit hardest, and with them the language is broken at its root.
+Over the five years a million die and a million more take the coffin ships abroad; the government's laissez-faire response lets the hunger run its course. The Irish-speaking poor away on the western seaboard are hit the hardest of all, and with them the language is broken at its root.
 
 ## Stage
 
-- [an Ghaeltacht](place_an_ghaeltacht.md): the poorest land, where the hunger and the loss of the language fall heaviest.
-- [emigration](position_emigration.md): the boats that begin a diaspora larger than the island itself.
+- [an Ghaeltacht](place_an_ghaeltacht.md): the poorest land of all, where the hunger and the loss of the language fall the heaviest.
+- [emigration](position_emigration.md): the boats that begin a diaspora bigger than the island itself.
 
 ## Tension
 
-The catastrophe halves the population, seeds the worldwide Irish, and shatters the Irish language at the very moment it had most speakers, all under a rule that let it happen. It burns into the nation both a lasting grievance and the long habit of leaving.
+The catastrophe halves the population, seeds the worldwide Irish, and shatters the Irish language at the very moment it had the most speakers it ever had, and all of it under a rule that let it happen. It burns into the nation both a grievance that would not be forgotten and the long habit of the leaving.

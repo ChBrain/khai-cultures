@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Éire, the Republic of Ireland, the larger part of the Atlantic island west of Britain, a member of the European Union. ISO IE. Its first official language by the Constitution is Irish (Gaeilge); the language of nearly all daily life is English.
+Éire, the Republic of Ireland, the greater share of the Atlantic island that sits west of Britain, and a member of the European Union, no less. ISO IE. Sure, the first official language by the Constitution is Irish (Gaeilge); the tongue of nearly all the daily living, though, is English.
 
 ## Arc
 
-A nation that lost its language and half its people to famine and empire, then won its freedom and turned the coloniser's English into a world literature. From the hunger and the boats came a diaspora larger than the island; from the Rising came a state that speaks English and reveres an Irish it barely uses; and from a poor, Church-bound country came, within a lifetime, a rich, secular, global one. Under the craic runs a long sorrow, and through it all a single thread: a people at home in the word, holding their identity in a tongue they honour more than they speak.
+A nation that lost its language and the half of its people to famine and to empire, and then, would you believe it, won its freedom and turned the coloniser's English into a world literature. From the hunger and the boats came a diaspora bigger than the island itself; from the Rising came a state that does its business in English and reveres an Irish it barely uses at all; and from a poor, Church-bound country came, inside the one lifetime, a rich, secular, global one. Under the craic there runs a long sorrow, and through the whole of it the one thread: a people that is at home in the word, holding their very identity in a tongue they honour far more than they speak.
 
 ## Company
 
@@ -68,20 +68,20 @@ A nation that lost its language and half its people to famine and empire, then w
 
 **[Plot 1: An Gorta Mór](plot_01_an_gorta_mor.md)**
 
-The Great Famine halves the population, scatters a diaspora across the world through [emigration](position_emigration.md), and shatters the Irish language among the poor of [an Ghaeltacht](place_an_ghaeltacht.md), burning a lasting grievance into the nation.
+The Great Famine halves the population, scatters a diaspora the world over through [emigration](position_emigration.md), and shatters the Irish language among the poor of [an Ghaeltacht](place_an_ghaeltacht.md), burning a grievance into the nation that would not be let go of.
 
 **[Plot 2: The Easter Rising, 1916](plot_02_easter_rising_1916.md)**
 
-Out of that grievance [Pádraig Pearse](persona_pearse.md) and the rebels proclaim the Republic in [Dublin](place_dublin.md); the executions turn the country toward independence, but the new state is born already speaking English, with [an Ghaeilge](position_an_ghaeilge.md) only an aspiration.
+Out of that same grievance [Pádraig Pearse](persona_pearse.md) and the rebels proclaim the Republic above in [Dublin](place_dublin.md); the executions turn the country toward independence, but sure the new state is born already speaking English, with [an Ghaeilge](position_an_ghaeilge.md) only an aspiration and nothing more.
 
 **[Plot 3: The Literary Revival](plot_03_the_literary_revival.md)**
 
-In that English, [James Joyce](persona_joyce.md) and his generation make a world literature, proving the nation's genius in the very tongue it lost its own to.
+And in that same English, [James Joyce](persona_joyce.md) and his generation go and make a world literature, proving the nation's genius in the very tongue it lost its own to.
 
 **[Plot 4: Modern Ireland](plot_04_modern_ireland.md)**
 
-The Celtic Tiger, Europe, and the tech giants make [Dublin](place_dublin.md) rich while [the Church](position_the_church.md) falls; a poor, devout, emigrant island becomes a wealthy, secular, English-speaking one that others come to.
+The Celtic Tiger, Europe, and the tech giants make [Dublin](place_dublin.md) rich altogether while [the Church](position_the_church.md) falls away; a poor, devout, emigrant island becomes a wealthy, secular, English-speaking one that others now come to.
 
 ## Stakes
 
-Whether a nation can keep its own identity, its language, its faith, and its people, once it speaks the world's English, has emptied its Church, and reveres a first language it does not speak: whether Irishness survives its own success, and whether the tongue it honours will ever again be the tongue it lives in.
+Whether a nation can hold onto its own identity, its language, its faith, and its people at all, once it speaks the world's English, has the Church emptied out from under it, and reveres a first language it does not speak: whether Irishness survives its own success, and whether the tongue it honours will ever again be the tongue it lives in.

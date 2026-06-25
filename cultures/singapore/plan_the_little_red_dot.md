@@ -27,13 +27,13 @@ Stay indispensable - keep the port, the airport, and the institutions so reliabl
 
 ## Orders
 
-- To the leader like [Lee Kuan Yew](persona_lee_kuan_yew.md): govern by what works and what lasts, keep the system clean and the law even, and never let the discipline forget the people it serves.
-- To the citizen like [the hawker](persona_the_hawker.md): keep the common table set and the craft alive, and meet every neighbour at it across race and tongue.
-- To the nation: stay useful to the world, keep faith among the communities, and renew the vigilance of the small in every generation.
+- To the leader like [Lee Kuan Yew](persona_lee_kuan_yew.md): govern by can or cannot, by what lasts, keep the system clean and the law even, and never let the discipline forget the people it serves lah.
+- To the citizen like [the hawker](persona_the_hawker.md): keep the common table set and the craft alive, and meet every neighbour at it across race and tongue, makan together first, talk later.
+- To the nation: stay useful to the world, keep faith among the communities, and renew the vigilance of the small in every generation, never assume safe is forever.
 
 ## Implementation
 
-A nation a single generation from a developing port, now among the wealthiest and most ordered cities on earth, that turned no resources into a global crossroads, housed almost all its people, and kept a peace across communities that many larger places could not. The work is unfinished still: in the cost of living and the pressure of the meritocracy, in keeping the home languages alive alongside the common English, in the ageing of the pioneer generation and the hawker trades, and in the standing question of whether a people born into security can keep the watchfulness that won it.
+A nation a single generation from a developing port, now among the wealthiest and most ordered cities on earth, that turned no resources into a global crossroads, housed almost all its people, and kept a peace across communities that many larger places could not - all this from one little red dot, you know. Steady, but the work is unfinished still: in the cost of living and the pressure of the meritocracy, in keeping the home languages alive alongside the common English, in the ageing of the pioneer generation and the hawker trades, and in the standing question of whether a people born into security can keep the watchfulness that won it.
 
 ## Targets
 

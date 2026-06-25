@@ -26,7 +26,7 @@ Beneath the dominion lies the wrong it was built upon. For more than a century, 
 
 ## Action
 
-The reckoning comes late. Survivors and their communities bring the truth onto the public record, and from 2008 to 2015 the Truth and Reconciliation Commission hears them, documents the residential schools and their lasting harm, and issues its Calls to Action. The country offers its formal apology and begins the long, unfinished work of reconciliation: the revival of the Indigenous languages the schools set out to kill, and the slow attempt to make right what was done to the first peoples of the land.
+The reckoning comes late. Survivors and their communities bring the truth onto the public record, and from 2008 to 2015 the Truth and Reconciliation Commission hears them, documents the residential schools and their lasting harm, and issues its Calls to Action. The country says its formal sorry, the apology the politeness long withheld, and begins the long, unfinished work of reconciliation: the revival of the Indigenous languages the schools set out to kill, and the slow attempt to make right what was done to the first peoples of the land.
 
 ## Stage
 

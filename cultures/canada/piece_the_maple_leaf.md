@@ -26,7 +26,7 @@ On the flag above every school and post office, on the jersey at the rink, and i
 
 ## Load Bearing
 
-It stands for a country that finally gave itself a symbol of its own. For its first century Canada flew flags borrowed from the empire; in 1965, under Lester Pearson and after a bitter debate, it raised the maple leaf, a sign belonging to no other country and to neither founding people more than the other. In that plain red leaf a federation of two peoples and many origins found one emblem all could own, and in the syrup the same tree gives the land its sweetness. Without this leaf the country would still be flying someone else's flag.
+It stands for a country that finally gave itself a symbol of its own. For its first century Canada flew flags borrowed from the empire; in 1965, under Lester Pearson and after a bitter debate, it raised the maple leaf, a sign belonging to no other country and to neither founding people more than the other. In that plain red leaf a federation of two solitudes and many origins found one emblem all could own, worn with quiet honour on the jersey and the backpack abroad, and in the syrup the same tree gives the land its sweetness. Without this leaf the country would still be flying someone else's flag.
 
 ## Apparent
 

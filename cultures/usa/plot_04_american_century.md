@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-In the twentieth century the United States steps onto the world stage. Drawn into two World Wars, it tips both, and emerges from the second as the strongest and richest power on earth, locked in a long Cold War with the Soviet Union over which way the world will turn.
+In the twentieth century the United States steps onto the world stage. Drawn into two World Wars, it tips the balance in both, and comes out of the second as the strongest and richest power on earth, locked in a long Cold War with the Soviet Union over which way the whole world will turn.
 
 ## Action
 
-The American Century unfolds on two fronts at once. Abroad, the nation leads: it wins the Cold War, lands men on the moon, and pours its movies, music, money, and creed across the earth until the world watches in its idiom and learns its tongue. At home, the unpaid debt of the creed comes due. [Martin Luther King Jr.](persona_mlk.md) leads the civil rights movement, marches on Washington, and holds the nation to the words it wrote in 1776, demanding that the promise be made true for those it had always excluded. The country leads the free world abroad while its own citizens march to make it free at home, the city on a hill judged at last by whether it keeps its own house.
+The American Century unfolds on two fronts at once. Abroad, the nation leads: it wins the Cold War, lands men on the moon, and pours its movies, music, money, and creed across the earth until the whole world watches in its idiom and learns its tongue. At home, the unpaid debt of the creed comes due. [Martin Luther King Jr.](persona_mlk.md) leads the civil rights movement, marches on Washington, and holds the nation to the words it wrote down in 1776, demanding the promise be made good for those it had always shut out. The country leads the free world abroad while its own citizens march to make it free at home, the city on a hill judged at last by whether it keeps its own house in order.
 
 ## Stage
 
@@ -37,4 +37,4 @@ The American Century unfolds on two fronts at once. Abroad, the nation leads: it
 
 ## Tension
 
-The nation reaches the height of its promise - the strongest power on earth, the world arriving at its shores, the creed advancing at home through the courage of those who claimed it. Yet the reach abroad and the gap at home are judged together: a country that preaches liberty to the world is measured by whether it keeps it for its own, and the watching world sees both the dream proclaimed and the debt still unpaid.
+The nation reaches the high-water mark of its promise - the strongest power on earth, the world arriving at its shores, the creed advancing at home through the grit of those who claimed it. Yet the reach abroad and the gap at home are judged together: a country that preaches liberty to the world is measured by whether it makes good on it for its own, and the watching world sees both the dream proclaimed and the bill still unpaid.

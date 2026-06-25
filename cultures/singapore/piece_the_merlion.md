@@ -26,7 +26,7 @@ At the mouth of the Singapore River where it meets Marina Bay, spouting a steady
 
 ## Load Bearing
 
-It stands for the city's own story of itself - the lion and the sea joined in one body. The lion recalls the old name of the place, the Lion City, and the legend of its founding; the fish recalls the fishing village and the sea-trade the harbour was built on. Invented in the modern era as the nation's mascot, it carries the country's identity as a small island that turned its position on the water into a global city, the creature that is part land and part sea because the nation is a city that lives entirely by its port. As a deliberate, made symbol of a deliberate, made nation, it fits a country that decided what it would be. Without this emblem the lion city would have no single figure to point to at the water's edge.
+It stands for the city's own story of itself - the lion and the sea joined in one body. The lion recalls the old name of the place, the Lion City, and the legend of its founding; the fish recalls the fishing village and the sea-trade the harbour was built on. Invented in the modern era as the nation's mascot, it carries the country's identity as a small island that turned its position on the water into a global city, the creature that is part land and part sea because the nation is a city that lives entirely by its port. As a deliberate, made symbol of a deliberate, made nation, it fits a country that decided what it would be - half lion half fish, where got such animal, but Singapore also like that, made up on purpose and somehow it works. Without this emblem the lion city would have no single figure to point to at the water's edge.
 
 ## Apparent
 

@@ -23,7 +23,7 @@ Canada, the second-largest country on earth by area, stretched across the top of
 
 ## Arc
 
-A country built by joining rather than breaking: the British North American colonies federated in 1867 into a dominion of "peace, order, and good government," knit together by a transcontinental railway across a land the first peoples had lived on for millennia. From the start it carried two founding European peoples, English and French, two solitudes who share a country yet mostly cannot speak each other's tongue. It chose to be a mosaic and not a melting pot, letting those who came keep what they brought, and it found a vocation in the world as a middle power, the inventor of peacekeeping, the quieter and more communitarian neighbour defined against the United States. Under all of it runs a wound that the rest was built upon: the residential schools and the Indian Act that set out to erase the languages and cultures of First Nations, Metis, and Inuit children, and the long, unfinished reckoning that followed. The arc is a vast, cold, polite federation forever holding itself together across two languages and many origins, and learning at last to face the harm at its own foundation.
+A country built by joining rather than breaking: the British North American colonies federated in 1867 into a dominion of "peace, order, and good government," knit together by a transcontinental railway across a land the first peoples had lived on for millennia. From the start it carried two founding European peoples, English and French, the two solitudes who share a country yet mostly cannot speak each other's tongue. It chose to be a mosaic and not a melting pot, letting those who came keep the colour and the labour and the faith they brought, and it found a vocation in the world as a middle power, the inventor of peacekeeping, the quieter and more communitarian neighbour defined against the United States. Under all of it runs a wound that the rest was built upon: the residential schools and the Indian Act that set out to erase the languages and cultures of First Nations, Metis, and Inuit children, and the long, unfinished reckoning that followed. The arc is a vast, cold, polite federation forever holding itself together across two languages and many origins, from the rink and the Timmies lineup to the cottage on the lake and the immensity of the North, and learning at last, with a quiet sorry it long withheld, to face the harm at its own foundation.
 
 ## Company
 
@@ -76,7 +76,7 @@ The country carries [two peoples](position_les_deux_peuples.md) who mostly canno
 
 **[Plot 3: the middle power](plot_03_the_middle_power.md)**
 
-[Lester Pearson](persona_pearson.md) invents United Nations peacekeeping and wins the Nobel Peace Prize, gives Canada the maple-leaf flag and medicare and the groundwork of official multiculturalism: the not-American [mosaic](position_the_mosaic.md) finds its place in the world.
+[Lester Pearson](persona_pearson.md) invents United Nations peacekeeping and wins the Nobel Peace Prize, gives Canada the maple-leaf flag and medicare and the groundwork of official multiculturalism: the not-American [mosaic](position_the_mosaic.md) finds its place in the world as the gentler neighbour, defence of the common good held in honour above the grand gesture.
 
 **[Plot 4: reconciliation](plot_04_reconciliation.md)**
 

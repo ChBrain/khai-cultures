@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-"Peace, order, and good government," the phrase from the British North America Act that became the country's quiet creed and the mirror to the American "life, liberty, and the pursuit of happiness." Where the neighbour was founded on revolution and the individual, Canada was founded on evolution and the common order: a communitarian, not-American temper that builds the shared things together. It is the country of medicare and the public broadcaster, of the middle power and the blue beret, of politeness and the reflexive apology. It knows itself less by what it conquered than by what it joined, and most clearly by being the calmer, gentler version of the elephant next door.
+"Peace, order, and good government," the phrase from the British North America Act that became the country's quiet creed and the mirror to the American "life, liberty, and the pursuit of happiness." Where the neighbour was founded on revolution and the individual, Canada was founded on evolution and the common order: a communitarian, not-American temper that builds the shared things together. It is the country of medicare and the public broadcaster, of the middle power and the blue beret, of politeness and the reflexive sorry. It holds the common order in honour above the loud assertion of the self, knows itself less by what it conquered than by what it joined, and most clearly by being the calmer, gentler version of the elephant next door.
 
 ## Orders
 
@@ -30,7 +30,7 @@ That the common good come before the loud assertion of the self, that the countr
 
 ## Loses
 
-Ground is lost when the not-American temper becomes only a negative, a self with no story but the one it is not, and when modesty curdles into a quiet smugness about being nicer than the neighbour. It loses, too, when the politeness becomes a way of not naming the hard things, the unfinished unity and the founding wrong that decency long preferred to keep unspoken.
+Ground is lost when the not-American temper becomes only a negative, a self with no story but the one it is not, and when modesty curdles into a quiet smugness about being nicer than the neighbour. It loses, too, when the politeness becomes a way of not naming the hard things, the unfinished unity and the founding wrong that decency long preferred to keep unspoken and was slow to say sorry for.
 
 ## Drives
 

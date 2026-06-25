@@ -22,7 +22,7 @@ Parent group: processes
 
 ## Initiated by
 
-Anyone who pulls into the drive-through on the way to work, the worksite, or the kids' early-morning practice, and orders a double-double, two creams and two sugars, and a box of Timbits for the table. Named for a hockey player, it needs only a car, a few dollars, and the cold, and it runs in every town in the country.
+Anyone who pulls into the drive-through on the way to work, the worksite, or the kids' early-morning practice at the rink, and orders a double-double at Timmies, two creams and two sugars, and a box of Timbits for the table. Named for a hockey player, it needs only a car, a few dollars or a wave of the debit card, and the cold, and it runs in every town in the country.
 
 ## Direction
 
@@ -30,7 +30,7 @@ Toward the everyman ritual of ordinary Canada: the daily coffee run is the count
 
 ## Lever
 
-It is driven by the cold mornings, the long commutes, and a national taste for the unpretentious and the familiar, and held by the franchise on every corner. Against it run the fancier coffee chains and the cult of the artisanal, but the run endures because it asks nothing of anyone and belongs to everyone.
+It is driven by the cold mornings, the toque-and-mitts winter, the long commutes, and a national taste for the unpretentious and the familiar, and held by the franchise on every corner. Against it run the fancier coffee chains and the cult of the artisanal, but the run endures because it asks nothing of anyone and belongs to everyone.
 
 ## Echo
 

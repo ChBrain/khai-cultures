@@ -35,4 +35,4 @@ His double rooting can thin into a drift between solitudes that never touch: the
 
 ## Tell
 
-He switches from English to Cantonese and back in a single sentence at the dinner table, keeps the festivals beside the long weekend, and answers the question of where he is from with the name of two places at once.
+He switches from English to Cantonese and back in a single sentence at the dinner table, keeps the festivals beside the long weekend and the hockey on the television, and answers the question of where he is from, sorry, with the name of two places at once.

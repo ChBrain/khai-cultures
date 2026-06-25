@@ -26,7 +26,7 @@ In the 1860s the scattered British colonies of North America face a deadlocked l
 
 ## Action
 
-On 1 July 1867 the British North America Act federates the colonies into the Dominion of Canada under the creed of "peace, order, and good government," with Macdonald as its first prime minister. A transcontinental railway is driven across the continent to bind the new country from sea to sea, and the West is opened to settlement. The dominion is built by joining rather than conquering, but the binding comes at a hard cost: the railway and the settlement push across lands the first peoples had lived on for millennia, and the new state begins to make wards of them.
+On 1 July 1867 the British North America Act federates the colonies into the Dominion of Canada under the creed of "peace, order, and good government," with Macdonald as its first prime minister. A transcontinental railway is driven thousands of kilometres across the continent to bind the new country from sea to sea, and the West is opened to settlement. The dominion is built by joining rather than conquering, but the binding comes at a hard cost: the railway and the settlement push across lands the first peoples had lived on for millennia, and the new state begins to make wards of them.
 
 ## Stage
 

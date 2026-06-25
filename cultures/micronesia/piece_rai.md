@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-At the village edge, leaning against a path or set before a meeting house, on the island of Yap: great discs of crystalline limestone, some the height of a man, each pierced through the centre so it might once have been carried on a pole. Quarried not on Yap but on far Palau, hundreds of miles across open water, and brought home by canoe at the risk of the voyagers' lives, the rai stand where they were last set and may not move for generations even as their ownership changes hands.
+At the village edge, leaning along a path or set down before a meeting house, on the island of Yap: great discs of crystalline limestone, some of them the height of a man, each one holed through the centre so it might once have been carried on a pole. Quarried not on Yap at all but on far Palau, hundreds of miles across open water, and carried home by canoe at the risk of the voyagers' lives, the rai stand right where they were last set and may not move for generations even while the ownership of them changes hands.
 
 ## Load Bearing
 
-It stands for a value that lives in memory rather than in the object. The worth of a rai rests not in the stone - which often never moves - but in the remembered history carried with it: who quarried it, who died bringing it home, what it was given for, whose it is now, an account kept entirely in the spoken record of the community. A disc may change owners without ever changing place, the transfer held only in what everyone agrees is true, so that the money is in truth the shared memory and the stone only its token. Without this remembered telling the rai is mute rock; with it, it is a fortune. It carries the islands' deep truth that the greatest values are the ones held in common and in story.
+It stands for a value that lives in memory and not in the object at all. The worth of a rai rests not in the stone - which often enough never moves - but in the remembered history carried along with it: who quarried it, who died bringing it home, what it was given for, whose it is now, an account kept whole in the spoken record of the people. A disc may change owners without ever once changing place, the handing-over held only in what everybody agrees is true, so the money is really the shared memory and the stone only the token of it. Without that remembered telling the rai is mute rock; with it, the rai is a fortune. It carries the islands' deep truth that the greatest worth of all is the worth held in common and in story.
 
 ## Apparent
 
-A great wheel of pale stone, rough or smoothed, holed at the centre, weathered and lichened where it stands. To the stranger it is only a remarkable rock, impossibly heavy and plainly old; its weight as money is entirely invisible, resting in a history the stone itself shows nothing of and the eye cannot read.
+A great wheel of pale stone, rough or smoothed down, holed at the centre, weathered and grown over with lichen right where it stands. To the stranger it is only a remarkable rock, impossibly heavy and plainly old; its weight as money does not show at all, for it rests in a history the stone itself gives no sign of and the eye cannot read.
 
 ## Yearbook
 
-- Quarried on distant Palau and carried home to Yap by canoe across open ocean, the danger of the voyage adding to a stone's worth.
-- Set at the village edge and left in place, its ownership changing through agreed memory while the disc itself stays put.
-- Kept as a living token of value into the present, the worth of each disc still resting in the remembered history of who owns it and why.
+- Quarried on distant Palau and carried home to Yap by canoe across the open ocean, the danger of the voyage adding to a stone's worth.
+- Set at the village edge and left right there, its ownership changing through agreed memory while the disc itself never budges.
+- Kept as a living token of value down to the present day, the worth of each disc still resting in the remembered history of who owns it and why.
