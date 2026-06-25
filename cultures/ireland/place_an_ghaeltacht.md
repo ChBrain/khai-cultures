@@ -22,16 +22,16 @@ Parent group: places
 
 ## Shown
 
-The Irish-speaking districts of the western seaboard, Conamara, Donegal, Kerry: stone walls and small fields against the Atlantic, the bog and the boat, the parish where Irish is still the language of the kitchen and the shop. The poorest land, and the last daily home of the tongue.
+The Irish-speaking districts away on the western seaboard, Conamara, Donegal, Kerry: stone walls and small fields set against the Atlantic, the bog and the boat, the parish where Irish is still the language of the kitchen and of going for the messages. The poorest land of the lot, and the last daily home of the tongue.
 
 ## Holds
 
-- [The Great Famine](plot_01_an_gorta_mor.md): here, on the poorest land and among the Irish-speaking poor, the hunger and the emigration fall hardest, and the language is broken at its root.
+- [The Great Famine](plot_01_an_gorta_mor.md): here, on the poorest land of all and among the Irish-speaking poor, the hunger and the emigration fall the hardest, and the language is broken at its very root.
 
 ## Offers
 
-The one place where Irish is still simply spoken rather than learned, and a living link to the older, Gaelic Ireland that the rest of the country honours from a distance.
+The one place where Irish is still just spoken plain rather than learned, and a living link to the older, Gaelic Ireland that the rest of the country honours away at a distance.
 
 ## Withheld
 
-A future it can take for granted. The Gaeltacht offers the living language but cannot promise to keep it: as the young leave for work and English floods in by every screen, it withholds the certainty that it will still be Irish-speaking in another generation.
+A future it could take for granted. The Gaeltacht offers the living language but it cannot promise to hold onto it: as the young go off for the work and the English floods in by every screen going, it withholds the certainty that it will be Irish-speaking at all in another generation.

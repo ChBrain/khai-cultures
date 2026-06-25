@@ -22,15 +22,15 @@ Parent group: pieces
 
 ## Place
 
-On the porch and the schoolhouse, on the courthouse and the soldier's coffin, on the shoulder patch and the moon: thirteen red and white stripes for the founding colonies and fifty white stars on a field of blue for the states, the near-sacred civic emblem of the United States, saluted, pledged to, and folded with ceremony.
+On the front porch and the schoolhouse, on the courthouse and the soldier's coffin, on the shoulder patch and the moon: thirteen red and white stripes for the founding colonies and fifty white stars on a field of blue for the states, the near-sacred civic emblem of the United States, saluted, pledged to, and folded with ceremony.
 
 ## Load Bearing
 
-It stands for the nation itself, the one thing a people held by an idea rather than by blood can all point to. In a country with no shared ancestry, the flag is the shared body: schoolchildren pledge allegiance to it each morning, citizens fly it from the porch, and it draped the dead of every war and stood planted on the moon as the whole earth watched. It carries both the love of the country and the argument over it, honored and burned in the same square as the very freedoms it represents. Without this banner the nation born of a creed would have no face to gather around.
+It stands for the nation itself, the one thing a people held by an idea rather than by blood can all point to. In a country with no shared ancestry, the flag is the shared body: schoolkids pledge allegiance to it each morning, citizens fly it from the porch, and it draped the dead of every war and stood planted on the moon as the whole earth watched. It carries both the love of the country and the fight over it, honored and burned in the same square as the very freedoms it stands for. Without this banner the nation born of a creed would have no face to rally around.
 
 ## Apparent
 
-A rectangle of dyed cloth, red, white, and blue, stars and stripes sewn or printed, run up a pole or pinned to a lapel. In itself it is only fabric; its weight is entirely in what the nation has poured into it, and in the hands that raise it, salute it, or fold it into a tight tricolor triangle.
+A rectangle of dyed cloth, red, white, and blue, stars and stripes sewn or printed, run up a pole or pinned to a lapel. In itself it is just fabric; its whole weight is in what the nation has poured into it, and in the hands that raise it, salute it, or fold it into a tight tricolor triangle.
 
 ## Yearbook
 

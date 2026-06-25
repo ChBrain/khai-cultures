@@ -35,4 +35,4 @@ The carefully chosen word can become the word that smooths over what still needs
 
 ## Tell
 
-He wrote in one tongue a vow for a people of four, weighing every word so that no community would hear itself left out - the harmony of the island resting on the precision of a single sentence.
+He wrote in one tongue a vow for a people of four, weighing every word so that no community would hear itself left out, where got anyone said one race owns this place - the harmony of the island resting on the precision of a single sentence.

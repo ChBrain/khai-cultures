@@ -26,7 +26,7 @@ In the years after the Second World War, a middle-sized country beside a superpo
 
 ## Action
 
-Pearson's idea becomes UN peacekeeping, and he wins the 1956 Nobel Peace Prize for it; the blue beret becomes a Canadian vocation. As prime minister he gives the country its own maple-leaf flag in 1965, brings in medicare, and lays the groundwork for the official multiculturalism declared in 1971. Piece by piece a not-American Canada takes shape: the middle power, the peacekeeper, the welcoming mosaic, the quieter and more communitarian North that knows itself by its difference from the elephant next door.
+Pearson's idea becomes UN peacekeeping, and he wins the 1956 Nobel Peace Prize for it; the blue beret becomes a Canadian vocation. As prime minister he gives the country its own maple-leaf flag in 1965, brings in medicare, and lays the groundwork for the official multiculturalism declared in 1971. Piece by piece a not-American Canada takes shape: the middle power, the peacekeeper, the welcoming mosaic, the quieter and more communitarian North that holds the common defence of peace in honour and knows itself by its difference from the elephant next door.
 
 ## Stage
 

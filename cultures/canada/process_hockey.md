@@ -22,7 +22,7 @@ Parent group: processes
 
 ## Initiated by
 
-A frozen pond, a backyard rink, or an arena on a winter night, and anyone who laces up skates and drops a puck. A pair of nets, a stick, and a sheet of ice are enough, and from the smallest town rink to Hockey Night in Canada on the television, the country gathers around the game it made its own.
+A frozen pond, a backyard rink, or an arena on a winter night, and anyone who laces up skates, pulls down the toque, and drops a puck. A pair of nets, a stick, and a sheet of ice are enough, and from the smallest town rink, where the parents holler give 'er from the boards, to Hockey Night in Canada on the television, the country gathers around the game it made its own.
 
 ## Direction
 
@@ -30,7 +30,7 @@ Toward a shared passion that crosses every line in the country: hockey is the on
 
 ## Lever
 
-It is driven by the long northern winter that made ice the country's natural element and by the pride of a nation that gave the world its game. It is held by the rinks, the leagues, and Hockey Night; against it run the cost of the game and the pull of warmer, newer pastimes, but nothing has displaced it as the common passion.
+It is driven by the long northern winter that made ice the country's natural element and by the pride of a nation that gave the world its game. It is held by the rinks, the leagues, and Hockey Night; against it run the cost of the game and the pull of warmer, newer pastimes, but nothing has displaced it as the common passion. Sorry, the country says when it checks you into the boards, and means that too.
 
 ## Echo
 

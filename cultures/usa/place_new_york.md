@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-The great harbor city where the world came ashore: the Statue of Liberty lifting her lamp beside the golden door, Ellis Island where the huddled masses were counted in and remade into Americans, the skyline reaching up like the country's own ambition, and Wall Street where its money is made and lost. The melting pot and the marketplace, the loudest, fastest, most crowded American place, every tongue on earth in its streets.
+The great harbor city where the world came ashore: the Statue of Liberty lifting her lamp beside the golden door, Ellis Island where the huddled masses were counted in and remade into Americans, the skyline shooting up like the country's own ambition, and Wall Street where its money is made and lost. The melting pot and the marketplace, the loudest, fastest, most crowded American place, where you can make it big or go broke and every tongue on earth talks in the streets.
 
 ## Holds
 
@@ -30,8 +30,8 @@ The great harbor city where the world came ashore: the Statue of Liberty lifting
 
 ## Offers
 
-A place where the promise meets the newcomer face to face - the first sight of the new country, the door through which generations passed to be remade, and the proof of e pluribus unum in a single city; the engine room of American capitalism and the stage of its reinvention.
+A place where the promise meets the newcomer face to face - the first sight of the new country, the door through which generations passed to be remade, and the living proof of e pluribus unum in a single city; the engine room of American capitalism and the stage where it reinvents itself.
 
 ## Withheld
 
-The ease of the promise it advertises. New York carries the cost beneath the welcome - the tenements and sweat behind the rising skyline, the home languages swallowed within a generation of arrival, and the hard truth that the golden door opened onto labor and loss as well as freedom and fortune.
+The ease of the promise it advertises. New York carries the cost beneath the welcome - the tenements and sweat behind the rising skyline, the home languages swallowed inside a generation of arrival, and the hard truth that there is no free lunch even here: the golden door opened onto labor and loss as much as onto freedom and fortune.

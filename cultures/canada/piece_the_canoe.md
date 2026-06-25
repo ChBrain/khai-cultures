@@ -26,7 +26,7 @@ On the lakes and rivers of the northern wilderness, drawn up on the shore of a p
 
 ## Load Bearing
 
-It stands for the country's making and for a debt at its root. The canoe was the gift of the first peoples, who built it from birchbark, cedar, and spruce root to travel a land laced with water; it was their craft long before it was anyone's, and it opened the whole continent. The voyageurs paddled it along the fur-trade routes that became the map of the country, and it remains the vessel of the northern wilderness and the summer lake. To name it is to name, quietly, that the country was opened on a craft the first peoples invented and freely shared. Without the canoe the land could not have been crossed at all.
+It stands for the country's making and for a debt at its root. The canoe was the gift of the first peoples, who built it from birchbark, cedar, and spruce root to travel a land laced with water; it was their craft long before it was anyone's, and it opened the whole continent. The voyageurs paddled it along the fur-trade routes that became the map of the country, and it remains the vessel of the vast northern wilderness and the summer lake, the craft drawn up at the dock of every cottage and cabin. To name it is to name, quietly, that the country was opened on a craft the first peoples invented and freely shared. Without the canoe the land could not have been crossed at all.
 
 ## Apparent
 
