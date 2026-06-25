@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.146.0",
+  "version": "0.147.0",
   "cultures": [
     {
       "kind": "culture",
@@ -849,6 +849,13 @@
       "title": "Sri Lanka",
       "description": "The resplendent island staged as a culture: tank and dagoba, faith and many peoples, one island home.",
       "iso": "LK"
+    },
+    {
+      "kind": "culture",
+      "id": "sudan",
+      "title": "Sudan",
+      "description": "Sudan staged as a culture: land of Kush and the two Niles, of Sufism and a hospitality that knows no stranger.",
+      "iso": "SD"
     },
     {
       "kind": "culture",
