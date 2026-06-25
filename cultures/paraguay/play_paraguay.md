@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-El Paraguay, país mediterráneo y fluvial del corazón de América del Sur, sin salida al mar, entre la Argentina, el Brasil y Bolivia, partido por el río Paraguay en la región Oriental y el Chaco. ISO PY, lengua es, con el guaraní cooficial y hablado por la mayoría. La única nación de América donde la lengua indígena la habla casi todo el mundo, una tierra mestiza que piensa y siente en dos lenguas a la vez.
+El Paraguay, che retã, país mediterráneo y fluvial del corazón de América del Sur, sin salida al mar, entre la Argentina, el Brasil y Bolivia, partido por el río Paraguay en la región Oriental y el Chaco. ISO PY, lengua es, con el guaraní cooficial y hablado por casi todo el mundo. La única nación de América donde la lengua indígena la hablás vos lo mismo que tu vecino, una tierra mestiza que piensa y siente en dos lenguas a la vez, nio luego.
 
 ## Arc
 
-Una tierra que fue del pueblo guaraní, donde la Compañía de Jesús levantó las reducciones, las misiones jesuítico-guaraníes, una civilización cristiana y guaraní sin par en el mundo, que dio al país su raíz más honda. De aquel encuentro nació una nación profundamente mestiza y bilingüe: el español y el guaraní mezclados en el jopara del habla diaria, lo único de América donde la lengua de los pueblos originarios la habla la mayoría. Declaró su independencia en 1811 y se cerró sobre sí misma en el largo aislamiento del Doctor Francia, "El Supremo," que forjó la patria a puerta cerrada. Después vino la herida: la Guerra de la Triple Alianza (1864-1870), la Guerra Grande, que estuvo a punto de borrar a su gente y de la que el país volvió a levantarse sobre todo por las mujeres, las residentas, que rehicieron la nación con sus manos. Vino más tarde la Guerra del Chaco. Bajo todo ello late un solo nervio: un pueblo cálido, cortés y callado, de tereré compartido, de arpa y de ñandutí, que sobrevivió a lo que casi lo extingue sin perder la lengua del corazón.
+Una tierra que fue del pueblo guaraní, donde la Compañía de Jesús levantó las reducciones, las misiones jesuítico-guaraníes, una civilización cristiana y guaraní sin par en el mundo, que dio al país su raíz más honda. De aquel encuentro nació una nación profundamente mestiza y bilingüe: el español y el guaraní mezclados en el jopara de cada día, lo único de América donde la lengua de los pueblos originarios la habla la mayoría. Declaró su independencia en 1811 y se cerró sobre sí misma en el largo aislamiento del Doctor Francia, "El Supremo," que forjó la patria a puerta cerrada. Después vino la herida: la Guerra de la Triple Alianza (1864-1870), la Guerra Grande, que estuvo a punto de borrar a su gente, mboriahu y todo, y de la que el país volvió a levantarse sobre todo por las mujeres, las residentas anga, que rehicieron la nación con sus manos. Vino más tarde la Guerra del Chaco. Bajo todo ello late un solo nervio: un pueblo cálido, cortés y callado, de tereré compartido bajo el árbol, de chipa, de arpa y de ñandutí, que sobrevivió a lo que casi lo extingue sin soltar la lengua del corazón.
 
 ## Company
 
@@ -80,8 +80,8 @@ Entre 1864 y 1870 la Guerra de la Triple Alianza cae sobre el país; el Mariscal
 
 **[Plot 4: el Paraguay que Renació](plot_04_el_paraguay_que_renacio.md)**
 
-De las cenizas de la guerra, [la residenta](persona_la_residenta.md) rehace la nación con sus manos, y más tarde [Augusto Roa Bastos](persona_roa_bastos.md) da voz a [la lengua guaraní](position_la_lengua_guarani.md) y al país bilingüe que sobrevivió.
+De las cenizas de la guerra, [la residenta](persona_la_residenta.md) anga rehace la nación con sus propias manos, y más tarde [Augusto Roa Bastos](persona_roa_bastos.md) le da voz a [la lengua guaraní](position_la_lengua_guarani.md) y al país bilingüe que sobrevivió, che ra'a.
 
 ## Stakes
 
-Si una nación bilingüe forjada en el aislamiento y casi borrada por la guerra puede guardar su alma guaraní y honrar a las mujeres que la rehicieron, sostener su tereré, su arpa y su jopara sin que el mundo abierto le coma la lengua del corazón, y convertir su resistencia probada en una prosperidad compartida, sanando la vieja herida sin volver a abrirla.
+Si una nación bilingüe forjada en el aislamiento y casi borrada por la guerra puede guardar su alma guaraní y honrar a las mujeres anga que la rehicieron, sostener su tereré, su arpa y su jopara sin que el mundo abierto le coma la lengua del corazón, y convertir su resistencia probada en una prosperidad compartida para el mboriahu y no para unos pocos luego, sanando la vieja herida sin volver a abrirla, che ra'a.

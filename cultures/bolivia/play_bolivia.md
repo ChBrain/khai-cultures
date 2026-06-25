@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Bolivia, el país sin mar en el corazón de Sudamérica, repartido entre el Altiplano de los Andes, los valles y la llanura amazónica. ISO BO, lengua es, con el aymara, el quechua y decenas de lenguas originarias entre su reparto. La nación más indígena de América, hecha de muchos pueblos en un solo Estado plurinacional.
+Bolivia pues, el país sin mar en el mero corazón de Sudamérica, repartido entre el altiplano de los Andes, los valles y la llanura amazónica. ISO BO, lengua es, con el aymara, el quechua y harta lengua originaria más entre su reparto. La nación más indígena de América, hecha de hartos pueblos en un solo Estado plurinacional, una y plural ahí en lo alto.
 
 ## Arc
 
-Una tierra antigua y de altura, cuna del mundo andino: primero Tiwanaku junto al lago Titicaca, luego los reinos aymaras y el Tahuantinsuyu de los incas. Llegó la conquista española y con ella el Cerro Rico de Potosí, la montaña de plata que durante siglos acuñó la moneda del imperio a un coste humano inmenso, sostenida por la mita, el trabajo forzado de los indios. De aquella herida surgieron las grandes rebeliones, la de Túpac Katari y Bartolina Sisa que cercaron La Paz en 1781. La independencia llegó en 1825 y el país tomó el nombre de Bolívar; medio siglo después, la Guerra del Pacífico le arrebató la costa y lo dejó sin mar, con un reclamo marítimo que no ha cesado. Vino luego la era del estaño, la revolución de 1952 que dio el voto y la tierra al campesino, y al fin el ascenso de una política liderada por los propios pueblos originarios y la refundación como Estado plurinacional. Bajo todo ello late un solo nervio: una nación reservada y comunal, devota de la Pachamama y de los santos a la vez, paciente en la altura, que carga la memoria de Potosí y del mar perdido y busca dignificar a sus muchos pueblos sin romperse.
+Una tierra antigua y de altura, cuna del mundo andino: primerito Tiwanaku ahí junto al lago Titicaca, luego los señoríos aymaras y el Tahuantinsuyu de los incas. Llegó la conquista española y con ella el Cerro Rico de Potosí, el cerro de plata que durante siglos acuñó la moneda del imperio a un coste humano inmenso, aguantado sobre la mita, el trabajo forzado de los indios. De aquella herida brotaron las grandes rebeliones, la de Túpac Katari y Bartolina Sisa que cercaron La Paz allá por 1781. La independencia llegó el 25 y el país tomó el nombre de Bolívar; medio siglo después, la Guerra del Pacífico le arrancó la costa y lo dejó sin mar, con un reclamo marítimo que hasta hoy no afloja. Vino luego la era del estaño, la revolución del 52 que le dio el voto y la tierra al campesino, y al fin el ascenso de una política conducida por los propios pueblos originarios y la refundación como Estado plurinacional. Bajo todo ello late un solo nervio: una nación reservada y comunal, devota de la Pachamama y de los santos a la vez, paciente en la altura, que carga la memoria de Potosí y del mar perdido y busca dignificar a sus hartos pueblos sin quebrarse.
 
 ## Company
 
@@ -68,20 +68,20 @@ Una tierra antigua y de altura, cuna del mundo andino: primero Tiwanaku junto al
 
 **[Plot 1: Tiwanaku y el mundo andino](plot_01_tiwanaku_y_el_mundo_andino.md)**
 
-Antes de la conquista florece el mundo andino: Tiwanaku junto al Titicaca, los señoríos aymaras y el Tahuantinsuyu inca dan forma a [lo indígena](position_lo_indigena.md) que late en el Altiplano y en la altura donde un día se alzará [La Paz](place_la_paz.md).
+Antes de la conquista florece el mundo andino: Tiwanaku ahí junto al Titicaca, los señoríos aymaras y el Tahuantinsuyu inca le dan forma a [lo indígena](position_lo_indigena.md) que late en el altiplano y en la altura donde un día se ha de alzar [La Paz](place_la_paz.md).
 
 **[Plot 2: el Cerro Rico](plot_02_el_cerro_rico.md)**
 
-La conquista alcanza los Andes y de la montaña de [Potosi](place_potosi.md) brota la plata que acuña un imperio, sostenida por la mita; de esa herida nacen las rebeliones de [Túpac Katari](persona_tupac_katari.md) y [Bartolina Sisa](persona_bartolina_sisa.md), que cercan La Paz.
+La conquista alcanza los Andes y del cerro de [Potosi](place_potosi.md) brota la plata que acuña un imperio, aguantada sobre la mita; de esa herida nacen las rebeliones de [Túpac Katari](persona_tupac_katari.md) y [Bartolina Sisa](persona_bartolina_sisa.md), que ponen cerco a La Paz.
 
 **[Plot 3: la Independencia y la República](plot_03_la_independencia_y_la_republica.md)**
 
-[Juana Azurduy](persona_juana_azurduy.md) combate por la libertad; en 1825 nace la República con el nombre de Bolívar, y medio siglo después la Guerra del Pacífico deja al país sin costa, abriendo la herida de [el mar perdido](position_el_mar_perdido.md).
+[Juana Azurduy](persona_juana_azurduy.md) pelea por la libertad; el 25 nace la República con el nombre de Bolívar, y medio siglo después la Guerra del Pacífico deja al país sin costa, abriendo la herida de [el mar perdido](position_el_mar_perdido.md).
 
 **[Plot 4: la Bolivia plurinacional](plot_04_la_bolivia_plurinacional.md)**
 
-El estaño y la revolución de 1952, las mujeres mineras como [Domitila Barrios](persona_domitila_barrios.md) y el resurgir indígena llevan, ya en [La Paz](place_la_paz.md), a la refundación del país como un Estado plurinacional.
+El estaño y la revolución del 52, las mujeres mineras como [Domitila Barrios](persona_domitila_barrios.md) y el resurgir indígena llevan, ya en [La Paz](place_la_paz.md), a la refundación del país como un Estado plurinacional.
 
 ## Stakes
 
-Si la nación más indígena de América puede dignificar a sus muchos pueblos, sanar las heridas de Potosí y del mar perdido, y sostener un país plurinacional como uno solo, manteniendo su modo reservado y comunal de vivir la altura sin romperse en la vieja distancia entre la promesa y la realidad.
+Si la nación más indígena de América puede dignificar a sus hartos pueblos, sanar las heridas de Potosí y del mar perdido, y sostener un país plurinacional como uno solito, manteniendo su modo reservado y comunal de vivir la altura sin quebrarse en la vieja distancia entre la promesa y la realidad.

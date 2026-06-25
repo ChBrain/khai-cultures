@@ -26,7 +26,7 @@ A mediados del siglo diecinueve el istmo es una provincia de Colombia, y la fieb
 
 ## Action
 
-El ferrocarril vuelve a hacer del istmo el atajo del mundo, y tras él llega el sueno del canal: primero el intento francés, que fracasa derrotado por la enfermedad y la montana, y luego el interés de los Estados Unidos. En 1903, en medio de la tensión con Bogotá por los términos del canal, el istmo se separa de Colombia y nace la República de Panamá; ese mismo ano se firma el tratado que da a los Estados Unidos el derecho de abrir y administrar el canal, y con él la franja de la Zona. Comienza la gran obra, cavada por la mano antillana y local, mientras el país recién nacido descubre que el paso que lleva en el cuerpo no es del todo suyo.
+El ferrocarril vuelve a hacer del istmo el atajo del mundo, y tras él llega el sueno del canal: primero el intento francés, que fracasa derrotado por la enfermedad y la montana, y luego el interés de los Estados Unidos. En 1903, en medio de la tensión con Bogotá por los términos del canal, el istmo se separa de Colombia y nace la República de Panamá; ese mismo ano se firma el tratado que da a los Estados Unidos el derecho de abrir y administrar el canal, y con él la franja de la Zona. Comienza la gran obra, cavada por la mano antillana y local, el fren que llegó de Jamaica y Barbados a abrir el corte, mientras el país recién nacido descubre que el paso que lleva en el cuerpo no es del todo suyo.
 
 ## Stage
 

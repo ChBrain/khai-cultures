@@ -23,17 +23,17 @@ El mandato abierto que la nación se impuso al ganar al fin su paso: la obra de 
 
 ## Direction
 
-Volver el cruce en provecho compartido: hacer que la riqueza que pasa por el istmo se quede de veras en el país y llegue a todos los panamenos, y no solo a los pocos que viven del paso; completar la soberanía de hecho y no solo en el papel, siendo dueno y buen administrador del canal recuperado; sostener la sociedad plural entera, honrando la autonomía de los pueblos guna en su comarca, la herencia africana de la costa y el interior de la pollera como raíces vivas y aparte de una sola nación; y cerrar la honda desigualdad del cruce, para que la ciudad de vidrio no se levante de espaldas a la gente que la sostiene.
+Volver el cruce en provecho compartido: hacer que la riqueza que pasa por el istmo se quede de veras en el país y llegue a todos los panameños, y no solo a los pocos que viven del paso; completar la soberanía de hecho y no solo en el papel, siendo dueno y buen administrador del canal recuperado; sostener la sociedad plural entera, honrando la autonomía de los pueblos guna en su comarca, la herencia africana de la costa y el interior de la pollera como raíces vivas y aparte de una sola nación; y cerrar la honda desigualdad del cruce, para que la ciudad de vidrio no se levante de espaldas a la gente que la sostiene.
 
 ## Orders
 
-- Al canalero como [el canalero](persona_el_canalero.md): sigue haciendo andar el paso del mundo con tus manos y tu oficio, y recibe al fin tu parte entera de la fortuna que cruza por la tierra que tus mayores abrieron.
+- Al canalero como [el canalero](persona_el_canalero.md): dale, fren, sigue haciendo andar el paso del mundo con tus manos y tu oficio, y recibe al fin tu parte entera de la fortuna que cruza por la tierra que tus mayores abrieron.
 - Al líder como [Omar Torrijos](persona_omar_torrijos.md): defiende de hecho la soberanía que se ganó por la vía de los tratados, siendo dueno y buen administrador del paso, y no dejes que la causa que unió al país se quede en sola bandera.
 - A la nación: vuelve el cruce en provecho de todos, sostén el crisol entero y a los pueblos guna, y nunca confundas tener el canal con haber repartido ya su fortuna.
 
 ## Implementation
 
-Una república nacida en 1903 y dueña de su canal desde 1999, un eje financiero, marítimo y logístico del mundo, dolarizado y cosmopolita, que ganó por la vía de los tratados la soberanía sobre el paso que lleva en el cuerpo y administra hoy su canal ampliado. Se ha dado a conocer al mundo por su cruce, su banca y su voz global, y se cuenta entre las economías más abiertas de la región; y ha dejado abiertas todavía las tareas más difíciles, la honda desigualdad sin cerrar, el provecho del paso aún no repartido, y la sociedad plural y los pueblos guna por tejer enteros en una sola nación que viva de su cruce y no solo lo vea pasar.
+Una república nacida en 1903 y dueña de su canal desde 1999, un eje financiero, marítimo y logístico del mundo, dolarizado y cosmopolita, que ganó por la vía de los tratados la soberanía sobre el paso que lleva en el cuerpo y administra hoy su canal ampliado. Se ha dado a conocer al mundo por su cruce, su banca y su voz global, recibiendo al de afuera con un "¿que xopa?", y se cuenta entre las economías más abiertas de la región; y ha dejado abiertas todavía las tareas más difíciles, la honda desigualdad sin cerrar, el provecho del paso aún no repartido, y la sociedad plural y los pueblos guna por tejer enteros en una sola nación que viva de su cruce y no solo lo vea pasar.
 
 ## Targets
 

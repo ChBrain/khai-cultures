@@ -22,11 +22,11 @@ Parent group: pieces
 
 ## Place
 
-En la cabeza del campesino del interior, en la fiesta patria y en el baile junto a la pollera: el sombrero tejido a mano con fibras de varias plantas, "pintao" porque sus vueltas llevan dibujos negros, los pintas, tenidos con barro y hojas y entretejidos en el ala y la copa. Nacido sobre todo en la región de Cocle, en pueblos como La Pintada, es el sombrero del hombre del campo panameno, la pareja del traje de la pollera y una de las imágenes más queridas que el país tiene de sí mismo.
+En la cabeza del campesino del interior, en la fiesta patria y en el baile junto a la pollera: el sombrero tejido a mano con fibras de varias plantas, "pintao" porque sus vueltas llevan dibujos negros, los pintas, tenidos con barro y hojas y entretejidos en el ala y la copa. Nacido sobre todo en la región de Cocle, en pueblos como La Pintada, es el sombrero del hombre del campo panameño, la pareja del traje de la pollera y una de las imágenes más queridas que el país tiene de sí mismo.
 
 ## Load Bearing
 
-Lleva el oficio y el orgullo del interior en una sola prenda tejida: el sombrero pintao es lo que corona al campesino panameno como la pollera viste a la mujer, el otro Panamá, el del campo y la fiesta patria, hecho a mano hebra por hebra. Distingue al país de los demás sombreros de la región y le da una sena propia, tan reconocida que la nación la honró con un día y la llevó al reconocimiento del mundo como patrimonio de su artesanía. Frente a un país de cruce que vive de lo que pasa, el sombrero pintao es algo que se hace y se queda, la prueba de que el istmo no es solo paso sino también manos que tejen lo suyo.
+Lleva el oficio y el orgullo del interior en una sola prenda tejida: el sombrero pintao es lo que corona al campesino panameño como la pollera viste a la mujer, el otro Panamá, el del campo y la fiesta patria, hecho a mano hebra por hebra. Distingue al país de los demás sombreros de la región y le da una sena propia, tan reconocida que la nación la honró con un día y la llevó al reconocimiento del mundo como patrimonio de su artesanía. Frente a un país de cruce que vive del juega vivo y de lo que pasa, el sombrero pintao es algo que se hace y se queda, la prueba de que el istmo no es solo paso sino también manos que tejen lo suyo.
 
 ## Apparent
 

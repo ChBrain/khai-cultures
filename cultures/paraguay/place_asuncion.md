@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capital a orillas del río Paraguay, fundada en el siglo XVI y llamada "madre de ciudades" porque de ella salieron los que poblaron buena parte del Cono Sur. Sede de la república, ciudad fluvial de calor y de árboles, con su bahía, su palacio de gobierno frente al agua, sus casas viejas y su Panteón de los Héroes. Desde aquí Francia cerró el país y desde aquí salió a la guerra el Mariscal; la ciudad que ha visto nacer, encerrarse y casi morir a la nación, y siempre volver a levantarse.
+La capital a orillas del río Paraguay, fundada en el siglo XVI y llamada "madre de ciudades" porque de ella salieron los que poblaron buena parte del Cono Sur. Sede de la república, ciudad fluvial de calor bravo y de árboles, donde la gente ceba el tereré en la vereda, con su bahía, su palacio de gobierno frente al agua, sus casas viejas y su Panteón de los Héroes. Desde aquí Francia cerró el país y desde aquí salió a la guerra el Mariscal; la ciudad que ha visto nacer, encerrarse y casi morir a la nación, anga, y siempre volver a levantarse.
 
 ## Holds
 
@@ -31,8 +31,8 @@ La capital a orillas del río Paraguay, fundada en el siglo XVI y llamada "madre
 
 ## Offers
 
-Un lugar donde la nación se gobierna y se reconoce a sí misma, frente al río que la comunica y la aísla a la vez; un escenario donde se decide la suerte del país, se honra a sus héroes en el Panteón y se guarda la memoria de lo que costó seguir siendo patria, en español de papel y en guaraní de calle a un tiempo.
+Un lugar donde la nación se gobierna y se reconoce a sí misma, frente al río que la comunica y la aísla a la vez; un escenario donde se decide la suerte del país, se honra a sus héroes en el Panteón y se guarda la memoria de lo que costó seguir siendo patria, che retã, en español de papel y en guaraní de calle a un tiempo, nio luego.
 
 ## Withheld
 
-La inocencia del simple poder. Asunción carga la memoria del encierro y de la herida: la ciudad desde la que se cerró el país y desde la que se fue a la guerra que casi lo borra, y que recuerda a la nación que la soberanía y la grandeza se pagaron caras, y que volver a levantarse fue obra, sobre todo, de los que menos figuran.
+La inocencia del simple poder. Asunción carga la memoria del encierro y de la herida, anga: la ciudad desde la que se cerró el país y desde la que se fue a la guerra que casi lo borra, y que le recuerda a la nación que la soberanía y la grandeza se pagaron caras, y que volver a levantarse fue obra, sobre todo, del mboriahu y de los que menos figuran, che ra'a.

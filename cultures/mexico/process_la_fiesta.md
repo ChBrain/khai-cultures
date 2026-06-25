@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Cualquier ocasión que reúne a los muchos: el día del santo patrono en el pueblo, la víspera de la Independencia cuando el país entero grita de vuelta el Grito al unísono, la boda, la quinceañera, la posada en Navidad. Se contrata la música, se cocina la comida en cantidad, se engalanan la iglesia y la plaza, y la gente se vuelca a la calle -el pueblo entero, la familia entera, la nación entera en sus grandes noches- a comer, a bailar, a beber, a tronar los cohetes y quedarse hasta el amanecer.
+Cualquier pretexto que junta a la raza: el día del santo patrono del pueblo, la víspera de la Independencia cuando el país entero regresa el Grito todos a una voz, la boda, la quinceañera, la posada en Navidad. Se contrata la música, se cocina la comida a montones, se adornan la iglesia y la plaza, y la gente se sale a la calle -el pueblo entero, la familia entera, el país entero en sus noches grandes- a comer, a bailar, a echarse sus tragos, a tronar los cohetes y quedarse hasta que amanezca.
 
 ## Direction
 
-Hacia el desahogo y la comunión: la fiesta es donde el pueblo, de ordinario cortés, reservado y ceremonioso, rompe la forma y se derrama. Octavio Paz la leyó como el rito donde el mexicano enmascarado deja caer la máscara: donde la soledad se abre en multitud, la contención en exceso, y la cuidadosa distancia de la vida diaria se disuelve por una noche en un solo cuerpo que canta y se duele y celebra junto. Es la fe y la música y el exceso vueltos un solo acto de pertenencia.
+Hacia el desahogo y la comunión: la fiesta es donde la gente, que de diario es cortés, reservada y ceremoniosa, rompe la forma y se desborda. Octavio Paz la leyó como el rito donde el mexicano enmascarado deja caer la máscara: donde la soledad se abre en multitud, la contención se vuelve exceso, y esa distancia bien medida de todos los días se disuelve por una noche en un solo cuerpo que canta y se duele y celebra junto. Es la fe y la música y el exceso vueltos un solo acto de pertenencia.
 
 ## Lever
 
-Lo impulsa la necesidad de un pueblo reservado de un desahogo sancionado, y una fe y un calendario espesos de santos y temporadas que entregan las ocasiones con largueza. Se sostiene contra la soledad dentro de la máscara y el peso de lo cotidiano; lo que obra en su contra es la mañana siguiente, el costo del exceso, y el regreso de la máscara cuando la música cesa.
+Lo mueve la necesidad de una gente reservada de un desahogo con permiso, y una fe y un calendario bien cargados de santos y temporadas que sueltan los pretextos a manos llenas. Se sostiene contra la soledad metida en la máscara y el peso del diario; lo que le juega en contra es la cruda del día siguiente, el costo del exceso, y el regreso de la máscara apenas se calla la música.
 
 ## Echo
 
-La fiesta vuelve audible lo que corre por debajo de [la sombra del norte](position_la_sombra_del_norte.md): una mexicanidad que se afirma no en el argumento sino en el color y el ruido y la reunión, un yo que el coloso no puede volver marca porque se vive en la multitud. Es donde [el mestizo](persona_el_mestizo.md) es más a las claras un solo pueblo, la fusión a todo volumen, derramando en la plaza lo que la máscara guarda el resto del año.
+La fiesta vuelve audible lo que corre por debajo de [la sombra del norte](position_la_sombra_del_norte.md): una mexicanidad que se afirma no a punta de argumentos sino con color y ruido y gente junta, un yo que el coloso no puede volver marca porque se vive en la bola. Es donde [el mestizo](persona_el_mestizo.md) se ve más clarito como un solo pueblo, la mezcla a todo volumen, soltando en la plaza lo que la máscara guarda el resto del año.

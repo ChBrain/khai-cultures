@@ -26,11 +26,11 @@ Todo el país, los cuatro días antes del Miércoles de Ceniza: la gran fiesta p
 
 ## Direction
 
-Hacia la alegría compartida y la mezcla del istmo puesta a bailar: el carnaval es la pluralidad del país hecha fiesta, el tamborito y la murga, la pollera del interior y el tambor de raíz africana, todos en una sola plaza. No es solo jolgorio sino el rito en que Panamá se ve entera y reunida, el pueblo de cruce que recibe al mundo afirmando, por unos días, que aquí se vive el presente y se disfruta en compania de todos.
+Hacia la alegría compartida y la mezcla del istmo puesta a bailar: el carnaval es la pluralidad del país hecha fiesta, el tamborito y la murga, la pollera del interior y el tambor de raíz africana, todos en una sola plaza. No es solo jolgorio sino el rito en que Panamá se ve entera y reunida, el pueblo de cruce que recibe al mundo, al fren de afuera, afirmando, por unos días, que aquí se vive el presente y se goza de buena leche en compania de todos.
 
 ## Lever
 
-Lo impulsa el hondo gusto panameno por la fiesta y la música, y un país caribeno hecho a vivir el presente con el tambor a la mano. Se sostiene contra el afán del trabajo y del cruce, abriendo cada ano unos días en que la nación entera se detiene a celebrar; en su contra solo está el riesgo de que la fiesta tape lo que no se ha repartido, la alegría de los cuatro días sirviendo para no mirar la desigualdad de los otros trescientos.
+Lo impulsa el hondo gusto panameño por la fiesta y la música, y un país caribeno hecho a vivir el presente con el tambor a la mano. Se sostiene contra el afán del trabajo y del cruce, abriendo cada ano unos días en que la nación entera se detiene a celebrar; en su contra solo está el riesgo de que la fiesta tape lo que no se ha repartido, la alegría de los cuatro días sirviendo para no mirar la desigualdad de los otros trescientos.
 
 ## Echo
 

@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La ciudad amurallada del Caribe en la costa norte de Colombia, fundada en 1533 y ceñida por las grandes murallas de piedra que los españoles levantaron contra el mar y los corsarios: un laberinto de calles coloniales con balcones y fachadas ocre, la buganvilia desbordándose sobre los muros, el castillo de San Felipe vigilante por encima de la bahía. El más hermoso de los puertos coloniales, la ciudad de piedra y mar donde García Márquez situó buena parte de su mundo, y uno de los grandes puertos por los que la riqueza del imperio, y la trata de africanos esclavizados, entró al continente.
+La ciudad amurallada del Caribe en la costa norte de Colombia, fundada en 1533 y ceñida por esas grandes murallas de piedra que los españoles levantaron contra el mar y los corsarios: un laberinto de calles coloniales con balcones y fachadas ocre, la buganvilia desbordándosele a uno por encima de los muros, el castillo de San Felipe vigilante por encima de la bahía. El más hermoso de los puertos coloniales, la ciudad de piedra y mar donde García Márquez le situó buena parte de su mundo, y uno de los grandes puertos por los que la riqueza del imperio, y la trata de africanos esclavizados, le entró al continente.
 
 ## Holds
 
@@ -31,8 +31,8 @@ La ciudad amurallada del Caribe en la costa norte de Colombia, fundada en 1533 y
 
 ## Offers
 
-Un lugar donde toda la historia en capas de Colombia se sostiene en un solo circuito amurallado: la costa indígena, el imperio español, la herencia africana y la república; una ciudad que convirtió su piedra colonial en un presente vivo y bailador de música y calidez, y que le dio al país una de sus imágenes más perdurables de sí mismo: hermosa, caribeña, embrujada y viva.
+Un lugar donde toda la historia en capas de Colombia se le sostiene a uno en un solo circuito amurallado: la costa indígena, el imperio español, la herencia africana y la república; una ciudad que le volvió su piedra colonial un presente vivo y bailador de música y calidez, y que le regaló al país una de sus imágenes más perdurables de sí mismo: hermosa, caribeña, embrujada y viva.
 
 ## Withheld
 
-La inocencia de la mera belleza. Cartagena lleva, bajo sus pintorescos muros, la memoria del gran puerto esclavista que alguna vez fue, la riqueza y la herida construidas en la misma piedra: una belleza que no puede disfrutarse con honestidad sin recordar lo que pasó por estas puertas, y que le recuerda a la nación que sus lugares más bellos guardan su historia más dura.
+La inocencia de la pura belleza. Cartagena lleva, por debajo de sus pintorescos muros, la memoria del gran puerto esclavista que alguna vez fue, la riqueza y la herida construidas en la misma piedra: una belleza que uno no se la puede gozar con honestidad sin acordarse de lo que pasó por estas puertas, y que le recuerda a la nación que sus lugares más bellos le guardan su historia más dura.

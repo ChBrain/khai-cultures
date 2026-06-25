@@ -22,7 +22,7 @@ Parent group: processes
 
 ## Initiated by
 
-El barrio entero cuando alguien saca los cueros al patio o al solar: nadie en particular la convoca, basta con que suenen las tumbadoras, la clave y una cajita, y que alguien empiece a cantar. La calle se acerca sola, se hace el corro, y entran a bailar y a tocar los que quieran, vecinos, viejos y niños, en un domingo cualquiera.
+El barrio entero cuando alguien saca los cueros al patio o al solar: nadie en particular la convoca, asere, basta con que suenen las tumbadoras, la clave y una cajita, y que alguien arranque a cantar. La calle se acerca sola, se hace el corro, y entran a bailar y a tocar los que quieran, vecinos, viejos y niños, en un domingo cualquiera. Dale, que aquí se goza.
 
 ## Direction
 
@@ -30,7 +30,7 @@ Hacia la fiesta colectiva del tambor y el baile, viva hacia fuera y entre todos:
 
 ## Lever
 
-La mueve la raíz afrocubana del solar y el gusto de juntarse a tocar y bailar, y la sostiene un tambor que cruzó el mar encadenado y aquí se hizo libre. En contra está solo la dureza del día, que la rumba interrumpe para recordar que, aun faltando todo, queda esto: el cuero, la clave y la gente.
+La mueve la raíz afrocubana del solar y el gusto de juntarse a tocar y bailar, y la sostiene un tambor que cruzó el mar encadenado y aquí se hizo libre. En contra está solo la dureza del día, que la rumba interrumpe para recordar que, aun faltando casi todo y con la cosa en candela, queda esto: el cuero, la clave y la gente.
 
 ## Echo
 

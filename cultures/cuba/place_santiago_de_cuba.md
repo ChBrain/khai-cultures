@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La gran ciudad del oriente, recostada sobre su bahía entre la Sierra Maestra y el mar Caribe, más caliente, más negra y más caribeña que la capital. Cuna del son, que bajó de sus montañas a sus calles, y de la trova, vive al ritmo del tambor y del carnaval, con la conga retumbando por sus cuestas. Primera capital de la isla y eterna ciudad rebelde, mira menos a la Florida que a las islas hermanas del Caribe, y guarda en su gente y en su música la herencia africana más viva de Cuba.
+La gran ciudad del oriente, recostada sobre su bahía entre la Sierra Maestra y el mar Caribe, más caliente, más negra y más caribeña que la capital, donde el santiaguero te recibe con un "¿qué bola?" y una sonrisa. Cuna del son, que bajó de sus montañas a sus calles, y de la trova, vive al ritmo del tambor y del carnaval, con la conga retumbando por sus cuestas. Primera capital de la isla y eterna ciudad rebelde, mira menos a la Florida que a las islas hermanas del Caribe, y guarda en su gente y en su música la herencia africana más viva de Cuba.
 
 ## Holds
 
@@ -35,4 +35,4 @@ Un lugar donde lo afrocubano se vive sin disfraz: el tambor en la calle, el cabi
 
 ## Withheld
 
-La inocencia de la fiesta sin memoria. Santiago guarda la distancia entre la alegría de su carnaval y la dureza de la historia que lo engendró: el ingenio, el cafetal y la esclavitud que poblaron su oriente, y los muchos comienzos y los muchos finales que se jugaron en su tierra. Bajo la conga late el recuerdo de todo lo que costó llegar a bailarla.
+La inocencia de la fiesta sin memoria. Santiago guarda la distancia entre la alegría de su carnaval y la dureza de la historia que lo engendró: el ingenio, el cafetal y la esclavitud que poblaron su oriente, y los muchos comienzos y los muchos finales que se jugaron en su tierra. Bajo la conga, cuando todo el mundo está gozando en candela, late el recuerdo de todo lo que costó llegar a bailarla.

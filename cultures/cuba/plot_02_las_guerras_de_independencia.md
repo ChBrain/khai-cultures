@@ -26,7 +26,7 @@ Mientras casi toda la América española se ha hecho ya independiente, Cuba sigu
 
 ## Action
 
-De 1868 a 1898 la isla se alza por su libertad en guerras sucesivas, sostenidas por los mambises, el ejército popular y mayormente mulato y negro que pelea a machete en la manigua. [José Martí](persona_jose_marti.md) le da a la causa su palabra y su organización desde el destierro, y [Antonio Maceo](persona_antonio_maceo.md), el Titán de Bronce, le da su espada y lleva la guerra de un extremo a otro de la isla, negándose en Baraguá a toda paz sin libertad. En 1895 se reanuda la guerra definitiva y Martí cae en el primer combate. Cuando en 1898 la independencia parece al alcance, una guerra ajena entra en la isla y decide su final de otro modo: España se retira, pero Cuba no entra libre en el siglo, sino bajo la tutela del nuevo vecino del norte.
+De 1868 a 1898 la isla se alza por su libertad en guerras sucesivas, sostenidas por los mambises, el ejército popular y mayormente mulato y negro que pelea a machete en la manigua. [José Martí](persona_jose_marti.md) le da a la causa su palabra y su organización desde el destierro, y [Antonio Maceo](persona_antonio_maceo.md), el Titán de Bronce, le pone el machete y lleva la guerra de un extremo a otro de la isla, negándose en Baraguá a toda paz sin libertad. En 1895 se reanuda la guerra definitiva y Martí cae en el primer combate. Cuando en 1898 la independencia parece al alcance, una guerra ajena entra en la isla y decide su final de otro modo: España se retira, pero Cuba no entra libre en el siglo, sino bajo la tutela del nuevo vecino del norte.
 
 ## Stage
 
@@ -36,4 +36,4 @@ De 1868 a 1898 la isla se alza por su libertad en guerras sucesivas, sostenidas 
 
 ## Tension
 
-La isla paga treinta años de sangre por una libertad que, en el último momento, se le escapa de las manos: gana la guerra contra España y no acaba dueña de sí misma. El ideal de Cuba libre queda más alto que nunca y más sin cumplir que nunca, sembrando la cuenta pendiente, la patria prometida y no lograda, que el siglo siguiente intentará saldar una y otra vez.
+La isla paga treinta años de sangre por una libertad que, en el último momento, se le va de las manos: gana la guerra contra España y no acaba dueña de sí misma. El ideal de Cuba libre queda más alto que nunca y más sin cumplir que nunca, sembrando la cuenta pendiente, la patria prometida y no lograda, que el siglo siguiente intentará saldar una y otra vez.

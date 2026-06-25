@@ -23,7 +23,7 @@ Un mandato abierto que la isla se debe a sí misma: la tarea de reconciliar la i
 
 ## Direction
 
-Cerrar la distancia entre la isla y los que se fueron, tratando a la nación como una sola en las dos orillas; buscar a la vez prosperidad y libertad, para que el ingenio del resolver deje de ser aguante y vuelva a ser futuro; sostener la familia partida hasta que la silla vacía se llene; y guardar la cultura cubana entera, su música, su raíz africana y su lengua, como el patrimonio común que ninguna orilla puede reclamar para sí sola.
+Cerrar la distancia entre la isla y los que cogieron camino, tratando a la nación como una sola en las dos orillas; buscar a la vez prosperidad y libertad, para que el ingenio del resolver y del invento deje de ser puro aguante y vuelva a ser futuro; sostener la familia partida hasta que la silla vacía se llene; y guardar la cultura cubana entera, su música, su raíz africana y su lengua, como el patrimonio común que ninguna orilla puede reclamar para sí sola.
 
 ## Orders
 
@@ -33,13 +33,13 @@ Cerrar la distancia entre la isla y los que se fueron, tratando a la nación com
 
 ## Implementation
 
-Una isla de inmensa cultura y de una resistencia probada, separada de buena parte de los suyos por noventa millas de mar y por una historia que no acaba de cerrarse; una diáspora arraigada en otras orillas que sostiene a los de la isla con remesas y con música; una familia cubana que casi nunca está entera; y un ingenio, el resolver, que ha aguantado generaciones de carencia esperando que la promesa y la realidad por fin se acerquen.
+Una isla de inmensa cultura y de una resistencia probada, separada de buena parte de los suyos por noventa millas de mar y por una historia que no acaba de cerrarse; una diáspora arraigada en otras orillas que sostiene a los de la isla con remesas y con música; una familia cubana que casi nunca está entera; y un ingenio, el resolver, el invento de cada día, que ha aguantado generaciones de carencia esperando que la promesa y la realidad por fin se den la mano.
 
 ## Targets
 
-- [x] La isla dio al mundo su música, el son, la rumba y la salsa, y una cultura muy por encima de su tamaño.
+- [x] La isla le dio al mundo su música, el son, la rumba y la salsa, y una cultura muy por encima de su tamaño.
 - [x] La diáspora arraigó en otras orillas y mantuvo viva, lejos, la voz y la música de Cuba.
 - [W] La familia sigue partida en dos orillas, con la silla vacía en cada casa y el puente aún a medias.
-- [W] El ingenio del resolver sostiene la vida diaria, pero la carencia se ha hecho larga y la espera, costumbre.
+- [W] El ingenio del resolver y del invento sostiene la vida diaria, pero la carencia se ha hecho larga y la espera, costumbre.
 - [ ] Reconciliar la isla y la diáspora, y contar la nación entera en las dos orillas.
 - [ ] Hallar a la vez prosperidad y libertad, para que la promesa y la realidad por fin se encuentren.

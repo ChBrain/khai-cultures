@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-A comienzos del siglo XIX la colonia despierta. En Caracas, una generación de criollos lee a los filósofos de la Ilustración y sueña con romper con la corona. [Francisco de Miranda](persona_miranda.md), el precursor que había paseado el sueño americano por medio mundo, regresa para encenderlo, y un joven caraqueño, [Simón Bolívar](persona_bolivar.md), jura no descansar hasta ver libre a su patria.
+A comienzos del siglo XIX la colonia despierta. En Caracas, una generación de criollos lee a los filósofos de la Ilustración y sueña con zafarse de la corona. [Francisco de Miranda](persona_miranda.md), el precursor que había paseado el sueño americano por medio mundo, regresa para prenderlo, y un joven caraqueño, [Simón Bolívar](persona_bolivar.md), jura no descansar hasta ver libre a su patria.
 
 ## Action
 
-En 1811 Venezuela proclama su independencia, la primera de la América hispana, y nace la Primera República que Miranda preside. La guerra es larga y feroz, con avances y derrotas, y Bolívar toma la antorcha caída del precursor para llevarla más allá de las fronteras propias. Entre 1811 y 1821, de Caracas salen los ejércitos que liberan no solo a Venezuela sino a media Suramérica, hasta sellar en Carabobo la libertad de la patria. Una nación nace de un sueño continental, y se hace la cuna de la independencia de un continente entero.
+En 1811 Venezuela proclama su independencia, la primera de la América hispana, y nace la Primera República que Miranda preside. La guerra es larga y dura, con avances y caídas, y Bolívar agarra la antorcha caída del precursor para llevarla más allá de las fronteras propias. Entre 1811 y 1821, de Caracas salen los ejércitos que liberan no solo a Venezuela sino a media Suramérica, hasta sellar en Carabobo la libertad de la patria. Una nación nace de un sueño continental, y se hace la cuna de la independencia de un continente entero.
 
 ## Stage
 
@@ -36,4 +36,4 @@ En 1811 Venezuela proclama su independencia, la primera de la América hispana, 
 
 ## Tension
 
-La nación nace de la más alta de las gestas, parto de la libertad de un continente, y nace ya con la medida imposible de su propia grandeza: el país que liberó a media Suramérica se quedará para siempre midiéndose contra ese origen. La misma antorcha que armó la libertad de tantos pueblos deja a Venezuela una herencia más grande que ella, y el resto de la historia será el esfuerzo por estar a su altura sin vivir solo de su recuerdo.
+La nación nace de la más alta de las gestas, parto de la libertad de un continente, y nace ya con la vara imposible de su propia grandeza: el país que liberó a media Suramérica se quedará para siempre midiéndose contra ese origen. La misma antorcha que armó la libertad de tantos pueblos le deja a Venezuela una herencia más grande que ella, y el resto de la historia será el esfuerzo por estar a su altura sin vivir solo del recuerdo.

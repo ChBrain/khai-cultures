@@ -26,7 +26,7 @@ Antes de las velas españolas, la isla es de los taínos, que la habitan, la cul
 
 ## Action
 
-A lo largo de cuatro siglos Cuba se hace azúcar: el ingenio, el cañaveral y el café cubren la tierra, y para trabajarlos se trae por la fuerza, a través del mar, a un pueblo entero arrancado de África. Sobre la caña se levanta una larga sociedad esclavista, la más dura y duradera del Caribe, y de aquel encuentro forzado de África y de España nace lo más hondo de lo cubano: el tambor que se guarda en el solar, la décima del campesino en el batey, y de su cruce, con el tiempo, el son. La isla se vuelve rica para unos pocos y esclava para muchos, y queda sembrada, junto con la caña, la raíz mestiza que será su alma y la herida que será su deuda.
+A lo largo de cuatro siglos Cuba se hace azúcar: el ingenio, el cañaveral y el café cubren la tierra, y para trabajarlos se trae por la fuerza, a través del mar, a un pueblo entero arrancado de África. Sobre la caña se levanta una larga sociedad esclavista, la más dura y duradera del Caribe, y de aquel encuentro forzado de África y de España nace lo más hondo de lo cubano: el tambor que se guarda en el solar, la décima del guajiro en el batey, junto al bohío, y de su cruce, con el tiempo, el son. La isla se vuelve rica para cuatro gatos y esclava para muchos, y queda sembrada, junto con la caña, la raíz mestiza que será su alma y la herida que será su deuda.
 
 ## Stage
 

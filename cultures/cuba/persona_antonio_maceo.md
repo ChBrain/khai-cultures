@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-El Titán de Bronce, general mambí de las guerras de independencia, hijo de un pueblo del oriente, mulato que llevó en el cuerpo decenas de heridas y no quiso pactar jamás una paz sin libertad. Bravo, íntegro y de una sola palabra, fue la espada de la causa que Martí fue la pluma, y su Protesta de Baraguá quedó como el símbolo del que prefiere seguir peleando a rendirse a medias. El castellano lo tiene entero: [habla](process_speaking_mother_tongue.md) y [piensa](process_thinking_mother_tongue.md) en su lengua materna la del campo y la del cuartel, recia y sin rodeos, y desde su exilio en el extranjero [oye y sigue](process_hearing_followed.md) las lenguas de las islas vecinas que lo acogen, lo justo para conspirar y volver. Hombre de acción más que de letra, dejó pocas páginas y una frase que vale por todas, "el que intenta apropiarse de Cuba recogerá el polvo de su suelo anegado en sangre, si no perece en la lucha": y en esa economía de palabras se abre el vacío en el límite de la lengua, pues lo que el general callaba con la boca lo decía entero con la espada, y no toda verdad cabe en lo que se escribe.
+El Titán de Bronce, general mambí de las guerras de independencia, hijo del oriente, mulato que llevó en el cuerpo decenas de heridas y no quiso pactar jamás una paz sin libertad. Bravo, íntegro y de una sola palabra, fue el machete de la causa que Martí fue la pluma, y su Protesta de Baraguá quedó como el símbolo del que prefiere seguir peleando a rendirse a medias. El castellano lo tiene entero: [habla](process_speaking_mother_tongue.md) y [piensa](process_thinking_mother_tongue.md) en su lengua materna la del campo y la del cuartel, recia y sin rodeos, y desde su exilio en el extranjero [oye y sigue](process_hearing_followed.md) las lenguas de las islas vecinas que lo acogen, lo justo para conspirar y volver. Hombre de acción más que de letra, dejó pocas páginas y una frase que vale por todas, "el que intenta apropiarse de Cuba recogerá el polvo de su suelo anegado en sangre, si no perece en la lucha": y en esa economía de palabras se abre el vacío en el límite de la lengua, pues lo que el general callaba con la boca lo decía entero con el machete, y no toda verdad cabe en lo que se escribe.
 
 ## Action
 
@@ -35,4 +35,4 @@ El héroe que solo conoce la entrega total deja también su sombra: la tentació
 
 ## Tell
 
-Cuelga la espada sobre el pacto y dice no en Baraguá cuando todos firman la paz, y enseña que hay derrotas que valen más que las rendiciones, porque guardan vivo lo que se peleaba.
+Cuelga el machete sobre el pacto y dice que no en Baraguá cuando todos firman la paz, y enseña que hay derrotas que valen más que las rendiciones, porque guardan vivo lo que se peleaba.

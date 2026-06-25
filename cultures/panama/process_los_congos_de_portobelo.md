@@ -26,7 +26,7 @@ Los pueblos de la costa caribena de Colon, en torno a Portobelo, en la temporada
 
 ## Direction
 
-Hacia la memoria viva de la libertad ganada: los Congos no son solo disfraz y baile sino la dramatización, vuelta fiesta, de la resistencia de los africanos que se hicieron libres en la selva del istmo. Es el modo en que la costa caribena guarda y celebra su raíz africana, convirtiendo la historia más dura en juego, ironía y orgullo, y afirmando que esa herencia es una de las raíces hondas de lo que Panamá es.
+Hacia la memoria viva de la libertad ganada: los Congos no son solo disfraz y baile sino la dramatización, vuelta fiesta, de la resistencia de los africanos que se hicieron libres en la selva del istmo. Es el modo en que la costa caribena guarda y celebra su raíz africana y antillana, convirtiendo la historia más dura en juego, en chuleta de ironía y orgullo, y afirmando que esa herencia es una de las raíces hondas de lo que Panamá es.
 
 ## Lever
 
