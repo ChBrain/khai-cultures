@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.151.0",
+  "version": "0.152.0",
   "cultures": [
     {
       "kind": "culture",
@@ -317,6 +317,13 @@
       "title": "Germany",
       "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory.",
       "iso": "DE"
+    },
+    {
+      "kind": "culture",
+      "id": "ghana",
+      "title": "Ghana",
+      "description": "Ghana staged as a culture: the Black Star, warm with akwaaba, holding chieftaincy and the proverb.",
+      "iso": "GH"
     },
     {
       "kind": "culture",
