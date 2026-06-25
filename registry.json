@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.155.0",
+  "version": "0.156.0",
   "cultures": [
     {
       "kind": "culture",
@@ -177,6 +177,13 @@
       "title": "Canada",
       "description": "Canada staged as a culture: a bilingual federation of two peoples and a mosaic, reckoning with its founding wrong.",
       "iso": "CA"
+    },
+    {
+      "kind": "culture",
+      "id": "chad",
+      "title": "Chad",
+      "description": "Chad staged as a culture: one shore of many peoples, where Sahara and Sahel meet the green south.",
+      "iso": "TD"
     },
     {
       "kind": "culture",
