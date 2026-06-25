@@ -30,7 +30,7 @@ Dass man nicht überschwänglich begeistert tut, sondern mit einem Grant Distanz
 
 ## Loses
 
-An Boden, wo aus dem Raunzen echte Bitterkeit und Miesmacherei werden und der Grant nur noch lähmt. Er verliert, sobald die Klage ihren liebevollen Kern verliert und alles bloss schlechtredet.
+An Boden, wo aus dem Raunzen echte Bitterkeit und Miesmacherei werden und der Grant nur noch lähmt. Er verliert, sobald die Klage ihren liebevollen Kern verliert und alles bloß schlechtredet.
 
 ## Drives
 

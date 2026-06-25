@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-À partir de 1970, l'État unitaire ne tient plus les deux communautés ensemble : la pression monte, le nord veut son autonomie, le sud veut des garanties, et il faut sans cesse rouvrir la Constitution.
+À partir des années septante, l'État unitaire ne tient plus les deux communautés ensemble : la pression monte, le nord veut son autonomie, le sud veut des garanties, et il faut sans cesse rouvrir la Constitution.
 
 ## Action
 
-Réforme après réforme, six au total jusqu'aux années récentes, on transforme la Belgique en une fédération de communautés et de régions. Le centre se vide au profit des entités, les gouvernements deviennent de plus en plus durs à former, et seuls [le compromis](position_le_compromis_belge.md) et [la Couronne](position_la_couronne.md) empêchent l'édifice de se défaire.
+Réforme après réforme, six au total jusqu'aux années récentes, et la Constitution qui consacre au tournant des années nonante un État officiellement fédéral, on transforme la Belgique en une fédération de communautés et de régions. Le centre se vide au profit des entités, les gouvernements deviennent de plus en plus durs à former, et seuls [le compromis](position_le_compromis_belge.md) et [la Couronne](position_la_couronne.md) empêchent l'édifice de se défaire.
 
 ## Stage
 

@@ -23,7 +23,7 @@ stamp:
 
 ## Arc
 
-Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem kleinen Land geworden. Seither zieht es seinen Stolz nicht aus der Macht, sondern aus der Form: aus Musik, Kaffeehaus und Charme, aus Titeln und Gemütlichkeit, aus dem Schmäh, der die Wahrheit lieber umspielt als sie gerade heraussagt. Dieselbe Sprache wie der grosse Nachbar im Norden, und doch mit allem Nachdruck nicht deutsch: weicher, barocker, wehmütiger. Unter der Heiterkeit liegt die Melancholie des verlorenen Reiches.
+Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem kleinen Land geworden. Seither zieht es seinen Stolz nicht aus der Macht, sondern aus der Form: aus Musik, Kaffeehaus und Charme, aus Titeln und Gemütlichkeit, aus dem Schmäh, der die Wahrheit lieber umspielt als sie gerade heraussagt. Dieselbe Sprache wie der große Nachbar im Norden, und doch mit allem Nachdruck nicht deutsch: weicher, barocker, wehmütiger. Unter der Heiterkeit liegt die Melancholie des verlorenen Reiches.
 
 ## Company
 
@@ -85,4 +85,4 @@ Nach Anschluss, Krieg und Besatzung wird das Land in [Wien](place_wien.md) wiede
 
 ## Stakes
 
-Ob ein kleines Land, das einmal ein Reich war und seinen Stolz aus Form, Charme und Kultur zieht statt aus Macht, seine eigene, unverwechselbar nicht-deutsche Art bewahren kann, wenn die Wehmut zur Larmoyanz und der Charme zur blossen Masche zu erstarren droht.
+Ob ein kleines Land, das einmal ein Reich war und seinen Stolz aus Form, Charme und Kultur zieht statt aus Macht, seine eigene, unverwechselbar nicht-deutsche Art bewahren kann, wenn die Wehmut zur Larmoyanz und der Charme zur bloßen Masche zu erstarren droht.

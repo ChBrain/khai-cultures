@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-Die barocke Stadt am Rand der Alpen, Mozarts Geburtsstadt, mit Festung, Kuppeln und dem grossen Festspielsommer. Eine Bühne aus Stein zwischen Berg und Himmel.
+Die barocke Stadt am Rand der Alpen, Mozarts Geburtsstadt, mit Festung, Kuppeln und dem großen Festspielsommer. Eine Bühne aus Stein zwischen Berg und Himmel.
 
 ## Holds
 
@@ -31,7 +31,7 @@ Die barocke Stadt am Rand der Alpen, Mozarts Geburtsstadt, mit Festung, Kuppeln 
 
 ## Offers
 
-Den Beweis, dass das Land auch ausserhalb Wiens aus Musik, Barock und Berg seinen Stolz zieht; die Alpen und die Bühne treffen sich hier.
+Den Beweis, dass das Land auch außerhalb Wiens aus Musik, Barock und Berg seinen Stolz zieht; die Alpen und die Bühne treffen sich hier.
 
 ## Withheld
 

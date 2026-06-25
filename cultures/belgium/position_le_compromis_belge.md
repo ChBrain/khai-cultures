@@ -26,7 +26,7 @@ Le génie de la négociation sans fin : l'art de l'accord qui ne satisfait perso
 
 ## Orders
 
-Que rien ne se règle par la victoire mais par un accord où chacun gagne quelque chose ; qu'on négocie, qu'on équilibre, qu'on ne pousse jamais l'avantage jusqu'au bout. C'est le gouvernement qui met des centaines de jours à se former, et qui finit par tenir.
+Que rien ne se règle par la victoire mais par un accord où chacun gagne quelque chose ; qu'on négocie, qu'on équilibre, qu'on ne pousse jamais l'avantage jusqu'au bout. C'est le gouvernement qui met septante, nonante, des centaines de jours à se former, et qui finit quand même par tenir.
 
 ## Loses
 

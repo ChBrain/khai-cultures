@@ -30,7 +30,7 @@ Was im Land als richtiges Deutsch gilt: die Norm des Österreichischen Wörterbu
 
 ## Loses
 
-Boden nach unten an die Mundart, die im Mund weiterlebt, was das Schulbuch nie ganz fasst. Und es verliert nach aussen an das bundesdeutsche Hochdeutsch, das aus Fernsehen, Verlagen und Netz hereinströmt: dieselbe Sprache, eine andere Norm, die Wort um Wort die österreichischen Ausdrücke überschreibt und den alten Argwohn gegen den Piefke nährt.
+Boden nach unten an die Mundart, die im Mund weiterlebt, was das Schulbuch nie ganz fasst. Und es verliert nach außen an das bundesdeutsche Hochdeutsch, das aus Fernsehen, Verlagen und Netz hereinströmt: dieselbe Sprache, eine andere Norm, die Wort um Wort die österreichischen Ausdrücke überschreibt und den alten Argwohn gegen den Piefke nährt.
 
 ## Drives
 

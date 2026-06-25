@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La monarchie, la seule institution nationale au-dessus de la frontière des langues. Le Roi n'appartient à aucune communauté : il est le seul Belge tenu de les être toutes les deux. Avec l'équipe nationale de football, la Couronne est à peu près tout ce que les deux bords partagent encore.
+La monarchie, la seule institution nationale au-dessus de la frontière des langues. Le Roi n'appartient à aucune communauté : il est le seul Belge tenu de les être toutes les deux. Avec les Diables Rouges, l'équipe nationale de football, la Couronne est à peu près tout ce que les deux bords partagent encore.
 
 ## Orders
 

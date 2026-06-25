@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Au fritkot, à la baraque à frites plantée sur les places et au bord des routes, du nord au sud du pays, en Flandre comme en Wallonie comme à [Bruxelles](place_bruxelles.md). On les mange debout, dans un cornet de papier, nappées de sauce.
+Au fritkot, à la baraque à frites plantée sur les places et au bord des routes, du nord au sud du pays, en Flandre comme en Wallonie comme à [Bruxelles](place_bruxelles.md). On les mange debout, dans un cornet de papier, nappées de sauce, une fois.
 
 ## Load Bearing
 
@@ -30,10 +30,10 @@ Elles portent la seule chose vraiment nationale que les deux communautés revend
 
 ## Apparent
 
-Des bâtonnets de pomme de terre frits deux fois, dorés et croustillants dehors, fondants dedans, servis brûlants dans un cornet avec une noix de sauce. Rien de précieux : du populaire, du quotidien, du bon.
+Des bâtonnets de pomme de terre frits deux fois, dorés et croustillants dehors, fondants dedans, servis brûlants dans un cornet avec une bonne noix de sauce, et une fourchette en plastique par-dessus le marché. Rien de précieux : du populaire, du quotidien, du bon.
 
 ## Yearbook
 
 - Vendues de longue date au fritkot de quartier, devenues l'en-cas national par excellence.
-- Réclamées à la fois par la Flandre et par la Wallonie, et défendues contre le nom de "French fries" qui leur vole l'origine.
+- Réclamées à la fois par la Flandre et par la Wallonie, et défendues bec et ongles contre le nom de "French fries" qui leur vole l'origine : elles sont belges, non peut-être.
 - Servies à la [table](process_la_table.md) comme dans la rue, le point où les deux Belgiques tombent d'accord.

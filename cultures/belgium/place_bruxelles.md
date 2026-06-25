@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-Une capitale bilingue, à majorité francophone, posée comme un îlot de français au cœur du Brabant flamand : dix-neuf communes, la Grand-Place, le Manneken-Pis, et tout un quartier d'institutions où siègent l'Union européenne et l'OTAN. Dans ses rues se croisent le français, le néerlandais, l'anglais des fonctionnaires, l'arabe et le lingala des quartiers venus d'ailleurs.
+Une capitale bilingue, à majorité francophone, posée comme un îlot de français au cœur du Brabant flamand : dix-neuf communes, la Grand-Place, le Manneken-Pis qui pisse sous la drache, le fritkot du coin et tout un quartier d'institutions où siègent l'Union européenne et l'OTAN. Dans ses rues se croisent le français, le néerlandais, l'anglais des fonctionnaires, l'arabe et le lingala des quartiers venus d'ailleurs, et l'on s'y moque de tout, à commencer par soi-même, d'un trottoir à l'autre.
 
 ## Holds
 
@@ -31,7 +31,7 @@ Une capitale bilingue, à majorité francophone, posée comme un îlot de franç
 
 ## Offers
 
-Le lieu où les communautés et les langues du monde se mêlent comme nulle part ailleurs dans le pays, où l'on peut vivre, travailler et gouverner en passant d'une langue à l'autre, et où l'Europe a installé son centre.
+Le lieu où les communautés et les langues du monde se mêlent comme nulle part ailleurs dans le pays, où l'on peut vivre, travailler et gouverner en passant d'une langue à l'autre, une fois, et où l'Europe a installé son centre.
 
 ## Withheld
 

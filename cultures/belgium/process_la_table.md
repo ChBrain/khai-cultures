@@ -22,7 +22,7 @@ Parent group: processes
 
 ## Initiated by
 
-Quand on se met à table sans se presser, autour d'un plat de moules et de [frites](piece_les_frites.md), d'un gibier en saison ou d'un simple plat du jour, avec une bière forte que l'on boit à sa propre verre. Il suffit de quelques convives et de temps devant soi pour que le repas devienne le centre de la journée.
+Quand on se met à table sans se presser, autour d'un plat de moules et de [frites](piece_les_frites.md), d'un gibier en saison, de chicons au gratin ou d'un simple plat du jour, avec une bonne bière d'abbaye que l'on boit chacun à son verre. Il suffit de quelques convives et de temps devant soi pour que le repas devienne le centre de la journée, savez-vous.
 
 ## Direction
 
@@ -34,4 +34,4 @@ Le plaisir partagé de la table contre la division du pays : ce qui sépare un F
 
 ## Echo
 
-On en ressort rassasié et un peu réconcilié : le seul point sur lequel les deux Belgiques s'accordent sans négocier, c'est qu'on y mange et qu'on y boit bien, et que cela vaut bien une nation.
+On en ressort rassasié et un peu réconcilié : le seul point sur lequel les deux Belgiques s'accordent sans négocier, c'est qu'on y mange et qu'on y boit bien, non peut-être, et que cela vaut bien une nation.

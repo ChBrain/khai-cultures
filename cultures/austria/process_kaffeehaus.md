@@ -30,7 +30,7 @@ Hin zum Verweilen ohne Zweck: lesen, reden, schauen und sinnieren, während der 
 
 ## Lever
 
-Die Lust am Gespräch und am Müssiggang treibt es, gestützt von der Gemütlichkeit, die das Hetzen verachtet. Dagegen steht nur die Uhr, und im Kaffeehaus hat die Uhr nichts zu melden.
+Die Lust am Gespräch und am Müßiggang treibt es, gestützt von der Gemütlichkeit, die das Hetzen verachtet. Dagegen steht nur die Uhr, und im Kaffeehaus hat die Uhr nichts zu melden.
 
 ## Echo
 

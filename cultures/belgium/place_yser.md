@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-Une petite rivière de l'extrême ouest du pays, en bord de mer du Nord, derrière laquelle l'armée belge a tenu, de 1914 à 1918, le dernier lambeau de Belgique libre. La plaine inondée pour arrêter l'ennemi, les tranchées, et, plus tard, la grande tour de l'Yser dressée à la mémoire des morts.
+Une petite rivière de l'extrême ouest du pays, en bord de mer du Nord, derrière laquelle l'armée belge a tenu, de 1914 à 1918, le dernier lambeau de Belgique libre. La plaine inondée pour arrêter l'ennemi, les tranchées noyées sous la drache, et, plus tard, la grande tour de l'Yser dressée à la mémoire des morts.
 
 ## Holds
 

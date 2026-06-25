@@ -23,7 +23,7 @@ La Belgique, petit royaume d'Europe occidentale né en 1830, coincé entre la Fr
 
 ## Arc
 
-Un pays inventé comme État tampon, neutre et garanti, et bâti en français sur une majorité qui parlait flamand. De ce déséquilibre de départ vient tout son drame : l'émancipation lente de la Flandre, une frontière linguistique tracée en travers du sol, un centre qui se vide à mesure que tout passe aux communautés, et un État qui survit sans langue commune. Ce qui le tient n'est pas une nation mais un faisceau de liens modestes : la Couronne, l'équipe nationale, la bière et les frites, le génie du compromis et un sens très sûr de l'absurde.
+Un pays inventé comme État tampon, neutre et garanti, et bâti en français sur une majorité qui parlait flamand. De ce déséquilibre de départ vient tout son drame : l'émancipation lente de la Flandre, une frontière linguistique tracée en travers du sol, un centre qui se vide à mesure que tout passe aux communautés, et un État qui survit sans langue commune. Ce qui le tient n'est pas une nation mais un faisceau de liens modestes : la Couronne, l'équipe nationale, la bière d'abbaye et les frites du fritkot, la BD, le génie du compromis et un sens très sûr de l'absurde, le tout sous une bonne drache nationale.
 
 ## Company
 

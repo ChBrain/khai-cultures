@@ -30,7 +30,7 @@ Dass man nicht plump direkt ist, sondern mit Charme andeutet und die Form über 
 
 ## Loses
 
-An Wahrhaftigkeit, wo der Charme zur blossen Masche wird und der Umweg die Aussage ganz verschluckt. Der Schmäh verliert, sobald niemand mehr weiss, was wirklich gemeint ist, und die Form alles ersetzt.
+An Wahrhaftigkeit, wo der Charme zur bloßen Masche wird und der Umweg die Aussage ganz verschluckt. Der Schmäh verliert, sobald niemand mehr weiß, was wirklich gemeint ist, und die Form alles ersetzt.
 
 ## Drives
 

@@ -35,4 +35,4 @@ Das alte Reich altert unter dem greisen Kaiser, und über allem liegt das Gefüh
 
 ## Tension
 
-Die grösste geistige Blüte fällt mit dem Verfall des Reiches zusammen, als wüsste die Stadt, dass ihr nicht mehr viel Zeit bleibt. Aus dieser Spannung zwischen Glanz und Untergang kommt die Tiefe wie die Wehmut, die dem Land seither eigen ist.
+Die größte geistige Blüte fällt mit dem Verfall des Reiches zusammen, als wüsste die Stadt, dass ihr nicht mehr viel Zeit bleibt. Aus dieser Spannung zwischen Glanz und Untergang kommt die Tiefe wie die Wehmut, die dem Land seither eigen ist.

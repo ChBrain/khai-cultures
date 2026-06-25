@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Une jeune Bruxelloise née d'une famille venue d'ailleurs, chez elle dans la capitale mêlée et internationale. [Elle parle, écoute et pense](process_speaking_mother_tongue.md) en français, la langue de la ville, mais elle [manie le néerlandais](process_speaking_carried.md) de la cité bilingue et du travail, [attrape l'arabe](process_hearing_caught.md) de la maison de ses parents, et [porte l'anglais](process_speaking_worn.md) de l'Europe qui siège à sa porte. Elle est le pont : là est la faille, elle passe d'une langue à l'autre en une journée et fait se parler ceux qui ne se comprennent pas, mais la ville elle-même reste un îlot français contesté en terre flamande, et elle n'appartient tout entière à aucun des deux camps.
+Une jeune Bruxelloise née d'une famille venue d'ailleurs, chez elle dans la capitale mêlée et internationale, dans son kot d'étudiante puis dans son quartier. [Elle parle, écoute et pense](process_speaking_mother_tongue.md) en français, la langue de la ville, mais elle [manie le néerlandais](process_speaking_carried.md) de la cité bilingue et du travail, [attrape l'arabe](process_hearing_caught.md) de la maison de ses parents, et [porte l'anglais](process_speaking_worn.md) de l'Europe qui siège à sa porte. Elle est le pont : là est la faille, au bord même de la langue, elle passe de l'une à l'autre en une journée et fait se parler ceux qui ne se comprennent pas, mais la ville elle-même reste un îlot français contesté en terre flamande, et elle n'appartient tout entière à aucun des deux camps.
 
 ## Action
 
-Elle vit [le compromis à la belge](position_le_compromis_belge.md) dans son quartier de [Bruxelles](place_bruxelles.md), passe du guichet en français au collègue en néerlandais et au client en anglais, et porte sa ville comme un monde à part, ni flamand ni wallon.
+Elle vit [le compromis à la belge](position_le_compromis_belge.md) dans son quartier de [Bruxelles](place_bruxelles.md), passe du guichet en français, s'il vous plaît, au collègue en néerlandais et au client en anglais, et porte sa ville comme un monde à part, une fois, ni flamand ni wallon.
 
 ## Shadow
 
@@ -35,4 +35,4 @@ Son aisance à tout traduire cache ce qu'elle paie : la ville qu'elle fait tenir
 
 ## Tell
 
-Au milieu d'une phrase, elle change de langue sans même s'en rendre compte ; et quand on lui demande « mais tu te sens quoi, au fond ? », elle répond d'abord par une blague, le temps de ne pas avoir à choisir.
+Au milieu d'une phrase, elle change de langue sans même s'en rendre compte ; et quand on lui demande « mais tu te sens quoi, au fond ? », elle répond d'abord par une vanne sur elle-même, « moi ? je suis surtout fatiguée, savez-vous », le temps de ne pas avoir à choisir.
