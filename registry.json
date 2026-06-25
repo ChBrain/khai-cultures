@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.149.0",
+  "version": "0.150.0",
   "cultures": [
     {
       "kind": "culture",
@@ -527,6 +527,13 @@
       "title": "Maldives",
       "description": "A nation of coral atolls held by one faith, one tongue, and the sea that gives and takes.",
       "iso": "MV"
+    },
+    {
+      "kind": "culture",
+      "id": "mali",
+      "title": "Mali",
+      "description": "Mali staged as a culture: land of the great Sahelian empires, the Niger, and the griot's living word.",
+      "iso": "ML"
     },
     {
       "kind": "culture",
