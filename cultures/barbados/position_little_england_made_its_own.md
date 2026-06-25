@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The orderly British-modelled society Barbados became and then reclaimed as its own. England's oldest continuous colony, held without a break, schooled to the mother country, Anglican and parish-ordered, proud of its propriety and its forms, it earned the name Little England for how faithfully it kept them. But the form was filled by a Black majority who made it theirs: the parliament, the schools, the courts, the manners and the Sunday churches became Barbadian, not borrowed, and the island carried itself out of colony into independence in 1966 and into a republic in 2021 with the same order intact, now answering to itself. The mould was English; what was poured into it is Bajan.
+The orderly British-modelled society Barbados became and then reclaimed as its own. England's oldest continuous colony, held without a break, schooled to the mother country, Anglican and parish-ordered, proud of its propriety and its forms, it earned the name Little England for how faithfully it kept them. But the form was filled by a Black majority who made it theirs: the parliament, the schools, the courts, the manners and the Sunday churches became Bajan, not borrowed. They kept the eleven parishes and the prayer book and the good morning said proper to every soul you pass, and underneath ran the dialect, the cou-cou, the tuk band, the Landship drilling its make-believe crew through the village - Little England on the surface and Bajan to the bone. The island carried itself out of colony into independence in 1966 and into a republic in 2021 with the same order intact, now answering to itself. The mould was English; what was poured into it is Bajan.
 
 ## Orders
 
@@ -30,7 +30,7 @@ That order, stability, and good governance are real Barbadian achievements and n
 
 ## Loses
 
-Ground when the English form is mistaken for the freedom, when keeping the institution well is taken for having reckoned with what it once served, and when Little England is worn as flattery rather than claimed and remade; ground, too, when the pride in order becomes a reluctance to disturb it, and the continuity that is a strength becomes a caution that will not face the foundation beneath the calm.
+Ground when the English form is mistaken for the freedom, when keeping the institution well is taken for having reckoned with what it once served, and when Little England is worn as flattery rather than claimed and remade - call a Bajan a little Englishman and watch the smile go thin. Ground, too, when the pride in order becomes a reluctance to disturb it, and the continuity that is a strength becomes a caution that will not face the foundation beneath the calm.
 
 ## Drives
 

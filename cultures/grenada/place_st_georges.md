@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-The picturesque capital on the southwest coast, said to be among the prettiest harbour towns in the Caribbean, its pastel houses and red roofs climbing the hills above the Carenage, the horseshoe inner harbour where the boats lie and the spice once shipped. Fort George stands on the headland above the town, the old French and British fort looking out over the sea, and the streets wind steep and narrow up from the water. The colonial port and the seat of the nation, the harbour town through which the island has met and answered the world.
+The pretty pretty capital on the southwest coast, they say it is one of the prettiest harbour towns in all the Caribbean, its pastel houses and red roofs climbing up the hills above the Carenage, the horseshoe inner harbour where the boats lie and the spice once ship out from. Fort George stand up on the headland above the town, the old French and British fort looking out over the sea, and the streets wind steep and narrow up from the water. The colonial port and the seat of the nation, the harbour town the island meet and answer the world through.
 
 ## Holds
 
-- [Fedon and the Long Resistance](plot_02_fedon_and_the_long_resistance.md): the colonial capital and harbour against which the rising is set and from which the island is governed and argued over.
-- [the Revolution and the Reckoning](plot_03_the_revolution_and_the_reckoning.md): the capital and seat of the nation where the years of the revolution are centred and remembered.
+- [Fedon and the Long Resistance](plot_02_fedon_and_the_long_resistance.md): the colonial capital and harbour the rising is set against and the island is governed and argued over from.
+- [the Revolution and the Reckoning](plot_03_the_revolution_and_the_reckoning.md): the capital and seat of the nation where the years of the revolution are centred and remembered to this day.
 
 ## Offers
 
-A place where the island faces the wider world, the harbour through which the spice went out and the empires came in, the seat where the colony was governed and the nation now governs itself; a town of great beauty that is also the stage of the island's hardest history, holding the Carenage and the fort, the market and the seat of state.
+A place where the island face the wider world, the harbour the spice went out through and the empires come in through, the seat where the colony was governed and the nation now govern itself; a town pretty for so that is also the stage of the island hardest history, holding the Carenage and the fort, the market and the seat of state.
 
 ## Withheld
 
-The ease of mere prettiness. St. George's carries the weight beneath its beauty, the harbour that shipped the spice and bore the costs of empire, the fort that has looked down on more than one hard chapter, and the town that holds the memory of the revolution at the nation's centre, a capital whose loveliness does not let the island forget what it has lived.
+The easy way of just being pretty. St. George's carry the weight underneath all that beauty, the harbour that ship the spice and bear the cost of empire, the fort that look down on more than one hard chapter, and the town that hold the memory of the revolution right at the nation centre, a capital whose loveliness don't let the island forget what it has lived through.

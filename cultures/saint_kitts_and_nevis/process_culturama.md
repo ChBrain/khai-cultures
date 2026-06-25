@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-The whole of Nevis in the heat of summer: the sister isle's own cultural festival, Culturama, held each year around the August emancipation holiday, the masquerade and the string band and the pageant and the food fair filling Charlestown and the villages, Nevisians at home and home from abroad gathering for the island's own week.
+The whole of Nevis in the summer heat: the small sister's own cultural festival, Culturama, hold each year round the August emancipation holiday, the masquerade and the string band and the pageant and the food fair filling up Charlestown and the villages, Nevis people at home and Nevis people home from abroad all gathering for the island's own week.
 
 ## Direction
 
-Toward Nevis holding her own distinct voice and heritage, a festival the sister isle made for herself rather than sharing the larger island's carnival. It gathers the Nevisian folk arts, the old masquerade and the string band and the island's own foods and stories, and binds the island's people and its diaspora into one week of being unmistakably Nevisian, the smaller isle insisting on its own culture within the federation.
+Toward Nevis holding she own distinct voice and heritage, a festival the small sister make for sheself rather than share the big island's carnival. It gather up the Nevisian folk arts, the old masquerade and the string band and the island's own food and stories, and bind the island's people and its diaspora into one week of being Nevis through and through, the small sister standing up for she own culture within the federation. We small, the Nevis people say, but we is we.
 
 ## Lever
 
-It is driven by Nevis's deep pride in being herself and not merely the smaller half of a two-island state, and by the islanders' love of gathering home from across the sea. It holds against the pull of the larger island and the scattering of the people; against it stand the smallness of the stage and the strain of keeping a distinct festival alive on so small an isle.
+It is drive by Nevis's deep pride in being sheself and not merely the smaller half of a two-island state, and by the island people's love of gathering home from across the sea. It hold against the pull of the big island and the scattering of the people; against it stand the smallness of the stage and the strain of keeping a distinct festival living on so small a isle.
 
 ## Echo
 
-Culturama makes audible what drives [the labour nation and the federation](position_the_labour_nation_and_the_federation.md): that the federation is two and not one, the sister isle keeping her own voice and heritage within the union. In its week of masquerade Nevis holds the standing that [Sir Simeon Daniel](persona_simeon_daniel.md) fought for, the smaller isle unmistakably herself across the strait.
+Culturama make audible what drive [the labour nation and the federation](position_the_labour_nation_and_the_federation.md): that the federation is two and not one, the small sister keeping she own voice and heritage within the union. In its week of masquerade Nevis hold the standing that [Sir Simeon Daniel](persona_simeon_daniel.md) fight for, the small sister sheself through and through cross the strait.

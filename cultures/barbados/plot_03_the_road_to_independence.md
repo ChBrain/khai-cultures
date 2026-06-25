@@ -26,7 +26,7 @@ By the 1930s the island that earned its English name keeps an order in which the
 
 ## Action
 
-Grantley Adams champions the working people, builds the Barbados Labour Party, and works the colonial parliament from within to lift the majority it had left out, becoming the island's first premier and winning the constitutional advances that carry it toward self-rule. Then a younger and bolder leader, Errol Barrow, founds his own party, builds the free schools and the welfare that remake ordinary lives, and presses past the careful federalist path to take the freedom whole. On the thirtieth of November, 1966, Barbados becomes an independent nation, Barrow its first Prime Minister, the well-kept colony turned into a self-governing state answering to itself, the English mould filled and claimed by the people who fill it.
+Grantley Adams champions the working people, builds the Barbados Labour Party, and works the colonial parliament from within to lift the majority it had left out, sitting at the master's own table in the master's own correct English and refusing to be shifted, becoming the island's first premier and winning the constitutional advances that carry it toward self-rule. Then a younger and bolder leader, Errol Barrow, founds his own party, builds the free schools and the welfare that remake ordinary lives so duh would never want for learning, and presses past the careful federalist path to take the freedom whole rather than wait pon it to be handed over by degrees. On the thirtieth of November, 1966, Barbados becomes an independent nation, Barrow its first Prime Minister, the well-kept colony turned into a self-governing state answering to itself, the English mould filled and claimed by the people who fill it.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Grantley Adams champions the working people, builds the Barbados Labour Party, a
 
 ## Tension
 
-The island that mirrored the mother country most faithfully becomes a nation by turning the mother country's own forms to its own ends, claiming the parliament and the law rather than discarding them, the English mould made wholly Bajan. Yet nationhood, real as it is, is not the whole of the reckoning: the new flag flies over the ground the plantation worked, and the harder, older debt - to the cradle of the plantation the island still governs - waits beneath the independence so well won.
+The island that mirrored the mother country most faithfully becomes a nation by turning the mother country's own forms to its own ends, claiming the parliament and the law rather than smashing them up, the English mould made wholly Bajan. Yet nationhood, real as it is, is not the whole of the reckoning: the new flag flies over the ground the plantation worked, and the harder, older debt - to the cradle of the plantation the island still governs - waits beneath the independence so well won, the thing everybody know and nobody quite get to saying straight.

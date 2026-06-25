@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-The young nation lives under a mountain that is not finished and across a sea that scatters its isles. [La Soufriere](place_la_soufriere.md) had erupted in 1902 and again in 1979, on the very threshold of independence, and would erupt once more in 2021; and southward the Grenadines, Bequia among them, lie strung across the water, a country of one green mainland and many small isles to be held as one.
+The young nation living under a mountain that not finish yet and across a sea that scatter its islands. [La Soufriere](place_la_soufriere.md) had erupt in 1902 and again in 1979, right on the very threshold of independence, and would erupt one more time in 2021; and away down south the Grenadines, Bequia among them, lie strung across the water, a country of one green mainland and plenty little island to be hold as one.
 
 ## Action
 
-The volcano erupts and the nation endures, evacuating, sheltering one another, and returning to rebuild on the same rich and dangerous soil, the calm resilience of a devout people shown in the face of the fire, in 1902, in 1979, and in 2021. On the mainland the small farmer carries on with the bananas and the arrowroot under the volcano; among the isles the sailors and boatbuilders of the Grenadines keep the sea-life, treating the water as the road that binds the scattered country rather than the wall that divides it. The modern nation holds its land and its sea, its mainland and its isles, its festivals of Vincy Mas and the Nine Mornings binding the people, and carries the whole archipelago forward as one home under the living mountain.
+The volcano erupt and the nation ride it out, taking off out the danger zone, sheltering one another, and coming back to build again on the same rich and dangerous soil, the calm strength of a God-fearing people show plain in the face of the fire, in 1902, in 1979, and in 2021. On the mainland the small farmer carry on with the bananas and the arrowroot under the volcano; among the islands the sailormen and boatbuilders of the Grenadines keep the sea-life going, taking the water as the road that tie the scatter-out country and not the wall that split it up. The modern nation hold its land and its sea, its mainland and its islands, its festivals of Vincy Mas and the Nine Mornings tying the people, and carry the whole archipelago forward as one home under the living mountain.
 
 ## Stage
 
-- [the Bequia whaler](persona_the_bequia_whaler.md): the sailor of the Grenadines who carries the sea-life and binds the scattered isles by the water.
-- [La Soufriere](place_la_soufriere.md): the living volcano whose eruptions test the nation and whose soil sustains it.
-- [the sea and the land](position_the_sea_and_the_land.md): the proposition that the mainland and the isles are two halves of one home, to be held together as one.
+- [the Bequia whaler](persona_the_bequia_whaler.md): the sailor of the Grenadines who carry the sea-life and tie the scatter-out islands by the water.
+- [La Soufriere](place_la_soufriere.md): the living volcano whose eruptions test the nation and whose soil does feed it.
+- [the sea and the land](position_the_sea_and_the_land.md): the word that the mainland and the islands is two halves of one home, to be hold together as one.
 
 ## Tension
 
-The nation must endure a volcano that will erupt again and hold together isles the sea keeps pulling apart. Yet the same fire that threatens the land also makes the soil that feeds it, and the same sea that scatters the isles is the road that ties them, so the country's trials and its blessings are the same ground and the same water, and the work is to carry the burning land and the scattered isles forward, calmly and as one.
+The nation have to ride out a volcano that going erupt again and hold together islands the sea keep pulling apart. But the same fire that threaten the land is the same fire that make the soil that feed it, and the same sea that scatter the islands is the road that tie them, so the country trials and its blessings is the same ground and the same water, and the work is to carry the burning land and the scatter-out islands forward, calm and as one.

@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-By the 1830s the long pressure against slavery across the British empire reaches the cane islands. In 1834 emancipation comes to Antigua - and, unusually, comes at once rather than through a drawn-out apprenticeship - and the enslaved are freed in a single day the island would remember.
+By the 1830s the long pressure against slavery across the British empire reaches the cane islands. In 1834 emancipation comes to Antigua - and, unusual for the time, it comes all at once rather than through any drawn-out apprenticeship - and the enslaved are freed in one single day the island would never let go from memory.
 
 ## Action
 
-The freed people build villages of their own and a life out of small wages and hard ground, and they dance the memory of that day into Carnival, the festival that carries emancipation forward in song and mas. But freedom from the chains is not yet freedom from want: the old power stays in the planters' hands and the freed people remain poor and without voice. Out of the cane fields and the waterfront, in the twentieth century, rises the labour movement - the Antigua Trades and Labour Union giving ordinary people their first real power - and from it comes the leadership, Vere Bird at its head, that carries the islands through self-government toward nationhood. The second freedom, the freedom from want and powerlessness, is won by the organised many.
+The freed people build villages of their own and scratch out a life from small wages and hard ground, and they dance the memory of that day into Carnival, the festival that carries emancipation forward in calypso, benna, and mas down the road. But freedom from the chains is not yet freedom from want: the old power stays in the planters' hands and the freed people stay poor and without a voice. Out of the cane fields and the waterfront, in the twentieth century, rises the labour movement - the Antigua Trades and Labour Union giving ordinary people their first real power - and from it comes the leadership, Vere Bird at its head, that carries the islands through self-government toward nationhood. The second freedom, the freedom from want and powerlessness, is won by the organised many standing together.
 
 ## Stage
 
@@ -35,4 +35,4 @@ The freed people build villages of their own and a life out of small wages and h
 
 ## Tension
 
-Emancipation in 1834 strikes off the chains but leaves the freed people poor and powerless, the promise of freedom only half kept. The labour movement that rises a century later wins the rest of it - the wages, the voice, the path to nationhood - and yet the same victory carries its own shadow, the liberator who may stay too long and the wealth that may once more run past the working people who won the country, so that the freedom from want is honoured in the holiday and still to be kept in fact.
+Emancipation in 1834 strikes off the chains but leaves the freed people poor and powerless, the promise of freedom only half kept. The labour movement that rises a whole century later wins the rest of it - the wages, the voice, the path to nationhood - and yet the same victory carries its own shadow, the big man who may sit too long and the wealth that may once again run right past the working people who won the country, so that the freedom from want is honoured loud in the holiday and still to be kept in fact.

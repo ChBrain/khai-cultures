@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-When the ships of Europe come through the Lesser Antilles, they find on this island a people already long settled, the Kalinago, in their villages along the coast and their forts within the forest. The island is steeper, wetter, and more thickly forested than its neighbors, and the mountains close fast behind the shore.
+When the ships of Europe come through the Lesser Antilles, they find on this island a people already long settled, the Kalinago, in their villages along the coast and their forts deep within the forest. The island is steeper, wetter, and more thickly forested than her neighbors, and the mountains close fast behind the shore - the kind of place where a man can walk in and the bush swallow him whole.
 
 ## Action
 
-For more than two centuries the empires cannot easily take the island. The rainforest shelters the Kalinago, who hold their ground while the others of their kind are lost across the rest of the Caribbean; France and Britain claim the coast in turn and fight over it for generations, each leaving its tongue and its faith, until Britain holds it at last. Through all of it the wild interior remains the refuge it has always been - the place the empires could not wholly reach - and the Kalinago endure on it, the last of the Carib world to keep their own territory anywhere in the sea that bears their name.
+For more than two centuries the empires cannot take the island easy. The rainforest shelters the Kalinago, who hold their ground while the others of their kind are lost across the rest of the Caribbean; France and Britain claim the coast in turn and fight over it for generations, each leaving its tongue and its faith behind, until Britain holds it at last. Through all of it the wild interior remains the refuge it has always been - the place the empires could not wholly reach - and the Kalinago endure on it, the last of the Carib world to keep their own territory anywhere in the sea that carries their name.
 
 ## Stage
 
@@ -36,4 +36,4 @@ For more than two centuries the empires cannot easily take the island. The rainf
 
 ## Tension
 
-The same wildness that made the island poor in cane and slow to be settled made it the one place the Carib world survived - the rainforest that the empires cursed as a barrier was, for its first people, the wall that kept them. The island is contested for centuries and changes hands, yet the deepest truth of it is the one neither empire could change: that the wild interior was a refuge, and the Kalinago are still there, the last of their kind to hold their ground.
+The same wildness that made the island poor in cane and slow to settle made her the one place the Carib world survived - the rainforest the empires cursed as a barrier was, for her first people, the wall that kept them safe. The island is contested for centuries and changes hands, yet the deepest truth of her is the one neither empire could change: that the wild interior was a refuge, and the Kalinago are still there, the last of their kind to hold their ground.

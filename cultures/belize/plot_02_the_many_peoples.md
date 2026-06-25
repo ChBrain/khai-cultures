@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-A colony built by Baymen and the enslaved on the timber of the forest is, by the nineteenth century, a land into which the many begin to come. On the southern shore, in 1832, the Garifuna arrive by sea, a people of Arawak, Carib, and West African roots carrying their own tongue, drum, and faith, and make their settlements along the coast.
+A colony built by Baymen and the enslaved on the timber of the forest is, by the nineteenth century, a land into which the many begin to come. On the southern shore, in 1832, the Garifuna arrive by sea, a people of Arawak, Carib, and West African roots carrying their own tongue, the punta drum, and their faith, and make their settlements along the coast.
 
 ## Action
 
-The many gather in the small land. The Garifuna land in the south and take root in the coastal towns. Mestizo refugees cross from the north, fleeing the wars of the Yucatan, bringing Spanish and the ways of the isthmus. The Maya hold the west and the south as they always had. Later the Mennonites arrive to farm, with their Plautdietsch and their plain communities. Atop the Creole descendants of the Baymen and the enslaved, the land becomes a society of many peoples living side by side - Creole, Garifuna, Mestizo, Maya, and Mennonite - each keeping its tongue and its faith, an easy plurality grown over the old plantation order, with Belize Kriol the lingua franca that crosses them all.
+The many gather in the small land. The Garifuna land in the south and take root in the coastal towns, Dangriga and Punta Gorda. Mestizo refugees cross from the north, fleeing the wars of the Yucatan, bringing Spanish and the ways of the isthmus. The Maya hold the west and the south as they always had. Later the Mennonites arrive to farm, with their Plautdietsch and their plain communities, and the East Indian and others fold in beside them. Atop the Creole descendants of the Baymen and the enslaved, the land becomes a society of many peoples living side by side, Creole, Garifuna, Mestizo, Maya, and Mennonite, each keeping its tongue and its faith, an easy plurality grown over the old plantation order, with Belize Kriol the lingua franca that crosses them all, the tongue all a we shares.
 
 ## Stage
 
@@ -35,4 +35,4 @@ The many gather in the small land. The Garifuna land in the south and take root 
 
 ## Tension
 
-The land becomes uncommonly plural and uncommonly peaceful at once - many peoples in a small country, living more easily together than almost anywhere - and yet the plurality grows over an old hierarchy of color and origin it never fully unmakes. The many get along, but not quite as equals, and the easy welcome can become a way of leaving the order beneath it unaddressed, so the country must learn to hold its peoples as one without flattening any of them or pretending the gap between their standings closed.
+The land becomes uncommonly plural and uncommonly peaceful at once, many peoples in a small country, living more easy together than almost anywhere, and yet the plurality grows over an old hierarchy of color and origin it never fully unmakes. The many get along, but not quite as equals, and the easy welcome can become a way of leaving the order beneath it unaddressed, so the country must learn to hold its peoples as one without flattening any of them or pretending the gap between their standings closed.

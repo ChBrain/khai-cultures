@@ -22,15 +22,15 @@ Parent group: pieces
 
 ## Place
 
-In the fields of the southwest, around Cades Bay where the dry ground and the sun suit it, and on the market stall and the family table: the Antigua black pineapple, a small dark-skinned fruit reckoned among the sweetest pineapples grown anywhere, the national fruit of Antigua and Barbuda and a thing the island grows for itself.
+In the fields of the southwest, around Cades Bay where the dry ground and the hot sun suit it just right, and on the market stall and the family table: the Antigua black pineapple, a small dark-skinned fruit reckoned among the sweetest pineapples grown anywhere at all, the national fruit of Antigua and Barbuda and a thing the island grows for its own self.
 
 ## Load Bearing
 
-It carries the truth of [a small place, a wide reach](position_a_small_place_a_wide_reach.md): that a tiny island can grow something the world reckons the best of its kind. Brought across the centuries and made the island's own, ripened sweeter on Antigua's dry southwestern ground than almost anywhere, it is the small place's mastery in a fruit - proof that smallness of size is no smallness of quality, the island's name carried on something it grows better than the great. Without this fruit the island's quiet claim to grow the finest of its kind would lose its plainest, sweetest emblem.
+It carries the truth of [a small place, a wide reach](position_a_small_place_a_wide_reach.md): that a likkle island can grow something the world reckons the best of its kind. Brought across the centuries and made the island's own, ripened sweeter on Antigua's dry southwestern ground than almost anywhere on earth, it is the small place's mastery in a fruit - proof that smallness of size is no smallness of quality at all, the island's name carried on something it grows better than the great. Without this fruit the island's quiet claim to grow the finest of its kind would lose its plainest, sweetest emblem.
 
 ## Apparent
 
-A small pineapple, darker-skinned and lower than the export giants, easy to overlook beside them on a market shelf. In itself it is only a fruit; its weight is in the sweetness the island's own ground gives it and in the pride a small place takes in growing, on its own dry soil, something reckoned the best there is.
+A small pineapple, darker-skinned and lower than the big export giants, easy to overlook right beside them on a market shelf. In itself it is only a fruit; its weight is in the sweetness the island's own ground gives it and in the pride a small place takes in growing, on its own dry soil, something reckoned the best there is.
 
 ## Yearbook
 

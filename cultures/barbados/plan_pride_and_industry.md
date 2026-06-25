@@ -23,17 +23,17 @@ The charge the nation set itself in its own motto, Pride and Industry: to carry 
 
 ## Direction
 
-Face the foundation - reckon honestly with having been the cradle of the plantation, naming the bondage beneath the order and honouring the resistance and dignity of the enslaved as the island's truer inheritance; keep the order and turn it to justice, holding the hard-won stability and good governance while filling the English form with prosperity shared across the island; carry the pride and the joy without resting on them, taking the cricketing mastery and the festival as dignity rather than as comfort; and sustain the young republic, the Black-majority nation governing the ground the plantation worked, as a state that answers to its own people and makes its own way in the world.
+Face the foundation - reckon honestly with having been the cradle of the plantation, naming the bondage beneath the order plain instead of saying not too bad and moving on, and honouring the resistance and dignity of the enslaved as the island's truer inheritance; keep the order and turn it to justice, holding the hard-won stability and good governance while filling the English form with prosperity shared across the island; carry the pride and the joy without resting on them, taking the cricketing mastery and the festival as dignity rather than as comfort; and sustain the young republic, the Black-majority nation governing the ground the plantation worked, as a state that answers to its own people and makes its own way in the world.
 
 ## Orders
 
-- To the worker like [the cane cutter](persona_the_cane_cutter.md): your endurance is the island's truer inheritance; let the prosperity you built at last be shared with those who build it, and let the reckoning honour the labour the cane consumed.
+- To the worker like [the cane cutter](persona_the_cane_cutter.md): wunna endurance is the island's truer inheritance; let the prosperity you built at last be shared with those who build it, and let the reckoning honour the labour the cane consumed.
 - To the builder of the nation like [Errol Barrow](persona_errol_barrow.md): the freedom you took whole is not yet the whole reckoning; carry the independence on to face the foundation beneath the new flag and the republic raised over the cane country.
-- To the nation: keep the order and the pride, but never mistake the well-kept form or the mastered game for the freedom; face the cradle of the plantation honestly and turn industry into prosperity shared.
+- To the nation: keep the order and the pride, but never mistake the well-kept form or the mastered game for the freedom; face the cradle of the plantation honestly, say the hard thing plain, and turn industry into prosperity shared.
 
 ## Implementation
 
-A small island republic, stable and orderly, the crown's oldest continuous colony turned in 2021 to a Black-majority republic, that has made real strides - independence won, the institution claimed, free schooling built, the cricketing pride and the festival joy raised into the world's sight, the crown at last set aside - and left work standing still: the sober reckoning with the plantation it pioneered, the turning of order and pride into prosperity shared across the island, and the making of its own way as a young republic in a world it no longer mirrors.
+A small island republic, stable and orderly, the crown's oldest continuous colony turned in 2021 to a Black-majority republic, that has made real strides - independence won, the institution claimed, free schooling built so duh would never want for learning, the cricketing pride and the festival joy raised into the world's sight, Rihanna sent out from Bridgetown to the whole earth, the crown at last set aside - and left work standing still: the sober reckoning with the plantation it pioneered, said plain and not waved off with not too bad, the turning of order and pride into prosperity shared across the island, and the making of its own way as a young republic in a world it no longer mirrors.
 
 ## Targets
 

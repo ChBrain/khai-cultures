@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-The capital on Carlisle Bay, the island's chief town since the first English landing, its Parliament Buildings of coral stone the seat of one of the oldest legislatures in the hemisphere, its careenage and warehouses the harbour through which the island's sugar once sailed. Beside it the Garrison, the great parade ground and barracks of the imperial defence, ringed by the Georgian buildings of the colonial order, together inscribed as a UNESCO World Heritage site as the historic centre of an English colonial town. The English form set in coral stone, and the machinery of a small island's self-government beneath it.
+The capital on Carlisle Bay, the island's chief town since the first English landing, its Parliament Buildings of coral stone the seat of one of the oldest legislatures in the hemisphere, its careenage and warehouses the harbour through which the island's sugar once sailed. Beside it the Garrison, the great parade ground and barracks of the imperial defence, ringed by the Georgian buildings of the colonial order, together inscribed as a UNESCO World Heritage site as the historic centre of an English colonial town. The English form set in coral stone, and the machinery of a small island's self-government beneath it. Pon a Saturday the same coral streets fill with the tuk band, the kettle drum and the penny whistle keeping up the old beat, and the Landship comes marching, the friendly society that drills its members like a navy that never sails, a whole village playing sailor on dry land and laughing low at the joke of it.
 
 ## Holds
 
@@ -32,8 +32,8 @@ The capital on Carlisle Bay, the island's chief town since the first English lan
 
 ## Offers
 
-A place where a small island governs itself with order and continuity, and shows itself its own history in coral stone; a stage where the English colonial town became the capital of a Black-majority nation, where parliament sits, prime ministers are sworn, and the republic was proclaimed, the form of the empire turned to the ends of the people who fill it.
+A place where a likkle island governs itself with order and continuity, and shows itself its own history in coral stone; a stage where the English colonial town became the capital of a Black-majority nation, where parliament sits, prime ministers are sworn, and the republic was proclaimed, the form of the empire turned to the ends of the people who fill it.
 
 ## Withheld
 
-The innocence of mere good order. Bridgetown carries the gap between the tidy Georgian heritage and the trade it served - a harbour built to ship the sugar the enslaved cut, a Garrison raised to hold the colonial peace, a heritage that is beautiful and is also the architecture of the plantation, reminding the island that the order is only as good as the reckoning with what it was first raised to keep.
+The innocence of mere good order. Bridgetown carries the gap between the tidy Georgian heritage and the trade it served - a harbour built to ship the sugar the enslaved cut, a Garrison raised to hold the colonial peace, a heritage that is handsome and is also the architecture of the plantation, reminding the island that the order is only as good as the reckoning with what it was first raised to keep. The coral stone is pretty, the old heads say, but mind what it was put up to do.

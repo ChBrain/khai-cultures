@@ -22,7 +22,7 @@ Parent group: processes
 
 ## Initiated by
 
-The whole island at the turn of the summer, when the last of the cane is cut: the festival that began as the plantation's harvest celebration, marking the end of the sugar season, and grew into the island's great national festival of weeks of music, calypso, and fete, climaxing in the costumed street dance of Grand Kadooment. It takes only the harvest done and the people in the road, and the island that once marked the end of the cutting now dances it into its largest festival of the year.
+The whole island at the turn of the summer, when the last of the cane is cut: the festival that began as the plantation's harvest celebration, marking the end of the sugar season, and grew into the island's great national festival of weeks of music, calypso, and fete, climaxing in the costumed street dance of Grand Kadooment. It takes only the harvest done and the people in the road, the tuk band beating up the street and wunna all out in feathers and paint, and the island that the rest of the year keeps so quiet and so correct now dances the cutting into its largest festival of the year.
 
 ## Direction
 
@@ -30,7 +30,7 @@ Toward release and reclamation: the labour the plantation worked turned by its w
 
 ## Lever
 
-It is driven by the deep Bajan need to turn the inheritance of the cane into celebration, to hold the memory of the harvest and remake it as joy. It holds against the long, ordered, understated tone of the island, the one season the reserve breaks open into colour and music; against it stand the danger of selling the festival as spectacle until it forgets the cane it marks, and the question of how to dance the harvest without losing the memory of who cut it.
+It is driven by the deep Bajan need to turn the inheritance of the cane into celebration, to hold the memory of the harvest and remake it as joy. It holds against the long, ordered, understated tone of the island, the one season the reserve breaks open into colour and music and the quietest churchgoer in the village is out in the road jumping; the rest of the year she will tell you she don't know wuh come over her. Against it stand the danger of selling the festival as spectacle until it forgets the cane it marks, and the question of how to dance the harvest without losing the memory of who cut it.
 
 ## Echo
 

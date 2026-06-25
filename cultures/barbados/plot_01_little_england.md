@@ -26,7 +26,7 @@ In 1627 an English ship lands on an island lying alone in the Atlantic beyond th
 
 ## Action
 
-The English settle the island and hold it without a break, longer than any other colony of the crown, so that Barbados becomes England's oldest continuous possession and earns over the centuries the name Little England for how faithfully it keeps the mother country's forms. They lay out the parishes, raise the Anglican churches, plant the legislature at Bridgetown that becomes one of the oldest in the hemisphere, and school the island to England. The order that will define Barbados is set in place, the English mould pressed onto a Caribbean island, the foundation of a society that will mirror the mother country more closely than any other and will one day fill that mould with its own people.
+The English settle the island and hold it without a break, longer than any other colony of the crown, so that Barbados becomes England's oldest continuous possession and earns over the centuries the name Little England for how faithfully it keeps the mother country's forms. They lay out the eleven parishes, raise the Anglican churches with a steeple in every district, plant the legislature at Bridgetown that becomes one of the oldest in the hemisphere, and school the island to England down to the good morning said proper to every soul you meet pon the road. The order that will define Barbados is set in place, the English mould pressed onto a Caribbean island, the foundation of a society that will mirror the mother country more closely than any other and will one day fill that mould with its own people and its own tongue.
 
 ## Stage
 
@@ -35,4 +35,4 @@ The English settle the island and hold it without a break, longer than any other
 
 ## Tension
 
-The island is settled clean, with no surviving indigenous nation to displace, and held so long and so faithfully that it becomes more English than any other colony - and the very order that earns it its name will, within a generation, be turned to the sugar and the bondage that make Little England the cradle of the plantation. The peace of the founding holds within it the system to come, and the form so well kept will need, in the end, to be reckoned with as well as filled.
+The island is settled clean, with no surviving indigenous nation to displace, and held so long and so faithfully that it becomes more English than any other colony - and the very order that earns it its name will, within a generation, be turned to the sugar and the bondage that make Little England the cradle of the plantation. The peace of the founding holds within it the system to come. Little England, the name says, and the name will stick, but the thing it will come to hold is anything but little and anything but innocent, and the form so well kept will need, in the end, to be reckoned with as well as filled.

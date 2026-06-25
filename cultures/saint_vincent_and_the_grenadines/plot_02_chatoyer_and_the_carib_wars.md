@@ -22,17 +22,17 @@ stamp:
 
 ## Cue
 
-As the European powers contest the eastern Caribbean, Britain comes for the island and for the land the Garifuna, the Black Caribs, hold as their own. The free people will not yield it, and under their paramount chief [Joseph Chatoyer](persona_chatoyer.md) they take up the long resistance to keep Hairouna out of the empire's hands.
+While the European powers scrambling for the eastern Caribbean, Britain come for the island and for the land the Garifuna, the Black Caribs, holding as their own. The free people would not give it up, and under their paramount chief [Joseph Chatoyer](persona_chatoyer.md) they take up the long fight to keep Hairouna out of the empire hands.
 
 ## Action
 
-The Garifuna resist Britain fiercely across the long contest known as the Carib Wars, defending the land of the blessed as a free people who will not be ruled. They are defeated at last, and in 1797 thousands of the Garifuna are deported across the sea, carried away from the island that was theirs, the deep wound at the root of the nation. From that exile grow the Garifuna communities that live to this day along the coasts of Central America, a people scattered from their island and a diaspora seeded by the deportation. On the island that remained, the land was held and worked, soberly, by the labour of the enslaved, until emancipation came and the freed people took up the long road that followed. The free people are broken and scattered, and the chief becomes the nation's hero and the keeper of its deepest grief and pride.
+The Garifuna fight Britain hard right through the long contest they call the Carib Wars, standing up for the land of the blessed as a free people that would not be ruled. They get beat at last, and in 1797 thousands of the Garifuna get deport across the sea, carry away from the island that was theirs, the deep wound at the root of the nation. Out of that exile come the Garifuna communities that living to this day along the coast of Central America, a people scatter away from their island and a diaspora seed by the deportation. On the island that remain, the land was held and worked, soberly, by the labour of the enslaved, till emancipation come and the freed people take up the long road that follow. The free people get broke up and scatter, and the chief come to be the nation hero and the keeper of its deepest grief and pride.
 
 ## Stage
 
-- [Joseph Chatoyer](persona_chatoyer.md): the paramount chief who leads the resistance and falls for the land, the national hero.
+- [Joseph Chatoyer](persona_chatoyer.md): the paramount chief who lead the resistance and dead for the land, the national hero.
 - [Hairouna and the Garifuna](position_hairouna_and_the_garifuna.md): the free people and the land of the blessed, the deep root and the deep wound of the nation.
 
 ## Tension
 
-The nation's proudest and its most painful story are the same story: a free people resist to the last for the land that is theirs, and are broken and carried away for it. The deportation seeds a living diaspora and roots the country in a heritage of resistance, but it is a wound that the easy calm of the nation does not always speak, and the work after is to remember it soberly, holding the pride and the grief, the blessing and the loss, as one.
+The nation proudest and its most painful story is the very same story: a free people fight to the last for the land that is theirs, and get broke up and carry away for it. The deportation seed a living diaspora and root the country in a heritage of resistance, but it is a wound the easy calm of the nation don't always talk about, and the work after is to remember it soberly, holding the pride and the grief, the blessing and the loss, as one.

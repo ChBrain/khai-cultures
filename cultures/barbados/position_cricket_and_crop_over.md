@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The two great national passions in which Barbados is most itself: cricket, the game the mother country brought and the island made a religion, and Crop Over, the festival born of the sugar harvest the plantation worked. Cricket is the English game turned Bajan, played in every village and parish, the field where a small island produced the world's finest players and beat the empire at its own sport. Crop Over began as the celebration that the last of the cane was cut, the labour of the plantation turned by its workers into joy, and grew into the island's great festival, climaxing in the costumed dance of Grand Kadooment. One is order and skill and quiet mastery; the other is release and colour and music; together they are the island at play, taking what the plantation and the empire gave and making of it pride and joy.
+The two great national passions in which Barbados is most itself: cricket, the game the mother country brought and the island made a religion, and Crop Over, the festival born of the sugar harvest the plantation worked. Cricket is the English game turned Bajan, played in every village and parish, the field where a likkle island produced the world's finest players and beat the empire at its own sport. Crop Over began as the celebration that the last of the cane was cut, the labour of the plantation turned by its workers into joy, and grew into the island's great festival, the tuk band and the soca climaxing in the costumed dance of Grand Kadooment. One is order and skill and quiet mastery, the celebrating done with a nod; the other is release and colour and music, the reserve thrown off for a season; together they are the island at play, taking what the plantation and the empire gave and making of it pride and joy.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Ground when the joy is taken as the whole story and the foundation beneath the h
 
 ## Drives
 
-Lives in [Garfield Sobers](persona_garfield_sobers.md), the greatest all-round cricketer the game has known, the Bajan boy who carried the island's mastery onto the world's fields. It drives Barbados to play, to celebrate, and to take pride in turning the master's game and the plantation's harvest into the island's own joy.
+Lives in [Garfield Sobers](persona_garfield_sobers.md), the greatest all-round cricketer the game has known, the Bajan boy who carried the island's mastery onto the world's fields. It drives Barbados to play, to celebrate, and to take pride in turning the master's game and the plantation's harvest into the island's own joy, and to show the modern world another such child of the island in Rihanna, the girl from Bridgetown the whole earth came to know, the island's quiet pride sent out again to the stages of the world.
