@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.150.0",
+  "version": "0.151.0",
   "cultures": [
     {
       "kind": "culture",
@@ -632,6 +632,13 @@
       "title": "Nicaragua",
       "description": "Nicaragua, tierra de lagos y volcanes y de poetas, dos veces dividida entre el Pacifico y el Caribe.",
       "iso": "NI"
+    },
+    {
+      "kind": "culture",
+      "id": "niger",
+      "title": "Niger",
+      "description": "Niger staged as a culture: a Sahelian land of desert, river and caravan, where patience and the given word hold.",
+      "iso": "NE"
     },
     {
       "kind": "culture",
