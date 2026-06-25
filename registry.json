@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.141.0",
+  "version": "0.142.0",
   "cultures": [
     {
       "kind": "culture",
@@ -247,6 +247,13 @@
       "title": "Ecuador",
       "description": "El Ecuador puesto en escena: un pequeño país plurinacional en la mitad del mundo, entre sierra y costa.",
       "iso": "EC"
+    },
+    {
+      "kind": "culture",
+      "id": "egypt",
+      "title": "Egypt",
+      "description": "Egypt staged as a culture: the gift of the Nile, a deep civilization of faith, learning, and song.",
+      "iso": "EG"
     },
     {
       "kind": "culture",
