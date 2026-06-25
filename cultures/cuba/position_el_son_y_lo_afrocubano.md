@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-El alma rítmica de la isla, nacida del encuentro forzado de África y de España sobre la caña. Es el tambor que sobrevivió a la esclavitud y se hizo rumba en el solar, y la guitarra del campo que se cruzó con él para parir el son: la mezcla, el mestizaje, hecho música. Lo afrocubano no es un adorno ni un folclore aparte, sino la raíz misma de lo cubano, la prueba sonora de que esta isla es negra y blanca a la vez y no se entiende sin las dos. De aquí salieron el son, la rumba y, andando el tiempo, la salsa que dio la vuelta al mundo.
+El alma rítmica de la isla, nacida del encuentro forzado de África y de España sobre la caña. Es el tambor que sobrevivió a la esclavitud y se hizo rumba en el solar, y el tres del guajiro que se cruzó con él para parir el son: la mezcla, el mestizaje, hecho música. Lo afrocubano no es un adorno ni un folclore aparte, mi hermano, sino la raíz misma de lo cubano, la prueba sonora de que esta isla es negra y blanca a la vez y no se entiende sin las dos. De aquí salieron el son, la rumba y, andando el tiempo, la salsa que puso a gozar al mundo entero.
 
 ## Orders
 

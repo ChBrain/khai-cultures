@@ -26,11 +26,11 @@ Dueno al fin de su canal, el istmo se asoma al siglo veintiuno como lo que su lu
 
 ## Action
 
-Panamá se vuelve un eje financiero, marítimo y logístico del mundo, un centro dolarizado por donde pasan el comercio, la banca y las rutas del planeta, con el canal recuperado y ampliado en su corazón. A la vez sigue siendo un crisol: la comarca de Guna Yala donde los guna gobiernan lo suyo, la costa caribena de raíz africana y su tambor, el interior de la pollera y el tamborito, y la ciudad cosmopolita rozada por el inglés. El reto del país pasa de ganar el paso a repartir su provecho: volver el cruce del mundo en prosperidad de todos los panamenos, sostener su sociedad plural y a los pueblos guna, y ser de veras el dueno de la fortuna que cruza por su tierra.
+Panamá se vuelve un eje financiero, marítimo y logístico del mundo, un centro dolarizado por donde pasan el comercio, la banca y las rutas del planeta, con el canal recuperado y ampliado en su corazón. A la vez sigue siendo un crisol: la comarca de Guna Yala donde los guna gobiernan lo suyo, la costa caribena de raíz africana, herencia antillana y su tambor, el interior de la pollera y el tamborito, y la ciudad cosmopolita rozada por el inglés, donde un "ofi" cierra el trato. El reto del país pasa de ganar el paso a repartir su provecho: volver el cruce del mundo en prosperidad de todos los panameños, sostener su sociedad plural y a los pueblos guna, y ser de veras el dueno de la fortuna que cruza por su tierra.
 
 ## Stage
 
-- [Ruben Blades](persona_ruben_blades.md): el músico y abogado que lleva la voz del istmo al mundo, el panameno global hecho de muchas raíces.
+- [Ruben Blades](persona_ruben_blades.md): el músico y abogado que lleva la voz del istmo al mundo, el panameño global hecho de muchas raíces.
 - [la Ciudad de Panamá](place_ciudad_de_panama.md): el eje dolarizado y cosmopolita de la Panamá moderna, la ciudad de torres en la boca del canal.
 - [el crisol del istmo](position_el_crisol_del_istmo.md): la sociedad plural del cruce, de los guna a la costa congo y la ciudad rozada por el inglés.
 

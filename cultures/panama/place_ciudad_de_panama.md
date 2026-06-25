@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capital tendida sobre la bahía del Pacífico, en la boca misma del canal, una ciudad de tres tiempos a la vista: las ruinas de Panamá la Vieja, la primera ciudad fundada en 1519 y arrasada por el pirata Morgan; el Casco Antiguo de calles coloniales, balcones y plazas frente al mar, levantado tras el saqueo; y el filo de rascacielos de vidrio que se alza sobre el agua, la línea de torres de un eje financiero dolarizado. El viejo puerto del Pacífico vuelto centro de banca, comercio y tránsito del mundo, con el canal a un lado y los buques cruzando al fondo.
+La capital tendida sobre la bahía del Pacífico, en la boca misma del canal, una ciudad de tres tiempos a la vista: las ruinas de Panamá la Vieja, la primera ciudad fundada en 1519 y arrasada por el pirata Morgan; el Casco Antiguo de calles coloniales, balcones y plazas frente al mar, levantado tras el saqueo; y el filo de rascacielos de vidrio que se alza sobre el agua, la línea de torres de un eje financiero dolarizado. El viejo puerto del Pacífico vuelto centro de banca, comercio y tránsito del mundo, donde el español de la calle se cruza con el inglés del negocio y el de afuera siempre llega de paso, con el canal a un lado y los buques cruzando al fondo.
 
 ## Holds
 
@@ -31,7 +31,7 @@ La capital tendida sobre la bahía del Pacífico, en la boca misma del canal, un
 
 ## Offers
 
-Un lugar donde toda la historia de Panamá se sostiene en una sola línea de costa: la ciudad arrasada, la ciudad colonial y la ciudad de cristal una junto a la otra, el viejo puerto del Pacífico vuelto centro de tránsito del mundo. Una capital que hizo de su lugar en la boca del canal un eje de banca y comercio, y que le da al país su rostro más moderno: cosmopolita, vertical, abierta y vuelta hacia el mar por el que pasa el mundo.
+Un lugar donde toda la historia de Panamá se sostiene en una sola línea de costa: la ciudad arrasada, la ciudad colonial y la ciudad de cristal una junto a la otra, el viejo puerto del Pacífico vuelto centro de tránsito del mundo. Una capital que hizo de su lugar en la boca del canal un eje de banca y comercio, juega vivo vuelto rascacielos, y que le da al país su rostro más moderno: cosmopolita, vertical, abierta y vuelta hacia el mar por el que pasa el mundo.
 
 ## Withheld
 

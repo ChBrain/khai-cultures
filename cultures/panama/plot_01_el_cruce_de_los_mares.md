@@ -26,7 +26,7 @@ A comienzos del siglo dieciséis los pueblos guna y embera viven en el istmo cua
 
 ## Action
 
-En 1513 Balboa cruza el istmo y es el primer europeo en mirar el Pacífico desde estas costas, probando que aquí los dos océanos quedan a un día de camino. La colonia hace enseguida del paso un negocio: traza el Camino Real, la ruta empedrada por la que la plata del Peru cruza a lomo de mula del Pacífico al Caribe, y levanta en la costa atlántica el puerto de Portobelo, cuyas ferias reúnen al comercio de medio mundo. Nace la primera Ciudad de Panamá en el Pacífico, y el istmo queda fundado para siempre como lo que será: el cruce por el que el mundo pasa de un mar al otro, una tierra cuya riqueza es su lugar.
+En 1513 Balboa cruza el istmo y es el primer europeo en mirar el Pacífico desde estas costas, probando que aquí los dos océanos quedan a un día de camino. La colonia hace enseguida del paso un negocio: traza el Camino Real, la ruta empedrada por la que la plata del Peru cruza a lomo de mula del Pacífico al Caribe, y levanta en la costa atlántica el puerto de Portobelo, cuyas ferias reúnen al comercio de medio mundo. Nace la primera Ciudad de Panamá en el Pacífico, y el istmo queda fundado para siempre como lo que será: el cruce por el que el mundo pasa de un mar al otro, el puente del mundo, una tierra cuya riqueza es su lugar.
 
 ## Stage
 
@@ -36,4 +36,4 @@ En 1513 Balboa cruza el istmo y es el primer europeo en mirar el Pacífico desde
 
 ## Tension
 
-El istmo halla en el mismo acto su fortuna y su servidumbre: descubierto como el paso entre los mares, queda marcado para siempre como el lugar por el que el mundo querrá cruzar, pero ese mundo lo cruza desde el primer día para su propio provecho, la plata pasando por una tierra que solo presta el paso. Panamá nace como cruce antes que como nación, dueno de un lugar que todos codician y que rara vez es del todo suyo, y esa será la cuenta que pasará el resto de su historia tratando de cobrar.
+El istmo halla en el mismo acto su fortuna y su servidumbre: descubierto como el paso entre los mares, queda marcado para siempre como el lugar por el que el mundo querrá cruzar, pero ese mundo lo cruza desde el primer día para su propio provecho, la plata pasando por una tierra que solo presta el paso. Panamá nace como cruce antes que como nación, dueno de un lugar que todos codician y que rara vez es del todo suyo, mala leche del que presta el paso y ve pasar la fortuna, y esa será la cuenta que pasará el resto de su historia tratando de cobrar.

@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-Las ruinas de las reducciones jesuítico-guaraníes en el sur del país, sobre todo las de Trinidad y Jesús de Tavarangue, hoy Patrimonio de la Humanidad: muros de piedra roja entre el pasto, iglesias sin techo, plazas y talleres donde vivió una civilización entera. La piedra labrada que guarda lo que fue aquel encuentro de dos mundos, una arquitectura cristiana levantada por manos guaraníes, callada ahora pero intacta en su huella.
+Las ruinas de las reducciones jesuítico-guaraníes en el sur del país, sobre todo las de Trinidad y Jesús de Tavarangue, hoy Patrimonio de la Humanidad, che ra'a: muros de piedra roja entre el pasto, iglesias sin techo, plazas y talleres donde vivió una civilización entera. La piedra labrada que guarda lo que fue aquel encuentro de dos mundos, una arquitectura cristiana levantada por manos guaraníes, callada ahora pero intacta en su huella, anga.
 
 ## Holds
 
@@ -30,8 +30,8 @@ Las ruinas de las reducciones jesuítico-guaraníes en el sur del país, sobre t
 
 ## Offers
 
-Un lugar donde el país toca su raíz más honda y se ve a sí mismo en piedra: la prueba de que aquí se trenzaron de verdad dos mundos, el cristiano y el guaraní, en una forma de vivir sin igual. Ofrece al Paraguay la memoria de lo que lo fundó, el recordatorio de que su lengua y su alma mestiza nacieron de aquel encuentro, y un silencio que habla de una civilización entera.
+Un lugar donde el país toca su raíz más honda y se ve a sí mismo en piedra: la prueba de que aquí se trenzaron de verdad dos mundos, el cristiano y el guaraní, en una forma de vivir sin igual, nio luego. Le ofrece al Paraguay la memoria de lo que lo fundó, el recordatorio de que su lengua y su alma mestiza nacieron de aquel encuentro, y un silencio que habla de una civilización entera, che ra'a.
 
 ## Withheld
 
-La grandeza intacta de lo vivo. Las Misiones se ofrecen ya solo como ruina: la civilización que albergaron se deshizo, y lo que el país visita es su huella en piedra, no su latido. Guardan la advertencia de que lo más hondo puede perderse y quedar solo en memoria, y de que la raíz viva, la lengua, hay que sostenerla en la gente y no solo en las piedras.
+La grandeza intacta de lo vivo. Las Misiones se ofrecen ya solo como ruina, anga: la civilización que albergaron se deshizo, y lo que el país visita es su huella en piedra nomás, no su latido. Guardan la advertencia de que lo más hondo puede perderse y quedar solo en memoria, y de que la raíz viva, la lengua, hay que sostenerla en la gente y no solo en las piedras, che ra'a.

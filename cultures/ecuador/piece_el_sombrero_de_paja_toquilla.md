@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-En la cabeza del campesino de la costa y en la vitrina de las grandes ciudades del mundo: el sombrero finísimo tejido a mano con la fibra de la palma toquilla, blanco y ligero, que el mundo llama por error "sombrero de Panamá" y que es, de raíz a ala, ecuatoriano. Se teje en Montecristi y en Cuenca, hilo a hilo, durante semanas o meses, hasta lograr la trama tan fina que el agua no la pasa.
+En la cabeza del campesino de la costa y en la vitrina de las grandes ciudades del mundo: el sombrerito finísimo tejido a mano con la fibra de la palma toquilla, blanquito y livianito, que el mundo llama por error "sombrero de Panamá" y que es, de raíz a ala, ecuatoriano hasta los huesos. Se teje en Montecristi y en Cuenca, hilito a hilito, durante semanas o mesesitos, hasta lograr la trama tan finita que ni el agua la pasa, vea.
 
 ## Load Bearing
 
-Lleva sobre sí el orgullo de un país pequeño cuyo mejor trabajo se conoce en el mundo con el nombre de otro. Es la prueba de la mano ecuatoriana, de un oficio paciente que viene de antes de la república y que la Unesco reconoció como patrimonio de la humanidad; y es también la herida de la dualidad, el fruto de la costa que tejen manos humildes y luce, lejos, la cabeza del rico. Sin este sombrero, el país perdería la pieza que mejor cuenta a la vez su talento y su vieja injusticia, atada a [la sierra y la costa](position_sierra_y_costa.md) que lo hacen y lo reparten.
+Lleva sobre sí el orgullo de un paisito chiquito cuyo mejor trabajo se conoce en el mundo con el nombre de otro, que chuca. Es la prueba de la manito ecuatoriana, de un oficio pacientito que viene de antes de la república y que la Unesco reconoció como patrimonio de la humanidad; y es también la herida de la dualidad, el fruto de la costa que tejen manos humildes y luce, allá lejos, la cabeza del rico. Sin este sombrerito, el paisito perdería la pieza que mejor cuenta a la vez su talento y su injusticia vieja, atada a [la sierra y la costa](position_sierra_y_costa.md) que lo hacen y lo reparten.
 
 ## Apparent
 
-Un sombrero de paja clara, ligero como una pluma, que se enrolla sin quebrarse y cabe en un puño. En sí mismo es solo fibra de palma trenzada; su peso está entero en las manos que lo tejen, en los meses de trabajo escondidos en su trama, y en el nombre ajeno con que el mundo lo conoce y le borra el origen.
+Un sombrerito de paja clara, livianito como una plumita, que se enrolla sin quebrarse y cabe en un puño. En sí mismito es solo fibra de palma trenzada; su peso está enterito en las manos que lo tejen, en los mesesitos de trabajo escondidos en su trama, y en el nombre ajeno con que el mundo lo conoce y le borra el origen, qué pena.
 
 ## Yearbook
 
-- Tejido a mano con fibra de palma toquilla en Montecristi y en Cuenca desde mucho antes de la república.
-- Llamado "sombrero de Panamá" por el mundo, que lo conoció en el paso del canal y le prestó el nombre del lugar de venta, no del de origen.
-- Reconocido por la Unesco como patrimonio cultural inmaterial de la humanidad, devolviendo al país el crédito de su oficio.
+- Tejido a manito con fibra de palma toquilla en Montecristi y en Cuenca desde mucho antes de la república.
+- Llamado "sombrero de Panamá" por el mundo, que lo conoció en el paso del canal y le prestó el nombre del lugar de venta, no del de origen, que chuca.
+- Reconocido por la Unesco como patrimonio cultural inmaterial de la humanidad, devolviéndole al paisito el crédito de su oficio, de ley.

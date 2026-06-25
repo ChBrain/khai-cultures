@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-El país entero a comienzos de agosto, cuando San Salvador celebra a su patrono, el Divino Salvador del Mundo, que da nombre a la nacion. Las inician la Iglesia y las cofradias con sus procesiones, y se les suman las familias, los barrios y los hermanos lejanos que vuelven a casa para esos dias.
+El país entero a comienzos de agosto, cuando San Salvador celebra a su patrono, el Divino Salvador del Mundo, que le da nombre a la nacion. Las arrancan la Iglesia y las cofradias con sus procesiones, y se les pegan las familias, los barrios y los hermanos lejanos que se vienen para la casa esos dias.
 
 ## Direction
 
-Hacia la fiesta patronal mayor del país: procesiones, el desfile del Correo, juegos, comida y la "bajada" de la imagen del Salvador del Mundo, en que la devocion y el jolgorio se mezclan. No es solo el feriado, es la cita en que la nacion se reune en torno a su santo patrono y se reconoce una, devota y de fiesta a la vez.
+Hacia la fiesta patronal más grande del país: procesiones, el desfile del Correo, juegos, comida y la "bajada" de la imagen del Salvador del Mundo, donde la devocion y el bullicio se mezclan. No es solo el feriado, es la cita en que la nacion se junta en torno a su santo patrono y se reconoce una, creyente y de fiesta a la vez.
 
 ## Lever
 
-Lo mueve la fe sencilla del pueblo y el gusto de juntarse a celebrar, y la vuelta de los que estan lejos, que hacen coincidir el viaje con las fiestas. Lo sostienen la parroquia, la cofradia y la familia; en contra estan la distancia y el bolsillo, que a muchos los dejan celebrando el dia desde fuera.
+Lo mueve la fe sencilla del pueblo y el gusto de juntarse a celebrar, y la vuelta de los que estan lejos, que cuadran el viaje con las fiestas. Lo sostienen la parroquia, la cofradia y la familia; en contra estan la distancia y el bolsillo flaco, que a muchos los dejan celebrando el dia desde afuera.
 
 ## Echo
 
-Las Fiestas Agostinas hacen audible [la tierra y la herida](position_la_tierra_y_la_herida.md) y su consuelo: en la devocion al Salvador del Mundo, el pueblo que carga su herida la lleva con fe, la misma con que Monsenor [Oscar Romero](persona_oscar_romero.md) le habló desde la catedral. En agosto la nacion se junta, dentro y fuera, en torno al santo que le da nombre.
+Las Fiestas Agostinas hacen audible [la tierra y la herida](position_la_tierra_y_la_herida.md) y su consuelo: en la devocion al Salvador del Mundo, el pueblo que carga su herida la lleva con fe, la misma con que Monsenor [Oscar Romero](persona_oscar_romero.md) le habló desde la catedral. En agosto la nacion se junta, aquí y afuera, en torno al santo que le da nombre.

@@ -22,11 +22,11 @@ Parent group: positions
 
 ## Has
 
-La proposición de que Panamá es un crisol, una sociedad de tránsito hecha de todos los que el cruce trajo y mezcló. Por el istmo pasó y se quedó el mundo: los pueblos originarios guna, embera y ngabe que ya estaban; el espanol de la colonia; los africanos esclavizados que dejaron su sangre y su tambor en la costa caribena; los antillanos de habla inglesa que vinieron a cavar el canal; los chinos del ferrocarril, los judíos, los árabes, los hindúes del comercio. De toda esa mezcla salió un panameno que es muchas cosas a la vez, una nación pequena de una pluralidad enorme, un crisol donde el español roza el inglés y el tambor caribeno late bajo la pollera del interior. Es la convicción de que la mezcla no es un accidente del cruce sino su fruto, y la materia misma de lo que Panamá es.
+La proposición de que Panamá es un crisol, una sociedad de tránsito hecha de todos los que el cruce trajo y mezcló. Por el istmo pasó y se quedó el mundo: los pueblos originarios guna, embera y ngabe que ya estaban; el espanol de la colonia; los africanos esclavizados que dejaron su sangre y su tambor en la costa caribena; los antillanos de habla inglesa que vinieron a cavar el canal; los chinos del ferrocarril, los judíos, los árabes, los hindúes del comercio. De toda esa mezcla salió un panameño que es muchas cosas a la vez, una nación pequena de una pluralidad enorme, un crisol donde el español del istmo roza el inglés del canal, donde el de afuera se vuelve fren, y el tambor caribeno de raíz africana late bajo la pollera del interior. Es la convicción de que la mezcla no es un accidente del cruce sino su fruto, su buena leche, y la materia misma de lo que Panamá es.
 
 ## Orders
 
-Que a Panamá la define su pluralidad y no una sola raíz, que ser panameno es caber muchos orígenes en un solo país; que el crisol es la riqueza del istmo y no su debilidad, la prueba de que un pueblo de cruce puede recibir al mundo y hacerlo suyo; y que la tarea es sostener esa pluralidad entera, tejiendo a la ciudad cosmopolita con el interior de la pollera, al antillano del canal con el guna de su comarca, sin que ninguno quede al margen.
+Que a Panamá la define su pluralidad y no una sola raíz, que ser panameño es caber muchos orígenes en un solo país; que el crisol es la riqueza del istmo y no su debilidad, la prueba de que un pueblo de cruce puede recibir al mundo y hacerlo suyo; y que la tarea es sostener esa pluralidad entera, tejiendo a la ciudad cosmopolita con el interior de la pollera, al antillano del canal con el guna de su comarca, sin que ninguno quede al margen.
 
 ## Loses
 

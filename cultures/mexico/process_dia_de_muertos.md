@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Toda familia con un muerto que recordar: una casa que arma la ofrenda en las primeras noches de noviembre, disponiendo las flores de cempasúchil cuyo aroma, se dice, guía a los muertos de vuelta a casa, las fotografías, las veladoras, el pan de muerto, la comida y la bebida favoritas del que se ha ido. El cempasúchil se tiende en senderos hacia la puerta, se colocan las calaveritas de azúcar, y la familia se reúne -a menudo en la tumba misma, durante toda la noche- para dar la bienvenida a los muertos de regreso entre los vivos por una noche.
+Toda familia con un difunto que recordar: una casa que arma la ofrenda en las primeras noches de noviembre, acomodando las flores de cempasúchil cuyo olor, dicen, les enseña a los muertos el camino de regreso a casa, las fotos, las veladoras, el pan de muerto, la comida y la bebida que más le gustaban al que se fue. El cempasúchil se va regando en caminitos hacia la puerta, se ponen las calaveritas de azúcar, y la familia se junta -muchas veces en la mera tumba, toda la noche- para darles la bienvenida a los muertos de vuelta entre los vivos por una noche.
 
 ## Direction
 
-Hacia un encuentro con la muerte que no es ni negación ni espanto sino reencuentro: a los muertos no se les llora hasta despedirlos, sino que se les invita a casa, se les alimenta, se bromea con ellos, se les hace compañía. Es la célebre intimidad de la nación con la muerte vuelta rito, la calavera de la que se ríe y la pérdida convertida en fiesta: la muerte no como el final de la familia sino como un miembro de ella que viene una vez al año a la mesa. Es el duelo vuelto hospitalidad.
+Hacia un encuentro con la muerte que no es ni negarla ni tenerle miedo sino volverse a ver: a los muertos no se les llora hasta despedirlos, sino que se les invita a casa, se les da de comer, se les echa la talla, se les hace compañía. Es esa famosa confianza del país con la muerte vuelta rito, la calaca de la que uno se ríe y la pérdida vuelta fiesta: la muerte no como el final de la familia sino como un miembro de ella que viene una vez al año a la mesa. Es el duelo vuelto pura hospitalidad.
 
 ## Lever
 
-Lo impulsa el hondo rechazo mexicano a mantener la muerte a distancia, y una fe en la que la línea entre los vivos y los muertos es porosa y se cruza con bienvenida. Se sostiene contra el miedo que encerraría a los muertos y contra la solemnidad importada que prohibiría la broma; lo que obra en su contra es la tentación de vender el rito como un disfraz y olvidar la tumba bajo el cempasúchil.
+Lo mueve esa terquedad mexicana de no querer tener a la muerte a raya, y una fe en la que la línea entre los vivos y los muertos es porosa y se cruza con gusto. Se sostiene contra el miedo que querría encerrar a los muertos y contra la solemnidad de importación que prohibiría el chiste; lo que le juega en contra es la tentación de vender el rito como puro disfraz y olvidar la tumba debajo del cempasúchil.
 
 ## Echo
 
-El Día de Muertos vuelve audible lo que recorre el [mestizaje](position_el_mestizaje.md): la fusión de una reverencia indígena por los muertos con la fiesta católica de los Fieles Difuntos, la pirámide y la catedral encontradas en el altar familiar. Es el rito donde [el mestizo](persona_el_mestizo.md) guarda fidelidad a ambas mitades a la vez, alimentando a los muertos en la temporada de la Iglesia conforme al designio de un mundo más antiguo.
+El Día de Muertos vuelve audible lo que corre por el [mestizaje](position_el_mestizaje.md): la mezcla de una reverencia indígena por los muertos con la fiesta católica de los Fieles Difuntos, la pirámide y la catedral juntándose en el altar de la casa. Es el rito donde [el mestizo](persona_el_mestizo.md) le guarda fidelidad a las dos mitades al mismo tiempo, dándoles de comer a los muertos en la temporada de la Iglesia pero al modo de un mundo más viejo.

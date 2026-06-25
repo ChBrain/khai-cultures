@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Cualquiera que, en el calor del día, prepara la guampa con yerba y la jarra de agua fría con yuyos, y arma la ronda. No hace falta más que la yerba, el agua bien fría, la bombilla y gente con quien compartir; en la oficina, en la vereda o bajo el árbol, alguien ceba y la ronda empieza.
+Cualquiera que, en el calor del día, prepara la guampa con yerba y la jarra de agua bien fría con yuyos, y arma la ronda. "Vení-na, sentate," te dice, y no hace falta más que la yerba, el agua bien fría, la bombilla y gente con quien compartir; en la oficina, en la vereda o bajo el árbol, alguien ceba y la ronda empieza, che ra'a.
 
 ## Direction
 
-Hacia el rato compartido que no tiene reloj: el tereré se pasa de mano en mano, cada uno toma de la misma bombilla y se la devuelve al que ceba, y entre trago y trago se conversa, en jopara, mezclando el español y el guaraní sin pensarlo. No es la bebida, es el círculo: el tiempo regalado a estar juntos, el frío que alivia el calor y la palabra que une.
+Hacia el rato compartido que no tiene reloj: el tereré se pasa de mano en mano, cada uno toma de la misma bombilla y se la devuelve al que ceba con un "aguyje," y entre trago y trago se conversa, en jopara, mezclando el español y el guaraní sin pensarlo, nio luego. No es la bebida, es el círculo: el tiempo regalado a estar juntos, el frío que alivia el calor y la palabra que une, che ra'a.
 
 ## Lever
 
-Lo mueve el calor del país y el gusto de compartir sin prisa, y una guampa que pasa de mano en mano sin que nadie quede afuera. En contra solo está el apuro y la soledad, y a esas la ronda del tereré las deja fuera del círculo; mientras haya agua fría y alguien con quien hablar, la ronda sigue.
+Lo mueve el calor del país y el gusto de compartir sin apuro, y una guampa que pasa de mano en mano sin que nadie quede afuera, anga. En contra solo está la prisa y la soledad, y a esas la ronda del tereré las deja fuera del círculo; mientras haya agua fría y alguien con quien hablar, la ronda sigue, nio luego.
 
 ## Echo
 
-El tereré hace audible [la lengua guaraní](position_la_lengua_guarani.md) en el simple hecho de pasar la guampa y hablar en jopara: en la ronda, las dos lenguas del país se mezclan sin esfuerzo. Quien ceba para los demás cuida a los suyos sin decirlo, igual que [la residenta](persona_la_residenta.md) sostuvo a la familia y a la lengua del corazón en el rato compartido de cada día.
+El tereré hace audible [la lengua guaraní](position_la_lengua_guarani.md) en el simple hecho de pasar la guampa y hablar en jopara: en la ronda, las dos lenguas del país se mezclan sin esfuerzo, che ra'a. Quien ceba para los demás cuida a los suyos sin decirlo, igual que [la residenta](persona_la_residenta.md) anga sostuvo a la familia y a la lengua del corazón en el rato compartido de cada día.

@@ -22,17 +22,17 @@ stamp:
 
 ## Cue
 
-A comienzos del siglo XIX el Alto Perú arde en guerra de independencia, una de las más largas del continente. En sus valles y montañas, las guerrillas hostigan al poder colonial durante años, y entre quienes las dirigen está [Juana Azurduy](persona_juana_azurduy.md), que toma las armas y manda en el campo.
+A comienzos del siglo XIX el Alto Perú arde en guerra de independencia, una de las más largas del continente. En sus valles y cerros, las guerrillas hostigan al poder colonial durante años, y entre los que las dirigen está [Juana Azurduy](persona_juana_azurduy.md), que toma las armas y manda en el campo pues.
 
 ## Action
 
-En 1825, tras largos años de lucha, nace la República, que toma el nombre de Bolívar y se llama Bolivia. Pero la joven república hereda divisiones hondas y un Estado frágil, y medio siglo después, en la Guerra del Pacífico, pierde su salida al mar y queda mediterránea. La nación que nació libre queda así sin costa, con una herida y un reclamo marítimo que no han cesado desde entonces.
+El 25, tras largos años de lucha, nace la República, que toma el nombre de Bolívar y se llama Bolivia. Pero la joven república hereda divisiones hondas y un Estado frágil, y medio siglo después, en la Guerra del Pacífico, pierde su salida al mar y queda mediterránea. La nación que nació libre queda así sin costa, con una herida y un reclamo marítimo que desde entonces no aflojan nomás.
 
 ## Stage
 
-- [Juana Azurduy](persona_juana_azurduy.md): la heroína mestiza que combate por la libertad del Alto Perú.
+- [Juana Azurduy](persona_juana_azurduy.md): la heroína mestiza que combate por la libertad del Alto Perú nomás.
 - [el mar perdido](position_el_mar_perdido.md): la costa que la guerra arrebata y el reclamo del mar que perdura.
 
 ## Tension
 
-La república llega tras una guerra que pelearon muchos, indios y mestizos entre ellos, y nombra a pocos; nace libre y pronto pierde el mar, ganando una patria y una herida a la vez. La distancia entre la promesa de la independencia y la realidad de un país frágil y encerrado queda abierta desde el primer día, y será parte de lo que el país deba cerrar.
+La república llega tras una guerra que pelearon hartos, indios y mestizos entre ellos, y nombra a poquitos; nace libre y pronto pierde el mar, ganando una patria y una herida a la vez. La distancia entre la promesa de la independencia y la realidad de un país frágil y encerrado queda abierta desde el primer día nomás, y será parte de lo que el país deba cerrar pues.

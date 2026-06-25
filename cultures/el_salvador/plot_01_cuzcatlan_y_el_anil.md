@@ -22,17 +22,17 @@ stamp:
 
 ## Cue
 
-Antes de la conquista florece Cuzcatlan, "la tierra de las joyas", el señorío de los pipiles de lengua nahuat sobre los volcanes del Pacifico. Llegan entonces la espada de Castilla y la cruz, y con la colonia se asienta sobre la tierra el cultivo del añil, el oro azul que tine de riqueza a unos pocos y de trabajo forzado a los de abajo.
+Antes de la conquista florece Cuzcatlan, "la tierra de las joyas", el señorío de los pipiles de lengua nahuat sobre los volcanes del Pacifico. Llegan entonces la espada de Castilla y la cruz, y con la colonia se planta sobre la tierra el cultivo del añil, el oro azul que tine de riqueza a unos pocos y de trabajo forzado a los de abajo.
 
 ## Action
 
-La conquista somete a los pipiles, pero no borra del todo su lengua ni su raíz. Durante la colonia, el añil hace de la provincia una tierra de haciendas y de mano de obra indígena y mestiza, con la riqueza en pocas manos y la carga sobre muchas. En 1833, ya en la republica, [Anastasio Aquino](persona_anastasio_aquino.md) encabeza en los Nonualcos un alzamiento indígena contra los tributos y los abusos que aplastan a su gente: una rebelion que arde un tiempo y es sofocada, pero que deja escrita en la historia la voz de Cuzcatlan que no se resigna.
+La conquista somete a los pipiles, pero no borra del todo su lengua ni su raíz. Durante la colonia, el añil hace de la provincia una tierra de haciendas y de mano de obra indígena y mestiza, con el pisto en pocas manos y la carga sobre muchas. En 1833, ya en la republica, [Anastasio Aquino](persona_anastasio_aquino.md) encabeza en los Nonualcos un alzamiento indígena contra los tributos y los atropellos que tienen aplastada a su gente: una rebelion que arde un tiempo y la sofocan, pero que deja escrita en la historia la voz de Cuzcatlan que no se resigna.
 
 ## Stage
 
-- [Anastasio Aquino](persona_anastasio_aquino.md): el líder nonualco que se alza por los suyos contra el orden que los oprime.
-- [lo pipil](position_lo_pipil.md): la raíz indígena de Cuzcatlan, viva bajo la colonia y el castellano.
+- [Anastasio Aquino](persona_anastasio_aquino.md): el líder nonualco que se alza por los suyos contra el orden que los tiene aplastados.
+- [lo pipil](position_lo_pipil.md): la raíz indígena de Cuzcatlan, viva por debajo de la colonia y el castellano.
 
 ## Tension
 
-La tierra de las joyas queda sometida y puesta a producir el oro azul para otros, y su gente, despojada, aprende que la riqueza de la colonia se levanta sobre su trabajo. El alzamiento de Aquino se apaga, pero deja abierta la pregunta que recorrera toda la historia del país: si los de abajo, los herederos de Cuzcatlan, contaran algún día en la tierra que trabajan.
+La tierra de las joyas queda sometida y puesta a producir el oro azul para otros, y su gente, despojada, aprende que el pisto de la colonia se levanta sobre su trabajo. El alzamiento de Aquino se apaga, pero deja abierta la pregunta que va a recorrer toda la historia del país: si los de abajo, los herederos de Cuzcatlan, van a contar algún día en la tierra que trabajan.

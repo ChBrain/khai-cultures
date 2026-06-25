@@ -22,11 +22,11 @@ Parent group: pieces
 
 ## Place
 
-Rodando por el Malecón y por las calles de toda la isla, parado en la esquina haciendo de taxi colectivo: el almendrón, el carro americano de los años cincuenta que en Cuba lleva más de medio siglo en marcha. Chevrolet, Ford y Buick de cromados y aletas, pintados de colores vivos, que en cualquier otro país serían piezas de museo y aquí siguen siendo transporte de cada día.
+Rodando por el Malecón y por las calles de toda la isla, parado en la esquina haciendo de taxi colectivo, casi una guagua que va llenando: el almendrón, el carro americano de los años cincuenta que en Cuba lleva más de medio siglo en marcha. Chevrolet, Ford y Buick de cromados y aletas, pintados de colores vivos, que en cualquier otro país serían piezas de museo y aquí, asere, siguen siendo el transporte de cada día.
 
 ## Load Bearing
 
-Sostiene la imagen del ingenio cubano, el arte de resolver hecho chapa y motor. Cuando dejaron de llegar piezas, los mecánicos de la isla mantuvieron vivos estos carros a fuerza de invención: motores de otra marca, piezas fabricadas a mano, soluciones que no figuran en ningún manual. El almendrón es el monumento rodante a ese ingenio, y a la vez una postal del tiempo detenido, la isla quedada en una década que para el resto del mundo ya pasó. Sin estos carros, Cuba perdería su emblema más visible de cómo se aguanta y se inventa cuando no llega lo que hace falta.
+Sostiene la imagen del ingenio cubano, el arte de resolver y de inventar hecho chapa y motor. Cuando dejaron de llegar piezas, los mecánicos de la isla mantuvieron vivos estos carros a pura inventiva: motores de otra marca, piezas fabricadas a mano, soluciones que no figuran en ningún manual, puro invento. El almendrón es el monumento rodante a ese ingenio, y a la vez una postal del tiempo detenido, la isla quedada en una década que para el resto del mundo ya pasó. Sin estos carros, Cuba perdería su emblema más visible de cómo se aguanta y se inventa cuando no llega lo que hace falta.
 
 ## Apparent
 

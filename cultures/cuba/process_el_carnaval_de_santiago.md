@@ -26,11 +26,11 @@ La ciudad oriental entera cuando llega su fecha, en pleno verano: no lo convoca 
 
 ## Direction
 
-Hacia la gran fiesta callejera del oriente, vivida hacia fuera y entre todos: las comparsas que desfilan, la conga que arrastra a la multitud detrás del tambor, los farolas, los disfraces y la noche larga. No es diversión privada sino celebración de barrio y de ciudad, donde Santiago afirma a la vez su orgullo caribeño y su raíz africana, y donde la calle pertenece, por unos días, a todos.
+Hacia la gran fiesta callejera del oriente, vivida hacia fuera y entre todos: las comparsas que desfilan, la conga que arrastra a la multitud detrás del tambor, dale que dale, los farolas, los disfraces y la noche larga. No es diversión privada sino celebración de barrio y de ciudad, donde Santiago afirma a la vez su orgullo caribeño y su raíz africana, y donde la calle pertenece, por unos días, a todos, a gozar sin parar.
 
 ## Lever
 
-Lo mueve el gusto de celebrar juntos y la honda herencia afrocubana del oriente, y lo sostiene la conga, el tambor que arrastra a la ciudad detrás de sí. En contra está solo la dureza del año, que el carnaval interrumpe para que el pueblo se recuerde a sí mismo bailando.
+Lo mueve el gusto de celebrar juntos y la honda herencia afrocubana del oriente, y lo sostiene la conga, el tambor que arrastra a la ciudad detrás de sí. En contra está solo la dureza del año, que el carnaval interrumpe para que el pueblo, aunque la cosa esté en candela, se recuerde a sí mismo bailando.
 
 ## Echo
 

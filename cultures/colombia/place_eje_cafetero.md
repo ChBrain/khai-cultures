@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-El corazón verde de los Andes colombianos, el racimo de departamentos donde el café trepa por las empinadas laderas volcánicas en hileras prolijas de hojas oscuras y cerezas rojas: el paisaje cultural cafetero que el mundo reconoce, un país de pequeñas fincas familiares, casas de balcones pintadas de colores vivos, las altas palmas de cera del valle del Cocora, y los jeeps que bajan la cosecha por la montaña. La tierra media, fértil y entre brumas, entre las cordilleras, la patria del paisa, y la sala de máquinas del nombre de la nación en el exterior.
+El corazón verde de los Andes colombianos, el racimo de departamentos donde el café se le trepa por las empinadas laderas volcánicas en hileras prolijas de hojas oscuras y cerezas rojas: el paisaje cultural cafetero que el mundo reconoce, un país de pequeñas fincas familiares, casitas de balcones pintadas de colores bien vivos, las altas palmas de cera del valle del Cocora, y los willys que le bajan la cosecha por la montaña. La tierra media, fértil y entre brumas, entre las cordilleras, la tierra del paisa, gente trabajadora y echada para adelante, y la sala de máquinas del nombre de la nación en el exterior.
 
 ## Holds
 
@@ -31,8 +31,8 @@ El corazón verde de los Andes colombianos, el racimo de departamentos donde el 
 
 ## Offers
 
-Un lugar donde la Colombia paciente, productiva y fiel se ve a las claras: el país no de los titulares sino de las cosechas, de la finca familiar y la taza compartida y la labor lenta de la ladera, y donde la resiliencia de la nación se cultiva literalmente en la tierra, un arbusto cuidado con esmero a la vez, el mundo campesino de mente maravillada que alimenta al país y le da nombre en el exterior.
+Un lugar donde la Colombia paciente, productiva y fiel se le ve a uno a las claras: el país no de los titulares sino de las cosechas, de la finca familiar y la taza compartida y la labor lenta de la ladera, y donde la resiliencia de la nación se cultiva literalmente en la tierra, una matica cuidada con esmero a la vez, el mundo campesino de mente maravillada que le da de comer al país y le da nombre en el exterior.
 
 ## Withheld
 
-La inocencia de la postal. El Eje Cafetero lleva la penuria bajo su belleza: el largo conflicto que cruzó sus lomas, la pobreza y el abandono de un campo que cultiva la riqueza de la nación y se queda con poco de ella, y la dependencia de un solo cultivo y de un precio fijado muy lejos, recordándole al país que las laderas verdes que pone en sus calendarios las trabaja gente a la que olvida con demasiada facilidad.
+La inocencia de la postalita. El Eje Cafetero lleva la penuria por debajo de su belleza: el largo conflicto que le cruzó las lomas, la pobreza y el abandono de un campo que cultiva la riqueza de la nación y se queda con poquito de ella, y la dependencia de un solo cultivo y de un precio que fijan muy lejos, recordándole al país que esas laderas verdes que pone en sus calendarios se las trabaja gente a la que olvida con demasiada facilidad.

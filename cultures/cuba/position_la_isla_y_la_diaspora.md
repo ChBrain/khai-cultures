@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La condición de un pueblo partido en dos por el mar. Tras 1959 una gran diáspora cruzó el estrecho y echó raíces en otras orillas, sobre todo en la Florida, y desde entonces casi no hay familia cubana entera: en cada casa hay una silla vacía y un nombre que vive lejos. Es la isla y son los que se fueron, las dos mitades de una misma nación que se hablan por teléfono, se mandan remesas y se reconocen en la misma música, separadas por noventa millas de agua y por una historia que no acaba de cerrarse. Y bajo la separación late el ingenio del que se queda: el arte de resolver, de inventar lo que no hay y aguantar con lo que se tiene.
+La condición de un pueblo partido en dos por el mar. Tras 1959 una gran diáspora cruzó el estrecho y echó raíces en otras orillas, sobre todo en la Florida, y desde entonces casi no hay familia cubana entera: en cada casa hay una silla vacía y un nombre que vive lejos. Es la isla y son los que cogieron camino, las dos mitades de una misma nación que se hablan por teléfono, se mandan remesas y se reconocen en la misma música, separadas por noventa millas de agua y por una historia que no acaba de cerrarse. Y bajo la separación late el ingenio del que se queda: el arte de resolver, el invento, de fabricar lo que no hay y aguantar con lo que se tiene.
 
 ## Orders
 

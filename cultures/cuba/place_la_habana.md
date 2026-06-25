@@ -31,8 +31,8 @@ La capital de la isla, abierta al mar por el Malecón, ese largo muro contra el 
 
 ## Offers
 
-Un lugar donde la isla se mira a sí misma: la plaza donde se proclama, el Malecón donde se despide y se espera, el puerto por el que se llega y del que se parte. Es la cara que Cuba muestra al mundo y el escenario de su historia, la ciudad donde el ron, la música y la conversación no se detienen ni en los años más duros.
+Un lugar donde la isla se mira a sí misma: la plaza donde se proclama, el Malecón donde se despide y se espera, el puerto por el que se llega y del que se parte. Es la cara que Cuba le muestra al mundo y el escenario de su historia, la ciudad donde el ron, la música, el dominó en la esquina y la conversación no se detienen ni en los años más en candela.
 
 ## Withheld
 
-La inocencia del esplendor sin desgaste. La Habana guarda la distancia entre la belleza de su piedra y la dureza de la vida en ella, entre el palacio colonial y el edificio apuntalado, entre la ciudad que fue llave de un imperio y la que aprende a resolver con lo que hay. El Malecón mira hacia el norte, hacia las noventa millas que la separan de la otra orilla, y recuerda que de este muro partieron muchos de los que no han vuelto.
+La inocencia del esplendor sin desgaste. La Habana guarda la distancia entre la belleza de su piedra y la dureza de la vida en ella, entre el palacio colonial y el edificio apuntalado, entre la ciudad que fue llave de un imperio y la que aprende a resolver con lo que aparezca, a punta de invento. El Malecón mira hacia el norte, hacia las noventa millas que la separan de la otra orilla, y recuerda que de este muro cogieron camino muchos de los que no han vuelto.

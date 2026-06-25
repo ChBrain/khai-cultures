@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Liado a mano sobre la tabla del torcedor, guardado en su cajón de cedro, encendido despacio en el portal o en la esquina: el habano, el puro de hoja cubana, la pieza que la isla envía al mundo como su firma. Nace de la hoja de la Vuelta Abajo, en el occidente de Pinar del Río, la mejor tierra de tabaco que se conoce.
+Liado a mano sobre la tabla del torcedor, guardado en su cajón de cedro, encendido despacio en el portal o en la esquina mientras se echa el cuento: el habano, el puro de hoja cubana, la pieza que la isla le manda al mundo como su firma. Nace de la hoja de la Vuelta Abajo, en el occidente de Pinar del Río, la mejor tierra de tabaco que se conoce, sembrada por las manos del guajiro.
 
 ## Load Bearing
 
@@ -30,7 +30,7 @@ Sostiene la fama de la isla y, con ella, el orgullo de un trabajo que no admite 
 
 ## Apparent
 
-Un rollo de hojas de tabaco curadas, oscuras y aromáticas, liadas a mano en una capa entera y cortado a medida. En sí mismo no es más que hoja seca y enrollada; su peso está todo en la tierra que lo dio, en las manos que lo torcieron y en el rito de encenderlo y fumarlo sin prisa, para acompañar la charla.
+Un rollo de hojas de tabaco curadas, oscuras y aromáticas, liadas a mano en una capa entera y cortado a medida. En sí mismo no es más que hoja seca y enrollada; su peso está todo en la tierra que lo dio, en las manos que lo torcieron y en el rito de encenderlo y fumarlo sin prisa ninguna, para acompañar la conversadera y el cuento.
 
 ## Yearbook
 
