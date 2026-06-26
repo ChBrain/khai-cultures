@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures",
-  "version": "0.168.0",
+  "version": "0.169.0",
   "description": "khai cultures: the Cultures content house. Cultures modelled with khai; sources are credited where they are in the public domain.",
   "type": "module",
   "exports": {
@@ -51,7 +51,8 @@
       "mfe",
       "ss",
       "st",
-      "tn"
+      "tn",
+      "pt"
     ],
     "card": {
       "wire": "The Cultures house: a collection of khai cultures."
