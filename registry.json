@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.172.0",
+  "version": "0.173.0",
   "cultures": [
     {
       "kind": "culture",
@@ -709,6 +709,13 @@
       "title": "Myanmar",
       "description": "Myanmar staged as a culture: a golden land of pagodas, river, and merit, one union of many peoples.",
       "iso": "MM"
+    },
+    {
+      "kind": "culture",
+      "id": "namibia",
+      "title": "Namibia",
+      "description": "Namibia staged as a culture: the oldest desert, many peoples held in one dignity, a land that keeps its wild.",
+      "iso": "NA"
     },
     {
       "kind": "culture",
