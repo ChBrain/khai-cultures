@@ -1,5 +1,0 @@
----
-"@chbrain/khai-cultures": patch
----
-
-Revise five more cultures into their authentic national varieties: Austria (restore the eszett ss that the culture wrongly wrote in the Swiss convention; Austrian Standard German uses gross as grosse->grosse... i.e. grosse->grosze where a long vowel requires it, plus the Austrian lexicon kept), Belgium (Belgian French: septante and nonante, la drache nationale, un kot, une fois, chicon, abbey beers, the zwanze performed; the Dutch-language personas left as-is), Brazil (Brazilian Portuguese cadence: the progressive gerund vai virando / foi se modernizando replacing the European esta a fazer, voce/a gente register, everyday BP lexicon), Suriname (Surinaams-Nederlands with tasteful Sranan Tongo woven into a Dutch matrix: fa waka, a no span, switi, sma, the multi-ethnic nation made oral), and Afghanistan (Dari/Kabuli Persian diction distinct from Iranian Persian: watan, qafila, kalan, famidan, gap zadan, the warmer Khorasani cadence). Content-only revisions; no change to the culture count.

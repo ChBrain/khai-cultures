@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.158.0",
+  "version": "0.159.0",
   "cultures": [
     {
       "kind": "culture",
@@ -877,6 +877,13 @@
       "title": "Serbia",
       "description": "Serbia staged as a culture: an Orthodox nation of defiant inat, marked by the Kosovo covenant and loss.",
       "iso": "RS"
+    },
+    {
+      "kind": "culture",
+      "id": "sierra_leone",
+      "title": "Sierra Leone",
+      "description": "Salone staged as a culture: a home for returned Africans, green mountains, and warm Krio hospitality.",
+      "iso": "SL"
     },
     {
       "kind": "culture",
