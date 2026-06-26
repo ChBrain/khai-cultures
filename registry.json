@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.169.0",
+  "version": "0.170.0",
   "cultures": [
     {
       "kind": "culture",
@@ -1185,6 +1185,13 @@
       "title": "Yemen",
       "description": "Yemen staged as a culture: Arabia Felix, home of Sheba, the incense road, and the world's first coffee.",
       "iso": "YE"
+    },
+    {
+      "kind": "culture",
+      "id": "zambia",
+      "title": "Zambia",
+      "description": "Seventy peoples bound as one nation in equal dignity, kept in peace beside the mighty Zambezi.",
+      "iso": "ZM"
     }
   ],
   "groups": [
