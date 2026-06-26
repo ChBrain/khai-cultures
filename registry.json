@@ -187,6 +187,13 @@
     },
     {
       "kind": "culture",
+      "id": "cameroon",
+      "title": "Cameroon",
+      "description": "Cameroon staged as a culture: Africa in miniature, two tongues and a hundred peoples held as one.",
+      "iso": "CM"
+    },
+    {
+      "kind": "culture",
       "id": "canada",
       "title": "Canada",
       "description": "Canada staged as a culture: a bilingual federation of two peoples and a mosaic, reckoning with its founding wrong.",
