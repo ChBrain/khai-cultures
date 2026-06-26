@@ -579,6 +579,13 @@
     },
     {
       "kind": "culture",
+      "id": "lesotho",
+      "title": "Lesotho",
+      "description": "Lesotho staged as a culture: the Mountain Kingdom in the sky, gathered by Moshoeshoe and held by the blanket.",
+      "iso": "LS"
+    },
+    {
+      "kind": "culture",
       "id": "libya",
       "title": "Libya",
       "description": "Libya staged as a culture: a great desert nation between the sea and the deep Sahara, ancient and hospitable.",
