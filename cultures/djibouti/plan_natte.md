@@ -1,0 +1,46 @@
+---
+khai: plan
+title: "the Mat of the Two Peoples"
+declared: "la natte des deux peuples"
+language: fr
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-24"
+status: active
+---
+
+# Plan: la natte des deux peuples
+
+## Taxonomy
+
+Le mandat que le pays neuf s'est donne en prenant son nom: tenir [la rencontre des deux peuples](position_deux_peuples.md) a egalite sur la meme natte, vivre du [carrefour](position_carrefour.md) sans s'y perdre, et garder dans le coeur, au seuil meme du monde qui court, la patience et l'hospitalite de [le nomadisme pastoral](position_nomadisme.md).
+
+## Owner
+
+- Project: khai-cultures
+
+## Direction
+
+Tenir les deux peuples, Issas et Afars, a egalite et en paix, sans que l'un l'emporte sur l'autre; faire que la richesse du seuil descende jusqu'a la natte, pour que le carrefour nourrisse les siens et non seulement le transit; garder les langues de la maison, le somali et l'afar, vivantes a cote du francais et de l'arabe; et tenir, dans un pays de feu et sans pluie, la dignite, la patience et l'hospitalite heritees du nomade.
+
+## Orders
+
+- A l'hote du carrefour comme [Aidarous](persona_aidarous.md): garder la ville ouverte au monde sans qu'elle cesse d'etre la maison egale des deux peuples.
+- A l'homme de la piste comme [le caravanier du sel](persona_caravanier.md): tenir vivante la memoire du desert, des puits et du poeme, quand la route goudronnee gagne sur la piste.
+- Au pays: tenir les deux peuples assis ensemble sur la meme natte, et ne jamais laisser le carrefour qui le nourrit le diviser ni l'user.
+
+## Implementation
+
+Un petit pays jeune, pauvre en pluie et riche en seuil, qui a su se donner un nom, un drapeau aux couleurs des deux peuples et une paix entre eux, et qui a fait de sa position au mouillage du monde une grandeur sans rapport avec sa taille. Reste ouverte la tache de tenir cette paix a egalite, de faire descendre la richesse du seuil jusqu'a la natte, et de garder, au coeur d'une ville cosmopolite et d'un monde qui court, les langues de la maison et la patience du nomade.
+
+## Targets
+
+- [x] Le pays accede a lui-meme et se donne un drapeau aux couleurs des deux peuples.
+- [x] Le francais et l'arabe pour langues officielles, le somali et l'afar gardes comme langues de la maison.
+- [x] Le grand port et le carrefour font de la position une grandeur sans rapport avec la taille.
+- [W] Tenir les deux peuples a egalite sur la meme natte, sans que l'un l'emporte sur l'autre.
+- [W] Faire descendre la richesse du seuil jusqu'a la natte, pour que le carrefour nourrisse les siens.
+- [ ] Garder les langues de la maison vivantes a cote des langues officielles.
+- [ ] Tenir la patience, l'hospitalite et le poeme du nomade au seuil du monde qui court.
