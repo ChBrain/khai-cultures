@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.184.0",
+  "version": "0.185.0",
   "cultures": [
     {
       "kind": "culture",
@@ -317,6 +317,13 @@
       "title": "Dominican Republic",
       "description": "La cuna del Nuevo Mundo: memoria, una isla compartida y un pueblo de ritmo y resiliencia.",
       "iso": "DO"
+    },
+    {
+      "kind": "culture",
+      "id": "dr_congo",
+      "title": "Democratic Republic of the Congo",
+      "description": "A subcontinent of a country, joined by its river and its music: Kinshasa la belle and the rumba.",
+      "iso": "CD"
     },
     {
       "kind": "culture",
