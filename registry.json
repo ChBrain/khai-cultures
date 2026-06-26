@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.174.0",
+  "version": "0.175.0",
   "cultures": [
     {
       "kind": "culture",
@@ -338,6 +338,13 @@
       "title": "Equatorial Guinea",
       "description": "Africa's only Spanish-speaking nation, an island and a mainland bound into one across the Atlantic.",
       "iso": "GQ"
+    },
+    {
+      "kind": "culture",
+      "id": "eritrea",
+      "title": "Eritrea",
+      "description": "Eritrea staged as a culture: nine peoples and two faiths, held as one by hard-won self-reliance.",
+      "iso": "ER"
     },
     {
       "kind": "culture",
