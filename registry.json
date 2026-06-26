@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.173.0",
+  "version": "0.174.0",
   "cultures": [
     {
       "kind": "culture",
@@ -996,6 +996,13 @@
       "title": "Solomon Islands",
       "description": "Solomon Aelan: planti aelan, planti tok ples, wanfala wantok.",
       "iso": "SB"
+    },
+    {
+      "kind": "culture",
+      "id": "south_africa",
+      "title": "South Africa",
+      "description": "A rainbow nation of many peoples who chose to forgive and build one home together.",
+      "iso": "ZA"
     },
     {
       "kind": "culture",
