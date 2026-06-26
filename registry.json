@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.157.0",
+  "version": "0.158.0",
   "cultures": [
     {
       "kind": "culture",
@@ -114,6 +114,13 @@
       "title": "Belize",
       "description": "A small, late-born, English-speaking nation holding its many peoples as one between forest and reef.",
       "iso": "BZ"
+    },
+    {
+      "kind": "culture",
+      "id": "benin",
+      "title": "Benin",
+      "description": "Benin staged as a culture: berceau du Vodun et heritier d'Abomey, un pays qui se souvient debout.",
+      "iso": "BJ"
     },
     {
       "kind": "culture",
