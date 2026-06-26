@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.192.0",
+  "version": "0.193.0",
   "cultures": [
     {
       "kind": "culture",
@@ -1052,6 +1052,13 @@
       "title": "Serbia",
       "description": "Serbia staged as a culture: an Orthodox nation of defiant inat, marked by the Kosovo covenant and loss.",
       "iso": "RS"
+    },
+    {
+      "kind": "culture",
+      "id": "seychelles",
+      "title": "Seychelles",
+      "description": "A Creole nation woven from many peoples on the oldest ocean islands, one Seselwa people and tongue.",
+      "iso": "SC"
     },
     {
       "kind": "culture",
