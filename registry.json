@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.159.0",
+  "version": "0.160.0",
   "cultures": [
     {
       "kind": "culture",
@@ -842,6 +842,13 @@
       "title": "Samoa",
       "description": "Samoa o le fatu o Polenisia, o le faaSamoa ma le aiga e tausi i le lalolagi fou.",
       "iso": "WS"
+    },
+    {
+      "kind": "culture",
+      "id": "sao_tome_principe",
+      "title": "Sao Tome and Principe",
+      "description": "Two equatorial islands of cocoa and forest, a creole nation born of the roca.",
+      "iso": "ST"
     },
     {
       "kind": "culture",
