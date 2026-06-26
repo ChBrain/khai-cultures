@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.160.0",
+  "version": "0.161.0",
   "cultures": [
     {
       "kind": "culture",
@@ -23,6 +23,13 @@
       "title": "Algeria",
       "description": "Algeria staged as a culture: the largest land in Africa, Amazigh root and Arab branch, desert, dignity, and song.",
       "iso": "DZ"
+    },
+    {
+      "kind": "culture",
+      "id": "angola",
+      "title": "Angola",
+      "description": "Angola staged as a culture: old kingdoms, great music, and a people of many tongues on the Atlantic.",
+      "iso": "AO"
     },
     {
       "kind": "culture",
