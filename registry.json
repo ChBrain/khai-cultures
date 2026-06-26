@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.164.0",
+  "version": "0.165.0",
   "cultures": [
     {
       "kind": "culture",
@@ -233,6 +233,13 @@
       "title": "Colombia",
       "description": "A land of magical realism and resilient joy, on the long road from its wound to peace.",
       "iso": "CO"
+    },
+    {
+      "kind": "culture",
+      "id": "comoros",
+      "title": "Comoros",
+      "description": "The Perfumed Islands staged as a culture: Islam, the sea, and the grand mariage that confers a man's place.",
+      "iso": "KM"
     },
     {
       "kind": "culture",
