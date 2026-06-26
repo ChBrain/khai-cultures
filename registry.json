@@ -26,6 +26,13 @@
     },
     {
       "kind": "culture",
+      "id": "angola",
+      "title": "Angola",
+      "description": "Angola staged as a culture: old kingdoms, great music, and a people of many tongues on the Atlantic.",
+      "iso": "AO"
+    },
+    {
+      "kind": "culture",
       "id": "antigua_and_barbuda",
       "title": "Antigua and Barbuda",
       "description": "Two small islands that turned a sugar colony's chains into a free nation with a wide reach.",
