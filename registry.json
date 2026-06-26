@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.163.0",
+  "version": "0.164.0",
   "cultures": [
     {
       "kind": "culture",
@@ -317,6 +317,13 @@
       "title": "England",
       "description": "England staged as a culture: a green, ironic land of fair play, the amateur, and mustn't grumble.",
       "iso": "GB-ENG"
+    },
+    {
+      "kind": "culture",
+      "id": "equatorial_guinea",
+      "title": "Equatorial Guinea",
+      "description": "Africa's only Spanish-speaking nation, an island and a mainland bound into one across the Atlantic.",
+      "iso": "GQ"
     },
     {
       "kind": "culture",
