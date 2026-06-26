@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.171.0",
+  "version": "0.172.0",
   "cultures": [
     {
       "kind": "culture",
@@ -1199,6 +1199,13 @@
       "title": "Zambia",
       "description": "Seventy peoples bound as one nation in equal dignity, kept in peace beside the mighty Zambezi.",
       "iso": "ZM"
+    },
+    {
+      "kind": "culture",
+      "id": "zimbabwe",
+      "title": "Zimbabwe",
+      "description": "A nation named for its houses of stone, where two peoples carry one country to the rhythm of the mbira.",
+      "iso": "ZW"
     }
   ],
   "groups": [
