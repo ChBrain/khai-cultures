@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.185.0",
+  "version": "0.186.0",
   "cultures": [
     {
       "kind": "culture",
@@ -919,6 +919,13 @@
       "title": "Qatar",
       "description": "Qatar staged as a culture: a pearling people of the Gulf and the desert, keeping its heritage through swift change.",
       "iso": "QA"
+    },
+    {
+      "kind": "culture",
+      "id": "republic_of_congo",
+      "title": "Republic of the Congo",
+      "description": "Congo-Brazzaville staged as a culture: the river, the rumba, and the elegance of la SAPE.",
+      "iso": "CG"
     },
     {
       "kind": "culture",
