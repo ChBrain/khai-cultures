@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.177.0",
+  "version": "0.178.0",
   "cultures": [
     {
       "kind": "culture",
@@ -912,6 +912,13 @@
       "title": "Russia",
       "description": "Russia staged as a culture: a vast land and a strong state, a great soul and literature, and the weight they carry.",
       "iso": "RU"
+    },
+    {
+      "kind": "culture",
+      "id": "rwanda",
+      "title": "Rwanda",
+      "description": "Rwanda staged as a culture: the land of a thousand hills, one tongue, and the bond of the cow.",
+      "iso": "RW"
     },
     {
       "kind": "culture",
