@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.191.0",
+  "version": "0.192.0",
   "cultures": [
     {
       "kind": "culture",
@@ -660,6 +660,13 @@
       "title": "Lesotho",
       "description": "Lesotho staged as a culture: the Mountain Kingdom in the sky, gathered by Moshoeshoe and held by the blanket.",
       "iso": "LS"
+    },
+    {
+      "kind": "culture",
+      "id": "liberia",
+      "title": "Liberia",
+      "description": "Liberia staged as a culture: one nation made of two heritages under the love of liberty.",
+      "iso": "LR"
     },
     {
       "kind": "culture",
