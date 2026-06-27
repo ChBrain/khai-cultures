@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.190.0",
+  "version": "0.191.0",
   "cultures": [
     {
       "kind": "culture",
@@ -422,6 +422,13 @@
       "title": "Gabon",
       "description": "Le Gabon mis en scene comme culture: un peuple petit sous une grande foret au bord de l'ocean.",
       "iso": "GA"
+    },
+    {
+      "kind": "culture",
+      "id": "gambia",
+      "title": "The Gambia",
+      "description": "A nation shaped by its river, held by the jali's word and the warmth of teranga.",
+      "iso": "GM"
     },
     {
       "kind": "culture",
