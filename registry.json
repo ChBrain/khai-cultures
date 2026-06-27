@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.179.0",
+  "version": "0.180.0",
   "cultures": [
     {
       "kind": "culture",
@@ -1101,6 +1101,13 @@
       "title": "Tajikistan",
       "description": "The Persian heart of Central Asia, staged as a culture of poetry, mountains, and an old language kept whole.",
       "iso": "TJ"
+    },
+    {
+      "kind": "culture",
+      "id": "tanzania",
+      "title": "Tanzania",
+      "description": "Tanzania staged as a culture: more than a hundred peoples bound into one nation by Kiswahili.",
+      "iso": "TZ"
     },
     {
       "kind": "culture",
