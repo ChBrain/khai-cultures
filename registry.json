@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.181.0",
+  "version": "0.182.0",
   "cultures": [
     {
       "kind": "culture",
@@ -1031,6 +1031,13 @@
       "title": "Solomon Islands",
       "description": "Solomon Aelan: planti aelan, planti tok ples, wanfala wantok.",
       "iso": "SB"
+    },
+    {
+      "kind": "culture",
+      "id": "somalia",
+      "title": "Somalia",
+      "description": "Somalia staged as a culture: the Nation of Poets on the longest coast, bound by faith and the word.",
+      "iso": "SO"
     },
     {
       "kind": "culture",
