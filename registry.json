@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.187.0",
+  "version": "0.188.0",
   "cultures": [
     {
       "kind": "culture",
@@ -212,6 +212,13 @@
       "title": "Canada",
       "description": "Canada staged as a culture: a bilingual federation of two peoples and a mosaic, reckoning with its founding wrong.",
       "iso": "CA"
+    },
+    {
+      "kind": "culture",
+      "id": "cape_verde",
+      "title": "Cape Verde",
+      "description": "Ten volcanic islands of sodade and morabeza, one creole people scattered across the sea.",
+      "iso": "CV"
     },
     {
       "kind": "culture",
