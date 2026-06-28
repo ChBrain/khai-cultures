@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.213.0",
+  "version": "0.218.0",
   "cultures": [
     {
       "kind": "culture",
@@ -184,6 +184,13 @@
       "title": "Botswana",
       "description": "Botswana staged as a culture: a quiet land of botho and the kgotla, of cattle and the desert that holds water.",
       "iso": "BW"
+    },
+    {
+      "kind": "culture",
+      "id": "brandenburg",
+      "title": "Brandenburg",
+      "description": "Brandenburg inszeniert: das märkische Land um Berlin, geprägt von preußischer Geschichte, Wäldern und Solarenergie.",
+      "iso": "DE-BB"
     },
     {
       "kind": "culture",
@@ -838,6 +845,13 @@
     },
     {
       "kind": "culture",
+      "id": "mecklenburg_western_pomerania",
+      "title": "Mecklenburg-Western Pomerania",
+      "description": "Mecklenburg-Vorpommern inszeniert: das Land der Seen und Ostseeküste, geprägt von Hanse-Tradition und Naturschutz.",
+      "iso": "DE-MV"
+    },
+    {
+      "kind": "culture",
       "id": "mexico",
       "title": "Mexico",
       "description": "Una nación mestiza nacida del choque de dos mundos, cerrando la herida de la conquista.",
@@ -1167,6 +1181,20 @@
     },
     {
       "kind": "culture",
+      "id": "saxony",
+      "title": "Saxony",
+      "description": "Sachsen inszeniert: die Wiege deutscher Industrie, geprägt von Dresdner Barock, Erfindergeist und Bürgerprotest.",
+      "iso": "DE-SN"
+    },
+    {
+      "kind": "culture",
+      "id": "saxony_anhalt",
+      "title": "Saxony-Anhalt",
+      "description": "Sachsen-Anhalt inszeniert: das Land von Luther und Bauhaus, geprägt von Chemieparks und Magdeburger Börde.",
+      "iso": "DE-ST"
+    },
+    {
+      "kind": "culture",
       "id": "schleswig_holstein",
       "title": "Schleswig-Holstein",
       "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
@@ -1339,6 +1367,13 @@
       "title": "Thailand",
       "description": "Thailand staged as a culture: the never-colonized land of the smile, bending to keep what it holds dear.",
       "iso": "TH"
+    },
+    {
+      "kind": "culture",
+      "id": "thuringia",
+      "title": "Thuringia",
+      "description": "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe.",
+      "iso": "DE-TH"
     },
     {
       "kind": "culture",
