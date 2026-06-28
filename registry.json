@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.196.0",
+  "version": "0.197.0",
   "cultures": [
     {
       "kind": "culture",
@@ -772,6 +772,13 @@
       "title": "Micronesia",
       "description": "A federation of four island tongues held as one nation by English and a shared ocean.",
       "iso": "FM"
+    },
+    {
+      "kind": "culture",
+      "id": "moldova",
+      "title": "Moldova",
+      "description": "Moldova pusă în scenă ca o cultură: o zonă de graniță cu podgorii și răscruci, definită de căutarea identității.",
+      "iso": "MD"
     },
     {
       "kind": "culture",
