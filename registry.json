@@ -103,6 +103,13 @@
     },
     {
       "kind": "culture",
+      "id": "bavaria",
+      "title": "Bavaria",
+      "description": "Bavaria staged as a culture: the Free State of mountains, beer, and high-tech innovation, defined by local pride.",
+      "iso": "DE-BY"
+    },
+    {
+      "kind": "culture",
       "id": "belarus",
       "title": "Belarus",
       "description": "Belarus staged as a culture: a long-quiet nation whose chancery tongue, once an empire's, now wakes.",
