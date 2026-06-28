@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.200.0",
+  "version": "0.204.0",
   "cultures": [
     {
       "kind": "culture",
@@ -523,6 +523,13 @@
     },
     {
       "kind": "culture",
+      "id": "holy_see",
+      "title": "Holy See",
+      "description": "Sancta Sedes in scaenam producta: minima civitas vaticana, apostolica auctoritas, et linguae latinae monumentum.",
+      "iso": "VA"
+    },
+    {
+      "kind": "culture",
       "id": "honduras",
       "title": "Honduras",
       "description": "Honduras puesta en escena: una nacion moldeada desde fuera que busca su soberania y su dignidad.",
@@ -639,6 +646,13 @@
       "title": "Kiribati",
       "description": "Te botanaomata n Mikronesia i aon abamwakoro aika a uarereke, e tei imwain te taari ae e a rake.",
       "iso": "KI"
+    },
+    {
+      "kind": "culture",
+      "id": "kosovo",
+      "title": "Kosovo",
+      "description": "Kosova e vënë në skenë: republika e re e Ballkanit, mes qëndresës, besës, këngës dhe ndërtimit të shtetit.",
+      "iso": "XK"
     },
     {
       "kind": "culture",
@@ -800,6 +814,13 @@
       "title": "Moldova",
       "description": "Moldova pusă în scenă ca o cultură: o zonă de graniță cu podgorii și răscruci, definită de căutarea identității.",
       "iso": "MD"
+    },
+    {
+      "kind": "culture",
+      "id": "monaco",
+      "title": "Monaco",
+      "description": "Monaco mis en scène : la principauté souveraine du Rocher, entre héritage Grimaldi, luxe et extension maritime.",
+      "iso": "MC"
     },
     {
       "kind": "culture",
@@ -1059,6 +1080,13 @@
       "title": "Samoa",
       "description": "Samoa o le fatu o Polenisia, o le faaSamoa ma le aiga e tausi i le lalolagi fou.",
       "iso": "WS"
+    },
+    {
+      "kind": "culture",
+      "id": "san_marino",
+      "title": "San Marino",
+      "description": "San Marino messo in scena: la più antica repubblica sovrana del Titano, custode di libertà, democrazia e statuti.",
+      "iso": "SM"
     },
     {
       "kind": "culture",
