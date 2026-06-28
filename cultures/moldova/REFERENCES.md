@@ -25,13 +25,13 @@ Source: Geert Hofstede, Hofstede Insights (the Country Comparison tool and the s
 
 The plots, the historic personas they cast, the places, and the pieces are drawn from the public historical record. They are credited here and never claimed; the staging is original work.
 
-| Subject                        | In this culture                                                                                                              | Scope                                                                              |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Principality of Moldavia       | [plot_01_stephen_great.md](plot_01_stephen_great.md), [persona_stephen.md](persona_stephen.md)                               | The golden age under Stephen the Great (Ștefan cel Mare), defending the realm.     |
-| Bessarabia & Soviet Era        | [plot_02_bessarabia_soviet.md](plot_02_bessarabia_soviet.md)                                                                 | Partition of the region, Russian and Soviet rule, creation of Moldavian SSR.       |
-| Independence & Transnistria    | [plot_03_independence_transnistria.md](plot_03_independence_transnistria.md)                                                 | Breakup of USSR, declaration of independence, and the conflict over Transnistria.  |
-| Mileștii Mici Winemaking       | [place_milestii_mici.md](place_milestii_mici.md), [process_winemaking.md](process_winemaking.md)                             | World's largest wine cellars; the millennial tradition of Moldovan viticulture.    |
-| Mărțișor                       | [piece_martisor.md](piece_martisor.md)                                                                                       | The spring amulet festival celebrated in March, UNESCO heritage.                   |
+| Subject                     | In this culture                                                                                  | Scope                                                                             |
+| --------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| Principality of Moldavia    | [plot_01_stephen_great.md](plot_01_stephen_great.md), [persona_stephen.md](persona_stephen.md)   | The golden age under Stephen the Great (Ștefan cel Mare), defending the realm.    |
+| Bessarabia & Soviet Era     | [plot_02_bessarabia_soviet.md](plot_02_bessarabia_soviet.md)                                     | Partition of the region, Russian and Soviet rule, creation of Moldavian SSR.      |
+| Independence & Transnistria | [plot_03_independence_transnistria.md](plot_03_independence_transnistria.md)                     | Breakup of USSR, declaration of independence, and the conflict over Transnistria. |
+| Mileștii Mici Winemaking    | [place_milestii_mici.md](place_milestii_mici.md), [process_winemaking.md](process_winemaking.md) | World's largest wine cellars; the millennial tradition of Moldovan viticulture.   |
+| Mărțișor                    | [piece_martisor.md](piece_martisor.md)                                                           | The spring amulet festival celebrated in March, UNESCO heritage.                  |
 
 The defining personas [Radu](persona_radu.md) and [Elena](persona_elena.md) are archetypes, not historical individuals: composites that carry the culture's living tensions — the older generation connected to the land and the Soviet past against the younger generation looking toward European integration.
 
