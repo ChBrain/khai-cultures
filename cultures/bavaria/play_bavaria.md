@@ -32,6 +32,8 @@ Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat verst
 - [Ludwig II](persona_ludwig.md)
 - [Gustl](persona_gustl.md)
 - [Amalie](persona_amalie.md)
+- [Monika](persona_monika.md)
+- [Sepp](persona_sepp.md)
 
 **Places**
 
@@ -48,6 +50,8 @@ Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat verst
 
 - [der Freistaat](position_freistaat.md)
 - [das Bairische](position_bayerisch.md)
+- [das Fränkische](position_fraenkisch.md)
+- [das Bayerisch-Schwäbische](position_bayerisch_schwaebisch.md)
 - [der Gebirgler](position_gebirgler.md)
 
 **Pieces**
@@ -76,6 +80,10 @@ König [Ludwig II](persona_ludwig.md) zieht sich aus der Politik zurück und bau
 **[Plot 3: Laptop und Lederhose 1980er](plot_03_laptop_lederhosen.md)**
 
 Das agrarisch geprägte Land vollzieht den Strukturwandel zum High-Tech-Standort. [Amalie](persona_amalie.md) arbeitet in der modernen Industrie, während [Gustl](persona_gustl.md) die Traditionen der Heimat bewahrt.
+
+**[Plot 4: Die Integration der drei Stämme ab 1806](plot_04_drei_staemme_1806.md)**
+
+Die Gebiete Franken und Schwaben werden dem Königreich Bayern angegliedert, wodurch sich die drei großen bayerischen Stämme mit ihren unterschiedlichen Dialekten und Kulturen unter einer Krone vereinen.
 
 ## Stakes
 
