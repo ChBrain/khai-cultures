@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.207.0",
+  "version": "0.213.0",
   "cultures": [
     {
       "kind": "culture",
@@ -79,6 +79,13 @@
       "title": "Azerbaijan",
       "description": "Azerbaijan staged as a culture: the Land of Fire, where mugham, poetry, and the loom keep an ancient flame.",
       "iso": "AZ"
+    },
+    {
+      "kind": "culture",
+      "id": "baden_wuerttemberg",
+      "title": "Baden-Württemberg",
+      "description": "Baden-Württemberg inszeniert: die Heimat von Erfindern, geprägt von schwäbischem Fleiß und badischer Lebenslust.",
+      "iso": "DE-BW"
     },
     {
       "kind": "culture",
@@ -544,6 +551,13 @@
     },
     {
       "kind": "culture",
+      "id": "hesse",
+      "title": "Hesse",
+      "description": "Hessen inszeniert: das demokratische Herz Deutschlands, geprägt von Frankfurt-Finanzen und Apfelweinkultur.",
+      "iso": "DE-HE"
+    },
+    {
+      "kind": "culture",
       "id": "holy_see",
       "title": "Holy See",
       "description": "Sancta Sedes in scaenam producta: minima civitas vaticana, apostolica auctoritas, et linguae latinae monumentum.",
@@ -744,6 +758,13 @@
       "title": "Lithuania",
       "description": "Lithuania staged as a culture: an archaic Baltic nation, once vast, that survived a press ban and exile to break free.",
       "iso": "LT"
+    },
+    {
+      "kind": "culture",
+      "id": "lower_saxony",
+      "title": "Lower Saxony",
+      "description": "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit.",
+      "iso": "DE-NI"
     },
     {
       "kind": "culture",
@@ -950,6 +971,13 @@
     },
     {
       "kind": "culture",
+      "id": "north_rhine_westphalia",
+      "title": "North Rhine-Westphalia",
+      "description": "NRW inszeniert: das einstige Kohle- und Stahlzentrum, geprägt von Kumpelmentalität, Strukturwandel und Karneval.",
+      "iso": "DE-NW"
+    },
+    {
+      "kind": "culture",
       "id": "northern_ireland",
       "title": "Northern Ireland",
       "description": "Northern Ireland staged as a culture: two traditions held in one small place, and a hard-won peace they made together.",
@@ -1055,6 +1083,13 @@
     },
     {
       "kind": "culture",
+      "id": "rhineland_palatinate",
+      "title": "Rhineland-Palatinate",
+      "description": "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit.",
+      "iso": "DE-RP"
+    },
+    {
+      "kind": "culture",
       "id": "romania",
       "title": "Romania",
       "description": "Romania staged as a culture: a Latin island in a Slavic-Hungarian sea, descended from Rome's Dacia.",
@@ -1073,6 +1108,13 @@
       "title": "Rwanda",
       "description": "Rwanda staged as a culture: the land of a thousand hills, one tongue, and the bond of the cow.",
       "iso": "RW"
+    },
+    {
+      "kind": "culture",
+      "id": "saarland",
+      "title": "Saarland",
+      "description": "Saarland inszeniert: das Grenzland zwischen Kohle, Stahl und Savoir-vivre, geprägt von französischer Nähe.",
+      "iso": "DE-SL"
     },
     {
       "kind": "culture",
