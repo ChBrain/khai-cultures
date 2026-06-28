@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.197.0",
+  "version": "0.196.0",
   "cultures": [
     {
       "kind": "culture",
@@ -23,13 +23,6 @@
       "title": "Algeria",
       "description": "Algeria staged as a culture: the largest land in Africa, Amazigh root and Arab branch, desert, dignity, and song.",
       "iso": "DZ"
-    },
-    {
-      "kind": "culture",
-      "id": "andorra",
-      "title": "Andorra",
-      "description": "Andorra posada en escena: el coprincipat dels Pirineus, tancat entre muntanyes, definit per la seva neutralitat.",
-      "iso": "AD"
     },
     {
       "kind": "culture",
@@ -1389,21 +1382,35 @@
       "id": "anglosphere",
       "title": "the Anglosphere",
       "description": "The Anglosphere as a group: five English-speaking nations bound by language, law, and the Five Eyes.",
-      "references": ["australia", "canada", "new_zealand", "united_kingdom", "usa"]
+      "references": [
+        "australia",
+        "canada",
+        "new_zealand",
+        "united_kingdom",
+        "usa"
+      ]
     },
     {
       "kind": "group",
       "id": "baltics",
       "title": "The Baltics",
       "description": "The Baltics as a group: Estonia, Latvia, and Lithuania, bound by a shared occupation and a sung freedom.",
-      "references": ["estonia", "latvia", "lithuania"]
+      "references": [
+        "estonia",
+        "latvia",
+        "lithuania"
+      ]
     },
     {
       "kind": "group",
       "id": "benelux",
       "title": "Benelux",
       "description": "Benelux as a group: Belgium, the Netherlands, and Luxembourg, the small delta union that prototyped Europe.",
-      "references": ["belgium", "luxembourg", "netherlands"]
+      "references": [
+        "belgium",
+        "luxembourg",
+        "netherlands"
+      ]
     },
     {
       "kind": "group",
@@ -1448,7 +1455,11 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
-      "references": ["austria", "germany", "switzerland"]
+      "references": [
+        "austria",
+        "germany",
+        "switzerland"
+      ]
     },
     {
       "kind": "group",
@@ -1517,7 +1528,10 @@
       "id": "iberia",
       "title": "Iberia",
       "description": "Iberia as a group: Spain and Portugal, the peninsula that once divided the world between its two crowns.",
-      "references": ["portugal", "spain"]
+      "references": [
+        "portugal",
+        "spain"
+      ]
     },
     {
       "kind": "group",
@@ -1552,14 +1566,23 @@
       "id": "lusophone",
       "title": "the Lusophone World",
       "description": "The Lusophone world as a group: Portugal and Brazil, one tongue carried across the Atlantic by the sea.",
-      "references": ["brazil", "portugal"]
+      "references": [
+        "brazil",
+        "portugal"
+      ]
     },
     {
       "kind": "group",
       "id": "mercosur",
       "title": "the Southern Common Market",
       "description": "Mercosur as a group: the Southern Cone common market, born of rivals reconciled into a river-basin union.",
-      "references": ["argentina", "bolivia", "brazil", "paraguay", "uruguay"]
+      "references": [
+        "argentina",
+        "bolivia",
+        "brazil",
+        "paraguay",
+        "uruguay"
+      ]
     },
     {
       "kind": "group",
@@ -1606,7 +1629,13 @@
       "id": "nordics",
       "title": "The Nordics",
       "description": "The Nordics as a group: Denmark, Sweden, Norway, Finland, and Iceland, bound by a shared model and a common north.",
-      "references": ["denmark", "finland", "iceland", "norway", "sweden"]
+      "references": [
+        "denmark",
+        "finland",
+        "iceland",
+        "norway",
+        "sweden"
+      ]
     },
     {
       "kind": "group",
@@ -1656,14 +1685,24 @@
       "id": "the_andes",
       "title": "the Andean Community",
       "description": "The Andes as a group: the Andean Community, heirs of the Inca along the great cordillera.",
-      "references": ["bolivia", "colombia", "ecuador", "peru"]
+      "references": [
+        "bolivia",
+        "colombia",
+        "ecuador",
+        "peru"
+      ]
     },
     {
       "kind": "group",
       "id": "visegrad",
       "title": "The Visegrad Four",
       "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
-      "references": ["czechia", "hungary", "poland", "slovakia"]
+      "references": [
+        "czechia",
+        "hungary",
+        "poland",
+        "slovakia"
+      ]
     }
   ]
 }
