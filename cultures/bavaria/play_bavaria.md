@@ -23,7 +23,7 @@ Bayern, der Freistaat im Süden Deutschlands, an den Alpen. ISO DE-BY, Sprache d
 
 ## Arc
 
-Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat versteht und erst spät Teil eines größeren Reiches wurde. Eine Landschaft von Bergen, Tälern und Seen, die ihre Traditionen - das Bier, die Tracht, das Fest - stolz bewahrt, während sie zugleich zu einem führenden Innovationsstandort geworden ist. Ein Volk, das seine Unabhängigkeit liebt, dem Bund mit Skepsis begegnet und sich selbst als *Freistaat* behauptet. Über allem die Berge, der blaue Himmel und der Stolz, anders zu sein als die im Norden.
+Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat versteht und erst spät Teil eines größeren Reiches wurde. Eine Landschaft von Bergen, Tälern und Seen, die ihre Traditionen - das Bier, die Tracht, das Fest - stolz bewahrt, während sie zugleich zu einem führenden Innovationsstandort geworden ist. Ein Volk, das seine Unabhängigkeit liebt, dem Bund mit Skepsis begegnet und sich selbst als _Freistaat_ behauptet. Über allem die Berge, der blaue Himmel und der Stolz, anders zu sein als die im Norden.
 
 ## Company
 
@@ -79,4 +79,4 @@ Das agrarisch geprägte Land vollzieht den Strukturwandel zum High-Tech-Standort
 
 ## Stakes
 
-Ob ein Land, das seine Unabhängigkeit als *Freistaat* behauptet und seine Identität aus Traditionen und Alpenromantik schöpft, seinen Zusammenhalt bewahrt, wenn die globale Wirtschaft die Traditionen kommerzialisiert und die dörfliche Gemeinschaft der Modernität weicht.
+Ob ein Land, das seine Unabhängigkeit als _Freistaat_ behauptet und seine Identität aus Traditionen und Alpenromantik schöpft, seinen Zusammenhalt bewahrt, wenn die globale Wirtschaft die Traditionen kommerzialisiert und die dörfliche Gemeinschaft der Modernität weicht.

@@ -25,11 +25,11 @@ Stolz, Beharrlichkeit und barocke Lebensfreude. Man misst das Leben nicht an der
 
 ## Undertow
 
-Unter der barocken Heiterkeit liegt eine tiefe konservative Skepsis gegenüber schnellen Veränderungen. Es ist das Wissen darum, dass eine Ordnung, die über Jahrhunderte gewachsen ist, Schutz braucht und dass man das Neue erst prüfen muss, ob es taugt. Die Verbindung zur Scholle und die Verwurzelung in der dörflichen Gemeinschaft geben Sicherheit, bergen aber auch die Gefahr, Fremdes auszuschließen. Der Ton schwankt zwischen warmherziger Geselligkeit (*Gemütlichkeit*) und einer sturen Abwehrhaltung (*Mia san mia*), die die eigene Besonderheit gegen jede äußere Einmischung verteidigt.
+Unter der barocken Heiterkeit liegt eine tiefe konservative Skepsis gegenüber schnellen Veränderungen. Es ist das Wissen darum, dass eine Ordnung, die über Jahrhunderte gewachsen ist, Schutz braucht und dass man das Neue erst prüfen muss, ob es taugt. Die Verbindung zur Scholle und die Verwurzelung in der dörflichen Gemeinschaft geben Sicherheit, bergen aber auch die Gefahr, Fremdes auszuschließen. Der Ton schwankt zwischen warmherziger Geselligkeit (_Gemütlichkeit_) und einer sturen Abwehrhaltung (_Mia san mia_), die die eigene Besonderheit gegen jede äußere Einmischung verteidigt.
 
 ## Nerve
 
-Getroffen wird der Stolz auf die eigene Heimat und die Errungenschaften des Landes, das sich vom Agrarstaat zum High-Tech-Standort gewandelt hat, ohne seine Seele zu verkaufen. Es spielt für das Gefühl der Unabhängigkeit, das im Begriff des *Freistaates* begründet liegt, und die Genugtuung, den eigenen Weg erfolgreich zu gehen.
+Getroffen wird der Stolz auf die eigene Heimat und die Errungenschaften des Landes, das sich vom Agrarstaat zum High-Tech-Standort gewandelt hat, ohne seine Seele zu verkaufen. Es spielt für das Gefühl der Unabhängigkeit, das im Begriff des _Freistaates_ begründet liegt, und die Genugtuung, den eigenen Weg erfolgreich zu gehen.
 
 ## Echo
 

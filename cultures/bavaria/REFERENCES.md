@@ -25,13 +25,13 @@ Source: Geert Hofstede, Hofstede Insights (the Country Comparison tool and the s
 
 The plots, the historic personas they cast, the places, and the pieces are drawn from the public historical record. They are credited here and never claimed; the staging is original work.
 
-| Subject                        | In this culture                                                                                                              | Scope                                                                              |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Kingdom of Bavaria (1806)      | [plot_01_kingdom_1806.md](plot_01_kingdom_1806.md)                                                                           | The elevation of Bavaria to a Kingdom under Napoleon, introducing reforms.        |
-| King Ludwig II (Neuschwanstein)| [plot_02_ludwig_neuschwanstein.md](plot_02_ludwig_neuschwanstein.md), [persona_ludwig.md](persona_ludwig.md)                  | The reign of King Ludwig II, his retreat into fairy-tale castles, and his death.   |
-| Laptop & Lederhosen (1980s)    | [plot_03_laptop_lederhosen.md](plot_03_laptop_lederhosen.md)                                                                 | The transition from agricultural base to high-tech and industrial dominance.      |
-| Reinheitsgebot (1516)          | [piece_reinheitsgebot.md](piece_reinheitsgebot.md)                                                                           | The Bavarian beer purity law of 1516, standardizing production and ingredients.    |
+| Subject                         | In this culture                                                                                              | Scope                                                                            |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Kingdom of Bavaria (1806)       | [plot_01_kingdom_1806.md](plot_01_kingdom_1806.md)                                                           | The elevation of Bavaria to a Kingdom under Napoleon, introducing reforms.       |
+| King Ludwig II (Neuschwanstein) | [plot_02_ludwig_neuschwanstein.md](plot_02_ludwig_neuschwanstein.md), [persona_ludwig.md](persona_ludwig.md) | The reign of King Ludwig II, his retreat into fairy-tale castles, and his death. |
+| Laptop & Lederhosen (1980s)     | [plot_03_laptop_lederhosen.md](plot_03_laptop_lederhosen.md)                                                 | The transition from agricultural base to high-tech and industrial dominance.     |
+| Reinheitsgebot (1516)           | [piece_reinheitsgebot.md](piece_reinheitsgebot.md)                                                           | The Bavarian beer purity law of 1516, standardizing production and ingredients.  |
 
-The defining personas [Gustl](persona_gustl.md) and [Amalie](persona_amalie.md) are archetypes, not historical individuals: composites that carry the culture's living tensions — the older traditional mountain agricultural life against the younger tech-focused city-goer, expressing their views in the Bavarian dialect variety (*Bairisch*).
+The defining personas [Gustl](persona_gustl.md) and [Amalie](persona_amalie.md) are archetypes, not historical individuals: composites that carry the culture's living tensions — the older traditional mountain agricultural life against the younger tech-focused city-goer, expressing their views in the Bavarian dialect variety (_Bairisch_).
 
 Content is CC-BY-NC-SA, code is MIT; public-domain sources are credited, never claimed.

@@ -25,7 +25,7 @@ Die Stadt [München](place_muenchen.md), die Wirte und die Schausteller, getrage
 
 ## Direction
 
-Hin zu einem Fest der Superlative, das die bayerische Geselligkeit (*Gemütlichkeit*) und das bayerische Bier zelebriert. Ein Zustand des Ausnahmezustands, in dem gesellschaftliche Unterschiede für zwei Wochen im Bierzelt verblassen.
+Hin zu einem Fest der Superlative, das die bayerische Geselligkeit (_Gemütlichkeit_) und das bayerische Bier zelebriert. Ein Zustand des Ausnahmezustands, in dem gesellschaftliche Unterschiede für zwei Wochen im Bierzelt verblassen.
 
 ## Lever
 
