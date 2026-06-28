@@ -10,7 +10,7 @@ Bavaria staged as a full khai play, ISO DE-BY (a German Land; the website derive
 
 - **Anchor:** [play_bavaria.md](play_bavaria.md), the culture itself.
 - **Pitch:** [pitch_bavaria.md](pitch_bavaria.md), the Hofstede layer, written from Germany's profile inflected by the region's strong local identity and naming no dimension.
-- **Plots (history):** the founding of the Kingdom of Bavaria 1806, the reign and Neuschwanstein construction of King Ludwig II, and the post-war industrial transition to high-tech (*Laptop und Lederhosen*) — each casting the elements that event needs.
+- **Plots (history):** the founding of the Kingdom of Bavaria 1806, the reign and Neuschwanstein construction of King Ludwig II, and the post-war industrial transition to high-tech (_Laptop und Lederhosen_) — each casting the elements that event needs.
 - **Personas:** King Ludwig II as the historic cast, plus defining personas in generational tension: Gustl (older, traditional mountain farmer) and Amalie (younger, Munich high-tech worker), written with Bavarian dialect reads.
 - **Positions:** der Freistaat (the sovereign self-conception), das Bairische (the language variety), der Gebirgler (the mountain dweller).
 - **Places:** München (the capital), Neuschwanstein (the dream castle), die Alpen (the mountains).

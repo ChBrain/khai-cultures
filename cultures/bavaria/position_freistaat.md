@@ -30,7 +30,7 @@ Dass Bayern seine Belange selbst regelt, seine Traditionen schützt und seine Wi
 
 ## Loses
 
-An Bedeutung, wenn der Bund die föderalen Rechte beschneidet oder wenn die bayerische Identität in einer globalisierten Welt an Kraft verliert. Es verliert an Glaubwürdigkeit, wo der Begriff des *Freistaats* nur noch für politische Rhetorik genutzt wird.
+An Bedeutung, wenn der Bund die föderalen Rechte beschneidet oder wenn die bayerische Identität in einer globalisierten Welt an Kraft verliert. Es verliert an Glaubwürdigkeit, wo der Begriff des _Freistaats_ nur noch für politische Rhetorik genutzt wird.
 
 ## Drives
 

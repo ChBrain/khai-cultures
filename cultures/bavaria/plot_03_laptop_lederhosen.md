@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-In den 1980er Jahren prägt die bayerische Staatsregierung unter Franz Josef Strauß den Slogan *Laptop und Lederhose*. Er beschreibt den erfolgreichen Übergang vom reinen Agrarland zur modernen Industrie- und Technologiegesellschaft.
+In den 1980er Jahren prägt die bayerische Staatsregierung unter Franz Josef Strauß den Slogan _Laptop und Lederhose_. Er beschreibt den erfolgreichen Übergang vom reinen Agrarland zur modernen Industrie- und Technologiegesellschaft.
 
 ## Action
 
