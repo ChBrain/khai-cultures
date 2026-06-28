@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.198.0",
+  "version": "0.199.0",
   "cultures": [
     {
       "kind": "culture",
@@ -23,6 +23,13 @@
       "title": "Algeria",
       "description": "Algeria staged as a culture: the largest land in Africa, Amazigh root and Arab branch, desert, dignity, and song.",
       "iso": "DZ"
+    },
+    {
+      "kind": "culture",
+      "id": "andorra",
+      "title": "Andorra",
+      "description": "Andorra posada en escena: el coprincipat dels Pirineus, tancat entre muntanyes, definit per la seva neutralitat.",
+      "iso": "AD"
     },
     {
       "kind": "culture",
