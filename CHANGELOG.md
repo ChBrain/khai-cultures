@@ -1,5 +1,21 @@
 # @chbrain/khai-cultures
 
+## 0.219.0
+
+### Minor Changes
+
+- e620358: Add Andorra as a khai culture.
+- d0861ca: Add Bavaria (Bayern) as a khai culture.
+- 9b2828e: Add Berlin, Bremen, and Hamburg as German state khai cultures.
+- 21c73df: stage Batch 2 of German states: Baden-Württemberg, Hesse, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, and Saarland in German.
+- 266c8ae: Add Greenland (Kalaallit Nunaat) as a khai culture.
+- 9264968: Add Liechtenstein as a khai culture.
+- b38aa0c: Add Holy See, Kosovo, Monaco, and San Marino as khai cultures.
+
+### Patch Changes
+
+- f829d9d: Bump @chbrain/khai-language to ^0.1.21 to restore the native creole support and Mauritian Creole exemption.
+
 ## 0.162.1
 
 ### Patch Changes
