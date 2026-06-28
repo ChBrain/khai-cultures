@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.195.0",
+  "version": "0.196.0",
   "cultures": [
     {
       "kind": "culture",
@@ -100,6 +100,13 @@
       "title": "Barbados",
       "description": "An island built on the plantation it pioneered, now a republic reckoning with its own creation.",
       "iso": "BB"
+    },
+    {
+      "kind": "culture",
+      "id": "bavaria",
+      "title": "Bavaria",
+      "description": "Bavaria staged as a culture: the Free State of mountains, beer, and high-tech innovation, defined by local pride.",
+      "iso": "DE-BY"
     },
     {
       "kind": "culture",
