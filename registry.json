@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.197.0",
+  "version": "0.198.0",
   "cultures": [
     {
       "kind": "culture",
@@ -464,6 +464,13 @@
       "title": "Greece",
       "description": "Greece staged as a culture: the oldest living European tongue, carried three thousand years through every empire.",
       "iso": "GR"
+    },
+    {
+      "kind": "culture",
+      "id": "greenland",
+      "title": "Kalaallit Nunaat",
+      "description": "Kalaallit Nunaat staged: the Arctic island of ice, hunting heritage, and the journey toward self-government.",
+      "iso": "GL"
     },
     {
       "kind": "culture",
