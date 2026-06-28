@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.204.0",
+  "version": "0.207.0",
   "cultures": [
     {
       "kind": "culture",
@@ -145,6 +145,13 @@
     },
     {
       "kind": "culture",
+      "id": "berlin",
+      "title": "Berlin",
+      "description": "Berlin als Kultur inszeniert: die ehemals geteilte Metropole, geprägt von Freiheit, Techno und ständiger Neuerfindung.",
+      "iso": "DE-BE"
+    },
+    {
+      "kind": "culture",
       "id": "bhutan",
       "title": "Bhutan",
       "description": "Bhutan staged as a culture: the Land of the Thunder Dragon, held by the dharma, the mountains, and happiness.",
@@ -177,6 +184,13 @@
       "title": "Brazil",
       "description": "A continental nation of three peoples, the country of the future still arriving.",
       "iso": "BR"
+    },
+    {
+      "kind": "culture",
+      "id": "bremen",
+      "title": "Bremen",
+      "description": "Bremen als Kultur inszeniert: die alte Hansestadt an der Weser, geprägt von Bürgerstolz, Seefahrt und Weltoffenheit.",
+      "iso": "DE-HB"
     },
     {
       "kind": "culture",
@@ -520,6 +534,13 @@
       "title": "Haiti",
       "description": "Premye repiblik nwa a, ki te libere tet li, kanpe ak fyete sou chimen diyite.",
       "iso": "HT"
+    },
+    {
+      "kind": "culture",
+      "id": "hamburg",
+      "title": "Hamburg",
+      "description": "Hamburg als Kultur inszeniert: die Freie und Hansestadt an der Elbe, geprägt von Kaufmannsstolz und Weltoffenheit.",
+      "iso": "DE-HH"
     },
     {
       "kind": "culture",
