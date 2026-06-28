@@ -25,13 +25,13 @@ Source: Geert Hofstede, Hofstede Insights (the Country Comparison tool). Scores 
 
 The plots, the historic personas they cast, the places, and the pieces are drawn from the public historical record. They are credited here and never claimed; the staging is original work.
 
-| Subject                        | In this culture                                                                                                              | Scope                                                                              |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Norse Settlement               | [plot_01_norse_settlement.md](plot_01_norse_settlement.md)                                                                   | Erik the Red's settlement (982 AD) and the mysterious disappearance in the 15th c. |
-| Hans Egede's Colonization      | [plot_02_egede_colonization.md](plot_02_egede_colonization.md)                                                               | The arrival of the Norwegian missionary Hans Egede in 1721, founding Nuuk.         |
-| Home Rule Act (1979)           | [plot_03_home_rule.md](plot_03_home_rule.md)                                                                                 | Transition of power from Denmark to local Greenlandic government, leading to self-rule. |
-| Ilulissat Icefjord             | [place_ilulissat.md](place_ilulissat.md)                                                                                     | UNESCO World Heritage site, displaying the retreat of glaciers and ice history.    |
-| Tupilak & Ulo                  | [piece_tupilak.md](piece_tupilak.md), [piece_ulo.md](piece_ulo.md)                                                           | Ancient Inuit spirit protection art and the traditional semi-circular woman's knife.|
+| Subject                   | In this culture                                                    | Scope                                                                                   |
+| ------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| Norse Settlement          | [plot_01_norse_settlement.md](plot_01_norse_settlement.md)         | Erik the Red's settlement (982 AD) and the mysterious disappearance in the 15th c.      |
+| Hans Egede's Colonization | [plot_02_egede_colonization.md](plot_02_egede_colonization.md)     | The arrival of the Norwegian missionary Hans Egede in 1721, founding Nuuk.              |
+| Home Rule Act (1979)      | [plot_03_home_rule.md](plot_03_home_rule.md)                       | Transition of power from Denmark to local Greenlandic government, leading to self-rule. |
+| Ilulissat Icefjord        | [place_ilulissat.md](place_ilulissat.md)                           | UNESCO World Heritage site, displaying the retreat of glaciers and ice history.         |
+| Tupilak & Ulo             | [piece_tupilak.md](piece_tupilak.md), [piece_ulo.md](piece_ulo.md) | Ancient Inuit spirit protection art and the traditional semi-circular woman's knife.    |
 
 The defining personas [Nuka](persona_nuka.md) and [Pipaluk](persona_pipaluk.md) are archetypes, not historical individuals: composites that carry the culture's living tensions — the older hunting life of the settlement against the modern, globally connected youth in Nuuk.
 
