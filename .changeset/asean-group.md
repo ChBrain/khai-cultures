@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-cultures": patch
+---
+
+Add the ASEAN group: the Association of Southeast Asian Nations, all eleven member states from the five founders of the 1967 Bangkok Declaration to Timor-Leste, admitted in October 2025 as the first enlargement since 1999. A referencing play (no geo, no pitch) whose membership the registry build derives from its casts, listing every member with its year of entry. Like NATO and the EU, its four plots trace the association's growth and change rather than a single event: the Bangkok Declaration (the 1967 founding by five neighbours fresh from confrontation), From Five to Ten (Brunei in 1984, then Vietnam, Laos, Myanmar, and Cambodia across the old Cold War line), the ASEAN Way Tested (the 1997 financial crisis, the 2007 Charter, and Myanmar since 2021), and the Eleventh Chair (Timor-Leste's accession, the ASEAN Economic Community, and ASEAN centrality). A referencing collection; it does not move the culture count, so it ships at the same count with a patch changeset.
