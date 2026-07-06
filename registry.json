@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.231.0",
+  "version": "0.236.0",
   "cultures": [
     {
       "kind": "culture",
@@ -306,6 +306,13 @@
     },
     {
       "kind": "culture",
+      "id": "colorado",
+      "title": "Colorado",
+      "description": "Colorado staged: the Centennial State of Pike's Peak gold rushes, Aspen ski booms, and Rocky Mountain parks.",
+      "iso": "US-CO"
+    },
+    {
+      "kind": "culture",
       "id": "comoros",
       "title": "Comoros",
       "description": "The Perfumed Islands staged as a culture: Islam, the sea, and the grand mariage that confers a man's place.",
@@ -576,6 +583,13 @@
       "title": "Hamburg",
       "description": "Hamburg als Kultur inszeniert: die Freie und Hansestadt an der Elbe, geprägt von Kaufmannsstolz und Weltoffenheit.",
       "iso": "DE-HH"
+    },
+    {
+      "kind": "culture",
+      "id": "hawaii",
+      "title": "Hawaii",
+      "description": "Hawaii staged: the Aloha State of Polynesian voyaging canoes, kingdom overthrows, and Pearl Harbor memorials.",
+      "iso": "US-HI"
     },
     {
       "kind": "culture",
@@ -901,6 +915,13 @@
     },
     {
       "kind": "culture",
+      "id": "michigan",
+      "title": "Michigan",
+      "description": "Michigan staged: the Great Lakes State of Ford assembly lines, Detroit Motown beats, and Flint union strikes.",
+      "iso": "US-MI"
+    },
+    {
+      "kind": "culture",
       "id": "micronesia",
       "title": "Micronesia",
       "description": "A federation of four island tongues held as one nation by English and a shared ocean.",
@@ -1020,6 +1041,13 @@
     },
     {
       "kind": "culture",
+      "id": "north_carolina",
+      "title": "North Carolina",
+      "description": "North Carolina staged: the Tar Heel State of Roanoke colonies, Kitty Hawk flights, and Research Triangle labs.",
+      "iso": "US-NC"
+    },
+    {
+      "kind": "culture",
       "id": "north_korea",
       "title": "North Korea",
       "description": "North Korea staged as a culture: one Korean people, the northern land, and the longing for reunion.",
@@ -1066,6 +1094,13 @@
       "title": "Oman",
       "description": "Oman staged as a culture: the land of frankincense and the navigators of the Indian Ocean.",
       "iso": "OM"
+    },
+    {
+      "kind": "culture",
+      "id": "oregon",
+      "title": "Oregon",
+      "description": "Oregon staged: the Beaver State of Oregon Trail migrations, industrial timber booms, and Portland coffee culture.",
+      "iso": "US-OR"
     },
     {
       "kind": "culture",
