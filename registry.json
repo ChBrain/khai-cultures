@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.231.0",
+  "version": "0.236.0",
   "cultures": [
     {
       "kind": "culture",
@@ -306,6 +306,13 @@
     },
     {
       "kind": "culture",
+      "id": "colorado",
+      "title": "Colorado",
+      "description": "Colorado staged: the Centennial State of Pike's Peak gold rushes, Aspen ski booms, and Rocky Mountain parks.",
+      "iso": "US-CO"
+    },
+    {
+      "kind": "culture",
       "id": "comoros",
       "title": "Comoros",
       "description": "The Perfumed Islands staged as a culture: Islam, the sea, and the grand mariage that confers a man's place.",
@@ -576,6 +583,13 @@
       "title": "Hamburg",
       "description": "Hamburg als Kultur inszeniert: die Freie und Hansestadt an der Elbe, geprägt von Kaufmannsstolz und Weltoffenheit.",
       "iso": "DE-HH"
+    },
+    {
+      "kind": "culture",
+      "id": "hawaii",
+      "title": "Hawaii",
+      "description": "Hawaii staged: the Aloha State of Polynesian voyaging canoes, kingdom overthrows, and Pearl Harbor memorials.",
+      "iso": "US-HI"
     },
     {
       "kind": "culture",
@@ -901,6 +915,13 @@
     },
     {
       "kind": "culture",
+      "id": "michigan",
+      "title": "Michigan",
+      "description": "Michigan staged: the Great Lakes State of Ford assembly lines, Detroit Motown beats, and Flint union strikes.",
+      "iso": "US-MI"
+    },
+    {
+      "kind": "culture",
       "id": "micronesia",
       "title": "Micronesia",
       "description": "A federation of four island tongues held as one nation by English and a shared ocean.",
@@ -1020,6 +1041,13 @@
     },
     {
       "kind": "culture",
+      "id": "north_carolina",
+      "title": "North Carolina",
+      "description": "North Carolina staged: the Tar Heel State of Roanoke colonies, Kitty Hawk flights, and Research Triangle labs.",
+      "iso": "US-NC"
+    },
+    {
+      "kind": "culture",
       "id": "north_korea",
       "title": "North Korea",
       "description": "North Korea staged as a culture: one Korean people, the northern land, and the longing for reunion.",
@@ -1066,6 +1094,13 @@
       "title": "Oman",
       "description": "Oman staged as a culture: the land of frankincense and the navigators of the Indian Ocean.",
       "iso": "OM"
+    },
+    {
+      "kind": "culture",
+      "id": "oregon",
+      "title": "Oregon",
+      "description": "Oregon staged: the Beaver State of Oregon Trail migrations, industrial timber booms, and Portland coffee culture.",
+      "iso": "US-OR"
     },
     {
       "kind": "culture",
@@ -1627,7 +1662,13 @@
       "id": "anglosphere",
       "title": "the Anglosphere",
       "description": "The Anglosphere as a group: five English-speaking nations bound by language, law, and the Five Eyes.",
-      "references": ["australia", "canada", "new_zealand", "united_kingdom", "usa"]
+      "references": [
+        "australia",
+        "canada",
+        "new_zealand",
+        "united_kingdom",
+        "usa"
+      ]
     },
     {
       "kind": "group",
@@ -1653,14 +1694,22 @@
       "id": "baltics",
       "title": "The Baltics",
       "description": "The Baltics as a group: Estonia, Latvia, and Lithuania, bound by a shared occupation and a sung freedom.",
-      "references": ["estonia", "latvia", "lithuania"]
+      "references": [
+        "estonia",
+        "latvia",
+        "lithuania"
+      ]
     },
     {
       "kind": "group",
       "id": "benelux",
       "title": "Benelux",
       "description": "Benelux as a group: Belgium, the Netherlands, and Luxembourg, the small delta union that prototyped Europe.",
-      "references": ["belgium", "luxembourg", "netherlands"]
+      "references": [
+        "belgium",
+        "luxembourg",
+        "netherlands"
+      ]
     },
     {
       "kind": "group",
@@ -1705,7 +1754,11 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
-      "references": ["austria", "germany", "switzerland"]
+      "references": [
+        "austria",
+        "germany",
+        "switzerland"
+      ]
     },
     {
       "kind": "group",
@@ -1811,7 +1864,10 @@
       "id": "iberia",
       "title": "Iberia",
       "description": "Iberia as a group: Spain and Portugal, the peninsula that once divided the world between its two crowns.",
-      "references": ["portugal", "spain"]
+      "references": [
+        "portugal",
+        "spain"
+      ]
     },
     {
       "kind": "group",
@@ -1846,14 +1902,23 @@
       "id": "lusophone",
       "title": "the Lusophone World",
       "description": "The Lusophone world as a group: Portugal and Brazil, one tongue carried across the Atlantic by the sea.",
-      "references": ["brazil", "portugal"]
+      "references": [
+        "brazil",
+        "portugal"
+      ]
     },
     {
       "kind": "group",
       "id": "mercosur",
       "title": "the Southern Common Market",
       "description": "Mercosur as a group: the Southern Cone common market, born of rivals reconciled into a river-basin union.",
-      "references": ["argentina", "bolivia", "brazil", "paraguay", "uruguay"]
+      "references": [
+        "argentina",
+        "bolivia",
+        "brazil",
+        "paraguay",
+        "uruguay"
+      ]
     },
     {
       "kind": "group",
@@ -1900,7 +1965,13 @@
       "id": "nordics",
       "title": "The Nordics",
       "description": "The Nordics as a group: Denmark, Sweden, Norway, Finland, and Iceland, bound by a shared model and a common north.",
-      "references": ["denmark", "finland", "iceland", "norway", "sweden"]
+      "references": [
+        "denmark",
+        "finland",
+        "iceland",
+        "norway",
+        "sweden"
+      ]
     },
     {
       "kind": "group",
@@ -1950,14 +2021,24 @@
       "id": "the_andes",
       "title": "the Andean Community",
       "description": "The Andes as a group: the Andean Community, heirs of the Inca along the great cordillera.",
-      "references": ["bolivia", "colombia", "ecuador", "peru"]
+      "references": [
+        "bolivia",
+        "colombia",
+        "ecuador",
+        "peru"
+      ]
     },
     {
       "kind": "group",
       "id": "visegrad",
       "title": "The Visegrad Four",
       "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
-      "references": ["czechia", "hungary", "poland", "slovakia"]
+      "references": [
+        "czechia",
+        "hungary",
+        "poland",
+        "slovakia"
+      ]
     }
   ]
 }
