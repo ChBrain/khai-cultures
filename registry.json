@@ -1540,6 +1540,25 @@
     },
     {
       "kind": "group",
+      "id": "asean",
+      "title": "ASEAN",
+      "description": "ASEAN as a group: the Association of Southeast Asian Nations, eleven neighbours grown from five, bound by the ASEAN Way.",
+      "references": [
+        "brunei",
+        "cambodia",
+        "indonesia",
+        "laos",
+        "malaysia",
+        "myanmar",
+        "philippines",
+        "singapore",
+        "thailand",
+        "timor_leste",
+        "vietnam"
+      ]
+    },
+    {
+      "kind": "group",
       "id": "baltics",
       "title": "The Baltics",
       "description": "The Baltics as a group: Estonia, Latvia, and Lithuania, bound by a shared occupation and a sung freedom.",
@@ -1630,6 +1649,43 @@
         "slovenia",
         "spain",
         "sweden"
+      ]
+    },
+    {
+      "kind": "group",
+      "id": "francophonie",
+      "title": "the Francophone World",
+      "description": "The Francophonie as a group: twenty-nine nations on five continents that hold French as an official language, one tongue whose future is African.",
+      "references": [
+        "belgium",
+        "benin",
+        "burkina_faso",
+        "burundi",
+        "cameroon",
+        "canada",
+        "central_african_republic",
+        "chad",
+        "comoros",
+        "djibouti",
+        "dr_congo",
+        "equatorial_guinea",
+        "france",
+        "gabon",
+        "guinea",
+        "haiti",
+        "ivory_coast",
+        "luxembourg",
+        "madagascar",
+        "mali",
+        "monaco",
+        "niger",
+        "republic_of_congo",
+        "rwanda",
+        "senegal",
+        "seychelles",
+        "switzerland",
+        "togo",
+        "vanuatu"
       ]
     },
     {
