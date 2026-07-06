@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.218.0",
+  "version": "0.221.0",
   "cultures": [
     {
       "kind": "culture",
@@ -233,6 +233,13 @@
       "title": "Burundi",
       "description": "Burundi staged as a culture: the land of the sacred drum, the hills, the cattle, and one shared tongue.",
       "iso": "BI"
+    },
+    {
+      "kind": "culture",
+      "id": "california",
+      "title": "California",
+      "description": "California staged: the Golden State of gold rushes, Hollywood dreams, and Silicon Valley tech innovations.",
+      "iso": "US-CA"
     },
     {
       "kind": "culture",
@@ -943,6 +950,13 @@
     },
     {
       "kind": "culture",
+      "id": "new_york",
+      "title": "New York",
+      "description": "New York staged: the Empire State of canals, mass immigration, Wall Street crashes, and Broadway lights.",
+      "iso": "US-NY"
+    },
+    {
+      "kind": "culture",
       "id": "new_zealand",
       "title": "New Zealand",
       "description": "Two peoples bound by a founding treaty, an egalitarian nation at the edge of the world.",
@@ -1360,6 +1374,13 @@
       "title": "Tanzania",
       "description": "Tanzania staged as a culture: more than a hundred peoples bound into one nation by Kiswahili.",
       "iso": "TZ"
+    },
+    {
+      "kind": "culture",
+      "id": "texas",
+      "title": "Texas",
+      "description": "Texas staged: the Lone Star State of cowboys, oil booms, and space exploration, defined by rugged independence.",
+      "iso": "US-TX"
     },
     {
       "kind": "culture",
