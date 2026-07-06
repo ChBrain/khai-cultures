@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "the Francophone World"
-description: "The Francophonie as a group: twenty-nine nations on five continents that hold French as an official language, one tongue whose future is African."
+description: "The Francophonie as a group: the nations of official French on five continents, one tongue whose future is African."
 declared: "la Francophonie"
 language: fr
 license: CC-BY-NC-SA-4.0
