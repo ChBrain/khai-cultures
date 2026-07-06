@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.221.0",
+  "version": "0.226.0",
   "cultures": [
     {
       "kind": "culture",
@@ -460,6 +460,13 @@
     },
     {
       "kind": "culture",
+      "id": "florida",
+      "title": "Florida",
+      "description": "Florida staged: the Sunshine State of Spanish fortresses, tourism booms, Everglades airboats, and Cape Canaveral.",
+      "iso": "US-FL"
+    },
+    {
+      "kind": "culture",
       "id": "france",
       "title": "France",
       "description": "France staged as a culture: a republic of ideas and grandeur, where the state, laicite and the art de vivre meet.",
@@ -597,6 +604,13 @@
       "title": "Iceland",
       "description": "Iceland staged as a culture: a small, tough island nation that trusts it will sort itself out and lets none stand above.",
       "iso": "IS"
+    },
+    {
+      "kind": "culture",
+      "id": "illinois",
+      "title": "Illinois",
+      "description": "Illinois staged: the Prairie State of Lincoln's home, rebuilding fires, skyscraper loops, and vast cornfields.",
+      "iso": "US-IL"
     },
     {
       "kind": "culture",
@@ -838,6 +852,13 @@
     },
     {
       "kind": "culture",
+      "id": "massachusetts",
+      "title": "Massachusetts",
+      "description": "Massachusetts staged: the Bay State of Pilgrim landings, revolutionary tea parties, and Cambridge biotech hubs.",
+      "iso": "US-MA"
+    },
+    {
+      "kind": "culture",
       "id": "mauritania",
       "title": "Mauritania",
       "description": "The desert bridge of caravans and manuscripts, of tea and the tent, where the Maghreb meets the river south.",
@@ -1066,6 +1087,13 @@
       "title": "Paraguay",
       "description": "Una nación bilingüe forjada en el aislamiento y la pérdida, que guarda su alma guaraní y se rehízo de pie.",
       "iso": "PY"
+    },
+    {
+      "kind": "culture",
+      "id": "pennsylvania",
+      "title": "Pennsylvania",
+      "description": "Pennsylvania staged: the Keystone State of Quaker tolerance, independence halls, and Pittsburgh steel furnaces.",
+      "iso": "US-PA"
     },
     {
       "kind": "culture",
@@ -1528,6 +1556,13 @@
       "title": "Wales",
       "description": "Wales staged as a culture: a small nation that lost its princes and kept its language, its song, and its solidarity.",
       "iso": "GB-WLS"
+    },
+    {
+      "kind": "culture",
+      "id": "washington_dc",
+      "title": "Washington, D.C.",
+      "description": "Washington, D.C. staged: the federal capital of grand plans, civil rights marches, U Street jazz, and local home rule.",
+      "iso": "US-DC"
     },
     {
       "kind": "culture",

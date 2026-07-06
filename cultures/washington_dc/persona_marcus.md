@@ -1,0 +1,38 @@
+---
+khai: persona
+title: "Marcus"
+declared: "Marcus"
+language: en
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-07-06"
+type: archetype
+---
+
+# Persona: Marcus
+
+## Taxonomy
+
+[taxation without representation](position_taxation_without_representation.md)
+
+## Owner
+
+- Project: khai-cultures
+
+## Projection
+
+A thirty-six-year-old community organizer in the U Street corridor. English, spoken with a rhythmic local D.C. cadence, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and sings his songs. Amharic [he wears as an overgarment](process_speaking_worn.md) in his daily neighborhood work, communicating with the Ethiopian immigrant business owners who have reshaped the local economy. Yet the loss lies in the seam: The formal, regulation-oriented policy talk of federal archivists like Eleanor and the national debates on [the national stage](position_national_stage.md) [he hears only like a distant echo](process_hearing_followed.md), feeling that the local, daily survival of District residents is being ignored in the shadow of the Capitol.
+
+## Action
+
+He organizes community events, performs [go-go jams](process_go_go_jam.md), and advocates for [the D.C. statehood plan](plan_dc_statehood.md).
+
+## Shadow
+
+His pride in local culture and resistance to federal influence can make him suspicious of development grants, fearing they will accelerate displacement.
+
+## Tell
+
+He hits a cowbell during a street performance and says directly: "They want our taxes and they want our culture, but they don't want us to have a vote on Capitol Hill; it's time for home rule to mean real statehood."

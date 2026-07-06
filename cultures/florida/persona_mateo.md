@@ -1,0 +1,38 @@
+---
+khai: persona
+title: "Mateo"
+declared: "Mateo"
+language: en
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-07-06"
+type: archetype
+---
+
+# Persona: Mateo
+
+## Taxonomy
+
+[the gateway identity](position_gateway.md)
+
+## Owner
+
+- Project: khai-cultures
+
+## Projection
+
+A forty-five-year-old tour guide in St. Augustine. Spanish, spoken with the soft vowels of his family's Caribbean heritage, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and shares local legends. English [he wears as an overgarment](process_speaking_worn.md) for his daily tours, explaining colonial defenses to visitors. Yet the loss lies in the seam: The technology-oriented space talk of engineers like Jackson and the commercial demands of the space coast [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, century-old colonial history is being overshadowed by the rush for high-tech development.
+
+## Action
+
+He conducts historical tours, coordinates resources under [the Everglades restoration plan](plan_everglades_restoration.md), and studies the legacy of [the Sunshine Dream](position_sunshine_dream.md).
+
+## Shadow
+
+His focus on historic preservation can make him resistant to zoning reforms and transit improvements needed to protect the coastal city from rising sea levels.
+
+## Tell
+
+He looks at the stone walls of the fort and says thoughtfully: "A city isn't built overnight; these coquina stones have stood for centuries, and they'll still be here when the latest real estate boom is forgotten."
