@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.226.0",
+  "version": "0.231.0",
   "cultures": [
     {
       "kind": "culture",
@@ -495,6 +495,13 @@
     },
     {
       "kind": "culture",
+      "id": "georgia_us",
+      "title": "Georgia",
+      "description": "Georgia staged: the Peach State of Savannah plans, cotton plantation kingdoms, and Atlanta civil rights pulpits.",
+      "iso": "US-GA"
+    },
+    {
+      "kind": "culture",
       "id": "germany",
       "title": "Germany",
       "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory.",
@@ -789,6 +796,13 @@
     },
     {
       "kind": "culture",
+      "id": "louisiana",
+      "title": "Louisiana",
+      "description": "Louisiana staged: the Pelican State of Creole mixtures, Mississippi floods, jazz funerals, and bayou crawfish boils.",
+      "iso": "US-LA"
+    },
+    {
+      "kind": "culture",
       "id": "lower_saxony",
       "title": "Lower Saxony",
       "description": "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit.",
@@ -1038,6 +1052,13 @@
       "title": "Norway",
       "description": "Norway staged as a culture: a steep land of mountains and sea where people belong to nature and share the work.",
       "iso": "NO"
+    },
+    {
+      "kind": "culture",
+      "id": "ohio",
+      "title": "Ohio",
+      "description": "Ohio staged: the Buckeye State of the Northwest Ordinance, industrial rust belt valleys, and Wright aviation.",
+      "iso": "US-OH"
     },
     {
       "kind": "culture",
@@ -1552,10 +1573,24 @@
     },
     {
       "kind": "culture",
+      "id": "virginia",
+      "title": "Virginia",
+      "description": "Virginia staged: the Old Dominion of Jamestown covenants, presidential dynasties, Yorktown battles, and NoVa defense.",
+      "iso": "US-VA"
+    },
+    {
+      "kind": "culture",
       "id": "wales",
       "title": "Wales",
       "description": "Wales staged as a culture: a small nation that lost its princes and kept its language, its song, and its solidarity.",
       "iso": "GB-WLS"
+    },
+    {
+      "kind": "culture",
+      "id": "washington",
+      "title": "Washington",
+      "description": "Washington staged: the Evergreen State of Oregon treaties, Boeing assembly bays, Hanford sites, and Cascade hikes.",
+      "iso": "US-WA"
     },
     {
       "kind": "culture",
