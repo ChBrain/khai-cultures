@@ -25,13 +25,13 @@ Source: Geert Hofstede, Hofstede Insights (US comparison, adjusted for West Virg
 
 The plots, the historic personas they cast, the places, and the pieces are drawn from the public historical record.
 
-| Subject                      | In this culture                                                     | Scope                                                                                                |
-| ---------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Statehood Proclamation (1863)| [plot_01_statehood.md](plot_01_statehood.md)                       | West Virginia breaks away from Virginia during the Civil War, entering as a free state.              |
-| Battle of Blair Mtn (1921)   | [plot_02_blair_mountain.md](plot_02_blair_mountain.md)             | Ten thousand armed coal miners clash with state police and company guards in largest labor uprising. |
-| New River Gorge Tourism (1978)| [plot_03_new_river_gorge.md](plot_03_new_river_gorge.md)           | Establishment of the national river protection zone launches the outdoor rafting economy.            |
-| Blair Mountain               | [place_blair_mountain.md](place_blair_mountain.md)                 | The historic labor battle site in Logan County.                                                      |
-| New River Gorge              | [place_new_river_gorge.md](place_new_river_gorge.md)               | The deep river canyon and steel arch bridge in southern West Virginia.                               |
+| Subject                        | In this culture                                          | Scope                                                                                                |
+| ------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Statehood Proclamation (1863)  | [plot_01_statehood.md](plot_01_statehood.md)             | West Virginia breaks away from Virginia during the Civil War, entering as a free state.              |
+| Battle of Blair Mtn (1921)     | [plot_02_blair_mountain.md](plot_02_blair_mountain.md)   | Ten thousand armed coal miners clash with state police and company guards in largest labor uprising. |
+| New River Gorge Tourism (1978) | [plot_03_new_river_gorge.md](plot_03_new_river_gorge.md) | Establishment of the national river protection zone launches the outdoor rafting economy.            |
+| Blair Mountain                 | [place_blair_mountain.md](place_blair_mountain.md)       | The historic labor battle site in Logan County.                                                      |
+| New River Gorge                | [place_new_river_gorge.md](place_new_river_gorge.md)     | The deep river canyon and steel arch bridge in southern West Virginia.                               |
 
 The defining personas [Billy](persona_billy.md) and [Lilly](persona_lilly.md) are archetypes representing the underground coal miner and the white-water rafting guide.
 
