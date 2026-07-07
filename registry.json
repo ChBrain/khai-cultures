@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.256.0",
+  "version": "0.261.0",
   "cultures": [
     {
       "kind": "culture",
@@ -72,6 +72,13 @@
       "title": "Arizona",
       "description": "Arizona staged: the Grand Canyon State of desert resilience, Navajo code talkers, and copper mining boomtowns.",
       "iso": "US-AZ"
+    },
+    {
+      "kind": "culture",
+      "id": "arkansas",
+      "title": "Arkansas",
+      "description": "Arkansas staged: the Natural State of Hot Springs bathhouses, Ozark mountain valleys, and Wal-Mart retail hubs.",
+      "iso": "US-AR"
     },
     {
       "kind": "culture",
@@ -383,6 +390,13 @@
     },
     {
       "kind": "culture",
+      "id": "delaware",
+      "title": "Delaware",
+      "description": "Delaware staged: the First State of corporate chancery courts, DuPont gunpowder mills, and constitutional history.",
+      "iso": "US-DE"
+    },
+    {
+      "kind": "culture",
       "id": "denmark",
       "title": "Denmark",
       "description": "Denmark staged as a culture: a flat, trusting land where no one stands above and the good-enough wins.",
@@ -681,6 +695,13 @@
       "title": "Indonesia",
       "description": "An archipelago of thousands of islands made one nation by a chosen tongue and a shared creed.",
       "iso": "ID"
+    },
+    {
+      "kind": "culture",
+      "id": "iowa",
+      "title": "Iowa",
+      "description": "Iowa staged: the Hawkeye State of corn hybridization, Writers' Workshop seminars, and Iowa State Fair contests.",
+      "iso": "US-IA"
     },
     {
       "kind": "culture",
@@ -1027,6 +1048,13 @@
     },
     {
       "kind": "culture",
+      "id": "montana",
+      "title": "Montana",
+      "description": "Montana staged: the Treasure State of Butte copper mines, Glacier National Park valleys, and Crow tribal heritage.",
+      "iso": "US-MT"
+    },
+    {
+      "kind": "culture",
       "id": "montenegro",
       "title": "Montenegro",
       "description": "Montenegro staged as a culture: a warrior nation of the Black Mountain whose tongue is split by its own name.",
@@ -1143,6 +1171,13 @@
       "title": "North Carolina",
       "description": "North Carolina staged: the Tar Heel State of Roanoke colonies, Kitty Hawk flights, and Research Triangle labs.",
       "iso": "US-NC"
+    },
+    {
+      "kind": "culture",
+      "id": "north_dakota",
+      "title": "North Dakota",
+      "description": "North Dakota staged: the Flickertail State of Red River wheat farms, Bakken shale oil wells, and Missouri River dams.",
+      "iso": "US-ND"
     },
     {
       "kind": "culture",
