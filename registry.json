@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.251.0",
+  "version": "0.256.0",
   "cultures": [
     {
       "kind": "culture",
@@ -16,6 +16,13 @@
       "title": "Alabama",
       "description": "Alabama staged: the Heart of Dixie of civil rights boycotts, Huntsville space rockets, and Birmingham steel mills.",
       "iso": "US-AL"
+    },
+    {
+      "kind": "culture",
+      "id": "alaska",
+      "title": "Alaska",
+      "description": "Alaska staged: the Last Frontier State of Prudhoe Bay pipelines, Inupiat whale hunts, and glaciated marine fjords.",
+      "iso": "US-AK"
     },
     {
       "kind": "culture",
@@ -740,6 +747,13 @@
     },
     {
       "kind": "culture",
+      "id": "kansas",
+      "title": "Kansas",
+      "description": "Kansas staged: the Sunflower State of Wichita aviation hangars, winter wheat fields, and Bleeding Kansas history.",
+      "iso": "US-KS"
+    },
+    {
+      "kind": "culture",
       "id": "kazakhstan",
       "title": "Kazakhstan",
       "description": "Kazakhstan staged as a culture: the boundless steppe, the nomad's word, and a young nation reaching for the stars.",
@@ -870,6 +884,13 @@
       "title": "Madagascar",
       "description": "The great red island staged as a culture: a world apart, bound by fihavanana and the ancestors.",
       "iso": "MG"
+    },
+    {
+      "kind": "culture",
+      "id": "maine",
+      "title": "Maine",
+      "description": "Maine staged: the Pine Tree State of Portland Head lighthouses, Acadia conifer forests, and lobster fishery smacks.",
+      "iso": "US-ME"
     },
     {
       "kind": "culture",
@@ -1073,6 +1094,13 @@
       "title": "New Jersey",
       "description": "New Jersey staged: the Garden State of Menlo Park inventions, boardwalk empires, and Pine Barrens wilderness.",
       "iso": "US-NJ"
+    },
+    {
+      "kind": "culture",
+      "id": "new_mexico",
+      "title": "New Mexico",
+      "description": "New Mexico staged: the Land of Enchantment of Los Alamos nuclear labs, Taos Pueblo adobes, and desert solar science.",
+      "iso": "US-NM"
     },
     {
       "kind": "culture",
@@ -1731,6 +1759,13 @@
       "title": "Washington, D.C.",
       "description": "Washington, D.C. staged: the federal capital of grand plans, civil rights marches, U Street jazz, and local home rule.",
       "iso": "US-DC"
+    },
+    {
+      "kind": "culture",
+      "id": "west_virginia",
+      "title": "West Virginia",
+      "description": "West Virginia staged: the Mountain State of Blair labor battles, New River Gorge rafts, and Appalachian coal mines.",
+      "iso": "US-WV"
     },
     {
       "kind": "culture",
