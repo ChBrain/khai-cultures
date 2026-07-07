@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.241.0",
+  "version": "0.246.0",
   "cultures": [
     {
       "kind": "culture",
@@ -9,6 +9,13 @@
       "title": "Afghanistan",
       "description": "Afghanistan staged as a culture: the ancient crossroads of Asia, a land of poetry, mountains, and open doors.",
       "iso": "AF"
+    },
+    {
+      "kind": "culture",
+      "id": "alabama",
+      "title": "Alabama",
+      "description": "Alabama staged: the Heart of Dixie of civil rights boycotts, Huntsville space rockets, and Birmingham steel mills.",
+      "iso": "US-AL"
     },
     {
       "kind": "culture",
@@ -649,6 +656,13 @@
     },
     {
       "kind": "culture",
+      "id": "indiana",
+      "title": "Indiana",
+      "description": "Indiana staged: the Hoosier State of Indy 500 racing speedways, Bedford limestone quarries, and agricultural fields.",
+      "iso": "US-IN"
+    },
+    {
+      "kind": "culture",
       "id": "indonesia",
       "title": "Indonesia",
       "description": "An archipelago of thousands of islands made one nation by a chosen tongue and a shared creed.",
@@ -887,6 +901,13 @@
     },
     {
       "kind": "culture",
+      "id": "maryland",
+      "title": "Maryland",
+      "description": "Maryland staged: the Old Line State of Chesapeake Bay watermen, Fort McHenry defense, and biotech research labs.",
+      "iso": "US-MD"
+    },
+    {
+      "kind": "culture",
       "id": "massachusetts",
       "title": "Massachusetts",
       "description": "Massachusetts staged: the Bay State of Pilgrim landings, revolutionary tea parties, and Cambridge biotech hubs.",
@@ -940,6 +961,13 @@
       "title": "Minnesota",
       "description": "Minnesota staged: the Land of 10,000 Lakes of iron mining, Boundary Waters protection, and Minneapolis sound music.",
       "iso": "US-MN"
+    },
+    {
+      "kind": "culture",
+      "id": "missouri",
+      "title": "Missouri",
+      "description": "Missouri staged: the Show-Me State of the Gateway Arch, Kansas City jazz clubs, and Mississippi River trade.",
+      "iso": "US-MO"
     },
     {
       "kind": "culture",
@@ -1395,6 +1423,13 @@
       "title": "South Africa",
       "description": "A rainbow nation of many peoples who chose to forgive and build one home together.",
       "iso": "ZA"
+    },
+    {
+      "kind": "culture",
+      "id": "south_carolina",
+      "title": "South Carolina",
+      "description": "South Carolina staged: the Palmetto State of Gullah basket weaving, Charleston preservation, and Fort Sumter history.",
+      "iso": "US-SC"
     },
     {
       "kind": "culture",
