@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.246.0",
+  "version": "0.251.0",
   "cultures": [
     {
       "kind": "culture",
@@ -331,6 +331,13 @@
       "title": "Comoros",
       "description": "The Perfumed Islands staged as a culture: Islam, the sea, and the grand mariage that confers a man's place.",
       "iso": "KM"
+    },
+    {
+      "kind": "culture",
+      "id": "connecticut",
+      "title": "Connecticut",
+      "description": "Connecticut staged: the Constitution State of Yale gothic campuses, Groton shipyards, and Waterbury brass clocks.",
+      "iso": "US-CT"
     },
     {
       "kind": "culture",
@@ -740,6 +747,13 @@
     },
     {
       "kind": "culture",
+      "id": "kentucky",
+      "title": "Kentucky",
+      "description": "Kentucky staged: the Bluegrass State of Churchill Downs horse races, Appalachian coal mines, and Bourbon distilleries.",
+      "iso": "US-KY"
+    },
+    {
+      "kind": "culture",
       "id": "kenya",
       "title": "Kenya",
       "description": "Kenya staged as a culture: many peoples pulling together as one, under Kiswahili and harambee.",
@@ -1048,6 +1062,13 @@
     },
     {
       "kind": "culture",
+      "id": "nevada",
+      "title": "Nevada",
+      "description": "Nevada staged: the Silver State of Las Vegas Strip casinos, Hoover Dam concrete, and desert solar arrays.",
+      "iso": "US-NV"
+    },
+    {
+      "kind": "culture",
       "id": "new_jersey",
       "title": "New Jersey",
       "description": "New Jersey staged: the Garden State of Menlo Park inventions, boardwalk empires, and Pine Barrens wilderness.",
@@ -1136,6 +1157,13 @@
       "title": "Ohio",
       "description": "Ohio staged: the Buckeye State of the Northwest Ordinance, industrial rust belt valleys, and Wright aviation.",
       "iso": "US-OH"
+    },
+    {
+      "kind": "culture",
+      "id": "oklahoma",
+      "title": "Oklahoma",
+      "description": "Oklahoma staged: the Sooner State of oil drilling derricks, Cherokee heritage centers, and prairie farms.",
+      "iso": "US-OK"
     },
     {
       "kind": "culture",
@@ -1640,6 +1668,13 @@
       "title": "United States",
       "description": "A nation founded on a creed, forever closing the gap between its promise and its reality.",
       "iso": "US"
+    },
+    {
+      "kind": "culture",
+      "id": "utah",
+      "title": "Utah",
+      "description": "Utah staged: the Beehive State of Salt Lake pioneer temples, Silicon Slopes tech, and Zion red-rock canyons.",
+      "iso": "US-UT"
     },
     {
       "kind": "culture",
