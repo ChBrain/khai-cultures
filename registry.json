@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.261.0",
+  "version": "0.264.0",
   "cultures": [
     {
       "kind": "culture",
@@ -1524,6 +1524,13 @@
     },
     {
       "kind": "culture",
+      "id": "south_dakota",
+      "title": "South Dakota",
+      "description": "South Dakota staged: the Mount Rushmore State of Black Hills mining, presidential monuments, and Lakota heritage.",
+      "iso": "US-SD"
+    },
+    {
+      "kind": "culture",
       "id": "south_korea",
       "title": "South Korea",
       "description": "Korea staged as a culture: a people of deep feeling who made an alphabet, a family bond, and a wave the world follows.",
@@ -1762,6 +1769,13 @@
     },
     {
       "kind": "culture",
+      "id": "vermont",
+      "title": "Vermont",
+      "description": "Vermont staged: the Green Mountain State of maple sugarhouses, independent town meetings, and artisanal dairy craft.",
+      "iso": "US-VT"
+    },
+    {
+      "kind": "culture",
       "id": "vietnam",
       "title": "Vietnam",
       "description": "Vietnam staged as a culture: a people of the rice deltas, bound by family and an enduring will to remain themselves.",
@@ -1808,6 +1822,13 @@
       "title": "Wisconsin",
       "description": "Wisconsin staged: the Dairyland of cheese cooperatives, Milwaukee brewing booms, and progressive reforms.",
       "iso": "US-WI"
+    },
+    {
+      "kind": "culture",
+      "id": "wyoming",
+      "title": "Wyoming",
+      "description": "Wyoming staged: the Equality State of Yellowstone geysers, women's suffrage milestones, and alpine wilderness trails.",
+      "iso": "US-WY"
     },
     {
       "kind": "culture",
