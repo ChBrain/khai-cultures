@@ -1,5 +1,25 @@
 # @chbrain/khai-cultures
 
+## 0.265.0
+
+### Minor Changes
+
+- e68e23e: Add the first wave of United States subdivisions as full cultures: California (US-CA), New York (US-NY), and Texas (US-TX). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- f0509f7: Add the tenth wave of United States subdivisions as full cultures: Arkansas (US-AR), Delaware (US-DE), Iowa (US-IA), Montana (US-MT), and North Dakota (US-ND). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- b497bca: Add the eleventh and final wave of United States subdivisions as full cultures: South Dakota (US-SD), Vermont (US-VT), and Wyoming (US-WY). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- 05627cb: Add the second wave of United States subdivisions as full cultures: Florida (US-FL), Illinois (US-IL), Massachusetts (US-MA), Pennsylvania (US-PA), and Washington, D.C. (US-DC). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- 69f3306: Add the third wave of United States subdivisions as full cultures: Georgia (US-GA), Louisiana (US-LA), Ohio (US-OH), Virginia (US-VA), and Washington (US-WA). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- fa84038: Add the fourth wave of United States subdivisions as full cultures: Colorado (US-CO), Hawaii (US-HI), Michigan (US-MI), North Carolina (US-NC), and Oregon (US-OR). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- 724afe4: Add the fifth wave of United States subdivisions as full cultures: New Jersey (US-NJ), Arizona (US-AZ), Tennessee (US-TN), Wisconsin (US-WI), and Minnesota (US-MN). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- f4d94b0: Add the sixth wave of United States subdivisions as full cultures: Maryland (US-MD), Indiana (US-IN), Missouri (US-MO), Alabama (US-AL), and South Carolina (US-SC). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- 00f8e8d: Add the seventh wave of United States subdivisions as full cultures: Kentucky (US-KY), Utah (US-UT), Nevada (US-NV), Connecticut (US-CT), and Oklahoma (US-OK). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- 17d040e: Add the eighth wave of United States subdivisions as full cultures: Alaska (US-AK), New Mexico (US-NM), Maine (US-ME), Kansas (US-KS), and West Virginia (US-WV). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+
+### Patch Changes
+
+- dc2204c: Add the ASEAN group: the Association of Southeast Asian Nations, all eleven member states from the five founders of the 1967 Bangkok Declaration to Timor-Leste, admitted in October 2025 as the first enlargement since 1999. A referencing play (no geo, no pitch) whose membership the registry build derives from its casts, listing every member with its year of entry. Like NATO and the EU, its four plots trace the association's growth and change rather than a single event: the Bangkok Declaration (the 1967 founding by five neighbours fresh from confrontation), From Five to Ten (Brunei in 1984, then Vietnam, Laos, Myanmar, and Cambodia across the old Cold War line), the ASEAN Way Tested (the 1997 financial crisis, the 2007 Charter, and Myanmar since 2021), and the Eleventh Chair (Timor-Leste's accession, the ASEAN Economic Community, and ASEAN centrality). A referencing collection; it does not move the culture count, so it ships at the same count with a patch changeset.
+- 93003fe: Add the Francophonie group: the French-speaking world, the twenty-nine states on five continents that hold French as an official language, from France and its European neighbours through Canada and Haiti to the great Francophone Africa and Vanuatu. Authored in French (a single-language group, like the Hispanidad in Spanish and the Lusophone World in Portuguese). The cut is the language, not the institution: the OIF (whose full members since 2024 include states without official French, and which Mali, Burkina Faso, and Niger left in 2025 while keeping the language) is staged in the plots as the institutional circle, not in the Company. Its four plots trace the family's growth: la langue du roi (Villers-Cotterets, the Academie, and the first circle of neighbours), la traversee des oceans (New France and the survivance; Saint-Domingue and Haiti's 1804 republic), l'empire et les independances (the French and Belgian empires staged soberly, and the year 1960), and le basculement africain (Niamey 1970, the African majority of speakers, Kinshasa as the largest Francophone city, and the 2025 Sahel rupture). A referencing collection; it does not move the culture count, so it ships at the same count with a patch changeset.
+
 ## 0.219.0
 
 ### Minor Changes
