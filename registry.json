@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.236.0",
+  "version": "0.241.0",
   "cultures": [
     {
       "kind": "culture",
@@ -51,6 +51,13 @@
       "title": "Argentina",
       "description": "A nation of immigrants and passion, haunted by a greatness it once held and lost.",
       "iso": "AR"
+    },
+    {
+      "kind": "culture",
+      "id": "arizona",
+      "title": "Arizona",
+      "description": "Arizona staged: the Grand Canyon State of desert resilience, Navajo code talkers, and copper mining boomtowns.",
+      "iso": "US-AZ"
     },
     {
       "kind": "culture",
@@ -929,6 +936,13 @@
     },
     {
       "kind": "culture",
+      "id": "minnesota",
+      "title": "Minnesota",
+      "description": "Minnesota staged: the Land of 10,000 Lakes of iron mining, Boundary Waters protection, and Minneapolis sound music.",
+      "iso": "US-MN"
+    },
+    {
+      "kind": "culture",
       "id": "moldova",
       "title": "Moldova",
       "description": "Moldova pusă în scenă ca o cultură: o zonă de graniță cu podgorii și răscruci, definită de căutarea identității.",
@@ -1003,6 +1017,13 @@
       "title": "Netherlands",
       "description": "The Netherlands staged as a culture: a low country won from the sea by tolerance and consensus.",
       "iso": "NL"
+    },
+    {
+      "kind": "culture",
+      "id": "new_jersey",
+      "title": "New Jersey",
+      "description": "New Jersey staged: the Garden State of Menlo Park inventions, boardwalk empires, and Pine Barrens wilderness.",
+      "iso": "US-NJ"
     },
     {
       "kind": "culture",
@@ -1461,6 +1482,13 @@
     },
     {
       "kind": "culture",
+      "id": "tennessee",
+      "title": "Tennessee",
+      "description": "Tennessee staged: the Volunteer State of Nashville country songwriting, Memphis blues, and Great Smoky Mountains.",
+      "iso": "US-TN"
+    },
+    {
+      "kind": "culture",
       "id": "texas",
       "title": "Texas",
       "description": "Texas staged: the Lone Star State of cowboys, oil booms, and space exploration, defined by rugged independence.",
@@ -1633,6 +1661,13 @@
       "title": "Washington, D.C.",
       "description": "Washington, D.C. staged: the federal capital of grand plans, civil rights marches, U Street jazz, and local home rule.",
       "iso": "US-DC"
+    },
+    {
+      "kind": "culture",
+      "id": "wisconsin",
+      "title": "Wisconsin",
+      "description": "Wisconsin staged: the Dairyland of cheese cooperatives, Milwaukee brewing booms, and progressive reforms.",
+      "iso": "US-WI"
     },
     {
       "kind": "culture",
