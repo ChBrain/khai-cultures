@@ -1,5 +1,15 @@
 # @chbrain/khai-cultures
 
+## 0.287.0
+
+### Minor Changes
+
+- c03cf08: Add the missing Wave 9 United States subdivisions as full cultures: Idaho (US-ID), Mississippi (US-MS), Nebraska (US-NE), New Hampshire (US-NH), and Rhode Island (US-RI). Each is staged as a complete play with its own plots, personas, places, pieces, positions, processes, and plan.
+- 3ea4e69: Stage Wave 1 of Spain subdivisions (autonomous communities) as full cultures: Catalonia (ES-CT), Basque Country (ES-PV), Galicia (ES-GA), and Andalusia (ES-AN). Each is configured as an independent play with regional plots, personas, places, pieces, positions, processes, and an operational plan.
+- 4f4cba3: Stage Wave 2 of Spain subdivisions (autonomous communities) as full cultures: Madrid (ES-MD), Valencian Community (ES-VC), Aragon (ES-AR), and Canary Islands (ES-CN). Each is configured as an independent play with regional plots, personas, places, pieces, positions, processes, and an operational plan.
+- e9c1c7a: Stage Wave 3 of Spain subdivisions (autonomous communities) as full cultures: Castile and León (ES-CL), Castilla–La Mancha (ES-CM), Balearic Islands (ES-IB), and Extremadura (ES-EX). Each is configured as an independent play with regional plots, personas, places, pieces, positions, processes, and an operational plan.
+- fd2a6ca: Stage Wave 4 of Spain subdivisions (autonomous communities) as full cultures: Asturias (ES-AS), Cantabria (ES-CB), Navarre (ES-NC), La Rioja (ES-RI), and Murcia (ES-MC). Each is configured as an independent play with regional plots, personas, places, pieces, positions, processes, and an operational plan.
+
 ## 0.265.0
 
 ### Minor Changes
