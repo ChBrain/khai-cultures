@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.264.0",
+  "version": "0.269.0",
   "cultures": [
     {
       "kind": "culture",
@@ -670,6 +670,13 @@
     },
     {
       "kind": "culture",
+      "id": "idaho",
+      "title": "Idaho",
+      "description": "Idaho staged: the Gem State of Snake River irrigation canals, Sun Valley ski slopes, and Nez Perce tribal heritage.",
+      "iso": "US-ID"
+    },
+    {
+      "kind": "culture",
       "id": "illinois",
       "title": "Illinois",
       "description": "Illinois staged: the Prairie State of Lincoln's home, rebuilding fires, skyscraper loops, and vast cornfields.",
@@ -1020,6 +1027,13 @@
     },
     {
       "kind": "culture",
+      "id": "mississippi",
+      "title": "Mississippi",
+      "description": "Mississippi staged: the Hospitality State of blues plantations, cotton fields, and civil rights freedom schools.",
+      "iso": "US-MS"
+    },
+    {
+      "kind": "culture",
       "id": "missouri",
       "title": "Missouri",
       "description": "Missouri staged: the Show-Me State of the Gateway Arch, Kansas City jazz clubs, and Mississippi River trade.",
@@ -1097,6 +1111,13 @@
     },
     {
       "kind": "culture",
+      "id": "nebraska",
+      "title": "Nebraska",
+      "description": "Nebraska staged: the Cornhusker State of Chimney Rock trail landmarks, Sandhills ranches, and Arbor Day forestry.",
+      "iso": "US-NE"
+    },
+    {
+      "kind": "culture",
       "id": "nepal",
       "title": "Nepal",
       "description": "Nepal staged as a culture: the land in the lap of the Himalaya, where many peoples and two faiths live as one.",
@@ -1115,6 +1136,13 @@
       "title": "Nevada",
       "description": "Nevada staged: the Silver State of Las Vegas Strip casinos, Hoover Dam concrete, and desert solar arrays.",
       "iso": "US-NV"
+    },
+    {
+      "kind": "culture",
+      "id": "new_hampshire",
+      "title": "New Hampshire",
+      "description": "New Hampshire staged: the Granite State of Mount Washington cog railways, maple sugarhouses, and primary elections.",
+      "iso": "US-NH"
     },
     {
       "kind": "culture",
@@ -1339,6 +1367,13 @@
       "title": "Rhineland-Palatinate",
       "description": "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit.",
       "iso": "DE-RP"
+    },
+    {
+      "kind": "culture",
+      "id": "rhode_island",
+      "title": "Rhode Island",
+      "description": "Rhode Island staged: the Ocean State of Narragansett Bay boatyards, Newport mansions, and Roger Williams charter.",
+      "iso": "US-RI"
     },
     {
       "kind": "culture",
