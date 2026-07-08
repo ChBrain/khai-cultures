@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.273.0",
+  "version": "0.277.0",
   "cultures": [
     {
       "kind": "culture",
@@ -65,6 +65,13 @@
       "title": "Antigua and Barbuda",
       "description": "Two small islands that turned a sugar colony's chains into a free nation with a wide reach.",
       "iso": "AG"
+    },
+    {
+      "kind": "culture",
+      "id": "aragon",
+      "title": "Aragón",
+      "description": "Aragón representado: las cumbres del Pirineo, la jota en la plaza del Pilar y el pastoreo de las tierras secas.",
+      "iso": "ES-AR"
     },
     {
       "kind": "culture",
@@ -303,6 +310,13 @@
       "title": "Canada",
       "description": "Canada staged as a culture: a bilingual federation of two peoples and a mosaic, reckoning with its founding wrong.",
       "iso": "CA"
+    },
+    {
+      "kind": "culture",
+      "id": "canary_islands",
+      "title": "Islas Canarias",
+      "description": "Islas Canarias representada: el pico del Teide, el silbo gomero entre barrancos y las plataneras del Atlántico.",
+      "iso": "ES-CN"
     },
     {
       "kind": "culture",
@@ -940,6 +954,13 @@
       "title": "Madagascar",
       "description": "The great red island staged as a culture: a world apart, bound by fihavanana and the ancestors.",
       "iso": "MG"
+    },
+    {
+      "kind": "culture",
+      "id": "madrid",
+      "title": "Madrid",
+      "description": "Madrid representado: las avenidas de la capitalidad, la Puerta del Sol y las tabernas donde hierve el cocido.",
+      "iso": "ES-MD"
     },
     {
       "kind": "culture",
@@ -1815,6 +1836,13 @@
       "title": "Uzbekistan",
       "description": "The heart of the Silk Road staged as a culture: jewelled cities, the golden age of learning, and the mahalla.",
       "iso": "UZ"
+    },
+    {
+      "kind": "culture",
+      "id": "valencian_community",
+      "title": "Comunidad Valenciana",
+      "description": "Comunidad Valenciana representada: los arrozales de la Albufera, el estallido de las Fallas y la huerta de naranjos.",
+      "iso": "ES-VC"
     },
     {
       "kind": "culture",
