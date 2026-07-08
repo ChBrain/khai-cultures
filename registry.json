@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.277.0",
+  "version": "0.281.0",
   "cultures": [
     {
       "kind": "culture",
@@ -142,6 +142,13 @@
       "title": "Bahrain",
       "description": "Bahrain staged as a culture: ancient Dilmun, the two seas, and the pearl drawn from the deep.",
       "iso": "BH"
+    },
+    {
+      "kind": "culture",
+      "id": "balearic_islands",
+      "title": "Islas Baleares",
+      "description": "Islas Baleares representada: las terrazas de la Tramuntana, la ensaimada de Palma y las praderas de Posidonia.",
+      "iso": "ES-IB"
     },
     {
       "kind": "culture",
@@ -324,6 +331,20 @@
       "title": "Cape Verde",
       "description": "Ten volcanic islands of sodade and morabeza, one creole people scattered across the sea.",
       "iso": "CV"
+    },
+    {
+      "kind": "culture",
+      "id": "castile_and_leon",
+      "title": "Castilla y León",
+      "description": "Castilla y León representada: los campos de trigo de la meseta, las murallas medievales y el pastoreo del Duero.",
+      "iso": "ES-CL"
+    },
+    {
+      "kind": "culture",
+      "id": "castilla_la_mancha",
+      "title": "Castilla-La Mancha",
+      "description": "Castilla-La Mancha representada: los molinos de viento de Consuegra, las Tablas de Daimiel y la flor del azafrán.",
+      "iso": "ES-CM"
     },
     {
       "kind": "culture",
@@ -527,6 +548,13 @@
       "title": "Ethiopia",
       "description": "Ethiopia staged as a culture: an ancient, never-conquered land of faith, coffee, and many peoples as one.",
       "iso": "ET"
+    },
+    {
+      "kind": "culture",
+      "id": "extremadura",
+      "title": "Extremadura",
+      "description": "Extremadura representada: los encinares de la dehesa, los secanos de la frontera y los pimientos de La Vera.",
+      "iso": "ES-EX"
     },
     {
       "kind": "culture",
