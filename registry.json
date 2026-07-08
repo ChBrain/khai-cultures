@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.281.0",
+  "version": "0.286.0",
   "cultures": [
     {
       "kind": "culture",
@@ -100,6 +100,13 @@
       "title": "Armenia",
       "description": "An ancient highland nation kept by faith, the letter, and the mountain it cannot reach.",
       "iso": "AM"
+    },
+    {
+      "kind": "culture",
+      "id": "asturias",
+      "title": "Asturias",
+      "description": "Asturias representada: las cumbres de los Picos de Europa, el escanciado de sidra y las cuencas mineras de carbón.",
+      "iso": "ES-AS"
     },
     {
       "kind": "culture",
@@ -324,6 +331,13 @@
       "title": "Islas Canarias",
       "description": "Islas Canarias representada: el pico del Teide, el silbo gomero entre barrancos y las plataneras del Atlántico.",
       "iso": "ES-CN"
+    },
+    {
+      "kind": "culture",
+      "id": "cantabria",
+      "title": "Cantabria",
+      "description": "Cantabria representada: las cuevas de Altamira, las marismas de Santoña y las verdes cabañas de los valles pasiegos.",
+      "iso": "ES-CB"
     },
     {
       "kind": "culture",
@@ -901,6 +915,13 @@
     },
     {
       "kind": "culture",
+      "id": "la_rioja",
+      "title": "La Rioja",
+      "description": "La Rioja representada: las vides del Ebro, los monasterios de San Millán y las conservas vegetales de Calahorra.",
+      "iso": "ES-RI"
+    },
+    {
+      "kind": "culture",
       "id": "laos",
       "title": "Laos",
       "description": "Laos staged as a culture: the land of the wat, the river, and the unhurried heart of sticky rice.",
@@ -1167,6 +1188,13 @@
     },
     {
       "kind": "culture",
+      "id": "murcia",
+      "title": "Murcia",
+      "description": "Murcia representada: el regadío de la huerta, las salinas del Mar Menor y la historia cantonal de Cartagena.",
+      "iso": "ES-MC"
+    },
+    {
+      "kind": "culture",
       "id": "myanmar",
       "title": "Myanmar",
       "description": "Myanmar staged as a culture: a golden land of pagodas, river, and merit, one union of many peoples.",
@@ -1185,6 +1213,13 @@
       "title": "Nauru",
       "description": "Naoero: ribanan rik, eb me eo aen me imin boe, ngo etsi eko ma dorerin.",
       "iso": "NR"
+    },
+    {
+      "kind": "culture",
+      "id": "navarre",
+      "title": "Navarra",
+      "description": "Navarra representada: los hayedos de la selva de Irati, los encierros de Pamplona y los espárragos de la Ribera.",
+      "iso": "ES-NC"
     },
     {
       "kind": "culture",
