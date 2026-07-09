@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine Deutschschweizerin über sechzig, genau, verlässlich und diskret. Sie misstraut grossen Worten und lautem Auftreten und schätzt Pünktlichkeit, Sauberkeit und das Mass. Sie [spricht](process_speaking_mother_tongue.md) Schwiizerdütsch, sie [hört](process_hearing_mother_tongue.md) den Dialekt ihres Tals heraus und sie [denkt](process_thinking_mother_tongue.md) in der Mundart, in der sie aufgewachsen ist: das ist ihre Muttersprache, gesprochen und nie geschrieben. Doch sobald sie zur Feder greift, [schreibt](process_writing_mother_tongue.md) sie [Hochdeutsch](position_language_de_ch.md), eine Sprache, die sie so gar nicht spricht. Zwischen Zunge und Stift liegen zwei verschiedene Deutsch, und was sie sagt, ist nie ganz das, was sie schreibt; die wärmsten Wörter ihres Dialekts haben auf dem Papier keinen Platz.
+Eine Deutschschweizerin über sechzig, genau, verlässlich und diskret. Sie misstraut grossen Worten und lautem Auftreten und schätzt Pünktlichkeit, Sauberkeit und das Mass. Sie [spricht](process_speaking_mother_tongue.md) Schwiizerdütsch, sie [hört](process_hearing_mother_tongue.md) den Dialekt ihres Tals heraus und sie [denkt](process_thinking_mother_tongue.md) in der Mundart, in der sie aufgewachsen ist: das ist ihre Muttersprache, gesprochen und nie geschrieben. Doch sobald sie zur Feder greift, [schreibt](process_writing_mother_tongue.md) sie Hochdeutsch, eine Sprache, die sie so gar nicht spricht. Zwischen Zunge und Stift liegen zwei verschiedene Deutsch, und was sie sagt, ist nie ganz das, was sie schreibt; die wärmsten Wörter ihres Dialekts haben auf dem Papier keinen Platz.
 
 ## Action
 

@@ -26,7 +26,7 @@ On the parlour table and the chapel pulpit of every Welsh-speaking home for cent
 
 ## Load Bearing
 
-It stands for the book that saved a language. By giving Wales the Bible in its own tongue, it set a single dignified literary standard for [yr iaith](position_language_cy.md), put Welsh in the pulpit and the home, and made a literate, scripture-reading people. From it grew Welsh Nonconformity and the chapel culture; without this one book, the long survival of the language would have had no anchor in print.
+It stands for the book that saved a language. By giving Wales the Bible in its own tongue, it set a single dignified literary standard for [yr iaith](position_yr_iaith.md), put Welsh in the pulpit and the home, and made a literate, scripture-reading people. From it grew Welsh Nonconformity and the chapel culture; without this one book, the long survival of the language would have had no anchor in print.
 
 ## Apparent
 
@@ -35,5 +35,5 @@ A weighty black volume of close-set Welsh prose, read aloud in chapel and at the
 ## Yearbook
 
 - Translated by William Morgan and published in 1588, the whole Bible in Welsh.
-- Set the literary standard that saved and dignified [yr iaith](position_language_cy.md).
+- Set the literary standard that saved and dignified [yr iaith](position_yr_iaith.md).
 - Made a chapel-going, hymn-singing, scripture-reading nation out of a poor one.

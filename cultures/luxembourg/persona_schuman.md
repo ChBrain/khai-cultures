@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[le français du Luxembourg](position_language_fr_lu.md)
+[le régime des langues](position_le_regime_des_langues.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-L'homme de la frontière, né au Luxembourg et élevé entre deux mondes, qui devint l'un des pères de l'Europe. [Il parle et pense](process_speaking_mother_tongue.md) d'abord l'allemand et le luxembourgeois de sa jeunesse à la frontière, et le [français de l'État](position_language_fr_lu.md) qu'il sert, il le [porte comme l'habit du pouvoir](process_speaking_worn.md) ; les actes de la réconciliation, il les [rédige et les pèse](process_writing_drafted.md) dans les deux langues. Là est la faille : l'homme de la frontière des langues n'est tout à fait d'aucun des deux pays, et c'est de cet entre-deux qu'il tire une Europe unie.
+L'homme de la frontière, né au Luxembourg et élevé entre deux mondes, qui devint l'un des pères de l'Europe. [Il parle et pense](process_speaking_mother_tongue.md) d'abord l'allemand et le luxembourgeois de sa jeunesse à la frontière, et le français de l'État qu'il sert, il le [porte comme l'habit du pouvoir](process_speaking_worn.md) ; les actes de la réconciliation, il les [rédige et les pèse](process_writing_drafted.md) dans les deux langues. Là est la faille : l'homme de la frontière des langues n'est tout à fait d'aucun des deux pays, et c'est de cet entre-deux qu'il tire une Europe unie.
 
 ## Action
 
-Dans [Luxembourg et l'Europe](plot_04_luxembourg_et_l_europe.md) il lance la déclaration qui met en commun le charbon et l'acier des anciens ennemis, et fait de la frontière où il est né, et du [carrefour des langues](plan_vivre_en_plusieurs_langues.md), le cœur d'une union.
+Dans [Luxembourg et l'Europe](plot_04_luxembourg_et_l_europe.md) il lance la déclaration qui met en commun le charbon et l'acier des anciens ennemis, et fait de la frontière où il est né, et du [carrefour des langues](position_le_regime_des_langues.md), le cœur d'une union.
 
 ## Shadow
 

@@ -50,8 +50,6 @@ stamp:
 - [η διαίρεση](position_i_diairesi.md)
 - [το σταυροδρόμι](position_to_stavrodromi.md)
 - [η ελληνικότητα](position_i_ellinikotita.md)
-- [τα κυπριακά ελληνικά](position_language_el_cy.md)
-- [Kıbrıs Türkçesi](position_language_tr_cy.md)
 
 **Pieces**
 

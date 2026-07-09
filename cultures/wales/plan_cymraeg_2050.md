@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-A mandate: the kind of plan a [position](position_language_cy.md) carries. The deliberate, public scheme to reverse the slow loss of [the language](position_language_cy.md) that the cast lives out, so that what reaches the young as an echo reaches them again as a tongue.
+A mandate: the kind of plan a [position](position_yr_iaith.md) carries. The deliberate, public scheme to reverse the slow loss of [the language](position_yr_iaith.md) that the cast lives out, so that what reaches the young as an echo reaches them again as a tongue.
 
 ## Owner
 

@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Sotilas ja valtiomies, joka palveli ensin keisarin armeijassa ja palasi sitten johtamaan oman maansa puolustusta. Ryhdikäs, kylmäpäinen ja arvostettu, hän kantoi vierasta maailmaa taustallaan mutta seisoi Suomen puolella. Ruotsi oli hänen [äidinkielensä](process_speaking_mother_tongue.md), ja [suomen](position_language_fi.md) [hän oppi vasta myöhemmin ja kantoi sitä työkaluna](process_speaking_carried.md) palvellakseen kansaa, jonka kieli ei alun perin ollut hänen; keisarin palveluksen venäjää ja maailman ranskaa hän [luki ja seurasi](process_reading_followed.md) vieraina. Juuri siksi hän on silta: ruotsin hän jakaa rannikon ruotsinkielisten kanssa, suomen koko kansan kanssa, ja [Solveigin](persona_solveig.md) kaltaisten sanat hän kantaa suomeksi, jotta heidät kuullaan.
+Sotilas ja valtiomies, joka palveli ensin keisarin armeijassa ja palasi sitten johtamaan oman maansa puolustusta. Ryhdikäs, kylmäpäinen ja arvostettu, hän kantoi vierasta maailmaa taustallaan mutta seisoi Suomen puolella. Ruotsi oli hänen [äidinkielensä](process_speaking_mother_tongue.md), ja suomen [hän oppi vasta myöhemmin ja kantoi sitä työkaluna](process_speaking_carried.md) palvellakseen kansaa, jonka kieli ei alun perin ollut hänen; keisarin palveluksen venäjää ja maailman ranskaa hän [luki ja seurasi](process_reading_followed.md) vieraina. Juuri siksi hän on silta: ruotsin hän jakaa rannikon ruotsinkielisten kanssa, suomen koko kansan kanssa, ja [Solveigin](persona_solveig.md) kaltaisten sanat hän kantaa suomeksi, jotta heidät kuullaan.
 
 ## Action
 

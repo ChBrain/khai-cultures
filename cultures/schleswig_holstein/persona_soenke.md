@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En Mann ut [Flensborg](place_flensburg.md), boren dicht bi de Grenz. He [snackt, höört un denkt](process_speaking_mother_tongue.md) Platt, [dat Plattdüütsch](position_language_nds.md), un dat Hoochdüütsch vun't Amt [schrifft he](process_writing_drafted.md). He kennt beide Sieden un nimmt keen vun beid as Feind: dat beten Däänsch is em [bloots leent](process_speaking_borrowed.md), grad so veel, dat een sik över de [Grenz](position_grenzland.md) verstaan kann. För em is de Grenz keen Muur, man bloots en Streek up de Koort, un dat lütte beten leente Spraak maakt, dat de twee Sieden nich swiegen mööt.
+En Mann ut [Flensborg](place_flensburg.md), boren dicht bi de Grenz. He [snackt, höört un denkt](process_speaking_mother_tongue.md) Platt, [dat Plattdüütsch](position_plattduutsch.md), un dat Hoochdüütsch vun't Amt [schrifft he](process_writing_drafted.md). He kennt beide Sieden un nimmt keen vun beid as Feind: dat beten Däänsch is em [bloots leent](process_speaking_borrowed.md), grad so veel, dat een sik över de [Grenz](position_grenzland.md) verstaan kann. För em is de Grenz keen Muur, man bloots en Streek up de Koort, un dat lütte beten leente Spraak maakt, dat de twee Sieden nich swiegen mööt.
 
 ## Action
 

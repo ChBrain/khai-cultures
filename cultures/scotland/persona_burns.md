@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-The Bard, the makar o the haill nation: a puir ploughman frae Ayrshire that turnt his haund tae verse an sang an gied the common fowk a vyce that nae lord could whummle. He sang that a man's a man for a' that, that rank is but the guinea's stamp, an that the honest puir staun heid an shouther wi the great. He [scrieves, speaks an thinks](process_writing_mother_tongue.md) in his ain mither tongue, the [braid Scots](position_language_sco_gb_sct.md) o the kintraside, an made it a leid fit for ony thocht. The genteel English o the Embro drawin-rooms he [can pit on like a borraed coat](process_speaking_carried.md) whan he maun: there's the rift, the gentrie scrieve their English an caa Scots but a clatter, yet he liftit the fairmer's tongue intae sang that nae lord could whummle.
+The Bard, the makar o the haill nation: a puir ploughman frae Ayrshire that turnt his haund tae verse an sang an gied the common fowk a vyce that nae lord could whummle. He sang that a man's a man for a' that, that rank is but the guinea's stamp, an that the honest puir staun heid an shouther wi the great. He [scrieves, speaks an thinks](process_writing_mother_tongue.md) in his ain mither tongue, the [braid Scots](position_the_scots_tongue.md) o the kintraside, an made it a leid fit for ony thocht. The genteel English o the Embro drawin-rooms he [can pit on like a borraed coat](process_speaking_carried.md) whan he maun: there's the rift, the gentrie scrieve their English an caa Scots but a clatter, yet he liftit the fairmer's tongue intae sang that nae lord could whummle.
 
 ## Action
 

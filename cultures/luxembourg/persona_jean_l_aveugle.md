@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Le comte de Luxembourg devenu roi de Bohême, prince chevaleresque d'un carrefour d'Europe, qui voulut son petit pays plus grand que lui-même. [Il parle et pense](process_speaking_mother_tongue.md) la langue germanique de son pays, mais le [français de la chevalerie](position_language_fr_lu.md), il le [porte comme une seconde peau](process_speaking_worn.md), et le tchèque de son royaume de Bohême, il ne l'[attrape qu'à l'oreille](process_hearing_caught.md). Là est la faille : comte d'un carrefour et roi d'une terre lointaine, il est un homme de plusieurs langues qui n'appartient tout entier à aucune, et finit aveugle, chargeant vers sa mort à Crécy.
+Le comte de Luxembourg devenu roi de Bohême, prince chevaleresque d'un carrefour d'Europe, qui voulut son petit pays plus grand que lui-même. [Il parle et pense](process_speaking_mother_tongue.md) la langue germanique de son pays, mais le français de la chevalerie, il le [porte comme une seconde peau](process_speaking_worn.md), et le tchèque de son royaume de Bohême, il ne l'[attrape qu'à l'oreille](process_hearing_caught.md). Là est la faille : comte d'un carrefour et roi d'une terre lointaine, il est un homme de plusieurs langues qui n'appartient tout entier à aucune, et finit aveugle, chargeant vers sa mort à Crécy.
 
 ## Action
 

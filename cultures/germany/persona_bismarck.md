@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Der eiserne Kanzler. Ein Mann der kühlen Berechnung und des eisernen Willens, der die Macht nüchtern als Werkzeug begreift. Er traut keinem Pathos und keinem schnellen Gefühl, nur dem geprüften Plan und dem festen Apparat. Die deutsche Sprache hält er über alle Kanäle als [Muttersprache](process_speaking_mother_tongue.md): er [spricht](process_speaking_mother_tongue.md) und [schreibt](process_writing_mother_tongue.md) sie ganz, das knappe Befehlsdeutsch des preussischen Kanzlers, der selbstverständliche Grund, auf dem all sein Verhandeln ruht. Es ist das [deutschländische Deutsch](position_language_de_de.md) des neuen Reiches, in dem Kommando und Akte dasselbe Mass haben. Er gehört der [deutschen Kultur](position_deutsche_kultur.md) an und gibt ihr die Form des einen Reiches.
+Der eiserne Kanzler. Ein Mann der kühlen Berechnung und des eisernen Willens, der die Macht nüchtern als Werkzeug begreift. Er traut keinem Pathos und keinem schnellen Gefühl, nur dem geprüften Plan und dem festen Apparat. Die deutsche Sprache hält er über alle Kanäle als [Muttersprache](process_speaking_mother_tongue.md): er [spricht](process_speaking_mother_tongue.md) und [schreibt](process_writing_mother_tongue.md) sie ganz, das knappe Befehlsdeutsch des preussischen Kanzlers, der selbstverständliche Grund, auf dem all sein Verhandeln ruht. Es ist das [deutschländische Deutsch](position_deutsches_deutsch.md) des neuen Reiches, in dem Kommando und Akte dasselbe Mass haben. Er gehört der [deutschen Kultur](position_deutsche_kultur.md) an und gibt ihr die Form des einen Reiches.
 
 ## Action
 

@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[yr iaith](position_language_cy.md)
+[yr iaith](position_yr_iaith.md)
 
 ## Owner
 
@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Hen wraig Gymraeg ei hiaith a fagwyd yn y wlad, lle nad oedd neb yn siarad dim ond y Gymraeg. Mae hi'n gysylltiedig a'r capel, a'r aelwyd, ac ag eisteddfod y pentref; iddi hi, y filltir sgwar yw'r byd, a'r gymdogaeth a'r emyn sy'n bwysicach nag arian na statws. Mae hi'n [siarad](process_speaking_mother_tongue.md), yn [clywed](process_hearing_mother_tongue.md) ac yn [meddwl](process_thinking_mother_tongue.md) yn ei mamiaith, ac yn darllen ei Beibl a'i llyfr emynau ynddi yn rhwydd. Ond yn yr ysgol fe'i dysgwyd i [ysgrifennu yn Saesneg](process_writing_mother_tongue.md), a phan ddaw ffurflen neu lythyr swyddogol, yn Saesneg y daw'r geiriau; [prin ac araf yw ei llaw Gymraeg](process_writing_drafted.md). Dyna'r hollt: mae hi'n byw yn [Gymraeg](position_language_cy.md) ond yn ysgrifennu'r byd yn Saesneg, ac eto'n trosglwyddo'r iaith i'r plant fel y trysor pennaf.
+Hen wraig Gymraeg ei hiaith a fagwyd yn y wlad, lle nad oedd neb yn siarad dim ond y Gymraeg. Mae hi'n gysylltiedig a'r capel, a'r aelwyd, ac ag eisteddfod y pentref; iddi hi, y filltir sgwar yw'r byd, a'r gymdogaeth a'r emyn sy'n bwysicach nag arian na statws. Mae hi'n [siarad](process_speaking_mother_tongue.md), yn [clywed](process_hearing_mother_tongue.md) ac yn [meddwl](process_thinking_mother_tongue.md) yn ei mamiaith, ac yn darllen ei Beibl a'i llyfr emynau ynddi yn rhwydd. Ond yn yr ysgol fe'i dysgwyd i [ysgrifennu yn Saesneg](process_writing_mother_tongue.md), a phan ddaw ffurflen neu lythyr swyddogol, yn Saesneg y daw'r geiriau; [prin ac araf yw ei llaw Gymraeg](process_writing_drafted.md). Dyna'r hollt: mae hi'n byw yn Gymraeg ond yn ysgrifennu'r byd yn Saesneg, ac eto'n trosglwyddo'r iaith i'r plant fel y trysor pennaf.
 
 ## Action
 

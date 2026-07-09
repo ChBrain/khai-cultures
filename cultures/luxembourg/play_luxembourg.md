@@ -47,9 +47,7 @@ Un État minuscule, longtemps une forteresse convoitée, qui a appris à survivr
 
 **Positions**
 
-- [le français du Luxembourg](position_language_fr_lu.md)
-- [das Luxemburger Hochdeutsch](position_language_de_lu.md)
-- [o português do Luxemburgo](position_language_pt_lu.md)
+- [le régime des langues](position_le_regime_des_langues.md)
 - [mir wëlle bleiwe wat mir sinn](position_mir_welle_bleiwe.md)
 - [la place financière](position_la_place_financiere.md)
 

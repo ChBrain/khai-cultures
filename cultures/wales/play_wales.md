@@ -46,10 +46,9 @@ A small nation that lost its last native prince to the conqueror, saw its land r
 
 **Positions**
 
-- [yr iaith](position_language_cy.md)
+- [yr iaith](position_yr_iaith.md)
 - [y capel](position_y_capel.md)
 - [solidariaeth](position_solidariaeth.md)
-- [Welsh English](position_language_en_gb_wls.md)
 
 **Pieces**
 
@@ -69,7 +68,7 @@ A small nation that lost its last native prince to the conqueror, saw its land r
 
 **[Plot 1: The Death of Llywelyn 1282](plot_01_llywelyn_1282.md)**
 
-Llywelyn ap Gruffudd, the last native Prince of Wales, falls in 1282; Edward I rings [Eryri](place_eryri.md) with castles and breaks native rule, but cannot break [yr iaith](position_language_cy.md), the tongue of the conquered.
+Llywelyn ap Gruffudd, the last native Prince of Wales, falls in 1282; Edward I rings [Eryri](place_eryri.md) with castles and breaks native rule, but cannot break [yr iaith](position_yr_iaith.md), the tongue of the conquered.
 
 **[Plot 2: The Rising of Glyndwr 1400](plot_02_glyndwr_1400.md)**
 
@@ -77,7 +76,7 @@ Llywelyn ap Gruffudd, the last native Prince of Wales, falls in 1282; Edward I r
 
 **[Plot 3: The Welsh Bible 1588](plot_03_welsh_bible_1588.md)**
 
-William Morgan gives Wales [the Bible](piece_welsh_bible.md) in its own tongue, saving and standardising [yr iaith](position_language_cy.md) and laying the root of Welsh literacy and Nonconformity.
+William Morgan gives Wales [the Bible](piece_welsh_bible.md) in its own tongue, saving and standardising [yr iaith](position_yr_iaith.md) and laying the root of Welsh literacy and Nonconformity.
 
 **[Plot 4: Coal and Bevan](plot_04_coal_and_bevan.md)**
 

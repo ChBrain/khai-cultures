@@ -56,8 +56,7 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 - [der Kaufmann](position_kaufmann.md)
 - [Moin](position_moin.md)
 - [das Grenzland](position_grenzland.md)
-- [dat Plattdüütsch](position_language_nds.md)
-- [das Schleswig-Holsteiner Hochdeutsch](position_language_de_de_sh.md)
+- [dat Plattdüütsch](position_plattduutsch.md)
 
 **Pieces**
 

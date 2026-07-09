@@ -30,7 +30,7 @@ Toward the honouring of language and art as the common property of a whole peopl
 
 ## Lever
 
-The deep prizing of [yr iaith](position_language_cy.md) and of song drives it, and the egalitarian conviction that the word belongs to all. Against it stands only the pull of the larger world and the louder tongue, but the eisteddfod answers by making the language a thing of pride and ceremony.
+The deep prizing of [yr iaith](position_yr_iaith.md) and of song drives it, and the egalitarian conviction that the word belongs to all. Against it stands only the pull of the larger world and the louder tongue, but the eisteddfod answers by making the language a thing of pride and ceremony.
 
 ## Echo
 

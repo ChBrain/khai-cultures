@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En gammal kvinna från Åland, där man bara talar svenska. Hon [talar](process_speaking_mother_tongue.md), [hör](process_hearing_mother_tongue.md) och [tänker](process_thinking_mother_tongue.md) på [svenska](position_language_sv_fi.md), och [läser](process_reading_mother_tongue.md) sin värld på svenska; det är hela hennes värld. Men finskan kan hon knappt. För fastlandet, för ämbetet, för den finsktalande grannen blir hon stum, om inte någon bär hennes ord vidare. Utan en bro når hennes svenska inte över till det finska Finland.
+En gammal kvinna från Åland, där man bara talar svenska. Hon [talar](process_speaking_mother_tongue.md), [hör](process_hearing_mother_tongue.md) och [tänker](process_thinking_mother_tongue.md) på svenska, och [läser](process_reading_mother_tongue.md) sin värld på svenska; det är hela hennes värld. Men finskan kan hon knappt. För fastlandet, för ämbetet, för den finsktalande grannen blir hon stum, om inte någon bär hennes ord vidare. Utan en bro når hennes svenska inte över till det finska Finland.
 
 ## Action
 

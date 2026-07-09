@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-A mandate: the deliberate, century-long project to revive [an Ghaeilge](position_language_ga_ie.md), the first official language, as a living tongue rather than a school subject and a symbol and no more.
+A mandate: the deliberate, century-long project to revive [an Ghaeilge](position_an_ghaeilge.md), the first official language, as a living tongue rather than a school subject and a symbol and no more.
 
 ## Owner
 
