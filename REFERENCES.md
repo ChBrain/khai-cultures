@@ -27,7 +27,15 @@ minimums:
   artifacts; whatever khai type the scene requires.
 - `persona_` — the people: at least two **defining** personas (in generational
   tension), plus the historic personas the plots cast.
-- `position_` — a language position (a role the language encodes): one or more.
+- `position_` — a language position (a language **variety**): one or more. A
+  culture owns one position per variety its personas natively hold, named
+  `position_language_<bcp47>.md` (the locale, lowercased, hyphens as underscores:
+  `de_de`, `de_ch`, `en_us`, `en_ng`; monocentric tongues stay bare: `rm`, `hu`),
+  written in that tongue. Every persona marks **each tongue it uses, on any
+  channel** — twice: the `process_*` ladder leaf and the variety's position. Own
+  varieties link bare; a **foreign** tongue links cross-culture by path to the
+  exact variety in its home culture (`../nigeria/position_language_en_ng.md`). No
+  persona may use a tongue that has no position to hold it.
 - `place_` — a place (the capital at minimum): one or more.
 - `process_` — a cultural practice: one or more.
 - `piece_` — a culture-defining artifact: one or more.

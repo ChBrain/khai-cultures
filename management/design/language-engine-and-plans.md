@@ -102,8 +102,77 @@ dialect or another variety wins, `Drives` who holds it. Varieties are
 two personas holding different variety-positions of a shared base tongue. `pitch`
 stays reserved for the single Hofstede tone; it is not used for varieties.
 
+### 2.6 The language-position standard (variety, coverage, and the cross-culture rule)
+
+A language position is a **variety** (§2.5), one per tongue, never one collapsed
+position naming several (Switzerland fields four, not a single "Viersprachigkeit").
+Three laws govern the set.
+
+**Coverage — every tongue a persona _uses_, not just the mother tongue.** A persona
+is fully fleshed out: for **each** language it touches on **any** channel — spoken
+mother tongue, the tongue carried as a tool, the reply merely deciphered, the
+heritage tongue caught only by ear — that language is marked **twice**: once for the
+**ladder** (the `process_*` channel/width leaf) and once for its **position**. No
+persona may use a tongue that has no position to hold it.
+
+**Naming — the variety is the locale (BCP 47 / ISO).** `position_language_<tag>.md`,
+the IETF language tag lowercased with hyphens as underscores: `de_de` (German
+Standard German), `de_ch` (Swiss German), `de_at` (Austrian German), `en_us`,
+`en_gb`, `en_ng`, `fr_fr`, `fr_ch`. The region subtag is the culture's ISO 3166 code
+(the same one in `geo.json`); the base subtag is the `language:` ISO 639 code. A
+tongue that lives in **only one** culture house-wide drops the region and stays bare
+(`rm`, `hu`, `ja`). The file's `title`/`declared` still carry the human name
+(`das Schweizer Hochdeutsch`, `il rumantsch`), and it is **written in its own
+tongue** (`de_ch` carries `language: de`); rare tongues are registered in
+`khai.languages`.
+
+**Sub-national cultures own their own subdivided variety.** A US state, a German
+Land, a Spanish comunidad, a UK nation is its own culture with its own way of
+speaking, so it owns its variety at its ISO 3166-2 code — Texan American English is
+`en_us_tx`, Californian `en_us_ca`, Bavarian Standard German `de_de_by`, Scottish
+English `en_gb_sct` — never a bare reference to the parent nation. The cultural
+touch of a tongue lives in the region that speaks it.
+
+**Regional-tongue homelands own the tongue.** A minority/regional language belongs
+to the region where it is the identity tongue: Catalan → Catalonia (`ca`), Basque →
+Basque Country (`eu`), Galician → Galicia (`gl`), Welsh → Wales (`cy`). Where that
+region's personas were marked in the national language, they are **re-marked to hold
+the regional tongue** (its position, its Projection channel) so ownership sits in the
+homeland; speakers of it in the parent nation then link cross-culture to the homeland.
+
+**Ownership — a variety belongs to its home culture; foreign use links across.**
+German Standard German ≠ Swiss German ≠ Austrian German; American English ≠ British
+≠ Nigerian. Each culture **owns** only the varieties its personas natively hold, and
+links them **bare** (same directory). When a persona _uses_ a foreign tongue it does
+**not** get a local copy — it links **cross-culture by path** to the exact variety it
+uses, owned by that variety's home culture
+(`[Französischen](../france/position_language_fr_fr.md)` for Adenauer negotiating in
+metropolitan French; a German-Nigerian who speaks Nigerian English links
+`../nigeria/position_language_en_ng.md`). The variety chosen follows the persona's
+heritage and context, not a default. The canon link-check fails a position no
+persona links and a link that resolves to no owned file, so both coverage and
+ownership are gates, not habits.
+
+**Dialects — codified once, by the dominant region.** A dialect with its own ISO
+639-3 code (Scots `sco`, Bavarian `bar`, Low German `nds`, Swiss German `gsw`, North
+Frisian `frr`, …) is owned by the **one** culture where it is dominant, filed bare at
+that code (`scotland/position_language_sco.md`). A persona who speaks it **off that
+region** references the owner cross-culture (Ulster-Scots in Northern Ireland links
+`../scotland/position_language_sco.md`); the standard national tongue spoken beside
+it stays the locale variety. So a dialect is a single owned position, not a per-culture
+copy — the same ownership rule as any other variety, resolved to whichever region
+holds it dominant.
+
 ## 3. Rollout
 
+- **Two passes (ordering is forced by the ownership rule).** A cross-culture
+  foreign link can only resolve once its target variety-position exists, so the
+  rollout runs in two passes: **Pass A** creates every culture's **own** varieties
+  house-wide (each linked by its native holders — self-contained, always green);
+  **Pass B** then wires the **cross-culture** foreign-use links (each persona's
+  carried/caught/deciphered tongues → the exact variety in its home culture). Doing
+  a culture's foreign links before Pass A completes would point at files that do
+  not yet exist.
 - **Cadence:** one PR per culture, sequential (do one, merge, next), mirroring the
   build phase. Each is a non-count enrichment of an existing culture and ships
   with a **patch** changeset; the version is unchanged.
