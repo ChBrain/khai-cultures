@@ -71,14 +71,14 @@
     "test": "vitest run --test-timeout=30000",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version && npx khai-tests registry build && npm run format",
+    "version": "changeset version && npx khai-tests registry build",
     "release": "changeset publish",
     "registry": "npx khai-tests registry build"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.8",
     "@chbrain/khai-arch": "^0.1.19",
-    "@chbrain/khai-guard": "^0.1.12",
+    "@chbrain/khai-guard": "^0.1.16",
     "@chbrain/khai-language": "^0.1.21",
     "@chbrain/khai-pack": "^0.0.3",
     "@chbrain/khai-review": "^0.1.3",

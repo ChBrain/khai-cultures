@@ -42,17 +42,24 @@ Never `--no-verify`. Never merge; open the PR and stop.
 
 ## Versioning
 
-The minor version IS the culture count, computed not chosen. `khai-tests registry
-build` (run by the `version` script) sets the version from the count:
+The minor version IS the culture count, computed not chosen; the **Version
+Packages** PR is the deploy gate every release passes through. `npx khai-tests
+registry build` (run by the `version` script) sets the version from the count:
 `0.<count>.0` (the minor is the count, the patch resets to 0), reconciling both
-`package.json` and `registry.json`. The build is the single writer of the
-version; never hand-edit it. A fresh, empty house stays `0.0.x`.
+`package.json` and `registry.json`. The build is the single writer of the version
+number; never hand-edit it. A fresh, empty house stays `0.0.x`.
 
-- **Adding a culture** -> no changeset for the count. The PR runs `khai-tests
-registry build`, which moves the minor to the new culture count and resets the
-  patch to 0; `changeset publish` ships it.
-- **A non-content change** (governance, formatting, a fix to existing content) ->
-  a `patch` changeset; it ships at the same culture count.
+- **Adding a culture** -> a `minor` changeset. The PR carries it, so the deploy is
+  steered through the Version Packages PR and the CHANGELOG names the culture.
+  `changeset version` bumps the minor and the build reconciles it back to the
+  culture count, resetting the patch to 0 (`0.<count>.0`). It **must** be `minor`:
+  a `patch` (or empty) changeset survives the reconcile (count === minor) and
+  drifts the version to `0.<count>.1`, so the `changeset-check` gate rejects it.
+- **A fix to existing content** (ships package `files`) -> a `patch` changeset; it
+  ships at the same culture count (`0.<count>.1`).
+- **A change that ships nothing** (governance, tooling, docs, tests) -> an
+  **empty** changeset (`npx changeset add --empty`); it records the PR and merges
+  green without republishing identical content.
 
 ## Protection
 
