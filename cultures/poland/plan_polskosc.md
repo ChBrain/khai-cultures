@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandat, wciąż otwarty: pytanie, które wolna Polska zadaje sama sobie, czym ma być polskość, gdy nie broni jej już zaborca, i jak trzymać się [języka](position_jezyk_polski.md) i [wiary](position_kosciol.md) w otwartym świecie, nie czyniąc z nich muru.
+Mandat, wciąż otwarty: pytanie, które wolna Polska zadaje sama sobie, czym ma być polskość, gdy nie broni jej już zaborca, i jak trzymać się [języka](position_language_pl.md) i [wiary](position_kosciol.md) w otwartym świecie, nie czyniąc z nich muru.
 
 ## Owner
 
@@ -23,7 +23,7 @@ Mandat, wciąż otwarty: pytanie, które wolna Polska zadaje sama sobie, czym ma
 
 ## Direction
 
-Zachować to, co ocaliło naród bez państwa, mowę, wiarę i pamięć, jako żywe oparcie, a nie skansen ani granicę; trzymać [polszczyznę](position_jezyk_polski.md) u dzieci emigracji i pogodzić dumę z przetrwania z miejscem w Europie, nie zamieniając [martyrologii](position_martyrologia.md) w jedyną miarę narodu.
+Zachować to, co ocaliło naród bez państwa, mowę, wiarę i pamięć, jako żywe oparcie, a nie skansen ani granicę; trzymać [polszczyznę](position_language_pl.md) u dzieci emigracji i pogodzić dumę z przetrwania z miejscem w Europie, nie zamieniając [martyrologii](position_martyrologia.md) w jedyną miarę narodu.
 
 ## Orders
 

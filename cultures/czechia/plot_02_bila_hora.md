@@ -26,12 +26,12 @@ Po dvou stoletích, kdy si husitské Čechy uhájily svou víru, se protestantš
 
 ## Action
 
-Stavové prohrají za jedinou hodinu. Následuje poprava sedmadvaceti pánů na Staroměstském náměstí, vyhnání nekatolíků, zabavení statků a násilná rekatolizace. Nastává temno: tři století vlády Vídně, kdy se panským a úředním jazykem stane němčina a [český jazyk](position_cesky_jazyk.md) se stáhne z měst na vesnici, mezi prostý lid, a málem vymizí z písma.
+Stavové prohrají za jedinou hodinu. Následuje poprava sedmadvaceti pánů na Staroměstském náměstí, vyhnání nekatolíků, zabavení statků a násilná rekatolizace. Nastává temno: tři století vlády Vídně, kdy se panským a úředním jazykem stane němčina a [český jazyk](position_language_cs.md) se stáhne z měst na vesnici, mezi prostý lid, a málem vymizí z písma.
 
 ## Stage
 
 - [Praha](place_praha.md): pod jejími hradbami se bitva prohraje a na jejím náměstí padnou hlavy.
-- [český jazyk](position_cesky_jazyk.md): řeč zatlačená na venkov, již teprve obrození vzkřísí z knih.
+- [český jazyk](position_language_cs.md): řeč zatlačená na venkov, již teprve obrození vzkřísí z knih.
 
 ## Tension
 

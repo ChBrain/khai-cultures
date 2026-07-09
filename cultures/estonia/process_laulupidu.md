@@ -34,4 +34,4 @@ Ajab seda vajadus hoida ja edasi anda seda, mis elas üle mõisnikud ja okupandi
 
 ## Echo
 
-Laulupidu teeb kuuldavaks selle, mis hoiab [eesti keelt](position_eesti_keel.md): et kui rahval polnud riiki, oli tal laul ja rahvariie, ja nendes ta tundis end ära. Siin laulis ta end ka vabaks, ja siia toob [Aino](persona_aino.md) lapselapsed, et nad teaksid, kes nad on.
+Laulupidu teeb kuuldavaks selle, mis hoiab [eesti keelt](position_language_et.md): et kui rahval polnud riiki, oli tal laul ja rahvariie, ja nendes ta tundis end ära. Siin laulis ta end ka vabaks, ja siia toob [Aino](persona_aino.md) lapselapsed, et nad teaksid, kes nad on.

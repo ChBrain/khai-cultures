@@ -49,6 +49,7 @@ Lítil og hörð eyja, byggð af fólki sem flúði konungsvald og stofnaði þi
 - [þetta reddast](position_thetta_reddast.md)
 - [jafnréttið](position_jafnrettid.md)
 - [Alþingisarfurinn](position_althingisarfurinn.md)
+- [íslenskan](position_language_is.md)
 
 **Pieces**
 

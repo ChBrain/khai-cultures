@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandāts, vēl atvērts: jautājums, ko atjaunotā Latvija uzdod pati sev, proti, kā maza, ilgi pakļauta tauta noturēt [valodu](position_latviesu_valoda.md) un [dziesmu](position_dziesma.md) kā dzīvas saknes, [starp varenajiem kaimiņiem](position_starp_kaiminiem.md) iekļaut krievvalodīgo mazākumu vienā tautā, nezaudējot mēli, un pastāvēt, neizsīkstot un neizšķīstot.
+Mandāts, vēl atvērts: jautājums, ko atjaunotā Latvija uzdod pati sev, proti, kā maza, ilgi pakļauta tauta noturēt [valodu](position_language_lv.md) un [dziesmu](position_dziesma.md) kā dzīvas saknes, [starp varenajiem kaimiņiem](position_starp_kaiminiem.md) iekļaut krievvalodīgo mazākumu vienā tautā, nezaudējot mēli, un pastāvēt, neizsīkstot un neizšķīstot.
 
 ## Owner
 

@@ -26,12 +26,12 @@ V prvi polovici 16. stoletja živi slovensko ljudstvo kot kmetje pod nemškimi, 
 
 ## Action
 
-Leta 1550 izideta prvi slovenski tiskani knjigi, Katekizem in Abecednik, ki ju Trubar natisne v izgnanstvu na Nemškem. Z njima neslišana reč kmečkega ljudstva dobi črke, pravopis in prvo natisnjeno besedo; rodi se [slovenščina](position_slovenscina.md) kot knjižni jezik. Iz reči brez pisave nastane jezik naroda, ki še nima ne države ne meja, a od zdaj ima knjigo.
+Leta 1550 izideta prvi slovenski tiskani knjigi, Katekizem in Abecednik, ki ju Trubar natisne v izgnanstvu na Nemškem. Z njima neslišana reč kmečkega ljudstva dobi črke, pravopis in prvo natisnjeno besedo; rodi se [slovenščina](position_language_sl.md) kot knjižni jezik. Iz reči brez pisave nastane jezik naroda, ki še nima ne države ne meja, a od zdaj ima knjigo.
 
 ## Stage
 
 - [Primož Trubar](persona_trubar.md): pridigar in tiskar, ki reči da črke in narodu glas.
-- [slovenščina](position_slovenscina.md): neslišana reč, ki šele v tisku postane knjižni jezik.
+- [slovenščina](position_language_sl.md): neslišana reč, ki šele v tisku postane knjižni jezik.
 
 ## Tension
 

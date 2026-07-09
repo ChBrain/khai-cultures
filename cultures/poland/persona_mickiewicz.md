@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Wieszcz narodu bez państwa, poeta urodzony na dawnych kresach Rzeczypospolitej, którego car wygnał na wschód, a potem życie poniosło na emigrację do Paryża. Płomienny, mesjanistyczny, tęskniący, uczynił z polskiej krzywdy poezję, a z Polski Chrystusa narodów. Polszczyznę ma całą: [mówi](process_speaking_mother_tongue.md), [myśli](process_thinking_mother_tongue.md) i przede wszystkim [pisze](process_writing_mother_tongue.md) w mowie ojczystej tak, że "Pana Tadeusza" zaczyna od "Litwo, ojczyzno moja". Rosyjski zaborcy [nosi jak narzucone brzemię](process_speaking_worn.md), a francuski paryskiego wygnania [dźwiga jak narzędzie](process_speaking_carried.md), wykładając na Collège de France w cudzej mowie. Pisze ojczyznę w wierszu dla kraju, którego nie ma na mapie, z dala od ziemi, w której języku pisze.
+Wieszcz narodu bez państwa, poeta urodzony na dawnych kresach Rzeczypospolitej, którego car wygnał na wschód, a potem życie poniosło na emigrację do Paryża. Płomienny, mesjanistyczny, tęskniący, uczynił z polskiej krzywdy poezję, a z Polski Chrystusa narodów. Polszczyznę ma całą: [mówi](process_speaking_mother_tongue.md), [myśli](process_thinking_mother_tongue.md) i przede wszystkim [pisze](process_writing_mother_tongue.md) w mowie ojczystej tak, że "Pana Tadeusza" zaczyna od "Litwo, ojczyzno moja". Tą mową ojczystą jest [język polski](position_language_pl.md), ostatnia ojczyzna narodu bez państwa. Rosyjski zaborcy [nosi jak narzucone brzemię](process_speaking_worn.md), a francuski paryskiego wygnania [dźwiga jak narzędzie](process_speaking_carried.md), wykładając na Collège de France w cudzej mowie. Pisze ojczyznę w wierszu dla kraju, którego nie ma na mapie, z dala od ziemi, w której języku pisze.
 
 ## Action
 
-W [Rozbiorach](plot_01_rozbiory.md), gdy Polski nie ma, ocala ją w słowie: daje narodowi obraz siebie i [język](position_jezyk_polski.md) jako ostatnią ojczyznę. Podnosząc cierpienie do rangi posłannictwa, czyni [martyrologię](position_martyrologia.md) miarą polskiej duszy.
+W [Rozbiorach](plot_01_rozbiory.md), gdy Polski nie ma, ocala ją w słowie: daje narodowi obraz siebie i [język](position_language_pl.md) jako ostatnią ojczyznę. Podnosząc cierpienie do rangi posłannictwa, czyni [martyrologię](position_martyrologia.md) miarą polskiej duszy.
 
 ## Shadow
 

@@ -34,4 +34,4 @@ Grunt traci wobec języków, które wciskały się siłą, niemieckiego i rosyjs
 
 ## Drives
 
-Żyje w [Mickiewiczu](persona_mickiewicz.md), który ocalił ojczyznę w wierszu, w [Halinie](persona_halina.md), która zachowała mowę przez wojnę i komunizm, i w [Kubie](persona_kuba.md), którego polszczyzna blednie za granicą. Pcha Polskę, by trzymała się języka jako ostatniej i niezniszczalnej ojczyzny.
+Żyje w [Mickiewiczu](persona_mickiewicz.md), który ocalił ojczyznę w wierszu, w [Janie Pawle II](persona_jan_pawel_ii.md), który modlił się i wołał o Polskę po polsku, i w [Wałęsie](persona_walesa.md), który dosadną mową robotnika obalił imperium. Żyje też w [Halinie](persona_halina.md), która zachowała mowę przez wojnę i komunizm, i w [Kubie](persona_kuba.md), którego polszczyzna blednie za granicą. Pcha Polskę, by trzymała się języka jako ostatniej i niezniszczalnej ojczyzny.

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Een man van even in de twintig, opgegroeid in een open, verbonden wereld, met werk in de techniek en een leven dat half in het Engels wordt geleefd. [Hij spreekt, hoort en denkt](process_speaking_mother_tongue.md) zijn moedertaal, maar het Engels [draagt hij als vanzelfsprekend](process_speaking_worn.md), het ligt hem op de tong voor hij ernaar grijpt, en hij [leest en schrijft het](process_reading_followed.md) de hele dag op de universiteit en op het werk. Daar is de breuk van de jonge generatie: twee talen die hem beide na liggen, en een Nederlands dat steeds verder wijkt voor het Engels in de collegezaal en op het scherm.
+Een man van even in de twintig, opgegroeid in een open, verbonden wereld, met werk in de techniek en een leven dat half in het Engels wordt geleefd. [Hij spreekt, hoort en denkt](process_speaking_mother_tongue.md) [zijn moedertaal](position_language_nl_nl.md), maar het Engels [draagt hij als vanzelfsprekend](process_speaking_worn.md), het ligt hem op de tong voor hij ernaar grijpt, en hij [leest en schrijft het](process_reading_followed.md) de hele dag op de universiteit en op het werk. Daar is de breuk van de jonge generatie: twee talen die hem beide na liggen, en een Nederlands dat steeds verder wijkt voor het Engels in de collegezaal en op het scherm.
 
 ## Action
 

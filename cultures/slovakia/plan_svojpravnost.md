@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandát, stále otvorený: otázka, ktorú si samostatné Slovensko kladie samo, totiž ako z mladého, dlho ovládaného národa dorásť v štát, čo je pánom sám nad sebou, drží si [reč](position_slovencina.md) i [vieru](position_viera.md), ale premení skromnosť a malosť na pokojnú sebadôveru.
+Mandát, stále otvorený: otázka, ktorú si samostatné Slovensko kladie samo, totiž ako z mladého, dlho ovládaného národa dorásť v štát, čo je pánom sám nad sebou, drží si [reč](position_language_sk.md) i [vieru](position_viera.md), ale premení skromnosť a malosť na pokojnú sebadôveru.
 
 ## Owner
 

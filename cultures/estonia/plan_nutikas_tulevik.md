@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandaat, ikka veel avatud: küsimus, mille vaba Eesti endale ise esitab, nimelt kuidas jääda väikeseks, kuid nutikaks, hoida [oma keelt](position_eesti_keel.md), mille ainus sugulane on üle lahe, ja [pilku põhja](position_soome_sild.md), ja samal ajal leiutada end uuesti [tehnoloogia kaudu](position_e_eesti.md), kaotamata inimest ja metsa ekraani taha.
+Mandaat, ikka veel avatud: küsimus, mille vaba Eesti endale ise esitab, nimelt kuidas jääda väikeseks, kuid nutikaks, hoida [oma keelt](position_language_et.md), mille ainus sugulane on üle lahe, ja [pilku põhja](position_soome_sild.md), ja samal ajal leiutada end uuesti [tehnoloogia kaudu](position_e_eesti.md), kaotamata inimest ja metsa ekraani taha.
 
 ## Owner
 

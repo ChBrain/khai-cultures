@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandat, i dalje otvoren: pitanje koje samostalna Hrvatska postavlja sama sebi, naime kako od naroda koji je stoljećima bio predziđe tuđih carstava napokon biti gospodar na svome, držati [jezik](position_hrvatski_jezik.md), [vjeru](position_predzide_krscanstva.md) i [more](position_jadran.md) kao žive korijene, a obrambeni ponos i staru ranu pretvoriti u mirnu sigurnost.
+Mandat, i dalje otvoren: pitanje koje samostalna Hrvatska postavlja sama sebi, naime kako od naroda koji je stoljećima bio predziđe tuđih carstava napokon biti gospodar na svome, držati [jezik](position_language_hr.md), [vjeru](position_predzide_krscanstva.md) i [more](position_jadran.md) kao žive korijene, a obrambeni ponos i staru ranu pretvoriti u mirnu sigurnost.
 
 ## Owner
 

@@ -47,7 +47,7 @@ Egy nép, amely egyedül áll Európában: a magyar, finnugor eredetű nemzet, a
 
 **Positions**
 
-- [a magyar nyelv](position_magyar_nyelv.md)
+- [a magyar nyelv](position_language_hu.md)
 - [Trianon](position_trianon.md)
 - [a szabadságharc](position_szabadsagharc.md)
 
@@ -68,7 +68,7 @@ Egy nép, amely egyedül áll Európában: a magyar, finnugor eredetű nemzet, a
 
 **[Plot 1: Honfoglalás](plot_01_honfoglalas.md)**
 
-895 körül a magyar törzsek elfoglalják a Kárpát-medencét, és egy rokontalan, finnugor nép telepszik meg szlávok és németek között; megszületik [a magyar nyelv](position_magyar_nyelv.md) magánya Európa szívében.
+895 körül a magyar törzsek elfoglalják a Kárpát-medencét, és egy rokontalan, finnugor nép telepszik meg szlávok és németek között; megszületik [a magyar nyelv](position_language_hu.md) magánya Európa szívében.
 
 **[Plot 2: 1848](plot_02_1848.md)**
 
@@ -84,4 +84,4 @@ Egy nép, amely egyedül áll Európában: a magyar, finnugor eredetű nemzet, a
 
 ## Stakes
 
-Vajon egy magányos, fogyatkozó nép, amelynek nyelve senki szomszédjával nem rokon, s amelyet Trianon szétszabdalt, meg tudja-e tartani a szabad Európában a [nyelvét](position_magyar_nyelv.md), a határon túli magyarjait és az életkedvét, anélkül hogy a [sérelem](position_trianon.md) és a borúlátás az egész jövőjét meghatározná, vagy örökre a gyászba és a dacba zárkózik.
+Vajon egy magányos, fogyatkozó nép, amelynek nyelve senki szomszédjával nem rokon, s amelyet Trianon szétszabdalt, meg tudja-e tartani a szabad Európában a [nyelvét](position_language_hu.md), a határon túli magyarjait és az életkedvét, anélkül hogy a [sérelem](position_trianon.md) és a borúlátás az egész jövőjét meghatározná, vagy örökre a gyászba és a dacba zárkózik.

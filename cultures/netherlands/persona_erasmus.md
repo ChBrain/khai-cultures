@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-De humanist van Rotterdam, de geleerde die heel Europa zijn leermeester noemde en die de matiging en de spot tot wapens maakte tegen dwepers van elke kleur. [Hij spreekt](process_speaking_mother_tongue.md) zijn moedertaal, het Nederlands, maar zijn levenswerk [schrijft en slijpt hij in het Latijn](process_writing_drafted.md) om over alle grenzen heen gelezen te worden, en de Griekse en Latijnse ouden [leest en volgt hij](process_reading_followed.md) op de voet. Daar is de breuk: de beroemdste Nederlander geeft de wereld zijn geest in een taal die niemand als moedertaal spreekt, en laat zijn eigen volkstaal vrijwel ongeschreven.
+De humanist van Rotterdam, de geleerde die heel Europa zijn leermeester noemde en die de matiging en de spot tot wapens maakte tegen dwepers van elke kleur. [Hij spreekt](process_speaking_mother_tongue.md) zijn moedertaal, [het Nederlands](position_language_nl_nl.md), maar zijn levenswerk [schrijft en slijpt hij in het Latijn](process_writing_drafted.md) om over alle grenzen heen gelezen te worden, en de Griekse en Latijnse ouden [leest en volgt hij](process_reading_followed.md) op de voet. Daar is de breuk: de beroemdste Nederlander geeft de wereld zijn geest in een taal die niemand als moedertaal spreekt, en laat zijn eigen volkstaal vrijwel ongeschreven.
 
 ## Action
 

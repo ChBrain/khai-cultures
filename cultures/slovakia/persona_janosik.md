@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Zbojník z hôr, chlapec z liptovskej dediny, ktorý sa dal na hory a v ľudovej pamäti bral bohatým a dával chudobným, kým ho roku 1713 nechytili a neobesili na háku. Smelý, mladý, neskrotný, stal sa večným hrdinom malého ľudu pod pánmi. Slovenčinu má len v ústach: [hovorí, počuje a myslí](process_speaking_mother_tongue.md) v ľudovej materčine, ktorá vtedy ešte nemá písmo, takže ju [nečíta ani nepíše](process_reading_deciphered.md) a podpíše sa nanajvýš krížikom. Latinčinu a maďarčinu pánov, súdu a zemepánov len [chytá zo sluchu](process_hearing_caught.md), koľko ucho stihne. Žil rečou, ktorá nemala písmo, a rozsudok nad ním čítali po latinsky, v jazyku pánov.
+Zbojník z hôr, chlapec z liptovskej dediny, ktorý sa dal na hory a v ľudovej pamäti bral bohatým a dával chudobným, kým ho roku 1713 nechytili a neobesili na háku. Smelý, mladý, neskrotný, stal sa večným hrdinom malého ľudu pod pánmi. Slovenčinu má len v ústach: [hovorí, počuje a myslí](process_speaking_mother_tongue.md) v ľudovej materčine, ktorá vtedy ešte nemá písmo, takže ju [nečíta ani nepíše](process_reading_deciphered.md) a podpíše sa nanajvýš krížikom. Tou ľudovou materčinou je [slovenčina](position_language_sk.md), ktorá vtedy ešte nemá písmo. Latinčinu a maďarčinu pánov, súdu a zemepánov len [chytá zo sluchu](process_hearing_caught.md), koľko ucho stihne. Žil rečou, ktorá nemala písmo, a rozsudok nad ním čítali po latinsky, v jazyku pánov.
 
 ## Action
 

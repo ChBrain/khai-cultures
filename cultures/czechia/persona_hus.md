@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Kazatel a mistr pražské univerzity, který se ve jménu pravdy vzepřel zkažené církvi a odmítl odvolat, i když věděl, že hranice čeká. Přísný, neústupný, mravně tvrdý, kázal prostému lidu jeho vlastní řečí. Češtinu má celou: [mluví](process_speaking_mother_tongue.md), [myslí](process_thinking_mother_tongue.md) a [píše](process_writing_mother_tongue.md) v mateřštině tak, že kázal česky v Betlémské kapli a samu psanou češtinu zjednodušil diakritikou. Latinu církve a učení [nese jako nástroj](process_speaking_carried.md) a v ní se před koncilem hájí, němčinu mocných měst [snáší jako vnucenou](process_speaking_worn.md). Kázal pravdu řečí lidu a soudili ho latinsky, v zemi, jež nebyla jeho.
+Kazatel a mistr pražské univerzity, který se ve jménu pravdy vzepřel zkažené církvi a odmítl odvolat, i když věděl, že hranice čeká. Přísný, neústupný, mravně tvrdý, kázal prostému lidu jeho vlastní řečí. Češtinu má celou: [mluví](process_speaking_mother_tongue.md), [myslí](process_thinking_mother_tongue.md) a [píše](process_writing_mother_tongue.md) v mateřštině tak, že kázal česky v Betlémské kapli a samu psanou češtinu zjednodušil diakritikou. Tou mateřštinou je [český jazyk](position_language_cs.md), jemuž sám dal diakritiku. Latinu církve a učení [nese jako nástroj](process_speaking_carried.md) a v ní se před koncilem hájí, němčinu mocných měst [snáší jako vnucenou](process_speaking_worn.md). Kázal pravdu řečí lidu a soudili ho latinsky, v zemi, jež nebyla jeho.
 
 ## Action
 

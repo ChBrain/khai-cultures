@@ -31,7 +31,7 @@ La cumpăna veacurilor întâi și al doilea, dincolo de Dunăre, înflorește r
 ## Stage
 
 - [latinitatea](position_latinitatea.md): obârșia romană din care neamul își va trage întreaga mândrie.
-- [limba română](position_limba_romana.md): graiul latin născut în munți și rămas dovada vie a Romei.
+- [limba română](position_language_ro_ro.md): graiul latin născut în munți și rămas dovada vie a Romei.
 - [Transilvania](place_transilvania.md): inima vechii Dacii, unde stau și azi urmele cuceririi.
 
 ## Tension

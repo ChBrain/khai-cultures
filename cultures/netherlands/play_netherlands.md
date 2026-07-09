@@ -50,6 +50,7 @@ Een land dat zijn eigen grond uit de zee maakte en alleen droog blijft zolang ie
 - [gedogen](position_gedogen.md)
 - [het poldermodel](position_het_poldermodel.md)
 - [it Frysk](position_it_frysk.md)
+- [het Nederlands](position_language_nl_nl.md)
 
 **Pieces**
 

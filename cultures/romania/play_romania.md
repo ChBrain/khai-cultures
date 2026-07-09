@@ -47,7 +47,7 @@ O insulă latină într-o mare de slavi și de unguri: o limbă romanică născu
 
 **Positions**
 
-- [limba română](position_limba_romana.md)
+- [limba română](position_language_ro_ro.md)
 - [latinitatea](position_latinitatea.md)
 - [dor](position_dor.md)
 
@@ -68,11 +68,11 @@ O insulă latină într-o mare de slavi și de unguri: o limbă romanică născu
 
 **[Plot 1: Dacia](plot_01_dacia.md)**
 
-În anul 106 Traian îl învinge pe Decebal, Roma colonizează Dacia, și în Carpați se naște o [limbă latină](position_limba_romana.md) care va rămâne dovada vie a [latinității](position_latinitatea.md) neamului.
+În anul 106 Traian îl învinge pe Decebal, Roma colonizează Dacia, și în Carpați se naște o [limbă latină](position_language_ro_ro.md) care va rămâne dovada vie a [latinității](position_latinitatea.md) neamului.
 
 **[Plot 2: Eminescu](plot_02_eminescu.md)**
 
-În veacul al nouăsprezecelea [Mihai Eminescu](persona_eminescu.md) ridică [limba română](position_limba_romana.md) la cel mai înalt grad al ei și dă glas [dorului](position_dor.md), tocmai când limba își leapădă chirilicele și își ia litere latine.
+În veacul al nouăsprezecelea [Mihai Eminescu](persona_eminescu.md) ridică [limba română](position_language_ro_ro.md) la cel mai înalt grad al ei și dă glas [dorului](position_dor.md), tocmai când limba își leapădă chirilicele și își ia litere latine.
 
 **[Plot 3: Marea Unire](plot_03_marea_unire.md)**
 
@@ -84,4 +84,4 @@ O insulă latină într-o mare de slavi și de unguri: o limbă romanică născu
 
 ## Stakes
 
-Dacă neamul latin de la marginea răsăriteană a latinității, mereu frânt și mereu refăcut, izbutește să-și prefacă răbdarea și descurcăreala din simplă supraviețuire în zidire adevărată, să-și țină [limba](position_limba_romana.md), [latinitatea](position_latinitatea.md) și [dorul](position_dor.md) ca rădăcini vii, să oprească pustiirea satelor de plecarea celor ce muncesc printre verii latini din Italia și Spania, și să fie cu adevărat acasă în Europa pe care a numit-o dintotdeauna a lui.
+Dacă neamul latin de la marginea răsăriteană a latinității, mereu frânt și mereu refăcut, izbutește să-și prefacă răbdarea și descurcăreala din simplă supraviețuire în zidire adevărată, să-și țină [limba](position_language_ro_ro.md), [latinitatea](position_latinitatea.md) și [dorul](position_dor.md) ca rădăcini vii, să oprească pustiirea satelor de plecarea celor ce muncesc printre verii latini din Italia și Spania, și să fie cu adevărat acasă în Europa pe care a numit-o dintotdeauna a lui.

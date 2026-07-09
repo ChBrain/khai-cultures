@@ -34,4 +34,4 @@ Talajt veszít ma a világ angolja előtt, amelyben a fiatalok dolgoznak és él
 
 ## Drives
 
-Él [Széchenyiben](persona_szechenyi.md), aki a nyelvet a latin és a német mellől az ország nyelvévé emelte, és [Erzsiben](persona_erzsi.md), akinek a magyar az egyetlen és teljes szava, rokontalanul. Hajtja Magyarországot, hogy a rokontalan nyelvét úgy őrizze, mint a bizonyságot, hogy a nemzet a magáé, bármi essék is a határaival.
+Él [Széchenyiben](persona_szechenyi.md), aki a nyelvet a latin és a német mellől az ország nyelvévé emelte, [Petőfiben](persona_petofi.md), aki a rokontalan nyelv egyik legtisztább hangja lett, és [Nagy Imrében](persona_nagy_imre.md), aki magyarul mondta ki a szabadságot, amiért az életével fizetett. Él [Erzsiben](persona_erzsi.md), akinek a magyar az egyetlen és teljes szava, rokontalanul, és [Bencében](persona_bence.md), akinek a határon túl is az anyanyelve marad a hazája. Hajtja Magyarországot, hogy a rokontalan nyelvét úgy őrizze, mint a bizonyságot, hogy a nemzet a magáé, bármi essék is a határaival.

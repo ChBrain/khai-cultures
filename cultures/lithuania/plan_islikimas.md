@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandatas, vis dar atviras: klausimas, kurį atkurta Lietuva kelia pati sau, būtent kaip mažai, ne kartą pavergtai tautai išlikti, išlaikant archajišką [kalbą](position_lietuviu_kalba.md), [tikėjimą](position_katalikybe.md) ir [didybės atmintį](position_didzioji_kunigaikstyste.md) kaip gyvas šaknis, o ne kaip skansena, ir paverčiant skausmą bei pasididžiavimą ramia saviverte.
+Mandatas, vis dar atviras: klausimas, kurį atkurta Lietuva kelia pati sau, būtent kaip mažai, ne kartą pavergtai tautai išlikti, išlaikant archajišką [kalbą](position_language_lt.md), [tikėjimą](position_katalikybe.md) ir [didybės atmintį](position_didzioji_kunigaikstyste.md) kaip gyvas šaknis, o ne kaip skansena, ir paverčiant skausmą bei pasididžiavimą ramia saviverte.
 
 ## Owner
 

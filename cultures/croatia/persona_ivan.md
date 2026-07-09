@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[hrvatski jezik](position_hrvatski_jezik.md)
+[hrvatski jezik](position_language_hr.md)
 
 ## Owner
 
@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Mladić poslije tridesete, koji je nakon ulaska u Uniju otišao trbuhom za kruhom, u Njemačku pa u Irsku, a ljeti se vraća raditi sezonu u turizmu na obali. Vrijedan, snalažljiv, razdvojen, ponosan je na svoje korijene, a život si gradi drugdje. Hrvatski još ima cijeloga: [govori, misli](process_speaking_mother_tongue.md) i [čita](process_reading_mother_tongue.md) na materinjem, ali mu u govor pada sve više engleskoga. Engleski iseljeništva i turizma, jezik kojim radi i živi vani, [nosi kao alat](process_speaking_carried.md) i [čita i prati](process_reading_followed.md) bez napora. Srpski blizanac, na koji nailazi na internetu i među iseljenicima, [razumije ga i prati](process_reading_followed.md) i [čuje](process_hearing_followed.md) kao svoj, premda inzistira da nije njegov. Iza svega ostaje pukotina na rubu jezika: njegov mali hrvatski stiska se između engleskoga njegova iseljeništva i srpskoga blizanca koji odbija biti, i u dijaspori se tanji u jezik blagdana i kuće.
+Mladić poslije tridesete, koji je nakon ulaska u Uniju otišao trbuhom za kruhom, u Njemačku pa u Irsku, a ljeti se vraća raditi sezonu u turizmu na obali. Vrijedan, snalažljiv, razdvojen, ponosan je na svoje korijene, a život si gradi drugdje. Hrvatski još ima cijeloga: [govori, misli](process_speaking_mother_tongue.md) i [čita](process_reading_mother_tongue.md) na materinjem, ali mu u govor pada sve više engleskoga. Taj materinji jezik je [hrvatski jezik](position_language_hr.md), na koji je ponosan. Engleski iseljeništva i turizma, jezik kojim radi i živi vani, [nosi kao alat](process_speaking_carried.md) i [čita i prati](process_reading_followed.md) bez napora. Srpski blizanac, na koji nailazi na internetu i među iseljenicima, [razumije ga i prati](process_reading_followed.md) i [čuje](process_hearing_followed.md) kao svoj, premda inzistira da nije njegov. Iza svega ostaje pukotina na rubu jezika: njegov mali hrvatski stiska se između engleskoga njegova iseljeništva i srpskoga blizanca koji odbija biti, i u dijaspori se tanji u jezik blagdana i kuće.
 
 ## Action
 

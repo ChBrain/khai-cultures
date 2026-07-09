@@ -30,7 +30,7 @@ A 9. század végén a magyar törzsek a keleti sztyeppékről nyugatra vándoro
 
 ## Stage
 
-- [a magyar nyelv](position_magyar_nyelv.md): a rokontalan beszéd, amely a néppel a medencébe érkezik.
+- [a magyar nyelv](position_language_hu.md): a rokontalan beszéd, amely a néppel a medencébe érkezik.
 - [Budapest](place_budapest.md): a Duna két partja, ahol később a nemzet központja nő fel.
 
 ## Tension

@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: latviešu valoda
@@ -34,4 +34,4 @@ Zemi šodien zaudē pret atvērtās pasaules angļu valodu, kurā jaunie strād�
 
 ## Drives
 
-Dzīvo [Vīķē-Freibergā](persona_vike_freiberga.md), kas savu valodu noturēja veselu cauri trimdai un atgriezās tajā vest valsti, un [Robertā](persona_roberts.md), kura mazā mēle iesprūst starp jaunās zemes angļu valodu un krievu valodu, kas vēl skan viņa dzimtajā pilsētā. Dzen Latviju turēties pie vēlu izcīnītās valodas kā pierādījuma, ka tauta ir sava, arī tad, kad valsti dabūja pēdējā.
+Dzīvo [Baronā](persona_barons.md), kas glāba miljonu dainu un deva zemnieka mēlei rakstu un kārtību, [Valdemārā](persona_valdemars.md), kas pirmais atklāti rakstīja sevi par latvieti un cēla tautu no zemnieka kārtas, [Vīķē-Freibergā](persona_vike_freiberga.md), kas savu valodu noturēja veselu cauri trimdai un atgriezās tajā vest valsti, [Martā](persona_marta.md), kas gadu desmitiem dziedāja savā mēlē pa pusei krieviskā Rīgā, un [Robertā](persona_roberts.md), kura mazā mēle iesprūst starp jaunās zemes angļu valodu un krievu valodu, kas vēl skan viņa dzimtajā pilsētā. Dzen Latviju turēties pie vēlu izcīnītās valodas kā pierādījuma, ka tauta ir sava, arī tad, kad valsti dabūja pēdējā.

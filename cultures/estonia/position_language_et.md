@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: eesti keel
@@ -34,4 +34,4 @@ Pinda kaotab täna lääne inglise keelele, milles noored töötavad ja elavad e
 
 ## Drives
 
-Elab [Koidulas](persona_koidula.md), kes tegi talupojakeelest luule ja teatri, ja [Ainos](persona_aino.md), kes hoidis oma vaikse eesti keele tervena läbi nõukogude aastate, kui kool surus peale vene keelt. Ajab Eestit hoidma hilja võidetud keelt kui tõendit, et rahvas on omaette, ka siis, kui ainus keelesugulane on üle vee.
+Elab [Koidulas](persona_koidula.md), kes tegi talupojakeelest luule ja teatri, [Meris](persona_meri.md), kes rääkis pisikese rahva selle keelega tagasi rahvaste perre, [Ilveses](persona_ilves.md), kes hoidis emakeele paguluses alles ja ehitas selles digitaalse riigi, [Ainos](persona_aino.md), kes hoidis oma vaikse eesti keele tervena läbi nõukogude aastate, kui kool surus peale vene keelt, ja [Kristjanis](persona_kristjan.md), kellel on väike keel pihus soome sugulaskeele ja maailma inglise keele vahel. Ajab Eestit hoidma hilja võidetud keelt kui tõendit, et rahvas on omaette, ka siis, kui ainus keelesugulane on üle vee.
