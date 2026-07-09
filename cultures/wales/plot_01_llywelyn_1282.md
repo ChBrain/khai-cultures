@@ -26,12 +26,12 @@ Llywelyn ap Gruffudd, Llywelyn the Last, holds the title of Prince of Wales and 
 
 ## Action
 
-In December 1282 Llywelyn is cut down at Cilmeri, and with him falls the last native Prince of Wales. Edward sweeps through, rings the mountains with a chain of great castles, and binds the country to the English crown. The rule of the Welsh princes is broken, but the conquest cannot reach the one thing it does not understand: [yr iaith](position_yr_iaith.md), the tongue the conquered keep speaking.
+In December 1282 Llywelyn is cut down at Cilmeri, and with him falls the last native Prince of Wales. Edward sweeps through, rings the mountains with a chain of great castles, and binds the country to the English crown. The rule of the Welsh princes is broken, but the conquest cannot reach the one thing it does not understand: [yr iaith](position_language_cy.md), the tongue the conquered keep speaking.
 
 ## Stage
 
 - [Eryri](place_eryri.md): the mountain heartland that is ringed and held down by the castles.
-- [yr iaith](position_yr_iaith.md): the language that survives the loss of every prince and every fort.
+- [yr iaith](position_language_cy.md): the language that survives the loss of every prince and every fort.
 
 ## Tension
 

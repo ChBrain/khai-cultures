@@ -35,4 +35,4 @@ Easter 1916, and the Great War raging away across Europe, a small band of republ
 
 ## Tension
 
-Independence is won, but sure the new state speaks English, and the Gaelic Ireland the rebels dreamed of stays an aspiration and no more: the freedom is real, the revived [language](position_an_ghaeilge.md) is not, and the nation is born already speaking the very tongue it set out to leave behind it.
+Independence is won, but sure the new state speaks English, and the Gaelic Ireland the rebels dreamed of stays an aspiration and no more: the freedom is real, the revived [language](position_language_ga_ie.md) is not, and the nation is born already speaking the very tongue it set out to leave behind it.

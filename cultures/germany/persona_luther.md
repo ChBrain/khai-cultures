@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein Mönch und Gelehrter, der seine Sache, die Schrift, beherrscht wie kein Zweiter und sich darauf das Recht nimmt, sie gegen die höchste Obrigkeit zu deuten. Streng, derb, unbeugsam im Gewissen. Er [spricht](process_speaking_mother_tongue.md) und [schreibt](process_writing_mother_tongue.md) ein Deutsch, das jeder versteht, und gibt dem Volk die Schrift, indem er sie in die Muttersprache überträgt. Aus dem Gewirr der Mundarten schreibt er ein einziges Deutsch auf das Papier und macht die Seite selbst zum Mass: das geschriebene [deutschländische Deutsch](position_deutsches_deutsch.md), den Standard, den die anderen nach ihm erben. Er findet nicht eine Sprache vor, er stiftet sie - die Schrift wird zur Norm, in der erst alle lesen lernen. Damit steht er am Ursprung der [deutschen Kultur](position_deutsche_kultur.md), deren Schriftsprache er erst stiftet.
+Ein Mönch und Gelehrter, der seine Sache, die Schrift, beherrscht wie kein Zweiter und sich darauf das Recht nimmt, sie gegen die höchste Obrigkeit zu deuten. Streng, derb, unbeugsam im Gewissen. Er [spricht](process_speaking_mother_tongue.md) und [schreibt](process_writing_mother_tongue.md) ein Deutsch, das jeder versteht, und gibt dem Volk die Schrift, indem er sie in die Muttersprache überträgt. Aus dem Gewirr der Mundarten schreibt er ein einziges Deutsch auf das Papier und macht die Seite selbst zum Mass: das geschriebene [deutschländische Deutsch](position_language_de_de.md), den Standard, den die anderen nach ihm erben. Er findet nicht eine Sprache vor, er stiftet sie - die Schrift wird zur Norm, in der erst alle lesen lernen. Damit steht er am Ursprung der [deutschen Kultur](position_deutsche_kultur.md), deren Schriftsprache er erst stiftet.
 
 ## Action
 

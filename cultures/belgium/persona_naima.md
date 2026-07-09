@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Une jeune Bruxelloise née d'une famille venue d'ailleurs, chez elle dans la capitale mêlée et internationale, dans son kot d'étudiante puis dans son quartier. [Elle parle, écoute et pense](process_speaking_mother_tongue.md) en français, la langue de la ville, mais elle [manie le néerlandais](process_speaking_carried.md) de la cité bilingue et du travail, [attrape l'arabe](process_hearing_caught.md) de la maison de ses parents, et [porte l'anglais](process_speaking_worn.md) de l'Europe qui siège à sa porte. Elle est le pont : là est la faille, au bord même de la langue, elle passe de l'une à l'autre en une journée et fait se parler ceux qui ne se comprennent pas, mais la ville elle-même reste un îlot français contesté en terre flamande, et elle n'appartient tout entière à aucun des deux camps.
+Une jeune Bruxelloise née d'une famille venue d'ailleurs, chez elle dans la capitale mêlée et internationale, dans son kot d'étudiante puis dans son quartier. [Elle parle, écoute et pense](process_speaking_mother_tongue.md) en [français](position_language_fr_be.md), la langue de la ville, mais elle [manie le néerlandais](process_speaking_carried.md) de la cité bilingue et du travail, [attrape l'arabe](process_hearing_caught.md) de la maison de ses parents, et [porte l'anglais](process_speaking_worn.md) de l'Europe qui siège à sa porte. Elle est le pont : là est la faille, au bord même de la langue, elle passe de l'une à l'autre en une journée et fait se parler ceux qui ne se comprennent pas, mais la ville elle-même reste un îlot français contesté en terre flamande, et elle n'appartient tout entière à aucun des deux camps.
 
 ## Action
 

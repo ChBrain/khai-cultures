@@ -50,6 +50,9 @@ A small place shaped by two peoples who share one ground and have long read its 
 - [nationalism](position_nationalism.md)
 - [the peace](position_the_peace.md)
 - [the two tongues](position_the_two_tongues.md)
+- [Northern Irish English](position_language_en_gb_nir.md)
+- [Ulster Irish](position_language_ga_gb_nir.md)
+- [Ulster Scots](position_language_sco_gb_nir.md)
 
 **Pieces**
 

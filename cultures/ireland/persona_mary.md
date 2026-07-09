@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-An older woman of rural Ireland, of the parish, the farm, and the emigration generation. [She speaks, hears, and thinks in](process_speaking_mother_tongue.md) English, the tongue of the kitchen and the chapel, and the odd Irish word and the prayers she learned off by heart. The Irish of the school and the odd blessing she [holds only as caught fragments](process_hearing_caught.md), and the letters and the calls come in the flat English of her children [abroad](position_emigration.md). There's the gap: she keeps the faith and the ways of a rural, Catholic Ireland that's passing away on her, while the family that might have carried them is scattered the length of the English-speaking world.
+An older woman of rural Ireland, of the parish, the farm, and the emigration generation. [She speaks, hears, and thinks in](process_speaking_mother_tongue.md) [English](position_language_en_ie.md), the tongue of the kitchen and the chapel, and the odd Irish word and the prayers she learned off by heart. The Irish of the school and the odd blessing she [holds only as caught fragments](process_hearing_caught.md), and the letters and the calls come in the flat English of her children [abroad](position_emigration.md). There's the gap: she keeps the faith and the ways of a rural, Catholic Ireland that's passing away on her, while the family that might have carried them is scattered the length of the English-speaking world.
 
 ## Action
 

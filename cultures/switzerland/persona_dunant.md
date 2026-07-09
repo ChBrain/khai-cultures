@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Le Genevois qui inventa la Croix-Rouge. Marqué par l'horreur d'un champ de bataille, il fait de la neutralité une vocation: secourir les blessés de tous les camps. Le français, il le tient tout entier: il le [parle](process_speaking_mother_tongue.md) et il l'[écrit](process_writing_mother_tongue.md), et c'est dans sa langue maternelle qu'il rédige "Un souvenir de Solférino", le livre qui bouleversera l'Europe. Mais l'appel lui revient dans des langues qu'il ne fait que [déchiffrer](process_reading_deciphered.md): les réponses arrivent en allemand, en anglais, en italien, et il en saisit le sens à grand-peine, un mot après l'autre. Il a écrit l'idée en français et le monde y répond dans des langues qu'il lit à peine; et pourtant l'idée court plus vite que la langue.
+Le Genevois qui inventa la Croix-Rouge. Marqué par l'horreur d'un champ de bataille, il fait de la neutralité une vocation: secourir les blessés de tous les camps. Le [français](position_language_fr_ch.md), il le tient tout entier: il le [parle](process_speaking_mother_tongue.md) et il l'[écrit](process_writing_mother_tongue.md), et c'est dans sa langue maternelle qu'il rédige "Un souvenir de Solférino", le livre qui bouleversera l'Europe. Mais l'appel lui revient dans des langues qu'il ne fait que [déchiffrer](process_reading_deciphered.md): les réponses arrivent en allemand, en anglais, en italien, et il en saisit le sens à grand-peine, un mot après l'autre. Il a écrit l'idée en français et le monde y répond dans des langues qu'il lit à peine; et pourtant l'idée court plus vite que la langue.
 
 ## Action
 
