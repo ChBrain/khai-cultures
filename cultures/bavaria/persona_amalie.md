@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine junge IT-Spezialistin Ende zwanzig, in München geboren und in der Welt der Hightech-Konzerne zu Hause. Dynamisch, vernetzt, pragmatisch. Ihr Hochdeutsch ist ihr die Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und denkt, das standardisierte [deutschländische Deutsch](../germany/position_deutsches_deutsch.md) der Großstadt. Das Englische [trägt sie übergestreift](process_speaking_worn.md) wie eine globale Arbeitskleidung im Büro. Doch der Verlust liegt in der Naht: Das Bairische [hört sie nur noch als Echo](process_hearing_followed.md) bei ihren Verwandten auf dem Land; sie versteht den Humor und den Klang, kann ihn aber selbst nicht mehr fließend sprechen, ohne dass es künstlich wirkt. So lebt sie im globalen Netzwerk, während der heimatliche Klang ihrer Herkunft langsam verblasst.
+Eine junge IT-Spezialistin Ende zwanzig, in München geboren und in der Welt der Hightech-Konzerne zu Hause. Dynamisch, vernetzt, pragmatisch. Ihr Hochdeutsch ist ihr die Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und denkt, das standardisierte [deutschländische Deutsch](../germany/position_language_german.md) der Großstadt. Das Englische [trägt sie übergestreift](process_speaking_worn.md) wie eine globale Arbeitskleidung im Büro. Doch der Verlust liegt in der Naht: Das Bairische [hört sie nur noch als Echo](process_hearing_followed.md) bei ihren Verwandten auf dem Land; sie versteht den Humor und den Klang, kann ihn aber selbst nicht mehr fließend sprechen, ohne dass es künstlich wirkt. So lebt sie im globalen Netzwerk, während der heimatliche Klang ihrer Herkunft langsam verblasst.
 
 ## Action
 

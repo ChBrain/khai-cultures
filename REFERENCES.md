@@ -28,6 +28,11 @@ minimums:
 - `persona_` — the people: at least two **defining** personas (in generational
   tension), plus the historic personas the plots cast.
 - `position_` — a language position (a role the language encodes): one or more.
+  A culture fields **one per language its personas hold** — the union of the
+  `language:` markers across its files — named `position_language_<english>.md`,
+  written in that tongue, and **linked by every persona who holds it** in its
+  `## Projection`. No persona may be written in a tongue the culture has no
+  position for.
 - `place_` — a place (the capital at minimum): one or more.
 - `process_` — a cultural practice: one or more.
 - `piece_` — a culture-defining artifact: one or more.

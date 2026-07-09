@@ -52,7 +52,10 @@ Ein kleines Land mitten in Europa, das nicht durch eine Sprache, ein Volk oder e
 - [die Konkordanz](position_konkordanz.md)
 - [der Milizgedanke](position_milizsystem.md)
 - [die Neutralität](position_neutralitaet.md)
-- [die Viersprachigkeit](position_die_viersprachigkeit.md)
+- [das Schweizer Hochdeutsch](position_language_german.md)
+- [le francais de Suisse](position_language_french.md)
+- [l'italiano di Svizzera](position_language_italian.md)
+- [il rumantsch](position_language_romansh.md)
 
 **Pieces**
 

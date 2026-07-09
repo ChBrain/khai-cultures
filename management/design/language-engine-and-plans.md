@@ -102,6 +102,28 @@ dialect or another variety wins, `Drives` who holds it. Varieties are
 two personas holding different variety-positions of a shared base tongue. `pitch`
 stays reserved for the single Hofstede tone; it is not used for varieties.
 
+### 2.6 The language-position standard (naming and coverage)
+
+Every language a culture's personas hold gets its **own** language position - one
+per tongue, never one collapsed position naming several (Switzerland fields four:
+`position_language_german.md`, `_french.md`, `_italian.md`, `_romansh.md`, not a
+single "Viersprachigkeit"). The **coverage law** is exact: the required set is the
+**union of the `language:` markers across the culture's content files**, so **no
+persona is ever written in a tongue the culture has no position for** - the very
+point of the position is that it holds the culture that tongue carries.
+
+- **Naming.** `position_language_<english-name>.md`, lowercase, ASCII, underscores
+  (`position_language_low_german.md`, `position_language_haitian_creole.md`). One
+  per base language a culture holds; the file's `title`/`declared` still carry the
+  variety's own name (`das Schweizer Hochdeutsch`, `il rumantsch`).
+- **Written in its own tongue.** The `french` position carries `language: fr`, the
+  `romansh` one `language: rm`; rare tongues are registered in `khai.languages`.
+- **Linked by every holder.** Each persona links its language position **in its
+  `## Projection`, at the channel it truly holds** (`schreibt [Hochdeutsch](...)`
+  for a writer of the standard; `[sia pitschna lingua](...)` at the mother-tongue
+  channel) - the position's `Drives` names them back. The canon's link check fails
+  a position no persona links, so coverage is a gate, not a habit.
+
 ## 3. Rollout
 
 - **Cadence:** one PR per culture, sequential (do one, merge, next), mirroring the

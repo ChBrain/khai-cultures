@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ina dunna veglia da la Surselva, creschida en ina val nua ch'ins discurra mo rumantsch. Ella [discurra](process_speaking_mother_tongue.md), [auda](process_hearing_mother_tongue.md) e [pensa](process_thinking_mother_tongue.md) en rumantsch, ed ella [legia](process_reading_mother_tongue.md) sia Bibla en rumantsch; quai è ses entir mund. Ma ella na sa ni tudestg ni englais. Per il chantun, per in Tessinais, per in jester, ella resta taschenta, nun ch'insatgi porta ses pleds inavant. Senza in pont, sia lingua na va betg sur il cunfin da la val.
+Ina dunna veglia da la Surselva, creschida en ina val nua ch'ins discurra mo rumantsch. Ella [discurra](process_speaking_mother_tongue.md), [auda](process_hearing_mother_tongue.md) e [pensa](process_thinking_mother_tongue.md) en [rumantsch](position_language_romansh.md), ed ella [legia](process_reading_mother_tongue.md) sia Bibla en rumantsch; quai è ses entir mund. Ma ella na sa ni tudestg ni englais. Per il chantun, per in Tessinais, per in jester, ella resta taschenta, nun ch'insatgi porta ses pleds inavant. Senza in pont, sia lingua na va betg sur il cunfin da la val.
 
 ## Action
 
