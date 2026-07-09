@@ -102,30 +102,53 @@ dialect or another variety wins, `Drives` who holds it. Varieties are
 two personas holding different variety-positions of a shared base tongue. `pitch`
 stays reserved for the single Hofstede tone; it is not used for varieties.
 
-### 2.6 The language-position standard (naming and coverage)
+### 2.6 The language-position standard (variety, coverage, and the cross-culture rule)
 
-Every language a culture's personas hold gets its **own** language position - one
-per tongue, never one collapsed position naming several (Switzerland fields four:
-`position_language_german.md`, `_french.md`, `_italian.md`, `_romansh.md`, not a
-single "Viersprachigkeit"). The **coverage law** is exact: the required set is the
-**union of the `language:` markers across the culture's content files**, so **no
-persona is ever written in a tongue the culture has no position for** - the very
-point of the position is that it holds the culture that tongue carries.
+A language position is a **variety** (§2.5), one per tongue, never one collapsed
+position naming several (Switzerland fields four, not a single "Viersprachigkeit").
+Three laws govern the set.
 
-- **Naming.** `position_language_<english-name>.md`, lowercase, ASCII, underscores
-  (`position_language_low_german.md`, `position_language_haitian_creole.md`). One
-  per base language a culture holds; the file's `title`/`declared` still carry the
-  variety's own name (`das Schweizer Hochdeutsch`, `il rumantsch`).
-- **Written in its own tongue.** The `french` position carries `language: fr`, the
-  `romansh` one `language: rm`; rare tongues are registered in `khai.languages`.
-- **Linked by every holder.** Each persona links its language position **in its
-  `## Projection`, at the channel it truly holds** (`schreibt [Hochdeutsch](...)`
-  for a writer of the standard; `[sia pitschna lingua](...)` at the mother-tongue
-  channel) - the position's `Drives` names them back. The canon's link check fails
-  a position no persona links, so coverage is a gate, not a habit.
+**Coverage — every tongue a persona _uses_, not just the mother tongue.** A persona
+is fully fleshed out: for **each** language it touches on **any** channel — spoken
+mother tongue, the tongue carried as a tool, the reply merely deciphered, the
+heritage tongue caught only by ear — that language is marked **twice**: once for the
+**ladder** (the `process_*` channel/width leaf) and once for its **position**. No
+persona may use a tongue that has no position to hold it.
+
+**Naming — the variety is the locale (BCP 47 / ISO).** `position_language_<tag>.md`,
+the IETF language tag lowercased with hyphens as underscores: `de_de` (German
+Standard German), `de_ch` (Swiss German), `de_at` (Austrian German), `en_us`,
+`en_gb`, `en_ng`, `fr_fr`, `fr_ch`. The region subtag is the culture's ISO 3166 code
+(the same one in `geo.json`); the base subtag is the `language:` ISO 639 code. A
+tongue that lives in **only one** culture house-wide drops the region and stays bare
+(`rm`, `hu`, `ja`). The file's `title`/`declared` still carry the human name
+(`das Schweizer Hochdeutsch`, `il rumantsch`), and it is **written in its own
+tongue** (`de_ch` carries `language: de`); rare tongues are registered in
+`khai.languages`.
+
+**Ownership — a variety belongs to its home culture; foreign use links across.**
+German Standard German ≠ Swiss German ≠ Austrian German; American English ≠ British
+≠ Nigerian. Each culture **owns** only the varieties its personas natively hold, and
+links them **bare** (same directory). When a persona _uses_ a foreign tongue it does
+**not** get a local copy — it links **cross-culture by path** to the exact variety it
+uses, owned by that variety's home culture
+(`[Französischen](../france/position_language_fr_fr.md)` for Adenauer negotiating in
+metropolitan French; a German-Nigerian who speaks Nigerian English links
+`../nigeria/position_language_en_ng.md`). The variety chosen follows the persona's
+heritage and context, not a default. The canon link-check fails a position no
+persona links and a link that resolves to no owned file, so both coverage and
+ownership are gates, not habits.
 
 ## 3. Rollout
 
+- **Two passes (ordering is forced by the ownership rule).** A cross-culture
+  foreign link can only resolve once its target variety-position exists, so the
+  rollout runs in two passes: **Pass A** creates every culture's **own** varieties
+  house-wide (each linked by its native holders — self-contained, always green);
+  **Pass B** then wires the **cross-culture** foreign-use links (each persona's
+  carried/caught/deciphered tongues → the exact variety in its home culture). Doing
+  a culture's foreign links before Pass A completes would point at files that do
+  not yet exist.
 - **Cadence:** one PR per culture, sequential (do one, merge, next), mirroring the
   build phase. Each is a non-count enrichment of an existing culture and ships
   with a **patch** changeset; the version is unchanged.
