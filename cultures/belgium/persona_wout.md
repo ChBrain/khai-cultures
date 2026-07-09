@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Een jonge Vlaming uit een welvarend, zelfbewust Vlaanderen, vlot, ondernemend, thuis in de wereld. [Hij spreekt, hoort en denkt](process_speaking_mother_tongue.md) in zijn moedertaal, het Nederlands, en het Frans dat hij op school leerde [weigert hij te spreken](process_speaking_carried.md), uit oude wrok. Het Engels van de wereld [draagt hij als vanzelfsprekend](process_speaking_worn.md), en liever spreekt hij met een Waal Engels dan Frans. Daar is de breuk: de jonge, welvarende Vlaming kiest de neutrale wereldtaal boven de taal van de andere Belg, en kijkt over België heen naar een Vlaanderen dat genoeg heeft aan zichzelf.
+Een jonge Vlaming uit een welvarend, zelfbewust Vlaanderen, vlot, ondernemend, thuis in de wereld. [Hij spreekt, hoort en denkt](process_speaking_mother_tongue.md) in zijn moedertaal, het [Nederlands](position_language_nl_be.md), en het Frans dat hij op school leerde [weigert hij te spreken](process_speaking_carried.md), uit oude wrok. Het Engels van de wereld [draagt hij als vanzelfsprekend](process_speaking_worn.md), en liever spreekt hij met een Waal Engels dan Frans. Daar is de breuk: de jonge, welvarende Vlaming kiest de neutrale wereldtaal boven de taal van de andere Belg, en kijkt over België heen naar een Vlaanderen dat genoeg heeft aan zichzelf.
 
 ## Action
 

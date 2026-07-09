@@ -50,6 +50,8 @@ Un pays inventé comme État tampon, neutre et garanti, et bâti en français su
 - [la frontière linguistique](position_la_frontiere_linguistique.md)
 - [le compromis à la belge](position_le_compromis_belge.md)
 - [la Couronne](position_la_couronne.md)
+- [le français de Belgique](position_language_fr_be.md)
+- [het Belgisch Nederlands](position_language_nl_be.md)
 
 **Pieces**
 
