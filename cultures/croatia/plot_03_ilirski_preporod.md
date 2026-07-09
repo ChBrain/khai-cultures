@@ -26,12 +26,12 @@ U prvoj polovici 19. stoljeća unutar habsburške Ugarske jača mađarizacija, a
 
 ## Action
 
-U 1830-ima i 1840-ima Gaj reformira pravopis i standardizira [hrvatski jezik](position_hrvatski_jezik.md) na štokavskoj osnovi, blizak govoru naroda, i njime pokreće novine, književnost i politiku. Ilirski pokret budi narod, traži hrvatski u školi i saboru i okuplja jug i sjever oko jednoga jezika. Riječ koju je narod dotad imao razjedinjenu postaje pismo, zastava i domovina onomu tko još nema države.
+U 1830-ima i 1840-ima Gaj reformira pravopis i standardizira [hrvatski jezik](position_language_hr.md) na štokavskoj osnovi, blizak govoru naroda, i njime pokreće novine, književnost i politiku. Ilirski pokret budi narod, traži hrvatski u školi i saboru i okuplja jug i sjever oko jednoga jezika. Riječ koju je narod dotad imao razjedinjenu postaje pismo, zastava i domovina onomu tko još nema države.
 
 ## Stage
 
 - [Ljudevit Gaj](persona_gaj.md): jezikoslovac koji jeziku daje pravopis, a narodu glas.
-- [hrvatski jezik](position_hrvatski_jezik.md): standard izboren upravo kad mu prijeti rastapanje.
+- [hrvatski jezik](position_language_hr.md): standard izboren upravo kad mu prijeti rastapanje.
 
 ## Tension
 

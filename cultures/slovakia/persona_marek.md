@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[slovenčina](position_slovencina.md)
+[slovenčina](position_language_sk.md)
 
 ## Owner
 
@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Mladý muž po tridsiatke, ktorý po vstupe do Únie odišiel za prácou, najprv do Česka, potom ďalej na západ, a domov sa vracia na sviatky. Šikovný, pracovitý, rozpoltený, je hrdý na svoje korene, a predsa si život stavia inde. Slovenčinu má ešte celú: [hovorí, myslí](process_speaking_mother_tongue.md) a [číta](process_reading_mother_tongue.md) v materčine, no do reči mu padá čoraz viac angličtiny a češtiny. Angličtinu sveta, kde pracuje, [nesie ako nástroj](process_speaking_carried.md) a [číta i sleduje bez námahy](process_reading_followed.md), a blízku češtinu [sleduje](process_reading_followed.md) tak samozrejme, že ju ani nevníma ako cudziu. Malú reč drží čoraz menej, lebo angličtina práce aj bratská čeština ju ticho pohlcujú.
+Mladý muž po tridsiatke, ktorý po vstupe do Únie odišiel za prácou, najprv do Česka, potom ďalej na západ, a domov sa vracia na sviatky. Šikovný, pracovitý, rozpoltený, je hrdý na svoje korene, a predsa si život stavia inde. Slovenčinu má ešte celú: [hovorí, myslí](process_speaking_mother_tongue.md) a [číta](process_reading_mother_tongue.md) v materčine, no do reči mu padá čoraz viac angličtiny a češtiny. Tou materčinou je [slovenčina](position_language_sk.md), malá reč, ktorú drží čoraz menej. Angličtinu sveta, kde pracuje, [nesie ako nástroj](process_speaking_carried.md) a [číta i sleduje bez námahy](process_reading_followed.md), a blízku češtinu [sleduje](process_reading_followed.md) tak samozrejme, že ju ani nevníma ako cudziu. Malú reč drží čoraz menej, lebo angličtina práce aj bratská čeština ju ticho pohlcujú.
 
 ## Action
 

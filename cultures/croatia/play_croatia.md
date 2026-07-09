@@ -47,7 +47,7 @@ Narod na granici: stoljećima predziđe kršćanstva, katolički Zapad okrenut p
 
 **Positions**
 
-- [hrvatski jezik](position_hrvatski_jezik.md)
+- [hrvatski jezik](position_language_hr.md)
 - [predziđe kršćanstva](position_predzide_krscanstva.md)
 - [Jadran](position_jadran.md)
 
@@ -76,7 +76,7 @@ U ratovima s Osmanlijama Hrvatska postaje [predziđe kršćanstva](position_pred
 
 **[Plot 3: Ilirski preporod](plot_03_ilirski_preporod.md)**
 
-U 1830-ima i 1840-ima [Ljudevit Gaj](persona_gaj.md) standardizira [hrvatski jezik](position_hrvatski_jezik.md) i budi narod unutar habsburške Ugarske; jezik koji je dobio kasno postaje mu domovinom.
+U 1830-ima i 1840-ima [Ljudevit Gaj](persona_gaj.md) standardizira [hrvatski jezik](position_language_hr.md) i budi narod unutar habsburške Ugarske; jezik koji je dobio kasno postaje mu domovinom.
 
 **[Plot 4: Domovinski rat](plot_04_domovinski_rat.md)**
 
@@ -84,4 +84,4 @@ Godine 1991. Hrvatska se osamostaljuje od Jugoslavije; pod opsadom padaju [Vukov
 
 ## Stakes
 
-Hoće li mali narod na granici, koji je stoljećima bio predziđe tuđih carstava i sam svoj tek od jučer, u vlastitoj državi i u otvorenoj Europi dorasti do mirne sigurnosti, zadržati [jezik](position_hrvatski_jezik.md) razapet između engleskoga i srpskoga blizanca, [vjeru](position_predzide_krscanstva.md) i [more](position_jadran.md) kao žive korijene, zaustaviti iseljavanje i pomiriti svoju sredozemnu i srednjoeuropsku polovicu, a da staru ranu ne pretvori u sudbinu.
+Hoće li mali narod na granici, koji je stoljećima bio predziđe tuđih carstava i sam svoj tek od jučer, u vlastitoj državi i u otvorenoj Europi dorasti do mirne sigurnosti, zadržati [jezik](position_language_hr.md) razapet između engleskoga i srpskoga blizanca, [vjeru](position_predzide_krscanstva.md) i [more](position_jadran.md) kao žive korijene, zaustaviti iseljavanje i pomiriti svoju sredozemnu i srednjoeuropsku polovicu, a da staru ranu ne pretvori u sudbinu.

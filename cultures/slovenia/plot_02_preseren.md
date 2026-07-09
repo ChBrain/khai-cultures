@@ -26,12 +26,12 @@ V prvi polovici 19. stoletja je slovensko ljudstvo še vedno kmečki narod pod H
 
 ## Action
 
-Prešeren v slovenščini napiše sonete in Krst pri Savici, jezik kmečkega ljudstva pa dvigne v veliko liriko, ki stoji ob bok evropski. V pomladi narodov leta 1848 se Slovenci prvič oglasijo s programom Zedinjene Slovenije, Prešernova "Zdravljica" pa nazdravi vsem narodom in nikomur ne za sovražnika. [Slovenščina](position_slovenscina.md) postane jezik velike pesmi naroda, ki še nima države.
+Prešeren v slovenščini napiše sonete in Krst pri Savici, jezik kmečkega ljudstva pa dvigne v veliko liriko, ki stoji ob bok evropski. V pomladi narodov leta 1848 se Slovenci prvič oglasijo s programom Zedinjene Slovenije, Prešernova "Zdravljica" pa nazdravi vsem narodom in nikomur ne za sovražnika. [Slovenščina](position_language_sl.md) postane jezik velike pesmi naroda, ki še nima države.
 
 ## Stage
 
 - [France Prešeren](persona_preseren.md): pesnik, ki majhno reč dvigne v veliko liriko.
-- [slovenščina](position_slovenscina.md): jezik, dvignjen iz kmečke reči v poezijo velikih.
+- [slovenščina](position_language_sl.md): jezik, dvignjen iz kmečke reči v poezijo velikih.
 
 ## Tension
 

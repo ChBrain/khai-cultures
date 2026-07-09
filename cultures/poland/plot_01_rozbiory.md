@@ -26,11 +26,11 @@ W końcu XVIII wieku rozległa, lecz osłabiona Rzeczpospolita Obojga Narodów l
 
 ## Action
 
-W 1795 Polska znika z mapy Europy na sto dwadzieścia trzy lata. Nie ma państwa, nie ma wojska, nie ma urzędów; w szkołach pruskich i rosyjskich narzuca się niemiecki i rosyjski. A jednak naród nie ginie: polszczyzny strzeże się w domu, w kościele i na tajnych kompletach, i to [język polski](position_jezyk_polski.md) staje się ojczyzną, której zaborca nie umie rozebrać.
+W 1795 Polska znika z mapy Europy na sto dwadzieścia trzy lata. Nie ma państwa, nie ma wojska, nie ma urzędów; w szkołach pruskich i rosyjskich narzuca się niemiecki i rosyjski. A jednak naród nie ginie: polszczyzny strzeże się w domu, w kościele i na tajnych kompletach, i to [język polski](position_language_pl.md) staje się ojczyzną, której zaborca nie umie rozebrać.
 
 ## Stage
 
-- [język polski](position_jezyk_polski.md): mowa, która zostaje narodem, gdy nie ma państwa.
+- [język polski](position_language_pl.md): mowa, która zostaje narodem, gdy nie ma państwa.
 - [Adam Mickiewicz](persona_mickiewicz.md): wieszcz, który na wygnaniu ocala ojczyznę w słowie.
 - [Warszawa](place_warszawa.md): stolica utraconego państwa, serce kolejnych powstań.
 

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[slovenščina](position_slovenscina.md)
+[slovenščina](position_language_sl.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Protestantski pridigar in reformator, ki je leta 1550 natisnil prvi slovenski knjigi, Katekizem in Abecednik, in tako neslišani slovanski reči kmečkega ljudstva dal prve črke; oče slovenskega knjižnega jezika. Resen, vztrajen, pregnan zaradi vere, je v izgnanstvu na Nemškem pisal narodu, ki ga je hotel privesti k Bogu v njegovem lastnem jeziku. Slovenščino ima vso in ji prvi da obliko: v materinščini [govori](process_speaking_mother_tongue.md), [misli](process_thinking_mother_tongue.md) in [piše](process_writing_mother_tongue.md) tako, da iz nje šele [naredi zapisani jezik](process_writing_drafted.md). Nemščino reformacije in svojega izgnanstva [nosi kot orodje](process_speaking_carried.md), latinščino Cerkve in učenosti pa [nosi prav tako](process_speaking_carried.md) ter v njej [bere](process_reading_followed.md), kar mu je sveto. Drobni neslišani slovanski reči je dal prvo natisnjeno besedo, sam pa je nosil nemščino vere in latinščino Cerkve, in zapisal je narod, ki ni imel države: vsa njegova natisnjena beseda kaže na vrzel na robu jezika.
+Protestantski pridigar in reformator, ki je leta 1550 natisnil prvi slovenski knjigi, Katekizem in Abecednik, in tako neslišani slovanski reči kmečkega ljudstva dal prve črke; oče slovenskega knjižnega jezika. Resen, vztrajen, pregnan zaradi vere, je v izgnanstvu na Nemškem pisal narodu, ki ga je hotel privesti k Bogu v njegovem lastnem jeziku. Slovenščino ima vso in ji prvi da obliko: v materinščini [govori](process_speaking_mother_tongue.md), [misli](process_thinking_mother_tongue.md) in [piše](process_writing_mother_tongue.md) tako, da iz nje šele [naredi zapisani jezik](process_writing_drafted.md). Ta materinščina je [slovenščina](position_language_sl.md), ki ji prvi da črke. Nemščino reformacije in svojega izgnanstva [nosi kot orodje](process_speaking_carried.md), latinščino Cerkve in učenosti pa [nosi prav tako](process_speaking_carried.md) ter v njej [bere](process_reading_followed.md), kar mu je sveto. Drobni neslišani slovanski reči je dal prvo natisnjeno besedo, sam pa je nosil nemščino vere in latinščino Cerkve, in zapisal je narod, ki ni imel države: vsa njegova natisnjena beseda kaže na vrzel na robu jezika.
 
 ## Action
 
-V [Trubarjevih knjigah](plot_01_trubarjeve_knjige.md) natisne prvi slovenski knjigi in da reformacijo v roke ljudstvu v njegovem jeziku. S tem, da [slovenščini](position_slovenscina.md) da črke, da narodu prvi dokaz, da je svoj, čeprav nima države ne meja.
+V [Trubarjevih knjigah](plot_01_trubarjeve_knjige.md) natisne prvi slovenski knjigi in da reformacijo v roke ljudstvu v njegovem jeziku. S tem, da [slovenščini](position_language_sl.md) da črke, da narodu prvi dokaz, da je svoj, čeprav nima države ne meja.
 
 ## Shadow
 

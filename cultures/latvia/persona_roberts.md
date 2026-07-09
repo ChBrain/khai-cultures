@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[latviešu valoda](position_latviesu_valoda.md)
+[latviešu valoda](position_language_lv.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Jaunāks vīrs pāri trīsdesmit, kas pēc Latvijas iestāšanās Savienībā 2004. gadā aizbrauca pasaulē pēc maizes, vispirms uz Īriju, tad uz Lielbritāniju, un mājās pārnāk uz svētkiem. Čakls, izveicīgs, pārdalīts, viņš lepojas ar savām saknēm, un tomēr dzīvi ceļ citur. Latviešu valodu viņam vēl pieder visa: viņš [runā, domā](process_speaking_mother_tongue.md) un [raksta](process_writing_mother_tongue.md) mātes valodā, bet runā ielec arvien vairāk angļu vārdu. Jaunās zemes angļu valodu, kurā strādā un dzīvo, viņš [nes kā rīku](process_speaking_carried.md) un [lasa un seko bez piepūles](process_reading_followed.md); krievu valodu, kas vēl skan viņa dzimtajā pilsētā, viņš [noķer no dzirdes](process_hearing_caught.md), cik vajadzīgs, bet ne vairāk. Mazo mēli viņš tur arvien mazāk, jo darba angļu valoda no vienas puses un dzimtās pilsētas krievu valoda no otras to klusi spiež, un latviešu vārds viņa bērniem svešumā jau skan kā svētku, ne ikdienas valoda - tieši to, vai viņš spēs nodot savu mēli tālāk, viņš nevar aizsniegt pāri robežai, kur ģimene runā angliski un māja paliek tālu.
+Jaunāks vīrs pāri trīsdesmit, kas pēc Latvijas iestāšanās Savienībā 2004. gadā aizbrauca pasaulē pēc maizes, vispirms uz Īriju, tad uz Lielbritāniju, un mājās pārnāk uz svētkiem. Čakls, izveicīgs, pārdalīts, viņš lepojas ar savām saknēm, un tomēr dzīvi ceļ citur. Latviešu valodu viņam vēl pieder visa: viņš [runā, domā](process_speaking_mother_tongue.md) un [raksta](process_writing_mother_tongue.md) [mātes valodā](position_language_lv.md), bet runā ielec arvien vairāk angļu vārdu. Jaunās zemes angļu valodu, kurā strādā un dzīvo, viņš [nes kā rīku](process_speaking_carried.md) un [lasa un seko bez piepūles](process_reading_followed.md); krievu valodu, kas vēl skan viņa dzimtajā pilsētā, viņš [noķer no dzirdes](process_hearing_caught.md), cik vajadzīgs, bet ne vairāk. Mazo mēli viņš tur arvien mazāk, jo darba angļu valoda no vienas puses un dzimtās pilsētas krievu valoda no otras to klusi spiež, un latviešu vārds viņa bērniem svešumā jau skan kā svētku, ne ikdienas valoda - tieši to, vai viņš spēs nodot savu mēli tālāk, viņš nevar aizsniegt pāri robežai, kur ģimene runā angliski un māja paliek tālu.
 
 ## Action
 
-Viņš dzīvo [palikt latvietim](plan_palikt_latvietim.md) kā ikdienas izvēli: vai palikt mājās, vai strādāt pasaulei no malas, viņš tur [latviešu valodu](position_latviesu_valoda.md) līdzās angļu valodai un cenšas, lai no viņa un no Latvijas būtu atgriešanās, ne tikai aiziešanas zeme.
+Viņš dzīvo [palikt latvietim](plan_palikt_latvietim.md) kā ikdienas izvēli: vai palikt mājās, vai strādāt pasaulei no malas, viņš tur [latviešu valodu](position_language_lv.md) līdzās angļu valodai un cenšas, lai no viņa un no Latvijas būtu atgriešanās, ne tikai aiziešanas zeme.
 
 ## Shadow
 

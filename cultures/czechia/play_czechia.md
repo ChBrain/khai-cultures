@@ -47,7 +47,7 @@ Malý slovanský národ ve středu Evropy, který od husitů přes Bílou horu p
 
 **Positions**
 
-- [český jazyk](position_cesky_jazyk.md)
+- [český jazyk](position_language_cs.md)
 - [švejkování](position_svejkovani.md)
 - [bezvěrectví](position_bezverectvi.md)
 
@@ -72,7 +72,7 @@ V roce 1415 upálí kostnický koncil [Jana Husa](persona_hus.md) za to, že ká
 
 **[Plot 2: Bílá hora](plot_02_bila_hora.md)**
 
-Roku 1620 prohrají čeští stavové bitvu na Bílé hoře u [Prahy](place_praha.md); nastává temno, třistaletá vláda Vídně a úpadek, v němž [český jazyk](position_cesky_jazyk.md) skoro vymizí z měst do vesnic.
+Roku 1620 prohrají čeští stavové bitvu na Bílé hoře u [Prahy](place_praha.md); nastává temno, třistaletá vláda Vídně a úpadek, v němž [český jazyk](position_language_cs.md) skoro vymizí z měst do vesnic.
 
 **[Plot 3: Mnichov](plot_03_mnichov.md)**
 

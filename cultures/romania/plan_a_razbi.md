@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandat, mereu deschis: întrebarea pe care România și-o pune singură, anume cum să-și prefacă descurcăreala răbdătoare, "a răzbi" și "a se descurca", din simplă supraviețuire în zidire adevărată, păstrându-și [limba](position_limba_romana.md) latină, [latinitatea](position_latinitatea.md) și [dorul](position_dor.md) ca rădăcini vii, și nu ca un trecut de care doar se mângâie.
+Mandat, mereu deschis: întrebarea pe care România și-o pune singură, anume cum să-și prefacă descurcăreala răbdătoare, "a răzbi" și "a se descurca", din simplă supraviețuire în zidire adevărată, păstrându-și [limba](position_language_ro_ro.md) latină, [latinitatea](position_latinitatea.md) și [dorul](position_dor.md) ca rădăcini vii, și nu ca un trecut de care doar se mângâie.
 
 ## Owner
 

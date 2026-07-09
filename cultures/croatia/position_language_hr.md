@@ -34,4 +34,4 @@ Tlo gubi danas pred engleskim otvorenoga svijeta, u kojem mladi rade, putuju i �
 
 ## Drives
 
-Živi u [Gaju](persona_gaj.md), koji je jeziku dao jedan standard i narodu glas, i u [Ivanu](persona_ivan.md), čiji se hrvatski tanji između engleskoga iseljeništva i srpskoga blizanca koji odbija biti. Goni Hrvatsku da se drži kasno izborene riječi kao dokaza da je narod svoj, različit od onoga koga razumije kao sebe.
+Živi u [Gaju](persona_gaj.md), koji je jeziku dao jedan standard i narodu glas, u [Maruliću](persona_marulic.md), koji je "Juditom" dao puku ep na vlastitome jeziku, i u [Boškoviću](persona_boskovic.md), kojemu je ragužejski hrvatski ostao jezik doma dok je postajao Europin. Živi i u [Kati](persona_kata.md), koja je hrvatski i vjeru održala kroz rat, i u [Ivanu](persona_ivan.md), čiji se hrvatski tanji između engleskoga iseljeništva i srpskoga blizanca koji odbija biti. Goni Hrvatsku da se drži kasno izborene riječi kao dokaza da je narod svoj, različit od onoga koga razumije kao sebe.

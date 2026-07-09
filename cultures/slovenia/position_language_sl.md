@@ -34,4 +34,4 @@ Tla izgublja danes pred angleščino odprtega sveta, v kateri mladi delajo in ž
 
 ## Drives
 
-Živi v [Trubarju](persona_trubar.md), ki je reči dal črke in narodu glas, in v [Prešernu](persona_preseren.md), ki jo je majhno in brez države dvignil med velike. Žene Slovenijo, da se drži zgodaj iztiskane reči z njeno dvojino kot dokaza, da je narod svoj, čeprav je državo dobil nazadnje.
+Živi v [Trubarju](persona_trubar.md), ki je reči dal črke in narodu glas, v [Prešernu](persona_preseren.md), ki jo je majhno in brez države dvignil med velike, in v [Janši](persona_jansa.md), ki je v domači reči poznal svet panja, čeprav je učil cesarstvo v tujem jeziku. Živi tudi v [Mariji](persona_marija.md), ki drži svojo reč in njeno dvojino celo, in v [Luki](persona_luka.md), čigar slovenščina se tanjša med angleščino in nemščino njegovega zahodnega življenja. Žene Slovenijo, da se drži zgodaj iztiskane reči z njeno dvojino kot dokaza, da je narod svoj, čeprav je državo dobil nazadnje.

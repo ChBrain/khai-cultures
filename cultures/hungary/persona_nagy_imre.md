@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Reformkommunista, aki 1956 miniszterelnökeként a forradalom élére állt, kihirdette a semlegességet, és inkább a halált választotta, mint hogy megtagadja a népét; 1958-ban kivégezték, jeltelen sírba, arccal lefelé temették, és csak 1989-ben temették újra. Csendes, makacs, későn megtért, a maga módján jó ember. A magyart teljesen bírja: [beszéli](process_speaking_mother_tongue.md) és [gondolkodik](process_thinking_mother_tongue.md) az anyanyelvén, és magyarul mondja ki a szabadságot. Az oroszt, amelyet moszkvai emigrációjának hosszú évei alatt szívott magába, [szinte sajátjaként hordozza](process_speaking_carried.md), és épp oroszul kényszeríti rá Moszkva az akaratát; a párt fahangját elveti. Oroszul tanulta a hatalmat, és magyarul választotta a szabadságot, amiért az életével fizetett.
+Reformkommunista, aki 1956 miniszterelnökeként a forradalom élére állt, kihirdette a semlegességet, és inkább a halált választotta, mint hogy megtagadja a népét; 1958-ban kivégezték, jeltelen sírba, arccal lefelé temették, és csak 1989-ben temették újra. Csendes, makacs, későn megtért, a maga módján jó ember. A magyart teljesen bírja: [beszéli](process_speaking_mother_tongue.md) és [gondolkodik](process_thinking_mother_tongue.md) az anyanyelvén, és magyarul mondja ki a szabadságot. Ez az anyanyelv [a magyar nyelv](position_language_hu.md), amelyen a szabadságot kimondja. Az oroszt, amelyet moszkvai emigrációjának hosszú évei alatt szívott magába, [szinte sajátjaként hordozza](process_speaking_carried.md), és épp oroszul kényszeríti rá Moszkva az akaratát; a párt fahangját elveti. Oroszul tanulta a hatalmat, és magyarul választotta a szabadságot, amiért az életével fizetett.
 
 ## Action
 

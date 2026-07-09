@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandat, ki ostaja odprt: vprašanje, ki si ga samostojna Slovenija zastavlja sama, namreč kako ostati majhna, a varna in uspešna, prva iz nekdanje Jugoslavije v Uniji in evru, kako ohraniti [reč](position_slovenscina.md) z njeno dvojino in [sončno stran Alp](position_soncna_stran_alp.md) obrnjeno k zahodu kot žive korenine, in kako [pridnost](position_pridnost.md) ter tesnobo majhnosti spremeniti v pokojno samozavest.
+Mandat, ki ostaja odprt: vprašanje, ki si ga samostojna Slovenija zastavlja sama, namreč kako ostati majhna, a varna in uspešna, prva iz nekdanje Jugoslavije v Uniji in evru, kako ohraniti [reč](position_language_sl.md) z njeno dvojino in [sončno stran Alp](position_soncna_stran_alp.md) obrnjeno k zahodu kot žive korenine, in kako [pridnost](position_pridnost.md) ter tesnobo majhnosti spremeniti v pokojno samozavest.
 
 ## Owner
 

@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandát, stále otevřený: otázka, kterou si svobodné Česko klade samo, totiž jak z malého, skeptického národa vyrůst v národ, který je sám se sebou v míru, drží si [jazyk](position_cesky_jazyk.md) i [ironii](position_svejkovani.md), ale promění malost a nedůvěru v klidnou sebejistotu.
+Mandát, stále otevřený: otázka, kterou si svobodné Česko klade samo, totiž jak z malého, skeptického národa vyrůst v národ, který je sám se sebou v míru, drží si [jazyk](position_language_cs.md) i [ironii](position_svejkovani.md), ale promění malost a nedůvěru v klidnou sebejistotu.
 
 ## Owner
 

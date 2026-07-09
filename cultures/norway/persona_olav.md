@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Vikingkongen som samlet riket og døpte det. En hard og målbevisst hersker som så at ett samlet, kristent rike sto sterkere enn mange spredte småkonger. Han bygger ikke til seg selv alene, men blir landets evige konge og helgen, et samlende tegn som varer lenger enn noen makt. Han [taler og tenker](process_speaking_mother_tongue.md) folkets morsmål, det gamle norrøne språket, som den selvsagte grunnen under sin makt. Men kristendommen han fører inn, kommer med latinen, prestenes og messens språk, som han bare [fanger med øret](process_hearing_caught.md): kongen som samler og døper riket, henter en tro som ber og skriver på et tungemål folket ikke eier, og blir selv helgen i en messe på latin.
+Vikingkongen som samlet riket og døpte det. En hard og målbevisst hersker som så at ett samlet, kristent rike sto sterkere enn mange spredte småkonger. Han bygger ikke til seg selv alene, men blir landets evige konge og helgen, et samlende tegn som varer lenger enn noen makt. Han [taler og tenker](process_speaking_mother_tongue.md) folkets [morsmål](position_language_no.md), det gamle norrøne språket, som den selvsagte grunnen under sin makt. Men kristendommen han fører inn, kommer med latinen, prestenes og messens språk, som han bare [fanger med øret](process_hearing_caught.md): kongen som samler og døper riket, henter en tro som ber og skriver på et tungemål folket ikke eier, og blir selv helgen i en messe på latin.
 
 ## Action
 

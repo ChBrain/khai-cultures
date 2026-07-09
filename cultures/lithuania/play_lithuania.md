@@ -47,7 +47,7 @@ Senas baltų tautos kraštas, kalbantis archajiškiausia gyva indoeuropiečių k
 
 **Positions**
 
-- [lietuvių kalba](position_lietuviu_kalba.md)
+- [lietuvių kalba](position_language_lt.md)
 - [Didžioji Kunigaikštystė](position_didzioji_kunigaikstyste.md)
 - [katalikybė](position_katalikybe.md)
 
@@ -72,7 +72,7 @@ Senas baltų tautos kraštas, kalbantis archajiškiausia gyva indoeuropiečių k
 
 **[Plot 2: Spaudos draudimas](plot_02_spaudos_draudimas.md)**
 
-1864-1904 metais caras uždraudžia lietuvišką spaudą lotyniškomis raidėmis; knygnešiai slapta gabena knygas ir išsaugo [lietuvių kalbą](position_lietuviu_kalba.md), o [Jonas Basanavičius](persona_basanavicius.md) leidžia „Aušrą" ir žadina tautą.
+1864-1904 metais caras uždraudžia lietuvišką spaudą lotyniškomis raidėmis; knygnešiai slapta gabena knygas ir išsaugo [lietuvių kalbą](position_language_lt.md), o [Jonas Basanavičius](persona_basanavicius.md) leidžia „Aušrą" ir žadina tautą.
 
 **[Plot 3: Okupacija ir tremtis](plot_03_okupacija_ir_tremtis.md)**
 
@@ -84,4 +84,4 @@ Senas baltų tautos kraštas, kalbantis archajiškiausia gyva indoeuropiečių k
 
 ## Stakes
 
-Ar maža baltų tauta, kuri prarado didžiulę valstybę, atlaikė spaudos draudimą, okupaciją ir tremtį, o laisvę atgavo pirmoji, sugebės atviroje Europoje išlaikyti archajišką [kalbą](position_lietuviu_kalba.md), [tikėjimą](position_katalikybe.md) ir [didybės atmintį](position_didzioji_kunigaikstyste.md) kaip gyvas šaknis, sustabdyti emigraciją, kuri tuština kraštą, ir stovėti tvirtai prie grėsmingos Rusijos, neleisdama pasididžiavimui sugižti į nuoskaudą.
+Ar maža baltų tauta, kuri prarado didžiulę valstybę, atlaikė spaudos draudimą, okupaciją ir tremtį, o laisvę atgavo pirmoji, sugebės atviroje Europoje išlaikyti archajišką [kalbą](position_language_lt.md), [tikėjimą](position_katalikybe.md) ir [didybės atmintį](position_didzioji_kunigaikstyste.md) kaip gyvas šaknis, sustabdyti emigraciją, kuri tuština kraštą, ir stovėti tvirtai prie grėsmingos Rusijos, neleisdama pasididžiavimui sugižti į nuoskaudą.

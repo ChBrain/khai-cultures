@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[lietuvių kalba](position_lietuviu_kalba.md)
+[lietuvių kalba](position_language_lt.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Gydytojas ir tautos žadintojas, „tautos patriarchas", kuris 1883 metais pradėjo leisti „Aušrą", pirmąjį lietuvišką laikraštį, ir 1918 metais pirmininkavo Nepriklausomybės akto signatarams. Rimtas, atkaklus, pasiaukojantis, didžiąją gyvenimo dalį praleidęs gydytoju Bulgarijoje, bet niekada nepamiršęs Lietuvos. Gimtąją lietuvių kalbą jis turi visą: ja [kalba, mąsto](process_thinking_mother_tongue.md) ir [rašo](process_writing_mother_tongue.md), atgaivindamas uždraustą tautos žodį. Bet jis atgaivino uždraustą kalbą, spausdino ją lotyniškomis raidėmis svetur ir slapta gabeno per sieną pro caro kirilicos dekretą. Mokyklos ir valdžios rusų kalbą jis [nešioja](process_speaking_worn.md), o lotynų, vokiečių ir bulgarų kalbas mokslams ir gyvenimui svetur [neša kaip įrankius](process_speaking_carried.md); caro draudžiamus raštus ir kirilicą jis [seka](process_reading_followed.md) priešo akimis. Spausdino savo tautos žodį už sienos ir nešė jį namo slapta, bet vienas dalykas jam liko nepasiekiamas: laisvai ištarti lietuvišką žodį savo paties krašte, garsiai ir be baimės, jis taip ir nespėjo.
+Gydytojas ir tautos žadintojas, „tautos patriarchas", kuris 1883 metais pradėjo leisti „Aušrą", pirmąjį lietuvišką laikraštį, ir 1918 metais pirmininkavo Nepriklausomybės akto signatarams. Rimtas, atkaklus, pasiaukojantis, didžiąją gyvenimo dalį praleidęs gydytoju Bulgarijoje, bet niekada nepamiršęs Lietuvos. Gimtąją [lietuvių kalbą](position_language_lt.md) jis turi visą: ja [kalba, mąsto](process_thinking_mother_tongue.md) ir [rašo](process_writing_mother_tongue.md), atgaivindamas uždraustą tautos žodį. Bet jis atgaivino uždraustą kalbą, spausdino ją lotyniškomis raidėmis svetur ir slapta gabeno per sieną pro caro kirilicos dekretą. Mokyklos ir valdžios rusų kalbą jis [nešioja](process_speaking_worn.md), o lotynų, vokiečių ir bulgarų kalbas mokslams ir gyvenimui svetur [neša kaip įrankius](process_speaking_carried.md); caro draudžiamus raštus ir kirilicą jis [seka](process_reading_followed.md) priešo akimis. Spausdino savo tautos žodį už sienos ir nešė jį namo slapta, bet vienas dalykas jam liko nepasiekiamas: laisvai ištarti lietuvišką žodį savo paties krašte, garsiai ir be baimės, jis taip ir nespėjo.
 
 ## Action
 
-[Spaudos draudime](plot_02_spaudos_draudimas.md) jis leidžia „Aušrą" ir žadina tautą, kai caras draudžia jos žodį. Tuo jis duoda [lietuvių kalbai](position_lietuviu_kalba.md) raštą ir balsą būtent tada, kai jai gresia visai nutilti.
+[Spaudos draudime](plot_02_spaudos_draudimas.md) jis leidžia „Aušrą" ir žadina tautą, kai caras draudžia jos žodį. Tuo jis duoda [lietuvių kalbai](position_language_lt.md) raštą ir balsą būtent tada, kai jai gresia visai nutilti.
 
 ## Shadow
 

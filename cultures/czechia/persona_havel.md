@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Dramatik absurdního divadla, disident a vězeň, který se z Charty 77 stal prezidentem svobodné země. Tichý, zdvořilý, tvrdošíjně mravní, postavil proti ideologii ne nového boha, ale "život v pravdě". Češtinu má celou: [mluví](process_speaking_mother_tongue.md), [myslí](process_thinking_mother_tongue.md) a [píše](process_writing_mother_tongue.md) v mateřštině tak, že jeho hry i eseje rozeznívají skrytou sílu prostého, pravdivého slova. Dřevěnou řeč režimu, novořeč hesel a frází, odmítá užívat a obnažuje ji; angličtinu a jazyky Západu, kam putují jeho hry, [čte a sleduje](process_reading_followed.md) a v nich ho svět slyší. Žije v pravdě svou řečí, zatímco režim mluví novořečí a svět ho slyší jen v překladu.
+Dramatik absurdního divadla, disident a vězeň, který se z Charty 77 stal prezidentem svobodné země. Tichý, zdvořilý, tvrdošíjně mravní, postavil proti ideologii ne nového boha, ale "život v pravdě". Češtinu má celou: [mluví](process_speaking_mother_tongue.md), [myslí](process_thinking_mother_tongue.md) a [píše](process_writing_mother_tongue.md) v mateřštině tak, že jeho hry i eseje rozeznívají skrytou sílu prostého, pravdivého slova. Tou mateřštinou je [český jazyk](position_language_cs.md), v němž hledá život v pravdě. Dřevěnou řeč režimu, novořeč hesel a frází, odmítá užívat a obnažuje ji; angličtinu a jazyky Západu, kam putují jeho hry, [čte a sleduje](process_reading_followed.md) a v nich ho svět slyší. Žije v pravdě svou řečí, zatímco režim mluví novořečí a svět ho slyší jen v překladu.
 
 ## Action
 

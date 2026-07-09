@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[eesti keel](position_eesti_keel.md)
+[eesti keel](position_language_et.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Vanem naine, vaikne ja tagasihoidlik, kes elas läbi nõukogude aastakümned, kasvatas lapsi ja hoiab nüüd maja, aeda ja oma vaikset elu. Kannatlik, vähese sõnaga, ei kurda, vaid teeb tööd ja peab vastu. Eesti keele saab ta tervena: ta [kõneleb](process_speaking_mother_tongue.md), [mõtleb](process_thinking_mother_tongue.md) ja [loeb](process_reading_mother_tongue.md) emakeeles vaevata. Koolis pealesurutud vene keelt [püüab ta vaid kuulmise järgi](process_hearing_caught.md) ega taha seda mäletada, sest see oli okupandi keel. Aga lahe taga olevat sugulast, soome keelt, [järgib ta kuulates](process_hearing_followed.md) ja [poolenisti lugedes](process_reading_followed.md): nõukogude ajal vaatas ta Soome televisiooni üle lahe ja nägi läbi selle, mis on läänes. Hoidis oma vaikse eesti keele tervena, vene keel pealesurutud ja soovimatu, ja tema aken maailma oli sugulaskeel, soome keel, mida ta poolenisti mõistis üle vee, kuid ei kõnelnud iial päriselt.
+Vanem naine, vaikne ja tagasihoidlik, kes elas läbi nõukogude aastakümned, kasvatas lapsi ja hoiab nüüd maja, aeda ja oma vaikset elu. Kannatlik, vähese sõnaga, ei kurda, vaid teeb tööd ja peab vastu. Eesti keele saab ta tervena: ta [kõneleb](process_speaking_mother_tongue.md), [mõtleb](process_thinking_mother_tongue.md) ja [loeb](process_reading_mother_tongue.md) [emakeeles](position_language_et.md) vaevata. Koolis pealesurutud vene keelt [püüab ta vaid kuulmise järgi](process_hearing_caught.md) ega taha seda mäletada, sest see oli okupandi keel. Aga lahe taga olevat sugulast, soome keelt, [järgib ta kuulates](process_hearing_followed.md) ja [poolenisti lugedes](process_reading_followed.md): nõukogude ajal vaatas ta Soome televisiooni üle lahe ja nägi läbi selle, mis on läänes. Hoidis oma vaikse eesti keele tervena, vene keel pealesurutud ja soovimatu, ja tema aken maailma oli sugulaskeel, soome keel, mida ta poolenisti mõistis üle vee, kuid ei kõnelnud iial päriselt.
 
 ## Action
 
-Hoiab [keelt](position_eesti_keel.md) ja [laulu](process_laulupidu.md), kui võõras võim surub peale teist: laulab laulupeol, õpetab lapselapsi eesti keeles ja palvetab vaikselt oma keele eest. Teeb seda ilma suurte žestideta, igapäevase truuduse jõuga.
+Hoiab [keelt](position_language_et.md) ja [laulu](process_laulupidu.md), kui võõras võim surub peale teist: laulab laulupeol, õpetab lapselapsi eesti keeles ja palvetab vaikselt oma keele eest. Teeb seda ilma suurte žestideta, igapäevase truuduse jõuga.
 
 ## Shadow
 

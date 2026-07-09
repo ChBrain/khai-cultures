@@ -26,13 +26,13 @@ stamp:
 
 ## Action
 
-Valdemārs raksta, dibina avīzes un jūrskolas un māca latviešus lepoties ar sevi un stāties uz pašu kājām. Tajā pašā laikā [Krišjānis Barons](persona_barons.md) sāk savākt un kārtot [tautasdziesmas](position_dziesma.md), miljonu dainu savā Dainu skapī, un pierāda, ka zemnieka mēlē ir vesela pasaule. [Latviešu valoda](position_latviesu_valoda.md) no kungu apsmieklotas lauku runas kļūst par tautas lepnumu un rakstu valodu.
+Valdemārs raksta, dibina avīzes un jūrskolas un māca latviešus lepoties ar sevi un stāties uz pašu kājām. Tajā pašā laikā [Krišjānis Barons](persona_barons.md) sāk savākt un kārtot [tautasdziesmas](position_dziesma.md), miljonu dainu savā Dainu skapī, un pierāda, ka zemnieka mēlē ir vesela pasaule. [Latviešu valoda](position_language_lv.md) no kungu apsmieklotas lauku runas kļūst par tautas lepnumu un rakstu valodu.
 
 ## Stage
 
 - [Krišjānis Valdemārs](persona_valdemars.md): jaunlatviešu vadonis, kas ceļ tautu no zemnieka kārtas.
 - [Krišjānis Barons](persona_barons.md): tautasdziesmu tēvs, kas glābj dainas.
-- [latviešu valoda](position_latviesu_valoda.md): vēlu izcīnītā rakstu valoda un tautas lepnums.
+- [latviešu valoda](position_language_lv.md): vēlu izcīnītā rakstu valoda un tautas lepnums.
 - [dziesma](position_dziesma.md): dainu pasaule, ko savāc un sakārto.
 
 ## Tension

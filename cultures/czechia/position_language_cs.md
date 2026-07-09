@@ -34,4 +34,4 @@ Půdu ztrácí dnes vůči angličtině otevřeného světa, v níž se pracuje,
 
 ## Drives
 
-Žije v [Haškovi](persona_hasek.md), který povýšil hospodskou, lidovou češtinu na velkou literaturu, a v [Tomášovi](persona_tomas.md), jehož čeština ustupuje angličtině práce a obrazovek. Žene Česko, aby se drželo jazyka jednou už vzkříšeného z mrtvých jako důkazu, že národ trvá, i když stát mizel.
+Žije v [Husovi](persona_hus.md), který kázal pravdu česky a psané češtině dal diakritiku, v [Haškovi](persona_hasek.md), který povýšil hospodskou, lidovou češtinu na velkou literaturu, a v [Havlovi](persona_havel.md), který v mateřštině hledal život v pravdě proti dřevěné řeči režimu. Žije i v [Jiřině](persona_jirina.md), která si svou řeč uhájila celou pod dvěma totalitami, a v [Tomášovi](persona_tomas.md), jehož čeština ustupuje angličtině práce a obrazovek. Žene Česko, aby se drželo jazyka jednou už vzkříšeného z mrtvých jako důkazu, že národ trvá, i když stát mizel.

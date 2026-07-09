@@ -50,6 +50,7 @@ stamp:
 - [和](position_wa.md)
 - [武士道](position_bushido.md)
 - [神仏](position_shinbutsu.md)
+- [日本語](position_language_ja.md)
 
 **Pieces**
 

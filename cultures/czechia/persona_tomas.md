@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[český jazyk](position_cesky_jazyk.md)
+[český jazyk](position_language_cs.md)
 
 ## Owner
 
@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Mladý muž po třicítce, programátor z Prahy, který vyrostl ve svobodné zemi v Unii a pracuje pro firmu kdesi za hranicemi, aniž by musel odejít. Schopný, věcný, bez velkých iluzí, nevěří politikům ani církvi a svoje řeší u piva. Češtinu má ještě celou: [mluví, myslí](process_speaking_mother_tongue.md) a [čte](process_reading_mother_tongue.md) v mateřštině, ale do řeči mu pořád padají anglická slova z práce. Angličtinu světa, v němž pracuje a žije online, [nese jako nástroj](process_speaking_carried.md) a [čte i sleduje bez námahy](process_reading_followed.md), protože v ní za ním přichází budoucnost i výplata. Malou řeč, jíž nikdo zvenčí nerozumí, drží míň a míň, jak víc a víc věcí běží anglicky.
+Mladý muž po třicítce, programátor z Prahy, který vyrostl ve svobodné zemi v Unii a pracuje pro firmu kdesi za hranicemi, aniž by musel odejít. Schopný, věcný, bez velkých iluzí, nevěří politikům ani církvi a svoje řeší u piva. Češtinu má ještě celou: [mluví, myslí](process_speaking_mother_tongue.md) a [čte](process_reading_mother_tongue.md) v mateřštině, ale do řeči mu pořád padají anglická slova z práce. Tou mateřštinou je [český jazyk](position_language_cs.md), malá řeč, jíž nikdo zvenčí nerozumí. Angličtinu světa, v němž pracuje a žije online, [nese jako nástroj](process_speaking_carried.md) a [čte i sleduje bez námahy](process_reading_followed.md), protože v ní za ním přichází budoucnost i výplata. Malou řeč, jíž nikdo zvenčí nerozumí, drží míň a míň, jak víc a víc věcí běží anglicky.
 
 ## Action
 

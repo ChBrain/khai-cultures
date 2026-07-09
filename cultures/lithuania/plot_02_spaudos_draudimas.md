@@ -26,12 +26,12 @@ Po 1863 metų sukilimo prieš carą rusų valdžia imasi nutautinti Lietuvą. 18
 
 ## Action
 
-Keturiasdešimt metų, iki 1904-ųjų, lietuviškos knygos spausdinamos svetur, Mažojoje Lietuvoje ir Amerikoje, o knygnešiai slapta gabena jas per sieną, rizikuodami kalėjimu ir Sibiru. 1883 metais [Jonas Basanavičius](persona_basanavicius.md) pradeda leisti „Aušrą" ir žadina tautinį atgimimą. Caro spauda taip ir nepalaužia [lietuvių kalbos](position_lietuviu_kalba.md): 1904 metais draudimas atšaukiamas, ir kalba išlieka.
+Keturiasdešimt metų, iki 1904-ųjų, lietuviškos knygos spausdinamos svetur, Mažojoje Lietuvoje ir Amerikoje, o knygnešiai slapta gabena jas per sieną, rizikuodami kalėjimu ir Sibiru. 1883 metais [Jonas Basanavičius](persona_basanavicius.md) pradeda leisti „Aušrą" ir žadina tautinį atgimimą. Caro spauda taip ir nepalaužia [lietuvių kalbos](position_language_lt.md): 1904 metais draudimas atšaukiamas, ir kalba išlieka.
 
 ## Stage
 
 - [Jonas Basanavičius](persona_basanavicius.md): gydytojas ir žadintojas, kuris leidžia „Aušrą" ir grąžina tautai balsą.
-- [lietuvių kalba](position_lietuviu_kalba.md): uždraustas žodis, slapta išsaugotas ir grąžintas namo.
+- [lietuvių kalba](position_language_lt.md): uždraustas žodis, slapta išsaugotas ir grąžintas namo.
 - [Vilnius](place_vilnius.md): atgimimo ir vėliau Nepriklausomybės akto miestas.
 
 ## Tension

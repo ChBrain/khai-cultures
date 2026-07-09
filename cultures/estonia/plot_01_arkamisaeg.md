@@ -31,7 +31,7 @@ Koidula teeb põlatud talupojakeelest luule ja teatri, ja 1869. aastal peetakse 
 ## Stage
 
 - [Lydia Koidula](persona_koidula.md): luule ja teatri ema, kes annab maarahvale hääle.
-- [eesti keel](position_eesti_keel.md): talupojakeel, mis ärkamisajal tõstetakse luuleks ja kodumaaks.
+- [eesti keel](position_language_et.md): talupojakeel, mis ärkamisajal tõstetakse luuleks ja kodumaaks.
 - [Tartu](place_tartu.md): ülikoolilinn ja ärkamise häll, kus peetakse esimene laulupidu.
 
 ## Tension

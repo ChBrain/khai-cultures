@@ -31,7 +31,7 @@ Aastatel 1918-1920 võitleb Eesti rahvavägi, koos soome ja muu abiga, nii Punaa
 ## Stage
 
 - [Tartu](place_tartu.md): linn, kus sõlmitakse Tartu rahu ja tunnustatakse Eesti riiki.
-- [eesti keel](position_eesti_keel.md): keel, mis ärkamisajal sai kodumaaks ja nüüd saab riigikeeleks.
+- [eesti keel](position_language_et.md): keel, mis ärkamisajal sai kodumaaks ja nüüd saab riigikeeleks.
 
 ## Tension
 

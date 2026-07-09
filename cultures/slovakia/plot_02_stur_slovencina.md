@@ -26,12 +26,12 @@ V prvej polovici 19. storočia silnie v Uhorsku pomaďarčovanie a maďarčina v
 
 ## Action
 
-Roku 1843 Štúr uzákoní spisovnú [slovenčinu](position_slovencina.md) zo stredoslovenských nárečí, blízku reči ľudu, a založí ňou noviny, literatúru a politiku národa. V revolúcii 1848 sa Slováci po prvý raz prihlásia o svoje práva. Reč, ktorú dovtedy mali len v ústach, sa stane písmom, zástavou a vlasťou národa, čo nemal štát.
+Roku 1843 Štúr uzákoní spisovnú [slovenčinu](position_language_sk.md) zo stredoslovenských nárečí, blízku reči ľudu, a založí ňou noviny, literatúru a politiku národa. V revolúcii 1848 sa Slováci po prvý raz prihlásia o svoje práva. Reč, ktorú dovtedy mali len v ústach, sa stane písmom, zástavou a vlasťou národa, čo nemal štát.
 
 ## Stage
 
 - [Ľudovít Štúr](persona_stur.md): učenec a poslanec, ktorý dá reči písmo a národu hlas.
-- [slovenčina](position_slovencina.md): spisovný jazyk vydobytý práve vtedy, keď ho hrozí stratiť.
+- [slovenčina](position_language_sk.md): spisovný jazyk vydobytý práve vtedy, keď ho hrozí stratiť.
 - [Bratislava](place_bratislava.md): mesto snemu a štúrovcov, odkiaľ prebudenie vychádza.
 
 ## Tension

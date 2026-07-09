@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[slovenčina](position_slovencina.md)
+[slovenčina](position_language_sk.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Učenec, novinár a poslanec uhorského snemu, vodca štúrovcov, ktorý dal národu bez písma jeho spisovnú reč a prebudil ho práve vtedy, keď ho pomaďarčovanie chcelo rozpustiť. Vážny, obetavý, prísny k sebe, žil pre vec a zomrel mladý a chudobný. Slovenčinu má celú a sám jej dal tvar: [hovorí](process_speaking_mother_tongue.md), [myslí](process_thinking_mother_tongue.md) a [píše](process_writing_mother_tongue.md) v materčine tak, že ju roku 1843 zo stredoslovenských nárečí povýšil na písaný jazyk. Maďarčinu uhorského snemu, kde hája práva Slovákov, [nesie ako nástroj](process_speaking_carried.md), nemčinu štúdií a vzdelania [takisto](process_speaking_carried.md) a starší slovanský spisovný jazyk, češtinu evanjelikov, [číta a sleduje](process_reading_followed.md) a od nej sa odpútava. Reči dal písmo, no za národ prosil v snemovej maďarčine.
+Učenec, novinár a poslanec uhorského snemu, vodca štúrovcov, ktorý dal národu bez písma jeho spisovnú reč a prebudil ho práve vtedy, keď ho pomaďarčovanie chcelo rozpustiť. Vážny, obetavý, prísny k sebe, žil pre vec a zomrel mladý a chudobný. Slovenčinu má celú a sám jej dal tvar: [hovorí](process_speaking_mother_tongue.md), [myslí](process_thinking_mother_tongue.md) a [píše](process_writing_mother_tongue.md) v materčine tak, že ju roku 1843 zo stredoslovenských nárečí povýšil na písaný jazyk. Tou materčinou je [slovenčina](position_language_sk.md), ktorej sám dal písmo. Maďarčinu uhorského snemu, kde hája práva Slovákov, [nesie ako nástroj](process_speaking_carried.md), nemčinu štúdií a vzdelania [takisto](process_speaking_carried.md) a starší slovanský spisovný jazyk, češtinu evanjelikov, [číta a sleduje](process_reading_followed.md) a od nej sa odpútava. Reči dal písmo, no za národ prosil v snemovej maďarčine.
 
 ## Action
 
-V [Štúrovi a slovenčine](plot_02_stur_slovencina.md) uzákoní spisovnú reč a prebudí národ proti pomaďarčovaniu. Tým, že [jazyku](position_slovencina.md) dá písmo, dá [mladému národu](position_mlady_narod.md) prvý dôkaz, že je svojbytný, aj keď nemá štát.
+V [Štúrovi a slovenčine](plot_02_stur_slovencina.md) uzákoní spisovnú reč a prebudí národ proti pomaďarčovaniu. Tým, že [jazyku](position_language_sk.md) dá písmo, dá [mladému národu](position_mlady_narod.md) prvý dôkaz, že je svojbytný, aj keď nemá štát.
 
 ## Shadow
 

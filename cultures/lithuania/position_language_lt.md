@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: lietuvių kalba
@@ -34,4 +34,4 @@ Kad kalbama ir rašoma lietuviškai net ten, kur viešpatavo rusų ar lenkų kal
 
 ## Drives
 
-Gyvena [Basanavičiuje](persona_basanavicius.md), kuris atgaivino uždraustą kalbą ir spausdino ją lotyniškomis raidėmis svetur, ir [Mante](persona_mantas.md), kurio vaikuose archajiška kalba plonėja link naujo krašto anglų kalbos. Varo Lietuvą laikytis senos kalbos kaip įrodymo, kad tauta yra sava, net kai valstybę atgavo paskutinė.
+Gyvena kiekviename, kuris ją turi kaip gimtąją. [Vytautas Didysis](persona_vytautas_didysis.md) ją kalba kaip baltų valdovas, nors jo tauta jos dar nerašo; [Basanavičius](persona_basanavicius.md) atgaivino uždraustą kalbą ir spausdino ją lotyniškomis raidėmis svetur; [Landsbergis](persona_landsbergis.md) būtent ja paskelbė atkurtą valstybę pro tankus; [Ona](persona_ona.md) išlaikė ją ir kryžių sveiką, kai Sibiras norėjo atimti abu; o [Manto](persona_mantas.md) vaikuose archajiška kalba plonėja link naujo krašto anglų kalbos. Varo Lietuvą laikytis senos kalbos kaip įrodymo, kad tauta yra sava, net kai valstybę atgavo paskutinė.

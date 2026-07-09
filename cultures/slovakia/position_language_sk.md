@@ -34,4 +34,4 @@ Pôdu stráca dnes voči angličtine otvoreného sveta, v ktorej mladí pracujú
 
 ## Drives
 
-Žije v [Štúrovi](persona_stur.md), ktorý reči dal písmo a národu hlas, a v [Marekovi](persona_marek.md), ktorého slovenčina sa stráca medzi angličtinou práce a češtinou, ktorej rozumie ako svojej. Ženie Slovensko, aby sa držalo neskoro vydobytej reči ako dôkazu, že národ je svoj, aj keď štát dostal naposledy.
+Žije v [Štúrovi](persona_stur.md), ktorý reči dal písmo a národu hlas, v [Jánošíkovi](persona_janosik.md), ktorý žil rečou bez písma a stal sa jej piesňou, a v [Dubčekovi](persona_dubcek.md), ktorý po slovensky prosil o ľudskú tvár. Žije aj v [Anne](persona_anna.md), ktorá si reč a vieru udržala celú, a v [Marekovi](persona_marek.md), ktorého slovenčina sa stráca medzi angličtinou práce a češtinou, ktorej rozumie ako svojej. Ženie Slovensko, aby sa držalo neskoro vydobytej reči ako dôkazu, že národ je svoj, aj keď štát dostal naposledy.

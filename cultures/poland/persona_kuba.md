@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[język polski](position_jezyk_polski.md)
+[język polski](position_language_pl.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Młody mężczyzna po trzydziestce, który po wejściu Polski do Unii wyjechał za pracą na Wyspy i tam założył rodzinę. Pracowity, zaradny, rozdarty, tęskni za krajem, a jednak buduje życie gdzie indziej. Polszczyznę ma jeszcze całą, lecz już nie u dzieci: [mówi, myśli](process_speaking_mother_tongue.md) i [czyta](process_reading_mother_tongue.md) w mowie ojczystej, ale w domu coraz częściej wtrąca angielski. Angielski świata, w którym żyje i pracuje, [dźwiga jak narzędzie](process_speaking_carried.md) i [czyta oraz śledzi bez trudu](process_reading_followed.md), bo to w nim woła go przyszłość. Jego dzieci łapią polski już tylko [ze słuchu](process_hearing_caught.md), od dziadków przez ekran. Polszczyzna, którą wywiózł całą, blednie w jego dzieciach z pokolenia na pokolenie.
+Młody mężczyzna po trzydziestce, który po wejściu Polski do Unii wyjechał za pracą na Wyspy i tam założył rodzinę. Pracowity, zaradny, rozdarty, tęskni za krajem, a jednak buduje życie gdzie indziej. Polszczyznę ma jeszcze całą, lecz już nie u dzieci: [mówi, myśli](process_speaking_mother_tongue.md) i [czyta](process_reading_mother_tongue.md) w mowie ojczystej, ale w domu coraz częściej wtrąca angielski. Tą mową jest [język polski](position_language_pl.md), który wywiózł cały, lecz który blednie u jego dzieci. Angielski świata, w którym żyje i pracuje, [dźwiga jak narzędzie](process_speaking_carried.md) i [czyta oraz śledzi bez trudu](process_reading_followed.md), bo to w nim woła go przyszłość. Jego dzieci łapią polski już tylko [ze słuchu](process_hearing_caught.md), od dziadków przez ekran. Polszczyzna, którą wywiózł całą, blednie w jego dzieciach z pokolenia na pokolenie.
 
 ## Action
 
-Żyje [polskość](plan_polskosc.md) jako codzienne rozdarcie: wozi dzieci na polską sobotnią szkołę, dzwoni do [Haliny](persona_halina.md) na [Wigilię](process_wigilia.md) przez ekran i wraca na święta, walcząc o to, by [język](position_jezyk_polski.md) nie zgasł u jego dzieci.
+Żyje [polskość](plan_polskosc.md) jako codzienne rozdarcie: wozi dzieci na polską sobotnią szkołę, dzwoni do [Haliny](persona_halina.md) na [Wigilię](process_wigilia.md) przez ekran i wraca na święta, walcząc o to, by [język](position_language_pl.md) nie zgasł u jego dzieci.
 
 ## Shadow
 

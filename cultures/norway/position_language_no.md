@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: målstriden
@@ -34,4 +34,4 @@ Grunn etter hvert som bokmålet rår i byene, i pressen og i næringslivet, mens
 
 ## Drives
 
-Den hundreårige striden om hvilket skriftspråk som er folkets, driver landet til å bære to normer på en gang og til å sette den talte dialekten, som [Kari](persona_kari.md) snakker, høyere enn noen skriftnorm. Den lar [Sondre](persona_sondre.md) skrive hvilken som helst av normene med engelsken alt på skjermen.
+Den hundreårige striden om hvilket skriftspråk som er folkets, driver landet til å bære to normer på en gang og til å sette den talte dialekten høyere enn noen skriftnorm. Den lever i [Olav](persona_olav.md), som talte det gamle norrøne morsmålet som den selvsagte grunnen under sin makt, i [Nansen](persona_nansen.md), som talte og skrev morsmålet hjemme mens han bar de fremmede språkene ute i verden, i [Kari](persona_kari.md), som snakker dialekten sin og skriver den ene av de to normene, og i [Sondre](persona_sondre.md), som skriver hvilken som helst av normene med engelsken alt på skjermen. Slik setter landet den talte dialekten over normen og bærer likevel begge skriftmålene på en gang.

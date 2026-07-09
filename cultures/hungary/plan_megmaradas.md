@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Megbízatás, máig nyitva: a kérdés, amelyet a magyarság önmagának tesz fel, hogyan maradjon meg egy magányos, fogyatkozó nép, miként tartsa meg a rokontalan [nyelvét](position_magyar_nyelv.md) és a határon túli magyarjait, anélkül hogy [Trianon](position_trianon.md) sérelme és a borúlátás az egész jövőjét megülné.
+Megbízatás, máig nyitva: a kérdés, amelyet a magyarság önmagának tesz fel, hogyan maradjon meg egy magányos, fogyatkozó nép, miként tartsa meg a rokontalan [nyelvét](position_language_hu.md) és a határon túli magyarjait, anélkül hogy [Trianon](position_trianon.md) sérelme és a borúlátás az egész jövőjét megülné.
 
 ## Owner
 
