@@ -126,6 +126,20 @@ tongue that lives in **only one** culture house-wide drops the region and stays 
 tongue** (`de_ch` carries `language: de`); rare tongues are registered in
 `khai.languages`.
 
+**Sub-national cultures own their own subdivided variety.** A US state, a German
+Land, a Spanish comunidad, a UK nation is its own culture with its own way of
+speaking, so it owns its variety at its ISO 3166-2 code — Texan American English is
+`en_us_tx`, Californian `en_us_ca`, Bavarian Standard German `de_de_by`, Scottish
+English `en_gb_sct` — never a bare reference to the parent nation. The cultural
+touch of a tongue lives in the region that speaks it.
+
+**Regional-tongue homelands own the tongue.** A minority/regional language belongs
+to the region where it is the identity tongue: Catalan → Catalonia (`ca`), Basque →
+Basque Country (`eu`), Galician → Galicia (`gl`), Welsh → Wales (`cy`). Where that
+region's personas were marked in the national language, they are **re-marked to hold
+the regional tongue** (its position, its Projection channel) so ownership sits in the
+homeland; speakers of it in the parent nation then link cross-culture to the homeland.
+
 **Ownership — a variety belongs to its home culture; foreign use links across.**
 German Standard German ≠ Swiss German ≠ Austrian German; American English ≠ British
 ≠ Nigerian. Each culture **owns** only the varieties its personas natively hold, and
