@@ -26,7 +26,7 @@ stamp:
 
 ## Action
 
-In Berlin einigt sich die II. Orthographische Konferenz auf eine einheitliche deutsche Rechtschreibung, gestützt auf Dudens Arbeit. Das Deutsche Reich macht sie verbindlich; [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](../../cultures/switzerland/play_switzerland.md) übernehmen die Regeln, ohne dem Reich beizutreten. So bekommt der deutschsprachige Raum eine gemeinsame Schrift - [das deutschländische Deutsch](../../cultures/germany/position_language_de_de.md) als Maß, an dem sich Wien und Zürich ausrichten und doch ihren eigenen Wortschatz, ihren eigenen Klang und später, in der Schweiz, sogar den Verzicht auf das ß behalten. Aus drei Staaten wird kein Staat, aber eine Schriftgemeinschaft: man schreibt gleich und bleibt verschieden.
+In Berlin einigt sich die II. Orthographische Konferenz auf eine einheitliche deutsche Rechtschreibung, gestützt auf Dudens Arbeit. Das Deutsche Reich macht sie verbindlich; [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](../../cultures/switzerland/play_switzerland.md) übernehmen die Regeln, ohne dem Reich beizutreten. So bekommt der deutschsprachige Raum eine gemeinsame Schrift - [das deutschländische Deutsch](../../cultures/germany/play_germany.md) als Maß, an dem sich Wien und Zürich ausrichten und doch ihren eigenen Wortschatz, ihren eigenen Klang und später, in der Schweiz, sogar den Verzicht auf das ß behalten. Aus drei Staaten wird kein Staat, aber eine Schriftgemeinschaft: man schreibt gleich und bleibt verschieden.
 
 ## Stage
 
@@ -34,7 +34,7 @@ In Berlin einigt sich die II. Orthographische Konferenz auf eine einheitliche de
 - [Österreich](../../cultures/austria/play_austria.md): übernimmt die gemeinsame Rechtschreibung und behält den eigenen Wortschatz.
 - [die Schweiz](../../cultures/switzerland/play_switzerland.md): übernimmt die Regeln und geht doch eigene Wege, bis hin zum Verzicht auf das ß.
 - [Luther](../../cultures/germany/persona_luther.md): der die Schrift sät, die der Duden zur Norm ordnet.
-- [das deutschländische Deutsch](../../cultures/germany/position_language_de_de.md): der kodifizierte Standard, der zum gemeinsamen Maß der drei wird.
+- [das deutschländische Deutsch](../../cultures/germany/play_germany.md): der kodifizierte Standard, der zum gemeinsamen Maß der drei wird.
 
 ## Tension
 
