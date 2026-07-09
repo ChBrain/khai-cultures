@@ -50,6 +50,7 @@ On dit que le Cameroun, c'est l'Afrique en miniature, et ce n'est pas un slogan 
 - [l'Afrique en miniature](position_l_afrique_en_miniature.md)
 - [le bilinguisme](position_le_bilinguisme.md)
 - [la chefferie](position_la_chefferie.md)
+- [le francais du Cameroun](position_language_fr_cm.md)
 
 **Pieces**
 

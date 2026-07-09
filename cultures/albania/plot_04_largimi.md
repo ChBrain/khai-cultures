@@ -26,12 +26,12 @@ Në fund të viteve tetëdhjetë regjimi komunist shembet dhe Shqipëria hapet p
 
 ## Action
 
-Më 1991 mijëra shqiptarë mbushin anijet dhe varkat drejt Italisë, në një ikje të dëshpëruar matanë Adriatikut. Më 1997 shembja e skemave piramidale i zhduk kursimet e popullit dhe vendi bie në kaos e trazira të armatosura. Nga këto vite del një mërgatë e tërë në Itali, Greqi dhe më gjerë; [Arditi](persona_ardit.md) është një prej tyre, dhe me të [gjuha shqipe](position_gjuha_shqipe.md) shpërndahet larg atdheut.
+Më 1991 mijëra shqiptarë mbushin anijet dhe varkat drejt Italisë, në një ikje të dëshpëruar matanë Adriatikut. Më 1997 shembja e skemave piramidale i zhduk kursimet e popullit dhe vendi bie në kaos e trazira të armatosura. Nga këto vite del një mërgatë e tërë në Itali, Greqi dhe më gjerë; [Arditi](persona_ardit.md) është një prej tyre, dhe me të [gjuha shqipe](position_language_sq_al.md) shpërndahet larg atdheut.
 
 ## Stage
 
 - [Tirana](place_tirana.md): kryeqyteti i hapjes, i kaosit dhe i nisjeve drejt botës.
-- [gjuha shqipe](position_gjuha_shqipe.md): gjuha e vetme në degën e vet, që hollohet në mërgim.
+- [gjuha shqipe](position_language_sq_al.md): gjuha e vetme në degën e vet, që hollohet në mërgim.
 - [Ardit](persona_ardit.md): fëmija i ikjes, që del me varkë e mban shqipen larg shtëpisë.
 
 ## Tension

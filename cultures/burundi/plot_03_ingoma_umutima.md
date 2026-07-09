@@ -26,7 +26,7 @@ Hejuru y'imisozi y'u Burundi, ingoma iguma ari umutima w'igihugu. Abatimbo bavuz
 
 ## Action
 
-Abatimbo bo ku misozi bavuza ingoma mu buryo budasanzwe: bateramira ku mutwe ingoma, bagataburuka bagavuza, bagatemba bagasimbagurika, ijwi ry'ingoma rikuzura ikibanza cose. [umutimbo](persona_umutimbo.md) avuza ingoma akabungabunga umutima w'igihugu, akubaha [inka](position_inka.md) akazihimbira mu bivugo. Mu gihe kimwe, [ururimi](position_ururimi.md) rugakomeza imigani n'ibivugo mu kanwa k'abantu, ubuhinga bwo kuvuga bukabikwa nk'ubutunzi. Ingoma n'ururimi n'inka biba umutima usangiwe w'igihugu cose.
+Abatimbo bo ku misozi bavuza ingoma mu buryo budasanzwe: bateramira ku mutwe ingoma, bagataburuka bagavuza, bagatemba bagasimbagurika, ijwi ry'ingoma rikuzura ikibanza cose. [umutimbo](persona_umutimbo.md) avuza ingoma akabungabunga umutima w'igihugu, akubaha [inka](position_inka.md) akazihimbira mu bivugo. Mu gihe kimwe, [ururimi](position_language_rn.md) rugakomeza imigani n'ibivugo mu kanwa k'abantu, ubuhinga bwo kuvuga bukabikwa nk'ubutunzi. Ingoma n'ururimi n'inka biba umutima usangiwe w'igihugu cose.
 
 ## Stage
 

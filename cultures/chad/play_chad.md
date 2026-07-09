@@ -50,6 +50,7 @@ stamp:
 - [البحيرة](position_the_lake.md)
 - [النسيج](position_the_weave.md)
 - [المرعى الطويل](position_the_long_pasture.md)
+- [العربية التشادية](position_language_ar_td.md)
 
 **Pieces**
 

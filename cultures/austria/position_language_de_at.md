@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: das österreichische Deutsch
@@ -34,4 +34,4 @@ Boden nach unten an die Mundart, die im Mund weiterlebt, was das Schulbuch nie g
 
 ## Drives
 
-Es lebt in [Gretes](persona_grete.md) Wienerisch und Schmäh, in [Lukas](persona_lukas.md) ohne die Kaisernostalgie, und liegt als selbstverständlicher Grund unter [Freuds](persona_freud.md) Prosa. Es ist die Norm, an der die Österreicher wissen, dass sie keine Deutschen sind: dieselbe Zunge, die eigene Form.
+Es lebt in [Gretes](persona_grete.md) Wienerisch und Schmäh, in [Lukas](persona_lukas.md) ohne die Kaisernostalgie, und liegt als selbstverständlicher Grund unter [Freuds](persona_freud.md) Prosa. Als Kanzleideutsch klammert es [Maria Theresias](persona_maria_theresia.md) Vielvölkerreich von oben zusammen, und auf [Metternichs](persona_metternich.md) Zunge spielt es im Salon der Diplomatie. Es ist die Norm, an der die Österreicher wissen, dass sie keine Deutschen sind: dieselbe Zunge, die eigene Form.

@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Çağımızın muğam ustadı: səsini bir telli alət kimi əyib-büküb, yüz illik şeiri elə oxuyan ki, dinləyən ürəyində qədim bir yanğı duyur. Ustaddan öyrəndi, qızı Fərqanə ilə birlikdə dünya səhnələrində oxudu, və Azərbaycan muğamını yer üzünün dörd bucağına apardı. Ana dili onunla [danışan](process_speaking_mother_tongue.md), [düşünən](process_thinking_mother_tongue.md) və muğamın sözünü oxuduğu dildir; Füzulinin, Nizaminin qəzəllərini, klassik şeirin ağır dilini [oxuyub ardınca gedir](process_reading_followed.md), və ustadların ifasını qulağı ilə [tutub içinə hopdurmuşdur](process_hearing_mother_tongue.md). Lakin muğam sözdən başlayıb sözü aşır: o yerdə ki, qəzəlin sözləri qurtarır, səs sözsüz bir naləyə çevrilir, və ustad ən dərin şeyi dilin bitdiyi, sözün çatmadığı o sərhəddə deyir.
+Çağımızın muğam ustadı: səsini bir telli alət kimi əyib-büküb, yüz illik şeiri elə oxuyan ki, dinləyən ürəyində qədim bir yanğı duyur. Ustaddan öyrəndi, qızı Fərqanə ilə birlikdə dünya səhnələrində oxudu, və Azərbaycan muğamını yer üzünün dörd bucağına apardı. [Ana dili](position_language_az.md) onunla [danışan](process_speaking_mother_tongue.md), [düşünən](process_thinking_mother_tongue.md) və muğamın sözünü oxuduğu dildir; Füzulinin, Nizaminin qəzəllərini, klassik şeirin ağır dilini [oxuyub ardınca gedir](process_reading_followed.md), və ustadların ifasını qulağı ilə [tutub içinə hopdurmuşdur](process_hearing_mother_tongue.md). Lakin muğam sözdən başlayıb sözü aşır: o yerdə ki, qəzəlin sözləri qurtarır, səs sözsüz bir naləyə çevrilir, və ustad ən dərin şeyi dilin bitdiyi, sözün çatmadığı o sərhəddə deyir.
 
 ## Action
 

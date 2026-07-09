@@ -48,7 +48,7 @@ Igihugu kitavuga uburyarya: imisozi y'icaha n'icarungi yatwaye amazi, kandi mu m
 **Positions**
 
 - [ingoma](position_ingoma.md)
-- [ururimi](position_ururimi.md)
+- [Ikirundi](position_language_rn.md)
 - [inka](position_inka.md)
 
 **Pieces**
@@ -76,12 +76,12 @@ Mu kinjana ca cumi n'icenda [Mwezi Gisabo](persona_gisabo.md) ategeka i [Gitega]
 
 **[Plot 3: ingoma nk'umutima w'igihugu](plot_03_ingoma_umutima.md)**
 
-Abatimbo bavuza [ingoma](position_ingoma.md) ku misozi gushika i [Gitega](place_gitega.md), umuziki w'ingoma uba ikiranga igihugu, kandi [ururimi](position_ururimi.md) rugakomeza imigani n'ibivugo mu kanwa k'abantu.
+Abatimbo bavuza [ingoma](position_ingoma.md) ku misozi gushika i [Gitega](place_gitega.md), umuziki w'ingoma uba ikiranga igihugu, kandi [ururimi](position_language_rn.md) rugakomeza imigani n'ibivugo mu kanwa k'abantu.
 
 **[Plot 4: Ikirundi n'umuziki mu isi](plot_04_isi.md)**
 
-[Khadja Nin](persona_khadja_nin.md) na [Jean-Christophe Matata](persona_matata.md) bajana [ururimi](position_ururimi.md) n'umuziki w'u Burundi mu isi yose, mu gihe ingoma y'u Burundi yemerwa nk'umurage w'abantu bose w'isi.
+[Khadja Nin](persona_khadja_nin.md) na [Jean-Christophe Matata](persona_matata.md) bajana [ururimi](position_language_rn.md) n'umuziki w'u Burundi mu isi yose, mu gihe ingoma y'u Burundi yemerwa nk'umurage w'abantu bose w'isi.
 
 ## Stakes
 
-Niba igihugu c'imisozi gisangiye ururimi rumwe n'ingoma imwe gishobora kubungabunga umutima waco w'[ingoma](position_ingoma.md), ubuhinga bwo kuvuga bwo mu [rurimi](position_ururimi.md) rwarwo, n'urukundo rw'[inka](position_inka.md) n'imisozi, ko ubuntu butazima, ko abatimbo batazohwema kuvuza ingoma, kandi ko umugani n'ikivugo bizoguma mu kanwa k'abana b'ejo, mu gihe isi yugurutse iyegera.
+Niba igihugu c'imisozi gisangiye ururimi rumwe n'ingoma imwe gishobora kubungabunga umutima waco w'[ingoma](position_ingoma.md), ubuhinga bwo kuvuga bwo mu [rurimi](position_language_rn.md) rwarwo, n'urukundo rw'[inka](position_inka.md) n'imisozi, ko ubuntu butazima, ko abatimbo batazohwema kuvuza ingoma, kandi ko umugani n'ikivugo bizoguma mu kanwa k'abana b'ejo, mu gihe isi yugurutse iyegera.

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una jove andorrana de trenta anys, que treballa en el sector financer a la capital i és instructora d'esquí a l'hivern. El català és la seva llengua materna, en la qual [parla](process_speaking_mother_tongue.md) i pensa, la parla de les valls que es manté oficial i ferma. El castellà, el francès i l'anglès [els porta com a sobreposats](process_speaking_worn.md) per a la seva feina diària amb clients internacionals i turistes de neu. Tanmateix, la pèrdua és a la costura: la història i la cultura dels pobles de muntanya [les sent només com un eco](process_hearing_followed.md) a través de les històries del seu avi; coneix els antics camins de pastors, fins i tot en el seu present que està lligat als mercats globals i al creixement urbà.
+Una jove andorrana de trenta anys, que treballa en el sector financer a la capital i és instructora d'esquí a l'hivern. El català, [la llengua catalana](position_language_ca_ad.md), és la seva llengua materna, en la qual [parla](process_speaking_mother_tongue.md) i pensa, la parla de les valls que es manté oficial i ferma. El castellà, el francès i l'anglès [els porta com a sobreposats](process_speaking_worn.md) per a la seva feina diària amb clients internacionals i turistes de neu. Tanmateix, la pèrdua és a la costura: la història i la cultura dels pobles de muntanya [les sent només com un eco](process_hearing_followed.md) a través de les històries del seu avi; coneix els antics camins de pastors, fins i tot en el seu present que està lligat als mercats globals i al creixement urbà.
 
 ## Action
 

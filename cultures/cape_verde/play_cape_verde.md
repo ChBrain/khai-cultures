@@ -50,6 +50,7 @@ Quando os portugeses chegaram, por volta de 1460, estas ilhas estavam vazias de 
 - [a sodade](position_sodade.md)
 - [a morabeza](position_morabeza.md)
 - [o kriolu](position_kriolu.md)
+- [o portugues cabo-verdiano](position_language_pt_cv.md)
 
 **Pieces**
 

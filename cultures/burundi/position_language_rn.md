@@ -1,16 +1,16 @@
 ---
 khai: position
-title: "the Tongue"
-declared: "ururimi"
+title: "Kirundi"
+declared: "Ikirundi"
 language: rn
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-09"
 ---
 
-# Position: ururimi
+# Position: Ikirundi
 
 ## Taxonomy
 
@@ -34,4 +34,4 @@ Ihomba igihe abana batagisubira gukira umugani n'ikivugo, igihe ururimi ruvanze 
 
 ## Drives
 
-Iba muri [Khadja Nin](persona_khadja_nin.md), uwajanye ijwi n'amajambo y'iwabo mu isi yose, na muri [Jean-Christophe Matata](persona_matata.md), uwahimbye indirimbo mu Kirundi zikoresheje ubwiza bw'ururimi. Ituma u Burundi kibika ururimi rumwe rusangiwe na bose, n'ubuhinga bwo kuvuga bw'abasokuru.
+Iba muri [Ntare Rushatsi](persona_ntare.md), uwashinze igihugu akaruvuga nk'ururimi rw'ubwami n'ubutegetsi, no muri [Mwezi Gisabo](persona_gisabo.md), umwami yakoresheje ubuhinga bwo kuvuga nk'igikoresho c'ubutegetsi. Iba muri [Khadja Nin](persona_khadja_nin.md), uwajanye ijwi n'amajambo y'iwabo mu isi yose, muri [Jean-Christophe Matata](persona_matata.md), uwahimbye indirimbo mu Kirundi zikoresheje ubwiza bw'ururimi, no muri [umutimbo](persona_umutimbo.md), uwutegura ibivugo by'ingoma mu rurimi rumwe rusangiwe na bose. Ituma u Burundi kibika ururimi rumwe rusangiwe na bose, n'ubuhinga bwo kuvuga bw'abasokuru.

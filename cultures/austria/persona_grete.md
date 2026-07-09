@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine Wienerin über siebzig, aufgewachsen mit Kaffeehaus, Kirche und Kaisernostalgie. Herzlich und raunzend zugleich, großzügig im Charme und streng in der Form. Sie besteht auf dem Herrn Doktor und der Frau Magister und hält den [Grant](position_grant.md) für eine Art Zuneigung. [Sie spricht, hört und denkt](process_speaking_mother_tongue.md) ihr Wienerisch, [das österreichische Deutsch](position_oesterreichisches_deutsch.md), als Muttersprache, weich, gedehnt und voller Schmäh. Das Englisch der Jungen und der Welt [schnappt sie nur auf](process_hearing_caught.md), und was in fremder Sprache geschrieben steht, [entziffert sie mühsam](process_reading_caught.md): alles, was zählt, kommt ihr ganz in ihrer Sprache, und das bundesdeutsche Hochdeutsch versteht sie zwar, doch sein Ton bleibt ihr fremd.
+Eine Wienerin über siebzig, aufgewachsen mit Kaffeehaus, Kirche und Kaisernostalgie. Herzlich und raunzend zugleich, großzügig im Charme und streng in der Form. Sie besteht auf dem Herrn Doktor und der Frau Magister und hält den [Grant](position_grant.md) für eine Art Zuneigung. [Sie spricht, hört und denkt](process_speaking_mother_tongue.md) ihr Wienerisch, [das österreichische Deutsch](position_language_de_at.md), als Muttersprache, weich, gedehnt und voller Schmäh. Das Englisch der Jungen und der Welt [schnappt sie nur auf](process_hearing_caught.md), und was in fremder Sprache geschrieben steht, [entziffert sie mühsam](process_reading_caught.md): alles, was zählt, kommt ihr ganz in ihrer Sprache, und das bundesdeutsche Hochdeutsch versteht sie zwar, doch sein Ton bleibt ihr fremd.
 
 ## Action
 

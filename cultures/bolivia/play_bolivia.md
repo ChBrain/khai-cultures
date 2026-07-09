@@ -50,6 +50,7 @@ Una tierra antigua y de altura, cuna del mundo andino: primerito Tiwanaku ahí j
 - [lo indígena](position_lo_indigena.md)
 - [la veta y la mita](position_la_veta_y_la_mita.md)
 - [el mar perdido](position_el_mar_perdido.md)
+- [el castellano boliviano](position_language_es_bo.md)
 
 **Pieces**
 

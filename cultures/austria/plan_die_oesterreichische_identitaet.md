@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Eine Produktionsvorgabe: der bewusste, nach 1945 gefasste Plan, aus den Trümmern des Anschlusses eine eigene österreichische Nation zu formen, die sich gerade nicht als Deutschland versteht; das [österreichische Deutsch](position_oesterreichisches_deutsch.md) ist einer ihrer Grundpfeiler.
+Eine Produktionsvorgabe: der bewusste, nach 1945 gefasste Plan, aus den Trümmern des Anschlusses eine eigene österreichische Nation zu formen, die sich gerade nicht als Deutschland versteht; das [österreichische Deutsch](position_language_de_at.md) ist einer ihrer Grundpfeiler.
 
 ## Owner
 
@@ -27,7 +27,7 @@ Hin zu einem Land, das sich nicht als Teil Deutschlands begreift, sondern als ei
 
 ## Orders
 
-- An die Schule und den ORF: das [österreichische Deutsch](position_oesterreichisches_deutsch.md) und die eigene Geschichte pflegen, statt die bundesdeutsche Norm zu übernehmen.
+- An die Schule und den ORF: das [österreichische Deutsch](position_language_de_at.md) und die eigene Geschichte pflegen, statt die bundesdeutsche Norm zu übernehmen.
 - An die Politik: die Zweite Republik und die Neutralität als Kern des Selbstverständnisses tragen.
 - An die Gesellschaft: sich der eigenen Rolle vor 1945 ehrlich stellen, statt sich nur als erstes Opfer zu sehen.
 

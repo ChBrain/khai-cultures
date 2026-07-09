@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Der Arzt, der das Unbewusste entdeckt, Bürger der höflichen Wiener Welt und zugleich ihr Untergraber. Skeptisch, hartnäckig, ein Beobachter der Abgründe unter der guten Stube. Er [schreibt, liest und denkt](process_writing_mother_tongue.md) in seiner Muttersprache und gibt dem Seelenleben erst die Wörter, in denen man seither über es spricht. Das Englisch des Londoner Exils, in das ihn 1938 die Flucht zwingt, [trägt er nur als Werkzeug](process_speaking_carried.md), und die englischen Übersetzungen seiner Begriffe, des Es, des Ich, des Über-Ich, [liest und verfolgt er](process_reading_followed.md), wie sie zu id, ego und superego werden: der Mann, der der Seele ihre deutschen Wörter gab, stirbt in einer Stadt, die sie nur übersetzt kennt.
+Der Arzt, der das Unbewusste entdeckt, Bürger der höflichen Wiener Welt und zugleich ihr Untergraber. Skeptisch, hartnäckig, ein Beobachter der Abgründe unter der guten Stube. Er [schreibt, liest und denkt](process_writing_mother_tongue.md) in seiner Muttersprache, [dem österreichischen Deutsch](position_language_de_at.md), und gibt dem Seelenleben erst die Wörter, in denen man seither über es spricht. Das Englisch des Londoner Exils, in das ihn 1938 die Flucht zwingt, [trägt er nur als Werkzeug](process_speaking_carried.md), und die englischen Übersetzungen seiner Begriffe, des Es, des Ich, des Über-Ich, [liest und verfolgt er](process_reading_followed.md), wie sie zu id, ego und superego werden: der Mann, der der Seele ihre deutschen Wörter gab, stirbt in einer Stadt, die sie nur übersetzt kennt.
 
 ## Action
 

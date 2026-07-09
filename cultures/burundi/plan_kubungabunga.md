@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Intumbero igihugu cishingiye: akazi ka misi yose ko kubungabunga umutima w'[ingoma](position_ingoma.md), ubuhinga bwo kuvuga bwo mu [rurimi](position_ururimi.md) rumwe rusangiwe, n'urukundo rw'[inka](position_inka.md) n'imisozi, ngo ico kintu c'umutima w'igihugu kitazima mu gihe isi yugurutse iyegera.
+Intumbero igihugu cishingiye: akazi ka misi yose ko kubungabunga umutima w'[ingoma](position_ingoma.md), ubuhinga bwo kuvuga bwo mu [rurimi](position_language_rn.md) rumwe rusangiwe, n'urukundo rw'[inka](position_inka.md) n'imisozi, ngo ico kintu c'umutima w'igihugu kitazima mu gihe isi yugurutse iyegera.
 
 ## Owner
 

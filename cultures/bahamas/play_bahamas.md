@@ -50,6 +50,7 @@ The story begins on the water: the Lucayan Taino paddling their canoes among the
 - [the sea and the isles](position_the_sea_and_the_isles.md)
 - [colony to nation](position_colony_to_nation.md)
 - [Junkanoo and rake-and-scrape](position_junkanoo_and_rake_and_scrape.md)
+- [Bahamian dialect](position_language_en_bs.md)
 
 **Pieces**
 

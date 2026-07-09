@@ -50,6 +50,7 @@ A story that begins long before the cane: the Siboney and then the Arawak settle
 - [sugar and the dockyard](position_sugar_and_the_dockyard.md)
 - [the labour nation](position_the_labour_nation.md)
 - [a small place, a wide reach](position_a_small_place_a_wide_reach.md)
+- [Antiguan English](position_language_en_ag.md)
 
 **Pieces**
 

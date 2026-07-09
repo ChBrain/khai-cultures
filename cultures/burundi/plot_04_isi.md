@@ -26,13 +26,13 @@ Ijwi ry'imisozi y'u Burundi rishaka gushika kure y'igihugu. Abahanzi nka [Khadja
 
 ## Action
 
-[Khadja Nin](persona_khadja_nin.md) ajana ijwi n'amajambo y'iwabo mu isi yose, ahuza Ikirundi n'indimi z'isi, ijwi ry'imisozi rikumvikana kure. [Jean-Christophe Matata](persona_matata.md) ahimba indirimbo nyinshi mu Kirundi zikundwa n'Abarundi, ajana ubwiza bw'ururimi mu muziki ugezweho. Mu gihe kimwe, umuziki w'ingoma w'u Burundi wemerwa nk'umurage w'abantu bose w'isi, ijwi ry'ingoma rikamenyekana hose. [ururimi](position_ururimi.md) n'umuziki w'igihugu vyegera isi yose, ariko biguma bifise umutima w'imisozi.
+[Khadja Nin](persona_khadja_nin.md) ajana ijwi n'amajambo y'iwabo mu isi yose, ahuza Ikirundi n'indimi z'isi, ijwi ry'imisozi rikumvikana kure. [Jean-Christophe Matata](persona_matata.md) ahimba indirimbo nyinshi mu Kirundi zikundwa n'Abarundi, ajana ubwiza bw'ururimi mu muziki ugezweho. Mu gihe kimwe, umuziki w'ingoma w'u Burundi wemerwa nk'umurage w'abantu bose w'isi, ijwi ry'ingoma rikamenyekana hose. [ururimi](position_language_rn.md) n'umuziki w'igihugu vyegera isi yose, ariko biguma bifise umutima w'imisozi.
 
 ## Stage
 
 - [Khadja Nin](persona_khadja_nin.md): umuririmvyikazi ajana ijwi ry'iwabo n'ururimi mu isi yose.
 - [Jean-Christophe Matata](persona_matata.md): umuhanzi ahimba indirimbo mu Kirundi zikundwa n'Abarundi.
-- [ururimi](position_ururimi.md): ururimi rumwe rusangiwe rujanwa n'umuziki mu isi.
+- [ururimi](position_language_rn.md): ururimi rumwe rusangiwe rujanwa n'umuziki mu isi.
 
 ## Tension
 

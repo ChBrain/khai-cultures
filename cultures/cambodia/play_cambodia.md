@@ -50,6 +50,7 @@ stamp:
 - [ព្រះពុទ្ធសាសនាថេរវាទ](position_theravada.md)
 - [បេតិកភណ្ឌអង្គរ](position_angkor_legacy.md)
 - [ភូមិនិងវត្ត](position_village_and_wat.md)
+- [ភាសាខ្មែរ](position_language_km.md)
 
 **Pieces**
 

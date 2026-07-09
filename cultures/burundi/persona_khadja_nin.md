@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[ururimi](position_ururimi.md)
+[Ikirundi](position_language_rn.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Umuririmvyikazi w'u Burundi yamenyekanye mu isi yose, uwajanye ijwi n'amajambo y'iwabo kure y'imisozi. Yavutse mu Burundi, aza arajana umuziki w'iwabo mu mahanga, ahuza Ikirundi n'indimi z'isi, amajwi y'iwabo n'umuziki ugezweho. Ni umuhanzi afise ijwi rikomeye n'umutima ukunda iwabo. Ikirundi rwo mu kanwa rw'iwabo aracigumana, [aravuga](process_speaking_mother_tongue.md) kandi [arumva](process_hearing_mother_tongue.md) ururimi rw'iwabo, akaruririmba mu ndirimbo ziwe ngo ijwi ry'imisozi rishike kure. Igifaransa n'izindi ndimi z'isi [arazikoresha nk'igikoresho ciwe co gukora](process_speaking_carried.md), [akazisoma akazikurikira](process_reading_followed.md), kuko ari zo ndimi z'umuziki w'isi. Mugabo igihe aririmba mu rurimi rw'iwabo kure y'igihugu, [aragumana ikintu kitavugwa](process_hearing_followed.md): hari amajwi n'umutima w'imisozi adashobora gushikana neza mu rurimi rw'amahanga, kandi haba hari icara hagati y'ico umutima wiwumva n'ico ururimi rw'isi rushobora kuvuga.
+Umuririmvyikazi w'u Burundi yamenyekanye mu isi yose, uwajanye ijwi n'amajambo y'iwabo kure y'imisozi. Yavutse mu Burundi, aza arajana umuziki w'iwabo mu mahanga, ahuza Ikirundi n'indimi z'isi, amajwi y'iwabo n'umuziki ugezweho. Ni umuhanzi afise ijwi rikomeye n'umutima ukunda iwabo. [Ikirundi](position_language_rn.md) rwo mu kanwa rw'iwabo aracigumana, [aravuga](process_speaking_mother_tongue.md) kandi [arumva](process_hearing_mother_tongue.md) ururimi rw'iwabo, akaruririmba mu ndirimbo ziwe ngo ijwi ry'imisozi rishike kure. Igifaransa n'izindi ndimi z'isi [arazikoresha nk'igikoresho ciwe co gukora](process_speaking_carried.md), [akazisoma akazikurikira](process_reading_followed.md), kuko ari zo ndimi z'umuziki w'isi. Mugabo igihe aririmba mu rurimi rw'iwabo kure y'igihugu, [aragumana ikintu kitavugwa](process_hearing_followed.md): hari amajwi n'umutima w'imisozi adashobora gushikana neza mu rurimi rw'amahanga, kandi haba hari icara hagati y'ico umutima wiwumva n'ico ururimi rw'isi rushobora kuvuga.
 
 ## Action
 
-Mu [Kirundi n'umuziki mu isi](plot_04_isi.md) ajana [ururimi](position_ururimi.md) n'umuziki w'u Burundi mu isi yose, ahindura ijwi ry'imisozi ijwi ryumvikana hose. Mu kuririmba iwabo kure y'iwabo, asiga u Burundi muri za radiyo z'isi yose.
+Mu [Kirundi n'umuziki mu isi](plot_04_isi.md) ajana [ururimi](position_language_rn.md) n'umuziki w'u Burundi mu isi yose, ahindura ijwi ry'imisozi ijwi ryumvikana hose. Mu kuririmba iwabo kure y'iwabo, asiga u Burundi muri za radiyo z'isi yose.
 
 ## Shadow
 

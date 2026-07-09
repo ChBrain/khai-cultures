@@ -50,6 +50,7 @@ Sebuah negeri yang lahir di muara sungai dan tidak pernah putus tampuk rajanya: 
 - [Melayu Islam Beraja](position_melayu_islam_beraja.md)
 - [Darussalam](position_darussalam.md)
 - [Kampong Ayer](position_kampong_ayer.md)
+- [bahasa Melayu Brunei](position_language_ms_bn.md)
 
 **Pieces**
 

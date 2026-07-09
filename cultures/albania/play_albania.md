@@ -47,7 +47,7 @@ Një popull i lashtë me një gjuhë që nuk i ngjan asnjë gjuhe tjetër të gj
 
 **Positions**
 
-- [gjuha shqipe](position_gjuha_shqipe.md)
+- [gjuha shqipe](position_language_sq_al.md)
 - [besa](position_besa.md)
 - [shqiptaria](position_shqiptaria.md)
 
@@ -72,7 +72,7 @@ Në shekullin e pesëmbëdhjetë [Skënderbeu](persona_skenderbeu.md) i mban Osm
 
 **[Plot 2: Rilindja](plot_02_rilindja.md)**
 
-Në shekullin e nëntëmbëdhjetë [Naim Frashëri](persona_naim_frasheri.md) e ngre [gjuhën shqipe](position_gjuha_shqipe.md) në letërsi; alfabeti më 1908 dhe pavarësia më 1912 e zgjojnë kombin kundër Osmanit.
+Në shekullin e nëntëmbëdhjetë [Naim Frashëri](persona_naim_frasheri.md) e ngre [gjuhën shqipe](position_language_sq_al.md) në letërsi; alfabeti më 1908 dhe pavarësia më 1912 e zgjojnë kombin kundër Osmanit.
 
 **[Plot 3: Hoxha](plot_03_hoxha.md)**
 
@@ -80,8 +80,8 @@ Diktatura staliniste e mbyll Shqipërinë në izolim, ndalon fenë më 1967 dhe 
 
 **[Plot 4: Largimi](plot_04_largimi.md)**
 
-Pas rënies së komunizmit, varkat e vitit 1991 drejt Italisë dhe kaosi i vitit 1997 nxjerrin nga vendi një mërgatë të tërë; [Arditi](persona_ardit.md) ikën dhe [gjuha shqipe](position_gjuha_shqipe.md) shpërndahet me të.
+Pas rënies së komunizmit, varkat e vitit 1991 drejt Italisë dhe kaosi i vitit 1997 nxjerrin nga vendi një mërgatë të tërë; [Arditi](persona_ardit.md) ikën dhe [gjuha shqipe](position_language_sq_al.md) shpërndahet me të.
 
 ## Stakes
 
-Nëse një komb i vogël dhe i shpërndarë, që doli nga izolimi dhe kaosi, do të dijë të ngjitet në Evropë dhe në botë pa humbur rrënjët: të mbajë [gjuhën](position_gjuha_shqipe.md) e vetme në degën e vet, [besën](position_besa.md) e fjalës së dhënë dhe [shqiptarinë](position_shqiptaria.md) që e vë kombin mbi fe, të lidhë atdheun, Kosovën dhe mërgatën me gjuhë e jo me kufi, dhe ta kthejë mikpritjen e malit në besim qytetar.
+Nëse një komb i vogël dhe i shpërndarë, që doli nga izolimi dhe kaosi, do të dijë të ngjitet në Evropë dhe në botë pa humbur rrënjët: të mbajë [gjuhën](position_language_sq_al.md) e vetme në degën e vet, [besën](position_besa.md) e fjalës së dhënë dhe [shqiptarinë](position_shqiptaria.md) që e vë kombin mbi fe, të lidhë atdheun, Kosovën dhe mërgatën me gjuhë e jo me kufi, dhe ta kthejë mikpritjen e malit në besim qytetar.
