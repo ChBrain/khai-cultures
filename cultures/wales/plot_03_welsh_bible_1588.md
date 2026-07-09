@@ -22,16 +22,16 @@ stamp:
 
 ## Cue
 
-A century after Glyndwr, with the princes long gone and the gentry turning to English, [yr iaith](position_yr_iaith.md) is a tongue of the hearth with no standard and no future in print. The scholar William Morgan sets out to give Wales the whole of Scripture in its own language.
+A century after Glyndwr, with the princes long gone and the gentry turning to English, [yr iaith](position_language_cy.md) is a tongue of the hearth with no standard and no future in print. The scholar William Morgan sets out to give Wales the whole of Scripture in its own language.
 
 ## Action
 
-In 1588 Morgan's translation of [the Bible](piece_welsh_bible.md) into Welsh is published. It gives the language a single, dignified literary standard, sets Welsh in the pulpit and the home of every chapel-going family, and makes a literate, scripture-reading people. More than any army, this book saves [yr iaith](position_yr_iaith.md), and it lays the root from which Welsh Nonconformity and the chapel culture later grow.
+In 1588 Morgan's translation of [the Bible](piece_welsh_bible.md) into Welsh is published. It gives the language a single, dignified literary standard, sets Welsh in the pulpit and the home of every chapel-going family, and makes a literate, scripture-reading people. More than any army, this book saves [yr iaith](position_language_cy.md), and it lays the root from which Welsh Nonconformity and the chapel culture later grow.
 
 ## Stage
 
 - [the Welsh Bible](piece_welsh_bible.md): William Morgan's translation, the book that standardised the tongue.
-- [yr iaith](position_yr_iaith.md): the language saved, dignified, and given a literature.
+- [yr iaith](position_language_cy.md): the language saved, dignified, and given a literature.
 
 ## Tension
 

@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Lääkäri, kielimies ja runonkerääjä, joka näki kansan suussa elävässä runossa kokonaisen kadonneen maailman. Kärsivällinen ja sitkeä, hän vaelsi kaukaisiin kyliin kuuntelemaan laulajia ja kokosi heidän sanansa talteen. Hän [kirjoitti, luki ja ajatteli](process_writing_mother_tongue.md) äidinkielellään ja teki suomesta sivistyksen ja kansakunnan kielen, ei vain kansan puhetta. Sivistyneistön ruotsin [hän kantoi työkaluna](process_speaking_carried.md), mutta vaelsi kyliin [kuullakseen laulajien suomea](process_hearing_mother_tongue.md) ja kootakseen sen talteen: siinä on juopa, oppineet kirjoittivat ruotsiksi, mutta hän nosti kansan suussa elävän runon kirjaksi ja antoi suomelle sen oman kirjakielen.
+Lääkäri, kielimies ja runonkerääjä, joka näki kansan suussa elävässä runossa kokonaisen kadonneen maailman. Kärsivällinen ja sitkeä, hän vaelsi kaukaisiin kyliin kuuntelemaan laulajia ja kokosi heidän sanansa talteen. Hän [kirjoitti, luki ja ajatteli](process_writing_mother_tongue.md) äidinkielellään ja teki [suomesta](position_language_fi.md) sivistyksen ja kansakunnan kielen, ei vain kansan puhetta. Sivistyneistön ruotsin [hän kantoi työkaluna](process_speaking_carried.md), mutta vaelsi kyliin [kuullakseen laulajien suomea](process_hearing_mother_tongue.md) ja kootakseen sen talteen: siinä on juopa, oppineet kirjoittivat ruotsiksi, mutta hän nosti kansan suussa elävän runon kirjaksi ja antoi suomelle sen oman kirjakielen.
 
 ## Action
 

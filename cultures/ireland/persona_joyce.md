@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-The exile who made the coloniser's language his very own and turned the one single Dublin day into the century's novel. [He writes, reads, and thinks in](process_writing_mother_tongue.md) English and bends it as no one before him ever did, and the Italian, French, and German of his wandering life in Trieste, Zurich, and Paris he [wears as a vagabond's tools](process_speaking_worn.md). The Irish-language revival, sure, it leaves him cold. There's the gap: Ireland's greatest gift to the world is written in the very tongue it had lost its own to, and by a man that took the boat and never truly came home at all.
+The exile who made the coloniser's language his very own and turned the one single Dublin day into the century's novel. [He writes, reads, and thinks in](process_writing_mother_tongue.md) [English](position_language_en_ie.md) and bends it as no one before him ever did, and the Italian, French, and German of his wandering life in Trieste, Zurich, and Paris he [wears as a vagabond's tools](process_speaking_worn.md). The Irish-language revival, sure, it leaves him cold. There's the gap: Ireland's greatest gift to the world is written in the very tongue it had lost its own to, and by a man that took the boat and never truly came home at all.
 
 ## Action
 

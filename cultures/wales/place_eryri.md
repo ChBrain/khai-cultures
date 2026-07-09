@@ -31,7 +31,7 @@ The northern mountains, Eryri, called Snowdonia in English: high peaks, deep gle
 
 ## Offers
 
-The deep root of the nation: the seat of native rule, the stronghold of [yr iaith](position_yr_iaith.md), and the high, beautiful land that taught a people to hold out where it could not be easily reached.
+The deep root of the nation: the seat of native rule, the stronghold of [yr iaith](position_language_cy.md), and the high, beautiful land that taught a people to hold out where it could not be easily reached.
 
 ## Withheld
 

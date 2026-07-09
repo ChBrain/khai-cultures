@@ -50,6 +50,8 @@ A country built by joining rather than breaking: the British North American colo
 - [les deux peuples](position_les_deux_peuples.md)
 - [the mosaic](position_the_mosaic.md)
 - [peace, order, and good government](position_pogg.md)
+- [Canadian English](position_language_en_ca.md)
+- [le français québécois](position_language_fr_ca.md)
 
 **Pieces**
 

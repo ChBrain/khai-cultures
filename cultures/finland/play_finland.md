@@ -50,6 +50,8 @@ Pieni kansa idän ja lännen välissä, joka eli pitkään vieraan vallan alla, 
 - [sisu](position_sisu.md)
 - [tasa-arvo](position_tasa_arvo.md)
 - [jokamiehenoikeus](position_jokamiehenoikeus.md)
+- [suomen kieli](position_language_fi.md)
+- [finlandssvenskan](position_language_sv_fi.md)
 
 **Pieces**
 
