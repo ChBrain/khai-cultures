@@ -50,6 +50,7 @@ Une terre pauvre en pluie mais riche en tenue, ou l'on tient debout par la digni
 - [l'integrite](position_l_integrite.md)
 - [la chefferie mossi](position_la_chefferie.md)
 - [le cinema](position_le_cinema.md)
+- [le français burkinabè](position_language_fr_bf.md)
 
 **Pieces**
 

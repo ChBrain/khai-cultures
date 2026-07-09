@@ -50,6 +50,7 @@ stamp:
 - [مهمان‌نوازی](position_mehmannawazi.md)
 - [شعر و تصوف](position_sher_o_tasawwuf.md)
 - [کوه‌ها](position_kohha.md)
+- [فارسی دری](position_language_fa_af.md)
 
 **Pieces**
 
