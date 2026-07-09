@@ -139,6 +139,16 @@ heritage and context, not a default. The canon link-check fails a position no
 persona links and a link that resolves to no owned file, so both coverage and
 ownership are gates, not habits.
 
+**Dialects — codified once, by the dominant region.** A dialect with its own ISO
+639-3 code (Scots `sco`, Bavarian `bar`, Low German `nds`, Swiss German `gsw`, North
+Frisian `frr`, …) is owned by the **one** culture where it is dominant, filed bare at
+that code (`scotland/position_language_sco.md`). A persona who speaks it **off that
+region** references the owner cross-culture (Ulster-Scots in Northern Ireland links
+`../scotland/position_language_sco.md`); the standard national tongue spoken beside
+it stays the locale variety. So a dialect is a single owned position, not a per-culture
+copy — the same ownership rule as any other variety, resolved to whichever region
+holds it dominant.
+
 ## 3. Rollout
 
 - **Two passes (ordering is forced by the ownership rule).** A cross-culture
