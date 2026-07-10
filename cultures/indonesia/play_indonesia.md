@@ -51,6 +51,7 @@ Negeri yang tidak pernah satu sebelum dipersatukan oleh sebuah cita-cita: ribuan
 - [gotong royong](position_gotong_royong.md)
 - [Bhinneka Tunggal Ika](position_bhinneka.md)
 - [bahasa Indonesia](position_language_id.md)
+- [Basa Jawa](position_language_jv.md)
 
 **Pieces**
 
