@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El español como lengua común y oficial de un país africano, venido de fuera y quedado como herencia y como propio, el único caso de su clase en todo el continente. Por encima del bubi, del fang, del ndowé y del annobonés, ninguno de los cuales hablan todos, el castellano es la lengua en que se entienden los pueblos entre sí, se gobierna, se enseña y se escribe. Y es ya un español propio, con cadencia africana, sembrado de voces de las lenguas de la tierra y de algún giro del pichinglis, distinto del de España y del de América. En él se levantó la primera literatura de Guinea y en él se reconoce el país entero como uno solo.
+Lo mismo que reparte el español general, la concordancia de género y numero por todo el sintagma y el verbo que cierra persona, numero, tiempo, modo y aspecto en una sola desinencia, mas el prestamo vivo de las lenguas de la casa, el fang, el bubi y el ndowé, que le dan un lexico y una cadencia propios que no suenan en ningun otro castellano del mundo.
 
 ## Orders
 
-Que la nación se sostiene en una lengua compartida más que en una sangre o una lengua materna común, de modo que el bubi y el fang, el ndowé y el annobonés son igualmente guineanos en el castellano que los junta; que esa lengua heredada es patrimonio propio, no prestado, y se cuida como cosa de la casa; y que la tarea del país es hablar el español sin dejar callar las lenguas maternas que lo preceden.
+El genero y el numero concordados a la vez en el articulo, el sustantivo y el adjetivo de cada frase; el subjuntivo elegido cada vez que se duda o se desea; la eleccion entre ser y estar segun el rasgo sea permanente o pasajero; y el trato entre tu y usted decidido en cada dirigirse a otro. Y ordena, a quien crece entre dos lenguas, sostener a la vez el genero castellano, de solo dos clases, y el sistema de clases nominales del fang o del bubi, que marca con un prefijo distinto casi cada nombre.
 
 ## Loses
 
-Terreno cuando la lengua heredada se vuelve excusa para olvidar las maternas, hablada como única en vez de como puente, de modo que el bubi, el fang y el ndowé se callan a su sombra; y terreno, también, cuando se la siente ajena en vez de propia, lengua de fuera y no de la casa, y se le niega el cariño con que toda lengua se guarda y se hace durar.
+La correspondencia limpia entre los dos sistemas, porque el genero español, de dos clases nomas, no tiene con que traducir el prefijo de clase que el fang o el bubi reparten entre personas, animales, cosas alargadas y cosas liquidas; de modo que quien piensa solo en castellano deja de nombrar una distincion que su lengua de casa si hace sentir en cada palabra.
 
 ## Drives
 
-Es lengua propia de [Donato Ndongo-Bidyogo](persona_ndongo.md), que dio al país su primera narrativa en castellano y dejó oír bajo ella la cadencia fang, y de [María Nsué Angüe](persona_nsue.md), que pasó a la página española la voz oral del clan y la voz de la mujer. La canta y la lleva consigo por el golfo [Desmali](persona_desmali.md), que trenza en una misma copla la lengua heredada y las de la casa; la lleva consigo para el papel, el mercado y el trato con el de fuera [el cacaotero](persona_cacaotero.md), que tiene el bubi o el fang por lengua del poblado; y apenas la atrapó de oído, como lengua de los barcos que asomaban por el mar, el rey bubi [Moka](persona_moka.md), que reinó en su isla antes de que llegara nadie de fuera. Así la lengua heredada empuja a Guinea Ecuatorial a reconocerse en lo que heredó y a hacerlo del todo suyo, sin soltar las lenguas que la tierra ya hablaba, y deja ver quién la tiene por propia y a quién apenas le rozó el oído.
+Empuja a quien lo habla a cambiar de sistema de concordancia entera segun hable castellano o lengua de casa, y a cargar en la memoria dos gramaticas de acuerdo a la vez, cada una con su propia manera de repartir el mundo en clases. Le da al oido guineano su cadencia propia, y hace del español una lengua que aqui se piensa con el ritmo de otra.

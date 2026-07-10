@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Southern-edged coastal speech of the peninsula, the Floridian English that carries a relaxed southern cadence through the north and the Panhandle, thinning toward a neutral, transplant-shaped sound down the tourist coasts. It holds the voice of a state whose native drawl is forever mixing with the speech of everyone who arrives.
+What the tongue lets a speaker say plainly that many languages must mark by inflection: a fixed subject-verb-object order so flexible that word endings are barely needed, a large stock of phrasal verbs (settle in, look out, wear off) that let one small verb carry many senses, and a wide-open vocabulary built by borrowing freely from Spanish, French, and other tongues, so the coastal talk mixes lanai and key and hurricane into everyday speech without strain.
 
 ## Orders
 
-What counts here as how folks talk, the easy southern coastal register, where the same cadence serves the launch dashboard and the walking tour. It orders which sound reads as native Florida, the drawl of those born to the state against the flatter voice of the newcomers who now outnumber them.
+A single word, you, to cover every listener, friend or stranger, elder or child, so address never forces the formality choice many languages require; the marking of tense mostly through helping verbs and word order rather than endings; and, in this state's own stretch of it, the second-person plural, y'all, filling a gap the general standard otherwise leaves unmarked.
 
 ## Loses
 
-Ground to General American and to the neutral speech of the retirees and transplants who flood the coasts, thinning the native drawl, and to the Spanish of Miami and the Caribbean communities, which holds its own large body of speakers. It loses too to the technical register of the Space Coast.
+A grammatical way to tell one listener from many without reaching for y'all or you all; a marker of social distance, since the same you serves the boss and the cousin alike; and the vowel distinctions the drawl itself erodes, pin and pen folding into one sound, so a listener from elsewhere must lean on context the accent no longer supplies.
 
 ## Drives
 
-It carries the state's habit of sounding easy, warm, and open. It gives [Jackson](persona_jackson.md) the relaxed southern English of Cocoa Beach, the mother tongue he speaks and thinks in, and it is the English that [Mateo](persona_mateo.md) carries as a worn overgarment for his tours, a borrowed coast over his native Spanish, never his own first tongue. So the one coast sound shows both who speaks it as home and who wears it over another.
+Speaking it trains an ear for word order over word ending, since so much meaning rides on where a word sits in the sentence rather than how it is shaped. It leaves the speaker free of any daily reckoning of social rank in address, one word doing for everyone. And the coastal drawl, stretching some vowels and softening others, teaches an unhurried pace of speech to whoever grows up inside it, a rhythm the many who arrive speaking something else must learn to hear before they can answer in kind.

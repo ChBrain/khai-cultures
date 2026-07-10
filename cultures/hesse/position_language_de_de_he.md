@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des hessischen Hochdeutsch, wie es im Zentrum des Landes gesprochen und geschrieben wird, zwischen der Apfelweinstube und dem Handelsparkett. Es hält jenen warmen, geselligen Klang der Mitte, der die Mundart nie ganz ablegt und doch die Schrift der Verfassung und des Kontrakts trägt: das Deutsch, in dem am langen Tisch alle gleich sind und der Handschlag gilt.
+Was das hessische Hochdeutsch eigen mitbringt: die Rückfrage-Partikel "gell?", die an jede Aussage angehängt werden kann, um Zustimmung einzuholen, ohne den Satz noch einmal umzubauen, wie es ein reines "nicht wahr?" schwerfälliger täte. Aus dem Dialekt trägt es die weich gesprochenen Verschlusslaute und die stark reduzierten Endsilben mit, "hawwe" statt "haben", ein Klangbild, das dem geschriebenen Hochdeutsch selbst dann noch anzuhören ist, wenn die Wortform korrekt bleibt.
 
 ## Orders
 
-Was in Hessen als gutes Hochdeutsch zählt, vom herzlichen, breiten Ton der Gaststube bis zum nüchternen Register des Frankfurter Geschäfts. Es ordnet, wie man hier grüsst, feilscht und diskutiert, und hält die Diskussionskultur der langen Tische ebenso wie die geprüfte Sprache der Bank und der Börse.
+Es verlangt, wie jedes Hochdeutsch, Geschlecht und Fall bei jedem Satzglied und das zurückgehaltene Verb im Nebensatz. Der mittelhessische Dialekt darunter jedoch verschleift Dativ und Akkusativ im Alltag oft zu einer Form, "ich hab's ihm gesacht" statt sauber getrennter Fälle, sodass die geschriebene Norm ihre vier Fälle gegen einen Sprachgebrauch behaupten muss, der sie im Munde längst zu dreien verschmilzt. Das Hochdeutsch der Bank und der Börse in Frankfurt ordnet dagegen wieder die strikte Zweiteilung von Dativ und Akkusativ an, sobald der Vertrag es verlangt.
 
 ## Loses
 
-Boden an den kräftigen hessischen Dialekt, das Ebbelwoi-Hessisch der Sachsenhäuser Wirtschaften, das im Mund weiterlebt, was der Standard glättet. Es verliert auch an das Englisch des Bankenviertels und der Europäischen Zentralbank, das im Rhein-Main-Gebiet den Ton angibt, und an das norddeutsche Hochdeutsch, das dem geschulten Ohr als das "reinere" gilt.
+Es verliert die Schärfe der Falltrennung an den eigenen Dialekt, der im Rhein-Main-Gebiet Dativ und Akkusativ mundartlich zusammenfallen lässt, ein Zug, den mehrere mitteldeutsche Dialekte teilen und der die vier Fälle des Hochdeutschen im gesprochenen Alltag auf drei schrumpfen lässt. Es verliert auch die verkürzten, weich verschliffenen Verbformen des Dialekts, sobald der Satz auf das Papier oder ins Protokoll der Bank wandert, und mit ihnen einen guten Teil der Vertrautheit, die "gell?" mühelos herstellt.
 
 ## Drives
 
-Es treibt das Land, im vertrauten Wort seine Geselligkeit und im geraden Wort seinen Handel zu führen. Es trägt das stark vom Dialekt gefärbte Deutsch des Apfelweinwirts [Heinz](persona_heinz.md), die vertraute Stimme der Gaststube, und das klare, um Englisch ergänzte Hochdeutsch der Finanzanalystin [Steffi](persona_steffi.md), das die Zahlenströme in Worte fasst. So zeigt die eine Landesform, wie Herkunft und Beruf denselben Standard verschieden klingen lassen.
+Es treibt dazu, ständig zwischen dem im Alltag gelockerten Fallsystem und der im Schriftbild verlangten strengen Vierteilung umzuschalten, ein doppeltes Bewusstsein für den Fall, das man sich im Rhein-Main-Gebiet zwischen Wirtshaus und Kontor eigens angewöhnt. Und die Partikel "gell?" gewöhnt daran, jede Behauptung mit einer kleinen, eingebauten Bitte um Zustimmung zu schliessen, sodass das Sprechen selbst zur ständigen Rückversicherung beim Gegenüber wird.

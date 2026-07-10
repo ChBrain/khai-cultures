@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A magyar nyelv, finnugor eredetű beszéd, amely egyetlen szomszédjával sem rokon: szlávok és németek tengerében áll, és aki magyarul szólal meg, azt a határon túl senki nem érti rokon szóval. Ezer éve hozta a nép a Kárpát-medencébe, és a reformkorban Széchenyi és a nyelvújítók emelték a latin és a német mellől az állam és a tudomány nyelvévé. Mikor a nemzetnek nem volt biztos sorsa, a nyelve volt a hazája.
+A magyar nyelv ragasztó (agglutináló) nyelv: egyetlen szótőhöz sorban illeszthető toldalékok fejeznek ki olyat, amit más nyelvek külön szóval, elöljáróval mondanak, úgyhogy egyetlen szóalak (házamban, barátaimtól) egész mondatrészt hordoz. Mintegy tizennyolc esetragja van a hat-hét eset helyett, amit a legtöbb rokon európai nyelv ismer, ezért elöljárószó szinte nem is kell: a rag maga mondja meg, hová, honnan, kivel, miért. Nincs benne nyelvtani nem, egyetlen "ő" jelöl férfit és nőt egyaránt.
 
 ## Orders
 
-Hogy magyarul beszélünk és írunk ott is, ahol a latin, a német vagy ma az angol kínálkozik, hogy a nyelvet úgy ápoljuk és adjuk tovább, mint az egyetlen rokontalan kincset, és hogy a nemzetet a nyelv és nem a határ szerint ismerjük meg, mert a magyart a szava tartja össze.
+Megköveteli, hogy minden toldalék magánhangzója igazodjon a szótő hangrendjéhez (mély, magas, vegyes), a magánhangzó harmónia törvénye szerint, s ez a szóalkotás minden lépésén végigvonul. Megköveteli, hogy az ige alakja aszerint is változzon, van e határozott tárgya vagy nincs (a tárgyas és alanyi ragozás közötti választás), és hogy az igekötő (be, ki, meg, el) helye és jelenléte jelezze, a cselekvés befejezett e vagy folyamatban van. Minden névszóhoz esetrag járul, amely egyedül dönti el mondatbeli szerepét.
 
 ## Loses
 
-Talajt veszít ma a világ angolja előtt, amelyben a fiatalok dolgoznak és élnek online, és a kivándorlásban, amely a magyar szót generációról generációra elvékonyítja az idegenben; és nincs rokon nyelv, amely fölfogná, ha gyengül, mert a magyar minden határon egyedül marad.
+Nincs benne nyelvtani nem, ezért elveszíti azt a finomságot, amit a nemeket jelölő nyelvek egyetlen névmással is kifejeznek; az "ő" nem árulja el, férfiról vagy nőről van e szó, és fordításkor ez a különbség csak körülírással pótolható. Igeidőben szegényebb, csak jelen, múlt és jövő időt különböztet meg élesen, az árnyalatot (előidejűség, tartósság) igekötő és határozószó pótolja, nem külön igealak. Rokontalansága miatt a szomszéd nyelvekből átvett szó is a magyar hangrendhez és toldalékrendszerhez kell hogy idomuljon, mielőtt otthonossá válik.
 
 ## Drives
 
-Él [Széchenyiben](persona_szechenyi.md), aki a nyelvet a latin és a német mellől az ország nyelvévé emelte, [Petőfiben](persona_petofi.md), aki a rokontalan nyelv egyik legtisztább hangja lett, és [Nagy Imrében](persona_nagy_imre.md), aki magyarul mondta ki a szabadságot, amiért az életével fizetett. Él [Erzsiben](persona_erzsi.md), akinek a magyar az egyetlen és teljes szava, rokontalanul, és [Bencében](persona_bence.md), akinek a határon túl is az anyanyelve marad a hazája. Hajtja Magyarországot, hogy a rokontalan nyelvét úgy őrizze, mint a bizonyságot, hogy a nemzet a magáé, bármi essék is a határaival.
+Arra szoktatja a benne gondolkodót, hogy a mondat magvát toldalékok láncával építse tovább, ne elöljáróval vagy külön szóval, és hogy a magánhangzó harmóniát ösztönösen kövesse minden új szóalak alkotásakor. Arra neveli, hogy az igekötő helyzetét és a tárgyas ragozást állandóan figyelje, mert ezek mondják meg, mi fejeződött be és mi tart még. Így aki magyarul nő fel, a mondatot ragok egymásutánjából építi, nemet nem különböztet szóban, és a cselekvés kimenetelét apró igekötőn méri le.
