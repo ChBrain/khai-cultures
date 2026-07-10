@@ -50,6 +50,7 @@ stamp:
 - [ሓቦን ጽንዓትን](position_self_reliance.md)
 - [ትሽዓተ ብሄር](position_nine_nationalities.md)
 - [ክልተ እምነት](position_two_faiths.md)
+- [ትግርኛ](position_language_ti.md)
 
 **Pieces**
 

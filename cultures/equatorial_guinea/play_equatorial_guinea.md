@@ -47,7 +47,7 @@ Un país que no es de una sola pieza ni de un solo pueblo, sino de muchos juntad
 
 **Positions**
 
-- [la lengua heredada](position_la_lengua_heredada.md)
+- [la lengua heredada](position_language_es_gq.md)
 - [los pueblos](position_los_pueblos.md)
 - [el Atlántico](position_el_atlantico.md)
 
@@ -72,7 +72,7 @@ Mucho antes de que llegara nadie de lejos, los bubi labran sus poblados en [Biok
 
 **[Plot 2: la llegada de los europeos](plot_02_la_llegada.md)**
 
-Los barcos de Europa tocan la isla y las islas del golfo; Annobón guarda su criollo, [Malabo](place_malabo.md) crece como puerto, y con el tiempo el español se asienta como [la lengua heredada](position_la_lengua_heredada.md) que quedará por encima de todas las maternas.
+Los barcos de Europa tocan la isla y las islas del golfo; Annobón guarda su criollo, [Malabo](place_malabo.md) crece como puerto, y con el tiempo el español se asienta como [la lengua heredada](position_language_es_gq.md) que quedará por encima de todas las maternas.
 
 **[Plot 3: el cacao y el bosque](plot_03_el_cacao.md)**
 
@@ -80,7 +80,7 @@ Bajo el bosque ecuatorial de [Río Muni](place_rio_muni.md) y en las fincas de B
 
 **[Plot 4: la nación](plot_04_la_nacion.md)**
 
-La tierra se reconoce a sí misma como una sola nación; en [Malabo](place_malabo.md), escritores como [Donato Ndongo-Bidyogo](persona_ndongo.md) y [María Nsué Angüe](persona_nsue.md) levantan la primera literatura africana en castellano sobre [la lengua heredada](position_la_lengua_heredada.md).
+La tierra se reconoce a sí misma como una sola nación; en [Malabo](place_malabo.md), escritores como [Donato Ndongo-Bidyogo](persona_ndongo.md) y [María Nsué Angüe](persona_nsue.md) levantan la primera literatura africana en castellano sobre [la lengua heredada](position_language_es_gq.md).
 
 ## Stakes
 

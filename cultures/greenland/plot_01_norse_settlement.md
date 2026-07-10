@@ -29,7 +29,7 @@ Norse-it ukiuni hundredelikkaani nuna najorpaat, narsaatilerillutik oqaluffilior
 
 ## Stage
 
-- [Kalaallisut](position_greenlandic.md): nunaqartut oqaatsillu piniarnerat.
+- [Kalaallisut](position_language_kl.md): nunaqartut oqaatsillu piniarnerat.
 - [tupilak](piece_tupilak.md): illersuutitut atortutut.
 
 ## Tension

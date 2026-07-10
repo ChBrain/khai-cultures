@@ -50,6 +50,7 @@ Una tierra de muchas tierras mucho antes de ser una sola nación. Los muiscas tr
 - [el realismo mágico](position_el_realismo_magico.md)
 - [la alegría resiliente](position_la_alegria_resiliente.md)
 - [el camino a la paz](position_el_camino_a_la_paz.md)
+- [el español colombiano](position_language_es_co.md)
 
 **Pieces**
 

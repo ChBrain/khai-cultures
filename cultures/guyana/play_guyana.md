@@ -50,6 +50,7 @@ A land that was first the home of indigenous peoples along its rivers, then a Du
 - [the plural society](position_the_plural_society.md)
 - [the plantation legacy](position_the_plantation_legacy.md)
 - [the Land of Many Waters](position_the_land_of_many_waters.md)
+- [Guyanese English](position_language_en_gy.md)
 
 **Pieces**
 

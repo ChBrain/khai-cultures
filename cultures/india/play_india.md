@@ -50,6 +50,7 @@ stamp:
 - [धर्म](position_dharma.md)
 - [अनेकता में एकता](position_anekta.md)
 - [अहिंसा](position_ahimsa.md)
+- [हिन्दी](position_language_hi.md)
 
 **Pieces**
 

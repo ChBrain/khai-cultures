@@ -50,6 +50,7 @@ Una nación que es ante todo el corazón del mundo maya: aquí se alzó Tikal en
 - [el mundo maya](position_el_mundo_maya.md)
 - [el país de los pueblos](position_el_pais_de_los_pueblos.md)
 - [la herida y la palabra](position_la_herida_y_la_palabra.md)
+- [el castellano guatemalteco](position_language_es_gt.md)
 
 **Pieces**
 

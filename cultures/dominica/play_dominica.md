@@ -50,6 +50,7 @@ An island so wild and so steep that the empires could not easily take it: the mo
 - [the Nature Isle](position_the_nature_isle.md)
 - [Neg Mawon](position_neg_mawon.md)
 - [the Creole nation's voice](position_the_creole_nations_voice.md)
+- [Dominican English](position_language_en_dm.md)
 
 **Pieces**
 

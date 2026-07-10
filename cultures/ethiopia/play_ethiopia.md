@@ -50,6 +50,7 @@ stamp:
 - [እምነት](position_emnet.md)
 - [ነፃነት](position_netsanet.md)
 - [ብዝሃነት](position_bizuhinet.md)
+- [አማርኛ](position_language_am.md)
 
 **Pieces**
 

@@ -50,6 +50,7 @@ Vois un pays petit sur la carte mais grand de ce qu'il porte. Son sol est le vie
 - [la parole du jeli](position_la_parole_du_jeli.md)
 - [la science du Fouta](position_la_science_du_fouta.md)
 - [le chateau d'eau](position_le_chateau_deau.md)
+- [le français de Guinée](position_language_fr_gn.md)
 
 **Pieces**
 

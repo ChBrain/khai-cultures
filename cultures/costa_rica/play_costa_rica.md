@@ -50,6 +50,7 @@ Un rincón pobre y olvidado de la colonia, sin oro fácil ni grandes señorios, 
 - [la patria sin ejercito](position_la_patria_sin_ejercito.md)
 - [la democracia del labriego](position_la_democracia_del_labriego.md)
 - [la soberania](position_la_soberania.md)
+- [el español costarricense](position_language_es_cr.md)
 
 **Pieces**
 

@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-09"
 ---
 
 # Position: la lengua heredada
@@ -34,4 +34,4 @@ Terreno cuando la lengua heredada se vuelve excusa para olvidar las maternas, ha
 
 ## Drives
 
-Vive en [Donato Ndongo-Bidyogo](persona_ndongo.md), que dio al país su primera narrativa en castellano y dejó oír bajo ella la cadencia fang, y en [María Nsué Angüe](persona_nsue.md), que pasó a la página española la voz oral del clan y la voz de la mujer. Empuja a Guinea Ecuatorial a reconocerse en la lengua que heredó y a hacerla del todo suya, sin soltar las que la tierra ya hablaba.
+Es lengua propia de [Donato Ndongo-Bidyogo](persona_ndongo.md), que dio al país su primera narrativa en castellano y dejó oír bajo ella la cadencia fang, y de [María Nsué Angüe](persona_nsue.md), que pasó a la página española la voz oral del clan y la voz de la mujer. La canta y la lleva consigo por el golfo [Desmali](persona_desmali.md), que trenza en una misma copla la lengua heredada y las de la casa; la lleva consigo para el papel, el mercado y el trato con el de fuera [el cacaotero](persona_cacaotero.md), que tiene el bubi o el fang por lengua del poblado; y apenas la atrapó de oído, como lengua de los barcos que asomaban por el mar, el rey bubi [Moka](persona_moka.md), que reinó en su isla antes de que llegara nadie de fuera. Así la lengua heredada empuja a Guinea Ecuatorial a reconocerse en lo que heredó y a hacerlo del todo suyo, sin soltar las lenguas que la tierra ya hablaba, y deja ver quién la tiene por propia y a quién apenas le rozó el oído.
