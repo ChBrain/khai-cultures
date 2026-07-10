@@ -46,7 +46,6 @@ Eine stolze Hansestadt, die seit Jahrhunderten ihre Unabhängigkeit verteidigt, 
 - [die Hanse](position_hanse.md)
 - [der Bürgerstolz](position_buergerstolz.md)
 - [der maritime Handel](position_maritim.md)
-- [das bremische Hochdeutsch](position_language_de_de_hb.md)
 
 **Pieces**
 

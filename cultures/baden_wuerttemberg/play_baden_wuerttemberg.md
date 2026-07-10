@@ -46,7 +46,6 @@ Ein Zusammenschluss stolzer historischer Territorien, die nach einer Volksabstim
 - [das Schaffen](position_schaffen.md)
 - [das Tüfteln](position_tuefteln.md)
 - [die Heimat](position_heimat.md)
-- [das baden-württembergische Hochdeutsch](position_language_de_de_bw.md)
 
 **Pieces**
 
