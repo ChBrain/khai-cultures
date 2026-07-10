@@ -34,4 +34,4 @@ Su equilibrio cuando la centralización judicial del Estado reduce las horas lec
 
 ## Drives
 
-Guía el desarrollo normativo en el relato [El Estatuto de Sau 1979](plot_03_statute.md) y orienta la presidencia agrícola de [Montserrat](persona_montserrat.md).
+Guía el desarrollo normativo en el relato [El Estatuto de Sau 1979](plot_03_statute.md) y orienta la presidencia de la cooperativa agrícola, el liderazgo que organiza a los payeses bajo el autogobierno comarcal.

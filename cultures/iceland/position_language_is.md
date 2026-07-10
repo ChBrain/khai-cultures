@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Íslenskan, hin forna norræna tunga sem hélst svo lítt breytt á afskekktri eyju að þjóðin les enn fornsögurnar á frummálinu, átta öldum eftir að [Snorri](persona_snorri.md) festi þær á bók. Hún er móðurmál nær allra á eynni og eina tunga heimilis, þings og skóla, tungan sem þjóðin hélt lifandi þótt hún glataði sjálfstæðinu og lægi öldum saman undir dönskum konungi. Þegar ekkert fullveldi var, var málið og sögurnar heimili þjóðarinnar.
+Íslenska varðveitir hið forna norræna beygingakerfi, fjögur föll (nefnifall, þolfall, þágufall, eignarfall) sem nafnorð, lýsingarorð og fornöfn taka á sig eftir hlutverki í setningu, nær óbreytt frá því sem var fyrir átta öldum. Hún myndar ný orð úr eigin rót í stað þess að taka tökuorð að láni, svo að "tölva", "sími" og "þyrla" eru samsett úr fornum orðum en ekki fengin úr erlendu máli. Þannig heldur hún orðaforða sem nær samfellt aftur til fornsagnanna og gerir nútímalesanda kleift að lesa þær nánast án orðabókar.
 
 ## Orders
 
-Að talað sé og ritað á íslensku á öllum sviðum, að nýir hlutir séu mættir með nýyrðum úr eigin stofni í stað tökuorða, og að tungunni sé haldið hreinni og lifandi, svo að nútímamaður tali sömu tungu og handritin geyma. Hún býður að þjóðin þekki sig af málinu og sögunum, ekki af stærð né valdi.
+Krefst þess að hvert nafnorð taki eitt af fjórum föllum eftir hlutverki sínu í setningunni, og að lýsingarorð og greinir fylgi því í kyni, tölu og falli. Krefst þess að sagnir beygist sterkt eða veikt, með rótarbreytingu (grípa, greip) fremur en viðskeyti einu saman, og að nýtt hugtak, komi það erlendis frá, fái íslenska rót og beygingu áður en það telst samþykkt orð, ekki hljóðlíkingu að láni.
 
 ## Loses
 
-Land dag frá degi fyrir ensku heimsins, sem streymir inn á skjá, í tækni og í munn unga fólksins, svo að staða hennar er ævinlega varin en aldrei sjálfsögð. Stafræn þjónusta á íslensku er af skornum skammti, og fámenn þjóð verður að rækta tungu sína meðvitað til að hún víki ekki hljóðlaust fyrir enskunni.
+Á það til að dragast aftur úr í fljótfengnum tökuorðum fyrir nýjustu tækni og alþjóðahugtök, því að nýyrðasmíð tekur tíma sem enskan ekki bíður eftir, og stafrænt mál á íslensku er af skornum skammti miðað við ensku sem streymir óhindrað. Mállýskumunur er líka lítill sem enginn milli landshluta, ólíkt mörgum eldri Evrópumálum, svo að þessi eining kostar tungumálið þá fjölbreytni sem héraðsbundið tal annars staðar geymir.
 
 ## Drives
 
-Hún lifir í [Snorra](persona_snorri.md), sem lagði arf heillar menningar í móðurmálið og bjargaði því á bók, í [Jóni Sigurðssyni](persona_jon_sigurdsson.md), sem gerði móðurmálið að vopni í sjálfstæðisbaráttunni og barðist fyrir rétti þjóðarinnar til eigin tungu, í [Guðrúnu](persona_gudrun.md), sem talar málið hreint og blátt áfram og tekur allt sem máli skiptir heilt á sinni tungu, og í [Birnu](persona_birna.md), sem ber móðurmálið og enskuna hlið við hlið og finnur íslenskuna víkja hægt fyrir enskunni á skjá. Hún knýr Ísland til að rækta hina fornu, lifandi tungu sem sönnun þess að fámenn þjóð geti staðið af sér hvað sem er, ef hún heldur máli sínu.
+Elur upp í þeim sem talar hana og hugsar á henni þá árvekni að hlusta eftir rót orðsins frekar en að taka erlent hljóð upp beint, því að nýtt fyrirbæri fær alltaf fyrst íslenskan búning. Vanur er hann að fylgja falli orðsins gegnum alla setninguna, ekki bara stöðu þess, og að lesa samtímis nútímamál og fornmál án þess að finna glufu á milli, af því að tungan sjálf hefur breyst svo lítið. Þannig heldur hún þeim sem hana ber í stöðugu sambandi við forna texta og knýr hann til að finna heimaslóð fyrir hvert nýtt hugtak fremur en að flytja það inn óbreytt.

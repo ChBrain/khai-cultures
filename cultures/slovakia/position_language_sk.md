@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Slovenčina, reč, ktorá tisíc rokov žila len v ústach ľudu pod uhorskými pánmi, bez vlastného písma a štátu, kým ju vzdelanci nepovýšili na spisovný jazyk: Štúr ju roku 1843 kodifikoval zo stredoslovenských nárečí. Vzápätí na ňu doľahlo pomaďarčovanie, ktoré ju vytláčalo zo škôl a úradov. Keď národ nemal štát, jeho rečou bola pieseň, kostol a slovo z domu.
+Slovenčina drží šesť pádov, ktoré menia koncovku každého podstatného mena, prídavného mena i zámena podľa jeho úlohy vo vete, a preto môže poradie slov v nej voľne plávať bez straty zmyslu. Má dvojice slovies, dokonavé a nedokonavé (robiť/urobiť, písať/napísať), ktorými presne rozlišuje dokončený dej od deja, čo ešte trvá, a bohatstvo zdrobnenín (mama, mamička, mamulienka), ktorými do jediného slova vloží stupeň nežnosti, aký iná reč potrebuje na celú vetu.
 
 ## Orders
 
-Že sa hovorí a píše po slovensky aj tam, kde panovala maďarčina či nemčina, že sa reč pestuje a odovzdáva ako neskoro vydobytá vec, a že sa národ pozná podľa jazyka a piesne, nie podľa štátu, ktorý dostal až napokon.
+Každé podstatné meno musí niesť pád a rod, mužský, ženský či stredný, a hovoriaci nemôže vysloviť vetu bez toho, aby si vybral, ktorý z nich sa hodí; každé sloveso zas núti najprv rozhodnúť, či dej vidí ako dokončený celok, alebo ako trvajúci priebeh, skôr než padne prvé slovo. Reč nepozná člen, ako ho pozná nemčina či angličtina, a tak sa určitosť či neurčitosť musí niesť poradím slov a kontextom, nie osobitným slovkom pred menom.
 
 ## Loses
 
-Pôdu stráca dnes voči angličtine otvoreného sveta, v ktorej mladí pracujú a žijú online, a voči blízkej češtine, ktorej Slovák rozumie bez učenia a ktorá malú reč ticho pohlcuje; slovenčina vysťahovalcov sa vo svete tenčí z pokolenia na pokolenie.
+Bez člena stráca prostriedok, ktorým iné jazyky jedným slovkom rozlíšia to isté od hocijakého, a musí to isté niesť ťažkopádnejšie, cez slovosled či prídavné zámeno. Blízkosť k češtine, ktorej Slovák rozumie bez učenia, rozpúšťa jemné rozdiely medzi oboma rečami v bežnej reči, keď hovoriaci siahne po českom slove bez toho, aby si to všimol, a pádový systém, hoci umožňuje voľný slovosled, sťažuje krátke, úderné vety, aké si žiada titulok či heslo.
 
 ## Drives
 
-Žije v [Štúrovi](persona_stur.md), ktorý reči dal písmo a národu hlas, v [Jánošíkovi](persona_janosik.md), ktorý žil rečou bez písma a stal sa jej piesňou, a v [Dubčekovi](persona_dubcek.md), ktorý po slovensky prosil o ľudskú tvár. Žije aj v [Anne](persona_anna.md), ktorá si reč a vieru udržala celú, a v [Marekovi](persona_marek.md), ktorého slovenčina sa stráca medzi angličtinou práce a češtinou, ktorej rozumie ako svojej. Ženie Slovensko, aby sa držalo neskoro vydobytej reči ako dôkazu, že národ je svoj, aj keď štát dostal naposledy.
+Núti hovoriaceho premyslieť dej ešte pred slovesom, dokončený, alebo trvajúci, a tak vsúva do myslenia zvyk triediť čas činu skôr, než čin vôbec vysloví. Zvyká ucho počúvať pád na konci slova, nie miesto slova vo vete, a tak dovoľuje meniť dôraz voľným premiestňovaním, čo v reči bez pádov nejde; a zdrobneniny mu dávajú návyk voliť stupeň nežnosti pri každom oslovení, skôr ako mu iná reč vôbec dá na výber.

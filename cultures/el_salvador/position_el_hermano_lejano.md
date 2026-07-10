@@ -34,4 +34,4 @@ Terreno cuando el hermano lejano se reduce a una cifra de remesas: cuando se cue
 
 ## Drives
 
-La vive [el hermano lejano](persona_el_hermano_lejano.md), el migrante que se partió la vida en dos para sostener a los suyos desde la distancia. Empuja a El Salvador a pensarse como una sola patria de las dos orillas, y a no contar a sus hijos lejanos solo por lo que mandan.
+La vive el migrante que se partió la vida en dos para sostener a los suyos desde la distancia. Empuja a El Salvador a pensarse como una sola patria de las dos orillas, y a no contar a sus hijos lejanos solo por lo que mandan.

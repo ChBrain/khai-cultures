@@ -34,4 +34,4 @@ Its credibility when economic focus creates extreme wealth gaps, gentrifying nei
 
 ## Drives
 
-Fuels the financial systems in the plot [The Wall Street Crash 1929](plot_03_wall_street_crash_1929.md) and drives the high-paced work of analyst [Tony](persona_tony.md).
+Fuels the financial systems in the plot [The Wall Street Crash 1929](plot_03_wall_street_crash_1929.md) and drives the high-paced work of the financial analyst.

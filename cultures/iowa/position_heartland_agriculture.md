@@ -34,4 +34,4 @@ Its balance when industrial farm consolidation buys out family property, weakeni
 
 ## Drives
 
-Guides the agricultural planning in the plot [The Iowa State Fair Inauguration 1854](plot_02_iowa_state_fair.md) and drives the breeding work of [George](persona_george_ia.md).
+Guides the agricultural planning in the plot [The Iowa State Fair Inauguration 1854](plot_02_iowa_state_fair.md) and drives the breeding work of the farmers who carry it forward.

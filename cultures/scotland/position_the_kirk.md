@@ -34,4 +34,4 @@ Ground where the rigour hardens into a narrow, joyless severity that polices ple
 
 ## Drives
 
-It is carried by [Robert Burns](persona_burns.md), who lampoons the unco guid while loving the levelling, lettered faith that schooled him, and it springs from the [Reformation 1560](plot_02_reformation_1560.md).
+It is carried by the poet who lampoons the unco guid while loving the levelling, lettered faith that schooled him, and it springs from the [Reformation 1560](plot_02_reformation_1560.md).

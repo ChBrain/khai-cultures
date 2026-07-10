@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Lugha moja inayowafunga zaidi ya makabila mia moja na ishirini katika taifa moja, lugha iliyozaliwa pwani katika kuchanganyika kwa Mwafrika, Mwarabu na Mhindi, kisha ikaenea bara kupitia biashara hadi ikawa lugha ya taifa. Tofauti na mataifa mengi ya Afrika yaliyobaki na lugha za wakoloni, Tanzania ilichagua lugha yake yenyewe ya Kiafrika kuwa lugha ya umoja, ya elimu, ya bunge na ya mtaani. Ni lugha isiyo na kabila moja linaloweza kuidai kuwa yake peke yake, na ndio sababu yawafunga wote sawa: hakuna anayehisi kama mgeni anaposema lugha ya taifa.
+Kiswahili ni lugha ya Kibantu yenye mfumo wa ngeli za nomino, zaidi ya kumi na tano, ambazo huamua kiambishi kinachorudiwa kwenye kivumishi, kitenzi na kiwakilishi vyote vinavyorejea nomino ile ile. Kitenzi chake huunganisha viambishi vingi katika neno moja, kiambishi cha nafsi, cha wakati, mara nyingine cha kitondo, mzizi wa maana, na kiambishi tamati kama sababu (-isha), hali ya kutendwa (-wa) au ya kutendeana (-ana), yote katika neno moja tu. Tofauti na lugha nyingi za Kibantu jirani, Kiswahili halina toni ya kupambanua maana, mkazo wake huanguka kwa kawaida kwenye silabi ya pili kutoka mwisho.
 
 ## Orders
 
-Kwamba taifa hufungwa na lugha anayoweza kuijifunza yeyote, si kwa ukoo, hivyo mtu wa kabila lolote ni Mtanzania kamili anapozungumza Kiswahili; kwamba lugha ni chombo cha usawa kinachowaweka wakulima na maprofesa chini ya maneno yaleyale; na kwamba kazi ya taifa ni kukuza Kiswahili kuwa lugha ya Afrika nzima na ya dunia, kama Shaaban Robert alivyoonyesha kuwa chaweza kubeba mawazo makubwa kama lugha yoyote.
+Huamuru kiambishi cha ngeli ya nomino kirudiwe kila mahali kivumishi au kitenzi kinaporejea nomino hiyo, hivyo ngeli moja hufuatana katika sentensi nzima bila kukosea; huamuru kitenzi kubeba nafsi, wakati na wakati mwingine kitondo vyote ndani ya neno moja, badala ya maneno mengi tofauti; na huamuru viambishi tamati vya kitenzi, sababu, kutendwa, kutendeana, kutendea, kubadilisha maana ya mzizi mmoja bila kuunda neno geni.
 
 ## Loses
 
-Hupoteza nguvu pale lugha za makabila zinapofifia kabisa badala ya kuishi pamoja na Kiswahili, urithi wa mababu ukipotea si kwa nguvu bali kwa mvuto wa kuelewana; na hupoteza pia pale Kiingereza kinapopewa heshima zaidi katika elimu ya juu na biashara, Kiswahili kikishushwa kuwa lugha ya mtaani tu badala ya lugha ya maarifa yote.
+Hukosa toni ya kupambanua maneno ambayo lugha nyingi za Kibantu jirani hutegemea, hivyo baadhi ya tofauti za maana zinazobebwa na mwinuko wa sauti katika lugha hizo hupotea kabisa katika Kiswahili sanifu. Maneno mengi ya asili yamesukumwa pembeni na mkopo wa Kiarabu katika dini, biashara na kuhesabu wakati, hivyo mzizi wa awali wa Kibantu haupo tena kwa dhana nyingi za kila siku.
 
 ## Drives
 
-Huishi ndani ya [Shaaban Robert](persona_shaaban_robert.md), aliyeinua Kiswahili kuwa lugha ya fasihi ya hali ya juu, na ndani ya [Julius Nyerere](persona_nyerere.md), aliyeichagua kuwa lugha ya taifa moja badala ya kabila. Huishi ndani ya [Bi Kidude](persona_bi_kidude.md), aliyeimba Kiswahili cha pwani chenye mafumbo na methali, na ndani ya [Filbert Bayi](persona_bayi.md), aliyekibeba kama fahari ya taifa changa duniani. Na huishi ndani ya [Konda wa dala dala](persona_konda.md), anayewafunga watu wa kila kabila katika lugha moja kila siku mjini. Huiendesha Tanzania kuendelea kujipima kwa ahadi kuwa lugha moja yaweza kuwafanya wengi kuwa mmoja, na kukuza lugha hii zaidi ya mipaka ya taifa.
+Kusema na kufikiri kwa Kiswahili humzoeza mtu kufuatilia ngeli ya nomino katika sentensi nzima, kila kivumishi na kitenzi vikiwiana nayo bila kukosea; humzoeza pia kujenga kitenzi kimoja kizito chenye nafsi, wakati na maana ya ziada ndani yake badala ya maneno mengi mafupi. Hivyo mfikiriaji wa Kiswahili huzoea kuunganisha vipande vingi vya maana katika neno moja kabla ya kulitamka.

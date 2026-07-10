@@ -34,4 +34,4 @@ Pierde terreno cuando la magia se toma por puro capricho o decoración exótica,
 
 ## Drives
 
-Vive en [Gabriel García Márquez](persona_garcia_marquez.md), que construyó Macondo y le reportó sus prodigios con la cara impávida de un periodista, y en [el cafetero](persona_el_cafetero.md), el campesino de la ladera para quien los santos, los muertos y el clima son todos de una misma tela y lo maravilloso es sin más cómo es el mundo. Empuja a Colombia a verse como un lugar donde lo extraordinario es ordinario, y a contarse su propia historia en esa clave.
+Vive en la novela que construyó Macondo y le reportó sus prodigios con la cara impávida de un periodista, y en el campesino de la ladera para quien los santos, los muertos y el clima son todos de una misma tela y lo maravilloso es sin más cómo es el mundo. Empuja a Colombia a verse como un lugar donde lo extraordinario es ordinario, y a contarse su propia historia en esa clave.

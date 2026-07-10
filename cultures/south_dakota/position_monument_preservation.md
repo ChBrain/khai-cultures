@@ -34,4 +34,4 @@ Its balance when heavy wildfire smoke closes local park highways, fracturing reg
 
 ## Drives
 
-Guides the monument carvings in the plot [The Mount Rushmore Construction 1927](plot_02_mount_rushmore.md) and drives the safety audits of [Alma](persona_alma.md).
+Guides the monument carvings in the plot [The Mount Rushmore Construction 1927](plot_02_mount_rushmore.md) and drives the safety audits carried out by the park's engineering staff.

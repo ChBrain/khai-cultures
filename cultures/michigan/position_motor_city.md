@@ -34,4 +34,4 @@ Its balance when corporate automation reduces union assembly jobs, causing econo
 
 ## Drives
 
-Guides the mass production design in the plot [Automotive Assembly Line 1913](plot_01_assembly_line.md) and drives the engineering testing of [Marcus](persona_marcus.md).
+Guides the mass production design in the plot [Automotive Assembly Line 1913](plot_01_assembly_line.md) and drives the engineering testing of the city's engineers.

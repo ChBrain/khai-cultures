@@ -34,4 +34,4 @@ Terreno cuando esa herencia se vuelve excusa para quedarse de brazos cruzados, c
 
 ## Drives
 
-Vive en [Ramon Amaya Amador](persona_amaya_amador.md), el escritor que en "Prision verde" puso en novela la vida del bananal, y en [el bananero](persona_el_bananero.md), el trabajador de la costa norte que la sostuvo con el cuerpo. Empuja a Honduras a reconocer como fue amasada desde fuera y a querer recobrar el mando de su propia casa.
+Vive en el escritor que en "Prision verde" puso en novela la vida del bananal, y en el bananero, el trabajador de la costa norte que la sostuvo con el cuerpo. Empuja a Honduras a reconocer como fue amasada desde fuera y a querer recobrar el mando de su propia casa.

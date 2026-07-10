@@ -34,4 +34,4 @@ Du terrain quand l'universel proclame ignore les citoyens reels, quand l'egalite
 
 ## Drives
 
-Elle vit dans [Yasmine](persona_yasmine.md), qui lui demande de tenir sa promesse d'universalisme, comme dans [Colette](persona_colette.md), qui la fait vivre a l'egalite simple de la table, et elle est nee de la Revolution de 1789.
+Elle vit chez qui lui demande de tenir sa promesse d'universalisme, comme dans le geste qui la fait vivre a l'egalite simple de la table, et elle est nee de la Revolution de 1789.

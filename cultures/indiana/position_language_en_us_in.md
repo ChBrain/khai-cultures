@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Hoosier English of the flat Indiana plains, a South Midland speech with a warm, drawling give in the farm counties and a clipped, practical cadence in the Indianapolis shops and race garages. It holds the friendly, unshowy plainness the state calls Hoosier.
+The same fixed word order and auxiliary grammar of English generally, carried in Indiana's South Midland speech in a construction rarer outside this belt: "the car needs washed," where a past participle follows "needs" or "wants" directly, without the "to be" that most English requires. It also carries positive anymore, where "anymore" appears in a plain statement, not only a negative one, so "anymore I just stay home" means "nowadays," a use unfamiliar outside the Midland.
 
 ## Orders
 
-Where it is heard as simply local: the Lawrence County co-op, the small-town main street, the Speedway garage, the quarry town. It orders which turns of phrase pass as native Hoosier ground and marks the outsider by ear.
+Forces most English sentences through "to be" between "needs" and a past participle (the car needs to be washed), but where the Midland needs-construction is native to the speaker's ear, it forces the participle straight onto "needs" with no linking verb at all. Forces "anymore" into a negative frame in most English (I don't go there anymore), but here permits, and in the speaker raised on it all but requires, its use in a plain positive statement to mean "these days."
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the corporate board carry, which trims the drawl off the young. The fast, screen-fed racing cadence also crowds the older cooperative farm speech toward the margin.
+Loses, to an outside ear, the clarity that "to be" gives between "needs" and the participle, so "the car needs washed" can sound unfinished or wrong to a listener raised elsewhere, though it is complete to the one who says it. Loses the negative-only sense of "anymore" that most English keeps, so a listener from outside the belt can mishear a positive statement as missing its negative. Both constructions lose ground the more a speaker's schooling and screen exposure push toward the broadcast standard that marks them as regional rather than correct.
 
 ## Drives
 
-It carries [Helen](persona_helen.md), whose warm midwestern drawl holds the English of the corn and soy counties, and [Ray](persona_ray.md), whose practical cadence is the working English of the race garages. So the one Hoosier speech shows who keeps the country ground and who turns toward the track and the national screen.
+Trains the ear raised on it to hear "needs washed" and "wants fed" as complete sentences needing no linking verb, and to supply "anymore" in a plain statement without reaching for "nowadays" instead. It marks, the moment either construction is heard, whether the speaker was raised inside this belt of the country or outside it. It shapes a plain, economical habit of speech that drops the linking verb where the meaning is already carried, and repurposes a negative-bound word into an everyday marker of the present time.

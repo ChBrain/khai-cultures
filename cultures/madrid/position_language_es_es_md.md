@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano de la capital, hablado con el laismo urbano, el vocabulario castizo de las tabernas de barrio y el ritmo rapido y la entonacion asertiva de los ministerios centrales. Guarda a la vez el habla costumbrista de la tertulia larga de cafe y el registro normativo del boletin oficial, dos voces de una misma meseta administrativa donde la lengua del Estado y la del barrio antiguo conviven puerta con puerta.
+El español permite distinguir con dos verbos distintos, ser y estar, lo que es permanente de lo que es un estado pasajero, una diferencia que muchas lenguas resuelven con un solo verbo. Guarda ademas la distincion entre la ese y la zeta, que en el habla de Madrid se pronuncian de forma distinta y no se confunden como ocurre en gran parte de America, y conserva el vosotros como forma propia del trato informal en plural, alli donde el español de America solo usa ustedes.
 
 ## Orders
 
-Manda que en las tabernas centenarias y en las tertulias de barrio se conserve el habla castiza y el trato cercano con el vecino, y que en los despachos ministeriales se sostenga el castellano normativo de los boletines con que el Estado se dirige a las comunidades autonomas. Ordena que la lengua de la corte sirva de puente entre el barrio y la administracion sin que ninguna de las dos borre a la otra.
+Obliga a marcar el genero en cada sustantivo y en el adjetivo que lo acompaña, y exige el subjuntivo cada vez que se habla de un deseo, una duda o algo que aun no ha ocurrido. Ordena tambien, en el habla castiza del centro, el laismo, el uso de la en vez de le para el complemento indirecto femenino, un rasgo propio de esta habla que se aparta de la norma que otras regiones siguen. Y permite, gracias a la conjugacion del verbo, omitir el pronombre sujeto sin que se pierda quien hace la accion.
 
 ## Loses
 
-Pierde terreno cuando la jerga mercantilizada del turismo internacional y las cadenas hoteleras sustituye los terminos de la taberna por neologismos corporativos ingleses, y cuando el habla castiza del barrio antiguo se tiene por reliquia pintoresca frente al consumo rapido de masa. Cede tambien cuando el registro rigido del expediente oficial se cierra sobre si mismo y se aleja del habla viva de la calle.
+Pierde la distincion que el ingles hace entre el tiempo continuo y el simple cuando ambos se resuelven con una sola forma en el habla rapida de la calle, y pierde terminos propios de la taberna castiza cuando la jerga comercial del turismo los sustituye por prestamos del ingles. Pierde tambien los matices del voseo y del habla americana, ajenos a quien solo conoce el vosotros y el tu de su propia plaza.
 
 ## Drives
 
-Empuja a la capital a hablar a la vez la lengua del barrio y la del Estado. Se la da a [Felipe](persona_felipe.md), funcionario ministerial, en su registro normativo, y a [Elena](persona_elena.md), tabernera de La Latina, en su habla castiza de vecindad, ambos como lengua materna en la que gestionan, atienden y guardan la memoria de la villa; y en cada uno se ve una cara de esta habla madrilena, la del despacho y la de la taberna.
+Empuja a quien piensa en el a distinguir sin cesar lo que es y lo que esta, y a sopesar en cada frase si algo es seguro o solo deseado, real o dudoso, antes de elegir el modo verbal. Acostumbra a omitir el sujeto y a fiarlo todo a la terminacion del verbo, y hace del genero y del acuerdo entre las palabras un habito que no se apaga ni en la taberna ni en el despacho.

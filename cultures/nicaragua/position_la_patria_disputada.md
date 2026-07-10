@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La memoria de una tierra peleada desde siempre. Por estar metida entre dos mares y por el viejo sueno de un canal entre oceanos, a Nicaragua la codiciaron y la invadieron una y otra vez: la conquista que sometio a los cacicazgos, el filibustero Walker que se agarro el poder en 1856, las ocupaciones del siglo XX que Sandino combatio, y los pleitos internos que desembocaron en la revolucion de 1979. De Diriangen a Sandino corre un mismo hilo: la resistencia de un pueblo chiquito frente al que quiere venir a mandar en su tierra.
+La memoria de una tierra peleada desde siempre. Por estar metida entre dos mares y por el viejo sueno de un canal entre oceanos, a Nicaragua la codiciaron y la invadieron una y otra vez: la conquista que sometio a los cacicazgos, el filibustero Walker que se agarro el poder en 1856, las ocupaciones del siglo XX que el general combatio, y los pleitos internos que desembocaron en la revolucion de 1979. Del cacique al general corre un mismo hilo: la resistencia de un pueblo chiquito frente al que quiere venir a mandar en su tierra.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Terreno cuando la resistencia se queda en pura bandera y no en concordia: cuando
 
 ## Drives
 
-La encarna [Diriangen](persona_diriangen.md), el cacique que prefirio agarrar las armas antes que agacharse en los albores de la conquista, y la lleva al siglo moderno [Augusto C. Sandino](persona_sandino.md), el general que peleo contra la ocupacion como hombre libre. Entre los dos, separados por siglos, dicen la misma cosa: que esta tierra siempre se ha sabido defender.
+La encarna el cacique que prefirio agarrar las armas antes que agacharse en los albores de la conquista, y la lleva al siglo moderno el general que peleo contra la ocupacion como hombre libre. Entre los dos, separados por siglos, dicen la misma cosa: que esta tierra siempre se ha sabido defender.

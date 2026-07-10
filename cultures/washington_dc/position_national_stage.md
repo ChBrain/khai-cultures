@@ -34,4 +34,4 @@ Its credibility when political polarization causes government shutdowns and grid
 
 ## Drives
 
-Guides the city planning in the plot [The Residence Act and L'Enfant Plan 1790](plot_01_lenfant_plan.md) and drives the policy work of archivist [Eleanor](persona_eleanor.md).
+Guides the city planning in the plot [The Residence Act and L'Enfant Plan 1790](plot_01_lenfant_plan.md) and drives the archivist's policy work, the record-keeping that ties the capital's present governance to its founding design.

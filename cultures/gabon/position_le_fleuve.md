@@ -34,4 +34,4 @@ Du terrain quand le fleuve ne sert plus qu'a vider la foret, les billes descendu
 
 ## Drives
 
-Vit dans [le Roi Denis](persona_roi_denis.md), l'homme de la cote et de l'estuaire qui le premier traita avec ceux venus par la mer au bout du fleuve, et dans [Pierre Akendengue](persona_akendengue.md), qui a chante l'Ogooue et le pays vert comme on chante une mere. Il pousse le Gabon a se savoir un pays de l'eau, relie par sa riviere a lui-meme et a l'ocean ouvert sur le monde.
+Vit dans l'homme de la cote et de l'estuaire qui le premier traita avec ceux venus par la mer au bout du fleuve, et dans le chant qui a celebre l'Ogooue et le pays vert comme on chante une mere. Il pousse le Gabon a se savoir un pays de l'eau, relie par sa riviere a lui-meme et a l'ocean ouvert sur le monde.

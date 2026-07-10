@@ -34,4 +34,4 @@ Ko e fonua 'oku tu'u 'i he kalauni mo e tui, 'ikai 'i he mafai mei tu'a; ko e Tu
 
 ## Drives
 
-'Oku mo'ui 'ia [Tu'i Siaosi Tupou I](persona_tupou_i.md), 'a ia na'e fakatahataha'i 'a e fonua pea 'omai 'a e konisitutone 'o e 1875, mo 'ia [Kuini Salote Tupou III](persona_salote.md), 'a e Kuini na'e 'ofa'i fau pea ne pukepuke ma'u 'a e kalauni mo e tui 'i he senituli 'e 20. 'Oku ne taki 'a Tonga ke pukepuke ma'u 'a e kalauni ta'emotu mo e laukau ki he taha pe 'oku te'eki ke pule'i.
+'Oku mo'ui 'i he tu'i na'e fakatahataha'i 'a e fonua pea 'omai 'a e konisitutone 'o e 1875, mo 'i he kuini na'e 'ofa'i fau pea ne pukepuke ma'u 'a e kalauni mo e tui 'i he senituli 'e 20. 'Oku ne taki 'a Tonga ke pukepuke ma'u 'a e kalauni ta'emotu mo e laukau ki he taha pe 'oku te'eki ke pule'i.

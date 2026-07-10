@@ -34,4 +34,4 @@ Ground when the cost of that freedom is softened or forgotten - the years in the
 
 ## Drives
 
-Lives in [Chief Jacko](persona_chief_jacko.md), the Maroon chief whose forest war was the island's longest resistance and who is honored now as a national hero. It drives Dominica to carry the dignity of the unowned into her nationhood, to stand small and unbowed among far larger powers, and to hold her freedom and her ground as something kept, not granted - something a body fought for.
+Lives in the memory of the forest war, the island's longest resistance, now honored as the mark of a national hero. It drives Dominica to carry the dignity of the unowned into her nationhood, to stand small and unbowed among far larger powers, and to hold her freedom and her ground as something kept, not granted - something a body fought for.

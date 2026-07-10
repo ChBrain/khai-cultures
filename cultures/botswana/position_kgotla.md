@@ -34,4 +34,4 @@ E latlhegelwa ke tsela fa puisano e fetoga lefela mme tshwetso e setse e tserwe 
 
 ## Drives
 
-E tshela mo go [Khama III](persona_khama_iii.md), kgosi e e gogetseng morafe wa yona ka molao le ka kgotla, e bo e sireletsa naga ka bohlale. E gogela Botswana kwa pusong ya batho, kwa go reediseng mongwe le mongwe, le kwa go tseeng tshwetso ka tumalano e seng ka pateletso, mošwa o naga e o tsereng go tswa kwa setlhareng sa kgotla ya yona.
+E tshela mo go kgosi nngwe le nngwe e e gogelang morafe wa yona ka molao le ka kgotla, e bo e sireletsa naga ka bohlale. E gogela Botswana kwa pusong ya batho, kwa go reediseng mongwe le mongwe, le kwa go tseeng tshwetso ka tumalano e seng ka pateletso, mošwa o naga e o tsereng go tswa kwa setlhareng sa kgotla ya yona.

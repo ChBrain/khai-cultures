@@ -34,4 +34,4 @@ Su equilibrio cuando el bajo precio de compra fijado por los grandes distribuido
 
 ## Drives
 
-Guía la colonización agraria en el relato [El Plan Badajoz 1952](plot_02_plan_badajoz.md) y orienta la cooperativa de [Maria](persona_maria.md).
+Guía la colonización agraria en el relato [El Plan Badajoz 1952](plot_02_plan_badajoz.md) y orienta la cooperativa del pimentón que sostiene la frontera.

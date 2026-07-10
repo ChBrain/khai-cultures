@@ -34,4 +34,4 @@ Ground where its rigour hardens into joyless respectability, the chapel turning 
 
 ## Drives
 
-It lives in [Gwen](persona_gwen.md), who keeps the hymns and the chapel tradition alive and holds that before God none stands above another, and from it grew the levelling, self-improving temper that runs through the whole of Welsh life.
+It lives wherever the hymns and the chapel tradition are kept alive and the conviction holds that before God none stands above another, and from it grew the levelling, self-improving temper that runs through the whole of Welsh life.

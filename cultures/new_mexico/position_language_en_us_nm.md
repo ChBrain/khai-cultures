@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Southwestern English of the Land of Enchantment, shaped by a long Spanish and Pueblo substrate, carrying loanwords and place-names of the high desert and a warm, unhurried Southwestern cadence. It holds a plain high-desert steadiness that both the adobe pueblo and the solar laboratory carry.
+New Mexican English carries a Spanish substrate deep enough to shape its everyday vocabulary rather than merely borrow from it, arroyo, mesa, plaza, placita, ristra, acequia, words for landscape and irrigation the general American lexicon has no native equivalent for and simply took whole. It keeps easy code-switching between English and Spanish within a single sentence as an ordinary register rather than a marked performance, and it carries Spanish's rolled or tapped r into loanwords that a purely English ear would otherwise flatten to the English approximant.
 
 ## Orders
 
-Where it passes as native ground: the Taos pueblo, the Albuquerque lab, the Rio Grande valley, the Route 66 mesa town. It orders which loanwords, vowels, and turns of phrase mark a speaker as New Mexican and sets the traditional Pueblo-community ear against the technical Albuquerque one.
+Every borrowed Spanish noun still forces a decision on how far to nativize its pronunciation, keep the tapped r and the five clean vowels, or flatten both to English norms, and a fluent code-switcher must track which grammar governs which stretch of the sentence, English word order here, a Spanish possessive or diminutive there. English's own grammar keeps forcing a stated subject and an obligatory tense marker on every clause regardless of how many Spanish loanwords sit inside it.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the corporate board carry, which trims the Southwestern cadence off the young and treats the substrate loanwords as quaint. The high-tech laboratory register also crowds the older pueblo-community speech toward the margin.
+Once a Spanish loanword is fully absorbed into English's sound system, the rolled r flattens, the pure vowels drift toward English's laxer set, and the word survives in spelling more than in the pronunciation that first carried it. The oldest Pueblo language place names, the substrate beneath even the Spanish layer, are rendered in English or Spanish orthography that cannot capture their own sound system at all, so a third layer of the region's speech is nearly invisible in the everyday English spoken over it.
 
 ## Drives
 
-It carries [Lupita](persona_lupita.md), whose warm drawl is the working English of the Taos pueblo and its potters, and [Mateo](persona_mateo.md), whose technical cadence holds the English of the Albuquerque solar labs. So the one New Mexican speech shows who keeps the traditional community ground and who turns toward the high-tech desert.
+It trains a bilingual ear that hears no contradiction in a sentence built from two grammars at once, and a habit of reaching for the borrowed word first when the landscape itself has no other name. It rewards comfort holding two phonological systems side by side rather than forcing every sound through one, so a speaker raised in it code-switches without the hesitation a strictly monolingual upbringing would produce.

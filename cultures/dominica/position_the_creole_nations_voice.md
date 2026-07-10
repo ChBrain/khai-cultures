@@ -34,4 +34,4 @@ Ground when the Creole is treated as backward beside the metropolitan French or 
 
 ## Drives
 
-Lives in [Dame Eugenia Charles](persona_eugenia_charles.md), the first woman to lead a Caribbean nation, who gave the island a stateswoman's voice; in [Jean Rhys](persona_jean_rhys.md), who carried the island into the world's letters; and in [E.O. LeBlanc](persona_eo_leblanc.md), who made Creole pride the work of statecraft. It drives Dominica to speak as herself - in Kweyol, in faith, and in her own name - and to claim her place, however small, among the nations.
+Lives in the stateswoman's voice that made a small island heard in the world's counsels; in the letters that carried the island's light and loss into the world's literature; and in the statecraft that made Creole pride a matter of governing, not shame. It drives Dominica to speak as herself - in Kweyol, in faith, and in her own name - and to claim her place, however small, among the nations.

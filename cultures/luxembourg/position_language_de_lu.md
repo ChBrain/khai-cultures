@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Geltung des Hochdeutschen, wie es im Großherzogtum geschrieben und gelesen wird: die Sprache der Zeitung und der ersten Schule, in der das Kind in Luxemburg lesen lernt, ehe das Französische das Gymnasium und das Gesetz übernimmt. Es ist keine Muttersprache des Hauses, das gesprochene Luxemburgische, sondern die erste Schriftsprache, in der ein Volk lesen lernt, das daheim eine andere Zunge spricht. So hält es die Norm des geschriebenen Deutsch im Land, dieselbe Sprache wie beim großen Nachbarn, aber in ihrem eigenen, dienenden Platz im Sprachengefüge.
+Was sich im Deutschen sagen lässt: das zusammengesetzte Bauwort, das mehrere Begriffe in ein einziges Substantiv fügt, die Lust an der Abstraktion, und der lange Satz, der ein ganzes Gefüge von Nebensätzen trägt, ehe das Verb am Ende alles schließt. Es hält die Mittel, einen Gedanken vollständig zu Ende zu denken, ehe man das letzte Wort davon ausspricht.
 
 ## Orders
 
-Was als gutes Deutsch auf dem Papier des Landes gilt, die Rechtschreibung der Presse, des Schulbuchs und des ersten Unterrichts. Es ordnet an, dass man auf Deutsch lesen lernt und die Nachricht auf Deutsch liest, und teilt sich Zeitung, Amt und Schule mit dem Französischen, ohne je die Sprache des Herzens und der Straße zu werden.
+Es zwingt, jedem Substantiv ein Geschlecht zuzuweisen, der, die oder das, und jedem Satz einen der vier Fälle; es verlangt, im Nebensatz das Verb bis zuletzt zurückzuhalten und den Sinn so lange in der Schwebe zu tragen; und es befiehlt bei jeder Anrede die Wahl zwischen Sie und du, sodass Nähe und Distanz in jedem Wort mitgesprochen werden.
 
 ## Loses
 
-Boden nach oben und nach unten zugleich: unter ihm liegt das Luxemburgische, die eigentliche Muttersprache, die man spricht, aber kaum schreibt; über ihm steht das Französische des Gesetzes und des Prestiges. Und das vordringende Englisch der Banken und der Büros drängt es weiter zurück, sodass es nie ganz die eigene Sprache wird, sondern die geliehene Schrift eines Landes, das in mehreren Zungen zu Hause ist.
+Die Wärme, die im streng gebauten Satz erstarrt, wenn die Genauigkeit vor dem Gefühl steht; die Zwischentöne, die das harte Sie/du-Raster nicht kennt, wo andere Sprachen offener bleiben; und die Leichtigkeit einer Sprache, die auf den langen, verschachtelten Bau des Satzes verzichten kann, um schneller zum Punkt zu kommen.
 
 ## Drives
 
-Es treibt den Luxemburger, seinen Tag in mehreren Sprachen zu leben und im Deutschen zu lesen und zu schreiben, was er auf Luxemburgisch denkt und spricht. Es lebt in [Lucien](persona_lucien.md), der die Zeitung und die erste Schule auf Deutsch hat und doch nur im gesprochenen Lëtzebuergesch ganz zu Hause ist. So macht das geschriebene Deutsch aus der Vielsprachigkeit eine tägliche Selbstverständlichkeit und zugleich die stille Frage, welche Sprache denn die ganz eigene sei.
+Es treibt den, der in ihm liest und schreibt, den Gedanken erst ganz zu bauen und dann mit dem Verb wie einem Schlussstein zu schließen; es gewöhnt ihn, in jeder Anrede die Distanz zu bemessen, ehe er spricht. So formt die geschriebene Sprache eine Genauigkeit des Denkens, die sich mit jeder Zeile in der Presse und im Schulbuch wiederholt, gleich wer sie liest.

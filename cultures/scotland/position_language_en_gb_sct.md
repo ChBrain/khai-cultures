@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The authority of English as it is spoken and written across Scotland, from the Borders to the Northern Isles: the standard tongue of the school, the office, the pulpit, and the printed page, but carried in a Scottish voice and coloured by the Scots beneath it. It holds its own words and turns of phrase, outwith and wee and aye, the messages and to stay, and a plain, rolled, level-toned cadence, the everyday English of nearly the whole nation, its own thing and yet not cut off from the wider tongue.
+The full grammatical resources of English carried in a Scottish mouth: a syllable-timed rhoticity, the r sounded wherever it is written, in cart and bird and far, long after most of England has let it fall silent; a level, near-monophthongal vowel in words like boat and face, without the sliding diphthong heard further south; and a separate wh sound, so that whales and Wales, which and witch, are never quite the same word in a mouth raised on it.
 
 ## Orders
 
-What counts as good, educated English north of the Tweed: the spelling and the register of Scottish public life, the courts and the councils, the broadcasters and the broadsheets, the classroom and the interview. It orders the buttoned, formal speech a Scot turns to for the record and the world, and it sets the standard against which both a broad Scots word and an over-genteel affectation are measured and, each in its own way, marked out as wrong for the page.
+It forces, like all English, a tense onto every finite verb and an article before nearly every countable noun, do-support to ask a question or deny a thing, and a choice of aspect, plain or ongoing, every time an action is named. And it forces onto every long vowel the Scottish Vowel Length Rule, so the very same vowel is held short before a voiceless consonant and drawn long before a voiced one or at the end of a word, a timing marked without ever being taught its name.
 
 ## Loses
 
-Ground to the pull of a metropolitan, south-of-England standard that the screen and the market carry, so that a strong Scottish turn of phrase gets smoothed away as provincial and a plain Scots word is mistaken for an error rather than heard as its own thing. It thins wherever speakers trade their own cadence for a borrowed one, and it sits, forever uneasy, between the broad Scots it once rose above and the received English it is still measured against.
+It let the old thou fall silent long ago, so no grammar is left to mark near from far in address, only tone and word choice carry what French or German still hold in a single pronoun. It thins, too, wherever the rolled r and the separate wh are traded for a flatter, more southern sound, and a Scots word tucked into an English sentence gets heard as a slip rather than as its own, exact thing.
 
 ## Drives
 
-It drives Scotland to speak to itself and to the world in a plain, level English of its own making. It lives in [Robert the Bruce](persona_bruce.md), who rallies the kindreds in the common mother tongue of his people while charter and court run on Latin and French, and in [Eilidh](persona_eilidh.md), who slips between the buttoned English of work and the braid Scots of the street without a thought. So the standard tongue is at once a workaday instrument and a quiet mark of who a Scot is.
+It drives whoever speaks it to build meaning from order rather than ending, subject before verb before object, tense and number carried on the verb and article rather than folded into case. It keeps the r sounding under the tongue long after the sentence has moved south in speech elsewhere, and it holds a speaker's Scottishness in the vowel and the rolled r even when every word on the page reads as plain, standard English.

@@ -34,4 +34,4 @@ Du terrain quand on prend la croyance pour de la superstition a railler, quand o
 
 ## Drives
 
-Vit dans [le chef Mlapa](persona_mlapa.md), gardien de la terre et de la parole de l'ancetre sur la cote, et dans [la Nana Benz](persona_nana.md), qui ne commence pas son negoce sans la benediction des siens. Elle pousse le Togo a tenir l'esprit et la terre d'une seule main, a soigner du corps et de l'ame, et a ne jamais entreprendre sans saluer d'abord ce qui le porte.
+Vit dans la chefferie, gardienne de la terre et de la parole de l'ancetre sur la cote, et dans la negociante qui ne commence pas son negoce sans la benediction des siens. Elle pousse le Togo a tenir l'esprit et la terre d'une seule main, a soigner du corps et de l'ame, et a ne jamais entreprendre sans saluer d'abord ce qui le porte.

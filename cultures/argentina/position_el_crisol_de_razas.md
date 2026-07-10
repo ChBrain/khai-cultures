@@ -34,4 +34,4 @@ Terreno cuando el mirar para afuera se agria en un mirar por encima del hombro: 
 
 ## Drives
 
-Vive en [Jorge Luis Borges](persona_borges.md), el argentino universal, el bibliotecario ciego que se guardó los libros del mundo entero en una sola mente porteña e hizo del alma cosmopolita y autointerrogante de la nación inmigrante una literatura leída en todas partes. Impulsa a la Argentina a juntar el mundo adentro de sí y a seguir preguntando, en cada lengua que sus abuelos trajeron de los barcos, qué es al fin un argentino.
+Vive en el argentino universal, el bibliotecario ciego que se guardó los libros del mundo entero en una sola mente porteña e hizo del alma cosmopolita y autointerrogante de la nación inmigrante una literatura leída en todas partes. Impulsa a la Argentina a juntar el mundo adentro de sí y a seguir preguntando, en cada lengua que sus abuelos trajeron de los barcos, qué es al fin un argentino.

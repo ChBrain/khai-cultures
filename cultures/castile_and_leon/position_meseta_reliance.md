@@ -34,4 +34,4 @@ Su equilibrio cuando el abandono demográfico y la emigración a las capitales v
 
 ## Drives
 
-Guía el desarrollo territorial en el relato [La Unión de los Reinos 1230](plot_01_union.md) y orienta la labranza cerealista de [Mateo](persona_mateo.md).
+Guía el desarrollo territorial en el relato [La Unión de los Reinos 1230](plot_01_union.md) y orienta la labranza cerealista del labrador de secano, el ciclo de siembra y cosecha del trigo que sostiene a la meseta.

@@ -34,4 +34,4 @@ Li pers later kan dimoun bliye respe lot, kan kominote ferm lor li meme ek get l
 
 ## Drives
 
-Viv dan [zwer ravann](persona_ravann_zwer.md), ki fer tou kominote danse otour enn sel ravann, ek dan [Ananda Devi](persona_devi.md), ki ekrir lor sa zil melanze la, lor seki sa koute ek seki sa donne. Li pous Moris pou kontinie aprann, sak zenerasion, ki diferan dwatet viv ansam, ek ki sa li so pli gran riches.
+Viv dan zwer ravann, ki fer tou kominote danse otour enn sel ravann, ek dan enn ekrivin, ki ekrir lor sa zil melanze la, lor seki sa koute ek seki sa donne. Li pous Moris pou kontinie aprann, sak zenerasion, ki diferan dwatet viv ansam, ek ki sa li so pli gran riches.

@@ -34,4 +34,4 @@ An Wahrhaftigkeit, wo der Charme zur bloßen Masche wird und der Umweg die Aussa
 
 ## Drives
 
-Er trägt die feine Diplomatie [Metternichs](persona_metternich.md), der nie offen Nein sagt, und lebt als lockerer, ironischer Ton in [Lukas](persona_lukas.md) weiter.
+Er trägt die feine Diplomatie, die nie offen Nein sagt, und lebt als lockerer, ironischer Alltagston weiter.

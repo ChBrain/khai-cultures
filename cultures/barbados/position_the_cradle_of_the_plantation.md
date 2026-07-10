@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The hard fact that Barbados was where the New World plantation began: the first island to turn wholly to sugar, to build the great estate worked by enslaved Africans, and to write the system down in law. Its 1661 slave code was the template the other colonies copied, the legal model carried across the Caribbean and into the mainland, so the pattern that shaped a hemisphere was first set here. And held within the same fact is the resistance it bred from the first day: the refusal, the endurance, the dignity kept under bondage, and the risings that ran from the start to Bussa's great rebellion of 1816. The cradle holds both the system and the struggle against it.
+The hard fact that Barbados was where the New World plantation began: the first island to turn wholly to sugar, to build the great estate worked by enslaved Africans, and to write the system down in law. Its 1661 slave code was the template the other colonies copied, the legal model carried across the Caribbean and into the mainland, so the pattern that shaped a hemisphere was first set here. And held within the same fact is the resistance it bred from the first day: the refusal, the endurance, the dignity kept under bondage, and the risings that ran from the start to the great rebellion of 1816, the largest the island had known. The cradle holds both the system and the struggle against it.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Ground when the order and the calm are admired without the foundation being name
 
 ## Drives
 
-Lives in [Bussa](persona_bussa.md), the enslaved leader who rose in 1816 at the head of the largest rebellion the island had known, and in [the cane cutter](persona_the_cane_cutter.md), the enslaved and then freed worker whose labour built the wealth and whose endurance is the island's truer inheritance. It drives Barbados to reckon with having been the cradle, and to claim the dignity of those who survived it as its own.
+Lives in the rebellion of 1816, the largest rising the island had known, raised from among the enslaved against the code that bound them, and in the labour of the enslaved and then freed workers whose toil built the wealth and whose endurance is the island's truer inheritance. It drives Barbados to reckon with having been the cradle, and to claim the dignity of those who survived it as its own.

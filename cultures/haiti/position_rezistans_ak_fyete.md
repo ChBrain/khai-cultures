@@ -34,4 +34,4 @@ Tè lè rezistans lan tounen sèlman andirans san espwa, lè moun aksepte mizè 
 
 ## Drives
 
-Li viv nan [Catherine Flon](persona_catherine_flon.md), ki te koud premye drapo a ak men l epi bay rezistans lan yon kò. Li pouse Ayiti pou l kanpe dwat nan mitan tout malè, pou l tounen chay listwa a an diyite, epi pou l kenbe fyète yon pèp ki janm sispann leve tèt li.
+Li viv nan fanm ki te koud premye drapo a ak men l epi bay rezistans lan yon kò. Li pouse Ayiti pou l kanpe dwat nan mitan tout malè, pou l tounen chay listwa a an diyite, epi pou l kenbe fyète yon pèp ki janm sispann leve tèt li.

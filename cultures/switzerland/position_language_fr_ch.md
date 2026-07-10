@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'autorite du francais tel qu'il s'ecrit et se parle en Suisse romande, la deuxieme des quatre langues nationales. Il tient la norme du francais a l'ouest du pays, celle de l'ecole, du canton et du journal, avec ses tours a lui, le septante et le nonante, qui ne sont pas des fautes mais une autre facon correcte de dire la meme langue.
+Compter les dizaines sans detour, la ou le francais de reference tourne autour du pot : septante et nonante disent soixante-dix et quatre-vingt-dix en un seul mot transparent, sans repasser par une base vingt, et huitante remplace quatre-vingts dans certains cantons. Garder aussi ses propres noms des repas, dejeuner, diner, souper, pour le matin, le midi et le soir, la ou le francais de France a fait glisser ces mots d'un cran.
 
 ## Orders
 
-Ce qui compte pour du bon francais du cote romand, l'orthographe, le registre de l'administration cantonale et de la presse. Il ordonne ce qui va sur le papier officiel a l'ouest de la Sarine et fixe le ton de la vie publique romande, distincte sans etre separee du reste de la francophonie.
+Impose, comme tout francais, le genre a chaque nom et a chaque adjectif qui l'accompagne, et le subjonctif des que le doute, le souhait ou le jugement s'invite dans la phrase. Impose aussi ses propres nombres, septante et nonante, dans l'ecole, l'administration et la presse : la ou l'autre forme reste comprise de tous, c'est celle-ci qui doit s'ecrire.
 
 ## Loses
 
-Du terrain a l'allemand, car la Confederation est majoritairement alemanique et le debat federal court d'abord en allemand ; le francais y tient sa place mais depuis une minorite, de part et d'autre du Rostigraben, cette ligne douce entre la Suisse romande et la Suisse allemande. Et il n'est jamais impose aux autres : ni au Tessin italien, ni au bord romanche.
+Face au francais de reference diffuse depuis la France, la legitimite de ses propres nombres, souvent presentes comme une bizarrerie regionale plutot que comme une autre facon correcte de compter la meme langue. Et la prononciation locale, voyelles plus fermees, debit plus pose, s'efface peu a peu devant l'accent que la radio et la television diffusent comme modele.
 
 ## Drives
 
-Il pousse la Suisse romande a vivre dans sa langue tout en suivant un centre qui parle souvent l'autre. Il vit en [Dufour](persona_dufour.md), Genevois qui pense et commande en francais mais franchit la ligne des langues pour tenir le pays ensemble, et en [Henry Dunant](persona_dunant.md), dont le francais porte au monde l'idee de la Croix-Rouge. Ainsi la langue de l'ouest se fait a la fois fierte cantonale et pont vers le dehors.
+Habitue qui grandit dedans a compter sans detour, en un seul mot pour chaque dizaine, sans jamais douter du sens de septante ou de nonante la ou un visiteur doit les apprendre. Pousse aussi a soupeser sans cesse si l'on parle bien, sa propre norme ou celle, jugee plus prestigieuse, venue d'ailleurs, et a choisir entre les deux selon la situation.

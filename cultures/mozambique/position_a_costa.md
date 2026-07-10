@@ -34,4 +34,4 @@ Terreno quando o mar deixa de ser porta e passa a ser so beira, e a terra esquec
 
 ## Drives
 
-Vive em [a mae da capulana](persona_a_mae_da_capulana.md), que da costa traz o peixe, o coco e o pano ao mercado e ali sustenta a cidade inteira. Move Mocambique a olhar para o mar como porta aberta, a receber quem chega e a fazer da mistura do oceano a sua propria mesa e a sua propria pele.
+Vive na mulher que da costa traz o peixe, o coco e o pano ao mercado e ali sustenta a cidade inteira. Move Mocambique a olhar para o mar como porta aberta, a receber quem chega e a fazer da mistura do oceano a sua propria mesa e a sua propria pele.

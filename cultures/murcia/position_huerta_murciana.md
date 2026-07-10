@@ -34,4 +34,4 @@ Su equilibrio cuando la escasez hídrica en la cuenca del Segura detiene los tur
 
 ## Drives
 
-Guía el desarrollo hidráulico en el relato [El Regadío Andalusí X](plot_01_irrigation.md) y orienta la huerta de [Gines](persona_gines.md).
+Guía el desarrollo hidráulico en el relato [El Regadío Andalusí X](plot_01_irrigation.md) y orienta la huerta del agricultor regante que la trabaja tanda tras tanda.

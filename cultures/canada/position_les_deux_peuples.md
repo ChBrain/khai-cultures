@@ -34,4 +34,4 @@ Du terrain, la position en perd quand les deux solitudes derivent au point de ne
 
 ## Drives
 
-Elle vit dans [Rene Levesque](persona_levesque.md), qui a voulu que le francais survive et qui a porte la question de la souverainete, et dans [Therese](persona_therese.md), une Quebecoise qui a garde son francais entier dans une mer d'anglais sans jamais avoir a le quitter. Elle pousse le Canada a tenir ensemble ses deux peuples fondateurs, et a ne jamais clore tout a fait la question qui le definit.
+Elle vit dans la volonte que le francais survive, portee jusqu'a la question de la souverainete, et dans la vie de celle qui a garde son francais entier dans une mer d'anglais sans jamais avoir a le quitter. Elle pousse le Canada a tenir ensemble ses deux peuples fondateurs, et a ne jamais clore tout a fait la question qui le definit.

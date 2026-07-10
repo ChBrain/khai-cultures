@@ -34,4 +34,4 @@ Its balance when corporate mining giants bypass union wage contracts, weakening 
 
 ## Drives
 
-Guides the labor organization in the plot [The Butte Copper Boom 1880](plot_02_copper_boom.md) and drives the mining history work of [Clark](persona_clark.md).
+Guides the labor organization in the plot [The Butte Copper Boom 1880](plot_02_copper_boom.md) and drives the mining history work that keeps that struggle remembered, the record-keeper's task of holding the underground labor story against forgetting.

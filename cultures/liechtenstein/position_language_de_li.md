@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des geschriebenen Deutsch im Fürstentum, die Schriftform neben der alemannischen Mundart des Tals. Es hält die Norm des Gesetzes, der Schule und des Amtes, das präzise liechtensteinische Rechtsdeutsch der Gerichte, der Kanzleien und der Stiftungsurkunden: jene geprüfte Schrift, an der sich misst, was in Vaduz als richtiges Deutsch auf das Papier gehört, gesprochen wird sie kaum, denn im Mund lebt der Dialekt des Rheintals weiter.
+Das Hochdeutsch hält den vollen Kasus, den das gesprochene Alemannische des Landes selbst kaum noch kennt: den Genitiv, der im Alltag fast nur noch in festen Wendungen lebt, aber in der Schrift jede Zugehörigkeit genau benennt. Es hält den langen, klammernden Satzbau, der das Verb im Nebensatz ans Ende trägt und den ganzen Gedanken erst dort schließt, und die Fähigkeit, durch Zusammensetzung beliebig lange, genaue Wörter zu bauen, wo andere Sprachen einen ganzen Nebensatz brauchten.
 
 ## Orders
 
-Was im Land als korrektes Schriftdeutsch zählt, die Rechtschreibung und das gehobene Register der Urkunde, des Statuts und der Akte. Es ordnet, welche Form in die Stiftungsurkunde, in das Gesetz und in die amtliche Korrespondenz gehört, und trennt die Zunge des alpinen Alltags von der Feder, die einen anderen, geprüften Ton verlangt.
+Es zwingt, bei jedem Nomen eines von drei Geschlechtern und einen von vier Fällen zu wählen, auch wenn das gesprochene Alemannische des Tals mit weniger Fällen auskommt. Es verlangt im Nebensatz, das Verb bis zuletzt zurückzuhalten, und es verlangt von jedem, der in Vaduz schreibt, in ein Deutsch zu wechseln, dessen Lautung, Wortschatz und Kasus sich vom eigenen gesprochenen Alemannischen unterscheiden, sodass Sprechen und Schreiben zwei getrennte Formen verlangen.
 
 ## Loses
 
-Boden an die alemannische Mundart, die der Liechtensteiner wirklich spricht und denkt und doch nie schreibt; zwischen dem Dialekt des Rheintals und dem Hochdeutsch liegen zwei Deutsch, und die wärmsten Wörter des Tals finden auf dem Papier keinen Platz. Und es verliert an die Kleinheit des Landes und den Sog der weiten Welt, wo das Englische das tägliche Geschäft des Finanzplatzes trägt und die Jungen im Takt globaler Märkte leben, während das bäuerliche Erbe und seine Sprache verblassen.
+Es verliert den Genitiv fast ganz an den Dativ, sobald gesprochen wird, und es verliert die eigenen Vokale und Wörter des Alemannischen, die dieses Hochdeutsch nie ganz abbildet; wer im Tal aufwächst, denkt in Lauten, die die Schrift nicht kennt. Es verliert auch die Kürze, mit der das Alemannische einen Gedanken im Gespräch schon fasst, während das geschriebene Hochdeutsch ihn erst durch den langen, geklammerten Satz zu Ende bringt.
 
 ## Drives
 
-Es lebt in [Katharina](persona_katharina.md), die Deutsch als Muttersprache hat und am Schreibtisch in Vaduz auf dem präzisen liechtensteinischen Rechtsdeutsch besteht, während sie das Englische für ihre Klienten überzieht. Und es reicht zu [Franz](persona_franz.md), der in der Mundart des Rheintals aufwuchs und das Hochdeutsch der Regulierungen aus Vaduz und Brüssel nur mit Widerwillen liest, die geschulte Schrift über seiner gesprochenen Mundart. So macht das eine geschriebene Deutsch sichtbar, wer die Feder führt und wer den Dialekt spricht.
+Es gewöhnt, wer damit aufwächst, beim Schreiben in eine andere Lautung und Wortwahl zu wechseln als beim Sprechen, und schärft so das Gefühl für den Unterschied zwischen der eigenen Mundart und der geschriebenen Norm. Es gewöhnt an den langen Satz, der erst mit dem letzten Wort seinen Sinn offenbart, und an die Lust, einen Gedanken in einem einzigen zusammengesetzten Wort zu bauen. So macht dieses eine Hochdeutsch aus jedem, der darin schreibt, einen, der zwei Formen des eigenen Deutsch zugleich im Kopf trägt.

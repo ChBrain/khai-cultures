@@ -34,4 +34,4 @@ Pierde terreno cuando la soberanía recuperada se da por hecha, como si el trasp
 
 ## Drives
 
-Vive en [Omar Torrijos](persona_omar_torrijos.md), que llevó la causa de la soberanía a la mesa de los tratados que devolverían el canal, y en [Victoriano Lorenzo](persona_victoriano_lorenzo.md), el guerrillero cholo de la Guerra de los Mil Días, primera figura de la dignidad del istmo frente al poder que lo regía. Impulsa a Panamá a medir su libertad por la posesión de su paso y a no soltar nunca esa cuenta.
+Vive en el general que llevó la causa de la soberanía a la mesa de los tratados que devolverían el canal, y en el guerrillero cholo de la Guerra de los Mil Días, primera figura de la dignidad del istmo frente al poder que lo regía. Impulsa a Panamá a medir su libertad por la posesión de su paso y a no soltar nunca esa cuenta.

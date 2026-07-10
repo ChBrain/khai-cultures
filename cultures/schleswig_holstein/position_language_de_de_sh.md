@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Geltung des Hochdeutschen, wie es in Schleswig-Holstein geschrieben und gesprochen wird, die überregionale Schriftsprache des nördlichsten Landes, die Sprache des Amts, der Schule, der Zeitung und des Bildschirms. Sie ist nicht die alte Sprache der Küste, das ist das Platt, sondern die hochdeutsche Norm, dieselbe wie im ganzen Land, die hier über dem Niederdeutschen liegt und ihm zugleich Schrift und Amt abnimmt. So hält sie die Norm des geschriebenen Deutsch zwischen den Meeren, die Sprache, in der das Land nach aussen spricht und sich selbst verwaltet.
+Die Mittel des Hochdeutschen, die es mit jeder Region teilt: das Bauwort, das ganze Vorstellungen in ein Wort presst, und der lange Satz, der ein Gefüge von Nebensätzen trägt, bis das Verb am Ende schließt. Dazu, im hohen Norden, eine Aussprache, die dem gelehrten Klang der Bühne näher bleibt als anderswo, weil hier kein eigener hochdeutscher Dialekt die Laute färbt, sondern das ganz anders gebaute Niederdeutsche darunterliegt.
 
 ## Orders
 
-Was als gutes Deutsch auf dem Papier des Landes gilt, die Rechtschreibung und das Register der Behörde, der Schule und der Presse. Es ordnet an, was in den amtlichen Text, auf das Formular und in die Nachricht geht, es setzt den öffentlichen Ton des Landes und zieht die Linie zwischen der knappen Rede der Küche und des Deichs und der gemessenen Schriftform, die das Land von sich selbst erwartet.
+Es zwingt, wie überall im Deutschen, bei jedem Ding ein Geschlecht und bei jedem Satz einen der vier Fälle zu wählen, das Verb im Nebensatz bis zuletzt zurückzuhalten und bei jeder Anrede zwischen Sie und du zu entscheiden. Im Land zwischen den Meeren verlangt es zudem eine klare, wenig gefärbte Aussprache, weil kein eigener hochdeutscher Dialekt die Laute weich macht und das Platt darunter der Standardlautung fremd bleibt.
 
 ## Loses
 
-Boden an das Englische der offenen, vernetzten Welt, das den Jungen wie Merle schon auf der Zunge liegt und den Alltag der Arbeit füllt. Und es ist nie die ganze Sprache der Küste: unter ihm liegt das Platt der Häfen und der Deiche, die Sprache des Herzens, die es aus Schule und Amt verdrängt hat, ohne je ganz an ihre Stelle im Ohr und am Tisch zu treten. So regiert es die Schrift, aber nicht das letzte, leiseste Wort der Küste.
+Boden an das Englische, das vielen Jungen längst geläufiger ist als mancher Nebensatzbau. Und es ist nie die ganze Sprache der Küste: unter ihm liegt das Platt der Häfen und der Deiche mit einem eigenen, knappen Zwei-Fall-System und eigenen Wörtern, die das Hochdeutsche nicht kennt und die beim Übertragen ins Hochdeutsche verloren gehen.
 
 ## Drives
 
-Es treibt das Land zwischen den Meeren, in gemessener Schriftsprache zu verwalten, zu dichten und sich zu behaupten. Es lebt in [Theodor Storm](persona_storm.md), der die niederdeutsche Küste in hochdeutscher Schrift festhält; in [Merle](persona_merle.md), der Jungen, die Hochdeutsch spricht und denkt, während ihr das Platt der Großeltern fremd wird; und in [Karl Artelt](persona_artelt.md), dem Matrosen, dessen klare Rede von unten sich gegen das herrische Kommandodeutsch der Offiziere stellt. So wird das Hochdeutsche zugleich Schrift des Amts, Sprache der Dichtung und Wort der einfachen Leute.
+Es gewöhnt, wer in ihm aufwächst und schreibt, an eine klare, kaum gefärbte Aussprache, die dem Fremden aus dem Süden fast lehrbuchhaft klingt. Es treibt zugleich, den Gedanken erst ganz zu bauen und dann mit dem Verb zu schließen, und es gewöhnt an die ständige Wahl der Anrede, während unter jedem Satz das andere, ältere Sprachgefüge der Küste mitschwingt.

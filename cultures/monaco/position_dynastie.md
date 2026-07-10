@@ -34,4 +34,4 @@ De sa légitimité si des crises de succession menacent l'indépendance ou si de
 
 ## Drives
 
-Assure la continuité dynastique initiée par François Grimaldi en [1297](plot_01_grimaldi_1297.md) et guide la loyauté de [Albert](persona_albert.md).
+Assure la continuité dynastique initiée par François Grimaldi en [1297](plot_01_grimaldi_1297.md) et guide la loyauté des Monégasques de souche, pour qui elle demeure un rempart contre l'annexion.

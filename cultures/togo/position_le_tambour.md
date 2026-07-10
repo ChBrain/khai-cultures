@@ -34,4 +34,4 @@ Du terrain quand le rythme se vend sans son ame, quand on prend la peau et la da
 
 ## Drives
 
-Vit dans [Bella Bellow](persona_bella.md), la voix qui a porte le chant togolais sur les ondes du monde, et dans [King Mensah](persona_mensah.md), qui a repris le tambour des anciens pour le faire danser au present. Elle pousse le Togo a se dire en rythme, a tenir le nord et le sud sur la meme cadence, et a faire entendre, par la peau et par la voix, qu'un petit pays peut chanter grand.
+Vit dans la voix qui a porte le chant togolais sur les ondes du monde, et dans le tambour repris des anciens pour le faire danser au present. Elle pousse le Togo a se dire en rythme, a tenir le nord et le sud sur la meme cadence, et a faire entendre, par la peau et par la voix, qu'un petit pays peut chanter grand.

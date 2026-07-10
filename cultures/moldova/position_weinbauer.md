@@ -33,4 +33,4 @@ Din importanță atunci când tinerii părăsesc satele pentru a lucra la oraș 
 
 ## Drives
 
-Definește viața de zi cu zi a lui [Radu](persona_radu.md), care își îngrijește vița de vie, și susține viața economică și socială din [Mileștii Mici](place_milestii_mici.md).
+Definește viața de zi cu zi a viticultorului care își îngrijește vița de vie, și susține viața economică și socială din [Mileștii Mici](place_milestii_mici.md).

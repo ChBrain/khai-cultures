@@ -34,4 +34,4 @@ Ground when the pride of the kingdom hardens into a wall against the others, whe
 
 ## Drives
 
-Lives in [the Kabaka Mutesa I](persona_mutesa.md), who ruled Buganda from the Lubiri as a king in his own right and held his kingdom's power before any nation was raised over it. It drives Uganda to carry its kingdoms with pride into the present, to honour the elder and the throne, and to face the standing question of how so many proud peoples are to be held, each whole, as one.
+Lives in the Kabaka's throne, which ruled Buganda from the Lubiri as a king in its own right and held the kingdom's power before any nation was raised over it. It drives Uganda to carry its kingdoms with pride into the present, to honour the elder and the throne, and to face the standing question of how so many proud peoples are to be held, each whole, as one.

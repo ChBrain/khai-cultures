@@ -34,4 +34,4 @@ Its balance when global railway shipping tariffs override local grain margins, r
 
 ## Drives
 
-Guides the agricultural boom in the plot [The Red River Valley Wheat Boom 1870](plot_01_red_river_wheat.md) and drives the farming operations of [Harvey](persona_harvey.md).
+Guides the agricultural boom in the plot [The Red River Valley Wheat Boom 1870](plot_01_red_river_wheat.md) and drives the farming operations run by the valley's wheat farmers.

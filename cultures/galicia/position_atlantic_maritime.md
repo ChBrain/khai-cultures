@@ -34,4 +34,4 @@ Su equilibrio cuando las grandes flotas industriales de arrastre obtienen cuotas
 
 ## Drives
 
-Guía el desarrollo pesquero en el relato [El Estatuto de Galicia 1981](plot_03_statute.md) y orienta el faenado diario de [Xoán](persona_xoan.md).
+Guía el desarrollo pesquero en el relato [El Estatuto de Galicia 1981](plot_03_statute.md) y orienta el faenado diario de quienes salen a faenar en las rías.

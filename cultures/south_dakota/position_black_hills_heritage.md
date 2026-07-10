@@ -34,4 +34,4 @@ Its balance when state-led tourism expansions override reservation land boundari
 
 ## Drives
 
-Guides the local coordination in the plot [The Wounded Knee Occupation 1973](plot_03_wounded_knee.md) and drives the heritage work of [Dakota](persona_dakota.md).
+Guides the local coordination in the plot [The Wounded Knee Occupation 1973](plot_03_wounded_knee.md) and drives the heritage work carried out by the tribal councils.

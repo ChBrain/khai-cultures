@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Il valore dell'indipendenza e dell'esenzione da poteri esterni. Essa possiede la memoria di San Marino fondatore e l'autonomia delle istituzioni della repubblica.
+Il valore dell'indipendenza e dell'esenzione da poteri esterni. Essa possiede la memoria della fondazione e l'autonomia delle istituzioni della repubblica.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Di significato se il piccolo Stato si asservisce economicamente o politicamente 
 
 ## Drives
 
-Fonda l'identità repubblicana descritta nel Plot [La fondazione da parte di San Marino 301](plot_01_marino_301.md) e indirizza il rigore etico di [Marino](persona_marino.md).
+Fonda l'identità repubblicana descritta nel Plot [La fondazione da parte di San Marino 301](plot_01_marino_301.md) e indirizza il rigore etico del fondatore.

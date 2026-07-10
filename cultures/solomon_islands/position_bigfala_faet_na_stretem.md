@@ -34,4 +34,4 @@ Hem lus graon taem pipol haedem kros an no stretem, taem trabol go andanit an we
 
 ## Drives
 
-Hem stap insaed long [Sir Jacob Vouza](persona_vouza.md), wea long Gwadalkanal stap strong tru long bigfala faet an kamap hiro, an wea bihaen long laef blong hem hem standap blong stretem an joinim olketa man bak. Hem pusum Solomon Aelan blong luksave se afta evri faet, smolwan o bigwan, neson ia mas sidaon an stretem bak, bikos hem nao onli rod blong wantok an neson blong stap tugeta gen.
+Hem stap insaed long evri man wea long Gwadalkanal stap strong tru long bigfala faet an kamap hiro, an wea bihaen long laef blong hem hem standap blong stretem an joinim olketa man bak. Hem pusum Solomon Aelan blong luksave se afta evri faet, smolwan o bigwan, neson ia mas sidaon an stretem bak, bikos hem nao onli rod blong wantok an neson blong stap tugeta gen.

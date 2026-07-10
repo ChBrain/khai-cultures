@@ -34,4 +34,4 @@ Bo lahleheloa ke matla ha lithaba li fetoha lefella le sa fepang batho, ha bofum
 
 ## Drives
 
-Bo phela ho [Puseletso Seema](persona_seema.md), ea fetisang molumo oa lithaba le oa balisana lefatšeng ka pina, le ho [Molisana](persona_molisana.md), ea bonang naha pele ho bohle a alositse a apere kobo. Bo susumetsa Lesotho ho ba motlotlo ka naha ea eona e phahameng marung, ho boloka bophelo ba lithaba le seriti sa balisana ba sona.
+Bo phela ho seopeli, ea fetisang molumo oa lithaba le oa balisana lefatšeng ka pina, le ho molisana, ea bonang naha pele ho bohle a alositse a apere kobo. Bo susumetsa Lesotho ho ba motlotlo ka naha ea eona e phahameng marung, ho boloka bophelo ba lithaba le seriti sa balisana ba sona.

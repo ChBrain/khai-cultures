@@ -34,4 +34,4 @@ An Mahnkraft, wenn die Erinnerung zu einem bloßen touristischen Spektakel verko
 
 ## Drives
 
-Bestimmt die Biografie von [Dieter](persona_dieter.md) und treibt die Handlung im Plot [Der Bau der Berliner Mauer 1961](plot_01_division_1961.md) voran.
+Bestimmt die Biografie derer, die die Jahre der Teilung im Ostteil der Stadt durchlebt haben, und treibt die Handlung im Plot [Der Bau der Berliner Mauer 1961](plot_01_division_1961.md) voran.

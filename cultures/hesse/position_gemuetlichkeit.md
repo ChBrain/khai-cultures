@@ -34,4 +34,4 @@ An Bedeutung, wenn Gentrifizierung die alten Wirtshäuser verdrängt oder wenn d
 
 ## Drives
 
-Wird verkörpert durch das Symbol [der Bembel](piece_bembel_jug.md) und lenkt das Handeln von Wirt [Heinz](persona_heinz.md) im Plot [Das Frankfurter Paulskirchenparlament 1848](plot_01_frankfurt_constitution_1848.md).
+Wird verkörpert durch das Symbol [der Bembel](piece_bembel_jug.md) und lenkt das Handeln der Wirte im Plot [Das Frankfurter Paulskirchenparlament 1848](plot_01_frankfurt_constitution_1848.md).

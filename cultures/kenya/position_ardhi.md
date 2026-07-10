@@ -34,4 +34,4 @@ Inapoteza nguvu pale pupa ya mbao na ardhi inapozidi upendo wa misitu, miti ikik
 
 ## Drives
 
-Inaishi ndani ya [Wangari Maathai](persona_wangari.md), aliyeanzisha Ukanda wa Kijani na kupanda mamilioni ya miti kwa mikono ya wanawake, na ndani ya [Eliud Kipchoge](persona_kipchoge.md), aliyezaliwa na kufunzwa na nyanda za juu za Bonde la Ufa, ardhi ikampa pumzi na miguu. Inaliendesha taifa la Kenya kuilinda ardhi yake kama uhai wake, kwa kupanda na kutunza, ili nchi iendelee kuwa ya kijani juani.
+Inaishi ndani ya vuguvugu la upandaji miti lililoanzishwa kuokoa misitu, likipanda mamilioni ya miti kwa mikono ya wanawake, na ndani ya wanariadha wa masafa marefu waliozaliwa na kufunzwa na nyanda za juu za Bonde la Ufa, ardhi ikiwapa pumzi na miguu. Inaliendesha taifa la Kenya kuilinda ardhi yake kama uhai wake, kwa kupanda na kutunza, ili nchi iendelee kuwa ya kijani juani.

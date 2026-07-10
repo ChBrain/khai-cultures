@@ -34,4 +34,4 @@ E faaitiitia pe a galo le tiga ma le maliu na totogi mo le faamoemoe, pe a manat
 
 ## Drives
 
-O loo ola i [Tupua Tamasese Lealofi III](persona_tamasese.md), o le taitai o le Mau na maliu ona o le faamoemoe, ma i [Olaf Frederick Nelson](persona_olaf_nelson.md), o le faioloa afa Samoa na fesoasoani i le Mau i lana tupe ma lana leo. E uunaia ai Samoa e taofi le manatu e faapea o le pule e tatau ona i ai i tagata Samoa lava ia, ma e maua le suiga i le filemu, e le i le auupega.
+O loo ola i le taitai o le Mau na maliu ona o le faamoemoe, ma i le faioloa afa Samoa na fesoasoani i le Mau i lana tupe ma lana leo. E uunaia ai Samoa e taofi le manatu e faapea o le pule e tatau ona i ai i tagata Samoa lava ia, ma e maua le suiga i le filemu, e le i le auupega.

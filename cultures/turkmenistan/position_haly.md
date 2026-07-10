@@ -34,4 +34,4 @@ Haly diňe söwda zady edilip, göli many-mazmunyndan aýrylanda we bahasy ölç
 
 ## Drives
 
-[halyçy](persona_halycy.md)da ýaşaýar, ol sapaklaryň arasynda taýpanyň ýadyny dokaýar, we [Mollanepes](persona_mollanepes.md)de, onuň näzik, nagyşly sözi haly ýaly inçe örülendir. Ol Türkmenistany öz göllerini, reňklerini we dokama bilimini millet möhri hökmünde saklamaga iterýär.
+halyçylykda ýaşaýar, ol sapaklaryň arasynda taýpanyň ýadyny dokaýar, we şygryýetde, onuň näzik, nagyşly sözi haly ýaly inçe örülendir. Ol Türkmenistany öz göllerini, reňklerini we dokama bilimini millet möhri hökmünde saklamaga iterýär.

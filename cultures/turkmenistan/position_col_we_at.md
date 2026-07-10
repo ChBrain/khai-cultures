@@ -34,4 +34,4 @@ Türkmen durmuşynyň iki sütüni: bir ýanda Garagumyň ümsüm, gaty we beýi
 
 ## Drives
 
-[Berdi Kerbabaýew](persona_kerbabaev.md)de ýaşaýar, ol çölden we taýpa durmuşyndan häzirki zaman edebiýatyny ýasady, we [halyçy](persona_halycy.md)da, ol çölüň reňklerini we atyň keşbini halysyna geçirýär. Ol Türkmenistany çölüň synagyna we atyň abraýyna wepaly bolmaga, ýaşaýşyny şu iki sütüniň üstünde saklamaga iterýär.
+edebiýatda ýaşaýar, ol çölden we taýpa durmuşyndan häzirki zaman edebiýatyny ýasady, we halyçylykda, ol çölüň reňklerini we atyň keşbini halysyna geçirýär. Ol Türkmenistany çölüň synagyna we atyň abraýyna wepaly bolmaga, ýaşaýşyny şu iki sütüniň üstünde saklamaga iterýär.

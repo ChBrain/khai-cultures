@@ -34,4 +34,4 @@ Su equilibrio cuando los tablaos turísticos comerciales reducen el repertorio a
 
 ## Drives
 
-Guía el desarrollo artístico en el relato [La Exposición Iberoamericana de Sevilla 1929](plot_01_exposition.md) y orienta la afinación de guitarras de [Rocío](persona_rocio.md).
+Guía el desarrollo artístico en el relato [La Exposición Iberoamericana de Sevilla 1929](plot_01_exposition.md) y orienta la afinación de guitarras de la cantaora que lleva el cante jondo en su voz.

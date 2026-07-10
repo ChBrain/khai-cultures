@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The pouer o the braid Scots o the Lawlands, a leid in its ain richt an no the gutter o English: the sister tongue, wi its ain words, its ain grammar, an a screivit lear that [Burns](persona_burns.md) liftit intae sang. It hauds the warmth o the ingle, the byre an the causey, the leid a Scot spaeks amang their ain fowk, frae the Mearns doun tae the Borders.
+The Scots tongue hauds a hantle o Germanic wirds an soonds that English hasnae keepit: the guttural "ch" in loch an nicht, wirds drawn frae Norse an Dutch throu the auld tred wi the Laich Countras an Scandinavia, an a leevin "-ie" endin that maks a wee thing tender, lassie, bookie, wifie, whaur English juist hauds the bare wird.
 
 ## Orders
 
-Whit passes for guid Scots amang kith an on the causey: the auld words, the sweir turns o phrase, the gate o speakin that a bodie taks up wi their ain an lays by for the schuil, the office an the prentit page. It orders the quiet twa-haundedness o the Lawland Scot, whaur the tane tongue cairries the hert an the tither the form, an it tells whit's guid braid Scots an whit's but sloppit English pit on for a swank.
+It orders its ain negation, fastened richt ontae the verb, cannae, dinnae, willna, whaur English maun pit a hale word "not" efter; an in its auld form it hauds the Northern Subject Rule, that gars the verb tak a different endin whan the subject staunds richt aside it as a pronoun frae whan it disnae.
 
 ## Loses
 
-Grund tae staundart English, that rules the classroom, the screen an the prentit page, an that lang lairnt the Scots tae caa their ain speak "bad English" an tae be affrontit o it. It dwines doun tae a register an a souch, hauden hale nae mair nor by thae fowk that yet claim it for a leid, while the lave lat it slip awa intae a wheen guid words drappit inower an English sentence.
+It hauds nae ae, fixed spellin o its ain, sae ilka scriever maun choose atween twa or three weys o screivin the same wird, whaur English lang syne settlt on ane. It dwines, tae, at the mairch wi English, whaur a Scots wird gets taen for a mistak raither nor its ain thing, an the technical an legal wirds are aye borrowed hale frae the ither tongue.
 
 ## Drives
 
-It lives in [Burns](persona_burns.md), that made the ploughman's tongue a lear nae lord could whummle, an in [Eilidh](persona_eilidh.md), that slips intae it on the causey athoot thinkin; an it drives Scotland tae argie, yet, whether whit it spaeks is a leid or juist a wey o speakin English, an tae tak a levellin pride in the plain word ower the genteel ane.
+It gars the bodie that speaks it hae an lug for the guttural an the wee endin, an a mind that hings atween twa spellins for the same wird ilka time it's screivit doun. It shapes a plain, hamely wey o thinkin, biggit on wirds for the lift, the land an the beast, an a bodie that kens, wioot bein taucht, whaur on the continuum atween Scots an English ilka wird o theirs faws.

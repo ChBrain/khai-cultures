@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The prestige standard of the English tongue as it is settled in England: received pronunciation and the grammar of the public school and the BBC, with the King James Bible and Johnson's Dictionary behind it. It is the codified English of the drawing-room and the despatch box, the voice that places a person the moment they open their mouth, and the accent that opens the doors that matter.
+A double vocabulary, Germanic root beside Norman French and Latin loan, that gives near-synonyms at different registers for the same thing (kingly, royal, regal); the free conversion of noun into verb and back without changing a letter (to email, a look, to look); and the phrasal verb, a small verb plus a preposition that multiplies meaning without ever minting a new root (look up, put off, take in). Its thin grammar lets it borrow and coin new words fast.
 
 ## Orders
 
-That one is heard as one's class before one is heard as oneself: that the received voice is "correct" and the regional voice a falling-short, and that the interview, the bench, and the drawing-room reward the right vowels. It makes how a person speaks matter as much as what they say, and turns the whole tangle of English accents into one measured standard against which the rest are judged.
+That tense and aspect be marked by a chain of auxiliary verbs rather than a single ending, every time (is doing, has done, will have done); that near enough every noun phrase carry a marked article for definiteness (a, the); that grammatical role be fixed by word order, since case has all but vanished except in the pronoun (I/me, he/him); and that every question and every negative be built with "do" wherever no other auxiliary is present (do you go, I don't know).
 
 ## Loses
 
-Ground as Estuary, regional, and multicultural London speech rise and received pronunciation itself softens; the old plummy voice becomes a liability as often as an asset, and the shame once pinned on the dropped aitch slowly eases. It loses ground, too, to the many Englishes of the world, which took the tongue and answer to no English standard.
+Grammatical gender on the noun, so it cannot sort a thing into a class the way many tongues still do; and, above all, the line between close and formal address, since "you" now serves both and the old second-person split (thou for the near, you for the distant) is gone. What other tongues carry in the pronoun itself, English must carry instead in tone, title, and the words chosen around it, or else leave uncarried.
 
 ## Drives
 
-It is the mother tongue of England, one standard worn many ways. It is the natural ground of [Henry VIII](persona_henry_viii.md), the scholar-king who makes an English question England's alone and, in time, sets the English word over the altar; it lives in [Edith](persona_edith.md)'s level gentry key, worn without a thought; it is what [Liam](persona_liam.md) sets his broad northern vowels against with hard pride; and it is the polite voice [Dickens](persona_dickens.md) wrote the street against. It drives England to hear class in every vowel and to sort its people by how, not what, they speak.
+It trains the ear to listen for standing in accent and word choice rather than in grammar, since the grammar itself gives no peg for it; it habituates the speaker to build tense and aspect through a string of auxiliaries instead of a single suffix; and its thin inflection leaves it open to any foreign word with little resistance, so borrowing becomes a reflex rather than an effort. It shapes a mind alert to nuance of register where the grammar itself stays plain.

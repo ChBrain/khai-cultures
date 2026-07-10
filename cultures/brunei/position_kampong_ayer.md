@@ -34,4 +34,4 @@ Tanahnya tergugat apabila yang muda berpindah ke darat dan lorong-lorong air men
 
 ## Drives
 
-Hidup dalam [Muslim Burmat](persona_muslim_burmat.md), yang merakam dunia kampung dan sungai ke dalam novel-novelnya, dan dalam [tukang sampan Kampong Ayer](persona_tukang_sampan.md), penjaga cara hidup di atas air yang terus mendayung melintasi sungai negeri. Ia mendorong Brunei untuk mengingati bahawa ia lahir di atas air, dan untuk menjaga kampung di atas sungai itu sebagai akar dan jantungnya.
+Hidup dalam novel-novel yang merakam dunia kampung dan sungai, dan dalam pendayung yang terus menjaga cara hidup di atas air, mendayung melintasi sungai negeri turun-temurun. Ia mendorong Brunei untuk mengingati bahawa ia lahir di atas air, dan untuk menjaga kampung di atas sungai itu sebagai akar dan jantungnya.

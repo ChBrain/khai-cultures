@@ -34,4 +34,4 @@ Du terrain quand l'un des deux bords se croit le vrai Togo et regarde l'autre de
 
 ## Drives
 
-Vit dans [la Nana Benz](persona_nana.md), qui porte le pagne du sud jusqu'aux marches du nord et fait circuler d'un bord a l'autre le meme negoce, et dans [Felix Couchoro](persona_couchoro.md), qui a pris la plume pour raconter le pays a lui-meme. Elle pousse le Togo a se tenir d'un seul tenant, du grain au sel, et a faire de son etroitesse non une faiblesse mais la preuve qu'on peut tenir beaucoup de monde sur peu de terre.
+Vit dans le commerce qui porte le pagne du sud jusqu'aux marches du nord et fait circuler d'un bord a l'autre le meme negoce, et dans l'ecriture qui prend la plume pour raconter le pays a lui-meme. Elle pousse le Togo a se tenir d'un seul tenant, du grain au sel, et a faire de son etroitesse non une faiblesse mais la preuve qu'on peut tenir beaucoup de monde sur peu de terre.

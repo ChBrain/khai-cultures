@@ -34,4 +34,4 @@ Alov qədim mənasından qopub yalnız bir simvola, turistin şəkli çəkdiyi b
 
 ## Drives
 
-[Mirzə Fətəli Axundzadə](persona_akhundov.md)də yaşayır, qədim torpağı maarifin yeni işığı ilə oyatmaq istəyən maarifçidə, köhnə ilə yeninin arasında dayanan adamda. O, Odlar Yurdunu öz qədimliyini unutmadan irəli aparmağa, alovu söndürmədən yeni bir ocağa köçürməyə çağırır.
+Qədim torpağı maarifin yeni işığı ilə oyatmaq istəyən maarifçidə, köhnə ilə yeninin arasında dayanan adamda yaşayır. O, Odlar Yurdunu öz qədimliyini unutmadan irəli aparmağa, alovu söndürmədən yeni bir ocağa köçürməyə çağırır.

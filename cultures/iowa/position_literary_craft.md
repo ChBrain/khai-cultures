@@ -34,4 +34,4 @@ Its balance when excessive commercial publishing consolidation reduces author ro
 
 ## Drives
 
-Guides the creative writing programs in the plot [The Writers' Workshop Launch 1936](plot_03_writers_workshop.md) and drives the workshop coordination of [Ruth](persona_ruth_ia.md).
+Guides the creative writing programs in the plot [The Writers' Workshop Launch 1936](plot_03_writers_workshop.md) and drives the workshop coordination carried out by its instructors.

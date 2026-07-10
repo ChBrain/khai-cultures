@@ -34,4 +34,4 @@ Du terrain quand on prend le Vodun pour de la peur ou de la magie, quand on en f
 
 ## Drives
 
-Vit dans [Daagbo Hounon](persona_daagbo_hounon.md), le grand pretre de Ouidah qui tient le culte droit et le defend comme une foi vivante. Il pousse le Benin a se tenir debout sur son invisible, a honorer ses morts et a porter au monde, sans honte, une religion qui est sa part la plus ancienne et la plus profonde.
+Vit dans le sacerdoce de Ouidah qui tient le culte droit et le defend comme une foi vivante. Il pousse le Benin a se tenir debout sur son invisible, a honorer ses morts et a porter au monde, sans honte, une religion qui est sa part la plus ancienne et la plus profonde.

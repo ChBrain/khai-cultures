@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Lietuvių kalba, archajiškiausia gyva indoeuropiečių kalba, baltų šaka, kuri išlaikė senas formas, dingusias kitose Europos kalbose, ir nė vienam kaimynui suprantamai nėra gimininga. Ją spaudė rusų ir lenkų kalbos: Abiejų Tautų Respublikoje sulenkėjo didikai, o 1864-1904 metais caras uždraudė lietuvišką spaudą lotyniškomis raidėmis ir vertė kirilicą. Knygnešiai slapta gabeno knygas per sieną, ir kalba išliko. Kai tauta neturėjo valstybės, jos tėvynė buvo kalba, daina ir žodis iš namų.
+Lietuvių kalba išlaikė linksnių sistemą ir dvejopą kirčiavimą ant ilgųjų skiemenų, tvirtapradę ir tvirtagalę priegaidę, kurias daugelis kitų indoeuropiečių kalbų jau seniai prarado; tuo ji artimiausia iš gyvų kalbų senajai bendrai indoeuropiečių kalbai. Ji turi septynis linksnius, kurie patys žymi žodžio vaidmenį sakinyje, todėl žodžių tvarka gali laisvai keistis nepakeičiant sakinio prasmės. Ji taip pat gausiai vartoja mažybines formas, kurios prie bet kurio daiktavardžio prideda švelnumo ar mažumo atspalvį.
 
 ## Orders
 
-Kad kalbama ir rašoma lietuviškai net ten, kur viešpatavo rusų ar lenkų kalba, kad kalba puoselėjama ir perduodama kaip slapta išsaugotas turtas, ir kad tauta pažįstama iš kalbos ir dainos, ne iš valstybės, kurią ji atgavo tik galiausiai.
+Kiekvienas daiktavardis privalo turėti vieną iš septynių linksnių ir vieną iš dviejų giminių, ir ši galūnė, o ne vieta sakinyje, rodo, kas yra veiksnys, o kas papildinys. Ilgajame skiemenyje privalu rinktis vieną iš dviejų priegaidžių, tvirtapradę ar tvirtagalę, o veiksmažodžio priešdėlis kiekviename sakinyje verčia nurodyti, ar veiksmas baigtas, ar dar tęsiasi.
 
 ## Loses
 
-Žemę šiandien praranda atviro pasaulio anglų kalbai, kuria jaunimas dirba ir gyvena svetur, ir didžiulei emigracijai: išeivių vaikai pereina į savo naujo krašto kalbą, ir archajiškiausia gyva kalba plonėja iš kartos į kartą. Namuose ir kasdienybėje vis daugiau svetimų žodžių.
+Praranda paprastumą, kurį turi kalbos be linksnių, nes kiekviena galūnė turi būti parinkta tiksliai, o klaida iškart skamba svetimai. Praranda ir dalį senųjų archajiškų formų bei dvejybinio skaičiaus liekanų, kurios dar gyvos tarmėse, bet bendrinėje kalboje išlygintos, o miesto kalboje ilgojo skiemens priegaidė kartais nustoja skambėti dvejopai.
 
 ## Drives
 
-Gyvena kiekviename, kuris ją turi kaip gimtąją. [Vytautas Didysis](persona_vytautas_didysis.md) ją kalba kaip baltų valdovas, nors jo tauta jos dar nerašo; [Basanavičius](persona_basanavicius.md) atgaivino uždraustą kalbą ir spausdino ją lotyniškomis raidėmis svetur; [Landsbergis](persona_landsbergis.md) būtent ja paskelbė atkurtą valstybę pro tankus; [Ona](persona_ona.md) išlaikė ją ir kryžių sveiką, kai Sibiras norėjo atimti abu; o [Manto](persona_mantas.md) vaikuose archajiška kalba plonėja link naujo krašto anglų kalbos. Varo Lietuvą laikytis senos kalbos kaip įrodymo, kad tauta yra sava, net kai valstybę atgavo paskutinė.
+Pratina kalbantįjį nuo vaikystės girdėti ilgojo skiemens priegaidę ir be dvejonės parinkti tinkamą linksnį, dar nebaigus sakinio. Pratina mąstyti apie žodžių tvarką laisvai, nes prasmę neša ne vieta, o galūnė, ir pratina kiekviename veiksmažodyje pažymėti, ar veiksmas jau baigtas. Taip ši kalba formuoja kalbėtoją, kuris girdi savo kalboje seniausius indoeuropiečių kalbos sluoksnius dar gyvus.

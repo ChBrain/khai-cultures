@@ -34,4 +34,4 @@ Krenarinë nëse harrohen vuajtjet e kaluara ose nëse ndarjet e brendshme dëmt
 
 ## Drives
 
-Përcakton jetën e përditshme të [Adem](persona_adem.md), i cili punon tokën në [Rugova](place_rugova.md), dhe mban gjallë kujtesën e betejës së vitit [1389](plot_01_battle_1389.md).
+Përcakton jetën e përditshme të bujqve malësorë që punojnë tokën në [Rugova](place_rugova.md), dhe mban gjallë kujtesën e betejës së vitit [1389](plot_01_battle_1389.md).

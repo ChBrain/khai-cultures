@@ -34,4 +34,4 @@ Its balance when excessive commercial resort development restricts public valley
 
 ## Drives
 
-Guides the conservation projects in the plot [The Yellowstone National Park Establishment 1872](plot_02_yellowstone.md) and drives the ranger work of [Bruce](persona_bruce.md).
+Guides the conservation projects in the plot [The Yellowstone National Park Establishment 1872](plot_02_yellowstone.md) and drives the ranger's work, the patrol and rescue that keeps the wilderness both wild and safe to enter.

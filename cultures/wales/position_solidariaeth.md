@@ -34,4 +34,4 @@ Ground where loyalty turns tribal and inward, suspicious of anyone outside the f
 
 ## Drives
 
-It lives in [Aneurin Bevan](persona_bevan.md), who carried the federation's creed from the pit to the national stage, and in [Rhys](persona_rhys.md), who keeps the belonging of the coalfield long after the coal, and it is the temper the southern Valleys gave to the whole nation.
+It lives wherever the federation's creed is carried from the pit to the national stage, made into policy that outlasts the industry that bred it, and wherever the belonging of the coalfield is kept alive long after the coal is gone, and it is the temper the southern Valleys gave to the whole nation.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Le français du Burkina Faso, hérité de la colonie et gardé comme langue de l'administration, de l'école et de la loi. Ce n'est la langue maternelle de presque personne, mais c'est la langue commune, celle qui passe par-dessus le moore des Mossi, le dioula des marchés, le fulfulde des Peuls et la soixantaine d'autres parlers du pays. C'est le français de la tribune et du dossier, celui qu'on apprend à l'école et qu'on porte pour traiter avec l'État et avec le dehors, la langue sur laquelle le pays écrit et signe.
+Le genre grammatical, qui oblige l'article, l'adjectif et parfois le participe à s'accorder avec chaque nom, masculin ou féminin; le subjonctif, qui distingue dans la forme même du verbe le fait certain du souhait, du doute ou de la nécessité; et un vocabulaire abstrait d'origine latine, hérité de l'administration et du droit, qui permet de nommer la loi, l'institution et l'idée avec une précision que les langues de tradition orale du pays n'ont pas à construire de la même manière.
 
 ## Orders
 
-Ce qui, dans le pays, s'écrit et se signe : l'acte, la loi, le journal, le diplôme et le discours officiel. Il ordonne quelle langue tient le registre et la carte, laquelle porte le nom du pays au-dehors, et fait d'une terre à soixante langues une seule voix administrative. Il fixe le français comme la forme où le Burkina se dit d'une seule bouche au reste du monde, sans effacer les langues de la bouche et du marché qui vivent sous lui.
+Il force l'accord du genre à chaque nom, sans exception, dans l'article qui le précède et l'adjectif qui l'accompagne; il force le choix entre tu et vous à chaque adresse, mesurant la distance sociale dans la forme même du verbe; et il force la liaison, ce lien sonore entre la fin d'un mot et le début du suivant, qui change le son d'une phrase selon ce qui la suit.
 
 ## Loses
 
-Du terrain aux langues de la maison et du marché, le moore et le dioula, que les gens parlent de naissance et où bat le cœur du pays. Il perd aussi quand la parole la plus vraie, celle de l'intégrité, ne se dit tout à fait ni en français ni dans aucune langue, mais se garde au bord du mot, dans un nom plutôt que dans une phrase. Langue héritée et non maternelle, il reste la langue du papier plus que celle du chant, et bien des choses du pays lui échappent.
+Il perd le ton et les classes nominales du mooré ou du dioula, si bien qu'aucune mélodie ni aucun préfixe de classe ne porte plus, dans ses mots, la nuance que ces langues du pays portent d'instinct; il perd aussi la chaleur du proverbe oral, raidie quand elle passe par sa grammaire écrite et administrative, et la précision de son vocabulaire juridique ne rend pas toujours les mots de parenté que les langues maternelles disent sans effort.
 
 ## Drives
 
-Il vit dans [Thomas Sankara](persona_sankara.md), qui en fit la langue de la dignité et du refus et le tourna en flamme pour réveiller les siens. Il sert [le Mogho Naba](persona_naba.md) quand il faut traiter avec la République, [Gaston Kabore](persona_kabore.md) qui l'écrit pour le métier, l'école et les festivals, [Victor Deme](persona_deme.md) qui le porte comme langue de passage sur les plateaux du monde, et [le joueur de balafon](persona_griot.md) qui l'attrape d'oreille selon les besoins de la ville sans qu'il entre jamais dans son chant. Ainsi la langue commune du pays montre qui la tient de plein droit et qui la porte seulement pour passer, tandis que le cœur, lui, se dit ailleurs.
+Il pousse celui qui pense en lui à surveiller sans relâche le genre et le degré de formalité de chaque adresse, à construire des phrases où le mode du verbe signale seul si un fait est certain, souhaité ou seulement possible, et à tenir une frontière nette entre le registre écrit et administratif qu'il porte et les registres oraux des langues du pays qu'il surplombe.

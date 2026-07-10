@@ -34,4 +34,4 @@ An Kraft, wenn Zechenbrachen verfallen oder die jüngere Generation keinen Bezug
 
 ## Drives
 
-Prägt das Selbstverständnis von [Michel](persona_michel.md) und treibt die Bewahrung im Plot [Das Weltkulturerbe Völklinger Hütte ab 1986](plot_03_voelklingen_steel.md) voran.
+Prägt das Selbstverständnis der Berg- und Hüttenleute und treibt die Bewahrung im Plot [Das Weltkulturerbe Völklinger Hütte ab 1986](plot_03_voelklingen_steel.md) voran.

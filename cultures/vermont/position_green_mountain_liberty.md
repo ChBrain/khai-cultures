@@ -34,4 +34,4 @@ Its balance when excessive state-wide zoning mandates override local town decisi
 
 ## Drives
 
-Guides the local militia organizing in the plot [The Green Mountain Boys 1770](plot_01_green_mountain_boys.md) and drives the historical audits of [Ira](persona_ira.md).
+Guides the local militia organizing in the plot [The Green Mountain Boys 1770](plot_01_green_mountain_boys.md) and drives the historical audits kept by the militia archivist, the record that ties today's town to that first muster.

@@ -34,4 +34,4 @@ Ground when openness is taken for granted and the work of staying indispensable 
 
 ## Drives
 
-Lives in [Goh Keng Swee](persona_goh_keng_swee.md), who reasoned a living out of the harbour and the island's wits, no resources also can, and built the industries that made it indispensable. It drives Singapore to stay open to the world, to keep its crossroads worth crossing, and to turn its one asset, its place, into the substance of a global city.
+Lives in the economic planning that reasoned a living out of the harbour and the island's wits, no resources also can, and built the industries that made it indispensable. It drives Singapore to stay open to the world, to keep its crossroads worth crossing, and to turn its one asset, its place, into the substance of a global city.

@@ -34,4 +34,4 @@ Du terrain quand la sécheresse pousse les troupeaux trop loin et que les pâtur
 
 ## Drives
 
-Vit dans [Sarraounia Mangou](persona_sarraounia.md), reine enracinée dans sa terre et fidèle aux siens, et dans [le caravanier](persona_le_caravanier.md), qui conduit l'azalaï à travers le Ténéré et sait encore lire le ciel. Elle pousse le Niger à garder vivants le savoir du désert et la fierté du nomade, et à ne pas oublier que la moitié du pays se tient debout dans le sable.
+Elle vit dans la reine enracinée dans sa terre et fidèle aux siens, et dans le caravanier qui conduit l'azalaï à travers le Ténéré et sait encore lire le ciel. Elle pousse le Niger à garder vivants le savoir du désert et la fierté du nomade, et à ne pas oublier que la moitié du pays se tient debout dans le sable.

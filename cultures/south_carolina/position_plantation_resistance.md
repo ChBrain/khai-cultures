@@ -34,4 +34,4 @@ Its balance when commercial resort development increases property taxes, displac
 
 ## Drives
 
-Guides the cultural preservation in the plot [Gullah Geechee Heritage Corridor 2006](plot_03_gullah_geechee.md) and drives the basket weaving of [Elijah](persona_elijah.md).
+Guides the cultural preservation in the plot [Gullah Geechee Heritage Corridor 2006](plot_03_gullah_geechee.md) and drives the sweetgrass basket weaving carried on by the coastal Gullah families.

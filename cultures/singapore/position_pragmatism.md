@@ -34,4 +34,4 @@ Ground when the discipline that built the nation forgets the people it was meant
 
 ## Drives
 
-Lives in [Lee Kuan Yew](persona_lee_kuan_yew.md), who turned a separation no one wanted into a nation by asking only one thing, can or cannot, and will it last. It drives Singapore to govern by results, to place its people by what they can do, and to keep the rule of law and the long view as the insurance of the small.
+Lives in the founding leadership that turned a separation no one wanted into a nation by asking only one thing, can or cannot, and will it last. It drives Singapore to govern by results, to place its people by what they can do, and to keep the rule of law and the long view as the insurance of the small.

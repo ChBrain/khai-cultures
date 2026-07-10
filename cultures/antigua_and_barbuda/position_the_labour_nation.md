@@ -34,4 +34,4 @@ Ground when the labour movement's victory hardens into a power that forgets the 
 
 ## Drives
 
-Lives in [Vere Bird](persona_vere_bird.md), the labour leader the people called the father of the nation, who came up through the union to carry Antigua and Barbuda all the way to independence. It drives the nation to date its freedom from the people who organised for it, and to measure itself by whether the working many who won the country also share in it.
+Lives in the labour leader the people called the father of the nation, the man who came up through the union to carry Antigua and Barbuda all the way to independence. It drives the nation to date its freedom from the people who organised for it, and to measure itself by whether the working many who won the country also share in it.

@@ -34,4 +34,4 @@ Pierde teren când seninătatea fatalistă se face pasivitate și deznădejde: c
 
 ## Drives
 
-Trăiește în [Maria](persona_maria.md), femeia de la țară care își ține dorul întreg după copiii plecați și în doină și în liniștea ei împăcată cu soarta. Mână România să-și poarte jalea ca pe o adâncime, nu ca pe o povară, și să afle în dor și în doină un fel de a îndura fără să se piardă.
+Trăiește în femeia de la țară care își ține dorul întreg după copiii plecați și în doină și în liniștea ei împăcată cu soarta. Mână România să-și poarte jalea ca pe o adâncime, nu ca pe o povară, și să afle în dor și în doină un fel de a îndura fără să se piardă.

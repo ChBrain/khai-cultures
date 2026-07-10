@@ -34,4 +34,4 @@ Its balance when internal divisions and political factionalism distract from uni
 
 ## Drives
 
-Shapes the protests in the plot [The Overthrow of the Hawaiian Kingdom 1893](plot_02_overthrow.md) and guides the historical research of [Leilani](persona_leilani.md).
+Shapes the protests in the plot [The Overthrow of the Hawaiian Kingdom 1893](plot_02_overthrow.md) and guides the historical research that recovers the kingdom's story.

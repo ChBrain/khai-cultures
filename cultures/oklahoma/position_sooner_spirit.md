@@ -34,4 +34,4 @@ Its balance when excessive resource speculation degrades regional water quality,
 
 ## Drives
 
-Guides the petroleum boom in the plot [The Oklahoma Oil Boom 1897](plot_02_oil_boom.md) and drives the drilling management of [Jimmy](persona_jimmy.md).
+Guides the petroleum boom in the plot [The Oklahoma Oil Boom 1897](plot_02_oil_boom.md) and drives the drilling management carried on by the region's oil operators.

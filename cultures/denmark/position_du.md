@@ -34,4 +34,4 @@ Grund, hvor ligheden i ordet dækker over en ulighed, der består alligevel, så
 
 ## Drives
 
-Den lever i [Mads](persona_mads.md), der siger du fra første sekund, også til den dobbelt så gamle, og den er sprogets daglige udgave af [Janteloven](position_janteloven.md)s lighed.
+Den lever i den umiddelbare du-tiltale, sagt fra første sekund, også til den dobbelt så gamle, og den er sprogets daglige udgave af [Janteloven](position_janteloven.md)s lighed.

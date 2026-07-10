@@ -34,4 +34,4 @@ Pursa kuando o mundu di fora ta bin ku otu lei ku ta poi o omi na frenti i a mud
 
 ## Drives
 
-Ta vivi na [Okinka Pampa](persona_okinka_pampa.md), a mudjer ku ta sustenta a forsa i a sabedoria di as ilhas i ku ta guarda o ki i sagradu. I ta lebanta a Guine-Bissau a sustenta, na frenti di tudu o ki muda, un mundu undi a mudjer ta manda i a sabedoria di as bedjas ta tene a memoria di un povu.
+Ta vivi na a mudjer ku ta sustenta a forsa i a sabedoria di as ilhas i ku ta guarda o ki i sagradu. I ta lebanta a Guine-Bissau a sustenta, na frenti di tudu o ki muda, un mundu undi a mudjer ta manda i a sabedoria di as bedjas ta tene a memoria di un povu.

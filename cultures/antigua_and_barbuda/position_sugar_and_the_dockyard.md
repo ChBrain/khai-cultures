@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The colonial foundation of the islands: an economy built wholly on sugar, the cane covering Wadadli and the great estates - Betty's Hope first among them - turning a profit for distant owners, and a navy built to guard it, with Nelson's Dockyard at English Harbour the base Britain held the Caribbean from. It is the wealth of the crown raised on the bondage of the enslaved Africans carried across the sea to cut the cane, the gap between the colony's prosperity and the people who paid for it there from the very first furrow. And it holds, right at its centre, the refusal of that bondage: in 1736 Prince Klaas at the head of a planned rising, the proof that the enslaved never once gave consent to it.
+The colonial foundation of the islands: an economy built wholly on sugar, the cane covering Wadadli and the great estates - Betty's Hope first among them - turning a profit for distant owners, and a navy built to guard it, with Nelson's Dockyard at English Harbour the base Britain held the Caribbean from. It is the wealth of the crown raised on the bondage of the enslaved Africans carried across the sea to cut the cane, the gap between the colony's prosperity and the people who paid for it there from the very first furrow. And it holds, right at its centre, the refusal of that bondage: in 1736 an enslaved leader at the head of a planned rising, the proof that the enslaved never once gave consent to it.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Ground when the dockyard becomes nothing but a postcard and the estate nothing b
 
 ## Drives
 
-Lives in [Prince Klaas](persona_prince_klaas.md), the one they called King Court, who stood at the head of the planned 1736 rising and gave his refusal to the nation as its first hero. It drives Antigua and Barbuda to hold its colonial foundation plain - the sugar, the dockyard, the bondage, and the resistance - and to date its own story from the freedom struggle and not from the cane at all.
+Lives in the enslaved leader they called King Court, who stood at the head of the planned 1736 rising and gave his refusal to the nation as its first hero. It drives Antigua and Barbuda to hold its colonial foundation plain - the sugar, the dockyard, the bondage, and the resistance - and to date its own story from the freedom struggle and not from the cane at all.

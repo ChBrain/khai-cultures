@@ -34,4 +34,4 @@ Its moral authority when it declines into self-righteous judgment, excluding tho
 
 ## Drives
 
-Shapes the civic covenants in the plot [The Mayflower Compact 1620](plot_01_mayflower_1620.md) and drives the preservation work of archivist [Abigail](persona_abigail.md).
+Shapes the civic covenants in the plot [The Mayflower Compact 1620](plot_01_mayflower_1620.md) and drives the preservation work of the commonwealth's archivists.

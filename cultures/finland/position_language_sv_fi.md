@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Auktoriteten hos svenskan så som den skrivs och talas i Finland, det ena av landets två nationalspråk, modersmål för den svenskspråkiga minoriteten längs kusten och på Åland, skolans, kommunens och tidningens språk där svenskan bor. Den håller normen för finlandssvenskan, en egen form av svenskan med sitt eget tonfall och sina egna ord, inte fel utan ett annat riktigt sätt att säga samma språk, arvet från den tid då svenskan var förvaltningens och bildningens språk i hela landet.
+Vad svenskan låter säga som grannspråken inte gör lika lätt: den bestämda formen som hakar fast i själva ordet som en ändelse (huset, bilarna) i stället för en lös artikel framför, sammansättningar som bygger nya ord genom att helt enkelt foga ihop dem (sjukhus, arbetsplats), och en satsbyggnad där verbet alltid intar den andra platsen, oavsett vad som står först i meningen. Det ger tanken en fast punkt att bygga kring i varje sats.
 
 ## Orders
 
-Den bestämmer vad som räknas som god svenska på den finlandssvenska sidan: stavningen, tonen i den regionala förvaltningen, i pressen och i skolan. Den styr vad som går in på det officiella papperet på kusten och på Åland, och ger en egen ton åt ett offentligt liv som är svenskt utan att vara skilt från det finska Finland det delar sitt land med.
+Att verbet ligger på plats nummer två i huvudsatsen, hur än ordningen kastas om framför det; att substantivet böjs i bestämd och obestämd form, i singular och plural, med två genus, en- och ett-ord, i stället för tre som i äldre svenska; och, sedan du-reformen, att nästan alla tilltalas med du, utan det formella val som andra språk tvingar fram vid varje möte.
 
 ## Loses
 
-Den förlorar mark till finskan som omger den och till engelskan i världen; de tvåspråkiga blir färre, de unga flyttar, och för varje bro som faller krymper den svenska kusten. Den är aldrig hela landets språk, utan den minsta rösten i ett tvåspråkigt land, det språk som ofta behöver en annan för att bäras över till det finska Finland och bli hört.
+Den melodiska tonaccenten som rikssvenskan bär, den ton som i Sverige skiljer anden (själen) från anden (fågeln) fast orden stavas lika, men som i finlandssvenskan jämnas ut mot en flatare, mer finskfärgad rytm; och den gamla artighetsformen ni, som en gång fanns men som bruket i stort har lagt åt sidan, så att en hel nivå av hövlighet tystnar i talet.
 
 ## Drives
 
-Den driver den svenska kusten och Åland att leva kvar på sitt eget språk i ett land där de flesta talar det andra. Den lever i [Solveig](persona_solveig.md), den gamla kvinnan från Åland som svarar på svenska också när någon tilltalar henne på finska och väntar på att någon ska bära hennes ord vidare till det finska Finland. Så blir kustens språk på en gång arv, hemhörighet och den minsta röst som alltid behöver en bro.
+Det vänjer den som talar det vid att sätta verbet på sin bestämda plats och bygga meningen runt det snarare än att skjuta in det var som helst, vid att foga ord samman i stället för att söka nya rötter för varje ny sak, och vid ett tilltal som inte tvingar talaren att väga avstånd före varje du. Den jämnare, saktmodigare tonen i finlandssvenskan, utan rikssvenskans sjungande accent, färgar hur den som växer upp i den hör och formar sitt eget tal.

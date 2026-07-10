@@ -34,4 +34,4 @@ Inapoteza nguvu pale kuvuta pamoja kunapogeuka kuvutana, kila kabila likivuta ka
 
 ## Drives
 
-Inaishi ndani ya [Jomo Kenyatta](persona_kenyatta.md), aliyelichukua neno hili na kulifanya kauli mbiu ya taifa changa, na ndani ya [Makanga](persona_makanga.md), anayebeba abiria wengi kwenye matatu moja na kuwafikisha wote kwa kuvuta pamoja kwenye foleni ya mji. Inaliendesha taifa la Kenya kuendelea kuwa moja kutoka kwa wengi, kwa kuvuta kamba pamoja hata pale mzigo unapozidi.
+Inaishi ndani ya uongozi wa taifa uliolichukua neno hili na kulifanya kauli mbiu ya taifa changa, na ndani ya makondakta wa matatu, wanaobeba abiria wengi kwenye gari moja na kuwafikisha wote kwa kuvuta pamoja kwenye foleni ya mji. Inaliendesha taifa la Kenya kuendelea kuwa moja kutoka kwa wengi, kwa kuvuta kamba pamoja hata pale mzigo unapozidi.

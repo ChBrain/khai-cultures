@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Tiếng nói của một dân tộc đã giữ được tiếng của mình qua nghìn năm Bắc thuộc: tiếng Việt. Trải bao phen mất còn, người Việt không để tiếng nói của mẹ cha bị xóa đi, mà từ chỗ phải mượn chữ Hán, đã sáng chế ra chữ Nôm rồi chuyển sang chữ Quốc ngữ ghi âm bằng mẫu tự Latinh, để tiếng nói và chữ viết cuối cùng gặp nhau làm một. Đây là thứ tiếng của ca dao và lời ru, của lục bát và Truyện Kiều, thứ tiếng phân biệt vai vế trên dưới trong từng lời xưng hô, và là cái gốc bền nhất của bản sắc một dân tộc.
+Tiếng Việt là một tiếng có thanh điệu, sáu thanh trong giọng Bắc, ngang, huyền, sắc, hỏi, ngã, nặng, khiến cùng một âm tiết với cùng phụ âm và nguyên âm có thể mang sáu nghĩa khác hẳn nhau, nên ca dao và lục bát chơi được cả nhạc tính lẫn nghĩa chữ trong cùng một câu. Mỗi âm tiết lại tự mang một nghĩa, tiếng không biến hình theo thì hay theo số như tiếng Pháp hay tiếng Anh, nên câu tiếng Việt ghép các âm tiết độc lập lại thành từ, dựng nên một pho từ Hán Việt song song cho phép nói cùng một điều theo hai tầng, tầng nôm na hằng ngày và tầng trang trọng gốc Hán.
 
 ## Orders
 
-Rằng giữ lấy tiếng nói của mình là giữ lấy nước; rằng phải nói năng cho phải phép, biết thưa gửi, biết trên biết dưới trong từng tiếng xưng hô; rằng tiếng mẹ đẻ đáng được nâng lên thành văn chương chứ không chỉ là lời cửa miệng. Nó buộc người ta trọng lời ăn tiếng nói của quê hương, giữ ca dao tục ngữ và câu lục bát làm của chung, và đo một người ở chỗ có còn giữ được tiếng nói và cái nếp của gốc mình hay không.
+Ngữ pháp buộc người nói phải chọn loại từ đứng trước mỗi danh từ, con cho vật sống, cái cho vật vô tri, quyển cho sách, đúng loại từ mới nói cho đúng. Nó buộc phải chọn đại từ xưng hô theo đúng vai vế, không có một chữ tôi trung tính đứng ngoài quan hệ, mà phải là anh, chị, em, cô, chú, ông, bà tùy tuổi tác, thứ bậc và độ thân sơ giữa người nói và người nghe, mỗi lần mở miệng xưng hô. Và vì động từ không tự chia theo thì, nó buộc phải thêm những chữ như đã, đang, sẽ nếu muốn nói rõ thời gian, chứ bản thân động từ không tự mang thì trong nó.
 
 ## Loses
 
-Mất chỗ đứng khi người ta rẻ rúng tiếng của mình mà chuộng tiếng người ngoài, khi chữ nghĩa vay mượn lấn át đến mức tiếng nói thật của dân tộc phải chật vật tìm chữ cho mình. Nó yếu đi khi con cháu đi xa quen nói tiếng lạ mà quên dần tiếng quê, khi thứ tiếng của màn hình và thị trường tràn vào tận mái nhà và làm mòn đi cái nếp nói năng thưa gửi của cha ông.
+Mất đi độ rõ ràng của thì khi ngữ cảnh không đủ mạnh, vì động từ không tự chia nên một câu thiếu đã hay sẽ có thể mơ hồ giữa việc đã xảy ra, đang xảy ra hay còn sắp tới. Thanh điệu cũng dễ mất khi hát hay khi nói khẽ, vì thanh phụ thuộc vào cao độ mà giai điệu hay tiếng thì thầm lại kéo cao độ theo hướng khác, nên lời hát tiếng Việt phải khéo giữ cho giai điệu không nuốt mất nghĩa của từ. Và khi giới trẻ quen xen tiếng nước ngoài, cái nếp xưng hô đúng vai vế cũng phai nhạt dần theo.
 
 ## Drives
 
-Sống trong [Hai Bà Trưng](persona_hai_ba_trung.md), người lấy chính tiếng nói của mẹ cha mà hiệu triệu muôn dân đứng lên. Nó là ngòi bút của [Nguyễn Trãi](persona_nguyen_trai.md), người vừa tuyên cáo nền văn hiến nước Việt vừa làm thơ Nôm bằng tiếng nói của dân mình; là áng Truyện Kiều của [Nguyễn Du](persona_nguyen_du.md), người nâng tiếng Việt lên thành thơ chứa được cả lòng người; và là tiếng thơ táo bạo của [Hồ Xuân Hương](persona_ho_xuan_huong.md), bà chúa thơ Nôm. Nó còn là lời ru và lời quê của [Người Mẹ](persona_nguoi_me.md), người trao tiếng Việt lại cho con cháu qua từng câu ca dao. Tiếng Việt thúc cả dân tộc giữ lấy tiếng nói của mình làm cái gốc không đổi giữa mọi đổi thay.
+Lớn lên trong một tiếng có thanh điệu, người nói quen nghe ra sáu sắc thái trong cùng một âm, một thói quen mà tiếng không thanh điệu không đòi hỏi. Nó buộc người nói, trước khi mở miệng, phải định vị mình so với người nghe, ai lớn ai nhỏ, ai thân ai sơ, thành phản xạ liên tục đo lường tôn ti mỗi lần xưng hô. Và nó uốn người nói vào nếp nghĩ trọng thứ bậc, kính trên nhường dưới, in ngay trong ngôn ngữ hằng ngày chứ không chỉ trong tập tục bên ngoài.

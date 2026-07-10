@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano hablado en la Comunidad Valenciana, con la entonacion del valenciano debajo, el seseo de algunas zonas y el lexico de la huerta, de la Albufera y de la falla. Guarda giros valencianos en el habla comun y el trato vivo y directo de la plaza. Es el espanol de una tierra bilingue, la lengua con la que Valencia trata con el turismo, con Madrid y con el resto de Espana sin soltar el valenciano de casa.
+Tiene la gramática entera del castellano, el género que reparte cada nombre entre el o la, el subjuntivo que marca la duda y el deseo, y la doble cópula ser/estar que separa lo permanente de lo pasajero. Y lleva encima, prestada del valenciano de debajo, una entonación que sube al final de la frase como quien pregunta, y un puñado de palabras que no se traducen, fallera, socarrat, alqueria, séquia, que nombran la huerta y la falla con más precisión que cualquier equivalente castellano.
 
 ## Orders
 
-Manda en el trato con la confederacion hidrografica, con las agencias de turismo y con la Administracion del Estado, y en el papel comun del catastro y del comercio de fuera. Ordena que haya una lengua compartida para la norma, la licencia y el contrato, y fija el registro con el que la Comunidad Valenciana se explica ante el conjunto de Espana sin renunciar al valenciano cooficial.
+Obliga, como todo castellano, a concordar género y número en cada artículo y adjetivo, y a elegir entre ser y estar cada vez que se describe un estado. Y el contacto diario con el valenciano empuja además calcos como hacer tarde por llegar tarde, o el uso extendido de para con matices que el valenciano presta, de modo que quien lo habla nunca deja de cotejar mentalmente las dos gramáticas que sostiene.
 
 ## Loses
 
-Pierde terreno frente al valenciano en la comision fallera, en la huerta y en el Tribunal de las Aguas, donde la lengua propia reclama su sitio. Y pierde matiz frente al castellano neutro de los medios y del turismo masivo, que borra el acento valenciano y toma sus giros por incorrecciones, como si el espanol con sabor de aqui fuera hablarlo mal.
+No puede llevar al castellano ni el pronombre feble ni el verbo acabado en -e de la primera persona que el valenciano usa debajo, porque la gramática castellana no tiene sitio para esas formas; quedan atrapadas en la lengua de casa y no cruzan al español de trato. Y pierde matiz frente al castellano neutro de los medios y del turismo masivo, que empareja el acento y los calcos valencianos con un habla mal dicha, como si el español con sabor de aquí fuera hablarlo con error en vez de con una lógica propia.
 
 ## Drives
 
-Empuja a la Comunidad Valenciana a vivir en dos lenguas sin renunciar a ninguna. Se lo da a [Vicent](persona_vicent.md), arrocero de la Albufera, y a [Carme](persona_carme.md), artista fallera de Valencia, como el castellano con el que tratan con los de fuera mientras piensan y crean en valenciano; y en cada uno de ellos se ve quien sostiene esta lengua comun y quien la carga como frontera entre lo propio y lo ajeno.
+Empuja a quien lo habla a sostener dos gramáticas sin que ninguna borre a la otra, marcando género y ser/estar en castellano mientras la entonación y el calco delatan el valenciano de debajo. Y acostumbra al hablante a tratar la frontera entre las dos lenguas como algo que se cruza sin pensar, de modo que ni el turista ni el forastero de Madrid notarán cuánto castellano de aquí ya piensa, por dentro, en valenciano.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Ko e mafai 'o e lea faka-Tonga, 'a e lea 'oku ne ha'i fakataha 'a e fonua na'e 'ikai 'aupito ke pule'i fakakolonia. Ko e lea 'eni 'oku tukufakaholo 'i he ngutu mei he tama ki he tama, mei he Tu'i Tonga motu'a 'o a'u mai ki he 'aho ni, 'a e lea 'o e faikava, 'o e ta'anga, 'o e siasi, mo e ngoue. Neongo na'e ha'u 'a e tohi mo e lea fakapilitania mei tu'apule'anga, ko e laumalie 'o e fonua 'oku kei tu'u ma'u 'i he lea fa'e. Ko e lea faka-Tonga ko e me'a mahu'inga taha 'oku 'a'ana 'a e fonua, 'a e hala 'oku ha'i 'aki 'a e kau Tonga 'oku mafola atu ki mamani.
+Ko e lea faka-Tonga 'oku ne ma'u ha ngaahi 'ilo lea kehekehe 'e tolu, ko e lea anga-maheni ki he kakai tu'a, ko e lea faka'apa'apa ki he hou'eiki, mo e lea tapu taha ki he Tu'i, 'o kau ai 'a e ngaahi fo'i lea kehe ki he ngaahi ngaue tatau hange ko e kai pe mohe, 'o fakatatau ki he tokotaha 'oku ne fai. 'Oku kamata 'a e fo'i lea 'aki 'a e veape, 'ikai 'aki 'a e tokotaha, pea 'oku vahevahe 'a e ngaahi me'a 'a e taha ki he fa'ahinga 'a' (ne'ine'i ma'u), mo e fa'ahinga 'o' (na'e foaki pe 'oku ma'olunga ange).
 
 ## Orders
 
-Ko e lea mo e anga fakafonua ke tauhi ke tu'u ma'u, 'o tukufakaholo mei he to'utangata ki he to'utangata; ko e ta'anga mo e hiva motu'a ke fanongo 'a e fanau ki ai; pea ko e fonua ke 'ilo'i ia 'e ia 'ikai 'i he kau'a-fonua ka 'i he lea 'oku nau lea'aki mei he 'eiki ki he tu'a. 'Oku ne fakahoko foki ke fanongo 'a e mafai mo e siasi 'i he lea 'oku ma'u 'e he kakai.
+'Oku fekau'i ke fili 'a e lea totonu, faka-eiki 'a ia leva, felalua'aki mo hono tu'unga fakasosiale 'o e tokotaha 'oku lea ki ai pe fai lave ki ai; 'oku fekau'i ke tomu'a fakahoko 'a e veape 'i he kamata'anga 'o e fo'i lea; pea 'oku fekau'i ke fili 'a e fa'ahinga ma'u ('a' pe 'o') ki he me'a kotoa pe 'oku fakahaa'i hono ma'u.
 
 ## Loses
 
-'Oku mole 'a e kelekele 'i he taimi 'oku holo ai 'a e lea 'i he ngutu 'o e to'utangata fo'ou, 'i he taimi 'oku toe hela ai 'a e ta'anga motu'a 'i he tohi kae 'ikai 'i he ngutu, pea 'i he taimi 'oku fakamavahe'i ai 'e he tu'apule'anga mo e lea fakapilitania 'a e fanau mei he lea 'a e fonua. 'Oku 'ikai ke mole 'a e lea faka-Tonga 'i he taimi 'oku maumau'i ai 'e ha taha, ka 'i he taimi 'oku 'ikai ke toe tauhi ia 'e ha taha.
+'Oku mole 'a e ngaahi lea faka'apa'apa mo e lea tapu 'i he taimi 'oku fakasi'isi'i ai hono ngaue'aki 'i he mo'ui fakaaho, koe'uhi ko e ngaahi tu'unga fakahou'eiki 'oku tupu ke fakasi'isi'i; ko e ngaahi lea ko ia 'oku mu'omu'a taha ke ngata 'i he taimi 'oku liliu ai 'a e founga fakasosiale. 'Oku 'ikai lava ke ngaue'aki fakafaingofua 'a e ngaahi lea faka'apa'apa 'i he ngaahi feo'aki fakaeni'ihi 'oku 'ikai ke fakahaa'i ai ha fa'unga fakasosiale.
 
 ## Drives
 
-'Oku mo'ui 'ia [Tu'i Siaosi Tupou I](persona_tupou_i.md), na'a ne fakatahataha'i 'a e fonua 'i he lea faka-Tonga pea fa'u 'aki 'a e konisitutone, mo 'ia [Kuini Salote Tupou III](persona_salote.md), na'a ne tauhi 'a e laumalie 'o e fonua 'i he ta'anga mo e hiva. 'Oku mo'ui foki 'ia [Tu'i Tonga](persona_tui_tonga.md), na'a ne ma'u 'a e mafai 'i he lea faka-Tonga motu'a 'oku 'ikai ke tohi, mo 'ia ['Akilisi Pohiva](persona_pohiva.md), na'a ne kole 'a e tau'ataina 'o e kakai 'i hono lea fa'e, pea 'oku manava 'ia [e tu'a](persona_e_tua.md), 'a e nima 'oku ngaue 'i he ngoue 'oku ne tauhi 'a e lea 'i he faikava mo e siasi. 'Oku ne taki 'a Tonga ke pukepuke 'a hono lea fa'e ko e laumalie 'o e fonua.
+'Oku ne fakahoko ke tomu'a fakakaukau'i 'e ia 'oku lea 'a e tu'unga fakasosiale 'o e tokotaha 'oku lave ki ai, ki mu'a pea ne fili ha lea; 'oku ne fakahoko foki ke fakatokanga'i ma'u pe 'a e fa'ahinga ma'u, pe ko e me'a 'oku ne ma'u fakae'iki pe na'e foaki mai. 'Oku ne fakatupunga ha founga fakakaukau 'oku mahu'inga'ia 'i he tu'unga mo e ngaahi vaha'a fakasosiale 'i he lea kotoa pe.

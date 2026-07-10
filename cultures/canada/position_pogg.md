@@ -34,4 +34,4 @@ Ground is lost when the not-American temper becomes only a negative, a self with
 
 ## Drives
 
-It lives in [John A. Macdonald](persona_macdonald.md), who built the dominion of peace, order, and good government, and in [Lester Pearson](persona_pearson.md), who gave it the middle power's vocation, the flag, and medicare. It drives Canada to be the communitarian, peaceable, not-American North, building the common things together beside the elephant next door.
+It lives in the founding of the dominion of peace, order, and good government, and in the gift of the middle power's vocation, the flag, and medicare. It drives Canada to be the communitarian, peaceable, not-American North, building the common things together beside the elephant next door.

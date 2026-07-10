@@ -34,4 +34,4 @@ Its balance when offshore manufacturing consolidation reduces local railroad par
 
 ## Drives
 
-Guides the railway logistics in the plot [Mount Washington Cog Railway 1869](plot_02_cog_railway.md) and drives the engineering work of [Robert](persona_robert.md).
+Guides the railway logistics in the plot [Mount Washington Cog Railway 1869](plot_02_cog_railway.md) and drives the engineering work of the railway engineer.

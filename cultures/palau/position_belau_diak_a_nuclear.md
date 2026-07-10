@@ -34,4 +34,4 @@ Ng meterekakl er a sera a beltik el reng er a udoud ma omekrael er a Compact a m
 
 ## Drives
 
-Ng kiei er a [Haruo Remeliik](persona_remeliik.md), el kot el president er a Belau, el milengeleng er a constitution el diak a nuclear ma omeruul er a llemeltel er a beluu er a uchei er a kakerous el ringel. Ng oltirakl er a Belau el mo melasem el oba a llemeltel ma uldasu er ngii el diak a nuclear, alta ng melasem el oba a klou el beluu el mengiil er ngii.
+Ng kiei er a kot el president er a Belau, el milengeleng er a constitution el diak a nuclear ma omeruul er a llemeltel er a beluu er a uchei er a kakerous el ringel. Ng oltirakl er a Belau el mo melasem el oba a llemeltel ma uldasu er ngii el diak a nuclear, alta ng melasem el oba a klou el beluu el mengiil er ngii.

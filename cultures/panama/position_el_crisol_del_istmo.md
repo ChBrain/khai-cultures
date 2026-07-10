@@ -34,4 +34,4 @@ Pierde terreno cuando el crisol se cuenta como una postal armoniosa que tapa las
 
 ## Drives
 
-Vive en [Ruben Blades](persona_ruben_blades.md), el músico y abogado que hizo de la mezcla del istmo una voz global, la salsa que cuenta a la gente común de toda la América mestiza. Impulsa a Panamá a verse como un crisol del mundo y a sostener su pluralidad como su mayor riqueza.
+Vive en el músico y abogado que hizo de la mezcla del istmo una voz global, la salsa que cuenta a la gente común de toda la América mestiza. Impulsa a Panamá a verse como un crisol del mundo y a sostener su pluralidad como su mayor riqueza.

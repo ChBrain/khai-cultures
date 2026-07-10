@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-SiSwati lulwimi lwaka-Ngwane, lulwimi lolukhulunywa ngumuntfu wonkhe wesive, lolubophela sive sibe munye. Kusukela eNgwenyameni kuya entfombini leyetfwele umhlanga, kusukela e-Ncwala kuya kuMhlanga, siSwati silulwimi lwesintfu, lwebudlelwane, nelwemkhuba. Lulwimi lolulodvwa lesive lesiphila ngalo, lolwenta tive letahlukene taka-Ngwane tibe sive sinye.
+SiSwati lulwimi lolunemabizo lahlukaniswe ngetigaba, lapho lonkhe emagama lelisho lihambisana khona, kusukela ebitweni kuya kuvesi. Lulwimi loluphindzaphindza emagama kute kwakhiwe umcondvo lomusha noma kucaciswe kwenteka kwento (njengekuhamba nekuhambahamba). Silulwimi lolunemsindvo lohlukene, lapho kushintja kwelizwi kushintja khona nencazelo yalo.
 
 ## Orders
 
-Kutsi siSwati sikhulunywe sihlonishwe njengelifa lesive; kutsi silotjwe emaphepheni kute lifa lesive lingashabalali; nekutsi sibe lulwimi lolubophela bantfu ndzawonye, hhayi lolwehlukanisako. Siyala kutsi lulwimi lwesive luchubeke luphila etilwimini tetingane letisha.
+Kuyala kutsi lonkhe libito lisho sigaba salo kuwo onkhe emagama lelihambisana nalo, sifanekiso, vesi, netinye. Kuyala tsine kutsi umuntfu akhetse sikhatsi lesifanele nekuchubeka kwesento, kutsi kwenteka noma kusengekaphelelwa, nekutsi asebentise umsindvo lofanele kute inchazelo yelizwi ingashintji.
 
 ## Loses
 
-Buyaphela uma labasha bashiya siSwati bafuna kukhuluma lulwimi lwemhlaba lomusha kuphela; uma lulwimi lungabhalwa lungaphela; nekulahleka uma siSwati singasakhulunywa emakhaya nasemikhubeni, saba sintfu sekukhohlwa nje.
+Buyalahleka bumcoka nangabe umuntfu asebentisa lulwimi lolunye lolungenato tigaba temabizo, ngobe loko kwehlukanisa emagama akhona kungeke kutfolakale ngalendlela. Buyalahleka nangabe umsindvo awunakwe kahle, ngobe emazwi lafana ekubhaleni ehlukene encazelweni nasekuvakaleni.
 
 ## Drives
 
-Iphila ku-[Sobhuza II](persona_sobhuza.md), ku-[Mswati II](persona_mswati.md), ku-[Labotsibeni Gwamile](persona_labotsibeni.md), ku-[J.S.M. Matsebula](persona_matsebula.md), naku-[intfombi](persona_intfombi.md), bonkhe labaphetse siSwati njengelifa labo. Iyaphusha eSwatini kutsi ibambe lulwimi lwesive njengelifa, iluhloniphe, iluchubekise luphila emkhubeni nasemaphepheni.
+Lulwimi lolu luyeta umuntfu kubhekana nesigaba selibito kuwo onkhe emagama lelisho, kuhlala ehlola sikhatsi sento onkhe umlomo akhuluma ngawo, nekulalela msindvo lohlukene kute aphumelele encazelweni. Loku kuyamphusha umuntfu kutsi ahlale acophelela ekukhulumeni nasekubhaleni.

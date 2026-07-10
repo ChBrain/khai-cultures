@@ -34,4 +34,4 @@ Terreno cuando la fusión se celebra solo en el plato y se niega en la calle: cu
 
 ## Drives
 
-La pensó y la sufrió [José María Arguedas](persona_arguedas.md), que llevó adentro los dos mundos y le dio su nombre, y la encarna en la calle [el cholo](persona_el_cholo.md), el migrante andino que rehízo Lima y volvió mestizo al país entero. Empuja al Perú a reconocerse de todas las sangres y a hacer de esa mezcla, por fin, una igualdad.
+La pensó y la sufrió el escritor que llevó adentro los dos mundos y le dio su nombre, y la encarna en la calle el cholo, el migrante andino que rehízo Lima y volvió mestizo al país entero. Empuja al Perú a reconocerse de todas las sangres y a hacer de esa mezcla, por fin, una igualdad.

@@ -34,4 +34,4 @@ Its balance when state-wide environmental mandates override local town zoning de
 
 ## Drives
 
-Guides the local organization in the plot [The Separation of 1820](plot_01_separation.md) and drives the conservation work of [Eleanor](persona_eleanor.md).
+Guides the local organization in the plot [The Separation of 1820](plot_01_separation.md) and drives the conservation work of local landowners.

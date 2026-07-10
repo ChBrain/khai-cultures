@@ -34,4 +34,4 @@ Ground where the parties withdraw from sharing power, where old grievance is all
 
 ## Drives
 
-It is carried together by [John Hume](persona_hume.md) and [David Trimble](persona_trimble.md), the nationalist and the unionist who led their communities to the table and were honoured, jointly, for the settlement neither tradition could have made alone.
+It is carried together by the nationalist and the unionist leaderships who led their communities to the table and were honoured, jointly, for the settlement neither tradition could have made alone.

@@ -34,4 +34,4 @@ Ground when the partnership is treated as settled history rather than a living o
 
 ## Drives
 
-Lives in [Sir Apirana Ngata](persona_ngata.md), who mastered the colonial tongue and the colonial law to hold the Crown to its own signature and to carry his people's mana into the nation's institutions, and reaches back to [Kupe](persona_kupe.md), the first to name the land that the rangatira would later refuse to surrender. It drives Aotearoa New Zealand to keep returning to what was signed at Waitangi and to keep honouring the partnership down.
+Lives in the statesman who mastered the colonial tongue and the colonial law to hold the Crown to its own signature and to carry his people's mana into the nation's institutions, and reaches back to the navigator, the first to name the land that the rangatira would later refuse to surrender. It drives Aotearoa New Zealand to keep returning to what was signed at Waitangi and to keep honouring the partnership down.

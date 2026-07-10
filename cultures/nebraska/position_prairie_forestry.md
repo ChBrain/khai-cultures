@@ -34,4 +34,4 @@ Its balance when industrial farming consolidation buys out family property, weak
 
 ## Drives
 
-Guides the conservation holidays in the plot [Arbor Day Inauguration 1872](plot_03_arbor_day.md) and drives the conservation work of [Helen](persona_helen.md).
+Guides the conservation holidays in the plot [Arbor Day Inauguration 1872](plot_03_arbor_day.md) and drives the conservation work of the conservation advisor.

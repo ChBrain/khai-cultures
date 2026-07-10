@@ -34,4 +34,4 @@ Its balance when corporate music platforms reduce local recording royalties, cau
 
 ## Drives
 
-Guides the big-band recording in the plot [The Jazz and Blues Recording Boom 1925](plot_03_jazz_boom.md) and drives the saxophone playing of [Marcus](persona_marcus.md).
+Guides the big-band recording in the plot [The Jazz and Blues Recording Boom 1925](plot_03_jazz_boom.md) and drives the saxophone playing that carries the groove, the soloist's craft of phrasing that lifts a rhythm section into a signature sound.

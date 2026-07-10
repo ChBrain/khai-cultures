@@ -29,8 +29,8 @@ Dass jeder seinen Teil am Deich trägt und die Pflicht erfüllt, ob es ihm passt
 
 ## Loses
 
-An Achtung, wo das Amt zur blossen Würde erstarrt und der Deichgraf das neue Wissen über das Wasser verachtet. Wie in [Storms](persona_storm.md) Erzählung verliert er, sobald er auf das alte Recht pocht und den besseren Deich verhindert.
+An Achtung, wo das Amt zur blossen Würde erstarrt und der Deichgraf das neue Wissen über das Wasser verachtet. Wie es die Erzähltradition um den Deichgrafen zeigt, verliert er, sobald er auf das alte Recht pocht und den besseren Deich verhindert.
 
 ## Drives
 
-Es treibt [Okke](persona_okke.md), der den Deich ohne Aufhebens in Schuss hält, und es steht hinter jeder [Sturmflut](plot_02_mandraenke_1362.md), nach der das Land höher und klüger baut als zuvor.
+Es treibt jeden, der das Amt ohne Aufhebens versieht und den Deich in Schuss hält, und es steht hinter jeder [Sturmflut](plot_02_mandraenke_1362.md), nach der das Land höher und klüger baut als zuvor.

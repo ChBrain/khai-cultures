@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-El reclamo, llevado del Grito de 1810 al alzamiento de 1910, de que un pueblo se debe a sí mismo tanto la libertad como la tierra: que la libertad sin tierra debajo está vacía, y que el suelo es de quienes lo trabajan. Es la conciencia agraria y democrática del país: la exigencia de que México no nomas se libre del amo extranjero sino que sea justo con los pobres, que al campesino se le debe su campo tanto como al ciudadano su voto. Y es un reclamo fundado en una larga espera: alzado por Hidalgo contra la colonia y por Zapata contra la república, guardado en los estandartes y los murales y las paredes del Estado, y todavía sin cumplir en la vida de los que se quedaron sin tierra y por quienes se alzó.
+El reclamo, llevado del Grito de 1810 al alzamiento de 1910, de que un pueblo se debe a sí mismo tanto la libertad como la tierra: que la libertad sin tierra debajo está vacía, y que el suelo es de quienes lo trabajan. Es la conciencia agraria y democrática del país: la exigencia de que México no nomas se libre del amo extranjero sino que sea justo con los pobres, que al campesino se le debe su campo tanto como al ciudadano su voto. Y es un reclamo fundado en una larga espera: alzado por el cura contra la colonia y por el jinete contra la república, guardado en los estandartes y los murales y las paredes del Estado, y todavía sin cumplir en la vida de los que se quedaron sin tierra y por quienes se alzó.
 
 ## Orders
 
@@ -30,8 +30,8 @@ Que la libertad queda a medias sin justicia en la tierra, de modo que al país n
 
 ## Loses
 
-Terreno cuando la consigna se vuelve puro adorno -cuando el Estado cuelga a Zapata en la pared de la oficina mientras deja sin cumplir su exigencia, cuando se recita el grito para echarle flores a la Revolución en lugar de para acusar al orden que vino tras ella-; y terreno, también, ante el cinismo que, viendo la promesa aplazada tanto tiempo, la avienta a la basura como una mentira, y se olvida de que las mismas palabras que los poderosos se apropiaron armaron también todo reclamo posterior de los pobres.
+Terreno cuando la consigna se vuelve puro adorno -cuando el Estado cuelga al jinete en la pared de la oficina mientras deja sin cumplir su exigencia, cuando se recita el grito para echarle flores a la Revolución en lugar de para acusar al orden que vino tras ella-; y terreno, también, ante el cinismo que, viendo la promesa aplazada tanto tiempo, la avienta a la basura como una mentira, y se olvida de que las mismas palabras que los poderosos se apropiaron armaron también todo reclamo posterior de los pobres.
 
 ## Drives
 
-Vive en [Emiliano Zapata](persona_zapata.md), el jinete de Morelos que no dejó que le tocaran la promesa agraria mientras otros le bajaban, la conciencia de la Revolución; y en [Miguel Hidalgo](persona_hidalgo.md), el cura que primero llamó a un pueblo colonizado a reclamar su libertad y la tierra que está debajo. Empuja a México a seguirse midiendo contra la exigencia que alzó y a seguir pagando la deuda hasta la tierra.
+Vive en el jinete de Morelos que no dejó que le tocaran la promesa agraria mientras otros le bajaban, la conciencia de la Revolución; y en el cura que primero llamó a un pueblo colonizado a reclamar su libertad y la tierra que está debajo. Empuja a México a seguirse midiendo contra la exigencia que alzó y a seguir pagando la deuda hasta la tierra.

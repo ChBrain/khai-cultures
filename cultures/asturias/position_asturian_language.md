@@ -34,4 +34,4 @@ Su equilibrio cuando la legislación general deniega la cooficialidad plena o li
 
 ## Drives
 
-Guía el renacimiento cultural en el relato [El Parque de los Picos 1995](plot_03_picos.md) y orienta la militancia de [Xuan](persona_xuan.md).
+Guía el renacimiento cultural en el relato [El Parque de los Picos 1995](plot_03_picos.md) y orienta la militancia sindical que defiende la llingua en la calle, en los concejos y en cada acta redactada en la lengua del territorio.

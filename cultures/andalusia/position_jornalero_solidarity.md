@@ -34,4 +34,4 @@ Su equilibrio cuando los grandes latifundios industriales automatizan la recogid
 
 ## Drives
 
-Guía el desarrollo obrero en el relato [La Reforma Agraria 1932](plot_02_land_reform.md) y orienta la labranza diaria de [Manuel](persona_manuel.md).
+Guía el desarrollo obrero en el relato [La Reforma Agraria 1932](plot_02_land_reform.md) y orienta la labranza diaria del jornalero sin tierra propia.

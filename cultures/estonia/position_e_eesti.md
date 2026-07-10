@@ -34,4 +34,4 @@ Pinda kaotab, kui kõik kandub ekraani taha ja inimene kaob koodi sisse: kui dig
 
 ## Drives
 
-Elab [Ilveses](persona_ilves.md), kes ehitas digitaalse Eesti riigi võrku ja sidus pisikese maa maailmaga taibu, mitte arvu kaudu. Ajab Eestit jääma väikeseks, kuid nutikaks, leiutama end uuesti tehnoloogiaga, ja seisma digitaalselt püsti suure naabri kõrval, kaotamata inimest ekraani taha.
+Elab riigijuhtimises, mis ehitas digitaalse Eesti riigi võrku ja sidus pisikese maa maailmaga taibu, mitte arvu kaudu. Ajab Eestit jääma väikeseks, kuid nutikaks, leiutama end uuesti tehnoloogiaga, ja seisma digitaalselt püsti suure naabri kõrval, kaotamata inimest ekraani taha.

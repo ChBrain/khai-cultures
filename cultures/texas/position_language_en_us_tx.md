@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Southern-drawled English of the Lone Star State, the slow West Texas range cadence of the ranch and the drawn-out vowels of the open country. It holds a plain, self-reliant frontier register that the cattle pen, the oil field, and the Austin tech floor all carry, the sound the rest of the country hears as "Texan."
+It carries y'all as a true second-person plural General American leaves unmarked, and fixin' to for the imminent future. It draws directly on Spanish for the vocabulary of its own land, arroyo, vaquero, corral, lasso, ranch itself, words no other English dialect needed until Texas borrowed them from its neighbor tongue and made them its own working nouns. It holds double modals, might could, that layer degrees of possibility standard English states in one word or not at all.
 
 ## Orders
 
-Where it passes as native ground: the West Texas ranch, the Houston control room, the Austin startup, the San Antonio street. It orders which turns of phrase and vowels mark a speaker as Texan and sets the slow ranch ear against the fast city one.
+It orders the price vowel toward a single long "ah" instead of the two-part glide General American keeps, and it orders y'all as the address for any group of listeners, so plurality on "you" must be marked every time more than one person is meant. It orders fixin' to before a verb to flag an action as about to start, a distinction General American folds into "about to" without a dedicated marker of its own.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the corporate board carry, which trims the drawl off the young, and to the Spanish woven through the state's homes and cities, which claims its own first speakers. The digital tech register also crowds the older range speech toward the margin.
+It loses the two-part glide of its own long vowels when written in standard spelling, so the page carries none of the drawl the mouth makes. It loses ground to General American, the flat broadcast vowel that trims the glide from the young and marks the ranch cadence as backward. And it loses ground to Spanish itself in the state's homes and cities, where a whole first language runs alongside it and claims speakers this English never held as native.
 
 ## Drives
 
-It carries the state's habit of sounding slow, plain, and self-reliant. It gives [Carter](persona_carter.md) the slow West Texas drawl of the open range, the mother tongue he speaks and thinks in, and it is the English that [Elena](persona_elena.md) wears as a worn overgarment for her Austin coding and pitching, a borrowed frontier tongue over her native Spanish, never her own first tongue. So the one range sound shows both who speaks it as home and who wears it over another.
+Speaking it trains the ear to stretch a vowel into two parts rather than clip it short, and trains the tongue to reach for a Spanish-rooted noun, vaquero, arroyo, corral, before an English coinage for the same thing on the land. It trains the speaker to mark address size on "you" itself with y'all rather than leave the plural silent. And it trains an ease with double modals, stacking might could rather than picking one flat modal, so the speaker hedges without ever sounding unsure of the words themselves.

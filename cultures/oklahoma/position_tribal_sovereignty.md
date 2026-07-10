@@ -34,4 +34,4 @@ Its balance when state-wide commercial development overrides sovereign treaties,
 
 ## Drives
 
-Guides the cultural preservation in the plot [The Dust Bowl Migration 1930](plot_03_dust_bowl.md) and drives the basket weaving of [Mary](persona_mary_ok.md).
+Guides the cultural preservation in the plot [The Dust Bowl Migration 1930](plot_03_dust_bowl.md) and drives the basket weaving carried on by tribal artisans.

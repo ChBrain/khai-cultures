@@ -34,4 +34,4 @@ Ground when the English form is mistaken for the freedom, when keeping the insti
 
 ## Drives
 
-Lives in [Grantley Adams](persona_grantley_adams.md), the labour leader and first premier who worked the colonial institution from within to lift the people who filled it, and in [Errol Barrow](persona_errol_barrow.md), the father of independence who carried the island out of the mould into nationhood. It drives Barbados to govern itself with order and dignity, the English form made wholly its own.
+Lives in the labour movement that worked the colonial institution from within to lift the people who filled it, and in the founding leadership that carried the island out of the mould into nationhood. It drives Barbados to govern itself with order and dignity, the English form made wholly its own.

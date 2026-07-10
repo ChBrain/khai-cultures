@@ -34,4 +34,4 @@ Ground when the differences harden into rivalry - when a state pulls back toward
 
 ## Drives
 
-Lives in [Tosiwo Nakayama](persona_tosiwo_nakayama.md), the leader who drew the four states into one federation and gave the union its first shape, and in [the Chuukese clan mother](persona_the_chuukese_clan_mother.md), who keeps the matrilineal clan that is the deepest belonging underneath the nation. It drives the Federated States of Micronesia to hold its four apart-and-together, and to prove that unlike peoples can choose to be one.
+Lives in the leader who drew the four states into one federation and gave the union its first shape, and in the Chuukese clan mother, who keeps the matrilineal clan that is the deepest belonging underneath the nation. It drives the Federated States of Micronesia to hold its four apart-and-together, and to prove that unlike peoples can choose to be one.

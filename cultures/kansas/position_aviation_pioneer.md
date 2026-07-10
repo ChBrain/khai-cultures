@@ -34,4 +34,4 @@ Its balance when offshore manufacturing consolidation reduces local hangar capac
 
 ## Drives
 
-Guides the factory designs in the plot [Wichita Aviation Boom 1920](plot_03_wichita_aviation.md) and drives the quality audits of [Henry](persona_henry.md).
+Guides the factory designs in the plot [Wichita Aviation Boom 1920](plot_03_wichita_aviation.md) and drives the quality audits carried out on the factory floor.

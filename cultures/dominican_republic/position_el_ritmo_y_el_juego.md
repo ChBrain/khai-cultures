@@ -34,4 +34,4 @@ Terreno cuando la alegría se vuelve excusa para no mirar la desigualdad de la q
 
 ## Drives
 
-Vive en [Juan Luis Guerra](persona_juan_luis_guerra.md), el músico que llevó el merengue y la bachata al mundo, y en [el pelotero](persona_el_pelotero.md), el muchacho de los pueblos azucareros que sueña con las Grandes Ligas. Empuja a la República Dominicana a tener su ritmo y su juego por arte nacional y por camino de prosperidad para los suyos.
+Vive en la música que llevó el merengue y la bachata al mundo, y en el sueño del muchacho de los pueblos azucareros que sueña con las Grandes Ligas. Empuja a la República Dominicana a tener su ritmo y su juego por arte nacional y por camino de prosperidad para los suyos.

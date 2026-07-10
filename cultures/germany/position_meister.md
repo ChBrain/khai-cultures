@@ -33,4 +33,4 @@ Den Anspruch, wo Geltung durch Lautstärke oder Stellung statt durch Können ges
 
 ## Drives
 
-Er treibt das Land, den richtigen Weg beim Könnenden zu suchen, und gibt [Luther](persona_luther.md), dem Meister der Schrift, das Recht, sie gegen das blosse Amt zu deuten.
+Er treibt das Land, den richtigen Weg beim Könnenden zu suchen, und gibt dem Meister der Schrift das Recht, sie gegen das blosse Amt zu deuten.

@@ -34,4 +34,4 @@ Tlo gubi kad se identitet okrene u podjelu koja cijepa narod nadvoje: spor oko i
 
 ## Drives
 
-Živi u [Kralju Nikoli](persona_kralj_nikola.md), čija je kraljevina progutana 1918. i čiji će se narod vijek sporiti jesu li Crnogorci ili Srbi, i u [Vuku](persona_vuk.md), čovjeku generacije 2006. koji jezik zove crnogorskim premda ostaje gotovo isti onome koji neće da prizna. Goni Crnu Goru da od spornog identiteta izgradi jedan građanski narod, svoj a ne odvojen od brata.
+Živi u posljednjem kralju čija je kraljevina progutana 1918. i čiji će se narod vijek sporiti jesu li Crnogorci ili Srbi, i u mladom čovjeku generacije 2006. koji jezik zove crnogorskim premda ostaje gotovo isti onome koji neće da prizna. Goni Crnu Goru da od spornog identiteta izgradi jedan građanski narod, svoj a ne odvojen od brata.

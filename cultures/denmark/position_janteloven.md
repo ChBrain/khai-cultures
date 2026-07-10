@@ -34,4 +34,4 @@ Terræn, hvor ligheden bliver til ensartethed og misundelse, og hvor ingen tør 
 
 ## Drives
 
-Den bærer [Inger](persona_inger.md), der afviser ros med et skuldertræk, og den har rod i [Grundtvig](persona_grundtvig.md)s folkelighed, troen på at den jævne er lige så meget værd som den fine.
+Den lever i skuldertrækket, der afviser ros, før den kan blive til hovmod, og den har rod i den folkelige tanke om, at den jævne er lige så meget værd som den fine.

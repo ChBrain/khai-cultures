@@ -34,4 +34,4 @@ Su equilibrio cuando el Estado central impone normativas civiles generales que a
 
 ## Drives
 
-Guía el desarrollo de pactos en el relato [La Unión de los Reinos 1137](plot_01_union.md) y orienta la labranza tenaz de [Javier](persona_javier.md).
+Guía el desarrollo de pactos en el relato [La Unión de los Reinos 1137](plot_01_union.md) y orienta la labranza tenaz del labrador de secano que defiende, generación tras generación, la tierra heredada.

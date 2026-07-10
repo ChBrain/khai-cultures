@@ -34,4 +34,4 @@ An Boden, wo der Titel zur leeren Hülse und zum Standesdünkel wird und die For
 
 ## Drives
 
-Er wurzelt im Apparat, den [Maria Theresia](persona_maria_theresia.md) schuf, und lebt fort bis zum "Herrn Professor Doktor" [Freud](persona_freud.md), den selbst der Umstürzler im Titel trägt.
+Er wurzelt im Verwaltungsapparat des alten Vielvölkerreichs, und lebt fort bis zum "Herrn Professor Doktor", den selbst der größte Umstürzler der Wissenschaft im Titel trägt.

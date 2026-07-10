@@ -34,4 +34,4 @@ Tlo gubi kad se melanholija pretvori u samosažaljenje i nepokret, kad se čežn
 
 ## Drives
 
-Živi u [Maku Dizdaru](persona_mak_dizdar.md), koji je iz srednjovjekovnog kamena i stećaka izvukao najdublji glas bosanske duše i stare čežnje. Tjera Bosnu da svoju tugu i čežnju čuva kao izvor ljepote i pjesme, a ne kao teret, i da iz sevdaha crpi snagu da traje.
+Živi u onome ko iz srednjovjekovnog kamena i stećaka izvuče najdublji glas bosanske duše i stare čežnje. Tjera Bosnu da svoju tugu i čežnju čuva kao izvor ljepote i pjesme, a ne kao teret, i da iz sevdaha crpi snagu da traje.

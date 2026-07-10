@@ -34,4 +34,4 @@ Its balance when heavy seasonal tourism overrides local community structures, pr
 
 ## Drives
 
-Encourages the historic island preservation in the plot [Flint Sit-Down Strike 1936](plot_03_sit_down_strike.md) and guides the ferry captaincy of [Clara](persona_clara.md).
+Encourages the historic island preservation in the plot [Flint Sit-Down Strike 1936](plot_03_sit_down_strike.md) and guides the ferry captaincy of the island's ferry captains.

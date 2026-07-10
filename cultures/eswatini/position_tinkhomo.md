@@ -34,4 +34,4 @@ Buyaphela uma tinkhomo titsatfwa njengemali nje, kungasekho bunjalo bemuntfu nes
 
 ## Drives
 
-Iphila ku-[intfombi](persona_intfombi.md), lehamba ekhaya ifuye sibaya, ihlonipha imikhuba yesibaya, nase-Ncwala lapho tinkhomo tibamba indzima lengcwele. Iyaphusha eSwatini kutsi ibambe tinkhomo nesibaya njengemphilo yesintfu, kuze imfuyo ihlale iyimphilo, kantsi sibaya sihlale siyindzawo lengcwele yekhaya.
+Iphila ekhaya lapho umuntfu afuya sibaya, ahlonipha imikhuba yesibaya, nase-Ncwala lapho tinkhomo tibamba indzima lengcwele. Iyaphusha eSwatini kutsi ibambe tinkhomo nesibaya njengemphilo yesintfu, kuze imfuyo ihlale iyimphilo, kantsi sibaya sihlale siyindzawo lengcwele yekhaya.

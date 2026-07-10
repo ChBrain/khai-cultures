@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Tingting bilong Bernard Narokobi, em i kolim "Melanesian We". Em i tok olsem dispela kantri i no ken bihainim rot bilong ol waitman tasol taim em i kisim independens, na em i no ken tromoi olgeta samting bilong tumbuna na kisim olgeta pasin bilong narapela ples. Em i tok olsem ol Melanesian i gat ol pasin bilong ol yet i gutpela na i strong: pasin bilong komuniti na wantok, pasin bilong givim na kisim, pasin bilong holim graun olsem samting bilong lain, na pasin bilong tingting long ol tumbuna na long spirit. Melanesian We em i rot we dispela kantri i bihainim ol gutpela pasin bilong tumbuna na i kisim tu ol gutpela samting bilong nupela taim, na i wokim wanpela rot bilong em yet.
+Tingting bilong wanpela lida husat i kolim "Melanesian We". Em i tok olsem dispela kantri i no ken bihainim rot bilong ol waitman tasol taim em i kisim independens, na em i no ken tromoi olgeta samting bilong tumbuna na kisim olgeta pasin bilong narapela ples. Em i tok olsem ol Melanesian i gat ol pasin bilong ol yet i gutpela na i strong: pasin bilong komuniti na wantok, pasin bilong givim na kisim, pasin bilong holim graun olsem samting bilong lain, na pasin bilong tingting long ol tumbuna na long spirit. Melanesian We em i rot we dispela kantri i bihainim ol gutpela pasin bilong tumbuna na i kisim tu ol gutpela samting bilong nupela taim, na i wokim wanpela rot bilong em yet.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Em i lusim graun taim ol manmeri i tingting olsem olgeta samting bilong waitman 
 
 ## Drives
 
-Em i stap insait long [Bernard Narokobi](persona_narokobi.md), em i bin kamapim tingting bilong Melanesian We na em i bin wokim konstitusen bilong dispela kantri, na long [John Guise](persona_guise.md), em i bin sanap olsem namba wan Gavna Jeneral na holim independens bilong kantri. Em i kirapim Papua Niugini long bihainim rot bilong em yet, no rot bilong narapela ples.
+Em i stap insait long dispela man husat i bin kamapim tingting bilong Melanesian We na em i bin wokim konstitusen bilong dispela kantri, na long namba wan Gavna Jeneral husat i bin sanap na holim independens bilong kantri. Em i kirapim Papua Niugini long bihainim rot bilong em yet, no rot bilong narapela ples.

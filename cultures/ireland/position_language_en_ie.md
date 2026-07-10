@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The authority of English as it is spoken and written across Ireland: Hiberno-English, the everyday tongue of nearly the whole island, the coloniser's language made wholly the nation's own. It carries the shape of the Irish beneath it in its grammar and its music, the after doing it, sure, your man, amn't I, the soft th and the lift of the sentence, and a literature, from Yeats to Joyce, that turned the imposed tongue into one of the great voices of the world.
+What Hiberno-English can say that plain English says only awkwardly: the immediate perfect built with "after", as in I'm after telling him, which marks an action as just completed in a way no other English tense quite manages; the habitual "does be", which marks a thing that happens regularly rather than once; and a cleft sentence that moves the important word to the front, as in It's Irish he speaks, so the emphasis lands where the ear falls first.
 
 ## Orders
 
-What passes for good English on the island, the spelling and the register of the school, the state, the newspaper, and the broadcaster, and the plain Hiberno-English idiom that marks the speech as Irish and not English or American. It orders the tongue of nearly all the daily living, the one in which the Republic actually does its business, argues its cases, and writes its books, whatever primacy the Constitution gives the first official language above it on the page.
+It requires an answer built by echoing the verb rather than a bare word, so that where other English reaches for a plain yes or no, this one answers I am or I amn't or I will or I won't, since the grammar beneath it never had a word for yes or no to begin with. It requires the dental stop, a hard t or d, where other English has a soft th, so this and that land with a harder edge.
 
 ## Loses
 
-Ground, oddly, to itself and to the wider anglophone tide: the flattening pull of a global, screen-borne English that smooths the local idiom away, and the long shadow of the very language it displaced, for it can never quite forget that it is the tongue the nation lost its own to. It carries a faint, unpayable debt, revered less than the Irish it replaced and yet spoken by all of them where that first language is spoken by few.
+The bare, unmarked yes or no that other English speakers reach for without thinking, since an answer here must always take the shape of the question that asked it. It loses too the single plain past tense of standard English, since a speaker must choose among several ways of marking that a thing is over, just now, or often, choices the grammar beneath it hands down and the schoolbook grammar above it does not recognise.
 
 ## Drives
 
-It drives Ireland to hold its whole identity, its wit, and its literature in a language it took from the coloniser and made its own. It lives in [James Joyce](persona_joyce.md), who bent it as no one before him and proved the nation's genius would speak to the world in English; in [Pádraig Pearse](persona_pearse.md), who proclaimed a Republic in it while giving his soul to the Irish; in [Cian](persona_cian.md), who owns it as his one fluent tongue; and in [Mary](persona_mary.md), for whom it is the English of the kitchen and the chapel. So the borrowed language becomes the truest voice of a people that reveres another above it.
+It drives whoever speaks it to answer a question by turning it back into a statement, echoing the very words asked rather than settling for a single yes or no. It trains an ear for exactly when a thing finished and how often it happens, since the tongue forces a choice among tenses that plain English collapses into one, and it shapes a way of talking that circles round the emphatic word and sets it first, so meaning arrives before the plain report of it.

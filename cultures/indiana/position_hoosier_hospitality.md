@@ -34,4 +34,4 @@ Its balance when modern real-estate development consolidates family farmland, di
 
 ## Drives
 
-Guides the local community projects in the plot [The Battle of Tippecanoe 1811](plot_01_battle_of_tippecanoe.md) and drives the farm management of [Helen](persona_helen.md).
+Guides the local community projects in the plot [The Battle of Tippecanoe 1811](plot_01_battle_of_tippecanoe.md) and drives the farm management of family farmers.

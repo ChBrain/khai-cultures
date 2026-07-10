@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-A certeza de que esta terra é muito mais velha do que o nome que hoje carrega, e de que muito antes de qualquer fronteira desenhada de fora já aqui havia reinos de gente com governo, palavra e lei. O Kongo do mani a norte, o Ndongo dos ngola no centro, donde vem o próprio nome de Angola, e a Matamba da grande Njinga: chão antigo e firme, com cortes, embaixadas e rainhas que se sentavam à mesa das conversas e saíam de pé. Os reinos são a raiz que diz que Angola não começou de fora, mas de dentro.
+A certeza de que esta terra é muito mais velha do que o nome que hoje carrega, e de que muito antes de qualquer fronteira desenhada de fora já aqui havia reinos de gente com governo, palavra e lei. O Kongo do mani a norte, o Ndongo dos ngola no centro, donde vem o próprio nome de Angola, e a Matamba da grande rainha guerreira: chão antigo e firme, com cortes, embaixadas e rainhas que se sentavam à mesa das conversas e saíam de pé. Os reinos são a raiz que diz que Angola não começou de fora, mas de dentro.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Terreno quando a raiz se esquece, quando se conta a terra como se ela só tivess
 
 ## Drives
 
-Vive em [Njinga Mbande](persona_njinga.md), a rainha do Ndongo e da Matamba que negociou de pé e resistiu com tino, figura celebrada de diplomacia e de palavra firme. Move Angola a andar de cabeça erguida, a saber-se terra antiga e de governo próprio, e a segurar o seu com a calma e o tino de quem vem de longe.
+Vive na rainha do Ndongo e da Matamba que negociou de pé e resistiu com tino, figura celebrada de diplomacia e de palavra firme. Move Angola a andar de cabeça erguida, a saber-se terra antiga e de governo próprio, e a segurar o seu com a calma e o tino de quem vem de longe.

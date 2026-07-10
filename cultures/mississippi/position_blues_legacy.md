@@ -34,4 +34,4 @@ Its balance when excessive commercial music streaming consolidation denies copyr
 
 ## Drives
 
-Guides the musical creation in the plot [The Delta Blues Birth 1900](plot_01_delta_blues.md) and drives the slide guitar work of [Charles](persona_charles_ms.md).
+Guides the musical creation in the plot [The Delta Blues Birth 1900](plot_01_delta_blues.md) and drives the slide guitar work that carries the Delta sound forward, the craft of bottleneck and bent string handed from player to player.

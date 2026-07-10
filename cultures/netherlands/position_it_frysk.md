@@ -34,4 +34,4 @@ Grond aan het Nederlands, de landstaal van school en staat, en aan het Engels va
 
 ## Drives
 
-Het leeft in [Baukje](persona_baukje.md), die het als haar moedertaal spreekt, en het drijft Friesland om zijn taal als teken van zichzelf vast te houden tegen het Nederlands en het Engels in.
+Het leeft in de boerin die het als haar moedertaal spreekt, en het drijft Friesland om zijn taal als teken van zichzelf vast te houden tegen het Nederlands en het Engels in.

@@ -34,4 +34,4 @@ Ground when the circle of mates closes into a club - when mateship becomes a wal
 
 ## Drives
 
-Lives in [the larrikin](persona_the_larrikin.md), the cheeky, anti-authority figure who holds the mate above the master and meets every officer and every airs-and-graces with an irreverent grin, the loyalty of equals turned into a refusal to bow. It drives Australia to value the bond between ordinary people above every rank and title, and to be measured by whether that loyalty reaches everyone or stops at the edge of the circle.
+Lives in the cheeky, anti-authority spirit that holds the mate above the master and meets every officer and every airs-and-graces with an irreverent grin, the loyalty of equals turned into a refusal to bow. It drives Australia to value the bond between ordinary people above every rank and title, and to be measured by whether that loyalty reaches everyone or stops at the edge of the circle.

@@ -34,4 +34,4 @@ Tanahnya tergugat apabila salah satu sendi dilihat berseorangan tanpa yang lain,
 
 ## Drives
 
-Hidup dalam [Sultan Bolkiah](persona_bolkiah.md), yang menyatukan daulat dan agama pada zaman kegemilangan, dan dalam [Sultan Omar Ali Saifuddien III](persona_saifuddien.md), yang menegakkannya sebagai sendi sebuah negara moden. Ia mendorong Brunei untuk melihat dirinya sebagai negeri yang Melayu, Islam, dan beraja, dan untuk menjaga ketiga-tiga sendi itu sebagai satu jati diri yang tidak terpisah.
+Hidup pada zaman kegemilangan yang menyatukan daulat dan agama, dan dalam penyusunan negara moden yang menegakkannya sebagai sendi falsafah rasmi. Ia mendorong Brunei untuk melihat dirinya sebagai negeri yang Melayu, Islam, dan beraja, dan untuk menjaga ketiga-tiga sendi itu sebagai satu jati diri yang tidak terpisah.

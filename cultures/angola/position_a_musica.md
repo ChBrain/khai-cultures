@@ -34,4 +34,4 @@ Terreno quando a música vira só produto para vender lá fora e perde a raiz do
 
 ## Drives
 
-Vive em [Bonga](persona_bonga.md), a voz rouca que levou o semba pelo mundo e o fez chorar e dançar ao mesmo tempo. Move Angola a pôr a sua alma na canção, a dançar a tristeza para a vencer, e a fazer da música o passaporte com que a terra se dá a conhecer ao mundo.
+Vive na voz rouca que levou o semba pelo mundo e o fez chorar e dançar ao mesmo tempo. Move Angola a pôr a sua alma na canção, a dançar a tristeza para a vencer, e a fazer da música o passaporte com que a terra se dá a conhecer ao mundo.

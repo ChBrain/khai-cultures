@@ -34,4 +34,4 @@ Ground when the bargain frays, when the drought bites and the elephant breaks th
 
 ## Drives
 
-Lives in [the conservancy ranger](persona_omukwetu.md), who walks the veld at dawn counting spoor and keeps the community's wild in trust, the herder turned game guard who carries the bargain in a notebook and a pair of worn boots. It drives Namibia to keep its wild by keeping faith with its people, the land feeding the people and the people keeping the land, a thing held slowly and so held well.
+Lives in the conservancy ranger, who walks the veld at dawn counting spoor and keeps the community's wild in trust, the herder turned game guard who carries the bargain in a notebook and a pair of worn boots. It drives Namibia to keep its wild by keeping faith with its people, the land feeding the people and the people keeping the land, a thing held slowly and so held well.

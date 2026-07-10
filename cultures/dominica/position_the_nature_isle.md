@@ -34,4 +34,4 @@ Ground when the green is taken for granted or traded away - cleared for short mo
 
 ## Drives
 
-Lives in [the Kalinago](persona_the_kalinago.md), the people who knew the forest before any empire and who keep the last of it as their own. It drives Dominica to hold the wild against the market and the wind, to set herself the charge of becoming the world's first climate-resilient nation, and to keep faith with the oldest words she has - that apres Bondie c'est la te, after God comes the Earth.
+Lives in the forest known before any empire came, kept as home by the people who never let it go. It drives Dominica to hold the wild against the market and the wind, to set herself the charge of becoming the world's first climate-resilient nation, and to keep faith with the oldest words she has - that apres Bondie c'est la te, after God comes the Earth.

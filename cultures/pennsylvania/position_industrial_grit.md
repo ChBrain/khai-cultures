@@ -34,4 +34,4 @@ Its balance when resistance to transition causes stagnation, preventing the deve
 
 ## Drives
 
-Encourages the solidarity in the plot [The Rise of Steel and Coal 1875](plot_03_steel_and_coal.md) and guides the community advocacy of [John](persona_john.md).
+Encourages the solidarity in the plot [The Rise of Steel and Coal 1875](plot_03_steel_and_coal.md) and guides the community advocacy carried on by retired steelworkers who hold the mills' memory against the pull of a service economy.

@@ -34,4 +34,4 @@ Ground when the cradle is tell as glory alone, the proud first colony, the might
 
 ## Drives
 
-Lives in [the sugar worker](persona_the_sugar_worker.md), the enslave and then free hand of the cane in whom the whole monoculture stand up, the one who bore the cradle's history in the very flesh and outlast it. It drive Saint Kitts and Nevis to keep the memory of the Mother Colony whole, the first colony, the great fort, and the bondage in the field, and to honour the worker who carry it.
+Lives in the sugar worker, the enslave and then free hand of the cane in whom the whole monoculture stand up, the one who bore the cradle's history in the very flesh and outlast it. It drive Saint Kitts and Nevis to keep the memory of the Mother Colony whole, the first colony, the great fort, and the bondage in the field, and to honour the worker who carry it.

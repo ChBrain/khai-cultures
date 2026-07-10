@@ -34,4 +34,4 @@ Terreno cuando lo pipil se da por muerto y se reduce a folclore o a ruina: cuand
 
 ## Drives
 
-La vive [Anastasio Aquino](persona_anastasio_aquino.md), el indígena nonualco que se alzó en 1833 por los suyos contra el orden que los tenia aplastados, y la sostiene [Salarrue](persona_salarrue.md), que recogió en el barro de sus cuentos el alma pipil y mestiza del pueblo. Empuja a El Salvador a reconocerse hijo de Cuzcatlan tanto como de la colonia.
+La vive el indígena nonualco que se alzó en 1833 por los suyos contra el orden que los tenia aplastados, y la sostiene el barro de los cuentos que recogió el alma pipil y mestiza del pueblo. Empuja a El Salvador a reconocerse hijo de Cuzcatlan tanto como de la colonia.

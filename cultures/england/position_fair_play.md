@@ -34,4 +34,4 @@ Ground where the appeal to fair play becomes a way to keep the well-placed comfo
 
 ## Drives
 
-It lives in [Liam](persona_liam.md), for whom a cheat is the worst thing going at the match, and it carries [Charles Dickens](persona_dickens.md), who pressed that fair play is owed to the pauper and the child, not only to the gentleman.
+It lives in the terrace verdict that a cheat is the worst thing going at the match, and it carries the case pressed in the novel that fair play is owed to the pauper and the child, not only to the gentleman.

@@ -34,4 +34,4 @@ Jamoaning roziligi har bir orzuni bo'g'ib, el nima deydi degan andisha shaxsni y
 
 ## Drives
 
-[Amir Temur](persona_amir_temur.md)da yashaydi, u Samarqandni saltanat va el markaziga aylantirib, hunar va me'morlikni guzarlarga olib kelgan, va [Usta](persona_usta.md)da, u bozor va guzarda hunarini avlodlarga o'tkazib, mahalla qo'shnichiligini saqlab kelgan. U O'zbekistonni qo'shnichilik, mehmondo'stlik va el hamjihatligi bilan o'lchashga undaydi.
+Samarqandni saltanat va el markaziga aylantirib, hunar va me'morlikni guzarlarga olib kelgan hukmdorlikda yashaydi, va bozor va guzarda hunarni avlodlarga o'tkazib, mahalla qo'shnichiligini saqlab kelgan ustachilikda. U O'zbekistonni qo'shnichilik, mehmondo'stlik va el hamjihatligi bilan o'lchashga undaydi.

@@ -34,4 +34,4 @@ An Glanz, wenn Denkmalschutzprogramme gekürzt werden oder wenn gesellschaftlich
 
 ## Drives
 
-Wird verkörpert durch das Meisterwerk [das Meissener Porzellan](piece_porzellan.md) und lenkt das Traditionsbewusstsein von Maler [Günter](persona_guenter.md) im Plot [Die Epoche Augusts des Starken ab 1697](plot_01_august_der_starke_1697.md).
+Wird verkörpert durch das Meisterwerk [das Meissener Porzellan](piece_porzellan.md) und lenkt das Traditionsbewusstsein des Malers im Plot [Die Epoche Augusts des Starken ab 1697](plot_01_august_der_starke_1697.md).

@@ -34,4 +34,4 @@ An Akzeptanz, wenn blinder Gehorsam erzwungen wird oder wenn die Tugenden zur Un
 
 ## Drives
 
-Begründet den staatlichen Aufstieg im Plot [Der Aufstieg Brandenburg-Preußens 1701](plot_01_preussen_1701.md) und lenkt das pflichtbewusste Handeln von Förster [Ulrich](persona_ulrich.md).
+Begründet den staatlichen Aufstieg im Plot [Der Aufstieg Brandenburg-Preußens 1701](plot_01_preussen_1701.md) und lenkt das pflichtbewusste Handeln des Försters, der seinen Dienst gewissenhaft und ohne viel Aufhebens verrichtet.

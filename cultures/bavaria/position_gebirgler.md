@@ -33,4 +33,4 @@ An Einfluss durch den Wandel zum reinen Tourismusgebiet und die Erschließung de
 
 ## Drives
 
-Es prägt das Leben von [Gustl](persona_gustl.md), der sich tagtäglich der Mühsal der Almwirtschaft stellt, und bildet das romantische Ideal der alpinen Identität, dem auch [König Ludwig II.](persona_ludwig.md) folgte.
+Es prägt das Leben derer, die sich tagtäglich der Mühsal der Almwirtschaft stellen, und bildet das romantische Ideal der alpinen Identität, dem sich selbst die Krone hingab.

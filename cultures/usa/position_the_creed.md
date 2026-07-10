@@ -34,4 +34,4 @@ Ground when the gap is denied rather than closed - when the creed becomes a comf
 
 ## Drives
 
-Lives in [Thomas Jefferson](persona_jefferson.md), who wrote the creed of universal liberty while holding others enslaved, the contradiction embodied, and in [Martin Luther King Jr.](persona_mlk.md), who held the nation to its own words and called the Declaration a promissory note still unpaid. It drives the United States to keep measuring itself against the promise it made and to keep paying the debt down, dime by dime.
+Lives in the authorship that wrote the creed of universal liberty while holding others enslaved, the contradiction embodied, and in the movement that held the nation to its own words and called the Declaration a promissory note still unpaid. It drives the United States to keep measuring itself against the promise it made and to keep paying the debt down, dime by dime.

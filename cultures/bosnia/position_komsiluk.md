@@ -34,4 +34,4 @@ Tlo gubi kad strah i nepovjerenje pretvore komšiju u prijetnju, kad se isti jez
 
 ## Drives
 
-Živi u [Mehmed-paši Sokoloviću](persona_sokolovic.md), koji je gradio zadužbine za sve, i u [Mejri](persona_mejra.md), koja je imala srpske, hrvatske i jevrejske komšije i preživjela opsadu držeći komšiluk u riječima koje su sad razdvojene. Tjera Bosnu da iz podijeljene države iznova sagradi izmiješani život, koji ju je vjekovima činio onim što jeste.
+Živi u onome ko se, uzdignut na vrh carstva, ne odrekne zavičaja i gradi zadužbine za sve vjere podjednako, i u onoj koja je čitav život imala srpske, hrvatske i jevrejske komšije i preživjela opsadu grada, držeći komšiluk u riječima koje su sad razdvojene. Tjera Bosnu da iz podijeljene države iznova sagradi izmiješani život, koji ju je vjekovima činio onim što jeste.

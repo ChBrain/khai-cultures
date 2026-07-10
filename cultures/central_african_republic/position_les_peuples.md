@@ -34,4 +34,4 @@ Du terrain quand un peuple se croit au-dessus d'un autre, quand la difference de
 
 ## Drives
 
-Vit en [Pierre Bambote](persona_bambote.md), qui a porte dans l'ecrit la memoire des villages et des gens simples, et en [le chanteur de la foret](persona_le_chanteur.md), qui garde vivant le chant des BaAka au plus profond des bois. Elle pousse la Centrafrique a tenir ensemble ses nombreux peuples comme une seule famille, sans que la diversite devienne division.
+Elle vit dans l'ecrit qui porte la memoire des villages et des gens simples, et dans le chant qui garde vivante, au plus profond des bois, la voix des BaAka. Elle pousse la Centrafrique a tenir ensemble ses nombreux peuples comme une seule famille, sans que la diversite devienne division.

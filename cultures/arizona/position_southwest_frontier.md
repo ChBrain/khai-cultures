@@ -34,4 +34,4 @@ Its balance when unregulated mining extraction contaminates local water supplies
 
 ## Drives
 
-Influences the municipal growth in the plot [The Central Arizona Project 1968](plot_03_central_arizona_project.md) and drives the geological work of [Ramon](persona_ramon.md).
+Influences the municipal growth in the plot [The Central Arizona Project 1968](plot_03_central_arizona_project.md) and drives the geological work that reads the desert's rock for the water and copper beneath it.

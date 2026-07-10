@@ -34,4 +34,4 @@ Ground when the interior is treated as empty - a frontier to be cut, mined, dril
 
 ## Drives
 
-Lives in [Stephen Campbell](persona_stephen_campbell.md), the first Amerindian member of parliament, who carried the voice of the first peoples and their land into the nation's councils. It drives Guyana to remember that it is the Land of Many Waters, to keep its forest and its rivers whole, and to honour the peoples who held this ground first.
+Lives in the first Amerindian member of parliament, who carried the voice of the first peoples and their land into the nation's councils. It drives Guyana to remember that it is the Land of Many Waters, to keep its forest and its rivers whole, and to honour the peoples who held this ground first.

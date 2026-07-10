@@ -34,4 +34,4 @@ Ground when the Pearl is admired and not kept, the forest cleared and the lake f
 
 ## Drives
 
-Lives in [Geoffrey Oryema](persona_oryema.md), who carried the song of the home country across the world and made the world hear the Pearl in it, and in [Joshua Cheptegei](persona_cheptegei.md), who ran the nation's name onto the world's track and gave a country sure of its hills a champion of its lungs. It drives Uganda to honour the land, to share its plenty, and to make the beauty a birthright for all.
+Lives in the voice that carried the song of the home country across the world and made the world hear the Pearl in it, and in the running that carried the nation's name onto the world's track and gave a country sure of its hills a champion of its lungs. It drives Uganda to honour the land, to share its plenty, and to make the beauty a birthright for all.

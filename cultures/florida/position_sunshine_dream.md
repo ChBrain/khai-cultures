@@ -34,4 +34,4 @@ Its credibility when rapid overdevelopment causes water shortages and coastal er
 
 ## Drives
 
-Influences the real estate speculation in the plot [The Land Boom and Tourism 1920](plot_02_land_boom_1920s.md) and drives the aerospace work of [Jackson](persona_jackson.md).
+Influences the real estate speculation in the plot [The Land Boom and Tourism 1920](plot_02_land_boom_1920s.md) and drives the aerospace ambitions that turned the coastline into a launch corridor.

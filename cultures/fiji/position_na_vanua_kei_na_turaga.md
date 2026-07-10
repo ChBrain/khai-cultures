@@ -34,4 +34,4 @@ E malumalumu ni sa vakayagataki na vanua kei na turaga me wasea na lewenivanua, 
 
 ## Drives
 
-E bula ena bula i [Cakobau](persona_cakobau.md), na turaga levu e a soli Viti me maroroya na vanua kei na turaga, kei [Sukuna](persona_sukuna.md), na turaga vuku e a vakaduria na ivakavakarau ni vanua ena gauna vou. E uqeta ko Viti me taura matua na vanua kei na turaga ena gauna era na vakaduria tiko kina e dua na matanitu vou.
+E bula ena turaga levu e a soli Viti me maroroya na vanua kei na turaga, kei na turaga vuku e a vakaduria na ivakavakarau ni vanua ena gauna vou. E uqeta ko Viti me taura matua na vanua kei na turaga ena gauna era na vakaduria tiko kina e dua na matanitu vou.

@@ -34,4 +34,4 @@ Ground, where mobility, money, and a more mixed Britain blur the old lines, and 
 
 ## Drives
 
-It is carried by [William Shakespeare](persona_shakespeare.md), whose theatre set lord and labourer before the same stage, and it is worked daily by [Aisha](persona_aisha.md), who navigates rather than inherits her place in it.
+It is carried by the stage that set lord and labourer before the same audience, and it is worked daily by whoever navigates rather than inherits their place in it.

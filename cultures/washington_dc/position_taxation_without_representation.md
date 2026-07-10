@@ -34,4 +34,4 @@ Its balance when focus on the statehood campaign leads to neglect of municipal p
 
 ## Drives
 
-Encourages the municipal protest in the plot [The Home Rule Act 1973](plot_03_home_rule_act.md) and guides the community advocacy of [Marcus](persona_marcus.md).
+Encourages the municipal protest in the plot [The Home Rule Act 1973](plot_03_home_rule_act.md) and guides the community advocacy that keeps the statehood campaign and the District's daily governance both alive at once.

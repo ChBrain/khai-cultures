@@ -34,4 +34,4 @@ Du terrain quand la difference se durcit en cloison, quand le Nord et le Sud, le
 
 ## Drives
 
-Vit dans [Roger Milla](persona_milla.md), dont la danse a fait lever de joie tout un continent et a montre que ce petit pays porte l'Afrique entiere, et dans [la buyam-sellam](persona_la_buyam_sellam.md), qui realise chaque jour sur son etal le melange de tous les peuples et de toutes les langues du pays. Elle pousse le Cameroun a se tenir debout comme un seul pays aux cent visages, fier de sa diversite et bien decide a ne pas la laisser se fendre.
+Elle vit dans la danse de joie qui a fait lever tout un continent et a montre que ce petit pays porte l'Afrique entiere, et sur l'etal du marche, ou se realise chaque jour le melange de tous les peuples et de toutes les langues du pays. Elle pousse le Cameroun a se tenir debout comme un seul pays aux cent visages, fier de sa diversite et bien decide a ne pas la laisser se fendre.

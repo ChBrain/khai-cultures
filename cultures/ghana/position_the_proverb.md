@@ -34,4 +34,4 @@ Ground when the indirection thins into mere evasion, the truth so wrapped it is 
 
 ## Drives
 
-Lives in [Ama Ata Aidoo](persona_aidoo.md), who carried the proverb and the spoken tale onto the written page and into the world's tongue, and in [the Okyeame](persona_okyeame.md), the linguist whose whole craft is to wrap the chief's word in the right proverb. It drives Ghana to teach by image and by story, to say the difficult thing gently, and to keep turning, sankofa, to fetch what is good from behind.
+Lives in the writer who carried the proverb and the spoken tale onto the written page and into the world's tongue, and in the linguist whose whole craft is to wrap the chief's word in the right proverb. It drives Ghana to teach by image and by story, to say the difficult thing gently, and to keep turning, sankofa, to fetch what is good from behind.

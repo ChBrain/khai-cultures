@@ -34,4 +34,4 @@ Ground when the water divide more than it tie, when the little islands feel the 
 
 ## Drives
 
-Lives in [the Bequia whaler](persona_the_bequia_whaler.md), the sailor of the Grenadines for who the sea is the living and the road, and in [the arrowroot farmer](persona_the_arrowroot_farmer.md), the mainland grower who work the rich slope under the volcano. It drive Saint Vincent and the Grenadines to hold its land and its sea, its mainland and its islands, together as one home.
+Lives in the Bequia whaler, the sailor of the Grenadines for who the sea is the living and the road, and in the arrowroot farmer, the mainland grower who work the rich slope under the volcano. It drive Saint Vincent and the Grenadines to hold its land and its sea, its mainland and its islands, together as one home.

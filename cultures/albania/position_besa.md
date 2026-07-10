@@ -34,4 +34,4 @@ Truall humbet kur nderi kthehet në gjakmarrje dhe besa në hakmarrje, kur fjala
 
 ## Drives
 
-Jeton te [Nënë Tereza](persona_nene_tereza.md), që e bëri mikpritjen të botërore duke i shërbyer të vdekurve të botës, dhe te [Drita](persona_drita.md), që jep besën dhe dhomën e miqve me fjalë që s'i flet asnjë fqinj. E shtyn Shqipërinë ta kthejë fjalën e dhënë dhe mikpritjen nga kod mali në besim qytetar.
+Jeton atje ku mikpritja bëhet e botërore, duke iu shërbyer të vdekurve të botës përtej shtëpisë së vet, dhe atje ku besa e dhoma e miqve jepen me fjalë që s'i flet asnjë fqinj. E shtyn Shqipërinë ta kthejë fjalën e dhënë dhe mikpritjen nga kod mali në besim qytetar.

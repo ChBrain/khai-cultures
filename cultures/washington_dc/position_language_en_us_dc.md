@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The American English of the federal District, holding two channels at once: the formal, transplant-standard register of the archive halls and federal offices, and the rhythmic local vernacular of the U Street corridor, the neighborhood cadence of the go-go stage and the corner. It is the speech of a city that is at once the national capital and a home town.
+Washington, D.C. English holds two real registers within one city speech. One is the federal bureaucratic register, which packs whole procedures into a single nominalized noun phrase and strings acronyms into ordinary sentences, a density unusual in everyday talk. The other is the African American Vernacular English of the city's older neighborhoods, which lets a speaker mark habitual, recurring action with an unstressed "be" ("he be working late") separately from a single instance ("he working late now"), a distinction General American cannot make without extra words, and reaches further back with a stressed "BIN" that marks a state as begun long ago and still holding true.
 
 ## Orders
 
-Where it passes as native ground: the go-go stage, the U Street corner, the community meeting, and, in its formal channel, the archive floor and the federal office. It orders which turns of phrase mark a speaker as a District local rather than a passing federal transplant, and sets the neighborhood ear against the official one.
+Every verb in the vernacular register forces a choice: mark the habitual with "be" or leave it out for the immediate reading, since the two are not interchangeable; the copula, "is" or "are," can drop before an adjective or a location ("she tired," "we outside"), an option the formal register never allows, so the speaker decides, sentence by sentence, which grammar the moment calls for. The bureaucratic register forces the opposite: the passive voice and the abstract noun ("errors were identified" rather than "we found errors"), so the sentence is built to fit the record before it fits the mouth.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the Capitol carry, which treats the rhythmic local vernacular as unofficial and stamps the home-town cadence as beneath the national stage. The bureaucratic federal register also crowds the everyday speech of the District toward the margin, as if only the transplant standard belonged in the record.
+The vernacular register's habitual "be" and its multiple negation, where two or more negatives intensify a single denial rather than cancel it, have no clean equivalent in the formal register and are stripped out or misheard as error when the two meet. The bureaucratic register loses the agent from its own sentences in turn, since the passive construction it requires can report that something happened without ever naming who did it. Between the two, the plain statement naming one actor and one act is what the city's speech finds hardest to hold onto.
 
 ## Drives
 
-It carries [Eleanor](persona_eleanor.md), whose formal register is the working English of the federal archive halls, and [Marcus](persona_marcus.md), whose rhythmic local cadence holds the neighborhood English of the U Street corridor. So the one District speech shows who answers to the national record and who keeps the home-town ground.
+It drives whoever grows up moving between the two registers to monitor, before nearly every sentence, which grammar the room calls for, turning tense and copula choice into a form of constant situational attention rather than habit. It drives the bureaucratic speaker to build sentences around the record rather than the actor, so responsibility recedes into the passive construction by reflex. The one city speech shapes a dual fluency: a grammar built for naming who did what, close to home, and a grammar built to leave the doer unnamed.

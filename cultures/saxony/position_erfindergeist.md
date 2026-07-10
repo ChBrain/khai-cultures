@@ -34,4 +34,4 @@ An Dynamik, wenn Fachkräftemangel die Expansion behindert oder globale Lieferke
 
 ## Drives
 
-Treibt die moderne Chipfertigung von [Peggy](persona_peggy.md) im Plot [Sachsen als industrieller Vorreiter ab 1830](plot_02_industrial_pioneer.md) voran.
+Treibt die moderne Chipfertigung der Ingenieurin im Plot [Sachsen als industrieller Vorreiter ab 1830](plot_02_industrial_pioneer.md) voran.

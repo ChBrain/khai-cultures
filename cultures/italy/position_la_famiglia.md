@@ -34,4 +34,4 @@ Terreno quando la lealtà ai propri diventa familismo che soffoca e che antepone
 
 ## Drives
 
-Vive in [Rosa](persona_rosa.md), che tiene insieme i suoi attorno alla [tavola](process_la_tavola.md), e regge l'intera società dove lo Stato non arriva. Spinge l'Italia a cercare nella famiglia la sicurezza che le istituzioni non danno, e a fare del legame di sangue la sua vera patria.
+Vive in chi tiene insieme i suoi attorno alla [tavola](process_la_tavola.md), e regge l'intera società dove lo Stato non arriva. Spinge l'Italia a cercare nella famiglia la sicurezza che le istituzioni non danno, e a fare del legame di sangue la sua vera patria.

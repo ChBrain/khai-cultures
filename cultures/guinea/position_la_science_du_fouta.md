@@ -34,4 +34,4 @@ Du terrain quand la rigueur se durcit en jugement de l'autre et ferme la porte a
 
 ## Drives
 
-Vit dans [Karamoko Alfa](persona_karamoko_alfa.md), l'almami fondateur qui a assis la foi et l'etude au coeur du massif et fait du Fouta un foyer de science. Elle pousse la Guinee a tenir le savoir pour un honneur, a respecter le maitre et le livre, et a garder, dans ses montagnes, une vieille foi qui a su lire et ecrire bien avant qu'on l'y attende.
+Vit dans l'almami fondateur qui a assis la foi et l'etude au coeur du massif et fait du Fouta un foyer de science. Elle pousse la Guinee a tenir le savoir pour un honneur, a respecter le maitre et le livre, et a garder, dans ses montagnes, une vieille foi qui a su lire et ecrire bien avant qu'on l'y attende.

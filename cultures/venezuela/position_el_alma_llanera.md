@@ -34,4 +34,4 @@ Terreno cuando el país se olvida de su llanura y se cree solo ciudad y solo pet
 
 ## Drives
 
-Vive en [Simón Díaz](persona_simon_diaz.md), el folclorista que recogió el canto del llano y lo devolvió hecho universal en "Caballo Viejo", y en [el llanero](persona_el_llanero.md), el jinete libre de la sabana que encarna su orgullo, su música y su brava independencia. Empuja a Venezuela a no olvidarse de que, antes del crudo y de la urbe, tuvo un alma de copla y de caballo nacida en la llanura.
+Vive en el folclore que recogió el canto del llano y lo devolvió hecho universal en "Caballo Viejo", y en el jinete libre de la sabana que encarna su orgullo, su música y su brava independencia. Empuja a Venezuela a no olvidarse de que, antes del crudo y de la urbe, tuvo un alma de copla y de caballo nacida en la llanura.

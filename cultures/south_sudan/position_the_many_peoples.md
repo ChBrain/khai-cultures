@@ -34,4 +34,4 @@ Ground when the pride of one people is set above another, when the count of catt
 
 ## Drives
 
-Lives in [Taban lo Liyong](persona_taban.md), who wrote across the tongues and held the whole gathering in his pages, and stands behind [John Garang](persona_garang.md), remembered for the vision of a country that all its peoples could call their own. It drives South Sudan to carry its many peoples in equal dignity, to keep the mother tongues alive beneath the common talk, and to be a house large enough to hold them all.
+Lives in the writers who wrote across the tongues and held the whole gathering in their pages, and stands behind the founding vision, carried from the struggle for independence, of a country that all its peoples could call their own. It drives South Sudan to carry its many peoples in equal dignity, to keep the mother tongues alive beneath the common talk, and to be a house large enough to hold them all.

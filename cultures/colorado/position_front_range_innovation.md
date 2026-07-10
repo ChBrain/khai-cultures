@@ -34,4 +34,4 @@ Its balance when rapid tech wealth gentrification increases housing costs, displ
 
 ## Drives
 
-Influences the early city foundations in the plot [Pike's Peak Gold Rush 1859](plot_01_gold_rush.md) and drives the clean-energy work of [Elena](persona_elena.md).
+Influences the early city foundations in the plot [Pike's Peak Gold Rush 1859](plot_01_gold_rush.md) and drives the clean-energy engineering that turns start-up capital into renewable infrastructure.

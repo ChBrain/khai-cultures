@@ -34,4 +34,4 @@ Terreni quando vira so fachada para o turista, dosura vendida que ja nao sai do 
 
 ## Drives
 
-Vive em [Amilcar Cabral](persona_cabral.md), que sonhou um povu dono de si mas sem perder a dosura e a uniao das ilhas, e em [a kantadeira di sodade](persona_kantadeira.md), que resebe o forasteiru kom musika e kom mesa posta. Ela empurra Cabo Verde a responder a vida dura kom a mao aberta, e a fazer da akolhida a sua marka diante do mundu.
+Vive em quem sonhou um povu dono de si mas sem perder a dosura e a uniao das ilhas, e em quem resebe o forasteiru kom musika e kom mesa posta. Ela empurra Cabo Verde a responder a vida dura kom a mao aberta, e a fazer da akolhida a sua marka diante do mundu.

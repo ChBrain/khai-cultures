@@ -34,4 +34,4 @@ Elle prive le pays d'une langue commune : ce qui se perd, c'est qu'un Belge puis
 
 ## Drives
 
-Elle vit dans [Wout](persona_wout.md), qui refuse de parler français, et dans [Julien](persona_julien.md), qui n'a jamais appris le néerlandais ; elle pousse la Belgique à dévoluer toujours davantage aux communautés et à ne plus tenir que par [le compromis](position_le_compromis_belge.md) et la [Couronne](position_la_couronne.md), un État traversé par une frontière au beau milieu de sa propre langue.
+Elle vit chez ceux qui, au nord, refusent de parler français, et chez ceux qui, au sud, n'ont jamais appris le néerlandais ; elle pousse la Belgique à dévoluer toujours davantage aux communautés et à ne plus tenir que par [le compromis](position_le_compromis_belge.md) et la [Couronne](position_la_couronne.md), un État traversé par une frontière au beau milieu de sa propre langue.

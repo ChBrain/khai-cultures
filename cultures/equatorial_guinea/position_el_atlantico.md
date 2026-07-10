@@ -34,4 +34,4 @@ Terreno cuando lo que el bosque y el mar dan se manda afuera sin volver, de modo
 
 ## Drives
 
-Vive en [Desmali](persona_desmali.md), cuya música cruza el golfo para que la isla y el continente se reconozcan en una canción, y en [el cacaotero](persona_cacaotero.md), que abre el bosque al mundo grano a grano por el puerto. Empuja a Guinea Ecuatorial a vivir del mar y del bosque que la rodean y a hacer del Atlántico el lazo de sus dos orillas, no su corte.
+Vive en la música que cruza el golfo para que la isla y el continente se reconozcan en una canción, y en el trabajo del cacao que abre el bosque al mundo grano a grano por el puerto. Empuja a Guinea Ecuatorial a vivir del mar y del bosque que la rodean y a hacer del Atlántico el lazo de sus dos orillas, no su corte.

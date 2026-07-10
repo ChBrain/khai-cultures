@@ -34,4 +34,4 @@ Terreno cuando se confunde la fe con la imposición, como en [1492](plot_01_1492
 
 ## Drives
 
-Lo hereda [Miguel de Cervantes](persona_cervantes.md), con su melancolía y su sentido del honor templados por el humor, y lo guarda [Carmen](persona_carmen.md), que vive la Semana Santa y los santos más como costumbre y calendario que como dogma.
+Lo hereda la gran novela que llevó la melancolía española a su cumbre, templada por el humor y el sentido del honor, y lo guarda quien vive la Semana Santa y los santos más como costumbre y calendario que como dogma.

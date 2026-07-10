@@ -34,4 +34,4 @@ Its balance when corporate streaming platforms reduce songwriting royalties, cau
 
 ## Drives
 
-Guides the performance design in the plot [The Grand Ole Opry Founding 1925](plot_01_grand_ole_opry.md) and drives the songwriting of [Jackson](persona_jackson.md).
+Guides the performance design in the plot [The Grand Ole Opry Founding 1925](plot_01_grand_ole_opry.md) and drives the songwriting craft of working musicians in the industry.
