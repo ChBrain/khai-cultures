@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano hablado en Navarra, con el acento energico de la Ribera del Ebro y el lexico de la huerta de regadio, del secano y de la fiesta. En los valles del norte lleva la entonacion del euskera debajo; en la Ribera del sur suena pleno y propio como lengua materna, sin mezcla. Guarda las palabras del riego, del esparrago y del encierro, y es el espanol con el que toda Navarra, euskaldun o castellanohablante, se entiende de punta a punta.
+Tiene la conjugacion verbal del castellano, que basta por si sola para marcar la persona sin necesidad de decir el pronombre, y modos como el subjuntivo que marcan la duda y el deseo donde el indicativo solo cuenta hechos. En los valles del norte lleva por debajo la entonacion cantarina del euskera, aunque las palabras sean castellanas, y guarda del vascuence toponimos y giros pastoriles que ningun otro romance conserva igual.
 
 ## Orders
 
-Manda en las juntas de la comunidad de regantes, en el trato con las oficinas del Canal de Navarra y con la consejeria foral, y en el papel comun de una comunidad partida entre dos lenguas. Ordena que haya un castellano compartido para el contrato, el bando y el reglamento, y fija el registro con el que Navarra se explica ante el Estado sin renunciar al euskera de sus valles.
+Obliga a concordar genero y numero en cada frase y a que la propia terminacion del verbo lleve la persona sin pronombre aparte; obliga al subjuntivo cuando se duda o se desea, y obliga a elegir entre tu y usted segun la confianza. Y en el norte obliga a la entonacion vasca a subir y bajar aun cuando el que habla no sepa una palabra de euskera, porque la lleva aprendida del oido antes que de la gramatica.
 
 ## Loses
 
-Pierde terreno frente al euskera en los valles del norte, en la escuela y en la casa donde el habla alto-navarra se sostiene, y pierde matiz frente al castellano neutro de la capital y de los medios, que lima el acento recio de la Ribera y toma sus giros de huerta por rusticidad, como si el habla propia del Ebro fuera un espanol menor.
+Pierde el acento recio de la Ribera frente al castellano neutro de la television, que lo toma por tosco; y pierde la entonacion vasca de los valles del norte en cuanto baja hacia el sur, de modo que el mismo castellano no suena igual de un extremo a otro de Navarra, sino partido entre el valle y la vega.
 
 ## Drives
 
-Empuja a Navarra a entenderse en una lengua comun por encima de la frontera de sus valles. Se lo da a [Fermin](persona_fermin.md), hortelano de esparragos de la Ribera, como lengua materna en la que negocia y manda el riego, y a [Ane](persona_ane.md), guarda forestal de Ochagavia, como el castellano con el que trata con la consejeria mientras piensa en euskera; y en cada uno de ellos se ve quien vive esta lengua como propia y quien la lleva como puente hacia el sur.
+Empuja a quien lo habla en el norte a traducirse a si mismo a cada momento, pensando quiza en euskera y hablando en castellano por el contrato, el bando o la oficina; y en la Ribera lo lleva como lengua entera y propia, sin esa traduccion de por medio, de modo que un mismo castellano se vive de dos maneras distintas segun el valle donde se nace.

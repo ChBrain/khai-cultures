@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des mecklenburgisch-vorpommerschen Hochdeutsch, wie es am wasserreichen Küstenland der Ostsee gesprochen und geschrieben wird. Es hält jenen ruhigen, gedehnten Klang des Nordostens, der aus dem alten Niederdeutschen erwuchs: die bedächtige, sturmfeste Sprache der Seenplatte und der Hansestädte, in der man Worte spart wie das Meer die Ruhe zwischen den Wellen.
+Das Hochdeutsch der Küste hält jene klare, buchstabennahe Aussprache, die im Norden entstand, weil man das Hochdeutsche hier erst spät und als gelernte, geschriebene Norm über das Niederdeutsche legte, nicht als gewachsene Mundart: jeder Vokal lang oder kurz genau wie geschrieben, ohne die Färbung südlicher Mundarten. Es trägt daneben plattdeutsche Wörter, die sich ins Hochdeutsche eingenistet haben, Diek für den Deich, Snack für das Gespräch, Moin als Gruß zu jeder Tageszeit.
 
 ## Orders
 
-Was in Mecklenburg-Vorpommern als gutes Hochdeutsch zählt, vom langsamen, kargen Ton der Fischerdörfer bis zum geprüften Register der alten Universität Rostock. Es ordnet die knappe, verlässliche Rede und macht aus dem ruhigen Wort die Form, an der man die Seenruhe des Landes erkennt.
+Es zwingt, wie jedes Hochdeutsch, bei jedem Ding ein Geschlecht zu wählen und bei jedem Satz einen der vier Fälle, das Verb im Nebensatz bis zuletzt zurückzuhalten und bei jeder Anrede zwischen Sie und du zu entscheiden. Es verlangt zusätzlich die klare, volle Aussprache jedes Vokals und jedes Konsonanten am Wortende, ohne sie zu verschleifen, als Kennzeichen des im Norden als "gutes Hochdeutsch" geltenden Tons.
 
 ## Loses
 
-Boden an das Ostsee-Platt, die alte niederdeutsche Muttersprache der Küste, das im Hafen und in den Dörfern weiterlebt, was der Standard nie ganz einfängt. Es verliert auch an das Englisch der Luxushotels an der Promenade und der wissenschaftlichen Fachjournale, das im Tourismus und in der Forschung den Ton angibt.
+Es verliert die eigene Grammatik des Niederdeutschen darunter, dessen einfacheres Fallsystem und eigene Fürwörter unter dem hochdeutschen Kasus und Geschlecht verschwinden. Es verliert die Direktheit und Wärme des Platt, die im geprüften Hochdeutsch steifer klingt, und es verliert den maritimen Wortschatz der Küste an das Englisch der Hotels und der Fachjournale, das im Tourismus und in der Forschung den Ton angibt.
 
 ## Drives
 
-Es treibt das Land, in der ruhigen, gemessenen Rede seine Verlässlichkeit zu zeigen. Es trägt das stark vom Platt gefärbte Deutsch des Ostseefischers [Hinnerk](persona_hinnerk.md), die vertraute Stimme des Meeres, und das klare, um Englisch ergänzte Hochdeutsch der Meeresbiologin [Wiebke](persona_wiebke.md), das die Messwerte der Ostsee in Worte fasst. So zeigt die eine Landesform, wie Küste und Wissenschaft denselben Standard verschieden klingen lassen.
+Es treibt den, der es spricht, zu einer klaren, am Buchstaben gemessenen Aussprache, die einst als Norm für ganz Deutschland galt. Es gewöhnt ihn, in jeder Anrede die Distanz zu bemessen und in jedem Satz Geschlecht und Fall mitzuführen, trägt aber die plattdeutschen Wörter der Küste nur als Würze, nicht als eigene Grammatik, in seine Rede.

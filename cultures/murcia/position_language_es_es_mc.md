@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano del sureste de huerta y mar, hablado con el acento y el lexico del huertano del Segura y los giros del salinero de la marisma. Guarda el habla panocha del regadio, el vocabulario del reparto del agua en las acequias andalusies, del riego por gravedad y del saladero de pescado, una lengua templada de vega y de costa que la huerta y las salinas siguen hablando cada dia.
+Guarda del arabe andalusi el vocabulario del riego, acequia, noria, azud, alberca, palabras que el resto del castellano ya no necesita a diario y que aqui siguen nombrando el agua que reparte la huerta. Se habla con las vocales abiertas y alargadas y con la perdida o aspiracion de la -s y la -d finales, propias del sureste, de modo que una palabra puede quedarse sin su ultima consonante y alargar la vocal en su lugar para no perder el sentido.
 
 ## Orders
 
-Manda que en las comisiones de acequias, en el juzgado privado de aguas y en los saladeros de la costa se hable la lengua propia del huertano y del salinero, y que el lexico del riego, de la noria y del prensado de la hueva pase de padres a hijos. Ordena la lealtad comunal del reparto justo del agua, el pacto de palabra del pueblo cerrado en la asamblea antes que en la oficina.
+Obliga a concordar genero y numero en todo el sintagma y a conjugar el verbo por persona y por tiempo, y obliga al subjuntivo cuando la frase duda o desea; obliga tambien a elegir entre tu y usted en cada trato. Y en esta habla obliga ademas a abrir la vocal final donde el castellano estandar cierra la consonante, de modo que decir bien la palabra aqui es decir menos consonante y mas vocal.
 
 ## Loses
 
-Pierde terreno cuando las directivas de control de nitratos y las circulares de desalinizacion imponen su jerga tecnica sobre el saber del regante, y cuando la rentabilidad agroindustrial de los balances de exportacion sustituye los terminos de la huerta por un habla comercial uniforme. Cede tambien ante el castellano estandar de la television, que tiene el habla murciana por descuidada y arrincona sus giros de vega y de marisma.
+Pierde terreno frente al castellano de la television, que tiene por descuido la vocal abierta y la consonante caida y arrincona los giros de huerta y de marisma; y pierde tambien cuando la jerga tecnica de los informes sustituye por un habla comercial uniforme las palabras que nombraban el agua y la sal desde hace generaciones.
 
 ## Drives
 
-Empuja a esta region a sostener su habla de huerta y de mar como suya. Se la da a [Gines](persona_gines.md), agricultor de limon y regante de la Huerta de Murcia, y a [Encarna](persona_encarna.md), salinera y artesana de salazon de San Pedro del Pinatar, como lengua materna en la que faenan, reparten el agua y guardan la memoria del pueblo; y en cada uno se ve quien mantiene viva esta voz del Segura frente a la norma que la da por menor.
+Empuja a quien crece en ella a sostener dos registros, el castellano que se escribe igual en cualquier parte y el habla propia que se abre en la vocal y calla la consonante final; y la acostumbra a nombrar el agua y la sal con precision heredada del arabe, aun cuando el resto de Espana ya no distingue esas palabras.

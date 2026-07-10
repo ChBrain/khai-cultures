@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Le français, langue officielle de la principauté, celle des lois, de l'école et du palais. Sur ce rocher elle porte encore, en filigrane, les tournures du monégasque ancestral, ce parler ligure de la vieille ville que les anciens glissent dans leur français comme un sel de mer. C'est la langue du souverain et du pêcheur à la fois, le lien commun qui tient ensemble un territoire minuscule où le monde entier vient poser ses valises.
+Le français porte la liaison, qui lie la consonne finale d'un mot à la voyelle du mot suivant, si bien que « les amis » se prononce comme un seul souffle avec un son en z qu'aucune autre langue romane ne garde de cette façon. Il porte aussi le subjonctif, un mode verbal entier réservé au doute, au souhait et au sentiment, qui permet de marquer dans le verbe lui-même si un fait est affirmé ou seulement espéré. Sur le Rocher, le français garde encore, glissées dans sa bouche, des traces du monégasque, le vieux parler ligure d'avant, dont les voyelles se mêlent au français des familles anciennes.
 
 ## Orders
 
-Que l'on parle et écrive en français dans l'administration, les tribunaux et les écoles ; que la langue reste le socle partagé de la souveraineté monégasque face au babel des résidents fortunés ; et elle règle qui appartient vraiment au Rocher et qui n'y fait que passer, car la langue de la maison n'est pas celle du palace.
+Il oblige à donner un genre à chaque nom, le rocher au masculin, la mer au féminin, sans que rien dans la chose elle-même impose ce choix, puis à accorder l'article, l'adjectif et parfois le participe passé sur ce genre choisi une fois pour toutes. Il oblige aussi, à chaque adresse, à trancher entre tu et vous, de sorte que la proximité ou la distance se décide avant même la première phrase ; et il oblige l'article à s'effacer en l' devant toute voyelle, une élision que la langue impose sans exception.
 
 ## Loses
 
-Elle perd du terrain devant l'anglais des affaires et de la finance internationale, devenu la langue quotidienne des banques et des cabinets de conseil ; elle s'efface aussi devant les langues des nouveaux riches venus du monde entier, indifférents à l'histoire locale ; et le vieux monégasque qu'elle abritait s'estompe à mesure que disparaissent les derniers du Rocher.
+Le genre obligatoire empêche de nommer une personne ou une chose sans la ranger d'abord dans l'une des deux cases, masculin ou féminin, une nuance que d'autres langues laissent ouverte. Le choix entre tu et vous, une fois posé, se défait mal : passer du vous au tu marque un basculement que la langue rend difficile à reprendre sans le dire à voix haute. Et le monégasque que le français a longtemps abrité s'efface peu à peu avec ses derniers locuteurs, ses mots propres à la mer et au Rocher perdant leur place dans la bouche des enfants.
 
 ## Drives
 
-Elle vit en quiconque la porte comme langue maternelle. [Albert](persona_albert.md) la parle teintée de monégasque, cordon qui le relie à la mer et aux traditions ; [Sophie](persona_sophie.md) la structure dans ses analyses patrimoniales avant de basculer à l'anglais pour ses clients. Elle pousse Monaco à tenir sa langue comme un dernier arpent de terre ferme, preuve qu'une principauté grande comme un mouchoir demeure une nation et non un simple coffre-fort.
+L'accord du genre à travers toute la phrase habitue l'esprit à vérifier sans cesse la cohérence d'un choix fait une fois pour toutes, et le subjonctif apprend à distinguer, dans le verbe même, ce qui est tenu pour vrai de ce qui n'est qu'espéré ou redouté. Le tu et le vous, eux, obligent à mesurer la distance sociale avant chaque phrase. Ainsi celui qui grandit dans cette langue apprend à peser le genre, le doute et la distance à chaque mot, avant même de savoir ce qu'il va dire.
