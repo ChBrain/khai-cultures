@@ -50,6 +50,7 @@ Voici un pays etroit que l'histoire a taille en travers des peuples, et qui a fa
 - [les deux Togo](position_les_deux_togo.md)
 - [le tambour et le chant](position_le_tambour.md)
 - [la terre et l'esprit](position_la_terre_et_lesprit.md)
+- [le francais togolais](position_language_fr_tg.md)
 
 **Pieces**
 

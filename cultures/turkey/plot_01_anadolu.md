@@ -32,7 +32,7 @@ On birinci yüzyılda Orta Asya bozkırından gelen Türk boyları, batıya, zen
 
 - [Yunus Emre](persona_yunus_emre.md): halka imanı kendi dilinde veren halk-tasavvuf şairi.
 - [laiklik ve din](position_laiklik_din.md): Anadolu'nun köklü İslam'ı, fay hattının dindar yakası.
-- [Türk dili](position_turk_dili.md): bozkırdan gelip Anadolu'da kök salan dilin Anadolu kökleri.
+- [Türk dili](position_language_tr_tr.md): bozkırdan gelip Anadolu'da kök salan dilin Anadolu kökleri.
 
 ## Tension
 

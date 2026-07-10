@@ -50,6 +50,7 @@ A country with two stories braided into one rope. There were the people already 
 - [the Settlement](position_the_settlement.md)
 - [the Societies](position_the_societies.md)
 - [the Learning](position_the_learning.md)
+- [Sierra Leonean English](position_language_en_sl.md)
 
 **Pieces**
 

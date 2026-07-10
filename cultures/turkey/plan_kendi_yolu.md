@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Hâlâ açık duran mandat: Türkiye'nin Doğu ile Batı arasında kendi yolunu bulması; [iki kıta](position_iki_kita.md) üstünde köprü olmayı bir bölünme değil bir güç sayması; [laik cumhuriyetle](position_laiklik_din.md) Anadolu'nun dindar yüreğini tek bir ulus hâline getirmesi; ve [yeniden yapılmış dilini](position_turk_dili.md) diri tutarken kesip attığı Osmanlı geçmişine de sahip çıkması sorusu.
+Hâlâ açık duran mandat: Türkiye'nin Doğu ile Batı arasında kendi yolunu bulması; [iki kıta](position_iki_kita.md) üstünde köprü olmayı bir bölünme değil bir güç sayması; [laik cumhuriyetle](position_laiklik_din.md) Anadolu'nun dindar yüreğini tek bir ulus hâline getirmesi; ve [yeniden yapılmış dilini](position_language_tr_tr.md) diri tutarken kesip attığı Osmanlı geçmişine de sahip çıkması sorusu.
 
 ## Owner
 

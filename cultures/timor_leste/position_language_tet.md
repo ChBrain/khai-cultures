@@ -34,4 +34,4 @@ Rai bainhira lian lokal sira monu no haluha, no riku-soin husi lian barak hahu l
 
 ## Drives
 
-Moris iha [Francisco Borja da Costa](persona_borja.md), ne'ebe hakerek iha lian rasik atu fo lian ba povu nia laran, no iha [Jose Ramos-Horta](persona_ramos_horta.md), ne'ebe lori povu nia lia ba mundu li'ur iha lian barak. Nia book Timor-Leste atu sai ida maski nia ko'alia barak.
+Moris iha [Francisco Borja da Costa](persona_borja.md), ne'ebe hakerek iha lian rasik atu fo lian ba povu nia laran, no iha [Jose Ramos-Horta](persona_ramos_horta.md), ne'ebe lori povu nia lia ba mundu li'ur iha lian barak. Moris iha [Xanana Gusmao](persona_xanana.md), ne'ebe hakerek nia poezia iha lian rasik to'o sai povu nian, no iha [Dom Carlos Filipe Ximenes Belo](persona_belo.md), ne'ebe reza no haklaken iha lian ne'ebe ema hotu komprende. No moris iha [Beimalae](persona_beimalae.md), ne'ebe ko'alia tetun no lian lokal husi nia foho nu'udar lian husi nia inan-bei sira. Nia book Timor-Leste atu sai ida maski nia ko'alia barak.

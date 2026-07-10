@@ -49,7 +49,7 @@ Orta Asya bozkırından göçüp gelen bir halk: Türkler 1071'de Malazgirt'te A
 
 - [iki kıta](position_iki_kita.md)
 - [laiklik ve din](position_laiklik_din.md)
-- [Türk dili](position_turk_dili.md)
+- [Türk dili](position_language_tr_tr.md)
 
 **Pieces**
 
@@ -76,7 +76,7 @@ Orta Asya bozkırından göçüp gelen bir halk: Türkler 1071'de Malazgirt'te A
 
 **[Plot 3: Cumhuriyet](plot_03_cumhuriyet.md)**
 
-1923'te [Atatürk](persona_ataturk.md) [laik cumhuriyeti](position_laiklik_din.md) kurar; 1928 harf devrimiyle [dili](position_turk_dili.md) Osmanlıca'dan koparır ve ulusu Batı'ya çevirir.
+1923'te [Atatürk](persona_ataturk.md) [laik cumhuriyeti](position_laiklik_din.md) kurar; 1928 harf devrimiyle [dili](position_language_tr_tr.md) Osmanlıca'dan koparır ve ulusu Batı'ya çevirir.
 
 **[Plot 4: Laik mi dindar mı](plot_04_laik_mi_dindar_mi.md)**
 
@@ -84,4 +84,4 @@ Kemalist laik devletle Anadolu'nun dindar yüreği arasındaki [çatlak](positio
 
 ## Stakes
 
-İki kıta üstünde, kendi geçmişinden bir kuşakta koparılmış bir [dille](position_turk_dili.md) duran, [laik cumhuriyetle](position_laiklik_din.md) dindar Anadolu arasında yarılan bu ulus, Doğu ile Batı arasında köprü olmayı bir bölünme değil bir güç sayıp, yeniden yapılmış dilini kesip attığı Osmanlı geçmişine sahip çıkarak diri tutup, gelmeyen Avrupa'nın kapısında beklemekten vazgeçip kendi yolunu bulabilecek mi.
+İki kıta üstünde, kendi geçmişinden bir kuşakta koparılmış bir [dille](position_language_tr_tr.md) duran, [laik cumhuriyetle](position_laiklik_din.md) dindar Anadolu arasında yarılan bu ulus, Doğu ile Batı arasında köprü olmayı bir bölünme değil bir güç sayıp, yeniden yapılmış dilini kesip attığı Osmanlı geçmişine sahip çıkarak diri tutup, gelmeyen Avrupa'nın kapısında beklemekten vazgeçip kendi yolunu bulabilecek mi.

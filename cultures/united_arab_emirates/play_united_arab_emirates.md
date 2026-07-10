@@ -50,6 +50,7 @@ stamp:
 - [الكرم والمجلس](position_hospitality.md)
 - [البحر واللؤلؤ](position_the_sea.md)
 - [الاتحاد](position_the_union.md)
+- [العربية الإماراتية](position_language_ar_ae.md)
 
 **Pieces**
 

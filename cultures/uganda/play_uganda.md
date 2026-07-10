@@ -50,6 +50,7 @@ A land of plenty under the sun, where the rains come twice a year and the soil g
 - [the kingdoms](position_obwakabaka.md)
 - [the many held as one](position_obuntu.md)
 - [the Pearl of Africa](position_pearl.md)
+- [Ugandan English](position_language_en_ug.md)
 
 **Pieces**
 

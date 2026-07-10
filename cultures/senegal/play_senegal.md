@@ -50,6 +50,7 @@ Voilà un pays qui s'est fait carrefour avant de se faire nation. Sur ces terres
 - [la teranga](position_la_teranga.md)
 - [les confréries](position_les_confreries.md)
 - [la négritude](position_la_negritude.md)
+- [le français du Sénégal](position_language_fr_sn.md)
 
 **Pieces**
 

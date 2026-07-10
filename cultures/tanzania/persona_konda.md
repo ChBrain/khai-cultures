@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[Kiswahili](position_kiswahili.md)
+[Kiswahili](position_language_sw_tz.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Kijana wa jiji, mara nyingi wa Dar es Salaam, anayening'inia mlangoni mwa dala dala akiita abiria na kukusanya nauli, sauti ya mji inayowafunga watu wa kila kabila katika gari moja. Mwepesi wa maneno, mcheshi, mwenye ujanja na asiyechoka, yeye ni mfanyabiashara wa kila siku anayejua kuwa mji huu hauchagui kabila. Kiswahili cha mtaani anakishika kama mali yake na kukitumia kuwafunga wote: [husema](process_speaking_mother_tongue.md) na [husikia](process_hearing_mother_tongue.md) lugha ya taifa iliyochanganyika na lugha ya vijana ya kiteknolojia, akiita vituo na kucheka na abiria kwa misimu mipya. Lugha za makabila walizozaliwa nazo abiria wake [huzifuata kwa sikio](process_hearing_followed.md) anapozisikia, lakini hujibu kwa Kiswahili kinachowaelewesha wote, na maneno ya Kiingereza ya biashara [huyakopa pale yanapotosha](process_speaking_borrowed.md). Anaweka watu wa lugha mia moja na ishirini katika gari moja na kuwafanya wazungumze lugha moja, kwa kuwa palepo penye mwisho wa ulimi wa kila abiria pana kabila lake, ambalo Kiswahili huliziba ili wote wasafiri pamoja.
+Kijana wa jiji, mara nyingi wa Dar es Salaam, anayening'inia mlangoni mwa dala dala akiita abiria na kukusanya nauli, sauti ya mji inayowafunga watu wa kila kabila katika gari moja. Mwepesi wa maneno, mcheshi, mwenye ujanja na asiyechoka, yeye ni mfanyabiashara wa kila siku anayejua kuwa mji huu hauchagui kabila. [Kiswahili cha mtaani](position_language_sw_tz.md) anakishika kama mali yake na kukitumia kuwafunga wote: [husema](process_speaking_mother_tongue.md) na [husikia](process_hearing_mother_tongue.md) lugha ya taifa iliyochanganyika na lugha ya vijana ya kiteknolojia, akiita vituo na kucheka na abiria kwa misimu mipya. Lugha za makabila walizozaliwa nazo abiria wake [huzifuata kwa sikio](process_hearing_followed.md) anapozisikia, lakini hujibu kwa Kiswahili kinachowaelewesha wote, na maneno ya Kiingereza ya biashara [huyakopa pale yanapotosha](process_speaking_borrowed.md). Anaweka watu wa lugha mia moja na ishirini katika gari moja na kuwafanya wazungumze lugha moja, kwa kuwa palepo penye mwisho wa ulimi wa kila abiria pana kabila lake, ambalo Kiswahili huliziba ili wote wasafiri pamoja.
 
 ## Action
 
-Katika [Kiswahili na Tanzania ya leo](plot_04_kiswahili.md) yeye ni uthibitisho ulio hai wa [Kiswahili](position_kiswahili.md), mji wote ukikutana katika dala dala lake na kuzungumza lugha moja bila kujali kabila. Anabeba undugu mbele kwa kuufanya wa kawaida: kila siku, kila safari, watu wengi wakigeuzwa kuwa abiria mmoja wanaoelewana.
+Katika [Kiswahili na Tanzania ya leo](plot_04_kiswahili.md) yeye ni uthibitisho ulio hai wa [Kiswahili](position_language_sw_tz.md), mji wote ukikutana katika dala dala lake na kuzungumza lugha moja bila kujali kabila. Anabeba undugu mbele kwa kuufanya wa kawaida: kila siku, kila safari, watu wengi wakigeuzwa kuwa abiria mmoja wanaoelewana.
 
 ## Shadow
 

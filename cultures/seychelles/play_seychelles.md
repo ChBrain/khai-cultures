@@ -48,7 +48,7 @@ Bann zil ti vid dimoun avan ki dimoun ti vini: bann zil granit ki pli vye ki tou
 **Positions**
 
 - [Lasosyasyon](position_lasosyasyon.md)
-- [Kreol](position_kreol.md)
+- [Kreol](position_language_crs.md)
 - [Lanmer](position_lanmer.md)
 
 **Pieces**
@@ -72,7 +72,7 @@ Ver 1770 bann Franse i vin lo bann zil vid e i komans premye lakanpman, e [Pierr
 
 **[Plot 2: Nesans en pep kreol](plot_02_pep_kreol.md)**
 
-Avek bann travayer sorti Lafrik, Lend, Lasin ek Lewop, [Lasosyasyon](position_lasosyasyon.md) bann pep i tise dan en sel Seselwa, e dan ladiservite ek ladirte i ne [moutya](process_moutya.md) ek sega, e i ne [Kreol](position_kreol.md), en nouvo langaz ki tou dimoun i partaze.
+Avek bann travayer sorti Lafrik, Lend, Lasin ek Lewop, [Lasosyasyon](position_lasosyasyon.md) bann pep i tise dan en sel Seselwa, e dan ladiservite ek ladirte i ne [moutya](process_moutya.md) ek sega, e i ne [Kreol](position_language_crs.md), en nouvo langaz ki tou dimoun i partaze.
 
 **[Plot 3: En nouvo nasyon (1976)](plot_03_nouvo_nasyon.md)**
 
@@ -80,7 +80,7 @@ An 1976 Sesel i lev son prop pavyon e i debout konman en nasyon endepandan, e [V
 
 **[Plot 4: Kreol i vin ofisyel](plot_04_kreol_ofisyel.md)**
 
-Sesel i fer [Kreol](position_kreol.md) vin premye langaz ofisyel, i ouver Lenstiti Kreol, e [Danielle de St Jorre](persona_danielle_de_st_jorre.md) ek bann lezot i travay pour donn sa langaz son lekriti ek son diksyonner, e Festival Kreol i lev sa langaz ek sa kiltir devan lemonn.
+Sesel i fer [Kreol](position_language_crs.md) vin premye langaz ofisyel, i ouver Lenstiti Kreol, e [Danielle de St Jorre](persona_danielle_de_st_jorre.md) ek bann lezot i travay pour donn sa langaz son lekriti ek son diksyonner, e Festival Kreol i lev sa langaz ek sa kiltir devan lemonn.
 
 ## Stakes
 

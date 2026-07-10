@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-On dokuzynjy asyryň degişmeçi halk şahyry: garyplygy, baýyň gysgançlygyny we durmuşyň gyşyklaryny ýiti, ýöne ýürege ýakyn degişme bilen aýdan söz ussasy. Sarahs tarapynda ýaşap, ol elmydama açyk, sada we ýoksul boldy, ýöne sözi paýhasdan we gülküden baý boldy. Ene dilinde ol [pikirlenýär](process_thinking_mother_tongue.md), [gürleýär](process_speaking_mother_tongue.md) we degişmelerini halkyň diline berkidýär; sada çöl diliniň içinden iň ýiti hakykaty çykarýar. Töweregindäki gepleşikleri gulagy bilen [tutup](process_hearing_mother_tongue.md), bazaryň we obanyň sesini [diňläp yzarlap](process_hearing_followed.md), olary degişmä öwürýär. Onuň gülküsi sözden çuňdur - aýdyp bolmaýan agyryny we adalatsyzlygy degişmäniň aşagyna gizläp, ol hakykatyň diliň serhedinde dymýan ýerine yşarat edýär.
+On dokuzynjy asyryň degişmeçi halk şahyry: garyplygy, baýyň gysgançlygyny we durmuşyň gyşyklaryny ýiti, ýöne ýürege ýakyn degişme bilen aýdan söz ussasy. Sarahs tarapynda ýaşap, ol elmydama açyk, sada we ýoksul boldy, ýöne sözi paýhasdan we gülküden baý boldy. [Ene dilinde](position_language_tk.md) ol [pikirlenýär](process_thinking_mother_tongue.md), [gürleýär](process_speaking_mother_tongue.md) we degişmelerini halkyň diline berkidýär; sada çöl diliniň içinden iň ýiti hakykaty çykarýar. Töweregindäki gepleşikleri gulagy bilen [tutup](process_hearing_mother_tongue.md), bazaryň we obanyň sesini [diňläp yzarlap](process_hearing_followed.md), olary degişmä öwürýär. Onuň gülküsi sözden çuňdur - aýdyp bolmaýan agyryny we adalatsyzlygy degişmäniň aşagyna gizläp, ol hakykatyň diliň serhedinde dymýan ýerine yşarat edýär.
 
 ## Action
 

@@ -1,13 +1,13 @@
 ---
 khai: position
-title: "the Somali Tongue and Poetry"
+title: "Somali"
 declared: "af-Soomaaliga iyo gabayga"
 language: so
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-09"
 ---
 
 # Position: af-Soomaaliga iyo gabayga
@@ -34,4 +34,4 @@ Wuxuu lumiyaa goorta qoraalka casriga ah iyo luqadaha shisheeye ay daadiyaan gab
 
 ## Drives
 
-Wuxuu ku nool yahay [Sayid Maxamed Cabdulle Xasan](persona_sayid.md), kii gabaygiisii ku qaaday taariikh iyo dhiirrigelin; [Hadraawi](persona_hadraawi.md), kii gabaygii casriga ah qotodheeriyey; iyo [Nuruddin Farah](persona_nuruddin.md), kii sheekada Soomaaliyeed adduunka u qaaday. Wuxuu Soomaaliya u kacshaa in ay erayga u haysato sharaf, in maahmaahda iyo gabayga ay yihiin xididka aan la goyn karin.
+Wuxuu ku nool yahay [Sayid Maxamed Cabdulle Xasan](persona_sayid.md), kii gabaygiisii ku qaaday taariikh iyo dhiirrigelin; [Hadraawi](persona_hadraawi.md), kii gabaygii casriga ah qotodheeriyey; [Nuruddin Farah](persona_nuruddin.md), kii sheekada Soomaaliyeed adduunka u qaaday; [geeljiraha](persona_geeljire.md), kii habeenkii geela hortooda ka tola gabay xikmad iyo bilic leh oo dhegta iyo xusuusta ku haya; iyo [Maryam](persona_maryam.md), oo codkeeda eraygii reerka u rogtay laxan iyo dareen. Wuxuu Soomaaliya u kacshaa in ay erayga u haysato sharaf, in maahmaahda iyo gabayga ay yihiin xididka aan la goyn karin.

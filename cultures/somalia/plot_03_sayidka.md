@@ -26,12 +26,12 @@ Horraantii qarnigii labaatanaad, markii dunidu isbeddelayso, [Sayid Maxamed Cabd
 
 ## Action
 
-Sayidku wuxuu gabaygiisii ku qaaday taariikh, geesinimo iyo baaq, isagoo [af-Soomaaliga iyo gabayga](position_afka.md) u rogay hub, marag iyo astaan. Gabaygiisii- oo afkii hooyo ku tolan oo aan weli qoraal lahayn- wuxuu dadka ku xambaaray dhegta iyo xusuusta, ilaa maanta laga akhriyaa oo laga xifdiyaa. Wuxuu muujiyey in eraygu kicin karo oo taariikh xambaari karo, oo reer-guuraaga eraygooda uu u qaaday heer aan hore loo arag.
+Sayidku wuxuu gabaygiisii ku qaaday taariikh, geesinimo iyo baaq, isagoo [af-Soomaaliga iyo gabayga](position_language_so.md) u rogay hub, marag iyo astaan. Gabaygiisii- oo afkii hooyo ku tolan oo aan weli qoraal lahayn- wuxuu dadka ku xambaaray dhegta iyo xusuusta, ilaa maanta laga akhriyaa oo laga xifdiyaa. Wuxuu muujiyey in eraygu kicin karo oo taariikh xambaari karo, oo reer-guuraaga eraygooda uu u qaaday heer aan hore loo arag.
 
 ## Stage
 
 - [Sayid Maxamed Cabdulle Xasan](persona_sayid.md): abwaankii eraygiisa u rogay baaq iyo astaan taariikheed.
-- [af-Soomaaliga iyo gabayga](position_afka.md): sharafta eraygii oo noqotay hub iyo marag.
+- [af-Soomaaliga iyo gabayga](position_language_so.md): sharafta eraygii oo noqotay hub iyo marag.
 - [Xamar](place_xamar.md): xaruntii dhulka, halka taariikhdu ka libdhin jirtay.
 
 ## Tension

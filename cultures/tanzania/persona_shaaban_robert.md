@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[Kiswahili](position_kiswahili.md)
+[Kiswahili](position_language_sw_tz.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Mtumishi wa serikali wa Tanga aliyetumia kalamu yake kuinua Kiswahili hata akaitwa baba wa fasihi ya Kiswahili. Mpole, mwenye hekima na mwenye maadili, aliandika mashairi na hadithi zilizofundisha utu, subira na haki, akiamini kwamba lugha ni hazina ya watu wake. Kiswahili alikishika kikamilifu na kukibeba: [husema](process_speaking_mother_tongue.md), [hufikiri](process_thinking_mother_tongue.md), na zaidi ya yote [huandika](process_writing_mother_tongue.md) kwa lugha hii hata akaifanya kuwa lugha ya falsafa na mashairi yenye kina, akiipa Kiswahili nathari na ushairi vilivyodumu. Kiingereza cha utawala [hukifuata ukurasani](process_reading_followed.md) na [hukikariri kama chombo cha kazi](process_speaking_carried.md), lakini moyo wake wote ulikuwa katika lugha yake ya mama, ambamo aliandika kuhusu uhuru, utu na maisha bora. Aliamini kwamba lugha ya watu ndiyo roho ya watu, akaiandikia kwa upendo wote akijua kuwa wino wa kalamu ni dawa ya kusahau, na kwamba penye mwisho wa ulimi pana kimya ambacho ni mwandishi pekee awezaye kukivuka kwa wino.
+Mtumishi wa serikali wa Tanga aliyetumia kalamu yake kuinua Kiswahili hata akaitwa baba wa fasihi ya Kiswahili. Mpole, mwenye hekima na mwenye maadili, aliandika mashairi na hadithi zilizofundisha utu, subira na haki, akiamini kwamba lugha ni hazina ya watu wake. [Kiswahili](position_language_sw_tz.md) alikishika kikamilifu na kukibeba: [husema](process_speaking_mother_tongue.md), [hufikiri](process_thinking_mother_tongue.md), na zaidi ya yote [huandika](process_writing_mother_tongue.md) kwa lugha hii hata akaifanya kuwa lugha ya falsafa na mashairi yenye kina, akiipa Kiswahili nathari na ushairi vilivyodumu. Kiingereza cha utawala [hukifuata ukurasani](process_reading_followed.md) na [hukikariri kama chombo cha kazi](process_speaking_carried.md), lakini moyo wake wote ulikuwa katika lugha yake ya mama, ambamo aliandika kuhusu uhuru, utu na maisha bora. Aliamini kwamba lugha ya watu ndiyo roho ya watu, akaiandikia kwa upendo wote akijua kuwa wino wa kalamu ni dawa ya kusahau, na kwamba penye mwisho wa ulimi pana kimya ambacho ni mwandishi pekee awezaye kukivuka kwa wino.
 
 ## Action
 
-Katika [Uhuru na ujenzi wa taifa](plot_03_uhuru.md) anaandika fasihi inayoinua [Kiswahili](position_kiswahili.md) na kuipa lugha hii heshima ya fasihi ya hali ya juu, akiweka misingi ambayo taifa changa litaisimamia. Kwa kuandika hekima ya watu kwa lugha ya watu, anaipa Tanzania uthibitisho kwamba Kiswahili chaweza kubeba mawazo makubwa kama lugha yoyote ya dunia.
+Katika [Uhuru na ujenzi wa taifa](plot_03_uhuru.md) anaandika fasihi inayoinua [Kiswahili](position_language_sw_tz.md) na kuipa lugha hii heshima ya fasihi ya hali ya juu, akiweka misingi ambayo taifa changa litaisimamia. Kwa kuandika hekima ya watu kwa lugha ya watu, anaipa Tanzania uthibitisho kwamba Kiswahili chaweza kubeba mawazo makubwa kama lugha yoyote ya dunia.
 
 ## Shadow
 

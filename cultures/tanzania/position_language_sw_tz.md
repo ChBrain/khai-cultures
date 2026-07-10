@@ -34,4 +34,4 @@ Hupoteza nguvu pale lugha za makabila zinapofifia kabisa badala ya kuishi pamoja
 
 ## Drives
 
-Huishi ndani ya [Shaaban Robert](persona_shaaban_robert.md), aliyeinua Kiswahili kuwa lugha ya fasihi ya hali ya juu, na ndani ya [Konda wa dala dala](persona_konda.md), anayewafunga watu wa kila kabila katika lugha moja kila siku mjini. Huiendesha Tanzania kuendelea kujipima kwa ahadi kuwa lugha moja yaweza kuwafanya wengi kuwa mmoja, na kukuza lugha hii zaidi ya mipaka ya taifa.
+Huishi ndani ya [Shaaban Robert](persona_shaaban_robert.md), aliyeinua Kiswahili kuwa lugha ya fasihi ya hali ya juu, na ndani ya [Julius Nyerere](persona_nyerere.md), aliyeichagua kuwa lugha ya taifa moja badala ya kabila. Huishi ndani ya [Bi Kidude](persona_bi_kidude.md), aliyeimba Kiswahili cha pwani chenye mafumbo na methali, na ndani ya [Filbert Bayi](persona_bayi.md), aliyekibeba kama fahari ya taifa changa duniani. Na huishi ndani ya [Konda wa dala dala](persona_konda.md), anayewafunga watu wa kila kabila katika lugha moja kila siku mjini. Huiendesha Tanzania kuendelea kujipima kwa ahadi kuwa lugha moja yaweza kuwafanya wengi kuwa mmoja, na kukuza lugha hii zaidi ya mipaka ya taifa.

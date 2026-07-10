@@ -1,13 +1,13 @@
 ---
 khai: position
-title: "Creole"
+title: "Seychellois Creole"
 declared: "Kreol"
 language: crs
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-09"
 ---
 
 # Position: Kreol
@@ -34,4 +34,4 @@ I perdi pye kan dimoun i komans onte koz li, kan i ganny tret konman en langaz b
 
 ## Drives
 
-I viv dan [Antoine Abel](persona_antoine_abel.md), ki ti ekri son zistwar ek son poezi dan kreol kan personn lezot ti pe ekri ladan, e dan [Danielle de St Jorre](persona_danielle_de_st_jorre.md), ki ti travay pour donn kreol son lekriti ek son diksyonner. I pous Sesel pour tini son langaz manman ot ek vivan, e pour ansenny li avek lafyerte.
+I viv dan [Antoine Abel](persona_antoine_abel.md), ki ti ekri son zistwar ek son poezi dan kreol kan personn lezot ti pe ekri ladan; dan [Danielle de St Jorre](persona_danielle_de_st_jorre.md), ki ti travay pour donn kreol son lekriti ek son diksyonner; dan [Patrick Victor](persona_patrick_victor.md), ki ti sant son pep dan son prop langaz manman e ki ti met moutya ek sega dan bouss tou Seselwa; e dan [Sa Peser](persona_sa_peser.md), ki viv son lavi antye lo delo dan sa sel langaz e ki napa zanmen bezwen en lot. Me sa langaz pa ti touzour la: [Pierre Poivre](persona_pierre_poivre.md), sa administrater franse ki son plan ti ouver bann zil pour bann premye dimoun, pa ti zanmen konn li, parski kreol ti pou ne lo sa later apre son letan, sorti dan bann rasin ki son zarden ti anmenn ansanm. Alor sa langaz i montre lekel ki port li konman son nanm, e lekel, avan li, ti ouver semen san zanmen tann li. I pous Sesel pour tini son langaz manman ot ek vivan, e pour ansenny li avek lafyerte.

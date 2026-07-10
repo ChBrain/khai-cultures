@@ -26,12 +26,12 @@ Pour boukou lannen kreol ti langaz lakaz ek lakour, langaz manman tou Seselwa, m
 
 ## Action
 
-Sesel i fer [Kreol](position_kreol.md) vin son premye langaz ofisyel, akote franse ek angle, e i ouver Lenstiti Kreol pour etidye ek lev sa langaz. [Danielle de St Jorre](persona_danielle_de_st_jorre.md) ek bann lezot i travay pour donn kreol son lortograf, son diksyonner, ek son liv, pour ki en langaz ki ti viv selman dan labous i kapab viv osi lo papye. Kreol i antre dan lekol konman langaz ki bann zanfan i aprann ladan, e Festival Kreol i ne pour lev sa langaz ek sa kiltir - sega, moutya, manze, ek poezi - devan tou Seselwa ek devan lemonn. En langaz ki ti'n ne dan ladiservite i vin en zafer pour fyer.
+Sesel i fer [Kreol](position_language_crs.md) vin son premye langaz ofisyel, akote franse ek angle, e i ouver Lenstiti Kreol pour etidye ek lev sa langaz. [Danielle de St Jorre](persona_danielle_de_st_jorre.md) ek bann lezot i travay pour donn kreol son lortograf, son diksyonner, ek son liv, pour ki en langaz ki ti viv selman dan labous i kapab viv osi lo papye. Kreol i antre dan lekol konman langaz ki bann zanfan i aprann ladan, e Festival Kreol i ne pour lev sa langaz ek sa kiltir - sega, moutya, manze, ek poezi - devan tou Seselwa ek devan lemonn. En langaz ki ti'n ne dan ladiservite i vin en zafer pour fyer.
 
 ## Stage
 
 - [Danielle de St Jorre](persona_danielle_de_st_jorre.md): sa Seselwa ki ti travay pour donn kreol son lekriti ek son diksyonner.
-- [Kreol](position_kreol.md): sa langaz manman ki vin premye langaz ofisyel.
+- [Kreol](position_language_crs.md): sa langaz manman ki vin premye langaz ofisyel.
 - [Vale de May](place_vale_de_may.md): sa landrwa kot lavi zil ek son labote i reste pli vivan, parey sa kiltir Festival Kreol i lev.
 
 ## Tension

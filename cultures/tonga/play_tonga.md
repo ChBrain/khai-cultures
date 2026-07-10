@@ -50,6 +50,7 @@ Ko e fonua kehe mei he ngaahi fonua motu'a 'o mamani: 'oku 'ikai ko ha fonua na'
 - [pule ta'emotu'a](position_pule_ta_motua.md)
 - [Tu'i Tonga mo e tahi](position_tui_tonga_mo_e_tahi.md)
 - [le'o 'o e kakai](position_leo_o_e_kakai.md)
+- [lea faka-Tonga](position_language_ton.md)
 
 **Pieces**
 

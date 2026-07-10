@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: Türk dili
@@ -34,4 +34,4 @@ Dil kendi geçmişinden koparıldığı için bir şeyini yitirir: Türkler dede
 
 ## Drives
 
-[Ayşe](persona_ayse.md)'de yaşar; o ne büyükannesinin Osmanlıca harflerini okuyabilir, ne namazda andığı Arapçayı anlar, dili bir ömürde yeniden yapılmıştır. Türkiye'yi yeniden yapılmış dilini diri tutarken, kesip attığı Osmanlı geçmişine de sahip çıkmaya iter.
+Bu dil onu ana dili olarak tutan herkeste yaşar. [Atatürk](persona_ataturk.md)'te, onu harf devrimiyle bizzat yeniden yapan kurucuda; [Ayşe](persona_ayse.md)'de, ne büyükannesinin Osmanlıca harflerini okuyabilen ne namazdaki Arapçayı anlayan, dili bir ömürde yeniden yapılmış ninede; [Can](persona_can.md)'da, diline gitgide İngilizce karışan iki arada gençte; [Fatih](persona_fatih.md)'te, bozkırın Türkçesini iki kıta üstündeki tahta taşıyan fatihte; ve [Yunus Emre](persona_yunus_emre.md)'de, imanı halka sade Türkçeyle veren şairde diri kalır. Böylece bir dil, onu kimin taşıdığını ve neyi kesip attığını gösterir; Türkiye'yi yeniden yapılmış dilini diri tutarken kesip attığı Osmanlı geçmişine de sahip çıkmaya iter.

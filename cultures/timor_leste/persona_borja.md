@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[lia-tetun](position_tetum.md)
+[lia-tetun](position_language_tet.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Poeta no hakerek-na'in ne'ebe fo lian ba povu nia laran iha lian rasik, no ne'ebe nia liafuan tama iha hino nasional nian. Nia hatene katak povu presiza lian ne'ebe nia rasik atu hatete nia esperansa, no nia foti lia-tetun no lia-portuges atu halo poezia ne'ebe povu bele kanta. Lia-tetun nia [ko'alia](process_speaking_mother_tongue.md), [hanoin](process_thinking_mother_tongue.md), no [hakerek](process_writing_mother_tongue.md) to'o nia sai liafuan ba povu nia laran. Portuges, lian ne'ebe nia aprende, nia [le no tuir iha papel](process_reading_followed.md) no [foti husi seluk](process_speaking_borrowed.md) atu halo nia poezia bo'ot liu. Maibe povu nia esperansa boot liu fali liafuan, no buat ne'ebe nia hakarak hatete iha tempu balun iha fatin ne'ebe lian la to'o: iha-ne'e liafuan rohan no hela deit kanta.
+Poeta no hakerek-na'in ne'ebe fo lian ba povu nia laran iha lian rasik, no ne'ebe nia liafuan tama iha hino nasional nian. Nia hatene katak povu presiza lian ne'ebe nia rasik atu hatete nia esperansa, no nia foti lia-tetun no lia-portuges atu halo poezia ne'ebe povu bele kanta. [Lia-tetun](position_language_tet.md) nia [ko'alia](process_speaking_mother_tongue.md), [hanoin](process_thinking_mother_tongue.md), no [hakerek](process_writing_mother_tongue.md) to'o nia sai liafuan ba povu nia laran. Portuges, lian ne'ebe nia aprende, nia [le no tuir iha papel](process_reading_followed.md) no [foti husi seluk](process_speaking_borrowed.md) atu halo nia poezia bo'ot liu. Maibe povu nia esperansa boot liu fali liafuan, no buat ne'ebe nia hakarak hatete iha tempu balun iha fatin ne'ebe lian la to'o: iha-ne'e liafuan rohan no hela deit kanta.
 
 ## Action
 
-Iha [dalan naruk](plot_03_dalan_naruk.md) nia fo lian ba povu nia laran iha lian rasik, no nia poezia sai kanta ne'ebe lori esperansa. Husi nia liafuan nia hatudu katak [lia-tetun](position_tetum.md) bele sai lian ba povu tomak, no katak poezia bele sustenta laran iha tempu todan.
+Iha [dalan naruk](plot_03_dalan_naruk.md) nia fo lian ba povu nia laran iha lian rasik, no nia poezia sai kanta ne'ebe lori esperansa. Husi nia liafuan nia hatudu katak [lia-tetun](position_language_tet.md) bele sai lian ba povu tomak, no katak poezia bele sustenta laran iha tempu todan.
 
 ## Shadow
 
