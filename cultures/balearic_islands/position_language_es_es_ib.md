@@ -34,4 +34,4 @@ Pierde terreno ante el castellano peninsular del centro y ante el vaivén del tu
 
 ## Drives
 
-Lo [llevan como lengua de trato](process_speaking_carried.md), junto a su catalán mallorquín materno, [Coloma](persona_coloma.md), la payesa de la Tramuntana, y [Miquel](persona_miquel.md), el pescador de las calas, que en el castellano de acento insular tratan con Palma y con la administración sin dejar su lengua de casa. Empuja a las Baleares a hablar su castellano con el deje isleño, sin borrar la huella del mallorquín.
+Lo [llevan como lengua de trato](process_speaking_carried.md), junto a su catalán mallorquín materno, la payesía de la Tramuntana y la pesca de las calas, que en el castellano de acento insular tratan con Palma y con la administración sin dejar su lengua de casa. Empuja a las Baleares a hablar su castellano con el deje isleño, sin borrar la huella del mallorquín.

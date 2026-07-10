@@ -34,4 +34,4 @@ Gaztelaniaren aurrean galtzen du hiri handietan eta gazteen artean, non demograf
 
 ## Drives
 
-[Iñaki](persona_inaki.md) ontziolako soldatzailearen eta [Amaia](persona_amaia.md) sukaldariaren ama-hizkuntza taxutzen du, eta muga zeharkatzen du [Ane](../spain/persona_ane.md) eta [Joxepa](../spain/persona_joxepa.md) euskaldunengana iristeko, baita [Ane, Nafarroako basozaina](../navarre/persona_ane.md) ere.
+Ontziolako soldatzailearen eta sukaldariaren ama-hizkuntza taxutzen du, eta probintzia-muga zeharkatzen du euskaldunengana iristeko: zubi den euskaldun elebidunarengana eta, hura gabe isilik geratuko litzatekeen euskaldun elebakarrarengana, baita Nafarroako mendialdeko basozainarengana ere.

@@ -34,4 +34,4 @@ Pierde terreno frente al euskera en la sociedad gastronomica, en el monte y en l
 
 ## Drives
 
-Empuja al Pais Vasco a moverse en dos lenguas a la vez. Se lo da a [Inaki](persona_inaki.md), soldador del Nervion, y a [Amaia](persona_amaia.md), cocinera de sociedad gastronomica en Guipuzcoa, como el castellano con el que tratan con las oficinas de fuera mientras viven y trabajan en euskera; y en cada uno de ellos se ve quien carga esta lengua comun y quien la siente como frontera con el Estado central.
+Empuja al Pais Vasco a moverse en dos lenguas a la vez. Se lo da al soldador del astillero del Nervion y a la cocinera de sociedad gastronomica en Guipuzcoa como el castellano con el que tratan con las oficinas de fuera mientras viven y trabajan en euskera; y en cada uno de esos oficios se ve quien carga esta lengua comun y quien la siente como frontera con el Estado central.

@@ -34,4 +34,4 @@ Ihomba igihe inka ihindutse igicuruzwa gusa, igatakaza icubahiro n'ico isobanura
 
 ## Drives
 
-Iba muri [umutimbo](persona_umutimbo.md), uwukurikiranira hamwe ingoma n'inka mu muco w'iwabo, akubaha inka nk'ubutunzi n'icubahiro. Ituma u Burundi kibika urukundo rw'inka n'ubuhinga bwo kuzihimbira mu bivugo, n'umubano hagati y'abantu ushinze ku nka.
+Iba mu kuba ingoma n'inka bikurikiranirwa hamwe mu muco w'iwabo, inka zikubahwa nk'ubutunzi n'icubahiro. Ituma u Burundi kibika urukundo rw'inka n'ubuhinga bwo kuzihimbira mu bivugo, n'umubano hagati y'abantu ushinze ku nka.

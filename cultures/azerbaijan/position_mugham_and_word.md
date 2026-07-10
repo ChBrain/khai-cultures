@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Bu xalqın ürəyinin iki teli: muğam, ruhun dərin klassik musiqisi, və söz, şeirin ucalığı. Muğam ölçüyə tam sığmayan, ifaçının ürəyindən axan, ustaddan şagirdə ağızdan-ağıza ötürülən bir sənətdir, və dünyanın qeyri-maddi mədəni irsi sayılır. Söz isə Nizamidən Füzuliyə qədər uzanan, qəzəlin və dastanın dili olan bir mirasdır. Muğam çox vaxt elə klassik şeiri oxuyur: musiqi sözün üstündə yüksəlir, söz musiqinin içində dərinləşir, və ikisi bir-birini tamamlayır. Burada şair hökmdardan, söz qılıncdan ağır sayılır.
+Bu xalqın ürəyinin iki teli: muğam, ruhun dərin klassik musiqisi, və söz, şeirin ucalığı. Muğam ölçüyə tam sığmayan, ifaçının ürəyindən axan, ustaddan şagirdə ağızdan-ağıza ötürülən bir sənətdir, və dünyanın qeyri-maddi mədəni irsi sayılır. Söz isə əsrlər boyu böyük klassik şairlərdən uzanan, qəzəlin və dastanın dili olan bir mirasdır. Muğam çox vaxt elə klassik şeiri oxuyur: musiqi sözün üstündə yüksəlir, söz musiqinin içində dərinləşir, və ikisi bir-birini tamamlayır. Burada şair hökmdardan, söz qılıncdan ağır sayılır.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Muğam yazıya tam köçürülüb canlı nəfəsini itirəndə, ya da sürətli 
 
 ## Drives
 
-[Nizami Gəncəvi](persona_nizami.md)də yaşayır, sözü taxtdan yuxarı qoyan şairdə; [Üzeyir Hacıbəyli](persona_hajibeyli.md)də, muğamı operanın səhnəsinə daşıyan bəstəkarda; və [Alim Qasımov](persona_qasimov.md)da, muğamı dünyanın qulağına çatdıran ustadda. Bu üç ürək muğamı və sözü qoruyur, yeniləyir, və hər biri öz əsrində bu iki teli bir nəsil də irəli aparır.
+Sözü taxtdan yuxarı qoyan şairdə yaşayır; muğamı operanın səhnəsinə daşıyan bəstəkarda yaşayır; və muğamı dünyanın qulağına çatdıran ustadda yaşayır. Bu üç yol muğamı və sözü qoruyur, yeniləyir, və hər biri öz əsrində bu iki teli bir nəsil də irəli aparır.

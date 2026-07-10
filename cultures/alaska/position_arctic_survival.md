@@ -34,4 +34,4 @@ Its balance when excessive industrial development limits access to traditional l
 
 ## Drives
 
-Guides the local community planning in the plot [The Alaska Native Claims Settlement Act 1971](plot_03_native_claims_act.md) and drives the subsistence hunting of [Siku](persona_siku.md).
+Guides the local community planning in the plot [The Alaska Native Claims Settlement Act 1971](plot_03_native_claims_act.md) and drives the subsistence hunting of the Inupiat coastal hunter.

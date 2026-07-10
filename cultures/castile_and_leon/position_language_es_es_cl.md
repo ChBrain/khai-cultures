@@ -34,4 +34,4 @@ Pierde terreno cuando la despoblacion vacia los pueblos y se lleva con los mayor
 
 ## Drives
 
-Empuja a esta tierra a tener su habla por la norma y a medir por ella lo que se dice bien. Se la da a [Mateo](persona_mateo.md), labrador de secano de Tierra de Campos, y a [Teresa](persona_teresa.md), quesera de Zamora, como lengua materna en la que labran, negocian y guardan la memoria del pueblo; y en cada uno de ellos se ve quien sostiene esta habla sobria y a quien se la lleva el vaciamiento de la meseta.
+Empuja a esta tierra a tener su habla por la norma y a medir por ella lo que se dice bien. Es la lengua materna del labrador de secano de Tierra de Campos y de la quesera de Zamora, la que usan para labrar la tierra, cerrar el trato y guardar la memoria del pueblo; y en ese uso se ve quien sostiene esta habla sobria y a quien se la lleva el vaciamiento de la meseta.

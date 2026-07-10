@@ -34,4 +34,4 @@ Du terrain quand un peuple se croit plus que les autres, quand la langue de l'Et
 
 ## Drives
 
-Vit dans [Paul Hazoume](persona_hazoume.md), qui ecrivit pour que la memoire des peuples ne se perde pas, et dans [Angelique Kidjo](persona_kidjo.md), qui porte au monde le fon et le yoruba sans renier aucun des siens. Elle pousse le Benin a tenir ses peuples ensemble dans le respect de chacun, et a faire de sa diversite une force et non une fissure.
+Vit dans l'ecriture qui fixa la memoire des peuples pour qu'elle ne se perde pas, et dans le chant qui porte au monde le fon et le yoruba sans renier aucun des siens. Elle pousse le Benin a tenir ses peuples ensemble dans le respect de chacun, et a faire de sa diversite une force et non une fissure.

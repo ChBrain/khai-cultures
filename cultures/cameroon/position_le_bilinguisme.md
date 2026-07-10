@@ -34,4 +34,4 @@ Du terrain quand l'une des deux langues se croit chez elle et traite l'autre en 
 
 ## Drives
 
-Vit dans [Manu Dibango](persona_manu_dibango.md), qui passe du douala au francais et a l'anglais et porte la musique du pays au monde entier, et dans [Mongo Beti](persona_mongo_beti.md), qui retourne la langue de l'ecole pour ecrire son village de l'interieur. Elle pousse le Cameroun a tenir ses deux langues a egale dignite et a faire de cette double parole une ouverture plutot qu'une fracture.
+Elle vit dans le passage du douala au francais et a l'anglais, la ou la musique du pays se porte jusqu'au monde entier, et dans l'ecriture qui retourne la langue de l'ecole pour dire le village de l'interieur. Elle pousse le Cameroun a tenir ses deux langues a egale dignite et a faire de cette double parole une ouverture plutot qu'une fracture.

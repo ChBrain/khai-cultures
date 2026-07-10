@@ -34,4 +34,4 @@ Ground when the sea is treated as scenery rather than livelihood - when the reef
 
 ## Drives
 
-Lives in [the wrecker](persona_the_wrecker.md), the sea-salvager and sponger who reads the reef and lives off the water and the ships it tears open, the islands' deepest sea-craft made flesh. It drives the Bahamas to know itself as a people of the water and to keep the sea that feeds it whole.
+Lives in the sea-salvager and sponger who reads the reef and lives off the water and the ships it tears open, the islands' deepest sea-craft made flesh. It drives the Bahamas to know itself as a people of the water and to keep the sea that feeds it whole.

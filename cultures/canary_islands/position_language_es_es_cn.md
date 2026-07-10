@@ -34,4 +34,4 @@ Pierde terreno cuando se tiene el habla canaria por castellano descuidado o por 
 
 ## Drives
 
-Es la lengua materna de [Ayose](persona_ayose.md), el guarda de La Gomera que en el habla canaria [habla](process_speaking_mother_tongue.md) y lleva sus partes del monte; y de [Yaiza](persona_yaiza.md), la ingeniera platanera que en ella [habla, escucha y piensa](process_speaking_mother_tongue.md) con los cooperativistas. Empuja a las Canarias a hablarse en su propio acento atlántico, hermano del habla de América y no un castellano menor.
+Es la lengua materna del guarda forestal que en el habla canaria [habla](process_speaking_mother_tongue.md) y lleva sus partes del monte; y de la ingeniera platanera que en ella [habla, escucha y piensa](process_speaking_mother_tongue.md) con los cooperativistas. Empuja a las Canarias a hablarse en su propio acento atlántico, hermano del habla de América y no un castellano menor.

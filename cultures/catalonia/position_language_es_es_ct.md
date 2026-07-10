@@ -34,4 +34,4 @@ Pierde terreno frente al catalan en la vida intima, en la escuela de inmersion y
 
 ## Drives
 
-Empuja a Cataluna a manejar dos lenguas sin renunciar a ninguna. Se lo da a [Jordi](persona_jordi.md), vidriero de Barcelona, y a [Montserrat](persona_montserrat.md), viticultora del Penedes, como el castellano con el que tratan con los de fuera mientras piensan y trabajan en catalan; y en cada uno de ellos se ve quien sostiene esta lengua comun y quien la carga como frontera entre lo propio y lo ajeno.
+Empuja a Cataluna a manejar dos lenguas sin renunciar a ninguna. Es el castellano del vidriero de Barcelona y de la viticultora del Penedes, la lengua con la que tratan con los de fuera mientras piensan y trabajan en catalan; y en ese uso se ve quien sostiene esta lengua comun y quien la carga como frontera entre lo propio y lo ajeno.

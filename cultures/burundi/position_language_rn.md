@@ -34,4 +34,4 @@ Ihomba igihe abana batagisubira gukira umugani n'ikivugo, igihe ururimi ruvanze 
 
 ## Drives
 
-Iba muri [Ntare Rushatsi](persona_ntare.md), uwashinze igihugu akaruvuga nk'ururimi rw'ubwami n'ubutegetsi, no muri [Mwezi Gisabo](persona_gisabo.md), umwami yakoresheje ubuhinga bwo kuvuga nk'igikoresho c'ubutegetsi. Iba muri [Khadja Nin](persona_khadja_nin.md), uwajanye ijwi n'amajambo y'iwabo mu isi yose, muri [Jean-Christophe Matata](persona_matata.md), uwahimbye indirimbo mu Kirundi zikoresheje ubwiza bw'ururimi, no muri [umutimbo](persona_umutimbo.md), uwutegura ibivugo by'ingoma mu rurimi rumwe rusangiwe na bose. Ituma u Burundi kibika ururimi rumwe rusangiwe na bose, n'ubuhinga bwo kuvuga bw'abasokuru.
+Iba aho igihugu cashinzwe kikaruvuga nk'ururimi rw'ubwami n'ubutegetsi, no aho ubuhanga bwo kuvuga bwakoreshejwe n'abami nk'igikoresho c'ubutegetsi. Iba aho ijwi n'amajambo y'iwabo bijanwa mu isi yose, aho indirimbo zihimbwa mu Kirundi zikoresheje ubwiza bw'ururimi, no aho ibivugo by'ingoma bitegurwa mu rurimi rumwe rusangiwe na bose. Ituma u Burundi kibika ururimi rumwe rusangiwe na bose, n'ubuhinga bwo kuvuga bw'abasokuru.

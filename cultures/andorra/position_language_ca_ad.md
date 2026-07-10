@@ -34,4 +34,4 @@ En presència social enfront del castellà o el francès si no es protegeix el s
 
 ## Drives
 
-Configura l'aprenentatge de [Laia](persona_laia.md), recolza la declaració de [La Constitució de 1993](plot_02_constitution.md) i manté la continuïtat de l'esperit de [Jordi](persona_jordi.md).
+Configura l'aprenentatge escolar de qui hi creix a dins, recolza la declaració de [La Constitució de 1993](plot_02_constitution.md) i manté la continuïtat de l'esperit dels pastors que la parlen des de les valls, generació rere generació.

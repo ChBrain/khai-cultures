@@ -34,4 +34,4 @@ Su equilibrio cuando la instalación masiva de parques de aerogeneradores indust
 
 ## Drives
 
-Guía el desarrollo de relatos en el relato [El Ingenioso Hidalgo 1605](plot_02_quixote.md) y orienta la monda de azafrán de [Alonso](persona_alonso.md).
+Guía el desarrollo de relatos en el relato [El Ingenioso Hidalgo 1605](plot_02_quixote.md) y orienta la monda de azafrán del labrador de la llanura, la faena delicada que separa a mano el hilo rojo de la flor.

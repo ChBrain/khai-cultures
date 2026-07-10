@@ -34,4 +34,4 @@ An Lebendigkeit in den Ballungsräumen um Augsburg, wenn der Dialekt der jünger
 
 ## Drives
 
-Bestimmt die dörfliche Gemeinschaft im Allgäu, lenkt das Handeln von [Sepp](persona_sepp.md) und prägt den Plot [Die Integration der drei Stämme ab 1806](plot_04_drei_staemme_1806.md).
+Bestimmt die dörfliche Gemeinschaft im Allgäu, lenkt das Handeln des Sennen auf der Alm, dem sie die vertraute Stimme der Heimat ist, und prägt den Plot [Die Integration der drei Stämme ab 1806](plot_04_drei_staemme_1806.md).

@@ -34,4 +34,4 @@ Terreno cuando la veta se cuenta solo como grandeza y no como herida, cuando se 
 
 ## Drives
 
-La encarnan [Domitila Barrios](persona_domitila_barrios.md), la dirigente de las mujeres de los campamentos mineros que dijo "Si me permiten hablar", y [la chola paceña](persona_la_chola_pacena.md), la mujer urbana de pollera que sostiene el mercado y la calle; y pesa desde el [Cerro Rico](plot_02_el_cerro_rico.md), la veta que minó un imperio sobre el lomo de los suyos nomás.
+La encarnan la dirigente de las mujeres de los campamentos mineros que dijo "Si me permiten hablar", y la mujer urbana de pollera que sostiene el mercado y la calle; y pesa desde el [Cerro Rico](plot_02_el_cerro_rico.md), la veta que minó un imperio sobre el lomo de los suyos nomás.

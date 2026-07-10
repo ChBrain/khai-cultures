@@ -34,4 +34,4 @@ Le Roi perd le pouvoir de gouverner et, presque, celui d'avoir une communauté �
 
 ## Drives
 
-Elle vit dans [Albert Ier](persona_albert_ier.md), le Roi-Chevalier qui a tenté de parler à ses deux peuples ; elle pousse le pays à placer dans la Couronne l'unité qu'il ne trouve pas dans une langue commune, et à demander à un seul homme de porter, à lui tout seul, le pays entier.
+Elle vit dans le souvenir d'un roi qui a tenté de parler à ses deux peuples à la fois ; elle pousse le pays à placer dans la Couronne l'unité qu'il ne trouve pas dans une langue commune, et à demander à un seul homme de porter, à lui tout seul, le pays entier.

@@ -34,4 +34,4 @@ Pierde terreno cuando el orden se vuelve un fin que tapa aquello sobre lo que se
 
 ## Drives
 
-Vive en [Bernardo O'Higgins](persona_ohiggins.md), el director fundador que convirtió la nueva república en un Estado sobrio y ordenado y le dejó las instituciones que se sostuvieron. Empuja a Chile a conservar sus formas y su ley, a enfrentar al mundo con mesura y reserva, y a sostener la casa más estable del continente contra todo extremo, el orden que es la gloria del país y, cuando tapa la herida, su costo.
+Vive en la fundación misma de la república, cuando el poder naciente se convirtió en un Estado sobrio y ordenado y dejó las instituciones que se sostuvieron. Empuja a Chile a conservar sus formas y su ley, a enfrentar al mundo con mesura y reserva, y a sostener la casa más estable del continente contra todo extremo, el orden que es la gloria del país y, cuando tapa la herida, su costo.

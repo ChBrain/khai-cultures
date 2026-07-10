@@ -34,4 +34,4 @@ An Dynamik, wenn Bürokratie Gründer behindert oder wenn das starre Festhalten 
 
 ## Drives
 
-Wird verkörpert durch das Dokument [das Autopatent](piece_automobil_patent.md) und bestimmt die Denkweise von Ingenieur [Karl](persona_karl.md) im Plot [Die Erfindung des Automobils 1886](plot_03_automobil_1886.md).
+Wird verkörpert durch das Dokument [das Autopatent](piece_automobil_patent.md) und bestimmt die Denkweise des Ingenieurs im Plot [Die Erfindung des Automobils 1886](plot_03_automobil_1886.md).

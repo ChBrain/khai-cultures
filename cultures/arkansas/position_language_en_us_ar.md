@@ -33,4 +33,4 @@ Ground when its warm, tradition-bound drawl is heard only as a distant echo besi
 
 ## Drives
 
-It is the mother tongue of [Daisy](persona_daisy.md), the Little Rock archivist who speaks and writes her preservation reports in a warm Southern drawl, and of [Roy](persona_roy.md), the Bentonville logistics planner whose technical cadence is the same regional tongue turned to the supply-chain metric. It drives Arkansas to hold its heritage and its corporate-logistics voices as one speech, so that the Ozark community and the distribution center answer each other in the same Arkansan English.
+It is the mother tongue in which the Little Rock archivist speaks and writes her preservation reports in a warm Southern drawl, and in which the Bentonville logistics planner's technical cadence is the same regional tongue turned to the supply-chain metric. It drives Arkansas to hold its heritage and its corporate-logistics voices as one speech, so that the Ozark community and the distribution center answer each other in the same Arkansan English.

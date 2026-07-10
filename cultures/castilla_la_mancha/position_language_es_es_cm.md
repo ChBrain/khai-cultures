@@ -34,4 +34,4 @@ Pierde terreno cuando el castellano estandar de la television y de las oficinas 
 
 ## Drives
 
-Empuja a esta tierra a reconocerse en su habla llana y a guardarla como suya. Se la da a [Alonso](persona_alonso.md), labrador y recolector de azafran de Consuegra, y a [Aldonza](persona_aldonza.md), quesera de Daimiel, como lengua materna en la que faenan, gestionan y sostienen la memoria del pueblo; y en cada uno se ve quien mantiene viva esta habla de la llanura frente a la norma uniforme que la da por menor.
+Empuja a esta tierra a reconocerse en su habla llana y a guardarla como suya. Es la lengua materna del labrador y recolector de azafran de Consuegra y de la quesera de Daimiel, la que usan para faenar, gestionar y sostener la memoria del pueblo; y en ese uso se ve quien mantiene viva esta habla de la llanura frente a la norma uniforme que la da por menor.

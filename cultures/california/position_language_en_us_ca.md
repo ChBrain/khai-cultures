@@ -33,4 +33,4 @@ Ground to General American, the flattened broadcast standard that erases regiona
 
 ## Drives
 
-It carries the state's habit of sounding open, quick, and unpretentious. It gives [Chloe](persona_chloe.md) the English of her marketing stories, the mother tongue in which she names her wine, and it carries the fast campus English of [Sam](persona_sam.md), the primary code of Palo Alto. So the one coast sound shows who speaks it as home.
+It carries the state's habit of sounding open, quick, and unpretentious. It gives the winery's marketing voice the English in which its stories are told and its wines are named, a mother tongue worn easily as home, and it carries the fast campus English that is the primary code of Palo Alto's startup floor. So the one coast sound shows who speaks it as home and who wears it as a tool.

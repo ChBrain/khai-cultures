@@ -34,4 +34,4 @@ Perd terreny davant del castellà a les grans ciutats i als patis d'escola, on l
 
 ## Drives
 
-Configura la parla materna de [Jordi](persona_jordi.md), l'artesà vidrier de Barcelona, i de [Montserrat](persona_montserrat.md), la pagesa cooperativista del Penedès, i travessa la frontera per arribar a [Antoni Gaudí](../spain/persona_gaudi.md), l'arquitecte que responia en català davant la Corona.
+Configura la parla materna de l'artesà vidrier de Barcelona i de la pagesa cooperativista del Penedès, i travessa la frontera per arribar a l'arquitecte que responia en català davant la Corona.

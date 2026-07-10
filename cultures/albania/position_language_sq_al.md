@@ -34,4 +34,4 @@ Truall humbet sot te italishtja dhe greqishtja e mërgimit, ku të rinjtë punoj
 
 ## Drives
 
-Jeton te [Naim Frashëri](persona_naim_frasheri.md), që ia dha gjuhës vargun dhe e ngriti në letërsi; te [Skënderbeu](persona_skenderbeu.md), që i mbajti ushtarët bashkë njëzet e pesë vjet në fjalën e malit; te [Nënë Tereza](persona_nene_tereza.md), që lutej ende me fjalët shqipe të fëmijërisë ndërsa shërbente botën; te [Drita](persona_drita.md), që e jep besën në gegërishten e gjakut; dhe te [Arditi](persona_ardit.md), gjuha e të cilit hollohet drejt italishtes e greqishtes së ikjes. E shtyn Shqipërinë të mbahet pas gjuhës së vetme në degën e vet si provë se kombi është i veti, edhe i shpërndarë mbi tre kufij.
+Jeton atje ku gjuhës i jepet vargu dhe ngrihet në letërsi; atje ku fjala e malit i mban ushtarët bashkë njëzet e pesë vjet; atje ku lutet ende me fjalët shqipe të fëmijërisë ndërsa shërbehet bota; atje ku besa jepet në gegërishten e gjakut; dhe atje ku gjuha hollohet drejt italishtes e greqishtes së ikjes, larg atdheut. E shtyn Shqipërinë të mbahet pas gjuhës së vetme në degën e vet si provë se kombi është i veti, edhe i shpërndarë mbi tre kufij.

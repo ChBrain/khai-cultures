@@ -34,4 +34,4 @@ Pierde terreno cuando se tiene el andaluz por castellano descuidado o vulgar y s
 
 ## Drives
 
-Es la lengua materna de [Manuel](persona_manuel.md), el jornalero que en el andaluz del olivar [habla, escucha y piensa](process_speaking_mother_tongue.md); y de [Rocío](persona_rocio.md), la cantaora que en él [habla](process_speaking_mother_tongue.md) y compone las letras del cante jondo. Empuja a Andalucía a hablarse a sí misma en su propio acento, a tener el andaluz por voz propia y no por falta.
+Es la lengua materna del jornalero que en el andaluz del olivar [habla, escucha y piensa](process_speaking_mother_tongue.md); y de la cantaora que en él [habla](process_speaking_mother_tongue.md) y compone las letras del cante jondo. Empuja a Andalucía a hablarse a sí misma en su propio acento, a tener el andaluz por voz propia y no por falta.

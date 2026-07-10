@@ -34,4 +34,4 @@ Terreni quando e tratadu komo fala menor, koisa di kasa que nao serve para a esk
 
 ## Drives
 
-Vive em [Eugenio Tavares](persona_tavares.md), que teve a koragem di fazer poesia na lingua-mae quando isso ainda nao se fazia, e levantou o kriolu a dignidade da arte. Ele empurra Cabo Verde a dizer-se na sua propria lingua, e a guardar nela, de un mar ao outru, a prova di que aqui nasceu um povu novu.
+Vive onde alguem tem a koragem di fazer poesia na lingua-mae, numa altura em que isso ainda nao se fazia, e levanta o kriolu a dignidade da arte. Ele empurra Cabo Verde a dizer-se na sua propria lingua, e a guardar nela, de un mar ao outru, a prova di que aqui nasceu um povu novu.

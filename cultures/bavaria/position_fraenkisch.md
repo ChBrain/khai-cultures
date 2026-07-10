@@ -34,4 +34,4 @@ An Geltung in den urbanen Zentren, wenn Zuwanderung und globale Wirtschaft das S
 
 ## Drives
 
-Prägt die heimatliche Kommunikation im Plot [Die Integration der drei Stämme ab 1806](plot_04_drei_staemme_1806.md) und leitet das Sprechen von [Monika](persona_monika.md) in Nürnberg.
+Prägt die heimatliche Kommunikation im Plot [Die Integration der drei Stämme ab 1806](plot_04_drei_staemme_1806.md) und leitet das Sprechen derer, die in Nürnberg darin die vertraute Färbung ihrer Stadt hören.

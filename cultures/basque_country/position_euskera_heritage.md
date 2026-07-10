@@ -34,4 +34,4 @@ Su equilibrio cuando la administración de justicia o los tribunales estatales a
 
 ## Drives
 
-Guía el desarrollo lingüístico en el relato [La Industrialización del Nervión 1882](plot_02_nervion.md) y orienta la militancia obrera de [Iñaki](persona_inaki.md).
+Guía el desarrollo lingüístico en el relato [La Industrialización del Nervión 1882](plot_02_nervion.md) y orienta la militancia obrera del astillero, la lengua de la cuadrilla y del comité en la que la solidaridad se dice sin traducir.

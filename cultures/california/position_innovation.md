@@ -34,4 +34,4 @@ Its moral ground when algorithms perpetuate bias, high-tech campuses gentrify ne
 
 ## Drives
 
-Guides the industry in the plot [The Silicon Valley Boom 1970](plot_03_silicon_valley_boom.md) and drives the startup work of entrepreneur [Sam](persona_sam.md).
+Guides the industry in the plot [The Silicon Valley Boom 1970](plot_03_silicon_valley_boom.md) and drives the startup work of the entrepreneur who bets a venture on a disruptive idea before the market has proven it out.

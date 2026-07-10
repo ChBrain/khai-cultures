@@ -34,4 +34,4 @@ Ground when the freedom won is narrowed again - when power gathers back at the c
 
 ## Drives
 
-Lives in [Lynden Pindling](persona_lynden_pindling.md), the father of the nation who led the islands to majority rule and independence; in [Milo Butler](persona_milo_butler.md), the labour and rights pioneer who became the first Bahamian Governor-General; and in [Doris Johnson](persona_doris_johnson.md), who led the women's suffrage movement and won the vote for half the nation. It drives the Bahamas to hold what it climbed to win and to govern itself for all its islands.
+Lives in the leader who brought the islands to majority rule and independence, the father of the nation in the truest sense of the phrase; in the labour and rights pioneer who rose to become the first Bahamian Governor-General; and in the leader of the women's suffrage movement who won the vote for half the nation. It drives the Bahamas to hold what it climbed to win and to govern itself for all its islands.

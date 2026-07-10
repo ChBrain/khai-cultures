@@ -33,4 +33,4 @@ Ground when its warm, community-bound cadence is heard as merely provincial besi
 
 ## Drives
 
-It is the mother tongue of [Albert](persona_albert.md), the Montgomery curator who speaks, hears, and thinks in the expressive Southern cadence of the movement's records, and of [Sarah](persona_sarah.md), the Huntsville engineer whose fast technical drawl is the same regional tongue turned to the propulsion log. It drives Alabama to hold its historic and its high-technology voices as one speech, so that the meeting hall and the test stand answer each other in the same Alabama English.
+It is the mother tongue of the Montgomery curator who speaks, hears, and thinks in the expressive Southern cadence of the movement's records, and of the Huntsville engineer whose fast technical drawl is the same regional tongue turned to the propulsion log. It drives Alabama to hold its historic and its high-technology voices as one speech, so that the meeting hall and the test stand answer each other in the same Alabama English.

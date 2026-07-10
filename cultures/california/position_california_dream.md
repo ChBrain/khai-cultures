@@ -34,4 +34,4 @@ Its promise when severe inequality, high cost of living, and homelessness lock o
 
 ## Drives
 
-Inspires the migrations in the plot [The Gold Rush 1848](plot_01_gold_rush_1848.md) and drives the creative efforts of winemaker [Chloe](persona_chloe.md).
+Inspires the migrations in the plot [The Gold Rush 1848](plot_01_gold_rush_1848.md) and drives the creative efforts of the winemaker who trades an old life for a new craft on the land, chasing the fresh start the position promises.

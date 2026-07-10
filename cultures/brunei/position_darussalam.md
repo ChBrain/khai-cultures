@@ -34,4 +34,4 @@ Tanahnya tergugat apabila ketenangan disangka diam yang membungkam, sehingga yan
 
 ## Drives
 
-Hidup dalam [Yura Halim](persona_yura_halim.md), yang memberi negeri lirik doa agar Allah memelihara raja dan negeri yang aman, kata-kata yang dinyanyikan seluruh bangsa. Ia mendorong Brunei untuk melihat dirinya sebagai negeri yang aman, dan untuk menjaga kedamaian itu sebagai nama, cita-cita, dan amanah sekaligus.
+Hidup dalam lirik doa kebangsaan yang memohon Allah memelihara raja dan negeri yang aman, kata-kata yang dinyanyikan seluruh bangsa setiap kali bendera dinaikkan. Ia mendorong Brunei untuk melihat dirinya sebagai negeri yang aman, dan untuk menjaga kedamaian itu sebagai nama, cita-cita, dan amanah sekaligus.

@@ -34,4 +34,4 @@ An Bedeutung, wenn Protektionismus den Welthandel einschränkt oder wenn Korrupt
 
 ## Drives
 
-Bestimmt den wirtschaftlichen Rahmen im Plot [Der Beitritt zur Hanse 1358](plot_01_hanse_1358.md) und lenkt das kaufmännische Denken von [Gesche](persona_gesche.md).
+Bestimmt den wirtschaftlichen Rahmen im Plot [Der Beitritt zur Hanse 1358](plot_01_hanse_1358.md) und lenkt das kaufmännische Denken der Kaufleute, die dem Ehrbaren Kaufmann verpflichtet bleiben.

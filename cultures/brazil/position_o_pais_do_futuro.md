@@ -34,4 +34,4 @@ Perde terreno quando o futuro vai virando a desculpa do presente - quando a fé 
 
 ## Drives
 
-Vive em [Dom Pedro I](persona_dom_pedro.md), que separou o gigante da sua metrópole e botou ele no seu próprio caminho só dele como império, e em [Getúlio Vargas](persona_vargas.md), que foi tentando construir a nação moderna prometida e o seu Estado do trabalho a partir do tamanho e da possibilidade. Ela move o Brasil a ir acreditando na sua própria grandeza por vir, e pra sempre a ir pesando essa fé contra o país do presente que ainda não veio a ser.
+Vive em quem separou o gigante da sua metrópole e o botou no seu próprio caminho como império, e em quem foi tentando construir a nação moderna prometida e o seu Estado do trabalho a partir do tamanho e da possibilidade. Ela move o Brasil a ir acreditando na sua própria grandeza por vir, e pra sempre a ir pesando essa fé contra o país do presente que ainda não veio a ser.

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Xalqın ana dilinin səlahiyyəti. Bu, aşığın sazının və qəzəlin dili, evin və küçənin gündəlik dili, Axundovun ilk komediyalarını yazdığı dildir. Ana dili olmaq - onun bütün gücü budur: xalq öz ürəyinin sözünü bu dildə deyir, və heç bir başqa dil onun yerini tuta bilməz.
+Xalqın ana dilinin səlahiyyəti. Bu, aşığın sazının və qəzəlin dili, evin və küçənin gündəlik dili, ilk Azərbaycan komediyalarının yazıldığı dildir. Ana dili olmaq - onun bütün gücü budur: xalq öz ürəyinin sözünü bu dildə deyir, və heç bir başqa dil onun yerini tuta bilməz.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Tarixən öz əsrinin ədəbi göyü olan fars və ərəb dillərinə yer verir;
 
 ## Drives
 
-O, [Mirzə Fətəli Axundov](persona_akhundov.md)da yaşayır - ilk Azərbaycan komediyalarını bu dildə yazan və sözün xalqa daha asan çatmasını arzulayan maarifçidə; [Aşıq](persona_ashiq.md)da, bütün sərvəti sazdan-saza, ağızdan-ağıza daşınan ana dili olan el ozanında; [Üzeyir Hacıbəyli](persona_hajibeyli.md)də, onun sözünü opera səhnəsində musiqiyə qoşan bəstəkarda; [Nizami Gəncəvi](persona_nizami.md)də, ana dili türkcə olsa da əsri ona poemalarını fars dilində yazdıran şairdə; və [Alim Qasımov](persona_qasimov.md)da, onun sözünü muğamla dünyanın qulağına daşıyan ustadda. Beləcə bu dil, kimin onu ana dili kimi daşıdığını və kimin onu başqa göylərin altında qoruduğunu göstərir.
+O, ilk Azərbaycan komediyalarını bu dildə yazan və sözün xalqa daha asan çatmasını arzulayan maarifçidə yaşayır; bütün sərvəti sazdan-saza, ağızdan-ağıza daşınan ana dili olan el ozanında yaşayır; onun sözünü opera səhnəsində musiqiyə qoşan bəstəkarda yaşayır; ana dili türkcə olsa da öz əsrinin ona poemalarını fars dilində yazdırdığı şairdə yaşayır; və onun sözünü muğamla dünyanın qulağına daşıyan ustadda yaşayır. Beləcə bu dil, kimin onu ana dili kimi daşıdığını və kimin onu başqa göylərin altında qoruduğunu göstərir.

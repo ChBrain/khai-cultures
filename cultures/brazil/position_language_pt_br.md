@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-A autoridade do português tal como se fala e se escreve no Brasil, a única língua de um país do tamanho de um continente, o idioma do papel, da escola, do rádio e da lei, que reúne numa só voz um povo de todas as cores e origens. É o português de cá, com o seu jeito, o seu sotaque e as suas palavras vindas das línguas indígenas e africanas que a terra também falou, a língua em que o país conta a si mesmo a sua história calorosa - a mesma que a corte trouxe e que Dom Pedro fez o idioma único da nação que fundou.
+A autoridade do português tal como se fala e se escreve no Brasil, a única língua de um país do tamanho de um continente, o idioma do papel, da escola, do rádio e da lei, que reúne numa só voz um povo de todas as cores e origens. É o português de cá, com o seu jeito, o seu sotaque e as suas palavras vindas das línguas indígenas e africanas que a terra também falou, a língua em que o país conta a si mesmo a sua história calorosa - a mesma que a corte trouxe e que o imperador que fundou a nação fez o idioma único dela.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Perde terreno para as línguas indígenas que a terra falava antes de 1500 e par
 
 ## Drives
 
-Empurra o país a se falar numa só voz por cima de um povo continental. É língua materna de [Dom Pedro I](persona_dom_pedro.md), que bradou nela a independência, de [Pelé](persona_pele.md), que nela ouviu o rugido da torcida, e de [Getúlio Vargas](persona_vargas.md), que nela prensou a nação pelo rádio e pela escola; e é língua emprestada, a do asfalto e do senhor, para [Zumbi dos Palmares](persona_zumbi.md), que guardou em Palmares as línguas africanas livres, e para [o malandro](persona_o_malandro.md), que carrega no morro a herança africana dos seus enquanto a cidade lhe fala de cima. Assim a única língua mostra quem a tem por casa e quem ela nunca deixou entrar de verdade.
+Empurra o país a se falar numa só voz por cima de um povo continental. É língua materna de quem bradou nela a independência, de quem nela ouviu o rugido da torcida, e de quem nela prensou a nação pelo rádio e pela escola; e é língua emprestada, a do asfalto e do senhor, para quem guardou nos quilombos as línguas africanas livres, e para quem carrega no morro a herança africana dos seus enquanto a cidade lhe fala de cima. Assim a única língua mostra quem a tem por casa e quem ela nunca deixou entrar de verdade.

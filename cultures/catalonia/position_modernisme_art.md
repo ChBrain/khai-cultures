@@ -34,4 +34,4 @@ Su equilibrio cuando las constructoras industriales imponen el uso de hormigón 
 
 ## Drives
 
-Guía el diseño artístico en el relato [La Exposición Universal de Barcelona 1888](plot_02_exposition.md) y orienta la restauración vidriera de [Jordi](persona_jordi.md).
+Guía el diseño artístico en el relato [La Exposición Universal de Barcelona 1888](plot_02_exposition.md) y orienta la restauración vidriera del artesano, el oficio del vidrio soplado a mano que mantiene viva la ornamentación orgánica.

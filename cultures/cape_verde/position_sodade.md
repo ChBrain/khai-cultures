@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-O sentimentu maior das ilhas, a sua palavra-korason: a sodade, esse mal dosi di kem fika a olhar o mar por kem partiu, da terra, da genti, do tempu que ja foi. Nao e so tristeza nem so saudade: e as duas misturadas, o doer e o amar ao mesmu tempu, a presensa di uma ausensia. Nasse da partida sem fim, da seka que empurra os filhus para os navios, e fika sendo o jeitu kabuverdianu di amar de longe. E a alma da morna, kantada na voz descalsa di [Cesaria Evora](persona_cesaria.md), e a unika koisa que atravessa o mar nos dois sentidus: vai kom kem parte e fika kom kem espera.
+O sentimentu maior das ilhas, a sua palavra-korason: a sodade, esse mal dosi di kem fika a olhar o mar por kem partiu, da terra, da genti, do tempu que ja foi. Nao e so tristeza nem so saudade: e as duas misturadas, o doer e o amar ao mesmu tempu, a presensa di uma ausensia. Nasse da partida sem fim, da seka que empurra os filhus para os navios, e fika sendo o jeitu kabuverdianu di amar de longe. E a alma da morna, kantada na voz descalsa di kem a leva ao mundu inteiru, e a unika koisa que atravessa o mar nos dois sentidus: vai kom kem parte e fika kom kem espera.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Terreni quando vira so lamentason e resignason, kem fika so a chorar o que parti
 
 ## Drives
 
-Vive em [Cesaria Evora](persona_cesaria.md), que levou a sodade kantada ao mundu inteiru kom os pes no chao, e em [B.Leza](persona_bleza.md), que the deu forma na morna e fez da despedida musika. Ela empurra Cabo Verde a karregar a perda kantando, e a segurar, de un mar ao outru, o korason di um so povu.
+Vive em kem levou a sodade kantada ao mundu inteiru kom os pes no chao, e em kem the deu forma na morna e fez da despedida musika. Ela empurra Cabo Verde a karregar a perda kantando, e a segurar, de un mar ao outru, o korason di um so povu.

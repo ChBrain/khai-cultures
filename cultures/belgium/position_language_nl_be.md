@@ -34,4 +34,4 @@ Terrein aan het Frans van vroeger, toen de macht en de letteren Frans spraken en
 
 ## Drives
 
-Het duwt Vlaanderen om in zijn eigen taal te leven, ten noorden van de taalgrens, zelfbewust en vrij. Het leeft in [Hendrik Conscience](persona_conscience.md), die zijn volk leerde lezen in de taal die men beneden zich achtte, en in [Wout](persona_wout.md), de jonge, welvarende Vlaming die zijn hele leven in het Nederlands regelt en liever Engels dan Frans spreekt. Zo wordt de taal van het noorden tegelijk ontvoogding, trots en de scheidslijn die het land in tweeën houdt.
+Het duwt Vlaanderen om in zijn eigen taal te leven, ten noorden van de taalgrens, zelfbewust en vrij. Het leeft in wie zijn volk leerde lezen in de taal die men beneden zich achtte en ze tot letterkunde verhief, en het leeft evenzeer in de jonge, welvarende Vlaming van vandaag die zijn hele leven in het Nederlands regelt en liever Engels dan Frans spreekt. Zo wordt de taal van het noorden tegelijk ontvoogding, trots en de scheidslijn die het land in tweeën houdt.

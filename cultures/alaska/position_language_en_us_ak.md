@@ -33,4 +33,4 @@ Ground when its slower, season-bound, Inupiaq-inflected cadence is heard only as
 
 ## Drives
 
-It is the mother tongue of [Karl](persona_karl.md), the Valdez pipeline technician who speaks, hears, and thinks in the technical drawl of the transport corridor, and of [Siku](persona_siku.md), the Inupiat hunter of Barrow whose warm drawl carries the same regional tongue into the community log and the whaling season. It drives Alaska to hold its industrial and its subsistence voices as one speech, so that the pipeline field and the sea ice answer each other in the same Alaskan English.
+It is the mother tongue of the Valdez pipeline technician who speaks, hears, and thinks in the technical drawl of the transport corridor, and of the Inupiat hunter of Barrow whose warm drawl carries the same regional tongue into the community log and the whaling season. It drives Alaska to hold its industrial and its subsistence voices as one speech, so that the pipeline field and the sea ice answer each other in the same Alaskan English.

@@ -34,4 +34,4 @@ Boden nach unten an die Mundart, die im Mund weiterlebt, was das Schulbuch nie g
 
 ## Drives
 
-Es lebt in [Gretes](persona_grete.md) Wienerisch und Schmäh, in [Lukas](persona_lukas.md) ohne die Kaisernostalgie, und liegt als selbstverständlicher Grund unter [Freuds](persona_freud.md) Prosa. Als Kanzleideutsch klammert es [Maria Theresias](persona_maria_theresia.md) Vielvölkerreich von oben zusammen, und auf [Metternichs](persona_metternich.md) Zunge spielt es im Salon der Diplomatie. Es ist die Norm, an der die Österreicher wissen, dass sie keine Deutschen sind: dieselbe Zunge, die eigene Form.
+Es lebt im Wienerischen und im Schmäh der Umgangssprache, in der bürgerlichen Rede ganz ohne Kaisernostalgie, und liegt als selbstverständlicher Grund unter der großen Prosa, die von Wien aus in die Welt ging. Als Kanzleideutsch klammerte es einst ein Vielvölkerreich von oben zusammen, und auf der Zunge der großen Diplomatie spielte es im Salon der Verhandlung. Es ist die Norm, an der die Österreicher wissen, dass sie keine Deutschen sind: dieselbe Zunge, die eigene Form.

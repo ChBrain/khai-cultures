@@ -34,4 +34,4 @@ An Bedeutung, wenn der Bund die föderalen Rechte beschneidet oder wenn die baye
 
 ## Drives
 
-Es treibt das Land, seine Sonderrolle im Bund zu behaupten. Es steht hinter den Reformen von [1806](plot_01_kingdom_1806.md) und der Weigerung, die preußische Vorherrschaft zu akzeptieren, und es prägt das politische Handeln von [König Ludwig II.](persona_ludwig.md).
+Es treibt das Land, seine Sonderrolle im Bund zu behaupten. Es steht hinter den Reformen von [1806](plot_01_kingdom_1806.md) und der Weigerung, die preußische Vorherrschaft zu akzeptieren, und es prägt das politische Handeln der Krone, die sich als Hüterin dieser Eigenständigkeit versteht.

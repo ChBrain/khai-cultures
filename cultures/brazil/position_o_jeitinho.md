@@ -34,4 +34,4 @@ Perde terreno quando o jeito de contornar a regra vai virando o jeito de contorn
 
 ## Drives
 
-Vive em [o malandro](persona_o_malandro.md), o malandro encantador do morro que vai sobrevivendo de astúcia e calor e faz do jeitinho carne, e em [Pelé](persona_pele.md), cujo jogo bonito ia achando o caminho impossível atravessando toda defesa do mesmo jeito que o povo vai achando o caminho atravessando todo muro. Ela move o Brasil a ir encontrando o mundo com invenção e graça, e pra sempre a ir pesando o calor que abre a porta contra a justiça que ele pode deixar pra trás.
+Vive em quem sobrevive de astúcia e calor no morro, encantador e driblando a vida, fazendo do jeitinho carne, e no jogo bonito que ia achando o caminho impossível atravessando toda defesa do mesmo jeito que o povo vai achando o caminho atravessando todo muro. Ela move o Brasil a ir encontrando o mundo com invenção e graça, e pra sempre a ir pesando o calor que abre a porta contra a justiça que ele pode deixar pra trás.

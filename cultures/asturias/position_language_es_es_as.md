@@ -34,4 +34,4 @@ Pierde terreno ante el castellano neutro del centro, que oye el deje asturiano c
 
 ## Drives
 
-Lo [llevan como lengua de trato](process_speaking_carried.md), junto a su asturiano materno, [Covadonga](persona_covadonga.md), la quesera de los Picos, y [Xuan](persona_xuan.md), el minero jubilado del Nalón, que en el castellano de acento asturiano tratan con las oficinas y los distribuidores sin dejar de pensar en la llingua. Empuja a Asturias a hablar su castellano con el deje del asturiano debajo, sin tenerlo por castellano mal hablado.
+Lo [llevan como lengua de trato](process_speaking_carried.md), junto a su asturiano materno, quienes tratan con las oficinas y los distribuidores en el castellano de acento asturiano sin dejar de pensar en la llingua: la quesera de los Picos y el minero jubilado del Nalón. Empuja a Asturias a hablar su castellano con el deje del asturiano debajo, sin tenerlo por castellano mal hablado.

@@ -34,4 +34,4 @@ Pierde terreno ante el castellano neutro del centro, que oye el deje cántabro c
 
 ## Drives
 
-Es la lengua materna de [Nel](persona_nel.md), el ganadero pasiego de los valles del Miera que en el castellano de deje montañés [habla, escucha y piensa](process_speaking_mother_tongue.md); y de [Sabela](persona_sabela.md), la conservera de Santoña que en él [habla](process_speaking_mother_tongue.md) y lleva la fábrica. Empuja a Cantabria a hablar su castellano con el aire de sus valles y de su costa, sin limarlo ante el forastero.
+Es la lengua materna del ganadero pasiego de los valles del Miera que en el castellano de deje montañés [habla, escucha y piensa](process_speaking_mother_tongue.md); y de la conservera de Santoña que en él [habla](process_speaking_mother_tongue.md) y lleva la fábrica. Empuja a Cantabria a hablar su castellano con el aire de sus valles y de su costa, sin limarlo ante el forastero.

@@ -34,4 +34,4 @@ Du terrain quand l'ecrit et le pouvoir restent dans la seule langue de l'ecole, 
 
 ## Drives
 
-Vit en [Idylle Mamba](persona_mamba.md), qui chante en sango pour tout le pays et en fait une fierte joyeuse, et en [Marcel Diki-Kidiri](persona_diki_kidiri.md), qui lui a donne ses lettres et ses regles pour qu'elle puisse s'ecrire et durer. Elle pousse la Centrafrique a tenir ensemble par la parole, et a faire de sa langue commune un bien que tous se partagent.
+Elle vit dans le chant qui la porte pour tout le pays et en fait une fierte joyeuse, et dans la regle qui lui donne ses lettres pour qu'elle puisse s'ecrire et durer. Elle pousse la Centrafrique a tenir ensemble par la parole, et a faire de sa langue commune un bien que tous se partagent.

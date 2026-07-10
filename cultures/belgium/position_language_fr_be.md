@@ -34,4 +34,4 @@ Du terrain, car il fut d'abord la langue du pouvoir imposée à un pays à moiti
 
 ## Drives
 
-Il pousse la Belgique francophone à vivre dans sa langue de part et d'autre de la frontière linguistique. Il vit en [Albert Ier](persona_albert_ier.md), le Roi-Chevalier dont c'est la langue de cour et d'État, en [Julien](persona_julien.md), le Wallon qui le crut longtemps suffisant, et en [Naïma](persona_naima.md), la Bruxelloise qui en fait le socle d'une ville mêlée. Ainsi la langue du sud se fait à la fois héritage, fierté régionale et pont fragile dans un pays sans langue commune.
+Il pousse la Belgique francophone à vivre dans sa langue de part et d'autre de la frontière linguistique. Il vit dans la langue de cour et d'État d'une monarchie qui en fit longtemps son unique langue, dans la certitude du Wallon qui l'a longtemps crue suffisante à elle seule, et dans la vie de la Bruxelloise qui en fait le socle d'une ville mêlée. Ainsi la langue du sud se fait à la fois héritage, fierté régionale et pont fragile dans un pays sans langue commune.

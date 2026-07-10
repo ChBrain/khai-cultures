@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Bosna kao most između Istoka i Zapada, između vjera i naroda: ćuprija, kamena veza koja spaja dvije obale i dva svijeta. Na razmeđu islama i hrišćanstva, carstava i kultura, zemlja je vjekovima bila prijelaz na kojem se susreću, a kamene ćuprije na Drini i Neretvi nose to u kamenu. Most traje kroz poplave i ratove, spaja ono što je rijeka i historija razdvojila, i to je velika tema Ive Andrića: ćuprija kao mjesto susreta i kao ono što ostaje kad ljudi prođu.
+Bosna kao most između Istoka i Zapada, između vjera i naroda: ćuprija, kamena veza koja spaja dvije obale i dva svijeta. Na razmeđu islama i hrišćanstva, carstava i kultura, zemlja je vjekovima bila prijelaz na kojem se susreću, a kamene ćuprije na Drini i Neretvi nose to u kamenu. Most traje kroz poplave i ratove, spaja ono što je rijeka i historija razdvojila, i to postaje velika tema svjetske književnosti o njoj: ćuprija kao mjesto susreta i kao ono što ostaje kad ljudi prođu.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Tlo gubi kad se most sruši, doslovno i u dušama, kad se obale okrenu leđa jed
 
 ## Drives
 
-Živi u [Ivi Andriću](persona_andric.md), koji je ćupriju upisao u svjetsku književnost kao mjesto susreta civilizacija, i u [Tariku](persona_tarik.md), mladiću dijaspore koji je sam most između podijeljene domovine i svijeta. Tjera Bosnu da iznova bude most, da sagradi srušene ćuprije i u kamenu i u dušama, i da ostane veza, a ne granica.
+Živi u onome ko ćupriju upiše u svjetsku književnost kao mjesto susreta civilizacija, i u svakom mladom čovjeku dijaspore koji sâm postane most između podijeljene domovine i svijeta. Tjera Bosnu da iznova bude most, da sagradi srušene ćuprije i u kamenu i u dušama, i da ostane veza, a ne granica.

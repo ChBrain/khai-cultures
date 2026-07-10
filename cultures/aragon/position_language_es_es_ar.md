@@ -34,4 +34,4 @@ Pierde terreno ante el castellano pulido del centro, tenido por la norma culta c
 
 ## Drives
 
-Es la lengua materna de [Javier](persona_javier.md), el labrador de secano que en el castellano de acento aragonés [habla, escucha y piensa](process_speaking_mother_tongue.md) en los Monegros; y lo [lleva como lengua de trato](process_speaking_carried.md), sin sentirlo del todo suyo, [Piluca](persona_piluca.md), la pastora cuya lengua materna es el aragonés de montaña. Empuja a Aragón a hablar su castellano con el temple de la meseta del Ebro, sin borrar el acento ante el forastero.
+Es la lengua materna del labrador de secano que en el castellano de acento aragonés [habla, escucha y piensa](process_speaking_mother_tongue.md) en los Monegros; y la [lleva como lengua de trato](process_speaking_carried.md), sin sentirla del todo suya, la pastora de montaña cuya lengua materna es el aragonés de altura. Empuja a Aragón a hablar su castellano con el temple de la meseta del Ebro, sin borrar el acento ante el forastero.

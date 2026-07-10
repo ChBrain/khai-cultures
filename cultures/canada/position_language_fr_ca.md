@@ -34,4 +34,4 @@ Du terrain à l'anglais qui l'entoure de partout, celui du reste du Canada et de
 
 ## Drives
 
-Il pousse le Québec à vivre et à se gouverner tout entier en français sur un continent qui parle l'autre langue. Il vit en [René Lévesque](persona_levesque.md), le journaliste fait politicien qui porta la cause du fait français jusqu'au référendum et refusa de laisser l'océan anglais engloutir sa nation. Ainsi la langue de la Nouvelle-France se fait à la fois héritage, fierté nationale et combat de chaque jour pour durer.
+Il pousse le Québec à vivre et à se gouverner tout entier en français sur un continent qui parle l'autre langue. Il vit dans la cause portée jusqu'au référendum par le journaliste devenu politicien qui refusa de laisser l'océan anglais engloutir sa nation. Ainsi la langue de la Nouvelle-France se fait à la fois héritage, fierté nationale et combat de chaque jour pour durer.
