@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una artista fallera y pintora de figuras de cartón piedra de treinta y ocho años en Valencia. El valenciano, hablado con la entonación viva de los barrios antiguos urbanos, es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y redacta los folletos explicativos satíricos de las comisiones festivas. No habla lenguas extranjeras. Siente una fisura: la terminología de las agencias de turismo internacional y las exigencias de licencias de seguridad para la quema en la plaza [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que la libertad crítica de la sátira popular y la paciencia del modelado manual se consideran secundarias frente a la espectacularidad rápida para visitantes.
+Una artista fallera y pintora de figuras de cartón piedra de treinta y ocho años en Valencia. El valenciano, hablado con la entonación viva de los barrios antiguos urbanos, es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y redacta los folletos explicativos satíricos de las comisiones festivas. No habla lenguas extranjeras. El castellano, [el español de la Comunidad Valenciana](position_language_es_es_vc.md), lo comparte como lengua común, aunque piense y cree en valenciano. Siente una fisura: la terminología de las agencias de turismo internacional y las exigencias de licencias de seguridad para la quema en la plaza [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que la libertad crítica de la sátira popular y la paciencia del modelado manual se consideran secundarias frente a la espectacularidad rápida para visitantes.
 
 ## Action
 

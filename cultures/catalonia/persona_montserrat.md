@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una agricultora y presidenta de cooperativa vinícola de cincuenta y dos años en el Penedès. El catalán, hablado con la entonación de las comarcas interiores, es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y escribe sus informes diarios de producción. No habla lenguas extranjeras. Pero siente una fisura: la jerga rápida y tecnológica de los distribuidores de cava y las exigencias contables de los inspectores de Madrid [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que el ritmo pausado del ciclo de la viña y la toma de decisiones asamblearias en la cooperativa se consideran secundarios frente a la exportación rápida y los objetivos del gran mercado vinícola.
+Una agricultora y presidenta de cooperativa vinícola de cincuenta y dos años en el Penedès. El catalán, hablado con la entonación de las comarcas interiores, es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y escribe sus informes diarios de producción. No habla lenguas extranjeras. El castellano, [el español de Cataluña](position_language_es_es_ct.md), lo comparte como lengua común del país, aunque piense y trabaje en catalán. Pero siente una fisura: la jerga rápida y tecnológica de los distribuidores de cava y las exigencias contables de los inspectores de Madrid [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que el ritmo pausado del ciclo de la viña y la toma de decisiones asamblearias en la cooperativa se consideran secundarios frente a la exportación rápida y los objetivos del gran mercado vinícola.
 
 ## Action
 

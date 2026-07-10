@@ -46,6 +46,7 @@ Una tierra verde, lluviosa y de profunda tradición marítima, definida por las 
 
 - [la vida marítima](position_atlantic_maritime.md)
 - [la identidad gallega](position_galician_identity.md)
+- [el español de Galicia](position_language_es_es_ga.md)
 
 **Pieces**
 
