@@ -34,4 +34,4 @@ Its balance when global corporate brand consolidation buys out local family farm
 
 ## Drives
 
-Guides the quality standard planning in the plot [The Maple Sugar Industry Standard 1893](plot_02_maple_sugar.md) and drives the cooperative work of [Emma](persona_emma.md).
+Guides the quality standard planning in the plot [The Maple Sugar Industry Standard 1893](plot_02_maple_sugar.md) and drives the cooperative work carried on by the boiler and grader, the hands that keep quality standard from batch to batch.

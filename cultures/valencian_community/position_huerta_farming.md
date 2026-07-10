@@ -34,4 +34,4 @@ Su equilibrio cuando la especulación urbanística costera asfalta las parcelas 
 
 ## Drives
 
-Guía el desarrollo agrícola en el relato [La Expulsión de los Moriscos 1609](plot_01_moriscos.md) y orienta la labranza arrocera de [Vicent](persona_vicent.md).
+Guía el desarrollo agrícola en el relato [La Expulsión de los Moriscos 1609](plot_01_moriscos.md) y orienta la labranza arrocera de quien trabaja los campos de la huerta.

@@ -34,4 +34,4 @@ Terreno cuando la modestia se vuelve resignación y el Estado parejo se deja env
 
 ## Drives
 
-La encarna [Jose Batlle y Ordonez](persona_batlle.md), que levanto el Estado laico y solidario y puso al Uruguay a la vanguardia de los derechos sociales, y la vive [el oriental](persona_el_oriental.md), que da por sentado que la escuela, el hospital y el trato parejo son de todos. Empuja al Uruguay a sostener su rara igualdad y su decencia laica, y a no conformarse con conservarlas.
+La encarna la reforma que levanto el Estado laico y solidario y puso al Uruguay a la vanguardia de los derechos sociales, y la vive cada oriental que da por sentado que la escuela, el hospital y el trato parejo son de todos. Empuja al Uruguay a sostener su rara igualdad y su decencia laica, y a no conformarse con conservarlas.

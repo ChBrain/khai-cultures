@@ -34,4 +34,4 @@ Terrein wanneer men de wond met het lichte a no span toedekt in plaats van haar 
 
 ## Drives
 
-Leeft in [Anton de Kom](persona_anton_de_kom.md), die in "Wij slaven van Suriname" het geweten van het land verwoordde en de plantagegeschiedenis voor het eerst van binnenuit en van onderop vertelde, en in [Cynthia McLeod](persona_cynthia_mcleod.md), die in haar historische romans het koloniale verleden voor een breed lezerspubliek doet herleven. Zij drijft Suriname om zijn oorsprong onder ogen te durven zien zonder zich erin te verliezen.
+Leeft in het boek "Wij slaven van Suriname", dat het geweten van het land verwoordde en de plantagegeschiedenis voor het eerst van binnenuit en van onderop vertelde, en in de historische roman die het koloniale verleden voor een breed lezerspubliek doet herleven. Zij drijft Suriname om zijn oorsprong onder ogen te durven zien zonder zich erin te verliezen.

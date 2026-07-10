@@ -34,4 +34,4 @@ Terreno cuando el crudo se trata como bendición sin precio, como si la abundanc
 
 ## Drives
 
-Vive en [Rómulo Gallegos](persona_romulo_gallegos.md), el novelista y presidente que encarna el amanecer democrático que el petróleo hizo posible y, a la vez, la promesa de un país que aún debía aprender a sembrar su crudo. Empuja a Venezuela a preguntarse si sabrá vivir más allá del barril, y a no olvidar que la riqueza que no se siembra se gasta.
+Vive en la presidencia literaria que encarna el amanecer democrático que el petróleo hizo posible y, a la vez, la promesa de un país que aún debía aprender a sembrar su crudo. Empuja a Venezuela a preguntarse si sabrá vivir más allá del barril, y a no olvidar que la riqueza que no se siembra se gasta.

@@ -34,4 +34,4 @@ Mất chỗ đứng khi tình làng hóa thành lũy tre khép kín, dè chừng
 
 ## Drives
 
-Sống trong [Người Mẹ](persona_nguoi_me.md), người tảo tần bên ruộng và giữ nếp nhà giữa làng. Nó được nuôi bằng [Tết](process_tet.md), khi con cháu khắp nơi trở về sum họp dưới mái nhà, và thúc cả dân tộc giữ lấy cái gốc làng quê và ruộng đồng làm chỗ neo của mình.
+Sống nơi người tảo tần bên ruộng và giữ nếp nhà giữa làng. Nó được nuôi bằng [Tết](process_tet.md), khi con cháu khắp nơi trở về sum họp dưới mái nhà, và thúc cả dân tộc giữ lấy cái gốc làng quê và ruộng đồng làm chỗ neo của mình.

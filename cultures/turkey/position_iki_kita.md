@@ -34,4 +34,4 @@ Köprü bir bölünmeye döndüğünde zemin kaybeder: ne Avrupa'nın tam içine
 
 ## Drives
 
-[Fatih](persona_fatih.md) Sultan Mehmet'te yaşar; o iki kıta üstündeki şehri alıp imparatorluğun başkenti yapmıştır. Bir de [Can](persona_can.md)'da yaşar; o Almanya diasporasıyla Türkiye arasında, modern İstanbul ile gelenekli Anadolu arasında, köprünün üstünde hiçbir kıyıya tam ait olamaz. Türkiye'yi köprü olmayı bir yarılma değil bir güç saymaya iter.
+İki kıta üstündeki şehri alıp imparatorluğa başkent yapan fetihte yaşar. Bir de diaspora neslinde yaşar; o Almanya diasporasıyla Türkiye arasında, modern İstanbul ile gelenekli Anadolu arasında, köprünün üstünde hiçbir kıyıya tam ait olamaz. Türkiye'yi köprü olmayı bir yarılma değil bir güç saymaya iter.

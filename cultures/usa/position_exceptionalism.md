@@ -34,4 +34,4 @@ Ground when the sense of mission curdles into the conviction that the nation can
 
 ## Drives
 
-Lives in [Abraham Lincoln](persona_lincoln.md), who called the union "the last best hope of earth" and asked whether a nation so conceived could endure, and in [Maya](persona_maya.md), the newcomer drawn from across the world by the promise of the shining city. It drives the United States to see itself as a nation with an errand, and to be judged - by the world and by itself - against the full height of its own claim.
+Lives in the presidency that called the union "the last best hope of earth" and asked whether a nation so conceived could endure, and in every newcomer drawn from across the world by the promise of the shining city. It drives the United States to see itself as a nation with an errand, and to be judged - by the world and by itself - against the full height of its own claim.

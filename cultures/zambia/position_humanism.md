@@ -34,4 +34,4 @@ Ground when the soft way becomes the slack way, the patience that will not confr
 
 ## Drives
 
-Lives in [Rikki Ililonga](persona_rikki.md), who carried the warmth and the ache of ordinary Zambian life into the new music of the towns, and in [Bamaayo](persona_bamaayo.md), who keeps the creed alive at the cooking fire by feeding whoever comes. It drives Zambia toward gentleness and the shared plate, the conviction that a country is built first of all out of how it treats the human being in front of it.
+Lives in the music that carried the warmth and the ache of ordinary Zambian life into the towns, and in the cooking fire kept by whoever feeds anyone who comes. It drives Zambia toward gentleness and the shared plate, the conviction that a country is built first of all out of how it treats the human being in front of it.

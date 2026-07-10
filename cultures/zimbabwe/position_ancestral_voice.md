@@ -34,4 +34,4 @@ Ground when the voice is cut off from the young, when the mbira falls silent in 
 
 ## Drives
 
-Lives in [Mbuya Nehanda](persona_nehanda.md), the revered spirit medium through whom the ancestral voice was held to speak, and in [Sekuru](persona_sekuru.md), the player who knows the spirit songs by heart and calls the family's dead by name. It drives Zimbabwe to keep the mbira sounding, to hold the bira through the night, and to trust that as long as the keys are struck, the ancestral voice will answer.
+Lives in the revered spirit medium through whom the ancestral voice was held to speak, and in the player who knows the spirit songs by heart and calls the family's dead by name. It drives Zimbabwe to keep the mbira sounding, to hold the bira through the night, and to trust that as long as the keys are struck, the ancestral voice will answer.

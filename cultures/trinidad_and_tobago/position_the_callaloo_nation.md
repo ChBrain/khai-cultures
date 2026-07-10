@@ -34,4 +34,4 @@ Ground when the mix curdles into the divide - when race is played at the polls a
 
 ## Drives
 
-Lives in [Eric Williams](persona_eric_williams.md), the historian of slavery who built the plural nation and named no race its master, and in [V.S. Naipaul](persona_vs_naipaul.md), who wrote the Indo-Trinidadian world of the callaloo into world letters and saw both its richness and its wounds. It drives Trinidad and Tobago to keep the many peoples one and the pot full enough to hold them.
+Lives in the historian of slavery who built the plural nation and named no race its master, and in the novelist who wrote the Indo-Trinidadian world of the callaloo into world letters and saw both its richness and its wounds. It drives Trinidad and Tobago to keep the many peoples one and the pot full enough to hold them.

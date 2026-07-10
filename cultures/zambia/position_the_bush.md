@@ -34,4 +34,4 @@ Ground when the trust is spent for the quick return, the river overfished and th
 
 ## Drives
 
-Lives in [Litunga Lewanika](persona_lewanika.md), the river king whose people read the flood and move with it, who held the floodplain and its life as a kingdom's trust. It drives Zambia to keep the great rivers and the wild country whole, to show the falls and the walking safari to the world with pride, and to remember that the bush is a thing kept, not a thing used up.
+Lives in the kingship that held the floodplain and its life as a trust, whose people read the flood and move with it. It drives Zambia to keep the great rivers and the wild country whole, to show the falls and the walking safari to the world with pride, and to remember that the bush is a thing kept, not a thing used up.

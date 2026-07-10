@@ -34,4 +34,4 @@ Ground when the stone is left to the grass and the lichen, its keeping neglected
 
 ## Drives
 
-Lives in [Nicholas Mukomberanwa](persona_mukomberanwa.md), who took the country's name in stone back into the world through his hands, and stands behind [the Zimbabwe Bird](piece_zimbabwe_bird.md) lifted from the city's walls onto the nation's flag. It drives Zimbabwe to carry the builders' name with pride and the builders' charge with care, restanding its inheritance the way the granite was first laid, to hold.
+Lives in the sculptor's hands that took the country's name in stone back into the world, and stands behind [the Zimbabwe Bird](piece_zimbabwe_bird.md) lifted from the city's walls onto the nation's flag. It drives Zimbabwe to carry the builders' name with pride and the builders' charge with care, restanding its inheritance the way the granite was first laid, to hold.

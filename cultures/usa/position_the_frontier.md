@@ -34,4 +34,4 @@ Ground when self-reliance hardens into a refusal to see what the country owes an
 
 ## Drives
 
-Lives in [Hank](persona_hank.md), the heartland man who needs no one, holds his own ground, and meets the world on his own terms. It drives the United States toward the open road and the second chance, the faith that no fence is final and no one is born your better, the restless individualism that is the country's glory and its loneliness both - go West, start over, give it a shot.
+Lives in the heartland figure who needs no one, holds their own ground, and meets the world on their own terms. It drives the United States toward the open road and the second chance, the faith that no fence is final and no one is born your better, the restless individualism that is the country's glory and its loneliness both - go West, start over, give it a shot.

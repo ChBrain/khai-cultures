@@ -34,4 +34,4 @@ Its balance when excessive commercial tourism overcrowding degrades fragile wild
 
 ## Drives
 
-Guides the park protection in the plot [Zion National Park Expansion 1919](plot_03_zion_park.md) and drives the database development of [Joseph](persona_joseph.md).
+Guides the park protection in the plot [Zion National Park Expansion 1919](plot_03_zion_park.md) and drives the ranger's development of the trail and species database.

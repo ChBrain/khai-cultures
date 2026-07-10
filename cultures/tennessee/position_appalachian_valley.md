@@ -34,4 +34,4 @@ Its balance when federal energy planning overrides local land rights, flooding h
 
 ## Drives
 
-Encourages the river management in the plot [The Tennessee Valley Authority Act 1933](plot_02_tva_act.md) and drives the park ranger operations of [Mae](persona_mae.md).
+Encourages the river management in the plot [The Tennessee Valley Authority Act 1933](plot_02_tva_act.md) and drives park ranger operations across the valley.

@@ -34,4 +34,4 @@ Ground when the art is sold off its roots - the mas turned to bikini-and-beads f
 
 ## Drives
 
-Lives in the [Mighty Sparrow](persona_mighty_sparrow.md), the king of calypso who put the nation's whole life into kaiso, and in [the panman](persona_the_panman.md), who beats and tunes the steelpan and carries the yards' invention to the world. It drives Trinidad and Tobago to keep turning trouble into tune and the road into the greatest fete in the hemisphere.
+Lives in the king of calypso, who put the nation's whole life into kaiso, and in the panman, who beats and tunes the steelpan and carries the yards' invention to the world. It drives Trinidad and Tobago to keep turning trouble into tune and the road into the greatest fete in the hemisphere.

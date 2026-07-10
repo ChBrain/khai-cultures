@@ -34,4 +34,4 @@ An Können, wo das Laienhafte den Fachmann verdrängt und die Last auf zu wenige
 
 ## Drives
 
-Er wurzelt in [Tell](persona_tell.md), dem bewaffneten freien Bauern, und lebt im Bürger, der bis heute Wehrdienst und Gemeindeamt als selbstverständliche Pflicht nimmt.
+Er wurzelt im bewaffneten freien Bauern der Gründungssage, und lebt im Bürger, der bis heute Wehrdienst und Gemeindeamt als selbstverständliche Pflicht nimmt.

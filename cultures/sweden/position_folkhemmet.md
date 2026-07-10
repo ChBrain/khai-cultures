@@ -34,4 +34,4 @@ Mark där hemmet blir en form alla måste passa in i, så att omsorgen tippar ö
 
 ## Drives
 
-Det grundas i [Folkhemmet 1928](plot_02_folkhemmet_1928.md), bärs ut i världen av [Raoul Wallenberg](persona_wallenberg.md) och vilar på samma måttfullhet som [lagom](position_lagom.md).
+Det grundas i [Folkhemmet 1928](plot_02_folkhemmet_1928.md), bärs ut i världen genom humanitärt diplomatiskt arbete som räddade tusentals liv, och vilar på samma måttfullhet som [lagom](position_lagom.md).

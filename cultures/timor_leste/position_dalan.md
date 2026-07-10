@@ -34,4 +34,4 @@ Rai bainhira memoria sai odi ka fila ba malu; no rai bainhira foin-sa'e ne'ebe l
 
 ## Drives
 
-Moris iha [Xanana Gusmao](persona_xanana.md), ne'ebe lori povu nia esperansa iha tempu todan no sai prezidente dahuluk, no iha [Jose Ramos-Horta](persona_ramos_horta.md), ne'ebe lori povu nia lia ba mundu li'ur no buka dame. Nia book Timor-Leste atu lori nia istoria todan ho honra no atu harii dame husi ne'e.
+Moris iha lideransa ne'ebe lori povu nia esperansa iha tempu todan no sai prezidente dahuluk, no iha diplomasia ne'ebe lori povu nia lia ba mundu li'ur no buka dame. Nia book Timor-Leste atu lori nia istoria todan ho honra no atu harii dame husi ne'e.

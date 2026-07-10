@@ -34,4 +34,4 @@ Its credibility when grid failures or infrastructure crises require federal assi
 
 ## Drives
 
-Determines the political rhetoric in the plot [The Texas Revolution 1836](plot_01_alamo_1836.md) and drives the independent software work of [Elena](persona_elena.md).
+Determines the political rhetoric in the plot [The Texas Revolution 1836](plot_01_alamo_1836.md) and drives independent entrepreneurial software work across the state.

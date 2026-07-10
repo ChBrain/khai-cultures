@@ -34,4 +34,4 @@ Its balance when lack of regulation results in unchecked pollution, environmenta
 
 ## Drives
 
-Encourages the speculative ventures in the plot [The Spindletop Oil Boom 1901](plot_02_spindletop_1901.md) and guides the ranching operations of [Carter](persona_carter.md).
+Encourages the speculative ventures in the plot [The Spindletop Oil Boom 1901](plot_02_spindletop_1901.md) and guides ranching operations across the frontier.

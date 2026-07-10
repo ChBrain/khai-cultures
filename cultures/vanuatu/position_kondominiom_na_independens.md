@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Long taem we ol aelan ya oli singaot Niu Hebridis, Britain mo Franis tufala i rul wantaem long wan fasin we i no gat narafala ples i gat: wan Kondominiom we i gat tufala loa, tufala polis, tufala skul, tufala doea, mo tufala mane. Ol man oli singaot hem "Pandemonium," from wan man i save jusum tufala loa be hem i no save votem wan blong tufala. Long en blong rul ya, ol man blong ples oli girap blong askem kantri blong olgeta wan, mo long 1980 Vanuatu i kam wan fri nasen andanit long Fata Walter Lini. Be long taem we kantri i kasem independens, Santo i traem brokaot long Kokonas Woa, mo niufala nasen i mas faetem blong stap wan.
+Long taem we ol aelan ya oli singaot Niu Hebridis, Britain mo Franis tufala i rul wantaem long wan fasin we i no gat narafala ples i gat: wan Kondominiom we i gat tufala loa, tufala polis, tufala skul, tufala doea, mo tufala mane. Ol man oli singaot hem "Pandemonium," from wan man i save jusum tufala loa be hem i no save votem wan blong tufala. Long en blong rul ya, ol man blong ples oli girap blong askem kantri blong olgeta wan, mo long 1980 Vanuatu i kam wan fri nasen andanit long lidasip blong wan pris blong Anglikan jos. Be long taem we kantri i kasem independens, Santo i traem brokaot long Kokonas Woa, mo niufala nasen i mas faetem blong stap wan.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Graon taem kantri i brok long tufala saed, Inglis saed mo Franis saed, olsem Kon
 
 ## Drives
 
-Hem i stap long [Walter Lini](persona_lini.md), pris blong Anglikan jos we i lidim kantri long independens mo we ol man oli singaot Fata blong Neson, mo long [Grace Mera Molisa](persona_molisa.md), poet mo faswan woman blong faet blong rod blong ol woman long niufala nasen. Hem i pulum Vanuatu blong stap wan fri nasen we i joen long Bislama, agensem evri samting we i traem brokem hem long tu.
+Hem i stap long lidasip blong pris blong Anglikan jos we i lidim kantri long independens mo we ol man oli singaot Fata blong Neson, mo long raetem blong poet mo faswan woman blong faet blong rod blong ol woman long niufala nasen. Hem i pulum Vanuatu blong stap wan fri nasen we i joen long Bislama, agensem evri samting we i traem brokem hem long tu.

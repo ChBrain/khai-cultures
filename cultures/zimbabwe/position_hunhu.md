@@ -34,4 +34,4 @@ Ground when the duty to the many is twisted into a burden no one can bear, or wh
 
 ## Drives
 
-Lives in [Oliver Mtukudzi](persona_mtukudzi.md), whose songs sang the conscience and the consolation of the whole community, and in [Yvonne Vera](persona_vera.md), who wrote the inner lives of women into the nation's literature and held the community to its own care. It drives Zimbabwe to hold Shona and Ndebele and all its peoples as one company under one name, and to keep, against every pull to stand apart, the faith that a person is a person through other people.
+Lives in the songs that sang the conscience and the consolation of the whole community, and in the literature that wrote the inner lives of women into the nation's letters and held the community to its own care. It drives Zimbabwe to hold Shona and Ndebele and all its peoples as one company under one name, and to keep, against every pull to stand apart, the faith that a person is a person through other people.

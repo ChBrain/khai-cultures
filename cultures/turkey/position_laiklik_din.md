@@ -34,4 +34,4 @@ Fay hattı bir uçuruma döndüğünde zemin kaybeder: laik şehirle dindar Anad
 
 ## Drives
 
-[Atatürk](persona_ataturk.md)'te yaşar; o laik cumhuriyeti kuran kişidir. Bir de [Yunus Emre](persona_yunus_emre.md)'de yaşar; o halka sade Türkçeyle insanca bir iman vermiştir. Türkiye'yi laik cumhuriyetle dindar yüreğini iki düşman kamp değil, tek bir ulus hâline getirmeye iter.
+Cumhuriyeti kuran iradede yaşar; o laik cumhuriyeti kurmuştur. Bir de tasavvuf şiirinde yaşar; o halka sade Türkçeyle insanca bir iman vermiştir. Türkiye'yi laik cumhuriyetle dindar yüreğini iki düşman kamp değil, tek bir ulus hâline getirmeye iter.

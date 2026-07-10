@@ -34,4 +34,4 @@ An Geltung, wenn die Konkurrenz durch asiatische Massenhersteller thüringische 
 
 ## Drives
 
-Lenkt die Forschungsarbeit von Ingenieurin [Maria](persona_maria.md) und treibt die Entwicklung im Plot [Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md) voran.
+Lenkt die Forschungsarbeit der Optikingenieure und treibt die Entwicklung im Plot [Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md) voran.

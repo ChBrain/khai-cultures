@@ -34,4 +34,4 @@ E galo te malosi kafai e seai se tino e fakalogo ki te leo o te fenua foliki, ka
 
 ## Drives
 
-E ola i [Enele Sopoaga](persona_enele_sopoaga.md), ko te Palemia ne fakaleo te peau e maluga aka ki nga fono o te lalolagi, kae i [Simon Kofe](persona_simon_kofe.md), ko te minisita ne folafola te fenua fakatekinolosi. E fakamalosi ei a Tuvalu ke tu aka ki te lalolagi katoa, kae tausi tona tu fakamalo e pelaa me ka galo te laukele.
+E ola i te Palemia ne fakaleo te peau e maluga aka ki nga fono o te lalolagi, kae i te minisita ne folafola te fenua fakatekinolosi. E fakamalosi ei a Tuvalu ke tu aka ki te lalolagi katoa, kae tausi tona tu fakamalo e pelaa me ka galo te laukele.

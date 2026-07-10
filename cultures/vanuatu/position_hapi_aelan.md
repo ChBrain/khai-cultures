@@ -34,4 +34,4 @@ Graon taem yangfala oli muv long taon mo oli ron bihaen mane mo oli lego komunit
 
 ## Drives
 
-Hem i stap long [Man Naghol](persona_man_naghol.md), man blong Pentecost we i jam daon long taoa wetem fulap fasdom mo we i soem se laef mo kastom oli moa bitim fraet. Hem i pulum Vanuatu long komuniti mo kwaet tingting, mo long strong tingting se laef we yu liv blong ol man raonabaot yu i moa gud bitim eni mane no pawa, nating se solwota i girap long fored laen.
+Hem i stap long naghol blong Pentecost, we man i jam daon long taoa wetem fulap fasdom mo we i soem se laef mo kastom oli moa bitim fraet. Hem i pulum Vanuatu long komuniti mo kwaet tingting, mo long strong tingting se laef we yu liv blong ol man raonabaot yu i moa gud bitim eni mane no pawa, nating se solwota i girap long fored laen.

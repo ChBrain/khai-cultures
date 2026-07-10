@@ -34,4 +34,4 @@ Ground, where the centre is felt to ignore the nations it governs, and the sover
 
 ## Drives
 
-It is carried by [Winston Churchill](persona_churchill.md), who held it through the war, and it traces its root to [Magna Carta 1215](plot_01_magna_carta_1215.md), where the crown was first bound beneath the law.
+It is carried by the wartime leadership that held it through the war, and it traces its root to [Magna Carta 1215](plot_01_magna_carta_1215.md), where the crown was first bound beneath the law.

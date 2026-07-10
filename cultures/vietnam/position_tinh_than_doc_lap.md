@@ -34,4 +34,4 @@ Mất chỗ đứng khi lòng tự hào hóa thành kiêu căng hay khép kín, 
 
 ## Drives
 
-Sống trong [Hai Bà Trưng](persona_hai_ba_trung.md), những người phất cờ khởi nghĩa buổi đầu và để lại tấm gương đứng dậy, và trong [Nguyễn Trãi](persona_nguyen_trai.md), người viết áng văn khẳng định nước Việt có nền văn hiến và bờ cõi riêng. Nó thúc dân tộc giữ lấy mình qua mọi đổi thay và đo mình bằng việc còn được là chính mình.
+Sống trong ngọn cờ khởi nghĩa buổi đầu, tấm gương đứng dậy để lại cho muôn đời sau, và trong áng văn khẳng định nước Việt có nền văn hiến và bờ cõi riêng. Nó thúc dân tộc giữ lấy mình qua mọi đổi thay và đo mình bằng việc còn được là chính mình.

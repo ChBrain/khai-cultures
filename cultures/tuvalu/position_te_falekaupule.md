@@ -34,4 +34,4 @@ E galo te malosi kafai e mavae te tino mai te kaufakatasi, kafai e folau atu te 
 
 ## Drives
 
-E ola i [Toaripi Lauti](persona_toaripi_lauti.md), ko te Palemia muamua ne tausi te kaufakatasi o te fenua i te taimi o te tutoatasi, kae i [te toeaina](persona_te_toeaina.md), ko te tino e tausi te aganuu mo te loto e tasi i te falekaupule. E fakamalosi ei a Tuvalu ke tausi tona loto e tasi mo tona fono e malie ei te kau katoa.
+E ola i te Palemia muamua ne tausi te kaufakatasi o te fenua i te taimi o te tutoatasi, kae i te toeaina, ko te tino e tausi te aganuu mo te loto e tasi i te falekaupule. E fakamalosi ei a Tuvalu ke tausi tona loto e tasi mo tona fono e malie ei te kau katoa.
