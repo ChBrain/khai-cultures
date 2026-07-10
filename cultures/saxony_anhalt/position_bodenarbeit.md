@@ -34,4 +34,4 @@ An Kraft, wenn großflächige Flächenversiegelung den fruchtbaren Boden vernich
 
 ## Drives
 
-Treibt die Modernisierung der ländlichen Räume im Plot [Die Errichtung des Landes 1990](plot_03_reunification_1990.md) voran und leitet das Handeln von Ingenieurin [Elisabeth](persona_elisabeth.md).
+Treibt die Modernisierung der ländlichen Räume im Plot [Die Errichtung des Landes 1990](plot_03_reunification_1990.md) voran und leitet das Handeln der Ingenieurin.

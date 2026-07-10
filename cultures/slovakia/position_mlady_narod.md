@@ -34,4 +34,4 @@ Pôdu stráca, keď sa zo skromnosti stane malosť: oneskorené sebavedomie, čo
 
 ## Drives
 
-Žije v [Jánošíkovi](persona_janosik.md), v ktorom sa malý ľud aspoň v legende vzoprel pánom, a v [Dubčekovi](persona_dubcek.md), Slovákovi, ktorý sa na veľkej scéne pokúsil o vlastnú cestu. Ženie Slovensko, aby z mladého a dlho ovládaného národa dorástlo v štát, čo je pánom sám nad sebou.
+Žije v legende o zbojníkovi, v ktorej sa malý ľud aspoň v rozprávaní vzoprel pánom, a v reformátorovi, ktorý sa na veľkej svetovej scéne pokúsil o vlastnú cestu. Ženie Slovensko, aby z mladého a dlho ovládaného národa dorástlo v štát, čo je pánom sám nad sebou.

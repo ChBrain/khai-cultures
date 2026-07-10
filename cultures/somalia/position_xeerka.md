@@ -34,4 +34,4 @@ Wuxuu lumiyaa goorta qaraabannimadu noqoto kala-qaybin halkii is-ilaalin, ama go
 
 ## Drives
 
-Wuxuu ku nool yahay [geeljiraha gabayaa ah](persona_geeljire.md), oo reerkiisa, xeerkiisa iyo abtirsiintiisa yaqaan, oo gabaygiisa ku xambaaray xikmaddii aabbayaal. Wuxuu Soomaaliya u kacshaa in ay nabadda iyo cadaaladda ku dejiso hadal iyo heshiis, in qaraabadu tahay magangal, oo eraygu yahay sharciga aan la qorin.
+Wuxuu ku nool yahay geeljiraha gabayaa ah, oo reerkiisa, xeerkiisa iyo abtirsiintiisa yaqaan, oo gabaygiisa ku xambaaray xikmaddii aabbayaal. Wuxuu Soomaaliya u kacshaa in ay nabadda iyo cadaaladda ku dejiso hadal iyo heshiis, in qaraabadu tahay magangal, oo eraygu yahay sharciga aan la qorin.

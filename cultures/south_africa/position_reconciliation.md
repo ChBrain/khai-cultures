@@ -34,4 +34,4 @@ Ground when the forgiving is asked of some and the changing of none, so the word
 
 ## Drives
 
-Lives in [Nelson Mandela](persona_mandela.md), who walked free after twenty-seven years and chose to build with the very people who had locked him up, and in [Desmond Tutu](persona_tutu.md), who led the country in telling its truth and named it the Rainbow Nation. It drives South Africa to overcome its hardest era by forgiving rather than fighting, and to keep the choosing of one home a living thing.
+Lives in the leader who walked free after twenty-seven years and chose to build with the very people who had locked him up, and in the cleric who led the country in telling its truth and named it the Rainbow Nation. It drives South Africa to overcome its hardest era by forgiving rather than fighting, and to keep the choosing of one home a living thing.

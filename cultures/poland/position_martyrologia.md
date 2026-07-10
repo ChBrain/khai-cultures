@@ -34,4 +34,4 @@ Grunt traci, gdy kult ofiary staje się smakowaniem własnej krzywdy i wymówką
 
 ## Drives
 
-Żyje w [Mickiewiczu](persona_mickiewicz.md), wieszczu narodu cierpiącego, i w [Wałęsie](persona_walesa.md), który raz jeszcze poderwał naród przeciw potędze. Pcha Polskę do bohaterskiego zrywu i do ofiary, i każe jej widzieć w cierpieniu sens, a w przetrwaniu zwycięstwo.
+Żyje w wieszczu narodu cierpiącego, i w przywódcy robotników, który raz jeszcze poderwał naród przeciw potędze. Pcha Polskę do bohaterskiego zrywu i do ofiary, i każe jej widzieć w cierpieniu sens, a w przetrwaniu zwycięstwo.

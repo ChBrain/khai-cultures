@@ -34,4 +34,4 @@ Ground where loyalty narrows into feud and the chief's word becomes tyranny, and
 
 ## Drives
 
-It is carried by [Màiri](persona_mairi.md), who keeps its memory and its Gaelic alive, and it stood at the back of [Robert the Bruce](persona_bruce.md) in the spear-rings of [Bannockburn 1314](plot_01_bannockburn_1314.md).
+It is carried by the keeper who holds its memory and its Gaelic alive, and it stood at the back of the king in the spear-rings of [Bannockburn 1314](plot_01_bannockburn_1314.md).

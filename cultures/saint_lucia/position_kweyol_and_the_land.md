@@ -34,4 +34,4 @@ Ground when Kweyol is taken for broken French and a mark of the backward, school
 
 ## Drives
 
-Lives in [Harold Simmons](persona_harold_simmons.md), the painter and folklorist who gather up the Kweyol heritage others were taught to throw away and give it back to the island as worth, and in [the banana grower](persona_the_banana_grower.md), who work the green-gold valleys and carry the Creole tongue of the land. It drive Saint Lucia to love its Creole heart and the soil and the people who feed it.
+Lives in the painter and folklorist who gather up the Kweyol heritage others were taught to throw away and give it back to the island as worth, and in the banana grower, who work the green-gold valleys and carry the Creole tongue of the land. It drive Saint Lucia to love its Creole heart and the soil and the people who feed it.

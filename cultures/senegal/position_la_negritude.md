@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La fierté noire faite pensée et faite politique: ce mouvement né dans les années trente sous la plume de Senghor et de ses amis, qui a relevé la tête de l'homme noir et affirmé la valeur propre de sa civilisation, sa sensibilité, son rythme, sa parole. Mais au Sénégal la négritude n'a jamais été le poing fermé; elle s'est dite, par Senghor, comme le rendez-vous du donner et du recevoir, l'apport noir à une civilisation de l'universel. C'est l'idée qu'on peut être pleinement soi sans être contre l'autre, qu'on peut prendre la langue et le savoir venus de la mer sans cesser d'être enfant de la terre, et que la dignité retrouvée se prouve mieux par la création que par la rancune.
+La fierté noire faite pensée et faite politique: ce mouvement né dans les années trente sous la plume du poète-président et de ses amis, qui a relevé la tête de l'homme noir et affirmé la valeur propre de sa civilisation, sa sensibilité, son rythme, sa parole. Mais au Sénégal la négritude n'a jamais été le poing fermé; elle s'est dite, par lui, comme le rendez-vous du donner et du recevoir, l'apport noir à une civilisation de l'universel. C'est l'idée qu'on peut être pleinement soi sans être contre l'autre, qu'on peut prendre la langue et le savoir venus de la mer sans cesser d'être enfant de la terre, et que la dignité retrouvée se prouve mieux par la création que par la rancune.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Du terrain quand le verbe élégant tient lieu de réponse au ventre vide, quand
 
 ## Drives
 
-Vit dans [Léopold Sédar Senghor](persona_senghor.md), qui en a fait une politique du dialogue, et dans [Mariama Bâ](persona_mariama_ba.md), qui en a élargi la voix jusqu'à la dignité des femmes du pays. Elle pousse le Sénégal à se penser ouvert et fier à la fois, à prendre sans se perdre, et à faire de la culture, plus que de la force, son arme et son honneur.
+Vit dans le poète-président, qui en a fait une politique du dialogue, et dans la romancière, qui en a élargi la voix jusqu'à la dignité des femmes du pays. Elle pousse le Sénégal à se penser ouvert et fier à la fois, à prendre sans se perdre, et à faire de la culture, plus que de la force, son arme et son honneur.

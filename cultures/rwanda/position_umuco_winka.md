@@ -34,4 +34,4 @@ Imbaraga iyo inka ihinduka ubukungu gusa, igapimwa mu mafaranga aho kuba impano 
 
 ## Drives
 
-Ibaho muri [Sekarama](persona_sekarama.md), umusizi wa cyami wavugaga ibisigo by'inka ku rukiko, no muri [Kigeli IV Rwabugiri](persona_rwabugiri.md), umwami wakomeje umuco w'inka ku rwego rwo hejuru. Bituma u Rwanda rukomeza kubona inka nk'ishingiro ry'ubwiza, ubupfura, n'umubano.
+Ibaho mu musizi wa cyami wavugaga ibisigo by'inka ku rukiko, no mu mwami wakomeje umuco w'inka ku rwego rwo hejuru. Bituma u Rwanda rukomeza kubona inka nk'ishingiro ry'ubwiza, ubupfura, n'umubano.

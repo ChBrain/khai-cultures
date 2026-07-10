@@ -34,4 +34,4 @@ An Legitimität, wenn radikale Kräfte den Bürgerprotest instrumentalisieren od
 
 ## Drives
 
-Wird dokumentiert durch [der Leipziger Aufruf](piece_friedliche_revolution_manifest.md) und lenkt das Handeln von Porzellanmaler [Günter](persona_guenter.md) im Plot [Die Friedliche Revolution in Leipzig 1989](plot_03_peaceful_revolution_1989.md).
+Wird dokumentiert durch [der Leipziger Aufruf](piece_friedliche_revolution_manifest.md) und lenkt das Handeln des Porzellanmalers im Plot [Die Friedliche Revolution in Leipzig 1989](plot_03_peaceful_revolution_1989.md).

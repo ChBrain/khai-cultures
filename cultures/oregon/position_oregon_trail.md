@@ -34,4 +34,4 @@ Its balance when pioneer self-reliance leads to suspicion of necessary state-wid
 
 ## Drives
 
-Guides the agricultural settlement in the plot [The Oregon Trail Migration 1843](plot_01_oregon_trail.md) and drives the vineyard management of [Thomas](persona_thomas.md).
+Guides the agricultural settlement in the plot [The Oregon Trail Migration 1843](plot_01_oregon_trail.md) and drives the vineyard management carried on by the pioneer families' descendants, farming to the same patient, season-bound rhythm the trail demanded.

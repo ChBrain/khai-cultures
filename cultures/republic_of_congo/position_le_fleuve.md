@@ -34,4 +34,4 @@ Du terrain quand on oublie que le fleuve nourrit autant qu'il borne, et qu'on le
 
 ## Drives
 
-Vit dans [Tchicaya U Tam'si](persona_tchicaya.md), le poete dont le nom meme parle au nom de son pays et qui a fait du fleuve et de la terre sa matiere, et dans [Sony Labou Tansi](persona_sony_labou_tansi.md), l'ecrivain qui a donne au francais la crue et le debordement du fleuve. Il pousse la Republique du Congo a se tenir debout sur sa rive, a se savoir reliee a l'autre bord, et a faire de l'eau qui passe une parole qui reste.
+Vit dans le poete dont le nom meme parle au nom de son pays et qui a fait du fleuve et de la terre sa matiere, et dans l'ecrivain qui a donne au francais la crue et le debordement du fleuve. Il pousse la Republique du Congo a se tenir debout sur sa rive, a se savoir reliee a l'autre bord, et a faire de l'eau qui passe une parole qui reste.

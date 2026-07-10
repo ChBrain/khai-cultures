@@ -34,4 +34,4 @@ Ground when the federation forget that it is two: when St. Kitts talk as if it w
 
 ## Drives
 
-Lives in [Sir Robert Bradshaw](persona_robert_bradshaw.md), the labour leader and father of the nation who carry the islands toward independence, and in [Sir Simeon Daniel](persona_simeon_daniel.md), the first Premier of Nevis who hold the small sister's voice within the union. It drive Saint Kitts and Nevis to keep faith with its labour founding and to hold its two-island federation as one country above the claim of either isle.
+Lives in the labour leader and father of the nation who carry the islands toward independence, and in the first Premier of Nevis who hold the small sister's voice within the union. It drive Saint Kitts and Nevis to keep faith with its labour founding and to hold its two-island federation as one country above the claim of either isle.

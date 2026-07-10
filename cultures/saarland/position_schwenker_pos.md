@@ -34,4 +34,4 @@ An Bedeutung, wenn mangelnde Zeit die traditionelle Zubereitung verhindert oder 
 
 ## Drives
 
-Wird verkörpert durch das Symbol [der Schwenker-Grill](piece_schwenker_grill.md) und lenkt das soziale Handeln von Übersetzerin [Charlotte](persona_charlotte.md) im Plot [Die kleine Wiedervereinigung 1957](plot_02_integration_1957.md).
+Wird verkörpert durch das Symbol [der Schwenker-Grill](piece_schwenker_grill.md) und lenkt das soziale Handeln der Übersetzerinnen und Vermittler im Plot [Die kleine Wiedervereinigung 1957](plot_02_integration_1957.md).

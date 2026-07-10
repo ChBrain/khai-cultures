@@ -34,4 +34,4 @@ Forca quando a ilha se mede pela regua de fora e tem vergonha do que e seu - qua
 
 ## Drives
 
-Vive em [Caetano da Costa Alegre](persona_costa_alegre.md), o filho da ilha que disse em verso a cor da sua gente, em [Francisco Jose Tenreiro](persona_tenreiro.md), que cantou os santomenses e a sua roca como nacao, e em [Alda Espirito Santo](persona_alda.md), que deu ao povo o seu hino. Empurra Sao Tome e Principe a ser um so povo crioulo, dono de si, que carrega a sua mistura como riqueza e nao como falta.
+Vive no poeta filho da ilha que disse em verso a cor da sua gente, no poeta que cantou os santomenses e a sua roca como nacao, e na poetisa que deu ao povo o seu hino. Empurra Sao Tome e Principe a ser um so povo crioulo, dono de si, que carrega a sua mistura como riqueza e nao como falta.

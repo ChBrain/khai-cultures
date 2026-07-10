@@ -34,4 +34,4 @@ Ground when the old way and the new way are set against each other as enemies ra
 
 ## Drives
 
-Lives in [Bai Bureh](persona_bai_bureh.md), the warrior chief who stood for the law and the authority of the people of the land, and in [Auntie Yeama](persona_auntie.md), who carries the rites that raise the young and feed the family living and gone. It drives Sierra Leone to hold that a person is made by the people around them, that the elders are heard, and that the deep knowledge of the land is honoured alongside the learning of the coast.
+Lives in every warrior chief who stood for the law and the authority of the people of the land, and in every elder woman who carries the rites that raise the young and feed the family living and gone. It drives Sierra Leone to hold that a person is made by the people around them, that the elders are heard, and that the deep knowledge of the land is honoured alongside the learning of the coast.

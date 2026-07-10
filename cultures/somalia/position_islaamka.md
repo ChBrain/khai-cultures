@@ -34,4 +34,4 @@ Wuxuu lumiyaa goorta diinta lagu isticmaalo kala-qaybin halkii midnimo, ama goor
 
 ## Drives
 
-Wuxuu ku nool yahay [Maryam Mursal](persona_maryam.md), oo codkeeda iyo heesteeda ay ka muuqato diin iyo dhaqan isku dhafan, iyo dadka Soomaaliyeed oo dhan ee diinta xididka u haysta. Wuxuu Soomaaliya u kacshaa in ay samir, deeqsinimo iyo midnimo ku dhaqanto, oo ay Eebbe iyo akhirada hor dhigto wax kasta.
+Wuxuu ku nool yahay codadka iyo heesaha muusikada Soomaaliyeed oo ka muuqato diin iyo dhaqan isku dhafan, iyo dadka Soomaaliyeed oo dhan ee diinta xididka u haysta. Wuxuu Soomaaliya u kacshaa in ay samir, deeqsinimo iyo midnimo ku dhaqanto, oo ay Eebbe iyo akhirada hor dhigto wax kasta.

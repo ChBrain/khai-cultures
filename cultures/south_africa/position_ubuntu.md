@@ -34,4 +34,4 @@ Ground when the circle of who counts as one of us is drawn too small, when belon
 
 ## Drives
 
-Lives in [the Gogo](persona_gogo.md), who holds the family and the clan together and feeds whoever comes to her door, the truth of ubuntu in one pair of hands. It drives South Africa to reckon that no one is whole alone, that the home is only a home if all of us have a place at it, and to keep mending what breaks between the peoples face to face, the way the old truth says it must be done.
+Lives in the gogo, the grandmother who holds the family and the clan together and feeds whoever comes to her door, the truth of ubuntu in one pair of hands. It drives South Africa to reckon that no one is whole alone, that the home is only a home if all of us have a place at it, and to keep mending what breaks between the peoples face to face, the way the old truth says it must be done.

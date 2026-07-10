@@ -34,4 +34,4 @@ Tla izgublja, kadar se zatajitev juga sprevrže v vzvišenost: ko se narod tako 
 
 ## Drives
 
-Živi v [Luki](persona_luka.md), ki smuča in pleza na Triglav, študira in dela čez avstrijsko in italijansko mejo in je doma v Uniji ter obrnjen na zahod. Žene Slovenijo, da ostane alpska in srednjeevropska, da gleda na sever in zahod, a ne pozabi slovanske reči pod tem.
+Živi v vsakomur, ki smuča in pleza na Triglav, študira in dela čez avstrijsko in italijansko mejo ter je doma v Uniji in obrnjen na zahod. Žene Slovenijo, da ostane alpska in srednjeevropska, da gleda na sever in zahod, a ne pozabi slovanske reči pod tem.

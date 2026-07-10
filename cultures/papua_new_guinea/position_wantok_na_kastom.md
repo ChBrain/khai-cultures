@@ -34,4 +34,4 @@ Em i lusim graun taim pasin bilong wantok i kamap strong tumas, inap long wanpel
 
 ## Drives
 
-Em i stap insait long [the big-man](persona_bikman.md), em i kisim nem long givim bikpela kaikai na long toktok strong long ai bilong ol manmeri, na long [the Sepik carver](persona_sepik_kava.md), em i holim pasin bilong tumbuna long katim ol piksa long haus tambaran. Em i kirapim Papua Niugini long holim wantok na kastom strong, taim ol nupela samting i laik senisim olgeta.
+Em i stap insait long the big-man, em i kisim nem long givim bikpela kaikai na long toktok strong long ai bilong ol manmeri, na long the Sepik carver, em i holim pasin bilong tumbuna long katim ol piksa long haus tambaran. Em i kirapim Papua Niugini long holim wantok na kastom strong, taim ol nupela samting i laik senisim olgeta.

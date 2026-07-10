@@ -34,4 +34,4 @@ Pierde teren când mândria romană se face complex și fudulie: o latinitate vi
 
 ## Drives
 
-Trăiește în [Brâncuși](persona_brancusi.md), feciorul de cioban care a cucerit Parisul latin fără să-și taie rădăcina din Gorj, și în [Mihai Viteazul](persona_mihai_viteazul.md), care a unit pentru o clipă pământurile pe care limba latină le făcea o singură națiune. Mână România să-și caute locul printre frații latini din Apus și să se vadă pe sine ca o singură națiune romană.
+Trăiește în feciorul de cioban care a cucerit Parisul latin fără să-și taie rădăcina din Gorj, și în domnitorul care a unit pentru o clipă pământurile pe care limba latină le făcea o singură națiune. Mână România să-și caute locul printre frații latini din Apus și să se vadă pe sine ca o singură națiune romană.

@@ -34,4 +34,4 @@ Ground when the colours start to pull apart again, when one people's gain is rea
 
 ## Drives
 
-Lives in [Miriam Makeba](persona_makeba.md), who carried the country's many-voiced song to the whole world, and in [Hugh Masekela](persona_masekela.md), whose horn mixed the townships and the world into one sound. It drives South Africa to hold its many peoples in equal dignity, to celebrate the feast of its difference, and to keep the one bow of light from breaking back into separate colours.
+Lives in the singers who carried the country's many-voiced song to the whole world, and in the horn players whose music mixed the townships and the world into one sound. It drives South Africa to hold its many peoples in equal dignity, to celebrate the feast of its difference, and to keep the one bow of light from breaking back into separate colours.

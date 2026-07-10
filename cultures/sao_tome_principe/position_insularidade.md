@@ -34,4 +34,4 @@ Forca quando o leve-leve, que e sabedoria de quem espera, vira deixa andar de qu
 
 ## Drives
 
-Vive em [Pedro Lima](persona_pedro_lima.md), a voz que cantou o povo da ilha no seu proprio ritmo e ficou nela ate ao fim. Empurra Sao Tome e Principe a viver no seu tempo e no seu regaco, a fazer da pequenez uniao, e a segurar os seus contra o mar que tanto os leva.
+Vive na voz que cantou o povo da ilha no seu proprio ritmo e ficou nela ate ao fim. Empurra Sao Tome e Principe a viver no seu tempo e no seu regaco, a fazer da pequenez uniao, e a segurar os seus contra o mar que tanto os leva.

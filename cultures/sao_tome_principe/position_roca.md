@@ -34,4 +34,4 @@ Forca quando a roca e contada so como riqueza perdida, esquecendo as maos que a 
 
 ## Drives
 
-Vive em [o roceiro](persona_roceiro.md), o trabalhador da plantacao em cuja lida se fez a riqueza e o povo das ilhas. Empurra Sao Tome e Principe a olhar de frente a plantacao que a moldou, a guardar com dignidade a memoria do trabalho que a ergueu, e a fazer da terra, enfim, casa dos seus.
+Vive no roceiro, o trabalhador da plantacao em cuja lida se fez a riqueza e o povo das ilhas. Empurra Sao Tome e Principe a olhar de frente a plantacao que a moldou, a guardar com dignidade a memoria do trabalho que a ergueu, e a fazer da terra, enfim, casa dos seus.
