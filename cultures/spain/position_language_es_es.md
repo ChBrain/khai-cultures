@@ -34,4 +34,4 @@ Pierde terreno ante las lenguas cooficiales que reclaman su espacio propio en Ca
 
 ## Drives
 
-Empuja a Espana a tener una sola lengua comun y a medir por ella lo que se dice bien. Se lo da a [Carmen](persona_carmen.md), mujer del sur que vive hacia los suyos, como la lengua materna en que le llega entero todo lo que le importa, y a [Miguel de Cervantes](persona_cervantes.md), que la llevo a su cumbre y le dio la mejor de las novelas; y en cada uno de ellos se ve quien habla esta lengua como casa y quien la elevo a literatura del mundo.
+Empuja a Espana a tener una sola lengua comun y a medir por ella lo que se dice bien. Es la lengua materna en la que lo intimo llega entero a quien vive hacia los suyos, y es tambien la que la gran novela llevo a su cumbre y ofrecio al mundo; en ella se separa quien la habita como casa de quien la eleva a literatura. Asi empuja al pais a reconocerse en una sola norma y a medir por ella lo bien dicho.
