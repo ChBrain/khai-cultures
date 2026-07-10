@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Staršia žena, stará mama z dediny pod horami, ktorá prežila komunizmus ako matka a teraz drží dom, záhradu a farnosť. Zbožná, pracovitá, skromná, nesie s pokorou, čo jej život vzal, a deti, čo odišli za prácou, čaká na sviatky. Slovenčinu má celú: [hovorí, počuje a myslí](process_speaking_mother_tongue.md) v materčine a modlitebnú knižku [číta](process_reading_mother_tongue.md) bez námahy. Tou materčinou je [slovenčina](position_language_sk.md), ktorú si udržala celú. Blízku češtinu spoločného štátu [sleduje a rozumie jej](process_reading_followed.md) ako svojej, hoci ňou sama nehovorí, a povinnú ruštinu, vtĺkanú v škole za komunizmu, sotva [chytí zo sluchu](process_hearing_caught.md) a nechce si ju pamätať. Češtine rozumie ako svojej, a predsa nie je jej, a svoju reč i vieru si udržala, keď štát tlačil ruštinu.
+Staršia žena, stará mama z dediny pod horami, ktorá prežila komunizmus ako matka a teraz drží dom, záhradu a farnosť. Zbožná, pracovitá, skromná, nesie s pokorou, čo jej život vzal, a deti, čo odišli za prácou, čaká na sviatky. Slovenčinu má celú: [hovorí, počuje a myslí](process_speaking_mother_tongue.md) v materčine a modlitebnú knižku [číta](process_reading_mother_tongue.md) bez námahy. Tou materčinou je [slovenčina](position_language_sk.md), ktorú si udržala celú. Blízku [češtinu](../czechia/position_language_cs.md) spoločného štátu [sleduje a rozumie jej](process_reading_followed.md) ako svojej, hoci ňou sama nehovorí, a povinnú [ruštinu](../russia/position_language_ru.md), vtĺkanú v škole za komunizmu, sotva [chytí zo sluchu](process_hearing_caught.md) a nechce si ju pamätať. Češtine rozumie ako svojej, a predsa nie je jej, a svoju reč i vieru si udržala, keď štát tlačil ruštinu.
 
 ## Action
 

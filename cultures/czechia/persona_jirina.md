@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Starší žena, babička z menšího města, která jako dítě zažila okupaci a jako matka komunismus. Skeptická, praktická, suchého humoru, přečkala obě totality tím, že se starala o svoje a vrchnosti nevěřila ani slovo. Češtinu má celou: [mluví, slyší a myslí](process_speaking_mother_tongue.md) v mateřštině a oficiální noviny [luští mezi řádky](process_reading_deciphered.md), aby z propagandy vyčetla, jak se věci mají doopravdy. Tou mateřštinou je [český jazyk](position_language_cs.md), který si uhájila celý. Němčinu okupace, vnucenou v dětství, [snáší jako vnucenou](process_speaking_worn.md), povinnou ruštinu, vtloukanou ve škole celá léta závislosti, sotva [pochytí ze sluchu](process_hearing_caught.md) a nechce si ji pamatovat. Svou řeč si uhájila celou, dvě cizí mocnosti jí jen vnutily své.
+Starší žena, babička z menšího města, která jako dítě zažila okupaci a jako matka komunismus. Skeptická, praktická, suchého humoru, přečkala obě totality tím, že se starala o svoje a vrchnosti nevěřila ani slovo. Češtinu má celou: [mluví, slyší a myslí](process_speaking_mother_tongue.md) v mateřštině a oficiální noviny [luští mezi řádky](process_reading_deciphered.md), aby z propagandy vyčetla, jak se věci mají doopravdy. Tou mateřštinou je [český jazyk](position_language_cs.md), který si uhájila celý. [Němčinu](../germany/position_language_de_de.md) okupace, vnucenou v dětství, [snáší jako vnucenou](process_speaking_worn.md), povinnou [ruštinu](../russia/position_language_ru.md), vtloukanou ve škole celá léta závislosti, sotva [pochytí ze sluchu](process_hearing_caught.md) a nechce si ji pamatovat. Svou řeč si uhájila celou, dvě cizí mocnosti jí jen vnutily své.
 
 ## Action
 
