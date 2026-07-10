@@ -50,6 +50,7 @@ Bu yer ikki daryo orasidagi qadimiy vodiy, dunyoning eng ulug' savdo yo'li, Ipak
 - [ilm](position_ilm.md)
 - [iymon](position_iymon.md)
 - [mahalla](position_mahalla.md)
+- [o'zbek tili](position_language_uz.md)
 
 **Pieces**
 

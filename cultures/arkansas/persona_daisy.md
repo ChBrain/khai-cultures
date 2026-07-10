@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old civil rights archivist in Little Rock. English, spoken with a warm southern drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of corporate logistics planners like Roy and the digital demands of retail boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of school integration history is treated as secondary to corporate retail expansion and speedway logistics.
+A fifty-two-year-old civil rights archivist in Little Rock. [Arkansan English](position_language_en_us_ar.md), spoken with a warm southern drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of corporate logistics planners like Roy and the digital demands of retail boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of school integration history is treated as secondary to corporate retail expansion and speedway logistics.
 
 ## Action
 

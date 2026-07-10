@@ -46,6 +46,7 @@ A land of desert extremes and geological scale, defined by its water management 
 
 - [desert resilience](position_desert_resilience.md)
 - [southwest frontier](position_southwest_frontier.md)
+- [Arizonan English](position_language_en_us_az.md)
 
 **Pieces**
 

@@ -50,6 +50,7 @@ Một nền văn minh lâu đời sinh ra bên những dòng sông và lớn lê
 - [tinh thần độc lập](position_tinh_than_doc_lap.md)
 - [tam giáo và thờ cúng tổ tiên](position_tam_giao.md)
 - [làng và lúa nước](position_lang.md)
+- [tiếng Việt](position_language_vi.md)
 
 **Pieces**
 

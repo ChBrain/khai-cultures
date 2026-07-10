@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Hai chị em Trưng Trắc và Trưng Nhị, con nhà Lạc tướng đất Mê Linh, những người phụ nữ đầu tiên trong sử Việt phất cờ khởi nghĩa giành lại đất nước. Khẳng khái, can trường và được lòng dân, hai bà tụ nghĩa khắp các quận và một thời đứng đầu một vương quyền của người Việt. Tiếng Việt cổ là máu thịt của hai bà: hai bà [nói](process_speaking_mother_tongue.md) và [nghĩ](process_thinking_mother_tongue.md) bằng tiếng mẹ đẻ, lấy chính tiếng nói ấy mà hiệu triệu lòng dân đứng lên. Còn chữ nghĩa và lệnh truyền của kẻ đô hộ thì đến với hai bà bằng thứ chữ Hán xa lạ, áp đặt từ bên trên, mà hai bà chỉ [nghe và bắt được phần nào](process_hearing_followed.md). Hai bà gọi muôn dân đứng dậy bằng tiếng nói của mẹ cha, trong khi ách đô hộ áp xuống bằng thứ chữ của người ngoài, và chính ở chỗ ấy hằn lên cái lặng câm nơi tiếng nói chạm phải bờ của nó.
+Hai chị em Trưng Trắc và Trưng Nhị, con nhà Lạc tướng đất Mê Linh, những người phụ nữ đầu tiên trong sử Việt phất cờ khởi nghĩa giành lại đất nước. Khẳng khái, can trường và được lòng dân, hai bà tụ nghĩa khắp các quận và một thời đứng đầu một vương quyền của người Việt. [Tiếng Việt](position_language_vi.md) cổ là máu thịt của hai bà: hai bà [nói](process_speaking_mother_tongue.md) và [nghĩ](process_thinking_mother_tongue.md) bằng tiếng mẹ đẻ, lấy chính tiếng nói ấy mà hiệu triệu lòng dân đứng lên. Còn chữ nghĩa và lệnh truyền của kẻ đô hộ thì đến với hai bà bằng thứ chữ Hán xa lạ, áp đặt từ bên trên, mà hai bà chỉ [nghe và bắt được phần nào](process_hearing_followed.md). Hai bà gọi muôn dân đứng dậy bằng tiếng nói của mẹ cha, trong khi ách đô hộ áp xuống bằng thứ chữ của người ngoài, và chính ở chỗ ấy hằn lên cái lặng câm nơi tiếng nói chạm phải bờ của nó.
 
 ## Action
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old museum curator in Montgomery. English, spoken with an expressive Southern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his community presentations. He speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented talk of aerospace engineers like Sarah and the digital planning of Huntsville space boards [he reads only as administrative updates](process_reading_followed.md) on his workstation, feeling that the patient, cooperative rhythm of early civil rights organizing is being forgotten in the race for technological modernization.
+A fifty-two-year-old museum curator in Montgomery. [Alabama English](position_language_en_us_al.md), spoken with an expressive Southern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his community presentations. He speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented talk of aerospace engineers like Sarah and the digital planning of Huntsville space boards [he reads only as administrative updates](process_reading_followed.md) on his workstation, feeling that the patient, cooperative rhythm of early civil rights organizing is being forgotten in the race for technological modernization.
 
 ## Action
 

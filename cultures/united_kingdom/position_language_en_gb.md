@@ -1,13 +1,13 @@
 ---
 khai: position
-title: "the common tongue"
+title: "British English"
 declared: "the common tongue"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: the common tongue
@@ -34,4 +34,4 @@ It rarely loses ground; it gains it, but at a cost. The national and home tongue
 
 ## Drives
 
-It lives in [Aisha](persona_aisha.md), worn over the language of home; it is the nerve [Churchill](persona_churchill.md) struck in the dark hour; and it is the tongue [Shakespeare](persona_shakespeare.md) made supple and the world borrowed. It drives the union to mistake a shared language for a shared belonging, and to find, when the nations pull apart, that one tongue alone was never quite enough to hold them.
+It lives in [Aisha](persona_aisha.md), worn over the language of home; it is the nerve [Churchill](persona_churchill.md) struck in the dark hour; it is the tongue [Shakespeare](persona_shakespeare.md) made supple and the world borrowed; and it is the level, understated English [Margaret](persona_margaret.md) keeps her strongest feeling behind. It drives the union to mistake a shared language for a shared belonging, and to find, when the nations pull apart, that one tongue alone was never quite enough to hold them.

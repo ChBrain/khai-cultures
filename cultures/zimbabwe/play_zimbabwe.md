@@ -50,6 +50,7 @@ We are old before we are new. Long before any line was drawn on a map, the ances
 - [hunhu](position_hunhu.md)
 - [the houses of stone](position_houses_of_stone.md)
 - [the ancestral voice](position_ancestral_voice.md)
+- [Zimbabwean English](position_language_en_zw.md)
 
 **Pieces**
 

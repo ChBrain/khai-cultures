@@ -46,6 +46,7 @@ A land of natural beauty and corporate logistics, defined by the forested ridges
 
 - [ozark heritage](position_ozark_heritage.md)
 - [retail distribution](position_retail_distribution.md)
+- [Arkansan English](position_language_en_us_ar.md)
 
 **Pieces**
 

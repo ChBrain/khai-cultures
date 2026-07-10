@@ -23,7 +23,7 @@ A mandate: the deliberate, ongoing effort to hold four nations in one state, the
 
 ## Direction
 
-To keep England, Scotland, Wales, and Northern Ireland one kingdom by consent rather than compulsion: bound by a shared Crown, a common Parliament, the [common tongue](position_the_common_tongue.md), and common goods like the NHS, against the centrifugal pull of each nation and the strains of leaving Europe.
+To keep England, Scotland, Wales, and Northern Ireland one kingdom by consent rather than compulsion: bound by a shared Crown, a common Parliament, the [common tongue](position_language_en_gb.md), and common goods like the NHS, against the centrifugal pull of each nation and the strains of leaving Europe.
 
 ## Orders
 
