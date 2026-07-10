@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'autorite du francais tel qu'il se parle et s'ecrit aux Comores : la langue venue par l'ecole et l'administration, heritee de la longue tutelle, devenue l'une des langues officielles de l'Union a cote de l'arabe. Ce n'est pas la langue du coeur, qui est le shikomori, ni celle de la priere, qui est l'arabe, mais celle du papier, du bureau, du concours et du livre, celle par laquelle les iles traitent avec le monde du dehors et fixent sur la page ce que la coutume disait de bouche a oreille.
+Le francais a la richesse de ses temps verbaux, l'imparfait qui peint la duree, le passe simple qui date le recit litteraire, le subjonctif qui marque le doute et le souhait ; il a la liaison qui lie les mots entre eux a l'oral, la consonne finale muette qui reparait des que la voyelle suivante l'appelle ; et il a les voyelles nasales, un, on, an, in, qui n'existent pas dans les langues voisines de l'archipel.
 
 ## Orders
 
-Ce qui aux iles passe pour la langue de l'ecrit et du savoir : l'acte, le registre, le diplome et la loi s'y disent, et c'est en elle que se mesure celui qui a passe par l'ecole. Elle ordonne l'acces au bureau et au concours, range du cote des lettres celui qui la manie et du cote du dehors celui qui ne l'a pas, et fait du francais bien tenu une clef que tout le monde n'a pas en main.
+Il oblige a choisir un genre pour chaque nom, masculin ou feminin, et a accorder l'adjectif en consequence, la ou le shikomori n'en demande rien ; il oblige a trancher entre tu et vous a chaque adresse, rangeant la proximite ou la distance dans le mot meme ; il oblige a conjuguer le verbe pour chaque personne et chaque temps, le subjonctif se dressant des que la phrase dit le doute, la volonte ou l'emotion ; et il oblige, a l'oral, a lier ou a taire des lettres selon des regles que l'ecrit seul ne signale pas toujours.
 
 ## Loses
 
-Du terrain devant le shikomori, langue de la maison, du abri et du grand mariage, que le francais n'a jamais remplace dans le coeur ni dans la rue ; du terrain devant l'arabe du Coran et des lettres anciennes, langue de la foi et de la poesie ou l'ame des iles s'est d'abord dite. Elle en perd aussi aupres de ceux que l'ecole n'a pas gardes, le cueilleur et le marin qui n'en attrapent que des bribes, et pour qui la langue des papiers reste une porte a demi fermee.
+Il perd la chaleur que la conjugaison et l'accord du genre rendent parfois cassante, quand la justesse grammaticale prend le pas sur le sentiment ; il perd des nuances que d'autres langues marquent et que le francais laisse a la seule intonation, la maniere par exemple de dire comment on sait ce qu'on rapporte ; et il perd, pour qui vient du shikomori ou de l'arabe, des sons entiers, les voyelles nasales et les e muets que la bouche doit apprendre a faire.
 
 ## Drives
 
-Elle porte les iles vers le dehors et vers l'ecrit. [Abou Chihabi](persona_abou_chihabi.md) l'emprunte pour porter au loin la voix chantee de l'archipel ; [le distillateur d'ylang-ylang](persona_le_distillateur.md) n'en saisit au vol que ce qu'il faut pour traiter avec l'acheteur dont il ne lira jamais les flacons ; [Mohamed Toihiri](persona_mohamed_toihiri.md) l'a faite sienne jusqu'a y ecrire le roman de son peuple ; et [Said Mohamed Cheikh](persona_said_mohamed_cheikh.md) l'a maniee comme un outil pour faire entendre les iles et leur ouvrir une vie politique a elles. Ainsi la langue du dehors montre a la fois ce qu'elle ouvre aux iles et ce qu'elle laisse au bord, entre ceux que l'ecole a portes et ceux qu'elle a laisses sur la pente.
+Il pousse celui qui pense en lui a nommer d'abord le genre de chaque chose avant meme d'en dire l'action ; il l'habitue a mesurer, dans chaque adresse, la distance qu'il choisit de garder ou de lever, tu ou vous ; il lui apprend a placer le verbe au subjonctif des que la phrase doute ou desire, rendant le doute visible dans la grammaire meme ; et il forme, chez qui grandit entre les deux langues, une oreille qui passe des voyelles nasales du francais a l'univers sonore du shikomori.

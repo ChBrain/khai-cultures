@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Iciyumviro c'uko Ikirundi ari ururimi rumwe rusangiwe na bose b'Abarundi, ikintu kidasanzwe muri Afrika: igihugu cose kivuga ururimi rumwe. Ariko ururimi si ijambo gusa: ni ubuhinga bwo kuvuga, ubuhanga bw'umugani, ubwiza bw'ikivugo c'uguhimba. Umurundi w'ukuri ni uwuvuga neza, uwuzi gukoresha umugani mu kanwa, uwushira ijambo aho rikenewe. Ururimi ni ububiko bw'amateka, ubukerebutsi, n'umuco, vyose bibikwa mu kanwa atari mu gitabo.
+Ururimi rwubatswe ku mizi mike gusa, aho udukoresho twinshi twongerwa ku muzi umwe kugira ngo bavuge ibintu bitandukanye: ku muzi umwe wa "-vug-", Ikirundi rirema "kuvuga," "kuvugana," "kuvugisha," na "kuvugirwa," buri kimwe gifise insobanuro yihariye, aho kwongera ijambo rishasha ryose. Iri jambo rimwe naryo rijya rihindagurika mu majwi, hejuru cyangwa hasi, kandi ihinduka ry'ijwi rishobora guhindura insobanuro y'ijambo nyene, nk'uko biri mu ndimi nyinshi zo mu karere.
 
 ## Orders
 
-Ko kuvuga neza ari ubuhanga bwubahwa, ko umugani ari ubukerebutsi bw'abasokuru, ko ikivugo ari ubuhinga buhanitse, ko ijambo rifise uburemere bukomeye, kandi ko uwuvuga buhoro neza aruta uwuvuga vyinshi ata mutima. Ururimi rusaba ko abana barwakira mu kanwa k'ababyeyi, ko umugani uguma utangwa, kandi ko ubuhinga bwo kuvuga butazima.
+Rirasaba ko ijambo rikura ku muzi umwe ryongererwa ibice byinshi mu gihe kimwe: icyerekana uwukora, igihe, uko ibintu bikorwa, n'icyerekana uwo bikorerwa, byose bishirwa ku muzi umwe, imbere na inyuma yawo. Rirasaba kandi ko ijwi ryumvikana neza, kuko amajambo abiri asa mu nyuguti ashobora gutandukanywa gusa n'uburebure cyangwa uburemere bw'ijwi mu kuyavuga.
 
 ## Loses
 
-Ihomba igihe abana batagisubira gukira umugani n'ikivugo, igihe ururimi ruvanze rugahinduka, canke igihe abagiye kure y'igihugu batakaza ijwi ry'iwabo. Ihomba kandi igihe ubuhinga bwo kuvuga buhindutse ubusa, ijambo rikabura uburemere bwaryo, n'umugani ukibagirwa mu kanwa k'abana b'ejo.
+Ihomba mu gihe uwavutse kure y'ururimi adashobora kwumva itandukaniro ry'amajwi rigena insobanuro, bigatuma amajambo asa asigara asa kuri we. Ihomba kandi mu gihe imvugo yavuye ku muzi umwe igenda igabanuka mu kanwa k'abana b'ejo, abavuga bagakoresha ijambo rimwe gusa aho hakwiye ibice byinshi byari byubatswemo insobanuro nyinshi.
 
 ## Drives
 
-Iba aho igihugu cashinzwe kikaruvuga nk'ururimi rw'ubwami n'ubutegetsi, no aho ubuhanga bwo kuvuga bwakoreshejwe n'abami nk'igikoresho c'ubutegetsi. Iba aho ijwi n'amajambo y'iwabo bijanwa mu isi yose, aho indirimbo zihimbwa mu Kirundi zikoresheje ubwiza bw'ururimi, no aho ibivugo by'ingoma bitegurwa mu rurimi rumwe rusangiwe na bose. Ituma u Burundi kibika ururimi rumwe rusangiwe na bose, n'ubuhinga bwo kuvuga bw'abasokuru.
+Rituma uwarurerewemo yiga gutunganya ijambo rimwe ryinshi mbere yo kuryomora, aho kwongera amajambo make asobanutse. Rimutoza kumva neza ijwi ryo hejuru n'iryo hasi mu buzima bwe bwose, kuko insobanuro y'ijambo rishobora guhinduka gusa hitawe kuri ryo, kandi rigatuma yibanda ku muzi umwe w'ijambo maze akuramo insobanuro nyinshi ashaka gutanga.

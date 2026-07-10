@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano tal como se habla en Cantabria, entre la mar y la montaña, con la entonación pausada de los valles pasiegos y el habla rápida del puerto, los diminutivos y las voces heredadas del viejo hablar montañés de la cornisa cantábrica. Es el español del ganadero de braña y del pescador de bajura, hablado llano y directo, con el deje del norte verde que lo separa del castellano seco de la meseta.
+El castellano ofrece género gramatical en cada sustantivo (el barco, la mar), la doble cópula ser/estar que distingue lo esencial de lo pasajero, y un modo subjuntivo que expresa la duda y el deseo aparte del hecho. La variante cántabra añade su propio recurso: el diminutivo en -uco/-uca y en -ín/-ina, que no solo empequeñece sino que arropa de cariño casi cualquier palabra (el perruco, la casina), un matiz afectivo que el castellano estándar no reparte con tanta soltura.
 
 ## Orders
 
-Que en Cantabria se hable el castellano con su propio deje montañés y sus palabras de valle y de mar, en la cabaña, en la conservera y en el trato de pueblo; que la entonación cántabra valga como habla propia; y que las voces del viejo hablar montañés no se pierdan del todo en el español de cada día.
+Obliga a marcar género y número en cada nombre y en cada adjetivo que lo acompaña, a elegir entre ser y estar sin posibilidad de zafarse, y a conjugar el verbo en persona, tiempo y modo con un paradigma denso que rara vez deja hueco a la ambigüedad. El habla cántabra impone además la aspiración o pérdida de la -d- intervocálica en las terminaciones en -ado (hablao, cansao), de modo que el hablante suaviza la palabra casi sin darse cuenta.
 
 ## Loses
 
-Pierde terreno ante el castellano neutro del centro, que oye el deje cántabro como rural o cerrado, y ante la despoblación de los valles, que se lleva con cada casa vacía las palabras y el acento del interior; y cuando la escuela y la pantalla miden lo correcto por la norma de Madrid, el norte aprende a suavizar su voz.
+Pierde el neutro que otras lenguas reservan para lo abstracto, y confía todo género al masculino y al femenino, de modo que lo que no tiene sexo tiene que fingirlo. La reducción cántabra de consonantes finales y de la -d- intervocálica hace que el habla suene más suelta pero también borra distinciones que el papel escrito conserva, de modo que la letra impresa y la voz de la braña ya no coinciden del todo.
 
 ## Drives
 
-Es la lengua materna del ganadero pasiego de los valles del Miera que en el castellano de deje montañés [habla, escucha y piensa](process_speaking_mother_tongue.md); y de la conservera de Santoña que en él [habla](process_speaking_mother_tongue.md) y lleva la fábrica. Empuja a Cantabria a hablar su castellano con el aire de sus valles y de su costa, sin limarlo ante el forastero.
+Acostumbra a quien lo habla a pensar el género de cada cosa antes de nombrarla y a pesar cada verbo entre ser y estar, entre lo que algo es y lo que solo está siendo. La costumbre cántabra del diminutivo constante empuja a quien crece en ella a suavizar el habla con el cariño de un sufijo, y la relajación de las consonantes finales le da al oído una soltura que el castellano de la meseta no comparte.

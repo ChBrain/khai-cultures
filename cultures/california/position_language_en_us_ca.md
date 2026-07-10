@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The relaxed, vowel-shifted speech of the Pacific coast, the Californian English marked by fronted vowels and easy uptalk that carry from surf breaks to startup pitches. It holds the sound of a state that speaks fast, casual, and forward, softening its consonants and stretching its vowels into the register the rest of the country hears as "California."
+The California Vowel Shift, a chain of vowel changes running through the accent: the short front vowels lower and pull back, the low back vowels merge and push forward, so "cot" and "caught" sound alike and "bit" edges toward "bet." It carries "the" before a highway number ("the 5," "the 405"), the quotative "be like" for reporting speech and attitude together, and words like "hella" and "stoked" that intensify or express enthusiasm where flatter English needs a whole phrase.
 
 ## Orders
 
-What counts here as how folks talk, the unbothered cadence of the coast, where the same loose register serves the winery and the boardroom. It orders which sound reads as local and native, the easy, sun-warmed English against which a newcomer's speech is measured.
+It orders the rising, question-like lilt called uptalk onto the end of plain statements, so a fact can sound like it is being checked for agreement even when none is asked. It orders the definite article before a freeway's number, marking a road as a named place rather than a mere route, and it orders the quotative "be like" to carry not just words but tone and face along with them.
 
 ## Loses
 
-Ground to General American, the flattened broadcast standard that erases regional color, and to the Spanish and Asian-language codes woven through its cities, which claim their own speakers. It loses too to the tech jargon that overwrites plain speech with the churn of the campus.
+It loses the crisp edge between "cot" and "caught," and "pen" and "pin" edge closer together too, so a listener from outside must lean on context where the vowels themselves no longer divide the words. It loses ground to General American, the flattened broadcast standard that files down its rounder vowels, and its uptalk and "hella" read to outsiders as uncertainty or slang rather than the settled cadence of home.
 
 ## Drives
 
-It carries the state's habit of sounding open, quick, and unpretentious. It gives the winery's marketing voice the English in which its stories are told and its wines are named, a mother tongue worn easily as home, and it carries the fast campus English that is the primary code of Palo Alto's startup floor. So the one coast sound shows who speaks it as home and who wears it as a tool.
+It drives the ear that grows up in it to hear questions in statements, so agreement and warmth get checked constantly through pitch rather than words. It drives the tongue to reach for "be like" before "said," carrying a whole scene of tone and expression in one quoted breath, and it drives the vowels themselves toward a shared, rolling front and back that marks a voice as coastal before a single consonant is heard.

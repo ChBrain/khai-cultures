@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-O portugues, a lingua oficial de Cabo Verde, herdada dos cinco seculos de historia das ilhas: a lingua da escola, dos documentos, do Estado e da letra impressa. Nao e a lingua-mae das ilhas, pois essa e o kriolu, que se fala em casa, na rua e na morna, mas a lingua alta, aquela que se aprende nos bancos da escola e em que se escrevem as leis, os jornais e os livros. E tambem a ponte que liga as ilhas ao vasto mundo lusofono, de Lisboa ao Brasil e a Africa, e o passaporte com que o cabo-verdiano entra no mundo la fora.
+O portugues guarda o infinitivo pessoal, flexionado por pessoa (para eu falar, para nos falarmos), um recurso que quase nenhuma outra lingua da Europa possui e que permite marcar o sujeito de uma oracao subordinada sem repetir o pronome. Tem ainda o futuro do conjuntivo, um modo proprio para o que ha de acontecer se outra coisa acontecer primeiro (quando eu chegar, se ele vier), e vogais nasais que distinguem palavras onde outras linguas usariam consoante nasal inteira.
 
 ## Orders
 
-Que a lingua da escola sirva de instrumento e de abertura sem tomar o lugar da lingua do coracao: que o kriolu guarde a casa e a cancao, e que o portugues sirva para os papeis, o estudo e o trato com o mundo; que a sua posse nao se torne um muro entre os que a aprenderam bem e os que apenas a apanham aos bocados; e que o cabo-verdiano se mova entre as duas linguas sem vergonha de nenhuma delas.
+Obriga a declinar o infinitivo consoante quem pratica a accao, mesmo quando o sujeito da oracao principal e outro, e impoe a escolha entre o preterito perfeito simples, que fecha o facto no passado, e o composto, que o estende ate agora. Exige ainda a concordancia de genero em todo o adjetivo e a nasalizacao vocalica correta, sem a qual a palavra muda de sentido.
 
 ## Loses
 
-Perde terreno quando se torna a medida do valor de uma pessoa, e o menosprezo recai sobre quem so fala kriolu, como se a lingua-mae fosse fala menor; e perde terreno tambem na diaspora, onde os filhos nascidos la fora ja so falam a lingua do pais que os acolheu, e nem o portugues nem o kriolu lhes chega inteiro, ficando o fio da fala partido entre uma geracao e a seguinte.
+Perde a simplicidade de linguas que nao distinguem tempos do passado, pois obriga sempre a decidir se o facto ficou fechado ou se ainda dura; e a nasalizacao, que enriquece o som, tambem estreita o ouvido a distincoes que quem nao cresceu nela raramente acerta de primeira. O infinitivo pessoal, tao util, nao tem equivalente facil noutras linguas, e por isso quase nunca sobrevive inteiro numa traducao.
 
 ## Drives
 
-Vive em quem o maneja como ferramenta enquanto guarda a sodade para a lingua-mae; em quem domina por inteiro o portugues das escolas de Lisboa e nele escreve as suas ideias e os seus relatorios; em quem o ouve e o segue quando e preciso mas canta sempre em kriolu; em quem so o apanha em pedacos, o que o ouvido colhe da escola e dos papeis; e em quem nele le os poetas do imperio e escreve para os jornais, mas guarda o sentimento inteiro para o kriolu. Empurra Cabo Verde a servir-se do portugues como abertura ao mundo sem deixar calar a lingua em que nasceu.
+Habitua quem o fala a marcar sempre quem faz o que mesmo dentro da oracao subordinada, e a pensar o tempo verbal com uma precisao que separa o que passou de vez do que ainda ecoa no presente. A nasalidade vocalica da ao ouvido uma sensibilidade fina para diferencas de som minimas, e o habito do infinitivo flexionado ensina a nomear o sujeito da accao com uma clareza que outras linguas deixam por conta do contexto.

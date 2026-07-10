@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano de la meseta norte, hablado con el tono pausado y grave y la sobriedad lexica que la tradicion tiene por la norma mas limpia de la lengua. Guarda el habla de Tierra de Campos y del valle del Duero, sin seseo ni ceceo, con la distincion firme de la ese y la ce y el vocabulario del secano, del pastoreo trashumante y del horno de lena. Es el castellano al que muchos senalan como el mas correcto, el espejo en que se mira lo que se tiene por bien dicho.
+El castellano del norte peninsular mantiene la distincion entre s y z/c (casa frente a caza), un contraste que buena parte del mundo hispanohablante ha fundido en un solo sonido; conserva ademas el vosotros como plural de confianza, frente al ustedes unico que domina en America. Tiene la doble copula ser y estar, y un subjuntivo vivo que marca la duda, el deseo y la orden indirecta con formas propias.
 
 ## Orders
 
-Manda que en las juntas agrarias, en las cooperativas de secano y en las queserias de oveja churra se hable la lengua reposada del pueblo, y que el lexico de las lindes, de la trashumancia y del grano pase de padres a hijos sin diluirse. Ordena el habla mesurada, sin prisa ni adorno, en la que el trato se cierra con la palabra dada y no solo con la firma del papel.
+Obliga a distinguir con la lengua entre la ese sorda y la zeta interdental, un gesto articulatorio que otras variantes del espanol no exigen; obliga tambien a elegir entre vosotros y ustedes segun el grado de confianza, y a conjugar el subjuntivo en presente e imperfecto cada vez que la oracion principal expresa deseo, duda o mandato.
 
 ## Loses
 
-Pierde terreno cuando la despoblacion vacia los pueblos y se lleva con los mayores el habla antigua de la meseta, y cuando la jerga administrativa del catastro, de los boletines y de los reglamentos de la confederacion hidrografica se impone como unica lengua valida frente al saber del labrador. Cede tambien ante el castellano rapido y neutro de la ciudad, que borra el tono grave del campo y sus terminos propios.
+Pierde la sencillez de los dialectos que igualan s y z en un solo sonido, porque cada palabra exige memorizar cual de las dos letras lleva; y el vosotros, tan preciso para marcar la confianza colectiva, no tiene equivalente en el espanol de America, donde la traduccion llana lo aplana en un ustedes que no distingue tanto.
 
 ## Drives
 
-Empuja a esta tierra a tener su habla por la norma y a medir por ella lo que se dice bien. Es la lengua materna del labrador de secano de Tierra de Campos y de la quesera de Zamora, la que usan para labrar la tierra, cerrar el trato y guardar la memoria del pueblo; y en ese uso se ve quien sostiene esta habla sobria y a quien se la lleva el vaciamiento de la meseta.
+Acostumbra a quien lo habla a articular con precision la interdental que otros hispanohablantes no pronuncian, y a oir en esa misma precision un modelo con el que se mide lo bien dicho. El manejo constante del subjuntivo entrena la mente para separar el hecho cierto de la duda o el deseo en cada frase, y el uso vivo del vosotros mantiene una distincion de trato colectivo que otras variantes del idioma han dejado de marcar.

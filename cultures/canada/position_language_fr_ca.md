@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'autorité du français tel qu'il vit en Amérique du Nord, la langue maternelle de la grande majorité des Québécois et la seule langue officielle du Québec, cette province française sur un continent anglais. Il tient la norme du français d'ici, celle de l'école, de l'Assemblée nationale, du journal et de la chanson, avec ses tours à lui, le déjeuner du matin, le char, la fin de semaine et le magasinage, qui ne sont pas des fautes mais une autre façon correcte de dire la même langue, héritée des premiers colons de la Nouvelle-France et gardée entière à travers deux siècles et demi de vie anglaise autour d'elle.
+La diphtongaison des voyelles longues accentuées, qui fait entendre dans "fête" ou "pâte" un glissement en deux temps là où le français de France n'en tient qu'un, et la particule interrogative "tu", collée à la fin d'une question fermée quel que soit le sujet ("Tu viens-tu?"), sans lien avec le pronom "tu" lui-même. Il garde aussi des mots hérités du dix-septième siècle ou refaits au contact de l'anglais, char, jaser, magasiner, que le français de France ne porte pas de la même façon.
 
 ## Orders
 
-Ce qui compte pour du bon français au Québec, l'orthographe, le registre de l'administration provinciale, de Radio-Canada et de la presse. Il ordonne ce qui va dans le texte officiel de la seule province française, protégé par la Charte de la langue française, et fixe le ton d'une vie publique qui se veut, sur son territoire, aussi française que le reste du continent est anglais.
+Il force le relâchement des voyelles fermées en syllabe fermée, si bien que "petite" sonne d'une bouche plus ouverte qu'à Paris; il force, dans le registre familier, la particule "tu" à la fin de toute question fermée, geste réflexe indépendant du sujet réel de la phrase; et il force une attention constante aux voyelles nasales, portées plus en avant ou plus en arrière qu'en France, qui trahissent l'accent d'ici dès le premier mot.
 
 ## Loses
 
-Du terrain à l'anglais qui l'entoure de partout, celui du reste du Canada et des États-Unis, dont les écrans, le commerce et l'attraction pèsent sur lui chaque jour, si bien que sa survie est toujours une chose défendue et jamais tenue pour acquise. Et il n'est pas la langue commune du pays : à côté de lui règne l'anglais, l'autre langue officielle du Canada, si bien que le français commande au Québec mais nulle part ailleurs vraiment, une île de langue dans une mer anglaise qu'il ne cesse de tenir.
+Il perd, à l'oral rapide et familier, une partie de la transparence immédiate avec le français de France, un Parisien et un Québécois se comprenant moins vite l'un l'autre dans le registre du jour que dans celui du journal télévisé. Et la diphtongaison, le relâchement des voyelles et les consonnes avalées de la parole vive s'effacent dans l'écrit et le registre soutenu, si bien que la page ne porte jamais tout à fait le son de la rue.
 
 ## Drives
 
-Il pousse le Québec à vivre et à se gouverner tout entier en français sur un continent qui parle l'autre langue. Il vit dans la cause portée jusqu'au référendum par le journaliste devenu politicien qui refusa de laisser l'océan anglais engloutir sa nation. Ainsi la langue de la Nouvelle-France se fait à la fois héritage, fierté nationale et combat de chaque jour pour durer.
+Il habitue l'oreille à entendre ses voyelles longues comme un double mouvement plutôt qu'un seul ton, pousse la bouche à coller le "tu" à une question par réflexe de familiarité, et tient le locuteur entre deux registres d'une même langue, celui, glissé et relâché, de la maison, et celui, aplani, de l'école et du bulletin de nouvelles, passant de l'un à l'autre sans jamais tout à fait perdre l'un pour l'autre.
