@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una agricultora de pimiento y operadora de secadero tradicional de cuarenta y cuatro años en Jaraíz de la Vera, Extremadura. El castellano, hablado con los modismos y la terminología del ahumado de pimiento de la Vera, es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y gestiona el envasado y etiquetado en su cooperativa local. No habla lenguas extranjeras. Siente una fisura: la terminología de las agencias de distribución y las exigencias de patentes comerciales de condimentos [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que la paciencia del secado con leña de encina y la lealtad a los agricultores de la vera se consideran secundarias frente al beneficio rápido y los balances industriales masivos.
+Una agricultora de pimiento y operadora de secadero tradicional de cuarenta y cuatro años en Jaraíz de la Vera, Extremadura. El castellano, hablado con los modismos y la terminología del ahumado de pimiento de la Vera, es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y gestiona el envasado y etiquetado en su cooperativa local. No habla lenguas extranjeras. Ese castellano del secadero y de la Vera es [el espanol extremeno](position_language_es_es_ex.md), la variedad de frontera en la que gestiona su cooperativa de pimiento. Siente una fisura: la terminología de las agencias de distribución y las exigencias de patentes comerciales de condimentos [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que la paciencia del secado con leña de encina y la lealtad a los agricultores de la vera se consideran secundarias frente al beneficio rápido y los balances industriales masivos.
 
 ## Action
 

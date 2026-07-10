@@ -46,6 +46,7 @@ Una tierra cálida, agrícola y de honda herencia multicultural, definida por el
 
 - [el jornalismo](position_jornalero_solidarity.md)
 - [el arte flamenco](position_flamenco_art.md)
+- [el español andaluz](position_language_es_es_an.md)
 
 **Pieces**
 

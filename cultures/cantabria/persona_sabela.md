@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una operadora de conservera de pescado y gestora de cooperativa artesanal de cuarenta y cuatro años en Santoña, Cantabria. El castellano, hablado con el acento rápido y la terminología del salado y enlatado de pescado, es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y gestiona los pedidos diarios en la fábrica costera. No habla lenguas extranjeras. Siente una fisura: la terminología de las marcas comerciales internacionales y las exigencias de licencias de envasado de las grandes cadenas distribuidoras [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que la paciencia del sobado a mano del filete y la lealtad a los pescadores de bajura locales se consideran secundarias frente a la importación barata y los balances industriales masivos.
+Una operadora de conservera de pescado y gestora de cooperativa artesanal de cuarenta y cuatro años en Santoña, Cantabria. El castellano, hablado con el acento rápido y la terminología del salado y enlatado de pescado, [el español de Cantabria](position_language_es_es_cb.md), es su lengua materna, en la que [habla](process_speaking_mother_tongue.md) y gestiona los pedidos diarios en la fábrica costera. No habla lenguas extranjeras. Siente una fisura: la terminología de las marcas comerciales internacionales y las exigencias de licencias de envasado de las grandes cadenas distribuidoras [las percibe como una interferencia distante](process_hearing_followed.md), sintiendo que la paciencia del sobado a mano del filete y la lealtad a los pescadores de bajura locales se consideran secundarias frente a la importación barata y los balances industriales masivos.
 
 ## Action
 
