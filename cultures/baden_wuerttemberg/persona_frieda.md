@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine zweiunddreißigjährige Gründerin eines Cleantech-Start-ups in Karlsruhe, das intelligente Software für das Energiemanagement entwickelt. Deutsch ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und ihre Präsentationen für nationale Partner konzipiert. Englisch [trägt sie als übergezogen](process_speaking_worn.md) für die täglichen Verhandlungen mit internationalen Investoren. Doch der Verlust liegt in der Naht: Die alten, traditionsbewussten Geschichten von Karl und die klassische schwäbische Kehrwochen-Disziplin [dringt nur wie ein leises Echo an ihr Ohr](process_hearing_followed.md), da ihr Alltag von agilen Sprints, globalen Finanzierungsrunden und digitaler Vernetzung bestimmt wird.
+Eine zweiunddreißigjährige Gründerin eines Cleantech-Start-ups in Karlsruhe, das intelligente Software für das Energiemanagement entwickelt. Deutsch, das [baden-württembergische Hochdeutsch](position_language_de_de_bw.md), ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und ihre Präsentationen für nationale Partner konzipiert. Englisch [trägt sie als übergezogen](process_speaking_worn.md) für die täglichen Verhandlungen mit internationalen Investoren. Doch der Verlust liegt in der Naht: Die alten, traditionsbewussten Geschichten von Karl und die klassische schwäbische Kehrwochen-Disziplin [dringt nur wie ein leises Echo an ihr Ohr](process_hearing_followed.md), da ihr Alltag von agilen Sprints, globalen Finanzierungsrunden und digitaler Vernetzung bestimmt wird.
 
 ## Action
 

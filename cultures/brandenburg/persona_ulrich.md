@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein brandenburger Förster von fünfundsechzig Jahren, der seit Jahrzehnten ein Revier in der Schorfheide betreut. Deutsch, stark gefärbt vom brandenburgischen Dialekt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seines Lebens und des Waldes. Er spricht keine Fremdsprachen und schätzt die Abgeschiedenheit der Natur. Doch der Verlust liegt in der Naht: Die modernen, englischen Bezeichnungen der forstwirtschaftlichen Software und die EU-Verordnungen [liest er nur mit stillem Kopfschütteln](process_reading_followed.md), da ihm das handwerkliche Gespür für den Wald im modernen Forstbetrieb verloren geht.
+Ein brandenburger Förster von fünfundsechzig Jahren, der seit Jahrzehnten ein Revier in der Schorfheide betreut. Deutsch, stark gefärbt vom brandenburgischen Dialekt, ist seine Muttersprache, das [brandenburgische Hochdeutsch](position_language_de_de_bb.md), in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seines Lebens und des Waldes. Er spricht keine Fremdsprachen und schätzt die Abgeschiedenheit der Natur. Doch der Verlust liegt in der Naht: Die modernen, englischen Bezeichnungen der forstwirtschaftlichen Software und die EU-Verordnungen [liest er nur mit stillem Kopfschütteln](process_reading_followed.md), da ihm das handwerkliche Gespür für den Wald im modernen Forstbetrieb verloren geht.
 
 ## Action
 

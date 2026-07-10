@@ -46,6 +46,7 @@ Eine Stadt, die durch eine Mauer zerrissen und nach deren Fall zum Symbol der Fr
 - [die Freiheit](position_freiheit.md)
 - [die Mauer](position_mauer.md)
 - [die Kreativität](position_kreativitaet.md)
+- [das Berliner Hochdeutsch](position_language_de_de_be.md)
 
 **Pieces**
 
