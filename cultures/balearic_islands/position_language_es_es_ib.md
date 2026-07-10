@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano tal como se habla en las islas, con el deje pausado del mallorquín debajo, las vocales cerradas y la entonación cantada del Mediterráneo insular. Es el español del que tiene el catalán por lengua de casa y el castellano por lengua de trato, teñido de mar, de artículo salado y de las voces de la pesca y del campo de terraza. En las islas convive con el gran gentío de fuera, el turista y el peninsular venido con el boom, que lo empuja y lo mezcla.
+Tiene la gramática entera del castellano, el género que reparte cada nombre entre el/la, el subjuntivo que marca la duda y el deseo, y la doble cópula ser/estar que separa lo permanente de lo pasajero, algo que lenguas vecinas resuelven con un solo verbo. Y tiene, encima de esa gramática, la huella del catalán mallorquín de debajo: vocales más cerradas, una entonación que sube al final de la frase como pregunta, y palabras que la isla presta al castellano sin traducirlas, ensaimada, torrent, possessió.
 
 ## Orders
 
-Que en las Baleares se hable el castellano con el acento de las islas y el poso del mallorquín, en la cala, en el mercado y en el trato; que ese deje insular valga como habla propia y no como castellano mal dicho; y que la lengua de casa siga sonando dentro del español de cada día.
+Obliga, como todo castellano, a concordar el género en cada artículo y adjetivo, a elegir ser o estar cada vez que se describe un estado, y a decidir entre tú y usted en cada trato. Y aquí obliga además al oído bilingüe a dejar pasar, sin traducirlo del todo, el acento mallorquín que tiñe la vocal y el ritmo de la frase, de modo que el castellano de la isla nunca suena igual que el de la meseta aunque comparta cada regla.
 
 ## Loses
 
-Pierde terreno ante el castellano peninsular del centro y ante el vaivén del turismo, que trae mil acentos de fuera y borra el color local; y queda prensado entre esa norma castellana y el catalán de las islas, sin acabar de ser tenido por entero ni de uno ni de otro.
+No puede llevar al castellano el artículo salado del mallorquín, es o sa en vez de el o la, porque la gramática castellana no tiene sitio para esa forma; ese rasgo queda atrapado en el catalán de casa y no cruza al español de trato. Y pierde terreno ante el castellano peninsular que el turismo y la televisión traen de fuera, que empareja el acento isleño con un habla mal dicha en vez de reconocerlo como variedad propia, aplanando el deje que delata a quien lo lleva.
 
 ## Drives
 
-Lo [llevan como lengua de trato](process_speaking_carried.md), junto a su catalán mallorquín materno, la payesía de la Tramuntana y la pesca de las calas, que en el castellano de acento insular tratan con Palma y con la administración sin dejar su lengua de casa. Empuja a las Baleares a hablar su castellano con el deje isleño, sin borrar la huella del mallorquín.
+Empuja a quien lo habla a sostener dos gramáticas a la vez sin que una borre a la otra, la castellana de género y subjuntivo y la catalana del artículo salado que vive debajo; y acostumbra el oído a marcar ser/estar en cada frase mientras la voz conserva la vocal cerrada y la cadencia isleña que ninguna norma peninsular le quita.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A língua portuguesa como se fala e se escreve em Angola: a língua herdada do colonizador, amassada com o barro da terra até dizer coisas que só são de cá, temperada com o kimbundu, o umbundu, o kikongo e o tchokwe, e falada com o sotaque e o jeito de Luanda e dos musseques. É a língua franca que junta um povo de muitas línguas, o chão comum onde se entendem o bakongo, o ambundu e o ovimbundu, e nela se puseram no papel a poesia e o romance que deram voz à terra.
+O que o português permite dizer que quase nenhuma outra língua românica permite: o infinitivo pessoal, que se conjuga por pessoa mesmo sem sujeito próprio, "ao chegarmos" em vez de uma oração inteira, e o futuro do conjuntivo, um tempo que ainda vive no português para marcar uma condição que só se cumprirá no futuro, "se houver". E, em Angola, essa gramática carrega dentro de si o vocabulário e o ritmo do quimbundo, do umbundo e do quicongo.
 
 ## Orders
 
-Que se fale e se escreva o português em toda a Angola, de norte a sul, como a língua que junta a gente toda numa só nação; que se amasse a língua herdada com o falar da terra em vez de a receber tal e qual veio de fora; e que ela carregue, no ritmo e na imagem e no nome das coisas, as línguas do chão que lhe dão a alma, sem as apagar.
+Obriga a conjugar o verbo por pessoa e número em quase toda frase, a ponto de o pronome sujeito poder ser deixado de fora porque a própria terminação do verbo já diz quem fala. Obriga a marcar género em cada nome e adjetivo. E, em certas orações, obriga o infinitivo a concordar com o sujeito, coisa que a maioria das línguas vizinhas não pede.
 
 ## Loses
 
-Perde chão quando se toma o português de fora como o único certo e se tem vergonha do falar de Luanda e dos bairros; quando as línguas da terra que lhe dão o tempero se deixam cair, e a fala fica sem raiz; e quando a língua franca, em vez de juntar, serve para separar quem a fala pulida de quem a fala de quintal.
+Perde-se, para quem ouve de fora, o rasto do sujeito quando o pronome cai e só a terminação do verbo o indica, e o ouvido estranho ao português pode não notá-lo. Perde-se também a musicalidade das vogais nasais quando a língua é escrita ou falada por quem não a tem na própria voz. E, se a fala angolana for corrigida para soar só como a de fora, perde-se o quimbundo e o umbundo que lhe dão a cor própria.
 
 ## Drives
 
-Vive na pena de quem dobrou a língua herdada até ela dizer Angola, e de quem a amassou com o falar dos bairros para contar a terra inteira; na voz rouca de quem a canta com sotaque bem da terra; na palavra firme de quem a carregou como ferramenta de quem negoceia de cabeça erguida; e no pregão de quem a apanha como pode para os papéis enquanto vende na língua do quintal. Empurra Angola a fazer da língua de fora casa sua, a língua franca que junta um povo de muitas línguas.
+Habitua quem fala português a confiar na terminação do verbo para dizer quem age, dispensando o pronome que outra língua exigiria sempre. E, em Angola, habitua o falante a carregar dentro da mesma gramática herdada o som e a palavra das línguas do chão, sem sentir que uma pesa contra a outra.

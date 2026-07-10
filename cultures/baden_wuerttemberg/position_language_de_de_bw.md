@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des Hochdeutschen, wie es im Südwesten gesprochen und geschrieben wird: das deutschländische Hochdeutsch, aber gefärbt vom schwäbischen und badischen Klang, mit der weichen Aussprache, der eigenen Melodie und einem Vorrat an heimischen Wörtern, die kein Duden ganz einfängt. Es hält den Ruf des Schafferlandes, das seine Sache lieber tut als bespricht, und trägt zugleich mit Stolz das selbstironische Wort "Wir können alles. Außer Hochdeutsch."
+Das baden-württembergische Hochdeutsch trägt dieselbe Bau- und Kasusfähigkeit wie das Deutsch überhaupt, gefärbt vom schwäbischen und badischen Klang: das s vor Konsonant, das sich Richtung sch verschiebt (das Spätzle klingt wie Schpätzle), und die besonders produktive Verkleinerung auf -le, die im Schwäbischen fast jedes Ding tragen kann, das Spätzle, das Kindle, das Städtle.
 
 ## Orders
 
-Was im Land als richtiges Deutsch gilt, im Amt, in der Schule und im Werk. Es ordnet das Register des Mittelstands und der Ingenieurskunst, die knappe, sachliche Sprache der Konstruktion und der Kalkulation, und macht aus dem schwäbischen und badischen Sprachgebiet eine geprüfte gemeinsame Schrift, in der Karlsruhe und Stuttgart einander verstehen.
+Es zwingt, wie jedes Deutsch, bei jedem Ding ein Geschlecht und einen der vier Fälle zu wählen, im Nebensatz das Verb bis zuletzt zurückzuhalten und bei jeder Anrede zwischen Sie und du zu entscheiden; und es zwingt hier, in der gesprochenen Form, zur Verschiebung des s vor Konsonant und zur Rundung mancher Zwielaute, die die Schrift als Diphthong festhält, der Mund aber im Südwesten schon zum einfachen Laut geschlossen hat.
 
 ## Loses
 
-Boden an den norddeutschen Standard, der den südwestlichen Klang als Dialekt und als provinziell hört, sodass mancher seine Herkunft aus der Stimme zu tilgen versucht. Es verliert an das Englische in den global tätigen Hightech-Konzernen, wo Präsentation und Verhandlung die Sprache wechseln, und es verliert nach unten an die Mundart selbst, das Schwäbische und das Badische, die im Mund weiterleben, was die Schrift glättet.
+Die Schrift glättet, was der Mund im Schwäbischen und Badischen tatsächlich trägt, sodass der eigentliche Klang der Region nur im gesprochenen Wort lebt, nicht im geprüften Text; und mancher unterdrückt genau die Züge, das -le, das verschobene sch, die ihn verrieten, weil das norddeutsche Ohr den Klang als ländlich hört.
 
 ## Drives
 
-Es treibt den Südwesten, sein Hochdeutsch mit dem eigenen Klang zu tragen und darin doch die Norm zu achten. Es ist die Muttersprache des pensionierten Ingenieurs, dessen Deutsch tief vom Schwäbischen geprägt ist und der in ihm [spricht, hört und denkt](process_speaking_mother_tongue.md); und es ist die Muttersprache der Gründerin, die es für die nationalen Partner [spricht](process_speaking_mother_tongue.md), während sie das Englische der Investoren nur übergezogen trägt. So zeigt die eine Norm, wer sie hält und wie der eigene Klang darin fortlebt.
+Das produktive -le gewöhnt den, der darin aufwächst, an eine verkleinernde, zärtliche Art, die Dinge des Alltags zu benennen; und das Halten derselben Grammatik bei eigenem Klang gewöhnt das Ohr daran, in denselben Wörtern eine andere Stimme zu hören und darin, wohin man auch kommt, die eigene Herkunft wiederzuerkennen.

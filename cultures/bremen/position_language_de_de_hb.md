@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des Hochdeutschen, wie es in der Freien Hansestadt gesprochen und geschrieben wird: das deutschländische Hochdeutsch, aber unterlegt vom Plattdeutschen und vom Missingsch der Küste und getragen von einem hanseatischen Understatement, das lieber untertreibt als prahlt. Es ist die gemessene, zurückhaltende Sprache des Kaufmanns und des Bürgerstolzes, der sein Wort hält und wenig Worte macht.
+Was sich im Deutschen in einem einzigen Wort bauen lässt, wo andere Sprachen mehrere brauchen: das zusammengesetzte Substantiv, das mehrere Begriffe zu einem neuen, einzigen Wort verschmilzt, Schifffahrt, Hafenrundfahrt, Weltwirtschaft, jedes ein eigener, sofort verständlicher Begriff. Es schreibt jedes Substantiv, gleich welches, mit großem Anfangsbuchstaben, eine Eigenheit, die kaum eine andere Sprache teilt und die im Schriftbild sofort zeigt, wo ein Ding beginnt. Und es hält den Satzrahmen, in dem das gebeugte Verb an zweiter Stelle steht, während sein zweiter Teil, Partizip oder Infinitiv, bis ans Satzende wandert und dort den Sinn erst schließt.
 
 ## Orders
 
-Was in dem Zwei-Städte-Staat als richtiges Deutsch gilt, im Kontor, im Amt und in den Nachrichten. Es ordnet den nüchternen Ton des Welthandels und der Verwaltung und gibt der Hansestadt an der Weser eine gemeinsame, geprüfte Schrift, in der Kaufmannsbrief und Ratsbeschluss dasselbe Mass halten.
+Es zwingt, jedem Substantiv eines von drei Geschlechtern zuzuweisen, der, die oder das, und es durch vier Fälle zu beugen, je nachdem, ob das Ding handelt, ihm etwas gehört, ihm etwas gegeben wird oder es getroffen wird. Es zwingt, im Nebensatz das Verb bis zuletzt zurückzuhalten, sodass der Sinn erst mit dem letzten Wort feststeht, und es zwingt bei jeder Anrede die Entscheidung zwischen Sie und du, eine Entscheidung, die kein neutrales Wort ersetzen kann.
 
 ## Loses
 
-Boden an das Englische, das in der globalen Hafenlogistik und der weltweiten Reederei- und Zollkommunikation zur täglichen Sprache wird. Es verliert nach unten an das Plattdeutsche und das Missingsch der alten Hafenarbeiter, die im automatisierten Terminal verstummen, und der kleine Staat spürt zugleich den Druck des überregionalen Standards der weiteren Republik.
+Es verliert die Beiläufigkeit, wenn der gebaute Satz erst am Ende seinen Sinn preisgibt, und ein knapper Gedanke muss den ganzen Bogen tragen, ehe er ankommt. Es kennt keine Zwischenstufe zwischen Sie und du, sodass Nähe, die andere Sprachen in mehreren Stufen abstufen, hier nur ganz oder gar nicht gewährt wird. Und die langen, genauen Komposita lassen sich in eine andere Sprache oft nur zerlegt und mit halben Sätzen hinübertragen, wobei ihre Kürze verloren geht.
 
 ## Drives
 
-Es treibt die Hansestadt, ihr Hochdeutsch mit hanseatischer Zurückhaltung zu tragen und darin die Norm zu halten. Es ist die Muttersprache des pensionierten Hafenarbeiters, dessen Deutsch stark von Plattdeutsch und Missingsch gefärbt ist und der in ihm [spricht, hört und denkt](process_speaking_mother_tongue.md); und es ist die Muttersprache der Logistikmanagerin, die in ihm [spricht](process_speaking_mother_tongue.md) und mit den lokalen Partnern verhandelt, während sie das Englische der Reedereien nur übergezogen trägt. So zeigt die eine Norm, wer sie hält und wie der alte Klang der Küste darin fortlebt.
+Es treibt den, der in ihm denkt, den Satz erst ganz zu bauen und mit dem Verb wie mit einem Schlussstein zu schließen, ehe er ihn ausspricht. Es gewöhnt ihn, ein Ding lieber neu zusammenzusetzen, als es in vielen Worten zu beschreiben, und es gewöhnt ihn, in jeder Anrede die Distanz zum anderen neu zu bemessen. So formt die eine Sprache, wer in ihr aufwächst, zu einem, der zu Ende denkt, ehe er den Mund öffnet, und der Nähe nie stillschweigend voraussetzt, sondern jedes Mal entscheidet.

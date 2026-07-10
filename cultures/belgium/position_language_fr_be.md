@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'autorité du français tel qu'il s'écrit et se parle en Belgique, dans la Wallonie du sud et sur l'îlot bruxellois, l'une des trois langues officielles du royaume. Il tient la norme du français au sud de la frontière linguistique, celle de l'école, de l'administration et du journal, avec ses tours à lui, le septante et le nonante, la drache, le fritkot et le savez-vous, qui ne sont pas des fautes mais une autre façon correcte de dire la même langue. C'est la langue dans laquelle la Belgique fut bâtie en 1830, sur une majorité qui, elle, parlait flamand.
+Il garde septante et nonante pour soixante-dix et quatre-vingt-dix, échappant au détour vigésimal que le français de France conserve encore dans ces deux nombres. Il garde aussi, plus fermement qu'à Paris, la distinction entre les voyelles nasales de brin et de brun, que le français hexagonal laisse de plus en plus fondre en un seul son. Et il porte des mots que la norme de France n'a pas, kot pour la chambre d'étudiant, dringuelle pour le pourboire, hérités du wallon et du néerlandais d'à côté.
 
 ## Orders
 
-Ce qui compte pour du bon français du côté wallon et bruxellois, l'orthographe, le registre de l'administration régionale et de la presse. Il ordonne ce qui va sur le papier officiel au sud de la frontière et dans la capitale bilingue, et fixe le ton d'une vie publique francophone distincte, sans être séparée, du reste de la francophonie.
+Comme partout en français, il force l'accord du genre sur chaque nom et adjectif, il force le subjonctif après le doute ou le souhait, il force la liaison à certaines frontières de mots. Et ici, il force en plus le compte régulier, septante puis huitante ou quatre-vingts puis nonante, là où le français de France impose son détour vigésimal, si bien que le nombre lui-même trahit le francophone belge avant même la phrase suivante.
 
 ## Loses
 
-Du terrain, car il fut d'abord la langue du pouvoir imposée à un pays à moitié néerlandophone, et il en garde la dette : depuis les lois linguistiques et la fédéralisation, il ne s'impose plus au nord, où le néerlandais est chez lui. Faute de terrain commun, le francophone et le Flamand se rabattent de plus en plus sur l'anglais, la seule langue que ni l'un ni l'autre ne possède, et le français recule là où, autrefois, il croyait suffire.
+Il perd, sous la pression de l'école et des médias qui tiennent Paris pour la norme, une partie du crédit de ses propres tours : septante ou le savoir mis pour pouvoir sont encore entendus comme des écarts provinciaux plutôt que comme une autre façon correcte de dire la même langue. Et il a perdu, depuis les lois linguistiques et la fédéralisation, le terrain qu'il occupait au nord du pays, où le néerlandais répond désormais pour lui-même sans plus lui devoir de place.
 
 ## Drives
 
-Il pousse la Belgique francophone à vivre dans sa langue de part et d'autre de la frontière linguistique. Il vit dans la langue de cour et d'État d'une monarchie qui en fit longtemps son unique langue, dans la certitude du Wallon qui l'a longtemps crue suffisante à elle seule, et dans la vie de la Bruxelloise qui en fait le socle d'une ville mêlée. Ainsi la langue du sud se fait à la fois héritage, fierté régionale et pont fragile dans un pays sans langue commune.
+Il pousse le francophone à compter sans le détour vigésimal de la France, de soixante droit à septante. Il garde vivante, sur la langue, la distinction entre brin et brun que Paris laisse de plus en plus se confondre. Et faute de terrain commun avec le flamand depuis la scission linguistique, il pousse le francophone vers l'anglais comme terrain neutre avec le Flamand, puisque ni l'un ni l'autre ne possède la langue de l'autre.

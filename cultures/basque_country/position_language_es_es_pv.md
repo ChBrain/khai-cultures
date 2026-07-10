@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano hablado en el Pais Vasco, con la entonacion firme del euskera debajo, las consonantes marcadas y el lexico del caserio, del astillero y de la cuadrilla. Guarda los giros que el euskera presta al habla comun, el trato directo y la palabra dada, y suena distinto del castellano de la meseta sin dejar de serlo. Es el espanol de una tierra bilingue, la lengua con la que Bilbao y Guipuzcoa tratan con el resto de Espana.
+Tiene la gramatica entera del castellano, genero en cada nombre, subjuntivo para la duda y el deseo, y el par ser/estar que separa lo permanente de lo pasajero. Y lleva encima palabras que el euskera le presta sin traducirlas del todo, zulo para un escondite, txapela para la boina, cuadrilla para el grupo cerrado de amigos, y una entonacion tirada por el euskera de debajo, que marca el castellano vasco como distinto del de la meseta aunque comparta cada regla.
 
 ## Orders
 
-Manda en la fabrica y en el astillero cuando llegan los convenios del metal y las circulares de la patronal, en las oficinas del Estado y en el trato con Madrid. Ordena que haya una lengua comun para el papel, el contrato y la delegacion del Ministerio, y fija el registro con el que el Pais Vasco se explica ante el conjunto del Estado sin soltar el euskera de casa.
+Obliga, como todo castellano, a concordar el genero, a elegir entre ser y estar, y a decidir entre tu y usted en el trato. Y en esta zona ademas empuja al hablante a usar le como pronombre de objeto directo para personas donde el castellano de otras regiones usaria lo, un rasgo de leismo que la dialectologia liga al contacto largo entre el castellano y el euskera bajo el mismo tejado.
 
 ## Loses
 
-Pierde terreno frente al euskera en la sociedad gastronomica, en el monte y en la escuela que lo normaliza, donde la lengua ancestral reclama su lugar. Y pierde matiz frente al castellano neutro de los medios, que lima el acento vasco y toma sus giros por errores, como si el habla propia de la ria fuera un castellano descuidado.
+No puede llevar al castellano la marca ergativa que el euskera pone en cada frase transitiva, esa distincion entre quien hace y quien sufre la accion que el euskera senala con un sufijo y el castellano deja sin marcar aparte del orden de palabras. Y pierde matiz frente al castellano neutro de los medios, que lima el leismo y el acento vasco y los toma por error, como si el habla propia de la ria fuera un castellano descuidado en vez de una variedad con su propia logica.
 
 ## Drives
 
-Empuja al Pais Vasco a moverse en dos lenguas a la vez. Se lo da al soldador del astillero del Nervion y a la cocinera de sociedad gastronomica en Guipuzcoa como el castellano con el que tratan con las oficinas de fuera mientras viven y trabajan en euskera; y en cada uno de esos oficios se ve quien carga esta lengua comun y quien la siente como frontera con el Estado central.
+Empuja a quien lo habla a sostener dos logicas gramaticales a la vez sin que una borre a la otra, la ergativo-absolutiva del euskera y la nominativo-acusativa del castellano. Y acostumbra el oido a usar le antes que lo cuando se habla de una persona, una senal pequena pero constante del euskera de fondo bajo la lengua castellana que se lleva por encima.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The authority of the island's own tongue: Bajan, the English held here longer than in any other colony and over three centuries made entirely its own. It carries the plain, sharp, dry, level voice of Barbados, grown from the creole the enslaved forged beneath the masters' English, out of the African homeland tongues the cane swallowed. What sounds true on the island is measured against it.
+It has wunna, a dedicated second-person plural pronoun standard English does not, drawn down from West African unu and carried through the creole the enslaved built beneath the planters' speech. It has the preverbal marker does, so a habitual action is stated plainly, he does go, she does say, with no adverb needed to carry the sense of "regularly." And it keeps a rhotic accent, the r sounded hard after a vowel, a trait shared with the West Country English of the indentured servants who settled the island early and with almost no other Caribbean neighbour.
 
 ## Orders
 
-The everyday Bajan register of yard, field and cricket ground: the speech of the road and the rum shop, of the gap and the boundary, the register in which the island talks to itself. It sets the plain, dry, understated way a thing is said among Bajans, the mouth in which not too bad means a great deal more.
+It lets the copula drop where standard English insists on it, she nice, he outside, so a state can be declared without any form of "to be" at all. It forces habitual or repeated action to be marked with does before the verb rather than left to context or a stray adverb. And it leaves plural marking on a noun to be read from context as often as from an added -s, so number is carried by the sentence rather than the word alone.
 
 ## Loses
 
-Ground above to the standard British and American English that hold the page, the courtroom and the wider world, the correct forms against which the dialect is still weighed and sometimes found wanting. And beneath it lie the lost African homeland tongues the cane took from those who built the island, the speech drowned so that this English could become Barbados's own, the silence the dialect grew over.
+It loses the sharp singular/plural marking standard English keeps on the noun itself, so a hearer must sometimes take number from context rather than from the word. It loses standing against the British and American forms held up as correct on the page and in the courtroom, so its dropped copula and its does are still heard by some as error rather than as a grammar of its own. And beneath it lie the West African tongues the plantation took from those who built the island, now surviving only as scattered borrowings, wunna chief among them, inside an English frame.
 
 ## Drives
 
-It drives the island to speak in a voice at once the empire's and entirely its own. It is wielded whole in the plain, sharp English turned to declare the island free, in the everyday Bajan carried onto the world's cricket fields, and in the parliamentary English turned to beat the empire at its own law. And it was forged from below, out of an African-born tongue and the broken creole the enslaved built among themselves, in the forged field-creole from which the island's Bajan grew. So the one tongue shows both what it is put to declare and what first made it.
+It drives whoever grows up in it to mark habitual action by reflex with does before the verb rather than reaching for an adverb of frequency, to hear a dropped copula as plain statement rather than mistake, and to carry wunna forward whenever more than one listener is being addressed, filling a gap standard English leaves open. And it carries a rhotic vowel no other Caribbean tongue nearby shares, marking the voice as Barbados's own the moment it is heard.

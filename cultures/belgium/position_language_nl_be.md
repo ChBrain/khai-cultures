@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Het gezag van het Nederlands zoals het in Vlaanderen geschreven en gesproken wordt, het Vlaams, een van de drie landstalen van het koninkrijk en de moedertaal van de meerderheid. Het houdt de norm van het Nederlands ten noorden van de taalgrens vast, die van de school, het bestuur en de krant: dezelfde taal als in het noorden, met eigen woorden en een eigen kleur, maar gedragen door een volk dat lang moest vechten om zijn eigen taal te mogen tellen. Het is de taal die in 1830 onder het Frans lag en zich sindsdien stap voor stap heeft ontvoogd.
+Het heeft dezelfde grammatica als het Nederlands van boven de grens, het werkwoord op de tweede plaats in de hoofdzin en helemaal achteraan in de bijzin, het onderscheid tussen de- en het-woorden. Maar het draagt daarbovenop een eigen zachte g, een zachte, palatale ademklank waar het noordelijke Nederlands een hardere, verder achterin de keel geschraapte g en ch laat horen. En het houdt gij en ge levend als aanspreekvorm, in het dagelijkse en het kerkelijke register, waar het noorden al lang geleden koos voor jij en je.
 
 ## Orders
 
-Wat als goed Nederlands geldt aan Vlaamse kant, de spelling, het register van het gewestelijk bestuur en de pers. Het schrijft voor wat op het officiële papier ten noorden van de taalgrens komt, en zet de toon van een Vlaams openbaar leven dat volwaardig is en niet langer de mindere taal, onderscheiden maar niet gescheiden van het Nederlands van boven de Moerdijk.
+Het dwingt, zoals overal in het Nederlands, het werkwoord naar de tweede plaats in de hoofdzin en naar het einde in de bijzin, en het dwingt het geslacht dat de- van het-woorden scheidt. En het dwingt, anders dan in het noorden, telkens een keuze tussen de informele tussentaal en de geschreven standaardtaal, een register-beslissing die de Vlaming voortdurend maakt zonder ze als een beslissing te voelen.
 
 ## Loses
 
-Terrein aan het Frans van vroeger, toen de macht en de letteren Frans spraken en het Vlaams beneden zich achtten, een oude wrok die nog nawerkt. En vandaag verliest het aan het Engels van de wereld, dat de jonge Vlaming liever spreekt met een Waal dan diens Frans, zodat de taal die het van het Frans bevrijdt stilaan ook het eigen Nederlands kleiner maakt. Zonder gemeenschappelijke taal wijken beide landshelften uit naar het Engels dat geen van beide bezit.
+Het verloor lang zijn eigen aanzien als taal van het openbare leven zelf, toen het Frans sprak voor recht, school en beschaafd gezelschap en het Vlaams beneden zich gehoord werd, een wonde die woorden voor gezag en beschaving nog altijd kleurt. En het verliest vandaag terrein aan het Engels bij de jongere generatie, die een Franstalige Waal steeds vaker in het Engels antwoordt in plaats van in het Nederlands of het Frans dat men vroeger moest spreken, zodat de vrijheid die de taal won haar elders ook kleiner maakt.
 
 ## Drives
 
-Het duwt Vlaanderen om in zijn eigen taal te leven, ten noorden van de taalgrens, zelfbewust en vrij. Het leeft in wie zijn volk leerde lezen in de taal die men beneden zich achtte en ze tot letterkunde verhief, en het leeft evenzeer in de jonge, welvarende Vlaming van vandaag die zijn hele leven in het Nederlands regelt en liever Engels dan Frans spreekt. Zo wordt de taal van het noorden tegelijk ontvoogding, trots en de scheidslijn die het land in tweeën houdt.
+Het went de Vlaming eraan de zachte g als eigen te horen en de harde g van het noorden als vreemd binnen dezelfde taal. Het brengt hem ertoe gij te gebruiken waar jij te vlak zou klinken, in warmte of in de Bijbeltekst. En het laat hem moeiteloos tussen tussentaal en standaardtaal glijden, zonder die overgang ooit als een keuze te ervaren.

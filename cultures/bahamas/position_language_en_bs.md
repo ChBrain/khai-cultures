@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The authority of the people's own home tongue: the broad Bahamian dialect, the Out Island speech of settlement and sloop, the dropped h and the rolling lilt that is the true voice of the working islands. It holds the standing that no schoolroom grants, the speech a Bahamian is born into and never has to earn, and beneath it lie the African tongues the enslaved carried over and lost into the music and the speech.
+Bahamian speech carries the resources of a Caribbean English Creole: tense and aspect marked by small words placed before an unchanging verb rather than by endings on the verb itself, does for a habitual action, gon for what is about to happen, done for what is already finished, and a rhythm and vocabulary that still hold African-derived words and cadences the standard English above it never absorbed.
 
 ## Orders
 
-The everyday speech of the working islands: the talk of the market and the settlement, the reef and the sloop, the words that name every shoal and current and conch of the shallow banks. It orders how the islands greet, bargain, tease, and mourn, the register of the yard and the dock and the dawn Junkanoo, the plain living speech in which the people are most themselves.
+It forces a choice, sentence by sentence, of how far along the creole-to-standard continuum to pitch the words, since almost the same thought can be said several ways from broad dialect to schooled English; it forces the tense-mood-aspect particles to stack in a fixed order before the verb rather than inside it; and, at the broad end, it forces the copula to drop out of a sentence like 'she nice' where standard English would insert 'is'.
 
 ## Loses
 
-Ground above to the polished colonial and standard English of the assembly and the dispatch box, the schooled tongue that ruled the chamber and could rule the dialect out of order, and to the American English pressing in from the mainland across the water. And beneath, it carries the silence of the African tongues the enslaved forebears bore across and lost on these same cays, the older speech gone under the water that first knew another shore.
+At its broadest it can level a pronoun where standard English keeps a distinction, so that gender that other varieties mark by pronoun has to be recovered from context instead; the polished end of the continuum, needed for the courtroom or the broadcast, cannot carry the compressed, half-sung rhythm of the broad dialect, so something of the feeling is lost whichever end is chosen; and the African-derived words that survive stand mostly alone, the grammars that once carried them did not cross the water with them.
 
 ## Drives
 
-It drives the islands to speak in their own voice even where the schooled tongue holds the floor, and it marks in each of the people the distance between the home speech and the English above it. It lives in the schooled English of the lectern, raised above the island women's dialect spoken for from that height; in the thick Andros dialect that dissolved into half-sung sound where the words gave out; in the settlements' dialect that lay beneath the courtroom English which won the freedom; in the market dialect shouted into the merchant class's polished chamber; and in the Out Island speech of the salvage trade, which names every shoal and needs no mainland English at all.
+Living along a continuum trains an unconscious, constant shifting toward or away from the broad dialect depending on who is listening and what is at stake; and marking time and aspect with a small word placed in front of the verb, rather than by changing the verb, trains the ear to listen for that marker first and the verb's own form second.

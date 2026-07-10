@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Xalqın ana dilinin səlahiyyəti. Bu, aşığın sazının və qəzəlin dili, evin və küçənin gündəlik dili, ilk Azərbaycan komediyalarının yazıldığı dildir. Ana dili olmaq - onun bütün gücü budur: xalq öz ürəyinin sözünü bu dildə deyir, və heç bir başqa dil onun yerini tuta bilməz.
+Azərbaycan dili morfemləri kök üzərinə zəncirvari qoşaraq, hal, mənsubiyyət və şəxs mənasını bir sözün içinə topluya bilir, kökü dəyişmədən; onun sait ahəngi isə hər şəkilçinin saitini əvvəlki hecaya uyğunlaşdırır və dilə özünəməxsus bir musiqi verir. Onun öz latın əlifbası da, ə, ğ, ı və ö kimi hərflərlə, başqa türk dillərinin əlifbalarından fərqlənir.
 
 ## Orders
 
-Xalqın öz dili kimi danışdığı, oxuduğu və yazdığı hər şeyi əmr edir. O müəyyən edir ki, insanlar bir-birinə hansı dildə salam versin, hansı dildə mahnı qoşsun, hansı dildə dərdini və sevincini desin. Bu dil xalqa əmr edir ki, öz sözünü öz dilində qorusun və növbəti nəslə ötürsün.
+Sait ahəngi hər şəkilçinin saitini kökün sait növünə uyğunlaşdırmağı əmr edir, bu qayda demək olar ki, istisnasız işləyir; keçmiş zamanda dil danışandan görüləni eşidilmişdən ayırmağı tələb edir, -dı şəkilçisi şahid olunan keçmişi, -mış şəkilçisi isə eşidilən və ya nəticədən çıxarılan keçmişi bildirir; və söz düzümü felin cümlənin sonunda durmasını, ismin isə önqoşma yerinə qoşmalarla işlənməsini əmr edir.
 
 ## Loses
 
-Tarixən öz əsrinin ədəbi göyü olan fars və ərəb dillərinə yer verir; sonra geniş dünyanın dili kimi rus dilinə, indi isə qlobal ingilis dilinə. Neçə əsr ərzində ən uca sözlər çox vaxt başqa dillərdə deyildi, elm və dövlət başqa dillərdə danışdı. Lakin bütün bunlara baxmayaraq, o hələ də xalqın ürəyinin döyündüyü ana dili olaraq qalır: itmir, sadəcə göylərin altında öz torpağını qoruyur.
+Heç bir cinsi fərq bilmir, "o" əvəzliyi kişi, qadın və əşya üçün eynidir, ona görə cinsi ayırd etmək üçün həmişə əlavə söz və ya bağlamdan asılı qalır; və əsrlər boyu fars, ərəb və rus dillərindən gələn sözlər çox vaxt öz kök sözünün yerini tutub, xüsusən elm və rəsmi dildə.
 
 ## Drives
 
-O, ilk Azərbaycan komediyalarını bu dildə yazan və sözün xalqa daha asan çatmasını arzulayan maarifçidə yaşayır; bütün sərvəti sazdan-saza, ağızdan-ağıza daşınan ana dili olan el ozanında yaşayır; onun sözünü opera səhnəsində musiqiyə qoşan bəstəkarda yaşayır; ana dili türkcə olsa da öz əsrinin ona poemalarını fars dilində yazdırdığı şairdə yaşayır; və onun sözünü muğamla dünyanın qulağına daşıyan ustadda yaşayır. Beləcə bu dil, kimin onu ana dili kimi daşıdığını və kimin onu başqa göylərin altında qoruduğunu göstərir.
+Şəkilçilərin kök üzərinə zəncirlənməsi düşüncəni sözü kökündən başlayıb ucuna doğru qurmağa öyrədir; keçmiş zamanın şahidlik fərqi isə hər hekayəni danışarkən onu özü görüb görmədiyini bildirməyə vadar edir. Sait ahəngi isə qulağı sözü bütöv bir səs kimi, hər şəkilçisi kökə həmahəng, eşitməyə alışdırır.

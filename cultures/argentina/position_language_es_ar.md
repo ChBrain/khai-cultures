@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El español como se habla en la Argentina, el español rioplatense del vos y del che, la lengua de un pueblo venido de todo el mundo y hecho uno solo en la llanura del sur. Trae el habla criolla de la pampa y el acento del puerto, sazonada por la enorme inmigración, sobre todo italiana, que le dejó el lunfardo, la entonación cantada y mil palabras nuevas. Es la lengua en que se canta el tango, se grita el gol y se discute la grieta, el idioma común de una nación de muchos orígenes.
+El rioplatense trae recursos que el español de otras orillas no tiene con la misma fuerza: el voseo, que sustituye el tú por el vos y le da su propia conjugación (vos sos, vos tenés, vos hablás), el sheísmo que convierte la ll y la y en un mismo sonido rozado, y el lunfardo, el vocabulario que dejó la inmigración italiana y que nombra con precisión el barrio, el tango y la calle. Trae también la tonada cantada, la entonación de origen italiano que sube y baja donde el español de otras tierras se mantiene más plano.
 
 ## Orders
 
-Que se hable el español rioplatense, el del vos y no el del tú, con su entonación propia y su lunfardo, como la lengua de la nación entera; que la llaneza del habla del pueblo valga tanto como la lengua pulida de los salones; y que la lengua sepa cargar a la vez la raíz criolla de la llanura y todas las lenguas que trajeron los barcos.
+Obliga a elegir, en cada trato de segunda persona, la forma del vos y su propio verbo, distinta de la del tú y de la del vosotros; obliga, como todo español, a marcar género y número en cada sustantivo y adjetivo, y a elegir el modo subjuntivo cada vez que se habla de duda, deseo o mandato. Y en el habla corriente obliga a aspirar o perder la s final, un rasgo fónico que se impone aunque el hablante no lo note.
 
 ## Loses
 
-Pierde terreno cuando se tiene por menor el habla del pueblo frente a la lengua pulida de los cultos, la misma llaneza que despreciaban en los descamisados; cuando el inglés del mundo global le come lugar; y cuando se olvida que el crisol que la hizo fue el mismo que partió y enriqueció a la nación, el español de todos y de nadie del todo.
+Pierde la distinción tú/usted que otras variantes del español conservan como matiz de trato, porque el vos absorbe el lugar del tú informal; la s aspirada o caída puede borrar en el oído la frontera entre singular y plural; y el lunfardo, tan preciso puertas adentro, se vuelve opaco para el hablante de otras orillas, que oye una palabra y no un significado.
 
 ## Drives
 
-Vive en el mando del libertador criollo, que dio órdenes y proclamas en la lengua del imperio vuelta contra él; en la pasión de la mujer que la volvió el español llano de los descamisados; en la prosa exacta del escritor universal, que la moldeó en literatura del mundo; en el acento de barrio del ídolo popular de la cancha, que nunca lo cambió por el de nadie; y en el viejo habla criolla del gaucho, el español áspero y musical del pasto. Empuja a la Argentina a hablarse a sí misma en el español rioplatense, la lengua de un pueblo hecho uno de muchos.
+La tonada entrena el oído para una música propia del habla, un sube y baja heredado del italiano que no se aprende, se hereda con la lengua misma; el vos entrena la boca para un trato directo, sin el escalón de cortesía que el tú y el usted marcan en otras tierras; y el lunfardo entrena la mente para nombrar lo cotidiano con una palabra propia antes que con la palabra común del idioma entero. Así el rioplatense forma a quien lo habla en una musicalidad y una franqueza que lo distinguen apenas abre la boca.

@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The authority of Alabama's own variety of American English, the Southern-inflected speech of the Yellowhammer State, spoken in an expressive drawl that runs from the Black Belt to the Gulf coast. It is one regional voice of the wider American tongue, carrying the cadences of the church pew and the civil rights meeting hall alongside the fast technical talk of the Huntsville engineers. It holds the plain, direct register in which Alabamians conduct their public and working life, from the community presentation to the propulsion log.
+What English lets an Alabama speaker say that the standard tongue alone cannot: a plural second person minted from scratch, y'all, filling the gap standard English opened when it lost the old thou and ye. Alongside it, fixin' to marks the instant before an action, a fine shade of the immediate future that other tongues must build with a whole clause. English's freedom to turn any noun into a verb and to borrow without limit gives the drawl its easy, descriptive reach, and doubled modals like might could stack certainty on top of possibility in a single breath.
 
 ## Orders
 
-What the state conducts its common life in: the sermon and the exhibition, the safety briefing and the engineering report, the courtroom and the classroom. It orders the shared ground on which the curator of the movement's records and the aerospace engineer of the research corridor address one another and the nation, a single regional speech spanning the historic city and the rocket test stand.
+A fixed subject verb object order, since English has almost no case endings left to signal who does what, so meaning rides on word position rather than on the ends of words. Negation and questions must be built with the auxiliary do, never with the verb alone. And the drawl draws out and breaks the stressed vowel, so a one syllable word can stretch into two, carrying feeling in its length.
 
 ## Loses
 
-Ground when its warm, community-bound cadence is heard as merely provincial beside the clipped, technical register of the aerospace corridor, so that the patient rhythm of civil rights organizing sounds slow against the fast talk of the labs; and ground when the plain regional voice is flattened toward a generic corporate English that carries none of the state's memory.
+There is no separate word for you singular against you plural, only the makeshift y'all, so a listener must lean on context where other tongues would simply choose a different pronoun. The drawl's merging of vowels before n, so pin and pen sound alike, collapses a distinction other dialects keep apart. And when the plain, warm cadence is heard as merely careless beside a clipped standard, its own logic goes unheard.
 
 ## Drives
 
-It is the mother tongue of the Montgomery curator who speaks, hears, and thinks in the expressive Southern cadence of the movement's records, and of the Huntsville engineer whose fast technical drawl is the same regional tongue turned to the propulsion log. It drives Alabama to hold its historic and its high-technology voices as one speech, so that the meeting hall and the test stand answer each other in the same Alabama English.
+It drives the one who speaks it to lean on word order and helping verbs rather than endings to carry meaning, and to reach for y'all the instant more than one listener is meant. It teaches the ear to stretch a vowel to carry warmth or emphasis that a shorter tongue would need a whole extra word to say. And it habituates the speaker to build tense and intention out of strings of small words, fixing to, going to, used to could, rather than out of a single inflected form.
