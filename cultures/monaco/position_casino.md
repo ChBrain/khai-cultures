@@ -34,4 +34,4 @@ De son éclat si la concurrence des places financières ou d'autres centres de j
 
 ## Drives
 
-Définit le cadre professionnel de [Sophie](persona_sophie.md) und incarne le renouveau économique décrit dans [L'inauguration du Casino de Monte-Carlo 1863](plot_03_tourisme_casino.md).
+Définit le cadre professionnel des conseillers en gestion de fortune et incarne le renouveau économique décrit dans [L'inauguration du Casino de Monte-Carlo 1863](plot_03_tourisme_casino.md).

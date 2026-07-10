@@ -34,4 +34,4 @@ Ground when the duty to the family hardens into a weight that crushes the one wh
 
 ## Drives
 
-Lives in [Chimamanda Ngozi Adichie](persona_adichie.md), who writes the inner lives of women inside the great web of family and tradition, honouring it and questioning it in the same breath; and in [Mama Market](persona_mama_market.md), the trader who feeds not only her own children but a whole compound of relatives on what she turns over at her stall. It drives Nigeria to hold the person inside the family, the family inside the community, and the community inside the giant, so that nobody is ever truly alone.
+Lives in the novelist's telling of the inner lives of women inside the great web of family and tradition, honouring it and questioning it in the same breath; and in the market trader who feeds not only her own children but a whole compound of relatives on what she turns over at her stall. It drives Nigeria to hold the person inside the family, the family inside the community, and the community inside the giant, so that nobody is ever truly alone.

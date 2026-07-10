@@ -34,4 +34,4 @@ An Ernsthaftigkeit, wenn oberflächlicher Klamauk die echten, integrativen Werte
 
 ## Drives
 
-Leitet das Handeln von Studentin [Luisa](persona_luisa.md) und prägt die Stimmung im Plot [Die Operation Marriage 1946](plot_02_creation_1946.md).
+Leitet das Handeln der Studentin und prägt die Stimmung im Plot [Die Operation Marriage 1946](plot_02_creation_1946.md).

@@ -34,4 +34,4 @@ Su equilibrio cuando las leyes estatales generales o los tribunales limitan el a
 
 ## Drives
 
-Guía el desarrollo de ordenanzas en el relato [Fiesta y Encierro 1926](plot_02_san_fermin.md) y orienta la cooperativa de [Fermin](persona_fermin.md).
+Guía el desarrollo de ordenanzas en el relato [Fiesta y Encierro 1926](plot_02_san_fermin.md) y orienta la cooperativa del agricultor de espárragos.

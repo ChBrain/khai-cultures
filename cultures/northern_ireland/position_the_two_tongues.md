@@ -34,4 +34,4 @@ Ground as both heritage tongues stay minority and symbolic while the shared Engl
 
 ## Drives
 
-It lives in [Niamh](persona_niamh.md)'s Irish and [Davy](persona_davy.md)'s Ulster-Scots, each a badge of belonging held with pride and no ill will, and it drives the province to read a side into every word, so that even at [Derry/Londonderry](place_derry_londonderry.md) the name itself is a choosing.
+It lives in the Irish spoken as one community's badge of belonging and the Ulster-Scots spoken as the other's, each held with pride and no ill will, and it drives the province to read a side into every word, so that even at [Derry/Londonderry](place_derry_londonderry.md) the name itself is a choosing.

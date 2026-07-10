@@ -34,4 +34,4 @@ Its balance when excessive state-wide zoning mandates override local county deci
 
 ## Drives
 
-Guides the pioneer migrations in the plot [The Oregon Trail Migration 1840](plot_01_oregon_trail.md) and drives the ranching operations of [John](persona_john.md).
+Guides the pioneer migrations in the plot [The Oregon Trail Migration 1840](plot_01_oregon_trail.md) and drives the ranching operations of the rancher.

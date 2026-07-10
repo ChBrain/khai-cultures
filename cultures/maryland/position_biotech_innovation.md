@@ -34,4 +34,4 @@ Its balance when corporate research priorities compromise public access to medic
 
 ## Drives
 
-Encourages the scientific verification in the plot [The Maryland Toleration Act 1649](plot_01_toleration_act.md) and guides the laboratory research of [David](persona_david.md).
+Encourages the scientific verification in the plot [The Maryland Toleration Act 1649](plot_01_toleration_act.md) and guides the laboratory research of the state's biotech researchers.

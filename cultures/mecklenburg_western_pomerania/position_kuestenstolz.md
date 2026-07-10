@@ -34,4 +34,4 @@ An Bedeutung, wenn die Jugend die Küstenorte verlässt oder der Tourismus den e
 
 ## Drives
 
-Bestimmt das Selbstbewusstsein im Plot [Das neue Bundesland im Nordosten 1990](plot_03_reunification_1990.md) und lenkt das Handeln von Fischer [Hinnerk](persona_hinnerk.md).
+Bestimmt das Selbstbewusstsein im Plot [Das neue Bundesland im Nordosten 1990](plot_03_reunification_1990.md) und lenkt das Handeln der Fischer an der Küste.

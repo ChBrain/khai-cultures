@@ -34,4 +34,4 @@ Ground when the wonders are emptied out to spectacle - the city and the discs co
 
 ## Drives
 
-Lives in [the Nahnmwarki](persona_the_nahnmwarki.md), the Pohnpeian paramount chief whose line runs back to the builders of Nan Madol, and in [the Yapese stone holder](persona_the_yapese_stone_holder.md), who keeps the rai and the history that gives each disc its worth. It drives the Federated States of Micronesia to stand on its old achievement and to carry the knowledge in the stone forward as a living inheritance.
+Lives in the Nahnmwarki, the Pohnpeian paramount chief whose line runs back to the builders of Nan Madol, and in the Yapese stone holder, who keeps the rai and the history that gives each disc its worth. It drives the Federated States of Micronesia to stand on its old achievement and to carry the knowledge in the stone forward as a living inheritance.

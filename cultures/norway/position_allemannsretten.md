@@ -34,4 +34,4 @@ Grunn, der den frie ferdselen sliter på naturen den skulle verne, eller blir ta
 
 ## Drives
 
-Den lever i [Sondre](persona_sondre.md), som går ut i fjellet som det helt selvsagte, og den bærer [Fridtjof Nansen](persona_nansen.md)s friluftsliv som en folkelig rett alle deler.
+Den lever i alle som går ut i fjellet som det helt selvsagte, og den bærer friluftslivet, arven etter dem som gjorde naturferdselen til en nasjonal stolthet, som en folkelig rett alle deler.

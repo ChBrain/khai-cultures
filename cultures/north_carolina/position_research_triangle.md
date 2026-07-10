@@ -34,4 +34,4 @@ Its balance when corporate pharmaceutical interests prioritize patent profits ov
 
 ## Drives
 
-Guides the scientific design in the plot [The Research Triangle Park Founding](plot_03_research_triangle.md) and drives the biotech research of [Ethan](persona_ethan.md).
+Guides the scientific design in the plot [The Research Triangle Park Founding](plot_03_research_triangle.md) and drives the biotech research carried out by the region's scientists.

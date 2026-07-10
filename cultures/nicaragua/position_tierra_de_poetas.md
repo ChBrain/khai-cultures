@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La conviccion de que Nicaragua es, antes que cualquier otra cosa, una nacion de poetas. De esta tierra chiquita salio Ruben Dario, que renovo el verso castellano y se hizo la voz mas alta de la lengua espanola, y detras de el una estirpe que no se ha cortado: aqui la poesia es asunto de todos, orgullo nacional y hasta forma de hablar, porque el nica habla cantadito. El don de Dario quedo de herencia comun, de modo que el pais que fue invadido y partido tantas veces se sabe, asi y todo, grande por su palabra.
+La conviccion de que Nicaragua es, antes que cualquier otra cosa, una nacion de poetas. De esta tierra chiquita salio el principe de las letras castellanas, que renovo el verso castellano y se hizo la voz mas alta de la lengua espanola, y detras de el una estirpe que no se ha cortado: aqui la poesia es asunto de todos, orgullo nacional y hasta forma de hablar, porque el nica habla cantadito. Ese don quedo de herencia comun, de modo que el pais que fue invadido y partido tantas veces se sabe, asi y todo, grande por su palabra.
 
 ## Orders
 
@@ -30,8 +30,8 @@ Que la palabra dicha y escrita se tenga por lo mas alto, que el verso sea cosa d
 
 ## Loses
 
-Terreno cuando la gloria de las letras se vuelve adorno para tapar lo demas: cuando recitar a Dario sirve para no ver la pobreza ni la division, o cuando el orgullo del verso se encierra en el Pacifico hispano y se olvida de que hay otra Nicaragua, la del Caribe, cuyas voces no caben en la lengua de los poetas del centro.
+Terreno cuando la gloria de las letras se vuelve adorno para tapar lo demas: cuando recitar sus versos sirve para no ver la pobreza ni la division, o cuando el orgullo del verso se encierra en el Pacifico hispano y se olvida de que hay otra Nicaragua, la del Caribe, cuyas voces no caben en la lengua de los poetas del centro.
 
 ## Drives
 
-La encarna [Ruben Dario](persona_ruben_dario.md), principe de las letras castellanas y padre del modernismo, que le dio al pais su nombre en el mundo, y la lleva adelante [Ernesto Cardenal](persona_ernesto_cardenal.md), el poeta sacerdote de Solentiname, que hizo del verso oracion y comunidad. Entre los dos sostienen la certeza de que Nicaragua es, ante todo, tierra de poetas.
+La encarna el principe de las letras castellanas, padre del modernismo, que le dio al pais su nombre en el mundo, y la lleva adelante el poeta sacerdote de Solentiname, que hizo del verso oracion y comunidad. Entre los dos sostienen la certeza de que Nicaragua es, ante todo, tierra de poetas.

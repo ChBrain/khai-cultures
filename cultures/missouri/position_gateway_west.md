@@ -34,4 +34,4 @@ Its balance when excessive municipal wastewater pollution disrupts local river e
 
 ## Drives
 
-Guides the pioneer transit projects in the plot [The Missouri Compromise 1820](plot_01_missouri_compromise.md) and drives the navigation operations of [Clara](persona_clara.md).
+Guides the pioneer transit projects in the plot [The Missouri Compromise 1820](plot_01_missouri_compromise.md) and drives the river navigation operations that keep freight and travelers moving, the pilot's craft of reading current and channel.

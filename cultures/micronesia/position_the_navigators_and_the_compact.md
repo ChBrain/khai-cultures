@@ -34,4 +34,4 @@ Ground when the lifeline turns into a leash - when leaning on the Compact hollow
 
 ## Drives
 
-Lives in [Mau Piailug](persona_mau_piailug.md), the master navigator who would not let the wayfinding die and gave it back to the Pacific and to the world. It drives the Federated States of Micronesia to keep both its reaches open - the old knowledge of the sea and the modern partnership across it - and to meet the wide ocean as its own people always have.
+Lives in the master navigator who would not let the wayfinding die and gave it back to the Pacific and to the world. It drives the Federated States of Micronesia to keep both its reaches open - the old knowledge of the sea and the modern partnership across it - and to meet the wide ocean as its own people always have.

@@ -34,4 +34,4 @@ Eb me eo aiwo eko eb me eo aen me eb tongin n ekege eko eb me eo aiwo eko engame
 
 ## Drives
 
-Eb mo'ui n [te tia itsibwij](persona_te_tia_itsibwij.md), eb me eo aen me eb itsibwij me itsibwij me ekege eko eb tomure aiwo, ma n [te eo](persona_te_eo.md), eb me eo aen me eb tomure me eb custom n eb tongin n ekege. Eb me eo aiwo eko Naoero eko engame eb tomure aiwo me eb faith me eb dorerin me eb me eo aen.
+Eb mo'ui n te tia itsibwij, eb me eo aen me eb itsibwij me itsibwij me ekege eko eb tomure aiwo, ma n te eo, eb me eo aen me eb tomure me eb custom n eb tongin n ekege. Eb me eo aiwo eko Naoero eko engame eb tomure aiwo me eb faith me eb dorerin me eb me eo aen.

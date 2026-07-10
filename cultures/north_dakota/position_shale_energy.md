@@ -34,4 +34,4 @@ Its balance when global crude oil price drops cause sudden industry shutdowns, f
 
 ## Drives
 
-Guides the drilling technology in the plot [The Bakken Shale Oil Boom 2000](plot_03_bakken_oil.md) and drives the drilling operations of [Lincoln](persona_lincoln_nd.md).
+Guides the drilling technology in the plot [The Bakken Shale Oil Boom 2000](plot_03_bakken_oil.md) and drives the drilling operations run by the region's oil workers.

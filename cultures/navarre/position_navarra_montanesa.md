@@ -34,4 +34,4 @@ Su equilibrio cuando los decretos del gobierno foral centralizado de Pamplona li
 
 ## Drives
 
-Guía el desarrollo territorial en el relato [La Batalla de Roncesvalles 778](plot_01_roncesvalles.md) y orienta la guardería forestal de [Ane](persona_ane.md).
+Guía el desarrollo territorial en el relato [La Batalla de Roncesvalles 778](plot_01_roncesvalles.md) y orienta la guardería forestal de la guarda forestal.

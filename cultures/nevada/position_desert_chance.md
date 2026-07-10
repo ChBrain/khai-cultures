@@ -34,4 +34,4 @@ Its balance when excessive commercial speculation leads to corporate consolidati
 
 ## Drives
 
-Guides the casino operations in the plot [The Gaming Legalization Act 1931](plot_02_gaming_legalization.md) and drives the table work of [Jack](persona_jack.md).
+Guides the casino operations in the plot [The Gaming Legalization Act 1931](plot_02_gaming_legalization.md) and drives the table work of the dealer.

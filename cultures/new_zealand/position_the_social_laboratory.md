@@ -34,4 +34,4 @@ Ground when the fair go thins to a slogan while inequality widens beneath it, wh
 
 ## Drives
 
-Lives in [Kate Sheppard](persona_sheppard.md), who led the suffrage campaign that made New Zealand the first to give women the vote, and in [the Kiwi](persona_the_kiwi.md), the modest, practical everyperson who backs the underdog and asks only for a fair go. It drives Aotearoa New Zealand to keep the field level and the floor beneath its people, and to keep being the country that tries the decent thing first.
+Lives in the suffragist who led the campaign that made New Zealand the first to give women the vote, and in the Kiwi, the modest, practical everyperson who backs the underdog and asks only for a fair go. It drives Aotearoa New Zealand to keep the field level and the floor beneath its people, and to keep being the country that tries the decent thing first.

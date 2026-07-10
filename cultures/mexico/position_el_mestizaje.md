@@ -34,4 +34,4 @@ Terreno cuando el festejo se vuelve tapadera -cuando se recita lo de la raza có
 
 ## Drives
 
-Vive en [La Malinche](persona_la_malinche.md), la lengua parada en la costura exacta donde los dos mundos se platicaron por primera vez y la madre de uno de los primeros hijos mestizos, la mezcla hecha cuerpo en una sola mujer; y en [el mestizo](persona_el_mestizo.md), el hijo de dos mundos que carga las dos mitades y la pérdida que hay entre ellas. Empuja a México a seguirse midiendo contra la promesa de la mezcla y a seguir honrando la mitad que enterró a medias.
+Vive en la lengua parada en la costura exacta donde los dos mundos se platicaron por primera vez y la madre de uno de los primeros hijos mestizos, la mezcla hecha cuerpo en una sola mujer; y en el mestizo, el hijo de dos mundos que carga las dos mitades y la pérdida que hay entre ellas. Empuja a México a seguirse midiendo contra la promesa de la mezcla y a seguir honrando la mitad que enterró a medias.

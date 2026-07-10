@@ -34,4 +34,4 @@ Tlo gubi kad se kamen okrene u zatvorenost i siromaštvo iz koga se bježi: isel
 
 ## Drives
 
-Živi u [Mileni](persona_milena.md), gorskoj ženi kamene kuće, gusala i ratničkih sinova, koja goru i vjeru drži kad drugi odlaze. Goni Crnu Goru da sačuva gorsku slobodu i kamen kao žive korijene, a uz njih i jadransku obalu, da krš ostane svetinja, a ne pusta kulisa.
+Živi u gorskoj ženi kamene kuće, gusala i ratničkih sinova, koja goru i vjeru drži kad drugi odlaze. Goni Crnu Goru da sačuva gorsku slobodu i kamen kao žive korijene, a uz njih i jadransku obalu, da krš ostane svetinja, a ne pusta kulisa.

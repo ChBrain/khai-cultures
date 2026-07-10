@@ -34,4 +34,4 @@ Terreno cuando el Pacifico habla por todos y se olvida del Caribe: cuando "Nicar
 
 ## Drives
 
-La encarna [el costeno miskito](persona_el_costeno_miskito.md), el hombre del Caribe que vive la otra Nicaragua, la de la lengua propia y el mar, y que le recuerda al centro que el pais tiene dos costas y no una. En el habla la vertiente que el Pacifico suele dejar en el olvido.
+La encarna el costeno miskito, el hombre del Caribe que vive la otra Nicaragua, la de la lengua propia y el mar, y que le recuerda al centro que el pais tiene dos costas y no una. En el habla la vertiente que el Pacifico suele dejar en el olvido.

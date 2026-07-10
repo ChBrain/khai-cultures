@@ -34,4 +34,4 @@ Its balance when prolonged regional drought reduces river flow limits, causing w
 
 ## Drives
 
-Guides the wilderness protection in the plot [The Comstock Lode Discovery 1859](plot_01_comstock_lode.md) and drives the solar engineering of [Elena](persona_elena.md).
+Guides the wilderness protection in the plot [The Comstock Lode Discovery 1859](plot_01_comstock_lode.md) and drives the solar engineering of the solar engineer.

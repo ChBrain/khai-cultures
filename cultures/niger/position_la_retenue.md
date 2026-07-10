@@ -34,4 +34,4 @@ Du terrain quand le respect dû à l'âge et au rang pèse au point de faire tai
 
 ## Drives
 
-Vit dans [Boubou Hama](persona_boubou_hama.md), le sage qui écoutait les anciens jusqu'au bout avant d'écrire, et qui a fait du respect de la parole transmise l'assise des lettres du pays. Elle pousse le Niger à mesurer la grandeur des hommes à leur retenue, et à garder dans la patience et le respect le ciment qui tient ensemble ses peuples et ses générations.
+Elle vit dans la sagesse qui écoute les anciens jusqu'au bout avant d'écrire, et qui a fait du respect de la parole transmise l'assise des lettres du pays. Elle pousse le Niger à mesurer la grandeur des hommes à leur retenue, et à garder dans la patience et le respect le ciment qui tient ensemble ses peuples et ses générations.

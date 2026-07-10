@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Junaštvo tempirano čojstvom: kodeks gorskih ratnika plemena, u kome hrabrost u boju (junaštvo) ne vrijedi bez ljudskosti i časti (čojstvo). Junaštvo je braniti sebe od drugoga, čojstvo je braniti drugoga od sebe. Stoljećima na kamenu, gdje se opstajalo s puškom u ruci, narod je izdigao obraz i čast nad sam život, a Njegoš je taj ideal sažeo u stih, a Marko Miljanov ga zapisao u priče.
+Junaštvo tempirano čojstvom: kodeks gorskih ratnika plemena, u kome hrabrost u boju (junaštvo) ne vrijedi bez ljudskosti i časti (čojstvo). Junaštvo je braniti sebe od drugoga, čojstvo je braniti drugoga od sebe. Stoljećima na kamenu, gdje se opstajalo s puškom u ruci, narod je izdigao obraz i čast nad sam život, a vladika-pjesnik je taj ideal sažeo u stih, dok ga je star ratnik-glavar, koji je u starosti naučio slova, zapisao u priče.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Tlo gubi tamo gdje junaštvo ostane bez čojstva: gola sila, krvna osveta i tvrd
 
 ## Drives
 
-Živi u [Njegošu](persona_njegos.md), koji je junaštvo i čojstvo uzdigao u stih i u vrhovni spjev nacije, i u [Marku Miljanovu](persona_marko_miljanov.md), ratniku-glavaru koji je star naučio slova da bi taj kodeks zapisao. Goni Crnu Goru da junaštvo i čojstvo prenese s plemena u građansku čast, da brani obraz a ne da gola sila i inat presude.
+Živi u vladici-pjesniku koji je junaštvo i čojstvo uzdigao u stih i u vrhovni spjev nacije, i u ratniku-glavaru koji je star naučio slova da bi taj kodeks zapisao. Goni Crnu Goru da junaštvo i čojstvo prenese s plemena u građansku čast, da brani obraz a ne da gola sila i inat presude.
