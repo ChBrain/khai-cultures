@@ -50,6 +50,7 @@ A nation that began with nothing the world calls wealth: no land to spare, no oi
 - [multiracial harmony](position_multiracial_harmony.md)
 - [pragmatism and meritocracy](position_pragmatism.md)
 - [the global port-city](position_the_port_city.md)
+- [Singaporean English](position_language_en_sg.md)
 
 **Pieces**
 

@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Yirmi bir yaşında Konstantinopolis'i alıp şehri Osmanlı'nın iki kıta üstündeki başkenti yapan, Roma'nın mirasını "Kayser-i Rum" unvanıyla üstlenen fatih. Kararlı, soğukkanlı, hem savaşçı hem âlim; toplara ve haritalara olduğu kadar şiire ve felsefeye de düşkün. Türkçeyi bozkırdan getirdiği ana dili olarak [konuşur, düşünür ve yazar](process_speaking_mother_tongue.md), ama "Avni" mahlasıyla [Farsça da divan yazacak kadar onu taşır](process_speaking_carried.md); imanın dili Arapçayı [namazda ezbere söyler](process_speaking_borrowed.md), aldığı Yunan şehrinin Rumcasıyla Latinceyi ise bilginlerinden [dinleyerek ve okutarak izler](process_reading_followed.md). Bozkırın Türkçesini iki kıta üstüne taşıyıp Roma'nın tahtına oturan, ama imanını anlamadan andığı bir dilde eden fatih - dilin sınırında açılan boşluk.
+Yirmi bir yaşında Konstantinopolis'i alıp şehri Osmanlı'nın iki kıta üstündeki başkenti yapan, Roma'nın mirasını "Kayser-i Rum" unvanıyla üstlenen fatih. Kararlı, soğukkanlı, hem savaşçı hem âlim; toplara ve haritalara olduğu kadar şiire ve felsefeye de düşkün. [Türk dilini](position_language_tr_tr.md) bozkırdan getirdiği ana dili olarak [konuşur, düşünür ve yazar](process_speaking_mother_tongue.md), ama "Avni" mahlasıyla [Farsça da divan yazacak kadar onu taşır](process_speaking_carried.md); imanın dili Arapçayı [namazda ezbere söyler](process_speaking_borrowed.md), aldığı Yunan şehrinin Rumcasıyla Latinceyi ise bilginlerinden [dinleyerek ve okutarak izler](process_reading_followed.md). Bozkırın Türkçesini iki kıta üstüne taşıyıp Roma'nın tahtına oturan, ama imanını anlamadan andığı bir dilde eden fatih - dilin sınırında açılan boşluk.
 
 ## Action
 

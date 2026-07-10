@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-six-year-old medical device engineer in Minneapolis. English, spoken with an articulate, fast-paced cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her technical briefs. She speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent forest talk of wilderness guides like Lars and the traditional water histories of the northern reserves [she hears only like a distant echo](process_hearing_followed.md), feeling that the physical legacy of the land is treated as a secondary constraint in the race for technological medical breakthroughs.
+A thirty-six-year-old medical device engineer in Minneapolis. English, spoken with an articulate, fast-paced cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her technical briefs. It is the [Minnesotan English](position_language_en_us_mn.md) of the Minneapolis cleanroom, the articulate, fast-paced cadence of the medical-alley floor. She speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent forest talk of wilderness guides like Lars and the traditional water histories of the northern reserves [she hears only like a distant echo](process_hearing_followed.md), feeling that the physical legacy of the land is treated as a secondary constraint in the race for technological medical breakthroughs.
 
 ## Action
 

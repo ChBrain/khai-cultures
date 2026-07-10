@@ -48,7 +48,7 @@ Rai-ki'ik iha arkipelagu nia rohan loron-sa'e, ne'ebe sente an antigu liu fali n
 **Positions**
 
 - [lulik](position_lulik.md)
-- [lia-tetun](position_tetum.md)
+- [lia-tetun](position_language_tet.md)
 - [dalan naruk ba ukun-rasik-an](position_dalan.md)
 
 **Pieces**
@@ -84,4 +84,4 @@ Iha tinan 2002 iha [Dili](place_dili.md), nasaun restaura nia independensia, no 
 
 ## Stakes
 
-Karik rai-ki'ik ne'ebe liu ona dalan naruk no todan ba ukun-rasik-an, no nia lori istoria todan ho honra deit, bele sustenta [lulik](position_lulik.md) no fiar nia haket, hatutan [lia-tetun](position_tetum.md) nu'udar lian hamutuk entre lian barak, no harii nasaun foun ho hakmatek no terus-naruk, ka karik diferensa no kabun-hamlaha bele halo nia haluha buat ne'ebe nia hetan ho terus boot iha dalan naruk.
+Karik rai-ki'ik ne'ebe liu ona dalan naruk no todan ba ukun-rasik-an, no nia lori istoria todan ho honra deit, bele sustenta [lulik](position_lulik.md) no fiar nia haket, hatutan [lia-tetun](position_language_tet.md) nu'udar lian hamutuk entre lian barak, no harii nasaun foun ho hakmatek no terus-naruk, ka karik diferensa no kabun-hamlaha bele halo nia haluha buat ne'ebe nia hetan ho terus boot iha dalan naruk.

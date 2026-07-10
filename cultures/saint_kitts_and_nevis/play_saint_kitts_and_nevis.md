@@ -50,6 +50,7 @@ Long before the sail come, the Kalinago held these isles and called the big one 
 - [the Mother Colony and the sugar cradle](position_the_mother_colony_and_the_sugar_cradle.md)
 - [the labour nation and the federation](position_the_labour_nation_and_the_federation.md)
 - [small islands, wide sons](position_small_islands_wide_sons.md)
+- [the Kittitian-Nevisian tongue](position_language_en_kn.md)
 
 **Pieces**
 

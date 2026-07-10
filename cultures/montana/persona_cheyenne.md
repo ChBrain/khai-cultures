@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old tribal coordinator in Crow Agency. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of mine historians like Clark and the digital demands of mining boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river ecosystem restoration is treated as secondary to corporate copper exports and speedway logistics.
+A fifty-two-year-old tribal coordinator in Crow Agency. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. It is the [Montanan English](position_language_en_us_mt.md) of Crow Agency, the prairie drawl of the reservation office. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of mine historians like Clark and the digital demands of mining boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river ecosystem restoration is treated as secondary to corporate copper exports and speedway logistics.
 
 ## Action
 

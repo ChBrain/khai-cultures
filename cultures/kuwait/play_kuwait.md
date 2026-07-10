@@ -50,6 +50,7 @@ stamp:
 - [البحر](position_the_sea.md)
 - [الديوانية](position_majlis.md)
 - [الكرم](position_hospitality.md)
+- [العربية](position_language_ar_kw.md)
 
 **Pieces**
 

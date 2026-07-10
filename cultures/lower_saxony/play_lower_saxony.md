@@ -46,6 +46,7 @@ Ein ausgedehntes Flächenland, das 1946 durch die Zusammenlegung der historische
 - [die Bodenständigkeit](position_bodenstaendigkeit.md)
 - [die Industrie](position_industrie.md)
 - [die Küstenkultur](position_kuestenkultur.md)
+- [das niedersächsische Hochdeutsch](position_language_de_de_ni.md)
 
 **Pieces**
 

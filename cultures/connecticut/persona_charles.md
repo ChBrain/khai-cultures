@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old quality inspector in Groton. English, spoken with a New England cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily mechanical checks. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of financial analysts like Abigail and the quiet history of [constitutional order](position_constitutional_order.md) [he reads only as administrative updates](process_reading_followed.md) on his workstation, feeling that the patient, law-protecting rhythm of early town meetings is being forgotten in the race for modern naval defense technology.
+A thirty-eight-year-old quality inspector in Groton. English, the [Connecticut English](position_language_en_us_ct.md) spoken with a New England cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily mechanical checks. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of financial analysts like Abigail and the quiet history of [constitutional order](position_constitutional_order.md) [he reads only as administrative updates](process_reading_followed.md) on his workstation, feeling that the patient, law-protecting rhythm of early town meetings is being forgotten in the race for modern naval defense technology.
 
 ## Action
 

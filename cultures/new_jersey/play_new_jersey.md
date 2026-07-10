@@ -46,6 +46,7 @@ A land of industrial innovation and coastal relaxation, defined by its transport
 
 - [Garden State](position_garden_state.md)
 - [industrial turnpike](position_industrial_turnpike.md)
+- [New Jersey English](position_language_en_us_nj.md)
 
 **Pieces**
 

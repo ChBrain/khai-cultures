@@ -50,6 +50,7 @@ Sa qai vakatekivu na italanoa ena iTaukei, ko ira na taukei ni vanua era a soko 
 - [na vanua kei na turaga](position_na_vanua_kei_na_turaga.md)
 - [na lewe rua](position_na_lewe_rua.md)
 - [na wasawasa kei na yaqona](position_na_wasawasa_kei_na_yaqona.md)
+- [na vosa vakaViti](position_language_fij.md)
 
 **Pieces**
 

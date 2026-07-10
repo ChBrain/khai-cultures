@@ -50,6 +50,7 @@ stamp:
 - [धर्म](position_dharma.md)
 - [हिमाल](position_himal.md)
 - [जात र भाषा](position_jat_bhasa.md)
+- [नेपाली भाषा](position_language_ne.md)
 
 **Pieces**
 

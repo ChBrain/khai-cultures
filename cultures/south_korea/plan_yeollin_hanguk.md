@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-이 나라가 스스로에게 건 열린 과제. 같은 말을 쓰는 한 겨레가 둘로 나뉜 [한](position_han_jeong.md)을 어느 한쪽 편에 서지 않고 풀어 가고, 한 세대 만에 이룬 빠름 속에서도 [유교와 가족](position_yugyo.md)의 정을 잃지 않으며, 제 손으로 지은 [한글](position_hangeul.md)과 온 세상에 닿은 가락을 그 깊이와 함께 지켜 나가는 일이다.
+이 나라가 스스로에게 건 열린 과제. 같은 말을 쓰는 한 겨레가 둘로 나뉜 [한](position_han_jeong.md)을 어느 한쪽 편에 서지 않고 풀어 가고, 한 세대 만에 이룬 빠름 속에서도 [유교와 가족](position_yugyo.md)의 정을 잃지 않으며, 제 손으로 지은 [한글](position_language_ko_kr.md)과 온 세상에 닿은 가락을 그 깊이와 함께 지켜 나가는 일이다.
 
 ## Owner
 

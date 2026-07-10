@@ -50,6 +50,7 @@ stamp:
 - [พระพุทธศาสนา](position_phra_phutthasasana.md)
 - [น้ำใจ](position_nam_chai.md)
 - [เอกราช](position_ekkarat.md)
+- [ภาษาไทย](position_language_th.md)
 
 **Pieces**
 

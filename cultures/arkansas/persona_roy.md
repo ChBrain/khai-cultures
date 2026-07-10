@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old logistics planner in Bentonville. English, spoken with a technical cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily supply chain metrics. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of civil rights archivists like Daisy and the quiet history of [ozark heritage](position_ozark_heritage.md) [he reads only as regional resource updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant preservation of early mountain communities is being forgotten in the race for high-volume retail distribution.
+A thirty-eight-year-old logistics planner in Bentonville. [Arkansan English](position_language_en_us_ar.md), spoken with a technical cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily supply chain metrics. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of civil rights archivists like Daisy and the quiet history of [ozark heritage](position_ozark_heritage.md) [he reads only as regional resource updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant preservation of early mountain communities is being forgotten in the race for high-volume retail distribution.
 
 ## Action
 

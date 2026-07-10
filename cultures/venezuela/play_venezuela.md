@@ -50,6 +50,7 @@ Una tierra que fue pueblo indígena y luego colonia española, asomada al Caribe
 - [el bolivarianismo](position_el_bolivarianismo.md)
 - [el alma llanera](position_el_alma_llanera.md)
 - [el petroestado](position_el_petroestado.md)
+- [el español venezolano](position_language_es_ve.md)
 
 **Pieces**
 

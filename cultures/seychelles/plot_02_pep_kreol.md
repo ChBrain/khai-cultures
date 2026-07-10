@@ -26,7 +26,7 @@ Apre bann premye lakanpman, plis dimoun i kontinyen vini lo bann zil: bann trava
 
 ## Action
 
-Sorti dan sa melanz i tise en nouvo pep ek en nouvo langaz. Bann fil sorti Lafrik, Lend, Lasin, ek Lewop i fonn dan [Lasosyasyon](position_lasosyasyon.md) en sel Seselwa, en pep ki napa ti egziste avan. Dan lakaz ek dan zarden i ne [Kreol](position_kreol.md), en langaz baze lo franse me brode avek son ek mo sorti partou, ki tou dimoun i partaze. E dan ladiservite ek ladirte i ne [moutya](process_moutya.md) ek sega, en danse ek en tanbour ki bann ansyen ti sant zot soufrans ek zot lespwar ladan. Sa se nesans en pep kreol: pa par konket ni par lwa, me par dimoun ki'n bezwen viv ansanm e ki'n tise en nouvo lavi sorti tou zot rasin.
+Sorti dan sa melanz i tise en nouvo pep ek en nouvo langaz. Bann fil sorti Lafrik, Lend, Lasin, ek Lewop i fonn dan [Lasosyasyon](position_lasosyasyon.md) en sel Seselwa, en pep ki napa ti egziste avan. Dan lakaz ek dan zarden i ne [Kreol](position_language_crs.md), en langaz baze lo franse me brode avek son ek mo sorti partou, ki tou dimoun i partaze. E dan ladiservite ek ladirte i ne [moutya](process_moutya.md) ek sega, en danse ek en tanbour ki bann ansyen ti sant zot soufrans ek zot lespwar ladan. Sa se nesans en pep kreol: pa par konket ni par lwa, me par dimoun ki'n bezwen viv ansanm e ki'n tise en nouvo lavi sorti tou zot rasin.
 
 ## Stage
 

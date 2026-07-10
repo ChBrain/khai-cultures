@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandatu ne'ebe nasaun foun tau ba an rasik depois restaurasaun: servisu naruk atu sustenta [lulik](position_lulik.md) no fiar hanesan haket ba povu, atu hatutan [lia-tetun](position_tetum.md) nu'udar lian hamutuk entre lian barak, no atu lori [dalan naruk ba ukun-rasik-an](position_dalan.md) nia memoria todan ho honra, nu'udar hun ba dame, la ba odi.
+Mandatu ne'ebe nasaun foun tau ba an rasik depois restaurasaun: servisu naruk atu sustenta [lulik](position_lulik.md) no fiar hanesan haket ba povu, atu hatutan [lia-tetun](position_language_tet.md) nu'udar lian hamutuk entre lian barak, no atu lori [dalan naruk ba ukun-rasik-an](position_dalan.md) nia memoria todan ho honra, nu'udar hun ba dame, la ba odi.
 
 ## Owner
 

@@ -50,6 +50,7 @@ A land high in the mountains that chose, again and again, to keep what others le
 - [the Vajrayana dharma](position_vajrayana.md)
 - [Gross National Happiness](position_gross_national_happiness.md)
 - [the guarded land](position_the_preserved_land.md)
+- [Dzongkha](position_language_dzo.md)
 
 **Pieces**
 

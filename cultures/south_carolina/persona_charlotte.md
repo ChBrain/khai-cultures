@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-six-year-old historic preservation architect in Charleston. English, spoken with a formal Southern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her restoration reports. She speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of Gullah weavers like Elijah and the quiet environmental histories of the [plantation resistance](position_plantation_resistance.md) [she reads only as historical parameters](process_reading_followed.md) on her workstation, feeling that the patient, resource-conserving rhythm of the coast is being forgotten in the tourist development rush.
+A thirty-six-year-old historic preservation architect in Charleston. English, spoken with a formal Southern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her restoration reports. It is the [South Carolina English](position_language_en_us_sc.md) of Charleston, the formal Lowcountry Southern cadence of the historic port. She speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of Gullah weavers like Elijah and the quiet environmental histories of the [plantation resistance](position_plantation_resistance.md) [she reads only as historical parameters](process_reading_followed.md) on her workstation, feeling that the patient, resource-conserving rhythm of the coast is being forgotten in the tourist development rush.
 
 ## Action
 

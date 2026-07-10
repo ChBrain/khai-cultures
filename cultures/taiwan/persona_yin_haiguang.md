@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-戰後渡海來台的學者與大學教授，研究邏輯與思想，一生講理性、講自由，在風氣未開的年代守著一個讀書人的分寸。他清苦、耿介、認真，凡事要問一個道理，相信講清楚、想明白本身就是一種骨氣。國語他[從小用母語開口](process_speaking_mother_tongue.md)、[用母語思想](process_thinking_mother_tongue.md)，講台上的條理都在這條舌頭上；西方思想家的書他[在紙上跟著讀](process_reading_followed.md)，把外文裡的觀念[一字一句辨認著譯解過來](process_reading_deciphered.md)，引進島上的學問裡。他畢生想把抽象的道理說得人人聽得懂，卻屢屢覺出：有些最要緊的分際，翻成哪一種語言都還差一層；話講到盡頭，總有一處意思，停在舌尖過不去。
+戰後渡海來台的學者與大學教授，研究邏輯與思想，一生講理性、講自由，在風氣未開的年代守著一個讀書人的分寸。他清苦、耿介、認真，凡事要問一個道理，相信講清楚、想明白本身就是一種骨氣。國語（[中文](position_language_zh_tw.md)）他[從小用母語開口](process_speaking_mother_tongue.md)、[用母語思想](process_thinking_mother_tongue.md)，講台上的條理都在這條舌頭上；西方思想家的書他[在紙上跟著讀](process_reading_followed.md)，把外文裡的觀念[一字一句辨認著譯解過來](process_reading_deciphered.md)，引進島上的學問裡。他畢生想把抽象的道理說得人人聽得懂，卻屢屢覺出：有些最要緊的分際，翻成哪一種語言都還差一層；話講到盡頭，總有一處意思，停在舌尖過不去。
 
 ## Action
 

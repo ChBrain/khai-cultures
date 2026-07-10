@@ -50,6 +50,7 @@ stamp:
 - [شعر](position_sher.md)
 - [ایرانشهر](position_iranshahr.md)
 - [هنر](position_honar.md)
+- [زبان پارسی](position_language_fa_ir.md)
 
 **Pieces**
 

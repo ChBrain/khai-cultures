@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old corn and soy farmer in Lawrence County. English, spoken with a warm midwestern drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily crop logs. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of racing engineers like Ray and the digital planning of speedway boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agricultural soil preservation is treated as secondary to corporate tourism and speedway entertainment.
+A fifty-two-year-old corn and soy farmer in Lawrence County. English, spoken with a warm midwestern drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily crop logs. It is the [Hoosier English](position_language_en_us_in.md) of the farm counties, the warm midwestern drawl of the co-op and the main street. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of racing engineers like Ray and the digital planning of speedway boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agricultural soil preservation is treated as secondary to corporate tourism and speedway entertainment.
 
 ## Action
 

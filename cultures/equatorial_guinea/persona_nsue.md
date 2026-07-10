@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[la lengua heredada](position_la_lengua_heredada.md)
+[la lengua heredada](position_language_es_gq.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ La escritora fang que abrió la novela guineana a la voz de la mujer, autora de 
 
 ## Action
 
-En [la nación](plot_04_la_nacion.md) suma a [la lengua heredada](position_la_lengua_heredada.md) la voz de la mujer y la herencia oral del clan, abriendo la novela guineana a lo que antes solo se contaba de viva voz. Al escribirlo, hace que la tradición hablada del poblado pase a la página y dure.
+En [la nación](plot_04_la_nacion.md) suma a [la lengua heredada](position_language_es_gq.md) la voz de la mujer y la herencia oral del clan, abriendo la novela guineana a lo que antes solo se contaba de viva voz. Al escribirlo, hace que la tradición hablada del poblado pase a la página y dure.
 
 ## Shadow
 

@@ -49,6 +49,7 @@ Yon peyi ki pa tankou lòt yo: li pa t resevwa libète l kòm kado, li te pran l
 
 - [the first Black republic](position_premye_repiblik_nwa.md)
 - [the Vodou-and-Kreyol soul](position_vodou_ak_kreyol.md)
+- [kreyòl ayisyen](position_language_ht.md)
 - [resilience and dignity](position_rezistans_ak_fyete.md)
 
 **Pieces**

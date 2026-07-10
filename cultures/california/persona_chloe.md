@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old organic winegrower in Napa Valley. English is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her marketing stories. Spanish [she wears as an overgarment](process_speaking_worn.md) for her daily work in the fields, coordinating with agricultural laborers. Yet the loss lies in the seam: The fast, disruptive tech narratives of Sam and the digital dreams of the Silicon Valley boom [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agricultural work is being ignored in the race for digital efficiency.
+A forty-two-year-old organic winegrower in Napa Valley. English, the [Californian English](position_language_en_us_ca.md) of the valley, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her marketing stories. Spanish [she wears as an overgarment](process_speaking_worn.md) for her daily work in the fields, coordinating with agricultural laborers. Yet the loss lies in the seam: The fast, disruptive tech narratives of Sam and the digital dreams of the Silicon Valley boom [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agricultural work is being ignored in the race for digital efficiency.
 
 ## Action
 

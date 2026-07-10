@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ak öýüň ýa-da jaýyň içinde dik dokama enjamynyň öňünde oturan, eli çalt we gözi taýpanyň göllerini ýatdan bilýän aýal: enesinden öwrenen hünäri gyzyna geçirýän, sapaklaryň arasynda milletiň ýadyny dokaýan halyçy. Sabyrly, ünsli we çydamly, ol aýlap bir halyny örüp, çölüň reňklerini we taýpanyň möhrüni ýüňe geçirýär. Ene dilinde ol işläp [pikirlenýär](process_thinking_mother_tongue.md), dokama wagtynda hiňlenip [gürleýär](process_speaking_mother_tongue.md), we enesinden öwrenen aýdymlary, gölleriň atlaryny gulagy bilen [tutup](process_hearing_mother_tongue.md) ýadynda saklaýar. Göl onuň ýazgysydyr, ýöne ol kagyza ýazylmaýar, eýsem barmaklaryň ýadynda we sapagyň arasynda ýaşaýar. Onuň dokaýan zady sözden çuňdur - halynyň aýdýan zadyny söze öwrüp bolmaýar, we taýpanyň manysy diliň serhedinde däl-de, sapaklaryň arasyndaky sessiz ýerde durýar.
+Ak öýüň ýa-da jaýyň içinde dik dokama enjamynyň öňünde oturan, eli çalt we gözi taýpanyň göllerini ýatdan bilýän aýal: enesinden öwrenen hünäri gyzyna geçirýän, sapaklaryň arasynda milletiň ýadyny dokaýan halyçy. Sabyrly, ünsli we çydamly, ol aýlap bir halyny örüp, çölüň reňklerini we taýpanyň möhrüni ýüňe geçirýär. [Ene dilinde](position_language_tk.md) ol işläp [pikirlenýär](process_thinking_mother_tongue.md), dokama wagtynda hiňlenip [gürleýär](process_speaking_mother_tongue.md), we enesinden öwrenen aýdymlary, gölleriň atlaryny gulagy bilen [tutup](process_hearing_mother_tongue.md) ýadynda saklaýar. Göl onuň ýazgysydyr, ýöne ol kagyza ýazylmaýar, eýsem barmaklaryň ýadynda we sapagyň arasynda ýaşaýar. Onuň dokaýan zady sözden çuňdur - halynyň aýdýan zadyny söze öwrüp bolmaýar, we taýpanyň manysy diliň serhedinde däl-de, sapaklaryň arasyndaky sessiz ýerde durýar.
 
 ## Action
 

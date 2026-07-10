@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[gjuha shqipe](position_gjuha_shqipe.md)
+[gjuha shqipe](position_language_sq_al.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Poeti kombëtar i Rilindjes, bektashi, që e ngriti shqipen në letërsi dhe e këndoi kombin në jetë pikërisht kur Osmani e ndalonte gjuhën në shkolla e shtyp. I butë, atdhetar, i mbushur me dije, ai i dha vargun një gjuhe të shtypur. Shqipen e [shkruante dhe e mendonte](process_writing_mother_tongue.md) si gjuhën e zemrës, dhe nëpërmjet saj e [lexonte](process_reading_mother_tongue.md) kombin që po zgjohej. Turqishten e shërbimit osman, ku punoi nëpunës, e [mbante si vegël të bartur](process_speaking_carried.md), dhe poezinë persiane, në të cilën ishte zhytur, e [lexonte e ndiqte](process_reading_followed.md) dhe shkroi edhe në të. Por gjuha që i dha kombit fytyrë ishte shqipja e ndaluar, e vetme në degën e vet, që asnjë fqinj nuk e kuptonte - dhe aty rrinte gropa në cakun e gjuhës, vargu që zgjoi një popull në një gjuhë që s'e fliste kush tjetër.
+Poeti kombëtar i Rilindjes, bektashi, që e ngriti shqipen në letërsi dhe e këndoi kombin në jetë pikërisht kur Osmani e ndalonte gjuhën në shkolla e shtyp. I butë, atdhetar, i mbushur me dije, ai i dha vargun një gjuhe të shtypur. Shqipen, [gjuhën e vetme në degën e vet](position_language_sq_al.md), e [shkruante dhe e mendonte](process_writing_mother_tongue.md) si gjuhën e zemrës, dhe nëpërmjet saj e [lexonte](process_reading_mother_tongue.md) kombin që po zgjohej. Turqishten e shërbimit osman, ku punoi nëpunës, e [mbante si vegël të bartur](process_speaking_carried.md), dhe poezinë persiane, në të cilën ishte zhytur, e [lexonte e ndiqte](process_reading_followed.md) dhe shkroi edhe në të. Por gjuha që i dha kombit fytyrë ishte shqipja e ndaluar, e vetme në degën e vet, që asnjë fqinj nuk e kuptonte - dhe aty rrinte gropa në cakun e gjuhës, vargu që zgjoi një popull në një gjuhë që s'e fliste kush tjetër.
 
 ## Action
 
-Te [Rilindja](plot_02_rilindja.md) e ngriti [gjuhën shqipe](position_gjuha_shqipe.md) në letërsi dhe e zgjoi kombin kundër Osmanit. Duke i dhënë vargun një gjuhe të shtypur, i tregoi popullit pa shtet se ishte komb, sepse kishte gjuhën e vet.
+Te [Rilindja](plot_02_rilindja.md) e ngriti [gjuhën shqipe](position_language_sq_al.md) në letërsi dhe e zgjoi kombin kundër Osmanit. Duke i dhënë vargun një gjuhe të shtypur, i tregoi popullit pa shtet se ishte komb, sepse kishte gjuhën e vet.
 
 ## Shadow
 

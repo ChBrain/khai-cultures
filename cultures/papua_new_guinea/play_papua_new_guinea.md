@@ -47,7 +47,7 @@ I no gat narapela kantri i gat planti tok ples olsem dispela hap. Long bikpela a
 
 **Positions**
 
-- [a thousand tongues, one country](position_planti_tok_wanpela_kantri.md)
+- [a thousand tongues, one country](position_language_tpi.md)
 - [the wantok and kastom](position_wantok_na_kastom.md)
 - [the Melanesian Way](position_melanesian_we.md)
 
@@ -72,7 +72,7 @@ Longpela taim bipo, long Kuk na long olgeta hap, ol tumbuna i bin brukim graun n
 
 **[Plot 2: contact and colony](plot_02_kontak_na_kolonia.md)**
 
-Long 1930s ol waitman i kamap insait long [the Highlands](place_ol_hailans.md) na painim planti manmeri ol i no bin save long ol, na ol Siaman, ol Inglis, na ol Australia i bosim dispela hap, na long bikpela pait ol i pait long Kokoda, na [a thousand tongues, one country](position_planti_tok_wanpela_kantri.md) i kamap askim.
+Long 1930s ol waitman i kamap insait long [the Highlands](place_ol_hailans.md) na painim planti manmeri ol i no bin save long ol, na ol Siaman, ol Inglis, na ol Australia i bosim dispela hap, na long bikpela pait ol i pait long Kokoda, na [a thousand tongues, one country](position_language_tpi.md) i kamap askim.
 
 **[Plot 3: independence and the Melanesian Way](plot_03_independens_na_melanesian_we.md)**
 
@@ -80,7 +80,7 @@ Long 1975 [Michael Somare](persona_somare.md) na [Bernard Narokobi](persona_naro
 
 **[Plot 4: a thousand tongues today](plot_04_planti_tok_tude.md)**
 
-Tude [the big-man](persona_bikman.md) i stap yet long [the Highlands](place_ol_hailans.md), na [a thousand tongues, one country](position_planti_tok_wanpela_kantri.md) i mas holim kantri wantaim, namel long askim bilong Bougainville na bilong graun i gat planti samting insait.
+Tude [the big-man](persona_bikman.md) i stap yet long [the Highlands](place_ol_hailans.md), na [a thousand tongues, one country](position_language_tpi.md) i mas holim kantri wantaim, namel long askim bilong Bougainville na bilong graun i gat planti samting insait.
 
 ## Stakes
 

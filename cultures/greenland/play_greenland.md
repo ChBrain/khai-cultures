@@ -43,7 +43,7 @@ Qeqertarsuaq apummit sermimillu qalligaasoq, ukiuni hundredelikkaani piniartut i
 
 **Positions**
 
-- [Kalaallisut](position_greenlandic.md)
+- [Kalaallisut](position_language_kl.md)
 
 **Pieces**
 

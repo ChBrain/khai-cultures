@@ -50,6 +50,7 @@ O se atunuu ua tupuga mai i tagata folau o le Pasefika, o tagata Lapita ma Polen
 - [le faaSamoa](position_faasamoa.md)
 - [le Mau](position_le_mau.md)
 - [le folauga ma le upu](position_folauga_ma_le_upu.md)
+- [le gagana Samoa](position_language_smo.md)
 
 **Pieces**
 

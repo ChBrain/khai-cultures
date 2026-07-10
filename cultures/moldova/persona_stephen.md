@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Domnitorul Moldovei, un visător dârz care a asigurat independența țării timp de decenii și a ctitorit mănăstiri pentru protecția credinței. El vorbește și gândește în limba sa maternă, româna veche a dealurilor moldovenești, cea care poartă voința de supraviețuire. Limba latină [o poartă peste legată](process_speaking_worn.md) pentru corespondența cu Papa și principii creștini, o limbă a diplomației și a alianței defensive. Dar pierderea stă în cusătură: documentele de cancelarie ale curții sunt [redactate doar în slavona bisericească](process_writing_drafted.md) pe pergament, o limbă sacră străină pe care poporul nu o înțelege și care marchează prăpastia dintre putere și limbă. El aparține coroanei moldovenești și îi lasă o moștenire trainică.
+Domnitorul Moldovei, un visător dârz care a asigurat independența țării timp de decenii și a ctitorit mănăstiri pentru protecția credinței. El [vorbește](process_speaking_mother_tongue.md) și gândește în limba sa maternă, [româna veche a dealurilor moldovenești](position_language_ro_md.md), cea care poartă voința de supraviețuire. Limba latină [o poartă peste legată](process_speaking_worn.md) pentru corespondența cu Papa și principii creștini, o limbă a diplomației și a alianței defensive. Dar pierderea stă în cusătură: documentele de cancelarie ale curții sunt [redactate doar în slavona bisericească](process_writing_drafted.md) pe pergament, o limbă sacră străină pe care poporul nu o înțelege și care marchează prăpastia dintre putere și limbă. El aparține coroanei moldovenești și îi lasă o moștenire trainică.
 
 ## Action
 

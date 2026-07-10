@@ -50,6 +50,7 @@ stamp:
 - [البحر](position_albahr.md)
 - [البادية](position_albadia.md)
 - [الضيافة](position_aldiyafa.md)
+- [العربية](position_language_ar_qa.md)
 
 **Pieces**
 

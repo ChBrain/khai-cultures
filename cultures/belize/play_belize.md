@@ -50,6 +50,7 @@ A land that begins as the heartland of the Maya, whose stone cities rose in its 
 - [the plural society](position_the_plural_society.md)
 - [the Caribbean nation](position_the_caribbean_nation.md)
 - [the forest and the reef](position_the_forest_and_the_reef.md)
+- [Belizean English](position_language_en_bz.md)
 
 **Pieces**
 

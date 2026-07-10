@@ -26,13 +26,13 @@ Miongo baada ya uhuru, Kiswahili kimekua kuwa lugha ya kila Mtanzania, kuanzia s
 
 ## Action
 
-Kiswahili kinakuwa lugha ya taifa iliyofunga wote pamoja na kuanza kuenea zaidi ya mipaka ya Tanzania, kikitambuliwa kama lugha ya Afrika nzima na ya dunia. [Filbert Bayi](persona_bayi.md) na wengine wanakimbia kwa fahari ya taifa, wakionyesha dunia kuwa taifa dogo laweza kusimama mbele. [Konda wa dala dala](persona_konda.md) anawafunga watu wa kila kabila katika gari moja kila siku, na vijana wanaunda Bongo Flava katika [Kiswahili](position_kiswahili.md), huku watalii wa dunia wakija kuona uhamiaji mkubwa wa Serengeti na kupanda Kilimanjaro, paa la Afrika. Tanzania inajidhihirisha kuwa kisiwa cha amani na taifa moja kutoka kwa wengi.
+Kiswahili kinakuwa lugha ya taifa iliyofunga wote pamoja na kuanza kuenea zaidi ya mipaka ya Tanzania, kikitambuliwa kama lugha ya Afrika nzima na ya dunia. [Filbert Bayi](persona_bayi.md) na wengine wanakimbia kwa fahari ya taifa, wakionyesha dunia kuwa taifa dogo laweza kusimama mbele. [Konda wa dala dala](persona_konda.md) anawafunga watu wa kila kabila katika gari moja kila siku, na vijana wanaunda Bongo Flava katika [Kiswahili](position_language_sw_tz.md), huku watalii wa dunia wakija kuona uhamiaji mkubwa wa Serengeti na kupanda Kilimanjaro, paa la Afrika. Tanzania inajidhihirisha kuwa kisiwa cha amani na taifa moja kutoka kwa wengi.
 
 ## Stage
 
 - [Filbert Bayi](persona_bayi.md): mkimbiaji aliyebeba fahari ya taifa changa mbele ya mataifa.
 - [Konda wa dala dala](persona_konda.md): sauti ya mji inayowafunga watu wa kila kabila katika lugha moja.
-- [Kiswahili](position_kiswahili.md): lugha ya taifa iliyofunga wote na kuanza kuenea Afrika nzima.
+- [Kiswahili](position_language_sw_tz.md): lugha ya taifa iliyofunga wote na kuanza kuenea Afrika nzima.
 
 ## Tension
 

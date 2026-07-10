@@ -50,6 +50,7 @@ Naga e e simologileng kwa bogologolong, kwa Basarwa, batho ba ntlha, ba neng ba 
 - [botho](position_botho.md)
 - [kgotla](position_kgotla.md)
 - [dikgomo](position_dikgomo.md)
+- [Setswana](position_language_tn.md)
 
 **Pieces**
 

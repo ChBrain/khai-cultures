@@ -45,7 +45,7 @@ O țară aflată la granițele istorice ale marilor imperii, adesea împărțit�
 **Positions**
 
 - [ținutul de graniță](position_grenzland.md)
-- [limba moldovenească](position_moldovan.md)
+- [limba română din Moldova](position_language_ro_md.md)
 - [vinificatorul](position_weinbauer.md)
 
 **Pieces**

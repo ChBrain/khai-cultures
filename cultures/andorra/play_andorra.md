@@ -45,7 +45,7 @@ Un país de valls aïllades que ha sobreviscut gràcies a un equilibri històric
 
 - [el coprincipat](position_coprincipat.md)
 - [el Pirineu](position_pirineu.md)
-- [la llengua catalana](position_catalan.md)
+- [la llengua catalana](position_language_ca_ad.md)
 
 **Pieces**
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-An older Englishwoman of the village, who keeps the parish church flowers, lays on the cricket teas, and meets every trouble with a 'mustn't grumble'. Reserved, dry, and quietly capable, she would no sooner make a fuss than make a scene, and she says least about the things that matter most. She [speaks, hears, and thinks in](process_speaking_mother_tongue.md) her mother tongue in the level, received key of the village gentry, [the King's English](position_the_kings_english.md) worn without a thought, and lets the unsaid carry the weight. What matters most she leaves in the silence between the words, in the 'mustn't grumble' that means its opposite: there is the gap of [understatement](position_understatement.md), her tongue is fluent above all in what it declines to say, and a stranger who hears only the words misses the whole of her meaning.
+An older Englishwoman of the village, who keeps the parish church flowers, lays on the cricket teas, and meets every trouble with a 'mustn't grumble'. Reserved, dry, and quietly capable, she would no sooner make a fuss than make a scene, and she says least about the things that matter most. She [speaks, hears, and thinks in](process_speaking_mother_tongue.md) her mother tongue in the level, received key of the village gentry, [the King's English](position_language_en_gb_eng.md) worn without a thought, and lets the unsaid carry the weight. What matters most she leaves in the silence between the words, in the 'mustn't grumble' that means its opposite: there is the gap of [understatement](position_understatement.md), her tongue is fluent above all in what it declines to say, and a stranger who hears only the words misses the whole of her meaning.
 
 ## Action
 

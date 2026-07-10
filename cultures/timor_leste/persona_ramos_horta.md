@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[lia-tetun](position_tetum.md)
+[lia-tetun](position_language_tet.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Diplomata ne'ebe lori povu nia lia ba mundu li'ur iha tempu ne'ebe povu rasik la bele ko'alia, no ne'ebe hetan Premio Nobel ba Dame ba nia servisu atu buka dalan dame. Nia ko'alia ho mundu ho lian barak no nia la kole atu husu rona ba rai-ki'ik nian. Lia-tetun no lia-portuges nia [ko'alia](process_speaking_mother_tongue.md) no [rona](process_hearing_mother_tongue.md) nu'udar buat rasik, hun ba nia identidade. Lian husi mundu li'ur nia [lori atu sai sasan servisu](process_speaking_carried.md), [le no tuir iha papel](process_reading_followed.md), no [rona no tuir](process_hearing_followed.md) iha sala diplomatiku sira. Maibe povu nia terus iha tempu balun la bele tama liafuan ida-idak, no buat ne'ebe nia presiza lori ba mundu iha fatin ne'ebe lian la to'o: iha-ne'e lian hakat to'o nia rohan no para.
+Diplomata ne'ebe lori povu nia lia ba mundu li'ur iha tempu ne'ebe povu rasik la bele ko'alia, no ne'ebe hetan Premio Nobel ba Dame ba nia servisu atu buka dalan dame. Nia ko'alia ho mundu ho lian barak no nia la kole atu husu rona ba rai-ki'ik nian. [Lia-tetun](position_language_tet.md) no lia-portuges nia [ko'alia](process_speaking_mother_tongue.md) no [rona](process_hearing_mother_tongue.md) nu'udar buat rasik, hun ba nia identidade. Lian husi mundu li'ur nia [lori atu sai sasan servisu](process_speaking_carried.md), [le no tuir iha papel](process_reading_followed.md), no [rona no tuir](process_hearing_followed.md) iha sala diplomatiku sira. Maibe povu nia terus iha tempu balun la bele tama liafuan ida-idak, no buat ne'ebe nia presiza lori ba mundu iha fatin ne'ebe lian la to'o: iha-ne'e lian hakat to'o nia rohan no para.
 
 ## Action
 
-Iha [dalan naruk](plot_03_dalan_naruk.md) nia sai lian ba povu iha mundu li'ur, lori sira-nia lia ho honra no buka dalan dame iha tempu todan. Husi rai-li'ur nia hatudu katak [lia-tetun](position_tetum.md) no povu nia lia bele to'o mundu tomak, no katak ko'alia no buka dame mak forsa ne'ebe la mate.
+Iha [dalan naruk](plot_03_dalan_naruk.md) nia sai lian ba povu iha mundu li'ur, lori sira-nia lia ho honra no buka dalan dame iha tempu todan. Husi rai-li'ur nia hatudu katak [lia-tetun](position_language_tet.md) no povu nia lia bele to'o mundu tomak, no katak ko'alia no buka dame mak forsa ne'ebe la mate.
 
 ## Shadow
 

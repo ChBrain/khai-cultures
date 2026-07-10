@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old defense contractor in Arlington. English, spoken with an articulate mid-Atlantic cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily policy briefs. Arabic [she wears as an overgarment](process_speaking_worn.md) during international security briefings, keeping alive the language of her language training. Yet the loss lies in the seam: The slower, history-oriented narratives of docents like Thomas and the regional traditions of the south [she hears only like a distant echo](process_hearing_followed.md), feeling that the physical legacy of the land is treated as a secondary constraint in the race for technological modernization.
+A thirty-eight-year-old defense contractor in Arlington. English, spoken with an articulate mid-Atlantic cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily policy briefs. It is the [Virginian English](position_language_en_us_va.md) of the Northern Virginia corridor, the articulate mid-Atlantic cadence of the Arlington defense office. Arabic [she wears as an overgarment](process_speaking_worn.md) during international security briefings, keeping alive the language of her language training. Yet the loss lies in the seam: The slower, history-oriented narratives of docents like Thomas and the regional traditions of the south [she hears only like a distant echo](process_hearing_followed.md), feeling that the physical legacy of the land is treated as a secondary constraint in the race for technological modernization.
 
 ## Action
 

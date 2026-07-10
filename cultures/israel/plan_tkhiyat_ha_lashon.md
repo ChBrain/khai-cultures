@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-מנדט פתוח: המלאכה הנמשכת לקיים את הפלא של [הלשון המחודשת](position_ha_lashon.md) ולשמור עליו, להחזיק את עומק [עם הספר](position_am_ha_sefer.md) חי ולא רק נזכר, ולעשות מן [קיבוץ גלויות](position_kibbutz_galuyot.md) בית אחד שאינו מוחק את ניגוני הרבים.
+מנדט פתוח: המלאכה הנמשכת לקיים את הפלא של [הלשון המחודשת](position_language_he.md) ולשמור עליו, להחזיק את עומק [עם הספר](position_am_ha_sefer.md) חי ולא רק נזכר, ולעשות מן [קיבוץ גלויות](position_kibbutz_galuyot.md) בית אחד שאינו מוחק את ניגוני הרבים.
 
 ## Owner
 

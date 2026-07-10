@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old automotive engineer in Detroit. English, spoken with a direct midwestern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his professional life. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound cabin talk of ferry captains like Clara and the quiet history of [Up North](position_up_north.md) [he reads only as environmental parameters](process_reading_followed.md) on his workstation, feeling that the patient, season-dependent rhythm of the lakes is being forgotten in the race for technological modernization.
+A thirty-eight-year-old automotive engineer in Detroit. English, spoken with a direct midwestern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his professional life. What he speaks is [Michigan English](position_language_en_us_mi.md), the direct midwestern cadence of the Motor City. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound cabin talk of ferry captains like Clara and the quiet history of [Up North](position_up_north.md) [he reads only as environmental parameters](process_reading_followed.md) on his workstation, feeling that the patient, season-dependent rhythm of the lakes is being forgotten in the race for technological modernization.
 
 ## Action
 

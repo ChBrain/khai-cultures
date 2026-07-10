@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old blue crab waterman on the Eastern Shore. English, spoken with a slow, rhythmic coastal cadence, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her daily maritime operations. She speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented talk of biomedical scientists like David and the digital planning of Baltimore health corridor boards [she reads only as regulatory updates](process_reading_followed.md) on her weather tablet, feeling that the patient, season-dependent rhythm of the bay is being forgotten in the race for technological modernization.
+A forty-two-year-old blue crab waterman on the Eastern Shore. English, spoken with a slow, rhythmic coastal cadence, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her daily maritime operations. What she speaks is [Maryland English](position_language_en_us_md.md), the slow tidewater cadence of the Eastern Shore. She speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented talk of biomedical scientists like David and the digital planning of Baltimore health corridor boards [she reads only as regulatory updates](process_reading_followed.md) on her weather tablet, feeling that the patient, season-dependent rhythm of the bay is being forgotten in the race for technological modernization.
 
 ## Action
 

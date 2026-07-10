@@ -50,6 +50,7 @@ stamp:
 - [الجسر](position_al_jusur.md)
 - [العلم والإيمان](position_al_ilm.md)
 - [الزيتون والبحر](position_al_zaytun.md)
+- [العربية التونسية](position_language_ar_tn.md)
 
 **Pieces**
 

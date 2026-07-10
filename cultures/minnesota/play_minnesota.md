@@ -46,6 +46,7 @@ A land of wilderness waters and technical innovation, defined by the headwaters 
 
 - [Minnesota nice](position_minnesota_nice.md)
 - [northwoods resilience](position_northwoods_resilience.md)
+- [Minnesotan English](position_language_en_us_mn.md)
 
 **Pieces**
 

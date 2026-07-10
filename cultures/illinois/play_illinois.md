@@ -46,6 +46,7 @@ A land of agricultural wealth and soaring architecture, defined by its role as t
 
 - [prairie grit](position_prairie_grit.md)
 - [metropolis](position_metropolis.md)
+- [Illinoisan English](position_language_en_us_il.md)
 
 **Pieces**
 

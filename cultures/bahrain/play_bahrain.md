@@ -50,6 +50,7 @@ stamp:
 - [دلمون](position_dilmun.md)
 - [البحران](position_albahran.md)
 - [البحر](position_albahr.md)
+- [اللهجة البحرينية](position_language_ar_bh.md)
 
 **Pieces**
 

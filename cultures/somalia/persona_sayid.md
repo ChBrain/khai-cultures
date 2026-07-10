@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[af-Soomaaliga iyo gabayga](position_afka.md)
+[af-Soomaaliga iyo gabayga](position_language_so.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Nin diineed iyo abwaan weyn oo horraantii qarnigii labaatanaad gabaygiisii ku qaaday taariikh, dhiirrigelin iyo baaq. Wuxuu ahaa mid afkiisu qaaweysan yahay, oo gabaygiisu xambaarsanaa murug iyo geesinimo, oo weli maanta laga xusuusto erayga, ee aan colaadda lagu cabbirin. Af-Soomaaliga wuxuu u [hadlaa](process_speaking_mother_tongue.md), u [fekeraa](process_thinking_mother_tongue.md), oo gabaygiisii uu ku [tolay](process_writing_mother_tongue.md) afkii hooyo, isaga oo eraygii reer-guuraaga ah u rogay hub iyo astaan. Carabigii diinta iyo Quraanka wuu [akhrin jiray oo raaci jiray](process_reading_followed.md), isagoo culimo ah, laakiin gabaygiisii waxa uu ku tolay afkii Soomaaliyeed oo aan weli qoraal lahayn: ninkii eraygii reerka u rogay astaan, gabaygiisii dad ka dhaxlay oo afku xambaaray, halkii uu qoraalku xambaari lahaa- oo farqigii ku jiray xadka afka wuxuu ka muuqday in xikmaddiisii lagu hayey kaliya dhegta iyo xusuusta, ee aan qalin lahayn.
+Nin diineed iyo abwaan weyn oo horraantii qarnigii labaatanaad gabaygiisii ku qaaday taariikh, dhiirrigelin iyo baaq. Wuxuu ahaa mid afkiisu qaaweysan yahay, oo gabaygiisu xambaarsanaa murug iyo geesinimo, oo weli maanta laga xusuusto erayga, ee aan colaadda lagu cabbirin. [Af-Soomaaliga](position_language_so.md) wuxuu u [hadlaa](process_speaking_mother_tongue.md), u [fekeraa](process_thinking_mother_tongue.md), oo gabaygiisii uu ku [tolay](process_writing_mother_tongue.md) afkii hooyo, isaga oo eraygii reer-guuraaga ah u rogay hub iyo astaan. Carabigii diinta iyo Quraanka wuu [akhrin jiray oo raaci jiray](process_reading_followed.md), isagoo culimo ah, laakiin gabaygiisii waxa uu ku tolay afkii Soomaaliyeed oo aan weli qoraal lahayn: ninkii eraygii reerka u rogay astaan, gabaygiisii dad ka dhaxlay oo afku xambaaray, halkii uu qoraalku xambaari lahaa- oo farqigii ku jiray xadka afka wuxuu ka muuqday in xikmaddiisii lagu hayey kaliya dhegta iyo xusuusta, ee aan qalin lahayn.
 
 ## Action
 
-Xilligii [Sayidka](plot_03_sayidka.md) wuxuu gabaygiisii [af-Soomaaliga iyo gabayga](position_afka.md) u rogay hub, marag iyo astaan, isagoo muujiyey in eraygu kicin karo oo taariikh xambaari karo. Wuxuu reer-guuraaga eraygooda qaaweysan u qaaday heer aan hore loo arag, oo gabaygiisii ilaa maanta weli laga akhriyaa oo laga xifdiyaa.
+Xilligii [Sayidka](plot_03_sayidka.md) wuxuu gabaygiisii [af-Soomaaliga iyo gabayga](position_language_so.md) u rogay hub, marag iyo astaan, isagoo muujiyey in eraygu kicin karo oo taariikh xambaari karo. Wuxuu reer-guuraaga eraygooda qaaweysan u qaaday heer aan hore loo arag, oo gabaygiisii ilaa maanta weli laga akhriyaa oo laga xifdiyaa.
 
 ## Shadow
 

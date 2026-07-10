@@ -50,6 +50,7 @@ Plemenski junački narod Crne planine, one visoravni koju Osmanlije nikad do kra
 - [junaštvo i čojstvo](position_junastvo_cojstvo.md)
 - [brđanski kamen](position_brdjanski_kamen.md)
 - [crnogorstvo](position_crnogorstvo.md)
+- [crnogorski jezik](position_language_cnr.md)
 
 **Pieces**
 

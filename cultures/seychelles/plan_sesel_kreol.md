@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Sa travay san fen ki sa pti nasyon zil in donn li menm: gard [Kreol](position_kreol.md) son langaz manman vivan ek ot, tini ansanm tou bann fil [Lasosyasyon](position_lasosyasyon.md) dan en sel pep, e gard [Lanmer](position_lanmer.md) ek son labote vivan ek prop pour bann zenerasyon ki pe vini.
+Sa travay san fen ki sa pti nasyon zil in donn li menm: gard [Kreol](position_language_crs.md) son langaz manman vivan ek ot, tini ansanm tou bann fil [Lasosyasyon](position_lasosyasyon.md) dan en sel pep, e gard [Lanmer](position_lanmer.md) ek son labote vivan ek prop pour bann zenerasyon ki pe vini.
 
 ## Owner
 

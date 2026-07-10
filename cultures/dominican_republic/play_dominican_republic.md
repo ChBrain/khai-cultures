@@ -50,6 +50,7 @@ Una tierra que fue principio de un mundo nuevo. La habitaron los taínos, y sobr
 - [la cuna de América](position_la_cuna_de_america.md)
 - [la patria y la libertad](position_la_patria_y_la_libertad.md)
 - [el ritmo y el juego](position_el_ritmo_y_el_juego.md)
+- [el español dominicano](position_language_es_do.md)
 
 **Pieces**
 

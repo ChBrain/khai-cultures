@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Un artesano y vidriero de treinta y ocho años en Barcelona. El catalán, hablado con la precisión rápida de la costa, es su lengua materna, la que usa para [hablar, escuchar y pensar](process_speaking_mother_tongue.md), el código cotidiano de su taller. Domina el castellano, que usa como lengua [de comunicación y trabajo](process_speaking_carried.md) con los clientes de fuera, pero en esa frontera siente una pérdida: las prisas de los grandes contratistas de Madrid y el ritmo de las constructoras estatales [los lee solo como instrucciones administrativas](process_reading_followed.md) en su mesa, sintiendo que la paciencia detallada y la belleza artesanal de los antiguos gremios catalanes se tratan como algo secundario frente a la prisa y el volumen de la obra.
+Un artesano y vidriero de treinta y ocho años en Barcelona. El catalán, [la lengua catalana](position_language_ca.md), hablado con la precisión rápida de la costa, es su lengua materna, la que usa para [hablar, escuchar y pensar](process_speaking_mother_tongue.md), el código cotidiano de su taller. Domina el castellano, [el español de Cataluña](position_language_es_es_ct.md), que usa como lengua [de comunicación y trabajo](process_speaking_carried.md) con los clientes de fuera, pero en esa frontera siente una pérdida: las prisas de los grandes contratistas de Madrid y el ritmo de las constructoras estatales [los lee solo como instrucciones administrativas](process_reading_followed.md) en su mesa, sintiendo que la paciencia detallada y la belleza artesanal de los antiguos gremios catalanes se tratan como algo secundario frente a la prisa y el volumen de la obra.
 
 ## Action
 

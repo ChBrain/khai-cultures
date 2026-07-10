@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Une figure nationale, honoree sobrement comme un visage des debuts de la nation moderne, et dont le nom reste lie a l'idee d'une nation une et digne, debout d'un bord a l'autre de son immensite. Ancien commis devenu orateur, il avait le verbe et la presence, et il parlait d'un pays a tenir ensemble par-dela les peuples et les distances. Le francais, il l'avait [appris et le suivait sans peine sur la page](process_reading_followed.md), et il s'en servait pour s'adresser a la nation et au monde. Le lingala et les langues du pays, il les [parlait](process_speaking_mother_tongue.md) pour parler au peuple dans sa propre voix. Mais il savait, lui qui maniait les langues du dehors, qu'il y a toujours, au bord de chaque tongue, une part de l'ame d'un peuple qu'aucune langue empruntee ne rend tout a fait.
+Une figure nationale, honoree sobrement comme un visage des debuts de la nation moderne, et dont le nom reste lie a l'idee d'une nation une et digne, debout d'un bord a l'autre de son immensite. Ancien commis devenu orateur, il avait le verbe et la presence, et il parlait d'un pays a tenir ensemble par-dela les peuples et les distances. Le [francais congolais](position_language_fr_cd.md), il l'avait [appris et le suivait sans peine sur la page](process_reading_followed.md), et il s'en servait pour s'adresser a la nation et au monde. Le lingala et les langues du pays, il les [parlait](process_speaking_mother_tongue.md) pour parler au peuple dans sa propre voix. Mais il savait, lui qui maniait les langues du dehors, qu'il y a toujours, au bord de chaque tongue, une part de l'ame d'un peuple qu'aucune langue empruntee ne rend tout a fait.
 
 ## Action
 

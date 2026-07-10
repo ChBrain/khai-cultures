@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-eight-year-old traditional hand-weaver in Asheville. English, spoken with an expressive mountain drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her weaving patterns. She speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented research talk of scientists like Ethan and the digital demands of Piedmont biotech boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, hand-crafted rhythm of mountain heritage is treated as secondary to corporate scientific progress.
+A fifty-eight-year-old traditional hand-weaver in Asheville. English, spoken with an expressive mountain drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her weaving patterns. It is the [North Carolina English](position_language_en_us_nc.md) of the western peaks, the expressive Appalachian mountain drawl of the Asheville loom. She speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented research talk of scientists like Ethan and the digital demands of Piedmont biotech boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, hand-crafted rhythm of mountain heritage is treated as secondary to corporate scientific progress.
 
 ## Action
 

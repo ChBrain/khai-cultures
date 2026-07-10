@@ -46,6 +46,7 @@ A land of mineral wealth and Lakota resilience, defined by the granite spires of
 
 - [black hills heritage](position_black_hills_heritage.md)
 - [monument preservation](position_monument_preservation.md)
+- [South Dakota English](position_language_en_us_sd.md)
 
 **Pieces**
 

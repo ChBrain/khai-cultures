@@ -54,6 +54,7 @@ stamp:
 - [天命](position_tianming.md)
 - [孝](position_xiao.md)
 - [三教](position_sanjiao.md)
+- [汉语](position_language_zh_cn.md)
 
 **Pieces**
 

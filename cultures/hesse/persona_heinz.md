@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein traditioneller hessischer Apfelweinwirt von achtundsechzig Jahren, der eine historische Gaststätte in Frankfurt-Sachsenhausen betreibt. Deutsch, stark gefärbt vom hessischen Dialekt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat und Gaststube. Er spricht keine Fremdsprachen und pflegt den direkten Kontakt zu seinen Stammgästen. Doch der Verlust liegt in der Naht: Die modernen, englischen Bezeichnungen der Speisekarten in den umliegenden Szene-Lokalen und die Gentrifizierung des Viertels [liest er nur mit leisem Spott](process_reading_followed.md), da ihm die urige, einfache Geselligkeit der alten Zeit im heutigen, durchgestylten Gastgewerbe verloren geht.
+Ein traditioneller hessischer Apfelweinwirt von achtundsechzig Jahren, der eine historische Gaststätte in Frankfurt-Sachsenhausen betreibt. Deutsch, stark gefärbt vom hessischen Dialekt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat und Gaststube. Es ist das [hessische Hochdeutsch](position_language_de_de_he.md), stark vom Dialekt gefärbt, der Grund, auf dem seine Geselligkeit ruht. Er spricht keine Fremdsprachen und pflegt den direkten Kontakt zu seinen Stammgästen. Doch der Verlust liegt in der Naht: Die modernen, englischen Bezeichnungen der Speisekarten in den umliegenden Szene-Lokalen und die Gentrifizierung des Viertels [liest er nur mit leisem Spott](process_reading_followed.md), da ihm die urige, einfache Geselligkeit der alten Zeit im heutigen, durchgestylten Gastgewerbe verloren geht.
 
 ## Action
 

@@ -49,7 +49,7 @@ An island that turned an offshore kingdom into a union of nations and then into 
 - [the Crown](position_the_crown.md)
 - [Westminster](position_westminster.md)
 - [class](position_class.md)
-- [the common tongue](position_the_common_tongue.md)
+- [the common tongue](position_language_en_gb.md)
 
 **Pieces**
 

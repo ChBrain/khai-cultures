@@ -49,7 +49,7 @@ stamp:
 
 - [النيل والأرض](position_the_nile.md)
 - [الإيمان والعلم](position_faith_and_learning.md)
-- [الكلمة والنغم](position_the_word_and_the_song.md)
+- [الكلمة والنغم](position_language_ar_eg.md)
 
 **Pieces**
 
@@ -80,7 +80,7 @@ stamp:
 
 **[Plot 4: the modern nahda](plot_04_nahda.md)**
 
-في النهضة الحديثة يبلغ [نجيب محفوظ](persona_mahfouz.md) بالعربية ذروتها، وتوحّد [أم كلثوم](persona_umm_kulthum.md) العرب بصوتها، فتزهر [الكلمة والنغم](position_the_word_and_the_song.md) في الرواية والسينما والغناء.
+في النهضة الحديثة يبلغ [نجيب محفوظ](persona_mahfouz.md) بالعربية ذروتها، وتوحّد [أم كلثوم](persona_umm_kulthum.md) العرب بصوتها، فتزهر [الكلمة والنغم](position_language_ar_eg.md) في الرواية والسينما والغناء.
 
 ## Stakes
 

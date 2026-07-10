@@ -46,6 +46,7 @@ A land of justice struggles and technological innovation, defined by the soils o
 
 - [civil rights](position_civil_rights.md)
 - [space pioneer](position_space_pioneer.md)
+- [Alabama English](position_language_en_us_al.md)
 
 **Pieces**
 

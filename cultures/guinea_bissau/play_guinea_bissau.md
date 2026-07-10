@@ -49,6 +49,7 @@ Un pais pikininu i hibridu, nasidu di mui povu i di un so lingua ku inventa-l. A
 
 - [o matriarkadu Bijago](position_matriarkadu_bijago.md)
 - [o Kriol](position_kriol.md)
+- [o português da Guiné-Bissau](position_language_pt_gw.md)
 - [a tabanca](position_tabanca.md)
 
 **Pieces**

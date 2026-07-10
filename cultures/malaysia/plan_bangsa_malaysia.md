@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Amanah terbuka yang ditetapkan negara ini dalam Rukun Negara: kerja yang tidak pernah selesai untuk memupuk [muhibbah](position_muhibbah.md) antara kaumnya, mengekalkan [bahasa Melayu](position_bahasa_melayu.md) sebagai bahasa yang menyatukan tanpa melupakan bahasa ibunda yang lain, dan menjadikan [Islam dan kepelbagaian](position_islam.md) hidup berdampingan dalam keamanan, sehingga daripada yang berbilang lahir satu bangsa Malaysia.
+Amanah terbuka yang ditetapkan negara ini dalam Rukun Negara: kerja yang tidak pernah selesai untuk memupuk [muhibbah](position_muhibbah.md) antara kaumnya, mengekalkan [bahasa Melayu](position_language_ms_my.md) sebagai bahasa yang menyatukan tanpa melupakan bahasa ibunda yang lain, dan menjadikan [Islam dan kepelbagaian](position_islam.md) hidup berdampingan dalam keamanan, sehingga daripada yang berbilang lahir satu bangsa Malaysia.
 
 ## Owner
 

@@ -50,6 +50,7 @@ Une terre que les anciens ont longtemps traversee plus qu'habitee: caravanes de 
 - [la rencontre des deux peuples](position_deux_peuples.md)
 - [le carrefour](position_carrefour.md)
 - [le nomadisme pastoral](position_nomadisme.md)
+- [le francais de Djibouti](position_language_fr_dj.md)
 
 **Pieces**
 

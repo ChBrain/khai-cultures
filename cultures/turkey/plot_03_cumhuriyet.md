@@ -26,13 +26,13 @@ Birinci Dünya Savaşı'ndan sonra Osmanlı çöker ve toprakları paylaşılmay
 
 ## Action
 
-1923'te [Atatürk](persona_ataturk.md) laik cumhuriyeti kurar. Başkenti imparatorluk şehri İstanbul yerine Anadolu'nun ortasındaki [Ankara](place_ankara.md) yapar. 1928'de harf devrimiyle [dili](position_turk_dili.md) Arap alfabesinden ve Osmanlıca'dan koparıp Latin harflerine ve arı bir Türkçeye çevirir; halka yeni harfleri kendi öğretir. [Laiklik](position_laiklik_din.md), giyim, hukuk ve takvimde radikal bir Batılılaşma gelir.
+1923'te [Atatürk](persona_ataturk.md) laik cumhuriyeti kurar. Başkenti imparatorluk şehri İstanbul yerine Anadolu'nun ortasındaki [Ankara](place_ankara.md) yapar. 1928'de harf devrimiyle [dili](position_language_tr_tr.md) Arap alfabesinden ve Osmanlıca'dan koparıp Latin harflerine ve arı bir Türkçeye çevirir; halka yeni harfleri kendi öğretir. [Laiklik](position_laiklik_din.md), giyim, hukuk ve takvimde radikal bir Batılılaşma gelir.
 
 ## Stage
 
 - [Atatürk](persona_ataturk.md): laik cumhuriyeti kuran ve dili yeniden yapan devrimci.
 - [laiklik ve din](position_laiklik_din.md): devleti dinden ayıran yeni cumhuriyetin temeli.
-- [Türk dili](position_turk_dili.md): Osmanlıca'dan koparılıp Latin harfleriyle arılaştırılan dil.
+- [Türk dili](position_language_tr_tr.md): Osmanlıca'dan koparılıp Latin harfleriyle arılaştırılan dil.
 - [Ankara](place_ankara.md): yeni laik ulusu işaretleyen, Anadolu'da seçilmiş cumhuriyet başkenti.
 
 ## Tension

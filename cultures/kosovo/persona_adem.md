@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Një bujq shqiptar dhe rapsod i vjetër mbi të shtatëdhjetat nga rajoni i Rugovës, i lidhur fort me tokën dhe kujtesën historike të vendit. Gjuha shqipe, me të gjitha ngjyrimet e dialektit gegë, është gjuha e tij amtare, me të cilën ai [flet, dëgjon dhe mendon](process_speaking_mother_tongue.md), tingulli i parë që shpreh shpirtin dhe qëndresën e tij. Ai nuk flet gjuhë të huaja dhe ka jetuar gjithë jetën në fshatin e tij malor. Por rënia fshihet në palosje : rregullat e reja dhe direktivat që vijnë nga Prishtina dhe ndërkombëtarët [lexohen prej tij vetëm me mospëlqim](process_reading_followed.md), duke ndjerë një lloj humbjeje të autonomisë dhe të thjeshtësisë së jetës së vjetër.
+Një bujq shqiptar dhe rapsod i vjetër mbi të shtatëdhjetat nga rajoni i Rugovës, i lidhur fort me tokën dhe kujtesën historike të vendit. [Gjuha shqipe](position_language_sq_xk.md), me të gjitha ngjyrimet e dialektit gegë, është gjuha e tij amtare, me të cilën ai [flet, dëgjon dhe mendon](process_speaking_mother_tongue.md), tingulli i parë që shpreh shpirtin dhe qëndresën e tij. Ai nuk flet gjuhë të huaja dhe ka jetuar gjithë jetën në fshatin e tij malor. Por rënia fshihet në palosje : rregullat e reja dhe direktivat që vijnë nga Prishtina dhe ndërkombëtarët [lexohen prej tij vetëm me mospëlqim](process_reading_followed.md), duke ndjerë një lloj humbjeje të autonomisë dhe të thjeshtësisë së jetës së vjetër.
 
 ## Action
 

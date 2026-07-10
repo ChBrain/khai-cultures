@@ -46,6 +46,7 @@ A land of cultural synthesis and water-bound adaptation, defined by its unique F
 
 - [Creole pluralism](position_creole_pluralism.md)
 - [bayou resilience](position_bayou_resilience.md)
+- [Louisiana English](position_language_en_us_la.md)
 
 **Pieces**
 

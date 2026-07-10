@@ -46,6 +46,7 @@ Una cornisa costera de puertos pesqueros encajados, praderas verdes de media mon
 
 - [el mar Cantábrico](position_mar_cantabrico.md)
 - [el valle pasiego](position_valle_pasiego.md)
+- [el español de Cantabria](position_language_es_es_cb.md)
 
 **Pieces**
 

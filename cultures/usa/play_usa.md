@@ -50,6 +50,7 @@ A nation unlike the old ones: not a people who slowly became a state, but a stat
 - [the creed](position_the_creed.md)
 - [the frontier](position_the_frontier.md)
 - [exceptionalism](position_exceptionalism.md)
+- [American English](position_language_en_us.md)
 
 **Pieces**
 

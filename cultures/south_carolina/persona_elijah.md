@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old Gullah basket weaver in Mt. Pleasant. English, spoken with a melodic Gullah Lowcountry cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his family life. He speaks no foreign languages. Yet the loss lies in the seam: The fast, commercial talk of preservation architects like Charlotte and the digital demands of Charleston tourism boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the ancestral, resource-conserving wisdom of the coastal marshes is treated as secondary to corporate resort development.
+A fifty-two-year-old Gullah basket weaver in Mt. Pleasant. English, spoken with a melodic Gullah Lowcountry cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his family life. It is the [South Carolina English](position_language_en_us_sc.md) of the Lowcountry, the melodic Gullah cadence of the Mt. Pleasant sea-island communities. He speaks no foreign languages. Yet the loss lies in the seam: The fast, commercial talk of preservation architects like Charlotte and the digital demands of Charleston tourism boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the ancestral, resource-conserving wisdom of the coastal marshes is treated as secondary to corporate resort development.
 
 ## Action
 

@@ -50,6 +50,7 @@ Ng beluu el chetiil er a omenged: a re Belau a kiei er a chelsel a chull ma rock
 - [a telungalek ma bai](position_a_telungalek_ma_bai.md)
 - [a chelechol ra omenged](position_a_chelechol_ra_omenged.md)
 - [a Belau el diak a nuclear](position_belau_diak_a_nuclear.md)
+- [a tekoi er a Belau](position_language_pau.md)
 
 **Pieces**
 

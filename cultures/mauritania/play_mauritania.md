@@ -50,6 +50,7 @@ stamp:
 - [البادية](position_albadia.md)
 - [المحظرة](position_almahadra.md)
 - [الضيافة](position_aldyafa.md)
+- [الحسانية](position_language_ar_mr.md)
 
 **Pieces**
 

@@ -46,6 +46,7 @@ Una piccola comunità di tagliapietre rifugiatasi su una montagna per sfuggire a
 - [la libertà perpetua](position_liberta.md)
 - [la repubblica](position_repubblica.md)
 - [il Monte Titano](position_titano.md)
+- [l'italiano sammarinese](position_language_it_sm.md)
 
 **Pieces**
 

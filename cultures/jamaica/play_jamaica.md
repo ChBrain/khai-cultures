@@ -50,6 +50,7 @@ A small island whose story is far larger than its shores. First the home of the 
 - [out of many, one people](position_out_of_many_one_people.md)
 - [the resistance](position_the_resistance.md)
 - [reggae and Rastafari](position_reggae_and_rastafari.md)
+- [Jamaican English](position_language_en_jm.md)
 
 **Pieces**
 

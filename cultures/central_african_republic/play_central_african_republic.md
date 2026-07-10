@@ -50,6 +50,7 @@ Une terre placee tout au milieu du continent, la ou se croisent la foret equator
 - [zo kwe zo](position_zo_kwe_zo.md)
 - [le sango](position_le_sango.md)
 - [les peuples](position_les_peuples.md)
+- [le francais centrafricain](position_language_fr_cf.md)
 
 **Pieces**
 

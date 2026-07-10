@@ -50,6 +50,7 @@ Zambia is not one people who slowly became a state, but many peoples who chose, 
 - [One Zambia, One Nation](position_one_zambia_one_nation.md)
 - [Humanism](position_humanism.md)
 - [the bush](position_the_bush.md)
+- [Zambian English](position_language_en_zm.md)
 
 **Pieces**
 

@@ -50,6 +50,7 @@ Ghana is a young state wearing an old name, and that, chale, tells you the whole
 - [akwaaba](position_akwaaba.md)
 - [the Golden Stool](position_the_golden_stool.md)
 - [the proverb](position_the_proverb.md)
+- [Ghanaian English](position_language_en_gh.md)
 
 **Pieces**
 

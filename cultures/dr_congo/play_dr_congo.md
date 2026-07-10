@@ -50,6 +50,7 @@ Avant l'Etat il y avait les royaumes: le grand royaume Kongo a l'embouchure du f
 - [le fleuve](position_le_fleuve.md)
 - [la rumba](position_la_rumba.md)
 - [le pays-continent](position_le_pays_continent.md)
+- [le français congolais](position_language_fr_cd.md)
 
 **Pieces**
 

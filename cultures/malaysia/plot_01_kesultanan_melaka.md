@@ -26,12 +26,12 @@ Pada awal abad kelima belas, seorang putera membuka sebuah kampung nelayan di te
 
 ## Action
 
-Sepanjang abad itu Melaka menjadi pusat dagangan terbesar di rantau ini, sebuah entrepot tempat rempah, kain, dan barang dunia bertukar tangan. Di sini Islam berakar dan tersebar ke seluruh Nusantara, adat dan undang-undang Melayu disusun, dan [bahasa Melayu](position_bahasa_melayu.md) menjadi bahasa perantara seluruh dagangan Timur, difahami dari pelabuhan ke pelabuhan. Sebuah kesultanan yang besar bukan kerana tanahnya yang luas, tetapi kerana ia menjadi tempat pertemuan dunia.
+Sepanjang abad itu Melaka menjadi pusat dagangan terbesar di rantau ini, sebuah entrepot tempat rempah, kain, dan barang dunia bertukar tangan. Di sini Islam berakar dan tersebar ke seluruh Nusantara, adat dan undang-undang Melayu disusun, dan [bahasa Melayu](position_language_ms_my.md) menjadi bahasa perantara seluruh dagangan Timur, difahami dari pelabuhan ke pelabuhan. Sebuah kesultanan yang besar bukan kerana tanahnya yang luas, tetapi kerana ia menjadi tempat pertemuan dunia.
 
 ## Stage
 
 - [Melaka](place_melaka.md): pelabuhan agung tempat semua angin dan bangsa bertemu.
-- [bahasa Melayu](position_bahasa_melayu.md): bahasa yang menjadi lingua franca dagangan seluruh rantau.
+- [bahasa Melayu](position_language_ms_my.md): bahasa yang menjadi lingua franca dagangan seluruh rantau.
 
 ## Tension
 

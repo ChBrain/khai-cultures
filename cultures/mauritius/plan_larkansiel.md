@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandeman ki sa zil la finn donn limem depi li vinn lib: travay konstan pou tini [lalit ansam](position_lalit_ansam.md), kot tou kominote viv ansam dan enn sel diniti, pou protez [Morisien](position_morisien.md) ek tou lalang ki form sa larkansiel la, ek pou gard [lakord bann lafwa](position_lakord_lafwa.md) kot Diwali, Eid ek Cavadee briye ansam dan enn sel lesiel.
+Mandeman ki sa zil la finn donn limem depi li vinn lib: travay konstan pou tini [lalit ansam](position_lalit_ansam.md), kot tou kominote viv ansam dan enn sel diniti, pou protez [Morisien](position_language_mfe.md) ek tou lalang ki form sa larkansiel la, ek pou gard [lakord bann lafwa](position_lakord_lafwa.md) kot Diwali, Eid ek Cavadee briye ansam dan enn sel lesiel.
 
 ## Owner
 

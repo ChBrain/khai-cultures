@@ -50,6 +50,7 @@ This is the one country in the world named for its river, and rightly so, for th
 - [the river](position_the_river.md)
 - [jaliya](position_jaliya.md)
 - [teranga](position_teranga.md)
+- [Gambian English](position_language_en_gm.md)
 
 **Pieces**
 

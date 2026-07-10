@@ -50,6 +50,7 @@ stamp:
 - [ພະທຳ](position_the_dhamma.md)
 - [ລ້ານຊ້າງ](position_lan_xang.md)
 - [ບໍ່ເປັນຫຍັງ](position_bo_pen_nyang.md)
+- [ພາສາລາວ](position_language_lo.md)
 
 **Pieces**
 

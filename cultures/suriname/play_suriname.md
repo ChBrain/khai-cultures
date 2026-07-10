@@ -50,6 +50,7 @@ Een land dat al bewoond werd door inheemse volken toen het een Nederlandse kolon
 - [wan bon](position_wan_bon.md)
 - [de marronvrijheid](position_de_marronvrijheid.md)
 - [de koloniale wond](position_de_koloniale_wond.md)
+- [Nederlands](position_language_nl_sr.md)
 
 **Pieces**
 

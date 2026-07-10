@@ -49,7 +49,7 @@ stamp:
 
 - [Дала жолы](position_dala.md)
 - [Тәңірі мен иман](position_tanir_iman.md)
-- [Ана тілі](position_ana_tili.md)
+- [Ана тілі](position_language_kk.md)
 
 **Pieces**
 
@@ -72,7 +72,7 @@ stamp:
 
 **[Plot 2: Абай және қазақ сөзінің гүлденуі](plot_02_abai_zaman.md)**
 
-Он тоғызыншы ғасырда [Абай Құнанбайұлы](persona_abai.md) қазақ сөзін жазба әдебиетке көтеріп, [Ана тілін](position_ana_tili.md) ұлттың ар-ожданына айналдырады.
+Он тоғызыншы ғасырда [Абай Құнанбайұлы](persona_abai.md) қазақ сөзін жазба әдебиетке көтеріп, [Ана тілін](position_language_kk.md) ұлттың ар-ожданына айналдырады.
 
 **[Plot 3: Жиырмасыншы ғасыр сынақтары](plot_03_zhyirma_gasyr.md)**
 

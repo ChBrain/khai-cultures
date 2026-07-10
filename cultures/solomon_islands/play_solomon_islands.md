@@ -50,6 +50,7 @@ Wanfala neson blong planti aelan an planti tok, bat wanfala laen blong wantok ho
 - [the wantok and kastom](position_wantok_na_kastom.md)
 - [the saltwater and the bush](position_solwata_na_bus.md)
 - [the great war and the reconciliation](position_bigfala_faet_na_stretem.md)
+- [Pijin](position_language_pis.md)
 
 **Pieces**
 

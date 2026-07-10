@@ -46,6 +46,7 @@ A land of cultural heritage and advanced scientific research, defined by the dry
 
 - [pueblo heritage](position_pueblo_heritage.md)
 - [desert science](position_desert_science.md)
+- [New Mexico English](position_language_en_us_nm.md)
 
 **Pieces**
 

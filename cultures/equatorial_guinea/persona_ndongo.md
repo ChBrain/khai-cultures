@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[la lengua heredada](position_la_lengua_heredada.md)
+[la lengua heredada](position_language_es_gq.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ El escritor y periodista nacido en Río Muni que dio a su país una voz en la no
 
 ## Action
 
-En [la nación](plot_04_la_nacion.md) levanta, sobre [la lengua heredada](position_la_lengua_heredada.md), la primera narrativa de un guineano que cuenta Guinea a Guinea y al mundo, fijando en castellano la memoria de los poblados y de las fincas. Al ponerlo por escrito, hace de una lengua venida de fuera el instrumento con que el país se nombra a sí mismo.
+En [la nación](plot_04_la_nacion.md) levanta, sobre [la lengua heredada](position_language_es_gq.md), la primera narrativa de un guineano que cuenta Guinea a Guinea y al mundo, fijando en castellano la memoria de los poblados y de las fincas. Al ponerlo por escrito, hace de una lengua venida de fuera el instrumento con que el país se nombra a sí mismo.
 
 ## Shadow
 

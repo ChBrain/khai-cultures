@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-L'eroe dei due mondi, il condottiero che unì l'Italia con la camicia rossa e i Mille. [Parla, sente e pensa](process_speaking_mother_tongue.md) la sua lingua, e dagli anni di esilio e di guerra in Sud America [porta con sé lo spagnolo e il portoghese](process_speaking_carried.md). Poi guida la spedizione che unisce una penisola i cui popoli non si capiscono tra loro: il contadino del Sud e il piemontese non parlano la stessa lingua. Lì è la frattura: fa l'Italia di genti che a voce non si intendono, e resta vero che, fatta l'Italia, restano da fare gli italiani.
+L'eroe dei due mondi, il condottiero che unì l'Italia con la camicia rossa e i Mille. [Parla, sente e pensa](process_speaking_mother_tongue.md) la sua lingua, e dagli anni di esilio e di guerra in Sud America [porta con sé lo spagnolo e il portoghese](process_speaking_carried.md). Poi guida la spedizione che unisce una penisola i cui popoli non si capiscono tra loro: il contadino del Sud e il piemontese non parlano [la stessa lingua nazionale](position_language_it_it.md). Lì è la frattura: fa l'Italia di genti che a voce non si intendono, e resta vero che, fatta l'Italia, restano da fare gli italiani.
 
 ## Action
 

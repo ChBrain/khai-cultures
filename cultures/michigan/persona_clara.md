@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old ferry captain on Mackinac Island. English, spoken with a slow, flat northern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily logs. She speaks no foreign languages. Yet the loss lies in the seam: The fast, engineering talk of automotive designers like Marcus and the digital demands of Detroit rapid transit [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of Great Lakes shipping is treated as secondary to corporate quarterly metrics.
+A fifty-two-year-old ferry captain on Mackinac Island. English, spoken with a slow, flat northern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily logs. What she speaks is [Michigan English](position_language_en_us_mi.md), the flat northern cadence of the Great Lakes shore. She speaks no foreign languages. Yet the loss lies in the seam: The fast, engineering talk of automotive designers like Marcus and the digital demands of Detroit rapid transit [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of Great Lakes shipping is treated as secondary to corporate quarterly metrics.
 
 ## Action
 

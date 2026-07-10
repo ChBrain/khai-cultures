@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [মাতৃভাষা](position_matribhasha.md)
+- [মাতৃভাষা](position_language_bn.md)
 - [নদীর দেশ](position_nadir_desh.md)
 - [সমন্বয়ী বিশ্বাস](position_samannay.md)
 
@@ -68,11 +68,11 @@ stamp:
 
 **[Plot 1: বঙ্গীয় নবজাগরণ](plot_01_nabajagaran.md)**
 
-ঊনবিংশ ও বিংশ শতকে বাংলার ভাষা ও সাহিত্য তার শিখরে ওঠে; [রবীন্দ্রনাথ ঠাকুর](persona_tagore.md) ও [কাজী নজরুল ইসলাম](persona_nazrul.md) [মাতৃভাষা](position_matribhasha.md)কে গান, কবিতা ও গৌরবে ভরিয়ে দেন।
+ঊনবিংশ ও বিংশ শতকে বাংলার ভাষা ও সাহিত্য তার শিখরে ওঠে; [রবীন্দ্রনাথ ঠাকুর](persona_tagore.md) ও [কাজী নজরুল ইসলাম](persona_nazrul.md) [মাতৃভাষা](position_language_bn.md)কে গান, কবিতা ও গৌরবে ভরিয়ে দেন।
 
 **[Plot 2: ভাষা আন্দোলন (১৯৫২)](plot_02_bhasha_andolon.md)**
 
-১৯৫২ সালের একুশে ফেব্রুয়ারি [ঢাকা](place_dhaka.md)র রাজপথে মাতৃভাষার মর্যাদার দাবিতে তরুণেরা প্রাণ দেন, আর [মাতৃভাষা](position_matribhasha.md) হয়ে ওঠে জাতির ভিত্তি।
+১৯৫২ সালের একুশে ফেব্রুয়ারি [ঢাকা](place_dhaka.md)র রাজপথে মাতৃভাষার মর্যাদার দাবিতে তরুণেরা প্রাণ দেন, আর [মাতৃভাষা](position_language_bn.md) হয়ে ওঠে জাতির ভিত্তি।
 
 **[Plot 3: স্বাধীনতা (১৯৭১)](plot_03_swadhinata.md)**
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Un pêcheur monégasque de plus de soixante-dix ans, l'un des rares à habiter encore les ruelles étroites du Rocher. Le français, teinté de quelques expressions du dialecte monégasque ancestral, est sa langue maternelle, celle dans laquelle il [parle, entend et pense](process_speaking_mother_tongue.md), le cordon ombilical qui le relie à la mer et aux traditions de sa principauté. Il ne parle pas l'anglais ni les langues des nouveaux résidents fortunés. Mais le déclin se cache dans la pliure : les règlements administratifs et les nouveaux plans d'aménagement [ne sont par lui lus qu'avec amertume](process_reading_followed.md), lui qui voit la côte de son enfance se couvrir de béton et de verre au nom du progrès financier.
+Un pêcheur monégasque de plus de soixante-dix ans, l'un des rares à habiter encore les ruelles étroites du Rocher. [Le français de Monaco](position_language_fr_mc.md), teinté de quelques expressions du dialecte monégasque ancestral, est sa langue maternelle, celle dans laquelle il [parle, entend et pense](process_speaking_mother_tongue.md), le cordon ombilical qui le relie à la mer et aux traditions de sa principauté. Il ne parle pas l'anglais ni les langues des nouveaux résidents fortunés. Mais le déclin se cache dans la pliure : les règlements administratifs et les nouveaux plans d'aménagement [ne sont par lui lus qu'avec amertume](process_reading_followed.md), lui qui voit la côte de son enfance se couvrir de béton et de verre au nom du progrès financier.
 
 ## Action
 

@@ -50,6 +50,7 @@ Two islands the Taino and Kalinago held first, that Columbus sighted in 1498 and
 - [the callaloo nation](position_the_callaloo_nation.md)
 - [mas, pan and calypso](position_mas_pan_and_calypso.md)
 - [the West Indian mind](position_the_west_indian_mind.md)
+- [the Trinidadian tongue](position_language_en_tt.md)
 
 **Pieces**
 

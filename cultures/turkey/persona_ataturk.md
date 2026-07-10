@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Çöken imparatorluğun küllerinden 1923'te laik cumhuriyeti kuran komutan ve devrimci; 1928 harf devriminin, dili ve ulusu baştan yapan radikal Batılılaştırıcının mimarı. Kararlı, akılcı, sabırsız bir iradeyle ülkeyi yüzünü Batı'ya döndürmeye zorlar. Türkçeyi ana dili olarak [konuşur, düşünür ve yazar](process_speaking_mother_tongue.md), ama dili kendi geçmişinden koparır: yeni Latin harflerini halka eline tebeşir alıp kara tahta başında bizzat öğretir, öyle ki halk artık eski Osmanlıca yazıyı [okuyamaz, çözemez](process_reading_deciphered.md) olur. Yüzünü döndüğü Batı'nın Fransızcasını [bir araç gibi taşır](process_speaking_carried.md) ve onunla okur. Ulusu yeniden yapmak için dili kendi geçmişinden koparan kurucu - dilin sınırında açılan boşluk.
+Çöken imparatorluğun küllerinden 1923'te laik cumhuriyeti kuran komutan ve devrimci; 1928 harf devriminin, dili ve ulusu baştan yapan radikal Batılılaştırıcının mimarı. Kararlı, akılcı, sabırsız bir iradeyle ülkeyi yüzünü Batı'ya döndürmeye zorlar. [Türk dilini](position_language_tr_tr.md) ana dili olarak [konuşur, düşünür ve yazar](process_speaking_mother_tongue.md), ama dili kendi geçmişinden koparır: yeni Latin harflerini halka eline tebeşir alıp kara tahta başında bizzat öğretir, öyle ki halk artık eski Osmanlıca yazıyı [okuyamaz, çözemez](process_reading_deciphered.md) olur. Yüzünü döndüğü Batı'nın Fransızcasını [bir araç gibi taşır](process_speaking_carried.md) ve onunla okur. Ulusu yeniden yapmak için dili kendi geçmişinden koparan kurucu - dilin sınırında açılan boşluk.
 
 ## Action
 
-[Cumhuriyet](plot_03_cumhuriyet.md)'te laik devleti kurar ve [harf devrimiyle](position_turk_dili.md) dili Osmanlıca'dan koparır. Devleti dinden ayırıp [laikliği](position_laiklik_din.md) cumhuriyetin temeli yaparak, ulusu Anadolu'nun köklü İslam'ıyla Batı'ya dönmüş modern devlet arasındaki o derin fay hattına yerleştirir.
+[Cumhuriyet](plot_03_cumhuriyet.md)'te laik devleti kurar ve [harf devrimiyle](position_language_tr_tr.md) dili Osmanlıca'dan koparır. Devleti dinden ayırıp [laikliği](position_laiklik_din.md) cumhuriyetin temeli yaparak, ulusu Anadolu'nun köklü İslam'ıyla Batı'ya dönmüş modern devlet arasındaki o derin fay hattına yerleştirir.
 
 ## Shadow
 

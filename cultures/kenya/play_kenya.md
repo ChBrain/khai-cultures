@@ -48,7 +48,7 @@ Nchi inayoanzia ufuoni, ambapo mji wa Mombasa na kisiwa cha Lamu vilijenga ustaa
 **Positions**
 
 - [harambee](position_harambee.md)
-- [Kiswahili](position_kiswahili.md)
+- [Kiswahili](position_language_sw_ke.md)
 - [ardhi na mazingira](position_ardhi.md)
 
 **Pieces**
@@ -68,7 +68,7 @@ Nchi inayoanzia ufuoni, ambapo mji wa Mombasa na kisiwa cha Lamu vilijenga ustaa
 
 **[Plot 1: ustaarabu wa Pwani](plot_01_ustaarabu_wa_pwani.md)**
 
-Kwa karne nyingi mji wa [Mombasa](place_mombasa.md) na visiwa vya pwani vilijenga ustaarabu wa Waswahili kwa majahazi na biashara ya Bahari Hindi, na kutoka humo [Kiswahili](position_kiswahili.md) kilizaliwa kama lugha ya soko na ya mashairi.
+Kwa karne nyingi mji wa [Mombasa](place_mombasa.md) na visiwa vya pwani vilijenga ustaarabu wa Waswahili kwa majahazi na biashara ya Bahari Hindi, na kutoka humo [Kiswahili](position_language_sw_ke.md) kilizaliwa kama lugha ya soko na ya mashairi.
 
 **[Plot 2: harakati za uhuru](plot_02_harakati_za_uhuru.md)**
 
@@ -76,7 +76,7 @@ Katikati ya karne ya ishirini Wakenya walidai kurudishiwa ardhi yao na utawala w
 
 **[Plot 3: kujenga taifa](plot_03_kujenga_taifa.md)**
 
-Baada ya uhuru taifa changa lilijenga shule, barabara na hospitali kwa michango ya wananchi, na [Ngugi wa Thiong'o](persona_ngugi.md) aliandika ili [Kiswahili](position_kiswahili.md) na lugha za mama zibebe taifa jipya.
+Baada ya uhuru taifa changa lilijenga shule, barabara na hospitali kwa michango ya wananchi, na [Ngugi wa Thiong'o](persona_ngugi.md) aliandika ili [Kiswahili](position_language_sw_ke.md) na lugha za mama zibebe taifa jipya.
 
 **[Plot 4: Kenya mbele ya dunia](plot_04_kenya_ya_kisasa.md)**
 
@@ -84,4 +84,4 @@ Katika nyakati za sasa Kenya inasimama mbele ya dunia: wakimbiaji wa Bonde la Uf
 
 ## Stakes
 
-Iwapo taifa la makabila mengi yenye lugha zao na desturi zao linaweza kuendelea kuwa moja kwa nguvu ya [Kiswahili](position_kiswahili.md) na roho ya [harambee](position_harambee.md), kuvuta kamba pamoja bila kamba kukatika; iwapo linaweza kulinda [ardhi na mazingira](position_ardhi.md) yake, misitu, maji na wanyama, dhidi ya pupa na ukame; na iwapo bidii ya vijana wake na vipaji vya wakimbiaji wake vinaweza kubeba taifa zima mbele bila kumwacha hata mmoja nyuma.
+Iwapo taifa la makabila mengi yenye lugha zao na desturi zao linaweza kuendelea kuwa moja kwa nguvu ya [Kiswahili](position_language_sw_ke.md) na roho ya [harambee](position_harambee.md), kuvuta kamba pamoja bila kamba kukatika; iwapo linaweza kulinda [ardhi na mazingira](position_ardhi.md) yake, misitu, maji na wanyama, dhidi ya pupa na ukame; na iwapo bidii ya vijana wake na vipaji vya wakimbiaji wake vinaweza kubeba taifa zima mbele bila kumwacha hata mmoja nyuma.

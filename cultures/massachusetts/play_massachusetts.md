@@ -46,6 +46,7 @@ A theater of moral conviction, intellectual rigor, and revolutionary dissent, sh
 
 - [the Puritan legacy](position_puritan_legacy.md)
 - [the revolutionary spirit](position_revolution.md)
+- [Massachusetts English](position_language_en_us_ma.md)
 
 **Pieces**
 

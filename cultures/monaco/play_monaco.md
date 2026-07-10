@@ -46,6 +46,7 @@ Un rocher fortifié dominant la Méditerranée, conquis par la ruse des Grimaldi
 - [la dynastie Grimaldi](position_dynastie.md)
 - [le Rocher](position_rocher.md)
 - [le casino de Monte-Carlo](position_casino.md)
+- [le français de Monaco](position_language_fr_mc.md)
 
 **Pieces**
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-이른 새벽 가장 먼저 일어나 부엌의 불을 지피는 보통의 어머니이다. 한 사람을 가리키는 것이 아니라, 가족을 거두고 마을의 일을 거들며 살림을 꾸려온 수많은 어머니의 모습이다. 부지런하고 아끼며, 제 손으로 짓고 제 힘으로 가족을 일으키는 사람. 그는 조선말을 [말하고](process_speaking_mother_tongue.md) [생각하며](process_thinking_mother_tongue.md), 아이에게 그 말을 [들려주어](process_hearing_mother_tongue.md) 첫말을 가르치고, 옛이야기와 노래를 입으로 건넨다. 글을 많이 배우지는 못하였어도 편지 한 장은 또박또박 [한글로 적어](process_writing_mother_tongue.md) 멀리 있는 식구에게 보낸다. 다 적지 못한 마음이 늘 종이 끝에 남고, 보고 싶다는 한마디로도 다 옮겨지지 않는 정, 곧 혀끝의 끝에 닿지 못한 그 마음은 다음에 만나 손을 잡을 때로 미루어진다.
+이른 새벽 가장 먼저 일어나 부엌의 불을 지피는 보통의 어머니이다. 한 사람을 가리키는 것이 아니라, 가족을 거두고 마을의 일을 거들며 살림을 꾸려온 수많은 어머니의 모습이다. 부지런하고 아끼며, 제 손으로 짓고 제 힘으로 가족을 일으키는 사람. 그는 [조선말](position_language_ko_kp.md)을 [말하고](process_speaking_mother_tongue.md) [생각하며](process_thinking_mother_tongue.md), 아이에게 그 말을 [들려주어](process_hearing_mother_tongue.md) 첫말을 가르치고, 옛이야기와 노래를 입으로 건넨다. 글을 많이 배우지는 못하였어도 편지 한 장은 또박또박 [한글로 적어](process_writing_mother_tongue.md) 멀리 있는 식구에게 보낸다. 다 적지 못한 마음이 늘 종이 끝에 남고, 보고 싶다는 한마디로도 다 옮겨지지 않는 정, 곧 혀끝의 끝에 닿지 못한 그 마음은 다음에 만나 손을 잡을 때로 미루어진다.
 
 ## Action
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-four-year-old preservationist in New Orleans. English is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her professional life. French [she wears as an overgarment](process_speaking_worn.md) during historic archives research, keeping alive the language of her Creole ancestors. Yet the loss lies in the seam: The slower, nature-bound agricultural talk of swamp guides like Jean and the environmental planning under [the coastal master plan](plan_coastal_master_plan.md) [she reads only as technical statistics](process_reading_followed.md) on her terminal, feeling that the patient, music-filled history of the city is being replaced by commercialized tourism and high-tech engineering.
+A fifty-four-year-old preservationist in New Orleans. English is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her professional life. It is the distinctive New Orleans [Louisiana English](position_language_en_us_la.md), the working city speech of the preservationist. French [she wears as an overgarment](process_speaking_worn.md) during historic archives research, keeping alive the language of her Creole ancestors. Yet the loss lies in the seam: The slower, nature-bound agricultural talk of swamp guides like Jean and the environmental planning under [the coastal master plan](plan_coastal_master_plan.md) [she reads only as technical statistics](process_reading_followed.md) on her terminal, feeling that the patient, music-filled history of the city is being replaced by commercialized tourism and high-tech engineering.
 
 ## Action
 

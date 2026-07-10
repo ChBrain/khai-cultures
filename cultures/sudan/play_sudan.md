@@ -50,6 +50,7 @@ stamp:
 - [النوبة وكوش](position_al_nuba.md)
 - [التصوف](position_al_tasawwuf.md)
 - [الكرامة](position_al_karama.md)
+- [العربية](position_language_ar_sd.md)
 
 **Pieces**
 

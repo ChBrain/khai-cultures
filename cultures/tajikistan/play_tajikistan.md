@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [Сухани форсӣ](position_suxani_forsi.md)
+- [Сухани форсӣ](position_language_tg.md)
 - [Кӯҳҳо](position_kuhho.md)
 - [Меҳмоннавозӣ](position_mehmonnavozi.md)
 
@@ -68,7 +68,7 @@ stamp:
 
 **[Plot 1: Асри тиллоии Сомониён](plot_01_somonien.md)**
 
-Дар асрҳои нӯҳум ва даҳум Исмоили Сомонӣ давлате бунёд мекунад, ки дар он [сухани форсӣ](position_suxani_forsi.md) ба авҷ мерасад, ва [Абӯабдуллоҳ Рӯдакӣ](persona_rudaki.md) дар [Душанбе](place_dushanbe.md)-и оянда ва шаҳрҳои қадим падари шеъри форсӣ мешавад.
+Дар асрҳои нӯҳум ва даҳум Исмоили Сомонӣ давлате бунёд мекунад, ки дар он [сухани форсӣ](position_language_tg.md) ба авҷ мерасад, ва [Абӯабдуллоҳ Рӯдакӣ](persona_rudaki.md) дар [Душанбе](place_dushanbe.md)-и оянда ва шаҳрҳои қадим падари шеъри форсӣ мешавад.
 
 **[Plot 2: Кӯҳҳо ва имон](plot_02_kuhho_imon.md)**
 

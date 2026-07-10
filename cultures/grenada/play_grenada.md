@@ -50,6 +50,7 @@ A small green island the wide world done fight over, and that fight back, in she
 - [the Spice Isle](position_the_spice_isle.md)
 - [the rebel tradition](position_the_rebel_tradition.md)
 - [the revolution and the reckoning](position_the_revolution_and_the_reckoning.md)
+- [Grenadian English](position_language_en_gd.md)
 
 **Pieces**
 

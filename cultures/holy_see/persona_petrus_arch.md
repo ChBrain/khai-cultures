@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Petrus est custos helvetius viginti quinque annorum, natus in helvetica rure, qui nunc vaticanis portis praesidet. Lingua theodisca est ei sermo patrius, quo ipse [loquitur, audit et cogitat](process_speaking_mother_tongue.md), vox originis et familiae. Linguam latinam [gerit tamquam superindutam](process_speaking_worn.md) in sacris ritibus et negotiis curiae officialibus. Sed in commissura latet damnum : decreta papalia et curiae novae ordinationes [ab eo vix leguntur nisi invita mente](process_reading_followed.md), nam ille vaticanum mundum interdum alienum sentit, desiderans helvetici vallis pacem et simplicitatem.
+Petrus est custos helvetius viginti quinque annorum, natus in helvetica rure, qui nunc vaticanis portis praesidet. Lingua theodisca est ei sermo patrius, quo ipse [loquitur, audit et cogitat](process_speaking_mother_tongue.md), vox originis et familiae. Linguam latinam [gerit tamquam superindutam](process_speaking_worn.md) in sacris ritibus et negotiis curiae officialibus, nempe [lingua Latina](position_language_la.md) officialis Sanctae Sedis, quam ipse gerit docta non nata. Sed in commissura latet damnum : decreta papalia et curiae novae ordinationes [ab eo vix leguntur nisi invita mente](process_reading_followed.md), nam ille vaticanum mundum interdum alienum sentit, desiderans helvetici vallis pacem et simplicitatem.
 
 ## Action
 

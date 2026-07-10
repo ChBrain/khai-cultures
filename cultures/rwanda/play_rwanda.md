@@ -50,6 +50,7 @@ Igihugu cy'imisozi yacurwe nk'urugendo rurerure rw'imihora itagira ingano, aho i
 - [ubumwe](position_ubumwe.md)
 - [agaciro](position_agaciro.md)
 - [umuco w'inka](position_umuco_winka.md)
+- [Ikinyarwanda](position_language_rw.md)
 
 **Pieces**
 

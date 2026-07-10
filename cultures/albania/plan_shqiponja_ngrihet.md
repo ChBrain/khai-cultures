@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandat, ende i hapur: pyetja që Shqipëria ia bën vetes, domethënë si të ngrihet nga izolimi dhe kaosi drejt Evropës dhe botës pa i humbur rrënjët, duke e mbajtur [gjuhën shqipe](position_gjuha_shqipe.md) të vetme në degën e vet, [besën](position_besa.md) e fjalës së dhënë dhe [shqiptarinë](position_shqiptaria.md) që e vë kombin mbi fe si forca të gjalla, jo si kujtim.
+Mandat, ende i hapur: pyetja që Shqipëria ia bën vetes, domethënë si të ngrihet nga izolimi dhe kaosi drejt Evropës dhe botës pa i humbur rrënjët, duke e mbajtur [gjuhën shqipe](position_language_sq_al.md) të vetme në degën e vet, [besën](position_besa.md) e fjalës së dhënë dhe [shqiptarinë](position_shqiptaria.md) që e vë kombin mbi fe si forca të gjalla, jo si kujtim.
 
 ## Owner
 

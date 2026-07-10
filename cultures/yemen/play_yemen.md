@@ -50,6 +50,7 @@ stamp:
 - [العربية السعيدة](position_arabia_felix.md)
 - [طريق البخور](position_incense_road.md)
 - [الكَرَم والقبيلة](position_hospitality.md)
+- [العربية اليمنية](position_language_ar_ye.md)
 
 **Pieces**
 

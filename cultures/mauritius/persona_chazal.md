@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[Morisien](position_morisien.md)
+[Morisien](position_language_mfe.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Poet, penter, ek panser franko-morisien, sa zom singilie ki ti get so zil avek enn lizie ki personn lot pa ti ena. Dan so liv "Sens-Plastique" li ti met fler, montagn ek lalimier ansam dan bann fraz ki frap kouma zekler, ek li ti krwar ki Moris ek so montagn ti gard sekre enn lemond ankien. Sel, drol, ek vizioner, li ti viv apar ek koz ar later kouma personn. Franse, so lalang manman, li [koze](process_speaking_mother_tongue.md), [panse](process_thinking_mother_tongue.md), ek sirtou li [ekrir](process_writing_mother_tongue.md) avek enn lafors ki fer mo banal vinn zekler. Morisien, lalang lakour ek bazar ki ti otour li, li [tann li ek swiv li](process_hearing_followed.md) san efor, me li ti rod so vizion dan franse so liv. Li ti rod dir seki montagn ek fler ti pe sifle ar li, me ena bann verite ki okenn lalang pa rive dir net: pli li ti ekrir, pli li ti santi ki kot lalang arete, ena ankor enn silans ki li pa ti pou zame rant ladan.
+Poet, penter, ek panser franko-morisien, sa zom singilie ki ti get so zil avek enn lizie ki personn lot pa ti ena. Dan so liv "Sens-Plastique" li ti met fler, montagn ek lalimier ansam dan bann fraz ki frap kouma zekler, ek li ti krwar ki Moris ek so montagn ti gard sekre enn lemond ankien. Sel, drol, ek vizioner, li ti viv apar ek koz ar later kouma personn. Franse, so lalang manman, li [koze](process_speaking_mother_tongue.md), [panse](process_thinking_mother_tongue.md), ek sirtou li [ekrir](process_writing_mother_tongue.md) avek enn lafors ki fer mo banal vinn zekler. [Morisien](position_language_mfe.md), lalang lakour ek bazar ki ti otour li, li [tann li ek swiv li](process_hearing_followed.md) san efor, me li ti rod so vizion dan franse so liv. Li ti rod dir seki montagn ek fler ti pe sifle ar li, me ena bann verite ki okenn lalang pa rive dir net: pli li ti ekrir, pli li ti santi ki kot lalang arete, ena ankor enn silans ki li pa ti pou zame rant ladan.
 
 ## Action
 
-Dan [lendepandans](plot_04_lendepandans.md) so vwa res enn parmi bann ki finn donn sa zil enn lam, ki montre ki [Morisien](position_morisien.md) ek sa later la tini enn pwezi pou zot prop. Par get so zil avek lizie poet, li ed enn pei nef trouv so prop figir ek konpran ki so montagn, so fler, so melanz, tousala vo enn sante.
+Dan [lendepandans](plot_04_lendepandans.md) so vwa res enn parmi bann ki finn donn sa zil enn lam, ki montre ki [Morisien](position_language_mfe.md) ek sa later la tini enn pwezi pou zot prop. Par get so zil avek lizie poet, li ed enn pei nef trouv so prop figir ek konpran ki so montagn, so fler, so melanz, tousala vo enn sante.
 
 ## Shadow
 

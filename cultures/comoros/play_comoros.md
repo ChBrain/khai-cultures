@@ -50,6 +50,7 @@ Un peuple ne du brassage de l'ocean Indien : des Bantous d'Afrique, des Arabes v
 - [l'islam](position_l_islam.md)
 - [l'anda](position_l_anda.md)
 - [la mer](position_la_mer.md)
+- [le francais des Comores](position_language_fr_km.md)
 
 **Pieces**
 

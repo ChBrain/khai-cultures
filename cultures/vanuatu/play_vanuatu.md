@@ -50,6 +50,7 @@ Wan tijen blong Melanesia we ol man oli kam stap longtaem finis, longwe bifo ol 
 - [kastom](position_kastom.md)
 - [Kondominiom mo independens](position_kondominiom_na_independens.md)
 - [hapi aelan](position_hapi_aelan.md)
+- [Bislama](position_language_bis.md)
 
 **Pieces**
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old pipeline technician in Valdez. English, spoken with a technical drawl, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily pipeline monitoring operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound Inupiaq-inflected talk of hunters like Siku and the quiet history of [arctic survival](position_arctic_survival.md) [he reads only as regional logistics updates](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of early native communities is being forgotten in the race for high-volume oil transport.
+A thirty-eight-year-old pipeline technician in Valdez. [Alaskan English](position_language_en_us_ak.md), spoken with a technical drawl, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily pipeline monitoring operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound Inupiaq-inflected talk of hunters like Siku and the quiet history of [arctic survival](position_arctic_survival.md) [he reads only as regional logistics updates](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of early native communities is being forgotten in the race for high-volume oil transport.
 
 ## Action
 

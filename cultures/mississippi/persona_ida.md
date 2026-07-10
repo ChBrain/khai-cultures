@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old civil rights archivist in Jackson. English, spoken with a formal southern drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of musicians like Charles and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of community voting rights is treated as secondary to corporate entertainment and agricultural profit.
+A fifty-two-year-old civil rights archivist in Jackson. English, spoken with a formal southern drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. It is the [Mississippian English](position_language_en_us_ms.md) of the Jackson archive, the formal Southern drawl of the civil rights record. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of musicians like Charles and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of community voting rights is treated as secondary to corporate entertainment and agricultural profit.
 
 ## Action
 

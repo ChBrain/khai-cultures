@@ -49,7 +49,7 @@ An old country that learned, after conquest from across the Channel, to govern i
 - [fair play](position_fair_play.md)
 - [understatement](position_understatement.md)
 - [the amateur](position_the_amateur.md)
-- [the King's English](position_the_kings_english.md)
+- [the King's English](position_language_en_gb_eng.md)
 
 **Pieces**
 

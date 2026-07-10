@@ -34,4 +34,4 @@ I ganny pouse par sa lanvi en pti pep pour gard son nanm vivan dan en gran lemon
 
 ## Echo
 
-Festival Kreol i fer tande sa ki [Kreol](position_kreol.md) i koz: ki en langaz ek en kiltir ki'n ne dan ladiservite i kapab vin en zafer pour selebre. Dan sa fet [Patrick Victor](persona_patrick_victor.md) i sant son pep dan son prop langaz, e tou Seselwa i danse lo sega ek moutya bann ansyen.
+Festival Kreol i fer tande sa ki [Kreol](position_language_crs.md) i koz: ki en langaz ek en kiltir ki'n ne dan ladiservite i kapab vin en zafer pour selebre. Dan sa fet [Patrick Victor](persona_patrick_victor.md) i sant son pep dan son prop langaz, e tou Seselwa i danse lo sega ek moutya bann ansyen.

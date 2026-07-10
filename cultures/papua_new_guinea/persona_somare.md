@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[planti tok, wanpela kantri](position_planti_tok_wanpela_kantri.md)
+[planti tok, wanpela kantri](position_language_tpi.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Man bilong Sepik, em i kamap namba wan Praim Minista bilong Papua Niugini na ol i kolim em "Grand Chief", em i papa bilong dispela kantri. Em i bin holim ol planti lain wantaim na bringim ol long wanpela kantri long taim bilong independens long 1975, na em i bin sindaun longpela taim long het bilong gavman. Em i man bilong toktok switpela, man bilong holim manmeri wantaim, na man i bilipim olsem planti tok ples inap kamap wanpela kantri. Tok ples bilong em na Tok Pisin em i [toktok](process_speaking_mother_tongue.md) na [tingting](process_thinking_mother_tongue.md) long en, na long maus bilong em Tok Pisin i kamap tok we ol planti lain inap [harim](process_hearing_mother_tongue.md) na bung wantaim. Tok Inglis em i bin [karim olsem narapela tok](process_speaking_carried.md), em i tok bilong skul na bilong gavman, na em i bin [ritim na bihainim](process_reading_followed.md) long en taim em i wokim ol lo bilong nupela kantri. Em i bin holim ol planti tok ples wantaim long Tok Pisin, tasol em i save tu olsem wan wan tok ples i karim tingting bilong ol tumbuna i no inap kamap long arapela tok, na olsem hap bilong ol manmeri i save stap haitim long arere bilong tok, we wanpela tok i no inap karim olgeta samting bilong narapela.
+Man bilong Sepik, em i kamap namba wan Praim Minista bilong Papua Niugini na ol i kolim em "Grand Chief", em i papa bilong dispela kantri. Em i bin holim ol planti lain wantaim na bringim ol long wanpela kantri long taim bilong independens long 1975, na em i bin sindaun longpela taim long het bilong gavman. Em i man bilong toktok switpela, man bilong holim manmeri wantaim, na man i bilipim olsem planti tok ples inap kamap wanpela kantri. Tok ples bilong em na [Tok Pisin](position_language_tpi.md) em i [toktok](process_speaking_mother_tongue.md) na [tingting](process_thinking_mother_tongue.md) long en, na long maus bilong em Tok Pisin i kamap tok we ol planti lain inap [harim](process_hearing_mother_tongue.md) na bung wantaim. Tok Inglis em i bin [karim olsem narapela tok](process_speaking_carried.md), em i tok bilong skul na bilong gavman, na em i bin [ritim na bihainim](process_reading_followed.md) long en taim em i wokim ol lo bilong nupela kantri. Em i bin holim ol planti tok ples wantaim long Tok Pisin, tasol em i save tu olsem wan wan tok ples i karim tingting bilong ol tumbuna i no inap kamap long arapela tok, na olsem hap bilong ol manmeri i save stap haitim long arere bilong tok, we wanpela tok i no inap karim olgeta samting bilong narapela.
 
 ## Action
 
-Long [independence and the Melanesian Way](plot_03_independens_na_melanesian_we.md) em i holim ol planti lain wantaim na bringim ol long [planti tok, wanpela kantri](position_planti_tok_wanpela_kantri.md), na em i kisim independens long 1975 na sanap olsem namba wan Praim Minista. Long bringim ol planti tok ples long wanpela kantri, em i givim Papua Niugini as bilong em olsem wanpela nesen.
+Long [independence and the Melanesian Way](plot_03_independens_na_melanesian_we.md) em i holim ol planti lain wantaim na bringim ol long [planti tok, wanpela kantri](position_language_tpi.md), na em i kisim independens long 1975 na sanap olsem namba wan Praim Minista. Long bringim ol planti tok ples long wanpela kantri, em i givim Papua Niugini as bilong em olsem wanpela nesen.
 
 ## Shadow
 

@@ -26,12 +26,12 @@ Por el golfo de Guinea empiezan a asomar, andando los siglos, las naves de Europ
 
 ## Action
 
-Los navegantes portugueses alcanzan las islas del golfo y dejan en la apartada Annobón un poblamiento que guardará por siglos su criollo de raíz portuguesa, su modo de hablar único en mitad del mar. Con el tiempo, la administración pasa a manos españolas, y Bioko, con su puerto, crece como cabeza de las islas hasta dar la futura [Malabo](place_malabo.md). De aquella larga presencia europea queda, por encima de todo, una lengua: el español arraiga como [la lengua heredada](position_la_lengua_heredada.md), la que con los años quedará por encima de todas las maternas y hará de estas tierras el único país hispanohablante de África.
+Los navegantes portugueses alcanzan las islas del golfo y dejan en la apartada Annobón un poblamiento que guardará por siglos su criollo de raíz portuguesa, su modo de hablar único en mitad del mar. Con el tiempo, la administración pasa a manos españolas, y Bioko, con su puerto, crece como cabeza de las islas hasta dar la futura [Malabo](place_malabo.md). De aquella larga presencia europea queda, por encima de todo, una lengua: el español arraiga como [la lengua heredada](position_language_es_gq.md), la que con los años quedará por encima de todas las maternas y hará de estas tierras el único país hispanohablante de África.
 
 ## Stage
 
 - [Malabo](place_malabo.md): el puerto de Bioko que crece como cabeza de las islas con la llegada de fuera.
-- [la lengua heredada](position_la_lengua_heredada.md): el español que arraiga y quedará como lengua común del país.
+- [la lengua heredada](position_language_es_gq.md): el español que arraiga y quedará como lengua común del país.
 
 ## Tension
 

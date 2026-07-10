@@ -50,6 +50,7 @@ Isang kapuluang binuo ng dagat: libu-libong isla, daan-daang wika, at mga bayang
 - [kapwa](position_kapwa.md)
 - [ang pamilya](position_ang_pamilya.md)
 - [ang pananampalataya](position_ang_pananampalataya.md)
+- [Filipino](position_language_tl.md)
 
 **Pieces**
 

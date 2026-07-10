@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-On üçüncü ve on dördüncü yüzyılın halk-tasavvuf şairi, Türk şiirinin babası; "yaratılanı severiz yaratandan ötürü" diyen insanca bir gizemciliğin sesi. Alçakgönüllü, derviş, halkın içinden; sevgiyi ve birliği sade bir dille söyler. İmanı ve şiiri ana dili Anadolu Türkçesiyle [konuşur, düşünür ve yazar](process_speaking_mother_tongue.md), halka Tanrı'yı kendi dilinde söyler; oysa o çağda âlimler yalnız Farsça ve Arapça yazar. Tekkenin Arapça dualarını [ezbere söyler ve dinler](process_speaking_borrowed.md), tasavvufun Farsça kaynaklarını [izleyip yakalar](process_reading_caught.md), ama imanı halkın diline indirir. Âlimlerin yabancı dillerde yazdığı imanı halka sade Türkçeyle veren, ama harf devriminin bir gün hem arılaştırıp hem tasavvuf kökünden koparacağı bir dille söyleyen şair - dilin sınırında açılan boşluk.
+On üçüncü ve on dördüncü yüzyılın halk-tasavvuf şairi, Türk şiirinin babası; "yaratılanı severiz yaratandan ötürü" diyen insanca bir gizemciliğin sesi. Alçakgönüllü, derviş, halkın içinden; sevgiyi ve birliği sade bir dille söyler. İmanı ve şiiri ana dili [Anadolu Türkçesiyle](position_language_tr_tr.md) [konuşur, düşünür ve yazar](process_speaking_mother_tongue.md), halka Tanrı'yı kendi dilinde söyler; oysa o çağda âlimler yalnız Farsça ve Arapça yazar. Tekkenin Arapça dualarını [ezbere söyler ve dinler](process_speaking_borrowed.md), tasavvufun Farsça kaynaklarını [izleyip yakalar](process_reading_caught.md), ama imanı halkın diline indirir. Âlimlerin yabancı dillerde yazdığı imanı halka sade Türkçeyle veren, ama harf devriminin bir gün hem arılaştırıp hem tasavvuf kökünden koparacağı bir dille söyleyen şair - dilin sınırında açılan boşluk.
 
 ## Action
 

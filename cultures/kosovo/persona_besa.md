@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Një juriste dhe diplomate shqiptare tridhjetë e pesë vjeçare, e cila punon në Ministrinë e Punëve të Jashtme në Prishtinë. Gjuha shqipe është gjuha e saj amtare, mjeti me të cilin ajo [flet](process_speaking_mother_tongue.md) dhe harton ligjet e shtetit të ri. Gjuha angleze [mbrohet prej saj si e mbivendosur](process_speaking_worn.md) për të negociuar njohjet e reja diplomatike dhe anëtarësimin në arenën ndërkombëtare. Por rënia fshihet në palosje : tregimet e vjetra të Ademit dhe këngët e çiftelisë [dëgjohen prej saj vetëm si një jehonë e largët](process_hearing_followed.md), të mbytura nga takimet zyrtare, strategjitë e diplomacisë dhe zhvillimi i shpejtë i kryeqytetit.
+Një juriste dhe diplomate shqiptare tridhjetë e pesë vjeçare, e cila punon në Ministrinë e Punëve të Jashtme në Prishtinë. [Gjuha shqipe](position_language_sq_xk.md) është gjuha e saj amtare, mjeti me të cilin ajo [flet](process_speaking_mother_tongue.md) dhe harton ligjet e shtetit të ri. Gjuha angleze [mbrohet prej saj si e mbivendosur](process_speaking_worn.md) për të negociuar njohjet e reja diplomatike dhe anëtarësimin në arenën ndërkombëtare. Por rënia fshihet në palosje : tregimet e vjetra të Ademit dhe këngët e çiftelisë [dëgjohen prej saj vetëm si një jehonë e largët](process_hearing_followed.md), të mbytura nga takimet zyrtare, strategjitë e diplomacisë dhe zhvillimi i shpejtë i kryeqytetit.
 
 ## Action
 

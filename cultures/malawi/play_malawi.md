@@ -50,6 +50,7 @@ A country that the map makes small and the welcome makes large. Its spine is the
 - [the Warm Heart](position_warm_heart.md)
 - [the many peoples](position_the_peoples.md)
 - [the Lake of Stars](position_lake_of_stars.md)
+- [the bridge tongue](position_language_en_mw.md)
 
 **Pieces**
 

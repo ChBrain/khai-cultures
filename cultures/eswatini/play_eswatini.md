@@ -50,6 +50,7 @@ Sive saka-Ngwane, emaSwati, sehla saphuma eshashalazini lemandvulo, sahamba sehl
 - [busatfwa benkhosi](position_busatfwa.md)
 - [buntfu nemabutfo](position_buntfu.md)
 - [tinkhomo nesibaya](position_tinkhomo.md)
+- [siSwati](position_language_ss.md)
 
 **Pieces**
 

@@ -50,6 +50,7 @@ stamp:
 - [層疊之島](position_the_layered_island.md)
 - [民間信仰](position_folk_faith.md)
 - [公民社會](position_civil_society.md)
+- [中文](position_language_zh_tw.md)
 
 **Pieces**
 

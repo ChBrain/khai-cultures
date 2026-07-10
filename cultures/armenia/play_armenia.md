@@ -48,7 +48,7 @@ stamp:
 **Positions**
 
 - [հավատքը](position_havatk.md)
-- [լեզուն և տառը](position_lezun.md)
+- [լեզուն և տառը](position_language_hy.md)
 - [տոկունությունը](position_tokunutyun.md)
 
 **Pieces**
@@ -72,7 +72,7 @@ stamp:
 
 **[Plot 2: Այբուբենի ստեղծումը (405)](plot_02_aybuben.md)**
 
-405 թվականի մոտ [Մեսրոպ Մաշտոցը](persona_mashtots.md) ստեղծում է հայոց այբուբենը, և ազգն ստանում է իր սեփական [տառը](position_lezun.md), որով թարգմանում է Աստվածաշունչը և սկսում գրել ինքն իրեն։
+405 թվականի մոտ [Մեսրոպ Մաշտոցը](persona_mashtots.md) ստեղծում է հայոց այբուբենը, և ազգն ստանում է իր սեփական [տառը](position_language_hy.md), որով թարգմանում է Աստվածաշունչը և սկսում գրել ինքն իրեն։
 
 **[Plot 3: Վանքերն ու մատյանները](plot_03_matyanner.md)**
 

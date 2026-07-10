@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-El empeño que la tierra se pone a sí misma: sostener como una sola nación las dos orillas que el Atlántico separa, la isla de Bioko y el continente de Río Muni, guardando a la vez [los pueblos](position_los_pueblos.md) y sus lenguas maternas, haciendo del todo propia [la lengua heredada](position_la_lengua_heredada.md) que los junta, y viviendo de [el Atlántico](position_el_atlantico.md) y del bosque sin que su fruto se vaya sin volver.
+El empeño que la tierra se pone a sí misma: sostener como una sola nación las dos orillas que el Atlántico separa, la isla de Bioko y el continente de Río Muni, guardando a la vez [los pueblos](position_los_pueblos.md) y sus lenguas maternas, haciendo del todo propia [la lengua heredada](position_language_es_gq.md) que los junta, y viviendo de [el Atlántico](position_el_atlantico.md) y del bosque sin que su fruto se vaya sin volver.
 
 ## Owner
 

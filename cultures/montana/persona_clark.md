@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old mine historian in Butte. English, spoken with a mountain cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily mechanical checks. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of tribal coordinators like Cheyenne and the quiet history of [montana wilderness](position_montana_wilderness.md) [he reads only as regional park updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant resource preservation of early forest communities is being forgotten in the race for high-volume copper production.
+A thirty-eight-year-old mine historian in Butte. English, spoken with a mountain cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily mechanical checks. It is the [Montanan English](position_language_en_us_mt.md) of Butte, the mountain cadence of the deep-shaft mine. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of tribal coordinators like Cheyenne and the quiet history of [montana wilderness](position_montana_wilderness.md) [he reads only as regional park updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant resource preservation of early forest communities is being forgotten in the race for high-volume copper production.
 
 ## Action
 

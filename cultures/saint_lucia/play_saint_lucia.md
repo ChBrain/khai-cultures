@@ -50,6 +50,7 @@ A small island carrying a story bigger than itself. Before the Europeans the Kal
 - [the Helen of the West Indies](position_the_helen_of_the_west_indies.md)
 - [two Nobels from a small island](position_two_nobels_from_a_small_island.md)
 - [Kweyol and the land](position_kweyol_and_the_land.md)
+- [the Saint Lucian tongue](position_language_en_lc.md)
 
 **Pieces**
 

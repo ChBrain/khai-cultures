@@ -50,6 +50,7 @@ A land older than memory, named for the desert that runs the whole length of its
 - [the desert](position_the_desert.md)
 - [the many peoples](position_the_many_peoples.md)
 - [conservation](position_conservation.md)
+- [Namibian English](position_language_en_na.md)
 
 **Pieces**
 

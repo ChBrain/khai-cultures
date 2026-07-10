@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old conservation advisor in Nebraska City. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily tree-planting reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of ranchers like John and the digital demands of agricultural boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal forest stewardship is treated as secondary to corporate livestock feeding and speedway entertainment.
+A fifty-two-year-old conservation advisor in Nebraska City. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily tree-planting reports. It is the [Nebraskan English](position_language_en_us_ne.md) of the Nebraska City arbor plot, the prairie drawl of the conservation office. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of ranchers like John and the digital demands of agricultural boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal forest stewardship is treated as secondary to corporate livestock feeding and speedway entertainment.
 
 ## Action
 

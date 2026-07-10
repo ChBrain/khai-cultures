@@ -46,6 +46,7 @@ A land of local liberties and alpine craftsmanship, defined by the glaciated val
 
 - [granite independence](position_granite_independence.md)
 - [alpine precision](position_alpine_precision.md)
+- [New Hampshire English](position_language_en_us_nh.md)
 
 **Pieces**
 

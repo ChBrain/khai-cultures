@@ -35,7 +35,7 @@ atrocity detail.
 | Contact, colony, and WWII               | [plot_02_kontak_na_kolonia.md](plot_02_kontak_na_kolonia.md), [place_ol_hailans.md](place_ol_hailans.md)                                 | The late contact, the opening of the Highlands in the 1930s, German, British, and Australian administration, and the Kokoda campaign. |
 | Independence and Michael Somare         | [plot_03_independens_na_melanesian_we.md](plot_03_independens_na_melanesian_we.md), [persona_somare.md](persona_somare.md)               | Independence in 1975 and Sir Michael Somare, the Grand Chief and founding Prime Minister.                                             |
 | The Melanesian Way and Bernard Narokobi | [position_melanesian_we.md](position_melanesian_we.md), [persona_narokobi.md](persona_narokobi.md), [persona_guise.md](persona_guise.md) | Narokobi's "Melanesian Way," the framing of the constitution, and Sir John Guise, the first Governor-General.                         |
-| The Tok Pisin nation today              | [plot_04_planti_tok_tude.md](plot_04_planti_tok_tude.md), [position_planti_tok_wanpela_kantri.md](position_planti_tok_wanpela_kantri.md) | Tok Pisin as the lingua franca, the Highlands today, resources, and the Bougainville peace process.                                   |
+| The Tok Pisin nation today              | [plot_04_planti_tok_tude.md](plot_04_planti_tok_tude.md), [position_language_tpi.md](position_language_tpi.md)                           | Tok Pisin as the lingua franca, the Highlands today, resources, and the Bougainville peace process.                                   |
 
 The two defining personas, [the big-man](persona_bikman.md) and [the Sepik
 carver](persona_sepik_kava.md), are archetypes, not historical individuals:

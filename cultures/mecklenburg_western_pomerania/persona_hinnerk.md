@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein pensionierter Ostseefischer von siebzig Jahren, der in Warnemünde lebt. Deutsch, stark gefärbt vom Ostsee-Platt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seines Lebens und des Meeres. Er spricht keine Fremdsprachen und schätzt die Verlässlichkeit. Doch der Verlust liegt in der Naht: Die modernen, englischen Bezeichnungen der Luxushotels an der Promenade und die digitalisierten Fischereiquoten der EU [liest er nur mit stillem Zorn](process_reading_followed.md), da ihm das einfache Handwerk der Küstenfischerei im modernen Tourismusbetrieb verloren geht.
+Ein pensionierter Ostseefischer von siebzig Jahren, der in Warnemünde lebt. Deutsch, stark gefärbt vom Ostsee-Platt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seines Lebens und des Meeres. Es ist das [mecklenburgisch-vorpommersche Hochdeutsch](position_language_de_de_mv.md), stark vom Platt gefärbt, der Grund, auf dem seine Verlässlichkeit ruht. Er spricht keine Fremdsprachen und schätzt die Verlässlichkeit. Doch der Verlust liegt in der Naht: Die modernen, englischen Bezeichnungen der Luxushotels an der Promenade und die digitalisierten Fischereiquoten der EU [liest er nur mit stillem Zorn](process_reading_followed.md), da ihm das einfache Handwerk der Küstenfischerei im modernen Tourismusbetrieb verloren geht.
 
 ## Action
 

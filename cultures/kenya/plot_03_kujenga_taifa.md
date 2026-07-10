@@ -26,12 +26,12 @@ Baada ya uhuru, taifa changa lilikabili kazi kubwa: kujenga shule, barabara, hos
 
 ## Action
 
-Vijiji vyote nchini vilijenga kwa harambee: watu wakiweka michango yao kwenye sufuria moja, wakijenga shule kwa mikono yao, kila mtu akiweka chake. Kiswahili kikapanda kuwa lugha ya kitaifa, kikiunganisha watoto wa makabila yote darasani na sokoni. Katika kipindi hiki [Ngugi wa Thiong'o](persona_ngugi.md) aliongoza vita vya lugha, akiacha kuandika kwa lugha ya kigeni na kurudi kuandika kwa lugha ya mama na kwa [Kiswahili](position_kiswahili.md), akidai kwamba taifa changa libebwe na lugha zake zenyewe. Muziki wa benga ukapata sauti, ukiimbwa kwa lugha za nyumbani na za taifa, ukibeba furaha na uchungu wa watu.
+Vijiji vyote nchini vilijenga kwa harambee: watu wakiweka michango yao kwenye sufuria moja, wakijenga shule kwa mikono yao, kila mtu akiweka chake. Kiswahili kikapanda kuwa lugha ya kitaifa, kikiunganisha watoto wa makabila yote darasani na sokoni. Katika kipindi hiki [Ngugi wa Thiong'o](persona_ngugi.md) aliongoza vita vya lugha, akiacha kuandika kwa lugha ya kigeni na kurudi kuandika kwa lugha ya mama na kwa [Kiswahili](position_language_sw_ke.md), akidai kwamba taifa changa libebwe na lugha zake zenyewe. Muziki wa benga ukapata sauti, ukiimbwa kwa lugha za nyumbani na za taifa, ukibeba furaha na uchungu wa watu.
 
 ## Stage
 
 - [Ngugi wa Thiong'o](persona_ngugi.md): mwandishi aliyerudisha lugha ya watu na kudai taifa libebwe na lugha zake.
-- [Kiswahili](position_kiswahili.md): lugha ya kitaifa iliyounganisha makabila yote darasani na sokoni.
+- [Kiswahili](position_language_sw_ke.md): lugha ya kitaifa iliyounganisha makabila yote darasani na sokoni.
 - [Nairobi](place_nairobi.md): mji mkuu uliokua kuwa kitovu cha taifa changa.
 
 ## Tension

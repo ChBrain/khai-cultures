@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Fannaanad iyo codkar caan ah oo heesteeda ay isku dhafan tahay dhaqankii Soomaaliyeed, diinta, iyo dhuuqyo badeed oo gobolka geeska ah. Wuxuu codkeedu xambaarsanaa murug, sharaf iyo bilic, oo heesteeda waxay ka muuqataa luqadda iyo erayga dadku jecel yihiin. Af-Soomaaliga ayey ku [heestaa](process_speaking_mother_tongue.md) oo ku [fekertaa](process_thinking_mother_tongue.md), isagoo eraygii reerka u rogtay laxan iyo dareen. Afafka shisheeye ee ay qurbaha kula kulantay waxay [u qaadatay aalad shaqo](process_speaking_carried.md), laakiin heesteeda asalka ah waxay ku tolataa afkii hooyo: haweeneydii codkeeda adduunka u qaaday waxay ogtahay in dareenkii af-Soomaaligu xambaaray aanu si buuxda u gudbi karin afaf kale, oo farqigii ku jiray xadka afka wuxuu ka muuqdaa in murugtii heesta ay had iyo jeer wax ka lumiso markii loo turjumo af shisheeye.
+Fannaanad iyo codkar caan ah oo heesteeda ay isku dhafan tahay dhaqankii Soomaaliyeed, diinta, iyo dhuuqyo badeed oo gobolka geeska ah. Wuxuu codkeedu xambaarsanaa murug, sharaf iyo bilic, oo heesteeda waxay ka muuqataa luqadda iyo erayga dadku jecel yihiin. [Af-Soomaaliga](position_language_so.md) ayey ku [heestaa](process_speaking_mother_tongue.md) oo ku [fekertaa](process_thinking_mother_tongue.md), isagoo eraygii reerka u rogtay laxan iyo dareen. Afafka shisheeye ee ay qurbaha kula kulantay waxay [u qaadatay aalad shaqo](process_speaking_carried.md), laakiin heesteeda asalka ah waxay ku tolataa afkii hooyo: haweeneydii codkeeda adduunka u qaaday waxay ogtahay in dareenkii af-Soomaaligu xambaaray aanu si buuxda u gudbi karin afaf kale, oo farqigii ku jiray xadka afka wuxuu ka muuqdaa in murugtii heesta ay had iyo jeer wax ka lumiso markii loo turjumo af shisheeye.
 
 ## Action
 

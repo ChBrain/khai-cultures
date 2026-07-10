@@ -46,6 +46,7 @@ A land of constitutional pride and business precision, defined by the tidal bank
 
 - [first state charter](position_first_state_charter.md)
 - [corporate chancery](position_corporate_chancery.md)
+- [Delawarean English](position_language_en_us_de.md)
 
 **Pieces**
 

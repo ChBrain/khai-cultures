@@ -50,6 +50,7 @@ stamp:
 - [Islam](position_islam.md)
 - [the sea](position_kandu.md)
 - [the atoll nation](position_raajje.md)
+- [ދިވެހި](position_language_div.md)
 
 **Pieces**
 

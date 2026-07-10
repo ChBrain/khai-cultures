@@ -46,6 +46,8 @@ Una tierra montañosa, industrial y de profunda cohesión comunitaria, abierta a
 
 - [el derecho foral](position_foral_right.md)
 - [el euskera](position_euskera_heritage.md)
+- [el español del País Vasco](position_language_es_es_pv.md)
+- [euskara](position_language_eu.md)
 
 **Pieces**
 

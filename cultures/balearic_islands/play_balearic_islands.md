@@ -46,6 +46,7 @@ Un archipiélago atlántico-mediterráneo de calas transparentes, olivares en te
 
 - [el bilingüismo balear](position_insular_bilingualism.md)
 - [la insularidad mediterránea](position_mediterranean_isolation.md)
+- [el español de Baleares](position_language_es_es_ib.md)
 
 **Pieces**
 

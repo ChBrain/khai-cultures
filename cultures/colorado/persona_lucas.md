@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old ski patroller in Aspen. English, spoken with a relaxed western cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily safety briefings. He speaks no foreign languages. Yet the loss lies in the seam: The fast, start-up talk of urban tech developers like Elena and the digital planning of Denver transit boards [he reads only as administrative metrics](process_reading_followed.md) on his weather tablet, feeling that the raw, physical reality of the snowpack and wilderness is being treated as a secondary metric for real estate investment.
+A forty-two-year-old ski patroller in Aspen. English, the [Coloradan English](position_language_en_us_co.md) spoken with a relaxed western cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily safety briefings. He speaks no foreign languages. Yet the loss lies in the seam: The fast, start-up talk of urban tech developers like Elena and the digital planning of Denver transit boards [he reads only as administrative metrics](process_reading_followed.md) on his weather tablet, feeling that the raw, physical reality of the snowpack and wilderness is being treated as a secondary metric for real estate investment.
 
 ## Action
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old wheat farm manager in Salina. English, spoken with a prairie cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily crop logs. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of aircraft inspectors like Henry and the digital demands of aviation boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of agricultural soil preservation is treated as secondary to corporate factories and speedway entertainment.
+A fifty-two-year-old wheat farm manager in Salina. English, spoken with a prairie cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily crop logs. It is the [Kansan English](position_language_en_us_ks.md) of the wheat counties, the flat, understated prairie cadence of the Salina co-op. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of aircraft inspectors like Henry and the digital demands of aviation boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of agricultural soil preservation is treated as secondary to corporate factories and speedway entertainment.
 
 ## Action
 

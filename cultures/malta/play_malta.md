@@ -47,7 +47,7 @@ Gżira ċkejkna fin-nofs tal-baħar, dejjem mixtieqa minħabba fejn tinsab: il-F
 
 **Positions**
 
-- [il-Malti](position_il_malti.md)
+- [il-Malti](position_language_mt.md)
 - [il-fortizza](position_il_fortizza.md)
 - [il-fidi](position_il_fidi.md)
 
@@ -76,7 +76,7 @@ Fl-1565 il-Kavallieri ta' San Ġwann taħt [Jean de Valette](persona_de_valette.
 
 **[Plot 3: il-Malti](plot_03_il_malti.md)**
 
-Taħt il-Brittaniċi titqajjem id-Domanda tal-Ilsien bejn it-Taljan, l-Ingliż u l-Malti; [Dun Karm](persona_dun_karm.md) jagħti lill-ilsien [Malti](position_il_malti.md) il-poeżija u l-innu tiegħu, u fl-1934 il-Malti jsir ilsien uffiċjali.
+Taħt il-Brittaniċi titqajjem id-Domanda tal-Ilsien bejn it-Taljan, l-Ingliż u l-Malti; [Dun Karm](persona_dun_karm.md) jagħti lill-ilsien [Malti](position_language_mt.md) il-poeżija u l-innu tiegħu, u fl-1934 il-Malti jsir ilsien uffiċjali.
 
 **[Plot 4: il-George Cross](plot_04_george_cross.md)**
 

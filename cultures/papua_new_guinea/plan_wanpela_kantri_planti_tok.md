@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Em i bikpela wok dispela kantri i putim long em yet: long holim ol planti tok ples wantaim olsem [planti tok, wanpela kantri](position_planti_tok_wanpela_kantri.md), long holim wantok na kastom strong olsem [wantok na kastom](position_wantok_na_kastom.md) i tok, na long bihainim rot bilong [Melanesian We](position_melanesian_we.md) taim em i kamap bikpela na gat moa mani, na long bekim gut askim bilong Bougainville.
+Em i bikpela wok dispela kantri i putim long em yet: long holim ol planti tok ples wantaim olsem [planti tok, wanpela kantri](position_language_tpi.md), long holim wantok na kastom strong olsem [wantok na kastom](position_wantok_na_kastom.md) i tok, na long bihainim rot bilong [Melanesian We](position_melanesian_we.md) taim em i kamap bikpela na gat moa mani, na long bekim gut askim bilong Bougainville.
 
 ## Owner
 

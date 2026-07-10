@@ -46,6 +46,7 @@ A land of agricultural wealth and literary craft, defined by the fertile rolling
 
 - [heartland agriculture](position_heartland_agriculture.md)
 - [literary craft](position_literary_craft.md)
+- [Iowan English](position_language_en_us_ia.md)
 
 **Pieces**
 

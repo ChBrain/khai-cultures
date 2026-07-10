@@ -25,12 +25,12 @@ El 14 de març de 1993, els ciutadans d'Andorra aproven en referèndum la primer
 
 ## Action
 
-La Constitució defineix Andorra com un Estat de dret, democràtic i social, mantenint la figura dels Coprínceps com a caps d'estat, però transferint el poder legislatiu al Consell General i l'executiu al Govern. Es reconeix [la llengua catalana](position_catalan.md) com a única llengua oficial. La sobirania nacional passa a residir en el poble andorrà, permetent al país ingressar a l'ONU i actuar com a subjecte internacional ple. Laia neix en aquesta nova Andorra.
+La Constitució defineix Andorra com un Estat de dret, democràtic i social, mantenint la figura dels Coprínceps com a caps d'estat, però transferint el poder legislatiu al Consell General i l'executiu al Govern. Es reconeix [la llengua catalana](position_language_ca_ad.md) com a única llengua oficial. La sobirania nacional passa a residir en el poble andorrà, permetent al país ingressar a l'ONU i actuar com a subjecte internacional ple. Laia neix en aquesta nova Andorra.
 
 ## Stage
 
 - [Andorra la Vella](place_andorra_vella.md): la capital on es reuneix el nou Consell General i es centralitza el poder executiu.
-- [la llengua catalana](position_catalan.md): la llengua oficial del nou estat sobirà.
+- [la llengua catalana](position_language_ca_ad.md): la llengua oficial del nou estat sobirà.
 - [Laia](persona_laia.md): la generació de la Constitució que creix en un estat democràtic modern.
 
 ## Tension

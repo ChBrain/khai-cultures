@@ -26,12 +26,12 @@ Sannadkii 1972, kadib dood dheer oo ku saabsan farta loo isticmaali doono, af-So
 
 ## Action
 
-Farta cusub waxay furtay albaab cusub: gabaygii afka laga dhaxlay ayaa la qori karaa, la baran karaa, oo la daabici karaa. Kuwii sida [Hadraawi](persona_hadraawi.md) ay gabaygii iyo dhaqankii ku dhaqaajiyeen [af-Soomaaliga iyo gabayga](position_afka.md), oo [Nuruddin Farah](persona_nuruddin.md) wuxuu sheekadii Soomaaliyeed adduunka u qaaday, halka [Maryam Mursal](persona_maryam.md) ay codkeeda iyo heesteeda adduunka u qaadday. "Ummadda Abwaannada" waxay erayadeedii dhegta lagu hayey u rogtay qoraal nool.
+Farta cusub waxay furtay albaab cusub: gabaygii afka laga dhaxlay ayaa la qori karaa, la baran karaa, oo la daabici karaa. Kuwii sida [Hadraawi](persona_hadraawi.md) ay gabaygii iyo dhaqankii ku dhaqaajiyeen [af-Soomaaliga iyo gabayga](position_language_so.md), oo [Nuruddin Farah](persona_nuruddin.md) wuxuu sheekadii Soomaaliyeed adduunka u qaaday, halka [Maryam Mursal](persona_maryam.md) ay codkeeda iyo heesteeda adduunka u qaadday. "Ummadda Abwaannada" waxay erayadeedii dhegta lagu hayey u rogtay qoraal nool.
 
 ## Stage
 
 - [Hadraawi](persona_hadraawi.md): abwaankii gabaygii casriga ah qotodheeriyey kadib markii la helay farta.
-- [af-Soomaaliga iyo gabayga](position_afka.md): sharafta eraygii oo noqotay mid la qori karo oo la baran karo.
+- [af-Soomaaliga iyo gabayga](position_language_so.md): sharafta eraygii oo noqotay mid la qori karo oo la baran karo.
 - [Xamar](place_xamar.md): xaruntii dhulka, halka farta iyo qoraalka laga dhaqaajiyey.
 
 ## Tension

@@ -50,6 +50,7 @@ Naoero eb ribanan eo aen rik n eb tongin n ekege, eb me eo aiwo me eb itsibwij e
 - [eko oe aiwo](position_eko_oe_aiwo.md)
 - [phosphate ma boe](position_phosphate_ma_boe.md)
 - [te republic ororo](position_te_republic_ororo.md)
+- [dorerin Naoero](position_language_nau.md)
 
 **Pieces**
 

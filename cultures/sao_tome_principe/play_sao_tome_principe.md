@@ -50,6 +50,7 @@ Quando os navios chegaram, estas ilhas nao tinham ninguem: so floresta, agua a c
 - [a crioulidade](position_crioulidade.md)
 - [a roca](position_roca.md)
 - [a insularidade](position_insularidade.md)
+- [o portugues santomense](position_language_pt_st.md)
 
 **Pieces**
 

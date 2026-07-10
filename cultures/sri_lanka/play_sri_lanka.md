@@ -50,6 +50,7 @@ stamp:
 - [ථේරවාද බුද්ධ ශාසනය](position_theravada_buddhism.md)
 - [වැව](position_the_tank.md)
 - [දූපත් නිවහන](position_the_island_home.md)
+- [සිංහල](position_language_si.md)
 
 **Pieces**
 

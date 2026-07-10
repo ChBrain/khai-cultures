@@ -26,12 +26,12 @@ Në shekullin e nëntëmbëdhjetë Perandoria Osmane dobësohet dhe popujt e Bal
 
 ## Action
 
-Rilindësit e ngrenë [gjuhën shqipe](position_gjuha_shqipe.md) në letërsi dhe e zgjojnë kombin: më 1908 Kongresi i Manastirit njëson alfabetin latin të shqipes. Më 28 nëntor 1912, në Vlorë, Ismail Qemali shpall pavarësinë e Shqipërisë pas pesë shekujsh nën Osmanin. Gjuha e ndaluar, e mbajtur deri atëherë në gojë e fshehtazi, bëhet shkronjë, flamur dhe atdhe i një kombi që më në fund ka shtet.
+Rilindësit e ngrenë [gjuhën shqipe](position_language_sq_al.md) në letërsi dhe e zgjojnë kombin: më 1908 Kongresi i Manastirit njëson alfabetin latin të shqipes. Më 28 nëntor 1912, në Vlorë, Ismail Qemali shpall pavarësinë e Shqipërisë pas pesë shekujsh nën Osmanin. Gjuha e ndaluar, e mbajtur deri atëherë në gojë e fshehtazi, bëhet shkronjë, flamur dhe atdhe i një kombi që më në fund ka shtet.
 
 ## Stage
 
 - [Naim Frashëri](persona_naim_frasheri.md): poeti që i jep vargun gjuhës dhe zëdhënie kombit.
-- [gjuha shqipe](position_gjuha_shqipe.md): gjuha e njësuar, e fituar pikërisht kur rrezikon të humbet.
+- [gjuha shqipe](position_language_sq_al.md): gjuha e njësuar, e fituar pikërisht kur rrezikon të humbet.
 
 ## Tension
 

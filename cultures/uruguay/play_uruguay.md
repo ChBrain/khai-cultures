@@ -50,6 +50,7 @@ Una pequeña nación que nació de una disputa: la Banda Oriental, la orilla est
 - [el Estado laico y solidario](position_el_estado_laico_y_solidario.md)
 - [la garra charrua](position_la_garra_charrua.md)
 - [la patria oriental](position_la_patria_oriental.md)
+- [el español uruguayo](position_language_es_uy.md)
 
 **Pieces**
 

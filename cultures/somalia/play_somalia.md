@@ -47,7 +47,7 @@ Dad geela raaca oo erayga jecel, oo abid lagu yaqaan "Ummadda Abwaannada." Tan i
 
 **Positions**
 
-- [Af-Soomaaliga iyo gabayga](position_afka.md)
+- [Af-Soomaaliga iyo gabayga](position_language_so.md)
 - [Islaamka](position_islaamka.md)
 - [Xeerka iyo qaraabada](position_xeerka.md)
 
@@ -76,11 +76,11 @@ Islaamku wuxuu xeebta ka soo galay xilliyo hore, oo [Islaamku](position_islaamka
 
 **[Plot 3: Xilligii Sayidka](plot_03_sayidka.md)**
 
-Horraantii qarnigii labaatanaad, [Sayid Maxamed Cabdulle Xasan](persona_sayid.md) wuxuu gabaygiisii ku qaaday taariikh iyo dhiirrigelin, isagoo [af-Soomaaliga iyo gabayga](position_afka.md) u rogay hub iyo astaan.
+Horraantii qarnigii labaatanaad, [Sayid Maxamed Cabdulle Xasan](persona_sayid.md) wuxuu gabaygiisii ku qaaday taariikh iyo dhiirrigelin, isagoo [af-Soomaaliga iyo gabayga](position_language_so.md) u rogay hub iyo astaan.
 
 **[Plot 4: Farta 1972 iyo Ummadda Abwaannada](plot_04_farta.md)**
 
-Sannadkii 1972 ayaa af-Soomaaligii markii ugu horraysay la siiyay far rasmi ah oo Laatiin ah, kuwii sida [Hadraawi](persona_hadraawi.md) ay gabaygii iyo dhaqankii ku dhaqaajiyeen [af-Soomaaliga iyo gabayga](position_afka.md), oo qoraalku noqday ilbiriqsi cusub.
+Sannadkii 1972 ayaa af-Soomaaligii markii ugu horraysay la siiyay far rasmi ah oo Laatiin ah, kuwii sida [Hadraawi](persona_hadraawi.md) ay gabaygii iyo dhaqankii ku dhaqaajiyeen [af-Soomaaliga iyo gabayga](position_language_so.md), oo qoraalku noqday ilbiriqsi cusub.
 
 ## Stakes
 

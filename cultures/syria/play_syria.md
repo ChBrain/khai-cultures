@@ -48,7 +48,7 @@ stamp:
 **Positions**
 
 - [المدن الحية](position_almudun.md)
-- [الكلمة](position_alkalima.md)
+- [العربية](position_language_ar_sy.md)
 - [الصنعة](position_alsanaa.md)
 
 **Pieces**
@@ -76,11 +76,11 @@ stamp:
 
 **[Plot 3: عصر الكلمة وذروة الشعر](plot_03_shir.md)**
 
-في زمن ازدهار العربية يبلغ [أبو الطيب المتنبي](persona_almutanabbi.md) بـ[الكلمة](position_alkalima.md) ذروتها، فيصير شعره ميزانًا تُقاس عليه القصيدة العربية من بعده.
+في زمن ازدهار العربية يبلغ [أبو الطيب المتنبي](persona_almutanabbi.md) بـ[العربية](position_language_ar_sy.md) ذروتها، فيصير شعره ميزانًا تُقاس عليه القصيدة العربية من بعده.
 
 **[Plot 4: النهضة الحديثة](plot_04_nahda.md)**
 
-في العصر الحديث يجدّد [نزار قباني](persona_qabbani.md) [الكلمة](position_alkalima.md) ويقرّبها من الناس، ويكتب [سعد الله ونوس](persona_wannous.md) للمسرح، فتتجدد لغة الشام دون أن تنقطع عن جذرها.
+في العصر الحديث يجدّد [نزار قباني](persona_qabbani.md) [العربية](position_language_ar_sy.md) ويقرّبها من الناس، ويكتب [سعد الله ونوس](persona_wannous.md) للمسرح، فتتجدد لغة الشام دون أن تنقطع عن جذرها.
 
 ## Stakes
 

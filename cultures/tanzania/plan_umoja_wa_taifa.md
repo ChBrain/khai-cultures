@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Wajibu wa wazi ambao taifa lilijiwekea tangu uhuru: kazi isiyokoma ya kuwafunga zaidi ya makabila mia moja na ishirini kuwa moja kupitia [Kiswahili](position_kiswahili.md), ya kuendeleza [umoja na undugu](position_umoja.md) kama maadili ya taifa, na ya kulinda [utamaduni wa pwani](position_pwani.md) pamoja na bara kama nyuso mbili za nchi moja, huku ikikuza Kiswahili kuwa lugha ya Afrika nzima na ya dunia.
+Wajibu wa wazi ambao taifa lilijiwekea tangu uhuru: kazi isiyokoma ya kuwafunga zaidi ya makabila mia moja na ishirini kuwa moja kupitia [Kiswahili](position_language_sw_tz.md), ya kuendeleza [umoja na undugu](position_umoja.md) kama maadili ya taifa, na ya kulinda [utamaduni wa pwani](position_pwani.md) pamoja na bara kama nyuso mbili za nchi moja, huku ikikuza Kiswahili kuwa lugha ya Afrika nzima na ya dunia.
 
 ## Owner
 

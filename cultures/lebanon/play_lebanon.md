@@ -50,6 +50,7 @@ stamp:
 - [الإرث الفينيقي](position_phoenicia.md)
 - [الأرز والجبل](position_the_cedars.md)
 - [الفسيفساء](position_the_mosaic.md)
+- [لسان لبنان](position_language_ar_lb.md)
 
 **Pieces**
 

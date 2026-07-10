@@ -50,6 +50,7 @@ Esta é uma terra antiga, muito mais velha do que o nome que hoje carrega. Antes
 - [os reinos](position_os_reinos.md)
 - [a música](position_a_musica.md)
 - [os povos](position_os_povos.md)
+- [o português angolano](position_language_pt_ao.md)
 
 **Pieces**
 

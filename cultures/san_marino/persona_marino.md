@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Uno scalpellino sammarinese di oltre sessant'anni, che lavora la pietra del monte come i suoi antenati. L'italiano, colorato dalle cadenze del dialetto romagnolo del monte, è la sua lingua madre, lo strumento con cui [parla, ascolta e pensa](process_speaking_mother_tongue.md), l'espressione diretta della sua Sammarinesità. Non conosce l'inglese né si interessa di relazioni finanziarie o europee. Ma il declino è nascosto nella piega : i regolamenti moderni e le direttive del commercio [vengono da lui letti con fatica e distacco](process_reading_followed.md), avvertendo la fine di un'epoca in cui il lavoro si misurava sulla pietra e non sulle carte burocratiche.
+Uno scalpellino sammarinese di oltre sessant'anni, che lavora la pietra del monte come i suoi antenati. L'italiano, colorato dalle cadenze del dialetto romagnolo del monte, è la sua lingua madre, lo strumento con cui [parla, ascolta e pensa](process_speaking_mother_tongue.md), l'espressione diretta della sua Sammarinesità: è [l'italiano sammarinese](position_language_it_sm.md) tenuto nella parola del monte. Non conosce l'inglese né si interessa di relazioni finanziarie o europee. Ma il declino è nascosto nella piega : i regolamenti moderni e le direttive del commercio [vengono da lui letti con fatica e distacco](process_reading_followed.md), avvertendo la fine di un'epoca in cui il lavoro si misurava sulla pietra e non sulle carte burocratiche.
 
 ## Action
 

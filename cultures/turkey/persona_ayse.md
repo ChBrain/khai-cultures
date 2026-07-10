@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[Türk dili](position_turk_dili.md)
+[Türk dili](position_language_tr_tr.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Anadolu'lu yaşlı bir kadın, evi, çayı, nazar boncuğunu, namazını ve ailesini tutan bir nine; çocukları ekmek için Almanya'ya göçmüş, o bayramlarda yolunu gözler. Dindar, çalışkan, alçakgönüllü; başına geleni "Allah'tan" diye karşılar. Türkçeyi ana dili olarak [konuşur, düşünür ve dinler](process_speaking_mother_tongue.md), ama bir ömürde yeniden yapılmış bu dil onu geçmişinden ayırmıştır: büyükannesinin Osmanlıca harflerle yazdığı mektupları [okuyamaz, çözemez](process_reading_deciphered.md), ve namazda andığı Arapçayı ezbere söyler ama [anlamadan yakalar](process_reading_caught.md). Çocuklarının diasporadaki Almancasını ise telefonda yalnız kırık kırık [duyup yakalar](process_hearing_caught.md). Ne büyükannesinin yazısını okuyabilen, ne namazda andığı dili anlayan, dili bir ömürde yeniden yapılmış kadın - dilin sınırında açılan boşluk.
+Anadolu'lu yaşlı bir kadın, evi, çayı, nazar boncuğunu, namazını ve ailesini tutan bir nine; çocukları ekmek için Almanya'ya göçmüş, o bayramlarda yolunu gözler. Dindar, çalışkan, alçakgönüllü; başına geleni "Allah'tan" diye karşılar. [Türk dilini](position_language_tr_tr.md) ana dili olarak [konuşur, düşünür ve dinler](process_speaking_mother_tongue.md), ama bir ömürde yeniden yapılmış bu dil onu geçmişinden ayırmıştır: büyükannesinin Osmanlıca harflerle yazdığı mektupları [okuyamaz, çözemez](process_reading_deciphered.md), ve namazda andığı Arapçayı ezbere söyler ama [anlamadan yakalar](process_reading_caught.md). Çocuklarının diasporadaki Almancasını ise telefonda yalnız kırık kırık [duyup yakalar](process_hearing_caught.md). Ne büyükannesinin yazısını okuyabilen, ne namazda andığı dili anlayan, dili bir ömürde yeniden yapılmış kadın - dilin sınırında açılan boşluk.
 
 ## Action
 
-[Türk dilini](position_turk_dili.md), imanı ve geleneği başkaları göçüp giderken tutar: torunlarına dua etmeyi ve Türkçeyi öğretir, [çay](process_cay.md) sofrasında ve nazar boncuğunda aileyi bir arada tutar. Bunu büyük sözlerle değil, her günkü sadakatin gücüyle yapar.
+[Türk dilini](position_language_tr_tr.md), imanı ve geleneği başkaları göçüp giderken tutar: torunlarına dua etmeyi ve Türkçeyi öğretir, [çay](process_cay.md) sofrasında ve nazar boncuğunda aileyi bir arada tutar. Bunu büyük sözlerle değil, her günkü sadakatin gücüyle yapar.
 
 ## Shadow
 

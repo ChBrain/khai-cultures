@@ -50,6 +50,7 @@ stamp:
 - [우리 민족](position_uri_minjok.md)
 - [단결](position_dangyeol.md)
 - [주체](position_juche.md)
+- [조선말](position_language_ko_kp.md)
 
 **Pieces**
 

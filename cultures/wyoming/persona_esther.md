@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old suffrage historian in Laramie. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of park rangers like Bruce and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of voting rights preservation is treated as secondary to corporate mining and speedway logistics.
+A fifty-two-year-old suffrage historian in Laramie. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. It is the [Wyoming English](position_language_en_us_wy.md) of the Laramie plains, the prairie drawl of the town council and the county road. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of park rangers like Bruce and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of voting rights preservation is treated as secondary to corporate mining and speedway logistics.
 
 ## Action
 

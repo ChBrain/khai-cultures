@@ -34,4 +34,4 @@ Huendeshwa na ukweli kwamba mji hauchagui kabila na kwamba Kiswahili huwafunga w
 
 ## Echo
 
-Safari ya dala dala hudhihirisha kinachoendesha [Kiswahili](position_kiswahili.md): kwamba lugha moja huwafunga watu wa kila kabila kuwa taifa moja la wanaoelewana. Katika gari hili [Konda wa dala dala](persona_konda.md) huita abiria na kuwafunga watu wa kila pembe ya nchi katika lugha moja na safari moja.
+Safari ya dala dala hudhihirisha kinachoendesha [Kiswahili](position_language_sw_tz.md): kwamba lugha moja huwafunga watu wa kila kabila kuwa taifa moja la wanaoelewana. Katika gari hili [Konda wa dala dala](persona_konda.md) huita abiria na kuwafunga watu wa kila pembe ya nchi katika lugha moja na safari moja.

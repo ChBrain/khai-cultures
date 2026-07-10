@@ -34,4 +34,4 @@ Waxaa kiciya jacaylka dadku u qabaan erayga iyo gabayga, iyo dhaqankii afka ee a
 
 ## Echo
 
-Fadhigu wuxuu maqashiiyaa waxa kiciya [af-Soomaaliga iyo gabayga](position_afka.md): in eraygu yahay maalka ugu qaalisan, in maahmaahdu tahay sharci, in gabaygu yahay caddaynta. Goobtan ayaa [geeljiraha gabayaa ah](persona_geeljire.md) eraygiisii dhegta lagu hayey ku dhiibtaa, oo xikmaddii reerka ku gudbiyo.
+Fadhigu wuxuu maqashiiyaa waxa kiciya [af-Soomaaliga iyo gabayga](position_language_so.md): in eraygu yahay maalka ugu qaalisan, in maahmaahdu tahay sharci, in gabaygu yahay caddaynta. Goobtan ayaa [geeljiraha gabayaa ah](persona_geeljire.md) eraygiisii dhegta lagu hayey ku dhiibtaa, oo xikmaddii reerka ku gudbiyo.

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[il dialetto](position_il_dialetto.md)
+[il dialetto](position_language_it_it.md)
 
 ## Owner
 
@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Lo scrittore che diede all'Italia unita la sua prosa comune. [Parla e pensa](process_speaking_mother_tongue.md) nel suo dialetto lombardo, ma il romanzo nazionale, I Promessi Sposi, lo [riscrive e lo lima](process_writing_drafted.md), "sciacquando i panni in Arno", scegliendo il fiorentino vivo per dare al paese una lingua comune. Lì è la frattura: la sua lingua di casa è il lombardo, ma fissa a tavolino, in toscano, la lingua di un popolo che parla [dialetti](position_il_dialetto.md), e fa dell'italiano una scelta prima ancora che una parlata.
+Lo scrittore che diede all'Italia unita la sua prosa comune. [Parla e pensa](process_speaking_mother_tongue.md) nel suo dialetto lombardo, ma il romanzo nazionale, I Promessi Sposi, lo [riscrive e lo lima](process_writing_drafted.md), "sciacquando i panni in Arno", scegliendo il fiorentino vivo per dare al paese una lingua comune. Lì è la frattura: la sua lingua di casa è il lombardo, ma fissa a tavolino, in toscano, la lingua di un popolo che parla [dialetti](position_language_it_it.md), e fa dell'italiano una scelta prima ancora che una parlata.
 
 ## Action
 

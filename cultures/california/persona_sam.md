@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-six-year-old tech entrepreneur in Palo Alto. English, spoken with the fast-paced jargon of tech campuses, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the primary code of his life. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound agricultural traditions of winegrowers like Chloe and the deep connection to the land [he reads only as abstract metrics](process_reading_followed.md) on his dashboard, feeling that the experience of the physical world is being digitized into data streams.
+A thirty-six-year-old tech entrepreneur in Palo Alto. English, the fast [Californian English](position_language_en_us_ca.md) of the tech campuses, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the primary code of his life. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound agricultural traditions of winegrowers like Chloe and the deep connection to the land [he reads only as abstract metrics](process_reading_followed.md) on his dashboard, feeling that the experience of the physical world is being digitized into data streams.
 
 ## Action
 

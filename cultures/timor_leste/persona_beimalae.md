@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Feto-bo'ot husi foho ne'ebe hatais tais hanesan nia inan no nia inan-bei sira halo ona. Nia tuur iha uma okos, hili lina, taka kór ho ai-tahan no rai-mean, no nia liman halo oan-matan ne'ebe mai husi bei-ala: ida-idak iha nia kahur, ida-idak iha nia hun. Nia hatene katak tais la roupa deit, maibe haket ba klan, ba serimonia, no ba ema mate sira. Lia-tetun no lia-lokal husi nia foho nia [ko'alia](process_speaking_mother_tongue.md), [hanoin](process_thinking_mother_tongue.md), no [rona](process_hearing_mother_tongue.md) nu'udar lian husi nia inan-bei sira. Liafuan husi sidade no husi papel nia [le ho susar deit](process_reading_caught.md), foti deit buat ne'ebe nia bele. Maibe oan-matan nia mama iha tais la bele tama liafuan: nia kahur hatete buat ne'ebe lian la bele hatete, no iha-ne'e lian para no liras mak ko'alia.
+Feto-bo'ot husi foho ne'ebe hatais tais hanesan nia inan no nia inan-bei sira halo ona. Nia tuur iha uma okos, hili lina, taka kór ho ai-tahan no rai-mean, no nia liman halo oan-matan ne'ebe mai husi bei-ala: ida-idak iha nia kahur, ida-idak iha nia hun. Nia hatene katak tais la roupa deit, maibe haket ba klan, ba serimonia, no ba ema mate sira. [Lia-tetun](position_language_tet.md) no lia-lokal husi nia foho nia [ko'alia](process_speaking_mother_tongue.md), [hanoin](process_thinking_mother_tongue.md), no [rona](process_hearing_mother_tongue.md) nu'udar lian husi nia inan-bei sira. Liafuan husi sidade no husi papel nia [le ho susar deit](process_reading_caught.md), foti deit buat ne'ebe nia bele. Maibe oan-matan nia mama iha tais la bele tama liafuan: nia kahur hatete buat ne'ebe lian la bele hatete, no iha-ne'e lian para no liras mak ko'alia.
 
 ## Action
 

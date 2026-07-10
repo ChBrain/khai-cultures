@@ -47,7 +47,7 @@ Hapa, katika Bonde la Olduvai, ndipo binadamu wa kwanza walipoacha nyayo zao kwe
 
 **Positions**
 
-- [Kiswahili](position_kiswahili.md)
+- [Kiswahili](position_language_sw_tz.md)
 - [umoja na undugu](position_umoja.md)
 - [utamaduni wa pwani](position_pwani.md)
 
@@ -80,8 +80,8 @@ Mwaka 1961 [Julius Nyerere](persona_nyerere.md) aliongoza Tanganyika kwenye uhur
 
 **[Plot 4: Kiswahili na Tanzania ya leo](plot_04_kiswahili.md)**
 
-Kiswahili kikawa lugha ya taifa na kuwafunga wote pamoja, [Filbert Bayi](persona_bayi.md) akakimbia kwa fahari ya taifa, na Bongo Flava ikalia katika [Kiswahili](position_kiswahili.md) cha vijana wa leo.
+Kiswahili kikawa lugha ya taifa na kuwafunga wote pamoja, [Filbert Bayi](persona_bayi.md) akakimbia kwa fahari ya taifa, na Bongo Flava ikalia katika [Kiswahili](position_language_sw_tz.md) cha vijana wa leo.
 
 ## Stakes
 
-Iwapo taifa lililojengwa si juu ya damu wala ukoo bali juu ya lugha moja na undugu uliopandwa kwa makusudi linaweza kuendelea kuwa moja kutoka kwa wengi zaidi ya mia moja na ishirini, kushikilia amani na ari ya kusaidiana, kukuza [Kiswahili](position_kiswahili.md) kuwa lugha ya Afrika nzima, na kulinda [utamaduni wa pwani](position_pwani.md) na bara pamoja, dunia ya wazi ikibana na vizazi vipya vikija, au kama mvuto wa ulimwengu utaivuta hadi kuisahau kauli kuwa umoja ni nguvu na utengano ni udhaifu.
+Iwapo taifa lililojengwa si juu ya damu wala ukoo bali juu ya lugha moja na undugu uliopandwa kwa makusudi linaweza kuendelea kuwa moja kutoka kwa wengi zaidi ya mia moja na ishirini, kushikilia amani na ari ya kusaidiana, kukuza [Kiswahili](position_language_sw_tz.md) kuwa lugha ya Afrika nzima, na kulinda [utamaduni wa pwani](position_pwani.md) na bara pamoja, dunia ya wazi ikibana na vizazi vipya vikija, au kama mvuto wa ulimwengu utaivuta hadi kuisahau kauli kuwa umoja ni nguvu na utengano ni udhaifu.

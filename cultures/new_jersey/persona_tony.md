@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-eight-year-old diner owner in Newark. English, spoken with a rapid, direct metropolitan cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily business operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent forest talk of scientists like Gabriella and the quiet history of [Garden State](position_garden_state.md) conservation [he reads only as regulatory updates](process_reading_followed.md) on his business terminal, feeling that the patient agricultural rhythm of the state is being forgotten in the rush of highway transport.
+A forty-eight-year-old diner owner in Newark. English, spoken with a rapid, direct metropolitan cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily business operations. It is the [New Jersey English](position_language_en_us_nj.md) of the northern turnpike counties, the rapid, hard-edged metropolitan cadence of the Newark diner counter. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent forest talk of scientists like Gabriella and the quiet history of [Garden State](position_garden_state.md) conservation [he reads only as regulatory updates](process_reading_followed.md) on his business terminal, feeling that the patient agricultural rhythm of the state is being forgotten in the rush of highway transport.
 
 ## Action
 
