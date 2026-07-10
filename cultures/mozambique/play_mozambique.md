@@ -50,6 +50,7 @@ Uma terra que sempre olhou para o mar. Muito antes de qualquer bandeira, a Ilha 
 - [a costa do Indico](position_a_costa.md)
 - [a nacao dos poetas](position_a_nacao_dos_poetas.md)
 - [os muitos povos](position_os_muitos_povos.md)
+- [o portugues de Mocambique](position_language_pt_mz.md)
 
 **Pieces**
 

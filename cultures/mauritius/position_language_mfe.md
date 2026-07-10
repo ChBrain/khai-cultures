@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-09"
 ---
 
 # Position: Morisien
@@ -34,4 +34,4 @@ Li pers later kan dimoun ont so prop lalang manman ek pretann ki zis franse ousw
 
 ## Drives
 
-Viv dan [Malcolm de Chazal](persona_chazal.md), ki ti get sa zil ek so lalang avek enn lizie poet, ek dan [Ti Frer](persona_tifrer.md), ki ti sant sega dan Morisien ek fer tou pep zwenn dan enn sel refren. Li pous Moris pou tini so lalang manman kouma enn trezor, lakord ki amar enn larkansiel dan enn sel bus.
+Li lalang manman [Ti Frer](persona_tifrer.md), ki ti sant so sega ladan ek fer tou pep zwenn dan enn sel refren, ek [zwer ravann](persona_ravann_zwer.md), ki koze, panse ek sante ladan kouma so leker bat. [Ananda Devi](persona_devi.md) ekrir dan franse, me li port Morisien kouma lalang so leker ek so lakaz ek servi so muzik dan seki li ekrir; ek [Abhimanyu Unnuth](persona_unnuth.md), ki so lalang zanset se hindi ek bhojpuri, koz Morisien sak zour kouma tou Morisien, sa lalang komin ki amar so pep ar bann lezot. [Malcolm de Chazal](persona_chazal.md), ki so lalang manman se franse, tann ek swiv Morisien lakour ek bazar ki ti otour li avek enn lizie poet, mem si so vizion li ti rod li dan franse so liv. Li pous Moris pou tini so lalang manman kouma enn trezor, lakord ki amar enn larkansiel dan enn sel bus.

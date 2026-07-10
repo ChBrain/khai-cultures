@@ -50,6 +50,7 @@ stamp:
 - [الكرم](position_alkaram.md)
 - [الصحرا](position_alsahra.md)
 - [الإرث القديم](position_alirth_alqadim.md)
+- [اللسان الليبي](position_language_ar_ly.md)
 
 **Pieces**
 

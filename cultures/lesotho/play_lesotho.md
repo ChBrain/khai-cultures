@@ -50,6 +50,7 @@ Naha e hlahileng tlas'a thaba. Pele ho Moshoeshoe, lithaba tsena e ne e le merab
 - [borena](position_borena.md)
 - [lefatše la lithaba](position_lefatshe_la_lithaba.md)
 - [botho](position_botho.md)
+- [Sesotho](position_language_st.md)
 
 **Pieces**
 

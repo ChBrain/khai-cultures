@@ -50,6 +50,7 @@ Tantaran'ny nosy izay tsy manana ifandraisana amin'ny tany hafa: nosy tafatsanga
 - [ny fihavanana](position_ny_fihavanana.md)
 - [ny razana](position_ny_razana.md)
 - [ny fiaviana lavitra](position_ny_fiaviana_lavitra.md)
+- [ny teny malagasy](position_language_mg.md)
 
 **Pieces**
 

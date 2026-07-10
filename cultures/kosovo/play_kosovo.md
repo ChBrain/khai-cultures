@@ -46,6 +46,7 @@ Një tokë historike e lirisë dhe qëndresës në zemër të Ballkanit, e ndër
 - [besa](position_besa_pos.md)
 - [Kosova](position_kosova.md)
 - [ndërtimi i shtetit](position_ndertimi.md)
+- [gjuha shqipe](position_language_sq_xk.md)
 
 **Pieces**
 

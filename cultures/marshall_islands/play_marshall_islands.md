@@ -50,6 +50,7 @@ Juon aelon in armej me rej ri-jerakrok eo relap tata: rej riit no ko im aetto ko
 - [the navigators and the sea](position_ri_jerakrok_im_lojet.md)
 - [the nuclear wound](position_kinie_baam.md)
 - [the atolls and the Compact](position_aelon_kein_ad_im_compact.md)
+- [Kajin Majol](position_language_mah.md)
 
 **Pieces**
 

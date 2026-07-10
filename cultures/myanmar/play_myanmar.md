@@ -50,6 +50,7 @@ stamp:
 - [ဓမ္မ](position_dhamma.md)
 - [ပြည်ထောင်စု](position_the_union.md)
 - [ကုသိုလ်](position_merit.md)
+- [မြန်မာဘာသာ](position_language_my.md)
 
 **Pieces**
 

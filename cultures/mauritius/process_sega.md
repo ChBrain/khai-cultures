@@ -34,4 +34,4 @@ Li pouse par sa bezwen ki enn pep ki sorti depi partou ena pou enn lam ki li par
 
 ## Echo
 
-Sega fer tande seki [Morisien](position_morisien.md) bizin: enn lam ek enn lalang kot tou pep zwenn dan enn sel refren. Lor sa ravann la [Ti Frer](persona_tifrer.md) ti sant lavi dimoun senp ek fer enn pep antie rekonet so lakor.
+Sega fer tande seki [Morisien](position_language_mfe.md) bizin: enn lam ek enn lalang kot tou pep zwenn dan enn sel refren. Lor sa ravann la [Ti Frer](persona_tifrer.md) ti sant lavi dimoun senp ek fer enn pep antie rekonet so lakor.

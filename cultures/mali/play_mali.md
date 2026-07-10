@@ -50,6 +50,7 @@ Le Mali porte un nom qui fut celui d'un empire, et il le porte sans rougir. Avan
 - [le Manden](position_le_manden.md)
 - [l'empire sahelien](position_l_empire_sahelien.md)
 - [la parole](position_la_parole.md)
+- [le français du Mali](position_language_fr_ml.md)
 
 **Pieces**
 

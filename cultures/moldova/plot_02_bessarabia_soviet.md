@@ -30,7 +30,7 @@ Sub dominația rusă, Basarabia este separată administrativ, dar își păstrea
 ## Stage
 
 - [ținutul de graniță](position_grenzland.md): locul în care limbile și culturile sunt suprapuse și divizate din exterior.
-- [limba moldovenească](position_moldovan.md): limba care oscilează între moștenirea latină și cerințele chirilice.
+- [limba română din Moldova](position_language_ro_md.md): limba care oscilează între moștenirea latină și cerințele chirilice.
 - [Radu](persona_radu.md): generația a cărei viață și educație au fost marcate de ordinea sovietică.
 
 ## Tension

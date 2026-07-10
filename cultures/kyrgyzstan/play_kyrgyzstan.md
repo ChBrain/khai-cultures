@@ -50,6 +50,7 @@ stamp:
 - [Манас жана сөз](position_manas_jana_soz.md)
 - [тоо менен көчмөн жашоо](position_too_jana_kochmon.md)
 - [конокжайлуулук жана аксакалдын сөзү](position_konokjayluuluk.md)
+- [кыргыз тили](position_language_ky.md)
 
 **Pieces**
 

@@ -48,7 +48,7 @@ Moris li pa enn pei kot enn sel pep finn grandi lor so prop later. Li enn zil ki
 **Positions**
 
 - [lalit ansam](position_lalit_ansam.md)
-- [Morisien](position_morisien.md)
+- [Morisien](position_language_mfe.md)
 - [lakord bann lafwa](position_lakord_lafwa.md)
 
 **Pieces**
@@ -84,4 +84,4 @@ An 1968 zil la vinn enn pei lib, ek [pei larkansiel](plan_larkansiel.md) pran ne
 
 ## Stakes
 
-Eski enn zil ki ti vid, ki finn ranpli par bann pep ki finn sorti partou lor latere, kapav touletan tini so "lalit ansam" san kase dan diferans, gard [lakord bann lafwa](position_lakord_lafwa.md) ki fer Diwali, Eid ek Cavadee partaze, ek protez [Morisien](position_morisien.md) ek so larkansiel, alor ki lemond ouver, lamer monte, ek sak zenerasion nef bizin reaprann viv ansam.
+Eski enn zil ki ti vid, ki finn ranpli par bann pep ki finn sorti partou lor latere, kapav touletan tini so "lalit ansam" san kase dan diferans, gard [lakord bann lafwa](position_lakord_lafwa.md) ki fer Diwali, Eid ek Cavadee partaze, ek protez [Morisien](position_language_mfe.md) ek so larkansiel, alor ki lemond ouver, lamer monte, ek sak zenerasion nef bizin reaprann viv ansam.

@@ -50,6 +50,7 @@ stamp:
 - [الأصل الأمازيغي](position_al_asl_al_amazighi.md)
 - [الضيافة](position_addiyafa.md)
 - [الصنعة](position_assanaa.md)
+- [العربية المغربية](position_language_ar_ma.md)
 
 **Pieces**
 
