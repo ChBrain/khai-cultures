@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Pacific Northwest English of the Evergreen State, the flat, low-key Western cadence that runs from the rapid, direct software floors of the Seattle tech corridor to the slow, season-bound orchard talk of the Yakima Valley. It holds an unhurried, understated Northwestern plainness that both the Puget Sound port and the apple country carry.
+The English of the Evergreen State keeps almost none of the regional signatures that mark other American speech, and that absence is itself the feature linguists point to, the merged low back vowels that make cot and caught, or Don and dawn, sound alike where many other dialects keep them apart, giving Pacific Northwest speech a flattened, newscaster clarity often mistaken for having no accent at all. It carries too a homegrown vocabulary built the way English builds most of its new words, by compounding, spendy for costly, the mountain is out for a clear day with Rainier visible, phrases that name a local fact no borrowed word quite covers.
 
 ## Orders
 
-Where it passes as native ground: the Seattle software campus, the Puget Sound dock, the Yakima orchard row, the Cascade trailhead. It orders which turns of phrase and vowels mark a speaker as Washingtonian and sets the fast urban tech ear against the slow agricultural one.
+Like all English it holds a fixed subject verb object order that no case ending allows to loosen, and it requires a spoken subject in nearly every sentence, since the verb's ending alone does not say who is meant the way it does in a language that lets the pronoun drop. It orders the same merger into nearly every mouth in the state, so cot and caught, stock and stalk, are pronounced alike whether the speaker stands on a Seattle sidewalk or a Yakima orchard row, collapsing a distinction a New Yorker or a Southerner is still asked to keep separate.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the commercial board carry, which trims the regional edges off the young. The globalized start-up register also crowds the slower agricultural speech of the valley toward the margin, treating the season-bound talk of the orchard as secondary to the vocabulary of the cloud.
+It loses the very distinction its own merger erases, so a word like cot and a word like caught become homophones and the difference must be recovered from context alone, the way English elsewhere loses gender or case that other tongues still carry. And because English never kept a separate form of you for the respected or the distant, Washington speech has no grammatical way to mark deference at all, leaning entirely on word choice and tone to do what German's Sie or Welsh's chi does with a single pronoun.
 
 ## Drives
 
-It carries [Alan](persona_alan.md), whose rapid West Coast cadence is the working English of the Seattle tech corridor, and [Sarah](persona_sarah.md), whose slow, flat Northwestern cadence holds the agricultural English of the Yakima orchard country. So the one Washington speech shows who turns toward the digital frontier and who keeps the season-bound ground.
+Raised on a flattened vowel system and a plain, compounding vocabulary, the Washington speaker learns to trust the plainest word for a thing rather than reach for a marked or regional one, so the speech sounds unplaceable even to other Americans. It trains an ear that does not listen for the cot caught distinction other Americans rely on, and a habit of building a new compound, spendy, screen time, rather than borrowing or inventing an unfamiliar root, so the tongue keeps inventing itself out of the plainest material at hand.

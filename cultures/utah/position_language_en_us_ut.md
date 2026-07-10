@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Mountain West English of the Beehive State, the clipped technical cadence of the Silicon Slopes and the warm, plain drawl of the agricultural valleys. It holds a cooperative, pioneer plainness, marked by its own dropped and merged vowels, that both the server rack and the orchard carry.
+Utahn English carries the needs-washed construction, dropping the "to be" so a whole verb phrase collapses into two words (the car needs washed, the baby needs changed), a resource most other American dialects do without and must say the longer way. It carries a stock of euphemistic swaps built to skirt profanity (oh my heck, fetch, freak, dang), letting a speaker vent with the full shape of an oath and none of its content, and it fronts the vowels in words like dude and boat until they sit further forward in the mouth than the flat General American version.
 
 ## Orders
 
-Where it passes as native ground: the Lehi software campus, the Salt Lake planning board, the Box Elder orchard, the pioneer valley meetinghouse. It orders which turns of phrase and vowels mark a speaker as Utahn and sets the fast tech ear against the slower farming one.
+It forces card and cord toward the same vowel before r, so two words that stay apart almost everywhere else in American English collapse together here, and it forces a glottal stop onto the t in the middle of words like mountain and kitten, swallowing the consonant rather than tapping it. And in casual registers it forces needs to take a bare past participle directly, with no infinitive between them, so the construction leaves no room for the fuller phrasing the standard expects.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the venture board carry, which trims the local vowels off the young and stamps the rural farming speech as behind. The digital tech register also crowds the older cooperative valley speech toward the margin.
+It loses the crisp medial t of mountain and kitten to the glottal stop, so a listener trained on the broadcast standard hears a catch in the throat where a consonant is expected, and it loses the flat General American vowel in dude and boat, fronted here past what the national standard treats as neutral. And the needs-washed construction, unremarkable inside the state, reads outside it as an error, a piece of grammar that does not travel.
 
 ## Drives
 
-It carries [Joseph](persona_joseph.md), whose clipped technical cadence is the working English of the Lehi software floor, and [Martha](persona_martha.md), whose warm drawl holds the same native tongue in the Box Elder orchards. So the one Utahn speech shows who turns toward the high-speed tech campus and who keeps the farming ground.
+It trains the ear to hear card and cord as the same word and to sort them apart from context rather than from the vowel, and it trains the mouth to reach for the euphemism before the oath, so whoever grows up in it swears fluently in words built never to be a swear. It leaves the construction needs washed so natural to the tongue that its speakers learn, only on leaving, that the rest of the country hears it as missing a word rather than saying one differently.

@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Upper Midwest English of the Badger State, the flat, German-inflected dairyland cadence of the rural creamery counties and the flat northern lake-port speech of the Lake Michigan shore. It holds a direct, unfussy North Central plainness that both the co-op board and the harbor carry.
+Wisconsin English carries a real German and Scandinavian-settler inheritance in its grammar and sound: "come with," used with no object after "with" ("Are you coming with?"), a construction lifted directly from the German "mitkommen" that other American dialects hear as a sentence cut off mid-thought; "bubbler" for a drinking fountain; and "ope," a soft, almost reflexive interjection released when passing close to someone or nearly bumping into them, that stands in for a whole apology in one syllable.
 
 ## Orders
 
-Where it passes as native ground: the Green County creamery, the cooperative board, the Milwaukee brewery floor, the Lake Michigan harbor. It orders which turns of phrase and vowels mark a speaker as Wisconsinite and sets the rural dairyland ear against the lake-port one.
+The dialect forces the object after "with" to be dropped in that one construction, "coming with," never "coming with me," so the missing pronoun must be recovered from context rather than said aloud; and in casual, older-settlement speech it forces the final consonant of some words toward its voiceless twin, so a word like "bag" can come out closer to "back," a devoicing carried over from the German substrate that the speaker inherits rather than chooses.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the commercial board carry, which trims the regional edges off the young. The corporate quarterly register also crowds the slower cooperative speech of the countryside toward the margin, treating the season-bound talk of the dairyland and the lakes as secondary to industrial scale.
+The devoiced final consonant loses, at the end of a word, the distinction between voiced and voiceless stops other American ears rely on to tell "bag" from "back"; and the objectless "come with" loses its object entirely, so a sentence perfectly complete to a Wisconsin ear reads as broken off to anyone outside the region, unable to cross into standard written English without the missing word restored.
 
 ## Drives
 
-It carries [Dietrich](persona_dietrich.md), whose direct midwestern cadence is the working English of the Green County dairyland, and [Ingrid](persona_ingrid.md), whose flat northern cadence holds the lake-port English of the Lake Michigan shore. So the one Wisconsin speech shows who keeps the cooperative craft and who works the Great Lakes ground.
+It drives whoever speaks it toward omission over completion, a habit of trusting the listener to fill in the missing object rather than naming it, and toward a small, immediate courtesy reflex, the "ope" released before the sentence that follows it is even planned. The one Upper Midwest tongue shapes a speech that leans on inherited shortcuts, dropped objects, softened final consonants, quick interjections, more than it leans on saying everything in full.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Merkezi Aziýanyň çölünden gelen, oguz kökli, goňşularynyň arasynda öz owazyny saklan türki dil: çölüň gatylygyny, taýpanyň möhrüni we halynyň nagşyny söze geçirýän til. Ony [Magtymguly](persona_magtymguly.md) bölünen taýpalara bir umumy edebi dil edip berdi, çölüň gepleşigini gözel goşga öwrüp. Ol dogry türkmençäniň, edebi sözüň we halkyň dilinden çykan hakykatyň ölçegini saklaýar.
+Türkmen dili sözlemi kökden başlap yzyna goşulýan goşulmalar bilen gurýar, şeýle-de bir düýp söze birnäçe manyny bir sözüň içinde üst-üste ýerleşdirip berýär (öý, öýler, öýlerimizden ýaly). Sesleriň sazlaşygy her goşulmanyň sesini kökdäki sese görä çalarak ýa-da ýogunlaşdyrýar, bu bolsa uzyn sözi başyndan ahyryna çenli bir üznüksiz ses sazy edip eşitdirýär. Dessanlaryň we şygyrlaryň agyzdan-agyza geçen baý sözlem gurluşy, halynyň nagşy ýaly çylşyrymly, gaýtalanýan we sazlaşykly aňlatmalary saklaýar, olar ýörite goşgy diline mahsus.
 
 ## Orders
 
-Türkmen halkynyň özüni bir millet hökmünde tanamagyny buýurýar: bir dil, bir edebi miras, bir ahlak. Taýpalary birikdirýän umumy söz, goşgy we dessan onuň üsti bilen geçýär, we ony saklamak milletiň binýady hökmünde görülýär. Kagyza ýazylan edebi dil bilen obanyň, bazaryň janly gepleşiginiň arasyny çekip, haýsy sözüň millet dili hasaplanýandygyny kesgitleýär.
+Sözlemiň işligi köplenç iň soňunda durýar, şonuň üçin diňleýji sözlemiň doly manysyny diňe iň soňky sözden soň düşünýär; geplän hem ähli goşmaça sözleri, atlary we ýagdaý bildirijileri işlikden öň hökman tertipläp aýtmaly bolýar. Sesleriň sazlaşygy hem her goşulmanyň haýsy ses toparyndan boljagyny kesgitläp, kökdäki sese görä üýtgetmegi buýurýar, bu kada hiç haçan bozulman ýerine ýetirilýär. Şeýle-de dil sözlemde kim bilen gepleşilýändigine görä hormat derejesini we ýakynlyk derejesini saýlamagy talap edýär.
 
 ## Loses
 
-Rus diliniň öňünde ýer ýitirýär: asyrlaryň dowamynda mekdebiň, edaranyň we ylmyň dili rus boldy, we türkmençe köp söze ondan ergin aldy. Taýpalaryň köçüp ýören dünýäsini doly tutup biljek söz täze zamanda hemişe ýetmedi, we köne dünýäniň bir bölegi diliň serhedinde dymyp galdy. Dili ýazgy däl-de, ýat we owaz saklan zatlar - göllüň manysy, dessanyň owazy - kagyza doly geçmän galýar.
+Sesleriň sazlaşygy daşary dillerden giren sözlerde bozulýar, şol sözler türkmen diliniň öz sazyna doly girmän, dilde asylgy galýar. Goşulmalaryň yzyna-yzyna ulanylmagy bir manyny aňlatmak üçin daşary dilleriň bir gysga sözüniň deregine uzyn bir söz gurmagy talap edip biler, bu bolsa çalt gepleşikde ýitgi döredýär. Dessanlaryň we halk aýdymlarynyň diňe ýat we owaz arkaly geçen baý sözlem hazynasy ýazga doly geçirilende öz owazyny, hiňňildisini we labyzyny ýitirýär, sebäbi kagyz diňe sözi saklaýar, owazy saklamaýar.
 
 ## Drives
 
-Türkmenistany öz dilini, edebi mirasyny we owazyny millet binýady hökmünde saklamaga iterýär. Ol [Magtymgulynyň](persona_magtymguly.md) bölünen halka beren edebi dilini, [Keminäniň](persona_kemine.md) degişmesiniň aşagyndaky hakykatyny, [Mollanepesiň](persona_mollanepes.md) haly ýaly inçe lirikasyny, [Kerbabaýewiň](persona_kerbabaev.md) häzirki zaman prozasyny we [halyçynyň](persona_halycy.md) dokama wagtynda hiňlenip aýdan aýdymyny göterýär. Şeýdip bir dil ony göterýänleri we ýetmedik ýerini görkezýär.
+İşligi soňa goýýan bir dilde gepletmek, adamy bütin sözlemi ahyryna çenli oýlanyp, manyny diňe iň soňunda baglamaga öwrenişdirýär. Sesleriň sazlaşygyny her goşulmada saklamak zerurlygy, gulagy sözi bölek-bölek däl-de, bir bitewi ses dokumasy hökmünde eşitmäge öwrenişdirýär. Hormat we ýakynlyk derejesini her gezek saýlamaly bolmak, geplänleri gürleşýän adamyna görä sözüni ölçäp aýtmaga, durmuşdaky ýaşyny we ýakynlygyny hemişe hasaba almaga iterýär.
