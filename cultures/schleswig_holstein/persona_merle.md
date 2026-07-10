@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Eine junge Frau aus der Gegend um [Kiel](place_kiel.md), aufgewachsen mit der offenen, vernetzten Welt. Sie arbeitet an der Energie aus Wind und Meer und fährt für ein langes Wochenende nach Dänemark, als wäre keine Grenze da. Sie [spricht, hört und denkt](process_speaking_mother_tongue.md) [Hochdeutsch](position_language_de_de_sh.md), und das Englische [trägt sie wie selbstverständlich](process_speaking_worn.md) - es liegt ihr schon auf der Zunge, ehe sie danach greift - und sie [liest und schreibt es](process_reading_followed.md) den ganzen Tag in der Arbeit. Das [Platt](position_language_nds.md) der Großeltern aber [fängt sie nur noch mit dem Ohr](process_hearing_caught.md): da ist der Riss der jungen Generation, die Grenze nach Dänemark ist ihr keine mehr, aber die alte Sprache der eigenen Küste ist ihr schon fast fremd.
+Eine junge Frau aus der Gegend um [Kiel](place_kiel.md), aufgewachsen mit der offenen, vernetzten Welt. Sie arbeitet an der Energie aus Wind und Meer und fährt für ein langes Wochenende nach Dänemark, als wäre keine Grenze da. Sie [spricht, hört und denkt](process_speaking_mother_tongue.md) [Hochdeutsch](position_language_de_de_sh.md), und das [Englische](../united_kingdom/position_language_en_gb.md) [trägt sie wie selbstverständlich](process_speaking_worn.md) - es liegt ihr schon auf der Zunge, ehe sie danach greift - und sie [liest und schreibt es](process_reading_followed.md) den ganzen Tag in der Arbeit. Das [Platt](position_language_nds.md) der Großeltern aber [fängt sie nur noch mit dem Ohr](process_hearing_caught.md): da ist der Riss der jungen Generation, die Grenze nach Dänemark ist ihr keine mehr, aber die alte Sprache der eigenen Küste ist ihr schon fast fremd.
 
 ## Action
 
