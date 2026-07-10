@@ -34,4 +34,4 @@ Ground when the river is taken for granted as mere scenery, its mangroves cleare
 
 ## Drives
 
-Lives in [Edward Francis Small](persona_edward_small.md), who stood up for the small land along the river and gave it a Gambian voice, and shapes the home of [Kunta Kinteh Island](place_kunta_kinteh_island.md), the island in the river's mouth that holds its hardest memory. It drives The Gambia to know itself as the nation of one river, gathered on its banks and carried by its water from the first kingdoms to the coast today.
+Lives in the voice that stood up for the small land along the river and gave it a Gambian voice, and shapes the home of [Kunta Kinteh Island](place_kunta_kinteh_island.md), the island in the river's mouth that holds its hardest memory. It drives The Gambia to know itself as the nation of one river, gathered on its banks and carried by its water from the first kingdoms to the coast today.

@@ -34,4 +34,4 @@ Du terrain quand le carrefour use celui qui le tient: quand le monde passe et ou
 
 ## Drives
 
-Vit en [Aidarous](persona_aidarous.md), dont la voix mele les airs des deux rives de la mer et porte la ville cosmopolite dans sa musique. Elle pousse Djibouti a se tenir ouvert au monde qui passe a sa porte, hote du carrefour, et a faire du seuil une grandeur plutot qu'un courant d'air.
+Elle vit dans la musique qui mele les airs des deux rives de la mer et porte la ville cosmopolite dans son chant. Elle pousse Djibouti a se tenir ouvert au monde qui passe a sa porte, hote du carrefour, et a faire du seuil une grandeur plutot qu'un courant d'air.

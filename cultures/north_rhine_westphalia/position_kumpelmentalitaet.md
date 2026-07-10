@@ -34,4 +34,4 @@ An Kraft, wenn der Verlust der gemeinsamen Arbeitsstätten die Nachbarschaften s
 
 ## Drives
 
-Bestimmt das soziale Verhalten und die Moral von Bergmann [Jupp](persona_jupp.md) im Plot [Die Industrialisierung des Ruhrgebiets ab 1850](plot_01_ruhr_coal_1850.md).
+Bestimmt das soziale Verhalten und die Moral des Bergmanns im Plot [Die Industrialisierung des Ruhrgebiets ab 1850](plot_01_ruhr_coal_1850.md).

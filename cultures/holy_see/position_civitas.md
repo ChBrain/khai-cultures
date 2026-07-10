@@ -34,4 +34,4 @@ Libertatem si imperia finitima vaticanos fines violant aut si neutralitas diplom
 
 ## Drives
 
-Constituitur ut status sui iuris in Plot [Pacta Lateranensia 1929](plot_03_lateran_1929.md) et defert munus custodiae [Petrus](persona_petrus_arch.md).
+Constituitur ut status sui iuris in Plot [Pacta Lateranensia 1929](plot_03_lateran_1929.md) et defert munus custodiae custodibus Helvetiis.

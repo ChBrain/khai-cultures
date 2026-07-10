@@ -34,4 +34,4 @@ An Überzeugungskraft, wenn soziale Ausgrenzung zunimmt oder wenn steigende Miet
 
 ## Drives
 
-Fördert den Wandel der Stadt im Plot [Der Fall der Mauer 1989](plot_02_reunification_1989.md) und leitet das Lebensgefühl von [Amelie](persona_amelie.md).
+Fördert den Wandel der Stadt im Plot [Der Fall der Mauer 1989](plot_02_reunification_1989.md) und leitet das Lebensgefühl der Zugezogenen, die sich in der offenen Stadt jeden Tag neu erfinden.

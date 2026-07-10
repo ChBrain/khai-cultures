@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Pacific Northwest English of the Beaver State, the direct West Coast cadence of the Portland coffee houses and the flat, level Northwestern speech of the Willamette Valley vineyards. It holds an unmarked, understated Western plainness that both the roasting bench and the barrel room carry.
+The flat, low back vowel merger that folds "cot" and "caught" into a single sound, and a fronted, forward GOOSE and GOAT that pushes "boot" and "boat" toward the front of the mouth rather than the back a wider General American holds them in. It carries a handful of homegrown words, "spendy" for costly, that a dialect otherwise close to the unmarked national standard keeps as its own small signature.
 
 ## Orders
 
-Where it passes as native ground: the Portland roastery, the downtown marketing board, the Willamette vineyard, the Columbia timber camp. It orders which turns of phrase and vowels mark a speaker as Oregonian and sets the urban West Coast ear against the rural valley one.
+It forces the merger of the low back vowels whether the speaker means to or not, so "cot" and "caught," "Don" and "dawn," come out identical, a distinction a speaker of many other American dialects is forced the other way to keep apart. It orders no strong regional grammar beyond the shared rules of American English, no distinctive verb marking, no plural pronoun of its own, only the vowel shifts a Northwestern mouth makes without choosing to.
 
 ## Loses
 
-Ground to General American, which the Northwest sits close to already, so the young hear little to hold onto, while the start-up and specialty-market register the screen carries stamps the patient farming speech as backward. The urban counter-culture idiom also crowds the older agricultural talk toward the margin.
+It loses the sharp regional markers that dialects elsewhere keep sharp, so its own speakers are among the hardest in the country to place by ear alone, and the young pick up almost nothing distinct to hold onto against the flattening pull of national broadcast speech. What older, more agricultural turns of phrase the valley once carried thins further as the screen's placeless register spreads.
 
 ## Drives
 
-It carries [Chloe](persona_chloe.md), whose direct West Coast cadence is the working English of the Portland roasteries, and [Thomas](persona_thomas.md), whose flat Northwestern speech holds the English of the Willamette Valley vineyards. So the one Oregonian speech shows who turns toward the urban market and who keeps the farming ground.
+Growing up merging "cot" and "caught" trains the ear not to listen for a distinction most of the rest of the country still makes, and fronting the back vowels leaves a Northwestern mouth sounding forward and light rather than broad. So the very unmarkedness of the tongue, the absence of a strong accent to defend, shapes whoever speaks it into someone heard first as merely American, and only second, and faintly, as Oregonian.

@@ -34,4 +34,4 @@ Su equilibrio cuando la roturación de parcelas arboladas para instalar inmensos
 
 ## Drives
 
-Guía el desarrollo forestal en el relato [El Decreto de la Dehesa 1990](plot_03_dehesa.md) y orienta la montanera porqueril de [Jeronimo](persona_jeronimo.md).
+Guía el desarrollo forestal en el relato [El Decreto de la Dehesa 1990](plot_03_dehesa.md) y orienta la montanera porqueril de quien cría cerdos de bellota en la dehesa.

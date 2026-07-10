@@ -34,4 +34,4 @@ Graon taem kastom i kam wan samting blong soem long ol turis nomo mo i lus stamb
 
 ## Drives
 
-Hem i stap long [Roi Mata](persona_roi_mata.md), paramaon jif blong bifo we i joenem ol haf blong Efate wetem pis mo we dom blong hem i kam wan ples tabu blong wol, mo long [Jif Kastom](persona_jif_kastom.md), jif blong nakamal we i holem rank blong tusk mo we i kipim fasin blong ol bubu tede. Hem i pulum Vanuatu blong holemtaet kastom blong hem agensem evri samting we i kam blong jenisim hem, mo blong pasem hem daon long ol pikinini.
+Hem i stap long jifship blong bifo we i joenem ol haf blong Efate wetem pis mo we dom blong hem i kam wan ples tabu blong wol, mo long jifship blong nakamal we i holem rank blong tusk mo we i kipim fasin blong ol bubu tede. Hem i pulum Vanuatu blong holemtaet kastom blong hem agensem evri samting we i kam blong jenisim hem, mo blong pasem hem daon long ol pikinini.

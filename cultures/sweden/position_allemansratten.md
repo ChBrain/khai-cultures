@@ -34,4 +34,4 @@ Mark där friheten missbrukas eller där rädsla och stängsel tränger undan de
 
 ## Drives
 
-Den lever i [Linnea](persona_linnea.md), som vandrar och tältar fritt, och den är naturens uttryck för samma tillit till det gemensamma som bär [folkhemmet](position_folkhemmet.md).
+Den lever i var och en som vandrar och tältar fritt, och den är naturens uttryck för samma tillit till det gemensamma som bär [folkhemmet](position_folkhemmet.md).

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El català és la llengua pròpia de Catalunya, l'idioma amb què el país es pensa i s'anomena a si mateix. Té una tradició literària que arrenca de Ramon Llull i dels trobadors, reviscuda per la Renaixença del segle dinou, i avui és llengua cooficial al costat del castellà, present a l'escola, als mitjans i a les institucions de la Generalitat.
+El català té el passat perifràstic, la construcció vaig fer que substitueix el pretèrit simple en la parla quotidiana, un tret que cap altra llengua romànica veïna comparteix d'aquesta manera. Té els pronoms febles hi i en, que substitueixen tot un complement de lloc o de matèria sense necessitat de repetir-lo, i manté la distinció entre vocal oberta i tancada en la e i la o, un contrast que dona al català un timbre propi.
 
 ## Orders
 
-Mana que l'escola faça la immersió en català perquè tots els infants del país, vinguen d'on vinguen, el comparteixin com a llengua comuna; ordena que les administracions, la retolació i els mitjans públics el facin servir amb tota normalitat, i demana als nouvinguts que el prenguin com a eina d'integració i de plena ciutadania dins del país.
+Obliga a triar entre l'auxiliar vaig i les formes simples per marcar l'acció passada, i imposa l'ús constant dels pronoms febles hi i en allà on altres llengües repetirien el sintagma sencer. Exigeix també la concordança de gènere i nombre en cada adjectiu, i la doble vocal, oberta o tancada, que canvia el sentit d'una paraula segons com s'obre la boca en pronunciar-la.
 
 ## Loses
 
-Perd terreny davant del castellà a les grans ciutats i als patis d'escola, on la pressió demogràfica i el consum cultural en espanyol el desplacen de l'ús quotidià entre els joves; i perd presència als aparadors, a les xarxes i a la justícia, on sovint es replega quan no es protegeix el seu ús públic i s'accepta el castellà com l'opció per defecte.
+Perd la simplicitat de les llengües que no marquen l'obertura vocàlica, perquè cada e i cada o porta un valor que cal saber de memòria i que l'escriptura no sempre mostra. I la construcció vaig fer, tan pràctica per marcar el passat proper, no es trasllada bé a llengües que només tenen un pretèrit, de manera que la traducció sovint aplana un matís que el català distingeix.
 
 ## Drives
 
-Configura la parla materna de [Jordi](persona_jordi.md), l'artesà vidrier de Barcelona, i de [Montserrat](persona_montserrat.md), la pagesa cooperativista del Penedès, i travessa la frontera per arribar a [Antoni Gaudí](../spain/persona_gaudi.md), l'arquitecte que responia en català davant la Corona.
+Acostuma qui el parla a triar constantment entre l'auxiliar i la forma simple per situar l'acció en el temps, i a sentir en l'obertura o el tancament d'una vocal un contrast de sentit que altres parlants no perceben. L'ús continu dels pronoms febles hi i en ensenya a economitzar la frase i a mantenir present, sense repetir-lo, allò de què s'està parlant.

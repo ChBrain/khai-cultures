@@ -34,4 +34,4 @@ An Überzeugungskraft, wenn kommerzielles Design die sozialen Kernziele verwäss
 
 ## Drives
 
-Lenkt die Arbeit von Archivar [Walter](persona_walter.md) im Plot [Der Umzug des Bauhauses nach Dessau 1925](plot_02_bauhaus_dessau_1925.md).
+Lenkt die Arbeit des Archivars im Plot [Der Umzug des Bauhauses nach Dessau 1925](plot_02_bauhaus_dessau_1925.md).

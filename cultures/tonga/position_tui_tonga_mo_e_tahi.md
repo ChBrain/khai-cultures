@@ -34,4 +34,4 @@ Ko e fonua ko e fanau 'a e tahi, 'a ia 'oku ne ma'u 'a hono malohi mei he folau 
 
 ## Drives
 
-'Oku mo'ui 'ia [Tu'i Tonga](persona_tui_tonga.md), 'a e tu'i tapu mo fakalangi 'o e 'emipaea 'o e tahi, 'a ia na'e pule mei Lapaha 'i he 'otu motu kotoa. 'Oku ne taki 'a Tonga ke pukepuke ma'u 'a e laukau 'o e folau mo e mafai motu'a 'o e tahi, 'a e fakavae 'o e fonua na'e tu'u 'i he 'emipaea 'o e Pasifika.
+'Oku mo'ui 'i he tu'i tapu mo fakalangi 'o e 'emipaea 'o e tahi, 'a ia na'e pule mei Lapaha 'i he 'otu motu kotoa. 'Oku ne taki 'a Tonga ke pukepuke ma'u 'a e laukau 'o e folau mo e mafai motu'a 'o e tahi, 'a e fakavae 'o e fonua na'e tu'u 'i he 'emipaea 'o e Pasifika.

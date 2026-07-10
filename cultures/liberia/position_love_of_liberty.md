@@ -34,4 +34,4 @@ Ground when the love of liberty is kept for some and not for all, when the freed
 
 ## Drives
 
-Lives in [Joseph Jenkins Roberts](persona_roberts.md), the first president, who raised the Lone Star over Africa's first republic and gave the love of liberty a state to stand in, and in [George Weah](persona_weah.md), the son of the soil who carried the name of Liberia high before the whole world and stood for the dignity of his people. It drives Liberia to hold freedom as the reason for the place and to keep the promise of the motto bigger than the seal.
+Lives in the first president, who raised the Lone Star over Africa's first republic and gave the love of liberty a state to stand in, and in the son of the soil who carried the name of Liberia high before the whole world and stood for the dignity of his people. It drives Liberia to hold freedom as the reason for the place and to keep the promise of the motto bigger than the seal.

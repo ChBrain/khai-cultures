@@ -34,4 +34,4 @@ Du terrain quand le respect du rang se fige et fait taire la parole du jeune et 
 
 ## Drives
 
-Vit dans [Le Mogho Naba](persona_naba.md), qui siege a la cour et accomplit le rite du vendredi, et dans [Le joueur de balafon](persona_griot.md), le gardien de la parole et de la memoire qui chante la lignee et fait parler le bois. Elle pousse le pays a tenir, par-dessus l'Etat et a cote de lui, la longue parole des royaumes et la duree qu'elle garde.
+Vit dans le roi qui siege a la cour et accomplit chaque vendredi le rite du depart et du retour, et dans le griot, gardien de la parole et de la memoire, qui chante la lignee et fait parler le bois. Elle pousse le pays a tenir, par-dessus l'Etat et a cote de lui, la longue parole des royaumes et la duree qu'elle garde.

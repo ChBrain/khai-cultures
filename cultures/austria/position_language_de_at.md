@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität eines eigenen österreichischen Standards, im [Schmäh](position_schmaeh.md) gefärbt und im Österreichischen Wörterbuch festgeschrieben: dieselbe deutsche Sprache und doch eine eigene Norm, mit eigenen Wörtern, dem Erdapfel, dem Jänner, dem Sackerl, der Marille, dem Paradeiser, und dem weichen, gedehnten Klang des Wienerischen.
+Das österreichische Deutsch trägt dieselbe Wortbau- und Kasusfähigkeit wie das Deutsch überhaupt, gefärbt durch einen eigenen Wortschatz, den Erdapfel, den Jänner, das Sackerl, die Marille, den Paradeiser, durch den weichen, wenig aspirierten Anlaut und den gedehnten Klang des Wienerischen, und durch die besonders produktive Verkleinerung auf -erl, die über das Chen und Lein des deutschländischen Deutsch hinausgeht.
 
 ## Orders
 
-Was im Land als richtiges Deutsch gilt: die Norm des Österreichischen Wörterbuchs, des ORF und des Schulbuchs, bis hin zu den österreichischen Ausdrücken, die im EU-Beitritt eigens geschützt wurden. Es ordnet, dass man hier nicht bundesdeutsch schreibt und spricht, sondern österreichisch.
+Es zwingt, wie jedes Deutsch, bei jedem Ding ein Geschlecht und einen der vier Fälle zu wählen und im Nebensatz das Verb bis zuletzt zurückzuhalten, und es zwingt bei jeder Anrede zur Entscheidung zwischen Sie und du; und es zwingt hier, im gehobenen Register, zum eigenen österreichischen Wort statt zum bundesdeutschen, sooft beide zur Wahl stehen.
 
 ## Loses
 
-Boden nach unten an die Mundart, die im Mund weiterlebt, was das Schulbuch nie ganz fasst. Und es verliert nach außen an das bundesdeutsche Hochdeutsch, das aus Fernsehen, Verlagen und Netz hereinströmt: dieselbe Sprache, eine andere Norm, die Wort um Wort die österreichischen Ausdrücke überschreibt und den alten Argwohn gegen den Piefke nährt.
+Es verliert die Mundartwörter, die nie ins Schulbuch fanden, weil die Schrift glättet, was der Mund noch trägt; und es verliert, Wort um Wort, die eigenen Ausdrücke an das bundesdeutsche Hochdeutsch, das aus Fernsehen und Netz hereinströmt und die österreichische Form neben die eigene stellt, bis nur die fremde bleibt.
 
 ## Drives
 
-Es lebt in [Gretes](persona_grete.md) Wienerisch und Schmäh, in [Lukas](persona_lukas.md) ohne die Kaisernostalgie, und liegt als selbstverständlicher Grund unter [Freuds](persona_freud.md) Prosa. Als Kanzleideutsch klammert es [Maria Theresias](persona_maria_theresia.md) Vielvölkerreich von oben zusammen, und auf [Metternichs](persona_metternich.md) Zunge spielt es im Salon der Diplomatie. Es ist die Norm, an der die Österreicher wissen, dass sie keine Deutschen sind: dieselbe Zunge, die eigene Form.
+Der weiche Klang und das produktive -erl gewöhnen den, der darin aufwächst, an einen wärmeren, leiser ironischen Ton für die Dinge des Alltags; und das Halten eines eigenen Wortschatzes in derselben Grammatik gewöhnt das Ohr daran, in derselben Zunge ein anderes Wort zu hören und darin die eigene Herkunft zu erkennen.

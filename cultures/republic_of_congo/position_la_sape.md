@@ -34,4 +34,4 @@ Du terrain quand l'allure devient ruine, qu'on se saigne pour une etiquette au l
 
 ## Drives
 
-Vit dans [Stervos Niarcos](persona_stervos_niarcos.md), le grand ambianceur qui a porte la SAPE au rang d'un art, et dans [le sapeur](persona_le_sapeur.md), l'homme du quartier qui en fait sa maniere de tenir debout. Elle pousse la Republique du Congo a faire de l'elegance une dignite, du peu une allure, et a se montrer au monde la tete haute et le pli du pantalon impeccable.
+Vit dans le grand ambianceur qui a porte la SAPE au rang d'un art, et dans le sapeur, l'homme du quartier qui en fait sa maniere de tenir debout. Elle pousse la Republique du Congo a faire de l'elegance une dignite, du peu une allure, et a se montrer au monde la tete haute et le pli du pantalon impeccable.

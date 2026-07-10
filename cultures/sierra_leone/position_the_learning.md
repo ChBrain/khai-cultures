@@ -34,4 +34,4 @@ Ground when the learning becomes a wall instead of a ladder, when the schooled c
 
 ## Drives
 
-Lives in [Samuel Ajayi Crowther](persona_crowther.md), the liberated African who was schooled at Fourah Bay and became the first African bishop, the very proof of what the Learning could make of a carried-away child. It drives Sierra Leone to hold the book in honour, to send its teachers across the coast, and to keep the lamp of the Athens of West Africa lit for the generations coming up behind.
+Lives in every liberated African who was schooled at Fourah Bay and rose to become a bishop or a teacher across the coast, the very proof of what the Learning could make of a carried-away child. It drives Sierra Leone to hold the book in honour, to send its teachers across the coast, and to keep the lamp of the Athens of West Africa lit for the generations coming up behind.

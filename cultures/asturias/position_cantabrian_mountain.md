@@ -34,4 +34,4 @@ Su equilibrio cuando el cierre forzoso de los pozos mineros históricos despuebl
 
 ## Drives
 
-Guía el desarrollo de resistencias en el relato [La Revolución de Octubre 1934](plot_02_miners.md) y orienta la ganadería de [Covadonga](persona_covadonga.md).
+Guía el desarrollo de resistencias en el relato [La Revolución de Octubre 1934](plot_02_miners.md) y orienta la ganadería que sube el ganado a los puertos altos y defiende los pastos comunales frente al cierre de los valles.

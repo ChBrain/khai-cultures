@@ -34,4 +34,4 @@ Pursa kuando a presa di o dinheiru ta tira os mosu di a tabanca pa sidadi i pa f
 
 ## Drives
 
-Ta vivi na [o lavrador di caju](persona_lavrador_di_caju.md), ku ta lavra a sua terra na meiu di os seus i ku ta sustenta a kasa ku a sua mom. I ta lebanta a Guine-Bissau a sustenta a tabanca komu o esteiu di a vida, undi tudu genti ten o seu lugar i undi ningin ta sta so.
+Ta vivi na o lavrador di caju, ku ta lavra a sua terra na meiu di os seus i ku ta sustenta a kasa ku a sua mom. I ta lebanta a Guine-Bissau a sustenta a tabanca komu o esteiu di a vida, undi tudu genti ten o seu lugar i undi ningin ta sta so.

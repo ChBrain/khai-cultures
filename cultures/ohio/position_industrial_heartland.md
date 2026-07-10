@@ -34,4 +34,4 @@ Its balance when resistance to industrial transition causes stagnation, leaving 
 
 ## Drives
 
-Shapes the assembly lines in the plot [The Industrial Boom and Rust Belt 1920](plot_02_rust_belt.md) and drives the research work of [Harper](persona_harper.md).
+Shapes the assembly lines in the plot [The Industrial Boom and Rust Belt 1920](plot_02_rust_belt.md) and drives the research work carried on across the region.

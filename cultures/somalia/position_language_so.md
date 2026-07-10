@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Sharafta ugu sarreysa ee bulshada Soomaaliyeed: in eraygu yahay maalka ugu qaalisan, in gabaygu yahay caddaynta, taariikhda iyo astaanta, oo qofka af-fiicani uu sharaf weyn leeyahay. Tan iyo waagii hore, dadka Soomaaliyeed waxay taariikhdooda, sharcigooda iyo dareenkooda ku hayeen afka- gabayga, sheekada, hees-hooyo iyo maahmaahda- ee aan qoraal lahayn ilaa 1972 markii ugu horraysay la siiyay far rasmi ah oo Laatiin ah. Gabaygu wuxuu xambaarsan yahay dagaal iyo nabad, jacayl iyo murug, baaq iyo digniin- "Ummadda Abwaannada" sida la yidhi, halka maahmaahdu tahay xikmaddii aabbayaal hore.
+Af-Soomaaliga wuxuu leeyahay qaab la yidhaahdo tiro-dhawaaq, oo ku jira codka sare iyo hoose ee ereyga, kaas oo keligiis calaamadiya jinsiga iyo xaaladda ereyga halkii uu ku dari lahaa xaraf dheeraad ah sida luqado kale u sameeyaan. Gabaygu wuxuu leeyahay xeer alliteration ah, kaas oo ku dhawaaqa ereyga ugu muhiimsan ee xariiq kasta inuu ku bilaabmo isla xaraf ama shibbane, sidaas darteed maansadu waxay ku xambaarsan tahay taariikh iyo xikmad muddo qarniyo ah iyada oo aan la qorin. Waxa kale oo uu leeyahay erayo aad u faafsan oo kala saara geela sida uu u kala jiro da'da, midabka, jinsiga iyo isticmaalka.
 
 ## Orders
 
-In eraygu culus yahay oo loo dhaqaaqo si taxaddar leh, maxaa yeelay gabaygu wuu kicin karaa oo wuu xukumi karaa; in qofka af-fiican lagu xushmeeyo oo gabayaagu uu yahay marag iyo madax dhaqameed; iyo in maahmaahdu tahay sharci aan la diidi karin, oo cidda erayga si fiican u maamusha ay sharaf iyo awood ku leeyihiin bulshada.
+Wuxuu ku dhaqmaa in dhawaaqa sare iyo hoose uu calaamadiyo jinsiga iyo xaaladda ereyga halkii xarafku u qori lahaa taas; wuxuu kaloo ku amraa in jumlad kasta la keeno hal calaamad diiradda (waxa, baa, ayaa) oo cadaynaysa qeybta jumlada ee ugu muhiimsan, taas oo aan la dhaafi karin marnaba. Gabayguna wuxuu ku qasbaa abwaanka inuu ereyo doorto oo dhammaantood ku bilaabma isla xaraf, sidaas darteedna maansooyinku waxay noqdaan mid dhegtu si fudud u xasuusato.
 
 ## Loses
 
-Wuxuu lumiyaa goorta qoraalka casriga ah iyo luqadaha shisheeye ay daadiyaan gabaygii afka laga dhaxlay, marka carruurtu ay ka dhigaan af shisheeye afkii hooyo; wuxuuna lumiyaa goorta eraygu noqdo hadal madhan oo aan caddayn lahayn, ama goorta maahmaahdii iyo gabaygii ay reeraha ka libdhaan, oo qoraalku aanu xambaarin xikmaddii afka.
+Tiro-dhawaaqu wuxuu ku dhici karaa qoraalka Laatiinka ah ee tan iyo 1972, oo aan calaamad u lahayn codka sare iyo hoose, taas oo qariya jinsiga iyo xaaladda ereyga marka la qoro. Hadalka reer magaalada ee casriga ahna wuxuu lumiyaa gabaygii dheeraa iyo maahmaahdii, iyo ereyadii geela u gaarka ahaa, marka nolosha xoolo-dhaqashada ay ka fogaato dadka. Ereyo badan oo laga soo qaatay Carabiga, Talyaaniga iyo Ingiriisiga ayaa isbeddel u noqday erayada dhaqameed ee mawduucyada casriga ah sida farsamada iyo ganacsiga.
 
 ## Drives
 
-Wuxuu ku nool yahay [Sayid Maxamed Cabdulle Xasan](persona_sayid.md), kii gabaygiisii ku qaaday taariikh iyo dhiirrigelin; [Hadraawi](persona_hadraawi.md), kii gabaygii casriga ah qotodheeriyey; [Nuruddin Farah](persona_nuruddin.md), kii sheekada Soomaaliyeed adduunka u qaaday; [geeljiraha](persona_geeljire.md), kii habeenkii geela hortooda ka tola gabay xikmad iyo bilic leh oo dhegta iyo xusuusta ku haya; iyo [Maryam](persona_maryam.md), oo codkeeda eraygii reerka u rogtay laxan iyo dareen. Wuxuu Soomaaliya u kacshaa in ay erayga u haysato sharaf, in maahmaahda iyo gabayga ay yihiin xididka aan la goyn karin.
+Wuxuu qofka ku qasbaa inuu dhegta u dhigo codka sare iyo hoose ee ereyga, isaga oo aan ahayn calaamad kaliya oo dareen, laakiin sida naxwaha uu ereygu ka kooban yahay. Wuxuu abwaanka ku qasbaa inuu maansadiisa ku dhisto qaab dhawaaq ah, taas oo ah isla xaraf ku bilaabid, halkii uu isticmaali lahaa raad-raac, sidaas darteedna maansadu waxay noqotaa mid xasuus fudud leh. Mar kasta oo qof hadlo, wuxuu ku qasbanaa inuu calaamadiyo qeybta jumlada ee cusub ee ugu muhiimsan, taas oo bulshada Soomaaliyeed ku barta inay had iyo jeer kala soocaan waxa la ogaaday iyo waxa cusub ee la sheegayo.

@@ -34,4 +34,4 @@ Maaperää, jolla vapaus muuttuu välinpitämättömyydeksi ja yhteistä luontoa
 
 ## Drives
 
-Se elää [Ainossa](persona_aino.md), jolle metsä on yhteinen ja itsestäänselvä, ja sitä kantaa sama keskinäinen luottamus, joka pitää koolla [tasa-arvon](position_tasa_arvo.md).
+Se elää jokaisessa, jolle metsä on yhteinen ja itsestäänselvä, ja sitä kantaa sama keskinäinen luottamus, joka pitää koolla [tasa-arvon](position_tasa_arvo.md).

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The truth that a likkle two-island nation can carry a voice the whole world hears. Antigua and Barbuda count their people in the tens of thousands, yet they sent out Sir Vivian Richards, among the most feared and most loved batsmen the game of cricket has ever known, and the writer Jamaica Kincaid, whose books told the island plain-plain and reached readers clear across the earth. They live on three hundred and sixty-five beaches and the visitors who come for them - a beach for every day of the year - and they hold, in Barbuda, a sister isle of frigate birds and common land that bore the full force of Hurricane Irma. It is the position of the small place that refuses to be small in spirit - that bats, writes, sings, and sails its way into the world's notice - while knowing well how much the wide reach leans on the wider world, and how easy the small can be overlooked.
+The truth that a likkle two-island nation can carry a voice the whole world hears. Antigua and Barbuda count their people in the tens of thousands, yet they sent out a knighted batsman among the most feared and most loved the game of cricket has ever known, and a writer whose books told the island plain-plain and reached readers clear across the earth. They live on three hundred and sixty-five beaches and the visitors who come for them - a beach for every day of the year - and they hold, in Barbuda, a sister isle of frigate birds and common land that bore the full force of Hurricane Irma. It is the position of the small place that refuses to be small in spirit - that bats, writes, sings, and sails its way into the world's notice - while knowing well how much the wide reach leans on the wider world, and how easy the small can be overlooked.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Ground when the wide reach becomes a brand and the small place becomes a backdro
 
 ## Drives
 
-Lives in [Vivian Richards](persona_vivian_richards.md), who carried the island's name onto every cricket ground on earth, in [Jamaica Kincaid](persona_jamaica_kincaid.md), who told the small place plain to the wide world, and in [the Barbudan](persona_the_barbudan.md), who keeps the sister isle's common land and its frigate-bird sanctuary. It drives Antigua and Barbuda to reach far and yet remember the near, the wide voice and the small home held together as one.
+Lives in the batsman who carried the island's name onto every cricket ground on earth, in the writer who told the small place plain to the wide world, and in the islander who keeps the sister isle's common land and its frigate-bird sanctuary. It drives Antigua and Barbuda to reach far and yet remember the near, the wide voice and the small home held together as one.

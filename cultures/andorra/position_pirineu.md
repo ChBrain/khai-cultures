@@ -34,4 +34,4 @@ En identitat quan les pastures es converteixen exclusivament en urbanitzacions o
 
 ## Drives
 
-Determina la forma de vida de [Jordi](persona_jordi.md), que s'ocupa de [la transhumància](process_transhumance.md) pel Pirineu.
+Determina la forma de vida de qui es dedica a [la transhumància](process_transhumance.md) pel Pirineu, el pastor per al qual la muntanya marca el ritme de l'any.

@@ -34,4 +34,4 @@ Tergugat apabila perbezaan iman diangkat menjadi sempadan yang memisahkan, atau 
 
 ## Drives
 
-Hidup dalam [Pak Tua](persona_pak_tua.md), orang tua kampung yang menjaga waktu solat sambil membuka pintunya kepada jiran daripada setiap kepercayaan. Ia mendorong Malaysia menjadikan iman tunggak adab tanpa menjadi tembok antara kaum.
+Hidup dalam orang tua kampung yang menjaga waktu solat sambil membuka pintunya kepada jiran daripada setiap kepercayaan. Ia mendorong Malaysia menjadikan iman tunggak adab tanpa menjadi tembok antara kaum.

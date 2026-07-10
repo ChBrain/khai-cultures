@@ -34,4 +34,4 @@ Ground when the music is sold rather than lived - when Junkanoo becomes a poolsi
 
 ## Drives
 
-Lives in [Joseph Spence](persona_joseph_spence.md), the legendary folk guitarist whose rake-and-scrape and ragged hymns carried the island music to the world without ever leaving the islands behind. It drives the Bahamas to keep its own voice sounding, in the costume and the cowbell and the scraped saw, against the pull of the borrowed tune.
+Lives in the legendary folk guitarist whose rake-and-scrape and ragged hymns carried the island music to the world without ever leaving the islands behind. It drives the Bahamas to keep its own voice sounding, in the costume and the cowbell and the scraped saw, against the pull of the borrowed tune.

@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The North Central English of the Flickertail State, the flat, plain-voweled prairie speech of the Red River Valley and the Williston Basin, carrying the Scandinavian and German settlement cadence of the northern plains. It holds a spare, understated Upper Midwest plainness that both the wheat farm and the oil rig carry.
+North Central English lets a speaker keep the long vowels of "boat" and "eight" as plain, undiphthongized monophthongs rather than the gliding sounds General American uses, a trace of the Scandinavian and German settlement of the northern plains, and it merges the vowels of "cot" and "caught" into a single open sound, so it can hold a level, unbroken tone across a sentence that other dialects break into a glide.
 
 ## Orders
 
-Where it passes as native ground: the Grand Forks grain elevator, the Red River farm, the Williston rig floor, the small prairie town. It orders which vowels and turns of phrase mark a speaker as a North Dakotan and sets the eastern farming ear against the western oil-patch one.
+It forces the cot-caught merger through every word pair the distinction would otherwise split (Don and Dawn, stock and stalk), it forces the monophthongal reading of the long mid vowels rather than a diphthong, and it licenses a rising, exclamatory "then" or "so" to close a clause, a tag Standard English does not require.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the corporate board carry, which trims the prairie cadence off the young and treats the settlement vowels as a novelty. The high-volume oil register also crowds the older farm-country speech toward the margin.
+It cannot easily keep the gliding diphthong other American dialects use on the long o and long e vowels; that glide flattens here into a single plain vowel. It loses too the direct Norwegian and German inflections its settlers once carried, so that only interjections like "uff da" survive as loan color, and it loses ground to General American broadcast speech, which stamps its flat vowels as a novelty rather than a system of their own.
 
 ## Drives
 
-It carries [Harvey](persona_harvey.md), whose prairie cadence is the working English of the Grand Forks wheat farms, and [Lincoln](persona_lincoln_nd.md), whose prairie drawl holds the English of the Williston oil patch. So the one North Dakotan speech shows who keeps the farm ground and who turns toward the shale energy.
+Speaking it habituates a level, undramatic delivery, a habit of closing a clause on a flat tone rather than a rising or falling one, and a taste for terse, deadpan understatement, so that a speaker raised in it treats plain, unglided vowels and a flat close as the ordinary way to end a thought rather than a withholding of feeling.

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Shqiptaria, kombi mbi fe: "feja e shqiptarit është shqiptaria", siç tha Pashko Vasa në Rilindje. Në një popull të ndarë në katër besime - myslimanë, ortodoksë, katolikë dhe bektashinj - kombi dhe gjuha vijnë para xhamisë dhe kishës, dhe bashkëjetesa fetare bëhet shenjë e mburrjes. Skënderbeu i bashkoi princat mbi fe; Rilindja e bëri parimin program; dhe brenda së njëjtës familje shqiptare gjenden shpesh të katër besimet pa armiqësi.
+Shqiptaria, kombi mbi fe: "feja e shqiptarit është shqiptaria", siç tha Pashko Vasa në Rilindje. Në një popull të ndarë në katër besime - myslimanë, ortodoksë, katolikë dhe bektashinj - kombi dhe gjuha vijnë para xhamisë dhe kishës, dhe bashkëjetesa fetare bëhet shenjë e mburrjes. Bashkimi i princave shqiptarë mbi fe u vulos herët, kundër Osmanit; Rilindja e bëri parimin program; dhe brenda së njëjtës familje shqiptare gjenden shpesh të katër besimet pa armiqësi.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Truall humbet kur izolimi i Hoxhës e detyroi kombin ateist më 1967 dhe i mbyll
 
 ## Drives
 
-Jeton te [Skënderbeu](persona_skenderbeu.md), që i bashkoi princat shqiptarë mbi fe kundër Osmanit dhe u quajt "Athleta Christi" duke mbetur hero i mbarë kombit. E shtyn Shqipërinë ta mbajë kombin mbi fe dhe bashkëjetesën fetare si rrënjë të gjallë, jo si kujtim.
+Jeton atje ku princat shqiptarë bashkohen mbi fe kundër Osmanit, dhe atje ku heroi që doli prej saj u quajt "Athleta Christi" e mbeti hero i mbarë kombit, pa dallim besimi. E shtyn Shqipërinë ta mbajë kombin mbi fe dhe bashkëjetesën fetare si rrënjë të gjallë, jo si kujtim.

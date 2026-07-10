@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Le francais, l'une des deux langues officielles du pays, devenu la parole partagee du plus grand nombre: la langue de l'ecole, des actes et de l'Etat, mais aussi celle de la rue, du marche et de la scene, ou elle se mele au pidgin, au camfranglais et aux plus de deux cents langues du pays. Ce n'est pas la langue mere des Camerounais, qui la portent chacun a cote de la sienne, mais la parole commune qui permet a un fils du pays Sawa, un homme du pays Beti et une femme du grand marche de se comprendre d'un bout a l'autre. A cote de l'anglais, son egal en droit, elle est l'un des deux fils qui relient une nation de mille langues.
+Le genre grammatical qui accorde l'article et l'adjectif a chaque nom, le subjonctif qui marque dans la forme du verbe le doute, le souhait ou la necessite plutot que le fait accompli, et un systeme de temps precis, l'imparfait contre le passe compose, qui distingue l'habitude ancienne de l'evenement ponctuel avec une nettete que beaucoup des langues du pays ne construisent pas de la meme facon.
 
 ## Orders
 
-Que l'on puisse se comprendre d'un bout a l'autre du pays sans que nul renie sa langue mere; que le francais reste une langue de travail et d'ouverture plutot qu'un signe de mepris envers qui le manie mal; qu'il tienne son rang a egale dignite avec l'anglais, l'autre heritage; et que, sous lui, les langues des villages gardent leur place et ne s'effacent pas dans la bouche des enfants.
+Il force l'accord du genre a chaque nom qu'il touche, il force le choix entre tu et vous qui mesure la distance sociale dans l'adresse elle-meme, et il force la liaison entre la fin d'un mot et le debut du suivant, un lien sonore qui change le rythme d'une phrase selon ce qui vient apres.
 
 ## Loses
 
-Du terrain quand le prestige va a qui le parle bien et le mepris a qui ne le manie pas, quand la langue de l'ecole devient une barriere au lieu d'un pont; du terrain aussi quand, sous cette parole partagee et sous l'anglais, les langues meres s'amincissent, et que l'ecart entre la voix du village et la page imprimee se creuse sans que personne ne le comble tout a fait.
+Il perd le ton et les classes nominales des langues bantoues et soudanaises du pays, si bien qu'aucun prefixe ni aucune melodie ne porte plus, dans sa grammaire, la nuance que ces langues placent d'instinct dans le mot lui-meme; et sa precision ecrite s'efface souvent devant le camfranglais et le pidgin, qui melangent son vocabulaire a celui des langues locales et de l'anglais, une parole de la rue qu'aucune grammaire scolaire ne fixe.
 
 ## Drives
 
-Vit dans [Manu Dibango](persona_manu_dibango.md), qui porte le francais de la scene et de l'ecole comme un outil sans jamais s'y noyer; dans [Mongo Beti](persona_mongo_beti.md), qui retourne la langue de l'ecole pour ecrire son village de l'interieur et en fait son arme; dans [Roger Milla](persona_milla.md), qui porte le francais des Lions et de la presse quand la joie du pays deborde; dans [la buyam-sellam](persona_la_buyam_sellam.md), qui mele un peu de francais a tout ce qu'il faut pour vendre a tous au marche; et dans [Ibrahim Njoya](persona_njoya.md), qui rencontra le francais des etrangers venus plus tard, lui qui avait deja donne a sa propre langue une ecriture. Elle pousse le Cameroun a se comprendre d'un bout a l'autre dans une parole partagee, sans que nul renie la sienne.
+Il pousse celui qui pense en lui a surveiller sans relache le genre et le registre de chaque adresse, a distinguer par le seul mode du verbe le certain du souhaite, et a tenir separe, dans son esprit, le francais de l'ecole et de l'acte officiel du camfranglais mele qui vit dans la rue et le marche, deux usages d'une meme langue qui ne se confondent jamais tout a fait.

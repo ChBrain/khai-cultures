@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des Hochdeutschen, wie es im Freistaat gesprochen und geschrieben wird: das deutschländische Hochdeutsch, aber getragen von einer bayerischen Melodie und einem eigenen Tonfall, deutlich von der Mundart darunter geschieden. Es ist die Sprache der Münchner Ämter, des Landtags und des Bayerischen Rundfunks, das Register, in dem sich die drei Stämme - Altbayern, Franken und Schwaben - über ihren Dialekten hinweg verstehen.
+Es hat die ganze Grammatik des Hochdeutschen, das Bauwort, das mehrere Begriffe in ein einziges Wort presst, die vier Fälle und das Geschlecht an jedem Artikel, den langen Satz, der das Verb bis zum Ende zurückhält. Und es trägt darüber den alpenländischen Zug, der den ganzen süddeutschen Sprachraum kennzeichnet: im gesprochenen Satz greift man fast immer zum zusammengesetzten Perfekt (ist gegangen), selbst wo die geschriebene Hochsprache noch das einfache Präteritum (ging) bereithält.
 
 ## Orders
 
-Was im Freistaat als richtiges Deutsch zählt, im Amt, in der Schule und in den Nachrichten. Es ordnet, welche Form auf das Papier und in die Akte gehört, und macht aus dem Nebeneinander von Bairisch, Fränkisch und Schwäbisch eine einzige geprüfte Schrift, in der das Land nach außen und mit dem Bund spricht.
+Es zwingt, wie überall im Deutschen, bei jedem Ding ein Geschlecht zu wählen und bei jedem Satz einen der vier Fälle, und es verlangt im Nebensatz das Verb bis zuletzt zurückzuhalten. Und es verlangt in der gesprochenen Rede fast ausnahmslos die zusammengesetzte Vergangenheit: wer hier erzählt, greift zum Perfekt, nicht zum Präteritum, ein Zug, den man Präteritumschwund nennt und der den ganzen oberdeutschen Sprachraum von Bayern bis in die Schweiz eint.
 
 ## Loses
 
-Boden an den norddeutschen Standard, der den bayerischen Klang als Dialekt und als provinziell hört, sowie an das Englische in den Hightech-Konzernen um München. Und es verliert nach unten an die Mundarten selbst, an [das Bairische](position_bayerisch.md), das Fränkische und das Bayerisch-Schwäbische, die mehr Heimat und mehr Nähe tragen, als der geglättete Standard je fassen kann.
+Es verliert das einfache Präteritum aus der gesprochenen Rede fast völlig, sodass ich ging in der mündlichen Erzählung kaum noch vorkommt, obwohl die Schrift die Form weiter bereithält. Und es verliert, sobald es aufs Papier und in die Akte gezwungen wird, den Klang und die Wärme der Mundart darunter, die dieselbe Vergangenheit oft mit ganz anderen Formen und Lauten trägt, als der geglättete Standard je zulässt.
 
 ## Drives
 
-Es treibt den Freistaat, sein Hochdeutsch mit eigenem Ton zu tragen und darin die Norm zu achten. Es ist die Muttersprache des höfischen Deutsch [Ludwigs II.](persona_ludwig.md) und des Münchner Standards von [Amalie](persona_amalie.md), die in ihm [spricht](process_speaking_mother_tongue.md); es lebt im fränkisch gefärbten Deutsch von [Monika](persona_monika.md) und im bayerisch-schwäbisch gefärbten Deutsch von [Sepp](persona_sepp.md), die beide darin [sprechen, hören und denken](process_speaking_mother_tongue.md); und [Gustl](persona_gustl.md), dem das Bairische die Muttersprache ist, trägt es nur steif für die Behörden, wenn er es [schreibt und liest](process_writing_drafted.md). So zeigt die eine Norm, wer sie hält, wem sie native Sprache ist und wem sie fremd bleibt.
+Es treibt den, der darin erzählt, dazu, selbst weit Zurückliegendes im Perfekt zu berichten statt im Präteritum, eine Gewohnheit, die die mündliche Erzählung im ganzen süddeutschen Raum prägt. Es hält daneben die Gewohnheiten des Deutschen insgesamt aufrecht, das Geschlecht und den Fall an jedem Nomen zu bemessen und das Verb bis zum Satzende zu tragen, und es gewöhnt den Sprecher, diese Ordnung mit einem eigenen, südlich gefärbten Klang zu füllen.

@@ -34,4 +34,4 @@ Buyaphela uma busatfwa bushintjwa baba ngumtsetfo nje wembuso, hhayi sintfu sesi
 
 ## Drives
 
-Iphila ku-[Mswati II](persona_mswati.md), inkhosi lekwetsiwe ngayo live, lowabutsa emabutfo wabandzakanisa sive sibe munye, naku-[Sobhuza II](persona_sobhuza.md), lowabusa sikhatsi lesidze, wahlanganisa sive, wabuya nenkhululeko. Iyaphusha eSwatini kutsi ibambe busatfwa bayo njengesintfu sesive, hhayi nje njengemtsetfo, kuze inkhosi neNdlovukati bahlale bagcwele sive sonkhe ndzawonye.
+Iphila ebukhosini lobekwetiwe ngalo live, lobabutsa emabutfo wabandzakanisa sive sibe munye, nasebukhosini lobabusa sikhatsi lesidze, lwahlanganisa sive, lwabuya nenkhululeko. Iyaphusha eSwatini kutsi ibambe busatfwa bayo njengesintfu sesive, hhayi nje njengemtsetfo, kuze inkhosi neNdlovukati bahlale bagcwele sive sonkhe ndzawonye.

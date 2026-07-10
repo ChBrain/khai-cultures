@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Il-fidi Kattolika bħala l-qalb tal-gżira: il-fidi li, skont it-tradizzjoni, ġabilha San Pawl meta nġarraf fuqha madwar is-sena 60, u li nżammet għal elfejn sena minkejja l-Għarab, il-Kavallieri u l-Imperu Brittaniku. Il-koppla f'kull raħal, il-knisja fiċ-ċentru tal-pjazza, il-festa tal-qaddis patrun, u poplu li jibqa' wieħed mill-aktar Kattoliċi fid-dinja. Fejn il-gżira ma kellhiex stat tagħha, il-parroċċa u l-fidi żammew lill-poplu flimkien.
+Il-fidi Kattolika bħala l-qalb tal-gżira: il-fidi li, skont it-tradizzjoni, ġabilha l-appostlu meta nġarraf fuqha madwar is-sena 60, u li nżammet għal elfejn sena minkejja l-Għarab, il-Kavallieri u l-Imperu Brittaniku. Il-koppla f'kull raħal, il-knisja fiċ-ċentru tal-pjazza, il-festa tal-qaddis patrun, u poplu li jibqa' wieħed mill-aktar Kattoliċi fid-dinja. Fejn il-gżira ma kellhiex stat tagħha, il-parroċċa u l-fidi żammew lill-poplu flimkien.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Jitlef l-art quddiem is-sekularizzazzjoni tal-belt u l-ġenerazzjoni żagħżug�
 
 ## Drives
 
-Jgħix f'[San Pawl](persona_san_pawl.md), li ġab il-fidi lill-gżira, u f'[Ċettina](persona_cettina.md), li żżomm il-festa, il-parroċċa u t-talb meta l-oħrajn jitilqu. Iħeġġeġ lil Malta tfittex fil-fidi l-għerq u r-rabta li s-setgħat barranin tul is-sekli qatt ma tawha.
+Jgħix fl-appostlu li ġab il-fidi lill-gżira, u f'dawk li jżommu l-festa, il-parroċċa u t-talb meta l-oħrajn jitilqu. Iħeġġeġ lil Malta tfittex fil-fidi l-għerq u r-rabta li s-setgħat barranin tul is-sekli qatt ma tawha.

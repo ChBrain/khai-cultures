@@ -34,4 +34,4 @@ Su equilibrio cuando el éxodo juvenil a las grandes ciudades provoca el cierre 
 
 ## Drives
 
-Guía el renacimiento lingüístico en el relato [El Rexurdimento 1863](plot_01_rexurdimento.md) y orienta el taller artesanal de [Rosalía](persona_rosalia.md).
+Guía el renacimiento lingüístico en el relato [El Rexurdimento 1863](plot_01_rexurdimento.md) y orienta el taller artesanal de quienes transmiten el oficio de generación en generación.

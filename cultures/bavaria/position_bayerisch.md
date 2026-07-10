@@ -34,4 +34,4 @@ An Boden in den Städten und im Berufsleben, wo das Standarddeutsche und das Eng
 
 ## Drives
 
-Es verbindet die Generationen auf dem Land. Es ist die Muttersprache von [Gustl](persona_gustl.md), der in ihr lebt und denkt, und es klingt als sehnsuchtsvolles Echo im Leben von [Amalie](persona_amalie.md) in der Stadt wider.
+Es verbindet die Generationen auf dem Land. Es ist die Muttersprache des alten Bergbauern, der ganz in ihr lebt und denkt, und es klingt als sehnsuchtsvolles Echo im Leben der jungen Stadtmenschen wider, die darin nur noch die Erinnerung an die Herkunft hören, ohne es selbst noch fließend zu sprechen.

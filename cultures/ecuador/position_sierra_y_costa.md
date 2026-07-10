@@ -34,4 +34,4 @@ Terreno cada vez que una mitad se cree el Ecuador enterito y mira a la otra por 
 
 ## Drives
 
-Vive en [el montubio](persona_el_montubio.md), el campesino mestizo de la costa que labra la tierra calientita lejos de los salones de Quito, y en [Eugenio Espejo](persona_espejo.md), el ilustrado quiteño que pensó la patria desde la sierra mucho antes de que hubiera república. Empuja al Ecuador a vivir su dualidad como riqueza y no como herida, y a buscarse siempre el puente entre sus dos mitades, pues.
+Vive en el campesino mestizo que labra la tierra calientita de la costa lejos de los salones de Quito, y en el pensamiento ilustrado que imaginó la patria desde la sierra mucho antes de que hubiera república. Empuja al Ecuador a vivir su dualidad como riqueza y no como herida, y a buscarse siempre el puente entre sus dos mitades, pues.

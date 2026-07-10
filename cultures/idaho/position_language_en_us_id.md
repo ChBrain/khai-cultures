@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The flat, unhurried Western American English of the Snake River plain and the northern mountain valleys, carried in a warm drawl on the ranch and reservation and in a clipped, technical cadence in the canal yards and processing plants. It holds the plain-spoken register of an inland farming state that says a thing once and means it.
+The plain resources of English itself: a fixed subject-verb-object order that carries meaning where inflection has fallen away, auxiliary verbs (do, did, will) that carry tense, question, and negation so the main verb need not change shape, and a phrasal-verb stock (water down, dry up, water off a field) that lets a simple verb plus a small word do the work a whole new verb would do elsewhere. In its Western vowels it merges the sound of "cot" and "caught" into one, so words like dawn and Don fall together where older Eastern speech kept them apart.
 
 ## Orders
 
-Where this speech is heard as simply local: the county fair, the irrigation board, the Fort Hall community meeting, the Idaho Falls shop floor. It orders which turns of phrase pass as native ground in the Gem State and marks the newcomer by ear.
+Forces the fixed word order to carry the grammatical roles that case endings once carried, so subject must come before verb and object after, or the sentence reads as wrong rather than merely rearranged. Forces every question and every negation through an auxiliary (do you, did it, will it) rather than through a change in the verb's own ending. Forces the low back vowels together into one sound in this speech, so that a word like "caught" and a word like "cot" carry no distinction the ear here can hear.
 
 ## Loses
 
-Ground to General American, the unmarked national broadcast standard that the screen and the corporate agricultural board carry, which sands the drawl off the young and the ambitious. It also thins where the technical, screen-fed cadence of the plants crowds out the older ranch and reservation speech.
+Loses the case marking that once told a listener a word's role without needing word order at all, so a scrambled sentence becomes simply wrong rather than differently emphatic. Loses the vowel distinction between the low back vowels that older, Eastern speech still keeps, so this speech cannot lean on that sound to tell two words apart that rely on it elsewhere. Loses too the drawled, unhurried vowel length of the ranch and reservation the further speech moves toward the flat, fast delivery the screen and the trading floor carry.
 
 ## Drives
 
-It carries [Sacajawea](persona_sacajawea_id.md), whose warm drawl holds the tribal coordinator's English of Fort Hall, and [Taylor](persona_taylor.md), whose technical cadence is the working English of the canal yards. So the one speech shows who keeps the local ground and who trims toward the national standard.
+Trains the ear to listen for word order first and inflection barely at all, so meaning arrives from position in the sentence more than from the shape of any single word. Trains the mouth to let cot and caught fall into one vowel without loss of understanding, because context, not sound, is left to carry what the vowel no longer distinguishes. It shapes a plain, direct habit of speech that says a thing once, in its place in the sentence, and trusts the order of the words to carry the rest.

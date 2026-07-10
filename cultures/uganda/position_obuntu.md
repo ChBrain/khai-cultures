@@ -34,4 +34,4 @@ Ground when the warm circle is drawn too tight, when belonging to my people beco
 
 ## Drives
 
-Lives in [Okot p'Bitek](persona_okot.md), who sang the dignity of his own people's tongue and ways not to wall them off but to claim a seat for them at the nation's table, and in [the boda boda rider](persona_boda.md), who carries every people's child through the same streets and knows the whole city by its hills and its hands. It drives Uganda toward the long task of making the many one, the circle widening, the pot kept open.
+Lives in the poet's song that sang the dignity of every people's own tongue and ways not to wall them off but to claim a seat for them at the nation's table, and in the boda boda rider, who carries every people's child through the same streets and knows the whole city by its hills and its hands. It drives Uganda toward the long task of making the many one, the circle widening, the pot kept open.

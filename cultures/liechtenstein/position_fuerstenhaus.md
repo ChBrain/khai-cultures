@@ -34,4 +34,4 @@ An Legitimität, wenn politische Spannungen die Verfassung gefährden oder wenn 
 
 ## Drives
 
-Sichert das historische Erbe und die Erhebung zum Staat im Jahr [1719](plot_02_souveraenitaet.md) und lenkt das Pflichtbewusstsein von [Franz](persona_franz.md).
+Sichert das historische Erbe und die Erhebung zum Staat im Jahr [1719](plot_02_souveraenitaet.md) und lenkt das Pflichtbewusstsein des amtierenden Fürsten.

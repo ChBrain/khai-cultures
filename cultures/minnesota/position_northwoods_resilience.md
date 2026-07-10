@@ -34,4 +34,4 @@ Its balance when strict wilderness preservation rules eliminate local logging an
 
 ## Drives
 
-Encourages the lake management in the plot [The Boundary Waters Protection 1978](plot_02_boundary_waters.md) and drives the wilderness guiding of [Lars](persona_lars.md).
+Encourages the lake management in the plot [The Boundary Waters Protection 1978](plot_02_boundary_waters.md) and drives the wilderness guiding that keeps travelers safe on the water and in the woods, the guide's craft of reading weather, portage, and trail.

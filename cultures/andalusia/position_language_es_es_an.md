@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El español tal como suena en el sur, el andaluz de la aspiración y el ceceo, del habla abierta y cantada que se come las eses del final y ablanda las consonantes. Es el castellano nacido en el valle del Guadalquivir y las ciudades del sur, con su entonación lírica, su vocabulario propio del campo y del cante, y ese modo rápido y musical de hablar que se reconoce en toda España en cuanto se abre la boca.
+Lo que el andaluz puede decir con la sola apertura de una vocal donde el resto de España cierra una consonante: cuando la ese final se aspira o se pierde, la vocal que queda se abre y se alarga, y esa apertura sola basta para marcar el plural que la ese habría marcado en otra parte. Tiene también el seseo y el ceceo, que funden en un solo sonido lo que el centro peninsular distingue con dos letras.
 
 ## Orders
 
-Que en Andalucía se hable el español a la andaluza, con su aspiración y su ceceo, sin corregirse ante el forastero; que el habla del jornalero y de la cantaora valga como lengua entera y no como castellano mal dicho; y que la copla, el cante jondo y el trato diario suenen en el acento de la tierra.
+Sigue exigiendo género y número en cada nombre y adjetivo, y una conjugación verbal completa, como todo el castellano. Pero en el andaluz occidental, el "ustedes" ocupa el lugar del "vosotros" para el trato tanto formal como cercano, de modo que una sola forma de plural sirve donde el resto de España usa dos.
 
 ## Loses
 
-Pierde terreno cuando se tiene el andaluz por castellano descuidado o vulgar y se le pide al que sube a Madrid o sale en la televisión que "hable bien", esto es, que borre su acento y se ajuste a la norma castellana del centro; y cuando la escuela y la radio miden lo correcto por la pronunciación del norte, el sur aprende a avergonzarse de su propia voz.
+Pierde la consonante final misma, la ese y la de, de modo que lo que otro dialecto marca con una letra al final de la palabra, el andaluz debe confiarlo a la vocal que queda abierta. Y cuando se juzga esa apertura como descuido en vez de como regla propia, se pierde la lógica interna de un sistema que sí distingue, solo que por otro camino.
 
 ## Drives
 
-Es la lengua materna de [Manuel](persona_manuel.md), el jornalero que en el andaluz del olivar [habla, escucha y piensa](process_speaking_mother_tongue.md); y de [Rocío](persona_rocio.md), la cantaora que en él [habla](process_speaking_mother_tongue.md) y compone las letras del cante jondo. Empuja a Andalucía a hablarse a sí misma en su propio acento, a tener el andaluz por voz propia y no por falta.
+Empuja al que lo habla a escuchar la vocal, su apertura o su cierre, para saber si algo es uno o son varios, allí donde otro hablante escucharía el final de la palabra. Y acostumbra a no distinguir entre el trato formal y el cercano en el plural, usando una sola forma, "ustedes", para dirigirse a cualquier grupo de oyentes.

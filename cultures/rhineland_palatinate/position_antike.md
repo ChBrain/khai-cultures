@@ -34,4 +34,4 @@ An Bedeutung, wenn Baudenkmäler verfallen oder wenn das Wissen über die antike
 
 ## Drives
 
-Wird veranschaulicht im Bauwerk [die Porta Nigra](place_porta_nigra.md) und lenkt das Forschungsinteresse von [Clara](persona_clara.md).
+Wird veranschaulicht im Bauwerk [die Porta Nigra](place_porta_nigra.md) und lenkt das Forschungsinteresse der Denkmalpflege und der Altertumsforschung.

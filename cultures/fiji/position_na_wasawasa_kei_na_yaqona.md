@@ -34,4 +34,4 @@ E malumalumu ni sa yali na yaqona kei na talanoa ena gauna ni saqamaki kei na ca
 
 ## Drives
 
-E bula ena bula i [Mara](persona_mara.md), na imatai ni Palaimia Minisita e a vakaraitaka na yalo malua kei na veidokai ni veiyanuyanu ena nona veiliutaki ena gauna ni galala. E uqeta ko Viti me taura na bula ni wasawasa kei na yaqona ena gauna ni veisau ni vuravura.
+E bula ena imatai ni Palaimia Minisita e a vakaraitaka na yalo malua kei na veidokai ni veiyanuyanu ena nona veiliutaki ena gauna ni galala. E uqeta ko Viti me taura na bula ni wasawasa kei na yaqona ena gauna ni veisau ni vuravura.

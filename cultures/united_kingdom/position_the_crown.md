@@ -34,4 +34,4 @@ Standing, where the Crown grows remote, costly, or scandalous and forgets that i
 
 ## Drives
 
-It is carried by [Margaret](persona_margaret.md), of the generation that holds the Crown and its continuity dear, and it is the long thread that ties the four nations into one realm across the centuries.
+It is carried by the generation that holds the Crown and its continuity dear, and it is the long thread that ties the four nations into one realm across the centuries.

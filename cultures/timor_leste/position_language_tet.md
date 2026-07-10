@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Kbiit husi lia-tetun, lian ne'ebe liga lian barak iha rai ki'ik ida. Iha Timor-Leste iha lian lokal barak, ida-idak ho nia aldeia no nia klan, maibe tetun mak lian ne'ebe ema hotu bele ko'alia bainhira sira hasoru malu iha bazar, iha Igreja, no iha dalan. Tetun simu liafuan husi portuges no husi lian seluk, no nu'udar ne'e nia sai pontu ba hasoru. Hamutuk ho portuges, tetun sai lian nasional, lian ne'ebe halo povu ida husi klan barak.
+Lia-tetun uza konstrusaun serial ba verbu, katak nia hola verbu rua ka tolu hamutuk iha liña ida deit atu hatete asaun ida ne'ebe kompleksu, sem uza liafuan hodi liga sira; nia dupliká liafuan atu hatudu barak, kontinua, ka forte liu, hodi hatudu "barak-barak" ka "halo-halo". Durante rihun tinan nia simu liafuan barak husi portuges, liuliu ba buat abstratu, ofisial, ka relijiozu, nune'e liafuan ne'e sai parte husi nia moris rasik, la'os liafuan estranju ona.
 
 ## Orders
 
-Katak ema bele sai povu ida maski sira ko'alia lian lokal oin-oin iha uma; katak Igreja reza no kanta iha tetun no nu'udar ne'e fiar no lian la'o hamutuk; no katak nasaun foun presiza lian ida ne'ebe nia rasik, ne'ebe ema hotu komprende, atu harii an.
+Nia obriga atu hatuur verbu sira hamutuk iha liña ida atu hatete asaun kompleksu, la'os atu subordina ida ba seluk hodi liafuan liga; nia obriga dupliká liafuan bainhira presiza hatudu barak ka kontinuasaun; no nia obriga liafuan portuges na'in ba dalen abstratu ka ofisiál, tanba iha liafuan tetun rasik ida deit la sufisiente ba ideia foun sira ne'e.
 
 ## Loses
 
-Rai bainhira lian lokal sira monu no haluha, no riku-soin husi lian barak hahu lakon; no rai bainhira tetun rasik la hetan fatin iha eskola no iha papel, no hela iha ibun deit. Tetun manan bainhira nia liga lian hotu no la halo ida-idak haluha nia rasik; nia lakon bainhira nia sai dalan atu taka lian seluk.
+Nia la iha forma verbu atu hatudu tempu, uluk, agora, ka oin mai, diretamente iha verbu rasik, nia presiza liafuan seluk ka kontestu atu hatene tempu klaru; no tanba nia sai lian ligasaun ba lian barak seluk iha Timor Leste, balu Austronejiu hanesan nia rasik, balu la'os hanesan, nia la bele lori kompleksidade ki'ik ida-idak husi lian uma ne'e ba lian tetun, kompleksidade ne'e hela deit iha lian uma nian.
 
 ## Drives
 
-Moris iha [Francisco Borja da Costa](persona_borja.md), ne'ebe hakerek iha lian rasik atu fo lian ba povu nia laran, no iha [Jose Ramos-Horta](persona_ramos_horta.md), ne'ebe lori povu nia lia ba mundu li'ur iha lian barak. Moris iha [Xanana Gusmao](persona_xanana.md), ne'ebe hakerek nia poezia iha lian rasik to'o sai povu nian, no iha [Dom Carlos Filipe Ximenes Belo](persona_belo.md), ne'ebe reza no haklaken iha lian ne'ebe ema hotu komprende. No moris iha [Beimalae](persona_beimalae.md), ne'ebe ko'alia tetun no lian lokal husi nia foho nu'udar lian husi nia inan-bei sira. Nia book Timor-Leste atu sai ida maski nia ko'alia barak.
+Ko'alia lia-tetun halo ema hakerek asaun ida ho asaun seluk hamutuk iha liña ida, la'os liu husi klausa subordinadu kompleksu; halo dupliká liafuan sai abit natural atu hatudu barak ka kontinua; no tanba nia sai fatin hamutuk ba ema ho lian oin-oin, balu husi rai-klaran ida ne'ebe la iha relasaun, nia haforsa ema atu buka simplisidade no fatin komun liu duke lori nuansa husi lian uma rasik.

@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The New England English of the Green Mountain State, the flat, r-dropping Yankee drawl of the sugarhouse and the plain, self-reliant cadence of the town meeting hall. It holds a laconic, independent northern plainness that both the maple cooperative and the historic site carry.
+The New England English of the Green Mountain State keeps a trait most American English has worn away, the dropping of the r after a vowel, so that a barn or a car ends in an open vowel rather than a hard consonant, a mark this speech shares with old coastal Yankee towns and with the English spoken in London before American speech went its own way. It carries too a laconic economy, an old Yankee habit of saying a thing in the fewest words the grammar allows, so a plain yup or a flat that's some good carries the weight a longer sentence would need elsewhere.
 
 ## Orders
 
-Where it passes as native ground: the Addison County sugarhouse, the Bennington historic site, the town meeting floor, the Lake Champlain watershed board. It orders which turns of phrase and vowels mark a speaker as Vermonter and sets the traditional farming ear against the tourism one.
+English gives no grammatical way to mark closeness or distance in address, no second form of you set aside for elders or strangers the way German or French keep one, so Vermont speech leans on tone and understatement to do what other tongues do with a pronoun. It still holds English's fixed rules underneath, a subject that must be spoken even when the verb's ending already shows who is meant, and a word order that cannot be shuffled the way a case-marked tongue allows, so the plain Yankee sentence still runs subject, verb, object, however few the words.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the resort board carry, which trims the Yankee drawl off the young and stamps the sugarhouse speech as quaint. The high-volume tourism register also crowds the older town-meeting speech toward the margin.
+The dropped r retreats before the flat, rhotic broadcast standard that now reaches every sugarhouse and schoolroom, so a child raised on the screen pronounces the r a grandmother once left silent, and the coastal Yankee vowel is heard less with each generation. The laconic turn of phrase loses ground too, crowded by a busier, more explaining register that tourism and a national ear both carry in, so the plain, unadorned sentence starts to sound like a performance of itself rather than the plain way people once spoke.
 
 ## Drives
 
-It carries [Emma](persona_emma.md), whose flat New England drawl is the working English of the Addison County maple cooperative, and [Ira](persona_ira.md), whose New England cadence holds the same native tongue at the Bennington historic site. So the one Vermont speech shows who keeps the sugarhouse ground and who turns toward the tourism trade.
+Raised on a tongue that drops the r and prizes the short answer, the Vermont speaker learns to trust silence and understatement over explanation, letting a flat vowel and a spare sentence carry more than an eager one would elsewhere. It trains an ear tuned to the small difference between the old coastal drawl and the flattened national voice, so the speaker hears, in a single word, whether the person talking still keeps the sugarhouse ground or has already turned toward the broadcast standard everyone shares.

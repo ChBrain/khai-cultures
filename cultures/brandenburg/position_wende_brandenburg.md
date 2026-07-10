@@ -34,4 +34,4 @@ An Bindungskraft, wenn die nachfolgende Generation die Wendezeit nur noch aus B�
 
 ## Drives
 
-Prägt die Biografie von Ingenieurin [Nadja](persona_nadja.md) und bestimmt die gesellschaftlichen Debatten im Plot [Die Neugründung des Landes Brandenburg 1990](plot_03_reunification_1990.md).
+Prägt die Biografie der Ingenieurin, die in zwei Systemen groß wurde und den Umbau mit eigenen Augen erlebte, und bestimmt die gesellschaftlichen Debatten im Plot [Die Neugründung des Landes Brandenburg 1990](plot_03_reunification_1990.md).

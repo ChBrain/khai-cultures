@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Starija Sarajka, žena koja je čitav život imala srpske, hrvatske i jevrejske komšije i koja je preživjela opsadu grada. Topla, čvrsta, gostoljubiva, drži kuću, kahvu i komšiluk i kad je svijet oko nje pukao. Maternji [jezik](position_language_bs.md) ima cijeli, onaj jedan jezik kojim govore i njeni komšije: na njemu [govori, čuje i misli](process_speaking_mother_tongue.md), a u tom govoru rado [nosi](process_speaking_carried.md) turske i orijentalne riječi i ono meko bosansko "h". Njemački onih koji su otišli u dijasporu poslije rata [hvata uhom](process_hearing_caught.md) iz pisama i poziva unučadi. Istim jezikom kojim je govorila sa komšijama koji su je opsjedali, onim jednim jezikom koji nije znao razlikovati prijatelja od neprijatelja, ona drži komšiluk u riječima koje su sad razdvojene, gdje ostaje procjep na granici jezika.
+Starija Sarajka, žena koja je čitav život imala srpske, hrvatske i jevrejske komšije i koja je preživjela opsadu grada. Topla, čvrsta, gostoljubiva, drži kuću, kahvu i komšiluk i kad je svijet oko nje pukao. Maternji [jezik](position_language_bs.md) ima cijeli, onaj jedan jezik kojim govore i njeni komšije: na njemu [govori, čuje i misli](process_speaking_mother_tongue.md), a u tom govoru rado [nosi](process_speaking_carried.md) turske i orijentalne riječi i ono meko bosansko "h". [Njemački](../germany/position_language_de_de.md) onih koji su otišli u dijasporu poslije rata [hvata uhom](process_hearing_caught.md) iz pisama i poziva unučadi. Istim jezikom kojim je govorila sa komšijama koji su je opsjedali, onim jednim jezikom koji nije znao razlikovati prijatelja od neprijatelja, ona drži komšiluk u riječima koje su sad razdvojene, gdje ostaje procjep na granici jezika.
 
 ## Action
 

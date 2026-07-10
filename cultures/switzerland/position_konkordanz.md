@@ -34,4 +34,4 @@ An Klarheit und Tempo, wo der Kompromiss alles verwässert und nötige Entscheid
 
 ## Drives
 
-Sie beginnt bei [Dufour](persona_dufour.md), der den Bürgerkrieg ohne Rache beendet, und lebt in [Vreni](persona_vreni.md), [Marco](persona_marco.md) und [Gian](persona_gian.md), die das Land über alle Sprachgrenzen hinweg gemeinsam tragen.
+Sie beginnt dort, wo ein Bürgerkrieg ohne Rache beendet wird, und lebt überall, wo das Land über alle Sprachgrenzen hinweg gemeinsam getragen wird: die Gegner regieren miteinander statt gegeneinander, und keine Mehrheit lässt die Unterlegenen allein. So treibt sie die Schweiz, ihre Einheit nicht im Sieg, sondern in der geteilten Macht zu suchen.

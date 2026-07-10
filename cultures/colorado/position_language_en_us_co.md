@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The relaxed western cadence of the high country, the Coloradan English that carries the flat, unhurried vowels of the Mountain West across ski lodge and startup floor alike. It holds the sound of a state that talks plainly and easily, the mountain register that rings clear at altitude.
+The General American vowel system carried at altitude: the same vowel for cot and caught, don and dawn sounding alike where other American dialects keep them apart, every r sounded through to the end of the word, and a level, unclipped pitch that rises and falls only a little across a whole sentence.
 
 ## Orders
 
-What passes here as how folks talk, the direct, low-key speech of the Front Range and the slopes, where the same open cadence serves the safety briefing and the business brief. It orders which sound reads as native, the easy western voice against which the transplant is heard.
+It forces every r to be pronounced, no dropped r at the end of a syllable the way older Eastern dialects allow; it forces cot and caught into one vowel, so the tongue never learns to hold them apart; and it forces a narrow pitch range, so that a warning and a greeting come out in nearly the same flat contour.
 
 ## Loses
 
-Ground to General American, the broadcast flatness that Colorado's own speech already leans toward and can vanish into, and to the coastal tech talk that arrives with each wave of newcomers. It loses too to the Spanish of the Western Slope and the plains, which holds its own speakers.
+It loses the vowel distinction that other American dialects still keep between cot and caught, pull and pool blurring toward the same handful of sounds; it loses the rise and fall that would mark alarm or irony, since the flat contour reads the same whether the news is good or bad; and it loses ground to the same broadcast-neutral vowels spreading from television and technology, which erode what little regional color it carries.
 
 ## Drives
 
-It carries the state's habit of sounding plain, calm, and unforced. It gives [Lucas](persona_lucas.md) the relaxed western English of his safety briefings, the defining code he speaks and thinks in, and it carries the articulate, fast cadence of [Elena](persona_elena.md), the mother tongue of her business briefs. So the one mountain sound shows who speaks it as home.
+It trains the ear to hear no difference where other dialects hear two vowels, so a speaker raised in it often cannot hear the cot-caught split at all. It trains the voice to stay level, so urgency has to be carried by word choice and pace rather than by pitch. And it trains the speaker toward plain, unmarked delivery, in which sounding careful or trustworthy means sounding like almost nowhere in particular.

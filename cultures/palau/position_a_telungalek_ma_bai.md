@@ -34,4 +34,4 @@ Ng meterekakl er a sera a chad a mengai er a telungalek el le ngii a sorir el ch
 
 ## Drives
 
-Ng kiei er a [a rubak](persona_a_rubak.md), el rubak el melekoi er a chelsel a bai e mengiil a beluu er a llach er a re mong, ma [a ourrot](persona_a_ourrot.md), el chedil el klisiich el oba a chuodel ma klisiich er a chelsel a telungalek. Ng oltirakl er a Belau el mo melasem el oba a telungalek ma bai el klisiich er a chedil el uchul a beluu.
+Ng kiei er a rubak, el rubak el melekoi er a chelsel a bai e mengiil a beluu er a llach er a re mong, ma a ourrot, el chedil el klisiich el oba a chuodel ma klisiich er a chelsel a telungalek. Ng oltirakl er a Belau el mo melasem el oba a telungalek ma bai el klisiich er a chedil el uchul a beluu.

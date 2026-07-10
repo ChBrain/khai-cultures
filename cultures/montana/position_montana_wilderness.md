@@ -34,4 +34,4 @@ Its balance when excessive commercial resort development restricts public valley
 
 ## Drives
 
-Guides the conservation projects in the plot [The Glacier National Park Establishment 1910](plot_03_glacier_park.md) and drives the tribal coordination of [Cheyenne](persona_cheyenne.md).
+Guides the conservation projects in the plot [The Glacier National Park Establishment 1910](plot_03_glacier_park.md) and drives the tribal coordination that keeps native stewardship at the table, the liaison work of balancing park protection against tribal land rights.

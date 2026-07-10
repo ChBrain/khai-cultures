@@ -34,4 +34,4 @@ Su equilibrio cuando el gobierno continental impone normativas y tasas de transp
 
 ## Drives
 
-Guía el desarrollo de escalas en el relato [La Escala de Colón 1492](plot_02_columbus.md) y orienta la vigilancia forestal de [Ayose](persona_ayose.md).
+Guía el desarrollo de escalas en el relato [La Escala de Colón 1492](plot_02_columbus.md) y orienta la vigilancia forestal de quien recorre y cuida el monte insular, el cuidado del bosque como parte de la autonomía de la isla.

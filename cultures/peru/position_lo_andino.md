@@ -34,4 +34,4 @@ Terreno cuando lo andino se vuelve pura estampa: cuando se le muestra Machu Picc
 
 ## Drives
 
-La encarna [Pachacútec](persona_pachacutec.md), el inca que levantó la grandeza del Tawantinsuyu desde el Cusco, y la defiende con su vida [Túpac Amaru II](persona_tupac_amaru_ii.md), que dos siglos después se alzó en su nombre contra el orden que la tenía abajo. Empuja al Perú a reconocer que su raíz más honda es andina, y a pagar la deuda que tiene con ella.
+La encarna el inca que levantó la grandeza del Tawantinsuyu desde el Cusco, y la defiende con su vida el líder indígena que dos siglos después se alzó en su nombre contra el orden que la tenía abajo. Empuja al Perú a reconocer que su raíz más honda es andina, y a pagar la deuda que tiene con ella.

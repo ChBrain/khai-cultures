@@ -33,4 +33,4 @@ An Macht, wo der Stolz auf die alte Grösse den Blick für die neuen Wege verste
 
 ## Drives
 
-Es trägt das freie [Lübeck](place_luebeck.md) und seinen Rat der Bürger, und es treibt [Wullenwever](persona_wullenwever.md), der die alte Vormacht des Handels mit Gewalt zurückholen will.
+Es trägt das freie [Lübeck](place_luebeck.md) und seinen Rat der Bürger, und es treibt den Bürgermeister, der die alte Vormacht des Handels mit Gewalt zurückholen will.

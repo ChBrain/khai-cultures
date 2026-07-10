@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Ta mapudungun, ta dungun ñi mapuche ta wallmapu mew mülelu, itrofill kuifike nütram ka ül ñi soy püle, kuifi ka fewla akulelu. Kake dungun rupan mülekelay tüfachi ad mapu mew: fill antü tüfachi dungun mülekefuy ka mülekey, welu chumngechi rume amuley ñi ngünen ka ñi az.
+Kiñe wirin (dungun ñi az) mew ta mapudungun konküleay fentren sufijo: ñi longko amukelu (pa, fewla mew akulelu; me, wekun amukelu), ñi che ñi rakiduam (kiñe, epu ka pu), ka ñi az. Kiñe dungun mew mülekey ta kimün chew wingka dungun mew epu wirin rume mülekefuy. Mapudungun ta nielay az (der, die, das reke) kake dungun ñi az, ka nielay "mülen" dungun (ser/estar reke) tañi wülael kiñe az.
 
 ## Orders
 
-Ñi kimeltuwün ka ñi wewpin: kimeltuley ñi felen ta pu mapuche kimüwmayaeltuchi kimün, ñi nütram, ñi ül, ñi kimün mapu mew, ka ñi elugeal ta pu wentxu ka pu domo tüfachi mapu mew ñi rakiduam.
+Ta dungun mew müley ñi wirintukuael kiñe che, epu che (dual) ka pu che (plural) ñi rakiduam, femngechi rupakelay dungun kishu ñi az mew. Nielay az (gender) kake dungun ñi az reke, welu nielay ñi wülael epu che ñi rakiduam, tüfa kake dungun mew mülelay.
 
 ## Loses
 
-Wesha antü mew, fentren pu che dungukelayay tüfachi dungun tañi ruka mew, ka wingka dungun küme dungun ngey pu waria mew. Fentren dungun konkülekay chumngelu rume, welu ta mapudungun mülekay küpalfe engün, kishu ñi kimün mew.
+Kishu mapudungun mew nielay tüfachi az (der, die, das reke) kake dungun mew mülelu, femngechi ka dungun mew nütramkakefuy fentren az ñi wülael. Wesha antü mew fentren pu lof che dungukelayay ta mapudungun tañi ruka mew, femngechi ta dungun ta rüf mülelay kishu ñi kimün mew.
 
 ## Drives
 
-Femngechi ta mapudungun ül mew konküley, kake dungun mew rupakünuwkülen, ka [Violeta Parra](persona_violeta_parra.md) ñi ülkantun mew mülekey, kishu pichike trokiñ mew kimniefilu, welu kishu ñi ülkantun mew elkünufilu tañi mülewael.
+Femngechi ta mapudungun femkünuwi kishu ñi dungun mew ta pu rakiduam (kiñe, epu, pu) ka ñi longko amukelu (pa, me), tüfa femngechi trokiñ ñi rakiduam kimün. Femngechi ta pu che mapudungun mew kimniefilu ta kimün ñi az kishu ñi dungun mew, ka nielay "mülen" dungun tañi rakiduam.

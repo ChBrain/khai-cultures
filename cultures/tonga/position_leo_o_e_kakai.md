@@ -34,4 +34,4 @@ Ko e fonua 'oku totonu ke fanongo ki he le'o 'o e kakai tu'a 'oku nau pukepuke i
 
 ## Drives
 
-'Oku mo'ui 'ia ['Akilisi Pohiva](persona_pohiva.md), 'a e taki faka-temokalati pea ko e 'uluaki Palemia mei he kakai tu'a, mo 'ia [e tu'a](persona_e_tua.md), 'a e tokotaha tu'a ko e tu'unga 'o e fonua. 'Oku ne taki 'a Tonga ke fanongo ki he le'o 'o e kakai tu'a, lolotonga hono pukepuke 'a e tui mo e Sapate mo e faka'apa'apa ki he kalauni.
+'Oku mo'ui 'i he taki faka-temokalati mei he kakai tu'a na'e hoko ko e 'uluaki Palemia, mo 'i he tokotaha tu'a ko e tu'unga 'o e fonua. 'Oku ne taki 'a Tonga ke fanongo ki he le'o 'o e kakai tu'a, lolotonga hono pukepuke 'a e tui mo e Sapate mo e faka'apa'apa ki he kalauni.

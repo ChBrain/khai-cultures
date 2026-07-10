@@ -34,4 +34,4 @@ Tè lè elit la meprize Vodou a ak kreyòl la, lè lekòl la ak papye a refize l
 
 ## Drives
 
-Li viv nan [Jacques Roumain](persona_jacques_roumain.md), woman ki te bay vwa peyizan an ak kilti tè a, epi nan [the peasant farmer](persona_abitan.md), ki pale kreyòl la, sèvi lwa yo, epi pote nanm nasyon an sou do l. Li pouse Ayiti pou l rekonèt ke fòs li ak idantite l soti nan kilti mas la, nan tanbou a, ak nan lang tout moun nan.
+Li viv nan woman ki te bay vwa peyizan an ak kilti tè a, epi nan peyizan an, ki pale kreyòl la, sèvi lwa yo, epi pote nanm nasyon an sou do l. Li pouse Ayiti pou l rekonèt ke fòs li ak idantite l soti nan kilti mas la, nan tanbou a, ak nan lang tout moun nan.

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The standing of two of the smallest inhabited specks in the whole Atlantic as places that send man out to the whole wide world far past they size. Out of the strait between them come Alexander Hamilton, born on Nevis, who cross the sea as a boy and help found the United States and shape its money and its arguments. Out of St. Kitts come Caryl Phillips, carry off to England as a baby, who grow to write the Caribbean and all its scattering into the literature of the English language. It is the proposition that smallness is no measure of reach, that a country no bigger than a town can be the cradle of a nation's founder and of a whole literature, and that the islands' truest export, after the sugar done, been they own people, send out across the water to make they mark and carry the islands' name. Small island, the old people say, far-reaching son.
+The standing of two of the smallest inhabited specks in the whole Atlantic as places that send man out to the whole wide world far past they size. Out of the strait between them come a Nevis-born founder of another nation, who cross the sea as a boy and help shape its money and its arguments. Out of St. Kitts come a novelist, carry off to England as a baby, who grow to write the Caribbean and all its scattering into the literature of the English language. It is the proposition that smallness is no measure of reach, that a country no bigger than a town can be the cradle of a nation's founder and of a whole literature, and that the islands' truest export, after the sugar done, been they own people, send out across the water to make they mark and carry the islands' name. Small island, the old people say, far-reaching son.
 
 ## Orders
 
@@ -30,8 +30,8 @@ That the islands claim they wide sons with pride and count them part of the nati
 
 ## Loses
 
-Ground when the wide sons are claim but not keep: celebrate abroad and forget at home, the islands proud of Hamilton portrait and Phillips prizes while the diaspora that make them is treat like mere walking-away; and ground, too, when smallness is wear like smallness of ambition, the islands shrinking to fit the sea instead of reaching past it.
+Ground when the wide sons are claim but not keep: celebrate abroad and forget at home, the islands proud of the founder's portrait and the novelist's prizes while the diaspora that make them is treat like mere walking-away; and ground, too, when smallness is wear like smallness of ambition, the islands shrinking to fit the sea instead of reaching past it.
 
 ## Drives
 
-Lives in [Alexander Hamilton](persona_alexander_hamilton.md), the Nevis-born founder of another nation, and in [Caryl Phillips](persona_caryl_phillips.md), the St. Kitts-born novelist who write the islands into the world's letters. It drive Saint Kitts and Nevis to claim its wide sons and its scattered people, and to answer the wide world as a equal for all that it is small.
+Lives in the Nevis-born founder of another nation, and in the St. Kitts-born novelist who write the islands into the world's letters. It drive Saint Kitts and Nevis to claim its wide sons and its scattered people, and to answer the wide world as a equal for all that it is small.

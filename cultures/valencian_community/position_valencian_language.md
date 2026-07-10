@@ -34,4 +34,4 @@ Su equilibrio cuando la administración estatal o los tribunales reducen los req
 
 ## Drives
 
-Guía el renacimiento artístico en el relato [El Nacimiento de las Fallas 1850](plot_03_fallas.md) y orienta la producción artesanal de [Carme](persona_carme.md).
+Guía el renacimiento artístico en el relato [El Nacimiento de las Fallas 1850](plot_03_fallas.md) y orienta la producción artesanal de quien mantiene vivo el oficio fallero.

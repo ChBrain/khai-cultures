@@ -34,4 +34,4 @@ Su equilibrio cuando el Ministerio de Hacienda central impone cuotas de armoniza
 
 ## Drives
 
-Guía el desarrollo impositivo en el relato [El Concierto Económico 1981](plot_03_concert.md) y orienta la gestión asamblearia de [Amaia](persona_amaia.md).
+Guía el desarrollo impositivo en el relato [El Concierto Económico 1981](plot_03_concert.md) y orienta la gestión asamblearia de la sociedad gastronómica, las cuentas del territorio que se deciden aquí y no esperan el permiso de fuera.

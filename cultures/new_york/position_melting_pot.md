@@ -34,4 +34,4 @@ Its balance when cultural differences result in systemic discrimination, segrega
 
 ## Drives
 
-Influences the immigrant communities in the plot [Ellis Island 1892](plot_02_ellis_island_1892.md) and guides the collaborative theater work of [Sarah](persona_sarah.md).
+Influences the immigrant communities in the plot [Ellis Island 1892](plot_02_ellis_island_1892.md) and guides the collaborative theater work of the stage manager.

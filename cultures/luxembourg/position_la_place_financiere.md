@@ -34,4 +34,4 @@ Une part de la maîtrise de soi : la prospérité tient à des capitaux qui peuv
 
 ## Drives
 
-Elle vit dans [Sandrine](persona_sandrine.md), la frontalière qui fait tourner l'économie sans habiter le pays, et elle pousse le Luxembourg à miser sur l'ouverture et la discrétion, au risque de n'être plus tout à fait maître chez lui.
+Elle vit dans la frontalière qui fait tourner l'économie sans habiter le pays, et elle pousse le Luxembourg à miser sur l'ouverture et la discrétion, au risque de n'être plus tout à fait maître chez lui.

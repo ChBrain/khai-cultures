@@ -34,4 +34,4 @@ Its balance when mountaintop removal mining destroys regional water quality, cau
 
 ## Drives
 
-Guides the labor battles in the plot [The Battle of Blair Mountain 1921](plot_02_blair_mountain.md) and drives the mining safety work of [Billy](persona_billy.md).
+Guides the labor battles in the plot [The Battle of Blair Mountain 1921](plot_02_blair_mountain.md) and drives the mining safety work that carries the union's hard-won protections into every shift underground.

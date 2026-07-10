@@ -34,4 +34,4 @@ Its balance when dissent turns into destructive factionalism or when intellectua
 
 ## Drives
 
-Encourages the defiance in the plot [The Boston Tea Party 1773](plot_02_tea_party_1773.md) and guides the scientific research of [Liam](persona_liam.md).
+Encourages the defiance in the plot [The Boston Tea Party 1773](plot_02_tea_party_1773.md) and guides the scientific research of the commonwealth's scientists.

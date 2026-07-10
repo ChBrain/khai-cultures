@@ -34,4 +34,4 @@ Ground when the waters are made to serve places far away rather than the camps a
 
 ## Drives
 
-Lives in [the cattle-camp youth](persona_the_cattle_camp_youth.md), who moves with the water between the high ground and the bank, and shows itself whole in [the Sudd](place_the_sudd.md), the great wetland at the country's heart. It drives South Sudan to live by the rhythm of the flood, to hold the river and the swamp as the giver of fish and grazing and the country's oldest road, and to read its year off the rising and the falling of the water.
+Lives in the cattle-camp youth, who moves with the water between the high ground and the bank, and shows itself whole in [the Sudd](place_the_sudd.md), the great wetland at the country's heart. It drives South Sudan to live by the rhythm of the flood, to hold the river and the swamp as the giver of fish and grazing and the country's oldest road, and to read its year off the rising and the falling of the water.

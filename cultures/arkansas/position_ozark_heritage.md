@@ -34,4 +34,4 @@ Its balance when excessive commercial resort development restricts public trail 
 
 ## Drives
 
-Guides the resort planning in the plot [The Hot Springs Bathhouse Era 1910](plot_01_hot_springs.md) and drives the preservation work of [Daisy](persona_daisy.md).
+Guides the resort planning in the plot [The Hot Springs Bathhouse Era 1910](plot_01_hot_springs.md) and drives the preservation work that keeps the bathhouse era's record and the trail heritage in living use.

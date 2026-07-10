@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-De ole nedderdüütsche Spraak vun de Küst, en Spraak för sik un nich bloots en Mundoort vun't Hoochdüütsch. Se is de Moderspraak vun'n Haven, vun'n Diek un vun de Köök, de Spraak, de ünner all dat annere liggt, un se weer mal, as Middelnedderdüütsch, de Verkehrsspraak vun de ganze Hanse, vun Brügge bit hen na Nowgorod. Hüüt is se de lise Spraak vun de Olen un vun de Westküst, man se höllt noch jümmer dat Hart vun't Land twüschen de Meren.
+Wat sik in't Nedderdüütsche seggen lett un in't Hoochdüütsche nich mehr: dat ole p, t un k, dat de hoochdüütsche Lautverschuvung nienich mitmaakt hett, so dat "Water" Water blifft un nich Wasser, "Piep" Piep un nich Pfeife, "Dorp" Dorp un nich Dorf. Dat is de noorderlike Sipp vun't Düütsche, neger an't Nedderlandsche, Freessche un Engelsche as an de hoochdüütsche Schriftspraak, un dat höllt en ole, eenfache Wöörschatz vun Water, Diek un Hoff.
 
 ## Orders
 
-Wat as good Platt gellt ünner de Sienen un to Huus. Se ordent an, dat een Platt mit sien Lüüd un in de Familie snackt un Hoochdüütsch för't Amt, de School un de Schrift nimmt: de stille Deelung vun de Küst, wo de een Spraak dat Hart höllt un de annere dat Papier. So blifft dat Platt de Spraak vun't Water un vun de Disch, ok wenn se nienich in't Gesettbook un up dat Formulaar kümmt.
+Dat verlangt bloots twee Formen vun't Substantiv, de een för den, de dat deit, de anner för allns anners, wo dat Hoochdüütsche veer Fäll höllt; un dat sett dat Verb in de Hööftsätz jümmers up den tweeten Platz, ok wo't Hoochdüütsche in'n Bisatz dat Verb noch trüchhöllt. So verlangt dat en kort, glieks Satzbild, ahn dat lange Töven up dat Verb an't Enn.
 
 ## Loses
 
-Se verlütt Bodden an't Hoochdüütsch, dat School, Amt, Presse un Bildschirm regeert un dat Platt ut'n Alldag drängt. Se verlütt de Jungen as [Merle](persona_merle.md), de to Hoochdüütsch un Engelsch wesselt, un treckt sik trüch up de Olen un de Westküst. Wat mal de Weltspraak vun de Kooplüüd weer, is nu de Spraak, de mit jede Generatschoon en beten lütter un lieser warrt.
+Dat verlütt de fien Ünnerscheed vun de veer hoochdüütschen Fäll, de dat sülven nienich mehr kennt, un dat verlütt sien eegen fasten Schrieveweg, denn dat gifft nich een, sünnern mennig Oort, dat Platt to schrieven, na Landschap verscheden. Wat mal Hanse-Sprook weer vun Brügge bit Nowgorod, is nu en Spraak, de bi't Schrieven jümmer noch na en fasten Regel söcht.
 
 ## Drives
 
-Se leevt as sülvstverständlichen Grund in [Okke](persona_okke.md), [Wiebke](persona_wiebke.md) un [Sönke](persona_soenke.md), de Spraak, de ünner all dat annere liggt; se drog mal de Macht un den Handel vun [Wüllenwever](persona_wullenwever.md) över de Ostsee; un se drifft de Küst, ehr Spraak to holen, ok wenn dat Hoochdüütsche al lang de Schrift un dat Amt besett hett.
+Dat wennt den, de dat as Moderspraak höllt, an en kort, glieks Satzbild un an en ole, düütlich Wöörschatz, de neger an Water, See un Diek liggt as an dat Papier vun't Amt. Dat bindt em an de noorderlike Sipp vun de germaansche Spraken, neger an Engelsch un Nedderlandsch as an't Hoochdüütsche baven em, un dat lett em jümmer twüschen de eenfache Fallform vun sien egen Spraak un de rieke Fallform vun de Schriftspraak wesseln.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Grym yr iaith hynaf sy'n dal yn fyw yn yr ynysoedd hyn, conglfaen hunaniaeth Cymru. Lle syrthiodd y tywysogion a lle collwyd y wladwriaeth, arhosodd yr iaith, ac y mae ei siarad ei hun yn weithred o berthyn. Mae'r Gymraeg yn dal yr hyn na allai unrhyw fyddin ei gymryd: pobl a ddiffinnir nid gan ffin ond gan dafod.
+Mae'r Gymraeg yn cadw un o ryfeddodau ieithoedd Celtaidd Ewrop, y treiglad, lle mae sain gyntaf gair yn newid yn ol beth sy'n dod o'i flaen, car yn troi'n gar meddal, yn nghar trwynol neu'n char llaes yn ol y cyd destun gramadegol. Mae hefyd yn cynnal cynghanedd, y patrwm caeth o gyseinedd ac odl o fewn un llinell sy'n unigryw i farddoniaeth Gymraeg, gan roi i'r iaith gerddoriaeth fewnol na all cyfieithiad byth ei dal yn llawn.
 
 ## Orders
 
-Mae'n mynnu bod yr iaith yn cael ei chario, ei dysgu, a'i defnyddio, yn erbyn tynfa gyson y dafod fwy i'r dwyrain. Mae'n gofyn bod plant yn cael eu magu ynddi, ei bod yn cael ei hanrhydeddu yn y capel, yr ysgol a'r eisteddfod, a bod ei chadw'n fyw yn ddyletswydd a ddyledir i'r rhai a'i cadwodd o'r blaen. Hi sy'n gosod beth yw Cymreictod ar lafar ac ar bapur y genedl.
+Mae'n gorfodi'r siaradwr i dreiglo cytsain gyntaf gair bron ym mhob brawddeg, ar ol arddodiad, ar ol enw benywaidd, ar ol rhagenw meddiannol, fel bod pob gair yn cario ol traed y gair o'i flaen. Mae'n gosod y ferf ar flaen y frawddeg, cyn yr wrthrych a chyn yr goddrych, felly rhaid enwi'r weithred cyn dweud pwy sy'n ei gwneud. Ac mae'n mynnu dewis rhwng ti a chi bob tro yr eneir rhywun, ti i'r cyfarwydd ac i'r plentyn, chi i'r dieithryn ac i'r henuriad, fel na ellir byth gyfarch heb ddewis pa mor agos yw'r berthynas.
 
 ## Loses
 
-Mae'n colli tir lle try'r iaith yn greiryn i'w alaru yn hytrach nag yn iaith i'w byw, a siaredir gan yr hen yn unig ac a genir ar lwyfan yn unig. Mae'r Gymraeg yn colli pan fo balchder ynddi yn goroesi'r defnydd dyddiol ohoni, a phan fo'n crebachu'n arwydd o genedl yn hytrach nag yn llafar un, wrth i'r ifanc adael am y ddinas a'r dafod Saesneg lenwi'r bwlch ar eu holau.
+Mae'n colli hwylustod i'r dysgwr, oherwydd nid yw geiriadur yn dangos y gair ar ol iddo dreiglo, a rhaid dyfalu'r gwreiddyn cyn dod o hyd iddo. Mae'n colli hefyd wrth i drefn Saesneg, y goddrych o flaen y ferf, lithro i mewn i leferydd y sawl sy'n meddwl yn Saesneg gyntaf, gan wanhau'r drefn ferf gyntaf sy'n nodweddu'r Gymraeg ei hun. A phan gollir yr iaith o gwbl, collir hefyd y gynghanedd, canys ni ellir ei chyfieithu, dim ond ei cholli.
 
 ## Drives
 
-Mae'n byw yn [Owain Glyndwr](persona_glyndwr.md), a'i siaradodd fel sail ei wrthryfel a'i freuddwyd am genedl a chanddi ei chyfraith ei hun, ac yn [Gwen](persona_gwen.md), sy'n ateb yn Gymraeg pa dafod bynnag y cyferchi hi, ac yn trosglwyddo'r iaith i'r plant fel y trysor pennaf. Hi yw'r conglfaen y codir y genedl gyfan arno.
+Mae'n hyfforddi'r meddwl i enwi'r weithred yn gyntaf ac i ohirio pwy sy'n ei gwneud, gan roi blaenoriaeth i'r hyn sy'n digwydd dros bwy sy'n ei wneud. Mae'n cadw'r siaradwr yn effro i sain newidiol pob gair, byth yn sefydlog, bob amser yn dibynnu ar yr hyn a ddaeth o'i flaen. Ac mae'n dysgu mesur agosrwydd cyn agor ceg, trwy ddewis rhwng ti a chi, fel bod pob cyfarchiad yn datgan, cyn dweud dim byd arall, pa mor agos yw'r berthynas rhwng dau berson.

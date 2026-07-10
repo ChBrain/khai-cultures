@@ -34,4 +34,4 @@ Du terrain quand la pauvreté serre tant la main qu'on n'a plus rien à offrir, 
 
 ## Drives
 
-Vit dans [Abdoulaye Mamani](persona_mamani.md), qui dans ses livres fait place aux humbles et aux oubliés, et dans [Mali Yaro](persona_mali_yaro.md), dont la voix réjouit les grandes tablées et célèbre les noms. Elle pousse le Niger à tenir ouverte la natte et le plat même quand la terre est dure, et à garder dans le partage la richesse que les biens ne donnent pas.
+Elle vit dans l'écriture qui fait place aux humbles et aux oubliés, et dans la voix du griot, qui réjouit les grandes tablées et célèbre le nom de chacun. Elle pousse le Niger à tenir ouverte la natte et le plat même quand la terre est dure, et à garder dans le partage la richesse que les biens ne donnent pas.

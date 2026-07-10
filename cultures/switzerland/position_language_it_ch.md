@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'autorità dell'italiano come terza lingua nazionale, quella che si scrive e si parla a sud delle Alpi, nel Ticino e nelle valli italofone dei Grigioni. Tiene la norma dell'italiano di Svizzera, quello della scuola, del cantone e del giornale: la stessa lingua della penisola, con qualche parola sua, ma retta da una minoranza che la difende come un diritto e non come un vezzo.
+Possiede, come ogni italiano, la distinzione di genere su ogni nome e aggettivo, e un congiuntivo vivo che segna il dubbio, il desiderio e l'ipotesi in ogni proposizione dipendente. Porta inoltre parole sue, nate dal contatto quotidiano con il tedesco e il francese della Confederazione: azione per un'offerta in sconto, naturale per l'acqua senza gas, termini che un italiano della penisola non userebbe così.
 
 ## Orders
 
-Ciò che vale come buon italiano dalla parte meridionale del Paese, l'ortografia, il registro dell'amministrazione cantonale e della stampa ticinese. Ordina che l'italiano resti lingua ufficiale della Confederazione e non semplice folclore, e che il centro, almeno sulla carta, risponda anche in questa terza lingua.
+Impone di piegare ogni verbo secondo modo, tempo, persona e numero insieme, cosicché il soggetto si può quasi sempre tacere perché la desinenza lo porta già in sé. E impone di accogliere nella lingua ufficiale i calchi e i prestiti che il tedesco e il francese amministrativi portano ogni giorno, così che l'italiano locale rechi tracce delle lingue maggioritarie pur restando grammaticalmente intatto.
 
 ## Loses
 
-Terreno al tedesco e al francese, perché il dibattito federale corre soprattutto nelle due lingue maggiori; l'italiano tiene il passo a fatica quando il discorso accelera a Berna. È seguito poco e risposto ancor meno: chi lo parla segue il centro nelle lingue altrui, mentre la propria rischia di ridursi a lingua di casa e di cartello stradale.
+Nell'uso quotidiano a contatto con il tedesco e il francese perde espressioni proprie a favore di calchi presi in prestito, tanto che un termine coniato altrove in tedesco trova il suo equivalente italiano solo per traduzione diretta, non per uso spontaneo. E perde peso di fronte all'italiano della penisola, molto più numeroso, che resta il punto di riferimento per ciò che si considera buon italiano.
 
 ## Drives
 
-Spinge la Svizzera italiana a restare parte di un Paese la cui maggioranza parla un'altra lingua, senza rinunciare alla sua. Vive in [Marco](persona_marco.md), il ticinese che possiede intero il suo italiano ma si carica addosso il tedesco e il francese per seguire Berna, e che si accorge subito quando il suo cantone viene dimenticato. Così la terza lingua fa dell'adattabilità una virtù civica e insieme il suo rischio più grande.
+Spinge chi lo parla a maneggiare due mondi insieme, la grammatica piena e ricca della lingua d'origine e il vocabolario preso in prestito dalle lingue maggioritarie del proprio paese, senza sentirlo come una contraddizione. Abitua a piegare ogni verbo con precisione mentre si accolgono parole nuove da altrove, e così forma una lingua che resta italiana nella struttura ma porta impresso il segno del luogo plurilingue in cui vive.

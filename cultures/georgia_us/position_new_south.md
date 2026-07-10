@@ -34,4 +34,4 @@ Its balance when corporate interests override local community preservation, acce
 
 ## Drives
 
-Guides the organizing in the plot [The Civil Rights Movement in Atlanta](plot_03_civil_rights.md) and drives the archival work of [Evelyn](persona_evelyn.md).
+Guides the organizing in the plot [The Civil Rights Movement in Atlanta](plot_03_civil_rights.md) and drives the archival work that preserves and documents that history.

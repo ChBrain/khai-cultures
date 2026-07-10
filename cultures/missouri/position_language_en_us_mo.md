@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The crossroads speech of the Show-Me State, where the river drawl of the Mississippi corridor meets the Midland plainness of the interior. It holds the melodic cadence of the St. Louis waterfront and the syncopated street talk of the Kansas City clubs, a border English that carries both Southern warmth and Midwestern flatness in the one mouth.
+Missouri English holds two endings for its own state's name in the one mouth, "Missouree" and "Missouruh," so a single word can carry either a plainer, Midland closing vowel or an older, softer schwa, and the choice between them marks a speaker's home ground before another word is spoken. Its St. Louis corridor keeps an intrusive r that standard English lacks, so "wash" gains a sound never written in the word, "warsh," a consonant grown out of habit rather than spelling.
 
 ## Orders
 
-Where it passes as home ground: the St. Louis levee, the riverboat wheelhouse, the Kansas City jazz stage, the Gateway Arch riverfront. It orders which vowels and turns of phrase mark a speaker as of this confluence country and sets the show-me plainness as the local measure.
+Like all English it forces an overt subject and a fixed subject-verb-object order to carry what case endings carry elsewhere. In its own corridor it also forces a St. Louis speaker to keep the vowels of "cot" and "caught" apart, a distinction the merging speech of the Midland further west lets fall together, so a St. Louis mouth must hold open a contrast a Kansas City mouth downriver already lets close.
 
 ## Loses
 
-Ground to General American, the unmarked national standard the screen and the recording contract carry, which levels the river drawl toward the neutral national middle. The fast, digital demands of the streaming market also crowd the slow, river-dependent cadence of the pilot toward the margin.
+It loses the older non-rhotic river-town speech that once let a vowel stand alone after "r" the way parts of the Deep South and the Northeast still allow, ground now to the rhotic standard the broadcast voice carries. And it loses a settled self entirely when a speaker is made to choose between "Missouree" and "Missouruh," since saying the name one way in front of someone who says it the other marks a border no single form of the word can hold.
 
 ## Drives
 
-It carries [Clara](persona_clara.md), whose melodic river drawl is the working English of the riverboat wheelhouse, and [Marcus](persona_marcus.md), whose syncopated urban cadence holds the same native tongue on the Kansas City stage. So the one confluence speech shows who keeps the river current and who turns toward the swing rhythm.
+The double name trains an ear to hear a boundary in a single word before any other sentence begins, and the added r of "warsh" shows how the mouth built a sound the alphabet never asked for. So growing up inside it teaches a speaker that even a home state's own name is a choice, said one way to claim the river and another to claim the plain.

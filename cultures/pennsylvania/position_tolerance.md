@@ -34,4 +34,4 @@ Its credibility when institutional structures fail to address racial or economic
 
 ## Drives
 
-Shapes the peace agreements in the plot [Penn's Holy Experiment 1681](plot_01_holy_experiment.md) and drives the archival work of [Clara](persona_clara.md).
+Shapes the peace agreements in the plot [Penn's Holy Experiment 1681](plot_01_holy_experiment.md) and drives the archival work of those who preserve the founding liberties' record against transaction-driven urban development.

@@ -34,4 +34,4 @@ Nawawalan ng lupa kapag ang init ay nauuwi sa lambat na nakasasakal, kapag ang p
 
 ## Drives
 
-Nabubuhay kay [Francisco Balagtas](persona_balagtas.md), na sa kanyang tula ay pinatunog ang lalim ng pag-ibig at ng pananagutan, at kay [ang OFW](persona_ofw.md), na lumalayo sa kanyang minamahal upang sila mismo ay mabuhay nang marangal. Pinatutunog nito ang Pilipinas upang ang unang tanong ay laging kumusta ang pamilya.
+Nabubuhay sa makata na sa kanyang tula ay pinatunog ang lalim ng pag-ibig at ng pananagutan, at sa OFW, na lumalayo sa kanyang minamahal upang sila mismo ay mabuhay nang marangal. Pinatutunog nito ang Pilipinas upang ang unang tanong ay laging kumusta ang pamilya.

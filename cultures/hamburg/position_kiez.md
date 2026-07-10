@@ -34,4 +34,4 @@ An Identität, wenn die fortschreitende Gentrifizierung den Stadtteil in eine se
 
 ## Drives
 
-Bestimmt den Lebensalltag von Kranführer [Jan](persona_jan.md) und prägt das Viertel im Plot [Der Wandel des Kiez von St. Pauli](plot_03_st_pauli.md).
+Bestimmt den Lebensalltag der Kranführer im Hafen und prägt das Viertel im Plot [Der Wandel des Kiez von St. Pauli](plot_03_st_pauli.md).

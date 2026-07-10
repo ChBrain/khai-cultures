@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-A conviccao de que Mocambique se disse a si mesma primeiro pela palavra, e que a sua nacao nasceu tanto do verso como de qualquer outra coisa. De Jose Craveirinha e Noemia de Sousa a Mia Couto e Paulina Chiziane, os escritores pegaram numa lingua que veio de fora e dobraram-na ate ela caber na terra, metendo-lhe dentro o ronga, o changana e o sena, os tambores e os provérbios, os nomes da sua gente. Aqui o poeta nao e enfeite: e quem da rosto ao pais, quem ensina a terra a reconhecer-se. A palavra e o lugar onde os muitos povos se ouvem como um so.
+A conviccao de que Mocambique se disse a si mesma primeiro pela palavra, e que a sua nacao nasceu tanto do verso como de qualquer outra coisa. Geracao apos geracao de escritores pegou numa lingua que veio de fora e dobrou-a ate ela caber na terra, metendo-lhe dentro o ronga, o changana e o sena, os tambores e os provérbios, os nomes da sua gente. Aqui o poeta nao e enfeite: e quem da rosto ao pais, quem ensina a terra a reconhecer-se. A palavra e o lugar onde os muitos povos se ouvem como um so.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Terreno quando o povo se reconhece melhor na lingua de fora do que nas suas, e o
 
 ## Drives
 
-Vive em [Jose Craveirinha](persona_craveirinha.md), que pos o nome da terra dentro do portugues, e em [Mia Couto](persona_mia_couto.md), que reinventou a lingua a partir do chão. Move Mocambique a dizer-se em beleza e a confiar que a palavra vem primeiro, fazendo do poema e do romance o espelho onde a nacao se reconhece.
+Vive no poeta que pos o nome da terra dentro do portugues, e no romancista que reinventou a lingua a partir do chão. Move Mocambique a dizer-se em beleza e a confiar que a palavra vem primeiro, fazendo do poema e do romance o espelho onde a nacao se reconhece.

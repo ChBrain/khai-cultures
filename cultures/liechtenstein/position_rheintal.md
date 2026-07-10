@@ -34,4 +34,4 @@ An Zusammenhalt, wenn die Zersiedelung der Landschaft zunimmt oder wenn das Hoch
 
 ## Drives
 
-Bestimmt den Alltag von [Franz](persona_franz.md), der im Tal arbeitet, und stützt das Zusammenleben in [Malbun](place_malbun.md).
+Bestimmt den Alltag derer, die im Tal arbeiten, und stützt das Zusammenleben in [Malbun](place_malbun.md).

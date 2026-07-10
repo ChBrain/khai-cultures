@@ -34,4 +34,4 @@ Du terrain quand le rang devient pesanteur, quand l'ordre des aines etouffe celu
 
 ## Drives
 
-Vit dans [le sultan Njoya](persona_njoya.md), le roi savant de Foumban qui a fait de sa chefferie un foyer de creation et de savoir, inventant une ecriture pour sa langue. Elle pousse le Cameroun a tenir ensemble l'autorite ancienne des palais et la vie moderne du pays, gardant le rang et la coutume comme une racine plutot que comme une chaine.
+Elle vit dans le palais du roi savant de Foumban, qui a fait de sa chefferie un foyer de creation et de savoir, jusqu'a inventer une ecriture pour sa propre langue. Elle pousse le Cameroun a tenir ensemble l'autorite ancienne des palais et la vie moderne du pays, gardant le rang et la coutume comme une racine plutot que comme une chaine.

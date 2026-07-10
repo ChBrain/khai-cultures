@@ -34,4 +34,4 @@ Ground when the deep root get forget down under the easy calm, when the Garifuna
 
 ## Drives
 
-Lives in [Joseph Chatoyer](persona_chatoyer.md), the paramount chief who lead the resistance and dead for the land, the national hero in who the pride and the wound is one. It drive Saint Vincent and the Grenadines to remember that it is the land of the blessed and the home of a free people, to honour the chief and the heritage, and to carry the deep root forward down under the calm.
+Lives in the paramount chief who lead the resistance and dead for the land, the national hero in who the pride and the wound is one. It drive Saint Vincent and the Grenadines to remember that it is the land of the blessed and the home of a free people, to honour the chief and the heritage, and to carry the deep root forward down under the calm.

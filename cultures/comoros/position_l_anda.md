@@ -34,4 +34,4 @@ Du terrain quand la course a l'anda ruine les familles et pousse les fils a s'ex
 
 ## Drives
 
-Vit dans [le distillateur d'ylang-ylang](persona_le_distillateur.md), qui peine sur les pentes et au large pour amasser de quoi faire un jour son grand mariage, et dans [Mohamed Toihiri](persona_mohamed_toihiri.md), dont les romans regardent l'anda avec tendresse et lucidite. Elle porte les Comores a tenir la generosite et l'honneur rendu au village pour la mesure d'une vie d'homme.
+Elle vit dans le labeur sur les pentes et au large qui amasse, annee apres annee, de quoi faire un jour le grand mariage, et dans le roman qui regarde l'anda avec tendresse et lucidite. Elle porte les Comores a tenir la generosite et l'honneur rendu au village pour la mesure d'une vie d'homme.

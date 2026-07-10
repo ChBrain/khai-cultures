@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The wide, unhurried Mountain West speech of the Treasure State, the plain ranch-country cadence of the high plains and the mining-town diction of Butte. It holds the level Western vowels, the spare, understated phrasing of the self-reliant, and the prairie drawl of the reservation country, a big-sky English shaped by long distances and few words.
+Montana English keeps the cot-caught merger complete, so "cot" and "caught," "don" and "dawn," fall on the identical vowel, a collapse most of the American West shares but the Northeast and parts of the South still keep apart, letting a Montana mouth save a distinction other regions must maintain. In Butte, mining-town English still carries turns of phrasing left by the Cornish and Irish who worked the copper shafts, a borrowed cadence that marks the town's speech apart from the ranch country around it.
 
 ## Orders
 
-Where it passes as home ground: the Butte union hall, the Crow Agency office, the ranch fence line, the Glacier trailhead. It orders which vowels and turns of phrase mark a speaker as of this mountain-and-plains country and sets the spare Western register as the local measure.
+Like all English, it forces an overt subject and a fixed subject-verb-object order to carry what case endings would carry elsewhere, and a third-person -s on the present-tense verb regardless of how few words a rancher chooses to spend. It offers no way to mark formality in the pronoun itself, so a single "you" must serve the ranch hand and the mine boss alike, distance carried in word choice and silence rather than in the grammar.
 
 ## Loses
 
-Ground to General American, the unmarked national standard the screen and the mining board carry, which levels the ranch cadence toward the flat national middle. The fast, technology-oriented talk of the corporate copper trade also crowds the slower, tradition-bound diction of the reservation into the margin.
+It loses the older distinction between "cot" and "caught" that much of the country still keeps, one more vowel contrast folded into the wide, unmarked Western sound. And the Cornish and Irish cadence that shaped Butte's mining-town speech fades as the mines close and the town's children speak more like the plain surrounding ranch country than like their grandparents.
 
 ## Drives
 
-It carries [Clark](persona_clark.md), whose mountain cadence is the working English of the deep-shaft mine, and [Cheyenne](persona_cheyenne.md), whose prairie drawl holds the careful English of the tribal preservation office. So the one big-sky speech shows who turns toward the copper export and who keeps the river treaty.
+The merged vowels and the spare, unhurried pace teach an ear raised in it to hear distance in what is left unsaid rather than in what the grammar marks, since the language gives so little else to lean on across the long miles between one voice and the next. So growing up inside it trains a habit of saying less and trusting the silence to carry the rest.

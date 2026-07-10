@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'autorite du français comme langue commune de tout le pays, posee par-dessus le fang, le myene, le punu, le nzebi et le teke: la langue de l'ecole, du bureau, de la loi et de la ville, celle en laquelle un peuple de bien des voix se parle d'un bout a l'autre de la foret. C'est le français que le Gabon s'est fait sien, non la langue maternelle des villages mais la langue portee qui les relie.
+Ce que le francais permet d'exprimer que les langues bantoues voisines ne rendent pas de la meme maniere: un genre grammatical binaire, masculin et feminin, porte par l'article et non par un systeme de classes nominales comme dans le fang ou le myene; un temps verbal riche, qui distingue le passe compose du passe simple et de l'imparfait; et un vocabulaire abstrait pret a nommer le droit, l'administration et l'ecole, la ou un parler de village doit forger le mot.
 
 ## Orders
 
-Ce qui, dans le pays, se dit et s'ecrit en langue officielle: l'acte administratif, le journal, la salle de classe et le decret. Il ordonne que l'affaire publique passe par une seule langue commune, afin qu'un peuple aux nombreuses voix se comprenne d'une rive du fleuve a l'autre, et il fait tenir ensemble, sous un meme mot, ce que tant de parlers diraient chacun a sa maniere.
+L'accord du genre et du nombre a travers l'adjectif et l'article; le choix entre tu et vous, qui impose de mesurer la distance a chaque adresse la ou certaines langues du pays marquent plutot l'age ou le rang par d'autres moyens; et un ordre des mots assez fixe, sujet verbe complement, qui laisse peu de place a la liberte d'ordre que permettent des langues a classes nominales comme le fang.
 
 ## Loses
 
-Il perd du terrain devant les langues des villages, le myene, le fang, le punu, que la bouche garde vivantes et que l'ecrit officiel ne recueille jamais tout entier. Il en perd aussi lorsque le français porte finit par pousser dehors la langue maternelle, quand les enfants pensent d'abord dans la langue de l'ecole et laissent s'eteindre le parler des anciens, si bien que la langue qui relie le pays menace, sans le vouloir, celle qui l'enracine.
+Le systeme de classes nominales qui organise le fang, le myene ou le punu, ou chaque nom porte un prefixe qui accorde tout autour de lui; une part du ton qui, dans ces langues, change le sens du mot, puisque le francais ne marque pas la hauteur de la voix comme une information grammaticale; et beaucoup de mots concrets de la foret, de la riviere et de la parente que le francais emprunte ou traduit mal, faute de les avoir jamais nommes lui-meme.
 
 ## Drives
 
-Il porte le pays a se dire au monde d'une seule voix tout en gardant plusieurs coeurs. Il vit dans [Pierre Akendengue](persona_akendengue.md), qui l'ecrit et le chante a cote du myene, et dans [Andre Raponda Walker](persona_raponda_walker.md), qui y a depose la memoire des siens; [le Roi Denis](persona_roi_denis.md) le manie comme un outil pour traiter avec le dehors, tandis que [le nganga](persona_le_nganga.md) et [le sculpteur de masques](persona_le_sculpteur.md) l'empruntent juste ce qu'il faut pour parler a qui vient de loin, chacun le portant sans en faire sa langue du dedans. Ainsi la langue commune montre qui la partage et ce qu'elle relie sans jamais effacer les langues du dedans.
+Penser et parler en francais habitue a construire la phrase autour du verbe conjugue et de son accord de genre plutot qu'autour d'un prefixe de classe. Cela pousse a peser tu et vous a chaque adresse. Et cela installe, chez qui l'apprend en second, le reflexe de traduire une pensee nee dans une langue a classes nominales vers une langue a deux genres et a ordre des mots fixe, un exercice constant de bascule entre deux logiques grammaticales.

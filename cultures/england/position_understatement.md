@@ -34,4 +34,4 @@ Ground where the reserve hardens into an inability to speak of anything that mat
 
 ## Drives
 
-It lives in [Edith](persona_edith.md), who answers real sympathy with 'mustn't grumble' and a fresh pot of tea, and lets the silence say the rest.
+It lives in the answer that meets real sympathy with 'mustn't grumble' and a fresh pot of tea, and lets the silence say the rest.

@@ -34,4 +34,4 @@ Jako ne lal in ej meloklok kinie eo, im ej kononaan einwot ne ejjelok men ear wa
 
 ## Drives
 
-Ej mour ilo [Tony deBrum](persona_tony_debrum.md), eo me ej konono nan lal in kon kinie eo im ej bukot jowan, im ilo [Darlene Keju](persona_darlene_keju.md), eo me ej kwalok nan lal in kon nañinmej im buromoj eo armej ro rej bok. Ej kakure aelon eo nan dapij ememej eo kon kinie eo im nan bukot jowan kon men eo ear walok.
+Ej mour ilo eo me ej konono nan lal in kon kinie eo im ej bukot jowan, im ilo eo me ej kwalok nan lal in kon nañinmej im buromoj eo armej ro rej bok. Ej kakure aelon eo nan dapij ememej eo kon kinie eo im nan bukot jowan kon men eo ear walok.

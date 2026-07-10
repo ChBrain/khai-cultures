@@ -34,4 +34,4 @@ An Akzeptanz, wenn die Transformation zu nachhaltigen Produkten misslingt oder w
 
 ## Drives
 
-Wird verkörpert durch das Symbol [der VW Käfer](piece_vw_kaefer.md) und lenkt die Arbeit von Planerin [Antje](persona_antje.md) im Plot [Der Aufstieg von Volkswagen nach 1945](plot_03_volkswagen_1938.md).
+Wird verkörpert durch das Symbol [der VW Käfer](piece_vw_kaefer.md) und lenkt die Arbeit der Planerinnen und Planer im Plot [Der Aufstieg von Volkswagen nach 1945](plot_03_volkswagen_1938.md).

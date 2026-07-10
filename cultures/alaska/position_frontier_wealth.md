@@ -34,4 +34,4 @@ Its balance when excessive market volatility reduces oil revenues, fracturing lo
 
 ## Drives
 
-Guides the pipeline logistics in the plot [The Prudhoe Bay Oil Strike 1968](plot_02_prudhoe_bay_strike.md) and drives the monitoring work of [Karl](persona_karl.md).
+Guides the pipeline logistics in the plot [The Prudhoe Bay Oil Strike 1968](plot_02_prudhoe_bay_strike.md) and drives the monitoring work of the Valdez pipeline technician.

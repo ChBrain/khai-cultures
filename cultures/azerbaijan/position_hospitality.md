@@ -34,4 +34,4 @@ Bu mövqe əmr edir ki, qapı açıq, süfrə dolu, ürək geniş olsun; qonağa
 
 ## Drives
 
-[Aşıq](persona_ashiq.md)da yaşayır, kənddən-kəndə, toydan-toya gəzib hər süfrədə xalqın yaddaşını dilə gətirən el ozanında. O, qonaqpərvərliyin süfrəsini sazın səsi ilə doldurur, və yad adamı bir məclisin içində doğmaya çevirir.
+Kənddən-kəndə, toydan-toya gəzib hər süfrədə xalqın yaddaşını dilə gətirən el ozanında yaşayır. O, qonaqpərvərliyin süfrəsini sazın səsi ilə doldurur, və yad adamı bir məclisin içində doğmaya çevirir.

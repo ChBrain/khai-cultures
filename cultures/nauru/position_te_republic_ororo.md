@@ -34,4 +34,4 @@ Eb me eo aiwo eko eb me eo aen me eb republic eko eb me eo aiwo eko engame eb me
 
 ## Drives
 
-Eb mo'ui n [Hammer DeRoburt](persona_hammer_deroburt.md), eb me eo aen me eb founding president me eb me eo aen me eb fight eo aen eb phosphate rights, eb me eo aen me eb me eo aiwo eko eb independence n 1968. Eb me eo aiwo eko Naoero eko engame eb sovereignty me eb reinvention me eb me eo aen, eb ribanan rik n eb tongin n ekege eko eb me eo aen me eb me eo aen.
+Eb mo'ui n eb founding president n Naoero, eb me eo aen me eb fight eo aen eb phosphate rights, eb me eo aen me eb me eo aiwo eko eb independence n 1968. Eb me eo aiwo eko Naoero eko engame eb sovereignty me eb reinvention me eb me eo aen, eb ribanan rik n eb tongin n ekege eko eb me eo aen me eb me eo aen.

@@ -34,4 +34,4 @@ Ground when the motto is recited but not kept, when the old tribe-feeling is let
 
 ## Drives
 
-Lives in [Kenneth Kaunda](persona_kaunda.md), who made the motto the law of the young country and built the cabinet to hold all the peoples, and in [Dominic Mulaisho](persona_mulaisho.md), who wrote the nation's coming-together and its costs into the country's own books. It drives Zambia to keep choosing to be one, to keep the bridge tongue open and the plate shared, so that being many never again becomes a reason to be divided.
+Lives in the founding decision that made the motto the law of the young country and built the cabinet to hold all the peoples, and in the literature that wrote the nation's coming-together and its costs into the country's own books. It drives Zambia to keep choosing to be one, to keep the bridge tongue open and the plate shared, so that being many never again becomes a reason to be divided.

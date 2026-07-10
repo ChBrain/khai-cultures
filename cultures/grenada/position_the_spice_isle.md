@@ -34,4 +34,4 @@ Ground when the spice is taken for granted or sold too cheap, when the world pri
 
 ## Drives
 
-Lives in [the spice grower](persona_the_spice_grower.md), who tend the nutmeg and the mace on the hill estates the same way their mother and grandmother did and plant back the grove after every storm. It drive Grenada to know itself by its land and its spice, to carry the nutmeg on its flag, and to come back green from every blow the world and the weather deal it.
+Lives in the spice grower, who tend the nutmeg and the mace on the hill estates the same way their mother and grandmother did and plant back the grove after every storm. It drive Grenada to know itself by its land and its spice, to carry the nutmeg on its flag, and to come back green from every blow the world and the weather deal it.

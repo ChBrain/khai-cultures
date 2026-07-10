@@ -34,4 +34,4 @@ Its balance when excessive market consolidation closes down local county busines
 
 ## Drives
 
-Guides the corporate growth in the plot [The Wal-Mart Retail Revolution 1962](plot_03_walmart.md) and drives the logistics planning of [Roy](persona_roy.md).
+Guides the corporate growth in the plot [The Wal-Mart Retail Revolution 1962](plot_03_walmart.md) and drives the logistics planning that turns inventory into the supply chain's daily rhythm.

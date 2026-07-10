@@ -34,4 +34,4 @@ Terreno cuando la herida se niega o se entierra en vez de sanarse: cuando se pre
 
 ## Drives
 
-La vive [Oscar Romero](persona_oscar_romero.md), el arzobispo martir que se hizo voz de los que no tienen voz hasta dar la vida, y la canta [Roque Dalton](persona_roque_dalton.md), el poeta que puso en verso el amor amargo a esta patria herida. Empuja a El Salvador a mirar de frente la herida de su guerra y la desigualdad de su tierra.
+La vive el arzobispo martir que se hizo voz de los que no tienen voz hasta dar la vida, y la canta el verso que puso en palabras el amor amargo a esta patria herida. Empuja a El Salvador a mirar de frente la herida de su guerra y la desigualdad de su tierra.

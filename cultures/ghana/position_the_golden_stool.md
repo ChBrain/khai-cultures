@@ -34,4 +34,4 @@ Ground when the custodian forgets he is custodian and treats the trust as his ow
 
 ## Drives
 
-Lives in [Yaa Asantewaa](persona_yaa_asantewaa.md), the queen mother who rose to defend the sacred seat when the foreigner reached for it, and in [the Okyeame](persona_okyeame.md), the linguist whose mouth carries the chief's word and keeps the order of the council. It drives Ghana to honour the elder and the chief, to settle the matter in council, and to hold authority as a trust owed back to the ancestors and forward to the children.
+Lives in the queen mother who rose to defend the sacred seat when the foreigner reached for it, and in the linguist whose mouth carries the chief's word and keeps the order of the council. It drives Ghana to honour the elder and the chief, to settle the matter in council, and to hold authority as a trust owed back to the ancestors and forward to the children.

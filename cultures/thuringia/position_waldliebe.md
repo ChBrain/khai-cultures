@@ -34,4 +34,4 @@ An Lebenskraft, wenn der Klimawandel die Wälder durch Dürre massiv zerstört o
 
 ## Drives
 
-Wird gepflegt in der Geste [die Lauschaer Weihnachtskugel](piece_lauscha_kugel.md) und lenkt das Handeln von Glasbläser [Dieter](persona_dieter.md) im Plot [Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md).
+Wird gepflegt in der Geste [die Lauschaer Weihnachtskugel](piece_lauscha_kugel.md) und lenkt das Handeln der Glasbläser im Plot [Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md).

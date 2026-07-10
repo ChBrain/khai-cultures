@@ -34,4 +34,4 @@ Ground when the contest is remembered only as a wound, the long humiliation of b
 
 ## Drives
 
-Lives in [Sir John Compton](persona_john_compton.md), who take the long-contested island out of the contest at last and lead it to its own flag and its own name, the father of the nation that the Helen of the West Indies finally become. It drive Saint Lucia to carry the long tug-of-war as heritage and not as wound alone, and to make one island out of all the hands that ever held it.
+Lives in the statesman who take the long-contested island out of the contest at last and lead it to its own flag and its own name, the father of the nation that the Helen of the West Indies finally become. It drive Saint Lucia to carry the long tug-of-war as heritage and not as wound alone, and to make one island out of all the hands that ever held it.

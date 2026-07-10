@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano de la llanura central, hablado con el laismo expresivo, el seseo suave y la entonacion reposada del campo manchego. Guarda los modismos rurales de la tierra de Don Quijote, el vocabulario de la monda del azafran, del prensado del queso en esparto y del reparto de los pozos comunales, y una habla llana que se estira despacio bajo el horizonte infinito de los molinos.
+El castellano manchego practica el laismo, el uso de la en vez de le para el complemento indirecto femenino (la dije que si, en vez de le dije que si), un rasgo vivo en el centro peninsular que muchas otras variantes del idioma rechazan. Comparte con el resto del castellano el genero gramatical, la copula doble ser/estar y un subjuntivo capaz de expresar la duda y el ruego con formas propias.
 
 ## Orders
 
-Manda que en las juntas agrarias del pueblo, en las comisiones de regantes y en las queserias familiares se hable la lengua sosegada de la llanura, y que el lexico del azafran, del esparto y del agua de pozo se transmita sin perderse. Ordena el trato hecho de palabra en la asamblea del reparto tradicional, donde el acuerdo vale por dicho antes que por escrito.
+Obliga a decidir en cada complemento indirecto femenino entre la forma le, que la norma academica prefiere, y la forma la, que la lengua de la llanura impone por costumbre, de modo que el hablante nunca puede evitar tomar partido. Exige tambien, como todo el castellano, marcar genero y numero en cada nombre y adjetivo, y elegir entre ser y estar en cada enunciado.
 
 ## Loses
 
-Pierde terreno cuando el castellano estandar de la television y de las oficinas arrincona el laismo y los giros propios de la llanura como si fueran habla tosca de pueblo, y cuando las directivas de riego y los reglamentos comerciales de la denominacion de origen imponen su jerga tecnica sobre el saber asambleario del labrador. Cede tambien ante la despoblacion, que apaga en cada casa vacia una voz de la Mancha.
+Pierde ante la norma academica, que corrige el laismo como error y no como rasgo propio, de modo que quien lo habla aprende a dudar de su propia lengua materna frente al libro de estilo. Y la distincion entre el objeto directo y el indirecto, que el laismo desdibuja al usar la para ambos, se vuelve menos clara que en las variantes que mantienen le aparte.
 
 ## Drives
 
-Empuja a esta tierra a reconocerse en su habla llana y a guardarla como suya. Se la da a [Alonso](persona_alonso.md), labrador y recolector de azafran de Consuegra, y a [Aldonza](persona_aldonza.md), quesera de Daimiel, como lengua materna en la que faenan, gestionan y sostienen la memoria del pueblo; y en cada uno se ve quien mantiene viva esta habla de la llanura frente a la norma uniforme que la da por menor.
+Acostumbra a quien crece en esta habla a usar la donde otros dicen le sin sentir que comete falta, y a medir su propio castellano contra una norma escrita que no reconoce ese uso como legitimo. La constante eleccion entre ser y estar y el manejo vivo del subjuntivo entrenan a quien lo habla a separar lo permanente de lo pasajero y el hecho cierto de la posibilidad en cada frase que construye.

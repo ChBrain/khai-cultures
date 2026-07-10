@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Bir elning o'z tili, turkiy o'zbek tili, bu zaminning eng qadimiy va eng qadrli merosi. Forsiy adabiyot tili bo'lib hukmron turgan bir davrda [Alisher Navoiy](persona_navoiy.md) uni she'r cho'qqisiga olib chiqib, uning go'zalligini butun olamga isbotladi va o'zbek adabiyotiga ota bo'ldi. Bu til bozor rastasidan saroy devonigacha, ona allasidan g'azal baytigacha bir elni bir-biriga bog'laydi, va bugun lotin yozuvida o'z so'zini o'z harfiga sig'diradi.
+O'zbek tili so'zlarni negiz ustiga qo'shimcha ketma-ket ulab yasaydi, uy-lar-imiz-da kabi bir negizga bir necha ma'no qatlamini qo'shib, va shu qurilish orqali fors va arab tilidan kirgan boy lug'atni turkiy negiz bilan yonma-yon tutadi, xuddi bitta tushunchani sodda turkiycha yoki yuksak forscha-arabcha so'z bilan aytish imkonini berganday. Kelishik qo'shimchalari (-ni, -ga, -da, -dan) otning o'ziga yopishib, predlogsiz butun gap qurilishini ko'taradi.
 
 ## Orders
 
-O'z tilini qadrlashni, uni toza va o'lchovli so'zlashni, va so'zning ortida odob hamda hurmat turishini buyuradi. Kattaga boshqacha, kichikka boshqacha muomala qilishni til odobiga singdiradi, mehmonni shirin so'z bilan kutishni talab qiladi, va o'z tilida so'z san'atini, maqol va g'azalni el qadriyatining yuqorisida tutadi.
+Har gapda fe'lni oxiriga qoldirishni, ma'noni gap tugagunga qadar ushlab turishni buyuradi. Har muomalada sen va sizni tanlashni, kattaga sen demaslikni, ismga jon yoki xon kabi hurmat qo'shimchasini ulashni talab qiladi. Va gapirilgan voqeani o'z ko'zi bilan ko'rganini yoki boshqadan eshitib taxmin qilib aytayotganini fe'l shaklida ayro belgilashni buyuradi, bu ikki holatni bir xil so'z bilan aytishga yo'l qo'ymaydi.
 
 ## Loses
 
-El o'z tilini past ko'rib, o'zga tilga suyanganda kuchini yo'qotadi. Bozor va idora tili o'zga bo'lib, o'z so'zi uy burchagiga siqilib qolganda, yoki almashgan yozuvlar bir avlodni bobosining bitigidan uzganda, tilning butunligi darz ketadi. Tilni faqat maqtanchoqlik uchun ko'tarib, uning ichidagi odob va ma'noni unutganda ham shu qadar zaiflashadi.
+Ko'pchilik turkiy tillar saqlagan unli uyg'unligini, bir so'zdagi barcha unlilar bir xil tanglay guruhidan bo'lishi qoidasini, o'zbek tili fors ta'sirida ko'p joyda yo'qotgan, shu bois bir so'z ichida yumshoq va qattiq unli yonma-yon kelaveradi, qarindosh tillarda bu deyarli mumkin emas. Grammatik jinsni til o'zi bilmaydi, shu sababli fors yoki arabchadan kirgan so'zning jinsini o'zbekcha gapda hech narsa ko'rsatmaydi, u faqat asl tilida qolib ketadi.
 
 ## Drives
 
-[Alisher Navoiy](persona_navoiy.md)da yashaydi, u ona tilini she'r tiliga aylantirgan shoir. [Amir Temur](persona_amir_temur.md)da u o'z eliga o'z tilida so'zlagan hukmdorning tili bo'lib yashaydi, [Mirzo Ulug'bek](persona_ulugbek.md)da o'z olimlari bilan o'z tilida bahslashgan shoh-munajjimning tili, va [Usta](persona_usta.md)da bozorda mijoz bilan hangoma qurib shogirdiga so'z uzatgan hunarmandning tili bo'lib. O'zbek tili bu elni o'z so'zini o'z harfiga sig'dirib, o'zligini saqlab qolishga undaydi.
+Bu tilda o'ylagan kishini gapni oxirigacha qurib, fe'lni eng oxirga qo'yib yakunlashga, va har safar muomalada kattaga sen demay, sizni tanlab, hurmatni so'z ichiga singdirishga o'rgatadi. Voqeani o'z ko'zi bilan ko'rganmi yoki boshqadan eshitganmi, shuni fe'l shaklida ayro aytish odatini singdiradi, shunday qilib bu tilda o'sgan kishi bilim manbaini so'zning o'zida ko'rsatishga moyil bo'ladi.

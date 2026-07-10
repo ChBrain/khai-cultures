@@ -34,4 +34,4 @@ E kabuaa korakorana ngkana e a aki manga reireiaki te rabakau n te borau ma te a
 
 ## Drives
 
-E maeka i nanon [te tia akawa](persona_te_tia_akawa.md), are e ataa te taari ao e karekea kanana mai iai, ao i nanon [te tia mwaie](persona_te_tia_mwaie.md), are e kaota te tangira nakon te aba ao te taari n ana mwaie. E kaira Kiribati nakon te borau ao te akawa, ao nakon te ataibwai bwa te taari bon kanaia ao kawaia, ao bon aia bwai ni katei ae moan te kakawaki.
+E maeka i nanon te tia akawa, are e ataa te taari ao e karekea kanana mai iai, ao i nanon te tia mwaie, are e kaota te tangira nakon te aba ao te taari n ana mwaie. E kaira Kiribati nakon te borau ao te akawa, ao nakon te ataibwai bwa te taari bon kanaia ao kawaia, ao bon aia bwai ni katei ae moan te kakawaki.

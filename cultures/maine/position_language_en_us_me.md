@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The down east voice of Maine English, the coastal cadence and dropped r of the Pine Tree State. It possesses the plain, weathered speech of harbor and woodlot, the terse maritime idiom heard from Penobscot Bay to the interior timber towns.
+Maine English carries a dropped r after a vowel, so that "car" and "harbor" lose their final sound the way much of coastal New England speech does, and it carries a small stock of words found almost nowhere else at this strength: "ayuh" for yes, "wicked" as an intensifier meaning very, "dooryard" for the patch of ground before a house. It holds the plain, compressed idiom of the working coast, able to say a great deal in very few words.
 
 ## Orders
 
-What counts as native speech in Maine, the talk of the wharf, the trap line, and the town landing. It orders how neighbors greet and trade, holding the reserve and dry wit that mark a Mainer apart from an outsider from away.
+English forces a fixed order of subject, verb, and object to carry meaning that other tongues leave to word endings, since it has almost no case marking left outside its pronouns. It forces tense and aspect to be built with helping verbs, have and be joined to a participle, rather than a single ending on the verb, and it forces every listener to be addressed the same way, with no separate word for formal distance the way many languages keep.
 
 ## Loses
 
-Ground to the flattened broadcast English of national trade and the technical jargon of high-volume fishery exports, which crowd the old cadence off the workstation. It also loses speakers as young families leave the working coast for warmer, cheaper markets.
+It loses the case endings that older stages of English once carried, so that word order alone must now carry what a suffix used to mark, and it loses the T and V distinction entirely, unable to mark in the word itself the difference between an elder and a friend the way French or German still can. In Maine specifically, the flattened broadcast English of national trade wears down the coastal r-dropping and the old words, so a generation grows up saying "car" the way the rest of the country does.
 
 ## Drives
 
-It drives Maine to keep its own accent even where the paperwork does not. It carries the mother tongue of boat captain [Arthur](persona_arthur.md), the language in which he speaks, hears, and thinks his daily trapping checks; and it carries the warm drawl of forestry conservationist [Eleanor](persona_eleanor.md), the tongue in which she speaks and writes her patrol reports. So the one cadence shows who holds it.
+It drives whoever speaks it to listen for word order rather than word ending to find out who did what to whom, and to lean on helping verbs to place an action in time. It drives the Mainer especially to compress a thought into as few words as the working day allows, trusting a dry, short answer over a long one, and to hear the dropped r as a mark of home even after it has gone mostly quiet elsewhere.

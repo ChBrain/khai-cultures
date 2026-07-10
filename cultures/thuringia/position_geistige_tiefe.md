@@ -34,4 +34,4 @@ An Bedeutung, wenn Bildungskürzungen die Kulturpflege erschweren oder Konsum da
 
 ## Drives
 
-Wird gefördert im Plot [Die Weimarer Klassik ab 1775](plot_01_weimar_classic_1775.md) und lenkt das Traditionsbewusstsein von Glasbläser [Dieter](persona_dieter.md).
+Wird gefördert im Plot [Die Weimarer Klassik ab 1775](plot_01_weimar_classic_1775.md) und lenkt das Traditionsbewusstsein im Glasbläserhandwerk.

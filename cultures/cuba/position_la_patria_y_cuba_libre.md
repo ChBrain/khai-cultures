@@ -34,4 +34,4 @@ Terreno cuando se vuelve consigna en boca de un solo bando, palabra que se usa p
 
 ## Drives
 
-La vive [José Martí](persona_jose_marti.md), que le dio la palabra y murió por ella en el primer combate, y [Antonio Maceo](persona_antonio_maceo.md), el Titán de Bronce que le dio el machete y se negó a pactar una paz sin libertad. Empuja a la isla a medirse siempre contra la patria que se prometió, y a no dejar que el nombre de Cuba libre quede sin cumplir.
+La vive la palabra que se le dio y por la que se murió en el primer combate, y el machete que se negó a pactar una paz sin libertad. Empuja a la isla a medirse siempre contra la patria que se prometió, y a no dejar que el nombre de Cuba libre quede sin cumplir.

@@ -34,4 +34,4 @@ I perdi pye kan en zonm i komans konte rasin pour separ dimoun olye tise zot - k
 
 ## Drives
 
-I viv dan [Pierre Poivre](persona_pierre_poivre.md), ki ti ouver semen lo bann zil vid kot sa melanz pou ne, e dan [Patrick Victor](persona_patrick_victor.md), ki son sega ek son moutya i sant en sel pep ki'n tise sorti boukou rasin. I pous Sesel pour kontinyen tise son bann fil dan en sel pep e pour gard sa latwal antye, san ki personn i tonm deor.
+I viv dan bann premye ki ti ouver semen lo bann zil vid kot sa melanz pou ne, e dan sega ek moutya ki sant en sel pep ki'n tise sorti boukou rasin. I pous Sesel pour kontinyen tise son bann fil dan en sel pep e pour gard sa latwal antye, san ki personn i tonm deor.

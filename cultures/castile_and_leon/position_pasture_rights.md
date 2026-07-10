@@ -34,4 +34,4 @@ Su equilibrio cuando la privatización de los montes y el vallado de cotos de ca
 
 ## Drives
 
-Guía el desarrollo de libertades en el relato [La Revolución Comunera 1520](plot_02_comuneros.md) y orienta la quesería de [Teresa](persona_teresa.md).
+Guía el desarrollo de libertades en el relato [La Revolución Comunera 1520](plot_02_comuneros.md) y orienta la quesería trashumante, el oficio que convierte la leche de las cañadas en el queso de la comarca.

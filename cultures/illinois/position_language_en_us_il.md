@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The two-voiced English of the Prairie State: the fast, flat, front-vowel Chicago speech of the Loop and the slower Midland cadence of the downstate corn counties. It holds a blunt Midwestern plainness that carries both the trading floor and the grain elevator.
+The same fixed order and auxiliary-carried grammar every English dialect shares, joined in Chicago to the Northern Cities Vowel Shift: the short a of "cat" raised and tensed toward "kyat," the short o of "lot" pushed forward, a chain of vowels each nudging the next out of its older place. Downstate, the flatter Midland vowels of the corn country keep the older values these Chicago vowels have shifted away from, so the same word can carry two different vowel shapes within one state's borders.
 
 ## Orders
 
-Where it passes as native ground: the Chicago neighborhood and job site, the downstate co-op and county road. It orders which vowels and which turns of phrase mark a speaker as of this state, and sets the city ear against the country one.
+Forces subject before verb and verb before object, since no case ending is left to mark a word's role once it leaves its place in the sentence. Forces the Chicago speaker's short a and short o through the raised, fronted values the Northern Cities Shift carries, chain-shifted so that raising one vowel pushes its neighbor to move as well. Forces, downstate, the flatter unshifted vowel in the same words, so that a single sentence pronounced two ways marks the speaker's ground before a word of content is exchanged.
 
 ## Loses
 
-Ground to General American, the unmarked national standard the screen and the boardroom carry, which levels the sharp Chicago vowels and the downstate drawl alike toward one flat middle. The metropolis register also crowds the farm speech into the margin of statistics and heritage festivals.
+Loses, in the raised Chicago vowels, the older, lower pronunciation that downstate and much of the rest of the country still keeps, so a word can drift far enough from its old sound to confuse an outside ear. Loses, downstate, the sharper edge and speed the shifted city vowels carry, so its flatter cadence reads as slow to a Chicago ear. Both lose ground to General American, the unmarked broadcast vowel set that levels the raised city vowel and the flat country one toward the same unmarked middle.
 
 ## Drives
 
-It carries [Robert](persona_robert.md), whose fast, direct Chicago cadence is the working English of the metropolis, and [Mary](persona_mary.md), whose downstate speech holds the corn counties beneath the German she only wears at heritage festivals. So the one state speaks in two registers, and the position marks which ground each holds.
+Trains the Chicago ear to hear a whole chain of vowels shift together, since raising one drags its neighbors after it, and trains the mouth to produce that chain without noticing it has moved. Trains the downstate ear to keep the older vowel where the chain has not reached, so the same sentence marks two different grounds by vowel alone. It shapes a state whose one language carries two vowel habits, each one marking, before any word's meaning is weighed, where the speaker's mouth was raised.

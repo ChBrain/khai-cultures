@@ -34,4 +34,4 @@ Mark där måttet blir likriktning och försiktighet, och där ingen vågar stic
 
 ## Drives
 
-Det bär [Astrid](persona_astrid.md), som avvisar beröm med en axelryckning, och det är vardagens form av den måttfullhet som också präglar [folkhemmet](position_folkhemmet.md).
+Det bär den som avvisar beröm med en axelryckning, och det är vardagens form av den måttfullhet som också präglar [folkhemmet](position_folkhemmet.md).

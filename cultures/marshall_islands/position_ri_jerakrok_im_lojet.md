@@ -34,4 +34,4 @@ Jako ne armej ro rej joluk meto eo im jerakrok eo etto, im rej etal wot ilo inji
 
 ## Drives
 
-Ej mour ilo [ri-meto](persona_ri_meto.md), eo me ej riit no ko im ej jerak jen aelon nan aelon, im ilo [lerooj](persona_lerooj.md), eo me ej dapij bwij eo im ej kotak ioon kora. Ej kakure ri-Majol nan dapij aer jedwawa kon lojet im aer jerakrok, im nan dapij bwij eo im jukjuk in pad eo ej itok jen lojet.
+Ej mour ilo ri-meto, eo me ej riit no ko im ej jerak jen aelon nan aelon, im ilo lerooj, eo me ej dapij bwij eo im ej kotak ioon kora. Ej kakure ri-Majol nan dapij aer jedwawa kon lojet im aer jerakrok, im nan dapij bwij eo im jukjuk in pad eo ej itok jen lojet.

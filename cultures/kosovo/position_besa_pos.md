@@ -34,4 +34,4 @@ Vlerën e saj nëse interesat materiale zëvendësojnë kodin tradicional të nd
 
 ## Drives
 
-Përbën shtyllën morale të qëndresës së Lidhjes së Prizrenit në [1878](plot_02_prizren_1878.md) dhe drejton sjelljen e [Adem](persona_adem.md).
+Përbën shtyllën morale të qëndresës së Lidhjes së Prizrenit në [1878](plot_02_prizren_1878.md) dhe drejton sjelljen e bujqve e rapsodëve malësorë që e mbrojnë si ligj të pashkruar të nderit.

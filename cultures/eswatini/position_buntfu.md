@@ -34,4 +34,4 @@ Buyaphela uma labasha bashiya emakhaya bayofuna umsebenti emadolobheni, bayekele
 
 ## Drives
 
-Iphila ku-[Labotsibeni Gwamile](persona_labotsibeni.md), lowadzimatela sive ngesikhatsi lesilukhuni, wabusisa imfundvo yebantfwabakhe ndzawonye, naku-[J.S.M. Matsebula](persona_matsebula.md), lowabhala lulwimi nesintfu sesive kute kungashabalali. Iyaphusha eSwatini kutsi ihlale yibophele bantfu bayo ndzawonye ngebudlelwane, kuze umuntfu angabi yedvwa, abe ngumuntfu ngebantfu.
+Iphila ebuholini lobadzimatela sive ngesikhatsi lesilukhuni, lwabusisa imfundvo yebantfwana bonkhe ndzawonye, nasekubhaleni lulwimi nesintfu sesive kute kungashabalali. Iyaphusha eSwatini kutsi ihlale yibophele bantfu bayo ndzawonye ngebudlelwane, kuze umuntfu angabi yedvwa, abe ngumuntfu ngebantfu.

@@ -34,4 +34,4 @@ Tlo gubi pred turizmom koji obalu pretvara u kulisu i sezonu, pred iseljavanjem 
 
 ## Drives
 
-Živi u [Boškoviću](persona_boskovic.md), dubrovačkome umu koji je iz grada Libertas iznio znanost u svijet. Goni Hrvatsku da svoju sredozemnu polovicu - more, otoke i Dubrovnik - drži kao živu dušu, a ne kao kulisu i sezonu za tuđe oko.
+Živi u dubrovačkome umu koji je iz grada Libertas iznio znanost u svijet. Goni Hrvatsku da svoju sredozemnu polovicu - more, otoke i Dubrovnik - drži kao živu dušu, a ne kao kulisu i sezonu za tuđe oko.

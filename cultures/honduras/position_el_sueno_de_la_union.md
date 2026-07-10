@@ -34,4 +34,4 @@ Terreno cuando el sueno se vuelve solo nostalgia y estatua, honrado en el discur
 
 ## Drives
 
-Vive en [Francisco Morazan](persona_morazan.md), el catracho que encabezo la federacion y murio por ella, y en [Jose Cecilio del Valle](persona_jose_cecilio_del_valle.md), el sabio que puso en palabras el acta de la independencia comun. Empuja a Honduras a recordar que su patria se sono mas grande que su frontera, y a medir su division de hoy contra aquel sueno de unidad.
+Vive en el militar y estadista que encabezo la federacion y murio por ella, y en el jurista y pensador que puso en palabras el acta de la independencia comun. Empuja a Honduras a recordar que su patria se sono mas grande que su frontera, y a medir su division de hoy contra aquel sueno de unidad.

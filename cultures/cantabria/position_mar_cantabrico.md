@@ -34,4 +34,4 @@ Su equilibrio cuando las flotas industriales de gran calado extranjero esquilman
 
 ## Drives
 
-Guía el desarrollo pesquero en el relato [El Incendio de Santander 1941](plot_02_fire.md) y orienta la conservera de [Sabela](persona_sabela.md).
+Guía el desarrollo pesquero en el relato [El Incendio de Santander 1941](plot_02_fire.md) y orienta la conservera que dirige la fábrica de Santoña.

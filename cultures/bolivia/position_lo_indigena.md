@@ -34,4 +34,4 @@ Terreno cuando lo indígena se folkloriza en vez de reconocerse: cuando se celeb
 
 ## Drives
 
-La encarnan [Túpac Katari](persona_tupac_katari.md), el líder aymara que cercó La Paz y prometió volver hecho millones, y [Bartolina Sisa](persona_bartolina_sisa.md), la comandanta que combatió a su lado; y late desde [Tiwanaku y el mundo andino](plot_01_tiwanaku_y_el_mundo_andino.md), el cimiento originario sobre el que se levanta todo lo demás pues.
+La encarna quien le pone cerco a una ciudad entera al frente de la mayoría originaria y promete volver hecho millones, y la encarna igual quien manda al lado de ese alzamiento, comandanta y comunera a la vez, cargando el doble peso de ser india y mujer sin doblarse por eso; y late desde [Tiwanaku y el mundo andino](plot_01_tiwanaku_y_el_mundo_andino.md), el cimiento originario sobre el que se levanta todo lo demás pues.

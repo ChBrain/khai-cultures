@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Oqaatsit, piniarnerlu sermersuullu kulturimut pingaaruteqarnerat. Kalaallit kulturiannik piginninneq.
+Kalaallisut oqaaseq ataaseq oqaluutinik amerlasuunik ilanngussarlugu sanaajuvoq, taamaalilluni allat oqaatsini oqaasertaqartunik amerlanik atorlugu oqaatigisartagaat, Kalaallisut oqaaseq ataatsimut katersorlugu oqaatigisinnaavaa. Assersuutigalugu "aliikusersuillammassuaanerartassagaluarpaalli" oqaaseq ataaseq, Kalaallit Nunaanni angisuumik oqaluutsimut atugaqartoq. Kalaallisummi taaguutit "adjektiivit" immikkut oqaluutinit avinngaanngillat: angisuuneq, mikisuuneq oqaluutitut atorneqartarput, taassumalu oqaaseq pisortaasunik allanik atorani.
 
 ## Orders
 
-Kalaallisut oqaatsit ataqqineqassasut, piniarnerlu inuunermut tunngavittut atatiinnarneqassasoq.
+Oqaluut tamarmi naammassinera taasariaqarpaa, naliginnaasoq, apeqqutaasoq, peqqusaasoq imaluunniit pissutaasoq, ataatsimillu suliaasup taassuma peqataasullu paasissutissaannik atorlugu ilanngullugu. Oqaluutip taamaattumik suliaasumik naalagaaffiusumillu (kikkut suliaqartoq, kikkut suliaqarfigineqartoq) ataatsimut oqaatigisariaqarpaa, taamaalilluni pissutsit assigiinngitsut oqaluut ataatsimi katersorlugit.
 
 ## Loses
 
-Aningaasarsiornikkut unamminartut kulturimik annaasaqaataasinnaanerat.
+Kalaallisut nutaanik oqaatsinik, teknologimut allaffissuarnermullu tunngasunik, allamit oqaatsinik piseriaannartumik saqqummiussisinnaanngilaq; suffiksit atuisumik nutaamik ilanngussarlugit sananeqassapput. Oqaasip aallartereerpat, sananeqarnerani suliaasup katersuiffigineqarnera allanngortinneqarsinnaanngilaq, taamaammat allanit oqalusartut oqaasertaannginnermik allanngortitsisinnaanngillat oqaasip iluani. Adjektiivinik immikkut atugaqannginneq inuiaanut oqaatigisinnaasaannik ilaannik killiliisarpoq.
 
 ## Drives
 
-Nukap [Nuka](persona_nuka.md) piniartuuneranut tunngaviujuarpoq, Pipaluullu [Pipaluk](persona_pipaluk.md) siunissamut pilersaarutaaniilluni.
+Kalaallisumik oqalusoq oqaasip iluani suliaq kina suliniarnera qanoq suliniarnerlu pingaarnerulersarpai, taaguutillu naliginnaasut mikinerusumik atorneqartarlutik. Oqaasip qanoq katersorneqassanersoq siornatigut eqqarsaatigisariaqarpaa, oqaluutillu aallartereerpat allanngortinneqarsinnaanngitsoq nalunaarutigisariaqarpoq. Taamaalilluni Kalaallisumik oqalusartut oqaasersuutimik naammassisumik siulliullugu eqqarsaatiginnittarput, tassanngaanniilli oqaatigalugu.

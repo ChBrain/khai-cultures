@@ -34,4 +34,4 @@ Terreno cuando el equilibrio se rompe por cualquiera de los dos lados: cuando el
 
 ## Drives
 
-La encarnan [Antoni Gaudí](persona_gaudi.md), la Cataluña que se reconoce en su lengua y su genio, y [Ane](persona_ane.md), el País Vasco del euskera y la cuadrilla; y se selló en [La Transición](plot_04_transicion.md), cuando España aceptó ser una y plural a la vez.
+La encarna la Cataluña que se reconoce en su lengua y en el genio que la elevó a la arquitectura universal, y el País Vasco del euskera y la cuadrilla; y se selló en [La Transición](plot_04_transicion.md), cuando España aceptó ser una y plural a la vez.

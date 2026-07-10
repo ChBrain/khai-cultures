@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-English as the shared public tongue of a multinational, multicultural state: the one language held in common above Welsh, Gaelic, Scots, Irish, and the home tongues of the Commonwealth's children. It is the tongue the union runs on and, through empire and reach, the tongue the world borrowed.
+English holds a double vocabulary, Germanic bone under Romance skin, so the same idea can be said plain (kingly) or grand (regal), homely (ask) or formal (interrogate), letting a speaker shift register word by word without touching the grammar at all. Its verbs build endless phrasal combinations, look up, put off, get on with, packing a whole idiom into two small words, and its grammar takes in foreign words with almost no resistance, so the tongue keeps swelling on whatever it meets.
 
 ## Orders
 
-That whatever your nation or your language at home, you meet in English in public: the common tongue is the floor everyone stands on and the price of being heard across the whole. It asks every other tongue to step back into the kitchen, the chapel, and the glen.
+It forces a strict word order, subject before verb before object, since the case endings that once carried meaning have nearly all worn away, and it forces every ongoing action into the be-plus-ing frame (she is walking, not she walks), a marking many neighbouring tongues do without. It compels an article before almost every countable noun, a or the, a choice with no equivalent in some languages, and it collapses every degree of address, stranger or sovereign, into the one flat you.
 
 ## Loses
 
-It rarely loses ground; it gains it, but at a cost. The national and home tongues retreat beneath it, and the very ease of one shared language lets the union forget how many tongues it rests on, and how thin the thing that binds them really is.
+Having flattened thou into you centuries back, it cannot mark familiarity or distance in the pronoun itself, and must rebuild that distance clumsily through tone, title, and first name, where other tongues do it in a single syllable. It keeps almost no case and no grammatical gender, so it cannot let word order go loose the way Latin or German can, and its spelling has drifted so far from its sound that the written and the spoken word must be learned nearly as two separate systems.
 
 ## Drives
 
-It lives in [Aisha](persona_aisha.md), worn over the language of home; it is the nerve [Churchill](persona_churchill.md) struck in the dark hour; it is the tongue [Shakespeare](persona_shakespeare.md) made supple and the world borrowed; and it is the level, understated English [Margaret](persona_margaret.md) keeps her strongest feeling behind. It drives the union to mistake a shared language for a shared belonging, and to find, when the nations pull apart, that one tongue alone was never quite enough to hold them.
+It trains whoever speaks it from birth to hear meaning in sequence, in what comes before what, rather than in the shape of the word itself, and to reach for a synonym from the other half of its double vocabulary rather than an inflection when the register needs to shift. It rewards understatement, since so much of its force sits in stress and litotes rather than in grammar, and it leaves its speakers unpractised at marking social distance in the pronoun, so they build it instead from manners, borrowing words from anywhere without a second thought.

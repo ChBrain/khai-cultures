@@ -34,4 +34,4 @@ Jitlef l-art meta l-kburija fil-fortizza ssir biss tifkira u turiżmu, u meta l-
 
 ## Drives
 
-Jgħix f'[Jean de Valette](persona_de_valette.md), il-Gran Mastru li żamm il-gżira fl-Assedju l-Kbir u bena Valletta, u fil-poplu li fit-Tieni Gwerra Dinjija ġarrab l-assedju u rebaħ il-George Cross. Iħeġġeġ lil Malta terfa' bil-kburija li gżira hekk ċkejkna żammet ruħha quddiem imperi, u tibqa' sħiħa fin-nofs tal-baħar.
+Jgħix fil-Gran Mastru li żamm il-gżira fl-Assedju l-Kbir u bena Valletta, u fil-poplu li fit-Tieni Gwerra Dinjija ġarrab l-assedju u rebaħ il-George Cross. Iħeġġeġ lil Malta terfa' bil-kburija li gżira hekk ċkejkna żammet ruħha quddiem imperi, u tibqa' sħiħa fin-nofs tal-baħar.

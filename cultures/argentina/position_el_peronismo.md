@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-El movimiento y la grieta que han definido a la nación durante un siglo: la política levantada por Juan Perón y Eva Perón en 1945 sobre los hombros de los descamisados, las masas trabajadoras sin camisa elevadas al centro de la vida nacional. Es a la vez un partido, una fe, un estilo y una herida: justicia social y dignidad del trabajador para los que lo aman, demagogia y ruina para los que no, y no puede ser neutral, porque nombrarlo es ya jugarte por un lado. Es el hecho más hondo de la vida política argentina: no una posición entre otras sino el eje en torno al cual las demás se ordenan, peronista o antiperonista, sin terreno quieto entre medio.
+El movimiento y la grieta que han definido a la nación durante un siglo: la política levantada por Juan Perón y la compañera que se volvió el rostro y la pasión del movimiento en 1945, sobre los hombros de los descamisados, las masas trabajadoras sin camisa elevadas al centro de la vida nacional. Es a la vez un partido, una fe, un estilo y una herida: justicia social y dignidad del trabajador para los que lo aman, demagogia y ruina para los que no, y no puede ser neutral, porque nombrarlo es ya jugarte por un lado. Es el hecho más hondo de la vida política argentina: no una posición entre otras sino el eje en torno al cual las demás se ordenan, peronista o antiperonista, sin terreno quieto entre medio.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Terreno cuando la lealtad se endurece en un culto que no se puede cuestionar y l
 
 ## Drives
 
-Vive en [Eva Perón](persona_evita.md), el ícono que le dio al movimiento su pasión y su rostro y se hizo el puente entre las masas y el hombre que querían, y en [Diego Maradona](persona_maradona.md), el dios popular de la cancha e hijo de las masas descamisadas, que llevó el calor del movimiento al estadio y a la calle. Impulsa a la Argentina a discutir consigo misma, mesa por mesa y generación tras generación, a lo largo de la grieta que trazaron Perón y Evita.
+Vive en el ícono que le dio al movimiento su pasión y su rostro y se hizo el puente entre las masas y el hombre que querían, y en el dios popular de la cancha e hijo de las masas descamisadas, que llevó el calor del movimiento al estadio y a la calle. Impulsa a la Argentina a discutir consigo misma, mesa por mesa y generación tras generación, a lo largo de la grieta que abrió el movimiento.

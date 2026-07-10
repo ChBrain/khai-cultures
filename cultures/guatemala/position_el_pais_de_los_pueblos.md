@@ -34,4 +34,4 @@ Terreno cuando la pluralidad se vive como jerarquía y no como igualdad, cuando 
 
 ## Drives
 
-Vive en [Rigoberta Menchú](persona_rigoberta_menchu.md), que llevó al mundo la voz de los pueblos del altiplano y reclamó para ellos un lugar de igual dignidad. Mueve a Guatemala a dejar de ser muchos países en uno y a hacerse de verdad una sola tierra de muchos pueblos.
+Vive en la dirigente indígena que llevó al mundo la voz de los pueblos del altiplano y reclamó para ellos un lugar de igual dignidad. Mueve a Guatemala a dejar de ser muchos países en uno y a hacerse de verdad una sola tierra de muchos pueblos.

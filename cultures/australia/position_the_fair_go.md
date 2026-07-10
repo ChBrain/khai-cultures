@@ -34,4 +34,4 @@ Ground when the levelling turns from fairness into envy - when the tall poppy is
 
 ## Drives
 
-Lives in [Sir Edmund Barton](persona_barton.md), who federated the colonies into a democratic Commonwealth and wrote the fair go into the new nation's law even as its founding drew the line of who that fairness was for, and in [the battler](persona_the_battler.md), the ordinary worker who has a go, backs the underdog, and carries the egalitarian temper from the goldfields to the suburbs. It drives Australia to keep widening the fair go until it reaches everyone, and to keep itself honest about how far it has still to go.
+Lives in the founding act that federated the colonies into a democratic Commonwealth and wrote the fair go into the new nation's law even as that founding drew the line of who that fairness was for, and in the ordinary battler who has a go, backs the underdog, and carries the egalitarian temper from the goldfields to the suburbs. It drives Australia to keep widening the fair go until it reaches everyone, and to keep itself honest about how far it has still to go.

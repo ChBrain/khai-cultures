@@ -34,4 +34,4 @@ Ground when the joy is taken as the whole story and the foundation beneath the h
 
 ## Drives
 
-Lives in [Garfield Sobers](persona_garfield_sobers.md), the greatest all-round cricketer the game has known, the Bajan boy who carried the island's mastery onto the world's fields. It drives Barbados to play, to celebrate, and to take pride in turning the master's game and the plantation's harvest into the island's own joy, and to show the modern world another such child of the island in Rihanna, the girl from Bridgetown the whole earth came to know, the island's quiet pride sent out again to the stages of the world.
+Lives in the greatest all-round cricketing mastery the game has known, the Bridgetown boy's game carried onto the world's fields and used to beat the empire at the sport it brought. It drives Barbados to play, to celebrate, and to take pride in turning the master's game and the plantation's harvest into the island's own joy, and to show the modern world another such child of the island in Rihanna, the girl from Bridgetown the whole earth came to know, the island's quiet pride sent out again to the stages of the world.

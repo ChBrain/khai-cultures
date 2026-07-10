@@ -34,4 +34,4 @@ Ground when one heritage is held above the other, when the settler line is treat
 
 ## Drives
 
-Lives in [Edward Wilmot Blyden](persona_blyden.md), the scholar who taught that the African heritage was a glory to be claimed and not a thing to be left behind, and who bound the settler and the African back into one. It drives Liberia to keep weaving the two heritages into one people, sharing the pot, the field, and the flag, until the nation is whole.
+Lives in the scholar's teaching that the African heritage was a glory to be claimed and not a thing to be left behind, binding the settler and the African back into one. It drives Liberia to keep weaving the two heritages into one people, sharing the pot, the field, and the flag, until the nation is whole.

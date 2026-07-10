@@ -34,4 +34,4 @@ Rai bainhira lulik troka ba medo deit, ka bainhira nia uza atu hasai ema seluk h
 
 ## Drives
 
-Moris iha [Dom Carlos Filipe Ximenes Belo](persona_belo.md), ne'ebe sai ema-Igreja maibe hatene katak povu nia fiar tama hamutuk ho bei-ala nian, no iha [Beimalae](persona_beimalae.md), ne'ebe hatais tais ho oan-matan ne'ebe mai husi bei-ala no hatudu lulik iha liras. Nia book Timor-Leste atu sustenta nia haket ba rai no klan maski mundu li'ur troka lais.
+Moris iha ema-Igreja ne'ebe hatene katak povu nia fiar tama hamutuk ho bei-ala nian, no iha ema ne'ebe hatais tais ho oan-matan ne'ebe mai husi bei-ala no hatudu lulik iha liras. Nia book Timor-Leste atu sustenta nia haket ba rai no klan maski mundu li'ur troka lais.

@@ -34,4 +34,4 @@ An Kraft, wenn demokratische Errungenschaften als selbstverständlich hingenomme
 
 ## Drives
 
-Wird verkörpert durch das Symbol [die Hambacher Fahne](piece_hambacher_fahne.md) und lenkt das Geschichtsbewusstsein von Winzer [Jakob](persona_jakob.md) im Plot [Das Hambacher Fest 1832](plot_02_hambach_1832.md).
+Wird verkörpert durch das Symbol [die Hambacher Fahne](piece_hambacher_fahne.md) und lenkt das Geschichtsbewusstsein der Winzer im Plot [Das Hambacher Fest 1832](plot_02_hambach_1832.md).

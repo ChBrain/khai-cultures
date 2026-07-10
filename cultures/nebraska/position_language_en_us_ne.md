@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The even, plain-spoken prairie English of the Cornhusker State, the flat Midland cadence of the corn counties and the wide drawl of the Sandhills ranch. It holds the unhurried, mild diction of the grain elevator and the county fair, a level plains speech that neither the cattle lot nor the tree-planting committee hurries.
+It holds the flat, unmarked vowels of General American, pronouncing the r in every position where other English dialects drop it, and merging cot and caught into a single vowel the way most of the Midland and the West do, so a listener cannot tell the two words apart by ear alone.
 
 ## Orders
 
-Where it passes as home ground: the Sandhills ranch yard, the Nebraska City arbor plot, the Platte valley farm town, the county extension office. It orders which vowels and turns of phrase mark a speaker as of this prairie country and sets the plainness as the local measure.
+It orders a fixed subject-verb-object sentence and a single -s on the verb for the third person alone, leaving every other person and number unmarked. It orders the tense and aspect built from stacked helping verbs, has gone, is going, will go, rather than a change to the verb's own ending, and it orders the r sounded wherever it is written, never dropped as in some coastal English.
 
 ## Loses
 
-Ground to General American, the unmarked national standard the screen and the agricultural board carry, which levels the prairie cadence toward the flat national middle. The high-volume, screen-fed cattle and grain trade also crowds the slower, conservation-minded diction of the forestry office into the margin.
+It loses the distinction between cot and caught that a Bostonian or a Briton still hears as two different vowels, folding them into one. And its level, unhurried delivery loses the rising drawl of the South and the clipped rush of the Northeast alike, so that its plainness is often mistaken for having no accent at all, when it is only a quieter one.
 
 ## Drives
 
-It carries [John](persona_john.md), whose prairie cadence is the working English of the Sandhills ranch, and [Helen](persona_helen.md), whose prairie drawl holds the careful English of the windbreak conservation office. So the one prairie speech shows who turns toward the cattle production and who keeps the planted tree.
+It drives whoever grows up speaking it to trust word order and helping verbs to carry meaning, since almost nothing on the word itself marks person, tense, or mood. And it settles the voice into an even, unhurried pace that neither rises like a question nor falls like a complaint, the plain prairie delivery that lets the cattle count and the tree count get said the same steady way.

@@ -34,4 +34,4 @@ An Bindungskraft, wenn die Zersiedelung der Landschaft zunimmt oder wenn die jun
 
 ## Drives
 
-Bestimmt das Heimatgefühl im Plot [Die napoleonische Neuordnung 1806](plot_01_koenigreich_1806.md) und lenkt das Engagement von [Karl](persona_karl.md).
+Bestimmt das Heimatgefühl im Plot [Die napoleonische Neuordnung 1806](plot_01_koenigreich_1806.md) und lenkt das ehrenamtliche Engagement derer, die sich in den Vereinen für die eigene Landschaft einsetzen.

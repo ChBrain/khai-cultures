@@ -34,4 +34,4 @@ Su equilibrio cuando la especulación hotelera descontrolada sobrecarga el litor
 
 ## Drives
 
-Guía el desarrollo de puertos en el relato [La Conquista de Mallorca 1229](plot_01_conquest.md) y orienta la vigilancia de calas de [Miquel](persona_miquel.md).
+Guía el desarrollo de puertos en el relato [La Conquista de Mallorca 1229](plot_01_conquest.md) y orienta la vigilancia de calas que ejercen los pescadores de la costa.

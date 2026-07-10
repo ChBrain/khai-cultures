@@ -34,4 +34,4 @@ Ground when the heritage is spent rather than kept, the forest cut and the reef 
 
 ## Drives
 
-Lives in [the mahogany cutter](persona_the_mahogany_cutter.md), the enslaved African and the Baymen whose work in the forest made the colony and carried its first deep wound. It drives Belize to guard the forest and the reef as the whole of weh it has, and to hold the wealth and the wound of the wood in the same hand.
+Lives in the labor of the forest, the enslaved Africans and the Baymen whose work there made the colony and carried its first deep wound. It drives Belize to guard the forest and the reef as the whole of weh it has, and to hold the wealth and the wound of the wood in the same hand.

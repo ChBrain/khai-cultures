@@ -34,4 +34,4 @@ Su equilibrio cuando la salinización de las vegas fluviales y la escasez de agu
 
 ## Drives
 
-Guía la regulación de origen en el relato [La Clasificación de Rioja 1925](plot_02_classification.md) y orienta la bodega de [Gonzalo](persona_gonzalo.md).
+Guía la regulación de origen en el relato [La Clasificación de Rioja 1925](plot_02_classification.md) y orienta la bodega de los toneleros y bodegueros del valle.

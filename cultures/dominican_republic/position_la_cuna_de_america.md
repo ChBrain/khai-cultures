@@ -34,4 +34,4 @@ Terreno cuando el orgullo del primero se vuelve adorno y se olvida a los que viv
 
 ## Drives
 
-Vive en [Salomé Ureña](persona_salome_urena.md), poeta y pionera de la educación de las mujeres en la joven república, que hizo de la palabra y de la enseñanza una obra de patria. Empuja a la República Dominicana a guardar su condición de principio del continente y a sostener la tradición letrada que de ese principio nació.
+Vive en la poesía y la obra pionera de la educación de las mujeres en la joven república, que hicieron de la palabra y de la enseñanza una obra de patria. Empuja a la República Dominicana a guardar su condición de principio del continente y a sostener la tradición letrada que de ese principio nació.

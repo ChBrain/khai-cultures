@@ -34,4 +34,4 @@ Ground when the deep trust in God becomes a reason to wait where one should work
 
 ## Drives
 
-Lives in [Wole Soyinka](persona_soyinka.md), who reached past the imported faiths to the Yoruba gods, to Ogun the god of iron and the road, and made of the old cosmology a living drama. It drives Nigeria to carry God into every corner of the day, the church and the mosque and the shrine all part of one believing people, and to hold its faiths together as a blessing rather than let them be turned into a wound.
+Lives in the playwright's reach past the imported faiths to the Yoruba gods, to Ogun the god of iron and the road, making of the old cosmology a living drama on the stage. It drives Nigeria to carry God into every corner of the day, the church and the mosque and the shrine all part of one believing people, and to hold its faiths together as a blessing rather than let them be turned into a wound.

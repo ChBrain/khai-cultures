@@ -34,4 +34,4 @@ I perdi pye kan dimoun i bliye ki lanmer i kapab vid, ki pwason ek koray i kapab
 
 ## Drives
 
-I viv dan [sa peser](persona_sa_peser.md), ki son lavi antye i lo delo e ki konn son lanmer parey son prop lakour, e dan [Pierre Poivre](persona_pierre_poivre.md), ki ti travers sa menm lanmer pour vin lo bann zil vid. I pous Sesel pour viv avek son lanmer, depan lo li, e gard li vivan e prop pour bann zenerasyon ki pe vini.
+I viv dan lavi tou peser ki pas tou son letan lo delo e ki konn son lanmer parey son prop lakour, e dan tou bann premye ki ti travers sa menm lanmer pour vin fer zot lakaz lo bann zil vid. I pous Sesel pour viv avek son lanmer, depan lo li, e gard li vivan e prop pour bann zenerasyon ki pe vini.

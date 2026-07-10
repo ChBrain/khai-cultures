@@ -34,4 +34,4 @@ Terreno cuando el calor se vuelve red cerrada: cuando ampararse en los cercanos 
 
 ## Drives
 
-La vive [Carmen](persona_carmen.md), que sienta a la mesa a todo el que entra por su puerta antes de que diga que tiene prisa, y la sostiene la [sobremesa](process_la_sobremesa.md), el rato en que el vínculo se cuida sin levantarse del mantel.
+La vive quien sienta a la mesa a todo el que entra por su puerta antes de que diga que tiene prisa, y la sostiene la [sobremesa](process_la_sobremesa.md), el rato en que el vínculo se cuida sin levantarse del mantel.

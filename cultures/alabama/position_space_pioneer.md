@@ -34,4 +34,4 @@ Its balance when corporate military contracts override scientific research prior
 
 ## Drives
 
-Encourages the rocket design in the plot [The Huntsville Space Flight Center 1960](plot_02_huntsville_space.md) and guides the aerospace work of [Sarah](persona_sarah.md).
+Encourages the rocket design in the plot [The Huntsville Space Flight Center 1960](plot_02_huntsville_space.md) and guides the aerospace work of the research corridor's engineers.

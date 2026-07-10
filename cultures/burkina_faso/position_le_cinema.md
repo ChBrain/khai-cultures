@@ -34,4 +34,4 @@ Du terrain quand les moyens manquent et que la salle se vide, quand le festival 
 
 ## Drives
 
-Vit dans [Gaston Kabore](persona_kabore.md), qui a porte le cinema burkinabe et africain et fait de la camera un conteur, et dans [Victor Deme](persona_deme.md), dont la voix et la guitare ont porte au loin la chanson du pays. Elle pousse Burkina Faso a se raconter lui-meme, et a faire de l'image et du son l'or qu'il n'a pas sous terre.
+Vit partout ou la camera se fait conteur, portant le cinema burkinabe et africain vers sa propre voix, et partout ou une voix et une guitare portent au loin la chanson du pays. Elle pousse Burkina Faso a se raconter lui-meme, et a faire de l'image et du son l'or qu'il n'a pas sous terre.

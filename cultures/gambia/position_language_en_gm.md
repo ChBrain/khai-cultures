@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The authority of English as the Gambian working tongue, the language of the office, the school, the court and the newspaper, laid over Mandinka, Wolof, Fula, Jola and Serahule and shared across every people of the river. It is the one tongue that carries the nation's business end to end, the borrowed language the small land turned to its own use, in which a country of many mother tongues can address itself and be heard beyond its banks.
+What the tongue lets a speaker do that Mandinka, Wolof, Fula, Jola and Serahule each do differently: fix meaning by word order rather than by tone, since English carries no lexical tone the way these languages do, and mark definiteness with a single word, the, where some of the river's languages leave it unmarked or carry it by other means. It also hands a ready stock of technical and abstract vocabulary, for the office, the court and the school, that a mother tongue must otherwise borrow or build from scratch.
 
 ## Orders
 
-What the nation writes down and does its public business in: the record, the law, the lesson and the printed page. It orders that the affairs of the whole land pass through one working tongue, so that peoples who carry different mother tongues at home can still meet on common ground in the office and the school, and it sets, in a single language, what would otherwise be said a dozen different ways.
+A fixed subject-verb-object order, since English leans on position rather than case endings to show who does what to whom; the single pronoun you for every listener, so no daily choice of formality marks each address the way some of the river's own languages do through kin terms and titles; and a strict marking of tense and aspect through helping verbs, has done, is doing, will have done, in place of tone or affix.
 
 ## Loses
 
-Ground to the mother tongues that live in the mouth and the market, the Mandinka and the Wolof the working tongue never wholly holds, and ground again to the deep memory the jali keeps, which was never English at all. It loses, too, when the borrowed tongue of the school and the screen begins to crowd out the home languages, so that the young come to do their thinking in English and let the grandmother's speech thin away.
+The tone that carries meaning and grammar at once in Mandinka and Wolof, since a rise or fall of pitch that changes a word's sense in those tongues does nothing at all in English; the kin-based and age-based terms of address that fix respect and distance in the home languages, flattened here into one plain you; and the proverb's compressed, allusive turn of phrase, which loses its salt whenever it is carried whole into English and must be explained rather than simply heard.
 
 ## Drives
 
-It drives a small land of many peoples to hold its public life in one shared tongue. It is the mother tongue of [Edward Francis Small](persona_edward_small.md), the Bathurst man who turned the empire's own English back on it to argue the Gambian case; and it is carried, not born, by the griots [Alhaji Bai Konte](persona_bai_konte.md), [Foday Musa Suso](persona_foday_musa_suso.md), [Kebba Kanji Fofana](persona_kebba_fofana.md) and [the jali](persona_the_jali.md), who hold the deep memory in Mandinka and reach for English only to greet the stranger and cross the water. So the working tongue shows who was raised in it and who merely carries it, and binds the river's peoples without erasing the tongues they were born to.
+Speaking it trains the ear to listen for order and stress rather than for tone, since nothing in the pitch of a word changes its meaning the way it does in the languages around it. It lets the speaker address anyone, stranger or elder, without first weighing kinship or rank into the words themselves. And, for whoever learns it after a first tongue at home, it builds the constant habit of carrying a thought from a tonal, kin-marked language into one that marks neither, a daily act of translation between two different grammars of respect.

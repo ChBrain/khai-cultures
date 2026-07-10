@@ -34,4 +34,4 @@ Its balance when rapid tech accumulation drives up housing costs, displacing lon
 
 ## Drives
 
-Influences the manufacturing in the plot [The Founding of Boeing](plot_02_boeing_founding.md) and drives the software engineering of [Alan](persona_alan.md).
+Influences the manufacturing in the plot [The Founding of Boeing](plot_02_boeing_founding.md) and drives the software engineering that scales cloud architecture into the region's next growth industry.

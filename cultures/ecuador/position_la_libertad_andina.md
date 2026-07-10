@@ -34,4 +34,4 @@ Terreno cuando la epopeya de la libertad se vuelve solito bronce y desfile, reci
 
 ## Drives
 
-Vive en [Antonio José de Sucre](persona_sucre.md), el mariscal que ganó la batalla del Pichincha y selló de ley la libertad de Quito dentro del sueño bolivariano. Empuja al Ecuador a tenerse por guambra de la gran gesta andina y a medir su independencia por la república que prometió más que por la corona que rompió, pues.
+Vive en la batalla del Pichincha, que selló de ley la libertad de Quito dentro del sueño bolivariano. Empuja al Ecuador a tenerse por guambra de la gran gesta andina y a medir su independencia por la república que prometió más que por la corona que rompió, pues.

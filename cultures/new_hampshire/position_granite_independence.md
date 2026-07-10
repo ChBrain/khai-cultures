@@ -34,4 +34,4 @@ Its balance when excessive state-wide zoning mandates override town meeting deci
 
 ## Drives
 
-Guides the local organization in the plot [The First presidential Primary 1916](plot_01_first_primary.md) and drives the town moderations of [Alice](persona_alice.md).
+Guides the local organization in the plot [The First presidential Primary 1916](plot_01_first_primary.md) and drives the town moderations of the town moderator.

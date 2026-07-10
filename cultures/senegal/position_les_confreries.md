@@ -34,4 +34,4 @@ Du terrain quand l'obéissance se fait soumission aveugle, quand le ndigël du g
 
 ## Drives
 
-Vit dans [Cheikh Amadou Bamba](persona_bamba.md), fondateur du mouridisme, qui a opposé à la force coloniale la prière et le travail et fait sortir Touba du sable. Elle pousse le Sénégal à se tenir debout par la foi et la communauté plus que par l'État, et à faire de la voie spirituelle, transmise de maître à disciple, l'ossature qui résiste à tout.
+Vit dans le fondateur du mouridisme, qui a opposé à la force coloniale la prière et le travail et fait sortir Touba du sable. Elle pousse le Sénégal à se tenir debout par la foi et la communauté plus que par l'État, et à faire de la voie spirituelle, transmise de maître à disciple, l'ossature qui résiste à tout.

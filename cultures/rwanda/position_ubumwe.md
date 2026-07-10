@@ -34,4 +34,4 @@ Imbaraga iyo ubumwe buhindurwa ijambo ridakora, ivugwa kugira ngo riryohe gusa a
 
 ## Drives
 
-Ibaho muri [Cecile Kayirebwa](persona_kayirebwa.md), uririmba Ikinyarwanda rumwe rwa bose akarujyana ku isi nk'impano y'ubumwe, no muri [Intore](persona_intore.md), ubyina umubyino umwe w'igihugu hamwe na bagenzi be. Bituma u Rwanda rukomeza guhuza imisozi yarwo mu gihugu kimwe, no kongera kubaka umubano buri munsi.
+Ibaho mu muhanzi uririmba Ikinyarwanda rumwe rwa bose akarujyana ku isi nk'impano y'ubumwe, no mu Intore, ubyina umubyino umwe w'igihugu hamwe na bagenzi be. Bituma u Rwanda rukomeza guhuza imisozi yarwo mu gihugu kimwe, no kongera kubaka umubano buri munsi.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Matla a puo e kopanyang Basotho ho ba sechaba se le seng. Ha Moshoeshoe a ne a bokella ba hasaneng holim'a thaba, ke ka puo a ileng a etsa se le seng ho ba fapaneng; Morija puo ea fumana mongolo le libuka, 'me Thomas Mofolo a ngola pale ea pele ea Sesotho; mme lentsoe la eona la tsoela lefatšeng ka famo ea Puseletso Seema. Ke puo ea pitso le ea maele, ea molisana holim'a thaba le ea baholo ba fetisang bohlale ka molomo. Ho tloha molomong ho ea leqepheng le ho ea pineng, Sesotho se tšoere hore motho ke motho ka puo ea batho ba habo, hore puo e le 'ngoe ke eona e etsang Basotho ho tse fapaneng.
+Sesotho se na le tsamaiso ea mekhahlelo ea mahlomola a mangata, moo lentsoe ka leng le kenngoa sehlopheng se boletsoeng ke seqalo sa lona, batho ba le sehlopheng se seng, lintho tse ngata tsa tlholeho tse ling. Sehlopha sa lentsoe se laela seqalo sa maqhubu, sa boitšoaro, le sa lentsoe la ketso kaofela ka har'a poleloana e le 'ngoe, e leng bokhoni bo sa fumanoeng habonolo lipuong tse ling. Sesotho se boetse se na le maele a mangata le lithoko tse ngotsoeng ka mokhoa o kopaneng, moo taba e le 'ngoe e phethoang ka mantsoe a mangata a fapaneng empa a bolelang se le seng.
 
 ## Orders
 
-Hore Sesotho se buuoe, se ngoloe, se binoe 'me se bolokoe; hore Mosotho a se bone e le puo e ileng ea etsa sechaba se le seng ho ba hasaneng, a se tšoare ka boikutlo la borena le la kamohelo. Se laela hore se boloke maele le pitso le pale ea sechaba, 'me se tsamaee le ngoana ea eang kantle mme se boele, se sa khaoloe ho puo e phelang ea molomo e nang le mofuthu oa eona.
+Se laela hore lentsoe le leng le le leng le lumellane le sehlopha sa lona ha se sebelisoa poleloana, hore poleloana e 'ngoe le e 'ngoe e amohele seqalo se tšoanang le sa lentsoe seo e buang ka sona. Se laela hape hore lentsoe la ketso le tšoaroe ke lipapiso tse latellanang, sa sebui, sa nako, le sa seo se etsoang, kaofela ka har'a lentsoe le le leng feela, e leng thulaganyo e tlamang sebui ho kopanya lintlha tsohle pele a bua ketso.
 
 ## Loses
 
-Bo lahleheloa ke naha pele ho Senyesemane sa sekolo le sa toropo, moo bacha ba se buang ka bongata, ha lengolo la thuto e phahameng le kgwebo le sebelisa puo e 'ngoe. Bo lahleheloa, hape, ha se siuoa molomong feela se sa fihle leqepheng, kapa se etsoa mokhabiso o khaotsoeng ho bophelo ba letsatsi le letsatsi; 'me bo lahleheloa haholo ha maele a baholo a nyamela pelong ea ngoana ea holletseng kantle, ho fihlela setloholo se sa khone ho araba ntate-moholo, mme se seng se sa buuoang se sale moeling oa leleme.
+Bo lahleheloa ke bokhoni ba ho fana ka taba ka bokhutšoane ha thulaganyo ea likopanyo e batla mantsoe a mangata a lumellanang pele poleloana e phethoa. Bo boetse bo lahleheloa ha maele le lithoko, tse ipapisitseng le mantsoe a maleme a khale a sa tloaelehang kajeno, li sa utloisisehe ka botlalo ke ba baholo feela, 'me tlhaloso ea 'ona e fokola ha e fetisetsoa ka puo e 'ngoe.
 
 ## Drives
 
-Bo phela ho [Moshoeshoe oa Pele](persona_moshoeshoe_i.md), ea ileng a kopanya ba hasaneng ka puo mme a etsa Basotho ka eona; bo fuoa mongolo ke [Thomas Mofolo](persona_mofolo.md), ea ngotseng pale ea pele ea Sesotho a e phahamisa ho ba lengolong; bo jeoa ke [Moshoeshoe oa Bobeli](persona_moshoeshoe_ii.md), ea se buang e le puo ea botho ba hae 'me a khutlela ho sona ha a bua le sechaba sa habo le ha a tšoere Senyesemane sesebelisoa lefatšeng; bo binoa lefatšeng ke [Puseletso Seema](persona_seema.md) ea nkang molumo oa Sesotho ka famo; 'me bo phela molomong oa [Molisana](persona_molisana.md), ea se buang le likhomo holim'a thaba. Kahoo puo e le 'ngoe e bontša ea kopanyang sechaba le ea se jarang lefatšeng le ea se khutlisetsang hae.
+Se qoetlisa sebui hore a hlalanye lintho kaofela sehlopheng sa tsona pele a bua ka tsona, e leng mokhoa oa ho nka lefatše ka mekhahlelo e hlophisitsoeng. Se qoetlisa boitsebo ba ho kopanya lintlha tse ngata tsa ketso, sebui, nako le seo se etsoang, ka lentsoe le le leng, e leng ho bea kelello holim'a kopano pele ho bua. Ka hona, ea buang le ea nahanang ka Sesotho o hlahloba lefatše ka mekhahlelo, 'me o tšoara maele bakeng sa taba e kholo.

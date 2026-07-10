@@ -34,4 +34,4 @@ Terreno cuando la garra se vuelve nomás nostalgia, recuerdo de glorias viejas q
 
 ## Drives
 
-La encarna [Obdulio Varela](persona_obdulio_varela.md), el capitan del Maracanazo, que callo al Maracana entero plantandose con calma cuando todo estaba perdido. Empuja al Uruguay a creer que un país chico puede pegar por encima de su tamaño cuando se planta con temple y aguante.
+La encarna la capitania del Maracanazo, que callo al Maracana entero plantandose con calma cuando todo estaba perdido. Empuja al Uruguay a creer que un país chico puede pegar por encima de su tamaño cuando se planta con temple y aguante.

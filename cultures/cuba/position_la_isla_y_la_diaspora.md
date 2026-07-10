@@ -34,4 +34,4 @@ Terreno cuando una orilla niega a la otra el derecho a llamarse Cuba, cuando el 
 
 ## Drives
 
-La vive [Celia Cruz](persona_celia_cruz.md), la reina de la salsa que cantó desde el exilio la alegría y la nostalgia de toda la diáspora, y que no volvió a pisar la isla pero la llevó entera en la voz. Empuja a la nación a buscarse a sí misma en las dos orillas y a no dar por perdida ninguna de sus dos mitades.
+La vive la voz de la salsa que cantó desde el exilio la alegría y la nostalgia de toda la diáspora, y que nunca volvió a pisar la isla pero la llevó entera consigo. Empuja a la nación a buscarse a sí misma en las dos orillas y a no dar por perdida ninguna de sus dos mitades.

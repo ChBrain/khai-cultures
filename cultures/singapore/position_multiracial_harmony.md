@@ -34,4 +34,4 @@ Ground when the harmony is taken for a thing that takes care of itself rather th
 
 ## Drives
 
-Lives in [S. Rajaratnam](persona_rajaratnam.md), who wrote the pledge to be one people regardless of race, language, or religion; in [Kuo Pao Kun](persona_kuo_pao_kun.md), who kept the many tongues in one conversation on the stage; and in [the hawker](persona_the_hawker.md), who sets the shared table where every community eats as one, makan also together, never mind which race. It drives Singapore to guard the peace between its peoples as the first condition of its survival.
+Lives in the pledge written to be one people regardless of race, language, or religion; in the theatre that kept the many tongues in one conversation on the stage; and in the hawker centre that sets the shared table where every community eats as one, makan also together, never mind which race. It drives Singapore to guard the peace between its peoples as the first condition of its survival.

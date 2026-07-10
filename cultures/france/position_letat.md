@@ -34,4 +34,4 @@ Du terrain quand le centre etouffe la base, quand l'administration devient loint
 
 ## Drives
 
-Il vit en [Charles de Gaulle](persona_de_gaulle.md), qui incarne l'Etat jusqu'a se confondre avec la France, et il plonge ses racines dans le pouvoir absolu fonde a Versailles.
+Il vit dans la figure qui incarne l'Etat jusqu'a se confondre avec la France, et il plonge ses racines dans le pouvoir absolu fonde a Versailles.

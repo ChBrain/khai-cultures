@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The South Midland English of the Volunteer State, the melodic Southern cadence of the Nashville songwriting rooms and the slower, expressive mountain drawl of the Great Smoky ridges. It holds a warm, storytelling Upper South plainness that both the recording studio and the ranger station carry.
+It carries y'all, a true second-person plural that fills a gap General American leaves open, and fixin' to, a marker of the imminent future General American has no single word for. It holds double modals, might could, useta could, that stack degrees of possibility and past habit into one verb cluster no standard sentence can build in a single move. Its long vowels break into two-part glides, so a one-syllable word can carry the rise and fall other dialects flatten into a single beat.
 
 ## Orders
 
-Where it passes as native ground: the Nashville writers' room, the Beale Street stage, the Smoky Mountain trailhead, the Middle Tennessee utility board. It orders which turns of phrase and vowels mark a speaker as Tennessean and sets the commercial city ear against the mountain one.
+It orders the price vowel toward a single long "ah" rather than the two-part glide General American keeps, and it merges "pin" and "pen" so the short vowel before a nasal collapses to one sound where other dialects keep two. It orders a-prefixing on some verb forms, a-goin', a-comin', marking an action as ongoing in a way plain -ing alone does not stress. It orders y'all as the address for any group, so a speaker must mark plurality on you every time more than one listener is meant.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the streaming board carry, which trims the drawl off the young and stamps the mountain speech as backward. The commercial country-music register also crowds the older ranger-station and holler speech toward the margin.
+It loses the distinction other dialects keep between "pin" and "pen," so context alone must carry what the vowel no longer does. It loses its double vowels and its drawn breath when written down in standard spelling, so the page carries none of the glide the mouth makes. And it loses ground word by word to General American, the flat broadcast vowel that trims the glide off the young and marks the older cadence as backward rather than simply regional.
 
 ## Drives
 
-It carries [Jackson](persona_jackson.md), whose melodic Southern cadence is the working English of the Nashville songwriting rooms, and [Mae](persona_mae.md), whose expressive mountain drawl holds the same native tongue in the Great Smoky Mountains. So the one Tennessean speech shows who turns toward the commercial studio and who keeps the mountain ground.
+Speaking it trains the ear to stretch and glide a vowel rather than clip it, and trains the tongue to reach for y'all before English's silent gap in the second person plural. It trains the speaker to hedge certainty by stacking modals, might could, useta could, rather than choosing one flat modal and stopping. And it trains an ease with a slower cadence, one that lets a single syllable carry a small rise and fall the flatter standard passes over.

@@ -34,4 +34,4 @@ Terreno cuando lo maya se vuelve postal para el visitante en vez de pueblo con d
 
 ## Drives
 
-Vive en [Tecún Umán](persona_tecun_uman.md), el héroe k'iche' que defendió esa raíz con su vida ante el acero, y en [la tejedora maya](persona_la_tejedora_maya.md), que guarda en cada huipil la memoria del pueblo. Mueve a Guatemala a reconocerse en su raíz maya y a llevar a los hombres de maíz del olvido al centro de su propia historia.
+Vive en el héroe k'iche' que defendió esa raíz con su vida ante el acero, y en la tejedora maya, que guarda en cada huipil la memoria del pueblo. Mueve a Guatemala a reconocerse en su raíz maya y a llevar a los hombres de maíz del olvido al centro de su propia historia.

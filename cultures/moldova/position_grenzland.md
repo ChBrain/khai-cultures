@@ -34,4 +34,4 @@ Din coeziune atunci când divizarea țării (ca în Transnistria) este consolida
 
 ## Drives
 
-Stă la baza războaielor purtate de [Ștefan cel Mare](persona_stephen.md) pentru apărarea suveranității și marchează divizarea statului în anul [1991](plot_03_independence_transnistria.md).
+Stă la baza războaielor purtate de-a lungul veacurilor de domnitorii țării pentru apărarea suveranității și marchează divizarea statului în anul [1991](plot_03_independence_transnistria.md).

@@ -34,4 +34,4 @@ Sözde durmagy we sözüň gadyryny bilmegi; şahyryň we bagşynyň mirasyny ý
 
 ## Drives
 
-[Magtymguly Pyragy](persona_magtymguly.md)da ýaşaýar, ol bölünen halka bir dil berdi, we [Kemine](persona_kemine.md)de, ol degişmäniň aşagynda hakykaty aýtdy. Ol Türkmenistany öz sözüni, dilini we şahyrlarynyň mirasyny millet binýady hökmünde saklamaga iterýär.
+şahyryň mirasynda ýaşaýar, ol bölünen halka bir dil berdi, we degişme ussatlygynda, ol hakykaty degişmäniň aşagynda aýtdy. Ol Türkmenistany öz sözüni, dilini we şahyrlarynyň mirasyny millet binýady hökmünde saklamaga iterýär.

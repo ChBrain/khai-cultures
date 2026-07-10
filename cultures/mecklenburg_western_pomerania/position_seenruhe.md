@@ -34,4 +34,4 @@ An Überzeugungskraft, wenn die Trockenlegung von Mooren die Klimabilanz verschl
 
 ## Drives
 
-Leitet die wissenschaftliche Arbeit und den Umweltschutz von Biologin [Wiebke](persona_wiebke.md) im Plot [Die Gründung der Universität Rostock 1419](plot_02_scholars_university_1419.md).
+Leitet die wissenschaftliche Arbeit und den Umweltschutz der Biologinnen und Biologen im Plot [Die Gründung der Universität Rostock 1419](plot_02_scholars_university_1419.md).

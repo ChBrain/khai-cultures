@@ -34,4 +34,4 @@ Hem lus graon taem wantok kam mo strong winim neson, taem wan man putim laen blo
 
 ## Drives
 
-Hem stap insaed long [Sir Peter Kenilorea](persona_kenilorea.md), wea leadim neson go long independens an traem blong holem wantok an neson tugeta long wanfala saet, an insaed long [Sir Baddeley Devesi](persona_devesi.md), wea kamap fastaem Governor-General an holem ples blong Kwin an blong neson olsem wanfala simbol blong evri laen tugeta. Hem pusum Solomon Aelan blong holem evri laen wanfala, an blong mekem wantok an neson stap saedbaesaed nomata olketa sometaem pull olsem tu rop.
+Hem stap insaed long fastaem praem minista, wea leadim neson go long independens an traem blong holem wantok an neson tugeta long wanfala saet, an insaed long fastaem Governor-General, wea holem ples blong Kwin an blong neson olsem wanfala simbol blong evri laen tugeta. Hem pusum Solomon Aelan blong holem evri laen wanfala, an blong mekem wantok an neson stap saedbaesaed nomata olketa sometaem pull olsem tu rop.

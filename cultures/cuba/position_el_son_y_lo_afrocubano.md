@@ -34,4 +34,4 @@ Terreno cuando lo afrocubano se reduce a espectáculo para el de fuera, despojad
 
 ## Drives
 
-La vive [Nicolás Guillén](persona_nicolas_guillen.md), el poeta nacional que hizo del son verso y cantó el mestizaje como el verdadero color cubano, y [el guajiro](persona_el_guajiro.md), el campesino del tabaco y la caña en cuya décima y cuyo tres late la raíz del son montuno. Empuja a la isla a saberse mestiza hasta el hueso y a guardar el tambor como guarda la memoria.
+La vive el verso del poeta nacional que hizo del son poesía y cantó el mestizaje como el verdadero color cubano, y el campesino del tabaco y la caña en cuya décima y cuyo tres late la raíz del son montuno. Empuja a la isla a saberse mestiza hasta el hueso y a guardar el tambor como guarda la memoria.

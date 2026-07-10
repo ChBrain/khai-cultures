@@ -34,4 +34,4 @@ Du terrain quand le donner ne reçoit plus rien en retour, quand la teranga devi
 
 ## Drives
 
-Vit dans [Youssou N'Dour](persona_ndour.md), qui porte la chaleur et le nom du pays sur les scènes du monde, et dans [le griot](persona_le_griot.md), gardien de la parole donnée et de l'honneur des familles. Elle pousse le Sénégal à se définir par l'accueil plutôt que par la frontière, et à faire de l'hospitalité, plus que d'aucune richesse, sa fierté devant le monde.
+Vit dans le musicien, qui porte la chaleur et le nom du pays sur les scènes du monde, et dans le griot, gardien de la parole donnée et de l'honneur des familles. Elle pousse le Sénégal à se définir par l'accueil plutôt que par la frontière, et à faire de l'hospitalité, plus que d'aucune richesse, sa fierté devant le monde.

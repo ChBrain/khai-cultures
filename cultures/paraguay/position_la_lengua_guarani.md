@@ -34,4 +34,4 @@ Terreno cuando el guaraní queda relegado a lengua de casa y del mboriahu, sin l
 
 ## Drives
 
-La encarna [Augusto Roa Bastos](persona_roa_bastos.md), el novelista que llevó las dos lenguas a la gran literatura y fue la conciencia bilingüe del país, y [la residenta](persona_la_residenta.md) anga, la mujer que tras la guerra rehízo la nación y le pasó a sus hijos, en guaraní, la lengua que sobrevivió. Empuja al Paraguay a seguir pensando en dos lenguas sin soltar ninguna, che ra'a.
+La encarna el novelista que llevó las dos lenguas a la gran literatura y fue la conciencia bilingüe del país, y la residenta anga, la mujer que tras la guerra rehízo la nación y le pasó a sus hijos, en guaraní, la lengua que sobrevivió. Empuja al Paraguay a seguir pensando en dos lenguas sin soltar ninguna, che ra'a.

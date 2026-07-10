@@ -34,4 +34,4 @@ Su equilibrio cuando la despoblación total de los municipios serranos y el aban
 
 ## Drives
 
-Guía el desarrollo del scriptorium en el relato [Las Glosas Emilianenses X](plot_01_glosses.md) y orienta la cooperativa de [Olaya](persona_olaya.md).
+Guía el desarrollo del scriptorium en el relato [Las Glosas Emilianenses X](plot_01_glosses.md) y orienta la cooperativa de sus gestoras agrícolas.

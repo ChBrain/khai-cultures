@@ -34,4 +34,4 @@ An Überzeugungskraft, wenn Sturheit den notwendigen Fortschritt behindert oder 
 
 ## Drives
 
-Bestimmt den regionalen Eigensinn im Plot [Das Ende des Welfenreichs 1866](plot_01_welfen_1866.md) und leitet das Verhalten von Landwirt [Gerhard](persona_gerhard.md).
+Bestimmt den regionalen Eigensinn im Plot [Das Ende des Welfenreichs 1866](plot_01_welfen_1866.md) und leitet das Verhalten der Landwirte.

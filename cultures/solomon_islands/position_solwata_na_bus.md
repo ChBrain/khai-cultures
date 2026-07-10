@@ -34,4 +34,4 @@ Hem lus graon taem solwata pipol an bus pipol no moa tredem an no moa nidim each
 
 ## Drives
 
-Hem stap insaed long [man blong seleni](persona_man_blong_seleni.md), wea long Langa Langa wakem tafuliae wetem han blong hem, an insaed long [man blong fising](persona_man_blong_fising.md), wea go long lagun blong kasem fis an save evri ples insaed long rif. Hem pusum Solomon Aelan blong holem disfala olfala divaid an disfala olfala join, solwata an bus, wea givim aelan ia kaikai an seleni an wanfala wei blong joinim olketa man wea no semsem.
+Hem stap insaed long man blong seleni, wea long Langa Langa wakem tafuliae wetem han blong hem, an insaed long man blong fising, wea go long lagun blong kasem fis an save evri ples insaed long rif. Hem pusum Solomon Aelan blong holem disfala olfala divaid an disfala olfala join, solwata an bus, wea givim aelan ia kaikai an seleni an wanfala wei blong joinim olketa man wea no semsem.

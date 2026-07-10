@@ -34,4 +34,4 @@ Its balance when corporate downsizing closes local chemical factories, causing e
 
 ## Drives
 
-Guides the R&D design in the plot [The Edison Labs at Menlo Park 1876](plot_01_menlo_park.md) and drives the diner management of [Tony](persona_tony.md).
+Guides the R&D design in the plot [The Edison Labs at Menlo Park 1876](plot_01_menlo_park.md) and drives the diner management of the diner owner.

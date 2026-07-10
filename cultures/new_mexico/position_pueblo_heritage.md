@@ -34,4 +34,4 @@ Its balance when commercial real-estate gentrification consolidates ancestral la
 
 ## Drives
 
-Guides the local community planning in the plot [The Pueblo Revolt 1680](plot_01_pueblo_revolt.md) and drives the pottery creation of [Lupita](persona_lupita.md).
+Guides the local community planning in the plot [The Pueblo Revolt 1680](plot_01_pueblo_revolt.md) and drives the pottery creation of the potter.

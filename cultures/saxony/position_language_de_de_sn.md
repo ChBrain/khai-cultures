@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Stimme des sächsischen Deutsch, der Meissner Dialekt und der Dresdner Klang, wie er im Freistaat gesprochen wird. Es hält den vertrauten Tonfall der Region, das weiche, gedehnte Sächsisch, das zwischen Erzgebirge und Elbtal daheim ist und den Menschen als Heimat im Mund liegt.
+Das Sächsische hält im Wortschatz und im Klang die Nähe zu jenem meißnischen Kanzleideutsch, das einst mit zur Grundlage der neuhochdeutschen Schriftsprache wurde, als Luther sich an der sächsischen Kanzleisprache orientierte; es trägt einen singenden, gedehnten Tonfall, der Vokale in die Länge zieht, wo das Hochdeutsche kürzt.
 
 ## Orders
 
-Was in Sachsen als heimische Rede gilt, der Klang am Küchentisch, in der Werkstatt und auf dem Markt. Es ordnet, wie man einander grüsst und neckt, und hält die Nähe, die der Dialekt zwischen den Sachsen stiftet.
+Es verlangt die charakteristische Lenisierung der Verschlusslaute, sodass p, t, k im gesprochenen Sächsisch dem Ohr eher wie b, d, g klingen, eine Verschiebung, die jedes Wort betrifft und nicht nur einzelne. Es verlangt zudem den gedehnten, melodischen Tonfall, der Betonung und Länge anders verteilt als das geschriebene Hochdeutsch, sodass ein Satz im Sächsischen eine eigene Melodie trägt, die die Schrift nicht festhält.
 
 ## Loses
 
-Boden an das Hochdeutsch der Schrift und des Rundfunks, das den Dialekt aus Akte und Amt verdrängt. Es verliert auch an den Spott, der das Sächsische seit je als unfeine Mundart abtut, und an die englischen Fachbegriffe der Chipindustrie, die den alten Klang der Werkstatt überlagern.
+Es verliert die Schärfe der stimmlosen Verschlusslaute, die das Hochdeutsche noch trennt und die im sächsischen Mund zur stimmhaften Form hin abgeschliffen wird, sodass eine Unterscheidung, die die Schrift macht, im gesprochenen Klang zusammenfällt. Es verliert an Boden gegenüber der geschriebenen Hochsprache und, in der Werkstatt der Gegenwart, an den englischen Fachwörtern, die dem alten Klang fremd bleiben.
 
 ## Drives
 
-Es treibt Sachsen, am eigenen Ton festzuhalten, auch wo die Schrift ihn nicht kennt. Es trägt die vertraute Muttersprache des Porzellanmalers [Günter](persona_guenter.md), in der er spricht, hört und denkt; und es dient der Ingenieurin [Peggy](persona_peggy.md) als selbstverständlicher Grund, auf dem sie ihre fachliche Abstimmung führt, ehe sie ins übergezogene Englisch wechselt. So macht der eine Klang sichtbar, wer ihn hält.
+Es gewöhnt den, der darin aufwächst, die weichen, abgeschliffenen Verschlusslaute und den gedehnten Tonfall als die eigene, selbstverständliche Sprache zu hören, obwohl gerade dieser Klang einst mit zur Grundlage der heutigen Schriftsprache wurde. Es schult ihn, zwischen dem eigenen, singenden Ton der Heimat und der schärfer geschnittenen Hochsprache der Schrift zu wechseln, ohne dass der eine Klang für ihn geringer gilt als der andere.

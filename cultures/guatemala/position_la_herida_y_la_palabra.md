@@ -34,4 +34,4 @@ Terreno cuando la herida se calla por vergüenza o por miedo, y el silencio se c
 
 ## Drives
 
-Vive en [Miguel Ángel Asturias](persona_asturias.md), que dio a la nación en su lengua la novela del maíz y de su tiempo, y en [el Hermano Pedro](persona_hermano_pedro.md), cuya caridad y cuya fe acompañaron la herida de la Antigua colonial. Mueve a Guatemala a nombrar su dolor con palabra serena y a curarlo sin negarlo.
+Vive en el novelista que dio a la nación en su lengua la novela del maíz y de su tiempo, y en el hermano religioso cuya caridad y cuya fe acompañaron la herida de la Antigua colonial. Mueve a Guatemala a nombrar su dolor con palabra serena y a curarlo sin negarlo.

@@ -34,4 +34,4 @@ Ground when "she'll be right" slides from confidence into complacency, the make-
 
 ## Drives
 
-Lives in [Sir Edmund Hillary](persona_hillary.md), the beekeeper who climbed the highest mountain on earth and shrugged that he had knocked the bastard off, and reaches back to [Kupe](persona_kupe.md), the navigator who found a land no instrument could have shown him. It drives Aotearoa New Zealand to make do, make new, and trust its own hands at the far edge of the world.
+Lives in the beekeeper who climbed the highest mountain on earth and shrugged that he had knocked the bastard off, and reaches back to the navigator who found a land no instrument could have shown him. It drives Aotearoa New Zealand to make do, make new, and trust its own hands at the far edge of the world.

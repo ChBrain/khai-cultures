@@ -34,4 +34,4 @@ Du terrain quand la royaute n'est plus qu'un decor pour visiteurs, coupee du sen
 
 ## Drives
 
-Vit dans [Ghezo](persona_ghezo.md), l'un des grands rois batisseurs d'Abomey, et dans [le tisserand d'appliques](persona_le_tisserand.md), l'artisan qui coud encore les emblemes du royaume. Elle pousse le Benin a tenir droite la fierte d'avoir eu ses rois, et a garder vivante, sans la salir ni la farder, la memoire de la cite royale.
+Elle vit dans les grands rois batisseurs qui eleverent Abomey, et dans l'artisan qui coud encore aujourd'hui les emblemes du royaume. Elle pousse le Benin a tenir droite la fierte d'avoir eu ses rois, et a garder vivante, sans la salir ni la farder, la memoire de la cite royale.

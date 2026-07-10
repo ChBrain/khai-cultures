@@ -34,4 +34,4 @@ Tanah ketika Pancasila hanya dihafal sebagai semboyan dan tidak dihidupi sebagai
 
 ## Drives
 
-Hidup dalam [Sukarno](persona_sukarno.md), yang merumuskan kelima sila sebagai dasar bersama bagi bangsa yang baru, dan dalam [Pramoedya Ananta Toer](persona_pramoedya.md), yang dalam karyanya menimbang janji kemanusiaan dan keadilan terhadap kenyataan. Pancasila mendorong Indonesia untuk terus mengukur dirinya pada cita-cita yang diletakkannya sendiri.
+Hidup dalam perumusan kelima sila sebagai dasar bersama bagi bangsa yang baru, dan dalam karya sastra yang menimbang janji kemanusiaan dan keadilan terhadap kenyataan. Pancasila mendorong Indonesia untuk terus mengukur dirinya pada cita-cita yang diletakkannya sendiri.

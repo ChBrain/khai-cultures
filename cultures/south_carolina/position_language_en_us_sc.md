@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Lowcountry English of the Palmetto State, the formal Charleston Southern cadence of the historic port and the melodic Gullah Lowcountry speech of the Mt. Pleasant marsh communities, the English carried on the West African rhythm of the sea-island descendants. It holds a slow, coastal Southern gentility that both the restoration site and the sweetgrass bench carry.
+The Lowcountry holds two grammars inside one English: the Charleston brogue's long, unglided vowel, where the rest of American English breaks a long i into two sounds, the peninsula holds it level and soft, and Gullah's stock of preverbal markers, duh for an action still going, done for one already finished (e done gone), that carry time without ever changing the verb's ending. It keeps, too, a store of words carried straight from West African languages, gumbo, goober, juke, cooter, that name Lowcountry things no mainland word replaces.
 
 ## Orders
 
-Where it passes as native ground: the Charleston preservation site, the historic-district board, the Mt. Pleasant basket stand, the salt-marsh landing. It orders which turns of phrase and vowels mark a speaker as Lowcountry and sets the formal Charleston ear against the Gullah sea-island one.
+Gullah requires a small marker to sit before the verb rather than a change to it, so a speaker must choose duh or done before the verb is even spoken, and it drops the copula, is or are, wherever standard English would insist on it. The Charleston register runs the other way, requiring the softened vowel and the dropped final r that together mark a speaker as native to the old port rather than to anywhere else.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the tourism board carry, which trims the drawl off the young and stamps the melodic Gullah speech as merely dialect. The corporate resort-development register also crowds the older sea-island talk toward the margin.
+Outside the Lowcountry, the dropped copula and the preverbal markers get heard as mistakes in English rather than as the working rules of a separate creole grammar, so Gullah gets stamped merely broken instead of named as its own system. The West African vocabulary shrinks as the tourism economy replaces the sea island life that needed those exact words, and the Charleston brogue itself flattens under the level national broadcast vowel that treats every long i the same.
 
 ## Drives
 
-It carries [Charlotte](persona_charlotte.md), whose formal Southern cadence is the working English of the Charleston restoration sites, and [Elijah](persona_elijah.md), whose melodic Gullah Lowcountry cadence holds the English of the Mt. Pleasant sweetgrass benches. So the one Lowcountry speech shows who keeps the masonry ground and who keeps the sea-island one.
+It trains the Gullah speaker to carry time in a short word placed before the verb rather than in the verb's own ending, and it keeps alive, in daily speech, exact names for plants, foods and creatures the mainland tongue never needed and so never made. It holds the Charleston ear to an unhurried, unglided vowel that marks belonging to the old port the moment the mouth opens.

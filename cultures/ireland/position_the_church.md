@@ -34,4 +34,4 @@ Ground, and fast and far, to the abuse scandals and to a secular, prosperous age
 
 ## Drives
 
-It lives in [Mary](persona_mary.md), who keeps the faith and the rosary and the others falling away around her, and it drives Ireland's long reckoning with a Church that made it and then went and failed it.
+It lives in the believer who keeps the faith and the rosary as others fall away around her, and it drives Ireland's long reckoning with a Church that made it and then went and failed it.

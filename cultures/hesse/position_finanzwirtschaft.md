@@ -34,4 +34,4 @@ An Vertrauen, wenn spekulative Krisen die Realwirtschaft schädigen oder wenn Mi
 
 ## Drives
 
-Lenkt die berufliche Tätigkeit von [Steffi](persona_steffi.md) und treibt die Stadtentwicklung im Plot [Der Aufstieg zum Finanzplatz Frankfurt ab 1948](plot_03_finance_hub.md) voran.
+Lenkt die berufliche Tätigkeit der Finanzanalysten und treibt die Stadtentwicklung im Plot [Der Aufstieg zum Finanzplatz Frankfurt ab 1948](plot_03_finance_hub.md) voran.

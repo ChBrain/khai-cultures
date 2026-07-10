@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Limba română, o limbă romanică născută din latina coloniștilor lui Traian, rămasă o insulă latină într-o mare de slavi și de unguri. A trăit veacuri fără să se vadă pe sine ca atare: se scria cu litere chirilice, iar limba bisericii și a cancelariilor era slavona. Abia în veacul al nouăsprezecelea cărturarii i-au lepădat chirilicele și i-au dat litere latine, ca să arate negru pe alb că e o limbă a Romei, nu a Răsăritului. Pe cei mai apropiați de sânge, italiana și franceza, îi simte ca pe niște veri, deși îi despart țări întregi de slavi.
+Cazul gramatical păstrat pe substantiv, singura limbă romanică ce mai ține genitiv-dativul deosebit de nominativ-acuzativ, urmă de latină pe care surorile ei apusene au pierdut-o de mult; genul neutru, al treilea alături de masculin și feminin, purtându-se ca masculin la singular și ca feminin la plural, ambiguitate pe care nicio altă limbă romanică n-o cunoaște; și articolul hotărât lipit la coada cuvântului (lup, lupul), nu înaintea lui ca la frații ei latini, moștenire de la vecinii slavi și balcanici.
 
 ## Orders
 
-Că se vorbește și se scrie românește cu litere latine, ca dovadă vie a obârșiei romane; că limba e ținută drept blazon al neamului și hotarul lui adevărat, mai sigur decât orice graniță; și că neamul se cunoaște pe sine ca latin tocmai prin graiul pe care îl înțeleg verii din Apus, nu vecinii din jur.
+Că substantivul poartă la coadă articolul hotărât, nu înainte, lucru pe care franceza sau italiana nu-l cer; că fiecare lucru fără suflet trebuie așezat într-un gen, masculin, feminin sau neutru, iar cel neutru cere ca vorbitorul să-l simtă masculin când e unul singur și feminin când sunt mai multe; și că urmele cazurilor cer o formă aparte pentru genitiv-dativ, deosebită de forma simplă a subiectului.
 
 ## Loses
 
-Pierde teren azi în fața englezei muncii și a lumii online, și în fața italienei și spaniolei printre care trăiesc milioanele de români plecați; chiar limbile-verișoare, fiindcă sunt atât de aproape, înghit pe nesimțite româna celor de departe, din neam în neam.
+Cazurile pe care latina le avea din plin și pe care doar urme le mai țin în română, cele mai multe fiind purtate azi de prepoziții, ca la surorile ei apusene; ușurința celui venit dinspre alte limbi romanice, care se poticnește în genul neutru și în articolul lipit la coadă, forme pe care nici franceza, nici spaniola nu i le pregătesc; și, pentru cei plecați, cuvântul potrivit atunci când mintea gândește pe jumătate în italiană sau spaniolă și română nu mai vine primă la gură.
 
 ## Drives
 
-Trăiește în oricine o poartă drept limbă mamă. [Eminescu](persona_eminescu.md) a ridicat-o la culmea ei și i-a dat litere latine; [Mihai Viteazul](persona_mihai_viteazul.md) unește neamul pe care graiul latin îl face unul, deși îl cârmuiește în limbile altora; [Brâncuși](persona_brancusi.md) și-o ține de rădăcină din satul de sub munte în tot Apusul latin pe care îl cucerește; [Maria](persona_maria.md) o ține întreagă cu doina și rugăciunea, în vreme ce copiii îi pleacă; iar lui [Andrei](persona_andrei.md) i se subțiază între engleza lucrului și italiana verilor printre care a plecat. Mână România să se țină de limba latină ca de dovada că neamul e al ei și că obârșia lui e la Roma, nu în Răsărit.
+Împinge pe cel ce gândește în ea să simtă genul neutru fără să-l poată numi dintr-o dată, ci schimbându-l după număr; îl obișnuiește să lipească hotărârea de coada cuvântului, nu s-o pună înainte cum fac verii apuseni; și îl ține atent la urma cazului, chiar redusă, ca la o osatură latină ce nu s-a pierdut de tot sub greutatea vecinilor slavi. Așa arată limba, în chiar temelia ei, o insulă latină care n-a uitat de unde vine, dar nici n-a rămas neatinsă de cei din jur.

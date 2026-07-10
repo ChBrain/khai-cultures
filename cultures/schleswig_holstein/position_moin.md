@@ -33,4 +33,4 @@ An Boden, wo aus der Knappheit Kälte wird und der kurze Gruss die Tür verschli
 
 ## Drives
 
-Es trägt [Artelt](persona_artelt.md), für den vor der Maschine keiner mehr gilt als der andere, und [Merle](persona_merle.md), die jeden gleich grüsst und damit Knappheit und offene Tür zugleich meint.
+Es trägt jeden, der an der Maschine steht und für den keiner mehr gilt als der andere, und jeden, der jeden gleich grüsst und damit Knappheit und offene Tür zugleich meint.

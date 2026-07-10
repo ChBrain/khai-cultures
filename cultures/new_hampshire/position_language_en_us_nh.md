@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The clipped New England speech of the Granite State, the dropped "r" and broad vowel of the northern valleys and the spare, plain-spoken diction of the town meeting. It holds the reserved, understated cadence of the White Mountain sugarhouse and the moderator's floor, a Yankee English that says little and means it, shaped by long winters and local liberties.
+New England speech keeps the broad "a" that most American English lost, so aunt, bath, and glass take the low, open vowel closer to father than to trap, an old feature British and New England speech still share against the rest of the country. It holds "wicked" as a bare intensifier, wicked good, wicked cold, and a stock of local nouns, tonic for soda, rotary for a traffic circle, that carry meaning General American needs a whole phrase to match. Its postvocalic r-dropping lets a single vowel carry information a fully rhotic dialect spreads across two sounds.
 
 ## Orders
 
-Where it passes as home ground: the Plymouth town meeting, the White Mountain sugarhouse, the Mount Washington cog station, the granite-quarry work yard. It orders which vowels and turns of phrase mark a speaker as of this granite country and sets the reserved Yankee register as the local measure.
+Where the dialect is fully non-rhotic, every r after a vowel and before a consonant or pause is dropped without exception, cah for car, and a linking r is inserted before a following vowel whether historically there or not, so idea becomes "idea-r-of it." Standard English grammar still forces every verb to carry tense and every clause a stated subject. The broad "a" class is not a matter of choice either, once a word falls in the bath set the open vowel is obligatory for that speaker.
 
 ## Loses
 
-Ground to General American, the unmarked national standard the screen and the tourism board carry, which levels the dropped "r" and broad vowels toward the neutral national middle. The fast, technology-oriented talk of the railway and resort trade also crowds the slow, tradition-bound diction of the town moderator into the margin.
+Dropping the r merges pairs that a rhotic ear keeps apart, so cah can mean car and the sound alone gives no way to add the r back without context. The broad "a" comes at the cost of the trap-bath split other American dialects never make, flattening a class of words other regions pronounce two different ways into New England's one. And the reserved, spare delivery that is the dialect's own style loses the expressive latitude a more animated regional English allows, understatement bought at the price of range.
 
 ## Drives
 
-It carries [Robert](persona_robert.md), whose New England cadence is the working English of the mountain railway, and [Alice](persona_alice.md), whose warm drawl holds the careful English of the maple sugarhouse and the town meeting. So the one granite speech shows who turns toward the alpine tourism and who keeps the moderator's floor.
+It trains a habit of saying little and trusting the listener to fill in the rest, since the dialect's own economy rewards the fewest words that will do. It builds an ear tuned to r-dropping and r-insertion as a single automatic reflex rather than two separate choices. And it leaves whoever speaks it comfortable holding a vowel back rather than reaching for the fuller, more rhotic delivery that dominates the vowel systems around it.

@@ -34,4 +34,4 @@ Its balance when modern real-estate development consolidates family farmland, di
 
 ## Drives
 
-Guides the local community planning in the plot [The Mormon Pioneer Arrival 1847](plot_01_pioneer_arrival.md) and drives the orchard work of [Martha](persona_martha.md).
+Guides the local community planning in the plot [The Mormon Pioneer Arrival 1847](plot_01_pioneer_arrival.md) and drives the orchard keeper's work of tending the family's trees.

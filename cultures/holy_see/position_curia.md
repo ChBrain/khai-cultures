@@ -34,4 +34,4 @@ Efficaciam si burocraticum impedimentum negotia tardat aut si discordiae interna
 
 ## Drives
 
-Oritur ex saeculari administratione in Plot [Donatio Pipini 754](plot_02_pipinus_754.md) et regulat laborem intellectualem [Maria](persona_maria.md).
+Oritur ex saeculari administratione in Plot [Donatio Pipini 754](plot_02_pipinus_754.md) et regulat laborem intellectualem tabulariorum.

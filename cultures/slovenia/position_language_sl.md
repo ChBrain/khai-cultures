@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Slovenščina, majhen južnoslovanski jezik kakih dveh milijonov govorcev, ki edini med velikimi ohranja redko slovnično dvojino, "midva", "midve", in premore izredno bogastvo narečij od vasi do vasi. Stoletja je živela kot reč kmečkega ljudstva pod nemškimi gospodi, dokler ji reformacija ni dala črk: Trubar ji je leta 1550 natisnil prvi knjigi in iz neslišane reči naredil knjižni jezik, Prešeren pa jo je dvignil v veliko liriko. Ko narod ni imel države, je bil njegova domovina prav jezik, knjiga in pesem.
+Slovenščina ohranja dvojino, slovnično število za natanko dva, ki ga je večina sorodnih slovanskih jezikov opustila: vsak samostalnik, zaimek in glagol lahko označi ne le eno stvar in ne že mnogo, temveč natanko dve (midva, midve, sva). Ima šest sklonov, ki spreminjajo končnico vsake besede glede na njeno vlogo v stavku, in narečno bogastvo, ki se od vasi do vasi razlikuje v glasu in besedi bolj, kot marsikatera velika reč razlikuje med celimi pokrajinami.
 
 ## Orders
 
-Da se govori in piše po slovensko tudi tam, kjer je gospodovala nemščina ali italijanščina, da se reč neguje in predaja kot zgodaj iztiskana dragocenost, da se ohranja dvojina in narečna pestrost, in da se narod prepozna po jeziku in pesmi, ne po državi, ki jo je dobil nazadnje.
+Vsak samostalnik, pridevnik in glagol mora nositi eno od treh števil, ednino, dvojino ali množino, in eno od šestih sklonov, preden sploh pade prva beseda stavka; govorec mora tudi izbrati med dovršnim in nedovršnim vidom glagola, se pravi, ali dejanje vidi kot končano celoto ali kot trajajoč potek. Sklonska končnica, ne mesto besede v stavku, nosi pomen, zato lahko besedni red prosto pluje, kadar govorec želi poudariti drugo besedo.
 
 ## Loses
 
-Tla izgublja danes pred angleščino odprtega sveta, v kateri mladi delajo in živijo na zaslonih, in pred nemščino, ki je še vedno znana na severu; dvojina in narečja se tanjšajo, kar je nekoč sledilo hrvaškim sorodnikom z juga, pa bledi, in slovenščina izseljencev se po svetu redči iz roda v rod.
+Dvojina je krhka: v sproščenem mestnem govoru se krči proti množini, in jezik tako izgublja prav tisto, po čemer je med sorodnimi jeziki najbolj svoj. Narečna pestrost se pod knjižnim jezikom in zaslonom izravnava, drobne razlike med dolinami bledijo, in majhnost jezika ga v strokah, kot sta tehnika in posel, sili k izposojanju iz angleščine ali nemščine, kjer domača beseda še ne obstaja.
 
 ## Drives
 
-Živi v [Trubarju](persona_trubar.md), ki je reči dal črke in narodu glas, v [Prešernu](persona_preseren.md), ki jo je majhno in brez države dvignil med velike, in v [Janši](persona_jansa.md), ki je v domači reči poznal svet panja, čeprav je učil cesarstvo v tujem jeziku. Živi tudi v [Mariji](persona_marija.md), ki drži svojo reč in njeno dvojino celo, in v [Luki](persona_luka.md), čigar slovenščina se tanjša med angleščino in nemščino njegovega zahodnega življenja. Žene Slovenijo, da se drži zgodaj iztiskane reči z njeno dvojino kot dokaza, da je narod svoj, čeprav je državo dobil nazadnje.
+Vzgaja navado, da govorec pri vsaki stvari pretehta, ali gre natanko za dve ali za več, razlika, ki jo mnogi jeziki zbrišejo v isto množinsko obliko, in mu s sklonskimi končnicami dovoljuje prosto premikati besede v stavku, ne da bi izgubil pomen. Drobna narečna razlika od vasi do vasi vceplja govorcu občutek, da domačnost meri na majhen kraj, ne na širšo deželo, in ga navaja poslušati konec besede, ne njeno mesto, če hoče uloviti pomen.

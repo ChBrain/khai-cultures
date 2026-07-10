@@ -34,4 +34,4 @@ Terreno cuando la herida se vuelve puro agravio nomás y no causa común, cuando
 
 ## Drives
 
-La encarna [Juana Azurduy](persona_juana_azurduy.md), la heroína mestiza que combatió por la patria que después perdería su costa; y se abre en [la Independencia y la República](plot_03_la_independencia_y_la_republica.md), cuando la nación que tomó el nombre de Bolívar quedó, andando el tiempo, sin mar nomás.
+La encarna la heroína mestiza que combatió por la patria que después perdería su costa; y se abre en [la Independencia y la República](plot_03_la_independencia_y_la_republica.md), cuando la nación que tomó el nombre de Bolívar quedó, andando el tiempo, sin mar nomás.

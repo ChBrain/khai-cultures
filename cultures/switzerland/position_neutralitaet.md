@@ -34,4 +34,4 @@ An Haltung, wo aus der Neutralität Gleichgültigkeit oder ein Geschäft mit all
 
 ## Drives
 
-Sie wird zur Berufung bei [Dunant](persona_dunant.md) und dem Roten Kreuz und lebt fort in der Tradition der guten Dienste, mit der das kleine Land der Welt zwischen den Fronten dient.
+Sie wird zur Berufung beim Gründer des Roten Kreuzes und lebt fort in der Tradition der guten Dienste, mit der das kleine Land der Welt zwischen den Fronten dient.

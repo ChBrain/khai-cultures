@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The plain Midland English of the Sunflower State, the flat prairie cadence of the wheat counties and the clipped, technical diction of the Wichita aircraft floor. It holds a steady, understated plains speech that carries both the harvest and the hangar.
+English's analytic economy: it does without case endings or grammatical gender and leans instead on strict word order and a layered vocabulary drawn from Anglo-Saxon, French, and Latin roots, so one idea can be said plain or dressed. On this ground that economy carries a flat, unmarked Midland vowel, neither drawled like the diphthongs south of it nor raised like the vowels north of it, so the word sits level and reads plainly to nearly any American ear.
 
 ## Orders
 
-Where it is heard as simply local: the Salina wheat co-op, the county elevator, the Wichita factory line, the small-town church. It orders which turns of phrase pass as native prairie ground and marks the newcomer by ear.
+Word order to carry the grammar an ending would carry elsewhere, subject before verb before object, fixed and unbending, so meaning breaks if the order breaks; the verb to fix tense while marking barely any person at all, mostly the bare third-singular s; and, on this ground, the merger of the vowels in cot and caught and in pin and pen into single sounds, so the ear stops drawing a line the tongue quit drawing generations back.
 
 ## Loses
 
-Ground to General American, the unmarked national broadcast standard the screen and the aviation board carry, which sands the prairie cadence off the young and the ambitious. The technical factory register also crowds the older homestead farm speech toward the margin.
+No grammatical gender and no case ending survive into the pronoun beyond he, she, and it, and no formal second person sits beside the plain you, so nothing in the word itself marks distance or respect; aunt and stranger alike are addressed by the same bare pronoun. The flattened, merged vowel set also loses the drawled diphthong of the plains' southern neighbors and the raised front vowel of the northern cities, so a voice trained here marks a place but rarely a rank.
 
 ## Drives
 
-It carries [Henry](persona_henry.md), whose technical cadence is the working English of the Wichita hangars, and [Sarah](persona_sarah_ks.md), whose prairie cadence holds the English of the wheat counties. So the one plains speech shows who turns toward the aerospace floor and who keeps the homestead ground.
+It habituates the speaker to build meaning from position rather than form, to listen for order rather than ending, since the grammar rides in the sequence of words, not their shape. The flattened, merged vowel set trains the ear off fine distinction and toward broad, portable clarity, so a mind reared on this ground speaks a plain, exportable English that carries the same across a wheat co-op meeting and a hangar floor.

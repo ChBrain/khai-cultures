@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Il-Malti, l-uniku ilsien Semitiku - u l-uniku ilsien Afroasjatiku - tal-Unjoni Ewropea, u l-uniku ilsien Semitiku miktub bl-ittri Latini. Twieled mill-Għarbi Sqalli li ġabu l-Għarab, u tul is-sekli ċ-ċkejkna sintassi Semitika tiegħu mtliet bi kliem mislut mit-Taljan u s-Sqalli, u aktar tard mill-Ingliż. Għal żmien twil kien biss l-ilsien tal-kċina u tat-triq, filwaqt li n-nies tal-iskola kitbu bit-Taljan u l-Knisja qrat bil-Latin; imbagħad il-kittieba refgħuh għal-letteratura, u fl-1934 sar ilsien uffiċjali.
+Il-Malti biss fost l-ilsna Semitiċi jinkiteb bl-alfabett Latin, u f'kull kelma jerfa' żewġ saltniet flimkien: l-għerq ta' tliet konsonanti li mit-tradizzjoni Semitika jibni l-plural miksur billi jbiddel il-leħen ta' ġewwa aktar milli jżid tarf (ktieb/kotba, raġel/irġiel), u s-saff kbir ta' kliem Sqalli, Taljan u Ingliż mislut fuqu, li spiss jagħti żewġ ismijiet għal ħaġa waħda: wieħed Semitiku tal-kċina u wieħed Rumanz tal-uffiċċju.
 
 ## Orders
 
-Li wieħed jitkellem u jikteb bil-Malti anke fejn ħakmu t-Taljan tal-kultura u l-Ingliż tal-istat, li l-ilsien jiġi mħares u mgħoddi bħala ħaġa li ntrebħet tard, u li l-poplu jagħraf lilu nnifsu mill-ilsien tiegħu - Semitiku fil-għeruq imma Ewropew, Kattoliku u miktub bl-ittri Latini.
+Iġiegħel l-artiklu "il-" jinbidel skont l-ewwel ittra tal-kelma ta' warajh, l-hekk imsejħa "ittri xemxija" bħal fl-Għarbi (ir-raġel, mhux il-raġel), u l-verb iġorr fuqu stess is-suffiss tal-pronom tal-oġġett flimkien mal-għerq. Kull nom irid jagħżel is-sess tiegħu, u ħafna plurali jinbidlu minn ġewwa u mhux b'tarf, sistema li trid tinżamm f'moħħ ma' kull kelma.
 
 ## Loses
 
-Illum jitlef l-art quddiem l-Ingliż, ko-uffiċjali u lsien id-dinja, li jidħol fil-ħajja, fix-xogħol u fl-iskejjel sa fl-istess ġenerazzjoni żagħżugħa; l-uniku ilsien Semitiku-Latin jirqaq sewwasew waqt li l-gżira tistagħna, u kelma wara kelma Ingliża tieħu post il-kelma Maltija.
+Tilef il-vokali qosra u t-tmiem tal-każ tal-Għarbi Klassiku li kienu jimmarkaw il-funzjoni ta' kull kelma fis-sentenza, u żamm ftit biss mid-distinzjoni bejn il-konsonanti Semitiċi (bħall-ħ, miżmuma separata mill-h). Bil-kitba Latina jitlef ir-rabta mal-kitba Għarbija tradizzjonali mhux ivvokalizzata, u fejn jiltaqgħu s-saff Semitiku u dak Rumanz ħafna drabi tintilef il-kelma Semitika oriġinali favur waħda Sqallija jew Ingliża, l-iktar fost il-kliem tekniku u astratt.
 
 ## Drives
 
-Jgħix f'[Dun Karm](persona_dun_karm.md), li ta lill-ilsien il-poeżija u l-innu tan-nazzjon, u f'[Mark](persona_mark.md), li l-Malti tiegħu jirqaq taħt l-Ingliż tax-xogħol u tad-dinja. Iħeġġeġ lil Malta żżomm l-uniku ilsien Semitiku tal-Ewropa bħala prova li gżira ċkejkna hi tagħha nfisha, anke jekk hi miftuħa għad-dinja kollha.
+Iġiegħel lil min jitkellemhu jaħseb f'żewġ saltniet lingwistiċi f'daqqa: il-loġika Semitika tal-għerq u l-plural ta' ġewwa, u l-vokabularju Rumanz u Ingliż misluf għal kollox l-ieħor. Idderiġih ibiddel bejniethom kelma b'kelma skont is-suġġett, u jgħallmu jagħraf is-sess u n-numru ta' kull nom qabel ma jlissnu, aktar milli jħalli l-forma tikber ma' l-użu.

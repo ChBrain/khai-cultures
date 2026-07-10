@@ -34,4 +34,4 @@ Terreno quando a saudade se torna paralisia, quando o amor pelo passado impede d
 
 ## Drives
 
-Move [Amália](persona_amalia.md), que canta a falta como quem reza, e foi elevada a marca da alma por [Luís de Camões](persona_camoes.md), que em [Os Lusíadas](plot_02_camoes_lusiadas.md) deu nome poético à saudade da grandeza que fugia.
+Move a voz que canta a falta como quem reza, e foi elevada a marca da alma pelo poeta que em [Os Lusíadas](plot_02_camoes_lusiadas.md) deu nome poético à saudade da grandeza que fugia.

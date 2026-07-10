@@ -34,4 +34,4 @@ Its authority when bureaucracy and federal contracts distance policy decisions f
 
 ## Drives
 
-Shapes the early republic in the plot [The Virginia Dynasty 1789](plot_02_virginia_dynasty.md) and guides the policy analysis of [Sasha](persona_sasha.md).
+Shapes the early republic in the plot [The Virginia Dynasty 1789](plot_02_virginia_dynasty.md) and guides the policy analyst's reading of precedent, the constant weighing of governance against the founders' template.

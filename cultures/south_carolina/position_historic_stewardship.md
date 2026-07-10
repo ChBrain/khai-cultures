@@ -34,4 +34,4 @@ Its balance when gentrification projects restrict public beach access and overlo
 
 ## Drives
 
-Encourages the fort preservation in the plot [The Battle of Fort Sumter 1861](plot_01_fort_sumter.md) and guides the architectural work of [Charlotte](persona_charlotte.md).
+Encourages the fort preservation in the plot [The Battle of Fort Sumter 1861](plot_01_fort_sumter.md) and guides the architectural restoration work of the district's preservationists.
