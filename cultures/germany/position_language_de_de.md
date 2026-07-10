@@ -26,7 +26,7 @@ Was sich auf Deutsch sagen lässt und in mancher Nachbarsprache nur umständlich
 
 ## Orders
 
-Es zwingt, bei jedem Ding ein Geschlecht zu wählen (der, die, das) und bei jedem Satz einen der vier Fälle; es verlangt, im Nebensatz das Verb bis zuletzt zurückzuhalten und den Sinn in der Schwebe zu tragen; und es befiehlt bei jeder Anrede eine Entscheidung — Sie oder du —, sodass sich Nähe und Distanz nie umgehen lassen, sondern in jedem Wort mitgesprochen sind.
+Es zwingt, bei jedem Ding ein Geschlecht zu wählen (der, die, das) und bei jedem Satz einen der vier Fälle; es verlangt, im Nebensatz das Verb bis zuletzt zurückzuhalten und den Sinn in der Schwebe zu tragen; und es befiehlt bei jeder Anrede eine Entscheidung, Sie oder du, sodass sich Nähe und Distanz nie umgehen lassen, sondern in jedem Wort mitgesprochen sind.
 
 ## Loses
 
@@ -34,4 +34,4 @@ Die Wärme, die im streng gebauten Satz steif wird, wenn Genauigkeit vor Gefühl
 
 ## Drives
 
-Es treibt den, der in ihm denkt, den Gedanken erst ganz zu bauen und dann mit dem Verb wie einem Schlussstein zu schließen; es gewöhnt ihn, in jeder Anrede die Distanz zu bemessen, ehe er spricht; und es macht Präzision und Bau zur Gewohnheit des Denkens. So formt die eine Sprache, wer in ihr aufwächst, zu einem, der zu Ende denkt, ehe er den Mund öffnet — und der die Nähe zum andern in jedem Satz neu entscheidet.
+Es treibt den, der in ihm denkt, den Gedanken erst ganz zu bauen und dann mit dem Verb wie einem Schlussstein zu schließen; es gewöhnt ihn, in jeder Anrede die Distanz zu bemessen, ehe er spricht; und es macht Präzision und Bau zur Gewohnheit des Denkens. So formt die eine Sprache, wer in ihr aufwächst, zu einem, der zu Ende denkt, ehe er den Mund öffnet, und der die Nähe zum andern in jedem Satz neu entscheidet.
