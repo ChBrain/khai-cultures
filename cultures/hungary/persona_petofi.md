@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-A forradalom költője, vándorszínész és katona, aki huszonhat évesen, a segesvári csatában tűnt el az orosz túlerő ellen harcolva. Lánglelkű, szabad, lázadó, szlovák és szerb felmenőkből lett a magyar nyelv egyik legtisztább hangja. A magyart teljesen bírja: [beszéli](process_speaking_mother_tongue.md), [gondolkodik](process_thinking_mother_tongue.md) és [írja](process_writing_mother_tongue.md) az anyanyelvét úgy, hogy a "Nemzeti dal"-lal forradalmat gyújt. Ez az anyanyelv [a magyar nyelv](position_language_hu.md), amelynek egyik legtisztább hangja lett. A kor németjét és franciáját [eszközként hordozza](process_speaking_carried.md), és fordít belőlük, családja szláv szavát pedig maga mögött hagyja. A rokontalan nyelv épp abban talált legtisztább hangra, aki nem beleszületett, hanem sorsául választotta.
+A forradalom költője, vándorszínész és katona, aki huszonhat évesen, a segesvári csatában tűnt el az orosz túlerő ellen harcolva. Lánglelkű, szabad, lázadó, szlovák és szerb felmenőkből lett a magyar nyelv egyik legtisztább hangja. A magyart teljesen bírja: [beszéli](process_speaking_mother_tongue.md), [gondolkodik](process_thinking_mother_tongue.md) és [írja](process_writing_mother_tongue.md) az anyanyelvét úgy, hogy a "Nemzeti dal"-lal forradalmat gyújt. Ez az anyanyelv [a magyar nyelv](position_language_hu.md), amelynek egyik legtisztább hangja lett. A kor [németjét](../austria/position_language_de_at.md) és [franciáját](../france/position_language_fr_fr.md) [eszközként hordozza](process_speaking_carried.md), és fordít belőlük, családja szláv szavát pedig maga mögött hagyja. A rokontalan nyelv épp abban talált legtisztább hangra, aki nem beleszületett, hanem sorsául választotta.
 
 ## Action
 
