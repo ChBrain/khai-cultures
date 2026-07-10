@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-겨레가 전하는 첫 임금이며, 백두산 자락에서 첫 나라를 열었다고 옛이야기가 이른다. 하늘에서 내려온 이의 아들로서 곰이 사람이 된 어머니에게서 났다는 이 이야기는, 한 겨레가 같은 뿌리에서 비롯되었다는 마음을 오랜 세월 담아 왔다. 그는 글이 생기기 오래전의 사람이라, 입에서 입으로 [모어를 말하고](process_speaking_mother_tongue.md) [모어로 생각하며](process_thinking_mother_tongue.md) 이야기를 [귀로 들어](process_hearing_mother_tongue.md) 다음 사람에게 건넸다. 그 입말이 대를 이어 흐르다가, 아주 뒷날에야 글로 [받아 적혀](process_writing_drafted.md) 책에 남았다. 첫 임금의 말은 글자가 없던 시절의 것이어서, 옛이야기를 적은 이들조차 그 본래의 목소리를 그대로 옮기지는 못했으니, 혀끝의 끝에 닿지 못한 자리가 그 시원에 함께 있다.
+겨레가 전하는 첫 임금이며, 백두산 자락에서 첫 나라를 열었다고 옛이야기가 이른다. 하늘에서 내려온 이의 아들로서 곰이 사람이 된 어머니에게서 났다는 이 이야기는, 한 겨레가 같은 뿌리에서 비롯되었다는 마음을 오랜 세월 담아 왔다. 그는 글이 생기기 오래전의 사람이라, 입에서 입으로 [모어를 말하고](process_speaking_mother_tongue.md) [모어로 생각하며](process_thinking_mother_tongue.md) 이야기를 [귀로 들어](process_hearing_mother_tongue.md) 다음 사람에게 건넸다. 그 입말은 뒷날 [조선말](position_language_ko_kp.md)의 첫 뿌리가 되어, 대를 이어 흐르다가 아주 뒷날에야 글로 [받아 적혀](process_writing_drafted.md) 책에 남았다. 첫 임금의 말은 글자가 없던 시절의 것이어서, 옛이야기를 적은 이들조차 그 본래의 목소리를 그대로 옮기지는 못했으니, 혀끝의 끝에 닿지 못한 자리가 그 시원에 함께 있다.
 
 ## Action
 

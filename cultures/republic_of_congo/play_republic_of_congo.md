@@ -50,6 +50,7 @@ Une terre vieille comme les royaumes : ici regnerent le Kongo et le Loango bien 
 - [le fleuve](position_le_fleuve.md)
 - [la rumba](position_la_rumba.md)
 - [la SAPE](position_la_sape.md)
+- [le français congolais](position_language_fr_cg.md)
 
 **Pieces**
 

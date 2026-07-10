@@ -48,6 +48,7 @@ Una tierra que fue del pueblo guaraní, donde la Compañía de Jesús levantó l
 **Positions**
 
 - [la lengua guaraní](position_la_lengua_guarani.md)
+- [el castellano paraguayo](position_language_es_py.md)
 - [las reducciones](position_las_reducciones.md)
 - [la patria aislada y herida](position_la_patria_aislada_y_herida.md)
 

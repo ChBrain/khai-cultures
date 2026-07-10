@@ -50,6 +50,7 @@ stamp:
 - [الأرض والزيتون](position_alard_walzaytun.md)
 - [الذاكرة المطرزة](position_aldhakira_almutarraza.md)
 - [الصمود](position_alsumud.md)
+- [العربية الفلسطينية](position_language_ar_ps.md)
 
 **Pieces**
 

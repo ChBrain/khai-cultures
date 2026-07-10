@@ -31,7 +31,7 @@ Long ol yia bilong 1930s, ol waitman i go insait long ol Hailans na painim plant
 ## Stage
 
 - [the Highlands](place_ol_hailans.md): ol bikpela ples antap ol waitman i go insait long ol long 1930s.
-- [a thousand tongues, one country](position_planti_tok_wanpela_kantri.md): long taim bilong kontak na kolonia, askim i kamap olsem wanem dispela planti lain inap kamap wanpela.
+- [a thousand tongues, one country](position_language_tpi.md): long taim bilong kontak na kolonia, askim i kamap olsem wanem dispela planti lain inap kamap wanpela.
 
 ## Tension
 

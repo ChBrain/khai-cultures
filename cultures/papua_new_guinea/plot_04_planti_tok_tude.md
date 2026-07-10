@@ -32,7 +32,7 @@ Tude, Tok Pisin i kamap strong olsem tok bilong olgeta lain, na em i holim ol pl
 
 - [the big-man](persona_bikman.md): lida bilong ol Hailans i holim pasin bilong wantok na kastom long taim bilong tude.
 - [the Highlands](place_ol_hailans.md): ol bikpela ples i pulap long manmeri na long sing-sing.
-- [a thousand tongues, one country](position_planti_tok_wanpela_kantri.md): Tok Pisin i holim ol planti tok ples wantaim olsem wanpela kantri.
+- [a thousand tongues, one country](position_language_tpi.md): Tok Pisin i holim ol planti tok ples wantaim olsem wanpela kantri.
 
 ## Tension
 

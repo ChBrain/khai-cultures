@@ -50,6 +50,7 @@ Una tierra que fue cuna de civilizaciones milenarias y reventó en el mayor impe
 - [lo andino](position_lo_andino.md)
 - [todas las sangres](position_todas_las_sangres.md)
 - [Lima y las provincias](position_lima_y_las_provincias.md)
+- [el castellano peruano](position_language_es_pe.md)
 
 **Pieces**
 

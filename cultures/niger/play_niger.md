@@ -50,6 +50,7 @@ Un pays qui se tient entre le désert et le fleuve, et qui en a fait sa manière
 - [le désert et le nomadisme](position_le_desert.md)
 - [l'hospitalité sahélienne](position_l_hospitalite.md)
 - [la retenue et le respect](position_la_retenue.md)
+- [le français nigérien](position_language_fr_ne.md)
 
 **Pieces**
 

@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-백성을 어여삐 여겨 겨레에게 제 글자를 지어 준 임금이다. 배우지 못한 사람도 제 뜻을 적을 수 있도록, 소리를 그대로 담는 스물여덟 글자를 만들어 펴니, 그 글은 온 겨레의 것이 되었다. 학문을 깊이 사랑하여 밤늦도록 책을 [읽고 그 뜻을 따라가며](process_reading_followed.md), 조선말을 [말하고](process_speaking_mother_tongue.md) [생각하기를](process_thinking_mother_tongue.md) 제 속살처럼 하였다. 한문은 글 아는 이들의 무거운 글이라 손에 익도록 [읽었으나](process_reading_followed.md), 그가 본 것은 그 글이 보통 백성에게는 닿지 않는다는 사실이었다. 입에서는 또렷한 겨레의 말이 글에 가서는 닿지 못하던 자리, 바로 그 혀끝의 끝에 닿지 못한 빈틈을 메우려고, 그는 백성의 말을 그대로 담을 글자를 [손수 적어 지어내었다](process_writing_mother_tongue.md).
+백성을 어여삐 여겨 겨레에게 제 글자를 지어 준 임금이다. 배우지 못한 사람도 제 뜻을 적을 수 있도록, 소리를 그대로 담는 스물여덟 글자를 만들어 펴니, 그 글은 온 겨레의 것이 되었다. 학문을 깊이 사랑하여 밤늦도록 책을 [읽고 그 뜻을 따라가며](process_reading_followed.md), 조선말을 [말하고](process_speaking_mother_tongue.md) [생각하기를](process_thinking_mother_tongue.md) 제 속살처럼 하였다. 한문은 글 아는 이들의 무거운 글이라 손에 익도록 [읽었으나](process_reading_followed.md), 그가 본 것은 그 글이 보통 백성에게는 닿지 않는다는 사실이었다. 입에서는 또렷한 겨레의 말이 글에 가서는 닿지 못하던 자리, 바로 그 혀끝의 끝에 닿지 못한 빈틈을 메우려고, 그는 백성의 말을 그대로 담을 [조선말](position_language_ko_kp.md)의 글자를 [손수 적어 지어내었다](process_writing_mother_tongue.md).
 
 ## Action
 

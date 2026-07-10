@@ -50,6 +50,7 @@ This is the story of one archipelago that carry a wound deep down at its root an
 - [Hairouna and the Garifuna](position_hairouna_and_the_garifuna.md)
 - [colony to nation](position_colony_to_nation.md)
 - [the sea and the land](position_the_sea_and_the_land.md)
+- [the Vincentian tongue](position_language_en_vc.md)
 
 **Pieces**
 
