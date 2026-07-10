@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Ko te malosi o te gana Polenisia o nga motu foliki i loto o te moana Pasifika, te gana ne ave mai nga tupuna, e vavalalata mo te gana Hamoa kae e tu eiloa mo tona leo. Ko te gana e tausi ei nga tala o aso mua, te aganuu o te falekaupule, mo nga pese o te fatele. Ko ia te gana ne fakaleo ei ne [Toaripi Lauti](persona_toaripi_lauti.md) te tutoatasi o te fenua, kae e usu ei [te tino fatele](persona_te_tino_fatele.md) te alofa o te fenua ki te moana. E tausi ne ia te fua o te mea e tonu mo te mea e Tuvalu.
+Te gana Tuvalu e maua i ei se paki mua e lua mo te tino e "tatou" (e aofia ei te tino e fai atu ki ei) mo te "matou" (e se aofia ei a ia), se fakaeseesega e se maua i te gana Peletania e fakaaoga ne ia se pati e tasi mo te "we". E maua foki i ei te fakalua o se pati (fatele -> fafatele) ke fakaasi te lasi, te faifai, io me te leva o se mea, mo nga leo fakamuli penei "mai" mo "atu" e piki ki te veli ke fakaasi te alu ki fea io me te sau mai fea o se gasue.
 
 ## Orders
 
-E fakatonu me ko te gana Tuvalu ko te gana o te fenua, o te falekaupule mo te loto e tasi: ko te gana e fakatasi ei te kau matua mo te tupulaga i te fono, ko te gana e tausi ei te aganuu mo nga tala o aso mua. E fakamaopoopo te gana o te aganuu ki te gana Peletania o te malo mo te lalolagi, kae e fakaata pe ko fea te gana e tonu ke fakaaoga i te fale mo te fono o te fenua.
+E fakatonu ne te kalatia o te veli ke tu muamua i te aoga o te fuaiupu, ma se pati fakamuamua (penei "e", "ne", "ka") e piki i mua o te veli ke fakaasi te taimi mo te tulaga o te mea e fai, e se mafai o fakagata te veli ke fai fua ana. E fakatonu foki ke fili se pati mo "tatou" io me "matou" i taimi e faipati ei ki se kau, ke fakaasi ei ko oi e aofia i te fakamatalaga mo ko oi e se aofia. E fakatonu ne te fakalua o te pati ke fakaasi te lasi io me te faifai o se mea, se mea e se mafai o fakaasi ne te pati e tasi.
 
 ## Loses
 
-E galo tona koga ki te gana Peletania, te gana o te malo, o te akoga, mo te lalolagi ne fanatu ki ei nga tama o te fenua ke sala se olaga. E galo foki ki te peau: kafai e galo te laukele o Tuvalu ki lalo o te moana, e mataku me ka galo mo te gana, ona ko te gana e nofo i te laukele mo te fenua. Ko nga manatu o te aganuu, ne tausi i te leo mo te loto, e se mafai katoa ke ave atu ki se isi gana, ko te koga e tu i te tuakoi o te gana.
+E galo i te fakalua se auala ke fakaasi fua se mea e tasi mo se mea e uke, ona ko te fakalua e fakaasi katoa te lasi mo te faifai mo te leva, e se fakaeseese. E galo foki i te paki "tatou/matou" se auala fakafuaiupu e tasi mo te "we" o nisi gana e mafai o fakaasi fua se kau tino, e sese te pati kafai e se sao te aofia io me te se aofia. Ko nga leo fakamuli "mai" mo "atu" e se mafai o ave fakatasi ki se gana e seai sena mea talitutusa, ko te koga e tu i te tuakoi o te gana.
 
 ## Drives
 
-E uu ne ia a Tuvalu ke iloa ne ia a ia eiloa i tona gana o nga tupuna, i te taimi e sala ei se auala ke tumau te fenua. E ave ne ia te tutoatasi ne fakaleo ne [Toaripi Lauti](persona_toaripi_lauti.md), te leo malosi ne fai ne [Enele Sopoaga](persona_enele_sopoaga.md) ki nga fono o te lalolagi, te manatu fou ne folafola ne [Simon Kofe](persona_simon_kofe.md) ki te fenua fakatekinolosi, te poto o aso mua e tausi ne [te toeaina](persona_te_toeaina.md) i te falekaupule, mo te alofa o te fenua e usu ne [te tino fatele](persona_te_tino_fatele.md). E fakaata ne te gana e tasi te kau e ave ne ia, mo te koga e se oko atu ei te leo.
+E fakamasani ne te fili mo "tatou" io me "matou" i so se taimi e faipati ei se tino, ke iloa muamua ne ia po ko oi e aofia i tena pati i mua o te fai atu. E fakamasani foki ne te veli e tu i mua o te fuaiupu, mo te pati fakamuamua e piki i ei, ke logo muamua te tino i te taimi mo te tulaga o te mea e fai, kae mulimuli ei ki te mea tonu e fai. E fakamasani ne te fakalua o te pati ke iloa te lasi io me te faifai i te fuaiupu, se mea e ave ne te tino tenei ki tena gasuegasue mo tena kilokilo ki tena si nuku.

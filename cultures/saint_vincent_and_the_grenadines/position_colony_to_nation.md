@@ -34,4 +34,4 @@ Ground when the road get take for granted, the struggle of the labour men and th
 
 ## Drives
 
-Lives in [Ebenezer Joshua](persona_ebenezer_joshua.md), the labour leader and people's champion who give the worker a voice, and in [Milton Cato](persona_milton_cato.md), the father of independence and the nation first Prime Minister, who carry the country across to nationhood in 1979. It drive Saint Vincent and the Grenadines to honour the road it walk and to answer the charge of standing on its own.
+Lives in the labour leader and people's champion who give the worker a voice, and in the father of independence and the nation first Prime Minister, who carry the country across to nationhood in 1979. It drive Saint Vincent and the Grenadines to honour the road it walk and to answer the charge of standing on its own.

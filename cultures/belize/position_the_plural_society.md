@@ -34,4 +34,4 @@ Ground when the old hierarchy hardens back, when one people's Belize is taken fo
 
 ## Drives
 
-Lives in [Thomas Vincent Ramos](persona_thomas_vincent_ramos.md), who gave the Garifuna a day of arrival and remembrance and taught a people to be seen in the whole, and in [Zee Edgell](persona_zee_edgell.md), whose novels gave the plural nation a voice and held its many lives pan one page. It drives Belize to keep being the place where all a we are one without ceasing to be many.
+Lives in the founding of a day of arrival and remembrance that gave the Garifuna their place and taught a people to be seen in the whole, and in the novels that gave the plural nation a voice and held its many lives pan one page. It drives Belize to keep being the place where all a we are one without ceasing to be many.

@@ -34,4 +34,4 @@ Nawawalan ng lupa kapag ang pakikisama ay nauuwi sa pagtitiis na lamang, kapag a
 
 ## Drives
 
-Nabubuhay kay [Jose Rizal](persona_rizal.md), na sa pamamagitan ng panulat ay ginising ang damdamin ng isang bayan na hindi pa alam na bayan pala, at kay [Andres Bonifacio](persona_bonifacio.md), na nagbuklod sa marami sa ngalan ng iisang adhikain. Pinatutunog nito ang Pilipinas upang manatiling isa ang kapuluan, hindi sa pamamagitan ng dugo o lupa kundi ng damdaming magkakapwa.
+Nabubuhay sa manunulat na sa pamamagitan ng panulat ay ginising ang damdamin ng isang bayan na hindi pa alam na bayan pala, at sa lider ng himagsikan na nagbuklod sa marami sa ngalan ng iisang adhikain. Pinatutunog nito ang Pilipinas upang manatiling isa ang kapuluan, hindi sa pamamagitan ng dugo o lupa kundi ng damdaming magkakapwa.

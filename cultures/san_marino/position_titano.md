@@ -34,4 +34,4 @@ Il suo ruolo di rifugio se l'edilizia incontrollata distrugge la silhouette del 
 
 ## Drives
 
-Segna la vita quotidiana di [Marino](persona_marino.md), che ne lavora la roccia, e ospita le vicende del Plot [La fondazione da parte di San Marino 301](plot_01_marino_301.md).
+Segna la vita quotidiana dello scalpellino che ne lavora la roccia, e ospita le vicende del Plot [La fondazione da parte di San Marino 301](plot_01_marino_301.md).

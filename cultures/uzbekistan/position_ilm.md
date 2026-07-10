@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Bilim va ilmga bo'lgan chuqur hurmat, bu zaminning eng qadimiy qadriyati. Movarounnahr dunyoga algebra otasi Al-Xorazmiyni, tabobat sultoni Ibn Sinoni, fanlar bilimdoni Al-Beruniyni va yulduzlarni sanagan shoh-munajjim Mirzo Ulug'bekni berdi. Madrasalar Samarqand va Buxoroda ilm chashmasiga aylandi, ustoz-shogird an'anasi avloddan-avlodga o'tdi, va kitob, qalam hamda hisob bu yerda muqaddas sanaldi. Bu ilm faqat dunyoviy emas, balki diniy bilim bilan ham chambarchas bog'liq edi.
+Bilim va ilmga bo'lgan chuqur hurmat, bu zaminning eng qadimiy qadriyati. Movarounnahr dunyoga algebra otasi Al-Xorazmiyni, tabobat sultonini, fanlar bilimdoni Al-Beruniyni va yulduzlarni sanagan shoh-munajjimni berdi. Madrasalar Samarqand va Buxoroda ilm chashmasiga aylandi, ustoz-shogird an'anasi avloddan-avlodga o'tdi, va kitob, qalam hamda hisob bu yerda muqaddas sanaldi. Bu ilm faqat dunyoviy emas, balki diniy bilim bilan ham chambarchas bog'liq edi.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Qadimning ulug'ligi faqat maqtanchoqlikka aylanganda, oltin asrni eslab o'ziga o
 
 ## Drives
 
-[Ibn Sino](persona_ibn_sino.md)da yashaydi, u tabobat kitobi bilan dunyoni davolagan, va [Mirzo Ulug'bek](persona_ulugbek.md)da, u Samarqandda rasadxona qurib yulduzlarni sanagan shoh-munajjim. U O'zbekistonni o'z oltin asri bilan o'lchashga va bilimni el qadriyatlarining eng yuqorisida tutishga undaydi.
+Tabobat kitobi bilan dunyoni davolagan bilimda yashaydi, va Samarqandda rasadxona qurib yulduzlarni sanagan shoh-munajjimlikda. U O'zbekistonni o'z oltin asri bilan o'lchashga va bilimni el qadriyatlarining eng yuqorisida tutishga undaydi.

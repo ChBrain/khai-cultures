@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Český jazyk, řeč, kterou po Bílé hoře skoro pohltila němčina: tři století byla úředním a panským jazykem němčina, a čeština se stáhla na vesnici, mezi prostý lid. V národním obrození ji vzdělanci na přelomu 18. a 19. století vzkřísili z knih, ze starých textů a z mluvy venkova, a teprve psaným slovem se národ znovu sebral. Když nebyla samostatná země, byl jazyk národem.
+Čeština má sedm pádů, takže vztahy mezi slovy nese sama koncovka, ne místo slova ve větě, a slovosled proto zůstává volný, řízený spíše důrazem než gramatikou. Má dokonavý a nedokonavý vid, dvojici sloves pro každý děj, jedno pro čin dokončený, druhé pro děj probíhající nebo opakovaný, takže sama slovesná forma říká, zda je něco hotovo, nebo se to teprve děje. A snese souhláskové shluky bez jediné samohlásky, "vlk", "prst", "čtvrt", kde slabiku nese samo r nebo l.
 
 ## Orders
 
-Že se mluví a píše česky i tam, kde se dlouho mluvilo německy, že se řeč pěstuje a předává jako věc dobyté zpět, a že se národ poznává podle jazyka, ne podle státu, krve ani víry.
+Každé podstatné jméno nutí zvolit jeden ze sedmi pádů podle role ve větě, a každé sloveso nutí předem rozhodnout vid, dokonavý, nebo nedokonavý, dřív než se řekne, zda je děj hotový nebo probíhající. Přídavné jméno se musí shodovat s podstatným v rodě, čísle i pádě, takže jediná chyba v koncovce naruší celou větu.
 
 ## Loses
 
-Půdu ztrácí dnes vůči angličtině otevřeného světa, v níž se pracuje, kóduje a baví mladá generace, a kterou si děti vystěhovalců nesou domů; čeština malého národa, jíž nikdo zvenčí nerozumí, se ve světě smršťuje a do práce i na sítě se víc a víc mluví anglicky.
+Bohatství pádových koncovek se ztrácí tam, kde ho cizí posluchač neslyší a slyší jen shluk souhlásek; a naopak, volný slovosled, který pád dovoluje, ztrácí srozumitelnost tam, kde jiný jazyk drží pevné pořadí slov jako jedinou oporu smyslu. Nedokonavý vid někdy stírá rozdíl mezi dějem, který se právě odehrává, a dějem, který se jen obecně opakuje, takže se tato jemná hranice v mluvené řeči ztrácí.
 
 ## Drives
 
-Žije v [Husovi](persona_hus.md), který kázal pravdu česky a psané češtině dal diakritiku, v [Haškovi](persona_hasek.md), který povýšil hospodskou, lidovou češtinu na velkou literaturu, a v [Havlovi](persona_havel.md), který v mateřštině hledal život v pravdě proti dřevěné řeči režimu. Žije i v [Jiřině](persona_jirina.md), která si svou řeč uhájila celou pod dvěma totalitami, a v [Tomášovi](persona_tomas.md), jehož čeština ustupuje angličtině práce a obrazovek. Žene Česko, aby se drželo jazyka jednou už vzkříšeného z mrtvých jako důkazu, že národ trvá, i když stát mizel.
+Nutí toho, kdo v ní myslí, rozhodnout dřív, než promluví, jaký pád má věc ve větě nést a zda je děj hotový, nebo probíhající. Zvyká ho vnímat vztahy mezi slovy podle koncovky, ne podle pořadí, a proto dokáže slova v mluvě přeskupit, aniž by se smysl ztratil. Tak jazyk s bohatou koncovkou učí toho, kdo v něm vyrůstá, přesnosti tvaru dřív, než přesnosti pořadí.

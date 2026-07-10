@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Basa sing wis urip ing tlatah Jawa atusan taun sadurunge basa Indonesia diucapake, momot unggah-ungguh telung tataran - ngoko, krama madya, krama inggil - sing nuduhake papan lan urmat saben wong nalika caturan. Duwe kasusastran gedhe, saka Serat Centhini nganti tembang macapat, lan aksara Jawa dhewe kanggo nulis.
+Basa Jawa duwe tataran unggah-ungguh telung warna, ngoko kanggo kanca lan sedulur sepantaran, krama madya ing tengah-tengah, lan krama inggil kanggo wong tuwa, wong luhur, utawa sing diajeni, lan tataran-tataran iki dudu mung owah-owahan pasangan tembung, nanging asring tembung sing beda babar pisan kanggo bab sing padha (mangan dadi dhahar, omah dadi griya). Duwe aksara dhewe, Hanacaraka, lan kasusastran klasik gedhe kayata Serat Centhini lan tembang macapat sing wis urip atusan taun.
 
 ## Orders
 
-Ngatur patrapan basa manut drajad lan kahanan: krama kanggo wong tuwa lan wong sing diurmati, ngoko kanggo kanca cedhak, tembung-tembung sing nuntun tata krama Jawa ing saben omongan.
+Meksa penutur milih tataran basa sacara utuh, dudu mung tembung siji loro, manut sapa sing diajak omongan lan sapa sing dicritakake: ngoko marang kanca cedhak lan sing luwih enom, krama madya ing tataran antarane, krama inggil marang wong tuwa, guru, utawa wong sing dihurmati, lan malah kanggo nyebut awake dhewe, penutur kudu ngasorake diri (krama andhap) nalika mitrane diluhurake nganggo krama inggil. Nyampur tataran ing sajroning ukara siji, tanpa aturan, dianggep salah utawa ora ngerti tata krama.
 
 ## Loses
 
-Papan marang basa Indonesia ing sekolahan, kantor, lan swara nasional, lan uga papan ing atine bocah nom-noman sing wis ora lancar krama inggil. Aksara Jawa mundur ing ngarepe aksara Latin, lan basa iki dadi basa omah, dudu basa negara.
+Kilangan langsung-cepetan basa ngoko yen kudu ngganti menyang krama, amarga krama inggil asring luwih dawa lan luwih alus tinimbang tembung ngoko sing padha tegese, dadi rasa cedhak lan gancang bisa ilang nalika unggah-ungguh mbutuhake tembung liya. Bocah nom-noman saiki akeh sing wis ora lancar krama inggil, dadi kilangan akses menyang sakabehe rasa hurmat lan tataran sosial sing mung krama isa nggambarake, lan tembung-tembung krama kuna sethithik-sethithik ilang saka pangertene generasi anyar.
 
 ## Drives
 
-Basa iki sing dadi oyot [Pramoedya](persona_pramoedya.md) wiwit cilik, senajan dheweke banjur nulis kanthi basa Indonesia kanggo kabeh negara, oyot krama lan unggah-ungguh Jawa tetep melu ana ing saben critane.
+Ngajari penutur wiwit cilik kanggo tansah nimbang drajad, umur, lan kekancan sadurunge metu tembung siji wae, dadi saben ukara ngemot pitungan sosial sadurunge ngemot makna. Nggawe pikiran biasa nyimpen rong utawa telung tembung kanggo bab siji sing padha, lan milih salah siji manut sapa sing ana ing ngarepe. Dadi wong sing gedhe ing basa iki tuwuh dadi wong sing sensitif marang tataran lan ngasorake diri, amarga basa dhewe wis mbentuk pola pikir kaya mangkono sadurunge dheweke ngerti tegese.

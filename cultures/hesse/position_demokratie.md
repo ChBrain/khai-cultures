@@ -34,4 +34,4 @@ An Legitimation, wenn das Vertrauen der Bürger in die Institutionen sinkt oder 
 
 ## Drives
 
-Fördert die Entstehung des Staates im Plot [Die Gründung des Landes Hessen 1945](plot_02_division_unification_1945.md) und lenkt das Engagement von Wirt [Heinz](persona_heinz.md).
+Fördert die Entstehung des Staates im Plot [Die Gründung des Landes Hessen 1945](plot_02_division_unification_1945.md) und lenkt das Engagement der Wirte und Bürger.

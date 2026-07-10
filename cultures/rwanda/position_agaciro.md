@@ -34,4 +34,4 @@ Imbaraga iyo agaciro gahindurwa ubwirasi cyangwa ishyari aho kuba icyubahiro gik
 
 ## Drives
 
-Ibaho muri [Jean-Paul Samputu](persona_samputu.md), umuhanzi ujyana ijwi ry'u Rwanda ku isi akubaka agaciro k'umunyarwanda binyuze mu ndirimbo n'imbabazi. Bituma u Rwanda rukomeza kwiyubaka rukirinda agaciro kacyo, rwiyemera kandi rukubaha icyo ari cyo.
+Ibaho mu muhanzi ujyana ijwi ry'u Rwanda ku isi akubaka agaciro k'umunyarwanda binyuze mu ndirimbo n'imbabazi. Bituma u Rwanda rukomeza kwiyubaka rukirinda agaciro kacyo, rwiyemera kandi rukubaha icyo ari cyo.

@@ -34,4 +34,4 @@ Terreno quando a brandura vira resignação e o evitar do conflito vira deixar a
 
 ## Drives
 
-Vive em [Tiago](persona_tiago.md), que prefere dar a volta às coisas a bater de frente, e mostrou-se ao mundo em [A Revolução dos Cravos, 1974](plot_04_revolucao_dos_cravos_1974.md), quando um país derrubou a ditadura quase sem um tiro.
+Vive em quem prefere dar a volta às coisas a bater de frente, e mostrou-se ao mundo em [A Revolução dos Cravos, 1974](plot_04_revolucao_dos_cravos_1974.md), quando um país derrubou a ditadura quase sem um tiro.

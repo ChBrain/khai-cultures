@@ -34,4 +34,4 @@ Land þar sem jafnræðið verður að einsleitni og menn líta hornauga til þe
 
 ## Drives
 
-Það lifir í [Birnu](persona_birna.md), sem talar við alla sem jafningja, og á sér djúpar rætur í [Alþingisarfinum](position_althingisarfurinn.md), þeirri fornu hugmynd að málum sé ráðið af jafningjum en ekki af konungi.
+Það lifir í hverjum manni sem talar við alla sem jafningja, og á sér djúpar rætur í [Alþingisarfinum](position_althingisarfurinn.md), þeirri fornu hugmynd að málum sé ráðið af jafningjum en ekki af konungi.

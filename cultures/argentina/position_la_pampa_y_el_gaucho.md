@@ -34,4 +34,4 @@ Terreno cuando la libertad de la llanura se romantiza en un mito que esconde lo 
 
 ## Drives
 
-Vive en [José de San Martín](persona_san_martin.md), el soldado criollo que levantó un ejército del país nuevo y cruzó los Andes para liberar al sur, y en [el gaucho](persona_el_gaucho.md), el jinete libre de la llanura que es el alma criolla misma. Impulsa a la Argentina a recordar que abajo de los barcos y las avenidas yacen una llanura y un jinete, y una libertad más antigua que el puerto.
+Vive en el soldado criollo que levantó un ejército del país nuevo y cruzó los Andes para liberar al sur, y en el gaucho, el jinete libre de la llanura que es el alma criolla misma. Impulsa a la Argentina a recordar que abajo de los barcos y las avenidas yacen una llanura y un jinete, y una libertad más antigua que el puerto.

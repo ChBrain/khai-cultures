@@ -34,4 +34,4 @@ Tlo gubi pred sekularizacijom gradova i odlaskom mladih, i ondje gdje od žive n
 
 ## Drives
 
-Živi u [Maruliću](persona_marulic.md), koji je "Juditom" digao pero protiv turske pogibli i dao narodu epiku, i u [Kati](persona_kata.md), koja je vjeru i prag održala kroz rat. Goni Hrvatsku da u vjeri i u svojoj zapadnoj okrenutosti traži oslonac i poveznicu koju joj svjetovno vrhovništvo stoljećima nije dalo.
+Živi u peru koje je "Juditom" ustalo protiv turske pogibli i dalo narodu epiku, i u vjeri koja je prag održala kroz rat. Goni Hrvatsku da u vjeri i u svojoj zapadnoj okrenutosti traži oslonac i poveznicu koju joj svjetovno vrhovništvo stoljećima nije dalo.

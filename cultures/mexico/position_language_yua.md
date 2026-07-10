@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-U tʼaanil le máasewal kaajo'ob yaan tu noh lu'umil Yucatán, Campeche, Quintana Roo yéetel tak Guatemala. Yaan tu adzil xook, tu kʼiimbesajil kʼiin, yéetel tu naʼatilo'ob le nukuch kaajo'ob úuchben, le máax tu beetaj glifo yéetel katun kʼiin táanil ka taalak le españolo'obo. Jach chichan tʼaan, ku yúuchul tu kʼabéet kaajil bejlae', ku tʼaan yéetel ku tsʼíibta'al tumen le máaya wíinik yaan ka'ache'.
+Le tʼaan maya ku maantik consonante "glotalizada" beey pʼ, tʼ, kʼ, tsʼ yéetel chʼ, ku jóokʼol yéetel junpʼéel jomjaats tu chʼóochʼel, ba'ax minaʼan ich español mix ich inglés. Ku maantik xan junpʼéel réetáajil "clasificador numérico" ku bin yéetel tuláakal ba'al ku xóokol, juntúul, junpʼéel, junkúul, cada juntúul ku eʼesik u forma wa u kúuchil le ba'al.
 
 ## Orders
 
-Ku beetik u chíikpajal u laakʼob máaya wíinik: u tʼaan tu kaajil, tu mercadoil, tu tsíimin, yéetel tu paalal máax kanik u tʼaan tu najil. Ku tsʼa'abal ba'al u kʼaaba' u kool, u kʼáax, u ba'alche', yéetel u kʼiin: le tʼaan ku páajtal maʼ u kʼexel tumen le xóoteʼ tʼaanil.
+Ku beetik u chíikpajal máax ku beetik u meyaj ich verbo yéetel máax minaʼan u beetik, tumen le tʼaan ku tsʼa'abal jump'éel marca ti' u sujeto le verbo transitivo yéetel uláak' marca ti' u sujeto le verbo intransitivo, maʼ láayli' bix le español. Ku tsʼa'abal xan tuláakal verbo junpʼéel aspecto, wa ku beeta'al wa maʼ tu beeta'al, yéetel kʼaabéet u yéeyik le clasificador buka'aj ku xóokik junpʼéel ba'al.
 
 ## Loses
 
-Ku sáatal tu táan le español, le máax ku kaʼansaj tu escuelaʼob yéetel ku kʼaʼabéetkuntaʼal tu gobierno. Yaan le paalal maʼ u kʼaʼabéetkuntik u tʼaan u chichan lakʼob, yéetel ku sáatal tumen le migración yéetel le kʼiin ku bin tu noj kaajilo'ob. Baʼale, tu yóotsil le kaajo'ob máaya, le tʼaan ku muk'yajtik tu yóotsil ka kuxa'anil.
+Ku sáatal le consonante glotalizada yéetel le réetáajil ergativo ichil le paalal ku bin u kaʼanasajil español ti' u najil, tumen le tʼaan español mina'an le ba'alo'oba'. Ku sáatal xan le clasificador ma'alob u kʼaabéetkuntik le nukuch máako'ob ich chan paalal, tumen le tʼaan ku kaʼansaj ti' escuela yéetel gobierno chéen español.
 
 ## Drives
 
-Le tʼaan yaan tu chʼíibalil le máax tu kʼajóoltaj yóotsil le máaya kaajo'ob: [La Malinche](persona_la_malinche.md), le xʼch'úupal Mexihcatl máax tu kaxantaj le máaya tʼaan tu kʼiinilo'ob yéetel le kaajo'ob máaya, tu yúuchtal u tʼaan tu joolil u tuukul u thanil ichil Cortés yéetel le máasewal kaajo'ob. Ku ye'esik bix le tʼaan ku máan ichil úuchben lu'um yéetel túumben kaajilo'ob, chéen ma' tu kaʼansaj u kaʼanaʼ, sáamal xan u kʼajóolta'al.
+Ku beetik máax ku tʼaanik u xóokik tuláakal ba'al tumen u forma yéetel u kúuchil, maʼ chéen tumen u boolal. Ku beetik u chʼóochʼel le jomjaatsil te' u chi', junpʼéel je'el bix u nuukulil le tʼaano', yéetel u eʼesik máax ergativo u sujeto ti' verbo transitivo yéetel máax absolutivo, ich tuláakal tʼaan ku beetik.

@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Southern American English of the Pelican State, from the Cajun-inflected English of the Acadiana bayou to the distinctive New Orleans city speech. It holds the local English shaped under long French and Creole contact, plain and unhurried, that carries the boat landing and the Quarter alike.
+This English carries loanwords straight out of French and Louisiana Creole that name things standard English has no single word for: lagniappe for the little extra thrown in free, banquette for a sidewalk, neutral ground for a street's median. It carries a calque, an expression built word for word on a French one, so a Louisiana speaker makes groceries the way a French speaker fait les courses, where other English simply shops. In Cajun country it can carry a rhythm timed more evenly across the syllable, the trace of French underneath, rather than the strong stress timed beat of most English.
 
 ## Orders
 
-Where it is heard as simply local: the Acadiana crawfish dock, the parish boat landing, the New Orleans neighborhood, the French Quarter stoop. It orders which turns of phrase pass as native Louisiana ground and marks the outsider by ear.
+It forces the loanword and the calque to sit inside otherwise ordinary English sentences without translation, so the borrowed word carries the local meaning whole. It forces a double modal in casual speech, might could, useta could, stacking two helping verbs where standard English allows only one, and it forces the second person plural, y'all, to be said aloud, filling a gap standard English leaves unmarked between one person addressed and many.
 
 ## Loses
 
-Ground to General American, the unmarked national broadcast standard the screen and the tourist trade carry, which levels the local English toward the flat national middle. The commercialized tourist register also flattens the city and bayou speech into a marketing slogan.
+It loses the loanword's foreign feel the moment it settles into everyday use, so lagniappe and banquette are heard as plain English words rather than as French ones. It loses, in the tourist facing register, the local rhythm and turn of phrase, flattened into a slogan repeated for visitors rather than spoken as a native ear would shape it. And where General American spreads through the screen, it loses ground on the very features, the evened out syllable, the borrowed calque, that mark a sentence as Louisiana's own.
 
 ## Drives
 
-It carries [Jean](persona_jean.md), whose bayou English holds the crawfish docks of Acadiana beneath the Louisiana French he only wears at the community boil, and [Yvette](persona_yvette.md), whose New Orleans English is the working speech of the preservationist beneath the French she only wears in the archives. So the one Louisiana English keeps the local ground under the borrowed French both carry.
+It trains the ear to hear a French rhythm sitting under English syllables and to reach for a French shaped phrase without noticing the reach. It trains the speaker to mark the plural you deliberately, rather than leaving a listener to guess how many are addressed, and it trains a taste for naming small, local things with a word borrowed whole rather than translated. So the one English shows, in its own borrowed words and evened beat, the French still moving underneath it.

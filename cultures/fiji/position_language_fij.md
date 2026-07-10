@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Na kaukauwa ni vosa vakaViti, na vosa e taukena na iTaukei, na vosa ni kawa e vakayagataki ena veivosaki vakaturaga, ena meke, ena masu, kei na sevusevu ni yaqona. Oqo na vosa e wanonovi kina na veimataqali ni veiyanuyanu ki na dua ga na vosa, ka maroroya na itovo vakavanua kei na vanua ni iTaukei.
+Na vosa vakaViti e wasei vakalevu ena veimataqali ivakarau ni vosa, e dua, vakarua (e rua), vakalailai (e vica ga), kei vakalevu, ka wasei tale ga na "keimami" mai na "keda," me kila kina se o ira e vosataki kina era vakayacori se sega. E dua tale na kaukauwa ni vosa oqo, na iwasewase ni taukena eso na ka: dua na ivakarau ni kakana, dua na ivakarau ni gunu, kei dua tale ni ka kece, e sega ni tiko ena vosa vakavalagi.
 
 ## Orders
 
-E lewa na vosa e dodonu me vosataki, me volai, ka me wilika ena veikoro kei na veivalenivuli, me kua ni vakayagataki wale ga na vosa vakavalagi ena veika bibi kece. E biuta na iValavala vakavanua me maroroi na vosa vakaViti me tudei, ka me kua ni luvawale ena kena sivia na vosa tani.
+E dodonu me digitaki na ivakarau ni vosa dina, e dua, vakarua, vakalailai, se vakalevu, ena veivosaki kece me baleta na tamata se ka e vakamacalataki. E dodonu tale ga me digitaki na ivakarau ni taukena, se ni kakana, se ni gunu, se ni ka tale, ni bau tukuni na dua na ka.
 
 ## Loses
 
-E luvu na vosa ena gauna e vakalailaitaki kina, ni sa vakayagataki vakalevu na vosa vakavalagi ena veivalenivuli kei na veitalanoa, ka ra guilecava na cauravou na vosa ni nodra kawa. E luvu tale ga ni sa yali na masu, na meke, kei na italanoa makawa e a maroroi tu ena vosa vakaViti.
+Na veika e rawa ni tukuni vakarawarawa ena vosa vakavalagi ena vosa e dua ga ("we"), e luvu ena vosa vakaViti ni sega ni digitaki na ivakarau dina, o cei era vakarua se vakalailai se vakalevu, ka vakaoti se sega. E luvu tale ga na kena rawa ni tukuni na taukena ni dua na ka ena vosa e dua ga, ni dodonu tiko me digitaki na iwasewase ni kakana, gunu, se ka wale ga.
 
 ## Drives
 
-E bula ena gusudra na turaga ni iTaukei: [Cakobau](persona_cakobau.md), [Sukuna](persona_sukuna.md), kei [Mara](persona_mara.md), o ira era vosataka na vosa vakaViti me vosa ni nodra kawa. E kau tale ga vei ira era sa mai vakaitikotiko mai na vanua tani: [na girmitiya](persona_na_girmitiya.md) kei [A.D. Patel](persona_patel.md), o ira era taukena na vosa mai Idia ka kauta wale ga na vosa vakaViti me vosa ni veivanua, ka sega ni vosa ni nodra kawa. E uqeta ko Viti me maroroya na vosa vakaViti me vaka na iyaloyalo ni bula ni vanua.
+Na vosa oqo e vakavuna vei ira era vosataka me ra nanuma na levu ni tamata se ka era tukuna ena veivosaki kece, ka me ra digitaki tale ga na iwasewase ni taukena ni veika kece era tukuna. Oqo e vakavuna me ra kila matata na iwekani vakavolekati ena vosa, ni bau tukuni vakadua na levu kei na ivakarau ni veika e taukeni.

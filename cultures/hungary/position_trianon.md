@@ -34,4 +34,4 @@ Talajt veszít, amikor az emlékezésből puszta sérelem lesz: amikor a seb íz
 
 ## Drives
 
-Él [Bencében](persona_bence.md), az erdélyi magyarban, akinek az útlevele román, a hazája pedig a nyelv, és minden családban, amelynek rokona a határ túloldalára esett. Hajtja Magyarországot, hogy a határon átszakított nemzetet a nyelvében és az emlékezetében tartsa egyben, anélkül hogy a seb az egész jövőjét megmérgezné.
+Él az erdélyi magyarokban, akiknek az útlevele román, a hazájuk pedig a nyelv, és minden családban, amelynek rokona a határ túloldalára esett. Hajtja Magyarországot, hogy a határon átszakított nemzetet a nyelvében és az emlékezetében tartsa egyben, anélkül hogy a seb az egész jövőjét megmérgezné.

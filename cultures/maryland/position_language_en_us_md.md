@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The voice of Maryland English, spanning the slow tidewater cadence of the Eastern Shore and the quicker urban speech of the Baltimore corridor. It possesses the estuary idiom of the waterman and the crisp academic register of the research city, the two registers of the Old Line State.
+Maryland English carries two working registers in one small state: the historically non-rhotic, tidewater drawl of the Chesapeake watermen, closest kin to the "hoi toide" brogue still heard on the bay's remote islands, and the fast, raised urban vowel of the Baltimore corridor that turns "Baltimore" toward "Bawlmer." It carries a working lexicon built around the water: crab, skipjack, and hon as an everyday term of address.
 
 ## Orders
 
-What counts as native speech in Maryland, the talk of the crab dock, the row house stoop, and the laboratory bench. It orders how the bay towns and the city corridor address one another, holding the regional turns that mark a Marylander.
+It forces a Marylander's vowels to place them on the map before the sentence ends: the raised city diphthong against the lengthened, tidewater-flattened one of the Eastern Shore, marking waterman from commuter from lab researcher at the first syllable. It forces a choice of address, hon or sir, that marks familiarity or its withholding in the same breath.
 
 ## Loses
 
-Ground to the flattened broadcast English of national media, which smooths the tidewater cadence toward a uniform standard. It also loses the waterman's idiom as the working shore shrinks and the technical vocabulary of biotech overtakes the vocabulary of the water.
+It loses its raised city vowel and its tidewater drawl to the flattened, non-regional English of national broadcast, which younger speakers default to more with each generation. It loses ground, too, to the Latinate vocabulary of the biotech and research corridor, which displaces the working idiom of the crab dock with a specialist tongue built for the laboratory bench, not the water.
 
 ## Drives
 
-It drives Maryland to keep its own registers, from the water to the lab. It carries the mother tongue of blue crab waterman [Ann](persona_ann.md), the language in which she speaks, hears, and thinks her daily operations; and it carries the fast academic cadence of vaccine scientist [David](persona_david.md), the tongue in which he speaks and writes his research reports. So the one language shows who holds it.
+It shapes whoever grows up speaking it to carry two tongues at once, one for the water and one for the lab, switching vowel and vocabulary by the room they stand in. It drives a Marylander to place a stranger's origin in a single word, before the sentence is even finished, and to hold the working idiom of the bay against the flattening pull of the broadcast standard.

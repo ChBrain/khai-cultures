@@ -34,4 +34,4 @@ E malumalumu ni sa vakayagataki na duidui ni matakali me wasea na lewenivanua, e
 
 ## Drives
 
-E bula ena bula i [A.D. Patel](persona_patel.md), na iliuliu ni kai Idia e a tara matua na nodra dodonu na girmitiya ka cakacaka me galala ko Viti, kei na [girmitiya](persona_na_girmitiya.md), na bati ni cakacaka e a kau mai Idia ka taura na yavu ni matakali ni kai Idia. E uqeta ko Viti me vakaduavatataki na lewe rua me dua ga na vanua.
+E bula ena liuliu e a tara matua na nodra dodonu na girmitiya ka cakacaka me galala ko Viti, kei na bati ni cakacaka e a kau mai Idia ka taura na yavu ni matakali ni kai Idia. E uqeta ko Viti me vakaduavatataki na lewe rua me dua ga na vanua.

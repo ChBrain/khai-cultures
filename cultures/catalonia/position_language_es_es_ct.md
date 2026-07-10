@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano tal como se habla en Cataluna, con la entonacion catalana y los giros que la lengua propia le presta: el ritmo rapido de la costa, el lexico del comercio y del taller, y las palabras del catalan que se cuelan en la conversacion diaria. Es el espanol de una tierra bilingue, la lengua que sirve para tratar con el resto de Espana y con quien llega de fuera, hablada con acento propio y sin renunciar al catalan que le late debajo.
+El castellano de Cataluna hereda de la lengua propia la entonacion, un ritmo que sube y baja de un modo distinto al castellano del interior, y con ella prestamos y calcos del catalan que se instalan en la frase sin que el hablante los note (hacer tarde por llegar tarde, o el uso de para con matices catalanes). Conserva, como todo castellano, el genero gramatical, la copula ser/estar y un subjuntivo vivo para la duda y el deseo.
 
 ## Orders
 
-Manda en el trato con la Administracion del Estado, en el comercio con Madrid y con el resto de la peninsula, y en la acogida del recien llegado que no sabe catalan. Ordena que en la oficina, en el contrato y en la factura haya una lengua comun que todos entienden, y fija el registro con el que Cataluna se explica ante el conjunto de Espana sin dejar de ser ella misma.
+Obliga, como toda variante del castellano, a marcar genero y numero y a elegir entre ser y estar en cada enunciado; y el contacto diario con el catalan impone ademas una entonacion propia y el trasvase constante de giros de una lengua a la otra, de modo que quien lo habla nunca deja de cotejar mentalmente las dos lenguas.
 
 ## Loses
 
-Pierde terreno frente al catalan en la vida intima, en la escuela de inmersion y en la fiesta de plaza, donde la lengua propia reclama su sitio. Y pierde matiz frente al castellano neutro de los medios y de Madrid, que borra el acento catalan y trata sus giros como incorrecciones, como si hablar espanol con sabor de aqui fuera hablarlo mal.
+Pierde la nitidez del castellano que no convive a diario con otra lengua, porque el calco constante desdibuja que expresion pertenece a cada idioma, y lo que en Madrid suena a error suena en Barcelona a uso corriente. Y frente al catalan, que reclama el habla intima y familiar, este castellano cede terreno en la casa y en la plaza, quedando reservado a lo oficial y a lo forastero.
 
 ## Drives
 
-Empuja a Cataluna a manejar dos lenguas sin renunciar a ninguna. Se lo da a [Jordi](persona_jordi.md), vidriero de Barcelona, y a [Montserrat](persona_montserrat.md), viticultora del Penedes, como el castellano con el que tratan con los de fuera mientras piensan y trabajan en catalan; y en cada uno de ellos se ve quien sostiene esta lengua comun y quien la carga como frontera entre lo propio y lo ajeno.
+Acostumbra a quien crece con las dos lenguas a pasar de una a otra sin pausa y a llevar la entonacion de una dentro de las palabras de la otra, de modo que el oido entrenado distingue matices que un hablante monolingue no percibe. El manejo constante de ser y estar y del subjuntivo entrena la mente a distinguir lo permanente de lo pasajero y el hecho del deseo, tanto en esta lengua como en la que convive con ella.

@@ -34,4 +34,4 @@ Hupoteza ardhi pale urithi wa pwani unapoachwa kufifia, nyimbo za zamani na ufun
 
 ## Drives
 
-Huishi ndani ya [Bi Kidude](persona_bi_kidude.md), aliyeimba taarab na kuhifadhi sauti na hekima ya wanawake wa pwani kwa karibu karne nzima. Huiendesha Tanzania kuthamini nusu yake ya bahari, kulinda Mji Mkongwe na utamaduni wa Waswahili, na kuukumbatia kama chimbuko la lugha iliyofunga taifa zima.
+Huishi ndani ya mwimbaji wa taarab aliyehifadhi sauti na hekima ya wanawake wa pwani kwa karibu karne nzima. Huiendesha Tanzania kuthamini nusu yake ya bahari, kulinda Mji Mkongwe na utamaduni wa Waswahili, na kuukumbatia kama chimbuko la lugha iliyofunga taifa zima.

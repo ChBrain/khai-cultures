@@ -34,4 +34,4 @@ Terreno quando um povo, uma lingua ou uma regiao se faz passar pela nacao inteir
 
 ## Drives
 
-Vive em [Paulina Chiziane](persona_chiziane.md), que escreve do sul e do norte com igual dignidade, e em [Fany Pfumo](persona_fany_pfumo.md), que deu aos muitos povos um som comum sem apagar os seus. Move Mocambique a fazer de muitos um so, guardando o que cada terra traz e pondo-o lado a lado na mesma casa.
+Vive na escritora que escreve do sul e do norte com igual dignidade, e no musico que deu aos muitos povos um som comum sem apagar os seus. Move Mocambique a fazer de muitos um so, guardando o que cada terra traz e pondo-o lado a lado na mesma casa.

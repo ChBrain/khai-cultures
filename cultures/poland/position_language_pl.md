@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Język polski, mowa, która przetrwała sto dwadzieścia trzy lata rozbiorów, gdy państwa nie było, a szkoły pruskie i rosyjskie narzucały niemiecki i rosyjski. Polszczyzny strzeżono w domu, w kościele i w tajnych kompletach: gdy nie było kraju, język był narodem.
+Siedmiopadeżową deklinację, która znaczy rolę słowa w zdaniu samą końcówką, bez przyimka, dzięki czemu szyk wyrazów zostaje wolny i służy naciskowi, nie gramatyce; parę aspektową czasownika, dokonany i niedokonany, dającą dwa osobne słowa tam, gdzie inne języki mają jeden czas na skończoną i trwającą czynność; i drobiazgowe, wielostopniowe zdrobnienia (kot, kotek, koteczek), którymi polszczyzna stopniuje czułość, jak niewiele innych języków potrafi.
 
 ## Orders
 
-Że mówi się po polsku w domu i wśród swoich, nawet gdy obca władza zakazuje, że przekazuje się mowę dzieciom jak skarb, i że trzyma się języka jako dowodu, iż naród trwa, choćby na mapie go nie było.
+Że każdy rzeczownik, przymiotnik i zaimek przechodzi przez siedem przypadków, zgadzając się rodzajem i liczbą; że czasownik za każdym razem wybiera aspekt, dokonany czy niedokonany, więc nie da się opisać czynności bez zaznaczenia, czy jest skończona czy w toku; i że liczba mnoga oddziela formę męskoosobową od wszystkich innych, więc trzeba zaznaczyć, czy w grupie są mężczyźni.
 
 ## Loses
 
-Grunt traci wobec języków, które wciskały się siłą, niemieckiego i rosyjskiego zaborców, a dziś wobec angielskiego świata, który zabiera dzieci wychodźców. Polszczyzna na obczyźnie cienieje z pokolenia na pokolenie.
+Rodzajnika, którego polszczyzna nie zna wcale, więc określoność trzeba wyczytać z szyku zdania i z kontekstu, nie z osobnego słówka jak "the"; łatwości, z jaką inne języki jednym czasem obejmują i czynność skończoną, i powtarzaną, bo polski zawsze każe wybrać między dokonanym a niedokonanym, choćby mówiącemu było to nieważne; i miękkości wymowy, którą twarde skupienia spółgłosek (szcz, źdź) czasem tłumią.
 
 ## Drives
 
-Żyje w [Mickiewiczu](persona_mickiewicz.md), który ocalił ojczyznę w wierszu, w [Janie Pawle II](persona_jan_pawel_ii.md), który modlił się i wołał o Polskę po polsku, i w [Wałęsie](persona_walesa.md), który dosadną mową robotnika obalił imperium. Żyje też w [Halinie](persona_halina.md), która zachowała mowę przez wojnę i komunizm, i w [Kubie](persona_kuba.md), którego polszczyzna blednie za granicą. Pcha Polskę, by trzymała się języka jako ostatniej i niezniszczalnej ojczyzny.
+Uczy mówiącego myśleć najpierw o roli słowa w zdaniu, nie o jego miejscu, bo przypadek, nie szyk, niesie znaczenie; przyzwyczaja do rozstrzygania przy każdej czynności, nim się o niej powie, czy jest skończona, czy trwa; i wyostrza ucho na drobne różnice między spółgłoskami miękkimi i twardymi oraz na stopnie zdrobnień, ucząc wyrażać czułość stopniowo, nie jednym słowem.

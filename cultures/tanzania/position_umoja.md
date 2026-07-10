@@ -34,4 +34,4 @@ Hupoteza ardhi pale undugu unapogeuka kuwa neno linalokaririwa badala ya tendo, 
 
 ## Drives
 
-Huishi ndani ya [Julius Nyerere](persona_nyerere.md), aliyepanda undugu kama msingi wa taifa na kuwafunga makabila yote katika lugha moja na maadili ya ujamaa, na ndani ya [Filbert Bayi](persona_bayi.md), aliyebeba bendera moja mbele ya mataifa kwa fahari ya watu wote nyuma yake. Huiendesha Tanzania kuendelea kuamini kuwa umoja ni nguvu na utengano ni udhaifu.
+Huishi ndani ya kiongozi aliyepanda undugu kama msingi wa taifa na kuwafunga makabila yote katika lugha moja na maadili ya ujamaa, na ndani ya mwanariadha aliyebeba bendera moja mbele ya mataifa kwa fahari ya watu wote nyuma yake. Huiendesha Tanzania kuendelea kuamini kuwa umoja ni nguvu na utengano ni udhaifu.

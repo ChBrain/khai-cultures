@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Údarás na Gaeilge i gCúige Uladh, canúint an tuaiscirt den teanga dhúchais, teanga a bhí á labhairt ar fud an chúige tráth agus a choinnítear beo anois i nGaeltacht Dhún na nGall, sna scoileanna Gaeilge agus i measc phobal náisiúnach an tuaiscirt a thógann arís í. Iompraíonn sí a blas féin, focail agus fuaimeanna Uladh, agus seasann sí mar chomhartha féiniúlachta ag pobal amháin sa dúiche.
+Ní bhíonn focal simplí ann do "sea" ná "ní hea" sa Ghaeilge; freagraítear ceist tríd an mbriathar féin a aithris, i bhfoirm dhearfach nó dhiúltach, rud a chuireann iallach ar an éisteoir aird a thabhairt ar fhoirm an bhriathair sula bhfreagraíonn sé í. Sa chanúint Uladh go háirithe, buanaítear an diúltú le "cha" in ionad "ní," gné atá dlúthchosúil leis an nGaeilge Albanach agus a easaontaíonn ó chanúintí eile na Gaeilge.
 
 ## Orders
 
-Ordaíonn sí go dtugtar aitheantas don Ghaeilge sa tuaisceart, go mbíonn comharthaíocht agus oideachas ar fáil inti, agus go seasann Acht na Gaeilge, atá bactha le fada, mar gheall di. Ach ordaíonn an dúiche féin gur comhartha taoibh í an teanga chomh maith le caint: insíonn an focal a roghnaíonn tú cén pobal lena mbaineann tú, agus léitear an teanga mar dhílseacht sula gcloistear mar chaint í.
+Ordaíonn an Ghaeilge ord briathar-ainmní-cuspóir ag tús na habairte i gcónaí, séimhiú nó urú, sé sin athrú a chuirtear ar thús an chonsain de réir an réamhfhocail nó an ailt a théann roimhe, agus dhá bhriathar ar leith, tá agus is, ceann acu do staid nó cur síos sealadach, an ceann eile do aicmiú buan nach n-athraíonn.
 
 ## Loses
 
-Talamh don Bhéarla, teanga laethúil an dá phobal araon, agus don pholaitíocht a dhéanann liathróid pheile den teanga, an tAcht a mhoilltear agus an maoiniú a throidtear ina thaobh. Maireann sí mar theanga oidhreachta agus mar shuaitheantas níos mó ná mar chaint bheo, agus í teanntaithe idir a húsáid bheag laethúil agus an bhrí pholaitiúil a chuirtear uirthi in aghaidh a tola.
+Ní féidir léi focal aonair a thabhairt ar "sea" ná "ar ní hea" mar atá ag an mBéarla, agus caithfidh an cainteoir an briathar iomlán a aithris fiú i bhfreagra gairid gan mhoill; agus deir an chanúint Uladh "cha" go minic in áit "ní," rud a fhágann nach dtuigeann cainteoirí de na canúintí eile an fhoirm sin gan chleachtadh.
 
 ## Drives
 
-Maireann sí in [Niamh](persona_niamh.md), bean óg as pobal náisiúnach an tuaiscirt a tógadh leis an nGaeilge agus a choinníonn beo í sa bhaile agus ar an bpáirc, gan fuath ar bith aici dá comharsana den traidisiún eile. Spreagann sí an cúige chun teanga a iompar le bród mar chomhartha pobail, agus le súil, lá éigin, go mbeidh sí ina caint choitianta seachas ina bratach.
+Cuireann an gá le briathar a aithris in ionad focal amháin ar "sea" nó "ní hea" iallach ar an gcainteoir éisteacht go cruinn sula bhfreagraíonn sé, in ionad focal aonair a chaitheamh amach gan mhachnamh; agus múineann na hathruithe tosaigh dó aird a thabhairt ar thús an fhocail, ní ar a dheireadh amháin, mar an áit a n-athraíonn brí ann.

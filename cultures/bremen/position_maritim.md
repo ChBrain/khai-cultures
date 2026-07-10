@@ -34,4 +34,4 @@ An Kraft, wenn Versandung der Weser den Schiffsverkehr behindert oder wenn konku
 
 ## Drives
 
-Bestimmt den Lebensalltag von [Hinnerk](persona_hinnerk.md) und prägt die Entwicklung im Plot [Die Gründung Bremerhavens 1827](plot_03_havengebiete.md).
+Bestimmt den Lebensalltag der Hafenarbeiter und prägt die Entwicklung im Plot [Die Gründung Bremerhavens 1827](plot_03_havengebiete.md).

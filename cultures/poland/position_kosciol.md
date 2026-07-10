@@ -34,4 +34,4 @@ Grunt wobec sekularyzacji i podziału współczesnej Polski: kościoły pustosze
 
 ## Drives
 
-Żyje w [Janie Pawle II](persona_jan_pawel_ii.md), który dał zniewolonemu narodowi głos i odwagę, i w [Halinie](persona_halina.md), która trzyma wiarę, gdy inni odchodzą. Pcha Polskę, by szukała w Kościele ciągłości i tożsamości, których historia tylekroć jej odmawiała.
+Żyje w papieżu, który dał zniewolonemu narodowi głos i odwagę, i w babci, która trzyma wiarę, gdy inni odchodzą. Pcha Polskę, by szukała w Kościele ciągłości i tożsamości, których historia tylekroć jej odmawiała.

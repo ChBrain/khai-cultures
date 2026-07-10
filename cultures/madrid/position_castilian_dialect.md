@@ -34,4 +34,4 @@ Su equilibrio cuando la globalización lingüística comercial sustituye los té
 
 ## Drives
 
-Guía el desarrollo expresivo en el relato [El Levantamiento del Dos de Mayo 1808](plot_02_uprising.md) y orienta la atención vecinal de [Elena](persona_elena.md).
+Guía el desarrollo expresivo en el relato [El Levantamiento del Dos de Mayo 1808](plot_02_uprising.md) y orienta la atención vecinal de quienes cuidan el barrio.

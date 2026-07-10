@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Kıbrıs'ta yazılıp konuşulan Türkçenin otoritesi, adanın Türk toplumunun ana dili, kuzeyin ve karışık geçmişin dili, okulun, caminin ve gazetenin dili. Adanın Türkçesinin ölçüsünü tutar; kendine özgü ezgisi, Türkiye Türkçesinden biraz ayrı düşen sesi ve yüzyılların bıraktığı sözcükleriyle, bunlar birer yanlış değil, aynı dili söylemenin bir başka doğru yoludur, Osmanlı'dan bu yana adada kök salmış bir Türklüğe bağlı.
+Türkçenin, tek bir kökten onlarca eki üst üste dizerek koca bir cümleyi tek sözcükte taşıma gücü: "-den beri", "-ecekmiş gibi", "-ebilseydik" zincirleri bir düşünceyi çekim ekleriyle inşa eder, başka dilin birkaç sözcükle söylediğini tek kelimeye sığdırır. Ünlü uyumu her heceyi bir öncekinin sesine bağlar, sözü tek bir ezgi gibi akıtır; ve öğrenilmiş bilgiyle görülmüş bilgiyi ayıran -miş ve -di ekleri, söylenen her şeyin kaynağını daha söylerken belli eder.
 
 ## Orders
 
-Kıbrıs Türk tarafında iyi Türkçe sayılan şeyi buyurur: yazımı, yönetimin, okulun ve basının üslubunu. Çizginin kuzeyinde resmî kâğıda ne gireceğini belirler ve kendi toplumunun kamusal hayatına, Türkiye'nin diline bağlı kalarak da olsa, kendine ait bir ton verir.
+Her fiilde, olayı gözüyle görüp mü söylediğini yoksa duyup mu aktardığını (-di/-miş) seçmeyi buyurur; her ekte ünlü uyumuna uymayı zorunlu kılar, aksi hâl kulağa yanlış gelir; ve yüklemin cümlenin sonunda gelmesini, önce özneyi ve nesneyi, ekleri üst üste dizerek kurmayı, anlamı ancak son ekle kapamayı emreder.
 
 ## Loses
 
-Eski İngiliz efendisinin İngilizcesine ve gitgide daha çok Türkiye Türkçesine karşı yer kaybeder; ekranların, ticaretin ve dünyayla anlaşmanın dili İngilizce onun üstüne her gün baskı yapar. Hele adanın öbür toplumuyla artık ortak bir dili yoktur: Rum komşuyla, çizginin öte yanıyla karşılaşınca, konuşulursa, yabancının İngilizcesiyle konuşulur, birbirinin diliyle değil; böylece Türkçe kuzeyi tutar ama komşuya hiçbir zaman ulaşmaz.
+Fransızca ya da İngilizce gibi dillerin ayırdığı eril/dişil zamiri hiç bilmez; "o" tek başına kadını, erkeği ve nesneyi aynı sözcükle karşılar, oysa komşu diller burada ayrım ister. Ada ağzının kendine has ezgisi ve Osmanlı'dan kalma sözcükleri, standart Türkiye Türkçesinin baskısı altında sivrilmekten çok geriler; İngilizceyle iç içe geçen günlük konuşmada da ödünç sözcükler asıl kökün yerini almaya başlar.
 
 ## Drives
 
-Kıbrıs Türk toplumunu bütünüyle kendi dilinde yaşamaya iter. [Mehmet](persona_mehmet.md)'te yaşar; karışık köylerin ve kaybettiği Rum dostlarının anısını Türkçe taşıyan, çizginin öte yanını özleyen yaşlı adamda. Böylece adanın kuzeyinin dili hem miras, hem kimlik, hem de yitik bir komşulukla arasındaki köprüsüz aralığın tanığı olur.
+Onda düşünen kişiyi, sözü söylemeden önce ekleri zihinde sırayla dizmeye, cümleyi ancak sonda kapatılacak bir yapı gibi kurmaya alıştırır; her anlattığı şeyde bunu kendi gözüyle mi gördüğünü yoksa başkasından mı duyduğunu ayırmaya zorlar. Böylece bu dilde büyüyen kişi, konuşmadan önce tamamlamayı ve bildiğini nereden bildiğini işaretlemeyi bir düşünme alışkanlığı hâline getirir.

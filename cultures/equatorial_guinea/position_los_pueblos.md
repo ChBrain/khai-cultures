@@ -34,4 +34,4 @@ Terreno cuando un pueblo quiere valer por todos y los demás quedan a su sombra,
 
 ## Drives
 
-Vive en [el rey Moka](persona_moka.md), el soberano bubi que guardó el orden de su pueblo en la isla antes de que llegara nadie de fuera, prueba de que estas tierras tuvieron gobierno propio. Empuja a Guinea Ecuatorial a sostenerse como una nación de muchos pueblos, guardando a cada uno su lengua y su sitio sin que ninguno borre a los demás.
+Vive en el orden bubi que guardó a su pueblo en la isla antes de que llegara nadie de fuera, prueba de que estas tierras tuvieron gobierno propio. Empuja a Guinea Ecuatorial a sostenerse como una nación de muchos pueblos, guardando a cada uno su lengua y su sitio sin que ninguno borre a los demás.

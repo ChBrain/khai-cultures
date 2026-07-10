@@ -34,4 +34,4 @@ Its balance when excessive state-wide zoning mandates override local town decisi
 
 ## Drives
 
-Guides the local assembly organizing in the plot [Roger Williams Charter 1663](plot_01_roger_williams.md) and drives the historical auditing of [Mary](persona_mary_ri.md).
+Guides the local assembly organizing in the plot [Roger Williams Charter 1663](plot_01_roger_williams.md) and drives the historical auditing carried out by the town's records keepers.

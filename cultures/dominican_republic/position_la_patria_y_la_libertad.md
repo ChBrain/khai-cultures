@@ -34,4 +34,4 @@ Terreno cuando la patria se invoca para callar en vez de para liberar, cuando el
 
 ## Drives
 
-Vive en [Juan Pablo Duarte](persona_duarte.md), padre de la patria y fundador de la Trinitaria, que dio a la nación su idea de libertad, y en [las hermanas Mirabal](persona_las_mirabal.md), las Mariposas, que con su coraje sostuvieron esa libertad frente a la Era. Empuja a la República Dominicana a guardar su patria como una libertad ganada y a honrar por igual a los que la fundaron y a los que la defendieron.
+Vive en la fundación de la Trinitaria, que dio a la nación su idea de libertad, y en el coraje de las Mariposas, que sostuvieron esa libertad frente a la Era. Empuja a la República Dominicana a guardar su patria como una libertad ganada y a honrar por igual a los que la fundaron y a los que la defendieron.

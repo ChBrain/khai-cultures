@@ -34,4 +34,4 @@ An Geltung, wenn die Zersiedelung im Berliner Umland zunimmt oder der Massentour
 
 ## Drives
 
-Bestimmt die Lebensart im Plot [Die Vollendung von Schloss Sanssouci 1747](plot_02_sanssouci_1747.md) und lenkt das forstwirtschaftliche Handeln von [Ulrich](persona_ulrich.md).
+Bestimmt die Lebensart im Plot [Die Vollendung von Schloss Sanssouci 1747](plot_02_sanssouci_1747.md) und lenkt das forstwirtschaftliche Handeln derer, die die Kiefernwälder hegen und ihre Stille über den schnellen Ertrag stellen.

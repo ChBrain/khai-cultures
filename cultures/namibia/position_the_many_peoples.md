@@ -34,4 +34,4 @@ Ground when the old lines, though laid to rest under one law, are let harden aga
 
 ## Drives
 
-Lives in [Hosea Kutako](persona_kutako.md), who held the many peoples to one cause with a steady patient voice; in [John Muafangejo](persona_muafangejo.md), who cut their faces and their stories into prints the world came to know; and in [Gazza](persona_gazza.md), who braided their tongues into one beat the whole country owns. It drives Namibia to hold its many peoples as one in equal dignity, the one nation made of many and the stronger for it.
+Lives in the elder statesman who held the many peoples to one cause with a steady patient voice; in the printmaker who cut their faces and their stories into prints the world came to know; and in the musician who braided their tongues into one beat the whole country owns. It drives Namibia to hold its many peoples as one in equal dignity, the one nation made of many and the stronger for it.

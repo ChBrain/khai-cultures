@@ -34,4 +34,4 @@ Terrein wanneer men het binnenland vergeet of als achterland behandelt, wanneer 
 
 ## Drives
 
-Leeft in [Boni](persona_boni.md), de legendarische marronleider die de vrije samenlevingen van het bos tegen het koloniale leger aanvoerde en wiens naam de genomen vrijheid van het binnenland draagt. Zij drijft Suriname om het Afrikaanse erfgoed van het bos te eren en de vrijheid die daar gewonnen werd nooit te vergeten.
+Leeft in de legendarische marronleider die de vrije samenlevingen van het bos tegen het koloniale leger aanvoerde en wiens leiderschap de genomen vrijheid van het binnenland vertegenwoordigt. Zij drijft Suriname om het Afrikaanse erfgoed van het bos te eren en de vrijheid die daar gewonnen werd nooit te vergeten.

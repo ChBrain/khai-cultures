@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The deep Southern speech of the Peach State, the Georgian English that carries the slow, hospitable drawl of the orchards and the warm, rhythmic cadence of Atlanta and the pulpit. It holds the sound of the Deep South, the drawn vowels and gentle courtesy that mark a voice as of this state.
+What the tongue lets a speaker state plainly through word order alone: a fixed subject-verb-object pattern so regular that case endings are barely needed, and a store of modal verbs (might, could, would) that hedge certainty in fine shades without changing the main verb's ending. In the state's own Southern strand of it, a distinct second-person plural, y'all, fills a gap the general standard leaves unmarked.
 
 ## Orders
 
-What counts here as how folks talk, the hospitable southern register, where the same drawl serves the agricultural log and the archive, the country road and the city church. It orders which sound reads as native Georgia, the courteous cadence against which the outsider is heard.
+A single word, you, to greet the stranger and the grandparent alike, so address here carries no formality choice built into the grammar; tense and aspect built mainly from helper verbs, is going, has gone, would have gone, rather than from endings on the verb itself; and, in the region's own speech, a drawn-out vowel that turns a one-syllable word into two, carrying an emphasis a flatter accent cannot make.
 
 ## Loses
 
-Ground to General American, the broadcast standard that the growing metropolis and its transplants carry in, thinning the rural drawl, and to the corporate speech of the New South economy. It loses too to the Spanish of the seasonal crews and the many tongues of a metropolis remaking its sound.
+A grammatical way to mark more than one listener without reaching outside the standard tongue for y'all; the vowel distinctions the Southern drawl itself erodes, so that pin and pen, or feel and fill, can fall together in the mouth and must be told apart from context alone; and a marker of social rank built into the pronoun itself, since the same you must serve the elder and the child.
 
 ## Drives
 
-It carries the state's habit of sounding warm, slow, and courteous. It gives [Carter](persona_carter.md) the hospitable drawl of his orchard logs, the mother tongue he speaks and writes, and it carries the warm, rhythmic cadence of [Evelyn](persona_evelyn.md), the defining code she speaks and thinks in. So the one Southern sound shows who speaks it as home.
+Speaking it trains an ear to lean on word order and stress rather than on word ending to carry meaning, since so little here is marked by inflection. It frees the speaker from any daily reckoning of formal rank in address, since one word serves every listener. And the region's slow, drawn vowels teach a patient, unhurried pace of speech to whoever grows up inside it, a rhythm strangers to the sound must learn to parse by ear before they can answer in kind.

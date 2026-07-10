@@ -34,4 +34,4 @@ Li pers later kan dimoun servi lafwa pou separe plito ki pou rasanble, kan enn g
 
 ## Drives
 
-Viv dan [Abhimanyu Unnuth](persona_unnuth.md), ki ti ekrir lor lavi bann ki ti amenn zot lafwa depi Lenn dan kann, ek dan [zwer ravann](persona_ravann_zwer.md), ki fer tou kominote, tou lafwa, danse otour enn sel ravann. Li pous Moris pou gard so lakord bann lafwa, kot Diwali, Eid ek Cavadee briye ansam dan enn sel lesiel.
+Viv dan enn ekrivin ki ti ekrir lor lavi bann ki ti amenn zot lafwa depi Lenn dan kann, ek dan zwer ravann, ki fer tou kominote, tou lafwa, danse otour enn sel ravann. Li pous Moris pou gard so lakord bann lafwa, kot Diwali, Eid ek Cavadee briye ansam dan enn sel lesiel.

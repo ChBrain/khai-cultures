@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El valencià és el nom que la Comunitat Valenciana dóna a la seua llengua pròpia, la mateixa llengua que a Catalunya i a les Illes rep el nom de català, amb les seues formes i el seu lèxic valencians. És llengua cooficial segons l'Estatut d'Autonomia, arrelada en el Segle d'Or d'Ausiàs March i de Joanot Martorell, i present a l'escola, a la justícia i als mitjans públics.
+El valencià té a la seua disposició tot el sistema de pronoms febles del català, combinacions com els hi o se'n va que en una sola síl·laba carreguen persona, cas i direcció alhora, un recurs que moltes llengües veïnes no tenen amb la mateixa densitat. Té la conjugació pròpiament valenciana, amb l'acabament en -e de la primera persona (jo parle, jo visc) i les formes incoatives en -isc o -ix (patisc, ix), diferents de les del català central, i conserva viu, sobretot al sud, el pretèrit perfet simple (cantà, visqué) que el català central ha abandonat gairebé del tot en favor de la forma perifràstica. I porta un lèxic agrícola i d'arrel àrab que ve directament de la séquia i de l'horta, séquia, alqueria, barraca, paraules que no es tradueixen, es diuen.
 
 ## Orders
 
-Mana que l'escola ensenye en valencià perquè els xiquets del país el compartisquen com a llengua comuna, i ordena que les institucions de la Generalitat, la retolació i els mitjans públics el facen servir amb tota normalitat; demana als nouvinguts que el prenguen com a eina d'integració plena en la vida valenciana de cada dia.
+Obliga, com tot català, a triar entre ser i estar per a marcar allò permanent i allò passatger, i a concordar el nom, l'adjectiu i l'article en gènere i nombre en cada frase. Obliga també a decidir, en la conjugació incoativa, entre la forma en -isc i la forma en -ix segons el verb i la zona, i a mantindre el pronom feble adossat al verb en cada oració, de manera que el subjecte i l'objecte mai queden implícits del tot com en altres llengües romàniques.
 
 ## Loses
 
-Perd terreny davant del castellà a les grans ciutats de la costa i entre els jóvens, on la pressió demogràfica i el consum en espanyol el desplacen de l'ús quotidià; i perd presència als comerços, al turisme de platja i a l'administració, on sovint es replega quan no es protegix el seu ús públic i s'accepta el castellà per defecte.
+No té l'article salat, es i sa, que el mallorquí sí conserva, de manera que allà on el balear guarda una forma llatina distinta el valencià ja fa temps que la va perdre en favor de el i la. I el pretèrit perfet simple, viu al sud, es retira cap al perifràstic (vaig cantar) a mesura que es puja cap al nord i cap a les ciutats, de manera que una mateixa llengua no diu ell anà i ell va anar amb el mateix pes segons on es parle.
 
 ## Drives
 
-Configura la parla materna de [Vicent](persona_vicent.md), l'arrosser de l'Albufera i home del Tribunal de les Aigües, i de [Carme](persona_carme.md), l'artista fallera de València, que pensen, parlen i creen en valencià cada dia.
+Acostuma qui hi pensa i hi parla a portar persona, cas i direcció condensats en una síl·laba solta, el pronom feble, en compte d'escampar-los en paraules separades. Empeny a triar sense parar entre ser i estar segons si allò que es diu és tret permanent o estat passatger, i a mantindre viva, en la parla del sud, una forma verbal que la resta de la llengua ja ha deixat arrere, de manera que qui la parla sosté dins la mateixa boca un tros de llatí que altres varietats germanes ja no diuen.

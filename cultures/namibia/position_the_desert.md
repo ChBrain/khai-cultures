@@ -34,4 +34,4 @@ Ground when the patience the desert teaches curdles into mere endurance, the wai
 
 ## Drives
 
-Lives in [Mvula ya Nangolo](persona_nangolo.md), who put the dry land and its longing into the nation's verse and taught a people to read their own country on the page. It drives Namibia toward patience and sharing and the unhurried way, the conviction that there is room enough for all and that the space, the silence and the light are a gift no busier country can buy.
+Lives in the poet who put the dry land and its longing into the nation's verse and taught a people to read their own country on the page. It drives Namibia toward patience and sharing and the unhurried way, the conviction that there is room enough for all and that the space, the silence and the light are a gift no busier country can buy.

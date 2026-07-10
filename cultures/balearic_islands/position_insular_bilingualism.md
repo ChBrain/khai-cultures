@@ -34,4 +34,4 @@ Su equilibrio cuando la globalización turística impone el uso del inglés y de
 
 ## Drives
 
-Guía el desarrollo de normativas en el relato [El Decreto de la Posidonia 2018](plot_03_posidonia.md) y orienta el cultivo tradicional de [Coloma](persona_coloma.md).
+Guía el desarrollo de normativas en el relato [El Decreto de la Posidonia 2018](plot_03_posidonia.md) y orienta el cultivo tradicional de la payesía balear.

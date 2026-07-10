@@ -34,4 +34,4 @@ Du terrain quand la parole devient un ornement plutot qu'une exigence, recitee p
 
 ## Drives
 
-Vit en [Barthelemy Boganda](persona_boganda.md), qui a donne ces trois mots au pays comme une seule idee a tenir, et qui voulait que chacun puisse se les dire dans sa propre bouche. Elle pousse la Centrafrique a se mesurer sans cesse a la promesse qu'elle s'est faite, et a payer cette dette, jour apres jour, envers le plus humble des siens.
+Elle vit dans le don de ces trois mots au pays comme une seule idee a tenir, faite pour que chacun puisse se les dire dans sa propre bouche. Elle pousse la Centrafrique a se mesurer sans cesse a la promesse qu'elle s'est faite, et a payer cette dette, jour apres jour, envers le plus humble des siens.

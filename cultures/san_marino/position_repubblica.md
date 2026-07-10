@@ -34,4 +34,4 @@ Di autorevolezza se emergono scandali di corruzione o se le riforme istituzional
 
 ## Drives
 
-Indirizza il dovere civico di [Giulia](persona_giulia.md) ed è regolata nel Plot [L'adozione degli Statuti del 1600](plot_02_statuto_1600.md).
+Indirizza il dovere civico del cittadino ed è regolata nel Plot [L'adozione degli Statuti del 1600](plot_02_statuto_1600.md).

@@ -34,4 +34,4 @@ Du terrain quand la neutralite se mue en defiance d'une religion en particulier,
 
 ## Drives
 
-Elle vit en [Emile Zola](persona_zola.md), dont ' J'accuse ' a defendu la justice due a tout citoyen hors de toute appartenance, et elle a ete eprouvee par l'affaire Dreyfus.
+Elle vit dans l'ecrit qui, par ' J'accuse ', a defendu la justice due a tout citoyen hors de toute appartenance, et elle a ete eprouvee par l'affaire Dreyfus.

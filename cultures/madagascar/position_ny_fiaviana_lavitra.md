@@ -34,4 +34,4 @@ Very hery rehefa ny iray fiteny lasa fanadinoana ny hamaroan'ny foko sy ny haren
 
 ## Drives
 
-Velona ao amin'i [Jean-Joseph Rabearivelo](persona_rabearivelo.md), izay nanovo tamin'ny teny malagasy sy ny teny vahiny, ka nampihaona ny tontolo manokan'ny nosy amin'izao tontolo izao tamin'ny zava-kantony. Manosika an'i Madagasikara hitazona ny maha-iray azy amin'ny fiteny sy ny fiaviana, sady hanaja ny hamaroan'ny fokony.
+Velona ao amin'ny mpanoratra izay nanovo tamin'ny teny malagasy sy ny teny vahiny, ka nampihaona ny tontolo manokan'ny nosy amin'izao tontolo izao tamin'ny zava-kantony. Manosika an'i Madagasikara hitazona ny maha-iray azy amin'ny fiteny sy ny fiaviana, sady hanaja ny hamaroan'ny fokony.

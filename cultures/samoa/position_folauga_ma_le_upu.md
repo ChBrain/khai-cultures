@@ -34,4 +34,4 @@ E faaitiitia pe a galo le poto o le sami a tagata anamua, pe a manatu o le folau
 
 ## Drives
 
-O loo ola i [Albert Wendt](persona_albert_wendt.md), o le tusitala sili o le Pasefika, o le na ave le leo o le faaSamoa ma le Pasefika i le lalolagi e ala i le upu. E uunaia ai Samoa e manatua o se tagata folau ma se leo i le lalolagi, e le o se motu toatasi, ma e ave le upu Samoa i le lautele o le Pasefika ma le lalolagi atoa.
+O loo ola i le tusitala sili o le Pasefika, o le na ave le leo o le faaSamoa ma le Pasefika i le lalolagi e ala i le upu. E uunaia ai Samoa e manatua o se tagata folau ma se leo i le lalolagi, e le o se motu toatasi, ma e ave le upu Samoa i le lautele o le Pasefika ma le lalolagi atoa.

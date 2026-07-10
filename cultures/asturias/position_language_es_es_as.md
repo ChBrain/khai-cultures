@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano tal como se habla en Asturias, con la entonación cantada de la cornisa cantábrica y el poso hondo del asturiano debajo: el léxico de la mina y de la mar, los diminutivos en -ín, las vocales que se cierran al final y ese deje que delata al hablante en cuanto abre la boca. Es el español que la llingua tiñe por dentro, hablado en las cuencas, en las brañas y en los chigres.
+El español de Asturias trae, bajo la gramática castellana, la huella fónica del asturiano: la metafonía que cierra las vocales finales cuando el asturiano de fondo las empuja, el diminutivo en -ín y -ina en vez del -ito y -ita castellano, y un vocabulario propio de la mina, la mar y la braña que el castellano de otras tierras no tiene a mano.
 
 ## Orders
 
-Que en Asturias se hable el castellano con su propio deje y sus palabras heredadas de la llingua, en la mina, en la quesería y en la sidrería; que el acento asturiano valga como habla propia y no como falta; y que el poso del asturiano siga vivo dentro del español de cada día.
+Como todo español obliga a marcar género en cada sustantivo y a concordarlo con su artículo y su adjetivo, a elegir el subjuntivo ante la duda o el deseo, y a cargar en un solo verbo la persona, el número, el tiempo, el aspecto y el modo; y aquí, además, obliga a cerrar las vocales finales con el deje asturiano, un cierre que el hablante hace sin pensarlo.
 
 ## Loses
 
-Pierde terreno ante el castellano neutro del centro, que oye el deje asturiano como rural o gracioso; y a la vez queda prensado entre esa norma castellana y [el asturiano](position_asturian_language.md), que reclama ser lengua entera, de modo que el habla de cada día no acaba de ser tenida ni por buen castellano ni por asturiano.
+Al sentarse entre dos normas pierde terreno por los dos lados, ni pasa por buen castellano ante el oído del centro, que oye el deje como rural, ni pasa por asturiano entero ante quien reclama la llingua como lengua propia con su gramática completa; y la verdadera metafonía y el plural del asturiano de siempre se quedan casi todos fuera cuando se habla en castellano.
 
 ## Drives
 
-Lo [llevan como lengua de trato](process_speaking_carried.md), junto a su asturiano materno, [Covadonga](persona_covadonga.md), la quesera de los Picos, y [Xuan](persona_xuan.md), el minero jubilado del Nalón, que en el castellano de acento asturiano tratan con las oficinas y los distribuidores sin dejar de pensar en la llingua. Empuja a Asturias a hablar su castellano con el deje del asturiano debajo, sin tenerlo por castellano mal hablado.
+El deje delata el origen del hablante en cuanto abre la boca, antes de que diga una palabra que lo confirme; y crecer entre las dos normas entrena la mente para pensar a la vez en el vocabulario de la llingua y en la gramática del castellano, sin que una acabe de ganarle el terreno a la otra.

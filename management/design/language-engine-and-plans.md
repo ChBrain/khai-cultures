@@ -92,15 +92,27 @@ one encounter) - a follow-on workstream after the per-culture rollout.
 
 ### 2.5 Language variety as a position
 
-A language **variety** is a `position` (Has / Orders / Loses / Drives), **held and
-shared** by a culture's personas - the position's `Drives` names them. A German
-persona holds **German Standard German**; three Austrians share one **Austrian
-German**; an English persona holds **British English**, a Scot **Scots**. `Has` is
-the standard's authority, `Orders` what it prescribes as correct, `Loses` where
-dialect or another variety wins, `Drives` who holds it. Varieties are
-**per-culture** (self-contained); the cross-variety friction of tier 2 is read off
-two personas holding different variety-positions of a shared base tongue. `pitch`
-stays reserved for the single Hofstede tone; it is not used for varieties.
+A language **variety** is a `position` (Has / Orders / Loses / Drives), **held**
+by a culture's personas. A German persona holds **German Standard German**; three
+Austrians share one **Austrian German**; an English persona holds **British
+English**, a Scot **Scots**.
+
+**The link runs one way.** A persona links its position (persona -> position); a
+position never links or names a persona back. The language does not drive a named
+holder; the holder is driven by the language. So a position describes what is
+driven regardless of who holds it, and its four sections carry the **linguistic
+impact of the tongue on whoever holds it**: `Has` is what the tongue lets you
+express that neighbours do only clumsily (its expressive gifts), `Orders` is what
+its grammar forces you to mark every time (gender, case, the T/V choice, aspect,
+evidentiality, verb-final suspension), `Loses` is what it cannot easily say or
+what erodes at its edges, and `Drives` is how thinking in it shapes the mind - the
+habits of thought and address the language instils. Ground every section in real
+features of that specific tongue, write it in that tongue, name no persona.
+
+Varieties are **per-culture** (self-contained); the cross-variety friction of tier
+2 is read off two personas holding different variety-positions of a shared base
+tongue. `pitch` stays reserved for the single Hofstede tone; it is not used for
+varieties.
 
 ### 2.6 The language-position standard (variety, coverage, and the cross-culture rule)
 

@@ -34,4 +34,4 @@ Ground when the estate's old order is denied rather than reckoned with - when th
 
 ## Drives
 
-Lives in [Martin Carter](persona_martin_carter.md), the poet who sang the bound and the freed and named the nigger yard he came from, and in [the canecutter](persona_the_canecutter.md), African then Indian, the bound and freed labourer who is the soul of the estate. It drives Guyana to honour the people the canefield made and to refuse ever to draw its line again.
+Lives in the poet who sang the bound and the freed and named the nigger yard he came from, and in the canecutter, African then Indian, the bound and freed labourer who is the soul of the estate. It drives Guyana to honour the people the canefield made and to refuse ever to draw its line again.

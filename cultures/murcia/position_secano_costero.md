@@ -34,4 +34,4 @@ Su equilibrio cuando la degradación ecológica extrema de la laguna por vertido
 
 ## Drives
 
-Guía el desarrollo de la resistencia en el relato [El Cantón de Cartagena 1873](plot_02_canton.md) y orienta la cooperativa de [Encarna](persona_encarna.md).
+Guía el desarrollo de la resistencia en el relato [El Cantón de Cartagena 1873](plot_02_canton.md) y orienta la cooperativa de la salinera y artesana de salazón que la sostiene.

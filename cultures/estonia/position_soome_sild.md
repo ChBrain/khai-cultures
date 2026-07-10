@@ -34,4 +34,4 @@ Pinda kaotab, kui silla teine ots tähendab vaid tööd ja palka: kümned tuhand
 
 ## Drives
 
-Elab [Meris](persona_meri.md), kes pööras Eesti näo Euroopa ja Põhjala pere poole ja kõndis soome ja soomeugri suguluse oma teena, ja [Kristjanis](persona_kristjan.md), kes käib üle lahe Soomes tööl ja elab ekraanil inglise keeles. Ajab Eestit hoidma pilku põhja ja otsima oma kohta vaba põhja peres, mitte idanaabri varjus.
+Elab riigijuhtimises, mis pööras Eesti näo Euroopa ja Põhjala pere poole ja kõndis soome ja soomeugri suguluse oma teena, ja argipäeva pendelrändes, mis käib üle lahe Soomes tööl ja elab ekraanil inglise keeles. Ajab Eestit hoidma pilku põhja ja otsima oma kohta vaba põhja peres, mitte idanaabri varjus.

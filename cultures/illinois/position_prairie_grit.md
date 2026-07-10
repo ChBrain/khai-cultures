@@ -34,4 +34,4 @@ Its balance when deep-seated conservatism leads to political isolation, rejectin
 
 ## Drives
 
-Encourages the persistence in the plot [Lincoln's Rise in Springfield 1860](plot_02_lincoln_springfield.md) and guides the agricultural work of downstate farmer [Mary](persona_mary.md).
+Encourages the persistence in the plot [Lincoln's Rise in Springfield 1860](plot_02_lincoln_springfield.md) and guides the agricultural work of downstate farmers.

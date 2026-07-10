@@ -34,4 +34,4 @@ Pierde terreno cuando el paso pasa por encima del país en vez de pasar por él:
 
 ## Drives
 
-Vive en [Vasco Nunez de Balboa](persona_balboa.md), el primer europeo que cruzó el istmo y miró el otro mar, el que descubrió que aquí los dos océanos quedan a un paso, y en [el canalero](persona_el_canalero.md), el trabajador antillano y local cuyas manos cavaron el paso y hoy lo hacen andar. Impulsa a Panamá a verse como el puente del mundo y a pelear porque ese puente sea de veras suyo.
+Vive en el explorador que primero cruzó el istmo y miró el otro mar, el que descubrió que aquí los dos océanos quedan a un paso, y en el canalero, el trabajador antillano y local cuyas manos cavaron el paso y hoy lo hacen andar. Impulsa a Panamá a verse como el puente del mundo y a pelear porque ese puente sea de veras suyo.

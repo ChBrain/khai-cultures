@@ -34,4 +34,4 @@ E kabuaa korakorana ngkana e a kabuaa te onimaki nakon te boowi, ke ngkana a a a
 
 ## Drives
 
-E maeka i nanon [Ieremia Tabai](persona_tabai.md), are e taua te maneaba bwa aana te tautaeka ae boou ngke e reke te inaomata, ao i nanon [te unimwane](persona_te_unimwane.md), are e taua te katei ao te boowi i nanon te maneaba. E kaira Kiribati bwa e na taua te boowi ae e reke iroun te koraki, ao bwa e na teimatoa te katei ni Kiribati bwa nnen te aba.
+E maeka i nanon te moan Beretitenti, are e taua te maneaba bwa aana te tautaeka ae boou ngke e reke te inaomata, ao i nanon te unimwane, are e taua te katei ao te boowi i nanon te maneaba. E kaira Kiribati bwa e na taua te boowi ae e reke iroun te koraki, ao bwa e na teimatoa te katei ni Kiribati bwa nnen te aba.

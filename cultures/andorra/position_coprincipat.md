@@ -34,4 +34,4 @@ En estabilitat si es trenca l'equilibri de poders o si es qüestiona la legitimi
 
 ## Drives
 
-Estableix la base dels [els Pareatges](piece_pareatges.md) de 1278 i guia la signatura de [La Constitució de 1993](plot_02_constitution.md), definint la posició institucional de [Laia](persona_laia.md).
+Estableix la base dels [els Pareatges](piece_pareatges.md) de 1278 i guia la signatura de [La Constitució de 1993](plot_02_constitution.md), definint la posició institucional de qui viu sota la diarquia dels Coprínceps.

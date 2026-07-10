@@ -34,4 +34,4 @@ Du terrain quand la parole se vend a qui la paie, la louange devenue flatterie c
 
 ## Drives
 
-Vit dans [le jeli](persona_le_jeli.md), maitre de la parole qui garde l'epopee et la transmet, et dans [Mory Kante](persona_mory_kante.md), ne dans une famille de griots, qui a porte cette parole et sa kora jusqu'au monde entier. Elle pousse la Guinee a tenir sa parole pour sacree et a garder vivante, de bouche a oreille, la memoire d'ou elle vient.
+Vit dans le jeli, maitre de la parole qui garde l'epopee et la transmet, et dans le musicien, ne dans une famille de griots, qui a porte cette parole et sa kora jusqu'au monde entier. Elle pousse la Guinee a tenir sa parole pour sacree et a garder vivante, de bouche a oreille, la memoire d'ou elle vient.

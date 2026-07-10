@@ -34,4 +34,4 @@ An Bedeutung, wenn protektionistische Handelshemmnisse den Seeverkehr einschrän
 
 ## Drives
 
-Bestimmt das städtische Selbstverständnis im Plot [Das Barbarossa-Privileg 1189](plot_01_barbarossa_1189.md) und inspiriert Kaufleute wie [Helmut](persona_helmut.md).
+Bestimmt das städtische Selbstverständnis im Plot [Das Barbarossa-Privileg 1189](plot_01_barbarossa_1189.md) und inspiriert die hanseatischen Kaufleute der Stadt.

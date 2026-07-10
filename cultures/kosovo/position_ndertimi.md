@@ -34,4 +34,4 @@ Efikasitetin nëse burokracia ose largimi i rinisë jashtë vendit ngadalësojn�
 
 ## Drives
 
-Përbën motivimin kryesor profesional për diplomaten [Besa](persona_besa.md) dhe shënon epokën e re të filluar me shpalljen e pavarësisë në [2008](plot_03_pavaresia_2008.md).
+Përbën motivimin kryesor profesional për juristët dhe diplomatët e rinj që punojnë në institucionet e shtetit, dhe shënon epokën e re të filluar me shpalljen e pavarësisë në [2008](plot_03_pavaresia_2008.md).

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Auctoritatem linguae officialis Sanctae Sedis, sermonem in quo lex ecclesiastica, ritus liturgicus et acta pontificia perpetuo conduntur. Latinitas tenet normam verbi sacri et iuridici, illam linguam scriptam qua per saecula decretum et oratio idem pondus habent : cum imperia ruerent et gentes sermones suos mutarent, Ecclesia hunc unum sermonem tamquam vinculum memoriae et unitatis servavit.
+Sex casus nominis, non ordo verborum, sententiam regunt: Latinitas verba per sententiam libere sparsa sinit iacere, dum sola terminatio declarat quis agat, quid patiatur, cuius res sit, cui detur. Habet participium quod actionem et effectum uno verbo iungit, et ablativum absolutum, quo tota clausula adverbialis duobus verbis, sine coniunctione ulla, clauditur. Sic brevitate et pondere gaudet, plura paucis verbis dicens quam linguae quae ordine et praepositionibus nituntur.
 
 ## Orders
 
-Ut quae rata et officialia habeantur - decreta, litterae apostolicae, textus liturgici - hoc sermone componantur et signentur. Ordinat quid in acta, in codicem et in ritum recte transeat, et ex multitudine linguarum vernacularum unam probatam normam facit, qua Ecclesia ubique eodem verbo loquitur et se ipsam per aetates eandem agnoscit.
+Cogit nomen omne unum ex sex casibus et genus (masculinum, femininum, neutrum) sibi eligere, et verbum omne personam, numerum, tempus, modum, vocem simul portare. Imperat ut in oratione subordinata tempora inter se respondeant (consecutio temporum), et ut sensus integer, verbis quamvis longe dispersis, demum ex una terminatione colligatur: auditor totam periodum suspensam tenet, donec ultimum verbum sententiam claudit.
 
 ## Loses
 
-Terram amittit vernaculis linguis quae in ore vivunt et quotidie cogitantur, nam nemo iam hunc sermonem in cunis accipit : omnes eum tamquam superindutum gerunt, doctum non natum, ita ut immediata vi sermonis patrii careat. Amittit etiam saeculari mundo extra muros vaticanos, ubi lingua Latina rara et antiqua auditur, dum praesens aetas suis linguis obstrepit.
+Caret articulo, certo et incerto, quem multae linguae posteriores fingunt, ita ut res nota ab ignota sola voce non semper discernatur. Amittit etiam sonum vivum: nulla iam gens hanc linguam ab incunabulis accipit, et pronuntiatio ipsa, inter morem antiquum et ecclesiasticum divisa, incerta manet. Sermo cotidianus et proverbialis, quo populus olim iocabatur, sub lingua scripta et docta fere obruitur.
 
 ## Drives
 
-Impellit parvam civitatem ut unum sermonem in aeternum servet et in eo se totam agnoscat. Eum gerit [Maria](persona_maria.md) tamquam superindutum, dum vetera documenta vertit et litteras pontificias edit; et [Petrus](persona_petrus_arch.md) custos, qui eum in sacris ritibus et curiae negotiis officialibus adhibet, quamvis uterque alium sermonem patrium teneat. Ita una latinitas ostendit quid Ecclesiam per tempora unum teneat.
+Cogit eum qui hac lingua loquitur vel scribit, sensum totum prius mente componere quam verbum extremum proferat, et ordinem verborum non ex more sed ex voluntate sua eligere, quasi sententiam manu construeret. Assuefacit ad terminationes acute observandas, non ad locum verbi in versu, et ad sensum aequo pondere in principio, medio, fine sententiae latentem. Ita mentem gignit quae rem prius integre concipit et postea, structura firma, pronuntiat.

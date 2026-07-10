@@ -34,4 +34,4 @@ Its balance when corporate resort speculation consolidates historic pasture land
 
 ## Drives
 
-Guides the racing events in the plot [The Kentucky Derby Inauguration 1875](plot_01_kentucky_derby.md) and drives the breeding operations of [Clara](persona_clara_ky.md).
+Guides the racing events in the plot [The Kentucky Derby Inauguration 1875](plot_01_kentucky_derby.md) and drives the breeding operations run by the region's horse trainers.

@@ -34,4 +34,4 @@ Zemi zaudē, kad dziesma kļūst par skatuves izrādi un skansenu, ne dzīvu bal
 
 ## Drives
 
-Dzīvo [Baronā](persona_barons.md), kas izglāba miljonu dainu un sakārtoja tās savā skapī, un [Martā](persona_marta.md), kas mūžu dziedāja Dziesmu svētku korī pa pusei krieviskā Rīgā. Dzen Latviju turēties pie dziesmas kā saknes un kā ieroča, ar ko maza tauta radīja sevi un bez asinīm izcīnīja brīvību.
+Dzīvo folkloristā, kas izglāba miljonu dainu un sakārtoja tās savā skapī, un kora dziedātājā, kas mūžu dziedāja Dziesmu svētku korī pa pusei krieviskā Rīgā. Dzen Latviju turēties pie dziesmas kā saknes un kā ieroča, ar ko maza tauta radīja sevi un bez asinīm izcīnīja brīvību.

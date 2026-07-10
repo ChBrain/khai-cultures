@@ -34,4 +34,4 @@ Terreno quando a vocação de partir esvazia o país, quando a emigração leva 
 
 ## Drives
 
-Levou [Vasco da Gama](persona_da_gama.md) ao outro lado dos oceanos em [Os Descobrimentos](plot_01_descobrimentos.md) e continua a puxar [Tiago](persona_tiago.md), que sente na pele a velha tensão entre ficar e partir.
+Levou o navegador ao outro lado dos oceanos em [Os Descobrimentos](plot_01_descobrimentos.md) e continua a puxar quem sente na pele a velha tensão entre ficar e partir.

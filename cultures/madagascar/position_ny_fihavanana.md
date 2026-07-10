@@ -34,4 +34,4 @@ Very hery rehefa lasa fatorana mamatotra ny fihavanana, rehefa ny fitiavana miha
 
 ## Drives
 
-Velona ao amin'i [Andrianampoinimerina](persona_andrianampoinimerina.md), izay nanao ny fihavanana ho fototry ny fanjakany ka nampandry tany ny ambanivohitra tamin'ny firaisankina, ary ao amin'i [Flavien Ranaivo](persona_ranaivo.md), izay nampaneno ny feon'ny havana sy ny hain-teny ho zava-kanto. Manosika an'i Madagasikara hitazona ny havana ho akaiky sy ny vondrona ho iray, na inona na inona elanelana mampisaraka.
+Velona ao amin'ny mpanjaka izay nanao ny fihavanana ho fototry ny fanjakany ka nampandry tany ny ambanivohitra tamin'ny firaisankina, ary ao amin'ny poeta izay nampaneno ny feon'ny havana sy ny hain-teny ho zava-kanto. Manosika an'i Madagasikara hitazona ny havana ho akaiky sy ny vondrona ho iray, na inona na inona elanelana mampisaraka.

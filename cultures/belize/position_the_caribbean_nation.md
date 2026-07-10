@@ -34,4 +34,4 @@ Ground when the smallness is taken for insignificance, by the claimant who would
 
 ## Drives
 
-Lives in [George Price](persona_george_price.md), the father of the nation who led it from colony to country and gave it its own voice, and in [Philip Goldson](persona_philip_goldson.md), the nationalist and rights leader who held the line for a Belize that would be fi we own. It drives Belize to stand as a Caribbean nation in Central America, late-born and small but wholly fi we own.
+Lives in the leadership that took the nation from colony to country and gave it its own voice, and in the nationalist and rights advocacy that held the line for a Belize that would be fi we own. It drives Belize to stand as a Caribbean nation in Central America, late-born and small but wholly fi we own.

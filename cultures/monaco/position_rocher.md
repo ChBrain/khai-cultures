@@ -34,4 +34,4 @@ De sa superbe si la modernité efface le charme médiéval de ses ruelles ou si 
 
 ## Drives
 
-Structure l'existence de [Albert](persona_albert.md), qui y vit loin du tumulte, et s'impose comme le symbole historique dans [La ruse de François Grimaldi 1297](plot_01_grimaldi_1297.md).
+Structure l'existence des pêcheurs monégasques de souche qui y vivent loin du tumulte, et s'impose comme le symbole historique dans [La ruse de François Grimaldi 1297](plot_01_grimaldi_1297.md).

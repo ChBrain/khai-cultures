@@ -34,4 +34,4 @@ Pôdu stráca voči sekularizácii miest a odchodu mladých, a tam, kde sa z vie
 
 ## Drives
 
-Žije v [Anne](persona_anna.md), ktorá drží vieru, púť a sviatky, keď iní odchádzajú, a v tichej zbožnosti ľudu pod horami. Ženie Slovensko, aby hľadalo vo viere oporu a spojivo, ktoré mu svetská vrchnosť po stáročia nikdy nedala.
+Žije v tých, čo držia vieru, púť a sviatky, keď iní odchádzajú, a v tichej zbožnosti ľudu pod horami. Ženie Slovensko, aby hľadalo vo viere oporu a spojivo, ktoré mu svetská vrchnosť po stáročia nikdy nedala.

@@ -34,4 +34,4 @@ Nawawalan ng lupa kapag ang debosyon ay nauuwi sa pagtanggap na lamang nang wala
 
 ## Drives
 
-Nabubuhay kay [Levi Celerio](persona_celerio.md), na sa kundiman at sa awiting bayan ay inilapat sa wikang Filipino ang damdamin at ang pananalig ng karaniwang tao. Pinatutunog nito ang Pilipinas upang ang pag-asa ay hindi mawala kahit sa pinakamadilim na panahon.
+Nabubuhay sa kompositor na sa kundiman at sa awiting bayan ay inilapat sa wikang Filipino ang damdamin at ang pananalig ng karaniwang tao. Pinatutunog nito ang Pilipinas upang ang pag-asa ay hindi mawala kahit sa pinakamadilim na panahon.

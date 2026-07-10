@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-The authority of English as it is spoken and written across Northern Ireland: the one tongue both communities actually live their daily lives in, whatever heritage language each claims as its badge. Ulster's English carries its own hard, quick music, the how's about ye, the wee and the aye, the rising turn at the end of a sentence, and it is shared, plainly, across a line that divides almost everything else, the common speech of unionist and nationalist alike.
+Ulster English keeps a second person plural pronoun, yous, that Standard English lost centuries ago, letting a speaker address a group without the ambiguity of reusing the singular you; it keeps the all-purpose diminutive wee, which can soften or shrink almost any noun, and the affirmative aye, which can be layered with no into combinations, aye, no, that plain Standard English has no room to build.
 
 ## Orders
 
-What passes for good English in the province, the register of the school, the courts, the civil service, and the broadcaster, and the plain Ulster idiom that marks the speech as neither Great Britain's nor the Republic's. It orders the working language of both traditions at once, the tongue in which the whole business of a divided place is actually done, from the shop counter to the Assembly, however loud the argument over the two heritage tongues beside it.
+It forces a rising, question-like pitch onto the end of an ordinary statement, the Ulster rise, so a plain declarative can land on an outside ear as a question whether or not one was meant; it forces discourse particles such as sure and so onto the front or end of a clause to hedge or soften nearly any claim; and it keeps vowel distinctions, lost to mergers elsewhere in these islands, that mark a speaker as Ulster the moment the mouth opens.
 
 ## Loses
 
-Ground to nothing but the weight it is made to carry: for in a place where a name or a sign is read as a flag, even the shared tongue is bent to the quarrel, and the same word is heard for allegiance before it is heard for sense. It loses whenever the one speech both sides own is turned into another front in the argument, so that the tongue that could be common ground is drafted, instead, into the fight over which side one is on.
+It cannot easily strip the rising terminal from a statement once the habit is set, so a speaker can sound to seek confirmation when they mean flatly to assert; and the reflex to cushion nearly every claim with sure or a wee softener can blunt an unhedged assertion, making bare certainty harder to voice without sounding curt.
 
 ## Drives
 
-It drives Northern Ireland to do the whole of its shared life in a single English that neither tradition can claim as its own alone. It lives in [John Hume](persona_hume.md), who used that common tongue as a bridge where others made language a flag, carrying the same plain case across to the other side until it was heard, and in [David Trimble](persona_trimble.md), who bent the sharp public English of unionism from a hard No to a guarded Yes. So the shared speech becomes the ground on which a peace neither side could make alone was, at last, agreed.
+The habitual rise trains the ear to hear pitch, not word order alone, as the mark of a question, and the reflex to soften nouns with wee and claims with sure instils a habit of speaking gently even about hard things, cushioning the force of a statement before it is fully out of the mouth.

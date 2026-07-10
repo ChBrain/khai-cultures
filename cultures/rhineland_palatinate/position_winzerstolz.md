@@ -34,4 +34,4 @@ An Glaubwürdigkeit, wenn Massenproduktion die handwerkliche Qualität verdräng
 
 ## Drives
 
-Prägt den Lebensalltag von [Jakob](persona_jakob.md) und treibt die Entwicklung im Plot [Die Entwicklung der großen Weinbauregionen](plot_03_wine_history.md) voran.
+Prägt den Lebensalltag der Winzerfamilien und treibt die Entwicklung im Plot [Die Entwicklung der großen Weinbauregionen](plot_03_wine_history.md) voran.

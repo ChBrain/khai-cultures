@@ -34,4 +34,4 @@ Půdu ztrácí, když se z chytrého přežití stane jen alibi: když ironie om
 
 ## Drives
 
-Žije v [Haškovi](persona_hasek.md), který tu obranu pojmenoval a vepsal národu do krve, a v [Jiřině](persona_jirina.md), která přečkala okupaci i komunismus tichou ironií a staráním se o svoje. Žene Česko, aby přesilu přechytračilo a přesmálo, místo aby na ni narazilo čelem.
+Žije v postavě, jež tuto obranu pojmenovala a vepsala národu do krve, a v tiché ironii, která přečkala okupaci i komunismus staráním se o svoje. Žene Česko, aby přesilu přechytračilo a přesmálo, místo aby na ni narazilo čelem.

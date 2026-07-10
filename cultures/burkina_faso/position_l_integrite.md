@@ -34,4 +34,4 @@ Du terrain quand le nom devient une parure qu'on recite au lieu d'une exigence q
 
 ## Drives
 
-Vit dans [Thomas Sankara](persona_sankara.md), porte au pays par la memoire de l'austerite et du pari de compter sur ses propres bras, figure sobre de la fierte nationale et du nom qu'on s'est donne. Elle pousse Burkina Faso a se mesurer non a ce qu'il possede mais a ce qu'il vaut, et a tenir, jour apres jour, la parole de son propre nom.
+Vit dans la memoire du chef qui donna au pays son nom en 1984, austere et exigeant d'abord envers lui-meme, figure sobre de la fierte nationale et du pari de compter sur ses propres bras. Elle pousse Burkina Faso a se mesurer non a ce qu'il possede mais a ce qu'il vaut, et a tenir, jour apres jour, la parole de son propre nom.

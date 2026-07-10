@@ -34,4 +34,4 @@ Its balance when self-reliance leads to isolationism and suspicion of necessary 
 
 ## Drives
 
-Encourages the historic craft preservation in the plot [The Lost Colony of Roanoke 1587](plot_01_roanoke.md) and drives the hand weaving of [Sarah](persona_sarah.md).
+Encourages the historic craft preservation in the plot [The Lost Colony of Roanoke 1587](plot_01_roanoke.md) and drives the hand weaving carried on by mountain craftspeople.

@@ -34,4 +34,4 @@ Terreno cuando la capital confunde su parte con el todo: cuando lo limeño se da
 
 ## Drives
 
-La vive en carne propia [César Vallejo](persona_vallejo.md), el poeta nacido en un pueblo de la sierra que tuvo que irse a Lima y luego al mundo para que lo oyeran, y que llevó la provincia honda a la voz más universal del país. Empuja al Perú a dejar de gobernarse desde una sola orilla y a reconocer que la nación entera empieza más allá de Lima.
+La vive en carne propia el poeta nacido en un pueblo de la sierra que tuvo que irse a Lima y luego al mundo para que lo oyeran, y que llevó la provincia honda a la voz más universal del país. Empuja al Perú a dejar de gobernarse desde una sola orilla y a reconocer que la nación entera empieza más allá de Lima.

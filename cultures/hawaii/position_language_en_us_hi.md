@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The island-cadenced English of the Hawaiian archipelago, the Hawaii English spoken across the islands with the relaxed local rhythm and vowel colorings that neighbor the Pidgin creole without being it. It holds the sound of a place where standard American English is carried in an unmistakably local voice, softened by the languages of the Pacific.
+What island English lets a speaker carry that mainland English cannot: the glottal stop and long vowel of Hawaiian loanwords, kept intact inside an English sentence, aloha, mahalo, `ohana, pau, sounds English has no letter for and no native phoneme to match, borrowed whole rather than reshaped. It carries too a syllable-timed rhythm, each syllable given roughly equal weight, inherited from Hawaiian and from Pidgin underneath, where mainland English instead stresses some syllables and swallows others.
 
 ## Orders
 
-What counts here as how folks talk, the local island register of school, office, and log, where the same easy cadence serves the navigation log and the archive. It orders which sound reads as of the islands, the local English against which the mainland voice is instantly heard as malihini, the newcomer.
+It orders the glottal stop to be heard and not dropped in words like `a`a or `okina itself, a consonant standard English spelling has no letter for, so the ear alone must supply it. Underneath the standard grammar, local speech orders the aspect marker "stay" before a verb to mark what is happening right now, "the food stay cooking," a marking English elsewhere carries with an -ing alone. And it still orders every finite English verb to take its tense, and every countable noun its article, the same obligations Standard English carries anywhere.
 
 ## Loses
 
-Ground to General American, the mainland broadcast standard that arrives with tourism and transplants, and it lives always beside Hawaiian Pidgin, the creole that claims the intimate, at-home register the standard cannot reach. It loses too to the Hawaiian language of the sovereignty movement, which reclaims what English displaced.
+It loses, in translation, the grammar Hawaiian itself once carried whole: a verb-first sentence order English cannot reproduce, and a possession system that splits "of my own choosing" from "of my body or family" into two different grammatical classes, o-class and a-class, a distinction that collapses into one flat "my" once the thought is said in English. The evenly-timed local rhythm also loses the stress contrasts that let mainland English lean on one syllable to carry emphasis, so emphasis here is carried by pitch and length instead.
 
 ## Drives
 
-It carries the islands' habit of sounding local, easy, and warm. It gives [Keanu](persona_keanu.md) the English of his navigation logs, the mother tongue he speaks and writes beside his ancestral Hawaiian, and it carries the island English of [Leilani](persona_leilani.md), the defining code she speaks and thinks in. So the one island sound shows who speaks it as home.
+It drives whoever speaks it to hold two sound systems in one mouth at once, an English consonant inventory and a Hawaiian glottal stop dropped into it without a stumble. It drives an even, unhurried syllable rhythm that outsiders read as laid back, because no single syllable is built to carry more than its share. And it drives a constant small choice between the standard "-ing" and the local "stay" for marking what is happening now, so that a speaker signals distance or closeness by which grammar, mainland or island, they reach for in the same breath.

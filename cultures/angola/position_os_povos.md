@@ -34,4 +34,4 @@ Terreno quando a mistura vira motivo de divisão, quando se mede quem é mais ou
 
 ## Drives
 
-Vive em [Agostinho Neto](persona_neto.md), que pôs a sua gente em verso, em [Pepetela](persona_pepetela.md), que a contou inteira em prosa, e em [a zungueira](persona_a_zungueira.md), que a carrega na cabeça de sol a sol. Move Angola a segurar unida a sua gente toda, a fazer do calor e da mistura a sua força, e a lembrar que o seu maior tesouro são as pessoas que a habitam.
+Vive em quem pôs a sua gente em verso, em quem a contou inteira em prosa, e em quem a carrega na cabeça de sol a sol. Move Angola a segurar unida a sua gente toda, a fazer do calor e da mistura a sua força, e a lembrar que o seu maior tesouro são as pessoas que a habitam.

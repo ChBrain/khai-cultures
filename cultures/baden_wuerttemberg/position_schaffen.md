@@ -34,4 +34,4 @@ An Überzeugungskraft, wenn übermäßiger Geiz die Lebensqualität einschränkt
 
 ## Drives
 
-Bestimmt den wirtschaftlichen Erfolg im Plot [Die Volksabstimmung zum Südweststaat 1951](plot_02_volksabstimmung_1951.md) und leitet die Arbeit von [Frieda](persona_frieda.md).
+Bestimmt den wirtschaftlichen Erfolg im Plot [Die Volksabstimmung zum Südweststaat 1951](plot_02_volksabstimmung_1951.md) und leitet die Arbeit derjenigen, die es Tag für Tag in die Tat umsetzen.

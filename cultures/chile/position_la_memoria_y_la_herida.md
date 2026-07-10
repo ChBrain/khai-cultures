@@ -34,4 +34,4 @@ Pierde terreno cuando la mesura que mantiene la paz se vuelve el silencio que en
 
 ## Drives
 
-Vive en [Violeta Parra](persona_violeta_parra.md), la folclorista que juntó el canto del pueblo y guardó en él la memoria de la tierra, y en [el minero](persona_el_minero.md), el minero del norte aguantador en la oscuridad, la columna vertebral de la nación que se la banca y vuelve a subir. Empuja a Chile a saldar su herida, a guardar su memoria, y a enfrentar la tierra que tiembla y la oscuridad con una paciencia que reconstruye.
+Vive en el canto del pueblo que junta la voz de todos y guarda en él la memoria de la tierra, y en el aguante del minero del norte que resiste en la oscuridad, la columna vertebral de la nación que se la banca y vuelve a subir. Empuja a Chile a saldar su herida, a guardar su memoria, y a enfrentar la tierra que tiembla y la oscuridad con una paciencia que reconstruye.

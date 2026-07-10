@@ -34,4 +34,4 @@ Its balance when heavy urban sprawl and commercial development pave over histori
 
 ## Drives
 
-Encourages the environmental conservation in the plot [Boardwalk Empire and Beach Resorts 1870](plot_02_boardwalk.md) and drives the research work of [Gabriella](persona_gabriella.md).
+Encourages the environmental conservation in the plot [Boardwalk Empire and Beach Resorts 1870](plot_02_boardwalk.md) and drives the research work of the environmental scientist.

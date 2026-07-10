@@ -34,4 +34,4 @@ Terreng, der likheten blir til likedanning og misunnelse, og der ingen tør å s
 
 ## Drives
 
-Den bærer [Kari](persona_kari.md), som avviser ros med et skuldertrekk, og den lever i [Olav den hellige](persona_olav.md)s arv om at folket, ikke en herre, skal bære riket og friheten.
+Den bærer dem som avviser ros med et skuldertrekk, og den lever i arven om at folket, ikke en herre, skal bære riket og friheten.

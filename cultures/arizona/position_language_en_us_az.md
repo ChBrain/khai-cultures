@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The authority of Arizona's own variety of American English, the Western-cadenced speech of the Grand Canyon State spoken from the copper towns of the south to the desert cities of the valley, one regional voice of the wider American tongue. It carries the direct talk of the mine and the water board, and it sits beside the older tongues of the land, the Navajo of the reservation among them, that it never replaces. It holds the plain register in which Arizonans conduct their working and civic life, from the safety briefing to the tour and the state hearing.
+Arizonan English carries the general resources of American English, an analytic grammar that builds meaning through word order and auxiliary verbs rather than through endings, so it absorbs new vocabulary easily. In this region that gift shows in the desert and Spanish-derived loanwords it has folded into ordinary speech without any special marking, canyon, mesa, arroyo, adobe, and rodeo among them, words a purely Germanic vocabulary would have had to build from its own roots.
 
 ## Orders
 
-What the state conducts its shared life in: the geological report and the water-board presentation, the safety briefing and the classroom, the ruling and the broadcast. It orders the common ground on which the copper geologist of the frontier and the Navajo weaver of the reservation address one another and the state, a single regional speech spanning the mine and the desert canyon.
+Like all English, it forces subject-verb agreement and an obligatory article before most nouns (a, an, the), a marking many of the world's languages do without; it forces do-support to make a question or a negative ('does it rain' rather than a bare inversion); and, since almost no case is marked on the noun, it forces a fixed subject-verb-object order to keep who is doing what to whom clear.
 
 ## Loses
 
-Ground to the older tongues of the land it can never enter, the Navajo of the loom and the family in which the deepest wisdom of the desert is held; and ground when its direct, commercial register drowns the slower, tradition-bound talk of the reservation, so that ancestral, resource-conserving knowledge sounds like a distant echo against the corporate mining rush.
+It cannot mark a noun's gender or case the way Spanish or German can, so relations that those languages fold into a word ending, English must spell out with extra prepositions; and it lost, centuries ago, the old thou/you split, so it has no grammatical way left to mark formality or social distance in address, unlike the tú/usted or Sie/du choice a speaker of a neighboring language must make every time.
 
 ## Drives
 
-It is the mother tongue of [Ramon](persona_ramon.md), the Bisbee copper geologist who speaks, hears, and thinks in the direct Western cadence of the mine; and it is worn as an overgarment by [Yazhi](persona_yazhi.md), the Navajo weaver whose first tongue is Navajo and who takes up Arizonan English for the tour and the water board while keeping the deep speech at home. So the regional tongue shows who is born to it and who wears it over an older first language, and it drives Arizona to hold its mining and its ancestral desert voices without letting the one erase the other.
+Losing the T/V distinction pushes the English speaker to carry respect and distance in tone, title, and word choice instead of in grammar, since the grammar itself no longer asks the question; and the ease of absorbing loanwords without conjugating or gendering them trains an ear comfortable with borrowed words sitting unchanged inside a native sentence. So the flat, article-bound, order-dependent structure of English shapes whoever speaks it here into someone who marks status by choice of word, not by rule of grammar.

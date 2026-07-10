@@ -34,4 +34,4 @@ Its balance when excessive state-wide zoning mandates override local county righ
 
 ## Drives
 
-Guides the legal reforms in the plot [The Women's Suffrage Act 1869](plot_01_suffrage.md) and drives the archiving work of [Esther](persona_esther.md).
+Guides the legal reforms in the plot [The Women's Suffrage Act 1869](plot_01_suffrage.md) and drives the archiving work that keeps the record of that first franchise available to every later reform.

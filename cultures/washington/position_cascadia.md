@@ -34,4 +34,4 @@ Its credibility when environmental policies restrict agricultural water access, 
 
 ## Drives
 
-Shapes the environmental campaigns in the plot [The Hanford Site and Manhattan Project 1943](plot_03_hanford_site.md) and drives the orchard management of [Sarah](persona_sarah.md).
+Shapes the environmental campaigns in the plot [The Hanford Site and Manhattan Project 1943](plot_03_hanford_site.md) and drives the orchard management that weighs water rights and land stewardship against the valley's farming needs.

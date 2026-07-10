@@ -34,4 +34,4 @@ Its balance when strict preservation rules restrict traditional agricultural wat
 
 ## Drives
 
-Guides the conservation work in the plot [The Founding of Rocky Mountain National Park](plot_02_national_park.md) and drives the ski patrol operations of [Lucas](persona_lucas.md).
+Guides the conservation work in the plot [The Founding of Rocky Mountain National Park](plot_02_national_park.md) and drives the ski patrol operations that keep mountain recreation safe.

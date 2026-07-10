@@ -34,4 +34,4 @@ Its balance when state spending cuts reduce public university budgets, weakening
 
 ## Drives
 
-Encourages the state reform programs in the plot [Progressive Era Reforms 1901](plot_03_progressive_reforms.md) and guides the shipping operations of [Ingrid](persona_ingrid.md).
+Encourages the state reform programs in the plot [Progressive Era Reforms 1901](plot_03_progressive_reforms.md) and guides shipping operations run on the same data-driven, transparent standard the reforms set.

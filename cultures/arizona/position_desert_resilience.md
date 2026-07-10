@@ -34,4 +34,4 @@ Its balance when excessive municipal water restrictions disrupt local agricultur
 
 ## Drives
 
-Guides the conservation work in the plot [Grand Canyon National Park Act 1919](plot_01_grand_canyon.md) and drives the cultural guidance of [Yazhi](persona_yazhi.md).
+Guides the conservation work in the plot [Grand Canyon National Park Act 1919](plot_01_grand_canyon.md) and drives the cultural guidance of the Navajo weaver whose stewardship carries the community's ancestral land wisdom forward.

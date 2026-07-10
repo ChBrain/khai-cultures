@@ -34,4 +34,4 @@ Terrein wanneer de bladeren zich tegen elkaar keren, wanneer de politiek langs d
 
 ## Drives
 
-Leeft in [Dobru](persona_dobru.md), die de natie het beeld van wan bon schonk en in een enkel gedicht de vele volken tot een boom bezong, en in [de contractarbeider](persona_de_contractarbeider.md), die uit India en Java kwam en met zijn taal, zijn geloof en zijn feest een nieuw blad aan de boom werd. Zij drijft Suriname om zijn zeldzame samenleven switi te koesteren en de boom heel te houden.
+Leeft in het gedicht dat de natie het beeld van wan bon schonk en de vele volken in één enkel vers tot een boom bezong, en in de contractarbeider die uit India en Java kwam en met zijn taal, zijn geloof en zijn feest een nieuw blad aan de boom werd. Zij drijft Suriname om zijn zeldzame samenleven switi te koesteren en de boom heel te houden.

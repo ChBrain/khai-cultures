@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The Eastern New England English of the Ocean State, the non-rhotic bay speech of Narragansett: the warm Providence drawl of the estuary labs and the salt-worn maritime cadence of the Newport boatyards. It holds a dropped-r coastal plainness that both the tide chart and the sailboat mold carry.
+The dropped postvocalic r of the Narragansett shore (cah, pahk), opening the vowel where other American English closes it into a retroflex; the linking r Rhode Island speech inserts between a vowel-final word and the next vowel (the idea-r-of it) where the spelling shows none; and a lexicon the bay alone keeps, cabinet for a milkshake, bubbler for a drinking fountain, quahog for the clam that names the chowder, words the rest of the country either lacks or does not mean the same way.
 
 ## Orders
 
-Where it passes as native ground: the Providence estuary lab, the town-meeting floor, the Newport boatyard, the harbor board. It orders which turns of phrase and vowels mark a speaker as Rhode Islander and sets the inland Providence ear against the Newport waterfront one.
+Like all English, it orders a strict subject-verb-object sequence to carry meaning a case-marked language would hang on endings instead, and a single you for every listener, high or low, familiar or strange, where languages with a formal/familiar split make the speaker choose. The Rhode Island tongue orders further that certain vowels drop their r once the tongue leaves them, and that a linking r surface just where the spelling forgets one.
 
 ## Loses
 
-Ground to General American, the rhotic national broadcast standard the screen and the commercial board carry, which puts the r back into the young and stamps the dropped-r bay speech as merely local color. The corporate yacht-sales register also crowds the older town-meeting talk toward the margin.
+The r sound after a vowel, so cah and cart, pahk and park, collapse in speech into what the letter alone still shows; the formal and familiar address that other languages carry in the grammar itself, so warmth and distance must be built by tone and word choice rather than by a grammatical choice; and, as broadcast General American reaches every screen, the dropped r itself, retreating from the young mouth the national ear teaches to sound its r again.
 
 ## Drives
 
-It carries [Mary](persona_mary_ri.md), whose warm drawl is the working English of the Providence estuary labs, and [William](persona_william.md), whose maritime cadence holds the English of the Newport boatyards. So the one Rhode Island speech shows who keeps the charter ground and who turns toward the yacht trade.
+It trains whoever grows up hearing it to open a vowel where the spelling promises a consonant, and to hear no fault in it; it habituates the ear to supply, unbidden, the linking r between one vowel and the next; and, lacking grammatical gender or case beyond the pronoun, it leaves the speaker relying on word order and on a handful of local words, cabinet, bubbler, quahog, to carry what the accent alone cannot.

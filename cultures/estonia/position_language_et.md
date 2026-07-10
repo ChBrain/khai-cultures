@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Eesti keel, soomeugri keel, mis ei kuulu indoeuroopa perre nagu peaaegu kõik naabrid: tema ainus lähisugulane on üle Soome lahe soome keel, mida eestlane poolenisti mõistab, kuid mis on võõras lätlasele, leedulasele, venelasele ja sakslasele. Sajandeid oli see vaid maarahva talupojakeel Taani, Saksa, Rootsi ja Vene isandate all, ilma kirjanduse ja õiguseta; isandate keel oli saksa, krooni keel vene. Ärkamisajal said maarahva suust luule, teater ja kirjandus, ja keelest sai rahva kodu, kui riiki polnud.
+Neliteist käänet, mis väljendavad kohta, suunda ja seisundit ilma eessõnata (majas, majja, majast, majale); kolm pikkusastet ühe ja sama hääliku peal, lühike, pikk ja ülipikk, mis muudavad sõna tähendust hääldusega üksi (lina, linna, linna); ja pikk, läbipaistev liitsõna, mis paneb kaks-kolm juurt üheks täpseks nimisõnaks kokku ilma uue tüveta.
 
 ## Orders
 
-Et kõneldakse ja kirjutatakse eesti keelt ka seal, kus valitses saksa või vene keel, et keelt hoitakse ja antakse edasi kui hilja võidetud vara, ja et rahvas tunneb end keele ja laulu järgi, mitte riigi järgi, mille sai alles lõpuks.
+Igas lauses tuleb valida õige kääne koha, suuna või omandi jaoks; osastava käände kaudu tuleb märkida, kas tegevus jäi pooleli või sai valmis, kas asi on tervik või osa sellest; ja sama sõna kolm pikkusastet tuleb hoida selgelt lahus, sest lühike ja pikk hääldus annavad eri sõna ja eri tähenduse.
 
 ## Loses
 
-Pinda kaotab täna lääne inglise keelele, milles noored töötavad ja elavad ekraanil, ja seisab idanaabri vene keele ning suure venekeelse vähemuse kõrval, keda tuleb lõimida; väike keel, mille ainus sugulane on üle lahe, peab end hoidma kahe suure vahel, et mitte hõreneda.
+Tulevikuvormi, mida eesti keel verbi otsaga ei märgi, vaid jätab oleviku ja konteksti kanda. Grammatilise soo, mida keel üldse ei tunne, nii et "tema" jätab mehe ja naise sama sõna alla. Ja artikli, mida keeles pole, nii et määratuse vahe jääb lauseehituse, eriti osastava ja omastava käände vahetuse kanda.
 
 ## Drives
 
-Elab [Koidulas](persona_koidula.md), kes tegi talupojakeelest luule ja teatri, [Meris](persona_meri.md), kes rääkis pisikese rahva selle keelega tagasi rahvaste perre, [Ilveses](persona_ilves.md), kes hoidis emakeele paguluses alles ja ehitas selles digitaalse riigi, [Ainos](persona_aino.md), kes hoidis oma vaikse eesti keele tervena läbi nõukogude aastate, kui kool surus peale vene keelt, ja [Kristjanis](persona_kristjan.md), kellel on väike keel pihus soome sugulaskeele ja maailma inglise keele vahel. Ajab Eestit hoidma hilja võidetud keelt kui tõendit, et rahvas on omaette, ka siis, kui ainus keelesugulane on üle vee.
+Paneb keelekõneleja kuulma väiksematki pikkuse või käände erinevust, mis muudab terve sõna tähendust; harjutab teda otsustama iga lause juures, kas asi on osa või tervik, enne kui ta lause lõpetab; ja jätab tuleviku alati oleviku ja konteksti kanda, mistõttu aeg jääb kõnes kergemini märgitud kui paljudes teistes keeltes.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Orta Asya bozkırından gelen, eklemeli, komşularının hiçbiriyle akraba olmayan Türkçe bir dil: Yunanca, Slavca, Arapça, Farsça, Ermenice ve Kürtçenin arasında yalnız başına duran bir Türk dili. Osmanlı, ona Arap alfabesini, Farsça ve Arapça sözcükleri yüklemişti; 1928'de Atatürk harf devrimiyle alfabeyi Latin'e çevirdi ve dili arılaştırdı. Böylece dil, bir kuşakta kendi Osmanlı geçmişinden koparıldı.
+Türkçe eklemeli bir dildir: bir köke eklenen ekler tek tek anlam katar (ev, evler, evlerimizden, evlerimizdekiler), böylece başka dillerin ayrı sözcüklerle kurduğu anlamı Türkçe tek bir sözcük içinde üst üste bindirebilir. Ünlü uyumu her eki kökle aynı ses ailesine bağlar, bu yüzden bir sözcük kulağa uçtan uca tek bir renkten örülmüş gibi gelir. Türkçe ayrıca -miş ekiyle bir şeyi bizzat gördüğünü mü yoksa başkasından mı duyduğunu her cümlede ayırt eder; "geldi" ile "gelmiş" arasındaki fark, birçok dilin doğrudan söyleyemediği bir bilgi kaynağı ayrımını taşır.
 
 ## Orders
 
-Latin harfleriyle yazılan arı Türkçenin konuşulup yazılmasını, dilin ulusun temeli sayılmasını, ve halkın artık eski Osmanlıca'yı değil, devrimin verdiği yeni dili kendi dili bilmesini buyurur. Ulus kendini bayrağıyla değil, bu yeniden yapılmış diliyle de tanır.
+Dilbilgisi konuşana her defasında -miş ile -di arasında seçim yaptırır: bir olayı doğrudan tanık olarak mı, yoksa aktarma yoluyla mı bildirdiğini işaretlemeden cümle kurulamaz. Ünlü uyumu her ekin ünlüsünü köke göre kalınlaştırır ya da incelter, bu kural hiçbir istisnaya izin vermez. Cümlenin yüklemi çoğunlukla sonda durur, bu yüzden konuşan anlamın çekirdeğini söylemeden önce özneyi, nesneyi ve tüm belirteçleri sıralamak zorundadır; dinleyen de cümlenin tam anlamını ancak yüklem gelince kavrar. Sen ve siz ayrımı da her hitapta bir mesafe kararı dayatır.
 
 ## Loses
 
-Dil kendi geçmişinden koparıldığı için bir şeyini yitirir: Türkler dedelerinin Osmanlıca yazısını okuyamaz, namazda andıkları Arapçayı anlamaz olur. Bugün ise küresel İngilizce karşısında ve diasporadaki Almanca içinde aşınır; bir kuşakta değişmiş dil, kökünü hep eksik tutar.
+Eklemeli yapı, tek bir Avrupa dili sözcüğünün karşıladığı kavramı bazen birkaç ekin art arda dizilmesiyle ancak uzun bir sözcükte taşıyabilir, bu da hızlı çeviride bir tür ağırlığa yol açar. Ünlü uyumu yabancı kökenli alıntı sözcüklerde bozulur, bu sözcükler Türkçenin kendi ahengine tam uymadan dilde asılı kalır. Latin alfabesine geçişle Arap harfleriyle yazılmış Osmanlıca metinlerin sesi bugünün konuşanı için doğrudan okunaklı olmaktan çıkmıştır; harf değişse de dil aynı kalsa da, yazıyla ses arasındaki o eski bağ bir kuşakta kesilmiştir.
 
 ## Drives
 
-Bu dil onu ana dili olarak tutan herkeste yaşar. [Atatürk](persona_ataturk.md)'te, onu harf devrimiyle bizzat yeniden yapan kurucuda; [Ayşe](persona_ayse.md)'de, ne büyükannesinin Osmanlıca harflerini okuyabilen ne namazdaki Arapçayı anlayan, dili bir ömürde yeniden yapılmış ninede; [Can](persona_can.md)'da, diline gitgide İngilizce karışan iki arada gençte; [Fatih](persona_fatih.md)'te, bozkırın Türkçesini iki kıta üstündeki tahta taşıyan fatihte; ve [Yunus Emre](persona_yunus_emre.md)'de, imanı halka sade Türkçeyle veren şairde diri kalır. Böylece bir dil, onu kimin taşıdığını ve neyi kesip attığını gösterir; Türkiye'yi yeniden yapılmış dilini diri tutarken kesip attığı Osmanlı geçmişine de sahip çıkmaya iter.
+Yüklemi sona bırakan bir dilde konuşmak, cümleyi tümüyle kurup öğeleri sıralamayı, anlamı ancak sonda bağlamayı bir alışkanlık hâline getirir. Kanıtsallık ekini her cümlede seçmek zorunda kalmak, konuşanı bir bilgiyi nereden aldığını sürekli değerlendirmeye alıştırır: gördüm mü, yoksa duydum mu. Ünlü uyumunun her eke işlediği kulak, sözcüğü tek bir ses dokusu olarak duymaya, ekleri kökten kopuk parçalar değil kökle kaynaşmış bir bütün olarak algılamaya yatkın hâle gelir.

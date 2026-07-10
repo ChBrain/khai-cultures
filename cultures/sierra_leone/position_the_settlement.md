@@ -34,4 +34,4 @@ Ground when the welcome turns into a hierarchy, when the returned and the people
 
 ## Drives
 
-Lives in [Sengbe Pieh](persona_sengbe_pieh.md), the carried-away man who fought his way home and stands for every soul the Settlement was made to receive, and in [S.E. Rogie](persona_rogie.md), whose sweet palm-wine guitar became the song the gathered people of the town of the free could all sing. It drives Sierra Leone to be the home for the homecoming, the country that knows what it is to be sold away and to be brought back, and that holds its door open as the proof of who it is.
+Lives in every carried-away soul who fought a way home and stands for every soul the Settlement was made to receive, and in the sweet palm-wine guitar song that became the tune the gathered people of the town of the free could all sing. It drives Sierra Leone to be the home for the homecoming, the country that knows what it is to be sold away and to be brought back, and that holds its door open as the proof of who it is.

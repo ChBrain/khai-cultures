@@ -34,4 +34,4 @@ Its balance when heavy coastal water pollution closes local shellfish beds, frac
 
 ## Drives
 
-Guides the harbor regulations in the plot [Newport Mansion Boom 1880](plot_02_newport_mansion.md) and drives the sailboat building of [William](persona_william.md).
+Guides the harbor regulations in the plot [Newport Mansion Boom 1880](plot_02_newport_mansion.md) and drives the sailboat building of the boatwrights who keep the craft alive.

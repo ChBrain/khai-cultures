@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano de la vega del Ebro, hablado con el acento pausado de la Rioja Alta y el lexico tecnico de la tonelería, del trasiego y del envasado de las conservas de la Ribera. Guarda la memoria de una lengua nacida en estos valles, la de las Glosas Emilianenses escritas en los margenes de Suso, y el vocabulario del vinedo, de la barrica de roble y de la huerta de ribera que la tierra sigue hablando.
+La lengua castellana, que puede omitir el sujeto porque la desinencia verbal ya dice quien actua (hablo, hablas, habla), y que distingue con dos tiempos distintos el preterito indefinido y el imperfecto, de modo que un mismo hecho pasado se cuenta como acabado o como continuado segun la terminacion que lleve el verbo; posee ademas el modo subjuntivo, un juego entero de formas verbales reservado para lo dudado, lo deseado o lo aun no sucedido.
 
 ## Orders
 
-Manda que en las catas de cooperativa, en las bodegas de pueblo y en las conserveras de la vega se hable la lengua reposada del valle, y que el lexico del tostado de la madera, de la crianza y del envasado manual de hortalizas pase de maestro a oficial sin perderse. Ordena la lealtad al viticultor tradicional, el trato cerrado de palabra antes que el papel de la gran distribuidora.
+Que todo sustantivo lleve genero, masculino o femenino, y que el articulo y el adjetivo concuerden con el en genero y numero; que el hablante elija entre tu y usted cada vez que se dirige a alguien, marcando la distancia o la confianza en la propia forma verbal; y que el subjuntivo aparezca de forma obligatoria tras ciertas conjunciones y verbos de deseo o duda, aunque el hablante no lo note como eleccion.
 
 ## Loses
 
-Pierde terreno cuando las directivas de etiquetado europeo y los reglamentos de trazabilidad del Consejo Regulador imponen su jerga sobre el saber del tonelero y de la hortelana, y cuando el volumen de las multinacionales de exportacion sustituye los terminos propios del oficio por neologismos comerciales. Cede tambien ante el castellano neutro de la ciudad, que iguala el acento riojano y apaga sus giros de bodega y de vega.
+La distincion clara entre el "lo" objeto directo masculino y el "le" que otras variantes del castellano reservan al dativo se debilita en el uso leista de la comarca, donde "le" sustituye a menudo al "lo" esperado; y el subjuntivo, tan vivo en la lengua escrita, cede terreno en el habla corriente frente a formas mas simples, de modo que un matiz de duda que el modo llevaba entero se dice hoy con menos precision.
 
 ## Drives
 
-Empuja a esta tierra a reconocer en su habla la cuna misma de la lengua escrita. Se la da a [Gonzalo](persona_gonzalo.md), tonelero y bodeguero de Haro, y a [Olaya](persona_olaya.md), conservera de Calahorra, como lengua materna en la que trabajan, gestionan y sostienen la memoria del pueblo; y en cada uno se ve quien mantiene viva esta voz del Ebro frente a la norma comercial que la uniformiza.
+Acostumbra a quien la habla a omitir el sujeto y a fiarse de la propia terminacion del verbo para saber quien hace que; lo entrena a distinguir en cada relato si un hecho paso una vez y quedo cerrado o si se prolongo en el tiempo, por el simple cambio de tiempo verbal; y el vaiven entre tu y usted lo acostumbra a medir la distancia social en cada verbo que pronuncia, no solo en el pronombre.

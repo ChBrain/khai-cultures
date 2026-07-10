@@ -34,4 +34,4 @@ Its balance when excessive state-wide zoning mandates override local town decisi
 
 ## Drives
 
-Guides the local assembly organizing in the plot [The Fundamental Orders 1639](plot_01_fundamental_orders.md) and drives the historical auditing of [Abigail](persona_abigail.md).
+Guides the local assembly organizing in the plot [The Fundamental Orders 1639](plot_01_fundamental_orders.md) and drives the historical auditing that keeps town records and legal precedent in force.

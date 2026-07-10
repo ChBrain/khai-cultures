@@ -34,4 +34,4 @@ Bo latlhegelwa ke tsela fa motho a ikgantsha ka khumo le maemo a bo a nyatsa yo 
 
 ## Drives
 
-Bo tshela mo go [Seretse Khama](persona_seretse.md), yo o gogetseng naga kwa boipuso a sa busolosetse bosula ka bosula mme a aga kagiso, le mo go [Bessie Head](persona_bessie_head.md), yo o tshotsweng ke morafe wa Serowe a le moeng a bo a kwala botho jwa batho ba a neng a tshela le bone. Bo gogela Botswana kwa kagisong, kwa go amogeleng moeng, le kwa go reng motho ke motho ka batho.
+Bo tshela mo go ope yo o gogelang naga kwa boipuso a sa busolosetse bosula ka bosula mme a aga kagiso, le mo go ope yo o amogetsweng ke morafe wa Serowe a le moeng a bo a nna wa teng, a kwala botho jwa batho ba a neng a tshela le bone. Bo gogela Botswana kwa kagisong, kwa go amogeleng moeng, le kwa go reng motho ke motho ka batho.

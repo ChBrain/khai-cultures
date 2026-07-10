@@ -34,4 +34,4 @@ Ihomba igihe ivuye mu cubahiro cayo igahinduka igikoresho gusa, igihe ijwi ryayo
 
 ## Drives
 
-Iba muri [Ntare Rushatsi](persona_ntare.md), uwashize ingoma nk'umutima w'ubwami, na muri [Mwezi Gisabo](persona_gisabo.md), uwakomeje icubahiro c'ingoma mu gihugu cose, na muri [umutimbo](persona_umutimbo.md), uwuvuza ingoma akabungabunga umutima w'igihugu. Ituma u Burundi kibika umutima waco utera kandi kitareka ingoma ngo ihwere.
+Iba mu kuba yarashizwe nk'umutima w'ubwami, no mu cubahiro cayo camaze kwitwararikwa mu gihugu cose, no mu kuvugwa n'uwuyivuza akabungabunga umutima w'igihugu. Ituma u Burundi kibika umutima waco utera kandi kitareka ingoma ngo ihwere.

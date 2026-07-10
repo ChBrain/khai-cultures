@@ -34,4 +34,4 @@ Terreno quando l'orgoglio del proprio diventa diffidenza verso il resto e impedi
 
 ## Drives
 
-Vive in [Rosa](persona_rosa.md), legata al suo paese e ai suoi, e in [Giulia](persona_giulia.md), milanese che guarda al proprio Nord. Spinge l'Italia a essere fortissima nel piccolo e nel vicino, e debolissima nel grande e nello Stato, e a fare della propria città la prima patria.
+Vive in chi resta legato al proprio paese e ai suoi, e in chi, dal Nord milanese, guarda al proprio Nord. Spinge l'Italia a essere fortissima nel piccolo e nel vicino, e debolissima nel grande e nello Stato, e a fare della propria città la prima patria.

@@ -34,4 +34,4 @@ Its balance when superficial diversity policies replace actual civil rights prog
 
 ## Drives
 
-Guides the local community planning in the plot [The Montgomery Bus Boycott 1955](plot_01_montgomery_boycott.md) and drives the museum archiving of [Albert](persona_albert.md).
+Guides the local community planning in the plot [The Montgomery Bus Boycott 1955](plot_01_montgomery_boycott.md) and drives the museum archiving of the movement's historic records.

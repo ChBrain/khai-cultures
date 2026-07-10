@@ -34,4 +34,4 @@ Tè lè glwa a tounen sèlman yon souvni olye yon fòs k ap pouse demen an, lè 
 
 ## Drives
 
-Li viv nan [Toussaint Louverture](persona_toussaint.md), estratèj ki te montre chimen libète a, epi nan [Jean-Jacques Dessalines](persona_dessalines.md), ki te pwoklame endepandans lan epi bay nasyon an non l. Li pouse Ayiti pou l kenbe fyète premye repiblik nwa a epi tounen glwa sa a an diyite pou pitit li yo ak pou tout mond lan.
+Li viv nan estratèj ki te montre chimen libète a, epi nan jeneral ki te pwoklame endepandans lan epi bay nasyon an non l. Li pouse Ayiti pou l kenbe fyète premye repiblik nwa a epi tounen glwa sa a an diyite pou pitit li yo ak pou tout mond lan.

@@ -34,4 +34,4 @@ Terreno cuando la herida se vuelve rencor y se busca culpa afuera en vez de raí
 
 ## Drives
 
-La encarnan [José Gaspar Rodríguez de Francia](persona_francia.md), "El Supremo," que cerró y forjó la patria a puerta cerrada, y el Mariscal [Francisco Solano López](persona_solano_lopez.md), figura trágica que condujo a la nación por la Guerra Grande, anga. Empuja al Paraguay a recordar el precio que pagó por existir y a convertir esa memoria en resistencia y no en rencor, che ra'a.
+La encarnan "El Supremo," el dictador que cerró y forjó la patria a puerta cerrada, y el Mariscal, figura trágica que condujo a la nación por la Guerra Grande, anga. Empuja al Paraguay a recordar el precio que pagó por existir y a convertir esa memoria en resistencia y no en rencor, che ra'a.

@@ -34,4 +34,4 @@ Su equilibrio cuando el gobierno impone la clausura forzosa de pozos tradicional
 
 ## Drives
 
-Guía la regulación de riegos en el relato [El Acuífero Protegido 1987](plot_03_aquifer.md) y orienta la quesería de [Aldonza](persona_aldonza.md).
+Guía la regulación de riegos en el relato [El Acuífero Protegido 1987](plot_03_aquifer.md) y orienta la quesería de Daimiel, el oficio que depende del agua de pozo para su ganado y su producción.

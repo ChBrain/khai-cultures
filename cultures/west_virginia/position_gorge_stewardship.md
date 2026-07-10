@@ -34,4 +34,4 @@ Its balance when excessive park commercialization reduces public river access, f
 
 ## Drives
 
-Guides the river preservation in the plot [New River Gorge Tourism 1978](plot_03_new_river_gorge.md) and drives the raft guiding of [Lilly](persona_lilly.md).
+Guides the river preservation in the plot [New River Gorge Tourism 1978](plot_03_new_river_gorge.md) and drives the raft guide's work, the trained hand that keeps visitors safe on the rapids while keeping the gorge open to them.

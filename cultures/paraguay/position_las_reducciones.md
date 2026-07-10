@@ -34,4 +34,4 @@ Terreno cuando la memoria se vuelve solo piedra y ruina para el turista y se olv
 
 ## Drives
 
-La encarna [Roque González de Santa Cruz](persona_roque_gonzalez.md), el jesuita criollo que fundó pueblos entre los guaraníes y dejó en ellos la semilla de la civilización mestiza, che ra'a. Empuja al Paraguay a reconocerse hijo de aquel encuentro y a guardar en su raíz las dos sangres que lo hicieron, nio luego.
+La encarna el jesuita criollo que fundó pueblos entre los guaraníes y dejó en ellos la semilla de la civilización mestiza, che ra'a. Empuja al Paraguay a reconocerse hijo de aquel encuentro y a guardar en su raíz las dos sangres que lo hicieron, nio luego.

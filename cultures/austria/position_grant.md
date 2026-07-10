@@ -34,4 +34,4 @@ An Boden, wo aus dem Raunzen echte Bitterkeit und Miesmacherei werden und der Gr
 
 ## Drives
 
-Er lebt in [Grete](persona_grete.md), die über die Jugend raunzt und es doch herzlich meint, und gibt dem österreichischen Charme seine erdige, unsentimentale Kehrseite.
+Er lebt überall dort, wo über die Jugend geraunzt wird und es doch herzlich gemeint ist, und gibt dem österreichischen Charme seine erdige, unsentimentale Kehrseite.

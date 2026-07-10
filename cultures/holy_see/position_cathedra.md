@@ -34,4 +34,4 @@ Auctoritatem spiritualem, si controversiae de doctrina fidem obscurant vel si mo
 
 ## Drives
 
-Erigitur ut primatus apostolicus in Plot [Martyrium Sancti Petri](plot_01_petrus.md) et instigat fidelitatem [Petrus](persona_petrus_arch.md).
+Erigitur ut primatus apostolicus in Plot [Martyrium Sancti Petri](plot_01_petrus.md) et instigat fidelitatem custodum Helvetiorum.

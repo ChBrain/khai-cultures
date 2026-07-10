@@ -34,4 +34,4 @@ Kad atmenama, jog tauta kadaise buvo didi ir valdė plačius kraštus, kad didyb
 
 ## Drives
 
-Gyvena [Vytaute Didžiajame](persona_vytautas_didysis.md), kuris kraštą pakėlė į galybės viršūnę, ir [Landsbergyje](persona_landsbergis.md), kuris atkurtoje valstybėje vėl prikėlė tautos savivertę. Varo Lietuvą laikyti didybės atmintį gyva šaknimi, kuri kelia, o ne slegia, ir matyti save senesnę nei dabartinis mažas kraštas.
+Gyvena didžiojo kunigaikščio darbe, kuris kraštą pakėlė į galybės viršūnę, ir atkurtos valstybės vado darbe, kuris vėl prikėlė tautos savivertę. Varo Lietuvą laikyti didybės atmintį gyva šaknimi, kuri kelia, o ne slegia, ir matyti save senesnę nei dabartinis mažas kraštas.

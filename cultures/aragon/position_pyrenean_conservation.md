@@ -34,4 +34,4 @@ Su equilibrio cuando la ampliación de pistas de esquí comerciales desforesta l
 
 ## Drives
 
-Guía el desarrollo ambiental en el relato [El Riego de los Monegros 1915](plot_03_monegros.md) y orienta la trashumancia pirenaica de [Piluca](persona_piluca.md).
+Guía el desarrollo ambiental en el relato [El Riego de los Monegros 1915](plot_03_monegros.md) y orienta la trashumancia pirenaica de la pastora de montaña que sube y baja el ganado con las estaciones.

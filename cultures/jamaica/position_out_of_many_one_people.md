@@ -34,4 +34,4 @@ Ground when the motto becomes a slogan on a coat of arms rather than a lived thi
 
 ## Drives
 
-Lives in [Louise Bennett](persona_louise_bennett.md), Miss Lou, who raised the Patois of all the people into letters and pride and showed the island its own face and its own voice, the many speaking as one. It drives Jamaica to hold its many roots together, to honour the tongue that binds them, and to make the motto true in the street and not only on the seal.
+Lives in the poet who raised the Patois of all the people into letters and pride and showed the island its own face and its own voice, the many speaking as one. It drives Jamaica to hold its many roots together, to honour the tongue that binds them, and to make the motto true in the street and not only on the seal.

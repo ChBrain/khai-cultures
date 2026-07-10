@@ -34,4 +34,4 @@ Its balance when urban environmental mandates restrict rural resource extraction
 
 ## Drives
 
-Guides the localist development in the plot [Portland Coffee and Counter-Culture 1970](plot_03_counter_culture.md) and drives the specialty roasting of [Chloe](persona_chloe.md).
+Guides the localist development in the plot [Portland Coffee and Counter-Culture 1970](plot_03_counter_culture.md) and drives the specialty roasting practiced by Portland's small-batch coffee houses, sourcing direct from organic farms rather than industrial volume.

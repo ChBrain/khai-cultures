@@ -34,4 +34,4 @@ Ng meterekakl er a sera a beltik el reng er a udoud a mo klou er a beltik el ren
 
 ## Drives
 
-Ng kiei er a [Tommy Remengesau Jr.](persona_remengesau.md), el milengetmokl er a chereomel el oba a Palau Pledge ma bul, ma [a meselang](persona_a_meselang.md), el meselang el melai er a cheldecheduch er a chereomel e oltirakl er a re ngalek el kmo a omenged a ta el rengrir ma beluu. Ng oltirakl er a Belau el mo mengetmokl er a chelechol ra omenged el klikiid el mo er a re mei.
+Ng kiei er a president el milengetmokl er a chereomel el oba a Palau Pledge ma bul, ma a meselang, el meselang el melai er a cheldecheduch er a chereomel e oltirakl er a re ngalek el kmo a omenged a ta el rengrir ma beluu. Ng oltirakl er a Belau el mo mengetmokl er a chelechol ra omenged el klikiid el mo er a re mei.

@@ -34,4 +34,4 @@ Its balance when corporate dairy operations consolidate family farms, causing ec
 
 ## Drives
 
-Guides the cooperative organization in the plot [The Dairy Cooperative Movement 1890](plot_01_dairy_cooperative.md) and drives the cheese making of [Dietrich](persona_dietrich.md).
+Guides the cooperative organization in the plot [The Dairy Cooperative Movement 1890](plot_01_dairy_cooperative.md) and drives the cheesemaker's craft, the skill that turns the cooperative's milk into the state's signature trade.

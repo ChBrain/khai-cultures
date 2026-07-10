@@ -34,4 +34,4 @@ Ground where the hope for unity narrows into a refusal of the other tradition, w
 
 ## Drives
 
-It is carried by [John Hume](persona_hume.md), who held that its aim must be reached by argument and consent, and by [Niamh](persona_niamh.md), who keeps the Irish language and the Gaelic games alive in her community.
+It is carried by the leadership that has held its aim must be reached by argument and consent rather than by force, and by the everyday keeping of the Irish language and the Gaelic games alive within the community.

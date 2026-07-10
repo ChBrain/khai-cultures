@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The plain North Midland English of the Hawkeye State, the even prairie cadence of the corn counties and the measured, careful diction of the Iowa City workshop. It holds an unhurried, mild Midwestern speech that neither the field nor the seminar hurries.
+A flat, unmarked vowel system where cot and caught fall together and the diphthongs stay short, so the speech carries no drawl and no sung rise and fall to color it. It says a thing once, plainly, in the ordinary Anglo-Saxon word rather than the borrowed or the fancy one, and trusts that the plain word is enough.
 
 ## Orders
 
-Where it passes as native ground: the Ames research plot, the county fair, the state fair barns, the Writers' Workshop table in Iowa City. It orders which turns of phrase and vowels mark a speaker as of this prairie and sets the plainness as the local measure.
+It forces litotes into nearly every claim: not bad instead of good, could be worse instead of fine, pretty good instead of excellent, so that how strongly a thing is meant is carried by what is left unsaid rather than by any word that names it outright. It also requires the hard, fully pronounced r in every word that has one, and holds the vowels to the same small unmarked set that lets the voice pass as coming from nowhere in particular.
 
 ## Loses
 
-Ground to General American, the unmarked national standard the screen and the agricultural board carry, which levels the prairie cadence toward the flat national middle. The high-volume, screen-fed grain trade also crowds the slower literary diction into the margin.
+The color a strongly marked dialect carries: no distinct plural you of its own, no habitual be, no non-standard verb forms that other American speech uses to mark a thing standard grammar cannot. What is said in it can rarely be placed by ear alone, and the very evenness that lets it travel anywhere costs it the flavor of anywhere in particular.
 
 ## Drives
 
-It carries [George](persona_george_ia.md), whose prairie cadence is the working English of the seed-corn plots, and [Ruth](persona_ruth_ia.md), whose prairie drawl holds the careful English of the Writers' Workshop. So the one prairie speech shows who turns toward the grain export and who keeps the written word.
+It drives whoever speaks it to talk in the unmarked middle and let the listener supply the emphasis a flatter word withholds, trusting understatement to carry more than a raised voice ever could. It trains an ear that hears strong feeling packed into small, plain words, and a tongue that would rather say not bad and mean quite good than say wonderful and mean it outright.

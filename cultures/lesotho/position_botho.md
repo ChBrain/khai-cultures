@@ -34,4 +34,4 @@ Bo lahleheloa ke matla ha motho a inahanela eena feela, ha kamohelo le thuso li 
 
 ## Drives
 
-Bo phela ho [Thomas Mofolo](persona_mofolo.md), ea ngotseng botho le bohloko ba motho ka Sesotho 'me a bo boloka ka mongolo. Bo susumetsa Lesotho ho boloka kamohelo, ho hlomphana le thuso e leng motheo oa ho ba Mosotho, hore motho a lule e le motho ka batho ba bang.
+Bo phela ho sengoli, ea ngotseng botho le bohloko ba motho ka Sesotho 'me a bo boloka ka mongolo. Bo susumetsa Lesotho ho boloka kamohelo, ho hlomphana le thuso e leng motheo oa ho ba Mosotho, hore motho a lule e le motho ka batho ba bang.

@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Morisien, sa kreol baze lor franse ki finn ne lor sa zil la kan tou bann pep finn bizin koz ansam. Li lalang manman preske tou Morisien, sa lalang kot bann zanfan zwe, kot fami koze dan lakaz, kot sega sante. Akote li ena franse, angle, ek bhojpuri. Morisien pa pou enn sel kominote: li pou tou, parski li finn ne dan rankont. Li sa lakord ki amar enn pep ki sorti depi sis kontinan dan enn sel bus.
+Morisien gard mem form verb la parey pou tou dimoun, mo koz, to koz, li koz, me li servi ti mo apar, fin, pe, ti, pou, divan verb la pou dir exakteman si out laksion fini pase, pe arive, ou pankor arive. Li osi finn kolle lartik franse ansam ar sertin nom (dilo, lipain, disik), ek li pran mo ki sorti dan franse, angle, bhojpuri, malgas, ek sinwa dan enn sel vokabiler ki pa apartenir okenn group tousel.
 
 ## Orders
 
-Ki ena enn lalang ki tou Morisien partaze, kot indou, mizilman, kreol, sinwa, franko koz parey. Ki sa lalang la, ki ti longtan get kouma "lakaz koze" sirman, merit memwar so laplas, parski se li ki fer "lalit ansam" posib: enn pep pa kapav viv ansam si li pa kapav koz ansam. Ek ki Morisien tini ladan tou bann lalang ki finn vinn lor zil la, san efas okenn.
+Parski verb la res parey pou tou dimoun, se ti mo devan li ki obliz dir si laksion la fini, pe kontinie, ou pankor arive, ek sa bizin la dan preski sak fraz. Li osi ranz mo par plas dan fraz la, sizet, verb, obze, pou montre kisannla pe fer ki, parski li pena okenn marker separe pou fer sa travay la.
 
 ## Loses
 
-Li pers later kan dimoun ont so prop lalang manman ek pretann ki zis franse ouswa angle vo. Li pers later osi kan dimoun bliye ki Morisien pa pou enn sel group, me pou tou, ek esey servi li pou separe plito ki amare, alor ki so nesans li enn nesans rankont.
+Li pa erit bann fine nyans zann franse (masilin ek feminin, laksor gramatikal), sa fer li perdi enn kalite presizion ki so lang manman ti ena. Pandan lontan dimoun ti get li kouma "lakaz koze" ki pa bon pou lekol ni pou lalwa, alor li ankor pe rod so plas ekri ek formel, ek li pers later divan franse ek angle kouma langaz lekol, medya, ek biro.
 
 ## Drives
 
-Li lalang manman [Ti Frer](persona_tifrer.md), ki ti sant so sega ladan ek fer tou pep zwenn dan enn sel refren, ek [zwer ravann](persona_ravann_zwer.md), ki koze, panse ek sante ladan kouma so leker bat. [Ananda Devi](persona_devi.md) ekrir dan franse, me li port Morisien kouma lalang so leker ek so lakaz ek servi so muzik dan seki li ekrir; ek [Abhimanyu Unnuth](persona_unnuth.md), ki so lalang zanset se hindi ek bhojpuri, koz Morisien sak zour kouma tou Morisien, sa lalang komin ki amar so pep ar bann lezot. [Malcolm de Chazal](persona_chazal.md), ki so lalang manman se franse, tann ek swiv Morisien lakour ek bazar ki ti otour li avek enn lizie poet, mem si so vizion li ti rod li dan franse so liv. Li pous Moris pou tini so lalang manman kouma enn trezor, lakord ki amar enn larkansiel dan enn sel bus.
+Li fer seki koze li marke laksion la byen presi ar ti mo divan verb sak fwa li koze, ek li fer li koz enn langaz ki pena okenn group tousel pou li, parski sak group finn met so prop mo ladan. Sa kree enn tansion ant lalang manman ki dimoun kontan koze ek langaz franse ki bizin pou lekrir ek pou travay ofisiel.

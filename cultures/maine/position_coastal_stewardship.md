@@ -34,4 +34,4 @@ Its balance when excessive commercial overfishing consolidates boat ownership, w
 
 ## Drives
 
-Guides the harbor regulations in the plot [The Lobster Fishery Boom 1880](plot_02_lobster_boom.md) and drives the trapping coordination of [Arthur](persona_arthur.md).
+Guides the harbor regulations in the plot [The Lobster Fishery Boom 1880](plot_02_lobster_boom.md) and drives the trapping coordination among harbor lobstermen.

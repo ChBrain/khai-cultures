@@ -34,4 +34,4 @@ Ground where loyalty narrows into a refusal of the other tradition, where the ma
 
 ## Drives
 
-It is carried by [David Trimble](persona_trimble.md), who risked his standing to secure the union by consent, and by [Davy](persona_davy.md), who keeps the Ulster-Scots tongue and the marching tradition alive in his community.
+It is carried by the leadership that risked its standing to secure the union by consent, and by the everyday keeping of the Ulster-Scots tongue and the marching tradition alive within the community.

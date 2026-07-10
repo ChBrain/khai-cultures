@@ -34,4 +34,4 @@ Su equilibrio cuando el bajo precio de la leche fijado por las multinacionales l
 
 ## Drives
 
-Guía el desarrollo de pastos en el relato [El Descubrimiento de Altamira 1879](plot_01_altamira.md) y orienta la ganadería vacuna de [Nel](persona_nel.md).
+Guía el desarrollo de pastos en el relato [El Descubrimiento de Altamira 1879](plot_01_altamira.md) y orienta la ganadería vacuna del pasiego que trabaja las praderas del valle.

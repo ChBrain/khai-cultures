@@ -34,4 +34,4 @@ The generations gone and the West emptied out; a country that exports its own pe
 
 ## Drives
 
-It lives in [Mary](persona_mary.md), whose children are scattered abroad on her, and it drives the Irish longing and the worldwide sense of Irishness, turned strangely on its head now as a once-emptying island becomes a place people come to.
+It lives in the mother whose children are scattered abroad on her, and it drives the Irish longing and the worldwide sense of Irishness, turned strangely on its head now as a once-emptying island becomes a place people come to.

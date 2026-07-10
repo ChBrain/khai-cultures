@@ -34,4 +34,4 @@ Du terrain quand la rumba n'est plus que nostalgie, qu'on chante les anciens san
 
 ## Drives
 
-Vit dans [Pamelo Mounk'a](persona_pamelo_mounka.md), la grande voix de la rumba congolaise dont les chansons ont fait danser tout le continent. Elle pousse la Republique du Congo a porter son nom dans le monde par la musique, a faire de chaque peine une melodie et de chaque fete un sebene, et a tenir debout par la douceur autant que par la fierte.
+Vit dans la grande voix de la rumba congolaise dont les chansons ont fait danser tout le continent. Elle pousse la Republique du Congo a porter son nom dans le monde par la musique, a faire de chaque peine une melodie et de chaque fete un sebene, et a tenir debout par la douceur autant que par la fierte.

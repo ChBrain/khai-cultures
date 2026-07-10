@@ -34,4 +34,4 @@ Its balance when commercialized tourism reduces historical diversity to a market
 
 ## Drives
 
-Influences the early community in the plot [The Louisiana Purchase 1803](plot_01_louisiana_purchase.md) and drives the preservation work of [Yvette](persona_yvette.md).
+Influences the early community in the plot [The Louisiana Purchase 1803](plot_01_louisiana_purchase.md) and drives the preservation work of the city's heritage keepers.

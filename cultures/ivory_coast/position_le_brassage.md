@@ -34,4 +34,4 @@ Du terrain quand le brassage qu'on chante n'est plus celui qu'on vit, quand on c
 
 ## Drives
 
-Vit dans [Félix Houphouët-Boigny](persona_houphouet_boigny.md), qui fit du pays un atelier ouvert et choisit le mélange comme ciment; dans [Bernard Dadié](persona_bernard_dadie.md), qui donna à soixante peuples une même page ou se reconnaître; et dans [Didier Drogba](persona_didier_drogba.md), qui, à genoux, recousit le pays autour d'un seul maillot. Il pousse la Côte d'Ivoire à faire de son mélange sa plus grande richesse et à le garder, chaque jour, comme on garde une braise.
+Vit dans le président fondateur qui fit du pays un atelier ouvert et choisit le mélange comme ciment; dans l'écrivain qui donna à soixante peuples une même page ou se reconnaître; et dans le capitaine de l'équipe nationale qui, à genoux, recousit le pays autour d'un seul maillot. Il pousse la Côte d'Ivoire à faire de son mélange sa plus grande richesse et à le garder, chaque jour, comme on garde une braise.

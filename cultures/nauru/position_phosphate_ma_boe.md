@@ -34,4 +34,4 @@ Eb me eo aiwo eko eb me eo aen me eb boe eko eb me eo aiwo eko engame eb land me
 
 ## Drives
 
-Eb mo'ui n [Bernard Dowiyogo](persona_bernard_dowiyogo.md), eb me eo aen me eb president n eb me eo aen me eb boe me eb price me eb ororo me ekege, ma n [te tia mining](persona_te_tia_mining.md), eb me eo aen me eb miner n eb cantilever me eb Topside. Eb me eo aiwo eko Naoero eko engame eb boe me eb price me eb land me eb me eo aen.
+Eb mo'ui n eb president n Naoero, eb me eo aen me eb boe me eb price me eb ororo me ekege, ma n te tia mining, eb me eo aen me eb miner n eb cantilever me eb Topside. Eb me eo aiwo eko Naoero eko engame eb boe me eb price me eb land me eb me eo aen.

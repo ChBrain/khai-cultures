@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Svenskan, en nordgermansk tunga, i släkt med danskan och norskan, så att skandinaverna förstår varandra över gränserna, men främmande för finskan i öster. Det är modersmål för nästan alla i landet och hemmets, skolans, riksdagens och pressens språk, den lågmälda, raka svenska där man hellre låter tystnaden tala än fyller rummet. Sin fasta skriftform fick den när [Gustav Vasa](persona_vasa.md) lät trycka Bibeln på svenska och reste ett eget skriftspråk mot den främmande kronan och mässans latin.
+Svenskan sätter den bestämda artikeln som ändelse rakt på ordet i stället för ett eget litet ord framför, bilen, huset, så att bestämdhet blir en del av ordets kropp. Den bär en tonal accent som skiljer annars identiska ord åt enbart genom ordets melodi, till exempel anden som fågeln mot anden som själen, en klang de flesta germanska språk saknar helt. Och den sätter samman ord fritt till nya, långa sammansättningar där andra språk skulle behöva hela fraser.
 
 ## Orders
 
-Vad som räknas som god svenska: rättstavningen, tonen och normen i skrift och tal. Den bjuder att man talar och skriver lågmält och rakt, utan stora ord och utan att ta för stor plats, så att språket bär det gemensamma snarare än det egna, som lagom bjuder.
+Den kräver att verbet i huvudsatsen står på andra plats, vad som än kommer före det, subjekt, tidsuttryck eller objekt, så att satsen alltid byggs kring den platsen. Den ordnar substantiv i en av två genus, en eller ett, en indelning som inte går att räkna ut ur ordets betydelse utan måste läras utantill ord för ord. Och den har numera i stort sett en enda vanlig tilltalsform, du, till nästan alla, så att avstånd markeras med tonfall och ordval snarare än med ett separat pronomen.
 
 ## Loses
 
-Mark dag för dag till världens engelska, som strömmar in på skärmen, i arbetet och i de ungas mun, så att dess plats alltid är försvarad och aldrig självklar. Den ligger nära grannspråken danska och norska, som svensken nästan förstår som sitt eget, men just den skandinaviska förståelsen viker när engelskan blir de ungas gemensamma tunga i stället för granntungorna.
+Det gamla, formella tilltalet med ni och titlar har nästan försvunnit ur vardagen, så att den fingraderade artighet andra språk fortfarande bär i sitt du och ni inte längre går att uttrycka med ett enda litet ordval. Kasusböjningen som svenskan ärvde från de äldre germanska språken har nötts bort till nästan ingenting, kvar finns bara genitivens s, medan grannspråk som tyskan håller kvar mer av den gamla böjningen.
 
 ## Drives
 
-Den lever i [Gustav Vasa](persona_vasa.md), som talade folkets modersmål som grunden under sin makt och gav skriftspråket dess form, i [Raoul Wallenberg](persona_wallenberg.md), som bar sitt modersmål och sin flagg ut i mörkret som ett skydd för andra, i [Astrid](persona_astrid.md), som talar sitt modersmål lågmält och rakt och förstår granntungorna nästan som sitt eget, och i [Linnea](persona_linnea.md), som bär modersmålet och engelskan sida vid sida och ser svenskan ge plats åt engelskan på skärmen. Den driver Sverige att bära sitt lågmälda språk vidare som något gemensamt när den öppna, engelska världen tränger på.
+Den som växer upp i den vänjer sig vid att lyssna efter ordets ton lika mycket som efter dess bokstäver, för annars glider betydelsen isär. Den bygger en vana att tilltala nästan alla med samma enkla du och i stället lägga artigheten i tonfallet och i vad som sägs, inte i pronomenet. Och den bestämda ändelsen som växer fast i själva ordet vänjer örat vid att höra bestämdhet som en del av ordets form, inte som ett fristående ord som skulle kunna utelämnas.

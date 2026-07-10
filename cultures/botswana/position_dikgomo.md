@@ -34,4 +34,4 @@ Di latlhegelwa ke tsela fa go disa go fediswa ke leuba le sekaka se se omeletsen
 
 ## Drives
 
-Di tshela mo go [Ratsie Setlhako](persona_ratsie.md), motshameki yo o opetseng botshelo jwa naga le dikgomo tsa yona ka segaba sa gagwe, le mo go [Modisa](persona_modisa.md), modisi yo o disang dikgomo tsa losika kwa morakeng. Di gogela Botswana kwa go boloka khumo ya losika, kwa go disa ka boikarabelo, le kwa go reng dikgomo ke botshelo le tlotlo ya Motswana.
+Di tshela mo go moopedi mongwe le mongwe yo o opelang botshelo jwa naga le dikgomo tsa yona ka segaba, a boloka mošwa le diane tsa morafe, le mo go modisi mongwe le mongwe yo o disang dikgomo tsa losika kwa morakeng, a le esi le diphologolo tsa gagwe le sekaka. Di gogela Botswana kwa go boloka khumo ya losika, kwa go disa ka boikarabelo, le kwa go reng dikgomo ke botshelo le tlotlo ya Motswana.

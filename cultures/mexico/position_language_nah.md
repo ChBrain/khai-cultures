@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-In tlahtōlli in Mēxihcah huān in Aztēcah, in tlahtōlli in Tenochtitlan quihuēliztlālih. In Nāhuatlahtōlli quipiya in huēyi tlahtōlpōhualli īhuān in tlahcuilōlli in achto īpan āmatl huān āxcān īpan tlaxēlōllōtl: in tlahtōlli in ōquipix in tlahtoāni, in tlamatinih, in mācēhualtin.
+Nāhuatlahtōlli quipiya in tlahtōlpiquiliztli in motēnēhua "difrasismo": ōme tlahtōlli mocetiliah īpan cē neīxcuitīlli, in ātl, in tepētl, quihtōznequi in āltepētl; in xōchitl, in cuīcatl, quihtōznequi in tlahcuilōlli īhuān in yēctlahtōlli. Quipiya nō in tlahtōlpiquiliztli "tlaxēlōllōtl", in tlein huel motēca īpan cē tlahtōlli in āmo huel motēca īpan Español: in verbo huel quicui in nombre in tlein quichīhua tlahtōlli.
 
 ## Orders
 
-Quihuēliztlālih in tlein motēnēhua "Mēxihcatlahtōlli" īpan miac tlahtōlpahmatiliztli: in mācēhualtīn īn Mēxihco huān Central America quihtoa ic ōme miltōn tlācah, huān quimotlāntih in tēixmatiliztli tlein motēnēhua Mēxihco: in tomatl, in chocolatl, in coyōtl, huān miac ōccequin tlahtōlli in Español huān in Inglés cāhua.
+Quitēmoa in tlein āmo motepachohtoc quipiya cē tlamiliztli "absolutivo" (-tl, -tli, huān -in), in tlein quipoloa in ihcuāc motepachoa; auh in verbo quinequi in prefijo in tlein quihtoa āquin quichīhua huān tlein motequitilia, īhuān in reverencial "-tzin" in tlein huel motēca īpan cē tōcāitl in tlaachtopilia tlahpaloliztli.
 
 ## Loses
 
-Tlālli quipolōhua īxpan in Español, in tlein cencah ōquichīuh in tlahtoāni huān in tequitl. Miac piltōntli āmo huel quihtoa in Nāhuatl, tel in tētahtzitzin huān in tēnāntzitzin quihtoa oc. Iuhqui in centlamantli tlahtōlli quipolōhua tlālli ihuīcpa in ītech chicāhualiztli in huēyi cāltēnco, tel āmo miquiz: in cē mīlyoh chāneh ōccequi millōn tlācah oc quihtoa.
+Āmo huel quihtoa in tlahtōlli in gobierno, in tequitl, huān in escuela, tlein āxcān mochīhua zan Español, ic in tlahtōlli quicui in Español in tlein quipolōhua. In huēyi tlahtōlli in huēhuetlahtōlli, in tlein ōquichīuh in tlamatinih ītech in tlahtoāni, āxcān āmo cencah motēca, zan mocāhua ītech āmoxtli.
 
 ## Drives
 
-Nāhuatlahtōlli quiyecāna in tlahtoāni huān in tlamatinih tlein āxcān oc quihtoa huān quimomachtia: [Emiliano Zapata](persona_zapata.md), in tlācatl ītech Morelos, ītech quimopiyaya in Nāhuatlahtōlli ītech in ītlahtōl huān quicuīcatlālih ītech in ītequitlahtōl; [el mestizo](persona_el_mestizo.md), in ītlācapil ōme tlālli, tlein quicaqui zan quexquich in Nāhuatlahtōlli ītech in tlacualli īn tōcāitl; huān, in achto huān in cencah huēyi, [La Malinche](persona_la_malinche.md), in cihuātl Mexihcatl in īnāntlahtōl catca in Nāhuatlahtōlli, huān īca in tlahtōlli ōquimacac Cortés in Tenochtitlan. Ic in tlahtōlli in achto ōmotēnēuh Tenochtitlan oc nemi, in tētahtzitzin īca, in āmoxtli īca, huān in yōllohtli in mācēhualtīn īca.
+Quinequi in āquin quihtoa ic quīxmatiz in tlahtōlli īca ōme neīxcuitīlli, āmo īca cē tlahtōlli īxtli. Quimacaz reverencia īpan cē tōcāitl īca "-tzin", huān quimatiz in verbo quipiya īpan īnacayo in āquin quichīhua huān tlein motequitilia, in ic huēyi tlahtōlli ītech cē tlahtōlli zan cē.

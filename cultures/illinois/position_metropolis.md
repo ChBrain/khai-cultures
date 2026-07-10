@@ -34,4 +34,4 @@ Its moral ground when zoning policies accelerate gentrification, pricing out lon
 
 ## Drives
 
-Guides the reconstruction in the plot [The Great Chicago Fire 1871](plot_01_chicago_fire.md) and drives the structural work of architect [Robert](persona_robert.md).
+Guides the reconstruction in the plot [The Great Chicago Fire 1871](plot_01_chicago_fire.md) and drives the structural work of the architects rebuilding the skyline.

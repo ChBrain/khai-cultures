@@ -34,4 +34,4 @@ An Lebensqualität, wenn der Meeresspiegel die Deiche überwindet oder wenn die 
 
 ## Drives
 
-Wird gepflegt in der Geste [das Teegeschirr](piece_teegeschirr.md) und lenkt das soziale Handeln von Landwirt [Gerhard](persona_gerhard.md) im Plot [Die Gründung Niedersachsens 1946](plot_02_bundesland_1946.md).
+Wird gepflegt in der Geste [das Teegeschirr](piece_teegeschirr.md) und lenkt das soziale Handeln der Landwirte im Plot [Die Gründung Niedersachsens 1946](plot_02_bundesland_1946.md).

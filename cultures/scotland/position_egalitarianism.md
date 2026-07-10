@@ -34,4 +34,4 @@ Ground where the levelling sours into chippiness and envy, mistaking every succe
 
 ## Drives
 
-It lives in [Eilidh](persona_eilidh.md), who takes nobody's rank on trust, and it gave the world the [Scottish Enlightenment](plot_04_enlightenment.md), the flowering of the democratic intellect.
+It lives in the ordinary Scot who takes nobody's rank on trust, and it gave the world the [Scottish Enlightenment](plot_04_enlightenment.md), the flowering of the democratic intellect.

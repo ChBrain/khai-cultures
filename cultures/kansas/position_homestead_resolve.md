@@ -34,4 +34,4 @@ Its balance when corporate farming consolidation buys out family property, weake
 
 ## Drives
 
-Guides the agricultural boom in the plot [Homestead Wheat Boom 1870](plot_02_homestead_wheat.md) and drives the farm management of [Sarah](persona_sarah_ks.md).
+Guides the agricultural boom in the plot [Homestead Wheat Boom 1870](plot_02_homestead_wheat.md) and drives the farm management carried out by the families who work the land.

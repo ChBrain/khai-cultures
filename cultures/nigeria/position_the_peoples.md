@@ -34,4 +34,4 @@ Ground when the many is set against the one, when a person is reduced to only hi
 
 ## Drives
 
-Lives in [Chinua Achebe](persona_achebe.md), the Igbo writer who told the world that his people had a deep, ordered world long before any colonizer arrived and who weighed, with a heavy heart, the hard cost of holding the many as one; and in [Fela Anikulapo Kuti](persona_fela.md), the Yoruba son who sang in the Pidgin that belongs to every people at once, the one tongue the whole giant shares. It drives Nigeria to keep being one country of many nations, neither melting them down nor letting them fly apart.
+Lives in the Igbo writer's telling that his people had a deep, ordered world long before any colonizer arrived, and who weighed, with a heavy heart, the hard cost of holding the many as one; and in the Yoruba musician's song in the Pidgin that belongs to every people at once, the one tongue the whole giant shares. It drives Nigeria to keep being one country of many nations, neither melting them down nor letting them fly apart.

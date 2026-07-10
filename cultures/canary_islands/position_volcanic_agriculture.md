@@ -34,4 +34,4 @@ Su equilibrio cuando los grandes complejos hoteleros costeros masivos compran la
 
 ## Drives
 
-Guía el desarrollo agrícola en el relato [El Observatorio del Teide 1964](plot_03_teide.md) y orienta la gestión platanera de [Yaiza](persona_yaiza.md).
+Guía el desarrollo agrícola en el relato [El Observatorio del Teide 1964](plot_03_teide.md) y orienta la gestión platanera de quien organiza el cultivo y las cooperativas del plátano.

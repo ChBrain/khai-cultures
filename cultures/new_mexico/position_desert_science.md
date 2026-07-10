@@ -34,4 +34,4 @@ Its balance when corporate defense contracts override basic scientific research 
 
 ## Drives
 
-Guides the research designs in the plot [The Trinity Test 1945](plot_02_trinity_test.md) and drives the solar lab work of [Mateo](persona_mateo.md).
+Guides the research designs in the plot [The Trinity Test 1945](plot_02_trinity_test.md) and drives the solar lab work of the lab technician.

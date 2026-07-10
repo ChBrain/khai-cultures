@@ -34,4 +34,4 @@ Maaperää, jolla yhdenvertaisuus muuttuu samanlaisuuden vaatimukseksi ja erottu
 
 ## Drives
 
-Se elää [Eerossa](persona_eero.md), joka pitää yhdenvertaisuutta itsestäänselvyytenä, ja sen juuret ovat [Elias Lönnrotin](persona_lonnrot.md) uskossa siihen, että köyhänkin laulajan sana on osa samaa kansaa; se näkyy [koulutusihmeessä](plot_04_koulutusihme.md).
+Se elää jokaisessa, joka pitää yhdenvertaisuutta itsestäänselvyytenä, ja sen juuret ovat uskossa siihen, että köyhänkin laulajan sana on osa samaa kansaa; se näkyy [koulutusihmeessä](plot_04_koulutusihme.md).

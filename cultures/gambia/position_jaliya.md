@@ -34,4 +34,4 @@ Ground when the old memory is let thin, the young of the griot families turning 
 
 ## Drives
 
-Lives in [Alhaji Bai Konte](persona_bai_konte.md) and [Foday Musa Suso](persona_foday_musa_suso.md), masters who carried the kora to the wider world; and in [Kebba Kanji Fofana](persona_kebba_fofana.md), the keeper whose carried memory reached across the ocean. It drives The Gambia to keep its history in song and its word as a trust, the heartland of the kora telling its own story in its own voice.
+Lives in the mastery that carried the kora to the wider world; and in the keeper whose carried memory reached across the ocean. It drives The Gambia to keep its history in song and its word as a trust, the heartland of the kora telling its own story in its own voice.

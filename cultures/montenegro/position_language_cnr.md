@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Narodni govor Crne planine, štokavski jezik gotovo isti onome kojim govore srpski, bosanski i hrvatski susjed, a opet zvani svojim imenom. Nosi deseterac gusala i Njegošev stih, a u južnom govoru čuva glasove ś i ź kojih drugi standardi nemaju, i piše se i latinicom i ćirilicom. Njegova je najdublja crta u samome imenu: jedan jezik koji vijek ne zna da li se zove crnogorski ili srpski, tako da je i ime dio onoga što nosi.
+Crnogorski jezik nosi dva glasa koja susjedni standardi ne bilježe posebno, ś i ź, umekšano s i z iz starih glasovnih skupina sj i zj, tako da razlikuje riječi koje srpski, hrvatski i bosanski standard pišu istim slovom. Piše se dvoazbučno, i latinicom i ćirilicom, podjednako slobodno. Njegov deseterac, stih od deset slogova bez rime, nosi cijeli ep u jednom ritmu pamćenja, kojim se dugi spjev može izgovoriti napamet od početka do kraja.
 
 ## Orders
 
-Da se govori i piše, i da se zove crnogorskim - od ustava iz 2007. službeni jezik države, u školama i u ispravama; propisuje standard sa ś i ź kao znak da je svoj, i traži da narod ime jezika uzme kao ime sebe. Time razdvaja onoga ko govor zove crnogorskim od onoga ko isti govor zove srpskim, iako iz istih usta izlazi ista riječ.
+Nalaže padež uz svaku imenicu i pridjev, sedam padeža koji se moraju slagati po broju i rodu u svakoj rečenici, tako da se nijedan dio rečenice ne može izgovoriti a da ne pokaže svoj odnos prema ostalima. Nalaže i glagolski vid, jasnu razliku između svršenog i nesvršenog glagola za svaku radnju, pa se mora reći ne samo šta se radi nego i je li radnja završena ili u toku. Standard nalaže i pisanje glasova ś i ź gdje ih izgovor nosi, čineći taj izgovor znakom pripadnosti čim se stavi na papir.
 
 ## Loses
 
-Gubi tlo pred tvrdnjom da je "isti" srpski, koju mu vraćaju i rođeni unuci; pred engleskim turizma i Evrope u koju zemlja ide, i pred italijanskim s obale i ruskim iz crkve; a nagriza ga i odlazak, jer mladi trbuhom za kruhom nose sporno ime u tuđinu, dok se porodice dijele oko toga kako da ga zovu.
+Gubi razliku između ś, ź i običnog s, z u govoru mlađih koji sve češće izgovaraju ravno s i z kao susjedni standardi, pa se glas koji jezik razlikuje u govoru izjednačava. Gubi i deseterac kao živi govorni oblik, čuvan više u knjizi i na sceni nego u svakodnevnoj riječi. A samo ime kojim se jezik zove ne uspijeva ustaliti se u jednom obliku, jer isti glasovi i isti padeži nose dva imena, crnogorski i srpski, zavisno od toga ko ih izgovara.
 
 ## Drives
 
-Živi u svakome ko ga nosi kao maternji. [Njegoš](persona_njegos.md) mu je u desetercu dao vrhunac spjevom koji i Crnogorci i Srbi zovu svojim; [Marko Miljanov](persona_marko_miljanov.md) je star naučio slova da junaštvo i čojstvo iz govora prenese na hartiju; [Kralj Nikola](persona_kralj_nikola.md) je učinio da se sićušni gorski jezik čuje na dvorovima Evrope; [Milena](persona_milena.md) ne zna da kaže je li joj jezik srpski ili crnogorski, jer iste riječi je sad dijele od unuka; a [Vuk](persona_vuk.md) uporno ga zove crnogorskim premda Srbina razumije bez rječnika. Nagoni Crnu Goru da se pita ko je, jer kako imenuje svoj jezik, tako imenuje i sebe.
+Sedam padeža uči onog ko njima govori da svaku riječ odmah smjesti u odnos prema drugima, umjesto da red riječi sam nosi smisao. Razlika svršenog i nesvršenog vida navikava govornika da uvijek kaže je li radnja gotova ili još traje, a glasovi ś i ź, kad ih izgovori, obilježe govornika kao onoga ko čuva zvuk koji susjedni standardi utihnjuju. Tako jezik onoga ko njime misli navikava da u svakoj rečenici nosi i odnos i završenost, i da samim izgovorom jednog glasa pokazuje čiji je.

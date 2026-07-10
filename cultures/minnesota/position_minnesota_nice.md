@@ -34,4 +34,4 @@ Its balance when superficial politeness avoids addressing structural social ineq
 
 ## Drives
 
-Guides the local arts development in the plot [The Minneapolis Sound 1980](plot_03_minneapolis_sound.md) and drives the engineering work of [Samantha](persona_samantha.md).
+Guides the local arts development in the plot [The Minneapolis Sound 1980](plot_03_minneapolis_sound.md) and drives the sound engineering work that shapes it, the studio craft that turns a session behind the board into a signature sound.

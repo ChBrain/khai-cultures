@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Magten i det ældste kongehus i verden, grundlagt af [Harald Blåtand](persona_harald.md). Det hersker ikke, men binder folket sammen over tid; monarken er et samlende tegn, ikke en herre.
+Magten i det ældste kongehus i verden, grundlagt for mere end tusind år siden. Det hersker ikke, men binder folket sammen over tid; monarken er et samlende tegn, ikke en herre.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Anseelse, hvor huset bliver for fjernt, for fint eller for dyrt og glemmer, at d
 
 ## Drives
 
-Det rækker fra [Harald Blåtand](persona_harald.md), der rejste [Jellingstenene](plot_01_jelling.md), til i dag som det ældste, samlende tegn på, at landet hører sammen.
+Det rækker fra kongen, der samlede riget og rejste [Jellingstenene](plot_01_jelling.md), til i dag som det ældste, samlende tegn på, at landet hører sammen.

@@ -34,4 +34,4 @@ Du terrain quand le compte des lignees, qui donne sa place a chacun, se durcit e
 
 ## Drives
 
-Vit en [Abdourahman Waberi](persona_waberi.md), qui ecrit la conscience d'un pays a deux voix et tient les deux peuples dans une meme langue, et dans [le Sultan de Tadjoura](persona_sultan_tadjoura.md), qui tint son port et sa coutume au seuil de la rencontre. Elle pousse Djibouti a garder les deux peuples assis a egalite sur la meme natte, et a faire de la parente le ciment et non la faille.
+Elle vit dans l'ecriture qui porte la conscience d'un pays a deux voix et tient les deux peuples dans une meme langue, et dans la coutume du sultanat qui tint son port et son usage au seuil de la rencontre. Elle pousse Djibouti a garder les deux peuples assis a egalite sur la meme natte, et a faire de la parente le ciment et non la faille.

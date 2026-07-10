@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A autoridade do português tal como se fala no Grão-Ducado, a língua de casa e do bairro de uma comunidade que faz quase um sexto do país, vinda de Portugal e de Cabo Verde para trabalhar e ficada para criar os filhos. Não é a língua da lei nem da escola, que se dizem em francês e em alemão, mas é a língua materna de dezenas de milhares, a que se ouve na obra, no café e na missa, e sem a qual o Luxemburgo de hoje não se explica. Língua trazida de fora que se tornou uma das vozes de dentro, tem a força do número sem ter o selo do Estado.
+O português permite conjugar o infinitivo pessoal, uma forma que quase nenhuma outra língua guarda, marcando quem faz a ação mesmo dentro de uma oração sem sujeito próprio; conserva o futuro do conjuntivo, um tempo que a maior parte das línguas românicas perdeu, para dizer o que há de ser certo antes de acontecer; e possui a palavra saudade, que nomeia uma falta com amor sem precisar de mais nada à volta.
 
 ## Orders
 
-O que vale como bom português entre os seus, no lar, na loja e na paróquia da comunidade lusófona do país. Ordena que a língua materna se guarde de geração em geração, que os pais a passem aos filhos que já nascem a falar luxemburguês, e marca o lugar de uma comunidade que trabalha e reza na sua língua enquanto sobe, a custo, os degraus das outras.
+Obriga a marcar o género em cada substantivo e adjetivo, obriga a conjugar o verbo em pessoa e número mesmo quando o sujeito já se calou na frase anterior, e obriga a escolher entre o tratamento por tu ou por você conforme a proximidade de quem fala. Ordena ainda que as vogais nasais se pronunciem pelo nariz, um som que falta a quem chega de fora e que distingue quem nasceu na língua de quem a aprendeu depois.
 
 ## Loses
 
-Terreno degrau a degrau. Não entra na lei, na escola nem no letreiro oficial, que pertencem ao francês e ao alemão, e nos filhos vai cedendo ao luxemburguês da pertença e ao francês do trabalho. É língua de casa que raramente vira língua de papel, e arrisca-se a apagar na segunda e na terceira geração, guardada pelos velhos e diluída nos novos, que a entendem mas já respondem noutra.
+Perde, na boca de quem já não convive todos os dias com o falar de casa, a distinção fina entre o pretérito perfeito e o imperfeito, que marca se uma ação ficou fechada ou ainda se estende; perde o futuro do conjuntivo e o infinitivo pessoal, formas que pedem prática constante e que se apagam primeiro quando a língua da casa vira língua de fim de semana; e perde a palavra certa para nomear a saudade quando o filho já responde em francês ou em luxemburguês.
 
 ## Drives
 
-Empurra a comunidade portuguesa do Luxemburgo a guardar a sua língua enquanto aprende as do país. Vive em [Joaquim](persona_joaquim.md), o português que chegou com uma língua a um país de quatro e que sobe a custo os degraus que os filhos hão de falar de nascença. Assim a língua trazida de fora faz da comunidade lusófona uma das vozes do país, mesmo sem selo de Estado, e carrega o esforço de pertencer sem se perder.
+Leva quem nela pensa a marcar em cada frase quem fez o quê, mesmo quando o sujeito não se repete, e a sentir no futuro do conjuntivo uma certeza que outras línguas não sabem dizer. Habitua a nomear a falta de alguém como um sentimento com nome próprio, e faz da concordância de género e de pessoa um hábito do pensamento que não se desliga nunca, mesmo quando o resto do dia se vive noutra língua.

@@ -34,4 +34,4 @@ Ground when the lake is asked to feed more mouths than its waters easily can, wh
 
 ## Drives
 
-Lives in [the lake fisherman](persona_fisherman.md), who pushes the bwato out under the last stars and reads a lake's worth of weather in one glance, and in [Legson Kayira](persona_kayira.md), the boy of the northern shore who walked off it to the world and wrote his way home. It drives Malawi along its lake, the spine that feeds it and names it, the Lake of Stars that is the one sea of a country with no coast.
+Lives in the lake fisherman, who pushes the bwato out under the last stars and reads a lake's worth of weather in one glance, and in a son of the northern shore who walked off it to the world and wrote his way home. It drives Malawi along its lake, the spine that feeds it and names it, the Lake of Stars that is the one sea of a country with no coast.

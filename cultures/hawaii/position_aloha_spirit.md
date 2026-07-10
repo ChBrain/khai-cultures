@@ -34,4 +34,4 @@ Its balance when commercialized tourism reduces the spirit to a shallow marketin
 
 ## Drives
 
-Influences the oceanic landing in the plot [Polynesian Voyaging](plot_01_voyaging.md) and drives the navigator work of [Keanu](persona_keanu.md).
+Influences the oceanic landing in the plot [Polynesian Voyaging](plot_01_voyaging.md) and drives the navigator's work of reading the ocean and finding land.

@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The English of the Buckeye State, split between the Inland North Great Lakes speech of the northern industrial cities and the Midland speech of the central and southern farm counties, a divide often heard as the state where the national ear meets itself. It holds a plain, level Midwestern steadiness that both the Cleveland factory floor and the western cornfield carry.
+Ohio splits between the Inland North's Northern Cities Vowel Shift, documented among Cleveland-area speakers, which raises and tenses the short a in words like "bag" and fronts the vowel of "caught," and the Midland speech of the corn counties, which keeps a flatter vowel set and merges "cot" and "caught" into one sound the northern shift keeps apart.
 
 ## Orders
 
-Where it passes as native ground: the Cleveland factory, the Great Lakes city, the western Ohio farm, the county fairground. It orders which vowels and turns of phrase mark a speaker as an Ohioan and sets the northern Great Lakes ear against the central Midland one.
+The northern half forces the shifted vowel set, the tensed short a and the fronted long o, that marks a Clevelander's speech before a word of content lands; the Midland half forces the cot-caught merger and licenses the needs-plus-past-participle construction ("the car needs washed") that the Inland North does not use, so a single auxiliary pattern marks which half of the state raised the speaker.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the corporate board carry, which the Ohio ear is often mistaken for and which trims the Great Lakes shift off the young. The high-tech redevelopment register also crowds the older farm-country Midland speech toward the margin.
+The Inland North vowel shift, still carried among the young in the industrial cities, loses ground to the flat vowels General American broadcast speech models, while the older Midland cot-caught distinction is disappearing from the corn counties as the merger advances, so both halves are losing the very features that used to mark them apart from one another and from the rest of the country.
 
 ## Drives
 
-It carries [Harper](persona_harper.md), whose flat Great Lakes accent is the working English of the Cleveland research floor, and [Samuel](persona_samuel.md), whose Midland cadence holds the farm English of the western corn counties. So the one Ohio speech shows who turns toward the industrial heartland and who keeps the farm ground.
+Growing up inside the shifted vowel set trains a Clevelander's ear to hear "bag" and "bus" pulled toward vowels a General American speaker would not recognize as the same short a and short u, while growing up on the merged cot-caught vowel and the needs-washed construction trains the Midland ear to compress a full passive clause into one auxiliary. So the one state carries two habits of vowel and syntax that mark, before any content is said, which Ohio raised the speaker.

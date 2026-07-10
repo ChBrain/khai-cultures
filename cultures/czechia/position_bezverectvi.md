@@ -34,4 +34,4 @@ Půdu ztrácí, když se ze zdravé skepse stane cynismus, který nevěří už 
 
 ## Drives
 
-Žije v [Janu Husovi](persona_hus.md), který se vzepřel Římu ve jménu pravdy, a ve [Václavu Havlovi](persona_havel.md), který proti ideologii postavil ne nového boha, ale život v pravdě. Žene Česko, aby na velká slova hledělo střízlivě a věřilo spíš člověku a rozumu než církvi a vůdci.
+Žije ve vzpouře proti Římu ve jménu pravdy, a v postoji, který proti ideologii postavil ne nového boha, ale život v pravdě. Žene Česko, aby na velká slova hledělo střízlivě a věřilo spíš člověku a rozumu než církvi a vůdci.

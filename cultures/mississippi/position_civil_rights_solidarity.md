@@ -34,4 +34,4 @@ Its balance when state-wide voting access restrictions override local county reg
 
 ## Drives
 
-Guides the local community planning in the plot [The Freedom Summer Campaign 1964](plot_03_freedom_summer.md) and drives the preservation work of [Ida](persona_ida.md).
+Guides the local community planning in the plot [The Freedom Summer Campaign 1964](plot_03_freedom_summer.md) and drives the preservation work that keeps the movement's record intact, the archivist's task of holding testimony and documents against loss.

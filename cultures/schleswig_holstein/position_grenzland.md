@@ -33,4 +33,4 @@ An Frieden, wo aus der doppelten Zugehörigkeit wieder ein Entweder-Oder gemacht
 
 ## Drives
 
-Es prägt [Storm](persona_storm.md), den die alte Grenzfrage ins Exil trieb, und es ist die ruhige Selbstverständlichkeit, mit der [Merle](persona_merle.md) heute über die Grenze fährt, als wäre keine da.
+Es prägt den Dichter, den die alte Grenzfrage ins Exil trieb, und es ist die ruhige Selbstverständlichkeit, mit der man heute über die Grenze fährt, als wäre keine da.

@@ -34,4 +34,4 @@ Its balance when offshore manufacturing consolidation reduces local shipyard cap
 
 ## Drives
 
-Guides the factory innovations in the plot [Brass and Clock Manufacturing Boom 1830](plot_02_clock_manufacturing.md) and drives the quality audits of [Charles](persona_charles.md).
+Guides the factory innovations in the plot [Brass and Clock Manufacturing Boom 1830](plot_02_clock_manufacturing.md) and drives the quality audits that hold manufacturing to precision standards.

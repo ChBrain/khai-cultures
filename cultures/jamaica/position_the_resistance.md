@@ -22,11 +22,11 @@ Parent group: positions
 
 ## Has
 
-The long refusal to be ruled and the pride that grew from it: the spine of the Jamaican story, running from the Maroons who fled into the hills and fought the British to a treaty, through the rebellions of the enslaved, to Marcus Garvey, who turned the will to be free into a Pan-African vision for a scattered people. It holds that the island was never only acted upon but always answered back, that bondage was met with flight and with arms and with a treaty signed by a free people, and that the dignity of standing tall before a power that meant to break you is the root of the nation's pride. It is the gap between what was imposed and what was refused, and the refusal is the nation's own.
+The long refusal to be ruled and the pride that grew from it: the spine of the Jamaican story, running from the Maroons who fled into the hills and fought the British to a treaty, through the rebellions of the enslaved, to the Pan-African prophet who turned the will to be free into a vision for a scattered people. It holds that the island was never only acted upon but always answered back, that bondage was met with flight and with arms and with a treaty signed by a free people, and that the dignity of standing tall before a power that meant to break you is the root of the nation's pride. It is the gap between what was imposed and what was refused, and the refusal is the nation's own.
 
 ## Orders
 
-That a people are not what is done to them but what they do in answer; that freedom is taken and held and not merely granted; that pride and self-respect are the first ground to be defended, the no man is my master that runs from Nanny to Garvey; and that the memory of those who refused - the Maroon in the hills, the prophet on the platform - is to be kept as the nation's own honour roll.
+That a people are not what is done to them but what they do in answer; that freedom is taken and held and not merely granted; that pride and self-respect are the first ground to be defended, the no man is my master that runs from the Maroon leader to the Pan-African prophet; and that the memory of those who refused - the Maroon in the hills, the prophet on the platform - is to be kept as the nation's own honour roll.
 
 ## Loses
 
@@ -34,4 +34,4 @@ Ground when resistance hardens into mere grievance, the long memory of wrong tur
 
 ## Drives
 
-Lives in [Nanny of the Maroons](persona_nanny.md), the Windward leader who fought the British to a treaty and is now a national hero, and in [Marcus Garvey](persona_marcus_garvey.md), who raised the will to be free into a vision that reached a whole diaspora. It drives Jamaica to remember that it was never only ruled, that it answered back, and to carry that answer as the source of its pride.
+Lives in the Maroon leader who fought the British to a treaty and is now a national hero, and in the Pan-African prophet who raised the will to be free into a vision that reached a whole diaspora. It drives Jamaica to remember that it was never only ruled, that it answered back, and to carry that answer as the source of its pride.

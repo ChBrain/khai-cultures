@@ -34,4 +34,4 @@ An Vertrauen, wenn strukturelle Arbeitslosigkeit verfestigt wird und die verspro
 
 ## Drives
 
-Bestimmt die Sorgen von [Jupp](persona_jupp.md) und treibt die Transformation der Region im Plot [Das Ende des Steinkohlebergbaus 2018](plot_03_coal_exit.md) voran.
+Bestimmt die Sorgen des Bergmanns und treibt die Transformation der Region im Plot [Das Ende des Steinkohlebergbaus 2018](plot_03_coal_exit.md) voran.

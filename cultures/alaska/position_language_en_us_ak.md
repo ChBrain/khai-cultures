@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The authority of Alaska's own variety of American English, the speech of the Last Frontier spoken from the Prudhoe Bay oil fields to the North Slope villages, one regional voice of the wider American tongue carrying the technical drawl of the pipeline corridor alongside the Inupiaq-inflected cadence of the coastal hunter. It holds the plain, direct register in which Alaskans conduct their working and community life, from the telemetry reading to the whaling-crew log.
+What English in Alaska holds that the mainland standard does not: a working vocabulary borrowed whole from the Native tongues it lives beside, mukluk, parka, mush, kayak, words taken in because English itself had no name for the boot, the coat, the sled command, or the skin boat. English's readiness to absorb a foreign word outright, keeping its sound close to the original, lets it take in a whole landscape's worth of terms that no earlier English coined on its own.
 
 ## Orders
 
-What the state conducts its shared life in: the safety report and the community log, the pipeline briefing and the subsistence-council meeting, the regulation and the classroom. It orders the common ground on which the oil technician of the transport corridor and the Inupiat hunter of the coast address one another and the nation, a single regional speech spanning the industrial field and the sea ice.
+The same fixed subject verb object order as everywhere English is spoken, since there are almost no case endings left to carry who does what, so word position must do that work. Negation and questions still require the auxiliary do. And whatever is borrowed in, mukluk, ulu, iglu, must be bent to English's own plural in s and its own stress pattern to be spoken at all.
 
 ## Loses
 
-Ground when its slower, season-bound, Inupiaq-inflected cadence is heard only as a distant echo beside the fast, digital register of the pipeline boards, so that the patient rhythm of subsistence and arctic survival sounds secondary against the talk of high-volume transport; and ground when the regional voice is flattened toward a generic corporate English that carries none of the frontier's memory.
+The grammar and sound of Inupiaq or Yupik that the borrowed word came from does not survive the borrowing, so mukluk keeps only the word, not the noun classes or sound system that shaped it in its own tongue. And when the loanword is worn smooth by everyday use, felt as plain English and no longer as borrowed, the tongue it came from goes unheard behind it.
 
 ## Drives
 
-It is the mother tongue of [Karl](persona_karl.md), the Valdez pipeline technician who speaks, hears, and thinks in the technical drawl of the transport corridor, and of [Siku](persona_siku.md), the Inupiat hunter of Barrow whose warm drawl carries the same regional tongue into the community log and the whaling season. It drives Alaska to hold its industrial and its subsistence voices as one speech, so that the pipeline field and the sea ice answer each other in the same Alaskan English.
+It drives the one who speaks it to reach without hesitation for a Native word when English's own stock falls short, a habit of absorption rather than invention. And it habituates the speaker to think in the same fixed word order and helping verbs as any English speaker, while carrying, folded into ordinary nouns, the trace of the languages that were spoken on this ground before English arrived.

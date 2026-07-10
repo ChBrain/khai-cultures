@@ -34,4 +34,4 @@ Du terrain quand le puits se fait rare et la secheresse longue, quand le troupea
 
 ## Drives
 
-Vit en [William J. F. Syad](persona_syad.md), poete qui porta la voix du desert et du nomade dans la langue du dehors, et dans [le caravanier du sel](persona_caravanier.md), qui mene encore les chameaux charges de sel sur la piste du lac. Elle pousse Djibouti a garder dans le coeur le rythme du nomade, la patience, l'hospitalite et le poeme, au seuil meme du monde qui court.
+Elle vit dans la poesie qui porta la voix du desert et du nomade dans la langue du dehors, et dans la piste du sel, ou l'on mene encore les chameaux charges de sel jusqu'au lac. Elle pousse Djibouti a garder dans le coeur le rythme du nomade, la patience, l'hospitalite et le poeme, au seuil meme du monde qui court.

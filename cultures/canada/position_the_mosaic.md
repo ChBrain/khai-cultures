@@ -34,4 +34,4 @@ Ground is lost when the mosaic hardens into separate solitudes that never touch:
 
 ## Drives
 
-It lives in [Jun](persona_jun.md), the younger immigrant whose mother tongue survives beside English where the melting pot would have dissolved it. It drives Canada to welcome the world and let it keep itself, to be a community of communities rather than a single mould, and to make of its many origins one frame that holds without melting.
+It lives in the younger immigrant whose mother tongue survives beside English where the melting pot would have dissolved it. It drives Canada to welcome the world and let it keep itself, to be a community of communities rather than a single mould, and to make of its many origins one frame that holds without melting.

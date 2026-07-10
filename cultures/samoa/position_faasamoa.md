@@ -34,4 +34,4 @@ E faaitiitia pe a vaeluaina le aiga e le folauga i fafo ma le mananao tupe, pe a
 
 ## Drives
 
-O loo ola i [Malietoa Tanumafili II](persona_malietoa.md), o le na tautino le faaSamoa i le tutoatasi o le atunuu fou, ma i [le matai](persona_le_matai.md), o le ulu o le aiga o loo tauave i aso uma le mamafa o le suafa ma le tausiga o ona aiga. E uunaia ai Samoa e tausi pea le aiga ma le faiga matai i le lalolagi fou, ma faia ai le faaSamoa o le faavae o le faasinomaga.
+O loo ola i le Ao o le Malo na tautino le faaSamoa i le tutoatasi o le atunuu fou, ma i le matai, o le ulu o le aiga o loo tauave i aso uma le mamafa o le suafa ma le tausiga o ona aiga. E uunaia ai Samoa e tausi pea le aiga ma le faiga matai i le lalolagi fou, ma faia ai le faaSamoa o le faavae o le faasinomaga.

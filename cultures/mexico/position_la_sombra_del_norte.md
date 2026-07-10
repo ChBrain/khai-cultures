@@ -34,4 +34,4 @@ Terreno cuando sacar la cara se cuaja en puro resentimiento, y se le echa la cul
 
 ## Drives
 
-Vive en [Frida Kahlo](persona_frida.md), que se pintó a sí misma sobre la frontera y escogió el terreno mexicano sin pedir disculpas, sacando un yo indígena y mestizo contra la gravedad del norte y volviéndose, con el mismo trazo, el rostro que el norte más adora. Empuja a México a seguir sacando su propio rostro junto al coloso y a no dejar que él se lo trague.
+Vive en la pintora que se pintó a sí misma sobre la frontera y escogió el terreno mexicano sin pedir disculpas, sacando un yo indígena y mestizo contra la gravedad del norte y volviéndose, con el mismo trazo, el rostro que el norte más adora. Empuja a México a seguir sacando su propio rostro junto al coloso y a no dejar que él se lo trague.

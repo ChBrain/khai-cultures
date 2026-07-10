@@ -34,4 +34,4 @@ Ground when the herd is cut off from the camp and the water, when drought or the
 
 ## Drives
 
-Lives in [the cattle-camp youth](persona_the_cattle_camp_youth.md), who takes his ox-name and sings its praises into the dark, and stands behind [Yaba Angelosi](persona_yaba.md), whose music carries the camp's rhythm into the town. It drives South Sudan to measure dignity in the herd and the kin, to seal its peace and its marriages in cattle, and to keep the praise-song to the ox alive as the truest poetry the rivers have made.
+Lives in the cattle-camp youth, who takes his ox-name and sings its praises into the dark, and stands behind the musicians whose songs carry the camp's rhythm into the town. It drives South Sudan to measure dignity in the herd and the kin, to seal its peace and its marriages in cattle, and to keep the praise-song to the ox alive as the truest poetry the rivers have made.

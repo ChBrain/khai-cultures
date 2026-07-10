@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des niedersächsischen Hochdeutsch, wie es im weiten Land zwischen Nordseeküste und Harz gesprochen und geschrieben wird. Es hält jenen nüchternen, klaren Klang des Nordens, dem Hannover den Ruf des reinsten Hochdeutsch gab: die gemessene, sturmfeste Sprache, in der das gesprochene Wort noch als Versprechen gilt und wenig Aufhebens gemacht wird.
+Das Hochdeutsch, wie es in Niedersachsen gesprochen wird, gilt vielen als das unauffälligste Hochdeutsch überhaupt, weil ihm kaum eine regionale Färbung mitklingt. Der Grund liegt im Untergrund: Niedersachsen liegt auf dem Boden des Niederdeutschen, jener eigenen Sprache, die die zweite Lautverschiebung nie mitmachte und darum ihr altes p, t, k dort behielt, wo das Hochdeutsche zu pf, tz und ch verschob. Wo Hochdeutsch als Schul- und Kirchensprache über eine schon andersartige Sprache gelegt wurde, prägte kein Dialekt die Aussprache des Hochdeutschen mit eigenen Lauten.
 
 ## Orders
 
-Was in Niedersachsen als gutes Hochdeutsch zählt, vom ruhigen, bedächtigen Ton der Küste bis zum sachlichen Register der Werkshallen. Es ordnet die knappe, verlässliche Auskunft und macht aus der geraden Rede die Form, an der man die friesische Gelassenheit ebenso erkennt wie die Genauigkeit des Ingenieurs.
+Es verlangt vom Sprecher, die Lautverschiebung mitzuvollziehen, die sein eigener Sprachboden nie durchgemacht hat, also Pfund und Zeit und ich zu sagen, wo das Niederdeutsche Pund und Tied und ik hätte. Es verlangt die vier Fälle des Hochdeutschen, während das Niederdeutsche darunter mit weniger Fallformen auskommt, und es verlangt so von jedem, der beide kennt, zwischen einem reicheren und einem einfacheren Kasussystem zu wechseln.
 
 ## Loses
 
-Boden an das ostfriesische Platt, die alte niederdeutsche Muttersprache der Deichlandschaft, das an der Küste weiterlebt, was der Standard nie ganz einfängt. Es verliert auch an das Englisch der globalen Lieferketten, das in den Werkshallen von Wolfsburg den Takt vorgibt, und an die bürokratische, oft fremdsprachige Verwaltungssprache der modernen Agrarwirtschaft.
+Es verliert, gerade weil es über eine fremde Sprache gelegt wurde, die eigene Färbung, die anderswo den Dialekt im Hochdeutschen mitklingen lässt, sodass dieses Hochdeutsch ohne die wärmenden Eigenheiten auskommen muss, die ein Dialekt seinem Hochdeutsch sonst mitgibt. Es verliert an das Niederdeutsche selbst, das als eigene Sprache mit eigenem Wortschatz und eigener Grammatik an der Küste weiterlebt, aber von immer weniger jungen Sprechern gesprochen wird, und mit jeder Generation etwas von seinem einfacheren Kasus und seinen unverschobenen Lauten verstummt.
 
 ## Drives
 
-Es treibt das Land, im geraden, gemessenen Wort seine Verlässlichkeit zu zeigen. Es trägt das stark vom Platt geprägte Deutsch des ostfriesischen Landwirts [Gerhard](persona_gerhard.md), die vertraute Stimme der Deichlandschaft, und das klare, um Englisch ergänzte Hochdeutsch der Ingenieurin [Antje](persona_antje.md), das die Lieferketten und Fertigungspläne ordnet. So zeigt die eine Landesform, wie Küste und Werk denselben Standard verschieden klingen lassen.
+Es gewöhnt, wer in Niedersachsen aufwächst, an ein Hochdeutsch ohne hörbaren Unterton, weil kein Dialekt die Aussprache formt, und schärft so das Ohr für die reine Lautung selbst. Es hält daneben ein zweites Sprachgefühl wach, das des Niederdeutschen mit seinen unverschobenen Lauten und seinem schlankeren Fallsystem, sodass mancher zwei Grammatiken im Kopf trägt. So zeigt dieses eine Hochdeutsch, dass Klarheit hier aus einem Sprachwechsel entstand, nicht aus einem Dialekt, der sie gefärbt hätte.

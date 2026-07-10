@@ -34,4 +34,4 @@ Perde terreno quando recitam o mito pra fechar a questão em vez de abrir ela - 
 
 ## Drives
 
-Vive em [Zumbi dos Palmares](persona_zumbi.md), que foi mantendo o quilombo de Palmares como uma sociedade livre dos fugidos e recusou a ordem que ergueu a mistura, e em [o malandro](persona_o_malandro.md), nascido dos morros do pós-abolição onde os libertos e os filhos deles foram fazendo a música e a sobrevivência que viraram as da própria nação. Ela move o Brasil a ir medindo a história calorosa dos três povos contra a vida desigual de cor que ele de fato viveu, e a ir saldando essa dívida.
+Vive em quem manteve o quilombo de Palmares como uma sociedade livre dos fugidos e recusou a ordem que a própria mistura ergueu, e em quem nasceu dos morros do pós-abolição, onde os libertos e os filhos deles foram fazendo a música e a sobrevivência que viraram as da própria nação. Ela move o Brasil a ir medindo a história calorosa dos três povos contra a vida desigual de cor que ele de fato viveu, e a ir saldando essa dívida.

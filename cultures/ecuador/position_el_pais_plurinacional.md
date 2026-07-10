@@ -34,4 +34,4 @@ Terreno cuando lo plurinacional queda en la pura letra y no en la vida, cuando s
 
 ## Drives
 
-Vive en [Dolores Cacuango](persona_dolores_cacuango.md), la líder kichwa que fundó las primeras escuelitas en su lengua y despertó el largo movimiento indígena, y en [Oswaldo Guayasamín](persona_guayasamin.md), que puso en la pintura el dolor y la dignidad de ese pueblo. Empuja al Ecuador a reconocerse de a deveras como país de muchas naciones y a hacer del buen vivir algo más que una palabra escrita, pues.
+Vive en las primeras escuelitas en lengua kichwa que despertaron el largo movimiento indígena, y en la pintura que puso el dolor y la dignidad de ese pueblo a la vista de todos. Empuja al Ecuador a reconocerse de a deveras como país de muchas naciones y a hacer del buen vivir algo más que una palabra escrita, pues.

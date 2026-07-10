@@ -34,4 +34,4 @@ Its balance when excessive municipal construction runoff contaminates local crab
 
 ## Drives
 
-Guides the conservation targets in the plot [The Chesapeake Bay Clean Water Act 1983](plot_03_chesapeake_clean_water.md) and drives the crabbing operations of [Ann](persona_ann.md).
+Guides the conservation targets in the plot [The Chesapeake Bay Clean Water Act 1983](plot_03_chesapeake_clean_water.md) and drives the crabbing operations of the bay's watermen.

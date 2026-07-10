@@ -34,4 +34,4 @@ Zemi zaudē, kad pieticība kļūst par mazumu: vēlu nākusi pašapziņa, kas t
 
 ## Drives
 
-Dzīvo [Valdemārā](persona_valdemars.md), kas izcēla latviešu tautu no zemnieka kārtas un lika tai lepoties ar sevi zem vācu baroniem. Dzen Latviju izaugt no mazas, ilgi pakļautas tautas par valsti, kas ir saimnieks pati sev un pastāv starp lielajiem kaimiņiem, neizšķīstot ne vienā, ne otrā.
+Dzīvo kustības vadonī, kas izcēla latviešu tautu no zemnieka kārtas un lika tai lepoties ar sevi zem vācu baroniem. Dzen Latviju izaugt no mazas, ilgi pakļautas tautas par valsti, kas ir saimnieks pati sev un pastāv starp lielajiem kaimiņiem, neizšķīstot ne vienā, ne otrā.

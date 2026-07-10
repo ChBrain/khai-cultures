@@ -34,4 +34,4 @@ Du terrain quand le grand nom d'autrefois sert d'oreiller au lieu d'aiguillon, q
 
 ## Drives
 
-Vit dans [Mansa Moussa](persona_mansa_moussa.md), l'empereur qui traversa le desert vers La Mecque, l'or a pleines mains, et porta le nom du Mali jusqu'aux cartes des etrangers. L'empire sahelien pousse le Mali a se savoir heritier des grandes maisons du Sahel, gardien d'un fleuve et d'un carrefour, et a se tenir au milieu des routes du monde comme jadis au milieu des routes du desert.
+Vit dans l'empereur qui traversa le desert vers La Mecque, l'or a pleines mains, et porta le nom du Mali jusqu'aux cartes des etrangers. L'empire sahelien pousse le Mali a se savoir heritier des grandes maisons du Sahel, gardien d'un fleuve et d'un carrefour, et a se tenir au milieu des routes du monde comme jadis au milieu des routes du desert.

@@ -34,4 +34,4 @@ Its moral ground when the search for compromise leads to inaction, failing to ad
 
 ## Drives
 
-Determines the social framework in the plot [The Northwest Ordinance 1787](plot_01_northwest_ordinance.md) and guides the farming advocacy of [Samuel](persona_samuel.md).
+Determines the social framework in the plot [The Northwest Ordinance 1787](plot_01_northwest_ordinance.md) and guides the farming advocacy carried on by the region's farmers.

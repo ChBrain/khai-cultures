@@ -34,4 +34,4 @@ Talajt veszít, amikor a hősi bukás kultusza öncéllá válik: amikor a veres
 
 ## Drives
 
-Él [Petőfiben](persona_petofi.md), aki 1848 költőjeként a forradalomba és a halálba ment, és [Nagy Imrében](persona_nagy_imre.md), aki 1956 mártírjaként az életével fizetett a szabadságért. Hajtja Magyarországot a hősi felkelésre és az áldozatra, és arra, hogy a vereségben is lásson értelmet, a dacban pedig méltóságot.
+Él az 1848 költőjében, aki a forradalomba és a halálba ment, és az 1956 mártírjában, aki az életével fizetett a szabadságért. Hajtja Magyarországot a hősi felkelésre és az áldozatra, és arra, hogy a vereségben is lásson értelmet, a dacban pedig méltóságot.

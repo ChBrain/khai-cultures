@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-To skriftnormer for ett og samme språk: bokmålet, vokst ut av den danske skriftarven fra unionstiden, og nynorsken, som Ivar Aasen bygde av de levende dialektene. Og et land som snakker dialekt overalt og ikke bøyer seg for noen talenorm.
+Norsk har ikke noen normert talemål i det hele tatt, bare to skriftnormaler, bokmål og nynorsk, og lar enhver tale sin egen dialekt i skolen, i retten og på statskanalen uten at det høres som en feil, en frihet svært få andre europeiske språk gir sine brukere. Det bærer også tonelag, en tonehøyde-forskjell som kan skille to ord ellers stavet likt, som "bønder" mot "bønner", en egenskap norsk deler med bare et fåtall germanske språk.
 
 ## Orders
 
-At staten, skolen og NRK må tjene begge målformer, at ingen nordmann skal tvinges til å skrive den andres norm, og at elevene lærer begge. Den byr at man snakker sin egen dialekt, ikke en standard, og skriver den normen man har lært.
+Det byr at man skriver etter én av de to normerte formene, men taler sin egen dialekt uansett hvilken norm man skriver; det byr V2-ordstilling, det bøyde verbet på andreplass i utsagnssetningen; og det byr, strengere i nynorsk enn i bokmål, tre grammatiske kjønn i stedet for to, der bokmål lar hokjønnet falle sammen med hankjønn dersom skriveren vil det.
 
 ## Loses
 
-Grunn etter hvert som bokmålet rår i byene, i pressen og i næringslivet, mens nynorsken trekker seg tilbake til de vestlandske dalene og må kjempe for plassen sin. Og begge normene taper daglig skriftgrunn til engelsken.
+Det mister en samlende uttalenorm som andre språk bruker til å jevne ut regional forskjell, og begge skriftnormene taper etter hvert grunn til engelsk i fag- og næringsspråk. Tonelaget, som skiller ord ellers identiske i skrift, lar seg ikke gjengi i skrift i det hele tatt, så mye av den tonale informasjonen forsvinner så snart talen blir tekst.
 
 ## Drives
 
-Den hundreårige striden om hvilket skriftspråk som er folkets, driver landet til å bære to normer på en gang og til å sette den talte dialekten høyere enn noen skriftnorm. Den lever i [Olav](persona_olav.md), som talte det gamle norrøne morsmålet som den selvsagte grunnen under sin makt, i [Nansen](persona_nansen.md), som talte og skrev morsmålet hjemme mens han bar de fremmede språkene ute i verden, i [Kari](persona_kari.md), som snakker dialekten sin og skriver den ene av de to normene, og i [Sondre](persona_sondre.md), som skriver hvilken som helst av normene med engelsken alt på skjermen. Slik setter landet den talte dialekten over normen og bærer likevel begge skriftmålene på en gang.
+Vanen med å tale sin egen dialekt uansett situasjon gjør nordmannen fortrolig med å høre og godta stor lydlig variasjon som likevel regnes som ett og samme språk, og tonelagets skille mellom ellers like ord øver opp øret til å lytte etter tonehøyde, ikke bare lyd, for å skille mening fra mening.

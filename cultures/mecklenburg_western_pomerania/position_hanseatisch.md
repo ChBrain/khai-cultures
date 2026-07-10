@@ -34,4 +34,4 @@ An Legitimation, wenn spekulatives Handeln das Vertrauen beschädigt oder wenn d
 
 ## Drives
 
-Prägt den Aufstieg der Städte im Plot [Der Beitritt zur Hanse ab 1250](plot_01_hanse_wismar_rostock.md) und lenkt das Traditionsbewusstsein von [Hinnerk](persona_hinnerk.md).
+Prägt den Aufstieg der Städte im Plot [Der Beitritt zur Hanse ab 1250](plot_01_hanse_wismar_rostock.md) und lenkt das Traditionsbewusstsein der alteingesessenen Küstenbewohner.

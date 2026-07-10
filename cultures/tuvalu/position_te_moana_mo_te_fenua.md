@@ -34,4 +34,4 @@ E galo te malosi kafai e laga aka te moana ke ofi te laukele mo te vai; e galo f
 
 ## Drives
 
-E ola i [te tino fatele](persona_te_tino_fatele.md), ko te tino e usu mo saka i te fatele e fakaata ei te alofa ki te moana mo te laukele. E fakamalosi ei a Tuvalu ke tausi tona ola i te vaa o te moana mo te fenua, mo te poto o te tautai mo te atoll ne maua mai nga tupuna.
+E ola i te tino fatele, ko te tino e usu mo saka i te fatele e fakaata ei te alofa ki te moana mo te laukele. E fakamalosi ei a Tuvalu ke tausi tona ola i te vaa o te moana mo te fenua, mo te poto o te tautai mo te atoll ne maua mai nga tupuna.

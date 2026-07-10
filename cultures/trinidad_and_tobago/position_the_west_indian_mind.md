@@ -34,4 +34,4 @@ Ground when the gifted leave and do not return - the brain drain that sends the 
 
 ## Drives
 
-Lives in [C.L.R. James](persona_clr_james.md), who wrote "The Black Jacobins" and "Beyond a Boundary" and made the cricket pitch and the slave revolt both into history. It drives Trinidad and Tobago to keep thinking for itself and to keep producing minds the world must read.
+Lives in the historian who wrote "The Black Jacobins" and "Beyond a Boundary" and made the cricket pitch and the slave revolt both into history. It drives Trinidad and Tobago to keep thinking for itself and to keep producing minds the world must read.

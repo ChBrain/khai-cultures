@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El español tal como suena en las islas, el habla canaria del seseo y la ese aspirada, de las haches que respiran y las voces traídas del otro lado del Atlántico: el gofio, la papa, la guagua, el millo. Es un castellano de acento atlántico, pariente cercano del habla del Caribe y de las Américas por los siglos de barcos y de emigración, cantado, suave y abierto, muy lejos de la pronunciación tensa del norte peninsular.
+El seseo, que funde en un solo sonido lo que el norte peninsular separa en s, z y c suave, y la aspiración o la pérdida de la ese final de sílaba, que ablanda casi toda palabra en plural con un aliento suelto y abierto. Y un vocabulario compartido con el Caribe y las Américas antes que con la España peninsular, guagua, gofio, papa, llevado por los mismos barcos y las mismas idas y venidas.
 
 ## Orders
 
-Que en las Canarias se hable el español a la canaria, con su seseo y su música atlántica, sin corregirse ante el peninsular; que la guagua siga siendo guagua y la papa siga siendo papa; y que el habla isleña valga como lengua entera, hermana de la de América y no un castellano peor dicho.
+Obliga, como el español de América y a diferencia del resto de España, a que el plural de tratamiento caiga solo en ustedes, sin la forma vosotros como registro aparte; obliga a fundir la ese, la zeta y la ce suave en un mismo sonido; y obliga a que la ese final de sílaba se relaje en un soplo o desaparezca, cambiando la forma de casi todo plural.
 
 ## Loses
 
-Pierde terreno cuando se tiene el habla canaria por castellano descuidado o por hablar "de pueblo" y se pide al isleño que sale fuera que module su seseo y adopte la norma peninsular; y cuando la escuela y la pantalla ponen por modelo la pronunciación del centro, el archipiélago aprende a dudar de su propia voz atlántica.
+Pierde la separación entre vosotros y ustedes que el resto del español peninsular usa para marcar la distancia formal en el trato de grupo, de modo que ese matiz debe leerse en el contexto isleño y no en el propio verbo. Y pierde precisión cuando la ese aspirada o caída borra la frontera entre singular y plural en el habla rápida, dejando el número por inferir más que por oír.
 
 ## Drives
 
-Es la lengua materna de [Ayose](persona_ayose.md), el guarda de La Gomera que en el habla canaria [habla](process_speaking_mother_tongue.md) y lleva sus partes del monte; y de [Yaiza](persona_yaiza.md), la ingeniera platanera que en ella [habla, escucha y piensa](process_speaking_mother_tongue.md) con los cooperativistas. Empuja a las Canarias a hablarse en su propio acento atlántico, hermano del habla de América y no un castellano menor.
+Acostumbra al oído que crece en ella a oír la ese, la zeta y la ce suave como un solo sonido y a esperar un único ustedes sin registro informal aparte. Empuja la boca hacia un final relajado y abierto en casi toda palabra en plural, y ata el vocabulario de casa al Atlántico y a las Américas antes que a la península.

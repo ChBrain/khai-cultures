@@ -34,4 +34,4 @@ An Bedeutung, wenn Grenzschließungen die Freizügigkeit einschränken oder nati
 
 ## Drives
 
-Lenkt die historische Ausrichtung im Plot [Die Volksabstimmung über das Saarstatut 1955](plot_01_saar_statut_1955.md) und bestimmt die Denkweise von Stahlarbeiter [Michel](persona_michel.md).
+Lenkt die historische Ausrichtung im Plot [Die Volksabstimmung über das Saarstatut 1955](plot_01_saar_statut_1955.md) und bestimmt die Denkweise der Stahlarbeiter im Grenzland.

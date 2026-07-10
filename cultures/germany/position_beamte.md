@@ -33,4 +33,4 @@ An Vertrauen, wo die Vorschrift zum Selbstzweck erstarrt und die Gründlichkeit 
 
 ## Drives
 
-Er trägt die Ordnung, die [Bismarck](persona_bismarck.md) gründet und [Adenauer](persona_adenauer.md) erneuert, und macht die Pflicht zum Mass, an dem das Land sein Inneres prüft.
+Er trägt die Ordnung, die im Reich gegründet und in der Bundesrepublik erneuert wird, und macht die Pflicht zum Mass, an dem das Land sein Inneres prüft.

@@ -34,4 +34,4 @@ Tanah ketika perbedaan ditakuti alih-alih dirangkul, ketika satu suku atau satu 
 
 ## Drives
 
-Hidup dalam [Raden Ajeng Kartini](persona_kartini.md), yang menulis dari dalam adatnya sendiri sambil membuka diri pada dunia yang lebih luas, menjembatani yang lama dan yang baru. Bhinneka Tunggal Ika mendorong Indonesia untuk menjaga ribuan pulau dan ratusan suku tetap satu tanpa kehilangan keragamannya.
+Hidup dalam para penulis perempuan yang menulis dari dalam adatnya sendiri sambil membuka diri pada dunia yang lebih luas, menjembatani yang lama dan yang baru. Bhinneka Tunggal Ika mendorong Indonesia untuk menjaga ribuan pulau dan ratusan suku tetap satu tanpa kehilangan keragamannya.

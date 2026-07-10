@@ -34,4 +34,4 @@ Its moral ground when traditional hierarchies ignore the history of racial inequ
 
 ## Drives
 
-Guides the colonial economy in the plot [Jamestown Founding 1607](plot_01_jamestown.md) and drives the historic docent work of [Thomas](persona_thomas.md).
+Guides the colonial economy in the plot [Jamestown Founding 1607](plot_01_jamestown.md) and drives the historic docent work that keeps the plantation-era estates open and explained to visitors.

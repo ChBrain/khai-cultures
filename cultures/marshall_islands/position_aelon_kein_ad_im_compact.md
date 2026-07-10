@@ -34,4 +34,4 @@ Jako ne aelon eo ej kotak make jutak eo an im ej meloklok kobaik eo ej aikuj e; 
 
 ## Drives
 
-Ej mour ilo [Amata Kabua](persona_amata_kabua.md), eo me ej tol aelon eo nan an erom juon republic im ej kommane Compact eo. Ej kakure aelon eo nan dapij an make jutak, nan bukot jiban jen lal in nan lometo eo ej wanlontak, im nan dapij armej ro an im aelon ko an.
+Ej mour ilo eo me ej tol aelon eo nan an erom juon republic im ej kommane Compact eo. Ej kakure aelon eo nan dapij an make jutak, nan bukot jiban jen lal in nan lometo eo ej wanlontak, im nan dapij armej ro an im aelon ko an.
