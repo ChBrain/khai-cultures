@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A língua portuguesa, língua românica nascida na orla atlântica no extremo ocidental da Península, língua materna de quase todos e língua da casa, da escola, do Estado e da mesa. É a língua a que [Camões](persona_camoes.md) deu o seu monumento em Os Lusíadas e onde fixou para sempre a palavra saudade, e a língua que as caravelas de [Vasco da Gama](persona_da_gama.md) levaram por portos e feitorias muito para lá da orla de onde partiram, semeando-a por meio mundo. Uma língua pequena na sua origem que se fez grande no mar.
+Dois verbos para "ser" (ser e estar), que distinguem o que é essência do que é estado passageiro, ali onde outras línguas só têm um; o infinitivo pessoal, flexionado por pessoa (falar, falares, falarmos), que nenhuma outra grande língua românica conserva; o futuro do conjuntivo, vivo no dia a dia (quando ele chegar, se eu puder), que o espanhol e o francês quase perderam; e a palavra saudade, que nomeia numa só sílaba o que noutras línguas pede uma frase inteira.
 
 ## Orders
 
-O que passa por bom português: a ortografia, o tom brando e contido, a maneira de dizer as coisas baixinho e sem palavras grandes. Manda que a saudade e o fado cheguem inteiros nela, sem que ninguém de fora os traduza sem os perder, e que a memória longa da nação se guarde na sua própria língua.
+Que se escolha, em cada frase, entre ser e estar, obrigando a decidir se algo é permanente ou passageiro antes mesmo de dizer o verbo; que o infinitivo se flexione conforme quem faz a ação, mesmo sem sujeito expresso; e que o pronome se prenda ao meio do verbo no futuro e no condicional (dar-lhe-ei, contar-te-ia), ordem que nenhuma outra língua impõe assim.
 
 ## Loses
 
-Terreno, dia após dia, ao inglês do mundo, que chega ao trabalho e às telas e já se mistura na fala dos novos, de modo que o seu lugar é sempre defendido e nunca garantido. E a emigração leva os seus filhos para longe, onde a língua materna se torna a saudade de quem partiu e os netos já falam a língua da terra nova, ainda que pelo mundo a lusofonia a mantenha viva.
+A distinção nítida entre passado recente e distante que outras línguas fazem com tempos próprios, pois o português tende a apoiar-se no mesmo pretérito para os dois; a facilidade de quem chega de fora, a quem o infinitivo pessoal e o futuro do conjuntivo custam a entender, por não existirem nas suas línguas; e a palavra exata, quando saudade se traduz para fora e se perde ou se estica numa frase longa noutra língua.
 
 ## Drives
 
-Vive em [Camões](persona_camoes.md), que lhe deu a sua epopeia e o nome próprio da saudade, em [Vasco da Gama](persona_da_gama.md), que a levou ao mundo enquanto o mundo só lhe chegava traduzido, em [Amália](persona_amalia.md), que a canta baixinho como quem reza, com a voz a tremer na palavra saudade, e em [Tiago](persona_tiago.md), que a carrega já misturada com o inglês do mundo para onde o futuro o chama. Leva Portugal a guardar a sua língua como casa da saudade e da memória longa, quando a língua do mundo tudo quer engolir.
+Leva quem fala a pensar primeiro se o que diz é traço permanente ou situação de momento, antes de escolher entre ser e estar; habitua a mente a nomear numa só palavra o que é mistura de ausência, memória e afeto, em vez de o descrever aos bocados; e ensina a prender o pronome ao verbo com naturalidade, hábito que marca a língua desde a infância.

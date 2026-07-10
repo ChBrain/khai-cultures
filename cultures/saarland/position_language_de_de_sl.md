@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des saarländischen Hochdeutsch, wie es im kleinen Grenzland zwischen Kohle, Stahl und französischer Nähe gesprochen und geschrieben wird. Es hält jenen warmen, geselligen Klang des Südwestens, der die Mundart nie ganz ablegt und in dem das französische Nachbarwort selbstverständlich mitklingt: das herzliche, gemütliche Deutsch des "Hauptsach gudd gess", in dem am Grill und am Tisch die Heimat sitzt.
+Saarländisches Hochdeutsch trägt den weichen, weit gedehnten Tonfall des mittelfränkisch-rheinfränkischen Grenzraums und hat über Jahrhunderte enger Nachbarschaft französische Wörter unmittelbar aufgenommen (Bredullje, Bagaasch, Schmelz), sodass ein französisches Wort mitten im deutschen Satz nie fremd klingt, sondern selbstverständlich mitschwingt.
 
 ## Orders
 
-Was im Saarland als gutes Hochdeutsch zählt, vom vertrauten, breiten Ton der Schwenker-Runde bis zum Register der grenzüberschreitenden Zusammenarbeit. Es ordnet die offene, gesellige Rede und macht aus dem geraden, herzlichen Wort die Form, an der man den Saarländer und sein Savoir-vivre erkennt.
+Es verlangt vom Sprecher den einheitlichen Plural, der im Rheinfränkischen alle drei Personen der Mehrzahl auf dieselbe Verbform zusammenzieht (mir/ihr/sie geht), und es verlangt die lenisierte, weich gesprochene Konsonanz, die harte Verschlusslaute des Hochdeutschen im Mund abrundet. Zugleich zwingt es, jedes französische Lehnwort in die eigene Lautung und Betonung einzupassen, ehe es als eigenes Wort gelten darf.
 
 ## Loses
 
-Boden an die saarländische Mundart, das vertraute Dialekt-Deutsch der Nachbarschaft und der Hüttenorte, das im Mund weiterlebt, was der Standard glättet. Es verliert auch an das Französisch des Nachbarn, das im täglichen Grenzverkehr mitregiert, und an das Englisch der neuen Technologieunternehmen, das dem vertrauten Wort der Industriezeit fremd bleibt.
+Es verliert die Schärfe der hochdeutschen Konsonanten, die im weichen saarländischen Mund zu b, d, g abgerundet werden, und mit ihr manche Unterscheidung, die das geschriebene Hochdeutsch noch macht. Es verliert auch das eigene Verbparadigma der Mehrzahl, das der einheitliche Plural einebnet, sodass eine Form drei Personen zugleich trägt, ohne sie noch zu unterscheiden.
 
 ## Drives
 
-Es treibt das Land, im herzlichen, geselligen Wort seine Heimatverbundenheit zu zeigen. Es trägt das stark von der saarländischen Mundart geprägte Deutsch des pensionierten Stahlarbeiters [Michel](persona_michel.md), die vertraute Stimme der Nachbarschaft und des Grills, und das klare, um Französisch ergänzte Hochdeutsch der Kulturmanagerin [Charlotte](persona_charlotte.md), das die deutsch-französische Freundschaft über die Grenze trägt. So zeigt die eine Landesform, wie Hüttenort und Kulturprojekt denselben Standard verschieden klingen lassen.
+Es gewöhnt den, der darin aufwächst, den einheitlichen Plural und den weichen Konsonanten so selbstverständlich zu sprechen, dass er sie im Hochdeutschen der Schule erst wieder mühsam auseinanderhalten muss. Es macht ihn empfänglich für das französische Wort mitten im deutschen Satz, weil sein Ohr an der Grenze zwei Lautsysteme zugleich trägt, und es schult ihn, zwischen dem weichen Klang der Nachbarschaft und dem schärferen Hochdeutsch der Schrift zu wechseln, ohne dass der eine Klang den andern verdrängt.

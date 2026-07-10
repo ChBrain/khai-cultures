@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The South Midland English of the Sooner State, the flat, direct plains cadence of the Bartlesville oil fields and the warm, unhurried drawl of the Cherokee country around Tahlequah. It holds a plainspoken, Southern-inflected plains speech that both the derrick and the basket bench carry.
+Oklahoma's South Midland English keeps the monophthongal "long i" of the wider South, so "ride" and "time" flatten toward "rahd" and "tahm" without the glide General American keeps, and it keeps the second person plural y'all, filling a gap Standard English has carried empty since it lost a distinct plural you.
 
 ## Orders
 
-Where it passes as native ground: the Bartlesville rig floor, the Oklahoma City board room, the Tahlequah community hall, the prairie windbreak. It orders which turns of phrase and vowels mark a speaker as Oklahoman and sets the oil-field plains ear against the tribal-country one.
+It merges the vowels of "pin" and "pen," and similar pairs before a nasal consonant, into one sound, so context alone must carry a distinction the vowel itself no longer marks; and it licenses the fixin to construction to mark near-future intention, a grammatical resource General American does not build in the same compact form.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the commercial board carry, which trims the drawl off the young and stamps the slower tribal-country speech as merely rural. The high-volume petroleum register also crowds the older Cherokee-country talk toward the margin.
+The glide that other American dialects keep in the long i vowel is lost here, flattened to a single sound, and the distinction between pin and pen, kept apart elsewhere, is lost to the merger, so a listener from outside the region must lean on context to sort words the vowel no longer separates.
 
 ## Drives
 
-It carries [Jimmy](persona_jimmy.md), whose direct plains cadence is the working English of the Bartlesville oil fields, and [Mary](persona_mary_ok.md), whose warm drawl holds the English of the Cherokee basket benches of Tahlequah. So the one Oklahoman speech shows who turns toward the petroleum track and who keeps the tribal ground.
+Speaking with the flattened long-i vowel and the fixin to construction trains an ear to hear intention marked by a whole verb phrase rather than a single tense marker, and the necessary y'all trains the habit of marking plurality in address explicitly, where General American leaves it to guesswork; together they mark a speaker as Oklahoman before a single word of content is said.

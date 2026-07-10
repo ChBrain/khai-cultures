@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des nordrhein-westfälischen Hochdeutsch, wie es im bevölkerungsreichsten Land des Westens gesprochen und geschrieben wird, zwischen dem rheinischen Süden und dem westfälischen Norden. Es hält jenen warmen, geselligen Klang des Reviers, in dem der bergmännische Zusammenhalt und der rheinische Frohsinn denselben Ton haben: das herzliche, direkte Deutsch, in dem keiner über dem anderen steht.
+Aus dem Rheinischen trägt das nordrhein-westfälische Hochdeutsch die sogenannte rheinische Verlaufsform in den bundesweiten Sprachgebrauch, das "am"-Konstrukt ("ich bin am Arbeiten"), mit dem sich eine Handlung eigens als gerade im Gange markieren lässt, eine Nuance, die das reine Hochdeutsch sonst nur umständlich umschreiben kann. Dazu hält es, wie jedes Hochdeutsch, das lange Bauwort, das mehrere Begriffe in eins presst (Steinkohlebergbau, Landeshauptstadt, Karnevalszug).
 
 ## Orders
 
-Was in Nordrhein-Westfalen als gutes Hochdeutsch zählt, vom warmen, kumpelhaften Ton des Ruhrgebiets bis zum fröhlichen Singsang des rheinischen Karnevals. Es ordnet die offene, herzliche Rede, in der man rasch per Du ist, und macht aus dem geraden, freundlichen Wort die Form, an der man das Revier erkennt.
+Es zwingt, wie überall im Deutschen, bei jedem Ding ein Geschlecht und bei jedem Satz einen der vier Fälle zu wählen, es verlangt im Nebensatz das Verb bis zuletzt zurückzuhalten und den Sinn so lange in der Schwebe zu halten, und es befiehlt bei jeder Anrede die Wahl zwischen Sie und du, eine Entscheidung, die das Rheinische rascher trifft als das nüchternere Westfalen.
 
 ## Loses
 
-Boden an das Ruhrdeutsch der Zechenkolonien und an das rheinische Kölsch, die im Mund weiterleben, was der Standard glättet. Es verliert auch an das Englisch der neuen Kulturzentren auf den alten Zechengeländen und an die digitalisierte Verwaltungssprache, die dem vertrauten Wort des Reviers fremd bleibt.
+Es verliert die Schärfe des knappen, einfachen Präsens, weil die rheinische Verlaufsform und ähnliche Umschreibungen es zunehmend verdrängen, und es verliert im Nebeneinander von geselligem Rheinisch und nüchternerem Westfälisch eine einheitliche Klangfarbe, sodass der eine Landesstandard zwei recht verschiedene Sprachgefühle unter einem Dach halten muss.
 
 ## Drives
 
-Es treibt das Land, im herzlichen, geraden Wort seinen Zusammenhalt zu zeigen. Es trägt das stark vom Ruhrdeutsch gefärbte Deutsch des pensionierten Bergmanns [Jupp](persona_jupp.md), die vertraute Stimme der Zechenkolonien, und das klare, um Englisch ergänzte Hochdeutsch der Studentin [Luisa](persona_luisa.md), das die Industriegeschichte in Kunst und Forschung übersetzt. So zeigt die eine Landesform, wie Zeche und Hörsaal denselben Standard verschieden klingen lassen.
+Es treibt seine Sprecher, eine Handlung eigens als im Gange befindlich zu kennzeichnen, statt sie im bloßen Präsens verschwimmen zu lassen, und es gewöhnt sie, wie jeden Deutschsprachigen, den Satz erst ganz zu bauen, ehe das Verb ihn schließt, und bei jeder Anrede die Nähe zum Angesprochenen neu abzuwägen.

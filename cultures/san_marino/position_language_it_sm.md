@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Lo statuto dell'italiano come lingua della Repubblica, tenuto in due registri: l'italiano formale degli accordi dello Stato, dei trattati e della Segreteria di Stato, e l'italiano quotidiano del monte, colorato dalle cadenze del dialetto romagnolo del Titano, la parola diretta della Sammarinesità. E' la proposizione che la più antica repubblica del mondo tiene per intero la propria lingua, dalla carta del trattato alla voce dello scalpellino sulla pietra, e che il registro dell'ufficio e quello del monte non sono due lingue ma la stessa che passa dalla scadenza internazionale al racconto di bottega.
+L'italiano lascia cadere il pronome soggetto perche la desinenza del verbo dice gia da sola chi parla (vado, vai, va bastano senza "io," "tu," "lui"), e tiene il congiuntivo, un modo verbale intero dedicato a cio che e dubbio, sperato o supposto e non certo, che molte lingue vicine hanno perso o ridotto. Tiene anche il pronome clitico che si salda al verbo (dirlo, dandogli, portacelo), capace di condensare in una coda breve chi riceve l'azione e a chi va.
 
 ## Orders
 
-Quale registro va dove: l'italiano formale nell'accordo, nel regolamento, nel trattato di associazione; l'italiano colorato di romagnolo nella bottega, sul monte, nella parola di ogni giorno. Ordina che la lingua dello Stato e la lingua del mestiere valgano entrambe come propria della Repubblica, e che il sammarinese sia governato e rappresentato nella stessa lingua in cui lavora la pietra.
+Impone l'accordo di genere su tutta la frase, cosicche articolo, sostantivo e aggettivo devono concordare in maschile o femminile e in singolare o plurale ad ogni parola pronunciata, senza eccezione. Impone anche la scelta tra il "tu" confidenziale e il "Lei" di rispetto, un "Lei" che prende la terza persona singolare per parlare a chi si ha davanti, cosicche ogni rivolgersi porta gia in se la distanza o la vicinanza scelta.
 
 ## Loses
 
-Perde terreno dove le scadenze internazionali e i regolamenti del mercato unico europeo sommergono la parola del monte, e dove l'inglese di Bruxelles si sovrappone come la lingua della negoziazione che l'italiano dello Stato non basta più a reggere da solo. E dietro, la perdita più profonda: le cadenze del dialetto romagnolo e i racconti dello scalpellino sulla pietra del Titano, avvertiti come l'eco distante di un'epoca in cui il lavoro si misurava sulla pietra e non sulle carte.
+Nel registro colorato di romagnolo del monte cade la vocale finale che l'italiano standard tiene salda, e il suono si fa piu nasale e piu breve di quanto il libro di scuola insegni, cosicche una parola sentita sul Titano e la stessa parola scritta nel trattato possono suonare quasi due lingue. Perde anche, dove l'inglese del mercato unico si sovrappone, la necessita del congiuntivo e dei modi fini che l'italiano coltiva, ridotti a un indicativo piu semplice quando la contrattazione corre veloce.
 
 ## Drives
 
-Spinge la Repubblica a trattare col mondo nella propria lingua mentre il suo cuore batte nella cadenza del monte. Dà a [Giulia](persona_giulia.md) l'italiano lingua madre con cui parla e scrive gli accordi dello Stato, mentre porta l'inglese sovrapposto per negoziare a Bruxelles; e dà a [Marino](persona_marino.md) l'italiano colorato di romagnolo con cui parla, ascolta e pensa, l'espressione diretta della sua Sammarinesità, chiuso alle carte e alle direttive che legge con fatica. Così l'unica lingua mostra chi la tiene nel registro formale dello Stato e chi la tiene nella parola del monte, e come la Repubblica passa dall'una all'altra.
+Spinge chi lo tiene a lasciare cadere il soggetto e a fidarsi della sola desinenza del verbo per farsi capire, un'abitudine che rende superfluo cio che altre lingue devono dire per intero. Educa a pesare ogni volta il grado di rispetto dovuto scegliendo tra il "tu" e il "Lei" prima ancora di scegliere le parole, e abitua l'orecchio a due timbri della stessa lingua, quello pieno e regolare della scuola e quello piu nasale e troncato del monte, portati entrambi nella stessa bocca.

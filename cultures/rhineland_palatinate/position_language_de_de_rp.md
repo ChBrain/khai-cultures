@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des rheinland-pfälzischen Hochdeutsch, wie es im Land des Weins und der Flusslandschaften gesprochen und geschrieben wird. Es hält jenen geselligen, sonnigen Klang des Südwestens, der die Mundart der Weinberge nie ganz ablegt und doch die Schrift trägt, die hier mit Gutenberg das Lesen der Welt begann: das gemütliche, ehrliche Deutsch, in dem beim Schoppen die Zunge locker wird.
+Es hält, was jedes Hochdeutsch hält: das Bauwort, das ganze Gedanken in ein Wort presst, und die Fähigkeit, einen Satz bis zum Verb am Ende ganz durchzukonstruieren. Zugleich trägt es unter der Hochlautung den weichen pfälzischen Klang, der harte Konsonanten löst, wo Hochdeutsch sie hart spricht, und die Verkleinerung auf "-sche" statt des standarddeutschen "-chen" (Mädsche statt Mädchen), ein Lautbild, das der Winzerstube ihre Wärme gibt.
 
 ## Orders
 
-Was in Rheinland-Pfalz als gutes Hochdeutsch zählt, vom geselligen, breiten Ton der Winzerstube bis zum geprüften Register des Museums und der Fachtagung. Es ordnet die offene, gemütliche Rede und macht aus dem geraden, herzlichen Wort die Form, an der man den Menschen von der Weinstrasse erkennt.
+Es verlangt wie jedes Deutsch ein Geschlecht bei jedem Ding, einen von vier Fällen bei jedem Satz und eine Sie/du-Entscheidung bei jeder Anrede. Zusätzlich zwingt der pfälzische Untergrund den Sprecher, harte und weiche Konsonanten einander anzunähern, sodass Wörter im Mund weicher klingen als die Schrift zeigt, und "isch" statt "ich" zu sagen, wo die Mundart durch das Hochdeutsche schimmert.
 
 ## Loses
 
-Boden an den pfälzischen Dialekt, das Mundart-Deutsch der Weinlese und des Schoppenausschanks, das im Mund weiterlebt, was der Standard glättet. Es verliert auch an das Englisch der trendigen Weinetiketten und der internationalen Fachtagungen, das im modernen Weinmarketing und in der Wissenschaft den Ton angibt.
+Es verliert die scharfe Trennung von hartem und weichem Konsonant, die das Hochdeutsche der Nachrichten spricht, sodass Buchstabe und Lautung auseinanderlaufen; und mit dem Rückzug der Mundart aus Schule und Amt verliert es die Verkleinerungsform auf "-sche", die im geprüften Hochdeutsch keinen Platz findet und nur noch gesprochen, nicht geschrieben wird.
 
 ## Drives
 
-Es treibt das Land, im geselligen, ehrlichen Wort seine Herzlichkeit zu zeigen. Es trägt das stark vom pfälzischen Dialekt gefärbte Deutsch des Winzers [Jakob](persona_jakob.md), die vertraute Stimme der Weinberge, und das klare, um Englisch ergänzte Hochdeutsch der Buchwissenschaftlerin [Clara](persona_clara.md), das Gutenbergs Erbe erforscht und weiterträgt. So zeigt die eine Landesform, wie Weinberg und Museum denselben Standard verschieden klingen lassen.
+Es gewöhnt, wer im Pfälzischen aufwächst, daran, unter jedem Hochdeutsch einen weicheren Klang mitzuhören und mitzusprechen, und lehrt ihn, zwischen dem geprüften Wort der Schrift und dem weichen Wort des Schoppens ohne Mühe zu wechseln, sodass ihm eine Sprache in zwei Klängen zur Gewohnheit wird.
