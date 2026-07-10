@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En ung mand i tyverne, vokset op i en åben, sammenkoblet verden. Han cykler overalt, går op i design og i balancen mellem arbejde og liv, og han tager friheden og trygheden for givet. Han siger du til alle og kan ikke forestille sig andet. Han [taler, hører og tænker](process_speaking_mother_tongue.md) sit [modersmål](position_language_da.md) og siger du til alle. Engelsk [bærer han som en selvfølge](process_speaking_worn.md) - det ligger ham allerede på tungen, før han rækker ud efter det - og han [læser og skriver det](process_reading_followed.md) hele dagen i en sammenkoblet verden: dér er den unge generations kløft, to sprog der begge ligger ham nært, og et dansk, der langsomt giver plads til engelsk i arbejde og på skærm.
+En ung mand i tyverne, vokset op i en åben, sammenkoblet verden. Han cykler overalt, går op i design og i balancen mellem arbejde og liv, og han tager friheden og trygheden for givet. Han siger du til alle og kan ikke forestille sig andet. Han [taler, hører og tænker](process_speaking_mother_tongue.md) sit [modersmål](position_language_da.md) og siger du til alle. [Engelsk](../united_kingdom/position_language_en_gb.md) [bærer han som en selvfølge](process_speaking_worn.md) - det ligger ham allerede på tungen, før han rækker ud efter det - og han [læser og skriver det](process_reading_followed.md) hele dagen i en sammenkoblet verden: dér er den unge generations kløft, to sprog der begge ligger ham nært, og et dansk, der langsomt giver plads til engelsk i arbejde og på skærm.
 
 ## Action
 

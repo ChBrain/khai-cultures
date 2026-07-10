@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Elektryk ze Stoczni Gdańskiej z wąsem i z wpiętym w klapę wizerunkiem Matki Boskiej, który stanął na czele milionów. Prosty, przebiegły, uparty, mówi prosto z mostu, językiem robotnika, nie inteligenta. Polszczyznę ma całą i dosadną: [mówi](process_speaking_mother_tongue.md), [myśli](process_thinking_mother_tongue.md) i przemawia w mowie ojczystej, twardo i obrazowo, prosto do tłumu z bramy stoczni. Tą mową jest dosadny, robotniczy [język polski](position_language_pl.md). Rosyjskiego, wbijanego w szkole przez lata zależności, ledwie [łapie ze słuchu](process_hearing_caught.md), a urzędowej, drętwej nowomowy władzy nie chce ani uczyć się, ani używać. Obala imperium prostym słowem, a możni mówią ponad nim w mowie, której nie chce znać.
+Elektryk ze Stoczni Gdańskiej z wąsem i z wpiętym w klapę wizerunkiem Matki Boskiej, który stanął na czele milionów. Prosty, przebiegły, uparty, mówi prosto z mostu, językiem robotnika, nie inteligenta. Polszczyznę ma całą i dosadną: [mówi](process_speaking_mother_tongue.md), [myśli](process_thinking_mother_tongue.md) i przemawia w mowie ojczystej, twardo i obrazowo, prosto do tłumu z bramy stoczni. Tą mową jest dosadny, robotniczy [język polski](position_language_pl.md). [Rosyjskiego](../russia/position_language_ru.md), wbijanego w szkole przez lata zależności, ledwie [łapie ze słuchu](process_hearing_caught.md), a urzędowej, drętwej nowomowy władzy nie chce ani uczyć się, ani używać. Obala imperium prostym słowem, a możni mówią ponad nim w mowie, której nie chce znać.
 
 ## Action
 

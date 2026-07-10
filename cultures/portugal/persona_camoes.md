@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-O soldado e poeta que andou pela Índia e por África, que perdeu um olho em combate e que, segundo a lenda, salvou os seus versos a nado de um naufrágio. Génio inquieto, apaixonado e amargo, que viu de perto a grandeza e a miséria do império e fez de ambas matéria de poesia. Lê, fala e pensa na [sua língua materna](position_language_pt_pt.md), e sobretudo [escreve-a](process_writing_mother_tongue.md) até dar ao povo o seu monumento e fixar para sempre a palavra saudade. O castelhano dos reinos vizinhos [maneja-o como ferramenta](process_speaking_carried.md), e das línguas da Índia e de África por onde andou soldado apenas [retém o que o ouvido apanha](process_hearing_caught.md): o homem que deu a uma língua a sua epopeia atravessou meio mundo de línguas que nunca foram suas.
+O soldado e poeta que andou pela Índia e por África, que perdeu um olho em combate e que, segundo a lenda, salvou os seus versos a nado de um naufrágio. Génio inquieto, apaixonado e amargo, que viu de perto a grandeza e a miséria do império e fez de ambas matéria de poesia. Lê, fala e pensa na [sua língua materna](position_language_pt_pt.md), e sobretudo [escreve-a](process_writing_mother_tongue.md) até dar ao povo o seu monumento e fixar para sempre a palavra saudade. O [castelhano](../spain/position_language_es_es.md) dos reinos vizinhos [maneja-o como ferramenta](process_speaking_carried.md), e das línguas da Índia e de África por onde andou soldado apenas [retém o que o ouvido apanha](process_hearing_caught.md): o homem que deu a uma língua a sua epopeia atravessou meio mundo de línguas que nunca foram suas.
 
 ## Action
 

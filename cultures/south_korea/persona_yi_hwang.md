@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-조선의 큰 선비, 호로는 퇴계라 불린 사람. 높은 벼슬을 마다하고 고향의 산골로 물러나 글을 읽고 후학을 가르치며, 마음의 이치를 평생 닦았다. 벼슬보다 배움을, 이름보다 사람됨을 앞세운 선비의 본보기로 기려진다. 그는 [한국어](position_language_ko_kr.md)를 제 말로 온전히 [말하고](process_speaking_mother_tongue.md) [생각했으나](process_thinking_mother_tongue.md), 학문은 한문으로 이루어졌기에 그 글을 깊이 [읽어 따랐고](process_reading_followed.md) 글로 남길 때는 [빌려 온 글로 적었다](process_speaking_borrowed.md). 다만 백성이 노래로 부르게 하려 할 때는 제 말의 가락을 살려 [제 글로 짓기도](process_writing_mother_tongue.md) 했다. 마음의 깊은 이치는 한문의 정연함으로도 끝내 다 길어 올려지지 않아, 그 닦은 마음과 그것을 담을 말 사이의 좁힐 수 없는 틈이 그의 학문이 평생 매달린 자리였다.
+조선의 큰 선비, 호로는 퇴계라 불린 사람. 높은 벼슬을 마다하고 고향의 산골로 물러나 글을 읽고 후학을 가르치며, 마음의 이치를 평생 닦았다. 벼슬보다 배움을, 이름보다 사람됨을 앞세운 선비의 본보기로 기려진다. 그는 [한국어](position_language_ko_kr.md)를 제 말로 온전히 [말하고](process_speaking_mother_tongue.md) [생각했으나](process_thinking_mother_tongue.md), 학문은 [한문](../china/position_language_lzh.md)으로 이루어졌기에 그 글을 깊이 [읽어 따랐고](process_reading_followed.md) 글로 남길 때는 [빌려 온 글로 적었다](process_speaking_borrowed.md). 다만 백성이 노래로 부르게 하려 할 때는 제 말의 가락을 살려 [제 글로 짓기도](process_writing_mother_tongue.md) 했다. 마음의 깊은 이치는 한문의 정연함으로도 끝내 다 길어 올려지지 않아, 그 닦은 마음과 그것을 담을 말 사이의 좁힐 수 없는 틈이 그의 학문이 평생 매달린 자리였다.
 
 ## Action
 

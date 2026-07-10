@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Diplomaten och människovännen, den unge mannen ur en känd släkt som reste in i mörkret och vägrade vända bort blicken. Behärskad, uppfinningsrik och orädd, han använde neutralitetens skydd som ett vapen för medmänsklighet. Han [talar, skriver och tänker](process_speaking_mother_tongue.md) på [sitt modersmål](position_language_sv_se.md) och bär det med sig ut i mörkret som ett skydd, men det är på de mäktigas språk, [tyskan han för med sig](process_speaking_carried.md), han förhandlar med förövarna i Budapest, och skyddspassen [författar han](process_writing_drafted.md) under svensk flagg: där är klyftan, han räddar liv på förtryckarens tunga, och det neutrala papperet blir hans vapen.
+Diplomaten och människovännen, den unge mannen ur en känd släkt som reste in i mörkret och vägrade vända bort blicken. Behärskad, uppfinningsrik och orädd, han använde neutralitetens skydd som ett vapen för medmänsklighet. Han [talar, skriver och tänker](process_speaking_mother_tongue.md) på [sitt modersmål](position_language_sv_se.md) och bär det med sig ut i mörkret som ett skydd, men det är på de mäktigas språk, [tyskan](../germany/position_language_de_de.md) [han för med sig](process_speaking_carried.md), han förhandlar med förövarna i Budapest, och skyddspassen [författar han](process_writing_drafted.md) under svensk flagg: där är klyftan, han räddar liv på förtryckarens tunga, och det neutrala papperet blir hans vapen.
 
 ## Action
 

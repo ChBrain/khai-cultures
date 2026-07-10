@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-De edelman die de vader des vaderlands werd: leider van de Opstand tegen Spanje, die opkwam voor gewetensvrijheid in een tijd van geloofsvervolging. Geboren in Nassau, [denkt en spreekt hij](process_speaking_mother_tongue.md) van huis uit het Duits, en aan het Brusselse hof [draagt hij het Frans als een tweede huid](process_speaking_worn.md). [Het Nederlands](position_language_nl_nl.md) van het volk dat hij leidt, [neemt hij op als de taal van zijn zaak](process_speaking_carried.md): daar is de breuk, de vader des vaderlands voert een Nederlandse natie aan in een Nederlands dat hij zich eigen moest maken, een wereldse edelman die de stem wordt van een volk wiens taal niet zijn eerste was.
+De edelman die de vader des vaderlands werd: leider van de Opstand tegen Spanje, die opkwam voor gewetensvrijheid in een tijd van geloofsvervolging. Geboren in Nassau, [denkt en spreekt hij](process_speaking_mother_tongue.md) van huis uit [het Duits](../germany/position_language_de_de.md), en aan het Brusselse hof [draagt hij het Frans](../france/position_language_fr_fr.md) [als een tweede huid](process_speaking_worn.md). [Het Nederlands](position_language_nl_nl.md) van het volk dat hij leidt, [neemt hij op als de taal van zijn zaak](process_speaking_carried.md): daar is de breuk, de vader des vaderlands voert een Nederlandse natie aan in een Nederlands dat hij zich eigen moest maken, een wereldse edelman die de stem wordt van een volk wiens taal niet zijn eerste was.
 
 ## Action
 

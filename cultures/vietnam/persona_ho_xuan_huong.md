@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Nữ sĩ tài hoa cuối thế kỷ mười tám đầu thế kỷ mười chín, người được gọi là "Bà chúa thơ Nôm", làm thơ sắc sảo, đầy ý nhị mà cũng đầy thương cảm cho thân phận người phụ nữ. Thông minh, gan góc và không chịu khép mình, bà cất một tiếng nói riêng trong khuôn phép chặt chẽ của thời mình. Chữ Hán của cửa Khổng sân Trình bà [đọc thông tỏ ngọn ngành](process_reading_followed.md), nhưng bà chọn [làm thơ bằng chính tiếng nói của dân mình](process_writing_mother_tongue.md) và [nghĩ](process_thinking_mother_tongue.md) bằng [tiếng mẹ đẻ](position_language_vi.md), lấy ca dao, lấy lời ăn tiếng nói thường ngày mà gài vào câu thơ Đường luật. Bà nói được điều mà khuôn phép thời ấy không cho người phụ nữ nói, nhưng vẫn phải nói lách qua nhiều lớp ẩn ý, để chính chỗ phải vòng vo ấy lộ ra cái khoảng lặng nơi tiếng nói gặp bức tường của nó.
+Nữ sĩ tài hoa cuối thế kỷ mười tám đầu thế kỷ mười chín, người được gọi là "Bà chúa thơ Nôm", làm thơ sắc sảo, đầy ý nhị mà cũng đầy thương cảm cho thân phận người phụ nữ. Thông minh, gan góc và không chịu khép mình, bà cất một tiếng nói riêng trong khuôn phép chặt chẽ của thời mình. [Chữ Hán](../china/position_language_lzh.md) của cửa Khổng sân Trình bà [đọc thông tỏ ngọn ngành](process_reading_followed.md), nhưng bà chọn [làm thơ bằng chính tiếng nói của dân mình](process_writing_mother_tongue.md) và [nghĩ](process_thinking_mother_tongue.md) bằng [tiếng mẹ đẻ](position_language_vi.md), lấy ca dao, lấy lời ăn tiếng nói thường ngày mà gài vào câu thơ Đường luật. Bà nói được điều mà khuôn phép thời ấy không cho người phụ nữ nói, nhưng vẫn phải nói lách qua nhiều lớp ẩn ý, để chính chỗ phải vòng vo ấy lộ ra cái khoảng lặng nơi tiếng nói gặp bức tường của nó.
 
 ## Action
 

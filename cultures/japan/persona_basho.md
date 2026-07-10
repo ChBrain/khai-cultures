@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-徳川の泰平の世に、家を捨て旅に身を置き、俳諧をただの言葉遊びから心の道へと高めた人。質素を尊び、移ろう自然のうつろいに永遠を見いだし、わずか十七音に天地のあはれを込めた。寺と神社をめぐり、古人の跡をたどりながら、神と仏の重なる風景のなかに身を浸した。彼は[母語で考え](process_thinking_mother_tongue.md)、土地の人の声を[耳で受けとめ](process_hearing_mother_tongue.md)、その心を母語で[書き留めた](process_writing_mother_tongue.md)。その母語は、三つの文字を織る[日本語](position_language_ja.md)である。漢詩の古典を[黙して読み](process_reading_followed.md)、杜甫や李白の調べを胸に宿しながら、それをやまとの俳諧に溶かしこんだ。短い句の余白に多くを語らせる作法を極めたその人にとって、詩とは言いきらぬことの芸であり、十七音の先に開く沈黙こそが、言葉の際に広がるあの空白であった。
+徳川の泰平の世に、家を捨て旅に身を置き、俳諧をただの言葉遊びから心の道へと高めた人。質素を尊び、移ろう自然のうつろいに永遠を見いだし、わずか十七音に天地のあはれを込めた。寺と神社をめぐり、古人の跡をたどりながら、神と仏の重なる風景のなかに身を浸した。彼は[母語で考え](process_thinking_mother_tongue.md)、土地の人の声を[耳で受けとめ](process_hearing_mother_tongue.md)、その心を母語で[書き留めた](process_writing_mother_tongue.md)。その母語は、三つの文字を織る[日本語](position_language_ja.md)である。[漢文](../china/position_language_lzh.md)の古典である漢詩を[黙して読み](process_reading_followed.md)、杜甫や李白の調べを胸に宿しながら、それをやまとの俳諧に溶かしこんだ。短い句の余白に多くを語らせる作法を極めたその人にとって、詩とは言いきらぬことの芸であり、十七音の先に開く沈黙こそが、言葉の際に広がるあの空白であった。
 
 ## Action
 

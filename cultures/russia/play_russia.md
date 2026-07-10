@@ -50,6 +50,7 @@ stamp:
 - [русский язык](position_language_ru.md)
 - [держава](position_derzhava.md)
 - [русская душа](position_russkaya_dusha.md)
+- [церковнославянский язык](position_language_cu.md)
 
 **Pieces**
 

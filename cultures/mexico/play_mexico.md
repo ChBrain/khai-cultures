@@ -51,6 +51,8 @@ No es un solo pueblo que poco a poco se fue volviendo Estado, sino el choque de 
 - [tierra y libertad](position_tierra_y_libertad.md)
 - [la sombra del norte](position_la_sombra_del_norte.md)
 - [el español de México](position_language_es_mx.md)
+- [Nāhuatlahtōlli](position_language_nah.md)
+- [Màaya tʼàan](position_language_yua.md)
 
 **Pieces**
 

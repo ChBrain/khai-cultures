@@ -55,6 +55,7 @@ stamp:
 - [孝](position_xiao.md)
 - [三教](position_sanjiao.md)
 - [汉语](position_language_zh_cn.md)
+- [文言文](position_language_lzh.md)
 
 **Pieces**
 
