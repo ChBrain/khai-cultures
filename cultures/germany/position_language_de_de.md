@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Autorität des deutschen nationalen Standards in Wort und Schrift, das Hochdeutsch, wie es in Deutschland kodifiziert ist. Es hält die Norm des korrekten Deutsch, die [Luthers](persona_luther.md) Bibelübersetzung gesät und der Duden festgeschrieben hat: jenes geschriebene und gesprochene Deutsch, an dem sich misst, was als richtig gilt.
+Die Autorität des deutschen nationalen Standards in Wort und Schrift, das Hochdeutsch, wie es in Deutschland kodifiziert ist. Es hält die Norm des korrekten Deutsch, die eine reformatorische Bibelübersetzung gesät und der Duden festgeschrieben hat: jenes geschriebene und gesprochene Deutsch, an dem sich misst, was als richtig gilt.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Boden an die Dialekte, die im Mund weiterleben, was die Schrift nie ganz einfän
 
 ## Drives
 
-Es treibt das Land, eine Form für richtig zu halten und an ihr alles zu messen. Es gibt [Luther](persona_luther.md), der es geschmiedet hat, die Schrift, in der alle lesen lernen; es trägt das Befehlsdeutsch [Bismarcks](persona_bismarck.md) und das Kanzlerdeutsch [Adenauers](persona_adenauer.md) und [Kohls](persona_kohl.md); und es überrollt die ostdeutsche Variante [Elkes](persona_elke.md), während es [Jonas](persona_jonas.md) als selbstverständliche Muttersprache dient. So macht die eine Norm sichtbar, wer sie hält und wen sie übergeht.
+Es treibt das Land, eine Form für richtig zu halten und an ihr alles zu messen. Es ist die geschmiedete Schrift, in der alle lesen lernen; es leiht dem Staat sein Befehlsdeutsch und der Regierung ihr Kanzlerdeutsch; und es überrollt die ostdeutsche Variante als bloße Abweichung, während es dem im Land Aufgewachsenen als selbstverständliche Muttersprache dient. So macht die eine Norm sichtbar, wer sie als Zuhause hält und wen sie übergeht.
