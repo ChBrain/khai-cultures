@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-six-year-old software developer in Lehi. English, spoken with a technical cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily development operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of rural orchard farmers like Martha and the quiet history of [pioneer industry](position_pioneer_industry.md) [he reads only as regional logistics updates](process_reading_followed.md) on his track workstation, feeling that the patient, cooperative rhythm of early farming communities is being forgotten in the race for high-speed tech expansion.
+A thirty-six-year-old software developer in Lehi. English, spoken with a technical cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily development operations. It is the [Utahn English](position_language_en_us_ut.md) of the Silicon Slopes, the clipped technical cadence of the Lehi software floor. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of rural orchard farmers like Martha and the quiet history of [pioneer industry](position_pioneer_industry.md) [he reads only as regional logistics updates](process_reading_followed.md) on his track workstation, feeling that the patient, cooperative rhythm of early farming communities is being forgotten in the race for high-speed tech expansion.
 
 ## Action
 

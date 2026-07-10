@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old tribal coordinator in Pine Ridge. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of site coordinators like Alma and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of land treaty preservation is treated as secondary to corporate mining and speedway entertainment.
+A fifty-two-year-old tribal coordinator in Pine Ridge. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. It is the [South Dakota English](position_language_en_us_sd.md) of Pine Ridge, the prairie drawl of the reservation. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of site coordinators like Alma and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of land treaty preservation is treated as secondary to corporate mining and speedway entertainment.
 
 ## Action
 

@@ -46,6 +46,7 @@ A land of vast horizons and fierce self-reliance, defined by its history as an i
 
 - [Texan independence](position_independence.md)
 - [the frontier legacy](position_frontier.md)
+- [Texan English](position_language_en_us_tx.md)
 
 **Pieces**
 

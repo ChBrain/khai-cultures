@@ -46,6 +46,7 @@ A land of geothermal wonders and civic equality, defined by the rugged ranges of
 
 - [equality charter](position_equality_charter.md)
 - [wyoming wilderness](position_wyoming_wilderness.md)
+- [Wyoming English](position_language_en_us_wy.md)
 
 **Pieces**
 

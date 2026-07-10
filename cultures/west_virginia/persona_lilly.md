@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old river guide in Fayetteville. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily river logs. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of coal miners like Billy and the digital demands of energy boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of river water reclamation is treated as secondary to corporate mining and speedway entertainment.
+A fifty-two-year-old river guide in Fayetteville. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily river logs. It is the [West Virginian English](position_language_en_us_wv.md) of the New River Gorge, the warm mountain drawl of the river and the raft dock. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of coal miners like Billy and the digital demands of energy boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of river water reclamation is treated as secondary to corporate mining and speedway entertainment.
 
 ## Action
 

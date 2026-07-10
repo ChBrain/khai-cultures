@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A seventy-year-old cattle rancher from West Texas. English, spoken with a slow drawl, is his mother tongue, in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the true voice of his life and the open range. He speaks no foreign languages. Yet the loss lies in the seam: The new, digitized lease agreements for wind turbines on his land and the complex ecological compliance forms [he reads only with a quiet grunt](process_reading_followed.md), feeling that the direct, personal handshake and the simple ways of the frontier are being buried under a mountain of corporate jargon.
+A seventy-year-old cattle rancher from West Texas. English, spoken with a slow drawl, is his mother tongue, in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the true voice of his life and the open range. It is the [Texan English](position_language_en_us_tx.md) of West Texas, the slow range drawl of the ranch and the open country. He speaks no foreign languages. Yet the loss lies in the seam: The new, digitized lease agreements for wind turbines on his land and the complex ecological compliance forms [he reads only with a quiet grunt](process_reading_followed.md), feeling that the direct, personal handshake and the simple ways of the frontier are being buried under a mountain of corporate jargon.
 
 ## Action
 

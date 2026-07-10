@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-five-year-old researcher in Cleveland. English, spoken with a flat Great Lakes accent, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her professional life. She speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound agricultural talk of farmers like Samuel and the quiet history of [middle ground](position_middle_ground.md) consensus [she reads only as census statistics](process_reading_followed.md) on her terminal, feeling that the working-class manufacturing heritage is being replaced by high-tech zoning plans.
+A forty-five-year-old researcher in Cleveland. English, spoken with a flat Great Lakes accent, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her professional life. It is the [Ohio English](position_language_en_us_oh.md) of the northern Great Lakes cities, the flat Inland North accent of the Cleveland research floor. She speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound agricultural talk of farmers like Samuel and the quiet history of [middle ground](position_middle_ground.md) consensus [she reads only as census statistics](process_reading_followed.md) on her terminal, feeling that the working-class manufacturing heritage is being replaced by high-tech zoning plans.
 
 ## Action
 

@@ -46,6 +46,7 @@ A land of agricultural abundance and energy extraction, defined by the flat plai
 
 - [prairie agriculture](position_prairie_agriculture.md)
 - [shale energy](position_shale_energy.md)
+- [North Dakota English](position_language_en_us_nd.md)
 
 **Pieces**
 

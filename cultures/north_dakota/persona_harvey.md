@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old wheat farmer in Grand Forks. English, spoken with a prairie cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily harvest operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of energy technicians like Lincoln and the quiet history of [shale energy](position_shale_energy.md) [he reads only as regional oil updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant resource preservation of early farm windbreaks is being forgotten in the race for high-volume oil extraction.
+A thirty-eight-year-old wheat farmer in Grand Forks. English, spoken with a prairie cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily harvest operations. It is the [North Dakota English](position_language_en_us_nd.md) of the Red River Valley, the flat, settlement-inflected prairie cadence of the Grand Forks wheat farm. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of energy technicians like Lincoln and the quiet history of [shale energy](position_shale_energy.md) [he reads only as regional oil updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant resource preservation of early farm windbreaks is being forgotten in the race for high-volume oil extraction.
 
 ## Action
 

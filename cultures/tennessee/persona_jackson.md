@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old country songwriter in Nashville. English, spoken with a melodic Southern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his artistic and professional life. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent mountain talk of park rangers like Mae and the quiet history of [appalachian valley](position_appalachian_valley.md) [he reads only as historical source material](process_reading_followed.md) on his workstation, feeling that the patient, acoustic roots of the region are being commercialized in the race for digital music streaming metrics.
+A thirty-eight-year-old country songwriter in Nashville. English, spoken with a melodic Southern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his artistic and professional life. It is the [Tennessean English](position_language_en_us_tn.md) of the Nashville songwriting rooms, the melodic Southern cadence of the studio and the stage. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent mountain talk of park rangers like Mae and the quiet history of [appalachian valley](position_appalachian_valley.md) [he reads only as historical source material](process_reading_followed.md) on his workstation, feeling that the patient, acoustic roots of the region are being commercialized in the race for digital music streaming metrics.
 
 ## Action
 

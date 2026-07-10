@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old sailboat builder in Newport. English, spoken with a maritime cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily boatbuilding operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of marine biologists like Mary and the quiet history of [charter liberty](position_charter_liberty.md) [he reads only as regional town updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant voting rhythm of early town moderator meetings is being forgotten in the race for high-speed yacht racing.
+A thirty-eight-year-old sailboat builder in Newport. English, spoken with a maritime cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily boatbuilding operations. It is the [Rhode Island English](position_language_en_us_ri.md) of Newport, the salt-worn maritime cadence of the boatyards. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of marine biologists like Mary and the quiet history of [charter liberty](position_charter_liberty.md) [he reads only as regional town updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant voting rhythm of early town moderator meetings is being forgotten in the race for high-speed yacht racing.
 
 ## Action
 

@@ -46,6 +46,7 @@ A stage of dual realities, balancing the monumental architecture of national pow
 
 - [the national stage](position_national_stage.md)
 - [taxation without representation](position_taxation_without_representation.md)
+- [Washington, D.C. English](position_language_en_us_dc.md)
 
 **Pieces**
 

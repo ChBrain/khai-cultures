@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old coal miner in Beckley. English, spoken with an Appalachian cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily safety checks. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound talk of river guides like Lilly and the quiet history of [gorge stewardship](position_gorge_stewardship.md) [he reads only as regional travel updates](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of river ecosystem planning is being forgotten in the race for high-volume coal extraction.
+A thirty-eight-year-old coal miner in Beckley. English, spoken with an Appalachian cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily safety checks. It is the [West Virginian English](position_language_en_us_wv.md) of the southern coalfields, the Appalachian coal-camp cadence of the mine and the union hall. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound talk of river guides like Lilly and the quiet history of [gorge stewardship](position_gorge_stewardship.md) [he reads only as regional travel updates](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of river ecosystem planning is being forgotten in the race for high-volume coal extraction.
 
 ## Action
 

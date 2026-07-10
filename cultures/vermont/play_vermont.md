@@ -46,6 +46,7 @@ A land of mountain liberty and artisanal craft, defined by the forested ridges o
 
 - [green mountain liberty](position_green_mountain_liberty.md)
 - [maple craftsmanship](position_maple_craftsmanship.md)
+- [Vermont English](position_language_en_us_vt.md)
 
 **Pieces**
 

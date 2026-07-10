@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old financial analyst on Wall Street. English, spoken with a rapid cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his career. He speaks no foreign languages. Yet the loss lies in the seam: The slower, creative storytelling of artists like Sarah and the historical memories of [the melting pot](position_melting_pot.md) [he reads only as statistical trends](process_reading_followed.md) on his dashboard, feeling that the human texture of the city is being reduced to transactions.
+A forty-two-year-old financial analyst on Wall Street. English, spoken with a rapid cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his career. It is the [New York English](position_language_en_us_ny.md) of the five boroughs, the rapid, blunt Wall Street cadence of the trading floor. He speaks no foreign languages. Yet the loss lies in the seam: The slower, creative storytelling of artists like Sarah and the historical memories of [the melting pot](position_melting_pot.md) [he reads only as statistical trends](process_reading_followed.md) on his dashboard, feeling that the human texture of the city is being reduced to transactions.
 
 ## Action
 

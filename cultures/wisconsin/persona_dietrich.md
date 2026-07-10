@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old traditional cheese maker in Green County. English, spoken with a direct midwestern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily agricultural operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound lake talk of captains like Ingrid and the quiet history of [progressive idea](position_progressive_idea.md) policy [he reads only as regulatory updates](process_reading_followed.md) on his quality dashboard, feeling that the patient, cooperative rhythm of early farming communities is being forgotten in the race for technological scale.
+A thirty-eight-year-old traditional cheese maker in Green County. English, spoken with a direct midwestern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily agricultural operations. It is the [Wisconsin English](position_language_en_us_wi.md) of the Green County dairyland, the flat, German-inflected Upper Midwest cadence of the creamery and the co-op board. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound lake talk of captains like Ingrid and the quiet history of [progressive idea](position_progressive_idea.md) policy [he reads only as regulatory updates](process_reading_followed.md) on his quality dashboard, feeling that the patient, cooperative rhythm of early farming communities is being forgotten in the race for technological scale.
 
 ## Action
 

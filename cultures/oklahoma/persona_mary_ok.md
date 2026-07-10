@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old Cherokee basket maker in Tahlequah. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily community logs. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of oil rig managers like Jimmy and the digital demands of Oklahoma City boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agricultural soil preservation is treated as secondary to corporate petroleum and speedway entertainment.
+A fifty-two-year-old Cherokee basket maker in Tahlequah. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily community logs. It is the [Oklahoma English](position_language_en_us_ok.md) of the Cherokee country, the warm drawl of the Tahlequah basket benches. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of oil rig managers like Jimmy and the digital demands of Oklahoma City boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agricultural soil preservation is treated as secondary to corporate petroleum and speedway entertainment.
 
 ## Action
 

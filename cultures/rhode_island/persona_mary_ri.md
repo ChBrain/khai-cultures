@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old marine biologist in Providence. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily estuary reports. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of boat builders like William and the digital demands of harbor boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal charter preservation is treated as secondary to corporate yacht sales and coastal tourism.
+A fifty-two-year-old marine biologist in Providence. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily estuary reports. It is the [Rhode Island English](position_language_en_us_ri.md) of Providence, the warm, non-rhotic bay drawl of the estuary labs. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of boat builders like William and the digital demands of harbor boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal charter preservation is treated as secondary to corporate yacht sales and coastal tourism.
 
 ## Action
 

@@ -46,6 +46,7 @@ A land of foundational colonial covenants and modern federal power, defined by i
 
 - [Cavalier heritage](position_cavalier_heritage.md)
 - [Cradle of Presidents](position_cradle_of_presidents.md)
+- [Virginian English](position_language_en_us_va.md)
 
 **Pieces**
 

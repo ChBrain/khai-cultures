@@ -46,6 +46,7 @@ A land of foundational covenants and industrial muscle, defined by its historic 
 
 - [religious tolerance](position_tolerance.md)
 - [industrial grit](position_industrial_grit.md)
+- [Pennsylvania English](position_language_en_us_pa.md)
 
 **Pieces**
 

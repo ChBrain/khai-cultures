@@ -46,6 +46,7 @@ A land of vast wilderness and global technology frontiers, defined by its isolat
 
 - [Cascadia](position_cascadia.md)
 - [tech frontier](position_tech_frontier.md)
+- [Washington English](position_language_en_us_wa.md)
 
 **Pieces**
 
