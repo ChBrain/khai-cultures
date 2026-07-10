@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Y tywysog olaf o Gymru i godi yn erbyn coron Lloegr. Gwr bonheddig a fagwyd yn nhraddodiad y beirdd, yn ddysgedig ac yn graff, a drodd o fod yn arglwydd lleol yn arweinydd cenedl gyfan. Breuddwydiodd am Gymru a chanddi ei chyfraith ei hun, ei heglwys ei hun, a'i phrifysgolion ei hun. Mae'n dal ei [famiaith](process_speaking_mother_tongue.md) yn gyfan: yn [meddwl](process_thinking_mother_tongue.md) ynddi ac yn ei [hysgrifennu](process_writing_mother_tongue.md) yn nhraddodiad y beirdd, y genedl gyfan o fewn cyrraedd un dyn. Ond y mae cyfraith a siarteri'r goron y mae'n ei herio yn Lladin ac yn Ffrangeg, ieithoedd nad yw ond yn eu [trin fel arf](process_reading_deciphered.md): sofraniaeth [Gymraeg](position_language_cy.md) yn gorfod dadlau ei hawl yn nhafod ei gelyn.
+Y tywysog olaf o Gymru i godi yn erbyn coron Lloegr. Gwr bonheddig a fagwyd yn nhraddodiad y beirdd, yn ddysgedig ac yn graff, a drodd o fod yn arglwydd lleol yn arweinydd cenedl gyfan. Breuddwydiodd am Gymru a chanddi ei chyfraith ei hun, ei heglwys ei hun, a'i phrifysgolion ei hun. Mae'n dal ei [famiaith](process_speaking_mother_tongue.md) yn gyfan: yn [meddwl](process_thinking_mother_tongue.md) ynddi ac yn ei [hysgrifennu](process_writing_mother_tongue.md) yn nhraddodiad y beirdd, y genedl gyfan o fewn cyrraedd un dyn. Ond y mae cyfraith a siarteri'r goron y mae'n ei herio yn [Lladin](../holy_see/position_language_la.md) ac yn [Ffrangeg](../france/position_language_fr_fr.md), ieithoedd nad yw ond yn eu [trin fel arf](process_reading_deciphered.md): sofraniaeth [Gymraeg](position_language_cy.md) yn gorfod dadlau ei hawl yn nhafod ei gelyn.
 
 ## Action
 
