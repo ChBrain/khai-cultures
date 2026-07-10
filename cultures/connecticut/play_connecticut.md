@@ -46,6 +46,7 @@ A land of institutional heritage and precision engineering, defined by the coast
 
 - [constitutional order](position_constitutional_order.md)
 - [industrial precision](position_industrial_precision.md)
+- [Connecticut English](position_language_en_us_ct.md)
 
 **Pieces**
 

@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [한글](position_hangeul.md)
+- [한국어](position_language_ko_kr.md)
 - [유교와 가족](position_yugyo.md)
 - [한과 정](position_han_jeong.md)
 
@@ -68,7 +68,7 @@ stamp:
 
 **[Plot 1: 한글 창제 (1443)](plot_01_hangeul_1443.md)**
 
-세종대왕이 [서울](place_seoul.md)의 궁에서 [한글](position_hangeul.md)을 지어, 글을 모르던 백성에게 제 뜻을 적을 글자를 처음으로 쥐여 준다. 한 나라가 제 손으로 제 글자를 만든 드문 일이다.
+세종대왕이 [서울](place_seoul.md)의 궁에서 [한글](position_language_ko_kr.md)을 지어, 글을 모르던 백성에게 제 뜻을 적을 글자를 처음으로 쥐여 준다. 한 나라가 제 손으로 제 글자를 만든 드문 일이다.
 
 **[Plot 2: 선비의 시대](plot_02_seonbi.md)**
 

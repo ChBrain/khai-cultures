@@ -46,6 +46,7 @@ A land of continuous reinvention and boundless optimism, defined by its magnetic
 
 - [the California Dream](position_california_dream.md)
 - [tech optimism](position_innovation.md)
+- [Californian English](position_language_en_us_ca.md)
 
 **Pieces**
 

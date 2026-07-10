@@ -46,6 +46,7 @@ A land of agricultural wealth and mountain self-reliance, defined by the dry vol
 
 - [mountain wilderness](position_mountain_wilderness.md)
 - [agrarian industry](position_agrarian_industry.md)
+- [Idahoan English](position_language_en_us_id.md)
 
 **Pieces**
 

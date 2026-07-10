@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old coal miner in Harlan County. English, spoken with a mountain cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his family records. He speaks no foreign languages. Yet the loss lies in the seam: The fast, commercial talk of horse breeders like Clara and the digital demands of Louisville race boards [he reads only as administrative updates](process_reading_followed.md) on his tablet, feeling that the patient, labor-protecting history of the mining valleys is being forgotten in the race for tourist development.
+A fifty-two-year-old coal miner in Harlan County. English, spoken with a mountain cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his family records. It is the [Kentuckian English](position_language_en_us_ky.md) of the eastern coal valleys, the deep Appalachian mountain speech of Harlan County. He speaks no foreign languages. Yet the loss lies in the seam: The fast, commercial talk of horse breeders like Clara and the digital demands of Louisville race boards [he reads only as administrative updates](process_reading_followed.md) on his tablet, feeling that the patient, labor-protecting history of the mining valleys is being forgotten in the race for tourist development.
 
 ## Action
 

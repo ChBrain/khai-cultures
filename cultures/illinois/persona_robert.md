@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old architect in Chicago. English, spoken with a fast, direct Midwestern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his professional life. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound agricultural traditions of downstate farmers like Mary and the quiet history of [prairie grit](position_prairie_grit.md) [he reads only as environmental efficiency statistics](process_reading_followed.md) on his dashboard, feeling that the physical truth of the land is being reduced to digital metrics.
+A forty-two-year-old architect in Chicago. English, spoken with a fast, direct Midwestern cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his professional life. It is the fast, front-vowel Chicago [Illinoisan English](position_language_en_us_il.md) of the Loop, the working speech of the metropolis. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-bound agricultural traditions of downstate farmers like Mary and the quiet history of [prairie grit](position_prairie_grit.md) [he reads only as environmental efficiency statistics](process_reading_followed.md) on his dashboard, feeling that the physical truth of the land is being reduced to digital metrics.
 
 ## Action
 

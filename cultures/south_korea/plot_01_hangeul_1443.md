@@ -31,7 +31,7 @@ stamp:
 ## Stage
 
 - [세종대왕](persona_sejong.md): 백성을 헤아려 손수 글자를 지은 임금.
-- [한글](position_hangeul.md): 모두를 위해 지어진, 한 나라가 제 손으로 만든 글자.
+- [한글](position_language_ko_kr.md): 모두를 위해 지어진, 한 나라가 제 손으로 만든 글자.
 - [서울](place_seoul.md): 그 글자가 지어진 궁이 자리한 도읍.
 
 ## Tension

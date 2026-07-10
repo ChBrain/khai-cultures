@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-five-year-old tour guide in St. Augustine. Spanish, spoken with the soft vowels of his family's Caribbean heritage, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and shares local legends. English [he wears as an overgarment](process_speaking_worn.md) for his daily tours, explaining colonial defenses to visitors. Yet the loss lies in the seam: The technology-oriented space talk of engineers like Jackson and the commercial demands of the space coast [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, century-old colonial history is being overshadowed by the rush for high-tech development.
+A forty-five-year-old tour guide in St. Augustine. Spanish, spoken with the soft vowels of his family's Caribbean heritage, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and shares local legends. The [Floridian English](position_language_en_us_fl.md) of the coast [he wears as an overgarment](process_speaking_worn.md) for his daily tours, a borrowed voice explaining colonial defenses to visitors, never his own first tongue. Yet the loss lies in the seam: The technology-oriented space talk of engineers like Jackson and the commercial demands of the space coast [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, century-old colonial history is being overshadowed by the rush for high-tech development.
 
 ## Action
 
