@@ -21,16 +21,16 @@ Parent group: positions
 
 ## Has
 
-The South Midland English of the Bluegrass State, the soft bluegrass cadence of the Lexington horse country and the deep Appalachian mountain speech of the eastern coal valleys. It holds a drawling, hospitable Upper South plainness that both the paddock and the mine carry.
+The same analytic base as its Midland neighbors, plus a true second-person plural the plain standard lost, y'all, filling a gap the bare you leaves open. The mountain register carries a long, held monophthong that flattens the diphthong of ride and time into a single vowel, and a double modal that stacks two helping verbs to soften a claim, might could, useta could.
 
 ## Orders
 
-Where it passes as native ground: the Lexington horse farm, the Louisville track, the Harlan County holler, the mountain union hall. It orders which turns of phrase and vowels mark a speaker as Kentuckian and sets the bluegrass ear against the mountain one.
+Fixed subject-verb-object order to carry the grammar in place of case or gender, since the verb marks tense but barely marks person at all; and the second-person split forces a choice, each time more than one listener stands there, between the bare you of the plain register and the marked y'all the mountains and the bluegrass share alike.
 
 ## Loses
 
-Ground to General American, the flat national broadcast standard the screen and the commercial board carry, which trims the drawl off the young and stamps the Appalachian mountain speech as backward. The commercial racing register also crowds the older mining-valley speech toward the margin.
+No grammatical gender or case ending marks relation, so word order alone must do what other tongues spread across the sentence; and ground to the flattened national vowel, the mountain's held monophthong and the double modal both get heard as merely provincial rather than as the older, coherent forms they are, so a speaker moving toward the track or the courthouse trims them first.
 
 ## Drives
 
-It carries [Clara](persona_clara_ky.md), whose bluegrass cadence is the working English of the Lexington stables, and [Silas](persona_silas.md), whose mountain cadence holds the Appalachian English of the coal valleys. So the one Kentuckian speech shows who turns toward the commercial track and who keeps the mining ground.
+It habituates the ear to hear number in address, one listener against more than one, where the plain standard leaves a gap; the double modal habituates a hedged, softened claim over a flat one; and the drawled monophthong of the coal valleys against the clipped diphthong of the horse country marks, in the mouth alone, which ground a speaker came up on.

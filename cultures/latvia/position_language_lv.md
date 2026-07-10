@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Latviešu valoda, baltu mēle, Lietuvas radiniece, kas septiņus gadsimtus dzīvoja tikai zemnieka mutē zem baltvācu kungiem, bez varas un bez goda: kungu valoda bija vācu, vēlāk krievu, un latviešu mēli sauca par lauku ļaužu runu. Pirmie to rakstīja vācu mācītāji, bet par savu rakstu valodu un tautas lepnumu to pacēla jaunlatvieši 19. gadsimtā. Kad tautai nebija valsts, tās valoda bija dziesma, baznīca un mājas vārds.
+Latviešu valoda ļauj izteikt smalkas nianses ar deminutīviem, kas pievieno vārdam siltumu vai mazumu gandrīz jebkuram lietvārdam un pat īpašības vārdam. Tai ir divas īpašības vārda formas, noteiktā un nenoteiktā, kas jau vienā galotnē pasaka, vai runa ir par zināmu, konkrētu lietu, vai par jebkuru tādu. Garajās zilbēs skan trīs atšķirīgas intonācijas, stieptā, lauztā un krītošā, kas maina vārda skanējumu tāpat kā tonālās valodas.
 
 ## Orders
 
-Ka runā un raksta latviski arī tur, kur valdīja vācu vai krievu mēle, ka valodu kopj un nodod kā vēlu izcīnītu mantu, un ka tautu pazīst pēc valodas un dziesmas, ne pēc valsts, ko tā dabūja pati pēdējā.
+Ikkatrs lietvārds prasa vienu no septiņiem locījumiem un vienu no divām dzimtēm, un teikuma daļu kārtība mainās brīvi, jo locījuma galotne, nevis vieta teikumā, rāda, kas ir teikuma priekšmets un kas papildinātājs. Uzsvars gandrīz vienmēr krīt uz pirmo zilbi, un darbības vārda priedēklis liek katrā teikumā izšķirt, vai darbība ir pabeigta vai vēl notiek.
 
 ## Loses
 
-Zemi šodien zaudē pret atvērtās pasaules angļu valodu, kurā jaunie strādā un dzīvo tālumā, un pret krievu valodu, kas vēl skan Rīgā un Latgalē un lielā mazākuma mājās; izceļotāju latviešu valoda paaudžu paaudzēs pasaulē plānē.
+Zaudē vieglumu, ar kādu valodas bez locījumiem saliek teikumu, jo katra galotne jāizvēlas pareizi, un kļūda skan uzreiz svešādi. Zaudē arī daļu no senā divskaitļa un no senajām galotnēm, kas dzīvas vēl izloksnēs, bet literārajā valodā izlīdzinātas, un garā zilbe pilsētas runā reizēm zaudē savu trīskāršo intonāciju.
 
 ## Drives
 
-Dzīvo [Baronā](persona_barons.md), kas glāba miljonu dainu un deva zemnieka mēlei rakstu un kārtību, [Valdemārā](persona_valdemars.md), kas pirmais atklāti rakstīja sevi par latvieti un cēla tautu no zemnieka kārtas, [Vīķē-Freibergā](persona_vike_freiberga.md), kas savu valodu noturēja veselu cauri trimdai un atgriezās tajā vest valsti, [Martā](persona_marta.md), kas gadu desmitiem dziedāja savā mēlē pa pusei krieviskā Rīgā, un [Robertā](persona_roberts.md), kura mazā mēle iesprūst starp jaunās zemes angļu valodu un krievu valodu, kas vēl skan viņa dzimtajā pilsētā. Dzen Latviju turēties pie vēlu izcīnītās valodas kā pierādījuma, ka tauta ir sava, arī tad, kad valsti dabūja pēdējā.
+Liek runātājam jau no bērnības dzirdēt garās zilbes intonāciju un nešaubīgi izvēlēties pareizo locījumu, vēl pirms teikums ir galā. Pieradina domāt par lietu kā zināmu vai nezināmu jau īpašības vārda galotnē, un vārdu veidošana ar deminutīviem pieradina izteikt siltumu tieši valodas formā, nevis atsevišķā vārdā. Tā šī valoda audzina runātāju, kas dzird savā mēlē mazumu un lielumu, tuvumu un tālumu, jau pirms doma ir izteikta līdz galam.

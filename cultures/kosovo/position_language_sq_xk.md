@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Autoritetin e gjuhës shqipe, gjuhës amtare të kombit, një gjuhë e lashtë e afërt me asnjë tjetër, që mban kujtesën dhe qëndresën e një populli. Ajo zotëron normën e fjalës së shkruar dhe të folur, gjuhën në të cilën shteti i ri i Kosovës harton ligjet e veta dhe në të cilën rapsodi këndon këngët e vjetra, boshtin ku populli e njeh veten.
+Gjuhë e degës së vet të veçantë brenda familjes indo-evropiane, që mban foljen habitore, një mënyrë e posaçme që shënon habinë, dyshimin apo atë çka thuhet me gojën e dikujt tjetër, gjë që shumë gjuhë fqinje nuk e kanë si formë të veçantë; dhe nyjën shquese të ngjitur pas vetë emrit (mal, mali, det, deti), që e bën shquarsinë pjesë të vetë fjalës, jo fjalë më vete si nyjat e gjuhëve fqinje.
 
 ## Orders
 
-Që puna zyrtare, ligji, shkolla dhe jeta publike të bëhen në gjuhën shqipe; që drejtshkrimi dhe rregulli i saj të jenë masa e së saktës; dhe që një gjuhë e vetme e shkruar të lindë nga ngjyrimet e dialekteve, ashtu që shqiptarët ta kuptojnë njëri-tjetrin në të njëjtën fjalë dhe ta njohin veten si një komb i vetëm.
+Emrin ta marrë gjininë, mashkullore ose femërore, dhe rasën, emërore, kallëzore, gjinore-dhanore, rrjedhore, që ndryshon mbaresën e emrit sipas vendit të tij në fjali; foljen habitore të përdoret sa herë folësi rrëfen diçka që s'e ka parë vetë ose që e habit, duke e dalluar nga fakti i thjeshtë; dhe nyjën shquese të ngjitet gjithmonë pas emrit, kurrë para tij.
 
 ## Loses
 
-Humbet tokë përballë dialekteve që rrojnë në gojë dhe mbajnë atë që shkrimi nuk e zë kurrë plotësisht, dhe përballë gjuhëve të huaja të diplomacisë e të tregtisë që hyjnë bashkë me shtetin e ri. Dhe kur fjala e vjetër e dhënë dhe kënga e çiftelisë dëgjohen vetëm si një jehonë e largët, gjuha humbet diçka nga shpirti i saj, dhe në buzë të gjuhës mbetet gjithmonë një hapësirë ku fjala më e thellë rri e pathënë.
+Mënyra habitore, kur kalon në gjuhë tjetër që s'e ka atë formë, humbet nuancën e habisë a të dyshimit dhe bëhet thjesht kohë e shkuar e zakonshme; dhe fjalët e huazuara nga latinishtja, sllavishtja, turqishtja dhe greqishtja, të shtresuara njëra mbi tjetrën nëpër shekuj, shpesh humbasin origjinën e tyre në veshin e folësit të sotëm, që i ndien tashmë krejt shqip.
 
 ## Drives
 
-E shtyn kombin ta njohë veten në një gjuhë të vetme. Rron plotësisht te [Ademi](persona_adem.md), bujku e rapsodi që flet e mendon në gjuhën amtare me gjithë ngjyrimet e dialektit gegë, dhe te [Besa](persona_besa.md), juristja që harton në gjuhën shqipe ligjet e shtetit të ri ndërsa negocion njohjet ndërkombëtare në gjuhë të huaja. Kështu një gjuhë e vetme tregon ku e njeh veten kombi shqiptar.
+Mënyra habitore e shtyn atë që flet shqip të shënojë çdo herë nëse diçka e ka parë vetë a ia kanë treguar, duke e mbajtur syrin gjithmonë te burimi i dijes; nyja e ngjitur pas emrit e mëson të dëgjojë fjalën si tërësi para se ta ndajë në pjesë; dhe shtresat e gjuhëve fqinje brenda fjalorit të vet e mësojnë të mendojë historinë e vendit nëpër vetë fjalët që përdor.
