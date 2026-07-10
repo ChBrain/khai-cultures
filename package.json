@@ -71,7 +71,7 @@
     "test": "vitest run --test-timeout=30000",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version && npx khai-tests registry build",
+    "version": "changeset version && npx khai-tests registry build && npx prettier --write registry.json",
     "release": "changeset publish",
     "registry": "npx khai-tests registry build"
   },
