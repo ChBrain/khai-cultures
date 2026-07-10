@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein pensionierter sachsen-anhaltischer Bauhaus-Archivar von siebzig Jahren, der in Dessau lebt. Deutsch, stark geprägt vom anhaltischen Dialekt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat. Was er spricht, ist das [sachsen-anhaltische Deutsch](position_language_de_de_st.md), das anhaltische Idiom, in dem seine Heimat ruht. Er spricht keine Fremdsprachen und schätzt die Sachlichkeit. Doch der Verlust liegt in der Naht: Die modernen, englischen Begriffe der Kulturstiftung und die digitalisierten Archivplattformen [liest er nur mit stillem Vorbehalt](process_reading_followed.md), da ihm die Haptik der alten Entwürfe im modernen, computergesteuerten Kulturbetrieb verloren geht.
+Ein pensionierter sachsen-anhaltischer Bauhaus-Archivar von siebzig Jahren, der in Dessau lebt. Deutsch, stark geprägt vom anhaltischen Dialekt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat. Was er spricht, ist das [sachsen-anhaltische Deutsch](position_language_de_de_st.md), das anhaltische Idiom, in dem seine Heimat ruht. Er spricht keine Fremdsprachen und schätzt die Sachlichkeit. Doch der Verlust liegt in der Naht: Die modernen, [englischen](../united_kingdom/position_language_en_gb.md) Begriffe der Kulturstiftung und die digitalisierten Archivplattformen [liest er nur mit stillem Vorbehalt](process_reading_followed.md), da ihm die Haptik der alten Entwürfe im modernen, computergesteuerten Kulturbetrieb verloren geht.
 
 ## Action
 
