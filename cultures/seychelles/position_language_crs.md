@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Sa langaz ki'n ne lo bann zil menm: en kreol baze lo franse, me brode avek mo ek son sorti Lafrik, Lend, ek lezot kote, fonn ansanm dan en sel langaz ki tou Seselwa i partaze. I'n ne dan lakaz ek dan zarden, dan bouss bann travayer ek bann manman, en langaz ki personn pa ti enpoze me ki tou dimoun ti bezwen pour koz ant zot. Sa langaz se premye langaz nasyonal Sesel, langaz manman tou Seselwa, e Sesel in fer li vin osi premye langaz ofisyel, in donn li son lekriti ek son diksyonner, e in lev li devan lemonn parey en zafer pour fyer, e non en zafer pour kasyet.
+Sa ki Kreol Seselwa i kapab dir kout e senp, kot Franse, langaz ki'n donn li son vokabiler, ti bezwen tou en gran konzigezon: Kreol i servi de trwa pti mo divan verb pour montre lantan, "ti" pour sa ki fini arive, "pou" pour sa ki pankor arive, "pe" pour sa ki pe arive la, e verb la i pa bezwen sanz form ditou. I gard osi mem mo "i" pour reprezant li ki li, li, oubyen sa, kot Franse i gard de mo apar.
 
 ## Orders
 
-Ki en langaz ki'n ne dan lakaz i merit menm respe ki en langaz lekol ek biro; ki en pti pep i kapab ekri, lir, e ansenny dan son prop langaz manman; ki kreol i en langaz antye, avek son gramer, son lortograf, ek son liv, e non en franse kase; e ki gard sa langaz vivan se gard nanm sa pep menm.
+Gramer la i demann ki ou met sa pti mo tan divan sak verb pour dir kan zafer la i arive, olye ki ou sanz lafen verb la parey Franse; i demann osi ki ou met en atik divan non, "en" oubyen "sa," me i pa demann ou swazir ant de mo diferan pour non mal ek non femel, akoz non pa ganny sex.
 
 ## Loses
 
-I perdi pye kan dimoun i komans onte koz li, kan i ganny tret konman en langaz ba ki dimoun bezwen kit deor lekol; e i perdi pye kan bann gran langaz lemonn i komans pous li deor son prop lakaz, alor ki bann zanfan i komans reponn dan en lot langaz e sa langaz manman i komans amenwizi dan zot labous.
+I perdi sa bann tan konplike ki Franse i gard pour lekritir, konman sibzonktif oubyen paseh senp, akoz Kreol pa bezwen zot pour dir mem zafer. I perdi osi sa diferans ant "li mal" ek "li femel" ki Franse i gard dan mo "il" ek "elle," akoz Kreol servi mem mo "i" pour tou dimoun, e sa i kapab fer en dimoun ki'n abitye ek Franse mank en presizyon ki zot ti pou atann.
 
 ## Drives
 
-I viv dan [Antoine Abel](persona_antoine_abel.md), ki ti ekri son zistwar ek son poezi dan kreol kan personn lezot ti pe ekri ladan; dan [Danielle de St Jorre](persona_danielle_de_st_jorre.md), ki ti travay pour donn kreol son lekriti ek son diksyonner; dan [Patrick Victor](persona_patrick_victor.md), ki ti sant son pep dan son prop langaz manman e ki ti met moutya ek sega dan bouss tou Seselwa; e dan [Sa Peser](persona_sa_peser.md), ki viv son lavi antye lo delo dan sa sel langaz e ki napa zanmen bezwen en lot. Me sa langaz pa ti touzour la: [Pierre Poivre](persona_pierre_poivre.md), sa administrater franse ki son plan ti ouver bann zil pour bann premye dimoun, pa ti zanmen konn li, parski kreol ti pou ne lo sa later apre son letan, sorti dan bann rasin ki son zarden ti anmenn ansanm. Alor sa langaz i montre lekel ki port li konman son nanm, e lekel, avan li, ti ouver semen san zanmen tann li. I pous Sesel pour tini son langaz manman ot ek vivan, e pour ansenny li avek lafyerte.
+I fer sa ki koz li mazinen dan lord senp, met lantan divan, apre sa ki'n arive, san bezwen aprann en long lalis konzigezon. I fer li osi kapab rakont en zistwar direkteman, an antye kreol, san diferans lo sex non, e sa i fer sa langaz vin en zouti kout e kler pour koz ek pour sant.

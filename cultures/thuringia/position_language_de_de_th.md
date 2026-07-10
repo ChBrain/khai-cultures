@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Die Stimme des thüringischen Deutsch, die weiche, gesungene Mundart des Thüringer Waldes und des Saaletals. Es hält den vertrauten Klang der Region, in dem Luther auf der Wartburg die Schrift ins Deutsche fügte und der bis heute in den Dörfern zwischen Rennsteig und Jena daheim ist.
+Das thüringische Deutsch weicht die harten Verschlusslaute p, t, k zu ihren weichen Gegenstücken b, d, g auf und rundet Doppellaute zu einfachen, gedehnten Vokalen ab, was der Mundart ihren singenden, gleitenden Klang gibt. Es steht dem Hochdeutschen näher als mancher andere Dialekt, denn die Kanzleisprache Mitteldeutschlands, aus der Luther sein Bibeldeutsch baute, wuchs aus eben diesem Sprachraum, sodass Thüringisch und Schriftdeutsch aus derselben Wurzel stammen.
 
 ## Orders
 
-Was in Thüringen als heimische Rede gilt, der Ton an der Glasbläserflamme, auf dem Wanderweg und am Familientisch. Es ordnet, wie man gemütlich und herzlich miteinander spricht, und hält die Nähe, die der Dialekt zwischen den Thüringern stiftet.
+Es verlangt die weiche Aussprache der Verschlusslaute an Stelle der harten hochdeutschen Form, und es verlangt den gedehnten, einfachen Vokal dort, wo das Hochdeutsche einen Doppellaut spricht. Es ordnet den singenden Tonfall, das Heben und Senken der Stimme im Satz, das den Sprecher als Thüringer kennzeichnet, noch ehe er ein einzelnes Wort ausgesprochen hat.
 
 ## Loses
 
-Boden an das Hochdeutsch der Klassik und der Schrift, das den Dialekt aus dem gebildeten Wort verdrängt. Es verliert auch an die englischen Fachbegriffe der Optikforschung und der Verkaufsplattformen, die den alten Klang der Werkstatt überlagern.
+Es verliert seine Unterscheidbarkeit gerade dort, wo es dem Hochdeutschen am nächsten steht: weil Mundart und Schriftsprache aus derselben Wurzel wuchsen, verschleift sich der Unterschied leichter, und die Mundart löst sich rascher ins Hochdeutsche auf als ein Dialekt, der von Anfang an weiter entfernt war. Es verliert außerdem Boden an die englischen Fachwörter der Glas- und Laseroptik, die den alten regionalen Wortschatz der Werkstatt verdrängen.
 
 ## Drives
 
-Es treibt Thüringen, am eigenen Ton festzuhalten, auch wo die Schrift ihn nicht kennt. Es trägt die vertraute Muttersprache des Glasbläsermeisters [Dieter](persona_dieter.md), in der er spricht, hört und denkt; und es dient der Laseringenieurin [Maria](persona_maria.md) als selbstverständlicher Grund, auf dem sie ihre Entwicklungsziele abstimmt, ehe sie ins übergezogene Englisch wechselt. So macht der eine Klang sichtbar, wer ihn hält.
+Es gewöhnt den, der in ihm aufwächst, an einen weichen, singenden Tonfall und an das mühelose Gleiten zwischen Mundart und Hochdeutsch, da beide aus derselben Wurzel stammen und der Wechsel kaum Reibung kostet. Es macht die Nähe zwischen Dialekt und Schriftsprache selbst zur Gewohnheit des Sprechers, der zwischen beiden wechselt, ohne dass ihm der Sprung recht auffällt.

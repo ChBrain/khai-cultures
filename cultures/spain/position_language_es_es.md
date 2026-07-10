@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-El castellano de Espana, la lengua que nacio en Castilla y se hizo comun a todo el reino: la norma peninsular con la distincion firme de la ese y la ce, el vosotros de la conversacion diaria y el lexico fijado por el uso de siglos y por la Academia. Es el espanol en que se escribio el Quijote y en el que Espana se reconoce ante el mundo, el tronco comun del que salieron todas las hablas de America y la vara con la que aqui se mide lo que se tiene por bien dicho.
+Dos verbos para nombrar el ser, ser y estar, que separan lo que una cosa es de como se halla en un momento dado, distincion que otras lenguas apenas logran sin rodeos. Un modo subjuntivo vivo, que marca en la propia forma del verbo la duda, el deseo y lo irreal alli donde el hablante no afirma sino que imagina. Y el vosotros, la segunda persona del plural que aqui distingue el trato de confianza del trato de respeto incluso dirigiendose a varios a la vez, mas los sufijos diminutivos ito, ico e illo, que templan casi cualquier palabra sin cambiarle el sentido.
 
 ## Orders
 
-Manda en la escuela, en el boletin del Estado, en la television y en la norma con que se ensena a leer y a escribir en todo el pais. Ordena que exista una lengua comun por encima de las lenguas cooficiales de las autonomias, la que sirve para el trato entre todas y para presentarse ante el mundo, y fija el registro que separa lo correcto de lo que pasa por descuido.
+Obliga a marcar el genero en cada sustantivo y en cada adjetivo que lo acompana, de modo que ninguna cosa nombrada queda neutra. Obliga a elegir entre el preterito indefinido y el preterito perfecto compuesto segun si el hecho se siente cerrado o todavia presente, distincion que se hace sin pensarla. Y cada verbo lleva la persona cosida en su propia terminacion, de modo que el pronombre casi siempre puede callarse sin que se pierda quien habla.
 
 ## Loses
 
-Pierde terreno ante las lenguas cooficiales que reclaman su espacio propio en Cataluna, el Pais Vasco, Galicia y Valencia, donde el castellano no es la unica lengua de la casa. Y pierde autoridad ante el espanol de America, mucho mas numeroso, que no es incorrecto sino otra norma de la misma lengua, de modo que la peninsula ya no dicta sola lo que es el buen espanol.
+El vosotros que aqui separa confianza y respeto en el plural no cruza el mar: al otro lado, ustedes cubre a todos por igual y esa distincion se pierde por completo. El habla corriente deja caer buena parte del subjuntivo de futuro y del preterito anterior, tiempos que el latin lego y que hoy sobreviven solo en el refran o en la ley. Y lo que otras lenguas nombran sin marcar sexo, aqui rara vez se permite, pues casi todo sustantivo elige un genero fijo y solo el neutro lo, reservado a lo abstracto, escapa a esa regla.
 
 ## Drives
 
-Empuja a Espana a tener una sola lengua comun y a medir por ella lo que se dice bien. Es la lengua materna en la que lo intimo llega entero a quien vive hacia los suyos, y es tambien la que la gran novela llevo a su cumbre y ofrecio al mundo; en ella se separa quien la habita como casa de quien la eleva a literatura. Asi empuja al pais a reconocerse en una sola norma y a medir por ella lo bien dicho.
+Acostumbra a quien lo habla a distinguir en cada frase si algo es o si solo esta, habito que traslada al pensamiento la costumbre de separar lo esencial de lo pasajero. Empuja a sopesar, antes de afirmar nada, si el hecho es seguro o solo deseado, temido o dudado, porque el subjuntivo obliga a declarar esa distancia en la forma misma del verbo. Y forma a quien crece en el para oir el genero en cada palabra sin esfuerzo, de modo que nombrar sin marcar masculino o femenino se siente como un vacio que el oido nota antes que la razon.
