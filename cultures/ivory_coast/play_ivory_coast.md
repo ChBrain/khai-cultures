@@ -50,6 +50,7 @@ Une terre née du mélange et qui en a fait sa fierté. La légende fondatrice e
 - [le sacrifice de Pokou](position_le_sacrifice.md)
 - [le brassage](position_le_brassage.md)
 - [la débrouille](position_la_debrouille.md)
+- [le français ivoirien](position_language_fr_ci.md)
 
 **Pieces**
 

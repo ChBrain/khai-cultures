@@ -31,7 +31,7 @@ Il-kittieba u l-poeti, fuq quddiem [Dun Karm](persona_dun_karm.md), jirfgħu l-M
 ## Stage
 
 - [Dun Karm](persona_dun_karm.md): il-poeta nazzjonali li jagħti lill-ilsien il-poeżija u l-innu.
-- [il-Malti](position_il_malti.md): l-ilsien Semitiku tal-poplu li jitla' għal ilsien uffiċjali.
+- [il-Malti](position_language_mt.md): l-ilsien Semitiku tal-poplu li jitla' għal ilsien uffiċjali.
 
 ## Tension
 

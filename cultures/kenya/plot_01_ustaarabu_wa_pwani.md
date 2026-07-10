@@ -31,7 +31,7 @@ Kutoka katika mkutano huu wa watu na lugha ulizaliwa ustaarabu wa Waswahili: mij
 ## Stage
 
 - [Mombasa](place_mombasa.md): bandari na mji wa mawe ulioshikilia biashara ya pwani na ustaarabu wa Waswahili.
-- [Kiswahili](position_kiswahili.md): lugha iliyozaliwa ufuoni kutoka kwa mkutano wa watu na biashara.
+- [Kiswahili](position_language_sw_ke.md): lugha iliyozaliwa ufuoni kutoka kwa mkutano wa watu na biashara.
 - [kanga](piece_kanga.md): kitambaa cha pwani kilichochukua maneno na methali na kupanda bara na lugha.
 
 ## Tension

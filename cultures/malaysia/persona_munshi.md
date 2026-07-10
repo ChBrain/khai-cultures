@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[bahasa Melayu](position_bahasa_melayu.md)
+[bahasa Melayu](position_language_ms_my.md)
 
 ## Owner
 

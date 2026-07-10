@@ -48,7 +48,7 @@ Negeri ini bermula sebagai sebuah pelabuhan. Pada abad kelima belas, Kesultanan 
 **Positions**
 
 - [muhibbah](position_muhibbah.md)
-- [bahasa Melayu](position_bahasa_melayu.md)
+- [bahasa Melayu](position_language_ms_my.md)
 - [Islam dan kepelbagaian](position_islam.md)
 
 **Pieces**
@@ -68,7 +68,7 @@ Negeri ini bermula sebagai sebuah pelabuhan. Pada abad kelima belas, Kesultanan 
 
 **[Plot 1: Kesultanan Melaka](plot_01_kesultanan_melaka.md)**
 
-Pada abad kelima belas, [Melaka](place_melaka.md) bangkit menjadi pelabuhan agung di tepi selat, tempat [bahasa Melayu](position_bahasa_melayu.md) menjadi bahasa dagangan seluruh rantau dan Islam berakar di Nusantara.
+Pada abad kelima belas, [Melaka](place_melaka.md) bangkit menjadi pelabuhan agung di tepi selat, tempat [bahasa Melayu](position_language_ms_my.md) menjadi bahasa dagangan seluruh rantau dan Islam berakar di Nusantara.
 
 **[Plot 2: Zaman Penjajahan](plot_02_penjajahan.md)**
 
@@ -84,4 +84,4 @@ Pada tahun 1963 Sabah dan Sarawak bergabung dengan Tanah Melayu membentuk Persek
 
 ## Stakes
 
-Sama ada sebuah negara yang dibina daripada banyak kaum, banyak bahasa, dan banyak iman dapat terus memelihara [muhibbah](position_muhibbah.md) antara warganya, mengekalkan [bahasa Melayu](position_bahasa_melayu.md) sebagai bahasa yang menyatukan sambil menghormati bahasa dan iman setiap kaum, dan menjadikan [Islam dan kepelbagaian](position_islam.md) hidup berdampingan dalam keamanan, sehingga daripada yang berbilang lahir satu bangsa Malaysia tanpa sesiapa terpaksa berhenti menjadi dirinya.
+Sama ada sebuah negara yang dibina daripada banyak kaum, banyak bahasa, dan banyak iman dapat terus memelihara [muhibbah](position_muhibbah.md) antara warganya, mengekalkan [bahasa Melayu](position_language_ms_my.md) sebagai bahasa yang menyatukan sambil menghormati bahasa dan iman setiap kaum, dan menjadikan [Islam dan kepelbagaian](position_islam.md) hidup berdampingan dalam keamanan, sehingga daripada yang berbilang lahir satu bangsa Malaysia tanpa sesiapa terpaksa berhenti menjadi dirinya.

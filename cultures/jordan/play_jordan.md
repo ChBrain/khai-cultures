@@ -50,6 +50,7 @@ stamp:
 - [الكرم](position_hospitality.md)
 - [الصخر المنحوت والبادية](position_the_carved_rock.md)
 - [ملتقى القوافل](position_the_crossroads.md)
+- [العربية الأردنية](position_language_ar_jo.md)
 
 **Pieces**
 

@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [הלשון המחודשת](position_ha_lashon.md)
+- [הלשון המחודשת](position_language_he.md)
 - [עם הספר](position_am_ha_sefer.md)
 - [קיבוץ גלויות](position_kibbutz_galuyot.md)
 
@@ -76,7 +76,7 @@ stamp:
 
 **[Plot 3: תחיית העברית](plot_03_tkhiyat_ha_ivrit.md)**
 
-בסוף המאה התשע־עשרה [אליעזר בן־יהודה](persona_ben_yehuda.md) מחזיר את [הלשון המחודשת](position_ha_lashon.md) לפי בני אדם, וילדים שבים לדבר עברית כלשון אם אחרי קרוב לאלפיים שנה.
+בסוף המאה התשע־עשרה [אליעזר בן־יהודה](persona_ben_yehuda.md) מחזיר את [הלשון המחודשת](position_language_he.md) לפי בני אדם, וילדים שבים לדבר עברית כלשון אם אחרי קרוב לאלפיים שנה.
 
 **[Plot 4: קיבוץ גלויות וחידוש החיים הלאומיים](plot_04_kibbutz_galuyot.md)**
 

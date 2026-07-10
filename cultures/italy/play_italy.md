@@ -47,7 +47,7 @@ Una civiltà prima di essere uno Stato: Roma e il Rinascimento diedero all'Europ
 
 **Positions**
 
-- [il dialetto](position_il_dialetto.md)
+- [il dialetto](position_language_it_it.md)
 - [il campanilismo](position_il_campanilismo.md)
 - [la famiglia](position_la_famiglia.md)
 
@@ -76,7 +76,7 @@ A [Firenze](place_firenze.md) rinascono l'arte e, con [Dante](persona_dante.md),
 
 **[Plot 3: Il Risorgimento](plot_03_il_risorgimento.md)**
 
-[Garibaldi](persona_garibaldi.md) e i Mille uniscono finalmente la penisola, ma i nuovi italiani parlano [dialetti](position_il_dialetto.md): fatta l'Italia, restano da fare gli italiani.
+[Garibaldi](persona_garibaldi.md) e i Mille uniscono finalmente la penisola, ma i nuovi italiani parlano [dialetti](position_language_it_it.md): fatta l'Italia, restano da fare gli italiani.
 
 **[Plot 4: Il miracolo economico](plot_04_il_miracolo_economico.md)**
 

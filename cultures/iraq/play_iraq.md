@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [الكلمة الأولى](position_al_kalima_al_ula.md)
+- [الكلمة الأولى](position_language_ar_iq.md)
 - [دار الحكمة](position_dar_al_hikma.md)
 - [النهران والنخلة](position_al_nahran_wa_al_nakhla.md)
 
@@ -68,11 +68,11 @@ stamp:
 
 **[Plot 1: ميلاد الكلمة في سومر](plot_01_sumer.md)**
 
-في جنوب الرافدين تقوم أولى المدن، وعلى الطين تُنقش أولى العلامات فتصير كتابة، فتولد [الكلمة الأولى](position_al_kalima_al_ula.md) ويبدأ التاريخ المدوَّن.
+في جنوب الرافدين تقوم أولى المدن، وعلى الطين تُنقش أولى العلامات فتصير كتابة، فتولد [الكلمة الأولى](position_language_ar_iq.md) ويبدأ التاريخ المدوَّن.
 
 **[Plot 2: بابل وشريعة حمورابي](plot_02_babylon.md)**
 
-في [بابل](place_babylon.md) يرفع [حمورابي](persona_hammurabi.md) شريعته منقوشة على الحجر، فتُدوَّن العدالة ويُحفظ في الأرض نفسها ميراث [الكلمة الأولى](position_al_kalima_al_ula.md).
+في [بابل](place_babylon.md) يرفع [حمورابي](persona_hammurabi.md) شريعته منقوشة على الحجر، فتُدوَّن العدالة ويُحفظ في الأرض نفسها ميراث [الكلمة الأولى](position_language_ar_iq.md).
 
 **[Plot 3: عصر بغداد الذهبي](plot_03_baghdad.md)**
 

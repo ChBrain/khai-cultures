@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Wajibu wa wazi ambao taifa lilijiwekea tangu uhuru: kazi isiyokwisha ya kuvuta kamba ya [harambee](position_harambee.md) pamoja ili makabila mengi yawe watu mmoja; ya kushikilia [Kiswahili](position_kiswahili.md) kama daraja linalounganisha bila kumeza lugha za mama; na ya kulinda [ardhi na mazingira](position_ardhi.md), misitu, maji na wanyama, kama urithi wa vizazi vijavyo.
+Wajibu wa wazi ambao taifa lilijiwekea tangu uhuru: kazi isiyokwisha ya kuvuta kamba ya [harambee](position_harambee.md) pamoja ili makabila mengi yawe watu mmoja; ya kushikilia [Kiswahili](position_language_sw_ke.md) kama daraja linalounganisha bila kumeza lugha za mama; na ya kulinda [ardhi na mazingira](position_ardhi.md), misitu, maji na wanyama, kama urithi wa vizazi vijavyo.
 
 ## Owner
 

@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[il-Malti](position_il_malti.md)
+[il-Malti](position_language_mt.md)
 
 ## Owner
 

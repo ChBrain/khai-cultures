@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[il-Malti](position_il_malti.md)
+[il-Malti](position_language_mt.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Saċerdot, poeta nazzjonali u awtur tal-kliem tal-Innu Malti, missier il-lettera
 
 ## Action
 
-Fil-[ġrajja tal-Malti](plot_03_il_malti.md) jagħti lill-ilsien tal-poplu l-poeżija u l-innu tan-nazzjon, u jgħin biex il-Malti jsir ilsien uffiċjali. Bih [il-Malti](position_il_malti.md) jitla' mill-kċina għal-letteratura, u l-poplu jsib f'ilsienu prova li hu tiegħu nnifsu.
+Fil-[ġrajja tal-Malti](plot_03_il_malti.md) jagħti lill-ilsien tal-poplu l-poeżija u l-innu tan-nazzjon, u jgħin biex il-Malti jsir ilsien uffiċjali. Bih [il-Malti](position_language_mt.md) jitla' mill-kċina għal-letteratura, u l-poplu jsib f'ilsienu prova li hu tiegħu nnifsu.
 
 ## Shadow
 

@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandat, dejjem miftuħ: il-mistoqsija li gżira ċkejkna li fl-Unjoni titqabad ma' nazzjonijiet bil-bosta akbar minnha tqiegħed lilha nfisha, jiġifieri kif tibqa' żgħira imma sħiħa - iżżomm l-uniku ilsien Semitiku-Latin tal-Ewropa, [il-Malti](position_il_malti.md), iżżomm [il-fidi](position_il_fidi.md) ħajja u terfa' l-kburija tal-[fortizza](position_il_fortizza.md), filwaqt li timmaniġġja l-boom, il-bini bla rażan u r-rwol ġdid ta' mogħdija tal-migrazzjoni bejn l-Ewropa u l-Afrika.
+Mandat, dejjem miftuħ: il-mistoqsija li gżira ċkejkna li fl-Unjoni titqabad ma' nazzjonijiet bil-bosta akbar minnha tqiegħed lilha nfisha, jiġifieri kif tibqa' żgħira imma sħiħa - iżżomm l-uniku ilsien Semitiku-Latin tal-Ewropa, [il-Malti](position_language_mt.md), iżżomm [il-fidi](position_il_fidi.md) ħajja u terfa' l-kburija tal-[fortizza](position_il_fortizza.md), filwaqt li timmaniġġja l-boom, il-bini bla rażan u r-rwol ġdid ta' mogħdija tal-migrazzjoni bejn l-Ewropa u l-Afrika.
 
 ## Owner
 

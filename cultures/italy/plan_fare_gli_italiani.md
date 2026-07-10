@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Una direttiva di produzione: il disegno, aperto con l'unità, di fare di un popolo di stati e di [dialetti](position_il_dialetto.md) una nazione sola con una lingua comune. "Fatta l'Italia, bisogna fare gli italiani."
+Una direttiva di produzione: il disegno, aperto con l'unità, di fare di un popolo di stati e di [dialetti](position_language_it_it.md) una nazione sola con una lingua comune. "Fatta l'Italia, bisogna fare gli italiani."
 
 ## Owner
 

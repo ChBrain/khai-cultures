@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-07-09"
 ---
 
 # Position: il dialetto
@@ -34,4 +34,4 @@ Terreno: l'italiano standard, diffuso dalla scuola e dalla RAI, ha quasi spento 
 
 ## Drives
 
-Vive in [Rosa](persona_rosa.md), per cui il dialetto è la madrelingua e l'italiano la lingua della scuola, e in [Giulia](persona_giulia.md), che parla italiano e inglese e del dialetto conserva appena qualche parola. Spinge l'Italia a essere una nazione di mille parlate sotto una lingua sola, e a non sapere mai del tutto quale delle due sia davvero la sua.
+Nasce con [Dante](persona_dante.md), che scrive la Commedia nel volgare toscano e fonda, di fatto, la lingua delle lettere che un giorno sarà l'italiano di tutti, e prende forma di norma comune con [Alessandro Manzoni](persona_manzoni.md), che parla il lombardo di casa ma fissa a tavolino, nel fiorentino vivo, la prosa nazionale. [Giuseppe Garibaldi](persona_garibaldi.md) unisce con le armi una penisola i cui popoli ancora non condividono questa lingua, sicché, fatta l'Italia, restano da fare gli italiani. Vive in [Rosa](persona_rosa.md), per cui il dialetto è la madrelingua e l'italiano la lingua della scuola seguita sulla pagina, e in [Giulia](persona_giulia.md), che pensa in italiano e in inglese e del dialetto conserva appena qualche parola. Spinge l'Italia a essere una nazione di mille parlate sotto una lingua sola, e a non sapere mai del tutto quale delle due sia davvero la sua.

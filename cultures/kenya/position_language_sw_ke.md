@@ -1,13 +1,13 @@
 ---
 khai: position
-title: "Kiswahili"
+title: "Kenyan Swahili"
 declared: "Kiswahili"
 language: sw
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-09"
 ---
 
 # Position: Kiswahili
@@ -34,4 +34,4 @@ Inapoteza nguvu pale Kiingereza cha shule na cha kazi kinapomeza Kiswahili kweny
 
 ## Drives
 
-Inaishi ndani ya [Ngugi wa Thiong'o](persona_ngugi.md), aliyeacha kuandika kwa lugha ya kigeni na kurudi kuandika kwa lugha ya mama na ya watu wake, akisema lugha ndiyo kumbukumbu ya watu. Inaliendesha taifa la Kenya kuendelea kuwa moja kwa sauti moja, kila kabila likiimba wimbo wake lakini wote wakiimba katika lugha ileile inayowavusha kuwa watu mmoja.
+Inaishi ndani ya [Ngugi wa Thiong'o](persona_ngugi.md), aliyeacha kuandika kwa lugha ya kigeni na kurudi kuandika kwa lugha ya mama na kwa lugha hii ya watu wake, akisema lugha ndiyo kumbukumbu ya watu. [Jomo Kenyatta](persona_kenyatta.md) aliichukua kama chombo cha kuwaunganisha makabila yote chini yake, akaifuata na kuisoma ili taifa changa liongee kwa sauti moja, ingawa lugha yake ya mama ilikuwa ya kabila lake. [Wangari Maathai](persona_wangari.md) aliibeba kama daraja la kuwakusanya wanawake wa makabila yote chini ya kazi moja ya kupanda miti; [Eliud Kipchoge](persona_kipchoge.md) anaisikia na kuifuata kama lugha ya wenzake wa kambini wanaokimbia naye, si lugha ya nyumbani kwake bali ya wote pamoja; na [Makanga](persona_makanga.md) anaisikia kama lugha sanifu ya wazee na ya heshima, ambayo kutoka kwake Sheng ya mji huchipuka mitaani. Hivyo lugha hii ya pamoja huonyesha nani aliyezaliwa nayo na nani aliyeibeba kama daraja, ikiliendesha taifa la Kenya kuwa moja kwa sauti moja, kila kabila likiimba wimbo wake lakini wote wakiimba katika lugha ileile inayowavusha kuwa watu mmoja.
