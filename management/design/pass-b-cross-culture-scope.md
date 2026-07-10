@@ -4,7 +4,8 @@ Companion to the Design of Record (`language-engine-and-plans.md` §2.6, §3) an
 Pass-A manifest (`language-positions-manifest.md`). Pass A is **complete**: every
 culture owns a `position_language_*.md` for each variety its personas natively hold,
 and every persona links a language position (house-wide scan: 0 unmarked). This
-document scopes **Pass B**, the second and final wiring pass.
+document scopes **Pass B**, the second and final wiring pass — done in **one pass over
+every foreign channel** (§3), so each persona is finished right the first time.
 
 ## 1. What Pass B is
 
@@ -40,16 +41,24 @@ German → `position_language_de_ch.md`, same house, not cross-culture). The age
 distinguishes per persona: **own-culture co-official → bare link (or already present);
 foreign → cross-culture path.**
 
-## 3. Channel scope — B1 now, B2 later
+## 3. Channel scope — every foreign channel, one pass per persona
 
-- **B1 (this scope):** active foreign **speech** — `speaking_carried`,
-  `speaking_borrowed`, `speaking_worn`. The tongues a persona speaks are the ones that
-  most change how it is heard, and they are the sharpest fidelity win.
-- **B2 (deferred):** passive foreign **reading/hearing** —
-  `reading_followed` / `_deciphered` / `_caught`, `hearing_followed` / `_caught`. The
-  §2.6 coverage law ("every tongue on any channel") means these are in the standard;
-  they are simply sequenced after B1 as a second sweep. B2 is **not** part of this
-  scope and is noted only so the boundary is explicit.
+Pass B wires a persona's foreign tongues on **every** channel it uses them, in one
+pass — not active speech first and passive later. The expensive step is cognitive:
+read the persona, identify which tongues are foreign, and resolve each to its home
+variety (§4). Once that judgment is made, marking every channel that tongue appears on
+is marginal — so splitting speech from reading/hearing would only force reading all
+~645 personas twice and risk the two sweeps disagreeing on the variety. The unit of
+work is therefore **per persona → per foreign tongue → all its channels**:
+
+- active **speech** — `speaking_carried` / `_borrowed` / `_worn`;
+- passive **reading** — `reading_followed` / `_deciphered` / `_caught`;
+- passive **hearing** — `hearing_followed` / `_caught`.
+
+This satisfies the §2.6 coverage law ("every tongue a persona uses on any channel,
+marked twice") in a single pass. The active-speech count (645) sizes the population
+that _speaks_ a foreign tongue; the same personas' passive foreign channels are wired
+in the same edit.
 
 ## 4. Variety-selection policy — context per persona, no global default
 
@@ -116,16 +125,16 @@ fails, and a variety no one links fails — so a wrong or dangling target cannot
 
 ## 6. Definition of done
 
-- Every one of the ~645 B1 personas either links its foreign spoken tongue(s)
-  cross-culture (or bare, where the tongue is own-culture co-official), or is listed
-  as reviewed-undetermined with a reason.
+- Every persona that uses a foreign tongue links it cross-culture (or bare, where the
+  tongue is own-culture co-official) on **every channel** it uses that tongue, or is
+  listed as reviewed-undetermined with a reason.
 - Every target variety's `## Drives` names its cross-culture holders.
+- House-wide scan clean: no foreign tongue used on any channel without a linked
+  position (the same coverage bar Pass A met for own tongues).
 - All gates green on the single `culture/pass-b` PR.
-- B2 (passive foreign channels) recorded as the remaining phase.
 
 ## 7. Out of scope
 
-- **B2** passive foreign reading/hearing (sequenced next).
 - New **cultures** (e.g. Hong Kong, Macau, provinces/cantons) — separate content
   authoring, not a language pass.
 - Any change to the engine law, gates, or naming standard — Pass B only wires links
