@@ -35,7 +35,12 @@ minimums:
   channel** — twice: the `process_*` ladder leaf and the variety's position. Own
   varieties link bare; a **foreign** tongue links cross-culture by path to the
   exact variety in its home culture (`../nigeria/position_language_en_ng.md`). No
-  persona may use a tongue that has no position to hold it.
+  persona may use a tongue that has no position to hold it. **The link runs one
+  way**: a persona links its position, a position never links or names a persona.
+  A language position's `Has / Orders / Loses / Drives` carries the **linguistic
+  impact of the tongue on whoever holds it** - what it lets you express, what its
+  grammar forces you to mark, what it cannot say, and how it shapes the mind that
+  thinks in it - written of the office, never of a named holder.
 - `place_` — a place (the capital at minimum): one or more.
 - `process_` — a cultural practice: one or more.
 - `piece_` — a culture-defining artifact: one or more.
