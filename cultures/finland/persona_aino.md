@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Kuusikymppinen nainen, joka on kasvanut sodan jälkeisessä, vaatimattomassa Suomessa ja oppinut, ettei mistään valiteta turhaan. Säästäväinen, suora ja sitkeä, hän ei pelkää hiljaisuutta eikä yksin tekemistä. Hän rakastaa [saunaa](process_sauna.md), metsää ja sitä, että toiseen voi luottaa ilman sopimuksia. Hän [puhuu, kuulee ja ajattelee](process_speaking_mother_tongue.md) [äidinkieltään](position_language_fi.md) niukasti ja suoraan, ilman suuria sanoja. Koulun pakkoruotsista hän muistaa tuskin sanaakaan ja [nappaa siitä vain sen, minkä korva saa kiinni](process_hearing_caught.md), ja maailman englannin [lukee hän vaivoin](process_reading_caught.md): kaikki tärkeä tulee hänelle kokonaan omalla kielellä, ja ruotsinkieliselle rannikolle hänellä ei ole yhteistä kieltä ilman välittäjää.
+Kuusikymppinen nainen, joka on kasvanut sodan jälkeisessä, vaatimattomassa Suomessa ja oppinut, ettei mistään valiteta turhaan. Säästäväinen, suora ja sitkeä, hän ei pelkää hiljaisuutta eikä yksin tekemistä. Hän rakastaa [saunaa](process_sauna.md), metsää ja sitä, että toiseen voi luottaa ilman sopimuksia. Hän [puhuu, kuulee ja ajattelee](process_speaking_mother_tongue.md) [äidinkieltään](position_language_fi.md) niukasti ja suoraan, ilman suuria sanoja. Koulun pakkoruotsista hän muistaa tuskin sanaakaan ja [nappaa siitä vain sen, minkä korva saa kiinni](process_hearing_caught.md), ja maailman [englannin](../united_kingdom/position_language_en_gb.md) [lukee hän vaivoin](process_reading_caught.md): kaikki tärkeä tulee hänelle kokonaan omalla kielellä, ja ruotsinkieliselle rannikolle hänellä ei ole yhteistä kieltä ilman välittäjää.
 
 ## Action
 

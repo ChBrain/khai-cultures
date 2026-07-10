@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-En ung mann i tjueårene, vokst opp i et rikt, åpent og sammenkoblet land. Han går på topptur og tar bilder, er opptatt av balansen mellom arbeid og liv, og tar friheten og velstanden for gitt. Han [taler, hører og tenker](process_speaking_mother_tongue.md) på [dialekten sin](position_language_no.md), men engelsk [bærer han som en selvfølge](process_speaking_worn.md) - det ligger ham allerede på tungen før han rekker ut etter det - og han [leser og skriver det](process_reading_followed.md) hele dagen; verden føles like nær som dalen han kommer fra. Der er den unge generasjonens kløft: to språk som begge ligger ham nært, og et norsk som sakte gir plass til engelsk i arbeid og på skjerm.
+En ung mann i tjueårene, vokst opp i et rikt, åpent og sammenkoblet land. Han går på topptur og tar bilder, er opptatt av balansen mellom arbeid og liv, og tar friheten og velstanden for gitt. Han [taler, hører og tenker](process_speaking_mother_tongue.md) på [dialekten sin](position_language_no.md), men [engelsk](../united_kingdom/position_language_en_gb.md) [bærer han som en selvfølge](process_speaking_worn.md) - det ligger ham allerede på tungen før han rekker ut etter det - og han [leser og skriver det](process_reading_followed.md) hele dagen; verden føles like nær som dalen han kommer fra. Der er den unge generasjonens kløft: to språk som begge ligger ham nært, og et norsk som sakte gir plass til engelsk i arbeid og på skjerm.
 
 ## Action
 

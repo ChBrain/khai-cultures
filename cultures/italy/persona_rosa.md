@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una donna anziana del Sud, di un paese fra l'ulivo e il mare, cuore e centro della sua famiglia. [Parla, sente e pensa](process_speaking_mother_tongue.md) nel suo [dialetto](position_language_it_it.md), la lingua della casa e del paese, e l'italiano lo ha imparato a scuola e dalla televisione, [leggendolo e seguendolo](process_reading_followed.md) senza che sia mai del tutto suo; l'inglese del mondo lo [afferra appena con l'orecchio](process_hearing_caught.md). Lì è la frattura: la sua lingua vera è quella di casa e del campanile, e l'italiano resta la lingua della scuola, dello Stato e dello schermo.
+Una donna anziana del Sud, di un paese fra l'ulivo e il mare, cuore e centro della sua famiglia. [Parla, sente e pensa](process_speaking_mother_tongue.md) nel suo [dialetto](position_language_it_it.md), la lingua della casa e del paese, e l'italiano lo ha imparato a scuola e dalla televisione, [leggendolo e seguendolo](process_reading_followed.md) senza che sia mai del tutto suo; l'[inglese](../united_kingdom/position_language_en_gb.md) del mondo lo [afferra appena con l'orecchio](process_hearing_caught.md). Lì è la frattura: la sua lingua vera è quella di casa e del campanile, e l'italiano resta la lingua della scuola, dello Stato e dello schermo.
 
 ## Action
 

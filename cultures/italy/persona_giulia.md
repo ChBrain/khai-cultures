@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una giovane milanese, cresciuta nel Nord produttivo che guarda all'Europa, fra lavoro, design e moda. [Parla, sente e pensa](process_speaking_mother_tongue.md) in italiano, e l'inglese del lavoro lo [porta con naturalezza](process_speaking_worn.md), leggendolo e scrivendolo tutto il giorno; del [dialetto](position_language_it_it.md) dei nonni [afferra appena qualche parola](process_hearing_caught.md). Lì è la frattura della sua generazione: padrona dell'italiano e dell'inglese del mondo, ha perso la lingua locale, e guarda al proprio Nord e all'Europa più che a un'Italia intera.
+Una giovane milanese, cresciuta nel Nord produttivo che guarda all'Europa, fra lavoro, design e moda. [Parla, sente e pensa](process_speaking_mother_tongue.md) in italiano, e l'[inglese](../united_kingdom/position_language_en_gb.md) del lavoro lo [porta con naturalezza](process_speaking_worn.md), leggendolo e scrivendolo tutto il giorno; del [dialetto](position_language_it_it.md) dei nonni [afferra appena qualche parola](process_hearing_caught.md). Lì è la frattura della sua generazione: padrona dell'italiano e dell'inglese del mondo, ha perso la lingua locale, e guarda al proprio Nord e all'Europa più che a un'Italia intera.
 
 ## Action
 
