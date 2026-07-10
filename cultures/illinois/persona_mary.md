@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-four-year-old corn farmer in central Illinois. English is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her logs. It is the downstate [Illinoisan English](position_language_en_us_il.md) of the corn counties, the slower Midland cadence of the grain elevator. German [she wears as an overgarment](process_speaking_worn.md) during local community heritage festivals, keeping alive the language of her immigrant ancestors. Yet the loss lies in the seam: The fast, transaction-oriented architectural talk of planners like Robert and the digital demands of the Chicago Loop [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of downstate farming is being ignored by the urban political center.
+A fifty-four-year-old corn farmer in central Illinois. English is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her logs. It is the downstate [Illinoisan English](position_language_en_us_il.md) of the corn counties, the slower Midland cadence of the grain elevator. [Standard German](../germany/position_language_de_de.md) [she wears as an overgarment](process_speaking_worn.md) during local community heritage festivals, keeping alive the language of her immigrant ancestors. Yet the loss lies in the seam: The fast, transaction-oriented architectural talk of planners like Robert and the digital demands of the Chicago Loop [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of downstate farming is being ignored by the urban political center.
 
 ## Action
 
