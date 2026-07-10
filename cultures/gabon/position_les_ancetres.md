@@ -34,4 +34,4 @@ Du terrain quand les jeunes partis a la ville oublient le chemin des morts, quan
 
 ## Drives
 
-Vit dans [le nganga](persona_le_nganga.md), qui par le Bwiti fait passer le vivant vers les ancetres et le ramene, et dans [Andre Raponda Walker](persona_raponda_walker.md), qui a recueilli et ecrit les contes et les croyances des siens pour que les morts ne se taisent pas. Elle pousse le Gabon a tenir ses morts tout pres et a se savoir, vivant, le maillon d'une longue chaine qui ne se rompt pas.
+Vit dans le rite qui, par le Bwiti, fait passer le vivant vers les ancetres et le ramene, et dans l'oeuvre qui a recueilli et ecrit les contes et les croyances des siens pour que les morts ne se taisent pas. Elle pousse le Gabon a tenir ses morts tout pres et a se savoir, vivant, le maillon d'une longue chaine qui ne se rompt pas.

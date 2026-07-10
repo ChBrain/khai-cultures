@@ -34,4 +34,4 @@ Du terrain quand on prend la foret pour un simple magasin a vider, le bois coupe
 
 ## Drives
 
-Vit dans [le sculpteur de masques](persona_le_sculpteur.md), qui tire des arbres le bois des masques et des reliquaires, et dans [le nganga](persona_le_nganga.md), qui prend a la foret l'iboga par quoi le Bwiti ouvre les yeux. Elle pousse le Gabon a se savoir petit sous son grand vert, a tenir la foret pour une mere et a parier que c'est elle, et non le petrole, qui le tiendra debout.
+Vit dans l'art qui tire des arbres le bois des masques et des reliquaires, et dans le rite du Bwiti, qui prend a la foret l'iboga par quoi s'ouvrent les yeux. Elle pousse le Gabon a se savoir petit sous son grand vert, a tenir la foret pour une mere et a parier que c'est elle, et non le petrole, qui le tiendra debout.

@@ -34,4 +34,4 @@ Terreno cuando la paz se confunde con el descuido, cuando la ausencia de ejercit
 
 ## Drives
 
-Vive en [Jose Figueres](persona_jose_figueres.md), que disolvió el ejercito y fundó el estado de bienestar, y en [Oscar Arias](persona_oscar_arias.md), que llevó esa vocación de paz hasta un plan para todo el istmo y un premio Nobel. Empuja a Costa Rica a guardar su paz desarmada y a mostrar al mundo que una nación puede ser fuerte sin cuartel.
+Vive en la disolución del ejercito que fundó el estado de bienestar, y en la vocación de paz que se llevó hasta un plan para todo el istmo y un premio Nobel. Empuja a Costa Rica a guardar su paz desarmada y a mostrar al mundo que una nación puede ser fuerte sin cuartel.

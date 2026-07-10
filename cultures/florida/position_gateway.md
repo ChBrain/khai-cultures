@@ -34,4 +34,4 @@ Its balance when focus on global launch metrics or regional trade overrides loca
 
 ## Drives
 
-Determines the colonial strategy in the plot [St. Augustine Founding 1565](plot_01_st_augustine.md) and guides the historical work of [Mateo](persona_mateo.md).
+Determines the colonial strategy in the plot [St. Augustine Founding 1565](plot_01_st_augustine.md) and guides the work of those who chronicle that history.

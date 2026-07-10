@@ -34,4 +34,4 @@ Du terrain quand l'immensite devient eloignement, quand la distance fait que l'u
 
 ## Drives
 
-Vit dans [Papa Wemba](persona_papa_wemba.md), enfant du Kasai monte a Kinshasa, qui a porte au monde l'elegance et la grandeur congolaises et s'est fait figure d'un pays entier. Le pays-continent pousse la RDC a se tenir comme une seule nation dans son immensite plurielle, fiere de sa taille et de la diversite de ses peuples.
+Il vit dans le musicien monte de l'interieur jusqu'a la capitale, qui a porte au monde l'elegance et la grandeur congolaises et s'est fait figure d'un pays entier. Le pays-continent pousse la RDC a se tenir comme une seule nation dans son immensite plurielle, fiere de sa taille et de la diversite de ses peuples.

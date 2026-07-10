@@ -34,4 +34,4 @@ Ground when the welcome is given so freely on so little that it wears the giver 
 
 ## Drives
 
-Lives in [the jali](persona_the_jali.md), welcomed and honoured at every gathering and himself the keeper of the welcome in word and song, and breathes in [attaya](process_attaya.md), the slow three-round tea that keeps people sitting and talking together. It drives The Gambia to hold itself together by its welcome, the small land that meets the world with an open hand and reckons the stranger greeted well a stranger no longer.
+Lives in the griot, welcomed and honoured at every gathering and himself the keeper of the welcome in word and song, and breathes in [attaya](process_attaya.md), the slow three-round tea that keeps people sitting and talking together. It drives The Gambia to hold itself together by its welcome, the small land that meets the world with an open hand and reckons the stranger greeted well a stranger no longer.

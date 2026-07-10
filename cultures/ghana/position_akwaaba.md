@@ -34,4 +34,4 @@ Ground when the welcome thins into mere performance, the smile offered and the h
 
 ## Drives
 
-Lives in [Kwame Nkrumah](persona_nkrumah.md), who flung the door open to the whole continent and called its scattered children home, and in [Kofi Annan](persona_annan.md), who carried the Ghanaian courtesy of the careful welcome onto the world's largest stage. It drives Ghana to greet before it questions, to feed before it asks, and to keep saying akwaaba and meaning it.
+Lives in the founding leader who flung the door open to the whole continent and called its scattered children home, and in the statesman who carried the Ghanaian courtesy of the careful welcome onto the world's largest stage. It drives Ghana to greet before it questions, to feed before it asks, and to keep saying akwaaba and meaning it.

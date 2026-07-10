@@ -34,4 +34,4 @@ Du terrain quand la foi se fige en routine sans coeur, ou quand la lettre etouff
 
 ## Drives
 
-Vit dans [Said Mohamed Cheikh](persona_said_mohamed_cheikh.md), homme d'une societe profondement croyante qui mena les iles vers leur propre voix, et dans [Mbaye Trambwe](persona_mbaye_trambwe.md), dont la poesie classique se nourrit de l'arabe sacre et de la sagesse des croyants. Elle porte les Comores a mesurer le temps a l'appel du muezzin et a tenir la foi pour le premier des liens qui font d'eux un seul peuple.
+Elle vit dans la conduite d'une societe profondement croyante vers sa propre voix, et dans la poesie classique qui se nourrit de l'arabe sacre et de la sagesse des croyants. Elle porte les Comores a mesurer le temps a l'appel du muezzin et a tenir la foi pour le premier des liens qui font d'eux un seul peuple.

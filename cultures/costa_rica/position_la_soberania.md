@@ -34,4 +34,4 @@ Terreno cuando la épica de la defensa se vuelve mera estatua, recitada en la es
 
 ## Drives
 
-Vive en [Juan Santamaría](persona_juan_santamaria.md), el humilde soldado que cayó prendiendo fuego al reducto enemigo y se volvió el heroe nacional. Empuja a Costa Rica a recordar que su independencia se ganó y se defendió, y que su heroe mayor fue uno de los mas sencillos de los suyos.
+Vive en el humilde soldado que cayó prendiendo fuego al reducto enemigo y se volvió el heroe nacional. Empuja a Costa Rica a recordar que su independencia se ganó y se defendió, y que su heroe mayor fue uno de los mas sencillos de los suyos.

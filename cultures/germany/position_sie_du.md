@@ -29,8 +29,8 @@ Dass der Übergang vom Sie zum Du nicht beliebig ist, sondern angeboten und ange
 
 ## Loses
 
-An Boden, wo die jüngere Generation um [Jonas](persona_jonas.md) rasch duzt und die strenge Grenze für überholt hält. Die feste Schwelle wird durchlässig.
+An Boden, wo die jüngere Generation rasch duzt und die strenge Grenze für überholt hält. Die feste Schwelle wird durchlässig.
 
 ## Drives
 
-Sie zwingt jeden, Distanz bewusst zu wählen, und scheidet [Elke](persona_elke.md), die das Sie als Achtung hält, von [Jonas](persona_jonas.md), der das Du als Offenheit sucht. So macht die Anrede die Generationen sichtbar.
+Sie zwingt jeden, Distanz bewusst zu wählen, und scheidet die Generation, die das Sie als Achtung hält, von jener, die das Du als Offenheit sucht. So macht die Anrede die Generationen sichtbar.

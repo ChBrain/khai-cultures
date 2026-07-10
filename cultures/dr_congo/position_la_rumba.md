@@ -34,4 +34,4 @@ Du terrain quand la musique est reduite a un simple divertissement, coupee de la
 
 ## Drives
 
-Vit dans [Franco Luambo Makiadi](persona_franco.md), le sorcier de la guitare et patron de l'OK Jazz, dans [Tabu Ley Rochereau](persona_tabu_ley.md), la voix d'or qui a modernise la rumba, et dans [le sapeur](persona_le_sapeur.md), qui porte sur lui l'elegance que la musique a mise a l'honneur. La rumba pousse la RDC a se chanter, a se danser, et a offrir au monde sa voix.
+Elle vit dans la guitare sorciere qui a fait naître un grand orchestre, dans la voix d'or qui a modernise la rumba, et dans l'elegance du sapeur, qui porte sur lui ce que la musique a mis a l'honneur. La rumba pousse la RDC a se chanter, a se danser, et a offrir au monde sa voix.

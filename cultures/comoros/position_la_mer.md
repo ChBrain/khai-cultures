@@ -34,4 +34,4 @@ Du terrain quand le large, qui devait nourrir, ne fait plus que vider les iles d
 
 ## Drives
 
-Vit dans [Abou Chihabi](persona_abou_chihabi.md), dont la musique a porte au loin la voix des iles par-dela les eaux, et dans [le distillateur d'ylang-ylang](persona_le_distillateur.md), qui sait que son essence ne vaut que portee par le boutre vers les ports du large. Elle porte les Comores a se penser comme un peuple de la mer, relie autant que separe par les eaux qui l'entourent.
+Elle vit dans la musique qui a porte au loin la voix des iles par-dela les eaux, et dans le savoir du distillateur pour qui son essence ne vaut que portee par le boutre vers les ports du large. Elle porte les Comores a se penser comme un peuple de la mer, relie autant que separe par les eaux qui l'entourent.

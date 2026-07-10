@@ -34,4 +34,4 @@ Its moral ground when traditional courtesy serves as a polite cover to avoid add
 
 ## Drives
 
-Influences the communal layout in the plot [The Founding of Savannah](plot_01_savannah_founding.md) and drives the orchard management of [Carter](persona_carter.md).
+Influences the communal layout in the plot [The Founding of Savannah](plot_01_savannah_founding.md) and drives the careful, welcoming management of the family orchard.

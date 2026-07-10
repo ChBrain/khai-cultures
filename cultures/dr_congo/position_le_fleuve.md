@@ -34,4 +34,4 @@ Du terrain quand le fleuve est vu comme une simple frontiere ou une ressource a 
 
 ## Drives
 
-Vit dans [Patrice Lumumba](persona_lumumba.md), honore comme la figure qui a voulu une nation une et debout d'un bord a l'autre de ce vaste espace que le fleuve relie. Le fleuve pousse la RDC a se reconnaître comme un seul bassin, une seule maison portee par une seule eau, et a faire de sa grande route d'eau le fil de son unite.
+Il vit dans la memoire du dirigeant qui a voulu une nation une et debout d'un bord a l'autre de ce vaste espace que le fleuve relie. Le fleuve pousse la RDC a se reconnaître comme un seul bassin, une seule maison portee par une seule eau, et a faire de sa grande route d'eau le fil de son unite.

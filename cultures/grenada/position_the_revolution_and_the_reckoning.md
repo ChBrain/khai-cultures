@@ -34,4 +34,4 @@ Ground to silence, when the years are not spoken of and the grief is left to har
 
 ## Drives
 
-Lives in [Maurice Bishop](persona_maurice_bishop.md), the central figure of the revolution, carried here soft and sober as part of the nation history, and in [Merle Collins](persona_merle_collins.md), the poet and novelist who give the people voice and the memory of those years their language. It drive Grenada to carry the chapter with truth and to do the long work of mending it as one people.
+Lives in the central figure of the revolution, carried here soft and sober as part of the nation history, and in the poet and novelist who give the people voice and the memory of those years their language. It drive Grenada to carry the chapter with truth and to do the long work of mending it as one people.

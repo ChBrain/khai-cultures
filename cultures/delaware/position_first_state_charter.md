@@ -34,4 +34,4 @@ Its balance when excessive state-wide zoning mandates override local county deci
 
 ## Drives
 
-Guides the local assembly organizing in the plot [The First State Ratification 1787](plot_01_first_state.md) and drives the safety audits of [Pierre](persona_pierre.md).
+Guides the local assembly organizing in the plot [The First State Ratification 1787](plot_01_first_state.md) and drives the safety audits that keep local charter compliance intact.

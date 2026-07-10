@@ -34,4 +34,4 @@ Terreno cuando la igualdad de antaño se da por hecha y se deja de cuidar, mient
 
 ## Drives
 
-Vive en [el labriego sencillo](persona_el_labriego_sencillo.md), el pequeño campesino del himno que labra su tierra sin amo, y en [Carmen Lyra](persona_carmen_lyra.md), que recogió la voz y el folclore de ese pueblo humilde y lo guardó en sus cuentos. Empuja a Costa Rica a verse como una nación de iguales y a medir su decencia por cuanto cuida al mas sencillo de los suyos.
+Vive en el pequeño campesino del himno que labra su tierra sin amo, y en los cuentos que recogieron la voz y el folclore de ese pueblo humilde y la guardaron. Empuja a Costa Rica a verse como una nación de iguales y a medir su decencia por cuanto cuida al mas sencillo de los suyos.

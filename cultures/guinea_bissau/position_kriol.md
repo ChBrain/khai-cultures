@@ -34,4 +34,4 @@ Pursa kuando kada povu ta fitcha na a sua propi lingua i ta odja o Kriol komu li
 
 ## Drives
 
-Ta vivi na [Amilcar Cabral](persona_cabral.md), ku ta odja na a kultura i na a lingua a forsa di un povu; na [Jose Carlos Schwarz](persona_schwarz.md), ku ta da-l boz na gumbe; i na [Abdulai Sila](persona_sila.md), o skritor ku ta lebanta a lingua di a terra na o papel. I ta lebanta a Guine-Bissau a fasi, di tantu povu i di tantu lingua, un so povu ku ta entendi-l.
+Ta vivi na o lider di independensia, ku ta odja na a kultura i na a lingua a forsa di un povu; na o kompositor, ku ta da-l boz na gumbe; i na o skritor ku ta lebanta a lingua di a terra na o papel. I ta lebanta a Guine-Bissau a fasi, di tantu povu i di tantu lingua, un so povu ku ta entendi-l.

@@ -34,4 +34,4 @@ Its balance when deep-well environmental contamination closes local public water
 
 ## Drives
 
-Guides the legal planning in the plot [The Corporate Chancery Court Boom 1899](plot_03_chancery_court.md) and drives the archiving work of [Irene](persona_irene.md).
+Guides the legal planning in the plot [The Corporate Chancery Court Boom 1899](plot_03_chancery_court.md) and drives the archiving work that keeps corporate legal precedent on record.

@@ -34,4 +34,4 @@ Ground where the disdain for the professional becomes mere snobbery and an excus
 
 ## Drives
 
-It reaches from [Henry VIII](persona_henry_viii.md), the Renaissance king who was theologian, composer, and scholar at once and mastered each as a happy knack, into the lasting English preference for the all-rounder who makes it look easy.
+It reaches from the Renaissance king who was theologian, composer, and scholar at once and mastered each as a happy knack, into the lasting English preference for the all-rounder who makes it look easy.

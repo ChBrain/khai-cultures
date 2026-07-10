@@ -34,4 +34,4 @@ Pierde terreno cuando se trata la paz como si ya estuviera hecha y la herida com
 
 ## Drives
 
-Vive en [Simón Bolívar](persona_bolivar.md), que se soñó la sola gran nación y la vio romperse contra sus propias distancias, y en [Policarpa Salavarrieta](persona_la_pola.md), que dio la vida para fundar la república que el país todavía está construyendo. Empuja a Colombia a seguir recorriendo el camino a la paz: a terminar lo que se empezó, sanar lo que fue herido y llegar a ser al fin la sola nación reconciliada que se imaginaron los fundadores.
+Vive en el sueño de la sola gran nación que se rompió contra sus propias distancias, y en la vida entregada para fundar la república que el país todavía está construyendo. Empuja a Colombia a seguir recorriendo el camino a la paz: a terminar lo que se empezó, sanar lo que fue herido y llegar a ser al fin la sola nación reconciliada que se imaginaron los fundadores.

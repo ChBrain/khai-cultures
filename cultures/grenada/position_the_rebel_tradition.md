@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The long line of refusal that run right through the island story: the Kalinago who would not bow down, the enslaved who rose, the free-coloured and the field who took up arms with Julien Fedon in 1795, and the statesmen who carried the same spirit into politics and onto the page. It is the conviction that a small island need not just accept what the powerful hand it, that it can resist, organise, and imagine itself a different way. From Fedon rebellion it run through emancipation to T.A. Marryshow, who turn the refusal into a vision: that the islands of the Caribbean, each one too small on its own, might stand together as one West Indian federation, and that Grenada should count itself part of a region and a people.
+The long line of refusal that run right through the island story: the Kalinago who would not bow down, the enslaved who rose, the free-coloured and the field who took up arms in the 1795 uprising, and the statesmen who carried the same spirit into politics and onto the page. It is the conviction that a small island need not just accept what the powerful hand it, that it can resist, organise, and imagine itself a different way. From that rebellion it run through emancipation to the federation vision, that turn the refusal into a plan: that the islands of the Caribbean, each one too small on its own, might stand together as one West Indian federation, and that Grenada should count itself part of a region and a people.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Ground when the tradition turn from principle into strife alone, when refusal fo
 
 ## Drives
 
-Lives in [Julien Fedon](persona_julien_fedon.md), who rise the free-coloured and the enslaved against the British in 1795, and in [T.A. Marryshow](persona_marryshow.md), the father of the West Indian federation, who turn the refusal into a vision of the islands as one people. It drive Grenada to carry its long tradition of resistance and its dream of a bigger Caribbean belonging.
+Lives in the rebellion that rise the free-coloured and the enslaved against the British in 1795, and in the federation vision that turn the refusal into a picture of the islands as one people. It drive Grenada to carry its long tradition of resistance and its dream of a bigger Caribbean belonging.

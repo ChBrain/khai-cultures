@@ -34,4 +34,4 @@ Pierde terreno cuando la alegría se lee como prueba de que todo bien, gracias a
 
 ## Drives
 
-Vive en [Shakira](persona_shakira.md), la artista de Barranquilla que le llevó el ritmo y la alegría de su país al mundo entero y lo puso a bailar. Empuja a Colombia a enfrentar la penuria con música y al mundo con una calidez abierta y bailadora, y a guardar, a través de todo, la convicción de que la vida se goza en buena compañía sin importar lo que haya costado.
+Vive en el ritmo que salió de Barranquilla y le llevó la alegría del país al mundo entero y lo puso a bailar. Empuja a Colombia a enfrentar la penuria con música y al mundo con una calidez abierta y bailadora, y a guardar, a través de todo, la convicción de que la vida se goza en buena compañía sin importar lo que haya costado.

@@ -34,4 +34,4 @@ Ground when the divide is worked rather than healed - when the line between the 
 
 ## Drives
 
-Lives in [Cheddi Jagan](persona_cheddi_jagan.md), who championed the working people and the Indo-Guyanese and led the colony toward self-rule even as the divide hardened, and in [Walter Rodney](persona_walter_rodney.md), who sought to bridge the line between the peoples and call them to a common cause. It drives Guyana to keep measuring itself against its own motto and to keep working to make the many one.
+Lives in the leader who championed the working people and the Indo-Guyanese and led the colony toward self-rule even as the divide hardened, and in the scholar who sought to bridge the line between the peoples and call them to a common cause. It drives Guyana to keep measuring itself against its own motto and to keep working to make the many one.
