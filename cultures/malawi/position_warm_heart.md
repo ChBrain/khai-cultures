@@ -34,4 +34,4 @@ Ground when the gentleness is leaned on too hard and becomes a deference that sw
 
 ## Drives
 
-Lives in [Wambali Mkandawire](persona_wambali.md), who carried the warmth of the lakeshore out into the world in song and home again to every Malawian far from the lake. It drives Malawi to greet first and feed first, to hold the head high in a poor country, and to keep the heart open against every hard year, because the welcome is the one thing no map can take away.
+Lives in the musician who carried the warmth of the lakeshore out into the world in song and home again to every Malawian far from the lake. It drives Malawi to greet first and feed first, to hold the head high in a poor country, and to keep the heart open against every hard year, because the welcome is the one thing no map can take away.

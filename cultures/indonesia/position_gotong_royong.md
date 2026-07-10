@@ -34,4 +34,4 @@ Tanah ketika gotong royong luntur menjadi sekadar kata dalam pidato, ketika kota
 
 ## Drives
 
-Hidup dalam [Mohammad Hatta](persona_hatta.md), yang membangun republik di atas koperasi dan kerja bersama rakyat, dan dalam [Petani](persona_petani.md), yang menggarap sawah bersama kampungnya dari tanam sampai panen. Gotong royong mendorong Indonesia untuk memikul beban dan membagi rezeki sebagai satu bangsa.
+Hidup dalam para negarawan yang membangun republik di atas koperasi dan kerja bersama rakyat, dan dalam petani, yang menggarap sawah bersama kampungnya dari tanam sampai panen. Gotong royong mendorong Indonesia untuk memikul beban dan membagi rezeki sebagai satu bangsa.

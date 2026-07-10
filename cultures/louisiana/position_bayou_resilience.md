@@ -34,4 +34,4 @@ Its balance when self-reliance leads to suspicion of necessary state-wide flood 
 
 ## Drives
 
-Encourages the self-reliance in the plot [The Great Mississippi Flood 1927](plot_03_mississippi_flood.md) and guides the swamp boat operations of [Jean](persona_jean.md).
+Encourages the self-reliance in the plot [The Great Mississippi Flood 1927](plot_03_mississippi_flood.md) and guides the swamp boat operations of those who navigate the bayou.

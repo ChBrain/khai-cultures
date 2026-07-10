@@ -34,4 +34,4 @@ E kabuaa korakorana ngkana e taku te aonnaba bwa e tabe ke e aki te kangaanga ae
 
 ## Drives
 
-E maeka i nanon [Anote Tong](persona_anote_tong.md), are e karaoa te babaire n "te mwaing ma te karinerine" ao e taekina te kangaanga ae e roko nakon te aonnaba ni kabutaa. E kaira Kiribati bwa e na katauraoia ibukin te taari ae e a rake, ao bwa e na kawakina te katei ma te taetae e ngae ngke e a kerikaki te aba.
+E maeka i nanon te Beretitenti, are e karaoa te babaire n "te mwaing ma te karinerine" ao e taekina te kangaanga ae e roko nakon te aonnaba ni kabutaa. E kaira Kiribati bwa e na katauraoia ibukin te taari ae e a rake, ao bwa e na kawakina te katei ma te taetae e ngae ngke e a kerikaki te aba.

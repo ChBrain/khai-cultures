@@ -34,4 +34,4 @@ Its balance when excessive real-estate development restricts public trail access
 
 ## Drives
 
-Guides the resort planning in the plot [Sun Valley Resort Opening 1936](plot_03_sun_valley.md) and drives the mountain safety work of [Sacajawea](persona_sacajawea_id.md).
+Guides the resort planning in the plot [Sun Valley Resort Opening 1936](plot_03_sun_valley.md) and drives the mountain safety work of tribal land stewards and conservation coordinators.

@@ -34,4 +34,4 @@ Du terrain quand la débrouille tourne au système D sans foi ni loi, au chacun-
 
 ## Drives
 
-Vit dans [la tantie du maquis](persona_la_tantie.md), qui nourrit le quartier avec rien et fait crédit à qui a faim, transformant la débrouille en art de vivre ensemble. Il pousse la Côte d'Ivoire à garder son génie de l'arrangement et son moral malgré tout, et à se rappeler qu'on ne se débrouille vraiment qu'à plusieurs.
+Vit dans la tantie du maquis qui nourrit le quartier avec rien et fait crédit à qui a faim, transformant la débrouille en art de vivre ensemble. Il pousse la Côte d'Ivoire à garder son génie de l'arrangement et son moral malgré tout, et à se rappeler qu'on ne se débrouille vraiment qu'à plusieurs.

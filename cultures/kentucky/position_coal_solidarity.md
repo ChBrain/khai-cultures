@@ -34,4 +34,4 @@ Its balance when mine closures displace entire valley populations, fracturing tr
 
 ## Drives
 
-Guides the local community organizing in the plot [The Coal Mining Boom 1910](plot_03_coal_boom.md) and drives the archiving work of [Silas](persona_silas.md).
+Guides the local community organizing in the plot [The Coal Mining Boom 1910](plot_03_coal_boom.md) and drives the archiving work kept by the coalfield's own miners.

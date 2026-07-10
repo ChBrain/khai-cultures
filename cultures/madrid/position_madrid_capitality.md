@@ -34,4 +34,4 @@ Su equilibrio cuando las comunidades históricas periféricas exigen cupos fisca
 
 ## Drives
 
-Guía el desarrollo institucional en el relato [La Elección de la Corte 1561](plot_01_capitality.md) y orienta la labor funcionarial de [Felipe](persona_felipe.md).
+Guía el desarrollo institucional en el relato [La Elección de la Corte 1561](plot_01_capitality.md) y orienta la labor de los funcionarios del Estado.

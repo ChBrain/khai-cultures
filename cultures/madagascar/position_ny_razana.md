@@ -34,4 +34,4 @@ Very hery rehefa ny fanajana ny taloha lasa fanakanana ny vaovao, rehefa ny adid
 
 ## Drives
 
-Velona ao amin'i [Rakotozafy](persona_rakotozafy.md), izay nampaneno ny valiha ho feon'ny razana sy ny tany, ary ao amin'i [Ramboa](persona_ramboa.md), ilay mpamboly vary izay miasa ny tanin-drazana sy mitazona ny fasana. Manosika an'i Madagasikara hitazona ny taloha ho velona ao am-po, ka ny olombelona velona dia tsy tapaka amin'izay efa nandalo.
+Velona ao amin'ny mpitendry valiha izay nampaneno ny valiha ho feon'ny razana sy ny tany, ary amin'ny mpamboly vary izay miasa ny tanin-drazana sy mitazona ny fasana. Manosika an'i Madagasikara hitazona ny taloha ho velona ao am-po, ka ny olombelona velona dia tsy tapaka amin'izay efa nandalo.

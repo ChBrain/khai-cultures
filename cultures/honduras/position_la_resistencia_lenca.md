@@ -34,4 +34,4 @@ Terreno cuando esa raiz se vuelve solo postal y nombre de moneda, recordada en l
 
 ## Drives
 
-Vive en [Lempira](persona_lempira.md), el cacique lenca que levanto a su gente contra la conquista en defensa de su tierra, y que el pais puso despues en su moneda como simbolo de lo que no se entrega. Empuja a Honduras a mirarse en su raiz indigena y a sostener, frente a quien la quiso amasar desde fuera, que tiene un fondo propio y anterior.
+Vive en el cacique lenca que levanto a su gente contra la conquista en defensa de su tierra, y que el pais puso despues en su moneda como simbolo de lo que no se entrega. Empuja a Honduras a mirarse en su raiz indigena y a sostener, frente a quien la quiso amasar desde fuera, que tiene un fondo propio y anterior.

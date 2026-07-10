@@ -34,4 +34,4 @@ An Attraktivität, wenn internationaler Druck das Stiftungsrecht einschränkt od
 
 ## Drives
 
-Begründet die berufliche Identität von [Katharina](persona_katharina.md) und prägt die moderne wirtschaftliche Orientierung im Plot [Das wirtschaftliche Wunder nach 1945](plot_03_wirtschaftswunder.md).
+Begründet die berufliche Identität derer, die im Treuhand- und Stiftungswesen arbeiten, und prägt die moderne wirtschaftliche Orientierung im Plot [Das wirtschaftliche Wunder nach 1945](plot_03_wirtschaftswunder.md).

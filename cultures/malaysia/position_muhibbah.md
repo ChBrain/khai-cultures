@@ -34,4 +34,4 @@ Tergugat apabila muhibbah dianggap sudah pasti dan tidak lagi dipupuk, atau apab
 
 ## Drives
 
-Hidup dalam [Tunku Abdul Rahman](persona_tunku.md), Bapa Kemerdekaan yang membawa kaum-kaum berunding bersama menuju Merdeka dan meletakkan muhibbah sebagai tonggak negara yang baharu. Ia mendorong Malaysia untuk terus menjadi satu bangsa daripada yang berbilang.
+Hidup dalam Bapa Kemerdekaan yang membawa kaum-kaum berunding bersama menuju Merdeka dan meletakkan muhibbah sebagai tonggak negara yang baharu. Ia mendorong Malaysia untuk terus menjadi satu bangsa daripada yang berbilang.

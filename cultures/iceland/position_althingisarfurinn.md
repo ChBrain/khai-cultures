@@ -34,4 +34,4 @@ Virðingu þegar þingið verður að vettvangi flokkadrátta og valdabralls í 
 
 ## Drives
 
-Hann nær frá stofnun Alþingis [árið 930](plot_01_althingi_930.md) og [kristnitökunni árið 1000](plot_02_kristnitakan_1000.md), gegnum [Snorra Sturluson](persona_snorri.md) lögsögumann, til [Jóns Sigurðssonar](persona_jon_sigurdsson.md), sem endurreisti þingið sem vettvang sjálfstæðrar þjóðar.
+Hann nær frá stofnun Alþingis [árið 930](plot_01_althingi_930.md) og [kristnitökunni árið 1000](plot_02_kristnitakan_1000.md), gegnum miðaldalögsögumenn sem festu sögu og lög þjóðarinnar á bók, til sjálfstæðisleiðtoganna sem endurreistu þingið sem vettvang sjálfstæðrar þjóðar.

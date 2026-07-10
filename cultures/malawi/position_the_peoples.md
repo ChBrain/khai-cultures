@@ -34,4 +34,4 @@ Ground when the north and the south are set against each other, when the share o
 
 ## Drives
 
-Lives in [John Chilembwe](persona_chilembwe.md), the southern pastor who said first and plainly that his people were no one's lesser, and in [Jack Mapanje](persona_mapanje.md), who carried the proverbs of the village into the world's tongue and proved a Malawian voice could be heard anywhere. It drives Malawi to hold its many peoples and many tongues in one house, north and south in equal honour, as the truest wealth a poor and various country can keep.
+Lives in the southern pastor who said first and plainly that his people were no one's lesser, and in the poet who carried the proverbs of the village into the world's tongue and proved a Malawian voice could be heard anywhere. It drives Malawi to hold its many peoples and many tongues in one house, north and south in equal honour, as the truest wealth a poor and various country can keep.

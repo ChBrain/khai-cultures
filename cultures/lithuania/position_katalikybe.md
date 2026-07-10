@@ -34,4 +34,4 @@ Kad tikėjimas, parapija ir šventės yra pirmoje vietoje, kad laikomasi apeigų
 
 ## Drives
 
-Gyvena [Onoje](persona_ona.md), kuri išlaikė tikėjimą ir kryžių sveiką, kai Sibiras ir sovietai norėjo atimti abu, ir tyliame kaimo žmonių pamaldume. Varo Lietuvą ieškoti tikėjime atramos ir saito, kurio pasaulietinė valdžia tautai per šimtmečius niekada nedavė.
+Gyvena tremtinės tikėjime, kuris išliko sveikas kartu su kryžiumi, kai Sibiras ir sovietai norėjo atimti abu, ir tyliame kaimo žmonių pamaldume. Varo Lietuvą ieškoti tikėjime atramos ir saito, kurio pasaulietinė valdžia tautai per šimtmečius niekada nedavė.

@@ -34,4 +34,4 @@ L'aisance d'être grand : il faut sans cesse prouver son utilité, se rendre ind
 
 ## Drives
 
-Elle vit dans [Jean l'Aveugle](persona_jean_l_aveugle.md), le comte d'un carrefour qui se voulait roi, et elle pousse le Luxembourg à tenir à son nom, à sa langue et à son existence avec d'autant plus d'entêtement qu'ils tiennent à peu de chose.
+Elle vit dans le comte d'un carrefour qui se voulait roi, et elle pousse le Luxembourg à tenir à son nom, à sa langue et à son existence avec d'autant plus d'entêtement qu'ils tiennent à peu de chose.

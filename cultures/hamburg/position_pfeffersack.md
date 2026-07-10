@@ -34,4 +34,4 @@ An Glaubwürdigkeit, wenn reines Spekulantentum über die ehrbare kaufmännische
 
 ## Drives
 
-Lenkt die geschäftlichen Entscheidungen von [Helmut](persona_helmut.md) und prägt die Entwicklung im Plot [Der Bau der Speicherstadt 1888](plot_02_speicherstadt_1888.md).
+Lenkt die geschäftlichen Entscheidungen der hanseatischen Kaufleute und prägt die Entwicklung im Plot [Der Bau der Speicherstadt 1888](plot_02_speicherstadt_1888.md).

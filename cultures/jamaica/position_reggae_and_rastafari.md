@@ -34,4 +34,4 @@ Ground when the faith and the sound are stripped of their root and sold as a hol
 
 ## Drives
 
-Lives in [Bob Marley](persona_bob_marley.md), the reggae prophet who carried the island and its message to every corner of the earth, and in [the Rastaman](persona_the_rastaman.md), the keeper of the livity and the faith from which the music grew. It drives Jamaica to know its reach lies in its voice, and to carry that voice to the world as the small island that taught the earth to sing for the downpressed.
+Lives in the reggae prophet who carried the island and its message to every corner of the earth, and in the Rastaman, the keeper of the livity and the faith from which the music grew. It drives Jamaica to know its reach lies in its voice, and to carry that voice to the world as the small island that taught the earth to sing for the downpressed.

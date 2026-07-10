@@ -34,4 +34,4 @@ Its balance when commercial racing costs limit local garage participation, restr
 
 ## Drives
 
-Guides the speedway operations in the plot [The Indianapolis 500 Inauguration 1911](plot_02_indy_500.md) and drives the engineering work of [Ray](persona_ray.md).
+Guides the speedway operations in the plot [The Indianapolis 500 Inauguration 1911](plot_02_indy_500.md) and drives the engineering work of race crews and mechanics.

@@ -34,4 +34,4 @@ Bo lahleheloa ke matla ha borena bo lebala hore ke ba sechaba 'me bo fetoha ba m
 
 ## Drives
 
-Bo phela ho [Moshoeshoe oa Pele](persona_moshoeshoe_i.md), ea thehileng sechaba ka ho bokella ba hasaneng le ka ho ba sireletsa, le ho [Moshoeshoe oa Bobeli](persona_moshoeshoe_ii.md), ea emetseng borena ha naha e ema hape e ikemetse. Bo susumetsa Lesotho ho boloka kopano ea sechaba sa eona ka borena bo emetseng bohle, hore Basotho ba lule e le motho a le mong.
+Bo phela ho mothehi oa sechaba, ea thehileng sechaba ka ho bokella ba hasaneng le ka ho ba sireletsa, le ho morena, ea emetseng borena ha naha e ema hape e ikemetse. Bo susumetsa Lesotho ho boloka kopano ea sechaba sa eona ka borena bo emetseng bohle, hore Basotho ba lule e le motho a le mong.

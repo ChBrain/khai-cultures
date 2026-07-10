@@ -34,4 +34,4 @@ Its balance when deep-well groundwater pumping depletes regional aquifers, causi
 
 ## Drives
 
-Guides the irrigation projects in the plot [Potato Irrigation Boom 1900](plot_02_potato_irrigation.md) and drives the water audits of [Taylor](persona_taylor.md).
+Guides the irrigation projects in the plot [Potato Irrigation Boom 1900](plot_02_potato_irrigation.md) and drives the water audits of quality technicians and canal engineers.

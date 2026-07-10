@@ -34,4 +34,4 @@ Land þar sem bjartsýnin verður að andvaraleysi og menn vanrækja að búa si
 
 ## Drives
 
-Það ber [Guðrúnu](persona_gudrun.md), sem vísar áhyggjum frá sér með því að segja að þetta reddist, og það er hversdagsleg birtingarmynd þeirrar þrautseigju sem hélt þjóðinni á lífi gegnum aldirnar.
+Það ber þá sem vísa áhyggjum frá sér með því að segja að þetta reddist, og það er hversdagsleg birtingarmynd þeirrar þrautseigju sem hélt þjóðinni á lífi gegnum aldirnar.

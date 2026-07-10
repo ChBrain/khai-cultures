@@ -34,4 +34,4 @@ Ground when the indigenous institutions are looked down on as backward by those 
 
 ## Drives
 
-Lives in [Momolu Duwalu Bukele](persona_bukele.md), the Vai man whose script set his people's deep tongue into writing of their own, and in [the market woman](persona_market_woman.md), the daughter of the soil who carries the everyday wisdom and warmth of the older heritage to the city. It drives Liberia to honour the societies, the elders, and the deep law of the country side as a full and equal part of the one nation.
+Lives in the script that a Vai inventor set down to give his people's deep tongue writing of their own, and in the market woman, the daughter of the soil who carries the everyday wisdom and warmth of the older heritage to the city. It drives Liberia to honour the societies, the elders, and the deep law of the country side as a full and equal part of the one nation.
