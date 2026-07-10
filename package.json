@@ -40,14 +40,19 @@
     ],
     "languages": [
       "am",
+      "arn",
       "crs",
+      "cu",
       "div",
       "dzo",
       "en",
       "fr",
       "gil",
+      "jv",
       "kl",
+      "lzh",
       "mfe",
+      "nah",
       "nau",
       "nds",
       "pt",
@@ -61,7 +66,8 @@
       "tet",
       "ti",
       "tn",
-      "tvl"
+      "tvl",
+      "yua"
     ],
     "card": {
       "wire": "The Cultures house: a collection of khai cultures."
@@ -71,7 +77,7 @@
     "test": "vitest run --test-timeout=30000",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version && npx khai-tests registry build",
+    "version": "changeset version && npx khai-tests registry build && npx prettier --write registry.json",
     "release": "changeset publish",
     "registry": "npx khai-tests registry build"
   },
