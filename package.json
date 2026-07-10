@@ -40,14 +40,19 @@
     ],
     "languages": [
       "am",
+      "arn",
       "crs",
+      "cu",
       "div",
       "dzo",
       "en",
       "fr",
       "gil",
+      "jv",
       "kl",
+      "lzh",
       "mfe",
+      "nah",
       "nau",
       "nds",
       "pt",
@@ -61,7 +66,8 @@
       "tet",
       "ti",
       "tn",
-      "tvl"
+      "tvl",
+      "yua"
     ],
     "card": {
       "wire": "The Cultures house: a collection of khai cultures."
