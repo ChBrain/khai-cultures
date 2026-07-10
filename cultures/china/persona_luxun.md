@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-近代的文学家与思想者，绍兴人，本欲学医救人，后弃医从文，以为疗治国民的精神比疗治身体更急。冷峻而深情，"横眉冷对千夫指，俯首甘为孺子牛"：他以一支笔解剖时弊、叩问国民之魂，写下了中国第一篇白话小说，开一代新文风。他自幼浸于旧学，出入经史而又回过头来叩问经史，[以母语而思](process_thinking_mother_tongue.md)、[以母语而言](process_speaking_mother_tongue.md)，那母语是这个文明共用的[汉语](position_language_zh_cn.md)；他舍弃了士人千年所习的文言，改[以白话写作](process_writing_drafted.md)，要让寻常百姓都读得懂。他通日文、习德文，[读西方的书而追随其思](process_reading_followed.md)，把外来的新思想[借来为我所用](process_speaking_borrowed.md)。然而他笔下最深的悲，是说了也无人听：那"铁屋子"里熟睡的人，纵然被他唤醒，又能往哪里去？他写得越是清醒透彻，越觉出唤人之难，这便是他笔下那道横在舌尖尽头、呐喊也未必能穿透的鸿沟。
+近代的文学家与思想者，绍兴人，本欲学医救人，后弃医从文，以为疗治国民的精神比疗治身体更急。冷峻而深情，"横眉冷对千夫指，俯首甘为孺子牛"：他以一支笔解剖时弊、叩问国民之魂，写下了中国第一篇白话小说，开一代新文风。他自幼浸于旧学，出入经史而又回过头来叩问经史，[以母语而思](process_thinking_mother_tongue.md)、[以母语而言](process_speaking_mother_tongue.md)，那母语是这个文明共用的[汉语](position_language_zh_cn.md)；他舍弃了士人千年所习的文言，改[以白话写作](process_writing_drafted.md)，要让寻常百姓都读得懂。他通[日文](../japan/position_language_ja.md)、习[德文](../germany/position_language_de_de.md)，[读西方的书而追随其思](process_reading_followed.md)，把外来的新思想[借来为我所用](process_speaking_borrowed.md)。然而他笔下最深的悲，是说了也无人听：那"铁屋子"里熟睡的人，纵然被他唤醒，又能往哪里去？他写得越是清醒透彻，越觉出唤人之难，这便是他笔下那道横在舌尖尽头、呐喊也未必能穿透的鸿沟。
 
 ## Action
 
