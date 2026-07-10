@@ -46,6 +46,7 @@ Ein wasserreiches Küstenland an der Ostsee, geprägt von der ruhigen Mecklenbur
 - [der Küstenstolz](position_kuestenstolz.md)
 - [die Hanseatische Tradition](position_hanseatisch.md)
 - [die Seenruhe](position_seenruhe.md)
+- [das mecklenburgisch-vorpommersche Hochdeutsch](position_language_de_de_mv.md)
 
 **Pieces**
 

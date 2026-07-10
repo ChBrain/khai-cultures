@@ -29,7 +29,7 @@ To keep English the lingua franca of the world, the language of trade, science, 
 
 - To the British Council and the institutions: teach and spread English as soft power and as a national export.
 - To the nation: trade on the advantage of speaking the world's own language from birth.
-- To itself: accept that the world's English is no longer the [King's English](position_the_kings_english.md), and never will be again.
+- To itself: accept that the world's English is no longer the [King's English](position_language_en_gb_eng.md), and never will be again.
 
 ## Implementation
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old wilderness guide in the Boundary Waters. English, spoken with a slow, flat midwestern drawl, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily safety briefings. He speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented talk of urban engineers like Samantha and the digital planning of Twin Cities medical alley boards [he reads only as administrative metrics](process_reading_followed.md) on his weather tablet, feeling that the patient, season-dependent rhythm of the wilderness is being forgotten in the race for technological modernization.
+A forty-two-year-old wilderness guide in the Boundary Waters. English, spoken with a slow, flat midwestern drawl, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily safety briefings. It is the [Minnesotan English](position_language_en_us_mn.md) of the Boundary Waters outfitter, the slow, flat drawl of the Northwoods. He speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented talk of urban engineers like Samantha and the digital planning of Twin Cities medical alley boards [he reads only as administrative metrics](process_reading_followed.md) on his weather tablet, feeling that the patient, season-dependent rhythm of the wilderness is being forgotten in the race for technological modernization.
 
 ## Action
 

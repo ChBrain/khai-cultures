@@ -46,6 +46,7 @@ Das historische Herzstück deutscher Industrialisierung und Maschinenbaukunst. E
 - [der Erfindergeist](position_erfindergeist.md)
 - [der Barockstolz](position_barockstolz.md)
 - [der Bürgerprotest](position_buergerprotest.md)
+- [das sächsische Deutsch](position_language_de_de_sn.md)
 
 **Pieces**
 

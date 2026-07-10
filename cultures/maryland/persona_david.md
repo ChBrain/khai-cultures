@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-six-year-old vaccine scientist in Baltimore. English, spoken with an articulate, fast-paced academic cadence, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his research reports. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent water talk of crabbers like Ann and the traditional water quality histories of the Eastern Shore [he hears only like a distant echo](process_hearing_followed.md), feeling that the physical legacy of the estuary is treated as a secondary constraint in the race for technological medical breakthroughs.
+A thirty-six-year-old vaccine scientist in Baltimore. English, spoken with an articulate, fast-paced academic cadence, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his research reports. What he speaks is [Maryland English](position_language_en_us_md.md), the quick urban register of the Baltimore research corridor. He speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent water talk of crabbers like Ann and the traditional water quality histories of the Eastern Shore [he hears only like a distant echo](process_hearing_followed.md), feeling that the physical legacy of the estuary is treated as a secondary constraint in the race for technological medical breakthroughs.
 
 ## Action
 

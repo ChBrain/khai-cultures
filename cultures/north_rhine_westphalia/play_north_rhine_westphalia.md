@@ -46,6 +46,7 @@ Das bevölkerungsreichste Bundesland Deutschlands, das 1946 durch die britische 
 - [die Kumpelmentalität](position_kumpelmentalitaet.md)
 - [der Strukturwandel](position_strukturwandel.md)
 - [der rheinische Frohsinn](position_rheinisches_leben.md)
+- [das nordrhein-westfälische Hochdeutsch](position_language_de_de_nw.md)
 
 **Pieces**
 

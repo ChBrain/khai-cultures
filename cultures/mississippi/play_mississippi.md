@@ -46,6 +46,7 @@ A land of musical heritage and civil rights struggle, defined by the fertile sil
 
 - [blues legacy](position_blues_legacy.md)
 - [civil rights solidarity](position_civil_rights_solidarity.md)
+- [Mississippian English](position_language_en_us_ms.md)
 
 **Pieces**
 

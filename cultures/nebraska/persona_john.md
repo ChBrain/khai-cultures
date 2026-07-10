@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old rancher in the Sandhills. English, spoken with a prairie cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily ranching operations. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of forestry conservationists like Helen and the quiet history of [prairie forestry](position_prairie_forestry.md) [he reads only as regional agriculture updates](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of early windbreak tree planting is being forgotten in the race for high-volume cattle production.
+A thirty-eight-year-old rancher in the Sandhills. English, spoken with a prairie cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily ranching operations. It is the [Nebraskan English](position_language_en_us_ne.md) of the Sandhills ranch, the even prairie cadence of the cattle country. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of forestry conservationists like Helen and the quiet history of [prairie forestry](position_prairie_forestry.md) [he reads only as regional agriculture updates](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of early windbreak tree planting is being forgotten in the race for high-volume cattle production.
 
 ## Action
 

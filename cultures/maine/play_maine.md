@@ -46,6 +46,7 @@ A land of maritime heritage and forestry self-reliance, defined by the rocky coa
 
 - [coastal stewardship](position_coastal_stewardship.md)
 - [forest independence](position_forest_independence.md)
+- [Maine English](position_language_en_us_me.md)
 
 **Pieces**
 

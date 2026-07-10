@@ -46,6 +46,7 @@ Eine geschichtsträchtige Region, die nach dem Zweiten Weltkrieg aus ehemals bay
 - [das demokratische Erbe](position_demokratisches_erbe.md)
 - [der Winzerstolz](position_winzerstolz.md)
 - [die Antike](position_antike.md)
+- [das rheinland-pfälzische Hochdeutsch](position_language_de_de_rp.md)
 
 **Pieces**
 

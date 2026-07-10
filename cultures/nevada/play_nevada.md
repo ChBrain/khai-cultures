@@ -46,6 +46,7 @@ A land of entertainment speculation and desert innovation, defined by the dry va
 
 - [desert chance](position_desert_chance.md)
 - [basin resilience](position_basin_resilience.md)
+- [Nevadan English](position_language_en_us_nv.md)
 
 **Pieces**
 

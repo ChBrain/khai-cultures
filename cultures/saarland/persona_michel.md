@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein pensionierter saarländischer Stahlarbeiter von zweiundsiebzig Jahren, der jahrzehntelang an den Hochöfen der Dillinger Hütte gearbeitet hat. Deutsch, stark geprägt von der saarländischen Mundart, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat und der Nachbarschaft. Er spricht keine Fremdsprachen und schätzt die gemütliche Runde am Grill. Doch der Verlust liegt in der Naht: Die modernen, englischsprachigen Bezeichnungen der neuen Technologieunternehmen und die französischen EU-Verwaltungsverfahren [liest er nur mit stillem Vorbehalt](process_reading_followed.md), da ihm der vertraute Zusammenhalt der alten Industriezeit fehlt.
+Ein pensionierter saarländischer Stahlarbeiter von zweiundsiebzig Jahren, der jahrzehntelang an den Hochöfen der Dillinger Hütte gearbeitet hat. Deutsch, stark geprägt von der saarländischen Mundart, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat und der Nachbarschaft. Es ist das [saarländische Hochdeutsch](position_language_de_de_sl.md), stark von der saarländischen Mundart geprägt, der Grund, auf dem sein vertrauter Zusammenhalt ruht. Er spricht keine Fremdsprachen und schätzt die gemütliche Runde am Grill. Doch der Verlust liegt in der Naht: Die modernen, englischsprachigen Bezeichnungen der neuen Technologieunternehmen und die französischen EU-Verwaltungsverfahren [liest er nur mit stillem Vorbehalt](process_reading_followed.md), da ihm der vertraute Zusammenhalt der alten Industriezeit fehlt.
 
 ## Action
 

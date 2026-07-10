@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine zweiunddreißigjährige Meeresbiologin, die in Warnemünde arbeitet. Deutsch ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und Berichte verfasst. Englisch [trägt sie als übergezogen](process_speaking_worn.md) für die Veröffentlichung ihrer Forschungsergebnisse in Fachjournalen. Doch der Verlust liegt in der Naht: Das alte Seemannsgarn von Fischer Hinnerk und die Gemütlichkeit des Strandlebens [hört sie nur wie ein leises Echo](process_hearing_followed.md), wenn sie die komplexen Messwerte zur Überdüngung analysiert, während die historische Unbeschwertheit der Küste hinter der wissenschaftlichen Sorge verschwindet.
+Eine zweiunddreißigjährige Meeresbiologin, die in Warnemünde arbeitet. Deutsch ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und Berichte verfasst. Es ist das [mecklenburgisch-vorpommersche Hochdeutsch](position_language_de_de_mv.md), der ruhige Standard der Küste, an dem ihr wissenschaftliches Wort sein Mass hat. Englisch [trägt sie als übergezogen](process_speaking_worn.md) für die Veröffentlichung ihrer Forschungsergebnisse in Fachjournalen. Doch der Verlust liegt in der Naht: Das alte Seemannsgarn von Fischer Hinnerk und die Gemütlichkeit des Strandlebens [hört sie nur wie ein leises Echo](process_hearing_followed.md), wenn sie die komplexen Messwerte zur Überdüngung analysiert, während die historische Unbeschwertheit der Küste hinter der wissenschaftlichen Sorge verschwindet.
 
 ## Action
 
