@@ -50,6 +50,7 @@ stamp:
 - [البحر](position_the_sea.md)
 - [اللبان](position_frankincense.md)
 - [الإباضية](position_ibadi.md)
+- [العُمانية](position_culture_omani.md)
 - [العربية العُمانية](position_language_ar_om.md)
 
 **Pieces**

@@ -49,6 +49,7 @@ Et fattig utkantland av fjell og fjord, lenge styrt fra Danmark og siden i union
 - [allemannsretten](position_allemannsretten.md)
 - [Janteloven](position_janteloven.md)
 - [oljefondet](position_oljefondet.md)
+- [norsk kultur](position_culture_norsk_kultur.md)
 - [målstriden](position_language_no.md)
 
 **Pieces**
