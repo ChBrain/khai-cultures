@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الثقافة الكويتية](position_culture_thaqafa_alkuwaitiya.md)
 - [البحر](position_the_sea.md)
 - [الديوانية](position_majlis.md)
 - [الكرم](position_hospitality.md)

@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [ຄວາມເປັນລາວ](position_culture_khwam_pen_lao.md)
 - [ພະທຳ](position_the_dhamma.md)
 - [ລ້ານຊ້າງ](position_lan_xang.md)
 - [ບໍ່ເປັນຫຍັງ](position_bo_pen_nyang.md)

@@ -47,6 +47,7 @@ Zemnieku tauta, kas septiņus gadsimtus dzīvoja zem svešiem kungiem: vāciešu
 
 **Positions**
 
+- [latvietība](position_culture_latvietiba.md)
 - [latviešu valoda](position_language_lv.md)
 - [dziesma](position_dziesma.md)
 - [starp kaimiņiem](position_starp_kaiminiem.md)
