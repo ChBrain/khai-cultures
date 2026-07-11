@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-A conviccao de que Mocambique e feita de muitos povos que cabem na mesma terra em igual dignidade: os Makhuwa do norte, os Tsonga e os que falam changana e ronga no sul, os Sena e os do vale do Zambeze no centro, os Makonde da escultura, os Ndau de raiz shona, os Yao, os Chopi das timbila e tantos mais. Nenhum e o dono, nenhum e o hospede; cada um traz a sua lingua, a sua dança, a sua mascara, o seu tambor. A nacao nao se faz do sangue de um povo so, mas do acordo de muitos a partilhar o mesmo ceu, a mesma capulana e a mesma lingua de entendimento.
+A conviccao de que Mocambique e feita de muitos povos que cabem na mesma terra em igual dignidade: os Makhuwa do norte, os Tsonga e os que falam changana e ronga no sul, os Sena e os do vale do Zambeze no centro, os Makonde da escultura, os Ndau de raiz shona, os Yao, os Chopi das timbila e tantos mais. Nenhum e o dono, nenhum e o hospede; cada um traz a sua lingua, a sua dança, a sua mascara, o seu tambor. A nacao nao se faz do sangue de um povo so, mas do acordo de muitos a partilhar o mesmo ceu, a mesma capulana e [a mesma lingua de entendimento](position_language_pt_mz.md), a que corre do mar de [a costa do Indico](position_a_costa.md) ate a palavra de [a nacao dos poetas](position_a_nacao_dos_poetas.md) que a diz.
 
 ## Orders
 

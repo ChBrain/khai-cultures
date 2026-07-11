@@ -30,7 +30,7 @@ Os Makonde do norte talham o pau-preto nos seus ujamaa, a arvore da vida de corp
 
 ## Stage
 
-- [os muitos povos](position_os_muitos_povos.md): a conviccao de que cada povo traz a sua arte e que e nessa variedade que esta a riqueza da nacao.
+- [os muitos povos](position_culture_os_muitos_povos.md): a conviccao de que cada povo traz a sua arte e que e nessa variedade que esta a riqueza da nacao.
 - [a escultura makonde](piece_a_escultura_makonde.md): a talha em pau-preto, o ujamaa e o shetani, a face mais conhecida da arte do pais.
 - [a Ilha de Mocambique](place_ilha.md): o norte da costa de onde irradia a arte dos povos do litoral e do planalto.
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Une conseillère en gestion de fortune de trente-cinq ans, travaillant dans un cabinet de conseil prestigieux à Monte-Carlo. [Le français de Monaco](position_language_fr_mc.md) est sa langue maternelle, celle dans laquelle elle [parle](process_speaking_mother_tongue.md) et structure ses analyses patrimoniales. L'anglais [est par elle porté comme surajouté](process_speaking_worn.md) pour négocier quotidiennement avec des clients internationaux. Mais le déclin se cache dans la pliure : les récits de mer et les traditions portuaires d'Albert [ne sont par elle entendus que comme un écho lointain](process_hearing_followed.md), perdus dans le bourdonnement des marchés financiers et le luxe feutré des palaces monégasques.
+Une conseillère en gestion de fortune de trente-cinq ans, travaillant dans un cabinet de conseil prestigieux à Monte-Carlo. [Le français de Monaco](position_language_fr_mc.md) est sa langue maternelle, celle dans laquelle elle [parle](process_speaking_mother_tongue.md) et structure ses analyses patrimoniales. L'anglais [est par elle porté comme surajouté](process_speaking_worn.md) pour négocier quotidiennement avec des clients internationaux. Mais le déclin se cache dans la pliure : les récits de mer et les traditions portuaires d'Albert [ne sont par elle entendus que comme un écho lointain](process_hearing_followed.md), perdus dans le bourdonnement des marchés financiers et le luxe feutré des palaces monégasques. Elle appartient à [la monégasquité](position_culture_monegasquite.md) comme la conseillère qui perpétue, en costume de banquière, la ruse par laquelle la principauté a toujours su faire de sa petitesse une force.
 
 ## Action
 

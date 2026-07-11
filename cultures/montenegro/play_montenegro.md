@@ -49,7 +49,7 @@ Plemenski junački narod Crne planine, one visoravni koju Osmanlije nikad do kra
 
 - [junaštvo i čojstvo](position_junastvo_cojstvo.md)
 - [brđanski kamen](position_brdjanski_kamen.md)
-- [crnogorstvo](position_crnogorstvo.md)
+- [crnogorstvo](position_culture_crnogorstvo.md)
 - [crnogorski jezik](position_language_cnr.md)
 
 **Pieces**
@@ -77,12 +77,12 @@ Od 1830. do 1851. vlada [Njegoš](persona_njegos.md), vladika-pjesnik, koji u "G
 
 **[Plot 3: Kraljevina i 1918](plot_03_kraljevina_1918.md)**
 
-[Kralj Nikola](persona_kralj_nikola.md) digne 1910. Crnu Goru u kraljevstvo, a 1918. je proguta Srbija; iz sukoba Zelenaša i Bjelaša rodi se [crnogorstvo](position_crnogorstvo.md) kao pitanje, jesu li Crnogorci svoj narod ili Srbi.
+[Kralj Nikola](persona_kralj_nikola.md) digne 1910. Crnu Goru u kraljevstvo, a 1918. je proguta Srbija; iz sukoba Zelenaša i Bjelaša rodi se [crnogorstvo](position_culture_crnogorstvo.md) kao pitanje, jesu li Crnogorci svoj narod ili Srbi.
 
 **[Plot 4: Nezavisnost 2006](plot_04_nezavisnost_2006.md)**
 
-Godine 2006. referendumom (55,5 posto) Crna Gora vrati [crnogorstvo](position_crnogorstvo.md) u državu i sloboda se obnovi; ostaju sporovi oko jezika i crkve, a zemlja krene u NATO i ka Evropi.
+Godine 2006. referendumom (55,5 posto) Crna Gora vrati [crnogorstvo](position_culture_crnogorstvo.md) u državu i sloboda se obnovi; ostaju sporovi oko jezika i crkve, a zemlja krene u NATO i ka Evropi.
 
 ## Stakes
 
-Hoće li mala gorska nacija, koja je slobodu izvojevala na kamenu i junaštvo tempirala čojstvom, u svojoj obnovljenoj državi i u otvorenoj Evropi izrasti u jedan građanski narod, zaliječiti rascjep oko [imena jezika](position_crnogorstvo.md) i crkve, sačuvati [gorsku slobodu i kamen](position_brdjanski_kamen.md) i jadransku obalu kao žive korijene, i ostati svoja - tako blizu srpskom bratu da je sporna iznutra, a opet svoja.
+Hoće li mala gorska nacija, koja je slobodu izvojevala na kamenu i junaštvo tempirala čojstvom, u svojoj obnovljenoj državi i u otvorenoj Evropi izrasti u jedan građanski narod, zaliječiti rascjep oko [imena jezika](position_culture_crnogorstvo.md) i crkve, sačuvati [gorsku slobodu i kamen](position_brdjanski_kamen.md) i jadransku obalu kao žive korijene, i ostati svoja - tako blizu srpskom bratu da je sporna iznutra, a opet svoja.

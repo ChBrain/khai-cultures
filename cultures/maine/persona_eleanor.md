@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old forestry conservationist in Cape Elizabeth. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily patrol reports. What she speaks is [Maine English](position_language_en_us_me.md), the warm down east drawl in which her reports are written. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of boat captains like Arthur and the digital planning of harbor boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal forest stewardship is treated as secondary to corporate fisheries and coastal tourism.
+A fifty-two-year-old forestry conservationist in Cape Elizabeth. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily patrol reports. What she speaks is [Maine English](position_language_en_us_me.md), the warm down east drawl in which her reports are written. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of boat captains like Arthur and the digital planning of harbor boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal forest stewardship is treated as secondary to corporate fisheries and coastal tourism. She belongs to [the Pine Tree State](position_culture_pine_tree_state.md) as the forester who carries its interior half, reading the timber the way Arthur reads the harbor.
 
 ## Action
 

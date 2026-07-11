@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-O mandato aberto que Mocambique se deu a si mesma: fazer de [os muitos povos](position_os_muitos_povos.md) uma so nacao em igual dignidade, guardar a porta aberta de [a costa do Indico](position_a_costa.md) sem deixar que a riqueza do mar saia toda pelo porto, e manter viva [a nacao dos poetas](position_a_nacao_dos_poetas.md) que dobrou a lingua emprestada ate ela dizer a verdade do chão.
+O mandato aberto que Mocambique se deu a si mesma: fazer de [os muitos povos](position_culture_os_muitos_povos.md) uma so nacao em igual dignidade, guardar a porta aberta de [a costa do Indico](position_a_costa.md) sem deixar que a riqueza do mar saia toda pelo porto, e manter viva [a nacao dos poetas](position_a_nacao_dos_poetas.md) que dobrou a lingua emprestada ate ela dizer a verdade do chão.
 
 ## Owner
 

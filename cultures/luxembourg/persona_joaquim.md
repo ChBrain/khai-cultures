@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Um português do Luxemburgo, de uma comunidade que faz quase um sexto do país, vindo para trabalhar e ficado para criar os filhos. [Fala, ouve e pensa](process_speaking_mother_tongue.md) na sua língua materna, [o português de casa e do bairro](position_language_pt_lu.md). O francês do trabalho e da loja [carrega-o como ferramenta](process_speaking_carried.md), o luxemburguês que dá pertença [apanha-o aos poucos pelo ouvido](process_hearing_caught.md), e o alemão da escola e da rua mal o decifra. Aí está a fenda: chegou com uma língua a um país de quatro, e é ele quem sobe a custo os degraus que os filhos hão de falar de nascença.
+Um português do Luxemburgo, de uma comunidade que faz quase um sexto do país, vindo para trabalhar e ficado para criar os filhos. [Fala, ouve e pensa](process_speaking_mother_tongue.md) na sua língua materna, [o português de casa e do bairro](position_language_pt_lu.md). O francês do trabalho e da loja [carrega-o como ferramenta](process_speaking_carried.md), o luxemburguês que dá pertença [apanha-o aos poucos pelo ouvido](process_hearing_caught.md), e o alemão da escola e da rua mal o decifra. Aí está a fenda: chegou com uma língua a um país de quatro, e é ele quem sobe a custo os degraus que os filhos hão de falar de nascença. Ele entra pouco a pouco em [mir wëlle bleiwe wat mir sinn](position_culture_mir_welle_bleiwe.md), a vontade de durar de um país que o faz subir um degrau de cada vez antes de o contar de vez entre os seus.
 
 ## Action
 

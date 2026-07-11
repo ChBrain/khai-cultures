@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[os muitos povos](position_os_muitos_povos.md)
+[os muitos povos](position_culture_os_muitos_povos.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ O homem da viola que deu corpo a marrabenta, o som de Lourenco Marques que sai d
 
 ## Action
 
-Em [Maputo e a marrabenta](plot_04_maputo.md) da a [os muitos povos](position_os_muitos_povos.md) um som comum, fazendo da marrabenta a batida em que a cidade e o pais se reconhecem para alem do bairro e do povo de cada um. Ao por changana e guitarra na mesma cancao, faz musica da propria mistura que e Mocambique.
+Em [Maputo e a marrabenta](plot_04_maputo.md) da a [os muitos povos](position_culture_os_muitos_povos.md) um som comum, fazendo da marrabenta a batida em que a cidade e o pais se reconhecem para alem do bairro e do povo de cada um. Ao por changana e guitarra na mesma cancao, faz musica da propria mistura que e Mocambique.
 
 ## Shadow
 

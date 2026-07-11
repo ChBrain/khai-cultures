@@ -30,7 +30,7 @@ Na capital deitada sobre a baia, sob as acacias rubras das avenidas largas, junt
 
 ## Stage
 
-- [os muitos povos](position_os_muitos_povos.md): a conviccao de que a cidade junta as muitas terras do pais numa so casa em igual dignidade.
+- [os muitos povos](position_culture_os_muitos_povos.md): a conviccao de que a cidade junta as muitas terras do pais numa so casa em igual dignidade.
 - [Fany Pfumo](persona_fany_pfumo.md): o homem da viola que deu corpo a marrabenta e a cidade a sua batida.
 - [Maputo](place_maputo.md): a capital das acacias onde nasce o som da cidade e se faz, todos os dias, a nacao moderna.
 

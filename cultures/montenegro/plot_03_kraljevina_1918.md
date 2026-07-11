@@ -31,7 +31,7 @@ Krajem 1918. Podgorička skupština izglasa svrgnuće dinastije Petrović i bezu
 ## Stage
 
 - [Kralj Nikola](persona_kralj_nikola.md): posljednji vladar, koji goru digne u kraljevstvo i izgubi je 1918.
-- [crnogorstvo](position_crnogorstvo.md): pitanje crnogorske posebnosti rođeno iz unije i rascjepa.
+- [crnogorstvo](position_culture_crnogorstvo.md): pitanje crnogorske posebnosti rođeno iz unije i rascjepa.
 - [Cetinje](place_cetinje.md): stara prijestonica i dvor, srce države koja nestaje 1918.
 
 ## Tension

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Crnogorstvo, savremeno pitanje identiteta: jesu li Crnogorci poseban narod ili Srbi. Posebna nacija tako bliska srpskoj da je sporna iznutra, sa sopstvenom državom obnovljenom 2006, sa svojim jezikom (cnr) standardizovanim tek 2009. i sa sporom oko crkve, autokefalne crnogorske naspram Srpske pravoslavne. To je pitanje rođeno 1918, kad je kraljevina progutana, i podijelilo je narod na Zelenaše i Bjelaše, na one koji su sebe vidjeli kao Crnogorce i one kao Srbe.
+Crnogorstvo, savremeno pitanje identiteta: jesu li Crnogorci poseban narod ili Srbi. Posebna nacija tako bliska srpskoj da je sporna iznutra, sa sopstvenom državom obnovljenom 2006, sa [svojim jezikom](position_language_cnr.md) (cnr) standardizovanim tek 2009. i sa sporom oko crkve, autokefalne crnogorske naspram Srpske pravoslavne. To je pitanje rođeno 1918, kad je kraljevina progutana, i podijelilo je narod na Zelenaše i Bjelaše, na one koji su sebe vidjeli kao Crnogorce i one kao Srbe. Onaj ko je crnogorstvo, drži ga na istom [brđanskom kamenu](position_brdjanski_kamen.md) na kome se vjekovima branio, i mjeri ga istim kodeksom [junaštva i čojstva](position_junastvo_cojstvo.md) kojim se mjerio prije nego što je pitanje ko smo uopšte postavljeno.
 
 ## Orders
 

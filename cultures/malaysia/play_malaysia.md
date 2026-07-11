@@ -47,6 +47,7 @@ Negeri ini bermula sebagai sebuah pelabuhan. Pada abad kelima belas, Kesultanan 
 
 **Positions**
 
+- [kemalaysiaan](position_culture_kemalaysiaan.md)
 - [muhibbah](position_muhibbah.md)
 - [bahasa Melayu](position_language_ms_my.md)
 - [Islam dan kepelbagaian](position_islam.md)

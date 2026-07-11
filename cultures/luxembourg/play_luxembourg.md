@@ -50,7 +50,7 @@ Un État minuscule, longtemps une forteresse convoitée, qui a appris à survivr
 - [le français du Luxembourg](position_language_fr_lu.md)
 - [das Luxemburger Hochdeutsch](position_language_de_lu.md)
 - [o português do Luxemburgo](position_language_pt_lu.md)
-- [mir wëlle bleiwe wat mir sinn](position_mir_welle_bleiwe.md)
+- [mir wëlle bleiwe wat mir sinn](position_culture_mir_welle_bleiwe.md)
 - [la place financière](position_la_place_financiere.md)
 
 **Pieces**
@@ -70,7 +70,7 @@ Un État minuscule, longtemps une forteresse convoitée, qui a appris à survivr
 
 **[Plot 1 : Jean l'Aveugle et Crécy, 1346](plot_01_jean_l_aveugle.md)**
 
-[Jean l'Aveugle](persona_jean_l_aveugle.md) fait d'un comté de carrefour une légende et meurt à Crécy, léguant à un petit pays la [volonté de durer](position_mir_welle_bleiwe.md) plus que les moyens de le faire par la force.
+[Jean l'Aveugle](persona_jean_l_aveugle.md) fait d'un comté de carrefour une légende et meurt à Crécy, léguant à un petit pays la [volonté de durer](position_culture_mir_welle_bleiwe.md) plus que les moyens de le faire par la force.
 
 **[Plot 2 : L'indépendance, 1867](plot_02_independance_1867.md)**
 

@@ -31,7 +31,7 @@ Le traité de Londres de 1867 tranche : le Luxembourg est déclaré neutre et in
 ## Stage
 
 - [Luxembourg-Ville](place_luxembourg_ville.md): la forteresse que l'on démantèle et la capitale qui en naît.
-- [mir wëlle bleiwe wat mir sinn](position_mir_welle_bleiwe.md): la survie d'un État minuscule par la neutralité plutôt que par les armes.
+- [mir wëlle bleiwe wat mir sinn](position_culture_mir_welle_bleiwe.md): la survie d'un État minuscule par la neutralité plutôt que par les armes.
 
 ## Tension
 

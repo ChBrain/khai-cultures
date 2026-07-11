@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-The open mandate the country set itself the day it took its own name: to keep the welcome of [the Warm Heart](position_warm_heart.md) alive against every hard season, to hold [the many peoples](position_the_peoples.md) of north and south and every tongue in one house with none made a guest, and to keep [the Lake of Stars](position_lake_of_stars.md) and the fishing life it feeds alive as the waters thin and the people grow.
+The open mandate the country set itself the day it took its own name: to keep the welcome of [the Warm Heart](position_culture_the_warm_heart.md) alive against every hard season, to hold [the many peoples](position_the_peoples.md) of north and south and every tongue in one house with none made a guest, and to keep [the Lake of Stars](position_lake_of_stars.md) and the fishing life it feeds alive as the waters thin and the people grow.
 
 ## Owner
 

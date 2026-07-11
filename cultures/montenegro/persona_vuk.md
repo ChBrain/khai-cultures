@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[crnogorstvo](position_crnogorstvo.md)
+[crnogorstvo](position_culture_crnogorstvo.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Mlađi muškarac, dijete generacije 2006, koji ljeti radi u turizmu na primorju,
 
 ## Action
 
-Živi [crnogorstvo](position_crnogorstvo.md) i [biti svoj](plan_biti_svoj.md) kao svakodnevni izbor: ostati na obali ili otići, zvati jezik crnogorskim, držati nezavisnu državu kao svoju, i raditi na tome da Crna Gora bude zemlja povratka, a ne samo odlaska. Čini to između turizma, tuđine i pitanja ko su.
+Živi [crnogorstvo](position_culture_crnogorstvo.md) i [biti svoj](plan_biti_svoj.md) kao svakodnevni izbor: ostati na obali ili otići, zvati jezik crnogorskim, držati nezavisnu državu kao svoju, i raditi na tome da Crna Gora bude zemlja povratka, a ne samo odlaska. Čini to između turizma, tuđine i pitanja ko su.
 
 ## Shadow
 
