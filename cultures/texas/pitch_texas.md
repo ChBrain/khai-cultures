@@ -33,4 +33,4 @@ The absolute belief in Texan exceptionalism, the legacy of the Lone Star Republi
 
 ## Echo
 
-The sizzle of fat on hot oak coals and the low hum of wind across the dry scrublands : an echo that is wide, warm, and defiant.
+The sizzle of fat on hot oak coals meeting the low hum of wind across the dry scrublands: wide, warm, defiant - the sound Texas leaves behind.

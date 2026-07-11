@@ -23,7 +23,7 @@ West Virginia, the Mountain State in the South Atlantic region of the United Sta
 
 ## Arc
 
-A land of resource extraction and union labor resilience, defined by the steep mountain gaps of the Appalachians. From the breakaway statehood of the Civil War and the massive labor uprising of the Battle of Blair Mountain, to the outdoor rafting expansion of the New River Gorge. A culture that balances the mountain sovereignty of its coal mining communities with the wilderness stewardship of its river gorges, even as it plans the reclamation of the Kanawha River.
+West Virginia remembers its labor fights the way a family remembers a hard winter, passed down rather than merely recorded. The breakaway statehood of the Civil War and the massive labor uprising at Blair Mountain, then the outdoor rafting economy the New River Gorge built on top of the old coal seams, mark the memory in stages. Mountain sovereignty in the coal mining communities and wilderness stewardship along the river gorges keep working the same steep ground, even as the state plans the reclamation of the Kanawha River.
 
 ## Company
 
@@ -78,4 +78,4 @@ Congress establishes the national river corridor, launching the regional white-w
 
 ## Stakes
 
-Whether a mountain state experiencing industrial chemical runoff can successfully execute water reclamation plans to protect river quality.
+Whether a mountain state living with industrial chemical runoff can actually carry out its water reclamation plans and keep the rivers fit to use.

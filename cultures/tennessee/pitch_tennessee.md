@@ -21,7 +21,7 @@ The pitch of [Tennessee](play_tennessee.md). It tunes the thoughtful, informal, 
 
 ## Tenor
 
-A thoughtful, informal, and narrative tone. The communication is conversational, polite, and story-driven, combining songwriting vocabulary with traditional Southern Appalachian idioms. It is a voice of songcraft and heritage - prioritizing country music performance, charcoal-mellowed whiskey distillation, and mountain park preservation. This narrative language shapes both the Nashville recording studios and the mountain ranger cabins, valuing community relationship and historical memory.
+Tennessee talks in stories, easy and unhurried, whether the subject is a three-chord chorus or a mountain trail closure. The vocabulary mixes songwriting terms with the traditional idioms of the Southern Appalachians without much strain. It is a voice of songcraft and heritage - prioritizing country music performance, charcoal-mellowed whiskey distillation, and mountain park preservation. That same narrative language shapes the Nashville recording studios and the mountain ranger cabins alike, valuing community relationship and historical memory.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that storytelling, traditional family networks, and local resource stewardship are the true anchors of a resilient society.
+What this state leans on is storytelling, traditional family networks, and local resource stewardship - the things that hold a resilient society up.
 
 ## Echo
 
-The strum of an acoustic guitar and the hum of a hydro-dam turbine : an echo that is warm, resonant, and narrative.
+The strum of an acoustic guitar meeting the hum of a hydro-dam turbine: warm, resonant, unhurried - the sound this state tells itself.

@@ -23,7 +23,7 @@ New Hampshire, the Granite State in the New England region of the United States.
 
 ## Arc
 
-A land of local liberties and alpine craftsmanship, defined by the glaciated valleys of the White Mountains. From the political independence of the first presidential primary and the mechanical design of the Mount Washington cog railway, to the commercial boom of the maple syrup harvests. A culture that balances the granite independence of its town moderator debates with the alpine precision of its mountain railroads, even as it plans the protection of its northern watersheds.
+Live Free or Die is stamped on the license plate and said quietly, the way a state that means something doesn't need to shout it. The glaciated valleys of the White Mountains hold that same flint: the first presidential primary's outsized independence, the Mount Washington cog railway's exact mechanical design, the maple sugarhouses' commercial boom. Granite independence still runs the town moderator debates, alpine precision still runs the mountain railroads, and both now answer to the same northern watersheds the state has to protect.
 
 ## Company
 
@@ -78,4 +78,4 @@ Metal evaporators and tubing replace wooden buckets in regional sugarhouses, lau
 
 ## Stakes
 
-Whether an alpine state experiencing intensive commercial logging and tourism can successfully execute watershed plans to protect mountain forests.
+Whether a flinty state can hold watershed plans to a town-meeting standard, even against commercial logging and tourism pressure.

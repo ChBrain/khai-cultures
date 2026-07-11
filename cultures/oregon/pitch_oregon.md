@@ -21,7 +21,7 @@ The pitch of [Oregon](play_oregon.md). It tunes the thoughtful, informal, and ec
 
 ## Tenor
 
-A thoughtful, informal, and eco-friendly tone. The communication is direct, conversational, and sustainability-focused, combining organic agriculture terms with coffee-house community idioms. It is a voice of environmental stewardship and pioneer heritage - prioritizing wild salmon preservation, biodynamic winemaking, and local craft coffee roasting. This informal language shapes both the urban cafe tables and the vineyard rows, valuing ecological health and local autonomy.
+Rain gets mentioned and shrugged off in the same breath here, the way any long-standing fact of life does. The communication is direct, conversational, and sustainability-focused, combining organic agriculture terms with coffee-house community idioms. It is a voice of environmental stewardship and pioneer heritage - prioritizing wild salmon preservation, biodynamic winemaking, and local craft coffee roasting. This informal language shapes both the urban cafe tables and the vineyard rows, valuing ecological health and local autonomy.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the environmental consensus lies a persistent polarization between the hig
 
 ## Nerve
 
-The conviction that environmental sustainability, organic agricultural stewardship, and local, community-supported trade are the true anchors of a healthy society.
+It plays the note that environmental sustainability, organic stewardship, and community-supported trade hold a healthy society up, each one doing work the others can't.
 
 ## Echo
 
-The hiss of steam from a coffee roaster and the drip of rain through a Douglas fir canopy : an echo that is damp, cool, and sustainability-focused.
+The hiss of steam from a coffee roaster meets the drip of rain through a Douglas fir canopy - a sound damp, cool, and unbothered by either.

@@ -23,7 +23,7 @@ North Carolina, the Tar Heel State in the South Atlantic region of the United St
 
 ## Arc
 
-A land of early frontiers and modern scientific horizons, defined by its geography from the Outer Banks to the Appalachian peaks. From the early mystery of the Roanoke Lost Colony and the first powered flights at Kitty Hawk, to the global technological expansion of the Research Triangle Park. A culture that balances the progressive, high-tech innovation of the Piedmont with the deep-rooted musical and weaving traditions of the mountains, even as it plans forest conservation.
+Tobacco money built the state's fortune long before biotech money tried to cure what tobacco caused, and the Wright brothers proved a machine could fly here before either industry existed. Roanoke's colonists vanished off the Outer Banks a full three centuries before Research Triangle Park turned Piedmont farmland into a biotech cluster. North Carolina still runs the tobacco-road logic through banjo string and pipette alike, and argues its barbecue vinegar-versus-tomato split as fiercely as it argues forest policy.
 
 ## Company
 
@@ -78,4 +78,4 @@ State leaders establish Research Triangle Park, creating a massive high-tech res
 
 ## Stakes
 
-Whether a state divided between high-density research cities and conservative, rural mountain communities can successfully implement sustainable forest conservation plans.
+Whether a state split between high-density research cities and its conservative, rural mountain communities still finds a way to implement forest conservation both sides can live with.

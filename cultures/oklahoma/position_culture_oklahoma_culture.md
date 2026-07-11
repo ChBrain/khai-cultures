@@ -30,7 +30,7 @@ That one act with resourcefulness and private property rights on the derrick as 
 
 ## Loses
 
-Ground at the seam between the fast, extraction-driven talk of the oil fields and the slower, cooperative rhythm of tribal and agricultural life, each hearing the other only as a distant echo across the plains. It loses ground when resource speculation degrades the water and soil that both oil worker and tribal steward depend on, and it loses ground whenever state-wide development is allowed to override sovereign treaties, forgetting that some of this land was never the state's alone to give away.
+Ground at the seam between the extraction-driven talk of the oil fields, running hot and quick, and the slower, cooperative rhythm of tribal and agricultural life, each hearing the other only as a distant echo across the plains. It loses ground when resource speculation degrades the water and soil that both oil worker and tribal steward depend on, and it loses ground whenever state-wide development is allowed to override sovereign treaties, forgetting that some of this land was never the state's alone to give away.
 
 ## Drives
 

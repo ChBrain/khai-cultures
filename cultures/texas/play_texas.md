@@ -23,7 +23,7 @@ Texas, the Lone Star State in the south-central region of the United States. ISO
 
 ## Arc
 
-A land of vast horizons and fierce self-reliance, defined by its history as an independent republic before joining the Union. From the cattle drives of the frontier and the sudden wealth of the Spindletop oil gusher to the mission control of the Apollo space missions and the modern technology boom in Austin. A culture that values freedom, individual liberty, and a distinct regional pride, standing apart under its own lone star.
+Everything here gets measured by how big it is, and Texas has never undersold itself. It ran as its own republic before joining the Union, and that decade of sovereignty still colors how the state talks about itself. Cattle drives opened the frontier, the Spindletop gusher made an oil power overnight, and Houston later talked astronauts to the Moon while Austin built its own tech boom. Freedom, individual liberty, and a pride that answers to no one else still stand apart under that lone star.
 
 ## Company
 

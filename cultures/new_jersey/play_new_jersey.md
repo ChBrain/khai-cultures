@@ -23,7 +23,7 @@ New Jersey, the Garden State in the Mid-Atlantic region of the United States. IS
 
 ## Arc
 
-A land of industrial innovation and coastal relaxation, defined by its transportation corridors and suburban communities. From Thomas Edison's pioneering research laboratory at Menlo Park and the construction of the Atlantic City boardwalk, to the post-war expansion of pharmaceutical and chemical manufacturing. A culture that balances the high-speed pragmatism of the industrial turnpike with the agricultural heritage of the Garden State, even as it plans the ecological conservation of the Pine Barrens aquifer.
+Ask a Jerseyan where they're from and the answer is an exit number - a state that runs its identity along transportation corridors and the suburban communities strung between them. Thomas Edison ran his research lab at Menlo Park, Atlantic City built its boardwalk, and the post-war years stacked pharmaceutical and chemical plants along the turnpike after that. The industrial turnpike still moves at its own high-speed pragmatism, the Garden State's farmland still keeps its slower agricultural heritage, and both now share one worry: the Pine Barrens aquifer underneath it all.
 
 ## Company
 
@@ -78,4 +78,4 @@ The state opens the New Jersey Turnpike, facilitating massive post-war growth in
 
 ## Stakes
 
-Whether a densely populated industrial corridor state can successfully implement conservation plans to protect its massive southern forest aquifers from chemical and urban runoff.
+Whether a state built exit to exit can hold conservation plans steady enough to protect its southern forest aquifers from chemical and urban runoff.

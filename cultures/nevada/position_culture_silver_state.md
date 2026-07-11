@@ -30,7 +30,7 @@ That a wager, once placed, is honored to the letter, whether at a card table or 
 
 ## Loses
 
-Ground when the boom-and-bust of mining and gaming swings too violently, the Comstock's silver exhausted almost as fast as it was found and the casino floor's fortunes just as easily reversed by a downturn or a corporate buyout that pulls profit out of the state, faster than the state can plan for it. It loses ground in the widening seam between the fast, commercial tempo of the Strip and the patient, resource-conserving rhythm of the desert basin, each side treating the other's daily work as barely visible. And it loses ground to the drought itself, the long-term shrinking of the Colorado River system testing whether a state built on chance can out-plan the one resource it cannot legislate its way around.
+Ground when the boom-and-bust of mining and gaming swings too violently, the Comstock's silver exhausted almost as fast as it was found and the casino floor's fortunes just as easily reversed by a downturn or a corporate buyout that pulls profit out of the state, faster than the state can plan for it. It loses ground in the widening seam between the quick, commercial tempo of the Strip and the patient, resource-conserving rhythm of the desert basin, each side treating the other's daily work as barely visible. And it loses ground to the drought itself, the long-term shrinking of the Colorado River system testing whether a state built on chance can out-plan the one resource it cannot legislate its way around.
 
 ## Drives
 

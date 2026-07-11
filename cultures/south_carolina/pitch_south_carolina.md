@@ -21,7 +21,7 @@ The pitch of [South Carolina](play_south_carolina.md). It tunes the thoughtful, 
 
 ## Tenor
 
-A thoughtful, polite, and narrative tone. The communication is conversational, formal, and story-driven, combining historic preservation vocabulary with sweetgrass weaving and Lowcountry terms. It is a voice of craft and memory - prioritizing salt marsh protection, cleanroom masonry restoration, and traditional basket weaving. This formal language shapes both the historic zoning commissions and the coastal weaving circles, valuing group heritage and architectural stewardship.
+Here, a story gets told before a fact gets stated, in a formal register that reads as manners. The vocabulary mixes historic preservation terms with sweetgrass weaving and Lowcountry idiom in the same breath. It is a voice of craft and memory - prioritizing salt marsh protection, careful masonry restoration, and traditional basket weaving. That same formal language shapes the historic zoning commissions and the coastal weaving circles alike, valuing group heritage and architectural stewardship.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the Southern hospitality lies a persistent tension between the rapidly exp
 
 ## Nerve
 
-The conviction that shared cultural heritage, architectural preservation, and respectful historical representation are the true anchors of a resilient society.
+What holds this coast together is shared cultural heritage, careful architectural preservation, and a respectful telling of its own history - the things a resilient society leans on.
 
 ## Echo
 
-The rustle of sweetgrass in the salt marsh and the clink of a bricklayer's trowel : an echo that is warm, humid, and resilient.
+The rustle of sweetgrass in the salt marsh meeting the clink of a bricklayer's trowel: warm, humid, resilient - the sound this coast keeps.

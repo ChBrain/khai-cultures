@@ -23,7 +23,7 @@ South Carolina, the Palmetto State in the South Atlantic region of the United St
 
 ## Arc
 
-A land of cultural preservation and historical architecture, defined by the Lowcountry coastal salt marshes. From the agricultural plantation trade of indigo and rice and the opening bombardment of Fort Sumter, to the federal protection of the Gullah Geechee Cultural Heritage Corridor. A culture that balances the traditional sweetgrass basket weaving of its coastal descendants with the meticulous historic masonry of its old port cities, even as it plans the protection of its salt marshes.
+Charleston remembers out loud, in detail, and Lowcountry salt marshes keep the same long memory running under the state's whole coast. The indigo and rice fortunes of the old plantation trade, the opening cannon fire at Fort Sumter, and now the federal protection of the Gullah Geechee Cultural Heritage Corridor all sit within the same stretch of tidal ground. Sweetgrass basket weaving, carried forward by the coastal descendants, and the meticulous historic masonry of the old port cities answer to the same discipline: keep what was made, even as the marshes themselves still need protecting.
 
 ## Company
 
@@ -78,4 +78,4 @@ Congress passes the Gullah Geechee Cultural Heritage Act, protecting traditional
 
 ## Stakes
 
-Whether a coastal state experiencing rapid resort and real-estate development can successfully protect its salt marshes from pollution and shoreline erosion.
+Whether a coastal state facing rapid resort and real-estate development can still manage to protect its salt marshes from pollution and shoreline erosion.

@@ -21,7 +21,7 @@ The pitch of [New Hampshire](play_new_hampshire.md). It tunes the thoughtful, po
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining maple harvesting vocabulary with alpine railway and granite stonecraft terms. It is a voice of rocks and mountains - prioritizing forest protection plans, cleanroom evaporator tests, and historic sugarhouse preservation. This formal language shapes both the maple cooperatives and the town moderator boards, valuing family self-reliance and technical competence.
+New Hampshire says little and means what it says - conversational, formal, and story-driven, mixing maple harvesting vocabulary with alpine railway and granite stonecraft terms. It is a voice of rocks and mountains, at home with forest protection plans, evaporator calibration, and sugarhouse history kept up properly. This formal language shapes both the maple cooperatives and the town moderator boards, valuing family self-reliance and technical competence.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local town meeting boards are the true anchors of a stable society.
+It plays the town-meeting note: shared family labor, advanced technical competence, and respect for the boards a town elects to speak for it.
 
 ## Echo
 
-The hiss of sap boiling on an evaporator and the rattle of a cog locomotive gear : an echo that is clear, dry, and mechanical.
+The hiss of sap boiling on an evaporator meets the rattle of a cog locomotive gear - clear, dry, and mechanical, the sound of a state that checks its gauges twice.

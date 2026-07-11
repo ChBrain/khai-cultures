@@ -33,4 +33,4 @@ The culinary tradition that represents the immigrant heritage of the city. It pr
 
 ## Echo
 
-The deli meal offers a sense of comfort and continuity. It connects [Sarah](persona_sarah.md) to her family's Brooklyn roots, while [Tony](persona_tony.md) values the fast, hearty lunch during a busy trading day.
+The deli meal offers a sense of comfort and continuity. It connects [Sarah](persona_sarah.md) to her family's Brooklyn roots, while [Tony](persona_tony.md) values it as a quick, hearty lunch that fits a busy trading day.

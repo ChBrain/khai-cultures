@@ -23,7 +23,7 @@ Wisconsin, the Badger State in the East North Central region of the United State
 
 ## Arc
 
-A land of agricultural labor and civic reform, defined by the shores of Lake Michigan and Lake Superior. From the development of dairy cooperatives and the industrial brewing boom in Milwaukee, to the implementation of the progressive Wisconsin Idea linking university research with state laws. A culture that balances the dairyland craftsmanship of its rural counties with the industrial transport of its lake ports, even as it plans the watershed conservation of the Brule River.
+Here, a shared herd, a shared football team, and a shared Friday fish fry do work that other states leave to law alone, binding lakeshore and farm county together. The dairy cooperatives that standardized cheese quality and the industrial brewing boom that built Milwaukee's fortune came first, then the progressive Wisconsin Idea that put university research directly into state law. Dairyland craftsmanship in the rural counties and industrial transport through the lake ports still work side by side, even as the state plans the watershed conservation of the Brule River.
 
 ## Company
 
@@ -78,4 +78,4 @@ Governor Robert La Follette implements the "Wisconsin Idea," utilizing universit
 
 ## Stakes
 
-Whether a state defined by intensive dairy farming and industrial ports can successfully manage forest runoff to protect the wild trout waters of the Brule River Basin.
+Whether a state built on intensive dairy farming and industrial ports can actually manage its forest runoff and keep the wild trout waters of the Brule River Basin fit to fish.

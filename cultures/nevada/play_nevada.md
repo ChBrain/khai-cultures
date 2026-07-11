@@ -23,7 +23,7 @@ Nevada, the Silver State in the Mountain West region of the United States. ISO U
 
 ## Arc
 
-A land of entertainment speculation and desert innovation, defined by the dry valleys of the Great Basin. From the silver ore wealth of the Comstock Lode and the federal energy construction of the Hoover Dam, to the cold war operations of the Nevada Test Site. A culture that balances the high-stakes risk-taking of its casino floors with the solar energy engineering of its desert basins, even as it manages water levels in Lake Mead.
+Twice now the desert has paid out on a bet nobody else would take: first the Comstock Lode's silver out of the Great Basin's dry valleys, then the Las Vegas casino floor's fortune out of the same empty ground, staked on entertainment instead of ore. The Hoover Dam's concrete and the Test Site's cold war blasts came due too: boom, then the bill. The casino floor still runs on high-stakes risk, the desert basins still run on solar engineering, and both answer to the one account that can't be bluffed: the water level in Lake Mead.
 
 ## Company
 
@@ -78,4 +78,4 @@ The federal government opens the continental testing facility in Nye County, lau
 
 ## Stakes
 
-Whether a desert state experiencing rapid urban population growth can successfully manage water allocations in Lake Mead to survive prolonged drought.
+Whether a boom-and-bust desert state can hold Lake Mead's water allocations as steady as its nerve, through a drought that won't quit.

@@ -23,7 +23,7 @@ Washington, D.C., the federal capital of the United States. ISO US-DC, language 
 
 ## Arc
 
-A stage of dual realities, balancing the monumental architecture of national power with the rich, local heritage of its residents. From the grand classical geometry of the L'Enfant Plan and the civil rights protests of the March on Washington to the local jazz and go-go music of U Street and the struggle for representation under the Home Rule Act. A culture of political debate, federal administration, and local resilience, defined by its historic lack of a voting voice in the national legislature.
+Here, the capital of a nation and a hometown answering to nobody else's business share the same handful of zip codes, and the two have never quite settled who gets the last word. The grand classical geometry of the L'Enfant Plan and the civil rights protests of the March on Washington sit blocks from the go-go and jazz that still carry U Street, and from the long fight for representation under the Home Rule Act. Political debate, federal administration, and local resilience all run through the same streets, a place still defined nationally by the vote it has never been given in its own legislature.
 
 ## Company
 
