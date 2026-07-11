@@ -32,7 +32,7 @@ Les rois du Dahomey, et parmi les plus grands [Ghezo](persona_ghezo.md), font d'
 
 - [Ghezo](persona_ghezo.md): le roi bâtisseur qui lève Abomey, ses bas-reliefs et son armée.
 - [la royauté d'Abomey](position_la_royaute_d_abomey.md): la fierté d'un pays qui eut ses rois et son ordre à lui.
-- [Abomey](place_abomey.md): la cité royale où se tient le coeur du royaume.
+- [Abomey](place_abomey.md): la cité royale où se tient le cœur du royaume.
 
 ## Tension
 

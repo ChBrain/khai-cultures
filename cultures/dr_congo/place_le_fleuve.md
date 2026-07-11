@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-Le grand fleuve, deuxième du monde par son débit, qui naît au coeur du continent, décrit sa large boucle à travers la forêt équatoriale et redescend, large comme une mer par endroits, vers l'océan. Ses eaux brunes charrient des îles flottantes de jacinthes; ses rives portent la grande forêt, le deuxième poumon de la planète. Sur lui glissent les pirogues, les baleinières et les boats chargés de monde, de marchandises et de musique, de Kisangani jusqu'à Kinshasa.
+Le grand fleuve, deuxième du monde par son débit, qui naît au cœur du continent, décrit sa large boucle à travers la forêt équatoriale et redescend, large comme une mer par endroits, vers l'océan. Ses eaux brunes charrient des îles flottantes de jacinthes; ses rives portent la grande forêt, le deuxième poumon de la planète. Sur lui glissent les pirogues, les baleinières et les boats chargés de monde, de marchandises et de musique, de Kisangani jusqu'à Kinshasa.
 
 ## Holds
 

@@ -27,7 +27,7 @@ La grande voix de la chanson haoussa, la cantatrice de Maradi dont les louanges 
 
 ## Action
 
-Dans [le pays du sable et du mil](plot_04_sable_et_mil.md), elle porte la chanson haoussa sur les ondes et dans les fêtes, et tient vivante la tradition de la louange au coeur de la vie moderne. En célébrant les noms et en réjouissant les tablées, elle fait de sa voix une part de [l'hospitalité sahélienne](position_l_hospitalite.md), où la fête se partage comme le plat.
+Dans [le pays du sable et du mil](plot_04_sable_et_mil.md), elle porte la chanson haoussa sur les ondes et dans les fêtes, et tient vivante la tradition de la louange au cœur de la vie moderne. En célébrant les noms et en réjouissant les tablées, elle fait de sa voix une part de [l'hospitalité sahélienne](position_l_hospitalite.md), où la fête se partage comme le plat.
 
 ## Shadow
 

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Le français porte un genre grammatical arbitraire sur chaque nom, y compris les choses sans sexe (la table, le mur), un partage que rien dans l'objet lui-même n'explique et qu'il faut apprendre par coeur. Il possède un subjonctif qui marque le doute, le souhait et l'ordre indirect avec des formes propres, et un passé simple, réservé à l'écrit soigné, qui distingue le registre littéraire du récit parlé de tous les jours.
+Le français porte un genre grammatical arbitraire sur chaque nom, y compris les choses sans sexe (la table, le mur), un partage que rien dans l'objet lui-même n'explique et qu'il faut apprendre par cœur. Il possède un subjonctif qui marque le doute, le souhait et l'ordre indirect avec des formes propres, et un passé simple, réservé à l'écrit soigné, qui distingue le registre littéraire du récit parlé de tous les jours.
 
 ## Orders
 

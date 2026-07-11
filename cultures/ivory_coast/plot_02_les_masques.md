@@ -32,7 +32,7 @@ Chaque peuple façonne sa part de la culture commune. Le Sénoufo fait sortir le
 
 - [le masque](piece_le_masque.md): l'objet sacré ou l'invisible se rend présent, du Sénoufo au Dan.
 - [le brassage](position_le_brassage.md): la mosaïque des peuples qui apprend à se vivre comme une seule maison.
-- [Yamoussoukro](place_yamoussoukro.md): au coeur baoulé du pays, ou se nouent les fils de la mosaïque.
+- [Yamoussoukro](place_yamoussoukro.md): au cœur baoulé du pays, ou se nouent les fils de la mosaïque.
 
 ## Tension
 

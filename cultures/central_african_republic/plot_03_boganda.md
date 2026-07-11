@@ -26,7 +26,7 @@ Au milieu du vingtième siècle, l'heure vient pour le pays de se donner un nom 
 
 ## Action
 
-Boganda donne au pays son nom, la République centrafricaine, et lui laisse, en trois mots de sango, la devise qui sera son âme: "zo kwe zo", tout homme est un homme. Il rêve d'une nation où nul n'est de trop, où le plus humble vaut comme le plus grand, et plus loin encore d'une grande maison commune au coeur du continent. Emporté trop tôt, en 1959, à la veille de l'indépendance, il laisse derrière lui une parole plus vaste que sa vie, que le pays portera comme un héritage et une mesure.
+Boganda donne au pays son nom, la République centrafricaine, et lui laisse, en trois mots de sango, la devise qui sera son âme: "zo kwe zo", tout homme est un homme. Il rêve d'une nation où nul n'est de trop, où le plus humble vaut comme le plus grand, et plus loin encore d'une grande maison commune au cœur du continent. Emporté trop tôt, en 1959, à la veille de l'indépendance, il laisse derrière lui une parole plus vaste que sa vie, que le pays portera comme un héritage et une mesure.
 
 ## Stage
 

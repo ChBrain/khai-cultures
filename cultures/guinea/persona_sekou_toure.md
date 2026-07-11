@@ -31,7 +31,7 @@ Dans [le non de 1958](plot_03_le_non_de_1958.md) il mène la Guinée à refuser,
 
 ## Shadow
 
-La fierté du non porte en elle sa propre ombre: la souveraineté défendue d'un coeur si farouche qu'elle peut tourner à l'isolement, le pays seul contre tous, fier mais le ventre creux. Et l'histoire de tout long pouvoir garde des pages que l'on regarde avec gravité et sans en faire l'éloge, car la dignité d'un peuple ne se mesure pas à celle d'un seul homme.
+La fierté du non porte en elle sa propre ombre: la souveraineté défendue d'un cœur si farouche qu'elle peut tourner à l'isolement, le pays seul contre tous, fier mais le ventre creux. Et l'histoire de tout long pouvoir garde des pages que l'on regarde avec gravité et sans en faire l'éloge, car la dignité d'un peuple ne se mesure pas à celle d'un seul homme.
 
 ## Tell
 

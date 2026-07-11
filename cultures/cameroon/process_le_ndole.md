@@ -34,4 +34,4 @@ Il est porté par la conviction camerounaise que la table doit être généreuse
 
 ## Echo
 
-Le ndolé rend audible ce qui fait le coeur du pays: que la différence des cent peuples se partage dans une seule marmite et que recevoir l'autre est un honneur. C'est le plat que [la buyam-sellam](persona_la_buyam_sellam.md) approvisionne chaque jour de ses feuilles amères, et que la famille large partage pour dire qu'ici, on tient ensemble.
+Le ndolé rend audible ce qui fait le cœur du pays: que la différence des cent peuples se partage dans une seule marmite et que recevoir l'autre est un honneur. C'est le plat que [la buyam-sellam](persona_la_buyam_sellam.md) approvisionne chaque jour de ses feuilles amères, et que la famille large partage pour dire qu'ici, on tient ensemble.

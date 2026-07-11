@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capitale au bord de l'Atlantique, étirée sur sa longue presqu'île de Kaloum face aux îles de Loos, ville soussou de marché et de mer où se croisent tous les peuples du pays. Le port d'où part la bauxite, les marchés qui ne dorment jamais, les taxis et les klaxons, la chaleur moite et le vent du large; et là, parmi le tumulte, le palais d'où la république fut proclamée et les studios d'où le son national est parti pour le monde. Le coeur battant, bruyant et vivant de la Guinée.
+La capitale au bord de l'Atlantique, étirée sur sa longue presqu'île de Kaloum face aux îles de Loos, ville soussou de marché et de mer où se croisent tous les peuples du pays. Le port d'où part la bauxite, les marchés qui ne dorment jamais, les taxis et les klaxons, la chaleur moite et le vent du large; et là, parmi le tumulte, le palais d'où la république fut proclamée et les studios d'où le son national est parti pour le monde. Le cœur battant, bruyant et vivant de la Guinée.
 
 ## Holds
 

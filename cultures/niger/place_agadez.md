@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La cité de terre ocre au pied du massif de l'Aïr, porte du désert et capitale historique du sultanat touareg. Au coeur de la vieille ville se dresse la grande mosquée à l'élégant minaret de banco hérissé de poutres, l'un des plus hauts minarets de terre du monde, repère visible de loin dans la plaine. Ruelles étroites, maisons de pisé, ateliers d'orfèvres qui battent l'argent en croix d'Agadez, marché du sel et des dattes: Agadez est la ville où le désert et la cité se rejoignent.
+La cité de terre ocre au pied du massif de l'Aïr, porte du désert et capitale historique du sultanat touareg. Au cœur de la vieille ville se dresse la grande mosquée à l'élégant minaret de banco hérissé de poutres, l'un des plus hauts minarets de terre du monde, repère visible de loin dans la plaine. Ruelles étroites, maisons de pisé, ateliers d'orfèvres qui battent l'argent en croix d'Agadez, marché du sel et des dattes: Agadez est la ville où le désert et la cité se rejoignent.
 
 ## Holds
 

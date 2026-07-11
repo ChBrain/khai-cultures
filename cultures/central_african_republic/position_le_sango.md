@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La langue qui lie le pays, née le long de l'Oubangui de la rencontre des peuples et des marchés du fleuve, et devenue peu à peu la parole que tous partagent, du nord au sud, de la ville au village. À côté du français, langue de l'école et des actes, le sango est la langue du coeur et de la rue, celle qu'un Gbaya et un Banda, un Sara et un Mbaka parlent ensemble sans y penser. C'est le vrai ciment d'un pays de tant de langues: non pas la langue d'un seul peuple imposée aux autres, mais une parole commune où chacun se retrouve.
+La langue qui lie le pays, née le long de l'Oubangui de la rencontre des peuples et des marchés du fleuve, et devenue peu à peu la parole que tous partagent, du nord au sud, de la ville au village. À côté du français, langue de l'école et des actes, le sango est la langue du cœur et de la rue, celle qu'un Gbaya et un Banda, un Sara et un Mbaka parlent ensemble sans y penser. C'est le vrai ciment d'un pays de tant de langues: non pas la langue d'un seul peuple imposée aux autres, mais une parole commune où chacun se retrouve.
 
 ## Orders
 

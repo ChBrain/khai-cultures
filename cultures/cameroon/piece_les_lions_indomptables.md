@@ -26,7 +26,7 @@ Sur le dos des joueurs, dans les gradins, aux fenêtres des taxis, sur les pagne
 
 ## Load Bearing
 
-Il tient debout l'unité du pays mieux qu'aucun discours: quand les Lions jouent, le Nord et le Sud, les francophones et les anglophones, les cent peuples, ne font plus qu'un devant l'écran. Dans un pays aux cent visages, le maillot est le corps commun, la seule chose vers laquelle tous peuvent tendre la main en même temps. Il a porté la plus grande joie du pays sur la scène du monde et il porte, chaque fois, l'attente de tout un peuple. Sans ce maillot, la nation aux deux langues aurait un visage de moins pour se reconnaître d'un seul coeur.
+Il tient debout l'unité du pays mieux qu'aucun discours: quand les Lions jouent, le Nord et le Sud, les francophones et les anglophones, les cent peuples, ne font plus qu'un devant l'écran. Dans un pays aux cent visages, le maillot est le corps commun, la seule chose vers laquelle tous peuvent tendre la main en même temps. Il a porté la plus grande joie du pays sur la scène du monde et il porte, chaque fois, l'attente de tout un peuple. Sans ce maillot, la nation aux deux langues aurait un visage de moins pour se reconnaître d'un seul cœur.
 
 ## Apparent
 
@@ -36,4 +36,4 @@ Un simple maillot de sport, du tissu vert, rouge et jaune, un lion brodé et un 
 
 - Devenu l'emblème du pays debout lors de la grande aventure de la Coupe du monde 1990, la meilleure course d'une équipe africaine à l'époque.
 - Porté ensuite sur les plus grandes scènes du ballon, africaines et mondiales, jusqu'aux titres continentaux qui font la fierté du pays.
-- Cousu sur les pagnes et accroché aux fenêtres des taxis les soirs de match, l'objet par lequel tout le pays se rassemble d'un seul coeur.
+- Cousu sur les pagnes et accroché aux fenêtres des taxis les soirs de match, l'objet par lequel tout le pays se rassemble d'un seul cœur.

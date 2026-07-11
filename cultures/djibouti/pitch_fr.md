@@ -22,7 +22,7 @@ La clé dans laquelle se joue la mise en scène de [Djibouti](play_djibouti.md).
 
 ## Tenor
 
-Cela se joue posément, à l'ombre et sans se presser, dans la patience de qui a appris du désert que rien ne se gagne en courant. Ici l'on tient à la maisonnée, au clan, à la lignée, et l'on se nomme par les siens avant de se nommer soi; l'aîné parle et l'on l'écoute, l'hôte est sacré et le voisin compte. La parole est mesurée, l'honneur se garde, et l'on préfère le détour courtois au mot qui blesse. Le temps n'est pas un maître: il y a l'heure du travail au port et il y a, l'après-midi, l'heure où l'on s'assoit, le brin de khat entre les doigts et le verre de thé qui passe, où la parole se délie et le monde se refait sans hâte. On endure la chaleur et la rareté avec une fierté tranquille, et l'on garde dans le coeur le rythme du nomade qui sait qu'au bout de la piste il y a toujours un puits.
+Cela se joue posément, à l'ombre et sans se presser, dans la patience de qui a appris du désert que rien ne se gagne en courant. Ici l'on tient à la maisonnée, au clan, à la lignée, et l'on se nomme par les siens avant de se nommer soi; l'aîné parle et l'on l'écoute, l'hôte est sacré et le voisin compte. La parole est mesurée, l'honneur se garde, et l'on préfère le détour courtois au mot qui blesse. Le temps n'est pas un maître: il y a l'heure du travail au port et il y a, l'après-midi, l'heure où l'on s'assoit, le brin de khat entre les doigts et le verre de thé qui passe, où la parole se délie et le monde se refait sans hâte. On endure la chaleur et la rareté avec une fierté tranquille, et l'on garde dans le cœur le rythme du nomade qui sait qu'au bout de la piste il y a toujours un puits.
 
 ## Undertow
 

@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-Burkina Faso, le pays de la boucle du Niger, au coeur du Sahel, sans bord de mer, entre le Mali, le Niger, le Bénin, le Togo, le Ghana et la Côte d'Ivoire. ISO BF, langue française pour l'administration, et dans la bouche des gens le moore des Mossi, le dioula des marchés et du sud-ouest, le fulfulde des Peuls, plus une soixantaine d'autres parlers. Le nom lui-même est une parole : "Burkina" en moore et "Faso" en dioula, le pays des hommes intègres, le pays des hommes droits. Un peuple qui s'est donné un nom comme on prête serment.
+Burkina Faso, le pays de la boucle du Niger, au cœur du Sahel, sans bord de mer, entre le Mali, le Niger, le Bénin, le Togo, le Ghana et la Côte d'Ivoire. ISO BF, langue française pour l'administration, et dans la bouche des gens le moore des Mossi, le dioula des marchés et du sud-ouest, le fulfulde des Peuls, plus une soixantaine d'autres parlers. Le nom lui-même est une parole : "Burkina" en moore et "Faso" en dioula, le pays des hommes intègres, le pays des hommes droits. Un peuple qui s'est donné un nom comme on prête serment.
 
 ## Arc
 
@@ -69,7 +69,7 @@ Une terre pauvre en pluie mais riche en tenue, où l'on tient debout par la dign
 
 **[Plot 1: les royaumes mossi](plot_01_royaumes_mossi.md)**
 
-Avant la carte coloniale, les cavaliers mossi fondent leurs royaumes sur le plateau central, et à Ouagadougou s'installe [le Mogho Naba](persona_naba.md), dont [la chefferie mossi](position_la_chefferie.md) tient sa cour, son rite et sa parole jusqu'à aujourd'hui, sous l'oeil du griot.
+Avant la carte coloniale, les cavaliers mossi fondent leurs royaumes sur le plateau central, et à Ouagadougou s'installe [le Mogho Naba](persona_naba.md), dont [la chefferie mossi](position_la_chefferie.md) tient sa cour, son rite et sa parole jusqu'à aujourd'hui, sous l'œil du griot.
 
 **[Plot 2: la Haute-Volta](plot_02_haute_volta.md)**
 

@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-Djibouti, un petit pays posé à la corne de l'Afrique, là où la mer Rouge se resserre et verse dans le golfe d'Aden, entre l'Éthiopie, l'Érythrée et la Somalie, avec la capitale Djibouti-ville assise sur le golfe de Tadjoura. ISO DJ. Le français et l'arabe pour langues officielles, le somali et l'afar pour langues du coeur et de la maison. Une terre de sel, de lave et de vent, où la chaleur écrase et où deux peuples se sont assis côte à côte autour du même thé.
+Djibouti, un petit pays posé à la corne de l'Afrique, là où la mer Rouge se resserre et verse dans le golfe d'Aden, entre l'Éthiopie, l'Érythrée et la Somalie, avec la capitale Djibouti-ville assise sur le golfe de Tadjoura. ISO DJ. Le français et l'arabe pour langues officielles, le somali et l'afar pour langues du cœur et de la maison. Une terre de sel, de lave et de vent, où la chaleur écrase et où deux peuples se sont assis côte à côte autour du même thé.
 
 ## Arc
 

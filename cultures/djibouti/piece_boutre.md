@@ -30,7 +30,7 @@ Il porte la vocation même du pays: vivre de la mer et du passage, relier les ri
 
 ## Apparent
 
-Une coque de bois cousue ou clouée, un seul mât incliné, une grande voile triangulaire de toile, et la patience d'un charpentier de marine qui le bâtit sans plan, à l'oeil et de mémoire. En lui-même, ce n'est qu'un bateau de pêcheur et de cabotage; tout son poids tient dans les siècles de passage qu'il a portés et dans la mer qu'il a faite chemin.
+Une coque de bois cousue ou clouée, un seul mât incliné, une grande voile triangulaire de toile, et la patience d'un charpentier de marine qui le bâtit sans plan, à l'œil et de mémoire. En lui-même, ce n'est qu'un bateau de pêcheur et de cabotage; tout son poids tient dans les siècles de passage qu'il a portés et dans la mer qu'il a faite chemin.
 
 ## Yearbook
 

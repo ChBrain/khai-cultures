@@ -30,8 +30,8 @@ Sous la chaleur de l'accueil court la dureté d'un pays sans bord de mer, enclav
 
 ## Nerve
 
-Cela touche la corde de la dignité partagée et de la parole commune: la certitude que nul n'est de trop, que le plus pauvre des hommes reste un homme, et qu'une seule langue, le sango, peut faire d'une foule de peuples un seul peuple. Cela joue sur la fierté de tenir debout au coeur du continent, sur la joie de la musique qui rassemble, sur la chaleur de la famille longue et de la table ouverte, et sur l'espérance têtue que la terre finira par nourrir celui qui la travaille.
+Cela touche la corde de la dignité partagée et de la parole commune: la certitude que nul n'est de trop, que le plus pauvre des hommes reste un homme, et qu'une seule langue, le sango, peut faire d'une foule de peuples un seul peuple. Cela joue sur la fierté de tenir debout au cœur du continent, sur la joie de la musique qui rassemble, sur la chaleur de la famille longue et de la table ouverte, et sur l'espérance têtue que la terre finira par nourrir celui qui la travaille.
 
 ## Echo
 
-Ce qui reste, c'est l'image d'un peuple patient et digne, chaleureux et chanté, qui tient debout par la parole et par la parenté: un pays qui n'a pour ciment ni mer ni richesse facile, mais une idée simple et grande, "zo kwe zo", et une langue que tous partagent, et qui mise sur cela pour faire d'un coeur de continent une seule maison.
+Ce qui reste, c'est l'image d'un peuple patient et digne, chaleureux et chanté, qui tient debout par la parole et par la parenté: un pays qui n'a pour ciment ni mer ni richesse facile, mais une idée simple et grande, "zo kwe zo", et une langue que tous partagent, et qui mise sur cela pour faire d'un cœur de continent une seule maison.

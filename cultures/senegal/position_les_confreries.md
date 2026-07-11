@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La charpente spirituelle et sociale du Sénégal: les grandes voies soufies, la mouride et la tidjane d'abord, qui rangent presque tout le pays sous la main d'un maître et d'un guide. L'islam y est entré par la douceur de la parole, non par l'épée, et il s'est enraciné dans ces confréries où le disciple, le talibé, se lie à un cheikh par la foi, le travail et l'obéissance. Touba, la ville sainte du mouridisme, et Tivaouane, la cité tidjane, sont les coeurs qui battent pour des millions de croyants. C'est une foi de paix, de labeur et de transmission, qui a tenu le peuple debout sous la colonie et le tient encore, du fin fond du village aux quartiers de Dakar.
+La charpente spirituelle et sociale du Sénégal: les grandes voies soufies, la mouride et la tidjane d'abord, qui rangent presque tout le pays sous la main d'un maître et d'un guide. L'islam y est entré par la douceur de la parole, non par l'épée, et il s'est enraciné dans ces confréries où le disciple, le talibé, se lie à un cheikh par la foi, le travail et l'obéissance. Touba, la ville sainte du mouridisme, et Tivaouane, la cité tidjane, sont les cœurs qui battent pour des millions de croyants. C'est une foi de paix, de labeur et de transmission, qui a tenu le peuple debout sous la colonie et le tient encore, du fin fond du village aux quartiers de Dakar.
 
 ## Orders
 

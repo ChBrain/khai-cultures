@@ -27,7 +27,7 @@ L'homme qui, en 1984, donna au pays le nom qu'il porte aujourd'hui, Burkina Faso
 
 ## Action
 
-Dans [le pays des hommes intègres](plot_03_burkina_faso.md) il porte [l'intégrité](position_culture_l_integrite.md) au coeur du projet national : rebaptisant la Haute-Volta en Burkina Faso, il fait du nom un serment et de l'austérité une fierté. En misant sur les propres bras du pays, il lui laisse une idée plus grande que ses moyens, et un nom à mériter chaque jour.
+Dans [le pays des hommes intègres](plot_03_burkina_faso.md) il porte [l'intégrité](position_culture_l_integrite.md) au cœur du projet national : rebaptisant la Haute-Volta en Burkina Faso, il fait du nom un serment et de l'austérité une fierté. En misant sur les propres bras du pays, il lui laisse une idée plus grande que ses moyens, et un nom à mériter chaque jour.
 
 ## Shadow
 

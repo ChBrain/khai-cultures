@@ -22,7 +22,7 @@ La tonalité dans laquelle se joue la production de [la République du Congo](pl
 
 ## Tenor
 
-Ça se joue avec allure et le sourire devant, mais le coeur tourne vers les siens. Le Congolais de Brazza tient à sa famille large, à son quartier, à ses gens, et c'est entre eux que la vie a du goût : la mesa longue, la bière partagée au makayabu, la blague qui fuse en lingala au milieu d'une phrase en français. On respecte les anciens et le grand frère, on sait sa place dans la maison, mais devant les autres on relève la tête et on ne se laisse pas diminuer. L'argent va et vient ; ce qui reste, c'est le nom qu'on porte, l'allure qu'on tient, l'ambiance qu'on sait mettre. Ici on aime le présent, la fête et la musique, et même quand la poche est vide on s'arrange pour que le costume, lui, soit plein.
+Ça se joue avec allure et le sourire devant, mais le cœur tourne vers les siens. Le Congolais de Brazza tient à sa famille large, à son quartier, à ses gens, et c'est entre eux que la vie a du goût : la mesa longue, la bière partagée au makayabu, la blague qui fuse en lingala au milieu d'une phrase en français. On respecte les anciens et le grand frère, on sait sa place dans la maison, mais devant les autres on relève la tête et on ne se laisse pas diminuer. L'argent va et vient ; ce qui reste, c'est le nom qu'on porte, l'allure qu'on tient, l'ambiance qu'on sait mettre. Ici on aime le présent, la fête et la musique, et même quand la poche est vide on s'arrange pour que le costume, lui, soit plein.
 
 ## Undertow
 

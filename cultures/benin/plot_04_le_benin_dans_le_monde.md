@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Le pays se tient debout sous son nom, riche d'Abomey, du Vodun et de tous ses peuples, et le monde, peu à peu, découvre que ce petit couloir de terre pèse lourd dans le coeur du monde noir. La côte qui avait vu partir tant des siens voit maintenant revenir vers elle des regards et des pas, et le berceau du Vodun se fait reconnaître comme tel.
+Le pays se tient debout sous son nom, riche d'Abomey, du Vodun et de tous ses peuples, et le monde, peu à peu, découvre que ce petit couloir de terre pèse lourd dans le cœur du monde noir. La côte qui avait vu partir tant des siens voit maintenant revenir vers elle des regards et des pas, et le berceau du Vodun se fait reconnaître comme tel.
 
 ## Action
 

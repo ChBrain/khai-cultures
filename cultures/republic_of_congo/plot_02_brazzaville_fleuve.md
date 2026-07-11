@@ -26,7 +26,7 @@ Sur la rive droite du grand fleuve, là où les eaux s'élargissent en un vaste 
 
 ## Action
 
-Brazzaville se fait ville-carrefour : port fluvial, place de commerce et de rencontre, point où se croisent les gens venus de la forêt du nord, des plateaux teke et de la côte. De part et d'autre du fleuve, deux capitales se regardent, si proches qu'on se voit d'une rive à l'autre, les plus rapprochées du monde, séparées par l'eau et liées par la langue, la famille et la musique. La ville devient le coeur du pays et bientôt une terre de paroles : c'est ici que grandiront les écrivains qui donneront au français une voix de fleuve, et que la rumba prendra son élan d'une berge à l'autre. Le fleuve, frontière et grand-route à la fois, fait de Brazzaville une ville tournée vers l'eau et vers l'autre rive.
+Brazzaville se fait ville-carrefour : port fluvial, place de commerce et de rencontre, point où se croisent les gens venus de la forêt du nord, des plateaux teke et de la côte. De part et d'autre du fleuve, deux capitales se regardent, si proches qu'on se voit d'une rive à l'autre, les plus rapprochées du monde, séparées par l'eau et liées par la langue, la famille et la musique. La ville devient le cœur du pays et bientôt une terre de paroles : c'est ici que grandiront les écrivains qui donneront au français une voix de fleuve, et que la rumba prendra son élan d'une berge à l'autre. Le fleuve, frontière et grand-route à la fois, fait de Brazzaville une ville tournée vers l'eau et vers l'autre rive.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Brazzaville se fait ville-carrefour : port fluvial, place de commerce et de renc
 
 ## Tension
 
-La ville se définit par le fleuve qui la borde et par la rive d'en face qu'elle ne quitte pas des yeux : jamais tout à fait seule, toujours en miroir. Tout se joue sur cet équilibre, entre la frontière d'eau qui sépare et le courant qui relie, et sur l'art de vivre face à une soeur si proche qu'on la voit de sa fenêtre.
+La ville se définit par le fleuve qui la borde et par la rive d'en face qu'elle ne quitte pas des yeux : jamais tout à fait seule, toujours en miroir. Tout se joue sur cet équilibre, entre la frontière d'eau qui sépare et le courant qui relie, et sur l'art de vivre face à une sœur si proche qu'on la voit de sa fenêtre.

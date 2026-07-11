@@ -31,7 +31,7 @@ La France est occupée et l'État a capitulé. Depuis Londres, [Charles de Gaull
 ## Stage
 
 - [Charles de Gaulle](persona_de_gaulle.md): celui qui a porté la voix de la France et entre dans la capitale libérée.
-- [Paris](place_paris.md): la ville qui se soulève, se libère et redevient le coeur de la nation.
+- [Paris](place_paris.md): la ville qui se soulève, se libère et redevient le cœur de la nation.
 
 ## Tension
 

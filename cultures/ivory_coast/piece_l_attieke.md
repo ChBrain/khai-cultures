@@ -30,7 +30,7 @@ Il porte la table commune du pays, là où le brassage cesse d'être un mot pour
 
 ## Apparent
 
-Quelques poignées de semoule blanche, un peu humide, à peine acide, qu'on dirait du couscous sans en être. À l'oeil, ce n'est qu'un accompagnement, trois fois rien posé à côté du poisson. Tout son poids tient dans le geste: la main qui se sert dans l'assiette partagée, la tantie qui en rajoute une louche pour le ventre creux, et le cercle des mangeurs qui, le temps du repas, ne font plus qu'un quartier, qu'une maison, qu'un pays.
+Quelques poignées de semoule blanche, un peu humide, à peine acide, qu'on dirait du couscous sans en être. À l'œil, ce n'est qu'un accompagnement, trois fois rien posé à côté du poisson. Tout son poids tient dans le geste: la main qui se sert dans l'assiette partagée, la tantie qui en rajoute une louche pour le ventre creux, et le cercle des mangeurs qui, le temps du repas, ne font plus qu'un quartier, qu'une maison, qu'un pays.
 
 ## Yearbook
 

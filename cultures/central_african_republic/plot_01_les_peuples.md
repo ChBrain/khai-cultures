@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-Bien avant qu'aucune frontière ne soit tracée, au coeur même du continent, la grande forêt du sud rencontre la savane du nord, et les grands fleuves, l'Oubangui et ses frères, dessinent les chemins de l'eau. Sur cette terre s'établissent depuis des siècles de nombreux peuples, chacun cherchant son territoire entre les arbres et l'herbe haute.
+Bien avant qu'aucune frontière ne soit tracée, au cœur même du continent, la grande forêt du sud rencontre la savane du nord, et les grands fleuves, l'Oubangui et ses frères, dessinent les chemins de l'eau. Sur cette terre s'établissent depuis des siècles de nombreux peuples, chacun cherchant son territoire entre les arbres et l'herbe haute.
 
 ## Action
 
-Les Gbaya et les Banda, les Mandjia et les Sara, les Mbaka et d'autres encore s'installent entre forêt et savane, le long des fleuves, chacun avec sa langue, ses tambours et ses contes. Au plus profond des bois, les BaAka, les gens de la forêt, les plus anciens, tiennent leur savoir des plantes et des bêtes et leur chant à plusieurs voix. On vit de la chasse et de la pêche, du mil et du manioc, et l'on apprend, de marché en marché, à vivre côte à côte. Une terre de nombreux peuples se forme ainsi, riche de ses différences, posée au coeur de l'Afrique.
+Les Gbaya et les Banda, les Mandjia et les Sara, les Mbaka et d'autres encore s'installent entre forêt et savane, le long des fleuves, chacun avec sa langue, ses tambours et ses contes. Au plus profond des bois, les BaAka, les gens de la forêt, les plus anciens, tiennent leur savoir des plantes et des bêtes et leur chant à plusieurs voix. On vit de la chasse et de la pêche, du mil et du manioc, et l'on apprend, de marché en marché, à vivre côte à côte. Une terre de nombreux peuples se forme ainsi, riche de ses différences, posée au cœur de l'Afrique.
 
 ## Stage
 

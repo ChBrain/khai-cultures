@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-La République du Congo, le Congo-Brazzaville comme on dit chez nous pour ne pas la confondre avec la grande soeur d'en face. Un pays d'Afrique centrale assis sur l'équateur, entre la forêt du nord et l'océan de Pointe-Noire, traversé en son milieu par le grand fleuve Congo. Code ISO CG, langue française, mais c'est le lingala et le kituba qui chauffent la parole dans la rue, au marché et dans la chanson. Brazza et Kinshasa se regardent d'une rive à l'autre, les deux capitales les plus proches du monde, séparées par l'eau et liées par tout le reste.
+La République du Congo, le Congo-Brazzaville comme on dit chez nous pour ne pas la confondre avec la grande sœur d'en face. Un pays d'Afrique centrale assis sur l'équateur, entre la forêt du nord et l'océan de Pointe-Noire, traversé en son milieu par le grand fleuve Congo. Code ISO CG, langue française, mais c'est le lingala et le kituba qui chauffent la parole dans la rue, au marché et dans la chanson. Brazza et Kinshasa se regardent d'une rive à l'autre, les deux capitales les plus proches du monde, séparées par l'eau et liées par tout le reste.
 
 ## Arc
 

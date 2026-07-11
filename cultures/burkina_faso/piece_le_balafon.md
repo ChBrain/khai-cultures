@@ -35,5 +35,5 @@ Quelques lames de bois posées sur des courges sèches, liées de cordelettes, a
 ## Yearbook
 
 - Instrument très ancien de l'Afrique de l'Ouest, tenu surtout par les peuples du sud-ouest du pays, transmis de maître à élève par la seule oreille et la seule main.
-- Compagnon du griot et de la cour, gardien sonore de la lignée et de la parole, au coeur du rite et de la fête.
+- Compagnon du griot et de la cour, gardien sonore de la lignée et de la parole, au cœur du rite et de la fête.
 - Porté aujourd'hui sur les scènes du SIAO et au-delà du pays, le bois qui parle se faisant l'une des voix de la musique burkinabè dans le monde.

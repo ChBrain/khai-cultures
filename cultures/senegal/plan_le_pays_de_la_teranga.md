@@ -23,7 +23,7 @@ Le pari que le Sénégal s'est donné: tenir, contre tout, ce qui fait sa dignit
 
 ## Direction
 
-Garder la porte ouverte sans se ruiner: tenir la teranga vivante quand l'argent manque et que tant de mains se tendent. Tenir la paix et le dialogue, l'alternance sans le sang, la foi sans la violence, contre tous ceux qui voudraient durcir les coeurs. Faire que la richesse en hommes devienne aussi de quoi vivre, pour que les bras vaillants n'aient plus à regarder l'océan en rêvant d'ailleurs. Et porter la voix du pays dans le monde sans cesser de chanter d'abord pour la concession.
+Garder la porte ouverte sans se ruiner: tenir la teranga vivante quand l'argent manque et que tant de mains se tendent. Tenir la paix et le dialogue, l'alternance sans le sang, la foi sans la violence, contre tous ceux qui voudraient durcir les cœurs. Faire que la richesse en hommes devienne aussi de quoi vivre, pour que les bras vaillants n'aient plus à regarder l'océan en rêvant d'ailleurs. Et porter la voix du pays dans le monde sans cesser de chanter d'abord pour la concession.
 
 ## Orders
 

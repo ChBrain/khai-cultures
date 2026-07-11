@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-La République centrafricaine, que les siens appellent simplement la Centrafrique, posée au coeur même du continent, sans aucun bord de mer, là où la grande forêt du sud rencontre la savane du nord. Au sud coule l'Oubangui, et sur sa rive se tient Bangui la Coquette, la capitale. ISO CF. La langue officielle est le français, mais la langue qui lie vraiment le pays, du fleuve à la forêt, c'est le sango, que tout le monde parle. Un pays au coeur de l'Afrique, fait de beaucoup de peuples qui ont appris à se dire "zo kwe zo".
+La République centrafricaine, que les siens appellent simplement la Centrafrique, posée au cœur même du continent, sans aucun bord de mer, là où la grande forêt du sud rencontre la savane du nord. Au sud coule l'Oubangui, et sur sa rive se tient Bangui la Coquette, la capitale. ISO CF. La langue officielle est le français, mais la langue qui lie vraiment le pays, du fleuve à la forêt, c'est le sango, que tout le monde parle. Un pays au cœur de l'Afrique, fait de beaucoup de peuples qui ont appris à se dire "zo kwe zo".
 
 ## Arc
 
@@ -63,7 +63,7 @@ Une terre placée tout au milieu du continent, là où se croisent la forêt éq
 
 **Plans**
 
-- [zo kwe zo, l'oeuvre inachevée](plan_zo_kwe_zo.md)
+- [zo kwe zo, l'œuvre inachevée](plan_zo_kwe_zo.md)
 
 ## Triggers
 
@@ -85,4 +85,4 @@ Le pays neuf fait du [sango](position_le_sango.md) sa langue commune et sa fiert
 
 ## Stakes
 
-Savoir si une terre posée au coeur du continent, faite de tant de peuples et de tant de langues, peut tenir debout par la seule force d'une parole partagée, le sango, et d'une idée tenue ferme, zo kwe zo, savoir si chaque personne, du fleuve à la forêt, du plus grand au plus petit, peut être vraiment traitée comme une personne entière, et si la richesse de la terre, le café, le coton, le diamant, peut un jour profiter à celui qui peine sur elle, sans que la diversité des siens devienne division.
+Savoir si une terre posée au cœur du continent, faite de tant de peuples et de tant de langues, peut tenir debout par la seule force d'une parole partagée, le sango, et d'une idée tenue ferme, zo kwe zo, savoir si chaque personne, du fleuve à la forêt, du plus grand au plus petit, peut être vraiment traitée comme une personne entière, et si la richesse de la terre, le café, le coton, le diamant, peut un jour profiter à celui qui peine sur elle, sans que la diversité des siens devienne division.

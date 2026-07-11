@@ -31,7 +31,7 @@ La capitale du royaume bamoun, sur les hautes terres de l'Ouest, ville du sultan
 
 ## Offers
 
-Un lieu où le pays voit son génie ancien fait pierre et bronze, un palais et un musée qui gardent vivante la mémoire d'un royaume lettré; une cité d'artisans où l'art bamoun se transmet de main en main, et la preuve, posée au coeur du pays, que la création et le savoir sont nés ici même, du génie d'un roi et de son peuple.
+Un lieu où le pays voit son génie ancien fait pierre et bronze, un palais et un musée qui gardent vivante la mémoire d'un royaume lettré; une cité d'artisans où l'art bamoun se transmet de main en main, et la preuve, posée au cœur du pays, que la création et le savoir sont nés ici même, du génie d'un roi et de son peuple.
 
 ## Withheld
 

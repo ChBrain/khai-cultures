@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-L'appartenance à une terre qui ne saute pas par-dessus ses ancêtres: le sol qui a donné au monde [le Vodun](position_le_vodun.md), la mémoire vivante de [la royauté d'Abomey](position_la_royaute_d_abomey.md) et de ses rois bâtisseurs, et la vérité que le pays se tient de [plusieurs peuples](position_les_peuples.md), Fon, Yoruba, Bariba, Dendi et bien d'autres, chacun avec sa langue et ses morts. Dans la bouche des gens ce sont le fon, le [français béninois](position_language_fr_bj.md) et les langues du pays qui portent la vie de tous les jours, et c'est dans le lien au groupe, à la famille, au quartier et au culte, que chacun se sait quelqu'un. Elle tient, sans l'avoir choisi, la conviction que l'invisible marche avec les vivants et que ce qui est petit sur la carte peut être grand dans le coeur du monde.
+L'appartenance à une terre qui ne saute pas par-dessus ses ancêtres: le sol qui a donné au monde [le Vodun](position_le_vodun.md), la mémoire vivante de [la royauté d'Abomey](position_la_royaute_d_abomey.md) et de ses rois bâtisseurs, et la vérité que le pays se tient de [plusieurs peuples](position_les_peuples.md), Fon, Yoruba, Bariba, Dendi et bien d'autres, chacun avec sa langue et ses morts. Dans la bouche des gens ce sont le fon, le [français béninois](position_language_fr_bj.md) et les langues du pays qui portent la vie de tous les jours, et c'est dans le lien au groupe, à la famille, au quartier et au culte, que chacun se sait quelqu'un. Elle tient, sans l'avoir choisi, la conviction que l'invisible marche avec les vivants et que ce qui est petit sur la carte peut être grand dans le cœur du monde.
 
 ## Orders
 

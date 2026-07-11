@@ -31,7 +31,7 @@ Dans [Foumban et le sultanat](plot_01_foumban.md) il bâtit son palais et invent
 
 ## Shadow
 
-Beaucoup de ce qu'il a écrit a failli se perdre, et son écriture n'a pas pu se répandre comme il l'espérait quand les temps ont changé autour de lui. C'est l'ombre de toute oeuvre en avance sur son heure: le savoir mis sur le papier reste fragile tant qu'il n'y a pas assez de mains pour le recopier et le tenir vivant.
+Beaucoup de ce qu'il a écrit a failli se perdre, et son écriture n'a pas pu se répandre comme il l'espérait quand les temps ont changé autour de lui. C'est l'ombre de toute œuvre en avance sur son heure: le savoir mis sur le papier reste fragile tant qu'il n'y a pas assez de mains pour le recopier et le tenir vivant.
 
 ## Tell
 

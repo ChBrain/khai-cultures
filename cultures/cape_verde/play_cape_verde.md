@@ -3,7 +3,7 @@ khai: play
 title: "Cape Verde"
 description: "Ten volcanic islands of sodade and morabeza, one creole people scattered across the sea."
 declared: "Cabo Verde"
-language: pt
+language: kea
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

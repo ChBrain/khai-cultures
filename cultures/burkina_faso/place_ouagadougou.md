@@ -22,11 +22,11 @@ Parent group: places
 
 ## Shown
 
-La capitale, Ouaga comme on dit ici, posée au coeur du plateau mossi : le palais du Mogho Naba où se tient chaque vendredi le rite de la cour, les grandes avenues, les marchés grouillants, les maquis et les cabarets à dolo, les nuages de motos. C'est la ville du FESPACO et de l'étalon de Yennenga, du SIAO et de son artisanat, le coeur politique du pays moderne posé juste à côté du coeur coutumier du monde mossi. La capitale d'un pays sans mer qui a fait de la culture sa porte sur le monde.
+La capitale, Ouaga comme on dit ici, posée au cœur du plateau mossi : le palais du Mogho Naba où se tient chaque vendredi le rite de la cour, les grandes avenues, les marchés grouillants, les maquis et les cabarets à dolo, les nuages de motos. C'est la ville du FESPACO et de l'étalon de Yennenga, du SIAO et de son artisanat, le cœur politique du pays moderne posé juste à côté du cœur coutumier du monde mossi. La capitale d'un pays sans mer qui a fait de la culture sa porte sur le monde.
 
 ## Holds
 
-- [les royaumes mossi](plot_01_royaumes_mossi.md): le siège du Mogho Naba et le coeur du monde mossi.
+- [les royaumes mossi](plot_01_royaumes_mossi.md): le siège du Mogho Naba et le cœur du monde mossi.
 - [le pays des hommes intègres](plot_03_burkina_faso.md): la capitale d'où le pays se rebaptise et choisit de compter sur ses propres bras.
 - [Ouagadougou, capitale du cinéma](plot_04_fespaco.md): la ville qui devient, tous les deux ans, la capitale du cinéma d'Afrique.
 

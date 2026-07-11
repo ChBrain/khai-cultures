@@ -33,7 +33,7 @@ Du temps des grands royaumes, les Mossi bâtissent un État coutumier solide, av
 - [Le Mogho Naba](persona_naba.md): le roi des Mossi, sommet de la cour, qui accomplit le rite du vendredi.
 - [Le joueur de balafon](persona_griot.md): le griot, gardien de la généalogie et de la parole, qui fait parler le bois.
 - [la chefferie mossi](position_la_chefferie.md): l'ordre coutumier fondé à cette époque et tenu jusqu'à aujourd'hui.
-- [Ouagadougou](place_ouagadougou.md): le siège du Mogho Naba et le coeur du monde mossi.
+- [Ouagadougou](place_ouagadougou.md): le siège du Mogho Naba et le cœur du monde mossi.
 - [Tiebele](place_tiebele.md): chez les Gourounsi, les cours royales aux murs peints, l'autre langue de l'architecture.
 
 ## Tension

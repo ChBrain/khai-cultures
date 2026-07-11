@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-Kinshasa la belle, Kin la poubelle aussi disent ses enfants avec tendresse: la grande capitale posée sur la rive gauche du fleuve, l'une des plus grandes villes d'Afrique, immense, bruyante et vivante. Ville-monde de marchés, de cours et de quartiers populaires, de cabarets et de pistes de danse, qui veille tard et danse plus tard encore. C'est la capitale du pays et la capitale du son: là où est née la rumba, là où la sape s'affiche, là où bat le coeur musical du continent.
+Kinshasa la belle, Kin la poubelle aussi disent ses enfants avec tendresse: la grande capitale posée sur la rive gauche du fleuve, l'une des plus grandes villes d'Afrique, immense, bruyante et vivante. Ville-monde de marchés, de cours et de quartiers populaires, de cabarets et de pistes de danse, qui veille tard et danse plus tard encore. C'est la capitale du pays et la capitale du son: là où est née la rumba, là où la sape s'affiche, là où bat le cœur musical du continent.
 
 ## Holds
 

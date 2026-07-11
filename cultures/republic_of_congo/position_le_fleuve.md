@@ -26,7 +26,7 @@ Le grand fleuve Congo, deuxième du monde par son débit, qui descend des forêt
 
 ## Orders
 
-Que le pays se pense face à l'eau et face à sa soeur d'en face, jamais tout à fait seul ; que le fleuve soit à la fois ce qui sépare et ce qui relie, frontière et grand-route, miroir où Brazzaville se regarde et regarde Kinshasa ; et que la vie congolaise reste tournée vers la rive, où l'on pêche, où l'on accoste, où la rumba a pris son élan d'une berge à l'autre.
+Que le pays se pense face à l'eau et face à sa sœur d'en face, jamais tout à fait seul ; que le fleuve soit à la fois ce qui sépare et ce qui relie, frontière et grand-route, miroir où Brazzaville se regarde et regarde Kinshasa ; et que la vie congolaise reste tournée vers la rive, où l'on pêche, où l'on accoste, où la rumba a pris son élan d'une berge à l'autre.
 
 ## Loses
 

@@ -22,7 +22,7 @@ La clé dans laquelle se joue la mise en scène de [la Côte d'Ivoire](play_ivor
 
 ## Tenor
 
-Ça se joue chaud, ouvert, et le coeur sur la main. Ici on accueille, on partage l'assiette, on appelle "frère" et "tantie" l'étranger d'hier, et la famille déborde toujours sur le voisin et le cousin du village. On respecte les anciens et le chef, le Vieux et le doyen, mais on tutoie la vie et on rit fort. Surtout, on se débrouille: quoi qu'il arrive, on trouve la solution, on "gère", on enjaille la galère. Le présent compte plus que la montre, la parole vaut le contrat, et on tchatche avec une élégance qui sait que la sape et le verbe ouvrent bien des portes. Sous le rire court une seule conviction: la vie est dure, le travail aux champs et au port l'a toujours été, mais on s'en sort à plusieurs et jamais tout seul, parce que un seul doigt ne ramasse pas la farine.
+Ça se joue chaud, ouvert, et le cœur sur la main. Ici on accueille, on partage l'assiette, on appelle "frère" et "tantie" l'étranger d'hier, et la famille déborde toujours sur le voisin et le cousin du village. On respecte les anciens et le chef, le Vieux et le doyen, mais on tutoie la vie et on rit fort. Surtout, on se débrouille: quoi qu'il arrive, on trouve la solution, on "gère", on enjaille la galère. Le présent compte plus que la montre, la parole vaut le contrat, et on tchatche avec une élégance qui sait que la sape et le verbe ouvrent bien des portes. Sous le rire court une seule conviction: la vie est dure, le travail aux champs et au port l'a toujours été, mais on s'en sort à plusieurs et jamais tout seul, parce que un seul doigt ne ramasse pas la farine.
 
 ## Undertow
 

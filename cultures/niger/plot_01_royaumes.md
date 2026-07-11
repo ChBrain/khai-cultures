@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Bien avant que les frontières ne soient tracées, ces terres sont un carrefour du Sahel et du Sahara. L'empire Songhaï rayonne depuis le fleuve, le Bornou commande à l'est, les cités-États haoussa tiennent les marchés du sud, et au coeur de l'Aïr s'élève le sultanat d'Agadez, étape obligée des routes qui relient l'Afrique du Nord aux pays du fleuve.
+Bien avant que les frontières ne soient tracées, ces terres sont un carrefour du Sahel et du Sahara. L'empire Songhaï rayonne depuis le fleuve, le Bornou commande à l'est, les cités-États haoussa tiennent les marchés du sud, et au cœur de l'Aïr s'élève le sultanat d'Agadez, étape obligée des routes qui relient l'Afrique du Nord aux pays du fleuve.
 
 ## Action
 

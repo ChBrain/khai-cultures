@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-La République démocratique du Congo, la RDC, le géant au coeur de l'Afrique, traversé par le fleuve qui lui a donné son nom et couvert par la grande forêt équatoriale, le deuxième poumon de la planète après l'Amazonie. ISO CD, langue officielle le français, et quatre langues nationales pour se parler d'un bout à l'autre du pays: le lingala, le swahili, le kikongo et le tshiluba. Un pays grand comme un sous-continent, mboka monene, où l'on dit que la distance entre deux villes se compte non en kilomètres mais en jours de pirogue.
+La République démocratique du Congo, la RDC, le géant au cœur de l'Afrique, traversé par le fleuve qui lui a donné son nom et couvert par la grande forêt équatoriale, le deuxième poumon de la planète après l'Amazonie. ISO CD, langue officielle le français, et quatre langues nationales pour se parler d'un bout à l'autre du pays: le lingala, le swahili, le kikongo et le tshiluba. Un pays grand comme un sous-continent, mboka monene, où l'on dit que la distance entre deux villes se compte non en kilomètres mais en jours de pirogue.
 
 ## Arc
 

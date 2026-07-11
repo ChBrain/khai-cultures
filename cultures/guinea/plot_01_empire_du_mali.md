@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Au treizième siècle, dans la haute vallée du Niger, sur la terre mandingue qui deviendra le coeur de la Guinée, les petits royaumes se cherchent un maître. Soundiata Keita, l'enfant qu'on disait infirme et qui se leva, rassemble les clans malinké contre l'oppresseur, et le jeli, déjà, marche à ses côtés pour dire son nom.
+Au treizième siècle, dans la haute vallée du Niger, sur la terre mandingue qui deviendra le cœur de la Guinée, les petits royaumes se cherchent un maître. Soundiata Keita, l'enfant qu'on disait infirme et qui se leva, rassemble les clans malinké contre l'oppresseur, et le jeli, déjà, marche à ses côtés pour dire son nom.
 
 ## Action
 

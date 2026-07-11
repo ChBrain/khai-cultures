@@ -31,7 +31,7 @@ Le jeune pays se dote de ses institutions et fait de [Niamey](place_niamey.md), 
 ## Stage
 
 - [Boubou Hama](persona_boubou_hama.md): l'écrivain et historien qui dote la jeune nation d'une mémoire écrite.
-- [la retenue et le respect](position_la_retenue.md): le respect de la parole transmise sur lequel s'appuie l'oeuvre de mémoire.
+- [la retenue et le respect](position_la_retenue.md): le respect de la parole transmise sur lequel s'appuie l'œuvre de mémoire.
 - [Niamey](place_niamey.md): la capitale au bord du fleuve où s'installent les institutions du pays.
 
 ## Tension

@@ -26,7 +26,7 @@ Au centre de la fête, sur la place du village et la scène de la ville: un gran
 
 ## Load Bearing
 
-Il porte la voix de la joie commune et de la fête: là où la sanza dit l'intime, le balafon dit le rassemblement. C'est l'instrument qui fait danser le village entier, qui mène les cérémonies et les réjouissances, et qui, dans la musique d'aujourd'hui, donne au pays son rythme reconnaissable. Dans une terre que la musique lie plus sûrement que la richesse, il est le coeur sonore autour duquel les peuples se retrouvent et dansent d'un même pas.
+Il porte la voix de la joie commune et de la fête: là où la sanza dit l'intime, le balafon dit le rassemblement. C'est l'instrument qui fait danser le village entier, qui mène les cérémonies et les réjouissances, et qui, dans la musique d'aujourd'hui, donne au pays son rythme reconnaissable. Dans une terre que la musique lie plus sûrement que la richesse, il est le cœur sonore autour duquel les peuples se retrouvent et dansent d'un même pas.
 
 ## Apparent
 

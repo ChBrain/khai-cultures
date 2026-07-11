@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Au coeur du continent s'étend un espace immense de forêts et de savanes que nulle route ne traverse d'un seul trait. Mais une eau le parcourt: le fleuve Congo, deuxième du monde par son débit, qui décrit sa grande boucle et redescend vers l'océan, ramifié en mille affluents.
+Au cœur du continent s'étend un espace immense de forêts et de savanes que nulle route ne traverse d'un seul trait. Mais une eau le parcourt: le fleuve Congo, deuxième du monde par son débit, qui décrit sa grande boucle et redescend vers l'océan, ramifié en mille affluents.
 
 ## Action
 

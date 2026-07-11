@@ -22,7 +22,7 @@ Le ton dans lequel se joue la production [France](play_france.md). Il ne change 
 
 ## Tenor
 
-On parle pour convaincre, et l'on tient qu'une idée bien dite vaut mieux qu'un fait mal posé. La parole est élégante, structurée, volontiers abstraite ; l'esprit, la formule et le bon mot y comptent autant que le fond. L'État se pose en arbitre et en garant, la règle est écrite et l'on s'attend à ce qu'elle soit suivie, mais le citoyen se réserve le droit de contester, de discuter et, s'il le faut, de descendre dans la rue. Le registre est celui de la grandeur et de la mesure à la fois : une certaine hauteur de vue, le goût du débat, et la conviction que la culture, la langue et l'art de vivre ne sont pas des ornements mais le coeur même de la vie.
+On parle pour convaincre, et l'on tient qu'une idée bien dite vaut mieux qu'un fait mal posé. La parole est élégante, structurée, volontiers abstraite ; l'esprit, la formule et le bon mot y comptent autant que le fond. L'État se pose en arbitre et en garant, la règle est écrite et l'on s'attend à ce qu'elle soit suivie, mais le citoyen se réserve le droit de contester, de discuter et, s'il le faut, de descendre dans la rue. Le registre est celui de la grandeur et de la mesure à la fois : une certaine hauteur de vue, le goût du débat, et la conviction que la culture, la langue et l'art de vivre ne sont pas des ornements mais le cœur même de la vie.
 
 ## Undertow
 

@@ -23,7 +23,7 @@ Le mandat que le pays se donne à lui-même : garder ce qui fait son nom dans le
 
 ## Direction
 
-Faire de Brazzaville et de Pointe-Noire des capitales vivantes de la musique, de l'élégance et des lettres : transmettre la rumba aux nouvelles voix au lieu de la laisser au seul souvenir des anciens ; faire de la SAPE une dignité et non une ruine, l'allure au service de l'homme et non l'inverse ; honorer et lire ses écrivains chez eux autant qu'au-dehors ; et garder le pays tourné vers sa rive, relié à sa soeur d'en face, fier de son nom dans le monde.
+Faire de Brazzaville et de Pointe-Noire des capitales vivantes de la musique, de l'élégance et des lettres : transmettre la rumba aux nouvelles voix au lieu de la laisser au seul souvenir des anciens ; faire de la SAPE une dignité et non une ruine, l'allure au service de l'homme et non l'inverse ; honorer et lire ses écrivains chez eux autant qu'au-dehors ; et garder le pays tourné vers sa rive, relié à sa sœur d'en face, fier de son nom dans le monde.
 
 ## Orders
 

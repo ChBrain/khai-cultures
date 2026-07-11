@@ -26,13 +26,13 @@ Le temps vient où la terre des deux peuples accède à elle-même et prend son 
 
 ## Action
 
-Le pays se donne un nom, un drapeau et une place parmi les nations: un drapeau qui porte les couleurs des deux peuples, le bleu rattaché aux Issas et le vert aux Afars, l'étoile rouge de l'unité sur le triangle blanc de la paix. Le français et l'arabe deviennent les langues officielles, le somali et l'afar restant les langues de la maison et du coeur. Les écrivains et les artistes, Abdourahman Waberi parmi eux, donnent au pays sa conscience et sa voix dans les lettres du monde. La tâche du pays s'énonce clairement: tenir la rencontre des deux peuples à égalité sur la même natte, et vivre du carrefour sans s'y perdre.
+Le pays se donne un nom, un drapeau et une place parmi les nations: un drapeau qui porte les couleurs des deux peuples, le bleu rattaché aux Issas et le vert aux Afars, l'étoile rouge de l'unité sur le triangle blanc de la paix. Le français et l'arabe deviennent les langues officielles, le somali et l'afar restant les langues de la maison et du cœur. Les écrivains et les artistes, Abdourahman Waberi parmi eux, donnent au pays sa conscience et sa voix dans les lettres du monde. La tâche du pays s'énonce clairement: tenir la rencontre des deux peuples à égalité sur la même natte, et vivre du carrefour sans s'y perdre.
 
 ## Stage
 
 - [Abdourahman Waberi](persona_waberi.md): l'écrivain qui donne au pays sa conscience et porte les deux voix dans une seule langue.
 - [la rencontre des deux peuples](position_deux_peuples.md): la parenté à tenir à égalité, devenue le pacte fondateur du pays.
-- [Djibouti-ville](place_djibouti_ville.md): la capitale des deux peuples, siège du pays neuf et coeur du carrefour.
+- [Djibouti-ville](place_djibouti_ville.md): la capitale des deux peuples, siège du pays neuf et cœur du carrefour.
 
 ## Tension
 

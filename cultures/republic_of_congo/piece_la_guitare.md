@@ -34,6 +34,6 @@ Une guitare, le plus souvent électrique, branchée dans un ampli au fond d'un b
 
 ## Yearbook
 
-- Coeur sonore de la rumba congolaise, née d'une rive à l'autre du fleuve et berceau partagé des deux Congo.
+- Cœur sonore de la rumba congolaise, née d'une rive à l'autre du fleuve et berceau partagé des deux Congo.
 - Lance le sebene, ce moment où la guitare s'envole et où la danse commence.
 - Instrument par lequel la rumba, reconnue trésor de l'humanité, a porté le nom du pays à travers le continent et au-delà.

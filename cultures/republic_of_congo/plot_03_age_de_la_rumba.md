@@ -26,7 +26,7 @@ Des bars et des orchestres des deux rives du fleuve monte une musique nouvelle, 
 
 ## Action
 
-La rumba devient la grande voix du pays et de toute une région. Les orchestres se multiplient, les chanteurs deviennent des étoiles, et la chanson congolaise, portée par le lingala, traverse les frontières jusqu'à faire danser tout le continent. [Pamelo Mounk'a](persona_pamelo_mounka.md) en devient une des grandes voix, sa douceur de velours portant le nom de Brazzaville d'un bout à l'autre de l'Afrique. Au coeur de chaque morceau arrive le sebene, ce moment où la guitare s'envole et où les corps se mettent à danser, et la rumba dit tout, l'amour, l'argent, la séparation et la fête. Plus tard, le monde reconnaîtra cette musique comme un trésor de l'humanité, mais elle est d'abord la fierté sonore d'un peuple petit par le nombre et grand par la voix.
+La rumba devient la grande voix du pays et de toute une région. Les orchestres se multiplient, les chanteurs deviennent des étoiles, et la chanson congolaise, portée par le lingala, traverse les frontières jusqu'à faire danser tout le continent. [Pamelo Mounk'a](persona_pamelo_mounka.md) en devient une des grandes voix, sa douceur de velours portant le nom de Brazzaville d'un bout à l'autre de l'Afrique. Au cœur de chaque morceau arrive le sebene, ce moment où la guitare s'envole et où les corps se mettent à danser, et la rumba dit tout, l'amour, l'argent, la séparation et la fête. Plus tard, le monde reconnaîtra cette musique comme un trésor de l'humanité, mais elle est d'abord la fierté sonore d'un peuple petit par le nombre et grand par la voix.
 
 ## Stage
 

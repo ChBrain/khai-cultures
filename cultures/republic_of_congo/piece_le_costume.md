@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Dans l'armoire soigneusement rangée du sapeur, sorti et repassé pour le dimanche et les grandes occasions : la veste bien coupée, le pantalon au pli net, la chemise, la cravate ou le noeud papillon, les chaussures cousues main et le chapeau, le tout accordé au gramme près dans des couleurs choisies. C'est l'objet sacré de la SAPE, qu'on épargne, qu'on entretient comme un trésor et qu'on porte comme une dignité.
+Dans l'armoire soigneusement rangée du sapeur, sorti et repassé pour le dimanche et les grandes occasions : la veste bien coupée, le pantalon au pli net, la chemise, la cravate ou le nœud papillon, les chaussures cousues main et le chapeau, le tout accordé au gramme près dans des couleurs choisies. C'est l'objet sacré de la SAPE, qu'on épargne, qu'on entretient comme un trésor et qu'on porte comme une dignité.
 
 ## Load Bearing
 

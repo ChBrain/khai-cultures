@@ -34,4 +34,4 @@ Du terrain quand le puits se fait rare et la sécheresse longue, quand le troupe
 
 ## Drives
 
-Elle vit dans la poésie qui porta la voix du désert et du nomade dans la langue du dehors, et dans la piste du sel, où l'on mène encore les chameaux chargés de sel jusqu'au lac. Elle pousse Djibouti à garder dans le coeur le rythme du nomade, la patience, l'hospitalité et le poème, au seuil même du monde qui court.
+Elle vit dans la poésie qui porta la voix du désert et du nomade dans la langue du dehors, et dans la piste du sel, où l'on mène encore les chameaux chargés de sel jusqu'au lac. Elle pousse Djibouti à garder dans le cœur le rythme du nomade, la patience, l'hospitalité et le poème, au seuil même du monde qui court.

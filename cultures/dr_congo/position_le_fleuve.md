@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-L'idée que le pays tient d'abord par son fleuve. Le Congo, deuxième fleuve du monde par son débit, naît au coeur du continent, décrit sa grande boucle à travers la forêt équatoriale et redescend vers l'océan. C'est lui qui a donné son nom au pays, et c'est lui la grande route quand les routes manquent: la pirogue et la baleinière, les boats qui descendent de Kisangani vers Kinshasa avec leur marché flottant, leurs mamans commerçantes et leur musique à bord. Le fleuve ne sépare pas, il relie; il est l'épine dorsale qui fait d'un immense espace de forêts et de savanes une seule mboka.
+L'idée que le pays tient d'abord par son fleuve. Le Congo, deuxième fleuve du monde par son débit, naît au cœur du continent, décrit sa grande boucle à travers la forêt équatoriale et redescend vers l'océan. C'est lui qui a donné son nom au pays, et c'est lui la grande route quand les routes manquent: la pirogue et la baleinière, les boats qui descendent de Kisangani vers Kinshasa avec leur marché flottant, leurs mamans commerçantes et leur musique à bord. Le fleuve ne sépare pas, il relie; il est l'épine dorsale qui fait d'un immense espace de forêts et de savanes une seule mboka.
 
 ## Orders
 

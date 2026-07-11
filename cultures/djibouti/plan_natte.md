@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Le mandat que le pays neuf s'est donné en prenant son nom: tenir [la rencontre des deux peuples](position_deux_peuples.md) à égalité sur la même natte, vivre du [carrefour](position_carrefour.md) sans s'y perdre, et garder dans le coeur, au seuil même du monde qui court, la patience et l'hospitalité de [le nomadisme pastoral](position_nomadisme.md).
+Le mandat que le pays neuf s'est donné en prenant son nom: tenir [la rencontre des deux peuples](position_deux_peuples.md) à égalité sur la même natte, vivre du [carrefour](position_carrefour.md) sans s'y perdre, et garder dans le cœur, au seuil même du monde qui court, la patience et l'hospitalité de [le nomadisme pastoral](position_nomadisme.md).
 
 ## Owner
 
@@ -33,7 +33,7 @@ Tenir les deux peuples, Issas et Afars, à égalité et en paix, sans que l'un l
 
 ## Implementation
 
-Un petit pays jeune, pauvre en pluie et riche en seuil, qui a su se donner un nom, un drapeau aux couleurs des deux peuples et une paix entre eux, et qui a fait de sa position au mouillage du monde une grandeur sans rapport avec sa taille. Reste ouverte la tâche de tenir cette paix à égalité, de faire descendre la richesse du seuil jusqu'à la natte, et de garder, au coeur d'une ville cosmopolite et d'un monde qui court, les langues de la maison et la patience du nomade.
+Un petit pays jeune, pauvre en pluie et riche en seuil, qui a su se donner un nom, un drapeau aux couleurs des deux peuples et une paix entre eux, et qui a fait de sa position au mouillage du monde une grandeur sans rapport avec sa taille. Reste ouverte la tâche de tenir cette paix à égalité, de faire descendre la richesse du seuil jusqu'à la natte, et de garder, au cœur d'une ville cosmopolite et d'un monde qui court, les langues de la maison et la patience du nomade.
 
 ## Targets
 

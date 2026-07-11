@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Au coeur des cérémonies des peuples du pays, sorti du bois sacré pour les grandes occasions: les masques sénoufo aux cornes et aux dents qui dansent au son du balafon, les masques dan, ou yacouba, au visage lisse et grave qui divertissent, instruisent et rendent la justice, et tant d'autres, du masque-coureur au masque-échassier de l'ouest. Taillé dans le bois par des mains initiées, paré de fibres, de tissus et de grelots, le masque n'est jamais un simple objet d'art: il est un visage de l'invisible.
+Au cœur des cérémonies des peuples du pays, sorti du bois sacré pour les grandes occasions: les masques sénoufo aux cornes et aux dents qui dansent au son du balafon, les masques dan, ou yacouba, au visage lisse et grave qui divertissent, instruisent et rendent la justice, et tant d'autres, du masque-coureur au masque-échassier de l'ouest. Taillé dans le bois par des mains initiées, paré de fibres, de tissus et de grelots, le masque n'est jamais un simple objet d'art: il est un visage de l'invisible.
 
 ## Load Bearing
 

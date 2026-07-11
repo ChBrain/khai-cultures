@@ -26,7 +26,7 @@ Sur la scène du cabaret, dans la cour du quartier, entre les mains du soliste q
 
 ## Load Bearing
 
-Elle porte la voix même du Congo en musique. Au coeur de la rumba et du soukous, c'est elle qui tient le rythme clair et brillant du seben, cette partie où la chanson s'envole et où tout le monde danse; de Franco à Tabu Ley, les grands solistes en ont fait la signature du son congolais. Par-dessus les quatre langues nationales, la guitare parle une langue que tout le continent comprend. Sans cet instrument qui lance la piste, la rumba resterait chant; avec lui, elle devient danse, et le Congo se fait entendre du monde entier.
+Elle porte la voix même du Congo en musique. Au cœur de la rumba et du soukous, c'est elle qui tient le rythme clair et brillant du seben, cette partie où la chanson s'envole et où tout le monde danse; de Franco à Tabu Ley, les grands solistes en ont fait la signature du son congolais. Par-dessus les quatre langues nationales, la guitare parle une langue que tout le continent comprend. Sans cet instrument qui lance la piste, la rumba resterait chant; avec lui, elle devient danse, et le Congo se fait entendre du monde entier.
 
 ## Apparent
 

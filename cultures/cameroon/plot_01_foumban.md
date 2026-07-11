@@ -36,4 +36,4 @@ Njoya veut garder par écrit ce que son peuple sait, et comme sa langue n'a pas 
 
 ## Tension
 
-Le pays porte en lui un génie ancien, un roi qui écrit sa propre langue et garde le savoir de son peuple, juste au moment où le monde du dehors s'apprête à tout rebattre. La grandeur de cette création tient face à la fragilité de son heure: une oeuvre en avance sur son temps, qui montre ce que le pays sait faire et qui devra, plus tard, lutter pour ne pas se perdre.
+Le pays porte en lui un génie ancien, un roi qui écrit sa propre langue et garde le savoir de son peuple, juste au moment où le monde du dehors s'apprête à tout rebattre. La grandeur de cette création tient face à la fragilité de son heure: une œuvre en avance sur son temps, qui montre ce que le pays sait faire et qui devra, plus tard, lutter pour ne pas se perdre.

@@ -28,7 +28,7 @@ La capitale assise sur le golfe de Tadjoura, née d'un mouillage et devenue en u
 
 - [les deux peuples et les sultanats](plot_02_deux_peuples.md): la baie d'en face de Tadjoura, encore mouillage, promise à devenir la capitale des deux peuples.
 - [le port et la voie ferrée](plot_03_le_port.md): la baie devenue ville cosmopolite, port en eau profonde et tête de la voie ferrée.
-- [le pays des deux peuples](plot_04_le_pays.md): la capitale du pays neuf, siège de la nation et coeur du carrefour.
+- [le pays des deux peuples](plot_04_le_pays.md): la capitale du pays neuf, siège de la nation et cœur du carrefour.
 
 ## Offers
 

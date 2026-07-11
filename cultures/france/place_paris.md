@@ -27,11 +27,11 @@ La capitale qui centralise le pays, ville lumière de pierre et de boulevards, d
 ## Holds
 
 - [la Révolution de 1789](plot_02_revolution_1789.md): ici tombe la Bastille et se proclament les droits de l'homme.
-- [la Libération de Paris en 1944](plot_04_liberation_1944.md): ici la ville se soulève et redevient le coeur de la nation.
+- [la Libération de Paris en 1944](plot_04_liberation_1944.md): ici la ville se soulève et redevient le cœur de la nation.
 
 ## Offers
 
-Le lieu où se décide la France, où la centralisation, le débat des idées et le goût de descendre dans la rue se voient à l'oeuvre, et où la nation se pense elle-même.
+Le lieu où se décide la France, où la centralisation, le débat des idées et le goût de descendre dans la rue se voient à l'œuvre, et où la nation se pense elle-même.
 
 ## Withheld
 

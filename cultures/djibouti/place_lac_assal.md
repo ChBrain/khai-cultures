@@ -30,7 +30,7 @@ Le grand lac de sel posé au point le plus bas de l'Afrique, bien au-dessous du 
 
 ## Offers
 
-La preuve que cette terre dure, pauvre en pluie et de feu, porte ses propres trésors: le sel que le nomade tire de la croûte et échange contre le grain et le café, et une beauté extrême, lave, sel et silence, qui fait de Djibouti une terre du commencement du monde. C'est le coeur de l'endurance du pays, là où la vie se gagne au point le plus bas et le plus chaud.
+La preuve que cette terre dure, pauvre en pluie et de feu, porte ses propres trésors: le sel que le nomade tire de la croûte et échange contre le grain et le café, et une beauté extrême, lave, sel et silence, qui fait de Djibouti une terre du commencement du monde. C'est le cœur de l'endurance du pays, là où la vie se gagne au point le plus bas et le plus chaud.
 
 ## Withheld
 

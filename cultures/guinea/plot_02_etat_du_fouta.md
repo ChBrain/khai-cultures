@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Au dix-huitième siècle, les Peul des hauts plateaux du centre, éleveurs venus de loin avec leurs troupeaux, portent l'islam au coeur du massif. Les lettres et les versets se répandent dans les villages d'altitude, et des hommes de savoir se lèvent pour réunir ce que la foi et la coutume avaient laissé épars.
+Au dix-huitième siècle, les Peul des hauts plateaux du centre, éleveurs venus de loin avec leurs troupeaux, portent l'islam au cœur du massif. Les lettres et les versets se répandent dans les villages d'altitude, et des hommes de savoir se lèvent pour réunir ce que la foi et la coutume avaient laissé épars.
 
 ## Action
 
@@ -30,7 +30,7 @@ Vers 1725, les almami fondent dans le Fouta Djallon un État de la foi, l'un des
 
 ## Stage
 
-- [Karamoko Alfa](persona_karamoko_alfa.md): l'almami fondateur qui assoit la foi et la science au coeur du massif.
+- [Karamoko Alfa](persona_karamoko_alfa.md): l'almami fondateur qui assoit la foi et la science au cœur du massif.
 - [la science du Fouta](position_la_science_du_fouta.md): l'islam savant des Peul, ses écoles, ses livres et sa langue écrite.
 - [le Fouta Djallon](place_le_fouta_djallon.md): le château d'eau et le foyer de la foi, où l'État religieux prend corps.
 

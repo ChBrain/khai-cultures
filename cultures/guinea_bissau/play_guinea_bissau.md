@@ -3,7 +3,7 @@ khai: play
 title: "Guinea-Bissau"
 description: "Guinea-Bissau staged as a culture: many peoples bound by Kriol, the sacred Bijagos, and the cashew harvest."
 declared: "Guine-Bissau"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

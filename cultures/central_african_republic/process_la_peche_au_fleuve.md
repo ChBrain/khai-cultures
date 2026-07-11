@@ -34,4 +34,4 @@ Elle tient par le fleuve lui-même, route et garde-manger d'un pays enclavé, et
 
 ## Echo
 
-La pêche au fleuve fait entendre comment, le long de l'eau et de marché en marché, [le sango](position_le_sango.md) est né de la rencontre des peuples, et comment [Bangui](place_bangui.md) la Coquette s'est posée sur la rive pour devenir le coeur du pays. Le fleuve qui nourrit est aussi celui qui a appris au pays à se parler d'une seule voix.
+La pêche au fleuve fait entendre comment, le long de l'eau et de marché en marché, [le sango](position_le_sango.md) est né de la rencontre des peuples, et comment [Bangui](place_bangui.md) la Coquette s'est posée sur la rive pour devenir le cœur du pays. Le fleuve qui nourrit est aussi celui qui a appris au pays à se parler d'une seule voix.

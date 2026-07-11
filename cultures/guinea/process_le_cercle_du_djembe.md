@@ -30,7 +30,7 @@ Vers la joie partagée et le lien: le cercle du djembe rassemble tout le monde, 
 
 ## Lever
 
-Il tient par le goût du partage et de la fête, et par la place du tambour au coeur de la vie, qui scande les grands jours depuis toujours. Il tient contre la dureté des temps et la dispersion, et rassemble ce que le travail et la ville éparpillent; contre lui se dressent l'exode vers les villes où les batteurs se font rares, et la tentation de troquer le cercle vivant pour le son enregistré.
+Il tient par le goût du partage et de la fête, et par la place du tambour au cœur de la vie, qui scande les grands jours depuis toujours. Il tient contre la dureté des temps et la dispersion, et rassemble ce que le travail et la ville éparpillent; contre lui se dressent l'exode vers les villes où les batteurs se font rares, et la tentation de troquer le cercle vivant pour le son enregistré.
 
 ## Echo
 

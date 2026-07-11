@@ -26,7 +26,7 @@ Chaque début d'année, à Ouidah et tout le long de la côte, les prêtres, les
 
 ## Direction
 
-Vers l'affirmation, droite et joyeuse, que le Vodun est une foi vivante: non un secret qu'on cache, non un folklore qu'on regarde, mais une religion qui se tient debout au soleil, un jour par an pour le monde entier, et toute l'année dans le coeur des siens. C'est le moment où le pays dit, sans baisser la tête, qu'il est l'un des berceaux de cette foi.
+Vers l'affirmation, droite et joyeuse, que le Vodun est une foi vivante: non un secret qu'on cache, non un folklore qu'on regarde, mais une religion qui se tient debout au soleil, un jour par an pour le monde entier, et toute l'année dans le cœur des siens. C'est le moment où le pays dit, sans baisser la tête, qu'il est l'un des berceaux de cette foi.
 
 ## Lever
 

@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capitale plantée à la pointe la plus à l'ouest du continent, là où l'Afrique tend son menton vers l'océan: une ville bouillonnante de car rapides bariolés, de marchés qui débordent, de mosquées et de cathédrale, de quartiers populaires comme la Médina et de corniches qui regardent la mer. Au large, l'île de Gorée garde la mémoire, sobrement et avec dignité. Dakar ne dort jamais tout à fait: les baptêmes y battent le sabar, les arènes y vibrent du laamb, et la nuit, le mbalax monte des clubs. C'est le coeur qui bat pour tout le pays, et la vitrine du Sénégal devant le monde.
+La capitale plantée à la pointe la plus à l'ouest du continent, là où l'Afrique tend son menton vers l'océan: une ville bouillonnante de car rapides bariolés, de marchés qui débordent, de mosquées et de cathédrale, de quartiers populaires comme la Médina et de corniches qui regardent la mer. Au large, l'île de Gorée garde la mémoire, sobrement et avec dignité. Dakar ne dort jamais tout à fait: les baptêmes y battent le sabar, les arènes y vibrent du laamb, et la nuit, le mbalax monte des clubs. C'est le cœur qui bat pour tout le pays, et la vitrine du Sénégal devant le monde.
 
 ## Holds
 

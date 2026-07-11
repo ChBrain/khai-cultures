@@ -27,7 +27,7 @@ Le grand poète du Congo, dont le nom même, qu'il s'est choisi, veut dire la pe
 
 ## Action
 
-Dans [Brazzaville sur le fleuve](plot_02_brazzaville_fleuve.md) il fait du fleuve et de la terre la matière même de sa poésie, donnant [au fleuve](position_le_fleuve.md) une voix de douleur et de beauté. En écrivant son pays depuis l'exil, il montre que la rive du Congo se porte au coeur partout où l'on va, et que la petite feuille peut parler assez fort pour qu'on l'entende au loin.
+Dans [Brazzaville sur le fleuve](plot_02_brazzaville_fleuve.md) il fait du fleuve et de la terre la matière même de sa poésie, donnant [au fleuve](position_le_fleuve.md) une voix de douleur et de beauté. En écrivant son pays depuis l'exil, il montre que la rive du Congo se porte au cœur partout où l'on va, et que la petite feuille peut parler assez fort pour qu'on l'entende au loin.
 
 ## Shadow
 

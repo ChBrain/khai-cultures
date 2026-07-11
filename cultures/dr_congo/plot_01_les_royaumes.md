@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Bien avant qu'un État ne porte ce nom, le long du grand fleuve et au centre du pays, des peuples organisés se lèvent et bâtissent des royaumes. À l'embouchure, le royaume Kongo; sur les hauts plateaux du sud, l'empire Luba et le royaume voisin Lunda; au coeur, entre les rivières, le royaume Kuba et ses ateliers.
+Bien avant qu'un État ne porte ce nom, le long du grand fleuve et au centre du pays, des peuples organisés se lèvent et bâtissent des royaumes. À l'embouchure, le royaume Kongo; sur les hauts plateaux du sud, l'empire Luba et le royaume voisin Lunda; au cœur, entre les rivières, le royaume Kuba et ses ateliers.
 
 ## Action
 

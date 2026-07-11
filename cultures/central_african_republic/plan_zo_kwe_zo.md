@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "Zo Kwe Zo, the Unfinished Work"
-declared: "zo kwe zo, l'oeuvre inachevée"
+declared: "zo kwe zo, l'œuvre inachevée"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: zo kwe zo, l'oeuvre inachevée
+# Plan: zo kwe zo, l'œuvre inachevée
 
 ## Taxonomy
 
@@ -33,7 +33,7 @@ Combler la distance entre les trois mots gravés et la vie vécue: que le plus h
 
 ## Implementation
 
-Une jeune nation au coeur du continent, riche de ses nombreux peuples et d'une langue que tous partagent, qui a déjà fait du sango une langue du pays et une fierté, qui a donné au monde sa musique et ses chants, et qui porte une devise simple et grande comme une mesure de soi. Reste ouverte la tâche de faire vivre "zo kwe zo" pour le plus humble, de tenir les peuples en une seule maison, et de faire que la richesse de la terre revienne à celui qui peine.
+Une jeune nation au cœur du continent, riche de ses nombreux peuples et d'une langue que tous partagent, qui a déjà fait du sango une langue du pays et une fierté, qui a donné au monde sa musique et ses chants, et qui porte une devise simple et grande comme une mesure de soi. Reste ouverte la tâche de faire vivre "zo kwe zo" pour le plus humble, de tenir les peuples en une seule maison, et de faire que la richesse de la terre revienne à celui qui peine.
 
 ## Targets
 

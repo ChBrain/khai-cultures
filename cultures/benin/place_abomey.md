@@ -22,11 +22,11 @@ Parent group: places
 
 ## Shown
 
-La cité royale du Dahomey, sur le plateau du sud, où les rois fon levèrent leurs palais de terre derrière de longs murs rouges. Dans les cours, les bas-reliefs racontent les règnes en images modelées dans l'argile, et les tentures appliquées, cousues d'emblèmes, disent chaque roi par son lion, son requin ou son oiseau. C'est le coeur de la royauté, le lieu où le pouvoir se faisait voir et se gardait, et où la mémoire des rois se tient encore, debout dans la terre et dans le tissu.
+La cité royale du Dahomey, sur le plateau du sud, où les rois fon levèrent leurs palais de terre derrière de longs murs rouges. Dans les cours, les bas-reliefs racontent les règnes en images modelées dans l'argile, et les tentures appliquées, cousues d'emblèmes, disent chaque roi par son lion, son requin ou son oiseau. C'est le cœur de la royauté, le lieu où le pouvoir se faisait voir et se gardait, et où la mémoire des rois se tient encore, debout dans la terre et dans le tissu.
 
 ## Holds
 
-- [le royaume du Dahomey](plot_01_dahomey.md): la cité où les rois lèvent palais, bas-reliefs et armée, le coeur du royaume.
+- [le royaume du Dahomey](plot_01_dahomey.md): la cité où les rois lèvent palais, bas-reliefs et armée, le cœur du royaume.
 - [le temps des Blancs et le retour du nom](plot_03_le_temps_des_blancs.md): la cité royale dont la mémoire est recueillie et sauvée de l'oubli.
 
 ## Offers
