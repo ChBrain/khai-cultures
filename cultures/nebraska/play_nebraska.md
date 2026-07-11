@@ -44,6 +44,7 @@ A land of agricultural wealth and pioneer resilience, defined by the grassy dune
 
 **Positions**
 
+- [Cornhusker culture](position_culture_cornhusker_culture.md)
 - [pioneer trail](position_pioneer_trail.md)
 - [prairie forestry](position_prairie_forestry.md)
 - [Nebraskan English](position_language_en_us_ne.md)
