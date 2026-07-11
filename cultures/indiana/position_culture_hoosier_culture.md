@@ -30,7 +30,7 @@ That a stranger be welcomed at the door and fed before being asked their busines
 
 ## Loses
 
-Ground where the fast, technology-driven talk of racing engineers and venture-capital speedway investment drowns out the slower, season-dependent rhythm of the family farm, so that soil conservation gets treated as secondary to speedway entertainment and corporate tourism. It loses ground, too, when state-wide environmental mandates on erosion and fertilizer runoff meet the suspicion of counties that prize their independence, and in the memory of Tippecanoe, a frontier victory that opened the territory to settlement at the cost of the land's first people.
+Ground where the quick, technology-driven talk of racing engineers and venture-capital speedway investment drowns out the slower, season-dependent rhythm of the family farm, so that soil conservation gets treated as secondary to speedway entertainment and corporate tourism. It loses ground, too, when state-wide environmental mandates on erosion and fertilizer runoff meet the suspicion of counties that prize their independence, and in the memory of Tippecanoe, a frontier victory that opened the territory to settlement at the cost of the land's first people.
 
 ## Drives
 

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[l'empire sahelien](position_l_empire_sahelien.md)
+[l'empire sahélien](position_l_empire_sahelien.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ L'empereur du Mali à son midi, le mansa dont le pèlerinage à La Mecque, vers 
 
 ## Action
 
-Dans [l'empire du Mali](plot_02_empire_mali.md) il porte [l'empire sahelien](position_l_empire_sahelien.md) à son sommet et, par son pèlerinage, fait connaître le nom du Mali jusqu'au bout du monde connu. En donnant l'or sans compter et en rapportant le savoir, il montre que la grandeur du pays se mesure à ce qu'il fait passer et non à ce qu'il garde.
+Dans [l'empire du Mali](plot_02_empire_mali.md) il porte [l'empire sahélien](position_l_empire_sahelien.md) à son sommet et, par son pèlerinage, fait connaître le nom du Mali jusqu'au bout du monde connu. En donnant l'or sans compter et en rapportant le savoir, il montre que la grandeur du pays se mesure à ce qu'il fait passer et non à ce qu'il garde.
 
 ## Shadow
 

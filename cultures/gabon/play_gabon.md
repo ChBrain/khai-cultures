@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Le Gabon, pays de l'Afrique centrale assis sur l'équateur, au bord du golfe de Guinée, entre le Cameroun au nord, la Guinée équatoriale au nord-ouest et le Congo à l'est et au sud. ISO GA, langue fr, avec le fang, le myéné, le punu, le nzébi et le téké parmi ses voix. Une terre que la grande forêt recouvre presque tout entière, neuf dixièmes du sol sous les arbres, et un peuple peu nombreux pour un si vaste vert.
+Le Gabon, pays de l'Afrique centrale assis sur l'équateur, au bord du golfe de Guinée, entre le Cameroun au nord, la Guinée équatoriale au nord-ouest et le Congo à l'est et au sud. ISO GA, langue fr, avec le fang, le myene, le punu, le nzebi et le teke parmi ses voix. Une terre que la grande forêt recouvre presque tout entière, neuf dixièmes du sol sous les arbres, et un peuple peu nombreux pour un si vaste vert.
 
 ## Arc
 
-Un petit peuple sous une immense forêt. Avant que rien ne soit écrit, les Pygmées marchent les premiers sous les arbres, puis arrivent par vagues les Fang, les Myéné de la côte, les Punu, les Nzébi, les Téké, chacun s'installant où la rivière et la clairière le portent. L'Ogooué, le grand fleuve, coud le pays d'est en ouest et porte tout: les pirogues, les bois, les nouvelles. Au bord de l'océan, les Myéné rencontrent les premiers les bateaux venus de loin, et Libreville naîtra comme une ville de liberté, fondée pour des captifs rendus à eux-mêmes. Sous les arbres vit le Bwiti, la voie spirituelle qui prend l'iboga et fait chanter le ngombi, la harpe à huit cordes, pour faire passer le vivant de l'autre côté et le ramener. Les sculpteurs taillent les masques blancs du sud et gardent les reliquaires des ancêtres, et la voix de Pierre Akendengué dit le pays en langue et en français à la fois. Le pétrole monte de la mer et donne sa richesse, mais c'est toujours la forêt qui tient le pays: ses éléphants de forêt, ses gorilles, le Lopé où la savane mord le vert, le Loango où la forêt descend se baigner dans l'océan. Sous tout cela court un seul nerf: un peuple qui se sait petit et la forêt immense, qui tient ses ancêtres tout près et sa terre verte comme une chose vivante, et qui se demande comment rester soi au milieu de tant d'arbres et de tant de monde venu de loin.
+Un petit peuple sous une immense forêt. Avant que rien ne soit écrit, les Pygmées marchent les premiers sous les arbres, puis arrivent par vagues les Fang, les Myene de la côte, les Punu, les Nzebi, les Teke, chacun s'installant où la rivière et la clairière le portent. L'Ogooué, le grand fleuve, coud le pays d'est en ouest et porte tout: les pirogues, les bois, les nouvelles. Au bord de l'océan, les Myene rencontrent les premiers les bateaux venus de loin, et Libreville naîtra comme une ville de liberté, fondée pour des captifs rendus à eux-mêmes. Sous les arbres vit le Bwiti, la voie spirituelle qui prend l'iboga et fait chanter le ngombi, la harpe à huit cordes, pour faire passer le vivant de l'autre côté et le ramener. Les sculpteurs taillent les masques blancs du sud et gardent les reliquaires des ancêtres, et la voix de Pierre Akendengué dit le pays en langue et en français à la fois. Le pétrole monte de la mer et donne sa richesse, mais c'est toujours la forêt qui tient le pays: ses éléphants de forêt, ses gorilles, le Lopé où la savane mord le vert, le Loango où la forêt descend se baigner dans l'océan. Sous tout cela court un seul nerf: un peuple qui se sait petit et la forêt immense, qui tient ses ancêtres tout près et sa terre verte comme une chose vivante, et qui se demande comment rester soi au milieu de tant d'arbres et de tant de monde venu de loin.
 
 ## Company
 
@@ -74,7 +74,7 @@ Avant l'écriture, les peuples entrent sous les arbres par vagues, et [la forêt
 
 **[Plot 2: la rencontre au bord de l'océan](plot_02_la_cote.md)**
 
-Sur la côte, les Myéné rencontrent les premiers les bateaux venus de loin; [le Roi Denis](persona_roi_denis.md) traite avec eux, et le commerce et le malheur de la traite passent par [le fleuve](position_le_fleuve.md) et la mer.
+Sur la côte, les Myene rencontrent les premiers les bateaux venus de loin; [le Roi Denis](persona_roi_denis.md) traite avec eux, et le commerce et le malheur de la traite passent par [le fleuve](position_le_fleuve.md) et la mer.
 
 **[Plot 3: Libreville, la ville de la liberté](plot_03_libreville.md)**
 

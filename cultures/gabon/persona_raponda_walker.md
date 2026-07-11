@@ -27,7 +27,7 @@ L'homme de l'estuaire, le premier prêtre gabonais, le savant doux qui a passé 
 
 ## Action
 
-Dans [Libreville, la ville de la liberté](plot_03_libreville.md) il est l'homme de l'estuaire et de l'église qui, au coeur du pays qui se forme, recueille et écrit la mémoire des siens pour que les morts ne se taisent pas. Il sert [les ancêtres](position_les_ancetres.md) en gardant leur parole, faisant de l'écrit un reliquaire où la sagesse des vieux reste vivante.
+Dans [Libreville, la ville de la liberté](plot_03_libreville.md) il est l'homme de l'estuaire et de l'église qui, au cœur du pays qui se forme, recueille et écrit la mémoire des siens pour que les morts ne se taisent pas. Il sert [les ancêtres](position_les_ancetres.md) en gardant leur parole, faisant de l'écrit un reliquaire où la sagesse des vieux reste vivante.
 
 ## Shadow
 

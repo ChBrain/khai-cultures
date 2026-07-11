@@ -30,8 +30,8 @@ Vers la paix par le rire et la familiarité obligée: ces cousins-là se doivent
 
 ## Lever
 
-Le porte l'esprit du Manden qui prefere lier les hommes par l'accord que par la force, et ces vieux pactes que les anciens ont noues pour que des clans rivaux soient tenus de plaisanter plutot que de se battre. En face se tient l'oubli de ces liens chez ceux qui ne savent plus leur nom ni leur cousin; mais la ou le sinankunya tient, l'injure devient blague et la blague devient paix.
+Le porte l'esprit du Manden qui préfère lier les hommes par l'accord que par la force, et ces vieux pactes que les anciens ont noués pour que des clans rivaux soient tenus de plaisanter plutôt que de se battre. En face se tient l'oubli de ces liens chez ceux qui ne savent plus leur nom ni leur cousin; mais là où le sinankunya tient, l'injure devient blague et la blague devient paix.
 
 ## Echo
 
-Le sinankunya rend vivant ce qu'ordonne [le Manden](position_le_manden.md): que les peuples se tiennent par les liens jures plutot que par le couteau. C'est par ces cousinages que le pays de [Soundiata Keita](persona_soundiata.md) garde ensemble, le long du fleuve, ses nombreux peuples.
+Le sinankunya rend vivant ce qu'ordonne [le Manden](position_le_manden.md): que les peuples se tiennent par les liens jurés plutôt que par le couteau. C'est par ces cousinages que le pays de [Soundiata Keita](persona_soundiata.md) garde ensemble, le long du fleuve, ses nombreux peuples.

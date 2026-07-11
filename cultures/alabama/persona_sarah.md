@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-six-year-old aerospace engineer in Huntsville. [Alabama English](position_language_en_us_al.md), spoken with a fast-paced technical drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her engineering logs. She speaks no foreign languages. Yet the loss lies in the seam: The slower, community-bound talk of historians like Albert and the traditional organizing histories of the Black Belt [she hears only like a distant echo](process_hearing_followed.md), feeling that the social legacy of the state is treated as a secondary constraint in the race for technological space breakthroughs. She belongs to the [Heart of Dixie](position_culture_heart_of_dixie.md), the state's double inheritance, and carries the half of it built at the Huntsville test stands.
+A thirty-six-year-old aerospace engineer in Huntsville. [Alabama English](position_language_en_us_al.md), clipped into a fast technical drawl, is her mother tongue, the language she [speaks](process_speaking_mother_tongue.md) at the console and writes into her engineering logs. She speaks no foreign languages. Here is where it thins out for her: the slower, porch-and-pew talk of historians like Albert, and the Black Belt's organizing history, [reach her only secondhand, like a signal off another frequency](process_hearing_followed.md), and she catches herself treating that history as a footnote to the harder problem of getting a rocket off the pad. She belongs to the [Heart of Dixie](position_culture_heart_of_dixie.md), the state's double inheritance, and she carries the half raised at the Huntsville test stands.
 
 ## Action
 

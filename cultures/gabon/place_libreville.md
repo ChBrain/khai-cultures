@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capitale posée sur la rive nord de l'estuaire, là où le pays vert touche l'océan: une ville étirée le long de l'eau, le bord de mer et les marchés, les quartiers populaires et les immeubles montés au temps du pétrole. Ville née de la liberté rendue, fondée pour des captifs posés à terre et redevenus libres, elle porte son nom comme une promesse. C'est le coeur où se mêlent tous les peuples du pays, Fang et Myene, Punu et Nzebi, et le point où le Gabon regarde le monde et où le monde le regarde.
+La capitale posée sur la rive nord de l'estuaire, là où le pays vert touche l'océan: une ville étirée le long de l'eau, le bord de mer et les marchés, les quartiers populaires et les immeubles montés au temps du pétrole. Ville née de la liberté rendue, fondée pour des captifs posés à terre et redevenus libres, elle porte son nom comme une promesse. C'est le cœur où se mêlent tous les peuples du pays, Fang et Myene, Punu et Nzebi, et le point où le Gabon regarde le monde et où le monde le regarde.
 
 ## Holds
 
@@ -31,7 +31,7 @@ La capitale posée sur la rive nord de l'estuaire, là où le pays vert touche l
 
 ## Offers
 
-Un lieu où le pays se rassemble et se montre à lui-même: la ville de la liberté où des hommes sans pays s'en sont fait un, le coeur où les peuples de la forêt et du fleuve se découvrent un même Gabon, et la fenêtre par où le pays parle au monde et reçoit ce qui vient de la mer.
+Un lieu où le pays se rassemble et se montre à lui-même: la ville de la liberté où des hommes sans pays s'en sont fait un, le cœur où les peuples de la forêt et du fleuve se découvrent un même Gabon, et la fenêtre par où le pays parle au monde et reçoit ce qui vient de la mer.
 
 ## Withheld
 

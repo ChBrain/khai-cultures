@@ -23,7 +23,7 @@ Alabama, the Yellowhammer State in the East South Central region of the United S
 
 ## Arc
 
-A land of justice struggles and technological innovation, defined by the soils of the Black Belt. From the pivotal community organizing of the Montgomery Bus Boycott and the industrial expansion of the Birmingham steel mills, to the rocket engine testing at Huntsville's Space Flight Center. A culture that balances the civil rights organizing heritage of its historic cities with the aerospace engineering of its research corridors, even as it plans the ecological protection of the Mobile Bay Estuary.
+Alabama preaches on Sunday and tests engines the rest of the week, the Black Belt's dark soil under both. Montgomery's year-long boycott broke segregation's back on foot; Birmingham's furnaces poured the iron that raised the state's cities; Huntsville's test stands still shake the ground where Saturn V once proved out. The same courthouse-square patience that carried the picket lines now signs off on rocket hardware, even as the state works to keep the Mobile Bay Estuary from washing away under all that growth.
 
 ## Company
 
@@ -78,4 +78,4 @@ Industrialists build massive blast furnaces in Birmingham, launching iron and st
 
 ## Stakes
 
-Whether an industrializing state with heavy manufacturing ports can successfully implement conservation plans to protect the Mobile Bay Estuary from runoff.
+Whether a state still built on steel and heavy shipping can make its conservation plans for the Mobile Bay Estuary hold against the runoff.

@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Au milieu du dix-neuvième siècle, sur la rive nord de l'estuaire où les Myéné ont depuis longtemps leurs villages, un poste s'installe. Et là, un jour, on pose à terre des captifs pris à bord d'un navire de traite et rendus à eux-mêmes, des hommes et des femmes qui n'ont plus de pays à eux.
+Au milieu du dix-neuvième siècle, sur la rive nord de l'estuaire où les Myene ont depuis longtemps leurs villages, un poste s'installe. Et là, un jour, on pose à terre des captifs pris à bord d'un navire de traite et rendus à eux-mêmes, des hommes et des femmes qui n'ont plus de pays à eux.
 
 ## Action
 

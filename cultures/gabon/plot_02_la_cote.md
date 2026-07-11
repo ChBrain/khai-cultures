@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Meeting at the Ocean"
-declared: "la rencontre au bord de l'ocean"
+declared: "la rencontre au bord de l'océan"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: la rencontre au bord de l'ocean
+# Plot: la rencontre au bord de l'océan
 
 ## Taxonomy
 
@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-À partir du quinzième siècle, des bateaux venus de loin paraissent au large de la côte. Ce sont les Myéné de l'estuaire et du bord de mer qui les rencontrent les premiers, eux qui se tiennent là où le fleuve se jette dans l'océan et qui deviennent, bon gré mal gré, les hommes du milieu entre l'intérieur et la mer.
+À partir du quinzième siècle, des bateaux venus de loin paraissent au large de la côte. Ce sont les Myene de l'estuaire et du bord de mer qui les rencontrent les premiers, eux qui se tiennent là où le fleuve se jette dans l'océan et qui deviennent, bon gré mal gré, les hommes du milieu entre l'intérieur et la mer.
 
 ## Action
 

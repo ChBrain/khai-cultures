@@ -62,7 +62,7 @@ E roko te tautaeka n Ingiriti ae e atongaki bwa te Gilbert and Ellice Islands, a
 
 **Pitches**
 
-- [the I-Kiribati tone](pitch_gil.md)
+- [te taetae ni Kiribati](pitch_gil.md)
 
 **Plans**
 

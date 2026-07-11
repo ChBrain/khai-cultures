@@ -26,7 +26,7 @@ Bien avant que rien ne soit écrit, la grande forêt est déjà habitée. Les pr
 
 ## Action
 
-Les peuples s'installent où la forêt et la rivière le permettent: les Myéné se tiennent près de la côte et de l'estuaire, les Fang descendent en grand nombre vers le nord et le centre, les Punu, les Nzébi et les Téké prennent le sud et l'intérieur. Chacun apporte sa langue, ses masques, ses ancêtres et sa façon de lire le grand vert, mais tous apprennent la même chose: vivre petits sous une forêt immense, prendre à elle ce qu'il faut sans la vider, et garder leurs morts tout près. Sous les arbres naît une manière d'être gabonais bien avant le mot, faite de respect pour le vieux, de partage du plat et de chants pour les ancêtres.
+Les peuples s'installent où la forêt et la rivière le permettent: les Myene se tiennent près de la côte et de l'estuaire, les Fang descendent en grand nombre vers le nord et le centre, les Punu, les Nzebi et les Teke prennent le sud et l'intérieur. Chacun apporte sa langue, ses masques, ses ancêtres et sa façon de lire le grand vert, mais tous apprennent la même chose: vivre petits sous une forêt immense, prendre à elle ce qu'il faut sans la vider, et garder leurs morts tout près. Sous les arbres naît une manière d'être gabonais bien avant le mot, faite de respect pour le vieux, de partage du plat et de chants pour les ancêtres.
 
 ## Stage
 

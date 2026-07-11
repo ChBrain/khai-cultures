@@ -23,7 +23,7 @@ Maine, the Pine Tree State in the New England region of the United States. ISO U
 
 ## Arc
 
-A land of maritime heritage and forestry self-reliance, defined by the rocky coasts of the Atlantic. From the political division of the Missouri Compromise separating Maine and the industrial expansion of the lobster fishery docks, to the environmental devastation of the Great Acadia Forest Fire. A culture that balances the coastal stewardship of its fishery communities with the independent woodcraft of its conifer forests, even as it plans the protection of the Gulf of Maine.
+Maritime heritage and forestry self-reliance both, set against rocky Atlantic coast and back-country woodlot - you can't get there from here, and everybody means it kindly. The Missouri Compromise split Maine from Massachusetts in 1820; the lobster fishery docks built a trade the state still runs on; the Great Acadia Forest Fire tore through Mount Desert Island and reshaped how the woods get managed. Coastal towns keep faith with the tide and the trap, interior towns with the woodlot and the saw, both keeping watch now over the Gulf of Maine.
 
 ## Company
 
@@ -78,4 +78,4 @@ Wildfires burn over seventeen thousand acres on Mount Desert Island, launching m
 
 ## Stakes
 
-Whether an industrializing coastal state with warming waters can successfully execute fishery management plans to protect lobster populations.
+Whether a coastal state with warming waters can get its fishery management plans right before the lobster population crashes.

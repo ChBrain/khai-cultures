@@ -75,11 +75,11 @@ Avant la carte coloniale, les cavaliers mossi fondent leurs royaumes sur le plat
 
 Le pays est pris dans la colonie de la Haute-Volta, découpée, défaite, puis refaite ; les royaumes plient sans rompre, et [la chefferie mossi](position_la_chefferie.md) traverse l'épreuve en gardant sa parole, jusqu'au jour de l'indépendance.
 
-**[Plot 3: le pays des hommes integres](plot_03_burkina_faso.md)**
+**[Plot 3: le pays des hommes intègres](plot_03_burkina_faso.md)**
 
 En 1984 le pays se rebaptise lui-même Burkina Faso, le pays des hommes intègres ; [Thomas Sankara](persona_sankara.md) porte [l'intégrité](position_culture_l_integrite.md) et l'idée de compter d'abord sur ses propres bras, et le nom devient un serment que la nation se fait à elle-même.
 
-**[Plot 4: Ouagadougou, capitale du cinema](plot_04_fespaco.md)**
+**[Plot 4: Ouagadougou, capitale du cinéma](plot_04_fespaco.md)**
 
 Tous les deux ans le FESPACO fait de [Ouagadougou](place_ouagadougou.md) la capitale du cinéma d'Afrique ; [Gaston Kabore](persona_kabore.md) et les cinéastes y portent [le cinéma](position_le_cinema.md) burkinabè, et le pays pauvre se découvre riche d'images et de paroles.
 

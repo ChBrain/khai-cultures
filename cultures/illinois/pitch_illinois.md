@@ -21,7 +21,7 @@ The pitch of [Illinois](play_illinois.md). It tunes the pragmatic, industrious, 
 
 ## Tenor
 
-A pragmatic, industrious, and straightforward tone. The communication is direct, business-like, and polite, emphasizing practical results, trade, and logistics. It is a voice of commerce and transport - prioritizing architectural engineering, agricultural trade, and neighborhood organizations. This pragmatic language shapes both the trading floors of the Loop and the farming communities downstate, valuing physical work and organizational efficiency.
+Chicago talks fast and gets to the point; downstate talks slower but means just as much business. Straight talk and a handshake that counts run the same current through the trading floor and the grain elevator. It is a voice of commerce and transport, close to blueprints and rail schedules as it is to ward-office meetings and corn futures. Physical work and getting the job done carry the same weight from the Loop to the last county road.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the pragmatism lies a persistent political and economic polarization betwe
 
 ## Nerve
 
-The conviction that industrial logistics, architectural innovation, and agricultural volume are the true drivers of economic progress and social stability.
+It plays the chord of the city that rebuilds after the fire and the farm that never misses a season: industrial logistics, architectural nerve, and a harvest brought in on time, the things Illinois trusts to keep the lights on and the state moving.
 
 ## Echo
 
-The rumble of elevated trains and the wind rustling through miles of flat cornfields : an echo that is open, loud, and industrious.
+The rumble of elevated trains over the Loop and the wind working through miles of flat cornfields, open and loud clear down to the last county line.

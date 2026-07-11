@@ -30,7 +30,7 @@ That local town rule and historic precedent be respected before any statewide ma
 
 ## Loses
 
-Ground in the widening gap between the wealthy corporate and academic suburbs of the southwest and the resource-dependent industrial valleys further east, each certain the other does not understand what keeps the state actually running; ground when the fast, metric-driven talk of shipyard engineers and defense contractors treats the patient rhythm of the town meeting and the historic record as a secondary concern next to a defense contract deadline; and ground when statewide zoning or environmental mandates are felt to override the very municipal self-determination the state was founded to practice.
+Ground in the widening gap between the wealthy corporate and academic suburbs of the southwest and the resource-dependent industrial valleys further east, each certain the other does not understand what keeps the state actually running; ground when the deadline-driven talk of shipyard engineers and defense contractors treats the patient rhythm of the town meeting and the historic record as a secondary concern next to a defense contract deadline; and ground when statewide zoning or environmental mandates are felt to override the very municipal self-determination the state was founded to practice.
 
 ## Drives
 

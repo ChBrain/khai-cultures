@@ -26,9 +26,9 @@ La capitale, Ouaga comme on dit ici, posée au coeur du plateau mossi : le palai
 
 ## Holds
 
-- [les royaumes mossi](plot_01_royaumes_mossi.md): le siege du Mogho Naba et le coeur du monde mossi.
-- [le pays des hommes integres](plot_03_burkina_faso.md): la capitale d'ou le pays se rebaptise et choisit de compter sur ses propres bras.
-- [Ouagadougou, capitale du cinema](plot_04_fespaco.md): la ville qui devient, tous les deux ans, la capitale du cinema d'Afrique.
+- [les royaumes mossi](plot_01_royaumes_mossi.md): le siège du Mogho Naba et le coeur du monde mossi.
+- [le pays des hommes intègres](plot_03_burkina_faso.md): la capitale d'où le pays se rebaptise et choisit de compter sur ses propres bras.
+- [Ouagadougou, capitale du cinéma](plot_04_fespaco.md): la ville qui devient, tous les deux ans, la capitale du cinéma d'Afrique.
 
 ## Offers
 

@@ -30,7 +30,7 @@ That the land be worked through its full season regardless of what the city need
 
 ## Loses
 
-Ground where the fast, transaction-driven talk of the Loop's architects and planners drowns out the slower, season-dependent rhythm of the downstate farmer, so that agricultural policy gets set by an urban political center that forgets where its food comes from. It loses ground, too, in the widening gap between a high-density, tech-focused metropolis and a vast agricultural heartland that no longer vote or grow in the same rhythm, and in the immigrant heritage that survives now mostly as festival and surname rather than as living daily tongue.
+Ground where the quick, transaction-driven talk of the Loop's architects and planners drowns out the slower, season-dependent rhythm of the downstate farmer, so that agricultural policy gets set by an urban political center that forgets where its food comes from. It loses ground, too, in the widening gap between a high-density, tech-focused metropolis and a vast agricultural heartland that no longer vote or grow in the same rhythm, and in the immigrant heritage that survives now mostly as festival and surname rather than as living daily tongue.
 
 ## Drives
 

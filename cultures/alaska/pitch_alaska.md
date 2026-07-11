@@ -21,7 +21,7 @@ The pitch of [Alaska](play_alaska.md). It tunes the thoughtful, informal, and me
 
 ## Tenor
 
-A thoughtful, informal, and mechanical tone. The communication is conversational, polite, and practical, combining native subsistence vocabulary with pipeline engineering and wilderness terms. It is a voice of ice and transport - prioritizing caribou protection plans, cleanroom pipeline tests, and historic village preservation. This practical language shapes both the arctic rig platforms and the coastal hunting circles, valuing family self-reliance and group survival.
+Alaska talks like a sourdough sizing up a cheechako: plain, practical, no more words than the job needs. That same flat, get-it-done voice carries subsistence terms - the seal season, the fish camp - right alongside pipeline engineering and wilderness survival talk, because out here the same person often needs both. It runs on caribou protection plans, pipeline pressure tests, and keeping a village's history from washing out with the permafrost, and it shapes talk on the rig platforms the same way it shapes talk around a coastal fish camp: family carries you, and the season decides everything.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the expa
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for traditional native land stewardship are the true anchors of a stable society.
+It plays the note every bush-plane distance teaches: that shared family labor, hard-won technical skill, and respect for the land's own native stewards are what actually hold a community together out here.
 
 ## Echo
 
-The hiss of arctic wind over frozen tundra and the clang of a pipeline pipe wrench : an echo that is loud, cold, and mechanical.
+Wind hissing flat across frozen tundra and a wrench clanging against pipeline steel, both loud, both cold, with the whole state's distance holding them apart.

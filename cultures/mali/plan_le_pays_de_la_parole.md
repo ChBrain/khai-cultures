@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Le mandat que le Mali se donne à lui-même, hérité de Kouroukan Fouga: tenir vivante la parole donnée du [Manden](position_le_manden.md), garder l'héritage de [l'empire sahelien](position_l_empire_sahelien.md), le fleuve, le carrefour et les villes de terre, et continuer de donner au monde la [parole](position_la_parole.md) et le son comme le pays donnait jadis son or, sans laisser tarir la voix qui porte tout cela.
+Le mandat que le Mali se donne à lui-même, hérité de Kouroukan Fouga: tenir vivante la parole donnée du [Manden](position_le_manden.md), garder l'héritage de [l'empire sahélien](position_l_empire_sahelien.md), le fleuve, le carrefour et les villes de terre, et continuer de donner au monde la [parole](position_la_parole.md) et le son comme le pays donnait jadis son or, sans laisser tarir la voix qui porte tout cela.
 
 ## Owner
 

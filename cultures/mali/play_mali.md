@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-Le Mali, vaste pays sans mer au coeur du Sahel ouest-africain, traversé par le grand fleuve Niger qui s'ouvre en delta intérieur avant de remonter vers le nord. ISO ML, langue de travail le français, mais c'est le bambara, le bamanankan, qui se parle au marché et sous l'arbre à palabres, aux côtés du songhai, du peul, du tamasheq, du dogon et de bien d'autres. Une terre dont le nom dit l'empire d'autrefois et que le vieux dicton résume: ici, le passé n'est jamais mort, on l'entend chanter par la bouche du jeli.
+Le Mali, vaste pays sans mer au cœur du Sahel ouest-africain, traversé par le grand fleuve Niger qui s'ouvre en delta intérieur avant de remonter vers le nord. ISO ML, langue de travail le français, mais c'est le bambara, le bamanankan, qui se parle au marché et sous l'arbre à palabres, aux côtés du songhai, du peul, du tamasheq, du dogon et de bien d'autres. Une terre dont le nom dit l'empire d'autrefois et que le vieux dicton résume: ici, le passé n'est jamais mort, on l'entend chanter par la bouche du jeli.
 
 ## Arc
 
@@ -49,7 +49,7 @@ Le Mali porte un nom qui fut celui d'un empire, et il le porte sans rougir. Avan
 
 - [la culture malienne](position_culture_culture_malienne.md)
 - [le Manden](position_le_manden.md)
-- [l'empire sahelien](position_l_empire_sahelien.md)
+- [l'empire sahélien](position_l_empire_sahelien.md)
 - [la parole](position_la_parole.md)
 - [le français du Mali](position_language_fr_ml.md)
 
@@ -70,7 +70,7 @@ Le Mali porte un nom qui fut celui d'un empire, et il le porte sans rougir. Avan
 
 **[Plot 1: l'empire du Ghana](plot_01_ghana.md)**
 
-Bien avant le Mali, l'empire du Ghana, le pays de l'or, regne sur le Sahel et fait du commerce transsaharien la veine du pays, posant la premiere assise de [l'empire sahelien](position_l_empire_sahelien.md) que le Mali heritera.
+Bien avant le Mali, l'empire du Ghana, le pays de l'or, règne sur le Sahel et fait du commerce transsaharien la veine du pays, posant la première assise de [l'empire sahélien](position_l_empire_sahelien.md) que le Mali héritera.
 
 **[Plot 2: l'empire du Mali](plot_02_empire_mali.md)**
 
@@ -80,7 +80,7 @@ Vers 1235 [Soundiata Keita](persona_soundiata.md) fonde l'empire du Mali et donn
 
 Le Songhai prend le relais et, à [Tombouctou](place_tombouctou.md), les savants alignent [les manuscrits](piece_les_manuscrits.md) par dizaines de milliers: le Sahel devient une terre de livres autant que d'or, et le savoir s'ajoute à la parole.
 
-**[Plot 4: la parole donnee au monde](plot_04_la_parole_au_monde.md)**
+**[Plot 4: la parole donnée au monde](plot_04_la_parole_au_monde.md)**
 
 Le Mali d'aujourd'hui se lève sur l'héritage des empires et donne au monde sa musique: par la kora et le ngoni, [Ali Farka Touré](persona_ali_farka_toure.md) et les siens portent la [parole](position_la_parole.md) malienne jusqu'aux oreilles de la terre entière.
 

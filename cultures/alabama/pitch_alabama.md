@@ -21,7 +21,7 @@ The pitch of [Alabama](play_alabama.md). It tunes the thoughtful, informal, and 
 
 ## Tenor
 
-A thoughtful, informal, and narrative tone. The communication is conversational, polite, and story-driven, combining civil rights organizing vocabulary with aerospace engineering and industrial steel terms. It is a voice of justice and science - prioritizing estuary protection, cleanroom rocket testing, and historic civil rights archiving. This narrative language shapes both the research corridors and the community archives, valuing group solidarity and historical memory.
+Alabama talks the way it worships and coaches: unhurried, story-first, testimony passed hand to hand at a covered-dish supper or a tailgate. That same voice carries civil rights organizing terms next to aerospace telemetry and blast-furnace shop talk without missing a beat - a courthouse-square drawl doing double duty as engineering shorthand. It leans on protecting the estuary, proving out rocket hardware, and keeping the boycott's paper trail safe in an archive, and it trusts a story told slow over a fact stated flat, prizing the memory a community keeps together over the memory any one person owns.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that community organizing, advanced technical competence, and local resource stewardship are the true anchors of a resilient society.
+It plays the note the state has always preached: that patient organizing, precise engineering, and care for the land it stands on hold a community up better than any one of the three alone.
 
 ## Echo
 
-The whistle of a train carrying steel and the roar of a rocket test stand : an echo that is loud, hot, and resilient.
+A train whistle hauling steel out of Birmingham and a test stand roaring over Huntsville, both loud, both hot, with the Black Belt's quiet running underneath the whole time.

@@ -23,7 +23,7 @@ Arizona, the Grand Canyon State in the Southwestern region of the United States.
 
 ## Arc
 
-A land of desert extremes and geological scale, defined by its water management and native heritage. From the early federal protection of the Grand Canyon and the development of the Central Arizona Project canal systems, to the critical code contributions of Navajo marines in World War II. A culture that balances the mining and self-reliance traditions of the Southwest frontier with the environmental water conservation policies of its growing desert cities.
+Arizona is scaled by the canyon and rationed by the aquifer, desert light doing the rest of the work. Congress fenced the Grand Canyon off from the miners in 1919, the Central Arizona Project later cut a canal across the desert to keep the cities drinking, and in between, Navajo marines built a code out of their own language that the Pacific war never broke. Bisbee's copper mines and a rancher's self-reliance sit against the water-metering that keeps Phoenix and Tucson alive, both sides watching the same monsoon clouds for the same reason.
 
 ## Company
 
@@ -78,4 +78,4 @@ President Lyndon B. Johnson signs the bill authorizing the Central Arizona Proje
 
 ## Stakes
 
-Whether a desert state experiencing rapid urban population growth can successfully manage declining groundwater aquifers to sustain its municipal and agricultural sectors.
+Whether a fast-growing desert state can keep its declining groundwater aquifers going long enough to carry both its cities and its farms.

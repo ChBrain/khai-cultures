@@ -21,7 +21,7 @@ The pitch of [Arizona](play_arizona.md). It tunes the thoughtful, informal, and 
 
 ## Tenor
 
-A thoughtful, informal, and rustic tone. The communication is conversational, direct, and environmental, integrating Southwest mining terms with native Navajo descriptors. It is a voice of adaptation and heritage - prioritizing groundwater management, copper smelting safety, and traditional weaving techniques. This informal language shapes both the mine safety briefings and the tribal weaving circles, valuing water conservation and ancestral customs.
+Arizona talks the way its light hits: direct, no haze on it. A snowbird just off the plane and a rancher three generations deep get the same plain, straight-ahead sentence, mining terms and Navajo descriptors sitting comfortably in the same conversation because the desert has always made people share vocabulary along with water. It runs on groundwater management, copper smelting safety, and the patience a good weaving takes, and that same directness carries from a mine safety briefing to a reservation weaving circle, where water conservation and the old customs both count as common sense.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the desert sun lies a persistent tension between the rapidly growing, high
 
 ## Nerve
 
-The conviction that water stewardship, technical geological competence, and respect for native land rights are the true anchors of a sustainable desert society.
+It plays the note the desert enforces on everyone in it: that water stewardship, hard geological know-how, and respect for native land rights are what actually keep a desert society standing.
 
 ## Echo
 
-The dry crunch of gravel under boots and the whistle of wind through saguaro cactus needles : an echo that is hot, dry, and resilient.
+Gravel crunching dry under a boot and wind whistling through saguaro needles, both hot, both dry, both built to outlast whoever is listening.

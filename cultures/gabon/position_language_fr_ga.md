@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Ce que le français permet d'exprimer que les langues bantoues voisines ne rendent pas de la même manière: un genre grammatical binaire, masculin et féminin, porté par l'article et non par un système de classes nominales comme dans le fang ou le myéné; un temps verbal riche, qui distingue le passé composé du passé simple et de l'imparfait; et un vocabulaire abstrait prêt à nommer le droit, l'administration et l'école, là où un parler de village doit forger le mot.
+Ce que le français permet d'exprimer que les langues bantoues voisines ne rendent pas de la même manière: un genre grammatical binaire, masculin et féminin, porté par l'article et non par un système de classes nominales comme dans le fang ou le myene; un temps verbal riche, qui distingue le passé composé du passé simple et de l'imparfait; et un vocabulaire abstrait prêt à nommer le droit, l'administration et l'école, là où un parler de village doit forger le mot.
 
 ## Orders
 
@@ -30,7 +30,7 @@ L'accord du genre et du nombre à travers l'adjectif et l'article; le choix entr
 
 ## Loses
 
-Le système de classes nominales qui organise le fang, le myéné ou le punu, où chaque nom porte un préfixe qui accorde tout autour de lui; une part du ton qui, dans ces langues, change le sens du mot, puisque le français ne marque pas la hauteur de la voix comme une information grammaticale; et beaucoup de mots concrets de la forêt, de la rivière et de la parenté que le français emprunte ou traduit mal, faute de les avoir jamais nommés lui-même.
+Le système de classes nominales qui organise le fang, le myene ou le punu, où chaque nom porte un préfixe qui accorde tout autour de lui; une part du ton qui, dans ces langues, change le sens du mot, puisque le français ne marque pas la hauteur de la voix comme une information grammaticale; et beaucoup de mots concrets de la forêt, de la rivière et de la parenté que le français emprunte ou traduit mal, faute de les avoir jamais nommés lui-même.
 
 ## Drives
 

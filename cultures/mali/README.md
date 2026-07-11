@@ -36,7 +36,7 @@ Estate; a culture with no Estate is not yet a production.
   Djenné (the inland delta market town and its Great Mosque of earth, remade by
   hand each year).
 - **Processes:** griotage (the keeping and giving of memory by voice) and the
-  sinankunya (the joking kinship, cousinage a plaisanterie, that keeps the peace
+  sinankunya (the joking kinship, cousinage à plaisanterie, that keeps the peace
   by laughter).
 - **Pieces:** the kora (the harp-lute that carries the griot's word, with the
   ngoni beside it) and the manuscripts (the Sahel's memory on paper alongside its

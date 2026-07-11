@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "The Lost-Wax Bronze"
-declared: "le bronze a la cire perdue"
+declared: "le bronze à la cire perdue"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,11 +10,11 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Piece: le bronze a la cire perdue
+# Piece: le bronze à la cire perdue
 
 ## Taxonomy
 
-[le cinema](position_le_cinema.md)
+[le cinéma](position_le_cinema.md)
 
 ## Owner
 

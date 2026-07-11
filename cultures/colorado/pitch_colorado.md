@@ -21,7 +21,7 @@ The pitch of [Colorado](play_colorado.md). It tunes the thoughtful, informal, an
 
 ## Tenor
 
-A thoughtful, informal, and athletic tone. The communication is conversational, direct, and wellness-oriented, combining outdoor adventure terms with clean-tech venture capital terminology. It is a voice of alpine performance and conservation stewardship - prioritizing wilderness safety, renewable energy innovation, and high-altitude sports training. This informal language shapes both the ski patrol briefing cabins and the Denver tech labs, valuing environmental health and active living.
+Altitude talks first here, and everyone else adjusts to it. A ski patroller calling avalanche danger over the radio and a Front Range founder pitching grid-scale batteries use the same plain, direct register - short sentences, no wasted breath, because thin air punishes anyone who runs on. Powder days set the moral calendar: meetings move, the mountain doesn't. That same unhurried directness fills clean-tech term sheets and ski patrol briefings alike, at home in a 10,000-foot briefing cabin and a Denver pitch meeting both.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the outdoor lifestyle lies a persistent tension between the rapidly expand
 
 ## Nerve
 
-The conviction that environmental preservation, high-altitude physical endurance, and clean-tech entrepreneurship are the true anchors of a sustainable society.
+It plays the note that altitude is earned: wilderness kept, lungs trained thin, and clean-tech ambition all owing the same mountain their keep.
 
 ## Echo
 
-The hiss of ski edges on hard-packed snow and the hum of wind turbines along the foothills : an echo that is cold, crisp, and innovative.
+The hiss of ski edges biting hard-packed snow and the low turn of wind turbines along the foothills - a sound cold, thin, and wide awake, same as the air.

@@ -34,4 +34,4 @@ Pierde la voz de las lenguas que nombraron primero esta tierra, el mangue ya cas
 
 ## Drives
 
-Obliga a quien la habla a medir a cada rato la distancia con vos o con usted antes de abrir la boca. Acostumbra a pensar el pasado en dos formas distintas, la accion cerrada y la que apenas se repetia, y a marcar aparte la duda y el deseo con un modo verbal propio. Y deja al hablante comodo omitiendo el sujeto, confiado en que el propio verbo ya dice quien actua, un habito que una lengua sin esa fusion no puede permitirse.
+Obliga a quien la habla a medir a cada rato la distancia con vos o con usted antes de abrir la boca. Acostumbra a pensar el pasado en dos formas distintas, la acción cerrada y la que apenas se repetía, y a marcar aparte la duda y el deseo con un modo verbal propio. Y deja al hablante cómodo omitiendo el sujeto, confiado en que el propio verbo ya dice quién actúa, un hábito que una lengua sin esa fusión no puede permitirse.

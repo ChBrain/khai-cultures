@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La vieille ville-marché du delta intérieur du Niger, bâtie tout entière de banco, cette terre crue pétrie de paille et d'eau. En son coeur, la grande mosquée, la plus vaste construction de terre du monde, hérissée de poutres de palmier qui sont autant d'échelles et d'ornements; chaque année, avant les pluies, toute la ville se rassemble pour la recrépir d'un nouvel enduit, et la fête du crépissage refait l'édifice de la main des hommes. Le lundi, le grand marché couvre la place devant la mosquée, comme il le fait depuis des siècles.
+La vieille ville-marché du delta intérieur du Niger, bâtie tout entière de banco, cette terre crue pétrie de paille et d'eau. En son cœur, la grande mosquée, la plus vaste construction de terre du monde, hérissée de poutres de palmier qui sont autant d'échelles et d'ornements; chaque année, avant les pluies, toute la ville se rassemble pour la recrépir d'un nouvel enduit, et la fête du crépissage refait l'édifice de la main des hommes. Le lundi, le grand marché couvre la place devant la mosquée, comme il le fait depuis des siècles.
 
 ## Holds
 

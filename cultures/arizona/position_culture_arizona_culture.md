@@ -30,7 +30,7 @@ That the desert's limits are respected before they are tested, water measured an
 
 ## Loses
 
-Ground when unregulated mining or unchecked urban growth draws down the water table and displaces the native communities whose stewardship long predates the state line; ground when the fast, metric-driven talk of engineers and developers treats the desert's older, patient rhythms as background noise instead of a warning; and ground in the standing gap between the growing metropolitan centers and the reservation and ranching lands that depend on the same river and the same rain, each side certain the other does not understand what the desert actually costs.
+Ground when unregulated mining or unchecked urban growth draws down the water table and displaces the native communities whose stewardship long predates the state line; ground when the clipped, metric-driven talk of engineers and developers treats the desert's older, patient rhythms as background noise instead of a warning; and ground in the standing gap between the growing metropolitan centers and the reservation and ranching lands that depend on the same river and the same rain, each side certain the other does not understand what the desert actually costs.
 
 ## Drives
 

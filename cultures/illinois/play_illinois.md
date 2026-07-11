@@ -23,7 +23,7 @@ Illinois, the Prairie State in the Midwestern region of the United States. ISO U
 
 ## Arc
 
-A land of agricultural wealth and soaring architecture, defined by its role as the transport and industrial heart of the nation. From the political debates of Abraham Lincoln in Springfield and the devastating Great Chicago Fire of 1871 to the rebuilding boom that created the first skyscrapers and the massive rail networks linking east and west. A culture that balances Midwestern pragmatism and farming resilience with the intense commercial ambition of its metropolis.
+Broad shoulders over flat cornrows: Illinois carries both the transport and industrial heart of the nation and the fields that feed it. Lincoln argued his cases plain in Springfield before the Union asked more of him; the Great Chicago Fire of 1871 burned the wooden city down, and the rebuilding raised the first skyscrapers and the rail lines that tie east to west through the Loop. Downstate patience and Chicago's hustling ambition run in the same state, city and country reading each other differently but neither able to do without the other.
 
 ## Company
 
@@ -78,4 +78,4 @@ The growth of transcontinental rail lines converges on Chicago, making it the ag
 
 ## Stakes
 
-Whether a state divided between a high-density, tech-focused metropolis and a vast agricultural heartland can maintain political alignment and manage its water infrastructure.
+Whether a state split between a hustling, high-rise metropolis and a vast agricultural heartland can hold together at the ballot box and keep the Chicago River's reversed current under control.

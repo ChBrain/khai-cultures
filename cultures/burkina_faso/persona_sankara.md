@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[l'integrite](position_culture_l_integrite.md)
+[l'intégrité](position_culture_l_integrite.md)
 
 ## Owner
 

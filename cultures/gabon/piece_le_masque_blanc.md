@@ -26,7 +26,7 @@ Sur le visage du danseur des peuples du sud, Punu et Lumbu, juché sur de hautes
 
 ## Load Bearing
 
-Il porte le lien des vivants et des morts: le masque blanc n'est pas un ornement mais le visage d'un esprit revenu, le mort qui danse à nouveau parmi les siens. Le blanc dit le monde de l'au-delà, les yeux mi-clos disent celui qui voit l'autre côté, et quand l'homme sur ses échasses se meut dans la nuit, c'est l'ancêtre qui se montre. Le monde l'a pris pour un chef-d'oeuvre de l'art et a raison, mais chez lui sa vraie charge n'est pas d'être beau: c'est de garder ouverte la porte entre les vivants et leurs ancêtres. Sans ce visage clair, l'esprit n'aurait pas de corps pour revenir danser.
+Il porte le lien des vivants et des morts: le masque blanc n'est pas un ornement mais le visage d'un esprit revenu, le mort qui danse à nouveau parmi les siens. Le blanc dit le monde de l'au-delà, les yeux mi-clos disent celui qui voit l'autre côté, et quand l'homme sur ses échasses se meut dans la nuit, c'est l'ancêtre qui se montre. Le monde l'a pris pour un chef-d'œuvre de l'art et a raison, mais chez lui sa vraie charge n'est pas d'être beau: c'est de garder ouverte la porte entre les vivants et leurs ancêtres. Sans ce visage clair, l'esprit n'aurait pas de corps pour revenir danser.
 
 ## Apparent
 

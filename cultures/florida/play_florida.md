@@ -23,7 +23,7 @@ Florida, the Sunshine State in the southeastern peninsula of the United States. 
 
 ## Arc
 
-A land of rapid growth, leisure dreams, and technological frontiers, defined by its subtropical climate and role as a gateway. From the early Spanish settlement of St. Augustine and the massive real estate speculation of the 1920s land boom to the scientific triumphs of Cape Canaveral and the urgent preservation of the Everglades. A culture that prioritizes indulgence, development, and new frontiers, even as it faces seasonal hurricanes and rising sea levels.
+Nobody plans past hurricane season here, and everybody builds anyway - that's the hustle from Pensacola to the Keys. St. Augustine's Spanish stone watched the peninsula get sold as paradise in the 1920s, then as a launch pad at Cape Canaveral, then as the wild edge worth saving in the Everglades. It chases the next boom and the next rocket window, betting the coastline can take one more round.
 
 ## Company
 

@@ -30,7 +30,7 @@ Du haut Moyen Âge jusque vers le onzième siècle, l'empire du Ghana, que ses v
 
 ## Stage
 
-- [l'empire sahelien](position_l_empire_sahelien.md): l'assise du fleuve et du commerce du désert, posée ici la première fois.
+- [l'empire sahélien](position_l_empire_sahelien.md): l'assise du fleuve et du commerce du désert, posée ici la première fois.
 - [Djenné](place_djenne.md): la vieille ville-marché du delta intérieur, carrefour du fleuve dès avant le Mali.
 
 ## Tension

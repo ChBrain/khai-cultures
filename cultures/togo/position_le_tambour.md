@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Le battement qui tient le pays ensemble par les pieds et par le coeur: le tambour qui parle, le chant qui répond, et la danse qui relève tout le village. Du sud au nord, l'agbadza des Ewe, les rythmes de la côte, les danses des collines kabye, c'est la même vérité, que la parole importante ne se dit pas que par la bouche, mais par la peau tendue, par le pied qui frappe la terre et par la voix qui monte. Le tambour annonce la naissance et le deuil, appelle au travail commun et à la fête, et porte la mémoire là où l'écrit n'allait pas. C'est la position qui dit que le Togo se raconte autant en rythme qu'en mots.
+Le battement qui tient le pays ensemble par les pieds et par le cœur: le tambour qui parle, le chant qui répond, et la danse qui relève tout le village. Du sud au nord, l'agbadza des Ewe, les rythmes de la côte, les danses des collines kabye, c'est la même vérité, que la parole importante ne se dit pas que par la bouche, mais par la peau tendue, par le pied qui frappe la terre et par la voix qui monte. Le tambour annonce la naissance et le deuil, appelle au travail commun et à la fête, et porte la mémoire là où l'écrit n'allait pas. C'est la position qui dit que le Togo se raconte autant en rythme qu'en mots.
 
 ## Orders
 

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[le cinema](position_le_cinema.md)
+[le cinéma](position_le_cinema.md)
 
 ## Owner
 

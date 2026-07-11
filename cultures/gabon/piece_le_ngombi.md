@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Dans les mains du joueur au temple du Bwiti, au coeur de la nuit: la harpe sacrée à huit cordes, son corps de bois souvent sculpté d'une figure de femme, ses cordes tendues entre le manche courbe et la caisse, sa voix douce et insistante qui porte le chant. Le ngombi accompagne aussi, hors du rite, le chant des poètes comme Akendengué, mais c'est dans la nuit de l'iboga qu'il est chez lui, instrument du passage.
+Dans les mains du joueur au temple du Bwiti, au cœur de la nuit: la harpe sacrée à huit cordes, son corps de bois souvent sculpté d'une figure de femme, ses cordes tendues entre le manche courbe et la caisse, sa voix douce et insistante qui porte le chant. Le ngombi accompagne aussi, hors du rite, le chant des poètes comme Akendengué, mais c'est dans la nuit de l'iboga qu'il est chez lui, instrument du passage.
 
 ## Load Bearing
 

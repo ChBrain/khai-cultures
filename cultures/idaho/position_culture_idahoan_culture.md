@@ -30,7 +30,7 @@ That water be treated as the scarcest and most contested resource, worth enginee
 
 ## Loses
 
-Ground where the fast, technical talk of canal engineers and irrigation technicians drowns out the patient, treaty-bound rhythm of tribal land stewardship, so that river ecosystem preservation gets treated as secondary to commercial potato yields and speedway tourism. It loses ground, too, where the mountain counties and the farming counties fail to see themselves in each other, wilderness zoning read by one as protection and by the other as a threat to family land use, and where the Snake River Aquifer, the resource that built the state, is drawn down faster than it can be protected.
+Ground where the clipped, technical talk of canal engineers and irrigation technicians drowns out the patient, treaty-bound rhythm of tribal land stewardship, so that river ecosystem preservation gets treated as secondary to commercial potato yields and speedway tourism. It loses ground, too, where the mountain counties and the farming counties fail to see themselves in each other, wilderness zoning read by one as protection and by the other as a threat to family land use, and where the Snake River Aquifer, the resource that built the state, is drawn down faster than it can be protected.
 
 ## Drives
 
