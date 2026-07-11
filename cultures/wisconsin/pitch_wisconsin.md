@@ -21,7 +21,7 @@ The pitch of [Wisconsin](play_wisconsin.md). It tunes the thoughtful, informal, 
 
 ## Tenor
 
-A thoughtful, informal, and collaborative tone. The communication is conversational, polite, and community-minded, integrating agricultural terms with German-American midwestern idioms. It is a voice of work and cooperation - prioritizing cheese making craftsmanship, industrial brewing standards, and public university research. This cooperative language shapes both the dairy board meetings and the lake vessel cabins, valuing group solidarity and clean governance.
+Wisconsinites talk the way they pour a round at the tavern: easy, unhurried, and assuming everybody gets a turn. Agricultural terms sit comfortably beside German-American Midwestern idioms, the same voice that names a cheese grade also orders up a Friday fish fry. It is a voice of work and cooperation, given over to cheese-making craft, industrial brewing standards, and public university research. That same cooperative language shapes both the dairy board meetings and the lake vessel cabins, valuing group solidarity and clean governance over any one person's credit.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the cooperative spirit lies a persistent tension between the progressive u
 
 ## Nerve
 
-The conviction that shared agricultural labor, public educational partnerships, and transparent local administration are the true anchors of a stable society.
+Shared agricultural labor, public educational partnerships, and administration that keeps its books open - Wisconsin treats these as what actually keeps a society stable.
 
 ## Echo
 
-The hum of a stainless-steel pasteurizer and the clink of glass bottles in a shipping crate : an echo that is cold, clean, and collaborative.
+The hum of a stainless-steel pasteurizer, the clink of glass bottles settling into a shipping crate - cold, clean, and built on everybody doing their part.
