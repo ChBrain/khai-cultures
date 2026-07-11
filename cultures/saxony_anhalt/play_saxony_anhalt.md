@@ -43,6 +43,7 @@ Das Kernland der protestantischen Reformation durch das Wirken Martin Luthers in
 
 **Positions**
 
+- [die sachsen-anhaltische Kultur](position_culture_sachsen_anhaltische_kultur.md)
 - [der Fortschritt](position_fortschritt.md)
 - [die Glaubensfreiheit](position_glaubensfreiheit.md)
 - [die Bodenarbeit](position_bodenarbeit.md)

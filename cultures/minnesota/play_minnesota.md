@@ -44,6 +44,7 @@ A land of wilderness waters and technical innovation, defined by the headwaters 
 
 **Positions**
 
+- [the Star of the North](position_culture_star_of_the_north.md)
 - [Minnesota nice](position_minnesota_nice.md)
 - [northwoods resilience](position_northwoods_resilience.md)
 - [Minnesotan English](position_language_en_us_mn.md)

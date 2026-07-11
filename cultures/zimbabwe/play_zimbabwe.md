@@ -47,7 +47,7 @@ We are old before we are new. Long before any line was drawn on a map, the ances
 
 **Positions**
 
-- [hunhu](position_hunhu.md)
+- [hunhu](position_culture_hunhu.md)
 - [the houses of stone](position_houses_of_stone.md)
 - [the ancestral voice](position_ancestral_voice.md)
 - [Zimbabwean English](position_language_en_zw.md)
@@ -73,7 +73,7 @@ Between roughly the eleventh and the fifteenth centuries our forebears raise [th
 
 **[Plot 2: the gathering of the peoples](plot_02_gathering_peoples.md)**
 
-Across the centuries the high plateau is peopled by two great nations and many smaller, the Shona long settled and the Ndebele coming up under their kings to the west, so that the land of [hunhu](position_hunhu.md) is shared in equal dignity by Shona and Ndebele together.
+Across the centuries the high plateau is peopled by two great nations and many smaller, the Shona long settled and the Ndebele coming up under their kings to the west, so that the land of [hunhu](position_culture_hunhu.md) is shared in equal dignity by Shona and Ndebele together.
 
 **[Plot 3: the taking of the name](plot_03_taking_the_name.md)**
 
@@ -85,4 +85,4 @@ In the modern age the [ancestral voice](position_ancestral_voice.md) carries to 
 
 ## Stakes
 
-Whether a nation named for the houses of stone can keep faith with the builders, holding Shona and Ndebele and all its peoples in equal dignity under the one name; whether [hunhu](position_hunhu.md) can hold a person a person through other people when the world pulls each one to stand alone; whether the [ancestral voice](position_ancestral_voice.md) of the mbira and the sculptor's stone keeps sounding in the young as it sounded in the old; and whether, through every hard season the land has known, the country can restand its inheritance the way the forebears laid the granite, stone upon stone and no mortar, so that it holds.
+Whether a nation named for the houses of stone can keep faith with the builders, holding Shona and Ndebele and all its peoples in equal dignity under the one name; whether [hunhu](position_culture_hunhu.md) can hold a person a person through other people when the world pulls each one to stand alone; whether the [ancestral voice](position_ancestral_voice.md) of the mbira and the sculptor's stone keeps sounding in the young as it sounded in the old; and whether, through every hard season the land has known, the country can restand its inheritance the way the forebears laid the granite, stone upon stone and no mortar, so that it holds.

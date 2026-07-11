@@ -47,7 +47,7 @@ Moris li pa enn pei kot enn sel pep finn grandi lor so prop later. Li enn zil ki
 
 **Positions**
 
-- [lalit ansam](position_lalit_ansam.md)
+- [lalit ansam](position_culture_lalit_ansam.md)
 - [Morisien](position_language_mfe.md)
 - [lakord bann lafwa](position_lakord_lafwa.md)
 
@@ -68,7 +68,7 @@ Moris li pa enn pei kot enn sel pep finn grandi lor so prop later. Li enn zil ki
 
 **[Plot 1: lapeplman zil](plot_01_lapeplman.md)**
 
-Enn zil vid dan losean Indien koumans ranpli: bann marin debarke, bann Olande, apre bann Franse fonn Port Louis, ek depi sa moman la sak vag amenn so dimoun, [lalit ansam](position_lalit_ansam.md) koumans aprann ki diferan dwatet viv lor enn sel later.
+Enn zil vid dan losean Indien koumans ranpli: bann marin debarke, bann Olande, apre bann Franse fonn Port Louis, ek depi sa moman la sak vag amenn so dimoun, [lalit ansam](position_culture_lalit_ansam.md) koumans aprann ki diferan dwatet viv lor enn sel later.
 
 **[Plot 2: lesklavaz](plot_02_lesklavaz.md)**
 

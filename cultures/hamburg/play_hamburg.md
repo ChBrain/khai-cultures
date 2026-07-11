@@ -46,6 +46,7 @@ Die stolze Kaufmannsrepublik an der Elbe, die durch das Barbarossa-Privileg von 
 - [der Kaufmannsstolz](position_pfeffersack.md)
 - [das Tor zur Welt](position_tor_zur_welt.md)
 - [der Kiez](position_kiez.md)
+- [das Hanseatentum](position_culture_hanseatentum.md)
 - [das Hamburger Hochdeutsch](position_language_de_de_hh.md)
 
 **Pieces**

@@ -47,7 +47,7 @@ A small island whose story is far larger than its shores. First the home of the 
 
 **Positions**
 
-- [out of many, one people](position_out_of_many_one_people.md)
+- [out of many, one people](position_culture_out_of_many_one_people.md)
 - [the resistance](position_the_resistance.md)
 - [reggae and Rastafari](position_reggae_and_rastafari.md)
 - [Jamaican English](position_language_en_jm.md)
@@ -81,8 +81,8 @@ In 1962 the island wins independence, Rastafari rises in the yards of Kingston, 
 
 **[Plot 4: Likkle but Tallawah](plot_04_likkle_but_tallawah.md)**
 
-Modern Jamaica makes its size no measure of its reach: [Louise Bennett](persona_louise_bennett.md) raises the Patois into letters and pride, the sprinters make it the fastest nation on earth, and [out of many, one people](position_out_of_many_one_people.md) holds the many roots as one across the island and its diaspora.
+Modern Jamaica makes its size no measure of its reach: [Louise Bennett](persona_louise_bennett.md) raises the Patois into letters and pride, the sprinters make it the fastest nation on earth, and [out of many, one people](position_culture_out_of_many_one_people.md) holds the many roots as one across the island and its diaspora.
 
 ## Stakes
 
-Whether a small island that became a global cultural superpower can turn that reach into opportunity at home - into work, into schooling, into a way up for the youth - and can heal the inequality and the violence that shadow the swagger, can hold the many roots of [out of many, one people](position_out_of_many_one_people.md) together as one, and can keep the pride and the defiance of a people likkle but tallawah without letting the gap between the global fame and the local struggle pull it apart.
+Whether a small island that became a global cultural superpower can turn that reach into opportunity at home - into work, into schooling, into a way up for the youth - and can heal the inequality and the violence that shadow the swagger, can hold the many roots of [out of many, one people](position_culture_out_of_many_one_people.md) together as one, and can keep the pride and the defiance of a people likkle but tallawah without letting the gap between the global fame and the local struggle pull it apart.

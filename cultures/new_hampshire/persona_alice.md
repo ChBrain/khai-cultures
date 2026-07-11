@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old maple producer in Plymouth. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily production logs. It is the [New Hampshire English](position_language_en_us_nh.md) of the Plymouth sugarhouse, the warm Yankee drawl of the town meeting. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of railway engineers like Robert and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal moderator debates is treated as secondary to corporate railroads and resort entertainment.
+A fifty-two-year-old maple producer in Plymouth. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily production logs. It is the [New Hampshire English](position_language_en_us_nh.md) of the Plymouth sugarhouse, the warm Yankee drawl of the town meeting. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of railway engineers like Robert and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of municipal moderator debates is treated as secondary to corporate railroads and resort entertainment. She belongs to [Live Free or Die](position_culture_live_free_or_die.md) as the producer who defends the town meeting's plain right to answer for itself, batch by graded batch.
 
 ## Action
 

@@ -47,7 +47,7 @@ Two islands the Taino and Kalinago held first, that Columbus sighted in 1498 and
 
 **Positions**
 
-- [the callaloo nation](position_the_callaloo_nation.md)
+- [the callaloo nation](position_culture_the_callaloo_nation.md)
 - [mas, pan and calypso](position_mas_pan_and_calypso.md)
 - [the West Indian mind](position_the_west_indian_mind.md)
 - [the Trinidadian tongue](position_language_en_tt.md)
@@ -69,7 +69,7 @@ Two islands the Taino and Kalinago held first, that Columbus sighted in 1498 and
 
 **[Plot 1: Cocoa, Cane and the Ships from India](plot_01_cocoa_cane_and_the_ships_from_india.md)**
 
-The Taino and Kalinago hold the islands first; Spain and then Britain plant cocoa and cane and work them on slavery, and when slavery ends the ships from India bring the indentured - the gap between the promised wage and the barracks - and out of it all the [callaloo nation](position_the_callaloo_nation.md) begins to form on islands like [Tobago](place_tobago.md).
+The Taino and Kalinago hold the islands first; Spain and then Britain plant cocoa and cane and work them on slavery, and when slavery ends the ships from India bring the indentured - the gap between the promised wage and the barracks - and out of it all the [callaloo nation](position_culture_the_callaloo_nation.md) begins to form on islands like [Tobago](place_tobago.md).
 
 **[Plot 2: the West Indian Awakening](plot_02_the_west_indian_awakening.md)**
 
@@ -81,7 +81,7 @@ In the yards the [panman](persona_the_panman.md) beats the steelpan out of oil d
 
 **[Plot 4: the Energy Nation](plot_04_the_energy_nation.md)**
 
-Oil and gas make the twin islands the richest of the Caribbean; [V.S. Naipaul](persona_vs_naipaul.md) writes the Indo-Trinidadian world into world letters, and Divali and Hosay keep the [callaloo nation](position_the_callaloo_nation.md) plural in a cosmopolitan present.
+Oil and gas make the twin islands the richest of the Caribbean; [V.S. Naipaul](persona_vs_naipaul.md) writes the Indo-Trinidadian world into world letters, and Divali and Hosay keep the [callaloo nation](position_culture_the_callaloo_nation.md) plural in a cosmopolitan present.
 
 ## Stakes
 

@@ -25,11 +25,11 @@ Në qershor të vitit 1389, një ushtri e përbërë nga koalicioni i popujve t�
 
 ## Action
 
-Beteja, ku mbeten të vrarë si sulltani osman ashtu edhe princi serb, shënon fillimin e shtrirjes së gjatë osmane në Ballkan. Ajo shndërrohet në një pikë kyçe të kujtesës epike të qëndresës së popullit në [Kosova](position_kosova.md), ku këngët me çifteli përjetësojnë betejën. Adem tregon me krenari këto vargje në odë.
+Beteja, ku mbeten të vrarë si sulltani osman ashtu edhe princi serb, shënon fillimin e shtrirjes së gjatë osmane në Ballkan. Ajo shndërrohet në një pikë kyçe të kujtesës epike të qëndresës së popullit në [Kosova](position_culture_kosova.md), ku këngët me çifteli përjetësojnë betejën. Adem tregon me krenari këto vargje në odë.
 
 ## Stage
 
-- [Kosova](position_kosova.md) : fusha historike e betejës që mban emrin e vendit.
+- [Kosova](position_culture_kosova.md) : fusha historike e betejës që mban emrin e vendit.
 - [çiftelia](piece_cifteli.md) : vegla muzikore me të cilën rpsodët këndojnë trimërinë e betejës.
 - [Adem](persona_adem.md) : fshatari i vjetër që ruan trashëgiminë e këngëve të qëndresës.
 

@@ -47,7 +47,7 @@ A country that the map makes small and the welcome makes large. Its spine is the
 
 **Positions**
 
-- [the Warm Heart](position_warm_heart.md)
+- [the Warm Heart](position_culture_the_warm_heart.md)
 - [the many peoples](position_the_peoples.md)
 - [the Lake of Stars](position_lake_of_stars.md)
 - [the bridge tongue](position_language_en_mw.md)
@@ -81,7 +81,7 @@ In 1915 [John Chilembwe](persona_chilembwe.md), a mission-trained pastor of the 
 
 **[Plot 4: the Warm Heart](plot_04_the_nation.md)**
 
-In 1964 the country takes its own name and its flag and governs itself from [Lilongwe](place_lilongwe.md), and Malawi makes its name in the world as the Warm Heart of Africa, its musicians and its masked dancers carrying [the Warm Heart](position_warm_heart.md) far past its borders.
+In 1964 the country takes its own name and its flag and governs itself from [Lilongwe](place_lilongwe.md), and Malawi makes its name in the world as the Warm Heart of Africa, its musicians and its masked dancers carrying [the Warm Heart](position_culture_the_warm_heart.md) far past its borders.
 
 ## Stakes
 

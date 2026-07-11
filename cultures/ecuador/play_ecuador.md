@@ -50,6 +50,7 @@ Tierrita antigua de los pueblos que ya estaban, donde Quito fue capitalcita del 
 - [el país plurinacional](position_el_pais_plurinacional.md)
 - [la sierra y la costa](position_sierra_y_costa.md)
 - [la libertad andina](position_la_libertad_andina.md)
+- [la ecuatorianidad](position_culture_ecuatorianidad.md)
 - [el español ecuatoriano](position_language_es_ec.md)
 
 **Pieces**

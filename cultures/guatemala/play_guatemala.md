@@ -47,6 +47,7 @@ Una nación que es ante todo el corazón del mundo maya: aquí se alzó Tikal en
 
 **Positions**
 
+- [la chapinidad](position_culture_chapinidad.md)
 - [el mundo maya](position_el_mundo_maya.md)
 - [el país de los pueblos](position_el_pais_de_los_pueblos.md)
 - [la herida y la palabra](position_la_herida_y_la_palabra.md)

@@ -26,7 +26,7 @@ Op de feesttafel, bij de verjaardag, de bruiloft en het kerkfeest, en bij elke g
 
 ## Load Bearing
 
-Het draagt het gedeelde feest van wan bon: een gerecht dat zijn wortel heeft in de tajer en in de Joods-Creoolse keukengeschiedenis van het oude Suriname en dat is uitgegroeid tot het feestgerecht waar alle volken van het land het over eens zijn. Overal waar de natie samenkomt om te vieren, daar staat de pom op tafel, en de sma die hem maken geven met het recept een stuk van de geschiedenis door. Het verbindt zo de menging van [wan bon](position_wan_bon.md) aan de tafel: een blad van de keuken dat de hele boom is gaan delen. Zonder dit gerecht zou het Surinaamse feest zijn meest herkenbare smaak missen.
+Het draagt het gedeelde feest van wan bon: een gerecht dat zijn wortel heeft in de tajer en in de Joods-Creoolse keukengeschiedenis van het oude Suriname en dat is uitgegroeid tot het feestgerecht waar alle volken van het land het over eens zijn. Overal waar de natie samenkomt om te vieren, daar staat de pom op tafel, en de sma die hem maken geven met het recept een stuk van de geschiedenis door. Het verbindt zo de menging van [wan bon](position_culture_wan_bon.md) aan de tafel: een blad van de keuken dat de hele boom is gaan delen. Zonder dit gerecht zou het Surinaamse feest zijn meest herkenbare smaak missen.
 
 ## Apparent
 

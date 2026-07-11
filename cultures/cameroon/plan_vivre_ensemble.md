@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Le mandat ouvert que le pays se donne a lui-meme: tenir ensemble les cent visages de [l'Afrique en miniature](position_l_afrique_en_miniature.md) sans laisser la difference devenir fracture, honorer a egale dignite les deux heritages du [bilinguisme](position_le_bilinguisme.md), francophone et anglophone, et garder vivantes l'autorite ancienne et la memoire que porte [la chefferie](position_la_chefferie.md), comme une racine et non comme une chaine.
+Le mandat ouvert que le pays se donne a lui-meme: tenir ensemble les cent visages de [l'Afrique en miniature](position_culture_l_afrique_en_miniature.md) sans laisser la difference devenir fracture, honorer a egale dignite les deux heritages du [bilinguisme](position_le_bilinguisme.md), francophone et anglophone, et garder vivantes l'autorite ancienne et la memoire que porte [la chefferie](position_la_chefferie.md), comme une racine et non comme une chaine.
 
 ## Owner
 

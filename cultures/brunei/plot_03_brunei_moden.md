@@ -26,7 +26,7 @@ Selepas abad-abad yang menyaksikan kerajaan menyempit ke tanah air asalnya, data
 
 ## Action
 
-Pada tahun seribu sembilan ratus lima puluh sembilan negeri menerima perlembagaan bertulisnya, dan falsafah [Melayu Islam Beraja](position_melayu_islam_beraja.md) ditegakkan sebagai sendi negara. Kemakmuran yang baru tumbuh daripada minyak dan gas dibelanjakan untuk masjid, sekolah, dan jalan, dan di tengah ibu negeri dibangunkan masjid besar yang bercermin di permukaan air, menjadi mercu tanda negara. Negeri yang tua menyusun semula dirinya menjadi sebuah negara moden, tanpa melepaskan agama, raja, dan bahasanya.
+Pada tahun seribu sembilan ratus lima puluh sembilan negeri menerima perlembagaan bertulisnya, dan falsafah [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md) ditegakkan sebagai sendi negara. Kemakmuran yang baru tumbuh daripada minyak dan gas dibelanjakan untuk masjid, sekolah, dan jalan, dan di tengah ibu negeri dibangunkan masjid besar yang bercermin di permukaan air, menjadi mercu tanda negara. Negeri yang tua menyusun semula dirinya menjadi sebuah negara moden, tanpa melepaskan agama, raja, dan bahasanya.
 
 ## Stage
 

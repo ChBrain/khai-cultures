@@ -50,6 +50,7 @@ Una tierra vieja y menudita, herida y aguantadora al mismo tiempo. Antes de la c
 - [lo pipil](position_lo_pipil.md)
 - [la tierra y la herida](position_la_tierra_y_la_herida.md)
 - [el hermano lejano](position_el_hermano_lejano.md)
+- [la salvadoreñidad](position_culture_salvadorenidad.md)
 - [el español salvadoreño](position_language_es_sv.md)
 
 **Pieces**

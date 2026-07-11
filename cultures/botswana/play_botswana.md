@@ -47,7 +47,7 @@ Naga e e simologileng kwa bogologolong, kwa Basarwa, batho ba ntlha, ba neng ba 
 
 **Positions**
 
-- [botho](position_botho.md)
+- [botho](position_culture_botho.md)
 - [kgotla](position_kgotla.md)
 - [dikgomo](position_dikgomo.md)
 - [Setswana](position_language_tn.md)
@@ -77,7 +77,7 @@ Merafe ya Batswana e aga setshwarwa sa [kgotla](position_kgotla.md), mme dikgosi
 
 **[Plot 3: Boipuso le Seretse](plot_03_boipuso.md)**
 
-Ka 1966 [Seretse Khama](persona_seretse.md) a gogela naga kwa boipuso kwa [Gaborone](place_gaborone.md) ka [botho](position_botho.md) le ka tlotlo, naga e simolola loeto lwa yona e le e e iketlileng.
+Ka 1966 [Seretse Khama](persona_seretse.md) a gogela naga kwa boipuso kwa [Gaborone](place_gaborone.md) ka [botho](position_culture_botho.md) le ka tlotlo, naga e simolola loeto lwa yona e le e e iketlileng.
 
 **[Plot 4: Diamane le tlhabololo](plot_04_diamane.md)**
 

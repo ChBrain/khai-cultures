@@ -47,6 +47,7 @@ Una cornisa cantábrica de desfiladeros verdes, cumbres de piedra caliza y honda
 - [la montaña cantábrica](position_cantabrian_mountain.md)
 - [el asturiano](position_asturian_language.md)
 - [el español de Asturias](position_language_es_es_as.md)
+- [la cultura asturiana](position_culture_cultura_asturiana.md)
 
 **Pieces**
 

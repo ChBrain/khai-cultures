@@ -43,6 +43,7 @@ Ein kleines Land von Bergtälern, das durch kluge Diplomatie und die Treue zum F
 
 **Positions**
 
+- [die liechtensteinische Kultur](position_culture_die_liechtensteinische_kultur.md)
 - [das Fürstenhaus](position_fuerstenhaus.md)
 - [das Rheintal](position_rheintal.md)
 - [der Finanzplatz](position_finanzplatz.md)

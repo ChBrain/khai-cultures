@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [বাঙালিয়ানা](position_culture_bangaliyana.md)
 - [মাতৃভাষা](position_language_bn.md)
 - [নদীর দেশ](position_nadir_desh.md)
 - [সমন্বয়ী বিশ্বাস](position_samannay.md)

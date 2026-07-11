@@ -47,6 +47,7 @@ Sa qai vakatekivu na italanoa ena iTaukei, ko ira na taukei ni vanua era a soko 
 
 **Positions**
 
+- [na itovo vakaViti](position_culture_itovo_vakaviti.md)
 - [na vanua kei na turaga](position_na_vanua_kei_na_turaga.md)
 - [na lewe rua](position_na_lewe_rua.md)
 - [na wasawasa kei na yaqona](position_na_wasawasa_kei_na_yaqona.md)

@@ -51,6 +51,7 @@ stamp:
 
 **Positions**
 
+- [中华文明](position_culture_zhonghua_wenming.md)
 - [天命](position_tianming.md)
 - [孝](position_xiao.md)
 - [三教](position_sanjiao.md)

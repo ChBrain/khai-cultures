@@ -31,7 +31,7 @@ Boganda donne au pays son nom, la Republique centrafricaine, et lui laisse, en t
 ## Stage
 
 - [Barthelemy Boganda](persona_boganda.md): le pere fondateur qui donne au pays son nom et sa devise.
-- [zo kwe zo](position_zo_kwe_zo.md): le creed sobre de la nation, pose comme une seule idee a tenir.
+- [zo kwe zo](position_culture_zo_kwe_zo.md): le creed sobre de la nation, pose comme une seule idee a tenir.
 - [Bangui](place_bangui.md): la capitale d'ou s'eleve le reve d'une nation et ou il se grave.
 
 ## Tension

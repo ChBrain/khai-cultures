@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-The open mandate the country set itself when it chose to become one: the endless work of holding the [Rainbow Nation](position_rainbow_nation.md) together in real and equal dignity, of keeping [reconciliation](position_reconciliation.md) a living thing chosen again and again rather than a fine word said once, and of living out [ubuntu](position_ubuntu.md) so that the home is truly a home for every one of us, every people and every tongue, with a place at the table for all.
+The open mandate the country set itself when it chose to become one: the endless work of holding the [Rainbow Nation](position_rainbow_nation.md) together in real and equal dignity, of keeping [reconciliation](position_reconciliation.md) a living thing chosen again and again rather than a fine word said once, and of living out [ubuntu](position_culture_ubuntu.md) so that the home is truly a home for every one of us, every people and every tongue, with a place at the table for all.
 
 ## Owner
 

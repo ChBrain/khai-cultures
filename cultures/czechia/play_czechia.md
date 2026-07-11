@@ -47,6 +47,7 @@ Malý slovanský národ ve středu Evropy, který od husitů přes Bílou horu p
 
 **Positions**
 
+- [češství](position_culture_cesstvi.md)
 - [český jazyk](position_language_cs.md)
 - [švejkování](position_svejkovani.md)
 - [bezvěrectví](position_bezverectvi.md)

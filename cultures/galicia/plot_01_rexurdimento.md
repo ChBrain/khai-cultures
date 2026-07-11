@@ -25,11 +25,11 @@ En 1863, Rosalía de Castro publica Cantares Gallegos, iniciando la restauració
 
 ## Action
 
-La publicación dignifica el gallego escrito, desarrollando la [identidad gallega](position_galician_identity.md). La [gaita](piece_gaita.md) acompaña los cantos populares en las romerías. Rosalía recopila partituras de canciones tradicionales, mientras Xoán restaura coplas antiguas transmitidas oralmente.
+La publicación dignifica el gallego escrito, desarrollando la [identidad gallega](position_culture_identidad_gallega.md). La [gaita](piece_gaita.md) acompaña los cantos populares en las romerías. Rosalía recopila partituras de canciones tradicionales, mientras Xoán restaura coplas antiguas transmitidas oralmente.
 
 ## Stage
 
-- [la identidad gallega](position_galician_identity.md) : la lengua literaria gallega, la morriña poética y la tradición oral parroquial.
+- [la identidad gallega](position_culture_identidad_gallega.md) : la lengua literaria gallega, la morriña poética y la tradición oral parroquial.
 - [la gaita](piece_gaita.md) : la cornamusa de madera con fuelle tradicional de Galicia.
 - [la catedral de Santiago](place_santiago_cathedral.md) : la catedral románica del destino histórico del Camino.
 

@@ -34,4 +34,4 @@ Hem i kam tru long nid blong wan ples we ol man oli save kam wantaem mo toktok l
 
 ## Echo
 
-Kava long nakamal i mekem yumi luk wanem [kastom](position_kastom.md) i nidim: wan ples we ol man oli kam wantaem long kwaet, jajem ol problem, mo holem fasin blong ol bubu. Long nakamal ya [Jif Kastom](persona_jif_kastom.md) i sidaon, jajem ol problem wetem kava mo agri blong evriwan, mo holem rank blong tusk blong hem.
+Kava long nakamal i mekem yumi luk wanem [kastom](position_culture_kastom.md) i nidim: wan ples we ol man oli kam wantaem long kwaet, jajem ol problem, mo holem fasin blong ol bubu. Long nakamal ya [Jif Kastom](persona_jif_kastom.md) i sidaon, jajem ol problem wetem kava mo agri blong evriwan, mo holem rank blong tusk blong hem.

@@ -47,7 +47,7 @@ Een land dat al bewoond werd door inheemse volken toen het een Nederlandse kolon
 
 **Positions**
 
-- [wan bon](position_wan_bon.md)
+- [wan bon](position_culture_wan_bon.md)
 - [de marronvrijheid](position_de_marronvrijheid.md)
 - [de koloniale wond](position_de_koloniale_wond.md)
 - [Nederlands](position_language_nl_sr.md)
@@ -81,7 +81,7 @@ Na de afschaffing brengen de schepen [de contractarbeider](persona_de_contractar
 
 **[Plot 4: De Veelbladige Boom](plot_04_de_veelbladige_boom.md)**
 
-Met de onafhankelijkheid van 1975 en de trek naar Nederland wordt het moderne, plurale Suriname geboren, en [Dobru](persona_dobru.md) bezingt het als [wan bon](position_wan_bon.md), een boom met vele bladeren die wortelt diep in [het binnenland](place_het_binnenland.md).
+Met de onafhankelijkheid van 1975 en de trek naar Nederland wordt het moderne, plurale Suriname geboren, en [Dobru](persona_dobru.md) bezingt het als [wan bon](position_culture_wan_bon.md), een boom met vele bladeren die wortelt diep in [het binnenland](place_het_binnenland.md).
 
 ## Stakes
 

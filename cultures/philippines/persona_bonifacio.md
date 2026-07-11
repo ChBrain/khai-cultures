@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[kapwa](position_kapwa.md)
+[kapwa](position_culture_kapwa.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Ang anak ng Tondo na nawalan ng magulang nang bata pa, nagtrabaho upang buhayin 
 
 ## Action
 
-Sa [ang Himagsikan](plot_03_ang_himagsikan.md) ay binuklod niya ang [kapwa](position_kapwa.md) ng marami sa ngalan ng iisang adhikain, dinala ang pagkagising mula sa pahina patungo sa pagkilos ng buong bayan. Pinatunayan niyang ang pag-ibig sa lupa ay hindi lamang para sa nakaaangat kundi para sa karaniwang tao na siyang bumubuo sa bansa.
+Sa [ang Himagsikan](plot_03_ang_himagsikan.md) ay binuklod niya ang [kapwa](position_culture_kapwa.md) ng marami sa ngalan ng iisang adhikain, dinala ang pagkagising mula sa pahina patungo sa pagkilos ng buong bayan. Pinatunayan niyang ang pag-ibig sa lupa ay hindi lamang para sa nakaaangat kundi para sa karaniwang tao na siyang bumubuo sa bansa.
 
 ## Shadow
 

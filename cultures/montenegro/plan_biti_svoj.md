@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Mandat, stalno otvoren: pitanje koje obnovljena Crna Gora postavlja sama sebi, naime kako da bude svoja a ne odvojena od bliskog brata, da [crnogorstvo](position_crnogorstvo.md) izgradi u jedan građanski narod, da [junaštvo i čojstvo](position_junastvo_cojstvo.md) prenese s plemena u građansku čast, i da sačuva [gorsku slobodu i kamen](position_brdjanski_kamen.md) i jadransku obalu, mala ali svoja u Evropi.
+Mandat, stalno otvoren: pitanje koje obnovljena Crna Gora postavlja sama sebi, naime kako da bude svoja a ne odvojena od bliskog brata, da [crnogorstvo](position_culture_crnogorstvo.md) izgradi u jedan građanski narod, da [junaštvo i čojstvo](position_junastvo_cojstvo.md) prenese s plemena u građansku čast, i da sačuva [gorsku slobodu i kamen](position_brdjanski_kamen.md) i jadransku obalu, mala ali svoja u Evropi.
 
 ## Owner
 

@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [بلاد شنقيط](position_culture_bilad_shinqit.md)
 - [البادية](position_albadia.md)
 - [المحظرة](position_almahadra.md)
 - [الضيافة](position_aldyafa.md)

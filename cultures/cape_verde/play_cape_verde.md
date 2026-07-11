@@ -47,6 +47,7 @@ Quando os portugeses chegaram, por volta de 1460, estas ilhas estavam vazias de 
 
 **Positions**
 
+- [a kabuverdianidade](position_culture_kabuverdianidade.md)
 - [a sodade](position_sodade.md)
 - [a morabeza](position_morabeza.md)
 - [o kriolu](position_kriolu.md)

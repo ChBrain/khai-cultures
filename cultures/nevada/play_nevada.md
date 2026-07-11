@@ -44,6 +44,7 @@ A land of entertainment speculation and desert innovation, defined by the dry va
 
 **Positions**
 
+- [the Silver State](position_culture_silver_state.md)
 - [desert chance](position_desert_chance.md)
 - [basin resilience](position_basin_resilience.md)
 - [Nevadan English](position_language_en_us_nv.md)

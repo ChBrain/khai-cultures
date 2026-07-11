@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-eight-year-old archivist in Philadelphia. English, spoken with a clear Mid-Atlantic cadence, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the voice of her daily work. It is the [Pennsylvania English](position_language_en_us_pa.md) of Philadelphia, the clear Mid-Atlantic cadence of the archives. She speaks no foreign languages. Yet the loss lies in the seam: The fast, market-oriented industrial talk of workers like John and the economic planning [she reads only as historical statistics](process_reading_followed.md) on her terminal, feeling that the patient Quaker values of silent consensus and the founding liberties are being replaced by transaction-driven urban development.
+A fifty-eight-year-old archivist in Philadelphia. English, spoken with a clear Mid-Atlantic cadence, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the voice of her daily work. It is the [Pennsylvania English](position_language_en_us_pa.md) of Philadelphia, the clear Mid-Atlantic cadence of the archives. She speaks no foreign languages. Yet the loss lies in the seam: The fast, market-oriented industrial talk of workers like John and the economic planning [she reads only as historical statistics](process_reading_followed.md) on her terminal, feeling that the patient Quaker values of silent consensus and the founding liberties are being replaced by transaction-driven urban development. She belongs to [Keystone culture](position_culture_keystone_culture.md) as the archivist who guards the founding charter's tolerance against a city that forgets it.
 
 ## Action
 

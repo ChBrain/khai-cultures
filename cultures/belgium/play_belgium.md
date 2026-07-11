@@ -47,6 +47,7 @@ Un pays inventé comme État tampon, neutre et garanti, et bâti en français su
 
 **Positions**
 
+- [la belgitude](position_culture_belgitude.md)
 - [la frontière linguistique](position_la_frontiere_linguistique.md)
 - [le compromis à la belge](position_le_compromis_belge.md)
 - [la Couronne](position_la_couronne.md)

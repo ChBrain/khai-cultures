@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[Melayu Islam Beraja](position_melayu_islam_beraja.md)
+[Melayu Islam Beraja](position_culture_melayu_islam_beraja.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Sultan ke dua puluh lapan, dikenang sebagai arkitek Brunei moden, raja yang meny
 
 ## Action
 
-Dalam [Brunei moden](plot_03_brunei_moden.md) ia memberi negeri perlembagaan, menegakkan [Melayu Islam Beraja](position_melayu_islam_beraja.md) sebagai sendi, dan membangunkan masjid serta sekolah dengan kemakmuran yang baru. Dengan tangannya negeri tua itu menyusun semula dirinya menjadi sebuah negara moden tanpa melepaskan agama, raja, dan bahasanya.
+Dalam [Brunei moden](plot_03_brunei_moden.md) ia memberi negeri perlembagaan, menegakkan [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md) sebagai sendi, dan membangunkan masjid serta sekolah dengan kemakmuran yang baru. Dengan tangannya negeri tua itu menyusun semula dirinya menjadi sebuah negara moden tanpa melepaskan agama, raja, dan bahasanya.
 
 ## Shadow
 

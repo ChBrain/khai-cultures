@@ -34,4 +34,4 @@ Ia digerakkan oleh keyakinan bahawa agama adalah cahaya negeri dan amanah yang d
 
 ## Echo
 
-Mengaji Quran menjelmakan apa yang dituntut [Melayu Islam Beraja](position_melayu_islam_beraja.md): bahawa agama dipindahkan ke hati setiap anak negeri sejak kecil. Di majlis seperti ini [Sultan Omar Ali Saifuddien III](persona_saifuddien.md) membangunkan masjid dan sekolah agar setiap anak negeri dapat belajar membaca kitab sucinya.
+Mengaji Quran menjelmakan apa yang dituntut [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md): bahawa agama dipindahkan ke hati setiap anak negeri sejak kecil. Di majlis seperti ini [Sultan Omar Ali Saifuddien III](persona_saifuddien.md) membangunkan masjid dan sekolah agar setiap anak negeri dapat belajar membaca kitab sucinya.

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[a crioulidade](position_crioulidade.md)
+[a crioulidade](position_culture_crioulidade.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ O rapaz da ilha que partiu menino para estudar em Lisboa e la, longe da sua terr
 
 ## Action
 
-Em [o nascer do povo crioulo](plot_02_povo_crioulo.md) e a primeira voz que poe a ilha e a sua gente em verso, dizendo a cor e a alma santomenses quando ninguem ainda as dizia. Ao escrever-se a si e aos seus, da a [crioulidade](position_crioulidade.md) uma fala literaria e abre a porta por onde Tenreiro e Alda hao de entrar.
+Em [o nascer do povo crioulo](plot_02_povo_crioulo.md) e a primeira voz que poe a ilha e a sua gente em verso, dizendo a cor e a alma santomenses quando ninguem ainda as dizia. Ao escrever-se a si e aos seus, da a [crioulidade](position_culture_crioulidade.md) uma fala literaria e abre a porta por onde Tenreiro e Alda hao de entrar.
 
 ## Shadow
 

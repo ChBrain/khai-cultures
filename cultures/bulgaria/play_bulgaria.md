@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [българщината](position_culture_balgarshtina.md)
 - [кирилицата](position_language_bg.md)
 - [игото](position_igoto.md)
 - [дядо Иван](position_dyado_ivan.md)

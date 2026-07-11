@@ -47,6 +47,7 @@ No es un solo pueblo que poco a poco se fue volviendo Estado, sino el choque de 
 
 **Positions**
 
+- [la mexicanidad](position_culture_mexicanidad.md)
 - [el mestizaje](position_el_mestizaje.md)
 - [tierra y libertad](position_tierra_y_libertad.md)
 - [la sombra del norte](position_la_sombra_del_norte.md)

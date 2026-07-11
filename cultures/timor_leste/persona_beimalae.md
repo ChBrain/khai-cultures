@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[lulik](position_lulik.md)
+[lulik](position_culture_lulik.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Feto-bo'ot husi foho ne'ebe hatais tais hanesan nia inan no nia inan-bei sira ha
 
 ## Action
 
-Iha [lafaek-bei nia lenda](plot_01_lafaek_bei.md) nia mama iha tais lenda ne'ebe kona ba rai nia hun, no nia liras lori bei-ala nia matan ba jerasaun foun. Husi nia liman [lulik](position_lulik.md) sai buat ne'ebe ema bele hare no kaer, no nia hatudu katak haket ba bei-ala bele moris iha lina no kór.
+Iha [lafaek-bei nia lenda](plot_01_lafaek_bei.md) nia mama iha tais lenda ne'ebe kona ba rai nia hun, no nia liras lori bei-ala nia matan ba jerasaun foun. Husi nia liman [lulik](position_culture_lulik.md) sai buat ne'ebe ema bele hare no kaer, no nia hatudu katak haket ba bei-ala bele moris iha lina no kór.
 
 ## Shadow
 

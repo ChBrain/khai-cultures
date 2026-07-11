@@ -47,6 +47,7 @@ Un país que empezó como un extremo lejano del imperio español sobre el Río d
 
 **Positions**
 
+- [la argentinidad](position_culture_argentinidad.md)
 - [el peronismo](position_el_peronismo.md)
 - [el crisol de razas](position_el_crisol_de_razas.md)
 - [la pampa y el gaucho](position_la_pampa_y_el_gaucho.md)

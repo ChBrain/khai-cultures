@@ -47,6 +47,7 @@ A land older than memory, named for the desert that runs the whole length of its
 
 **Positions**
 
+- [Namibian culture](position_culture_namibian_culture.md)
 - [the desert](position_the_desert.md)
 - [the many peoples](position_the_many_peoples.md)
 - [conservation](position_conservation.md)

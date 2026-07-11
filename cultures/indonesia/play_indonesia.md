@@ -47,6 +47,7 @@ Negeri yang tidak pernah satu sebelum dipersatukan oleh sebuah cita-cita: ribuan
 
 **Positions**
 
+- [keindonesiaan](position_culture_keindonesiaan.md)
 - [Pancasila](position_pancasila.md)
 - [gotong royong](position_gotong_royong.md)
 - [Bhinneka Tunggal Ika](position_bhinneka.md)

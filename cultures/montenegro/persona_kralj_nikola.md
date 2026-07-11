@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[crnogorstvo](position_crnogorstvo.md)
+[crnogorstvo](position_culture_crnogorstvo.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Posljednji vladar Crne Gore, koji je 1910. malu goru digao u kraljevstvo i sebe 
 
 ## Action
 
-U [Kraljevini i 1918](plot_03_kraljevina_1918.md) Nikola digne Crnu Goru u kraljevstvo i u evropske dvorove, a onda je izgubi: njena nasilna unija sa Srbijom rodi sukob Zelenaša i Bjelaša. Tako on bez svoje volje zametne [crnogorstvo](position_crnogorstvo.md), pitanje jesu li Crnogorci poseban narod, koje će se sporiti vijek.
+U [Kraljevini i 1918](plot_03_kraljevina_1918.md) Nikola digne Crnu Goru u kraljevstvo i u evropske dvorove, a onda je izgubi: njena nasilna unija sa Srbijom rodi sukob Zelenaša i Bjelaša. Tako on bez svoje volje zametne [crnogorstvo](position_culture_crnogorstvo.md), pitanje jesu li Crnogorci poseban narod, koje će se sporiti vijek.
 
 ## Shadow
 

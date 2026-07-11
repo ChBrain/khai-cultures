@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old Inupiat hunter in Barrow. [Alaskan English](position_language_en_us_ak.md), spoken with a warm drawl, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his daily community logs. He speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of oil technicians like Karl and the digital demands of pipeline boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of arctic caribou preservation is treated as secondary to corporate oil and transport.
+A fifty-two-year-old Inupiat hunter in Barrow. [Alaskan English](position_language_en_us_ak.md), spoken with a warm drawl, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his daily community logs. He speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of oil technicians like Karl and the digital demands of pipeline boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of arctic caribou preservation is treated as secondary to corporate oil and transport. He belongs to the [Last Frontier](position_culture_last_frontier.md), the state's double inheritance, and holds fast to the half of it carried by the coastal hunting communities.
 
 ## Action
 

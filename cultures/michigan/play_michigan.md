@@ -44,6 +44,7 @@ A land of industrial innovation and rustic wilderness, defined by its position b
 
 **Positions**
 
+- [the Great Lakes State](position_culture_great_lakes_state.md)
 - [Motor City](position_motor_city.md)
 - [Up North](position_up_north.md)
 - [Michigan English](position_language_en_us_mi.md)

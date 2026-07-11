@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[l'Afrique en miniature](position_l_afrique_en_miniature.md)
+[l'Afrique en miniature](position_culture_l_afrique_en_miniature.md)
 
 ## Owner
 

@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [नेपाली संस्कृति](position_culture_nepali_sanskriti.md)
 - [धर्म](position_dharma.md)
 - [हिमाल](position_himal.md)
 - [जात र भाषा](position_jat_bhasa.md)

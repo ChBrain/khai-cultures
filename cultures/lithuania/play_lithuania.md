@@ -47,6 +47,7 @@ Senas baltų tautos kraštas, kalbantis archajiškiausia gyva indoeuropiečių k
 
 **Positions**
 
+- [lietuviškumas](position_culture_lietuviskumas.md)
 - [lietuvių kalba](position_language_lt.md)
 - [Didžioji Kunigaikštystė](position_didzioji_kunigaikstyste.md)
 - [katalikybė](position_katalikybe.md)

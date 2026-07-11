@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [српство](position_culture_srpstvo.md)
 - [српски језик](position_language_sr.md)
 - [косовски завет](position_kosovski_zavet.md)
 - [инат](position_inat.md)

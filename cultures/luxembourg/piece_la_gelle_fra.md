@@ -26,7 +26,7 @@ Au sommet d'un haut obélisque sur la place de la Constitution, à [Luxembourg-V
 
 ## Load Bearing
 
-Elle porte la mémoire des morts et la volonté de durer d'un petit pays plusieurs fois envahi : déboulonnée par l'occupant, puis remontée, elle est devenue le signe que le Luxembourg veut [rester ce qu'il est](position_mir_welle_bleiwe.md). Ôtez-la et la nation perd l'image de sa propre survie.
+Elle porte la mémoire des morts et la volonté de durer d'un petit pays plusieurs fois envahi : déboulonnée par l'occupant, puis remontée, elle est devenue le signe que le Luxembourg veut [rester ce qu'il est](position_culture_mir_welle_bleiwe.md). Ôtez-la et la nation perd l'image de sa propre survie.
 
 ## Apparent
 

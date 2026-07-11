@@ -47,6 +47,7 @@ Una tierra definida por sus bordes y sus extremos: el desierto más seco del mun
 
 **Positions**
 
+- [la chilenidad](position_culture_chilenidad.md)
 - [el país de poetas](position_el_pais_de_poetas.md)
 - [el orden y la mesura](position_el_orden_y_la_mesura.md)
 - [la memoria y la herida](position_la_memoria_y_la_herida.md)

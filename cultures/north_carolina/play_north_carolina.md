@@ -44,6 +44,7 @@ A land of early frontiers and modern scientific horizons, defined by its geograp
 
 **Positions**
 
+- [Tar Heel](position_culture_tar_heel.md)
 - [Research Triangle](position_research_triangle.md)
 - [Appalachian heritage](position_appalachian_heritage.md)
 - [North Carolina English](position_language_en_us_nc.md)

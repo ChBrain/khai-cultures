@@ -46,6 +46,7 @@ A land of industrial muscle and heartland farming, defined by its historic role 
 
 - [industrial heartland](position_industrial_heartland.md)
 - [middle ground](position_middle_ground.md)
+- [Ohio culture](position_culture_ohio_culture.md)
 - [Ohio English](position_language_en_us_oh.md)
 
 **Pieces**

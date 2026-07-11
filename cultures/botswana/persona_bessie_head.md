@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[botho](position_botho.md)
+[botho](position_culture_botho.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Mokwadi yo o tlileng mo nageng e le moeng, a bo a dira Serowe legae la gagwe, a 
 
 ## Action
 
-Mo go [Boipuso le Seretse](plot_03_boipuso.md) o fitlhela legae mo nageng e e simololang loeto lwa yona la boipuso, a bo a kwala [botho](position_botho.md) jwa batho ba Serowe le jwa naga. Ka go bona bontle mo botshelong jo bo tlwaelegileng, o naya naga seipone se e iponang botho jwa yona mo go sona.
+Mo go [Boipuso le Seretse](plot_03_boipuso.md) o fitlhela legae mo nageng e e simololang loeto lwa yona la boipuso, a bo a kwala [botho](position_culture_botho.md) jwa batho ba Serowe le jwa naga. Ka go bona bontle mo botshelong jo bo tlwaelegileng, o naya naga seipone se e iponang botho jwa yona mo go sona.
 
 ## Shadow
 

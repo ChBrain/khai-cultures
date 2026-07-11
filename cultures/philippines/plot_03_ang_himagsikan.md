@@ -32,7 +32,7 @@ Sa pamamagitan ng dalawang nobela ni [Jose Rizal](persona_rizal.md) ay nailagay 
 
 - [Jose Rizal](persona_rizal.md): ang manunulat na sa pamamagitan ng panulat ay ginising ang damdamin ng bayan.
 - [Andres Bonifacio](persona_bonifacio.md): ang anak ng Tondo na nagbuklod sa marami sa ngalan ng kalayaan.
-- [kapwa](position_kapwa.md): ang damdaming nagising at nagbuklod sa bayan bilang isa.
+- [kapwa](position_culture_kapwa.md): ang damdaming nagising at nagbuklod sa bayan bilang isa.
 
 ## Tension
 

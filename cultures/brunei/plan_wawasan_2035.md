@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Wawasan negara yang dipikul Brunei bagi hari esok: cita-cita agar negeri terus aman dan makmur, rakyatnya berilmu dan berkemahiran, dan kehidupan terus baik, sambil falsafah [Melayu Islam Beraja](position_melayu_islam_beraja.md) kekal sebagai sendi, [Darussalam](position_darussalam.md) kekal sebagai cita-cita negeri yang aman, dan akar di atas air [Kampong Ayer](position_kampong_ayer.md) terus dijaga sebagai warisan.
+Wawasan negara yang dipikul Brunei bagi hari esok: cita-cita agar negeri terus aman dan makmur, rakyatnya berilmu dan berkemahiran, dan kehidupan terus baik, sambil falsafah [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md) kekal sebagai sendi, [Darussalam](position_darussalam.md) kekal sebagai cita-cita negeri yang aman, dan akar di atas air [Kampong Ayer](position_kampong_ayer.md) terus dijaga sebagai warisan.
 
 ## Owner
 

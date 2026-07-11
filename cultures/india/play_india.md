@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [भारतीयता](position_culture_bhartiyata.md)
 - [धर्म](position_dharma.md)
 - [अनेकता में एकता](position_anekta.md)
 - [अहिंसा](position_ahimsa.md)

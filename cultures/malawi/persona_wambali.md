@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[the Warm Heart](position_warm_heart.md)
+[the Warm Heart](position_culture_the_warm_heart.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ A singer of the north whose voice carried the warmth of Malawi out into the worl
 
 ## Action
 
-In [the Warm Heart](plot_04_the_nation.md) he gives the modern nation its singing voice, carrying [the Warm Heart](position_warm_heart.md) of Africa out onto the world's stages and home again to every Malawian far from the lake. He carries the country forward in song, proving that the warmth of a small country can fill a hall anywhere on earth.
+In [the Warm Heart](plot_04_the_nation.md) he gives the modern nation its singing voice, carrying [the Warm Heart](position_culture_the_warm_heart.md) of Africa out onto the world's stages and home again to every Malawian far from the lake. He carries the country forward in song, proving that the warmth of a small country can fill a hall anywhere on earth.
 
 ## Shadow
 

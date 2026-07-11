@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A sixty-two-year-old archivist in Plymouth. English, spoken with a precise New England accent, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the voice of her studies. What she speaks is [Massachusetts English](position_language_en_us_ma.md), the precise New England accent of the Bay State. She speaks no foreign languages. Yet the loss lies in the seam: The fast biotech jargon of researchers like Liam and the digital demands of modern laboratories [she reads only with a quiet sigh](process_reading_followed.md), feeling that the patient study of archives and the moral duties of the past are being forgotten in the pursuit of efficiency.
+A sixty-two-year-old archivist in Plymouth. English, spoken with a precise New England accent, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the voice of her studies. What she speaks is [Massachusetts English](position_language_en_us_ma.md), the precise New England accent of the Bay State. She speaks no foreign languages. Yet the loss lies in the seam: The fast biotech jargon of researchers like Liam and the digital demands of modern laboratories [she reads only with a quiet sigh](process_reading_followed.md), feeling that the patient study of archives and the moral duties of the past are being forgotten in the pursuit of efficiency. She holds [the Bay State](position_culture_bay_state.md) in the covenant she keeps for the town's records.
 
 ## Action
 

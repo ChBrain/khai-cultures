@@ -34,4 +34,4 @@ Bo tsamaisiwa ke tlhokego ya morafe ya go kopana le go itumela mmogo, le ke molo
 
 ## Echo
 
-Borankana bo bonatsha se se gogang [botho](position_botho.md): gore morafe o agilwe mo go kopaneng le mo go itumeleng mmogo. Mo moloding o, [Ratsie Setlhako](persona_ratsie.md) o opela botshelo jwa naga ka segaba, a boloka mošwa le diane tsa morafe.
+Borankana bo bonatsha se se gogang [botho](position_culture_botho.md): gore morafe o agilwe mo go kopaneng le mo go itumeleng mmogo. Mo moloding o, [Ratsie Setlhako](persona_ratsie.md) o opela botshelo jwa naga ka segaba, a boloka mošwa le diane tsa morafe.

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old copper geologist in Bisbee. [Arizonan English](position_language_en_us_az.md), spoken with a direct Western cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his safety briefings. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound Navajo talk of weavers like Yazhi and the quiet water histories of [desert resilience](position_desert_resilience.md) [he reads only as hydrological parameters](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of the desert is being forgotten in the corporate mining rush.
+A forty-two-year-old copper geologist in Bisbee. [Arizonan English](position_language_en_us_az.md), spoken with a direct Western cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his safety briefings. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound Navajo talk of weavers like Yazhi and the quiet water histories of [desert resilience](position_desert_resilience.md) [he reads only as hydrological parameters](process_reading_followed.md) on his workstation, feeling that the patient, resource-conserving rhythm of the desert is being forgotten in the corporate mining rush. He belongs to [Arizona culture](position_culture_arizona_culture.md) through the mining and engineering half of its character, the ambition that reads the rock for what it can yield.
 
 ## Action
 

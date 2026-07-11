@@ -44,6 +44,7 @@ A land of subsistence traditions and resource extraction, defined by the glaciat
 
 **Positions**
 
+- [the Last Frontier](position_culture_last_frontier.md)
 - [arctic survival](position_arctic_survival.md)
 - [frontier wealth](position_frontier_wealth.md)
 - [Alaskan English](position_language_en_us_ak.md)

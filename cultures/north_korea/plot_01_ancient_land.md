@@ -32,7 +32,7 @@ stamp:
 
 - [단군](persona_dangun.md): 백두산 자락에서 첫 나라를 열었다고 전해지는, 겨레의 첫 조상.
 - [을지문덕](persona_euljimundeok.md): 겨레와 더불어 제 땅을 지켜낸, 한마음의 본보기.
-- [우리 민족](position_uri_minjok.md): 같은 핏줄과 같은 말로 이어진 한 겨레라는 마음.
+- [우리 민족](position_culture_uri_minjok.md): 같은 핏줄과 같은 말로 이어진 한 겨레라는 마음.
 - [백두산](place_paektu.md): 겨레의 첫머리에 서 있는, 북녘의 으뜸 산.
 
 ## Tension

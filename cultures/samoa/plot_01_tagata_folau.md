@@ -32,7 +32,7 @@ Na nofoia e tagata folau ia motu, ma na faatuina ai le faiga matai ma le aiga, o
 
 - [le matai](persona_le_matai.md): o le ulu o le aiga na tauave le faiga matai mai tagata folau anamua, o le na faasoa le eleele ma tausi le aiga.
 - [Savaii](place_savaii.md): o le motu tele, o le fatu volekano ma le nofoaga o nofoaga anamua, le amataga o le aganuu.
-- [le faaSamoa](position_faasamoa.md): o le faavae o le olaga na faatuina e tagata folau, o le faiga matai ma le aiga.
+- [le faaSamoa](position_culture_faasamoa.md): o le faavae o le olaga na faatuina e tagata folau, o le faiga matai ma le aiga.
 
 ## Tension
 

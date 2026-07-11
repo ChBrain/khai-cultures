@@ -25,11 +25,11 @@ En 1859, los Jocs Florals se restauran en Barcelona, impulsando el renacimiento 
 
 ## Action
 
-El renacimiento cultural consolida el catalán escrito, desarrollando la [identidad catalana](position_catalan_identity.md). La [gralla](piece_gralla.md) acompaña los recitales tradicionales. Montserrat gestiona registros de antiguos poemas locales, mientras Jordi restaura archivos de gremios medievales.
+El renacimiento cultural consolida el catalán escrito, desarrollando la [identidad catalana](position_culture_identidad_catalana.md). La [gralla](piece_gralla.md) acompaña los recitales tradicionales. Montserrat gestiona registros de antiguos poemas locales, mientras Jordi restaura archivos de gremios medievales.
 
 ## Stage
 
-- [la identidad catalana](position_catalan_identity.md) : la inmersión de la lengua, el autogobierno y el orgullo de plaza.
+- [la identidad catalana](position_culture_identidad_catalana.md) : la inmersión de la lengua, el autogobierno y el orgullo de plaza.
 - [la gralla](piece_gralla.md) : el instrumento de viento de madera que suena en las fiestas populares.
 - [el Penedès](place_penedes.md) : la histórica comarca vinícola del interior.
 

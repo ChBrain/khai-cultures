@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [層疊之島](position_the_layered_island.md)
+- [層疊之島](position_culture_the_layered_island.md)
 - [民間信仰](position_folk_faith.md)
 - [公民社會](position_civil_society.md)
 - [中文](position_language_zh_tw.md)
@@ -69,7 +69,7 @@ stamp:
 
 **[Plot 1: the first peoples and the settlers](plot_01_first_peoples.md)**
 
-數千年來南島語系的原住民族先居於此，其後福佬與客家先民渡海來墾，[層疊之島](position_the_layered_island.md)的底層就此鋪成，[高一生](persona_uyongu.md)所屬的山林之民，是這座島最早的主人。
+數千年來南島語系的原住民族先居於此，其後福佬與客家先民渡海來墾，[層疊之島](position_culture_the_layered_island.md)的底層就此鋪成，[高一生](persona_uyongu.md)所屬的山林之民，是這座島最早的主人。
 
 **[Plot 2: the Japanese era (1895-1945)](plot_02_japanese_era.md)**
 

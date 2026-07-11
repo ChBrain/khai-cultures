@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Parikymppinen mies, joka on kasvanut avoimessa, verkottuneessa maailmassa. Hän tekee töitä teknologian parissa, arvostaa tasapainoa työn ja elämän välillä ja pitää vapautta ja turvaa itsestäänselvyytenä. Hän [puhuu, kuulee ja ajattelee](process_speaking_mother_tongue.md) [äidinkielellään](position_language_fi.md), mutta [englanti](../united_kingdom/position_language_en_gb.md) [on hänellä kielenä kulunut tutuksi](process_speaking_worn.md) - se on jo valmiina suussa, ennen kuin hän tarttuu siihen - ja hän [lukee ja kirjoittaa sitä](process_reading_followed.md) koko päivän teknologian parissa: siinä on nuoren polven juopa, kaksi kieltä jotka molemmat ovat lähellä, ja suomi joka väistyy hitaasti englannin tieltä työssä ja ruudulla.
+Parikymppinen mies, joka on kasvanut avoimessa, verkottuneessa maailmassa. Hän tekee töitä teknologian parissa, arvostaa tasapainoa työn ja elämän välillä ja pitää vapautta ja turvaa itsestäänselvyytenä. Hän [puhuu, kuulee ja ajattelee](process_speaking_mother_tongue.md) [äidinkielellään](position_language_fi.md), mutta [englanti](../united_kingdom/position_language_en_gb.md) [on hänellä kielenä kulunut tutuksi](process_speaking_worn.md) - se on jo valmiina suussa, ennen kuin hän tarttuu siihen - ja hän [lukee ja kirjoittaa sitä](process_reading_followed.md) koko päivän teknologian parissa: siinä on nuoren polven juopa, kaksi kieltä jotka molemmat ovat lähellä, ja suomi joka väistyy hitaasti englannin tieltä työssä ja ruudulla. Hän kantaa [suomalaisuutta](position_culture_suomalaisuus.md) nuorempana hahmona, jolle tasa-arvo ja turva ovat aina olleet paikalla, ei koskaan itse rakennettuja.
 
 ## Action
 

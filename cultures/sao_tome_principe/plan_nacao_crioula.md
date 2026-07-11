@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-A tarefa que as ilhas tomaram para si em 1975: fazer da casa propria uma casa que sustente os seus. E o trabalho continuo de manter viva [a crioulidade](position_crioulidade.md) que une forro, angolar e principense, de fazer da terra da [roca](position_roca.md) chao de quem nela vive, e de segurar os seus contra o mar de [a insularidade](position_insularidade.md), sem perder o leve-leve que e o jeito do povo.
+A tarefa que as ilhas tomaram para si em 1975: fazer da casa propria uma casa que sustente os seus. E o trabalho continuo de manter viva [a crioulidade](position_culture_crioulidade.md) que une forro, angolar e principense, de fazer da terra da [roca](position_roca.md) chao de quem nela vive, e de segurar os seus contra o mar de [a insularidade](position_insularidade.md), sem perder o leve-leve que e o jeito do povo.
 
 ## Owner
 

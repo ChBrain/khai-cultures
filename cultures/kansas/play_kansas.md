@@ -44,6 +44,7 @@ A land of agricultural wealth and manufacturing precision, defined by the grassy
 
 **Positions**
 
+- [Kansas culture](position_culture_kansas_culture.md)
 - [homestead resolve](position_homestead_resolve.md)
 - [aviation pioneer](position_aviation_pioneer.md)
 - [Kansan English](position_language_en_us_ks.md)

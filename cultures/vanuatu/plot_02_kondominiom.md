@@ -26,13 +26,13 @@ Long ol yia blong 1800, ol waetman oli kam long ol aelan we oli singaot Niu Hebr
 
 ## Action
 
-Andanit long Kondominiom, Britain mo Franis tufala i rul wantaem long wan fasin we i no gat narafala ples i gat: tufala loa, tufala polis, tufala skul, tufala doea, mo tufala mane long wan kantri smol. Ol man oli singaot hem "Pandemonium," from hem i no klia mo i had blong wok. Ol misin oli traem jenisim kastom mo putum niufala God, be plante man oli holemtaet fasin blong ol bubu, mo [Jif Kastom](persona_jif_kastom.md) i kipim nakamal, rank blong tusk, mo loa blong ol bubu. Long [Tanna](place_tanna.md), John Frum muvmen i girap, wan kago we i lego ol misin mo i wet long wan niufala dei mo long ol gudfala samting we bae i kam. Andanit long evri samting, [kastom](position_kastom.md) i holem strong.
+Andanit long Kondominiom, Britain mo Franis tufala i rul wantaem long wan fasin we i no gat narafala ples i gat: tufala loa, tufala polis, tufala skul, tufala doea, mo tufala mane long wan kantri smol. Ol man oli singaot hem "Pandemonium," from hem i no klia mo i had blong wok. Ol misin oli traem jenisim kastom mo putum niufala God, be plante man oli holemtaet fasin blong ol bubu, mo [Jif Kastom](persona_jif_kastom.md) i kipim nakamal, rank blong tusk, mo loa blong ol bubu. Long [Tanna](place_tanna.md), John Frum muvmen i girap, wan kago we i lego ol misin mo i wet long wan niufala dei mo long ol gudfala samting we bae i kam. Andanit long evri samting, [kastom](position_culture_kastom.md) i holem strong.
 
 ## Stage
 
 - [Jif Kastom](persona_jif_kastom.md): jif we i holemtaet kastom long taem we ol misin mo tufala loa oli traem jenisim evri samting.
 - [Tanna](place_tanna.md): aelan we John Frum i girap long hem mo we kastom i holem strong.
-- [kastom](position_kastom.md): fasin blong ol bubu we i holem agensem ol misin mo tufala kala blong waet man.
+- [kastom](position_culture_kastom.md): fasin blong ol bubu we i holem agensem ol misin mo tufala kala blong waet man.
 
 ## Tension
 

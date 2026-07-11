@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Il sommo poeta, esule fiorentino che diede all'Italia una lingua prima ancora che fosse una nazione. [Scrive, legge e pensa](process_writing_mother_tongue.md) nel volgare toscano e ne fa, con la Commedia, [la lingua che sarà l'italiano di tutti](position_language_it_it.md), degna di ogni pensiero, dal cielo all'inferno. Il [latino](../holy_see/position_language_la.md) dei dotti lo [porta come strumento](process_speaking_carried.md) ma sceglie la lingua del popolo. Lì è la frattura: dà una lingua letteraria a una nazione che nascerà sei secoli dopo, e che al momento dell'unità ancora non la parlerà.
+Il sommo poeta, esule fiorentino che diede all'Italia una lingua prima ancora che fosse una nazione. [Scrive, legge e pensa](process_writing_mother_tongue.md) nel volgare toscano e ne fa, con la Commedia, [la lingua che sarà l'italiano di tutti](position_language_it_it.md), degna di ogni pensiero, dal cielo all'inferno. Il [latino](../holy_see/position_language_la.md) dei dotti lo [porta come strumento](process_speaking_carried.md) ma sceglie la lingua del popolo. Lì è la frattura: dà una lingua letteraria a una nazione che nascerà sei secoli dopo, e che al momento dell'unità ancora non la parlerà. Appartiene comunque a [l'italianità](position_culture_italianita.md), lui che fu una civiltà prima ancora che esistesse lo Stato capace di riconoscerla.
 
 ## Action
 

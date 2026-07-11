@@ -30,7 +30,7 @@ Na referendumu 21. maja 2006. za nezavisnost glasa 55,5 posto, tijesno iznad pra
 
 ## Stage
 
-- [crnogorstvo](position_crnogorstvo.md): crnogorska posebnost koja se referendumom vraća u državu.
+- [crnogorstvo](position_culture_crnogorstvo.md): crnogorska posebnost koja se referendumom vraća u državu.
 - [Vuk](persona_vuk.md): čovjek generacije 2006, koji nezavisnost i sporno ime jezika nosi dalje.
 - [Cetinje](place_cetinje.md): stara prijestonica, u kojoj se obnova državnosti svečano potvrđuje.
 

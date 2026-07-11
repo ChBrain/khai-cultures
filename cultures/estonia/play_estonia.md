@@ -47,6 +47,7 @@ Väike soomeugri rahvas Läänemere ääres, kelle keel ei kuulu indoeuroopa per
 
 **Positions**
 
+- [eestlus](position_culture_eestlus.md)
 - [eesti keel](position_language_et.md)
 - [e-Eesti](position_e_eesti.md)
 - [Soome sild](position_soome_sild.md)

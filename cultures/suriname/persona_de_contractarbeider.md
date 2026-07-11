@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[wan bon](position_wan_bon.md)
+[wan bon](position_culture_wan_bon.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ De contractarbeider die na de afschaffing van de slavernij met de pondo en de sc
 
 ## Action
 
-In [De Schepen uit India en Java](plot_03_de_schepen_uit_india_en_java.md) wordt hij een van de bouwers van [wan bon](position_wan_bon.md), het volk uit vele volken, en hangt hij zijn blad aan de boom van de plurale natie. Door te blijven en te delen, maakt hij van de menging een rijkdom en van Suriname het meest plurale land van de Amerika's.
+In [De Schepen uit India en Java](plot_03_de_schepen_uit_india_en_java.md) wordt hij een van de bouwers van [wan bon](position_culture_wan_bon.md), het volk uit vele volken, en hangt hij zijn blad aan de boom van de plurale natie. Door te blijven en te delen, maakt hij van de menging een rijkdom en van Suriname het meest plurale land van de Amerika's.
 
 ## Shadow
 

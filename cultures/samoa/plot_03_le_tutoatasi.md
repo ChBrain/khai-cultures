@@ -32,7 +32,7 @@ I le tausaga e 1962 na maua ai e Samoa le tutoatasi, o le uluai atunuu i le Pase
 
 - [Malietoa Tanumafili II](persona_malietoa.md): o le uluai ao mamalu o Samoa tutoatasi, o le faailoga o le sootaga i va o le anamua ma le aso nei.
 - [Upolu](place_upolu.md): o le motu o Apia, o le nofoaga o le malo ma le faatuina o le atunuu fou.
-- [le faaSamoa](position_faasamoa.md): o le faavae o le atunuu fou, o le faiga matai ma le aiga ua avea ma vaega o le pulega.
+- [le faaSamoa](position_culture_faasamoa.md): o le faavae o le atunuu fou, o le faiga matai ma le aiga ua avea ma vaega o le pulega.
 
 ## Tension
 

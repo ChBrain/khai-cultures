@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[mladý národ](position_mlady_narod.md)
+[mladý národ](position_culture_mlady_narod.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Zbojník z hôr, chlapec z liptovskej dediny, ktorý sa dal na hory a v ľudovej
 
 ## Action
 
-V [Jánošíkovi](plot_01_janosik.md) sa malý ľud aspoň v legende vzoprie pánom, a jeho šibenica z neho urobí mýtus. Stane sa tvárou [mladého národa](position_mlady_narod.md), ktorý vtedy nemal ani reč, ani štát, len pieseň o tom, že sa raz ktosi z jeho radov postavil mocným.
+V [Jánošíkovi](plot_01_janosik.md) sa malý ľud aspoň v legende vzoprie pánom, a jeho šibenica z neho urobí mýtus. Stane sa tvárou [mladého národa](position_culture_mlady_narod.md), ktorý vtedy nemal ani reč, ani štát, len pieseň o tom, že sa raz ktosi z jeho radov postavil mocným.
 
 ## Shadow
 

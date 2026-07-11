@@ -34,4 +34,4 @@ K živej pamäti a k spolupatričnosti: v piesni, kroji a tanci sa drží to, č
 
 ## Echo
 
-Folklór robí počuteľným to, čo drží [mladý národ](position_mlady_narod.md): že keď národ nemal štát, mal pieseň, kroj a tanec, a v nich sa poznával. Sem [Anna](persona_anna.md) vovádza vnúčatá, aby vedeli, kto sú.
+Folklór robí počuteľným to, čo drží [mladý národ](position_culture_mlady_narod.md): že keď národ nemal štát, mal pieseň, kroj a tanec, a v nich sa poznával. Sem [Anna](persona_anna.md) vovádza vnúčatá, aby vedeli, kto sú.

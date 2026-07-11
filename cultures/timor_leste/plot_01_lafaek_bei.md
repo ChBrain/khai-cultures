@@ -32,7 +32,7 @@ Lafaek sai bo'ot tebes no, atu selu labarik nia laran-di'ak, hatete katak bainhi
 
 - [Tatamailau](place_ramelau.md): foho aas liu hotu ne'ebe sa'e husi lafaek-bei nia kotuk, hun ba rai no ba lulik.
 - [Beimalae](persona_beimalae.md): feto hatais ne'ebe mama lenda ida-ne'e iha tais nia oan-matan no pasa nia ba jerasaun foun.
-- [lulik](position_lulik.md): haket ba rai, klan, no bei-ala ne'ebe sa'e husi lenda ne'e.
+- [lulik](position_culture_lulik.md): haket ba rai, klan, no bei-ala ne'ebe sa'e husi lenda ne'e.
 
 ## Tension
 

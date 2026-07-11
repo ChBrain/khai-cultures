@@ -44,6 +44,7 @@ Una fértil vega fluvial rodeada de colinas arcillosas de viñedos y cunas moná
 
 **Positions**
 
+- [la riojanidad](position_culture_la_riojanidad.md)
 - [la ribera del Ebro](position_ebro_ribera.md)
 - [la sierra riojana](position_sierra_riojana.md)
 - [el espanol riojano](position_language_es_es_ri.md)

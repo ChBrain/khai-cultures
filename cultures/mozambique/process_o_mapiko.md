@@ -34,4 +34,4 @@ Move-o a fe de que a danca guarda a memoria melhor do que qualquer papel, e de q
 
 ## Echo
 
-O mapiko torna sensivel o que move [os muitos povos](position_os_muitos_povos.md): que cada povo guarda a sua dança, a sua mascara e o seu tambor, e que e nessa variedade que esta a riqueza da nacao. A mesma mao que talha a mascara talha tambem a [escultura makonde](piece_a_escultura_makonde.md), e do planalto do norte da ao mundo a sua arte.
+O mapiko torna sensivel o que move [os muitos povos](position_culture_os_muitos_povos.md): que cada povo guarda a sua dança, a sua mascara e o seu tambor, e que e nessa variedade que esta a riqueza da nacao. A mesma mao que talha a mascara talha tambem a [escultura makonde](piece_a_escultura_makonde.md), e do planalto do norte da ao mundo a sua arte.

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[우리 민족](position_uri_minjok.md)
+[우리 민족](position_culture_uri_minjok.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ type: real
 
 ## Action
 
-[한글](plot_02_hangeul.md)에서 그는 백성을 위한 글자를 지어, 같은 말을 같은 글로 적게 함으로써 [우리 민족](position_uri_minjok.md)을 하나의 말과 하나의 글로 단단히 묶는다. 그가 지은 글은 누구나 제 뜻을 적게 하여, 겨레가 같은 글로 이어지는 길을 열어 준다.
+[한글](plot_02_hangeul.md)에서 그는 백성을 위한 글자를 지어, 같은 말을 같은 글로 적게 함으로써 [우리 민족](position_culture_uri_minjok.md)을 하나의 말과 하나의 글로 단단히 묶는다. 그가 지은 글은 누구나 제 뜻을 적게 하여, 겨레가 같은 글로 이어지는 길을 열어 준다.
 
 ## Shadow
 

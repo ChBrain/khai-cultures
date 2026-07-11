@@ -48,7 +48,7 @@ Dad geela raaca oo erayga jecel, oo abid lagu yaqaan "Ummadda Abwaannada." Tan i
 **Positions**
 
 - [Af-Soomaaliga iyo gabayga](position_language_so.md)
-- [Islaamka](position_islaamka.md)
+- [Islaamka](position_culture_islaamka.md)
 - [Xeerka iyo qaraabada](position_xeerka.md)
 
 **Pieces**
@@ -72,7 +72,7 @@ Tan iyo waagii hore xeebta Soomaaliyeed waxay ahayd albaabka badaha, halka [Sayl
 
 **[Plot 2: Soo dhowaanshaha Islaamka](plot_02_islaamka.md)**
 
-Islaamku wuxuu xeebta ka soo galay xilliyo hore, oo [Islaamku](position_islaamka.md) wuxuu noqday aasaaska nolosha, sharciga iyo akhlaaqda dadka Soomaaliyeed, isagoo isku xidha qabaa'ilkii kala duwanaa.
+Islaamku wuxuu xeebta ka soo galay xilliyo hore, oo [Islaamku](position_culture_islaamka.md) wuxuu noqday aasaaska nolosha, sharciga iyo akhlaaqda dadka Soomaaliyeed, isagoo isku xidha qabaa'ilkii kala duwanaa.
 
 **[Plot 3: Xilligii Sayidka](plot_03_sayidka.md)**
 

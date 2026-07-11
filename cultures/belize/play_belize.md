@@ -47,6 +47,7 @@ A land that begins as the heartland of the Maya, whose stone cities rose in its 
 
 **Positions**
 
+- [all a we](position_culture_all_a_we.md)
 - [the plural society](position_the_plural_society.md)
 - [the Caribbean nation](position_the_caribbean_nation.md)
 - [the forest and the reef](position_the_forest_and_the_reef.md)

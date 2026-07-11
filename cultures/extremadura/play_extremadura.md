@@ -44,6 +44,7 @@ Una tierra extrema de dehesas de encinas, pastores fronterizos y honda sobriedad
 
 **Positions**
 
+- [la extremeñidad](position_culture_extremenidad.md)
 - [la dehesa](position_dehesa_stewardship.md)
 - [el secano extremeño](position_borderland_reliance.md)
 - [el espanol extremeno](position_language_es_es_ex.md)

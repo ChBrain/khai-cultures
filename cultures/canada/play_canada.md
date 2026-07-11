@@ -47,6 +47,7 @@ A country built by joining rather than breaking: the British North American colo
 
 **Positions**
 
+- [Canadian culture](position_culture_canadian_culture.md)
 - [les deux peuples](position_les_deux_peuples.md)
 - [the mosaic](position_the_mosaic.md)
 - [peace, order, and good government](position_pogg.md)

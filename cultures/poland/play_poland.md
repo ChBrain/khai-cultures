@@ -47,6 +47,7 @@ Wielki niegdyś kraj, Rzeczpospolita wielu narodów, który w końcu XVIII wieku
 
 **Positions**
 
+- [polskość](position_culture_polskosc.md)
 - [język polski](position_language_pl.md)
 - [Kościół](position_kosciol.md)
 - [martyrologia](position_martyrologia.md)

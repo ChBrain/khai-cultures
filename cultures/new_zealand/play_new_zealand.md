@@ -47,6 +47,7 @@ The last great land settled by humans, found not by accident but by skill. Aroun
 
 **Positions**
 
+- [New Zealand culture](position_culture_new_zealand_culture.md)
 - [te Tiriti o Waitangi](position_the_treaty.md)
 - [the social laboratory](position_the_social_laboratory.md)
 - [number 8 wire](position_number_8_wire.md)

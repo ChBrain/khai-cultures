@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[os muitos povos](position_os_muitos_povos.md)
+[os muitos povos](position_culture_os_muitos_povos.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ A mulher que se diz contadora de historias e nao romancista, a primeira a public
 
 ## Action
 
-Em [a nacao da palavra](plot_03_a_palavra.md) ela faz de [os muitos povos](position_os_muitos_povos.md) o coracao do livro, dando voz as mulheres de cada povo e mostrando que a nacao se conta tambem pelas vidas que costumava calar. Ao escrever do sul e do norte com igual dignidade, poe na palavra a igualdade que a terra promete.
+Em [a nacao da palavra](plot_03_a_palavra.md) ela faz de [os muitos povos](position_culture_os_muitos_povos.md) o coracao do livro, dando voz as mulheres de cada povo e mostrando que a nacao se conta tambem pelas vidas que costumava calar. Ao escrever do sul e do norte com igual dignidade, poe na palavra a igualdade que a terra promete.
 
 ## Shadow
 

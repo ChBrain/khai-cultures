@@ -47,6 +47,7 @@ Tantaran'ny nosy izay tsy manana ifandraisana amin'ny tany hafa: nosy tafatsanga
 
 **Positions**
 
+- [ny maha-Malagasy](position_culture_ny_maha_malagasy.md)
 - [ny fihavanana](position_ny_fihavanana.md)
 - [ny razana](position_ny_razana.md)
 - [ny fiaviana lavitra](position_ny_fiaviana_lavitra.md)

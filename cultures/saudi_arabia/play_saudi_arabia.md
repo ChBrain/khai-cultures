@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الهوية السعودية](position_culture_alhawiya_alsuudiya.md)
 - [الحرمان الشريفان](position_alharamayn.md)
 - [الضيافة](position_aldiyafa.md)
 - [البادية](position_albadiya.md)

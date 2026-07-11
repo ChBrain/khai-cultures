@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-L'homme de la frontière, né au Luxembourg et élevé entre deux mondes, qui devint l'un des pères de l'Europe. [Il parle et pense](process_speaking_mother_tongue.md) d'abord l'allemand et le luxembourgeois de sa jeunesse à la frontière, et le [français de l'État](position_language_fr_lu.md) qu'il sert, il le [porte comme l'habit du pouvoir](process_speaking_worn.md) ; les actes de la réconciliation, il les [rédige et les pèse](process_writing_drafted.md) dans les deux langues. Là est la faille : l'homme de la frontière des langues n'est tout à fait d'aucun des deux pays, et c'est de cet entre-deux qu'il tire une Europe unie.
+L'homme de la frontière, né au Luxembourg et élevé entre deux mondes, qui devint l'un des pères de l'Europe. [Il parle et pense](process_speaking_mother_tongue.md) d'abord l'allemand et le luxembourgeois de sa jeunesse à la frontière, et le [français de l'État](position_language_fr_lu.md) qu'il sert, il le [porte comme l'habit du pouvoir](process_speaking_worn.md) ; les actes de la réconciliation, il les [rédige et les pèse](process_writing_drafted.md) dans les deux langues. Là est la faille : l'homme de la frontière des langues n'est tout à fait d'aucun des deux pays, et c'est de cet entre-deux qu'il tire une Europe unie. Il appartient à [mir wëlle bleiwe wat mir sinn](position_culture_mir_welle_bleiwe.md), qu'il porte au-delà des frontières du petit pays qui l'a vu naître.
 
 ## Action
 

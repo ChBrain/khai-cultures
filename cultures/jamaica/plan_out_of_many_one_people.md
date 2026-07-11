@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-The open mandate the nation set itself in the motto on its coat of arms: the endless work of turning the island's outsized cultural and athletic reach into opportunity at home, of healing the inequality and the violence that shadow the swagger that [reggae and Rastafari](position_reggae_and_rastafari.md) carried to the world, of holding the many roots of [out of many, one people](position_out_of_many_one_people.md) together as one, and of keeping the pride and the refusal of [the resistance](position_the_resistance.md) alive without letting them curdle into mere grievance or pose.
+The open mandate the nation set itself in the motto on its coat of arms: the endless work of turning the island's outsized cultural and athletic reach into opportunity at home, of healing the inequality and the violence that shadow the swagger that [reggae and Rastafari](position_reggae_and_rastafari.md) carried to the world, of holding the many roots of [out of many, one people](position_culture_out_of_many_one_people.md) together as one, and of keeping the pride and the refusal of [the resistance](position_the_resistance.md) alive without letting them curdle into mere grievance or pose.
 
 ## Owner
 

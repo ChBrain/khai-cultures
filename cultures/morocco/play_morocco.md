@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الثقافة المغربية](position_culture_thaqafa_almaghribiya.md)
 - [الأصل الأمازيغي](position_al_asl_al_amazighi.md)
 - [الضيافة](position_addiyafa.md)
 - [الصنعة](position_assanaa.md)

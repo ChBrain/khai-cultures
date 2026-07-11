@@ -44,6 +44,7 @@ A land of justice struggles and technological innovation, defined by the soils o
 
 **Positions**
 
+- [the Heart of Dixie](position_culture_heart_of_dixie.md)
 - [civil rights](position_civil_rights.md)
 - [space pioneer](position_space_pioneer.md)
 - [Alabama English](position_language_en_us_al.md)

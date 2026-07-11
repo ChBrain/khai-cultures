@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[lalit ansam](position_lalit_ansam.md)
+[lalit ansam](position_culture_lalit_ansam.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Ekrivin morisien, ki ekrir lor sa zil avek enn lankr profon ek vre, lor seki mel
 
 ## Action
 
-Dan [lendepandans](plot_04_lendepandans.md) so lankr donn enn vwa bann ki sa larkansiel la kapav bliye, ek li tini [lalit ansam](position_lalit_ansam.md) onet: pa enn zoli kart postal me enn travay vre. Par ekrir lor seki dir dan enn zil ki tou dimoun apel zoli, li ed so pei get so prop figir san triche.
+Dan [lendepandans](plot_04_lendepandans.md) so lankr donn enn vwa bann ki sa larkansiel la kapav bliye, ek li tini [lalit ansam](position_culture_lalit_ansam.md) onet: pa enn zoli kart postal me enn travay vre. Par ekrir lor seki dir dan enn zil ki tou dimoun apel zoli, li ed so pei get so prop figir san triche.
 
 ## Shadow
 

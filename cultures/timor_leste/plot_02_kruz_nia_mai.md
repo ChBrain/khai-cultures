@@ -32,7 +32,7 @@ Liu tinan barak, povu simu fiar Katoliku no halo nia sai sira-nia rasik, maibe s
 
 - [Dili](place_dili.md): sidade ne'ebe simu kruz no fo'er Igreja ne'ebe moris hamutuk ho lulik.
 - [Dom Carlos Filipe Ximenes Belo](persona_belo.md): bispu husi povu rasik ne'ebe hatudu oinsa Igreja no lulik bele moris hamutuk.
-- [lulik](position_lulik.md): haket antigu ba bei-ala ne'ebe la lakon maski kruz tama ona.
+- [lulik](position_culture_lulik.md): haket antigu ba bei-ala ne'ebe la lakon maski kruz tama ona.
 
 ## Tension
 

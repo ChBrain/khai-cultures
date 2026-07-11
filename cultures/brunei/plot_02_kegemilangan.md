@@ -31,7 +31,7 @@ Di bawah Sultan Bolkiah pengaruh Brunei terbentang ke seluruh utara Borneo dan j
 ## Stage
 
 - [Sultan Bolkiah](persona_bolkiah.md): raja yang membawa daulat Brunei ke puncak pengaruhnya.
-- [Melayu Islam Beraja](position_melayu_islam_beraja.md): sendi daulat dan agama yang tersebar bersama pada zaman gemilang.
+- [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md): sendi daulat dan agama yang tersebar bersama pada zaman gemilang.
 - [Bandar Seri Begawan](place_bandar_seri_begawan.md): pusat daulat di muara sungai yang menjadi nadi kerajaan.
 
 ## Tension

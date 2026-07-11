@@ -46,6 +46,7 @@ Uma nação pequena e antiga que, voltada ao mar, partiu de uma orla estreita pa
 
 **Positions**
 
+- [a portugalidade](position_culture_portugalidade.md)
 - [a saudade](position_saudade.md)
 - [os brandos costumes](position_o_brando.md)
 - [a vocação atlântica](position_o_atlantico.md)

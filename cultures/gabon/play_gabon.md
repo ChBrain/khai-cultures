@@ -50,6 +50,7 @@ Un petit peuple sous une immense foret. Avant que rien ne soit ecrit, les Pygmee
 - [la foret](position_la_foret.md)
 - [les ancetres](position_les_ancetres.md)
 - [le fleuve](position_le_fleuve.md)
+- [la gabonite](position_culture_gabonite.md)
 - [le français gabonais](position_language_fr_ga.md)
 
 **Pieces**

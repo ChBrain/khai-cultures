@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old drilling technician in Williston. English, spoken with a prairie drawl, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his daily drilling logs. It is the [North Dakota English](position_language_en_us_nd.md) of the Williston Basin, the plain prairie drawl of the western oil patch. He speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of wheat farmers like Harvey and the digital demands of agriculture boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river reservoir preservation is treated as secondary to corporate energy exports and speedway logistics.
+A fifty-two-year-old drilling technician in Williston. English, spoken with a prairie drawl, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his daily drilling logs. It is the [North Dakota English](position_language_en_us_nd.md) of the Williston Basin, the plain prairie drawl of the western oil patch. He speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of wheat farmers like Harvey and the digital demands of agriculture boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river reservoir preservation is treated as secondary to corporate energy exports and speedway logistics. He belongs to [Flickertail](position_culture_flickertail.md) as the energy half of a state that still measures its worth by the wheat harvest.
 
 ## Action
 

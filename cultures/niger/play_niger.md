@@ -47,6 +47,7 @@ Un pays qui se tient entre le désert et le fleuve, et qui en a fait sa manière
 
 **Positions**
 
+- [l'esprit nigérien](position_culture_esprit_nigerien.md)
 - [le désert et le nomadisme](position_le_desert.md)
 - [l'hospitalité sahélienne](position_l_hospitalite.md)
 - [la retenue et le respect](position_la_retenue.md)

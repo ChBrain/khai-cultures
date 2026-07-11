@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Inuusuttoq Nuummiittoq, siunissamut isigisoq. Kalaallisut [oqaatsini pigivai, oqaluttuarpoq, eqqarsarpoq](process_speaking_mother_tongue.md). Tamanna [Kalaallisut](position_language_kl.md), inuit oqaasii kulturiallu tunngavia. [Qallunaatut](../denmark/position_language_da.md) [tuluttullu](../united_kingdom/position_language_en_gb.md) [oqaatsit atorpai](process_speaking_worn.md) Nuummi.
+Inuusuttoq Nuummiittoq, siunissamut isigisoq. Kalaallisut [oqaatsini pigivai, oqaluttuarpoq, eqqarsarpoq](process_speaking_mother_tongue.md). Tamanna [Kalaallisut](position_language_kl.md), inuit oqaasii kulturiallu tunngavia. [Qallunaatut](../denmark/position_language_da.md) [tuluttullu](../united_kingdom/position_language_en_gb.md) [oqaatsit atorpai](process_speaking_worn.md) Nuummi. [Kalaallit inuunerata](position_culture_kalaallit_inuuneq.md) ilagaa, illoqarfimmiluunniit namminersornerulernissamut siunertaqartumik.
 
 ## Action
 

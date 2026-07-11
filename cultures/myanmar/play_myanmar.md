@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [မြန်မာ့ယဉ်ကျေးမှု](position_culture_burmese_culture.md)
 - [ဓမ္မ](position_dhamma.md)
 - [ပြည်ထောင်စု](position_the_union.md)
 - [ကုသိုလ်](position_merit.md)

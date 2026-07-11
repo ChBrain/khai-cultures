@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الجزائريّة](position_culture_al_jazairiya.md)
 - [الضِّيافة](position_al_diyafa.md)
 - [الأصل الأمازيغيّ](position_al_amazigh.md)
 - [الإيمان](position_al_iman.md)

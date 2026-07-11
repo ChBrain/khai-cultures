@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[ދިވެހިރާއްޖެ](position_raajje.md)
+[ދިވެހިރާއްޖެ](position_culture_raajje.md)
 
 ## Owner
 

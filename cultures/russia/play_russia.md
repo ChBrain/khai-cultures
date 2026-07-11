@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [русскость](position_culture_russkost.md)
 - [русский язык](position_language_ru.md)
 - [держава](position_derzhava.md)
 - [русская душа](position_russkaya_dusha.md)

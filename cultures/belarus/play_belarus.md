@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [беларускасць](position_culture_belaruskasc.md)
 - [беларуская мова](position_language_be.md)
 - [памяркоўнасць](position_pamiarkounasc.md)
 - [партызанскі край](position_partyzanski_kraj.md)

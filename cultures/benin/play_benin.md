@@ -47,6 +47,7 @@ Voici le pays qui a donne au monde le mot Vodun et la chose elle-meme: une foi v
 
 **Positions**
 
+- [la beninite](position_culture_beninite.md)
 - [le Vodun](position_le_vodun.md)
 - [la royaute d'Abomey](position_la_royaute_d_abomey.md)
 - [les peuples](position_les_peuples.md)

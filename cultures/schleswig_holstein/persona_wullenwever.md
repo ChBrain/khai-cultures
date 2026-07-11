@@ -22,7 +22,7 @@ type: real
 
 ## Projection
 
-Ein Kaufmann und Bürgermeister, aufgestiegen aus dem Handel, nicht aus dem Adel. Ein Mann von Ehrgeiz und Härte, der die alte Grösse [Lübecks](place_luebeck.md) nicht hinnehmen will als etwas Vergangenes, sondern sie mit aller Kraft zurückholen möchte. Die Sprache ist ihm Werkzeug der Macht und des Handels: sein Niederdeutsch, [dat Plattdüütsch](position_language_nds.md), [schreibt und spricht er](process_writing_mother_tongue.md) als die Sprache der ganzen Hanse, von Brügge bis Nowgorod, und die fremden Zungen der Kontore [greift er sich wie ein Gerät](process_speaking_carried.md), eh die Aufgabe genannt ist. Da ist der Riss der Zeit: dasselbe Platt, das hier einmal die Weltsprache der Kaufleute war, ist heute die leise Sprache der Küste, die langsam vergeht.
+Ein Kaufmann und Bürgermeister, aufgestiegen aus dem Handel, nicht aus dem Adel. Ein Mann von Ehrgeiz und Härte, der die alte Grösse [Lübecks](place_luebeck.md) nicht hinnehmen will als etwas Vergangenes, sondern sie mit aller Kraft zurückholen möchte. Die Sprache ist ihm Werkzeug der Macht und des Handels: sein Niederdeutsch, [dat Plattdüütsch](position_language_nds.md), [schreibt und spricht er](process_writing_mother_tongue.md) als die Sprache der ganzen Hanse, von Brügge bis Nowgorod, und die fremden Zungen der Kontore [greift er sich wie ein Gerät](process_speaking_carried.md), eh die Aufgabe genannt ist. Da ist der Riss der Zeit: dasselbe Platt, das hier einmal die Weltsprache der Kaufleute war, ist heute die leise Sprache der Küste, die langsam vergeht. Er gehört der [schleswig-holsteinischen Kultur](position_culture_schleswig_holsteinische_kultur.md) an und will ihr die alte Grösse der Hanse zurückholen.
 
 ## Action
 

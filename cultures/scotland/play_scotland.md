@@ -46,6 +46,7 @@ A small, hard-won nation that fought free on the field, reformed its faith into 
 
 **Positions**
 
+- [Scottishness](position_culture_scottishness.md)
 - [the Kirk](position_the_kirk.md)
 - [egalitarianism](position_egalitarianism.md)
 - [the clan](position_the_clan.md)

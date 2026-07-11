@@ -26,7 +26,7 @@ Menjelang penghujung kurun ke dua puluh negeri yang sudah menyusun semula diriny
 
 ## Action
 
-Pada tahun seribu sembilan ratus lapan puluh empat Brunei berdiri penuh sebagai negara berdaulat, mengambil nama rasminya, Negara Brunei Darussalam, negeri yang aman. Bendera dinaikkan, lagu kebangsaan yang mendoakan raja dan negeri berkumandang, dan negeri yang rajanya tidak pernah putus garis keturunannya mengambil tempatnya di kalangan bangsa-bangsa. Falsafah [Melayu Islam Beraja](position_melayu_islam_beraja.md) menjadi sendi sebuah negara yang penuh, masih beraja, masih beragama, dan masih di sungainya.
+Pada tahun seribu sembilan ratus lapan puluh empat Brunei berdiri penuh sebagai negara berdaulat, mengambil nama rasminya, Negara Brunei Darussalam, negeri yang aman. Bendera dinaikkan, lagu kebangsaan yang mendoakan raja dan negeri berkumandang, dan negeri yang rajanya tidak pernah putus garis keturunannya mengambil tempatnya di kalangan bangsa-bangsa. Falsafah [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md) menjadi sendi sebuah negara yang penuh, masih beraja, masih beragama, dan masih di sungainya.
 
 ## Stage
 

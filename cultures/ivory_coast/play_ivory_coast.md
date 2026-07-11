@@ -47,6 +47,7 @@ Une terre née du mélange et qui en a fait sa fierté. La légende fondatrice e
 
 **Positions**
 
+- [l'ivoirité](position_culture_ivoirite.md)
 - [le sacrifice de Pokou](position_le_sacrifice.md)
 - [le brassage](position_le_brassage.md)
 - [la débrouille](position_la_debrouille.md)

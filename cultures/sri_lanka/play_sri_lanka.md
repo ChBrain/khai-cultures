@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [ශ්‍රී ලාංකික සංස්කෘතිය](position_culture_shri_lankika_sanskruthiya.md)
 - [ථේරවාද බුද්ධ ශාසනය](position_theravada_buddhism.md)
 - [වැව](position_the_tank.md)
 - [දූපත් නිවහන](position_the_island_home.md)

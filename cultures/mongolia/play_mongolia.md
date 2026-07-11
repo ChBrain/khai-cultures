@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [монгол соёл](position_culture_mongol_soyol.md)
 - [Мөнх хөх тэнгэр](position_munkh_khukh_tengri.md)
 - [Нүүдэлчин ахуй](position_nuudelchin.md)
 - [Чингисийн өв](position_chinggis_uv.md)

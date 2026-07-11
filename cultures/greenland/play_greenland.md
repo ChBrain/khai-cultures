@@ -43,6 +43,7 @@ Qeqertarsuaq apummit sermimillu qalligaasoq, ukiuni hundredelikkaani piniartut i
 
 **Positions**
 
+- [Kalaallit inuuneq](position_culture_kalaallit_inuuneq.md)
 - [Kalaallisut](position_language_kl.md)
 
 **Pieces**

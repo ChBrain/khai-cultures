@@ -46,6 +46,7 @@ Petrae apostolicae super quam ecclesia aedificata est memoria, quae per saecula 
 - [Cathedra Petri](position_cathedra.md)
 - [Civitas Vaticana](position_civitas.md)
 - [Curia Romana](position_curia.md)
+- [Romanitas](position_culture_romanitas.md)
 - [lingua Latina](position_language_la.md)
 
 **Pieces**

@@ -49,6 +49,7 @@ stamp:
 
 - [النيل والأرض](position_the_nile.md)
 - [الإيمان والعلم](position_faith_and_learning.md)
+- [الثقافة المصرية](position_culture_thaqafa_almisriyya.md)
 - [الكلمة والنغم](position_language_ar_eg.md)
 
 **Pieces**

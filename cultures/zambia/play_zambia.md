@@ -47,7 +47,7 @@ Zambia is not one people who slowly became a state, but many peoples who chose, 
 
 **Positions**
 
-- [One Zambia, One Nation](position_one_zambia_one_nation.md)
+- [One Zambia, One Nation](position_culture_one_zambia_one_nation.md)
 - [Humanism](position_humanism.md)
 - [the bush](position_the_bush.md)
 - [Zambian English](position_language_en_zm.md)
@@ -77,7 +77,7 @@ The red metal is found beneath the ground and the mining towns rise on the line 
 
 **[Plot 3: One Zambia, One Nation (1964)](plot_03_one_zambia_one_nation_1964.md)**
 
-In 1964 the country comes to independence and, with seventy tongues and no people large enough to rule the rest, [Kenneth Kaunda](persona_kaunda.md) and his generation choose to hold the nation by one idea, [One Zambia, One Nation](position_one_zambia_one_nation.md), with English the bridge that none own and all can cross.
+In 1964 the country comes to independence and, with seventy tongues and no people large enough to rule the rest, [Kenneth Kaunda](persona_kaunda.md) and his generation choose to hold the nation by one idea, [One Zambia, One Nation](position_culture_one_zambia_one_nation.md), with English the bridge that none own and all can cross.
 
 **[Plot 4: the peace held](plot_04_the_peace_held.md)**
 
@@ -85,4 +85,4 @@ Through the decades since, while neighbours were torn apart, Zambia keeps the pe
 
 ## Stakes
 
-Whether a country made of more than seventy peoples, held together not by one tribe nor one tongue but by one idea, can keep [One Zambia, One Nation](position_one_zambia_one_nation.md) whole and keep [the bush](position_the_bush.md) and the great rivers that feed it; whether the gentle creed of [Humanism](position_humanism.md) can keep the human being first when the copper price falls and times are hard; and whether the peace it has kept while the region burned can be carried on, generation to generation, so that being many never again becomes a reason to be divided.
+Whether a country made of more than seventy peoples, held together not by one tribe nor one tongue but by one idea, can keep [One Zambia, One Nation](position_culture_one_zambia_one_nation.md) whole and keep [the bush](position_the_bush.md) and the great rivers that feed it; whether the gentle creed of [Humanism](position_humanism.md) can keep the human being first when the copper price falls and times are hard; and whether the peace it has kept while the region burned can be carried on, generation to generation, so that being many never again becomes a reason to be divided.

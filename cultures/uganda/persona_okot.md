@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[the many held as one](position_obuntu.md)
+[the many held as one](position_culture_obuntu.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ The poet from the north, the Acholi son of Gulu who gave the country Song of Law
 
 ## Action
 
-In [independence (1962)](plot_03_independence.md) he sings the old tongue and the old ways back into pride at the very season the young nation is finding its feet, claiming for his own people, and so for all the peoples, a seat at the nation's table that does not ask them to stop being themselves. He carries [the many held as one](position_obuntu.md) by insisting that to belong to Uganda is not to be flattened into one mould, but to bring your whole self, tongue and dance and all, into the circle.
+In [independence (1962)](plot_03_independence.md) he sings the old tongue and the old ways back into pride at the very season the young nation is finding its feet, claiming for his own people, and so for all the peoples, a seat at the nation's table that does not ask them to stop being themselves. He carries [the many held as one](position_culture_obuntu.md) by insisting that to belong to Uganda is not to be flattened into one mould, but to bring your whole self, tongue and dance and all, into the circle.
 
 ## Shadow
 

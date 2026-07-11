@@ -34,4 +34,4 @@ E uunaia e le manaoga e faaali le tautua ma le onosai i le faaSamoa, ma le mitam
 
 ## Echo
 
-O le tatau e faaali ai le tautua, le onosai, ma le tuuto i le [faaSamoa](position_faasamoa.md), o le faailoga e tauave i le tino o le sauni e tautua i le aiga. O le tagata e onosai i le tiga o le pea pe o le malu, e pei o [le matai](persona_le_matai.md), e faaali ai lona tofiga ma lona sauni e tu mo le aiga ma le nuu i le faaSamoa.
+O le tatau e faaali ai le tautua, le onosai, ma le tuuto i le [faaSamoa](position_culture_faasamoa.md), o le faailoga e tauave i le tino o le sauni e tautua i le aiga. O le tagata e onosai i le tiga o le pea pe o le malu, e pei o [le matai](persona_le_matai.md), e faaali ai lona tofiga ma lona sauni e tu mo le aiga ma le nuu i le faaSamoa.

@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[la identidad catalana](position_catalan_identity.md)
+[la identidad catalana](position_culture_identidad_catalana.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Una agricultora y presidenta de cooperativa vinícola de cincuenta y dos años e
 
 ## Action
 
-Ella custodia recipientes como [el porro](piece_porro.md), coordina la protección de tierras bajo [el plan de inmersión](plan_catalan_immersion.md) y estudia [la identidad catalana](position_catalan_identity.md).
+Ella custodia recipientes como [el porro](piece_porro.md), coordina la protección de tierras bajo [el plan de inmersión](plan_catalan_immersion.md) y estudia [la identidad catalana](position_culture_identidad_catalana.md).
 
 ## Shadow
 

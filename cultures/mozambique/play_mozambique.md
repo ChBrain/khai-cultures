@@ -49,7 +49,7 @@ Uma terra que sempre olhou para o mar. Muito antes de qualquer bandeira, a Ilha 
 
 - [a costa do Indico](position_a_costa.md)
 - [a nacao dos poetas](position_a_nacao_dos_poetas.md)
-- [os muitos povos](position_os_muitos_povos.md)
+- [os muitos povos](position_culture_os_muitos_povos.md)
 - [o portugues de Mocambique](position_language_pt_mz.md)
 
 **Pieces**
@@ -73,7 +73,7 @@ Muito antes das bandeiras, [a Ilha de Mocambique](place_ilha.md) e ja porto do m
 
 **[Plot 2: a madeira que canta](plot_02_a_madeira.md)**
 
-No norte os Makonde talham o pau-preto e dancam o [mapiko](process_o_mapiko.md), e entre os Chopi as orquestras de timbila fazem cantar a madeira, levantando [os muitos povos](position_os_muitos_povos.md) em arte que o mundo veio a conhecer.
+No norte os Makonde talham o pau-preto e dancam o [mapiko](process_o_mapiko.md), e entre os Chopi as orquestras de timbila fazem cantar a madeira, levantando [os muitos povos](position_culture_os_muitos_povos.md) em arte que o mundo veio a conhecer.
 
 **[Plot 3: a nacao da palavra](plot_03_a_palavra.md)**
 
@@ -81,7 +81,7 @@ Quando a terra precisou de dizer-se inteira, falou pela boca dos seus poetas, e 
 
 **[Plot 4: Maputo e a marrabenta](plot_04_maputo.md)**
 
-Em [Maputo](place_maputo.md) das acacias nasce o som da marrabenta de [Fany Pfumo](persona_fany_pfumo.md), e a letra moderna de [Mia Couto](persona_mia_couto.md) reinventa o portugues a partir do chão, fazendo da cidade o coracao de [os muitos povos](position_os_muitos_povos.md).
+Em [Maputo](place_maputo.md) das acacias nasce o som da marrabenta de [Fany Pfumo](persona_fany_pfumo.md), e a letra moderna de [Mia Couto](persona_mia_couto.md) reinventa o portugues a partir do chão, fazendo da cidade o coracao de [os muitos povos](position_culture_os_muitos_povos.md).
 
 ## Stakes
 

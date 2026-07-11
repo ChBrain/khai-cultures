@@ -47,6 +47,7 @@ Hapa, katika Bonde la Olduvai, ndipo binadamu wa kwanza walipoacha nyayo zao kwe
 
 **Positions**
 
+- [utamaduni wa Kitanzania](position_culture_utamaduni_wa_kitanzania.md)
 - [Kiswahili](position_language_sw_tz.md)
 - [umoja na undugu](position_umoja.md)
 - [utamaduni wa pwani](position_pwani.md)

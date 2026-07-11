@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old Writers' Workshop coordinator in Iowa City. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily workshop logs. It is the [Iowan English](position_language_en_us_ia.md) of Iowa City, the measured, careful prairie diction of the Writers' Workshop table. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of corn breeders like George and the digital demands of agriculture boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of literary critique is treated as secondary to corporate farming and speedway entertainment.
+A fifty-two-year-old Writers' Workshop coordinator in Iowa City. English, spoken with a prairie drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily workshop logs. It is the [Iowan English](position_language_en_us_ia.md) of Iowa City, the measured, careful prairie diction of the Writers' Workshop table. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of corn breeders like George and the digital demands of agriculture boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of literary critique is treated as secondary to corporate farming and speedway entertainment. She belongs to [Iowan culture](position_culture_iowan_culture.md) as the literary craft that applies the same patient standard to a manuscript as the field applies to a crop.
 
 ## Action
 

@@ -34,4 +34,4 @@ It is driven by the need of the callaloo to honour all its peoples and creeds, t
 
 ## Echo
 
-Divali makes visible what [the callaloo nation](position_the_callaloo_nation.md) needs: a way for one of its founding peoples to shine and the rest to share the light. By these deyas the world of [V.S. Naipaul](persona_vs_naipaul.md) keeps its faith and its India, the temple and the lamps the ancestral home he carried in his name.
+Divali makes visible what [the callaloo nation](position_culture_the_callaloo_nation.md) needs: a way for one of its founding peoples to shine and the rest to share the light. By these deyas the world of [V.S. Naipaul](persona_vs_naipaul.md) keeps its faith and its India, the temple and the lamps the ancestral home he carried in his name.

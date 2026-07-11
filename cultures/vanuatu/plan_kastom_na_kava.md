@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Open mandet we kantri i putum long hem wan: had wok blong holemtaet [kastom](position_kastom.md) we i kam daon long ol bubu, blong joenem evri lanwis long [Kondominiom mo independens](position_kondominiom_na_independens.md) we i wokem wan nasen tru long Bislama, mo blong holem [hapi aelan](position_hapi_aelan.md) we komuniti mo kava i mekem, taem solwota i girap mo klaemet i kam stamba blong fraet long fored laen.
+Open mandet we kantri i putum long hem wan: had wok blong holemtaet [kastom](position_culture_kastom.md) we i kam daon long ol bubu, blong joenem evri lanwis long [Kondominiom mo independens](position_kondominiom_na_independens.md) we i wokem wan nasen tru long Bislama, mo blong holem [hapi aelan](position_hapi_aelan.md) we komuniti mo kava i mekem, taem solwota i girap mo klaemet i kam stamba blong fraet long fored laen.
 
 ## Owner
 

@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الفلسطينية](position_culture_alfilastiniyya.md)
 - [الأرض والزيتون](position_alard_walzaytun.md)
 - [الذاكرة المطرزة](position_aldhakira_almutarraza.md)
 - [الصمود](position_alsumud.md)

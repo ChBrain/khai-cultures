@@ -46,6 +46,7 @@ A land of oceanic migration and cultural resilience, defined by its isolation an
 
 - [Aloha spirit](position_aloha_spirit.md)
 - [Hawaiian sovereignty](position_hawaiian_sovereignty.md)
+- [Hawaiian culture](position_culture_hawaiian_culture.md)
 - [Hawaii English](position_language_en_us_hi.md)
 
 **Pieces**

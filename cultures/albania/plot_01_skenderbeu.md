@@ -32,7 +32,7 @@ Më 1443 Skënderbeu braktis ushtrinë osmane, ngre flamurin me shqiponjën e ze
 
 - [Kruja](place_kruja.md): kalaja që i mban Osmanët dhe bëhet faltore e kombit.
 - [Skënderbeu](persona_skenderbeu.md): princi peng që kthehet e bashkon shqiptarët.
-- [shqiptaria](position_shqiptaria.md): kombi mbi fe, i bashkuar përballë perandorisë.
+- [shqiptaria](position_culture_shqiptaria.md): kombi mbi fe, i bashkuar përballë perandorisë.
 
 ## Tension
 

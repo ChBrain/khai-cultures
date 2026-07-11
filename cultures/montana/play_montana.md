@@ -44,6 +44,7 @@ A land of mineral wealth and mountain self-reliance, defined by the glaciated pe
 
 **Positions**
 
+- [the Treasure State](position_culture_treasure_state.md)
 - [copper mining](position_copper_mining.md)
 - [montana wilderness](position_montana_wilderness.md)
 - [Montanan English](position_language_en_us_mt.md)

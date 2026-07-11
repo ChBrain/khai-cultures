@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[botho](position_botho.md)
+[botho](position_culture_botho.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Moeteledipele wa ntlha wa naga, ngwana wa losika lwa bogosi yo o gogetseng Botsw
 
 ## Action
 
-Mo go [Boipuso le Seretse](plot_03_boipuso.md) o gogela naga kwa boipuso a bo a baya motheo wa [botho](position_botho.md) jaaka mošwa wa puso: kagiso, tlotlo, le go amogela botlhe. Ka go gogela a sa busolosetse bosula ka bosula, o naya naga tsela ya khutso le ya kagisano e e e dirileng sekai mo lefatsheng.
+Mo go [Boipuso le Seretse](plot_03_boipuso.md) o gogela naga kwa boipuso a bo a baya motheo wa [botho](position_culture_botho.md) jaaka mošwa wa puso: kagiso, tlotlo, le go amogela botlhe. Ka go gogela a sa busolosetse bosula ka bosula, o naya naga tsela ya khutso le ya kagisano e e e dirileng sekai mo lefatsheng.
 
 ## Shadow
 

@@ -31,7 +31,7 @@ The self-governing nation makes its way in the world as the Warm Heart of Africa
 ## Stage
 
 - [Wambali Mkandawire](persona_wambali.md): the singer who carries the warmth of the country out onto the world's stages and home again.
-- [the Warm Heart](position_warm_heart.md): the friendliness that earns the country the name the whole continent uses for it.
+- [the Warm Heart](position_culture_the_warm_heart.md): the friendliness that earns the country the name the whole continent uses for it.
 - [Lilongwe](place_lilongwe.md): the central capital from which the self-governing nation takes its name and governs.
 
 ## Tension

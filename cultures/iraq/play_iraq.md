@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [العراقية](position_culture_al_iraqiyya.md)
 - [الكلمة الأولى](position_language_ar_iq.md)
 - [دار الحكمة](position_dar_al_hikma.md)
 - [النهران والنخلة](position_al_nahran_wa_al_nakhla.md)

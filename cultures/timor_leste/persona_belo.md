@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[lulik](position_lulik.md)
+[lulik](position_culture_lulik.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Ema-Igreja husi povu rasik ne'ebe sai bispu no ne'ebe, iha tempu todan, hamrik b
 
 ## Action
 
-Iha [kruz nia mai](plot_02_kruz_nia_mai.md) nia hatudu oinsa Igreja no [lulik](position_lulik.md) bele moris hamutuk iha uma ida, no oinsa fiar bele sai haket ba povu bainhira tempu sai todan. Husi nia knaar nu'udar bispu nia halo Igreja sai uma ba povu, no fiar sai forsa ne'ebe sustenta esperansa.
+Iha [kruz nia mai](plot_02_kruz_nia_mai.md) nia hatudu oinsa Igreja no [lulik](position_culture_lulik.md) bele moris hamutuk iha uma ida, no oinsa fiar bele sai haket ba povu bainhira tempu sai todan. Husi nia knaar nu'udar bispu nia halo Igreja sai uma ba povu, no fiar sai forsa ne'ebe sustenta esperansa.
 
 ## Shadow
 

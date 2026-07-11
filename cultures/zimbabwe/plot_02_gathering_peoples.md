@@ -30,7 +30,7 @@ In the nineteenth century, in the wake of the great upheavals and migrations to 
 
 ## Stage
 
-- [hunhu](position_hunhu.md): the conviction that binds the distinct peoples into one company under one name.
+- [hunhu](position_culture_hunhu.md): the conviction that binds the distinct peoples into one company under one name.
 - [Mbuya Nehanda](persona_nehanda.md): the enduring image of the ancestral voice rooted in the soil, honoured across the land.
 - [Mosi-oa-Tunya](place_mosi_oa_tunya.md): the great falls on the Zambezi, the country's northern edge and a wonder shared by all its peoples.
 

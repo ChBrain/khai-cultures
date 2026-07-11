@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[the callaloo nation](position_the_callaloo_nation.md)
+[the callaloo nation](position_culture_the_callaloo_nation.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ The Oxford-trained historian of "Capitalism and Slavery," who argued that the we
 
 ## Action
 
-In [Pan, Mas and Calypso](plot_03_pan_mas_and_calypso.md) he builds the new nation around its own genius, giving the callaloo a state and naming no race its master, the historian of slavery become the maker of [the callaloo nation](position_the_callaloo_nation.md). By taking the islands to independence he turns the colony into a country and asks the many peoples to hold together as one.
+In [Pan, Mas and Calypso](plot_03_pan_mas_and_calypso.md) he builds the new nation around its own genius, giving the callaloo a state and naming no race its master, the historian of slavery become the maker of [the callaloo nation](position_culture_the_callaloo_nation.md). By taking the islands to independence he turns the colony into a country and asks the many peoples to hold together as one.
 
 ## Shadow
 

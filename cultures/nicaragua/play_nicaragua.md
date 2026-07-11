@@ -47,6 +47,7 @@ Una tierra tendida entre dos mares y marcada por dos mundos que nunca acabaron d
 
 **Positions**
 
+- [la nicaraguidad](position_culture_nicaraguidad.md)
 - [tierra de poetas](position_tierra_de_poetas.md)
 - [las dos costas](position_las_dos_costas.md)
 - [la patria disputada](position_la_patria_disputada.md)

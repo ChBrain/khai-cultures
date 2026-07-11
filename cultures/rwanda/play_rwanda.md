@@ -47,6 +47,7 @@ Igihugu cy'imisozi yacurwe nk'urugendo rurerure rw'imihora itagira ingano, aho i
 
 **Positions**
 
+- [umuco nyarwanda](position_culture_umuco_nyarwanda.md)
 - [ubumwe](position_ubumwe.md)
 - [agaciro](position_agaciro.md)
 - [umuco w'inka](position_umuco_winka.md)

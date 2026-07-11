@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [پاکستانیت](position_culture_pakistaniyat.md)
 - [اسلام](position_islam.md)
 - [اردو زبان](position_language_ur.md)
 - [مہمان نوازی](position_mehman_nawazi.md)

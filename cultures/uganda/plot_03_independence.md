@@ -31,7 +31,7 @@ On the ninth of October, 1962, the flag with the crested crane goes up and Ugand
 ## Stage
 
 - [Okot p'Bitek](persona_okot.md): the poet who sings the old tongue and ways back into pride as the nation begins.
-- [the many held as one](position_obuntu.md): the task the new nation sets itself, to make the many one.
+- [the many held as one](position_culture_obuntu.md): the task the new nation sets itself, to make the many one.
 - [Kampala](place_kampala.md): the capital over which the crested crane flag is raised.
 
 ## Tension

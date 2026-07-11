@@ -43,6 +43,7 @@ Ein weites, wald- und wasserreiches Flachland, das die Bundeshauptstadt Berlin u
 
 **Positions**
 
+- [die brandenburgische Kultur](position_culture_brandenburgische_kultur.md)
 - [die märkische Ruhe](position_maerkische_ruhe.md)
 - [die preußische Tugend](position_preussische_tugend.md)
 - [die Wende-Erfahrung](position_wende_brandenburg.md)

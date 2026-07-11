@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-four-year-old biotech researcher in Cambridge. English is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and publishes his papers. His English is [Massachusetts English](position_language_en_us_ma.md), the native tongue of the Cambridge research corridor. [Latin](../holy_see/position_language_la.md) [he wears as an overgarment](process_speaking_worn.md) in his academic work and research taxonomy. Yet the loss lies in the seam: The historical, Puritan-derived moral warnings of Abigail and the traditional covenants [he hears only like a distant echo](process_hearing_followed.md), feeling that the urgent demands of medical progress must override conservative ethical constraints.
+A thirty-four-year-old biotech researcher in Cambridge. English is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and publishes his papers. His English is [Massachusetts English](position_language_en_us_ma.md), the native tongue of the Cambridge research corridor. [Latin](../holy_see/position_language_la.md) [he wears as an overgarment](process_speaking_worn.md) in his academic work and research taxonomy. Yet the loss lies in the seam: The historical, Puritan-derived moral warnings of Abigail and the traditional covenants [he hears only like a distant echo](process_hearing_followed.md), feeling that the urgent demands of medical progress must override conservative ethical constraints. He holds [the Bay State](position_culture_bay_state.md) in the same dissenting rigor he brings to the bench.
 
 ## Action
 

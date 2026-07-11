@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Hawsha furan ee dadka Soomaaliyeed isu dhiibeen: in la sii hayo [af-Soomaaliga iyo gabayga](position_language_so.md), in maahmaahdii iyo gabaygii reeraha ay sii noolaadaan iyaga oo qurbaha ku kala firidhsan, in [Islaamku](position_islaamka.md) iyo [xeerka iyo qaraabadu](position_xeerka.md) ay sii xambaaraan xididka iyo dunta bulshada, oo aan hawsha casriga ah ay daadin gabaygii iyo erayga.
+Hawsha furan ee dadka Soomaaliyeed isu dhiibeen: in la sii hayo [af-Soomaaliga iyo gabayga](position_language_so.md), in maahmaahdii iyo gabaygii reeraha ay sii noolaadaan iyaga oo qurbaha ku kala firidhsan, in [Islaamku](position_culture_islaamka.md) iyo [xeerka iyo qaraabadu](position_xeerka.md) ay sii xambaaraan xididka iyo dunta bulshada, oo aan hawsha casriga ah ay daadin gabaygii iyo erayga.
 
 ## Owner
 

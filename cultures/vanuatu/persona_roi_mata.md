@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[kastom](position_kastom.md)
+[kastom](position_culture_kastom.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Paramaon jif blong bifo we i rul long Efate mo ol aelan raonabaot, longwe bifo o
 
 ## Action
 
-Long [ol jif mo Roi Mata](plot_01_ol_jif_na_roi_mata.md) hem i joenem ol haf blong Efate wetem pis mo i putum [kastom](position_kastom.md) olsem stamba blong rank mo blong rul. Hem i wokem wan sistem we ol jif mo ol haf oli stap wantaem andanit long wan loa, mo hem i lego long Vanuatu wan fasin blong pis we i kam daon long evri jif we i kam biaen.
+Long [ol jif mo Roi Mata](plot_01_ol_jif_na_roi_mata.md) hem i joenem ol haf blong Efate wetem pis mo i putum [kastom](position_culture_kastom.md) olsem stamba blong rank mo blong rul. Hem i wokem wan sistem we ol jif mo ol haf oli stap wantaem andanit long wan loa, mo hem i lego long Vanuatu wan fasin blong pis we i kam daon long evri jif we i kam biaen.
 
 ## Shadow
 

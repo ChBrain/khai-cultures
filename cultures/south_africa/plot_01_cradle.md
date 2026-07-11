@@ -31,7 +31,7 @@ In the limestone caves of the Cradle, generation upon generation of early humank
 ## Stage
 
 - [the Cradle of Humankind](place_cradle.md): the caves where the human story begins, the deepest root of the country.
-- [ubuntu](position_ubuntu.md): the old truth that a person is a person through other people, rooted here at the start of us.
+- [ubuntu](position_culture_ubuntu.md): the old truth that a person is a person through other people, rooted here at the start of us.
 - [the Gogo](persona_gogo.md): the keeper of the old stories, standing at the near end of the oldest human line there is.
 
 ## Tension

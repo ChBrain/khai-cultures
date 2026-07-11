@@ -47,7 +47,7 @@ Rai-ki'ik iha arkipelagu nia rohan loron-sa'e, ne'ebe sente an antigu liu fali n
 
 **Positions**
 
-- [lulik](position_lulik.md)
+- [lulik](position_culture_lulik.md)
 - [lia-tetun](position_language_tet.md)
 - [dalan naruk ba ukun-rasik-an](position_dalan.md)
 
@@ -68,11 +68,11 @@ Rai-ki'ik iha arkipelagu nia rohan loron-sa'e, ne'ebe sente an antigu liu fali n
 
 **[Plot 1: lafaek-bei nia lenda](plot_01_lafaek_bei.md)**
 
-Iha tempu uluk liu, lafaek-bei ida sai bo'ot tebes no, atu selu labarik ida nia laran-di'ak, fo nia isin sai rai: husi ne'e [lulik](position_lulik.md) sa'e nu'udar haket ba rai, bei-ala, no klan, no [Tatamailau](place_ramelau.md) sai foho aas liu hotu.
+Iha tempu uluk liu, lafaek-bei ida sai bo'ot tebes no, atu selu labarik ida nia laran-di'ak, fo nia isin sai rai: husi ne'e [lulik](position_culture_lulik.md) sa'e nu'udar haket ba rai, bei-ala, no klan, no [Tatamailau](place_ramelau.md) sai foho aas liu hotu.
 
 **[Plot 2: kruz nia mai](plot_02_kruz_nia_mai.md)**
 
-Loro-sa'e mai husi tasi ho Kristaun nia kruz, no povu simu fiar foun ne'e maibe la haluha bei-ala: iha [Dili](place_dili.md) no iha foho, Igreja no [lulik](position_lulik.md) moris hamutuk iha uma ida deit.
+Loro-sa'e mai husi tasi ho Kristaun nia kruz, no povu simu fiar foun ne'e maibe la haluha bei-ala: iha [Dili](place_dili.md) no iha foho, Igreja no [lulik](position_culture_lulik.md) moris hamutuk iha uma ida deit.
 
 **[Plot 3: dalan naruk](plot_03_dalan_naruk.md)**
 
@@ -84,4 +84,4 @@ Iha tinan 2002 iha [Dili](place_dili.md), nasaun restaura nia independensia, no 
 
 ## Stakes
 
-Karik rai-ki'ik ne'ebe liu ona dalan naruk no todan ba ukun-rasik-an, no nia lori istoria todan ho honra deit, bele sustenta [lulik](position_lulik.md) no fiar nia haket, hatutan [lia-tetun](position_language_tet.md) nu'udar lian hamutuk entre lian barak, no harii nasaun foun ho hakmatek no terus-naruk, ka karik diferensa no kabun-hamlaha bele halo nia haluha buat ne'ebe nia hetan ho terus boot iha dalan naruk.
+Karik rai-ki'ik ne'ebe liu ona dalan naruk no todan ba ukun-rasik-an, no nia lori istoria todan ho honra deit, bele sustenta [lulik](position_culture_lulik.md) no fiar nia haket, hatutan [lia-tetun](position_language_tet.md) nu'udar lian hamutuk entre lian barak, no harii nasaun foun ho hakmatek no terus-naruk, ka karik diferensa no kabun-hamlaha bele halo nia haluha buat ne'ebe nia hetan ho terus boot iha dalan naruk.

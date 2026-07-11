@@ -47,6 +47,7 @@ Le Mali porte un nom qui fut celui d'un empire, et il le porte sans rougir. Avan
 
 **Positions**
 
+- [la culture malienne](position_culture_culture_malienne.md)
 - [le Manden](position_le_manden.md)
 - [l'empire sahelien](position_l_empire_sahelien.md)
 - [la parole](position_la_parole.md)

@@ -47,6 +47,7 @@ Bann zil ti vid dimoun avan ki dimoun ti vini: bann zil granit ki pli vye ki tou
 
 **Positions**
 
+- [Seselwa](position_culture_seselwa.md)
 - [Lasosyasyon](position_lasosyasyon.md)
 - [Kreol](position_language_crs.md)
 - [Lanmer](position_lanmer.md)

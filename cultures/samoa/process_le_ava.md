@@ -34,4 +34,4 @@ E uunaia e le manaoga o se sauniga mamalu e amata ai feiloaiga o le faaSamoa, ma
 
 ## Echo
 
-O le ava e faaali ai le faaSamoa o le faaaloalo ma le faatulagaga o le mamalu. O le na te tautala i le lauga ma tufa le ava e faatino le [faaSamoa](position_faasamoa.md) o le faatulagaga o le aiga ma le nuu, e pei o [le matai](persona_le_matai.md) i le fono, o loo tauave le mamalu o lana suafa i le faasologa o le tufaina o le ava.
+O le ava e faaali ai le faaSamoa o le faaaloalo ma le faatulagaga o le mamalu. O le na te tautala i le lauga ma tufa le ava e faatino le [faaSamoa](position_culture_faasamoa.md) o le faatulagaga o le aiga ma le nuu, e pei o [le matai](persona_le_matai.md) i le fono, o loo tauave le mamalu o lana suafa i le faasologa o le tufaina o le ava.

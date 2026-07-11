@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[a crioulidade](position_crioulidade.md)
+[a crioulidade](position_culture_crioulidade.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ A professora e poeta de Sao Tome que pos a voz e o verso ao servico da sua terra
 
 ## Action
 
-Em [a independencia (1975)](plot_04_independencia.md) escreve a letra do hino da nacao nova e da ao povo as palavras com que se canta a si proprio livre. Faz da [crioulidade](position_crioulidade.md) uma nacao com voz, selando em verso o dia em que as ilhas tomaram nas maos a sua casa.
+Em [a independencia (1975)](plot_04_independencia.md) escreve a letra do hino da nacao nova e da ao povo as palavras com que se canta a si proprio livre. Faz da [crioulidade](position_culture_crioulidade.md) uma nacao com voz, selando em verso o dia em que as ilhas tomaram nas maos a sua casa.
 
 ## Shadow
 

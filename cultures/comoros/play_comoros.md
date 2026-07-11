@@ -47,6 +47,7 @@ Un peuple ne du brassage de l'ocean Indien : des Bantous d'Afrique, des Arabes v
 
 **Positions**
 
+- [la comorianite](position_culture_comorianite.md)
 - [l'islam](position_l_islam.md)
 - [l'anda](position_l_anda.md)
 - [la mer](position_la_mer.md)

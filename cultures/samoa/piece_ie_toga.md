@@ -26,7 +26,7 @@ I faaipoipoga, faamoemoega, maliu, ma feiloaiga mamalu o le aiga: o le ie toga, 
 
 ## Load Bearing
 
-E tauave le mamalu ma le tamaoaiga moni o le aiga, e le i le tupe ae i le measina. I le faaSamoa, o le ie toga o le tamaoaiga sili: e faaalu i faaipoipoga ma maliu, e fai ma faailoga o le faatasiga ma le faaaloalo i va o aiga, ma e faaali ai le mautu ma le mamalu o se aiga. O le ie toga sili e umi le taimi e lalaga ai, e oo lava i tausaga, ma o lona uiga e le mafai ona faatauina i tupe. E aunoa ma lenei measina e lalaga e tamaitai o le aiga, o le faatasiga o aiga i le [faaSamoa](position_faasamoa.md) e leai se measina e faasoa ai.
+E tauave le mamalu ma le tamaoaiga moni o le aiga, e le i le tupe ae i le measina. I le faaSamoa, o le ie toga o le tamaoaiga sili: e faaalu i faaipoipoga ma maliu, e fai ma faailoga o le faatasiga ma le faaaloalo i va o aiga, ma e faaali ai le mautu ma le mamalu o se aiga. O le ie toga sili e umi le taimi e lalaga ai, e oo lava i tausaga, ma o lona uiga e le mafai ona faatauina i tupe. E aunoa ma lenei measina e lalaga e tamaitai o le aiga, o le faatasiga o aiga i le [faaSamoa](position_culture_faasamoa.md) e leai se measina e faasoa ai.
 
 ## Apparent
 

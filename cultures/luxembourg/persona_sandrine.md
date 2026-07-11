@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Une frontalière de Lorraine, l'une des centaines de milliers qui font vivre le Grand-Duché sans y habiter. [Elle parle, écoute et pense](process_speaking_mother_tongue.md) en français, et c'est en [français](position_language_fr_lu.md) qu'elle travaille au Luxembourg, car la place financière tourne dans sa langue autant qu'en anglais. Mais le luxembourgeois qui se parle autour d'elle, elle ne l'[attrape qu'à l'oreille](process_hearing_caught.md). Là est la faille : elle fait tourner l'économie du pays sans en habiter la langue, le français la fait vivre au travail mais le luxembourgeois, le vrai signe d'appartenance, lui reste fermé, et le soir elle repasse la frontière.
+Une frontalière de Lorraine, l'une des centaines de milliers qui font vivre le Grand-Duché sans y habiter. [Elle parle, écoute et pense](process_speaking_mother_tongue.md) en français, et c'est en [français](position_language_fr_lu.md) qu'elle travaille au Luxembourg, car la place financière tourne dans sa langue autant qu'en anglais. Mais le luxembourgeois qui se parle autour d'elle, elle ne l'[attrape qu'à l'oreille](process_hearing_caught.md). Là est la faille : elle fait tourner l'économie du pays sans en habiter la langue, le français la fait vivre au travail mais le luxembourgeois, le vrai signe d'appartenance, lui reste fermé, et le soir elle repasse la frontière. Elle touche [mir wëlle bleiwe wat mir sinn](position_culture_mir_welle_bleiwe.md) sans y appartenir tout à fait, utile à la devise du pays sans jamais être comptée parmi les siens.
 
 ## Action
 

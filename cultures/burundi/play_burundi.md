@@ -47,6 +47,7 @@ Igihugu kitavuga uburyarya: imisozi y'icaha n'icarungi yatwaye amazi, kandi mu m
 
 **Positions**
 
+- [ubuntu](position_culture_ubuntu.md)
 - [ingoma](position_ingoma.md)
 - [Ikirundi](position_language_rn.md)
 - [inka](position_inka.md)

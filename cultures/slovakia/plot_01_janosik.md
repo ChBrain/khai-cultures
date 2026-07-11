@@ -32,7 +32,7 @@ Roku 1713 Jánošíka chytia a v Liptovskom Mikuláši obesia na háku za rebro.
 
 - [Vysoké Tatry](place_vysoke_tatry.md): hory a hole, v ktorých zbojník žije a ukrýva sa.
 - [Juraj Jánošík](persona_janosik.md): chlapec z hôr, čo sa vzoprel pánom a skončil na šibenici.
-- [mladý národ](position_mlady_narod.md): ovládaný ľud, ktorý si vo vzdore aspoň sníva.
+- [mladý národ](position_culture_mlady_narod.md): ovládaný ľud, ktorý si vo vzdore aspoň sníva.
 
 ## Tension
 

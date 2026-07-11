@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Le mandat ouvert que la nation s'est donne avec sa devise: faire vivre [zo kwe zo](position_zo_kwe_zo.md), tout homme est un homme, dans la vie reelle du plus humble; lier tant de [peuples](position_les_peuples.md) en une seule maison par la parole partagee, [le sango](position_le_sango.md), sans effacer les langues de chacun; et faire que la richesse de la terre profite enfin a celui qui peine sur elle.
+Le mandat ouvert que la nation s'est donne avec sa devise: faire vivre [zo kwe zo](position_culture_zo_kwe_zo.md), tout homme est un homme, dans la vie reelle du plus humble; lier tant de [peuples](position_les_peuples.md) en une seule maison par la parole partagee, [le sango](position_le_sango.md), sans effacer les langues de chacun; et faire que la richesse de la terre profite enfin a celui qui peine sur elle.
 
 ## Owner
 

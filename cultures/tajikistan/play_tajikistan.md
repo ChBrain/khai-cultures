@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [фарҳанги тоҷикӣ](position_culture_farhangi_tojiki.md)
 - [Сухани форсӣ](position_language_tg.md)
 - [Кӯҳҳо](position_kuhho.md)
 - [Меҳмоннавозӣ](position_mehmonnavozi.md)

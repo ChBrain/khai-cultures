@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-የኢትዮ-ጃዝ አባት፥ የኢትዮጵያን ባሕላዊ ቅኝትና ዜማ ከጃዝና ከዘመናዊ ሙዚቃ ጋር ያዋሐደ ድንቅ ሙዚቀኛ። ፈጣሪና ታጋሽ፥ የተለያዩ ድምፆችን አክብሮ ወደ አንድ ቃና የሚያመጣ ሰው። አማርኛን እንደ የልቡ ቋንቋ ይዞ [ይናገራል](process_speaking_mother_tongue.md) እና [ያስባል](process_thinking_mother_tongue.md)፥ የሙዚቃውን ቋንቋ ግን ከውጭ ካገኘውና [ከተበደረው ድምፅ](process_speaking_borrowed.md) ጋር ይቀላቅላል። ይህ [አማርኛ](position_language_am.md) የኢትዮጵያ ልሳን፥ ዜማውን የሚሰይምበት የልቡ ቋንቋ ነው። የጃዝን ኖታና መጻሕፍት [በጥልቀት አንብቦ ተከትሏል](process_reading_followed.md)፥ የአገሩንም ባሕላዊ ዜማ [ሰምቶ ተከትሏል](process_hearing_followed.md)። ስለ ሙዚቃው በቃላት ለማስረዳት ሲሞክር፥ ድምፁ ከቋንቋ በላይ መሆኑን አወቀ፥ ስለዚህም በቋንቋው ጫፍ ያለውን ክፍተት በዜማ መለሰው።
+የኢትዮ-ጃዝ አባት፥ የኢትዮጵያን ባሕላዊ ቅኝትና ዜማ ከጃዝና ከዘመናዊ ሙዚቃ ጋር ያዋሐደ ድንቅ ሙዚቀኛ። ፈጣሪና ታጋሽ፥ የተለያዩ ድምፆችን አክብሮ ወደ አንድ ቃና የሚያመጣ ሰው። አማርኛን እንደ የልቡ ቋንቋ ይዞ [ይናገራል](process_speaking_mother_tongue.md) እና [ያስባል](process_thinking_mother_tongue.md)፥ የሙዚቃውን ቋንቋ ግን ከውጭ ካገኘውና [ከተበደረው ድምፅ](process_speaking_borrowed.md) ጋር ይቀላቅላል። ይህ [አማርኛ](position_language_am.md) የኢትዮጵያ ልሳን፥ ዜማውን የሚሰይምበት የልቡ ቋንቋ ነው። የጃዝን ኖታና መጻሕፍት [በጥልቀት አንብቦ ተከትሏል](process_reading_followed.md)፥ የአገሩንም ባሕላዊ ዜማ [ሰምቶ ተከትሏል](process_hearing_followed.md)። ስለ ሙዚቃው በቃላት ለማስረዳት ሲሞክር፥ ድምፁ ከቋንቋ በላይ መሆኑን አወቀ፥ ስለዚህም በቋንቋው ጫፍ ያለውን ክፍተት በዜማ መለሰው። የ[ኢትዮጵያዊነት](position_culture_ityopiyawinnet.md) አካል ነው፥ የተለያዩ ድምፆችን ወደ አንድ ዜማ ያዋሐደ ሙዚቀኛ።
 
 ## Action
 

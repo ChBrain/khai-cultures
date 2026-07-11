@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [افغانیت](position_culture_afghaniyat.md)
 - [مهمان‌نوازی](position_mehmannawazi.md)
 - [شعر و تصوف](position_sher_o_tasawwuf.md)
 - [کوه‌ها](position_kohha.md)

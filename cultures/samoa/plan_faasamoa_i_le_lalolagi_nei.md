@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-O se tofiga: o le fuafuaga mausali ma le tumau e tausi ai le faaSamoa i le lalolagi fou, o le taofiina o le faiga matai ma le aiga, o le taofiina pea o le folauga tele i lo latou aiga, ma le tausiga o le malosi o le eleele i luma o le suiga o le tau. O le mea lea na faatuina e tagata folau anamua i le [faaSamoa](position_faasamoa.md), e tatau ona tausia i le lalolagi nei.
+O se tofiga: o le fuafuaga mausali ma le tumau e tausi ai le faaSamoa i le lalolagi fou, o le taofiina o le faiga matai ma le aiga, o le taofiina pea o le folauga tele i lo latou aiga, ma le tausiga o le malosi o le eleele i luma o le suiga o le tau. O le mea lea na faatuina e tagata folau anamua i le [faaSamoa](position_culture_faasamoa.md), e tatau ona tausia i le lalolagi nei.
 
 ## Owner
 

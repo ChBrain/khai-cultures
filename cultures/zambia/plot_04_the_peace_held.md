@@ -31,7 +31,7 @@ The peace holds, soberly and against the odds. While neighbours are torn apart, 
 ## Stage
 
 - [Dominic Mulaisho](persona_mulaisho.md): the writer who records the nation's character and its costs in its own books.
-- [One Zambia, One Nation](position_one_zambia_one_nation.md): the founding idea, tested by hard years and kept.
+- [One Zambia, One Nation](position_culture_one_zambia_one_nation.md): the founding idea, tested by hard years and kept.
 - [Lusaka](place_lusaka.md): the capital where power is passed on without blood and the peace is held.
 
 ## Tension

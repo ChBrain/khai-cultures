@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Maikaelelo a a bulegileng a naga e ipeetseng one: tiro e e sa khutleng ya go tshegetsa [botho](position_botho.md) le tlotlo ya botho jwa motho, ya go boloka setshwarwa sa [kgotla](position_kgotla.md) le puso ya batho, ya go tsamaisa khumo ya diamane le ya [dikgomo](position_dikgomo.md) ka kelotlhoko gore e abelwe botlhe, le ya go babalela metsi le diphologolo jaaka khumo e e tshwanetseng go fitlha go bana ba bana.
+Maikaelelo a a bulegileng a naga e ipeetseng one: tiro e e sa khutleng ya go tshegetsa [botho](position_culture_botho.md) le tlotlo ya botho jwa motho, ya go boloka setshwarwa sa [kgotla](position_kgotla.md) le puso ya batho, ya go tsamaisa khumo ya diamane le ya [dikgomo](position_dikgomo.md) ka kelotlhoko gore e abelwe botlhe, le ya go babalela metsi le diphologolo jaaka khumo e e tshwanetseng go fitlha go bana ba bana.
 
 ## Owner
 

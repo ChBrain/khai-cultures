@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الثقافة البحرينية](position_culture_thaqafa_albahrainiya.md)
 - [دلمون](position_dilmun.md)
 - [البحران](position_albahran.md)
 - [البحر](position_albahr.md)

@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الثقافة الأردنية](position_culture_thaqafa_alurduniyya.md)
 - [الكرم](position_hospitality.md)
 - [الصخر المنحوت والبادية](position_the_carved_rock.md)
 - [ملتقى القوافل](position_the_crossroads.md)

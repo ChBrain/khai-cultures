@@ -47,6 +47,7 @@ Une terre que les anciens ont longtemps traversee plus qu'habitee: caravanes de 
 
 **Positions**
 
+- [la djiboutite](position_culture_djiboutite.md)
 - [la rencontre des deux peuples](position_deux_peuples.md)
 - [le carrefour](position_carrefour.md)
 - [le nomadisme pastoral](position_nomadisme.md)

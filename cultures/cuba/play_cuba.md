@@ -47,6 +47,7 @@ Una isla que fue de los taínos antes de ser de nadie más, y a la que llegó Es
 
 **Positions**
 
+- [la cubanía](position_culture_cubania.md)
 - [la patria y Cuba libre](position_la_patria_y_cuba_libre.md)
 - [el son y lo afrocubano](position_el_son_y_lo_afrocubano.md)
 - [la isla y la diáspora](position_la_isla_y_la_diaspora.md)

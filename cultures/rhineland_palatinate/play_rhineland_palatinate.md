@@ -43,6 +43,7 @@ Eine geschichtsträchtige Region, die nach dem Zweiten Weltkrieg aus ehemals bay
 
 **Positions**
 
+- [die rheinland-pfälzische Kultur](position_culture_rheinland_pfaelzische_kultur.md)
 - [das demokratische Erbe](position_demokratisches_erbe.md)
 - [der Winzerstolz](position_winzerstolz.md)
 - [die Antike](position_antike.md)

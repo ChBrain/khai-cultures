@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old Navajo weaver in Monument Valley. Navajo, spoken with a quiet, rhythmic cadence, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her family life. [Arizonan English](position_language_en_us_az.md) [she wears as an overgarment](process_speaking_worn.md) for her daily tour guiding and state water board presentations. Yet the loss lies in the seam: The fast, commercial talk of mining geologists like Ramon and the digital demands of Phoenix housing developers [she hears only like a distant echo](process_hearing_followed.md), feeling that the ancestral, resource-conserving wisdom of the desert is treated as secondary to corporate mineral development.
+A fifty-two-year-old Navajo weaver in Monument Valley. Navajo, spoken with a quiet, rhythmic cadence, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her family life. [Arizonan English](position_language_en_us_az.md) [she wears as an overgarment](process_speaking_worn.md) for her daily tour guiding and state water board presentations. Yet the loss lies in the seam: The fast, commercial talk of mining geologists like Ramon and the digital demands of Phoenix housing developers [she hears only like a distant echo](process_hearing_followed.md), feeling that the ancestral, resource-conserving wisdom of the desert is treated as secondary to corporate mineral development. She belongs to [Arizona culture](position_culture_arizona_culture.md) through the desert-resilient half of its character, the stewardship that reads the land as a living thing to be kept, not only used.
 
 ## Action
 

@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-북녘 땅에서 나고 자란 시인으로, 겨레의 말을 그대로 노래로 빚어낸 사람이다. 떠나는 임을 보내며 가는 길에 꽃을 뿌리겠다던 그의 시는, 어려운 글자를 빌리지 않고 누구나 입에 올리던 말로 지어져 온 겨레가 함께 외우는 노래가 되었다. [조선말](position_language_ko_kp.md)을 [말하고](process_speaking_mother_tongue.md) [생각하며](process_thinking_mother_tongue.md), 그 말의 가락을 [한글로 적어](process_writing_mother_tongue.md) 시로 굳혔다. 그는 겨레의 입말 속 가락과 그리움을 누구보다 깊이 [귀로 따라가](process_hearing_followed.md), 말로는 다 옮겨지지 않는 마음의 결을 짧은 노래에 담으려 하였다. 아무리 고른 말로도 다 적히지 않던 그 그리움, 혀끝의 끝에 닿지 못한 그 자리야말로 그의 시가 거듭 돌아가 머문 곳이었다.
+북녘 땅에서 나고 자란 시인으로, 겨레의 말을 그대로 노래로 빚어낸 사람이다. 떠나는 임을 보내며 가는 길에 꽃을 뿌리겠다던 그의 시는, 어려운 글자를 빌리지 않고 누구나 입에 올리던 말로 지어져 온 겨레가 함께 외우는 노래가 되었다. [조선말](position_language_ko_kp.md)을 [말하고](process_speaking_mother_tongue.md) [생각하며](process_thinking_mother_tongue.md), 그 말의 가락을 [한글로 적어](process_writing_mother_tongue.md) 시로 굳혔다. 그는 겨레의 입말 속 가락과 그리움을 누구보다 깊이 [귀로 따라가](process_hearing_followed.md), 말로는 다 옮겨지지 않는 마음의 결을 짧은 노래에 담으려 하였다. 아무리 고른 말로도 다 적히지 않던 그 그리움, 혀끝의 끝에 닿지 못한 그 자리야말로 그의 시가 거듭 돌아가 머문 곳이었다. 그는 [우리 민족](position_culture_uri_minjok.md)에 속하며, 갈라진 겨레의 그리움을 같은 말로 노래하여 그 한 핏줄을 오늘의 정으로 이어 준다.
 
 ## Action
 

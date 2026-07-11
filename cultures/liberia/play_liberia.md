@@ -47,6 +47,7 @@ Liberia is the nation that two peoples built together, my people, and it carries
 
 **Positions**
 
+- [the Liberian way](position_culture_the_liberian_way.md)
 - [the love of liberty](position_love_of_liberty.md)
 - [one nation from two](position_one_nation_from_two.md)
 - [the societies](position_the_societies.md)

@@ -47,6 +47,7 @@ A country with two stories braided into one rope. There were the people already 
 
 **Positions**
 
+- [Salone](position_culture_salone.md)
 - [the Settlement](position_the_settlement.md)
 - [the Societies](position_the_societies.md)
 - [the Learning](position_the_learning.md)

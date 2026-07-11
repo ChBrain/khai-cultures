@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[la identidad gallega](position_galician_identity.md)
+[la identidad gallega](position_culture_identidad_gallega.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Una luthier de gaitas y tejedora artesanal de treinta y seis años en Ourense. E
 
 ## Action
 
-Ella custodia prendas como [la gaita](piece_gaita.md), coordina la enseñanza musical bajo [el plan de protección de rías](plan_rias_estuary_protection.md) y estudia [la identidad gallega](position_galician_identity.md).
+Ella custodia prendas como [la gaita](piece_gaita.md), coordina la enseñanza musical bajo [el plan de protección de rías](plan_rias_estuary_protection.md) y estudia [la identidad gallega](position_culture_identidad_gallega.md).
 
 ## Shadow
 

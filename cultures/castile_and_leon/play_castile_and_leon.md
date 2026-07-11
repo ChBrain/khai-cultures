@@ -44,6 +44,7 @@ Una gran meseta septentrional de horizontes secos, fortalezas de piedra y honda 
 
 **Positions**
 
+- [la cultura castellanoleonesa](position_culture_cultura_castellanoleonesa.md)
 - [la meseta](position_meseta_reliance.md)
 - [el derecho de pastos](position_pasture_rights.md)
 - [el espanol castellano de Castilla y Leon](position_language_es_es_cl.md)

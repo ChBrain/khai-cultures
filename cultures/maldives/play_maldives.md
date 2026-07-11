@@ -49,7 +49,7 @@ stamp:
 
 - [Islam](position_islam.md)
 - [the sea](position_kandu.md)
-- [the atoll nation](position_raajje.md)
+- [the atoll nation](position_culture_raajje.md)
 - [ދިވެހި](position_language_div.md)
 
 **Pieces**
@@ -73,7 +73,7 @@ stamp:
 
 **[Plot 2: Thakurufaanu frees the nation (1573)](plot_02_thakurufaanu_1573.md)**
 
-ބޭރުގެ ބާރެއްގެ ދަށުގައި ޤައުމު އޮތް ދުވަސްވަރު، [މުޙައްމަދު ތަކުރުފާނު](persona_thakurufaanu.md) [ދިވެހިރާއްޖެ](position_raajje.md) މިނިވަންކޮށްދިނެވެ.
+ބޭރުގެ ބާރެއްގެ ދަށުގައި ޤައުމު އޮތް ދުވަސްވަރު، [މުޙައްމަދު ތަކުރުފާނު](persona_thakurufaanu.md) [ދިވެހިރާއްޖެ](position_culture_raajje.md) މިނިވަންކޮށްދިނެވެ.
 
 **[Plot 3: the age of the sultans](plot_03_sulthaanun.md)**
 
@@ -81,8 +81,8 @@ stamp:
 
 **[Plot 4: the modern nation and the rising sea](plot_04_modern.md)**
 
-1965 ގައި މިނިވަންވެ، ޖުމްހޫރިއްޔާއެއް ބިނާކޮށް، މިއަދު ކަނޑުގެ ލޮނުގަނޑު އުފުލެމުންދާ [ތިރި ރަށްތައް](position_raajje.md) ހިފެހެއްޓުމުގެ ސުވާލާ ކުރިމަތިލައެވެ.
+1965 ގައި މިނިވަންވެ، ޖުމްހޫރިއްޔާއެއް ބިނާކޮށް، މިއަދު ކަނޑުގެ ލޮނުގަނޑު އުފުލެމުންދާ [ތިރި ރަށްތައް](position_culture_raajje.md) ހިފެހެއްޓުމުގެ ސުވާލާ ކުރިމަތިލައެވެ.
 
 ## Stakes
 
-ކަނޑުން ދިރިއުޅުން ހޯދައި، އެއް ދީނެއް އެއް ބަހެއްގައި ހާސް އަހަރު ދެމިއޮތް މި ކުޑަ ޤައުމަށް، ކަނޑުގެ ލޮނުގަނޑު އުފުލެމުންދާއިރުވެސް، [އިސްލާމްދީނާއި](position_islam.md) ދިވެހި ބަހާއި [ކަނޑުގެ](position_kandu.md) ދިރިއުޅުން ހިފަހައްޓައި، [ތިރި ރަށްތައް](position_raajje.md) ދަރިންނަށް ވާޞިލުކޮށްދެވިދާނެ ހެއްޔެވެ.
+ކަނޑުން ދިރިއުޅުން ހޯދައި، އެއް ދީނެއް އެއް ބަހެއްގައި ހާސް އަހަރު ދެމިއޮތް މި ކުޑަ ޤައުމަށް، ކަނޑުގެ ލޮނުގަނޑު އުފުލެމުންދާއިރުވެސް، [އިސްލާމްދީނާއި](position_islam.md) ދިވެހި ބަހާއި [ކަނޑުގެ](position_kandu.md) ދިރިއުޅުން ހިފަހައްޓައި، [ތިރި ރަށްތައް](position_culture_raajje.md) ދަރިންނަށް ވާޞިލުކޮށްދެވިދާނެ ހެއްޔެވެ.

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[kapwa](position_kapwa.md)
+[kapwa](position_culture_kapwa.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Ang manggagamot, makata, at manunulat na taga-Calamba na, sa pamamagitan ng dala
 
 ## Action
 
-Sa [ang Himagsikan](plot_03_ang_himagsikan.md) ay ginising niya ang [kapwa](position_kapwa.md) ng isang buong bayan, ipinakita sa mga Pilipino na sila ay iisa at may sariling dangal. Sa pagsusulat ng katotohanan ay binigyan niya ang bansa ng salaming makikilala nito ang sarili, at ng simulang hindi na muling matatapos.
+Sa [ang Himagsikan](plot_03_ang_himagsikan.md) ay ginising niya ang [kapwa](position_culture_kapwa.md) ng isang buong bayan, ipinakita sa mga Pilipino na sila ay iisa at may sariling dangal. Sa pagsusulat ng katotohanan ay binigyan niya ang bansa ng salaming makikilala nito ang sarili, at ng simulang hindi na muling matatapos.
 
 ## Shadow
 

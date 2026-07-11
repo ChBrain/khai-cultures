@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[mladý národ](position_mlady_narod.md)
+[mladý národ](position_culture_mlady_narod.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Slovenský komunista, ktorý sa roku 1968 ako prvý tajomník pokúsil dať rež
 
 ## Action
 
-V [Pražskej jari](plot_03_prazska_jar.md) postaví Slovák na veľkú scénu vlastnú cestu a sovietske tanky ju rozdrvia. Aj v porážke je [mladý národ](position_mlady_narod.md) vidieť: zostane mu z nej aspoň federácia, prvé uznanie, že Slovensko je rovnocenné, nie mladší brat.
+V [Pražskej jari](plot_03_prazska_jar.md) postaví Slovák na veľkú scénu vlastnú cestu a sovietske tanky ju rozdrvia. Aj v porážke je [mladý národ](position_culture_mlady_narod.md) vidieť: zostane mu z nej aspoň federácia, prvé uznanie, že Slovensko je rovnocenné, nie mladší brat.
 
 ## Shadow
 

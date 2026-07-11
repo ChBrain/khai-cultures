@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [日本文化](position_culture_nihon_bunka.md)
 - [和](position_wa.md)
 - [武士道](position_bushido.md)
 - [神仏](position_shinbutsu.md)

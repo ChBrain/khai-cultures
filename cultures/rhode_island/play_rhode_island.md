@@ -44,6 +44,7 @@ A land of religious tolerance and maritime craftsmanship, defined by the tidal s
 
 **Positions**
 
+- [the Ocean State](position_culture_ocean_state.md)
 - [charter liberty](position_charter_liberty.md)
 - [bay stewardship](position_bay_stewardship.md)
 - [Rhode Island English](position_language_en_us_ri.md)

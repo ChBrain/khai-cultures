@@ -34,4 +34,4 @@ Het wordt gedragen door de gemeenschap die haar erfgoed uit India levend houdt, 
 
 ## Echo
 
-Phagwa maakt zichtbaar wat [wan bon](position_wan_bon.md) draagt: dat het feest van het ene blad het feest van de hele boom kan worden, en dat de menging een rijkdom is en geen breuk. Op deze dag gooit het volk waaraan [de contractarbeider](persona_de_contractarbeider.md) zijn blad toevoegde de kleuren over alle sma heen, zodat de boom voor een dag een enkele kleur draagt en toch al zijn bladeren houdt.
+Phagwa maakt zichtbaar wat [wan bon](position_culture_wan_bon.md) draagt: dat het feest van het ene blad het feest van de hele boom kan worden, en dat de menging een rijkdom is en geen breuk. Op deze dag gooit het volk waaraan [de contractarbeider](persona_de_contractarbeider.md) zijn blad toevoegde de kleuren over alle sma heen, zodat de boom voor een dag een enkele kleur draagt en toch al zijn bladeren houdt.

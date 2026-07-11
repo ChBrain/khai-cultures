@@ -47,6 +47,7 @@ O insulă latină într-o mare de slavi și de unguri: o limbă romanică născu
 
 **Positions**
 
+- [românitatea](position_culture_romanitatea.md)
 - [limba română](position_language_ro_ro.md)
 - [latinitatea](position_latinitatea.md)
 - [dor](position_dor.md)

@@ -50,6 +50,7 @@ Egy nép, amely egyedül áll Európában: a magyar, finnugor eredetű nemzet, a
 - [a magyar nyelv](position_language_hu.md)
 - [Trianon](position_trianon.md)
 - [a szabadságharc](position_szabadsagharc.md)
+- [a magyarság](position_culture_magyarsag.md)
 
 **Pieces**
 

@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [қазақ мәдениеті](position_culture_qazaq_madenieti.md)
 - [Дала жолы](position_dala.md)
 - [Тәңірі мен иман](position_tanir_iman.md)
 - [Ана тілі](position_language_kk.md)

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein fünfundsechzigjähriger Senn aus dem Allgäu, der eine Alpe in den Allgäuer Alpen bewirtschaftet. Deutsch, stark geprägt vom bayerisch-schwäbischen Dialekt, ist seine Muttersprache, das [bayerische Hochdeutsch](position_language_de_de_by.md), in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat. Er spricht keine Fremdsprachen. Doch der Verlust liegt in der Naht: Die modernen, [englischen](../united_kingdom/position_language_en_gb.md) Wander-Apps der Touristen und die GPS-Rettungssysteme [liest er nur mit leisem Kopfschütteln](process_reading_followed.md), da ihm das Naturverständnis und der persönliche Kontakt zu den Wanderern im durchoptimierten Tourismusbetrieb verloren gehen.
+Ein fünfundsechzigjähriger Senn aus dem Allgäu, der eine Alpe in den Allgäuer Alpen bewirtschaftet. Deutsch, stark geprägt vom bayerisch-schwäbischen Dialekt, ist seine Muttersprache, das [bayerische Hochdeutsch](position_language_de_de_by.md), in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat. Er spricht keine Fremdsprachen. Doch der Verlust liegt in der Naht: Die modernen, [englischen](../united_kingdom/position_language_en_gb.md) Wander-Apps der Touristen und die GPS-Rettungssysteme [liest er nur mit leisem Kopfschütteln](process_reading_followed.md), da ihm das Naturverständnis und der persönliche Kontakt zu den Wanderern im durchoptimierten Tourismusbetrieb verloren gehen. Er gehört [der bayerischen Kultur](position_culture_bayerische_kultur.md) an, deren schwäbischer Stamm im Westen des Freistaates seinen eigenen Klang neben dem Bairischen und dem Fränkischen behauptet.
 
 ## Action
 

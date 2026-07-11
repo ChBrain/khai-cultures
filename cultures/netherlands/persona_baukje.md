@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Een oudere vrouw van het Friese platteland, opgegroeid op een boerderij waar thuis alleen Fries werd gesproken. [Zij spreekt, hoort en denkt](process_speaking_mother_tongue.md) in haar moedertaal, [het Fries](position_it_frysk.md), de taal van huis en dorp, de oude grond onder alles. [Het Nederlands](position_language_nl_nl.md) van school en staat [schrijft zij](process_writing_drafted.md) als de landstaal, en [het Engels](../united_kingdom/position_language_en_gb.md) van de wereld [vangt zij met het oor](process_hearing_caught.md). Daar is de breuk: het Fries, de tweede rijkstaal, leeft thuis maar wordt kleiner onder het Nederlands en het Engels, en alleen de ouderen houden het nog helemaal overeind.
+Een oudere vrouw van het Friese platteland, opgegroeid op een boerderij waar thuis alleen Fries werd gesproken. [Zij spreekt, hoort en denkt](process_speaking_mother_tongue.md) in haar moedertaal, [het Fries](position_it_frysk.md), de taal van huis en dorp, de oude grond onder alles. [Het Nederlands](position_language_nl_nl.md) van school en staat [schrijft zij](process_writing_drafted.md) als de landstaal, en [het Engels](../united_kingdom/position_language_en_gb.md) van de wereld [vangt zij met het oor](process_hearing_caught.md). Daar is de breuk: het Fries, de tweede rijkstaal, leeft thuis maar wordt kleiner onder het Nederlands en het Engels, en alleen de ouderen houden het nog helemaal overeind. Zij behoort tot [de Nederlandse cultuur](position_culture_nederlandse_cultuur.md) als de bewaarster die de eigen taal aan de keukentafel levend houdt tegen de landstaal in.
 
 ## Action
 

@@ -44,6 +44,7 @@ Un secano costero cálido de salinas y una llanura aluvial convertida en vergel 
 
 **Positions**
 
+- [la cultura murciana](position_culture_cultura_murciana.md)
 - [la huerta murciana](position_huerta_murciana.md)
 - [el secano costero](position_secano_costero.md)
 - [el espanol murciano](position_language_es_es_mc.md)
