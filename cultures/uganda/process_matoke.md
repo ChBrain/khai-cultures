@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-[the many held as one](position_obuntu.md)
+[the many held as one](position_culture_obuntu.md)
 
 ## Owner
 
@@ -34,4 +34,4 @@ It is carried by the deep belief that to feed a person is to hold them, and by t
 
 ## Echo
 
-The matoke kitchen makes plain what drives [the many held as one](position_obuntu.md): that a human being is held through other human beings, that the pot is kept open for the stranger and the visitor is fed before they are asked their business. Around this table [the boda boda rider](persona_boda.md) carries his sack of matoke home through the city jams, the obuntu of the road meeting the obuntu of the hearth, no one in the country meant to eat alone.
+The matoke kitchen makes plain what drives [the many held as one](position_culture_obuntu.md): that a human being is held through other human beings, that the pot is kept open for the stranger and the visitor is fed before they are asked their business. Around this table [the boda boda rider](persona_boda.md) carries his sack of matoke home through the city jams, the obuntu of the road meeting the obuntu of the hearth, no one in the country meant to eat alone.

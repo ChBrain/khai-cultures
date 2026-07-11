@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [українськість](position_culture_ukrainskist.md)
 - [українська мова](position_language_uk.md)
 - [воля](position_volya.md)
 - [незалежність](position_nezalezhnist.md)

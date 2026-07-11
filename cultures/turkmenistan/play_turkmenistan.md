@@ -50,6 +50,7 @@ Bu gadymy toprak iki dünýäniň çatrygynda durýar: bir ýanda Garagumyň üm
 - [çöl we at](position_col_we_at.md)
 - [haly](position_haly.md)
 - [şahyryň sözi](position_sozun_guyji.md)
+- [türkmençilik](position_culture_turkmencilik.md)
 - [türkmen dili](position_language_tk.md)
 
 **Pieces**

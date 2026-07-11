@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[the many held as one](position_obuntu.md)
+[the many held as one](position_culture_obuntu.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ The young man on the motorcycle who threads the city's jams and carries Kampala 
 
 ## Action
 
-In [the Pearl renewed](plot_04_pearl_renewed.md) he is the engine of the everyday city, the one who keeps the people and the goods and the news moving when everything else is stuck, the hustle and the warmth of the country in one young man on a machine. He carries [the many held as one](position_obuntu.md) by ferrying every people's child through the same streets for the same fare, the obuntu of the road, no passenger a stranger once they are on the seat.
+In [the Pearl renewed](plot_04_pearl_renewed.md) he is the engine of the everyday city, the one who keeps the people and the goods and the news moving when everything else is stuck, the hustle and the warmth of the country in one young man on a machine. He carries [the many held as one](position_culture_obuntu.md) by ferrying every people's child through the same streets for the same fare, the obuntu of the road, no passenger a stranger once they are on the seat.
 
 ## Shadow
 

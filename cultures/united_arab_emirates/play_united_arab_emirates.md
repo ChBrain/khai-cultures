@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الهوية الإماراتية](position_culture_emirati_identity.md)
 - [الكرم والمجلس](position_hospitality.md)
 - [البحر واللؤلؤ](position_the_sea.md)
 - [الاتحاد](position_the_union.md)

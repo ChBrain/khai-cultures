@@ -50,6 +50,7 @@ Se kau tino Polenisia ne ave mai i nga motu o Toga mo Hamoa, ne nofo ki nga atol
 - [te falekaupule](position_te_falekaupule.md)
 - [te fenua e a galo](position_te_fenua_e_a_galo.md)
 - [te moana mo te fenua](position_te_moana_mo_te_fenua.md)
+- [te faka-Tuvalu](position_culture_te_faka_tuvalu.md)
 - [te gana Tuvalu](position_language_tvl.md)
 
 **Pieces**

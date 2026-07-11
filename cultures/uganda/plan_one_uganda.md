@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-The standing aim the country set itself the day the crested crane flag went up: the long, warm work of making the many one, of holding [the kingdoms](position_obwakabaka.md) and the nation in the same heart, of widening the circle of [the many held as one](position_obuntu.md) until every people sits whole at the one table, and of making the plenty of [the Pearl of Africa](position_pearl.md) reach the bread on every hill alike.
+The standing aim the country set itself the day the crested crane flag went up: the long, warm work of making the many one, of holding [the kingdoms](position_obwakabaka.md) and the nation in the same heart, of widening the circle of [the many held as one](position_culture_obuntu.md) until every people sits whole at the one table, and of making the plenty of [the Pearl of Africa](position_pearl.md) reach the bread on every hill alike.
 
 ## Owner
 

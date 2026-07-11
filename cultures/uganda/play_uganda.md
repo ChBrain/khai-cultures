@@ -48,7 +48,7 @@ A land of plenty under the sun, where the rains come twice a year and the soil g
 **Positions**
 
 - [the kingdoms](position_obwakabaka.md)
-- [the many held as one](position_obuntu.md)
+- [the many held as one](position_culture_obuntu.md)
 - [the Pearl of Africa](position_pearl.md)
 - [Ugandan English](position_language_en_ug.md)
 
@@ -73,7 +73,7 @@ Long before the borders were drawn, the great kingdoms rise on the lake and the 
 
 **[Plot 2: the protectorate](plot_02_protectorate.md)**
 
-The kingdoms are gathered under one protectorate and one new name, the railway reaches [Jinja](place_jinja.md) and the lake, and the many peoples find themselves drawn, not always by their own choosing, inside a single border that will one day have to be made into [the many held as one](position_obuntu.md).
+The kingdoms are gathered under one protectorate and one new name, the railway reaches [Jinja](place_jinja.md) and the lake, and the many peoples find themselves drawn, not always by their own choosing, inside a single border that will one day have to be made into [the many held as one](position_culture_obuntu.md).
 
 **[Plot 3: independence (1962)](plot_03_independence.md)**
 

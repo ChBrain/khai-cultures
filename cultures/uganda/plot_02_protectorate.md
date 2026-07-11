@@ -31,7 +31,7 @@ A new order is laid over the old. The kingdoms keep their thrones and much of th
 ## Stage
 
 - [the kingdoms](position_obwakabaka.md): the old nations kept on under the new order, their dignity bent but not broken.
-- [the many held as one](position_obuntu.md): the many peoples drawn, not of their own choosing, inside one border.
+- [the many held as one](position_culture_obuntu.md): the many peoples drawn, not of their own choosing, inside one border.
 - [Jinja](place_jinja.md): the lake town the railway reaches, the source of the Nile and the country's industry.
 
 ## Tension
