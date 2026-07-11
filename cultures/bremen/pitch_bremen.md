@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Bremen](play_bremen.md). Er bestimmt das bürgerliche, maritime und traditionsbewusste Leben an der Weser.
+Die Tonart, in der die Produktion [Bremen](play_bremen.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht am Beitritt zur Hanse 1358, nicht am Roland von 1404, nicht an Bremerhaven. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Der Ton der Produktion [Bremen](play_bremen.md). Er bestimmt das bürgerliche, m
 
 ## Tenor
 
-Eine hanseatische Zurückhaltung, geprägt von kaufmännischer Nüchternheit und Verlässlichkeit. Das gesprochene Wort gilt in Bremen traditionell per Handschlag als Vertrag (Ehrbarer Kaufmann). Die Kommunikation ist unaufgeregt, sachlich und höflich, ohne unnötige Schnörkel oder lautes Imponiergehabe. Man schätzt den bürgerlichen Fleiß, das understatement und pflegt eine tiefe, stille Verbundenheit mit der Seefahrtsgeschichte und den republikanischen Werten. Ein freundliches „Moin“ ist der universelle Gruß.
+Buten un binnen gilt dasselbe Wort: ein Handschlag bindet den ehrbaren Kaufmann mehr als jedes Papier. Man redet unaufgeregt und sachlich, ohne Schnörkel und ohne Imponiergehabe - Hansestolz zeigt sich hier nicht durch Lautstärke, sondern durch Verlässlichkeit auf kleinstem Raum. Ein „Moin” reicht als Gruß, zu jeder Tageszeit und für jedermann, und mehr braucht es meistens auch nicht.
 
 ## Undertow
 
-Unter der ruhigen Oberfläche liegt ein zäher Eigensinn. Die Bremer verteidigen ihre Privilegien und ihre Eigenständigkeit mit großer Entschlossenheit. Es herrscht eine feine Skepsis gegenüber zentralistischer Einmischung von außen und ein tiefes Vertrauen in die eigene, gemeinschaftliche Selbstverwaltung. Der Ton trägt die Erinnerung an jahrhundertelange Kämpfe gegen Landesherren und Bischöfe in sich.
+Unter der ruhigen Oberfläche steht der Roland Wache: ein zäher Eigensinn, der Bremens Privilegien gegen jede Einmischung von außen verteidigt hat, ob von Erzbischof oder Landesherrn. Diese Erinnerung an jahrhundertelange Kämpfe macht misstrauisch gegenüber jeder Zentrale, die glaubt, es besser zu wissen als die eigene, gemeinschaftliche Selbstverwaltung.
 
 ## Nerve
 
-Der Stolz auf die freie, nicht-monarchische Tradition der Hansestadt, die durch gemeinsamen Fleiß und weitsichtigen Handel reich und unabhängig wurde.
+Getroffen wird der Hansestolz auf eine freie, nicht-monarchische Stadt, die durch gemeinsamen Fleiß und weitsichtigen Handel reich und unabhängig wurde. Es spielt für die Genugtuung, klein zu sein und trotzdem niemandem zu gehören.
 
 ## Echo
 
-Das Kreischen der Möwen über der Weser und das dumpfe Signalhorn der Frachtschiffe im Nebel : ein Echo, das weit, stetig und meerumwoben klingt.
+Was bleibt, ist das Kreischen der Möwen über der Weser neben dem dumpfen Signalhorn der Frachtschiffe im Nebel. Der Nachgeschmack ist salzig und stetig wie die Weser selbst: klein, stolz und ganz und gar hanseatisch.

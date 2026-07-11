@@ -33,4 +33,4 @@ Getroffen wird die Freude daran, Wiege des modernen Buchdrucks und des deutschen
 
 ## Echo
 
-Was bleibt, ist das Klirren der Weingläser im Weinberg und das dumpfe Rauschen des Rheins an den Felsen. Der Nachgeschmack ist warm wie ein Sommerabend in der Weinstube: geschichtsträchtig, lebensfroh und mit einem „alla gut" besiegelt.
+Was bleibt, ist das Klirren der Weingläser im Weinberg und das dumpfe Rauschen des Rheins an den Felsen. Der Nachgeschmack ist warm wie ein Sommerabend in der Weinstube: geschichtsträchtig, lebensfroh und mit einem „alla gut” besiegelt.

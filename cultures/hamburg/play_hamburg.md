@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Hamburg, die Freie und Hansestadt Hamburg und das zweitgrößte Bundesland der Bundesrepublik Deutschland. ISO DE-HH, Sprache de.
+Hamburg, die Freie und Hansestadt an der Elbe, Tor zur Welt seit dem Barbarossa-Privileg von 1189. ISO DE-HH, Sprache de.
 
 ## Arc
 
-Die stolze Kaufmannsrepublik an der Elbe, die durch das Barbarossa-Privileg von 1189 ihre Zollfreiheit erlangte und sich bis heute als das Tor zur Welt versteht. Ein Ort des Welthandels, der in der Speicherstadt wertvolle Güter aus aller Welt einlagerte und am Kiez von St. Pauli eine unkonventionelle Gegenkultur nährte. Eine Metropole des Reichtums und des bürgerlichen Pflichtbewusstseins, in der patrizischer Kaufmannsstolz auf die raue Wirklichkeit des Hafenbetriebs trifft.
+Moin. Mehr muss man an der Elbe nicht sagen, denn seit dem Barbarossa-Privileg von 1189 spricht die Zollfreiheit für sich selbst, und diese Kaufmannsrepublik versteht sich seither als Tor zur Welt. In der Speicherstadt lagerten die Pfeffersäcke ihre Güter aus aller Welt, während am Kiez von St. Pauli eine ganz andere, unkonventionelle Gegenkultur wuchs. Patrizisches Understatement trifft hier auf die raue Wirklichkeit des Hafens, und beide grüssen sich mit demselben knappen Wort.
 
 ## Company
 
@@ -78,4 +78,4 @@ Das ehemals vor den Toren gelegene Amüsierviertel an der Reeperbahn entwickelt 
 
 ## Stakes
 
-Die Erhaltung der Attraktivität des Hafens durch kontinuierliche Infrastrukturanpassung im globalen Wettbewerb bei gleichzeitiger Bewahrung des bürgerlichen Zusammenhalts.
+Ob eine Kaufmannsrepublik ihren Hafen im globalen Wettbewerb durch ständige Erneuerung attraktiv hält, ohne den bürgerlichen Zusammenhalt zwischen Pfeffersack und Kiez zu verlieren.

@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Moldova"
-description: "Moldova staged as a culture: a land of hillside vineyards and deep cellars where identity is not a puzzle to solve but a table set for whoever knocks."
+description: "Moldova staged as a culture: vineyards and deep cellars, identity not a puzzle but a table set for whoever knocks."
 declared: "Moldova"
 language: ro
 license: CC-BY-NC-SA-4.0

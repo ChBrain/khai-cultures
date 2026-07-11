@@ -23,7 +23,7 @@ Sachsen-Anhalt, das Land der Reformation und des Bauhauses im Herzen Deutschland
 
 ## Arc
 
-Trotz war hier immer Programm, seit Luther 1517 in Wittenberg der Kirche widersprach und damit die Reformation auslöste. Aus demselben nüchternen Geist heraus entwarf das Bauhaus in Dessau eine ganze architektonische Moderne, klar wie die karge Erde, die es umgibt. 1990 nach der Wende als Land neu zusammengesetzt aus den Bezirken Halle und Magdeburg, verbindet die Region bis heute die fruchtbare Magdeburger Börde mit dem industriellen Erbe der mitteldeutschen Chemieparks in Leuna und Bitterfeld.
+Hier widersprach 1517 ein Mönch in Wittenberg der ganzen Kirche und löste die Reformation aus, und dieser Standhaftigkeit ist das Land bis heute treu geblieben. Aus demselben nüchternen Geist heraus entwarf das Bauhaus in Dessau eine ganze architektonische Moderne, klar wie die karge Erde, die es umgibt. 1990 nach der Wende als Land neu zusammengesetzt aus den Bezirken Halle und Magdeburg, verbindet die Region bis heute die fruchtbare Magdeburger Börde mit dem industriellen Erbe der mitteldeutschen Chemieparks in Leuna und Bitterfeld.
 
 ## Company
 

@@ -2,7 +2,7 @@
 khai: play
 title: "Hesse"
 description: "Hessen inszeniert: das demokratische Herz Deutschlands, geprägt von Frankfurt-Finanzen und Apfelweinkultur."
-declared: "Hesse"
+declared: "Hessen"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: Hesse
+# Play: Hessen
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Hesse, das Bundesland Hessen im Zentrum der Bundesrepublik Deutschland. ISO DE-HE, Sprache de.
+Hessen, zwischen Frankfurter Bankentürmen und dem stillen Odenwald, die Mitte Deutschlands mit Ebbelwoi im Glas. ISO DE-HE, Sprache de.
 
 ## Arc
 
-Das historische Kernland deutscher Demokratiebestrebungen, das 1848 in der Frankfurter Paulskirche die erste freiheitliche Verfassung entwarf. Eine Region der Kontraste, in der die Skyline von Frankfurt als globales Finanzzentrum glänzt, während in den gemütlichen Apfelweinkneipen und den ländlichen Mittelgebirgen die hessische Gemütlichkeit gepflegt wird. Ein Ort des Austauschs, an dem alte Wirte und junge Banker gemeinsam an langen Tischen sitzen.
+Zwischen Bankentürmen und Apfelweinkneipen liegt kaum ein Kilometer, und genau darin steckt Hessen. 1848 entwarf die Frankfurter Paulskirche die erste freiheitliche Verfassung, heute glänzt daneben die Skyline eines globalen Finanzzentrums, während in den Kneipen des Umlands der Bembel kreist und „gude" als Gruss für jeden reicht. Wirte und Banker teilen sich denselben langen Tisch, und keiner findet das bemerkenswert.
 
 ## Company
 
@@ -78,4 +78,4 @@ Mit der Gründung der Bank deutscher Länder und der späteren Ansiedlung der EZ
 
 ## Stakes
 
-Die Erhaltung der sozialen Balance und bezahlbaren Wohnraums im Rhein-Main-Gebiet angesichts des anhaltenden Zuzugs und des wirtschaftlichen Wachstums.
+Ob eine Region, die Bankenturm und Apfelweinkneipe an einem Tisch verträgt, ihre soziale Balance und ihren bezahlbaren Wohnraum hält, wenn Zuzug und Wirtschaftswachstum das Rhein-Main-Gebiet weiter verdichten.

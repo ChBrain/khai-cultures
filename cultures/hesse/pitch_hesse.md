@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Hesse](play_hesse.md). Er bestimmt das gesellige, geschäftige und bürgerliche Leben in Hessen.
+Die Tonart, in der die Produktion [Hessen](play_hesse.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Paulskirche von 1848, nicht an der Gründung Groß-Hessens 1945, nicht am Finanzplatz Frankfurt. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Der Ton der Produktion [Hesse](play_hesse.md). Er bestimmt das gesellige, gesch�
 
 ## Tenor
 
-Eine herzliche Geselligkeit, geprägt von bodenständigem Humor und kaufmännischer Weltoffenheit. Die Kommunikation ist ungezwungen, oft im hessischen Dialekt geführt, der Gemütlichkeit vermittelt. In den Apfelweinkneipen teilt man sich traditionell die Tische mit Fremden. Dieser unkomplizierte Ton kontrastiert mit der professionellen Sprache des Frankfurter Finanzplatzes, wodurch eine einzigartige Dynamik aus Tradition und Moderne entsteht.
+„Gude" reicht als Gruss, egal ob am Bembel oder am Empfangstresen im Bankenturm. Die Kommunikation ist ungezwungen, oft im hessischen Dialekt, und in den Apfelweinkneipen teilt man sich seit jeher die Tische mit Fremden - wer allein kommt, sitzt selten allein. Dieser unkomplizierte Ton kontrastiert mit der professionellen Sprache des Finanzplatzes, und genau aus diesem Kontrast zwischen Odenwald und Frankfurt entsteht die eigentliche Dynamik.
 
 ## Undertow
 
-Unter der Geselligkeit liegt ein starkes Bewusstsein für die eigene demokratische Herkunft und die wirtschaftliche Leistungskraft. Die Hessen sind stolz auf ihre verfassungsmäßigen Rechte. Es herrscht das Bedürfnis, den Wohlstand des Ballungsraums mit den ländlichen Regionen zu teilen und die Bräuche gegen die Beschleunigung des Lebens abzusichern.
+Unter der Geselligkeit liegt ein Bewusstsein für die eigene demokratische Herkunft und die wirtschaftliche Leistungskraft, auf die man stolz ist, ohne es laut zu sagen. Wer im Bankenturm arbeitet, kehrt am Abend zum Bembel zurück, und diese Rückkehr ist mehr als Gewohnheit: sie hält den Wohlstand des Ballungsraums mit dem ländlichen Umland verbunden, gegen die Beschleunigung, die sonst alles auseinanderzöge.
 
 ## Nerve
 
-Der Stolz auf die Paulskirche als Wiege der deutschen Demokratie und die Kraft Frankfurts als wirtschaftlicher Motor von europäischer Bedeutung.
+Getroffen wird der Stolz auf die Paulskirche als Wiege der deutschen Demokratie und auf Frankfurt als wirtschaftlichen Motor von europäischer Bedeutung. Es spielt für die Genugtuung, dass Hessen Geschichte gemacht hat, ohne dabei die Gemütlichkeit zu verlieren.
 
 ## Echo
 
-Das Klappern der Apfelweingläser am Holztisch und das leise Rauschen der Klimaanlagen in den Bankentürmen : ein Echo, das bodenständig, geschäftig und heimatnah klingt.
+Was bleibt, ist das Klappern der Apfelweingläser am Holztisch neben dem leisen Rauschen der Klimaanlagen in den Bankentürmen. Der Nachgeschmack ist herb und süss zugleich wie ein guter Ebbelwoi: bodenständig, geschäftig und ganz und gar hessisch.
