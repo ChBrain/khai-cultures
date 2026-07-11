@@ -22,7 +22,7 @@ Lakle dan ki staging [Moris](play_mauritius.md) zwe. Li pa sanz nanye ki arive, 
 
 ## Tenor
 
-Zwe dou, akeyan, ek plen leker. Enn pep ki tini fami ek kominote dan so lebra, kot relasion peze plis ki preside, ek kot enn etranze vinn enn frer kan li asize dan to lakaz. Dimoun respe bann gran, respe lafwa enn lot, ek konn pran kont seki nou vwazin krwar san fer brit. Isi nou prefer akomod ek tini lapnetworld dan respe, ek kan ena enn dezakor, nou rod enn fason pou viv ansam plito ki kraz. Anba sa douser la bat enn lazwa: lamizik ki monte swar dan lakour, manze ki partaze, ek sa konviksion ki nou diferans pa enn problem me enn kado.
+Zwe dou, akeyan, ek plen leker. Enn pep ki tini fami ek kominote dan so lebra, kot relasion peze plis ki preside, ek kot enn etranze vinn enn frer kan li asize dan to lakaz. Dimoun respe bann gran, respe lafwa enn lot, ek konn pran kont seki nou vwazin krwar san fer brit. Isi nou prefer akomod ek tini lemond dan respe, ek kan ena enn dezakor, nou rod enn fason pou viv ansam plito ki kraz. Anba sa douser la bat enn lazwa: lamizik ki monte swar dan lakour, manze ki partaze, ek sa konviksion ki nou diferans pa enn problem me enn kado.
 
 ## Undertow
 

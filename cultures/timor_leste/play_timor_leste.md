@@ -23,7 +23,7 @@ Timor-Leste, Timor Lorosae, rai-ki'ik iha pontu sai-loron iha arkipelagu nia roh
 
 ## Arc
 
-Rai-ki'ik iha arkipelagu nia rohan loron-sa'e, ne'ebe sente an antigu liu fali nia istoria hakerek. Antes liafuan hotu, iha lulik: uma lulik nu'udar sentru ba klan no bei-ala, no lisan ne'ebe haruka oinsa moris ho malu, ho rai, no ho ema mate sira. Loro-sa'e mai husi lalehan ho Kristaun nia kruz, no ema simu fiar foun ne'e maibe la hasai bei-ala nia matan: lulik no Igreja moris hamutuk iha uma ida. Tais nia liras hatudu identidade no honra; foho fo kafe, no tasi fo aas. Husi lenda kokorek katak rai ida-ne'e mak lafaek-bei ne'ebe sai foho no klean. Rai ne'e laran dook ba ukun-rasik-an, no liu dalan naruk no todan ne'ebe povu lori ho honra deit, mai ba restaurasaun independensia iha 2002. Iha okos hotu nakfila nerve ida: povu ho fiar, ho terus-naruk, no ho hakmatek hamutuk, ne'ebe hadi'a an fila-fali sempre.
+Rai-ki'ik iha arkipelagu nia rohan loron-sa'e, ne'ebe sente an antigu liu fali nia istoria hakerek. Antes liafuan hotu, iha lulik: uma lulik nu'udar sentru ba klan no bei-ala, no lisan ne'ebe haruka oinsa moris ho malu, ho rai, no ho ema mate sira. Loro-sa'e mai husi lalehan ho Kristaun nia kruz, no ema simu fiar foun ne'e maibe la hasai bei-ala nia matan: lulik no Igreja moris hamutuk iha uma ida. Tais nia liras hatudu identidade no honra; foho fo kafe, no tasi fo aas. Husi lenda kokorek katak rai ida-ne'e mak lafaek-bei ne'ebe sai foho no klean. Rai ne'e laran dook ba ukun-rasik-an, no liu dalan naruk no todan ne'ebe povu lori ho honra deit, mai ba restaurasaun independensia iha 2002. Iha okos hotu nakfila urat ida: povu ho fiar, ho terus-naruk, no ho hakmatek hamutuk, ne'ebe hadi'a an fila-fali sempre.
 
 ## Company
 

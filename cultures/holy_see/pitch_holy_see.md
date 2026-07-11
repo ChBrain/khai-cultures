@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Latin Key"
 declared: "vox latinitatis"
+language: la
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

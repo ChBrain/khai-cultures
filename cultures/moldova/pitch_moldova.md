@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Borderland Key"
 declared: "tonul de graniță"
+language: ro
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

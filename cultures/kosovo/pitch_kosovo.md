@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Kosovo Key"
 declared: "zëri i Kosovës"
+language: sq
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

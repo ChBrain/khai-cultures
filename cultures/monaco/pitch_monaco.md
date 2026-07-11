@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Riviera Key"
 declared: "le ton de la Riviera"
+language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

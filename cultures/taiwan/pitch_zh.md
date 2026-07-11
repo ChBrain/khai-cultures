@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-The key in which the staging of [台灣](play_taiwan.md) is played. It changes nothing of what happens - 不是原住民與墾民的層疊，不是日本時代，不是戰後的重建，也不是平和的民主化。它只決定這一切聽起來是什麼調子，以何種口吻說出。
+[台灣](play_taiwan.md)這齣戲所用的調子。它不更改劇情：不是原住民與墾民的層疊，不是日本時代，不是戰後的重建，也不是平和的民主化。它只決定這一切聽起來是什麼調子，以何種口吻說出。
 
 ## Owner
 

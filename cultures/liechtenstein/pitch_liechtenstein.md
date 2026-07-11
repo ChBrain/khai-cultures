@@ -33,4 +33,4 @@ Es wird das Bewusstsein berührt, durch Fleiß, Klugheit und die Treue zum Fürs
 
 ## Echo
 
-Was bleibt, ist die Gewissheit, dass das Fürstentum durch Zusammenhalt und wirtschaftliche Anpassung fortbestehen wird. Der Nachhall is ruhig wie das Fließen des Rheins und beständig wie die Mauern von Schloss Vaduz: sachlich, qualitätsbewusst und dem eigenen Erbe verpflichtet.
+Was bleibt, ist die Gewissheit, dass das Fürstentum durch Zusammenhalt und wirtschaftliche Anpassung fortbestehen wird. Der Nachhall ist ruhig wie das Fließen des Rheins und beständig wie die Mauern von Schloss Vaduz: sachlich, qualitätsbewusst und dem eigenen Erbe verpflichtet.
