@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Brandenburg, das Bundesland Brandenburg im Osten der Bundesrepublik Deutschland. ISO DE-BB, Sprache de.
+Brandenburg, die Mark um Berlin, Kiefernwälder, Seen und eine Stille, die selten laut wird. ISO DE-BB, Sprache de.
 
 ## Arc
 
-Ein weites, wald- und wasserreiches Flachland, das die Bundeshauptstadt Berlin umschließt. Historisch geprägt vom Aufstieg Brandenburg-Preußens und dem aufgeklärten Absolutismus Friedrichs des Großen in Potsdam. Nach dem Ende der DDR 1990 als Bundesland wiedererrichtet, durchlebt die Region eine dynamische Entwicklung zwischen der märkischen Abgeschiedenheit und dem Aufstieg zum modernen Zentrum für Zukunftsenergien und Industrie.
+Kiefern, Sand und stille Seen, soweit man sieht - mittendrin, wie ein fremder Stein, die Hauptstadt Berlin. Von hier stieg Brandenburg-Preußen auf, hier baute Friedrich der Große sein Sanssouci in Potsdam. 1990 wurde das Land neu aufgestellt, doch die eigentliche Wende kam leiser danach: im Schweigen, mit dem jeder für sich klarkommen musste, während das Land zwischen märkischer Ruhe und Solarparks seinen Weg sucht.
 
 ## Company
 
@@ -78,4 +78,4 @@ Mit dem Beitritt der DDR zur Bundesrepublik am 3. Oktober 1990 wird Brandenburg 
 
 ## Stakes
 
-Die nachhaltige Entwicklung des ländlichen Raums abseits des Speckgürtels von Berlin und die erfolgreiche Transformation zur Klimaneutralität.
+Ob ein Land, das seine Ruhe aus der Weite zieht, abseits des Berliner Speckgürtels lebendig bleibt, während es sich zugleich zum Zentrum der Klimaneutralität wandelt.

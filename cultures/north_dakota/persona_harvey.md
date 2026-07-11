@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old wheat farmer in Grand Forks. English, spoken with a prairie cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily harvest operations. It is the [North Dakota English](position_language_en_us_nd.md) of the Red River Valley, the flat, settlement-inflected prairie cadence of the Grand Forks wheat farm. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of energy technicians like Lincoln and the quiet history of [shale energy](position_shale_energy.md) [he reads only as regional oil updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant resource preservation of early farm windbreaks is being forgotten in the race for high-volume oil extraction. He belongs to [Flickertail](position_culture_flickertail.md) as the farming half of a state that also measures its worth by the drill rig.
+Harvey is thirty-eight and farms wheat outside Grand Forks. English, carried in a flat prairie cadence, is the only tongue he's ever needed - the language he [speaks, hears, and thinks in](process_speaking_mother_tongue.md), the one his combine radio and his elevator receipts both run on. It's [North Dakota English](position_language_en_us_nd.md) as the Red River Valley speaks it, settlement-flattened and unhurried, the sound of a Grand Forks farm kitchen. He gets by fine without a second language. Where he comes up short is on the other side of the state: the slower, careful talk of drilling men like Lincoln, and the whole history of [shale energy](position_shale_energy.md), reach him mostly as [whatever scrolls past on the oil report](process_reading_followed.md) on his workstation - and it needles him a little, how the old patience of a farmer planting windbreaks against the wind gets waved off now next to talk of how fast a well can be brought in. He belongs to [Flickertail](position_culture_flickertail.md) as the half of the state that still measures a year by the harvest, not the barrel.
 
 ## Action
 
-He preserves [wheat sheaf](piece_wheat_sheaf.md) relics, coordinates field safety under [the Missouri River plan](plan_missouri_river_management.md), and studies [prairie agriculture](position_prairie_agriculture.md).
+He keeps up the [wheat sheaf](piece_wheat_sheaf.md) relics from his grandfather's binder days, coordinates field safety through [the Missouri River plan](plan_missouri_river_management.md), and keeps current on [prairie agriculture](position_prairie_agriculture.md).
 
 ## Shadow
 
-His intense focus on crop yield metrics and grain market futures can make him indifferent to municipal environmental zoning problems in western oil counties.
+He can get so locked onto yield numbers and the futures board that a zoning fight in some oil county three hundred miles west just doesn't register as his to worry about.
 
 ## Tell
 
-He adjusts a telemetry sensor on a grain bin fan and says directly: "We are calibrating high-output crop drying fans; you can't run a profitable wheat farm if you're only focused on historic local preservation."
+He taps a sensor on the grain bin fan and says it plain: "Drying fans are dialed in. Can't run a wheat farm on nostalgia - the bin doesn't care how long the elevator's been standing."

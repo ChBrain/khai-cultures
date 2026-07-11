@@ -23,7 +23,7 @@ Oregon, the Beaver State in the Pacific Northwest region of the United States. I
 
 ## Arc
 
-A land of pioneers and environmental sustainability, defined by the path of the Columbia River. From the overland wagon migrations of the Oregon Trail and the historic timber boom that fueled industrial growth, to the rise of specialty coffee and local counter-culture. A culture that balances the progressive, eco-living values of the Willamette Valley with the self-reliance of its rural interior, even as it manages salmon migration pathways along the Columbia basin.
+If the wagon ruts that end in the Willamette Valley promised anything, it was rain and hard ground, not gold, and Oregon has argued about what to do with that promise ever since. The Oregon Trail's overland migrants gave way to a timber boom that built the state's early industry, and that boom gave way, within a century, to Portland's coffee houses and counter-culture. Timber money and transplant money now work the same Columbia basin, arguing over salmon runs the way earlier generations argued over land claims.
 
 ## Company
 

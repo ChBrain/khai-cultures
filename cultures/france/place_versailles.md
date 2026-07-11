@@ -22,16 +22,16 @@ Parent group: places
 
 ## Shown
 
-Le palais de l'absolutisme, immense demeure de marbre et de dorures, de galerie des glaces et de jardins traces au cordeau. Tout y est ordonne pour la mise en scene du pouvoir d'un seul, du lever du roi a l'etiquette de la cour.
+Le palais de l'absolutisme, immense demeure de marbre et de dorures, de galerie des glaces et de jardins tracés au cordeau. Tout y est ordonné pour la mise en scène du pouvoir d'un seul, du lever du roi à l'étiquette de la cour.
 
 ## Holds
 
-- [Versailles et le Roi-Soleil, vers 1680](plot_01_versailles.md): ici Louis XIV concentre le pouvoir et fonde l'Etat centralise.
+- [Versailles et le Roi-Soleil, vers 1680](plot_01_versailles.md): ici Louis XIV concentre le pouvoir et fonde l'État centralisé.
 
 ## Offers
 
-Le theatre du pouvoir d'Etat : le lieu ou la grandeur, les arts et le faste deviennent des instruments de gouvernement, et ou s'invente la centralisation que la Republique heritera.
+Le théâtre du pouvoir d'État : le lieu où la grandeur, les arts et le faste deviennent des instruments de gouvernement, et où s'invente la centralisation que la République héritera.
 
 ## Withheld
 
-La simplicite et la mesure. Versailles ne connait pas la sobriete ; il porte jusqu'a l'exces l'idee que le pouvoir doit se montrer, et tait le prix qu'une telle gloire fait payer au royaume.
+La simplicité et la mesure. Versailles ne connaît pas la sobriété ; il porte jusqu'à l'excès l'idée que le pouvoir doit se montrer, et tait le prix qu'une telle gloire fait payer au royaume.

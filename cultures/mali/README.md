@@ -24,8 +24,8 @@ Estate; a culture with no Estate is not yet a production.
   word given to the modern world through music and letters.
 - **Personas:** Sundiata Keita (founder of the Manden and the Kurukan Fuga
   charter), Mansa Musa (the empire at its height and its name carried to the
-  world), Amadou Hampate Ba (who wrote down the elders' oral memory), and Ali
-  Farka Toure (who carried the river's music to the world), plus one archetype,
+  world), Amadou Hampâté Bâ (who wrote down the elders' oral memory), and Ali
+  Farka Touré (who carried the river's music to the world), plus one archetype,
   the jeli (the griot who keeps the word in his mouth). Each is wired to the
   language engine by the language-crossing it holds.
 - **Positions:** the Manden (the given word and the Kurukan Fuga charter), the
@@ -33,10 +33,10 @@ Estate; a culture with no Estate is not yet a production.
   and the spoken word (the oral tradition, griotage, and the music that continues
   it).
 - **Places:** Timbuktu (the mud-brick city of scholars and manuscripts) and
-  Djenne (the inland delta market town and its Great Mosque of earth, remade by
+  Djenné (the inland delta market town and its Great Mosque of earth, remade by
   hand each year).
 - **Processes:** griotage (the keeping and giving of memory by voice) and the
-  sinankunya (the joking kinship, cousinage a plaisanterie, that keeps the peace
+  sinankunya (the joking kinship, cousinage à plaisanterie, that keeps the peace
   by laughter).
 - **Pieces:** the kora (the harp-lute that carries the griot's word, with the
   ngoni beside it) and the manuscripts (the Sahel's memory on paper alongside its

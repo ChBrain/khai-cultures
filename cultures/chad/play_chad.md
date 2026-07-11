@@ -67,19 +67,19 @@ stamp:
 
 ## Triggers
 
-**[Plot 1: the Green Sahara and the rock art](plot_01_green_sahara.md)**
+**[Plot 1: الصحرا الخضرا والرسم على الصخر](plot_01_green_sahara.md)**
 
 قبل ألوف السنين كانت الصحرا خضرا، ونقش الناس على صخور [الإنيدي](place_ennedi.md) أبقارهم وحيواناتهم، فبقي [المرعى الطويل](position_the_long_pasture.md) شاهداً على إن الراعي وماشيته أقدم من كل مملكة على هذه الأرض.
 
-**[Plot 2: the Sao and their terracottas](plot_02_sao_terracottas.md)**
+**[Plot 2: الساو وفخارهم](plot_02_sao_terracottas.md)**
 
 لما جفّت الصحرا نزل الناس عند [بحيرة تشاد](place_lake_chad.md)، وقامت حضارة الساو اللي خلّفت من طين البحيرة فخارها وتماثيلها، أول وجه إنساني نعرفه من قلب هذه الأرض.
 
-**[Plot 3: the empire of Kanem-Bornu](plot_03_kanem_bornu.md)**
+**[Plot 3: إمبراطورية كانم - برنو](plot_03_kanem_bornu.md)**
 
 ربط [إدريس ألوما](persona_idris_alooma.md) قلب أفريقيا بالشمال عبر طريق القوافل في الصحرا، فصار [النسيج](position_culture_alnasij.md) إمبراطورية، وجاء الإسلام مع التجارة فصار دين الشمال.
 
-**[Plot 4: the weave of peoples and the shrinking shore](plot_04_the_weave.md)**
+**[Plot 4: نسيج الأهل وتراجع الشطّ](plot_04_the_weave.md)**
 
 في الزمن الحديث صار على [بحيرة تشاد](place_lake_chad.md)، اللي شطّها يتراجع عاماً بعد عام، أن تجمع أهلاً كثيرين، فحمل [جوزيف براهيم سعيد](persona_joseph_brahim_seid.md) قلمه ليكتب من [النسيج](position_culture_alnasij.md) بلداً واحداً من ناس مختلفين.
 

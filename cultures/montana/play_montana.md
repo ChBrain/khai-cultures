@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Montana, the Treasure State in the Mountain West region of the United States. ISO US-MT, language en.
+Montana, the Treasure State in the Mountain West region of the United States. ISO US-MT, language en, distance run in hours.
 
 ## Arc
 
-A land of mineral wealth and mountain self-reliance, defined by the glaciated peaks of the Rocky Mountains. From the historic tribal defense of the Battle of the Little Bighorn and the deep-shaft engineering of the Butte copper boom, to the wilderness preservation of Glacier National Park. A culture that balances the mountain wilderness of its alpine valleys with the industrial solidarity of its mining towns, even as it plans the restoration of the Clark Fork River.
+Montana runs on two economies and one clock: hard-rock wealth pulled from the ground, and the patience the Rockies teach anyone under them. The Lakota, Cheyenne, and Arapaho held this ground at the Little Bighorn before any shaft went in. Butte then went deep for copper and came up the Richest Hill on Earth, its miners building a union still measured against today. Glacier's ice-cut peaks were fenced off soon after and named a park, and the state weighs what it owes visitors against itself ever since. What the copper took from the hill, it left in the water - the Clark Fork's still waiting on it.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of mineral wealth and mountain self-reliance, defined by the glaciated pe
 
 **[Plot 1: The Battle of the Little Bighorn 1876](plot_01_little_bighorn.md)**
 
-Lakota, Cheyenne, and Arapaho forces defeat the US Army, defending tribal sovereignty from displacement.
+Lakota, Cheyenne, and Arapaho forces stand and turn back the US Army, holding tribal sovereignty against removal.
 
 **[Plot 2: The Butte Copper Boom 1880](plot_02_copper_boom.md)**
 
-Deep-shaft copper mining in Butte establishes the "Richest Hill on Earth" and launches trade union organizing.
+Deep-shaft mining turns Butte into the "Richest Hill on Earth" and sends its miners into unions still felt today.
 
 **[Plot 3: The Glacier National Park Establishment 1910](plot_03_glacier_park.md)**
 
-Congress preserves glaciated alpine valleys, establishing a major national park and tourism center.
+Congress sets the glaciated alpine valleys aside for good, founding a national park that becomes the state's other economy.
 
 ## Stakes
 
-Whether a mining and tourism state experiencing heavy metal contamination can successfully execute river plans to restore the Clark Fork watershed.
+Whether a state that got rich on copper can finish paying what that copper cost the water, or whether the Clark Fork stays an unpaid debt.

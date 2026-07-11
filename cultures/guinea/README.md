@@ -22,9 +22,9 @@ Estate; a culture with no Estate is not yet a production.
 - **Plots (history):** the Mali empire (the Mandinka heartland and the jeli's
   epic), the Fouta Djallon state (the Fula highlands and their Islamic learning),
   the No of 1958 (the lone refusal of the French Community, treated soberly as
-  national pride), and the sound of Guinea (Bembeya Jazz National, Mory Kante, the
+  national pride), and the sound of Guinea (Bembeya Jazz National, Mory Kanté, the
   kora and balafon carried to the world).
-- **Personas:** Mory Kante, Camara Laye, Sekou Toure (handled soberly), and
+- **Personas:** Mory Kanté, Camara Laye, Sékou Touré (handled soberly), and
   Karamoko Alfa of the Fouta as the historic cast, plus one archetype, le jeli
   (the Mandinka griot, keeper of the spoken word). Each is wired to the language
   engine by the language-crossing it holds.

@@ -23,7 +23,7 @@ Indiana, the Hoosier State in the East North Central region of the United States
 
 ## Arc
 
-A land of agricultural productivity and automotive engineering, defined by the flat plains of the Midwest. From the frontier clash of the Battle of Tippecanoe and the industrial expansion of the Bedford limestone quarries, to the speed trials of the Indianapolis 500. A culture that balances the cooperative community farming of its rural counties with the high-speed mechanical innovation of its racing teams, even as it manages soil erosion and crop fertilizer runoff.
+There is a basketball hoop on every other barn and a stopwatch in every garage: Indiana runs on flat plains worked hard and machines tuned harder. The frontier was won rough at Tippecanoe, the Bedford quarries cut limestone that went into the nation's monuments, and the Indianapolis 500 set the state's pace to lap times. Rural counties keep faith with cooperative farming while the racing teams push mechanical nerve to its edge, and both sides now watch the same soil for erosion and fertilizer runoff before either harvest or race can go on.
 
 ## Company
 
@@ -78,4 +78,4 @@ Bedford quarries begin massive mechanical extraction of Salem limestone, supplyi
 
 ## Stakes
 
-Whether an agricultural state with intensive row-crop farming can successfully manage topsoil erosion to protect local watersheds from fertilizer pollution.
+Whether a state that farms its rows hard can keep the topsoil in place and the watersheds clear of fertilizer runoff before the next season's planting.

@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "Libreville, the City of Freedom"
-declared: "Libreville, la ville de la liberte"
+declared: "Libreville, la ville de la liberté"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: Libreville, la ville de la liberte
+# Plot: Libreville, la ville de la liberté
 
 ## Taxonomy
 
@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-Au milieu du dix-neuvieme siecle, sur la rive nord de l'estuaire ou les Myene ont depuis longtemps leurs villages, un poste s'installe. Et la, un jour, on pose a terre des captifs pris a bord d'un navire de traite et rendus a eux-memes, des hommes et des femmes qui n'ont plus de pays a eux.
+Au milieu du dix-neuvième siècle, sur la rive nord de l'estuaire où les Myene ont depuis longtemps leurs villages, un poste s'installe. Et là, un jour, on pose à terre des captifs pris à bord d'un navire de traite et rendus à eux-mêmes, des hommes et des femmes qui n'ont plus de pays à eux.
 
 ## Action
 
-A ces captifs libres on donne un lieu pour recommencer, et la ville qui nait prend le nom de ce qu'elle est: Libreville, la ville de la liberte. Autour de l'estuaire, missions et comptoirs s'etablissent, l'ecole et l'eglise montent a cote du marche, et la ville devient peu a peu le coeur du pays, le point ou se melent les peuples de l'interieur, les gens de la cote et le monde venu de la mer. C'est la que se forgera l'idee d'un seul Gabon, une ville nee de la liberte rendue, ou des hommes sans pays s'en sont fait un, et ou les enfants de tant de peuples apprennent a se dire d'un meme lieu.
+À ces captifs libres on donne un lieu pour recommencer, et la ville qui naît prend le nom de ce qu'elle est: Libreville, la ville de la liberté. Autour de l'estuaire, missions et comptoirs s'établissent, l'école et l'église montent à côté du marché, et la ville devient peu à peu le cœur du pays, le point où se mêlent les peuples de l'intérieur, les gens de la côte et le monde venu de la mer. C'est là que se forgera l'idée d'un seul Gabon, une ville née de la liberté rendue, où des hommes sans pays s'en sont fait un, et où les enfants de tant de peuples apprennent à se dire d'un même lieu.
 
 ## Stage
 
-- [Libreville](place_libreville.md): la ville fondee pour des captifs rendus a eux-memes, le coeur du pays a venir.
-- [le fleuve](position_le_fleuve.md): l'estuaire de l'Ogooue ou la ville prend racine.
-- [Andre Raponda Walker](persona_raponda_walker.md): l'homme de l'estuaire et de l'eglise qui recueillera la memoire des siens.
+- [Libreville](place_libreville.md): la ville fondée pour des captifs rendus à eux-mêmes, le cœur du pays à venir.
+- [le fleuve](position_le_fleuve.md): l'estuaire de l'Ogooué où la ville prend racine.
+- [André Raponda Walker](persona_raponda_walker.md): l'homme de l'estuaire et de l'église qui recueillera la mémoire des siens.
 
 ## Tension
 
-Une ville nait de la liberte rendue, et c'est une belle naissance: des hommes a qui l'on avait tout pris s'y refont un pays. Mais cette meme ville, fenetre sur l'ocean, est aussi la porte par ou entrent les façons du dehors; et le pays devra apprendre a tenir, dans sa propre capitale, le respect du vieux et la voix des ancetres face a tout ce qui vient de la mer.
+Une ville naît de la liberté rendue, et c'est une belle naissance: des hommes à qui l'on avait tout pris s'y refont un pays. Mais cette même ville, fenêtre sur l'océan, est aussi la porte par où entrent les façons du dehors; et le pays devra apprendre à tenir, dans sa propre capitale, le respect du vieux et la voix des ancêtres face à tout ce qui vient de la mer.

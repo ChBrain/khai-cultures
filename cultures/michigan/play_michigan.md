@@ -23,7 +23,7 @@ Michigan, the Great Lakes State in the East North Central region of the United S
 
 ## Arc
 
-A land of industrial innovation and rustic wilderness, defined by its position between the Upper and Lower peninsulas. From the birth of the moving assembly line that launched mass production, and the historic Flint sit-down strike that forged the modern labor union movement, to the soulful, boundary-crossing pop music of Motown. A culture that balances the gritty, engineering drive of the Motor City with the quiet, car-free heritage of its lakeshores, even as it collaborates on watershed protection for the Great Lakes.
+Every Michigander carries the map on the back of a hand: two peninsulas pointing at each other, the assembly line on the palm and the north woods past the knuckles. Henry Ford's moving assembly line in 1913 launched mass production, the Flint sit-down strike of 1936 forged the modern labor union, and Motown's crossover sound out of Detroit broke through racial lines with nothing but a good hook. The Motor City still runs on line-shift pride and the lakeshores still run on deer season and the water, and the whole state keeps watch together over the Great Lakes.
 
 ## Company
 

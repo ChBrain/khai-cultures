@@ -21,7 +21,7 @@ The pitch of [Virginia](play_virginia.md). It tunes the polite, articulate, and 
 
 ## Tenor
 
-A polite, articulate, and traditional tone. The communication is structured, courteous, and formal, combining traditional southern manners with federal policy terminology. It is a voice of authority and stewardship - prioritizing historic preservation, constitutional law, and naval/defense logistics. This structured language shapes both the colonial brick squares and the policy briefing rooms, valuing public service and local heritage.
+Virginians speak like they are minding an old family name: courteous, precise, and rarely in a hurry to say more than the occasion calls for. Traditional southern manners sit easily alongside federal policy terminology, since Tidewater formality and Beltway procedure were raised on the same premium for correct form. It is a voice of authority and stewardship, given over to historic preservation, constitutional law, and naval and defense logistics. That structured idiom holds equally in the colonial brick squares and the policy briefing rooms, where public service and local heritage are both treated as inheritances to be minded, not spent.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the courtesy lies a persistent tension between the rapidly expanding, tech
 
 ## Nerve
 
-The conviction that constitutional stewardship, public service, and structured social order are the true anchors of a stable society.
+Constitutional stewardship, public service, and a structured social order - these are what Virginia holds a stable society to rest on, generation after generation.
 
 ## Echo
 
-The tolling of a church bell in a colonial square and the hum of server farms in NoVa : an echo that is quiet, formal, and structured.
+The tolling of a church bell in a colonial square, the hum of server farms out in NoVa - both quiet, both formal, both keeping the same structured time.

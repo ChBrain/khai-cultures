@@ -23,7 +23,7 @@ Idaho, the Gem State in the Mountain West region of the United States. ISO US-ID
 
 ## Arc
 
-A land of agricultural wealth and mountain self-reliance, defined by the dry volcanic plains of the Snake River Basin. From the tragic heroism of the Nez Perce Retreat and the massive engineering of the potato irrigation canals, to the alpine resort tourism of Sun Valley. A culture that balances the wilderness stewardship of its mountain slopes with the farming grit of its southern agricultural counties, even as it plans the protection of the Snake River Aquifer.
+Dry volcanic plains turned to farmland by canal water, and mountains held close by the people who work them - that is Idaho's shape. The Nez Perce Retreat carries the tragedy of a sovereignty overrun; the potato irrigation canals carry the engineering that made a desert grow; Sun Valley carries the tourism that turned a mountain range into a resort. The state keeps its wilderness stewardship and its farming grit in the same two hands, planning now to protect the Snake River Aquifer before the water runs short.
 
 ## Company
 
@@ -78,4 +78,4 @@ Union Pacific Railroad constructs the world's first ski chairlift, establishing 
 
 ## Stakes
 
-Whether an agricultural state with intensive crop irrigation can successfully execute water plans to protect the Snake River Aquifer.
+Whether a state whose wealth was dug out of dry ground by canal water can make its aquifer protection plans hold before the wells outrun the river that feeds them.

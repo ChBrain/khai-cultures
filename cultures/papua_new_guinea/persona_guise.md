@@ -27,7 +27,7 @@ Man bilong Papua, em i kamap namba wan Gavna Jeneral bilong Papua Niugini, na em
 
 ## Action
 
-Long [independence and the Melanesian Way](plot_03_independens_na_melanesian_we.md) em i sanap olsem namba wan Gavna Jeneral na holim aut nem bilong nupela kantri long de bilong independens, na em i bihainim rot bilong [Melanesian We](position_melanesian_we.md). Long apim flag bilong ol yet, em i makim olsem dispela kantri i bosim em yet nau.
+Long [independens na Melanesian We](plot_03_independens_na_melanesian_we.md) em i sanap olsem namba wan Gavna Jeneral na holim aut nem bilong nupela kantri long de bilong independens, na em i bihainim rot bilong [Melanesian We](position_melanesian_we.md). Long apim flag bilong ol yet, em i makim olsem dispela kantri i bosim em yet nau.
 
 ## Shadow
 

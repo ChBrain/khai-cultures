@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Kentucky](play_kentucky.md). It tunes the thoughtful, informal, and narrative expression of life in the Bluegrass State.
+The pitch of [Kentucky](play_kentucky.md). It tunes the storytelling, paddock-and-holler voice of life in the Bluegrass State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Kentucky](play_kentucky.md). It tunes the thoughtful, informal, an
 
 ## Tenor
 
-A thoughtful, informal, and narrative tone. The communication is conversational, polite, and story-driven, combining horse training vocabulary with coal mining and whiskey distilling terms. It is a voice of craft and hills - prioritizing forest reclamation, cleanroom whiskey aging, and historic track preservation. This narrative language shapes both the bluegrass breeding farms and the valley union halls, valuing family heritage and labor solidarity.
+Kentucky talks in stories, the way a grandfather passes down a bloodline or a mine disaster in the same unhurried breath. Horse-training vocabulary sits easy next to coal-mining and whiskey-distilling terms, a voice of craft and hills close to forest reclamation plans, a barrel's slow char, and a track's long history. This storytelling carries through both the bluegrass breeding farms and the valley union halls, valuing family heritage and labor solidarity in the same measure.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the weal
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical breeding skill, and local community solidarity are the true anchors of a stable society.
+It plays the note Kentuckians already know: a debt kept to family, to farm, to fellow miner outlasts any loyalty merely spoken. Shared family labor, a hard-won breeding skill, and a community that stands by its own hold a Kentucky holler or a Kentucky paddock together, whichever ground you were raised on.
 
 ## Echo
 
-The thundering hooves on a race track and the clang of a metal coal shovel : an echo that is loud, dusty, and narrative.
+The thundering hooves on a race track and the clang of a coal shovel down in the seam, loud and dusty, each one telling its own long story.

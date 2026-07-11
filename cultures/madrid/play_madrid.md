@@ -23,7 +23,7 @@ Madrid, comunidad autónoma uniprovincial y capital de España. ISO ES-MD, lengu
 
 ## Arc
 
-Una meseta administrativa y cosmopolita, centro geográfico e institucional del Estado. Desde la designación imperial de la corte de Felipe II en 1561 y la insurrección popular del Dos de Mayo de 1808 contra el invasor francés, hasta la constitución de la autonomía uniprovincial de 1983. Una cultura de funcionarios ministeriales, tabernas centenarias llenas de tertulias de café y una sierra norte que suministra el agua potable de su plan ambiental.
+Nadie es forastero del todo en esta ciudad de acogida: aquí se dice que "de Madrid al cielo", y de todo el país llega gente a comprobarlo, en esta capital administrativa y cosmopolita que es centro geográfico e institucional del Estado. Desde la designación imperial de la corte de Felipe II en 1561 y la insurrección popular del Dos de Mayo de 1808 contra el invasor francés, hasta la constitución de la autonomía uniprovincial de 1983. Una cultura de funcionarios ministeriales, tabernas centenarias llenas de tertulias de café, gatos que presumen de serlo desde hace generaciones y una sierra norte que suministra el agua potable de su plan ambiental.
 
 ## Company
 

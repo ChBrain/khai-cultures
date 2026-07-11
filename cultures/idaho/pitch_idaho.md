@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Idaho](play_idaho.md). It tunes the thoughtful, polite, and mechanical expression of life in the Gem State.
+The pitch of [Idaho](play_idaho.md). It tunes the plainspoken, canal-built voice of life in the Gem State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Idaho](play_idaho.md). It tunes the thoughtful, polite, and mechan
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining potato farming vocabulary with ski lift and irrigation engineering terms. It is a voice of plains and mountains - prioritizing aquifer protection plans, cleanroom water tests, and historic canal preservation. This formal language shapes both the farming cooperatives and the ski resort boards, valuing family labor and technical competence.
+Idaho talks the way a canal foreman explains a headgate to a new hire: plain, unhurried, and exact. Potato-yard vocabulary sits next to irrigation-engineering terms and the creak of a ski lift cable, all measured against the same yardsticks - how much water moved, how much snow fell, how the harvest came in. It is a voice built for plains and mountains both, as close to an aquifer protection plan and a canal ledger as to a farming cooperative's spring meeting or a resort board's winter one. Family labor and a working hand with machinery carry equal weight here.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local agricultural boards are the true anchors of a stable society.
+It plays the plain chord of the family that works together and the neighbor who shows up to fix what needs fixing: shared labor, a working knowledge of the machinery, and a local board that answers to the farm and the ski hill alike, holding a community together season after season.
 
 ## Echo
 
-The squeak of an irrigation wheel and the hum of a ski lift cable : an echo that is loud, dry, and mechanical.
+The squeak of an irrigation wheel and the hum of a ski lift cable, dry and steady across the plain and the slope alike.

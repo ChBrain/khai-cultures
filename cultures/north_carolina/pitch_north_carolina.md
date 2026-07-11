@@ -21,7 +21,7 @@ The pitch of [North Carolina](play_north_carolina.md). It tunes the thoughtful, 
 
 ## Tenor
 
-A thoughtful, polite, and rural tone. The communication is structured, polite, and articulate, combining modern academic and scientific vocabulary with traditional southern mountain idioms. It is a voice of research and heritage - prioritizing biotechnology research, historic colonial preservation, and Appalachian craft traditions. This polite language shapes both the lab presentation rooms and the mountain porches, valuing education and local history.
+North Carolina talks like it's still deciding whether to lean lab-coat or front-porch, and usually does both in one sentence. The communication is structured, polite, and articulate, combining modern academic and scientific vocabulary with traditional southern mountain idioms. It is a voice of research and heritage - prioritizing biotechnology research, historic colonial preservation, and Appalachian craft traditions. This polite language shapes both the lab presentation rooms and the mountain porches, valuing education and local history.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the academic courtesy lies a persistent tension between the rapidly expand
 
 ## Nerve
 
-The conviction that educational attainment, scientific research, and traditional family solidarity are the true anchors of a stable society.
+It plays the note that educational attainment, scientific research, and family solidarity hold a society steady, none of the three able to carry it alone.
 
 ## Echo
 
-The pluck of an Appalachian banjo and the soft hum of lab ventilation systems : an echo that is quiet, polite, and articulate.
+The pluck of an Appalachian banjo meets the soft hum of lab ventilation systems - a sound quiet, polite, and articulate.

@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-As tragedias e os grupos da terra, gente das comunidades que, de geracao em geracao, veste as mascaras e os trajes e leva ao terreiro o tchiloli - o teatro proprio das ilhas. Conta a velha historia europeia do Marques de Mantua e da corte de Carlos Magno, mas refeita a maneira santomense, com a sua musica, a sua danca e o seu tempo, ao ar livre, durante horas, ao som de tambores e flautas.
+As tragédias e os grupos da terra, gente das comunidades que, de geração em geração, veste as máscaras e os trajes e leva ao terreiro o tchiloli - o teatro próprio das ilhas. Conta a velha história europeia do Marquês de Mantua e da corte de Carlos Magno, mas refeita à maneira santomense, com a sua música, a sua dança e o seu tempo, ao ar livre, durante horas, ao som de tambores e flautas.
 
 ## Direction
 
-Para a apropriacao: tomar uma historia trazida de fora e torna-la inteiramente da ilha, ate o drama dos cavaleiros de alem-mar dizer, por baixo, a justica e o poder vistos com os olhos do povo. E rito e e festa, memoria viva da crioulidade que pega no alheio e faz dele coisa sua, encenada pela propria comunidade que a guarda.
+Para a apropriação: tomar uma história trazida de fora e torná-la inteiramente da ilha, até o drama dos cavaleiros de além-mar dizer, por baixo, a justiça e o poder vistos com os olhos do povo. É rito e é festa, memória viva da crioulidade que pega no alheio e faz dele coisa sua, encenada pela própria comunidade que a guarda.
 
 ## Lever
 
-Move-o a forca de um povo que faz do que recebeu de fora materia propria, transmitindo de pais para filhos os papeis, os trajes e as falas sem os deixar morrer. Aguenta contra o tempo e contra o esquecimento; contra ele jogam a partida dos jovens e a falta de meios que ameacam as troupes que o sustentam.
+Move-o a força de um povo que faz do que recebeu de fora matéria própria, transmitindo de pais para filhos os papéis, os trajes e as falas sem os deixar morrer. Aguenta contra o tempo e contra o esquecimento; contra ele jogam a partida dos jovens e a falta de meios que ameaçam as troupes que o sustentam.
 
 ## Echo
 
-O tchiloli torna visivel o que move [a crioulidade](position_culture_crioulidade.md): a arte de pegar no alheio e faze-lo seu, prova de um povo novo que, ate no teatro que danca, e dono do que diz. Foi este genio de apropriacao que, em outra chave, [Caetano da Costa Alegre](persona_costa_alegre.md) levou ao verso.
+O tchiloli torna visível o que move [a crioulidade](position_culture_crioulidade.md): a arte de pegar no alheio e fazê-lo seu, prova de um povo novo que, até no teatro que dança, é dono do que diz. Foi este génio de apropriação que, em outra chave, [Caetano da Costa Alegre](persona_costa_alegre.md) levou ao verso.

@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Greenlandic Key"
 declared: "erinarsortoq"
+language: kl
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

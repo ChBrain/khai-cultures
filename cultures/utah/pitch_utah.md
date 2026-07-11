@@ -21,7 +21,7 @@ The pitch of [Utah](play_utah.md). It tunes the thoughtful, informal, and mechan
 
 ## Tenor
 
-A thoughtful, informal, and mechanical tone. The communication is conversational, polite, and practical, integrating farming vocabulary with software and mountain recreation terms. It is a voice of craft and mountains - prioritizing water conservation plans, cleanroom coding runs, and historic temple preservation. This practical language shapes both the tech offices and the county agricultural centers, valuing community cooperation and resourcefulness.
+Utahns talk the way they use water here: carefully, and ready to account for it later. Farming vocabulary sits next to software and mountain-recreation terms without much friction, since the same person may check an irrigation gate before a stand-up meeting. It is a voice of craft and canyon country, given over to water conservation plans, tech-office debugging sessions, and the upkeep of old temple stonework. That practical, share-what-you-use idiom runs equally through the Silicon Slopes offices and the county agricultural centers, where cooperation is just how the work gets done.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the friendly community lies a persistent geographic polarization between t
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and local community water boards are the true anchors of a stable society.
+Shared family labor, hard-won technical competence, and a local water board that everyone actually shows up to - these are what a stable society rests on here.
 
 ## Echo
 
-The whistle of a train at Promontory Summit and the pop of a sealing jar lid : an echo that is clear, dry, and mechanical.
+The whistle of a train at Promontory Summit, the pop of a sealing jar lid closing - a sound clear, dry, and mechanical, and unmistakably this state's own.

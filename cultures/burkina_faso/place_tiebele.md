@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-Au sud, pres du Ghana, en pays gourounsi, la cour royale de Tiebele : un ensemble de maisons de terre aux murs entierement peints, decores a la main par les femmes de motifs geometriques noirs, blancs et ocre, calebasses, damiers, serpents, signes anciens, puis polis a la pierre et enduits pour tenir contre la pluie. Chaque mur est une parole, une page d'une ecriture qui n'en est pas une, transmise de mere en fille. Une architecture vivante, modeste de matiere et somptueuse de main.
+Au sud, près du Ghana, en pays gourounsi, la cour royale de Tiebele : un ensemble de maisons de terre aux murs entièrement peints, décorés à la main par les femmes de motifs géométriques noirs, blancs et ocre, calebasses, damiers, serpents, signes anciens, puis polis à la pierre et enduits pour tenir contre la pluie. Chaque mur est une parole, une page d'une écriture qui n'en est pas une, transmise de mère en fille. Une architecture vivante, modeste de matière et somptueuse de main.
 
 ## Holds
 
 - [les royaumes mossi](plot_01_royaumes_mossi.md): chez les Gourounsi, voisins des Mossi, une autre langue de la cour et de la terre.
-- [Ouagadougou, capitale du cinema](plot_04_fespaco.md): l'art du pays que le SIAO et le monde viennent admirer, l'autre or des mains burkinabe.
+- [Ouagadougou, capitale du cinéma](plot_04_fespaco.md): l'art du pays que le SIAO et le monde viennent admirer, l'autre or des mains burkinabè.
 
 ## Offers
 
-Un lieu ou l'on voit que la richesse du pays est dans la main et la transmission : un peuple qui n'a presque rien fait de la terre et de la patience une beaute que le monde vient regarder. C'est la preuve, en murs, de ce que dit le pays : qu'on peut etre pauvre de matiere et riche d'art, et que la parole, ici, se peint quand elle ne se chante pas.
+Un lieu où l'on voit que la richesse du pays est dans la main et la transmission : un peuple qui n'a presque rien fait de la terre et de la patience une beauté que le monde vient regarder. C'est la preuve, en murs, de ce que dit le pays : qu'on peut être pauvre de matière et riche d'art, et que la parole, ici, se peint quand elle ne se chante pas.
 
 ## Withheld
 
-La permanence facile. Les murs de terre demandent chaque annee la main des femmes pour ne pas retourner a la poussiere : rien ne tient ici sans qu'on le refasse, et le savoir se perd si la fille n'apprend pas de la mere. Tiebele dit, sous sa beaute, la meme verite que tout le pays, que ce qui dure ne dure que par la main qui le reprend, et que la richesse non gardee redevient terre.
+La permanence facile. Les murs de terre demandent chaque année la main des femmes pour ne pas retourner à la poussière : rien ne tient ici sans qu'on le refasse, et le savoir se perd si la fille n'apprend pas de la mère. Tiebele dit, sous sa beauté, la même vérité que tout le pays, que ce qui dure ne dure que par la main qui le reprend, et que la richesse non gardée redevient terre.

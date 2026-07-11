@@ -30,7 +30,7 @@ That a rivet set in an assembly bay and a fish counted at a dam are both taken s
 
 ## Loses
 
-Ground where the fast, well-paid talk of the tech corridor treats the slower, season-bound work of the orchard and the fishery as a rounding error, reading the physical truth of a river or a harvest as nothing more than a data point on a dashboard; ground in the housing costs and displacement that a booming tech economy visits on the working-class neighborhoods it grew up alongside; and ground at the Hanford Site itself, where the atomic-age legacy of the Columbia River leaves a cleanup that will outlast the generation that built the reactors.
+Ground where the quick, well-paid talk of the tech corridor treats the slower, season-bound work of the orchard and the fishery as a rounding error, reading the physical truth of a river or a harvest as nothing more than a data point on a dashboard; ground in the housing costs and displacement that a booming tech economy visits on the working-class neighborhoods it grew up alongside; and ground at the Hanford Site itself, where the atomic-age legacy of the Columbia River leaves a cleanup that will outlast the generation that built the reactors.
 
 ## Drives
 

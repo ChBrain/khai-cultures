@@ -22,17 +22,17 @@ stamp:
 
 ## Cue
 
-A [Versailles](place_versailles.md), Louis XIV fait d'un pavillon de chasse le plus grand palais d'Europe. Il veut concentrer en sa personne toute la puissance d'un royaume jusque-la disperse entre les grands.
+À [Versailles](place_versailles.md), Louis XIV fait d'un pavillon de chasse le plus grand palais d'Europe. Il veut concentrer en sa personne toute la puissance d'un royaume jusque-là dispersée entre les grands.
 
 ## Action
 
-Le roi attire la noblesse a la cour, la tient par l'etiquette et le faste, et gouverne seul, entoure de ministres et d'une administration qu'il fait sienne. Il erige les arts, l'architecture et la gloire en instruments du pouvoir, et donne corps a la formule ' l'Etat, c'est moi '. Ainsi nait l'Etat centralise que portera [l'Etat](position_letat.md), un pays gouverne depuis un seul centre.
+Le roi attire la noblesse à la cour, la tient par l'étiquette et le faste, et gouverne seul, entouré de ministres et d'une administration qu'il fait sienne. Il érige les arts, l'architecture et la gloire en instruments du pouvoir, et donne corps à la formule ' l'État, c'est moi '. Ainsi naît l'État centralisé que portera [l'État](position_letat.md), un pays gouverné depuis un seul centre.
 
 ## Stage
 
-- [Versailles](place_versailles.md): le palais ou se met en scene le pouvoir absolu.
-- [l'Etat](position_letat.md): l'Etat fort et centralise que le roi institue.
+- [Versailles](place_versailles.md): le palais où se met en scène le pouvoir absolu.
+- [l'État](position_letat.md): l'État fort et centralisé que le roi institue.
 
 ## Tension
 
-Le royaume est unifie et grandi, mais d'en haut, par la volonte d'un seul. La centralisation et le faste qui font sa gloire creusent aussi les inegalites et les depenses qui, un siecle plus tard, mineront la monarchie et appelleront la Revolution.
+Le royaume est unifié et grandi, mais d'en haut, par la volonté d'un seul. La centralisation et le faste qui font sa gloire creusent aussi les inégalités et les dépenses qui, un siècle plus tard, mineront la monarchie et appelleront la Révolution.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Nebraska](play_nebraska.md). It tunes the thoughtful, polite, and mechanical expression of life in the Cornhusker State.
+The pitch of [Nebraska](play_nebraska.md). It tunes the patient, formal, close-counted expression of life in the Cornhusker State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Nebraska](play_nebraska.md). It tunes the thoughtful, polite, and 
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining cattle ranching vocabulary with tree planting and sod construction terms. It is a voice of plains and forestry - prioritizing windbreak protection plans, cleanroom water tests, and historic sod cabin preservation. This formal language shapes both the ranch cooperatives and the conservation boards, valuing family labor and technical competence.
+Nebraska talks the way the Sandhills hold water - patient, and given away only after it's proven trustworthy. Conversation runs conversational, formal, and story-driven, mixing cattle ranching vocabulary with tree planting and sod construction terms. It is a voice of plains and forestry, at home with windbreak protection plans, water-table testing, and sod cabin preservation. This formal language shapes both the ranch cooperatives and the conservation boards, valuing family labor and technical competence.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local agricultural boards are the true anchors of a stable society.
+It plays the Sandhills note: shared family labor, advanced technical competence, and respect for local agricultural boards keep a community's account straight.
 
 ## Echo
 
-The crackle of a branding stove and the rustle of cottonwood leaves in a windbreak : an echo that is loud, dry, and mechanical.
+The crackle of a branding stove meets the rustle of cottonwood leaves in a windbreak - loud, dry, and mechanical, the sound of a place that plants for grandchildren it hasn't met yet.

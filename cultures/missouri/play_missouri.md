@@ -23,7 +23,7 @@ Missouri, the Show-Me State in the West North Central region of the United State
 
 ## Arc
 
-A land of geographic crossroads and musical expression, defined by the confluence of the Mississippi and Missouri rivers. From the political division of the Missouri Compromise and the architectural engineering of the Gateway Arch, to the big-band innovations of Kansas City jazz. A culture that balances the pioneer transit heritage of its river corridors with the urban showmanship of its clubs, even as it manages floodplain wetlands and levee safety.
+Show me, Missouri answers - a state that sits where the Mississippi takes in the Missouri River and tests every claim against the current before it believes it. The Compromise drew its hard line here, the Gateway Arch rose over St. Louis in stainless steel, and Kansas City's clubs turned late nights into a recording trade. St. Louis and Kansas City keep separate tempos, the Ozarks a slower one between them, and the river corridors carrying it all now need their wetlands and levees managed, not just admired.
 
 ## Company
 
@@ -78,4 +78,4 @@ Kansas City musicians record a unique style of big-band swing jazz, establishing
 
 ## Stakes
 
-Whether a river state experiencing intense seasonal flooding can successfully manage wetland restoration to protect municipal and agricultural levees.
+Whether a river state can hold wetland restoration and levee upkeep to a show-me standard, even as seasonal flooding tests both without warning.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Saxony](play_saxony.md). Er bestimmt das geschäftige, erfinderische und kulturbewusste Leben in Sachsen.
+Die Tonart der Produktion [Sachsen](play_saxony.md) - sie ändert nichts an August dem Starken, nichts an 1989. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine geschäftige Lebhaftigkeit und ausgeprägter Erfindergeist. Die Kommunikati
 
 ## Undertow
 
-Unter der Geschäftigkeit liegt eine Skepsis gegenüber zentraler Macht. Die Erfahrung der Friedlichen Revolution von 1989 hat ein tiefes Bewusstsein für die eigene politische Stimme hinterlassen. Der Ton drückt das Bedürfnis aus, die eigene wirtschaftliche Leistung und die reiche kulturelle Identität gegen Bevormundung abzusichern.
+Unter der Geschäftigkeit liegt eine Skepsis gegenüber zentraler Macht. Die Erfahrung der Friedlichen Revolution von 1989 hat ein tiefes Bewusstsein für die eigene politische Stimme hinterlassen, und dahinter steht das Bedürfnis, die eigene wirtschaftliche Leistung und die reiche kulturelle Identität gegen jede Bevormundung abzusichern.
 
 ## Nerve
 
-Der Stolz auf den sächsischen Erfindergeist, das barocke Erbe Dresdens und den Mut der Bürger, die 1989 friedlich die Diktatur überwanden.
+Getroffen wird das leise Selbstbewusstsein des sächsischen Erfindergeists, das barocke Erbe Dresdens und der Mut der Bürger, die 1989 friedlich die Diktatur überwanden.
 
 ## Echo
 
-Das leise Klirren von feinem Porzellan in Meißen und das Raunen der Menge vor der Nikolaikirche : ein Echo, das hell, beharrlich und schöpferisch klingt.
+Was bleibt, ist das Klirren des Porzellans in Meißen und das Raunen vor der Nikolaikirche: hell, beharrlich, nu freilich schöpferisch.

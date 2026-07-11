@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Arkansas](play_arkansas.md). It tunes the thoughtful, polite, and mechanical expression of life in the Natural State.
+The pitch of [Arkansas](play_arkansas.md). It tunes the plain-spoken, thrifty, ridge-and-warehouse register of life in the Natural State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Arkansas](play_arkansas.md). It tunes the thoughtful, polite, and 
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining retail supply chain vocabulary with thermal bathing and timber milling terms. It is a voice of ridges and logistics - prioritizing river protection plans, cleanroom water quality tests, and historic bathhouse preservation. This formal language shapes both the retail cooperatives and the conservation boards, valuing family heritage and technical competence.
+Arkansas talks the way a deer-camp fire talks: plain, unhurried, nobody rushing to finish a sentence somebody else already knows the end of. That same talk carries retail supply-chain vocabulary right alongside thermal-bathing and timber-milling terms without ever sounding like two different languages. It runs on river protection plans, careful water-quality checks, and keeping the old bathhouses standing, and it shapes a retail cooperative meeting the same way it shapes a conservation board meeting - family heritage and hard-won competence both counted as currency.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local educational boards are the true anchors of a stable society.
+It plays the note Ozark thrift has always kept: that shared family labor, hard-won technical competence, and respect for the local school board hold a community up better than any one alone.
 
 ## Echo
 
-The hum of a warehouse conveyor and the bubble of a thermal spring : an echo that is clear, warm, and mechanical.
+A warehouse conveyor humming and a thermal spring bubbling, one clear, one warm, both running steady enough you could set a watch by them.

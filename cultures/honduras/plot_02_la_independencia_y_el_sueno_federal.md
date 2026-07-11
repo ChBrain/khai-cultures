@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-Despues de siglos de colonia y de plata mandada a la corona, en 1821 las provincias de Centroamerica deciden desprenderse de Espana. No lo hacen cada una por su lado, sino juntas, y al sabio catracho Jose Cecilio del Valle le toca poner en palabras el acta de aquella independencia comun.
+Después de siglos de colonia y de plata mandada a la corona, en 1821 las provincias de Centroamérica deciden desprenderse de España. No lo hacen cada una por su lado, sino juntas, y al sabio catracho José Cecilio del Valle le toca poner en palabras el acta de aquella independencia común.
 
 ## Action
 
-En 1821 Centroamerica se desprende de Espana y, poco despues, las provincias hermanas arman una sola republica federal. Jose Cecilio del Valle le da forma de letra al nacimiento de la nueva nacion, y el catracho Francisco Morazan toma el brazo de la causa: encabeza la federacion y pelea por mantenerla unida contra la division de las provincias. El sueno es grande, el de una sola patria centroamericana mas fuerte unida que partida; pero las guerras y los intereses lo deshacen, la federacion se quiebra, y Morazan termina dando la vida por ella. Queda el sueno como herida y como llamada.
+En 1821 Centroamérica se desprende de España y, poco después, las provincias hermanas arman una sola república federal. José Cecilio del Valle le da forma de letra al nacimiento de la nueva nación, y el catracho Francisco Morazán toma el brazo de la causa: encabeza la federación y pelea por mantenerla unida contra la división de las provincias. El sueño es grande, el de una sola patria centroamericana más fuerte unida que partida; pero las guerras y los intereses lo deshacen, la federación se quiebra, y Morazán termina dando la vida por ella. Queda el sueño como herida y como llamada.
 
 ## Stage
 
-- [Jose Cecilio del Valle](persona_jose_cecilio_del_valle.md): el sabio que redacta el acta de la independencia comun y piensa la patria con la pluma.
-- [Francisco Morazan](persona_morazan.md): el catracho que encabeza la federacion y da la vida por sostenerla unida.
-- [el sueno de la union](position_el_sueno_de_la_union.md): la idea de que Centroamerica nacio para ser una sola patria mayor que la frontera.
+- [José Cecilio del Valle](persona_jose_cecilio_del_valle.md): el sabio que redacta el acta de la independencia común y piensa la patria con la pluma.
+- [Francisco Morazán](persona_morazan.md): el catracho que encabeza la federación y da la vida por sostenerla unida.
+- [el sueño de la unión](position_el_sueno_de_la_union.md): la idea de que Centroamérica nació para ser una sola patria mayor que la frontera.
 
 ## Tension
 
-El pais se hace libre y suena su patria mas grande que su frontera, pero el sueno se quiebra en la division. La distancia entre lo prometido, una Centroamerica unida y fuerte, y lo vivido, unas republicas chicas y de pleito, queda abierta desde el principio; y Honduras, que a la causa le dio a sus dos hijos mayores, carga desde entonces la pregunta de si solo unida habria dejado de ser mandada desde fuera.
+El país se hace libre y sueña su patria más grande que su frontera, pero el sueño se quiebra en la división. La distancia entre lo prometido, una Centroamérica unida y fuerte, y lo vivido, unas repúblicas chicas y de pleito, queda abierta desde el principio; y Honduras, que a la causa le dio a sus dos hijos mayores, carga desde entonces la pregunta de si solo unida habría dejado de ser mandada desde fuera.

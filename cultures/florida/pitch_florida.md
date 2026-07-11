@@ -21,7 +21,7 @@ The pitch of [Florida](play_florida.md). It tunes the enthusiastic, informal, an
 
 ## Tenor
 
-An enthusiastic, informal, and relaxed tone. The communication is open, warm, and highly promotional, emphasizing leisure, outdoor recreation, and rapid growth. It is a voice of entertainment and escape - prioritizing tourism, retirement communities, and high-tech launch events. This informal language shapes both the coastal marina docks and the sales offices, celebrating the freedom to enjoy the sun.
+Florida talks like it's still selling you on no winter, because it is. The pitch stays warm and promotional, built to move a retiree into a condo before the deal cools. It's a voice of escape, at home on a marina dock and a sales office both, selling the permission to relax that drew everybody down here.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the relaxation lies a persistent sense of impermanence and economic volati
 
 ## Nerve
 
-The belief that Florida is a paradise of limitless expansion, where the constraints of colder climates do not apply and new frontiers are always within reach.
+It plays the note that this peninsula owes nobody a winter: that the cold's rules stop at the state line, and there's always another frontier - another rocket, another retirement community - worth chasing while the sun holds.
 
 ## Echo
 
-The drone of an airboat engine across the sawgrass and the roar of a rocket climbing into the blue sky : an echo that is warm, humid, and booming.
+The drone of an airboat crossing the sawgrass, the roar of a rocket splitting the blue - a sound warm, humid, and daring you to call it anything but paradise.

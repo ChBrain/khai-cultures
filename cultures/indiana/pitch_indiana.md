@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Indiana](play_indiana.md). It tunes the thoughtful, informal, and mechanical expression of life in the Hoosier State.
+The pitch of [Indiana](play_indiana.md). It tunes the plainspoken, garage-and-farmhouse voice of life in the Hoosier State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Indiana](play_indiana.md). It tunes the thoughtful, informal, and 
 
 ## Tenor
 
-A thoughtful, informal, and mechanical tone. The communication is conversational, polite, and practical, integrating farming vocabulary with high-speed racing and masonry terms. It is a voice of craft and speed - prioritizing soil conservation plans, cleanroom engine tuning, and historic limestone carving. This practical language shapes both the speedway garages and the county agricultural offices, valuing community helpfulness and mechanical precision.
+Hoosier plainness runs through it all - a garage's straight talk grafted onto a farmhouse's patience, farming vocabulary sitting easy next to racing and masonry terms. It is a voice of craft and speed, as close to a soil conservation plan and a freshly tuned engine as to limestone carved for a courthouse facade. This practical language shapes both the speedway garages and the county agricultural offices, valuing neighborliness and mechanical precision in the same breath.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the friendly community lies a persistent tension between the rapidly expan
 
 ## Nerve
 
-The conviction that shared agricultural labor, practical technical competence, and transparent local administration are the true anchors of a stable society.
+It plays the chord of the neighbor who shows up and the mechanic who gets it right the first time: shared agricultural labor, hands-on technical competence, and a local government that keeps its books open, holding a community together at whatever pace the season or the race demands.
 
 ## Echo
 
-The roar of a racing engine on the track and the scrape of a masonry chisel on limestone : an echo that is loud, dry, and mechanical.
+The roar of a racing engine down the front stretch and the scrape of a masonry chisel on limestone, loud and dry and steady as a Hoosier handshake.

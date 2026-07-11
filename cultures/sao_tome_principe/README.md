@@ -1,6 +1,6 @@
-# Sao Tome and Principe: a khai culture
+# São Tomé and Príncipe: a khai culture
 
-Sao Tome and Principe staged as a full khai play, ISO ST, language pt. Two
+São Tomé and Príncipe staged as a full khai play, ISO ST, language pt. Two
 equatorial volcanic islands in the Gulf of Guinea, peopled from afar for the
 plantation and grown into a creole nation, set out as a theatre: its history as
 the plot line, its people as the cast, the roles its languages and creole
@@ -25,24 +25,24 @@ Estate; a culture with no Estate is not yet a production.
   people, the age of cocoa, and independence (1975) - each casting the elements
   it needs, and each staging the plantation past soberly and with dignity, with
   no atrocity detail and no political side.
-- **Personas:** the poets Caetano da Costa Alegre, Francisco Jose Tenreiro, and
-  Alda Espirito Santo (who wrote the national anthem), and the musician Pedro
+- **Personas:** the poets Caetano da Costa Alegre, Francisco José Tenreiro, and
+  Alda Espírito Santo (who wrote the national anthem), and the musician Pedro
   Lima ("the people's voice" of the island) as the historic cast, plus one
-  archetype, the roca worker (o roceiro) in whose labour the wealth and the
+  archetype, the roça worker (o roceiro) in whose labour the wealth and the
   people of the islands were made. Each is wired to the language engine by the
   language-crossing it holds, between Portuguese and the island creoles (Forro,
   Angolar, Principense).
 - **Positions:** creoleness (a crioulidade, the new people born of the mixing),
-  the roca (the plantation estate that shaped the islands), and islandness (a
+  the roça (the plantation estate that shaped the islands), and islandness (a
   insularidade, the lap and the limit of being two small islands in the sea).
-- **Places:** Sao Tome (the capital and port, the head of the islands) and the
-  island of Principe (the smaller, greener sister island with its own people and
+- **Places:** São Tomé (the capital and port, the head of the islands) and the
+  island of Príncipe (the smaller, greener sister island with its own people and
   speech).
 - **Processes:** tchiloli (the islands' own theatre, a Charlemagne drama made
   wholly their own) and calulu (the great dish, the table that gathers the
   islanders).
-- **Pieces:** cocoa (the bean that made Sao Tome the "chocolate island") and the
-  Pico Cao Grande (the volcanic spire that is the face of the islands' nature).
+- **Pieces:** cocoa (the bean that made São Tomé the "chocolate island") and the
+  Pico Cão Grande (the volcanic spire that is the face of the islands' nature).
 
 ## Provenance
 

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[the nuclear wound](position_kinie_baam.md)
+[kinie baam](position_kinie_baam.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Juon ri-pepe im ri-tol eo me ear konono nan lal in kon jowan kon baam ko, im kon
 
 ## Action
 
-Ilo [dan ej wanlontak](plot_04_dan_ej_wanlontak.md) ej konono nan lal in kon [the nuclear wound](position_kinie_baam.md) im kon lometo eo ej wanlontak. Ej bok kinie eo an aelon eo nan mejan lal in, im ej kortok bwe aelon ko reddik me rejjab kommane jorraan eo rej bok eddo eo elap tata jen lometo eo ej wanlontak, im ej kakure lal in nan uwaak.
+Ilo [dan ej wanlontak](plot_04_dan_ej_wanlontak.md) ej konono nan lal in kon [kinie baam](position_kinie_baam.md) im kon lometo eo ej wanlontak. Ej bok kinie eo an aelon eo nan mejan lal in, im ej kortok bwe aelon ko reddik me rejjab kommane jorraan eo rej bok eddo eo elap tata jen lometo eo ej wanlontak, im ej kakure lal in nan uwaak.
 
 ## Shadow
 

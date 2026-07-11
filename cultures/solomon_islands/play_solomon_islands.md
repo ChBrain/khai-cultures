@@ -37,40 +37,40 @@ Wanfala neson blong planti aelan an planti tok, bat wanfala laen blong wantok ho
 
 **Places**
 
-- [Guadalcanal](place_gwadalkanal.md)
-- [Langa Langa Lagoon](place_langa_langa.md)
+- [Gwadalkanal](place_gwadalkanal.md)
+- [Langa Langa](place_langa_langa.md)
 
 **Processes**
 
-- [the panpipes](process_au.md)
-- [kastom reconciliation](process_kastom_stretem.md)
+- [au](process_au.md)
+- [kastom stretem](process_kastom_stretem.md)
 
 **Positions**
 
-- [the wantok and kastom](position_wantok_na_kastom.md)
-- [the saltwater and the bush](position_solwata_na_bus.md)
-- [the great war and the reconciliation](position_bigfala_faet_na_stretem.md)
+- [wantok na kastom](position_wantok_na_kastom.md)
+- [solwata na bus](position_solwata_na_bus.md)
+- [bigfala faet na stretem](position_bigfala_faet_na_stretem.md)
 - [wei blong Solomon Aelan](position_culture_wei_blong_solomon_aelan.md)
 - [Pijin](position_language_pis.md)
 
 **Pieces**
 
-- [shell money](piece_tafuliae.md)
-- [the war canoe](piece_tomoko.md)
+- [tafuliae](piece_tafuliae.md)
+- [tomoko](piece_tomoko.md)
 
 **Pitches**
 
-- [the Solomon Islands tone](pitch_pis.md)
+- [tok blong Solomon](pitch_pis.md)
 
 **Plans**
 
-- [one nation, many islands](plan_wanfala_neson_planti_aelan.md)
+- [wanfala neson, planti aelan](plan_wanfala_neson_planti_aelan.md)
 
 ## Triggers
 
 **[Plot 1: ol aelan blong Solomon](plot_01_ol_aelan_blong_solomon.md)**
 
-Long bifo taem ol Melanesian pipol kam stap long olketa aelan; wan Spanis man neimim ples ia bihaen long gol blong Solomon; an taem blong leba treid kam tekem awe olketa man. Long [Langa Langa Lagoon](place_langa_langa.md) ol [solwata pipol](position_solwata_na_bus.md) wakem seleni blong sel, an [man blong seleni](persona_man_blong_seleni.md) holem disfala save.
+Long bifo taem ol Melanesian pipol kam stap long olketa aelan; wan Spanis man neimim ples ia bihaen long gol blong Solomon; an taem blong leba treid kam tekem awe olketa man. Long [Langa Langa](place_langa_langa.md) ol [solwata pipol](position_solwata_na_bus.md) wakem seleni blong sel, an [man blong seleni](persona_man_blong_seleni.md) holem disfala save.
 
 **[Plot 2: Gwadalkanal](plot_02_gwadalkanal.md)**
 
@@ -82,7 +82,7 @@ Maasina Rul kamap, wanfala muvmen blong olketa pipol blong sapotem kastom; an lo
 
 **[Plot 4: taem blong stretem](plot_04_taem_blong_stretem.md)**
 
-Long 1998 go kasem 2003 hem garem [Tensions](position_bigfala_faet_na_stretem.md), taem blong trabol; an bihaen long datwan wanfala longfala wok blong [stretem](process_kastom_stretem.md) evriwan bak tugeta, wetem olketa man olsem [man blong fising](persona_man_blong_fising.md) wantem laef i kam gud bak.
+Long 1998 go kasem 2003 hem garem [bigfala faet na stretem](position_bigfala_faet_na_stretem.md), taem blong trabol; an bihaen long datwan wanfala longfala wok blong [stretem](process_kastom_stretem.md) evriwan bak tugeta, wetem olketa man olsem [man blong fising](persona_man_blong_fising.md) wantem laef i kam gud bak.
 
 ## Stakes
 

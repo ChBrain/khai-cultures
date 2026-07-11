@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Thuringia](play_thuringia.md). Er bestimmt das beschauliche, präzise und waldverbundene Leben in Thüringen.
+Die Tonart der Produktion [Thüringen](play_thuringia.md) - sie ändert nichts an Weimar, nichts an der Wartburg. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine nachdenkliche Gemütlichkeit und handwerkliche Präzision. Die Thüringer p
 
 ## Undertow
 
-Unter der Gemütlichkeit liegt eine leise Melancholie und die Sorge vor Umbrüchen der Nachwendezeit. Die Abwanderung aus den Bergregionen und der Zustand des Waldes belasten das Gemüt. Der Ton drückt das Bedürfnis aus, die kleinstädtische Geborgenheit, die reiche Kulturgeschichte und die Naturschätze des Thüringer Waldes abzusichern.
+Unter der Gemütlichkeit liegt eine leise Melancholie und die Sorge vor Umbrüchen der Nachwendezeit. Die Abwanderung aus den Bergregionen und der Zustand des Waldes belasten das Gemüt, und dahinter steht das Bedürfnis, die kleinstädtische Geborgenheit, die reiche Kulturgeschichte und die Naturschätze des Thüringer Waldes zu bewahren.
 
 ## Nerve
 
-Der Stolz auf die Weimarer Klassik als geistiges Fundament, das Erbe der Wartburg und die unübertroffene Präzision der Jenaer Optik.
+Getroffen wird der Bratwurst-Patriotismus und der Stolz auf Weimar, die Wartburg und die Präzision der Jenaer Optik.
 
 ## Echo
 
-Das Knistern des Buchenholzfeuers im Grill und das präzise Klicken einer Linsenfassung im Jenaer Labor : ein Echo, das warm, schöpferisch und hochpräzise klingt.
+Was bleibt, ist das Feuer im Grill und das Klicken der Linsenfassung im Jenaer Labor: warm, schöpferisch, hochpräzise, mit dem Gedächtnis der Wartburg im Rücken.

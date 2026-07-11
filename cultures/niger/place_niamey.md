@@ -27,7 +27,7 @@ La capitale posée sur la rive gauche du grand fleuve, là où le Niger trace sa
 ## Holds
 
 - [l'indépendance](plot_03_independance.md): la capitale du jeune pays, où s'installent ses institutions au bord du fleuve.
-- [le pays du sable et du mil](plot_04_sable_et_mil.md): la grande ville où afflue la jeunesse et où bat le coeur du Niger moderne.
+- [le pays du sable et du mil](plot_04_sable_et_mil.md): la grande ville où afflue la jeunesse et où bat le cœur du Niger moderne.
 
 ## Offers
 

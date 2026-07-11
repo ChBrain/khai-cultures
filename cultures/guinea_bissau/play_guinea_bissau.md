@@ -3,7 +3,7 @@ khai: play
 title: "Guinea-Bissau"
 description: "Guinea-Bissau staged as a culture: many peoples bound by Kriol, the sacred Bijagos, and the cashew harvest."
 declared: "Guine-Bissau"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -50,6 +50,7 @@ Un pais pikininu i hibridu, nasidu di mui povu i di un so lingua ku inventa-l. A
 - [a bissau-guineensidade](position_culture_bissau_guineensidade.md)
 - [o matriarkadu Bijago](position_matriarkadu_bijago.md)
 - [o Kriol](position_kriol.md)
+- [o Kriol da Guine-Bissau](position_language_pov.md)
 - [o português da Guiné-Bissau](position_language_pt_gw.md)
 - [a tabanca](position_tabanca.md)
 

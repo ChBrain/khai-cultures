@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[le cinema](position_le_cinema.md)
+[le cinéma](position_le_cinema.md)
 
 ## Owner
 
@@ -23,15 +23,15 @@ type: real
 
 ## Projection
 
-Le cineaste qui a fait de la camera un griot, et de Ouagadougou une vraie maison du cinema. Avec Wend Kuuni, l'enfant de Dieu, il a porte a l'ecran la parole du village, le conte mossi, la lenteur et la sagesse de la brousse, et montre que l'Afrique pouvait se filmer elle-meme, avec ses propres yeux et son propre temps. Posé, attentif, pedagogue, il a forme des generations de cineastes et tenu que l'image est une parole heritee du conteur. Le moore, langue de son enfance et de ses films, il le [parle](process_speaking_mother_tongue.md), le [pense](process_thinking_mother_tongue.md) et l'[ecrit pour l'ecran](process_writing_mother_tongue.md), faisant entendre la langue du pays la ou le cinema parle d'ordinaire celle des autres. Le [francais du metier, des ecoles et des festivals](position_language_fr_bf.md), il le [porte comme outil de travail](process_speaking_carried.md) et l'[ecrit aisement](process_writing_drafted.md) pour expliquer et transmettre. Mais ce que dit un visage en silence, ce que garde un conte qu'on ne traduit pas, il sait que l'image doit l'attraper la ou les deux langues s'arretent : son cinema vit precisement dans ce vide au bord de la parole, ce que ni le moore ni le francais ne disent et que seule la lumiere sur un visage peut tenir. Il appartient a [l'integrite](position_culture_l_integrite.md) comme le cineaste qui refuse de mendier une image et fait de sa propre camera la richesse du pays.
+Le cinéaste qui a fait de la caméra un griot, et de Ouagadougou une vraie maison du cinéma. Avec Wend Kuuni, l'enfant de Dieu, il a porté à l'écran la parole du village, le conte mossi, la lenteur et la sagesse de la brousse, et montré que l'Afrique pouvait se filmer elle-même, avec ses propres yeux et son propre temps. Posé, attentif, pédagogue, il a formé des générations de cinéastes et tenu que l'image est une parole héritée du conteur. Le moore, langue de son enfance et de ses films, il le [parle](process_speaking_mother_tongue.md), le [pense](process_thinking_mother_tongue.md) et l'[écrit pour l'écran](process_writing_mother_tongue.md), faisant entendre la langue du pays là où le cinéma parle d'ordinaire celle des autres. Le [français du métier, des écoles et des festivals](position_language_fr_bf.md), il le [porte comme outil de travail](process_speaking_carried.md) et l'[écrit aisément](process_writing_drafted.md) pour expliquer et transmettre. Mais ce que dit un visage en silence, ce que garde un conte qu'on ne traduit pas, il sait que l'image doit l'attraper là où les deux langues s'arrêtent : son cinéma vit précisément dans ce vide au bord de la parole, ce que ni le moore ni le français ne disent et que seule la lumière sur un visage peut tenir. Il appartient à [l'intégrité](position_culture_l_integrite.md) comme le cinéaste qui refuse de mendier une image et fait de sa propre caméra la richesse du pays.
 
 ## Action
 
-Dans [Ouagadougou, capitale du cinema](plot_04_fespaco.md) il porte [le cinema](position_le_cinema.md) burkinabe et africain, faisant du film une parole du pays et de la ville la maison du septieme art continental. En filmant le conte mossi avec patience, il prouve qu'un pays pauvre en or peut etre riche d'images, et que l'Afrique a le droit de se raconter elle-meme.
+Dans [Ouagadougou, capitale du cinéma](plot_04_fespaco.md) il porte [le cinéma](position_le_cinema.md) burkinabè et africain, faisant du film une parole du pays et de la ville la maison du septième art continental. En filmant le conte mossi avec patience, il prouve qu'un pays pauvre en or peut être riche d'images, et que l'Afrique a le droit de se raconter elle-même.
 
 ## Shadow
 
-Le cinema fait pour le pays peut se voir force de courir apres le gout du dehors et les moyens lointains, et le festival qui brille deux semaines laisse, le reste de l'annee, des salles vides et des films sans argent. Le conteur d'images risque de raconter le pays a un monde qui le regarde de loin plutot qu'aux siens qui ne vont plus au cinema.
+Le cinéma fait pour le pays peut se voir forcé de courir après le goût du dehors et les moyens lointains, et le festival qui brille deux semaines laisse, le reste de l'année, des salles vides et des films sans argent. Le conteur d'images risque de raconter le pays à un monde qui le regarde de loin plutôt qu'aux siens qui ne vont plus au cinéma.
 
 ## Tell
 

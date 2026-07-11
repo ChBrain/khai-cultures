@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-Sous le bras au sortir de la boulangerie, sur toutes les tables et a chaque repas du pays, le pain long et croustillant que l'on achete frais chaque jour.
+Sous le bras au sortir de la boulangerie, sur toutes les tables et à chaque repas du pays, le pain long et croustillant que l'on achète frais chaque jour.
 
 ## Load Bearing
 
-Elle incarne la France de tous les jours et le lien au boulanger du quartier. Simple et quotidienne, elle dit l'art de vivre francais a hauteur d'habitude : le bon produit, frais, partage a la table. Sans cette attention donnee au pain ordinaire, le gout francais du bien-vivre resterait un grand mot ; dans la baguette, il devient le geste de chaque jour.
+Elle incarne la France de tous les jours et le lien au boulanger du quartier. Simple et quotidienne, elle dit l'art de vivre français à hauteur d'habitude : le bon produit, frais, partagé à la table. Sans cette attention donnée au pain ordinaire, le goût français du bien-vivre resterait un grand mot ; dans la baguette, il devient le geste de chaque jour.
 
 ## Apparent
 
-Un pain long, dore et croustillant dehors, tendre dedans, fait de farine, d'eau, de sel et de levure. Rien de luxueux : c'est le pain commun, achete frais et mange dans la journee.
+Un pain long, doré et croustillant dehors, tendre dedans, fait de farine, d'eau, de sel et de levure. Rien de luxueux : c'est le pain commun, acheté frais et mangé dans la journée.
 
 ## Yearbook
 
-- Faconnee en pain long par les boulangers et devenue forme familiere du pain francais.
-- Achetee fraiche chaque jour a la boulangerie du quartier.
-- Posee sur la table a chaque repas comme le pain ordinaire et partage du pays.
+- Façonnée en pain long par les boulangers et devenue forme familière du pain français.
+- Achetée fraîche chaque jour à la boulangerie du quartier.
+- Posée sur la table à chaque repas comme le pain ordinaire et partagé du pays.

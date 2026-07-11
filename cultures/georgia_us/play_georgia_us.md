@@ -23,7 +23,7 @@ Georgia, the Peach State in the South Atlantic region of the United States. ISO 
 
 ## Arc
 
-A land of complex southern legacies and soaring ambitions, defined by its role as the cradle of the civil rights movement and a major commercial hub. From James Oglethorpe's utopian layout in Savannah and the immense expansion of the Cotton Kingdom, to the non-violent protests organized at Atlanta's pulpits. A culture that balances the courtesy of southern hospitality with the economic ambition of the New South, even as it faces structural transit and zoning challenges in its metropolitan centers.
+Red clay remembers what the skyline would rather not: Oglethorpe's Savannah squares laid out for a colony that first banned slavery, and then the Cotton Kingdom that broke that promise wide open before Atlanta's pulpits organized the movement that came to collect on it. Georgia says "bless your heart" with the same precision it uses to close a deal, hospitality and ambition drawn from the same well, even while its metro core keeps outgrowing the transit and zoning built to hold it.
 
 ## Company
 

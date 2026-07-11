@@ -15,18 +15,18 @@ Estate; a culture with no Estate is not yet a production.
 
 - **Anchor:** [play_france.md](play_france.md), the culture itself.
 - **Pitch:** [pitch_fr.md](pitch_fr.md), the Hofstede layer, written from
-  France's profile (the primacy of ideas, the strong state, grandeur, laicite
+  France's profile (the primacy of ideas, the strong state, grandeur, laïcité
   and the art de vivre) and naming no dimension.
 - **Plots (history):** Versailles and the Sun King (~1680), the Revolution of
   1789, the Dreyfus Affair, and the Liberation of Paris (1944) - each casting the
   elements it needs (the Dreyfus Affair casts a persona and a position, the
   Liberation casts a persona and a place).
-- **Personas:** Charles de Gaulle and Emile Zola as the historic cast, plus two
+- **Personas:** Charles de Gaulle and Émile Zola as the historic cast, plus two
   defining archetypes, Colette (older, the terroir and the art de vivre) and
   Yasmine (younger, the diverse urban Republic). Each is wired to the language
   engine by the language-crossing it holds.
-- **Positions:** l'Etat (the strong centralized state), la Republique (liberte,
-  egalite, fraternite and universalism), la laicite (the secular settlement).
+- **Positions:** l'État (the strong centralized state), la République (liberté,
+  égalité, fraternité and universalism), la laïcité (the secular settlement).
 - **Places:** Paris (the centralizing capital), Versailles (the palace of
   absolutism).
 - **Processes:** le repas gastronomique, la manifestation.

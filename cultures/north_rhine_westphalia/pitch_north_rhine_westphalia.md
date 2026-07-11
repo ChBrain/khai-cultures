@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [North Rhine-Westphalia](play_north_rhine_westphalia.md). Er bestimmt das gesellige, ehrliche und industriebetonte Leben in Nordrhein-Westfalen.
+Die Tonart der Produktion [Nordrhein-Westfalen](play_north_rhine_westphalia.md) - sie ändert nichts an 1850, nichts an 1946. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine ehrliche und direkte Kommunikation, getragen von rheinischer Herzlichkeit u
 
 ## Undertow
 
-Unter der Fröhlichkeit liegt die melancholische Erinnerung an den Abschied von Kohle und Stahl. Der Strukturwandel erzeugt ein Gefühl der Verunsicherung über die wirtschaftliche Zukunft. Der Ton drückt das Bedürfnis aus, den solidarischen Zusammenhalt zu bewahren und den Umbau der Region aktiv mitzubestimmen, ohne die eigene Geschichte zu verleugnen.
+Unter der Fröhlichkeit liegt die melancholische Erinnerung an den Abschied von Kohle und Stahl. Der Strukturwandel erzeugt ein Gefühl der Verunsicherung über die wirtschaftliche Zukunft, und dahinter steht der feste Wille, den solidarischen Zusammenhalt zu bewahren und den Umbau der Region aktiv mitzubestimmen, ohne die eigene Geschichte zu verleugnen.
 
 ## Nerve
 
-Der Stolz auf die ehrliche Arbeiterkultur, den Beitrag des Reviers zum Wirtschaftswunder und die Lebensfreude des Rheinlandes, die das Land vereint.
+Getroffen wird der Kumpel-Stolz auf die Arbeiterkultur, den Beitrag zum Wirtschaftswunder und die Lebensfreude, die Pott und Rhein vereint.
 
 ## Echo
 
-Das dumpfe Singen des Steigerliedes und das laute Lachen auf den Kölner Straßen am Rosenmontag : ein Echo, das solidarisch, fröhlich und zäh klingt.
+Was bleibt, ist das Steigerlied und das Lachen der Kölner Straßen am Rosenmontag: solidarisch, fröhlich, zäh.

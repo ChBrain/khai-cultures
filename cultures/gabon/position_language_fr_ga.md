@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Ce que le francais permet d'exprimer que les langues bantoues voisines ne rendent pas de la meme maniere: un genre grammatical binaire, masculin et feminin, porte par l'article et non par un systeme de classes nominales comme dans le fang ou le myene; un temps verbal riche, qui distingue le passe compose du passe simple et de l'imparfait; et un vocabulaire abstrait pret a nommer le droit, l'administration et l'ecole, la ou un parler de village doit forger le mot.
+Ce que le français permet d'exprimer que les langues bantoues voisines ne rendent pas de la même manière: un genre grammatical binaire, masculin et féminin, porté par l'article et non par un système de classes nominales comme dans le fang ou le myene; un temps verbal riche, qui distingue le passé composé du passé simple et de l'imparfait; et un vocabulaire abstrait prêt à nommer le droit, l'administration et l'école, là où un parler de village doit forger le mot.
 
 ## Orders
 
-L'accord du genre et du nombre a travers l'adjectif et l'article; le choix entre tu et vous, qui impose de mesurer la distance a chaque adresse la ou certaines langues du pays marquent plutot l'age ou le rang par d'autres moyens; et un ordre des mots assez fixe, sujet verbe complement, qui laisse peu de place a la liberte d'ordre que permettent des langues a classes nominales comme le fang.
+L'accord du genre et du nombre à travers l'adjectif et l'article; le choix entre tu et vous, qui impose de mesurer la distance à chaque adresse là où certaines langues du pays marquent plutôt l'âge ou le rang par d'autres moyens; et un ordre des mots assez fixe, sujet verbe complément, qui laisse peu de place à la liberté d'ordre que permettent des langues à classes nominales comme le fang.
 
 ## Loses
 
-Le systeme de classes nominales qui organise le fang, le myene ou le punu, ou chaque nom porte un prefixe qui accorde tout autour de lui; une part du ton qui, dans ces langues, change le sens du mot, puisque le francais ne marque pas la hauteur de la voix comme une information grammaticale; et beaucoup de mots concrets de la foret, de la riviere et de la parente que le francais emprunte ou traduit mal, faute de les avoir jamais nommes lui-meme.
+Le système de classes nominales qui organise le fang, le myene ou le punu, où chaque nom porte un préfixe qui accorde tout autour de lui; une part du ton qui, dans ces langues, change le sens du mot, puisque le français ne marque pas la hauteur de la voix comme une information grammaticale; et beaucoup de mots concrets de la forêt, de la rivière et de la parenté que le français emprunte ou traduit mal, faute de les avoir jamais nommés lui-même.
 
 ## Drives
 
-Penser et parler en francais habitue a construire la phrase autour du verbe conjugue et de son accord de genre plutot qu'autour d'un prefixe de classe. Cela pousse a peser tu et vous a chaque adresse. Et cela installe, chez qui l'apprend en second, le reflexe de traduire une pensee nee dans une langue a classes nominales vers une langue a deux genres et a ordre des mots fixe, un exercice constant de bascule entre deux logiques grammaticales.
+Penser et parler en français habitue à construire la phrase autour du verbe conjugué et de son accord de genre plutôt qu'autour d'un préfixe de classe. Cela pousse à peser tu et vous à chaque adresse. Et cela installe, chez qui l'apprend en second, le réflexe de traduire une pensée née dans une langue à classes nominales vers une langue à deux genres et à ordre des mots fixe, un exercice constant de bascule entre deux logiques grammaticales.

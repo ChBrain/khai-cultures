@@ -210,7 +210,7 @@
       "kind": "culture",
       "id": "benin",
       "title": "Benin",
-      "description": "Benin staged as a culture: berceau du Vodun et heritier d'Abomey, un pays qui se souvient debout.",
+      "description": "Benin staged as a culture: berceau du Vodun et héritier d'Abomey, un pays qui se souvient debout.",
       "iso": "BJ"
     },
     {
@@ -742,7 +742,7 @@
       "kind": "culture",
       "id": "honduras",
       "title": "Honduras",
-      "description": "Honduras puesta en escena: una nacion moldeada desde fuera que busca su soberania y su dignidad.",
+      "description": "Honduras puesta en escena: una nación moldeada desde fuera que busca su soberanía y su dignidad.",
       "iso": "HN"
     },
     {
@@ -1000,7 +1000,7 @@
     {
       "kind": "culture",
       "id": "lower_saxony",
-      "title": "Lower Saxony",
+      "title": "Niedersachsen",
       "description": "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit.",
       "iso": "DE-NI"
     },
@@ -1105,7 +1105,7 @@
     {
       "kind": "culture",
       "id": "mecklenburg_western_pomerania",
-      "title": "Mecklenburg-Western Pomerania",
+      "title": "Mecklenburg-Vorpommern",
       "description": "Mecklenburg-Vorpommern inszeniert: das Land der Seen und Ostseeküste, geprägt von Hanse-Tradition und Naturschutz.",
       "iso": "DE-MV"
     },
@@ -1155,7 +1155,7 @@
       "kind": "culture",
       "id": "moldova",
       "title": "Moldova",
-      "description": "Moldova pusă în scenă ca o cultură: o zonă de graniță cu podgorii și răscruci, definită de căutarea identității.",
+      "description": "Moldova staged as a culture: vineyards and deep cellars, identity not a puzzle but a table set for whoever knocks.",
       "iso": "MD"
     },
     {
@@ -1225,7 +1225,7 @@
       "kind": "culture",
       "id": "nauru",
       "title": "Nauru",
-      "description": "Naoero: ribanan rik, eb me eo aen me imin boe, ngo etsi eko ma dorerin.",
+      "description": "Nauru: the world's smallest republic, a phosphate fortune won and lost, and the population that twice nearly vanished.",
       "iso": "NR"
     },
     {
@@ -1302,7 +1302,7 @@
       "kind": "culture",
       "id": "nicaragua",
       "title": "Nicaragua",
-      "description": "Nicaragua, tierra de lagos y volcanes y de poetas, dos veces dividida entre el Pacifico y el Caribe.",
+      "description": "Nicaragua, tierra de lagos y volcanes y de poetas, dos veces dividida entre el Pacífico y el Caribe.",
       "iso": "NI"
     },
     {
@@ -1350,7 +1350,7 @@
     {
       "kind": "culture",
       "id": "north_rhine_westphalia",
-      "title": "North Rhine-Westphalia",
+      "title": "Nordrhein-Westfalen",
       "description": "NRW inszeniert: das einstige Kohle- und Stahlzentrum, geprägt von Kumpelmentalität, Strukturwandel und Karneval.",
       "iso": "DE-NW"
     },
@@ -1490,7 +1490,7 @@
     {
       "kind": "culture",
       "id": "rhineland_palatinate",
-      "title": "Rhineland-Palatinate",
+      "title": "Rheinland-Pfalz",
       "description": "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit.",
       "iso": "DE-RP"
     },
@@ -1568,7 +1568,7 @@
       "kind": "culture",
       "id": "sao_tome_principe",
       "title": "Sao Tome and Principe",
-      "description": "Two equatorial islands of cocoa and forest, a creole nation born of the roca.",
+      "description": "Two equatorial islands of cocoa and forest, a creole nation born of the roça.",
       "iso": "ST"
     },
     {
@@ -1581,14 +1581,14 @@
     {
       "kind": "culture",
       "id": "saxony",
-      "title": "Saxony",
+      "title": "Sachsen",
       "description": "Sachsen inszeniert: die Wiege deutscher Industrie, geprägt von Dresdner Barock, Erfindergeist und Bürgerprotest.",
       "iso": "DE-SN"
     },
     {
       "kind": "culture",
       "id": "saxony_anhalt",
-      "title": "Saxony-Anhalt",
+      "title": "Sachsen-Anhalt",
       "description": "Sachsen-Anhalt inszeniert: das Land von Luther und Bauhaus, geprägt von Chemieparks und Magdeburger Börde.",
       "iso": "DE-ST"
     },
@@ -1798,7 +1798,7 @@
     {
       "kind": "culture",
       "id": "thuringia",
-      "title": "Thuringia",
+      "title": "Thüringen",
       "description": "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe.",
       "iso": "DE-TH"
     },

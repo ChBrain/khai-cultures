@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-Le grand volcan qui fait Ngazidja, dont la masse sombre domine toute la Grande Comore et se coiffe souvent de nuages. C'est l'un des plus vastes crateres du monde, encore vivant, qui gronde de loin en loin et que les habitants regardent avec respect. Ses pentes noires et grasses portent les forets, les villages et les plantations d'ylang, de vanille et de girofle ; sa lave a fait la terre meme des iles. Du sommet, par temps clair, on voit l'ocean tout autour, et l'on comprend d'un regard que l'ile est un volcan pose sur la mer.
+Le grand volcan qui fait Ngazidja, dont la masse sombre domine toute la Grande Comore et se coiffe souvent de nuages. C'est l'un des plus vastes cratères du monde, encore vivant, qui gronde de loin en loin et que les habitants regardent avec respect. Ses pentes noires et grasses portent les forêts, les villages et les plantations d'ylang, de vanille et de girofle ; sa lave a fait la terre même des îles. Du sommet, par temps clair, on voit l'océan tout autour, et l'on comprend d'un regard que l'île est un volcan posé sur la mer.
 
 ## Holds
 
-- [les iles parfumees](plot_02_les_iles_parfumees.md): ses pentes volcaniques ou poussent l'ylang, la vanille et le girofle qui font le parfum des iles.
-- [l'Union des trois iles](plot_04_l_union.md): le repere et le coeur de Ngazidja, ile principale autour de laquelle se noue l'Union.
+- [les îles parfumées](plot_02_les_iles_parfumees.md): ses pentes volcaniques où poussent l'ylang, la vanille et le girofle qui font le parfum des îles.
+- [l'Union des trois îles](plot_04_l_union.md): le repère et le cœur de Ngazidja, île principale autour de laquelle se noue l'Union.
 
 ## Offers
 
-Une terre genereuse nee du feu : c'est la lave qui a fait le sol noir et fertile ou tout pousse, et c'est la montagne qui donne a l'ile son visage et son nom. Le Karthala offre aux iles leur assise meme, le rappel que cette terre est jeune, vivante, sortie de la mer par le feu, et que sa generosite tient a sa violence assoupie.
+Une terre généreuse née du feu : c'est la lave qui a fait le sol noir et fertile où tout pousse, et c'est la montagne qui donne à l'île son visage et son nom. Le Karthala offre aux îles leur assise même, le rappel que cette terre est jeune, vivante, sortie de la mer par le feu, et que sa générosité tient à sa violence assoupie.
 
 ## Withheld
 
-La quietude. Le Karthala ne se laisse jamais oublier : il gronde, fume, et de loin en loin rappelle aux hommes que la terre qui les nourrit peut aussi trembler. Sa beaute est celle d'une force que l'on respecte sans la maitriser, et qui enseigne aux iles la patience devant ce qui les depasse.
+La quiétude. Le Karthala ne se laisse jamais oublier : il gronde, fume, et de loin en loin rappelle aux hommes que la terre qui les nourrit peut aussi trembler. Sa beauté est celle d'une force que l'on respecte sans la maîtriser, et qui enseigne aux îles la patience devant ce qui les dépasse.

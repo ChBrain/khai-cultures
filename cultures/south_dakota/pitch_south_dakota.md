@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [South Dakota](play_south_dakota.md). It tunes the thoughtful, polite, and mechanical expression of life in the Mount Rushmore State.
+The pitch of [South Dakota](play_south_dakota.md). It tunes the plainspoken, patient, weather-tempered expression of life on both sides of the river.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [South Dakota](play_south_dakota.md). It tunes the thoughtful, poli
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining mountain carving vocabulary with gold sifting and timber harvesting terms. It is a voice of ridges and monuments - prioritizing aquifer protection plans, cleanroom spectrometer tests, and historic mine shaft preservation. This formal language shapes both the farming cooperatives and the conservation boards, valuing family labor and technical competence.
+Ask how the crop looks and you get the weather first, the yield second, and an opinion only after you've asked twice. East River talks bushels and combine hours; West River talks pairs, gates, and how far the last hailstorm ran. Both talk short, both show rather than tell, and both trust a silence over coffee to carry as much as a sentence. Up in the Hills that same competence turns mechanical - drill bits, board-feet, telemetry on a rock face. On Pine Ridge the talk carries Lakota words English never replaced, and treats a century-old treaty like it was signed last week, because to the ones holding it, it still is.
 
 ## Undertow
 
-Under the hospitality lies a persistent geographic polarization between the rapidly expanding mountain tourist towns and the resource-dependent farm lands. This resource divide breeds debates over deep-well irrigation pumping and watershed regulations, where state-led developmental projects are met with local protective instincts for traditional farm properties.
+Under the good manners runs a fault line between the Black Hills towns living off tourist season and gold-and-timber money, and the farm and ranch country living off rain that doesn't always show. Deep wells and watershed rules turn into range wars in miniature, state plans against a rancher's conviction that nobody in Pierre says how much he pumps off his own land. And under both sits an older account: the hills sold as monument and mine are the hills the Supreme Court found were taken illegally, and the Lakota Nation still won't take settlement money for land it never agreed to give up.
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local conservation and tribal boards are the true anchors of a stable society.
+It plays on the belief that a family working its own ground, a crew that knows its machinery cold, and a word kept without a lawyer hold a place together - and on the harder belief, plainest on Pine Ridge, that land taken under treaty stays owed until it's given back, not paid off.
 
 ## Echo
 
-The hiss of a pneumatic chisel and the rush of creek water over a gold pan : an echo that is loud, dry, and mechanical.
+The chisel biting granite, wind combing flat across wheat stubble, creek water sluicing over a gold pan - dry, loud, relentless, the wind running under every other sound and never letting up.

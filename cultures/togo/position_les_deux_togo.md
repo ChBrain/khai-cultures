@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'idee que le pays se tient entre deux versants qui ne s'opposent pas mais se completent: le sud humide de la cote, ou les Ewe et les Mina ont noue le commerce, la pirogue et la parole, et le nord sec des collines, ou les Kabye et les Tem ont arrache au caillou le mil et la pierre. Deux climats, deux memoires, deux maniere de batir et de cultiver, mais un seul pays, cousu en travers comme un pagne a deux pieces que la couturiere assemble en un seul drap. C'est la position qui dit que le Togo est plus large que sa carte etroite, et qu'il ne se laisse pas couper en deux.
+L'idée que le pays se tient entre deux versants qui ne s'opposent pas mais se complètent: le sud humide de la côte, où les Ewe et les Mina ont noué le commerce, la pirogue et la parole, et le nord sec des collines, où les Kabye et les Tem ont arraché au caillou le mil et la pierre. Deux climats, deux mémoires, deux manière de bâtir et de cultiver, mais un seul pays, cousu en travers comme un pagne à deux pièces que la couturière assemble en un seul drap. C'est la position qui dit que le Togo est plus large que sa carte étroite, et qu'il ne se laisse pas couper en deux.
 
 ## Orders
 
-Que l'on honore le nord et le sud d'une egale main, sans qu'un bord prenne le pas sur l'autre; que la difference de langue, de terre et de coutume soit une richesse a partager et non un mur a dresser; et que le Togolais, qu'il soit de la palmeraie ou de la savane, se reconnaisse d'abord du meme pays, frere de natte avant d'etre voisin de region.
+Que l'on honore le nord et le sud d'une égale main, sans qu'un bord prenne le pas sur l'autre; que la différence de langue, de terre et de coutume soit une richesse à partager et non un mur à dresser; et que le Togolais, qu'il soit de la palmeraie ou de la savane, se reconnaisse d'abord du même pays, frère de natte avant d'être voisin de région.
 
 ## Loses
 
-Du terrain quand l'un des deux bords se croit le vrai Togo et regarde l'autre de haut, quand on compte les postes et les routes par region au lieu de les partager, et quand la difference, au lieu de tisser le pagne, le dechire. Du terrain aussi quand le jeune du nord et le jeune du sud cessent de se marier, de se rendre visite et de taper le meme tambour, et oublient le fil qui les a toujours relies.
+Du terrain quand l'un des deux bords se croit le vrai Togo et regarde l'autre de haut, quand on compte les postes et les routes par région au lieu de les partager, et quand la différence, au lieu de tisser le pagne, le déchire. Du terrain aussi quand le jeune du nord et le jeune du sud cessent de se marier, de se rendre visite et de taper le même tambour, et oublient le fil qui les a toujours reliés.
 
 ## Drives
 
-Vit dans le commerce qui porte le pagne du sud jusqu'aux marches du nord et fait circuler d'un bord a l'autre le meme negoce, et dans l'ecriture qui prend la plume pour raconter le pays a lui-meme. Elle pousse le Togo a se tenir d'un seul tenant, du grain au sel, et a faire de son etroitesse non une faiblesse mais la preuve qu'on peut tenir beaucoup de monde sur peu de terre.
+Vit dans le commerce qui porte le pagne du sud jusqu'aux marchés du nord et fait circuler d'un bord à l'autre le même négoce, et dans l'écriture qui prend la plume pour raconter le pays à lui-même. Elle pousse le Togo à se tenir d'un seul tenant, du grain au sel, et à faire de son étroitesse non une faiblesse mais la preuve qu'on peut tenir beaucoup de monde sur peu de terre.

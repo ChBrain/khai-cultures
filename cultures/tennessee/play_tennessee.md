@@ -23,7 +23,7 @@ Tennessee, the Volunteer State in the East South Central region of the United St
 
 ## Arc
 
-A land of musical expression and river valley engineering, defined by the spine of the Appalachian Mountains. From the weekly broadcasts of the Grand Ole Opry in Nashville and the modernizing dams of the Tennessee Valley Authority, to the rock-and-roll and soul revolutions along Memphis's Beale Street. A culture that balances the commercial performance and songcraft of its cities with the independent heritage of the mountain valleys, even as it monitors the air quality of the Great Smoky Mountains.
+Three grand divisions share one flag in Tennessee, and none of them sound quite alike. Nashville's Grand Ole Opry broadcasts carried country music out from Music Row every week, while the Tennessee Valley Authority's dams remade the middle of the state around modern electricity, and down in Memphis, Beale Street set off its own rock-and-roll and soul revolution. Commercial songcraft in the cities and the older, self-reliant heritage of the mountain valleys both claim the same state, now watching the air over the Great Smoky Mountains for what its industry has cost the ridgelines.
 
 ## Company
 
@@ -78,4 +78,4 @@ Sun Studio and Stax Records release breakthrough rock-and-roll and soul tracks, 
 
 ## Stakes
 
-Whether a state defined by industrial power plants and urban highway corridors can successfully implement air quality plans to protect the forests of the Great Smoky Mountains.
+Whether a state built on industrial power plants and urban highway corridors can still make its air quality plans work in time to protect the forests of the Great Smoky Mountains.

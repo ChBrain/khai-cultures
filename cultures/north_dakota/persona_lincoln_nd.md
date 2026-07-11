@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old drilling technician in Williston. English, spoken with a prairie drawl, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his daily drilling logs. It is the [North Dakota English](position_language_en_us_nd.md) of the Williston Basin, the plain prairie drawl of the western oil patch. He speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of wheat farmers like Harvey and the digital demands of agriculture boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river reservoir preservation is treated as secondary to corporate energy exports and speedway logistics. He belongs to [Flickertail](position_culture_flickertail.md) as the energy half of a state that still measures its worth by the wheat harvest.
+Lincoln's fifty-two and works the rigs out of Williston. English carries a prairie drawl he's never thought to lose - the only language he's ever [spoken](process_speaking_mother_tongue.md), the one he logs every well in. It's [North Dakota English](position_language_en_us_nd.md) the way the Basin talks it, plain prairie drawl, oil-patch flat. No second language, no call for one out here. What passes him by is the other half of the state: Harvey's wheat-farmer patience and the ag boards worried over reservoir levels and water law [reach him mostly as background noise on the radio between well reports](process_hearing_followed.md), and if he's honest, his own crew moves faster than any of that ever will. He's [Flickertail](position_culture_flickertail.md) too, just counting the state's worth in barrels most years, where Harvey counts it in bushels.
 
 ## Action
 
-He preserves [drill bit](piece_drill_bit.md) records, coordinates field conservation under [the Missouri River plan](plan_missouri_river_management.md), and studies [prairie agriculture](position_prairie_agriculture.md).
+He logs [drill bit](piece_drill_bit.md) records, backs water monitoring under [the Missouri River plan](plan_missouri_river_management.md), and keeps half an eye on [prairie agriculture](position_prairie_agriculture.md).
 
 ## Shadow
 
-His pride in traditional mineral rights and independent property rights can make him suspicious of state-wide zoning and environmental land mandates, fearing they will restrict family property use.
+His faith in mineral rights and a landowner's own say can shade into flat distrust of any statewide zoning rule or environmental mandate - read, out here, as somebody in Bismarck deciding what his lease is for.
 
 ## Tell
 
-He looks at a historic drilling report and says thoughtfully: "The well has its own geological limits; you can't protect river water tables if you're only focused on digital speed and oil production metrics."
+He taps a well log and says it plain: "The rock only gives up what the rock gives up. You don't protect a water table by chasing digital speed - you protect it by reading the log right."

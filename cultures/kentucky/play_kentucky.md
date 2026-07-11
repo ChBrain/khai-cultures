@@ -23,7 +23,7 @@ Kentucky, the Bluegrass State in the East South Central region of the United Sta
 
 ## Arc
 
-A land of agricultural breeding and industrial extraction, defined by the limestone-rich pastures of the Bluegrass region. From the prestigious thoroughbred races of the Kentucky Derby and the legislative recognition of Bourbon whiskey, to the deep labor conflicts of the Appalachian coal fields. A culture that balances the family pride of its horse farms with the union solidarity of its mining valleys, even as it plans the ecological restoration of its strip-mined forests.
+Two kinds of ground, worked by the same hard hands: limestone pastures in the Bluegrass country and deep hollers back in the Appalachian coalfield. The Kentucky Derby carries the state's pageantry out to Churchill Downs every spring; Bourbon carries a legal claim no other place on earth can make; and the coal fields carry a labor history hard-won in the mining valleys. Family pride runs the horse farms and union solidarity runs the mining hollers, and both now answer to the same reckoning: what the strip-mined forest and the water under it still owe back, and what it takes to plant it green again.
 
 ## Company
 
@@ -78,4 +78,4 @@ Industrial mining operations expand rapidly across the Appalachian hills, shapin
 
 ## Stakes
 
-Whether a coal-producing state experiencing heavy strip-mining can successfully execute forest reclamation plans to protect regional water quality.
+Whether a state that mined its hills hard can make good on forest reclamation plans and hand its people back water they can trust.

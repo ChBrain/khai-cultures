@@ -23,7 +23,7 @@ País Vasco, comunidad autónoma y nacionalidad histórica del norte de España.
 
 ## Arc
 
-Una tierra montañosa, industrial y de profunda cohesión comunitaria, abierta al mar Cantábrico. Desde la abolición dolorosa de sus fueros tradicionales en 1876 y el auge metalúrgico e industrial del Nervión, hasta el pacto fiscal autonómico del Concierto Económico de 1981. Una cultura de cuadrillas unidas, sidrerías ruidosas e industrias pesadas que protege la singularidad de su lengua ancestral mientras normaliza su uso público.
+Hitza hitz: la palabra dada sostiene aquí más pactos que cualquier ley, en esta tierra montañosa e industrial abierta al mar Cantábrico y unida por el auzolan del trabajo compartido. Desde la abolición dolorosa de sus fueros tradicionales en 1876 y el auge metalúrgico e industrial del Nervión, hasta el pacto fiscal autonómico del Concierto Económico de 1981. Una cultura de cuadrillas unidas, sidrerías ruidosas e industrias pesadas que protege la singularidad de su lengua ancestral mientras normaliza su uso público.
 
 ## Company
 

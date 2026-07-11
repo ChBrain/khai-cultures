@@ -34,4 +34,4 @@ Em i ran long strong bilong kastom na long laik bilong ol lain long soim pasin b
 
 ## Echo
 
-Sing-sing i mekim olsem manmeri inap harim wanem i stap aninit long [the wantok and kastom](position_wantok_na_kastom.md): olsem manmeri i bilong lain bilong ol, na olsem kastom bilong tumbuna i stap as bilong sindaun bilong ol. Long dispela bikpela bung, [the big-man](persona_bikman.md) i sanap na soim strong na nem bilong ples bilong em, na ol planti lain i bung olsem wanpela.
+Sing-sing i mekim olsem manmeri inap harim wanem i stap aninit long [wantok na kastom](position_wantok_na_kastom.md): olsem manmeri i bilong lain bilong ol, na olsem kastom bilong tumbuna i stap as bilong sindaun bilong ol. Long dispela bikpela bung, [bikman](persona_bikman.md) i sanap na soim strong na nem bilong ples bilong em, na ol planti lain i bung olsem wanpela.

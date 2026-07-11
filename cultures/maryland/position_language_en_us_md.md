@@ -21,7 +21,7 @@ Parent group: positions
 
 ## Has
 
-Maryland English carries two working registers in one small state: the historically non-rhotic, tidewater drawl of the Chesapeake watermen, closest kin to the "hoi toide" brogue still heard on the bay's remote islands, and the fast, raised urban vowel of the Baltimore corridor that turns "Baltimore" toward "Bawlmer." It carries a working lexicon built around the water: crab, skipjack, and hon as an everyday term of address.
+Maryland English carries two working registers in one small state: the historically non-rhotic, tidewater drawl of the Chesapeake watermen, closest kin to the "hoi toide" brogue still heard on the bay's remote islands, and the quick, raised urban vowel of the Baltimore corridor that turns "Baltimore" toward "Bawlmer." It carries a working lexicon built around the water: crab, skipjack, and hon as an everyday term of address.
 
 ## Orders
 

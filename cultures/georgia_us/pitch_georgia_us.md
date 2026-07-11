@@ -21,7 +21,7 @@ The pitch of [Georgia](play_georgia_us.md). It tunes the welcoming, polite, and 
 
 ## Tenor
 
-A welcoming, polite, and soulful tone. The communication is conversational, warm, and highly expressive, blending traditional southern courtesy with a rhythmic, church-rooted resonance. It is a voice of assembly and progress - prioritizing civil rights advocacy, corporate commerce, and family gatherings. This expressive language shapes both the metropolitan office towers and the front porches of the interior, valuing relationship and community voice.
+Say "bless your heart" just right and it can mean three different things - everybody in the room knows which one. The talk stays warm and church-rooted even in a boardroom, courtesy doing the work a flat refusal would do elsewhere. It's a voice built for the pulpit, the corporate close, and the family table alike, carrying the same register from the interior's porches into Atlanta's towers.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent tension between the rapidly expanding, d
 
 ## Nerve
 
-The conviction that community solidarity, spiritual resilience, and commercial ambition are the true drivers of social progress and justice.
+It plays the note that a movement and a market rise from the same red clay: solidarity, spiritual staying power, and ambition pulling progress forward together.
 
 ## Echo
 
-The resonance of a choir singing in a brick church and the rustle of peach tree leaves in the breeze : an echo that is warm, rhythmic, and soulful.
+A choir's resonance inside a brick church, peach leaves rustling outside it - a sound warm, rhythmic, and unhurried, same as the state itself.

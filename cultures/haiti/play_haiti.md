@@ -33,12 +33,12 @@ Yon peyi ki pa tankou lòt yo: li pa t resevwa libète l kòm kado, li te pran l
 - [Jean-Jacques Dessalines](persona_dessalines.md)
 - [Catherine Flon](persona_catherine_flon.md)
 - [Jacques Roumain](persona_jacques_roumain.md)
-- [the peasant farmer](persona_abitan.md)
+- [abitan an](persona_abitan.md)
 
 **Places**
 
-- [Port-au-Prince](place_potoprens.md)
-- [the Citadelle](place_sitadel_laferye.md)
+- [Pòtoprens](place_potoprens.md)
+- [Sitadèl Laferyè](place_sitadel_laferye.md)
 
 **Processes**
 
@@ -47,24 +47,24 @@ Yon peyi ki pa tankou lòt yo: li pa t resevwa libète l kòm kado, li te pran l
 
 **Positions**
 
-- [the first Black republic](position_premye_repiblik_nwa.md)
-- [the Vodou-and-Kreyol soul](position_vodou_ak_kreyol.md)
+- [premye repiblik nwa a](position_premye_repiblik_nwa.md)
+- [nanm Vodou ak kreyòl la](position_vodou_ak_kreyol.md)
 - [kreyòl ayisyen](position_language_ht.md)
-- [resilience and dignity](position_rezistans_ak_fyete.md)
+- [rezistans ak fyète](position_rezistans_ak_fyete.md)
 - [kilti ayisyen an](position_culture_kilti_ayisyen.md)
 
 **Pieces**
 
-- [the Tanbou](piece_tanbou.md)
-- [Haitian Painting](piece_penti_ayisyen.md)
+- [tanbou](piece_tanbou.md)
+- [penti ayisyen](piece_penti_ayisyen.md)
 
 **Pitches**
 
-- [the Haitian tone](pitch_ht.md)
+- [ton ayisyen an](pitch_ht.md)
 
 **Plans**
 
-- [dignity and development](plan_diyite.md)
+- [diyite ak devlopman](plan_diyite.md)
 
 ## Triggers
 

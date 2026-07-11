@@ -21,16 +21,16 @@ El tono de [Aragón](play_aragon.md). Define la expresión seria, tenaz y auster
 
 ## Tenor
 
-Un tono serio, franco y austero. La comunicación es conversacional, directa y estructurada en relatos, combinando el vocabulario de la ganadería pirenaica y el pastoreo con términos del cultivo de secano e hidráulico de la llanura. Es la voz del labrador de secano y del pastor de montaña, que prioriza planes de conservación forestal, actas de juntas de regantes y estatutos de comunidades de pastos de los valles. Este lenguaje formal guía tanto a las asambleas vecinales como a los comités agrícolas locales, valorando la firmeza de la palabra dada y la sobriedad en el trato.
+Aquí se habla poco y se cumple mucho, con esa socarronería que saca la maña justo cuando parece que no queda salida. La voz del pastor de montaña y del labrador de secano no se anda con rodeos: cuenta lo esencial y deja el resto al gesto y a la palabra dada, que aquí vale más que cualquier papel firmado. Ese mismo temple guía las juntas de regantes y los comités agrícolas locales, donde la firmeza y el humor seco pesan más que la elocuencia.
 
 ## Undertow
 
-Bajo la lealtad comunitaria y la franqueza late una polarización geográfica persistente entre el valle central urbanizado e industrial de Zaragoza y los valles pirenaicos del norte y sierras del sur en proceso de despoblación. Este reparto desigual de recursos alimenta debates sobre los planes de canalización de agua y los parques eólicos, donde el desarrollo industrial metropolitano choca con el instinto protector de los municipios montañosos por sus paisajes tradicionales.
+Bajo la maña y la franqueza sopla el mismo cierzo que separa el valle industrial de Zaragoza de los valles pirenaicos del norte y las sierras del sur, que se vacían año tras año. El reparto del agua y los parques eólicos reabren la vieja disputa: el desarrollo de la capital avanza mientras los municipios de montaña defienden su paisaje y su gente como quien no piensa ceder ni un palmo.
 
 ## Nerve
 
-La convicción de que la persistencia en el esfuerzo personal, el respeto por los fueros y acuerdos locales tradicionales, y el apoyo familiar son las verdaderas anclas de una sociedad estable.
+La certeza de que la tenacidad personal, el respeto por los fueros y pactos de siempre, y el apoyo de la familia sostienen a una comunidad mucho mejor que cualquier norma dictada desde fuera.
 
 ## Echo
 
-El sonido rítmico de las castañuelas de madera de boj en la jota y el cencerro de una oveja en los pastos de altura : un eco claro, seco y austero.
+Queda el repique de las castañuelas de boj marcando la jota y el cencerro de una oveja en los pastos de altura, un eco claro, seco y austero como el propio carácter aragonés.

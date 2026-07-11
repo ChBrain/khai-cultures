@@ -29,8 +29,8 @@ Under the optimism lies a quiet anxiety about systemic fragility and rising disp
 
 ## Nerve
 
-The conviction that any social or physical limit can be overcome with enough creative disruption, venture capital, and engineering.
+It plays the note the state has bet on since the gold rush: that no limit, social or physical, survives enough creative disruption, capital, and engineering thrown at it.
 
 ## Echo
 
-The crash of Pacific surf and the soft click of keyboards in glass offices : an echo that is bright, fluid, and restless.
+Pacific surf crashing and keyboards clicking soft in glass offices, both bright, both restless, the state's two rushes still running side by side.

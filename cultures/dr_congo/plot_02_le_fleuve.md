@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-Au coeur du continent s'etend un espace immense de forets et de savanes que nulle route ne traverse d'un seul trait. Mais une eau le parcourt: le fleuve Congo, deuxieme du monde par son debit, qui decrit sa grande boucle et redescend vers l'ocean, ramifie en mille affluents.
+Au cœur du continent s'étend un espace immense de forêts et de savanes que nulle route ne traverse d'un seul trait. Mais une eau le parcourt: le fleuve Congo, deuxième du monde par son débit, qui décrit sa grande boucle et redescend vers l'océan, ramifié en mille affluents.
 
 ## Action
 
-Le fleuve devient l'epine dorsale du pays. Sur lui descendent les boats et les baleinieres, de Kisangani vers Kinshasa, charges de marchandises, de passagers et de musique; a leur bord, un marche flottant ou les mamans commercantes vendent, troquent et tiennent salon pendant des jours. La pirogue relie les villages, le port relie les regions, et la grande route d'eau coud ensemble peuples, langues et marches en un seul espace. C'est par le fleuve que le pays se fait pays, et que l'amont et l'aval, malgre la distance, restent une seule mboka.
+Le fleuve devient l'épine dorsale du pays. Sur lui descendent les boats et les baleinières, de Kisangani vers Kinshasa, chargés de marchandises, de passagers et de musique; à leur bord, un marché flottant où les mamans commerçantes vendent, troquent et tiennent salon pendant des jours. La pirogue relie les villages, le port relie les régions, et la grande route d'eau coud ensemble peuples, langues et marchés en un seul espace. C'est par le fleuve que le pays se fait pays, et que l'amont et l'aval, malgré la distance, restent une seule mboka.
 
 ## Stage
 
-- [le fleuve](position_le_fleuve.md): l'idee que le pays tient d'abord par son fleuve, qui relie plus qu'il ne separe.
-- [le fleuve Congo](place_le_fleuve.md): la grande route d'eau elle-meme, ses boats et son marche flottant.
-- [Kinshasa](place_kinshasa.md): le grand port en aval ou le fleuve aboutit et ou le pays se rassemble.
+- [le fleuve](position_le_fleuve.md): l'idée que le pays tient d'abord par son fleuve, qui relie plus qu'il ne sépare.
+- [le fleuve Congo](place_le_fleuve.md): la grande route d'eau elle-même, ses boats et son marché flottant.
+- [Kinshasa](place_kinshasa.md): le grand port en aval où le fleuve aboutit et où le pays se rassemble.
 
 ## Tension
 
-Dans un pays grand comme un sous-continent, la distance pourrait tout eloigner. Le fleuve repond a cette immensite: il ne la nie pas, il la traverse, et il fait de l'eau le fil qui unit ce que la carte separe. La grandeur du pays et son unite tiennent au meme courant, et tout depend de savoir le garder vivant comme lien et non comme frontiere.
+Dans un pays grand comme un sous-continent, la distance pourrait tout éloigner. Le fleuve répond à cette immensité: il ne la nie pas, il la traverse, et il fait de l'eau le fil qui unit ce que la carte sépare. La grandeur du pays et son unité tiennent au même courant, et tout dépend de savoir le garder vivant comme lien et non comme frontière.

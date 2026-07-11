@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Sao Tomean Portuguese"
-declared: "o portugues santomense"
+declared: "o português santomense"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: o portugues santomense
+# Position: o português santomense
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-O portugues guarda um modo que quase nenhuma outra lingua tem, o futuro do conjuntivo, que marca aquilo que ainda vai acontecer e so conta se outra coisa acontecer primeiro ("quando eu for," "se ele vier"), e guarda a mesoclise, que enfia o pronome dentro do proprio verbo do futuro ("falar-lhe-ei"), unindo numa so palavra o verbo e quem recebe a acao. Guarda tambem as vogais nasais que se ouvem e se sentem no nariz tanto quanto na boca, um som que o forro da roca nao usa da mesma maneira.
+O português guarda um modo que quase nenhuma outra língua tem, o futuro do conjuntivo, que marca aquilo que ainda vai acontecer e só conta se outra coisa acontecer primeiro ("quando eu for," "se ele vier"), e guarda a mesóclise, que enfia o pronome dentro do próprio verbo do futuro ("falar-lhe-ei"), unindo numa só palavra o verbo e quem recebe a ação. Guarda também as vogais nasais que se ouvem e se sentem no nariz tanto quanto na boca, um som que o forro da roça não usa da mesma maneira.
 
 ## Orders
 
-Obriga a escolher entre o futuro do conjuntivo e o futuro do indicativo consoante o que se afirma e certo ou apenas condicional a outra coisa, uma distincao que a lingua nao deixa por dizer. Obriga tambem a concordancia de genero e numero entre artigo, substantivo e adjetivo em cada frase, e ordena a escolha entre o verbo conjugado por inteiro, com uma desinencia propria para cada pessoa, e a forma mais simples que o forro usa sem conjugar.
+Obriga a escolher entre o futuro do conjuntivo e o futuro do indicativo consoante o que se afirma é certo ou apenas condicional a outra coisa, uma distinção que a língua não deixa por dizer. Obriga também a concordância de género e número entre artigo, substantivo e adjetivo em cada frase, e ordena a escolha entre o verbo conjugado por inteiro, com uma desinência própria para cada pessoa, e a forma mais simples que o forro usa sem conjugar.
 
 ## Loses
 
-A conjugacao inteira do verbo, uma forma por cada pessoa e tempo, nao existe da mesma maneira no forro que corre por baixo dele, que marca tempo e modo com uma palavra solta colocada antes do verbo; e o que o portugues faz com uma so desinencia, o forro faz com um marcador que a escrita oficial nunca registou como gramatica propria. Perde tambem, na fala corrida do quintal, a mesoclise e o futuro do conjuntivo, reduzidos a formas mais simples quando a lingua do papel cede lugar a lingua da voz.
+A conjugação inteira do verbo, uma forma por cada pessoa e tempo, não existe da mesma maneira no forro que corre por baixo dele, que marca tempo e modo com uma palavra solta colocada antes do verbo; e o que o português faz com uma só desinência, o forro faz com um marcador que a escrita oficial nunca registou como gramática própria. Perde também, na fala corrida do quintal, a mesóclise e o futuro do conjuntivo, reduzidos a formas mais simples quando a língua do papel cede lugar à língua da voz.
 
 ## Drives
 
-Ensina quem o fala a separar sempre o que e certo do que so vale se outra coisa acontecer primeiro, marcando essa diferenca no proprio verbo e nao so no sentido da frase. Habitua o ouvido as vogais nasais e a concordancia de genero em cada palavra da frase, e obriga quem cresce entre o portugues e o forro a guardar dois sistemas de marcar o tempo na mesma cabeca, um pela desinencia do verbo e outro por uma palavra solta antes dele.
+Ensina quem o fala a separar sempre o que é certo do que só vale se outra coisa acontecer primeiro, marcando essa diferença no próprio verbo e não só no sentido da frase. Habitua o ouvido às vogais nasais e a concordância de género em cada palavra da frase, e obriga quem cresce entre o português e o forro a guardar dois sistemas de marcar o tempo na mesma cabeça, um pela desinência do verbo e outro por uma palavra solta antes dele.

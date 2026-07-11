@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "the nation of poets"
-declared: "a nacao dos poetas"
+declared: "a nação dos poetas"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: a nacao dos poetas
+# Position: a nação dos poetas
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A conviccao de que Mocambique se disse a si mesma primeiro pela palavra, e que a sua nacao nasceu tanto do verso como de qualquer outra coisa. Geracao apos geracao de escritores pegou numa lingua que veio de fora e dobrou-a ate ela caber na terra, metendo-lhe dentro o ronga, o changana e o sena, os tambores e os provérbios, os nomes da sua gente. Aqui o poeta nao e enfeite: e quem da rosto ao pais, quem ensina a terra a reconhecer-se. A palavra e o lugar onde os muitos povos se ouvem como um so.
+A convicção de que Moçambique se disse a si mesma primeiro pela palavra, e que a sua nação nasceu tanto do verso como de qualquer outra coisa. Geração após geração de escritores pegou numa língua que veio de fora e dobrou-a até ela caber na terra, metendo-lhe dentro o ronga, o changana e o sena, os tambores e os provérbios, os nomes da sua gente. Aqui o poeta não é enfeite: é quem dá rosto ao país, quem ensina a terra a reconhecer-se. A palavra é o lugar onde os muitos povos se ouvem como um só.
 
 ## Orders
 
-Que a terra se conhece e se honra pela palavra, e que a lingua emprestada se pode fazer inteiramente nossa quando se enche das linguas de casa; que o escritor carrega a memoria e a consciencia do pais; e que dizer Mocambique em beleza e ja um modo de o construir, pondo no verso a dignidade que a vida nem sempre da.
+Que a terra se conhece e se honra pela palavra, e que a língua emprestada se pode fazer inteiramente nossa quando se enche das línguas de casa; que o escritor carrega a memória e a consciência do país; e que dizer Moçambique em beleza é já um modo de o construir, pondo no verso a dignidade que a vida nem sempre dá.
 
 ## Loses
 
-Terreno quando o povo se reconhece melhor na lingua de fora do que nas suas, e o ronga, o makhuwa e o sena ficam do lado de fora do livro; e terreno quando a palavra se faz so enfeite ou so queixa, e deixa de ensinar a terra a olhar-se de frente, trocando a verdade do verso pelo aplauso de longe.
+Terreno quando o povo se reconhece melhor na língua de fora do que nas suas, e o ronga, o makhuwa e o sena ficam do lado de fora do livro; e terreno quando a palavra se faz só enfeite ou só queixa, e deixa de ensinar a terra a olhar-se de frente, trocando a verdade do verso pelo aplauso de longe.
 
 ## Drives
 
-Vive no poeta que pos o nome da terra dentro do portugues, e no romancista que reinventou a lingua a partir do chão. Move Mocambique a dizer-se em beleza e a confiar que a palavra vem primeiro, fazendo do poema e do romance o espelho onde a nacao se reconhece.
+Vive no poeta que pôs o nome da terra dentro do português, e no romancista que reinventou a língua a partir do chão. Move Moçambique a dizer-se em beleza e a confiar que a palavra vem primeiro, fazendo do poema e do romance o espelho onde a nação se reconhece.

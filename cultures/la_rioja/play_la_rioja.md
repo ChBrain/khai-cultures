@@ -23,7 +23,7 @@ La Rioja, comunidad autónoma uniprovincial y región histórica del norte de Es
 
 ## Arc
 
-Una fértil vega fluvial rodeada de colinas arcillosas de viñedos y cunas monásticas de escritura castellana. Desde la redacción de las Glosas Emilianenses en el siglo X en Suso que marcan los primeros balbuceos escritos de la lengua castellana y la creación del Consejo Regulador de Rioja en 1925, hasta los planes de protección de los sotos del río Ebro. Una cultura de bodegueros, toneleros y hortelanas de conservas que regula sus acuíferos fluviales y protege sus bosques de ribera mediante planes ecológicos.
+Aquí el calendario lo marca la vendimia y el vino se habla como palabra mayor, entre la vega fértil del Ebro y las colinas arcillosas de viñedo que fueron cuna de la escritura castellana. Desde la redacción de las Glosas Emilianenses en el siglo X en Suso que marcan los primeros balbuceos escritos de la lengua castellana y la creación del Consejo Regulador de Rioja en 1925, hasta los planes de protección de los sotos del río Ebro. Una cultura de bodegueros, toneleros y hortelanas de conservas que regula sus acuíferos fluviales y protege sus bosques de ribera mediante planes ecológicos.
 
 ## Company
 

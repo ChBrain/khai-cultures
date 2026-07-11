@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-La capitale posee sur la rive de l'Oubangui, que les siens appellent avec tendresse Bangui la Coquette, pour ses manguiers, ses flamboyants et la douceur de ses bords de fleuve. De l'autre cote de l'eau commence un autre pays; ici se tiennent le grand marche, le port aux pirogues, les quartiers vivants ou montent la musique et la friture du soir, et le kilometre cinq qui ne dort jamais. La ville ou se croisent tous les peuples du pays et toutes les langues, liees par le sango.
+La capitale posée sur la rive de l'Oubangui, que les siens appellent avec tendresse Bangui la Coquette, pour ses manguiers, ses flamboyants et la douceur de ses bords de fleuve. De l'autre côté de l'eau commence un autre pays; ici se tiennent le grand marché, le port aux pirogues, les quartiers vivants où montent la musique et la friture du soir, et le kilomètre cinq qui ne dort jamais. La ville où se croisent tous les peuples du pays et toutes les langues, liées par le sango.
 
 ## Holds
 
-- [le carrefour de l'Oubangui](plot_02_le_carrefour.md): la ville du fleuve ou se nouent les echanges et d'ou monte la langue commune.
-- [Boganda et le reve d'une nation](plot_03_boganda.md): la capitale d'ou s'eleve le reve d'une nation et ou se grave la devise.
+- [le carrefour de l'Oubangui](plot_02_le_carrefour.md): la ville du fleuve où se nouent les échanges et d'où monte la langue commune.
+- [Boganda et le rêve d'une nation](plot_03_boganda.md): la capitale d'où s'élève le rêve d'une nation et où se grave la devise.
 
 ## Offers
 
-Un lieu ou le pays se rassemble et se reconnait: le marche ou tout s'echange, le fleuve qui nourrit et relie, les bars ou la musique tient jusqu'au matin, et les rues ou un Gbaya, un Banda, un Sara se parlent en sango sans y penser. Une ville chaleureuse et chantante, ou la nation se donne un visage commun.
+Un lieu où le pays se rassemble et se reconnaît: le marché où tout s'échange, le fleuve qui nourrit et relie, les bars où la musique tient jusqu'au matin, et les rues où un Gbaya, un Banda, un Sara se parlent en sango sans y penser. Une ville chaleureuse et chantante, où la nation se donne un visage commun.
 
 ## Withheld
 
-La facilite. Bangui la Coquette porte la beaute de ses bords de fleuve et la durete d'un pays enclave, ou la route est longue et la vie chere; elle rappelle que la richesse de la terre ne reste pas toujours dans la main de celui qui peine, et que la coquetterie du nom recouvre l'effort quotidien des siens.
+La facilité. Bangui la Coquette porte la beauté de ses bords de fleuve et la dureté d'un pays enclavé, où la route est longue et la vie chère; elle rappelle que la richesse de la terre ne reste pas toujours dans la main de celui qui peine, et que la coquetterie du nom recouvre l'effort quotidien des siens.

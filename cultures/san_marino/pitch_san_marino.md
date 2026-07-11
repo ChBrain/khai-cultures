@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Titano Key"
 declared: "il tono del Titano"
+language: it
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -21,7 +22,7 @@ Il tono della produzione [San Marino](play_san_marino.md). Regola l'accoglienza,
 
 ## Tenor
 
-Una cordialità rustica e un fiero senso di eguaglianza. I rapporti sul Titano non conoscono sottomissione feudale ; si esprimono con la franchezza di una comunità di liberi cittadini che sich considerano tutti pari. È un tono schietto, legato alle tradizioni locali e alle assemblee pubbliche, dove ogni voce ha il diritto di essere ascoltata. L'accoglienza verso il forestiero è generosa, ma improntata a una ferma dignità che non tollera condiscendenza.
+Una cordialità rustica e un fiero senso di eguaglianza. I rapporti sul Titano non conoscono sottomissione feudale; si esprimono con la franchezza di una comunità di liberi cittadini che si considerano tutti pari. È un tono schietto, legato alle tradizioni locali e alle assemblee pubbliche, dove ogni voce ha il diritto di essere ascoltata. L'accoglienza verso il forestiero è generosa, ma improntata a una ferma dignità che non tollera condiscendenza.
 
 ## Undertow
 
@@ -33,4 +34,4 @@ La consapevolezza di essere gli eredi di una libertà ininterrotta, fondata dal 
 
 ## Echo
 
-Il rintocco solenne delle campane di Palazzo Pubblico e il sibilo dei dardi durante il palio : un'eco di libertà antica, comunitaria e tenace.
+Il rintocco solenne delle campane di Palazzo Pubblico e il sibilo dei dardi durante il palio: un'eco di libertà antica, comunitaria e tenace.

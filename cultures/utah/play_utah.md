@@ -23,7 +23,7 @@ Utah, the Beehive State in the Mountain West region of the United States. ISO US
 
 ## Arc
 
-A land of pioneer history and technological innovation, defined by the mountains and deserts of the Great Basin. From the community organizing of the Mormon Pioneer Arrival and the industrial connection of the transcontinental railroad, to the national protection of Zion Canyon. A culture that balances the communal work ethics of its agricultural valleys with the high-tech startups of its Silicon Slopes, even as it plans the protection of the Great Salt Lake.
+Utah keeps a covenant with an arid basin: pioneers organized like the beehive on its flag, and everyone since has been asked to work the same trade in two forms. The community organizing of the Mormon Pioneer Arrival and the industrial connection of the transcontinental railroad, then the national protection of Zion Canyon, mark out the terms plainly. Now the state carries the communal work ethic of its agricultural valleys forward into the high-tech startups of its Silicon Slopes, even as it plans the protection of the Great Salt Lake.
 
 ## Company
 
@@ -78,4 +78,4 @@ Congress establishes Zion National Park, securing federal protection for the sce
 
 ## Stakes
 
-Whether a growing state experiencing rapid suburban development can successfully manage water inflows to protect the Great Salt Lake.
+Whether a fast-suburbanizing state can still manage its water inflows so the Great Salt Lake does not shrink away on its watch.

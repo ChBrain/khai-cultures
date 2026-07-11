@@ -15,15 +15,15 @@ stamp:
 
 ## Estate
 
-[khai-cultures](https://github.com/ChBrain/khai-cultures): la maison qui porte cette production et en repond.
+[khai-cultures](https://github.com/ChBrain/khai-cultures): la maison qui porte cette production et en répond.
 
 ## Name
 
-Djibouti, un petit pays pose a la corne de l'Afrique, la ou la mer Rouge se resserre et verse dans le golfe d'Aden, entre l'Ethiopie, l'Erythree et la Somalie, avec la capitale Djibouti-ville assise sur le golfe de Tadjoura. ISO DJ. Le francais et l'arabe pour langues officielles, le somali et l'afar pour langues du coeur et de la maison. Une terre de sel, de lave et de vent, ou la chaleur ecrase et ou deux peuples se sont assis cote a cote autour du meme the.
+Djibouti, un petit pays posé à la corne de l'Afrique, là où la mer Rouge se resserre et verse dans le golfe d'Aden, entre l'Éthiopie, l'Érythrée et la Somalie, avec la capitale Djibouti-ville assise sur le golfe de Tadjoura. ISO DJ. Le français et l'arabe pour langues officielles, le somali et l'afar pour langues du cœur et de la maison. Une terre de sel, de lave et de vent, où la chaleur écrase et où deux peuples se sont assis côte à côte autour du même thé.
 
 ## Arc
 
-Une terre que les anciens ont longtemps traversee plus qu'habitee: caravanes de sel montant vers les hauts plateaux, boutres arabes glissant d'une rive a l'autre, l'islam venu tot par la mer et l'arabe avec lui. Ici se sont rencontres les deux peuples qui font le pays, les Issas du rameau somali et les Afars, nomades pasteurs des memes solitudes, parlant des langues cousines et tenant les memes troupeaux sous le meme ciel de feu. La position a fait le destin: au seuil de la mer Rouge, la ou passe le commerce du monde, on a creuse un grand port et tire une voie ferree vers l'interieur, et ce qui n'etait qu'un mouillage est devenu une ville cosmopolite et un carrefour. Sous la dignite des deux peuples et la patience des nomades court un seul nerf: que ce petit pays, pauvre en pluie et riche en position, tient sa grandeur non de sa taille mais de son seuil, et que sa paix tient a ce que les deux peuples restent assis a egalite autour de la meme natte, dans l'ombre de l'apres-midi, le brin de khat entre les doigts et le verre de the qui passe de main en main.
+Une terre que les anciens ont longtemps traversée plus qu'habitée: caravanes de sel montant vers les hauts plateaux, boutres arabes glissant d'une rive à l'autre, l'islam venu tôt par la mer et l'arabe avec lui. Ici se sont rencontrés les deux peuples qui font le pays, les Issas du rameau somali et les Afars, nomades pasteurs des mêmes solitudes, parlant des langues cousines et tenant les mêmes troupeaux sous le même ciel de feu. La position a fait le destin: au seuil de la mer Rouge, là où passe le commerce du monde, on a creusé un grand port et tiré une voie ferrée vers l'intérieur, et ce qui n'était qu'un mouillage est devenu une ville cosmopolite et un carrefour. Sous la dignité des deux peuples et la patience des nomades court un seul nerf: que ce petit pays, pauvre en pluie et riche en position, tient sa grandeur non de sa taille mais de son seuil, et que sa paix tient à ce que les deux peuples restent assis à égalité autour de la même natte, dans l'ombre de l'après-midi, le brin de khat entre les doigts et le verre de thé qui passe de main en main.
 
 ## Company
 
@@ -43,7 +43,7 @@ Une terre que les anciens ont longtemps traversee plus qu'habitee: caravanes de 
 **Processes**
 
 - [le brouter](process_brouter.md)
-- [le the](process_the.md)
+- [le thé](process_the.md)
 
 **Positions**
 
@@ -51,7 +51,7 @@ Une terre que les anciens ont longtemps traversee plus qu'habitee: caravanes de 
 - [la rencontre des deux peuples](position_deux_peuples.md)
 - [le carrefour](position_carrefour.md)
 - [le nomadisme pastoral](position_nomadisme.md)
-- [le francais de Djibouti](position_language_fr_dj.md)
+- [le français de Djibouti](position_language_fr_dj.md)
 
 **Pieces**
 
@@ -70,20 +70,20 @@ Une terre que les anciens ont longtemps traversee plus qu'habitee: caravanes de 
 
 **[Plot 1: la mer ouverte et l'islam](plot_01_mer_ouverte.md)**
 
-Bien avant les frontieres, les boutres et les caravanes font de cette cote un seuil entre l'Arabie et l'Afrique; l'islam arrive tot par la mer et l'arabe avec lui, et [le carrefour](position_carrefour.md) s'inscrit deja dans la pierre des escales et le sel des pistes.
+Bien avant les frontières, les boutres et les caravanes font de cette côte un seuil entre l'Arabie et l'Afrique; l'islam arrive tôt par la mer et l'arabe avec lui, et [le carrefour](position_carrefour.md) s'inscrit déjà dans la pierre des escales et le sel des pistes.
 
 **[Plot 2: les deux peuples et les sultanats](plot_02_deux_peuples.md)**
 
-Sur la meme terre seche s'installent les Afars et les Issas, nomades pasteurs des memes solitudes; [le Sultan de Tadjoura](persona_sultan_tadjoura.md) tient son port et sa coutume, et [la rencontre des deux peuples](position_deux_peuples.md) se noue, parente et voisinage tout ensemble.
+Sur la même terre sèche s'installent les Afars et les Issas, nomades pasteurs des mêmes solitudes; [le Sultan de Tadjoura](persona_sultan_tadjoura.md) tient son port et sa coutume, et [la rencontre des deux peuples](position_deux_peuples.md) se noue, parenté et voisinage tout ensemble.
 
-**[Plot 3: le port et la voie ferree](plot_03_le_port.md)**
+**[Plot 3: le port et la voie ferrée](plot_03_le_port.md)**
 
-Au seuil de la mer Rouge on creuse un grand port et l'on tire une voie ferree vers les hauts plateaux; [Djibouti-ville](place_djibouti_ville.md) nait cosmopolite et le pays devient pour de bon [le carrefour](position_carrefour.md) du commerce du monde.
+Au seuil de la mer Rouge on creuse un grand port et l'on tire une voie ferrée vers les hauts plateaux; [Djibouti-ville](place_djibouti_ville.md) naît cosmopolite et le pays devient pour de bon [le carrefour](position_carrefour.md) du commerce du monde.
 
 **[Plot 4: le pays des deux peuples](plot_04_le_pays.md)**
 
-Le pays accede a lui-meme et se donne un drapeau qui porte les couleurs des deux peuples; [Abdourahman Waberi](persona_waberi.md) en ecrit la conscience, et la tache est de tenir [la rencontre des deux peuples](position_deux_peuples.md) a egalite sur la meme natte.
+Le pays accède à lui-même et se donne un drapeau qui porte les couleurs des deux peuples; [Abdourahman Waberi](persona_waberi.md) en écrit la conscience, et la tâche est de tenir [la rencontre des deux peuples](position_deux_peuples.md) à égalité sur la même natte.
 
 ## Stakes
 
-Si ce petit pays, pauvre en pluie et riche en seuil, peut tenir sa grandeur non de sa taille mais de sa position au mouillage du monde, et garder sa paix tant que les deux peuples, les Issas et les Afars, restent assis a egalite autour de la meme natte, dans le partage du khat de l'apres-midi et du the qui passe de main en main, sans que le carrefour qui le fait vivre ne l'use ni ne le divise.
+Si ce petit pays, pauvre en pluie et riche en seuil, peut tenir sa grandeur non de sa taille mais de sa position au mouillage du monde, et garder sa paix tant que les deux peuples, les Issas et les Afars, restent assis à égalité autour de la même natte, dans le partage du khat de l'après-midi et du thé qui passe de main en main, sans que le carrefour qui le fait vivre ne l'use ni ne le divise.

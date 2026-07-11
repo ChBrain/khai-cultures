@@ -21,16 +21,16 @@ El tono del [País Vasco](play_basque_country.md). Define la expresión seria, r
 
 ## Tenor
 
-Un tono serio, reservado y mecánico. La comunicación es conversacional, formal y estructurada en relatos, combinando el vocabulario de la metalurgia pesada y los astilleros con términos del pastoreo y la vida del caserío tradicional. Es la voz del taller metalúrgico y de la sidrería de montaña, que prioriza planes de normalización de la lengua vasca, controles de calidad del acero y actas asamblearias de cooperativas industriales. Este lenguaje formal guía tanto a las juntas de cuadrillas como a los comités de fábrica, valorando la lealtad grupal y el rigor manual.
+Hitza hitz: la palabra dada pesa aquí más que cualquier contrato, y se habla poco porque lo dicho ya obliga. Es la voz del taller metalúrgico y del caserío, que combina el vocabulario del acero y los astilleros con el de la vida pastoril y la sidrería de monte, y que lleva a la junta de cuadrilla el mismo rigor que a la asamblea de fábrica. Manda la lealtad del grupo y el trabajo bien hecho, sin necesidad de adornarlo con palabras de más.
 
 ## Undertow
 
-Bajo la lealtad comunitaria late una polarización geográfica persistente entre la ría industrial metropolitana y los valles agrícolas del interior. Este reparto desigual de infraestructuras alimenta debates sobre los presupuestos provinciales y los planes de ordenación de montes, donde el crecimiento urbano costero choca con el instinto protector de los propietarios del interior por sus pastos comunales.
+Bajo la lealtad de cuadrilla persiste la vieja distancia entre la ría industrial de Bilbao y los valles agrícolas del interior, que no reciben la misma inversión. Los presupuestos provinciales y los planes de ordenación de montes reabren la disputa: el crecimiento urbano de la costa avanza mientras el caserío del interior defiende sus pastos comunales como quien no negocia lo heredado.
 
 ## Nerve
 
-La convicción de que la solidaridad del grupo de cuadrilla, la competencia manual y técnica en el taller, y el respeto por los derechos históricos del fuero local son las verdaderas anclas de una sociedad estable.
+La certeza de que la solidaridad de cuadrilla, el oficio bien aprendido en el taller y el respeto por el fuero y el derecho propio sostienen a una comunidad mejor que ninguna ley impuesta desde fuera.
 
 ## Echo
 
-El golpe de una pelota de cuero contra la pared de piedra del frontón y el chorro de sidra cayendo desde lo alto : un eco fuerte, seco y mecánico.
+Queda el golpe seco de la pelota contra la pared del frontón y el chorro de sidra cayendo desde lo alto, un eco fuerte, seco y mecánico como el propio taller.

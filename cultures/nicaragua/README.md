@@ -19,28 +19,28 @@ Estate; a culture with no Estate is not yet a production.
 - **Pitch:** [pitch_es.md](pitch_es.md), the Hofstede layer, written from
   Nicaragua's profile (warm, expressive, poetic and quick-witted, proud of its
   letters) and naming no dimension.
-- **Plots (history):** los Cacicazgos y la Conquista (Nicarao, Diriangen, and the
-  conquest), Dario y el Modernismo (the filibuster Walker and Dario's revolution
+- **Plots (history):** los Cacicazgos y la Conquista (Nicarao, Diriangén, and the
+  conquest), Darío y el Modernismo (the filibuster Walker and Darío's revolution
   in poetry), Sandino y el Siglo de las Luchas (Sandino, the long century of
   struggle, and the 1979 revolution), and las Dos Nicaraguas (the modern nation,
   Cardenal's Solentiname, and the Caribbean coast) - each casting the elements it
   needs, and foreign intervention, the Somoza era, and the revolution staged
   soberly on the public record and without taking a side.
-- **Personas:** Diriangen, Ruben Dario, Augusto C. Sandino, and Ernesto Cardenal
-  as the historic cast, plus one defining archetype, el costeno miskito (the
+- **Personas:** Diriangén, Rubén Darío, Augusto C. Sandino, and Ernesto Cardenal
+  as the historic cast, plus one defining archetype, el costeño miskito (the
   Miskito and Creole of the Caribbean coast, the other Nicaragua). Each is wired
   to the language engine by the language-crossing it holds.
-- **Positions:** tierra de poetas (the nation of poets, Dario's gift), las dos
+- **Positions:** tierra de poetas (the nation of poets, Darío's gift), las dos
   costas (the Pacific Hispanic and the Caribbean Miskito and Creole worlds), la
   patria disputada (the contested homeland, resistance and intervention from
-  Diriangen to Sandino).
+  Diriangén to Sandino).
 - **Places:** Granada (the colonial city on Lake Nicaragua beneath the Mombacho
   volcano), la Costa Caribe (the Miskito and Creole coast, Bluefields and the
   autonomous regions).
-- **Processes:** la Griteria (the December Marian festival of the Pacific), el
+- **Processes:** la Gritería (the December Marian festival of the Pacific), el
   Palo de Mayo (the Afro-Creole May festival of the Caribbean coast).
 - **Pieces:** el gallo pinto (the rice and beans, the daily plate shared from
-  coast to coast), El Gueguense (the colonial masked satirical drama, the mestizo
+  coast to coast), El Güegüense (the colonial masked satirical drama, the mestizo
   wit, a masterpiece of oral heritage).
 
 ## Provenance

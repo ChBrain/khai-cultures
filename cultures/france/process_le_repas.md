@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Quiconque dresse une longue table et reunit les siens autour d'un repas qui prend son temps. Il ne demande qu'un bon pain, un vin choisi, quelques plats qui se suivent et des convives qui ne sont pas presses.
+Quiconque dresse une longue table et réunit les siens autour d'un repas qui prend son temps. Il ne demande qu'un bon pain, un vin choisi, quelques plats qui se suivent et des convives qui ne sont pas pressés.
 
 ## Direction
 
-Vers le plaisir partage et la lenteur : l'entree, le plat, le fromage et le dessert, le vin qui accompagne, la conversation qui s'etire. Ce n'est ni le simple fait de se nourrir ni l'apparat, mais l'art d'eriger le repas en moment central de la vie.
+Vers le plaisir partagé et la lenteur : l'entrée, le plat, le fromage et le dessert, le vin qui accompagne, la conversation qui s'étire. Ce n'est ni le simple fait de se nourrir ni l'apparat, mais l'art d'ériger le repas en moment central de la vie.
 
 ## Lever
 
-Le gout du bien-vivre et le respect du produit et de la saison le portent, soutenus par la fierte d'une cuisine comptee parmi les arts. Contre lui ne jouent que la hate et l'indifference a la table, que le repas tient a distance.
+Le goût du bien-vivre et le respect du produit et de la saison le portent, soutenus par la fierté d'une cuisine comptée parmi les arts. Contre lui ne jouent que la hâte et l'indifférence à la table, que le repas tient à distance.
 
 ## Echo
 
-Le repas rend sensible l'art de vivre francais autour d'une table, et l'egalite simple ou chacun a sa place, telle que [Colette](persona_colette.md) la fait vivre quand elle mene un repas comme le centre de la vie.
+Le repas rend sensible l'art de vivre français autour d'une table, et l'égalité simple où chacun a sa place, telle que [Colette](persona_colette.md) la fait vivre quand elle mène un repas comme le centre de la vie.

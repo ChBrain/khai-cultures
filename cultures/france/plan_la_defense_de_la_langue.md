@@ -1,7 +1,7 @@
 ---
 khai: plan
-title: "la defense de la langue francaise"
-declared: "la defense de la langue francaise"
+title: "la défense de la langue française"
+declared: "la défense de la langue française"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,11 +11,11 @@ stamp:
 status: active
 ---
 
-# Plan: la defense de la langue francaise
+# Plan: la défense de la langue française
 
 ## Taxonomy
 
-Un mandat : le dessein que porte [l'Etat](position_letat.md) pour tenir le francais comme un bien commun et une langue du monde, face a la maree de l'anglais.
+Un mandat : le dessein que porte [l'État](position_letat.md) pour tenir le français comme un bien commun et une langue du monde, face à la marée de l'anglais.
 
 ## Owner
 
@@ -23,22 +23,22 @@ Un mandat : le dessein que porte [l'Etat](position_letat.md) pour tenir le franc
 
 ## Direction
 
-Defendre le francais non comme une relique mais comme une langue vivante et universelle : la garder langue du droit, du travail, de la science et de la creation chez soi, et la porter au loin par la Francophonie, parce qu'un pays qui s'est voulu universel se pense d'abord dans sa langue.
+Défendre le français non comme une relique mais comme une langue vivante et universelle : la garder langue du droit, du travail, de la science et de la création chez soi, et la porter au loin par la Francophonie, parce qu'un pays qui s'est voulu universel se pense d'abord dans sa langue.
 
 ## Orders
 
-- A l'Academie francaise : veiller sur la langue et son bon usage, depuis Richelieu.
-- A l'Etat : imposer le francais dans les services publics, le travail et la publicite, et soutenir le livre et le cinema.
-- A la Francophonie, que [Charles de Gaulle](persona_de_gaulle.md) voyait grand : reunir par-dela les frontieres ceux qui ont le francais en partage.
+- À l'Académie française : veiller sur la langue et son bon usage, depuis Richelieu.
+- À l'État : imposer le français dans les services publics, le travail et la publicité, et soutenir le livre et le cinéma.
+- À la Francophonie, que [Charles de Gaulle](persona_de_gaulle.md) voyait grand : réunir par-delà les frontières ceux qui ont le français en partage.
 
 ## Implementation
 
-L'Academie francaise (1635) ; la loi Toubon (1994) ; l'exception culturelle defendue dans les accords commerciaux ; l'Organisation internationale de la Francophonie ; et les quotas de chanson francaise a la radio.
+L'Académie française (1635) ; la loi Toubon (1994) ; l'exception culturelle défendue dans les accords commerciaux ; l'Organisation internationale de la Francophonie ; et les quotas de chanson française à la radio.
 
 ## Targets
 
-- [x] L'Academie veille sur la langue et la loi Toubon (1994) l'imposa dans le travail, la publicite et les services publics.
-- [x] L'exception culturelle protegea le cinema et la creation contre la seule loi du marche.
-- [x] La Francophonie reunit le francais bien au-dela de la France.
-- [F] L'anglais s'impose dans les sciences, les affaires et les ecrans malgre toutes les digues.
-- [ ] Tenir le francais comme une langue vivante du monde, et non comme un musee.
+- [x] L'Académie veille sur la langue et la loi Toubon (1994) l'imposa dans le travail, la publicité et les services publics.
+- [x] L'exception culturelle protégea le cinéma et la création contre la seule loi du marché.
+- [x] La Francophonie réunit le français bien au-delà de la France.
+- [F] L'anglais s'impose dans les sciences, les affaires et les écrans malgré toutes les digues.
+- [ ] Tenir le français comme une langue vivante du monde, et non comme un musée.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Rhineland-Palatinate](play_rhineland_palatinate.md). Er bestimmt das gesellige, naturverbundene und geschichtsbewusste Leben in Rheinland-Pfalz.
+Die Tonart der Produktion [Rheinland-Pfalz](play_rhineland_palatinate.md) - sie ändert nichts an Gutenberg, nichts an Hambach. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine offene, pfälzisch-rheinische Herzlichkeit, geprägt von Gelassenheit und d
 
 ## Undertow
 
-Unter der Gemütlichkeit liegt eine Sorge vor den spürbaren Auswirkungen des Klimawandels auf die Naturlandschaft. Winzer spüren die zunehmende Trockenheit und Extremwetter, die ihre Existenz bedrohen. Der Ton drückt das Bedürfnis aus, die über Jahrtausende gewachsene Kulturlandschaft an Mosel und Rhein zu schützen und die Errungenschaften der demokratischen Tradition wachzuhalten.
+Unter der Gemütlichkeit liegt eine Sorge vor den spürbaren Auswirkungen des Klimawandels auf die Naturlandschaft. Winzer spüren die zunehmende Trockenheit und Extremwetter, die ihre Existenz bedrohen, und dahinter steht das Bedürfnis, die über Jahrtausende gewachsene Kulturlandschaft an Mosel und Rhein zu schützen und die Errungenschaften der demokratischen Tradition wachzuhalten.
 
 ## Nerve
 
-Der Stolz darauf, die Wiege des modernen Buchdrucks und des deutschen Freiheitsstrebens zu sein, gepaart mit der Meisterschaft im Weinbau.
+Getroffen wird die Freude daran, Wiege des modernen Buchdrucks und des deutschen Freiheitsstrebens gewesen zu sein, gepaart mit der stillen Meisterschaft im Weinbau.
 
 ## Echo
 
-Das Klirren von Weingläsern im Weinberg und das dumpfe Rauschen des Rheins an den Felsen : ein Echo, das warm, geschichtsträchtig und lebensfroh klingt.
+Was bleibt, ist das Klirren der Weingläser im Weinberg und das Rauschen des Rheins: geschichtsträchtig, lebensfroh, mit einem „alla gut” besiegelt.

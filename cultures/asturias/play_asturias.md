@@ -23,7 +23,7 @@ Asturias, comunidad autónoma y nacionalidad histórica del norte de España. IS
 
 ## Arc
 
-Una cornisa cantábrica de desfiladeros verdes, cumbres de piedra caliza y honda solidaridad minera y obrera. Desde el mítico combate de Covadonga en 722 por Pelayo que fundó el Reino de Asturias como reducto de resistencia y la revolucionaria huelga de mineros de 1934, hasta la consolidación del parque nacional de los Picos de Europa en 1995. Una cultura de queseros de cuevas, mineros de carbón y sidrerías festivas que protege su ecosistema de montaña mediante planes de conservación del oso pardo.
+La señardá tiñe de melancolía verde esta cornisa cantábrica de desfiladeros y cumbres calizas, forjada en la solidaridad minera y obrera. Desde el mítico combate de Covadonga en 722 por Pelayo, que fundó el Reino de Asturias como reducto de resistencia, y la revolucionaria huelga de mineros de 1934, hasta la consolidación del parque nacional de los Picos de Europa en 1995. Una cultura de queseros de cuevas, mineros de carbón y sidrerías festivas que protege su ecosistema de montaña mediante planes de conservación del oso pardo.
 
 ## Company
 
@@ -78,4 +78,4 @@ Se crea el Parque Nacional de los Picos de Europa, unificando y ampliando la pro
 
 ## Stakes
 
-Si una nacionalidad histórica castigada por la reconversión industrial y el cierre de las minas puede reconvertir sus valles y proteger sus bosques de montaña sin perder su arraigo comunitario.
+Si Asturias, golpeada por la reconversión industrial y el cierre de las minas, logra reconvertir sus valles y proteger sus montes conservando, pese a todo, la señardá que la mantiene unida a su tierra.

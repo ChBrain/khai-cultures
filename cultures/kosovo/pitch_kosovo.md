@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Kosovo Key"
 declared: "zëri i Kosovës"
+language: sq
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -13,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Zëri i shfaqjes [Kosovo](play_kosovo.md). Ky zë përçon vendosmërinë, mikpritjen dhe qëndresën e popullit të Kosovës.
+Toni në të cilin luhet vënia në skenë [Kosovo](play_kosovo.md). Nuk e ndryshon atë që ndodh, as Betejën e Kosovës, as Lidhjen e Prizrenit, as Pavarësinë e 2008-s. Cakton vetëm si tingëllon, çelësin në të cilin jepet gjithçka.
 
 ## Owner
 
@@ -21,16 +22,16 @@ Zëri i shfaqjes [Kosovo](play_kosovo.md). Ky zë përçon vendosmërinë, mikpr
 
 ## Tenor
 
-Një respekt i thellë për mikun dhe një qëndrim i palëkundur përballë vështirësive. Komunikimi në Kosovë karakterizohet nga ngrohtësia e odës shqiptare, ku fjala ka peshë dhe besa është e shenjtë. Është një zë që nderon të moshuarit dhe dëshmorët, por që shpreh gjithashtu energjinë dhe shpresën e një rinie të gjallë që dëshiron të lidhet me botën. Mikpritja ndaj të huajit është e pakufishme, e shoqëruar gjithmonë me nderim dhe bujari.
+Luhet si vendi më i ri i Evropës, ngritur me para dhe dashuri nga diaspora në Zvicër e në Gjermani, që mban shtëpinë, shkollën e dasmën edhe nga larg. Në Prishtinë demokracia luhet te tavolina e kafesë: student, ministër e shofer taksie ndajnë sofrën plot makiato, dhe një "mirëdita" e hedhur nga tavolinë në tavolinë rrëzon çdo hierarki. Oda mbetet e shenjtë, fjala vlen sa jeta, mikpritja ndaj të huajit s'njeh kufi, por nën gjithçka rreh krenaria e një populli të ri që di të presë radhë, në kufi a në ambasadë, pa e humbur besën.
 
 ## Undertow
 
-Nën mikpritjen dhe harenë e rinisë ndihet dhimbja e kaluar dhe kujtesa e konfliktit. Populli i Kosovës e di se liria dhe shtetësia u fituan me sakrifica të mëdha. Ndjehet një ndjeshmëri e lartë ndaj sigurisë kombëtare dhe një dëshirë e fortë për të vërtetuar sovranitetin para botës, duke refuzuar çdo kthim pas në histori.
+Nën mikpritjen dhe xhiron e kafeve rri një hendek i heshtur mes atyre që mbetën dhe atyre që u larguan: fëmijët e diasporës vijnë verë pas vere me targa të huaja, e njohin vendin më shumë nga paratë e dërguara sesa nga rrugët e tij. Ndihet dhimbja e kaluar, siguria e brishtë, dëshira për t'u vërtetuar para botës si shtet i barabartë, jo rast i pezulluar, e frika se rinia zbrazet drejt vendeve që ende s'e njohin.
 
 ## Nerve
 
-Krenaria për të qenë pjesë e një shteti të ri që po rilind nga rrënojat përmes punës, arsimit dhe dashurisë për lirinë.
+Godet në fillin e krenarisë dhe të kthimit: përmendorja "Newborn" në Prishtinë, e lyer me ngjyra të reja çdo vit për ditëlindjen e shtetit, dhe shqiponja dykrenore e kërcyer në çdo dasmë, qoftë në Prizren apo në një sallë të diasporës në Zvicër, ku fisi mblidhet sërish i tëri. Krenaria për të qenë pjesë e një shteti të ri, që u ngrit nga rrënojat përmes punës, arsimit dhe dashurisë për lirinë, përzihet me durimin e atyre që presin orë të tëra në radhët e Shengenit me pasaportë në dorë, e megjithatë e mbajnë fjalën e dhënë dhe premtimin për t'u kthyer, sepse besa mbahet edhe atje ku askush s'e sheh.
 
 ## Echo
 
-Tingulli i çiftelisë në mbrëmje dhe zhurma e Prishtinës së zhurmshme : një jehonë e fortë, besnike dhe plot jetë.
+Mbetet tingulli i çiftelisë në mbrëmje, i përzier me zhurmën e kafeve të Prishtinës që s'flenë kurrë, dhe pamja e përmendores "Newborn" që ndryshon ngjyrë çdo vit, si një komb që rilind e rilind, i ri por i lashtë, i shpërndarë nëpër Evropë por i mbledhur në çdo dasmë nga vallja e shqiponjës dykrenore. Një jehonë e fortë, besnike dhe plot jetë, e një populli që e mban shtëpinë me vete kudo që shkon, dhe që e sjell atë përsëri në shtëpi çdo verë, me besën ende të paprekur.

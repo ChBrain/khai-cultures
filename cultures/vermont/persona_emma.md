@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old maple sugar cooperative coordinator in Addison County. English, spoken with a New England drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily production reports. It is the [Vermont English](position_language_en_us_vt.md) of the maple valleys, the flat New England drawl of the Addison County sugarhouse. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of site coordinators like Ira and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river ecosystem restoration is treated as secondary to corporate resort development and speedway logistics. She belongs to [the Green Mountain State](position_culture_green_mountain_state.md) as the sugar maker who carries its craftsmanship half, boiling sap down with the same patience Ira gives the historic record.
+Fifty-two years old, a maple sugar cooperative coordinator in Addison County who can call a boil's finish by smell before the thermometer agrees. English, a flat New England drawl, is her mother tongue, the language she [speaks](process_speaking_mother_tongue.md) at the evaporator and writes into her daily production logs. It is the [Vermont English](position_language_en_us_vt.md) of the maple valleys, worn down to the fewest words a sentence needs. She has no foreign languages, and the sugarhouse has never once asked for one. What she can't get past is the sense of two clocks running in the same small state: the busy, screen-lit talk of site coordinators like Ira and the tourism boards courting them [reaches her only secondhand, like weather reported from a county she's never visited](process_hearing_followed.md), while the slow work of keeping a watershed clean gets treated as an afterthought next to whatever brings the tour buses in. She belongs to [the Green Mountain State](position_culture_green_mountain_state.md) as the one who keeps the syrup honest, boiling patience into a jar the way Ira keeps it filed in a ledger.
 
 ## Action
 
@@ -31,8 +31,8 @@ She preserves [ice cream tub](piece_ice_cream_tub.md) records, coordinates field
 
 ## Shadow
 
-Her pride in traditional town meeting assemblies and local county rights can make her suspicious of state-wide zoning and environmental land mandates, fearing they will restrict family property use.
+Her faith in the town meeting runs deep enough that she meets any state-wide zoning or watershed mandate with suspicion, half convinced Montpelier is one signature away from telling a family what its back forty is for.
 
 ## Tell
 
-She looks at a historic sugarhouse logbook and says thoughtfully: "The sugarhouse has its own boiling records; you can't protect river water quality if you're only focused on digital speed and tourism metrics."
+She holds a hydrometer up to the light and says, dry as the smoke off the arch: "Density tells you when it's syrup, same as it told my grandmother. You don't clean a lake by chasing whatever gets the ski towns clicks."

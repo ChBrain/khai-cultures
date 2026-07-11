@@ -30,7 +30,7 @@ That a farm stand and a factory be given equal respect, the tomato and the turnp
 
 ## Loses
 
-Ground in the widening gap between its industrial corridor's speed and its farmland's patience, the fast, permit-driven push of pharmaceutical plants and shipping logistics treating the aquifer beneath the Pine Barrens as an afterthought rather than the water table the whole state's farms and towns draw from. It loses ground, too, to its own image, flattened by outsiders into a punchline of turnpike exits and reality television, that erases the actual farmland, forest, and craft the state depends on. And it loses ground when suburban sprawl pushes against both the historic shore towns and the working farms at once, squeezing the Garden State's claim to its own name.
+Ground in the widening gap between its industrial corridor's speed and its farmland's patience, the quick, permit-driven push of pharmaceutical plants and shipping logistics treating the aquifer beneath the Pine Barrens as an afterthought rather than the water table the whole state's farms and towns draw from. It loses ground, too, to its own image, flattened by outsiders into a punchline of turnpike exits and reality television, that erases the actual farmland, forest, and craft the state depends on. And it loses ground when suburban sprawl pushes against both the historic shore towns and the working farms at once, squeezing the Garden State's claim to its own name.
 
 ## Drives
 

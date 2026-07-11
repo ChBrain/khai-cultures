@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Portuguese in Mozambique"
-declared: "o portugues de Mocambique"
+declared: "o português de Moçambique"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: o portugues de Mocambique
+# Position: o português de Moçambique
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Tem o infinitivo pessoal, um traco que quase nenhuma outra lingua romanica guarda, flexionando o infinitivo pela pessoa e pelo numero de quem age, para eu ver, para nos vermos, de modo que ate a forma mais nua do verbo carrega quem faz a acao. Tem as vogais e ditongos nasais que fecham o som no nariz, mao, coracao, bem, e um modo subjuntivo vivo que marca a duvida, o desejo e a hipotese onde outras linguas se contentam com o indicativo.
+Tem o infinitivo pessoal, um traço que quase nenhuma outra língua românica guarda, flexionando o infinitivo pela pessoa e pelo número de quem age, para eu ver, para nós vermos, de modo que até a forma mais nua do verbo carrega quem faz a ação. Tem as vogais e ditongos nasais que fecham o som no nariz, mão, coração, bem, e um modo subjuntivo vivo que marca a dúvida, o desejo e a hipótese onde outras línguas se contentam com o indicativo.
 
 ## Orders
 
-Obriga a concordar o genero e o numero em toda a frase, do artigo ao adjetivo ao substantivo; obriga o verbo a flexionar por pessoa, numero, tempo e modo em cada oracao; e obriga o subjuntivo sempre que a frase duvida, deseja ou supoe, trocando o modo so por isso. E obriga, no infinitivo pessoal, a marcar quem faz a acao mesmo quando o verbo nao se conjuga por tempo.
+Obriga a concordar o género e o número em toda a frase, do artigo ao adjetivo ao substantivo; obriga o verbo a flexionar por pessoa, número, tempo e modo em cada oração; e obriga o subjuntivo sempre que a frase duvida, deseja ou supõe, trocando o modo só por isso. E obriga, no infinitivo pessoal, a marcar quem faz a ação mesmo quando o verbo não se conjuga por tempo.
 
 ## Loses
 
-Perde a capacidade de marcar, como fazem o changana, o ronga e o makhuwa, a classe do nome pelo prefixo, dizendo pela propria forma da palavra se e pessoa, coisa comprida, planta ou liquido; essa gramatica de classes nao tem lugar nele. Perde tambem o tom que muda o sentido da silaba nessas linguas da terra, e perde o calor que so a lingua da infancia carrega, ficando a letra fria onde a lingua materna sente quente.
+Perde a capacidade de marcar, como fazem o changana, o ronga e o makhuwa, a classe do nome pelo prefixo, dizendo pela própria forma da palavra se é pessoa, coisa comprida, planta ou líquido; essa gramática de classes não tem lugar nele. Perde também o tom que muda o sentido da sílaba nessas línguas da terra, e perde o calor que só a língua da infância carrega, ficando a letra fria onde a língua materna sente quente.
 
 ## Drives
 
-Habitua quem o fala a acompanhar o genero e o numero por toda a frase sem os perder de vista, e a pesar em cada oracao se aquilo que diz e certo ou apenas suposto, so pela escolha do modo. Ensina a levar duas linguas ao mesmo tempo, uma para o papel e o estado, outra para o coracao e a casa, e a mudar de uma para a outra dentro da mesma frase sem que isso pese.
+Habitua quem o fala a acompanhar o género e o número por toda a frase sem os perder de vista, e a pesar em cada oração se aquilo que diz é certo ou apenas suposto, só pela escolha do modo. Ensina a levar duas línguas ao mesmo tempo, uma para o papel e o estado, outra para o coração e a casa, e a mudar de uma para a outra dentro da mesma frase sem que isso pese.

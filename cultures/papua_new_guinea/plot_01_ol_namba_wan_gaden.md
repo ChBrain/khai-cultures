@@ -30,9 +30,9 @@ Long Kuk, klostu tenausen yia bipo, ol tumbuna i bin brukim graun na wokim ol ba
 
 ## Stage
 
-- [the Sepik carver](persona_sepik_kava.md): em i sanapim haus tambaran na holim save bilong tumbuna long art.
-- [the Sepik](place_sepik.md): bikpela wara i pulap long art na long haus tambaran.
-- [the wantok and kastom](position_wantok_na_kastom.md): pasin bilong wantok na kastom i kamap as bilong sindaun bilong ol.
+- [kava bilong Sepik](persona_sepik_kava.md): em i sanapim haus tambaran na holim save bilong tumbuna long art.
+- [Sepik](place_sepik.md): bikpela wara i pulap long art na long haus tambaran.
+- [wantok na kastom](position_wantok_na_kastom.md): pasin bilong wantok na kastom i kamap as bilong sindaun bilong ol.
 
 ## Tension
 

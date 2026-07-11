@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old historic site coordinator at Hagley Museum. English, the [Delawarean English](position_language_en_us_de.md) spoken with a Mid-Atlantic cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily gunpowder demonstration safety checks. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of legal archivists like Irene and the quiet history of [corporate chancery](position_corporate_chancery.md) [he reads only as regional registry updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant litigation precision of early chancery courts is being forgotten in the race for high-volume corporate tax filing. He belongs to [the First State spirit](position_culture_first_state_spirit.md) as the keeper of the mill safety record that proves the state's old charter still matters.
+Thirty-eight years old, a historic site coordinator at Hagley Museum who can tell you the grain size of black powder by feel. English - [Delawarean English](position_language_en_us_de.md), Mid-Atlantic in its cadence - is his mother tongue, the language he [speaks, hears, and thinks](process_speaking_mother_tongue.md) in, right down to the safety checks he runs before every gunpowder demonstration. He speaks no foreign languages, and the mill has never once needed one. What nags at him is the sense that his half of Delaware runs on a different clock than [corporate chancery](position_corporate_chancery.md): the slower, tradition-bound talk of archivists like Irene reaches him [as little more than a registry update flashing past on his workstation](process_reading_followed.md), and he can't shake the feeling that the patient, self-reliant precision of the old chancery courts is getting outpaced by the sheer volume of corporate filings coming through today. He belongs to [the First State spirit](position_culture_first_state_spirit.md) as the keeper of the mill safety record that proves the old charter still means something.
 
 ## Action
 
-He preserves [powder keg](piece_powder_keg.md) barrels, coordinates site safety under [the Brandywine plan](plan_brandywine_river_protection.md), and studies [first state charter](position_first_state_charter.md).
+He keeps [powder keg](piece_powder_keg.md) barrels in museum-grade condition, runs site safety under [the Brandywine plan](plan_brandywine_river_protection.md), and keeps up his own study of [first state charter](position_first_state_charter.md).
 
 ## Shadow
 
-His intense focus on demonstration safety metrics and tourist turnout can make him indifferent to municipal environmental zoning problems in southern rural counties.
+His focus on demonstration safety and getting tour groups through on schedule can leave him tuning out the zoning fights playing out in the rural counties down south - not his mill, not his problem, or so he tells himself.
 
 ## Tell
 
-He adjusts a brass scales set on a powder table and says directly: "We are calibrating classic charcoal and sulfur gunpowder mix; you can't run a safe historic mill if you're only focused on corporate filing speed and digital tax audits."
+He levels a brass scale on the powder table and says, flat out: "We're weighing out charcoal and sulfur same as they did in 1802 - you don't run a safe historic mill by worrying about how fast the tax filings clear upstate."

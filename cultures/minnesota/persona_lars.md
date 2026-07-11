@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old wilderness guide in the Boundary Waters. English, spoken with a slow, flat midwestern drawl, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily safety briefings. It is the [Minnesotan English](position_language_en_us_mn.md) of the Boundary Waters outfitter, the slow, flat drawl of the Northwoods. He speaks no foreign languages. Yet the loss lies in the seam: The fast, tech-oriented talk of urban engineers like Samantha and the digital planning of Twin Cities medical alley boards [he reads only as administrative metrics](process_reading_followed.md) on his weather tablet, feeling that the patient, season-dependent rhythm of the wilderness is being forgotten in the race for technological modernization. He belongs to [the Star of the North](position_culture_star_of_the_north.md) as the northwoods resilience that reads a hard winter as a shared discipline.
+Forty-two, and he's guided the Boundary Waters long enough to read a sky better than any forecast does. English is the only tongue he's ever needed - the slow, flat Northwoods drawl he uses to [talk a group through a night portage as easily as he thinks](process_speaking_mother_tongue.md) - and it's the same [Minnesotan English](position_language_en_us_mn.md) spoken slower and lower up here than it is two hundred miles south. He's not against progress, exactly. It's that the fast, dashboard-driven talk coming out of people like Samantha and the Twin Cities medical-alley boards [lands on his weather tablet as a spreadsheet and nothing more](process_reading_followed.md) - numbers standing in for a rhythm the lakes have kept for ten thousand years, one he doesn't figure any app can replace. He belongs to [the Star of the North](position_culture_star_of_the_north.md) the way northwoods resilience does: a hard winter read as something you earn your way through together, not something you optimize away.
 
 ## Action
 
-He preserves [canvas canoe](piece_canvas_canoe.md) designs, coordinates trail safety under [the Minnesota River plan](plan_minnesota_river_agricultural_runoff.md), and studies [Minnesota nice](position_minnesota_nice.md).
+He keeps the old [canvas canoe](piece_canvas_canoe.md) craft alive, keeps his groups safe under [the Minnesota River plan](plan_minnesota_river_agricultural_runoff.md)'s watch, and minds his [Minnesota nice](position_minnesota_nice.md) even out here, miles from the nearest planning board.
 
 ## Shadow
 
-His intense focus on wilderness preservation and outdoor self-reliance can make him protective, overlooking the housing and transit struggles of urban seasonal service workers who commute long distances.
+He can get so locked onto the wilderness and the virtue of doing for yourself out here that he loses sight of the seasonal guides and dock hands commuting two hours each way, because nobody ever built housing near the outfitters that employ them.
 
 ## Tell
 
-He pulls a canoe paddle out of the water and says directly: "The lakes have their own seasons; you can't understand wilderness safety if you're only focused on digital speed and cleanroom device metrics."
+He lifts his paddle out of the water, lets it drip, and says it without any heat in it: "The lake tells you when it's ready, not the calendar. You can't keep somebody safe out here going by a spreadsheet in Minneapolis, no matter how fast it updates."

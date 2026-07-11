@@ -32,56 +32,56 @@ I no gat narapela kantri i gat planti tok ples olsem dispela hap. Long bikpela a
 - [Michael Somare](persona_somare.md)
 - [Bernard Narokobi](persona_narokobi.md)
 - [John Guise](persona_guise.md)
-- [the big-man](persona_bikman.md)
-- [the Sepik carver](persona_sepik_kava.md)
+- [bikman](persona_bikman.md)
+- [kava bilong Sepik](persona_sepik_kava.md)
 
 **Places**
 
-- [the Highlands](place_ol_hailans.md)
-- [the Sepik](place_sepik.md)
+- [ol Hailans](place_ol_hailans.md)
+- [Sepik](place_sepik.md)
 
 **Processes**
 
-- [the sing-sing](process_singsing.md)
-- [the mumu](process_mumu.md)
+- [singsing](process_singsing.md)
+- [mumu](process_mumu.md)
 
 **Positions**
 
 - [wanpela kantri, planti lain](position_culture_wanpela_kantri_planti_lain.md)
-- [a thousand tongues, one country](position_language_tpi.md)
-- [the wantok and kastom](position_wantok_na_kastom.md)
-- [the Melanesian Way](position_melanesian_we.md)
+- [Tok Pisin](position_language_tpi.md)
+- [wantok na kastom](position_wantok_na_kastom.md)
+- [Melanesian We](position_melanesian_we.md)
 
 **Pieces**
 
-- [the bilum](piece_bilum.md)
-- [the kundu drum](piece_kundu.md)
+- [bilum](piece_bilum.md)
+- [kundu](piece_kundu.md)
 
 **Pitches**
 
-- [the Papua New Guinean tone](pitch_tpi.md)
+- [tok bilong Papua Niugini](pitch_tpi.md)
 
 **Plans**
 
-- [one country, many tongues](plan_wanpela_kantri_planti_tok.md)
+- [wanpela kantri, planti tok](plan_wanpela_kantri_planti_tok.md)
 
 ## Triggers
 
-**[Plot 1: the first gardeners](plot_01_ol_namba_wan_gaden.md)**
+**[Plot 1: ol namba wan gaden](plot_01_ol_namba_wan_gaden.md)**
 
-Longpela taim bipo, long Kuk na long olgeta hap, ol tumbuna i bin brukim graun na planim kaikai, na long Sepik [the Sepik carver](persona_sepik_kava.md) i sanapim haus tambaran, na long olgeta dispela wok [the wantok and kastom](position_wantok_na_kastom.md) i kamap strong.
+Longpela taim bipo, long Kuk na long olgeta hap, ol tumbuna i bin brukim graun na planim kaikai, na long Sepik [kava bilong Sepik](persona_sepik_kava.md) i sanapim haus tambaran, na long olgeta dispela wok [wantok na kastom](position_wantok_na_kastom.md) i kamap strong.
 
-**[Plot 2: contact and colony](plot_02_kontak_na_kolonia.md)**
+**[Plot 2: kontak na kolonia](plot_02_kontak_na_kolonia.md)**
 
-Long 1930s ol waitman i kamap insait long [the Highlands](place_ol_hailans.md) na painim planti manmeri ol i no bin save long ol, na ol Siaman, ol Inglis, na ol Australia i bosim dispela hap, na long bikpela pait ol i pait long Kokoda, na [a thousand tongues, one country](position_language_tpi.md) i kamap askim.
+Long 1930s ol waitman i kamap insait long [ol Hailans](place_ol_hailans.md) na painim planti manmeri ol i no bin save long ol, na ol Siaman, ol Inglis, na ol Australia i bosim dispela hap, na long bikpela pait ol i pait long Kokoda, na [Tok Pisin](position_language_tpi.md) i kamap askim.
 
-**[Plot 3: independence and the Melanesian Way](plot_03_independens_na_melanesian_we.md)**
+**[Plot 3: independens na Melanesian We](plot_03_independens_na_melanesian_we.md)**
 
-Long 1975 [Michael Somare](persona_somare.md) na [Bernard Narokobi](persona_narokobi.md) i kisim independens long [the Melanesian Way](position_melanesian_we.md), na [John Guise](persona_guise.md) i sanap olsem namba wan Gavna Jeneral.
+Long 1975 [Michael Somare](persona_somare.md) na [Bernard Narokobi](persona_narokobi.md) i kisim independens long [Melanesian We](position_melanesian_we.md), na [John Guise](persona_guise.md) i sanap olsem namba wan Gavna Jeneral.
 
-**[Plot 4: a thousand tongues today](plot_04_planti_tok_tude.md)**
+**[Plot 4: planti tok tude](plot_04_planti_tok_tude.md)**
 
-Tude [the big-man](persona_bikman.md) i stap yet long [the Highlands](place_ol_hailans.md), na [a thousand tongues, one country](position_language_tpi.md) i mas holim kantri wantaim, namel long askim bilong Bougainville na bilong graun i gat planti samting insait.
+Tude [bikman](persona_bikman.md) i stap yet long [ol Hailans](place_ol_hailans.md), na [Tok Pisin](position_language_tpi.md) i mas holim kantri wantaim, namel long askim bilong Bougainville na bilong graun i gat planti samting insait.
 
 ## Stakes
 

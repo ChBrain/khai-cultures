@@ -2,12 +2,12 @@
 khai: process
 title: "Angam Day"
 declared: "Angam Day"
-language: nau
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
 # Process: Angam Day
@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Eb me eo aen me eb tongin n ekege n eb Angam Day: eb me eo aen me eb me eo aiwo eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb itsibwij eko eb me eo aen me eb survival n eb number. Eb me eo aiwo eko engame eb me eo aen me eb me eo, eb tongin n ekege pe, ma eb me eo aen me eb tongin n ekege eko eb me eo aen me eb me eo aiwo eko eb day eko eb me eo aen me eb me eo aiwo eko eb survival me eb mo'ui.
+Angam Day begins with a headcount, not a ceremony: it marks the day Nauru's population climbed back to a number the island could call self sustaining, first after an epidemic thinned the tribes early in the twentieth century, and again after the wartime deportation to Chuuk nearly did the same a second time. It is initiated whenever that count is reached, and it has been reached twice in living memory.
 
 ## Direction
 
-Ki eb fiefia me eb mo'ui: eb day eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb itsibwij eko eb me eo aen me eb survival n eb number, eb me eo aen me eb me eo aiwo eko engame eb tongin rik eko eb me eo aen me eb me eo aiwo eko eb mo'ui me eb tomure. Eb me eo aiwo eko eb me eo aen me eb me eo aiwo eko eb day eko eb me eo aen me eb me eo aiwo eko eb tongin n ekege eko eb me eo aen me eb mo'ui.
+Toward celebration and survival: the day marks a population's own recovery in number, turning what could have stayed a private grief into a shared national relief. It directs the whole island toward the same simple fact each year, that the count came back both times it fell.
 
 ## Lever
 
-Eb me eo aen me eb me eo aiwo eko eb mo'ui me eb survival n eb tongin rik n eb tongin n ekege. Eb me eo aiwo eko eb me eo aen me eb me eo, eb tongin rik eko eb me eo aiwo eko engame eb me eo aen me eb me eo aiwo, ka eb me eo aen me eb tongin n ekege eko eb me eo aen me eb me eo aiwo eko eb day eko eb me eo aen me eb survival, eb me eo aen me eb me eo aiwo eko eb mo'ui me eb tomure.
+The lever is the population count itself. Nothing else about the day changes it, no policy, no ceremony, only whether the number of Nauruans on the island has climbed back to what the nation itself considers enough to keep going.
 
 ## Echo
 
-Eb me eo aen me eb Angam Day eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb [te republic ororo](position_te_republic_ororo.md): eb ribanan rik n eb tongin eko eb me eo aen me eb me eo aiwo eko eb survival me eb mo'ui. Ki eb me eo aen me eb me eo aiwo eko [Hammer DeRoburt](persona_hammer_deroburt.md) me eb tongin n ekege eko eb me eo aen me eb day eko eb me eo aen me eb survival me eb sovereignty, eb me eo aen me eb me eo aiwo eko eb mo'ui me eb dorerin.
+Angam Day echoes into [the Smallest Republic](position_the_smallest_republic.md): a nation this size measures its own survival in a headcount, not an abstraction. It echoes too into [Hammer DeRoburt](persona_hammer_deroburt.md), whose own generation lived through the count's second fall and its second recovery, carrying that memory into the sovereignty he later won.

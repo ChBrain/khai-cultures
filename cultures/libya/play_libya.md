@@ -68,19 +68,19 @@ stamp:
 
 ## Triggers
 
-**[Plot 1: the Garamantes and the desert civilization](plot_01_garamantes.md)**
+**[Plot 1: الجرامنت وحضارة الصحرا](plot_01_garamantes.md)**
 
 في عمق فزان قامت حضارة [الجرامنت](position_alsahra.md)، شقّت الفقّارات تحت الرمل وجرّت الماي من جوف الأرض، وعمّرت القفر بالزرع والقوافل، فصارت [الصحرا](position_alsahra.md) دار عمران لا دار خلاء.
 
-**[Plot 2: the ancient cities of the coast](plot_02_ancient_cities.md)**
+**[Plot 2: مدن الساحل القديمة](plot_02_ancient_cities.md)**
 
 على السيف قامت [لبدة الكبرى](place_leptis_magna.md) وصبراتة من حجر الرومان، وشحات بعلم الإغريق، حتى صار منها مثل [سبتيموس سويروس](persona_septimius.md) اللي بلغ عرش روما نفسها، وبقي [الإرث القديم](position_alirth_alqadim.md) شاهدًا في الحجر.
 
-**[Plot 3: the Arab and Islamic age and the oasis routes](plot_03_arab_islamic.md)**
+**[Plot 3: العهد العربي الإسلامي ودروب الواحات](plot_03_arab_islamic.md)**
 
 دخل العرب والإسلام البلاد فاتّحدت باللسان والدين، وصارت [غدامس](place_ghadames.md) ملتقى القوافل اللي تشقّ الصحرا، فترسّخ [الكرم](position_alkaram.md) وكرم البدو شريعةَ بادية.
 
-**[Plot 4: the bedouin heritage and the desert teacher](plot_04_bedouin_heritage.md)**
+**[Plot 4: الإرث البدوي ومعلّم الصحرا](plot_04_bedouin_heritage.md)**
 
 في بادية برقة وجبالها حفظ الناس أرضهم وعزّتهم، وبرز فيها معلّم القرآن [عمر المختار](persona_omar_almukhtar.md)، رمز الصبر والوقار اللي صار مثلًا في الكرامة عند الليبيين.
 

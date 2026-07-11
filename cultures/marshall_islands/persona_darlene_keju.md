@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[the nuclear wound](position_kinie_baam.md)
+[kinie baam](position_kinie_baam.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Juon kora eo me ear jerbal kon ejmour an armej ro im ear kwalok nan lal in kon n
 
 ## Action
 
-Ilo [dan ej wanlontak](plot_04_dan_ej_wanlontak.md) ej kwalok nan lal in kon [the nuclear wound](position_kinie_baam.md), im ej bok bunton eo an armej ro me rar bok nañinmej im buromoj. Ej jutak kon ejmour an armej ro im ej kortok men eo ear pad nooj nan mejan lal in, im ej kakure lal in nan ron im uwaak.
+Ilo [dan ej wanlontak](plot_04_dan_ej_wanlontak.md) ej kwalok nan lal in kon [kinie baam](position_kinie_baam.md), im ej bok bunton eo an armej ro me rar bok nañinmej im buromoj. Ej jutak kon ejmour an armej ro im ej kortok men eo ear pad nooj nan mejan lal in, im ej kakure lal in nan ron im uwaak.
 
 ## Shadow
 

@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old corn breeding technician in Ames. English, spoken with a prairie cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily crop hybridization checks. It is the [Iowan English](position_language_en_us_ia.md) of the seed-corn plots, the even prairie cadence of the Ames research floor. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of literary editors like Ruth and the quiet history of [literary craft](position_literary_craft.md) [he reads only as regional program updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant critique discipline of early writers' workshops is being forgotten in the race for high-volume grain exports. He belongs to [Iowan culture](position_culture_iowan_culture.md) as the heartland agriculture that measures a season by patient, careful cultivation.
+Thirty-eight years old, a corn breeding technician working the seed-corn plots outside Ames. English, carried in a flat prairie cadence, is his mother tongue, the language he [speaks, hears, and thinks](process_speaking_mother_tongue.md) in, the only code that matters when he's calling out a hybridization check. It's the [Iowan English](position_language_en_us_ia.md) of the Ames research floor - plain, even, not much given to drama. He speaks no foreign languages. What he misses is quieter than a gap, more like a room down the hall he doesn't walk into: the slow, deliberate talk of literary editors like Ruth, and the whole patient history of [literary craft](position_literary_craft.md), which he mostly [catches secondhand off a program newsletter](process_reading_followed.md), enough to worry, fairly or not, that the self-reliant, take-your-time discipline of the old workshops is losing ground to how fast a bushel can move to market. He belongs to [Iowan culture](position_culture_iowan_culture.md) the way heartland agriculture does: a season measured out in patient, careful cultivation, and not much rushed.
 
 ## Action
 
-He preserves [corn ear](piece_corn_ear.md) collections, coordinates crop safety under [the Iowa river plan](plan_iowa_river_agricultural_runoff_control.md), and studies [heartland agriculture](position_heartland_agriculture.md).
+He keeps the [corn ear](piece_corn_ear.md) collection true to its line, minds crop safety on his stretch of [the Iowa river plan](plan_iowa_river_agricultural_runoff_control.md), and keeps circling back to [heartland agriculture](position_heartland_agriculture.md) the way a man checks a fence he built himself.
 
 ## Shadow
 
-His intense focus on yield metrics and hybrid seed sales can make him indifferent to municipal environmental zoning problems in urban counties.
+Keep him talking yield numbers and seed sales long enough and he'll wave off a municipal zoning fight in some urban county like it's somebody else's weather.
 
 ## Tell
 
-He adjusts a paper pollination bag on a corn plant and says directly: "We are calibrating high-yield seed corn hybridization; you can't run a profitable seed farm if you're only focused on historic local preservation."
+He tucks a paper pollination bag back over a tassel and says it plain: "We're dialing in the seed corn cross right now. You can't keep a farm running on old buildings and good memories alone."

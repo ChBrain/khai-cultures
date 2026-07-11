@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Beninese French"
-declared: "le francais beninois"
+declared: "le français béninois"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: le francais beninois
+# Position: le français béninois
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Ce que le francais permet de dire avec une precision que d'autres langues n'atteignent qu'au prix d'une longue periphrase: un systeme verbal si fourni qu'il porte, dans une seule forme conjuguee, la personne, le nombre, le temps et le mode a la fois, et un mode a part, le subjonctif, reserve au doute, au souhait et a la necessite, la ou d'autres langues se contentent de l'indicatif. Il porte deux facons de dire ce qu'une chose est: le verbe etre pour l'essence, et une tournure separee pour l'etat passager. Il tient enfin tout un jeu de suffixes abstraits, tion, isme, ite, qui fabrique sans effort un vocabulaire entier de l'idee, et la liaison, ce son qui se glisse entre deux mots quand le premier finit par une consonne muette, qui coud la phrase parlee en un seul ruban sonore.
+Ce que le français permet de dire avec une précision que d'autres langues n'atteignent qu'au prix d'une longue périphrase: un système verbal si fourni qu'il porte, dans une seule forme conjuguée, la personne, le nombre, le temps et le mode à la fois, et un mode à part, le subjonctif, réservé au doute, au souhait et à la nécessité, là où d'autres langues se contentent de l'indicatif. Il porte deux façons de dire ce qu'une chose est: le verbe être pour l'essence, et une tournure séparée pour l'état passager. Il tient enfin tout un jeu de suffixes abstraits, tion, isme, ité, qui fabrique sans effort un vocabulaire entier de l'idée, et la liaison, ce son qui se glisse entre deux mots quand le premier finit par une consonne muette, qui coud la phrase parlée en un seul ruban sonore.
 
 ## Orders
 
-Il impose un genre, masculin ou feminin, a chaque nom, et ce genre commande l'accord de l'article, de l'adjectif et parfois du participe qui l'accompagnent, si bien qu'aucun nom ne se dit jamais nu. Il impose, chaque fois qu'on s'adresse a quelqu'un, le choix entre tu et vous, un choix qui dit d'un mot la distance ou la proximite sociale et qu'aucune phrase ne peut eviter de faire. Il impose enfin un article, defini ou indefini, devant presque tout nom commun, marquant a chaque emploi si la chose designee est deja connue ou nouvellement introduite dans le propos.
+Il impose un genre, masculin ou féminin, à chaque nom, et ce genre commande l'accord de l'article, de l'adjectif et parfois du participe qui l'accompagnent, si bien qu'aucun nom ne se dit jamais nu. Il impose, chaque fois qu'on s'adresse à quelqu'un, le choix entre tu et vous, un choix qui dit d'un mot la distance ou la proximité sociale et qu'aucune phrase ne peut éviter de faire. Il impose enfin un article, défini ou indéfini, devant presque tout nom commun, marquant à chaque emploi si la chose désignée est déjà connue ou nouvellement introduite dans le propos.
 
 ## Loses
 
-Il perd, devant les langues a ton du pays comme le fon ou le yoruba, la musique meme du sens: la ou une syllabe qui monte ou qui descend change le mot, le francais, langue sans ton, ne peut que rajouter des mots pour dire la meme chose, et le proverbe perd au passage son jeu de sonorites. Il attribue un genre arbitraire a des noms que ces langues ne genrent pas du tout, si bien que la correspondance entre les deux systemes reste approximative et qu'une traduction fidele glisse toujours un peu a cote. Ses voyelles nasales et ses lettres finales muettes, enfin, cachent au debutant la racine meme du mot qu'il apprend a prononcer.
+Il perd, devant les langues à ton du pays comme le fon ou le yoruba, la musique même du sens: là où une syllabe qui monte ou qui descend change le mot, le français, langue sans ton, ne peut que rajouter des mots pour dire la même chose, et le proverbe perd au passage son jeu de sonorités. Il attribue un genre arbitraire à des noms que ces langues ne genrent pas du tout, si bien que la correspondance entre les deux systèmes reste approximative et qu'une traduction fidèle glisse toujours un peu à côté. Ses voyelles nasales et ses lettres finales muettes, enfin, cachent au débutant la racine même du mot qu'il apprend à prononcer.
 
 ## Drives
 
-Il pousse celui qui le parle a verifier le genre de chaque nom avant de poser l'adjectif qui l'accompagne, un reflexe pris des l'enfance et jamais perdu. Il pousse a soupeser, a chaque phrase adressee a autrui, la distance sociale qu'elle doit porter, tu ou vous, avant meme de choisir les mots qui suivent. Il pousse a batir de longues phrases a subordonnees emboitees les unes dans les autres, ou l'idee principale attend, patiente, que ses idees secondaires se soient toutes deployees. Et il pousse a l'abstraction, a nommer d'un seul mot fabrique ce que d'autres langues ne disent qu'en decrivant, faisant de qui pense en francais un esprit porte vers l'idee generale.
+Il pousse celui qui le parle à vérifier le genre de chaque nom avant de poser l'adjectif qui l'accompagne, un réflexe pris dès l'enfance et jamais perdu. Il pousse à soupeser, à chaque phrase adressée à autrui, la distance sociale qu'elle doit porter, tu ou vous, avant même de choisir les mots qui suivent. Il pousse à bâtir de longues phrases à subordonnées emboîtées les unes dans les autres, où l'idée principale attend, patiente, que ses idées secondaires se soient toutes déployées. Et il pousse à l'abstraction, à nommer d'un seul mot fabriqué ce que d'autres langues ne disent qu'en décrivant, faisant de qui pense en français un esprit porté vers l'idée générale.

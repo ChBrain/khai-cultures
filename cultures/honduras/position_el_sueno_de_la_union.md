@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "The Dream of Union"
-declared: "el sueno de la union"
+declared: "el sueño de la unión"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: el sueno de la union
+# Position: el sueño de la unión
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-La idea de que Centroamerica nacio para ser una sola patria. Cuando en 1821 las provincias se desprendieron de Espana, lo hicieron juntas, y poco despues armaron una republica federal. Era el sueno de que estas tierras hermanas, de una misma lengua y una misma historia, valdrian mas unidas que partidas en republicas chicas y debiles. Honduras lo llevo metido en el pecho mas que ninguna, porque a esa causa le dio a su hijo mayor, Francisco Morazan, y al sabio que redacto el acta, Jose Cecilio del Valle. Es la postura de que la patria verdadera era mas grande que la frontera.
+La idea de que Centroamérica nació para ser una sola patria. Cuando en 1821 las provincias se desprendieron de España, lo hicieron juntas, y poco después armaron una república federal. Era el sueño de que estas tierras hermanas, de una misma lengua y una misma historia, valdrían más unidas que partidas en repúblicas chicas y débiles. Honduras lo llevó metido en el pecho más que ninguna, porque a esa causa le dio a su hijo mayor, Francisco Morazán, y al sabio que redactó el acta, José Cecilio del Valle. Es la postura de que la patria verdadera era más grande que la frontera.
 
 ## Orders
 
-Que Centroamerica se piense como una familia y no como vecinos de espaldas; que lo chico y lo debil de cada republica se entiendan como precio de aquella ruptura; y que el ejemplo de Morazan, que dio la vida por la federacion, siga llamando a la union y a poner el bien comun por encima de la division.
+Que Centroamérica se piense como una familia y no como vecinos de espaldas; que lo chico y lo débil de cada república se entiendan como precio de aquella ruptura; y que el ejemplo de Morazán, que dio la vida por la federación, siga llamando a la unión y a poner el bien común por encima de la división.
 
 ## Loses
 
-Terreno cuando el sueno se vuelve solo nostalgia y estatua, honrado en el discurso mientras las republicas siguen divididas y de pleito; y cuando la division que vencio a Morazan se repite, de modo que el pais chico queda solo y expuesto a que lo manden desde fuera, que era justo lo que la union venia a evitar.
+Terreno cuando el sueño se vuelve solo nostalgia y estatua, honrado en el discurso mientras las repúblicas siguen divididas y de pleito; y cuando la división que venció a Morazán se repite, de modo que el país chico queda solo y expuesto a que lo manden desde fuera, que era justo lo que la unión venía a evitar.
 
 ## Drives
 
-Vive en el militar y estadista que encabezo la federacion y murio por ella, y en el jurista y pensador que puso en palabras el acta de la independencia comun. Empuja a Honduras a recordar que su patria se sono mas grande que su frontera, y a medir su division de hoy contra aquel sueno de unidad.
+Vive en el militar y estadista que encabezó la federación y murió por ella, y en el jurista y pensador que puso en palabras el acta de la independencia común. Empuja a Honduras a recordar que su patria se soñó más grande que su frontera, y a medir su división de hoy contra aquel sueño de unidad.

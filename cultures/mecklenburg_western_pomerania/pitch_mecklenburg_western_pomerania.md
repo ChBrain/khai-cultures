@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Mecklenburg-Western Pomerania](play_mecklenburg_western_pomerania.md). Er bestimmt das maritime, stoische und naturverbundene Leben an der Ostseeküste.
+Die Tonart der Produktion [Mecklenburg-Vorpommern](play_mecklenburg_western_pomerania.md) - sie ändert nichts an der Hanse, nichts an 1990. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine stoische Ruhe, geprägt von norddeutscher Klarheit und hanseatischer Sachli
 
 ## Undertow
 
-Unter der stoischen Ruhe liegt eine feine Melancholie und die Sorge vor dem Abgehängtsein in den dünn besiedelten Regionen. Die Abwanderung der Jugend erzeugt Verunsicherung. Der Ton drückt das Bedürfnis aus, die maritime Lebensart, die Nationalparks und die sozialen Netzwerke gegen den Druck des Massentourismus abzusichern.
+Unter der stoischen Ruhe liegt eine feine Melancholie und die Sorge vor dem Abgehängtsein in den dünn besiedelten Regionen. Die Abwanderung der Jugend erzeugt Verunsicherung, und dahinter steht der leise Wunsch, die maritime Lebensart, die Nationalparks und die sozialen Netzwerke gegen den Druck des Massentourismus zu verteidigen.
 
 ## Nerve
 
-Der Stolz auf die unendliche Weite der Ostsee, die traditionsreichen Hansestädte und die eigene Unbeugsamkeit gegenüber den Elementen.
+Getroffen wird der Stolz, der Ostsee gewachsen zu sein, dazu die alten Hansestädte und die eigene Unbeugsamkeit.
 
 ## Echo
 
-Das Kreischen der Möwen über den Dächern von Wismar und das gleichmäßige Klopfen der Wellen an den Strandkörben : ein Echo, das weit, salzig und stoisch klingt.
+Was bleibt, ist das Kreischen der Möwen über Wismar und das Klopfen der Wellen an den Strandkörben: weit, salzig, stoisch.

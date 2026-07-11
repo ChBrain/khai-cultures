@@ -32,7 +32,7 @@ Aelon eo ej erom juon republic eo ej make jutak, im [Amata Kabua](persona_amata_
 
 - [Amata Kabua](persona_amata_kabua.md): president eo kein kajuon im iroij eo elap me ej tol aelon eo nan an make jutak.
 - [Majuro](place_majuro.md): aelon eo jikin kapitol ijo me aelon eo ej erom juon republic ie.
-- [the atolls and the Compact](position_aelon_kein_ad_im_compact.md): lemnak eo kon make jutak eo an aelon eo im kon Compact eo ej kobaik e ippan United States.
+- [aelon kein ad im compact](position_aelon_kein_ad_im_compact.md): lemnak eo kon make jutak eo an aelon eo im kon Compact eo ej kobaik e ippan United States.
 
 ## Tension
 

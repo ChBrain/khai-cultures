@@ -23,7 +23,7 @@ Alaska, the Last Frontier State in the Pacific Non-Contiguous region of the Unit
 
 ## Arc
 
-A land of subsistence traditions and resource extraction, defined by the glaciated valleys of the Arctic. From the gold wealth of the Klondike Gold Rush and the massive infrastructure of the Prudhoe Bay oil fields, to the legislative self-determination of the Alaska Native Claims Settlement Act. A culture that balances the subsistence hunting of its indigenous coastal communities with the heavy industrial transport of its pipeline corridors, even as it plans the protection of the Arctic caribou.
+Alaska runs on distances a bush plane measures better than any road, glaciers and tundra between one settlement and the next. The Klondike rush hauled in gold and cheechakos both; Prudhoe Bay's oil fields built a pipeline the length of the state; the Native Claims Settlement Act handed self-determination back to people who never needed a rush to know the land. Coastal communities still hunt by season the way their grandparents did, pipeline crews still run the corridor by shift, and both keep half an eye on the caribou herds the whole state now works to protect.
 
 ## Company
 
@@ -78,4 +78,4 @@ President Richard Nixon signs the land claims act, establishing native corporati
 
 ## Stakes
 
-Whether an arctic state experiencing heavy industrial resource extraction can successfully execute transit plans to protect migratory caribou herds.
+Whether a state built on heavy oil extraction can run its transit plans in a way the migratory caribou herds actually survive.

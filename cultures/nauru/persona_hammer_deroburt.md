@@ -2,12 +2,12 @@
 khai: persona
 title: "Hammer DeRoburt"
 declared: "Hammer DeRoburt"
-language: nau
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 type: real
 ---
 
@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[te republic ororo](position_te_republic_ororo.md)
+[the Smallest Republic](position_the_smallest_republic.md)
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-Eb me eo aen me eb founding president n Naoero, eb me eo aen me eb me eo aiwo eko eb independence n 1968 me eb fight eo aen eb phosphate rights. Eb me eo aen me eb me eo aiwo eko eb tomure aiwo n eb tongin n ekege, ma engame eb WWII me eb deportation aen Truk, eb aen me eo aiwo eko eb me eo aen me eb tongin. Eb me eo aen me eb [dorerin Naoero](position_language_nau.md) eko eb me eo aen me eb me eo aiwo: eb me eo aen me eb [speaks](process_speaking_mother_tongue.md) me eb [thinks](process_thinking_mother_tongue.md) n eb dorerin Naoero, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tomure aiwo. Eb [English](../australia/position_language_en_au.md) eko eb me eo aen me eb [carried](process_speaking_carried.md) mei eb eko aen eo eko, ma eb me eo aen me eb [followed](process_reading_followed.md) me eb [drafted](process_writing_drafted.md) eb me eo aen me eb me eo aiwo eko eb fight eo aen eb phosphate rights n eb English. Eb me eo aen me eb dorerin Naoero eko eb me eo aen me eb me eo aiwo, ma eb English eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tongin n ekege me eb mamani, eb me eo aen me eb va n eb ngata'anga n eb dorerin, eb potu eko eb me eo aiwo eko engame eb dorerin Naoero eko eb me eo aen me eb fo'ou. Eb me eo aen me eb [tomure Naoero](position_culture_tomure_naoero.md) eko eb me eo aen me eb me eo aiwo, eb sovereignty n eb independence n 1968 eko eb me eo aen me eb tomure aiwo n eb tongin n ekege.
+Nauru's founding president, who led the island to independence in 1968 and then spent years afterward pressing the case that the phosphate under it belonged to the people who lived on it, not to the commissioners administering the mine. He came of age under foreign administration and lived through the Second World War and the deportation to Chuuk, losses that shaped how hard he later argued for a republic that answered to no one else. Nauruan is his mother tongue: he [speaks](process_speaking_mother_tongue.md) and [thinks](process_thinking_mother_tongue.md) in it, the language he was raised in and never stopped using at home. English arrived [carried](process_speaking_carried.md) on the back of the administration, and it was in that borrowed tongue, [Nauruan English](position_language_en_nr.md), that he [followed](process_reading_followed.md) and [drafted](process_writing_drafted.md) the case for the phosphate rights fight, negotiating a settlement with foreign governments in their own working language. Nauruan carried his private life and his sense of home; English carried the law, the treaty text, and the money, a division of labour between the two tongues that put the island's own language at a permanent disadvantage in exactly the arenas where its future was decided. He belongs to [Nauruan Culture](position_culture_nauruan_culture.md), the sovereignty won in 1968 being, in his own life, the clearest expression of it.
 
 ## Action
 
-N eb [te republic ma te phosphate](plot_03_te_republic_phosphate.md) eb me eo aen me eb me eo aiwo eko eb independence n 1968 me eb fight eo aen eb phosphate rights, eb me eo aen me eb me eo aiwo eko eb [te republic ororo](position_te_republic_ororo.md). Eb me eo aen me eb ribanan rik n eb tongin eko eb me eo aen me eb sovereignty me eb me eo aen, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb phosphate me eb me eo aen.
+In [The Phosphate Republic](plot_03_the_phosphate_republic.md) he wins independence in 1968 and then wins the phosphate rights fight, embodying [the Smallest Republic](position_the_smallest_republic.md). A small nation claims full sovereignty over itself, and over the one resource that made claiming it worth the fight.
 
 ## Shadow
 
-Eb me eo aen me eb founding president eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb 'ata: eb mafai eko eb me eo aen me eb me eo aiwo, eb trust fund eko eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb me eo, ma eb fehu'i eko eb me eo aiwo eko engame eb ribanan rik eko eb me eo aen me eb mo'ui muri i te phosphate.
+The founding president who secured the island's independence and its own money also presided over a trust fund that would later be spent down to almost nothing, and the same self reliance that won the phosphate back could, and eventually would, leave the republic no one else to blame when the fund ran dry.
 
 ## Tell
 
-Eb me eo aen me eb me eo aiwo eko eb fight eo aen eb phosphate rights ke eb me eo aen me eb tongin n ekege, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb sovereignty me eb dorerin, eb me eo aen me eb me eo aiwo eko engame eb ribanan rik eko eb me eo aen me eb me eo aen.
+He fights the phosphate rights fight like a man who has already watched his island nearly disappear once, insisting on sovereignty in terms the world outside had to answer to, and leaving the republic a hard won independence it would spend the rest of the century learning to live inside.

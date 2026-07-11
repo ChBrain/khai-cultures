@@ -31,7 +31,7 @@ Long Gwadalkanal nao wanfala bigfala faet go on, long bus an long si an long ska
 ## Stage
 
 - [Sir Jacob Vouza](persona_vouza.md): skaut an hiro wea stap strong long bigfala faet an karem nius nomata hem safa.
-- [Guadalcanal](place_gwadalkanal.md): aelan wea kamap ples blong bigfala faet wea sentem rod blong Pasifik wo.
+- [Gwadalkanal](place_gwadalkanal.md): aelan wea kamap ples blong bigfala faet wea sentem rod blong Pasifik wo.
 - [bigfala faet na stretem](position_bigfala_faet_na_stretem.md): disfala bigfala faet wea aelan ia luksave, wea mas garem wanfala stretem bihaen.
 
 ## Tension

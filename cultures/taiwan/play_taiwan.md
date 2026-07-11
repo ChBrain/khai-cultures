@@ -15,7 +15,7 @@ stamp:
 
 ## Estate
 
-[khai-cultures](https://github.com/ChBrain/khai-cultures): the house that holds this production and answers for it.
+[khai-cultures](https://github.com/ChBrain/khai-cultures): 承擔這場製作，並對其負責的家。
 
 ## Name
 

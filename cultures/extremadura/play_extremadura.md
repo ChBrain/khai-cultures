@@ -23,7 +23,7 @@ Extremadura, comunidad autónoma y nacionalidad histórica del suroeste de Espa�
 
 ## Arc
 
-Una tierra extrema de dehesas de encinas, pastores fronterizos y honda sobriedad de secano. Desde la emigración masiva de jóvenes extremeños a las Américas en el siglo XVI que despobló los señoríos locales y el gran proyecto de colonización agrícola del Plan Badajoz en 1952, hasta las leyes de conservación de su bosque mediterráneo de dehesa. Una cultura de porqueros, labradores de pimiento y ganaderos de frontera que regula su ecosistema adehesado mediante planes de explotación sostenible.
+La dehesa enseña a esperar: bajo la sombra ancha de las encinas se cría el cerdo y se cría también la paciencia de una frontera de pastores y secano. De aquí salieron los que cruzaron el mar - la emigración masiva de jóvenes extremeños a las Américas en el siglo XVI que despobló los señoríos locales - y aquí volvió el Estado con el gran proyecto de colonización agrícola del Plan Badajoz en 1952, hasta las leyes de conservación de su bosque mediterráneo de dehesa. Una cultura de porqueros, labradores de pimiento y ganaderos de frontera que regula su ecosistema adehesado mediante planes de explotación sostenible.
 
 ## Company
 

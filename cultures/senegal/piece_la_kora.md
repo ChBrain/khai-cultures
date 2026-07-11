@@ -26,7 +26,7 @@ Entre les mains du griot, sous l'arbre à palabres, à la cérémonie et sur la 
 
 ## Load Bearing
 
-Elle porte la voix du griot et, avec elle, la mémoire du pays: sans elle, les généalogies, les louanges et les épopées qui tiennent ensemble les familles n'auraient plus leur écrin. Dans une culture où l'histoire passe par la bouche et non par le livre, la kora est l'instrument de la transmission, le fil sonore qui relie les vivants aux ancêtres. De son vieux fond est sortie une part de la musique moderne du Sénégal, et c'est par elle qu'on entend encore le coeur ancien du pays battre sous le mbalax.
+Elle porte la voix du griot et, avec elle, la mémoire du pays: sans elle, les généalogies, les louanges et les épopées qui tiennent ensemble les familles n'auraient plus leur écrin. Dans une culture où l'histoire passe par la bouche et non par le livre, la kora est l'instrument de la transmission, le fil sonore qui relie les vivants aux ancêtres. De son vieux fond est sortie une part de la musique moderne du Sénégal, et c'est par elle qu'on entend encore le cœur ancien du pays battre sous le mbalax.
 
 ## Apparent
 

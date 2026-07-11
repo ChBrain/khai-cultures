@@ -27,7 +27,7 @@ La reine qui conduisit son peuple loin de la guerre de succession ashanti, vers 
 
 ## Action
 
-Dans [le sacrifice de Pokou](plot_01_pokou.md) elle donne son fils au fleuve et fonde, par ce don, le peuple baoulé, la branche akan qui s'enracine au coeur du pays. En posant ce geste, elle lègue à la nation entière son histoire fondatrice: que la joie d'aujourd'hui a été payée d'un sacrifice d'hier, et que [le brassage](position_le_brassage.md) des peuples a commencé par une reine qui a tout donné pour faire passer les siens.
+Dans [le sacrifice de Pokou](plot_01_pokou.md) elle donne son fils au fleuve et fonde, par ce don, le peuple baoulé, la branche akan qui s'enracine au cœur du pays. En posant ce geste, elle lègue à la nation entière son histoire fondatrice: que la joie d'aujourd'hui a été payée d'un sacrifice d'hier, et que [le brassage](position_le_brassage.md) des peuples a commencé par une reine qui a tout donné pour faire passer les siens.
 
 ## Shadow
 

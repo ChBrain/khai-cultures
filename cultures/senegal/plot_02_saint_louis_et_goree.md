@@ -26,7 +26,7 @@ La mer apporte l'autre histoire. À l'embouchure du fleuve, les Européens fonde
 
 ## Action
 
-Pendant des siècles, des hommes et des femmes d'Afrique sont arrachés aux leurs et embarqués vers l'autre rive de l'océan. Gorée en garde la mémoire, sobrement et avec dignité, comme un lieu où l'on vient se recueillir et se souvenir, non pour raviver l'horreur mais pour qu'elle ne soit jamais niée. [Saint-Louis](place_saint_louis.md), elle, devient la première grande ville coloniale, capitale de l'Afrique-Occidentale française, ville métisse de commerçants, de lettrés et de signares, où le français prend pied et où naît une élite à cheval sur deux mondes. Le pays vit le temps colonial entre soumission et résistance discrète, et les confréries y tiennent les coeurs quand l'État appartient à un autre.
+Pendant des siècles, des hommes et des femmes d'Afrique sont arrachés aux leurs et embarqués vers l'autre rive de l'océan. Gorée en garde la mémoire, sobrement et avec dignité, comme un lieu où l'on vient se recueillir et se souvenir, non pour raviver l'horreur mais pour qu'elle ne soit jamais niée. [Saint-Louis](place_saint_louis.md), elle, devient la première grande ville coloniale, capitale de l'Afrique-Occidentale française, ville métisse de commerçants, de lettrés et de signares, où le français prend pied et où naît une élite à cheval sur deux mondes. Le pays vit le temps colonial entre soumission et résistance discrète, et les confréries y tiennent les cœurs quand l'État appartient à un autre.
 
 ## Stage
 

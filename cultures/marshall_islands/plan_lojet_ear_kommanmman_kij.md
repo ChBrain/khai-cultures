@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Jerbal eo elap aelon eo ej likut ippan make: bukot jowan kon baam ko me [the nuclear wound](position_kinie_baam.md) ej dapij e, bok mour jen lometo eo ej wanlontak me [the atolls and the Compact](position_aelon_kein_ad_im_compact.md) ej jutak iturin, im dapij jela eo etto an ri-jerakrok eo im kajin eo me [the navigators and the sea](position_ri_jerakrok_im_lojet.md) ej dapij e. Lojet eo ear kommanmman aelon eo, im lojet eo make ej kio kakkure e.
+Jerbal eo elap aelon eo ej likut ippan make: bukot jowan kon baam ko me [kinie baam](position_kinie_baam.md) ej dapij e, bok mour jen lometo eo ej wanlontak me [aelon kein ad im compact](position_aelon_kein_ad_im_compact.md) ej jutak iturin, im dapij jela eo etto an ri-jerakrok eo im kajin eo me [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md) ej dapij e. Lojet eo ear kommanmman aelon eo, im lojet eo make ej kio kakkure e.
 
 ## Owner
 

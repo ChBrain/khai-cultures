@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Delaware, the First State in the Mid-Atlantic region of the United States. ISO US-DE, language en.
+Delaware, the First State in the Mid-Atlantic - second-smallest in the union, first to ratify, and in no rush to let you forget it. ISO US-DE, language en.
 
 ## Arc
 
-A land of constitutional pride and business precision, defined by the tidal banks of the Delaware River. From the early political vote of the First State Constitution ratification and the industrial water mills of the DuPont gunpowder works, to the corporate filing systems of the Court of Chancery. A culture that balances the corporate chancery of its Wilmington boardrooms with the historic charter of its colonial county courts, even as it plans the protection of the Brandywine River.
+Dover, December 1787: Delaware's delegates signed the Constitution first, and the state has introduced itself as the First State ever since. It built its name on the Brandywine, where du Pont's gunpowder mills turned river current into an industrial dynasty, and later found a second trick - a General Corporation Law and a Court of Chancery precise enough that half the Fortune 500 files through one Wilmington building without blinking. Wilmington keeps the boardrooms and the bench; the lower counties keep the beaches and a slower clock, and the whole state still answers for what those mills did to the river.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of constitutional pride and business precision, defined by the tidal bank
 
 **[Plot 1: The First State Ratification 1787](plot_01_first_state.md)**
 
-Delaware delegates vote unanimously to ratify the Constitution, establishing the state as the nation's first.
+Delaware's delegates vote unanimously, sign before any other state can, and claim the name the First State has worn ever since.
 
 **[Plot 2: The DuPont Gunpowder Boom 1802](plot_02_dupont_gunpowder.md)**
 
-Eleuthère Irénée du Pont opens gunpowder mills on the Brandywine, launching an industrial dynasty.
+Éleuthère Irénée du Pont sets his gunpowder mills turning on the Brandywine's current, and an industrial dynasty starts grinding out of black powder.
 
 **[Plot 3: The Corporate Chancery Court Boom 1899](plot_03_chancery_court.md)**
 
-General Corporation Law and the Court of Chancery establish the state as a business registry and corporate hub.
+The General Corporation Law and the Court of Chancery turn a small state's paperwork into the nation's business registry of choice.
 
 ## Stakes
 
-Whether a river basin state experiencing intensive municipal growth and chemical manufacturing can successfully execute watershed plans to protect historical river valleys.
+Whether the state that turned the Brandywine into gunpowder, then chemistry, can still make good on the river before the watershed plans arrive too late.

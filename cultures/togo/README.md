@@ -23,7 +23,7 @@ Estate; a culture with no Estate is not yet a production.
   posts, the Togolese nation, and the voice of Togo - each casting the elements
   it needs, and each honoring north and south equally and the coast's harder
   passages soberly.
-- **Personas:** Felix Couchoro (the pioneer novelist), Bella Bellow (the first
+- **Personas:** Félix Couchoro (the pioneer novelist), Bella Bellow (the first
   great singing voice), King Mensah (the musician who carries the old drum
   forward), and Chief Mlapa of Togoville as the historic cast, plus one
   archetype, the Nana Benz (the matriarch wax-cloth trader of the grand market).
@@ -32,7 +32,7 @@ Estate; a culture with no Estate is not yet a production.
   the drum and the song (the beat that binds the country, from agbadza to the
   hills), and the land and the spirit (Vodun and ancestral belief, and the
   knowledge of plants, held with dignity).
-- **Places:** Lome (the seaside capital, the grand market, and Akodessewa), and
+- **Places:** Lomé (the seaside capital, the grand market, and Akodessewa), and
   Koutammakou (the land of the Batammariba and their takienta tower-houses, a
   UNESCO World Heritage landscape).
 - **Processes:** the grand market (the wax-cloth trade where north meets south),

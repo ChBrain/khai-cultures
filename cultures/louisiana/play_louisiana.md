@@ -23,7 +23,7 @@ Louisiana, the Pelican State in the Gulf Coast region of the United States. ISO 
 
 ## Arc
 
-A land of cultural synthesis and water-bound adaptation, defined by its unique French and Spanish colonial roots. From the Louisiana Purchase of 1803 and the diverse coalition that fought the Battle of New Orleans, to the devastating Great Mississippi Flood of 1927 that reshaped national flood control. A culture that prioritizes indulgence, culinary arts, and musical celebration, even as it faces coastal erosion and the disappearing wetlands of the Mississippi Delta.
+The gumbo pot got here first: French and Spanish colonial rule poured in, and Creole and Cajun came out. The Louisiana Purchase of 1803 signed the territory over, and the mixed coalition of Creoles, free men of color, pirates, and militia who beat the British at New Orleans in 1815 proved this place holds together when it counts. The Great Mississippi Flood of 1927 broke the levees and rewrote how the country handles a river. Louisiana keeps the pot on - gumbo, the horn line, the second line - even while the coast washes out from under the Delta, wetland by wetland.
 
 ## Company
 
@@ -78,4 +78,4 @@ The Mississippi River breaks its levees, flooding millions of acres, displacing 
 
 ## Stakes
 
-Whether a state built on the delta of the nation's largest river system can successfully implement massive water diversion and engineering to restore its disappearing coastal wetlands.
+Whether a state sitting on the delta of the country's biggest river can push through the water diversion and engineering it needs to hold what's left of its vanishing coastal wetlands.

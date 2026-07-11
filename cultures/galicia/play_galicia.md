@@ -23,7 +23,7 @@ Galicia, comunidad autónoma y nacionalidad histórica del noroeste de España. 
 
 ## Arc
 
-Una tierra verde, lluviosa y de profunda tradición marítima, definida por las rías del océano Atlántico y el final del Camino de Santiago. Desde el renacimiento literario y cultural del Rexurdimento de 1863 y el dolor de la gran emigración de ultramar, hasta la autonomía democrática de su Estatuto de 1981. Una cultura de pescadores de bajura, cantos orales de morriña e intensas romerías que protege la conservación de sus costas estuáricas mediante planes ecológicos.
+Depende, dicen aquí, y depende también de la lluvia y de la ría: verde, marítima, con el Camino de Santiago desembocando en su Atlántico. Desde el renacimiento literario y cultural del Rexurdimento de 1863 y el dolor de la gran emigración de ultramar, hasta la autonomía democrática de su Estatuto de 1981. Una cultura de pescadores de bajura, cantos orales de morriña e intensas romerías que protege la conservación de sus costas estuáricas mediante planes ecológicos.
 
 ## Company
 
@@ -47,6 +47,7 @@ Una tierra verde, lluviosa y de profunda tradición marítima, definida por las 
 - [la vida marítima](position_atlantic_maritime.md)
 - [la identidad gallega](position_culture_identidad_gallega.md)
 - [el español de Galicia](position_language_es_es_ga.md)
+- [o galego](position_language_gl.md)
 
 **Pieces**
 

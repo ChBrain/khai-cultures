@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Connecticut](play_connecticut.md). It tunes the thoughtful, polite, and mechanical expression of life in the Constitution State.
+The pitch of [Connecticut](play_connecticut.md). It tunes the reticent, exacting, commuter-rail voice of life in the Constitution State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Connecticut](play_connecticut.md). It tunes the thoughtful, polite
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and practical, combining historic law vocabulary with precision machining and marine engineering terms. It is a voice of law and precision - prioritizing estuary protection, cleanroom shipyard tests, and Ivy League campus preservation. This formal language shapes both the corporate finance boards and the shipyard drydocks, valuing institutional heritage and manufacturing excellence.
+Old money doesn't raise its voice here, and neither does anyone who wants to be taken seriously. Hartford's finance boards speak in the same clipped, precedent-citing register as a Groton inspector reading off weld tolerances - say it once, exactly, and let the record carry the rest. It prizes an old town charter and a hull spec with the same care. That same reserve rides the commuter rail into the city and back, at home in a boardroom and a drydock both.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the weal
 
 ## Nerve
 
-The conviction that representative constitutional law, advanced technical precision, and local watershed boards are the true anchors of a stable society.
+It plays the note that properly done outlasts fast done: law kept to precedent, steel kept to tolerance, and a watershed board that actually shows up.
 
 ## Echo
 
-The tick of a brass clock and the clang of a shipyard hammer : an echo that is clear, dry, and mechanical.
+The tick of a brass clock against the clang of a shipyard hammer - a sound dry, exact, and unhurried.

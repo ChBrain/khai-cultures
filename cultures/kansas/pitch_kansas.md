@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Kansas](play_kansas.md). It tunes the thoughtful, polite, and mechanical expression of life in the Sunflower State.
+The pitch of [Kansas](play_kansas.md). It tunes the plainspoken, wheat-and-rivet voice of life in the Sunflower State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Kansas](play_kansas.md). It tunes the thoughtful, polite, and mech
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining wheat farming vocabulary with aviation design and fuselage assembly terms. It is a voice of plains and aviation - prioritizing aquifer protection plans, cleanroom rivet tests, and historic hangar preservation. This formal language shapes both the aircraft factories and the farm cooperatives, valuing family labor and technical competence.
+Kansas talks the way a wheat farmer reads the sky before a storm: plain, watchful, and exact. Wheat-farming vocabulary sits easy next to aviation design and fuselage-assembly terms, the same care given to a combine as to a rivet gun. It is a voice of plains and aviation, close to aquifer protection plans and hangar rivet tests as it is to the wheat co-op's spring meeting. This steady language shapes both the aircraft factories and the farm cooperatives, valuing family labor and technical competence in equal measure.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local agricultural boards are the true anchors of a stable society.
+It plays the flat, sure chord of the family that works the land together and the crew that builds an aircraft to outlast any storm: shared family labor, hard-won technical competence, and a local board that answers to the wheat field and the hangar floor alike, holding the state together through drought, wind, and whatever else the horizon brings.
 
 ## Echo
 
-The squeal of a combine harvester and the rattle of a pneumatic rivet gun : an echo that is loud, dry, and mechanical.
+The squeal of a combine harvester crossing the wheat and the rattle of a pneumatic rivet gun in the hangar, loud and dry across a horizon that never quite ends.

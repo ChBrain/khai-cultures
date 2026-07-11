@@ -21,7 +21,7 @@ The pitch of [Pennsylvania](play_pennsylvania.md). It tunes the welcoming, plain
 
 ## Tenor
 
-A welcoming, plain-spoken, and grounded tone. The communication is direct, practical, and unpretentious, emphasizing hard work, common sense, and community stability. It is a voice of labor and law - prioritizing industrial production, historical preservation, and neighborhood ties. This steady language shapes both the historic squares of Philadelphia and the steel valleys of the west, valuing consensus and physical labor.
+Talk here doesn't dress up. Straight, practical, short on flourish, it favors hard work, common sense, and a steady neighborhood over any big claim. It is a voice of labor and law - built on industrial production, historic preservation, and the ties between one row house and the next. That plain language runs the same in Philadelphia's historic squares as in the steel valleys out west, where consensus and a full day's work still count for more.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the pragmatism lies a deep-seated caution and a suspicion of rapid economi
 
 ## Nerve
 
-The conviction that physical production, manufacturing skill, and mutual tolerance are the true anchors of social stability and national strength.
+What steadies a society, this state insists, is finished work, skill passed hand to hand, and tolerance for the neighbor who thinks otherwise.
 
 ## Echo
 
-The hum of a factory floor and the quiet silence of a brick meetinghouse : an echo that is heavy, steady, and tolerant.
+The hum of a factory floor meeting the quiet of a brick meetinghouse: heavy, steady, tolerant - the sound this state leaves behind.

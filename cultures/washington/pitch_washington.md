@@ -21,7 +21,7 @@ The pitch of [Washington](play_washington.md). It tunes the thoughtful, informal
 
 ## Tenor
 
-A thoughtful, informal, and innovative tone. The communication is direct, collaborative, and conversational, reflecting start-up software culture, coffee-house meetings, and environmental values. It is a voice of engineering and ecology - prioritizing software development, global shipping logistics, and native salmon preservation. This informal language shapes both the research campuses of Redmond and the orchards of Yakima, valuing technical skill and environmental stewardship.
+Washingtonians get to the point without much ceremony, trading ideas over coffee as easily as over a standup meeting. Start-up software culture, coffee-house meetings, and environmental values all run through the same direct, collaborative talk - evergreen pragmatism more than polish. It is a voice of engineering and ecology, given over to software development, global shipping logistics, and native salmon preservation. That same unpretentious language runs through the research campuses of Redmond and the orchards of Yakima alike, valuing technical skill and environmental stewardship over show.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the tech optimism lies a persistent economic polarization between the high
 
 ## Nerve
 
-The conviction that technological innovation, global trade connectivity, and environmental protection are the true drivers of a sustainable society.
+Technological innovation, global trade connectivity, and environmental protection - Washington treats these three as what actually drives a society that can sustain itself.
 
 ## Echo
 
-The hiss of an espresso machine and the call of a gull over a misty harbor dock : an echo that is damp, cool, and innovative.
+The hiss of an espresso machine, the call of a gull over a misty harbor dock - damp, cool, and always building something new.

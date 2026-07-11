@@ -34,4 +34,4 @@ Cela tient à la vie nomade qui disperse les familles toute l'année et n'a que 
 
 ## Echo
 
-Le Gerewol rend visible ce que porte [l'hospitalité sahélienne](position_l_hospitalite.md): que la fête se partage et que les liens se renouent dans la joie, même au coeur de la brousse. Il rappelle aussi, dans la beauté tenue et la retenue de ses danseurs, la grandeur que le pays met dans la mesure plutôt que dans l'éclat.
+Le Gerewol rend visible ce que porte [l'hospitalité sahélienne](position_l_hospitalite.md): que la fête se partage et que les liens se renouent dans la joie, même au cœur de la brousse. Il rappelle aussi, dans la beauté tenue et la retenue de ses danseurs, la grandeur que le pays met dans la mesure plutôt que dans l'éclat.

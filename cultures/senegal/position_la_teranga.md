@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-L'éthique d'accueil qui tient lieu de carte d'identité au Sénégal: ce mot wolof qui dit l'hospitalité, mais bien plus que cela, le devoir d'ouvrir sa porte, son plat et son coeur à qui passe. L'hôte est sacré, on le nourrit avant de manger, on partage le même bol, on ne laisse pas le voisin dormir le ventre vide. C'est la conviction qu'un homme ne vaut que par sa façon de recevoir, qu'on est plus riche de ce qu'on donne que de ce qu'on garde, et qu'un pays pauvre en argent peut être le plus riche du monde en hommes. Le Sénégal se dit lui-même le pays de la teranga, et il en a fait son honneur.
+L'éthique d'accueil qui tient lieu de carte d'identité au Sénégal: ce mot wolof qui dit l'hospitalité, mais bien plus que cela, le devoir d'ouvrir sa porte, son plat et son cœur à qui passe. L'hôte est sacré, on le nourrit avant de manger, on partage le même bol, on ne laisse pas le voisin dormir le ventre vide. C'est la conviction qu'un homme ne vaut que par sa façon de recevoir, qu'on est plus riche de ce qu'on donne que de ce qu'on garde, et qu'un pays pauvre en argent peut être le plus riche du monde en hommes. Le Sénégal se dit lui-même le pays de la teranga, et il en a fait son honneur.
 
 ## Orders
 

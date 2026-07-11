@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La grande ville sur la lagune Ébrié, le poumon économique du pays, qu'on appelle la Manhattan d'Afrique de l'Ouest. Le Plateau et ses tours qui se mirent dans l'eau, le coeur des affaires; Treichville, populaire et frondeuse, ou la nuit ne s'éteint jamais; Cocody la chic, Yopougon la bouillonnante, Adjamé et son grand marché. Les ponts qui cousent les rives, les gbakas et les taxis, le nouchi qui chauffe le bitume, et partout les maquis sous les ampoules nues ou cogne la musique. La ville ou tout le pays vient chercher sa chance.
+La grande ville sur la lagune Ébrié, le poumon économique du pays, qu'on appelle la Manhattan d'Afrique de l'Ouest. Le Plateau et ses tours qui se mirent dans l'eau, le cœur des affaires; Treichville, populaire et frondeuse, ou la nuit ne s'éteint jamais; Cocody la chic, Yopougon la bouillonnante, Adjamé et son grand marché. Les ponts qui cousent les rives, les gbakas et les taxis, le nouchi qui chauffe le bitume, et partout les maquis sous les ampoules nues ou cogne la musique. La ville ou tout le pays vient chercher sa chance.
 
 ## Holds
 

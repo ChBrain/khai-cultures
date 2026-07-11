@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Bremen, die Freie Hansestadt und das kleinste Bundesland der Bundesrepublik Deutschland. ISO DE-HB, Sprache de.
+Bremen, die Freie Hansestadt an der Weser, klein an Fläche und gross im Selbstbewusstsein. ISO DE-HB, Sprache de.
 
 ## Arc
 
-Eine stolze Hansestadt, die seit Jahrhunderten ihre Unabhängigkeit verteidigt, versinnbildlicht durch den steinernen Roland auf dem Marktplatz. Eine Seefahrernation an der Weser, die durch die Gründung Bremerhavens den Zugang zum Weltmeer sicherte und zum Tor der Auswanderer wurde. Ein Ort des bürgerlichen Fleißes und der maritimen Logistik, wo alte Hafenarbeiter und moderne Spediteure die Tradition des Welthandels fortführen.
+Der Roland auf dem Marktplatz steht seit 1404 mit gezücktem Schwert und wacht über eine Unabhängigkeit, die diese Hansestadt seit Jahrhunderten verteidigt. Buten un binnen, wagen un winnen: draußen wie drinnen muss man wagen, um zu gewinnen, und aus diesem Wagemut wuchs mit Bremerhaven das Tor zum Weltmeer und zur Auswanderung. Hafenarbeiter und Spediteure führen bis heute fort, was der Roland bewacht: den Hansestolz auf kleinstem Raum.
 
 ## Company
 
@@ -78,4 +78,4 @@ Bürgermeister Smidt erwirbt Land an der Wesermündung, um einen Tiefwasserhafen
 
 ## Stakes
 
-Die Behauptung der politischen und finanziellen Eigenständigkeit als kleinster Zwei-Städte-Staat Deutschlands inmitten des wirtschaftlichen Strukturwandels.
+Ob der kleinste Zwei-Städte-Staat Deutschlands seine politische und finanzielle Eigenständigkeit behauptet, wenn der wirtschaftliche Strukturwandel grössere Nachbarn begünstigt und die kleine Hansestadt an ihre Grenzen bringt.

@@ -27,7 +27,7 @@ Em i man bilong katim ol piksa long diwai long Sepik, em i bikpela wara i pulap 
 
 ## Action
 
-Long [the first gardeners](plot_01_ol_namba_wan_gaden.md) em i sanapim haus tambaran na katim ol piksa long diwai i bihainim [wantok na kastom](position_wantok_na_kastom.md), na em i holim save bilong tumbuna long art bilong Sepik. Long karim dispela save i go daun long ol pikinini, em i mekim olsem art na kastom bilong tumbuna i stap yet.
+Long [ol namba wan gaden](plot_01_ol_namba_wan_gaden.md) em i sanapim haus tambaran na katim ol piksa long diwai i bihainim [wantok na kastom](position_wantok_na_kastom.md), na em i holim save bilong tumbuna long art bilong Sepik. Long karim dispela save i go daun long ol pikinini, em i mekim olsem art na kastom bilong tumbuna i stap yet.
 
 ## Shadow
 

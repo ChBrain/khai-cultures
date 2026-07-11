@@ -21,16 +21,16 @@ El tono de [Andalucía](play_andalusia.md). Define la expresión cálida, expres
 
 ## Tenor
 
-Un tono cálido, expresivo y narrativo. La comunicación es conversacional, poética y cortés, combinando el vocabulario del cultivo del olivo y las almazaras con términos del cante jondo y la guitarrería artesanal. Es la voz del campo y del tablao, que prioriza planes de riego del Guadalquivir, asambleas de cooperativas de aceite y actas de sindicatos agrarios. Este lenguaje formal guía tanto a las juntas de regantes como a los comités de jornaleros, valorando la lealtad familiar y el apoyo mutuo vecinal.
+Aquí manda la gracia antes que el protocolo: la voz sube y baja como un compás de soleá, se adorna con metáfora y no le teme al silencio cuando asoma el duende. Es el habla del olivar y del tablao, que convierte un plan de riego del Guadalquivir en relato y una asamblea de la cooperativa de aceite en fiesta de palabras. Ese mismo desparpajo recorre tanto las juntas de regantes como los comités de jornaleros, donde pesa más la lealtad de sangre y el apoyo del vecino que la letra del acta.
 
 ## Undertow
 
-Bajo la calidez y la sociabilidad abierta late una polarización geográfica persistente entre las costas turísticas urbanas y las extensas llanuras agrícolas del interior de grandes fincas de secano. Este reparto desigual de recursos alimenta debates sobre el subsidio agrario y los derechos de agua, donde los regadíos intensivos de exportación chocan con el instinto protector de los pequeños agricultores por sus pozos tradicionales.
+Bajo la gracia y la fiesta permanece abierta la vieja grieta entre la costa que vive del turismo y el interior de grandes cortijos de secano, donde el jornalero sigue mirando la tierra que trabaja sin poseer. El reparto desigual del agua y del subsidio agrario alimenta el pleito de siempre: los regadíos de exportación avanzan mientras el pequeño agricultor se aferra a su pozo y a su parcela como quien defiende lo último que le queda.
 
 ## Nerve
 
-La convicción de que la solidaridad del grupo de jornaleros, la ayuda mutua en el pueblo ante las sequías y el respeto por los acuerdos de la almazara cooperativa local son las verdaderas anclas de una sociedad estable.
+La certeza de que la solidaridad entre jornaleros, la ayuda mutua del pueblo cuando llega la sequía y el respeto por lo pactado en la almazara cooperativa sostienen a una comunidad mejor que cualquier ley escrita.
 
 ## Echo
 
-El repique de unas castañuelas de madera y el zumbido de una prensa de aceite en funcionamiento : un eco cálido, seco y expresivo.
+Queda el repique de las castañuelas y el zumbido constante de la prensa de aceite, un eco cálido, seco y expresivo que se resiste a callar.

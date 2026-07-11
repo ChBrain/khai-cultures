@@ -21,16 +21,16 @@ El tono de [Cantabria](play_cantabria.md). Define la expresión conversacional, 
 
 ## Tenor
 
-Un tono serio, franco y directo. La comunicación es conversacional, pausada y estructurada en relatos, combinando el vocabulario de la pesca de bajura y las conserveras de pescado con términos de la ganadería vacuna y la administración de juntas de valles tradicionales. Es la voz del pescador costero y de la ganadera pasiega, que prioriza planes de saneamiento costero de rías, actas de juntas de pastos de montaña y estatutos de cooperativas lácteas locales. Este lenguaje formal guía tanto a las juntas de ganaderos como a las asambleas de la cofradía, valorando la lealtad al colectivo familiar y la sobriedad en el trato.
+Se habla con la franqueza directa de quien vive donde la montaña baja hasta mojarse los pies en el mar, sin gastar palabras de más. Es la voz del pescador de bajura y de la ganadera pasiega, que mezcla el vocabulario de la conservera con el de la junta de pastos de valle, y que lleva ese mismo tono sobrio a la asamblea de cofradía y a la reunión de ganaderos. Manda la lealtad al colectivo familiar y un orgullo callado que no necesita hacerse notar.
 
 ## Undertow
 
-Bajo la seriedad y el ritmo del litoral late una polarización demográfica y económica persistente entre la llanura de servicios costera de Santander y las cabañas ganaderas de los valles del interior en proceso de despoblación. Este desigual reparto de recursos alimenta debates sobre los planes de saneamiento y el uso del suelo rústico, donde el desarrollo hotelero de playa choca con el instinto protector de los campesinos por sus praderas tradicionales.
+Bajo la seriedad del litoral sigue abierta la distancia entre Santander, que vive de los servicios costeros, y las cabañas ganaderas de los valles del interior, que se vacían poco a poco. El saneamiento de las rías y el uso del suelo rústico reavivan el pleito de siempre: el desarrollo hotelero de playa avanza mientras el campesino de valle defiende su pradera como quien guarda lo último que le queda de la montaña.
 
 ## Nerve
 
-La convicción de que el esfuerzo continuado en las laderas de montaña, el respeto por las costumbres comunales de valle tradicionales y la lealtad a los pactos de palabra de pueblo son las verdaderas anclas de una sociedad estable.
+La certeza de que el esfuerzo sostenido en las laderas de montaña, el respeto por las costumbres comunales de valle y la lealtad a la palabra dada de pueblo sostienen a una comunidad mejor que ninguna otra cosa.
 
 ## Echo
 
-El sonido rítmico del viento del norte agitando el agua del puerto y el murmullo rítmico de un motor de ordeñadora en una cabaña pasiega : un eco claro, grave y pausado.
+Queda el viento del norte agitando el agua del puerto y el murmullo de una ordeñadora en una cabaña pasiega, un eco claro, grave y pausado como el propio orgullo callado de la montaña.

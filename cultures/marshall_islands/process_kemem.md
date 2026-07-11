@@ -34,4 +34,4 @@ Ej itok jen aikuj eo an juon aelon eo ej dapij doon im ej dapij bwij eo bwe en e
 
 ## Echo
 
-Kemem ej kalikkar men eo [the navigators and the sea](position_ri_jerakrok_im_lojet.md) ej aikuj e: juon wawein nan kobaik bwij eo im jukjuk in pad eo im nan kalikkar bwe armej eo ej jab make iam. Nan kemem in [lerooj](persona_lerooj.md) eo ej itok im ej dapij kautiej eo an bwij eo, im ej kojeraik epepen eo ej itok.
+Kemem ej kalikkar men eo [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md) ej aikuj e: juon wawein nan kobaik bwij eo im jukjuk in pad eo im nan kalikkar bwe armej eo ej jab make iam. Nan kemem in [lerooj](persona_lerooj.md) eo ej itok im ej dapij kautiej eo an bwij eo, im ej kojeraik epepen eo ej itok.

@@ -26,7 +26,7 @@ Au XVIIIe siècle, une querelle de succession déchire le royaume ashanti, et un
 
 ## Action
 
-Selon la légende portée de bouche en bouche par les griots, les devins déclarent que le fleuve ne s'ouvrira qu'au prix de ce qu'il y a de plus précieux. La reine Abla Pokou prend alors son propre enfant et le donne au fleuve; les eaux se retirent, ou bien des hippopotames, dit-on, forment un pont, et le peuple passe sur l'autre rive. Au moment du don, la reine ne crie qu'un mot, "Ba-ou-li", l'enfant est mort, et de ce cri le peuple tire son nom: les Baoulé. Cette branche akan s'enracine alors au coeur du pays et y fonde ses villages, mêlant son sang et sa langue à la terre nouvelle.
+Selon la légende portée de bouche en bouche par les griots, les devins déclarent que le fleuve ne s'ouvrira qu'au prix de ce qu'il y a de plus précieux. La reine Abla Pokou prend alors son propre enfant et le donne au fleuve; les eaux se retirent, ou bien des hippopotames, dit-on, forment un pont, et le peuple passe sur l'autre rive. Au moment du don, la reine ne crie qu'un mot, "Ba-ou-li", l'enfant est mort, et de ce cri le peuple tire son nom: les Baoulé. Cette branche akan s'enracine alors au cœur du pays et y fonde ses villages, mêlant son sang et sa langue à la terre nouvelle.
 
 ## Stage
 

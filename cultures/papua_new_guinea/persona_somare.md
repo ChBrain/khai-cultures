@@ -27,7 +27,7 @@ Man bilong Sepik, em i kamap namba wan Praim Minista bilong Papua Niugini na ol 
 
 ## Action
 
-Long [independence and the Melanesian Way](plot_03_independens_na_melanesian_we.md) em i holim ol planti lain wantaim na bringim ol long [planti tok, wanpela kantri](position_language_tpi.md), na em i kisim independens long 1975 na sanap olsem namba wan Praim Minista. Long bringim ol planti tok ples long wanpela kantri, em i givim Papua Niugini as bilong em olsem wanpela nesen.
+Long [independens na Melanesian We](plot_03_independens_na_melanesian_we.md) em i holim ol planti lain wantaim na bringim ol long [planti tok, wanpela kantri](position_language_tpi.md), na em i kisim independens long 1975 na sanap olsem namba wan Praim Minista. Long bringim ol planti tok ples long wanpela kantri, em i givim Papua Niugini as bilong em olsem wanpela nesen.
 
 ## Shadow
 

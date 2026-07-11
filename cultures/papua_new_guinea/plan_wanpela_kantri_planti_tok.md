@@ -27,7 +27,7 @@ Holim dispela kantri wantaim, taim em i gat planti tok ples na planti lain, long
 
 ## Orders
 
-- Long [the big-man](persona_bikman.md): holim wantok na kastom strong long ples, tasol no larim pasin bilong wantok go insait long gavman na kamapim trabel.
+- Long [bikman](persona_bikman.md): holim wantok na kastom strong long ples, tasol no larim pasin bilong wantok go insait long gavman na kamapim trabel.
 - Long [Bernard Narokobi](persona_narokobi.md): holim tingting bilong Melanesian We strong, na no larim mani na pawa senisim em long tok nating.
 - Long kantri: holim ol planti tok ples wantaim long Tok Pisin na long wantok, na bekim gut askim bilong Bougainville long pasin bilong wanbel.
 

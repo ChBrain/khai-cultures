@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-Le Niger, vaste pays sans mer au coeur du Sahel, accroché au grand fleuve qui lui donne son nom et qui passe à Niamey, ouvert au nord sur le Sahara, le massif de l'Aïr et la ville d'Agadez. Code ISO NE, langue de travail le français, mais c'est en hausa, en zarma-songhaï, en tamasheq, en fulfulde, en kanuri et en toubou que le pays cause vraiment. Une terre de sable et de mil où les hommes du fleuve, ceux de la brousse et ceux des dunes se partagent un même horizon.
+Le Niger, vaste pays sans mer au cœur du Sahel, accroché au grand fleuve qui lui donne son nom et qui passe à Niamey, ouvert au nord sur le Sahara, le massif de l'Aïr et la ville d'Agadez. Code ISO NE, langue de travail le français, mais c'est en hausa, en zarma-songhaï, en tamasheq, en fulfulde, en kanuri et en toubou que le pays cause vraiment. Une terre de sable et de mil où les hommes du fleuve, ceux de la brousse et ceux des dunes se partagent un même horizon.
 
 ## Arc
 

@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Saxony-Anhalt"
+title: "Sachsen-Anhalt"
 description: "Sachsen-Anhalt inszeniert: das Land von Luther und Bauhaus, geprägt von Chemieparks und Magdeburger Börde."
-declared: "Saxony-Anhalt"
+declared: "Sachsen-Anhalt"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: Saxony-Anhalt
+# Play: Sachsen-Anhalt
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Saxony-Anhalt, das Bundesland Sachsen-Anhalt im Herzen Deutschlands. ISO DE-ST, Sprache de.
+Sachsen-Anhalt, das Land der Reformation und des Bauhauses im Herzen Deutschlands. ISO DE-ST, Sprache de.
 
 ## Arc
 
-Das Kernland der protestantischen Reformation durch das Wirken Martin Luthers in Wittenberg. Die Heimat der architektonischen Moderne durch das Bauhaus in Dessau. Nach der Wende 1990 als Bundesland wiedererrichtet, verbindet die Region die fruchtbare Landwirtschaft der Magdeburger Börde mit dem bedeutenden industriellen Erbe der mitteldeutschen Chemieparks in Leuna und Bitterfeld.
+Hier widersprach 1517 ein Mönch in Wittenberg der Kirche und löste die Reformation aus, und dieser Standhaftigkeit blieb das Land treu. Aus demselben Geist entwarf das Bauhaus in Dessau die Moderne, klar wie die karge Erde. 1990 als Land neu gefügt aus Halle und Magdeburg, verbindet die Region die Börde mit dem Erbe der Chemieparks Leuna und Bitterfeld.
 
 ## Company
 
@@ -78,4 +78,4 @@ Nach dem Ende der DDR wird das Land Sachsen-Anhalt aus den ehemaligen Bezirken H
 
 ## Stakes
 
-Die ökologische Sanierung und der CO2-neutrale Umbau der traditionellen Chemieindustrie bei gleichzeitiger Förderung des Tourismus und der ländlichen Räume.
+Ob die traditionelle Chemieindustrie sich ökologisch sanieren und CO2-neutral umbauen lässt, während zugleich Tourismus und ländlicher Raum gestärkt werden.

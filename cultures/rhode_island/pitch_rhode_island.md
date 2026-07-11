@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Rhode Island](play_rhode_island.md). It tunes the thoughtful, polite, and mechanical expression of life in the Ocean State.
+The pitch of [Rhode Island](play_rhode_island.md). It tunes the careful, contrarian, boatyard-precise voice of life in the smallest state in the union.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Rhode Island](play_rhode_island.md). It tunes the thoughtful, poli
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining sailboat building vocabulary with clam harvesting and colonial charter terms. It is a voice of craft and estuaries - prioritizing bay protection plans, cleanroom water quality tests, and historic boatyard preservation. This formal language shapes both the yacht building cooperatives and the conservation boards, valuing family heritage and technical competence.
+Small state, particular voice - careful, courteous, and exact, the way a boatwright talks about tight tolerances. The talk mixes sailboat-building vocabulary with clam harvesting and colonial charter terms, conversational until it turns formal, and it likes a story better than a slogan. It is a voice of craft and estuaries - prioritizing bay protection plans, close water quality testing, and historic boatyard preservation. That same formal register shapes the yacht-building cooperatives and the conservation boards alike, valuing family heritage and hands-on competence.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local fishery boards are the true anchors of a stable society.
+What this state banks on is shared family labor, hard-won technical skill, and respect for the local fishery board - the things that keep a small society steady.
 
 ## Echo
 
-The rattle of a fiberglass spray gun and the wash of waves on a sailboat hull : an echo that is clear, wet, and mechanical.
+The rattle of a fiberglass spray gun meeting the wash of waves on a hull: clear, wet, precise - the sound this small state answers to.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [North Dakota](play_north_dakota.md). It tunes the thoughtful, polite, and mechanical expression of life in the Flickertail State.
+The pitch of [North Dakota](play_north_dakota.md). It tunes the level, plainspoken, weather-tested expression of life in the Flickertail State.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [North Dakota](play_north_dakota.md). It tunes the thoughtful, poli
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining oil drilling vocabulary with wheat harvesting and dam engineering terms. It is a voice of plains and drill rigs - prioritizing reservoir management plans, cleanroom spectrometer tests, and historic elevator preservation. This formal language shapes both the grain cooperatives and the conservation boards, valuing family labor and technical competence.
+Could be worse - that's the whole verdict a North Dakotan hands down on a fifty-below morning or a hailed-out wheat crop, and there's no higher compliment going. The talk runs low, even, unhurried: a bushel count and a well depth carry the same flat weight as the weather, and grain-elevator arithmetic sits easy beside drilling-log shorthand, since the state counts both ways. What earns standing is family labor kept up and a job done right, said plainly at the co-op meeting or the conservation board, not said twice.
 
 ## Undertow
 
-Under the hospitality lies a persistent geographic polarization between the rapidly expanding western oil patch and the agricultural eastern valleys. This resource divide breeds debates over deep-well groundwater pumping and watershed regulations, where state-led developmental projects are met with local protective instincts for traditional farm properties.
+Under the good manners runs a divide between the oil patch filling up fast out west and the wheat counties working the same ground their grandparents broke out east. It surfaces over groundwater - who gets to pump it, who answers for what's left in the watershed after - with the state's development plans met by a farmer's refusal to hurry for anybody's boom.
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local agricultural boards are the true anchors of a stable society.
+That a family keeps its word, a job gets done right, and the county board's say still counts for something - that's what this place figures holds a hard, weather-dependent life together.
 
 ## Echo
 
-The hum of an oil rig pumpjack and the roar of a combine harvester : an echo that is loud, dry, and mechanical.
+A pumpjack's slow hum under the wind, a combine's roar cutting one more field before the weather turns - dry, steady, and running on its own good time.

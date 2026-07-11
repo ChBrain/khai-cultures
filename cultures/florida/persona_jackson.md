@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old aerospace engineer in Cocoa Beach. English, the [Floridian English](position_language_en_us_fl.md) spoken with a relaxed southern cadence, is his mother tongue, in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the true voice of his life. He speaks no foreign languages. Yet the loss lies in the seam: The slower, history-oriented narratives of guides like Mateo and the fragile, slow-moving ecosystem of the wetlands [he reads only as environmental safety metrics](process_reading_followed.md) on his launch dashboard, feeling that the physical truth of the coast is being treated as a secondary constraint in the race for orbital delivery. He belongs to [the Sunshine State](position_culture_sunshine_state.md) as the engineer who trusts the next launch window over the last century of coastline.
+A thirty-eight-year-old aerospace engineer in Cocoa Beach. English, the [Floridian English](position_language_en_us_fl.md) spoken with a relaxed southern cadence, is his mother tongue, in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the true voice of his life. He speaks no foreign languages. But there's a signal he tunes out: the slower, history-minded narratives of guides like Mateo and the fragile, slow-moving wetlands [register with him only as environmental safety metrics](process_reading_followed.md) on his launch dashboard, and he can treat the coast's physical truth as one more constraint standing between him and the next window. He is part of [the Sunshine State](position_culture_sunshine_state.md), the engineer half of it that trusts the next launch over the last century of coastline.
 
 ## Action
 

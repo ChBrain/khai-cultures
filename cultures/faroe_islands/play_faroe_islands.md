@@ -76,4 +76,4 @@ Bretar hersita Føroyar undir seinna heimsbardaga, meðan Danmark er hersett av 
 
 ## Stakes
 
-Um ein lítil oyggjatjóð, bygd av havinum og av sínum egna máli, kann halda fast í heimastýri, mál og felagsskap, tá stórur heimur og nýggj tíð koma nærri.
+Um ein lítil oyggjatjóð, bygd av havinum og av sínum egna máli, kann halda fast í heimastýri, mál, kvæði og gomlu siðir sum grindin, tá stórur heimur dømir hart um teirra egnu vegir.

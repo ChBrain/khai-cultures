@@ -26,7 +26,7 @@ stamp:
 
 ## Action
 
-[Sarraounia Mangou](persona_sarraounia.md) choisit de défendre les siens et leur terre. Reine respectée pour son savoir et crainte pour ses pouvoirs, elle rassemble son peuple autour d'elle et oppose à l'épreuve la fermeté de celle qui ne plie pas. Son nom entre dans la mémoire du pays comme celui d'une figure de la dignité sahélienne, et il sera plus tard rendu au pays tout entier par la plume de [Abdoulaye Mamani](persona_mamani.md), qui en fera le coeur d'un roman.
+[Sarraounia Mangou](persona_sarraounia.md) choisit de défendre les siens et leur terre. Reine respectée pour son savoir et crainte pour ses pouvoirs, elle rassemble son peuple autour d'elle et oppose à l'épreuve la fermeté de celle qui ne plie pas. Son nom entre dans la mémoire du pays comme celui d'une figure de la dignité sahélienne, et il sera plus tard rendu au pays tout entier par la plume de [Abdoulaye Mamani](persona_mamani.md), qui en fera le cœur d'un roman.
 
 ## Stage
 

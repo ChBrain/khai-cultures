@@ -34,4 +34,4 @@ Li mache sou bezwen yon rit ki rasanble kominote a nan mizik ak nan lafwa, yon f
 
 ## Echo
 
-Rara a fè wè sa [nanm Vodou ak kreyòl la](position_vodou_ak_kreyol.md) ye: kilti mas la k ap mache nan lari a, fyè epi vivan. Nan tanbou ak nan danse sa a, menm jan [the peasant farmer](persona_abitan.md) sèvi lwa yo epi kenbe tè a, kominote a pote nanm nasyon an nan gran jou.
+Rara a fè wè sa [nanm Vodou ak kreyòl la](position_vodou_ak_kreyol.md) ye: kilti mas la k ap mache nan lari a, fyè epi vivan. Nan tanbou ak nan danse sa a, menm jan [abitan an](persona_abitan.md) sèvi lwa yo epi kenbe tè a, kominote a pote nanm nasyon an nan gran jou.

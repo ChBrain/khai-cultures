@@ -21,7 +21,7 @@ The pitch of [Oklahoma](play_oklahoma.md). It tunes the thoughtful, informal, an
 
 ## Tenor
 
-A thoughtful, informal, and narrative tone. The communication is conversational, polite, and story-driven, combining oil drilling vocabulary with rivercane weaving and prairie terms. It is a voice of plains and sovereignty - prioritizing soil conservation plans, cleanroom drilling tests, and tribal archive preservation. This narrative language shapes both the petroleum fields and the Cherokee heritage centers, valuing family determination and community resilience.
+Oklahoma talks the way it tells a story around a fire: conversational, unhurried, circling back before it gets to the point. The communication is conversational, polite, and story-driven, combining oil drilling vocabulary with rivercane weaving and prairie terms. It is a voice of plains and sovereignty - prioritizing soil conservation plans, rig pressure tests, and tribal archive preservation. This narrative language shapes both the petroleum fields and the Cherokee heritage centers, valuing family determination and community resilience.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the friendliness lies a persistent geographic polarization between the exp
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for sovereign tribal heritage are the true anchors of a stable society.
+It plays the note that family labor, technical competence, and respect for sovereign tribal heritage hold a society up, none of the three able to spare the others.
 
 ## Echo
 
-The rhythmic squeak of a pumpjack and the rustle of rivercane along the creek : an echo that is loud, dry, and narrative.
+The rhythmic squeak of a pumpjack meets the rustle of rivercane along the creek - a sound loud, dry, and unhurried in the telling.

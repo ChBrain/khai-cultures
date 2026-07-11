@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Ohio](play_ohio.md). It tunes the earnest, industrious, and moderate expression of life in the heartland.
+The pitch of [Ohio](play_ohio.md). It tunes the plainspoken, hard-working, split-the-difference expression of life lived square in the middle of the country.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [Ohio](play_ohio.md). It tunes the earnest, industrious, and modera
 
 ## Tenor
 
-An earnest, industrious, and moderate tone. The communication is plain-spoken, friendly, and practical, reflecting Midwestern agrarian roots and working-class pride. It is a voice of labor and neighborhood - prioritizing manufacturing skill, community stability, and municipal compromise. This grounded language shapes both the industrial valleys of Cleveland and the flat farmland of the west, valuing common sense and mutual help.
+Say it plain and mean it - that's Ohio's whole style of talk. "Can't complain" means fine, and nobody makes you say more than that. It's the voice of the shift floor and the church potluck alike: a handshake that settles the deal, a nod that closes the job, no flourish spent on either one. Ohio's long been the place companies test a product before they'll risk it on the rest of the country, and it knows that about itself - if it plays here, it'll play anywhere. Talk runs from the weather to the crop or the plant to the family, and settles a dispute the way neighbors settle a fence line: split the difference and get back to work.
 
 ## Undertow
 
-Under the moderation lies a persistent anxiety over economic decline and post-industrial identity. The memory of sudden factory closures and population loss in the manufacturing hubs breeds a defensive caution. This economic vulnerability creates a cultural and political divide between expanding university towns and struggling factory valleys, where residents remain highly suspicious of transition plans that threaten remaining industrial jobs.
+Under the moderate front runs a real fear of being counted out again. Whole towns still remember the week the plant announced it was closing and never said why, and that memory has taught a hard-earned caution about anybody's next big plan. It opens a real divide between the college towns doing fine and the factory valleys still waiting on a second act, and it makes people suspicious, with good reason, of any transition plan that shows up without a job attached to it.
 
 ## Nerve
 
-The conviction that physical production, manual competence, and stable local communities are the true anchors of a successful society.
+It runs on making something with your hands and trusting the neighbor who makes something with his - the plain belief that a paid-off house, a steady trade, and a block that looks out for its own will hold a life up better than any bigger promise going around.
 
 ## Echo
 
-The clatter of an assembly line and the chatter of a crowded county fair grandstand : an echo that is steady, grounded, and industrious.
+An assembly line finding its rhythm, and a county fair grandstand hollering for the 4-H kid in the ring - steady, work-worn, and proud of it.

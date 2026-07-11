@@ -25,7 +25,7 @@ Estate; a culture with no Estate is not yet a production.
   wood that sings (Makonde sculpture and Chopi timbila), the nation of the word
   (the country's poets), and Maputo and marrabenta - each casting the elements it
   needs. The war of independence and the civil war are out of scope.
-- **Personas:** Jose Craveirinha, Mia Couto, Paulina Chiziane, and the marrabenta
+- **Personas:** José Craveirinha, Mia Couto, Paulina Chiziane, and the marrabenta
   great Fany Pfumo as the real cast, plus one archetype, the capulana mother (the
   market woman who carries the household and the nation on her back). Each is
   wired to the language engine by the language-crossing it holds.

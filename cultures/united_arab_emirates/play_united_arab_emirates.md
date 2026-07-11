@@ -68,19 +68,19 @@ stamp:
 
 ## Triggers
 
-**[Plot 1: the pearling coast](plot_01_pearling_coast.md)**
+**[Plot 1: ساحل اللؤلؤ](plot_01_pearling_coast.md)**
 
 قبل النفط، عاش أهل الساحل على [البحر واللؤلؤ](position_the_sea.md): يهبط [الغوّاص](persona_al_ghawwas.md) في عمق الخليج موسمًا بعد موسم، تقوده سفن الغوص من [خور دبي والساحل](place_dubai.md).
 
-**[Plot 2: the desert and the Bedouin](plot_02_the_desert.md)**
+**[Plot 2: البادية وأهل البدو](plot_02_the_desert.md)**
 
 في رمال [ليوا وأبوظبي](place_liwa.md) عاش أهل البادية على النخيل والإبل والصقر، ورسّخوا [الكرم والمجلس](position_hospitality.md) قانونًا للحياة، وغنّى لهم [الماجدي بن ظاهر](persona_ibn_daher.md) شعر النبط.
 
-**[Plot 3: the union (1971)](plot_03_the_union.md)**
+**[Plot 3: الاتحاد (1971)](plot_03_the_union.md)**
 
 في عام 1971 جمع [الشيخ زايد بن سلطان آل نهيان](persona_zayed.md) سبع إمارات في [الاتحاد](position_the_union.md)، فصارت من البحر والرمل دولة واحدة.
 
-**[Plot 4: the transformation](plot_04_the_transformation.md)**
+**[Plot 4: التحول](plot_04_the_transformation.md)**
 
 بعد الاتحاد تحوّلت الأرض من الساحل والبادية إلى مدن حديثة، وقامت [الشيخة فاطمة بنت مبارك](persona_fatima.md) على نهضة المرأة والعائلة، والكرم باقٍ على حاله.
 

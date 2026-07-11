@@ -23,7 +23,7 @@ Virginia, the Old Dominion in the South Atlantic region of the United States. IS
 
 ## Arc
 
-A land of foundational colonial covenants and modern federal power, defined by its historic role as the cradle of the republic's political philosophy. From the early struggles of Jamestown and the political dominance of the Virginia Dynasty that framed the constitution, to the decisive victory at Yorktown and the high-tech defense corridor of Northern Virginia. A culture that balances traditional southern hospitality and historic preservation with the demands of a global military and technology economy.
+Virginia claims a peculiar seniority: the colony that named itself before the country it helped write even existed. From the early struggles of Jamestown and the political dominance of the Virginia Dynasty that framed the constitution, to the decisive victory at Yorktown and the high-tech defense corridor of Northern Virginia, the record runs unbroken. Traditional southern hospitality and historic preservation still keep close company here with the demands of a global military and technology economy, each expecting the same formality of the other.
 
 ## Company
 

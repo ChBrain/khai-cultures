@@ -67,19 +67,19 @@ stamp:
 
 ## Triggers
 
-**[Plot 1: the Pharaonic civilization](plot_01_pharaonic.md)**
+**[Plot 1: حضارة الفراعنة](plot_01_pharaonic.md)**
 
 على ضفاف النيل تقوم أقدم حضارة كاملة في التاريخ، فيبني [إيمحوتب](persona_imhotep.md) أول هرم حجري، وينحت الكاتب الخط على الحجر، وتصير [النيل والأرض](position_the_nile.md) منبع الدولة والكتابة والعمارة.
 
-**[Plot 2: the Coptic heritage and the early faiths](plot_02_coptic_faith.md)**
+**[Plot 2: التراث القبطي والأديان الأولى](plot_02_coptic_faith.md)**
 
 تدخل المسيحية وادي النيل فتولد الكنيسة القبطية والرهبنة في الصحراء، ويصير [الإيمان والعلم](position_faith_and_learning.md) طبقة جديدة على الأرض ذاتها دون أن ينقطع النهر.
 
-**[Plot 3: the Fatimid and Azhar golden age](plot_03_fatimid_azhar.md)**
+**[Plot 3: الفاطميون والأزهر والعصر الذهبي](plot_03_fatimid_azhar.md)**
 
 تُبنى [القاهرة](place_cairo.md) المعزّية ويُؤسَّس الأزهر، فتصير مصر منارة [الإيمان والعلم](position_faith_and_learning.md) في العصر الذهبي للإسلام، مدينة الألف مئذنة.
 
-**[Plot 4: the modern nahda](plot_04_nahda.md)**
+**[Plot 4: النهضة الحديثة](plot_04_nahda.md)**
 
 في النهضة الحديثة يبلغ [نجيب محفوظ](persona_mahfouz.md) بالعربية ذروتها، وتوحّد [أم كلثوم](persona_umm_kulthum.md) العرب بصوتها، فتزهر [الكلمة والنغم](position_language_ar_eg.md) في الرواية والسينما والغناء.
 

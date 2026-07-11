@@ -33,7 +33,7 @@ Estate; a culture with no Estate is not yet a production.
 - **Places:** Foumban (the Bamum royal capital, the palace and the birthplace of
   the Bamum script), Mount Cameroon (the living volcano on the coast, the whole
   country in one mountain).
-- **Processes:** ndole (the national dish, the shared pot and the honoured guest),
+- **Processes:** ndolé (the national dish, the shared pot and the honoured guest),
   makossa (the music of Douala carried to the world).
 - **Pieces:** the Indomitable Lions jersey (the most unifying emblem of the
   nation), the Bamum script (the proof of a homegrown genius).

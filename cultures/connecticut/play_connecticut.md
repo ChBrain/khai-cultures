@@ -23,7 +23,7 @@ Connecticut, the Constitution State in the New England region of the United Stat
 
 ## Arc
 
-A land of institutional heritage and precision engineering, defined by the coastal valleys of Long Island Sound. From the early democratic assembly of the Fundamental Orders and the precision clock and brass factories of the Naugatuck Valley, to the nuclear submarine construction at Groton's shipyards. A culture that balances the corporate and academic traditions of its historic towns with the industrial craftsmanship of its manufacturing centers, even as it plans the protection of the Long Island Sound estuary.
+Reticence is the house style, held along the coastal valleys of Long Island Sound where nothing gets said louder than it has to be. The Fundamental Orders were drafted here in the same unhurried, precedent-minded spirit that later machined interchangeable brass parts in the Naugatuck Valley and now welds submarine hulls at Groton to the nearest thousandth. Old-money towns keep their commissions and their charters; the shipyards and clock works keep their tolerances; and Long Island Sound sits between them, an estuary the whole state has quietly agreed is worth protecting.
 
 ## Company
 
@@ -78,4 +78,4 @@ The Navy officially designates the Groton base as its primary submarine facility
 
 ## Stakes
 
-Whether an industrializing coastal state with heavy maritime traffic can successfully execute conservation plans to protect Long Island Sound shellfish beds.
+Whether a state whose waters carry both submarines and shellfish beds can keep its conservation plans as exact as its shipyard specs, before the traffic outruns the tolerance.

@@ -30,7 +30,7 @@ That elevation and thin air are respected, not fought, whether that means checki
 
 ## Loses
 
-Ground when tech wealth and resort development drive up housing costs faster than the seasonal workers and long-time mountain residents who keep the lifts running and the trails safe can absorb; ground when the fast, metric-driven talk of Front Range engineers treats the raw, physical rhythm of snowpack and river flow as a secondary constraint instead of the first fact it has always been; and ground in the standing divide between the water-hungry Front Range cities and the Eastern Plains farming communities, each certain the other does not understand what the Colorado River actually costs.
+Ground when tech wealth and resort development drive up housing costs faster than the seasonal workers and long-time mountain residents who keep the lifts running and the trails safe can absorb; ground when the spreadsheet-paced talk of Front Range engineers treats the raw, physical rhythm of snowpack and river flow as a secondary constraint instead of the first fact it has always been; and ground in the standing divide between the water-hungry Front Range cities and the Eastern Plains farming communities, each certain the other does not understand what the Colorado River actually costs.
 
 ## Drives
 

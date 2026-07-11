@@ -21,16 +21,16 @@ El tono de [Asturias](play_asturias.md). Define la expresión conversacional, en
 
 ## Tenor
 
-Un tono llano, franco y enérgico. La comunicación es conversacional, rápida y directa, combinando el vocabulario de la minería del carbón y la metalurgia con términos de la ganadería de montaña, la elaboración de sidra y los convenios de cooperativas agrarias locales. Es la voz del minero de cuenca y de la quesera de Cabrales, que prioriza planes de conservación forestal del oso pardo, actas de juntas de pastos de montaña y estatutos de sindicatos obreros locales. Este lenguaje formal guía tanto a las asambleas vecinales como a los comités municipales, valorando la lealtad al colectivo y la firmeza en el cumplimiento de los pactos tradicionales.
+Se habla rápido y sin rodeos, con la franqueza de quien bajó a la mina o subió al puerto de montaña y no tiene tiempo que perder. Es la voz de la cuenca minera y de la quesera de Cabrales, que mezcla el vocabulario del carbón con el de la sidra escanciada y el pasto de altura, y que lleva a la asamblea vecinal el mismo tono directo del sindicato obrero. Manda la lealtad al colectivo y la firmeza en cumplir lo pactado, aunque el gesto se vista de llaneza.
 
 ## Undertow
 
-Bajo la hospitalidad y la fiesta de sidrería late una polarización demográfica y económica persistente entre las cuencas mineras en proceso de desindustrialización y las ciudades de servicios costeras. Este desigual reparto de recursos alimenta debates sobre las ayudas a las prejubilaciones mineras y la conservación ambiental, donde el declive demográfico choca con el instinto protector de los pequeños ganaderos de montaña por el control del lobo en sus pastos comunales.
+Bajo la hospitalidad y la fiesta de sidrería asoma la señardá de las cuencas mineras que se vacían mientras las ciudades costeras viven del turismo y los servicios. Las ayudas a la prejubilación minera y la vuelta del lobo a los montes reabren el mismo pleito: el declive de la cuenca frente al pequeño ganadero de montaña, que no está dispuesto a ceder sus pastos comunales sin pelear.
 
 ## Nerve
 
-La convicción de que la solidaridad colectiva obrera, la persistencia en el esfuerzo familiar en las laderas y el respeto por los derechos históricos y libertades locales son las verdaderas columnas de una sociedad estable.
+La certeza de que la solidaridad obrera, el esfuerzo familiar sostenido en las laderas y el respeto por los derechos y libertades de siempre sostienen a una comunidad mejor que ninguna otra cosa.
 
 ## Echo
 
-El golpe de agua de la sidra rompiendo en el vaso al ser escanciada y el tintineo metálico de un cencerro de vaca en los pastos de los Picos de Europa : un eco claro, seco y enérgico.
+Queda el golpe de la sidra al romper en el vaso escanciado y el tintineo del cencerro de una vaca en los pastos de los Picos de Europa, un eco claro, seco y enérgico que sabe a señardá.

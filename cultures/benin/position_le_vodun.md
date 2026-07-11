@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-La foi nee sur cette terre et donnee de la au monde: la conviction que le monde visible n'est pas tout, que des forces et des divinites marchent avec les vivants, et que les ancetres ne sont pas morts mais presents, a consulter et a honorer. Le Benin en est l'un des berceaux, et le Vodun y est une religion entiere, avec ses pretres, ses temples, ses rites et sa vision du monde, ni superstition ni decor, mais une facon droite de tenir ensemble les vivants, les morts et l'invisible. C'est de ce sol que le mot et la chose ont voyage, par le malheur de la cote, jusqu'aux autres rives de l'Atlantique, ou ils ont pris d'autres noms sans perdre leur racine.
+La foi née sur cette terre et donnée de là au monde: la conviction que le monde visible n'est pas tout, que des forces et des divinités marchent avec les vivants, et que les ancêtres ne sont pas morts mais présents, à consulter et à honorer. Le Bénin en est l'un des berceaux, et le Vodun y est une religion entière, avec ses prêtres, ses temples, ses rites et sa vision du monde, ni superstition ni décor, mais une façon droite de tenir ensemble les vivants, les morts et l'invisible. C'est de ce sol que le mot et la chose ont voyagé, par le malheur de la côte, jusqu'aux autres rives de l'Atlantique, où ils ont pris d'autres noms sans perdre leur racine.
 
 ## Orders
 
-Que rien d'important ne se decide sans les ancetres et les divinites; que la foi se respecte comme une religion a part entiere et non comme un folklore a regarder; que la fete annuelle d'Ouidah dise au monde que ce culte est vivant; et que le Beninois sache qu'il n'est jamais seul, parce que ses morts tiennent derriere lui.
+Que rien d'important ne se décide sans les ancêtres et les divinités; que la foi se respecte comme une religion à part entière et non comme un folklore à regarder; que la fête annuelle d'Ouidah dise au monde que ce culte est vivant; et que le Béninois sache qu'il n'est jamais seul, parce que ses morts tiennent derrière lui.
 
 ## Loses
 
-Du terrain quand on prend le Vodun pour de la peur ou de la magie, quand on en fait un spectacle pour visiteurs vide de son sens, ou quand le mepris d'autrefois fait baisser la tete aux croyants au lieu de la leur faire tenir droite. Il en perd aussi lorsque les siens, partis loin, laissent se defaire le lien avec les divinites de la maison.
+Du terrain quand on prend le Vodun pour de la peur ou de la magie, quand on en fait un spectacle pour visiteurs vide de son sens, ou quand le mépris d'autrefois fait baisser la tête aux croyants au lieu de la leur faire tenir droite. Il en perd aussi lorsque les siens, partis loin, laissent se défaire le lien avec les divinités de la maison.
 
 ## Drives
 
-Vit dans le sacerdoce de Ouidah qui tient le culte droit et le defend comme une foi vivante. Il pousse le Benin a se tenir debout sur son invisible, a honorer ses morts et a porter au monde, sans honte, une religion qui est sa part la plus ancienne et la plus profonde.
+Vit dans le sacerdoce de Ouidah qui tient le culte droit et le défend comme une foi vivante. Il pousse le Bénin à se tenir debout sur son invisible, à honorer ses morts et à porter au monde, sans honte, une religion qui est sa part la plus ancienne et la plus profonde.

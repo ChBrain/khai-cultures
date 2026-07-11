@@ -2,6 +2,7 @@
 khai: pitch
 title: "The Andorran Key"
 declared: "el to de les valls"
+language: ca
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -25,7 +26,7 @@ Una discreció cautelosa i un arrelament a la terra. La vida a les valls no es m
 
 ## Undertow
 
-Sota el to discret s'amaga una gran aversió a la incertesa i un desig constant de seguretat. La història andorrana ha ensenyat a témer els canvis bruscos i els conflictes dels grans veïns. Hi ha una preocupació profunda per mantenir el control del territori i preservar el patrimoni familiar. L'actitud és conservadora i pragmàtica, valorant l'estabilitat jurídica i el consens abans que les reformes audaces.
+Sota el to discret s'amaga la por que allò petit es perdi si no es lliga cada pacte i s'assegura cada demà. La història andorrana ha ensenyat a témer els canvis bruscos i els conflictes dels grans veïns. Hi ha una preocupació profunda per mantenir el control del territori i preservar el patrimoni familiar. L'actitud és conservadora i pragmàtica, valorant l'estabilitat jurídica i el consens abans que les reformes audaces.
 
 ## Nerve
 

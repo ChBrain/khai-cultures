@@ -21,7 +21,7 @@ The pitch of [Massachusetts](play_massachusetts.md). It tunes the reserved, arti
 
 ## Tenor
 
-A reserved, articulate, and civic-minded tone. The communication is intellectual, precise, and polite, characterized by structured arguments and a respect for historical precedent. It is a voice of inquiry - prioritizing academic research, public debate, and ethical standards. This articulate language shapes both the town halls of Cape Cod and the seminars of Cambridge, valuing education and civic duty as the foundation of community.
+Wicked smart and not shy about it, delivered with the clipped, no-wasted-words affection of a Dunkin' regular on the way to an argument. Talk here runs on structured arguments and a healthy respect for precedent - a voice of inquiry prioritizing academic research, public debate, and ethical standards. The same righteous, town-meeting habit of speech runs through the halls of Cape Cod and the seminars of Cambridge, valuing education and civic duty as the foundation of community.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the civility lies a tendency toward intellectual elitism and moral self-ri
 
 ## Nerve
 
-The conviction that ideas, education, and moral responsibility are the true measures of progress and the correct tools to shape society.
+It plays the note of town-meeting righteousness: ideas, education, and moral responsibility are what measure progress and shape a society.
 
 ## Echo
 
-The splash of oars in the morning river and the rustle of wind through brick academic courtyards : an echo that is quiet, structured, and reflective.
+The splash of oars in the morning river and the rustle of wind through brick academic courtyards - quiet, structured, reflective, and certain it's right.

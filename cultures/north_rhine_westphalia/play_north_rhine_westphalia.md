@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "North Rhine-Westphalia"
+title: "Nordrhein-Westfalen"
 description: "NRW inszeniert: das einstige Kohle- und Stahlzentrum, geprägt von Kumpelmentalität, Strukturwandel und Karneval."
-declared: "North Rhine-Westphalia"
+declared: "Nordrhein-Westfalen"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: North Rhine-Westphalia
+# Play: Nordrhein-Westfalen
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-North Rhine-Westphalia, das Bundesland Nordrhein-Westfalen im Westen der Bundesrepublik Deutschland. ISO DE-NW, Sprache de.
+Nordrhein-Westfalen, das bevölkerungsreichste Land Deutschlands zwischen Rhein und Ruhr im Westen. ISO DE-NW, Sprache de.
 
 ## Arc
 
-Das bevölkerungsreichste Bundesland Deutschlands, das 1946 durch die britische Zusammenlegung des Rheinlandes und Westfalens geschaffen wurde (Operation Marriage). Die Wiege des industriellen Aufstiegs durch den Kohle- und Stahlboom im Ruhrgebiet, das nach der Schließung der letzten Zeche 2018 einen tiefen Strukturwandel durchlebt. Ein Ort der Gegensätze zwischen der harten Industriegeschichte und dem rheinischen Frohsinn, der im Kölner Karneval alljährlich gefeiert wird.
+Zwei Temperamente teilen sich ein Land: rheinaufwärts endet jeder Satz mit einem fragenden „woll?”, westfälisch weiter oben herrscht Schweigen. Currywurst vor den Kathedralen des Kohlenpotts, so das bevölkerungsreichste Land, dessen Kohle- und Stahlboom das Ruhrgebiet prägte, bis 2018 der Strukturwandel unumkehrbar wurde. 1946 von den Briten aus Rheinland und Westfalen gefügt, lebt es vom Gegensatz zwischen Industriegeschichte und rheinischem Frohsinn im Kölner Karneval.
 
 ## Company
 
@@ -78,4 +78,4 @@ Mit der Schließung der Zeche Prosper-Haniel in Bottrop endet die jahrhundertela
 
 ## Stakes
 
-Die erfolgreiche Bewältigung des Strukturwandels im Ruhrgebiet hin zu einer zukunftsfähigen Wissens- und Kulturlandschaft unter Erhalt des sozialen Friedens.
+Ob dem Ruhrgebiet die Bewältigung des Strukturwandels hin zu einer zukunftsfähigen Wissens- und Kulturlandschaft gelingt, ohne den sozialen Frieden zu verlieren.

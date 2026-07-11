@@ -26,11 +26,11 @@ Belonging to a state that reads its own emblem, the beehive, as instruction: a p
 
 ## Orders
 
-That one treat water-sharing and canal maintenance as a covenant kept to neighbors as much as to the law; that a newcomer be judged by the work he is willing to put in beside others, not by how long his family has held the valley; that the patient, season-bound labor of the orchard be given the same respect as the fast, high-margin labor of the tech campus; and that public land, whether temple ground or national park, be treated as something held in trust for whoever comes after.
+That one treat water-sharing and canal maintenance as a covenant kept to neighbors as much as to the law; that a newcomer be judged by the work he is willing to put in beside others, not by how long his family has held the valley; that the patient, season-bound labor of the orchard be given the same respect as the high-margin, quick-turnaround labor of the tech campus; and that public land, whether temple ground or national park, be treated as something held in trust for whoever comes after.
 
 ## Loses
 
-Ground when real-estate development and venture-driven growth consolidate family farmland and price the small grower out of the valley his family irrigated for generations, treating rural water rights as an obstacle to suburban expansion rather than a covenant to honor. It loses ground, too, in the seam between the fast, capital-driven rhythm of Silicon Slopes and the slower, cooperative rhythm of the agricultural valleys, each reading the other's calendar as indifference rather than as the same hard basin worked two different ways; and it strains as commercial tourism crowds the canyons faster than trail and water systems built for a smaller state can bear.
+Ground when real-estate development and venture-driven growth consolidate family farmland and price the small grower out of the valley his family irrigated for generations, treating rural water rights as an obstacle to suburban expansion rather than a covenant to honor. It loses ground, too, between the quick, capital-driven rhythm of Silicon Slopes and the slower, cooperative rhythm of the agricultural valleys, each reading the other's calendar as indifference rather than as the same hard basin worked two different ways; and it strains as commercial tourism crowds the canyons faster than trail and water systems built for a smaller state can bear.
 
 ## Drives
 

@@ -2,7 +2,7 @@
 updated: "2026-06-24"
 ---
 
-# Sao Tome and Principe: References
+# São Tomé and Príncipe: References
 
 The provenance behind this culture: the cultural-dimension basis that tunes the
 pitch (kept here, never in the prose) and the public-domain historical and
@@ -11,14 +11,14 @@ cultural sources behind the plots, personas, places, and pieces.
 ## Cultural-dimension source data
 
 The pitch [pitch_pt.md](pitch_pt.md) is written from a cultural-dimension reading
-of Sao Tome and Principe and names no dimension and carries no number. Sao Tome
-and Principe is not among the countries with published scores in Geert Hofstede's
+of São Tomé and Príncipe and names no dimension and carries no number. São Tomé
+and Príncipe is not among the countries with published scores in Geert Hofstede's
 six-dimensions dataset, so no national figures are claimed here. The pitch is
 instead tuned qualitatively, on the public record, from the islands' own
 self-understanding and from the regional pattern of Lusophone West-Central
 African and small-island societies, along these lines:
 
-| Dimension             | Reading for Sao Tome and Principe (qualitative)                                       |
+| Dimension             | Reading for São Tomé and Príncipe (qualitative)                                       |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | Power Distance        | Moderate to high, softened by small-scale familiarity; mistrust of distant authority. |
 | Individualism         | Low: strongly collective, family- and community-centred, "no one is left alone."      |
@@ -28,8 +28,8 @@ African and small-island societies, along these lines:
 | Indulgence            | Warm and convivial: music, the table, and festa central to life.                      |
 
 Source basis: Geert Hofstede's six-dimensions model of national culture (Hofstede
-Insights / The Culture Factor Group) as the framework only; since Sao Tome and
-Principe carries no published score in that dataset, the readings above are
+Insights / The Culture Factor Group) as the framework only; since São Tomé and
+Príncipe carries no published score in that dataset, the readings above are
 qualitative and are kept here, never entering the prose, and no numeric scores are
 claimed for the country.
 
@@ -43,14 +43,14 @@ detail, and with no political side taken.
 
 | Subject                                       | In this culture                                                                                                                                                                                                          | Scope                                                                                                               |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| Settlement and the plantation (roca)          | [plot_01_povoamento.md](plot_01_povoamento.md), [position_roca.md](position_roca.md)                                                                                                                                     | The uninhabited islands settled from the late 15th century, the sugar engenho, and the rise of the roca estate.     |
+| Settlement and the plantation (roça)          | [plot_01_povoamento.md](plot_01_povoamento.md), [position_roca.md](position_roca.md)                                                                                                                                     | The uninhabited islands settled from the late 15th century, the sugar engenho, and the rise of the roça estate.     |
 | The creole people and Caetano da Costa Alegre | [plot_02_povo_crioulo.md](plot_02_povo_crioulo.md), [persona_costa_alegre.md](persona_costa_alegre.md)                                                                                                                   | The Forro, Angolar, and Principense peoples, the island creoles, and the first poet to set the islands in verse.    |
-| The age of cocoa and Francisco Jose Tenreiro  | [plot_03_cacau.md](plot_03_cacau.md), [persona_tenreiro.md](persona_tenreiro.md), [piece_cacau.md](piece_cacau.md)                                                                                                       | Cocoa, the "chocolate island," the roca at its height, contract labour, and the poet-geographer of the islands.     |
-| Independence and Alda Espirito Santo          | [plot_04_independencia.md](plot_04_independencia.md), [persona_alda.md](persona_alda.md)                                                                                                                                 | The independence of 12 July 1975 and the poet who wrote the words of the national anthem.                           |
+| The age of cocoa and Francisco José Tenreiro  | [plot_03_cacau.md](plot_03_cacau.md), [persona_tenreiro.md](persona_tenreiro.md), [piece_cacau.md](piece_cacau.md)                                                                                                       | Cocoa, the "chocolate island," the roça at its height, contract labour, and the poet-geographer of the islands.     |
+| Independence and Alda Espírito Santo          | [plot_04_independencia.md](plot_04_independencia.md), [persona_alda.md](persona_alda.md)                                                                                                                                 | The independence of 12 July 1975 and the poet who wrote the words of the national anthem.                           |
 | The people's voice and Pedro Lima             | [persona_pedro_lima.md](persona_pedro_lima.md), [position_insularidade.md](position_insularidade.md)                                                                                                                     | The Santomean musician called "the people's voice," the ussua and socope rhythms, presented without political side. |
-| The islands, theatre, table, and nature       | [place_sao_tome.md](place_sao_tome.md), [place_principe.md](place_principe.md), [process_tchiloli.md](process_tchiloli.md), [process_calulu.md](process_calulu.md), [piece_pico_cao_grande.md](piece_pico_cao_grande.md) | The capital and the sister island, the tchiloli theatre, the calulu dish, and the Pico Cao Grande and Obo forest.   |
+| The islands, theatre, table, and nature       | [place_sao_tome.md](place_sao_tome.md), [place_principe.md](place_principe.md), [process_tchiloli.md](process_tchiloli.md), [process_calulu.md](process_calulu.md), [piece_pico_cao_grande.md](piece_pico_cao_grande.md) | The capital and the sister island, the tchiloli theatre, the calulu dish, and the Pico Cão Grande and Obô forest.   |
 
-The defining persona [o roceiro](persona_roceiro.md) (the roca worker) is an
+The defining persona [o roceiro](persona_roceiro.md) (the roça worker) is an
 archetype, not a historical individual: a composite that carries the labour in
 which the wealth and the people of the islands were made, honoured with dignity
 and on the public record.

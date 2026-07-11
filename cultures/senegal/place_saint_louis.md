@@ -31,7 +31,7 @@ La vieille ville posée sur une île à l'embouchure du fleuve, là où l'eau do
 
 ## Offers
 
-Un lieu où le Sénégal lit son histoire à livre ouvert: la rencontre des mondes, la naissance d'une élite à cheval sur deux rives, la mémoire d'un temps où la ville fut le coeur de toute l'Afrique de l'Ouest française. C'est aussi la ville du jazz et du fleuve, où la lenteur, le métissage et la mémoire tiennent lieu de richesse, et où le passé se promène encore dans les rues.
+Un lieu où le Sénégal lit son histoire à livre ouvert: la rencontre des mondes, la naissance d'une élite à cheval sur deux rives, la mémoire d'un temps où la ville fut le cœur de toute l'Afrique de l'Ouest française. C'est aussi la ville du jazz et du fleuve, où la lenteur, le métissage et la mémoire tiennent lieu de richesse, et où le passé se promène encore dans les rues.
 
 ## Withheld
 

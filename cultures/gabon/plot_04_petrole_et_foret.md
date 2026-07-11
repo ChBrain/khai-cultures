@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "Oil and the Forest"
-declared: "le petrole et la foret"
+declared: "le pétrole et la forêt"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: le petrole et la foret
+# Plot: le pétrole et la forêt
 
 ## Taxonomy
 
@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-Au vingtieme siecle, le pays prend son nom et son drapeau parmi les nations, et au large de la cote on trouve le petrole. L'or noir monte de la mer, et avec lui une richesse soudaine qui change la vie de Libreville et le visage du pays.
+Au vingtième siècle, le pays prend son nom et son drapeau parmi les nations, et au large de la côte on trouve le pétrole. L'or noir monte de la mer, et avec lui une richesse soudaine qui change la vie de Libreville et le visage du pays.
 
 ## Action
 
-Le petrole donne au Gabon des routes, des immeubles et un nom de pays riche pour son petit nombre, et la cote regarde la mer comme on regarde un coffre qui se remplit. Mais peu a peu le pays comprend que le petrole passe et que la foret reste: que ses elephants, ses gorilles et ses arbres vieux de mille ans sont une richesse plus vieille et plus sure que le brut. Alors le Gabon classe une grande part de son vert en parcs, le Lope, le Loango ou la foret descend dans l'ocean, et il fait dire au monde que sa foret est un tresor a garder debout et non a vider. La voix de [Pierre Akendengue](persona_akendengue.md) chante ce pays vert et ce fleuve, et rappelle aux siens que la vraie richesse a des racines.
+Le pétrole donne au Gabon des routes, des immeubles et un nom de pays riche pour son petit nombre, et la côte regarde la mer comme on regarde un coffre qui se remplit. Mais peu à peu le pays comprend que le pétrole passe et que la forêt reste: que ses éléphants, ses gorilles et ses arbres vieux de mille ans sont une richesse plus vieille et plus sûre que le brut. Alors le Gabon classe une grande part de son vert en parcs, le Lopé, le Loango où la forêt descend dans l'océan, et il fait dire au monde que sa forêt est un trésor à garder debout et non à vider. La voix de [Pierre Akendengué](persona_akendengue.md) chante ce pays vert et ce fleuve, et rappelle aux siens que la vraie richesse a des racines.
 
 ## Stage
 
-- [la foret](position_la_foret.md): la richesse vieille et vivante que le petrole ne doit pas faire oublier.
-- [Pierre Akendengue](persona_akendengue.md): la voix qui chante le pays vert et tient sa memoire eveillee.
-- [le Lope](place_lope.md): le parc ou la savane mord le vert, le coeur garde de la foret.
+- [la forêt](position_la_foret.md): la richesse vieille et vivante que le pétrole ne doit pas faire oublier.
+- [Pierre Akendengué](persona_akendengue.md): la voix qui chante le pays vert et tient sa mémoire éveillée.
+- [le Lopé](place_lope.md): le parc où la savane mord le vert, le cœur gardé de la forêt.
 
 ## Tension
 
-Le pays touche a la fois la richesse du petrole et la conscience de sa foret: l'argent qui passe et le vert qui reste, mis dans la meme main. Toute la question est de savoir si un petit peuple saura ne pas vider son grand vert pour l'or noir, et garder la foret comme une mere quand la mer offre un coffre plus vite ouvert.
+Le pays touche à la fois la richesse du pétrole et la conscience de sa forêt: l'argent qui passe et le vert qui reste, mis dans la même main. Toute la question est de savoir si un petit peuple saura ne pas vider son grand vert pour l'or noir, et garder la forêt comme une mère quand la mer offre un coffre plus vite ouvert.

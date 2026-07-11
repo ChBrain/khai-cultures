@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old civil rights archivist in Jackson. English, spoken with a formal southern drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily preservation reports. It is the [Mississippian English](position_language_en_us_ms.md) of the Jackson archive, the formal Southern drawl of the civil rights record. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of musicians like Charles and the digital demands of tourism boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of community voting rights is treated as secondary to corporate entertainment and agricultural profit. She belongs to [the Hospitality State](position_culture_hospitality_state.md) as the civil rights solidarity that keeps the movement's record and its hospitality honest at once.
+Fifty-two years old, a civil rights archivist in Jackson who has read enough affidavits to know when a story is being smoothed over. English is the tongue she [speaks](process_speaking_mother_tongue.md) at the reading-room desk and carries into her daily preservation reports, the [Mississippian English](position_language_en_us_ms.md) of the formal Southern drawl the record itself was written in. She has no other language, and the archive has never once needed one. The quicker talk of musicians like Charles and the tourism boards chasing this season's numbers [reach her only like a tune from two rooms over](process_hearing_followed.md), and she worries some days that the patient work of a registration drive counts for less than a good festival weekend. She belongs to [the Hospitality State](position_culture_hospitality_state.md) as the keeper who holds the movement's record honest even when nobody's asking to see it.
 
 ## Action
 
@@ -31,8 +31,8 @@ She preserves [cotton boll](piece_cotton_boll.md) records, coordinates field con
 
 ## Shadow
 
-Her pride in traditional community organizing and independent local church rights can make her suspicious of state-wide zoning and environmental land mandates, fearing they will restrict family property use.
+Her faith in the church basement and the local registration table runs deep enough that she meets state zoning maps with real suspicion, half convinced they mean to tell a family what its own dirt is for.
 
 ## Tell
 
-She looks at a historic registration card and says thoughtfully: "The vote has its own legal history; you can't protect community progress if you're only focused on digital speed and tourism profit metrics."
+She holds up a yellowed registration card and says, without raising her voice: "This card cost somebody a beating to fill out. You don't get to wave it at a festival crowd and call the debt paid."

@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-North Dakota, the Flickertail State in the West North Central region of the United States. ISO US-ND, language en.
+North Dakota, the Flickertail State, set in the West North Central corner of the country where the sky outruns the land in every direction. ISO US-ND, language en. A place that measures itself less by what gets written about it than by whether the wheat came in and the wells held before the snow.
 
 ## Arc
 
-A land of agricultural abundance and energy extraction, defined by the flat plains of the Red River Valley and the rolling hills of the Williston Basin. From the massive "bonanza" farms of the early wheat boom and the controversial flooding of tribal lands by the Garrison Dam, to the high-technology drilling of the Bakken oil boom. A culture that balances the prairie agriculture of its wheat fields with the industrial logistics of its oil wells, even as it plans the management of the Missouri River reservoirs.
+Flat table-land in the Red River Valley, rolling west across the Williston Basin - ground worked hard and talked about plain. The bonanza farms broke it first, whole square miles under one thresher, until the state was shipping wheat to half the world. In 1947 the Garrison Dam backed the Missouri up over the Mandan, Hidatsa, and Arikara bottomlands, drowning farms that had stood there for generations - remembered plainly, not politely. Lately the Bakken came up out of the shale, filling the west with rigs and roughnecks faster than the rest of the state is used to. Wheat keeps one clock, oil another; both answer to the same river and the same hard winter.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of agricultural abundance and energy extraction, defined by the flat plai
 
 **[Plot 1: The Red River Valley Wheat Boom 1870](plot_01_red_river_wheat.md)**
 
-Large-scale bonanza wheat farms utilize mechanical threshers, establishing the state as a major global grain exporter.
+Bonanza wheat farms run whole square miles off one steam thresher, and inside a couple decades it's shipping grain to half the world.
 
 **[Plot 2: The Garrison Dam Construction 1947](plot_02_garrison_dam.md)**
 
-Construction of a major Missouri River dam floods Mandan, Hidatsa, and Arikara lands, forcing tribal relocation.
+The Garrison Dam backs the Missouri up, and the reservoir drowns Mandan, Hidatsa, and Arikara bottomlands for good.
 
 **[Plot 3: The Bakken Shale Oil Boom 2000](plot_03_bakken_oil.md)**
 
-Horizontal drilling and hydraulic fracturing unlock massive deep oil reserves, transforming the western plains.
+New drilling reaches down and sideways into the Bakken shale, and the western plains fill fast with rigs.
 
 ## Stakes
 
-Whether a river basin state experiencing intensive fossil fuel extraction and crop farming can successfully execute reservoir plans to manage agricultural runoff and protect water resources.
+Whether a state that made the Missouri pay once, in Mandan, Hidatsa, and Arikara land, can keep asking it for the harvest's runoff and the oil patch's thirst without paying again.

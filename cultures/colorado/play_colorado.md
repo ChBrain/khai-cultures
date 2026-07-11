@@ -23,7 +23,7 @@ Colorado, the Centennial State in the Mountain West region of the United States.
 
 ## Arc
 
-A land of rugged elevation and conservation values, defined by the spine of the Continental Divide. From the frantic prospectors of the Pike's Peak Gold Rush and the preservation of alpine wilderness, to the post-war development of the mountain ski industry by military veterans. A culture that balances the outdoor lifestyle of its high-altitude peaks with the technological innovation of the Front Range cities, even as it manages complex water allocation agreements along the Colorado River.
+Thin air sets the terms here; the mining camps, the ski towns, and the start-ups have all had to answer to the Continental Divide first. Pike's Peak drew a hundred thousand strangers chasing gold, and that same high country got fenced off as wilderness within a lifetime, then built out into ski towns by soldiers who'd trained at altitude and couldn't stay away from it. The Front Range keeps growing on venture money and clean-tech ambition, but the water filling its reservoirs still has to cross the Divide and reach the Western Slope, so nobody here forgets where the river actually goes.
 
 ## Company
 
@@ -78,4 +78,4 @@ Veterans of the 10th Mountain Division return from WWII to develop Aspen and Vai
 
 ## Stakes
 
-Whether a state defined by rapid population growth and high water consumption can successfully manage declining river flows to honor multi-state water allocation agreements.
+Whether a state growing this fast, drinking this much water, can still make its share of a shrinking Colorado River stretch far enough to keep every downstream agreement honest.

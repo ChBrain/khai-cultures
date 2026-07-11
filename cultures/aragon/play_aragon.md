@@ -23,7 +23,7 @@ Aragón, comunidad autónoma y nacionalidad histórica del norte de España. ISO
 
 ## Arc
 
-Una tierra de cumbres alpinas, áridas estepas y honda firmeza de carácter, articulada por el río Ebro. Desde la unión dinástica medieval con Cataluña en 1137 que fundó la Corona de Aragón y el heroico asedio popular de Zaragoza de 1808 contra el invasor francés, hasta la gran transformación hidráulica de la estepa de los Monegros en el siglo XX. Una cultura de labradores tenaces, jotas de plaza y pastores de montaña que protege el equilibrio ecológico de sus valles mediante planes de conservación.
+Entre el cierzo que no cede y la maña que todo lo resuelve se templa el carácter aragonés, en esta tierra de cumbres alpinas y áridas estepas articulada por el río Ebro. Desde la unión dinástica medieval con Cataluña en 1137 que fundó la Corona de Aragón y el heroico asedio popular de Zaragoza de 1808 contra el invasor francés, hasta la gran transformación hidráulica de la estepa de los Monegros en el siglo XX. Una cultura de labradores tenaces, jotas de plaza y pastores de montaña que protege el equilibrio ecológico de sus valles mediante planes de conservación.
 
 ## Company
 
@@ -78,4 +78,4 @@ Comienzan las obras del canal de Aragón y Cataluña, transformando la estepa de
 
 ## Stakes
 
-Si una nacionalidad histórica de carácter austero y marcado contraste geográfico puede sostener sus comunidades de montaña pirenaicas y el regadío de su secano sin perder su cohesión demográfica.
+Si Aragón, de carácter austero y marcado contraste geográfico, logra sostener sus comunidades de montaña pirenaicas y el regadío de su secano sin que la despoblación acabe por partirlo en dos.

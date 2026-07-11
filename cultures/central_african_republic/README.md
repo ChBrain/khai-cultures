@@ -24,7 +24,7 @@ Estate; a culture with no Estate is not yet a production.
 - **Plots (history):** the peoples and the great rivers, the crossroads of the
   Oubangui (where Sango is born), Boganda and the dream of a nation (the founding
   creed, zo kwe zo), and the Sango nation - each casting the elements it needs.
-- **Personas:** Barthelemy Boganda, the founding thinker who gave the country its
+- **Personas:** Barthélemy Boganda, the founding thinker who gave the country its
   name and its creed; Pierre Makombo Bambote, the writer who carried the villages
   into letters; Idylle Mamba, the singer who carries the country's voice in Sango;
   and Marcel Diki-Kidiri, the linguist who gave Sango its letters and rules; plus

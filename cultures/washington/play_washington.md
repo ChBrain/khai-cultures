@@ -23,7 +23,7 @@ Washington, the Evergreen State in the Pacific Northwest region of the United St
 
 ## Arc
 
-A land of vast wilderness and global technology frontiers, defined by its isolation and role as a gateway to the Pacific Rim. From the Oregon Treaty of 1846 that established the northern border, and the massive assembly bays of Boeing that defined aerospace, to the secret atomic reactors of the Hanford Site. A culture that balances the environmentalism of Cascadia with the commercial ambition of global tech giants, even as it struggles to restore its native salmon habitats.
+Rain falls here as a baseline, not a complaint, on a state that grew from a boundary line into a gateway for the whole Pacific Rim. The Oregon Treaty of 1846 set its northern edge, Boeing's assembly bays put its name on the world's aircraft, and the Hanford Site's atomic reactors left it a cleanup that still is not finished. Cascadia's environmentalism and the commercial ambition of global tech giants keep working the same wet ground, even as the state struggles to bring its native salmon runs back.
 
 ## Company
 
@@ -78,4 +78,4 @@ The federal government establishes a secret plutonium production facility along 
 
 ## Stakes
 
-Whether a state defined by its environmentalism and tech hubs can successfully restore its native salmon populations while managing industrial and agricultural water usage.
+Whether a state built on environmentalism and tech hubs can actually bring its native salmon runs back while it keeps managing industrial and agricultural water use.

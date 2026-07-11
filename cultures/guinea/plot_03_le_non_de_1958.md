@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-En 1958, la France propose a ses territoires d'Afrique un referendum: entrer dans une Communaute qui garde le lien avec Paris, ou bien la quitter d'un coup. Partout, ou presque, on penche pour le oui prudent. En Guinee, le jeune leader syndical Sekou Toure pose au pays la question autrement.
+En 1958, la France propose à ses territoires d'Afrique un référendum: entrer dans une Communauté qui garde le lien avec Paris, ou bien la quitter d'un coup. Partout, ou presque, on penche pour le oui prudent. En Guinée, le jeune leader syndical Sékou Touré pose au pays la question autrement.
 
 ## Action
 
-Le 28 septembre 1958, la Guinee vote, et seule de toute l'Afrique francaise elle dit non. Le pays choisit l'independence aussitot, sans transition ni filet, et entre dans l'Histoire avec une phrase devenue celebre: que l'on prefere la liberte dans la pauvrete a la richesse dans l'esclavage. Le depart est brutal et le prix lourd, car le lien se rompt net; mais la Guinee devient, le 2 octobre 1958, une republique souveraine, premier des territoires francais d'Afrique noire a se tenir debout par son seul choix. La fierte de ce non-la marque le pays pour toujours.
+Le 28 septembre 1958, la Guinée vote, et seule de toute l'Afrique française elle dit non. Le pays choisit l'indépendance aussitôt, sans transition ni filet, et entre dans l'Histoire avec une phrase devenue célèbre: que l'on préfère la liberté dans la pauvreté à la richesse dans l'esclavage. Le départ est brutal et le prix lourd, car le lien se rompt net; mais la Guinée devient, le 2 octobre 1958, une république souveraine, premier des territoires français d'Afrique noire à se tenir debout par son seul choix. La fierté de ce non-là marque le pays pour toujours.
 
 ## Stage
 
-- [Sekou Toure](persona_sekou_toure.md): celui qui mene le pays au non et a l'independence aussitot.
-- [Conakry](place_conakry.md): la capitale d'ou part le non et ou nait la republique.
-- [la parole du jeli](position_la_parole_du_jeli.md): l'honneur de la parole donnee, ici dressee en geste de toute une nation.
+- [Sékou Touré](persona_sekou_toure.md): celui qui mène le pays au non et à l'indépendance aussitôt.
+- [Conakry](place_conakry.md): la capitale d'où part le non et où naît la république.
+- [la parole du jeli](position_la_parole_du_jeli.md): l'honneur de la parole donnée, ici dressée en geste de toute une nation.
 
 ## Tension
 
-Dire non, seul, debout, c'est l'honneur meme du pays, le geste qui le definit dans sa propre bouche. Mais la liberte choisie d'un coup se paie cher, et les annees qui suivent sont rudes pour les Guineens. La Guinee garde de ce jour une fierte que rien n'efface, et la tache de faire que la dignite du non se change un jour en pain pour ses enfants, sans que jamais l'echine se courbe.
+Dire non, seul, debout, c'est l'honneur même du pays, le geste qui le définit dans sa propre bouche. Mais la liberté choisie d'un coup se paie cher, et les années qui suivent sont rudes pour les Guinéens. La Guinée garde de ce jour une fierté que rien n'efface, et la tâche de faire que la dignité du non se change un jour en pain pour ses enfants, sans que jamais l'échine se courbe.

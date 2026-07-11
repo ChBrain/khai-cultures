@@ -15,22 +15,22 @@ stamp:
 
 ## Estate
 
-[khai-cultures](https://github.com/ChBrain/khai-cultures): la maison qui tient cette production et qui en repond.
+[khai-cultures](https://github.com/ChBrain/khai-cultures): la maison qui tient cette production et qui en répond.
 
 ## Name
 
-La France, vaste pays de l'Europe occidentale ouvert sur l'Atlantique et la Mediterranee, hexagone borde par le Rhin et les Pyrenees. ISO FR, langue fr.
+La France, vaste pays de l'Europe occidentale ouvert sur l'Atlantique et la Méditerranée, hexagone bordé par le Rhin et les Pyrénées. ISO FR, langue fr.
 
 ## Arc
 
-Un grand pays qui s'est fait par l'Etat, du roi absolu de Versailles a la Republique nee dans la rue, et qui a fini par croire moins a son sang qu'a une idee : l'idee qu'une nation se choisit dans des principes universels, la liberte, l'egalite, la fraternite et la laicite, offerts a tout citoyen quel que soit son origine. De cette ambition naissent a la fois sa grandeur et son tourment : un Etat fort et centralisateur, une passion des idees et du debat, une elegance et un art de vivre eriges en maniere d'etre, et la conviction tetue qu'il existe ' une certaine idee de la France '. Sous tout cela court une contestation permanente, le gout de descendre dans la rue, et la fierte d'une langue qui se pense comme un bien commun.
+Un grand pays qui s'est fait par l'État, du roi absolu de Versailles à la République née dans la rue, et qui a fini par croire moins à son sang qu'à une idée : l'idée qu'une nation se choisit dans des principes universels, la liberté, l'égalité, la fraternité et la laïcité, offerts à tout citoyen quel que soit son origine. De cette ambition naissent à la fois sa grandeur et son tourment : un État fort et centralisateur, une passion des idées et du débat, une élégance et un art de vivre érigés en manière d'être, et la conviction têtue qu'il existe ' une certaine idée de la France '. Sous tout cela court une contestation permanente, le goût de descendre dans la rue, et la fierté d'une langue qui se pense comme un bien commun.
 
 ## Company
 
 **Personas**
 
 - [Charles de Gaulle](persona_de_gaulle.md)
-- [Emile Zola](persona_zola.md)
+- [Émile Zola](persona_zola.md)
 - [Colette](persona_colette.md)
 - [Yasmine](persona_yasmine.md)
 
@@ -46,11 +46,11 @@ Un grand pays qui s'est fait par l'Etat, du roi absolu de Versailles a la Republ
 
 **Positions**
 
-- [l'Etat](position_letat.md)
-- [la Republique](position_la_republique.md)
-- [la laicite](position_laicite.md)
-- [une certaine idee de la France](position_culture_une_certaine_idee_de_la_france.md)
-- [la langue francaise](position_language_fr_fr.md)
+- [l'État](position_letat.md)
+- [la République](position_la_republique.md)
+- [la laïcité](position_laicite.md)
+- [une certaine idée de la France](position_culture_une_certaine_idee_de_la_france.md)
+- [la langue française](position_language_fr_fr.md)
 
 **Pieces**
 
@@ -59,31 +59,31 @@ Un grand pays qui s'est fait par l'Etat, du roi absolu de Versailles a la Republ
 
 **Pitches**
 
-- [le ton francais](pitch_fr.md)
+- [le ton français](pitch_fr.md)
 
 **Plans**
 
-- [l'ecole republicaine](plan_l_ecole_republicaine.md)
-- [la defense de la langue francaise](plan_la_defense_de_la_langue.md)
+- [l'école républicaine](plan_l_ecole_republicaine.md)
+- [la défense de la langue française](plan_la_defense_de_la_langue.md)
 
 ## Triggers
 
 **[Plot 1 : Versailles et le Roi-Soleil, vers 1680](plot_01_versailles.md)**
 
-A [Versailles](place_versailles.md), Louis XIV fait de la cour, des arts et de la gloire les instruments d'un pouvoir absolu, et fonde l'Etat centralise que portera [l'Etat](position_letat.md).
+À [Versailles](place_versailles.md), Louis XIV fait de la cour, des arts et de la gloire les instruments d'un pouvoir absolu, et fonde l'État centralisé que portera [l'État](position_letat.md).
 
-**[Plot 2 : la Revolution de 1789](plot_02_revolution_1789.md)**
+**[Plot 2 : la Révolution de 1789](plot_02_revolution_1789.md)**
 
-A [Paris](place_paris.md), le peuple prend la Bastille et proclame les droits de l'homme ; de la liberte, de l'egalite et de la fraternite nait [la Republique](position_la_republique.md).
+À [Paris](place_paris.md), le peuple prend la Bastille et proclame les droits de l'homme ; de la liberté, de l'égalité et de la fraternité naît [la République](position_la_republique.md).
 
 **[Plot 3 : l'affaire Dreyfus](plot_03_dreyfus.md)**
 
-Quand la Republique condamne un innocent, [Emile Zola](persona_zola.md) lance ' J'accuse ' et fait de l'intellectuel la conscience du pays, mettant a l'epreuve [la laicite](position_laicite.md) et l'universalisme.
+Quand la République condamne un innocent, [Émile Zola](persona_zola.md) lance ' J'accuse ' et fait de l'intellectuel la conscience du pays, mettant à l'épreuve [la laïcité](position_laicite.md) et l'universalisme.
 
-**[Plot 4 : la Liberation de Paris, 1944](plot_04_liberation_1944.md)**
+**[Plot 4 : la Libération de Paris, 1944](plot_04_liberation_1944.md)**
 
-Porte par [Charles de Gaulle](persona_de_gaulle.md) et la France libre, [Paris](place_paris.md) se libere et retrouve ' une certaine idee de la France '.
+Porté par [Charles de Gaulle](persona_de_gaulle.md) et la France libre, [Paris](place_paris.md) se libère et retrouve ' une certaine idée de la France '.
 
 ## Stakes
 
-Savoir si un pays qui s'est voulu universel, fait par l'Etat et par une idee plus que par le sang, peut tenir ensemble la grandeur et l'egalite, la laicite et la diversite, l'amour des principes et la realite de ses citoyens, sans que l'idee de la France ne se retourne contre une partie des Francais.
+Savoir si un pays qui s'est voulu universel, fait par l'État et par une idée plus que par le sang, peut tenir ensemble la grandeur et l'égalité, la laïcité et la diversité, l'amour des principes et la réalité de ses citoyens, sans que l'idée de la France ne se retourne contre une partie des Français.

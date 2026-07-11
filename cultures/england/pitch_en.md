@@ -22,7 +22,7 @@ The tone in which the production [England](play_england.md) is played. It change
 
 ## Tenor
 
-Say less than you mean, and never make a fuss. A person is measured less by what they declare than by whether they play the game, keep their word, and carry their part without parade. Strong feeling and grand talk are held suspect; the dry word, the wry aside, the shrug and the 'mustn't grumble' do the work that elsewhere a speech would do. The gifted amateur who makes it look easy is trusted over the earnest professional who tries too hard, and the rules of play matter more than the win. It is played in a cool, level, faintly ironic key, where the joke carries the feeling and the country never makes itself larger than it is.
+The weather is the safe thing to discuss because the class one was born into is not, and the queue is the nearest thing to a national sacrament, everyone taking their turn and dying sooner than jump it. A person is measured less by what they declare than by whether they keep their word and carry their part without parade, off the village green or the terraced street alike. Strong feeling and grand talk are held suspect; the dry word, the wry aside, and the 'mustn't grumble' do the work a speech would do elsewhere. The gifted amateur who makes it look easy is trusted over the earnest professional who tries too hard, and the rules of play matter more than the win. It is played in a cool, level, faintly ironic key, where the joke carries the feeling and the country never makes itself larger than it is.
 
 ## Undertow
 

@@ -23,7 +23,7 @@ Arkansas, the Natural State in the West South Central region of the United State
 
 ## Arc
 
-A land of natural beauty and corporate logistics, defined by the forested ridges of the Ozark Mountains. From the luxury thermal bathhouses of the Hot Springs boom and the federal civil rights protection of the Little Rock Nine, to the global retail logistics launched by the Wal-Mart revolution. A culture that balances the mountain heritage of its thermal springs with the supply chain speed of its corporate headquarters, even as it plans the protection of its northern watersheds.
+Arkansas runs on Ozark thrift and delta rows both, the same hill-country make-do that filled the bathhouses at Hot Springs now stocking a shelf for half the country. Nine students walked into Central High under federal guard and changed what the law meant here for good; Sam Walton opened one store in Bentonville and built a supply chain that reaches around the globe. The mountain counties still keep their own patient pace, the warehouses keep theirs, and the whole state is minding its northern watersheds so both can keep running.
 
 ## Company
 
@@ -78,4 +78,4 @@ Sam Walton opens the first Walmart store, launching a high-volume supply chain a
 
 ## Stakes
 
-Whether a watershed state experiencing intensive corporate expansion and poultry farming can successfully execute river plans to manage runoff.
+Whether a watershed state carrying both heavy corporate growth and poultry farming can make its river plans actually hold the runoff back.

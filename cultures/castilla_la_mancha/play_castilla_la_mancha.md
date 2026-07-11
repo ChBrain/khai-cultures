@@ -23,7 +23,7 @@ Castilla-La Mancha, comunidad autónoma y nacionalidad histórica del centro de 
 
 ## Arc
 
-Una inmensa llanura de secano, molinos de viento y horizontes infinitos, cuna del mito quijotesco. Desde la trascendental batalla de Las Navas de Tolosa en 1212 que aseguró la frontera meridional y la publicación de Don Quijote en 1605, hasta la declaración de sobreexplotación de sus acuíferos subterráneos en la década de 1980. Una cultura de labradores de azafrán, pastores de ovejas manchegas y pozos comunales que regula el agua de riego mediante planes de restauración ecológica.
+"Ancha es Castilla", dicen, y en La Mancha se cumple al pie de la letra: molinos que giran contra el horizonte, azafrán que tiñe el otoño y la llanura donde nació el mito quijotesco. Desde la trascendental batalla de Las Navas de Tolosa en 1212 que aseguró la frontera meridional y la publicación de Don Quijote en 1605, hasta la declaración de sobreexplotación de sus acuíferos subterráneos en la década de 1980. Una cultura de labradores de azafrán, pastores de ovejas manchegas y pozos comunales que regula el agua de riego mediante planes de restauración ecológica.
 
 ## Company
 

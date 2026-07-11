@@ -29,8 +29,8 @@ Under the festive exterior lies a persistent sense of vulnerability and environm
 
 ## Nerve
 
-The conviction that culinary heritage, musical expression, and family solidarity are the true anchors of a rich and resilient life.
+It plays the note of the long table: culinary heritage, music, and family are what a life actually rests on, storm or no storm.
 
 ## Echo
 
-The wail of a brass trumpet and the splash of an oar in a dark swamp waterway : an echo that is warm, humid, and syncopated.
+The wail of a brass trumpet and the splash of an oar in a dark swamp waterway - warm, humid, syncopated, and gone before you can name it.

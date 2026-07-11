@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Maine](play_maine.md). It tunes the thoughtful, polite, and mechanical expression of life in the Pine Tree State.
+The pitch of [Maine](play_maine.md). It tunes the plainspoken, weather-wise, downeast expression of life in the Pine Tree State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Maine](play_maine.md). It tunes the thoughtful, polite, and mechan
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and practical, combining fishery and maritime vocabulary with forestry and lumber grading terms. It is a voice of craft and coasts - prioritizing fishery protection plans, cleanroom marine tests, and historic lighthouse preservation. This formal language shapes both the fishery cooperatives and the sawmill boards, valuing family self-reliance and group stewardship.
+Plainspoken and weather-wise, with a dry downeast wit that says more by saying less. Talk moves easy between fishery and maritime vocabulary and forestry and lumber grading terms - a voice built for craft and coast alike, prioritizing fishery protection plans, marine testing, and historic lighthouse preservation. The same flat, careful diction runs through the fishery cooperatives and the sawmill boards, valuing family self-reliance and group stewardship over anything flashy.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local fishery boards are the true anchors of a stable society.
+It plays the note of steady hands: shared family labor, hard-won technical competence, and respect for the local fishery boards hold a community together.
 
 ## Echo
 
-The wash of waves on granite rocks and the hum of a sawmill blade : an echo that is clear, wet, and mechanical.
+The wash of waves on granite rocks and the hum of a sawmill blade - clear, wet, and steady as the tide that keeps time for both.

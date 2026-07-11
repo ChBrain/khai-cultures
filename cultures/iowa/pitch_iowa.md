@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Iowa](play_iowa.md). It tunes the thoughtful, polite, and mechanical expression of life in the Hawkeye State.
+The pitch of [Iowa](play_iowa.md). It tunes the plainspoken, patient, and understated expression of life in the Hawkeye State.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [Iowa](play_iowa.md). It tunes the thoughtful, polite, and mechanic
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining corn breeding vocabulary with creative writing and state fair terms. It is a voice of fields and workshops - prioritizing watershed protection plans, cleanroom spectrometer tests, and historic school preservation. This formal language shapes both the farming cooperatives and the workshop boards, valuing family labor and technical competence.
+Played close to the vest and dead level, the way you'd talk across a fence: say the plain thing once, in the plain word, and let understatement carry what a raised voice never could - pretty good means excellent, could be worse means it's fine. The vocabulary runs two rows at once: tasseling, pollen bags, and germination counts on one side; narrative voice, line edits, and revision on the other; and neither the seed-corn plot nor the workshop table apologizes for the other's existence. It is a voice built for the long haul - watershed protection plans that take twenty years to pay off, manuscripts that take twenty drafts, historic buildings kept standing rather than torn down - and it shapes the farming cooperative meeting and the workshop board alike, where a person's word, once given, still counts for more than a résumé.
 
 ## Undertow
 
-Under the hospitality lies a persistent geographic polarization between the rapidly expanding municipal corridors and the resource-dependent farm lands. This resource divide breeds debates over deep-well irrigation pumping and watershed regulations, where state-led developmental projects are met with local protective instincts for traditional farm properties.
+Under the good manners - what outsiders like to call Iowa nice - runs a real fault line between the towns filling in along the interstate corridors and the farm ground everything else still depends on, two Iowas that don't always recognize each other at the county line. It surfaces in the fights over deep-well irrigation permits and watershed regulations, where a state office's plan for the greater good runs straight into a family's plain insistence that it's still their land to work as they see fit.
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local agricultural boards are the true anchors of a stable society.
+It strikes the chord of a job done right and left to speak for itself: the pride of a family that has worked the same ground long enough to know its moods, the quiet standing that comes from getting a hybrid line or a sentence exactly right, and the trust that a local board, elected by the neighbors who sit on it, reads the fields and the workshops truer than anyone in Des Moines ever could. It plays on the belief that showing up, season after season, counts for more than showing off.
 
 ## Echo
 
-The clatter of a typewriter key and the rustle of dry corn husks : an echo that is clear, dry, and mechanical.
+The clatter of a typewriter key and the dry rustle of a husk pulled back at judging time : clear, dry, and unhurried.

@@ -34,4 +34,4 @@ Ej itok jen aikuj eo an juon aelon eo ej itok jen lojet bwe en jela etal ioon lo
 
 ## Echo
 
-Jerakrok ej kalikkar men eo [the navigators and the sea](position_ri_jerakrok_im_lojet.md) ej aikuj e: juon wawein nan riit lojet eo im nan kobaik aelon ko. Ilo lometo in [ri-meto](persona_ri_meto.md) eo ej jerak jen aelon nan aelon, ej kojerbal jela eo etto eo me ear bedbed ilo iio ko kalon.
+Jerakrok ej kalikkar men eo [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md) ej aikuj e: juon wawein nan riit lojet eo im nan kobaik aelon ko. Ilo lometo in [ri-meto](persona_ri_meto.md) eo ej jerak jen aelon nan aelon, ej kojerbal jela eo etto eo me ear bedbed ilo iio ko kalon.

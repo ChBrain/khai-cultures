@@ -23,7 +23,7 @@ Navarra, comunidad foral y nacionalidad histórica del norte de España. ISO ES-
 
 ## Arc
 
-Una comunidad pirenaica de hayedos frondosos, valles de arraigo foral y vegas fértiles de la Ribera del Ebro. Desde la batalla de Roncesvalles en 778 donde los vascones derrotaron a la retaguardia de Carlomagno y la popularización de las fiestas de San Fermín por Hemingway en 1926, hasta el decreto de protección del hayedo de la selva de Irati. Una cultura de hortelanos, forestales de montaña y encierros urbanos que regula su régimen foral y protege su territorio forestal mediante directivas de conservación ecológicas.
+El fuero es aquí palabra vieja que todavía manda, y el encierro de San Fermín corre cada julio entre hayedos frondosos del norte y vegas fértiles de la Ribera del Ebro, con el zortziko y la jota conviviendo en la misma fiesta. Desde la batalla de Roncesvalles en 778 donde los vascones derrotaron a la retaguardia de Carlomagno y la popularización de las fiestas de San Fermín por Hemingway en 1926, hasta el decreto de protección del hayedo de la selva de Irati. Una cultura de hortelanos, forestales de montaña y encierros urbanos que regula su régimen foral y protege su territorio forestal mediante directivas de conservación ecológicas.
 
 ## Company
 

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Montana](play_montana.md). It tunes the thoughtful, polite, and mechanical expression of life in the Treasure State.
+The pitch of [Montana](play_montana.md). It tunes the register of a state that says less than it means and means every word it says.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [Montana](play_montana.md). It tunes the thoughtful, polite, and me
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining copper mining vocabulary with trail building and mountain safety terms. It is a voice of valleys and mines - prioritizing river restoration plans, cleanroom spectrometer tests, and historic mine shaft preservation. This formal language shapes both the mining cooperatives and the conservation boards, valuing family labor and technical competence.
+Say what needs saying and no more. A Montanan answers with a nod before a sentence, sizes up a stranger before trusting him with more than a word on the weather, and lets a long pause do the work three sentences would do elsewhere. The talk runs on trade words worn smooth by use - hoist, drift, and stope from the mine; switchback, cairn, and grade off the trail - plain, unhurried, checked twice before it's said once. It serves the union hall and the conservation board alike, where a man's word is the only paperwork that ever mattered.
 
 ## Undertow
 
-Under the hospitality lies a persistent geographic polarization between the rapidly expanding mountain tourist towns and the resource-dependent eastern plains. This resource divide breeds debates over deep-well mining pumping and watershed regulations, where state-led developmental projects are met with local protective instincts for traditional land properties.
+Under the neighborliness sits a resentment nobody says out loud: the mountain towns filling with money, out-of-state plates, and short-term rentals, while the plains east of the Divide keep losing people the way they've lost people for a hundred years. A rancher and a fishing guide can share a county line and mean two different Montanas by "home." Every fight over a well permit or a stream easement is that same old argument again, wearing a policy's clothes.
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local union and conservation boards are the true anchors of a stable society.
+It plays on the idea that a hard job done right earns more standing than any title, and that neighbors keep account of who showed up when the barn burned, an account that outlasts any boom.
 
 ## Echo
 
-The strike of a mining pick and the howl of wind over an alpine ridge : an echo that is loud, dry, and mechanical.
+The strike of a mining pick against rock, the howl of wind over an alpine ridge, and the long quiet after - loud, dry, unhurried.

@@ -30,7 +30,7 @@ That every town settle its own road, budget, and zoning at its own meeting befor
 
 ## Loses
 
-Ground when the same fierce localism that makes each town meeting sovereign leaves it unable to agree, town by town, on the zoning and watershed protections that a lake fouled by agricultural runoff needs decided at scale. It loses ground, too, in the seam between the fast, tourism-and-resort economy of the historic sites and ski country and the slower, weather-bound economy of the sugarhouse and dairy farm, each reading the other's calendar as an inconvenience rather than as the same hard state working two different trades; and it strains when global brand consolidation buys out the family farms and cooperatives that gave the maple economy its name.
+Ground when the same fierce localism that makes each town meeting sovereign leaves it unable to agree, town by town, on the zoning and watershed protections that a lake fouled by agricultural runoff needs decided at scale. It loses ground, too, in the seam between the quick-turning tourism-and-resort economy of the historic sites and ski country and the slower, weather-bound economy of the sugarhouse and dairy farm, each reading the other's calendar as an inconvenience rather than as the same hard state working two different trades; and it strains when global brand consolidation buys out the family farms and cooperatives that gave the maple economy its name.
 
 ## Drives
 

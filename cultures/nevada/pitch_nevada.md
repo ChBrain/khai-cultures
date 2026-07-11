@@ -21,7 +21,7 @@ The pitch of [Nevada](play_nevada.md). It tunes the thoughtful, informal, and na
 
 ## Tenor
 
-A thoughtful, informal, and narrative tone. The communication is conversational, polite, and story-driven, combining casino gaming vocabulary with solar engineering and mining terms. It is a voice of chance and desert - prioritizing Lake Mead water plans, cleanroom solar calibrations, and historic casino preservation. This narrative language shapes both the high-energy gaming floors and the desert solar installations, valuing personal resilience and community survival.
+Nevada talks like it's already counted the odds - conversational, polite, and story-driven, mixing casino gaming vocabulary with solar engineering and mining terms. It is a voice of chance and desert, at home with Lake Mead water plans, precision solar calibrations, and casino history kept for the tourists. This narrative language shapes both the high-energy gaming floors and the desert solar installations, valuing personal resilience and community survival.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that calculated personal risk-taking, advanced technical solar competence, and local watershed boards are the true anchors of a stable society.
+It plays the dealer's note: a society holds steady on calculated personal risk-taking, advanced technical solar competence, and the say-so of local watershed boards.
 
 ## Echo
 
-The shuffle of playing cards on felt and the hum of a solar power inverter : an echo that is clear, dry, and mechanical.
+The shuffle of playing cards on felt meets the hum of a solar power inverter - clear, dry, and mechanical, the sound of a state that hedges every bet with an engineer.

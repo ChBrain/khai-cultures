@@ -23,7 +23,7 @@ Oklahoma, the Sooner State in the West South Central region of the United States
 
 ## Arc
 
-A land of resource extraction and tribal resilience, defined by the grassy plains of the Southern Hills. From the rapid land settlement of the Land Run of 1889 and the massive wealth of the early petroleum strikes, to the agricultural devastation of the Dust Bowl. A culture that balances the pioneer determination of its oil fields with the sovereign heritage of its Native American nations, even as it plans prairie windbreaks to prevent soil erosion.
+Land Run noon, oil gusher, dust storm: Oklahoma's history keeps landing on the same square mile within a single lifetime. Settlers raced onto the plains in a single afternoon in 1889, oil under Bartlesville turned that raw land run wealth into a fortune within a decade, and within another forty years the wind carried the topsoil clean away. Oil rig and Cherokee council house both work this ground today, the sooner spirit's hurry sitting alongside tribal nations whose claim to it predates any run ever fired.
 
 ## Company
 
@@ -78,4 +78,4 @@ Severe drought and wind erosion trigger massive topsoil loss across the plains, 
 
 ## Stakes
 
-Whether a prairie state with intensive farming and oil extraction can successfully implement windbreak plans to prevent severe topsoil erosion.
+Whether a prairie state built on intensive farming and oil extraction can still get its windbreak plans in place before the topsoil erodes as badly again.

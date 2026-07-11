@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Baden-Württemberg, das drittgrößte Bundesland im Südwesten der Bundesrepublik Deutschland. ISO DE-BW, Sprache de.
+Baden-Württemberg, der Südwesten zwischen Rhein, Neckar und Bodensee, wo der Schwabe tüftelt und der Badener geniesst. ISO DE-BW, Sprache de.
 
 ## Arc
 
-Ein Zusammenschluss stolzer historischer Territorien, die nach einer Volksabstimmung 1951 einen gemeinsamen Südweststaat bildeten. Die Heimat des Automobils und weltberühmter Ingenieurskunst, in der Fleiß und Sparsamkeit zur wirtschaftlichen Blüte führten. Ein Ort, an dem die tiefe Verwurzelung in der Schwarzwald-Heimat harmonisch mit der Arbeit in global agierenden Hightech-Konzernen verschmilzt.
+„Wir können alles. Außer Hochdeutsch." Der Satz ist Programm: hier zählt die Tat mehr als der Dialekt, in dem sie erklärt wird. Aus Kellerwerkstätten und der Garage von Carl Benz wuchs die Werkbank der Welt; erst 1951 wuchsen Württemberg und Baden per Volksabstimmung zum gemeinsamen Land, doch der wahre Zusammenhalt kommt aus der Kehrwoche und dem Häusle, nicht aus dem Beschluss.
 
 ## Company
 
@@ -78,4 +78,4 @@ Carl Benz meldet das erste Automobil zum Patent an, während Gottlieb Daimler in
 
 ## Stakes
 
-Der Wandel der traditionellen Automobilindustrie hin zur klimafreundlichen Mobilität bei gleichzeitiger Bewahrung des Wohlstands und der regionalen Vielfalt.
+Ob ein Land, dessen Wohlstand aus dem Verbrennungsmotor kam, den Sprung zur klimafreundlichen Mobilität schafft, ohne Tüftlergeist und regionale Vielfalt zu verlieren.

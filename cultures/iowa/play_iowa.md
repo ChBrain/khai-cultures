@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Iowa, the Hawkeye State in the West North Central region of the United States. ISO US-IA, language en.
+Iowa, the Hawkeye State, in the West North Central region of the United States. ISO US-IA, language en - plain-spoken by habit, not by accident.
 
 ## Arc
 
-A land of agricultural wealth and literary craft, defined by the fertile rolling plains between the Mississippi and Missouri Rivers. From the tragic cessions of the Black Hawk Purchase and the livestock competitions of the early Iowa State Fairs, to the creative writing seminars of the Iowa Writers' Workshop. A culture that balances the heartland agriculture of its crop fields with the literary discipline of its university workshops, even as it plans the protection of its agricultural watersheds.
+Rolling black-soil plains run the whole distance between the Mississippi and the Missouri, and Iowa got built on top of them: ground broken first by the forced cessions of the Black Hawk Purchase, proved out at the livestock ring of the early Iowa State Fairs, then carried, a century later, into the seminar rooms of the Iowa Writers' Workshop, where the same patience that raises a good crop got turned to raising a good sentence. The corn field and the workshop table answer to one clock here, not two - plant, tend, and show the results out loud each fall at the Fair, then start over - and the heartland agriculture of its crop counties sits right alongside the literary discipline of its university workshops, even as the state now watches its own rivers for what those same fields send downstream.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of agricultural wealth and literary craft, defined by the fertile rolling
 
 **[Plot 1: The Black Hawk Purchase 1832](plot_01_black_hawk_purchase.md)**
 
-Forced treaty cessions along the Mississippi River displace Sac and Fox nations, opening the area to farming.
+In 1832, treaties forced along the Mississippi push the Sac and Fox off land they had long worked, and the ground they leave behind becomes the first plowed acres of Iowa farming.
 
 **[Plot 2: The Iowa State Fair Inauguration 1854](plot_02_iowa_state_fair.md)**
 
-The state agricultural society organizes the first state fair in Fairfield, establishing a major farming tradition.
+In Fairfield, the state agricultural society sets up the first Iowa State Fair, and the state has judged its best corn and its best stock against the neighbors' every year since.
 
 **[Plot 3: The Writers' Workshop Launch 1936](plot_03_writers_workshop.md)**
 
-The University of Iowa launches the nation's first creative writing program, establishing a major literary workshop model.
+At the University of Iowa, the nation's first creative writing program opens its doors, and the workshop table becomes as much a proving ground as any field.
 
 ## Stakes
 
-Whether a prairie state experiencing intensive corn and livestock farming can successfully execute river plans to manage agricultural fertilizer runoff.
+Whether a prairie state built on intensive corn and livestock farming can get its river plans to hold - cutting the fertilizer runoff before the water carries off what the ground took a whole season to grow.

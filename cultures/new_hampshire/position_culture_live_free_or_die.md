@@ -30,7 +30,7 @@ That every four years the nation's political attention bend toward a state small
 
 ## Loses
 
-Ground when the state's fierce localism curdles into gridlock, town meetings unable to agree on the very zoning and watershed protections that a forest under commercial logging pressure needs decided at scale rather than parish by parish. It loses ground in the seam between the fast, tourist-driven cog railway economy and the slower, weather-bound rhythm of the maple harvest, each treating the other's calendar as an inconvenience. And it loses ground to its own low-tax frugality when the roads, schools, and forests it prizes need public money that the state's own motto makes it reluctant to raise.
+Ground when the state's fierce localism curdles into gridlock, town meetings unable to agree on the very zoning and watershed protections that a forest under commercial logging pressure needs decided at scale rather than parish by parish. It loses ground in the seam between the quick, tourist-driven cog railway economy and the slower, weather-bound rhythm of the maple harvest, each treating the other's calendar as an inconvenience. And it loses ground to its own low-tax frugality when the roads, schools, and forests it prizes need public money that the state's own motto makes it reluctant to raise.
 
 ## Drives
 
