@@ -44,6 +44,7 @@ A land of cultural heritage and advanced scientific research, defined by the dry
 
 **Positions**
 
+- [the Land of Enchantment](position_culture_land_of_enchantment.md)
 - [pueblo heritage](position_pueblo_heritage.md)
 - [desert science](position_desert_science.md)
 - [New Mexico English](position_language_en_us_nm.md)

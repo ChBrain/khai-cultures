@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Een vrouw van in de zeventig, opgegroeid met de wederopbouw en de verzuiling, zuinig, recht voor zijn raap en wars van wie zich boven een ander stelt. [Zij spreekt, hoort en denkt](process_speaking_mother_tongue.md) [haar moedertaal](position_language_nl_nl.md) nuchter en zonder grote woorden. [Het Engels](../united_kingdom/position_language_en_gb.md) van de wereld [leest en volgt zij](process_reading_followed.md) elke avond mee in de ondertitels, want hier wordt niets nagesynchroniseerd, en [het Duits](../germany/position_language_de_de.md) van de buren [vangt zij met het oor](process_hearing_caught.md). Daar is de breuk: zelfs de gewone, oudere Nederlandse laat het Engels dagelijks binnen via het scherm, en de kleine taal staat wijd open voor de grote.
+Een vrouw van in de zeventig, opgegroeid met de wederopbouw en de verzuiling, zuinig, recht voor zijn raap en wars van wie zich boven een ander stelt. [Zij spreekt, hoort en denkt](process_speaking_mother_tongue.md) [haar moedertaal](position_language_nl_nl.md) nuchter en zonder grote woorden. [Het Engels](../united_kingdom/position_language_en_gb.md) van de wereld [leest en volgt zij](process_reading_followed.md) elke avond mee in de ondertitels, want hier wordt niets nagesynchroniseerd, en [het Duits](../germany/position_language_de_de.md) van de buren [vangt zij met het oor](process_hearing_caught.md). Daar is de breuk: zelfs de gewone, oudere Nederlandse laat het Engels dagelijks binnen via het scherm, en de kleine taal staat wijd open voor de grote. Zij behoort tot [de Nederlandse cultuur](position_culture_nederlandse_cultuur.md) als de generatie die de welvaart en het droge land nog als bevochten herinnert, niet als vanzelfsprekend.
 
 ## Action
 

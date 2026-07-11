@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old Broadway stage manager in Brooklyn. English is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and directs the backstage crew. It is the [New York English](position_language_en_us_ny.md) of the five boroughs, the immigrant-layered Brooklyn cadence of the theater district. Yiddish [she wears as an overgarment](process_speaking_worn.md) in her creative writing and conversations, preserving Brooklyn's immigrant heritage. Yet the loss lies in the seam: The transaction-oriented financial talk of Tony and corporate real estate values [she hears only like a distant echo](process_hearing_followed.md), feeling that the collective, artistic soul of the city is being priced out by commercial interests.
+A thirty-eight-year-old Broadway stage manager in Brooklyn. English is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and directs the backstage crew. It is the [New York English](position_language_en_us_ny.md) of the five boroughs, the immigrant-layered Brooklyn cadence of the theater district. Yiddish [she wears as an overgarment](process_speaking_worn.md) in her creative writing and conversations, preserving Brooklyn's immigrant heritage. Yet the loss lies in the seam: The transaction-oriented financial talk of Tony and corporate real estate values [she hears only like a distant echo](process_hearing_followed.md), feeling that the collective, artistic soul of the city is being priced out by commercial interests. She belongs to [New York culture](position_culture_new_york_culture.md) as the stage manager who keeps the melting pot's welcome alive against the pressure of its own success.
 
 ## Action
 

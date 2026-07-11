@@ -44,6 +44,7 @@ A theater of intense ambition, rapid pace, and dense cultural collision, shaped 
 
 **Positions**
 
+- [New York culture](position_culture_new_york_culture.md)
 - [the Empire State](position_empire_state.md)
 - [the melting pot](position_melting_pot.md)
 - [New York English](position_language_en_us_ny.md)
