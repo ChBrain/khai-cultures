@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Barthelemy Boganda"
-declared: "Barthelemy Boganda"
+title: "Barthélemy Boganda"
+declared: "Barthélemy Boganda"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Barthelemy Boganda
+# Persona: Barthélemy Boganda
 
 ## Taxonomy
 

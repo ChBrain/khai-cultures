@@ -26,12 +26,12 @@ Le français porte un genre grammatical arbitraire sur chaque nom, y compris les
 
 ## Orders
 
-Il oblige a accorder le genre et le nombre sur l'adjectif entier, a choisir entre tu et vous a chaque adresse selon la distance sociale voulue, et a respecter un ordre des mots strict, sujet puis verbe puis complement, qui laisse peu de place a l'inversion libre. Il impose aussi la liaison, cette consonne muette qui reparait devant une voyelle, de sorte que l'oreille doit toujours anticiper le mot suivant.
+Il oblige à accorder le genre et le nombre sur l'adjectif entier, à choisir entre tu et vous à chaque adresse selon la distance sociale voulue, et à respecter un ordre des mots strict, sujet puis verbe puis complément, qui laisse peu de place à l'inversion libre. Il impose aussi la liaison, cette consonne muette qui reparaît devant une voyelle, de sorte que l'oreille doit toujours anticiper le mot suivant.
 
 ## Loses
 
-Il perd la souplesse des langues qui n'imposent pas de genre sur l'inanime, car chaque nom nouveau doit se voir attribuer arbitrairement le masculin ou le feminin sans logique. Et le passe simple, si precis a l'ecrit, s'efface de la parole quotidienne, si bien qu'une nuance de recit propre a la langue litteraire se perd des qu'on ne l'ecrit plus.
+Il perd la souplesse des langues qui n'imposent pas de genre sur l'inanimé, car chaque nom nouveau doit se voir attribuer arbitrairement le masculin ou le féminin sans logique. Et le passé simple, si précis à l'écrit, s'efface de la parole quotidienne, si bien qu'une nuance de récit propre à la langue littéraire se perd dès qu'on ne l'écrit plus.
 
 ## Drives
 
-Il habitue qui le parle a peser la distance sociale avant meme de choisir son pronom d'adresse, tu ou vous, et a construire la phrase dans un ordre fixe qui structure la pensee comme une demonstration, sujet, verbe, complement. L'habitude du genre arbitraire entraine l'esprit a classer chaque chose sans en chercher la raison, et le souci constant de l'accord discipline l'attention a chaque mot de la phrase.
+Il habitue qui le parle à peser la distance sociale avant même de choisir son pronom d'adresse, tu ou vous, et à construire la phrase dans un ordre fixe qui structure la pensée comme une démonstration, sujet, verbe, complément. L'habitude du genre arbitraire entraîne l'esprit à classer chaque chose sans en chercher la raison, et le souci constant de l'accord discipline l'attention à chaque mot de la phrase.
