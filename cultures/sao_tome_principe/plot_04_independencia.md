@@ -32,7 +32,7 @@ A 12 de julho de 1975 Sao Tome e Principe torna-se uma nacao soberana, e o povo 
 
 - [Alda Espirito Santo](persona_alda.md): a poeta que escreve o hino da nacao nova.
 - [Pedro Lima](persona_pedro_lima.md): a voz que canta o povo nos anos em que toma a sua casa.
-- [a crioulidade](position_crioulidade.md): o povo crioulo que se faz, enfim, nacao soberana.
+- [a crioulidade](position_culture_crioulidade.md): o povo crioulo que se faz, enfim, nacao soberana.
 - [Sao Tome](place_sao_tome.md): a capital onde se proclama a independencia e se ergue a bandeira nova.
 
 ## Tension

@@ -30,7 +30,7 @@ Sa kapuluang inihiwalay ng dagat ay nabuo ang mga bayan na pinamumunuan ng datu,
 
 ## Stage
 
-- [kapwa](position_kapwa.md): ang damdaming hinubog ng dagat at ng barangay, ang unang buklod ng kapuluan.
+- [kapwa](position_culture_kapwa.md): ang damdaming hinubog ng dagat at ng barangay, ang unang buklod ng kapuluan.
 - [ang Hagdan-hagdang Palayan ng Banaue](place_banaue.md): ang katibayan ng katutubong kakayahan, inukit sa bundok nang libong taon bago ang anumang pananakop.
 
 ## Tension

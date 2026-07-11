@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Ang bukas na adhikaing itinakda ng bansa sa sarili mula nang magising ito: ang walang hanggang gawain ng pagbuo ng isang bayan mula sa libu-libong isla at daan-daang wika, na ang buklod ay ang [kapwa](position_kapwa.md), ang [ang pamilya](position_ang_pamilya.md), at ang [ang pananampalataya](position_ang_pananampalataya.md), upang manatiling isa ang marami kahit sa harap ng dagat na naghihiwalay at ng paglayo ng mga anak nito sa buong daigdig.
+Ang bukas na adhikaing itinakda ng bansa sa sarili mula nang magising ito: ang walang hanggang gawain ng pagbuo ng isang bayan mula sa libu-libong isla at daan-daang wika, na ang buklod ay ang [kapwa](position_culture_kapwa.md), ang [ang pamilya](position_ang_pamilya.md), at ang [ang pananampalataya](position_ang_pananampalataya.md), upang manatiling isa ang marami kahit sa harap ng dagat na naghihiwalay at ng paglayo ng mga anak nito sa buong daigdig.
 
 ## Owner
 

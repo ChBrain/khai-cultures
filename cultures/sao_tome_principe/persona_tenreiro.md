@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[a crioulidade](position_crioulidade.md)
+[a crioulidade](position_culture_crioulidade.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ O santomense que se fez geografo e poeta em Lisboa, filho da ilha de cacau, que 
 
 ## Action
 
-Em [o tempo do cacau](plot_03_cacau.md) canta a ilha de chocolate e a sua gente, pondo na poesia a roca que conhecia e o trabalho que a fez, com a dignidade dos seus e sem alarde da ferida. Faz da [crioulidade](position_crioulidade.md) causa e canto, ligando a sua ilha pequena a voz maior de toda a Africa que entao se erguia.
+Em [o tempo do cacau](plot_03_cacau.md) canta a ilha de chocolate e a sua gente, pondo na poesia a roca que conhecia e o trabalho que a fez, com a dignidade dos seus e sem alarde da ferida. Faz da [crioulidade](position_culture_crioulidade.md) causa e canto, ligando a sua ilha pequena a voz maior de toda a Africa que entao se erguia.
 
 ## Shadow
 

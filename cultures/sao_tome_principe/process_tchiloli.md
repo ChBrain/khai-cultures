@@ -34,4 +34,4 @@ Move-o a forca de um povo que faz do que recebeu de fora materia propria, transm
 
 ## Echo
 
-O tchiloli torna visivel o que move [a crioulidade](position_crioulidade.md): a arte de pegar no alheio e faze-lo seu, prova de um povo novo que, ate no teatro que danca, e dono do que diz. Foi este genio de apropriacao que, em outra chave, [Caetano da Costa Alegre](persona_costa_alegre.md) levou ao verso.
+O tchiloli torna visivel o que move [a crioulidade](position_culture_crioulidade.md): a arte de pegar no alheio e faze-lo seu, prova de um povo novo que, ate no teatro que danca, e dono do que diz. Foi este genio de apropriacao que, em outra chave, [Caetano da Costa Alegre](persona_costa_alegre.md) levou ao verso.

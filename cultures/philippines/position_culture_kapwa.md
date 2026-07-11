@@ -1,13 +1,13 @@
 ---
 khai: position
-title: "Kapwa"
+title: "Filipino Culture"
 declared: "kapwa"
 language: tl
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-24"
+  date: "2026-07-10"
 ---
 
 # Position: kapwa

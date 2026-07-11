@@ -43,6 +43,7 @@ Das historische Herzstück deutscher Industrialisierung und Maschinenbaukunst. E
 
 **Positions**
 
+- [die sächsische Kultur](position_culture_saechsische_kultur.md)
 - [der Erfindergeist](position_erfindergeist.md)
 - [der Barockstolz](position_barockstolz.md)
 - [der Bürgerprotest](position_buergerprotest.md)

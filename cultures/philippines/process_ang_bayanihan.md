@@ -34,4 +34,4 @@ Pinapatakbo ito ng kapwa, ng damdaming ang ibang tao ay bahagi ng sarili, at ng 
 
 ## Echo
 
-Ang bayanihan ang nagpapakita ng paraang Pilipino ng pagtulong na sama-sama at pagbangon nang magkakasama. Ito ang umuugat sa [kapwa](position_kapwa.md), at sa loob nito buhay ang katatagang sa harap ng hirap ay hindi iniiwang mag-isa ang sinuman, kundi binubuhat ng buong bayan ang pasanin ng iisa.
+Ang bayanihan ang nagpapakita ng paraang Pilipino ng pagtulong na sama-sama at pagbangon nang magkakasama. Ito ang umuugat sa [kapwa](position_culture_kapwa.md), at sa loob nito buhay ang katatagang sa harap ng hirap ay hindi iniiwang mag-isa ang sinuman, kundi binubuhat ng buong bayan ang pasanin ng iisa.

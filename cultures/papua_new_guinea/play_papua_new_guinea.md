@@ -47,6 +47,7 @@ I no gat narapela kantri i gat planti tok ples olsem dispela hap. Long bikpela a
 
 **Positions**
 
+- [wanpela kantri, planti lain](position_culture_wanpela_kantri_planti_lain.md)
 - [a thousand tongues, one country](position_language_tpi.md)
 - [the wantok and kastom](position_wantok_na_kastom.md)
 - [the Melanesian Way](position_melanesian_we.md)

@@ -30,7 +30,7 @@ Brota a crioulidade. Na terra das rocas fixam-se os forros, com a sua lingua san
 
 ## Stage
 
-- [a crioulidade](position_crioulidade.md): o povo novo, a fala e a alma que nascem da mistura das gentes.
+- [a crioulidade](position_culture_crioulidade.md): o povo novo, a fala e a alma que nascem da mistura das gentes.
 - [Caetano da Costa Alegre](persona_costa_alegre.md): a primeira voz a dizer a ilha e a sua cor em poesia.
 - [a ilha do Principe](place_principe.md): a ilha irma onde o povo do Principe faz a sua propria fala e o seu modo.
 - [o tchiloli](process_tchiloli.md): o teatro das ilhas, sinal maior da cultura crioula que se forma.

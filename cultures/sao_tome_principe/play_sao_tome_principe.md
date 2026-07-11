@@ -47,7 +47,7 @@ Quando os navios chegaram, estas ilhas nao tinham ninguem: so floresta, agua a c
 
 **Positions**
 
-- [a crioulidade](position_crioulidade.md)
+- [a crioulidade](position_culture_crioulidade.md)
 - [a roca](position_roca.md)
 - [a insularidade](position_insularidade.md)
 - [o portugues santomense](position_language_pt_st.md)
@@ -73,7 +73,7 @@ No fim do seculo XV os navios encontram duas ilhas sem ninguem e plantam-lhes a 
 
 **[Plot 2: o nascer do povo crioulo](plot_02_povo_crioulo.md)**
 
-Da mistura forcada das gentes brota um povo novo, com os angolares feitos na mata e os forros na terra da roca, e [a crioulidade](position_crioulidade.md) torna-se a alma das ilhas, levada na voz por [Caetano da Costa Alegre](persona_costa_alegre.md).
+Da mistura forcada das gentes brota um povo novo, com os angolares feitos na mata e os forros na terra da roca, e [a crioulidade](position_culture_crioulidade.md) torna-se a alma das ilhas, levada na voz por [Caetano da Costa Alegre](persona_costa_alegre.md).
 
 **[Plot 3: o tempo do cacau](plot_03_cacau.md)**
 
@@ -81,7 +81,7 @@ No virar do seculo XX o cacau faz de Sao Tome a ilha de chocolate, e [o cacau](p
 
 **[Plot 4: a independencia (1975)](plot_04_independencia.md)**
 
-A 12 de julho de 1975 as ilhas tomam nas maos a sua propria casa e [Alda Espirito Santo](persona_alda.md) da-lhes o hino, fazendo da [crioulidade](position_crioulidade.md) uma nacao soberana.
+A 12 de julho de 1975 as ilhas tomam nas maos a sua propria casa e [Alda Espirito Santo](persona_alda.md) da-lhes o hino, fazendo da [crioulidade](position_culture_crioulidade.md) uma nacao soberana.
 
 ## Stakes
 

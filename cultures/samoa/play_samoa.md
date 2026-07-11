@@ -47,7 +47,7 @@ O se atunuu ua tupuga mai i tagata folau o le Pasefika, o tagata Lapita ma Polen
 
 **Positions**
 
-- [le faaSamoa](position_faasamoa.md)
+- [le faaSamoa](position_culture_faasamoa.md)
 - [le Mau](position_le_mau.md)
 - [le folauga ma le upu](position_folauga_ma_le_upu.md)
 - [le gagana Samoa](position_language_smo.md)
@@ -69,7 +69,7 @@ O se atunuu ua tupuga mai i tagata folau o le Pasefika, o tagata Lapita ma Polen
 
 **[Plot 1: tagata folau](plot_01_tagata_folau.md)**
 
-I aso anamua na asiasi mai ai tagata folau o le Pasefika i [Savaii](place_savaii.md), ma faatuina ai le faavae o le [faaSamoa](position_faasamoa.md), o le faiga matai ma le aiga, e ala mai i le poto o [le matai](persona_le_matai.md) i le sami ma le eleele.
+I aso anamua na asiasi mai ai tagata folau o le Pasefika i [Savaii](place_savaii.md), ma faatuina ai le faavae o le [faaSamoa](position_culture_faasamoa.md), o le faiga matai ma le aiga, e ala mai i le poto o [le matai](persona_le_matai.md) i le sami ma le eleele.
 
 **[Plot 2: malo ma le Mau](plot_02_malo_ma_le_mau.md)**
 
@@ -77,7 +77,7 @@ I lalo o le pulega a Siamani ma Niu Sila na tulai mai ai [le Mau](position_le_ma
 
 **[Plot 3: le tutoatasi](plot_03_le_tutoatasi.md)**
 
-I le tausaga e 1962 na maua ai e Samoa le tutoatasi, o le uluai atunuu Pasefika, ma sa avea [Malietoa Tanumafili II](persona_malietoa.md) ma uluai ao mamalu o le atunuu tutoatasi, e mausali ai le [faaSamoa](position_faasamoa.md).
+I le tausaga e 1962 na maua ai e Samoa le tutoatasi, o le uluai atunuu Pasefika, ma sa avea [Malietoa Tanumafili II](persona_malietoa.md) ma uluai ao mamalu o le atunuu tutoatasi, e mausali ai le [faaSamoa](position_culture_faasamoa.md).
 
 **[Plot 4: faaSamoa i aso nei](plot_04_faasamoa_i_aso_nei.md)**
 

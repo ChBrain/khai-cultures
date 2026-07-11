@@ -47,6 +47,7 @@ A small island carrying a story bigger than itself. Before the Europeans the Kal
 
 **Positions**
 
+- [The Land, The People, The Light](position_culture_the_land_the_people_the_light.md)
 - [the Helen of the West Indies](position_the_helen_of_the_west_indies.md)
 - [two Nobels from a small island](position_two_nobels_from_a_small_island.md)
 - [Kweyol and the land](position_kweyol_and_the_land.md)

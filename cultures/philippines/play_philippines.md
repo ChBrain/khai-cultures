@@ -47,7 +47,7 @@ Isang kapuluang binuo ng dagat: libu-libong isla, daan-daang wika, at mga bayang
 
 **Positions**
 
-- [kapwa](position_kapwa.md)
+- [kapwa](position_culture_kapwa.md)
 - [ang pamilya](position_ang_pamilya.md)
 - [ang pananampalataya](position_ang_pananampalataya.md)
 - [Filipino](position_language_tl.md)
@@ -69,7 +69,7 @@ Isang kapuluang binuo ng dagat: libu-libong isla, daan-daang wika, at mga bayang
 
 **[Plot 1: ang mga Isla](plot_01_mga_isla.md)**
 
-Bago pa ang anumang bandila ay nakalatag na ang kapuluan, ang bawat baybayin at bundok ay may sariling bayan at wika, at hinubog ng dagat ang [kapwa](position_kapwa.md) at ang barangay na siyang unang anyo ng samahan.
+Bago pa ang anumang bandila ay nakalatag na ang kapuluan, ang bawat baybayin at bundok ay may sariling bayan at wika, at hinubog ng dagat ang [kapwa](position_culture_kapwa.md) at ang barangay na siyang unang anyo ng samahan.
 
 **[Plot 2: ang Pananakop](plot_02_ang_pananakop.md)**
 
@@ -85,4 +85,4 @@ Sa wakas ay natamo ng bansa ang sariling kalayaan, at sa makabagong panahon ay k
 
 ## Stakes
 
-Kung mahahawakang isa ang isang bansang nakalatag sa libu-libong isla at daan-daang wika, na ang buklod ay hindi dugo o lupa kundi ang [kapwa](position_kapwa.md), ang pamilya, at ang pananampalataya, kung mapananatili ang ngiti at ang bayanihan sa harap ng hirap, ng kalamidad ng dagat, at ng paglayo ng kanyang mga anak na nagtatrabaho sa malayo upang may maiuwi sa mga naghihintay sa bahay.
+Kung mahahawakang isa ang isang bansang nakalatag sa libu-libong isla at daan-daang wika, na ang buklod ay hindi dugo o lupa kundi ang [kapwa](position_culture_kapwa.md), ang pamilya, at ang pananampalataya, kung mapananatili ang ngiti at ang bayanihan sa harap ng hirap, ng kalamidad ng dagat, at ng paglayo ng kanyang mga anak na nagtatrabaho sa malayo upang may maiuwi sa mga naghihintay sa bahay.

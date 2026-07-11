@@ -47,6 +47,7 @@ Un país que es ante todo un paso: el istmo, el cruce del mundo, la cintura ango
 
 **Positions**
 
+- [la panameñidad](position_culture_panamenidad.md)
 - [el cruce del mundo](position_el_cruce_del_mundo.md)
 - [la soberanía y el canal](position_la_soberania_y_el_canal.md)
 - [el crisol del istmo](position_el_crisol_del_istmo.md)

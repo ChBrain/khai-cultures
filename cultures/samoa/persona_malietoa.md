@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[le faaSamoa](position_faasamoa.md)
+[le faaSamoa](position_culture_faasamoa.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-O le tamaalii mamalu na avea ma uluai ao mamalu o Samoa tutoatasi, o le na tauave le suafa Malietoa, o se tasi o suafa sili o le atunuu, ma na faauluulu i le atunuu fou i ona tausaga e tele. Filemu, mausali, ma le faaaloalo, sa ia tu o se faailoga o le tumau o le faaSamoa i le tutoatasi, o le sootaga i va o le atunuu anamua ma le atunuu fou. O le gagana Samoa o lana gagana moni: na te [tautala](process_speaking_mother_tongue.md) ma [mafaufau](process_thinking_mother_tongue.md) i le gagana o le matai ma le fono. O [le gagana Samoa](position_language_smo.md) lea o lana gagana moni. Sa ia [faalogo](process_hearing_mother_tongue.md) i le tautala mamalu o le fono i lona gagana, ma o le faaperetania na ia [tauave](process_speaking_carried.md) mai i le aoga ma le fesootaiga i le lalolagi. O le ao mamalu na ia tautala mo le atunuu i lona gagana, ma e ui ina poto i le upu Samoa ma le faaperetania, na te le mafai ona faaliliu atoatoa le mamafa o le tutoatasi i se gagana e tasi, ma o iina e i ai le va e tumau pea i tua atu o le tuluiga o le laulaufaiva.
+O le tamaalii mamalu na avea ma uluai ao mamalu o Samoa tutoatasi, o le na tauave le suafa Malietoa, o se tasi o suafa sili o le atunuu, ma na faauluulu i le atunuu fou i ona tausaga e tele. Filemu, mausali, ma le faaaloalo, sa ia tu o se faailoga o le tumau o le faaSamoa i le tutoatasi, o le sootaga i va o le atunuu anamua ma le atunuu fou. O le gagana Samoa o lana gagana moni: na te [tautala](process_speaking_mother_tongue.md) ma [mafaufau](process_thinking_mother_tongue.md) i le gagana o le matai ma le fono. O [le gagana Samoa](position_language_smo.md) lea o lana gagana moni. Sa ia [faalogo](process_hearing_mother_tongue.md) i le tautala mamalu o le fono i lona gagana, ma o le faaperetania na ia [tauave](process_speaking_carried.md) mai i le aoga ma le fesootaiga i le lalolagi. O le ao mamalu na ia tautala mo le atunuu i lona gagana, ma e ui ina poto i le upu Samoa ma le faaperetania, na te le mafai ona faaliliu atoatoa le mamafa o le tutoatasi i se gagana e tasi, ma o iina e i ai le va e tumau pea i tua atu o le tuluiga o le laulaufaiva. E auauna o ia i [le faaSamoa](position_culture_faasamoa.md), o le na te tauave i le ao mamalu, e faailoga ai le sootaga i va o le atunuu anamua ma le atunuu tutoatasi.
 
 ## Action
 
-I [le tutoatasi](plot_03_le_tutoatasi.md) na ia avea ma uluai ao mamalu o Samoa tutoatasi i le tausaga e 1962, o le uluai atunuu Pasefika na maua le tutoatasi, ma na ia tauave le [faaSamoa](position_faasamoa.md) i le atunuu fou. Na ia faauluulu i le atunuu i le filemu ma le faaaloalo, ma faia ai le sootaga i va o le anamua ma le aso nei.
+I [le tutoatasi](plot_03_le_tutoatasi.md) na ia avea ma uluai ao mamalu o Samoa tutoatasi i le tausaga e 1962, o le uluai atunuu Pasefika na maua le tutoatasi, ma na ia tauave le [faaSamoa](position_culture_faasamoa.md) i le atunuu fou. Na ia faauluulu i le atunuu i le filemu ma le faaaloalo, ma faia ai le sootaga i va o le anamua ma le aso nei.
 
 ## Shadow
 
