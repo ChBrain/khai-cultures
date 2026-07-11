@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Nebraska](play_nebraska.md). It tunes the thoughtful, polite, and mechanical expression of life in the Cornhusker State.
+The pitch of [Nebraska](play_nebraska.md). It tunes the patient, formal, close-counted expression of life in the Cornhusker State.
 
 ## Owner
 

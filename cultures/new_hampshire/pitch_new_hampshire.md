@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [New Hampshire](play_new_hampshire.md). It tunes the thoughtful, polite, and mechanical expression of life in the Granite State.
+The pitch of [New Hampshire](play_new_hampshire.md). It tunes the spare, exacting, close-mouthed expression of life in the Granite State.
 
 ## Owner
 
