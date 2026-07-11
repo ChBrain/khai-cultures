@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The French Revolution of 1789"
-declared: "la Revolution de 1789"
+declared: "la Révolution de 1789"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: la Revolution de 1789
+# Plot: la Révolution de 1789
 
 ## Taxonomy
 

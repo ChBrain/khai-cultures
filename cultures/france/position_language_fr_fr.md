@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "the French Language"
-declared: "la langue francaise"
+declared: "la langue française"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: la langue francaise
+# Position: la langue française
 
 ## Taxonomy
 

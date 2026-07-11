@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old blues guitarist in Clarksdale. English, spoken with a Delta cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily slide guitar workshops. It is the [Mississippian English](position_language_en_us_ms.md) of the Clarksdale juke joint, the slow Delta cadence of the blues porch. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of archivists like Ida and the quiet history of [civil rights solidarity](position_civil_rights_solidarity.md) [he reads only as regional education updates](process_reading_followed.md) on his workstation, feeling that the patient, rights-protecting rhythm of early voter committees is being forgotten in the race for modern tourism profit. He belongs to [the Hospitality State](position_culture_hospitality_state.md) as the blues legacy that answered the Delta's hardship with a slide guitar.
+Thirty-eight years old, a blues guitarist in Clarksdale who can find the turnaround in the dark. English is the tongue he [speaks, hears, and thinks in](process_speaking_mother_tongue.md), the [Mississippian English](position_language_en_us_ms.md) of the Delta porch and the Clarksdale juke joint, y'all doing real work in every sentence he lays down. He has no other language, and the guitar has never once needed one. What he can't always hear past his own strings is [civil rights solidarity](position_civil_rights_solidarity.md) - Ida's slow, patient archive work [reaches him mostly as a line on the county newsletter](process_reading_followed.md), and some nights he worries the old registration drives are getting crowded out by whatever brings this season's tour buses to town. He belongs to [the Hospitality State](position_culture_hospitality_state.md) as the porch sound that answered the Delta's hardest years with a bottleneck and a steel string.
 
 ## Action
 
@@ -31,8 +31,8 @@ He preserves [resonator guitar](piece_resonator_guitar.md) instruments, coordina
 
 ## Shadow
 
-His focus on performance metrics and tourist festival revenue can make him indifferent to municipal water infrastructure disinvestment in rural delta counties.
+Chasing festival bookings and a full house on Saturday, he can go a whole season without asking why clean water still doesn't reach the delta farms past town.
 
 ## Tell
 
-He adjusts a slide bar on his resonator guitar and says directly: "We are calibrating classic twelve-bar acoustic blues; you can't preserve community heritage if you're only focused on digital speed and agricultural lobby budgets."
+He adjusts a slide bar on his resonator guitar and says, plain: "This is testimony same as any sermon - you don't get to call yourself a bluesman and let the folks past the levee go thirsty while the tour money rolls through downtown."

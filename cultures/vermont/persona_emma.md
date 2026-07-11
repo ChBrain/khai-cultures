@@ -31,8 +31,8 @@ She preserves [ice cream tub](piece_ice_cream_tub.md) records, coordinates field
 
 ## Shadow
 
-Her faith in the town meeting runs deep enough that she meets any state-wide zoning or watershed mandate with plain suspicion, half convinced Montpelier is one regulation away from telling a family what its own back forty is for.
+Her faith in the town meeting runs deep enough that she meets any state-wide zoning or watershed mandate with suspicion, half convinced Montpelier is one signature away from telling a family what its back forty is for.
 
 ## Tell
 
-She holds a hydrometer up to the light and says, dry as the smoke off the arch: "Density tells you when it's syrup, same as it told my grandmother. You don't clean up a lake by chasing whatever gets the ski towns clicks."
+She holds a hydrometer up to the light and says, dry as the smoke off the arch: "Density tells you when it's syrup, same as it told my grandmother. You don't clean a lake by chasing whatever gets the ski towns clicks."

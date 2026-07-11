@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A fifty-eight-year-old corn farmer in western Ohio. English is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his logs. It is the [Ohio English](position_language_en_us_oh.md) of the western farm counties, the level Midland cadence of the corn country. [German](../germany/position_language_de_de.md) [he wears as an overgarment](process_speaking_worn.md) during local community heritage festivals, keeping alive the language of his immigrant ancestors. Yet the loss lies in the seam: The fast, urban-redevelopment talk of researchers like Harper and the policy demands of the Cleveland Flats [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of family farming is being ignored by the state's modern planners. He belongs to [Ohio culture](position_culture_ohio_culture.md), and its middle ground of patient, consensus-built farming is the ground he defends against the state's faster planners.
+Samuel's fifty-eight and has grown corn in western Ohio long enough to stop counting seasons. English is the only tongue he's thought in, the one he [speaks](process_speaking_mother_tongue.md) at the co-op and pencils into his field logs - [Ohio English](position_language_en_us_oh.md) as the corn counties say it, level Midland vowels, no hurry in it. [German](../germany/position_language_de_de.md) still shows up on him [like a coat he puts on for the occasion](process_speaking_worn.md), pulled out at the church heritage supper for his grandfather's sake and folded away till next year. What he can't square is the distance between his clock and Cleveland's: the redevelopment talk out of researchers like Harper reaches him [only as something he catches wind of secondhand](process_hearing_followed.md), and it needles him some how a corn crop's patient, season-by-season math counts for less at the statehouse than whatever the planners are pushing this year. He's [Ohio culture](position_culture_ohio_culture.md) same as anybody in Cleveland, just the half still measuring a year by the crop, not the quarter.
 
 ## Action
 
-He manages [county fairs](process_county_fair.md), coordinates resources under [the brownfield redevelopment plan](plan_brownfield_redevelopment.md), and studies [industrial heartland](position_industrial_heartland.md).
+He runs [county fair](process_county_fair.md) judging, keeps current under [the brownfield redevelopment plan](plan_brownfield_redevelopment.md), and keeps an eye on [industrial heartland](position_industrial_heartland.md).
 
 ## Shadow
 
-His suspicion of urban-led reforms can make him resistant to agricultural regulations on chemical runoff, fearing they will increase farming costs.
+His wariness of city-driven reform can tip into flat resistance to runoff rules on his own fertilizer, worried any new rule's just another way to drive up his costs.
 
 ## Tell
 
-He looks at a row of tall corn stalks and says thoughtfully: "Farming isn't just about output metrics; it's a commitment to care for the land so the next generation has a home to inherit."
+He runs a hand along a corn stalk shoulder-high and says it plain: "This ground isn't a spreadsheet. Tend it right and there's a farm left for whoever comes after you."

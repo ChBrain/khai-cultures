@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The French Tone"
-declared: "le ton francais"
+declared: "le ton français"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Pitch: le ton francais
+# Pitch: le ton français
 
 ## Taxonomy
 

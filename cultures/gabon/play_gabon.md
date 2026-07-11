@@ -38,7 +38,7 @@ Un petit peuple sous une immense forêt. Avant que rien ne soit écrit, les Pygm
 **Places**
 
 - [Libreville](place_libreville.md)
-- [le Lope](place_lope.md)
+- [le Lopé](place_lope.md)
 
 **Processes**
 
@@ -47,10 +47,10 @@ Un petit peuple sous une immense forêt. Avant que rien ne soit écrit, les Pygm
 
 **Positions**
 
-- [la foret](position_la_foret.md)
-- [les ancetres](position_les_ancetres.md)
+- [la forêt](position_la_foret.md)
+- [les ancêtres](position_les_ancetres.md)
 - [le fleuve](position_le_fleuve.md)
-- [la gabonite](position_culture_gabonite.md)
+- [la gabonité](position_culture_gabonite.md)
 - [le français gabonais](position_language_fr_ga.md)
 
 **Pieces**
@@ -64,26 +64,26 @@ Un petit peuple sous une immense forêt. Avant que rien ne soit écrit, les Pygm
 
 **Plans**
 
-- [garder la foret debout](plan_garder_la_foret.md)
+- [garder la forêt debout](plan_garder_la_foret.md)
 
 ## Triggers
 
 **[Plot 1: les premiers peuples](plot_01_premiers_peuples.md)**
 
-Avant l'ecriture, les peuples entrent sous les arbres par vagues, et [la foret](position_la_foret.md) leur apprend a vivre petits sous le grand vert, chacun gardant ses [ancetres](position_les_ancetres.md) tout pres.
+Avant l'écriture, les peuples entrent sous les arbres par vagues, et [la forêt](position_la_foret.md) leur apprend à vivre petits sous le grand vert, chacun gardant ses [ancêtres](position_les_ancetres.md) tout près.
 
-**[Plot 2: la rencontre au bord de l'ocean](plot_02_la_cote.md)**
+**[Plot 2: la rencontre au bord de l'océan](plot_02_la_cote.md)**
 
-Sur la cote, les Myene rencontrent les premiers les bateaux venus de loin; [le Roi Denis](persona_roi_denis.md) traite avec eux, et le commerce et le malheur de la traite passent par [le fleuve](position_le_fleuve.md) et la mer.
+Sur la côte, les Myéné rencontrent les premiers les bateaux venus de loin; [le Roi Denis](persona_roi_denis.md) traite avec eux, et le commerce et le malheur de la traite passent par [le fleuve](position_le_fleuve.md) et la mer.
 
-**[Plot 3: Libreville, la ville de la liberte](plot_03_libreville.md)**
+**[Plot 3: Libreville, la ville de la liberté](plot_03_libreville.md)**
 
-Au milieu du dix-neuvieme siecle, des captifs rendus a eux-memes sont poses au bord de l'estuaire et fondent [Libreville](place_libreville.md), la ville dont le nom dit la liberte.
+Au milieu du dix-neuvième siècle, des captifs rendus à eux-mêmes sont posés au bord de l'estuaire et fondent [Libreville](place_libreville.md), la ville dont le nom dit la liberté.
 
-**[Plot 4: le petrole et la foret](plot_04_petrole_et_foret.md)**
+**[Plot 4: le pétrole et la forêt](plot_04_petrole_et_foret.md)**
 
-Au vingtieme siecle le petrole monte de la mer et donne la richesse, mais le pays apprend que c'est [la foret](position_la_foret.md), ses elephants et ses gorilles, qui restera quand le petrole sera tari.
+Au vingtième siècle le pétrole monte de la mer et donne la richesse, mais le pays apprend que c'est [la forêt](position_la_foret.md), ses éléphants et ses gorilles, qui restera quand le pétrole sera tari.
 
 ## Stakes
 
-Si un petit peuple, riche d'une foret immense et d'un petrole venu de la mer, peut garder ses [ancetres](position_les_ancetres.md) tout pres et sa terre verte debout, tenir le Bwiti et le ngombi vivants et non en musee, rester soi au bord d'un ocean ouvert au monde entier, et faire que la foret reste une mere qui nourrit et non un coffre que l'on vide, ou si tant de vert et tant de monde venu de loin finissent par lui faire oublier qu'il est gabonais.
+Si un petit peuple, riche d'une forêt immense et d'un pétrole venu de la mer, peut garder ses [ancêtres](position_les_ancetres.md) tout près et sa terre verte debout, tenir le Bwiti et le ngombi vivants et non en musée, rester soi au bord d'un océan ouvert au monde entier, et faire que la forêt reste une mère qui nourrit et non un coffre que l'on vide, ou si tant de vert et tant de monde venu de loin finissent par lui faire oublier qu'il est gabonais.

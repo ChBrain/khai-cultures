@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "a nation of many peoples"
-declared: "uma nacao de muitos povos"
+declared: "uma nação de muitos povos"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: uma nacao de muitos povos
+# Plan: uma nação de muitos povos
 
 ## Taxonomy
 

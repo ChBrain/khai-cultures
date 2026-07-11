@@ -1,7 +1,7 @@
 ---
 khai: plan
-title: "la defense de la langue francaise"
-declared: "la defense de la langue francaise"
+title: "la défense de la langue française"
+declared: "la défense de la langue française"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: la defense de la langue francaise
+# Plan: la défense de la langue française
 
 ## Taxonomy
 

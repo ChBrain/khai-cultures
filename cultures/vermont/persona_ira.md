@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old historic site coordinator in Bennington. English, spoken with a New England cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily mechanical checks. It is the [Vermont English](position_language_en_us_vt.md) of the Green Mountains, the New England cadence of the Bennington historic site. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of cooperative coordinators like Emma and the quiet history of [maple craftsmanship](position_maple_craftsmanship.md) [he reads only as regional agriculture updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant resource preservation of early forest communities is being forgotten in the race for high-volume tourism development. He belongs to [the Green Mountain State](position_culture_green_mountain_state.md) as the coordinator who carries its historic-liberty half, keeping the militia record the way Emma keeps the boiling log.
+Thirty-eight years old, a historic site coordinator in Bennington who can date a hinge or a musket ball on sight. English is his mother tongue, the language he [speaks, hears, and thinks](process_speaking_mother_tongue.md) in, right down to the mechanical checks he runs before the site opens each morning. It is the [Vermont English](position_language_en_us_vt.md) of the Green Mountains, a cadence that says a thing once and trusts you caught it. He speaks no foreign languages, and Bennington has never once asked for one. What nags at him is the sense that his half of the state keeps different hours than [maple craftsmanship](position_maple_craftsmanship.md): the slower, sugarhouse talk of cooperative coordinators like Emma [reaches him only as a line item on a regional agriculture report](process_reading_followed.md), and he can't shake the feeling that the patient, self-reliant work of the old forest towns is getting crowded out by whatever draws this season's tour buses. He belongs to [the Green Mountain State](position_culture_green_mountain_state.md) as the one who keeps the muster roll straight, the same patience Emma gives a boiling pan.
 
 ## Action
 
@@ -31,8 +31,8 @@ He preserves [sugarhouse evaporator](piece_sugarhouse_evaporator.md) tools, coor
 
 ## Shadow
 
-His intense focus on safety metrics and historical archives can make him indifferent to municipal environmental zoning problems in rural counties.
+His focus on running tour groups through their safety checks can leave him deaf to the watershed fights in the dairy counties west of him.
 
 ## Tell
 
-He adjusts a telemetry sensor on an old fireplace hearth and says directly: "We are calibrating historic building ventilation systems; you can't run a safe historic site if you're only focused on maple sugar boiling metrics."
+He runs a straightedge along an old musket barrel and says, flat: "This still has to pass inspection same as it did in 1777. You don't keep a militia record honest by worrying how fast the syrup sells."

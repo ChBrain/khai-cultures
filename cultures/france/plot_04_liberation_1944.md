@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Liberation of Paris, 1944"
-declared: "la Liberation de Paris, 1944"
+declared: "la Libération de Paris, 1944"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: la Liberation de Paris, 1944
+# Plot: la Libération de Paris, 1944
 
 ## Taxonomy
 

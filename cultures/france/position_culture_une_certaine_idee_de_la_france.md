@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "A Certain Idea of France"
-declared: "une certaine idee de la France"
+declared: "une certaine idée de la France"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-10"
 ---
 
-# Position: une certaine idee de la France
+# Position: une certaine idée de la France
 
 ## Taxonomy
 

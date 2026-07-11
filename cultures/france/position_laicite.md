@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Laicite"
-declared: "la laicite"
+declared: "la laïcité"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Position: la laicite
+# Position: la laïcité
 
 ## Taxonomy
 

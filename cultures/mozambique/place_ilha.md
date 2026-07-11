@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "the Island of Mozambique"
-declared: "a Ilha de Mocambique"
+declared: "a Ilha de Moçambique"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Place: a Ilha de Mocambique
+# Place: a Ilha de Moçambique
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Emile Zola"
-declared: "Emile Zola"
+title: "Émile Zola"
+declared: "Émile Zola"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Emile Zola
+# Persona: Émile Zola
 
 ## Taxonomy
 

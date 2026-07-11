@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Mozambican Tone"
-declared: "o tom mocambicano"
+declared: "o tom moçambicano"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Pitch: o tom mocambicano
+# Pitch: o tom moçambicano
 
 ## Taxonomy
 

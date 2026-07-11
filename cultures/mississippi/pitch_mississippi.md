@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Mississippi](play_mississippi.md). It tunes the thoughtful, polite, and narrative expression of life in the Hospitality State.
+The pitch of [Mississippi](play_mississippi.md). It tunes the porch-slow, plainspoken, hard-testifying voice of life in the Hospitality State.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [Mississippi](play_mississippi.md). It tunes the thoughtful, polite
 
 ## Tenor
 
-A thoughtful, polite, and narrative tone. The communication is conversational, formal, and story-driven, combining blues guitar vocabulary with voter registration and river levee terms. It is a voice of silts and music - prioritizing delta water plans, cleanroom spectrometer tests, and historic school preservation. This formal language shapes both the music cooperatives and the civil rights boards, valuing group solidarity and family heritage.
+Talk here circles the porch before it lands on the point, y'all doing the plain work of a second person the standard tongue misplaced along the way. Blues shorthand - the turnaround, the bent string, the twelve bars called out like a psalm - sits easy next to registration-drive talk and levee-board figures, because a guitar, a ballot, and a floodwall are all things built here to outlast whoever built them. It is a voice raised as easily at church supper as on the front porch, one that offers a stranger sweet tea before it offers an opinion.
 
 ## Undertow
 
-Under the hospitality lies a persistent geographic polarization between the rapidly expanding municipal centers and the resource-dependent delta counties. This resource divide breeds debates over deep-well irrigation pumping and watershed regulations, where state-led developmental projects are met with local protective instincts for traditional farm properties.
+Under the hospitality runs a real divide between the growing university and coastal towns and the emptying Delta counties, where old plantation acreage and small Black-owned farms alike depend on the same falling water table. State irrigation permits and levee funding read, in Jackson, as progress; read, in the Delta, as somebody upstate deciding what the land under a family's feet still owes.
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for civil rights and local voting boards are the true anchors of a stable society.
+What holds a Mississippian is testimony: the belief that a porch song and a ballot line, a family table and a church pew, carry more truth forward than any official record kept by itself.
 
 ## Echo
 
-The rattle of a slide guitar neck and the wash of river water over a sandbar : an echo that is loud, wet, and narrative.
+The rattle of a bottleneck against steel string and the wash of river water over a sandbar - an echo worn, wet, and testifying.

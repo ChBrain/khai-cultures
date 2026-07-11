@@ -35,5 +35,3 @@ Il force l'accord du genre entre le nom, l'article et l'adjectif dans chaque phr
 ## Drives
 
 Il pousse celui qui pense en lui à accorder sans cesse le genre du nom avec ce qui l'entoure, avant même d'avoir fini la phrase, et à soupeser si ce qu'il dit est un fait ou seulement un souhait, pour choisir entre l'indicatif et le subjonctif. Il habitue l'oreille aux voyelles nasales et à la liaison entre les mots, si bien que la phrase s'entend comme une seule coulée de son plutôt que comme des mots séparés.
-</content>
-</invoke>

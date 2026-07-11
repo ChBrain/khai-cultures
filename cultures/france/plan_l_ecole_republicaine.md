@@ -1,7 +1,7 @@
 ---
 khai: plan
-title: "l'ecole republicaine"
-declared: "l'ecole republicaine"
+title: "l'école républicaine"
+declared: "l'école républicaine"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: l'ecole republicaine
+# Plan: l'école républicaine
 
 ## Taxonomy
 
