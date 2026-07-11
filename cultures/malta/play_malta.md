@@ -47,6 +47,7 @@ Gżira ċkejkna fin-nofs tal-baħar, dejjem mixtieqa minħabba fejn tinsab: il-F
 
 **Positions**
 
+- [żgħira imma sħiħa](position_culture_zghira_imma_shiha.md)
 - [il-Malti](position_language_mt.md)
 - [il-fortizza](position_il_fortizza.md)
 - [il-fidi](position_il_fidi.md)

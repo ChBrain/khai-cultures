@@ -26,12 +26,12 @@ Dan losean Indien, lwen depi tou kontinan, ti ena enn zil vid kot personn pa ti 
 
 ## Action
 
-Bann Olande debarke premie ek donn zil la enn non, me zot ale. Apre, bann Franse vinn ek fonn [Port Louis](place_port_louis.md), fer li enn port dan losean Indien. Depi sa moman la, sa zil vid koumans ranpli: sak vag amenn so dimoun, so lalang, so lafwa. Lor enn later kot personn pa ti la avan, koumans enn zistwar ki pa ti pou parey okenn lot: enn pei ki pa enn sel pep lor so prop later, me enn rankont tou bann pep lor enn sel zil. Sa li koumansman [lalit ansam](position_lalit_ansam.md), kot diferan dimoun bizin aprann viv lor enn sel later.
+Bann Olande debarke premie ek donn zil la enn non, me zot ale. Apre, bann Franse vinn ek fonn [Port Louis](place_port_louis.md), fer li enn port dan losean Indien. Depi sa moman la, sa zil vid koumans ranpli: sak vag amenn so dimoun, so lalang, so lafwa. Lor enn later kot personn pa ti la avan, koumans enn zistwar ki pa ti pou parey okenn lot: enn pei ki pa enn sel pep lor so prop later, me enn rankont tou bann pep lor enn sel zil. Sa li koumansman [lalit ansam](position_culture_lalit_ansam.md), kot diferan dimoun bizin aprann viv lor enn sel later.
 
 ## Stage
 
 - [Port Louis](place_port_louis.md): la lavil port ki bann Franse fonn, ki vinn kot tou dimoun debarke.
-- [lalit ansam](position_lalit_ansam.md): sa lide ki, lor enn zil vid, tou pep ki vini bizin aprann viv ansam.
+- [lalit ansam](position_culture_lalit_ansam.md): sa lide ki, lor enn zil vid, tou pep ki vini bizin aprann viv ansam.
 - [dodo](piece_dodo.md): sa zwazo ini ki ti viv lor zil la avan dimoun, anblem dou sa later la.
 
 ## Tension

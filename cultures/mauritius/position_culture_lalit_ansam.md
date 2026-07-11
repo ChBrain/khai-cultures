@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Living Together"
+title: "Mauritian Culture"
 declared: "lalit ansam"
 language: mfe
 license: CC-BY-NC-SA-4.0

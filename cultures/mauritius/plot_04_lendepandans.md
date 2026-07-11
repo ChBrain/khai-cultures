@@ -33,7 +33,7 @@ An 1968, [Port Louis](place_port_louis.md) trouv enn pei nef pran nesans: Moris 
 - [Port Louis](place_port_louis.md): la kapital kot enn pei nef finn pran nesans.
 - [Malcolm de Chazal](persona_chazal.md): la poet ki ti ed enn pei nef trouv so prop lam.
 - [pei larkansiel](plan_larkansiel.md): la mandeman pou tou kominote viv ansam dan enn sel diniti.
-- [lalit ansam](position_lalit_ansam.md): la lide ki tini sa nasion nef la ansam.
+- [lalit ansam](position_culture_lalit_ansam.md): la lide ki tini sa nasion nef la ansam.
 
 ## Tension
 

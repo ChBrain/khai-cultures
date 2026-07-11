@@ -26,12 +26,12 @@ Pou travay sa zil la, pou plant kann ek fer enn lekonomi, bann dimoun ti amene k
 
 ## Action
 
-Pandan lepok lesklavaz, bann zom ek fam ti amene lwen depi zot later pou travay. Parmi zot, ena ki ti rod zot liberte ek ti al kasiet lor [Le Morne Brabant](place_le_morne.md), sa gran montagn lor lekot lwes, ki depi lerla finn vinn montagn memwar, montagn bann maron. An 1835 lesklavaz ti aboli, ek sa moman la finn res grave dan memwar sa zil la. Bann desandan sa bann zom ek fam la, bann Kreol, finn vinn enn parti antie [lalit ansam](position_lalit_ansam.md), ek zot kiltir, zot lam, zot sega, finn vinn ker sa zil la.
+Pandan lepok lesklavaz, bann zom ek fam ti amene lwen depi zot later pou travay. Parmi zot, ena ki ti rod zot liberte ek ti al kasiet lor [Le Morne Brabant](place_le_morne.md), sa gran montagn lor lekot lwes, ki depi lerla finn vinn montagn memwar, montagn bann maron. An 1835 lesklavaz ti aboli, ek sa moman la finn res grave dan memwar sa zil la. Bann desandan sa bann zom ek fam la, bann Kreol, finn vinn enn parti antie [lalit ansam](position_culture_lalit_ansam.md), ek zot kiltir, zot lam, zot sega, finn vinn ker sa zil la.
 
 ## Stage
 
 - [Le Morne Brabant](place_le_morne.md): la montagn kot bann ki ti rod liberte ti al kasiet, sinbol diniti.
-- [lalit ansam](position_lalit_ansam.md): kot bann desandan sa pasaz dir la vinn enn parti antie sa larkansiel la.
+- [lalit ansam](position_culture_lalit_ansam.md): kot bann desandan sa pasaz dir la vinn enn parti antie sa larkansiel la.
 - [ravann](piece_ravann.md): sa tanbour ne dan douler bann zanset, ki finn vinn lam sa zil la.
 
 ## Tension

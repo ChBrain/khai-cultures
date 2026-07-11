@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[lalit ansam](position_lalit_ansam.md)
+[lalit ansam](position_culture_lalit_ansam.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Enn zom ki sof so ravann lor dife avan li zwe, ek kan li tap, tou dimoun otour l
 
 ## Action
 
-Dan [lendepandans](plot_04_lendepandans.md) li se sa dimoun senp ki tini [lalit ansam](position_lalit_ansam.md) vivan: kan so ravann monte enn swar, personn pa demann ou ki lafwa ou kominote, tou dimoun danse ansam. Li port lam sa zil la dan so de lame, ek fer enn larkansiel danse otour enn sel tanbour.
+Dan [lendepandans](plot_04_lendepandans.md) li se sa dimoun senp ki tini [lalit ansam](position_culture_lalit_ansam.md) vivan: kan so ravann monte enn swar, personn pa demann ou ki lafwa ou kominote, tou dimoun danse ansam. Li port lam sa zil la dan so de lame, ek fer enn larkansiel danse otour enn sel tanbour.
 
 ## Shadow
 
