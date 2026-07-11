@@ -23,7 +23,7 @@ Maryland, the Old Line State in the South Atlantic region of the United States. 
 
 ## Arc
 
-A land of maritime estuary stewardship and biomedical science, defined by the waters of the Chesapeake Bay. From the early colonial protection of the Maryland Toleration Act and the historic defense of Fort McHenry, to the modern interstate cleanup agreements of the Chesapeake Bay Commission. A culture that balances the traditional waterman crab harvesting of its shores with the high-tech cleanroom engineering of its research universities, even as it plans the restoration of its oyster reefs.
+Maritime estuary and biomedical science both, sitting right on the Chesapeake Bay with Old Bay dust on everything. The Maryland Toleration Act protected freedom of worship back in colonial days, Fort McHenry held the line against the British bombardment that gave the country its anthem, and the Chesapeake Bay Commission's cleanup agreements brought states together to nurse the estuary back. Watermen still work crab pots off the same shores where the research universities run cleanroom labs, and the whole state keeps an eye on getting the oyster reefs back.
 
 ## Company
 

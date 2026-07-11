@@ -30,7 +30,7 @@ That historic preservation and public trail and park access are honoured in fact
 
 ## Loses
 
-Ground when commercial resort or retail development closes off public trail access and local county businesses alike, fracturing the community networks that mountain heritage and small-town commerce both depend on; ground when the fast, metric-driven talk of corporate logistics treats the patient work of preservation and civil rights memory as a secondary concern next to inventory turnover; and ground in the standing divide between the rapidly expanding corporate hubs and the resource-dependent delta and hill counties, each side certain the other does not grasp what stability actually costs.
+Ground when commercial resort or retail development closes off public trail access and local county businesses alike, fracturing the community networks that mountain heritage and small-town commerce both depend on; ground when the clipped, metric-driven talk of corporate logistics treats the patient work of preservation and civil rights memory as a secondary concern next to inventory turnover; and ground in the standing divide between the rapidly expanding corporate hubs and the resource-dependent delta and hill counties, each side certain the other does not grasp what stability actually costs.
 
 ## Drives
 

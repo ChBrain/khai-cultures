@@ -23,7 +23,7 @@ Kansas, the Sunflower State in the West North Central region of the United State
 
 ## Arc
 
-A land of agricultural wealth and manufacturing precision, defined by the grassy plains of the Midwest. From the violent statehood conflicts of Bleeding Kansas and the agricultural expansion of Turkey Red winter wheat, to the aircraft assembly innovations of the Wichita factories. A culture that balances the homestead resolve of its prairie farming counties with the aviation pioneering of its manufacturing hangars, even as it plans the protection of the Ogallala Aquifer.
+Wheat to the horizon and a storm cellar dug against whatever the sky decides to do - that is Kansas's ground. Bleeding Kansas fought out its Free-State conviction before statehood was even settled; Turkey Red winter wheat turned the plains into the nation's breadbasket; the Wichita factories then turned that same plainspoken precision toward building aircraft. Homestead resolve in the wheat counties and aviation pioneering in the hangars are one stubbornness wearing two coats, and both now watch the Ogallala Aquifer, planning to protect the water the whole state stands on.
 
 ## Company
 
@@ -78,4 +78,4 @@ Aircraft designers establish major manufacturing plants in Wichita, making the c
 
 ## Stakes
 
-Whether an agricultural state experiencing intensive irrigation can successfully execute water plans to protect the Ogallala Aquifer.
+Whether a state that irrigates its wheat hard can make its water plans hold long enough to protect the Ogallala Aquifer from running dry.
