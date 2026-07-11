@@ -44,6 +44,7 @@ A land of agricultural breeding and industrial extraction, defined by the limest
 
 **Positions**
 
+- [Kentucky culture](position_culture_kentucky_culture.md)
 - [bluegrass pride](position_bluegrass_pride.md)
 - [coal solidarity](position_coal_solidarity.md)
 - [Kentuckian English](position_language_en_us_ky.md)

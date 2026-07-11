@@ -49,6 +49,7 @@ E roko te tautaeka n Ingiriti ae e atongaki bwa te Gilbert and Ellice Islands, a
 
 **Positions**
 
+- [te katei ni Kiribati](position_culture_te_katei_ni_kiribati.md)
 - [te maneaba](position_te_maneaba.md)
 - [te marawa](position_te_marawa.md)
 - [te aba ae e a kerikaki](position_te_aba_ae_e_a_kerikaki.md)

@@ -47,6 +47,7 @@ Nchi inayoanzia ufuoni, ambapo mji wa Mombasa na kisiwa cha Lamu vilijenga ustaa
 
 **Positions**
 
+- [utamaduni wa Kenya](position_culture_utamaduni_wa_kenya.md)
 - [harambee](position_harambee.md)
 - [Kiswahili](position_language_sw_ke.md)
 - [ardhi na mazingira](position_ardhi.md)
