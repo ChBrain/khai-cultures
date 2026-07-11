@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [ישראליות](position_culture_israeliyut.md)
 - [הלשון המחודשת](position_language_he.md)
 - [עם הספר](position_am_ha_sefer.md)
 - [קיבוץ גלויות](position_kibbutz_galuyot.md)

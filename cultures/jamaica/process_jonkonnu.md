@@ -34,4 +34,4 @@ It is driven by the deep need to keep the African root alive and to claim a day 
 
 ## Echo
 
-Jonkonnu makes visible what [out of many, one people](position_out_of_many_one_people.md) is made of: a masquerade where the African root and the European borrowing dance as one band, the many strands of the island worn on one street at one time. In its drum and its disguise lives the same heritage that [Louise Bennett](persona_louise_bennett.md) raised into pride, the folk culture of all the people kept and carried as the nation's own.
+Jonkonnu makes visible what [out of many, one people](position_culture_out_of_many_one_people.md) is made of: a masquerade where the African root and the European borrowing dance as one band, the many strands of the island worn on one street at one time. In its drum and its disguise lives the same heritage that [Louise Bennett](persona_louise_bennett.md) raised into pride, the folk culture of all the people kept and carried as the nation's own.

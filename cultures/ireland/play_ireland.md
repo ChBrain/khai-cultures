@@ -47,6 +47,7 @@ A nation that lost its language and the half of its people to famine and to empi
 
 **Positions**
 
+- [Irishness](position_culture_irishness.md)
 - [an Ghaeilge](position_language_ga_ie.md)
 - [the Church](position_the_church.md)
 - [emigration](position_emigration.md)

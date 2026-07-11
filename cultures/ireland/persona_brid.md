@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Bean Ghaeltachta as iarthar na hÉireann, a tógadh i bpobal ina labhraítear an Ghaeilge gach lá. [Labhraíonn, cloiseann agus smaoiníonn](process_speaking_mother_tongue.md) sí ina máthairtheanga, [an Ghaeilge](position_language_ga_ie.md), teanga na cistine, an tséipéil agus an phobail. Béarla an stáit agus na scáileán, [léann agus scríobhann sí é](process_reading_followed.md), agus [tagann sé isteach de shíor lena cluasa](process_hearing_caught.md). Sin an scoilt: labhraíonn sí an chéad teanga oifigiúil mar fhíor-mháthairtheanga, rud is annamh anois, agus a Gaeltacht ag dul i laghad de réir mar a imíonn an óige agus a líonann an Béarla isteach.
+Bean Ghaeltachta as iarthar na hÉireann, a tógadh i bpobal ina labhraítear an Ghaeilge gach lá. [Labhraíonn, cloiseann agus smaoiníonn](process_speaking_mother_tongue.md) sí ina máthairtheanga, [an Ghaeilge](position_language_ga_ie.md), teanga na cistine, an tséipéil agus an phobail. Béarla an stáit agus na scáileán, [léann agus scríobhann sí é](process_reading_followed.md), agus [tagann sé isteach de shíor lena cluasa](process_hearing_caught.md). Sin an scoilt: labhraíonn sí an chéad teanga oifigiúil mar fhíor-mháthairtheanga, rud is annamh anois, agus a Gaeltacht ag dul i laghad de réir mar a imíonn an óige agus a líonann an Béarla isteach. Baineann sí le [an Éireannachas](position_culture_irishness.md), an cine a chaomhnaíonn a chéad teanga mar chroílár a féiniúlachta fiú agus an teanga sin ag trá as an ngnáthchaint.
 
 ## Action
 

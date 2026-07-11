@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[out of many, one people](position_out_of_many_one_people.md)
+[out of many, one people](position_culture_out_of_many_one_people.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Miss Lou, the mother of Jamaican Patois letters and folk culture, the poet, broa
 
 ## Action
 
-In [Likkle but Tallawah](plot_04_likkle_but_tallawah.md) she raises [out of many, one people](position_out_of_many_one_people.md) by giving the many their common tongue in print and on the air, showing the island its own face in its own words. She turns Patois from a mark of the unschooled into the proud bond of the nation, and makes the speech of all the people the literature of one people.
+In [Likkle but Tallawah](plot_04_likkle_but_tallawah.md) she raises [out of many, one people](position_culture_out_of_many_one_people.md) by giving the many their common tongue in print and on the air, showing the island its own face in its own words. She turns Patois from a mark of the unschooled into the proud bond of the nation, and makes the speech of all the people the literature of one people.
 
 ## Shadow
 

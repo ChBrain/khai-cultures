@@ -32,7 +32,7 @@ Modern Jamaica makes its smallness no measure of its reach. [Louise Bennett](per
 
 - [Louise Bennett](persona_louise_bennett.md): Miss Lou, who raises the people's tongue into pride and letters.
 - [Kingston](place_kingston.md): the capital from which the music, the speech, and the brand go out to the world.
-- [out of many, one people](position_out_of_many_one_people.md): the motto that holds the many roots and the diaspora as one.
+- [out of many, one people](position_culture_out_of_many_one_people.md): the motto that holds the many roots and the diaspora as one.
 
 ## Tension
 
