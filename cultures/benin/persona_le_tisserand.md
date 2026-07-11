@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "The Applique Artisan"
-declared: "le tisserand d'appliques"
+declared: "le tisserand d'appliqués"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,11 +11,11 @@ stamp:
 type: archetype
 ---
 
-# Persona: le tisserand d'appliques
+# Persona: le tisserand d'appliqués
 
 ## Taxonomy
 
-[la royaute d'Abomey](position_la_royaute_d_abomey.md)
+[la royauté d'Abomey](position_la_royaute_d_abomey.md)
 
 ## Owner
 

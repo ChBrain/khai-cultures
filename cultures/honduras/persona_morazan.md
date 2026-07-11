@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Francisco Morazan"
-declared: "Francisco Morazan"
+title: "Francisco Morazán"
+declared: "Francisco Morazán"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Francisco Morazan
+# Persona: Francisco Morazán
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "the Applique Banner"
-declared: "la tenture appliquee"
+declared: "la tenture appliquée"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Piece: la tenture appliquee
+# Piece: la tenture appliquée
 
 ## Taxonomy
 

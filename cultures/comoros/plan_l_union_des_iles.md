@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "Holding the Three Islands Together"
-declared: "tenir les trois iles ensemble"
+declared: "tenir les trois îles ensemble"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: tenir les trois iles ensemble
+# Plan: tenir les trois îles ensemble
 
 ## Taxonomy
 
@@ -28,7 +28,7 @@ Tenir l'un et le multiple : reconnaître que chaque île, Ngazidja, Ndzuani et M
 ## Orders
 
 - Au notable comme [Said Mohamed Cheikh](persona_said_mohamed_cheikh.md) : porter la voix des îles et bâtir l'unité sur la foi et la coutume partagées.
-- Au fils parti au large comme [le distillateur d'ylang-ylang](persona_le_distillateur.md) : revenir faire sa place et son anda parmi les siens, et garder l'île au coeur.
+- Au fils parti au large comme [le distillateur d'ylang-ylang](persona_le_distillateur.md) : revenir faire sa place et son anda parmi les siens, et garder l'île au cœur.
 - À la nation : tenir les trois terres ensemble par ce qui les unit déjà, sans laisser la mer défaire ce que la foi, la langue et l'honneur ont lié.
 
 ## Implementation

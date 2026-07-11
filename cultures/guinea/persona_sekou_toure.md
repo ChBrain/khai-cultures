@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Sekou Toure"
-declared: "Sekou Toure"
+title: "Sékou Touré"
+declared: "Sékou Touré"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Sekou Toure
+# Persona: Sékou Touré
 
 ## Taxonomy
 

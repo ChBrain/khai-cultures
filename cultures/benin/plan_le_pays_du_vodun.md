@@ -29,7 +29,7 @@ Honorer l'invisible et les morts comme une part droite de la vie, et porter le V
 
 - À l'artisan comme [le tisserand d'appliqués](persona_le_tisserand.md): garde le métier et son proverbe, pour que la mémoire d'Abomey ne se défasse pas comme un vieux fil.
 - Au croyant et au prêtre comme [Daagbo Hounon](persona_daagbo_hounon.md): tiens la foi droite et vivante, ni cachée ni vendue.
-- À la voix qui part au loin comme [Angelique Kidjo](persona_kidjo.md): porte le pays au monde sans lâcher la main de la maison.
+- À la voix qui part au loin comme [Angélique Kidjo](persona_kidjo.md): porte le pays au monde sans lâcher la main de la maison.
 
 ## Implementation
 

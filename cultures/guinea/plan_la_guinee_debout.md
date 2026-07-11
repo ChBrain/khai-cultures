@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "Guinea Standing"
-declared: "la Guinee debout"
+declared: "la Guinée debout"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: la Guinee debout
+# Plan: la Guinée debout
 
 ## Taxonomy
 

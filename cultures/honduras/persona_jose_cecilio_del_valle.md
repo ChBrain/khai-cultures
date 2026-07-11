@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Jose Cecilio del Valle"
-declared: "Jose Cecilio del Valle"
+title: "José Cecilio del Valle"
+declared: "José Cecilio del Valle"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Jose Cecilio del Valle
+# Persona: José Cecilio del Valle
 
 ## Taxonomy
 

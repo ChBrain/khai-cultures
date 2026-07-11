@@ -30,7 +30,7 @@ Il porte le lien même des îles avec la mer et avec le monde. C'est par le bout
 
 ## Apparent
 
-Une coque de bois cousue ou clouée, un mât unique et une grande voile triangulaire qui prend la mousson, parfois un moteur ajouté aux temps modernes. Simple et rude à l'oeil, sa valeur tient à ce qu'il rend possible : la traversée, la pêche, le commerce, et la fidélité d'un peuple à la mer dont il vit.
+Une coque de bois cousue ou clouée, un mât unique et une grande voile triangulaire qui prend la mousson, parfois un moteur ajouté aux temps modernes. Simple et rude à l'œil, sa valeur tient à ce qu'il rend possible : la traversée, la pêche, le commerce, et la fidélité d'un peuple à la mer dont il vit.
 
 ## Yearbook
 

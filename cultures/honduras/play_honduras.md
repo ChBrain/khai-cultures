@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Honduras"
-description: "Honduras puesta en escena: una nacion moldeada desde fuera que busca su soberania y su dignidad."
+description: "Honduras puesta en escena: una nación moldeada desde fuera que busca su soberanía y su dignidad."
 declared: "Honduras"
 language: es
 license: CC-BY-NC-SA-4.0

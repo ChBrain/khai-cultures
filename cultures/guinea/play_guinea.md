@@ -2,7 +2,7 @@
 khai: play
 title: "Guinea"
 description: "Guinea staged as a culture: the heartland of old Mali, the water tower of West Africa, the country that said no."
-declared: "la Guinee"
+declared: "la Guinée"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Play: la Guinee
+# Play: la Guinée
 
 ## Estate
 

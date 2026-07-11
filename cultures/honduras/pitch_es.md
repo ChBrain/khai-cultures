@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Honduran Tone"
-declared: "el tono hondureno"
+declared: "el tono hondureño"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: el tono hondureno
+# Pitch: el tono hondureño
 
 ## Taxonomy
 

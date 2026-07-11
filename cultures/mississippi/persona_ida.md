@@ -31,7 +31,7 @@ She preserves [cotton boll](piece_cotton_boll.md) records, coordinates field con
 
 ## Shadow
 
-Her faith in the church basement and the local registration table runs deep enough that she meets state zoning maps from Jackson with real suspicion, half convinced they mean to tell a family what its own dirt is for.
+Her faith in the church basement and the local registration table runs deep enough that she meets state zoning maps with real suspicion, half convinced they mean to tell a family what its own dirt is for.
 
 ## Tell
 

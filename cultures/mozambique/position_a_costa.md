@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "the Indian Ocean coast"
-declared: "a costa do Indico"
+declared: "a costa do Índico"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: a costa do Indico
+# Position: a costa do Índico
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A conviccao de que Mocambique e, antes de tudo, uma terra voltada para o mar: dois mil quilometros de costa banhada pelo oceano Indico, com as suas praias, os seus palmares e os seus portos que desde sempre olharam para fora. O monção trouxe o dhow, o tecido e o tempero, levou o ouro, o marfim e o coco, e na Ilha de Mocambique cruzaram-se o suaili, o arabe, o indiano e o portugues. Dela vem a mesa do pais: o camarao, a matapa de coco, o caril, o piri-piri que arde e cura, o peixe na brasa. O mar nao e a borda do pais; e a sua porta sempre aberta.
+A convicção de que Moçambique é, antes de tudo, uma terra voltada para o mar: dois mil quilómetros de costa banhada pelo oceano Índico, com as suas praias, os seus palmares e os seus portos que desde sempre olharam para fora. O monção trouxe o dhow, o tecido e o tempero, levou o ouro, o marfim e o coco, e na Ilha de Moçambique cruzaram-se o suaili, o árabe, o indiano e o português. Dela vem a mesa do país: o camarão, a matapa de coco, o caril, o piri-piri que arde e cura, o peixe na brasa. O mar não é a borda do país; é a sua porta sempre aberta.
 
 ## Orders
 
-Que o pais se entende como lugar de passagem e de encontro, onde quem chega pelo mar e recebido e quem fica se faz da mistura; que a costa da o sustento e o tempero que poem todos a mesma mesa; e que a terra guarda, na pedra e na cana da Ilha, a memoria de um oceano que ligou Mocambique ao mundo muito antes de qualquer bandeira.
+Que o país se entende como lugar de passagem e de encontro, onde quem chega pelo mar é recebido e quem fica se faz da mistura; que a costa dá o sustento e o tempero que põem todos à mesma mesa; e que a terra guarda, na pedra e na cana da Ilha, a memória de um oceano que ligou Moçambique ao mundo muito antes de qualquer bandeira.
 
 ## Loses
 
-Terreno quando o mar deixa de ser porta e passa a ser so beira, e a terra esquece que se fez de encontros e se fecha sobre um povo so; e terreno, tambem, quando a riqueza da costa sai toda pelo porto sem ficar na mesa de quem a colhe, deixando o peixe e o pano de quem os trabalha longe do prato e das maos de quem os fez.
+Terreno quando o mar deixa de ser porta e passa a ser só beira, e a terra esquece que se fez de encontros e se fecha sobre um povo só; e terreno, também, quando a riqueza da costa sai toda pelo porto sem ficar na mesa de quem a colhe, deixando o peixe e o pano de quem os trabalha longe do prato e das mãos de quem os fez.
 
 ## Drives
 
-Vive na mulher que da costa traz o peixe, o coco e o pano ao mercado e ali sustenta a cidade inteira. Move Mocambique a olhar para o mar como porta aberta, a receber quem chega e a fazer da mistura do oceano a sua propria mesa e a sua propria pele.
+Vive na mulher que da costa traz o peixe, o coco e o pano ao mercado e ali sustenta a cidade inteira. Move Moçambique a olhar para o mar como porta aberta, a receber quem chega e a fazer da mistura do oceano a sua própria mesa e a sua própria pele.

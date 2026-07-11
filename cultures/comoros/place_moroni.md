@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capitale, posée au bord de la mer sur la côte ouest de Ngazidja, au pied du Karthala. Son vieux quartier, la médina, est un labyrinthe de ruelles étroites et de maisons de pierre de corail aux portes de bois sculpté, hérité des sultanats et des marchands arabes. Au bord de l'eau se dresse l'Ancienne mosquée du vendredi avec son minaret blanc qui regarde le large, où s'amarrent les boutres. Au lever du jour, l'appel à la prière se mêle à l'odeur de la mer et au bruit du marché ; c'est une cité swahilie et arabe autant qu'africaine, le coeur battant des îles.
+La capitale, posée au bord de la mer sur la côte ouest de Ngazidja, au pied du Karthala. Son vieux quartier, la médina, est un labyrinthe de ruelles étroites et de maisons de pierre de corail aux portes de bois sculpté, hérité des sultanats et des marchands arabes. Au bord de l'eau se dresse l'Ancienne mosquée du vendredi avec son minaret blanc qui regarde le large, où s'amarrent les boutres. Au lever du jour, l'appel à la prière se mêle à l'odeur de la mer et au bruit du marché ; c'est une cité swahilie et arabe autant qu'africaine, le cœur battant des îles.
 
 ## Holds
 

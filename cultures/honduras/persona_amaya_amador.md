@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Ramon Amaya Amador"
-declared: "Ramon Amaya Amador"
+title: "Ramón Amaya Amador"
+declared: "Ramón Amaya Amador"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Ramon Amaya Amador
+# Persona: Ramón Amaya Amador
 
 ## Taxonomy
 

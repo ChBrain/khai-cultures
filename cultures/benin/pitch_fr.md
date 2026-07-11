@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Beninese Tone"
-declared: "le ton beninois"
+declared: "le ton béninois"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Pitch: le ton beninois
+# Pitch: le ton béninois
 
 ## Taxonomy
 

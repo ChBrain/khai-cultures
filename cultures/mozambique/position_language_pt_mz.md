@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Portuguese in Mozambique"
-declared: "o portugues de Mocambique"
+declared: "o português de Moçambique"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: o portugues de Mocambique
+# Position: o português de Moçambique
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "Ouidah and the Memory of the Coast"
-declared: "Ouidah et la memoire de la cote"
+declared: "Ouidah et la mémoire de la côte"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: Ouidah et la memoire de la cote
+# Plot: Ouidah et la mémoire de la côte
 
 ## Taxonomy
 

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[la royaute d'Abomey](position_la_royaute_d_abomey.md)
+[la royauté d'Abomey](position_la_royaute_d_abomey.md)
 
 ## Owner
 

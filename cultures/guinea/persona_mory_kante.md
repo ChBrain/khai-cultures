@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Mory Kante"
-declared: "Mory Kante"
+title: "Mory Kanté"
+declared: "Mory Kanté"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Mory Kante
+# Persona: Mory Kanté
 
 ## Taxonomy
 

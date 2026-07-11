@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The nation of the word"
-declared: "a nacao da palavra"
+declared: "a nação da palavra"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: a nacao da palavra
+# Plot: a nação da palavra
 
 ## Taxonomy
 
@@ -22,18 +22,18 @@ stamp:
 
 ## Cue
 
-Chega o tempo em que a terra precisa de se dizer inteira, de por nome ao que e e ao que sente. E e pela palavra que Mocambique se diz primeiro: nos jornais, nos cadernos e nos saraus de Lourenco Marques, uma geracao de poetas pega na lingua que veio de fora e poe-na a dizer o nome da sua gente.
+Chega o tempo em que a terra precisa de se dizer inteira, de pôr nome ao que é e ao que sente. E é pela palavra que Moçambique se diz primeiro: nos jornais, nos cadernos e nos saraus de Lourenço Marques, uma geração de poetas pega na língua que veio de fora e põe-na a dizer o nome da sua gente.
 
 ## Action
 
-Jose Craveirinha escreve "eu sou carvao" e mete o ronga dentro do portugues ate ele dar conta da terra; Noemia de Sousa faz da poesia o grito doce de um continente; e, depois, Mia Couto e Paulina Chiziane levam a palavra mais longe, ele reinventando a lingua a partir do chão, ela contando as vidas das mulheres do sul e do norte que se costumavam calar. A lingua emprestada dobra-se ate caber na terra, enche-se das linguas de casa, dos provérbios e dos tambores, e faz-se inteiramente mocambicana. A nacao reconhece-se no verso e no romance antes de qualquer outra coisa.
+José Craveirinha escreve "eu sou carvão" e mete o ronga dentro do português até ele dar conta da terra; Noémia de Sousa faz da poesia o grito doce de um continente; e, depois, Mia Couto e Paulina Chiziane levam a palavra mais longe, ele reinventando a língua a partir do chão, ela contando as vidas das mulheres do sul e do norte que se costumavam calar. A língua emprestada dobra-se até caber na terra, enche-se das línguas de casa, dos provérbios e dos tambores, e faz-se inteiramente moçambicana. A nação reconhece-se no verso e no romance antes de qualquer outra coisa.
 
 ## Stage
 
-- [a nacao dos poetas](position_a_nacao_dos_poetas.md): a conviccao de que a terra se diz primeiro pela palavra e que o poeta da rosto ao pais.
-- [Jose Craveirinha](persona_craveirinha.md): o primeiro poeta maior, que pos o nome de Mocambique dentro do portugues.
-- [Maputo](place_maputo.md): a cidade dos jornais e dos saraus onde a palavra se faz e a nacao se ouve a si mesma.
+- [a nação dos poetas](position_a_nacao_dos_poetas.md): a convicção de que a terra se diz primeiro pela palavra e que o poeta dá rosto ao país.
+- [José Craveirinha](persona_craveirinha.md): o primeiro poeta maior, que pôs o nome de Moçambique dentro do português.
+- [Maputo](place_maputo.md): a cidade dos jornais e dos saraus onde a palavra se faz e a nação se ouve a si mesma.
 
 ## Tension
 
-A palavra deu a Mocambique a sua voz, mas deu-lha numa lingua que veio de fora, e ha o risco de o povo se reconhecer melhor no portugues do que no ronga, no makhuwa ou no sena que ficam do lado de fora do livro. A nacao ganha uma voz comum e arrisca calar as muitas vozes de casa, e a tarefa sera fazer que a lingua da escrita e as linguas da terra cabem, lado a lado, na mesma pagina.
+A palavra deu a Moçambique a sua voz, mas deu-lha numa língua que veio de fora, e há o risco de o povo se reconhecer melhor no português do que no ronga, no makhuwa ou no sena que ficam do lado de fora do livro. A nação ganha uma voz comum e arrisca calar as muitas vozes de casa, e a tarefa será fazer que a língua da escrita e as línguas da terra cabem, lado a lado, na mesma página.

@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Angelique Kidjo"
-declared: "Angelique Kidjo"
+title: "Angélique Kidjo"
+declared: "Angélique Kidjo"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Angelique Kidjo
+# Persona: Angélique Kidjo
 
 ## Taxonomy
 

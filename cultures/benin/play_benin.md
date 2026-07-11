@@ -1,8 +1,8 @@
 ---
 khai: play
 title: "Benin"
-description: "Benin staged as a culture: berceau du Vodun et heritier d'Abomey, un pays qui se souvient debout."
-declared: "le Benin"
+description: "Benin staged as a culture: berceau du Vodun et héritier d'Abomey, un pays qui se souvient debout."
+declared: "le Bénin"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Play: le Benin
+# Play: le Bénin
 
 ## Estate
 

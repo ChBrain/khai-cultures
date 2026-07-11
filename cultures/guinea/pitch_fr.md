@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Guinean Tone"
-declared: "le ton guineen"
+declared: "le ton guinéen"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Pitch: le ton guineen
+# Pitch: le ton guinéen
 
 ## Taxonomy
 

@@ -27,7 +27,7 @@ Le grand volcan qui fait Ngazidja, dont la masse sombre domine toute la Grande C
 ## Holds
 
 - [les îles parfumées](plot_02_les_iles_parfumees.md): ses pentes volcaniques où poussent l'ylang, la vanille et le girofle qui font le parfum des îles.
-- [l'Union des trois îles](plot_04_l_union.md): le repère et le coeur de Ngazidja, île principale autour de laquelle se noue l'Union.
+- [l'Union des trois îles](plot_04_l_union.md): le repère et le cœur de Ngazidja, île principale autour de laquelle se noue l'Union.
 
 ## Offers
 
