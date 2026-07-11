@@ -1,5 +1,60 @@
 # @chbrain/khai-cultures
 
+## 0.289.0
+
+### Minor Changes
+
+- a22e653: Add the Faroe Islands (Foroyar) as a khai culture (ISO FO), written in Faroese (fo, registered for assisted verification, prose flagged for native review). A North Atlantic archipelago that made a nation of its language and its sea: plots (the Norse settlement and the Logting, the language awakening, the wartime occupation and home rule), personas (the skipper and the young Faroese in generational tension, with Trondur i Gotu of the sagas, V.U. Hammershaimb who gave Faroese its written form, and Nolsoyar Pall the national forerunner), positions (Foroyingur the culture-position, Havid the sea, and Foroyskt mal the language), places (Torshavn, the villages), processes (the chain dance, the grind - written neutrally), and pieces (the grass roof, the wool sweater). A new culture: the minor version bumps to the new culture count.
+- 6470670: Add Hong Kong as a khai culture (ISO HK). A barren rock turned into the harbour where East meets West, staged with its full cast: the plots (the cession and free port, the refugees and factories, the 1997 handover, the contested autonomy), personas (the refugee industrialist and the young Hongkonger in generational tension, with Bruce Lee, Louis Cha/Jin Yong, Anita Mui, and the last governor Chris Patten), positions (the Hongkonger culture-position, the Lion Rock spirit, one country two systems, the entrepot, and the languages Cantonese and Hong Kong English), places (Victoria Harbour, Kowloon), processes (yum cha, the races), and pieces (the Star Ferry, the neon signs). Also re-homes the dangling Cantonese link: canada/jun's heritage Cantonese now links Hong Kong's Cantonese position. A new culture: the minor version bumps to the new culture count.
+
+### Patch Changes
+
+- a76d8d7: Culture-position coverage: wire the last two personas to a culture-position. moldova/elena holds la moldovenitate (her hold was dropped in the #339/#340 merge); bahrain/bibby, an English archaeologist cast into Bahrain, holds British culture cross-culture (../united_kingdom/position_culture_britishness.md) as his own. Every persona house-wide (1155/1155) now carries a culture-position. Enrichment; culture count and version unchanged.
+- c33ba4d: Culture-position pass: every culture owns one canonical culture-position named position_culture_<slug>.md, the culture-as-a-whole driving whoever is raised in it - the same Has/Orders/Loses/Drives frame as position_language, but the culture's story. Where a whole-culture anchor already existed it is renamed to the convention and its holders repointed (germany: position_deutsche_kultur -> position_culture_deutsche_kultur); where none existed one is authored, in the culture's own language, persona-free (one-way rule), and wired to its personas so nothing orphans. Enrichment of existing cultures; culture count and version unchanged.
+- 20d1872: De-personalize position files: a position never links or names a persona (the direction
+  is one-way — a persona links its position, never the reverse). Rewrite ## Drives (and any
+  section that named holders) to describe what the position drives — its force and effect —
+  regardless of who holds it, keeping the impact but dropping every persona link and name.
+  House-wide convention fix across all position_*.md.
+- 0dea136: Language positions: variety standard + pilot. A language position is a variety,
+  named `position_language_<bcp47>.md` (the locale: `language:` ISO 639 subtag +
+  `geo.json` region, lowercased, hyphens as underscores — `de_de`, `de_ch`,
+  `en_us`; monocentric tongues bare — `rm`, `hu`), written in its own tongue and
+  owned by the culture whose personas natively hold it. Every persona marks each
+  tongue it uses on any channel twice: the `process_*` ladder leaf and the
+  variety's position; foreign tongues link cross-culture by path to the exact
+  variety in its home culture. Pilot: Switzerland split into `de_ch`/`fr_ch`/
+  `it_ch`/`rm` (all seven personas re-linked at their channels), France `fr_fr`,
+  Germany renamed to `de_de` (all refs incl. Bavaria and groups/DACH repointed),
+  and Adenauer's negotiated French wired cross-culture to `../france/
+position_language_fr_fr.md`. Standard in `REFERENCES.md` and the language-engine
+  design of record §2.6; Pass-A manifest (304 own-variety positions) recorded.
+- 52320c6: Pass A wave 2: own-variety language positions for 22 monolingual national
+  cultures (japan, poland, hungary, czechia, slovakia, slovenia, croatia,
+  serbia, bulgaria, romania, greece, ukraine, russia, lithuania, latvia,
+  estonia, iceland, denmark, norway, sweden, netherlands, portugal). Each owns
+  one position_language_<locale>.md, written in its tongue and wired to every
+  holder persona's Projection + the play Positions list; ad-hoc language
+  positions migrated to locale codes. Enrichment; culture count unchanged.
+- 31470c4: Pass A: own-variety language positions across the cultures. Each culture gains
+  one `position_language_<locale>.md` per variety its personas natively hold,
+  written in that tongue, wired to every holder's `## Projection` and the play's
+  Positions list; ad-hoc language positions migrated to locale codes. Enrichment
+  of existing cultures (no new culture); the culture count and version are
+  unchanged.
+- 4d047d7: Pass B: cross-culture foreign-use language links. Each persona's foreign tongues
+  (spoken, read, heard) link cross-culture by relative path to the exact variety in that
+  tongue's home culture. Wave 1: 12 cultures, 47 personas. Enrichment of existing
+  cultures; culture count and version unchanged.
+- f0f1a0d: Pass B tail: cross-culture foreign-use language links for the remaining cultures. Each persona's foreign tongues (spoken, read, heard) link cross-culture by relative path to the exact variety in that tongue's home culture; own co-official tongues stay bare Pass-A links. Positions are never touched (one-way rule: persona links position, never the reverse). Enrichment of existing cultures; culture count and version unchanged.
+- 15aa66a: Pass B waves 3-4: cross-culture foreign-use links for 59 cultures (multilingual
+  states, post-colonial Africa/Asia, Latin America, Middle East, Balkans, Francophone
+  Africa, Asia/Pacific, Americas). Each persona's foreign tongues linked to the exact
+  variety in that tongue's home culture; the recurring classical tongues (Quranic
+  Arabic, Persian, Church Slavonic, Classical Chinese) routed to their custodians.
+  Enrichment of existing content; culture count unchanged.
+- 9cb60b8: Re-voice the templated cultures from inside (order: voice from inside): hygiene fixes, US states, Spanish communities, German Länder, twins, Bhutan.
+
 ## 0.287.0
 
 ### Minor Changes
