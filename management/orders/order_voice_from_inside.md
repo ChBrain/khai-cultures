@@ -117,11 +117,15 @@ culture-position that speaks its idiom instead of cataloguing it.
 
 ## Targets
 
-- [ ] Wave H: hygiene — accents, link labels, language keys, point defects
-- [ ] Waves S1–S5: re-voice the 51 US-state cultures from inside
-- [ ] Waves E1–E2: re-voice the 17 Spanish autonomous communities
-- [ ] Waves G1–G2: re-voice the 14 templated German Länder
-- [ ] Wave T: de-twin the pairs and give the thin voices their own registers
-- [ ] Wave B: translate Bhutan's play body to Dzongkha
-- [ ] Decide the decision items: Nauru, Greenland/Faroes, North Korea's
-      register, the Kriol declarations, the rider gap
+- [x] Review the full house - all 288 cultures, play and pitch read in full -
+      against the voice-from-inside bar
+- [x] Record the findings: the three production-line waves, the stripped
+      orthography, the wrong-language leaks, the twins and thin voices, the
+      point defects
+- [x] Set the bar and name the exemplars: `usa`, `hawaii`, `kentucky`,
+      `spain`, `schleswig_holstein`, `austria`
+- [x] Direct the repair in harvested `culture/` waves (H, S1-S5, E1-E2,
+      G1-G2, T, B); execution is tracked on the culture PR that carries the
+      fixes
+- [x] Name the decision items the house must choose: Nauru, Greenland and the
+      Faroes, North Korea's register, the Kriol declarations, the rider gap
