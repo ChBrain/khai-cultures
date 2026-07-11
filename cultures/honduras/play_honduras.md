@@ -50,6 +50,7 @@ Tierra que fue de los mayas de Copan y de los lencas y otros pueblos, y que la c
 - [la resistencia lenca](position_la_resistencia_lenca.md)
 - [el sueno de la union](position_el_sueno_de_la_union.md)
 - [la republica bananera](position_la_republica_bananera.md)
+- [la catrachidad](position_culture_catrachidad.md)
 - [el español hondureño](position_language_es_hn.md)
 
 **Pieces**

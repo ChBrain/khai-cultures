@@ -51,6 +51,7 @@ Yon peyi ki pa tankou lòt yo: li pa t resevwa libète l kòm kado, li te pran l
 - [the Vodou-and-Kreyol soul](position_vodou_ak_kreyol.md)
 - [kreyòl ayisyen](position_language_ht.md)
 - [resilience and dignity](position_rezistans_ak_fyete.md)
+- [kilti ayisyen an](position_culture_kilti_ayisyen.md)
 
 **Pieces**
 
