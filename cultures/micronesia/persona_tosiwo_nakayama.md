@@ -33,6 +33,8 @@ In [the Federation](plot_03_the_federation.md) he draws the four states into one
 
 The unity he built by give-and-take carries its shadow: a federal frame kept so light, just to win the states over, that it can struggle to hold them, the bargain forever needing to be struck again; and the founder's faith that everybody coming around will alone keep four proud peoples together, when the pull back toward island and tongue never quite lies down to rest.
 
+He belongs to [Micronesian culture](position_culture_micronesian_culture.md) as the patient hand that drew four island peoples into one federation.
+
 ## Tell
 
 He holds the convention together not by laying down the law but by listening each state out, patient, until a shared word can be found, the navigator's patience turned to politics - and writes the bond of four mother tongues in the one tongue not one of them owned.

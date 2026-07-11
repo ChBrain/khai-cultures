@@ -44,6 +44,7 @@ A land of musical heritage and civil rights struggle, defined by the fertile sil
 
 **Positions**
 
+- [the Hospitality State](position_culture_hospitality_state.md)
 - [blues legacy](position_blues_legacy.md)
 - [civil rights solidarity](position_civil_rights_solidarity.md)
 - [Mississippian English](position_language_en_us_ms.md)

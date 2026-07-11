@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-two-year-old riverboat pilot in St. Louis. English, spoken with a melodic river drawl, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her navigation operations. It is the [Missourian English](position_language_en_us_mo.md) of the St. Louis waterfront, the melodic river drawl of the riverboat wheelhouse. She speaks no foreign languages. Yet the loss lies in the seam: The fast, syncopated urban talk of jazz musicians like Marcus and the digital demands of Kansas City club boards [she reads only as scheduling updates](process_reading_followed.md) on her weather tablet, feeling that the patient, river-dependent rhythm of the valleys is being forgotten in the race for digital speed.
+A forty-two-year-old riverboat pilot in St. Louis. English, spoken with a melodic river drawl, is her mother tongue, the language in which she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of her navigation operations. It is the [Missourian English](position_language_en_us_mo.md) of the St. Louis waterfront, the melodic river drawl of the riverboat wheelhouse. She speaks no foreign languages. Yet the loss lies in the seam: The fast, syncopated urban talk of jazz musicians like Marcus and the digital demands of Kansas City club boards [she reads only as scheduling updates](process_reading_followed.md) on her weather tablet, feeling that the patient, river-dependent rhythm of the valleys is being forgotten in the race for digital speed. She belongs to [the Show-Me State](position_culture_show_me_state.md) as the gateway west that carries freight and pioneers through the confluence.
 
 ## Action
 

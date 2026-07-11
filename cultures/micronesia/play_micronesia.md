@@ -47,6 +47,7 @@ This is not the usual kind of federation. Not one people who spread out into fou
 
 **Positions**
 
+- [Micronesian culture](position_culture_micronesian_culture.md)
 - [four states, one nation](position_four_states_one_nation.md)
 - [the stone wonders](position_the_stone_wonders.md)
 - [the navigators and the Compact](position_the_navigators_and_the_compact.md)
