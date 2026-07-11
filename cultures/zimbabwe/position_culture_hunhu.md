@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The conviction the Shona call hunhu and the Ndebele call ubuntu: that a person is a person through other people, munhu munhu nevanhu, umuntu ngumuntu ngabantu. It holds that no one stands alone, that the self is made and measured in the household, the village, and the line of the ancestors, and that the living and the dead are one company. It teaches that you greet before you ask, that you ask after a person's people before their business, that grief and harvest alike are carried in common, and that to have hunhu is to carry yourself well toward others, with respect, restraint, and a heart open to the stranger at the gate.
+The conviction the Shona call hunhu and the Ndebele call ubuntu: that a person is a person through other people, munhu munhu nevanhu, umuntu ngumuntu ngabantu. It holds that no one stands alone, that the self is made and measured in the household, the village, and the line of the ancestors, and that the living and the dead are one company. It teaches that you greet before you ask, that you ask after a person's people before their business, that grief and harvest alike are carried in common, and that to have hunhu is to carry yourself well toward others, with respect, restraint, and a heart open to the stranger at the gate. Whoever is raised in it inherits, alongside the creed itself, the standing proof that the ancestors built greatly, [the houses of stone](position_houses_of_stone.md) that gave the nation its name, and the conviction that the dead still counsel the living, carried in [the ancestral voice](position_ancestral_voice.md) of the mbira.
 
 ## Orders
 

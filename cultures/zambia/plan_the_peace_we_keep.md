@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-The open mandate the country set itself at independence and has kept choosing since: to hold [One Zambia, One Nation](position_one_zambia_one_nation.md) whole across more than seventy peoples, to keep the gentle creed of [Humanism](position_humanism.md) and the human being first when times are hard, and to keep [the bush](position_the_bush.md) and the great rivers that feed the country as a trust handed on whole. It is the long work of staying one and staying at peace, season after season, kanshi.
+The open mandate the country set itself at independence and has kept choosing since: to hold [One Zambia, One Nation](position_culture_one_zambia_one_nation.md) whole across more than seventy peoples, to keep the gentle creed of [Humanism](position_humanism.md) and the human being first when times are hard, and to keep [the bush](position_the_bush.md) and the great rivers that feed the country as a trust handed on whole. It is the long work of staying one and staying at peace, season after season, kanshi.
 
 ## Owner
 

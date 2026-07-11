@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[hunhu](position_hunhu.md)
+[hunhu](position_culture_hunhu.md)
 
 ## Owner
 

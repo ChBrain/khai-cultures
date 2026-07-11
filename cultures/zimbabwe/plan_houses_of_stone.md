@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-The standing charge a nation takes on when it names itself for [the houses of stone](position_houses_of_stone.md): to keep the granite of the builders standing and tended; to hold Shona and Ndebele and all its peoples in the equal dignity of [hunhu](position_hunhu.md), one company under one name; to keep the [ancestral voice](position_ancestral_voice.md) of the mbira sounding in the young as it sounded in the old; and to carry the country's stone and song out to the world without thinning the depth from which they came.
+The standing charge a nation takes on when it names itself for [the houses of stone](position_houses_of_stone.md): to keep the granite of the builders standing and tended; to hold Shona and Ndebele and all its peoples in the equal dignity of [hunhu](position_culture_hunhu.md), one company under one name; to keep the [ancestral voice](position_ancestral_voice.md) of the mbira sounding in the young as it sounded in the old; and to carry the country's stone and song out to the world without thinning the depth from which they came.
 
 ## Owner
 

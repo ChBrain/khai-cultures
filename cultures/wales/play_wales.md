@@ -46,6 +46,7 @@ A small nation that lost its last native prince to the conqueror, saw its land r
 
 **Positions**
 
+- [Cymreictod](position_culture_cymreictod.md)
 - [yr iaith](position_language_cy.md)
 - [y capel](position_y_capel.md)
 - [solidariaeth](position_solidariaeth.md)

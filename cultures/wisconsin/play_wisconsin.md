@@ -44,6 +44,7 @@ A land of agricultural labor and civic reform, defined by the shores of Lake Mic
 
 **Positions**
 
+- [the Badger State](position_culture_badger_state.md)
 - [dairyland](position_dairyland.md)
 - [progressive idea](position_progressive_idea.md)
 - [Wisconsin English](position_language_en_us_wi.md)

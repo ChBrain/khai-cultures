@@ -26,12 +26,12 @@ By the early 1960s the call for independence is rising across the country, and t
 
 ## Action
 
-In 1964 the country comes to independence and takes its hard decision. [Kenneth Kaunda](persona_kaunda.md), the founding president, and his generation choose to hold the new nation not by one tribe nor one tongue but by one idea: [One Zambia, One Nation](position_one_zambia_one_nation.md), the motto stamped on the new coat of arms and taught to every child. English, the tongue that no group owns, is kept as the neutral bridge of school and office and parliament, so that the peoples can meet on level ground. Kaunda gives the young country his gentle creed of [Humanism](position_humanism.md), the human being first, and builds a government drawn from across the peoples so that none is shut out. A country is founded, soberly and deliberately, on the choice to be one.
+In 1964 the country comes to independence and takes its hard decision. [Kenneth Kaunda](persona_kaunda.md), the founding president, and his generation choose to hold the new nation not by one tribe nor one tongue but by one idea: [One Zambia, One Nation](position_culture_one_zambia_one_nation.md), the motto stamped on the new coat of arms and taught to every child. English, the tongue that no group owns, is kept as the neutral bridge of school and office and parliament, so that the peoples can meet on level ground. Kaunda gives the young country his gentle creed of [Humanism](position_humanism.md), the human being first, and builds a government drawn from across the peoples so that none is shut out. A country is founded, soberly and deliberately, on the choice to be one.
 
 ## Stage
 
 - [Kenneth Kaunda](persona_kaunda.md): the founding president who makes the motto the law of the young country.
-- [One Zambia, One Nation](position_one_zambia_one_nation.md): the idea on which the country is founded, in place of one tribe or one tongue.
+- [One Zambia, One Nation](position_culture_one_zambia_one_nation.md): the idea on which the country is founded, in place of one tribe or one tongue.
 - [Lusaka](place_lusaka.md): the capital from which the new nation is governed and the choice is made.
 
 ## Tension

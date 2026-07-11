@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old shipping captain on Lake Michigan. English, spoken with a flat northern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily navigation logs. It is the [Wisconsin English](position_language_en_us_wi.md) of the Lake Michigan ports, the flat northern cadence of the harbor and the pilothouse. She speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound farm talk of cheese makers like Dietrich and the digital demands of southern utility boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of Great Lakes shipping is treated as secondary to corporate quarterly metrics.
+A fifty-two-year-old shipping captain on Lake Michigan. English, spoken with a flat northern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily navigation logs. It is the [Wisconsin English](position_language_en_us_wi.md) of the Lake Michigan ports, the flat northern cadence of the harbor and the pilothouse. She speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound farm talk of cheese makers like Dietrich and the digital demands of southern utility boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of Great Lakes shipping is treated as secondary to corporate quarterly metrics. She belongs to [the Badger State](position_culture_badger_state.md) through its progressive-idea half, the same faith in studied, state-backed reform that keeps her harbor's public infrastructure running.
 
 ## Action
 

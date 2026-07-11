@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[One Zambia, One Nation](position_one_zambia_one_nation.md)
+[One Zambia, One Nation](position_culture_one_zambia_one_nation.md)
 
 ## Owner
 

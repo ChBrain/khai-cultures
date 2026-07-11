@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [العربية السعيدة](position_arabia_felix.md)
+- [العربية السعيدة](position_culture_arabia_felix.md)
 - [طريق البخور](position_incense_road.md)
 - [الكَرَم والقبيلة](position_hospitality.md)
 - [العربية اليمنية](position_language_ar_ye.md)
@@ -69,7 +69,7 @@ stamp:
 
 **[Plot 1: مملكة سبأ وسدّ مأرب](plot_01_saba.md)**
 
-في عمق التاريخ تقوم مملكة سبأ في [مأرب](place_marib.md)، وتبني سدّها العظيم، وتتربّع على رأس [طريق البخور](position_incense_road.md)، فتغدو الأرض كلّها [العربية السعيدة](position_arabia_felix.md) التي تقصدها قوافل العالم القديم.
+في عمق التاريخ تقوم مملكة سبأ في [مأرب](place_marib.md)، وتبني سدّها العظيم، وتتربّع على رأس [طريق البخور](position_incense_road.md)، فتغدو الأرض كلّها [العربية السعيدة](position_culture_arabia_felix.md) التي تقصدها قوافل العالم القديم.
 
 **[Plot 2: دخول الإسلام واللغة](plot_02_islam.md)**
 
@@ -77,7 +77,7 @@ stamp:
 
 **[Plot 3: صنعاء وشِبام، عمارةُ المعنى](plot_03_architecture.md)**
 
-ترتفع في [صنعاء القديمة](place_sanaa.md) البيوت البرجية بواجهاتها المنقوشة، وتشمخ شِبام في الوادي مدينةً من طين، فتصير [العربية السعيدة](position_arabia_felix.md) عمارةً تُرى لا حكايةً تُروى.
+ترتفع في [صنعاء القديمة](place_sanaa.md) البيوت البرجية بواجهاتها المنقوشة، وتشمخ شِبام في الوادي مدينةً من طين، فتصير [العربية السعيدة](position_culture_arabia_felix.md) عمارةً تُرى لا حكايةً تُروى.
 
 **[Plot 4: المُخا ومولد القهوة](plot_04_coffee.md)**
 

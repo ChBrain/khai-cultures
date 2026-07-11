@@ -44,6 +44,7 @@ A land of resource extraction and union labor resilience, defined by the steep m
 
 **Positions**
 
+- [the Mountain State](position_culture_mountain_state.md)
 - [mountain sovereignty](position_mountain_sovereignty.md)
 - [gorge stewardship](position_gorge_stewardship.md)
 - [West Virginian English](position_language_en_us_wv.md)

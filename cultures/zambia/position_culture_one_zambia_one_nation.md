@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The founding idea of the country, the motto stamped on its coat of arms and learned by every child: that Zambia, made of more than seventy peoples and no single one large enough to rule the rest, is held together not by one tribe nor one tongue but by the decision to be one nation in equal dignity. English is the bridge it rests on, the neutral tongue that no group owns and so every group can share, the language of the school and the office and the parliament that lets a Bemba and a Tonga and a Lozi meet on level ground. It is a nation made by choice rather than by blood, one out of many, and it carries the quiet knowledge that the choice has to be made again in every generation.
+The founding idea of the country, the motto stamped on its coat of arms and learned by every child: that Zambia, made of more than seventy peoples and no single one large enough to rule the rest, is held together not by one tribe nor one tongue but by the decision to be one nation in equal dignity. English is the bridge it rests on, the neutral tongue that no group owns and so every group can share, the language of the school and the office and the parliament that lets a Bemba and a Tonga and a Lozi meet on level ground. It is a nation made by choice rather than by blood, one out of many, and it carries the quiet knowledge that the choice has to be made again in every generation. Whoever is raised under it inherits, alongside the motto, the gentler creed of [Humanism](position_humanism.md) that the founders set beside it, and a claim on [the bush](position_the_bush.md), the great rivers and wild country the whole nation holds in common regardless of which of the seventy peoples raised them.
 
 ## Orders
 
