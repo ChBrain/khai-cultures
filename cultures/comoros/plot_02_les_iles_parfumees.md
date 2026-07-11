@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Perfumed Islands"
-declared: "les iles parfumees"
+declared: "les îles parfumées"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: les iles parfumees
+# Plot: les îles parfumées
 
 ## Taxonomy
 

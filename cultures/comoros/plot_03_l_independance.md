@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Independence of 1975"
-declared: "l'independance de 1975"
+declared: "l'indépendance de 1975"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: l'independance de 1975
+# Plot: l'indépendance de 1975
 
 ## Taxonomy
 

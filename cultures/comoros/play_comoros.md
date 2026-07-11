@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-L'Union des Comores, un archipel de trois îles volcaniques posées à l'entrée nord du canal de Mozambique, entre l'Afrique et Madagascar : Ngazidja (la Grande Comore) que couronne le Karthala, Ndzuani (Anjouan) la verte, et Mwali (Mohéli) la petite et sauvage. ISO KM, la langue de la maison est le français, mais le coeur bat en shikomori et la prière se dit en arabe. On les nomme les îles parfumées, car de leurs pentes monte l'odeur de l'ylang-ylang, de la vanille et du girofle qui parfument le monde entier.
+L'Union des Comores, un archipel de trois îles volcaniques posées à l'entrée nord du canal de Mozambique, entre l'Afrique et Madagascar : Ngazidja (la Grande Comore) que couronne le Karthala, Ndzuani (Anjouan) la verte, et Mwali (Mohéli) la petite et sauvage. ISO KM, la langue de la maison est le français, mais le cœur bat en shikomori et la prière se dit en arabe. On les nomme les îles parfumées, car de leurs pentes monte l'odeur de l'ylang-ylang, de la vanille et du girofle qui parfument le monde entier.
 
 ## Arc
 
@@ -64,7 +64,7 @@ Un peuple né du brassage de l'océan Indien : des Bantous d'Afrique, des Arabes
 
 **Plans**
 
-- [tenir les trois iles ensemble](plan_l_union_des_iles.md)
+- [tenir les trois îles ensemble](plan_l_union_des_iles.md)
 
 ## Triggers
 

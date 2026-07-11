@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Union of the Three Islands"
-declared: "l'Union des trois iles"
+declared: "l'Union des trois îles"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: l'Union des trois iles
+# Plot: l'Union des trois îles
 
 ## Taxonomy
 
@@ -32,7 +32,7 @@ Les Comores se donnent le cadre d'une Union qui reconnaît chacune des trois îl
 
 - [l'anda](position_l_anda.md): la coutume partagée qui, par-delà les îles, fait des Comoriens un seul peuple d'honneur.
 - [l'islam](position_l_islam.md): la foi commune qui lie les trois terres plus sûrement que toute loi.
-- [le Karthala](place_le_karthala.md): le grand volcan de Ngazidja, repère et coeur de l'île principale de l'Union.
+- [le Karthala](place_le_karthala.md): le grand volcan de Ngazidja, repère et cœur de l'île principale de l'Union.
 
 ## Tension
 

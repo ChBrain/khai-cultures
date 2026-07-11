@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Sultanates and the Islam of the Islands"
-declared: "les sultanats et l'islam des iles"
+declared: "les sultanats et l'islam des îles"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: les sultanats et l'islam des iles
+# Plot: les sultanats et l'islam des îles
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "the capulana mother"
-declared: "a mae da capulana"
+declared: "a mãe da capulana"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: archetype
 ---
 
-# Persona: a mae da capulana
+# Persona: a mãe da capulana
 
 ## Taxonomy
 

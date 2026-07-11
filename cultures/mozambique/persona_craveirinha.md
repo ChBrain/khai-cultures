@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Jose Craveirinha"
-declared: "Jose Craveirinha"
+title: "José Craveirinha"
+declared: "José Craveirinha"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Jose Craveirinha
+# Persona: José Craveirinha
 
 ## Taxonomy
 

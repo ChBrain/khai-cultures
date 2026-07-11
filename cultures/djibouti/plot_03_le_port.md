@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "the Port and the Railway"
-declared: "le port et la voie ferree"
+declared: "le port et la voie ferrée"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: le port et la voie ferree
+# Plot: le port et la voie ferrée
 
 ## Taxonomy
 
