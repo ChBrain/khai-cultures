@@ -52,6 +52,7 @@ Ein Land zwischen zwei Meeren, einst mit Gewalt aus dänischer Hand gelöst und 
 
 **Positions**
 
+- [die schleswig-holsteinische Kultur](position_culture_schleswig_holsteinische_kultur.md)
 - [der Deichgraf](position_deichgraf.md)
 - [der Kaufmann](position_kaufmann.md)
 - [Moin](position_moin.md)

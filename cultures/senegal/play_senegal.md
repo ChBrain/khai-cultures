@@ -47,6 +47,7 @@ Voilà un pays qui s'est fait carrefour avant de se faire nation. Sur ces terres
 
 **Positions**
 
+- [la sénégalité](position_culture_senegalite.md)
 - [la teranga](position_la_teranga.md)
 - [les confréries](position_les_confreries.md)
 - [la négritude](position_la_negritude.md)

@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-The king who would not yield: a hard, patient, and cunning leader who fought his way from outlaw and fugitive to crowned and victorious sovereign of an independent Scotland. He learns from defeat, binds the kindreds to a common cause, and stakes everything on freedom rather than glory. He [speaks, hears, and thinks in](process_speaking_mother_tongue.md) [the mother tongue of his people](position_language_en_gb_sct.md) as the plain ground beneath his crown, the tongue that binds the kindreds to a common cause. The Latin of the Church and the Norman French of the feudal court he [handles as borrowed tools](process_speaking_carried.md): there is the gap, the king rallies the folk in their own tongue while the charters and the chivalry of his age run on languages that are not theirs.
+The king who would not yield: a hard, patient, and cunning leader who fought his way from outlaw and fugitive to crowned and victorious sovereign of an independent Scotland. He learns from defeat, binds the kindreds to a common cause, and stakes everything on freedom rather than glory. He [speaks, hears, and thinks in](process_speaking_mother_tongue.md) [the mother tongue of his people](position_language_en_gb_sct.md) as the plain ground beneath his crown, the tongue that binds the kindreds to a common cause. The Latin of the Church and the Norman French of the feudal court he [handles as borrowed tools](process_speaking_carried.md): there is the gap, the king rallies the folk in their own tongue while the charters and the chivalry of his age run on languages that are not theirs. He belongs to [Scottishness](position_culture_scottishness.md) and wins back, at Bannockburn, the independence it never stops measuring itself by.
 
 ## Action
 
