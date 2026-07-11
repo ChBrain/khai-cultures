@@ -96,23 +96,26 @@ culture-position that speaks its idiom instead of cataloguing it.
 - **Wave B (Bhutan):** translate the play body to Dzongkha, patterned on the
   culture's own existing Dzongkha files.
 
-**Decision items (not executed by this order - the house must choose).**
+**Decision items - resolved (decisions taken and executed on the culture PR
+unless noted).**
 
-- **Nauru** cannot be fixed by rewriting in place: producing genuine Nauruan
-  needs native sources. Either source them, or honestly re-declare (English is
-  co-official in Nauru) and rebuild the culture's files in that declaration.
-- **Greenland and the Faroes** are genuine but thin; deepening kl/fo prose
-  responsibly also wants native sources.
-- **North Korea** is deliberately staged in the state's own sympathetic
-  register, as its play declares. Ratify or revise - but decide.
-- **Guinea-Bissau and Cape Verde** are (excellently) written in Kriol/Kriolu
-  under `language: pt`; the declaration or the routing should acknowledge the
-  creole.
-- **The rider gap:** CLAUDE.md promises an order rides the lane of the change
-  it drives, but `khai-guard.config.json` declares no `branchScope.riders`, so
-  the guard forces order and change into two PRs. A governance follow-up
-  should add `riders: [{ pattern: "management/orders/**", fallback:
-"governance" }]` to make the law real.
+- **Nauru** - RESOLVED: honestly re-declared. English (co-official in Nauru)
+  is now the written tongue, the culture rebuilt from inside with attested
+  Nauruan anchors kept, and the endangered tongue itself made part of the
+  story. Genuine written-Nauruan sources remain welcome to supersede this.
+- **Greenland and the Faroes** - RESOLVED: the Faroes deepened in Faroese;
+  Greenland explicitly DEFERRED - responsibly deepening polysynthetic
+  Greenlandic needs native sources, and faking it would be worse than thin.
+- **North Korea** - RESOLVED: ratified. The culture's own REFERENCES.md
+  already records the choice ("treated soberly and with no side", Juche
+  "presented strictly as self-description"); the register stands as an
+  inside voice by design.
+- **Guinea-Bissau and Cape Verde** - RESOLVED: re-declared kea (Kabuverdianu)
+  and pov (Guinea-Bissau Kriol), registered in khai.languages; each culture
+  gains its creole's own language position beside the Portuguese one.
+- **The rider gap** - RESOLVED: branchScope.riders now declares
+  management/orders/** with fallback governance, so an order rides the lane
+  of the change it drives, as CLAUDE.md promises.
 
 ## Targets
 
