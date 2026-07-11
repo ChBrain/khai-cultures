@@ -47,6 +47,7 @@ Bu yer ikki daryo orasidagi qadimiy vodiy, dunyoning eng ulug' savdo yo'li, Ipak
 
 **Positions**
 
+- [o'zbek madaniyati](position_culture_ozbek_madaniyati.md)
 - [ilm](position_ilm.md)
 - [iymon](position_iymon.md)
 - [mahalla](position_mahalla.md)

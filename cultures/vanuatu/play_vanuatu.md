@@ -47,7 +47,7 @@ Wan tijen blong Melanesia we ol man oli kam stap longtaem finis, longwe bifo ol 
 
 **Positions**
 
-- [kastom](position_kastom.md)
+- [kastom](position_culture_kastom.md)
 - [Kondominiom mo independens](position_kondominiom_na_independens.md)
 - [hapi aelan](position_hapi_aelan.md)
 - [Bislama](position_language_bis.md)
@@ -69,11 +69,11 @@ Wan tijen blong Melanesia we ol man oli kam stap longtaem finis, longwe bifo ol 
 
 **[Plot 1: ol jif mo Roi Mata](plot_01_ol_jif_na_roi_mata.md)**
 
-Longwe bifo, ol man blong Melanesia oli kam stap long ol aelan, oli mekem ol ples blong [kastom](position_kastom.md), mo wan paramaon jif, [Roi Mata](persona_roi_mata.md), i rul long [Efate](place_efate.md) mo i joenem ol haf wetem pis.
+Longwe bifo, ol man blong Melanesia oli kam stap long ol aelan, oli mekem ol ples blong [kastom](position_culture_kastom.md), mo wan paramaon jif, [Roi Mata](persona_roi_mata.md), i rul long [Efate](place_efate.md) mo i joenem ol haf wetem pis.
 
 **[Plot 2: Kondominiom](plot_02_kondominiom.md)**
 
-Britain mo Franis tufala i rul wantaem long Kondominiom, blakberding i tekemaot ol man, ol misin oli kam wetem niufala God, mo John Frum i girap long Tanna, be [Jif Kastom](persona_jif_kastom.md) i holemtaet [kastom](position_kastom.md) long [Tanna](place_tanna.md).
+Britain mo Franis tufala i rul wantaem long Kondominiom, blakberding i tekemaot ol man, ol misin oli kam wetem niufala God, mo John Frum i girap long Tanna, be [Jif Kastom](persona_jif_kastom.md) i holemtaet [kastom](position_culture_kastom.md) long [Tanna](place_tanna.md).
 
 **[Plot 3: independens mo Kokonas Woa](plot_03_independens_na_kokonas_woa.md)**
 

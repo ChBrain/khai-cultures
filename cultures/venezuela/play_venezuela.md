@@ -47,6 +47,7 @@ Una tierra que fue pueblo indígena y luego colonia española, asomada al Caribe
 
 **Positions**
 
+- [la venezolanidad](position_culture_venezolanidad.md)
 - [el bolivarianismo](position_el_bolivarianismo.md)
 - [el alma llanera](position_el_alma_llanera.md)
 - [el petroestado](position_el_petroestado.md)

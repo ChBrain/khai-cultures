@@ -47,6 +47,7 @@ Một nền văn minh lâu đời sinh ra bên những dòng sông và lớn lê
 
 **Positions**
 
+- [bản sắc Việt](position_culture_ban_sac_viet.md)
 - [tinh thần độc lập](position_tinh_than_doc_lap.md)
 - [tam giáo và thờ cúng tổ tiên](position_tam_giao.md)
 - [làng và lúa nước](position_lang.md)

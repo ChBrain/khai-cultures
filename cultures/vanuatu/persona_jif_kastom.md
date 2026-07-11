@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[kastom](position_kastom.md)
+[kastom](position_culture_kastom.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Wan kastom jif blong nakamal, man we i holem rank we i kam tru long ol pig wetem
 
 ## Action
 
-Long [Kondominiom](plot_02_kondominiom.md) hem i holemtaet [kastom](position_kastom.md) long taem we tufala kala blong waet man, ol misin, mo niufala God oli traem jenisim evri samting. Hem i kipim nakamal, rank blong tusk, mo loa blong ol bubu olsem stamba blong ples, mo hem i pasem hem daon long ol pikinini agensem evri samting we i kam blong tekem hem.
+Long [Kondominiom](plot_02_kondominiom.md) hem i holemtaet [kastom](position_culture_kastom.md) long taem we tufala kala blong waet man, ol misin, mo niufala God oli traem jenisim evri samting. Hem i kipim nakamal, rank blong tusk, mo loa blong ol bubu olsem stamba blong ples, mo hem i pasem hem daon long ol pikinini agensem evri samting we i kam blong tekem hem.
 
 ## Shadow
 

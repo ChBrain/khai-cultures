@@ -26,7 +26,7 @@ Long nek blong jif, long ol dans blong kastom, long flag blong Vanuatu, mo long 
 
 ## Load Bearing
 
-Hem i stanap blong rank mo rij blong [kastom](position_kastom.md), stamba we i no kam long mane be long pig wetem tusk. Long kastom blong Vanuatu, wan man i girap long rank long fasin we hem i givim plante pig wetem tusk long ol seremoni, mo tusk we i tan fulwan i wan long ol moa tabu samting we wan man i save holem. Hem i no jes wan samting blong soem; hem i mane blong kastom, samting we i kaonem rank, mo we i stap long flag blong kantri olsem saen blong kastom blong evri man blong Vanuatu. Sapos i no gat tusk ya, kastom we i kaonem rank long pig mo no long mane bae i no gat wan samting blong soem hem.
+Hem i stanap blong rank mo rij blong [kastom](position_culture_kastom.md), stamba we i no kam long mane be long pig wetem tusk. Long kastom blong Vanuatu, wan man i girap long rank long fasin we hem i givim plante pig wetem tusk long ol seremoni, mo tusk we i tan fulwan i wan long ol moa tabu samting we wan man i save holem. Hem i no jes wan samting blong soem; hem i mane blong kastom, samting we i kaonem rank, mo we i stap long flag blong kantri olsem saen blong kastom blong evri man blong Vanuatu. Sapos i no gat tusk ya, kastom we i kaonem rank long pig mo no long mane bae i no gat wan samting blong soem hem.
 
 ## Apparent
 
