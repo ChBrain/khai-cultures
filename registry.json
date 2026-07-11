@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.286.0",
+  "version": "0.287.0",
   "cultures": [
     {
       "kind": "culture",
@@ -737,6 +737,13 @@
       "title": "Honduras",
       "description": "Honduras puesta en escena: una nacion moldeada desde fuera que busca su soberania y su dignidad.",
       "iso": "HN"
+    },
+    {
+      "kind": "culture",
+      "id": "hong_kong",
+      "title": "Hong Kong",
+      "description": "A barren rock made the harbour where East meets West, a borrowed place that grew a city and a people all its own.",
+      "iso": "HK"
     },
     {
       "kind": "culture",

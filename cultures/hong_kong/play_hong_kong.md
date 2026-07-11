@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Hong Kong"
-description: "A barren rock turned into the harbour where East meets West, a borrowed place on borrowed time that made itself a city and a people of its own."
+description: "A barren rock made the harbour where East meets West, a borrowed place that grew a city and a people all its own."
 declared: "Hong Kong"
 language: en
 license: CC-BY-NC-SA-4.0
