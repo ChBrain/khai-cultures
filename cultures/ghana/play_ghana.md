@@ -47,6 +47,7 @@ Ghana is a young state wearing an old name, and that, chale, tells you the whole
 
 **Positions**
 
+- [Ghanaian culture](position_culture_ghanaian_culture.md)
 - [akwaaba](position_akwaaba.md)
 - [the Golden Stool](position_the_golden_stool.md)
 - [the proverb](position_the_proverb.md)

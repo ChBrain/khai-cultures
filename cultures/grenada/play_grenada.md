@@ -47,6 +47,7 @@ A small green island the wide world done fight over, and that fight back, in she
 
 **Positions**
 
+- [Grenadian culture](position_culture_grenadian_culture.md)
 - [the Spice Isle](position_the_spice_isle.md)
 - [the rebel tradition](position_the_rebel_tradition.md)
 - [the revolution and the reckoning](position_the_revolution_and_the_reckoning.md)
