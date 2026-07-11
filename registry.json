@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.287.0",
+  "version": "0.288.0",
   "cultures": [
     {
       "kind": "culture",
@@ -569,6 +569,13 @@
       "title": "Extremadura",
       "description": "Extremadura representada: los encinares de la dehesa, los secanos de la frontera y los pimientos de La Vera.",
       "iso": "ES-EX"
+    },
+    {
+      "kind": "culture",
+      "id": "faroe_islands",
+      "title": "Faroe Islands",
+      "description": "A green archipelago in the North Atlantic that made a nation of its language and its sea.",
+      "iso": "FO"
     },
     {
       "kind": "culture",
