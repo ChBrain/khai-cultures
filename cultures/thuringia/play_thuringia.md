@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Thuringia"
+title: "Thüringen"
 description: "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe."
-declared: "Thuringia"
+declared: "Thüringen"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: Thuringia
+# Play: Thüringen
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Thuringia, der Freistaat Thüringen im Zentrum Deutschlands. ISO DE-TH, Sprache de.
+Thüringen, der bewaldete Freistaat im Zentrum Deutschlands, das grüne Herz der Republik. ISO DE-TH, Sprache de.
 
 ## Arc
 
-Das grüne Herz Deutschlands, reich an dichten Wäldern und geschichtsträchtigen Orten. Das geistige Zentrum der deutschen Klassik durch das Wirken Goethes und Schillers in Weimar. Der Ort völkischer und religiöser Erneuerung durch Luthers Bibelübersetzung auf der Wartburg 1521. Nach 1990 als Freistaat wiedererrichtet, verbindet die Region die traditionelle Glaskunst im Thüringer Wald mit der weltberühmten optischen Präzisionsindustrie in Jena.
+Eine echte Thüringer Rostbratwurst verteidigt man hier mit mehr Leidenschaft als so manche Grenze - Patriotismus, der über den Grill geht. Das grüne Herz Deutschlands ist zugleich sein geistiges Zentrum: In Weimar dichteten Goethe und Schiller die deutsche Klassik, auf der Wartburg übersetzte Luther 1521 in elf Wochen das Neue Testament, und im Schatten dieses Gedächtnisses verbindet sich die Glaskunst des Thüringer Waldes mit der weltberühmten Optikindustrie Jenas. 1990 als Freistaat neu zusammengesetzt aus drei ehemaligen DDR-Bezirken, trägt das Land sein Erbe leichter, als sein Gewicht vermuten lässt.
 
 ## Company
 
@@ -78,4 +78,4 @@ Im Zuge der deutschen Wiedervereinigung wird der Freistaat Thüringen am 14. Okt
 
 ## Stakes
 
-Die Erhaltung des Thüringer Waldes angesichts von Dürreschäden und Borkenkäferplagen sowie der Ausbau Jenas zum globalen Hightech-Zentrum.
+Ob der Thüringer Wald Dürreschäden und Borkenkäferplagen übersteht und Jena sich zugleich zum globalen Hightech-Zentrum entwickelt.

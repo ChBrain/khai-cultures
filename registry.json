@@ -1155,7 +1155,7 @@
       "kind": "culture",
       "id": "moldova",
       "title": "Moldova",
-      "description": "Moldova pusă în scenă ca o cultură: o zonă de graniță cu podgorii și răscruci, definită de căutarea identității.",
+      "description": "Moldova staged as a culture: a land of hillside vineyards and deep cellars where identity is not a puzzle to solve but a table set for whoever knocks.",
       "iso": "MD"
     },
     {
@@ -1490,7 +1490,7 @@
     {
       "kind": "culture",
       "id": "rhineland_palatinate",
-      "title": "Rhineland-Palatinate",
+      "title": "Rheinland-Pfalz",
       "description": "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit.",
       "iso": "DE-RP"
     },
@@ -1581,14 +1581,14 @@
     {
       "kind": "culture",
       "id": "saxony",
-      "title": "Saxony",
+      "title": "Sachsen",
       "description": "Sachsen inszeniert: die Wiege deutscher Industrie, geprägt von Dresdner Barock, Erfindergeist und Bürgerprotest.",
       "iso": "DE-SN"
     },
     {
       "kind": "culture",
       "id": "saxony_anhalt",
-      "title": "Saxony-Anhalt",
+      "title": "Sachsen-Anhalt",
       "description": "Sachsen-Anhalt inszeniert: das Land von Luther und Bauhaus, geprägt von Chemieparks und Magdeburger Börde.",
       "iso": "DE-ST"
     },
@@ -1798,7 +1798,7 @@
     {
       "kind": "culture",
       "id": "thuringia",
-      "title": "Thuringia",
+      "title": "Thüringen",
       "description": "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe.",
       "iso": "DE-TH"
     },

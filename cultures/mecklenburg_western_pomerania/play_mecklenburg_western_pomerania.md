@@ -23,7 +23,7 @@ Mecklenburg-Vorpommern, das dünn besiedelte Küstenland zwischen Ostsee und See
 
 ## Arc
 
-„Nu" - ein Wort, das hier für einen ganzen Satz reicht, wenn das Boddenlicht über der Seenplatte liegt und niemand es eilig hat. Die Hansestädte Rostock und Wismar trugen den Handel der Ostsee schon, als 1419 mit der Universität Rostock die erste akademische Wiege des Nordens entstand. Nach der Wende 1990 neu als Bundesland zusammengefügt aus den Bezirken Rostock, Schwerin und Neubrandenburg, lebt die Region heute im weiten Schweigen zwischen dem Schutz ihrer maritim-ökologischen Naturräume und dem Sog von Tourismus und Hafenwirtschaft.
+Wo das Boddenlicht lang über der Seenplatte liegt und niemand es eilig hat, gilt ein bloßes „nu" oft schon als vollständige Antwort. Die Hansestädte Rostock und Wismar trugen den Handel der Ostsee schon, als 1419 mit der Universität Rostock die erste akademische Wiege des Nordens entstand. Nach der Wende 1990 neu als Bundesland zusammengefügt aus den Bezirken Rostock, Schwerin und Neubrandenburg, lebt die Region heute im weiten Schweigen zwischen dem Schutz ihrer maritim-ökologischen Naturräume und dem Sog von Tourismus und Hafenwirtschaft.
 
 ## Company
 

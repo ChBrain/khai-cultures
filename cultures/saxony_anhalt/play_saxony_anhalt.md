@@ -78,4 +78,4 @@ Nach dem Ende der DDR wird das Land Sachsen-Anhalt aus den ehemaligen Bezirken H
 
 ## Stakes
 
-Die ökologische Sanierung und der CO2-neutrale Umbau der traditionellen Chemieindustrie bei gleichzeitiger Förderung des Tourismus und der ländlichen Räume.
+Ob die traditionelle Chemieindustrie sich ökologisch sanieren und CO2-neutral umbauen lässt, während zugleich Tourismus und ländlicher Raum gestärkt werden.

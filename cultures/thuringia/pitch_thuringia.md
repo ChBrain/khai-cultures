@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Thuringia](play_thuringia.md). Er bestimmt das beschauliche, präzise und waldverbundene Leben in Thüringen.
+Die Tonart, in der die Produktion [Thüringen](play_thuringia.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Weimarer Klassik ab 1775, nicht an Luthers Bibelübersetzung auf der Wartburg 1521, nicht an der Wiedererrichtung des Freistaats 1990. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine nachdenkliche Gemütlichkeit und handwerkliche Präzision. Die Thüringer p
 
 ## Undertow
 
-Unter der Gemütlichkeit liegt eine leise Melancholie und die Sorge vor Umbrüchen der Nachwendezeit. Die Abwanderung aus den Bergregionen und der Zustand des Waldes belasten das Gemüt. Der Ton drückt das Bedürfnis aus, die kleinstädtische Geborgenheit, die reiche Kulturgeschichte und die Naturschätze des Thüringer Waldes abzusichern.
+Unter der Gemütlichkeit liegt eine leise Melancholie und die Sorge vor Umbrüchen der Nachwendezeit. Die Abwanderung aus den Bergregionen und der Zustand des Waldes belasten das Gemüt, und dahinter steht das Bedürfnis, die kleinstädtische Geborgenheit, die reiche Kulturgeschichte und die Naturschätze des Thüringer Waldes zu bewahren.
 
 ## Nerve
 
-Der Stolz auf die Weimarer Klassik als geistiges Fundament, das Erbe der Wartburg und die unübertroffene Präzision der Jenaer Optik.
+Getroffen wird der stille Bratwurst-Patriotismus ebenso wie der Stolz auf die Weimarer Klassik als geistiges Fundament, das Erbe der Wartburg und die unübertroffene Präzision der Jenaer Optik.
 
 ## Echo
 
-Das Knistern des Buchenholzfeuers im Grill und das präzise Klicken einer Linsenfassung im Jenaer Labor : ein Echo, das warm, schöpferisch und hochpräzise klingt.
+Was bleibt, ist das Knistern des Buchenholzfeuers im Grill und das präzise Klicken einer Linsenfassung im Jenaer Labor. Der Nachklang ist warm wie das grüne Herz Deutschlands: schöpferisch, hochpräzise und mit dem Gedächtnis der Wartburg im Rücken.

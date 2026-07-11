@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Saxony-Anhalt](play_saxony_anhalt.md). Er bestimmt das funktionale, nachdenkliche und bodenständige Leben in Sachsen-Anhalt.
+Die Tonart, in der die Produktion [Sachsen-Anhalt](play_saxony_anhalt.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an Luthers Thesenanschlag 1517, nicht am Umzug des Bauhauses nach Dessau 1925, nicht an der Neugründung des Landes 1990. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine schlichte Sachlichkeit und ehrliche Direktheit. Die Kommunikation ist schn�
 
 ## Undertow
 
-Unter der Sachlichkeit liegt das Bedürfnis, nach den Umbrüchen der Wendezeit wieder Stabilität zu finden. Die Transformationen der Chemiebetriebe nach 1990 haben Spuren hinterlassen. Der Ton drückt die Sorge aus, in der gesamtdeutschen Entwicklung übersehen zu werden, und das Bestreben, den industriellen Kern eigenständig in die Zukunft zu führen.
+Unter der Sachlichkeit liegt das Bedürfnis, nach den Umbrüchen der Wendezeit wieder Stabilität zu finden. Die Transformationen der Chemiebetriebe nach 1990 haben Spuren hinterlassen. Dahinter steht die Sorge, in der gesamtdeutschen Entwicklung übersehen zu werden, und das Bestreben, den industriellen Kern eigenständig in die Zukunft zu führen.
 
 ## Nerve
 
-Der Stolz auf die revolutionären Ideen des Bauhauses, die theologische Erneuerung durch Luther und die Fruchtbarkeit der eigenen Böden.
+Getroffen wird die nüchterne Genugtuung über die revolutionären Ideen des Bauhauses, Luthers theologische Erneuerung und die Fruchtbarkeit der eigenen Böden.
 
 ## Echo
 
-Das leise Surren der Maschinen in Leuna und das ehrfürchtige Schweigen im Kirchenschiff von Wittenberg : ein Echo, das klar, ernsthaft und beständig klingt.
+Was bleibt, ist das leise Surren der Maschinen in Leuna und das ehrfürchtige Schweigen im Kirchenschiff von Wittenberg. Der Nachklang ist klar wie eine Bauhaus-Linie: ernsthaft, beständig und auf magerem Boden fest verwurzelt.

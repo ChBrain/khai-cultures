@@ -22,16 +22,16 @@ Tonul în care este jucată producția [Moldova](play_moldova.md). Acesta determ
 
 ## Tenor
 
-O răbdare melancolică și căldura comunității. Viața nu se măsoară prin activitate rapidă sau optimism zgomotos, ci prin capacitatea de a rezista furtunilor și de a cultiva ospitalitatea în cercul familiei. O respectare profundă a tradiției, a vinului și a credinței, combinată cu o prudență defensivă față de străini. Se joacă într-o tonalitate caldă, plină de dor, în care ospitalitatea depășește incertitudinea vieții de zi cu zi.
+Se joacă la masa din casa mare, ținută curată tot anul doar pentru oaspeți: o ospitalitate care golește cămara fără să clipească, plăcinte scoase calde din cuptor cât mai e musafir la masă, și un pahar de vin din crama sau beciul propriu, turnat din nou cât timp mai e ceva de spus. Vinul e limba pe care o înțeleg toți, de la vecin la străin, iar un toast lung, cu o urare pentru fiecare din jurul mesei, spune despre casă mai mult decât orice act. Sub bucuria mesei stă un respect tăcut pentru tradiție, credință și pământ.
 
 ## Undertow
 
-Sub ospitalitate se ascunde o profundă nesiguranță și teama de instabilitate. Istoria de graniță între mari imperii a înrădăcinat neîncrederea în schimbările rapide și puterile străine. Există o acceptare ridicată a ierarhiilor, combinată cu o atitudine sceptică față de viitor. Tonul oscilează între bucuria sărbătorii comune și o răbdare resemnată care acceptă inevitabilul, în timp ce oamenii se agață de ceea ce le este familiar.
+Sub masa plină stă o oboseală tăcută: cămara care se golește cu adevărat, satul care rămâne fără mâini de lucru când tinerii pleacă la Chișinău sau mai departe, iar crama fără moștenitor. Vinul turnat din nou la fiecare toast poate aluneca și în exces, iar bucuria mesei se amestecă uneori cu teama că musafirul de azi, mare putere vecină la Est sau la Vest, va cere mai mult decât un pahar. Rămâne o prudență veche, învățată din a fi fost mereu strivit între vecini mai mari, și o resemnare tăcută în fața a ceea ce nu se poate schimba.
 
 ## Nerve
 
-Se atinge sentimentul de supraviețuire și mândria pentru bogata moștenire a vinului, privit ca o adevărată comoară a țării. Se joacă pentru conștiința de a trăi la o răscruce de culturi și satisfacția de a-și fi păstrat sufletul în ciuda amenințărilor constante.
+Atinge coarda mesei care nu se golește niciodată și a vinului care leagă pe oricine se așază la ea: mândria beciului și a cramei moștenite, și mulțumirea de a răspunde la orice întrebare despre cine ești cu poftim la masă, nu cu o hartă. Se joacă pe convingerea că un popor rămâne întreg cât mai are ce pune pe masă.
 
 ## Echo
 
-Ceea ce rămâne este încrederea în propriul pământ și legătura de familie, care ajută la depășirea crizelor politice. Gustul de după este greu și dulce ca un vin maturat: cald, legat de pământ și marcat de o ușoară melancolie privind destinul țării.
+Rămâne gustul de plăcintă caldă și mărțișorul legat la piept, greu și dulce ca vinul maturat în beci: o masă care s-a golit de multe ori și s-a umplut mereu la loc, o identitate care nu se scrie în cărți, ci se toarnă în pahar și se pune pe farfurie de fiecare dată când bate cineva la ușă.
