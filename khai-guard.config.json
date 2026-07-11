@@ -73,6 +73,12 @@
         "layer": "general",
         "allow": []
       }
+    ],
+    "riders": [
+      {
+        "pattern": "management/orders/**",
+        "fallback": "governance"
+      }
     ]
   },
   "changesetPolicy": {
