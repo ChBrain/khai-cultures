@@ -16,8 +16,8 @@ stamp:
 
 A culture in this house is loaded to be **performed**: whoever (or whatever)
 loads it is expected to _be_ the culture, not cartoon it. That sets the bar for
-every file: the prose must speak _as_ the culture — its idiom, its cadence, its
-self-understanding — and a performer loading it must be distinguishable, blind,
+every file: the prose must speak _as_ the culture - its idiom, its cadence, its
+self-understanding - and a performer loading it must be distinguishable, blind,
 from every sibling. A full-house review (all 288 cultures, play and pitch read
 in full, positions and personas where cloning showed) found the
 sovereign-country canon largely passing that bar, and the three subdivision
@@ -32,12 +32,12 @@ waves failing it wholesale. This order directs the repair.
 What the review found, and the path to fix it. The house pitch form (the
 Taxonomy frame "it changes nothing of what happens, it only sets how it
 sounds"; the Arc's closing "under it all runs one nerve") is canon, not a
-defect — the defect is noun-swapped **filling** inside that form, and an
+defect - the defect is noun-swapped **filling** inside that form, and an
 outside-narrator register no one would use of their own home.
 
 **Findings.**
 
-1. **Three production-line waves — 82 cultures.** The 50 US states + DC
+1. **Three production-line waves - 82 cultures.** The 50 US states + DC
    (49 Arcs open "A land of X and Y, defined by…"; 16 pitches share the
    verbatim Tenor "A thoughtful, polite, and mechanical tone"; 42 Nerves end
    "…are the true anchors of a resilient society"; all 102 state personas
@@ -73,7 +73,7 @@ outside-narrator register no one would use of their own home.
    garbled tokens (Mauritius "lapnetworld", San Marino "sich considerano").
 
 **The repair path.** Fixes ride a `culture/` lane and ship in harvested
-batches — each wave is committed, tested green, and pushed before the next
+batches - each wave is committed, tested green, and pushed before the next
 begins, so no batch is lost to a session limit. Exemplars set the standard:
 `usa` and `hawaii` for the states, `spain` for the regions,
 `schleswig_holstein` and `austria` for the Länder, `kentucky` for a
@@ -83,13 +83,12 @@ culture-position that speaks its idiom instead of cataloguing it.
   cultures; localize English link labels from each target's own `declared:`;
   add the seven missing `language:` keys; fix the garbles, the teranga leak,
   the Andorra near-naming, the Balearic geography.
-- **Waves S1–S5 (the states):** re-voice all 51 US-state cultures from inside
-  — play Arc and Stakes, the whole pitch, the culture-position, both defining
+- **Waves S1 - S5 (the states):** re-voice all 51 US-state cultures from inside - play Arc and Stakes, the whole pitch, the culture-position, both defining
   personas. Kill the template strings outright; deploy the idiom in the
   register rather than cataloguing it.
-- **Waves E1–E2 (the Spanish regions):** re-voice the 17 regional pitches and
+- **Waves E1 - E2 (the Spanish regions):** re-voice the 17 regional pitches and
   Arcs; each community in its own key, not one clerk's.
-- **Waves G1–G2 (the Länder):** re-voice the 14 Family-B Länder — endonyms,
+- **Waves G1 - G2 (the Länder):** re-voice the 14 Family-B Länder - endonyms,
   dramatic Stakes, dialect spoken where it lives.
 - **Wave T (twins and thin voices):** de-twin England/UK, Slovakia/Bulgaria,
   Kazakhstan/Kyrgyzstan, Rwanda/Burundi, PNG/Solomons, Kosovo; give Moldova,
@@ -97,7 +96,7 @@ culture-position that speaks its idiom instead of cataloguing it.
 - **Wave B (Bhutan):** translate the play body to Dzongkha, patterned on the
   culture's own existing Dzongkha files.
 
-**Decision items (not executed by this order — the house must choose).**
+**Decision items (not executed by this order - the house must choose).**
 
 - **Nauru** cannot be fixed by rewriting in place: producing genuine Nauruan
   needs native sources. Either source them, or honestly re-declare (English is
@@ -105,7 +104,7 @@ culture-position that speaks its idiom instead of cataloguing it.
 - **Greenland and the Faroes** are genuine but thin; deepening kl/fo prose
   responsibly also wants native sources.
 - **North Korea** is deliberately staged in the state's own sympathetic
-  register, as its play declares. Ratify or revise — but decide.
+  register, as its play declares. Ratify or revise - but decide.
 - **Guinea-Bissau and Cape Verde** are (excellently) written in Kriol/Kriolu
   under `language: pt`; the declaration or the routing should acknowledge the
   creole.
