@@ -1,29 +1,29 @@
 ---
 khai: play
 title: "Nauru"
-description: "Naoero: ribanan rik, eb me eo aen me imin boe, ngo etsi eko ma dorerin."
+description: "Nauru: the world's smallest republic, a phosphate fortune won and lost, and the population that twice nearly vanished."
 declared: "Naoero"
-language: nau
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
 # Play: Naoero
 
 ## Estate
 
-[khai-cultures](https://github.com/ChBrain/khai-cultures): eb ko aen ngo etsi eko aen, ma e iyo etsiwen eo.
+[khai-cultures](https://github.com/ChBrain/khai-cultures): the Cultures house that holds this culture and answers for it.
 
 ## Name
 
-Naoero, eb ribanan rik n eb tongin n ekege, eo aen eb itsibwij me imin Pacific n okoro. ISO NR, dorerin nau, ma English eo etsi aning ebabo. Naoero eb me eo aen itsibwij me eb tongin: eb tomure aiwo eb me ekege engame aen, ma engame eb aing ororo eo etsi eko eb aen.
+Naoero, the island's own name for itself, is the smallest republic on earth, a single raised reef in the central Pacific of about twenty-one square kilometres. Its ISO code is NR; English is co-official with Nauruan and is in practice the dominant written tongue, the language of government, law, and schooling, while Nauruan is still what most households speak at home. Naoero names both the island and the people on it: a nation small enough that everyone in it is, in some fashion, kin.
 
 ## Arc
 
-Naoero eb ribanan eo aen rik n eb tongin n ekege, eb me eo aiwo me eb itsibwij ekege n eb tomure aiwo me eb eko n eb tongin n ekege engame eo aen eb flag. Eb itsibwij me eb tomure n eko n eb itsibwij me itsibwij me ekege n eb buada lagoon, ma eb faith. Imin boe eko me ekege, eb aen me eo aiwo eko Naoero me eb me eo aiwo ororo n eb tongin n ekege, ma engame eb boe eko me ekege, eb aen me eo aiwo eko eb Topside me eb pinnacle me ekege eb eko aen. Eb German me eb Australian eko aen eo eko, ma eb WWII me eb Japanese eko n eb deportation aen Truk, eb me eo aiwo me eb soberly. Eb independence n 1968 n eb Hammer DeRoburt me eb fight eo aen eb phosphate rights, ma eb trust fund eko aen me ekege. Eko eb me eo aiwo eko eb aing ororo eo etsi eko, eb frigatebird, eb Buada Lagoon, ma eb Angam Day. Eb me eo aiwo eb nerve eb aning: eb itsibwij me eb tomure aiwo me eb faith me eb eko, ma engame eb boe eko me ekege, eb aen me eo aiwo eko engame eb me eo aen itsibwij me eb dorerin.
+Twelve tribes settled the island long before any flag existed to put a star on for each of them, living on the reef, the coconut, and the frigatebird caught and kept off Buada Lagoon, all of it framed by a network of custom and faith that still orders daily life. Then came the find that changed everything: phosphate, laid down over centuries of seabird droppings on the coral, discovered around 1900 and mined for most of the century after, first under German and then Australian administration, until it left Topside, the island's interior, a field of bare coral pinnacles with nothing living on it. The Second World War brought Japanese occupation and, in 1943, the deportation of most of the population to forced labour on Chuuk, a loss the island only partly recovered from. Independence came in 1968 under Hammer DeRoburt, who fought the phosphate rights loose from foreign hands and, for two brief decades after, made Nauru one of the richest countries on earth per head, its fortune banked in a trust fund built to outlast the rock. The fund did not outlast it: mismanaged and drained, it collapsed within a generation, leaving a nation with a wrecked interior, a hollowed treasury, and the same twelve tribes, the same frigatebirds over the same lagoon, and the same Angam Day, the day marking a headcount that once nearly hit zero, twice. What survives underneath the boom and the bust is the nerve of the place itself: a small, close, faith-keeping population that has now watched its own near-disappearance and its own fortune both come and go, and kept its footing through both.
 
 ## Company
 
@@ -31,9 +31,9 @@ Naoero eb ribanan eo aen rik n eb tongin n ekege, eb me eo aiwo me eb itsibwij e
 
 - [Hammer DeRoburt](persona_hammer_deroburt.md)
 - [Bernard Dowiyogo](persona_bernard_dowiyogo.md)
-- [te tia mining](persona_te_tia_mining.md)
-- [te tia itsibwij](persona_te_tia_itsibwij.md)
-- [te eo](persona_te_eo.md)
+- [the Miner](persona_the_miner.md)
+- [the Frigatebird Catcher](persona_the_frigatebird_catcher.md)
+- [the Elder](persona_the_elder.md)
 
 **Places**
 
@@ -42,48 +42,48 @@ Naoero eb ribanan eo aen rik n eb tongin n ekege, eb me eo aiwo me eb itsibwij e
 
 **Processes**
 
-- [itsibwij](process_itsibwij.md)
+- [Frigatebird Catching](process_frigatebird_catching.md)
 - [Angam Day](process_angam_day.md)
 
 **Positions**
 
-- [tomure Naoero](position_culture_tomure_naoero.md)
-- [eko oe aiwo](position_eko_oe_aiwo.md)
-- [phosphate ma boe](position_phosphate_ma_boe.md)
-- [te republic ororo](position_te_republic_ororo.md)
-- [dorerin Naoero](position_language_nau.md)
+- [Nauruan Culture](position_culture_nauruan_culture.md)
+- [the Twelve Tribes](position_the_twelve_tribes.md)
+- [Phosphate and the Price](position_phosphate_and_the_price.md)
+- [the Smallest Republic](position_the_smallest_republic.md)
+- [Nauruan English](position_language_en_nr.md)
 
 **Pieces**
 
-- [te itsibwij](piece_itsibwij_bird.md)
-- [ibija](piece_ibija.md)
+- [the Frigatebird](piece_the_frigatebird.md)
+- [the Milkfish](piece_the_milkfish.md)
 
 **Pitches**
 
-- [dorerin Naoero](pitch_nau.md)
+- [The Nauruan Tone](pitch_nauru.md)
 
 **Plans**
 
-- [muri i te phosphate](plan_muri_i_te_phosphate.md)
+- [After the Phosphate](plan_after_the_phosphate.md)
 
 ## Triggers
 
-**[Plot 1: eko oe aiwo](plot_01_eko_oe_aiwo.md)**
+**[Plot 1: The Island Before](plot_01_the_island_before.md)**
 
-Eb itsibwij me eb tomure aiwo me eb eko n eb tongin n ekege n eb [eko oe aiwo](position_eko_oe_aiwo.md), eb itsibwij me itsibwij me ekege me eb [te eo](persona_te_eo.md) me eb [Buada Lagoon](place_buada.md), ma eb faith eko eb me eo aiwo.
+The twelve tribes settle the island and mark it in [the Twelve Tribes](position_the_twelve_tribes.md), catching and keeping frigatebirds with [the Elder](persona_the_elder.md) and [the Frigatebird Catcher](persona_the_frigatebird_catcher.md) beside [Buada Lagoon](place_buada.md), under a faith that still frames the island's custom.
 
-**[Plot 2: te kowaki ma te buaka](plot_02_te_kowaki_ma_te_buaka.md)**
+**[Plot 2: Occupations and War](plot_02_occupations_and_war.md)**
 
-Eb German me eb Australian eko aen eo eko, ma eb WWII me eb Japanese eko n eb deportation aen Truk, eb me eo aiwo me eb soberly, ma eb [te republic ororo](position_te_republic_ororo.md) eko eb fight aen.
+German and then Australian administration are followed by the Japanese wartime occupation and the 1943 deportation to Chuuk, staged soberly, while [the Smallest Republic](position_the_smallest_republic.md) begins its long fight for the sovereignty that would come after.
 
-**[Plot 3: te republic ma te phosphate](plot_03_te_republic_phosphate.md)**
+**[Plot 3: The Phosphate Republic](plot_03_the_phosphate_republic.md)**
 
-Eb independence n 1968 me eb [Hammer DeRoburt](persona_hammer_deroburt.md) me eb fight eo aen eb phosphate rights, ma eb [te tia mining](persona_te_tia_mining.md) eko eb boe n eb [Topside](place_topside.md), eb aen me eo aiwo eko Naoero.
+Independence in 1968 is won by [Hammer DeRoburt](persona_hammer_deroburt.md) in the fight for phosphate rights, while [the Miner](persona_the_miner.md) works the cantilever above [Topside](place_topside.md), the boom that briefly made Nauru rich.
 
-**[Plot 4: boe ma eko](plot_04_boe_ma_eko.md)**
+**[Plot 4: After the Money](plot_04_after_the_money.md)**
 
-Eb boe eko me ekege, eb [Bernard Dowiyogo](persona_bernard_dowiyogo.md) me eb [Topside](place_topside.md) eko aen me ekege, ma eb [phosphate ma boe](position_phosphate_ma_boe.md) eko eb aen me eo aiwo eko engame Naoero.
+The bust arrives, [Bernard Dowiyogo](persona_bernard_dowiyogo.md) presides over a hollowed [Topside](place_topside.md) and a spent trust fund, and [Phosphate and the Price](position_phosphate_and_the_price.md) turns from what the island earned to what it must now do without.
 
 ## Stakes
 
-Eb me eo aiwo eko eb ribanan rik n eb tongin, eb aen me eo aiwo eko eb boe me ekege, eb aen me eo aiwo eko engame eb [eko oe aiwo](position_eko_oe_aiwo.md) me eb tomure aiwo me eb dorerin, ma engame eb aen me eo aiwo eko eb land me eb livelihood me ekege. Eb me eo aiwo eko engame eb itsibwij me eb tomure aiwo me eb dorerin Naoero eko eb me eo aiwo, ma engame eb boe me ekege eko eb aen me eo aiwo eko eb me eo aen itsibwij.
+At stake across this island nation is whether the twelve tribes' custom and faith, held in [the Twelve Tribes](position_the_twelve_tribes.md), can outlast both the wealth that is gone and the land that was mined to get it. At stake too is Nauruan itself: spoken at home by most of the country still, but rarely written down, thinned by a century in which English carried the law, the money, and the record. What the island gives, the island has already shown it can take back; what is still being decided is what comes after.

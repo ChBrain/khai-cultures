@@ -2,12 +2,12 @@
 khai: persona
 title: "Bernard Dowiyogo"
 declared: "Bernard Dowiyogo"
-language: nau
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 type: real
 ---
 
@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[phosphate ma boe](position_phosphate_ma_boe.md)
+[Phosphate and the Price](position_phosphate_and_the_price.md)
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-Eb me eo aen me eb president n Naoero n eb me eo aen me eb boom me eb bust, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb ororo me eb boe me ekege. Eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tongin n ekege, eb me eo aen me eb me eo aiwo eko engame eb phosphate eko aen me ekege me eb trust fund eko aen me ekege. Eb me eo aen me eb [dorerin Naoero](position_language_nau.md) eko eb me eo aen me eb me eo aiwo: eb me eo aen me eb [speaks](process_speaking_mother_tongue.md) me eb [hears](process_hearing_mother_tongue.md) n eb dorerin Naoero, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tomure aiwo. Eb [English](../australia/position_language_en_au.md) eko eb me eo aen me eb [carried](process_speaking_carried.md) mei eb eko aen, ma eb me eo aen me eb [followed](process_hearing_followed.md) me eb [deciphered](process_reading_deciphered.md) eb me eo aen me eb me eo aiwo eko eb me eo aen me eb finance me eb law n eb English. Eb me eo aen me eb dorerin Naoero eko eb me eo aen me eb me eo aiwo, ma eb English eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb mamani me eb finance, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb dorerin Naoero eko eb me eo aen me eb me eo aiwo, eb potu eko eb me eo aiwo eko engame eb dorerin eko eb me eo aen me eb fua kotoa. Eb me eo aen me eb [tomure Naoero](position_culture_tomure_naoero.md) eko eb me eo aen me eb me eo aiwo, eb boe me eb bust eko eb me eo aen me eb tomure aiwo n Naoero.
+President of Nauru across much of the boom's decline and the bust that followed, holding office in short, repeated terms while the phosphate thinned out and the trust fund built to replace it was spent down through years of poor investment. He came to power a generation after independence, inheriting a wealthy island and watching, from the president's own chair, how quickly that wealth could be lost again. Nauruan is his mother tongue: he [speaks](process_speaking_mother_tongue.md) and [hears](process_hearing_mother_tongue.md) it, the language of his own household. English arrived [carried](process_speaking_carried.md) on the back of the administration before him, and it was in that tongue, [Nauruan English](position_language_en_nr.md), that he [followed](process_hearing_followed.md) and [deciphered](process_reading_deciphered.md) the finance and the law the bust forced him to master. Nauruan held his private life; English held the finance, the audits, and the failed schemes meant to replace the phosphate income, so that even the search for a way out of the bust had to be conducted in a language not his own. He belongs to [Nauruan Culture](position_culture_nauruan_culture.md), the bust having become as much a part of that culture's memory, in his time, as the boom had been before it.
 
 ## Action
 
-N eb [boe ma eko](plot_04_boe_ma_eko.md) eb me eo aen me eb me eo aiwo eko eb me eo aen me eb boe me ekege me eb me eo aen me eb mo'ui fo'ou, eb me eo aen me eb me eo aiwo eko eb [phosphate ma boe](position_phosphate_ma_boe.md). Eb me eo aen me eb president n eb me eo aen me eb boom me eb bust eko eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb mo'ui muri i te phosphate.
+In [After the Money](plot_04_after_the_money.md) he presides over the boom's decline and the search for reinvention, embodying [Phosphate and the Price](position_phosphate_and_the_price.md). A president who inherited one of the world's richest small nations per head spends his terms instead negotiating what comes after the money.
 
 ## Shadow
 
-Eb me eo aen me eb president n eb boom me eb bust eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb 'ata: eb trust fund eko aen me ekege, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb me eo, ma eb fehu'i eko eb me eo aiwo eko engame eb ribanan rik eko eb me eo aen me eb mo'ui fo'ou.
+The president who tries hardest to replace a spent trust fund can end up signing the island into arrangements, offshore finance schemes, later an asylum processing centre, that solve one year's shortfall while raising the next decade's questions, and the same urgency that drives the search for income can outrun the caution a small nation needs when it has already lost one fortune.
 
 ## Tell
 
-Eb me eo aen me eb me eo aiwo eko eb me eo aen me eb boe me ekege ke eb me eo aen me eb tongin n ekege, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb mo'ui fo'ou me eb dorerin, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb me eo aen.
+He works the finance and the law of the bust in a borrowed tongue while the loss itself is felt at home in Nauruan, leaving the republic a decade of improvised answers to a question the boom years never had to ask.
