@@ -47,6 +47,7 @@ Depende, dicen aquí, y depende también de la lluvia y de la ría: verde, marí
 - [la vida marítima](position_atlantic_maritime.md)
 - [la identidad gallega](position_culture_identidad_gallega.md)
 - [el español de Galicia](position_language_es_es_ga.md)
+- [o galego](position_language_gl.md)
 
 **Pieces**
 
