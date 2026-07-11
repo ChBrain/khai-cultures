@@ -29,57 +29,57 @@ stamp:
 
 **Personas**
 
-- [Muhammad Thakurufaanu](persona_thakurufaanu.md)
-- [Bodufenvalhuge Sidi](persona_bodufenvalhuge_sidi.md)
-- [Hussain Salahuddin](persona_hussain_salahuddin.md)
-- [Mohamed Jameel Didi](persona_mohamed_jameel_didi.md)
-- [the fisherman](persona_masveriya.md)
+- [މުޙައްމަދު ތަކުރުފާނު](persona_thakurufaanu.md)
+- [ބޮޑުފެންވަޅުގޭ ސީދީ](persona_bodufenvalhuge_sidi.md)
+- [ޙުސައިން ޞަލާޙުއްދީން](persona_hussain_salahuddin.md)
+- [މުޙައްމަދު ޖަމީލް ދީދީ](persona_mohamed_jameel_didi.md)
+- [މަސްވެރިޔާ](persona_masveriya.md)
 
 **Places**
 
-- [Male](place_male.md)
-- [the reef](place_faru.md)
+- [މާލެ](place_male.md)
+- [ފަރު](place_faru.md)
 
 **Processes**
 
-- [the tuna voyage](process_masdhathuru.md)
-- [bodu beru](process_boduberu.md)
+- [މަސްދަތުރު](process_masdhathuru.md)
+- [ބޮޑުބެރު](process_boduberu.md)
 
 **Positions**
 
-- [Islam](position_islam.md)
-- [the sea](position_kandu.md)
-- [the atoll nation](position_culture_raajje.md)
+- [އިސްލާމްދީން](position_islam.md)
+- [ކަނޑު](position_kandu.md)
+- [ދިވެހިރާއްޖެ](position_culture_raajje.md)
 - [ދިވެހި](position_language_div.md)
 
 **Pieces**
 
-- [the dhoni](piece_dhoni.md)
-- [the woven mat](piece_thundu_kunaa.md)
+- [ދޯނި](piece_dhoni.md)
+- [ތުނޑު ކުނާ](piece_thundu_kunaa.md)
 
 **Pitches**
 
-- [the Dhivehi tone](pitch_div.md)
+- [ދިވެހި ރާގު](pitch_div.md)
 
 **Plans**
 
-- [holding the nation above the sea](plan_raajje_dhemmun.md)
+- [ރާއްޖެ ދެމެހެއްޓުން](plan_raajje_dhemmun.md)
 
 ## Triggers
 
-**[Plot 1: the coming of Islam (1153)](plot_01_islam_1153.md)**
+**[Plot 1: އިސްލާމްދީން އައުން (1153)](plot_01_islam_1153.md)**
 
 މީލާދީން 1153 ވަނަ އަހަރު ދިވެހިރާއްޖެ އިސްލާމްދީނަށް ވަދެ، [އިސްލާމްދީން](position_islam.md) މުޅި ޤައުމުގެ ބިންގަލަށް ވެގެން ދިޔައެވެ.
 
-**[Plot 2: Thakurufaanu frees the nation (1573)](plot_02_thakurufaanu_1573.md)**
+**[Plot 2: ތަކުރުފާނު ޤައުމު މިނިވަންކުރުން (1573)](plot_02_thakurufaanu_1573.md)**
 
 ބޭރުގެ ބާރެއްގެ ދަށުގައި ޤައުމު އޮތް ދުވަސްވަރު، [މުޙައްމަދު ތަކުރުފާނު](persona_thakurufaanu.md) [ދިވެހިރާއްޖެ](position_culture_raajje.md) މިނިވަންކޮށްދިނެވެ.
 
-**[Plot 3: the age of the sultans](plot_03_sulthaanun.md)**
+**[Plot 3: ސުލްޠާނުންގެ ޒަމާން](plot_03_sulthaanun.md)**
 
 ސުލްޠާނުންގެ ދިގު ޒަމާނުގައި [މާލެ](place_male.md) ގައި މުރަކައިން މިސްކިތްތައް ބިނާކޮށް، ތާނަ ލިޔުމާއި ދީނީ އިލްމު ފެތުރި، [ޙުސައިން ޞަލާޙުއްދީން](persona_hussain_salahuddin.md) ފަދަ އިލްމުވެރިން އުފެދުނެވެ.
 
-**[Plot 4: the modern nation and the rising sea](plot_04_modern.md)**
+**[Plot 4: އާ ޤައުމާއި އުފުލެމުންދާ ކަނޑު](plot_04_modern.md)**
 
 1965 ގައި މިނިވަންވެ، ޖުމްހޫރިއްޔާއެއް ބިނާކޮށް، މިއަދު ކަނޑުގެ ލޮނުގަނޑު އުފުލެމުންދާ [ތިރި ރަށްތައް](position_culture_raajje.md) ހިފެހެއްޓުމުގެ ސުވާލާ ކުރިމަތިލައެވެ.
 

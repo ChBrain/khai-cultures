@@ -26,7 +26,7 @@ Bikpela wara i ran longpela rot tru namel long not bilong bikpela ailan Niugini,
 
 ## Holds
 
-- [the first gardeners](plot_01_ol_namba_wan_gaden.md): bikpela wara we ol tumbuna i sanapim haus tambaran na kamapim bikpela art longpela taim bipo.
+- [ol namba wan gaden](plot_01_ol_namba_wan_gaden.md): bikpela wara we ol tumbuna i sanapim haus tambaran na kamapim bikpela art longpela taim bipo.
 
 ## Offers
 

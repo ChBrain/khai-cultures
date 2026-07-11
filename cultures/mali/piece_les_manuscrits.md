@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-Dans les coffres et les malles des vieilles familles de Tombouctou, de Djenne et des villes du fleuve: des feuillets de papier couverts d'une belle ecriture, relies de cuir, herites de pere en fils. Des dizaines de milliers de manuscrits, traites de droit et de foi, d'astronomie, de medecine, de grammaire, de poesie, de commerce et de correspondance. La memoire de papier du Sahel, rangee a cote de la memoire de bouche que garde le jeli.
+Dans les coffres et les malles des vieilles familles de Tombouctou, de Djenné et des villes du fleuve: des feuillets de papier couverts d'une belle écriture, reliés de cuir, hérités de père en fils. Des dizaines de milliers de manuscrits, traités de droit et de foi, d'astronomie, de médecine, de grammaire, de poésie, de commerce et de correspondance. La mémoire de papier du Sahel, rangée à côté de la mémoire de bouche que garde le jeli.
 
 ## Load Bearing
 
-Ils portent la preuve que le Sahel fut une terre de savants autant que de marchands et de guerriers: que l'on enseignait ici le droit et les etoiles quand Tombouctou etait un nom de bout du monde pour les etrangers. Dans un pays de parole, ils sont l'autre moitie de la memoire, celle qui se garde sur la page, et leur seul nombre dement quiconque croirait que l'Afrique n'a pas su l'ecrit. Sans eux, on prendrait la parole orale du Mali pour une absence de savoir, alors qu'elle a toujours marche aux cotes du livre.
+Ils portent la preuve que le Sahel fut une terre de savants autant que de marchands et de guerriers: que l'on enseignait ici le droit et les étoiles quand Tombouctou était un nom de bout du monde pour les étrangers. Dans un pays de parole, ils sont l'autre moitié de la mémoire, celle qui se garde sur la page, et leur seul nombre dément quiconque croirait que l'Afrique n'a pas su l'écrit. Sans eux, on prendrait la parole orale du Mali pour une absence de savoir, alors qu'elle a toujours marché aux côtés du livre.
 
 ## Apparent
 
-Des feuilles de papier vieillies, une encre brune, des lettres serrees, parfois une enluminure, le tout protege dans un etui de cuir: de simples vieux livres que l'humidite menace et que les ans jaunissent. Tout leur poids est dans ce qu'ils contiennent et dans les mains qui les ont copies, achetes, herites, caches et sauves de generation en generation.
+Des feuilles de papier vieillies, une encre brune, des lettres serrées, parfois une enluminure, le tout protégé dans un étui de cuir: de simples vieux livres que l'humidité menace et que les ans jaunissent. Tout leur poids est dans ce qu'ils contiennent et dans les mains qui les ont copiés, achetés, hérités, cachés et sauvés de génération en génération.
 
 ## Yearbook
 
-- Copies, achetes et herites du temps du Songhai et apres, entasses a Tombouctou plus precieux parfois que l'or.
-- Gardes de famille en famille dans les bibliotheques privees des villes du fleuve, transmis avec le soin que l'on doit a un tresor.
-- Caches et sauves plus d'une fois au fil des siecles, pour que la bibliotheque, comme dit le sage, ne brule pas.
+- Copiés, achetés et hérités du temps du Songhai et après, entassés à Tombouctou plus précieux parfois que l'or.
+- Gardés de famille en famille dans les bibliothèques privées des villes du fleuve, transmis avec le soin que l'on doit à un trésor.
+- Cachés et sauvés plus d'une fois au fil des siècles, pour que la bibliothèque, comme dit le sage, ne brûle pas.

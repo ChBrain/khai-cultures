@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-Linguiste centrafricain, l'homme qui a travaille a donner au sango une grammaire, une orthographe et un dictionnaire, pour qu'une langue jusque-la surtout parlee puisse aussi s'ecrire, s'enseigner et tenir tete au monde moderne. Patient, savant, fier de sa langue, il a fait du sango parle un sango ecrit, capable de dire l'ecole, la science et le droit. Le [francais](position_language_fr_cf.md), langue de ses etudes, il l'[a ecrit](process_writing_drafted.md) et [lu](process_reading_followed.md) au plus haut, dans les livres savants. Mais c'est au [sango](process_writing_mother_tongue.md) qu'il a voulu donner cette meme dignite de l'ecrit, lui qui le [parle](process_speaking_mother_tongue.md) et le [pense](process_thinking_mother_tongue.md) comme sa langue premiere. Car tant qu'une langue n'a pas ses lettres et ses regles, elle reste mal armee devant le monde; et l'oeuvre de toute une vie fut de combler ce creux entre une parole vivante dans toutes les bouches et une ecriture qui lui manquait encore. Il appartient a [zo kwe zo](position_culture_zo_kwe_zo.md) comme l'artisan qui donne a la parole commune les lettres capables de porter cette promesse plus loin et plus longtemps.
+Linguiste centrafricain, l'homme qui a travaillé à donner au sango une grammaire, une orthographe et un dictionnaire, pour qu'une langue jusque-là surtout parlée puisse aussi s'écrire, s'enseigner et tenir tête au monde moderne. Patient, savant, fier de sa langue, il a fait du sango parlé un sango écrit, capable de dire l'école, la science et le droit. Le [français](position_language_fr_cf.md), langue de ses études, il l'[a écrit](process_writing_drafted.md) et [lu](process_reading_followed.md) au plus haut, dans les livres savants. Mais c'est au [sango](process_writing_mother_tongue.md) qu'il a voulu donner cette même dignité de l'écrit, lui qui le [parle](process_speaking_mother_tongue.md) et le [pense](process_thinking_mother_tongue.md) comme sa langue première. Car tant qu'une langue n'a pas ses lettres et ses règles, elle reste mal armée devant le monde; et l'oeuvre de toute une vie fut de combler ce creux entre une parole vivante dans toutes les bouches et une écriture qui lui manquait encore. Il appartient à [zo kwe zo](position_culture_zo_kwe_zo.md) comme l'artisan qui donne à la parole commune les lettres capables de porter cette promesse plus loin et plus longtemps.
 
 ## Action
 
-Dans [la nation sango](plot_04_la_nation_sango.md) il donne au [sango](position_le_sango.md) son ecriture et ses regles, et fait de la langue commune une langue qui peut s'apprendre, s'imprimer et durer. En outillant le sango pour l'ecole et le livre, il prolonge le reve d'une seule parole et lui donne les moyens de tenir.
+Dans [la nation sango](plot_04_la_nation_sango.md) il donne au [sango](position_le_sango.md) son écriture et ses règles, et fait de la langue commune une langue qui peut s'apprendre, s'imprimer et durer. En outillant le sango pour l'école et le livre, il prolonge le rêve d'une seule parole et lui donne les moyens de tenir.
 
 ## Shadow
 
-Fixer une langue qui vivait libre dans mille bouches, c'est risquer de figer ce qui bougeait, de choisir une forme et d'en laisser d'autres au bord du chemin. La regle qui sert la langue peut aussi l'eloigner du parler du marche, et l'ecrit savant rester loin de la voix de tous les jours.
+Fixer une langue qui vivait libre dans mille bouches, c'est risquer de figer ce qui bougeait, de choisir une forme et d'en laisser d'autres au bord du chemin. La règle qui sert la langue peut aussi l'éloigner du parler du marché, et l'écrit savant rester loin de la voix de tous les jours.
 
 ## Tell
 
-Il tient qu'une langue n'est vraiment respectee que lorsqu'on peut l'ecrire sans la trahir, et que donner au sango ses lettres, c'est encore une facon de dire que celui qui le parle est une personne entiere.
+Il tient qu'une langue n'est vraiment respectée que lorsqu'on peut l'écrire sans la trahir, et que donner au sango ses lettres, c'est encore une façon de dire que celui qui le parle est une personne entière.

@@ -26,13 +26,13 @@ Nan ventyèm ak venteyinyèm syèk yo, nasyon an pote toujou chay listwa a, epi 
 
 ## Action
 
-Jodi a, Ayiti kanpe ant chay ak rezistans. Apre tranblemanntè a, pèp la rebati ak men l, kominote a rasanble, epi lavi a kontinye mache. Yon gwo dyaspora - nan Etazini, nan Kanada, nan Lafrans, nan tout Karayib la - voye fòs ak resous tounen, epi kenbe yon sèl kò ant peyi a ak pitit li yo lòt bò dlo. Atizay la, mizik la, ak penti a pote vizyon Ayiti bay mond lan, epi montre ke kreyasyon yon pèp pa janm kraze. [the peasant farmer](persona_abitan.md) kontinye travay tè a, epi tout nasyon an kenbe fyète l malgre tout sa ki tonbe.
+Jodi a, Ayiti kanpe ant chay ak rezistans. Apre tranblemanntè a, pèp la rebati ak men l, kominote a rasanble, epi lavi a kontinye mache. Yon gwo dyaspora - nan Etazini, nan Kanada, nan Lafrans, nan tout Karayib la - voye fòs ak resous tounen, epi kenbe yon sèl kò ant peyi a ak pitit li yo lòt bò dlo. Atizay la, mizik la, ak penti a pote vizyon Ayiti bay mond lan, epi montre ke kreyasyon yon pèp pa janm kraze. [abitan an](persona_abitan.md) kontinye travay tè a, epi tout nasyon an kenbe fyète l malgre tout sa ki tonbe.
 
 ## Stage
 
-- [the peasant farmer](persona_abitan.md): mas moun ki pale kreyòl la, ki kanpe dwat malgre tranblemanntè ak mizè.
-- [resilience and dignity](position_rezistans_ak_fyete.md): fòs pou simonte chay la san bese tèt, nan kominote ak nan solidarite.
-- [Port-au-Prince](place_potoprens.md): kapital ki simonte tranblemanntè a epi rebati tèt li ak men pèp la.
+- [abitan an](persona_abitan.md): mas moun ki pale kreyòl la, ki kanpe dwat malgre tranblemanntè ak mizè.
+- [rezistans ak fyète](position_rezistans_ak_fyete.md): fòs pou simonte chay la san bese tèt, nan kominote ak nan solidarite.
+- [Pòtoprens](place_potoprens.md): kapital ki simonte tranblemanntè a epi rebati tèt li ak men pèp la.
 
 ## Tension
 

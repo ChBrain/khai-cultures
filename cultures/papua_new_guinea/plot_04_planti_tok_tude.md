@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Bihain long independens, Papua Niugini i wok long sanap olsem wanpela kantri, na em i mas holim ol planti tok ples wantaim, na em i mas bekim ol nupela askim bilong taim bilong tude. Long ol Hailans, [the big-man](persona_bikman.md) i stap yet, na long Bougainville, askim i kamap olsem wanem hap inap bosim em yet.
+Bihain long independens, Papua Niugini i wok long sanap olsem wanpela kantri, na em i mas holim ol planti tok ples wantaim, na em i mas bekim ol nupela askim bilong taim bilong tude. Long ol Hailans, [bikman](persona_bikman.md) i stap yet, na long Bougainville, askim i kamap olsem wanem hap inap bosim em yet.
 
 ## Action
 
@@ -30,9 +30,9 @@ Tude, Tok Pisin i kamap strong olsem tok bilong olgeta lain, na em i holim ol pl
 
 ## Stage
 
-- [the big-man](persona_bikman.md): lida bilong ol Hailans i holim pasin bilong wantok na kastom long taim bilong tude.
-- [the Highlands](place_ol_hailans.md): ol bikpela ples i pulap long manmeri na long sing-sing.
-- [a thousand tongues, one country](position_language_tpi.md): Tok Pisin i holim ol planti tok ples wantaim olsem wanpela kantri.
+- [bikman](persona_bikman.md): lida bilong ol Hailans i holim pasin bilong wantok na kastom long taim bilong tude.
+- [ol Hailans](place_ol_hailans.md): ol bikpela ples i pulap long manmeri na long sing-sing.
+- [Tok Pisin](position_language_tpi.md): Tok Pisin i holim ol planti tok ples wantaim olsem wanpela kantri.
 
 ## Tension
 

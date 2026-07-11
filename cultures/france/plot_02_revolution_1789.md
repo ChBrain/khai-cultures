@@ -22,17 +22,17 @@ stamp:
 
 ## Cue
 
-A [Paris](place_paris.md), la monarchie absolue heritee de Versailles est a bout de souffle, ecrasee de dettes et d'inegalites. Le peuple a faim, et les idees des Lumieres demandent des comptes au pouvoir.
+À [Paris](place_paris.md), la monarchie absolue héritée de Versailles est à bout de souffle, écrasée de dettes et d'inégalités. Le peuple a faim, et les idées des Lumières demandent des comptes au pouvoir.
 
 ## Action
 
-Le 14 juillet, le peuple prend la Bastille, et l'Assemblee proclame la Declaration des droits de l'homme et du citoyen. La souverainete passe du roi a la nation, et de la liberte, de l'egalite et de la fraternite nait [la Republique](position_la_republique.md), fondee non sur le sang ni sur le droit divin mais sur des principes universels.
+Le 14 juillet, le peuple prend la Bastille, et l'Assemblée proclame la Déclaration des droits de l'homme et du citoyen. La souveraineté passe du roi à la nation, et de la liberté, de l'égalité et de la fraternité naît [la République](position_la_republique.md), fondée non sur le sang ni sur le droit divin mais sur des principes universels.
 
 ## Stage
 
-- [Paris](place_paris.md): la capitale ou tombe la Bastille et ou se proclament les droits de l'homme.
-- [la Republique](position_la_republique.md): l'ordre nouveau, fonde sur la liberte, l'egalite et la fraternite.
+- [Paris](place_paris.md): la capitale où tombe la Bastille et où se proclament les droits de l'homme.
+- [la République](position_la_republique.md): l'ordre nouveau, fondé sur la liberté, l'égalité et la fraternité.
 
 ## Tension
 
-La Republique nait dans l'enthousiasme des principes, mais aussi dans la violence et la division. Reste a savoir si une nation peut vraiment se fonder sur une idee, et tenir pour tous, dans la duree, la promesse universelle qu'elle vient de proclamer.
+La République naît dans l'enthousiasme des principes, mais aussi dans la violence et la division. Reste à savoir si une nation peut vraiment se fonder sur une idée, et tenir pour tous, dans la durée, la promesse universelle qu'elle vient de proclamer.

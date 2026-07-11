@@ -31,8 +31,8 @@ Pandan trèz lane, soti 1791 rive 1804, yon pèp anchene leve epi li goumen pou 
 ## Stage
 
 - [Toussaint Louverture](persona_toussaint.md): estratèj ki montre yon pèp anchene chimen pou l fè tèt li yon nasyon lib.
-- [the Citadelle](place_sitadel_laferye.md): gwo fò pèp lib la bati apre viktwa a pou defann libète li te pran an.
-- [the first Black republic](position_premye_repiblik_nwa.md): pwopozisyon ke yon pèp ki libere tèt li ka kanpe dwat tankou yon nasyon.
+- [Sitadèl Laferyè](place_sitadel_laferye.md): gwo fò pèp lib la bati apre viktwa a pou defann libète li te pran an.
+- [premye repiblik nwa a](position_premye_repiblik_nwa.md): pwopozisyon ke yon pèp ki libere tèt li ka kanpe dwat tankou yon nasyon.
 
 ## Tension
 

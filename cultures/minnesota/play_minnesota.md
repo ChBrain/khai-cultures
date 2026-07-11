@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Minnesota, the Star of the North in the West North Central region of the United States. ISO US-MN, language en.
+Minnesota, the Star of the North, set into the West North Central corner of the country where the Mississippi is still narrow enough to wade. ISO US-MN, language en, and a wave from a passing truck that lasts a beat longer than it has to.
 
 ## Arc
 
-A land of wilderness waters and technical innovation, defined by the headwaters of the Mississippi River. From the discovery of iron ore in the Mesabi Range and the federal protection of the Boundary Waters canoe wilderness, to the global musical impact of the Minneapolis sound. A culture that balances the progressive social cooperation of its Twin Cities with the winter endurance of its Northwoods communities, even as it manages agricultural fertilizer runoff in the Minnesota River Basin.
+Ten thousand lakes and change, fed by a Mississippi that starts here as barely a creek, in a state that has always treated the cold as training rather than punishment. Iron came up out of the Mesabi Range by the trainload and helped build half the nation's skylines before the richest ore ran thin; the Boundary Waters got fenced off from logging and mining by federal law rather than left to go the way of other wild country; and out of the Twin Cities came a sound - Prince's sound - that nobody else on earth could have made. The same state that runs its civic life on cooperation and consensus lets its Northwoods towns prove themselves fresh every winter, and still has to answer, every planting season, for what its own farms send downstream into the Minnesota River.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of wilderness waters and technical innovation, defined by the headwaters 
 
 **[Plot 1: The Iron Range Boom 1890](plot_01_iron_range.md)**
 
-Prospectors discover massive iron ore deposits in the Mesabi Range, drawing thousands of immigrants and supplying raw materials to national steel mills.
+Prospectors strike ore-thick earth across the Mesabi Range, and the Iron Range fills almost overnight with Finns, Slovenians, Italians, and Scandinavians who come to dig it out and ship it down the Lakes to feed the nation's steel mills.
 
 **[Plot 2: The Boundary Waters Protection 1978](plot_02_boundary_waters.md)**
 
-Congress passes the Boundary Waters Canoe Area Wilderness Act, banning logging and mining exploration to protect the pristine northern lakes.
+Congress draws a hard line around the Boundary Waters, closing the door on logging and mining exploration for good, and makes a federal promise that some lakes up north get to stay exactly as quiet as a paddle dipping into still water.
 
 **[Plot 3: The Minneapolis Sound 1980](plot_03_minneapolis_sound.md)**
 
-Prince and regional artists develop a unique fusion of funk, rock, and synth-pop, establishing the Twin Cities as a recording center.
+Prince and a cluster of Twin Cities artists fuse funk, rock, and synth-pop into something with nobody else's fingerprints on it, and turn Minneapolis, of all unlikely places, into somewhere records get made.
 
 ## Stakes
 
-Whether an agricultural state with intensive crop farming can successfully implement runoff plans to reduce fertilizer pollution in the Minnesota River Basin.
+Whether a state that farms this hard can ever wring the fertilizer out of its own runoff before the lakes it's famous for start paying the price for the fields that feed it.

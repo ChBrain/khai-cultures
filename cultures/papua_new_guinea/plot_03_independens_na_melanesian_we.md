@@ -33,7 +33,7 @@ Long 16 Septemba 1975, Papua Niugini i kisim independens, na [John Guise](person
 - [Michael Somare](persona_somare.md): namba wan Praim Minista i holim ol planti lain wantaim long wanpela kantri.
 - [Bernard Narokobi](persona_narokobi.md): man i kamapim tingting bilong Melanesian We na helpim wokim konstitusen.
 - [John Guise](persona_guise.md): namba wan Gavna Jeneral i holim aut nem bilong nupela kantri.
-- [the Melanesian Way](position_melanesian_we.md): rot we nupela kantri i bihainim, em i bihainim pasin bilong tumbuna.
+- [Melanesian We](position_melanesian_we.md): rot we nupela kantri i bihainim, em i bihainim pasin bilong tumbuna.
 
 ## Tension
 

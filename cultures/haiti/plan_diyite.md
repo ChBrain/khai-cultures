@@ -27,7 +27,7 @@ Tounen glwa fondasyon an an devlopman - fè fyète libète a vin yon fòs ki bat
 
 ## Orders
 
-- Bay [the peasant farmer](persona_abitan.md): kontinye travay tè a epi sèvi nanm nasyon an, men egzije ke lang ou ak lafwa ou jwenn plas yo nan lekòl ak nan papye peyi a.
+- Bay [abitan an](persona_abitan.md): kontinye travay tè a epi sèvi nanm nasyon an, men egzije ke lang ou ak lafwa ou jwenn plas yo nan lekòl ak nan papye peyi a.
 - Bay yon vwa tankou [Jacques Roumain](persona_jacques_roumain.md): pote kilti mas la nan limyè, montre mond lan bote ak fòs nanm ayisyen an, epi kenbe solidarite a vivan.
 - Bay nasyon an: tounen fyète fondasyon an an diyite ak devlopman, kenbe peyi a ak dyaspora l ansanm, epi pa janm bese tèt devan chay listwa a.
 

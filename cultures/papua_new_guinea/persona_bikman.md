@@ -27,7 +27,7 @@ Em i lida bilong ol Hailans, tasol em i no kisim namba long papa bilong en o lon
 
 ## Action
 
-Long [a thousand tongues today](plot_04_planti_tok_tude.md) em i sanap olsem lida bilong ples i bihainim [wantok na kastom](position_wantok_na_kastom.md), na em i holim ol manmeri bilong ples wantaim long pasin bilong givim na long toktok. Long holim pasin bilong tumbuna long taim bilong tude, em i mekim olsem kastom i stap yet strong taim ol nupela samting i kamap.
+Long [planti tok tude](plot_04_planti_tok_tude.md) em i sanap olsem lida bilong ples i bihainim [wantok na kastom](position_wantok_na_kastom.md), na em i holim ol manmeri bilong ples wantaim long pasin bilong givim na long toktok. Long holim pasin bilong tumbuna long taim bilong tude, em i mekim olsem kastom i stap yet strong taim ol nupela samting i kamap.
 
 ## Shadow
 

@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[the navigators and the sea](position_ri_jerakrok_im_lojet.md)
+[ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Kora eo elap an bwij eo, lerooj eo, eo me ej dapij bwij eo im ej kotak ioon kora
 
 ## Action
 
-Ilo [ri-jerakrok](plot_01_ri_jerakrok.md) ej dapij bwij eo im ej kotak ioon kora, im ej kotak [the navigators and the sea](position_ri_jerakrok_im_lojet.md) einwot eo me ej dapij jukjuk in pad eo im ememej eo an aelon eo. Ej dapij manit eo etto im ej letok e nan epepen ko rej itok.
+Ilo [ri-jerakrok](plot_01_ri_jerakrok.md) ej dapij bwij eo im ej kotak ioon kora, im ej kotak [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md) einwot eo me ej dapij jukjuk in pad eo im ememej eo an aelon eo. Ej dapij manit eo etto im ej letok e nan epepen ko rej itok.
 
 ## Shadow
 

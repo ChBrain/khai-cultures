@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Vermont](play_vermont.md). It tunes the thoughtful, polite, and mechanical expression of life in the Green Mountain State.
+The pitch of [Vermont](play_vermont.md). It tunes the flinty, wry, and stubbornly independent expression of life in the Green Mountain State.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [Vermont](play_vermont.md). It tunes the thoughtful, polite, and me
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining maple sugar boiling vocabulary with ice cream churning and town meeting debate terms. It is a voice of forests and halls - prioritizing watershed protection plans, cleanroom spectrometer tests, and historic schoolhouse preservation. This formal language shapes both the farming cooperatives and the town boards, valuing family labor and technical competence.
+Not bad is about as high as the praise runs, even for a maple year that came in perfect - Vermont says less than it means and trusts you to do the arithmetic. Talk moves between a boiling-room vocabulary of density and draw-off, the churning language of the creamery, and the parliamentary hum of a town meeting warned and voted from the floor. It weighs a watershed plan and a syrup-grading inspection with the same unhurried patience it gives a one-room schoolhouse's upkeep. Family labor outranks a title, and a newcomer earns his hearing by showing up to shovel.
 
 ## Undertow
 
-Under the hospitality lies a persistent geographic polarization between the rapidly expanding municipal corridors and the resource-dependent farm lands. This resource divide breeds debates over deep-well irrigation pumping and watershed regulations, where state-led developmental projects are met with local protective instincts for traditional farm properties.
+Under the neighborly hospitality runs a split between the fast money pouring into ski towns and lakeside second homes and the thinning economics of the family dairy farm working the back roads between them. It surfaces as fights over land-use review, over well water and manure lagoons upstream of the lake, and over whether a subdivision gets a green light from a town that would rather nothing changed at all.
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local town and agricultural boards are the true anchors of a stable society.
+It plays the old Yankee chord: a person is judged by what he does, not who he is, and the town meeting - not the state house - decides what matters here.
 
 ## Echo
 
-The drip of maple sap and the clink of a milk glass : an echo that is clear, wet, and mechanical.
+The tick of sap into a bucket at first thaw and the clank of a barn door in the freeze that follows it: a sound patient, wet, and answerable only to the weather's own clock.

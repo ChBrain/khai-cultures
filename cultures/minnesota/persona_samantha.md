@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A thirty-six-year-old medical device engineer in Minneapolis. English, spoken with an articulate, fast-paced cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her technical briefs. It is the [Minnesotan English](position_language_en_us_mn.md) of the Minneapolis cleanroom, the articulate, fast-paced cadence of the medical-alley floor. She speaks no foreign languages. Yet the loss lies in the seam: The slower, nature-dependent forest talk of wilderness guides like Lars and the traditional water histories of the northern reserves [she hears only like a distant echo](process_hearing_followed.md), feeling that the physical legacy of the land is treated as a secondary constraint in the race for technological medical breakthroughs. She belongs to [the Star of the North](position_culture_star_of_the_north.md) as the cooperative civic pride that carries Minnesota nice into the cleanroom.
+Thirty-six, and she talks the way she works: fast, precise, no wasted motion. English is the only language she needs, the one she [speaks and writes into every technical brief before lunch](process_speaking_mother_tongue.md), and it's the same [Minnesotan English](position_language_en_us_mn.md) as Lars's, just clipped down to the quick, exacting cadence of the medical-alley floor instead of stretched out over a portage. It's not that she doesn't respect the north. It's that the slower, season-bound talk of wilderness guides and the old water histories of the northern lakes [reach her more as background hum than as information she can act on](process_hearing_followed.md) - a legacy she assumes gets looked after regardless of whether the next pacemaker ships on time. She belongs to [the Star of the North](position_culture_star_of_the_north.md) the same way Minnesota nice belongs in a cleanroom: cooperative, civic-minded, and pretty sure the polite thing and the productive thing are usually the same thing.
 
 ## Action
 
-She manages cleanroom plans, utilizes data under [the Minnesota River plan](plan_minnesota_river_agricultural_runoff.md), and studies [northwoods resilience](position_northwoods_resilience.md).
+She runs the cleanroom schedule down to the minute, folds real-time data into [the Minnesota River plan](plan_minnesota_river_agricultural_runoff.md) whenever it's asked of her, and keeps half an eye on [northwoods resilience](position_northwoods_resilience.md) even though the nearest lake is a highway drive away.
 
 ## Shadow
 
-Her focus on venture capital metrics and medical-tech expansion can make her indifferent to the water-rights concerns of agricultural communities in the southern valleys.
+Her eye is so fixed on funding rounds and the next product line that she can wave off the water-rights fights the farming towns down in the river valleys are having, as somebody else's meeting, not really hers to sit in on.
 
 ## Tell
 
-She looks at a cleanroom monitor and says directly: "We are building scalable pacing software to regulate heart rhythms; you can't optimize regional healthcare delivery if you're stuck in 20th-century manual designs."
+She glances up from a cleanroom monitor and says it plainly, no apology in it: "This software is going to regulate heart rhythms for people who'll never meet me. You don't fix rural health care by portaging in supplies - you fix it with something that scales."

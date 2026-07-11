@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Klemerang olsem yu no ol manmeri i stap wanpela tasol, yu ol lain wantaim, na dispela lain i wokim yu bipo yu save wokim yu yet. Kantri i holim [wantok na kastom](position_wantok_na_kastom.md), pasin bilong givim na kisim na pasin bilong sing-sing na mumu i kam daun long ol tumbuna; na i holim [the Melanesian Way](position_melanesian_we.md), tingting olsem nupela kantri i mas sanap long rot bilong em yet, i no long rot bilong narapela ples. Manmeri i toktok long [Tok Pisin](position_language_tpi.md) taim ol i laik bung wantaim, tasol tok ples bilong ples bilong ol yet i holim tingting bilong tumbuna i dip moa. Ol i kisim, taim ol i no bin makim, pasin bilong sindaun long lain, pasin bilong bikman i kisim nem long givim, na graun i bilong lain, i no bilong wanpela man.
+Klemerang olsem yu no ol manmeri i stap wanpela tasol, yu ol lain wantaim, na dispela lain i wokim yu bipo yu save wokim yu yet. Kantri i holim [wantok na kastom](position_wantok_na_kastom.md), pasin bilong givim na kisim na pasin bilong sing-sing na mumu i kam daun long ol tumbuna; na i holim [Melanesian We](position_melanesian_we.md), tingting olsem nupela kantri i mas sanap long rot bilong em yet, i no long rot bilong narapela ples. Manmeri i toktok long [Tok Pisin](position_language_tpi.md) taim ol i laik bung wantaim, tasol tok ples bilong ples bilong ol yet i holim tingting bilong tumbuna i dip moa. Ol i kisim, taim ol i no bin makim, pasin bilong sindaun long lain, pasin bilong bikman i kisim nem long givim, na graun i bilong lain, i no bilong wanpela man.
 
 ## Orders
 

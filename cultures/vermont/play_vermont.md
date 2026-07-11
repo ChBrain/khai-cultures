@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Vermont, the Green Mountain State in the New England region of the United States. ISO US-VT, language en.
+Vermont, the Green Mountain State, in New England's hill country. ISO US-VT, language en. Its own republic once, fourteen years, before it joined the Union.
 
 ## Arc
 
-A land of mountain liberty and artisanal craft, defined by the forested ridges of the Green Mountains. From the historic defense of land grants by the Green Mountain Boys and the early quality regulations of the Maple Sugar Standard, to the socially responsible business launch of Ben & Jerry's. A culture that balances the maple craftsmanship of its sugarhouses with the independent debate of its town meetings, even as it plans the protection of the Lake Champlain watershed.
+Vermont ran itself as an independent republic for fourteen years before it joined the Union. Ethan Allen's Green Mountain Boys made that independence stick against New York's land claims in the 1770s, and the state has settled its business at town meeting ever since, every March, by a show of hands. That patience got poured into a living too: an 1893 grading standard a batch of syrup still answers to, and a century on, two Burlington men who proved a business could keep faith with its town and still turn a profit. The mountains set the terms still - the same floor now argues what Lake Champlain's water can carry.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of mountain liberty and artisanal craft, defined by the forested ridges o
 
 **[Plot 1: The Green Mountain Boys 1770](plot_01_green_mountain_boys.md)**
 
-Local militias resist New York land claims, establishing the independent Vermont Republic.
+Ethan Allen's local militia turns back New York's land claims and stands up the independent Republic of Vermont on its own say-so.
 
 **[Plot 2: The Maple Sugar Industry Standard 1893](plot_02_maple_sugar.md)**
 
-State inspectors establish grading standards for maple sugar and syrup, securing regional craft reputation.
+State inspectors set the grading standard a batch of maple sugar and syrup answers to, securing the craft's reputation on the record.
 
 **[Plot 3: The Ben & Jerry's Launch 1978](plot_03_ice_cream.md)**
 
-Founders open their first ice cream parlor in Burlington, pioneering a socially responsible business model.
+Two Burlington founders open an ice cream parlor and prove a business can keep faith with its town and still turn a profit.
 
 ## Stakes
 
-Whether a rural dairy and tourism state experiencing agricultural runoff can successfully execute watershed plans to restore Lake Champlain.
+Whether a state that settles everything town by town can act at lake scale and save Lake Champlain from its own dairy runoff.

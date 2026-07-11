@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-A thirty-eight-year-old mine historian in Butte. English, spoken with a mountain cadence, is his mother tongue, the language in which he [speaks, hears, and thinks](process_speaking_mother_tongue.md), the defining code of his daily mechanical checks. It is the [Montanan English](position_language_en_us_mt.md) of Butte, the mountain cadence of the deep-shaft mine. He speaks no foreign languages. Yet the loss lies in the seam: The slower, tradition-bound talk of tribal coordinators like Cheyenne and the quiet history of [montana wilderness](position_montana_wilderness.md) [he reads only as regional park updates](process_reading_followed.md) on his workstation, feeling that the patient, self-reliant resource preservation of early forest communities is being forgotten in the race for high-volume copper production. He belongs to [the Treasure State](position_culture_treasure_state.md) as the mine historian who keeps its underground labor story from being buried a second time.
+He's thirty-eight, a mine historian in Butte, and he figures Butte's already told most of its own story if a person just listens to it right. Mountain-cadence English is what he was raised on, the tongue he [speaks, hears, and thinks](process_speaking_mother_tongue.md) in, the same one that runs his mechanical checks shift after shift. It's [Montanan English](position_language_en_us_mt.md) the way Butte talks it - flattened vowels, a union man's plainness, no word wasted. He carries no other language, and not a lot of patience either for what he can't put a number to. The slower, treaty-bound talk of tribal coordinators like Cheyenne, and the long memory of [montana wilderness](position_montana_wilderness.md), reach him filtered down to [line items on a park report](process_reading_followed.md), and he half-believes the old patient way of minding a forest is getting crowded out by everybody's hurry to move more copper faster. Still, he belongs to [the Treasure State](position_culture_treasure_state.md) the way any Butte man does - standing watch so the underground labor story doesn't get buried a second time.
 
 ## Action
 
-He preserves [copper ore](piece_copper_ore.md) specimens, coordinates mine safety checks under [the Clark Fork plan](plan_clark_fork_river_restoration.md), and studies [copper mining](position_copper_mining.md).
+He keeps [copper ore](piece_copper_ore.md) specimens catalogued, runs mine safety checks under [the Clark Fork plan](plan_clark_fork_river_restoration.md), and has spent half his life reading up on [copper mining](position_copper_mining.md).
 
 ## Shadow
 
-His intense focus on mining metrics and industrial union archives can make him indifferent to municipal park zoning problems in northern wilderness counties.
+Ask him about mining tonnage and union ledgers and he'll talk your ear off; bring up a zoning fight in the wilderness counties up north and he'll shrug like it's somebody else's county.
 
 ## Tell
 
-He adjusts a telemetry sensor on an old hoist gear and says directly: "We are calibrating deep-shaft mine ventilation systems; you can't run a profitable mining tour if you're only focused on alpine park preservation."
+He runs a rag over an old hoist gear, checks the telemetry sensor, and says it plain: "We're calibrating ventilation on a deep shaft here. Can't run a mine tour worth a damn if all anybody upstairs cares about is how the park photographs."

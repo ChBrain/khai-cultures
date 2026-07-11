@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[the atolls and the Compact](position_aelon_kein_ad_im_compact.md)
+[aelon kein ad im compact](position_aelon_kein_ad_im_compact.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Iroij eo elap im president eo kein kajuon an aelon eo, eo me ear tol ri-Majol je
 
 ## Action
 
-Ilo [republic im compact](plot_03_republic_im_compact.md) ej tol aelon eo nan an erom juon republic eo ej make jutak, im ej kommane Compact eo, im ej bukot jowan kon baam ko. Ej dapij [the atolls and the Compact](position_aelon_kein_ad_im_compact.md) ilo an dapij make jutak eo an aelon eo im barainwot bok jiban jen United States, im ilo an likut ainikien eo an aelon eo ilo lal in.
+Ilo [republic im compact](plot_03_republic_im_compact.md) ej tol aelon eo nan an erom juon republic eo ej make jutak, im ej kommane Compact eo, im ej bukot jowan kon baam ko. Ej dapij [aelon kein ad im compact](position_aelon_kein_ad_im_compact.md) ilo an dapij make jutak eo an aelon eo im barainwot bok jiban jen United States, im ilo an likut ainikien eo an aelon eo ilo lal in.
 
 ## Shadow
 

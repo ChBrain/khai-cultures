@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-L'idee que le Cameroun, dans un seul pays, contient tout le continent: la foret equatoriale et la savane, la haute montagne et la plaine, la cote de l'Atlantique et le sable du Sahel la-haut. Et avec les paysages, les peuples, le Bamileke du commerce et de la terre, le Beti du centre, le Bamoun de Foumban, le Foulbe du grand Nord, le Sawa du bord de l'eau, et les freres anglophones du Nord-Ouest et du Sud-Ouest, tous tenus a egale dignite. Plus de deux cents langues, deux langues officielles, toutes les religions du continent, et la conviction que cette diversite n'est pas un accident mais le visage meme du pays.
+L'idée que le Cameroun, dans un seul pays, contient tout le continent: la forêt équatoriale et la savane, la haute montagne et la plaine, la côte de l'Atlantique et le sable du Sahel là-haut. Et avec les paysages, les peuples, le Bamileke du commerce et de la terre, le Beti du centre, le Bamoun de Foumban, le Foulbe du grand Nord, le Sawa du bord de l'eau, et les frères anglophones du Nord-Ouest et du Sud-Ouest, tous tenus à égale dignité. Plus de deux cents langues, deux langues officielles, toutes les religions du continent, et la conviction que cette diversité n'est pas un accident mais le visage même du pays.
 
 ## Orders
 
-Que le Cameroun se comprenne comme un condense du continent, fier de porter en lui tous ses visages; que chaque peuple, chaque region, chaque langue garde sa place sans qu'aucune n'ecrase les autres; et que la difference soit vecue comme une richesse a partager, le ndole de l'un dans la marmite de l'autre, la makossa de la cote dansee au Nord, plutot que comme une frontiere a dresser entre les freres.
+Que le Cameroun se comprenne comme un condensé du continent, fier de porter en lui tous ses visages; que chaque peuple, chaque région, chaque langue garde sa place sans qu'aucune n'écrase les autres; et que la différence soit vécue comme une richesse à partager, le ndolé de l'un dans la marmite de l'autre, la makossa de la côte dansée au Nord, plutôt que comme une frontière à dresser entre les frères.
 
 ## Loses
 
-Du terrain quand la difference se durcit en cloison, quand le Nord et le Sud, les francophones et les anglophones, se regardent comme etrangers au lieu de se reconnaitre comme un seul pays; et du terrain aussi quand la richesse des cent visages sert a diviser plutot qu'a rassembler, et qu'on oublie que ce qui fait l'Afrique en miniature, c'est justement de tenir tout cela ensemble.
+Du terrain quand la différence se durcit en cloison, quand le Nord et le Sud, les francophones et les anglophones, se regardent comme étrangers au lieu de se reconnaître comme un seul pays; et du terrain aussi quand la richesse des cent visages sert à diviser plutôt qu'à rassembler, et qu'on oublie que ce qui fait l'Afrique en miniature, c'est justement de tenir tout cela ensemble.
 
 ## Drives
 
-Elle vit dans la danse de joie qui a fait lever tout un continent et a montre que ce petit pays porte l'Afrique entiere, et sur l'etal du marche, ou se realise chaque jour le melange de tous les peuples et de toutes les langues du pays. Elle pousse le Cameroun a se tenir debout comme un seul pays aux cent visages, fier de sa diversite et bien decide a ne pas la laisser se fendre.
+Elle vit dans la danse de joie qui a fait lever tout un continent et a montré que ce petit pays porte l'Afrique entière, et sur l'étal du marché, où se réalise chaque jour le mélange de tous les peuples et de toutes les langues du pays. Elle pousse le Cameroun à se tenir debout comme un seul pays aux cent visages, fier de sa diversité et bien décidé à ne pas la laisser se fendre.

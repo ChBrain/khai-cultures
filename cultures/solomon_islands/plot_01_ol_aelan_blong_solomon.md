@@ -31,7 +31,7 @@ Longfala taem olketa Melanesian pipol stap long olketa aelan, wakem laef from so
 ## Stage
 
 - [man blong seleni](persona_man_blong_seleni.md): solwata man wea wakem seleni blong sel, holem olfala save blong solwata pipol.
-- [Langa Langa Lagoon](place_langa_langa.md): lagun blong solwata pipol an blong seleni blong sel, ples wea solwata an bus joinim long tred.
+- [Langa Langa](place_langa_langa.md): lagun blong solwata pipol an blong seleni blong sel, ples wea solwata an bus joinim long tred.
 - [solwata na bus](position_solwata_na_bus.md): disfala divaid bitwin solwata pipol an bus pipol wea seleni blong sel joinim.
 
 ## Tension

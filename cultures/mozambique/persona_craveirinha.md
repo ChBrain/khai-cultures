@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[a nacao dos poetas](position_a_nacao_dos_poetas.md)
+[a nação dos poetas](position_a_nacao_dos_poetas.md)
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-O homem de Lourenco Marques que pegou na lingua dos outros e a fez dizer o nome da sua terra, primeiro poeta maior de Mocambique, voz grossa e doce que poe o ronga dentro do portugues como quem poe sal dentro da agua. Filho de pai portugues e mae ronga, traz no sangue a propria mistura do pais, e dela faz canto. Apaixonado, terno e teimoso, escreve para que um povo se reconheca, e diz "eu sou carvao" como quem se faz inteiro de uma so palavra. [O portugues](position_language_pt_mz.md), [pensa-o](process_thinking_mother_tongue.md) e [escreve-o](process_writing_mother_tongue.md) com tal forca que o reinventa, metendo-lhe dentro o ritmo dos tambores e os nomes da sua gente. O ronga da mae [carrega-o na boca](process_speaking_carried.md) e [ouve-o como casa](process_hearing_mother_tongue.md), e dele tira as palavras que o portugues nao tinha, e que ele [pediu emprestadas](process_speaking_borrowed.md) para fazer caber a terra inteira no verso. Escreveu a sua nacao na lingua que veio de fora e so ficou inteira quando a encheu da lingua de casa, e por isso o verso vive sempre nessa fenda onde uma lingua acaba e a outra comeca a dizer o que a primeira nao sabia. Pertence a [os muitos povos](position_culture_os_muitos_povos.md) como o filho de pai portugues e mae ronga que fez da propria mistura a prova de que ser de um povo e ser mocambicano cabem no mesmo verso.
+O homem de Lourenço Marques que pegou na língua dos outros e a fez dizer o nome da sua terra, primeiro poeta maior de Moçambique, voz grossa e doce que põe o ronga dentro do português como quem põe sal dentro da água. Filho de pai português e mãe ronga, traz no sangue a própria mistura do país, e dela faz canto. Apaixonado, terno e teimoso, escreve para que um povo se reconheça, e diz "eu sou carvão" como quem se faz inteiro de uma só palavra. [O português](position_language_pt_mz.md), [pensa-o](process_thinking_mother_tongue.md) e [escreve-o](process_writing_mother_tongue.md) com tal força que o reinventa, metendo-lhe dentro o ritmo dos tambores e os nomes da sua gente. O ronga da mãe [carrega-o na boca](process_speaking_carried.md) e [ouve-o como casa](process_hearing_mother_tongue.md), e dele tira as palavras que o português não tinha, e que ele [pediu emprestadas](process_speaking_borrowed.md) para fazer caber a terra inteira no verso. Escreveu a sua nação na língua que veio de fora e só ficou inteira quando a encheu da língua de casa, e por isso o verso vive sempre nessa fenda onde uma língua acaba e a outra começa a dizer o que a primeira não sabia. Pertence a [os muitos povos](position_culture_os_muitos_povos.md) como o filho de pai português e mãe ronga que fez da própria mistura a prova de que ser de um povo e ser moçambicano cabem no mesmo verso.
 
 ## Action
 
-Em [a nacao da palavra](plot_03_a_palavra.md) ergue [a nacao dos poetas](position_a_nacao_dos_poetas.md), fazendo do poema o lugar onde a terra se diz e se reconhece antes de qualquer outra coisa. Ao por o nome de Mocambique no portugues e o portugues ao servico de Mocambique, da ao pais a sua voz e a prova de que aqui a palavra vem primeiro.
+Em [a nação da palavra](plot_03_a_palavra.md) ergue [a nação dos poetas](position_a_nacao_dos_poetas.md), fazendo do poema o lugar onde a terra se diz e se reconhece antes de qualquer outra coisa. Ao pôr o nome de Moçambique no português e o português ao serviço de Moçambique, dá ao país a sua voz e a prova de que aqui a palavra vem primeiro.
 
 ## Shadow
 
-A lingua que lhe deu o canto foi tambem a que veio de fora, e ha sempre o risco de que o povo se reconheca melhor numa lingua emprestada do que nas suas proprias, deixando o ronga e o makhuwa do lado de fora do livro. O poeta que juntou as duas linguas carrega a ferida de que uma teve de vencer para o pais se ouvir a si mesmo.
+A língua que lhe deu o canto foi também a que veio de fora, e há sempre o risco de que o povo se reconheça melhor numa língua emprestada do que nas suas próprias, deixando o ronga e o makhuwa do lado de fora do livro. O poeta que juntou as duas línguas carrega a ferida de que uma teve de vencer para o país se ouvir a si mesmo.
 
 ## Tell
 
-Diz "eu sou carvao" na lingua do outro e faz dela a sua, e poe mais verdade da terra num verso curto do que cabe em qualquer cronica.
+Diz "eu sou carvão" na língua do outro e faz dela a sua, e põe mais verdade da terra num verso curto do que cabe em qualquer crónica.

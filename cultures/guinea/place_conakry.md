@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-La capitale au bord de l'Atlantique, etiree sur sa longue presqu'ile de Kaloum face aux iles de Loos, ville soussou de marche et de mer ou se croisent tous les peuples du pays. Le port d'ou part la bauxite, les marches qui ne dorment jamais, les taxis et les klaxons, la chaleur moite et le vent du large; et la, parmi le tumulte, le palais d'ou la republique fut proclamee et les studios d'ou le son national est parti pour le monde. Le coeur battant, bruyant et vivant de la Guinee.
+La capitale au bord de l'Atlantique, étirée sur sa longue presqu'île de Kaloum face aux îles de Loos, ville soussou de marché et de mer où se croisent tous les peuples du pays. Le port d'où part la bauxite, les marchés qui ne dorment jamais, les taxis et les klaxons, la chaleur moite et le vent du large; et là, parmi le tumulte, le palais d'où la république fut proclamée et les studios d'où le son national est parti pour le monde. Le coeur battant, bruyant et vivant de la Guinée.
 
 ## Holds
 
-- [le non de 1958](plot_03_le_non_de_1958.md): la capitale d'ou part le non a la Communaute et ou nait, le 2 octobre 1958, la republique souveraine.
-- [le son de la Guinee](plot_04_le_son_de_la_guinee.md): le foyer des orchestres nationaux d'ou le son guineen rayonne vers le monde.
+- [le non de 1958](plot_03_le_non_de_1958.md): la capitale d'où part le non à la Communauté et où naît, le 2 octobre 1958, la république souveraine.
+- [le son de la Guinée](plot_04_le_son_de_la_guinee.md): le foyer des orchestres nationaux d'où le son guinéen rayonne vers le monde.
 
 ## Offers
 
-Un lieu ou le pays se gouverne, commerce et se donne a entendre: la presqu'ile ou la republique a vu le jour, le port qui ouvre la terre enclavee sur le monde, le marche ou tous les peuples de Guinee se melent, et la scene d'ou la musique du pays est partie conquerir la terre. La ville qui rassemble en un seul tumulte le Fouta, le Mande et la cote.
+Un lieu où le pays se gouverne, commerce et se donne à entendre: la presqu'île où la république a vu le jour, le port qui ouvre la terre enclavée sur le monde, le marché où tous les peuples de Guinée se mêlent, et la scène d'où la musique du pays est partie conquérir la terre. La ville qui rassemble en un seul tumulte le Fouta, le Mandé et la côte.
 
 ## Withheld
 
-La douceur que sa vie promet. Conakry porte aussi le poids du pays: la presqu'ile qui deborde, le courant qui manque dans la nuit chaude, et le port d'ou la richesse s'en va sans toujours revenir au village. Elle rappelle que la fortune du sol et la fierte du non ne se changent pas d'elles-memes en pain, et que le chemin du chateau d'eau a la table pleine reste a faire.
+La douceur que sa vie promet. Conakry porte aussi le poids du pays: la presqu'île qui déborde, le courant qui manque dans la nuit chaude, et le port d'où la richesse s'en va sans toujours revenir au village. Elle rappelle que la fortune du sol et la fierté du non ne se changent pas d'elles-mêmes en pain, et que le chemin du château d'eau à la table pleine reste à faire.

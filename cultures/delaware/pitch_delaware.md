@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Delaware](play_delaware.md). It tunes the thoughtful, polite, and mechanical expression of life in the First State.
+The pitch of [Delaware](play_delaware.md). It tunes the first-state-first, filing-cabinet-precise, slower-lower voice of life between Wilmington's boardrooms and the Delaware beaches.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [Delaware](play_delaware.md). It tunes the thoughtful, polite, and 
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and story-driven, combining business incorporation vocabulary with chemical milling and constitutional law terms. It is a voice of rivers and corporations - prioritizing watershed protection plans, cleanroom spectrometer tests, and historic mill preservation. This formal language shapes both the business cooperatives and the chancery boards, valuing family self-reliance and technical competence.
+First to ratify, thank you very much - said without much fuss, the way a small state talks once it's stopped needing to prove anything. Incorporation vocabulary sits easy next to gunpowder-mill talk and courtroom Latin; Wilmington's boardrooms and the old river mills were raised by the same patient hands. Head down to the lower counties and the pace drops to "slower lower" - boardwalk time, not billable time - though everybody still knows the governor by his first name.
 
 ## Undertow
 
-Under the hospitality lies a persistent geographic polarization between the rapidly expanding municipal centers and the resource-dependent southern counties. This resource divide breeds debates over local property taxation and public land zoning, where state-led developmental projects are met with local protective instincts for traditional farm properties.
+Under the first-to-ratify pride runs a real fault line between Wilmington's spreading suburbs and corporate towers and the slower-lower counties down toward the beaches, where a farm or a marsh has been in the family since before the Constitution was anybody's idea. New zoning and state development plans read, upstate, as progress; read, downstate, as somebody in Dover deciding what a family's own land is for.
 
 ## Nerve
 
-The conviction that shared family labor, advanced technical competence, and respect for local corporate and legal boards are the true anchors of a stable society.
+It plays the note of first-then-useful: a small state earning its keep through trusted paperwork, patient courts, and a family still working the same trade for generations.
 
 ## Echo
 
-The rattle of a corporate stamp and the rush of water over a mill dam : an echo that is clear, wet, and mechanical.
+The stamp of a corporate seal coming down on paper and the rush of the Brandywine over an old mill dam - an echo clear, wet, and precise.

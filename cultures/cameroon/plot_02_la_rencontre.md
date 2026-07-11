@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-A l'embouchure du fleuve, les premiers navigateurs venus de la mer trouvent l'estuaire grouillant de crevettes et lui donnent le nom de riviere des crevettes, d'ou le pays tirera plus tard son nom. Au fil du temps, ce coin de cote tourne vers l'eau, terre du peuple Sawa, devient une porte par ou entrent les etrangers, leurs marchandises, leurs langues et leur pouvoir.
+À l'embouchure du fleuve, les premiers navigateurs venus de la mer trouvent l'estuaire grouillant de crevettes et lui donnent le nom de rivière des crevettes, d'où le pays tirera plus tard son nom. Au fil du temps, ce coin de côte tourné vers l'eau, terre du peuple Sawa, devient une porte par où entrent les étrangers, leurs marchandises, leurs langues et leur pouvoir.
 
 ## Action
 
-Le territoire passe sous l'autorite d'etrangers, d'une puissance puis d'autres, et porte sur lui les marques de cette epoque: des langues nouvelles, des ecoles, des eglises, des routes et des frontieres tracees sans toujours suivre celles des peuples. C'est une periode difficile, vecue avec dignite et sans qu'on l'efface de la memoire, dont le pays sort avec un heritage particulier, deux grandes langues de travail au lieu d'une. Des hommes de plume comme [Mongo Beti](persona_mongo_beti.md) prendront plus tard la langue venue de la qu'ils retourneront pour raconter le Cameroun de l'interieur, au lieu de le laisser dire par d'autres.
+Le territoire passe sous l'autorité d'étrangers, d'une puissance puis d'autres, et porte sur lui les marques de cette époque: des langues nouvelles, des écoles, des églises, des routes et des frontières tracées sans toujours suivre celles des peuples. C'est une période difficile, vécue avec dignité et sans qu'on l'efface de la mémoire, dont le pays sort avec un héritage particulier, deux grandes langues de travail au lieu d'une. Des hommes de plume comme [Mongo Beti](persona_mongo_beti.md) prendront plus tard la langue venue de là qu'ils retourneront pour raconter le Cameroun de l'intérieur, au lieu de le laisser dire par d'autres.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Le territoire passe sous l'autorite d'etrangers, d'une puissance puis d'autres, 
 
 ## Tension
 
-Le pays traverse une epoque ou son sort se decide en partie au-dehors, et il en garde des marques durables sans pour autant s'y perdre ni renoncer a lui-meme. La douleur de cette periode tient face a ce qu'il en a fait: un heritage de langues et d'ouverture retourne en outil, le pays reprenant la parole pour se raconter lui-meme et preparer, dessous, le moment ou il se relevera en nation.
+Le pays traverse une époque où son sort se décide en partie au-dehors, et il en garde des marques durables sans pour autant s'y perdre ni renoncer à lui-même. La douleur de cette période tient face à ce qu'il en a fait: un héritage de langues et d'ouverture retourné en outil, le pays reprenant la parole pour se raconter lui-même et préparer, dessous, le moment où il se relèvera en nation.

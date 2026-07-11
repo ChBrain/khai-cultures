@@ -27,7 +27,7 @@ Man bilong Sepik, em i man bilong tingting na man bilong lo, na em i kamapim tin
 
 ## Action
 
-Long [independence and the Melanesian Way](plot_03_independens_na_melanesian_we.md) em i kamapim tingting bilong [Melanesian We](position_melanesian_we.md) na em i helpim long wokim konstitusen bilong dispela kantri. Long givim Papua Niugini wanpela rot bilong em yet, em i mekim olsem nupela kantri i ken sanap long pasin bilong tumbuna, no long rot bilong narapela ples tasol.
+Long [independens na Melanesian We](plot_03_independens_na_melanesian_we.md) em i kamapim tingting bilong [Melanesian We](position_melanesian_we.md) na em i helpim long wokim konstitusen bilong dispela kantri. Long givim Papua Niugini wanpela rot bilong em yet, em i mekim olsem nupela kantri i ken sanap long pasin bilong tumbuna, no long rot bilong narapela ples tasol.
 
 ## Shadow
 

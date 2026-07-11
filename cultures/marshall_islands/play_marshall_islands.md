@@ -38,51 +38,51 @@ Juon aelon in armej me rej ri-jerakrok eo relap tata: rej riit no ko im aetto ko
 **Places**
 
 - [Majuro](place_majuro.md)
-- [Bikini Atoll](place_bikini.md)
+- [Bikini](place_bikini.md)
 
 **Processes**
 
-- [Wave-Piloting](process_jerakrok.md)
-- [The First-Birthday Feast](process_kemem.md)
+- [jerakrok](process_jerakrok.md)
+- [kemem](process_kemem.md)
 
 **Positions**
 
 - [manit in Majol](position_culture_manit_in_majol.md)
-- [the navigators and the sea](position_ri_jerakrok_im_lojet.md)
-- [the nuclear wound](position_kinie_baam.md)
-- [the atolls and the Compact](position_aelon_kein_ad_im_compact.md)
+- [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md)
+- [kinie baam](position_kinie_baam.md)
+- [aelon kein ad im compact](position_aelon_kein_ad_im_compact.md)
 - [Kajin Majol](position_language_mah.md)
 
 **Pieces**
 
-- [The Stick Chart](piece_meto.md)
-- [The Outrigger Canoe](piece_walap.md)
+- [meto](piece_meto.md)
+- [walap](piece_walap.md)
 
 **Pitches**
 
-- [The Marshallese Tone](pitch_mah.md)
+- [Kajin Majol](pitch_mah.md)
 
 **Plans**
 
-- [the sea that made us, the sea that threatens us](plan_lojet_ear_kommanmman_kij.md)
+- [lojet ear kommanmman kij, lojet ej kakkure kij](plan_lojet_ear_kommanmman_kij.md)
 
 ## Triggers
 
 **[Plot 1: ri-jerakrok](plot_01_ri_jerakrok.md)**
 
-Ilo iio ko etto ri-Majol rej itok jen lometo eo elap im rej jutak ilo aelon kein; [ri-meto](persona_ri_meto.md) eo ej riit no ko im ej jerak jen aelon nan aelon, im [lerooj](persona_lerooj.md) eo ej dapij bwij eo, ilo [the navigators and the sea](position_ri_jerakrok_im_lojet.md) me ej bedbed ioon lojet im ioon kora.
+Ilo iio ko etto ri-Majol rej itok jen lometo eo elap im rej jutak ilo aelon kein; [ri-meto](persona_ri_meto.md) eo ej riit no ko im ej jerak jen aelon nan aelon, im [lerooj](persona_lerooj.md) eo ej dapij bwij eo, ilo [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md) me ej bedbed ioon lojet im ioon kora.
 
 **[Plot 2: baam im pata](plot_02_baam_im_pata.md)**
 
-Tok juon iien German, innem Japan, innem United States eo ej tol; pata eo elap (WWII) ej itok ioon lojet eo, innem baam ko rej itok ioon [Bikini Atoll](place_bikini.md), im [the nuclear wound](position_kinie_baam.md) ej buromoj kon armej ro rej jako jen aer jikin.
+Tok juon iien German, innem Japan, innem United States eo ej tol; pata eo elap (WWII) ej itok ioon lojet eo, innem baam ko rej itok ioon [Bikini](place_bikini.md), im [kinie baam](position_kinie_baam.md) ej buromoj kon armej ro rej jako jen aer jikin.
 
 **[Plot 3: republic im compact](plot_03_republic_im_compact.md)**
 
-[Amata Kabua](persona_amata_kabua.md) ej tol aelon eo nan an erom juon republic ilo [Majuro](place_majuro.md), ej kommane Compact eo, im ej bukot jowan kon baam ko, ilo [the atolls and the Compact](position_aelon_kein_ad_im_compact.md).
+[Amata Kabua](persona_amata_kabua.md) ej tol aelon eo nan an erom juon republic ilo [Majuro](place_majuro.md), ej kommane Compact eo, im ej bukot jowan kon baam ko, ilo [aelon kein ad im compact](position_aelon_kein_ad_im_compact.md).
 
 **[Plot 4: dan ej wanlontak](plot_04_dan_ej_wanlontak.md)**
 
-Lometo eo ej wanlontak im ej kakkure aelon ko; [Tony deBrum](persona_tony_debrum.md) im [Darlene Keju](persona_darlene_keju.md) rej konono nan lal in kon [the nuclear wound](position_kinie_baam.md) im kon mour, ke jet ri-Majol rej etal nan ailon ko jet.
+Lometo eo ej wanlontak im ej kakkure aelon ko; [Tony deBrum](persona_tony_debrum.md) im [Darlene Keju](persona_darlene_keju.md) rej konono nan lal in kon [kinie baam](position_kinie_baam.md) im kon mour, ke jet ri-Majol rej etal nan ailon ko jet.
 
 ## Stakes
 

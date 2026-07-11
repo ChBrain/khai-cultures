@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-Sur les murs de terre des palais royaux d'Abomey: des figures modelees dans l'argile et peintes, en relief sur les facades, qui racontent les regnes des rois du Dahomey. On y lit des emblemes, des scenes, des animaux et des devises, panneau apres panneau, comme une chronique posee a meme le mur. C'est la memoire du royaume gravee dans la terre meme de la cite.
+Sur les murs de terre des palais royaux d'Abomey: des figures modelées dans l'argile et peintes, en relief sur les façades, qui racontent les règnes des rois du Dahomey. On y lit des emblèmes, des scènes, des animaux et des devises, panneau après panneau, comme une chronique posée à même le mur. C'est la mémoire du royaume gravée dans la terre même de la cité.
 
 ## Load Bearing
 
-Ils portent l'histoire des rois la ou tout le monde pouvait la voir: sur les murs du palais, le pouvoir se racontait a ciel ouvert, par l'image, pour qui savait lire les figures. Chaque relief fixe un regne, une devise, un fait, et tient ensemble la lignee des rois dans l'argile. Sans ces murs parlants, la chronique du Dahomey aurait perdu l'un de ses livres les plus surs, celui qu'on ne pouvait ni emporter ni cacher.
+Ils portent l'histoire des rois là où tout le monde pouvait la voir: sur les murs du palais, le pouvoir se racontait à ciel ouvert, par l'image, pour qui savait lire les figures. Chaque relief fixe un règne, une devise, un fait, et tient ensemble la lignée des rois dans l'argile. Sans ces murs parlants, la chronique du Dahomey aurait perdu l'un de ses livres les plus sûrs, celui qu'on ne pouvait ni emporter ni cacher.
 
 ## Apparent
 
-De la terre modelee et peinte sur un mur, des figures en relief qu'on dirait simples au premier regard. En elles-memes, de l'argile et de la couleur, fragiles devant la pluie et le temps; tout leur poids tient dans ce qu'elles racontent et dans le soin qu'il faut pour les garder debout, regne apres regne.
+De la terre modelée et peinte sur un mur, des figures en relief qu'on dirait simples au premier regard. En elles-mêmes, de l'argile et de la couleur, fragiles devant la pluie et le temps; tout leur poids tient dans ce qu'elles racontent et dans le soin qu'il faut pour les garder debout, règne après règne.
 
 ## Yearbook
 
-- Modeles sur les murs des palais d'Abomey pour raconter et fixer les regnes des rois du Dahomey.
-- Lisibles comme une chronique a ciel ouvert par qui connait les emblemes et les devises.
-- Gardes et restaures avec soin, car la terre se defait, et avec elle la memoire qu'elle porte.
+- Modelés sur les murs des palais d'Abomey pour raconter et fixer les règnes des rois du Dahomey.
+- Lisibles comme une chronique à ciel ouvert par qui connaît les emblèmes et les devises.
+- Gardés et restaurés avec soin, car la terre se défait, et avec elle la mémoire qu'elle porte.

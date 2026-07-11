@@ -31,7 +31,7 @@ Pandan diznevyèm ak ventyèm syèk yo, peyi peyizan an pran fòm li: moun trava
 ## Stage
 
 - [Jacques Roumain](persona_jacques_roumain.md): romansye ki bay vwa peyizan an epi mete kilti tè a nan literati.
-- [the Vodou-and-Kreyol soul](position_vodou_ak_kreyol.md): nanm mas la, Vodou ak kreyòl, ki fleri nan kanpay yo malgre chay la.
+- [nanm Vodou ak kreyòl la](position_vodou_ak_kreyol.md): nanm mas la, Vodou ak kreyòl, ki fleri nan kanpay yo malgre chay la.
 
 ## Tension
 

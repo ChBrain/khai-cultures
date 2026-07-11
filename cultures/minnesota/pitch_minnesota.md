@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Minnesota](play_minnesota.md). It tunes the thoughtful, polite, and cooperative expression of life in the Star of the North.
+The pitch of [Minnesota](play_minnesota.md). It tunes the mild-mannered, unhurried, quietly stubborn expression of life in the Star of the North.
 
 ## Owner
 
@@ -21,16 +21,16 @@ The pitch of [Minnesota](play_minnesota.md). It tunes the thoughtful, polite, an
 
 ## Tenor
 
-A thoughtful, polite, and cooperative tone. The communication is structured, friendly, and community-oriented, combining medical engineering vocabulary with Scandinavian-American midwestern idioms. It is a voice of social cooperation and stewardship - prioritizing lake preservation, cleanroom device assembly, and outdoor wilderness training. This polite language shapes both the Twin Cities planning boards and the northern wilderness cabins, valuing public welfare and civic pride.
+Sure, you bet - said before the question's even finished, and meant. A Minnesotan leads with the door held and the compliment volunteered, and files a disagreement away rather than raise it twice, because harmony out loud beats being right. An engineer walking a cleanroom spec and an outfitter walking a portage route fall into the same unhurried, check-with-everybody cadence, the vowels held long and flat the way the Scandinavians who settled here held theirs. Ask how it's going and get "oh, can't complain" back, delivered like a small, hard-won victory.
 
 ## Undertow
 
-Under the cooperative politeness lies a persistent tension between the rapidly expanding metropolitan centers and the resource-dependent Iron Range and farming counties. This divide breeds debates over mining permits and agricultural runoff regulations, where state-wide conservation mandates are met with local protective instincts for resource extraction labor and farming autonomy.
+The niceness cuts both ways. An "uff da" sighed instead of a complaint filed, a disagreement smiled through instead of spoken, a grudge that outlasts the conversation that started it by twenty years - Minnesota nice is armor as much as it's warmth, and most everyone here knows it. The same conflict-averse calm that keeps a Twin Cities planning meeting civil also keeps the state from having the fight it needs to have: between a metro area humming with new jobs and the Iron Range and farm counties watching mining permits and runoff rules get written by people who've never worked a taconite shift or walked a field in April.
 
 ## Nerve
 
-The conviction that community welfare, public education, and environmental stewardship are the true anchors of a healthy society.
+It plays on a home-grown certainty that a well-run school, a clean lake, and a neighbor who shovels your walk before you ask are what actually hold a place together - and that a state proves it cares by how it treats the kid in the worst-off county, not by how loudly it says so.
 
 ## Echo
 
-The splash of a canoe paddle in cold wilderness waters and the hum of medical cleanroom ventilation : an echo that is quiet, cool, and cooperative.
+The dip of a canoe paddle in a still northern lake, the hum of a cleanroom's filtered air, and a screen door that clicks shut a half-second after the goodbye finally ends - left quiet, cool, and unhurried.

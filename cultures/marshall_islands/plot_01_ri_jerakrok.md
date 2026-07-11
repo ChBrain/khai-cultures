@@ -32,7 +32,7 @@ Ri-Majol rej jutak ilo aelon kein, im rej erom ri-jerakrok ro relap tata: rej ri
 
 - [ri-meto](persona_ri_meto.md): ri-jerakrok eo elap me ej riit no ko im ej jerak jen aelon nan aelon.
 - [lerooj](persona_lerooj.md): kora eo elap an bwij eo me ej dapij bwij eo im ememej eo an aelon eo.
-- [the navigators and the sea](position_ri_jerakrok_im_lojet.md): lemnak eo bwe aelon eo ej itok jen lojet im ej bedbed ioon kora.
+- [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md): lemnak eo bwe aelon eo ej itok jen lojet im ej bedbed ioon kora.
 
 ## Tension
 

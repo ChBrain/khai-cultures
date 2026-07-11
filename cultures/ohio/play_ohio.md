@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Ohio, the Buckeye State in the Midwestern region of the United States. ISO US-OH, language en.
+Ohio, the Buckeye State, set in the Midwest along the river it takes its name from. ISO US-OH, language en. Call it out anywhere on earth and the room hollers back: O-H... I-O.
 
 ## Arc
 
-A land of industrial muscle and heartland farming, defined by its historic role as a political bellwether and manufacturing hub. From the Northwest Ordinance of 1787 that banned slavery and shaped the Midwest's educational ideals, and the massive industrial expansion of rubber and steel, to the Wright brothers' aviation breakthroughs in Dayton. A culture that balances working-class pride and rural traditions with the challenges of post-industrial transition.
+Ohio made its name on what its hands could build and what its ground could grow. The Northwest Ordinance of 1787 banned slavery here before a town was platted, and wrote a schoolhouse into the bargain for the whole Midwest. Akron ran rubber and Cleveland ran steel till the shift whistle set the state's clock, and in a Dayton bike shop two brothers worked out how plain people fly. Then the mills went quiet, and the same hard hands were left with no shift to punch. As Ohio goes, so goes the nation.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of industrial muscle and heartland farming, defined by its historic role 
 
 **[Plot 1: The Northwest Ordinance 1787](plot_01_northwest_ordinance.md)**
 
-The federal government establishes a territory system that bans slavery and mandates support for public schools, setting the heartland's social foundation.
+Congress draws up a territory that bans slavery here and puts a public schoolhouse in the bargain before a soul has settled - the heartland's foundation, laid down first in the paperwork.
 
 **[Plot 2: The Industrial Boom and Rust Belt 1920](plot_02_rust_belt.md)**
 
-Steel mills in Cleveland and rubber factories in Akron turn Ohio into an industrial powerhouse, followed by a late-20th-century period of decline and transition.
+Steel out of Cleveland and rubber out of Akron make Ohio an industrial powerhouse running flat out - then the shifts thin out, and the back half of the century becomes the long work of what comes next.
 
 **[Plot 3: The Birth of Aviation 1903](plot_03_aviation_birth.md)**
 
-The Wright brothers design and refine the first practical controlled powered aircraft at their Dayton workshop and testing fields.
+In a Dayton workshop, the Wright brothers work out the first powered aircraft a person can actually control - proof that plain, patient people get off the ground.
 
 ## Stakes
 
-Whether a post-industrial heartland state can successfully repurpose its rusted factory infrastructure and retrain its workforce for green manufacturing and tech sectors.
+Whether a state raised on the shift whistle can retrain its hard hands and its rusted factories for green manufacturing and tech, or whether the bellwether runs out of road to point the nation down.

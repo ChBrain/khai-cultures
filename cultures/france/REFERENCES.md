@@ -38,7 +38,7 @@ staging is original work.
 | -------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | Versailles and Louis XIV, c.1680 | [plot_01_versailles.md](plot_01_versailles.md)                                                         | The Sun King, absolutism, and the centralized state staged at Versailles.        |
 | The French Revolution of 1789    | [plot_02_revolution_1789.md](plot_02_revolution_1789.md)                                               | The storming of the Bastille and the Declaration of the Rights of Man.           |
-| The Dreyfus Affair               | [plot_03_dreyfus.md](plot_03_dreyfus.md), [persona_zola.md](persona_zola.md)                           | The wrongful conviction of Dreyfus and Emile Zola's ' J'accuse '.                |
+| The Dreyfus Affair               | [plot_03_dreyfus.md](plot_03_dreyfus.md), [persona_zola.md](persona_zola.md)                           | The wrongful conviction of Dreyfus and Émile Zola's ' J'accuse '.                |
 | The Liberation of Paris, 1944    | [plot_04_liberation_1944.md](plot_04_liberation_1944.md), [persona_de_gaulle.md](persona_de_gaulle.md) | The Resistance, the Free France of de Gaulle, and the liberation of the capital. |
 | Marianne                         | [piece_marianne.md](piece_marianne.md)                                                                 | The allegorical figure and bust of the French Republic.                          |
 

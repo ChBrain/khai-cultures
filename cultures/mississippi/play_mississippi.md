@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Mississippi, the Hospitality State in the East South Central region of the United States. ISO US-MS, language en.
+Mississippi, the Hospitality State, set in the East South Central corner of the Union, the Delta running down its western spine. ISO US-MS, language en.
 
 ## Arc
 
-A land of musical heritage and civil rights struggle, defined by the fertile silts of the Yazoo Delta. From the rapid plantation expansion of the early cotton boom and the global musical birth of the Delta blues, to the voter registration campaigns of the Freedom Summer. A culture that balances the blues legacy of its acoustic porches with the civil rights solidarity of its community schools, even as it plans the protection of the Yazoo River Basin.
+The Delta's black soil made Mississippi rich before it made Mississippi honest: land taken by forced cession and cotton worked by enslaved hands built a fortune in the early cotton boom, a debt the state is still paying down. Out of that same dirt, inside a generation, came a sound that could carry what plain talk couldn't say outright - the Delta blues, worked out on porches and at places like Dockery until a guitar could grieve like a voice, and the world was listening before the century turned. Then Freedom Summer's voter drives and freedom schools sent Mississippi's own people, and volunteers who came from away, walking the back roads to put the vote where it belonged. The porch's blues legacy and the schoolhouse's civil rights solidarity run here as one story, not two, even as the state keeps working, levee by levee, to hold the Yazoo River Basin's water off the ground that made all of it possible.
 
 ## Company
 
@@ -66,16 +66,16 @@ A land of musical heritage and civil rights struggle, defined by the fertile sil
 
 **[Plot 1: The Delta Blues Birth 1900](plot_01_delta_blues.md)**
 
-Musicians at Dockery Plantation develop slide guitar and twelve-bar structures, establishing a global blues legacy.
+At Dockery, pickers bent a bottleneck against steel string until the twelve-bar found its voice - and the world found it too.
 
 **[Plot 2: The Cotton Plantation Boom 1830](plot_02_cotton_boom.md)**
 
-Forced Indian land cessions and enslaved labor expand Yazoo Basin cotton production, launching high-volume exports.
+Land taken by forced cession and cotton forced from enslaved hands built the Yazoo Basin into King Cotton's country.
 
 **[Plot 3: The Freedom Summer Campaign 1964](plot_03_freedom_summer.md)**
 
-Civil rights groups launch voter registration drives and freedom schools across the state to challenge segregation.
+Organizers and volunteers open freedom schools and walk the back roads county by county, registering a state's rightful voters.
 
 ## Stakes
 
-Whether a river basin state experiencing intensive agricultural runoff can successfully execute levee plans to manage delta flooding.
+Whether a state that has finally learned to say its hardest history out loud can hold the Delta's rising water back from the same black soil that history was built on, without the levee costing the small farms it means to save.

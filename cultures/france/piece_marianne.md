@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-Sur les places des mairies, au fronton des ecoles, sur les timbres et les pieces, le buste d'une femme coiffee du bonnet phrygien, figure et visage de la Republique.
+Sur les places des mairies, au fronton des écoles, sur les timbres et les pièces, le buste d'une femme coiffée du bonnet phrygien, figure et visage de la République.
 
 ## Load Bearing
 
-Elle incarne la Republique elle-meme, la liberte et la nation des citoyens nees de la [Revolution de 1789](plot_02_revolution_1789.md). Plutot qu'un roi ou un drapeau seul, la France s'est donnee pour embleme une figure et une idee : sans ce visage, la Republique manquerait son image partagee.
+Elle incarne la République elle-même, la liberté et la nation des citoyens nées de la [Révolution de 1789](plot_02_revolution_1789.md). Plutôt qu'un roi ou un drapeau seul, la France s'est donnée pour emblème une figure et une idée : sans ce visage, la République manquerait son image partagée.
 
 ## Apparent
 
-Un buste de femme, coiffe du bonnet de la liberte, sobre et solennel, present dans chaque mairie. Rien d'un portrait royal : c'est une allegorie, un symbole offert a tous et non l'effigie d'un maitre.
+Un buste de femme, coiffé du bonnet de la liberté, sobre et solennel, présent dans chaque mairie. Rien d'un portrait royal : c'est une allégorie, un symbole offert à tous et non l'effigie d'un maître.
 
 ## Yearbook
 
-- Nee comme allegorie de la Republique au temps de la Revolution.
-- Placee dans les mairies et les ecoles comme figure officielle de la France.
-- Reprise sur les timbres, les pieces et les places comme visage commun de la nation.
+- Née comme allégorie de la République au temps de la Révolution.
+- Placée dans les mairies et les écoles comme figure officielle de la France.
+- Reprise sur les timbres, les pièces et les places comme visage commun de la nation.

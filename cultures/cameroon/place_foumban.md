@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-La capitale du royaume bamoun, sur les hautes terres de l'Ouest, ville du sultan, de son palais et de sa cour. Le palais royal dresse ses murs et ses toits sur la place centrale, le musee garde les trones, les masques, les regalia et les manuscrits, et tout autour les ateliers des artisans, fondeurs de bronze, sculpteurs, brodeurs, font de la ville un haut lieu de l'art du pays. C'est ici que [le sultan Njoya](persona_njoya.md) a invente son ecriture et consigne le savoir des siens: une cite ou la chefferie se montre comme foyer de creation autant que comme trone.
+La capitale du royaume bamoun, sur les hautes terres de l'Ouest, ville du sultan, de son palais et de sa cour. Le palais royal dresse ses murs et ses toits sur la place centrale, le musée garde les trônes, les masques, les regalia et les manuscrits, et tout autour les ateliers des artisans, fondeurs de bronze, sculpteurs, brodeurs, font de la ville un haut lieu de l'art du pays. C'est ici que [le sultan Njoya](persona_njoya.md) a inventé son écriture et consigné le savoir des siens: une cité où la chefferie se montre comme foyer de création autant que comme trône.
 
 ## Holds
 
-- [Foumban et le sultanat](plot_01_foumban.md): la cour ou nait l'ecriture bamoun et ou la chefferie se fait foyer de savoir.
-- [l'independance et la reunification](plot_03_la_reunification.md): la vieille capitale royale devenue l'une des villes de la nation reunie.
+- [Foumban et le sultanat](plot_01_foumban.md): la cour où naît l'écriture bamoun et où la chefferie se fait foyer de savoir.
+- [l'indépendance et la réunification](plot_03_la_reunification.md): la vieille capitale royale devenue l'une des villes de la nation réunie.
 
 ## Offers
 
-Un lieu ou le pays voit son genie ancien fait pierre et bronze, un palais et un musee qui gardent vivante la memoire d'un royaume lettre; une cite d'artisans ou l'art bamoun se transmet de main en main, et la preuve, posee au coeur du pays, que la creation et le savoir sont nes ici meme, du genie d'un roi et de son peuple.
+Un lieu où le pays voit son génie ancien fait pierre et bronze, un palais et un musée qui gardent vivante la mémoire d'un royaume lettré; une cité d'artisans où l'art bamoun se transmet de main en main, et la preuve, posée au coeur du pays, que la création et le savoir sont nés ici même, du génie d'un roi et de son peuple.
 
 ## Withheld
 
-L'idee que tout serait facilement garde. Foumban porte aussi la fragilite de ce qu'elle protege: des manuscrits qui ont failli se perdre, une ecriture qui n'a pas pu se repandre comme on l'esperait, le rappel que la memoire d'un peuple ne tient que par les mains qui la recopient et la maintiennent vivante.
+L'idée que tout serait facilement gardé. Foumban porte aussi la fragilité de ce qu'elle protège: des manuscrits qui ont failli se perdre, une écriture qui n'a pas pu se répandre comme on l'espérait, le rappel que la mémoire d'un peuple ne tient que par les mains qui la recopient et la maintiennent vivante.

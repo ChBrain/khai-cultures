@@ -26,8 +26,8 @@ Ol bikpela ples antap long namel bilong bikpela ailan Niugini, namel long ol mau
 
 ## Holds
 
-- [contact and colony](plot_02_kontak_na_kolonia.md): ol bikpela ples antap we ol waitman i go insait long ol long 1930s na painim planti manmeri.
-- [a thousand tongues today](plot_04_planti_tok_tude.md): ol bikpela ples i pulap long manmeri na long sing-sing long taim bilong tude, hap bilong ol bikman.
+- [kontak na kolonia](plot_02_kontak_na_kolonia.md): ol bikpela ples antap we ol waitman i go insait long ol long 1930s na painim planti manmeri.
+- [planti tok tude](plot_04_planti_tok_tude.md): ol bikpela ples i pulap long manmeri na long sing-sing long taim bilong tude, hap bilong ol bikman.
 
 ## Offers
 

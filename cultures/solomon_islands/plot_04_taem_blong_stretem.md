@@ -31,7 +31,7 @@ Long 1998 go kasem 2003, ol Tensions putim hevi antap long neson: govman wik, ek
 ## Stage
 
 - [man blong fising](persona_man_blong_fising.md): man blong evridei wea wantem nomoa se laef i kam gud bak an se hem savve go fising seif gen.
-- [Guadalcanal](place_gwadalkanal.md): ples blong ol Tensions an blong longfala wok blong stretem.
+- [Gwadalkanal](place_gwadalkanal.md): ples blong ol Tensions an blong longfala wok blong stretem.
 - [bigfala faet na stretem](position_bigfala_faet_na_stretem.md): disfala save se afta trabol, neson ia mas sidaon an stretem bak.
 
 ## Tension

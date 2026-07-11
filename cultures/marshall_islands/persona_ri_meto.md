@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[the navigators and the sea](position_ri_jerakrok_im_lojet.md)
+[ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Ri-jerakrok eo elap, eo me ej riit no ko im aetto ko ilo lojet im ej jerak jen a
 
 ## Action
 
-Ilo [ri-jerakrok](plot_01_ri_jerakrok.md) ej riit no ko im ej jerak jen aelon nan aelon, im ej kotak [the navigators and the sea](position_ri_jerakrok_im_lojet.md) einwot ri-jerakrok eo elap me ej dapij armej ro im ej kobaik aelon ko ilo lojet eo. Ej dapij jela eo etto im ej letok e nan epepen ko rej itok.
+Ilo [ri-jerakrok](plot_01_ri_jerakrok.md) ej riit no ko im ej jerak jen aelon nan aelon, im ej kotak [ri-jerakrok im lojet](position_ri_jerakrok_im_lojet.md) einwot ri-jerakrok eo elap me ej dapij armej ro im ej kobaik aelon ko ilo lojet eo. Ej dapij jela eo etto im ej letok e nan epepen ko rej itok.
 
 ## Shadow
 

@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capitale, Ouaga comme on dit ici, posee au coeur du plateau mossi : le palais du Mogho Naba ou se tient chaque vendredi le rite de la cour, les grandes avenues, les marches grouillants, les maquis et les cabarets a dolo, les nuages de motos. C'est la ville du FESPACO et de l'etalon de Yennenga, du SIAO et de son artisanat, le coeur politique du pays moderne pose juste a cote du coeur coutumier du monde mossi. La capitale d'un pays sans mer qui a fait de la culture sa porte sur le monde.
+La capitale, Ouaga comme on dit ici, posée au coeur du plateau mossi : le palais du Mogho Naba où se tient chaque vendredi le rite de la cour, les grandes avenues, les marchés grouillants, les maquis et les cabarets à dolo, les nuages de motos. C'est la ville du FESPACO et de l'étalon de Yennenga, du SIAO et de son artisanat, le coeur politique du pays moderne posé juste à côté du coeur coutumier du monde mossi. La capitale d'un pays sans mer qui a fait de la culture sa porte sur le monde.
 
 ## Holds
 
@@ -32,8 +32,8 @@ La capitale, Ouaga comme on dit ici, posee au coeur du plateau mossi : le palais
 
 ## Offers
 
-Un lieu ou l'ancien et le moderne se tiennent cote a cote sans se nier : la cour du roi coutumier et les institutions de la Republique, le marche et le festival, le balafon du cabaret et l'ecran du FESPACO. C'est la ou le pays se gouverne, se rassemble et se montre au monde par sa parole en images, la scene ou l'integrite et le cinema se donnent rendez-vous.
+Un lieu où l'ancien et le moderne se tiennent côte à côte sans se nier : la cour du roi coutumier et les institutions de la République, le marché et le festival, le balafon du cabaret et l'écran du FESPACO. C'est là où le pays se gouverne, se rassemble et se montre au monde par sa parole en images, la scène où l'intégrité et le cinéma se donnent rendez-vous.
 
 ## Withheld
 
-L'aisance des grandes capitales du monde. Ouaga porte sa modestie sur elle : c'est une ville qui fait beaucoup avec peu, ou la poussiere du Sahel rappelle la durete de la terre, et ou la fierte d'accueillir le cinema d'un continent cotoie le manque de moyens de tous les jours. La capitale dit la verite du pays, riche de parole et d'accueil, pauvre du reste, et debout tout de meme.
+L'aisance des grandes capitales du monde. Ouaga porte sa modestie sur elle : c'est une ville qui fait beaucoup avec peu, où la poussière du Sahel rappelle la dureté de la terre, et où la fierté d'accueillir le cinéma d'un continent côtoie le manque de moyens de tous les jours. La capitale dit la vérité du pays, riche de parole et d'accueil, pauvre du reste, et debout tout de même.

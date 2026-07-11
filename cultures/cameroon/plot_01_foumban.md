@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-Bien avant que des etrangers ne dessinent des frontieres, le pays est fait de royaumes et de chefferies. Dans l'Ouest, sur les hautes terres, le royaume bamoun a sa capitale a Foumban, son trone, ses notables et sa longue memoire. A la fin du dix-neuvieme siecle un jeune roi, [le sultan Njoya](persona_njoya.md), monte sur ce trone avec une curiosite qui deborde celle d'un simple souverain.
+Bien avant que des étrangers ne dessinent des frontières, le pays est fait de royaumes et de chefferies. Dans l'Ouest, sur les hautes terres, le royaume bamoun a sa capitale à Foumban, son trône, ses notables et sa longue mémoire. À la fin du dix-neuvième siècle un jeune roi, [le sultan Njoya](persona_njoya.md), monte sur ce trône avec une curiosité qui déborde celle d'un simple souverain.
 
 ## Action
 
-Njoya veut garder par ecrit ce que son peuple sait, et comme sa langue n'a pas d'ecriture, il en invente une, le shu-mom, qu'il fait enseigner dans son royaume et avec laquelle il consigne l'histoire, les coutumes et les remedes des Bamoun. Il batit un grand palais a Foumban, dessine des cartes, releve les usages de son peuple. La chefferie se montre la pour ce qu'elle est de plus haut: non pas seulement un trone, mais un foyer de creation et de savoir, capable d'inventer ce dont elle a besoin sans attendre qu'on le lui apporte du dehors.
+Njoya veut garder par écrit ce que son peuple sait, et comme sa langue n'a pas d'écriture, il en invente une, le shu-mom, qu'il fait enseigner dans son royaume et avec laquelle il consigne l'histoire, les coutumes et les remèdes des Bamoun. Il bâtit un grand palais à Foumban, dessine des cartes, relève les usages de son peuple. La chefferie se montre là pour ce qu'elle est de plus haut: non pas seulement un trône, mais un foyer de création et de savoir, capable d'inventer ce dont elle a besoin sans attendre qu'on le lui apporte du dehors.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Njoya veut garder par ecrit ce que son peuple sait, et comme sa langue n'a pas d
 
 ## Tension
 
-Le pays porte en lui un genie ancien, un roi qui ecrit sa propre langue et garde le savoir de son peuple, juste au moment ou le monde du dehors s'apprete a tout rebattre. La grandeur de cette creation tient face a la fragilite de son heure: une oeuvre en avance sur son temps, qui montre ce que le pays sait faire et qui devra, plus tard, lutter pour ne pas se perdre.
+Le pays porte en lui un génie ancien, un roi qui écrit sa propre langue et garde le savoir de son peuple, juste au moment où le monde du dehors s'apprête à tout rebattre. La grandeur de cette création tient face à la fragilité de son heure: une oeuvre en avance sur son temps, qui montre ce que le pays sait faire et qui devra, plus tard, lutter pour ne pas se perdre.

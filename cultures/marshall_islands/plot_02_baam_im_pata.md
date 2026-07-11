@@ -30,8 +30,8 @@ Bok ko relap rej ito-itak ioon aelon kein: German eo, innem Japan eo, innem ke p
 
 ## Stage
 
-- [Bikini Atoll](place_bikini.md): aelon eo me baam ko rar walok ie, im jen ijo me armej ro rar etal jen jikin eo aer.
-- [the nuclear wound](position_kinie_baam.md): kinie eo elap im emetak ilo buruon aelon eo, eo me ear walok jen baam ko.
+- [Bikini](place_bikini.md): aelon eo me baam ko rar walok ie, im jen ijo me armej ro rar etal jen jikin eo aer.
+- [kinie baam](position_kinie_baam.md): kinie eo elap im emetak ilo buruon aelon eo, eo me ear walok jen baam ko.
 
 ## Tension
 

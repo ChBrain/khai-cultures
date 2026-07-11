@@ -32,7 +32,7 @@ Premye janvye 1804, Desalin pwoklame endepandans lan epi li bay peyi a non l: Ay
 
 - [Jean-Jacques Dessalines](persona_dessalines.md): jeneral ki pwoklame endepandans lan epi bay nasyon an non l ak fyète l.
 - [Catherine Flon](persona_catherine_flon.md): fanm ki koud premye drapo a ak men l epi bay nasyon an figi l.
-- [the Citadelle](place_sitadel_laferye.md): fòtrès libète a, bati pou defann endepandans lan ki te fèk pwoklame.
+- [Sitadèl Laferyè](place_sitadel_laferye.md): fòtrès libète a, bati pou defann endepandans lan ki te fèk pwoklame.
 
 ## Tension
 

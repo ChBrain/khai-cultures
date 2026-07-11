@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-Dans les ateliers et les cours du royaume Kuba, au centre du pays, entre les mains des tisserands et des brodeuses: le velours de raphia aux motifs geometriques, tisse, brode et teint, etale pour les ceremonies et garde comme un tresor de famille.
+Dans les ateliers et les cours du royaume Kuba, au centre du pays, entre les mains des tisserands et des brodeuses: le velours de raphia aux motifs géométriques, tissé, brodé et teint, étalé pour les cérémonies et gardé comme un trésor de famille.
 
 ## Load Bearing
 
-Il porte la grandeur des arts congolais et la memoire des royaumes. Tisse a partir des fibres du raphia, puis brode en relief jusqu'a prendre l'aspect du velours, le textile kuba couvre ses surfaces de motifs geometriques d'une invention sans fin, dont on dit qu'aucun ne se repete tout a fait. Avec les masques et les statues royales ndop, il dit le raffinement d'une cour et le genie d'un peuple d'artistes, et il rappelle que la grandeur du pays-continent ne se mesure pas seulement a sa taille mais a la beaute qu'il a su creer.
+Il porte la grandeur des arts congolais et la mémoire des royaumes. Tissé à partir des fibres du raphia, puis brodé en relief jusqu'à prendre l'aspect du velours, le textile kuba couvre ses surfaces de motifs géométriques d'une invention sans fin, dont on dit qu'aucun ne se répète tout à fait. Avec les masques et les statues royales ndop, il dit le raffinement d'une cour et le génie d'un peuple d'artistes, et il rappelle que la grandeur du pays-continent ne se mesure pas seulement à sa taille mais à la beauté qu'il a su créer.
 
 ## Apparent
 
-Un carre d'etoffe de fibre vegetale, brun, ocre et noir, couvert de losanges et de spirales. A premiere vue un simple tissu; mais sa valeur tient au travail patient qui l'a fait, aux mains qui l'ont tisse et brode, et a la cour raffinee dont il porte la signature.
+Un carré d'étoffe de fibre végétale, brun, ocre et noir, couvert de losanges et de spirales. À première vue un simple tissu; mais sa valeur tient au travail patient qui l'a fait, aux mains qui l'ont tissé et brodé, et à la cour raffinée dont il porte la signature.
 
 ## Yearbook
 
-- Tisse de raphia et brode en relief dans les ateliers du royaume Kuba, jusqu'a l'aspect du velours.
-- Couvert de motifs geometriques sans cesse renouveles, signature d'un peuple d'artistes.
-- Garde et transmis comme tresor, temoin de la grandeur des arts du pays-continent.
+- Tissé de raphia et brodé en relief dans les ateliers du royaume Kuba, jusqu'à l'aspect du velours.
+- Couvert de motifs géométriques sans cesse renouvelés, signature d'un peuple d'artistes.
+- Gardé et transmis comme trésor, témoin de la grandeur des arts du pays-continent.

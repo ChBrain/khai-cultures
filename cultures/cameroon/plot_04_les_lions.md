@@ -22,11 +22,11 @@ stamp:
 
 ## Cue
 
-L'ete 1990, sur la plus grande scene du ballon, personne ne mise un kopeck sur le Cameroun. Les Lions Indomptables arrivent en outsiders, et dans l'equipe on a rappele un vieil attaquant que beaucoup croyaient range des crampons, [Roger Milla](persona_milla.md), pour une derniere aventure.
+L'été 1990, sur la plus grande scène du ballon, personne ne mise un kopeck sur le Cameroun. Les Lions Indomptables arrivent en outsiders, et dans l'équipe on a rappelé un vieil attaquant que beaucoup croyaient rangé des crampons, [Roger Milla](persona_milla.md), pour une dernière aventure.
 
 ## Action
 
-Les Lions font tomber les grands les uns apres les autres et vont plus loin qu'aucune equipe africaine ne l'avait jamais fait dans cette competition. Milla marque, puis court au poteau de corner danser la makossa devant le monde entier. Du Nord au Sud, des francophones aux anglophones, du village a la ville, tout le pays se leve d'une seule joie, et tout un continent se reconnait dans ces lions. La musique de [Manu Dibango](persona_manu_dibango.md) et le rythme de la cote portent cette fete bien au-dela des frontieres: le petit pays aux cent visages montre au monde de quoi il est capable.
+Les Lions font tomber les grands les uns après les autres et vont plus loin qu'aucune équipe africaine ne l'avait jamais fait dans cette compétition. Milla marque, puis court au poteau de corner danser la makossa devant le monde entier. Du Nord au Sud, des francophones aux anglophones, du village à la ville, tout le pays se lève d'une seule joie, et tout un continent se reconnaît dans ces lions. La musique de [Manu Dibango](persona_manu_dibango.md) et le rythme de la côte portent cette fête bien au-delà des frontières: le petit pays aux cent visages montre au monde de quoi il est capable.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Les Lions font tomber les grands les uns apres les autres et vont plus loin qu'a
 
 ## Tension
 
-Un petit pays fait trembler les grands et offre au continent une joie immense, dans un elan ou les cent peuples et les deux langues ne font plus qu'un. L'exploit d'un ete tient face a ce qu'il laisse derriere lui: une fierte qui rassemble tout le pays, mais aussi une barre haute que chaque generation suivante portera comme une attente, car une joie si grande devient aussi une exigence.
+Un petit pays fait trembler les grands et offre au continent une joie immense, dans un élan où les cent peuples et les deux langues ne font plus qu'un. L'exploit d'un été tient face à ce qu'il laisse derrière lui: une fierté qui rassemble tout le pays, mais aussi une barre haute que chaque génération suivante portera comme une attente, car une joie si grande devient aussi une exigence.

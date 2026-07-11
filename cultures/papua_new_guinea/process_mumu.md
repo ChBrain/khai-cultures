@@ -34,4 +34,4 @@ Em i ran long pasin bilong wantok na long laik bilong ol lain long givim na kisi
 
 ## Echo
 
-Mumu i mekim olsem manmeri inap pilim wanem i stap aninit long [the wantok and kastom](position_wantok_na_kastom.md): olsem nem bilong man i kam long pasin bilong em long givim, no long pasin bilong holim samting bilong em yet. Long wokim bikpela mumu na givim long olgeta, [the big-man](persona_bikman.md) i kisim nem na holim ol lain wantaim, na olgeta i kamap wanpela long wankain kaikai.
+Mumu i mekim olsem manmeri inap pilim wanem i stap aninit long [wantok na kastom](position_wantok_na_kastom.md): olsem nem bilong man i kam long pasin bilong em long givim, no long pasin bilong holim samting bilong em yet. Long wokim bikpela mumu na givim long olgeta, [bikman](persona_bikman.md) i kisim nem na holim ol lain wantaim, na olgeta i kamap wanpela long wankain kaikai.

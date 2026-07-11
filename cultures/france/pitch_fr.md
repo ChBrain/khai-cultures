@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Le ton dans lequel se joue la production [France](play_france.md). Il ne change rien a ce qui arrive : ni a Versailles, ni a 1789, ni a l'affaire Dreyfus, ni a la Liberation de 1944. Il fixe seulement la couleur, le registre dans lequel tout est dit.
+Le ton dans lequel se joue la production [France](play_france.md). Il ne change rien à ce qui arrive : ni à Versailles, ni à 1789, ni à l'affaire Dreyfus, ni à la Libération de 1944. Il fixe seulement la couleur, le registre dans lequel tout est dit.
 
 ## Owner
 
@@ -22,16 +22,16 @@ Le ton dans lequel se joue la production [France](play_france.md). Il ne change 
 
 ## Tenor
 
-On parle pour convaincre, et l'on tient qu'une idee bien dite vaut mieux qu'un fait mal pose. La parole est elegante, structuree, volontiers abstraite ; l'esprit, la formule et le bon mot y comptent autant que le fond. L'Etat se pose en arbitre et en garant, la regle est ecrite et l'on s'attend a ce qu'elle soit suivie, mais le citoyen se reserve le droit de contester, de discuter et, s'il le faut, de descendre dans la rue. Le registre est celui de la grandeur et de la mesure a la fois : une certaine hauteur de vue, le gout du debat, et la conviction que la culture, la langue et l'art de vivre ne sont pas des ornements mais le coeur meme de la vie.
+On parle pour convaincre, et l'on tient qu'une idée bien dite vaut mieux qu'un fait mal posé. La parole est élégante, structurée, volontiers abstraite ; l'esprit, la formule et le bon mot y comptent autant que le fond. L'État se pose en arbitre et en garant, la règle est écrite et l'on s'attend à ce qu'elle soit suivie, mais le citoyen se réserve le droit de contester, de discuter et, s'il le faut, de descendre dans la rue. Le registre est celui de la grandeur et de la mesure à la fois : une certaine hauteur de vue, le goût du débat, et la conviction que la culture, la langue et l'art de vivre ne sont pas des ornements mais le coeur même de la vie.
 
 ## Undertow
 
-Sous l'elegance court la memoire d'avoir voulu etre universel : d'avoir donne au monde une declaration des droits et d'avoir cru qu'une nation pouvait se choisir dans des principes plutot que dans le sang. De la nait l'attente que chacun se fonde dans la Republique, et l'inquietude quand le pays doute de tenir cette promesse pour tous ses citoyens. Dessous encore, une fierte ombrageuse, la hantise du declin et la crainte que la grandeur ne s'efface ; et une contestation jamais eteinte, qui empeche le ton de se faire docile. Cela tient l'elegance loin de la vanite : derriere l'esprit, il y a le serieux des principes, et la peur que l'idee de la France se retourne contre une part des Francais.
+Sous l'élégance court la mémoire d'avoir voulu être universel : d'avoir donné au monde une déclaration des droits et d'avoir cru qu'une nation pouvait se choisir dans des principes plutôt que dans le sang. De là naît l'attente que chacun se fonde dans la République, et l'inquiétude quand le pays doute de tenir cette promesse pour tous ses citoyens. Dessous encore, une fierté ombrageuse, la hantise du déclin et la crainte que la grandeur ne s'efface ; et une contestation jamais éteinte, qui empêche le ton de se faire docile. Cela tient l'élégance loin de la vanité : derrière l'esprit, il y a le sérieux des principes, et la peur que l'idée de la France se retourne contre une part des Français.
 
 ## Nerve
 
-Cela touche le plaisir d'une idee qui se deploie, d'une phrase qui tient debout, d'un debat ou l'on s'echauffe sans se hair. Cela touche aussi le bonheur tranquille d'une longue table, d'un vin partage et d'un repas qui prend son temps, et la fierte de voir une langue, une cuisine et une maniere de vivre comptees parmi les choses qui valent la peine. Cela joue pour le sentiment qu'appartenir a la France, c'est adherer a une idee autant qu'a un sol, et qu'on est plus libre en citoyen d'une republique qu'en sujet d'un maitre.
+Cela touche le plaisir d'une idée qui se déploie, d'une phrase qui tient debout, d'un débat où l'on s'échauffe sans se haïr. Cela touche aussi le bonheur tranquille d'une longue table, d'un vin partagé et d'un repas qui prend son temps, et la fierté de voir une langue, une cuisine et une manière de vivre comptées parmi les choses qui valent la peine. Cela joue pour le sentiment qu'appartenir à la France, c'est adhérer à une idée autant qu'à un sol, et qu'on est plus libre en citoyen d'une république qu'en sujet d'un maître.
 
 ## Echo
 
-Ce qui reste, c'est la conviction qu'une nation peut se fonder sur des principes et sur une langue partagee, et qu'il faut sans cesse les debattre pour les garder vivants. L'arriere-gout est elegant et un peu inquiet : on peut perdre des empires et des batailles et rester grand par les idees, l'art de vivre et la fidelite a une certaine idee de soi, a condition de ne jamais cesser de la discuter.
+Ce qui reste, c'est la conviction qu'une nation peut se fonder sur des principes et sur une langue partagée, et qu'il faut sans cesse les débattre pour les garder vivants. L'arrière-goût est élégant et un peu inquiet : on peut perdre des empires et des batailles et rester grand par les idées, l'art de vivre et la fidélité à une certaine idée de soi, à condition de ne jamais cesser de la discuter.

@@ -26,7 +26,7 @@ Long sol bilong mama na long het bilong en, long maket na long ples na long bikp
 
 ## Load Bearing
 
-Em i karim wanem i stap as bilong [the wantok and kastom](position_wantok_na_kastom.md): em i wok bilong han bilong meri, em i kam long save bilong tumbuna i go daun long ol pikinini, na em i makim ples na lain bilong man i karim em. Long wanpela kantri i gat planti tok ples, bilum em i wanpela samting olgeta i save, na ol kala na ol mak long en i kolim ples bilong man i wokim em. Em i no samting bilong baim tasol, em i karim save na kastom bilong meri i tantanim string na wokim em. Sapos i no gat dispela wok bilong han, hap bilong save bilong tumbuna i ken lus.
+Em i karim wanem i stap as bilong [wantok na kastom](position_wantok_na_kastom.md): em i wok bilong han bilong meri, em i kam long save bilong tumbuna i go daun long ol pikinini, na em i makim ples na lain bilong man i karim em. Long wanpela kantri i gat planti tok ples, bilum em i wanpela samting olgeta i save, na ol kala na ol mak long en i kolim ples bilong man i wokim em. Em i no samting bilong baim tasol, em i karim save na kastom bilong meri i tantanim string na wokim em. Sapos i no gat dispela wok bilong han, hap bilong save bilong tumbuna i ken lus.
 
 ## Apparent
 

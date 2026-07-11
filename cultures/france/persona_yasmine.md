@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[la Republique](position_la_republique.md)
+[la République](position_la_republique.md)
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-Une jeune femme de la France urbaine et diverse, fille de la Republique autant que de ses parents, qui a grandi entre le lycee, la cite et l'ideal des grandes ecoles. Elle prend au mot les principes qu'on lui a enseignes, l'egalite et la laicite, et demande qu'ils valent vraiment pour elle. Vive, exigeante, elle aime debattre et ne lache pas une idee. [Elle parle, entend et pense](process_speaking_mother_tongue.md) sa [langue maternelle, le francais](position_language_fr_fr.md), avec aisance, mele les registres et y glisse les mots de sa generation. L'arabe de ses parents, celui de la maison, elle ne l'[attrape qu'a l'oreille](process_hearing_caught.md) et ne sait ni le lire ni l'ecrire ; l'[anglais](../united_kingdom/position_language_en_gb.md) des grandes ecoles ou elle veut entrer, elle le [manie comme un outil](process_speaking_carried.md). La est l'ecart : fille de la Republique elle tient sa langue tout entiere, mais celle de ses parents s'amincit en une generation. Elle appartient a [une certaine idee de la France](position_culture_une_certaine_idee_de_la_france.md) comme celle qui lui demande de tenir enfin la promesse qu'elle proclame.
+Une jeune femme de la France urbaine et diverse, fille de la République autant que de ses parents, qui a grandi entre le lycée, la cité et l'idéal des grandes écoles. Elle prend au mot les principes qu'on lui a enseignés, l'égalité et la laïcité, et demande qu'ils valent vraiment pour elle. Vive, exigeante, elle aime débattre et ne lâche pas une idée. [Elle parle, entend et pense](process_speaking_mother_tongue.md) sa [langue maternelle, le français](position_language_fr_fr.md), avec aisance, mêle les registres et y glisse les mots de sa génération. L'arabe de ses parents, celui de la maison, elle ne l'[attrape qu'à l'oreille](process_hearing_caught.md) et ne sait ni le lire ni l'écrire ; l'[anglais](../united_kingdom/position_language_en_gb.md) des grandes écoles où elle veut entrer, elle le [manie comme un outil](process_speaking_carried.md). Là est l'écart : fille de la République elle tient sa langue tout entière, mais celle de ses parents s'amincit en une génération. Elle appartient à [une certaine idée de la France](position_culture_une_certaine_idee_de_la_france.md) comme celle qui lui demande de tenir enfin la promesse qu'elle proclame.
 
 ## Action
 
-Elle pousse [la Republique](position_la_republique.md) a tenir sa promesse d'universalisme, prend part aux debats de la France d'aujourd'hui sur la laicite et l'egalite, et descend a [la manifestation](process_la_manif.md) pour reclamer sa place pleine et entiere de citoyenne.
+Elle pousse [la République](position_la_republique.md) à tenir sa promesse d'universalisme, prend part aux débats de la France d'aujourd'hui sur la laïcité et l'égalité, et descend à [la manifestation](process_la_manif.md) pour réclamer sa place pleine et entière de citoyenne.
 
 ## Shadow
 
-Son exigence peut se muer en defiance, et la promesse decue, en colere contre le pays qui l'a faite. A trop attendre des principes, elle risque de ne plus voir ce que la Republique lui a deja donne.
+Son exigence peut se muer en défiance, et la promesse déçue, en colère contre le pays qui l'a faite. À trop attendre des principes, elle risque de ne plus voir ce que la République lui a déjà donné.
 
 ## Tell
 
-Elle retourne a la Republique ses propres mots et lui demande de prouver, et pas seulement de proclamer, l'egalite.
+Elle retourne à la République ses propres mots et lui demande de prouver, et pas seulement de proclamer, l'égalité.

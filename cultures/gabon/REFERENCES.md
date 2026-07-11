@@ -44,15 +44,15 @@ the Bwiti is treated with dignity as a living spirituality.
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | The peoples and the forest             | [plot_01_premiers_peuples.md](plot_01_premiers_peuples.md), [position_la_foret.md](position_la_foret.md)                                   | The Pygmies and the Bantu peoples (Fang, Myene, Punu, Nzebi, Teke), the equatorial forest, and the national parks. |
 | The coast and King Denis               | [plot_02_la_cote.md](plot_02_la_cote.md), [persona_roi_denis.md](persona_roi_denis.md)                                                     | The Atlantic contact, the coastal Myene, the trade and the slave trade, and the historic chief King Denis.         |
-| Libreville and Andre Raponda Walker    | [plot_03_libreville.md](plot_03_libreville.md), [persona_raponda_walker.md](persona_raponda_walker.md)                                     | The founding of Libreville for freed captives, and the first Gabonese priest and folklorist.                       |
-| Oil, the forest, and Pierre Akendengue | [plot_04_petrole_et_foret.md](plot_04_petrole_et_foret.md), [persona_akendengue.md](persona_akendengue.md)                                 | Independence-era oil wealth, the parks (Lope, Loango), and the musician-poet Pierre Akendengue.                    |
+| Libreville and André Raponda Walker    | [plot_03_libreville.md](plot_03_libreville.md), [persona_raponda_walker.md](persona_raponda_walker.md)                                     | The founding of Libreville for freed captives, and the first Gabonese priest and folklorist.                       |
+| Oil, the forest, and Pierre Akendengué | [plot_04_petrole_et_foret.md](plot_04_petrole_et_foret.md), [persona_akendengue.md](persona_akendengue.md)                                 | Independence-era oil wealth, the parks (Lopé, Loango), and the musician-poet Pierre Akendengué.                    |
 | The Bwiti, the masks, and the harp     | [process_le_bwiti.md](process_le_bwiti.md), [piece_le_masque_blanc.md](piece_le_masque_blanc.md), [piece_le_ngombi.md](piece_le_ngombi.md) | The Bwiti, the iboga, the ngombi harp, the Punu/Lumbu white masks, and the Fang byeri reliquaries.                 |
 
 The nganga in [persona_le_nganga.md](persona_le_nganga.md) is staged as a real
 office of Gabonese spiritual life, the father of knowledge of the Bwiti, rather
 than a named individual; the mask carver in [persona_le_sculpteur.md](persona_le_sculpteur.md)
 is an archetype, a composite of the carvers who give the spirits and ancestors a
-face in wood. Albert Schweitzer's hospital at Lambarene on the Ogooue is noted
+face in wood. Albert Schweitzer's hospital at Lambaréné on the Ogooué is noted
 soberly as part of the river's history.
 
 Content is CC-BY-NC-SA, code is MIT; public-domain sources are credited, never
