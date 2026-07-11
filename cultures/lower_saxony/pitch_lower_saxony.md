@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Niedersachsen](play_lower_saxony.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Schlacht bei Langensalza 1866, nicht an der Zusammenlegung von Hannover, Oldenburg, Braunschweig und Schaumburg-Lippe 1946, nicht am ersten VW Käfer, der vom Band lief. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
+Die Tonart der Produktion [Niedersachsen](play_lower_saxony.md) - sie ändert nichts an 1946, nichts am VW-Band. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -33,4 +33,4 @@ Getroffen wird die stille Genugtuung dessen, der sein Land weit, fruchtbar und v
 
 ## Echo
 
-Was bleibt, ist das Rauschen des Windes in den Deichkronen und das rhythmische Takten der Wolfsburger Fabrik. Der Nachklang ist weit und stetig wie die Küste selbst: sturmfest, nüchtern und von leiser Verlässlichkeit.
+Was bleibt, ist der Wind in den Deichkronen und das Takten der Wolfsburger Fabrik: weit, stetig, sturmfest.

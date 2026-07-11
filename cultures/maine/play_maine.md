@@ -23,7 +23,7 @@ Maine, the Pine Tree State in the New England region of the United States. ISO U
 
 ## Arc
 
-Maritime heritage and forestry self-reliance both, set against rocky Atlantic coast and back-country woodlot - you can't get there from here, and everybody means it kindly. The Missouri Compromise split Maine from Massachusetts in 1820; the lobster fishery docks built a trade the state still runs on; the Great Acadia Forest Fire tore through Mount Desert Island and reshaped how the woods get managed. Coastal towns keep faith with the tide and the trap, interior towns with the woodlot and the saw, both keeping watch now over the Gulf of Maine.
+You can't get there from here, and everybody means it kindly - the rocky Atlantic coast on one side of life, the back-country woodlot on the other. The Missouri Compromise split Maine from Massachusetts in 1820; the lobster fishery docks built a trade the state still runs on; the Great Acadia Forest Fire tore through Mount Desert Island and reshaped how the woods get managed. Coastal towns keep faith with the tide and the trap, interior towns with the woodlot and the saw, both keeping watch now over the Gulf of Maine.
 
 ## Company
 

@@ -23,7 +23,7 @@ Niedersachsen, zweitgrößtes Flächenland Deutschlands im Norden zwischen Nords
 
 ## Arc
 
-„Moin” sagt man hier zu jeder Tageszeit, und schon das genügt als Programm: Niedersachsen redet nicht viel, es hält. Zwischen Deich und Heide liegt ein Land der Gegensätze - die sturmfeste Küstenkultur Ostfrieslands auf der einen Seite, das hochgetaktete Band von Volkswagen in Wolfsburg auf der anderen, wo der Käfer zum Schicksal ganzer Generationen wurde. Erst 1946 aus den historischen Ländern Hannover, Oldenburg, Braunschweig und Schaumburg-Lippe zusammengesetzt, verbindet die Region bis heute friesische Gelassenheit bei der Teezeremonie mit der eisernen Disziplin der Fabrikhalle.
+„Moin” sagt man hier zu jeder Tageszeit: Niedersachsen redet nicht viel, es hält. Zwischen Deich und Heide liegt ein Land der Gegensätze - die sturmfeste Küstenkultur Ostfrieslands, das hochgetaktete Band von Volkswagen in Wolfsburg, wo der Käfer zum Schicksal wurde. Erst 1946 aus Hannover, Oldenburg, Braunschweig und Schaumburg-Lippe zusammengesetzt, verbindet die Region friesische Gelassenheit bei der Teezeremonie mit der Disziplin der Fabrikhalle.
 
 ## Company
 

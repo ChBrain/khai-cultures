@@ -23,7 +23,7 @@ Rheinland-Pfalz, das Weinland zwischen Mosel und Rhein im Südwesten Deutschland
 
 ## Arc
 
-In der Weinstube braucht es oft nicht mehr als ein „alla gut”, um das Glas zu füllen und das Gespräch zu eröffnen. Zwischen Rebhängen und Flusstälern liegt eine Region, in der Johannes Gutenberg die moderne Kommunikation erfand und Zehntausende beim Hambacher Fest 1832 für Demokratie demonstrierten, lange bevor sie nach dem Zweiten Weltkrieg aus ehemals bayerischen, hessischen und preußischen Gebieten zum Land zusammengefügt wurde. Winzerstolz und das Erbe der römischen Antike in Trier prägen bis heute den Alltag, so verlässlich wie die fünfte Jahreszeit den Kalender.
+In der Weinstube braucht es oft nicht mehr als ein „alla gut”, um das Gespräch zu eröffnen. Zwischen Rebhängen liegt eine Region, in der Gutenberg die Kommunikation erfand und Zehntausende beim Hambacher Fest 1832 für Demokratie demonstrierten, lange bevor sie aus bayerischen, hessischen und preußischen Gebieten zusammengefügt wurde. Winzerstolz und römische Antike in Trier prägen den Alltag wie die fünfte Jahreszeit den Kalender.
 
 ## Company
 

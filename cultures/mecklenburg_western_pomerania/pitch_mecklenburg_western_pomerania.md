@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Mecklenburg-Vorpommern](play_mecklenburg_western_pomerania.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht am Beitritt Wismars und Rostocks zur Hanse, nicht an der Gründung der Universität Rostock 1419, nicht an der Neugründung des Landes 1990. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
+Die Tonart der Produktion [Mecklenburg-Vorpommern](play_mecklenburg_western_pomerania.md) - sie ändert nichts an der Hanse, nichts an 1990. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -29,8 +29,8 @@ Unter der stoischen Ruhe liegt eine feine Melancholie und die Sorge vor dem Abge
 
 ## Nerve
 
-Getroffen wird die Genugtuung dessen, der der Ostsee und ihrer unendlichen Weite gewachsen ist, dazu der stille Stolz auf die alten Hansestädte und die eigene Unbeugsamkeit gegenüber den Elementen.
+Getroffen wird der Stolz, der Ostsee gewachsen zu sein, dazu die alten Hansestädte und die eigene Unbeugsamkeit.
 
 ## Echo
 
-Was bleibt, ist das Kreischen der Möwen über den Dächern von Wismar und das gleichmäßige Klopfen der Wellen an den Strandkörben. Der Nachhall ist weit wie das Boddenlicht: salzig, stoisch und von einem Schweigen, das mehr sagt als jedes Wort.
+Was bleibt, ist das Kreischen der Möwen über Wismar und das Klopfen der Wellen an den Strandkörben: weit, salzig, stoisch.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Nordrhein-Westfalen](play_north_rhine_westphalia.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Erschließung der Kohleflöze ab 1850, nicht an der Operation Marriage von 1946, nicht an der Schließung der letzten Zeche 2018. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
+Die Tonart der Produktion [Nordrhein-Westfalen](play_north_rhine_westphalia.md) - sie ändert nichts an 1850, nichts an 1946. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -29,8 +29,8 @@ Unter der Fröhlichkeit liegt die melancholische Erinnerung an den Abschied von 
 
 ## Nerve
 
-Getroffen wird der Kumpel-Stolz auf die ehrliche Arbeiterkultur, den Beitrag des Reviers zum Wirtschaftswunder und die Lebensfreude des Rheinlandes, die Ruhrpott und Rhein trotz aller Sturheit vereint.
+Getroffen wird der Kumpel-Stolz auf die Arbeiterkultur, den Beitrag zum Wirtschaftswunder und die Lebensfreude, die Pott und Rhein vereint.
 
 ## Echo
 
-Was bleibt, ist das dumpfe Singen des Steigerliedes und das laute Lachen auf den Kölner Straßen am Rosenmontag. Der Nachklang ist zäh wie der Pott und fröhlich wie das Rheinland: solidarisch, laut und, wie man hier sagt, woll.
+Was bleibt, ist das Steigerlied und das Lachen der Kölner Straßen am Rosenmontag: solidarisch, fröhlich, zäh.

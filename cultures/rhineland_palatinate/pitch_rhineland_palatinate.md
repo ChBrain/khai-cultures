@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Rheinland-Pfalz](play_rhineland_palatinate.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an Gutenbergs Buchdruck 1440, nicht am Hambacher Fest 1832, nicht am Weinbau, der seit der Römerzeit die Hänge von Mosel und Rhein prägt. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
+Die Tonart der Produktion [Rheinland-Pfalz](play_rhineland_palatinate.md) - sie ändert nichts an Gutenberg, nichts an Hambach. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -33,4 +33,4 @@ Getroffen wird die Freude daran, Wiege des modernen Buchdrucks und des deutschen
 
 ## Echo
 
-Was bleibt, ist das Klirren der Weingläser im Weinberg und das dumpfe Rauschen des Rheins an den Felsen. Der Nachgeschmack ist warm wie ein Sommerabend in der Weinstube: geschichtsträchtig, lebensfroh und mit einem „alla gut” besiegelt.
+Was bleibt, ist das Klirren der Weingläser im Weinberg und das Rauschen des Rheins: geschichtsträchtig, lebensfroh, mit einem „alla gut” besiegelt.

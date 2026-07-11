@@ -23,7 +23,7 @@ Nordrhein-Westfalen, das bevölkerungsreichste Land Deutschlands zwischen Rhein 
 
 ## Arc
 
-Zwei Temperamente teilen sich ein Land: rheinaufwärts endet jeder Satz mit einem fragenden „woll?”, westfälisch weiter oben herrscht eisernes Schweigen. Currywurst vor den Kathedralen des Kohlenpotts, das ist die Kurzformel für ein Land, dessen Kohle- und Stahlboom das Ruhrgebiet zum industriellen Kraftzentrum Europas machte, bis mit der letzten Zeche 2018 der Strukturwandel unumkehrbar wurde. 1946 von den Briten aus Rheinland und Westfalen zusammengefügt (Operation Marriage), lebt es bis heute vom Gegensatz zwischen harter Industriegeschichte und dem rheinischen Frohsinn, der im Kölner Karneval alljährlich hochgehalten wird.
+Zwei Temperamente teilen sich ein Land: rheinaufwärts endet jeder Satz mit einem fragenden „woll?”, westfälisch weiter oben herrscht Schweigen. Currywurst vor den Kathedralen des Kohlenpotts, so das bevölkerungsreichste Land, dessen Kohle- und Stahlboom das Ruhrgebiet prägte, bis 2018 der Strukturwandel unumkehrbar wurde. 1946 von den Briten aus Rheinland und Westfalen gefügt, lebt es vom Gegensatz zwischen Industriegeschichte und rheinischem Frohsinn im Kölner Karneval.
 
 ## Company
 

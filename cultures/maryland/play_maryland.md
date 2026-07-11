@@ -23,7 +23,7 @@ Maryland, the Old Line State in the South Atlantic region of the United States. 
 
 ## Arc
 
-Maritime estuary and biomedical science both, sitting right on the Chesapeake Bay with Old Bay dust on everything. The Maryland Toleration Act protected freedom of worship back in colonial days, Fort McHenry held the line against the British bombardment that gave the country its anthem, and the Chesapeake Bay Commission's cleanup agreements brought states together to nurse the estuary back. Watermen still work crab pots off the same shores where the research universities run cleanroom labs, and the whole state keeps an eye on getting the oyster reefs back.
+Everything here sits on the Chesapeake, with Old Bay dust on the crab paper and a biomedical campus up the road. The Maryland Toleration Act protected freedom of worship back in colonial days, Fort McHenry held the line against the British bombardment that gave the country its anthem, and the Chesapeake Bay Commission's cleanup agreements brought states together to nurse the estuary back. Watermen still work crab pots off the same shores where the research universities run cleanroom labs, and the whole state keeps an eye on getting the oyster reefs back.
 
 ## Company
 

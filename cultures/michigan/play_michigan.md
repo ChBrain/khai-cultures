@@ -23,7 +23,7 @@ Michigan, the Great Lakes State in the East North Central region of the United S
 
 ## Arc
 
-Industrial innovation and rustic wilderness both, held together by two peninsulas that every Michigander points out on the back of a hand. Henry Ford's moving assembly line in 1913 launched mass production, the Flint sit-down strike of 1936 forged the modern labor union, and Motown's crossover sound out of Detroit broke through racial lines with nothing but a good hook. The Motor City still runs on line-shift pride and the lakeshores still run on deer season and the water, and the whole state keeps watch together over the Great Lakes.
+Every Michigander carries the map on the back of a hand: two peninsulas pointing at each other, the assembly line on the palm and the north woods past the knuckles. Henry Ford's moving assembly line in 1913 launched mass production, the Flint sit-down strike of 1936 forged the modern labor union, and Motown's crossover sound out of Detroit broke through racial lines with nothing but a good hook. The Motor City still runs on line-shift pride and the lakeshores still run on deer season and the water, and the whole state keeps watch together over the Great Lakes.
 
 ## Company
 
