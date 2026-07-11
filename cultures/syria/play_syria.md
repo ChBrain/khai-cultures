@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الثقافة السورية](position_culture_althaqafa_alsuriyya.md)
 - [المدن الحية](position_almudun.md)
 - [العربية](position_language_ar_sy.md)
 - [الصنعة](position_alsanaa.md)

@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-這座島為自己定下的功課：把[層疊之島](position_the_layered_island.md)的每一層來歷都認下、都記得，讓[民間信仰](position_folk_faith.md)的香火與人情繼續暖著鄉里，讓得來不易的[公民社會](position_civil_society.md)代代相守而不在和氣裡被磨平，並在世界的風浪裡，把一座小島的手藝與人情，安穩地傳給後來的人。
+這座島為自己定下的功課：把[層疊之島](position_culture_the_layered_island.md)的每一層來歷都認下、都記得，讓[民間信仰](position_folk_faith.md)的香火與人情繼續暖著鄉里，讓得來不易的[公民社會](position_civil_society.md)代代相守而不在和氣裡被磨平，並在世界的風浪裡，把一座小島的手藝與人情，安穩地傳給後來的人。
 
 ## Owner
 

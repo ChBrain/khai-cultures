@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Der sagenhafte Freiheitsheld der Innerschweiz, der Armbrustschütze aus Uri. Ob er wirklich lebte, ist offen; was er bedeutet, ist gewiss: der freie Bauer, der sich keinem Vogt beugt. Er [spricht](process_speaking_mother_tongue.md) den [Dialekt](position_language_de_ch.md) der Innerschweizer Täler, knapp und trotzig, und er [hört](process_hearing_mother_tongue.md) ihn auch nur dort, in der Mundart von Uri, wo die Sage geboren ist. Doch die Geschichte selbst gehört keiner einzigen Zunge: Welsch und Tessin, Bünden und die Deutschschweiz erzählen sie alle in der eigenen Sprache nach. Er ist in der Mundart geboren und gehört im Geschriebenen keinem; die vier Sprachregionen reichen ihn weiter, jede in ihrem eigenen Wort.
+Der sagenhafte Freiheitsheld der Innerschweiz, der Armbrustschütze aus Uri. Ob er wirklich lebte, ist offen; was er bedeutet, ist gewiss: der freie Bauer, der sich keinem Vogt beugt. Er [spricht](process_speaking_mother_tongue.md) den [Dialekt](position_language_de_ch.md) der Innerschweizer Täler, knapp und trotzig, und er [hört](process_hearing_mother_tongue.md) ihn auch nur dort, in der Mundart von Uri, wo die Sage geboren ist. Doch die Geschichte selbst gehört keiner einzigen Zunge: Welsch und Tessin, Bünden und die Deutschschweiz erzählen sie alle in der eigenen Sprache nach. Er ist in der Mundart geboren und gehört im Geschriebenen keinem; die vier Sprachregionen reichen ihn weiter, jede in ihrem eigenen Wort. Er gehört [der Schweizer Kultur](position_culture_schweizer_kultur.md) an und steht an ihrem Ursprung: der freie Bürger, der sich selbst verteidigt, aus dem der Milizgedanke wächst, auf dem das ganze Land seither ruht.
 
 ## Action
 
