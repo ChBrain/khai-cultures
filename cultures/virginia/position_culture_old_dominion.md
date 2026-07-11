@@ -30,7 +30,7 @@ That one act with the courtesy and formality the Old Dominion expects of anyone 
 
 ## Loses
 
-Moral ground where its traditional hierarchies once organized themselves around a racial order the state cannot now merely commemorate, the plantation legacy that built its Cavalier courtesy on a foundation of enslaved labor no interpretive hall can gloss over. It loses ground, too, in the seam between the slow, history-minded south of Colonial Williamsburg and the fast, defense-and-technology corridor of Northern Virginia, each treating the other's calendar as an obstacle: the docent reading federal contracts as indifference to the past, the contractor reading historical preservation as a drag on modernization. And it loses authority when bureaucracy and defense contracts distance governance from the immediate needs of the citizens the Cradle of Presidents was built to serve.
+Moral ground where its traditional hierarchies once organized themselves around a racial order the state cannot now merely commemorate, the plantation legacy that built its Cavalier courtesy on a foundation of enslaved labor no interpretive hall can gloss over. It loses ground, too, between the slow, history-minded south of Colonial Williamsburg and the quick-moving defense-and-technology corridor of Northern Virginia, each treating the other's calendar as an obstacle: the docent reading federal contracts as indifference to the past, the contractor reading historical preservation as a drag on modernization. And it loses authority when bureaucracy and defense contracts distance governance from the immediate needs of the citizens the Cradle of Presidents was built to serve.
 
 ## Drives
 

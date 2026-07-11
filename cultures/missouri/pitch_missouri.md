@@ -21,7 +21,7 @@ The pitch of [Missouri](play_missouri.md). It tunes the thoughtful, informal, an
 
 ## Tenor
 
-A thoughtful, informal, and narrative tone. The communication is conversational, polite, and story-driven, combining river transit vocabulary with big-band jazz and agricultural terms. It is a voice of crossroads and heritage - prioritizing floodplain management, cleanroom jazz recording, and historic arch preservation. This narrative language shapes both the urban music clubs and the river lock cabins, valuing community relationship and shared expression.
+Missouri talks like it wants proof, not promises - conversational, polite, and given to telling the story before it hands you the fact, mixing river transit vocabulary with big-band jazz and farm talk. It is a voice of crossroads and heritage, at home with floodplain management, jazz recording, and arch upkeep in the same breath. This narrative language shapes both the music clubs downtown and the river lock cabins upstream, valuing community relationship and shared expression.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared artistic expression, cooperative river planning, and local resource stewardship are the true anchors of a stable society.
+It plays the show-me chord: nothing counts as steady ground until it's proven in shared artistic work, cooperative river planning, and local resource stewardship.
 
 ## Echo
 
-The splash of a riverboat paddle wheel and the slide of a jazz trombone : an echo that is warm, wet, and narrative.
+The splash of a riverboat paddle wheel meets the slide of a jazz trombone - warm, wet, and narrative, proof enough for a state that likes to see it first.

@@ -30,7 +30,7 @@ That the old ways, the pottery firing, the adobe upkeep, the feast day, be kept 
 
 ## Loses
 
-Ground where the fast, telemetry-driven tempo of the national laboratories treats water conservation and tribal land questions as regional footnotes rather than the deciding constraint they actually are. It loses ground in the still-unhealed weight of Los Alamos and Trinity, a state that gave the world its first atomic weapon and carries the fallout, literal and moral, of having done so. And it loses ground to the folklore that outside attention prefers, the alien crash story eclipsing the harder, longer history of the Pueblo Revolt and four centuries of land dispute that the state actually lives with.
+Ground where the national laboratories move at a telemetry-driven tempo that treats water conservation and tribal land questions as regional footnotes rather than the deciding constraint they actually are. It loses ground in the still-unhealed weight of Los Alamos and Trinity, a state that gave the world its first atomic weapon and carries the fallout, literal and moral, of having done so. And it loses ground to the folklore that outside attention prefers, the alien crash story eclipsing the harder, longer history of the Pueblo Revolt and four centuries of land dispute that the state actually lives with.
 
 ## Drives
 

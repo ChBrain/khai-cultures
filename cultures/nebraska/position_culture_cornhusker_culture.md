@@ -30,7 +30,7 @@ That a fence line be walked and mended, a cattle brand logged true, and a claim 
 
 ## Loses
 
-Ground where the fast, high volume talk of ranching and cattle markets drowns out the slower, season bound patience of the windbreak and the soil conservation board, so that tree planting is treated as a holiday rather than a working discipline. Ground, too, where state wide zoning and irrigation mandates meet the suspicion of counties that prize their own fence lines, and the topsoil itself, when the wind finds the gap a windbreak was meant to close.
+Ground where the quick, high-volume talk of ranching and cattle markets drowns out the slower, season-bound patience of the windbreak and the soil conservation board, so that tree planting gets treated as a holiday rather than a working discipline. Ground, too, where state wide zoning and irrigation mandates meet the suspicion of counties that prize their own fence lines, and the topsoil itself, when the wind finds the gap a windbreak was meant to close.
 
 ## Drives
 

@@ -23,7 +23,7 @@ Nebraska, the Cornhusker State in the West North Central region of the United St
 
 ## Arc
 
-A land of agricultural wealth and pioneer resilience, defined by the grassy dunes of the Sandhills. From the westward wagon trains of the Oregon Trail and the prairie sod construction of the Homestead Act claims, to the conservation forestry of the early Arbor Day campaigns. A culture that balances the pioneer grit of its Platte River transit trails with the tree-planting stewardship of its agricultural counties, even as it plans the protection of its topsoil windbreaks.
+Nebraska measures its wealth the way the Sandhills measure rain - slow, and only trusted once it's soaked in. The wagon trains that crossed the Platte by Chimney Rock and the homesteaders who broke prairie sod into farms set the pace early, and J. Sterling Morton's Arbor Day planting held it: a state that counts a windbreak as seriously as a harvest. Pioneer grit still rides the Platte River trails, tree-planting stewardship still runs the agricultural counties, and both answer to the same slow test - whether the topsoil holds against the wind.
 
 ## Company
 
@@ -78,4 +78,4 @@ J. Sterling Morton organizes the first tree-planting holiday in Nebraska City, p
 
 ## Stakes
 
-Whether a prairie state experiencing intensive cattle ranching and grain farming can successfully execute windbreak plans to prevent wind erosion.
+Whether a prairie state of cattle ranching and grain farming can hold windbreak plans to a patient standard, before the wind finds the gap.

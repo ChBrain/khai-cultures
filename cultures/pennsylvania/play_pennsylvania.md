@@ -23,7 +23,7 @@ Pennsylvania, the Keystone State in the Mid-Atlantic region of the United States
 
 ## Arc
 
-A land of foundational covenants and industrial muscle, defined by its historic role as the keystone uniting a diverse nation. From the religious tolerance of William Penn's Holy Experiment and the political debates of Independence Hall to the intense labor of Pittsburgh's steel mills and the legacy of coal mining. A culture that balances a heritage of pluralism with the gritty reality of manufacturing and industrial transformation.
+Set the keystone and the whole arch holds - that's Pennsylvania's claim on its own name, in fact and not just in nickname. William Penn's Holy Experiment opened a colony on tolerance before tolerance was policy anywhere else; Independence Hall's debates gave that experiment a nation to hold up. Down in the western valleys, Pittsburgh's steel mills and coal seams did the same holding-up in iron and carbon. Plain speech and hard labor built this state twice, and it still measures itself by the load it bears.
 
 ## Company
 

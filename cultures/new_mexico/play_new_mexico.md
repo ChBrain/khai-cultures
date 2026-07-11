@@ -23,7 +23,7 @@ New Mexico, the Land of Enchantment in the Mountain West region of the United St
 
 ## Arc
 
-A land of cultural heritage and advanced scientific research, defined by the dry red-rock basins of the Southwest. From the historic organizing of the Pueblo Revolt and the massive technology of the Trinity nuclear test, to the space science legacy of the Roswell incident. A culture that balances the traditional pottery craft of its Pueblo communities with the advanced aerospace laboratories of Los Alamos, even as it plans the protection of the Rio Grande basin.
+Here the desert keeps two clocks: one that predates any border on this ground, and one that started at dawn on July 16, 1945. The Pueblo Revolt drove out an empire in 1680, the Trinity test split the atom in the desert nearby, and the Roswell balloon gave outsiders a story easier to tell than either. New Mexico fires its pottery kilns and runs its cleanrooms on the same red earth, and now stakes its future on stretching the Rio Grande's water to cover both.
 
 ## Company
 
@@ -78,4 +78,4 @@ A weather balloon crash triggers global UFO speculation, establishing regional a
 
 ## Stakes
 
-Whether a desert state experiencing rapid urban development can successfully manage water conservation in the Rio Grande basin.
+Whether a desert state growing faster than its water can keep pace still manages to hold the Rio Grande basin's conservation ahead of that growth.

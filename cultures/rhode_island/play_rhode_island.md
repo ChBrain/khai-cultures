@@ -23,7 +23,7 @@ Rhode Island, the Ocean State in the New England region of the United States. IS
 
 ## Arc
 
-A land of religious tolerance and maritime craftsmanship, defined by the tidal salt estuaries of Narragansett Bay. From the legal liberties of the early Roger Williams charter and the high-society architecture of the Newport Gilded Age cottages, to the acoustic music heritage of the Newport Folk Festival. A culture that balances the bay stewardship of its sailboat construction yards with the intellectual freedom of its colonial charters, even as it plans the protection of Narragansett Bay.
+Not for nothing is Rhode Island the smallest state in the union - four centuries proving size and stubbornness are different things. Roger Williams arrived here an exile, banished for insisting a colony could tolerate a conscience it didn't share; the charter still holds. Newport's Gilded Age cottages rose along the same shoreline where sailboat yards still work the tide, and the Newport Folk Festival gave the place its acoustic note too. It still tends the bay stewardship and the colonial charters that made it, even planning now to protect Narragansett Bay itself.
 
 ## Company
 
@@ -78,4 +78,4 @@ The Newport Folk Festival establishes Newport as a national center of acoustic a
 
 ## Stakes
 
-Whether an estuary state experiencing intensive coastal wastewater runoff can successfully execute water plans to protect clam breeding beds.
+Whether an estuary state facing intensive coastal wastewater runoff can carry out its water plans in time to protect the clam breeding beds it depends on.

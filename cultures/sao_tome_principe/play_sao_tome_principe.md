@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Sao Tome and Principe"
-description: "Two equatorial islands of cocoa and forest, a creole nation born of the roca."
+description: "Two equatorial islands of cocoa and forest, a creole nation born of the roça."
 declared: "São Tomé e Príncipe"
 language: pt
 license: CC-BY-NC-SA-4.0

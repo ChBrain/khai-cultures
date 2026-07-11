@@ -1,4 +1,4 @@
-# Sao Tome and Principe: a khai culture
+# São Tomé and Príncipe: a khai culture
 
 São Tomé and Príncipe staged as a full khai play, ISO ST, language pt. Two
 equatorial volcanic islands in the Gulf of Guinea, peopled from afar for the
@@ -28,12 +28,12 @@ Estate; a culture with no Estate is not yet a production.
 - **Personas:** the poets Caetano da Costa Alegre, Francisco José Tenreiro, and
   Alda Espírito Santo (who wrote the national anthem), and the musician Pedro
   Lima ("the people's voice" of the island) as the historic cast, plus one
-  archetype, the roca worker (o roceiro) in whose labour the wealth and the
+  archetype, the roça worker (o roceiro) in whose labour the wealth and the
   people of the islands were made. Each is wired to the language engine by the
   language-crossing it holds, between Portuguese and the island creoles (Forro,
   Angolar, Principense).
 - **Positions:** creoleness (a crioulidade, the new people born of the mixing),
-  the roca (the plantation estate that shaped the islands), and islandness (a
+  the roça (the plantation estate that shaped the islands), and islandness (a
   insularidade, the lap and the limit of being two small islands in the sea).
 - **Places:** São Tomé (the capital and port, the head of the islands) and the
   island of Príncipe (the smaller, greener sister island with its own people and

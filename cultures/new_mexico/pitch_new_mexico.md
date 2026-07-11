@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [New Mexico](play_new_mexico.md). It tunes the thoughtful, polite, and mechanical expression of life in the Land of Enchantment.
+The pitch of [New Mexico](play_new_mexico.md). It tunes the register in which craft and physics share one vocabulary across the Land of Enchantment.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [New Mexico](play_new_mexico.md). It tunes the thoughtful, polite, 
 
 ## Tenor
 
-A thoughtful, polite, and mechanical tone. The communication is conversational, formal, and practical, combining Pueblo clay vocabulary with solar laboratory and nuclear physics terms. It is a voice of craft and science - prioritizing Rio Grande water plans, cleanroom spectrometer runs, and historic adobe preservation. This formal language shapes both the research campuses and the village pottery circles, valuing group heritage and technical competence.
+Say a sentence here and it likely carries a kiln term and a lab term at once. The talk is measured, courteous, and exact, pairing Pueblo clay vocabulary with solar-array and nuclear-physics terms. It is a voice built for craft and science - weighing Rio Grande water shares, spectrometer runs, and adobe repair with equal care. That measured register holds equally at the research campus and the pottery circle, prizing group heritage and technical competence alike.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the hospitality lies a persistent geographic polarization between the rapi
 
 ## Nerve
 
-The conviction that shared family labor, advanced scientific competence, and respect for traditional native land stewardship are the true anchors of a stable society.
+It plays the note that family labor, scientific competence, and respect for native land stewardship hold a society together, each one load-bearing, none of them decorative.
 
 ## Echo
 
-The crackle of outdoor pottery firing and the hum of a laboratory spectrometer : an echo that is clear, dry, and mechanical.
+The crackle of outdoor pottery firing meets the hum of a laboratory spectrometer - a sound both clear and dry, kiln-smoke and clean-room air in the same lungful.

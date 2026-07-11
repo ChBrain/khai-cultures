@@ -21,7 +21,7 @@ The pitch of [New York](play_new_york.md). It tunes the fast-paced, ambitious, a
 
 ## Tenor
 
-A fast-paced, direct, and ambitious tone. The communication is sharp, confident, and highly verbal, demanding efficiency and performance. It is a voice of trade and art - emphasizing achievement, professional credentials, and cultural sophistication. This rapid language dominates both the financial trading floors of Manhattan and the backstage discussions of Broadway, reflecting a belief that time is money and only the most dedicated succeed.
+Efficiency comes first here; sentences move fast and to the point, confidence built into the delivery. It is sharp, direct, and highly verbal, demanding performance in every exchange. It is a voice of trade and art - emphasizing achievement, professional credentials, and cultural sophistication. This rapid language dominates both the financial trading floors of Manhattan and the backstage discussions of Broadway, reflecting a belief that time is money and only the most dedicated succeed.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the ambition lies a high-pressure stress of survival and economic precarit
 
 ## Nerve
 
-The conviction that New York is the ultimate testing ground of talent and ambition, where success represents the peak of global achievement.
+It plays the note that this is where talent gets proven or it doesn't, the one place ambition can be tested against the very best and see honestly where it stands.
 
 ## Echo
 
-The rumble of underground subway trains and the sirens echoing off canyon-like brick and glass avenues : an echo that is loud, gritty, and relentless.
+The rumble of underground subway trains meets sirens bouncing off canyon walls of brick and glass - a sound loud, gritty, and relentless.

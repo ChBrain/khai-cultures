@@ -23,7 +23,7 @@ New York, the Empire State in the northeastern region of the United States. ISO 
 
 ## Arc
 
-A theater of intense ambition, rapid pace, and dense cultural collision, shaped by its role as the premier gateway and financial engine of a nation. From the engineering feat of the Erie Canal and the millions of immigrant stories processed through Ellis Island to the speculative heights and sudden drops of Wall Street and the bright stages of Broadway. A culture of competitive drive, artistic innovation, and diversity, constantly rebuilding its urban landscape.
+Ask whether New York means the City or the regions around it, and you have already started the state's oldest argument. The Erie Canal made it the nation's gateway before Ellis Island processed the millions who walked through that gate, and Wall Street has been staging booms and busts on the same ground ever since Broadway first turned its lights on. Competitive, inventive, and never finished rebuilding itself, New York runs the argument between its financial engine and its immigrant conscience in full public view.
 
 ## Company
 
