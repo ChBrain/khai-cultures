@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[Islaamka](position_islaamka.md)
+[Islaamka](position_culture_islaamka.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Fannaanad iyo codkar caan ah oo heesteeda ay isku dhafan tahay dhaqankii Soomaal
 
 ## Action
 
-Xilligii [farta 1972 iyo Ummadda Abwaannada](plot_04_farta.md) wuxuu codkeeda iyo heesteeda muujiyeen [Islaamka](position_islaamka.md) iyo dhaqanka isku dhafan ee dadka Soomaaliyeed, isagoo eraygii iyo laxankii reerka adduunka u qaaday. Wuxuu sii daayey in fanka Soomaaliyeed yahay mid xambaarsan diin, sharaf iyo dareen qoto dheer.
+Xilligii [farta 1972 iyo Ummadda Abwaannada](plot_04_farta.md) wuxuu codkeeda iyo heesteeda muujiyeen [Islaamka](position_culture_islaamka.md) iyo dhaqanka isku dhafan ee dadka Soomaaliyeed, isagoo eraygii iyo laxankii reerka adduunka u qaaday. Wuxuu sii daayey in fanka Soomaaliyeed yahay mid xambaarsan diin, sharaf iyo dareen qoto dheer.
 
 ## Shadow
 

@@ -46,6 +46,7 @@ A land of cultural preservation and historical architecture, defined by the Lowc
 
 - [plantation resistance](position_plantation_resistance.md)
 - [historic stewardship](position_historic_stewardship.md)
+- [the Palmetto State](position_culture_palmetto_state.md)
 - [South Carolina English](position_language_en_us_sc.md)
 
 **Pieces**

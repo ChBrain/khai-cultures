@@ -34,4 +34,4 @@ It is driven by the deep South African truth that things are best put right betw
 
 ## Echo
 
-The braai makes audible what drives [ubuntu](position_ubuntu.md): that a person is a person through other people, and that what is broken between people is mended face to face, around a shared fire. To this fire [the Gogo](persona_gogo.md) brings her pot and feeds whoever comes, hers or not, the many made one around the coals.
+The braai makes audible what drives [ubuntu](position_culture_ubuntu.md): that a person is a person through other people, and that what is broken between people is mended face to face, around a shared fire. To this fire [the Gogo](persona_gogo.md) brings her pot and feeds whoever comes, hers or not, the many made one around the coals.

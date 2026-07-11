@@ -47,9 +47,10 @@ Majhen slovanski narod, ki je stoletja živel pod nemškimi, habsburškimi gospo
 
 **Positions**
 
-- [slovenščina](position_language_sl.md)
 - [sončna stran Alp](position_soncna_stran_alp.md)
 - [pridnost](position_pridnost.md)
+- [slovenskost](position_culture_slovenskost.md)
+- [slovenščina](position_language_sl.md)
 
 **Pieces**
 

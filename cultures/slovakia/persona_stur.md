@@ -27,7 +27,7 @@ Učenec, novinár a poslanec uhorského snemu, vodca štúrovcov, ktorý dal ná
 
 ## Action
 
-V [Štúrovi a slovenčine](plot_02_stur_slovencina.md) uzákoní spisovnú reč a prebudí národ proti pomaďarčovaniu. Tým, že [jazyku](position_language_sk.md) dá písmo, dá [mladému národu](position_mlady_narod.md) prvý dôkaz, že je svojbytný, aj keď nemá štát.
+V [Štúrovi a slovenčine](plot_02_stur_slovencina.md) uzákoní spisovnú reč a prebudí národ proti pomaďarčovaniu. Tým, že [jazyku](position_language_sk.md) dá písmo, dá [mladému národu](position_culture_mlady_narod.md) prvý dôkaz, že je svojbytný, aj keď nemá štát.
 
 ## Shadow
 

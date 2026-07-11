@@ -48,7 +48,7 @@ Mladý národ, ktorý takmer celé dejiny patril iným: tisíc rokov hornou čas
 **Positions**
 
 - [slovenčina](position_language_sk.md)
-- [mladý národ](position_mlady_narod.md)
+- [mladý národ](position_culture_mlady_narod.md)
 - [viera](position_viera.md)
 
 **Pieces**
@@ -68,7 +68,7 @@ Mladý národ, ktorý takmer celé dejiny patril iným: tisíc rokov hornou čas
 
 **[Plot 1: Jánošík](plot_01_janosik.md)**
 
-Roku 1713 obesia v Liptove zbojníka [Juraja Jánošíka](persona_janosik.md); z chlapca z hôr sa stane večný symbol [malého ľudu](position_mlady_narod.md), čo sa vzoprel pánom, a hrdina národa, ktorý ešte nemal ani reč, ani štát.
+Roku 1713 obesia v Liptove zbojníka [Juraja Jánošíka](persona_janosik.md); z chlapca z hôr sa stane večný symbol [malého ľudu](position_culture_mlady_narod.md), čo sa vzoprel pánom, a hrdina národa, ktorý ešte nemal ani reč, ani štát.
 
 **[Plot 2: Štúr a slovenčina](plot_02_stur_slovencina.md)**
 

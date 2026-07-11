@@ -26,11 +26,11 @@ Xilliyo hore, markii Islaamku ku faafay gobolka, xeebta Soomaaliyeed- oo u dhow 
 
 ## Action
 
-Islaamku wuxuu si tartiib ah ugu faafay xeebta iyo gudaha, oo magaalooyinka sida [Saylac](place_saylac.md) ay noqdeen xaruumo cilmi diineed iyo ganacsi. Qiyaastii kun sano ayuu Islaamku noqday aasaaska nolosha, sharciga iyo akhlaaqda dadka Soomaaliyeed. Wuxuu isku xidhay qabaa'ilkii kala duwanaa, isagoo siiyey luqad guud oo qiyam iyo akhlaaq ah, oo [Islaamku](position_islaamka.md) wuxuu noqday xididka aan la goyn karin ee dadka.
+Islaamku wuxuu si tartiib ah ugu faafay xeebta iyo gudaha, oo magaalooyinka sida [Saylac](place_saylac.md) ay noqdeen xaruumo cilmi diineed iyo ganacsi. Qiyaastii kun sano ayuu Islaamku noqday aasaaska nolosha, sharciga iyo akhlaaqda dadka Soomaaliyeed. Wuxuu isku xidhay qabaa'ilkii kala duwanaa, isagoo siiyey luqad guud oo qiyam iyo akhlaaq ah, oo [Islaamku](position_culture_islaamka.md) wuxuu noqday xididka aan la goyn karin ee dadka.
 
 ## Stage
 
-- [Islaamka](position_islaamka.md): diinta oo noqotay aasaaska nolosha, sharciga iyo akhlaaqda.
+- [Islaamka](position_culture_islaamka.md): diinta oo noqotay aasaaska nolosha, sharciga iyo akhlaaqda.
 - [Saylac](place_saylac.md): magaaladii xeebta ee noqotay xarun cilmi diineed iyo ganacsi.
 - [Maryam Mursal](persona_maryam.md): codkar fankeeda ka muuqato diin iyo dhaqan isku dhafan.
 

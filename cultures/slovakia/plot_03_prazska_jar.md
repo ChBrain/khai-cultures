@@ -31,7 +31,7 @@ Nádej trvá pár mesiacov. V auguste 1968 vtrhnú do krajiny vojská Varšavske
 ## Stage
 
 - [Alexander Dubček](persona_dubcek.md): Slovák, ktorý vedie pokus o vlastnú cestu.
-- [mladý národ](position_mlady_narod.md): národ, ktorému aj z porážky zostane krok k rovnosti.
+- [mladý národ](position_culture_mlady_narod.md): národ, ktorému aj z porážky zostane krok k rovnosti.
 
 ## Tension
 

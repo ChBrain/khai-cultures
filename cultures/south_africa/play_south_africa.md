@@ -47,7 +47,7 @@ This is the place where humankind itself got going, the Cradle on the highveld w
 
 **Positions**
 
-- [ubuntu](position_ubuntu.md)
+- [ubuntu](position_culture_ubuntu.md)
 - [the Rainbow Nation](position_rainbow_nation.md)
 - [reconciliation](position_reconciliation.md)
 - [South African English](position_language_en_za.md)
@@ -69,7 +69,7 @@ This is the place where humankind itself got going, the Cradle on the highveld w
 
 **[Plot 1: the Cradle of Humankind](plot_01_cradle.md)**
 
-Long before nations, the highveld holds [the Cradle of Humankind](place_cradle.md) where our oldest grandmothers walked, and the first San and Khoe peoples read the land and the stars, the beginning of the long human story that gives [ubuntu](position_ubuntu.md) its deepest root.
+Long before nations, the highveld holds [the Cradle of Humankind](place_cradle.md) where our oldest grandmothers walked, and the first San and Khoe peoples read the land and the stars, the beginning of the long human story that gives [ubuntu](position_culture_ubuntu.md) its deepest root.
 
 **[Plot 2: the meeting of peoples](plot_02_meeting_of_peoples.md)**
 
@@ -85,4 +85,4 @@ After twenty-seven years [Nelson Mandela](persona_mandela.md) walks free and cho
 
 ## Stakes
 
-Whether a nation of many peoples and eleven tongues, carrying the wounds of an era overcome, can keep choosing [ubuntu](position_ubuntu.md) over division and hold the [Rainbow Nation](position_rainbow_nation.md) together in real and equal dignity, can keep [reconciliation](position_reconciliation.md) a living thing and not just a fine word said once, can close the gaps still left between the peoples and make the one home truly a home for every one of us, or whether the many it is made of pull it back apart.
+Whether a nation of many peoples and eleven tongues, carrying the wounds of an era overcome, can keep choosing [ubuntu](position_culture_ubuntu.md) over division and hold the [Rainbow Nation](position_rainbow_nation.md) together in real and equal dignity, can keep [reconciliation](position_reconciliation.md) a living thing and not just a fine word said once, can close the gaps still left between the peoples and make the one home truly a home for every one of us, or whether the many it is made of pull it back apart.

@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[ubuntu](position_ubuntu.md)
+[ubuntu](position_culture_ubuntu.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ The grandmother who holds the whole family on her back, the gogo, the makhulu, t
 
 ## Action
 
-In [the Cradle of Humankind](plot_01_cradle.md) she stands at the far end of the oldest human story there is, the keeper of [ubuntu](position_ubuntu.md) carried down from the first grandmothers who walked that ground, the one who feeds and holds and raises the next of us. She carries the deepest truth of the country forward by living it plainly, holding the family and the clan and the stranger's child all in one pair of hands.
+In [the Cradle of Humankind](plot_01_cradle.md) she stands at the far end of the oldest human story there is, the keeper of [ubuntu](position_culture_ubuntu.md) carried down from the first grandmothers who walked that ground, the one who feeds and holds and raises the next of us. She carries the deepest truth of the country forward by living it plainly, holding the family and the clan and the stranger's child all in one pair of hands.
 
 ## Shadow
 
