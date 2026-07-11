@@ -25,11 +25,11 @@ En 1890, miles de gallegos zarpan de los puertos de Vigo y A Coruña hacia Bueno
 
 ## Action
 
-La emigración masiva marca el carácter familiar, reforzando la [identidad gallega](position_galician_identity.md). El [pote](piece_pote.md) representa las comidas familiares previas a las partidas. Xoán despide a sus hermanos en el puerto, mientras Rosalía ayuda a redactar cartas de ultramar para las familias que se quedan en las parroquias.
+La emigración masiva marca el carácter familiar, reforzando la [identidad gallega](position_culture_identidad_gallega.md). El [pote](piece_pote.md) representa las comidas familiares previas a las partidas. Xoán despide a sus hermanos en el puerto, mientras Rosalía ayuda a redactar cartas de ultramar para las familias que se quedan en las parroquias.
 
 ## Stage
 
-- [la identidad gallega](position_galician_identity.md) : la morriña, las cartas familiares de ultramar y la solidaridad comunitaria.
+- [la identidad gallega](position_culture_identidad_gallega.md) : la morriña, las cartas familiares de ultramar y la solidaridad comunitaria.
 - [el pote](piece_pote.md) : la olla tradicional de tres pies donde se cocina el caldo gallego.
 - [las Rías Baixas](place_rias_baixas.md) : las ensenadas de pescadores desde donde se avistan los barcos de vapor de emigrantes.
 

@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [მართლმადიდებლობა](position_orthodox_faith.md)
+- [მართლმადიდებლობა](position_culture_martlmadidebloba.md)
 - [სუფრა და სტუმარი](position_the_supra.md)
 - [ენა და ანბანი](position_language_ka.md)
 
@@ -68,7 +68,7 @@ stamp:
 
 **[Plot 1: ნათლისღება (IV საუკუნე)](plot_01_baptism.md)**
 
-მეოთხე საუკუნეში [წმინდა ნინო](persona_nino.md) მცხეთაში მოაქცევს ქართლის სამეფოს, და [მართლმადიდებლობა](position_orthodox_faith.md) ხდება ქვეყნის საფუძველი, რომელზეც აიგება [მცხეთა](place_mtskheta.md) და მისი ტაძარი.
+მეოთხე საუკუნეში [წმინდა ნინო](persona_nino.md) მცხეთაში მოაქცევს ქართლის სამეფოს, და [მართლმადიდებლობა](position_culture_martlmadidebloba.md) ხდება ქვეყნის საფუძველი, რომელზეც აიგება [მცხეთა](place_mtskheta.md) და მისი ტაძარი.
 
 **[Plot 2: ოქროს ხანა](plot_02_golden_age.md)**
 
