@@ -41,6 +41,17 @@ minimums:
   impact of the tongue on whoever holds it** - what it lets you express, what its
   grammar forces you to mark, what it cannot say, and how it shapes the mind that
   thinks in it - written of the office, never of a named holder.
+  Every culture also owns **exactly one culture-position**, named
+  `position_culture_<slug>.md`, the culture-as-a-whole driving whoever is raised
+  in it - the same `Has / Orders / Loses / Drives` game as a language position, but
+  the culture's story, not the tongue's. A persona carries both at once: "I speak
+  German" (`position_language_de_de`) and "I am German"
+  (`position_culture_deutsche_kultur`). It is written in the culture's own tongue,
+  is persona-free by the same one-way rule, and every persona of the culture holds
+  it; a persona of mixed heritage may also hold another culture's culture-position,
+  linked cross-culture by path, as a foreign tongue links its variety. `Has` is
+  what belonging gives you, `Orders` what the culture demands you observe, `Loses`
+  where it frays, `Drives` how being raised in it shapes you.
 - `place_` — a place (the capital at minimum): one or more.
 - `process_` — a cultural practice: one or more.
 - `piece_` — a culture-defining artifact: one or more.
@@ -92,16 +103,16 @@ What the house refuses, and the laws it holds every culture to.
 
 Each khai type carries a fixed cultural meaning. The mapping is the contract.
 
-| khai type   | In a culture                                      | Minimum                                                                  |
-| ----------- | ------------------------------------------------- | ------------------------------------------------------------------------ |
-| `play_`     | the culture itself (the anchor)                   | 1 (geo lives in `geo.json`, not frontmatter — see below)                 |
-| `pitch_`    | the Hofstede layer (written from the data)        | 1                                                                        |
-| `plot_`     | a historical event — history is the plot line     | 3 or more; each casts the elements it needs (any khai type)              |
-| `persona_`  | the people                                        | 2 defining (generational tension) + the historic personas the plots cast |
-| `position_` | a language position (a role the language encodes) | 1 or more                                                                |
-| `place_`    | a place (the capital at minimum)                  | 1 or more                                                                |
-| `process_`  | a cultural practice                               | 1 or more                                                                |
-| `piece_`    | a culture-defining artifact                       | 1 or more                                                                |
+| khai type   | In a culture                                                | Minimum                                                                  |
+| ----------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ |
+| `play_`     | the culture itself (the anchor)                             | 1 (geo lives in `geo.json`, not frontmatter — see below)                 |
+| `pitch_`    | the Hofstede layer (written from the data)                  | 1                                                                        |
+| `plot_`     | a historical event — history is the plot line               | 3 or more; each casts the elements it needs (any khai type)              |
+| `persona_`  | the people                                                  | 2 defining (generational tension) + the historic personas the plots cast |
+| `position_` | language positions (one per variety) + one culture-position | 2 or more (>=1 `position_language_`, exactly 1 `position_culture_`)      |
+| `place_`    | a place (the capital at minimum)                            | 1 or more                                                                |
+| `process_`  | a cultural practice                                         | 1 or more                                                                |
+| `piece_`    | a culture-defining artifact                                 | 1 or more                                                                |
 
 Per culture, beyond the khai instances: a `README.md` (the culture's
 front-of-house identity and its Estate link back to this house), a

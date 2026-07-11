@@ -175,6 +175,36 @@ it stays the locale variety. So a dialect is a single owned position, not a per-
 copy — the same ownership rule as any other variety, resolved to whichever region
 holds it dominant.
 
+### 2.7 Culture as a position
+
+A language variety is not the only thing that drives a persona; the **culture**
+does too. So alongside its language positions, every culture owns **exactly one
+culture-position**, named `position_culture_<slug>.md`, the culture-as-a-whole
+driving whoever is raised in it. It is the same `Has / Orders / Loses / Drives`
+frame as a language position (§2.5), read the same way - the impact on whoever
+holds it, written of the office and never of a named holder - but the story is the
+culture's, not the tongue's. A persona holds **both at once**: the language ("I
+speak German", `position_language_de_de`) and the culture ("I am German",
+`position_culture_deutsche_kultur`).
+
+The wiring mirrors the language layer in both tiers. **Own culture**: every persona
+native to a culture holds that culture's position, the way Pass A wired every
+persona to its own language-position; each holds it in that persona's own tongue.
+**Foreign culture**: a persona of mixed or foreign heritage also holds the other
+culture's position, linked cross-culture by relative path
+(`../nigeria/position_culture_naija.md`), the exact parallel to Pass B's
+foreign-tongue links, chosen by the same heritage/context judgment. The four
+sections read: `Has` = what belonging gives you (the shared ground, the sense of
+"us"); `Orders` = what the culture demands you observe (its unwritten norm of
+conduct, hospitality, deference); `Loses` = where it frays (its fault-line, what it
+cedes to neighbours, the burden of its past); `Drives` = how being raised in it
+shapes the holder. Where a culture already fielded a single whole-culture anchor
+(an `ubuntu`, a `hunhu`, a national motto), that file is renamed to the convention
+and its holders repointed; where only narrower thematic value-positions existed, a
+new overarching culture-position is authored and links those as appositives. It is
+persona-free by the same one-way rule, and the orphan gate holds it to at least one
+holder.
+
 ## 3. Rollout
 
 - **Two passes (ordering is forced by the ownership rule).** A cross-culture
