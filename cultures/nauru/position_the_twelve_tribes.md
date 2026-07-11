@@ -1,16 +1,16 @@
 ---
 khai: position
 title: "the Twelve Tribes"
-declared: "eko oe aiwo"
-language: nau
+declared: "the Twelve Tribes"
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
-# Position: eko oe aiwo
+# Position: the Twelve Tribes
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Eb tomure aiwo n eb tongin n ekege eko eb me eo aiwo n Naoero: eb tomure me eb itsibwij me eb eko n eb tongin n ekege, eb me eo aen me eb eko n eb tongin n ekege engame eo aen eb star n eb flag. Eb me eo aiwo eko eb faith me eb custom me eb tomure, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tongin n ekege. Eb me eo aen itsibwij eko eb me eo aiwo eko eb tomure me eb eko, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb famili me eb tomure aiwo n eb tongin n ekege.
+The island held twelve tribes before any other authority claimed it, and their number is still carried on the national flag as a twelve pointed star. It carries faith and custom together, land right and standing decided by the same tribal order that has governed the island since before the phosphate, the administrations, or the war. Frigatebird catching belongs to this order too, a skill a tribe's standing is measured by as much as any title is.
 
 ## Orders
 
-Eb me eo aiwo eko eb me eo aen me eb tongin n ekege eko eb me eo aen itsibwij; eb me eo aen me eb tomure me eb eko n eb tongin n ekege eko eb me eo aiwo; ma eb fatongia n eb me eo aen itsibwij eko engame eb tomure me eb dorerin me eb faith me eb custom n eb tongin n ekege me eb me eo aiwo.
+It orders every islander into a tribe by birth, a standing that outranks whatever office or income a person holds outside it; it orders custom, not statute, to settle land and marriage between tribes; and it orders every member to carry custom, faith, and language together, since the twelve tribes never treated the three as separate.
 
 ## Loses
 
-Eb me eo aiwo eko eb me eo aen me eb tongin n ekege eko eb me eo aiwo eko engame eb me eo aen me eb tomure aiwo; ma eb me eo aiwo eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb dorerin me eb custom, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tomure n eb tongin n ekege.
+It has lost members to the deportation to Chuuk and to the epidemics and administrations that came before independence, and it loses ground, slowly, wherever custom and Nauruan itself go unpractised by a generation raised more in English than in either.
 
 ## Drives
 
-Eb mo'ui n te tia itsibwij, eb me eo aen me eb itsibwij me itsibwij me ekege eko eb tomure aiwo, ma n te eo, eb me eo aen me eb tomure me eb custom n eb tongin n ekege. Eb me eo aiwo eko Naoero eko engame eb tomure aiwo me eb faith me eb dorerin me eb me eo aen.
+The life of the frigatebird catcher, who trains and keeps a bird as a mark of standing, and of the elder, who keeps custom for the tribe, both drive this position. Nauruan culture carries this order of faith, language, and standing forward through everything that has happened to the island since.
