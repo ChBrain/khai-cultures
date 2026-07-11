@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Le pari que le pays se fait a lui-meme, au nom de [l'integrite](position_l_integrite.md) inscrite dans son propre nom : tenir debout par ses propres bras avant de tendre la main, valoir par ce qu'on est et non par ce qu'on a, et faire de la culture, [le cinema](position_le_cinema.md), le balafon, le bronze, l'autre or du pays, pendant que [la chefferie mossi](position_la_chefferie.md) garde la parole et le lien qui tiennent le tout.
+Le pari que le pays se fait a lui-meme, au nom de [l'integrite](position_culture_l_integrite.md) inscrite dans son propre nom : tenir debout par ses propres bras avant de tendre la main, valoir par ce qu'on est et non par ce qu'on a, et faire de la culture, [le cinema](position_le_cinema.md), le balafon, le bronze, l'autre or du pays, pendant que [la chefferie mossi](position_la_chefferie.md) garde la parole et le lien qui tiennent le tout.
 
 ## Owner
 

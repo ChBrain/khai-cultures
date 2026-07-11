@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-De schrijver die zijn volk leerde lezen: een man uit Antwerpen die de gewone Vlaming een verleden en een taal teruggaf om trots op te zijn. [Hij schrijft, leest en denkt](process_writing_mother_tongue.md) in zijn moedertaal, het [Vlaams](position_language_nl_be.md), en maakt er een taal van waarin een heel volk zich kan herkennen. Het Frans van de staat en de deftige stand [draagt hij als werktuig](process_speaking_carried.md), maar hij keert het de rug toe en geeft de gewone man zijn eigen taal op papier. Daar is de breuk: de macht en de letteren spreken Frans, en hij leert zijn volk lezen in de taal die men beneden zich achtte.
+De schrijver die zijn volk leerde lezen: een man uit Antwerpen die de gewone Vlaming een verleden en een taal teruggaf om trots op te zijn. [Hij schrijft, leest en denkt](process_writing_mother_tongue.md) in zijn moedertaal, het [Vlaams](position_language_nl_be.md), en maakt er een taal van waarin een heel volk zich kan herkennen. Het Frans van de staat en de deftige stand [draagt hij als werktuig](process_speaking_carried.md), maar hij keert het de rug toe en geeft de gewone man zijn eigen taal op papier. Daar is de breuk: de macht en de letteren spreken Frans, en hij leert zijn volk lezen in de taal die men beneden zich achtte. Hij behoort tot [de belgitude](position_culture_belgitude.md) als de schrijver die haar een van haar twee verhalen geeft, en zonder het te willen de taalgrens zaait die haar voor altijd zal tekenen.
 
 ## Action
 

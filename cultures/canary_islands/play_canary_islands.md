@@ -44,6 +44,7 @@ Un archipiélago volcánico, atlántico y transoceánico, puente de unión con l
 
 **Positions**
 
+- [la cultura canaria](position_culture_cultura_canaria.md)
 - [el aislamiento insular](position_island_isolation.md)
 - [la agricultura volcánica](position_volcanic_agriculture.md)
 - [el habla canaria](position_language_es_es_cn.md)

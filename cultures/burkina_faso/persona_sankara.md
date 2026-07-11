@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[l'integrite](position_l_integrite.md)
+[l'integrite](position_culture_l_integrite.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ L'homme qui, en 1984, donna au pays le nom qu'il porte aujourd'hui, Burkina Faso
 
 ## Action
 
-Dans [le pays des hommes integres](plot_03_burkina_faso.md) il porte [l'integrite](position_l_integrite.md) au coeur du projet national : rebaptisant la Haute-Volta en Burkina Faso, il fait du nom un serment et de l'austerite une fierte. En misant sur les propres bras du pays, il lui laisse une idee plus grande que ses moyens, et un nom a meriter chaque jour.
+Dans [le pays des hommes integres](plot_03_burkina_faso.md) il porte [l'integrite](position_culture_l_integrite.md) au coeur du projet national : rebaptisant la Haute-Volta en Burkina Faso, il fait du nom un serment et de l'austerite une fierte. En misant sur les propres bras du pays, il lui laisse une idee plus grande que ses moyens, et un nom a meriter chaque jour.
 
 ## Shadow
 

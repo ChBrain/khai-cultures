@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[Melayu Islam Beraja](position_melayu_islam_beraja.md)
+[Melayu Islam Beraja](position_culture_melayu_islam_beraja.md)
 
 ## Owner
 

@@ -47,7 +47,7 @@ Une terre placee tout au milieu du continent, la ou se croisent la foret equator
 
 **Positions**
 
-- [zo kwe zo](position_zo_kwe_zo.md)
+- [zo kwe zo](position_culture_zo_kwe_zo.md)
 - [le sango](position_le_sango.md)
 - [les peuples](position_les_peuples.md)
 - [le francais centrafricain](position_language_fr_cf.md)
@@ -77,7 +77,7 @@ Au fil des pirogues et des marches du fleuve, les langues se rencontrent a [Bang
 
 **[Plot 3: Boganda et le reve d'une nation](plot_03_boganda.md)**
 
-A l'heure de l'independance, [Barthelemy Boganda](persona_boganda.md) donne au pays une seule idee a tenir, [zo kwe zo](position_zo_kwe_zo.md), tout homme est un homme, et reve d'une nation ou nul n'est de trop.
+A l'heure de l'independance, [Barthelemy Boganda](persona_boganda.md) donne au pays une seule idee a tenir, [zo kwe zo](position_culture_zo_kwe_zo.md), tout homme est un homme, et reve d'une nation ou nul n'est de trop.
 
 **[Plot 4: la nation sango](plot_04_la_nation_sango.md)**
 

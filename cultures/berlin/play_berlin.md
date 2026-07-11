@@ -43,6 +43,7 @@ Eine Stadt, die durch eine Mauer zerrissen und nach deren Fall zum Symbol der Fr
 
 **Positions**
 
+- [die Berliner Kultur](position_culture_berliner_kultur.md)
 - [die Freiheit](position_freiheit.md)
 - [die Mauer](position_mauer.md)
 - [die Kreativität](position_kreativitaet.md)

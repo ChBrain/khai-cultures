@@ -47,7 +47,7 @@ Une terre pauvre en pluie mais riche en tenue, ou l'on tient debout par la digni
 
 **Positions**
 
-- [l'integrite](position_l_integrite.md)
+- [l'integrite](position_culture_l_integrite.md)
 - [la chefferie mossi](position_la_chefferie.md)
 - [le cinema](position_le_cinema.md)
 - [le français burkinabè](position_language_fr_bf.md)
@@ -77,7 +77,7 @@ Le pays est pris dans la colonie de la Haute-Volta, decoupee, defaite, puis refa
 
 **[Plot 3: le pays des hommes integres](plot_03_burkina_faso.md)**
 
-En 1984 le pays se rebaptise lui-meme Burkina Faso, le pays des hommes integres ; [Thomas Sankara](persona_sankara.md) porte [l'integrite](position_l_integrite.md) et l'idee de compter d'abord sur ses propres bras, et le nom devient un serment que la nation se fait a elle-meme.
+En 1984 le pays se rebaptise lui-meme Burkina Faso, le pays des hommes integres ; [Thomas Sankara](persona_sankara.md) porte [l'integrite](position_culture_l_integrite.md) et l'idee de compter d'abord sur ses propres bras, et le nom devient un serment que la nation se fait a elle-meme.
 
 **[Plot 4: Ouagadougou, capitale du cinema](plot_04_fespaco.md)**
 

@@ -45,7 +45,7 @@ Una tierra mercantil y de vanguardia artística, definida por la costa mediterr�
 **Positions**
 
 - [el modernismo](position_modernisme_art.md)
-- [la identidad catalana](position_catalan_identity.md)
+- [la identidad catalana](position_culture_identidad_catalana.md)
 - [el español de Cataluña](position_language_es_es_ct.md)
 - [el català](position_language_ca.md)
 

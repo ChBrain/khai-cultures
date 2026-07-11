@@ -26,12 +26,12 @@ Independant depuis 1960 sous le nom herite de Haute-Volta, le jeune pays cherche
 
 ## Action
 
-En 1984, le pays se rebaptise lui-meme Burkina Faso, le pays des hommes integres, un nom forge de deux de ses langues, le moore et le dioula, pour qu'aucune ne l'emporte. [Thomas Sankara](persona_sankara.md) reste dans la memoire nationale la figure de ce tournant et de [l'integrite](position_l_integrite.md) : l'idee qu'un pays pauvre doit compter d'abord sur ses propres bras, manger ce qu'il cultive, s'habiller de ce qu'il tisse, et tenir sa tete haute sans mendier. L'austerite devient une fierte, le travail des bras un honneur, et le nom un serment que la nation se fait a elle-meme. Burkina Faso choisit de se mesurer non a ce qu'il possede mais a ce qu'il vaut.
+En 1984, le pays se rebaptise lui-meme Burkina Faso, le pays des hommes integres, un nom forge de deux de ses langues, le moore et le dioula, pour qu'aucune ne l'emporte. [Thomas Sankara](persona_sankara.md) reste dans la memoire nationale la figure de ce tournant et de [l'integrite](position_culture_l_integrite.md) : l'idee qu'un pays pauvre doit compter d'abord sur ses propres bras, manger ce qu'il cultive, s'habiller de ce qu'il tisse, et tenir sa tete haute sans mendier. L'austerite devient une fierte, le travail des bras un honneur, et le nom un serment que la nation se fait a elle-meme. Burkina Faso choisit de se mesurer non a ce qu'il possede mais a ce qu'il vaut.
 
 ## Stage
 
 - [Thomas Sankara](persona_sankara.md): la figure de memoire qui donne au pays son nom et porte l'idee de compter sur ses propres bras.
-- [l'integrite](position_l_integrite.md): l'idee inscrite dans le nom meme, le serment que la nation se fait.
+- [l'integrite](position_culture_l_integrite.md): l'idee inscrite dans le nom meme, le serment que la nation se fait.
 - [Ouagadougou](place_ouagadougou.md): la capitale d'ou part le nouveau nom et le projet de self-reliance.
 
 ## Tension

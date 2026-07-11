@@ -26,13 +26,13 @@ Mo lekgolong la bo masome a mabedi, dinaga tsa Aforika di simolola go batla boip
 
 ## Action
 
-Ka 1966 [Seretse Khama](persona_seretse.md) a gogela naga kwa boipuso kwa [Gaborone](place_gaborone.md), motse-mogolo o mošwa o o agilweng go tswa fela fa go neng go se na sepe. A gogela ka [botho](position_botho.md) le ka tlotlo, a sa busolosetse bosula ka bosula, mme a aga kagiso le ba a neng a tshwanetse go nna le bone gaufi. Naga ya simolola loeto lwa yona e le e e iketlileng, e e tshegeditseng kgotla le molao, e bo e amogela botlhe ba yona ka botho. Tsholofelo ya nna kwa godimo le fa khumo e ne e le kwa tlase.
+Ka 1966 [Seretse Khama](persona_seretse.md) a gogela naga kwa boipuso kwa [Gaborone](place_gaborone.md), motse-mogolo o mošwa o o agilweng go tswa fela fa go neng go se na sepe. A gogela ka [botho](position_culture_botho.md) le ka tlotlo, a sa busolosetse bosula ka bosula, mme a aga kagiso le ba a neng a tshwanetse go nna le bone gaufi. Naga ya simolola loeto lwa yona e le e e iketlileng, e e tshegeditseng kgotla le molao, e bo e amogela botlhe ba yona ka botho. Tsholofelo ya nna kwa godimo le fa khumo e ne e le kwa tlase.
 
 ## Stage
 
 - [Seretse Khama](persona_seretse.md): moeteledipele wa ntlha yo o gogetseng naga kwa boipuso ka botho le ka tlotlo.
 - [Gaborone](place_gaborone.md): motse-mogolo o mošwa o boipuso bo neng jwa simolola teng.
-- [botho](position_botho.md): mošwa o naga e o gogileng ka one kwa kagisong le kwa go amogeleng botlhe.
+- [botho](position_culture_botho.md): mošwa o naga e o gogileng ka one kwa kagisong le kwa go amogeleng botlhe.
 
 ## Tension
 

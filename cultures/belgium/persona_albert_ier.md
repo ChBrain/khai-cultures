@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Le Roi-Chevalier, souverain d'un pays divisé qui choisit de rester avec son armée plutôt que de filer. Droit, réservé, courageux sans panache, il se veut le roi de tous ses sujets, des deux langues, une fois pour toutes. [Il parle, écoute et pense](process_speaking_mother_tongue.md) en [français](position_language_fr_be.md), la langue de la cour et de l'État dont il hérite ; mais sur le front, le néerlandais de ses soldats flamands, il l'[apprend et le porte comme un outil](process_speaking_carried.md) pour s'adresser à eux dans leur langue. Là est la faille, au bord même de la langue : le roi francophone doit être aussi le roi des Flamands, et tenir un pays dont il ne peut parler les deux langues d'une même bouche.
+Le Roi-Chevalier, souverain d'un pays divisé qui choisit de rester avec son armée plutôt que de filer. Droit, réservé, courageux sans panache, il se veut le roi de tous ses sujets, des deux langues, une fois pour toutes. [Il parle, écoute et pense](process_speaking_mother_tongue.md) en [français](position_language_fr_be.md), la langue de la cour et de l'État dont il hérite ; mais sur le front, le néerlandais de ses soldats flamands, il l'[apprend et le porte comme un outil](process_speaking_carried.md) pour s'adresser à eux dans leur langue. Là est la faille, au bord même de la langue : le roi francophone doit être aussi le roi des Flamands, et tenir un pays dont il ne peut parler les deux langues d'une même bouche. Il appartient à [la belgitude](position_culture_belgitude.md) comme le roi qui tente, seul, de la porter à lui tout entier, au-dessus des deux langues.
 
 ## Action
 

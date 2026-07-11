@@ -44,6 +44,7 @@ Una inmensa llanura de secano, molinos de viento y horizontes infinitos, cuna de
 
 **Positions**
 
+- [la cultura manchega](position_culture_cultura_manchega.md)
 - [la llanura](position_llanura_identity.md)
 - [el derecho de pozos](position_well_rights.md)
 - [el espanol manchego](position_language_es_es_cm.md)

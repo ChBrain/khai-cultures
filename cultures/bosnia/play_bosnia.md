@@ -47,6 +47,7 @@ Zemlja na granici svjetova, most na kojem su se vjekovima susretali Istok i Zapa
 
 **Positions**
 
+- [bosanstvo](position_culture_bosanstvo.md)
 - [komšiluk](position_komsiluk.md)
 - [sevdah](position_sevdah.md)
 - [ćuprija](position_cuprija.md)

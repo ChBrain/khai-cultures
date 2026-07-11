@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[zo kwe zo](position_zo_kwe_zo.md)
+[zo kwe zo](position_culture_zo_kwe_zo.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Enfant orphelin recueilli par des missionnaires, devenu pretre puis homme public
 
 ## Action
 
-Dans [Boganda et le reve d'une nation](plot_03_boganda.md) il fonde [zo kwe zo](position_zo_kwe_zo.md), tout homme est un homme, et donne au pays une seule idee a tenir, par-dessus la diversite des peuples et la distance des villages. En posant cette parole comme creed sobre de la nation, il laisse a la Centrafrique une mesure a laquelle elle se jugera toujours, et une dette qu'elle passera son histoire a vouloir payer.
+Dans [Boganda et le reve d'une nation](plot_03_boganda.md) il fonde [zo kwe zo](position_culture_zo_kwe_zo.md), tout homme est un homme, et donne au pays une seule idee a tenir, par-dessus la diversite des peuples et la distance des villages. En posant cette parole comme creed sobre de la nation, il laisse a la Centrafrique une mesure a laquelle elle se jugera toujours, et une dette qu'elle passera son histoire a vouloir payer.
 
 ## Shadow
 

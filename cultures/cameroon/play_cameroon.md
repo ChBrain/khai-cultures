@@ -47,7 +47,7 @@ On dit que le Cameroun, c'est l'Afrique en miniature, et ce n'est pas un slogan 
 
 **Positions**
 
-- [l'Afrique en miniature](position_l_afrique_en_miniature.md)
+- [l'Afrique en miniature](position_culture_l_afrique_en_miniature.md)
 - [le bilinguisme](position_le_bilinguisme.md)
 - [la chefferie](position_la_chefferie.md)
 - [le francais du Cameroun](position_language_fr_cm.md)
@@ -77,7 +77,7 @@ Le pays prend le nom que les etrangers donnent a sa riviere de crevettes, passe 
 
 **[Plot 3: l'independance et la reunification](plot_03_la_reunification.md)**
 
-Le Cameroun se leve et reunit ses deux territoires en un seul pays, francophone et anglophone tenus a egale dignite, et [l'Afrique en miniature](position_l_afrique_en_miniature.md) se fait nation.
+Le Cameroun se leve et reunit ses deux territoires en un seul pays, francophone et anglophone tenus a egale dignite, et [l'Afrique en miniature](position_culture_l_afrique_en_miniature.md) se fait nation.
 
 **[Plot 4: les Lions Indomptables](plot_04_les_lions.md)**
 

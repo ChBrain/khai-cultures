@@ -47,6 +47,7 @@ Uma terra que já vinha abrigando centenas de povos indígenas quando os portugu
 
 **Positions**
 
+- [a brasilidade](position_culture_brasilidade.md)
 - [a miscigenação](position_a_miscigenacao.md)
 - [o jeitinho](position_o_jeitinho.md)
 - [o país do futuro](position_o_pais_do_futuro.md)

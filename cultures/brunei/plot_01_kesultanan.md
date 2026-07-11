@@ -31,7 +31,7 @@ Pada sekitar kurun ke empat belas dan ke lima belas kerajaan di muara ini memelu
 ## Stage
 
 - [tukang sampan Kampong Ayer](persona_tukang_sampan.md): rakyat air yang sejak mula menjadi tulang belakang negeri di muara sungai.
-- [Melayu Islam Beraja](position_melayu_islam_beraja.md): tiga sendi yang mula mengakar tatkala kerajaan memeluk Islam di bawah seorang raja.
+- [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md): tiga sendi yang mula mengakar tatkala kerajaan memeluk Islam di bawah seorang raja.
 - [Kampong Ayer](place_kampong_ayer.md): perkampungan di atas air tempat negeri lahir dan tumbuh.
 
 ## Tension

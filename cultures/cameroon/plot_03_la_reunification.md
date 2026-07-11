@@ -31,7 +31,7 @@ Le Cameroun accede a l'independance, puis les deux parties se retrouvent et choi
 ## Stage
 
 - [la buyam-sellam](persona_la_buyam_sellam.md): le pays qui marche au quotidien, faisant tenir l'economie et le vivre-ensemble par en bas.
-- [l'Afrique en miniature](position_l_afrique_en_miniature.md): tous les peuples et tous les paysages du continent rassembles en une seule nation.
+- [l'Afrique en miniature](position_culture_l_afrique_en_miniature.md): tous les peuples et tous les paysages du continent rassembles en une seule nation.
 - [Foumban](place_foumban.md): la vieille capitale royale devenue l'une des villes de la nation reunie.
 
 ## Tension

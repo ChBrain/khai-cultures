@@ -34,4 +34,4 @@ Il tient par la memoire vive d'un peuple qui n'ecrit pas sa musique mais la port
 
 ## Echo
 
-Le chant polyphonique fait entendre ce que [les peuples](position_les_peuples.md) du pays portent de plus ancien et de plus haut, et donne corps a [zo kwe zo](position_zo_kwe_zo.md): que la plus belle harmonie se fait de voix toutes egales, et que nul, pas meme au plus profond de la foret, n'est de trop. C'est cela que tient [le chanteur de la foret](persona_le_chanteur.md), au nom des gens des grands bois.
+Le chant polyphonique fait entendre ce que [les peuples](position_les_peuples.md) du pays portent de plus ancien et de plus haut, et donne corps a [zo kwe zo](position_culture_zo_kwe_zo.md): que la plus belle harmonie se fait de voix toutes egales, et que nul, pas meme au plus profond de la foret, n'est de trop. C'est cela que tient [le chanteur de la foret](persona_le_chanteur.md), au nom des gens des grands bois.

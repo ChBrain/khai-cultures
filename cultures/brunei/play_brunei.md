@@ -47,7 +47,7 @@ Sebuah negeri yang lahir di muara sungai dan tidak pernah putus tampuk rajanya: 
 
 **Positions**
 
-- [Melayu Islam Beraja](position_melayu_islam_beraja.md)
+- [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md)
 - [Darussalam](position_darussalam.md)
 - [Kampong Ayer](position_kampong_ayer.md)
 - [bahasa Melayu Brunei](position_language_ms_bn.md)
@@ -69,7 +69,7 @@ Sebuah negeri yang lahir di muara sungai dan tidak pernah putus tampuk rajanya: 
 
 **[Plot 1: berdirinya Kesultanan](plot_01_kesultanan.md)**
 
-Di muara Sungai Brunei sebuah kesultanan berdiri dan memeluk Islam, lalu [Melayu Islam Beraja](position_melayu_islam_beraja.md) mula mengakar sebagai sendi negeri, dengan raja sebagai payung dan agama sebagai cahayanya.
+Di muara Sungai Brunei sebuah kesultanan berdiri dan memeluk Islam, lalu [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md) mula mengakar sebagai sendi negeri, dengan raja sebagai payung dan agama sebagai cahayanya.
 
 **[Plot 2: zaman kegemilangan](plot_02_kegemilangan.md)**
 
@@ -85,4 +85,4 @@ Pada tahun seribu sembilan ratus lapan puluh empat Brunei berdiri penuh sebagai 
 
 ## Stakes
 
-Sama ada sebuah negeri kecil yang rajanya tidak pernah putus, yang menjadikan agama, keluarga, dan adat sopan sebagai sendi hidupnya, dapat mengekalkan kedamaian dan warisannya, menjaga sungainya dan hutannya, serta meneruskan cara hidup [Melayu Islam Beraja](position_melayu_islam_beraja.md) yang menjadi jati dirinya, tatkala dunia yang luas mengetuk pintunya dan kemakmuran yang ada hari ini menuntut jalan yang baru untuk hari esok.
+Sama ada sebuah negeri kecil yang rajanya tidak pernah putus, yang menjadikan agama, keluarga, dan adat sopan sebagai sendi hidupnya, dapat mengekalkan kedamaian dan warisannya, menjaga sungainya dan hutannya, serta meneruskan cara hidup [Melayu Islam Beraja](position_culture_melayu_islam_beraja.md) yang menjadi jati dirinya, tatkala dunia yang luas mengetuk pintunya dan kemakmuran yang ada hari ini menuntut jalan yang baru untuk hari esok.
