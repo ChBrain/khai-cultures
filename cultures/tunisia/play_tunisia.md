@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الثقافة التونسية](position_culture_thaqafa_altunisiyya.md)
 - [الجسر](position_al_jusur.md)
 - [العلم والإيمان](position_al_ilm.md)
 - [الزيتون والبحر](position_al_zaytun.md)

@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [ความเป็นไทย](position_culture_khwam_pen_thai.md)
 - [พระพุทธศาสนา](position_phra_phutthasasana.md)
 - [น้ำใจ](position_nam_chai.md)
 - [เอกราช](position_ekkarat.md)

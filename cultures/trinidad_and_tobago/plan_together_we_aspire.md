@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-The open mandate the nation set itself in the words on its coat of arms: the standing work of holding the many peoples of [the callaloo nation](position_the_callaloo_nation.md) as one across the divisions the picong covers, of diversifying beyond the oil and gas of [the energy nation](plot_04_the_energy_nation.md) before they run dry, and of keeping the genius of [mas, pan and calypso](position_mas_pan_and_calypso.md) and [the West Indian mind](position_the_west_indian_mind.md) alive and fed where it was born.
+The open mandate the nation set itself in the words on its coat of arms: the standing work of holding the many peoples of [the callaloo nation](position_culture_the_callaloo_nation.md) as one across the divisions the picong covers, of diversifying beyond the oil and gas of [the energy nation](plot_04_the_energy_nation.md) before they run dry, and of keeping the genius of [mas, pan and calypso](position_mas_pan_and_calypso.md) and [the West Indian mind](position_the_west_indian_mind.md) alive and fed where it was born.
 
 ## Owner
 

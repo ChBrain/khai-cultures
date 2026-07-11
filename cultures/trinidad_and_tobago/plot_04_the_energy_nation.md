@@ -32,7 +32,7 @@ The oil-and-gas wealth remakes the islands - the roads, the schools, the boom ye
 
 - [V.S. Naipaul](persona_vs_naipaul.md): the laureate who writes the Indo-Trinidadian world into world letters and holds the present to the light.
 - [Tobago](place_tobago.md): the slower, greener counterweight to the oil-rich main island, the reef beside the rigs.
-- [the callaloo nation](position_the_callaloo_nation.md): the plural, cosmopolitan society the energy wealth feeds and the festivals keep.
+- [the callaloo nation](position_culture_the_callaloo_nation.md): the plural, cosmopolitan society the energy wealth feeds and the festivals keep.
 
 ## Tension
 

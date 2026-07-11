@@ -30,7 +30,7 @@ The British work the cane on the backs of the enslaved, and the cocoa rises besi
 
 ## Stage
 
-- [the callaloo nation](position_the_callaloo_nation.md): the plural society first set simmering here out of slavery, indenture, and all the world sent.
+- [the callaloo nation](position_culture_the_callaloo_nation.md): the plural society first set simmering here out of slavery, indenture, and all the world sent.
 - [Tobago](place_tobago.md): the old colonial island of the forts and the plantations, fought over by the empires and worked on cane.
 
 ## Tension

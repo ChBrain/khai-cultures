@@ -34,4 +34,4 @@ Buka husi presiza atu guarda lisan no atu pasa hatene ba jerasaun foun, no husi 
 
 ## Echo
 
-Tais nia hatais halo vizivel Timor nia dalan atu guarda lulik no atu pasa hatene husi liman ba liman, la husi papel. Feto ne'ebe mama oan-matan iha tais pasa nia foho nia memoria ba oin, hanesan [Beimalae](persona_beimalae.md) iha nia uma okos, ne'ebe husi nia liman [lulik](position_lulik.md) sai buat ne'ebe ema bele hare no kaer.
+Tais nia hatais halo vizivel Timor nia dalan atu guarda lulik no atu pasa hatene husi liman ba liman, la husi papel. Feto ne'ebe mama oan-matan iha tais pasa nia foho nia memoria ba oin, hanesan [Beimalae](persona_beimalae.md) iha nia uma okos, ne'ebe husi nia liman [lulik](position_culture_lulik.md) sai buat ne'ebe ema bele hare no kaer.

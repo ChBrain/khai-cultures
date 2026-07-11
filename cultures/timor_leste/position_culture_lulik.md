@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Kbiit husi lulik, ne'ebe katak buat sagradu, buat ne'ebe la bele kona arbiru. Lulik mak haket ne'ebe liga ema ho bei-ala, ho rai, no ho klan. Uma lulik mak nia fatin: sentru ba familia bo'ot, fatin ne'ebe guarda sasan sagradu no memoria husi ema mate sira. Lisan mai husi lulik no haruka oinsa moris ho malu, oinsa selu, oinsa respeita. Maski Igreja tama ona, lulik nafatin moris iha okos, no ema barak fiar nain rua iha tempu hanesan.
+Kbiit husi lulik, ne'ebe katak buat sagradu, buat ne'ebe la bele kona arbiru. Lulik mak haket ne'ebe liga ema ho bei-ala, ho rai, no ho klan. Uma lulik mak nia fatin: sentru ba familia bo'ot, fatin ne'ebe guarda sasan sagradu no memoria husi ema mate sira. Lisan mai husi lulik no haruka oinsa moris ho malu, oinsa selu, oinsa respeita. Maski Igreja tama ona, lulik nafatin moris iha okos, no ema barak fiar nain rua iha tempu hanesan. Husi lulik mos sa'e [lia-tetun](position_language_tet.md) nu'udar lian ne'ebe hamutuk ema hotu, no [dalan naruk ba ukun-rasik-an](position_dalan.md) ne'ebe povu liu ho honra atu sustenta haket ba rai ne'ebe lulik hatudu.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Rai bainhira lulik troka ba medo deit, ka bainhira nia uza atu hasai ema seluk h
 
 ## Drives
 
-Moris iha ema-Igreja ne'ebe hatene katak povu nia fiar tama hamutuk ho bei-ala nian, no iha ema ne'ebe hatais tais ho oan-matan ne'ebe mai husi bei-ala no hatudu lulik iha liras. Nia book Timor-Leste atu sustenta nia haket ba rai no klan maski mundu li'ur troka lais.
+Moris iha ema-Igreja ne'ebe hatene katak povu nia fiar tama hamutuk ho bei-ala nian, no iha ema ne'ebe hatais tais ho oan-matan ne'ebe mai husi bei-ala no hatudu lulik iha liras. Nia book Timor-Leste atu sustenta nia haket ba rai no klan maski mundu li'ur troka lais, no nia book povu tomak, husi lider to'o feto-bo'ot iha uma okos, atu lori istoria todan ho honra no atu hatutan lian rasik ba jerasaun foun.

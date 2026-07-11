@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[the callaloo nation](position_the_callaloo_nation.md)
+[the callaloo nation](position_culture_the_callaloo_nation.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ The Nobel laureate born into the Indo-Trinidadian world of the cane and the temp
 
 ## Action
 
-In [the Energy Nation](plot_04_the_energy_nation.md) he writes the Indo-Trinidadian world into world letters and holds the cosmopolitan present up to the cold light, the laureate of [the callaloo nation](position_the_callaloo_nation.md) who shows both its richness and its wounds. He makes the small twin islands the matter of great books and the world read the place through his unsparing eye.
+In [the Energy Nation](plot_04_the_energy_nation.md) he writes the Indo-Trinidadian world into world letters and holds the cosmopolitan present up to the cold light, the laureate of [the callaloo nation](position_culture_the_callaloo_nation.md) who shows both its richness and its wounds. He makes the small twin islands the matter of great books and the world read the place through his unsparing eye.
 
 ## Shadow
 

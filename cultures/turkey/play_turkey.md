@@ -47,6 +47,8 @@ Orta Asya bozkırından göçüp gelen bir halk: Türkler 1071'de Malazgirt'te A
 
 **Positions**
 
+- [Türklük](position_culture_turkluk.md)
+
 - [iki kıta](position_iki_kita.md)
 - [laiklik ve din](position_laiklik_din.md)
 - [Türk dili](position_language_tr_tr.md)

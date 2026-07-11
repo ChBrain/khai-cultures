@@ -34,4 +34,4 @@ Buka husi respeitu ba bei-ala no ba ema mate sira, no husi presiza atu sustenta 
 
 ## Echo
 
-Lisan nia serimonia halo vizivel Timor nia dalan atu sustenta haket ho bei-ala no entre klan. Ema ne'ebe mai ba serimonia hala'o haket ne'ebe halo sira sai povu ida, hanesan iha uma lulik ne'ebe [lulik](position_lulik.md) sai dalan no figura ba aldeia tomak.
+Lisan nia serimonia halo vizivel Timor nia dalan atu sustenta haket ho bei-ala no entre klan. Ema ne'ebe mai ba serimonia hala'o haket ne'ebe halo sira sai povu ida, hanesan iha uma lulik ne'ebe [lulik](position_culture_lulik.md) sai dalan no figura ba aldeia tomak.

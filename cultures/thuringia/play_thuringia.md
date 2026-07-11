@@ -43,6 +43,7 @@ Das grüne Herz Deutschlands, reich an dichten Wäldern und geschichtsträchtige
 
 **Positions**
 
+- [die thüringische Kultur](position_culture_thueringische_kultur.md)
 - [die geistige Tiefe](position_geistige_tiefe.md)
 - [der Optikstolz](position_optikstolz.md)
 - [die Waldliebe](position_waldliebe.md)
