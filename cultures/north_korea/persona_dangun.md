@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[우리 민족](position_uri_minjok.md)
+[우리 민족](position_culture_uri_minjok.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ type: real
 
 ## Action
 
-[옛 땅과 한 겨레](plot_01_ancient_land.md)에서 그는 [우리 민족](position_uri_minjok.md)의 첫머리에 서서, 같은 핏줄이 한 뿌리에서 비롯되었다는 마음을 겨레에게 남긴다. 그를 첫 조상으로 두는 이야기는, 어디에 살든 같은 겨레라는 든든함을 두고두고 떠받친다.
+[옛 땅과 한 겨레](plot_01_ancient_land.md)에서 그는 [우리 민족](position_culture_uri_minjok.md)의 첫머리에 서서, 같은 핏줄이 한 뿌리에서 비롯되었다는 마음을 겨레에게 남긴다. 그를 첫 조상으로 두는 이야기는, 어디에 살든 같은 겨레라는 든든함을 두고두고 떠받친다.
 
 ## Shadow
 

@@ -47,6 +47,7 @@ This is a land that did not begin in 1914 when the British joined the north and 
 
 **Positions**
 
+- [Naija](position_culture_naija.md)
 - [the peoples](position_the_peoples.md)
 - [the extended family](position_the_extended_family.md)
 - [faith](position_faith.md)

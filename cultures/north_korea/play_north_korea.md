@@ -47,7 +47,7 @@ stamp:
 
 **Positions**
 
-- [우리 민족](position_uri_minjok.md)
+- [우리 민족](position_culture_uri_minjok.md)
 - [단결](position_dangyeol.md)
 - [주체](position_juche.md)
 - [조선말](position_language_ko_kp.md)
@@ -69,11 +69,11 @@ stamp:
 
 **[Plot 1: 옛 땅과 한 겨레](plot_01_ancient_land.md)**
 
-아득한 옛날 [백두산](place_paektu.md) 자락에서 [단군](persona_dangun.md)이 첫 나라를 열었다고 겨레는 전하며, 뒷날 [을지문덕](persona_euljimundeok.md) 같은 이가 그 땅을 지켜, [우리 민족](position_uri_minjok.md)이 한 핏줄로 이어져 내려왔다.
+아득한 옛날 [백두산](place_paektu.md) 자락에서 [단군](persona_dangun.md)이 첫 나라를 열었다고 겨레는 전하며, 뒷날 [을지문덕](persona_euljimundeok.md) 같은 이가 그 땅을 지켜, [우리 민족](position_culture_uri_minjok.md)이 한 핏줄로 이어져 내려왔다.
 
 **[Plot 2: 한글](plot_02_hangeul.md)**
 
-세종 임금이 백성을 어여삐 여겨 [세종대왕](persona_sejong.md)으로서 글자를 지으니, 누구나 제 뜻을 적게 되어 같은 말과 같은 글이 [우리 민족](position_uri_minjok.md) 모두의 것이 되었다.
+세종 임금이 백성을 어여삐 여겨 [세종대왕](persona_sejong.md)으로서 글자를 지으니, 누구나 제 뜻을 적게 되어 같은 말과 같은 글이 [우리 민족](position_culture_uri_minjok.md) 모두의 것이 되었다.
 
 **[Plot 3: 근대와 분단](plot_03_division.md)**
 

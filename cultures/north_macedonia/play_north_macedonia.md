@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [македонството](position_culture_makedonstvo.md)
 - [македонскиот јазик](position_language_mk.md)
 - [спорот за името](position_sporot_za_imeto.md)
 - [Охрид](position_ohrid.md)
