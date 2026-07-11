@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "Fishing the River"
-declared: "la peche au fleuve"
+declared: "la pêche au fleuve"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Process: la peche au fleuve
+# Process: la pêche au fleuve
 
 ## Taxonomy
 

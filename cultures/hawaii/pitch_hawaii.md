@@ -21,7 +21,7 @@ The pitch of [Hawaii](play_hawaii.md). It tunes the welcoming, soulful, and coll
 
 ## Tenor
 
-A welcoming, soulful, and collaborative tone. The communication is narrative, conversational, and deeply respectful, integrating native Hawaiian concepts - such as _ʻohana_ (family), _aloha_ (respectful love), and _mālama_ (to care for) - with English prose. It is a voice of lineage and stewardship - prioritizing native navigation, hula storytelling, and forest conservation. This expressive language shapes both the community meetings and the cultural workshops, valuing relationship and respect for the land.
+Talk story first, business second - that's how it goes here. Conversation carries _ʻohana_ (family), _aloha_ (respectful love), and _mālama_ (to care for) right inside the English sentence, no translation needed for anyone raised on the islands. It's a voice of lineage and stewardship, at home equally in a community meeting deciding a shoreline's future and a hula workshop passing down a story. Respect for the land and the relationship comes first; the agenda item comes after.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the welcoming aloha lies a persistent tension between the dominant commerc
 
 ## Nerve
 
-The conviction that community solidarity, stewardship of the land (_ʻāina_), and the preservation of ancestral customs are the true anchors of a resilient society.
+It plays the note that a society holds steady on _ʻāina_ cared for, ʻohana kept close, and ancestral custom carried forward, not on anything money alone can buy.
 
 ## Echo
 
-The steady splash of a canoe paddle in calm ocean swells and the soft strum of a ukulele : an echo that is warm, moist, and rhythmic.
+A canoe paddle's steady splash through calm swells, a ukulele's soft strum underneath it - a sound warm, moist, and unhurried as the tide.

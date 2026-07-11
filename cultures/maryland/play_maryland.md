@@ -78,4 +78,4 @@ Maryland signs the first Chesapeake Bay Agreement, launching an interstate progr
 
 ## Stakes
 
-Whether an estuary state with expanding urban corridors can successfully manage agricultural and industrial runoff to rebuild its collapsing coastal oyster reefs.
+Whether an estuary state with growing urban corridors can get agricultural and industrial runoff under control in time to rebuild its collapsing oyster reefs.

@@ -2,7 +2,7 @@
 khai: play
 title: "Central African Republic"
 description: "A land of many peoples bound by Sango and the creed that every person is a person."
-declared: "Republique centrafricaine"
+declared: "République centrafricaine"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Play: Republique centrafricaine
+# Play: République centrafricaine
 
 ## Estate
 

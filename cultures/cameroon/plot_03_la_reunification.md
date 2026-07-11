@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "Independence and Reunification"
-declared: "l'independance et la reunification"
+declared: "l'indépendance et la réunification"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: l'independance et la reunification
+# Plot: l'indépendance et la réunification
 
 ## Taxonomy
 
@@ -30,9 +30,9 @@ Le Cameroun accède à l'indépendance, puis les deux parties se retrouvent et c
 
 ## Stage
 
-- [la buyam-sellam](persona_la_buyam_sellam.md): le pays qui marche au quotidien, faisant tenir l'economie et le vivre-ensemble par en bas.
-- [l'Afrique en miniature](position_culture_l_afrique_en_miniature.md): tous les peuples et tous les paysages du continent rassembles en une seule nation.
-- [Foumban](place_foumban.md): la vieille capitale royale devenue l'une des villes de la nation reunie.
+- [la buyam-sellam](persona_la_buyam_sellam.md): le pays qui marche au quotidien, faisant tenir l'économie et le vivre-ensemble par en bas.
+- [l'Afrique en miniature](position_culture_l_afrique_en_miniature.md): tous les peuples et tous les paysages du continent rassemblés en une seule nation.
+- [Foumban](place_foumban.md): la vieille capitale royale devenue l'une des villes de la nation réunie.
 
 ## Tension
 

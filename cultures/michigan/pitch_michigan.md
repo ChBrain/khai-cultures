@@ -21,7 +21,7 @@ The pitch of [Michigan](play_michigan.md). It tunes the collaborative, mechanica
 
 ## Tenor
 
-A collaborative, mechanical, and rustic tone. The communication is practical, direct, and work-oriented, blending engineering precision with informal, cabin-friendly idioms. It is a voice of manufacturing competence and outdoor retreat - prioritizing labor union collective action, automotive design, and seasonal camping. This structured language shapes both the assembly floor briefings and the bonfire circles, valuing teamwork and physical work.
+Line-shift pride talking, practical and direct, engineering precision sitting easy next to cabin-friendly idioms picked up deer season and lake season both. It is a voice of manufacturing competence and outdoor retreat - prioritizing labor union collective action, automotive design, and seasonal camping. The same plain, work-first habit of speech runs through the assembly floor briefings and the bonfire circles, valuing teamwork and physical work.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the cooperative work lies a persistent economic divide between the post-in
 
 ## Nerve
 
-The conviction that mechanical competence, union solidarity, and shared stewardship of the Great Lakes are the true anchors of a stable society.
+It plays the note of the line and the lake both: mechanical competence, union solidarity, and shared stewardship of the Great Lakes hold a stable society together.
 
 ## Echo
 
-The clank of an assembly line press and the lap of water on a gravel beach : an echo that is cold, metallic, and rustic.
+The clank of an assembly line press and the lap of water on a gravel beach - cold, metallic, rustic, and running on its own clock.

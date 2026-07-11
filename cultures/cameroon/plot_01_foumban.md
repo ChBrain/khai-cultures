@@ -30,9 +30,9 @@ Njoya veut garder par écrit ce que son peuple sait, et comme sa langue n'a pas 
 
 ## Stage
 
-- [le sultan Njoya](persona_njoya.md): le roi savant qui invente une ecriture pour sa langue et fait de sa cour un foyer de savoir.
-- [la chefferie](position_la_chefferie.md): l'autorite ancienne des palais, gardienne des coutumes et de la memoire du peuple.
-- [Foumban](place_foumban.md): la capitale bamoun, le palais et l'atelier ou nait l'ecriture.
+- [le sultan Njoya](persona_njoya.md): le roi savant qui invente une écriture pour sa langue et fait de sa cour un foyer de savoir.
+- [la chefferie](position_la_chefferie.md): l'autorité ancienne des palais, gardienne des coutumes et de la mémoire du peuple.
+- [Foumban](place_foumban.md): la capitale bamoun, le palais et l'atelier où naît l'écriture.
 
 ## Tension
 

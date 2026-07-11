@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "The Forest Singer"
-declared: "le chanteur de la foret"
+declared: "le chanteur de la forêt"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: archetype
 ---
 
-# Persona: le chanteur de la foret
+# Persona: le chanteur de la forêt
 
 ## Taxonomy
 

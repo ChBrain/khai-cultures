@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Central African French"
-declared: "le francais centrafricain"
+declared: "le français centrafricain"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: le francais centrafricain
+# Position: le français centrafricain
 
 ## Taxonomy
 
@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Le francais porte un genre grammatical arbitraire sur chaque nom, y compris les choses sans sexe (la table, le mur), un partage que rien dans l'objet lui-meme n'explique et qu'il faut apprendre par coeur. Il possede un subjonctif qui marque le doute, le souhait et l'ordre indirect avec des formes propres, et un passe simple, reserve a l'ecrit soigne, qui distingue le registre litteraire du recit parle de tous les jours.
+Le français porte un genre grammatical arbitraire sur chaque nom, y compris les choses sans sexe (la table, le mur), un partage que rien dans l'objet lui-même n'explique et qu'il faut apprendre par coeur. Il possède un subjonctif qui marque le doute, le souhait et l'ordre indirect avec des formes propres, et un passé simple, réservé à l'écrit soigné, qui distingue le registre littéraire du récit parlé de tous les jours.
 
 ## Orders
 

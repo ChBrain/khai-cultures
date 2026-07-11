@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "The Bamum Script"
-declared: "l'ecriture bamoun"
+declared: "l'écriture bamoun"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Piece: l'ecriture bamoun
+# Piece: l'écriture bamoun
 
 ## Taxonomy
 

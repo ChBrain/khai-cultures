@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "Boganda and the Dream of a Nation"
-declared: "Boganda et le reve d'une nation"
+declared: "Boganda et le rêve d'une nation"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: Boganda et le reve d'une nation
+# Plot: Boganda et le rêve d'une nation
 
 ## Taxonomy
 

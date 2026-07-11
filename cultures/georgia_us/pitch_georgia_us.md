@@ -33,4 +33,4 @@ It plays the note that a movement and a market rise from the same red clay: soli
 
 ## Echo
 
-The resonance of a choir singing in a brick church and the rustle of peach tree leaves in the breeze : an echo that is warm, rhythmic, and soulful.
+A choir's resonance inside a brick church, peach leaves rustling outside it - a sound warm, rhythmic, and unhurried, same as the state itself.

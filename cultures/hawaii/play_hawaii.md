@@ -23,7 +23,7 @@ Hawaii, the Aloha State in the Pacific Ocean region of the United States. ISO US
 
 ## Arc
 
-A land of oceanic migration and cultural resilience, defined by its isolation and native heritage. From the early Polynesian navigators who crossed the Pacific in double-hulled outrigger canoes, and the tragic overthrow of the Hawaiian Kingdom by American sugar interests, to the surprise military strike at Pearl Harbor. A culture that prioritizes the communal harmony of the Aloha spirit and the protection of native forests, even as it campaigns for indigenous sovereignty.
+The story starts with navigators reading star and swell across the open Pacific to find these islands. A kingdom stood here until American sugar interests took it down in 1893; a naval base sat here until Japan's bombers found it in 1941. Through it all, ʻohana held the islands together and mālama ʻāina kept faith with the land, while the fight for the kingdom's sovereignty goes on.
 
 ## Company
 
@@ -78,4 +78,4 @@ Japanese forces launch a surprise aerial bombardment on the naval base at Pearl 
 
 ## Stakes
 
-Whether an isolated island ecosystem under heavy tourism and development can successfully restore its native forests and endemic bird populations.
+Whether an island carrying heavy tourism and development can still mālama the ʻāina enough to bring its native forests and endemic birds back before it's too late.

@@ -1,7 +1,7 @@
 ---
 khai: place
 title: "The Great Forest"
-declared: "la grande foret"
+declared: "la grande forêt"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Place: la grande foret
+# Place: la grande forêt
 
 ## Taxonomy
 

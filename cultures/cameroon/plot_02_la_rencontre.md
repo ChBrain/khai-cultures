@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Encounter with Outsiders"
-declared: "la rencontre avec les etrangers"
+declared: "la rencontre avec les étrangers"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: la rencontre avec les etrangers
+# Plot: la rencontre avec les étrangers
 
 ## Taxonomy
 
@@ -30,9 +30,9 @@ Le territoire passe sous l'autorité d'étrangers, d'une puissance puis d'autres
 
 ## Stage
 
-- [Mongo Beti](persona_mongo_beti.md): l'ecrivain qui retourne la langue heritee pour ecrire son pays de l'interieur.
-- [le bilinguisme](position_le_bilinguisme.md): l'heritage de deux langues officielles ne de cette epoque, tenu plus tard a egale dignite.
-- [le mont Cameroun](place_le_mont_cameroun.md): la montagne de feu au bord de la cote, premier repere des navigateurs venus de la mer.
+- [Mongo Beti](persona_mongo_beti.md): l'écrivain qui retourne la langue héritée pour écrire son pays de l'intérieur.
+- [le bilinguisme](position_le_bilinguisme.md): l'héritage de deux langues officielles né de cette époque, tenu plus tard à égale dignité.
+- [le mont Cameroun](place_le_mont_cameroun.md): la montagne de feu au bord de la côte, premier repère des navigateurs venus de la mer.
 
 ## Tension
 

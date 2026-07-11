@@ -31,8 +31,8 @@ Les Lions font tomber les grands les uns après les autres et vont plus loin qu'
 ## Stage
 
 - [Roger Milla](persona_milla.md): le vieux lion dont les buts et la danse font lever de joie tout un continent.
-- [les Lions Indomptables](piece_les_lions_indomptables.md): le maillot vert, rouge et jaune devenu l'embleme du pays debout.
-- [le mont Cameroun](place_le_mont_cameroun.md): la montagne qui veille sur la cote d'ou monte la makossa de cette fete.
+- [les Lions Indomptables](piece_les_lions_indomptables.md): le maillot vert, rouge et jaune devenu l'emblème du pays debout.
+- [le mont Cameroun](place_le_mont_cameroun.md): la montagne qui veille sur la côte d'où monte la makossa de cette fête.
 
 ## Tension
 

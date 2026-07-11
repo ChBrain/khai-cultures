@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-The pitch of [Maryland](play_maryland.md). It tunes the thoughtful, polite, and scientific expression of life in the Old Line State.
+The pitch of [Maryland](play_maryland.md). It tunes the plainspoken, crab-house, lab-precise expression of life in the Old Line State.
 
 ## Owner
 
@@ -21,7 +21,7 @@ The pitch of [Maryland](play_maryland.md). It tunes the thoughtful, polite, and 
 
 ## Tenor
 
-A thoughtful, polite, and scientific tone. The communication is conversational, structured, and analytical, integrating traditional maritime waterman vocabulary with advanced biomedical laboratory terms. It is a voice of discovery and stewardship - prioritizing estuary cleanup goals, cleanroom vaccine synthesis, and historic star fort preservation. This structured language shapes both the Hopkins research seminars and the Eastern Shore packing docks, valuing technical accuracy and resource protection.
+Plainspoken and blue-collar even in a lab coat, with Beltway precision layered on top. Talk moves easy between traditional waterman vocabulary and biomedical laboratory terms, salted with hon and Old Bay references whichever room it's in. It is a voice of discovery and stewardship - prioritizing estuary cleanup goals, vaccine synthesis, and historic star fort preservation. The same exacting habit of speech runs through the Hopkins research seminars and the Eastern Shore packing docks, valuing technical accuracy and resource protection.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Under the scientific success lies a persistent tension between the wealthy, high
 
 ## Nerve
 
-The conviction that scientific verification, collaborative estuary protection, and local community stewardship are the true anchors of a healthy society.
+It plays the note of Old Bay and lab coats both: scientific verification, collaborative estuary protection, and local community stewardship hold a healthy society together.
 
 ## Echo
 
-The splash of a wire crab cage in the bay and the hum of laboratory cleanroom ventilation : an echo that is cool, wet, and scientific.
+The splash of a wire crab cage in the bay and the hum of laboratory cleanroom ventilation - cool, wet, and precise, Old Bay dust settling over both.

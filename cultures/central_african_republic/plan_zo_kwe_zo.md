@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "Zo Kwe Zo, the Unfinished Work"
-declared: "zo kwe zo, l'oeuvre inachevee"
+declared: "zo kwe zo, l'oeuvre inachevée"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: zo kwe zo, l'oeuvre inachevee
+# Plan: zo kwe zo, l'oeuvre inachevée
 
 ## Taxonomy
 
