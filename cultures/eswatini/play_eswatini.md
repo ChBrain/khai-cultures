@@ -47,6 +47,7 @@ Sive saka-Ngwane, emaSwati, sehla saphuma eshashalazini lemandvulo, sahamba sehl
 
 **Positions**
 
+- [sintfu semaSwati](position_culture_sintfu_semaswati.md)
 - [busatfwa benkhosi](position_busatfwa.md)
 - [buntfu nemabutfo](position_buntfu.md)
 - [tinkhomo nesibaya](position_tinkhomo.md)

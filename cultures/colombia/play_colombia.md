@@ -47,6 +47,7 @@ Una tierra de muchas tierras mucho antes de ser una sola nación. Los muiscas tr
 
 **Positions**
 
+- [la colombianidad](position_culture_colombianidad.md)
 - [el realismo mágico](position_el_realismo_magico.md)
 - [la alegría resiliente](position_la_alegria_resiliente.md)
 - [el camino a la paz](position_el_camino_a_la_paz.md)

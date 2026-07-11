@@ -47,6 +47,7 @@ Narod na granici: stoljećima predziđe kršćanstva, katolički Zapad okrenut p
 
 **Positions**
 
+- [hrvatstvo](position_culture_hrvatstvo.md)
 - [hrvatski jezik](position_language_hr.md)
 - [predziđe kršćanstva](position_predzide_krscanstva.md)
 - [Jadran](position_jadran.md)

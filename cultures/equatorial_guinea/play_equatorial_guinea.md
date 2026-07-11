@@ -50,6 +50,7 @@ Un país que no es de una sola pieza ni de un solo pueblo, sino de muchos juntad
 - [la lengua heredada](position_language_es_gq.md)
 - [los pueblos](position_los_pueblos.md)
 - [el Atlántico](position_el_atlantico.md)
+- [la ecuatoguineanidad](position_culture_ecuatoguineanidad.md)
 
 **Pieces**
 

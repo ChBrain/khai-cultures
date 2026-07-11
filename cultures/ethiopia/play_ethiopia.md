@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [ኢትዮጵያዊነት](position_culture_ityopiyawinnet.md)
 - [እምነት](position_emnet.md)
 - [ነፃነት](position_netsanet.md)
 - [ብዝሃነት](position_bizuhinet.md)
