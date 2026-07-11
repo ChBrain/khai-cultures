@@ -44,6 +44,7 @@ A land of agricultural productivity and automotive engineering, defined by the f
 
 **Positions**
 
+- [Hoosier culture](position_culture_hoosier_culture.md)
 - [hoosier hospitality](position_hoosier_hospitality.md)
 - [motor speed](position_motor_speed.md)
 - [Hoosier English](position_language_en_us_in.md)

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old tribal coordinator in Fort Hall. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily community reports. It is the [Idahoan English](position_language_en_us_id.md) of the Snake River plain, the warm drawl in which her tribal coordination is done. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of irrigation technicians like Taylor and the digital demands of agricultural boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river ecosystem preservation is treated as secondary to corporate potato harvests and speedway entertainment.
+A fifty-two-year-old tribal coordinator in Fort Hall. English, spoken with a warm drawl, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her daily community reports. It is the [Idahoan English](position_language_en_us_id.md) of the Snake River plain, the warm drawl in which her tribal coordination is done. She speaks no foreign languages. Yet the loss lies in the seam: The fast, technology-oriented talk of irrigation technicians like Taylor and the digital demands of agricultural boards [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, law-protecting rhythm of river ecosystem preservation is treated as secondary to corporate potato harvests and speedway entertainment. She belongs to [Idahoan culture](position_culture_idahoan_culture.md) as the older tribal claim on the mountain and river that the state's newer industries were built over.
 
 ## Action
 
