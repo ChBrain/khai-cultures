@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Diplomata ne'ebe lori povu nia lia ba mundu li'ur iha tempu ne'ebe povu rasik la bele ko'alia, no ne'ebe hetan Premio Nobel ba Dame ba nia servisu atu buka dalan dame. Nia ko'alia ho mundu ho lian barak no nia la kole atu husu rona ba rai-ki'ik nian. [Lia-tetun](position_language_tet.md) no lia-portuges nia [ko'alia](process_speaking_mother_tongue.md) no [rona](process_hearing_mother_tongue.md) nu'udar buat rasik, hun ba nia identidade. Lian husi mundu li'ur nia [lori atu sai sasan servisu](process_speaking_carried.md), [le no tuir iha papel](process_reading_followed.md), no [rona no tuir](process_hearing_followed.md) iha sala diplomatiku sira. Maibe povu nia terus iha tempu balun la bele tama liafuan ida-idak, no buat ne'ebe nia presiza lori ba mundu iha fatin ne'ebe lian la to'o: iha-ne'e lian hakat to'o nia rohan no para.
+Diplomata ne'ebe lori povu nia lia ba mundu li'ur iha tempu ne'ebe povu rasik la bele ko'alia, no ne'ebe hetan Premio Nobel ba Dame ba nia servisu atu buka dalan dame. Nia ko'alia ho mundu ho lian barak no nia la kole atu husu rona ba rai-ki'ik nian. [Lia-tetun](position_language_tet.md) no [lia-portuges](../portugal/position_language_pt_pt.md) nia [ko'alia](process_speaking_mother_tongue.md) no [rona](process_hearing_mother_tongue.md) nu'udar buat rasik, hun ba nia identidade. Lian husi mundu li'ur nia [lori atu sai sasan servisu](process_speaking_carried.md), [le no tuir iha papel](process_reading_followed.md), no [rona no tuir](process_hearing_followed.md) iha sala diplomatiku sira. Maibe povu nia terus iha tempu balun la bele tama liafuan ida-idak, no buat ne'ebe nia presiza lori ba mundu iha fatin ne'ebe lian la to'o: iha-ne'e lian hakat to'o nia rohan no para.
 
 ## Action
 

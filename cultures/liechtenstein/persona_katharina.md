@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine liechtensteinische Juristin und Treuhänderin Anfang dreißig, die in Vaduz arbeitet und internationale Stiftungen verwaltet. Deutsch, [das liechtensteinische Hochdeutsch](position_language_de_li.md), ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und denkt, die Sprache der Gesetze und Verträge des Landes. Englisch [trägt sie als übergezogen](process_speaking_worn.md) für die tägliche Korrespondenz mit Klienten aus aller Welt. Doch der Verlust liegt in der Naht: Die alten Bräuche der Talschaft und des Alpabtriebs [hört sie nur noch wie ein Echo](process_hearing_followed.md) durch die Erzählungen ihres Vaters Franz; sie lebt im Rhythmus globaler Märkte, während das bäuerliche Erbe ihrer Familie im modernen Vaduz verblasst.
+Eine liechtensteinische Juristin und Treuhänderin Anfang dreißig, die in Vaduz arbeitet und internationale Stiftungen verwaltet. Deutsch, [das liechtensteinische Hochdeutsch](position_language_de_li.md), ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und denkt, die Sprache der Gesetze und Verträge des Landes. [Englisch](../united_kingdom/position_language_en_gb.md) [trägt sie als übergezogen](process_speaking_worn.md) für die tägliche Korrespondenz mit Klienten aus aller Welt. Doch der Verlust liegt in der Naht: Die alten Bräuche der Talschaft und des Alpabtriebs [hört sie nur noch wie ein Echo](process_hearing_followed.md) durch die Erzählungen ihres Vaters Franz; sie lebt im Rhythmus globaler Märkte, während das bäuerliche Erbe ihrer Familie im modernen Vaduz verblasst.
 
 ## Action
 

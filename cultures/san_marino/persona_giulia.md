@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Una funzionaria pubblica sammarinese e giurista di trentacinque anni, che lavora a stretto contatto con la Segreteria di Stato per gli Affari Esteri. L'italiano è la sua lingua madre, lo strumento con cui [parla](process_speaking_mother_tongue.md) e scrive gli accordi dello Stato: è [l'italiano sammarinese](position_language_it_sm.md) tenuto nel suo registro formale. L'inglese [è da lei portato come sovrapposto](process_speaking_worn.md) per negoziare i trattati di associazione con l'Unione Europea a Bruxelles. Ma il declino è nascosto nella piega : i racconti dello scalpellino Marino sulla pietra del Titano [vengono da lei ascoltati solo come un'eco distante](process_hearing_followed.md), sommersi dalle scadenze internazionali e dai regolamenti del mercato unico europeo.
+Una funzionaria pubblica sammarinese e giurista di trentacinque anni, che lavora a stretto contatto con la Segreteria di Stato per gli Affari Esteri. L'italiano è la sua lingua madre, lo strumento con cui [parla](process_speaking_mother_tongue.md) e scrive gli accordi dello Stato: è [l'italiano sammarinese](position_language_it_sm.md) tenuto nel suo registro formale. [L'inglese](../united_kingdom/position_language_en_gb.md) [è da lei portato come sovrapposto](process_speaking_worn.md) per negoziare i trattati di associazione con l'Unione Europea a Bruxelles. Ma il declino è nascosto nella piega : i racconti dello scalpellino Marino sulla pietra del Titano [vengono da lei ascoltati solo come un'eco distante](process_hearing_followed.md), sommersi dalle scadenze internazionali e dai regolamenti del mercato unico europeo.
 
 ## Action
 

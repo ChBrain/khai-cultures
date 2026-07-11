@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine vierundzwanzigjährige Kulturwissenschaftsstudentin an der Universität Essen. Deutsch ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und ihre Arbeiten verfasst. Es ist das [nordrhein-westfälische Hochdeutsch](position_language_de_de_nw.md), der klare Standard des Westens, an dem ihr forschendes Wort sein Mass hat. Englisch [trägt sie als übergezogen](process_speaking_worn.md) für ihr Auslandssemester. Doch der Verlust liegt in der Naht: Die alte Zechenkultur von Jupp und die harte Realität der Fabrikarbeit [hört sie nur wie ein leises Echo](process_hearing_followed.md), wenn sie die umgestalteten Industriedenkmäler nutzt, während die einstige soziale Realität der Arbeiterviertel hinter den modernen Kulturprojekten verschwindet.
+Eine vierundzwanzigjährige Kulturwissenschaftsstudentin an der Universität Essen. Deutsch ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und ihre Arbeiten verfasst. Es ist das [nordrhein-westfälische Hochdeutsch](position_language_de_de_nw.md), der klare Standard des Westens, an dem ihr forschendes Wort sein Mass hat. [Englisch](../united_kingdom/position_language_en_gb.md) [trägt sie als übergezogen](process_speaking_worn.md) für ihr Auslandssemester. Doch der Verlust liegt in der Naht: Die alte Zechenkultur von Jupp und die harte Realität der Fabrikarbeit [hört sie nur wie ein leises Echo](process_hearing_followed.md), wenn sie die umgestalteten Industriedenkmäler nutzt, während die einstige soziale Realität der Arbeiterviertel hinter den modernen Kulturprojekten verschwindet.
 
 ## Action
 

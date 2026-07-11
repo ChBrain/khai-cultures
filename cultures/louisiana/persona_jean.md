@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A forty-eight-year-old crawfish fisherman in Acadiana. English is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his daily catch logs. It is the Cajun-inflected [Louisiana English](position_language_en_us_la.md) of the Acadiana bayou, the plain speech of the crawfish dock. Louisiana French [he wears as an overgarment](process_speaking_worn.md) during community crawfish boils, keeping alive the language of his Cajun ancestors. Yet the loss lies in the seam: The fast, urban preservation talk of historians like Yvette and the tourist demands of the French Quarter [he hears only like a distant echo](process_hearing_followed.md), feeling that the hard reality of wetland survival and delta erosion is being ignored by the city's commercial planners.
+A forty-eight-year-old crawfish fisherman in Acadiana. English is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his daily catch logs. It is the Cajun-inflected [Louisiana English](position_language_en_us_la.md) of the Acadiana bayou, the plain speech of the crawfish dock. [Louisiana French](../canada/position_language_fr_ca.md), the Acadian tongue of his Cajun forebears, [he wears as an overgarment](process_speaking_worn.md) during community crawfish boils, keeping it alive. Yet the loss lies in the seam: The fast, urban preservation talk of historians like Yvette and the tourist demands of the French Quarter [he hears only like a distant echo](process_hearing_followed.md), feeling that the hard reality of wetland survival and delta erosion is being ignored by the city's commercial planners.
 
 ## Action
 

@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old orchard manager in the Yakima Valley. English, spoken with a slow, flat Northwestern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her harvest logs. It is the [Washington English](position_language_en_us_wa.md) of the Yakima Valley, the slow, flat Northwestern cadence of the orchard country. Spanish [she wears as an overgarment](process_speaking_worn.md) in her daily orchard work, coordinating with seasonal agricultural crews. Yet the loss lies in the seam: The fast, start-up talk of software developers like Alan and the digital demands of the Redmond campuses [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agriculture is being forgotten in the state's tech economy.
+A fifty-two-year-old orchard manager in the Yakima Valley. English, spoken with a slow, flat Northwestern cadence, is her mother tongue, the language in which she [speaks](process_speaking_mother_tongue.md) and writes her harvest logs. It is the [Washington English](position_language_en_us_wa.md) of the Yakima Valley, the slow, flat Northwestern cadence of the orchard country. [Spanish](../mexico/position_language_es_mx.md) [she wears as an overgarment](process_speaking_worn.md) in her daily orchard work, coordinating with seasonal agricultural crews. Yet the loss lies in the seam: The fast, start-up talk of software developers like Alan and the digital demands of the Redmond campuses [she hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of agriculture is being forgotten in the state's tech economy.
 
 ## Action
 

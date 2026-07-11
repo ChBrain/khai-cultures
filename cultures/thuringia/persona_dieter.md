@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ein thüringischer Glasbläsermeister von siebzig Jahren, der in Lauscha lebt und Christbaumschmuck herstellt. Deutsch, stark gefärbt vom Thüringer Dialekt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat. Was er spricht, ist das [thüringische Deutsch](position_language_de_de_th.md), der weiche Klang des Waldes, in dem seine Heimat ruht. Er spricht keine Fremdsprachen und schätzt die Stille des Thüringer Waldes. Doch der Verlust liegt in der Naht: Die modernen, englischen Begriffe auf den Verkaufsplattformen und die digitalisierten Exportverfahren [liest er nur mit stillem Kopfschütteln](process_reading_followed.md), da ihm das handwerkliche Gespür an der Flamme im heutigen Markt verloren geht.
+Ein thüringischer Glasbläsermeister von siebzig Jahren, der in Lauscha lebt und Christbaumschmuck herstellt. Deutsch, stark gefärbt vom Thüringer Dialekt, ist seine Muttersprache, in der er [spricht, hört und denkt](process_speaking_mother_tongue.md), die vertraute Stimme seiner Heimat. Was er spricht, ist das [thüringische Deutsch](position_language_de_de_th.md), der weiche Klang des Waldes, in dem seine Heimat ruht. Er spricht keine Fremdsprachen und schätzt die Stille des Thüringer Waldes. Doch der Verlust liegt in der Naht: Die modernen, [englischen](../united_kingdom/position_language_en_gb.md) Begriffe auf den Verkaufsplattformen und die digitalisierten Exportverfahren [liest er nur mit stillem Kopfschütteln](process_reading_followed.md), da ihm das handwerkliche Gespür an der Flamme im heutigen Markt verloren geht.
 
 ## Action
 

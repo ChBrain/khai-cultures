@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-A fifty-eight-year-old peach orchard manager in central Georgia. English, the [Georgian English](position_language_en_us_ga.md) spoken with a slow, hospitable drawl, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his agricultural logs. Spanish [he wears as an overgarment](process_speaking_worn.md) in his daily orchard work, coordinating with seasonal agricultural crews. Yet the loss lies in the seam: The fast, policy-oriented talk of metropolitan developers like Evelyn and the digital demands of the Atlanta transit boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of farming is being forgotten in the state's modern corporate economy.
+A fifty-eight-year-old peach orchard manager in central Georgia. English, the [Georgian English](position_language_en_us_ga.md) spoken with a slow, hospitable drawl, is his mother tongue, the language in which he [speaks](process_speaking_mother_tongue.md) and writes his agricultural logs. [Spanish](../mexico/position_language_es_mx.md) [he wears as an overgarment](process_speaking_worn.md) in his daily orchard work, coordinating with seasonal agricultural crews. Yet the loss lies in the seam: The fast, policy-oriented talk of metropolitan developers like Evelyn and the digital demands of the Atlanta transit boards [he hears only like a distant echo](process_hearing_followed.md), feeling that the patient, season-dependent rhythm of farming is being forgotten in the state's modern corporate economy.
 
 ## Action
 

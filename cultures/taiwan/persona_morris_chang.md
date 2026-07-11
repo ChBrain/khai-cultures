@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-少年時輾轉於戰亂與遷徙，後赴美求學、在半導體業歷練多年，中年應邀來到島上，創立了專為他人代工製造晶片的公司，把這座缺乏天然資源的島，接上了世界科技的心臟。他嚴謹、勤勉、看得長遠，把製程的良率與紀律當成立身之本，相信小島要立足世界，靠的是手藝與信用。國語（[中文](position_language_zh_tw.md)）他[從小用母語開口](process_speaking_mother_tongue.md)、[用母語思想](process_thinking_mother_tongue.md)，待人接物的分寸都在這條舌頭上；多年闖蕩產業所用的英文，他[把它當工具扛在身上](process_speaking_carried.md)，[在紙上讀寫毫不費力](process_reading_followed.md)，用以與全世界的客戶與工程師周旋。他一生在兩種語言之間奔走，把島上的手藝賣到全世界，卻也明白：母語裡那些貼著人情與來歷的字，換成哪一種語言都要折損幾分；話說到盡頭，總有一層意思，留在母語的舌尖過不去。
+少年時輾轉於戰亂與遷徙，後赴美求學、在半導體業歷練多年，中年應邀來到島上，創立了專為他人代工製造晶片的公司，把這座缺乏天然資源的島，接上了世界科技的心臟。他嚴謹、勤勉、看得長遠，把製程的良率與紀律當成立身之本，相信小島要立足世界，靠的是手藝與信用。國語（[中文](position_language_zh_tw.md)）他[從小用母語開口](process_speaking_mother_tongue.md)、[用母語思想](process_thinking_mother_tongue.md)，待人接物的分寸都在這條舌頭上；多年闖蕩產業所用的[英文](../usa/position_language_en_us.md)，他[把它當工具扛在身上](process_speaking_carried.md)，[在紙上讀寫毫不費力](process_reading_followed.md)，用以與全世界的客戶與工程師周旋。他一生在兩種語言之間奔走，把島上的手藝賣到全世界，卻也明白：母語裡那些貼著人情與來歷的字，換成哪一種語言都要折損幾分；話說到盡頭，總有一層意思，留在母語的舌尖過不去。
 
 ## Action
 
