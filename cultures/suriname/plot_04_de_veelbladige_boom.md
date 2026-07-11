@@ -31,7 +31,7 @@ Het onafhankelijke Suriname zoekt zichzelf als een natie uit vele volken, en [Do
 ## Stage
 
 - [Dobru](persona_dobru.md): de dichter die de jonge natie het beeld van wan bon schenkt.
-- [wan bon](position_wan_bon.md): de boom met vele bladeren, de droom waarin de natie zichzelf herkent.
+- [wan bon](position_culture_wan_bon.md): de boom met vele bladeren, de droom waarin de natie zichzelf herkent.
 - [het binnenland](place_het_binnenland.md): het bos waarin de natie wortelt en dat zij moet bewaren.
 
 ## Tension

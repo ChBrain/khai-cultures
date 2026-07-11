@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الثقافة السودانية](position_culture_thaqafa_alsudaniyya.md)
 - [النوبة وكوش](position_al_nuba.md)
 - [التصوف](position_al_tasawwuf.md)
 - [الكرامة](position_al_karama.md)

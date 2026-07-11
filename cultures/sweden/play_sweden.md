@@ -46,6 +46,7 @@ Ett stort men glesbefolkat land som en gång var en stormakt kring Östersjön o
 
 **Positions**
 
+- [svenskheten](position_culture_svenskheten.md)
 - [lagom](position_lagom.md)
 - [allemansrätten](position_allemansratten.md)
 - [folkhemmet](position_folkhemmet.md)

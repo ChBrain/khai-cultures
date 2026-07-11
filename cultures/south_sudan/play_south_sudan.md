@@ -47,6 +47,7 @@ This is a land far older than the nation that sits on it. Long before any border
 
 **Positions**
 
+- [the South Sudanese culture](position_culture_south_sudanese_culture.md)
 - [the cattle](position_the_cattle.md)
 - [the river](position_the_river.md)
 - [the many peoples](position_the_many_peoples.md)

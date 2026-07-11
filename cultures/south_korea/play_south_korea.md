@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [한국 문화](position_culture_hanguk_munhwa.md)
 - [한국어](position_language_ko_kr.md)
 - [유교와 가족](position_yugyo.md)
 - [한과 정](position_han_jeong.md)

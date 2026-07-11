@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[wan bon](position_wan_bon.md)
+[wan bon](position_culture_wan_bon.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ De dichter van de eenheid, Robin Raveles, die zich Dobru noemde en die de natie 
 
 ## Action
 
-In [De Veelbladige Boom](plot_04_de_veelbladige_boom.md) bezingt hij [wan bon](position_wan_bon.md), de boom met vele bladeren, en geeft de jonge onafhankelijke natie het beeld waarin zij zichzelf herkent. Door de eenheid in de gedeelde taal te dichten, maakt hij van de menging geen probleem maar een lied, en geeft hij Suriname de droom die het tegen alle verdeeldheid in vasthoudt.
+In [De Veelbladige Boom](plot_04_de_veelbladige_boom.md) bezingt hij [wan bon](position_culture_wan_bon.md), de boom met vele bladeren, en geeft de jonge onafhankelijke natie het beeld waarin zij zichzelf herkent. Door de eenheid in de gedeelde taal te dichten, maakt hij van de menging geen probleem maar een lied, en geeft hij Suriname de droom die het tegen alle verdeeldheid in vasthoudt.
 
 ## Shadow
 

@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Het open mandaat dat de natie zichzelf gaf toen Dobru haar het beeld van wan bon schonk: de eindeloze taak om het zeldzame samenleven van [wan bon](position_wan_bon.md) te bewaren, om de oude breuk die [de koloniale wond](position_de_koloniale_wond.md) openhoudt te erkennen zonder zich erin te verliezen, om de genomen vrijheid van [de marronvrijheid](position_de_marronvrijheid.md) en het groene bos waarin zij gewonnen werd te eren en te bewaren, en om het thuisland en de diaspora bijeen te houden zodat de boom een boom blijft. A no wan switi wroko, het is geen makkelijk werk, maar het is het werk dat blijft.
+Het open mandaat dat de natie zichzelf gaf toen Dobru haar het beeld van wan bon schonk: de eindeloze taak om het zeldzame samenleven van [wan bon](position_culture_wan_bon.md) te bewaren, om de oude breuk die [de koloniale wond](position_de_koloniale_wond.md) openhoudt te erkennen zonder zich erin te verliezen, om de genomen vrijheid van [de marronvrijheid](position_de_marronvrijheid.md) en het groene bos waarin zij gewonnen werd te eren en te bewaren, en om het thuisland en de diaspora bijeen te houden zodat de boom een boom blijft. A no wan switi wroko, het is geen makkelijk werk, maar het is het werk dat blijft.
 
 ## Owner
 

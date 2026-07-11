@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Baserri urruneko emakume zahar bat, non euskaraz baino ez den hitz egiten. Bere ama-hizkuntzan, [euskaran](../basque_country/position_language_eu.md), [hitz egiten, entzuten eta pentsatzen du](process_speaking_mother_tongue.md), eta euskaraz [irakurtzen du](process_reading_mother_tongue.md) bere mundua; horixe da bere mundu osoa. Baina ez daki gaztelaniarik. Hiriko bulegoarentzat, medikuarentzat, gaztelaniaz mintzo den auzokoarentzat, isilik geratzen da, norbaitek bere hitzak aurrera eramaten ez baditu. Zubirik gabe, bere euskarak ez du haranetik harago jotzen.
+Baserri urruneko emakume zahar bat, non euskaraz baino ez den hitz egiten. Bere ama-hizkuntzan, [euskaran](../basque_country/position_language_eu.md), [hitz egiten, entzuten eta pentsatzen du](process_speaking_mother_tongue.md), eta euskaraz [irakurtzen du](process_reading_mother_tongue.md) bere mundua; horixe da bere mundu osoa. Baina ez daki gaztelaniarik. Hiriko bulegoarentzat, medikuarentzat, gaztelaniaz mintzo den auzokoarentzat, isilik geratzen da, norbaitek bere hitzak aurrera eramaten ez baditu. Zubirik gabe, bere euskarak ez du haranetik harago jotzen. Euskal Herriko andre zaharra izanik, [la españolidad](position_culture_espanolidad.md) delakoaren baitakoa da ere, nahiz eta zubirik gabe haren ahotsa haranaren barnean geratzen den.
 
 ## Action
 
