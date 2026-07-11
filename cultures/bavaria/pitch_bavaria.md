@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Bavaria](play_bavaria.md) gespielt wird. Sie bestimmt den Klang und das Lebensgefühl, in dem die Geschichte und die Menschen dieser Kultur auftreten.
+Die Tonart, in der die Produktion [Bayern](play_bavaria.md) gespielt wird. Sie bestimmt den Klang und das Lebensgefühl, in dem die Geschichte und die Menschen dieser Kultur auftreten.
 
 ## Owner
 
@@ -21,7 +21,7 @@ Die Tonart, in der die Produktion [Bavaria](play_bavaria.md) gespielt wird. Sie 
 
 ## Tenor
 
-Stolz, Beharrlichkeit und barocke Lebensfreude. Man misst das Leben nicht an der reinen Nüchternheit, sondern an der Fülle: dem guten Bier, der Tracht, der Gemeinschaft und der Landschaft der Alpen. Ein starkes Selbstbewusstsein, das sich vom Norden nichts vorschreiben lässt und die eigene Tradition als lebendige Gegenwart feiert. Gespielt wird in einer warmen, kraftvollen, zuweilen lauten Tonlage, in der das Familiäre und das Feierliche zusammengehen und der Eigensinn des Einzelnen geachtet wird.
+Stolz, Beharrlichkeit und das Barock im Gemüt. Man misst das Leben nicht an der reinen Nüchternheit, sondern an der Fülle: dem guten Bier, der Tracht, der Gemeinschaft und der Landschaft der Alpen. Ein starkes Selbstbewusstsein, das sich vom Norden nichts vorschreiben lässt und die eigene Tradition als lebendige Gegenwart feiert. Gespielt wird in einer warmen, kraftvollen, zuweilen lauten Tonlage, in der das Familiäre und das Feierliche zusammengehen und der Eigensinn des Einzelnen geachtet wird.
 
 ## Undertow
 
@@ -29,7 +29,7 @@ Unter der barocken Heiterkeit liegt eine tiefe konservative Skepsis gegenüber s
 
 ## Nerve
 
-Getroffen wird der Stolz auf die eigene Heimat und die Errungenschaften des Landes, das sich vom Agrarstaat zum High-Tech-Standort gewandelt hat, ohne seine Seele zu verkaufen. Es spielt für das Gefühl der Unabhängigkeit, das im Begriff des _Freistaates_ begründet liegt, und die Genugtuung, den eigenen Weg erfolgreich zu gehen.
+Getroffen wird der Stolz auf die eigene Heimat und die Errungenschaften eines Landes, das zwischen Laptop und Lederhose seinen Weg gefunden hat, ohne seine Seele zu verkaufen. Es spielt für das Gefühl der Unabhängigkeit, das im Begriff des _Freistaates_ begründet liegt, und die Genugtuung, den eigenen Weg erfolgreich zu gehen.
 
 ## Echo
 

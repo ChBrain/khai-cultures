@@ -21,16 +21,16 @@ El tono de las [Islas Canarias](play_canary_islands.md). Define la expresión co
 
 ## Tenor
 
-Un tono pausado, cálido e insular. La comunicación es conversacional, amable y estructurada en relatos, combinando el vocabulario del cultivo de plátanos en terrazas y la vulcanología con términos de la navegación atlántica y el lenguaje silbado tradicional. Es la voz del labrador de platanera y del guardabosques de cumbre, que prioriza planes de conservación de la caldera volcánica, actas de comunidades de agua de galería y ordenanzas de comisiones de cabildos insulares. Este lenguaje formal guía tanto a las juntas de regantes como a los comités de vecinos, valorando la lealtad familiar y la hospitalidad con los de fuera.
+Se habla despacio, sin prisa, con el aplatanamiento por filosofía: nada urge tanto como para levantar la voz. Es el habla del labrador de platanera y del guardabosques de cumbre, que combina el vocabulario del cultivo en terrazas y la vulcanología con el del silbo tradicional entre barrancos, y que lleva esa misma calma a la junta de regantes y al comité de vecinos. Pesa la lealtad familiar y la hospitalidad con quien llega de lejos, sin que la distancia del resto del mundo enfríe el trato.
 
 ## Undertow
 
-Bajo la amabilidad y el ritmo pausado late una polarización geográfica persistente entre las populosas islas capitalinas (Tenerife y Gran Canaria) y las islas menores orientales y occidentales de menor población. Este reparto desigual de recursos alimenta debates sobre los planes de transporte marítimo y la conservación del suelo, donde el gran crecimiento de los núcleos turísticos costeros choca con el instinto protector de los campesinos del interior por sus limitadas reservas de agua dulce de galería.
+Bajo la amabilidad pausada sigue abierta la distancia entre las islas capitalinas, Tenerife y Gran Canaria, y las islas menores, orientales y occidentales, de menor población. El transporte marítimo entre islas y la conservación del suelo reavivan el pleito de siempre: el crecimiento turístico de la costa avanza mientras el campesino del interior defiende su galería de agua dulce como el bien más escaso que tiene.
 
 ## Nerve
 
-La convicción de que la solidaridad comunitaria frente al aislamiento geográfico, la competencia manual en el manejo del suelo volcánico y el respeto por los acuerdos y costumbres tradicionales son las verdaderas anclas de una sociedad estable.
+La certeza de que la solidaridad frente a la lejanía atlántica, el saber hacer con el suelo volcánico y el respeto por los acuerdos de siempre sostienen a una comunidad mejor que cualquier plan llegado de fuera.
 
 ## Echo
 
-El sonido modulado del silbo gomero cruzando un barranco profundo y el golpe de un mortero de piedra volcánica preparando mojo : un eco claro, lejano y pausado.
+Queda el silbo gomero modulándose de barranco en barranco y el golpe del mortero de piedra volcánica preparando el mojo, un eco claro, lejano y pausado como la propia distancia atlántica.

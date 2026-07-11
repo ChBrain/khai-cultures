@@ -23,7 +23,7 @@ Castilla y León, comunidad autónoma y nacionalidad histórica del noroeste de 
 
 ## Arc
 
-Una gran meseta septentrional de horizontes secos, fortalezas de piedra y honda sobriedad castellana. Desde la unión dinástica definitiva de los reinos de Castilla y León en 1230 y la trágica revuelta urbana de los Comuneros en 1520 contra el absolutismo imperial, hasta la gestión compartida del agua del Duero mediante acuerdos de regadío. Una cultura de labradores de secano, ganaderos trashumantes y hornos de leña tradicionales que regula los recursos hídricos mediante planes de cuenca.
+Fue cabeza de imperio y hoy se queda con el silencio: la gran meseta septentrional de horizontes secos y fortalezas de piedra no necesita levantar la voz para hacerse notar. Desde la unión dinástica definitiva de los reinos de Castilla y León en 1230 y la trágica revuelta urbana de los Comuneros en 1520 contra el absolutismo imperial, hasta la gestión compartida del agua del Duero mediante acuerdos de regadío. Una cultura de labradores de secano, ganaderos trashumantes y hornos de leña tradicionales que regula los recursos hídricos mediante planes de cuenca.
 
 ## Company
 

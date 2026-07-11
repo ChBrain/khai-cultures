@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Saarland, das kleinste Flächenbundesland im Südwesten der Bundesrepublik Deutschland. ISO DE-SL, Sprache de.
+Saarland, das kleinste Flächenland Deutschlands im äußersten Südwesten, an der Grenze zu Frankreich. ISO DE-SL, Sprache de.
 
 ## Arc
 
-Ein durch wechselvolle Grenzverschiebungen geprägtes Land, das nach dem historischen Referendum von 1955 und der „kleinen Wiedervereinigung“ 1957 als zehntes Bundesland zur BRD beitrat. Eine Industrieregion, deren Identität tief in Kohle und Stahl verwurzelt ist, während der Alltag von der französischen Nachbarschaft und einem ausgeprägten Savoir-vivre („Hauptsach gudd gess“) bestimmt wird. Ein Ort, an dem die Industriegeschichte der Völklinger Hütte und die Geselligkeit des Schwenkens aufeinandertreffen.
+„Hauptsach gudd gess” - Hauptsache, gut gegessen: das kleinste Flächenland hat seine Prioritäten früh geklärt, während der Schwenker über der Buchenholzkohle brutzelt. Grenzgänger sind die Saarländer seit je, mit einem Bein in Frankreich und einem in der eigenen Industriegeschichte, die sich in der Völklinger Hütte zu Weltkulturerbe verdichtete. Nach wechselvollen Grenzverschiebungen und dem Referendum von 1955 trat das Land 1957 als „kleine Wiedervereinigung” zur Bundesrepublik bei - groß in der Industrie, klein auf der Landkarte, stolz in beidem.
 
 ## Company
 
@@ -78,4 +78,4 @@ Die Stilllegung der Völklinger Hütte markiert den Abschied von der traditionel
 
 ## Stakes
 
-Die Modernisierung der verbliebenen Stahlwerke hin zur wasserstoffbasierten Produktion zur Bewahrung von Wohlstand und Arbeitsplätzen.
+Ob sich die verbliebenen Stahlwerke rechtzeitig zur wasserstoffbasierten Produktion wandeln und so Wohlstand und Arbeitsplätze bewahren.

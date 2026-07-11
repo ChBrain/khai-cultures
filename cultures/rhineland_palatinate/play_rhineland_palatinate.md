@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Rhineland-Palatinate"
+title: "Rheinland-Pfalz"
 description: "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit."
-declared: "Rhineland-Palatinate"
+declared: "Rheinland-Pfalz"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: Rhineland-Palatinate
+# Play: Rheinland-Pfalz
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Rhineland-Palatinate, das Bundesland Rheinland-Pfalz im Südwesten der Bundesrepublik Deutschland. ISO DE-RP, Sprache de.
+Rheinland-Pfalz, das Weinland zwischen Mosel und Rhein im Südwesten Deutschlands. ISO DE-RP, Sprache de.
 
 ## Arc
 
-Eine geschichtsträchtige Region, die nach dem Zweiten Weltkrieg aus ehemals bayerischen, hessischen und preußischen Territorien gebildet wurde. Die Wiege der modernen europäischen Kommunikation durch Johannes Gutenberg und das Symbol des frühen Strebens nach Demokratie beim Hambacher Fest 1832. Ein Land der Flusslandschaften und des Weinbaus, in dem Winzerstolz und das Erbe der römischen Antike in Trier den Alltag prägen.
+„Alla gut", heißt es in der Weinstube, wenn das Glas gefüllt und das Gespräch eröffnet ist - viel mehr braucht es hier selten. Zwischen Rebhängen und Flusstälern liegt eine Region, in der Johannes Gutenberg die moderne Kommunikation erfand und Zehntausende beim Hambacher Fest 1832 für Demokratie demonstrierten, lange bevor sie nach dem Zweiten Weltkrieg aus ehemals bayerischen, hessischen und preußischen Gebieten zum Land zusammengefügt wurde. Winzerstolz und das Erbe der römischen Antike in Trier prägen bis heute den Alltag, so verlässlich wie die fünfte Jahreszeit den Kalender.
 
 ## Company
 
@@ -78,4 +78,4 @@ Der seit der Römerzeit betriebene Weinanbau etabliert Rheinland-Pfalz als das f
 
 ## Stakes
 
-Die Bewältigung der Folgen des Klimawandels für den Weinbau an den Steilhängen von Mosel und Rhein bei gleichzeitigem Erhalt des kulturellen Erbes.
+Ob der Weinbau an den Steilhängen von Mosel und Rhein den Klimawandel übersteht, ohne dass das kulturelle Erbe der Region verlorengeht.

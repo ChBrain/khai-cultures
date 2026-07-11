@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Saarland](play_saarland.md). Er bestimmt das gesellige, grenzüberschreitende und heimatverbundene Leben im Saarland.
+Die Tonart, in der die Produktion [Saarland](play_saarland.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht am Referendum über das Saarstatut 1955, nicht an der kleinen Wiedervereinigung 1957, nicht an der Stilllegung der Völklinger Hütte. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -29,8 +29,8 @@ Unter der Geselligkeit liegt ein Sicherheitsbedürfnis und die Erfahrung ständi
 
 ## Nerve
 
-Der Stolz auf den Erhalt der eigenen Identität in wechselnden Zeiten und die enge französisch-deutsche Partnerschaft, die gelebt wird.
+Getroffen wird die Genugtuung, die eigene Identität durch wechselnde Zeiten gerettet zu haben, dazu die Wärme der französisch-deutschen Partnerschaft, die hier tagtäglich gelebt wird.
 
 ## Echo
 
-Das brutzelnde Schwenkbraten über der Buchenholzkohle und das leise Zischen von Dampf in der Ferne : ein Echo, das familiär, genussvoll und industrienah klingt.
+Was bleibt, ist das brutzelnde Schwenkbraten über der Buchenholzkohle und das leise Zischen von Dampf in der Ferne. Der Nachgeschmack ist deftig wie der Schwenker selbst: familiär, genussvoll und der Industrie so nah wie dem Nachbarn jenseits der Grenze.

@@ -22,16 +22,16 @@ Tónina, v ktorej sa hrá inscenácia [Slovakia](play_slovakia.md). Nemení to, 
 
 ## Tenor
 
-Hrá sa skromne, s úctou k tým hore a s húževnatosťou tých dole: mladý národ vidieckeho ľudu pod horami, čo dlho slúžil pod cudzími pánmi, ctí vrchnosť, vieru a pieseň, drží spolu rodinu a dedinu a tvrdo sa prebíja, aby sa dostal dopredu. Pod pokorou a pohostinnosťou je tichá tvrdosť, trpezlivosť a dlhý dych, vôľa vydržať a obstáť tam, kde sa storočia rozhodovalo nad jeho hlavou.
+Hrá sa medzi vrchom a dolinou, tam, kde salaš tiahne hore k oblokom a jarmok dolu k susedom: národ drotárov, čo so škopkom na chrbte chodili po svete spájať cudzie rozbité hrnce a vždy sa vracali domov, do dediny, kde sa varia halušky a drží spolu rod. Pod tvrdou robotou horala je vernosť dedine, úcta k tým, čo vedia viac, a tichá hrdosť zbojníka, ktorého obesili, ale ktorého pieseň dodnes spieva každý, kto vie, čo je to nemať svoje a predsa sa nedať.
 
 ## Undertow
 
-Pod pokorou beží stará neistota a zvyk poslúchať, naučený tisícročím pod uhorskými pánmi a životom v tieni Čechov, a potreba oprieť sa o vrchnosť i o Boha. A beží pod ňou pokušenie malosti: oneskorené sebavedomie, ktoré sa raz krčí a podlieza, raz prepína do tvrdej pýchy, závisť voči tomu, komu sa darí, a tichá obava, či sa malý národ vôbec udrží sám.
+Pod vernosťou dedine beží stará opatrnosť: navyknutosť pýtať si zvolenie zhora, od pána, od fary, od staršieho brata v Prahe, a strach urobiť krok, kým to nepovie niekto nad nami. A beží pod ňou aj tôňa dediny, ktorá drží spolu: závisť na tom, komu sa v cudzine darí, jazyk, ktorý vraj vie, čo sa patrí, šuškanie za chrbtom tomu, kto sa priveľmi vyvyšuje nad ostatných, a tichý strach, či dedina bez pána vôbec vydrží sama.
 
 ## Nerve
 
-Udrie na strunu prináležania a vytrvania: teplo plného stola a piesne medzi svojimi, hrdosť, že národ pretrval bez štátu a reči, a bolesť tých, čo odišli za prácou do sveta. Hrá na pocit, že malý a dlho ovládaný človek obstojí, ak drží s rodinou, vierou a rodom, ctí poriadok a tvrdo robí, a nepýcha sa nad to, čo mu bolo súdené.
+Udrie na strunu dediny a návratu: teplo pece a misy halušiek, keď sa doma zíde rodina, hrdosť, že aj zbojník a drotár bez panstva si vydobyli svoje meno, a bolesť tých, čo so škopkom či s kufrom odišli opravovať svet a domov im ostal len na nedeľu. Hrá na to, že malý človek vydrží, ak drží s dedinou, s vierou a rodom, robí tvrdo rukami a nezabudne, kam sa má vrátiť.
 
 ## Echo
 
-Zostáva obraz národa, ktorý prežil tým, že vydržal a slúžil, a predsa sa nedal: skromný a húževnatý, veriaci a spevavý, dlho malý brat, čo neskoro dostal reč i štát a učí sa byť pánom sám nad sebou, a robí z viery, piesne a trpezlivosti vlasť, ktorú mu nik nevzal.
+Zostáva obraz národa drotárov a horalov, ktorý prežil tak, že držal spolu ako dedina a chodil s remeslom po svete, a predsa sa nedal: skromný a húževnatý, s Jánošíkovou piesňou o zbojníkovi a so Štúrovou rečou, čo dostal neskoro, dnes už aj bez staršieho brata v Prahe pánom sám nad sebou, a robí z rodiny, remesla a trpezlivosti vlasť, ktorú mu nik nevzal.

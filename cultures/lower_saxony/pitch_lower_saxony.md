@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Lower Saxony](play_lower_saxony.md). Er bestimmt das pragmatische, gelassene und ländliche Leben in Niedersachsen.
+Die Tonart, in der die Produktion [Niedersachsen](play_lower_saxony.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Schlacht bei Langensalza 1866, nicht an der Zusammenlegung von Hannover, Oldenburg, Braunschweig und Schaumburg-Lippe 1946, nicht am ersten VW Käfer, der vom Band lief. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -29,8 +29,8 @@ Unter der Gelassenheit liegt ein zäher Eigensinn und eine starke Bindung an das
 
 ## Nerve
 
-Der Stolz auf die Weite des Landes, die Fruchtbarkeit der Agrarböden und die Stärke der eigenen Industrie, die das Land zu einer Säule der Bundesrepublik machen.
+Getroffen wird die stille Genugtuung dessen, der sein Land weit, fruchtbar und verlässlich hält - über die Agrarböden ebenso wie über die Fabrikhallen, die das Land zu einer Säule der Republik machen.
 
 ## Echo
 
-Das Rauschen des Windes in den Deichkronen und das rhythmische Klacken in der Wolfsburger Fabrik : ein Echo, das weit, stetig und sturmfest klingt.
+Was bleibt, ist das Rauschen des Windes in den Deichkronen und das rhythmische Takten der Wolfsburger Fabrik. Der Nachklang ist weit und stetig wie die Küste selbst: sturmfest, nüchtern und von leiser Verlässlichkeit.

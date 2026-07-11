@@ -23,7 +23,7 @@ Murcia, comunidad autónoma y región histórica de huerta y mar del sureste de 
 
 ## Arc
 
-Un secano costero cálido de salinas y una llanura aluvial convertida en vergel por acequias andalusíes. Desde el trazado del sistema de regadío medieval y norias en el siglo X y la proclamación de soberanía federal del Cantón de Cartagena en 1873, hasta la ley de protección de la albufera del Mar Menor en 2020. Una cultura de huertanos de cítricos, salineros de marisma y asambleas de agua que vigila sus nitratos agrícolas y protege su laguna salada mediante planes ecológicos.
+Acho, el agua se cuenta aquí por turnos y por horas, que en tierra de secano costero y salinas nada se derrocha - ni el agua ni la sorna. Desde el trazado del sistema de regadío medieval y norias en el siglo X y la proclamación de soberanía federal del Cantón de Cartagena en 1873, hasta la ley de protección de la albufera del Mar Menor en 2020. Una cultura de huertanos de cítricos, salineros de marisma y asambleas de agua que vigila sus nitratos agrícolas y protege su laguna salada mediante planes ecológicos.
 
 ## Company
 

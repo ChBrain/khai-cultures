@@ -23,7 +23,7 @@ Cataluña, comunidad autónoma y nacionalidad histórica del noreste de España.
 
 ## Arc
 
-Una tierra mercantil y de vanguardia artística, definida por la costa mediterránea y los Pirineos orientales. Desde el renacimiento cultural de la Renaixença y el orgullo industrial de la Exposición de Barcelona, hasta la restauración autonómica del Estatuto de 1979. Una cultura que equilibra el seny del trabajo y la precisión estética de su modernismo con la rauxa de sus fiestas de plaza, mientras planea la inmersión de su lengua escolar.
+El seny manda en el taller y en la bodega, la rauxa manda en la plaza el día de fiesta: así se entiende Cataluña, mercantil y de vanguardia artística, entre la costa mediterránea y los Pirineos orientales. Desde el renacimiento cultural de la Renaixença y el orgullo industrial de la Exposición de Barcelona, hasta la restauración autonómica del Estatuto de 1979. Una cultura que equilibra la feina ben feta y la precisión estética de su modernismo con la rauxa de sus fiestas de plaza, sin olvidar el pactisme que negocia hasta la inmersión de su lengua escolar.
 
 ## Company
 

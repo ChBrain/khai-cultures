@@ -23,7 +23,7 @@ Comunidad Valenciana, comunidad autónoma y nacionalidad histórica del este de 
 
 ## Arc
 
-Una llanura costera, mercantil y festiva, asomada al mar Mediterráneo. Desde el trauma agrario de la expulsión de los moriscos en 1609 y la abolición de sus fueros históricos tras la derrota de Almansa en 1707, hasta el auge artístico del festival de las Fallas en el siglo XIX. Una cultura de regantes asamblearios, fuego festivo y huertas fértiles que protege el frágil ecosistema lacustre de sus arrozales mediante planes ecológicos.
+Truena la mascletà a mediodía y la traca contesta al anochecer: así suena la Comunidad Valenciana, mercantil y festiva, asomada al mar Mediterráneo. Desde el trauma agrario de la expulsión de los moriscos en 1609 y la abolición de sus fueros históricos tras la derrota de Almansa en 1707, hasta el auge artístico del festival de las Fallas en el siglo XIX. Una cultura de regantes asamblearios del Tribunal de las Aguas, fuego festivo y huertas fértiles que protege el frágil ecosistema lacustre de sus arrozales mediante planes ecológicos.
 
 ## Company
 

@@ -23,7 +23,7 @@ Islas Baleares, comunidad autónoma y nacionalidad histórica del Mediterráneo 
 
 ## Arc
 
-Un archipiélago mediterráneo de calas transparentes, olivares en terrazas de piedra seca y auge turístico de masas. Desde la conquista aragonesa de Mallorca en 1229 por Jaime I y el gran boom hotelero y turístico internacional en la década de 1960, hasta el decreto pionero de conservación de las praderas submarinas de Posidonia en 2018. Una cultura de pescadores, artesanas de Tramuntana y marinos mercantes que protege su litoral mediante planes ecológicos marinos.
+Rodeado de mar por los cuatro costados, el archipiélago vive con la calma insular y el seny mallorquín entre calas transparentes, olivares en terrazas de piedra seca y el auge del turismo de masas. Desde la conquista aragonesa de Mallorca en 1229 por Jaime I y el gran boom hotelero e internacional de la década de 1960, hasta el decreto pionero de conservación de las praderas submarinas de Posidonia en 2018. Una cultura de pescadores, artesanas de la Tramuntana y marinos mercantes que protege su litoral mediante planes ecológicos marinos.
 
 ## Company
 

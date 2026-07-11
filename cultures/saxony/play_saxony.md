@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Saxony"
+title: "Sachsen"
 description: "Sachsen inszeniert: die Wiege deutscher Industrie, geprägt von Dresdner Barock, Erfindergeist und Bürgerprotest."
-declared: "Saxony"
+declared: "Sachsen"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: Saxony
+# Play: Sachsen
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Saxony, der Freistaat Sachsen im Osten der Bundesrepublik Deutschland. ISO DE-SN, Sprache de.
+Sachsen, der Freistaat im Osten Deutschlands zwischen Erzgebirge und Elbe. ISO DE-SN, Sprache de.
 
 ## Arc
 
-Das historische Herzstück deutscher Industrialisierung und Maschinenbaukunst. Eine Region glanzvoller Kultur, deren barocke Blüte unter August dem Starken Dresden weltberühmt machte. Die historische Keimzelle der Friedlichen Revolution von 1989, die in den Leipziger Montagsdemonstrationen ihren Anfang nahm. Ein Ort, an dem traditionelles Handwerk wie die Porzellanherstellung mit dem modernen Aufstieg von „Silicon Saxony“ zum größten Mikroelektronik-Standort Europas verschmilzt.
+„Nu freilich” - was sonst: Understatement ist hier Nationalsport, auch wenn die Sache selbst gewaltig ist. Kaffeesachsen trifft sich zum Kaffee und Kuchen und redet dabei beiläufig über Weltgeschichte, denn hier verwandelte August der Starke Dresden in eine barocke Kulturmetropole, hier begannen mit den Leipziger Montagsdemonstrationen die Ereignisse, die 1989 zur Friedlichen Revolution führten, und hier verschmilzt das alte Handwerk der Porzellanherstellung mit dem modernen „Silicon Saxony”, Europas größtem Mikroelektronik-Standort. Erfindergeist, still und beharrlich, ist der rote Faden durch all das.
 
 ## Company
 
@@ -78,4 +78,4 @@ Die Montagsdemonstrationen in Leipzig erreichen am 9. Oktober ihren Höhepunkt, 
 
 ## Stakes
 
-Die Bewältigung des demografischen Wandels im ländlichen Raum und der Ausbau der Hightech-Industrie zur Sicherung des Wohlstands.
+Ob Sachsen den demografischen Wandel im ländlichen Raum bewältigt und die Hightech-Industrie so ausbaut, dass der Wohlstand gesichert bleibt.

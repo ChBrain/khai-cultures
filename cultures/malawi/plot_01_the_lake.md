@@ -36,4 +36,4 @@ The peoples settle into the lake and the land, the fishing life on the shore and
 
 ## Tension
 
-A land of many peoples gathers along one lake, each keeping its own tongue and its own way, and the long question of the country is set from the start: whether the many can be held as one. The lake feeds them all and the custom of the open hand binds them, but the many tongues and many peoples are a richness that will one day have to be made, deliberately and with care, into a single house where none is a guest.
+Many peoples gather along one lake, each keeping its own tongue and its own way, and the long question of the country is set from the start: whether the many can be held as one. The lake feeds them all and the custom of the open hand binds them, but the many tongues and many peoples are a richness that will one day have to be made, deliberately and with care, into a single house where none is a guest.

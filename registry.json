@@ -1000,7 +1000,7 @@
     {
       "kind": "culture",
       "id": "lower_saxony",
-      "title": "Lower Saxony",
+      "title": "Niedersachsen",
       "description": "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit.",
       "iso": "DE-NI"
     },
@@ -1105,7 +1105,7 @@
     {
       "kind": "culture",
       "id": "mecklenburg_western_pomerania",
-      "title": "Mecklenburg-Western Pomerania",
+      "title": "Mecklenburg-Vorpommern",
       "description": "Mecklenburg-Vorpommern inszeniert: das Land der Seen und Ostseeküste, geprägt von Hanse-Tradition und Naturschutz.",
       "iso": "DE-MV"
     },
@@ -1350,7 +1350,7 @@
     {
       "kind": "culture",
       "id": "north_rhine_westphalia",
-      "title": "North Rhine-Westphalia",
+      "title": "Nordrhein-Westfalen",
       "description": "NRW inszeniert: das einstige Kohle- und Stahlzentrum, geprägt von Kumpelmentalität, Strukturwandel und Karneval.",
       "iso": "DE-NW"
     },

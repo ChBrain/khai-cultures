@@ -26,7 +26,7 @@ La pertenencia a una tierra de contraste marcado, cumbres alpinas al norte y est
 
 ## Orders
 
-Que se guarde la palabra dada como se guardaban los fueros, y que el pacto y la asamblea vecinal pesen más que la orden impuesta desde fuera; que se hable con seriedad y sin adorno, valorando la firmeza antes que el gesto; que se respeten los ciclos del pasto, del riego y de la trashumancia; y que la tenacidad, la lealtad a la tierra heredada y el apoyo familiar se sostengan como las verdaderas anclas de una vida estable.
+Que se guarde la palabra dada como se guardaban los fueros, y que el pacto y la asamblea vecinal pesen más que la orden impuesta desde fuera; que se hable con seriedad y sin adorno, valorando la firmeza antes que el gesto; que se respeten los ciclos del pasto, del riego y de la trashumancia; y que la tenacidad, la lealtad a la tierra heredada y el apoyo familiar sostengan, mejor que cualquier ley, una vida estable.
 
 ## Loses
 

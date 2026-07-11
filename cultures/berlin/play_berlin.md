@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Berlin, die Hauptstadt und das Bundesland der Bundesrepublik Deutschland. ISO DE-BE, Sprache de.
+Berlin, die Hauptstadt zwischen Spree und Mauerresten, laut, unfertig und ständig im Umbau. ISO DE-BE, Sprache de.
 
 ## Arc
 
-Eine Stadt, die durch eine Mauer zerrissen und nach deren Fall zum Symbol der Freiheit und der Wiedervereinigung wurde. Ein Ort, an dem verlassene Industriebrachen nach 1989 zur Geburtsstätte einer weltberühmten Techno-Subkultur wurden. Eine Metropole der ständigen Neuerfindung, in der Menschen aus aller Welt in Start-ups arbeiten, während die ältere Generation die Erinnerung an die geteilte Stadt bewahrt.
+Eine Mauer zerschnitt diese Stadt, und ihr Fall machte sie zum Symbol der Freiheit; aus den Industriebrachen des Ostens wuchs danach eine weltberühmte Techno-Subkultur. „Arm, aber sexy" nannte sie ein Bürgermeister, und die Stadt trug es wie ein Ehrenabzeichen. Wer hier bleibt, redet mit Berliner Schnauze - ick sag, wat ick denk, und wa solls. Start-ups und Erinnerung an die Teilung wohnen Tür an Tür, und beide beanspruchen die Stadt für sich.
 
 ## Company
 
@@ -78,4 +78,4 @@ In den Leerständen der ehemals geteilten Stadt entwickelt sich eine vitale Club
 
 ## Stakes
 
-Das Zusammenwachsen zweier ehemals unterschiedlicher Gesellschaften im Osten und Westen der Stadt bei gleichzeitiger Bewältigung von Gentrifizierung und wirtschaftlichem Wandel.
+Ob eine Stadt, die zwei Gesellschaften im Osten und Westen zusammenwachsen ließ, ihre Freiheit und ihre Armut bewahrt, wenn Gentrifizierung und wirtschaftlicher Wandel den freien Raum verdrängen, der sie erst sexy gemacht hat.

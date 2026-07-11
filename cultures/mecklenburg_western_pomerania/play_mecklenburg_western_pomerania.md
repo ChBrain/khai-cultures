@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Mecklenburg-Western Pomerania"
+title: "Mecklenburg-Vorpommern"
 description: "Mecklenburg-Vorpommern inszeniert: das Land der Seen und Ostseeküste, geprägt von Hanse-Tradition und Naturschutz."
-declared: "Mecklenburg-Western Pomerania"
+declared: "Mecklenburg-Vorpommern"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: Mecklenburg-Western Pomerania
+# Play: Mecklenburg-Vorpommern
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Mecklenburg-Western Pomerania, das Bundesland Mecklenburg-Vorpommern im Nordosten der Bundesrepublik Deutschland. ISO DE-MV, Sprache de.
+Mecklenburg-Vorpommern, das dünn besiedelte Küstenland zwischen Ostsee und Seenplatte im Nordosten Deutschlands. ISO DE-MV, Sprache de.
 
 ## Arc
 
-Ein wasserreiches Küstenland an der Ostsee, geprägt von der ruhigen Mecklenburger Seenplatte und den historischen Hansestädten Rostock und Wismar. Die Wiege akademischer Bildung im Norden durch die Gründung der Universität Rostock 1419. Nach der Wende 1990 als Bundesland neu gebildet, steht die Region heute im Spannungsfeld zwischen der Bewahrung ihrer einzigartigen maritim-ökologischen Naturräume und dem Ausbau von Tourismus und Hafenwirtschaft.
+„Nu" - ein Wort, das hier für einen ganzen Satz reicht, wenn das Boddenlicht über der Seenplatte liegt und niemand es eilig hat. Die Hansestädte Rostock und Wismar trugen den Handel der Ostsee schon, als 1419 mit der Universität Rostock die erste akademische Wiege des Nordens entstand. Nach der Wende 1990 neu als Bundesland zusammengefügt aus den Bezirken Rostock, Schwerin und Neubrandenburg, lebt die Region heute im weiten Schweigen zwischen dem Schutz ihrer maritim-ökologischen Naturräume und dem Sog von Tourismus und Hafenwirtschaft.
 
 ## Company
 
@@ -78,4 +78,4 @@ Nach dem Ende der DDR entsteht das Bundesland Mecklenburg-Vorpommern durch die Z
 
 ## Stakes
 
-Der wirksame Schutz der Ostseeökologie vor Überdüngung und Klimawandel bei gleichzeitiger Sicherung des Tourismus als wirtschaftliches Rückgrat.
+Ob Mecklenburg-Vorpommern die Ostseeökologie wirksam vor Überdüngung und Klimawandel schützt und dabei den Tourismus als wirtschaftliches Rückgrat sichert.

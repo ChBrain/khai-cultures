@@ -23,7 +23,7 @@ Cantabria, comunidad autónoma y nacionalidad histórica del norte de España. I
 
 ## Arc
 
-Una cornisa costera de puertos pesqueros encajados, praderas verdes de media montaña y honda tradición pasiega. Desde el descubrimiento científico de las pinturas rupestres de Altamira en 1879 y el devastador incendio urbano de Santander en 1941, hasta el plan integral de saneamiento de sus bahías y rías del Cantábrico. Una cultura de pescadores de bajura, ganaderos pasiegos y conserveras artesanales que protege su medio acuático mediante planes ecológicos litorales.
+Aquí la montaña baja hasta mojarse los pies en el mar, entre puertos pesqueros encajados y praderas verdes de media ladera donde el orgullo pasiego se guarda en silencio. Desde el descubrimiento científico de las pinturas rupestres de Altamira en 1879 y el devastador incendio urbano de Santander en 1941, hasta el plan integral de saneamiento de sus bahías y rías del Cantábrico. Una cultura de pescadores de bajura, ganaderos pasiegos y conserveras artesanales que protege su medio acuático mediante planes ecológicos litorales.
 
 ## Company
 

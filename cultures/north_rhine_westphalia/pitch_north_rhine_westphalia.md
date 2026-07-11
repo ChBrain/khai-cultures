@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [North Rhine-Westphalia](play_north_rhine_westphalia.md). Er bestimmt das gesellige, ehrliche und industriebetonte Leben in Nordrhein-Westfalen.
+Die Tonart, in der die Produktion [Nordrhein-Westfalen](play_north_rhine_westphalia.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Erschließung der Kohleflöze ab 1850, nicht an der Operation Marriage von 1946, nicht an der Schließung der letzten Zeche 2018. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -25,12 +25,12 @@ Eine ehrliche und direkte Kommunikation, getragen von rheinischer Herzlichkeit u
 
 ## Undertow
 
-Unter der Fröhlichkeit liegt die melancholische Erinnerung an den Abschied von Kohle und Stahl. Der Strukturwandel erzeugt ein Gefühl der Verunsicherung über die wirtschaftliche Zukunft. Der Ton drückt das Bedürfnis aus, den solidarischen Zusammenhalt zu bewahren und den Umbau der Region aktiv mitzubestimmen, ohne die eigene Geschichte zu verleugnen.
+Unter der Fröhlichkeit liegt die melancholische Erinnerung an den Abschied von Kohle und Stahl. Der Strukturwandel erzeugt ein Gefühl der Verunsicherung über die wirtschaftliche Zukunft, und dahinter steht der feste Wille, den solidarischen Zusammenhalt zu bewahren und den Umbau der Region aktiv mitzubestimmen, ohne die eigene Geschichte zu verleugnen.
 
 ## Nerve
 
-Der Stolz auf die ehrliche Arbeiterkultur, den Beitrag des Reviers zum Wirtschaftswunder und die Lebensfreude des Rheinlandes, die das Land vereint.
+Getroffen wird der Kumpel-Stolz auf die ehrliche Arbeiterkultur, den Beitrag des Reviers zum Wirtschaftswunder und die Lebensfreude des Rheinlandes, die Ruhrpott und Rhein trotz aller Sturheit vereint.
 
 ## Echo
 
-Das dumpfe Singen des Steigerliedes und das laute Lachen auf den Kölner Straßen am Rosenmontag : ein Echo, das solidarisch, fröhlich und zäh klingt.
+Was bleibt, ist das dumpfe Singen des Steigerliedes und das laute Lachen auf den Kölner Straßen am Rosenmontag. Der Nachklang ist zäh wie der Pott und fröhlich wie das Rheinland: solidarisch, laut und, wie man hier sagt, woll.

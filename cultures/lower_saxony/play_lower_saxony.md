@@ -1,8 +1,8 @@
 ---
 khai: play
-title: "Lower Saxony"
+title: "Niedersachsen"
 description: "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit."
-declared: "Lower Saxony"
+declared: "Niedersachsen"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Play: Lower Saxony
+# Play: Niedersachsen
 
 ## Estate
 
@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Lower Saxony, das Bundesland Niedersachsen im Norden der Bundesrepublik Deutschland. ISO DE-NI, Sprache de.
+Niedersachsen, zweitgrößtes Flächenland Deutschlands im Norden zwischen Nordsee und Harz. ISO DE-NI, Sprache de.
 
 ## Arc
 
-Ein ausgedehntes Flächenland, das 1946 durch die Zusammenlegung der historischen Territorien Hannover, Oldenburg, Braunschweig und Schaumburg-Lippe entstand. Eine Region der Kontraste zwischen der sturmfesten Küstenkultur Ostfrieslands und der globalen industriellen Macht von Volkswagen in Wolfsburg. Ein Ort, an dem friesische Gelassenheit bei der Teezeremonie und die hochgetaktete Autoproduktion nebeneinander existieren.
+„Moin" sagt man hier zu jeder Tageszeit, und schon das genügt als Programm: Niedersachsen redet nicht viel, es hält. Zwischen Deich und Heide liegt ein Land der Gegensätze - die sturmfeste Küstenkultur Ostfrieslands auf der einen Seite, das hochgetaktete Band von Volkswagen in Wolfsburg auf der anderen, wo der Käfer zum Schicksal ganzer Generationen wurde. Erst 1946 aus den historischen Ländern Hannover, Oldenburg, Braunschweig und Schaumburg-Lippe zusammengesetzt, verbindet die Region bis heute friesische Gelassenheit bei der Teezeremonie mit der eisernen Disziplin der Fabrikhalle.
 
 ## Company
 
@@ -78,4 +78,4 @@ Unter der Leitung des britischen Offiziers Ivan Hirst beginnt die Serienprodukti
 
 ## Stakes
 
-Die ökologische Transformation der Landwirtschaft und der Wandel der Automobilindustrie bei gleichzeitiger Nutzung der windreichen Küsten für die Energiewende.
+Ob Niedersachsen die ökologische Transformation seiner Landwirtschaft und den Wandel seiner Automobilindustrie bewältigt, während es die windreichen Küsten für die Energiewende nutzt.

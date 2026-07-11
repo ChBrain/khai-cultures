@@ -23,7 +23,7 @@ Andalucía, comunidad autónoma y nacionalidad histórica del sur de España. IS
 
 ## Arc
 
-Una tierra cálida, agrícola y de honda herencia multicultural, definida por el río Guadalquivir y las sierras del sur. Desde el escaparate regionalista de la Exposición de Sevilla de 1929 y los duros conflictos de la reforma agraria de los años treinta, hasta el logro popular de su plena autonomía en el referéndum de 1980. Una cultura de jornaleros solidarios, expresión flamenca y bodegas históricas que regula el uso de su agua agrícola mediante planes operativos de riego.
+El compás manda antes que el reloj en esta tierra de calor humano y herencia multicultural, definida por el río Guadalquivir y las sierras del sur. Desde el escaparate regionalista de la Exposición de Sevilla de 1929 y los duros conflictos de la reforma agraria de los años treinta, hasta el logro popular de su plena autonomía en el referéndum de 1980. Una cultura de jornaleros solidarios, expresión flamenca y bodegas históricas que regula el uso de su agua agrícola mediante planes operativos de riego.
 
 ## Company
 
@@ -78,4 +78,4 @@ Andalucía consigue por votación popular masiva su autonomía plena por la vía
 
 ## Stakes
 
-Si una nacionalidad marcada por la desigual propiedad de la tierra y la estacionalidad del campo puede sostener la modernización agrícola de sus cooperativas y su vibrante expresión cultural sin perder la cohesión campesina.
+Si Andalucía, marcada por el reparto desigual de la tierra y la estacionalidad del campo, logra modernizar sus cooperativas agrícolas y sostener su vibrante expresión cultural sin que se rompa la cohesión de sus jornaleros.

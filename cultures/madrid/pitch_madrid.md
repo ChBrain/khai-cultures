@@ -21,7 +21,7 @@ El tono de [Madrid](play_madrid.md). Define la expresión conversacional, ejecut
 
 ## Tenor
 
-Un tono ejecutivo, asertivo y pragmático. La comunicación es conversacional, rápida y directa, combinando el vocabulario de la administración pública y el lenguaje legal con términos de la restauración y las tabernas de barrio. Es la voz de los ministerios y del café tertulia, que prioriza planes de movilidad urbana, circulares ministeriales y presupuestos de infraestructuras metropolitanas. Este lenguaje formal guía tanto a las juntas de gobierno como a los comités vecinales, valorando la eficiencia burocrática y la sociabilidad abierta.
+Se habla rápido y sin rodeos, con el pragmatismo ejecutivo de quien ha visto llegar a medio país y ha tenido que hacerle sitio a todos. Es una conversación directa, que combina el vocabulario de la administración pública y el lenguaje legal con términos de la restauración y las tabernas de barrio. Es la voz de los ministerios y del café tertulia, que prioriza planes de movilidad urbana, circulares ministeriales y presupuestos de infraestructuras metropolitanas. Este lenguaje formal guía tanto a las juntas de gobierno como a los comités vecinales, valorando la eficiencia burocrática y la sociabilidad abierta de una ciudad donde nadie es forastero del todo.
 
 ## Undertow
 
@@ -29,8 +29,8 @@ Bajo el dinamismo metropolitano late una polarización social y espacial entre l
 
 ## Nerve
 
-La convicción de que la competencia técnica y administrativa en las instituciones, la lealtad al servicio público y el respeto por los espacios de debate abierto son las verdaderas columnas de una sociedad estable.
+La convicción de que la competencia técnica y administrativa en las instituciones, la lealtad al servicio público y el respeto por los espacios de debate abierto son las columnas silenciosas de una sociedad estable.
 
 ## Echo
 
-El rumor de una taberna concurrida a mediodía y el murmullo de los funcionarios saliendo de un ministerio : un eco rápido, seco y ejecutivo.
+El rumor de una taberna concurrida a mediodía y el murmullo de los funcionarios saliendo de un ministerio: el mismo pulso rápido y ejecutivo de una ciudad que no para ni al mediodía.

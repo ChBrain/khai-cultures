@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Der Ton der Produktion [Baden-Württemberg](play_baden_wuerttemberg.md). Er bestimmt das fleißige, tüftelnde und naturverbundene Leben im Südwesten.
+Die Tonart, in der die Produktion [Baden-Württemberg](play_baden_wuerttemberg.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Volksabstimmung von 1951, nicht am Patent von Carl Benz, nicht an der Kehrwoche. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Der Ton der Produktion [Baden-Württemberg](play_baden_wuerttemberg.md). Er best
 
 ## Tenor
 
-Eine bodenständige Nüchternheit, geprägt von schwäbischem Fleiß und badischer Genussfreude. Die Kommunikation ist ehrlich, direkt und oft von einer leisen Ironie durchzogen. Die Dialekte werden mit Stolz gepflegt und stehen für Heimatverbundenheit. Man pflegt eine ausgeprägte Arbeitsdisziplin, die sich mit einer tiefen Wertschätzung für gute Küche paart. Es ist der Ton eines Volkes, das sich selbst nicht zu wichtig nimmt, aber von seiner Leistungsfähigkeit überzeugt ist.
+Der Schwabe tüftelt, bevor er redet, der Badener isst, bevor er urteilt. Man lobt nicht, man schweigt zufrieden - das gilt hier schon als Anerkennung. Der Dialekt bleibt, auch wenn das Hochdeutsch fehlt; „Wir können alles. Außer Hochdeutsch" ist keine Entschuldigung, sondern eine Rangordnung der Prioritäten. Am Samstag kehrt jeder sein Stück Bürgersteig, ohne dass es einer anordnen müsste - die Kehrwoche ist Charakter, kein Kalender. Gespielt wird in einer knappen, werkstattnahen Tonlage, in der das Handfeste mehr zählt als das große Wort.
 
 ## Undertow
 
-Unter dem Fleiß liegt eine große Sorge vor Unordnung und gesellschaftlichem Kontrollverlust. Es herrscht ein starkes Bedürfnis nach bürgerlicher Absicherung und sozialer Konformität, das im Alltag manchmal kleinbürgerlich wirken kann. Der Ton drückt das Bedürfnis aus, die gewohnte Ordnung und die Schönheit der Natur zu bewahren.
+Unter dem Fleiß liegt die Angst vor der Unordnung: der ungekehrte Gehweg, das unaufgeräumte Regal, die Kontrolle, die verlorengeht, wenn keiner mehr nachschaut. Diese Sorge kann kleinbürgerlich wirken, doch sie ist der Preis für eine Verlässlichkeit, auf die man sich blind verlassen kann. Wer im Schwarzwald ein Haus baut, baut es für Generationen, nicht für den schnellen Verkauf - und genau darin liegt die eigentliche Bewahrung: nicht die Ordnung selbst, sondern das, was sie schützt.
 
 ## Nerve
 
-Der Stolz auf die eigene Innovationskraft und den wirtschaftlichen Erfolg, der aus einer Region ohne Rohstoffe durch Fleiß und Erfindungsgeist geschaffen wurde.
+Getroffen wird der stille Stolz dessen, der aus einer Region ohne Bodenschätze mit den eigenen Händen etwas geschaffen hat, das in der ganzen Welt fährt. Es spielt für die Genugtuung, dass Fleiß und Tüftelei mehr wert sind als ererbtes Glück.
 
 ## Echo
 
-Das gleichmäßige Ticken einer Kuckucksuhr in einer Schwarzwaldstube und das präzise Summen einer Werkzeugmaschine : ein Echo, das verlässlich, heimatverbunden und hochpräzise klingt.
+Was bleibt, ist das Ticken der Kuckucksuhr im Takt mit dem Summen der Werkzeugmaschine: zwei Uhren, die dieselbe Zeit schlagen. Der Nachgeschmack ist trocken und genau wie ein gut gehobelter Schrank: schaffig, heimatverbunden und ganz ohne Hochdeutsch.

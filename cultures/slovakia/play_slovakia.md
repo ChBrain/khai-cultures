@@ -23,7 +23,7 @@ Slovensko, vnútrozemská krajina v strede Európy, na sever od Dunaja, pod hreb
 
 ## Arc
 
-Mladý národ, ktorý takmer celé dejiny patril iným: tisíc rokov hornou časťou Uhorska pod maďarskými pánmi, potom mladším bratom v Česko-Slovensku v tieni Čechov, a sám sebou až od roku 1993. Vlastnú spisovnú reč dostal neskoro, keď ju Štúr kodifikoval, a hájil ju proti pomaďarčovaniu; vlastný štát ešte neskôr, pokojne, rozdelením s Čechmi. Z toho, že tak dlho slúžil pod cudzou vrchnosťou, si neodniesol pýchu, ale skromnosť, trpezlivosť a hlbokú vieru vidieckeho ľudu pod horami. Pod tým všetkým bije jeden nerv: že malý, dlho ovládaný národ sa drží jazykom, vierou a piesňou, a že napokon, bez krviprelievania, dospel a stal sa pánom sám nad sebou.
+Národ z vrchov a dolín, drotárov, čo so škopkom na chrbte chodili po svete opravovať cudzie hrnce a vracali sa domov k rodine a k saláchom pod Tatrami: skoro celé dejiny patril iným, tisíc rokov hornou časťou Uhorska pod maďarskými pánmi, potom mladším bratom v Česko-Slovensku v tieni Čechov, a sám sebou až od roku 1993. Vlastnú spisovnú reč dostal neskoro, keď ju Štúr kodifikoval a hájil proti pomaďarčovaniu, jazykom, ktorý si dedina vždy držala pre seba. Zbojník Jánošík, obesený v Liptove, ostal piesňou o tom, že aj malý človek sa vie postaviť pánom. Vlastný štát prišiel ešte neskôr, a to potichu: nie vojnou, ale rozvodom, akoby dve dediny na krížnych cestách usúdili, že odteraz pôjde každá svojou dolinou, a predsa si nechajú spoločný stôl. Pod tým všetkým bije jeden nerv: že malý, dlho ovládaný národ drží spolu ako dedina, jazykom, drotárskym remeslom a trpezlivosťou, a že napokon, bez krviprelievania, dorástol a stal sa pánom sám nad sebou.
 
 ## Company
 

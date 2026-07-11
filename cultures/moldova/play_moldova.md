@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Moldova"
-description: "Moldova pusă în scenă ca o cultură: o zonă de graniță cu podgorii și răscruci, definită de căutarea identității."
+description: "Moldova staged as a culture: a land of hillside vineyards and deep cellars where identity is not a puzzle to solve but a table set for whoever knocks."
 declared: "Moldova"
 language: ro
 license: CC-BY-NC-SA-4.0

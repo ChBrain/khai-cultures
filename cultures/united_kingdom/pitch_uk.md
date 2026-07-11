@@ -22,7 +22,7 @@ The key in which the production [United Kingdom](play_united_kingdom.md) is play
 
 ## Tenor
 
-Say less than you mean and never make a fuss. A thing is praised by not being criticised, a disaster met with the remark that it could be worse, and strong feeling kept behind a level voice. Everyone takes their turn and waits for it; fairness is the orderly queue made into a creed. The playing is dry and ironic, courteous and reserved, with a faith that one muddles through and that the understated, sensible thing usually beats the grand gesture. The island keeps its own counsel and yet looks out across the water, sure of itself without needing to say so.
+Four nations share one crown, and the politeness between them is negotiated, not natural: Westminster proposes and Holyrood, Cardiff Bay, and Stormont answer back, each in its own devolved key. 'Keep calm and carry on' began as a wartime poster and stayed on as the union's private motto, the promise that whatever London and the nations owe each other, the front will hold. A thing is praised by not being criticised, a disaster met with the remark that it could be worse, and strong feeling kept behind a level voice. The playing is dry and ironic, courteous and reserved, with a faith that one muddles through and that the understated, sensible thing usually beats the grand gesture.
 
 ## Undertow
 

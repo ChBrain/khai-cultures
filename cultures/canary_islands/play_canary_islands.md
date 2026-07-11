@@ -23,7 +23,7 @@ Islas Canarias, comunidad autónoma y nacionalidad histórica del Atlántico esp
 
 ## Arc
 
-Un archipiélago volcánico, atlántico y transoceánico, puente de unión con las Américas. Desde la conquista de las islas por Castilla en 1496 y las escalas de Colón para avituallar sus naves en 1492, hasta la inauguración del observatorio del Teide en 1964. Una cultura de agricultores de plataneras de terraza, lenguaje silbado entre profundos barrancos y alegres carnavales que regula el ecosistema de sus cumbres volcánicas mediante planes de conservación.
+Lejos de la Península y cerca de África y América, el archipiélago volcánico atlántico ha hecho de la lejanía su puente, no su condena. Desde la conquista de las islas por Castilla en 1496 y las escalas de Colón para avituallar sus naves en 1492, hasta la inauguración del observatorio del Teide en 1964. Una cultura de agricultores de plataneras de terraza, lenguaje silbado entre profundos barrancos y alegres carnavales que regula el ecosistema de sus cumbres volcánicas mediante planes de conservación.
 
 ## Company
 
