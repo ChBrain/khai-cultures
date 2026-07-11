@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Togolese French"
-declared: "le francais togolais"
+declared: "le français togolais"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: le francais togolais
+# Position: le français togolais
 
 ## Taxonomy
 

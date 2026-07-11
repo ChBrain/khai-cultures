@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Diriangen"
-declared: "Diriangen"
+title: "Diriangén"
+declared: "Diriangén"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Diriangen
+# Persona: Diriangén
 
 ## Taxonomy
 

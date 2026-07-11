@@ -1,7 +1,7 @@
 ---
 khai: place
-title: "Lome"
-declared: "Lome"
+title: "Lomé"
+declared: "Lomé"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Place: Lome
+# Place: Lomé
 
 ## Taxonomy
 
@@ -22,7 +22,7 @@ Parent group: places
 
 ## Shown
 
-La capitale posée au ras de l'eau, sur le golfe de Guinée, là où la côte de palmiers rencontre la ville: le bord de mer et le port, les avenues animées, et au coeur de tout le grand marché, royaume des Nana Benz et de leur pagne wax, où les motifs s'empilent du sol au plafond et où tout le pays vient vendre et acheter. Tout près, Akodessewa, le marché du féticheur, où se trouve ce qu'il faut pour le rite et la médecine traditionnelle. Une ville de négoce et de mélange, où l'ewe, le mina et le français se croisent du matin au soir.
+La capitale posée au ras de l'eau, sur le golfe de Guinée, là où la côte de palmiers rencontre la ville: le bord de mer et le port, les avenues animées, et au cœur de tout le grand marché, royaume des Nana Benz et de leur pagne wax, où les motifs s'empilent du sol au plafond et où tout le pays vient vendre et acheter. Tout près, Akodessewa, le marché du féticheur, où se trouve ce qu'il faut pour le rite et la médecine traditionnelle. Une ville de négoce et de mélange, où l'ewe, le mina et le français se croisent du matin au soir.
 
 ## Holds
 

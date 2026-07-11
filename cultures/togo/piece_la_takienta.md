@@ -26,7 +26,7 @@ Dressée sur les collines sèches du Koutammakou, au nord-est: la maison-tour de
 
 ## Load Bearing
 
-Elle porte l'art de bâtir et de vivre du nord, et la preuve qu'on peut faire grand sur une terre qui donne peu. Demeure, grenier et sanctuaire sous un même toit de boue et de paille, elle abrite la famille, son grain et ses esprits ensemble; sa forme dit le savoir transmis de père en fils, le respect de l'ancêtre logé sous le même toit, et la dignité d'un nord qui a fait beau de l'austère. Sans elle, le pays perdrait le chef-d'oeuvre par lequel le nord tient son rang à côté de la côte.
+Elle porte l'art de bâtir et de vivre du nord, et la preuve qu'on peut faire grand sur une terre qui donne peu. Demeure, grenier et sanctuaire sous un même toit de boue et de paille, elle abrite la famille, son grain et ses esprits ensemble; sa forme dit le savoir transmis de père en fils, le respect de l'ancêtre logé sous le même toit, et la dignité d'un nord qui a fait beau de l'austère. Sans elle, le pays perdrait le chef-d'œuvre par lequel le nord tient son rang à côté de la côte.
 
 ## Apparent
 

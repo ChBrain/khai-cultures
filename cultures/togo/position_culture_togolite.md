@@ -26,7 +26,7 @@ L'appartenance à un pays mince comme une lame, taillé en travers des peuples p
 
 ## Orders
 
-Elle ordonne que la dignité ne se mendie pas, qu'on tienne parole et qu'on tienne sa place devant plus fort que soi; qu'on se marie d'un bord à l'autre du pays sans y voir une frontière, et qu'on tape le tambour des deux côtés du même sol; que l'ancêtre regarde ce que font les vivants et que la natte, la richesse comme le repas, se partage avec la parenté; et qu'un petit pays ne se croie jamais petit dans le coeur devant le monde.
+Elle ordonne que la dignité ne se mendie pas, qu'on tienne parole et qu'on tienne sa place devant plus fort que soi; qu'on se marie d'un bord à l'autre du pays sans y voir une frontière, et qu'on tape le tambour des deux côtés du même sol; que l'ancêtre regarde ce que font les vivants et que la natte, la richesse comme le repas, se partage avec la parenté; et qu'un petit pays ne se croie jamais petit dans le cœur devant le monde.
 
 ## Loses
 

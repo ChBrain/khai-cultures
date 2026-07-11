@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Nicaragua"
-description: "Nicaragua, tierra de lagos y volcanes y de poetas, dos veces dividida entre el Pacifico y el Caribe."
+description: "Nicaragua, tierra de lagos y volcanes y de poetas, dos veces dividida entre el Pacífico y el Caribe."
 declared: "Nicaragua"
 language: es
 license: CC-BY-NC-SA-4.0

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La conviction que la terre n'est pas qu'un sol qu'on laboure, mais une parenté d'esprits et d'ancêtres à qui l'on doit le respect. Au coeur de cela il y a le vodun, la croyance traditionnelle prise dans sa dignité: les divinités des eaux, des arbres et des carrefours, les ancêtres qu'on n'oublie pas, les rites qui scellent la naissance, le mariage et le départ. Il y a aussi le savoir des plantes, la médecine traditionnelle qui soigne avec ce que la brousse donne, et les marchés comme celui d'Akodessewa où se trouve ce qu'il faut pour le rite. C'est la position qui dit que rien ici ne se fait sans saluer d'abord ce qu'on ne voit pas.
+La conviction que la terre n'est pas qu'un sol qu'on laboure, mais une parenté d'esprits et d'ancêtres à qui l'on doit le respect. Au cœur de cela il y a le vodun, la croyance traditionnelle prise dans sa dignité: les divinités des eaux, des arbres et des carrefours, les ancêtres qu'on n'oublie pas, les rites qui scellent la naissance, le mariage et le départ. Il y a aussi le savoir des plantes, la médecine traditionnelle qui soigne avec ce que la brousse donne, et les marchés comme celui d'Akodessewa où se trouve ce qu'il faut pour le rite. C'est la position qui dit que rien ici ne se fait sans saluer d'abord ce qu'on ne voit pas.
 
 ## Orders
 

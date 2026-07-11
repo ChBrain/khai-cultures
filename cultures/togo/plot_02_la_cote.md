@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Coast and the Trading Posts"
-declared: "la cote et les comptoirs"
+declared: "la côte et les comptoirs"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: la cote et les comptoirs
+# Plot: la côte et les comptoirs
 
 ## Taxonomy
 

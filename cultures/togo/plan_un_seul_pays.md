@@ -33,7 +33,7 @@ Honorer le nord et le sud d'une égale main, sans qu'un bord prenne le pas sur l
 
 ## Implementation
 
-Une jeune nation taillée en travers de bien des peuples, qui a fait de son étroitesse une force, qui tient sa côte et son sahel sous un même drapeau, qui a porté sa voix au-delà de ses frontières et fait reconnaître au monde le chef-d'oeuvre de terre de son nord, et qui apprend encore, jour après jour, l'art difficile et patient de se tenir d'un seul tenant.
+Une jeune nation taillée en travers de bien des peuples, qui a fait de son étroitesse une force, qui tient sa côte et son sahel sous un même drapeau, qui a porté sa voix au-delà de ses frontières et fait reconnaître au monde le chef-d'œuvre de terre de son nord, et qui apprend encore, jour après jour, l'art difficile et patient de se tenir d'un seul tenant.
 
 ## Targets
 

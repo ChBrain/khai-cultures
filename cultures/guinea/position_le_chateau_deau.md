@@ -34,4 +34,4 @@ Du terrain quand la richesse sort du pays sans y rester, la bauxite chargée aux
 
 ## Drives
 
-Vit dans l'ecrivain, l'enfant de Kouroussa au bord du Niger qui a chante la terre et le village natal, et dans le premier president, qui a voulu que cette richesse appartienne d'abord au pays. Elle pousse la Guinee a tenir sa terre et son eau pour son honneur autant que pour son bien, et a vouloir que la fortune du sol se change un jour en pain pour ses enfants.
+Vit dans l'écrivain, l'enfant de Kouroussa au bord du Niger qui a chanté la terre et le village natal, et dans le premier président, qui a voulu que cette richesse appartienne d'abord au pays. Elle pousse la Guinée à tenir sa terre et son eau pour son honneur autant que pour son bien, et à vouloir que la fortune du sol se change un jour en pain pour ses enfants.

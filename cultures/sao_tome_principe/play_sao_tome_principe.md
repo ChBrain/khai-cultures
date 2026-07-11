@@ -2,7 +2,7 @@
 khai: play
 title: "Sao Tome and Principe"
 description: "Two equatorial islands of cocoa and forest, a creole nation born of the roca."
-declared: "Sao Tome e Principe"
+declared: "São Tomé e Príncipe"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,34 +11,34 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Play: Sao Tome e Principe
+# Play: São Tomé e Príncipe
 
 ## Estate
 
-[khai-cultures](https://github.com/ChBrain/khai-cultures): a casa que sustenta esta producao e responde por ela.
+[khai-cultures](https://github.com/ChBrain/khai-cultures): a casa que sustenta esta produção e responde por ela.
 
 ## Name
 
-Sao Tome e Principe, duas ilhas vulcanicas no Golfo da Guine, mesmo em cima da linha do equador, ao largo da barriga de Africa. ISO ST, lingua oficial o portugues, e no peito dos seus o forro (lungwa santome), o angolar (lung'ie tambem se ouve na ilha irma) e o lung'ie do Principe. Terra pequena de gente que se entende: aqui ninguem se perde, porque a ilha guarda toda a gente no mesmo regaco.
+São Tomé e Príncipe, duas ilhas vulcânicas no Golfo da Guiné, mesmo em cima da linha do equador, ao largo da barriga de África. ISO ST, língua oficial o português, e no peito dos seus o forro (lungwa santome), o angolar (lung'ie também se ouve na ilha irmã) e o lung'ie do Príncipe. Terra pequena de gente que se entende: aqui ninguém se perde, porque a ilha guarda toda a gente no mesmo regaço.
 
 ## Arc
 
-Quando os navios chegaram, estas ilhas nao tinham ninguem: so floresta, agua a cair e o mar a toda a volta. Foi o homem que as encheu, e encheu-as de longe, trazido a forca para a cana e depois para o cacau. Dessa mistura de gentes nasceu um povo novo que nenhum continente reclama por inteiro: os forros, donos da terra a que foram amarrados; os angolares, filhos dos que se safaram do mar e da serra e fizeram casa na mata; e os do Principe, na sua ilha mais miuda e mais verde. Da roca veio a riqueza e veio o peso, o cacau que deu a Sao Tome o nome de ilha de chocolate e deu ao trabalho um custo que se lembra com respeito e sem alarde. Por cima de tudo corre um so nervo: o leve-leve, o andar sem pressa de quem sabe que a ilha nao foge e o mar nao acaba, um povo que faz do pouco festa, que danca o tchiloli e o danco-congo, que come o seu calulu a sombra do fruta-pao, e que em 1975 tomou nas maos a sua propria casa. Gente crioula ate ao tutano, una de tao pequena e tao misturada, que carrega a historia sem se afundar nela.
+Quando os navios chegaram, estas ilhas não tinham ninguém: só floresta, água a cair e o mar a toda a volta. Foi o homem que as encheu, e encheu-as de longe, trazido à força para a cana e depois para o cacau. Dessa mistura de gentes nasceu um povo novo que nenhum continente reclama por inteiro: os forros, donos da terra a que foram amarrados; os angolares, filhos dos que se safaram do mar e da serra e fizeram casa na mata; e os do Príncipe, na sua ilha mais miúda e mais verde. Da roça veio a riqueza e veio o peso, o cacau que deu a São Tomé o nome de ilha de chocolate e deu ao trabalho um custo que se lembra com respeito e sem alarde. Por cima de tudo corre um só nervo: o leve-leve, o andar sem pressa de quem sabe que a ilha não foge e o mar não acaba, um povo que faz do pouco festa, que dança o tchiloli e o danço-congo, que come o seu calulu à sombra do fruta-pão, e que em 1975 tomou nas mãos a sua própria casa. Gente crioula até ao tutano, una de tão pequena e tão misturada, que carrega a história sem se afundar nela.
 
 ## Company
 
 **Personas**
 
-- [Francisco Jose Tenreiro](persona_tenreiro.md)
-- [Alda Espirito Santo](persona_alda.md)
+- [Francisco José Tenreiro](persona_tenreiro.md)
+- [Alda Espírito Santo](persona_alda.md)
 - [Caetano da Costa Alegre](persona_costa_alegre.md)
 - [Pedro Lima](persona_pedro_lima.md)
 - [o roceiro](persona_roceiro.md)
 
 **Places**
 
-- [Sao Tome](place_sao_tome.md)
-- [a ilha do Principe](place_principe.md)
+- [São Tomé](place_sao_tome.md)
+- [a ilha do Príncipe](place_principe.md)
 
 **Processes**
 
@@ -48,14 +48,14 @@ Quando os navios chegaram, estas ilhas nao tinham ninguem: so floresta, agua a c
 **Positions**
 
 - [a crioulidade](position_culture_crioulidade.md)
-- [a roca](position_roca.md)
+- [a roça](position_roca.md)
 - [a insularidade](position_insularidade.md)
-- [o portugues santomense](position_language_pt_st.md)
+- [o português santomense](position_language_pt_st.md)
 
 **Pieces**
 
 - [o cacau](piece_cacau.md)
-- [o Pico Cao Grande](piece_pico_cao_grande.md)
+- [o Pico Cão Grande](piece_pico_cao_grande.md)
 
 **Pitches**
 
@@ -63,26 +63,26 @@ Quando os navios chegaram, estas ilhas nao tinham ninguem: so floresta, agua a c
 
 **Plans**
 
-- [a nacao crioula](plan_nacao_crioula.md)
+- [a nação crioula](plan_nacao_crioula.md)
 
 ## Triggers
 
 **[Plot 1: o povoamento das ilhas](plot_01_povoamento.md)**
 
-No fim do seculo XV os navios encontram duas ilhas sem ninguem e plantam-lhes a cana e a primeira [roca](position_roca.md), enchendo de gente trazida de longe uma terra que ate ali so tinha floresta e mar.
+No fim do século XV os navios encontram duas ilhas sem ninguém e plantam-lhes a cana e a primeira [roça](position_roca.md), enchendo de gente trazida de longe uma terra que até ali só tinha floresta e mar.
 
 **[Plot 2: o nascer do povo crioulo](plot_02_povo_crioulo.md)**
 
-Da mistura forcada das gentes brota um povo novo, com os angolares feitos na mata e os forros na terra da roca, e [a crioulidade](position_culture_crioulidade.md) torna-se a alma das ilhas, levada na voz por [Caetano da Costa Alegre](persona_costa_alegre.md).
+Da mistura forçada das gentes brota um povo novo, com os angolares feitos na mata e os forros na terra da roça, e [a crioulidade](position_culture_crioulidade.md) torna-se a alma das ilhas, levada na voz por [Caetano da Costa Alegre](persona_costa_alegre.md).
 
 **[Plot 3: o tempo do cacau](plot_03_cacau.md)**
 
-No virar do seculo XX o cacau faz de Sao Tome a ilha de chocolate, e [o cacau](piece_cacau.md) traz riqueza e traz um custo de trabalho que [Francisco Jose Tenreiro](persona_tenreiro.md) ha de cantar com a dignidade dos seus.
+No virar do século XX o cacau faz de São Tomé a ilha de chocolate, e [o cacau](piece_cacau.md) traz riqueza e traz um custo de trabalho que [Francisco José Tenreiro](persona_tenreiro.md) há de cantar com a dignidade dos seus.
 
-**[Plot 4: a independencia (1975)](plot_04_independencia.md)**
+**[Plot 4: a independência (1975)](plot_04_independencia.md)**
 
-A 12 de julho de 1975 as ilhas tomam nas maos a sua propria casa e [Alda Espirito Santo](persona_alda.md) da-lhes o hino, fazendo da [crioulidade](position_culture_crioulidade.md) uma nacao soberana.
+A 12 de julho de 1975 as ilhas tomam nas mãos a sua própria casa e [Alda Espírito Santo](persona_alda.md) dá-lhes o hino, fazendo da [crioulidade](position_culture_crioulidade.md) uma nação soberana.
 
 ## Stakes
 
-Se um povo crioulo nascido da roca, una de tao pequena e dona de duas ilhas no meio do mar, pode guardar o seu leve-leve e o calor da sua mesa sem se desfazer, segurar a floresta e o cacau que sao o seu pao, manter viva a fala dos seus quando o mundo aperta e os filhos partem, e levar adiante a casa que tomou nas maos em 1975 sem perder o jeito de gente que faz do pouco festa.
+Se um povo crioulo nascido da roça, una de tão pequena e dona de duas ilhas no meio do mar, pode guardar o seu leve-leve e o calor da sua mesa sem se desfazer, segurar a floresta e o cacau que são o seu pão, manter viva a fala dos seus quando o mundo aperta e os filhos partem, e levar adiante a casa que tomou nas mãos em 1975 sem perder o jeito de gente que faz do pouco festa.

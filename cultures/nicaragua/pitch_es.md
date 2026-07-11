@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Nicaraguan Tone"
-declared: "el tono nicaraguense"
+declared: "el tono nicaragüense"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: el tono nicaraguense
+# Pitch: el tono nicaragüense
 
 ## Taxonomy
 

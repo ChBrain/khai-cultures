@@ -22,11 +22,11 @@ Parent group: processes
 
 ## Initiated by
 
-Deux personnes que lie un cousinage a plaisanterie, le sinankunya: tel patronyme avec tel autre, tel peuple avec tel autre, le Keita avec le Coulibaly, le Bambara avec le Peul, depuis des accords noues du temps des aieux. Il suffit qu'ils se disent leurs noms pour que la plaisanterie parte d'elle-meme: l'un accusera l'autre, pour rire, d'etre son esclave, ou de manger trop de haricots, et la joute est lancee.
+Deux personnes que lie un cousinage à plaisanterie, le sinankunya: tel patronyme avec tel autre, tel peuple avec tel autre, le Keita avec le Coulibaly, le Bambara avec le Peul, depuis des accords noués du temps des aïeux. Il suffit qu'ils se disent leurs noms pour que la plaisanterie parte d'elle-même: l'un accusera l'autre, pour rire, d'être son esclave, ou de manger trop de haricots, et la joute est lancée.
 
 ## Direction
 
-Vers la paix par le rire et la familiarite obligee: ces cousins-la se doivent de se taquiner et ne peuvent ni se facher ni, en principe, se faire du mal. La ou un etranger se tairait par prudence, le cousin a plaisanterie te dira tes verites en riant, et la tension entre familles, entre peuples, se denoue dans la moquerie au lieu de monter jusqu'au couteau.
+Vers la paix par le rire et la familiarité obligée: ces cousins-là se doivent de se taquiner et ne peuvent ni se fâcher ni, en principe, se faire du mal. Là où un étranger se tairait par prudence, le cousin à plaisanterie te dira tes vérités en riant, et la tension entre familles, entre peuples, se dénoue dans la moquerie au lieu de monter jusqu'au couteau.
 
 ## Lever
 

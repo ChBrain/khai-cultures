@@ -30,8 +30,8 @@ Le pays des Batammariba, au nord-est, sur les collines sèches: tout un paysage 
 
 ## Offers
 
-Un lieu où le pays montre que le nord aussi a son chef-d'oeuvre, où la manière de bâtir en hauteur sur la terre sèche tient du savoir transmis et du respect de l'esprit, et où le visiteur apprend que la différence des deux Togo est une richesse à partager. La preuve, montée en terre, qu'on peut faire grand et beau là où la terre donne peu.
+Un lieu où le pays montre que le nord aussi a son chef-d'œuvre, où la manière de bâtir en hauteur sur la terre sèche tient du savoir transmis et du respect de l'esprit, et où le visiteur apprend que la différence des deux Togo est une richesse à partager. La preuve, montée en terre, qu'on peut faire grand et beau là où la terre donne peu.
 
 ## Withheld
 
-Le confort facile de la plaine. Le Koutammakou est né d'une terre dure où il a fallu arracher le mil au caillou et bâtir haut faute de mieux, et son chef-d'oeuvre est aussi le fruit d'une vie austère; il rappelle que la beauté du nord se paie de l'effort, et que ce paysage transmis ne tiendra que si le jeune apprend encore à relever la takienta de ses pères.
+Le confort facile de la plaine. Le Koutammakou est né d'une terre dure où il a fallu arracher le mil au caillou et bâtir haut faute de mieux, et son chef-d'œuvre est aussi le fruit d'une vie austère; il rappelle que la beauté du nord se paie de l'effort, et que ce paysage transmis ne tiendra que si le jeune apprend encore à relever la takienta de ses pères.

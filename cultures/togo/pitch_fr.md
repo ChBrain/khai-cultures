@@ -34,4 +34,4 @@ Elle frappe la corde de l'appartenance et de la dignité: la conviction que pers
 
 ## Echo
 
-Ce qui reste, c'est l'image d'un peuple posé et digne, qui tient sa place et sa parole, chaleureux à la natte et mesuré dans la dépense, fier sans bruit. Un pays qui marche au rythme du groupe et de l'aîné, qui sait que la force du faisceau tient les baguettes ensemble, et qui, petit sur la carte, se porte grand dans le coeur.
+Ce qui reste, c'est l'image d'un peuple posé et digne, qui tient sa place et sa parole, chaleureux à la natte et mesuré dans la dépense, fier sans bruit. Un pays qui marche au rythme du groupe et de l'aîné, qui sait que la force du faisceau tient les baguettes ensemble, et qui, petit sur la carte, se porte grand dans le cœur.

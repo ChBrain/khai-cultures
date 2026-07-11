@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[le chateau d'eau](position_le_chateau_deau.md)
+[le château d'eau](position_le_chateau_deau.md)
 
 ## Owner
 

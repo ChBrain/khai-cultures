@@ -25,7 +25,7 @@ Estate; a culture with no Estate is not yet a production.
   with dignity, with no graphic detail.
 - **Personas:** Ghezo (a great king of Dahomey, handled soberly as a historic
   figure), Daagbo Hounon (the Vodun high priest of Ouidah), Paul Hazoume (the
-  writer who saved the peoples' memory), and Angelique Kidjo (the voice of Benin in
+  writer who saved the peoples' memory), and Angélique Kidjo (the voice of Benin in
   the world) as the real cast, plus one archetype, the applique artisan of Abomey.
   Each is wired to the language engine by the language-crossing it holds.
 - **Positions:** Vodun (the living faith of which Benin is a cradle), the royalty
@@ -33,7 +33,7 @@ Estate; a culture with no Estate is not yet a production.
   (the Fon, the Yoruba called Nago, the Bariba, the Dendi and others under one
   flag).
 - **Places:** Abomey (the royal city, its palaces, bas-reliefs, and applique
-  banners), Ganvie (the lake village on stilts above Lake Nokoue).
+  banners), Ganvié (the lake village on stilts above Lake Nokoué).
 - **Processes:** the Vodun festival (the yearly feast at Ouidah that shows the
   faith standing in the open), the applique cloth (the royal craft of Abomey that
   tells the kingdom in figures).

@@ -1,7 +1,7 @@
 ---
 khai: persona
-title: "Ruben Dario"
-declared: "Ruben Dario"
+title: "Rubén Darío"
+declared: "Rubén Darío"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Ruben Dario
+# Persona: Rubén Darío
 
 ## Taxonomy
 

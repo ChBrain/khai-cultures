@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "The Miskito Costeno"
-declared: "el costeno miskito"
+declared: "el costeño miskito"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: archetype
 ---
 
-# Persona: el costeno miskito
+# Persona: el costeño miskito
 
 ## Taxonomy
 
