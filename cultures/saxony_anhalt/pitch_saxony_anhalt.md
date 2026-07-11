@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Sachsen-Anhalt](play_saxony_anhalt.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an Luthers Thesenanschlag 1517, nicht am Umzug des Bauhauses nach Dessau 1925, nicht an der Neugründung des Landes 1990. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
+Die Tonart der Produktion [Sachsen-Anhalt](play_saxony_anhalt.md) - sie ändert nichts an 1517, nichts an 1925. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -33,4 +33,4 @@ Getroffen wird die nüchterne Genugtuung über die revolutionären Ideen des Bau
 
 ## Echo
 
-Was bleibt, ist das leise Surren der Maschinen in Leuna und das ehrfürchtige Schweigen im Kirchenschiff von Wittenberg. Der Nachklang ist klar wie eine Bauhaus-Linie: ernsthaft, beständig und auf magerem Boden fest verwurzelt.
+Was bleibt, ist das Surren der Maschinen in Leuna und das Schweigen im Kirchenschiff von Wittenberg: klar, ernsthaft, beständig.

@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Sachsen](play_saxony.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an August dem Starken und dem barocken Dresden, nicht am Aufstieg zum industriellen Vorreiter ab 1830, nicht an den Montagsdemonstrationen von 1989. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
+Die Tonart der Produktion [Sachsen](play_saxony.md) - sie ändert nichts an August dem Starken, nichts an 1989. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -33,4 +33,4 @@ Getroffen wird das leise Selbstbewusstsein des sächsischen Erfindergeists, das 
 
 ## Echo
 
-Was bleibt, ist das leise Klirren von feinem Porzellan in Meißen und das Raunen der Menge vor der Nikolaikirche. Der Nachklang ist hell und beharrlich, ganz wie man hier sagt: nu freilich, schöpferisch bis zuletzt.
+Was bleibt, ist das Klirren des Porzellans in Meißen und das Raunen vor der Nikolaikirche: hell, beharrlich, nu freilich schöpferisch.

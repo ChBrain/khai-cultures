@@ -23,7 +23,7 @@ Sachsen, der Freistaat im Osten Deutschlands zwischen Erzgebirge und Elbe. ISO D
 
 ## Arc
 
-Understatement ist hier Nationalsport, selbst wenn die Sache gewaltig ist - man quittiert sie nur mit einem trockenen „nu freilich” und macht weiter. Kaffeesachsen trifft sich zum Kaffee und Kuchen und redet dabei beiläufig über Weltgeschichte, denn hier verwandelte August der Starke Dresden in eine barocke Kulturmetropole, hier begannen mit den Leipziger Montagsdemonstrationen die Ereignisse, die 1989 zur Friedlichen Revolution führten, und hier verschmilzt das alte Handwerk der Porzellanherstellung mit dem modernen „Silicon Saxony”, Europas größtem Mikroelektronik-Standort. Erfindergeist, still und beharrlich, ist der rote Faden durch all das.
+Understatement ist hier Nationalsport - man quittiert Gewaltiges nur mit einem trockenen „nu freilich”. Kaffeesachsen redet beiläufig über Weltgeschichte: August der Starke machte Dresden barock, in Leipzig begann 1989 die Friedliche Revolution, und altes Handwerk verschmilzt mit „Silicon Saxony”. Erfindergeist ist der rote Faden durch all das.
 
 ## Company
 

@@ -23,7 +23,7 @@ Thüringen, der bewaldete Freistaat im Zentrum Deutschlands, das grüne Herz der
 
 ## Arc
 
-Eine echte Thüringer Rostbratwurst verteidigt man hier mit mehr Leidenschaft als so manche Grenze - Patriotismus, der über den Grill geht. Das grüne Herz Deutschlands ist zugleich sein geistiges Zentrum: In Weimar dichteten Goethe und Schiller die deutsche Klassik, auf der Wartburg übersetzte Luther 1521 in elf Wochen das Neue Testament, und im Schatten dieses Gedächtnisses verbindet sich die Glaskunst des Thüringer Waldes mit der weltberühmten Optikindustrie Jenas. 1990 als Freistaat neu zusammengesetzt aus drei ehemaligen DDR-Bezirken, trägt das Land sein Erbe leichter, als sein Gewicht vermuten lässt.
+Eine echte Thüringer Rostbratwurst verteidigt man hier leidenschaftlicher als manche Grenze - Patriotismus, der über den Grill geht. Das grüne Herz Deutschlands ist zugleich sein geistiges Zentrum: In Weimar dichteten Goethe und Schiller die Klassik, auf der Wartburg übersetzte Luther 1521 das Neue Testament, und die Glaskunst des Thüringer Waldes verbindet sich mit der weltberühmten Optikindustrie Jenas. 1990 als Freistaat neu gefügt aus drei DDR-Bezirken, trägt das Land sein Erbe leichter, als sein Gewicht vermuten lässt.
 
 ## Company
 

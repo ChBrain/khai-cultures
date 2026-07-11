@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart, in der die Produktion [Thüringen](play_thuringia.md) gespielt wird. Sie ändert nichts an dem, was geschieht: nicht an der Weimarer Klassik ab 1775, nicht an Luthers Bibelübersetzung auf der Wartburg 1521, nicht an der Wiedererrichtung des Freistaats 1990. Sie bestimmt nur den Klang, in dem dies alles geschlagen wird.
+Die Tonart der Produktion [Thüringen](play_thuringia.md) - sie ändert nichts an Weimar, nichts an der Wartburg. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -29,8 +29,8 @@ Unter der Gemütlichkeit liegt eine leise Melancholie und die Sorge vor Umbrüch
 
 ## Nerve
 
-Getroffen wird der stille Bratwurst-Patriotismus ebenso wie der Stolz auf die Weimarer Klassik als geistiges Fundament, das Erbe der Wartburg und die unübertroffene Präzision der Jenaer Optik.
+Getroffen wird der Bratwurst-Patriotismus und der Stolz auf Weimar, die Wartburg und die Präzision der Jenaer Optik.
 
 ## Echo
 
-Was bleibt, ist das Knistern des Buchenholzfeuers im Grill und das präzise Klicken einer Linsenfassung im Jenaer Labor. Der Nachklang ist warm wie das grüne Herz Deutschlands: schöpferisch, hochpräzise und mit dem Gedächtnis der Wartburg im Rücken.
+Was bleibt, ist das Feuer im Grill und das Klicken der Linsenfassung im Jenaer Labor: warm, schöpferisch, hochpräzise, mit dem Gedächtnis der Wartburg im Rücken.
