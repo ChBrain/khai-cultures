@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-彰化的醫生，白天看病，夜裡寫字，被後人稱為台灣新文學之父。他出身福佬人家，行醫濟貧，待窮人不收錢，提筆則為市井小民與受屈者說話，溫厚而有骨氣。他想用最貼近百姓的話寫文學：母語台語他[從小用母語開口](process_speaking_mother_tongue.md)、[用母語思想](process_thinking_mother_tongue.md)，街坊的人情都在這條舌頭上；漢文他[用以書寫](process_writing_mother_tongue.md)，把舊學的根底化進新的白話；那通行於文教、承載正體漢字的書面[中文](position_language_zh_tw.md)，於他是[案上執筆借來的一枝文言](process_writing_drafted.md)，是寫給百姓看的工具，而非他口上的台語母語；那個時代通行的日文，他[把它當工具扛在身上](process_speaking_carried.md)，[在紙上跟著讀](process_reading_followed.md)，以與時代的學問相接。他一生想把台灣人嘴上的話寫成紙上的文學，卻發現台語裡許多滾燙的字，落到任何一種現成的書寫裡都要走樣：筆走到盡頭，總有一句話，只剩嘴上說得出、紙上寫不全。他屬於[層疊之島](position_culture_the_layered_island.md)，用自己這一層的話，替島上說不出話的人先開了口。
+彰化的醫生，白天看病，夜裡寫字，被後人稱為台灣新文學之父。他出身福佬人家，行醫濟貧，待窮人不收錢，提筆則為市井小民與受屈者說話，溫厚而有骨氣。他想用最貼近百姓的話寫文學：母語台語他[從小用母語開口](process_speaking_mother_tongue.md)、[用母語思想](process_thinking_mother_tongue.md)，街坊的人情都在這條舌頭上；[漢文](../china/position_language_lzh.md)他[用以書寫](process_writing_mother_tongue.md)，把舊學的根底化進新的白話；那通行於文教、承載正體漢字的書面[中文](position_language_zh_tw.md)，於他是[案上執筆借來的一枝文言](process_writing_drafted.md)，是寫給百姓看的工具，而非他口上的台語母語；那個時代通行的[日文](../japan/position_language_ja.md)，他[把它當工具扛在身上](process_speaking_carried.md)，[在紙上跟著讀](process_reading_followed.md)，以與時代的學問相接。他一生想把台灣人嘴上的話寫成紙上的文學，卻發現台語裡許多滾燙的字，落到任何一種現成的書寫裡都要走樣：筆走到盡頭，總有一句話，只剩嘴上說得出、紙上寫不全。他屬於[層疊之島](position_culture_the_layered_island.md)，用自己這一層的話，替島上說不出話的人先開了口。
 
 ## Action
 
