@@ -47,6 +47,7 @@ stamp:
 
 **Positions**
 
+- [الهوية الليبية](position_culture_alhuwiyya_allibiyya.md)
 - [الكرم](position_alkaram.md)
 - [الصحرا](position_alsahra.md)
 - [الإرث القديم](position_alirth_alqadim.md)

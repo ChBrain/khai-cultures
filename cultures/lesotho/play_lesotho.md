@@ -47,6 +47,7 @@ Naha e hlahileng tlas'a thaba. Pele ho Moshoeshoe, lithaba tsena e ne e le merab
 
 **Positions**
 
+- [setso sa Basotho](position_culture_setso_sa_basotho.md)
 - [borena](position_borena.md)
 - [lefatše la lithaba](position_lefatshe_la_lithaba.md)
 - [botho](position_botho.md)
