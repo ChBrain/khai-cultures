@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Piniartoq utoqqaq, piniartut oqaluttuassaannik piginnittoq. Kalaallisut [oqaatsini pigivai, oqaluttuarpoq, eqqarsarpoq](process_speaking_mother_tongue.md). Tamanna [Kalaallisut](position_language_kl.md), inuit oqaasii kulturiallu tunngavia. Qallunaatut [oqaatsit atorpai](process_speaking_worn.md) niuernermi. Siunissarlu piniarnertik pigiinnarsinnaanerpaat inuusuttut illoqarfinnut nuuttarneranni.
+Piniartoq utoqqaq, piniartut oqaluttuassaannik piginnittoq. Kalaallisut [oqaatsini pigivai, oqaluttuarpoq, eqqarsarpoq](process_speaking_mother_tongue.md). Tamanna [Kalaallisut](position_language_kl.md), inuit oqaasii kulturiallu tunngavia. Qallunaatut [oqaatsit atorpai](process_speaking_worn.md) niuernermi. Siunissarlu piniarnertik pigiinnarsinnaanerpaat inuusuttut illoqarfinnut nuuttarneranni. [Kalaallit inuunerata](position_culture_kalaallit_inuuneq.md) ilagaa, piniarnermik inuuffigisaminik nammineq inuuneranik.
 
 ## Action
 

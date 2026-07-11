@@ -34,4 +34,4 @@ E shtyn nevoja për të ruajtur e dhënë atë që erdhi nga thellësia e kohës
 
 ## Echo
 
-Iso-polifonia e bën të dëgjueshme atë që mban [shqiptaria](position_shqiptaria.md): që kombi mbahet bashkë nga zëri i përbashkët, ku askush nuk këndon vetëm. Tingulli i lashtë i jep një gjuhe të vetme në degën e vet një zë që nuk i ngjan asnjë fqinji.
+Iso-polifonia e bën të dëgjueshme atë që mban [shqiptaria](position_culture_shqiptaria.md): që kombi mbahet bashkë nga zëri i përbashkët, ku askush nuk këndon vetëm. Tingulli i lashtë i jep një gjuhe të vetme në degën e vet një zë që nuk i ngjan asnjë fqinji.

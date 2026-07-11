@@ -50,6 +50,7 @@ stamp:
 - [հավատքը](position_havatk.md)
 - [լեզուն և տառը](position_language_hy.md)
 - [տոկունությունը](position_tokunutyun.md)
+- [հայկական մշակույթը](position_culture_haykakan_mshakuyt.md)
 
 **Pieces**
 

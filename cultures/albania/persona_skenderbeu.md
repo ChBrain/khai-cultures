@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[shqiptaria](position_shqiptaria.md)
+[shqiptaria](position_culture_shqiptaria.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Gjergj Kastrioti, princ shqiptar i marrë fëmijë peng nga Sulltani dhe i bër�
 
 ## Action
 
-Te [Skënderbeu](plot_01_skenderbeu.md) e ktheu turqishten dhe stërvitjen e Sulltanit kundër tij dhe bashkoi princat mbi fe. Duke i mbajtur [shqiptarinë](position_shqiptaria.md) dhe kombin para besimit, i dha popullit pa shtet provën se mund të qëndronte i bashkuar përballë perandorisë.
+Te [Skënderbeu](plot_01_skenderbeu.md) e ktheu turqishten dhe stërvitjen e Sulltanit kundër tij dhe bashkoi princat mbi fe. Duke i mbajtur [shqiptarinë](position_culture_shqiptaria.md) dhe kombin para besimit, i dha popullit pa shtet provën se mund të qëndronte i bashkuar përballë perandorisë.
 
 ## Shadow
 

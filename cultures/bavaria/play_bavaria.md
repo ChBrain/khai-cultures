@@ -48,6 +48,7 @@ Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat verst
 
 **Positions**
 
+- [die bayerische Kultur](position_culture_bayerische_kultur.md)
 - [der Freistaat](position_freistaat.md)
 - [das bayerische Hochdeutsch](position_language_de_de_by.md)
 - [das Bairische](position_bayerisch.md)

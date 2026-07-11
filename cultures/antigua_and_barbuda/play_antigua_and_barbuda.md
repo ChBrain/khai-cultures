@@ -47,6 +47,7 @@ A story that begins long before the cane: the Siboney and then the Arawak settle
 
 **Positions**
 
+- [Antiguan and Barbudan culture](position_culture_antiguan_and_barbudan_culture.md)
 - [sugar and the dockyard](position_sugar_and_the_dockyard.md)
 - [the labour nation](position_the_labour_nation.md)
 - [a small place, a wide reach](position_a_small_place_a_wide_reach.md)

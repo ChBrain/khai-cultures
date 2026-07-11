@@ -43,6 +43,7 @@ Un país de valls aïllades que ha sobreviscut gràcies a un equilibri històric
 
 **Positions**
 
+- [la cultura andorrana](position_culture_cultura_andorrana.md)
 - [el coprincipat](position_coprincipat.md)
 - [el Pirineu](position_pirineu.md)
 - [la llengua catalana](position_language_ca_ad.md)

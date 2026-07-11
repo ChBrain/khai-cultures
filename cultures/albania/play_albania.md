@@ -49,7 +49,7 @@ Një popull i lashtë me një gjuhë që nuk i ngjan asnjë gjuhe tjetër të gj
 
 - [gjuha shqipe](position_language_sq_al.md)
 - [besa](position_besa.md)
-- [shqiptaria](position_shqiptaria.md)
+- [shqiptaria](position_culture_shqiptaria.md)
 
 **Pieces**
 
@@ -68,7 +68,7 @@ Një popull i lashtë me një gjuhë që nuk i ngjan asnjë gjuhe tjetër të gj
 
 **[Plot 1: Skënderbeu](plot_01_skenderbeu.md)**
 
-Në shekullin e pesëmbëdhjetë [Skënderbeu](persona_skenderbeu.md) i mban Osmanët njëzet e pesë vjet dhe bashkon princat shqiptarë; nga [Kruja](place_kruja.md) lind heroi i [shqiptarisë](position_shqiptaria.md), kombit mbi fe.
+Në shekullin e pesëmbëdhjetë [Skënderbeu](persona_skenderbeu.md) i mban Osmanët njëzet e pesë vjet dhe bashkon princat shqiptarë; nga [Kruja](place_kruja.md) lind heroi i [shqiptarisë](position_culture_shqiptaria.md), kombit mbi fe.
 
 **[Plot 2: Rilindja](plot_02_rilindja.md)**
 
@@ -76,7 +76,7 @@ Në shekullin e nëntëmbëdhjetë [Naim Frashëri](persona_naim_frasheri.md) e 
 
 **[Plot 3: Hoxha](plot_03_hoxha.md)**
 
-Diktatura staliniste e mbyll Shqipërinë në izolim, ndalon fenë më 1967 dhe e mbush vendin me bunkere; në [Tiranën](place_tirana.md) godet [shqiptaria](position_shqiptaria.md), kombi i detyruar ateist.
+Diktatura staliniste e mbyll Shqipërinë në izolim, ndalon fenë më 1967 dhe e mbush vendin me bunkere; në [Tiranën](place_tirana.md) godet [shqiptaria](position_culture_shqiptaria.md), kombi i detyruar ateist.
 
 **[Plot 4: Largimi](plot_04_largimi.md)**
 
@@ -84,4 +84,4 @@ Pas rënies së komunizmit, varkat e vitit 1991 drejt Italisë dhe kaosi i vitit
 
 ## Stakes
 
-Nëse një komb i vogël dhe i shpërndarë, që doli nga izolimi dhe kaosi, do të dijë të ngjitet në Evropë dhe në botë pa humbur rrënjët: të mbajë [gjuhën](position_language_sq_al.md) e vetme në degën e vet, [besën](position_besa.md) e fjalës së dhënë dhe [shqiptarinë](position_shqiptaria.md) që e vë kombin mbi fe, të lidhë atdheun, Kosovën dhe mërgatën me gjuhë e jo me kufi, dhe ta kthejë mikpritjen e malit në besim qytetar.
+Nëse një komb i vogël dhe i shpërndarë, që doli nga izolimi dhe kaosi, do të dijë të ngjitet në Evropë dhe në botë pa humbur rrënjët: të mbajë [gjuhën](position_language_sq_al.md) e vetme në degën e vet, [besën](position_besa.md) e fjalës së dhënë dhe [shqiptarinë](position_culture_shqiptaria.md) që e vë kombin mbi fe, të lidhë atdheun, Kosovën dhe mërgatën me gjuhë e jo me kufi, dhe ta kthejë mikpritjen e malit në besim qytetar.

@@ -31,7 +31,7 @@ Regjimi e kthen Shqipërinë në vendin më të mbyllur të Evropës. Më 1967 s
 ## Stage
 
 - [Tirana](place_tirana.md): kryeqyteti i regjimit, ku ngrihet piramida dhe vendoset pushteti.
-- [shqiptaria](position_shqiptaria.md): kombi i detyruar ateist, me të katër besimet të ndaluara me forcë.
+- [shqiptaria](position_culture_shqiptaria.md): kombi i detyruar ateist, me të katër besimet të ndaluara me forcë.
 
 ## Tension
 

@@ -51,6 +51,7 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 - [der Schmäh](position_schmaeh.md)
 - [der Grant](position_grant.md)
 - [das österreichische Deutsch](position_language_de_at.md)
+- [die österreichische Kultur](position_culture_oesterreichische_kultur.md)
 
 **Pieces**
 
