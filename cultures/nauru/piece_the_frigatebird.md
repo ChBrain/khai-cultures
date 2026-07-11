@@ -1,16 +1,16 @@
 ---
 khai: piece
 title: "The Frigatebird"
-declared: "te itsibwij"
-language: nau
+declared: "The Frigatebird"
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
-# Piece: te itsibwij
+# Piece: The Frigatebird
 
 ## Taxonomy
 
@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-Eb me eo aen me eb frigatebird eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tongin n ekege: eb me eo aen me eb tamed fishing frigatebird eko eb me eo aiwo eko eb me eo aen me eb itsibwij me eb me eo aen me eb tomure aiwo. Eb me eo aen me eb me eo aiwo eko eb me eo aen me eb custom n eb tongin n ekege, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tomure aiwo me eb dorerin.
+A tamed frigatebird, caught off the reef and trained to the hand, kept as a fishing companion and displayed as proof of the skill it took to tame it. The bird belongs to the practice of frigatebird catching, a custom passed down among the twelve tribes rather than written into any manual.
 
 ## Load Bearing
 
-Eb me eo aen me eb me eo aiwo eko eb custom me eb tomure aiwo n eb tongin n ekege, eb me eo aen me eb [eko oe aiwo](position_eko_oe_aiwo.md) me eb tomure me eb dorerin n eb tongin n ekege. N eb tongin n ekege eko eb me eo aen me eb itsibwij me eb custom me eb tomure aiwo, eb frigatebird eko eb me eo aen me eb me eo aiwo eko eb custom me eb tomure: eb me eo aen me eb me eo aiwo eko eb me eo aen me eb itsibwij, eb faka'ilonga eko eb me eo aiwo eko engame eb custom me eb tomure aiwo n eb tongin n ekege. Eb me eo aiwo eko engame eb frigatebird ni, eb me eo aiwo eko engame eb faka'ilonga eko eb me eo aen me eb custom n eb tongin n ekege.
+The tamed frigatebird carries the custom of [the Twelve Tribes](position_the_twelve_tribes.md) on its own back: in an island culture where standing is earned by skill shown, not merely inherited, a bird that returns to the hand is the clearest proof a tribe's custom has been kept and passed on. Take the frigatebird away and what disappears with it is not the bird itself but the visible evidence that the skill still exists.
 
 ## Apparent
 
-Eb me eo aen me eb frigatebird eko eb me eo aiwo eko eb me eo aen me eb itsibwij, eb me eo aen me eb me eo aiwo eb me eo aen me eb me eo. Eb me eo aiwo eko engame eb me eo aen me eb me eo aiwo eb me eo aen me eb me eo: eb frigatebird pe eko eb me eo aen me eb itsibwij, ka eb me eo aen me eb mamafa eko eb me eo aen me eb custom me eb tomure aiwo eko eb me eo aen me eb tongin n ekege.
+To an outside eye the frigatebird looks like a pet, a tame bird a fisherman keeps for company. What that misses is the weight the bird actually carries: it is not a pet but a record, in feather, of a skill that has been handed hand to hand since before the island had any other kind of currency to measure standing in.
 
 ## Yearbook
 
-- Eb me eo aen me eb tamed fishing frigatebird eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tongin n ekege, eb me eo aen me eb me eo aiwo eko eb itsibwij.
-- Eb me eo aen me eb me eo aiwo eko eb custom n eb tongin n ekege, eb me eo aen me eb me eo aiwo eko eb tomure aiwo me eb dorerin.
-- Eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tomure aiwo, eb me eo aen me eb me eo aiwo eko eb custom me eb mo'ui n eb tongin n ekege.
+- A tamed fishing frigatebird, caught off the reef and kept for its skill, belongs to the practice of frigatebird catching.
+- It carries the custom of the twelve tribes forward in a form no document could replace.
+- It marks a tribe's standing, carrying that custom and that daily life together in a single bird.

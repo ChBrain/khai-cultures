@@ -2,12 +2,12 @@
 khai: place
 title: "Buada Lagoon"
 declared: "Buada"
-language: nau
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
 # Place: Buada
@@ -22,16 +22,16 @@ Parent group: places
 
 ## Shown
 
-Eb me eo aen me eb lagoon eko eb me eo aen me eb interior n Naoero, eb Buada eko eb me eo aen me eb me eo aiwo eko eb ring n eb mo'ui me eb ibija fishponds. Eb me eo aen me eb me eo aiwo eko eb me eo aen me eb green n eb interior, eb me eo aen me eb me eo aiwo eko engame eb Topside eko aen me ekege. Eb me eo aen me eb ibija eko eb me eo aiwo eko eb me eo aen me eb ponds, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb food n eb interior n eb tongin n ekege.
+Buada is the green lagoon at the heart of Nauru's interior, ringed by the milkfish ponds that make it a ring of life rather than a mere pool of water. Where Topside was stripped down to bare coral, Buada stayed green, the one part of the interior the mining never reached.
 
 ## Holds
 
-- [eko oe aiwo](plot_01_eko_oe_aiwo.md): eb potu eko eb me eo aen me eb itsibwij me itsibwij me ekege me eb tomure aiwo, eb me eo aen me eb me eo aiwo eko eb ibija me eb ponds.
+- [The Island Before](plot_01_the_island_before.md): the place where frigatebird catching and the milkfish ponds together support the tribes' inland life.
 
 ## Offers
 
-Eb me eo aen me eb potu eko eb me eo aen me eb mo'ui me eb food n eb interior, eb me eo aen me eb me eo aiwo eko eb ibija eko eb me eo aiwo eko eb me eo aen me eb ponds. Eb me eo aen me eb me eo aiwo eko eb ring n eb mo'ui n eb tongin n ekege, eb potu eko eb me eo aen me eb tomure aiwo eko eb me eo aen me eb me eo aiwo eko eb food me eb mo'ui.
+Buada offers the island a food supply the sea cannot always guarantee: the ibija ponds around its edge, tended rather than merely fished, hold a ring of life against a bad season on the reef. It offers, too, the plainest contrast on the island between land that was worked with care and land that was strip mined for what it held underneath.
 
 ## Withheld
 
-Eb me eo aiwo eko engame eb me eo aen me eb me eo. Eb Buada eko eb me eo aen me eb va n eb vaha'a n eb mo'ui me eb boe, eb me eo aen me eb potu eko eb me eo aiwo eko engame eb Topside eko aen me ekege, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb land me eb mo'ui n eb tongin n ekege.
+Buada offers no proof by itself that the rest of the island has been treated as gently. Buada sits within sight of Topside's ruin, and the lagoon's own green is not a verdict on the mined land nearby, only a reminder of what the whole interior once looked like before the mining began.

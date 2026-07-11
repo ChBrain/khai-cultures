@@ -1,16 +1,16 @@
 ---
 khai: position
 title: "Phosphate and the Price"
-declared: "phosphate ma boe"
-language: nau
+declared: "Phosphate and the Price"
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
-# Position: phosphate ma boe
+# Position: Phosphate and the Price
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Eb boe n eb me eo aen me eb ribanan rik n eb tongin: eb phosphate eko eb me eo aen me eb me eo aiwo eko Naoero me eb me eo aen ororo n eb tongin n ekege, ma engame eb boe eko me ekege, eb aen me eo aiwo eko eb Topside me eb pinnacle me ekege eb eko aen. Eb me eo aiwo eko eb boe me eb price me eb ororo me ekege, eb me eo aen me eb me eo aiwo eko engame eb land eko aen me ekege. Eb me eo aiwo eko eb me eo aen me eb me eo aiwo: eb phosphate eko eb me eo aen me eb ororo, ma engame eb me eo aiwo eko eb land me ekege.
+Phosphate made Nauru briefly one of the richest nations on earth per head, and the same mining left Topside, the island's interior, a field of bare coral pinnacles once the rock was gone. It carries a boom that funded independence and a trust fund meant to outlast the mining, and a price that turned out to be the land itself, spent along with the money it produced.
 
 ## Orders
 
-Eb me eo aiwo eko eb boe eko eb me eo aen me eb ororo n eb tongin n ekege, ma eb me eo aiwo eko eb price eko eb me eo aen me eb land; eb me eo aen me eb phosphate eko eb me eo aiwo eko eb me eo aen me eb me eo aiwo, ma eb me eo aen me eb fight aen eb phosphate rights; ma eb fatongia n eb me eo aen itsibwij eko engame eb boe me ekege, eb aen me eo aiwo eko eb me eo aen me eb land me eb dorerin.
+It orders the republic to weigh what the rock earns against what the land loses in earning it; it orders phosphate ownership itself, DeRoburt's fight to bring the mining rights home, against the tonnage still leaving the ground however owned; and it orders every generation on the island to reckon with what a devastated interior costs a nation with almost no other land to spare.
 
 ## Loses
 
-Eb me eo aiwo eko eb me eo aen me eb boe eko eb me eo aiwo eko engame eb land me ekege, eb me eo aen me eb Topside me eb pinnacle me ekege; ma eb me eo aiwo eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb ororo me ekege, eb trust fund eko aen me ekege, ma eb me eo aen me eb me eo aiwo eko eb me eo aen me eb mo'ui fo'ou.
+It loses the interior outright, Topside mined down to pinnacle and bare rock; and it loses, alongside the land, the fortune the mining paid for, a trust fund built to last but drained instead within a generation.
 
 ## Drives
 
-Eb mo'ui n eb president n Naoero, eb me eo aen me eb boe me eb price me eb ororo me ekege, ma n te tia mining, eb me eo aen me eb miner n eb cantilever me eb Topside. Eb me eo aiwo eko Naoero eko engame eb boe me eb price me eb land me eb me eo aen.
+The life of Nauru's president through the boom's decline, reckoning with what the rock's price actually was, and of the miner working the cantilever over Topside, both drive this position. Nauru carries phosphate and its price as one and the same fact: the money and the ruin were mined out of the same ground, at the same time, by the same hands.

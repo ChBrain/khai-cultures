@@ -1,16 +1,16 @@
 ---
 khai: piece
 title: "Ibija"
-declared: "ibija"
-language: nau
+declared: "Ibija"
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
-# Piece: ibija
+# Piece: Ibija
 
 ## Taxonomy
 
@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-Eb me eo aen me eb ibija eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb Buada ponds: eb me eo aen me eb milkfish eko eb me eo aiwo eko eb me eo aen me eb ponds n eb interior, eb me eo aen me eb me eo aiwo eko eb food n eb interior n eb tongin n ekege. Eb me eo aen me eb me eo aiwo eko eb me eo aen me eb mo'ui me eb food, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tomure aiwo me eb dorerin.
+Ibija, the milkfish raised in shallow ponds off Buada Lagoon, is the island's inland food, a second larder set against a reef that does not always give up its catch. Where the sea is the tribes' uncertain provider, the Buada ponds are the certain one, tended rather than merely fished.
 
 ## Load Bearing
 
-Eb me eo aen me eb me eo aiwo eko eb food me eb mo'ui n eb interior n eb tongin n ekege, eb me eo aen me eb [eko oe aiwo](position_eko_oe_aiwo.md) me eb tomure me eb mo'ui n eb tongin n ekege. N eb tongin n ekege eko eb me eo aen me eb Buada me eb ponds me eb tomure aiwo, eb ibija eko eb me eo aen me eb me eo aiwo eko eb food me eb mo'ui: eb me eo aen me eb me eo aiwo eko eb me eo aen me eb ponds, eb me eo aen me eb me eo aiwo eko eb food n eb interior n eb tongin n ekege. Eb me eo aiwo eko engame eb ibija ni, eb me eo aiwo eko engame eb food n eb interior n eb tongin n ekege.
+Ibija carries the food security of [the Twelve Tribes](position_the_twelve_tribes.md) on its back: an island this small cannot afford to depend on the reef alone, and the milkfish ponds at Buada are what closed that gap long before any trade ship or trust fund did. Take the ponds away and an entire buffer against a bad season at sea goes with them.
 
 ## Apparent
 
-Eb me eo aen me eb milkfish eko eb me eo aiwo eko eb me eo aen me eb Buada ponds, eb me eo aen me eb me eo aiwo eb me eo aen me eb me eo. Eb me eo aiwo eko engame eb me eo aen me eb me eo aiwo eb me eo aen me eb me eo: eb ibija pe eko eb me eo aen me eb me eo aiwo, ka eb me eo aen me eb mamafa eko eb me eo aen me eb food me eb mo'ui eko eb me eo aen me eb interior n eb tongin n ekege.
+To an outside eye ibija looks like ordinary aquaculture, fish kept in a pond. What that misses is the weight the practice carries on an island this size: it is not a hobby fishery but the one food source the tribes control entirely themselves, independent of tide, weather, or whoever else claims the reef.
 
 ## Yearbook
 
-- Eb me eo aen me eb milkfish eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb Buada ponds, eb food n eb interior n eb tongin n ekege.
-- Eb me eo aen me eb me eo aiwo eko eb ponds n eb interior, eb me eo aen me eb me eo aiwo eko eb tomure aiwo me eb mo'ui.
-- Eb me eo aen me eb me eo aiwo eko eb food me eb mo'ui n eb tongin n ekege, eb me eo aen me eb me eo aiwo eko eb interior me eb Buada Lagoon.
+- The milkfish raised in the Buada ponds is the island's inland food, set against the reef's catch.
+- The ponds at Buada hold a steady food source the tribes tend rather than merely hunt.
+- Ibija ties the island's food security to Buada Lagoon as surely as the reef ties it to the sea.

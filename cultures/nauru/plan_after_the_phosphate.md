@@ -1,21 +1,21 @@
 ---
 khai: plan
-title: "beyond phosphate"
-declared: "muri i te phosphate"
-language: nau
+title: "After the Phosphate"
+declared: "After the Phosphate"
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 status: active
 ---
 
-# Plan: muri i te phosphate
+# Plan: After the Phosphate
 
 ## Taxonomy
 
-Eb me eo aen me eb fatongia eko eb me eo aen me eb ribanan rik n eb tongin: eb me eo aen me eb me eo aiwo eko eb economy fo'ou me eb [phosphate ma boe](position_phosphate_ma_boe.md), eb me eo aen me eb me eo aiwo eko engame eb land eko aen me ekege n eb Topside, eb me eo aen me eb me eo aiwo eko engame eb [eko oe aiwo](position_eko_oe_aiwo.md) me eb tomure aiwo me eb dorerin, eb me eo aen me eb me eo aiwo eko eb [te republic ororo](position_te_republic_ororo.md) me eb sovereignty me eb me eo aen.
+The republic's ongoing task: building a new economy once [Phosphate and the Price](position_phosphate_and_the_price.md) stopped paying, rehabilitating the mined out land at Topside, keeping [the Twelve Tribes](position_the_twelve_tribes.md) custom and language alive, and holding onto [the Smallest Republic](position_the_smallest_republic.md) sovereignty that independence won.
 
 ## Owner
 
@@ -23,24 +23,24 @@ Eb me eo aen me eb fatongia eko eb me eo aen me eb ribanan rik n eb tongin: eb m
 
 ## Direction
 
-Eb me eo aen me eb me eo aiwo eko eb economy fo'ou muri i te phosphate, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb mo'ui fo'ou; eb me eo aen me eb me eo aiwo eko engame eb land eko aen me ekege n eb Topside, eb me eo aen me eb me eo aiwo eko eb land me eb mo'ui; eb me eo aen me eb me eo aiwo eko engame eb tomure aiwo n eb tongin n ekege, eb me eo aen me eb me eo aiwo eko eb dorerin Naoero; ma eb me eo aen me eb me eo aiwo eko eb sovereignty n eb ribanan rik n eb tongin n ekege.
+Toward a new economy after the phosphate, one that does not depend on a single resource running out a second time; toward rehabilitating the mined out land at Topside, land and life restored where they can be; toward keeping custom and Nauruan itself in daily use, not just in memory; and toward a sovereignty that answers to Nauru's own decisions rather than to whoever is funding the current arrangement.
 
 ## Orders
 
-- Ki eb me eo aen me eb tomure aiwo hange ko [te eo](persona_te_eo.md): eb me eo aen me eb me eo aiwo eko eb tomure me eb custom me eb dorerin, eb me eo aen me eb me eo aiwo eko engame eb tomure aiwo n eb tongin n ekege.
-- Ki eb taki hange ko [Hammer DeRoburt](persona_hammer_deroburt.md): eb me eo aen me eb me eo aiwo eko eb sovereignty me eb mo'ui fo'ou, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb me eo aiwo.
-- Ki eb tongin n ekege: eb me eo aen me eb me eo aiwo eko eb land me eb dorerin me eb tomure aiwo, eb me eo aen me eb me eo aiwo eko eb mo'ui muri i te phosphate.
+- Carry custom forward as [the Elder](persona_the_elder.md) does: holding custom, land right, and Nauruan itself in daily use, not letting them thin out along with the population.
+- Lead as [Hammer DeRoburt](persona_hammer_deroburt.md) did: insisting on sovereignty and self reliance even when a new income source is hard to find.
+- Reckon plainly: land and Nauruan itself deserve the same patient rebuilding the republic once gave its phosphate rights fight.
 
 ## Implementation
 
-Eb me eo aen me eb ribanan rik eko eb me eo aen me eb me eo aiwo eko eb independence n 1968, eb me eo aen me eb me eo aiwo eko eb phosphate me eb me eo aen me eb ororo, ma engame eb boe eko me ekege me eb trust fund eko aen me ekege. Eb me eo aiwo eko eb me eo aen me eb me eo aiwo: eb land eko aen me ekege n eb Topside, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb mo'ui fo'ou, ma eb me eo aen me eb me eo aiwo eko engame eb tomure aiwo me eb dorerin n eb tongin n ekege.
+The republic won independence in 1968 and phosphate rights soon after, and rode the boom for two decades before the trust fund built to replace it was spent down. What remains to build: the mined out land at Topside, a new economy that does not depend on one resource, and the custom and the Nauruan language that a century of foreign administration and a generation of English dominated schooling both thinned.
 
 ## Targets
 
-- [x] Eb me eo aen me eb independence n 1968 me eb sovereignty n eb ribanan rik n eb tongin n ekege.
-- [x] Eb me eo aen me eb phosphate me eb me eo aen me eb ororo n eb tongin n ekege.
-- [x] Eb me eo aen me eb Angam survival, eb tongin n ekege eko eb me eo aen me eb mo'ui me eb tomure.
-- [W] Eb me eo aen me eb me eo aiwo eko engame eb economy fo'ou muri i te phosphate.
-- [W] Eb me eo aen me eb me eo aiwo eko engame eb land eko aen me ekege n eb Topside.
-- [ ] Eb me eo aen me eb me eo aiwo eko engame eb tomure aiwo me eb dorerin n eb tongin n ekege.
-- [ ] Eb me eo aen me eb me eo aiwo eko eb sovereignty n eb ribanan rik eko eb me eo aen me eb me eo aen.
+- [x] Independence and sovereignty won for the republic in 1968.
+- [x] Phosphate rights won back from foreign administration.
+- [x] Angam survival marked each year, the population's own recovery kept in memory.
+- [W] A new economy after the phosphate, still being built.
+- [W] Rehabilitation of the mined out land at Topside, underway.
+- [ ] Custom and the Nauruan language kept in daily use, not only in memory.
+- [ ] Sovereignty held on the republic's own terms, not on whoever is currently funding it.

@@ -1,16 +1,16 @@
 ---
 khai: position
 title: "the Smallest Republic"
-declared: "te republic ororo"
-language: nau
+declared: "the Smallest Republic"
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-23"
+  date: "2026-07-11"
 ---
 
-# Position: te republic ororo
+# Position: the Smallest Republic
 
 ## Taxonomy
 
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Eb tui eko eb ribanan rik n eb tongin n ekege n eb me eo aen: eb Naoero eko eb ribanan rik n eb tongin n eb sovereignty me eb me eo aen, eb me eo aen me eb me eo aiwo eko engame eb tongin rik. Eb me eo aiwo eko eb sovereignty me eb reinvention, eb me eo aen me eb me eo aiwo eko engame eb me eo aen me eb mo'ui fo'ou. Eb me eo aen itsibwij eko eb me eo aiwo eko eb independence n 1968, eb me eo aen me eb me eo aiwo eko eb ribanan rik n eb tongin eko eb me eo aen me eb me eo aen.
+Nauru is the smallest republic on earth, a sovereignty won in 1968 after decades under German, then Australian, then Japanese wartime, then Australian administration again. It carries reinvention as much as sovereignty: a nation this size has had to remake its own income more than once, from phosphate to trust fund finance to hosting arrangements with Australia, whichever decade calls for it.
 
 ## Orders
 
-Eb me eo aiwo eko eb ribanan eko eb me eo aen me eb sovereignty me eb me eo aen, ma eb me eo aiwo eko eb me eo aen me eb tongin rik; eb me eo aen me eb republic eko eb me eo aiwo eko eb me eo aen me eb me eo aiwo, ma eb me eo aen me eb me eo aiwo eko eb mo'ui fo'ou; ma eb fatongia n eb me eo aen itsibwij eko engame eb sovereignty me eb dorerin me eb tomure me eb me eo aen.
+It orders a nation of a few thousand people to run its own courts, its own currency arrangements, and its own foreign policy at the same scale a much larger state would, and it orders every reinvention to be undertaken with almost no room for a second attempt if the first one fails; it orders sovereignty itself, once won, to be defended by whatever income the republic can find, phosphate or otherwise.
 
 ## Loses
 
-Eb me eo aiwo eko eb me eo aen me eb republic eko eb me eo aiwo eko engame eb me eo aen me eb sovereignty; ma eb me eo aiwo eko eb me eo aen me eb me eo aiwo eko eb me eo aen me eb mo'ui fo'ou, eb me eo aen me eb me eo aiwo eko eb me eo aen me eb me eo, ma eb me eo aen me eb me eo aiwo eko eb me eo aen me eb tomure n eb tongin n ekege.
+It loses scale wherever scale would help: no reserve of unused land, no large domestic market, no fallback industry once the phosphate income is gone; and it loses, with every reinvention that fails, some of the room left to try the next one.
 
 ## Drives
 
-Eb mo'ui n eb founding president n Naoero, eb me eo aen me eb fight eo aen eb phosphate rights, eb me eo aen me eb me eo aiwo eko eb independence n 1968. Eb me eo aiwo eko Naoero eko engame eb sovereignty me eb reinvention me eb me eo aen, eb ribanan rik n eb tongin n ekege eko eb me eo aen me eb me eo aen.
+The life of the founding president who won the phosphate rights fight and independence in 1968 drives this position most directly. Nauru carries sovereignty and reinvention as one continuous demand: having won the right to answer for itself, the smallest republic has had to keep answering, decade after decade, for whatever comes next.
