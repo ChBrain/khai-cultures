@@ -94,7 +94,7 @@
     "@chbrain/khai-review": "^0.1.3",
     "@chbrain/khai-tests": "^0.1.27",
     "husky": "^9.1.0",
-    "prettier": "^3.9.5",
+    "prettier": "^3.9.6",
     "vitest": "^4.1.10"
   },
   "dependencies": {
