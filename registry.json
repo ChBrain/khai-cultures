@@ -20581,6 +20581,11 @@
           "title": "Melillan Spanish"
         },
         {
+          "file": "position_language_rif.md",
+          "kind": "position",
+          "title": "Tarifit"
+        },
+        {
           "file": "process_el_dia_de_la_ciudad.md",
           "kind": "process",
           "title": "the civic commemoration of 17 September"

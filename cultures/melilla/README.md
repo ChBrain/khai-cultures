@@ -12,7 +12,7 @@ Melilla staged as a full khai play, ISO ES-ML, language es. Melilla: its history
 - **Pitch:** [pitch_melilla.md](pitch_melilla.md), the Melillan key.
 - **Plots (history):** the taking of the ruined city in 1497, the Wolf Ravine and the Rif war of 1909 that paid for the modernist quarter, and the 1986 citizenship fight.
 - **Personas:** Dris (jeweller of Riffian descent) and Alba (restoration surveyor), written in Spanish.
-- **Positions:** the Amazigh root, the garrison town, Melillan culture, and Melillan Spanish.
+- **Positions:** the Amazigh root, the garrison town, Melillan culture, Melillan Spanish, and Tarifit (the Riffian tongue of the city's homes, written in Tarifit).
 - **Places:** Old Melilla (the four walled enclosures), the modernist quarter.
 - **Processes:** the daily crossing at Beni Enzar, the civic commemoration of 17 September.
 - **Pieces:** the identity card, the modernist stained glass.
