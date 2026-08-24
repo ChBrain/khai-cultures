@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Palauan Tone"
-declared: "tekoi er a Belau"
+declared: "melekoi el oba a omengull"
 language: pau
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: tekoi er a Belau
+# Pitch: melekoi el oba a omengull
 
 ## Taxonomy
 

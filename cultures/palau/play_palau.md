@@ -60,7 +60,7 @@ Ng beluu el chetiil er a omenged: a re Belau a kiei er a chelsel a chull ma rock
 
 **Pitches**
 
-- [a tekoi er a Belau](pitch_pau.md)
+- [melekoi el oba a omengull](pitch_pau.md)
 
 **Plans**
 
