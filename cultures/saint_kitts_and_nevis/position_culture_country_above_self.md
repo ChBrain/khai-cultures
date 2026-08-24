@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Kittitian-Nevisian Culture"
-declared: "Country Above Self"
+declared: "Kittitian-Nevisian culture"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-10"
 ---
 
-# Position: Country Above Self
+# Position: Kittitian-Nevisian culture
 
 ## Taxonomy
 

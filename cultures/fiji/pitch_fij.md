@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Fijian Tone"
-declared: "na vosa vakaViti"
+declared: "na yalo veidokai"
 language: fij
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: na vosa vakaViti
+# Pitch: na yalo veidokai
 
 ## Taxonomy
 

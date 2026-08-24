@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Guadalcanal"
-declared: "Gwadalkanal"
+title: "The Battle of Guadalcanal"
+declared: "bigfala faet long Gwadalkanal"
 language: pis
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Plot: Gwadalkanal
+# Plot: bigfala faet long Gwadalkanal
 
 ## Taxonomy
 

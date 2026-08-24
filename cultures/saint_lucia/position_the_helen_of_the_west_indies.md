@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Helen of the West Indies"
-declared: "the Helen of the West Indies"
+title: "the contested prize"
+declared: "the contested prize"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: the Helen of the West Indies
+# Position: the contested prize
 
 ## Taxonomy
 

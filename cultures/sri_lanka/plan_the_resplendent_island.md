@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "the Resplendent Island"
-declared: "ශ්‍රී ලංකාව"
+declared: "රමණීය දූපත"
 language: si
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 status: active
 ---
 
-# Plan: ශ්‍රී ලංකාව
+# Plan: රමණීය දූපත
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "sugar and the dockyard"
-declared: "sugar and the dockyard"
+title: "the colonial foundation"
+declared: "the colonial foundation"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: sugar and the dockyard
+# Position: the colonial foundation
 
 ## Taxonomy
 

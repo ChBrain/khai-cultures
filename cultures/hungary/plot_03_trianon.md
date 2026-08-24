@@ -30,7 +30,7 @@ A béke a történelmi Magyarország kétharmadát elcsatolja, és minden harmad
 
 ## Stage
 
-- [Trianon](position_trianon.md): a nemzet máig élő sebe, az elcsatolt földek és a határon túli magyarok.
+- [a trianoni seb](position_trianon.md): a nemzet máig élő sebe, az elcsatolt földek és a határon túli magyarok.
 - [Erdély](place_erdely.md): a legnagyobb elszakított ország, magyarok millióinak szülőföldje.
 
 ## Tension

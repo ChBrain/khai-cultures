@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Maltese Awakening"
-declared: "il-Malti"
+title: "The Language Question"
+declared: "id-Domanda tal-Ilsien"
 language: mt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: il-Malti
+# Plot: id-Domanda tal-Ilsien
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "Frankincense"
-declared: "اللبان"
+title: "The Fragrance of the Land"
+declared: "طيب الأرض"
 language: ar
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: اللبان
+# Position: طيب الأرض
 
 ## Taxonomy
 

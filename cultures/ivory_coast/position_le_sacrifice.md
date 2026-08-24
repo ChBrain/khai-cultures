@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "Pokou's Sacrifice"
-declared: "le sacrifice de Pokou"
+title: "The Giving of the Dearest"
+declared: "le don du plus cher"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: le sacrifice de Pokou
+# Position: le don du plus cher
 
 ## Taxonomy
 

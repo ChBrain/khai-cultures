@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Yoke"
-declared: "игото"
+title: "the enduring"
+declared: "търпението"
 language: bg
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Position: игото
+# Position: търпението
 
 ## Taxonomy
 

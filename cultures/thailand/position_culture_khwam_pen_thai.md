@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Thai Culture"
-declared: "ความเป็นไทย"
+declared: "วัฒนธรรมไทย"
 language: th
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-10"
 ---
 
-# Position: ความเป็นไทย
+# Position: วัฒนธรรมไทย
 
 ## Taxonomy
 

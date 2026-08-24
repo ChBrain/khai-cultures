@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Banana Republic"
-declared: "la República Bananera"
+title: "The Banana Companies"
+declared: "las compañías del banano"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Plot: la República Bananera
+# Plot: las compañías del banano
 
 ## Taxonomy
 

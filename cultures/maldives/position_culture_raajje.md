@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "the atoll nation"
-declared: "ދިވެހިރާއްޖެ"
+declared: "އެއް ބަހެއް، އެއް ދީނެއް، އެއް ޤައުމެއް"
 language: div
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: ދިވެހިރާއްޖެ
+# Position: އެއް ބަހެއް، އެއް ދީނެއް، އެއް ޤައުމެއް
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Warm Heart"
-declared: "the Warm Heart"
+title: "The Nation Takes Its Name"
+declared: "the nation takes its name"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: the Warm Heart
+# Plot: the nation takes its name
 
 ## Taxonomy
 

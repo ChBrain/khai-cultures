@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "The Jebena Coffee Ritual"
-declared: "الجبنة"
+declared: "قهوة الجبنة"
 language: ar
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Process: الجبنة
+# Process: قهوة الجبنة
 
 ## Taxonomy
 

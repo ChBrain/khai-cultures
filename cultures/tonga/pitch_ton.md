@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Tongan Tone"
-declared: "lea faka-Tonga"
+declared: "faka'apa'apa loloto"
 language: ton
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: lea faka-Tonga
+# Pitch: faka'apa'apa loloto
 
 ## Taxonomy
 

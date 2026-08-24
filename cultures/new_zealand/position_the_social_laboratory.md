@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Social Laboratory"
-declared: "the social laboratory"
+title: "a fair go"
+declared: "a fair go"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: the social laboratory
+# Position: a fair go
 
 ## Taxonomy
 

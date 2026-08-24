@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Land of Many Waters"
-declared: "the Land of Many Waters"
+title: "the vast interior"
+declared: "the vast interior"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: the Land of Many Waters
+# Position: the vast interior
 
 ## Taxonomy
 

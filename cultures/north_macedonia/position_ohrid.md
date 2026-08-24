@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Ohrid and Slavic Literacy"
-declared: "Охрид"
+declared: "словенската писменост"
 language: mk
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Position: Охрид
+# Position: словенската писменост
 
 ## Taxonomy
 

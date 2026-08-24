@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Crown and the People"
-declared: "e kalauni mo e kakai"
+title: "The Commoners' Push"
+declared: "e holi 'a e kakai tu'a"
 language: ton
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Plot: e kalauni mo e kakai
+# Plot: e holi 'a e kakai tu'a
 
 ## Taxonomy
 

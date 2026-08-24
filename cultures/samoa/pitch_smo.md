@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Samoan Tone"
-declared: "le gagana Samoa"
+declared: "le mamalu ma le faaaloalo"
 language: smo
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: le gagana Samoa
+# Pitch: le mamalu ma le faaaloalo
 
 ## Taxonomy
 

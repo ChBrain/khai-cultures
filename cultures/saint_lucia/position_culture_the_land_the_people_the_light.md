@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Saint Lucian Culture"
-declared: "The Land, The People, The Light"
+declared: "Saint Lucian culture"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-10"
 ---
 
-# Position: The Land, The People, The Light
+# Position: Saint Lucian culture
 
 ## Taxonomy
 

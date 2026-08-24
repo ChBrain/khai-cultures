@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Neg Mawon"
-declared: "Neg Mawon"
+title: "The Longest Resistance"
+declared: "the Longest Resistance"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Plot: Neg Mawon
+# Plot: the Longest Resistance
 
 ## Taxonomy
 

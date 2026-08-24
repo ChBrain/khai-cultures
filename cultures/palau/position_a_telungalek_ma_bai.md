@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Clans and the Bai"
-declared: "a telungalek ma bai"
+title: "The Clan Held by the Mother"
+declared: "a telungalek el le obai er a chedil"
 language: pau
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: a telungalek ma bai
+# Position: a telungalek el le obai er a chedil
 
 ## Taxonomy
 

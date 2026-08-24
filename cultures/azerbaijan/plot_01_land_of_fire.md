@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "the Land of Fire"
-declared: "Odlar Yurdu"
+title: "The Unquenchable Flame"
+declared: "sönməz alov"
 language: az
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: Odlar Yurdu
+# Plot: sönməz alov
 
 ## Taxonomy
 

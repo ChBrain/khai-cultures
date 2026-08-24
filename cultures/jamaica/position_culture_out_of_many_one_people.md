@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "Out of Many, One People"
-declared: "out of many, one people"
+title: "Jamaican culture"
+declared: "Jamaican culture"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: out of many, one people
+# Position: Jamaican culture
 
 ## Taxonomy
 

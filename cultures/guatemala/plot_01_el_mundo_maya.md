@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Maya World"
-declared: "el Mundo Maya"
+title: "The Cities of Stone"
+declared: "las ciudades de piedra"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Plot: el Mundo Maya
+# Plot: las ciudades de piedra
 
 ## Taxonomy
 

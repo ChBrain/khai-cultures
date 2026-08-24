@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Skanderbeg"
-declared: "Skënderbeu"
+title: "The Union of the Princes"
+declared: "bashkimi i princave"
 language: sq
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: Skënderbeu
+# Plot: bashkimi i princave
 
 ## Taxonomy
 
