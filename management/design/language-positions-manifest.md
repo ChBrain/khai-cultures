@@ -1,12 +1,12 @@
 # Language-position rollout manifest
 
-**Status:** Pass-A source of truth for the language-position rollout. Naming, coverage, and the cross-culture rule are in `REFERENCES.md` and this design of record (§2.6).
+**Status:** Pass-A source of truth for the language-position rollout, reconciled with the tree on 2026-08-24. Naming, coverage, and the cross-culture rule are in `REFERENCES.md` and this design of record (§2.6).
 
 Each culture **owns** one `position_language_<bcp47>.md` per language variety its personas natively hold. The variety tag is the locale: the `language:` ISO 639 subtag plus the culture's `geo.json` region (ISO 3166-1 for nations, ISO 3166-2 for sub-national cultures), lowercased with hyphens as underscores; a tongue that is monocentric house-wide stays bare. **Pass B** (not tabled here) then wires each persona's _foreign_ tongue uses as cross-culture links to the exact variety in its home culture.
 
 **Sub-national note:** where a culture's personas speak the national standard rather than a distinct coded lect, Pass A may instead link the parent nation's variety cross-culture (e.g. a Bavarian speaking Hochdeutsch links `../germany/position_language_de_de.md`) and the culture owns only its dialect (`bar`, `nds`, `sco`, `gsw`, …). The tag below is the mechanical default; that judgment is applied per culture in rollout.
 
-Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
+Totals: **320 own-variety positions across 290 cultures**; 90 sub-national. The table below is reconciled against the tree: the owned-files column is exactly what `cultures/*/position_language_*.md` holds, so the plan and the shelf agree and the totals are counted, not projected.
 
 | Culture                          | geo ISO | Native tongues | Owned position files (Pass A)                                                                                     |
 | -------------------------------- | ------- | -------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | balearic_islands                 | ES-IB   | es             | position_language_es_es_ib.md                                                                                     |
 | bangladesh                       | BD      | bn             | position_language_bn.md                                                                                           |
 | barbados                         | BB      | en             | position_language_en_bb.md                                                                                        |
-| basque_country                   | ES-PV   | es             | position_language_es_es_pv.md                                                                                     |
+| basque_country                   | ES-PV   | es, eu         | position_language_es_es_pv.md<br>position_language_eu.md                                                          |
 | bavaria                          | DE-BY   | de             | position_language_de_de_by.md                                                                                     |
 | belarus                          | BY      | be             | position_language_be.md                                                                                           |
 | belgium                          | BE      | fr, nl         | position_language_fr_be.md<br>position_language_nl_be.md                                                          |
@@ -58,14 +58,15 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | canada                           | CA      | en, fr         | position_language_en_ca.md<br>position_language_fr_ca.md                                                          |
 | canary_islands                   | ES-CN   | es             | position_language_es_es_cn.md                                                                                     |
 | cantabria                        | ES-CB   | es             | position_language_es_es_cb.md                                                                                     |
-| cape_verde                       | CV      | pt             | position_language_pt_cv.md                                                                                        |
+| cape_verde                       | CV      | kea, pt        | position_language_kea.md<br>position_language_pt_cv.md                                                            |
 | castile_and_leon                 | ES-CL   | es             | position_language_es_es_cl.md                                                                                     |
 | castilla_la_mancha               | ES-CM   | es             | position_language_es_es_cm.md                                                                                     |
-| catalonia                        | ES-CT   | es             | position_language_es_es_ct.md                                                                                     |
+| catalonia                        | ES-CT   | ca, es         | position_language_ca.md<br>position_language_es_es_ct.md                                                          |
 | central_african_republic         | CF      | fr             | position_language_fr_cf.md                                                                                        |
+| ceuta                            | ES-CE   | es             | position_language_es_es_ce.md                                                                                     |
 | chad                             | TD      | ar             | position_language_ar_td.md                                                                                        |
-| chile                            | CL      | es             | position_language_es_cl.md                                                                                        |
-| china                            | CN      | zh             | position_language_zh_cn.md                                                                                        |
+| chile                            | CL      | arn, es        | position_language_arn.md<br>position_language_es_cl.md                                                            |
+| china                            | CN      | lzh, zh        | position_language_lzh.md<br>position_language_zh_cn.md                                                            |
 | colombia                         | CO      | es             | position_language_es_co.md                                                                                        |
 | colorado                         | US-CO   | en             | position_language_en_us_co.md                                                                                     |
 | comoros                          | KM      | fr             | position_language_fr_km.md                                                                                        |
@@ -91,12 +92,13 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | eswatini                         | SZ      | ss             | position_language_ss.md                                                                                           |
 | ethiopia                         | ET      | am             | position_language_am.md                                                                                           |
 | extremadura                      | ES-EX   | es             | position_language_es_es_ex.md                                                                                     |
+| faroe_islands                    | FO      | fo             | position_language_fo.md                                                                                           |
 | fiji                             | FJ      | fij            | position_language_fij.md                                                                                          |
 | finland                          | FI      | fi, sv         | position_language_fi.md<br>position_language_sv_fi.md                                                             |
 | florida                          | US-FL   | en             | position_language_en_us_fl.md                                                                                     |
 | france                           | FR      | fr             | position_language_fr_fr.md                                                                                        |
 | gabon                            | GA      | fr             | position_language_fr_ga.md                                                                                        |
-| galicia                          | ES-GA   | es             | position_language_es_es_ga.md                                                                                     |
+| galicia                          | ES-GA   | es, gl         | position_language_es_es_ga.md<br>position_language_gl.md                                                          |
 | gambia                           | GM      | en             | position_language_en_gm.md                                                                                        |
 | georgia                          | GE      | ka             | position_language_ka.md                                                                                           |
 | georgia_us                       | US-GA   | en             | position_language_en_us_ga.md                                                                                     |
@@ -107,7 +109,7 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | grenada                          | GD      | en             | position_language_en_gd.md                                                                                        |
 | guatemala                        | GT      | es             | position_language_es_gt.md                                                                                        |
 | guinea                           | GN      | fr             | position_language_fr_gn.md                                                                                        |
-| guinea_bissau                    | GW      | pt             | position_language_pt_gw.md                                                                                        |
+| guinea_bissau                    | GW      | pov, pt        | position_language_pov.md<br>position_language_pt_gw.md                                                            |
 | guyana                           | GY      | en             | position_language_en_gy.md                                                                                        |
 | haiti                            | HT      | ht             | position_language_ht.md                                                                                           |
 | hamburg                          | DE-HH   | de             | position_language_de_de_hh.md                                                                                     |
@@ -115,13 +117,14 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | hesse                            | DE-HE   | de             | position_language_de_de_he.md                                                                                     |
 | holy_see                         | VA      | la             | position_language_la.md                                                                                           |
 | honduras                         | HN      | es             | position_language_es_hn.md                                                                                        |
+| hong_kong                        | HK      | en, yue        | position_language_en_hk.md<br>position_language_yue_hk.md                                                         |
 | hungary                          | HU      | hu             | position_language_hu.md                                                                                           |
 | iceland                          | IS      | is             | position_language_is.md                                                                                           |
 | idaho                            | US-ID   | en             | position_language_en_us_id.md                                                                                     |
 | illinois                         | US-IL   | en             | position_language_en_us_il.md                                                                                     |
 | india                            | IN      | hi             | position_language_hi.md                                                                                           |
 | indiana                          | US-IN   | en             | position_language_en_us_in.md                                                                                     |
-| indonesia                        | ID      | id             | position_language_id.md                                                                                           |
+| indonesia                        | ID      | id, jv         | position_language_id.md<br>position_language_jv.md                                                                |
 | iowa                             | US-IA   | en             | position_language_en_us_ia.md                                                                                     |
 | iran                             | IR      | fa             | position_language_fa_ir.md                                                                                        |
 | iraq                             | IQ      | ar             | position_language_ar_iq.md                                                                                        |
@@ -166,7 +169,8 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | mauritania                       | MR      | ar             | position_language_ar_mr.md                                                                                        |
 | mauritius                        | MU      | mfe            | position_language_mfe.md                                                                                          |
 | mecklenburg_western_pomerania    | DE-MV   | de             | position_language_de_de_mv.md                                                                                     |
-| mexico                           | MX      | es             | position_language_es_mx.md                                                                                        |
+| melilla                          | ES-ML   | es, rif        | position_language_es_es_ml.md<br>position_language_rif.md                                                         |
+| mexico                           | MX      | es, nah, yua   | position_language_es_mx.md<br>position_language_nah.md<br>position_language_yua.md                                |
 | michigan                         | US-MI   | en             | position_language_en_us_mi.md                                                                                     |
 | micronesia                       | FM      | en             | position_language_en_fm.md                                                                                        |
 | minnesota                        | US-MN   | en             | position_language_en_us_mn.md                                                                                     |
@@ -182,7 +186,7 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | murcia                           | ES-MC   | es             | position_language_es_es_mc.md                                                                                     |
 | myanmar                          | MM      | my             | position_language_my.md                                                                                           |
 | namibia                          | NA      | en             | position_language_en_na.md                                                                                        |
-| nauru                            | NR      | nau            | position_language_nau.md                                                                                          |
+| nauru                            | NR      | en             | position_language_en_nr.md                                                                                        |
 | navarre                          | ES-NC   | es             | position_language_es_es_nc.md                                                                                     |
 | nebraska                         | US-NE   | en             | position_language_en_us_ne.md                                                                                     |
 | nepal                            | NP      | ne             | position_language_ne.md                                                                                           |
@@ -223,7 +227,7 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | rhineland_palatinate             | DE-RP   | de             | position_language_de_de_rp.md                                                                                     |
 | rhode_island                     | US-RI   | en             | position_language_en_us_ri.md                                                                                     |
 | romania                          | RO      | ro             | position_language_ro_ro.md                                                                                        |
-| russia                           | RU      | ru             | position_language_ru.md                                                                                           |
+| russia                           | RU      | cu, ru         | position_language_cu.md<br>position_language_ru.md                                                                |
 | rwanda                           | RW      | rw             | position_language_rw.md                                                                                           |
 | saarland                         | DE-SL   | de             | position_language_de_de_sl.md                                                                                     |
 | saint_kitts_and_nevis            | KN      | en             | position_language_en_kn.md                                                                                        |
@@ -251,7 +255,7 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | south_dakota                     | US-SD   | en             | position_language_en_us_sd.md                                                                                     |
 | south_korea                      | KR      | ko             | position_language_ko_kr.md                                                                                        |
 | south_sudan                      | SS      | en             | position_language_en_ss.md                                                                                        |
-| spain                            | ES      | ca, es, eu     | position_language_ca_es.md<br>position_language_es_es.md<br>position_language_eu.md                               |
+| spain                            | ES      | es             | position_language_es_es.md                                                                                        |
 | sri_lanka                        | LK      | si             | position_language_si.md                                                                                           |
 | sudan                            | SD      | ar             | position_language_ar_sd.md                                                                                        |
 | suriname                         | SR      | nl             | position_language_nl_sr.md                                                                                        |
@@ -281,7 +285,7 @@ Totals: **304 own-variety positions across 286 cultures**; 88 sub-national.
 | usa                              | US      | en             | position_language_en_us.md                                                                                        |
 | utah                             | US-UT   | en             | position_language_en_us_ut.md                                                                                     |
 | uzbekistan                       | UZ      | uz             | position_language_uz.md                                                                                           |
-| valencian_community              | ES-VC   | es             | position_language_es_es_vc.md                                                                                     |
+| valencian_community              | ES-VC   | ca, es         | position_language_ca_vc.md<br>position_language_es_es_vc.md                                                       |
 | vanuatu                          | VU      | bis            | position_language_bis.md                                                                                          |
 | venezuela                        | VE      | es             | position_language_es_ve.md                                                                                        |
 | vermont                          | US-VT   | en             | position_language_en_us_vt.md                                                                                     |
