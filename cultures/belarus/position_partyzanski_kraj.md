@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Partisan Land"
-declared: "партызанскі край"
+title: "the endurance"
+declared: "вытрымка"
 language: be
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Position: партызанскі край
+# Position: вытрымка
 
 ## Taxonomy
 

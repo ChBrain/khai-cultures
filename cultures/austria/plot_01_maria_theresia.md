@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Maria Theresa"
-declared: "Maria Theresia"
+title: "The Time of Her Reign"
+declared: "die Zeit ihrer Herrschaft"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-20"
 ---
 
-# Plot: Maria Theresia
+# Plot: die Zeit ihrer Herrschaft
 
 ## Taxonomy
 

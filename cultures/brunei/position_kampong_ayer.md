@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "The Water Village"
-declared: "Kampong Ayer"
+declared: "cara hidup di atas air"
 language: ms
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: Kampong Ayer
+# Position: cara hidup di atas air
 
 ## Taxonomy
 

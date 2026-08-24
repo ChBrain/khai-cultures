@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Njegos"
-declared: "Njegoš"
+title: "The Sword and the Pen"
+declared: "mač i pero"
 language: cnr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: Njegoš
+# Plot: mač i pero
 
 ## Taxonomy
 

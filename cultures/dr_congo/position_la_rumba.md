@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Rumba"
-declared: "la rumba"
+title: "The Voice of the Continent"
+declared: "la grande voix du continent"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: la rumba
+# Position: la grande voix du continent
 
 ## Taxonomy
 

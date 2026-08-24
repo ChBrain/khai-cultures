@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Tuvaluan Tone"
-declared: "te gana Tuvalu"
+declared: "te loto fakamalie"
 language: tvl
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: te gana Tuvalu
+# Pitch: te loto fakamalie
 
 ## Taxonomy
 

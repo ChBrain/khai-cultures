@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Polish Culture"
-declared: "polskość"
+declared: "kultura polska"
 language: pl
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-10"
 ---
 
-# Position: polskość
+# Position: kultura polska
 
 ## Taxonomy
 

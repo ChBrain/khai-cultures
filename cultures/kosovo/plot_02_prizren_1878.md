@@ -29,7 +29,7 @@ Kuvendi themelon Lidhjen e Prizrenit, e cila organizon mbrojtjen ushtarake dhe k
 
 ## Stage
 
-- [besa](position_besa_pos.md) : zotimi i shenjtë për mbrojtjen e trojeve të përbashkëta.
+- [fjala e dhënë](position_besa_pos.md) : zotimi i shenjtë për mbrojtjen e trojeve të përbashkëta.
 - [plisi](piece_plisi.md) : kapela e bardhë që mbajnë udhëheqësit dhe delegatët si simbol të identitetit.
 - [Rugova](place_rugova.md) : rajoni malor ku luftëtarët organizojnë qëndresën e parë kundër vendimeve të Berlinit.
 

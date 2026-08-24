@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "the Renaissance"
-declared: "النهضة"
+title: "The Renaissance of Qaboos"
+declared: "نهضة قابوس"
 language: ar
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: النهضة
+# Plot: نهضة قابوس
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "The Smiling Coast"
-declared: "the Smiling Coast"
+title: "Gambian culture"
+declared: "Gambian culture"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-10"
 ---
 
-# Position: the Smiling Coast
+# Position: Gambian culture
 
 ## Taxonomy
 

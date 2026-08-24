@@ -29,7 +29,7 @@ The park establishes the state's transition to a high-tech and biotech economy, 
 
 ## Stage
 
-- [Research Triangle](position_research_triangle.md) : the regional high-tech and biotech engineering culture of the Piedmont.
+- [academic ambition](position_research_triangle.md) : the regional high-tech and biotech engineering culture of the Piedmont.
 - [biotech vial](piece_biotech_vial.md) : the vial representing the state's global pharmaceutical research and output.
 - [biotech synthesis](process_biotech_synthesis.md) : the scientific laboratory processes that replaced traditional textile mills.
 

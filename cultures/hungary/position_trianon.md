@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "Trianon"
-declared: "Trianon"
+title: "The Trianon Wound"
+declared: "a trianoni seb"
 language: hu
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Position: Trianon
+# Position: a trianoni seb
 
 ## Taxonomy
 

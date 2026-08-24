@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the revolution and the reckoning"
-declared: "the revolution and the reckoning"
+title: "carried soft and sober"
+declared: "carried soft and sober"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: the revolution and the reckoning
+# Position: carried soft and sober
 
 ## Taxonomy
 

@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "Research Triangle"
-declared: "Research Triangle"
+title: "Academic Ambition"
+declared: "academic ambition"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-06"
 ---
 
-# Position: Research Triangle
+# Position: academic ambition
 
 ## Taxonomy
 

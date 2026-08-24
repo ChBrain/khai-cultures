@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Cradle of Humankind"
-declared: "the Cradle of Humankind"
+title: "Our Oldest Grandmothers"
+declared: "our oldest grandmothers"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: the Cradle of Humankind
+# Plot: our oldest grandmothers
 
 ## Taxonomy
 

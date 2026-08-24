@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Houses of Stone"
-declared: "the houses of stone"
+title: "The Raising of the Stone"
+declared: "the raising of the stone"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: the houses of stone
+# Plot: the raising of the stone
 
 ## Taxonomy
 

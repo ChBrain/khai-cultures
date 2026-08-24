@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "The Distant Brother"
-declared: "el hermano lejano"
+title: "The Divided Homeland"
+declared: "la patria repartida"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: el hermano lejano
+# Position: la patria repartida
 
 ## Taxonomy
 

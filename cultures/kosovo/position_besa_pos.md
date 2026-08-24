@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "The Word of Honor"
-declared: "besa"
+declared: "fjala e dhënë"
 language: sq
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-28"
 ---
 
-# Position: besa
+# Position: fjala e dhënë
 
 ## Taxonomy
 

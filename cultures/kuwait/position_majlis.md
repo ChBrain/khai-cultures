@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "the Diwaniya"
-declared: "الديوانية"
+title: "the Majlis"
+declared: "المجلس"
 language: ar
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Position: الديوانية
+# Position: المجلس
 
 ## Taxonomy
 

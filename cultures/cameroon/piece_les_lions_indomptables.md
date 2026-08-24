@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "The Indomitable Lions Jersey"
-declared: "les Lions Indomptables"
+declared: "le maillot des Lions"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Piece: les Lions Indomptables
+# Piece: le maillot des Lions
 
 ## Taxonomy
 

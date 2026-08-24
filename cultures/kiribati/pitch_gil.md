@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The I-Kiribati Tone"
-declared: "te taetae ni Kiribati"
+declared: "te tangira ao te buobuoki"
 language: gil
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: te taetae ni Kiribati
+# Pitch: te tangira ao te buobuoki
 
 ## Taxonomy
 

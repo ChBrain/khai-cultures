@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "wan bon"
-declared: "wan bon"
+title: "Surinamese Culture"
+declared: "de Surinaamse cultuur"
 language: nl
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Position: wan bon
+# Position: de Surinaamse cultuur
 
 ## Taxonomy
 

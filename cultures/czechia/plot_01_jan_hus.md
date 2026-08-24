@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Jan Hus"
-declared: "Jan Hus"
+title: "The Constance Pyre"
+declared: "kostnická hranice"
 language: cs
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: Jan Hus
+# Plot: kostnická hranice
 
 ## Taxonomy
 

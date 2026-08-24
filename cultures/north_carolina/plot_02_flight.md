@@ -29,7 +29,7 @@ The achievement establishes the state as a historic aviation landmark, launching
 
 ## Stage
 
-- [Research Triangle](position_research_triangle.md) : the scientific and engineering innovation focus that later developed in the Piedmont.
+- [academic ambition](position_research_triangle.md) : the scientific and engineering innovation focus that later developed in the Piedmont.
 - [Roanoke Island](place_roanoke_island.md) : the coastal region near the windswept dunes of Kitty Hawk.
 - [Ethan](persona_ethan.md) : the biotech researcher who respects the early scientific method of the Wright brothers.
 

@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "The Marshallese Tone"
-declared: "Kajin Majol"
+declared: "dapij doon"
 language: mah
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-23"
 ---
 
-# Pitch: Kajin Majol
+# Pitch: dapij doon
 
 ## Taxonomy
 
