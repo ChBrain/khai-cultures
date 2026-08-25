@@ -77,6 +77,20 @@ The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
 casting something would be anachronistic or contrived, waive it with a reason in
 `cultures/<id>/coverage-waivers.json`; never invent a scene to satisfy a counter.
 
+## The defining question
+
+Coverage is a counter; it cannot tell you whether a play is true. So whenever a
+culture is touched, the other question is asked with it: **what defines this
+culture, and does the play stage it?** Germany passed every counter while
+staging its whole memory apparatus and no plot between 1871 and 1949.
+
+This is a dialogue, culture by culture, not a rule: the house has cultures that
+name their catastrophe and cultures that stage the recovery instead, and both can
+be right. See [The Defining Question](management/orders/order_the_defining_question.md).
+Where the answer is that a culture stands as it is, write the reasoning into its
+`REFERENCES.md` rather than leaving the next hand to ask again. Never stage an
+apology in place of a deed, and never invent a scene to satisfy a counter.
+
 ## Protection
 
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); sources
