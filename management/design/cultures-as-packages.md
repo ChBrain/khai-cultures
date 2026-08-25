@@ -114,6 +114,16 @@ a culture, and is not a way to let a play depend on one.
 The tongues are unaffected: with no play to anchor, they are not a production and
 stay a composite over the language engine, as §5 has them.
 
+One thing the tongues did gain, from reading the canon rather than the code. A
+position's chapters are `Has / Orders / Loses / Drives` of the office, so a
+language position says what the tongue does to whoever holds it and nothing else;
+where it is spoken is not one of the four. Measured on 2026-08-25, **99 of the
+320 varieties name their own culture inside those chapters**, which is drift of
+the same family as the dead Company entries: nobody was wrong on purpose, and no
+counter was watching. It is a review queue for the walk rather than a gate, since
+each variety is read in the slice that moves it, and
+`tests/tongues_standalone.mjs --drift` prints the queue.
+
 ## 7b. What step 5 found: the root cannot be both
 
 The workspaces skeleton was tried on 2026-08-25 and reverted the same hour. It
