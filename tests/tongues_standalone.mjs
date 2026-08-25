@@ -20,10 +20,16 @@
 // it. Where is not one of the four. A variety may identify itself and name the
 // speech community that holds it, since that community is the position's own
 // subject; it may not make claims about a culture's institutions, its cast or its
-// scenes, because those describe a culture and not a tongue. 99 of the 320
-// varieties named their own culture when this was measured, so the list is a
+// scenes, because those describe a culture and not a tongue. So the list is a
 // review queue for the walk and not a gate: each variety is read against the
 // mnemonic in the slice that moves it.
+//
+// A flat list of every mention is no queue, because 99 of the 320 varieties named
+// a culture when this was measured and nearly all of them were naming themselves.
+// So the queue sorts by how much a mention wants reading: a culture that does not
+// cast the variety comes first and is nearly always wrong, a culture that does
+// cast it is listed second and is the harder read, since the allowed sentence and
+// the forbidden one name the same place.
 
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -74,35 +80,102 @@ export function standalone({ dir = TONGUES } = {}) {
   return findings;
 }
 
-/** Culture names appearing in a variety's chapters: a review queue, not a verdict. */
-export function drift({ dir = TONGUES, root = ROOT } = {}) {
-  const names = [];
+/** Names a culture answers to: what it declares itself, and its id without the code. */
+function cultureNames(root) {
+  const out = new Map();
   const culturesDir = join(root, "cultures");
-  if (existsSync(culturesDir)) {
-    for (const id of readdirSync(culturesDir)) {
-      const d = join(culturesDir, id);
-      if (!existsSync(join(d, "geo.json"))) continue;
-      const play = readdirSync(d).find((f) => f.startsWith("play_"));
-      if (!play) continue;
-      const m = /^declared:\s*"([^"]+)"/m.exec(readFileSync(join(d, play), "utf8"));
-      for (const n of [m?.[1], id.replace(/_/g, " ")]) if (n && n.length > 3) names.push(n);
-    }
-  }
-  const out = [];
-  if (!existsSync(dir)) return out;
-  for (const file of readdirSync(dir).filter((f) => f.startsWith("position_language_"))) {
-    const body = readFileSync(join(dir, file), "utf8").split("## Has")[1] ?? "";
-    const hit = names.filter((n) => body.toLowerCase().includes(n.toLowerCase()));
-    if (hit.length) out.push({ file, names: [...new Set(hit)] });
+  if (!existsSync(culturesDir)) return out;
+  for (const id of readdirSync(culturesDir)) {
+    const d = join(culturesDir, id);
+    if (!existsSync(join(d, "geo.json"))) continue;
+    const play = readdirSync(d).find((f) => f.startsWith("play_"));
+    if (!play) continue;
+    const code = String(JSON.parse(readFileSync(join(d, "geo.json"), "utf8")).iso ?? "")
+      .split("-")[0]
+      .toLowerCase();
+    const local = code && id.startsWith(`${code}_`) ? id.slice(code.length + 1) : id;
+    const declared = /^declared:\s*"([^"]+)"/m.exec(readFileSync(join(d, play), "utf8"))?.[1];
+    const seen = new Map();
+    for (const n of [declared, local.replace(/_/g, " ")])
+      if (n && n.length > 3 && !seen.has(n.toLowerCase())) seen.set(n.toLowerCase(), n);
+    if (seen.size) out.set(id, [...seen.values()]);
   }
   return out;
+}
+
+/** Cultures that cast a variety, by the package specifier they cast it with. */
+function holders(root, files) {
+  const out = new Map(files.map((f) => [f, new Set()]));
+  const culturesDir = join(root, "cultures");
+  if (!existsSync(culturesDir)) return out;
+  for (const id of readdirSync(culturesDir)) {
+    const d = join(culturesDir, id);
+    if (!existsSync(join(d, "geo.json"))) continue;
+    for (const md of readdirSync(d).filter((f) => f.endsWith(".md"))) {
+      const text = readFileSync(join(d, md), "utf8");
+      for (const f of files)
+        if (text.includes(`@chbrain/khai-cultures-tongues/${f}`)) out.get(f).add(id);
+    }
+  }
+  return out;
+}
+
+// A leading boundary, and deliberately no trailing one. The leading boundary is
+// what kills the substring: the German "weniger" is not the country Niger,
+// because a letter stands in front of it. A trailing boundary would kill the
+// inflections the mention actually arrives in - "baden-wuerttembergische",
+// "saarlaendische", the genitive "Melillas" - and those are the mentions worth
+// reading, so the queue takes the noise and keeps them.
+const mentions = (body, name) =>
+  new RegExp(`(?<![\\p{L}\\p{N}])${name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`, "iu").test(body);
+
+/**
+ * Cultures a variety names in its chapters: a review queue, not a verdict, and
+ * sorted by how much it wants reading.
+ *
+ * FOREIGN is a culture that does not cast this variety. The tongue is talking
+ * about a stranger's house, and there is almost no sentence for which that is
+ * right.
+ *
+ * HELD is a culture that casts it. That is where the reading is genuinely hard,
+ * because both the allowed and the forbidden sentence name the same place: the
+ * variety may say which tongue it is and which community holds it, and may not
+ * say what that community's schools do. The Tarifit finding lived in this tier,
+ * so it is listed rather than excused - it is the second question, not a
+ * settled one.
+ */
+export function drift({ dir = TONGUES, root = ROOT } = {}) {
+  const out = [];
+  if (!existsSync(dir)) return out;
+  const files = readdirSync(dir).filter((f) => f.startsWith("position_language_"));
+  const names = cultureNames(root);
+  const held = holders(root, files);
+  for (const file of files) {
+    const body = readFileSync(join(dir, file), "utf8").split("## Has")[1] ?? "";
+    const foreign = [];
+    const owned = [];
+    for (const [id, list] of names) {
+      const hit = list.filter((n) => mentions(body, n));
+      if (hit.length) (held.get(file).has(id) ? owned : foreign).push(...hit);
+    }
+    if (foreign.length || owned.length)
+      out.push({ file, foreign: [...new Set(foreign)], held: [...new Set(owned)] });
+  }
+  return out.sort((a, b) => b.foreign.length - a.foreign.length);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   if (process.argv.includes("--drift")) {
     const d = drift();
-    console.log(`varieties naming a culture in their chapters: ${d.length}`);
-    for (const { file, names } of d) console.log(`  ${file}: ${names.join(", ")}`);
+    const foreign = d.filter((x) => x.foreign.length);
+    console.log(
+      `varieties naming a culture in their chapters: ${d.length} ` +
+        `(${foreign.length} naming a culture that does not cast them)`,
+    );
+    for (const { file, foreign: f, held } of d) {
+      if (f.length) console.log(`  ${file}: FOREIGN ${f.join(", ")}`);
+      if (held.length) console.log(`  ${file}: held by ${held.join(", ")}`);
+    }
     process.exit(0);
   }
   const f = standalone();

@@ -99,7 +99,10 @@ it, because that community is the position's own subject. It may not make claims
 about a culture's institutions, cast or scenes: "no place in the schools of
 Melilla" describes a city's schooling, not a tongue. Read a variety against the
 mnemonic in the slice that moves it, with `node tests/tongues_standalone.mjs
---drift` for the queue.
+--drift` for the queue. The queue sorts by how much a mention wants reading:
+`FOREIGN` is a culture that does not cast the variety and is nearly always
+wrong; `held by` is a culture that does, and is the harder read, because the
+allowed sentence and the forbidden one name the same place.
 
 ## Sub-national cultures
 
