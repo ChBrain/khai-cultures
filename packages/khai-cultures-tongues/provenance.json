@@ -1,36 +1,36 @@
 {
   "position_language_de_de_bw.md": {
-    "from": "baden_wuerttemberg",
+    "from": "de_baden_wuerttemberg",
     "tongue": "the Standard German of Baden-Württemberg, coloured by Swabian and Badisch",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
   },
   "position_language_de_de_hh.md": {
-    "from": "hamburg",
+    "from": "de_hamburg",
     "tongue": "the Standard German of Hamburg, over a Low German floor",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
   },
   "position_language_de_de_sl.md": {
-    "from": "saarland",
+    "from": "de_saarland",
     "tongue": "the Standard German of the Saarland, on a Rhenish-Franconian base beside French",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
   },
   "position_language_en_us_oh.md": {
-    "from": "ohio",
+    "from": "us_ohio",
     "tongue": "Ohio English, split between the Inland North and the Midland",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
   },
   "position_language_en_us_pa.md": {
-    "from": "pennsylvania",
+    "from": "us_pennsylvania",
     "tongue": "Pennsylvania English, Pittsburgh and the Dutch country",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
   },
   "position_language_en_us_va.md": {
-    "from": "virginia",
+    "from": "us_virginia",
     "tongue": "Virginian English, the drawl and the second-person plural English otherwise lost",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
   },
   "position_language_rif.md": {
-    "from": "melilla",
+    "from": "es_melilla",
     "tongue": "Tarifit, the Riffian Amazigh of the Rif coast",
     "review": "native",
     "note": "Written in Tarifit in Latin script, the convention of Riffian writing in Morocco and the diaspora; Tifinagh, official in Morocco since 2003, is not used in the city it came from. Registered as `rif` in the house's `khai.languages`, which routes it to assisted verification instead of the local detector. Read against the mnemonic when it moved here: two claims about Melilla, its households and its schools, were cut, because a position says what a tongue does to whoever holds it and not what a city does about it. The Rif stays, as the speech community that holds the tongue."
