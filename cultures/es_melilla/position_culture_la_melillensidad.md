@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La pertenencia a una ciudad de doce kilómetros cuadrados en la costa del Rif que es española desde antes que muchas provincias peninsulares y que se lo recuerda a sí misma a menudo. Trae la herencia de [la plaza fuerte](position_la_plaza_fuerte.md), con sus recintos, sus cuarteles y su costumbre de orden, y la de [la raíz amazigh](position_la_raiz_amazigh.md), que es la de casi la mitad de sus vecinos. Habla [el español melillense](position_language_es_es_ml.md) y celebra su fundación moderna cada septiembre, mientras convive con las cuatro comunidades, cristiana, musulmana, hebrea e hindú, que se reparten el calendario y el comercio. Es una manera de ser [española](../spain/position_culture_espanolidad.md), no un segundo pasaporte.
+La pertenencia a una ciudad de doce kilómetros cuadrados en la costa del Rif que es española desde antes que muchas provincias peninsulares y que se lo recuerda a sí misma a menudo. Trae la herencia de [la plaza fuerte](position_la_plaza_fuerte.md), con sus recintos, sus cuarteles y su costumbre de orden, y la de [la raíz amazigh](position_la_raiz_amazigh.md), que es la de casi la mitad de sus vecinos. Habla [el español melillense](@chbrain/khai-cultures-tongues/position_language_es_es_ml.md) y celebra su fundación moderna cada septiembre, mientras convive con las cuatro comunidades, cristiana, musulmana, hebrea e hindú, que se reparten el calendario y el comercio. Es una manera de ser [española](../spain/position_culture_espanolidad.md), no un segundo pasaporte.
 
 ## Orders
 
