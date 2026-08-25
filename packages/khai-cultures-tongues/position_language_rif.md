@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Tarifit d tutlayt tamaziɣt n Arrif, d tutlayt n taddart ɣar aṭṭas n imezdaɣ n Melilla. Tguriwin-nnes ttlalen-d zeg izuran n tirgalin: zeg ijjen uzur d amezwar ttlalen-d aṭṭas n tguriwin timaynutin. Amyag-nnes ittini ma tekmel temsart niɣ mazal tetteddu, war ittini ca melmi temsar. Ɣar-s izran, inzan d tinfas i ittwaqqaren s uqemmum, zeg jeddi ɣar ḥfid, war tewri ca deg tewriqin. Ɣar-s "ř" i tt-issnen imeziɣen n Arrif waha: min ittwaqqaren "ul" deg tutlayin nniḍen, aqqa-t da "uř".
+Tarifit d tutlayt tamaziɣt n Arrif, d tutlayt n taddart: tettwalmad deg taddart war deg tinmel. Tguriwin-nnes ttlalen-d zeg izuran n tirgalin: zeg ijjen uzur d amezwar ttlalen-d aṭṭas n tguriwin timaynutin. Amyag-nnes ittini ma tekmel temsart niɣ mazal tetteddu, war ittini ca melmi temsar. Ɣar-s izran, inzan d tinfas i ittwaqqaren s uqemmum, zeg jeddi ɣar ḥfid, war tewri ca deg tewriqin. Ɣar-s "ř" i tt-issnen imeziɣen n Arrif waha: min ittwaqqaren "ul" deg tutlayin nniḍen, aqqa-t da "uř".
 
 ## Orders
 
@@ -30,7 +30,7 @@ Ixeṣṣa ad ibeddel yisem talɣa-nnes awarni tenzeɣt: "argaz" ittdewwer "urga
 
 ## Loses
 
-War ɣar-s bu amkan deg tinmel n Melilla, war tettwari ca deg tewriqin n leḥkumet, war tettwaqqar ca deg uɣmis. Tguriwin n leḥsab, n ṭṭbib, n leɣrama d n tsertit ttwaṭṭfent zeg tespenyulit d zeg ddarija, minzi war ttwarin ca s Tarifit deg wemkan-a. Arraw d yarraw n warraw ttfehhamen-tt maca ttarran s tespenyulit, u kul tasuta tettwaɣ zeg wawař drus. Wenni i tt-ineṭqen deg tewwurt n tesqamut ittɛawad ad yini kulci s tutlayt nniḍen.
+War ɣar-s bu amkan deg tinmel, war tettwari ca deg tewriqin n leḥkumet, war tettwaqqar ca deg uɣmis. Tguriwin n leḥsab, n ṭṭbib, n leɣrama d n tsertit ttwaṭṭfent zeg tespenyulit d zeg ddarija, minzi war ttwarin ca s Tarifit. Arraw d yarraw n warraw ttfehhamen-tt maca ttarran s tespenyulit, u kul tasuta tettwaɣ zeg wawař drus. Wenni i tt-ineṭqen deg tewwurt n tesqamut ittɛawad ad yini kulci s tutlayt nniḍen.
 
 ## Drives
 
