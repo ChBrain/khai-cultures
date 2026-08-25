@@ -25,12 +25,14 @@ Der Krieg ist verloren, doch die Flotte soll noch einmal auslaufen, zu einer Sch
 
 ## Action
 
-Die Matrosen meutern, befreien die Eingesperrten und bilden Räte; [Artelt](persona_artelt.md) ist einer ihrer Wortführer. Aus [Kiel](place_kiel.md) springt der Funke über das ganze Reich, in wenigen Tagen stürzt die Monarchie und der Krieg ist zu Ende.
+Die Matrosen meutern, befreien die Eingesperrten und bilden Räte; [Artelt](persona_artelt.md) ist einer ihrer Wortführer. Aus [Kiel](place_kiel.md) springt der Funke über das ganze Reich, in wenigen Tagen stürzt die Monarchie und der Krieg ist zu Ende. Der Hafen, aus dem die Flotte nicht auslief, bekommt seine Segel bald darauf zurück: [die Kieler Woche](process_kieler_woche.md), vor dem Krieg als Regatta der Kaiserlichen gefahren, kehrt als Fest der Stadt wieder. Ein Jahrhundert später arbeitet [Merle](persona_merle.md) an derselben Förde an der Energie aus Wind und Meer.
 
 ## Stage
 
 - [Kiel](place_kiel.md): der Kriegshafen, in dem der Aufstand beginnt.
 - [Artelt](persona_artelt.md): der Matrose, der die Meuterei mit anführt.
+- [die Kieler Woche](process_kieler_woche.md): die Segelwoche, die den Hafen nach dem Krieg wieder der Stadt gibt.
+- [Merle](persona_merle.md): die Ingenieurin, die an derselben Förde aus Wind und Meer Strom macht.
 
 ## Tension
 

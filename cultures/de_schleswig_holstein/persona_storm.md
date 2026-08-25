@@ -1,0 +1,37 @@
+---
+khai: persona
+title: "Theodor Storm"
+declared: "Theodor Storm"
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-06-20"
+type: real
+---
+
+# Persona: Theodor Storm
+
+## Taxonomy
+
+[das Grenzland](position_grenzland.md)
+
+## Owner
+
+- Project: khai-cultures
+
+## Projection
+
+Der Dichter der grauen Küste. Ein Mann des Maßes und der leisen Schwermut, Jurist und Beamter zugleich, der die karge Schönheit des Landes zwischen den Meeren in Verse und Erzählungen fasst. Kein Mann der grossen Geste, sondern der genauen, verhaltenen Beobachtung. Er [schreibt, liest und denkt](process_writing_mother_tongue.md) in der [hochdeutschen Schriftsprache](@chbrain/khai-cultures-tongues/position_language_de_de_sh.md) und fasst die karge Küste in Verse und Erzählungen. Doch die Welt, die er schildert, der Deich, die Fischer, der Schimmelreiter, lebt im [Platt](@chbrain/khai-cultures-tongues/position_language_nds.md), das er [im Ohr trägt und einsprengt](process_hearing_mother_tongue.md): da ist der Riss, der Dichter hält die niederdeutsche Küste in hochdeutscher Schrift fest, und was die Leute wirklich sprechen, klingt in seiner Prosa nur als ferner Grund. Er gehört der [schleswig-holsteinischen Kultur](position_culture_schleswig_holsteinische_kultur.md) an und gibt ihrem Grenzland seine bleibenden Verse.
+
+## Action
+
+Er geht ins Exil, als die dänische Herrschaft ihm die Heimat verleidet, und kehrt im [Krieg von 1864](plot_03_1864.md) nach Husum zurück. In seinem [Schimmelreiter](piece_schimmelreiter.md) setzt er dem [Deichgrafen](position_deichgraf.md) und dem ewigen Kampf gegen das Wasser ein Denkmal, das die Küste bis heute von sich selbst erzählt.
+
+## Shadow
+
+Seine Treue zur deutschen Sache ist auch ein Schmerz: das Land, das er liebt, ist zerrissen zwischen den Kronen, und sein Heimweh im Exil verklärt eine Heimat, die es so einig nie gab.
+
+## Tell
+
+Er sagt das Schwere leise und genau, in wenigen Worten, und lässt das graue Meer für die grosse Gefühlsregung sprechen.

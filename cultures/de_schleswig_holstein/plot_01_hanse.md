@@ -25,13 +25,14 @@ An der Ostsee wächst aus einer Kaufmannssiedlung eine Macht. [Lübeck](place_lu
 
 ## Action
 
-Als Königin der Hanse beherrscht [Lübeck](place_luebeck.md) den Handel der Ostsee mit Salz, Hering, Tuch und Korn. Nicht ein Fürst regiert, sondern der [Kaufmann](position_kaufmann.md) und der Rat der Bürger, die ihre Freiheit und ihr Recht selbst in die Hand nehmen. Ein Jahrhunderte später kämpft [Wullenwever](persona_wullenwever.md) noch einmal um diese alte Vormacht, vergeblich.
+Als Königin der Hanse beherrscht [Lübeck](place_luebeck.md) den Handel der Ostsee mit Salz, Hering, Tuch und Korn. Nicht ein Fürst regiert, sondern der [Kaufmann](position_kaufmann.md) und der Rat der Bürger, die ihre Freiheit und ihr Recht selbst in die Hand nehmen. Ein Jahrhunderte später kämpft [Wullenwever](persona_wullenwever.md) noch einmal um diese alte Vormacht, vergeblich. Was von dieser Ordnung in der Sprache blieb, ist [das Moin](position_moin.md): ein Gruss, der keine Auskunft über den Rang verlangt und dem Ranghöchsten dasselbe sagt wie dem Lehrling, so wie der Rat den Kaufmann nicht nach seiner Geburt fragte.
 
 ## Stage
 
 - [Lübeck](place_luebeck.md): das Haupt der Hanse, Freie Reichsstadt am Wasser.
 - [der Kaufmann](position_kaufmann.md): der Bürger, der durch Handel und Wort regiert, nicht durch Geburt.
 - [Wullenwever](persona_wullenwever.md): der Bürgermeister, der die alte Grösse der Stadt zurückzwingen will.
+- [das Moin](position_moin.md): der Gruss für alle Stunden und alle Ränge, der nach keinem von beiden fragt.
 
 ## Tension
 

@@ -25,12 +25,13 @@ Nach dem verlorenen Krieg soll die alte Grenzfrage endlich nicht mehr mit Waffen
 
 ## Action
 
-Der Norden Schleswigs stimmt für Dänemark, die Mitte um [Flensburg](place_flensburg.md) bleibt deutsch. Eine Grenze wird gezogen, die hält, und auf beiden Seiten bleibt eine Minderheit, die ihre Sprache behält: das [Grenzland](position_grenzland.md), das gelernt hat, zweierlei zugleich zu sein.
+Der Norden Schleswigs stimmt für Dänemark, die Mitte um [Flensburg](place_flensburg.md) bleibt deutsch. Eine Grenze wird gezogen, die hält, und auf beiden Seiten bleibt eine Minderheit, die ihre Sprache behält: das [Grenzland](position_grenzland.md), das gelernt hat, zweierlei zugleich zu sein. Ein Jahrhundert später ist [Sönke](persona_soenke.md) in Flensburg dicht an dieser Grenze geboren, kennt beide Seiten und nimmt keine von beiden als Feind, was genau das ist, was 1920 abgestimmt wurde.
 
 ## Stage
 
 - [Flensburg](place_flensburg.md): die Stadt an der gezogenen Grenze.
 - [das Grenzland](position_grenzland.md): die Grenze durch Stimmen gezogen, die Minderheit geschützt.
+- [Sönke](persona_soenke.md): der Flensburger von der Grenze, der beide Seiten kennt und keine als Feind nimmt.
 
 ## Tension
 

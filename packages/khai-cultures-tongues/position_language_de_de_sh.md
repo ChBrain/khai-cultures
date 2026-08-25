@@ -26,7 +26,7 @@ Die Mittel des Hochdeutschen, die es mit jeder Region teilt: das Bauwort, das ga
 
 ## Orders
 
-Es zwingt, wie überall im Deutschen, bei jedem Ding ein Geschlecht und bei jedem Satz einen der vier Fälle zu wählen, das Verb im Nebensatz bis zuletzt zurückzuhalten und bei jeder Anrede zwischen Sie und du zu entscheiden. Im Land zwischen den Meeren verlangt es zudem eine klare, wenig gefärbte Aussprache, weil kein eigener hochdeutscher Dialekt die Laute weich macht und das Platt darunter der Standardlautung fremd bleibt.
+Es zwingt, wie überall im Deutschen, bei jedem Ding ein Geschlecht und bei jedem Satz einen der vier Fälle zu wählen, das Verb im Nebensatz bis zuletzt zurückzuhalten und bei jeder Anrede zwischen Sie und du zu entscheiden. Es verlangt zudem eine klare, wenig gefärbte Aussprache, weil kein eigener hochdeutscher Dialekt die Laute weich macht und das Platt darunter der Standardlautung fremd bleibt.
 
 ## Loses
 
