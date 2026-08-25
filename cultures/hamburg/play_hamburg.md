@@ -47,7 +47,7 @@ Moin. Mehr muss man an der Elbe nicht sagen, denn seit dem Barbarossa-Privileg v
 - [das Tor zur Welt](position_tor_zur_welt.md)
 - [der Kiez](position_kiez.md)
 - [das Hanseatentum](position_culture_hanseatentum.md)
-- [das Hamburger Hochdeutsch](position_language_de_de_hh.md)
+- [das Hamburger Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_hh.md)
 
 **Pieces**
 

@@ -47,7 +47,7 @@ Set the keystone and the whole arch holds - that's Pennsylvania's claim on its o
 - [Keystone culture](position_culture_keystone_culture.md)
 - [religious tolerance](position_tolerance.md)
 - [industrial grit](position_industrial_grit.md)
-- [Pennsylvania English](position_language_en_us_pa.md)
+- [Pennsylvania English](@chbrain/khai-cultures-tongues/position_language_en_us_pa.md)
 
 **Pieces**
 

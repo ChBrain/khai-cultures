@@ -35,4 +35,4 @@ Die Rangerhöhung Württembergs zum Königreich und Badens zum Großherzogtum be
 
 ## Tension
 
-Die Zusammenführung ehemals eigenständiger Gebiete erfordert mühsame Integrationsleistungen und schürt langlebige Rivalitäten zwischen den evangelischen Schwaben und den katholischen Badenern.
+Die Zusammenführung ehemals eigenständiger Gebiete erfordert mühsame Integrationsleistungen und schürt langlebige Rivalitäten zwischen den evangelischen Schwaben und den katholischen Badenern. Die neue Ordnung reicht dabei bis auf den Treppenabsatz: was die Polizeiverordnungen der Städte für Gasse und Gehweg vorschreiben, lebt als [die Kehrwoche](process_kehrwoche.md) weiter, wenn längst kein Amt mehr danach fragt.

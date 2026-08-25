@@ -1,4 +1,34 @@
 {
+  "position_language_de_de_bw.md": {
+    "from": "baden_wuerttemberg",
+    "tongue": "the Standard German of Baden-Württemberg, coloured by Swabian and Badisch",
+    "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
+  },
+  "position_language_de_de_hh.md": {
+    "from": "hamburg",
+    "tongue": "the Standard German of Hamburg, over a Low German floor",
+    "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
+  },
+  "position_language_de_de_sl.md": {
+    "from": "saarland",
+    "tongue": "the Standard German of the Saarland, on a Rhenish-Franconian base beside French",
+    "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
+  },
+  "position_language_en_us_oh.md": {
+    "from": "ohio",
+    "tongue": "Ohio English, split between the Inland North and the Midland",
+    "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
+  },
+  "position_language_en_us_pa.md": {
+    "from": "pennsylvania",
+    "tongue": "Pennsylvania English, Pittsburgh and the Dutch country",
+    "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
+  },
+  "position_language_en_us_va.md": {
+    "from": "virginia",
+    "tongue": "Virginian English, the drawl and the second-person plural English otherwise lost",
+    "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut."
+  },
   "position_language_rif.md": {
     "from": "melilla",
     "tongue": "Tarifit, the Riffian Amazigh of the Rif coast",

@@ -47,7 +47,7 @@ Virginia claims a peculiar seniority: the colony that named itself before the co
 - [the Old Dominion](position_culture_old_dominion.md)
 - [Cavalier heritage](position_cavalier_heritage.md)
 - [Cradle of Presidents](position_cradle_of_presidents.md)
-- [Virginian English](position_language_en_us_va.md)
+- [Virginian English](@chbrain/khai-cultures-tongues/position_language_en_us_va.md)
 
 **Pieces**
 

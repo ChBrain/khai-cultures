@@ -2325,11 +2325,6 @@
           "title": "The Homeland"
         },
         {
-          "file": "position_language_de_de_bw.md",
-          "kind": "position",
-          "title": "Baden-Wuerttemberg Standard German"
-        },
-        {
           "file": "position_schaffen.md",
           "kind": "position",
           "title": "The Diligent Work Ethic"
@@ -13356,11 +13351,6 @@
           "file": "position_kiez.md",
           "kind": "position",
           "title": "The Kiez"
-        },
-        {
-          "file": "position_language_de_de_hh.md",
-          "kind": "position",
-          "title": "Hamburg Standard German"
         },
         {
           "file": "position_pfeffersack.md",
@@ -25274,11 +25264,6 @@
           "title": "Industrial Heartland"
         },
         {
-          "file": "position_language_en_us_oh.md",
-          "kind": "position",
-          "title": "Ohio English"
-        },
-        {
           "file": "position_middle_ground.md",
           "kind": "position",
           "title": "The Middle Ground"
@@ -26563,11 +26548,6 @@
           "file": "position_industrial_grit.md",
           "kind": "position",
           "title": "Industrial Grit"
-        },
-        {
-          "file": "position_language_en_us_pa.md",
-          "kind": "position",
-          "title": "Pennsylvania English"
         },
         {
           "file": "position_tolerance.md",
@@ -28127,11 +28107,6 @@
           "file": "position_grenzland.md",
           "kind": "position",
           "title": "The Borderlands Identity"
-        },
-        {
-          "file": "position_language_de_de_sl.md",
-          "kind": "position",
-          "title": "Saarland Standard German"
         },
         {
           "file": "position_schwenker_pos.md",
@@ -36256,11 +36231,6 @@
           "file": "position_culture_old_dominion.md",
           "kind": "position",
           "title": "the Old Dominion"
-        },
-        {
-          "file": "position_language_en_us_va.md",
-          "kind": "position",
-          "title": "Virginian English"
         },
         {
           "file": "process_shipbuilding.md",

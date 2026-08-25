@@ -35,4 +35,4 @@ The steel production at [Pittsburgh Point](place_pittsburgh_point.md) builds the
 
 ## Tension
 
-The rapid industrialization leads to severe labor exploitation, culminating in the bloody Homestead Strike of 1892, and causes long-term environmental pollution in the valleys.
+The rapid industrialization leads to severe labor exploitation, culminating in the bloody Homestead Strike of 1892, and causes long-term environmental pollution in the valleys. The mills outlasted the men who fought over them and then closed anyway, which is why [John](persona_john.md) is a retired steelworker in a city with no steel: the last generation to hold the job the strike was about.
