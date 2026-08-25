@@ -1,5 +1,5 @@
 {
-  "source": ["cultures/**"],
+  "source": ["cultures/**", "packages/**"],
   "test": ["tests/**", ".github/workflows/**", ".husky/**"],
   "exemptRenames": true,
   "driftPolicy": {
@@ -28,7 +28,7 @@
       {
         "pattern": "culture/*",
         "layer": "solution",
-        "allow": ["cultures/**"]
+        "allow": ["cultures/**", "packages/**"]
       },
       {
         "pattern": "group/*",
