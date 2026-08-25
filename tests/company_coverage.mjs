@@ -21,7 +21,13 @@
 //
 // WAIVERS are the pressure valve, so the gate never forces contrived casting.
 // A persona born after the last plot cannot be cast without anachronism; that
-// wants a waiver with a reason, not a fake scene. See company-coverage-waivers.json.
+// wants a waiver with a reason, not a fake scene. A waiver lives WITH its
+// culture, in cultures/<id>/coverage-waivers.json, for two reasons: it is read
+// and reviewed in the same diff as the casting it excuses, and it is inside
+// cultures/**, so the culture PR that needs it can write it without crossing
+// the source/test separation gate (a waiver file under tests/ could only be
+// edited from a governance branch, which is the one branch that never touches
+// a culture).
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -30,7 +36,7 @@ import { execFileSync } from "node:child_process";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 export const ROOT = join(HERE, "..");
-export const WAIVERS_PATH = join(HERE, "company-coverage-waivers.json");
+export const WAIVERS_FILE = "coverage-waivers.json";
 
 // Held one way (by a persona) or keying the run: never fielded in a scene.
 const ONE_WAY = ["pitch_", "position_language_", "position_culture_", "plan_"];
@@ -59,9 +65,21 @@ function section(text, name) {
   return next ? rest.slice(0, next.index) : rest;
 }
 
-export function readWaivers() {
-  if (!existsSync(WAIVERS_PATH)) return {};
-  return JSON.parse(readFileSync(WAIVERS_PATH, "utf8"));
+/** One culture's waivers: { "<file>.md": "<written reason>" }. */
+export function readWaivers(id, root = ROOT) {
+  const path = join(root, "cultures", id, WAIVERS_FILE);
+  if (!existsSync(path)) return {};
+  return JSON.parse(readFileSync(path, "utf8"));
+}
+
+/** Every culture that carries a waiver file, as { id: { file: reason } }. */
+export function allWaivers(root = ROOT) {
+  const out = {};
+  for (const id of cultureIds(root)) {
+    const w = readWaivers(id, root);
+    if (Object.keys(w).length) out[id] = w;
+  }
+  return out;
 }
 
 export function cultureIds(root = ROOT) {
@@ -77,7 +95,7 @@ export function cultureIds(root = ROOT) {
  * Company entries of one culture that no plot fields, minus the one-way kinds
  * and minus anything waived. Returns { dead, waived, company } basenames.
  */
-export function coverage(id, { root = ROOT, waivers = readWaivers() } = {}) {
+export function coverage(id, { root = ROOT } = {}) {
   const dir = join(root, "cultures", id);
   if (!existsSync(dir) || !statSync(dir).isDirectory())
     return { dead: [], waived: [], company: [] };
@@ -94,7 +112,7 @@ export function coverage(id, { root = ROOT, waivers = readWaivers() } = {}) {
     for (const b of linkBasenames(readFileSync(join(dir, plot), "utf8")))
       if (company.has(b)) cast.add(b);
 
-  const waivedHere = waivers[id] ?? {};
+  const waivedHere = readWaivers(id, root);
   const uncast = [...company].filter((b) => !cast.has(b) && !isOneWay(b));
   return {
     dead: uncast.filter((b) => !waivedHere[b]).sort(),
@@ -164,7 +182,7 @@ function gate(base, head) {
   console.error(
     "\n  Fix: cast each one in the plot whose scene needs it, or drop it from the play's Company.\n" +
       "  If casting it would be anachronistic or contrived, waive it with a reason in\n" +
-      "  tests/company-coverage-waivers.json. Positions held one way (language, culture),\n" +
+      "  cultures/<id>/coverage-waivers.json. Positions held one way (language, culture),\n" +
       "  plans and pitches are never counted.",
   );
   return 1;

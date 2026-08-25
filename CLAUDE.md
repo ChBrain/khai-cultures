@@ -75,7 +75,7 @@ node tests/company_coverage.mjs --report
 
 The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
 casting something would be anachronistic or contrived, waive it with a reason in
-`tests/company-coverage-waivers.json`; never invent a scene to satisfy a counter.
+`cultures/<id>/coverage-waivers.json`; never invent a scene to satisfy a counter.
 
 ## Protection
 
