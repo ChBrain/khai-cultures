@@ -82,15 +82,19 @@ Ein Mönch schlägt seine Thesen an und stellt sein Gewissen über das Amt der K
 
 Aus vielen Fürstentümern wird ein Reich. [Bismarck](persona_bismarck.md) schmiedet die Einheit mit harter Hand und legt zugleich den Grund für Verwaltung, Ordnung und die Versorgung, an der das Land seine Pflicht misst.
 
-**[Plot 3: Grundgesetz und Wirtschaftswunder 1949](plot_03_grundgesetz.md)**
+**[Plot 3: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_03_zivilisationsbruch.md)**
+
+Der Hang, der Obrigkeit zu folgen, wird eingelöst: das Land übergibt sich auf legalem Weg, benutzt seine eigene Verwaltung zur Entrechtung und ermordet sechs Millionen Juden und Millionen weitere Menschen. 1945 liegt es besetzt und in Trümmern, und der Bruch ist von Deutschen begangen.
+
+**[Plot 4: Grundgesetz und Wirtschaftswunder 1949](plot_04_grundgesetz.md)**
 
 Nach dem Sturz in die Katastrophe gibt sich das Land ein neues Fundament. [Adenauer](persona_adenauer.md) führt es aus den Trümmern, das Grundgesetz stellt die Würde des Menschen voran, und aus Fleiß und Maß wächst der Wohlstand wieder.
 
-**[Plot 4: Die autofreien Sonntage 1973](plot_04_autofreie_sonntage.md)**
+**[Plot 5: Die autofreien Sonntage 1973](plot_05_autofreie_sonntage.md)**
 
 Der Ölschock stellt das Land, das seinen Wohlstand aufs Rad gesetzt hat, für vier Sonntage auf die leere [Autobahn](place_die_autobahn.md). Aus dem Streit um das Tempo geht 1978 kein Gesetz hervor, sondern eine Empfehlung, und ausgerechnet [das Auto](piece_das_auto.md) wird die eine Sache, bei der das Land sich selbst keine bindende Regel gibt.
 
-**[Plot 5: Der Mauerfall 1989/90](plot_05_mauerfall.md)**
+**[Plot 6: Der Mauerfall 1989/90](plot_06_mauerfall.md)**
 
 Die Mauer fällt, und zwei getrennte Hälften wachsen wieder zusammen. [Kohl](persona_kohl.md) treibt die Einheit voran, während [Elke](persona_elke.md), im Osten geprägt, erlebt, wie eine ganze Lebensordnung über Nacht zerbricht und neu gefügt werden muss.
 

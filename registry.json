@@ -11996,19 +11996,25 @@
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_03_grundgesetz.md",
+          "file": "plot_03_zivilisationsbruch.md",
+          "kind": "plot",
+          "title": "The Seizure of Power and the Break with Civilisation 1933 to 1945",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_04_grundgesetz.md",
           "kind": "plot",
           "title": "Basic Law and the Economic Miracle 1949",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_04_autofreie_sonntage.md",
+          "file": "plot_05_autofreie_sonntage.md",
           "kind": "plot",
           "title": "The Car-Free Sundays 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_05_mauerfall.md",
+          "file": "plot_06_mauerfall.md",
           "kind": "plot",
           "title": "The Fall of the Wall 1989/90",
           "taxonomy": "play_germany.md"

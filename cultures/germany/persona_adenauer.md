@@ -26,7 +26,7 @@ Ein alter, nüchterner Mann mit unbeirrbarer Geduld, der erste Kanzler nach der 
 
 ## Action
 
-Er führt das zerstörte Land aus den Trümmern, bindet es nach Westen und gibt ihm Halt. In [Grundgesetz und Wirtschaftswunder 1949](plot_03_grundgesetz.md) steht er für das neue Fundament, das [Grundgesetz](piece_grundgesetz.md), und für die Verlässlichkeit, aus der im [Ruhrgebiet](place_ruhrgebiet.md) der Wohlstand zurückwächst.
+Er führt das zerstörte Land aus den Trümmern, bindet es nach Westen und gibt ihm Halt. In [Grundgesetz und Wirtschaftswunder 1949](plot_04_grundgesetz.md) steht er für das neue Fundament, das [Grundgesetz](piece_grundgesetz.md), und für die Verlässlichkeit, aus der im [Ruhrgebiet](place_ruhrgebiet.md) der Wohlstand zurückwächst.
 
 ## Shadow
 
