@@ -34,4 +34,4 @@ La plaza se fortifica de inmediato y queda encerrada en [Melilla la Vieja](place
 
 ## Tension
 
-La corona quiere una plaza que se sostenga sola y sólo consigue poblarla mandando penados: la ciudad que ha de guardar la frontera se levanta con gente enviada aquí a cumplir condena, que no puede irse ni quiere quedarse.
+La corona quiere una plaza que se sostenga sola y sólo consigue poblarla mandando penados: la ciudad que ha de guardar la frontera se levanta con gente enviada aquí a cumplir condena, que no puede irse ni quiere quedarse. De aquel septiembre viene [el día de la ciudad](process_el_dia_de_la_ciudad.md), que Melilla celebra cada año sabiendo que conmemorar una toma militar no significa lo mismo para todos sus vecinos.
