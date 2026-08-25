@@ -90,9 +90,16 @@ on every pull request, not as a ratchet, because it started clean.
 node tests/tongues_standalone.mjs
 ```
 
-The implicit half is yours, not the gate's. A variety may name the ground it is
-spoken on, because Ceutan Spanish cannot be described without Ceuta; it may not
-lean on a culture's cast, its scenes or its objects to make sense.
+The implicit half is yours, not the gate's, and the mnemonic settles it. A
+position's chapters are `Has / Orders / Loses / Drives` **of the office**: what
+the tongue gives whoever holds it, what its grammar forces them to mark, what it
+cannot say, how it shapes the mind that thinks in it. **Where is not one of the
+four.** A variety may identify itself and name the speech community that holds
+it, because that community is the position's own subject. It may not make claims
+about a culture's institutions, cast or scenes: "no place in the schools of
+Melilla" describes a city's schooling, not a tongue. Read a variety against the
+mnemonic in the slice that moves it, with `node tests/tongues_standalone.mjs
+--drift` for the queue.
 
 ## Sub-national cultures
 
