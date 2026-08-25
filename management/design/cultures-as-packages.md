@@ -163,6 +163,33 @@ The order of §7 is amended accordingly. Step 5 is renamed _drain the release,
 then move the umbrella into the workspace_, and it is the one step in this plan
 that cannot be taken in small pieces.
 
+## 7c. The rename is blocked in khai, not here
+
+The walk's second batch found a deadlock between three gates, and it is worth
+writing down because it holds 84 cultures.
+
+Touch a sub-national culture and the conformance ratchet wants its id renamed.
+Rename it alongside content edits and khai-guard's changeset-check reads six new
+cultures and demands a `minor`. Take that advice and the release breaks: a minor
+reconciles against an unchanged culture count and lands back on the version
+already published. Rename it alone, as a pure move, and khai-guard still calls it
+an add, because `parseChanges` is explicit that "a rename into a path is, for
+ownership, an addition of that path". True for lane ownership. False for the
+count-driven add rule, where a renamed play is not a new culture and the count
+has not moved.
+
+So the house does what it can and says what it cannot. Both ratchets here now
+skip a pure rename, the R100 rule khai-guard already applies elsewhere, so a
+rename pays no debt and incurs none. The id half of sub-national conformance
+drops to advisory: printed on every touched culture, blocking nothing. The
+nesting half stays a hard gate, because a parent link is content and rides a
+content pull request without trouble.
+
+**What khai must fix**: `changeset-check` should judge the count-driven add rule
+on renames by source as well as destination, so a play that merely moved is not
+counted as a play that arrived. Until then the clean identifiers cannot land, and
+the walk pays its other three debts without them.
+
 ## 8. Why the walk is orderable
 
 The migration looked un-waveable: the 320 files can live in only one place, so the moment they move, every unrewritten link is red. Ordering by variety dissolves it. **258 of the 320 varieties are linked by exactly one culture**, their own; 282 by two or fewer; 294 by three or fewer. Only six are wide: `en_gb` at 95 cultures, `fr_fr` at 53, `la` at 37, `en_us` at 25, `ru` and `ar_sa` at 24.

@@ -45,17 +45,28 @@ export function parentOf(code, root = ROOT) {
 }
 
 /**
- * What a sub-national culture still owes. National cultures owe nothing here.
- * Returns a list of finding strings; empty means conforming.
+ * What a sub-national culture still owes, split by what the toolchain can accept
+ * today. `blocking` fails the gate; `advisory` is printed and does not.
+ *
+ * The id rename is advisory, and not because it matters less. khai-guard's
+ * changeset-check reads a rename's destination as an added path (parseChanges:
+ * "a rename into a path is, for ownership, an addition of that path"), which is
+ * right for lane ownership and wrong for the count-driven add rule: a renamed
+ * play is not a new culture and the count has not moved. So a rename demands a
+ * `minor` changeset, and a minor reconciles against an unchanged count back onto
+ * the version already published. Until that is fixed in khai, a rename cannot
+ * merge, and a hard gate here would freeze every sub-national culture that still
+ * owes one: 84 of them. It stays visible and stops blocking.
  */
 export function conformance(id, { root = ROOT } = {}) {
   const code = iso(id, root).split("-")[0];
-  if (!code || !iso(id, root).includes("-")) return [];
-  const findings = [];
+  if (!code || !iso(id, root).includes("-")) return { blocking: [], advisory: [], findings: [] };
+  const blocking = [];
+  const advisory = [];
   const prefix = `${code.toLowerCase()}_`;
 
   if (!id.startsWith(prefix))
-    findings.push(
+    advisory.push(
       `id "${id}" must carry its parent's code: rename it "${prefix}<name>" ` +
         `(the package name follows the id, and an npm name is permanent)`,
     );
@@ -70,27 +81,27 @@ export function conformance(id, { root = ROOT } = {}) {
       ),
     );
     if (!linked)
-      findings.push(
+      blocking.push(
         `nests in "${parent}" and does not say so: its culture-position must link ` +
           `../${parent}/position_culture_*.md, because a sub-national culture is a way ` +
           `of being the culture above it`,
       );
   }
-  return findings;
+  return { blocking, advisory, findings: [...blocking, ...advisory] };
 }
 
 function report() {
   let n = 0;
   const rows = [];
   for (const id of cultureIds()) {
-    const f = conformance(id);
-    if (f.length) {
+    const { blocking, advisory } = conformance(id);
+    if (blocking.length || advisory.length) {
       n++;
-      rows.push([id, f.length]);
+      rows.push([id, blocking.length, advisory.length]);
     }
   }
   console.log(`sub-national cultures not yet conforming: ${n}`);
-  for (const [id, count] of rows) console.log(`  ${id}: ${count} finding(s)`);
+  for (const [id, b, a] of rows) console.log(`  ${id}: ${b} blocking, ${a} advisory`);
 }
 
 function gate(base, head) {
@@ -105,13 +116,17 @@ function gate(base, head) {
     console.log("Sub-national conformance: no culture touched.");
     return 0;
   }
-  const offenders = touched.map((id) => [id, conformance(id)]).filter(([, f]) => f.length);
+  const seen = touched.map((id) => [id, conformance(id)]);
+  for (const [id, { advisory }] of seen)
+    for (const line of advisory) console.log(`::notice::${id}: ${line}`);
+  const offenders = seen.filter(([, c]) => c.blocking.length);
   if (!offenders.length) {
     console.log(`Sub-national conformance OK: ${touched.length} touched culture(s).`);
     return 0;
   }
   console.error("::error::Sub-national conformance: a touched culture must come out conforming.");
-  for (const [id, f] of offenders) for (const line of f) console.error(`  ${id}: ${line}`);
+  for (const [id, { blocking }] of offenders)
+    for (const line of blocking) console.error(`  ${id}: ${line}`);
   return 1;
 }
 
