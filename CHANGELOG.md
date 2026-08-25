@@ -1,5 +1,16 @@
 # @chbrain/khai-cultures
 
+## 0.290.0
+
+### Minor Changes
+
+- aa665c6: Add Ceuta (ISO ES-CE) and Melilla (ISO ES-ML) as khai cultures, written in Spanish, completing Spain's autonomous cities alongside its seventeen communities. Ceuta: the Portuguese conquest of 1415, the thirty-year siege, and the 1995 statute; Antonio the stevedore and Nadia the heritage officer; the Strait, the four cultures, Ceutan culture and Ceutan Spanish; Monte Hacho and the Royal Walls; the porteo through the Tarajal and the round of the four festive calendars; the Caliphal Gate and the border fence. Melilla: the taking of 1497, the Wolf Ravine of 1909 that paid for the modernist quarter, and the 1986 citizenship fight; Dris the jeweller and Alba the restoration surveyor; the Amazigh root, the garrison town, Melillan culture, Melillan Spanish and Tarifit (the Riffian tongue of the city's homes, written in Tarifit and registered as `rif` for assisted verification, prose flagged for native review); Old Melilla and the ensanche; the crossing at Beni Enzar and the 17 September commemoration; the identity card and the modernist stained glass. Two new cultures: the minor version bumps to the new culture count.
+
+### Patch Changes
+
+- a30e27d: Give Germany its road, its car and the argument it never settled. The Autobahn lands as a place, with the Reichsautobahn myth in its Withheld (Weimar planning, the 1932 Cologne to Bonn road opened by mayor Adenauer, propaganda that took finished plans, forced labour in the war) and the deflation that much of the network is limited anyway. The car lands as a piece, from the Wolfsburg works of 1938 through the Käfer to the collision with the Energiewende, and by way of the Trabant that Elke waited thirteen years for. Between the economic miracle and the fall of the Wall a fourth plot now sits: the car-free Sundays of 1973, the temporary limit that lapsed, and the advisory Richtgeschwindigkeit of 1978, the one rule a rule-keeping country declined to make binding. The Mauerfall plot renumbers to plot_05. Existing content, no new culture: a patch.
+- c568362: Germany stages what it did. The play carried the whole memory apparatus, the Stolpersteine, the Erinnern process, the Erinnerungskultur plan, an Arc naming the catastrophe and Stakes resting on the memory of guilt, and staged no plot between 1871 and 1949: the only culture in the house that staged its remorse without staging its crime. A third plot now sits where it belongs, Machtübernahme und Zivilisationsbruch 1933 bis 1945: the legal appointment and the Enabling Act passed by a majority of the elected Reichstag, the administration turned into an instrument of exclusion and deportation, the war, the murder of six million Jews and of millions of Sinti and Roma, disabled people, prisoners of war, forced labourers and the persecuted, and the Tension that they were neighbours and colleagues and not strangers. The later plots renumber to 04, 05 and 06. Germany also comes out at zero under the new coverage ratchet: der Meister and Pünktlichkeit are cast in the Reichsgründung where the Kaiserreich actually put them, Mülltrennung in the environmental awareness that grew out of 1973, and the Stolpersteine and Erinnern in the new plot's Tension; Jonas is waived, born after the last plot. Existing content, no new culture: a patch.
+
 ## 0.288.1
 
 ### Patch Changes
