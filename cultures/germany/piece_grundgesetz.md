@@ -33,6 +33,6 @@ Ein nüchterner Text aus Artikeln, ohne Pathos und ohne Schmuck. Gerade in seine
 
 ## Yearbook
 
-- Geschrieben 1949 in [Grundgesetz und Wirtschaftswunder 1949](plot_03_grundgesetz.md) als Fundament des neuen Staates.
+- Geschrieben 1949 in [Grundgesetz und Wirtschaftswunder 1949](plot_04_grundgesetz.md) als Fundament des neuen Staates.
 - Vorangestellt von [Adenauer](persona_adenauer.md) und seinem Rat als erstes Mass des Landes.
-- Erweitert 1990, als der [Mauerfall 1989/90](plot_05_mauerfall.md) das geteilte Land wieder eines machte.
+- Erweitert 1990, als der [Mauerfall 1989/90](plot_06_mauerfall.md) das geteilte Land wieder eines machte.

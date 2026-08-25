@@ -25,13 +25,15 @@ Die vielen Staaten deutscher Zunge liegen noch getrennt. In Berlin sitzt [Bismar
 
 ## Action
 
-[Bismarck](persona_bismarck.md) schmiedet das Reich nicht durch Reden und Beschlüsse, sondern, wie er sagt, durch Eisen und Härte. Drei Kriege fügen die Teile zusammen, und 1871 wird in Versailles der König von Preußen zum Kaiser ausgerufen. Doch derselbe Mann baut auch eine Ordnung des Inneren: die erste staatliche Versorgung gegen Krankheit, Unfall und Alter, eine Verwaltung, die ordnet und sichert, getragen vom [Beamten](position_beamte.md) und seiner Pflicht. Aus dem Flickwerk wird ein Staat, der seine Bürger versorgt und sich an dieser Pflicht messen lässt.
+[Bismarck](persona_bismarck.md) schmiedet das Reich nicht durch Reden und Beschlüsse, sondern, wie er sagt, durch Eisen und Härte. Drei Kriege fügen die Teile zusammen, und 1871 wird in Versailles der König von Preußen zum Kaiser ausgerufen. Doch derselbe Mann baut auch eine Ordnung des Inneren: die erste staatliche Versorgung gegen Krankheit, Unfall und Alter, eine Verwaltung, die ordnet und sichert, getragen vom [Beamten](position_beamte.md) und seiner Pflicht. Auch das Handwerk wird geordnet: 1897 macht das Reich den Brief [des Meisters](position_meister.md) zur Bedingung dafür, Lehrlinge auszubilden, und bindet das Können an einen Nachweis. Und als 1893 die Eisenbahnen dem ganzen Reich eine einzige Zeit geben, hört [Pünktlichkeit](process_puenktlichkeit.md) auf, die Tugend Einzelner zu sein, und wird zur Verabredung eines ganzen Landes. Aus dem Flickwerk wird ein Staat, der seine Bürger versorgt und sich an dieser Pflicht messen lässt.
 
 ## Stage
 
 - [Berlin](place_berlin.md): die neue Hauptstadt des geeinten Reiches.
 - [Bismarck](persona_bismarck.md): der Kanzler, der die Einheit mit harter Hand fügt.
 - [der Beamte](position_beamte.md): der Träger der Ordnung, die das Reich zusammenhält.
+- [der Meister](position_meister.md): das Handwerk, dessen Können das Reich an einen Nachweis bindet.
+- [Pünktlichkeit](process_puenktlichkeit.md): die eine Zeit, auf die sich ein ganzes Land verabredet.
 
 ## Tension
 

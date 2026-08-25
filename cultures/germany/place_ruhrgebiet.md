@@ -25,7 +25,7 @@ Ein dichtes Revier aus Zechen, Stahlwerken und aneinandergewachsenen Städten im
 
 ## Holds
 
-- die Arbeit des Wiederaufbaus: aus [Grundgesetz und Wirtschaftswunder 1949](plot_03_grundgesetz.md) hat das Revier seinen Motor.
+- die Arbeit des Wiederaufbaus: aus [Grundgesetz und Wirtschaftswunder 1949](plot_04_grundgesetz.md) hat das Revier seinen Motor.
 - das [Brot](piece_brot.md): die einfache, tägliche Sache der Arbeiter, die hier schufteten.
 
 ## Offers

@@ -35,4 +35,4 @@ An diesen vier Sonntagen liegt die Fahrbahn leer, und die Leute gehen auf ihr sp
 
 ## Tension
 
-Die Ausnahme ist nie zur Ruhe gekommen. Bei jeder Ölkrise, jeder Klimabilanz und jeder Rechnung [der Energiewende](plan_energiewende.md) kehrt der Streit zurück, und jedes Mal steht dieselbe Frage im Raum: ob das Versprechen, Regeln zu halten, etwas wert ist, solange das Land für die eine Regel, die ihm etwas kosten würde, keine Mehrheit findet.
+Die Ausnahme ist nie zur Ruhe gekommen. Bei jeder Ölkrise, jeder Klimabilanz und jeder Rechnung [der Energiewende](plan_energiewende.md) kehrt der Streit zurück, und aus dem Schreck jenes Winters wächst zugleich das Umweltbewusstsein, das dem Land später [die Mülltrennung](process_muelltrennung.md) als selbstverständliche Pflicht in die Küche stellt. Jedes Mal steht dieselbe Frage im Raum: ob das Versprechen, Regeln zu halten, etwas wert ist, solange das Land für die eine Regel, die ihm etwas kosten würde, keine Mehrheit findet.

@@ -26,7 +26,7 @@ Eine ältere Frau, in der DDR geboren und durch die Jahre vor 1989 geprägt. Spa
 
 ## Action
 
-Sie hat im [Mauerfall 1989/90](plot_05_mauerfall.md) erlebt, wie eine ganze Lebensordnung über Nacht zerbrach, und musste alles neu fügen. Sie trennt den Müll genau via [Mülltrennung](process_muelltrennung.md), pflegt das [Erinnern](process_erinnern.md) an die geteilte Vergangenheit und mahnt die Jungen, dass Freiheit ohne Verlässlichkeit nichts wert ist.
+Sie hat im [Mauerfall 1989/90](plot_06_mauerfall.md) erlebt, wie eine ganze Lebensordnung über Nacht zerbrach, und musste alles neu fügen. Sie trennt den Müll genau via [Mülltrennung](process_muelltrennung.md), pflegt das [Erinnern](process_erinnern.md) an die geteilte Vergangenheit und mahnt die Jungen, dass Freiheit ohne Verlässlichkeit nichts wert ist.
 
 ## Shadow
 
