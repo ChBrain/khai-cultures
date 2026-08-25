@@ -13,10 +13,17 @@
 // are productions), and every variety carries its own `language:` so it is
 // self-describing outside the play inheritance it used to sit under.
 //
-// The implicit half is prose, and no validator can hold it. A variety may name
-// the ground it is spoken on, because Ceutan Spanish cannot be described without
-// Ceuta; what it may not do is lean on a culture's cast, its scenes or its
-// objects to make sense. That is a reading, and it belongs to review.
+// The implicit half is prose, and no validator can hold it, but --drift gives the
+// reader a list to read against. A position's chapters are Has, Orders, Loses and
+// Drives OF THE OFFICE: what the tongue gives whoever holds it, what its grammar
+// forces them to mark, what it cannot say, how it shapes the mind that thinks in
+// it. Where is not one of the four. A variety may identify itself and name the
+// speech community that holds it, since that community is the position's own
+// subject; it may not make claims about a culture's institutions, its cast or its
+// scenes, because those describe a culture and not a tongue. 99 of the 320
+// varieties named their own culture when this was measured, so the list is a
+// review queue for the walk and not a gate: each variety is read against the
+// mnemonic in the slice that moves it.
 
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -67,7 +74,37 @@ export function standalone({ dir = TONGUES } = {}) {
   return findings;
 }
 
+/** Culture names appearing in a variety's chapters: a review queue, not a verdict. */
+export function drift({ dir = TONGUES, root = ROOT } = {}) {
+  const names = [];
+  const culturesDir = join(root, "cultures");
+  if (existsSync(culturesDir)) {
+    for (const id of readdirSync(culturesDir)) {
+      const d = join(culturesDir, id);
+      if (!existsSync(join(d, "geo.json"))) continue;
+      const play = readdirSync(d).find((f) => f.startsWith("play_"));
+      if (!play) continue;
+      const m = /^declared:\s*"([^"]+)"/m.exec(readFileSync(join(d, play), "utf8"));
+      for (const n of [m?.[1], id.replace(/_/g, " ")]) if (n && n.length > 3) names.push(n);
+    }
+  }
+  const out = [];
+  if (!existsSync(dir)) return out;
+  for (const file of readdirSync(dir).filter((f) => f.startsWith("position_language_"))) {
+    const body = readFileSync(join(dir, file), "utf8").split("## Has")[1] ?? "";
+    const hit = names.filter((n) => body.toLowerCase().includes(n.toLowerCase()));
+    if (hit.length) out.push({ file, names: [...new Set(hit)] });
+  }
+  return out;
+}
+
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  if (process.argv.includes("--drift")) {
+    const d = drift();
+    console.log(`varieties naming a culture in their chapters: ${d.length}`);
+    for (const { file, names } of d) console.log(`  ${file}: ${names.join(", ")}`);
+    process.exit(0);
+  }
   const f = standalone();
   const n = readdirSync(TONGUES).filter((x) => x.startsWith("position_language_")).length;
   console.log(`tongues: ${n} varieties, ${f.length} finding(s)`);
