@@ -40,6 +40,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 
 - [Berlin](place_berlin.md)
 - [das Ruhrgebiet](place_ruhrgebiet.md)
+- [die Autobahn](place_die_autobahn.md)
 
 **Processes**
 
@@ -60,6 +61,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [das Grundgesetz](piece_grundgesetz.md)
 - [die Stolpersteine](piece_stolpersteine.md)
 - [das Brot](piece_brot.md)
+- [das Auto](piece_das_auto.md)
 
 **Pitches**
 
@@ -84,7 +86,11 @@ Aus vielen Fürstentümern wird ein Reich. [Bismarck](persona_bismarck.md) schmi
 
 Nach dem Sturz in die Katastrophe gibt sich das Land ein neues Fundament. [Adenauer](persona_adenauer.md) führt es aus den Trümmern, das Grundgesetz stellt die Würde des Menschen voran, und aus Fleiß und Maß wächst der Wohlstand wieder.
 
-**[Plot 4: Der Mauerfall 1989/90](plot_04_mauerfall.md)**
+**[Plot 4: Die autofreien Sonntage 1973](plot_04_autofreie_sonntage.md)**
+
+Der Ölschock stellt das Land, das seinen Wohlstand aufs Rad gesetzt hat, für vier Sonntage auf die leere [Autobahn](place_die_autobahn.md). Aus dem Streit um das Tempo geht 1978 kein Gesetz hervor, sondern eine Empfehlung, und ausgerechnet [das Auto](piece_das_auto.md) wird die eine Sache, bei der das Land sich selbst keine bindende Regel gibt.
+
+**[Plot 5: Der Mauerfall 1989/90](plot_05_mauerfall.md)**
 
 Die Mauer fällt, und zwei getrennte Hälften wachsen wieder zusammen. [Kohl](persona_kohl.md) treibt die Einheit voran, während [Elke](persona_elke.md), im Osten geprägt, erlebt, wie eine ganze Lebensordnung über Nacht zerbricht und neu gefügt werden muss.
 

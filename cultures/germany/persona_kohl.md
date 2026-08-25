@@ -26,7 +26,7 @@ Ein breiter, behäbiger Mann mit langem Atem, der unterschätzt wird und gerade 
 
 ## Action
 
-Als die Mauer fällt, ergreift er die Gelegenheit und treibt im [Mauerfall 1989/90](plot_04_mauerfall.md) die Einheit der beiden deutschen Staaten entschlossen voran. Er führt das wieder vereinte Land von [Berlin](place_berlin.md) aus und stellt die Einheit über jeden kurzfristigen Einwand.
+Als die Mauer fällt, ergreift er die Gelegenheit und treibt im [Mauerfall 1989/90](plot_05_mauerfall.md) die Einheit der beiden deutschen Staaten entschlossen voran. Er führt das wieder vereinte Land von [Berlin](place_berlin.md) aus und stellt die Einheit über jeden kurzfristigen Einwand.
 
 ## Shadow
 

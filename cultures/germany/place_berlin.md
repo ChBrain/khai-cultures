@@ -25,7 +25,7 @@ Die Hauptstadt, eine Stadt der Brüche und Narben. Vierzig Jahre lang von einer 
 
 ## Holds
 
-- den [Mauerfall 1989/90](plot_04_mauerfall.md): hier fiel die Mauer und wuchs das Land wieder zusammen.
+- den [Mauerfall 1989/90](plot_05_mauerfall.md): hier fiel die Mauer und wuchs das Land wieder zusammen.
 - die [Stolpersteine](piece_stolpersteine.md): in ihr Pflaster gesetzt, die Namen der Ermordeten.
 
 ## Offers
