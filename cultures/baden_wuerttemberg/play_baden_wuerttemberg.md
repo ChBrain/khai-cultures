@@ -46,7 +46,7 @@ Baden-Württemberg, der Südwesten zwischen Rhein, Neckar und Bodensee, wo der S
 - [das Schaffen](position_schaffen.md)
 - [das Tüfteln](position_tuefteln.md)
 - [die Heimat](position_heimat.md)
-- [das baden-württembergische Hochdeutsch](position_language_de_de_bw.md)
+- [das baden-württembergische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_bw.md)
 - [die baden-württembergische Kultur](position_culture_baden_wuerttembergische_kultur.md)
 
 **Pieces**

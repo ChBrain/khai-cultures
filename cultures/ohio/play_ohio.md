@@ -47,7 +47,7 @@ Ohio made its name on what its hands could build and what its ground could grow.
 - [industrial heartland](position_industrial_heartland.md)
 - [middle ground](position_middle_ground.md)
 - [Ohio culture](position_culture_ohio_culture.md)
-- [Ohio English](position_language_en_us_oh.md)
+- [Ohio English](@chbrain/khai-cultures-tongues/position_language_en_us_oh.md)
 
 **Pieces**
 

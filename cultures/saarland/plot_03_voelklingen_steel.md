@@ -35,4 +35,4 @@ Die Ernennung zum UNESCO-Weltkulturerbe im Jahr 1994 sichert das industrielle [d
 
 ## Tension
 
-Der Verlust von Tausenden Arbeitsplätzen in der Schwerindustrie stürzt die Stadt Völklingen in eine tiefe strukturelle Krise und prägt die Zukunftsangst im Land.
+Der Verlust von Tausenden Arbeitsplätzen in der Schwerindustrie stürzt die Stadt Völklingen in eine tiefe strukturelle Krise und prägt die Zukunftsangst im Land. Vom Feuer bleibt, was die Hütte nicht mehr braucht: [das Schwenken](process_schwenken.md) über Buchenholz, mit derselben Geduld und demselben Blick für die Glut, an einem Rost, den der Vater aus dem Werk mitgebracht hat.

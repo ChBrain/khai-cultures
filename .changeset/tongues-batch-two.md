@@ -1,0 +1,5 @@
+---
+"@chbrain/khai-cultures": patch
+---
+
+The walk's second batch: six sub-national cultures come out finished. Baden-Württemberg, Hamburg, the Saarland, Ohio, Pennsylvania and Virginia each hand their language variety to `@chbrain/khai-cultures-tongues`, rewrite their links to package specifiers, come to zero dead Company entries, and say for the first time that they nest inside the culture above them. The clean identifiers follow in their own pull request, because a rename carrying content changes reads to the guard as a new culture, and only a pure rename is exempt. The castings are where the history already put them: the Kehrwoche in the Napoleonic reordering that reached down to the stairwell, the Fischmarkt at the end of every St. Pauli night, the Schwenker in what the Völklingen furnace left its workers, Harper in the Cleveland deindustrialisation made, and John as the last generation to hold the job the Homestead strike was about. Virginia's Sasha is waived: unlike the other two she carries no thread back to any event on the board. Seven varieties of 320 have landed.

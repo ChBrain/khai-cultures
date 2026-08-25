@@ -35,4 +35,4 @@ The manufacturing boom establishes [industrial heartland](position_industrial_he
 
 ## Tension
 
-The rapid industrialization causes severe pollution, culminating in the Cuyahoga River fire of 1969, and leaves the valleys vulnerable to sudden economic collapse and deindustrialization.
+The rapid industrialization causes severe pollution, culminating in the Cuyahoga River fire of 1969, and leaves the valleys vulnerable to sudden economic collapse and deindustrialization. What the collapse left behind is the Cleveland [Harper](persona_harper.md) works out of, where the mills are a skyline rather than an employer and the accent still marks which Ohio raised you.
