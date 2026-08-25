@@ -3015,160 +3015,6 @@
     },
     {
       "kind": "culture",
-      "id": "bavaria",
-      "title": "Bavaria",
-      "description": "Bavaria staged as a culture: the Free State of mountains, beer, and high-tech innovation, defined by local pride.",
-      "iso": "DE-BY",
-      "members": [
-        {
-          "file": "persona_amalie.md",
-          "kind": "persona",
-          "title": "Amalie",
-          "type": "archetype",
-          "taxonomy": "position_bayerisch.md"
-        },
-        {
-          "file": "persona_gustl.md",
-          "kind": "persona",
-          "title": "Gustl",
-          "type": "archetype",
-          "taxonomy": "position_gebirgler.md"
-        },
-        {
-          "file": "persona_ludwig.md",
-          "kind": "persona",
-          "title": "Ludwig II",
-          "type": "real",
-          "taxonomy": "position_freistaat.md"
-        },
-        {
-          "file": "persona_monika.md",
-          "kind": "persona",
-          "title": "Monika",
-          "type": "archetype",
-          "taxonomy": "position_fraenkisch.md"
-        },
-        {
-          "file": "persona_sepp.md",
-          "kind": "persona",
-          "title": "Sepp",
-          "type": "archetype",
-          "taxonomy": "position_bayerisch_schwaebisch.md"
-        },
-        {
-          "file": "piece_lederhose.md",
-          "kind": "piece",
-          "title": "The Lederhose"
-        },
-        {
-          "file": "piece_reinheitsgebot.md",
-          "kind": "piece",
-          "title": "The Beer Purity Law"
-        },
-        {
-          "file": "pitch_bavaria.md",
-          "kind": "pitch",
-          "title": "The Bavarian Key",
-          "taxonomy": "play_bavaria.md"
-        },
-        {
-          "file": "place_alpen.md",
-          "kind": "place",
-          "title": "The Alps"
-        },
-        {
-          "file": "place_muenchen.md",
-          "kind": "place",
-          "title": "Munich"
-        },
-        {
-          "file": "place_neuschwanstein.md",
-          "kind": "place",
-          "title": "Neuschwanstein"
-        },
-        {
-          "file": "plan_bayerische_identitaet.md",
-          "kind": "plan",
-          "title": "der Erhalt der Identität"
-        },
-        {
-          "file": "play_bavaria.md",
-          "kind": "play",
-          "title": "Bavaria"
-        },
-        {
-          "file": "plot_01_kingdom_1806.md",
-          "kind": "plot",
-          "title": "The Kingdom of Bavaria",
-          "taxonomy": "play_bavaria.md"
-        },
-        {
-          "file": "plot_02_ludwig_neuschwanstein.md",
-          "kind": "plot",
-          "title": "The Fairy-Tale King and his Castles",
-          "taxonomy": "play_bavaria.md"
-        },
-        {
-          "file": "plot_03_laptop_lederhosen.md",
-          "kind": "plot",
-          "title": "Laptop and Lederhosen",
-          "taxonomy": "play_bavaria.md"
-        },
-        {
-          "file": "plot_04_drei_staemme_1806.md",
-          "kind": "plot",
-          "title": "The Integration of the Three Tribes",
-          "taxonomy": "play_bavaria.md"
-        },
-        {
-          "file": "position_bayerisch_schwaebisch.md",
-          "kind": "position",
-          "title": "The Swabian Language Variety in Bavaria"
-        },
-        {
-          "file": "position_bayerisch.md",
-          "kind": "position",
-          "title": "The Bavarian Language Variety"
-        },
-        {
-          "file": "position_culture_bayerische_kultur.md",
-          "kind": "position",
-          "title": "Bavarian Culture"
-        },
-        {
-          "file": "position_fraenkisch.md",
-          "kind": "position",
-          "title": "The Franconian Language Variety"
-        },
-        {
-          "file": "position_freistaat.md",
-          "kind": "position",
-          "title": "The Free State"
-        },
-        {
-          "file": "position_gebirgler.md",
-          "kind": "position",
-          "title": "The Mountain Dweller"
-        },
-        {
-          "file": "position_language_de_de_by.md",
-          "kind": "position",
-          "title": "Bavarian Standard German"
-        },
-        {
-          "file": "process_fingerhakeln.md",
-          "kind": "process",
-          "title": "Fingerhakeln"
-        },
-        {
-          "file": "process_oktoberfest.md",
-          "kind": "process",
-          "title": "Oktoberfest"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "belarus",
       "title": "Belarus",
       "description": "Belarus staged as a culture: a long-quiet nation whose chancery tongue, once an empire's, now wakes.",
@@ -8027,6 +7873,155 @@
     },
     {
       "kind": "culture",
+      "id": "de_bavaria",
+      "title": "Bavaria",
+      "description": "Bavaria staged as a culture: the Free State of mountains, beer, and high-tech innovation, defined by local pride.",
+      "iso": "DE-BY",
+      "members": [
+        {
+          "file": "persona_amalie.md",
+          "kind": "persona",
+          "title": "Amalie",
+          "type": "archetype",
+          "taxonomy": "position_bayerisch.md"
+        },
+        {
+          "file": "persona_gustl.md",
+          "kind": "persona",
+          "title": "Gustl",
+          "type": "archetype",
+          "taxonomy": "position_gebirgler.md"
+        },
+        {
+          "file": "persona_ludwig.md",
+          "kind": "persona",
+          "title": "Ludwig II",
+          "type": "real",
+          "taxonomy": "position_freistaat.md"
+        },
+        {
+          "file": "persona_monika.md",
+          "kind": "persona",
+          "title": "Monika",
+          "type": "archetype",
+          "taxonomy": "position_fraenkisch.md"
+        },
+        {
+          "file": "persona_sepp.md",
+          "kind": "persona",
+          "title": "Sepp",
+          "type": "archetype",
+          "taxonomy": "position_bayerisch_schwaebisch.md"
+        },
+        {
+          "file": "piece_lederhose.md",
+          "kind": "piece",
+          "title": "The Lederhose"
+        },
+        {
+          "file": "piece_reinheitsgebot.md",
+          "kind": "piece",
+          "title": "The Beer Purity Law"
+        },
+        {
+          "file": "pitch_bavaria.md",
+          "kind": "pitch",
+          "title": "The Bavarian Key",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "place_alpen.md",
+          "kind": "place",
+          "title": "The Alps"
+        },
+        {
+          "file": "place_muenchen.md",
+          "kind": "place",
+          "title": "Munich"
+        },
+        {
+          "file": "place_neuschwanstein.md",
+          "kind": "place",
+          "title": "Neuschwanstein"
+        },
+        {
+          "file": "plan_bayerische_identitaet.md",
+          "kind": "plan",
+          "title": "der Erhalt der Identität"
+        },
+        {
+          "file": "play_bavaria.md",
+          "kind": "play",
+          "title": "Bavaria"
+        },
+        {
+          "file": "plot_01_kingdom_1806.md",
+          "kind": "plot",
+          "title": "The Kingdom of Bavaria",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "plot_02_ludwig_neuschwanstein.md",
+          "kind": "plot",
+          "title": "The Fairy-Tale King and his Castles",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "plot_03_laptop_lederhosen.md",
+          "kind": "plot",
+          "title": "Laptop and Lederhosen",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "plot_04_drei_staemme_1806.md",
+          "kind": "plot",
+          "title": "The Integration of the Three Tribes",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "position_bayerisch_schwaebisch.md",
+          "kind": "position",
+          "title": "The Swabian Language Variety in Bavaria"
+        },
+        {
+          "file": "position_bayerisch.md",
+          "kind": "position",
+          "title": "The Bavarian Language Variety"
+        },
+        {
+          "file": "position_culture_bayerische_kultur.md",
+          "kind": "position",
+          "title": "Bavarian Culture"
+        },
+        {
+          "file": "position_fraenkisch.md",
+          "kind": "position",
+          "title": "The Franconian Language Variety"
+        },
+        {
+          "file": "position_freistaat.md",
+          "kind": "position",
+          "title": "The Free State"
+        },
+        {
+          "file": "position_gebirgler.md",
+          "kind": "position",
+          "title": "The Mountain Dweller"
+        },
+        {
+          "file": "process_fingerhakeln.md",
+          "kind": "process",
+          "title": "Fingerhakeln"
+        },
+        {
+          "file": "process_oktoberfest.md",
+          "kind": "process",
+          "title": "Oktoberfest"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
       "id": "de_berlin",
       "title": "Berlin",
       "description": "Berlin als Kultur inszeniert: die ehemals geteilte Metropole, geprägt von Freiheit, Techno und ständiger Neuerfindung.",
@@ -8430,6 +8425,108 @@
           "file": "process_fischmarkt.md",
           "kind": "process",
           "title": "Hamburg Fischmarkt"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_hesse",
+      "title": "Hesse",
+      "description": "Hessen inszeniert: das demokratische Herz Deutschlands, geprägt von Frankfurt-Finanzen und Apfelweinkultur.",
+      "iso": "DE-HE",
+      "members": [
+        {
+          "file": "persona_heinz.md",
+          "kind": "persona",
+          "title": "Heinz",
+          "type": "archetype",
+          "taxonomy": "position_gemuetlichkeit.md"
+        },
+        {
+          "file": "persona_steffi.md",
+          "kind": "persona",
+          "title": "Steffi",
+          "type": "archetype",
+          "taxonomy": "position_finanzwirtschaft.md"
+        },
+        {
+          "file": "piece_bembel_jug.md",
+          "kind": "piece",
+          "title": "The Bembel"
+        },
+        {
+          "file": "piece_charta.md",
+          "kind": "piece",
+          "title": "The Hessian Constitution"
+        },
+        {
+          "file": "pitch_hesse.md",
+          "kind": "pitch",
+          "title": "The Hesse Key",
+          "taxonomy": "play_hesse.md"
+        },
+        {
+          "file": "place_bankenviertel.md",
+          "kind": "place",
+          "title": "Frankfurt Bankenviertel"
+        },
+        {
+          "file": "place_paulskirche.md",
+          "kind": "place",
+          "title": "Frankfurt Paulskirche"
+        },
+        {
+          "file": "plan_finanzplatz.md",
+          "kind": "plan",
+          "title": "die grüne Finanzwirtschaft"
+        },
+        {
+          "file": "play_hesse.md",
+          "kind": "play",
+          "title": "Hesse"
+        },
+        {
+          "file": "plot_01_frankfurt_constitution_1848.md",
+          "kind": "plot",
+          "title": "The Frankfurt Parliament of 1848",
+          "taxonomy": "play_hesse.md"
+        },
+        {
+          "file": "plot_02_division_unification_1945.md",
+          "kind": "plot",
+          "title": "The Founding of the State of Hesse",
+          "taxonomy": "play_hesse.md"
+        },
+        {
+          "file": "plot_03_finance_hub.md",
+          "kind": "plot",
+          "title": "The Rise of Frankfurt as a Financial Center",
+          "taxonomy": "play_hesse.md"
+        },
+        {
+          "file": "position_culture_hessische_kultur.md",
+          "kind": "position",
+          "title": "Hessian Culture"
+        },
+        {
+          "file": "position_demokratie.md",
+          "kind": "position",
+          "title": "The Democracy"
+        },
+        {
+          "file": "position_finanzwirtschaft.md",
+          "kind": "position",
+          "title": "The Finance Economy"
+        },
+        {
+          "file": "position_gemuetlichkeit.md",
+          "kind": "position",
+          "title": "The Conviviality"
+        },
+        {
+          "file": "process_bembel.md",
+          "kind": "process",
+          "title": "Hessian Apfelwein Culture"
         }
       ]
     },
@@ -9042,6 +9139,210 @@
           "file": "process_porzellanmanufaktur.md",
           "kind": "process",
           "title": "Meissen Porcelain Craftsmanship"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_saxony_anhalt",
+      "title": "Sachsen-Anhalt",
+      "description": "Sachsen-Anhalt inszeniert: das Land von Luther und Bauhaus, geprägt von Chemieparks und Magdeburger Börde.",
+      "iso": "DE-ST",
+      "members": [
+        {
+          "file": "persona_elisabeth.md",
+          "kind": "persona",
+          "title": "Elisabeth",
+          "type": "archetype",
+          "taxonomy": "position_bodenarbeit.md"
+        },
+        {
+          "file": "persona_walter.md",
+          "kind": "persona",
+          "title": "Walter",
+          "type": "archetype",
+          "taxonomy": "position_fortschritt.md"
+        },
+        {
+          "file": "piece_bauhaus_leuchte.md",
+          "kind": "piece",
+          "title": "The Bauhaus Lamp"
+        },
+        {
+          "file": "piece_luther_bibel.md",
+          "kind": "piece",
+          "title": "The Luther Bible"
+        },
+        {
+          "file": "pitch_saxony_anhalt.md",
+          "kind": "pitch",
+          "title": "The Saxony-Anhalt Key",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "place_bauhaus.md",
+          "kind": "place",
+          "title": "Dessauer Bauhaus"
+        },
+        {
+          "file": "place_wittenberg.md",
+          "kind": "place",
+          "title": "Schlosskirche Wittenberg"
+        },
+        {
+          "file": "plan_chemieparks.md",
+          "kind": "plan",
+          "title": "der Umbau der Chemieparks"
+        },
+        {
+          "file": "play_saxony_anhalt.md",
+          "kind": "play",
+          "title": "Sachsen-Anhalt"
+        },
+        {
+          "file": "plot_01_luther_95_theses_1517.md",
+          "kind": "plot",
+          "title": "Luther's 95 Theses",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_02_bauhaus_dessau_1925.md",
+          "kind": "plot",
+          "title": "The Relocation of Bauhaus to Dessau",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_03_reunification_1990.md",
+          "kind": "plot",
+          "title": "The Re-establishment of the State of Saxony-Anhalt",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "position_bodenarbeit.md",
+          "kind": "position",
+          "title": "The Agricultural Pragmatism"
+        },
+        {
+          "file": "position_culture_sachsen_anhaltische_kultur.md",
+          "kind": "position",
+          "title": "Saxony-Anhalt Culture"
+        },
+        {
+          "file": "position_fortschritt.md",
+          "kind": "position",
+          "title": "The Modern Progress"
+        },
+        {
+          "file": "position_glaubensfreiheit.md",
+          "kind": "position",
+          "title": "The Freedom of Belief"
+        },
+        {
+          "file": "process_reform.md",
+          "kind": "process",
+          "title": "Reformation Remembrance"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_thuringia",
+      "title": "Thüringen",
+      "description": "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe.",
+      "iso": "DE-TH",
+      "members": [
+        {
+          "file": "persona_dieter.md",
+          "kind": "persona",
+          "title": "Dieter",
+          "type": "archetype",
+          "taxonomy": "position_waldliebe.md"
+        },
+        {
+          "file": "persona_maria.md",
+          "kind": "persona",
+          "title": "Maria",
+          "type": "archetype",
+          "taxonomy": "position_optikstolz.md"
+        },
+        {
+          "file": "piece_lauscha_kugel.md",
+          "kind": "piece",
+          "title": "The Lauscha Glass Bauble"
+        },
+        {
+          "file": "piece_rostbratwurst.md",
+          "kind": "piece",
+          "title": "The Thuringian Rostbratwurst"
+        },
+        {
+          "file": "pitch_thuringia.md",
+          "kind": "pitch",
+          "title": "The Thuringia Key",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "place_jena_valley.md",
+          "kind": "place",
+          "title": "Jenaer Saaletal"
+        },
+        {
+          "file": "place_wartburg.md",
+          "kind": "place",
+          "title": "Eisenach Wartburg"
+        },
+        {
+          "file": "plan_optikforschung.md",
+          "kind": "plan",
+          "title": "die Optik- und Photonikoffensive"
+        },
+        {
+          "file": "play_thuringia.md",
+          "kind": "play",
+          "title": "Thüringen"
+        },
+        {
+          "file": "plot_01_weimar_classic_1775.md",
+          "kind": "plot",
+          "title": "Weimar Classicism",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_02_wartburg_translation_1521.md",
+          "kind": "plot",
+          "title": "Luther's Bible Translation at the Wartburg",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_03_reunification_1990.md",
+          "kind": "plot",
+          "title": "The Re-establishment of the Free State of Thuringia",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "position_culture_thueringische_kultur.md",
+          "kind": "position",
+          "title": "Thuringian Culture"
+        },
+        {
+          "file": "position_geistige_tiefe.md",
+          "kind": "position",
+          "title": "The Intellectual Depth"
+        },
+        {
+          "file": "position_optikstolz.md",
+          "kind": "position",
+          "title": "The Optics Pride"
+        },
+        {
+          "file": "position_waldliebe.md",
+          "kind": "position",
+          "title": "The Forest Connection"
+        },
+        {
+          "file": "process_glasblasen.md",
+          "kind": "process",
+          "title": "Lauscha Glassblowing"
         }
       ]
     },
@@ -14162,113 +14463,6 @@
           "file": "process_outrigger_carving.md",
           "kind": "process",
           "title": "Hawaiian Outrigger Carving"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "hesse",
-      "title": "Hesse",
-      "description": "Hessen inszeniert: das demokratische Herz Deutschlands, geprägt von Frankfurt-Finanzen und Apfelweinkultur.",
-      "iso": "DE-HE",
-      "members": [
-        {
-          "file": "persona_heinz.md",
-          "kind": "persona",
-          "title": "Heinz",
-          "type": "archetype",
-          "taxonomy": "position_gemuetlichkeit.md"
-        },
-        {
-          "file": "persona_steffi.md",
-          "kind": "persona",
-          "title": "Steffi",
-          "type": "archetype",
-          "taxonomy": "position_finanzwirtschaft.md"
-        },
-        {
-          "file": "piece_bembel_jug.md",
-          "kind": "piece",
-          "title": "The Bembel"
-        },
-        {
-          "file": "piece_charta.md",
-          "kind": "piece",
-          "title": "The Hessian Constitution"
-        },
-        {
-          "file": "pitch_hesse.md",
-          "kind": "pitch",
-          "title": "The Hesse Key",
-          "taxonomy": "play_hesse.md"
-        },
-        {
-          "file": "place_bankenviertel.md",
-          "kind": "place",
-          "title": "Frankfurt Bankenviertel"
-        },
-        {
-          "file": "place_paulskirche.md",
-          "kind": "place",
-          "title": "Frankfurt Paulskirche"
-        },
-        {
-          "file": "plan_finanzplatz.md",
-          "kind": "plan",
-          "title": "die grüne Finanzwirtschaft"
-        },
-        {
-          "file": "play_hesse.md",
-          "kind": "play",
-          "title": "Hesse"
-        },
-        {
-          "file": "plot_01_frankfurt_constitution_1848.md",
-          "kind": "plot",
-          "title": "The Frankfurt Parliament of 1848",
-          "taxonomy": "play_hesse.md"
-        },
-        {
-          "file": "plot_02_division_unification_1945.md",
-          "kind": "plot",
-          "title": "The Founding of the State of Hesse",
-          "taxonomy": "play_hesse.md"
-        },
-        {
-          "file": "plot_03_finance_hub.md",
-          "kind": "plot",
-          "title": "The Rise of Frankfurt as a Financial Center",
-          "taxonomy": "play_hesse.md"
-        },
-        {
-          "file": "position_culture_hessische_kultur.md",
-          "kind": "position",
-          "title": "Hessian Culture"
-        },
-        {
-          "file": "position_demokratie.md",
-          "kind": "position",
-          "title": "The Democracy"
-        },
-        {
-          "file": "position_finanzwirtschaft.md",
-          "kind": "position",
-          "title": "The Finance Economy"
-        },
-        {
-          "file": "position_gemuetlichkeit.md",
-          "kind": "position",
-          "title": "The Conviviality"
-        },
-        {
-          "file": "position_language_de_de_he.md",
-          "kind": "position",
-          "title": "Hessian Standard German"
-        },
-        {
-          "file": "process_bembel.md",
-          "kind": "process",
-          "title": "Hessian Apfelwein Culture"
         }
       ]
     },
@@ -28912,113 +29106,6 @@
     },
     {
       "kind": "culture",
-      "id": "saxony_anhalt",
-      "title": "Sachsen-Anhalt",
-      "description": "Sachsen-Anhalt inszeniert: das Land von Luther und Bauhaus, geprägt von Chemieparks und Magdeburger Börde.",
-      "iso": "DE-ST",
-      "members": [
-        {
-          "file": "persona_elisabeth.md",
-          "kind": "persona",
-          "title": "Elisabeth",
-          "type": "archetype",
-          "taxonomy": "position_bodenarbeit.md"
-        },
-        {
-          "file": "persona_walter.md",
-          "kind": "persona",
-          "title": "Walter",
-          "type": "archetype",
-          "taxonomy": "position_fortschritt.md"
-        },
-        {
-          "file": "piece_bauhaus_leuchte.md",
-          "kind": "piece",
-          "title": "The Bauhaus Lamp"
-        },
-        {
-          "file": "piece_luther_bibel.md",
-          "kind": "piece",
-          "title": "The Luther Bible"
-        },
-        {
-          "file": "pitch_saxony_anhalt.md",
-          "kind": "pitch",
-          "title": "The Saxony-Anhalt Key",
-          "taxonomy": "play_saxony_anhalt.md"
-        },
-        {
-          "file": "place_bauhaus.md",
-          "kind": "place",
-          "title": "Dessauer Bauhaus"
-        },
-        {
-          "file": "place_wittenberg.md",
-          "kind": "place",
-          "title": "Schlosskirche Wittenberg"
-        },
-        {
-          "file": "plan_chemieparks.md",
-          "kind": "plan",
-          "title": "der Umbau der Chemieparks"
-        },
-        {
-          "file": "play_saxony_anhalt.md",
-          "kind": "play",
-          "title": "Sachsen-Anhalt"
-        },
-        {
-          "file": "plot_01_luther_95_theses_1517.md",
-          "kind": "plot",
-          "title": "Luther's 95 Theses",
-          "taxonomy": "play_saxony_anhalt.md"
-        },
-        {
-          "file": "plot_02_bauhaus_dessau_1925.md",
-          "kind": "plot",
-          "title": "The Relocation of Bauhaus to Dessau",
-          "taxonomy": "play_saxony_anhalt.md"
-        },
-        {
-          "file": "plot_03_reunification_1990.md",
-          "kind": "plot",
-          "title": "The Re-establishment of the State of Saxony-Anhalt",
-          "taxonomy": "play_saxony_anhalt.md"
-        },
-        {
-          "file": "position_bodenarbeit.md",
-          "kind": "position",
-          "title": "The Agricultural Pragmatism"
-        },
-        {
-          "file": "position_culture_sachsen_anhaltische_kultur.md",
-          "kind": "position",
-          "title": "Saxony-Anhalt Culture"
-        },
-        {
-          "file": "position_fortschritt.md",
-          "kind": "position",
-          "title": "The Modern Progress"
-        },
-        {
-          "file": "position_glaubensfreiheit.md",
-          "kind": "position",
-          "title": "The Freedom of Belief"
-        },
-        {
-          "file": "position_language_de_de_st.md",
-          "kind": "position",
-          "title": "Saxony-Anhalt German"
-        },
-        {
-          "file": "process_reform.md",
-          "kind": "process",
-          "title": "Reformation Remembrance"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "schleswig_holstein",
       "title": "Schleswig-Holstein",
       "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
@@ -32971,113 +33058,6 @@
           "file": "process_songkran.md",
           "kind": "process",
           "title": "Songkran"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "thuringia",
-      "title": "Thüringen",
-      "description": "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe.",
-      "iso": "DE-TH",
-      "members": [
-        {
-          "file": "persona_dieter.md",
-          "kind": "persona",
-          "title": "Dieter",
-          "type": "archetype",
-          "taxonomy": "position_waldliebe.md"
-        },
-        {
-          "file": "persona_maria.md",
-          "kind": "persona",
-          "title": "Maria",
-          "type": "archetype",
-          "taxonomy": "position_optikstolz.md"
-        },
-        {
-          "file": "piece_lauscha_kugel.md",
-          "kind": "piece",
-          "title": "The Lauscha Glass Bauble"
-        },
-        {
-          "file": "piece_rostbratwurst.md",
-          "kind": "piece",
-          "title": "The Thuringian Rostbratwurst"
-        },
-        {
-          "file": "pitch_thuringia.md",
-          "kind": "pitch",
-          "title": "The Thuringia Key",
-          "taxonomy": "play_thuringia.md"
-        },
-        {
-          "file": "place_jena_valley.md",
-          "kind": "place",
-          "title": "Jenaer Saaletal"
-        },
-        {
-          "file": "place_wartburg.md",
-          "kind": "place",
-          "title": "Eisenach Wartburg"
-        },
-        {
-          "file": "plan_optikforschung.md",
-          "kind": "plan",
-          "title": "die Optik- und Photonikoffensive"
-        },
-        {
-          "file": "play_thuringia.md",
-          "kind": "play",
-          "title": "Thüringen"
-        },
-        {
-          "file": "plot_01_weimar_classic_1775.md",
-          "kind": "plot",
-          "title": "Weimar Classicism",
-          "taxonomy": "play_thuringia.md"
-        },
-        {
-          "file": "plot_02_wartburg_translation_1521.md",
-          "kind": "plot",
-          "title": "Luther's Bible Translation at the Wartburg",
-          "taxonomy": "play_thuringia.md"
-        },
-        {
-          "file": "plot_03_reunification_1990.md",
-          "kind": "plot",
-          "title": "The Re-establishment of the Free State of Thuringia",
-          "taxonomy": "play_thuringia.md"
-        },
-        {
-          "file": "position_culture_thueringische_kultur.md",
-          "kind": "position",
-          "title": "Thuringian Culture"
-        },
-        {
-          "file": "position_geistige_tiefe.md",
-          "kind": "position",
-          "title": "The Intellectual Depth"
-        },
-        {
-          "file": "position_language_de_de_th.md",
-          "kind": "position",
-          "title": "Thuringian German"
-        },
-        {
-          "file": "position_optikstolz.md",
-          "kind": "position",
-          "title": "The Optics Pride"
-        },
-        {
-          "file": "position_waldliebe.md",
-          "kind": "position",
-          "title": "The Forest Connection"
-        },
-        {
-          "file": "process_glasblasen.md",
-          "kind": "process",
-          "title": "Lauscha Glassblowing"
         }
       ]
     },

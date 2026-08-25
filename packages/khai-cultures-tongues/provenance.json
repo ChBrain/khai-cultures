@@ -84,5 +84,31 @@
     "from": "de_saxony",
     "tongue": "Saxon German, the Meissen chancery sound that helped found the written standard",
     "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office - the lenition, the drawn-out melody, the switch between the home sound and the sharper written one."
+  },
+  "position_language_de_de_by.md": [
+    {
+      "from": "de_bavaria",
+      "tongue": "Bavarian Standard German, one state language over three mutually foreign dialect floors",
+      "note": "Read against the mnemonic on the way through and found thin in the same way Berlin was, but by a different route: it was not generic German, it was generic Upper German. Everything it named - the Präteritumschwund, the composite past - it said itself was shared von Bayern bis in die Schweiz, so it described a Sprachraum and not this variety. It now carries what is actually Bavarian: the -l diminutive, Stoa for Stein, the article before a personal name, and es and enk, the second-person plural no other German dialect kept, which descends from the old dual. Its strongest fact is structural and the play already stages it as three positions: this is the one state language lying over three dialect floors, Bairisch, Ostfränkisch and Schwäbisch, as foreign to each other as any is to the north."
+    }
+  ],
+  "position_language_de_de_he.md": [
+    {
+      "from": "de_hesse",
+      "tongue": "Hessian Standard German, gell? and a case system that collapses in the mouth",
+      "note": "Read against the mnemonic on the way through: three clauses were cut. It explained its own register switch by die Bank und die Börse in Frankfurt, by the Protokoll der Bank, and by the move zwischen Wirtshaus und Kontor - a city's finance industry, which the play stages as its own position and place. The register itself is the tongue's business and stays: the same speaker separates the cases or lets them fall together according to how binding the sentence has to be. What it holds is untouched and good: gell? as a particle that appends assent without rebuilding the sentence, hawwe for haben, and the dative and accusative merging into one form in the mouth while the writing keeps four."
+    }
+  ],
+  "position_language_de_de_st.md": [
+    {
+      "from": "de_saxony_anhalt",
+      "tongue": "Saxony-Anhalt German, the Anhalt and Mansfeld sound that fed the chancery language",
+      "note": "Read against the mnemonic on the way through: nothing was cut. The soft stops, the long simple vowels where the writing sets a diphthong, and the descent of the written standard from this landscape's chancery language are all the office. It names the industries its lexicon is losing ground to, which is a cause of lexical loss and belongs to Loses, the shape kept since Ceutan Spanish."
+    }
+  ],
+  "position_language_de_de_th.md": {
+    "from": "de_thuringia",
+    "tongue": "Thuringian German, singing and soft, and closest of all to the standard it helped make",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Its Loses is the sharpest in the batch and is entirely about itself - it loses its distinctness precisely where it stands nearest the standard, because dialect and written language grew from the same root, so it dissolves faster than a dialect that started further away."
   }
 }
