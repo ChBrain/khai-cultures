@@ -3729,113 +3729,6 @@
     },
     {
       "kind": "culture",
-      "id": "berlin",
-      "title": "Berlin",
-      "description": "Berlin als Kultur inszeniert: die ehemals geteilte Metropole, geprägt von Freiheit, Techno und ständiger Neuerfindung.",
-      "iso": "DE-BE",
-      "members": [
-        {
-          "file": "persona_amelie.md",
-          "kind": "persona",
-          "title": "Amelie",
-          "type": "archetype",
-          "taxonomy": "position_kreativitaet.md"
-        },
-        {
-          "file": "persona_dieter.md",
-          "kind": "persona",
-          "title": "Dieter",
-          "type": "archetype",
-          "taxonomy": "position_mauer.md"
-        },
-        {
-          "file": "piece_berghain_stamp.md",
-          "kind": "piece",
-          "title": "The Club Stamp"
-        },
-        {
-          "file": "piece_mauerstueck.md",
-          "kind": "piece",
-          "title": "A Piece of the Wall"
-        },
-        {
-          "file": "pitch_berlin.md",
-          "kind": "pitch",
-          "title": "The Berlin Key",
-          "taxonomy": "play_berlin.md"
-        },
-        {
-          "file": "place_berghain.md",
-          "kind": "place",
-          "title": "Berghain"
-        },
-        {
-          "file": "place_brandenburger_tor.md",
-          "kind": "place",
-          "title": "Brandenburger Tor"
-        },
-        {
-          "file": "plan_toleranz.md",
-          "kind": "plan",
-          "title": "die Förderung der Toleranz"
-        },
-        {
-          "file": "play_berlin.md",
-          "kind": "play",
-          "title": "Berlin"
-        },
-        {
-          "file": "plot_01_division_1961.md",
-          "kind": "plot",
-          "title": "The Construction of the Berlin Wall",
-          "taxonomy": "play_berlin.md"
-        },
-        {
-          "file": "plot_02_reunification_1989.md",
-          "kind": "plot",
-          "title": "The Fall of the Berlin Wall",
-          "taxonomy": "play_berlin.md"
-        },
-        {
-          "file": "plot_03_subculture.md",
-          "kind": "plot",
-          "title": "The Rise of the Techno Subculture",
-          "taxonomy": "play_berlin.md"
-        },
-        {
-          "file": "position_culture_berliner_kultur.md",
-          "kind": "position",
-          "title": "Berlin Culture"
-        },
-        {
-          "file": "position_freiheit.md",
-          "kind": "position",
-          "title": "The Freedom"
-        },
-        {
-          "file": "position_kreativitaet.md",
-          "kind": "position",
-          "title": "The Creativity"
-        },
-        {
-          "file": "position_language_de_de_be.md",
-          "kind": "position",
-          "title": "Berlin Standard German"
-        },
-        {
-          "file": "position_mauer.md",
-          "kind": "position",
-          "title": "The Wall"
-        },
-        {
-          "file": "process_clubbing.md",
-          "kind": "process",
-          "title": "Berlin Clubbing"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "bhutan",
       "title": "Bhutan",
       "description": "Bhutan staged as a culture: the Land of the Thunder Dragon, held by the dharma, the mountains, and happiness.",
@@ -4391,113 +4284,6 @@
     },
     {
       "kind": "culture",
-      "id": "brandenburg",
-      "title": "Brandenburg",
-      "description": "Brandenburg inszeniert: das märkische Land um Berlin, geprägt von preußischer Geschichte, Wäldern und Solarenergie.",
-      "iso": "DE-BB",
-      "members": [
-        {
-          "file": "persona_nadja.md",
-          "kind": "persona",
-          "title": "Nadja",
-          "type": "archetype",
-          "taxonomy": "position_wende_brandenburg.md"
-        },
-        {
-          "file": "persona_ulrich.md",
-          "kind": "persona",
-          "title": "Ulrich",
-          "type": "archetype",
-          "taxonomy": "position_maerkische_ruhe.md"
-        },
-        {
-          "file": "piece_gurke.md",
-          "kind": "piece",
-          "title": "The Spreewald Gherkin"
-        },
-        {
-          "file": "piece_kartoffelbefehl.md",
-          "kind": "piece",
-          "title": "The Potato Decree"
-        },
-        {
-          "file": "pitch_brandenburg.md",
-          "kind": "pitch",
-          "title": "The Brandenburg Key",
-          "taxonomy": "play_brandenburg.md"
-        },
-        {
-          "file": "place_sanssouci.md",
-          "kind": "place",
-          "title": "Schloss Sanssouci"
-        },
-        {
-          "file": "place_spreewald.md",
-          "kind": "place",
-          "title": "Brandenburger Spreewald"
-        },
-        {
-          "file": "plan_solar_brandenburg.md",
-          "kind": "plan",
-          "title": "die Solarenergieoffensive"
-        },
-        {
-          "file": "play_brandenburg.md",
-          "kind": "play",
-          "title": "Brandenburg"
-        },
-        {
-          "file": "plot_01_preussen_1701.md",
-          "kind": "plot",
-          "title": "The Rise of Brandenburg-Prussia",
-          "taxonomy": "play_brandenburg.md"
-        },
-        {
-          "file": "plot_02_sanssouci_1747.md",
-          "kind": "plot",
-          "title": "The Completion of Sanssouci",
-          "taxonomy": "play_brandenburg.md"
-        },
-        {
-          "file": "plot_03_reunification_1990.md",
-          "kind": "plot",
-          "title": "The Re-establishment of the State of Brandenburg",
-          "taxonomy": "play_brandenburg.md"
-        },
-        {
-          "file": "position_culture_brandenburgische_kultur.md",
-          "kind": "position",
-          "title": "Brandenburg Culture"
-        },
-        {
-          "file": "position_language_de_de_bb.md",
-          "kind": "position",
-          "title": "Brandenburg Standard German"
-        },
-        {
-          "file": "position_maerkische_ruhe.md",
-          "kind": "position",
-          "title": "The Quiet Simplicity"
-        },
-        {
-          "file": "position_preussische_tugend.md",
-          "kind": "position",
-          "title": "The Prussian Virtues"
-        },
-        {
-          "file": "position_wende_brandenburg.md",
-          "kind": "position",
-          "title": "The Reunification Experience"
-        },
-        {
-          "file": "process_kahnfahrt.md",
-          "kind": "process",
-          "title": "Spreewald Kahnfahrt"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "brazil",
       "title": "Brazil",
       "description": "A continental nation of three peoples, the country of the future still arriving.",
@@ -4633,113 +4419,6 @@
           "file": "process_o_futebol.md",
           "kind": "process",
           "title": "Football"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "bremen",
-      "title": "Bremen",
-      "description": "Bremen als Kultur inszeniert: die alte Hansestadt an der Weser, geprägt von Bürgerstolz, Seefahrt und Weltoffenheit.",
-      "iso": "DE-HB",
-      "members": [
-        {
-          "file": "persona_gesche.md",
-          "kind": "persona",
-          "title": "Gesche",
-          "type": "archetype",
-          "taxonomy": "position_hanse.md"
-        },
-        {
-          "file": "persona_hinnerk.md",
-          "kind": "persona",
-          "title": "Hinnerk",
-          "type": "archetype",
-          "taxonomy": "position_maritim.md"
-        },
-        {
-          "file": "piece_rolandstatue.md",
-          "kind": "piece",
-          "title": "The Roland Statue"
-        },
-        {
-          "file": "piece_stadtmusikanten.md",
-          "kind": "piece",
-          "title": "The Town Musicians"
-        },
-        {
-          "file": "pitch_bremen.md",
-          "kind": "pitch",
-          "title": "The Bremen Key",
-          "taxonomy": "play_bremen.md"
-        },
-        {
-          "file": "place_marktplatz.md",
-          "kind": "place",
-          "title": "Bremen Marktplatz"
-        },
-        {
-          "file": "place_ueberseehafen.md",
-          "kind": "place",
-          "title": "Bremerhaven Ueberseehafen"
-        },
-        {
-          "file": "plan_hafenentwicklung.md",
-          "kind": "plan",
-          "title": "die grüne Hafenlogistik"
-        },
-        {
-          "file": "play_bremen.md",
-          "kind": "play",
-          "title": "Bremen"
-        },
-        {
-          "file": "plot_01_hanse_1358.md",
-          "kind": "plot",
-          "title": "The Accession to the Hanseatic League",
-          "taxonomy": "play_bremen.md"
-        },
-        {
-          "file": "plot_02_roland_1404.md",
-          "kind": "plot",
-          "title": "The Erection of the Roland Statue",
-          "taxonomy": "play_bremen.md"
-        },
-        {
-          "file": "plot_03_havengebiete.md",
-          "kind": "plot",
-          "title": "The Founding of Bremerhaven",
-          "taxonomy": "play_bremen.md"
-        },
-        {
-          "file": "position_buergerstolz.md",
-          "kind": "position",
-          "title": "The Civic Pride"
-        },
-        {
-          "file": "position_culture_bremische_kultur.md",
-          "kind": "position",
-          "title": "Bremen Culture"
-        },
-        {
-          "file": "position_hanse.md",
-          "kind": "position",
-          "title": "The Hanseatic Spirit"
-        },
-        {
-          "file": "position_language_de_de_hb.md",
-          "kind": "position",
-          "title": "Bremen Standard German"
-        },
-        {
-          "file": "position_maritim.md",
-          "kind": "position",
-          "title": "The Maritime Trade"
-        },
-        {
-          "file": "process_freimarkt.md",
-          "kind": "process",
-          "title": "Bremen Freimarkt"
         }
       ]
     },
@@ -8348,6 +8027,312 @@
     },
     {
       "kind": "culture",
+      "id": "de_berlin",
+      "title": "Berlin",
+      "description": "Berlin als Kultur inszeniert: die ehemals geteilte Metropole, geprägt von Freiheit, Techno und ständiger Neuerfindung.",
+      "iso": "DE-BE",
+      "members": [
+        {
+          "file": "persona_amelie.md",
+          "kind": "persona",
+          "title": "Amelie",
+          "type": "archetype",
+          "taxonomy": "position_kreativitaet.md"
+        },
+        {
+          "file": "persona_dieter.md",
+          "kind": "persona",
+          "title": "Dieter",
+          "type": "archetype",
+          "taxonomy": "position_mauer.md"
+        },
+        {
+          "file": "piece_berghain_stamp.md",
+          "kind": "piece",
+          "title": "The Club Stamp"
+        },
+        {
+          "file": "piece_mauerstueck.md",
+          "kind": "piece",
+          "title": "A Piece of the Wall"
+        },
+        {
+          "file": "pitch_berlin.md",
+          "kind": "pitch",
+          "title": "The Berlin Key",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "place_berghain.md",
+          "kind": "place",
+          "title": "Berghain"
+        },
+        {
+          "file": "place_brandenburger_tor.md",
+          "kind": "place",
+          "title": "Brandenburger Tor"
+        },
+        {
+          "file": "plan_toleranz.md",
+          "kind": "plan",
+          "title": "die Förderung der Toleranz"
+        },
+        {
+          "file": "play_berlin.md",
+          "kind": "play",
+          "title": "Berlin"
+        },
+        {
+          "file": "plot_01_division_1961.md",
+          "kind": "plot",
+          "title": "The Construction of the Berlin Wall",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "plot_02_reunification_1989.md",
+          "kind": "plot",
+          "title": "The Fall of the Berlin Wall",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "plot_03_subculture.md",
+          "kind": "plot",
+          "title": "The Rise of the Techno Subculture",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "position_culture_berliner_kultur.md",
+          "kind": "position",
+          "title": "Berlin Culture"
+        },
+        {
+          "file": "position_freiheit.md",
+          "kind": "position",
+          "title": "The Freedom"
+        },
+        {
+          "file": "position_kreativitaet.md",
+          "kind": "position",
+          "title": "The Creativity"
+        },
+        {
+          "file": "position_mauer.md",
+          "kind": "position",
+          "title": "The Wall"
+        },
+        {
+          "file": "process_clubbing.md",
+          "kind": "process",
+          "title": "Berlin Clubbing"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_brandenburg",
+      "title": "Brandenburg",
+      "description": "Brandenburg inszeniert: das märkische Land um Berlin, geprägt von preußischer Geschichte, Wäldern und Solarenergie.",
+      "iso": "DE-BB",
+      "members": [
+        {
+          "file": "persona_nadja.md",
+          "kind": "persona",
+          "title": "Nadja",
+          "type": "archetype",
+          "taxonomy": "position_wende_brandenburg.md"
+        },
+        {
+          "file": "persona_ulrich.md",
+          "kind": "persona",
+          "title": "Ulrich",
+          "type": "archetype",
+          "taxonomy": "position_maerkische_ruhe.md"
+        },
+        {
+          "file": "piece_gurke.md",
+          "kind": "piece",
+          "title": "The Spreewald Gherkin"
+        },
+        {
+          "file": "piece_kartoffelbefehl.md",
+          "kind": "piece",
+          "title": "The Potato Decree"
+        },
+        {
+          "file": "pitch_brandenburg.md",
+          "kind": "pitch",
+          "title": "The Brandenburg Key",
+          "taxonomy": "play_brandenburg.md"
+        },
+        {
+          "file": "place_sanssouci.md",
+          "kind": "place",
+          "title": "Schloss Sanssouci"
+        },
+        {
+          "file": "place_spreewald.md",
+          "kind": "place",
+          "title": "Brandenburger Spreewald"
+        },
+        {
+          "file": "plan_solar_brandenburg.md",
+          "kind": "plan",
+          "title": "die Solarenergieoffensive"
+        },
+        {
+          "file": "play_brandenburg.md",
+          "kind": "play",
+          "title": "Brandenburg"
+        },
+        {
+          "file": "plot_01_preussen_1701.md",
+          "kind": "plot",
+          "title": "The Rise of Brandenburg-Prussia",
+          "taxonomy": "play_brandenburg.md"
+        },
+        {
+          "file": "plot_02_sanssouci_1747.md",
+          "kind": "plot",
+          "title": "The Completion of Sanssouci",
+          "taxonomy": "play_brandenburg.md"
+        },
+        {
+          "file": "plot_03_reunification_1990.md",
+          "kind": "plot",
+          "title": "The Re-establishment of the State of Brandenburg",
+          "taxonomy": "play_brandenburg.md"
+        },
+        {
+          "file": "position_culture_brandenburgische_kultur.md",
+          "kind": "position",
+          "title": "Brandenburg Culture"
+        },
+        {
+          "file": "position_maerkische_ruhe.md",
+          "kind": "position",
+          "title": "The Quiet Simplicity"
+        },
+        {
+          "file": "position_preussische_tugend.md",
+          "kind": "position",
+          "title": "The Prussian Virtues"
+        },
+        {
+          "file": "position_wende_brandenburg.md",
+          "kind": "position",
+          "title": "The Reunification Experience"
+        },
+        {
+          "file": "process_kahnfahrt.md",
+          "kind": "process",
+          "title": "Spreewald Kahnfahrt"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_bremen",
+      "title": "Bremen",
+      "description": "Bremen als Kultur inszeniert: die alte Hansestadt an der Weser, geprägt von Bürgerstolz, Seefahrt und Weltoffenheit.",
+      "iso": "DE-HB",
+      "members": [
+        {
+          "file": "persona_gesche.md",
+          "kind": "persona",
+          "title": "Gesche",
+          "type": "archetype",
+          "taxonomy": "position_hanse.md"
+        },
+        {
+          "file": "persona_hinnerk.md",
+          "kind": "persona",
+          "title": "Hinnerk",
+          "type": "archetype",
+          "taxonomy": "position_maritim.md"
+        },
+        {
+          "file": "piece_rolandstatue.md",
+          "kind": "piece",
+          "title": "The Roland Statue"
+        },
+        {
+          "file": "piece_stadtmusikanten.md",
+          "kind": "piece",
+          "title": "The Town Musicians"
+        },
+        {
+          "file": "pitch_bremen.md",
+          "kind": "pitch",
+          "title": "The Bremen Key",
+          "taxonomy": "play_bremen.md"
+        },
+        {
+          "file": "place_marktplatz.md",
+          "kind": "place",
+          "title": "Bremen Marktplatz"
+        },
+        {
+          "file": "place_ueberseehafen.md",
+          "kind": "place",
+          "title": "Bremerhaven Ueberseehafen"
+        },
+        {
+          "file": "plan_hafenentwicklung.md",
+          "kind": "plan",
+          "title": "die grüne Hafenlogistik"
+        },
+        {
+          "file": "play_bremen.md",
+          "kind": "play",
+          "title": "Bremen"
+        },
+        {
+          "file": "plot_01_hanse_1358.md",
+          "kind": "plot",
+          "title": "The Accession to the Hanseatic League",
+          "taxonomy": "play_bremen.md"
+        },
+        {
+          "file": "plot_02_roland_1404.md",
+          "kind": "plot",
+          "title": "The Erection of the Roland Statue",
+          "taxonomy": "play_bremen.md"
+        },
+        {
+          "file": "plot_03_havengebiete.md",
+          "kind": "plot",
+          "title": "The Founding of Bremerhaven",
+          "taxonomy": "play_bremen.md"
+        },
+        {
+          "file": "position_buergerstolz.md",
+          "kind": "position",
+          "title": "The Civic Pride"
+        },
+        {
+          "file": "position_culture_bremische_kultur.md",
+          "kind": "position",
+          "title": "Bremen Culture"
+        },
+        {
+          "file": "position_hanse.md",
+          "kind": "position",
+          "title": "The Hanseatic Spirit"
+        },
+        {
+          "file": "position_maritim.md",
+          "kind": "position",
+          "title": "The Maritime Trade"
+        },
+        {
+          "file": "process_freimarkt.md",
+          "kind": "process",
+          "title": "Bremen Freimarkt"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
       "id": "de_hamburg",
       "title": "Hamburg",
       "description": "Hamburg als Kultur inszeniert: die Freie und Hansestadt an der Elbe, geprägt von Kaufmannsstolz und Weltoffenheit.",
@@ -8450,6 +8435,414 @@
     },
     {
       "kind": "culture",
+      "id": "de_lower_saxony",
+      "title": "Niedersachsen",
+      "description": "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit.",
+      "iso": "DE-NI",
+      "members": [
+        {
+          "file": "persona_antje.md",
+          "kind": "persona",
+          "title": "Antje",
+          "type": "archetype",
+          "taxonomy": "position_industrie.md"
+        },
+        {
+          "file": "persona_gerhard.md",
+          "kind": "persona",
+          "title": "Gerhard",
+          "type": "archetype",
+          "taxonomy": "position_kuestenkultur.md"
+        },
+        {
+          "file": "piece_teegeschirr.md",
+          "kind": "piece",
+          "title": "The East Frisian Tea Set"
+        },
+        {
+          "file": "piece_vw_kaefer.md",
+          "kind": "piece",
+          "title": "The Volkswagen Beetle"
+        },
+        {
+          "file": "pitch_lower_saxony.md",
+          "kind": "pitch",
+          "title": "The Lower Saxony Key",
+          "taxonomy": "play_lower_saxony.md"
+        },
+        {
+          "file": "place_ostfriesland.md",
+          "kind": "place",
+          "title": "Niedersachsen Ostfriesland"
+        },
+        {
+          "file": "place_wolfsburg.md",
+          "kind": "place",
+          "title": "Niedersachsen Wolfsburg"
+        },
+        {
+          "file": "plan_windenergie.md",
+          "kind": "plan",
+          "title": "der Windenergieausbau"
+        },
+        {
+          "file": "play_lower_saxony.md",
+          "kind": "play",
+          "title": "Niedersachsen"
+        },
+        {
+          "file": "plot_01_welfen_1866.md",
+          "kind": "plot",
+          "title": "The Fall of the House of Welf",
+          "taxonomy": "play_lower_saxony.md"
+        },
+        {
+          "file": "plot_02_bundesland_1946.md",
+          "kind": "plot",
+          "title": "The Creation of the State of Lower Saxony",
+          "taxonomy": "play_lower_saxony.md"
+        },
+        {
+          "file": "plot_03_volkswagen_1938.md",
+          "kind": "plot",
+          "title": "The Rise of Volkswagen",
+          "taxonomy": "play_lower_saxony.md"
+        },
+        {
+          "file": "position_bodenstaendigkeit.md",
+          "kind": "position",
+          "title": "The Pragmatic Down-to-Earth Ethos"
+        },
+        {
+          "file": "position_culture_die_niedersaechsische_kultur.md",
+          "kind": "position",
+          "title": "Lower Saxon Culture"
+        },
+        {
+          "file": "position_industrie.md",
+          "kind": "position",
+          "title": "The Industrial Power"
+        },
+        {
+          "file": "position_kuestenkultur.md",
+          "kind": "position",
+          "title": "The Coastal Resilience"
+        },
+        {
+          "file": "process_teezeremonie.md",
+          "kind": "process",
+          "title": "East Frisian Tea Ceremony"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_mecklenburg_western_pomerania",
+      "title": "Mecklenburg-Vorpommern",
+      "description": "Mecklenburg-Vorpommern inszeniert: das Land der Seen und Ostseeküste, geprägt von Hanse-Tradition und Naturschutz.",
+      "iso": "DE-MV",
+      "members": [
+        {
+          "file": "persona_hinnerk.md",
+          "kind": "persona",
+          "title": "Hinnerk",
+          "type": "archetype",
+          "taxonomy": "position_kuestenstolz.md"
+        },
+        {
+          "file": "persona_wiebke.md",
+          "kind": "persona",
+          "title": "Wiebke",
+          "type": "archetype",
+          "taxonomy": "position_seenruhe.md"
+        },
+        {
+          "file": "piece_kreidefelsen_painting.md",
+          "kind": "piece",
+          "title": "The Chalk Cliffs Painting"
+        },
+        {
+          "file": "piece_strandkorb.md",
+          "kind": "piece",
+          "title": "The Beach Chair"
+        },
+        {
+          "file": "pitch_mecklenburg_western_pomerania.md",
+          "kind": "pitch",
+          "title": "The Mecklenburg-Western Pomerania Key",
+          "taxonomy": "play_mecklenburg_western_pomerania.md"
+        },
+        {
+          "file": "place_rostock_port.md",
+          "kind": "place",
+          "title": "Rostocker Hafen"
+        },
+        {
+          "file": "place_ruegen.md",
+          "kind": "place",
+          "title": "Ruegener Kreidefelsen"
+        },
+        {
+          "file": "plan_ostseeschutz.md",
+          "kind": "plan",
+          "title": "der Ostseeschutz"
+        },
+        {
+          "file": "play_mecklenburg_western_pomerania.md",
+          "kind": "play",
+          "title": "Mecklenburg-Vorpommern"
+        },
+        {
+          "file": "plot_01_hanse_wismar_rostock.md",
+          "kind": "plot",
+          "title": "The Hanseatic Rise of Rostock and Wismar",
+          "taxonomy": "play_mecklenburg_western_pomerania.md"
+        },
+        {
+          "file": "plot_02_scholars_university_1419.md",
+          "kind": "plot",
+          "title": "The Founding of the University of Rostock",
+          "taxonomy": "play_mecklenburg_western_pomerania.md"
+        },
+        {
+          "file": "plot_03_reunification_1990.md",
+          "kind": "plot",
+          "title": "The Re-establishment of Mecklenburg-Vorpommern",
+          "taxonomy": "play_mecklenburg_western_pomerania.md"
+        },
+        {
+          "file": "position_culture_mecklenburgisch_vorpommersche_kultur.md",
+          "kind": "position",
+          "title": "Mecklenburg-Western Pomerania Culture"
+        },
+        {
+          "file": "position_hanseatisch.md",
+          "kind": "position",
+          "title": "The Hanseatic Merchant Legacy"
+        },
+        {
+          "file": "position_kuestenstolz.md",
+          "kind": "position",
+          "title": "The Coastal Pride"
+        },
+        {
+          "file": "position_seenruhe.md",
+          "kind": "position",
+          "title": "The Solitude of the Lakes"
+        },
+        {
+          "file": "process_fischfang.md",
+          "kind": "process",
+          "title": "Baltic Herring Fishing"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_north_rhine_westphalia",
+      "title": "Nordrhein-Westfalen",
+      "description": "NRW inszeniert: das einstige Kohle- und Stahlzentrum, geprägt von Kumpelmentalität, Strukturwandel und Karneval.",
+      "iso": "DE-NW",
+      "members": [
+        {
+          "file": "persona_jupp.md",
+          "kind": "persona",
+          "title": "Jupp",
+          "type": "archetype",
+          "taxonomy": "position_kumpelmentalitaet.md"
+        },
+        {
+          "file": "persona_luisa.md",
+          "kind": "persona",
+          "title": "Luisa",
+          "type": "archetype",
+          "taxonomy": "position_rheinisches_leben.md"
+        },
+        {
+          "file": "piece_grubengold.md",
+          "kind": "piece",
+          "title": "A Piece of Coal"
+        },
+        {
+          "file": "piece_karnevalsorden.md",
+          "kind": "piece",
+          "title": "The Carnival Medal"
+        },
+        {
+          "file": "pitch_north_rhine_westphalia.md",
+          "kind": "pitch",
+          "title": "The North Rhine-Westphalia Key",
+          "taxonomy": "play_north_rhine_westphalia.md"
+        },
+        {
+          "file": "place_koelner_dom.md",
+          "kind": "place",
+          "title": "Kölner Dom"
+        },
+        {
+          "file": "place_zeche_zollverein.md",
+          "kind": "place",
+          "title": "Zeche Zollverein"
+        },
+        {
+          "file": "plan_kohleausstieg.md",
+          "kind": "plan",
+          "title": "der Kohleausstieg"
+        },
+        {
+          "file": "play_north_rhine_westphalia.md",
+          "kind": "play",
+          "title": "Nordrhein-Westfalen"
+        },
+        {
+          "file": "plot_01_ruhr_coal_1850.md",
+          "kind": "plot",
+          "title": "The Industrialization of the Ruhr Valley",
+          "taxonomy": "play_north_rhine_westphalia.md"
+        },
+        {
+          "file": "plot_02_creation_1946.md",
+          "kind": "plot",
+          "title": "Operation Marriage",
+          "taxonomy": "play_north_rhine_westphalia.md"
+        },
+        {
+          "file": "plot_03_coal_exit.md",
+          "kind": "plot",
+          "title": "The End of Coal Mining",
+          "taxonomy": "play_north_rhine_westphalia.md"
+        },
+        {
+          "file": "position_culture_nordrhein_westfaelische_kultur.md",
+          "kind": "position",
+          "title": "North Rhine-Westphalian Culture"
+        },
+        {
+          "file": "position_kumpelmentalitaet.md",
+          "kind": "position",
+          "title": "The Miner Solidarity"
+        },
+        {
+          "file": "position_rheinisches_leben.md",
+          "kind": "position",
+          "title": "The Rhenish Joy of Life"
+        },
+        {
+          "file": "position_strukturwandel.md",
+          "kind": "position",
+          "title": "The Structural Change"
+        },
+        {
+          "file": "process_karneval.md",
+          "kind": "process",
+          "title": "Rhenish Karneval"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_rhineland_palatinate",
+      "title": "Rheinland-Pfalz",
+      "description": "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit.",
+      "iso": "DE-RP",
+      "members": [
+        {
+          "file": "persona_clara.md",
+          "kind": "persona",
+          "title": "Clara",
+          "type": "archetype",
+          "taxonomy": "position_antike.md"
+        },
+        {
+          "file": "persona_jakob.md",
+          "kind": "persona",
+          "title": "Jakob",
+          "type": "archetype",
+          "taxonomy": "position_winzerstolz.md"
+        },
+        {
+          "file": "piece_gutenberg_presse.md",
+          "kind": "piece",
+          "title": "The Gutenberg Press"
+        },
+        {
+          "file": "piece_hambacher_fahne.md",
+          "kind": "piece",
+          "title": "The Hambach Flag"
+        },
+        {
+          "file": "pitch_rhineland_palatinate.md",
+          "kind": "pitch",
+          "title": "The Rhineland-Palatinate Key",
+          "taxonomy": "play_rhineland_palatinate.md"
+        },
+        {
+          "file": "place_porta_nigra.md",
+          "kind": "place",
+          "title": "Trier Porta Nigra"
+        },
+        {
+          "file": "place_weinberge.md",
+          "kind": "place",
+          "title": "Weinberge an den Fluessen"
+        },
+        {
+          "file": "plan_weinbau.md",
+          "kind": "plan",
+          "title": "der nachhaltige Weinbau"
+        },
+        {
+          "file": "play_rhineland_palatinate.md",
+          "kind": "play",
+          "title": "Rheinland-Pfalz"
+        },
+        {
+          "file": "plot_01_gutenberg_1440.md",
+          "kind": "plot",
+          "title": "Gutenberg's Printing Press",
+          "taxonomy": "play_rhineland_palatinate.md"
+        },
+        {
+          "file": "plot_02_hambach_1832.md",
+          "kind": "plot",
+          "title": "The Hambach Festival",
+          "taxonomy": "play_rhineland_palatinate.md"
+        },
+        {
+          "file": "plot_03_wine_history.md",
+          "kind": "plot",
+          "title": "The Development of the Wine Regions",
+          "taxonomy": "play_rhineland_palatinate.md"
+        },
+        {
+          "file": "position_antike.md",
+          "kind": "position",
+          "title": "The Roman Antiquity"
+        },
+        {
+          "file": "position_culture_rheinland_pfaelzische_kultur.md",
+          "kind": "position",
+          "title": "Rhineland-Palatinate Culture"
+        },
+        {
+          "file": "position_demokratisches_erbe.md",
+          "kind": "position",
+          "title": "The Democratic Legacy"
+        },
+        {
+          "file": "position_winzerstolz.md",
+          "kind": "position",
+          "title": "The Winemaker Pride"
+        },
+        {
+          "file": "process_weinlese.md",
+          "kind": "process",
+          "title": "Weinlese"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
       "id": "de_saarland",
       "title": "Saarland",
       "description": "Saarland inszeniert: das Grenzland zwischen Kohle, Stahl und Savoir-vivre, geprägt von französischer Nähe.",
@@ -8547,6 +8940,108 @@
           "file": "process_schwenken.md",
           "kind": "process",
           "title": "Saarland Schwenken"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "de_saxony",
+      "title": "Sachsen",
+      "description": "Sachsen inszeniert: die Wiege deutscher Industrie, geprägt von Dresdner Barock, Erfindergeist und Bürgerprotest.",
+      "iso": "DE-SN",
+      "members": [
+        {
+          "file": "persona_guenter.md",
+          "kind": "persona",
+          "title": "Günter",
+          "type": "archetype",
+          "taxonomy": "position_barockstolz.md"
+        },
+        {
+          "file": "persona_peggy.md",
+          "kind": "persona",
+          "title": "Peggy",
+          "type": "archetype",
+          "taxonomy": "position_erfindergeist.md"
+        },
+        {
+          "file": "piece_friedliche_revolution_manifest.md",
+          "kind": "piece",
+          "title": "The Leipzig Appeal of October 9"
+        },
+        {
+          "file": "piece_porzellan.md",
+          "kind": "piece",
+          "title": "Meissen Porcelain"
+        },
+        {
+          "file": "pitch_saxony.md",
+          "kind": "pitch",
+          "title": "The Saxony Key",
+          "taxonomy": "play_saxony.md"
+        },
+        {
+          "file": "place_frauenkirche.md",
+          "kind": "place",
+          "title": "Dresdner Frauenkirche"
+        },
+        {
+          "file": "place_silicon_saxony.md",
+          "kind": "place",
+          "title": "Silicon Saxony"
+        },
+        {
+          "file": "plan_silicon_saxony_expansion.md",
+          "kind": "plan",
+          "title": "der Ausbau von Silicon Saxony"
+        },
+        {
+          "file": "play_saxony.md",
+          "kind": "play",
+          "title": "Sachsen"
+        },
+        {
+          "file": "plot_01_august_der_starke_1697.md",
+          "kind": "plot",
+          "title": "The Era of Augustus the Strong",
+          "taxonomy": "play_saxony.md"
+        },
+        {
+          "file": "plot_02_industrial_pioneer.md",
+          "kind": "plot",
+          "title": "Saxony as an Industrial Pioneer",
+          "taxonomy": "play_saxony.md"
+        },
+        {
+          "file": "plot_03_peaceful_revolution_1989.md",
+          "kind": "plot",
+          "title": "The Peaceful Revolution in Leipzig",
+          "taxonomy": "play_saxony.md"
+        },
+        {
+          "file": "position_barockstolz.md",
+          "kind": "position",
+          "title": "The Baroque Pride"
+        },
+        {
+          "file": "position_buergerprotest.md",
+          "kind": "position",
+          "title": "The Citizen Protest Tradition"
+        },
+        {
+          "file": "position_culture_saechsische_kultur.md",
+          "kind": "position",
+          "title": "Saxon Culture"
+        },
+        {
+          "file": "position_erfindergeist.md",
+          "kind": "position",
+          "title": "The Saxon Ingenuity"
+        },
+        {
+          "file": "process_porzellanmanufaktur.md",
+          "kind": "process",
+          "title": "Meissen Porcelain Craftsmanship"
         }
       ]
     },
@@ -18686,113 +19181,6 @@
     },
     {
       "kind": "culture",
-      "id": "lower_saxony",
-      "title": "Niedersachsen",
-      "description": "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit.",
-      "iso": "DE-NI",
-      "members": [
-        {
-          "file": "persona_antje.md",
-          "kind": "persona",
-          "title": "Antje",
-          "type": "archetype",
-          "taxonomy": "position_industrie.md"
-        },
-        {
-          "file": "persona_gerhard.md",
-          "kind": "persona",
-          "title": "Gerhard",
-          "type": "archetype",
-          "taxonomy": "position_kuestenkultur.md"
-        },
-        {
-          "file": "piece_teegeschirr.md",
-          "kind": "piece",
-          "title": "The East Frisian Tea Set"
-        },
-        {
-          "file": "piece_vw_kaefer.md",
-          "kind": "piece",
-          "title": "The Volkswagen Beetle"
-        },
-        {
-          "file": "pitch_lower_saxony.md",
-          "kind": "pitch",
-          "title": "The Lower Saxony Key",
-          "taxonomy": "play_lower_saxony.md"
-        },
-        {
-          "file": "place_ostfriesland.md",
-          "kind": "place",
-          "title": "Niedersachsen Ostfriesland"
-        },
-        {
-          "file": "place_wolfsburg.md",
-          "kind": "place",
-          "title": "Niedersachsen Wolfsburg"
-        },
-        {
-          "file": "plan_windenergie.md",
-          "kind": "plan",
-          "title": "der Windenergieausbau"
-        },
-        {
-          "file": "play_lower_saxony.md",
-          "kind": "play",
-          "title": "Niedersachsen"
-        },
-        {
-          "file": "plot_01_welfen_1866.md",
-          "kind": "plot",
-          "title": "The Fall of the House of Welf",
-          "taxonomy": "play_lower_saxony.md"
-        },
-        {
-          "file": "plot_02_bundesland_1946.md",
-          "kind": "plot",
-          "title": "The Creation of the State of Lower Saxony",
-          "taxonomy": "play_lower_saxony.md"
-        },
-        {
-          "file": "plot_03_volkswagen_1938.md",
-          "kind": "plot",
-          "title": "The Rise of Volkswagen",
-          "taxonomy": "play_lower_saxony.md"
-        },
-        {
-          "file": "position_bodenstaendigkeit.md",
-          "kind": "position",
-          "title": "The Pragmatic Down-to-Earth Ethos"
-        },
-        {
-          "file": "position_culture_die_niedersaechsische_kultur.md",
-          "kind": "position",
-          "title": "Lower Saxon Culture"
-        },
-        {
-          "file": "position_industrie.md",
-          "kind": "position",
-          "title": "The Industrial Power"
-        },
-        {
-          "file": "position_kuestenkultur.md",
-          "kind": "position",
-          "title": "The Coastal Resilience"
-        },
-        {
-          "file": "position_language_de_de_ni.md",
-          "kind": "position",
-          "title": "Lower Saxon Standard German"
-        },
-        {
-          "file": "process_teezeremonie.md",
-          "kind": "process",
-          "title": "East Frisian Tea Ceremony"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "luxembourg",
       "title": "Luxembourg",
       "description": "Luxembourg staged as a culture: a micro-state that lives in three languages and survives by remaining what it is.",
@@ -20586,113 +20974,6 @@
           "file": "process_sega.md",
           "kind": "process",
           "title": "Sega"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "mecklenburg_western_pomerania",
-      "title": "Mecklenburg-Vorpommern",
-      "description": "Mecklenburg-Vorpommern inszeniert: das Land der Seen und Ostseeküste, geprägt von Hanse-Tradition und Naturschutz.",
-      "iso": "DE-MV",
-      "members": [
-        {
-          "file": "persona_hinnerk.md",
-          "kind": "persona",
-          "title": "Hinnerk",
-          "type": "archetype",
-          "taxonomy": "position_kuestenstolz.md"
-        },
-        {
-          "file": "persona_wiebke.md",
-          "kind": "persona",
-          "title": "Wiebke",
-          "type": "archetype",
-          "taxonomy": "position_seenruhe.md"
-        },
-        {
-          "file": "piece_kreidefelsen_painting.md",
-          "kind": "piece",
-          "title": "The Chalk Cliffs Painting"
-        },
-        {
-          "file": "piece_strandkorb.md",
-          "kind": "piece",
-          "title": "The Beach Chair"
-        },
-        {
-          "file": "pitch_mecklenburg_western_pomerania.md",
-          "kind": "pitch",
-          "title": "The Mecklenburg-Western Pomerania Key",
-          "taxonomy": "play_mecklenburg_western_pomerania.md"
-        },
-        {
-          "file": "place_rostock_port.md",
-          "kind": "place",
-          "title": "Rostocker Hafen"
-        },
-        {
-          "file": "place_ruegen.md",
-          "kind": "place",
-          "title": "Ruegener Kreidefelsen"
-        },
-        {
-          "file": "plan_ostseeschutz.md",
-          "kind": "plan",
-          "title": "der Ostseeschutz"
-        },
-        {
-          "file": "play_mecklenburg_western_pomerania.md",
-          "kind": "play",
-          "title": "Mecklenburg-Vorpommern"
-        },
-        {
-          "file": "plot_01_hanse_wismar_rostock.md",
-          "kind": "plot",
-          "title": "The Hanseatic Rise of Rostock and Wismar",
-          "taxonomy": "play_mecklenburg_western_pomerania.md"
-        },
-        {
-          "file": "plot_02_scholars_university_1419.md",
-          "kind": "plot",
-          "title": "The Founding of the University of Rostock",
-          "taxonomy": "play_mecklenburg_western_pomerania.md"
-        },
-        {
-          "file": "plot_03_reunification_1990.md",
-          "kind": "plot",
-          "title": "The Re-establishment of Mecklenburg-Vorpommern",
-          "taxonomy": "play_mecklenburg_western_pomerania.md"
-        },
-        {
-          "file": "position_culture_mecklenburgisch_vorpommersche_kultur.md",
-          "kind": "position",
-          "title": "Mecklenburg-Western Pomerania Culture"
-        },
-        {
-          "file": "position_hanseatisch.md",
-          "kind": "position",
-          "title": "The Hanseatic Merchant Legacy"
-        },
-        {
-          "file": "position_kuestenstolz.md",
-          "kind": "position",
-          "title": "The Coastal Pride"
-        },
-        {
-          "file": "position_language_de_de_mv.md",
-          "kind": "position",
-          "title": "Mecklenburg-Western Pomeranian Standard German"
-        },
-        {
-          "file": "position_seenruhe.md",
-          "kind": "position",
-          "title": "The Solitude of the Lakes"
-        },
-        {
-          "file": "process_fischfang.md",
-          "kind": "process",
-          "title": "Baltic Herring Fishing"
         }
       ]
     },
@@ -24884,113 +25165,6 @@
     },
     {
       "kind": "culture",
-      "id": "north_rhine_westphalia",
-      "title": "Nordrhein-Westfalen",
-      "description": "NRW inszeniert: das einstige Kohle- und Stahlzentrum, geprägt von Kumpelmentalität, Strukturwandel und Karneval.",
-      "iso": "DE-NW",
-      "members": [
-        {
-          "file": "persona_jupp.md",
-          "kind": "persona",
-          "title": "Jupp",
-          "type": "archetype",
-          "taxonomy": "position_kumpelmentalitaet.md"
-        },
-        {
-          "file": "persona_luisa.md",
-          "kind": "persona",
-          "title": "Luisa",
-          "type": "archetype",
-          "taxonomy": "position_rheinisches_leben.md"
-        },
-        {
-          "file": "piece_grubengold.md",
-          "kind": "piece",
-          "title": "A Piece of Coal"
-        },
-        {
-          "file": "piece_karnevalsorden.md",
-          "kind": "piece",
-          "title": "The Carnival Medal"
-        },
-        {
-          "file": "pitch_north_rhine_westphalia.md",
-          "kind": "pitch",
-          "title": "The North Rhine-Westphalia Key",
-          "taxonomy": "play_north_rhine_westphalia.md"
-        },
-        {
-          "file": "place_koelner_dom.md",
-          "kind": "place",
-          "title": "Kölner Dom"
-        },
-        {
-          "file": "place_zeche_zollverein.md",
-          "kind": "place",
-          "title": "Zeche Zollverein"
-        },
-        {
-          "file": "plan_kohleausstieg.md",
-          "kind": "plan",
-          "title": "der Kohleausstieg"
-        },
-        {
-          "file": "play_north_rhine_westphalia.md",
-          "kind": "play",
-          "title": "Nordrhein-Westfalen"
-        },
-        {
-          "file": "plot_01_ruhr_coal_1850.md",
-          "kind": "plot",
-          "title": "The Industrialization of the Ruhr Valley",
-          "taxonomy": "play_north_rhine_westphalia.md"
-        },
-        {
-          "file": "plot_02_creation_1946.md",
-          "kind": "plot",
-          "title": "Operation Marriage",
-          "taxonomy": "play_north_rhine_westphalia.md"
-        },
-        {
-          "file": "plot_03_coal_exit.md",
-          "kind": "plot",
-          "title": "The End of Coal Mining",
-          "taxonomy": "play_north_rhine_westphalia.md"
-        },
-        {
-          "file": "position_culture_nordrhein_westfaelische_kultur.md",
-          "kind": "position",
-          "title": "North Rhine-Westphalian Culture"
-        },
-        {
-          "file": "position_kumpelmentalitaet.md",
-          "kind": "position",
-          "title": "The Miner Solidarity"
-        },
-        {
-          "file": "position_language_de_de_nw.md",
-          "kind": "position",
-          "title": "North Rhine-Westphalian Standard German"
-        },
-        {
-          "file": "position_rheinisches_leben.md",
-          "kind": "position",
-          "title": "The Rhenish Joy of Life"
-        },
-        {
-          "file": "position_strukturwandel.md",
-          "kind": "position",
-          "title": "The Structural Change"
-        },
-        {
-          "file": "process_karneval.md",
-          "kind": "process",
-          "title": "Rhenish Karneval"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "northern_ireland",
       "title": "Northern Ireland",
       "description": "Northern Ireland staged as a culture: two traditions held in one small place, and a hard-won peace they made together.",
@@ -27279,113 +27453,6 @@
     },
     {
       "kind": "culture",
-      "id": "rhineland_palatinate",
-      "title": "Rheinland-Pfalz",
-      "description": "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit.",
-      "iso": "DE-RP",
-      "members": [
-        {
-          "file": "persona_clara.md",
-          "kind": "persona",
-          "title": "Clara",
-          "type": "archetype",
-          "taxonomy": "position_antike.md"
-        },
-        {
-          "file": "persona_jakob.md",
-          "kind": "persona",
-          "title": "Jakob",
-          "type": "archetype",
-          "taxonomy": "position_winzerstolz.md"
-        },
-        {
-          "file": "piece_gutenberg_presse.md",
-          "kind": "piece",
-          "title": "The Gutenberg Press"
-        },
-        {
-          "file": "piece_hambacher_fahne.md",
-          "kind": "piece",
-          "title": "The Hambach Flag"
-        },
-        {
-          "file": "pitch_rhineland_palatinate.md",
-          "kind": "pitch",
-          "title": "The Rhineland-Palatinate Key",
-          "taxonomy": "play_rhineland_palatinate.md"
-        },
-        {
-          "file": "place_porta_nigra.md",
-          "kind": "place",
-          "title": "Trier Porta Nigra"
-        },
-        {
-          "file": "place_weinberge.md",
-          "kind": "place",
-          "title": "Weinberge an den Fluessen"
-        },
-        {
-          "file": "plan_weinbau.md",
-          "kind": "plan",
-          "title": "der nachhaltige Weinbau"
-        },
-        {
-          "file": "play_rhineland_palatinate.md",
-          "kind": "play",
-          "title": "Rheinland-Pfalz"
-        },
-        {
-          "file": "plot_01_gutenberg_1440.md",
-          "kind": "plot",
-          "title": "Gutenberg's Printing Press",
-          "taxonomy": "play_rhineland_palatinate.md"
-        },
-        {
-          "file": "plot_02_hambach_1832.md",
-          "kind": "plot",
-          "title": "The Hambach Festival",
-          "taxonomy": "play_rhineland_palatinate.md"
-        },
-        {
-          "file": "plot_03_wine_history.md",
-          "kind": "plot",
-          "title": "The Development of the Wine Regions",
-          "taxonomy": "play_rhineland_palatinate.md"
-        },
-        {
-          "file": "position_antike.md",
-          "kind": "position",
-          "title": "The Roman Antiquity"
-        },
-        {
-          "file": "position_culture_rheinland_pfaelzische_kultur.md",
-          "kind": "position",
-          "title": "Rhineland-Palatinate Culture"
-        },
-        {
-          "file": "position_demokratisches_erbe.md",
-          "kind": "position",
-          "title": "The Democratic Legacy"
-        },
-        {
-          "file": "position_language_de_de_rp.md",
-          "kind": "position",
-          "title": "Rhineland-Palatinate Standard German"
-        },
-        {
-          "file": "position_winzerstolz.md",
-          "kind": "position",
-          "title": "The Winemaker Pride"
-        },
-        {
-          "file": "process_weinlese.md",
-          "kind": "process",
-          "title": "Weinlese"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "rhode_island",
       "title": "Rhode Island",
       "description": "Rhode Island staged: the Ocean State of Narragansett Bay boatyards, Newport mansions, and Roger Williams charter.",
@@ -28840,113 +28907,6 @@
           "file": "process_almajlis.md",
           "kind": "process",
           "title": "the Majlis and the Coffee"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "saxony",
-      "title": "Sachsen",
-      "description": "Sachsen inszeniert: die Wiege deutscher Industrie, geprägt von Dresdner Barock, Erfindergeist und Bürgerprotest.",
-      "iso": "DE-SN",
-      "members": [
-        {
-          "file": "persona_guenter.md",
-          "kind": "persona",
-          "title": "Günter",
-          "type": "archetype",
-          "taxonomy": "position_barockstolz.md"
-        },
-        {
-          "file": "persona_peggy.md",
-          "kind": "persona",
-          "title": "Peggy",
-          "type": "archetype",
-          "taxonomy": "position_erfindergeist.md"
-        },
-        {
-          "file": "piece_friedliche_revolution_manifest.md",
-          "kind": "piece",
-          "title": "The Leipzig Appeal of October 9"
-        },
-        {
-          "file": "piece_porzellan.md",
-          "kind": "piece",
-          "title": "Meissen Porcelain"
-        },
-        {
-          "file": "pitch_saxony.md",
-          "kind": "pitch",
-          "title": "The Saxony Key",
-          "taxonomy": "play_saxony.md"
-        },
-        {
-          "file": "place_frauenkirche.md",
-          "kind": "place",
-          "title": "Dresdner Frauenkirche"
-        },
-        {
-          "file": "place_silicon_saxony.md",
-          "kind": "place",
-          "title": "Silicon Saxony"
-        },
-        {
-          "file": "plan_silicon_saxony_expansion.md",
-          "kind": "plan",
-          "title": "der Ausbau von Silicon Saxony"
-        },
-        {
-          "file": "play_saxony.md",
-          "kind": "play",
-          "title": "Sachsen"
-        },
-        {
-          "file": "plot_01_august_der_starke_1697.md",
-          "kind": "plot",
-          "title": "The Era of Augustus the Strong",
-          "taxonomy": "play_saxony.md"
-        },
-        {
-          "file": "plot_02_industrial_pioneer.md",
-          "kind": "plot",
-          "title": "Saxony as an Industrial Pioneer",
-          "taxonomy": "play_saxony.md"
-        },
-        {
-          "file": "plot_03_peaceful_revolution_1989.md",
-          "kind": "plot",
-          "title": "The Peaceful Revolution in Leipzig",
-          "taxonomy": "play_saxony.md"
-        },
-        {
-          "file": "position_barockstolz.md",
-          "kind": "position",
-          "title": "The Baroque Pride"
-        },
-        {
-          "file": "position_buergerprotest.md",
-          "kind": "position",
-          "title": "The Citizen Protest Tradition"
-        },
-        {
-          "file": "position_culture_saechsische_kultur.md",
-          "kind": "position",
-          "title": "Saxon Culture"
-        },
-        {
-          "file": "position_erfindergeist.md",
-          "kind": "position",
-          "title": "The Saxon Ingenuity"
-        },
-        {
-          "file": "position_language_de_de_sn.md",
-          "kind": "position",
-          "title": "Saxon German"
-        },
-        {
-          "file": "process_porzellanmanufaktur.md",
-          "kind": "process",
-          "title": "Meissen Porcelain Craftsmanship"
         }
       ]
     },

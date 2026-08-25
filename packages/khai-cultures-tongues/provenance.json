@@ -44,5 +44,48 @@
     "from": "es_melilla",
     "tongue": "Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation",
     "note": "Read against the mnemonic on the way through: two things were cut from its opening. It placed itself on the Rif coast, and where is not one of the four; and it explained its own closeness to the standard by who lives in the city, its garrison and its civil service, which is a claim about a place and not about a tongue. What stays is the strongest thing it says: that it orders its holder to state where they are from and since when before saying what they want."
+  },
+  "position_language_de_de_be.md": {
+    "from": "de_berlin",
+    "tongue": "Berlin Standard German",
+    "review": "thin",
+    "note": "Read against the mnemonic on the way through: nothing needed cutting, because it claims nothing about a culture. It has the opposite fault. Its four chapters describe Standard German and name no feature of this variety at all: no Berliner Schnauze, no icke, no wat or det, no j for initial g, and not the accusative-dative merger the city makes jokes about. That is the defining question asked of a tongue rather than of a play, and it is left standing here rather than answered by invention. It is not a copy of its neighbours - the three thin varieties share under half their text - each was written thin on its own."
+  },
+  "position_language_de_de_bb.md": {
+    "from": "de_brandenburg",
+    "tongue": "Brandenburg Standard German",
+    "review": "thin",
+    "note": "Read against the mnemonic on the way through: nothing needed cutting, because it claims nothing about a culture. It has the opposite fault. Its four chapters describe Standard German and name no feature of this variety at all: no mark of the Mark, no Low German floor the märkisch varieties actually stand on, nothing that separates it from the Berlin variety next door. That is the defining question asked of a tongue rather than of a play, and it is left standing here rather than answered by invention. It is not a copy of its neighbours - the three thin varieties share under half their text - each was written thin on its own."
+  },
+  "position_language_de_de_hb.md": {
+    "from": "de_bremen",
+    "tongue": "Bremen Standard German",
+    "review": "thin",
+    "note": "Read against the mnemonic on the way through: nothing needed cutting, because it claims nothing about a culture. It has the opposite fault. Its four chapters describe Standard German and name no feature of this variety at all: the only local words in it, Schifffahrt and Hafenrundfahrt, are examples of compounding and not features of Bremen speech. That is the defining question asked of a tongue rather than of a play, and it is left standing here rather than answered by invention. It is not a copy of its neighbours - the three thin varieties share under half their text - each was written thin on its own."
+  },
+  "position_language_de_de_ni.md": {
+    "from": "de_lower_saxony",
+    "tongue": "Lower Saxon Standard German, the High German that lies over a Low German floor",
+    "note": "Read against the mnemonic on the way through: it names itself and the language beneath it, which is the tongue's own business, so nothing was cut. It is the strongest of this batch, because it explains its own unmarkedness by the substrate it was laid over."
+  },
+  "position_language_de_de_mv.md": {
+    "from": "de_mecklenburg_western_pomerania",
+    "tongue": "Mecklenburg-Vorpommern Standard German, learned late and laid over Platt",
+    "note": "Read against the mnemonic on the way through: one clause was cut, and the sorted drift queue is what found it. It said its clear pronunciation once counted as the norm für ganz Deutschland, naming the culture above rather than the standard itself; it now says it served the Bühnenaussprache as a model and entered the checked Hochlautung from there, which is the same fact told about the language. What stayed is the industries its maritime lexicon is losing ground to, because that is a cause of lexical loss and so belongs to Loses, the same shape kept in Ceutan Spanish."
+  },
+  "position_language_de_de_nw.md": {
+    "from": "de_north_rhine_westphalia",
+    "tongue": "North Rhine-Westphalian Standard German, carrying the rheinische Verlaufsform",
+    "note": "Read against the mnemonic on the way through: nothing was cut. It holds two speech regions under one label and says so, which is a tongue describing its own internal variation."
+  },
+  "position_language_de_de_rp.md": {
+    "from": "de_rhineland_palatinate",
+    "tongue": "Rhineland-Palatinate Standard German, Palatine softness under the standard",
+    "note": "Read against the mnemonic on the way through: one clause was cut. Its sound was said to give the Winzerstube its warmth, which is what a room in a culture gets, not what a tongue does to whoever holds it. It now says what the diminutive does to everything it names."
+  },
+  "position_language_de_de_sn.md": {
+    "from": "de_saxony",
+    "tongue": "Saxon German, the Meissen chancery sound that helped found the written standard",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office - the lenition, the drawn-out melody, the switch between the home sound and the sharper written one."
   }
 }
