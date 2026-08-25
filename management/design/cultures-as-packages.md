@@ -185,10 +185,12 @@ drops to advisory: printed on every touched culture, blocking nothing. The
 nesting half stays a hard gate, because a parent link is content and rides a
 content pull request without trouble.
 
-**What khai must fix**: `changeset-check` should judge the count-driven add rule
-on renames by source as well as destination, so a play that merely moved is not
-counted as a play that arrived. Until then the clean identifiers cannot land, and
-the walk pays its other three debts without them.
+**Fixed in khai-guard 0.2.1** (khai #1385, #1386). `changeset-check` now judges
+the count-driven add rule on a rename's source as well as its destination, so a
+play that moved is not a play that arrived, whether or not the move carried
+edits. The house pins `^0.2.1`, the id half of sub-national conformance is a hard
+gate again, and a rename travels in the same pull request as the content it
+belongs to. The deadlock lasted one day and cost one batch its renames.
 
 ## 8. Why the walk is orderable
 
