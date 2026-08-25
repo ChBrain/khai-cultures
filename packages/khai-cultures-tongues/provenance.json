@@ -47,21 +47,18 @@
   },
   "position_language_de_de_be.md": {
     "from": "de_berlin",
-    "tongue": "Berlin Standard German",
-    "review": "thin",
-    "note": "Read against the mnemonic on the way through: nothing needed cutting, because it claims nothing about a culture. It has the opposite fault. Its four chapters describe Standard German and name no feature of this variety at all: no Berliner Schnauze, no icke, no wat or det, no j for initial g, and not the accusative-dative merger the city makes jokes about. That is the defining question asked of a tongue rather than of a play, and it is left standing here rather than answered by invention. It is not a copy of its neighbours - the three thin varieties share under half their text - each was written thin on its own."
+    "tongue": "Berlin Standard German, over the Metrolekt of a Low German city that went High German and kept the old sounds",
+    "note": "Written out after the walk found it thin. It had four chapters of Standard German and nothing of Berlin; it now carries what the variety actually has - the unshifted ick, det, wat, Kopp and Pund, the j for initial g, the contracted ooch and een - and the one thing that is grammar rather than sound, the collapse of dative and accusative into a single form, which the sentence denying it performs. The Schnauze is in it as a register the tongue holds, a speech setting in which a stranger may be addressed without preamble, never as a temperament of the people who speak it, because that would be a claim about a culture."
   },
   "position_language_de_de_bb.md": {
     "from": "de_brandenburg",
-    "tongue": "Brandenburg Standard German",
-    "review": "thin",
-    "note": "Read against the mnemonic on the way through: nothing needed cutting, because it claims nothing about a culture. It has the opposite fault. Its four chapters describe Standard German and name no feature of this variety at all: no mark of the Mark, no Low German floor the märkisch varieties actually stand on, nothing that separates it from the Berlin variety next door. That is the defining question asked of a tongue rather than of a play, and it is left standing here rather than answered by invention. It is not a copy of its neighbours - the three thin varieties share under half their text - each was written thin on its own."
+    "tongue": "Brandenburg Standard German, on the East Low German floor of the Mark, pulled toward Berlin",
+    "note": "Written out after the walk found it thin. It now says what it stands on, the East Low German the Mark spoke before it went High German, and what it kept: the j for initial g that grows with nearness to the city, and the landscape words Fließ, Luch and Kietz, the last Slavic like the -ow and -itz place names. Its Loses is the honest one: the variety loses its own contour to Berlinisch, because the features it carries are heard as Berlin outside the Mark. The sorted drift queue reports it FOREIGN for naming Berlin, and the reading is that it does not: every mention is das Berliner Hochdeutsch, der Berliner Klang, das Berlinische, a neighbouring tongue and not a city's institutions. Naming another variety is what a variety is for, the same allowance Ceutan Spanish gets for the speech of the Campo de Gibraltar. Left standing deliberately; the queue is a review queue, not a verdict."
   },
   "position_language_de_de_hb.md": {
     "from": "de_bremen",
-    "tongue": "Bremen Standard German",
-    "review": "thin",
-    "note": "Read against the mnemonic on the way through: nothing needed cutting, because it claims nothing about a culture. It has the opposite fault. Its four chapters describe Standard German and name no feature of this variety at all: the only local words in it, Schifffahrt and Hafenrundfahrt, are examples of compounding and not features of Bremen speech. That is the defining question asked of a tongue rather than of a play, and it is left standing here rather than answered by invention. It is not a copy of its neighbours - the three thin varieties share under half their text - each was written thin on its own."
+    "tongue": "Bremen Standard German, on a North Low Saxon floor, holding Low German words undeclined",
+    "note": "Written out after the walk found it thin. Its only local words had been Schifffahrt and Hafenrundfahrt, which are examples of compounding and not features of Bremen speech. It now carries the northern unshifted s before t and p, the spitze Stein the north knows itself by and is losing, and the Low German words that survive in the standard - lütt, schnacken, Deern, buten and binnen, and the Butenbremer that cannot be formed without them. Its sharpest chapter is Orders: those words enter the High German sentence undeclined, so the sentence carries two languages and only one grammar."
   },
   "position_language_de_de_ni.md": {
     "from": "de_lower_saxony",
