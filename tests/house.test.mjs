@@ -6,6 +6,7 @@ import { validateProject } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
 import { coverage, cultureIds as coveredCultureIds, allWaivers } from "./company_coverage.mjs";
+import { standalone } from "./tongues_standalone.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const culturesDir = join(root, "cultures");
@@ -162,6 +163,17 @@ describe("Cultures house: the company-coverage waivers stay honest", () => {
       }
     }
     expect(errors, errors.join("; ")).toEqual([]);
+  });
+});
+
+// The tongues package is not a culture and must never need one. This runs on
+// every pull request rather than as a ratchet, because the package started clean
+// and has no debt to pay down: the moment a variety reaches back into a culture,
+// the tongues have stopped being a shared vocabulary and become an extract.
+describe("Cultures house: the tongues stand alone", () => {
+  it("no variety reaches back into a culture", () => {
+    const findings = standalone();
+    expect(findings, findings.join("; ")).toEqual([]);
   });
 });
 

@@ -1,0 +1,4 @@
+---
+---
+
+Gate that the tongues stand alone. A language variety is held by the speech community that speaks it, so the package must be readable by someone who installed it and nothing else: no link escaping the package, no link naming a culture package, no culture package in the manifest (which would also be a cycle once the cultures are productions), and every variety carrying its own `language:` now that it has left the play inheritance it used to sit under. It runs on every pull request rather than as a ratchet, because the package started clean and has no debt to pay down. The implicit half stays a reading: a variety may name the ground it is spoken on, since Ceutan Spanish cannot be described without Ceuta, but it may not lean on a culture's cast, scenes or objects to make sense, and no validator can hold that. Governance only; the house ships nothing.
