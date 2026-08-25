@@ -31,7 +31,7 @@
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { join, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
@@ -188,7 +188,10 @@ function gate(base, head) {
   return 1;
 }
 
-const argv = process.argv.slice(2);
+// Only when run as a command. Without this the CLI fires on import, so one
+// module importing the other would run its report as a side effect.
+const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+const argv = isMain ? process.argv.slice(2) : [];
 if (argv.includes("--report")) report();
 else if (argv.includes("--gate")) {
   const base = argv[argv.indexOf("--base") + 1];

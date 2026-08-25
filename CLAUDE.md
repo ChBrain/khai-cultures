@@ -77,6 +77,23 @@ The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
 casting something would be anachronistic or contrived, waive it with a reason in
 `cultures/<id>/coverage-waivers.json`; never invent a scene to satisfy a counter.
 
+## Sub-national cultures
+
+A sub-national culture carries two facts its `geo.json` already knows, and both
+are gated the way coverage is: on the cultures a pull request touches.
+
+Its **id carries its parent's ISO country code**, `de_schleswig_holstein`,
+`us_georgia`, `es_navarre`, because the id becomes the package name and an npm
+name is permanent. Only the prefix is checked; the rest of the name is yours.
+
+Its **culture-position links its parent's**, because a sub-national culture is a
+way of being the culture above it. The nesting goes on the position, never on
+every persona: Bavarianness is a way of being German, not a second passport.
+
+```
+node tests/culture_conformance.mjs --report
+```
+
 ## The defining question
 
 Coverage is a counter; it cannot tell you whether a play is true. So whenever a
@@ -96,4 +113,5 @@ apology in place of a deed, and never invent a scene to satisfy a counter.
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); sources
 are credited where they are in the public domain, never claimed. `main` is
 protected: pull requests and the gate checks (`khai-tests`, `khai-guard`,
-`khai-branch-scope`, `khai-company-coverage`) are required before merge.
+`khai-branch-scope`, `khai-company-coverage`, `khai-subnational-conformance`) are
+required before merge.

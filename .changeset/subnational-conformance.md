@@ -1,0 +1,4 @@
+---
+---
+
+Gate the two facts a sub-national culture owes, before the walk starts paying them. Its id must carry its parent's ISO country code, because the id becomes the package name and an npm name is permanent, and `georgia_us` is what a flat namespace does when Georgia the country meets Georgia the state. And its culture-position must link its parent's, because 88 of 90 sub-national cultures link nothing at all and a Bavarian is, as staged, not German; the nesting goes on the position rather than on every persona, since Bavarianness is a way of being German and not a second passport. Both are held as a touch ratchet, never a sweep: 90 cultures do not conform today and none of them is asked to until a pull request opens it. Also fixes a bug in the coverage module, whose CLI fired on import and made one module's report run as a side effect of the other's. Governance only; the house ships nothing.
