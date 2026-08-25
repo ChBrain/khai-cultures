@@ -109,11 +109,6 @@ are gated the way coverage is: on the cultures a pull request touches.
 Its **id carries its parent's ISO country code**, `de_schleswig_holstein`,
 `us_georgia`, `es_navarre`, because the id becomes the package name and an npm
 name is permanent. Only the prefix is checked; the rest of the name is yours.
-**Advisory for now**: khai-guard reads a rename's destination as an added path,
-so a rename demands a `minor` changeset, and a minor reconciles against an
-unchanged culture count back onto the version already published. Until that is
-fixed in khai, a rename cannot merge, so the gate reports the id and does not
-block on it.
 
 Its **culture-position links its parent's**, because a sub-national culture is a
 way of being the culture above it. The nesting goes on the position, never on

@@ -45,28 +45,25 @@ export function parentOf(code, root = ROOT) {
 }
 
 /**
- * What a sub-national culture still owes, split by what the toolchain can accept
- * today. `blocking` fails the gate; `advisory` is printed and does not.
+ * What a sub-national culture still owes. Both halves block.
  *
- * The id rename is advisory, and not because it matters less. khai-guard's
- * changeset-check reads a rename's destination as an added path (parseChanges:
- * "a rename into a path is, for ownership, an addition of that path"), which is
- * right for lane ownership and wrong for the count-driven add rule: a renamed
- * play is not a new culture and the count has not moved. So a rename demands a
- * `minor` changeset, and a minor reconciles against an unchanged count back onto
- * the version already published. Until that is fixed in khai, a rename cannot
- * merge, and a hard gate here would freeze every sub-national culture that still
- * owes one: 84 of them. It stays visible and stops blocking.
+ * The id half was advisory for one day, because khai-guard read a rename's
+ * destination as an added path and so demanded a `minor` changeset for a move
+ * that changed no count, which would have landed the release back on a version
+ * already published. khai-guard 0.2.1 judges the count-driven add rule on the
+ * source as well, so a play that moved is no longer a play that arrived, and a
+ * rename can travel in the same pull request as the content it belongs to.
  */
 export function conformance(id, { root = ROOT } = {}) {
   const code = iso(id, root).split("-")[0];
   if (!code || !iso(id, root).includes("-")) return { blocking: [], advisory: [], findings: [] };
   const blocking = [];
   const advisory = [];
+  // kept as a pair so the gate keeps one shape; nothing is advisory today.
   const prefix = `${code.toLowerCase()}_`;
 
   if (!id.startsWith(prefix))
-    advisory.push(
+    blocking.push(
       `id "${id}" must carry its parent's code: rename it "${prefix}<name>" ` +
         `(the package name follows the id, and an npm name is permanent)`,
     );
