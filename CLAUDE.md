@@ -61,9 +61,25 @@ number; never hand-edit it. A fresh, empty house stays `0.0.x`.
   **empty** changeset (`npx changeset add --empty`); it records the PR and merges
   green without republishing identical content.
 
+## Coverage
+
+A play's `Company` is a closed cast and its plots field it. Touch a culture and
+that culture must come out with **zero dead Company entries**: every place,
+piece, process, stance position and persona it lists is cast by at least one of
+its plots. Pitches, language and culture positions, and plans are never counted
+(they are keyed or held one way, not fielded in a scene). Check before you push:
+
+```
+node tests/company_coverage.mjs --report
+```
+
+The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
+casting something would be anachronistic or contrived, waive it with a reason in
+`tests/company-coverage-waivers.json`; never invent a scene to satisfy a counter.
+
 ## Protection
 
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); sources
 are credited where they are in the public domain, never claimed. `main` is
 protected: pull requests and the gate checks (`khai-tests`, `khai-guard`,
-`khai-branch-scope`) are required before merge.
+`khai-branch-scope`, `khai-company-coverage`) are required before merge.

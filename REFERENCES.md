@@ -98,6 +98,21 @@ What the house refuses, and the laws it holds every culture to.
 - **No culture ships unverified.** The house test holds every culture to the
   canon, the wiring, the language policy, the casting laws, and the mandatory
   type set; `npm test` is green before a culture merges.
+- **A Company entry is fielded or it is not claimed.** A play declares a closed
+  cast; its plots field that cast by linking it. An element the Company
+  advertises and no plot ever fields is a **dead entry**: the culture claims a
+  place, an artifact, a practice or a person that never appears in anything that
+  happened to it. Three kinds are never dead, because they are not fielded in a
+  scene by design: a **pitch** keys the run (the kit already exempts it), a
+  **position** is held one way by the persona that links it (a position never
+  links back), and a **plan** issues its orders to personas. What a scene fields,
+  and what is therefore counted, is places, pieces, processes, stance positions
+  and personas. Held as a **ratchet**, not a sweep: a pull request that touches a
+  culture must leave that culture at zero, so the debt can only shrink and the
+  work lands wherever someone is already looking (`tests/company_coverage.mjs`,
+  gated in CI). Where casting an element would be anachronistic or contrived (a
+  persona born after the last plot), it is **waived with a written reason** in
+  `tests/company-coverage-waivers.json` rather than given a fake scene.
 
 ## Encoding
 
