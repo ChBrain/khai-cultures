@@ -26,7 +26,7 @@ Ein junger Mann Mitte zwanzig, geboren nach der Einheit, der das geteilte Land n
 
 ## Action
 
-Er bewegt sich selbstverständlich im wieder vereinten Land, das der [Mauerfall 1989/90](plot_04_mauerfall.md) geschaffen hat. Die [Pünktlichkeit](process_puenktlichkeit.md) und die Gründlichkeit hat er geerbt, ohne ihre Angst zu teilen, und er trägt das [Erinnern](process_erinnern.md) weiter, sucht aber eine Form, die mahnt, ohne zu lähmen.
+Er bewegt sich selbstverständlich im wieder vereinten Land, das der [Mauerfall 1989/90](plot_05_mauerfall.md) geschaffen hat. Die [Pünktlichkeit](process_puenktlichkeit.md) und die Gründlichkeit hat er geerbt, ohne ihre Angst zu teilen, und er trägt das [Erinnern](process_erinnern.md) weiter, sucht aber eine Form, die mahnt, ohne zu lähmen.
 
 ## Shadow
 

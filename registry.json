@@ -11931,6 +11931,11 @@
           "title": "Bread"
         },
         {
+          "file": "piece_das_auto.md",
+          "kind": "piece",
+          "title": "The Car"
+        },
+        {
           "file": "piece_grundgesetz.md",
           "kind": "piece",
           "title": "The Basic Law"
@@ -11950,6 +11955,11 @@
           "file": "place_berlin.md",
           "kind": "place",
           "title": "Berlin"
+        },
+        {
+          "file": "place_die_autobahn.md",
+          "kind": "place",
+          "title": "The Autobahn"
         },
         {
           "file": "place_ruhrgebiet.md",
@@ -11992,7 +12002,13 @@
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_04_mauerfall.md",
+          "file": "plot_04_autofreie_sonntage.md",
+          "kind": "plot",
+          "title": "The Car-Free Sundays 1973",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_05_mauerfall.md",
           "kind": "plot",
           "title": "The Fall of the Wall 1989/90",
           "taxonomy": "play_germany.md"
