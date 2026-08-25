@@ -5,7 +5,7 @@ import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
-import { coverage, cultureIds as coveredCultureIds, readWaivers } from "./company_coverage.mjs";
+import { coverage, cultureIds as coveredCultureIds, allWaivers } from "./company_coverage.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const culturesDir = join(root, "cultures");
@@ -141,10 +141,10 @@ describe("Cultures house: every culture is a complete theatre", () => {
 // cannot be cast without contrivance (a persona born after the last plot), and
 // a waiver that names nothing real is how a valve turns into a hole.
 describe("Cultures house: the company-coverage waivers stay honest", () => {
-  const waivers = readWaivers();
+  const waivers = allWaivers();
   const ids = new Set(coveredCultureIds());
 
-  it("every waiver names a real culture", () => {
+  it("every waiver file sits in a real culture", () => {
     const unknown = Object.keys(waivers).filter((id) => !ids.has(id));
     expect(unknown, `waived cultures that do not exist: ${unknown.join(", ")}`).toEqual([]);
   });

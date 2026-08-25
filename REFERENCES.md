@@ -112,7 +112,8 @@ What the house refuses, and the laws it holds every culture to.
   work lands wherever someone is already looking (`tests/company_coverage.mjs`,
   gated in CI). Where casting an element would be anachronistic or contrived (a
   persona born after the last plot), it is **waived with a written reason** in
-  `tests/company-coverage-waivers.json` rather than given a fake scene.
+  `cultures/<id>/coverage-waivers.json`, beside the culture it excuses, rather
+  than given a fake scene.
 
 ## Encoding
 

@@ -38,7 +38,9 @@ Two properties follow. Dead entries can only be created by editing a culture's o
 
 ## The waiver
 
-Some elements cannot be cast without contrivance. Germany's Jonas was born after reunification and the play's last plot is 1989/90; casting him in it would be a lie for a counter. Those are waived in `tests/company-coverage-waivers.json`, one line per element, with a written reason. The house test holds the valve honest: a waiver must name a real culture, a real uncast element, and carry a reason of substance, and a waiver that goes stale (the element got cast, or was dropped) fails until it is removed.
+Some elements cannot be cast without contrivance. Germany's Jonas was born after reunification and the play's last plot is 1989/90; casting him in it would be a lie for a counter. Those are waived in `cultures/<id>/coverage-waivers.json`, one line per element, with a written reason. The house test holds the valve honest: a waiver must name a real culture, a real uncast element, and carry a reason of substance, and a waiver that goes stale (the element got cast, or was dropped) fails until it is removed.
+
+A waiver lives with its culture rather than in a house-wide file, for two reasons. It is read in the same diff as the casting it excuses, and it is inside `cultures/**`, so the culture PR that needs it can write it without crossing the source/test separation gate: a waiver file under `tests/` could only be edited from a governance branch, which is precisely the branch that never touches a culture. That flaw shipped in the first cut of this gate and was found by the first PR that needed a waiver. `node tests/company_coverage.mjs --report` lists every waiver in the house, so auditing them stays one command.
 
 Waivers are visible, reviewable and few by construction. A culture full of them is a culture that has not done the work, and that shows in the diff.
 
