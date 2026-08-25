@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La lengua castellana hablada en la orilla africana del Estrecho, con el seseo y la aspiración de la ese final que la hermanan con el habla del Campo de Gibraltar, y con un caudal de palabras tomadas de la dariya que aquí no se sienten prestadas: safi para dar un asunto por cerrado, el saludo y la despedida en árabe dichos sin traducir, y los nombres de la comida y de la fiesta que nadie se molesta en castellanizar. Posee además el vocabulario administrativo de una ciudad que se explica a sí misma en expedientes: residencia, aduana, tránsito, régimen especial.
+La lengua castellana como la hablan los ceutíes, con el seseo y la aspiración de la ese final que la hermanan con el habla del Campo de Gibraltar, y con un caudal de palabras tomadas de la dariya que aquí no se sienten prestadas: safi para dar un asunto por cerrado, el saludo y la despedida en árabe dichos sin traducir, y los nombres de la comida y de la fiesta que nadie se molesta en castellanizar. Posee además el vocabulario administrativo de una ciudad que se explica a sí misma en expedientes: residencia, aduana, tránsito, régimen especial.
 
 ## Orders
 

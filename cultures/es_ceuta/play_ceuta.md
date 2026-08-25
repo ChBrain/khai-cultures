@@ -47,7 +47,7 @@ Aquí la ciudad se lee por capas y todas siguen a la vista: la plaza fenicia y r
 - [la ceutinidad](position_culture_la_ceutinidad.md)
 - [el Estrecho](position_el_estrecho.md)
 - [las cuatro culturas](position_las_cuatro_culturas.md)
-- [el español ceutí](position_language_es_es_ce.md)
+- [el español ceutí](@chbrain/khai-cultures-tongues/position_language_es_es_ce.md)
 
 **Pieces**
 

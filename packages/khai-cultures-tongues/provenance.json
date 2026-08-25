@@ -34,5 +34,15 @@
     "tongue": "Tarifit, the Riffian Amazigh of the Rif coast",
     "review": "native",
     "note": "Written in Tarifit in Latin script, the convention of Riffian writing in Morocco and the diaspora; Tifinagh, official in Morocco since 2003, is not used in the city it came from. Registered as `rif` in the house's `khai.languages`, which routes it to assisted verification instead of the local detector. Read against the mnemonic when it moved here: two claims about Melilla, its households and its schools, were cut, because a position says what a tongue does to whoever holds it and not what a city does about it. The Rif stays, as the speech community that holds the tongue."
+  },
+  "position_language_es_es_ce.md": {
+    "from": "es_ceuta",
+    "tongue": "Ceutan Spanish, Andalusian in its sounds and full of Darija that nobody hears as borrowed",
+    "note": "Read against the mnemonic on the way through: it opened by placing itself on the African shore of the Strait, and where is not one of the four, so it now names the community that speaks it instead. Everything else is the office: the Darija it holds without translating, the register it forces at the official counter, the maritime lexicon it is losing with the trades."
+  },
+  "position_language_es_es_ml.md": {
+    "from": "es_melilla",
+    "tongue": "Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation",
+    "note": "Read against the mnemonic on the way through: two things were cut from its opening. It placed itself on the Rif coast, and where is not one of the four; and it explained its own closeness to the standard by who lives in the city, its garrison and its civil service, which is a claim about a place and not about a tongue. What stays is the strongest thing it says: that it orders its holder to state where they are from and since when before saying what they want."
   }
 }

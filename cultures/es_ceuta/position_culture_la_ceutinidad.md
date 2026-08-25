@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La pertenencia a una ciudad diminuta que está en África y vota en Europa, encajada entre [el Estrecho](position_el_estrecho.md) y una raya de siete kilómetros. Trae, sin haberlo elegido, la costumbre de vivir entre [las cuatro culturas](position_las_cuatro_culturas.md) que comparten calle, colegio y mercado, y de hablar [el español ceutí](position_language_es_es_ce.md) con la otra lengua siempre al lado. Trae también la memoria de la plaza sitiada, la de una ciudad que se abastece por mar, y el orgullo terco de quien sabe que su casa se nombra en los telediarios sólo cuando pasa algo malo en la frontera.
+La pertenencia a una ciudad diminuta que está en África y vota en Europa, encajada entre [el Estrecho](position_el_estrecho.md) y una raya de siete kilómetros. Trae, sin haberlo elegido, la costumbre de vivir entre [las cuatro culturas](position_las_cuatro_culturas.md) que comparten calle, colegio y mercado, y de hablar [el español ceutí](@chbrain/khai-cultures-tongues/position_language_es_es_ce.md) con la otra lengua siempre al lado. Trae también la memoria de la plaza sitiada, la de una ciudad que se abastece por mar, y el orgullo terco de quien sabe que su casa se nombra en los telediarios sólo cuando pasa algo malo en la frontera. Es una manera de ser [española](../spain/position_culture_espanolidad.md), no un segundo pasaporte.
 
 ## Orders
 

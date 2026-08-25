@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La lengua castellana hablada en la costa del Rif, con seseo y aspiración de origen andaluz sobre una base peninsular que la cercanía militar y funcionarial mantuvo siempre pegada al estándar, y con un fondo de palabras de la chelja y de la dariya que entran en la frase sin pedir permiso, sobre todo en la comida, en el saludo y en el trato del comercio. Posee además, como pocas hablas, el vocabulario completo de la acreditación: padrón, arraigo, tarjeta, expediente, resolución, recurso.
+La lengua castellana como la hablan los melillenses, con seseo y aspiración de origen andaluz sobre una base peninsular que nunca se apartó mucho del estándar, y con un fondo de palabras de la chelja y de la dariya que entran en la frase sin pedir permiso, sobre todo en la comida, en el saludo y en el trato del comercio. Posee además, como pocas hablas, el vocabulario completo de la acreditación: padrón, arraigo, tarjeta, expediente, resolución, recurso.
 
 ## Orders
 

@@ -6629,108 +6629,6 @@
     },
     {
       "kind": "culture",
-      "id": "ceuta",
-      "title": "Ceuta",
-      "description": "Ceuta representada: el monte Hacho sobre el Estrecho, las Murallas Reales y el pulso diario de la frontera.",
-      "iso": "ES-CE",
-      "members": [
-        {
-          "file": "persona_antonio.md",
-          "kind": "persona",
-          "title": "Antonio",
-          "type": "archetype",
-          "taxonomy": "position_el_estrecho.md"
-        },
-        {
-          "file": "persona_nadia.md",
-          "kind": "persona",
-          "title": "Nadia",
-          "type": "archetype",
-          "taxonomy": "position_las_cuatro_culturas.md"
-        },
-        {
-          "file": "piece_la_puerta_califal.md",
-          "kind": "piece",
-          "title": "The Caliphal Gate"
-        },
-        {
-          "file": "piece_la_valla.md",
-          "kind": "piece",
-          "title": "The Border Fence"
-        },
-        {
-          "file": "pitch_ceuta.md",
-          "kind": "pitch",
-          "title": "El Tono Ceutí",
-          "taxonomy": "play_ceuta.md"
-        },
-        {
-          "file": "place_el_monte_hacho.md",
-          "kind": "place",
-          "title": "Monte Hacho"
-        },
-        {
-          "file": "place_las_murallas_reales.md",
-          "kind": "place",
-          "title": "The Royal Walls"
-        },
-        {
-          "file": "play_ceuta.md",
-          "kind": "play",
-          "title": "Ceuta"
-        },
-        {
-          "file": "plot_01_la_conquista_de_1415.md",
-          "kind": "plot",
-          "title": "The Conquest of Ceuta",
-          "taxonomy": "play_ceuta.md"
-        },
-        {
-          "file": "plot_02_el_asedio_de_los_treinta_anos.md",
-          "kind": "plot",
-          "title": "The Thirty Year Siege",
-          "taxonomy": "play_ceuta.md"
-        },
-        {
-          "file": "plot_03_el_estatuto_de_1995.md",
-          "kind": "plot",
-          "title": "The Statute of Autonomy",
-          "taxonomy": "play_ceuta.md"
-        },
-        {
-          "file": "position_culture_la_ceutinidad.md",
-          "kind": "position",
-          "title": "Ceutan Culture"
-        },
-        {
-          "file": "position_el_estrecho.md",
-          "kind": "position",
-          "title": "The Strait"
-        },
-        {
-          "file": "position_language_es_es_ce.md",
-          "kind": "position",
-          "title": "Ceutan Spanish"
-        },
-        {
-          "file": "position_las_cuatro_culturas.md",
-          "kind": "position",
-          "title": "The Four Cultures"
-        },
-        {
-          "file": "process_el_comercio_atipico.md",
-          "kind": "process",
-          "title": "atypical border trade through the Tarajal"
-        },
-        {
-          "file": "process_la_ronda_de_las_fiestas.md",
-          "kind": "process",
-          "title": "the round of the four calendars"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "chad",
       "title": "Chad",
       "description": "Chad staged as a culture: one shore of many peoples, where Sahara and Sahel meet the green south.",
@@ -10282,6 +10180,103 @@
     },
     {
       "kind": "culture",
+      "id": "es_ceuta",
+      "title": "Ceuta",
+      "description": "Ceuta representada: el monte Hacho sobre el Estrecho, las Murallas Reales y el pulso diario de la frontera.",
+      "iso": "ES-CE",
+      "members": [
+        {
+          "file": "persona_antonio.md",
+          "kind": "persona",
+          "title": "Antonio",
+          "type": "archetype",
+          "taxonomy": "position_el_estrecho.md"
+        },
+        {
+          "file": "persona_nadia.md",
+          "kind": "persona",
+          "title": "Nadia",
+          "type": "archetype",
+          "taxonomy": "position_las_cuatro_culturas.md"
+        },
+        {
+          "file": "piece_la_puerta_califal.md",
+          "kind": "piece",
+          "title": "The Caliphal Gate"
+        },
+        {
+          "file": "piece_la_valla.md",
+          "kind": "piece",
+          "title": "The Border Fence"
+        },
+        {
+          "file": "pitch_ceuta.md",
+          "kind": "pitch",
+          "title": "El Tono Ceutí",
+          "taxonomy": "play_ceuta.md"
+        },
+        {
+          "file": "place_el_monte_hacho.md",
+          "kind": "place",
+          "title": "Monte Hacho"
+        },
+        {
+          "file": "place_las_murallas_reales.md",
+          "kind": "place",
+          "title": "The Royal Walls"
+        },
+        {
+          "file": "play_ceuta.md",
+          "kind": "play",
+          "title": "Ceuta"
+        },
+        {
+          "file": "plot_01_la_conquista_de_1415.md",
+          "kind": "plot",
+          "title": "The Conquest of Ceuta",
+          "taxonomy": "play_ceuta.md"
+        },
+        {
+          "file": "plot_02_el_asedio_de_los_treinta_anos.md",
+          "kind": "plot",
+          "title": "The Thirty Year Siege",
+          "taxonomy": "play_ceuta.md"
+        },
+        {
+          "file": "plot_03_el_estatuto_de_1995.md",
+          "kind": "plot",
+          "title": "The Statute of Autonomy",
+          "taxonomy": "play_ceuta.md"
+        },
+        {
+          "file": "position_culture_la_ceutinidad.md",
+          "kind": "position",
+          "title": "Ceutan Culture"
+        },
+        {
+          "file": "position_el_estrecho.md",
+          "kind": "position",
+          "title": "The Strait"
+        },
+        {
+          "file": "position_las_cuatro_culturas.md",
+          "kind": "position",
+          "title": "The Four Cultures"
+        },
+        {
+          "file": "process_el_comercio_atipico.md",
+          "kind": "process",
+          "title": "atypical border trade through the Tarajal"
+        },
+        {
+          "file": "process_la_ronda_de_las_fiestas.md",
+          "kind": "process",
+          "title": "the round of the four calendars"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
       "id": "es_melilla",
       "title": "Melilla",
       "description": "Melilla representada: la ciudadela sobre el mar de Alborán, el ensanche modernista y la raya de Beni Enzar.",
@@ -10364,11 +10359,6 @@
           "file": "position_la_raiz_amazigh.md",
           "kind": "position",
           "title": "The Amazigh Root"
-        },
-        {
-          "file": "position_language_es_es_ml.md",
-          "kind": "position",
-          "title": "Melillan Spanish"
         },
         {
           "file": "process_el_dia_de_la_ciudad.md",

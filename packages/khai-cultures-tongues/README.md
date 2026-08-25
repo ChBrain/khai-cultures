@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **7 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **9 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -26,14 +26,16 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 
 ## Contents
 
-| Variety                         | Tongue                                                                           | Language |
-| ------------------------------- | -------------------------------------------------------------------------------- | -------- |
-| `position_language_de_de_bw.md` | the Standard German of Baden-Württemberg, coloured by Swabian and Badisch        | `de`     |
-| `position_language_de_de_hh.md` | the Standard German of Hamburg, over a Low German floor                          | `de`     |
-| `position_language_de_de_sl.md` | the Standard German of the Saarland, on a Rhenish-Franconian base beside French  | `de`     |
-| `position_language_en_us_oh.md` | Ohio English, split between the Inland North and the Midland                     | `en`     |
-| `position_language_en_us_pa.md` | Pennsylvania English, Pittsburgh and the Dutch country                           | `en`     |
-| `position_language_en_us_va.md` | Virginian English, the drawl and the second-person plural English otherwise lost | `en`     |
-| `position_language_rif.md`      | Tarifit, the Riffian Amazigh of the Rif coast                                    | `rif`    |
+| Variety                         | Tongue                                                                                        | Language |
+| ------------------------------- | --------------------------------------------------------------------------------------------- | -------- |
+| `position_language_de_de_bw.md` | the Standard German of Baden-Württemberg, coloured by Swabian and Badisch                     | `de`     |
+| `position_language_de_de_hh.md` | the Standard German of Hamburg, over a Low German floor                                       | `de`     |
+| `position_language_de_de_sl.md` | the Standard German of the Saarland, on a Rhenish-Franconian base beside French               | `de`     |
+| `position_language_en_us_oh.md` | Ohio English, split between the Inland North and the Midland                                  | `en`     |
+| `position_language_en_us_pa.md` | Pennsylvania English, Pittsburgh and the Dutch country                                        | `en`     |
+| `position_language_en_us_va.md` | Virginian English, the drawl and the second-person plural English otherwise lost              | `en`     |
+| `position_language_es_es_ce.md` | Ceutan Spanish, Andalusian in its sounds and full of Darija that nobody hears as borrowed     | `es`     |
+| `position_language_es_es_ml.md` | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation | `es`     |
+| `position_language_rif.md`      | Tarifit, the Riffian Amazigh of the Rif coast                                                 | `rif`    |
 
 <!-- Rendered by build.mjs. Edit provenance.json or the varieties, then run `node build.mjs --write`. -->
