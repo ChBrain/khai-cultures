@@ -5,6 +5,7 @@ import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
+import { coverage, cultureIds as coveredCultureIds, readWaivers } from "./company_coverage.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const culturesDir = join(root, "cultures");
@@ -131,6 +132,37 @@ describe("Cultures house: every culture is a complete theatre", () => {
       expect(errors, `culture "${id}": ${errors.join("; ")}`).toEqual([]);
     });
   }
+});
+
+// The company-coverage ratchet (tests/company_coverage.mjs) gates a PR on the
+// cultures it touches: touch one and it must come out at zero. The gate needs
+// the diff, so it runs in CI, not here. What runs here is the hygiene of its
+// escape valve: a waiver is a written reason for one Company element that
+// cannot be cast without contrivance (a persona born after the last plot), and
+// a waiver that names nothing real is how a valve turns into a hole.
+describe("Cultures house: the company-coverage waivers stay honest", () => {
+  const waivers = readWaivers();
+  const ids = new Set(coveredCultureIds());
+
+  it("every waiver names a real culture", () => {
+    const unknown = Object.keys(waivers).filter((id) => !ids.has(id));
+    expect(unknown, `waived cultures that do not exist: ${unknown.join(", ")}`).toEqual([]);
+  });
+
+  it("every waiver carries a reason and points at an uncast Company element", () => {
+    const errors = [];
+    for (const [id, entries] of Object.entries(waivers)) {
+      if (!ids.has(id)) continue;
+      const { waived } = coverage(id);
+      for (const [file, reason] of Object.entries(entries)) {
+        if (typeof reason !== "string" || reason.trim().length < 12)
+          errors.push(`${id}/${file}: a waiver needs a written reason`);
+        else if (!waived.includes(file))
+          errors.push(`${id}/${file}: stale waiver, this element is cast or gone; drop it`);
+      }
+    }
+    expect(errors, errors.join("; ")).toEqual([]);
+  });
 });
 
 // The engines a culture runs on are CONTENT, not tooling. npm's *production*
