@@ -86,6 +86,26 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: node tests/company_coverage.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
+  khai-subnational-conformance:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: sub-national conformance ratchet
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node tests/culture_conformance.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
   khai-changeset-check:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
