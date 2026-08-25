@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-El origen rifeño de cerca de la mitad de la ciudad: familias de la comarca vecina asentadas aquí desde hace tres, cuatro o cinco generaciones, con [el tarifit](position_language_rif.md) como lengua de casa, el parentesco repartido a los dos lados de la raya y la memoria de los abuelos que trabajaron en las minas, en la obra y en el servicio doméstico de la ciudad que crecía. Posee su propio calendario de fiestas, su cocina, sus nombres, y una tradición oral que se sostiene sin escritura.
+El origen rifeño de cerca de la mitad de la ciudad: familias de la comarca vecina asentadas aquí desde hace tres, cuatro o cinco generaciones, con [el tarifit](@chbrain/khai-cultures-tongues/position_language_rif.md) como lengua de casa, el parentesco repartido a los dos lados de la raya y la memoria de los abuelos que trabajaron en las minas, en la obra y en el servicio doméstico de la ciudad que crecía. Posee su propio calendario de fiestas, su cocina, sus nombres, y una tradición oral que se sostiene sin escritura.
 
 ## Orders
 
