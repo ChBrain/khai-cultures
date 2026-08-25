@@ -77,6 +77,23 @@ The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
 casting something would be anachronistic or contrived, waive it with a reason in
 `cultures/<id>/coverage-waivers.json`; never invent a scene to satisfy a counter.
 
+## The tongues stand alone
+
+The language varieties live in `packages/khai-cultures-tongues`, held by the
+speech community that speaks them rather than by a country, and a culture casts
+one by package specifier. The package must be readable by someone who installed
+it and nothing else: no link escaping it, no link naming a culture package, no
+culture in its manifest, and every variety carrying its own `language:`. Checked
+on every pull request, not as a ratchet, because it started clean.
+
+```
+node tests/tongues_standalone.mjs
+```
+
+The implicit half is yours, not the gate's. A variety may name the ground it is
+spoken on, because Ceutan Spanish cannot be described without Ceuta; it may not
+lean on a culture's cast, its scenes or its objects to make sense.
+
 ## Sub-national cultures
 
 A sub-national culture carries two facts its `geo.json` already knows, and both
