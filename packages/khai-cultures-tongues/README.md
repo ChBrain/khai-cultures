@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **17 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **21 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -31,7 +31,9 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `position_language_de_de_bb.md` | Brandenburg Standard German, on the East Low German floor of the Mark, pulled toward Berlin                   | `de`     |
 | `position_language_de_de_be.md` | Berlin Standard German, over the Metrolekt of a Low German city that went High German and kept the old sounds | `de`     |
 | `position_language_de_de_bw.md` | the Standard German of Baden-Württemberg, coloured by Swabian and Badisch                                     | `de`     |
+| `position_language_de_de_by.md` | ?                                                                                                             | `de`     |
 | `position_language_de_de_hb.md` | Bremen Standard German, on a North Low Saxon floor, holding Low German words undeclined                       | `de`     |
+| `position_language_de_de_he.md` | ?                                                                                                             | `de`     |
 | `position_language_de_de_hh.md` | the Standard German of Hamburg, over a Low German floor                                                       | `de`     |
 | `position_language_de_de_mv.md` | Mecklenburg-Vorpommern Standard German, learned late and laid over Platt                                      | `de`     |
 | `position_language_de_de_ni.md` | Lower Saxon Standard German, the High German that lies over a Low German floor                                | `de`     |
@@ -39,6 +41,8 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `position_language_de_de_rp.md` | Rhineland-Palatinate Standard German, Palatine softness under the standard                                    | `de`     |
 | `position_language_de_de_sl.md` | the Standard German of the Saarland, on a Rhenish-Franconian base beside French                               | `de`     |
 | `position_language_de_de_sn.md` | Saxon German, the Meissen chancery sound that helped found the written standard                               | `de`     |
+| `position_language_de_de_st.md` | ?                                                                                                             | `de`     |
+| `position_language_de_de_th.md` | Thuringian German, singing and soft, and closest of all to the standard it helped make                        | `de`     |
 | `position_language_en_us_oh.md` | Ohio English, split between the Inland North and the Midland                                                  | `en`     |
 | `position_language_en_us_pa.md` | Pennsylvania English, Pittsburgh and the Dutch country                                                        | `en`     |
 | `position_language_en_us_va.md` | Virginian English, the drawl and the second-person plural English otherwise lost                              | `en`     |
