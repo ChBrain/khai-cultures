@@ -167,7 +167,37 @@
         "parent": "position_language.md"
       },
       {
+        "file": "es/position_language_es_es_an.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "es/position_language_es_es_ar.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "es/position_language_es_es_as.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "es/position_language_es_es_cb.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
         "file": "es/position_language_es_es_ce.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "es/position_language_es_es_cn.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "es/position_language_es_es_ib.md",
         "type": "position",
         "parent": "es/position_language_es.md"
       },
