@@ -13,6 +13,14 @@
 // are productions), and every variety carries its own `language:` so it is
 // self-describing outside the play inheritance it used to sit under.
 //
+// "Escapes the package" is resolved, not spelled. While the package was flat, any
+// `../` left it and a prefix test was the same thing. It is about to hold a
+// directory per language under one root, so a variety linking its own anchor must
+// write `../`, and the rule that matters - nothing reaches outside the package -
+// is the one that has to be checked. This module walks the package rather than
+// listing one directory of it, so it reads the same before and after that move
+// and cannot pass by finding nothing.
+//
 // The implicit half is prose, and no validator can hold it, but --drift gives the
 // reader a list to read against. A position's chapters are Has, Orders, Loses and
 // Drives OF THE OFFICE: what the tongue gives whoever holds it, what its grammar
@@ -32,12 +40,31 @@
 // the forbidden one name the same place.
 
 import { readFileSync, readdirSync, existsSync } from "node:fs";
-import { join, dirname } from "node:path";
+import { join, dirname, resolve, sep } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 
 export const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 export const TONGUES = join(ROOT, "packages", "khai-cultures-tongues");
 const CULTURE_PKG = /@chbrain\/khai-cultures-(?!tongues)/;
+
+/** Every markdown file in the package, as a path relative to the package root. */
+export function packageFiles(dir = TONGUES) {
+  const out = [];
+  const walk = (sub) => {
+    for (const e of readdirSync(join(dir, sub), { withFileTypes: true })) {
+      if (e.name.startsWith(".") || e.name === "node_modules") continue;
+      const rel = sub ? `${sub}/${e.name}` : e.name;
+      if (e.isDirectory()) walk(rel);
+      else if (e.name.endsWith(".md")) out.push(rel);
+    }
+  };
+  walk("");
+  return out.sort();
+}
+
+/** The varieties: every language position, wherever in the package it sits. */
+export const varietyFiles = (dir = TONGUES) =>
+  packageFiles(dir).filter((f) => f.split("/").pop().startsWith("position_language_"));
 
 /** Findings for the tongues package. Empty means it stands alone. */
 export function standalone({ dir = TONGUES } = {}) {
@@ -55,23 +82,28 @@ export function standalone({ dir = TONGUES } = {}) {
     }
   }
 
-  for (const file of readdirSync(dir).filter((f) => f.endsWith(".md"))) {
+  const root = resolve(dir);
+  for (const file of packageFiles(dir)) {
     const text = readFileSync(join(dir, file), "utf8");
+    const here = dirname(join(dir, file));
 
     for (const [, target] of text.matchAll(/\]\(([^()\s]+)\)/g)) {
       const clean = target.split("#")[0];
       if (!clean || /^[a-z][a-z0-9+.-]*:/i.test(clean)) continue;
-      if (clean.startsWith("../"))
+      if (CULTURE_PKG.test(clean)) {
+        findings.push(`${file}: link names a culture package (${clean}); the tongues stand alone`);
+        continue;
+      }
+      if (clean.startsWith("@")) continue;
+      const abs = resolve(here, clean);
+      if (abs !== root && !abs.startsWith(root + sep))
         findings.push(
           `${file}: link escapes the package (${clean}); a tongue reaches back into nothing`,
         );
-      else if (CULTURE_PKG.test(clean))
-        findings.push(`${file}: link names a culture package (${clean}); the tongues stand alone`);
-      else if (!clean.startsWith("@") && !existsSync(join(dir, clean)))
-        findings.push(`${file}: broken link (${clean})`);
+      else if (!existsSync(abs)) findings.push(`${file}: broken link (${clean})`);
     }
 
-    if (file.startsWith("position_language_") && !/^language:\s*\S+/m.test(text))
+    if (file.split("/").pop().startsWith("position_language_") && !/^language:\s*\S+/m.test(text))
       findings.push(
         `${file}: no \`language:\` of its own; a variety must be self-describing ` +
           `outside the play inheritance it left`,
@@ -105,6 +137,8 @@ function cultureNames(root) {
 
 /** Cultures that cast a variety, by the package specifier they cast it with. */
 function holders(root, files) {
+  // Keyed by the path the specifier carries, which is the path inside the package:
+  // flat while the package was flat, `de/...` once a language owns a directory.
   const out = new Map(files.map((f) => [f, new Set()]));
   const culturesDir = join(root, "cultures");
   if (!existsSync(culturesDir)) return out;
@@ -147,7 +181,7 @@ const mentions = (body, name) =>
 export function drift({ dir = TONGUES, root = ROOT } = {}) {
   const out = [];
   if (!existsSync(dir)) return out;
-  const files = readdirSync(dir).filter((f) => f.startsWith("position_language_"));
+  const files = varietyFiles(dir);
   const names = cultureNames(root);
   const held = holders(root, files);
   for (const file of files) {
@@ -179,7 +213,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
     process.exit(0);
   }
   const f = standalone();
-  const n = readdirSync(TONGUES).filter((x) => x.startsWith("position_language_")).length;
+  const n = varietyFiles().length;
   console.log(`tongues: ${n} varieties, ${f.length} finding(s)`);
   for (const line of f) console.log(`  ${line}`);
   process.exit(f.length ? 1 : 0);
