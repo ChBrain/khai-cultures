@@ -30,8 +30,8 @@ Die Eingliederung führt die drei großen Stämme (Bayer, Franken und Schwaben) 
 ## Stage
 
 - [das Bairische](@chbrain/khai-cultures-tongues/bar/position_language_bar.md) : der namensgebende Dialekt des altbayerischen Kernlandes.
-- [das Fränkische](position_fraenkisch.md) : die weiche Mundart der neuen nördlichen Gebiete.
-- [das Bayerisch-Schwäbische](position_bayerisch_schwaebisch.md) : die westliche Mundart des alemannischen Raumes.
+- [das Fränkische](@chbrain/khai-cultures-tongues/vmf/position_language_vmf.md) : die weiche Mundart der neuen nördlichen Gebiete.
+- [das Bayerisch-Schwäbische](@chbrain/khai-cultures-tongues/swg/position_language_swg.md) : die westliche Mundart des alemannischen Raumes.
 - [Monika](persona_monika.md) : die fränkische Lebküchnerin, die von Norden her unter die Krone kommt.
 - [Sepp](persona_sepp.md) : der Allgäuer Älpler, dessen Mundart im Westen an das Alemannische grenzt.
 

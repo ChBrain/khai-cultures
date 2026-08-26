@@ -143,5 +143,23 @@
   "bar/position_language_bar_nord.md": {
     "tongue": "Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge",
     "note": "Written here; no culture carried it in, because no culture in this house has yet staged the Oberpfalz - which does not bear on whether the tongue exists. Its whole identity is one feature running through every word: the old diphthongs fall the other way. Where Mittelbairisch has Bruada, Buach, liab and miad, Nordbairisch has Brouda, Bouch, leib and meid. Written in Northern Bavarian so the fall is visible rather than described. Its Loses names two pressures and one injury: Mittelbairisch from the south, Ostfränkisch from the north, and the fact that it is heard not as another Bavarian but as Bavarian spoken wrong - though its own reflex often preserves the older form."
+  },
+  "vmf/position_language_vmf.md": {
+    "from": "de_bavaria",
+    "tongue": "East Franconian: no hard consonants, -la, and a gendered two",
+    "note": "Came here as `position_fraenkisch.md`, an ordinary position titled \"The Franconian Language Variety\" tagged `language: de`, the sibling of the Bairisch file with the same fault: 102 words whose Has offered one real feature and two gestures, and whose Orders stated a cultural duty - dass man die Mundart pflegt - where a language position must state what the grammar forces. Rewritten to the mnemonic and written in Franconian. It carries the lenition that makes Gonsonanden of Konsonanten, the -la diminutive that is neither Bairisch's -l nor Swabian's -le, and the feature worth the most: East Franconian still genders the numeral two - zwee Männer, zwo Fraan, zwaa Kinner - which Standard German lost entirely. Its Loses is that it is heard as Bavarian from outside, because state membership travels further than language family. Exempt: franc has no vmf model."
+  },
+  "swg/position_language_swg.md": {
+    "tongue": "Swabian as such: the anchor, and its heartland is in another state",
+    "note": "Written here as the anchor. Swabian's centre is Württemberg, so this tongue was a cross-border speech community before the package had a word for one, which is the clearest case yet for holding tongues apart from countries. It carries the sch before consonant that gives it away in the first sentence, the -le, the -a endings, the nasal vowels, and the composite past it shares with all Upper German. Its Loses names the seam it sits on: no sharp boundary to Alemannic, so the further south, the longer Huus stays Huus instead of becoming Hous."
+  },
+  "swg/position_language_swg_by.md": {
+    "from": "de_bavaria",
+    "tongue": "Bavarian Swabian: Swabian on the wrong side of the state border",
+    "note": "Came here as `position_bayerisch_schwaebisch.md`, 100 words from the same template as the Franconian and Bairisch files, with a cultural duty for an Orders. Rewritten to the mnemonic, and narrowed: it is Augsburg and the Donau-Ries, Swabian with Bairisch as its neighbour rather than as its overlord. Sepp, its only holder, does not speak this - he is an Älpler in the Allgäu, and he moves to the Allgäu variety, so this file has no holder in the house and is none the worse for it."
+  },
+  "swg/position_language_swg_allgaeu.md": {
+    "tongue": "Allgäu Swabian: the variety standing on the Swabian/Alemannic line",
+    "note": "Written here. The Allgäu is where Swabian stops being Swabian: the New High German diphthongisation that made Hous of Huus runs out partway down the valley, and south of that the old monophthong stands, as it does in Vorarlberg and Switzerland. That isogloss crosses no other Bavarian region. Its own word marks it - d Alp and d Alpe, not d Alm, and whoever says Alm is not from here. Sepp holds this rather than the Augsburg variety he was filed under, which was the Bairisch mistake in miniature: the better-known name standing in for the actual tongue."
   }
 }

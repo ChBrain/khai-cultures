@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[das Fränkische](position_fraenkisch.md)
+[das Fränkische](@chbrain/khai-cultures-tongues/vmf/position_language_vmf.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Eine sechzigjährige Lebkuchenbäckerin aus Nürnberg, die eine traditionelle Ba
 
 ## Action
 
-Sie backt nach alten Rezepten, pflegt das fränkische Brauchtum für [das Fränkische](position_fraenkisch.md) und führt Besucher durch das historische Nürnberg.
+Sie backt nach alten Rezepten, pflegt das fränkische Brauchtum für [das Fränkische](@chbrain/khai-cultures-tongues/vmf/position_language_vmf.md) und führt Besucher durch das historische Nürnberg.
 
 ## Shadow
 

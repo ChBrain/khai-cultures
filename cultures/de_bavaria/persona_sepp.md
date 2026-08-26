@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[das Bayerisch-Schwäbische](position_bayerisch_schwaebisch.md)
+[das Bayerisch-Schwäbische](@chbrain/khai-cultures-tongues/swg/position_language_swg_allgaeu.md)
 
 ## Owner
 
@@ -27,7 +27,7 @@ Ein fünfundsechzigjähriger Senn aus dem Allgäu, der eine Alpe in den Allgäue
 
 ## Action
 
-Er stellt Allgäuer Bergkäse her, pflegt die Almwirtschaft für [das Bayerisch-Schwäbische](position_bayerisch_schwaebisch.md) und führt Bergwanderungen.
+Er stellt Allgäuer Bergkäse her, pflegt die Almwirtschaft für [das Bayerisch-Schwäbische](@chbrain/khai-cultures-tongues/swg/position_language_swg_allgaeu.md) und führt Bergwanderungen.
 
 ## Shadow
 
