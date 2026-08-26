@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **43 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **49 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -57,7 +57,13 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `en/position_language_en_us_pa.md`     | Pennsylvania English, Pittsburgh and the Dutch country                                                               | `en`       |
 | `en/position_language_en_us_va.md`     | Virginian English, the drawl and the second-person plural English otherwise lost                                     | `en`       |
 | `es/position_language_es.md`           | Spanish as such, of which every es_* here is a variety                                                               | `es`       |
+| `es/position_language_es_es_an.md`     | Andalusian Spanish: the open vowel doing the work the lost consonant did                                             | `es`       |
+| `es/position_language_es_es_ar.md`     | Aragonese Spanish: the -ico diminutive and the apocope, and the Aragonese underneath both                            | `es`       |
+| `es/position_language_es_es_as.md`     | Asturian Spanish: the -in diminutive and the metaphony the Asturian underneath pushes up                             | `es`       |
+| `es/position_language_es_es_cb.md`     | Cantabrian Spanish: the unhurried line and a vocabulary split between the sea and the high pasture                   | `es`       |
 | `es/position_language_es_es_ce.md`     | Ceutan Spanish, Andalusian in its sounds and full of Darija that nobody hears as borrowed                            | `es`       |
+| `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                               | `es`       |
+| `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                    | `es`       |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                        | `es`       |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                    | `gsw`      |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                           | `hsb`      |

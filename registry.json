@@ -629,113 +629,6 @@
     },
     {
       "kind": "culture",
-      "id": "andalusia",
-      "title": "Andalucía",
-      "description": "Andalucía representada: los infinitos olivos de Jaén, el cante jondo del tablao y el orgullo del jornalero rural.",
-      "iso": "ES-AN",
-      "members": [
-        {
-          "file": "persona_manuel.md",
-          "kind": "persona",
-          "title": "Manuel",
-          "type": "archetype",
-          "taxonomy": "position_jornalero_solidarity.md"
-        },
-        {
-          "file": "persona_rocio.md",
-          "kind": "persona",
-          "title": "Rocío",
-          "type": "archetype",
-          "taxonomy": "position_flamenco_art.md"
-        },
-        {
-          "file": "piece_castanets.md",
-          "kind": "piece",
-          "title": "Las Castañuelas de Granadillo"
-        },
-        {
-          "file": "piece_olive_jar.md",
-          "kind": "piece",
-          "title": "La Orza de Barro Vidriado"
-        },
-        {
-          "file": "pitch_andalusia.md",
-          "kind": "pitch",
-          "title": "El Tono Andaluz",
-          "taxonomy": "play_andalusia.md"
-        },
-        {
-          "file": "place_olive_grove.md",
-          "kind": "place",
-          "title": "El Olivar Andaluz"
-        },
-        {
-          "file": "place_tablao.md",
-          "kind": "place",
-          "title": "El Tablao Flamenco"
-        },
-        {
-          "file": "plan_guadalquivir_irrigation_control.md",
-          "kind": "plan",
-          "title": "El Plan de Riego del Guadalquivir"
-        },
-        {
-          "file": "play_andalusia.md",
-          "kind": "play",
-          "title": "Andalucía"
-        },
-        {
-          "file": "plot_01_exposition.md",
-          "kind": "plot",
-          "title": "La Exposición Iberoamericana de Sevilla",
-          "taxonomy": "play_andalusia.md"
-        },
-        {
-          "file": "plot_02_land_reform.md",
-          "kind": "plot",
-          "title": "La Reforma Agraria",
-          "taxonomy": "play_andalusia.md"
-        },
-        {
-          "file": "plot_03_referendum.md",
-          "kind": "plot",
-          "title": "El Referéndum de Autonomía",
-          "taxonomy": "play_andalusia.md"
-        },
-        {
-          "file": "position_culture_andalucismo.md",
-          "kind": "position",
-          "title": "Andalusianism"
-        },
-        {
-          "file": "position_flamenco_art.md",
-          "kind": "position",
-          "title": "El Arte Flamenco"
-        },
-        {
-          "file": "position_jornalero_solidarity.md",
-          "kind": "position",
-          "title": "El Jornalismo"
-        },
-        {
-          "file": "position_language_es_es_an.md",
-          "kind": "position",
-          "title": "Andalusian Spanish"
-        },
-        {
-          "file": "process_cante_jondo.md",
-          "kind": "process",
-          "title": "cante jondo de Flamenco"
-        },
-        {
-          "file": "process_olive_pressing.md",
-          "kind": "process",
-          "title": "prensado tradicional de Aceituna"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "andorra",
       "title": "Andorra",
       "description": "Andorra posada en escena: el coprincipat dels Pirineus, tancat entre muntanyes, definit per la seva neutralitat.",
@@ -1113,113 +1006,6 @@
           "file": "process_sailing_week.md",
           "kind": "process",
           "title": "Antigua Sailing Week"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "aragon",
-      "title": "Aragón",
-      "description": "Aragón representado: las cumbres del Pirineo, la jota en la plaza del Pilar y el pastoreo de las tierras secas.",
-      "iso": "ES-AR",
-      "members": [
-        {
-          "file": "persona_javier.md",
-          "kind": "persona",
-          "title": "Javier",
-          "type": "archetype",
-          "taxonomy": "position_aragonese_fueros.md"
-        },
-        {
-          "file": "persona_piluca.md",
-          "kind": "persona",
-          "title": "Piluca",
-          "type": "archetype",
-          "taxonomy": "position_pyrenean_conservation.md"
-        },
-        {
-          "file": "piece_jota_castanets.md",
-          "kind": "piece",
-          "title": "Las Castañuelas de Boj de Jota"
-        },
-        {
-          "file": "piece_pyrenean_shepherd_staff.md",
-          "kind": "piece",
-          "title": "El Cayado Pirenaico de Fresno"
-        },
-        {
-          "file": "pitch_aragon.md",
-          "kind": "pitch",
-          "title": "El Tono Aragonés",
-          "taxonomy": "play_aragon.md"
-        },
-        {
-          "file": "place_pilar.md",
-          "kind": "place",
-          "title": "La Basílica del Pilar"
-        },
-        {
-          "file": "place_pyrenees.md",
-          "kind": "place",
-          "title": "El Pirineo Aragonés"
-        },
-        {
-          "file": "plan_pyrenees_ecosystem_conservation.md",
-          "kind": "plan",
-          "title": "El Plan de Conservación Pirenaica"
-        },
-        {
-          "file": "play_aragon.md",
-          "kind": "play",
-          "title": "Aragón"
-        },
-        {
-          "file": "plot_01_union.md",
-          "kind": "plot",
-          "title": "La Unión de los Reinos",
-          "taxonomy": "play_aragon.md"
-        },
-        {
-          "file": "plot_02_zaragoza.md",
-          "kind": "plot",
-          "title": "Los Sitios de Zaragoza",
-          "taxonomy": "play_aragon.md"
-        },
-        {
-          "file": "plot_03_monegros.md",
-          "kind": "plot",
-          "title": "El Riego de los Monegros",
-          "taxonomy": "play_aragon.md"
-        },
-        {
-          "file": "position_aragonese_fueros.md",
-          "kind": "position",
-          "title": "Los Fueros Aragoneses"
-        },
-        {
-          "file": "position_culture_cultura_aragonesa.md",
-          "kind": "position",
-          "title": "Aragonese Culture"
-        },
-        {
-          "file": "position_language_es_es_ar.md",
-          "kind": "position",
-          "title": "Aragonese Spanish"
-        },
-        {
-          "file": "position_pyrenean_conservation.md",
-          "kind": "position",
-          "title": "La Conservación Pirenaica"
-        },
-        {
-          "file": "process_jota_dancing.md",
-          "kind": "process",
-          "title": "baile tradicional de la Jota Aragonesa"
-        },
-        {
-          "file": "process_mutton_roasting.md",
-          "kind": "process",
-          "title": "asado tradicional de Ternasco de Aragón"
         }
       ]
     },
@@ -1709,113 +1495,6 @@
           "file": "process_matagh.md",
           "kind": "process",
           "title": "The Matagh and the Table"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "asturias",
-      "title": "Asturias",
-      "description": "Asturias representada: las cumbres de los Picos de Europa, el escanciado de sidra y las cuencas mineras de carbón.",
-      "iso": "ES-AS",
-      "members": [
-        {
-          "file": "persona_covadonga.md",
-          "kind": "persona",
-          "title": "Covadonga",
-          "type": "archetype",
-          "taxonomy": "position_cantabrian_mountain.md"
-        },
-        {
-          "file": "persona_xuan.md",
-          "kind": "persona",
-          "title": "Xuan",
-          "type": "archetype",
-          "taxonomy": "position_asturian_language.md"
-        },
-        {
-          "file": "piece_cider_glass.md",
-          "kind": "piece",
-          "title": "El Vaso de Sidra Fino de Vidrio"
-        },
-        {
-          "file": "piece_miner_lamp.md",
-          "kind": "piece",
-          "title": "La Lámpara de Carburo de Mina"
-        },
-        {
-          "file": "pitch_asturias.md",
-          "kind": "pitch",
-          "title": "El Tono Asturiano",
-          "taxonomy": "play_asturias.md"
-        },
-        {
-          "file": "place_covadonga_sanctuary.md",
-          "kind": "place",
-          "title": "El Santuario de Covadonga"
-        },
-        {
-          "file": "place_picos_de_europa.md",
-          "kind": "place",
-          "title": "Los Picos de Europa"
-        },
-        {
-          "file": "plan_cantabrian_bear_conservation.md",
-          "kind": "plan",
-          "title": "El Plan de Conservación del Oso Pardo Cantábrico"
-        },
-        {
-          "file": "play_asturias.md",
-          "kind": "play",
-          "title": "Asturias"
-        },
-        {
-          "file": "plot_01_covadonga.md",
-          "kind": "plot",
-          "title": "La Batalla de Covadonga",
-          "taxonomy": "play_asturias.md"
-        },
-        {
-          "file": "plot_02_miners.md",
-          "kind": "plot",
-          "title": "La Revolución de Octubre",
-          "taxonomy": "play_asturias.md"
-        },
-        {
-          "file": "plot_03_picos.md",
-          "kind": "plot",
-          "title": "El Parque de los Picos",
-          "taxonomy": "play_asturias.md"
-        },
-        {
-          "file": "position_asturian_language.md",
-          "kind": "position",
-          "title": "El Asturiano"
-        },
-        {
-          "file": "position_cantabrian_mountain.md",
-          "kind": "position",
-          "title": "La Montaña Cantábrica"
-        },
-        {
-          "file": "position_culture_cultura_asturiana.md",
-          "kind": "position",
-          "title": "Asturian Culture"
-        },
-        {
-          "file": "position_language_es_es_as.md",
-          "kind": "position",
-          "title": "Asturian Spanish"
-        },
-        {
-          "file": "process_cabrales_aging.md",
-          "kind": "process",
-          "title": "maduración tradicional de Queso Cabrales en cueva natural"
-        },
-        {
-          "file": "process_cider_pouring.md",
-          "kind": "process",
-          "title": "escanciado tradicional de Sidra Asturiana"
         }
       ]
     },
@@ -2516,113 +2195,6 @@
           "file": "process_alsawt.md",
           "kind": "process",
           "title": "the Sawt Gathering"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "balearic_islands",
-      "title": "Islas Baleares",
-      "description": "Islas Baleares representada: las terrazas de la Tramuntana, la ensaimada de Palma y las praderas de Posidonia.",
-      "iso": "ES-IB",
-      "members": [
-        {
-          "file": "persona_coloma.md",
-          "kind": "persona",
-          "title": "Coloma",
-          "type": "archetype",
-          "taxonomy": "position_insular_bilingualism.md"
-        },
-        {
-          "file": "persona_miquel.md",
-          "kind": "persona",
-          "title": "Miquel",
-          "type": "archetype",
-          "taxonomy": "position_mediterranean_isolation.md"
-        },
-        {
-          "file": "piece_ensaimada_box.md",
-          "kind": "piece",
-          "title": "La Caja Octogonal de Ensaimada"
-        },
-        {
-          "file": "piece_traditional_fishing_trap.md",
-          "kind": "piece",
-          "title": "La Nansa Mallorquina de Junco"
-        },
-        {
-          "file": "pitch_balearic_islands.md",
-          "kind": "pitch",
-          "title": "El Tono Balear",
-          "taxonomy": "play_balearic_islands.md"
-        },
-        {
-          "file": "place_formentera_sea.md",
-          "kind": "place",
-          "title": "El Mar de Formentera"
-        },
-        {
-          "file": "place_serra_tramuntana.md",
-          "kind": "place",
-          "title": "La Serra de Tramuntana de Mallorca"
-        },
-        {
-          "file": "plan_posidonia_protection.md",
-          "kind": "plan",
-          "title": "El Plan de Protección de la Posidonia Balear"
-        },
-        {
-          "file": "play_balearic_islands.md",
-          "kind": "play",
-          "title": "Islas Baleares"
-        },
-        {
-          "file": "plot_01_conquest.md",
-          "kind": "plot",
-          "title": "La Conquista de Mallorca",
-          "taxonomy": "play_balearic_islands.md"
-        },
-        {
-          "file": "plot_02_tourism.md",
-          "kind": "plot",
-          "title": "El Boom Turístico",
-          "taxonomy": "play_balearic_islands.md"
-        },
-        {
-          "file": "plot_03_posidonia.md",
-          "kind": "plot",
-          "title": "El Decreto de la Posidonia",
-          "taxonomy": "play_balearic_islands.md"
-        },
-        {
-          "file": "position_culture_cultura_balear.md",
-          "kind": "position",
-          "title": "Balearic Culture"
-        },
-        {
-          "file": "position_insular_bilingualism.md",
-          "kind": "position",
-          "title": "El Bilingüismo Balear"
-        },
-        {
-          "file": "position_language_es_es_ib.md",
-          "kind": "position",
-          "title": "Balearic Spanish"
-        },
-        {
-          "file": "position_mediterranean_isolation.md",
-          "kind": "position",
-          "title": "La Insularidad Mediterránea"
-        },
-        {
-          "file": "process_ensaimada_baking.md",
-          "kind": "process",
-          "title": "horneado tradicional de Ensaimada Mallorquina"
-        },
-        {
-          "file": "process_posidonia_monitoring.md",
-          "kind": "process",
-          "title": "control ecológico de las praderas de Posidonia"
         }
       ]
     },
@@ -5334,220 +4906,6 @@
           "file": "process_tim_hortons.md",
           "kind": "process",
           "title": "The Tim Hortons Run"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "canary_islands",
-      "title": "Islas Canarias",
-      "description": "Islas Canarias representada: el pico del Teide, el silbo gomero entre barrancos y las plataneras del Atlántico.",
-      "iso": "ES-CN",
-      "members": [
-        {
-          "file": "persona_ayose.md",
-          "kind": "persona",
-          "title": "Ayose",
-          "type": "archetype",
-          "taxonomy": "position_island_isolation.md"
-        },
-        {
-          "file": "persona_yaiza.md",
-          "kind": "persona",
-          "title": "Yaiza",
-          "type": "archetype",
-          "taxonomy": "position_volcanic_agriculture.md"
-        },
-        {
-          "file": "piece_silbo_whistle.md",
-          "kind": "piece",
-          "title": "El Silbato Tradicional de Madera"
-        },
-        {
-          "file": "piece_volcanic_stone_mortar.md",
-          "kind": "piece",
-          "title": "El Mortero de Piedra Volcánica Negra"
-        },
-        {
-          "file": "pitch_canary_islands.md",
-          "kind": "pitch",
-          "title": "El Tono Canario",
-          "taxonomy": "play_canary_islands.md"
-        },
-        {
-          "file": "place_banana_plantation.md",
-          "kind": "place",
-          "title": "La Platanera Canaria"
-        },
-        {
-          "file": "place_teide.md",
-          "kind": "place",
-          "title": "El Pico del Teide"
-        },
-        {
-          "file": "plan_teide_national_park_conservation.md",
-          "kind": "plan",
-          "title": "El Plan de Conservación del Teide"
-        },
-        {
-          "file": "play_canary_islands.md",
-          "kind": "play",
-          "title": "Islas Canarias"
-        },
-        {
-          "file": "plot_01_conquest.md",
-          "kind": "plot",
-          "title": "El Fin de la Conquista",
-          "taxonomy": "play_canary_islands.md"
-        },
-        {
-          "file": "plot_02_columbus.md",
-          "kind": "plot",
-          "title": "La Escala de Colón",
-          "taxonomy": "play_canary_islands.md"
-        },
-        {
-          "file": "plot_03_teide.md",
-          "kind": "plot",
-          "title": "El Observatorio del Teide",
-          "taxonomy": "play_canary_islands.md"
-        },
-        {
-          "file": "position_culture_cultura_canaria.md",
-          "kind": "position",
-          "title": "Canarian Culture"
-        },
-        {
-          "file": "position_island_isolation.md",
-          "kind": "position",
-          "title": "El Aislamiento Insular"
-        },
-        {
-          "file": "position_language_es_es_cn.md",
-          "kind": "position",
-          "title": "Canarian Spanish"
-        },
-        {
-          "file": "position_volcanic_agriculture.md",
-          "kind": "position",
-          "title": "La Agricultura Volcánica"
-        },
-        {
-          "file": "process_banana_cultivation.md",
-          "kind": "process",
-          "title": "cultivo tradicional de Plátano de Canarias"
-        },
-        {
-          "file": "process_silbo_whistling.md",
-          "kind": "process",
-          "title": "lenguaje silbado tradicional del Silbo Gomero"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "cantabria",
-      "title": "Cantabria",
-      "description": "Cantabria representada: las cuevas de Altamira, las marismas de Santoña y las verdes cabañas de los valles pasiegos.",
-      "iso": "ES-CB",
-      "members": [
-        {
-          "file": "persona_nel.md",
-          "kind": "persona",
-          "title": "Nel",
-          "type": "archetype",
-          "taxonomy": "position_valle_pasiego.md"
-        },
-        {
-          "file": "persona_sabela.md",
-          "kind": "persona",
-          "title": "Sabela",
-          "type": "archetype",
-          "taxonomy": "position_mar_cantabrico.md"
-        },
-        {
-          "file": "piece_anchovy_tin.md",
-          "kind": "piece",
-          "title": "La Lata Metálica de Anchoas de Santoña"
-        },
-        {
-          "file": "piece_pasiego_basket.md",
-          "kind": "piece",
-          "title": "El Cuévano Pasiego de Avellano"
-        },
-        {
-          "file": "pitch_cantabria.md",
-          "kind": "pitch",
-          "title": "El Tono Cántabro",
-          "taxonomy": "play_cantabria.md"
-        },
-        {
-          "file": "place_altamira_cave.md",
-          "kind": "place",
-          "title": "La Cueva de Altamira"
-        },
-        {
-          "file": "place_santona_marshlands.md",
-          "kind": "place",
-          "title": "Las Marismas de Santoña"
-        },
-        {
-          "file": "plan_cantabrian_coastal_sanitation.md",
-          "kind": "plan",
-          "title": "El Plan de Saneamiento de las Bahías Cantabras"
-        },
-        {
-          "file": "play_cantabria.md",
-          "kind": "play",
-          "title": "Cantabria"
-        },
-        {
-          "file": "plot_01_altamira.md",
-          "kind": "plot",
-          "title": "El Descubrimiento de Altamira",
-          "taxonomy": "play_cantabria.md"
-        },
-        {
-          "file": "plot_02_fire.md",
-          "kind": "plot",
-          "title": "El Incendio de Santander",
-          "taxonomy": "play_cantabria.md"
-        },
-        {
-          "file": "plot_03_sanitation.md",
-          "kind": "plot",
-          "title": "El Saneamiento de las Bahías",
-          "taxonomy": "play_cantabria.md"
-        },
-        {
-          "file": "position_culture_cultura_cantabra.md",
-          "kind": "position",
-          "title": "Cantabrian Culture"
-        },
-        {
-          "file": "position_language_es_es_cb.md",
-          "kind": "position",
-          "title": "Cantabrian Spanish"
-        },
-        {
-          "file": "position_mar_cantabrico.md",
-          "kind": "position",
-          "title": "El Mar Cantábrico"
-        },
-        {
-          "file": "position_valle_pasiego.md",
-          "kind": "position",
-          "title": "El Valle Pasiego"
-        },
-        {
-          "file": "process_anchovy_salting.md",
-          "kind": "process",
-          "title": "salazón y sobado artesanal de Anchoa de Santoña"
-        },
-        {
-          "file": "process_sobao_baking.md",
-          "kind": "process",
-          "title": "horneado tradicional de Sobao Pasiego"
         }
       ]
     },
@@ -11136,6 +10494,618 @@
           "file": "process_market_day.md",
           "kind": "process",
           "title": "The Evening Promenade"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_andalusia",
+      "title": "Andalucía",
+      "description": "Andalucía representada: los infinitos olivos de Jaén, el cante jondo del tablao y el orgullo del jornalero rural.",
+      "iso": "ES-AN",
+      "members": [
+        {
+          "file": "persona_manuel.md",
+          "kind": "persona",
+          "title": "Manuel",
+          "type": "archetype",
+          "taxonomy": "position_jornalero_solidarity.md"
+        },
+        {
+          "file": "persona_rocio.md",
+          "kind": "persona",
+          "title": "Rocío",
+          "type": "archetype",
+          "taxonomy": "position_flamenco_art.md"
+        },
+        {
+          "file": "piece_castanets.md",
+          "kind": "piece",
+          "title": "Las Castañuelas de Granadillo"
+        },
+        {
+          "file": "piece_olive_jar.md",
+          "kind": "piece",
+          "title": "La Orza de Barro Vidriado"
+        },
+        {
+          "file": "pitch_andalusia.md",
+          "kind": "pitch",
+          "title": "El Tono Andaluz",
+          "taxonomy": "play_andalusia.md"
+        },
+        {
+          "file": "place_olive_grove.md",
+          "kind": "place",
+          "title": "El Olivar Andaluz"
+        },
+        {
+          "file": "place_tablao.md",
+          "kind": "place",
+          "title": "El Tablao Flamenco"
+        },
+        {
+          "file": "plan_guadalquivir_irrigation_control.md",
+          "kind": "plan",
+          "title": "El Plan de Riego del Guadalquivir"
+        },
+        {
+          "file": "play_andalusia.md",
+          "kind": "play",
+          "title": "Andalucía"
+        },
+        {
+          "file": "plot_01_exposition.md",
+          "kind": "plot",
+          "title": "La Exposición Iberoamericana de Sevilla",
+          "taxonomy": "play_andalusia.md"
+        },
+        {
+          "file": "plot_02_land_reform.md",
+          "kind": "plot",
+          "title": "La Reforma Agraria",
+          "taxonomy": "play_andalusia.md"
+        },
+        {
+          "file": "plot_03_referendum.md",
+          "kind": "plot",
+          "title": "El Referéndum de Autonomía",
+          "taxonomy": "play_andalusia.md"
+        },
+        {
+          "file": "position_culture_andalucismo.md",
+          "kind": "position",
+          "title": "Andalusianism"
+        },
+        {
+          "file": "position_flamenco_art.md",
+          "kind": "position",
+          "title": "El Arte Flamenco"
+        },
+        {
+          "file": "position_jornalero_solidarity.md",
+          "kind": "position",
+          "title": "El Jornalismo"
+        },
+        {
+          "file": "process_cante_jondo.md",
+          "kind": "process",
+          "title": "cante jondo de Flamenco"
+        },
+        {
+          "file": "process_olive_pressing.md",
+          "kind": "process",
+          "title": "prensado tradicional de Aceituna"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_aragon",
+      "title": "Aragón",
+      "description": "Aragón representado: las cumbres del Pirineo, la jota en la plaza del Pilar y el pastoreo de las tierras secas.",
+      "iso": "ES-AR",
+      "members": [
+        {
+          "file": "persona_javier.md",
+          "kind": "persona",
+          "title": "Javier",
+          "type": "archetype",
+          "taxonomy": "position_aragonese_fueros.md"
+        },
+        {
+          "file": "persona_piluca.md",
+          "kind": "persona",
+          "title": "Piluca",
+          "type": "archetype",
+          "taxonomy": "position_pyrenean_conservation.md"
+        },
+        {
+          "file": "piece_jota_castanets.md",
+          "kind": "piece",
+          "title": "Las Castañuelas de Boj de Jota"
+        },
+        {
+          "file": "piece_pyrenean_shepherd_staff.md",
+          "kind": "piece",
+          "title": "El Cayado Pirenaico de Fresno"
+        },
+        {
+          "file": "pitch_aragon.md",
+          "kind": "pitch",
+          "title": "El Tono Aragonés",
+          "taxonomy": "play_aragon.md"
+        },
+        {
+          "file": "place_pilar.md",
+          "kind": "place",
+          "title": "La Basílica del Pilar"
+        },
+        {
+          "file": "place_pyrenees.md",
+          "kind": "place",
+          "title": "El Pirineo Aragonés"
+        },
+        {
+          "file": "plan_pyrenees_ecosystem_conservation.md",
+          "kind": "plan",
+          "title": "El Plan de Conservación Pirenaica"
+        },
+        {
+          "file": "play_aragon.md",
+          "kind": "play",
+          "title": "Aragón"
+        },
+        {
+          "file": "plot_01_union.md",
+          "kind": "plot",
+          "title": "La Unión de los Reinos",
+          "taxonomy": "play_aragon.md"
+        },
+        {
+          "file": "plot_02_zaragoza.md",
+          "kind": "plot",
+          "title": "Los Sitios de Zaragoza",
+          "taxonomy": "play_aragon.md"
+        },
+        {
+          "file": "plot_03_monegros.md",
+          "kind": "plot",
+          "title": "El Riego de los Monegros",
+          "taxonomy": "play_aragon.md"
+        },
+        {
+          "file": "position_aragonese_fueros.md",
+          "kind": "position",
+          "title": "Los Fueros Aragoneses"
+        },
+        {
+          "file": "position_culture_cultura_aragonesa.md",
+          "kind": "position",
+          "title": "Aragonese Culture"
+        },
+        {
+          "file": "position_pyrenean_conservation.md",
+          "kind": "position",
+          "title": "La Conservación Pirenaica"
+        },
+        {
+          "file": "process_jota_dancing.md",
+          "kind": "process",
+          "title": "baile tradicional de la Jota Aragonesa"
+        },
+        {
+          "file": "process_mutton_roasting.md",
+          "kind": "process",
+          "title": "asado tradicional de Ternasco de Aragón"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_asturias",
+      "title": "Asturias",
+      "description": "Asturias representada: las cumbres de los Picos de Europa, el escanciado de sidra y las cuencas mineras de carbón.",
+      "iso": "ES-AS",
+      "members": [
+        {
+          "file": "persona_covadonga.md",
+          "kind": "persona",
+          "title": "Covadonga",
+          "type": "archetype",
+          "taxonomy": "position_cantabrian_mountain.md"
+        },
+        {
+          "file": "persona_xuan.md",
+          "kind": "persona",
+          "title": "Xuan",
+          "type": "archetype",
+          "taxonomy": "position_asturian_language.md"
+        },
+        {
+          "file": "piece_cider_glass.md",
+          "kind": "piece",
+          "title": "El Vaso de Sidra Fino de Vidrio"
+        },
+        {
+          "file": "piece_miner_lamp.md",
+          "kind": "piece",
+          "title": "La Lámpara de Carburo de Mina"
+        },
+        {
+          "file": "pitch_asturias.md",
+          "kind": "pitch",
+          "title": "El Tono Asturiano",
+          "taxonomy": "play_asturias.md"
+        },
+        {
+          "file": "place_covadonga_sanctuary.md",
+          "kind": "place",
+          "title": "El Santuario de Covadonga"
+        },
+        {
+          "file": "place_picos_de_europa.md",
+          "kind": "place",
+          "title": "Los Picos de Europa"
+        },
+        {
+          "file": "plan_cantabrian_bear_conservation.md",
+          "kind": "plan",
+          "title": "El Plan de Conservación del Oso Pardo Cantábrico"
+        },
+        {
+          "file": "play_asturias.md",
+          "kind": "play",
+          "title": "Asturias"
+        },
+        {
+          "file": "plot_01_covadonga.md",
+          "kind": "plot",
+          "title": "La Batalla de Covadonga",
+          "taxonomy": "play_asturias.md"
+        },
+        {
+          "file": "plot_02_miners.md",
+          "kind": "plot",
+          "title": "La Revolución de Octubre",
+          "taxonomy": "play_asturias.md"
+        },
+        {
+          "file": "plot_03_picos.md",
+          "kind": "plot",
+          "title": "El Parque de los Picos",
+          "taxonomy": "play_asturias.md"
+        },
+        {
+          "file": "position_asturian_language.md",
+          "kind": "position",
+          "title": "El Asturiano"
+        },
+        {
+          "file": "position_cantabrian_mountain.md",
+          "kind": "position",
+          "title": "La Montaña Cantábrica"
+        },
+        {
+          "file": "position_culture_cultura_asturiana.md",
+          "kind": "position",
+          "title": "Asturian Culture"
+        },
+        {
+          "file": "process_cabrales_aging.md",
+          "kind": "process",
+          "title": "maduración tradicional de Queso Cabrales en cueva natural"
+        },
+        {
+          "file": "process_cider_pouring.md",
+          "kind": "process",
+          "title": "escanciado tradicional de Sidra Asturiana"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_balearic_islands",
+      "title": "Islas Baleares",
+      "description": "Islas Baleares representada: las terrazas de la Tramuntana, la ensaimada de Palma y las praderas de Posidonia.",
+      "iso": "ES-IB",
+      "members": [
+        {
+          "file": "persona_coloma.md",
+          "kind": "persona",
+          "title": "Coloma",
+          "type": "archetype",
+          "taxonomy": "position_insular_bilingualism.md"
+        },
+        {
+          "file": "persona_miquel.md",
+          "kind": "persona",
+          "title": "Miquel",
+          "type": "archetype",
+          "taxonomy": "position_mediterranean_isolation.md"
+        },
+        {
+          "file": "piece_ensaimada_box.md",
+          "kind": "piece",
+          "title": "La Caja Octogonal de Ensaimada"
+        },
+        {
+          "file": "piece_traditional_fishing_trap.md",
+          "kind": "piece",
+          "title": "La Nansa Mallorquina de Junco"
+        },
+        {
+          "file": "pitch_balearic_islands.md",
+          "kind": "pitch",
+          "title": "El Tono Balear",
+          "taxonomy": "play_balearic_islands.md"
+        },
+        {
+          "file": "place_formentera_sea.md",
+          "kind": "place",
+          "title": "El Mar de Formentera"
+        },
+        {
+          "file": "place_serra_tramuntana.md",
+          "kind": "place",
+          "title": "La Serra de Tramuntana de Mallorca"
+        },
+        {
+          "file": "plan_posidonia_protection.md",
+          "kind": "plan",
+          "title": "El Plan de Protección de la Posidonia Balear"
+        },
+        {
+          "file": "play_balearic_islands.md",
+          "kind": "play",
+          "title": "Islas Baleares"
+        },
+        {
+          "file": "plot_01_conquest.md",
+          "kind": "plot",
+          "title": "La Conquista de Mallorca",
+          "taxonomy": "play_balearic_islands.md"
+        },
+        {
+          "file": "plot_02_tourism.md",
+          "kind": "plot",
+          "title": "El Boom Turístico",
+          "taxonomy": "play_balearic_islands.md"
+        },
+        {
+          "file": "plot_03_posidonia.md",
+          "kind": "plot",
+          "title": "El Decreto de la Posidonia",
+          "taxonomy": "play_balearic_islands.md"
+        },
+        {
+          "file": "position_culture_cultura_balear.md",
+          "kind": "position",
+          "title": "Balearic Culture"
+        },
+        {
+          "file": "position_insular_bilingualism.md",
+          "kind": "position",
+          "title": "El Bilingüismo Balear"
+        },
+        {
+          "file": "position_mediterranean_isolation.md",
+          "kind": "position",
+          "title": "La Insularidad Mediterránea"
+        },
+        {
+          "file": "process_ensaimada_baking.md",
+          "kind": "process",
+          "title": "horneado tradicional de Ensaimada Mallorquina"
+        },
+        {
+          "file": "process_posidonia_monitoring.md",
+          "kind": "process",
+          "title": "control ecológico de las praderas de Posidonia"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_canary_islands",
+      "title": "Islas Canarias",
+      "description": "Islas Canarias representada: el pico del Teide, el silbo gomero entre barrancos y las plataneras del Atlántico.",
+      "iso": "ES-CN",
+      "members": [
+        {
+          "file": "persona_ayose.md",
+          "kind": "persona",
+          "title": "Ayose",
+          "type": "archetype",
+          "taxonomy": "position_island_isolation.md"
+        },
+        {
+          "file": "persona_yaiza.md",
+          "kind": "persona",
+          "title": "Yaiza",
+          "type": "archetype",
+          "taxonomy": "position_volcanic_agriculture.md"
+        },
+        {
+          "file": "piece_silbo_whistle.md",
+          "kind": "piece",
+          "title": "El Silbato Tradicional de Madera"
+        },
+        {
+          "file": "piece_volcanic_stone_mortar.md",
+          "kind": "piece",
+          "title": "El Mortero de Piedra Volcánica Negra"
+        },
+        {
+          "file": "pitch_canary_islands.md",
+          "kind": "pitch",
+          "title": "El Tono Canario",
+          "taxonomy": "play_canary_islands.md"
+        },
+        {
+          "file": "place_banana_plantation.md",
+          "kind": "place",
+          "title": "La Platanera Canaria"
+        },
+        {
+          "file": "place_teide.md",
+          "kind": "place",
+          "title": "El Pico del Teide"
+        },
+        {
+          "file": "plan_teide_national_park_conservation.md",
+          "kind": "plan",
+          "title": "El Plan de Conservación del Teide"
+        },
+        {
+          "file": "play_canary_islands.md",
+          "kind": "play",
+          "title": "Islas Canarias"
+        },
+        {
+          "file": "plot_01_conquest.md",
+          "kind": "plot",
+          "title": "El Fin de la Conquista",
+          "taxonomy": "play_canary_islands.md"
+        },
+        {
+          "file": "plot_02_columbus.md",
+          "kind": "plot",
+          "title": "La Escala de Colón",
+          "taxonomy": "play_canary_islands.md"
+        },
+        {
+          "file": "plot_03_teide.md",
+          "kind": "plot",
+          "title": "El Observatorio del Teide",
+          "taxonomy": "play_canary_islands.md"
+        },
+        {
+          "file": "position_culture_cultura_canaria.md",
+          "kind": "position",
+          "title": "Canarian Culture"
+        },
+        {
+          "file": "position_island_isolation.md",
+          "kind": "position",
+          "title": "El Aislamiento Insular"
+        },
+        {
+          "file": "position_volcanic_agriculture.md",
+          "kind": "position",
+          "title": "La Agricultura Volcánica"
+        },
+        {
+          "file": "process_banana_cultivation.md",
+          "kind": "process",
+          "title": "cultivo tradicional de Plátano de Canarias"
+        },
+        {
+          "file": "process_silbo_whistling.md",
+          "kind": "process",
+          "title": "lenguaje silbado tradicional del Silbo Gomero"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_cantabria",
+      "title": "Cantabria",
+      "description": "Cantabria representada: las cuevas de Altamira, las marismas de Santoña y las verdes cabañas de los valles pasiegos.",
+      "iso": "ES-CB",
+      "members": [
+        {
+          "file": "persona_nel.md",
+          "kind": "persona",
+          "title": "Nel",
+          "type": "archetype",
+          "taxonomy": "position_valle_pasiego.md"
+        },
+        {
+          "file": "persona_sabela.md",
+          "kind": "persona",
+          "title": "Sabela",
+          "type": "archetype",
+          "taxonomy": "position_mar_cantabrico.md"
+        },
+        {
+          "file": "piece_anchovy_tin.md",
+          "kind": "piece",
+          "title": "La Lata Metálica de Anchoas de Santoña"
+        },
+        {
+          "file": "piece_pasiego_basket.md",
+          "kind": "piece",
+          "title": "El Cuévano Pasiego de Avellano"
+        },
+        {
+          "file": "pitch_cantabria.md",
+          "kind": "pitch",
+          "title": "El Tono Cántabro",
+          "taxonomy": "play_cantabria.md"
+        },
+        {
+          "file": "place_altamira_cave.md",
+          "kind": "place",
+          "title": "La Cueva de Altamira"
+        },
+        {
+          "file": "place_santona_marshlands.md",
+          "kind": "place",
+          "title": "Las Marismas de Santoña"
+        },
+        {
+          "file": "plan_cantabrian_coastal_sanitation.md",
+          "kind": "plan",
+          "title": "El Plan de Saneamiento de las Bahías Cantabras"
+        },
+        {
+          "file": "play_cantabria.md",
+          "kind": "play",
+          "title": "Cantabria"
+        },
+        {
+          "file": "plot_01_altamira.md",
+          "kind": "plot",
+          "title": "El Descubrimiento de Altamira",
+          "taxonomy": "play_cantabria.md"
+        },
+        {
+          "file": "plot_02_fire.md",
+          "kind": "plot",
+          "title": "El Incendio de Santander",
+          "taxonomy": "play_cantabria.md"
+        },
+        {
+          "file": "plot_03_sanitation.md",
+          "kind": "plot",
+          "title": "El Saneamiento de las Bahías",
+          "taxonomy": "play_cantabria.md"
+        },
+        {
+          "file": "position_culture_cultura_cantabra.md",
+          "kind": "position",
+          "title": "Cantabrian Culture"
+        },
+        {
+          "file": "position_mar_cantabrico.md",
+          "kind": "position",
+          "title": "El Mar Cantábrico"
+        },
+        {
+          "file": "position_valle_pasiego.md",
+          "kind": "position",
+          "title": "El Valle Pasiego"
+        },
+        {
+          "file": "process_anchovy_salting.md",
+          "kind": "process",
+          "title": "salazón y sobado artesanal de Anchoa de Santoña"
+        },
+        {
+          "file": "process_sobao_baking.md",
+          "kind": "process",
+          "title": "horneado tradicional de Sobao Pasiego"
         }
       ]
     },

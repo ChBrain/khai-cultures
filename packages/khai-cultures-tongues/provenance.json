@@ -210,5 +210,35 @@
     "tongue": "Moselle Franconian: the tongue that says dat Dorf, which is the only one that does",
     "review": "native",
     "note": "Written here. The rule that earns it a file is a single two-word formula off the Rhenish fan: Moselle Franconian is the band where the second sound shift reached Dorf but not dat. Its northern neighbour, Ripuarian, says dat Dorp; its southern neighbour, Rhine Franconian, says das Dorf; only this band says dat Dorf. Categorical, textbook, and visible in writing, and the three shipped files test it - the check run for this batch shows dat present in ksh and mos and absent in pfl and hes, and Dorf and Dorp appearing together only in the mos file, where they are the quoted minimal pair. Sourced to Wenker and Wrede's Deutscher Sprachatlas and the Rhenish-fan isoglosses it drew (the dorp/dorf line and the dat/das line). Its Orders is the Eifeler Regel, which no other German variety has: word-final n drops before a consonant and stands before a vowel or d, t, z, h, n, so the speaker must know the next word before finishing the current one. Named honestly as strongest in the north and in Luxembourgish and looser southward, per the entry price's categorical-or-shades-off test. Its Loses is that it has no name of its own - every name it has is a region's or a Land's, and one of them, Saarlaendisch, covers two different tongues because the dat/das line runs through what that name spans. Luxembourgish is named as what this tongue is when it gets a script and a name, which is a tongue-level fact and not a claim about any culture's institutions. Carries `language: de-x-mos`; lives under `de/`. Checked against every German sibling: five own markers present, at most one in any other file and that one is `dat`, which is a genuinely shared northern feature and exactly what the file says is not enough to identify it; token overlap 5-11 percent."
+  },
+  "es/position_language_es_es_an.md": {
+    "from": "es_andalusia",
+    "tongue": "Andalusian Spanish: the open vowel doing the work the lost consonant did",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office - the aspirated or dropped final s that leaves the vowel open and long to carry the plural on its own, the seseo and ceceo folding two letters into one sound, and the western ustedes that serves as the only plural where the rest of Spanish keeps two. Its Loses is the sharpest of the six: it loses the final consonant itself, and it loses again when that opening is judged as carelessness rather than read as the rule it is."
+  },
+  "es/position_language_es_es_ar.md": {
+    "from": "es_aragon",
+    "tongue": "Aragonese Spanish: the -ico diminutive and the apocope, and the Aragonese underneath both",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Its Has opens as a fragment rather than a sentence - `Lo que el castellano de Aragon conserva de la lengua aragonesa que tiene debajo` - which is left standing because it answers the chapter's question directly; the four chapters are the office throughout. It names Aragon as its own subject and not as a culture's institutions, which is the allowance a variety has for identifying itself."
+  },
+  "es/position_language_es_es_as.md": {
+    "from": "es_asturias",
+    "tongue": "Asturian Spanish: the -in diminutive and the metaphony the Asturian underneath pushes up",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office - the metaphony closing the final vowels, the -in and -ina against Castilian -ito and -ita, and the mine, sea and brana vocabulary that the Spanish of other regions does not have to hand."
+  },
+  "es/position_language_es_es_ib.md": {
+    "from": "es_balearic_islands",
+    "tongue": "Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Its Loses is the good one and it is precisely stated - the salted article, es and sa, cannot cross into Castilian because Castilian grammar has no slot for it, so the feature stays trapped in the language of the house and never reaches the language of dealings. It names Mallorcan as the tongue next door, which is the allowance."
+  },
+  "es/position_language_es_es_cn.md": {
+    "from": "es_canary_islands",
+    "tongue": "Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office. It reaches toward the American varieties rather than the peninsular ones, and says so about the tongue and not about the islands."
+  },
+  "es/position_language_es_es_cb.md": {
+    "from": "es_cantabria",
+    "tongue": "Cantabrian Spanish: the unhurried line and a vocabulary split between the sea and the high pasture",
+    "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office - the paused intonation, and the double lexicon of boat and cattle that one speaker carries without either half feeling borrowed."
   }
 }
