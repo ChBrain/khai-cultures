@@ -9246,6 +9246,186 @@
     },
     {
       "kind": "culture",
+      "id": "de_schleswig_holstein",
+      "title": "Schleswig-Holstein",
+      "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
+      "iso": "DE-SH",
+      "members": [
+        {
+          "file": "persona_artelt.md",
+          "kind": "persona",
+          "title": "Karl Artelt",
+          "type": "real",
+          "taxonomy": "position_moin.md"
+        },
+        {
+          "file": "persona_merle.md",
+          "kind": "persona",
+          "title": "Merle",
+          "type": "archetype",
+          "taxonomy": "position_moin.md"
+        },
+        {
+          "file": "persona_okke.md",
+          "kind": "persona",
+          "title": "Okke",
+          "type": "archetype",
+          "taxonomy": "position_deichgraf.md"
+        },
+        {
+          "file": "persona_soenke.md",
+          "kind": "persona",
+          "title": "Sönke",
+          "type": "archetype",
+          "taxonomy": "position_grenzland.md"
+        },
+        {
+          "file": "persona_storm.md",
+          "kind": "persona",
+          "title": "Theodor Storm",
+          "type": "real",
+          "taxonomy": "position_grenzland.md"
+        },
+        {
+          "file": "persona_wiebke.md",
+          "kind": "persona",
+          "title": "Wiebke",
+          "type": "archetype",
+          "taxonomy": "position_deichgraf.md"
+        },
+        {
+          "file": "persona_wullenwever.md",
+          "kind": "persona",
+          "title": "Jürgen Wullenwever",
+          "type": "real",
+          "taxonomy": "position_kaufmann.md"
+        },
+        {
+          "file": "piece_deich.md",
+          "kind": "piece",
+          "title": "The Dyke"
+        },
+        {
+          "file": "piece_krabben.md",
+          "kind": "piece",
+          "title": "North Sea Shrimp"
+        },
+        {
+          "file": "piece_schimmelreiter.md",
+          "kind": "piece",
+          "title": "The Rider on the White Horse"
+        },
+        {
+          "file": "pitch_sh.md",
+          "kind": "pitch",
+          "title": "The Key Between the Seas",
+          "taxonomy": "play_schleswig_holstein.md"
+        },
+        {
+          "file": "place_flensburg.md",
+          "kind": "place",
+          "title": "Flensburg"
+        },
+        {
+          "file": "place_husum.md",
+          "kind": "place",
+          "title": "Husum"
+        },
+        {
+          "file": "place_kiel.md",
+          "kind": "place",
+          "title": "Kiel"
+        },
+        {
+          "file": "place_luebeck.md",
+          "kind": "place",
+          "title": "Lübeck"
+        },
+        {
+          "file": "place_wattenmeer.md",
+          "kind": "place",
+          "title": "The Wadden Sea"
+        },
+        {
+          "file": "plan_das_miteinander_der_minderheiten.md",
+          "kind": "plan",
+          "title": "das Miteinander der Minderheiten",
+          "taxonomy": "position_grenzland.md"
+        },
+        {
+          "file": "play_schleswig_holstein.md",
+          "kind": "play",
+          "title": "Schleswig-Holstein"
+        },
+        {
+          "file": "plot_01_hanse.md",
+          "kind": "plot",
+          "title": "The Hanseatic League",
+          "taxonomy": "play_schleswig_holstein.md"
+        },
+        {
+          "file": "plot_02_mandraenke_1362.md",
+          "kind": "plot",
+          "title": "The Great Drowning 1362",
+          "taxonomy": "play_schleswig_holstein.md"
+        },
+        {
+          "file": "plot_03_1864.md",
+          "kind": "plot",
+          "title": "The Second Schleswig War 1864",
+          "taxonomy": "play_schleswig_holstein.md"
+        },
+        {
+          "file": "plot_04_kieler_matrosenaufstand.md",
+          "kind": "plot",
+          "title": "The Kiel Mutiny 1918",
+          "taxonomy": "play_schleswig_holstein.md"
+        },
+        {
+          "file": "plot_05_volksabstimmung_1920.md",
+          "kind": "plot",
+          "title": "The Schleswig Plebiscite 1920",
+          "taxonomy": "play_schleswig_holstein.md"
+        },
+        {
+          "file": "position_culture_schleswig_holsteinische_kultur.md",
+          "kind": "position",
+          "title": "Schleswig-Holstein Culture"
+        },
+        {
+          "file": "position_deichgraf.md",
+          "kind": "position",
+          "title": "The Dyke Master"
+        },
+        {
+          "file": "position_grenzland.md",
+          "kind": "position",
+          "title": "The Borderland"
+        },
+        {
+          "file": "position_kaufmann.md",
+          "kind": "position",
+          "title": "The Merchant"
+        },
+        {
+          "file": "position_moin.md",
+          "kind": "position",
+          "title": "Moin"
+        },
+        {
+          "file": "process_deichbau.md",
+          "kind": "process",
+          "title": "Dyke Building"
+        },
+        {
+          "file": "process_kieler_woche.md",
+          "kind": "process",
+          "title": "Kiel Week"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
       "id": "de_thuringia",
       "title": "Thüringen",
       "description": "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe.",
@@ -29101,196 +29281,6 @@
           "file": "process_almajlis.md",
           "kind": "process",
           "title": "the Majlis and the Coffee"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "schleswig_holstein",
-      "title": "Schleswig-Holstein",
-      "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
-      "iso": "DE-SH",
-      "members": [
-        {
-          "file": "persona_artelt.md",
-          "kind": "persona",
-          "title": "Karl Artelt",
-          "type": "real",
-          "taxonomy": "position_moin.md"
-        },
-        {
-          "file": "persona_merle.md",
-          "kind": "persona",
-          "title": "Merle",
-          "type": "archetype",
-          "taxonomy": "position_moin.md"
-        },
-        {
-          "file": "persona_okke.md",
-          "kind": "persona",
-          "title": "Okke",
-          "type": "archetype",
-          "taxonomy": "position_deichgraf.md"
-        },
-        {
-          "file": "persona_soenke.md",
-          "kind": "persona",
-          "title": "Sönke",
-          "type": "archetype",
-          "taxonomy": "position_grenzland.md"
-        },
-        {
-          "file": "persona_storm.md",
-          "kind": "persona",
-          "title": "Theodor Storm",
-          "type": "real",
-          "taxonomy": "position_grenzland.md"
-        },
-        {
-          "file": "persona_wiebke.md",
-          "kind": "persona",
-          "title": "Wiebke",
-          "type": "archetype",
-          "taxonomy": "position_deichgraf.md"
-        },
-        {
-          "file": "persona_wullenwever.md",
-          "kind": "persona",
-          "title": "Jürgen Wullenwever",
-          "type": "real",
-          "taxonomy": "position_kaufmann.md"
-        },
-        {
-          "file": "piece_deich.md",
-          "kind": "piece",
-          "title": "The Dyke"
-        },
-        {
-          "file": "piece_krabben.md",
-          "kind": "piece",
-          "title": "North Sea Shrimp"
-        },
-        {
-          "file": "piece_schimmelreiter.md",
-          "kind": "piece",
-          "title": "The Rider on the White Horse"
-        },
-        {
-          "file": "pitch_sh.md",
-          "kind": "pitch",
-          "title": "The Key Between the Seas",
-          "taxonomy": "play_schleswig_holstein.md"
-        },
-        {
-          "file": "place_flensburg.md",
-          "kind": "place",
-          "title": "Flensburg"
-        },
-        {
-          "file": "place_husum.md",
-          "kind": "place",
-          "title": "Husum"
-        },
-        {
-          "file": "place_kiel.md",
-          "kind": "place",
-          "title": "Kiel"
-        },
-        {
-          "file": "place_luebeck.md",
-          "kind": "place",
-          "title": "Lübeck"
-        },
-        {
-          "file": "place_wattenmeer.md",
-          "kind": "place",
-          "title": "The Wadden Sea"
-        },
-        {
-          "file": "plan_das_miteinander_der_minderheiten.md",
-          "kind": "plan",
-          "title": "das Miteinander der Minderheiten",
-          "taxonomy": "position_grenzland.md"
-        },
-        {
-          "file": "play_schleswig_holstein.md",
-          "kind": "play",
-          "title": "Schleswig-Holstein"
-        },
-        {
-          "file": "plot_01_hanse.md",
-          "kind": "plot",
-          "title": "The Hanseatic League",
-          "taxonomy": "play_schleswig_holstein.md"
-        },
-        {
-          "file": "plot_02_mandraenke_1362.md",
-          "kind": "plot",
-          "title": "The Great Drowning 1362",
-          "taxonomy": "play_schleswig_holstein.md"
-        },
-        {
-          "file": "plot_03_1864.md",
-          "kind": "plot",
-          "title": "The Second Schleswig War 1864",
-          "taxonomy": "play_schleswig_holstein.md"
-        },
-        {
-          "file": "plot_04_kieler_matrosenaufstand.md",
-          "kind": "plot",
-          "title": "The Kiel Mutiny 1918",
-          "taxonomy": "play_schleswig_holstein.md"
-        },
-        {
-          "file": "plot_05_volksabstimmung_1920.md",
-          "kind": "plot",
-          "title": "The Schleswig Plebiscite 1920",
-          "taxonomy": "play_schleswig_holstein.md"
-        },
-        {
-          "file": "position_culture_schleswig_holsteinische_kultur.md",
-          "kind": "position",
-          "title": "Schleswig-Holstein Culture"
-        },
-        {
-          "file": "position_deichgraf.md",
-          "kind": "position",
-          "title": "The Dyke Master"
-        },
-        {
-          "file": "position_grenzland.md",
-          "kind": "position",
-          "title": "The Borderland"
-        },
-        {
-          "file": "position_kaufmann.md",
-          "kind": "position",
-          "title": "The Merchant"
-        },
-        {
-          "file": "position_language_de_de_sh.md",
-          "kind": "position",
-          "title": "Schleswig-Holstein Standard German"
-        },
-        {
-          "file": "position_language_nds.md",
-          "kind": "position",
-          "title": "Low German"
-        },
-        {
-          "file": "position_moin.md",
-          "kind": "position",
-          "title": "Moin"
-        },
-        {
-          "file": "process_deichbau.md",
-          "kind": "process",
-          "title": "Dyke Building"
-        },
-        {
-          "file": "process_kieler_woche.md",
-          "kind": "process",
-          "title": "Kiel Week"
         }
       ]
     },
