@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **49 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **56 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -32,6 +32,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                            | `bar`      |
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                       | `bar`      |
 | `de/position_language_de.md`           | German as such, of which every de_* here is a variety                                                                | `de`       |
+| `de/position_language_de_ch.md`        | Swiss Standard German: a written form and almost nothing else                                                        | `de`       |
 | `de/position_language_de_de_bb.md`     | Brandenburg Standard German, on the East Low German floor of the Mark, pulled toward Berlin                          | `de`       |
 | `de/position_language_de_de_be.md`     | Berlin Standard German, over the Metrolekt of a Low German city that went High German and kept the old sounds        | `de`       |
 | `de/position_language_de_de_bw.md`     | the Standard German of Baden-Württemberg, coloured by Swabian and Badisch                                            | `de`       |
@@ -48,6 +49,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `de/position_language_de_de_sn.md`     | Saxon German, the Meissen chancery sound that helped found the written standard                                      | `de`       |
 | `de/position_language_de_de_st.md`     | Saxony-Anhalt German, the Anhalt and Mansfeld sound that fed the chancery language                                   | `de`       |
 | `de/position_language_de_de_th.md`     | Thuringian German, singing and soft, and closest of all to the standard it helped make                               | `de`       |
+| `de/position_language_de_li.md`        | Liechtenstein Standard German: a written norm the country did not make                                               | `de`       |
 | `de/position_language_de_x_brl.md`     | Berlinisch: a Low German city's High German, with the commonest words left unshifted                                 | `de-x-brl` |
 | `de/position_language_de_x_hes.md`     | Rhine Franconian of the Untermain: Hessian inside Bavaria, and the first tongue here with no ISO code                | `de-x-hes` |
 | `de/position_language_de_x_mos.md`     | Moselle Franconian: the tongue that says dat Dorf, which is the only one that does                                   | `de-x-mos` |
@@ -65,12 +67,17 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                               | `es`       |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                    | `es`       |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                        | `es`       |
+| `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                | `fr`       |
+| `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                     | `fr`       |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                    | `gsw`      |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                           | `hsb`      |
+| `it/position_language_it.md`           | Italian as such, of which every it_* here is a variety                                                               | `it`       |
+| `it/position_language_it_ch.md`        | Swiss Italian: a minority twice over, and in two different directions                                                | `it`       |
 | `ksh/position_language_ksh.md`         | Kölsch: a tongue defined by which sound shifts reached it and which did not                                          | `ksh`      |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                      | `nds`      |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                  | `pfl`      |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                        | `rif`      |
+| `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                  | `rm`       |
 | `swg/position_language_swg.md`         | Swabian as such: the anchor, and its heartland is in another state                                                   | `swg`      |
 | `swg/position_language_swg_allgaeu.md` | Allgäu Swabian: the variety standing on the Swabian/Alemannic line                                                   | `swg`      |
 | `swg/position_language_swg_by.md`      | Bavarian Swabian: Swabian on the wrong side of the state border                                                      | `swg`      |

@@ -240,5 +240,38 @@
     "from": "es_cantabria",
     "tongue": "Cantabrian Spanish: the unhurried line and a vocabulary split between the sea and the high pasture",
     "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office - the paused intonation, and the double lexicon of boat and cattle that one speaker carries without either half feeling borrowed."
+  },
+  "fr/position_language_fr.md": {
+    "tongue": "French as such, of which every fr_* here is a variety",
+    "note": "Written here, not carried in from a culture, on the pattern the de and es anchors set: it holds what every French variety shares, so a variety is free to say only what is its own. What it carries: the gender that nothing in the thing predicts; the split between a written French that keeps its marks and a spoken French that has dropped them, so parle, parles and parlent are three spellings and one sound; the liaison; the four nasal vowels; the passe simple that lives only on the page; the tu/vous decision with nothing between; and the two-part negation that has to be opened before you know what you are denying. Its Loses is the one that made it worth writing at family level - almost everything the writing distinguishes is inaudible, so number and person are carried by the little word in front and not by the word itself."
+  },
+  "it/position_language_it.md": {
+    "tongue": "Italian as such, of which every it_* here is a variety",
+    "note": "Written here, on the same pattern. What it carries: the ending that holds the person so the subject pronoun is normally absent; the geminate consonant, which is phonemic and not emphasis - nono and nonno, pala and palla, caro and carro, sete and sette; the vowel-final word; and the suffix scale that builds size and judgement into the noun itself, tavolino, tavolone, tavolaccio. Its Loses names the split that no single Italian variety can settle: the passato remoto is alive in one half of the language and literary in the other, so one form means two different things depending on the mouth."
+  },
+  "de/position_language_de_ch.md": {
+    "from": "switzerland",
+    "tongue": "Swiss Standard German: a written form and almost nothing else",
+    "note": "Migrated and trimmed. Its own throughout: no sharp s anywhere, a vocabulary that comes largely from French rather than German (Velo, Poulet, Trottoir, Billett, Perron), and the position no other national standard has - it is a writing form, spoken only when reading aloud or talking to outsiders. The Orders chapter now says what makes it different from the other diglossias in this package: the switch is not a dial, as it is in Berlin or Vienna, but a toggle, because there is no written dialect that counts in an office and no spoken standard that counts at home."
+  },
+  "de/position_language_de_li.md": {
+    "from": "liechtenstein",
+    "tongue": "Liechtenstein Standard German: a written norm the country did not make",
+    "note": "Migrated and rewritten. What stood in it was the anchor's material plus Switzerland's diglossia, which is not its own. Thinned to the fact that actually belongs to it: the smallest German-writing polity holds a written form it did not make, writing like its western neighbour and reading like its northern one, so its Orders includes a decision no other national German has to make - which of two norms a given text follows, since it has none of its own and the two disagree constantly in small things. Below it is Alemannic, and inside that a Walser variety that came over the mountains and kept forms the valley gave up. Its Loses is stated plainly and without complaint: a speech area of thirty-five thousand carries no norm, no dictionary and no orthography, so everything written here is right or wrong by someone else's measure."
+  },
+  "fr/position_language_fr_ch.md": {
+    "from": "switzerland",
+    "tongue": "Swiss French: septante and nonante, and the meals a word earlier",
+    "note": "Migrated, and the accents restored. It arrived written with no diacritics at all - le francais de Suisse, la ou, dejeuner - and French without accents is not French, so it was rewritten with them. Substance kept and sharpened: septante, nonante and huitante, which say the tens in one transparent word without a base twenty; and dejeuner, diner and souper, which name the morning, midday and evening meals, one notch off from the French of France, so the same word does not mean the same hour on the two sides of the border. Its Orders was thinned - it opened by restating the anchor's gender and subjunctive - and now says what only this variety orders: its own numerals are what has to be written at school and in the press, and a child who writes soixante-dix is corrected."
+  },
+  "it/position_language_it_ch.md": {
+    "from": "switzerland",
+    "tongue": "Swiss Italian: a minority twice over, and in two different directions",
+    "note": "Migrated and thinned; its Has and Orders both opened by restating the anchor. What it keeps is its own: words that are wholly Italian and yet local (azione for a discount offer, natel for a mobile phone, naturale for still water, riservare for prenotare), which do not feel like borrowings until you cross a border. What it gained is the statement of its actual position, which the file had not made: it is the smallest of the three languages of its own country and the periphery of its own language at once, a minority in two directions. Its Orders follows from that - administrative text arrives already written in German or French and has to be rendered rather than invented, so a new word enters by translation and not by use."
+  },
+  "rm/position_language_rm.md": {
+    "from": "switzerland",
+    "tongue": "Romansh: five written idioms and a sixth made to hold them together",
+    "note": "Migrated with nothing cut; it needed nothing. Written in Romansh, and it is its own anchor, since rm is the ISO code the file declares. Every chapter is the office: the older Latin forms it keeps that its Romance neighbours dropped; the demand that each valley keep its own written idiom while Rumantsch Grischun serves where a Romansh readable outside the valley is needed; the yearly loss of words to German wherever a technical or administrative term arrives that the valley never had; and the loss of unity between the valleys, because five written idioms are not always mutually readable without patience. Exempt from detection - rm was already on the house's khai.languages list."
   }
 }

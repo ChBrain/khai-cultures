@@ -26,12 +26,15 @@ Nach dem Anschluss an das nationalsozialistische Deutschland, dem Krieg und zehn
 
 ## Action
 
-Der Staatsvertrag macht das Land wieder frei, und es gibt sich die immerwährende Neutralität. Vom Balkon des Belvedere wird der Satz "Österreich ist frei!" gerufen, und das Land feiert; diesmal sucht es sich bewusst als eigene Nation, nicht als Teil Deutschlands, und das Fest klingt im [Walzer](piece_walzer.md) aus.
+Der Staatsvertrag macht das Land wieder frei, und es gibt sich die immerwährende Neutralität. Vom Balkon des Belvedere wird der Satz "Österreich ist frei!" gerufen, und das Land feiert bis in die Weinorte hinaus, wo [der Heurige](process_heuriger.md) an diesem Abend nicht ausgeht; [Grete](persona_grete.md) erlebt ihn als Kind auf den Schultern ihres Vaters vor dem Belvedere. Diesmal sucht das Land sich bewusst als eigene Nation, nicht als Teil Deutschlands, und es zeigt sich dafür als Kulturnation: [Salzburg](place_salzburg.md) und seine Festspiele werden das Gesicht, das die neutrale Republik nach aussen trägt, und das Fest klingt im [Walzer](piece_walzer.md) aus.
 
 ## Stage
 
 - [Wien](place_wien.md): das Belvedere, wo der Vertrag verkündet wird.
 - [der Walzer](piece_walzer.md): die Wiedergeburt, im Dreivierteltakt gefeiert.
+- [der Heurige](process_heuriger.md): der Abend beim Winzer, an dem das Land seine Wiedergeburt auf die einfachste Art feiert.
+- [Salzburg](place_salzburg.md): die Bühne, auf der die neutrale Republik sich als Kulturnation und nicht als deutsches Land zeigt.
+- [Grete](persona_grete.md): das Kind vor dem Belvedere, das in dem Land aufwächst, das an diesem Tag beginnt.
 
 ## Tension
 

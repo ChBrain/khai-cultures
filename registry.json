@@ -19250,11 +19250,6 @@
           "title": "The Princely House"
         },
         {
-          "file": "position_language_de_li.md",
-          "kind": "position",
-          "title": "Liechtenstein Standard German"
-        },
-        {
           "file": "position_rheintal.md",
           "kind": "position",
           "title": "The Rhine Valley"
@@ -32069,26 +32064,6 @@
           "file": "position_konkordanz.md",
           "kind": "position",
           "title": "Concordance"
-        },
-        {
-          "file": "position_language_de_ch.md",
-          "kind": "position",
-          "title": "Swiss Standard German"
-        },
-        {
-          "file": "position_language_fr_ch.md",
-          "kind": "position",
-          "title": "Swiss French"
-        },
-        {
-          "file": "position_language_it_ch.md",
-          "kind": "position",
-          "title": "Swiss Italian"
-        },
-        {
-          "file": "position_language_rm.md",
-          "kind": "position",
-          "title": "Romansh"
         },
         {
           "file": "position_milizsystem.md",
