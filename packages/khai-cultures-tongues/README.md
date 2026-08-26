@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **41 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **43 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -48,7 +48,9 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `de/position_language_de_de_sn.md`     | Saxon German, the Meissen chancery sound that helped found the written standard                                      | `de`       |
 | `de/position_language_de_de_st.md`     | Saxony-Anhalt German, the Anhalt and Mansfeld sound that fed the chancery language                                   | `de`       |
 | `de/position_language_de_de_th.md`     | Thuringian German, singing and soft, and closest of all to the standard it helped make                               | `de`       |
+| `de/position_language_de_x_brl.md`     | Berlinisch: a Low German city's High German, with the commonest words left unshifted                                 | `de-x-brl` |
 | `de/position_language_de_x_hes.md`     | Rhine Franconian of the Untermain: Hessian inside Bavaria, and the first tongue here with no ISO code                | `de-x-hes` |
+| `de/position_language_de_x_mos.md`     | Moselle Franconian: the tongue that says dat Dorf, which is the only one that does                                   | `de-x-mos` |
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                            | `dsb`      |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                               | `en`       |
 | `en/position_language_en_us_oh.md`     | Ohio English, split between the Inland North and the Midland                                                         | `en`       |
