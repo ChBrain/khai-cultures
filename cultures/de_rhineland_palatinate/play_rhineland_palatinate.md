@@ -47,7 +47,7 @@ In der Weinstube braucht es oft nicht mehr als ein „alla gut”, um das Gespr�
 - [das demokratische Erbe](position_demokratisches_erbe.md)
 - [der Winzerstolz](position_winzerstolz.md)
 - [die Antike](position_antike.md)
-- [das rheinland-pfälzische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_rp.md)
+- [das rheinland-pfälzische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_rp.md)
 
 **Pieces**
 

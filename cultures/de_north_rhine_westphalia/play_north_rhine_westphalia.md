@@ -47,7 +47,7 @@ Zwei Temperamente teilen sich ein Land: rheinaufwärts endet jeder Satz mit eine
 - [der Strukturwandel](position_strukturwandel.md)
 - [der rheinische Frohsinn](position_rheinisches_leben.md)
 - [die nordrhein-westfälische Kultur](position_culture_nordrhein_westfaelische_kultur.md)
-- [das nordrhein-westfälische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_nw.md)
+- [das nordrhein-westfälische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_nw.md)
 
 **Pieces**
 

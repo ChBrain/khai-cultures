@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "Virginian English"
+declared: "Virginian English"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:

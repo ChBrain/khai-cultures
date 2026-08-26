@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Zugehörigkeit zum Kernland deutscher Demokratiebestrebungen, das 1848 in der Frankfurter Paulskirche [die Demokratie](position_demokratie.md) als erste freiheitliche Verfassung entwarf. Sie trägt zugleich [die Finanzwirtschaft](position_finanzwirtschaft.md) der Frankfurter Skyline, das globale Bankenwesen, das über die Region hinausreicht, und [die Gemütlichkeit](position_gemuetlichkeit.md) der Apfelweinkneipen und der ländlichen Mittelgebirge, in denen alte Wirte und junge Banker an denselben langen Tischen sitzen. Ihre Sprache ist [das hessische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_he.md), stark vom Dialekt gefärbt, der Grund, auf dem diese Geselligkeit ruht. Sie ist eine Art, [die deutsche Kultur](../germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
+Die Zugehörigkeit zum Kernland deutscher Demokratiebestrebungen, das 1848 in der Frankfurter Paulskirche [die Demokratie](position_demokratie.md) als erste freiheitliche Verfassung entwarf. Sie trägt zugleich [die Finanzwirtschaft](position_finanzwirtschaft.md) der Frankfurter Skyline, das globale Bankenwesen, das über die Region hinausreicht, und [die Gemütlichkeit](position_gemuetlichkeit.md) der Apfelweinkneipen und der ländlichen Mittelgebirge, in denen alte Wirte und junge Banker an denselben langen Tischen sitzen. Ihre Sprache ist [das hessische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_he.md), stark vom Dialekt gefärbt, der Grund, auf dem diese Geselligkeit ruht. Sie ist eine Art, [die deutsche Kultur](../germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
 
 ## Orders
 

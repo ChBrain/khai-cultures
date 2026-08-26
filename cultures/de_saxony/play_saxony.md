@@ -47,7 +47,7 @@ Understatement ist hier Nationalsport - man quittiert Gewaltiges nur mit einem t
 - [der Erfindergeist](position_erfindergeist.md)
 - [der Barockstolz](position_barockstolz.md)
 - [der Bürgerprotest](position_buergerprotest.md)
-- [das sächsische Deutsch](@chbrain/khai-cultures-tongues/position_language_de_de_sn.md)
+- [das sächsische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_sn.md)
 
 **Pieces**
 

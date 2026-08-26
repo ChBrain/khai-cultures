@@ -47,7 +47,7 @@ Der Roland auf dem Marktplatz steht seit 1404 mit gezücktem Schwert und wacht �
 - [die Hanse](position_hanse.md)
 - [der Bürgerstolz](position_buergerstolz.md)
 - [der maritime Handel](position_maritim.md)
-- [das bremische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_hb.md)
+- [das bremische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_hb.md)
 
 **Pieces**
 
