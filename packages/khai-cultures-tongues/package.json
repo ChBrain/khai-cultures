@@ -122,7 +122,17 @@
         "parent": "de/position_language_de.md"
       },
       {
+        "file": "de/position_language_de_x_brl.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
         "file": "de/position_language_de_x_hes.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_x_mos.md",
         "type": "position",
         "parent": "de/position_language_de.md"
       },
