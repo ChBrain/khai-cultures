@@ -47,8 +47,8 @@ Aquí la ciudad se lee de fuera hacia dentro y cada anillo es una época: la Rus
 - [la melillensidad](position_culture_la_melillensidad.md)
 - [la raíz amazigh](position_la_raiz_amazigh.md)
 - [la plaza fuerte](position_la_plaza_fuerte.md)
-- [el español melillense](@chbrain/khai-cultures-tongues/position_language_es_es_ml.md)
-- [el tarifit](@chbrain/khai-cultures-tongues/position_language_rif.md)
+- [el español melillense](@chbrain/khai-cultures-tongues/es/position_language_es_es_ml.md)
+- [el tarifit](@chbrain/khai-cultures-tongues/rif/position_language_rif.md)
 
 **Pieces**
 

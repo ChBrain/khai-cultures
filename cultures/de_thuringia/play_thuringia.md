@@ -47,7 +47,7 @@ Eine echte Thüringer Rostbratwurst verteidigt man hier leidenschaftlicher als m
 - [die geistige Tiefe](position_geistige_tiefe.md)
 - [der Optikstolz](position_optikstolz.md)
 - [die Waldliebe](position_waldliebe.md)
-- [das thüringische Deutsch](@chbrain/khai-cultures-tongues/position_language_de_de_th.md)
+- [das thüringische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_th.md)
 
 **Pieces**
 

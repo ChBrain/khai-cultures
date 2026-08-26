@@ -47,7 +47,7 @@ Hier widersprach 1517 ein Mönch in Wittenberg der Kirche und löste die Reforma
 - [der Fortschritt](position_fortschritt.md)
 - [die Glaubensfreiheit](position_glaubensfreiheit.md)
 - [die Bodenarbeit](position_bodenarbeit.md)
-- [das sachsen-anhaltische Deutsch](@chbrain/khai-cultures-tongues/position_language_de_de_st.md)
+- [das sachsen-anhaltische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_st.md)
 
 **Pieces**
 

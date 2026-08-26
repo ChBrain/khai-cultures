@@ -47,7 +47,7 @@ Wo das Boddenlicht lang über der Seenplatte liegt und niemand es eilig hat, gil
 - [der Küstenstolz](position_kuestenstolz.md)
 - [die Hanseatische Tradition](position_hanseatisch.md)
 - [die Seenruhe](position_seenruhe.md)
-- [das mecklenburgisch-vorpommersche Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_mv.md)
+- [das mecklenburgisch-vorpommersche Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_mv.md)
 
 **Pieces**
 

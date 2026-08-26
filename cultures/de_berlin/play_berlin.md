@@ -47,7 +47,7 @@ Eine Mauer zerschnitt diese Stadt, und ihr Fall machte sie zum Symbol der Freihe
 - [die Freiheit](position_freiheit.md)
 - [die Mauer](position_mauer.md)
 - [die Kreativität](position_kreativitaet.md)
-- [das Berliner Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_be.md)
+- [das Berliner Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_be.md)
 
 **Pieces**
 

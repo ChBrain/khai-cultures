@@ -47,7 +47,7 @@ Niedersachsen, zweitgrößtes Flächenland Deutschlands im Norden zwischen Nords
 - [die Bodenständigkeit](position_bodenstaendigkeit.md)
 - [die Industrie](position_industrie.md)
 - [die Küstenkultur](position_kuestenkultur.md)
-- [das niedersächsische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_ni.md)
+- [das niedersächsische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_ni.md)
 
 **Pieces**
 

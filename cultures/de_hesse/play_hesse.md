@@ -47,7 +47,7 @@ Zwischen Bankentürmen und Apfelweinkneipen liegt kaum ein Kilometer, und genau 
 - [die Finanzwirtschaft](position_finanzwirtschaft.md)
 - [die Gemütlichkeit](position_gemuetlichkeit.md)
 - [die hessische Kultur](position_culture_hessische_kultur.md)
-- [das hessische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_he.md)
+- [das hessische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_he.md)
 
 **Pieces**
 

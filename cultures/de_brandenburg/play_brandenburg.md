@@ -47,7 +47,7 @@ Kiefern, Sand und stille Seen, soweit man sieht - mittendrin, wie ein fremder St
 - [die märkische Ruhe](position_maerkische_ruhe.md)
 - [die preußische Tugend](position_preussische_tugend.md)
 - [die Wende-Erfahrung](position_wende_brandenburg.md)
-- [das brandenburgische Hochdeutsch](@chbrain/khai-cultures-tongues/position_language_de_de_bb.md)
+- [das brandenburgische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_bb.md)
 
 **Pieces**
 

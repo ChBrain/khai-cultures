@@ -1,6 +1,7 @@
 ---
 khai: position
 title: "Pennsylvania English"
+declared: "Pennsylvania English"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:

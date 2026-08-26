@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures-tongues",
-  "version": "0.0.0",
+  "version": "0.5.0",
   "private": true,
   "description": "The tongues of the Cultures house: one khai position per language variety, held by the speech community that speaks it rather than owned by a country.",
   "type": "module",
@@ -17,10 +17,145 @@
     "type": "position",
     "members": [
       {
-        "file": "position_language_rif.md",
+        "file": "position_language.md",
         "type": "position",
         "parent": null
+      },
+      {
+        "file": "de/position_language_de.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "de/position_language_de_de_bb.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_be.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_bw.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_by.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_hb.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_he.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_hh.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_mv.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_ni.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_nw.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_rp.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_sh.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_sl.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_sn.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_st.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_de_th.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "en/position_language_en.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "en/position_language_en_us_oh.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
+        "file": "en/position_language_en_us_pa.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
+        "file": "en/position_language_en_us_va.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
+        "file": "es/position_language_es.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "es/position_language_es_es_ce.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "es/position_language_es_es_ml.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "nds/position_language_nds.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "rif/position_language_rif.md",
+        "type": "position",
+        "parent": "position_language.md"
       }
-    ]
+    ],
+    "collection": {
+      "dir": ".",
+      "key": "tongues",
+      "anchor": "position_language_"
+    }
   }
 }
