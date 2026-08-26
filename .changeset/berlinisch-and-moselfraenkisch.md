@@ -3,7 +3,7 @@
 
 Berlinisch and Moselle Franconian, and the correction that came with the first of
 them. `de/position_language_de_de_be.md` was carrying `ick`, `det`, `wat`, `Kopp`,
-`jut`, `ooch` and the dative/accusative merger as things the Berlin *standard* has
+`jut`, `ooch` and the dative/accusative merger as things the Berlin _standard_ has
 — the same fault Bavaria's file had before Bairisch was split out of it, the
 better-known name standing in for the actual tongue. Those features are now in
 `de/position_language_de_x_brl.md`, written in Berlinisch, and the standard file
