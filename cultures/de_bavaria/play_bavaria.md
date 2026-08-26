@@ -52,6 +52,7 @@ Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat verst
 - [der Freistaat](position_freistaat.md)
 - [das bayerische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_by.md)
 - [das Bairische](@chbrain/khai-cultures-tongues/bar/position_language_bar.md)
+- [das Mittlboarische](@chbrain/khai-cultures-tongues/bar/position_language_bar_mitt.md)
 - [das Fränkische](position_fraenkisch.md)
 - [das Bayerisch-Schwäbische](position_bayerisch_schwaebisch.md)
 - [der Gebirgler](position_gebirgler.md)

@@ -23,13 +23,14 @@ Parent group: positions
 ## Has
 
 S Boarische is koa Färbung vom Hochdeitschn, sondern a eigne Dialektfamilie vom
-Oberdeitschn, de wo si scho im Mittloita vom Rest trennt hod. Es hod s -l, des wo
-fast a jeds Ding tragn ko: s Madl, s Bussl, s Hendl, s Schmankerl. Es hod an
-oanfacha Laut, wo d Schrift an Doppellaut setzt, an Stoa fian Stein, hoaß fia heiß,
-oans fia eins. Es hod an Artikl vor de Namen, da Sepp und d Monika, den wo s
-geprüfte Hochdeitsch ned duldt. Und es hod a eigne Anred fia mehrere, es und enk,
-de wo si in koam andern deitschn Dialekt ghaltn hod: si kimmt aus dera oidn Form,
-wia s Germanische no a eigns Wort fia genau zwoa Leit ghabt hod.
+Oberdeitschn, de wo si scho im Mittloita vom Rest trennt hod, und si ghert koam
+Stoot: gredt wird s in Bayern, in Östareich und in Südtirol, von guat vierzehn
+Millionen Leit, und de Grenz zwischn de drei Länder is koa Sprochgrenz. Es hod s
+-l, des wo fast a jeds Ding tragn ko: s Madl, s Bussl, s Hendl, s Schmankerl. Es
+hod an Artikl vor de Namen, da Sepp und d Monika, den wo s geprüfte Hochdeitsch ned
+duldt. Und es hod a eigne Anred fia mehrere, es und enk, de wo si in koam andern
+deitschn Dialekt ghaltn hod: si kimmt aus dera oidn Form, wia s Germanische no a
+eigns Wort fia genau zwoa Leit ghabt hod.
 
 ## Orders
 
@@ -45,11 +46,12 @@ en in jedm Satz z entscheidn, welches von de zwoa grod laft.
 
 Es hod koa gschriebne Norm, und drum schreibt a jeder, wia r as heart: fian selbn
 Laut findst drei Schreibweisn und fia dieselbe Schreibweis drei Laut, und drum
-ghert s aa zu de Sprochn, de wo ma redt und ned liest. Es verliert mit m Präteritum
-aa des, was s Präteritum ko, nämlich a Gschicht sprachlich auf Distanz z legn: im
-Boarischn is s Vergangane immer no naheda. Und es verliert an jedn, der wo in d
-Schui geht, weil er dort lernt, dass des, was er dahoam redt, ned des is, was ma
-schreibt, und vui legn drauf hin grod de Züg o, de wo s tragn.
+ghert s zu de Sprochn, de wo ma redt und ned liest. Es verliert mit m Präteritum aa
+des, was s Präteritum ko, nämlich a Gschicht sprachlich auf Distanz z legn: im
+Boarischn is s Vergangane immer no naheda. Und es verliert an de Grenzn, de wo
+durch sein Gebiet gehn: derselbe Dialekt hoaßt im an Stoot a Mundart und im andern
+a Nationalsproch, und was in Wien fast s Amtsdeitsch is, gilt in München scho ois
+Bauernsproch.
 
 ## Drives
 
