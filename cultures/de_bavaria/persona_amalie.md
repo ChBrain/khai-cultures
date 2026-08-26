@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[das Bairische](position_bayerisch.md)
+[das Bairische](@chbrain/khai-cultures-tongues/bar/position_language_bar.md)
 
 ## Owner
 
