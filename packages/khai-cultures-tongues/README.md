@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **36 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **38 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -58,11 +58,13 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_ce.md`     | Ceutan Spanish, Andalusian in its sounds and full of Darija that nobody hears as borrowed                            | `es`       |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                        | `es`       |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                           | `hsb`      |
+| `ksh/position_language_ksh.md`         | Kölsch: a tongue defined by which sound shifts reached it and which did not                                          | `ksh`      |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                      | `nds`      |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                        | `rif`      |
 | `swg/position_language_swg.md`         | Swabian as such: the anchor, and its heartland is in another state                                                   | `swg`      |
 | `swg/position_language_swg_allgaeu.md` | Allgäu Swabian: the variety standing on the Swabian/Alemannic line                                                   | `swg`      |
 | `swg/position_language_swg_by.md`      | Bavarian Swabian: Swabian on the wrong side of the state border                                                      | `swg`      |
+| `sxu/position_language_sxu.md`         | Upper Saxon: it helped found the written standard and is now judged by it                                            | `sxu`      |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                         | `vmf`      |
 
 <!-- Rendered by build.mjs. Edit provenance.json or the varieties, then run `node build.mjs --write`. -->
