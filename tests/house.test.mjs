@@ -79,7 +79,13 @@ describe("Cultures house: content conforms to the canon", () => {
     const results = validateProjectLanguages(root, { contentDir: culturesDir });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
-  }, 30000);
+    // Two corrections compounded into real work here. khai-language 0.1.24 derives
+    // the scanned chapter set from khai-arch instead of a hand-typed list of
+    // fifteen, which added 43% of the house's prose; and trimming khai.languages
+    // from 34 to 18 switched detection back on for sixteen languages that were
+    // being skipped, English among them. Measured at 36.9s over 6,171 files after
+    // both. The old 30s ceiling was set when the gate read less than half of this.
+  }, 120000);
 
   it("house reference warrant conforms to LORE", () => {
     const refPath = existsSync(join(root, "REFERENCES.md"))
