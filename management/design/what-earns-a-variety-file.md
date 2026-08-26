@@ -37,6 +37,25 @@ failed the same way — **the better-known name standing in for the actual tongu
 A file that cannot say what it is **is** the thin file. It reads as content and
 counts as coverage and teaches the next reader something false.
 
+## Three ways it can fail, and only one of them is a flag
+
+| the author…                                         | mechanism          | file                |
+| --------------------------------------------------- | ------------------ | ------------------- |
+| cannot **name** what the variety is                 | hard stop          | none                |
+| cannot **write** it, and has no source to ground it | provenance gate    | none, until sourced |
+| **can** write it, but no speaker has read it        | `review: "native"` | ships               |
+
+The middle one was found by applying the rule and is the reason it is written here.
+Sorbian shipped because the prose could be produced and khai's own gate confirmed it
+read as Upper Sorbian. Frisian did not, because nothing can check it — franc has no
+model for `frr` or `stq` — and prose written blind and flagged `review: "native"`
+would be a lie by mislabel: that flag says _no speaker has read this_, not _the
+author was guessing_.
+
+**Named but unsourced writing.** A variety may be perfectly identifiable and still
+unwritable by the hand at the desk. Get source text, or leave the position unwritten.
+The answer is not a flag; it is a source.
+
 ## Not the same as `review: "native"`
 
 `review: "native"` says _no speaker has read this prose_. Tarifit carries it, and it
@@ -82,6 +101,54 @@ feature evidenced in prose; a living orthographic practice used by Egerland spea
 or their descendants; or a corpus showing recurrence beyond a commemorative word
 list. Until then it is Nordbairisch-origin heritage speech.
 
+### North Frisian and Saterland Frisian — nameable, not yet writable
+
+Researched. Both are recognised minority languages of Germany with ISO codes and
+their own literatures, so the naming question never arises; what stops them is the
+second failure above. `frr` takes the sibling shape with no anchor, and the first two
+varieties to write are **Fering** — specifically Weesdring, which is what the
+Nordfriisk Instituut grammar's examples are in — and **Mooring**, because those are
+the two with modern practical grammars behind them.
+
+Fering's `Orders` is already identified and is a good one. It has two definite-article
+series, A and D, and the choice is not simply definite against indefinite: it decides
+whether the referent is the ordinary identifiable thing or something more pointed,
+bounded, owned, collective or substance-like. `a fask` is a fish; `at fask` is fish.
+So the holder must decide, at every noun, **what kind of "the" this is** — a decision
+neither German nor English asks for. It is attested for the mainland and Fering
+cluster, Mooring and Karrharde included, and must not be promoted to a pan-North-
+Frisian claim.
+
+Saterland Frisian's is the vowel space, but not as raw inventory size. The often-cited
+forty is a broad traditional accounting and the analysis is contested — one study
+gives up to twenty stressed monophthongs and sixteen diphthongs, a later IPA
+description ten and ten plus seven falling diphthongs. What survives the disagreement
+is the office: length, quality and diphthongal movement do not collapse into a simple
+spelling-to-sound system, so the tongue trains an ear for distinctions that German
+orthography and German expectation flatten. The cost is auditory exactness, not a
+failing writing system.
+
+And the family fact both share, with its necessary qualification: Frisian's nearest
+relative is English, not German — but that is historical subgrouping, not present-day
+closeness, and both have lived under long contact with Low German, High German and
+Danish. The honest sentence is that **Frisian holds open a West Germanic line in
+which English is family and German is the surrounding pressure.**
+
+### Danish — the anchor is in the wrong place
+
+The house holds `da` inside `cultures/denmark`, which is precisely what the tongues
+package exists to undo: a tongue held by a country. Danish should move into the
+package as an anchor representing the standard written centre, with the Denmark
+culture linking it like any other.
+
+Beneath it belongs **Sydslesvigdansk**, the contact variety of the Danish minority in
+South Schleswig, which is distinct from both Rigsdansk and Sønderjysk and is evidenced
+rather than folk-labelled — a catalogue of twenty-nine morphosyntactic features across
+151 informants. It earns a variety file, with one constraint: it is a non-focused
+contact variety on a Standard Danish base and has no separate codified orthography, so
+it is written in ordinary Danish spelling and its distinction rests on named contact
+features, never on invented spelling.
+
 ### Alemannic — a gate, not a label
 
 khai declined `gsw` for detection on measured grounds and offered to re-read the
@@ -90,6 +157,47 @@ native or editorially attested sources; diagnostics recurring across the samples
 rather than isolated spellings; a stated target region, because `gsw` is far too
 broad to imply one voice; and `review: "native"` until a competent reader confirms
 the prose holds together.
+
+## A language with no form to write its family in
+
+North Frisian forced this and the answer generalises. It is nine dialects across an
+island/mainland split with poor mutual intelligibility, each with its own
+orthography, and the authoritative teaching grammars are variety-specific — the
+Nordfriisk Instituut publishes separate practical grammars for Fering and for
+Mooring. There is no neutral North Frisian to write a family anchor in.
+
+**So `frr` gets no prose anchor.** Its varieties sit as siblings, and `frr` stays a
+group identifier in metadata rather than pretending to be a voiceable position. A
+navigational index may exist; it carries no first-person text and is not a language
+position.
+
+The rejected alternative matters as much: letting Mooring carry the family, because
+it is the largest and best resourced, would be the same substitution this house has
+already undone four times — one variety speaking for its siblings. Convenience is
+exactly how that fault gets made.
+
+That gives two shapes, and a language takes whichever is true of it:
+
+- **anchor plus varieties** — Bairisch, Swabian, German. A family that has a form
+  its whole extent recognises.
+- **siblings, no anchor** — North Frisian. A family that does not.
+
+## Sourcing a variety, when it is written
+
+For any variety grounded in attested text rather than the author's own command, the
+provenance entry carries where it came from. `variety` and `orthography` are not
+optional editorial detail for a language with more than one of either — they are the
+difference between a source and a gesture.
+
+```yaml
+source_text:
+  language: stq
+  variety: Ramsloh | Scharrel | Strücklingen | unspecified
+  orthography: as stated by the edition
+  source: { author, title, publisher, year, pages_or_permalink }
+  excerpt_status: attested
+  use: "syntax and idiom reference; do not imitate beyond source support"
+```
 
 ## Where to look, for the next hand
 
