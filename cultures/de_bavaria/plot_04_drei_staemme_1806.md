@@ -25,11 +25,11 @@ Nach der Erhebung Bayerns zum Königreich im Jahr 1806 werden die Gebiete Franke
 
 ## Action
 
-Die Eingliederung führt die drei großen Stämme (Bayer, Franken und Schwaben) unter einer Krone zusammen und fordert [das Bairische](position_bayerisch.md) zur Verständigung heraus. Franken und Schwaben bringen protestantische Traditionen und eigene Dialekte ein. [Monika](persona_monika.md) backt in Nürnberg traditionelle Lebkuchen, während [Sepp](persona_sepp.md) im Allgäu die Almwirtschaft betreibt: dieselbe Krone, zwei Mundarten, die einander erst lernen müssen.
+Die Eingliederung führt die drei großen Stämme (Bayer, Franken und Schwaben) unter einer Krone zusammen und fordert [das Bairische](@chbrain/khai-cultures-tongues/bar/position_language_bar.md) zur Verständigung heraus. Franken und Schwaben bringen protestantische Traditionen und eigene Dialekte ein. [Monika](persona_monika.md) backt in Nürnberg traditionelle Lebkuchen, während [Sepp](persona_sepp.md) im Allgäu die Almwirtschaft betreibt: dieselbe Krone, zwei Mundarten, die einander erst lernen müssen.
 
 ## Stage
 
-- [das Bairische](position_bayerisch.md) : der namensgebende Dialekt des altbayerischen Kernlandes.
+- [das Bairische](@chbrain/khai-cultures-tongues/bar/position_language_bar.md) : der namensgebende Dialekt des altbayerischen Kernlandes.
 - [das Fränkische](position_fraenkisch.md) : die weiche Mundart der neuen nördlichen Gebiete.
 - [das Bayerisch-Schwäbische](position_bayerisch_schwaebisch.md) : die westliche Mundart des alemannischen Raumes.
 - [Monika](persona_monika.md) : die fränkische Lebküchnerin, die von Norden her unter die Krone kommt.

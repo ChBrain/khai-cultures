@@ -96,12 +96,23 @@ function provenance(dir = HERE) {
  */
 export function provenanceGaps(dir = HERE) {
   const known = new Set(members(dir).map((m) => m.file));
-  const recorded = new Set(Object.keys(provenance(dir)));
+  const entries = provenance(dir);
+  const recorded = new Set(Object.keys(entries));
+  // An entry that exists but cannot be read is worse than a missing one, because
+  // the gap check goes quiet while the rendered row goes blank. Three entries sat
+  // like that for four pull requests: a trailing comma in the script that wrote
+  // them made each a one-element array, `e.note` came back undefined, and
+  // REFERENCES.md rendered an empty cell for Bavaria, Hesse and Saxony-Anhalt.
+  const unreadable = (e) =>
+    !e || typeof e !== "object" || Array.isArray(e) || !String(e.note ?? "").trim();
   return [
     ...[...known].filter((f) => !recorded.has(f)).map((f) => `${f}: no entry in provenance.json`),
     ...[...recorded]
       .filter((f) => !known.has(f))
       .map((f) => `${f}: provenance for no such variety`),
+    ...[...recorded]
+      .filter((f) => known.has(f) && unreadable(entries[f]))
+      .map((f) => `${f}: provenance entry carries no readable note`),
   ].sort();
 }
 

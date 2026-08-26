@@ -7883,7 +7883,7 @@
           "kind": "persona",
           "title": "Amalie",
           "type": "archetype",
-          "taxonomy": "position_bayerisch.md"
+          "taxonomy": "position_language_bar.md"
         },
         {
           "file": "persona_gustl.md",
@@ -7982,11 +7982,6 @@
           "file": "position_bayerisch_schwaebisch.md",
           "kind": "position",
           "title": "The Swabian Language Variety in Bavaria"
-        },
-        {
-          "file": "position_bayerisch.md",
-          "kind": "position",
-          "title": "The Bavarian Language Variety"
         },
         {
           "file": "position_culture_bayerische_kultur.md",
