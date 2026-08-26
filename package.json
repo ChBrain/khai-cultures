@@ -76,7 +76,7 @@
     "@chbrain/khai-arch": "^0.1.25",
     "@chbrain/khai-cultures-tongues": "file:./packages/khai-cultures-tongues",
     "@chbrain/khai-guard": "^0.2.1",
-    "@chbrain/khai-language": "^0.1.23",
+    "@chbrain/khai-language": "^0.1.25",
     "@chbrain/khai-pack": "^0.0.3",
     "@chbrain/khai-review": "^0.1.4",
     "@chbrain/khai-tests": "^0.2.8",
