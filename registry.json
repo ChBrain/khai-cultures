@@ -7904,14 +7904,14 @@
           "kind": "persona",
           "title": "Monika",
           "type": "archetype",
-          "taxonomy": "position_fraenkisch.md"
+          "taxonomy": "position_language_vmf.md"
         },
         {
           "file": "persona_sepp.md",
           "kind": "persona",
           "title": "Sepp",
           "type": "archetype",
-          "taxonomy": "position_bayerisch_schwaebisch.md"
+          "taxonomy": "position_language_swg_allgaeu.md"
         },
         {
           "file": "piece_lederhose.md",
@@ -7979,19 +7979,9 @@
           "taxonomy": "play_bavaria.md"
         },
         {
-          "file": "position_bayerisch_schwaebisch.md",
-          "kind": "position",
-          "title": "The Swabian Language Variety in Bavaria"
-        },
-        {
           "file": "position_culture_bayerische_kultur.md",
           "kind": "position",
           "title": "Bavarian Culture"
-        },
-        {
-          "file": "position_fraenkisch.md",
-          "kind": "position",
-          "title": "The Franconian Language Variety"
         },
         {
           "file": "position_freistaat.md",
