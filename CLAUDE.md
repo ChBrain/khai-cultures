@@ -104,6 +104,21 @@ mnemonic in the slice that moves it, with `node tests/tongues_standalone.mjs
 wrong; `held by` is a culture that does, and is the harder read, because the
 allowed sentence and the forbidden one name the same place.
 
+A tongue is written **in that tongue**; that is the point of holding it as a
+position at all. Which sets the entry price, because you cannot write in a variety
+you cannot tell apart from its neighbour. **A variety whose distinguishing feature
+cannot be named and sourced does not get a file.** Name the rule, give the minimal
+pair on both sides, say whether it is categorical or shades off, and say whether it
+survives in writing — a difference that is only intonation cannot go in a text file.
+Fail that and the file is a regional costume on a variety already shipped, which is
+how the thin ones got written: `das bayerische Hochdeutsch` wearing Bairisch
+features, `bar` wearing Munich's, Augsburg's name on the Allgäu's tongue.
+
+This is a different question from `review: "native"`, and the two are often
+confused. That flag says _no speaker has read this prose_ — Tarifit carries it, and
+it is the right answer to doubt about idiom. The hard stop is prior: _is there a
+system here to write at all_. No flag covers that, and none should.
+
 ## Sub-national cultures
 
 A sub-national culture carries two facts its `geo.json` already knows, and both
