@@ -8,7 +8,9 @@ import { validateProjectLanguages } from "@chbrain/khai-language";
 import { coverage, cultureIds as coveredCultureIds, allWaivers } from "./company_coverage.mjs";
 import { standalone } from "./tongues_standalone.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
+const here = dirname(fileURLToPath(import.meta.url));
+const inPackage = join(here, "..", "packages", "khai-cultures");
+const root = existsSync(join(inPackage, "cultures")) ? inPackage : join(here, "..");
 const culturesDir = join(root, "cultures");
 
 // The khai types every culture must field. A culture is a full play, so the set

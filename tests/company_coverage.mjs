@@ -35,7 +35,12 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
-export const ROOT = join(HERE, "..");
+// The house package, wherever it currently sits. The repository is becoming a
+// workspace whose root publishes nothing and whose content lives in a package
+// beneath it; this resolves either layout so the verifiers can learn the new
+// place before the move puts anything there.
+const inPackage = join(HERE, "..", "packages", "khai-cultures");
+export const ROOT = existsSync(join(inPackage, "cultures")) ? inPackage : join(HERE, "..");
 export const WAIVERS_FILE = "coverage-waivers.json";
 
 // Held one way (by a persona) or keying the run: never fielded in a scene.

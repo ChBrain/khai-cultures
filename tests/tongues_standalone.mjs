@@ -43,8 +43,13 @@ import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join, dirname, resolve, sep } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 
-export const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-export const TONGUES = join(ROOT, "packages", "khai-cultures-tongues");
+// Two roots, because they are two things. WORKSPACE holds the packages; ROOT is
+// the house package whose cultures the drift queue reads against, resolved in
+// either layout while the repository becomes a workspace.
+export const WORKSPACE = join(dirname(fileURLToPath(import.meta.url)), "..");
+const inPackage = join(WORKSPACE, "packages", "khai-cultures");
+export const ROOT = existsSync(join(inPackage, "cultures")) ? inPackage : WORKSPACE;
+export const TONGUES = join(WORKSPACE, "packages", "khai-cultures-tongues");
 const CULTURE_PKG = /@chbrain\/khai-cultures-(?!tongues)/;
 
 /** Every markdown file in the package, as a path relative to the package root. */
