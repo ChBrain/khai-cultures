@@ -3,6 +3,7 @@ khai: position
 title: "Moselle Franconian"
 declared: "et Muselfränkesch"
 language: de-x-mos
+orthography: "author's own, Trier-leaning; deliberately not Luxembourgish orthography"
 review: "native"
 license: CC-BY-NC-SA-4.0
 stamp:

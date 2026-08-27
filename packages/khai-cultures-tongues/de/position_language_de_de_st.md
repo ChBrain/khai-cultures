@@ -3,6 +3,7 @@ khai: position
 title: "Saxony-Anhalt German"
 declared: "das sachsen-anhaltische Deutsch"
 language: de
+orthography: "deutsche Rechtschreibung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

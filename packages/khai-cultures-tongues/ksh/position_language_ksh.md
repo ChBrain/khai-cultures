@@ -3,6 +3,7 @@ khai: position
 title: "Kölsch"
 declared: "et Kölsche"
 language: ksh
+orthography: "author's own, Kölsch writing practice; not Rheinische Dokumenta"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

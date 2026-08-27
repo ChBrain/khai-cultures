@@ -3,6 +3,7 @@ khai: position
 title: "Central Bavarian"
 declared: "s Mittlboarische"
 language: bar
+orthography: "author's own, carried in from de_bavaria"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

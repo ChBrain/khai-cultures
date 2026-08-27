@@ -3,6 +3,7 @@ khai: position
 title: "Tarifit"
 declared: "Tarifit"
 language: rif
+orthography: "Latin script, Rif writing practice, carried in from es_melilla"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

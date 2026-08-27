@@ -3,6 +3,7 @@ khai: position
 title: "Upper Sorbian"
 declared: "hornjoserbšćina"
 language: hsb
+orthography: "hornjoserbski prawopis"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

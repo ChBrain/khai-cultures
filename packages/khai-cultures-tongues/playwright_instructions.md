@@ -68,4 +68,8 @@ Authoring guidance, not runtime content, and it does not go on tour.
   language. It is not that such a tongue is unspoken - every file here is a
   spoken tongue put on a page - but that nobody acquires this one first; it is
   only ever learned on top of another.
+- Do declare, on every tongue, the `orthography` it is written in. Where the
+  tongue has a codified norm, name it; where it has none, somebody chose the
+  spelling, and `author's own` says so. A performance whose method is undeclared
+  cannot be checked, reproduced, or told apart from a tradition.
 - Do not edit this package's files; wire only from the play's side.

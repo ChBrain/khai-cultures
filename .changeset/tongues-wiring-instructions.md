@@ -27,3 +27,26 @@ unspoken but that nobody acquires it first.
 The widths a grip can take are deliberately **not** copied here. They derive from
 the language engine’s own manifest — 18 leaves of its members tree — and a rule
 typed in two places is a rule that will disagree with itself.
+
+## Every tongue declares how it is written
+
+A tongue file is that tongue **performed** rather than described, and where a
+tongue has no codified spelling somebody had to choose one. That choice was
+being made 16 times and recorded 4 times, so the performance was happening and
+its method was not.
+
+Every tongue now carries `orthography:`, `build.mjs` renders it as its own column
+in REFERENCES, and a file that declares none is a finding:
+
+```
+tongues docs: 1 finding(s)
+  wep/position_language_wep.md: declares no orthography
+```
+
+44 of 60 follow a codified norm. **16 are reconstructions** — the Bairisch four,
+the three `de-x-*` dialects, Alemannic, Kölsch, Palatine, the Swabian three,
+Upper Saxon, Main-Franconian and Westphalian — and they now say so, including
+where they deliberately depart from an existing convention (`not
+Dieth-Schreibung`, `not Rheinische Dokumenta`, `deliberately not Luxembourgish
+orthography`). That distinction is owed to a reader who cannot otherwise tell an
+invention from a tradition.

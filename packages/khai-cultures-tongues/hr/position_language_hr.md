@@ -3,6 +3,7 @@ khai: position
 title: "the Croatian Language"
 declared: "hrvatski jezik"
 language: hr
+orthography: "hrvatski pravopis, Gajeva latinica"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
