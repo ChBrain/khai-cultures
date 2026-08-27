@@ -7,6 +7,7 @@ import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
 import { coverage, cultureIds as coveredCultureIds, allWaivers } from "./company_coverage.mjs";
 import { standalone } from "./tongues_standalone.mjs";
+import { widths, noMotherTongue } from "./persona_wiring.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const culturesDir = join(root, "cultures");
@@ -230,5 +231,22 @@ describe("House: filenames are ASCII", () => {
       offenders,
       `non-ASCII filenames break links across platforms (NFC/NFD); transliterate them: ${offenders.join(", ")}`,
     ).toEqual([]);
+  });
+});
+
+// The persona-wiring gate reads its two rules out of two manifests rather than
+// carrying them: the widths a grip can take from the language engine, and the
+// tongues nobody acquires first from the tongues package. Neither is asserted
+// by value here - the engine may ship a new width and the package a new flag,
+// and both are theirs to change. What is asserted is that the reading still
+// finds something, because a rule read as an empty set is a gate that has gone
+// quiet without going red.
+describe("Cultures house: the persona-wiring contract is readable", () => {
+  it("the language engine still declares widths", () => {
+    expect(widths().size).toBeGreaterThan(0);
+  });
+
+  it("the tongues package still declares which tongues nobody acquires first", () => {
+    expect(noMotherTongue().size).toBeGreaterThan(0);
   });
 });
