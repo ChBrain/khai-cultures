@@ -3,6 +3,7 @@ khai: position
 title: "Berlinisch"
 declared: "det Berlinische"
 language: de-x-brl
+orthography: "author's own, on Berlin Mundartliteratur"
 review: "native"
 license: CC-BY-NC-SA-4.0
 stamp:

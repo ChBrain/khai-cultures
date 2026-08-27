@@ -3,6 +3,7 @@ khai: position
 title: "French"
 declared: "le français"
 language: fr
+orthography: "orthographe française standard"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
