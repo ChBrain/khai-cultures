@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **56 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **57 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -31,6 +31,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar.md`         | Bavarian as such: the family, spoken across three states and owned by none of them                                   | `bar`      |
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                            | `bar`      |
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                       | `bar`      |
+| `bar/position_language_bar_wien.md`    | Viennese: Middle Bavarian with one vowel moved, and a vocabulary the countryside never had                           | `bar`      |
 | `de/position_language_de.md`           | German as such, of which every de_* here is a variety                                                                | `de`       |
 | `de/position_language_de_ch.md`        | Swiss Standard German: a written form and almost nothing else                                                        | `de`       |
 | `de/position_language_de_de_bb.md`     | Brandenburg Standard German, on the East Low German floor of the Mark, pulled toward Berlin                          | `de`       |

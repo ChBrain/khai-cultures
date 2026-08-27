@@ -37,6 +37,11 @@
         "parent": "bar/position_language_bar.md"
       },
       {
+        "file": "bar/position_language_bar_wien.md",
+        "type": "position",
+        "parent": "bar/position_language_bar.md"
+      },
+      {
         "file": "de/position_language_de.md",
         "type": "position",
         "parent": "position_language.md"
