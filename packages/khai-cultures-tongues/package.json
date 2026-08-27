@@ -10,7 +10,7 @@
   },
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "files": [
-    "*.md"
+    "**/*.md"
   ],
   "khai": {
     "engine": "cultures-tongues",
