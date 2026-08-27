@@ -26,12 +26,13 @@ Od 15. do 17. stoljeća Osmansko Carstvo nadire prema srcu Europe, a Hrvatska le
 
 ## Action
 
-U stoljetnim ratovima Hrvatska postaje [predziđe kršćanstva](position_predzide_krscanstva.md), antemurale christianitatis: njezini banovi i krajišnici drže granicu, gradovi padaju i opet se brane, a puk krvari na pragu Europe. Iz te pogibli [Marko Marulić](persona_marulic.md) 1501. piše "Juditu", ep o ženi koja spašava svoj grad od osvajača, i daje narodu na vlastitome jeziku junaštvo i utjehu, dok Zapad moli za pomoć protiv Turaka.
+U stoljetnim ratovima Hrvatska postaje [predziđe kršćanstva](position_predzide_krscanstva.md), antemurale christianitatis: njezini banovi i krajišnici drže granicu, gradovi padaju i opet se brane, a puk krvari na pragu Europe. Isti ti krajišnici odlaze u tuđu službu na zapad, a s njima i rubac oko vrata koji Francuzi prozovu po njima: tako [kravata](piece_kravata.md) iz vojničkoga znaka postane odjeća cijeloga svijeta, a jedina hrvatska riječ koju svi nose i malo tko prepozna. Iz te pogibli [Marko Marulić](persona_marulic.md) 1501. piše "Juditu", ep o ženi koja spašava svoj grad od osvajača, i daje narodu na vlastitome jeziku junaštvo i utjehu, dok Zapad moli za pomoć protiv Turaka.
 
 ## Stage
 
 - [Marko Marulić](persona_marulic.md): humanist koji diže pero protiv osmanske pogibli.
 - [predziđe kršćanstva](position_predzide_krscanstva.md): granica koja krvari da brani prag Zapada.
+- [kravata](piece_kravata.md): rubac krajišnika u tuđoj službi, koji je svijet uzeo i ime zadržao.
 
 ## Tension
 

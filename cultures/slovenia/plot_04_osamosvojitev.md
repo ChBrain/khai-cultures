@@ -26,13 +26,16 @@ Konec osemdesetih let se Jugoslavija maje, Slovenija pa, njen najbolj urejen in 
 
 ## Action
 
-Sledi desetdnevna vojna: jugoslovanska vojska poskusi zasesti mejne prehode, a se po desetih dneh in malo prelite krvi umakne. Slovenija se tako skoraj brez krvi izvije iz Jugoslavije, na zastavo nove države postavi [Triglav](place_triglav.md) in se v [Ljubljani](place_ljubljana.md) obrne na zahod. Naglo steče pot v Unijo leta 2004, v evro leta 2007 in v schengensko območje; majhna dežela je prva iz nekdanje Jugoslavije in postane uspešna zgodba o srečnem, čistem pobegu.
+Sledi desetdnevna vojna: jugoslovanska vojska poskusi zasesti mejne prehode, a se po desetih dneh in malo prelite krvi umakne. Slovenija se tako skoraj brez krvi izvije iz Jugoslavije, na zastavo nove države postavi [Triglav](place_triglav.md) in se v [Ljubljani](place_ljubljana.md) obrne na zahod. Naglo steče pot v Unijo leta 2004, v evro leta 2007 in v schengensko območje; majhna dežela je prva iz nekdanje Jugoslavije in postane uspešna zgodba o srečnem, čistem pobegu. [Marija](persona_marija.md), ki je vsa jugoslovanska desetletja preživela v vasi pod gorami, dočaka državo, ki je prej ni bilo; [Luka](persona_luka.md), rojen v njej, hodi [v gore](process_v_gore.md) na goro z zastave in čez mejo na delo, ne da bi mu bilo eno ali drugo treba razložiti.
 
 ## Stage
 
 - [sončna stran Alp](position_soncna_stran_alp.md): narod, ki se dokončno obrne k zahodu in Uniji.
 - [Ljubljana](place_ljubljana.md): prestolnica nove samostojne države.
 - [Triglav](place_triglav.md): gora, ki jo ob osamosvojitvi postavijo na novo zastavo.
+- [Marija](persona_marija.md): babica z vasi pod gorami, ki dočaka državo po vseh jugoslovanskih desetletjih.
+- [Luka](persona_luka.md): rojen v novi državi, doma v gorah in v odprti Evropi hkrati.
+- [v gore](process_v_gore.md): hoja na Triglav, ki je za Slovenca opravilo in ne izlet.
 
 ## Tension
 

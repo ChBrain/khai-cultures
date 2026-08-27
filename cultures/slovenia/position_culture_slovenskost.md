@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Pripadnost majhnemu slovanskemu narodu, ki je stoletja živel pod nemško, habsburško gospodo, kot kmečko ljudstvo na [sončni strani Alp](position_soncna_stran_alp.md), obrnjeno na sever, k Dunaju, in ne na jug, k Balkanu. Svoj jezik je dobil zgodaj, v tisku, ko mu je Trubar leta 1550 natisnil prve knjige in Prešeren mu je dal liriko, ki stoji med velikimi, svojo državo pa pozno, leta 1991, skoraj brez krvi. Nosi [slovenščino](position_language_sl.md) z njeno dvojino, "midva", ki edina med sorodnimi jeziki ohranja obliko za dva, in [pridnost](position_pridnost.md), delavnost, varčnost in urejenost, kot mero, po kateri se malo ljudstvo prepozna. To je dediščina, ki je nihče ni izbral: majhnost, obrnjena na zahod, in tih ponos, da je narod, ki je dolgo služil tujim gospodom, nazadnje dozorel v svojo državo.
+Pripadnost majhnemu slovanskemu narodu, ki je stoletja živel pod nemško, habsburško gospodo, kot kmečko ljudstvo na [sončni strani Alp](position_soncna_stran_alp.md), obrnjeno na sever, k Dunaju, in ne na jug, k Balkanu. Svoj jezik je dobil zgodaj, v tisku, ko mu je Trubar leta 1550 natisnil prve knjige in Prešeren mu je dal liriko, ki stoji med velikimi, svojo državo pa pozno, leta 1991, skoraj brez krvi. Nosi [slovenščino](@chbrain/khai-cultures-tongues/sl/position_language_sl.md) z njeno dvojino, "midva", ki edina med sorodnimi jeziki ohranja obliko za dva, in [pridnost](position_pridnost.md), delavnost, varčnost in urejenost, kot mero, po kateri se malo ljudstvo prepozna. To je dediščina, ki je nihče ni izbral: majhnost, obrnjena na zahod, in tih ponos, da je narod, ki je dolgo služil tujim gospodom, nazadnje dozorel v svojo državo.
 
 ## Orders
 
