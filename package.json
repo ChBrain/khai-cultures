@@ -20,6 +20,7 @@
   "files": [
     "cultures/**",
     "registry.json",
+    "playwright_instructions.md",
     "README.md",
     "LICENSE",
     "LICENSE-CODE"
