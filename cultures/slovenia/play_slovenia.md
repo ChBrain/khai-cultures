@@ -50,7 +50,7 @@ Majhen slovanski narod, ki je stoletja živel pod nemškimi, habsburškimi gospo
 - [sončna stran Alp](position_soncna_stran_alp.md)
 - [pridnost](position_pridnost.md)
 - [slovenskost](position_culture_slovenskost.md)
-- [slovenščina](position_language_sl.md)
+- [slovenščina](@chbrain/khai-cultures-tongues/sl/position_language_sl.md)
 
 **Pieces**
 
@@ -69,11 +69,11 @@ Majhen slovanski narod, ki je stoletja živel pod nemškimi, habsburškimi gospo
 
 **[Plot 1: Trubarjeve knjige](plot_01_trubarjeve_knjige.md)**
 
-Leta 1550 [Primož Trubar](persona_trubar.md) natisne prvi slovenski knjigi; reformacija da neslišani [slovenščini](position_language_sl.md) prve črke in iz nje naredi knjižni jezik naroda, ki še nima ne države ne meja.
+Leta 1550 [Primož Trubar](persona_trubar.md) natisne prvi slovenski knjigi; reformacija da neslišani [slovenščini](@chbrain/khai-cultures-tongues/sl/position_language_sl.md) prve črke in iz nje naredi knjižni jezik naroda, ki še nima ne države ne meja.
 
 **[Plot 2: Prešeren](plot_02_preseren.md)**
 
-Sredi 19. stoletja [France Prešeren](persona_preseren.md) dvigne majhno [slovenščino](position_language_sl.md) v veliko liriko, v pomladi narodov pa njegova "Zdravljica" nazdravi vsem narodom in nikomur ne za sovražnika.
+Sredi 19. stoletja [France Prešeren](persona_preseren.md) dvigne majhno [slovenščino](@chbrain/khai-cultures-tongues/sl/position_language_sl.md) v veliko liriko, v pomladi narodov pa njegova "Zdravljica" nazdravi vsem narodom in nikomur ne za sovražnika.
 
 **[Plot 3: Pod Habsburžani](plot_03_pod_habsburzani.md)**
 
@@ -85,4 +85,4 @@ Leta 1991 se Slovenija v desetdnevni vojni skoraj brez krvi izvije iz Jugoslavij
 
 ## Stakes
 
-Ali majhen narod, ki je stoletja živel pod tujo gospodo in je svoj šele od včeraj, zmore v lastni državi in v odprti Evropi obdržati pokojno samozavest, ohraniti [reč](position_language_sl.md) z njeno dvojino med angleščino in nemščino, [sončno stran Alp](position_soncna_stran_alp.md) obrnjeno k zahodu in [pridnost](position_pridnost.md) kot žive korenine, in ne ostati za vekomaj le majhna dežela, ki šteje, ali je dovolj velika, da se obdrži.
+Ali majhen narod, ki je stoletja živel pod tujo gospodo in je svoj šele od včeraj, zmore v lastni državi in v odprti Evropi obdržati pokojno samozavest, ohraniti [reč](@chbrain/khai-cultures-tongues/sl/position_language_sl.md) z njeno dvojino med angleščino in nemščino, [sončno stran Alp](position_soncna_stran_alp.md) obrnjeno k zahodu in [pridnost](position_pridnost.md) kot žive korenine, in ne ostati za vekomaj le majhna dežela, ki šteje, ali je dovolj velika, da se obdrži.

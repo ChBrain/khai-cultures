@@ -26,13 +26,15 @@ Krajem 1980-ih i početkom 1990-ih raspada se Jugoslavija. Na demokratskim izbor
 
 ## Action
 
-Rat traje od 1991. do 1995. Pod opsadom i razaranjem [Vukovar](place_vukovar.md) pada nakon mjeseci obrane i postaje grad mučenik; topovi gađaju i [Dubrovnik](place_dubrovnik.md) pod zidinama, svjetsku baštinu. Cijena je teška: razoreni gradovi, mnogo poginulih i prognanih, rane koje će dugo ostati. Obranom i naporom cijele zemlje Hrvatska na kraju uspostavlja i obrani svoju državu, prvi put u novijoj povijesti gospodar na svome.
+Rat traje od 1991. do 1995. Pod opsadom i razaranjem [Vukovar](place_vukovar.md) pada nakon mjeseci obrane i postaje grad mučenik; topovi gađaju i [Dubrovnik](place_dubrovnik.md) pod zidinama, svjetsku baštinu. Cijena je teška: razoreni gradovi, mnogo poginulih i prognanih, rane koje će dugo ostati. [Kata](persona_kata.md), Dalmatinka iz kamenoga mjesta nad morem, u tim godinama gubi nekoga svoga i nosi to dalje bez riječi. Obranom i naporom cijele zemlje Hrvatska na kraju uspostavlja i obrani svoju državu, prvi put u novijoj povijesti gospodar na svome, a na zastavu nove države dođe [šahovnica](piece_sahovnica.md), grb star stoljećima i tek sada državni.
 
 ## Stage
 
 - [Vukovar](place_vukovar.md): podunavski grad razoren u opsadi, grad mučenik.
 - [Dubrovnik](place_dubrovnik.md): grad pod zidinama gađan topovima, svjetska baština.
 - [predziđe kršćanstva](position_predzide_krscanstva.md): narod opet na granici, u obrani praga i svoga.
+- [Kata](persona_kata.md): starija Dalmatinka koja u ratu gubi svoga i ostaje u mjestu.
+- [šahovnica](piece_sahovnica.md): grb star stoljećima, koji tek sada stoji na zastavi vlastite države.
 
 ## Tension
 

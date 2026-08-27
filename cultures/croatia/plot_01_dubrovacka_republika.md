@@ -26,13 +26,15 @@ Na južnome kraju [Jadrana](position_jadran.md), stisnut između moćne Venecije
 
 ## Action
 
-Stoljećima Dubrovnik čuva svoju slobodu vještom diplomacijom i trgovinom: plaća danak sultanu, pregovara s Venecijom i papom, i drži se podalje od svakoga rata koji bi ga progutao. Na zastavi mu stoji Libertas, sloboda, a brodovi mu plove Sredozemljem. Iz toga zlatnog doba izlaze pjesnici, graditelji i umovi poput [Ruđera Boškovića](persona_boskovic.md), a grad postaje biser obale i dokaz da i mali može opstati glavom umjesto mačem.
+Stoljećima Dubrovnik čuva svoju slobodu vještom diplomacijom i trgovinom: plaća danak sultanu, pregovara s Venecijom i papom, i drži se podalje od svakoga rata koji bi ga progutao. Na zastavi mu stoji Libertas, sloboda, a brodovi mu plove Sredozemljem. Iz toga zlatnog doba izlaze pjesnici, graditelji i umovi poput [Ruđera Boškovića](persona_boskovic.md), a grad postaje biser obale i dokaz da i mali može opstati glavom umjesto mačem. Uz to more ide i način na koji se ondje živi: [fjaka](process_fjaka.md), stanje u kojem se ništa ne žuri jer se ništa ne isplati žuriti po vrućini, i [klapa](process_klapa.md), pjevanje bez ijednoga instrumenta, u kojem se glasovi slažu jedan uz drugi dok ne zazvuče kao jedan.
 
 ## Stage
 
 - [Dubrovnik](place_dubrovnik.md): grad-država pod zidinama, sa svojom Libertas.
 - [Ruđer Bošković](persona_boskovic.md): dubrovački um koji znanost iznosi u svijet.
 - [Jadran](position_jadran.md): more i obala kao izvor slobode, trgovine i kulture.
+- [fjaka](process_fjaka.md): mediteransko stanje mirovanja, koje nije lijenost nego mjera.
+- [klapa](process_klapa.md): višeglasno pjevanje bez instrumenata, u kojem se glasovi moraju složiti ili ništa.
 
 ## Tension
 

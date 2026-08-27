@@ -54,6 +54,7 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 - [das Bairische](@chbrain/khai-cultures-tongues/bar/position_language_bar.md)
 - [das Weanerische](@chbrain/khai-cultures-tongues/bar/position_language_bar_wien.md)
 - [das Alemannische](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md)
+- [die slowenische Sprache](@chbrain/khai-cultures-tongues/sl/position_language_sl.md)
 - [die österreichische Kultur](position_culture_oesterreichische_kultur.md)
 
 **Pieces**

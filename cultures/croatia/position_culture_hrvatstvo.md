@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Pripadnost malomu narodu na granici, koji stoljećima nosi dvije duše u jednome tijelu: [predziđe kršćanstva](position_predzide_krscanstva.md), katoličku i srednjoeuropsku polovicu okrenutu Rimu i Beču, i [Jadran](position_jadran.md), sredozemnu polovicu okrenutu moru, otocima i Dubrovniku. Govori [hrvatski jezik](position_language_hr.md), koji je dobio svoj standard tek u ilirskome preporodu, blizak susjednomu jeziku do nerazlučivosti, a ipak čvrsto svoj. Nosi, bez da je birao, kamen i sol dalmatinskih gradova, klapu i fjaku juga, red i pobožnost sjevera, i sjećanje na državu koju je dobio kasno i skupo platio, u Domovinskome ratu.
+Pripadnost malomu narodu na granici, koji stoljećima nosi dvije duše u jednome tijelu: [predziđe kršćanstva](position_predzide_krscanstva.md), katoličku i srednjoeuropsku polovicu okrenutu Rimu i Beču, i [Jadran](position_jadran.md), sredozemnu polovicu okrenutu moru, otocima i Dubrovniku. Govori [hrvatski jezik](@chbrain/khai-cultures-tongues/hr/position_language_hr.md), koji je dobio svoj standard tek u ilirskome preporodu, blizak susjednomu jeziku do nerazlučivosti, a ipak čvrsto svoj. Nosi, bez da je birao, kamen i sol dalmatinskih gradova, klapu i fjaku juga, red i pobožnost sjevera, i sjećanje na državu koju je dobio kasno i skupo platio, u Domovinskome ratu.
 
 ## Orders
 
