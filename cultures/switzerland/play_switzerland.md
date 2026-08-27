@@ -54,7 +54,8 @@ Ein kleines Land mitten in Europa, das nicht durch eine Sprache, ein Volk oder e
 - [der Milizgedanke](position_milizsystem.md)
 - [die Neutralität](position_neutralitaet.md)
 - [das Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md)
-- [le francais de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md)
+- [das Schwiizerdütsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md)
+- [le français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md)
 - [l'italiano di Svizzera](@chbrain/khai-cultures-tongues/it/position_language_it_ch.md)
 - [il rumantsch](@chbrain/khai-cultures-tongues/rm/position_language_rm.md)
 
