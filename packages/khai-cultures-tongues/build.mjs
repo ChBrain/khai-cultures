@@ -62,6 +62,11 @@ export function varieties(dir = HERE) {
         tag: name.slice("position_language_".length, -3),
         declared: field(text, "declared"),
         language: field(text, "language"),
+        // The tongue -> language edge, as data rather than prose. Named for the
+        // width it forbids, not for speech: every file in this package is a
+        // spoken tongue simulated through writing, so `spoken` would have been
+        // the wrong word. This says only that nobody acquires this one first.
+        motherTongue: field(text, "mother_tongue") === "false" ? false : true,
       });
     }
   return out;
@@ -116,6 +121,20 @@ export function provenanceGaps(dir = HERE) {
   ].sort();
 }
 
+/**
+ * Members whose record does not say how they are written. Frontmatter carries
+ * only what is technical - the type, the name, the language code, the stamp -
+ * so the method of a performance belongs here, with the rest of what travels
+ * with the file when it leaves the culture that wrote it.
+ */
+export function orthographyGaps(dir = HERE) {
+  const entries = provenance(dir);
+  return members(dir)
+    .filter((m) => !String(entries[m.file]?.orthography ?? "").trim())
+    .map((m) => `${m.file}: its record does not say how it is written`)
+    .sort();
+}
+
 export function renderReadme(dir = HERE) {
   const v = varieties(dir);
   const p = provenance(dir);
@@ -165,7 +184,7 @@ export function renderReferences(dir = HERE) {
       const e = p[x.file] ?? {};
       const flag = e.review === "native" ? "**The prose is flagged for native review.** " : "";
       const from = e.from ? ` Came here from \`cultures/${e.from}\`, which wrote it.` : "";
-      return `| \`${x.file}\` | ${flag}${e.note ?? ""}${from} |`;
+      return `| \`${x.file}\` | ${e.orthography ?? ""} | ${flag}${e.note ?? ""}${from} |`;
     })
     .join("\n");
   return `# Tongues: References
@@ -175,8 +194,13 @@ what travels with the file when it leaves the culture that wrote it: who wrote
 it, whether a speaker of the tongue has read it, and what the reading against the
 position mnemonic found when it moved.
 
-| Variety | Provenance |
-| --- | --- |
+Each also records how it is written. A tongue file is that tongue performed
+rather than described, and where the tongue has no codified spelling somebody had
+to choose one; \`author's own\` marks the files where that somebody was this house,
+and the reader is owed that distinction.
+
+| Variety | Written in | Provenance |
+| --- | --- | --- |
 ${rows}
 
 Content is CC-BY-NC-SA, code is MIT.
@@ -204,11 +228,28 @@ const formatAs = async (raw, path) =>
  * A variety added to a language that is already here moves nothing; a language
  * added moves the minor. Computed, not counted, in both directions.
  */
+/**
+ * The half of the persona-wiring contract this package owns: which of its
+ * tongues nobody acquires first. The other half, the widths a grip can take, is
+ * owned by the language engine and read from its manifest - never copied here,
+ * because a rule typed in two places is a rule that will disagree with itself.
+ */
+export const wiring = (dir = HERE) => ({
+  noMotherTongue: varieties(dir)
+    .filter((v) => !v.motherTongue)
+    .map((v) => v.file),
+});
+
 export async function renderManifest(dir = HERE) {
   const path = join(dir, "package.json");
   const pkg = JSON.parse(readFileSync(path, "utf8"));
   pkg.version = deriveVersionFrom(pkg.version, countItems(dir, COLLECTION));
-  pkg.khai = { ...pkg.khai, collection: COLLECTION, members: members(dir) };
+  pkg.khai = {
+    ...pkg.khai,
+    collection: COLLECTION,
+    members: members(dir),
+    wiring: wiring(dir),
+  };
   return formatAs(JSON.stringify(pkg), path);
 }
 
@@ -225,7 +266,7 @@ export async function rendered(name, dir = HERE) {
 
 /** Drift between what is on disk and what the sources say it should be. */
 export async function drift(dir = HERE) {
-  const out = provenanceGaps(dir);
+  const out = [...provenanceGaps(dir), ...orthographyGaps(dir)];
   for (const name of GENERATED) {
     if (readFileSync(join(dir, name), "utf8") !== (await rendered(name, dir)))
       out.push(
