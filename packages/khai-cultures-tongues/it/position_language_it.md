@@ -3,7 +3,6 @@ khai: position
 title: "Italian"
 declared: "l'italiano"
 language: it
-orthography: "ortografia italiana standard"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

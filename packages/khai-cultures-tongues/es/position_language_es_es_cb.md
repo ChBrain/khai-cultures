@@ -3,7 +3,6 @@ khai: position
 title: "Cantabrian Spanish"
 declared: "el español de Cantabria"
 language: es
-orthography: "ortografía académica (RAE)"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -3,7 +3,6 @@ khai: position
 title: "Alemannic"
 declared: "s Alemannische"
 language: gsw
-orthography: "author's own, Alemannic dialect-writing practice; not Dieth-Schreibung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

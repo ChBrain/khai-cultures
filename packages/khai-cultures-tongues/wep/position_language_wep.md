@@ -3,7 +3,6 @@ khai: position
 title: "Westphalian"
 declared: "dat Westfäölske"
 language: wep
-orthography: "author's own, Westphalian dialect-writing practice"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

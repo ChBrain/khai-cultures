@@ -3,7 +3,6 @@ khai: position
 title: "Asturian Spanish"
 declared: "el español de Asturias"
 language: es
-orthography: "ortografía académica (RAE)"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

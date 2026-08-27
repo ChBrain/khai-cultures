@@ -3,7 +3,6 @@ khai: position
 title: "Swiss French"
 declared: "le français de Suisse"
 language: fr
-orthography: "orthographe française standard"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

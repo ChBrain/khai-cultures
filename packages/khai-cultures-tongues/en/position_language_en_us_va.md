@@ -3,7 +3,6 @@ khai: position
 title: "Virginian English"
 declared: "Virginian English"
 language: en
-orthography: "standard English orthography"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

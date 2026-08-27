@@ -3,7 +3,6 @@ khai: position
 title: "Low German"
 declared: "dat Plattdüütsch"
 language: nds
-orthography: "SASS-Schreibung, carried in and not verified against the norm"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

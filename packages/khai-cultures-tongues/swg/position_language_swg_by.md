@@ -3,7 +3,6 @@ khai: position
 title: "Bavarian Swabian"
 declared: "s Bayrisch-Schwäbische"
 language: swg
-orthography: "author's own, carried in from de_bavaria"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
