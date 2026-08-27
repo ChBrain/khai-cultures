@@ -3,7 +3,6 @@ khai: position
 title: "Bavarian"
 declared: "s Boarische"
 language: bar
-orthography: "author's own, Bairisch dialect-writing practice"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

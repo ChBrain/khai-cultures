@@ -3,7 +3,6 @@ khai: position
 title: "Romansh"
 declared: "il rumantsch"
 language: rm
-orthography: "Rumantsch Grischun"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

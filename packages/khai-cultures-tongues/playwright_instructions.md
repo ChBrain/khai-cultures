@@ -24,6 +24,15 @@ Authoring guidance, not runtime content, and it does not go on tour.
 
 ## Agent
 
+- Wire it into the chapter that holds it. A persona takes both links in
+  **Projection**, which is where what they carry belongs; a play lists the tongue
+  in **Company**; a plot that turns on it casts it in **Stage**; a
+  culture-position may name the tongues under it in **Has**. Elsewhere is
+  possible and wants a reason: a persona's **Action** can carry a tongue when the
+  scene turns on using it, and their **Tell** or **Shadow** can carry the words
+  that break through under pressure, but a tongue in a chapter that is not about
+  holding one is usually a description that has wandered.
+
 - Beside every grip, link the tongue that grip is on. Where a variety exists for
   what the persona actually speaks, link the variety and not the standard above
   it: a speaker whose mother tongue is the dialect and whose office language is
@@ -68,8 +77,10 @@ Authoring guidance, not runtime content, and it does not go on tour.
   language. It is not that such a tongue is unspoken - every file here is a
   spoken tongue put on a page - but that nobody acquires this one first; it is
   only ever learned on top of another.
-- Do declare, on every tongue, the `orthography` it is written in. Where the
+- Do record, for every tongue, the `orthography` it is written in. Where the
   tongue has a codified norm, name it; where it has none, somebody chose the
   spelling, and `author's own` says so. A performance whose method is undeclared
-  cannot be checked, reproduced, or told apart from a tradition.
+  cannot be checked, reproduced, or told apart from a tradition. It belongs with
+  the rest of the file's record and not in its frontmatter, which carries only
+  what is technical: the type, the name, the language code, the stamp.
 - Do not edit this package's files; wire only from the play's side.

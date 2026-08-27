@@ -67,11 +67,6 @@ export function varieties(dir = HERE) {
         // spoken tongue simulated through writing, so `spoken` would have been
         // the wrong word. This says only that nobody acquires this one first.
         motherTongue: field(text, "mother_tongue") === "false" ? false : true,
-        // How the tongue is put on a page. Every file here is speech simulated
-        // through writing, and for a tongue with no codified norm that means
-        // somebody chose the spelling. An undeclared choice is a performance
-        // nobody can check, reproduce, or tell from a tradition.
-        orthography: field(text, "orthography"),
       });
     }
   return out;
@@ -126,11 +121,17 @@ export function provenanceGaps(dir = HERE) {
   ].sort();
 }
 
-/** Members declaring no orthography: a performance with its method unrecorded. */
+/**
+ * Members whose record does not say how they are written. Frontmatter carries
+ * only what is technical - the type, the name, the language code, the stamp -
+ * so the method of a performance belongs here, with the rest of what travels
+ * with the file when it leaves the culture that wrote it.
+ */
 export function orthographyGaps(dir = HERE) {
+  const entries = provenance(dir);
   return members(dir)
-    .filter((m) => !field(readFileSync(join(dir, m.file), "utf8"), "orthography").trim())
-    .map((m) => `${m.file}: declares no orthography`)
+    .filter((m) => !String(entries[m.file]?.orthography ?? "").trim())
+    .map((m) => `${m.file}: its record does not say how it is written`)
     .sort();
 }
 
@@ -183,7 +184,7 @@ export function renderReferences(dir = HERE) {
       const e = p[x.file] ?? {};
       const flag = e.review === "native" ? "**The prose is flagged for native review.** " : "";
       const from = e.from ? ` Came here from \`cultures/${e.from}\`, which wrote it.` : "";
-      return `| \`${x.file}\` | ${x.orthography} | ${flag}${e.note ?? ""}${from} |`;
+      return `| \`${x.file}\` | ${e.orthography ?? ""} | ${flag}${e.note ?? ""}${from} |`;
     })
     .join("\n");
   return `# Tongues: References

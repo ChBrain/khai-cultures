@@ -3,7 +3,6 @@ khai: position
 title: "Pennsylvania English"
 declared: "Pennsylvania English"
 language: en
-orthography: "standard English orthography"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

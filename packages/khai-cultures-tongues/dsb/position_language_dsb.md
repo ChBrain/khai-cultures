@@ -3,7 +3,6 @@ khai: position
 title: "Lower Sorbian"
 declared: "dolnoserbšćina"
 language: dsb
-orthography: "dolnoserbski pšawopis"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

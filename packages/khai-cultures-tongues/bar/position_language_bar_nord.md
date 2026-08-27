@@ -3,7 +3,6 @@ khai: position
 title: "Northern Bavarian"
 declared: "s Nordboarische"
 language: bar
-orthography: "author's own, Bairisch dialect-writing practice"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
