@@ -3,6 +3,7 @@ khai: position
 title: "the Slovene Language"
 declared: "slovenščina"
 language: sl
+orthography: "slovenski pravopis"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

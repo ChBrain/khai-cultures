@@ -3,6 +3,7 @@ khai: position
 title: "Upper Saxon"
 declared: "s Sächs'sche"
 language: sxu
+orthography: "author's own, Upper Saxon dialect-writing practice"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

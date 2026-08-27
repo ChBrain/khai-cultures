@@ -3,6 +3,7 @@ khai: position
 title: "Palatine German"
 declared: "es Pälzisch"
 language: pfl
+orthography: "author's own, Palatine dialect-writing practice"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
