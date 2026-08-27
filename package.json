@@ -25,6 +25,9 @@
     "LICENSE",
     "LICENSE-CODE"
   ],
+  "workspaces": [
+    "packages/*"
+  ],
   "khai": {
     "engine": "cultures",
     "collection": {
@@ -74,14 +77,13 @@
     "test": "vitest run --test-timeout=30000",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version && npx khai-tests registry build && npx prettier --write registry.json",
+    "version": "changeset version && node packages/khai-cultures-tongues/build.mjs --write && npx khai-tests registry build && npx prettier --write registry.json packages/khai-cultures-tongues",
     "release": "changeset publish",
     "registry": "npx khai-tests registry build"
   },
   "devDependencies": {
     "@changesets/cli": "^3.0.1",
     "@chbrain/khai-arch": "^0.1.25",
-    "@chbrain/khai-cultures-tongues": "file:./packages/khai-cultures-tongues",
     "@chbrain/khai-guard": "^0.2.1",
     "@chbrain/khai-language": "^0.1.25",
     "@chbrain/khai-pack": "^0.0.3",
@@ -92,6 +94,7 @@
     "vitest": "^4.1.11"
   },
   "dependencies": {
+    "@chbrain/khai-cultures-tongues": "^0.20.0",
     "@chbrain/khai-engine-language": "^0.1.5",
     "@chbrain/khai-engine-spine": "^0.1.5"
   }

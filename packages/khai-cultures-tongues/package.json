@@ -1,7 +1,6 @@
 {
   "name": "@chbrain/khai-cultures-tongues",
   "version": "0.20.0",
-  "private": true,
   "description": "The tongues of the Cultures house: one khai position per language variety, held by the speech community that speaks it rather than owned by a country.",
   "type": "module",
   "exports": {
@@ -9,8 +8,12 @@
     "./*.md": "./*.md"
   },
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "files": [
-    "*.md"
+    "**/*.md"
   ],
   "khai": {
     "engine": "cultures-tongues",
