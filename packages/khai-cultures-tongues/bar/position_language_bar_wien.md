@@ -23,20 +23,27 @@ Parent group: positions
 
 ## Has
 
-S Weanerische is Mittlboarisch, owa net des gleiche wia des, wos zwaahundert
-Kilometa weida westlich gredt wead, und der ganze Unterschied hängt an am
-oanzigen Vokal. Wo s Boarische vom Land aus m oidn ei a oa mocht, mocht s
-Weanerische a longs a: dort sogt ma oans zwoa drei und do sog ma ans zwa drei,
-dort hoaßt s Stoa und hoaß und kloa und woaß, do hoaßt s Staa und haaß und klaa
-und waaß. Des is d Weana Monophthongierung, und se geht durch a jeds Woat, in dem
-der Laut vurkummt. A oanziger Vokal, und du waaßt, ob aana ausn Weanerischn
-kummt oda vom Boarischn nebndran.
+S Weanerische is Mittlboarisch, owa net des gleiche wia des vom Land
+rundumadum, und der Unterschied hängt an zwaa Vokal. Wo s Boarische draußt ausm
+oidn ei a oa mocht, mocht s Weanerische a longs a: draußt sogt ma oans zwoa drei
+und do sog ma ans zwa drei, draußt hoaßt s Stoa und hoaß und woaß, do hoaßt s
+Staa und haaß und waaß. Und beim au geht s genauso: ausm Haus wead a Håås. Des
+is d Weana Monophthongierung.
 
-Und s hot an Wortschotz, den ka Dorf hot, weu er aus da ganzn Monarchie
-zuwakemma is: s Powidl und d Buchtln und d Kolatschn ausm Tschechischn, s Beisl
-und da Hawara ausm Jiddischn, da Fiaker und d Trafik von no weida her. De Weata
-san ka Lehnweata mehr, de san do; a Weana braucht ka Wörterbuach, um s zum
-verstehn, und in kam deitschn Wörterbuach steht, dass s wöche san.
+Owa se is ka Gsetz, se is a Stufn. Se is do, sobold aana breit redt, und se geht
+zruck, wann er si zsammnimmt, und der gleiche Mensch mocht s im gleichn Gspräch
+amoi so und amoi so. Und s stimmt a net, dass de Jungan s verlernt hättn: de
+kennan s no genauso, se hoin s hervur, wann s hervurghert, und lossn s wieda
+liegn.
+
+Und s hot an Wortschotz, der wo ausm ganzn oidn Reich zuwakemma is: s Powidl und
+d Buchtln und d Kolatschn ausm Tschechischn, s Beisl und da Hawara ausm
+Jiddischn, d Trafik und s Häferl und da Gschropp. De Weata ghean owa net bloß
+uns. De meistn davo sogt ma in gonz Östareich und vüle a in Bayern, und wer
+bhauptet, des war unser Eigntum, hot no nia zuaghert. Wos wirklich bloß do steht,
+is da Fiaker. Wos uns unterscheidt, is net, dass mia de Weata hättn und de andan
+net, sondern dass s bei uns olle auf oanmoi beinand san, weu d Stodt de Sprochn
+zuwazogn hot, aus denen s kemman.
 
 Und dann is no des Meidlinger L, der dunkle Laut, an dem ma sofort heat, aus
 wöcha Eckn und aus wöcha Loag aana kummt. Der geheat dazua, owa er is a Klang und
@@ -44,17 +51,18 @@ ka Buachstob: er steht do gnennt und net gschriem, weu er si net schreim losst.
 
 ## Orders
 
-Es verlangt den Monophthong, und zwoar in jedem Woat. Wer do oans sogt, hot si
-sööba außigstöt, no eh er den Sotz fertig hot, und der Vokal reicht dafia — ma
-braucht kaan zwaatn.
+Es verlangt net den Monophthong. Es verlangt, dass ma waaß, wos er sogt. Wer ans
+sogt, sogt net bloß aans: er sogt a dazua, wia weit er si aufmocht und mit wem er
+grod redt. Und wer do oans sogt, is entweder net von do oda hebt si grod ab. Der
+Laut trogt de Nachricht mit, ob ma wui oda net, und ausschoitn ko ma eahm nia.
 
 Es verlangt, dass ma de zuwakemmanan Weata wia eigene sogt. Powidl und Beisl und
 Tschick san ka Fremdweata und deafn a net so klinga: wer s tschechisch oda
 jiddisch betont, mocht si zum Gscheidhaferl. In dera Sproch san s dahoam, und wo
 s heakemma san, geht kaam wos an.
 
-Und es verlangt in jedem Sotz a Entscheidung, wia braat ma redt. S Weanerische is
-net bloß a Gegend, s is a Loata: vom gonz breitn Grätzldeitsch bis fast aufi zum
+Und weu s a Loata is und ka Gegend, verlangt s in jedem Sotz a Entscheidung, auf
+wöcha Sprossn ma steht: vom gonz breitn Grätzldeitsch bis fast aufi zum
 Hochdeitschn, und wer s ko, geht in oam oanzigen Gspräch mehrmois rauf und owe.
 Aussteign ko ma, owa ohne Sprossn geht s net.
 
