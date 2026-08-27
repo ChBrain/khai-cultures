@@ -26,12 +26,13 @@ Napoleon ist besiegt, und Europa muss neu geordnet werden. Nach [Wien](place_wie
 
 ## Action
 
-[Metternich](persona_metternich.md) führt die Verhandlungen und ordnet Europa zu einem Gleichgewicht, das Jahrzehnte hält. Während im Hintergrund mit feiner Indirektheit um Macht gefeilscht wird, tanzt der Kongress: Bälle, Empfänge und der [Walzer](piece_walzer.md) sind selbst ein Teil der Diplomatie.
+[Metternich](persona_metternich.md) führt die Verhandlungen und ordnet Europa zu einem Gleichgewicht, das Jahrzehnte hält. Während im Hintergrund mit [dem Schmäh](position_schmaeh.md) um Macht gefeilscht wird, mit der feinen Indirektheit, die ein Nein als Vielleicht und einen Vorwurf als Witz verpackt, tanzt der Kongress: Bälle, Empfänge und der [Walzer](piece_walzer.md) sind selbst ein Teil der Diplomatie.
 
 ## Stage
 
 - [Metternich](persona_metternich.md): der Meister der diplomatischen Umwege.
 - [der Walzer](piece_walzer.md): die Diplomatie, die als Fest verkleidet ist.
+- [der Schmäh](position_schmaeh.md): der Umweg als Verhandlungsform, hier zum ersten Mal in europäischem Massstab.
 
 ## Tension
 

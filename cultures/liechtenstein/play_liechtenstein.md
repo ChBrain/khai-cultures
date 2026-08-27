@@ -47,7 +47,7 @@ Ein kleines Land von Bergtälern, das durch kluge Diplomatie und die Treue zum F
 - [das Fürstenhaus](position_fuerstenhaus.md)
 - [das Rheintal](position_rheintal.md)
 - [der Finanzplatz](position_finanzplatz.md)
-- [das liechtensteinische Hochdeutsch](position_language_de_li.md)
+- [das liechtensteinische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_li.md)
 
 **Pieces**
 

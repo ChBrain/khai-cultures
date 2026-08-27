@@ -26,12 +26,13 @@ Easter 1916, and the Great War raging away across Europe, a small band of republ
 
 ## Action
 
-[Pádraig Pearse](persona_pearse.md) and the rebels seize the General Post Office above in [Dublin](place_dublin.md) and proclaim out the Republic. The Rising is crushed inside the week, but the execution of its leaders turns the whole country, and within a few short years comes the War of Independence and the Free State.
+[Pádraig Pearse](persona_pearse.md) and the rebels seize the General Post Office above in [Dublin](place_dublin.md) and proclaim out the Republic. The Rising is crushed inside the week, but the execution of its leaders turns the whole country, and within a few short years comes the War of Independence and the Free State, which puts [the harp](piece_the_harp.md) on its seal and its coins: the same harp the Crown had carried before it, and the same one a brewery had already registered turned the other way round, so the State had to face its own emblem the other way to have it at all.
 
 ## Stage
 
 - [Pádraig Pearse](persona_pearse.md): the schoolmaster who reads out the Proclamation and gives himself over to the cause.
 - [Dublin](place_dublin.md): the GPO and the streets where the Republic is declared out.
+- [the harp](piece_the_harp.md): the emblem the new State takes up, having to turn it around to claim it.
 
 ## Tension
 

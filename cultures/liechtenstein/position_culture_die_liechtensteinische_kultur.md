@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Zugehörigkeit zu einem der kleinsten Staaten Europas, der seine Souveränität seit der Erhebung zum Fürstentum 1719 über Jahrhunderte bewahrt hat. Sie besitzt die Treue zu [das Fürstenhaus](position_fuerstenhaus.md), das die Einheit und die Unabhängigkeit des Landes verkörpert; sie besitzt [das Rheintal](position_rheintal.md) mit seiner alemannischen Mundart und seiner Bindung an den Fluss und die Alpen; und sie besitzt [der Finanzplatz](position_finanzplatz.md), der aus einem bäuerlichen Kleinstaat einen wohlhabenden globalen Standort gemacht hat. Sie spricht [das liechtensteinische Hochdeutsch](position_language_de_li.md) in Amt und Schrift und die alemannische Mundart im Alltag, und sie trägt den Stolz, klein zu sein und dennoch eigenständig zu bleiben.
+Die Zugehörigkeit zu einem der kleinsten Staaten Europas, der seine Souveränität seit der Erhebung zum Fürstentum 1719 über Jahrhunderte bewahrt hat. Sie besitzt die Treue zu [das Fürstenhaus](position_fuerstenhaus.md), das die Einheit und die Unabhängigkeit des Landes verkörpert; sie besitzt [das Rheintal](position_rheintal.md) mit seiner alemannischen Mundart und seiner Bindung an den Fluss und die Alpen; und sie besitzt [der Finanzplatz](position_finanzplatz.md), der aus einem bäuerlichen Kleinstaat einen wohlhabenden globalen Standort gemacht hat. Sie spricht [das liechtensteinische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_li.md) in Amt und Schrift und die alemannische Mundart im Alltag, und sie trägt den Stolz, klein zu sein und dennoch eigenständig zu bleiben.
 
 ## Orders
 

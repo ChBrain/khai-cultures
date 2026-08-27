@@ -25,13 +25,15 @@ Die 11 Februarii 1929, Sancta Sedes et regnum Italiae Pacta Lateranensia subscri
 
 ## Action
 
-Pactis constituitur [Civitas Vaticana](position_civitas.md), status sui iuris ac minimus terrarum orbe, qui libertatem summi pontificis in officio exercendo vicit. Maria archivista haec pacta quotidie inquirit in scriniis vaticanis.
+Pactis constituitur [Civitas Vaticana](position_civitas.md), status sui iuris ac minimus terrarum orbe, qui libertatem summi pontificis in officio exercendo vicit, et cum ea libertatem [conclavis](process_conclave.md), in quod principes saeculares antea veto suo intercedere temptaverant. Maria archivista haec pacta quotidie inquirit in [Bibliotheca Apostolica](place_bibliotheca.md).
 
 ## Stage
 
 - [Civitas Vaticana](position_civitas.md) : territorium sui iuris quod libertatem papae tuetur.
 - [Maria](persona_maria.md) : erudita mulier quae documenta pactorum in tabulario legit.
 - [Tiara Papalis](piece_tiara.md) : insignia dignitatis quae iam nullum regnum saeculare significat sed liberum munus.
+- [Bibliotheca Apostolica](place_bibliotheca.md) : scrinia et tabularium ubi pactorum exemplaria custodiuntur.
+- [conclave](process_conclave.md) : electio pontificis clausis valvis, cuius libertas his pactis firmatur.
 
 ## Tension
 

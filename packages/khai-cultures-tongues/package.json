@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures-tongues",
-  "version": "0.15.0",
+  "version": "0.18.0",
   "private": true,
   "description": "The tongues of the Cultures house: one khai position per language variety, held by the speech community that speaks it rather than owned by a country.",
   "type": "module",
@@ -37,9 +37,19 @@
         "parent": "bar/position_language_bar.md"
       },
       {
+        "file": "bar/position_language_bar_wien.md",
+        "type": "position",
+        "parent": "bar/position_language_bar.md"
+      },
+      {
         "file": "de/position_language_de.md",
         "type": "position",
         "parent": "position_language.md"
+      },
+      {
+        "file": "de/position_language_de_ch.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
       },
       {
         "file": "de/position_language_de_de_bb.md",
@@ -118,6 +128,11 @@
       },
       {
         "file": "de/position_language_de_de_th.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
+        "file": "de/position_language_de_li.md",
         "type": "position",
         "parent": "de/position_language_de.md"
       },
@@ -207,6 +222,16 @@
         "parent": "es/position_language_es.md"
       },
       {
+        "file": "fr/position_language_fr.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "fr/position_language_fr_ch.md",
+        "type": "position",
+        "parent": "fr/position_language_fr.md"
+      },
+      {
         "file": "gsw/position_language_gsw.md",
         "type": "position",
         "parent": "position_language.md"
@@ -215,6 +240,16 @@
         "file": "hsb/position_language_hsb.md",
         "type": "position",
         "parent": "position_language.md"
+      },
+      {
+        "file": "it/position_language_it.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "it/position_language_it_ch.md",
+        "type": "position",
+        "parent": "it/position_language_it.md"
       },
       {
         "file": "ksh/position_language_ksh.md",
@@ -233,6 +268,11 @@
       },
       {
         "file": "rif/position_language_rif.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "rm/position_language_rm.md",
         "type": "position",
         "parent": "position_language.md"
       },

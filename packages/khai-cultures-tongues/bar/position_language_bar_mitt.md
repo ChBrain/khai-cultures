@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-S Mittlboarische is des Boarische vom Donaugürtl: Obabayern und Niedabayern, und weida naus üba Salzburg bis Wien, so dass de zwoa greßtn Städt vom ganzn boarischn Raum, München und Wien, dieselbe Sortn redn. Es macht aus m alt-hochdeitschn uo a ua und aus m ie a ia, da Bruada und s Liacht und guad, und aus m ei a oa, an Stoa fian Stein und hoaß fia heiß. Und es vokalisiert s l vor am Mitlaut, so dass s Gold zum Goid wird, da Wald zum Woid und s Salz zum Soiz — a Laut, der wo in da Schrift gar nia vorkummt.
+S Mittlboarische is des Boarische vom Donaugürtl: Obabayern und Niedabayern, und weida naus üba Salzburg bis Wien, so dass de zwoa greßtn Städt vom ganzn boarischn Raum, München und Wien, de gleiche Sortn redn — owa net den gleichn Vokal. Es macht aus m alt-hochdeitschn uo a ua und aus m ie a ia, da Bruada und s Liacht und guad, und aus m ei a oa, an Stoa fian Stein und hoaß fia heiß; bloß am östlichn End, in da Stodt, geht des oa oft no an Schritt weida zum langa a, und ausm Stoa wead a Staa und ausm hoaß a haaß. Und es vokalisiert s l vor am Mitlaut, so dass s Gold zum Goid wird, da Wald zum Woid und s Salz zum Soiz — a Laut, der wo in da Schrift gar nia vorkummt.
 
 ## Orders
 
