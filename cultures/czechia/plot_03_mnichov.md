@@ -26,12 +26,13 @@ Demokratické Československo, vzkříšené roku 1918, má dobrou armádu i ope
 
 ## Action
 
-Spojenci, na něž Československo spoléhalo, mu nařídí vydat pohraničí Hitlerovi, a země se beze střelby podvolí, aby nezůstala sama proti přesile. Za půl roku zabere Německo i zbytek a nastává okupace. "O nás bez nás" se stane jménem zrady, která potvrdí, že malému národu velmoci pomohou jen do chvíle, kdy se to hodí jim.
+Spojenci, na něž Československo spoléhalo, mu nařídí vydat pohraničí Hitlerovi, a země se beze střelby podvolí, aby nezůstala sama proti přesile. Za půl roku zabere Německo i zbytek a nastává okupace. "O nás bez nás" se stane jménem zrady, která potvrdí, že malému národu velmoci pomohou jen do chvíle, kdy se to hodí jim. Zbude obrana, kterou patnáct let předtím pojmenoval [Jaroslav Hašek](persona_hasek.md) svým vojákem: nikdy neříct ne a nikdy neudělat, co se poručí.
 
 ## Stage
 
 - [pohraničí](place_pohranici.md): odtržené pásmo, jež padne Hitlerovi a otevře cestu k okupaci.
 - [švejkování](position_svejkovani.md): obrana přečkáním, již zrada velmocí znovu potvrdí.
+- [Jaroslav Hašek](persona_hasek.md): spisovatel, který téhle obraně dal jméno a tvář, dřív než jí bylo znovu třeba.
 
 ## Tension
 
