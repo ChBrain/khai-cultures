@@ -321,6 +321,12 @@
       "dir": ".",
       "key": "tongues",
       "anchor": "position_language_"
+    },
+    "wiring": {
+      "unspoken": [
+        "de/position_language_de_ch.md",
+        "de/position_language_de_li.md"
+      ]
     }
   }
 }

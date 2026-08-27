@@ -3,6 +3,7 @@ khai: position
 title: "Liechtenstein Standard German"
 declared: "das liechtensteinische Hochdeutsch"
 language: de
+spoken: false
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

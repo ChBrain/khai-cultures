@@ -62,6 +62,10 @@ export function varieties(dir = HERE) {
         tag: name.slice("position_language_".length, -3),
         declared: field(text, "declared"),
         language: field(text, "language"),
+        // The tongue -> language edge, as data rather than prose. A written form
+        // nobody grows up in cannot be a mother tongue, and the persona-wiring
+        // gate reads this rather than parsing the file's own account of itself.
+        spoken: field(text, "spoken") === "false" ? false : true,
       });
     }
   return out;
@@ -204,11 +208,28 @@ const formatAs = async (raw, path) =>
  * A variety added to a language that is already here moves nothing; a language
  * added moves the minor. Computed, not counted, in both directions.
  */
+/**
+ * The half of the persona-wiring contract this package owns: which of its
+ * tongues nobody grows up in. The other half, the widths a grip can take, is
+ * owned by the language engine and read from its manifest - never copied here,
+ * because a rule typed in two places is a rule that will disagree with itself.
+ */
+export const wiring = (dir = HERE) => ({
+  unspoken: varieties(dir)
+    .filter((v) => !v.spoken)
+    .map((v) => v.file),
+});
+
 export async function renderManifest(dir = HERE) {
   const path = join(dir, "package.json");
   const pkg = JSON.parse(readFileSync(path, "utf8"));
   pkg.version = deriveVersionFrom(pkg.version, countItems(dir, COLLECTION));
-  pkg.khai = { ...pkg.khai, collection: COLLECTION, members: members(dir) };
+  pkg.khai = {
+    ...pkg.khai,
+    collection: COLLECTION,
+    members: members(dir),
+    wiring: wiring(dir),
+  };
   return formatAs(JSON.stringify(pkg), path);
 }
 
