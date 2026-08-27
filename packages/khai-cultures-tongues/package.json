@@ -47,6 +47,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "de/position_language_de_at.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
         "file": "de/position_language_de_ch.md",
         "type": "position",
         "parent": "de/position_language_de.md"

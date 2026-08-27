@@ -26,12 +26,16 @@ Na podzim 1989 se po dvaceti letech normalizace, nastolené po rozdrcení pražs
 
 ## Action
 
-Během několika týdnů padne režim beze střelby. Občanské fórum vedené disidenty a v čele s dramatikem [Václavem Havlem](persona_havel.md) dojedná předání moci a Havel se z vězně stane prezidentem. Je to revoluce v rukavičkách, jemná, ironická a beze krve, věrná povaze národa, který nechce velké gesto: pravda zvítězí, ale potichu a s úsměvem.
+Během několika týdnů padne režim beze střelby. Občanské fórum vedené disidenty a v čele s dramatikem [Václavem Havlem](persona_havel.md) dojedná předání moci a Havel se z vězně stane prezidentem. Je to revoluce v rukavičkách, jemná, ironická a beze krve, věrná povaze národa, který nechce velké gesto: pravda zvítězí, ale potichu a s úsměvem. [Jiřina](persona_jirina.md), která jako dítě zažila okupaci a jako matka režim, to sleduje z menšího města a nevěří ani teď. Přečkalo se to tam, kde se přečkávalo vždycky: v [hospodě](process_hospoda.md) u piva a [knedlíku](piece_knedlik.md), kde se mluvilo nahlas, a na [chatě](process_chatareni.md) za městem, kam vrchnost nedosáhla a kam se na dvacet let odstěhoval soukromý život.
 
 ## Stage
 
 - [Praha](place_praha.md): náměstí, kde dav cinká klíči a režim se hroutí.
 - [Václav Havel](persona_havel.md): disident, který se stane prezidentem.
+- [Jiřina](persona_jirina.md): babička, která přečkala obě totality a vrchnosti nevěří ani po ní.
+- [hospoda](process_hospoda.md): stůl, u kterého se za režimu mluvilo nahlas, protože jinde se nedalo.
+- [knedlík](piece_knedlik.md): jídlo, které na tom stole leží pokaždé a nikdy se nemění.
+- [chataření](process_chatareni.md): útěk za město na víkend, kam se na dvacet let odstěhoval soukromý život.
 
 ## Tension
 

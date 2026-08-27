@@ -26,12 +26,16 @@ Az első világháború végén az Osztrák-Magyar Monarchia szétesik, és a ve
 
 ## Action
 
-A béke a történelmi Magyarország kétharmadát elcsatolja, és minden harmadik magyart idegen állam alá helyez: [Erdély](place_erdely.md) Romániához, a Felvidék Csehszlovákiához, a Délvidék a délszláv államhoz, Kárpátalja később a Szovjetunióhoz kerül. Az ország egyik napról a másikra a szavait és a rokonait veszti a határ rossz oldalán. Megnyílik a [seb](position_trianon.md), amely a 20. századi magyar önérzetet máig meghatározza.
+A béke a történelmi Magyarország kétharmadát elcsatolja, és minden harmadik magyart idegen állam alá helyez: [Erdély](place_erdely.md) Romániához, a Felvidék Csehszlovákiához, a Délvidék a délszláv államhoz, Kárpátalja később a Szovjetunióhoz kerül. Az ország egyik napról a másikra a szavait és a rokonait veszti a határ rossz oldalán. Megnyílik a [seb](position_trianon.md), amely a 20. századi magyar önérzetet máig meghatározza: [Bence](persona_bence.md) száz évvel később [Erdélyben](place_erdely.md) születik román állampolgárnak, és otthon magyarul beszél, mert egyetlen nap eldöntötte, melyik oldalon nő fel. Amit a béke nem tudott elvenni, az a mindennapi: a [paprika](piece_paprika.md), amely nélkül nincs étel, a [fürdő](process_furdo.md), amelynek a medencéit még a törökök rakták, és a [mulatság](process_mulatsag.md), amelyben a magyar sírva vigad, mert az öröm és a veszteség egyszerre fér bele.
 
 ## Stage
 
 - [a trianoni seb](position_trianon.md): a nemzet máig élő sebe, az elcsatolt földek és a határon túli magyarok.
 - [Erdély](place_erdely.md): a legnagyobb elszakított ország, magyarok millióinak szülőföldje.
+- [Bence](persona_bence.md): erdélyi magyar, akit a határ rossz oldalán ér a saját anyanyelve.
+- [a paprika](piece_paprika.md): a fűszer, amely nélkül nincs magyar étel, és amely maradt, amikor a föld nem.
+- [a fürdő](process_furdo.md): a török rakta medencék, amelyek a határok minden változását túlélik.
+- [a mulatság](process_mulatsag.md): a lakoma, amelyben sírva vigad az ember, mert kétfélét egyszerre érez.
 
 ## Tension
 

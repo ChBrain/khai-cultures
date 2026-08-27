@@ -288,5 +288,10 @@
     "from": "croatia",
     "tongue": "Croatian as such, of which Burgenland Croatian will be a variety",
     "note": "Migrated with nothing cut. Written in Croatian, its own anchor. Migrated now rather than later because it is the anchor Burgenland Croatian will hang from: gradiscanskohrvatski has cleared the entry price on research - a codified written norm with writable diagnostics against the standard, ca against sto, va lozi against u lozu, the ikavian ric and dite - but it is not written yet, because writing a variety needs authored prose in it to work from and none has been obtained. The directory is here and the file is not, which is the honest state."
+  },
+  "de/position_language_de_at.md": {
+    "from": "austria",
+    "tongue": "Austrian Standard German: the same grammar with another vocabulary, and one different auxiliary",
+    "note": "Migrated and thinned. Its opening clause restated the anchor (`traegt dieselbe Wortbau- und Kasusfaehigkeit wie das Deutsch ueberhaupt`) and its Orders opened with `wie jedes Deutsch`, which is exactly the thinness the de anchor was written to cure. What it keeps is its own: Erdapfel, Jaenner, Sackerl, Marille, Paradeiser, Karfiol, the productive -erl, and the soft barely-aspirated onset. What it gained is the grammatical fact it was missing, and it is a real one: the sein-perfect with the verbs of standing, sitting and lying - ich bin gestanden, ich bin gesessen, ich bin gelegen, where the north takes haben. That is a different choice of auxiliary, not a colouring, and it falls due in every second sentence without a speaker ever making it consciously. Two more Orders came with it: the near-total avoidance of the simple preterite in speech, so a narrated sentence cannot be built any other way than it is built; and the title before the name, which puts a rank into the greeting - whoever does not know the title cannot be polite in this language, only vague. Migrating it finishes the German-language tongues of the DACH group except de_de, and it only cost two castings, because the four cultures that would have carried the rest were finished in the three batches before this one."
   }
 }

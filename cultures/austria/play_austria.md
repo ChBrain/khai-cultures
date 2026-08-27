@@ -50,7 +50,7 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 - [der Titel](position_titel.md)
 - [der Schmäh](position_schmaeh.md)
 - [der Grant](position_grant.md)
-- [das österreichische Deutsch](position_language_de_at.md)
+- [das österreichische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_at.md)
 - [das Bairische](@chbrain/khai-cultures-tongues/bar/position_language_bar.md)
 - [das Weanerische](@chbrain/khai-cultures-tongues/bar/position_language_bar_wien.md)
 - [das Alemannische](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md)
