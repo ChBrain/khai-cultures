@@ -14,9 +14,15 @@ sounds into a persona, because those four chapters are the tongue’s and writte
 twice they will disagree.
 
 With it, the tongue → language edge becomes data instead of prose. `de_ch` said in
-its own text that it is a written form nobody speaks, and nothing could act on a
-sentence. It now carries `spoken: false`, as does `de_li`, and `build.mjs` surfaces
-both into `khai.wiring.unspoken` so a gate can read them.
+its own text that it is a written form nobody grows up in, and nothing could act on
+a sentence. It now carries `mother_tongue: false`, as does `de_li`, and `build.mjs`
+surfaces both into `khai.wiring.noMotherTongue` so a gate can read them.
+
+The field is named for the width it forbids and not for speech, because every file
+in this package is a spoken tongue simulated through writing — `bar_wien` is
+Wienerisch on a page, a tongue that lives in the mouth made readable — so `spoken`
+would have been exactly the wrong word. What is true of `de_ch` is not that it goes
+unspoken but that nobody acquires it first.
 
 The widths a grip can take are deliberately **not** copied here. They derive from
 the language engine’s own manifest — 18 leaves of its members tree — and a rule

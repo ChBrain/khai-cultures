@@ -3,7 +3,7 @@ khai: position
 title: "Swiss Standard German"
 declared: "das Schweizer Hochdeutsch"
 language: de
-spoken: false
+mother_tongue: false
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

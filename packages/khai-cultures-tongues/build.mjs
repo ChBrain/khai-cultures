@@ -62,10 +62,11 @@ export function varieties(dir = HERE) {
         tag: name.slice("position_language_".length, -3),
         declared: field(text, "declared"),
         language: field(text, "language"),
-        // The tongue -> language edge, as data rather than prose. A written form
-        // nobody grows up in cannot be a mother tongue, and the persona-wiring
-        // gate reads this rather than parsing the file's own account of itself.
-        spoken: field(text, "spoken") === "false" ? false : true,
+        // The tongue -> language edge, as data rather than prose. Named for the
+        // width it forbids, not for speech: every file in this package is a
+        // spoken tongue simulated through writing, so `spoken` would have been
+        // the wrong word. This says only that nobody acquires this one first.
+        motherTongue: field(text, "mother_tongue") === "false" ? false : true,
       });
     }
   return out;
@@ -210,13 +211,13 @@ const formatAs = async (raw, path) =>
  */
 /**
  * The half of the persona-wiring contract this package owns: which of its
- * tongues nobody grows up in. The other half, the widths a grip can take, is
+ * tongues nobody acquires first. The other half, the widths a grip can take, is
  * owned by the language engine and read from its manifest - never copied here,
  * because a rule typed in two places is a rule that will disagree with itself.
  */
 export const wiring = (dir = HERE) => ({
-  unspoken: varieties(dir)
-    .filter((v) => !v.spoken)
+  noMotherTongue: varieties(dir)
+    .filter((v) => !v.motherTongue)
     .map((v) => v.file),
 });
 

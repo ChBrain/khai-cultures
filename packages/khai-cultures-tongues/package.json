@@ -323,7 +323,7 @@
       "anchor": "position_language_"
     },
     "wiring": {
-      "unspoken": [
+      "noMotherTongue": [
         "de/position_language_de_ch.md",
         "de/position_language_de_li.md"
       ]

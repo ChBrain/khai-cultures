@@ -40,6 +40,14 @@ Authoring guidance, not runtime content, and it does not go on tour.
 
 ## Knowledge
 
+- A tongue file is not a description of a tongue, it is that tongue performed:
+  written in itself, so that a reader hears what a persona holding it sounds
+  like. That is how speech reaches a medium made only of text, and it is why the
+  Projection must not paraphrase it. The performance has a limit, which the
+  package states as its entry price: a difference that lives only in intonation
+  cannot go on a page, and a tongue file names such a feature without claiming
+  it.
+
 - Persona, language and tongue are three forces holding one detail between them,
   and depth added at any of the three reaches the others without being written
   twice. A tongue file deepens every persona that links it; a persona line
@@ -56,6 +64,8 @@ Authoring guidance, not runtime content, and it does not go on tour.
   they cannot reach, the one word they will not translate.
 - Do not write how the tongue sounds or works into the Projection. Those four
   chapters are the tongue's, and written twice they will disagree.
-- Do not claim a tongue marked `spoken: false` as anyone's mother tongue; it is
-  a written form and nobody grows up in it.
+- Do not claim a tongue marked `mother_tongue: false` as anyone's first
+  language. It is not that such a tongue is unspoken - every file here is a
+  spoken tongue put on a page - but that nobody acquires this one first; it is
+  only ever learned on top of another.
 - Do not edit this package's files; wire only from the play's side.
