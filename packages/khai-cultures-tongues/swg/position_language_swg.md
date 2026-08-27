@@ -3,7 +3,6 @@ khai: position
 title: "Swabian"
 declared: "s Schwäbische"
 language: swg
-orthography: "author's own, Swabian dialect-writing practice"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

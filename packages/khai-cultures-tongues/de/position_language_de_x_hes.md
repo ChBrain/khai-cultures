@@ -3,7 +3,6 @@ khai: position
 title: "Rhine Franconian of the Untermain"
 declared: "es Unnermään"
 language: de-x-hes
-orthography: "author's own, Hessian dialect-writing practice"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

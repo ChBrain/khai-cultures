@@ -3,7 +3,6 @@ khai: position
 title: "Bavarian Standard German"
 declared: "das bayerische Hochdeutsch"
 language: de
-orthography: "deutsche Rechtschreibung"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

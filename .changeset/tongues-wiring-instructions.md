@@ -35,12 +35,12 @@ tongue has no codified spelling somebody had to choose one. That choice was
 being made 16 times and recorded 4 times, so the performance was happening and
 its method was not.
 
-Every tongue now carries `orthography:`, `build.mjs` renders it as its own column
-in REFERENCES, and a file that declares none is a finding:
+Every tongue now records `orthography`, `build.mjs` renders it as its own column
+in REFERENCES, and a record that carries none is a finding:
 
 ```
 tongues docs: 1 finding(s)
-  wep/position_language_wep.md: declares no orthography
+  wep/position_language_wep.md: its record does not say how it is written
 ```
 
 44 of 60 follow a codified norm. **16 are reconstructions** — the Bairisch four,
@@ -50,3 +50,18 @@ where they deliberately depart from an existing convention (`not
 Dieth-Schreibung`, `not Rheinische Dokumenta`, `deliberately not Luxembourgish
 orthography`). That distinction is owed to a reader who cannot otherwise tell an
 invention from a tradition.
+
+It sits in `provenance.json` beside the note and the review flag, not in the
+frontmatter. Frontmatter is technical only — the type, the name, the language
+code, the stamp — and how a tongue is put on a page is prose about the file, so
+it belongs with the rest of what travels with it. `mother_tongue: false` stays in
+frontmatter because it is a flag a gate reads, not something written for anyone.
+
+The instructions also say which chapter a link goes into, because khai types
+offer many and not all of them are reasonable. A persona takes both links in
+**Projection**; a play lists the tongue in **Company**; a plot casts it in
+**Stage**; a culture-position may name its tongues in **Has**. A persona's
+`Action`, `Tell` or `Shadow` can carry one when the scene turns on using it —
+the dialect words that break through under pressure belong in `Tell` — but a
+tongue in a chapter that is not about holding one is usually a description that
+has wandered.
