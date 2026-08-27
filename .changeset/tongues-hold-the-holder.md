@@ -1,4 +1,0 @@
----
----
-
-Settle what a language position may say, using the canon's own mnemonic rather than a rule of thumb. A position's chapters are `Has / Orders / Loses / Drives` of the office: what the tongue gives whoever holds it, what its grammar forces them to mark, what it cannot say, how it shapes the mind that thinks in it. Where it is spoken is not one of the four. So a variety may identify itself and name the speech community that holds it, because that community is the position's own subject, and may not make claims about a culture's institutions, cast or scenes. Measured against the house, 99 of the 320 varieties name their own culture inside those chapters, including the one already moved, so this lands as a review queue for the walk rather than a gate: `tests/tongues_standalone.mjs --drift` prints it, and each variety is read against the mnemonic in the slice that moves it. Governance only; the house ships nothing.

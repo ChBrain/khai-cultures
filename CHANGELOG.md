@@ -1,5 +1,374 @@
 # @chbrain/khai-cultures
 
+## 0.290.1
+
+### Patch Changes
+
+- aeffe41: Austrian German comes out of Austria and into the package, which finishes the
+  German-language tongues of the DACH group except `de_de`.
+
+  It was thinned on the way. Its opening clause restated the anchor and its
+  `Orders` began `wie jedes Deutsch` — the exact thinness the `de` anchor was
+  written to cure. What it keeps is its own (Erdapfel, Jänner, Sackerl, Marille,
+  Paradeiser, Karfiol, the productive `-erl`, the soft onset), and what it gained
+  is the grammatical fact it was missing: the **sein-perfect** with the verbs of
+  standing, sitting and lying — `ich bin gestanden`, `ich bin gesessen`, `ich bin
+gelegen`, where the north takes `haben`. That is a different auxiliary, not a
+  colouring, and it falls due in every second sentence without a speaker ever
+  choosing it. With it came the near-total avoidance of the simple preterite in
+  speech, and the title before the name: whoever does not know the title cannot be
+  polite in this language, only vague.
+
+  It cost two cultures, because the four that would have carried the rest were
+  finished in the three batches before this one. Fourteen castings, none invented.
+  Czech puppet theatre goes into the plot where the language is driven out of the
+  cities — the marionette speaks Czech while no stage does. Jaroslav Hašek goes
+  into the Munich plot, not as a man present in 1938 but as the author of the
+  defence that plot uses, named fifteen years earlier. Jiřina, the pub, the
+  dumpling and the weekend cottage go into the Velvet Revolution, which is where
+  that private life had been waiting. On the Hungarian side, Széchenyi and the
+  buried Holy Crown go to 1848, Erzsi to 1956, and Bence, the paprika, the baths
+  and the mulatság to Trianon: he is what the treaty produced, and they are what
+  it could not take.
+
+  Twenty languages, 60 varieties, version unchanged at `0.20.0`.
+
+  Tomáš is waived, and he is the sixth of his kind. Every waiver in this house now
+  has the same cause: a person whose defining fact — emigration, minority
+  standing, being born into the settlement — happened after the last plot their
+  play stages. Six is no longer a series of casting problems.
+
+- 61369e6: Bairisch becomes a family with an anchor, the way German already is. The file
+  called `position_language_bar.md` held Munich's Mittelbairisch under the family's
+  title, which is the same mistake `das bayerische Hochdeutsch` was making with
+  Bairisch features one pull request ago. Its content moves down to `bar_mitt` and
+  the anchor is written fresh, holding what every Bairisch variety shares: the -l,
+  the article before a name, es and enk from the old dual, and the missing preterite.
+  Its Loses is the reason this package exists — Bairisch is spoken in Bavaria, Austria
+  and South Tyrol by some fourteen million people, so the same dialect is a Mundart in
+  one state and nearly the state language in another. Nordbairisch joins it, written
+  in Northern Bavarian so its one distinguishing feature is visible rather than
+  described: the old diphthongs fall the other way, Brouda and leib where
+  Mittelbairisch has Bruada and liab. It came in with no culture behind it, because a
+  tongue exists when a speech community speaks it and not when a play casts it.
+  Amalie and Gustl move from the family to Mittelbairisch, which is what they actually
+  speak; the play and the culture-position keep the family. Six languages still, so
+  the version stays 0.6.0 — three files, one language, which is the rule reading
+  correctly.
+- fae967e: Bairisch becomes its own tongue. It was already in the house as
+  `position_bayerisch.md`, an ordinary position titled "The Bavarian Language
+  Variety", declared das Bairische and tagged `language: de` — a language position in
+  substance wearing another kind of name, which is why the tongues walk never saw it
+  and why the coverage gate made a plot stage it. It is now
+  `bar/position_language_bar.md`, written in Bavarian, carrying what is Bavarian
+  rather than Upper German in general: the -l almost any thing can take, Stoa for
+  Stein, the article before a personal name, and es and enk, the second-person plural
+  no other German dialect kept. The Bavarian Hochdeutsch keeps its own file, because
+  all five Bavarian personas hold the regional standard and only three hold a dialect,
+  but it gives up the Bairisch features that were wrongly written into it and keeps
+  what is true of a standard: the southern words it holds in checked prose, the
+  composite past in speech, and the one structural fact no other Landeshochdeutsch
+  has, that it lies over three mutually foreign dialect floors. The package goes to
+  six languages, so the version goes 0.5.0 to 0.6.0 — the rule firing on a real
+  tongue. Also fixes three provenance entries that a trailing comma had turned into
+  one-element arrays four pull requests ago: Bavaria, Hesse and Saxony-Anhalt have
+  been rendering blank rows in REFERENCES.md ever since, because the gap check tested
+  that a key existed and never that its entry could be read. It tests both now.
+- 86b2307: The two autonomous cities come out finished, as the pair they were staged as.
+  Ceuta pays all three debts it owed: it becomes `es_ceuta`, it says for the first
+  time that being ceutí is una manera de ser española and not a second passport,
+  and it comes to zero dead Company entries. The casting is where the history
+  already put it: the statute of 1995 is when the city gained its own assembly, so
+  that is when the ronda de las fiestas stops being a neighbourly custom and enters
+  a calendar somebody has to approve, and when the heritage service Nadia works for
+  comes into existence. Both tongues then leave for
+  `@chbrain/khai-cultures-tongues`, and both were read against the mnemonic on the
+  way. Ceutan Spanish placed itself on the African shore of the Strait and now
+  names the community that speaks it, because where is not one of the four
+  chapters. Melillan Spanish lost that same opening and one more claim: it
+  explained its own closeness to the standard by the city's garrison and civil
+  service, which describes who lives in a place, not what a tongue does to whoever
+  holds it. Nine varieties of 320 have landed; sub-national conformance goes 83 to 82.
+- 2db536b: Austria, Switzerland and Liechtenstein come out finished on their Company, and
+  four of the DACH tongues move into the package: Swiss Standard German,
+  Liechtenstein Standard German, Swiss French, Swiss Italian and Romansh. `fr/`,
+  `it/` and `rm/` open with them, so the package goes from fifteen languages to
+  eighteen and the version from `0.15.0` to `0.18.0`.
+
+  Sixteen castings and three waivers. The waivers are all the same finding and it
+  is worth stating plainly: **DACH's plot lines stop before their contemporary
+  personas were born.** Austria's plots are 1740, 1815, 1900 and 1955, with no
+  Anschluss and nothing after the Staatsvertrag. Switzerland's are 1291, 1848,
+  1863 and 1971, with no Sprachenartikel of 1938 — which is the whole ground of
+  what Gian and Marco carry, so the two personas who exist to hold the
+  quadrilingual question have no scene in which the question was decided. Waived
+  with that reason rather than answered by inventing a plot.
+
+  `de_de` and `de_at` did **not** move, and the measurement is why. A tongue's
+  migration drags every culture that links it into the coverage ratchet:
+
+  | tongue  | cultures linking it | dead entries pulled in |
+  | ------- | ------------------- | ---------------------- |
+  | `de_ch` | 2                   | 9 — paid here          |
+  | `de_at` | 5                   | 33                     |
+  | `de_de` | 21                  | ~100                   |
+
+  Ireland and the Holy See are the two that `de_ch` pulled in, and both come out at
+  zero. The other two are their own pieces of work, not a rider on this one.
+
+- 75a41f5: Franconian and Swabian become real tongues, which completes the evidence for the
+  claim Bavaria's play already makes. Both were ordinary positions titled "The …
+  Language Variety" and tagged `language: de`, both about a hundred words, and both
+  had a cultural duty where a language position needs a grammatical order — dass man
+  die Mundart pflegt is what a stance demands, not what a grammar forces. Ostfränkisch
+  now carries the lenition that makes Gonsonanden of Konsonanten, the -la that is
+  neither Bairisch's -l nor Swabian's -le, and the feature worth the most: East
+  Franconian still genders the numeral two, zwee Männer, zwo Fraan, zwaa Kinner, which
+  Standard German lost entirely. Swabian gets an anchor whose heartland is in another
+  state, with Bavarian Swabian and Allgäuerisch beneath it — and the Allgäu is where
+  Swabian stops being Swabian, because the diphthongisation that made Hous of Huus
+  runs out partway down the valley and the old monophthong stands on toward Vorarlberg.
+  Sepp moves off the Augsburg variety he was filed under and onto the Allgäu one he
+  actually speaks, which was the Bairisch mistake in miniature. Eight languages, so
+  0.6.0 becomes 0.8.0.
+- 1a451b0: The house ships its own `playwright_instructions.md`.
+
+  `@chbrain/khai-cultures` is a khai package like any other — it declares
+  `khai.engine: "cultures"`, its own collection and its own card, and it ships 290
+  cultures to whoever installs it. It told a consuming Playwright nothing about how
+  to wire one in.
+
+  What it owns is narrow, and the file says only that: which culture a persona
+  belongs to. Which tongue they hold is the tongues package’s instructions; how well
+  they hold it is the language engine’s.
+
+  Two rules in it are not new inventions. They are what the house already does,
+  written down before the next hand breaks them:
+
+  - **Every cross-culture link points at a position.** Of the links this house
+    carries between cultures, all point at a `position_` and none at a plot,
+    persona, piece, place or process. A culture’s cast is cast in its own scenes and
+    answers to its own pitch; borrowed into another play it would answer to neither.
+  - **The nesting lives on the position.** Zero personas link both a sub-national
+    culture and its parent, across 90 sub-national cultures — because the
+    sub-national culture-position already carries the one above it.
+
+  The guard config gains the file in the governance lane, since it is a document
+  about the house rather than content of it, and `files` gains it so it reaches the
+  people it is written for.
+
+- 84753b8: Eight German Länder come out finished: Berlin, Brandenburg, Bremen, Lower Saxony,
+  Mecklenburg-Vorpommern, North Rhine-Westphalia, Rhineland-Palatinate and Saxony.
+  Each takes its `de_` identifier, says for the first time that it is eine Art, die
+  deutsche Kultur zu leben, kein zweiter Pass, comes to zero dead Company entries,
+  and hands its variety to `@chbrain/khai-cultures-tongues`. Sixteen castings, and
+  almost none of them needed a new sentence: the plots already named Günter in der
+  Porzellanmanufaktur, Jupp in the Wiederaufbau, Antje at the Wolfsburg line and
+  Nadja in the Umbruchjahre, in prose, with no link. Reading the varieties turned up
+  two cuts and one finding, and the second cut is the newly sorted drift
+  queue's first catch. Palatine German said its sound gives the Winzerstube its
+  warmth, which is what a room in a culture gets and not what a tongue does to
+  whoever holds it. Mecklenburg-Vorpommern's said its clear pronunciation once counted as the
+  norm für ganz Deutschland, naming the culture above instead of the standard
+  itself; it now says it served the Bühnenaussprache as a model, which is the same
+  fact told about the language. And the Berlin, Brandenburg and Bremen varieties claim nothing
+  about a culture because they say nothing about themselves either: four chapters of
+  Standard German with no Berliner Schnauze, no märkisch Low German floor, nothing
+  Bremen. They are marked `review: thin` in the provenance and left standing rather
+  than answered by invention. Fifteen varieties of 320 have landed; sub-national
+  conformance goes 82 to 74.
+- 32dcf6f: Four more German Länder come out finished: Bavaria, Hesse, Saxony-Anhalt and
+  Thuringia. Sixteen castings, all where the history already put them. The Oktoberfest
+  goes into the plot of the young kingdom, because it began in 1810 as that kingdom's
+  own wedding; the Gebirgler and the Fingerhakeln into the plot where Ludwig builds
+  his castles, because the Kulisse he built in was somebody's working ground first;
+  the Bembel and the Gemütlichkeit into the Paulskirche of 1848, because the factions
+  of that parliament met in the inns around it and took their names from them, Casino,
+  Deutscher Hof, Donnersberg. Walter, Elisabeth, Maria, Monika and Sepp were already
+  named in their plots, in prose, with no link. Reading the varieties turned up a
+  rewrite and a cut. Bavarian German was thin the way Berlin was, but by another
+  route: not generic German but generic Upper German, naming only what it said itself
+  was shared von Bayern bis in die Schweiz. It now carries the -l diminutive, Stoa for
+  Stein, the article before a name, and es and enk, the second-person plural no other
+  German dialect kept, which descends from the old dual; and it says the structural
+  thing the play already stages as three positions, that it is one state language over
+  three mutually foreign dialect floors. Hessian German explained its own register
+  switch by die Bank und die Börse in Frankfurt, which is a city's finance industry and
+  not what a tongue does to whoever holds it; the register stays, the institutions go.
+  Twenty-one varieties of 320 have landed; sub-national conformance goes 74 to 70.
+- 9c2b322: Schleswig-Holstein comes out finished, the last of the sixteen Länder and the
+  heaviest: eleven dead Company entries, more than the eight-Land batch carried
+  between them. Every casting is where the history already put it. The Moin goes into
+  the Hanse plot, because a greeting that asks nothing about rank belongs where the
+  council did not ask the merchant about his birth. The Deichbau and the Wattenmeer go
+  into the Mandränke of 1362, whose own lesson is that the dike must be built higher
+  and together, and Okke stands on that dike six centuries later. Husum was already
+  named in Storm's plot without a link, and the Schimmelreiter is what Storm wrote the
+  coast about its own dike in the years after. The Kieler Woche goes to Kiel 1918: the
+  harbour the fleet would not leave got its sails back as the city's festival. And
+  Sönke, born close to the border and taking neither side as enemy, goes to the
+  plebiscite of 1920, because that is precisely what was voted. Both tongues move.
+  Low German is the cleanest position in the package and is written in Low German
+  itself; nothing was cut from it. Schleswig-Holstein Standard German lost one
+  epithet, im Land zwischen den Meeren, the same cut Ceutan and Melillan Spanish took.
+  One thing is found and left standing: the package's own `khai.members` has made the
+  very mistake its build was written against, hand-kept and naming one member of
+  twenty-three. Deriving it is not the one-line fix it looks like, because khai's
+  engine contract wants exactly one root and the twenty-three are siblings with no
+  parent among them, so the package needs the anchor it has never had. That is the
+  composite ceremony it already owed, and it wants its own pass. Twenty-three varieties
+  of 320 have landed. Sub-national conformance goes 70 to 69, and all sixteen German
+  Länder are finished.
+- 34e68cb: Switzerland and Liechtenstein cast the language they actually speak.
+
+  `gsw` has been in the package since the Alemannic file was written, and until now
+  the only culture casting it was **Austria**, for Vorarlberg. Neither of the two
+  countries where Alemannic is the everyday language of most people pointed at it.
+  The tongue was named in prose across both plays and linked nowhere.
+
+  Three links were wrong and one was missing:
+
+  - **Tell** spoke `den [Dialekt]` and the link went to Swiss Standard German — the
+    word was right, the target was a writing form.
+  - **Franz** had his mother tongue linked to `position_rheintal.md`, a _place_
+    position. An Alemannic dialect pointing at a valley.
+  - **Katharina** _spoke and thought_ in `de_li`, the written norm that the `de_li`
+    file itself says the country did not make and nobody speaks. She now speaks
+    Alemannic and writes the standard all day without ever having spoken it.
+  - **Vreni** was already right — _"das ist ihre Muttersprache, gesprochen und nie
+    geschrieben"_, with `de_ch` only on `schreibt`, _"eine Sprache, die sie so gar
+    nicht spricht"_. Hers is the best statement of the diglossia in the house. Her
+    Schwiizerdütsch simply had nothing to point at, and now does.
+
+  Switzerland's culture-position also said the four national languages and stopped
+  there. The four are the constitution, not the day: under the first of them stands
+  Schwiizerdütsch, which the largest of the four communities speaks and never
+  writes, so it lives in one language and signs in another. The position says that
+  now.
+
+  No new files, no version change. `le francais de Suisse` in the Company list also
+  gained the cedilla it had been missing since before the accents were restored.
+
+- 0c2c109: Slovenia and Croatia come out finished, and Austria gains the language Article 7
+  guarantees it.
+
+  Both tongues migrate to the package as anchors — `sl/position_language_sl.md`
+  and `hr/position_language_hr.md` — and neither needed a cut. Slovene leads with
+  the dual, a grammatical number for exactly two that most of its Slavic relatives
+  gave up; Croatian is here now rather than later because it is the anchor
+  Burgenland Croatian will hang from.
+
+  Fourteen castings, no invented scenes. Anton Janša is the eighteenth-century
+  beekeeper the Empress called to Vienna, so he goes into the Habsburg plot with
+  the craft, the painted hive panels and the hayrack; `pridnost` was already named
+  in that plot's prose and only needed a link. Marija and Luka go into the
+  independence plot, the grandmother who lived every Yugoslav decade and the
+  grandson born into the state that followed. On the Croatian side the cravat goes
+  where the frontiersmen in foreign service are, the klapa and the fjaka to the
+  Adriatic plot, and Kata and the šahovnica to the war.
+
+  Austria now casts Slovene, and the reason is in a plot it already had.
+  `plot_04_staatsvertrag_1955` staged the treaty without mentioning **Article 7**,
+  which in one sentence guarantees the Slovene and Croatian minorities their
+  language in school, in office and on the place-name signs — and which stayed
+  contested for the next half century. The plot says so now. The Burgenland Croats
+  are named in the prose but not linked, because what they write is not Standard
+  Croatian and `hr_bur` does not exist yet.
+
+  Serbia came along with them, because two of its personas linked Croatian across
+  the culture boundary and the link had to move with the file. Five more castings:
+  the `ocilo` goes to the plot where the Church keeps what the state cannot, and
+  Ljubica, her `slava` and the `šljivovica` to the decade of sanctions — the one
+  thing nobody took from her. Stefan is waived on the same ground as Ivan: the
+  leaving happened after every plot.
+
+  Twenty languages, 59 varieties, `0.18.0` → `0.20.0`.
+
+- 3b0995d: Six Spanish autonomous communities come out finished: Andalusia, Aragon,
+  Asturias, the Balearic Islands, the Canary Islands and Cantabria. Each takes its
+  `es_` identifier, says for the first time that it is `una manera de ser
+española, no un segundo pasaporte`, comes to zero dead Company entries, and
+  hands its variety to the tongues package.
+
+  Twenty-seven castings, and none of them needed an invented scene. The plots
+  already named Manuel and Rocío at the Exposición, Javier and Piluca through both
+  sieges of Zaragoza, Xuan and Covadonga in the gorge and again in the pits — in
+  prose, with no link, which is exactly how a Company entry dies while the scene it
+  belongs to is already written. Where a link was not enough the scene was still
+  there: the cante jondo is the thing Manuel was already collecting; the ensaimada
+  turns from a Sunday bake into a daily one in the plot about what tourism did to
+  the island; the Posidonia count belongs to the decree that protects it; the
+  silbo is how Ayose was already reaching the far side of the barranco.
+
+  Six varieties migrate to `es/` and none of them needed a cut: all four chapters
+  of each were already the office, and the two that name their region name it as
+  their own subject rather than as a culture's institutions. Fifteen languages, 49
+  varieties, version unchanged at `0.15.0`.
+
+  Sub-national conformance: 69 outstanding, now 63.
+
+- 0bf3f1c: Seven sub-national cultures take the identifier their parent's ISO code gives them: `de_baden_wuerttemberg`, `de_hamburg`, `de_saarland`, `us_ohio`, `us_pennsylvania`, `us_virginia`, `es_melilla`. The identifier becomes the package name after the split and an npm name is permanent, which is why the house is cleaning identifiers rather than patching them, and why `georgia_us` will become `us_georgia` when its turn comes. The registry ids move with the directories, so seven website URLs change; that break was accepted when the rule was written, since the website is to be rebuilt. Content is untouched: these seven paid their coverage, their nesting and their varieties in the batch before this one.
+- c14db4d: The walk's second batch: six sub-national cultures come out finished. Baden-Württemberg, Hamburg, the Saarland, Ohio, Pennsylvania and Virginia each hand their language variety to `@chbrain/khai-cultures-tongues`, rewrite their links to package specifiers, come to zero dead Company entries, and say for the first time that they nest inside the culture above them. The clean identifiers follow in their own pull request, because a rename carrying content changes reads to the guard as a new culture, and only a pure rename is exempt. The castings are where the history already put them: the Kehrwoche in the Napoleonic reordering that reached down to the stairwell, the Fischmarkt at the end of every St. Pauli night, the Schwenker in what the Völklingen furnace left its workers, Harper in the Cleveland deindustrialisation made, and John as the last generation to hold the job the Homestead strike was about. Virginia's Sasha is waived: unlike the other two she carries no thread back to any event on the board. Seven varieties of 320 have landed.
+- a460c84: Give the tongues package a directory per language under one root, which settles
+  three things at once. khai's engine contract wants exactly one root and the
+  twenty-three varieties were siblings with none among them, so the manifest was
+  stuck naming one member of twenty-three; the root is now the office of holding a
+  tongue at all, each language anchors beneath it, and each variety hangs from its
+  own language. The version becomes the language count by the house's existing rule
+  and its existing code, `countItems` over one directory per language and
+  `deriveVersionFrom` to reconcile: `0.5.0` today, unmoved by a twenty-seventh German
+  variety and moved by a sixth language. And the three thin varieties the Länder walk
+  found were thin because they were spending their four chapters on the language
+  itself; German, English and Spanish now have anchors to carry that, so a variety is
+  free to say only what is its own. The 105 package specifiers in the cultures gain
+  their language directory. The three English varieties, which had never carried a
+  `declared:` name, carry one.
+- bdeb2bb: The tongues walk begins: Tarifit leaves Melilla for `@chbrain/khai-cultures-tongues`, and the five links that reach it become package specifiers, resolved through a declared dependency and failing closed without one. Melilla pays the ratchet in the same pass: el día de la ciudad is cast in the 1497 taking it commemorates, el paso de Beni Enzar in the 1986 citizenship fight, where the condition of being a foreigner in your own city was enforced most concretely at the crossing, and Alba is waived as born after every event the play stages. The tongues package is private and owes the composite ceremony before it can publish. One variety of 320.
+- 517a98c: Wienerisch becomes its own tongue. Grete and Lukas both said they spoke
+  _Wienerisch_ and then linked `position_language_de_at.md`, the Austrian
+  **standard** — the same fault Bavaria's and Berlin's files had before Bairisch
+  and Berlinisch were split out of them.
+
+  The rule that earns it a file is the **Wiener Monophthongierung**: where rural
+  Middle Bavarian keeps the diphthong, Vienna has a long `a`. `oans zwoa drei`
+  against `ans zwa drei`, `Stoa` against `Staa`, `hoaß` against `haaß` — clean in
+  both directions, running through every word that carries the vowel, and the
+  whole Viennese dialect literature is written with it. Its second layer is
+  lexical and belongs to no other Bairisch: `Powidl`, `Buchtln`, `Kolatschn` from
+  Czech, `Beisl` and `Hawara` from Yiddish, `Fiaker` and `Trafik` from further
+  off — the words the city drew in because the monarchy came to it.
+
+  Research came back mid-PR and corrected three things before it merged. The
+  monophthongisation is **variable and socially stratified, not categorical** —
+  present when a speaker goes broad, receding when they pull in, and the same
+  person does it both ways inside one conversation. It is _not_ a youth recession:
+  younger Viennese still produce the forms. So `Orders` no longer demands the
+  vowel; it demands that you know what the vowel says about you. The lexical claim
+  was an exclusivity claim and exclusivity is wrong — `Powidl`, `Beisl`, `Tschick`,
+  `Hawara`, `Trafik`, `Häferl`, `Gschropp` are Austrian or wider Habsburg-contact
+  vocabulary, dense in Vienna but not Vienna's alone; only `Fiaker` is safely
+  Vienna-specific. The file now says so itself, and says what the real distinction
+  is: not that the city has words the countryside lacks, but that all of them
+  arrived in one place at once. And the rule covers both diphthongs, so `Haus` →
+  `Håås` was added.
+
+  Deliberately not claimed: the l-vocalisation (`Goid`, `Woid`, `Soiz`), which is
+  Middle Bavarian and which `bar_mitt` already holds; the `-erl` diminutive, which
+  is `de_at`'s; and `es`/`enk`, which is the `bar` anchor's. The Meidlinger L is
+  named and explicitly not claimed, because a difference that is only sound cannot
+  carry a text file.
+
+  Writing it turned up an error in a shipped file. `bar_mitt` claimed Munich and
+  Vienna spoke `dieselbe Sortn` and gave both the `oa`, which is wrong about
+  Vienna. It now says the eastern end takes that `oa` one step further to the long
+  `a`, so the two files agree and the correction sits where the mistake was.
+
+  Austria also stops staging one tongue. Its culture-position now says what the
+  country actually speaks — Bairisch below the standard, Viennese in the capital,
+  and Alemannic west of the Arlberg, so the country's larger language border runs
+  through it rather than around it — and the play's Company casts all three.
+  `gsw` was already in the package; Austria simply never cast it.
+
 ## 0.290.0
 
 ### Minor Changes

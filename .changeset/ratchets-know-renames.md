@@ -1,4 +1,0 @@
----
----
-
-Teach both ratchets that a pure rename touches nothing, and drop the id half of sub-national conformance to advisory until khai can accept a rename at all. The walk's second batch hit a three-way deadlock: conformance demands a rename the moment a culture is touched, khai-guard reads a rename carrying edits as new cultures and demands a `minor`, and a minor reconciles against an unchanged culture count straight back onto the version already published. Even a pure move is called an add, because `parseChanges` treats a rename's destination as an addition, which is right for lane ownership and wrong for the count-driven add rule. So the ratchets adopt khai-guard's own R100 rule, a move with no edit pays no debt and incurs none, the id finding is printed rather than enforced, and the nesting finding stays a hard gate because a parent link is content. The blocker is recorded in the design record as work for khai. Governance only; the house ships nothing.
