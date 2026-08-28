@@ -11,7 +11,6 @@
   },
   "branchScope": {
     "shared": [
-      ".changeset/**",
       "package.json",
       "packages/*/package.json",
       "package-lock.json",
@@ -80,6 +79,10 @@
       }
     ],
     "riders": [
+      {
+        "pattern": ".changeset/**",
+        "fallback": "governance"
+      },
       {
         "pattern": "management/orders/**",
         "fallback": "governance"
