@@ -1,15 +1,15 @@
 ---
 khai: place
-title: "Schlosskirche Wittenberg"
-declared: "die Schlosskirche"
+title: "Wittenberg"
+declared: "Wittenberg"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-28"
+  date: "2026-08-28"
 ---
 
-# Place: die Schlosskirche
+# Place: Wittenberg
 
 ## Taxonomy
 
@@ -21,16 +21,18 @@ Parent group: places
 
 ## Shown
 
-Die Schlosskirche Allerheiligen in der Lutherstadt Wittenberg. Eine gotische Hallenkirche mit einem markanten runden Turm.
+Eine kleine Residenzstadt an der Elbe, um 1500 kaum mehr als zweitausend Einwohner, mit einer jungen, 1502 gegründeten Universität, der Schlosskirche Allerheiligen mit ihrem runden Turm und, am Markt, den Werkstätten und Häusern der Malerfamilie Cranach.
 
 ## Holds
 
-- die theologische Erneuerung im Plot [Der Thesenanschlag Luthers 1517](plot_01_luther_95_theses_1517.md) : das historische Denkmal des reformatorischen Aufbruchs.
+- die Schlosskirche Allerheiligen, an deren Portal Luther 1517 seine Thesen angeschlagen haben soll und in der er begraben liegt.
+- [Cranachs Werkstatt](persona_cranach.md) am Markt, mit eigener Druckpresse, Apotheke und Weinschank.
+- die Lutherhalle, in der [die Luther-Bibel](piece_luther_bibel.md) und ihre Druckgeschichte gezeigt werden.
 
 ## Offers
 
-Das Hauptportal mit den in Bronze gegossenen Thesentexten und den Innenraum, in dem sich die Grabstätte von Martin Luther befindet.
+Das Hauptportal der Schlosskirche mit den seit dem 19. Jahrhundert in Bronze gegossenen Thesentexten, und den Innenraum mit Luthers Grabstätte.
 
 ## Withheld
 
-Die Zerstörung des Originalportals. Die hölzerne Thesentür wurde im Siebenjährigen Krieg durch ein Feuer zerstört. Die heutige bronzene Tür wurde erst im 19. Jahrhundert gestiftet, was dem Besucher den Verlust des Originals verbirgt.
+Das Original. Die hölzerne Thesentür wurde im Siebenjährigen Krieg durch Feuer zerstört; wer heute die Bronzetür liest, liest ein Denkmal aus dem 19. Jahrhundert und nicht das Holz, an dem 1517 tatsächlich etwas hing. Ebenso verbirgt der Ruf der Lutherstadt, wie sehr die eigentliche Reichweite der Reformation der Werkstatt am Markt zu verdanken war und nicht allein der Kirche am anderen Ende der Strasse.

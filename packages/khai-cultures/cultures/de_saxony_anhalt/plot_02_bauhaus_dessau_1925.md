@@ -21,14 +21,15 @@ stamp:
 
 ## Cue
 
-Im Jahr 1925 zieht die Kunstschule Bauhaus unter der Leitung von Walter Gropius von Weimar nach Dessau um.
+Im Frühjahr 1925 zieht die Kunstschule Bauhaus unter der Leitung von Walter Gropius von Weimar nach Dessau um, in eine mittelgrosse Industriestadt ohne jede Kunstschul-Tradition, die der Schule aber Bauland und Aufträge bietet, die Weimar ihr verweigert hatte.
 
 ## Action
 
-Die Errichtung des neuen Schulgebäudes begründet die Ära der architektonischen Moderne und etabliert [der Fortschritt](position_fortschritt.md) als gestalterisches Leitbild. Die funktionale [die Bauhaus-Leuchte](piece_bauhaus_leuchte.md) wird zum Klassiker des modernen Designs. Walter führt heute Forschungsarbeiten im Dessauer Archiv durch, um dieses Erbe abzusichern.
+Am 4. Dezember 1926 wird [das neue, von Gropius entworfene Schulgebäude](place_bauhaus.md) eröffnet, ein Stahlskelettbau mit durchlaufender Glasfassade, der die Ära der architektonischen Moderne begründet und [der Fortschritt](position_fortschritt.md) als gestalterisches Leitbild etabliert. Die funktionale [Bauhaus-Leuchte](piece_bauhaus_leuchte.md), 1923/24 noch in Weimar von Wilhelm Wagenfeld entworfen, wird erst hier in Dessau, unter dem neuen Anspruch, für die Serienfertigung zu entwerfen, zum Klassiker des modernen Designs. [Walter](persona_walter.md) führt heute Forschungsarbeiten im Dessauer Archiv durch, um dieses Erbe abzusichern.
 
 ## Stage
 
+- [Walter](persona_walter.md) : der Archivar, der dieses Erbe bis heute pflegt.
 - [der Fortschritt](position_fortschritt.md) : die gestalterische Innovation und der soziale Anspruch der Moderne.
 - [die Bauhaus-Leuchte](piece_bauhaus_leuchte.md) : die berühmte Tischlampe aus der Dessauer Werkstatt.
 - [das Bauhaus-Gebäude](place_bauhaus.md) : das ikonische, funktionale Schulgebäude in Dessau.

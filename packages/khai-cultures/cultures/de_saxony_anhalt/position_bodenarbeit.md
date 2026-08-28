@@ -34,4 +34,4 @@ An Kraft, wenn großflächige Flächenversiegelung den fruchtbaren Boden vernich
 
 ## Drives
 
-Treibt die Modernisierung der ländlichen Räume im Plot [Die Errichtung des Landes 1990](plot_03_reunification_1990.md) voran und leitet das Handeln der Ingenieurin.
+Treibt die Bodenreform von 1945/46 an, mit der [das neu gefügte Land](plot_03_ein_land_ohne_eigenes_werden.md) beginnt, und bleibt danach der Grund, auf dem sowohl die Landwirtschaft der Börde als auch, nach 1990, die Chemieparks stehen.

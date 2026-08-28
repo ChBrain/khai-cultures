@@ -8902,11 +8902,46 @@
       "iso": "DE-ST",
       "members": [
         {
+          "file": "persona_cranach.md",
+          "kind": "persona",
+          "title": "Cranach",
+          "type": "real",
+          "taxonomy": "position_verleger.md"
+        },
+        {
           "file": "persona_elisabeth.md",
           "kind": "persona",
           "title": "Elisabeth",
           "type": "archetype",
-          "taxonomy": "position_bodenarbeit.md"
+          "taxonomy": "position_daheimgebliebene.md"
+        },
+        {
+          "file": "persona_frank.md",
+          "kind": "persona",
+          "title": "Frank",
+          "type": "archetype",
+          "taxonomy": "position_sondengaenger.md"
+        },
+        {
+          "file": "persona_ingrid.md",
+          "kind": "persona",
+          "title": "Ingrid",
+          "type": "archetype",
+          "taxonomy": "position_daheimgebliebene.md"
+        },
+        {
+          "file": "persona_otto.md",
+          "kind": "persona",
+          "title": "Otto",
+          "type": "real",
+          "taxonomy": "position_koenig.md"
+        },
+        {
+          "file": "persona_sophie.md",
+          "kind": "persona",
+          "title": "Sophie",
+          "type": "archetype",
+          "taxonomy": "position_daheimgebliebene.md"
         },
         {
           "file": "persona_walter.md",
@@ -8921,9 +8956,24 @@
           "title": "The Bauhaus Lamp"
         },
         {
+          "file": "piece_himmelsscheibe.md",
+          "kind": "piece",
+          "title": "The Nebra Sky Disc"
+        },
+        {
           "file": "piece_luther_bibel.md",
           "kind": "piece",
           "title": "The Luther Bible"
+        },
+        {
+          "file": "piece_magdeburger_reiter.md",
+          "kind": "piece",
+          "title": "The Magdeburg Rider"
+        },
+        {
+          "file": "piece_quedlinburger_domschatz.md",
+          "kind": "piece",
+          "title": "The Quedlinburg Cathedral Treasury"
         },
         {
           "file": "pitch_saxony_anhalt.md",
@@ -8937,14 +8987,36 @@
           "title": "Dessauer Bauhaus"
         },
         {
+          "file": "place_chemiedreieck.md",
+          "kind": "place",
+          "title": "The Chemical Triangle"
+        },
+        {
+          "file": "place_magdeburg.md",
+          "kind": "place",
+          "title": "Magdeburg"
+        },
+        {
+          "file": "place_quedlinburg.md",
+          "kind": "place",
+          "title": "Quedlinburg"
+        },
+        {
           "file": "place_wittenberg.md",
           "kind": "place",
-          "title": "Schlosskirche Wittenberg"
+          "title": "Wittenberg"
         },
         {
           "file": "plan_chemieparks.md",
           "kind": "plan",
-          "title": "der Umbau der Chemieparks"
+          "title": "der Umbau der Chemieparks",
+          "taxonomy": "place_chemiedreieck.md"
+        },
+        {
+          "file": "plan_intel_fab.md",
+          "kind": "plan",
+          "title": "The Magdeburg Chip Fab",
+          "taxonomy": "place_magdeburg.md"
         },
         {
           "file": "play_saxony_anhalt.md",
@@ -8952,9 +9024,15 @@
           "title": "Sachsen-Anhalt"
         },
         {
-          "file": "plot_01_luther_95_theses_1517.md",
+          "file": "plot_00_ottonische_gruendung.md",
           "kind": "plot",
-          "title": "Luther's 95 Theses",
+          "title": "The Ottonian Founding",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_01_cranachs_werkstatt.md",
+          "kind": "plot",
+          "title": "Cranach's Workshop",
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
@@ -8964,9 +9042,27 @@
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
-          "file": "plot_03_reunification_1990.md",
+          "file": "plot_03_ein_land_ohne_eigenes_werden.md",
           "kind": "plot",
-          "title": "The Re-establishment of the State of Saxony-Anhalt",
+          "title": "A Land With No Becoming of Its Own",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_04_chemiedreieck.md",
+          "kind": "plot",
+          "title": "The Chemical Triangle: War, Poison, Rebuild",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_05_himmelsscheibe.md",
+          "kind": "plot",
+          "title": "The Sky Disc: Looted, Rescued, Made Into an Icon",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_99_das_jahrzehnt_der_abrechnung.md",
+          "kind": "plot",
+          "title": "The Decade of Reckoning, since 2019",
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
@@ -8980,19 +9076,44 @@
           "title": "Saxony-Anhalt Culture"
         },
         {
+          "file": "position_daheimgebliebene.md",
+          "kind": "position",
+          "title": "The One Who Stayed"
+        },
+        {
           "file": "position_fortschritt.md",
           "kind": "position",
           "title": "The Modern Progress"
         },
         {
-          "file": "position_glaubensfreiheit.md",
+          "file": "position_koenig.md",
           "kind": "position",
-          "title": "The Freedom of Belief"
+          "title": "The King"
+        },
+        {
+          "file": "position_sondengaenger.md",
+          "kind": "position",
+          "title": "The Metal Detectorist"
+        },
+        {
+          "file": "position_verleger.md",
+          "kind": "position",
+          "title": "The Publisher-Entrepreneur"
+        },
+        {
+          "file": "process_abwanderung.md",
+          "kind": "process",
+          "title": "Outmigration"
         },
         {
           "file": "process_reform.md",
           "kind": "process",
           "title": "Reformation Remembrance"
+        },
+        {
+          "file": "process_sanierung.md",
+          "kind": "process",
+          "title": "Environmental Remediation"
         }
       ]
     },
