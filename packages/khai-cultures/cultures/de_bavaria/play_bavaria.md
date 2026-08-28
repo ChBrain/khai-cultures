@@ -75,37 +75,41 @@ Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat verst
 
 ## Triggers
 
-**[Plot 1: Die Bajuwaren und die Klöster](plot_01_bajuwaren_und_kloester.md)**
+**[Plot 0: Die Bajuwaren und die Klöster](plot_00_bajuwaren_und_kloester.md)**
 
 Nach Rom entsteht zwischen Donau und Alpen ein Volk aus Zurückgebliebenen, Alemannen und Zugewanderten, das sich einen gemeinsamen Namen zulegt. 739 richtet Bonifatius vier Bistümer ein, die dem Land für tausend Jahre seine Gestalt geben, und 788 nimmt Karl der Grosse ihm zum ersten Mal die Unabhängigkeit.
 
-**[Plot 2: Das Reinheitsgebot 1516](plot_02_reinheitsgebot_1516.md)**
+**[Plot 1: Das Reinheitsgebot 1516](plot_02_reinheitsgebot_1516.md)**
 
 Zwei Herzöge schreiben 1516 vor, was ins Bier darf, und ein Land macht daraus über Jahrhunderte seinen Ausweis: [das Reinheitsgebot](piece_reinheitsgebot.md) ist der Grund, warum Bayern 1871 nur unter Bedingungen ins Reich geht, und der Biergarten von 1812 übersetzt den Erlass in eine Lebensform.
 
-**[Plot 3: Patrona Bavariae 1638](plot_03_patrona_bavariae_1638.md)**
+**[Plot 2: Patrona Bavariae 1638](plot_03_patrona_bavariae_1638.md)**
 
 Die Herzöge entscheiden sich gegen Wittenberg, Maximilian I. führt die Katholische Liga, und 1638 unterstellt er sein Land förmlich der Patronin: [die Mariensäule](piece_mariensaeule.md) steht seither auf dem Platz, der nach ihr heisst. Hier wird entschieden, worin dieses Land anders ist als der Norden.
 
-**[Plot 4: Das Königreich Bayern 1806](plot_04_kingdom_1806.md)**
+**[Plot 3: Das Königreich Bayern 1806](plot_04_kingdom_1806.md)**
 
 Bayern wird durch den Vertrag mit Napoleon zum souveränen Königreich erhoben. Es modernisiert seine Verwaltung und Gesetze, bewahrt aber seine Eigenständigkeit gegenüber dem preußischen Norden.
 
-**[Plot 5: Die Integration der drei Stämme ab 1806](plot_05_drei_staemme_1806.md)**
+**[Plot 4: Die Integration der drei Stämme ab 1806](plot_05_drei_staemme_1806.md)**
 
 Die Gebiete Franken und Schwaben werden dem Königreich Bayern angegliedert, wodurch sich die drei großen bayerischen Stämme mit ihren unterschiedlichen Dialekten und Kulturen unter einer Krone vereinen.
 
-**[Plot 6: Der Märchenkönig und seine Schlösser 1869](plot_06_ludwig_neuschwanstein.md)**
+**[Plot 5: Der Märchenkönig und seine Schlösser 1869](plot_06_ludwig_neuschwanstein.md)**
 
 König [Ludwig II](persona_ludwig.md) zieht sich aus der Politik zurück und baut in den [Alpen](place_alpen.md) fantastische Schlösser wie [Neuschwanstein](place_neuschwanstein.md). Seine Flucht vor der Realität schafft die steinernen Symbole einer bayerischen Identität.
 
-**[Plot 7: Freistaat und Ordnungszelle 1918 bis 1923](plot_07_freistaat_und_ordnungszelle.md)**
+**[Plot 6: Freistaat und Ordnungszelle 1918 bis 1923](plot_07_freistaat_und_ordnungszelle.md)**
 
 Kurt Eisner ruft 1918 [den Freistaat](position_freistaat.md) aus und wird drei Monate später erschossen. Aus Räterepublik und Niederschlagung wird die Ordnungszelle Bayern, und in ihren Bierhallen wächst die Bewegung heran, die 1923 den Putsch versucht.
 
-**[Plot 8: Laptop und Lederhose 1980er](plot_08_laptop_lederhosen.md)**
+**[Plot 7: Laptop und Lederhose 1980er](plot_08_laptop_lederhosen.md)**
 
 Das agrarisch geprägte Land vollzieht den Strukturwandel zum High-Tech-Standort. [Amalie](persona_amalie.md) arbeitet in der modernen Industrie, während [Gustl](persona_gustl.md) die Traditionen der Heimat bewahrt.
+
+**[Plot 99: Die bestellte Heimat, seit 2015](plot_99_die_bestellte_heimat.md)**
+
+Der Kreuzerlass von 2018, das Ende der absoluten Mehrheit nach achtundfünfzig Jahren, das erfolgreichste Volksbegehren der Landesgeschichte gegen die Landwirtschaft, das teuerste Wohnen des Landes und Gletscher, die amtlich keine mehr sind. Ein Befund und keine Vorhersage: was selbstverständlich war, wird angeordnet.
 
 ## Stakes
 

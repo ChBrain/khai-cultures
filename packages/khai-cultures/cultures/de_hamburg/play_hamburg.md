@@ -34,8 +34,11 @@ Moin. Mehr muss man an der Elbe nicht sagen, denn seit dem Barbarossa-Privileg v
 
 **Places**
 
+- [die Hammaburg](place_hammaburg.md)
 - [die Speicherstadt](place_speicherstadt.md)
 - [die Reeperbahn](place_reeperbahn.md)
+- [Hammerbrook](place_hammerbrook.md)
+- [Wilhelmsburg](place_wilhelmsburg.md)
 
 **Processes**
 
@@ -53,6 +56,8 @@ Moin. Mehr muss man an der Elbe nicht sagen, denn seit dem Barbarossa-Privileg v
 
 - [das Barbarossa-Privileg](piece_barbarossa_privileg.md)
 - [die Elbphilharmonie](piece_elbphilharmonie.md)
+- [das Mahnmal St. Nikolai](piece_mahnmal_st_nikolai.md)
+- [die Rote Flora](piece_rote_flora.md)
 
 **Pitches**
 
@@ -64,17 +69,37 @@ Moin. Mehr muss man an der Elbe nicht sagen, denn seit dem Barbarossa-Privileg v
 
 ## Triggers
 
+**[Plot 0: Die Hammaburg und Ansgars Norden](plot_00_die_hammaburg.md)**
+
+Um 808 wird die Hammaburg zwischen Alster und Elbe befestigt und 834 zum Sitz eines Erzbistums, das von hier aus den Norden bekehren soll; 845 brennen die Dänen sie nieder, doch der Name bleibt der Stadt.
+
 **[Plot 1: Das Barbarossa-Privileg 1189](plot_01_barbarossa_1189.md)**
 
 Kaiser Friedrich Barbarossa stellt Hamburg einen Freibrief aus, der Zollfreiheit auf der Unterelbe gewährt und den Grundstein für den Welthafen legt.
 
-**[Plot 2: Der Bau der Speicherstadt 1888](plot_02_speicherstadt_1888.md)**
+**[Plot 2: Das Bündnis mit Lübeck 1241](plot_02_luebecker_buendnis_1241.md)**
+
+Hamburg und Lübeck schliessen ein Schutzbündnis für ihre Kaufleute, aus dem über die folgenden hundert Jahre die Hanse entsteht, ein Städtebund ohne Kaiser und ohne Fürst.
+
+**[Plot 3: Der Bau der Speicherstadt 1888](plot_03_speicherstadt_1888.md)**
 
 Mit dem Anschluss Hamburgs an den deutschen Zollverein wird der größte Lagerhauskomplex der Welt errichtet, um zollfreien Warenverkehr im Freihafen zu sichern.
 
-**[Plot 3: Der Wandel des Kiez von St. Pauli](plot_03_st_pauli.md)**
+**[Plot 4: Der Feuersturm 1943](plot_04_feuersturm_1943.md)**
+
+Die alliierte Operation Gomorrha entfacht einen Feuersturm über den östlichen Wohnvierteln, der Hammerbrook auslöscht, mehr als 34.000 Menschen tötet und den Turm von St. Nikolai als Ruine zurücklässt.
+
+**[Plot 5: Die Sturmflut 1962](plot_05_sturmflut_1962.md)**
+
+Eine Orkanflut bricht die Deiche und ertränkt Wilhelmsburg, 315 Tote in der Stadt, während Innensenator Schmidt ohne Mandat die Bundeswehr zur Rettung ruft.
+
+**[Plot 6: Der Wandel des Kiez von St. Pauli](plot_06_st_pauli.md)**
 
 Das ehemals vor den Toren gelegene Amüsierviertel an der Reeperbahn entwickelt eine eigenständige Kultur der Toleranz und der Solidarität.
+
+**[Plot 99: Das teure Jahrzehnt](plot_99_das_teure_jahrzehnt.md)**
+
+Die zehnfach teurere Elbphilharmonie eröffnet 2017, im selben Jahr eskaliert der G20-Gipfel im Schanzenviertel, und der Hafen verkauft 2024 fast die Hälfte seines Betreibers an eine ausländische Reederei, während er gegen Antwerpen und Rotterdam um Anteile kämpft.
 
 ## Stakes
 

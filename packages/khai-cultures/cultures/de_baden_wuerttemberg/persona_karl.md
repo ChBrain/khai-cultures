@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[das Tüfteln](position_tuefteln.md)
+[das Tüfteln](position_tuefteln.md), verwurzelt in [die stille Klugheit](position_stille_klugheit.md)
 
 ## Owner
 

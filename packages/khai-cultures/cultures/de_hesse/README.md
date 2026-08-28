@@ -10,12 +10,12 @@ Hesse staged as a full khai play, ISO DE-HE, language de. The central state of G
 
 - **Anchor:** [play_hesse.md](play_hesse.md), the culture itself.
 - **Pitch:** [pitch_hesse.md](pitch_hesse.md), the Hesse key.
-- **Plots (history):** the Frankfurt Parliament of 1848, the creation of the modern state in 1945, and the rise of the financial center.
+- **Plots (history):** the felling of the Donar Oak at Geismar in 723 (origin), the Frankfurt Parliament of 1848, the creation of the modern state in 1945, the rise of the financial center, and the Lübcke assassination, the Hanau attack, and the "NSU 2.0" police-data scandal of 2019 to 2020 (present).
 - **Personas:** Heinz (traditional cider innkeeper archetype) and Steffi (modern financial analyst), written in German.
 - **Positions:** die Demokratie (democratic tradition), die Finanzwirtschaft (financial strength), die Gemütlichkeit (conviviality).
-- **Places:** die Paulskirche (St. Paul's Church), das Bankenviertel (financial district).
+- **Places:** Geismar (site of the origin plot), die Paulskirche (St. Paul's Church), das Bankenviertel (financial district), Kassel and Hanau (sites of the 2019 and 2020 attacks).
 - **Processes:** das Ebbelwoi-Trinken (cider drinking).
-- **Pieces:** der Bembel (cider jug), die Landesverfassung (state constitution).
+- **Pieces:** der Bembel (cider jug), die Landesverfassung (state constitution), die Donar-Eiche (the felled origin oak).
 - **Plan:** die grüne Finanzwirtschaft (green finance plan).
 
 ## Provenance

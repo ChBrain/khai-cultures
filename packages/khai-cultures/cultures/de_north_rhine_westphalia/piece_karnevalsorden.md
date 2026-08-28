@@ -34,4 +34,4 @@ Eine farbenfrohe Medaille aus Gussmetall, die oft ein satirisches oder stadtbezo
 ## Yearbook
 
 - Stolz erworben und getragen von [Luisa](persona_luisa.md) bei den Sitzungen in Köln.
-- Symbol des feierlichen und närrischen Miteinanders im Plot [Die Operation Marriage 1946](plot_02_creation_1946.md).
+- Symbol des feierlichen und närrischen Miteinanders im Plot [Die Operation Marriage 1946](plot_03_creation_1946.md).
