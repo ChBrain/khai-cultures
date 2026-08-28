@@ -26,3 +26,21 @@ speech under an English position. The four findings stay reported instead, which
 is what the debt actually looks like. Writing the two missing positions means
 writing Has / Orders / Loses / Drives _in_ Nauruan and _in_ Fang, and that is
 its own piece of work, not a link.
+
+**And touching two cultures brought their coverage debt with it**, which is what
+the ratchet is for. Egypt was carrying four dead Company entries and Malaysia
+six — all of them things the plots were already about and never linked. The
+obelisk and the papyrus go into the Pharaonic plot, where the Action already has
+the scribe cutting script into stone and papyrus and the Tension already has the
+king's name outlasting the man who raised the block; the flood joins it as the
+rhythm the state and the field were both built on. The oud goes under Umm
+Kulthum's voice in the Nahda, and the ahwa gives Mahfouz the seat he watched his
+alley from. Melaka's plot gains Islam taking root in the port before it spread
+through the archipelago, and the songket that marked rank in its hall. The
+Federation plot gains the everyday the nation was actually assembled out of —
+the mamak table that seats every community past midnight, the yearly balik
+kampung, Pak Tua keeping the adat that is returned to, and the wau still going
+up over the village.
+
+No scene was invented to satisfy the counter: every one of the ten was cast
+where the plot was already standing.
