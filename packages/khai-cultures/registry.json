@@ -13309,6 +13309,11 @@
           "title": "The Stumbling Stones"
         },
         {
+          "file": "piece_strassburger_eide.md",
+          "kind": "piece",
+          "title": "The Strasbourg Oaths"
+        },
+        {
           "file": "pitch_germany.md",
           "kind": "pitch",
           "title": "The German Key",
@@ -13350,6 +13355,12 @@
           "file": "play_germany.md",
           "kind": "play",
           "title": "Germany"
+        },
+        {
+          "file": "plot_00_theodiscus_und_die_strassburger_eide.md",
+          "kind": "plot",
+          "title": "Theodiscus and the Strasbourg Oaths",
+          "taxonomy": "play_germany.md"
         },
         {
           "file": "plot_01_reformation.md",
@@ -13403,6 +13414,12 @@
           "file": "plot_09_mauerfall.md",
           "kind": "plot",
           "title": "The Fall of the Wall 1989/90",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_99_das_offene_jahrzehnt.md",
+          "kind": "plot",
+          "title": "The Open Decade, since 2015",
           "taxonomy": "play_germany.md"
         },
         {
