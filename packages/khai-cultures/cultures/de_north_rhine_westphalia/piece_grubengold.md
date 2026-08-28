@@ -34,4 +34,4 @@ Ein schwarzer, unregelmäßig geformter, matt glänzender Brocken aus Steinkohle
 ## Yearbook
 
 - Bewahrt und gehütet von [Jupp](persona_jupp.md) als stolzes Erinnerungsstück an sein gesamtes Berufsleben.
-- Überreicht als symbolisches letztes Fördergut im Plot [Das Ende des Steinkohlebergbaus 2018](plot_03_coal_exit.md).
+- Überreicht als symbolisches letztes Fördergut im Plot [Das Ende des Steinkohlebergbaus 2018](plot_04_coal_exit.md).

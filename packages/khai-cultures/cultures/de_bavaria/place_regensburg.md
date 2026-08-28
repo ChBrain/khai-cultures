@@ -26,7 +26,7 @@ Eine Stadt an der nördlichsten Stelle der Donau, wo der Fluss nach Osten abknic
 
 ## Holds
 
-- den Anfang: als Castra Regina römisches Lager, dann in [Die Bajuwaren und die Klöster](plot_01_bajuwaren_und_kloester.md) das erste Bistum des Landes.
+- den Anfang: als Castra Regina römisches Lager, dann in [Die Bajuwaren und die Klöster](plot_00_bajuwaren_und_kloester.md) das erste Bistum des Landes.
 - die Dauer: bayerische Herzogsstadt, freie Reichsstadt, und über anderthalb Jahrhunderte Sitz des Immerwährenden Reichstags.
 
 ## Offers
