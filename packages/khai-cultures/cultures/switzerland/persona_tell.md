@@ -27,7 +27,7 @@ Der sagenhafte Freiheitsheld der Innerschweiz, der Armbrustschütze aus Uri. Ob 
 
 ## Action
 
-Im Geist des [Rütlischwurs 1291](plot_01_ruetli_1291.md) verweigert er dem fremden Vogt den Gehorsam, trifft den Apfel und wird zum Sinnbild des [Milizgedankens](position_milizsystem.md): der bewaffnete, freie Bürger, der sein Land selbst verteidigt.
+Im Geist des [Rütlischwurs 1291](plot_03_ruetli_1291.md) verweigert er dem fremden Vogt den Gehorsam, trifft den Apfel und wird zum Sinnbild des [Milizgedankens](position_milizsystem.md): der bewaffnete, freie Bürger, der sein Land selbst verteidigt.
 
 ## Shadow
 

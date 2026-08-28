@@ -26,8 +26,8 @@ Die Stadt am See im französischsprachigen Westen, Sitz internationaler Organisa
 
 ## Holds
 
-- [die Reformation und die Kappelerkriege](plot_02_reformation_1531.md): hier baut [Calvin](persona_calvin.md) seine strenge Kirchenordnung auf, lange bevor die Stadt 1815 der Eidgenossenschaft beitritt.
-- [das Rote Kreuz 1863](plot_04_rotes_kreuz_1863.md): hier gründet [Dunant](persona_dunant.md) die humanitäre Bewegung.
+- [die Reformation und die Kappelerkriege](plot_04_reformation_1531.md): hier baut [Calvin](persona_calvin.md) seine strenge Kirchenordnung auf, lange bevor die Stadt 1815 der Eidgenossenschaft beitritt.
+- [das Rote Kreuz 1863](plot_06_rotes_kreuz_1863.md): hier gründet [Dunant](persona_dunant.md) die humanitäre Bewegung.
 - [die Neutralität](position_neutralitaet.md): von hier aus dient das Land als Ort der Vermittlung.
 
 ## Offers

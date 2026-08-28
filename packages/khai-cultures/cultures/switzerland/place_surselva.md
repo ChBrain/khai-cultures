@@ -26,8 +26,8 @@ Das oberste Rheintal in Graubünden, ein Bündel schmaler Seitentäler, in denen
 
 ## Holds
 
-- [der Sprachenartikel 1938](plot_06_sprachenartikel_1938.md): hier liegt das Kerngebiet, für dessen Sprache das ganze Land 1938 an die Urne tritt.
-- [das Frauenstimmrecht 1971](plot_08_frauenstimmrecht_1971.md): hier legt [Menga](persona_menga.md) ihren ersten Stimmzettel ein, auf Deutsch, weil das Tal ihn selbst nicht ausstellt.
+- [der Sprachenartikel 1938](plot_08_sprachenartikel_1938.md): hier liegt das Kerngebiet, für dessen Sprache das ganze Land 1938 an die Urne tritt.
+- [das Frauenstimmrecht 1971](plot_10_frauenstimmrecht_1971.md): hier legt [Menga](persona_menga.md) ihren ersten Stimmzettel ein, auf Deutsch, weil das Tal ihn selbst nicht ausstellt.
 
 ## Offers
 

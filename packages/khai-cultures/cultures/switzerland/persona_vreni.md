@@ -27,7 +27,7 @@ Eine Deutschschweizerin über sechzig, genau, verlässlich und diskret. Sie miss
 
 ## Action
 
-Sie geht zu jeder [Volksabstimmung](process_volksabstimmung.md), lebt die [Konkordanz](position_konkordanz.md) und füllt ihre Steuererklärung pünktlich aus. Als sie jung war, durften die Frauen noch nicht wählen; seit dem [Frauenstimmrecht 1971](plot_08_frauenstimmrecht_1971.md) lässt sie keine Abstimmung mehr aus, auch nicht [1992 über den EWR](plot_09_ewr_1992.md).
+Sie geht zu jeder [Volksabstimmung](process_volksabstimmung.md), lebt die [Konkordanz](position_konkordanz.md) und füllt ihre Steuererklärung pünktlich aus. Als sie jung war, durften die Frauen noch nicht wählen; seit dem [Frauenstimmrecht 1971](plot_10_frauenstimmrecht_1971.md) lässt sie keine Abstimmung mehr aus, auch nicht [1992 über den EWR](plot_11_ewr_1992.md).
 
 ## Shadow
 

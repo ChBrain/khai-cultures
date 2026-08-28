@@ -27,7 +27,7 @@ Der Leutpriester am Grossmünster, Humanist und Söldnerkritiker, der die Schrif
 
 ## Action
 
-Er predigt gegen Ablasshandel und Reisläuferei, isst selbst kein Fleisch am Zürcher Sausenessen 1522, verteidigt aber von der Kanzel das Recht dazu, und setzt in zwei Zürcher Disputationen 1523 die Reformation der Stadt durch: der Beginn [der Reformation und der Kappelerkriege](plot_02_reformation_1531.md).
+Er predigt gegen Ablasshandel und Reisläuferei, isst selbst kein Fleisch am Zürcher Sausenessen 1522, verteidigt aber von der Kanzel das Recht dazu, und setzt in zwei Zürcher Disputationen 1523 die Reformation der Stadt durch: der Beginn [der Reformation und der Kappelerkriege](plot_04_reformation_1531.md).
 
 ## Shadow
 

@@ -32121,6 +32121,13 @@
           "taxonomy": "position_konkordanz.md"
         },
         {
+          "file": "persona_saeumer.md",
+          "kind": "persona",
+          "title": "The Muleteer",
+          "type": "archetype",
+          "taxonomy": "position_konkordanz.md"
+        },
+        {
           "file": "persona_tell.md",
           "kind": "persona",
           "title": "William Tell",
@@ -32180,6 +32187,11 @@
           "title": "Geneva"
         },
         {
+          "file": "place_gotthard.md",
+          "kind": "place",
+          "title": "The Gotthard"
+        },
+        {
           "file": "place_reduit.md",
           "kind": "place",
           "title": "The Réduit"
@@ -32217,55 +32229,67 @@
           "title": "Switzerland"
         },
         {
-          "file": "plot_01_ruetli_1291.md",
+          "file": "plot_01_helvetier_und_die_vier_zonen.md",
+          "kind": "plot",
+          "title": "The Helvetii and the Four Zones",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "plot_02_der_gotthard.md",
+          "kind": "plot",
+          "title": "The Opening of the Gotthard",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "plot_03_ruetli_1291.md",
           "kind": "plot",
           "title": "The Rütli Oath 1291",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_02_reformation_1531.md",
+          "file": "plot_04_reformation_1531.md",
           "kind": "plot",
           "title": "The Reformation and the Kappel Wars 1523-1531",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_03_bundesstaat_1848.md",
+          "file": "plot_05_bundesstaat_1848.md",
           "kind": "plot",
           "title": "The Federal State 1848",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_04_rotes_kreuz_1863.md",
+          "file": "plot_06_rotes_kreuz_1863.md",
           "kind": "plot",
           "title": "The Red Cross 1863",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_05_wohlstand_1934.md",
+          "file": "plot_07_wohlstand_1934.md",
           "kind": "plot",
           "title": "Wealth: Watches and Bank Secrecy 1934",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_06_sprachenartikel_1938.md",
+          "file": "plot_08_sprachenartikel_1938.md",
           "kind": "plot",
           "title": "The Language Article 1938",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_07_kriegsjahre_1939_1945.md",
+          "file": "plot_09_kriegsjahre_1939_1945.md",
           "kind": "plot",
           "title": "The War Years 1939 to 1945",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_08_frauenstimmrecht_1971.md",
+          "file": "plot_10_frauenstimmrecht_1971.md",
           "kind": "plot",
           "title": "Women's Suffrage 1971",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_09_ewr_1992.md",
+          "file": "plot_11_ewr_1992.md",
           "kind": "plot",
           "title": "No to the European Economic Area 1992",
           "taxonomy": "play_switzerland.md"

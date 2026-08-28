@@ -26,7 +26,7 @@ Der einzige ganz italienischsprachige Kanton, südlich der Alpen und doch Teil e
 
 ## Holds
 
-- [der Sprachenartikel 1938](plot_06_sprachenartikel_1938.md): hier trifft die faschistische Behauptung, das Tessin sei eigentlich italienisch, auf eine Bevölkerung, die sich als Schweizerin und Schweizer versteht.
+- [der Sprachenartikel 1938](plot_08_sprachenartikel_1938.md): hier trifft die faschistische Behauptung, das Tessin sei eigentlich italienisch, auf eine Bevölkerung, die sich als Schweizerin und Schweizer versteht.
 
 ## Offers
 

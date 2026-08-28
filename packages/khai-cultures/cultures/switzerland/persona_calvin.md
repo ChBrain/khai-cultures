@@ -27,7 +27,7 @@ Le juriste picard, réfugié à Genève, qui donne à la Réforme une doctrine e
 
 ## Action
 
-Appelé par Guillaume Farel, il organise à Genève une Église disciplinée où le Consistoire surveille les moeurs autant que la doctrine, dans le sillage de [la Réforme et des guerres de Kappel](plot_02_reformation_1531.md) qui viennent de diviser la Confédération voisine.
+Appelé par Guillaume Farel, il organise à Genève une Église disciplinée où le Consistoire surveille les moeurs autant que la doctrine, dans le sillage de [la Réforme et des guerres de Kappel](plot_04_reformation_1531.md) qui viennent de diviser la Confédération voisine.
 
 ## Shadow
 
