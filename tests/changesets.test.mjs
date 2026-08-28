@@ -81,12 +81,25 @@ const changesets = readdirSync(join(root, ".changeset"))
   .map((f) => ({ file: f, text: readFileSync(join(root, ".changeset", f), "utf8") }));
 
 describe("every changeset names a package this workspace has", () => {
-  it("finds the workspace's packages, and the changesets to check", () => {
-    // A reader that found nothing would pass the wall below in silence, which is
-    // the whole failure mode this file is about.
+  it("finds the workspace's packages, and the directory it reads", () => {
+    // Anti-vacuity, and deliberately NOT a count of changesets. The corpus is
+    // empty on exactly one branch -- `changeset-release/main`, where
+    // `changeset version` has consumed every changeset -- and empty is the
+    // CORRECT state there. Asserting a non-empty corpus therefore fails the
+    // Version Packages pull request, which is the one branch whose whole job is
+    // to publish, so the wall would block the release it was written to protect.
+    // It did exactly that, here and in the misfits house, on the first release
+    // after it shipped.
+    //
+    // What holds on every branch is that the packages are found and the changeset
+    // directory is the one changesets itself reads. The guard against a reader
+    // that matches nothing is the parser test below, run on literal inputs, which
+    // is where such a fault would actually show -- a corpus count only ever
+    // proved that somebody had written a changeset lately.
     expect(NAMES).toContain("@chbrain/khai-cultures");
     expect(NAMES).toContain("@chbrain/khai-cultures-tongues");
-    expect(changesets.length).toBeGreaterThan(0);
+    expect(existsSync(join(root, ".changeset", "config.json"))).toBe(true);
+    expect(changesets.every((c) => c.file.endsWith(".md"))).toBe(true);
   });
 
   it("declares no package the workspace does not have", () => {
