@@ -115,10 +115,12 @@ export function plan(id) {
     for (const file of mds(c.dir)) {
       const path = join(c.dir, file);
       const text = readFileSync(path, "utf8");
-      const next = text.replace(
-        new RegExp(`\\]\\(\\.\\./${id}/([^()\\s]+)\\)`, "g"),
-        (_, tail) => `](${spec}${tail})`,
-      );
+      // A fixed pattern, then an equality test on what it captured. Building the
+      // pattern out of the id would be a regex assembled from an argument, which
+      // is an injection whatever the argument happens to be today.
+      let next = text;
+      for (const m of text.matchAll(/\]\(\.\.\/([a-z0-9_]+)\/([^()\s]+)\)/g))
+        if (m[1] === id) next = next.split(m[0]).join(`](${spec}${m[2]})`);
       if (next !== text) inbound.push([path, next]);
     }
   }
@@ -199,11 +201,21 @@ if (isMain) {
     for (const [what, ids] of held) console.log(`  ${String(ids.size).padStart(3)}  ${what}`);
     process.exit(0);
   }
-  const id = argv.find((a) => !a.startsWith("-"));
-  if (!id) {
+  const asked = argv.find((a) => !a.startsWith("-"));
+  if (!asked) {
     console.error("usage: migrate_culture.mjs <id> [--write]");
     process.exit(2);
   }
+  // The argument selects a culture; it never becomes one. Everything below uses
+  // the id off the discovered record, so no path this tool renames, no file it
+  // writes and no argument it hands `git` was ever assembled out of what
+  // somebody typed.
+  const found = cultures().find((c) => c.id === asked);
+  if (!found) {
+    console.error(`no culture "${asked}" in this house`);
+    process.exit(1);
+  }
+  const id = found.id;
   const stop = blockers(id);
   if (stop.length) {
     console.error(`${id} cannot migrate yet:`);

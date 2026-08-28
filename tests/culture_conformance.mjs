@@ -84,17 +84,30 @@ export function conformance(id) {
     // fail the publish invariant. So the required form follows the parent's
     // home, and the message names the one that is right today.
     const spec = productionName(parent);
-    const wanted = isMigrated(parent)
-      ? new RegExp(
-          `\\]\\(${spec.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/position_culture_[a-z0-9_]+\\.md\\)`,
-        )
-      : new RegExp(`\\]\\(\\.\\./${parent}/position_culture_[a-z0-9_]+\\.md\\)`);
-    const linked = own.some((f) => wanted.test(readFileSync(join(dir, f), "utf8")));
+    const migrated = isMigrated(parent);
+    const wanted = migrated
+      ? `${spec}/position_culture_*.md`
+      : `../${parent}/position_culture_*.md`;
+    // Matched with a fixed pattern and an equality test rather than a regex
+    // built from the parent's name. A name interpolated into a pattern is a
+    // regex the caller did not write, and CodeQL is right to call that an
+    // injection even when the name is only ever an id: the fix costs nothing
+    // and the habit is what matters at 290 packages.
+    const links = (text) =>
+      [
+        ...text.matchAll(
+          /\]\((?:(\.\.)\/([a-z0-9_]+)|(@[a-z0-9-]+\/[a-z0-9-]+))\/position_culture_[a-z0-9_]+\.md\)/g,
+        ),
+      ].map((m) => (m[1] ? { relative: m[2] } : { package: m[3] }));
+    const linked = own.some((f) =>
+      links(readFileSync(join(dir, f), "utf8")).some((l) =>
+        migrated ? l.package === spec : l.relative === parent,
+      ),
+    );
     if (!linked)
       blocking.push(
         `nests in "${parent}" and does not say so: its culture-position must link ` +
-          `${isMigrated(parent) ? `${spec}/position_culture_*.md` : `../${parent}/position_culture_*.md`}, ` +
-          `because a sub-national culture is a way of being the culture above it`,
+          `${wanted}, because a sub-national culture is a way of being the culture above it`,
       );
   }
   return { blocking, advisory, findings: [...blocking, ...advisory] };
