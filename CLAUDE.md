@@ -182,6 +182,14 @@ Where the answer is that a culture stands as it is, write the reasoning into its
 `REFERENCES.md` rather than leaving the next hand to ask again. Never stage an
 apology in place of a deed, and never invent a scene to satisfy a counter.
 
+**The answer is a cultural moment, not a constitutional one.** A play can carry
+ten plots and still answer the wrong question: a culture named after a country
+makes the country the obvious material, and foundings, treaties and borders read
+as complete while describing a passport. To find the gap, take the words the play
+uses about itself in its Arc, Name, Stakes and pitch, and ask which appear in a
+plot. Switzerland's Name chapter says `Confoederatio Helvetica` and no plot knows
+the Helvetii existed.
+
 ## Protection
 
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); sources

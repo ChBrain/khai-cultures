@@ -70,6 +70,39 @@ answer will be that the play already stages it and nothing needs to change.
 concludes that a culture stands as it is, the reasoning goes into that culture's
 `REFERENCES.md`, so the next hand reads the decision instead of re-litigating it.
 
+**The answer is a cultural moment, not a constitutional one.** This is the
+failure the question keeps finding, and it is not the same as staging too little.
+A play can carry ten plots and still answer the wrong question, because the
+obvious material for a culture named after a country is the country: foundings,
+treaties, borders, the dates a state acquired or lost its shape. Those are
+cheap to research and they read as complete. But a culture is not its statehood,
+and a play that stages only the statehood has described a passport.
+
+Three cultures were read against this after Austria and Switzerland were staged,
+and each showed the same shape: something asserted in the chapter where the play
+describes itself, and no scene carrying it.
+
+- Switzerland's **Name** chapter says `Confoederatio Helvetica`. The Helvetii
+  appear in no other file in the culture. Its Arc rests on four languages, and
+  the only plot about them is the 1938 recognition of the fourth: the play
+  stages the constitutional act and not the late-antique settlement that put
+  four languages there in the first place.
+- Austria writes `barock` in its Arc, its pitch, its culture-position, its
+  capital-adjacent place and its Baroque palace, and in no plot. It has a place
+  whose name means salt fortress, and no salt, no Hallstatt, no Noricum.
+- Germany's cast is Luther, Bismarck, Adenauer, Kohl and two contemporaries: two
+  churchmen and statesmen, two chancellors, no poet, no composer, no scientist.
+  Goethe and Weimar appear in `REFERENCES.md` and in the file for the motorway.
+  A culture whose Arc rests on `Können statt Rang` had staged every chancellor
+  and no craft.
+
+The tell is mechanical enough to look for deliberately: **take the words the
+play uses about itself in its Arc, Name, Stakes and pitch, and ask which of them
+appear in a plot.** The ones that do not are the question's shortlist. That is
+not a gate and cannot become one - whether the gap matters is the dialogue this
+order exists to have - but it is where to look first, and it found three in an
+afternoon.
+
 **Two things are never staged.** An apology in the place of a deed: Nuremberg or
 the Kniefall standing in for 1933 to 1945 reproduces the evasion the staging
 exists to end, and the same trade is available in every culture that would rather
@@ -92,3 +125,7 @@ same means, by asking a person and not a number.
       culture's `REFERENCES.md`; execution rides the culture PR that answers it
 - [x] Set the heuristic for choosing where to ask next: a culture whose Arc or
       Stakes name something no plot stages, the tell Germany showed
+- [x] Name the failure the question keeps finding: the answer is a cultural
+      moment and not a constitutional one, evidenced on all three DACH cultures
+- [ ] Carry it through DACH and then their children, one culture at a time,
+      each with its own research pass and never another culture as a template
