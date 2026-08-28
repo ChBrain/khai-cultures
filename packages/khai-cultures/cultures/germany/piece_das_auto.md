@@ -33,7 +33,7 @@ Ein sauberer, gepflegter Wagen, in dem nichts klappert und dessen Türen mit ein
 
 ## Yearbook
 
-- Als Käfer aus einem Werk gekommen, das 1938 für einen Wagen des Regimes gebaut wurde und im Krieg mit Zwangsarbeit produzierte; erst danach wurde derselbe Wagen zum Zeichen des Wirtschaftswunders in [Grundgesetz und Wirtschaftswunder 1949](plot_04_grundgesetz.md).
+- Als Käfer aus einem Werk gekommen, das 1938 für einen Wagen des Regimes gebaut wurde und im Krieg mit Zwangsarbeit produzierte; erst danach wurde derselbe Wagen zum Zeichen des Wirtschaftswunders in [Grundgesetz und Wirtschaftswunder 1949](plot_06_grundgesetz.md).
 - Im Osten, wo [Elke](persona_elke.md) aufwuchs, dreizehn Jahre lang bestellt und erwartet, ehe der Trabant vor der Tür stand, und darum bis heute nichts, was man wegwirft.
 - Für [Jonas](persona_jonas.md) das erste Ding dieser Liste, das man auch einfach nicht mehr besitzen kann, ohne dass etwas fehlt.
-- Verteidigt in [Die autofreien Sonntage 1973](plot_05_autofreie_sonntage.md), als das Land über sein Tempo stritt.
+- Verteidigt in [Die autofreien Sonntage 1973](plot_08_autofreie_sonntage.md), als das Land über sein Tempo stritt.

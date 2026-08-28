@@ -13198,6 +13198,13 @@
           "taxonomy": "position_sie_du.md"
         },
         {
+          "file": "persona_goethe.md",
+          "kind": "persona",
+          "title": "Goethe",
+          "type": "real",
+          "taxonomy": "position_beamte.md"
+        },
+        {
           "file": "persona_jonas.md",
           "kind": "persona",
           "title": "Jonas",
@@ -13219,6 +13226,13 @@
           "taxonomy": "position_meister.md"
         },
         {
+          "file": "persona_mehmet.md",
+          "kind": "persona",
+          "title": "Mehmet",
+          "type": "archetype",
+          "taxonomy": "position_meister.md"
+        },
+        {
           "file": "piece_brot.md",
           "kind": "piece",
           "title": "Bread"
@@ -13232,6 +13246,11 @@
           "file": "piece_grundgesetz.md",
           "kind": "piece",
           "title": "The Basic Law"
+        },
+        {
+          "file": "piece_hermannsdenkmal.md",
+          "kind": "piece",
+          "title": "The Hermann Monument"
         },
         {
           "file": "piece_stolpersteine.md",
@@ -13260,6 +13279,11 @@
           "title": "The Ruhr Region"
         },
         {
+          "file": "place_weimar.md",
+          "kind": "place",
+          "title": "Weimar"
+        },
+        {
           "file": "plan_energiewende.md",
           "kind": "plan",
           "title": "Energiewende",
@@ -13283,31 +13307,49 @@
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_02_reichsgruendung.md",
+          "file": "plot_02_weimar_kulturnation.md",
+          "kind": "plot",
+          "title": "Weimar and the Nation of Culture",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_03_reichsgruendung.md",
           "kind": "plot",
           "title": "The Founding of the Reich 1871",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_03_zivilisationsbruch.md",
+          "file": "plot_04_hermannsdenkmal_1875.md",
+          "kind": "plot",
+          "title": "Hermann and the Invented Antiquity 1875",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_05_zivilisationsbruch.md",
           "kind": "plot",
           "title": "The Seizure of Power and the Break with Civilisation 1933 to 1945",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_04_grundgesetz.md",
+          "file": "plot_06_grundgesetz.md",
           "kind": "plot",
           "title": "Basic Law and the Economic Miracle 1949",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_05_autofreie_sonntage.md",
+          "file": "plot_07_gastarbeiter.md",
+          "kind": "plot",
+          "title": "We Called for Workers 1955 to 1973",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_08_autofreie_sonntage.md",
           "kind": "plot",
           "title": "The Car-Free Sundays 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_06_mauerfall.md",
+          "file": "plot_09_mauerfall.md",
           "kind": "plot",
           "title": "The Fall of the Wall 1989/90",
           "taxonomy": "play_germany.md"

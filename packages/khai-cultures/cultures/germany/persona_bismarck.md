@@ -26,7 +26,7 @@ Der eiserne Kanzler. Ein Mann der kühlen Berechnung und des eisernen Willens, d
 
 ## Action
 
-Er einigt das Land in der [Reichsgründung 1871](plot_02_reichsgruendung.md) durch Krieg und Verhandlung und baut zugleich die erste staatliche Versorgung für Krankheit, Unfall und Alter. So legt er den Grund für die Ordnung und die Pflicht des [Beamten](position_beamte.md), an der das Land seither sein Inneres misst.
+Er einigt das Land in der [Reichsgründung 1871](plot_03_reichsgruendung.md) durch Krieg und Verhandlung und baut zugleich die erste staatliche Versorgung für Krankheit, Unfall und Alter. So legt er den Grund für die Ordnung und die Pflicht des [Beamten](position_beamte.md), an der das Land seither sein Inneres misst.
 
 ## Shadow
 
