@@ -34,4 +34,4 @@ Ein schwerer Brocken aus rauem Beton, oft auf einer Seite mit bunten Graffitis b
 ## Yearbook
 
 - Bewahrt und gehütet von [Dieter](persona_dieter.md) als persönliches Erinnerungsstück an ein geteiltes Leben.
-- Entstanden als historisches Relikt im Plot [Der Fall der Mauer 1989](plot_02_reunification_1989.md).
+- Entstanden als historisches Relikt im Plot [Der Fall der Mauer 1989](plot_03_reunification_1989.md).

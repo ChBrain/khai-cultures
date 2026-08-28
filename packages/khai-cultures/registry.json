@@ -7524,9 +7524,21 @@
           "taxonomy": "position_mauer.md"
         },
         {
+          "file": "persona_hirschfeld.md",
+          "kind": "persona",
+          "title": "Magnus Hirschfeld",
+          "type": "real",
+          "taxonomy": "position_freiheit.md"
+        },
+        {
           "file": "piece_berghain_stamp.md",
           "kind": "piece",
           "title": "The Club Stamp"
+        },
+        {
+          "file": "piece_club_mate.md",
+          "kind": "piece",
+          "title": "Club-Mate"
         },
         {
           "file": "piece_mauerstueck.md",
@@ -7534,10 +7546,20 @@
           "title": "A Piece of the Wall"
         },
         {
+          "file": "piece_mietendeckel.md",
+          "kind": "piece",
+          "title": "The Rent Cap"
+        },
+        {
           "file": "pitch_berlin.md",
           "kind": "pitch",
           "title": "The Berlin Key",
           "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "place_ber.md",
+          "kind": "place",
+          "title": "BER Airport"
         },
         {
           "file": "place_berghain.md",
@@ -7550,6 +7572,16 @@
           "title": "Brandenburger Tor"
         },
         {
+          "file": "place_franzoesischer_dom.md",
+          "kind": "place",
+          "title": "The French Cathedral"
+        },
+        {
+          "file": "place_institut_sexualwissenschaft.md",
+          "kind": "place",
+          "title": "The Institute for Sexual Science"
+        },
+        {
           "file": "plan_toleranz.md",
           "kind": "plan",
           "title": "die Förderung der Toleranz"
@@ -7560,21 +7592,45 @@
           "title": "Berlin"
         },
         {
-          "file": "plot_01_division_1961.md",
+          "file": "plot_00_edikt_von_potsdam.md",
+          "kind": "plot",
+          "title": "The Edict of Potsdam and the Huguenots",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "plot_01_weltstadt_1920_1933.md",
+          "kind": "plot",
+          "title": "Berlin Becomes a World City, and Loses It",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "plot_02_division_1961.md",
           "kind": "plot",
           "title": "The Construction of the Berlin Wall",
           "taxonomy": "play_berlin.md"
         },
         {
-          "file": "plot_02_reunification_1989.md",
+          "file": "plot_03_reunification_1989.md",
           "kind": "plot",
           "title": "The Fall of the Berlin Wall",
           "taxonomy": "play_berlin.md"
         },
         {
-          "file": "plot_03_subculture.md",
+          "file": "plot_04_subculture.md",
           "kind": "plot",
           "title": "The Rise of the Techno Subculture",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "plot_05_startup_hauptstadt.md",
+          "kind": "plot",
+          "title": "Poor but Sexy: Berlin Becomes a Startup Capital",
+          "taxonomy": "play_berlin.md"
+        },
+        {
+          "file": "plot_99_das_teure_jahrzehnt.md",
+          "kind": "plot",
+          "title": "The Expensive Decade, Since 2020",
           "taxonomy": "play_berlin.md"
         },
         {
