@@ -25,7 +25,7 @@ Die Reeperbahn im Hamburger Stadtteil St. Pauli. Die hell erleuchtete Amüsierme
 
 ## Holds
 
-- die Entfaltung der Gegenkultur im Plot [Der Wandel des Kiez von St. Pauli](plot_03_st_pauli.md) : die berühmteste Feiermeile Deutschlands.
+- die Entfaltung der Gegenkultur im Plot [Der Wandel des Kiez von St. Pauli](plot_06_st_pauli.md) : die berühmteste Feiermeile Deutschlands.
 
 ## Offers
 

@@ -34,4 +34,4 @@ An Bedeutung, wenn protektionistische Handelshemmnisse den Seeverkehr einschrän
 
 ## Drives
 
-Bestimmt das städtische Selbstverständnis im Plot [Das Barbarossa-Privileg 1189](plot_01_barbarossa_1189.md) und inspiriert die hanseatischen Kaufleute der Stadt.
+Bestimmt das städtische Selbstverständnis im Plot [Das Barbarossa-Privileg 1189](plot_01_barbarossa_1189.md) und inspiriert die hanseatischen Kaufleute der Stadt; wird im [Feuersturm 1943](plot_04_feuersturm_1943.md) zum Bombenziel und ringt im [teuren Jahrzehnt](plot_99_das_teure_jahrzehnt.md) mit Antwerpen und Rotterdam um seinen Anteil am Welthandel.

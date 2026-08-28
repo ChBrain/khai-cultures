@@ -7896,10 +7896,30 @@
           "title": "The Elbphilharmonie"
         },
         {
+          "file": "piece_mahnmal_st_nikolai.md",
+          "kind": "piece",
+          "title": "The St. Nikolai Memorial"
+        },
+        {
+          "file": "piece_rote_flora.md",
+          "kind": "piece",
+          "title": "The Rote Flora"
+        },
+        {
           "file": "pitch_hamburg.md",
           "kind": "pitch",
           "title": "The Hamburg Key",
           "taxonomy": "play_hamburg.md"
+        },
+        {
+          "file": "place_hammaburg.md",
+          "kind": "place",
+          "title": "The Hammaburg"
+        },
+        {
+          "file": "place_hammerbrook.md",
+          "kind": "place",
+          "title": "Hammerbrook"
         },
         {
           "file": "place_reeperbahn.md",
@@ -7912,6 +7932,11 @@
           "title": "Hamburg Speicherstadt"
         },
         {
+          "file": "place_wilhelmsburg.md",
+          "kind": "place",
+          "title": "Wilhelmsburg"
+        },
+        {
           "file": "plan_hafencity.md",
           "kind": "plan",
           "title": "die Elbvertiefung"
@@ -7922,21 +7947,51 @@
           "title": "Hamburg"
         },
         {
+          "file": "plot_00_die_hammaburg.md",
+          "kind": "plot",
+          "title": "The Hammaburg and Ansgar's Mission North",
+          "taxonomy": "play_hamburg.md"
+        },
+        {
           "file": "plot_01_barbarossa_1189.md",
           "kind": "plot",
           "title": "Frederick Barbarossa's Port Charter",
           "taxonomy": "play_hamburg.md"
         },
         {
-          "file": "plot_02_speicherstadt_1888.md",
+          "file": "plot_02_luebecker_buendnis_1241.md",
+          "kind": "plot",
+          "title": "The Alliance with Lübeck",
+          "taxonomy": "play_hamburg.md"
+        },
+        {
+          "file": "plot_03_speicherstadt_1888.md",
           "kind": "plot",
           "title": "The Construction of the Speicherstadt",
           "taxonomy": "play_hamburg.md"
         },
         {
-          "file": "plot_03_st_pauli.md",
+          "file": "plot_04_feuersturm_1943.md",
+          "kind": "plot",
+          "title": "The Hamburg Firestorm",
+          "taxonomy": "play_hamburg.md"
+        },
+        {
+          "file": "plot_05_sturmflut_1962.md",
+          "kind": "plot",
+          "title": "The 1962 North Sea Flood",
+          "taxonomy": "play_hamburg.md"
+        },
+        {
+          "file": "plot_06_st_pauli.md",
           "kind": "plot",
           "title": "The Transformation of St. Pauli",
+          "taxonomy": "play_hamburg.md"
+        },
+        {
+          "file": "plot_99_das_teure_jahrzehnt.md",
+          "kind": "plot",
+          "title": "The Expensive Decade",
           "taxonomy": "play_hamburg.md"
         },
         {

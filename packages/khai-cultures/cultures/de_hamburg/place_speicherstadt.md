@@ -25,7 +25,7 @@ Die Speicherstadt in Hamburg, der größte historische Lagerhauskomplex der Welt
 
 ## Holds
 
-- die kaufmännische Blütezeit im Plot [Der Bau der Speicherstadt 1888](plot_02_speicherstadt_1888.md) : das steinerne Monument des Welthandels.
+- die kaufmännische Blütezeit im Plot [Der Bau der Speicherstadt 1888](plot_03_speicherstadt_1888.md) : das steinerne Monument des Welthandels.
 
 ## Offers
 
