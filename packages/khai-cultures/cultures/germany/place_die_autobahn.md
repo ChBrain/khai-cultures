@@ -25,7 +25,7 @@ Ein Netz von über dreizehntausend Kilometern, das jede grössere Stadt mit jede
 
 ## Holds
 
-- die Probe auf das eigene Regelwerk in [Die autofreien Sonntage 1973](plot_05_autofreie_sonntage.md): die Fahrbahn, auf der die Menschen spazieren gingen.
+- die Probe auf das eigene Regelwerk in [Die autofreien Sonntage 1973](plot_08_autofreie_sonntage.md): die Fahrbahn, auf der die Menschen spazieren gingen.
 - [das Auto](piece_das_auto.md): der Ort, an dem der Stolz des Landes gefahren und nicht nur besessen wird.
 
 ## Offers

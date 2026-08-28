@@ -30,15 +30,18 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 **Personas**
 
 - [Luther](persona_luther.md)
+- [Goethe](persona_goethe.md)
 - [Bismarck](persona_bismarck.md)
 - [Adenauer](persona_adenauer.md)
 - [Kohl](persona_kohl.md)
+- [Mehmet](persona_mehmet.md)
 - [Elke](persona_elke.md)
 - [Jonas](persona_jonas.md)
 
 **Places**
 
 - [Berlin](place_berlin.md)
+- [Weimar](place_weimar.md)
 - [das Ruhrgebiet](place_ruhrgebiet.md)
 - [die Autobahn](place_die_autobahn.md)
 
@@ -59,6 +62,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 **Pieces**
 
 - [das Grundgesetz](piece_grundgesetz.md)
+- [das Hermannsdenkmal](piece_hermannsdenkmal.md)
 - [die Stolpersteine](piece_stolpersteine.md)
 - [das Brot](piece_brot.md)
 - [das Auto](piece_das_auto.md)
@@ -78,23 +82,35 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 
 Ein Mönch schlägt seine Thesen an und stellt sein Gewissen über das Amt der Kirche. [Luther](persona_luther.md) übersetzt die Schrift in die Sprache des Volkes und prägt damit Sprache und Gewissen eines Landes, das seither prüft, statt blind zu gehorchen.
 
-**[Plot 2: Die Reichsgründung 1871](plot_02_reichsgruendung.md)**
+**[Plot 2: Weimar und die Kulturnation um 1800](plot_02_weimar_kulturnation.md)**
+
+Das Land hat Hunderte von Grenzen und keinen Staat. In einer Residenz von sechstausend Seelen behaupten [Goethe](persona_goethe.md) und die Seinen die Nation als Kultur, weil es sie politisch nicht gibt, und die Zersplitterung selbst gibt dem Land seine Theater und Orchester in jeder mittleren Stadt.
+
+**[Plot 3: Die Reichsgründung 1871](plot_03_reichsgruendung.md)**
 
 Aus vielen Fürstentümern wird ein Reich. [Bismarck](persona_bismarck.md) schmiedet die Einheit mit harter Hand und legt zugleich den Grund für Verwaltung, Ordnung und die Versorgung, an der das Land seine Pflicht misst.
 
-**[Plot 3: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_03_zivilisationsbruch.md)**
+**[Plot 4: Hermann und die erfundene Vorzeit 1875](plot_04_hermannsdenkmal_1875.md)**
+
+Vier Jahre nach der Gründung stellt sich das neue Reich einen Ahnen aus dem Jahr 9 hin, den es umbenennen musste, um ihn zu erkennen. [Das Hermannsdenkmal](piece_hermannsdenkmal.md) ist die Tat: ein Gedächtnis, das gebaut wird, weil es fehlt.
+
+**[Plot 5: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_05_zivilisationsbruch.md)**
 
 Der Hang, der Obrigkeit zu folgen, wird eingelöst: das Land übergibt sich auf legalem Weg, benutzt seine eigene Verwaltung zur Entrechtung und ermordet sechs Millionen Juden und Millionen weitere Menschen. 1945 liegt es besetzt und in Trümmern, und der Bruch ist von Deutschen begangen.
 
-**[Plot 4: Grundgesetz und Wirtschaftswunder 1949](plot_04_grundgesetz.md)**
+**[Plot 6: Grundgesetz und Wirtschaftswunder 1949](plot_06_grundgesetz.md)**
 
 Nach dem Sturz in die Katastrophe gibt sich das Land ein neues Fundament. [Adenauer](persona_adenauer.md) führt es aus den Trümmern, das Grundgesetz stellt die Würde des Menschen voran, und aus Fleiß und Maß wächst der Wohlstand wieder.
 
-**[Plot 5: Die autofreien Sonntage 1973](plot_05_autofreie_sonntage.md)**
+**[Plot 7: Wir riefen Arbeitskräfte 1955 bis 1973](plot_07_gastarbeiter.md)**
+
+Der Wiederaufbau braucht mehr Hände, als das Land hat, und es wirbt sie an. [Mehmet](persona_mehmet.md) kommt für ein paar Jahre und bleibt ein Leben, und aus vorübergehender Arbeit wird eine Einwanderung, für die das Land dreissig Jahre lang kein Wort und kein Recht hat.
+
+**[Plot 8: Die autofreien Sonntage 1973](plot_08_autofreie_sonntage.md)**
 
 Der Ölschock stellt das Land, das seinen Wohlstand aufs Rad gesetzt hat, für vier Sonntage auf die leere [Autobahn](place_die_autobahn.md). Aus dem Streit um das Tempo geht 1978 kein Gesetz hervor, sondern eine Empfehlung, und ausgerechnet [das Auto](piece_das_auto.md) wird die eine Sache, bei der das Land sich selbst keine bindende Regel gibt.
 
-**[Plot 6: Der Mauerfall 1989/90](plot_06_mauerfall.md)**
+**[Plot 9: Der Mauerfall 1989/90](plot_09_mauerfall.md)**
 
 Die Mauer fällt, und zwei getrennte Hälften wachsen wieder zusammen. [Kohl](persona_kohl.md) treibt die Einheit voran, während [Elke](persona_elke.md), im Osten geprägt, erlebt, wie eine ganze Lebensordnung über Nacht zerbricht und neu gefügt werden muss.
 
