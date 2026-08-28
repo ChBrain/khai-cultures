@@ -60,20 +60,31 @@ export function noMotherTongue() {
 const WIDTH = /process_(?:speaking|hearing|reading|writing|thinking)_[a-z_]+\.md/g;
 const TONGUE = /position_language_[a-z0-9_]+\.md/g;
 
+const MOTHER = /process_(?:speaking|hearing|reading|writing|thinking)_mother_tongue\.md/g;
+
 /**
- * Clauses of a Projection, with link targets masked first. A bare split on the
- * full stop would cut every link in half at its own `.md`, and the rule this
- * feeds is about what stands together in one statement. The semicolon counts as
- * a boundary because it joins independent clauses: a persona whose mother tongue
- * is named before one and whose office language is named after it has said two
- * things, not one, and reading them as one accused Liechtenstein's Katharina of
- * a fault her sentence does not contain.
+ * The tongue a grip grips: the nearest tongue link in the Projection, measured
+ * in characters and looking both ways.
+ *
+ * Sentence structure will not carry this. Splitting on punctuation puts Etter's
+ * dialect and the Hochdeutsch he only writes in one clause, because German joins
+ * them with `, doch`; taking the next tongue after the grip reads Katharina's
+ * `Muttersprache ist [Alemannisch] ... in dem sie [spricht]; [Hochdeutsch] ist
+ * die Sprache der Gesetze` backwards, because her tongue is named before her
+ * grip and the office language after it. Distance survives both, in both
+ * directions, because prose puts the tongue beside the grip that takes it
+ * whichever order the clause runs in - and it is measured over the whole
+ * Projection, so the reading does not depend on where a full stop happens to
+ * fall.
  */
-const clauses = (text) =>
-  text
-    .replace(/\.md\)/g, "_md_)")
-    .split(/[.;]/)
-    .map((s) => s.replace(/_md_\)/g, ".md)"));
+const gripped = (proj) => {
+  const tongues = [...proj.matchAll(TONGUE)].map((m) => ({ t: m[0], i: m.index }));
+  return [...proj.matchAll(MOTHER)].map((g) => {
+    const distance = (t) =>
+      t.i >= g.index ? t.i - (g.index + g[0].length) : g.index - (t.i + t.t.length);
+    return tongues.reduce((a, b) => (a === null || distance(b) < distance(a) ? b : a), null)?.t;
+  });
+};
 
 const projection = (text) => text.split("## Projection")[1]?.split("\n## ")[0] ?? "";
 
@@ -95,12 +106,9 @@ export function wiring(id, { root = ROOT } = {}) {
     for (const g of new Set(grips))
       if (!known.has(g)) findings.push(`${file}: ${g} is not a width the language engine ships`);
 
-    for (const s of clauses(proj)) {
-      if (!/_mother_tongue\.md/.test(s)) continue;
-      for (const t of new Set(s.match(TONGUE) ?? []))
-        if (unacquired.has(t))
-          findings.push(`${file}: holds ${t} as a mother tongue, which nobody acquires first`);
-    }
+    for (const t of new Set(gripped(proj)))
+      if (unacquired.has(t))
+        findings.push(`${file}: holds ${t} as a mother tongue, which nobody acquires first`);
   }
   return findings.sort();
 }
