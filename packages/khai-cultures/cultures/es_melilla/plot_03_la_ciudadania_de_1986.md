@@ -36,4 +36,4 @@ La comunidad se organiza en torno al portavoz que elige, convoca manifestaciones
 
 ## Tension
 
-La ciudad consigue los documentos y no la conversación: los papeles reconocen a la mitad de los vecinos sin que nadie explique por qué hizo falta pelearlos, y esa cuenta pendiente vuelve cada vez que se publica un dato de población.
+La ciudad consigue los documentos y no la conversación: los papeles reconocen a la mitad de los vecinos sin que nadie explique por qué hizo falta pelearlos, y esa cuenta pendiente vuelve cada vez que se publica un dato de población. [Alba](persona_alba.md), nacida después de aquella pelea, la hereda sin haberla visto: dirige cuadrillas en las que la mitad son vecinos a quienes aquellos papeles reconocieron, y en el andamio se habla de todo menos de eso, igual que en 1986 se dieron los documentos y no la conversación.
