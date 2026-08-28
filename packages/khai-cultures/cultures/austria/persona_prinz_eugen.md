@@ -27,7 +27,7 @@ Der Feldherr, dem der eigene König keine Kompanie geben wollte und der sie beim
 
 ## Action
 
-In der [Türkenbelagerung 1683](plot_01_tuerkenbelagerung_1683.md) kämpft er als junger Freiwilliger mit, und in den Jahrzehnten danach schlägt er als Feldherr die osmanische Armee endgültig zurück und erobert Ungarn für das Haus Habsburg. Aus dem Ruhm und der Beute dieser Kriege baut er sich [das Belvedere](piece_belvedere.md) vor den Toren Wiens.
+In der [Türkenbelagerung 1683](plot_02_tuerkenbelagerung_1683.md) kämpft er als junger Freiwilliger mit, und in den Jahrzehnten danach schlägt er als Feldherr die osmanische Armee endgültig zurück und erobert Ungarn für das Haus Habsburg. Aus dem Ruhm und der Beute dieser Kriege baut er sich [das Belvedere](piece_belvedere.md) vor den Toren Wiens.
 
 ## Shadow
 

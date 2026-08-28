@@ -35,5 +35,5 @@ Zwei goldgedeckte Schlossbauten mit geschwungenen Dächern, dazwischen Kaskaden,
 ## Yearbook
 
 - Erbaut für [Prinz Eugen von Savoyen](persona_prinz_eugen.md) aus dem Ruhm und der Beute der Türkenkriege.
-- Verkündet von seinem Balkon: "Österreich ist frei!", beim [Staatsvertrag 1955](plot_09_staatsvertrag_1955.md).
+- Verkündet von seinem Balkon: "Österreich ist frei!", beim [Staatsvertrag 1955](plot_11_staatsvertrag_1955.md).
 - Seit 1903 als Galerie eingerichtet, seither Heimat der großen Sammlung der Wiener Moderne.

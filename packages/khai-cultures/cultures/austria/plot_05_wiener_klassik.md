@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Das Reich, das [Maria Theresia](plot_02_maria_theresia.md) mit Ämtern und Titeln zusammenhält, ist längst auch eine Stadt voller Musik: Höfe, Salons und Kirchen in [Wien](place_wien.md) verlangen ständig nach neuen Werken, und aus dieser Nachfrage wächst mehr, als jemand bestellt hat.
+Das Reich, das [Maria Theresia](plot_04_maria_theresia.md) mit Ämtern und Titeln zusammenhält, ist längst auch eine Stadt voller Musik: Höfe, Salons und Kirchen in [Wien](place_wien.md) verlangen ständig nach neuen Werken, und aus dieser Nachfrage wächst mehr, als jemand bestellt hat.
 
 ## Action
 

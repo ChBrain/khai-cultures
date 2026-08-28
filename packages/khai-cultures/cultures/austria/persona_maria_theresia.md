@@ -27,7 +27,7 @@ Die einzige Frau auf dem Habsburger Thron, Landesmutter eines Vielvölkerreiches
 
 ## Action
 
-Sie behauptet ihr Erbe gegen halb Europa und reformiert in der [Zeit ihrer Herrschaft](plot_02_maria_theresia.md) Schule, Recht und Verwaltung. Sie macht den geordneten Dienst und den [Titel](position_titel.md) zum Rückgrat des Staates und regiert wie eine strenge Mutter ihrer vielen Völker.
+Sie behauptet ihr Erbe gegen halb Europa und reformiert in der [Zeit ihrer Herrschaft](plot_04_maria_theresia.md) Schule, Recht und Verwaltung. Sie macht den geordneten Dienst und den [Titel](position_titel.md) zum Rückgrat des Staates und regiert wie eine strenge Mutter ihrer vielen Völker.
 
 ## Shadow
 

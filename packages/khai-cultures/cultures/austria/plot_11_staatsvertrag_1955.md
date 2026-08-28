@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Nach dem [Anschluss](plot_08_anschluss_1938.md) an das nationalsozialistische Deutschland, dem Krieg und zehn Jahren Besatzung durch vier Mächte ringt das kleine Land um seine Eigenständigkeit. In [Wien](place_wien.md) wird endlich der Vertrag unterschrieben.
+Nach dem [Anschluss](plot_10_anschluss_1938.md) an das nationalsozialistische Deutschland, dem Krieg und zehn Jahren Besatzung durch vier Mächte ringt das kleine Land um seine Eigenständigkeit. In [Wien](place_wien.md) wird endlich der Vertrag unterschrieben.
 
 ## Action
 

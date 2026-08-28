@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Der Weltkrieg endet in der Niederlage, und das Vielvölkerreich, das [Maria Theresia](plot_02_maria_theresia.md) zusammenhielt und [Franz Joseph](persona_franz_joseph.md) sechsundsechzig Jahre lang regierte, zerfällt binnen weniger Wochen in seine Nationalstaaten. Zwei Jahre zuvor ist der alte Kaiser gestorben, ohne das Ende noch mitzuerleben.
+Der Weltkrieg endet in der Niederlage, und das Vielvölkerreich, das [Maria Theresia](plot_04_maria_theresia.md) zusammenhielt und [Franz Joseph](persona_franz_joseph.md) sechsundsechzig Jahre lang regierte, zerfällt binnen weniger Wochen in seine Nationalstaaten. Zwei Jahre zuvor ist der alte Kaiser gestorben, ohne das Ende noch mitzuerleben.
 
 ## Action
 

@@ -27,7 +27,7 @@ Der Kaiser, der achtundsechzig Jahre regiert und dabei fast zum Möbelstück des
 
 ## Action
 
-Nach der Niederlage bei [Königgrätz](plot_05_koeniggraetz_1866.md) gibt er den Anspruch auf Deutschland auf und schließt mit Ungarn den Ausgleich, der aus dem Kaisertum die Doppelmonarchie macht. Als [Wien um 1900](plot_06_fin_de_siecle.md) in Kaffeehaus und Secession seine letzte Blüte treibt, regiert er, längst gealtert, über ein Reich, dessen Ende er nicht mehr erleben will.
+Nach der Niederlage bei [Königgrätz](plot_07_koeniggraetz_1866.md) gibt er den Anspruch auf Deutschland auf und schließt mit Ungarn den Ausgleich, der aus dem Kaisertum die Doppelmonarchie macht. Als [Wien um 1900](plot_08_fin_de_siecle.md) in Kaffeehaus und Secession seine letzte Blüte treibt, regiert er, längst gealtert, über ein Reich, dessen Ende er nicht mehr erleben will.
 
 ## Shadow
 
