@@ -26,7 +26,7 @@ Die Hochgebirgskette im Süden Bayerns, geprägt von schroffen Gipfeln, Almwiese
 ## Holds
 
 - den Lebensraum des [Gebirglers](position_gebirgler.md), wo [Gustl](persona_gustl.md) seinen Berghof bewirtschaftet.
-- den [Märchenkönig und seine Schlösser 1869](plot_04_ludwig_neuschwanstein.md): die Kulisse für die königlichen Bauwerke.
+- den [Märchenkönig und seine Schlösser 1869](plot_06_ludwig_neuschwanstein.md): die Kulisse für die königlichen Bauwerke.
 
 ## Offers
 

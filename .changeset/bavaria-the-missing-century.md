@@ -2,7 +2,7 @@
 "@chbrain/khai-cultures": patch
 ---
 
-Bavaria had a century missing, and it was the one that matters most.
+Bavaria opened in 1806 and had a century missing in the middle.
 
 Its four plots ran 1806, 1806, 1864 to 1886, and then the present day: a kingdom,
 three tribes, a fairy-tale king, and laptops. **Nothing between 1886 and the late
@@ -46,3 +46,43 @@ ever cast in the wrong century.
 Still open and noted rather than fixed here: `Tracht` as an invented tradition —
 the Trachtenvereine of the nineteenth century — remains unstaged. `piece_lederhose`
 is cast in the plot named for it, which is fair.
+
+---
+
+**And then a second look said the opening was still a state date.** Four plots
+became six and the earliest was a beer law of 1516, with the play proper still
+starting when Napoleon made a kingdom. That is the same substitution the order
+warns about, made one pull request after writing it down, so it is fixed here
+rather than merged wrong.
+
+**Die Bajuwaren und die Klöster** opens the culture in the sixth century. Rome
+leaves; Regensburg was Castra Regina since 179 and goes quiet. Then a name appears
+in the sources that did not exist before, Baiuvarii, and the people it names are
+not an immigration but a coalescence: Romans who stayed, Alemanni from the west,
+Goths and Lombards passing through, newcomers from Bohemia. Bonifatius orders the
+church in 739 into four bishoprics whose shape the land keeps for a thousand
+years, longer than any duchy, and in their shadow the monasteries clear, copy and
+brew — which is where the beer of the next plot actually comes from. In 788
+Charlemagne deposes the last Agilolfing.
+
+Its Tension: the people proudest of being from here and nowhere else is itself a
+mixture that agreed on a name, and the independence this land calls its core was
+taken from it for the first time in **788**, a thousand years before Napoleon.
+
+**Patrona Bavariae 1638** answers `der Stolz, anders zu sein als die im Norden`,
+which the play had only ever demonstrated politically. The dukes choose against
+Wittenberg, the Jesuits get Ingolstadt, Maximilian I leads the Catholic League,
+and in 1638 he puts up the Marian column and formally places his land under a
+patroness. The square is called Marienplatz ever since, and the white and blue are
+the Wittelsbach lozenges and the colour of a cloak at the same time. The Tension
+names both halves: the feast, the church music and the calendar on one side; a
+league that spent thirty years in the field against other Germans, and the habit
+of defining oneself by what one stands against, on the other.
+
+This is the same argument made for Austria in the Baroque plot, and it should
+have been made here first: two Catholic Baroque neighbours whose Arcs both claim
+to be emphatically not-northern, for a reason that is confessional before it is
+constitutional.
+
+Four plots become **eight**. Two new pieces of cast, both cast where they belong:
+`place_regensburg` and `piece_mariensaeule`.
