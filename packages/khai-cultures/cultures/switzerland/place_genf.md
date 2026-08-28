@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-20"
+  date: "2026-08-28"
 ---
 
 # Place: Genf
@@ -22,11 +22,12 @@ Parent group: places
 
 ## Shown
 
-Die Stadt am See im französischsprachigen Westen, Sitz internationaler Organisationen und der humanitären Tradition. Weltläufig und zugleich protestantisch-nüchtern, das andere, frankophone Gesicht des Landes.
+Die Stadt am See im französischsprachigen Westen, Sitz internationaler Organisationen und der humanitären Tradition. Weltläufig und zugleich protestantisch-nüchtern, seit Calvin auch "das protestantische Rom" genannt, das andere, frankophone Gesicht des Landes.
 
 ## Holds
 
-- [das Rote Kreuz 1863](plot_03_rotes_kreuz_1863.md): hier gründet [Dunant](persona_dunant.md) die humanitäre Bewegung.
+- [die Reformation und die Kappelerkriege](plot_02_reformation_1531.md): hier baut [Calvin](persona_calvin.md) seine strenge Kirchenordnung auf, lange bevor die Stadt 1815 der Eidgenossenschaft beitritt.
+- [das Rote Kreuz 1863](plot_04_rotes_kreuz_1863.md): hier gründet [Dunant](persona_dunant.md) die humanitäre Bewegung.
 - [die Neutralität](position_neutralitaet.md): von hier aus dient das Land als Ort der Vermittlung.
 
 ## Offers

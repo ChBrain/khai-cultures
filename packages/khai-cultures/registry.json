@@ -32006,6 +32006,13 @@
       "iso": "CH",
       "members": [
         {
+          "file": "persona_calvin.md",
+          "kind": "persona",
+          "title": "Jean Calvin",
+          "type": "real",
+          "taxonomy": "position_konfessionsfriede.md"
+        },
+        {
           "file": "persona_dufour.md",
           "kind": "persona",
           "title": "Guillaume-Henri Dufour",
@@ -32020,11 +32027,25 @@
           "taxonomy": "position_neutralitaet.md"
         },
         {
+          "file": "persona_etter.md",
+          "kind": "persona",
+          "title": "Philipp Etter",
+          "type": "real",
+          "taxonomy": "position_konkordanz.md"
+        },
+        {
           "file": "persona_gian.md",
           "kind": "persona",
           "title": "Gian",
           "type": "archetype",
           "taxonomy": "position_konkordanz.md"
+        },
+        {
+          "file": "persona_guisan.md",
+          "kind": "persona",
+          "title": "Henri Guisan",
+          "type": "real",
+          "taxonomy": "position_neutralitaet.md"
         },
         {
           "file": "persona_marco.md",
@@ -32048,11 +32069,25 @@
           "taxonomy": "position_milizsystem.md"
         },
         {
+          "file": "persona_urs.md",
+          "kind": "persona",
+          "title": "Urs",
+          "type": "archetype",
+          "taxonomy": "position_bankgeheimnis.md"
+        },
+        {
           "file": "persona_vreni.md",
           "kind": "persona",
           "title": "Vreni",
           "type": "archetype",
           "taxonomy": "position_konkordanz.md"
+        },
+        {
+          "file": "persona_zwingli.md",
+          "kind": "persona",
+          "title": "Huldrych Zwingli",
+          "type": "real",
+          "taxonomy": "position_konfessionsfriede.md"
         },
         {
           "file": "piece_fondue.md",
@@ -32063,6 +32098,11 @@
           "file": "piece_taschenmesser.md",
           "kind": "piece",
           "title": "The Pocket Knife"
+        },
+        {
+          "file": "piece_uhr.md",
+          "kind": "piece",
+          "title": "The Watch"
         },
         {
           "file": "pitch_ch.md",
@@ -32079,6 +32119,26 @@
           "file": "place_genf.md",
           "kind": "place",
           "title": "Geneva"
+        },
+        {
+          "file": "place_reduit.md",
+          "kind": "place",
+          "title": "The Réduit"
+        },
+        {
+          "file": "place_surselva.md",
+          "kind": "place",
+          "title": "Surselva"
+        },
+        {
+          "file": "place_ticino.md",
+          "kind": "place",
+          "title": "Ticino"
+        },
+        {
+          "file": "place_zuerich.md",
+          "kind": "place",
+          "title": "Zurich"
         },
         {
           "file": "plan_direkte_demokratie.md",
@@ -32104,27 +32164,67 @@
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_02_bundesstaat_1848.md",
+          "file": "plot_02_reformation_1531.md",
+          "kind": "plot",
+          "title": "The Reformation and the Kappel Wars 1523-1531",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "plot_03_bundesstaat_1848.md",
           "kind": "plot",
           "title": "The Federal State 1848",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_03_rotes_kreuz_1863.md",
+          "file": "plot_04_rotes_kreuz_1863.md",
           "kind": "plot",
           "title": "The Red Cross 1863",
           "taxonomy": "play_switzerland.md"
         },
         {
-          "file": "plot_04_frauenstimmrecht_1971.md",
+          "file": "plot_05_wohlstand_1934.md",
+          "kind": "plot",
+          "title": "Wealth: Watches and Bank Secrecy 1934",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "plot_06_sprachenartikel_1938.md",
+          "kind": "plot",
+          "title": "The Language Article 1938",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "plot_07_kriegsjahre_1939_1945.md",
+          "kind": "plot",
+          "title": "The War Years 1939 to 1945",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "plot_08_frauenstimmrecht_1971.md",
           "kind": "plot",
           "title": "Women's Suffrage 1971",
           "taxonomy": "play_switzerland.md"
         },
         {
+          "file": "plot_09_ewr_1992.md",
+          "kind": "plot",
+          "title": "No to the European Economic Area 1992",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "position_bankgeheimnis.md",
+          "kind": "position",
+          "title": "Bank Secrecy"
+        },
+        {
           "file": "position_culture_schweizer_kultur.md",
           "kind": "position",
           "title": "Swiss Culture"
+        },
+        {
+          "file": "position_konfessionsfriede.md",
+          "kind": "position",
+          "title": "Confessional Peace"
         },
         {
           "file": "position_konkordanz.md",
