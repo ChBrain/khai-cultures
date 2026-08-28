@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-20"
+  date: "2026-08-28"
 ---
 
 # Position: die Neutralität
@@ -30,7 +30,7 @@ Dass man sich nicht in fremde Händel ziehen lässt und zugleich allen offensteh
 
 ## Loses
 
-An Haltung, wo aus der Neutralität Gleichgültigkeit oder ein Geschäft mit allen Seiten wird. Sie verliert, wenn das Heraushalten zur Ausrede wird, sich nie zu entscheiden und am Leid mitzuverdienen.
+An Haltung, wo aus der Neutralität Gleichgültigkeit oder ein Geschäft mit allen Seiten wird. Sie verliert, wenn das Heraushalten zur Ausrede wird, sich nie zu entscheiden und am Leid mitzuverdienen. Am deutlichsten in den Kriegsjahren 1939 bis 1945, als dieselbe Neutralität, die dem Roten Kreuz seine Aufgabe gibt, an der eigenen Grenze auch über Leben und Tod von Flüchtlingen entscheidet und nicht jede dieser Entscheidungen besteht.
 
 ## Drives
 

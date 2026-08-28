@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-20"
+  date: "2026-08-28"
 ---
 
 # Place: Bern
@@ -26,8 +26,9 @@ Die Bundesstadt an der Aare, mit ihren Lauben und dem Bundeshaus. Nicht die grö
 
 ## Holds
 
-- [der Bundesstaat 1848](plot_02_bundesstaat_1848.md): hier zieht die junge Bundesregierung ein.
+- [der Bundesstaat 1848](plot_03_bundesstaat_1848.md): hier zieht die junge Bundesregierung ein.
 - [die Volksabstimmung](process_volksabstimmung.md): von hier aus wird das Land befragt, mehrmals im Jahr.
+- [das Nein zum EWR 1992](plot_09_ewr_1992.md): hier beschliesst der Bundesrat am Tag danach den bilateralen Weg.
 
 ## Offers
 

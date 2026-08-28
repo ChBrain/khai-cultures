@@ -30,7 +30,7 @@
 // a culture).
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
-import { join, dirname } from "node:path";
+import { join, dirname, relative, sep } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 
@@ -133,10 +133,22 @@ export function coverage(id, { root = ROOT } = {}) {
 }
 
 /** Cultures a set of changed paths touches. */
+// Where a culture sits, as a repository-relative path, derived from ROOT rather
+// than typed. The workspace move renamed `cultures/<id>/` to
+// `packages/khai-cultures/cultures/<id>/`, and the literal prefix that used to
+// be written here stopped matching anything: every ratchet in this repository
+// runs through `touchedCultures`, so all three reported "no culture touched" on
+// pull requests that added plots and personas, and passed. Deriving it means one
+// move updates all three, and `tests/house.test.mjs` pins it against a path
+// taken out of the real tree so a future move breaks a test instead of a gate.
+const CULTURES_PREFIX = relative(join(HERE, ".."), join(ROOT, "cultures")).split(sep).join("/");
+
+/** The cultures a list of changed repository paths touches. */
 export function touchedCultures(paths) {
+  const re = new RegExp(`^${CULTURES_PREFIX}/([^/]+)/`);
   const ids = new Set();
   for (const p of paths) {
-    const m = /^cultures\/([^/]+)\//.exec(p.trim().replace(/\\/g, "/"));
+    const m = re.exec(p.trim().replace(/\\/g, "/"));
     if (m) ids.add(m[1]);
   }
   return [...ids].sort();
@@ -150,7 +162,20 @@ function changedPaths(base, head) {
   return out.split("\n").filter(Boolean);
 }
 
-function report() {
+const TOP = 20;
+
+// The house-wide picture. It shows the worst cultures, not all of them, because
+// nineteen hundred dead entries across two hundred and ninety cultures is not a
+// list anyone reads - but it now SAYS so on the line where the list stops.
+//
+// It did not, and that cost a pull request. Asking `--report | grep egypt` for a
+// culture sitting below the cut printed nothing, nothing was read as zero, and
+// the culture went into a branch carrying four dead entries that the gate then
+// caught. A truncated list and an empty answer are indistinguishable to a grep,
+// so a report that hides rows has to name the number it is hiding, and there has
+// to be a way to ask about one culture rather than filtering a list that may not
+// contain it. That is what `--culture <id>` is for.
+export function report({ all = false } = {}) {
   let total = 0;
   const rows = [];
   for (const id of cultureIds()) {
@@ -159,11 +184,31 @@ function report() {
     if (dead.length || waived.length) rows.push([id, dead.length, waived.length]);
   }
   rows.sort((a, b) => b[1] - a[1]);
-  for (const [id, d, w] of rows.slice(0, 20)) console.log(`  ${id}: ${d} dead, ${w} waived`);
+  const shown = all ? rows : rows.slice(0, TOP);
+  for (const [id, d, w] of shown) console.log(`  ${id}: ${d} dead, ${w} waived`);
+  if (shown.length < rows.length)
+    console.log(
+      `  ... and ${rows.length - shown.length} more culture(s) NOT SHOWN. ` +
+        `This list is the worst ${TOP}; do not read a culture's absence from it as zero. ` +
+        `Use --all, or --culture <id> for one.`,
+    );
   console.log(
     `cultures carrying dead entries: ${rows.filter((r) => r[1]).length} of ${cultureIds().length}`,
   );
   console.log(`dead Company entries house-wide: ${total}`);
+}
+
+/** One culture, answered directly, so nobody has to grep a list that truncates. */
+function reportCulture(id) {
+  if (!cultureIds().includes(id)) {
+    console.error(`no such culture: ${id}`);
+    return 2;
+  }
+  const { dead, waived, company } = coverage(id);
+  console.log(`${id}: ${dead.length} dead, ${waived.length} waived, ${company.length} in Company`);
+  for (const b of dead) console.log(`  dead   ${b}`);
+  for (const b of waived) console.log(`  waived ${b}`);
+  return 0;
 }
 
 function gate(base, head) {
@@ -203,7 +248,8 @@ function gate(base, head) {
 // module importing the other would run its report as a side effect.
 const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
 const argv = isMain ? process.argv.slice(2) : [];
-if (argv.includes("--report")) report();
+if (argv.includes("--culture")) process.exit(reportCulture(argv[argv.indexOf("--culture") + 1]));
+else if (argv.includes("--report")) report({ all: argv.includes("--all") });
 else if (argv.includes("--gate")) {
   const base = argv[argv.indexOf("--base") + 1];
   const head = argv[argv.indexOf("--head") + 1];

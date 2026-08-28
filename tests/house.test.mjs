@@ -5,7 +5,13 @@ import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
-import { coverage, cultureIds as coveredCultureIds, allWaivers } from "./company_coverage.mjs";
+import {
+  coverage,
+  cultureIds as coveredCultureIds,
+  allWaivers,
+  touchedCultures,
+  report as coverageReport,
+} from "./company_coverage.mjs";
 import { standalone } from "./tongues_standalone.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
 
@@ -249,5 +255,63 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
 
   it("the tongues package still declares which tongues nobody acquires first", () => {
     expect(noMotherTongue().size).toBeGreaterThan(0);
+  });
+});
+
+// Every ratchet in this repository - coverage, sub-national conformance, persona
+// wiring - decides what to check by asking `touchedCultures` which cultures a
+// pull request's changed paths belong to. It carried the prefix as a literal,
+// the workspace move renamed the content root out from under it, and all three
+// gates went to "no culture touched" on pull requests that added plots and
+// personas. Green, and reading nothing - the same failure as an empty house,
+// one function over.
+//
+// The prefix is now derived, and this is what holds it there: a path taken out
+// of the real tree, made relative the way `git diff --name-only` prints it, and
+// asserted to resolve back to the culture it came from. Move the content root
+// again and this test fails, which is the whole point of writing it.
+describe("Cultures house: the ratchets can still see a touched culture", () => {
+  it("resolves a real content path back to its culture", () => {
+    const id = readdirSync(culturesDir, { withFileTypes: true })
+      .filter((e) => e.isDirectory())
+      .map((e) => e.name)
+      .sort()[0];
+    const file = readdirSync(join(culturesDir, id)).find((f) => f.endsWith(".md"));
+    const asGitPrints = ["packages", "khai-cultures", "cultures", id, file].join("/");
+    expect(
+      touchedCultures([asGitPrints]),
+      `a ratchet handed ${asGitPrints} saw no culture, so every ratchet is passing by checking nothing`,
+    ).toEqual([id]);
+  });
+
+  it("does not claim a culture for a path outside the content root", () => {
+    expect(
+      touchedCultures(["tests/house.test.mjs", "packages/khai-cultures-tongues/de/x.md"]),
+    ).toEqual([]);
+  });
+});
+
+// A report that hides rows and does not say so is indistinguishable, to the grep
+// someone will inevitably reach for, from a report that found nothing. The
+// coverage report shows the worst twenty cultures out of the ~250 carrying debt;
+// grepping it for a culture below that cut printed nothing, nothing was read as
+// zero, and a culture with four dead Company entries went into a branch as
+// "clean". The gate caught it. This pins the line that would have said so.
+describe("Cultures house: a truncated report says that it is truncated", () => {
+  it("names the number of cultures it is not showing", () => {
+    const lines = [];
+    const log = console.log;
+    console.log = (...a) => lines.push(a.join(" "));
+    try {
+      coverageReport();
+    } finally {
+      console.log = log;
+    }
+    const total = Number(/dead entries: (\d+) of/.exec(lines.join("\n"))?.[1] ?? 0);
+    if (total <= 20) return; // nothing hidden, nothing to announce
+    expect(
+      lines.join("\n"),
+      "the coverage report truncates without saying so, so a grep for a hidden culture reads as zero",
+    ).toMatch(/NOT SHOWN/);
   });
 });
