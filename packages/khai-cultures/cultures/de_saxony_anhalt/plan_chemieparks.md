@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Eine Produktionsvorgabe: die langfristige Strategie zur Transformation der Chemieindustrie in Leuna und Bitterfeld hin zu grünem Wasserstoff.
+Eine Produktionsvorgabe: die langfristige Strategie zur Transformation [des Chemiedreiecks](place_chemiedreieck.md), das mit [der Sanierung](process_sanierung.md) der 1990er Jahre schon einmal umgebaut wurde, ein zweites Mal hin zu grünem Wasserstoff.
 
 ## Owner
 

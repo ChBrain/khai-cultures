@@ -13,7 +13,7 @@ stamp:
 
 ## Taxonomy
 
-Die Tonart der Produktion [Sachsen-Anhalt](play_saxony_anhalt.md) - sie ändert nichts an 1517, nichts an 1925. Sie bestimmt nur den Klang.
+Die Tonart der Produktion [Sachsen-Anhalt](play_saxony_anhalt.md) - sie ändert nichts an den Ereignissen, weder an 973 noch an 1932 noch an 2025. Sie bestimmt nur den Klang.
 
 ## Owner
 
@@ -21,16 +21,16 @@ Die Tonart der Produktion [Sachsen-Anhalt](play_saxony_anhalt.md) - sie ändert 
 
 ## Tenor
 
-Eine schlichte Sachlichkeit und ehrliche Direktheit. Die Kommunikation ist schnörkellos und orientiert sich an praktischen Lösungen, was die Tradition des Bauhauses widerspiegelt. In den fruchtbaren Bördeböden schätzt man die ehrliche Arbeit und pflegt einen unaufgeregten Ton. Diese funktionale Nüchternheit verbindet sich mit dem Stolz auf das Erbe der Reformation.
+Eine schlichte Sachlichkeit, die weiss, dass sie mehr vorzuweisen hat, als der eigene Name verrät, und die das lieber beiläufig erwähnt als grossspurig behauptet. Man spricht kurz, arbeitet ehrlich, und misst eine Sache am Ergebnis, nicht am Auftreten.
 
 ## Undertow
 
-Unter der Sachlichkeit liegt das Bedürfnis, nach den Umbrüchen der Wendezeit wieder Stabilität zu finden. Die Transformationen der Chemiebetriebe nach 1990 haben Spuren hinterlassen. Dahinter steht die Sorge, in der gesamtdeutschen Entwicklung übersehen zu werden, und das Bestreben, den industriellen Kern eigenständig in die Zukunft zu führen.
+Unter der Sachlichkeit liegt eine Art Warten auf den nächsten Rückschlag: Wer schon einen Landesnamen, ein Werk und ein grosses Investitionsversprechen verschwinden sah, glaubt an Dauerhaftigkeit nur noch mit einem stillen Vorbehalt. Dahinter steht der Ärger darüber, in der gesamtdeutschen Wahrnehmung vor allem als das zu gelten, was fehlt: Einwohner, Betriebe, Aufmerksamkeit.
 
 ## Nerve
 
-Getroffen wird die nüchterne Genugtuung über die revolutionären Ideen des Bauhauses, Luthers theologische Erneuerung und die Fruchtbarkeit der eigenen Böden.
+Getroffen wird die stille Genugtuung, wenn sich zeigt, dass hier tatsächlich mehr Anfang lag, als aussen vermutet wird, und die trockene Erleichterung, wenn etwas, das man kaum noch geglaubt hat, doch noch hält: eine Tür, eine Sanierung, ein Betrieb, der überlebt.
 
 ## Echo
 
-Was bleibt, ist das Surren der Maschinen in Leuna und das Schweigen im Kirchenschiff von Wittenberg: klar, ernsthaft, beständig.
+Was bleibt, ist ein nüchterner Stolz ohne Pathos: das Wissen, an einem Ort zu stehen, der mehr angefangen hat, als er selbst je zu Ende geführt hat, und die Gewohnheit, genau deshalb nichts als sicher zu behandeln, ehe es tatsächlich steht.

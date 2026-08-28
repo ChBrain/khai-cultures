@@ -33,5 +33,6 @@ Eine Tischlampe (Wagenfeld-Leuchte WG 24) mit einer kreisrunden Glasplatte als F
 
 ## Yearbook
 
+- 1923/24 von Wilhelm Wagenfeld noch in der Weimarer Metallwerkstatt entworfen, als Antwort auf eine Übungsaufgabe von László Moholy-Nagy.
+- Erst [in Dessau](plot_02_bauhaus_dessau_1925.md), unter dem neuen Anspruch der Schule, für die Serienfertigung zu entwerfen, zum meistkopierten Designobjekt der Bauhaus-Bewegung.
 - Archiviert und wissenschaftlich dokumentiert durch [Walter](persona_walter.md) im Dessauer Sammlungsarchiv.
-- Ikonischer Designklassiker aus dem Plot [Der Umzug des Bauhauses nach Dessau 1925](plot_02_bauhaus_dessau_1925.md).

@@ -1,6 +1,6 @@
 # Saxony-Anhalt (Sachsen-Anhalt): a khai culture
 
-Saxony-Anhalt staged as a full khai play, ISO DE-ST, language de. The state of Reformation, Bauhaus design, and chemical industries: its history as the plot line, its people as the cast, the roles its theological, architectural, and industrial life encodes, its places, its practices, and its defining objects, all tuned by a single pitch.
+Saxony-Anhalt staged as a full khai play, ISO DE-ST, language de. A land that carries more origin than statehood: the first archbishopric east of the Elbe, the workshop that turned the Reformation into an industry, the school that gave modernism its building, a state assembled twice from parts that never shared a history, a chemical belt that promised more than it kept, and a Bronze Age disc turned, after 1999, into the land's own borrowed founding myth.
 
 ## Estate
 
@@ -9,17 +9,17 @@ Saxony-Anhalt staged as a full khai play, ISO DE-ST, language de. The state of R
 ## The production
 
 - **Anchor:** [play_saxony_anhalt.md](play_saxony_anhalt.md), the culture itself.
-- **Pitch:** [pitch_saxony_anhalt.md](pitch_saxony_anhalt.md), the Saxony-Anhalt key.
-- **Plots (history):** the posting of the 95 Theses in 1517, the relocation of Bauhaus to Dessau in 1925, and the re-establishment of the state in 1990.
-- **Personas:** Walter (traditional Bauhaus archivist) and Elisabeth (modern chemical safety engineer), written in German.
-- **Positions:** der gesellschaftliche Fortschritt (social progress), die Glaubensfreiheit (freedom of belief), die Börde-Bodenständigkeit (agricultural pragmatism).
-- **Places:** das Bauhaus-Gebäude in Dessau, die Schlosskirche Wittenberg.
-- **Processes:** das Reformationsgedenken (Reformation remembrance).
-- **Pieces:** die Bauhaus-Leuchte (lamp), die Luther-Bibel (Bible translation).
-- **Plan:** der Umbau der Chemieparks (green chemistry transition plan).
+- **Pitch:** [pitch_saxony_anhalt.md](pitch_saxony_anhalt.md), der Ton der Börde.
+- **Plots (history):** the Ottonian founding at Magdeburg and Quedlinburg (936 to 973); Cranach's workshop turning the Reformation into Europe's first media industry (1517 to 1546); the Bauhaus building and its 1932 closure in Dessau (1925 to 1932); the Land assembled, dissolved and reassembled (1945 to 1990); the chemical triangle from war material to poison to cleanup (1916 to the 2000s); the Nebra sky disc looted, recovered and made into the state's icon (1999 to 2013); and the decade since 2019, a record and not a forecast.
+- **Personas:** Otto the Great and Lucas Cranach as the historic cast; Ingrid, Elisabeth and Sophie as three generations of the one who stayed; Walter as the Bauhaus archivist; Frank as the metal-detector hobbyist who found more than he understood.
+- **Positions:** der König, der Verleger, der Fortschritt, die Bodenarbeit, der Sondengänger, die Daheimgebliebene.
+- **Places:** Magdeburg, Quedlinburg, Wittenberg, the Bauhaus building in Dessau, the chemical triangle.
+- **Processes:** Reformation remembrance turned tourism brand, the environmental remediation of the chemical belt, outmigration.
+- **Pieces:** the Magdeburg Rider, the Quedlinburg cathedral treasury, the Luther Bible, the Bauhaus lamp, the Nebra sky disc.
+- **Plans:** the green-hydrogen conversion of the chemical parks; the Magdeburg chip fab that was announced, delayed and abandoned.
 
 ## Provenance
 
-The Hofstede scores and public-domain historical sources are documented in [REFERENCES.md](REFERENCES.md).
+The public-domain historical sources behind the plots, personas, places and pieces are documented in [REFERENCES.md](REFERENCES.md).
 
 Content is CC-BY-NC-SA, code is MIT.
