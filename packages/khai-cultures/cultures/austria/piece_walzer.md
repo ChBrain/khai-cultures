@@ -34,6 +34,6 @@ Eine schwingende, elegante Musik im Dreivierteltakt, leicht und doch sehnsüchti
 
 ## Yearbook
 
-- Getanzt schon, als der [Wiener Kongress 1815](plot_02_wiener_kongress_1815.md) den Walzer zur Diplomatie machte.
+- Getanzt schon, als der [Wiener Kongress 1815](plot_04_wiener_kongress_1815.md) den Walzer zur Diplomatie machte.
 - Gespielt zum Neujahrskonzert, mit dem das Land sich der Welt zeigt.
 - Gehört als der Klang, in dem Heiterkeit und Wehmut zugleich liegen.
