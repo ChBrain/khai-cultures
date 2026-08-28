@@ -1,4 +1,5 @@
-// Plot 0: every culture answers where it comes from.
+// Plot 0 and Plot 99: every culture says where it comes from and where it now
+// stands.
 //
 // The house was generated from state history, and it shows in the one place
 // nobody looks: where each play begins. Measured across all 290 cultures, the
@@ -44,16 +45,36 @@ export const ROOT = join(
   "khai-cultures",
 );
 
-/** Does this culture answer where it comes from? */
-export function hasOrigin(id, { root = ROOT } = {}) {
+const has = (id, prefix, root) => {
   const dir = join(root, "cultures", id);
   if (!existsSync(dir)) return true;
-  return readdirSync(dir).some((f) => f.startsWith("plot_00"));
-}
+  return readdirSync(dir).some((f) => f.startsWith(prefix));
+};
 
-/** Every culture with no plot_00, worst first is meaningless here, so by name. */
+/** Does this culture answer where it comes from? */
+export const hasOrigin = (id, { root = ROOT } = {}) => has(id, "plot_00", root);
+
+/**
+ * Does it reach the present?
+ *
+ * The ceiling is invisible for the same reason the floor is: nothing looks
+ * missing above the last plot. Measured across all 290, only nineteen plot lines
+ * reach 2010 or later and a hundred and sixty-seven stop before 1990. Wales ends
+ * in 1588, at the Welsh Bible, with nothing of the Blue Books, of
+ * industrialisation, of Aberfan or of devolution.
+ *
+ * `plot_99` is a record and not a forecast. It stages what has actually happened
+ * in the decade still resolving; where that points belongs in its Tension and in
+ * the play's Stakes, which is a question and not a claim. A guess must never sit
+ * where records sit.
+ */
+export const hasPresent = (id, { root = ROOT } = {}) => has(id, "plot_99", root);
+
+/** Cultures missing either marker, by name. */
 export function missing(root = ROOT) {
-  return cultureIds(root).filter((id) => !hasOrigin(id, { root }));
+  return cultureIds(root)
+    .map((id) => [id, !hasOrigin(id, { root }), !hasPresent(id, { root })])
+    .filter(([, o, p]) => o || p);
 }
 
 /** The cultures whose PLOTS a change touches. Not the same as touching a culture. */
@@ -72,12 +93,15 @@ export function touchedPlots(paths, root = ROOT) {
 function report(root = ROOT) {
   const rows = missing(root);
   const all = cultureIds(root).length;
-  console.log(`cultures with no plot_00: ${rows.length} of ${all}`);
-  for (const id of rows) console.log(`  ${id}`);
+  console.log(`cultures missing a marker: ${rows.length} of ${all}`);
+  for (const [id, noOrigin, noPresent] of rows)
+    console.log(
+      `  ${id}: ${[noOrigin && "no plot_00", noPresent && "no plot_99"].filter(Boolean).join(", ")}`,
+    );
   console.log(
-    "\n  A plot_00 answers where a culture comes from. Whether a given one is a true\n" +
-      "  origin or a state date wearing the number is not a counter's business:\n" +
-      "  see management/orders/order_plot_zero.md.",
+    "\n  plot_00 answers where a culture comes from; plot_99 stages where it now\n" +
+      "  stands. Whether either is true, or a state date wearing the number, is not a\n" +
+      "  counter's business: see management/orders/order_plot_zero.md.",
   );
 }
 
@@ -93,17 +117,28 @@ function gate(base, head) {
     console.log("Plot 0: no culture's plot line touched.");
     return 0;
   }
-  const offenders = touched.filter((id) => !hasOrigin(id));
+  const offenders = touched
+    .map((id) => [id, !hasOrigin(id), !hasPresent(id)])
+    .filter(([, o, p]) => o || p);
   if (!offenders.length) {
-    console.log(`Plot 0 OK: ${touched.length} touched plot line(s), each with an origin.`);
+    console.log(
+      `Plot 0 OK: ${touched.length} touched plot line(s), each spanning origin to present.`,
+    );
     return 0;
   }
-  console.error("::error::Plot 0: a culture whose plot line you touch must say where it begins.");
-  for (const id of offenders) console.error(`  ${id}: no plot_00`);
   console.error(
-    "\n  Add cultures/<id>/plot_00_<name>.md answering where this culture comes from.\n" +
-      "  Not the founding of a state: the origin of a culture. A play that opens on a\n" +
-      "  treaty has described a passport. See management/orders/order_plot_zero.md.",
+    "::error::Plot 0: a culture whose plot line you touch must say where it begins and where it now stands.",
+  );
+  for (const [id, noOrigin, noPresent] of offenders)
+    console.error(
+      `  ${id}: ${[noOrigin && "no plot_00", noPresent && "no plot_99"].filter(Boolean).join(", ")}`,
+    );
+  console.error(
+    "\n  plot_00_<name>.md: where this culture comes from. Not the founding of a state:\n" +
+      "  a play that opens on a treaty has described a passport.\n" +
+      "  plot_99_<name>.md: where it now stands. A record of the decade still resolving,\n" +
+      "  never a forecast; where it points belongs in that plot's Tension and in Stakes.\n" +
+      "  See management/orders/order_plot_zero.md.",
   );
   return 1;
 }

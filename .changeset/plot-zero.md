@@ -1,7 +1,8 @@
 ---
 ---
 
-**Plot Zero: every culture answers where it comes from.**
+**Plot Zero and Plot Ninety-Nine: every culture says where it comes from and where
+it now stands.**
 
 The defining question catches gaps in the middle of a plot line, because a reader
 notices those. It does not catch the floor, and nothing looks missing below the
@@ -44,3 +45,39 @@ persona, a REFERENCES file or a test.
 
 All 290 cultures lack one today. The order forbids a sweep — 290 origin files
 written to satisfy a counter would be 290 passports.
+
+---
+
+**The ceiling is invisible for the same reason the floor is.** Nothing looks
+missing above the last plot either. Latest date anywhere in each culture's plot
+line:
+
+| plot line reaches | cultures |
+| ----------------- | -------- |
+| 2010 or later     | 19       |
+| 2000–2009         | 20       |
+| 1990–1999         | 31       |
+| 1980–1989         | 22       |
+| before 1980       | 145      |
+| no date at all    | 53       |
+
+**Wales ends in 1588**, at the Welsh Bible — nothing of the Blue Books, of
+industrialisation, of Aberfan, of devolution. Scotland stops in 1750, England in
+1840, Peru and Colombia at independence. A hundred and sixty-seven plays do not
+reach 1990.
+
+So `plot_99` stages the present: what has actually happened in the decade still
+resolving, with a Stage of people who were there, like any other plot. Held at
+ninety-nine it stays last however many plots are added before it, and when its
+events settle into history it is renumbered into the sequence and a new one
+written. A play therefore always spans from an origin outside the chronology to a
+present outside it.
+
+**A direction never becomes a plot.** It is a judgement and a guess and by design
+likely wrong, and a plot is a record — a wrong record is not a revised opinion but
+a lie in the archive. The house already keeps the guess in the right place and the
+right grammar: **57% of Stakes chapters open with `Ob` or `Whether`**, and a
+question cannot be wrong the way a forecast can; it can only turn out to have been
+the wrong question. Intentions have their own type, `plan`, whose Targets are the
+only place in this house that records its own failure, with `[F]`. Record,
+intention and wager are three things and the order keeps them apart.

@@ -188,7 +188,13 @@ question, so it is held out of the numbering and can be prepended when it is
 found. It is gated as a ratchet: touch a culture's plots or its play file and it
 must have one. That the file exists is a gate; whether it is a true origin or a
 state date wearing the number is this dialogue's business and never a counter's.
-See [Plot Zero](management/orders/order_plot_zero.md). Berlin opened at the Wall.
+And every culture says where it now stands, in `plot_99`: a record of the decade
+still resolving, never a forecast, held at the far end so it stays last and is
+renumbered into the sequence once its events settle. Where a culture is _going_ is
+a judgement and by design likely wrong, so it never becomes a plot; it lives in
+that plot's Tension and in the play's Stakes, which is a question and not a claim.
+See [Plot Zero](management/orders/order_plot_zero.md). Berlin opened at the Wall
+and Wales ends in 1588.
 
 **The answer is a cultural moment, not a constitutional one.** A play can carry
 ten plots and still answer the wrong question: a culture named after a country
