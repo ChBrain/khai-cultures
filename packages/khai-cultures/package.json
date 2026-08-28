@@ -1,0 +1,74 @@
+{
+  "name": "@chbrain/khai-cultures",
+  "version": "0.290.1",
+  "description": "khai cultures: the Cultures content house. Cultures modelled with khai; sources are credited where they are in the public domain.",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "type": "module",
+  "files": [
+    "cultures/**",
+    "registry.json",
+    "playwright_instructions.md",
+    "README.md",
+    "REFERENCES.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "engine": "cultures",
+    "collection": {
+      "dir": "cultures",
+      "key": "cultures",
+      "anchor": "play_"
+    },
+    "collections": [
+      {
+        "dir": "groups",
+        "anchor": "play_",
+        "references": "cultures"
+      }
+    ],
+    "languages": [
+      "am",
+      "arn",
+      "bar",
+      "cu",
+      "div",
+      "dsb",
+      "dzo",
+      "fo",
+      "gil",
+      "gsw",
+      "jv",
+      "kea",
+      "kl",
+      "ksh",
+      "lzh",
+      "mfe",
+      "nah",
+      "nau",
+      "pfl",
+      "rif",
+      "rm",
+      "sxu",
+      "tvl",
+      "wep",
+      "yua"
+    ],
+    "card": {
+      "wire": "The Cultures house: a collection of khai cultures."
+    }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-tongues": "^0.20.0",
+    "@chbrain/khai-engine-language": "^0.1.5",
+    "@chbrain/khai-engine-spine": "^0.1.5"
+  }
+}
