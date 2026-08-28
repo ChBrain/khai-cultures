@@ -25,12 +25,15 @@ import { join, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 import { cultureIds, touchedCultures } from "./company_coverage.mjs";
+import { cultureDir, isMigrated, productionName } from "./culture_sources.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 export const ROOT = join(HERE, "..", "packages", "khai-cultures");
 
-function iso(id, root = ROOT) {
-  const p = join(root, "cultures", id, "geo.json");
+function iso(id) {
+  const dir = cultureDir(id);
+  if (!dir) return "";
+  const p = join(dir, "geo.json");
   if (!existsSync(p)) return "";
   try {
     return String(JSON.parse(readFileSync(p, "utf8")).iso ?? "");
@@ -40,8 +43,8 @@ function iso(id, root = ROOT) {
 }
 
 /** The culture that owns a country code, e.g. "DE" -> "germany". */
-export function parentOf(code, root = ROOT) {
-  for (const id of cultureIds(root)) if (iso(id, root) === code) return id;
+export function parentOf(code) {
+  for (const id of cultureIds()) if (iso(id) === code) return id;
   return null;
 }
 
@@ -55,9 +58,9 @@ export function parentOf(code, root = ROOT) {
  * source as well, so a play that moved is no longer a play that arrived, and a
  * rename can travel in the same pull request as the content it belongs to.
  */
-export function conformance(id, { root = ROOT } = {}) {
-  const code = iso(id, root).split("-")[0];
-  if (!code || !iso(id, root).includes("-")) return { blocking: [], advisory: [], findings: [] };
+export function conformance(id) {
+  const code = iso(id).split("-")[0];
+  if (!code || !iso(id).includes("-")) return { blocking: [], advisory: [], findings: [] };
   const blocking = [];
   const advisory = [];
   // kept as a pair so the gate keeps one shape; nothing is advisory today.
@@ -69,20 +72,29 @@ export function conformance(id, { root = ROOT } = {}) {
         `(the package name follows the id, and an npm name is permanent)`,
     );
 
-  const parent = parentOf(code, root);
+  const parent = parentOf(code);
   if (parent) {
-    const dir = join(root, "cultures", id);
+    const dir = cultureDir(id);
     const own = readdirSync(dir).filter((f) => f.startsWith("position_culture_"));
-    const linked = own.some((f) =>
-      new RegExp(`\\]\\(\\.\\./${parent}/position_culture_[a-z0-9_]+\\.md\\)`).test(
-        readFileSync(join(dir, f), "utf8"),
-      ),
-    );
+    // The parent's culture-position is reachable two ways, and which one is
+    // correct is not the child's choice. While the parent is a directory under
+    // the umbrella, a relative link is the only way there. Once the parent is a
+    // production package, the relative path no longer exists, and a migrated
+    // child may not carry `../` at all - it would escape its own package and
+    // fail the publish invariant. So the required form follows the parent's
+    // home, and the message names the one that is right today.
+    const spec = productionName(parent);
+    const wanted = isMigrated(parent)
+      ? new RegExp(
+          `\\]\\(${spec.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/position_culture_[a-z0-9_]+\\.md\\)`,
+        )
+      : new RegExp(`\\]\\(\\.\\./${parent}/position_culture_[a-z0-9_]+\\.md\\)`);
+    const linked = own.some((f) => wanted.test(readFileSync(join(dir, f), "utf8")));
     if (!linked)
       blocking.push(
         `nests in "${parent}" and does not say so: its culture-position must link ` +
-          `../${parent}/position_culture_*.md, because a sub-national culture is a way ` +
-          `of being the culture above it`,
+          `${isMigrated(parent) ? `${spec}/position_culture_*.md` : `../${parent}/position_culture_*.md`}, ` +
+          `because a sub-national culture is a way of being the culture above it`,
       );
   }
   return { blocking, advisory, findings: [...blocking, ...advisory] };

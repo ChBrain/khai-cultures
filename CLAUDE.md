@@ -80,6 +80,48 @@ number; never hand-edit it. A fresh, empty house stays `0.0.x`.
 - **A change that ships nothing** (governance, tooling, docs, tests) -> an
   **empty** changeset (`npx changeset add --empty`); it records the PR and merges
   green without republishing identical content.
+- **Migrating a culture into its own package** moves no count and adds no
+  culture: the new package takes a `minor` of its own (it is new to the
+  registry), the umbrella takes a `patch`, and the culture count is unchanged, so
+  the reconcile lands on `0.<count>.1`. Never a `minor` on the umbrella for a
+  move — the count has not gone up, and a minor that reconciles against an
+  unchanged count drifts the version and the `changeset-check` gate rejects it.
+
+## A culture you touch becomes a package
+
+The house is walking from one package holding 290 cultures to one package per
+culture, and it walks on the work already happening: **touch a culture and it
+moves into `packages/khai-cultures-<name>/`**, in the same pull request.
+
+```
+node tests/migrate_culture.mjs <id>            # the plan, and what blocks it
+node tests/migrate_culture.mjs <id> --write    # perform it
+node tests/migrate_culture.mjs --queue         # the whole house, by what holds it
+```
+
+The tool does the mechanical half — the move, the manifest (`khai.class "house"`,
+`khai.production`, the anchoring play, and **no `khai.engine`**), the frozen name
+`@chbrain/khai-cultures-<id with hyphens>`, the licence pair, the outbound links
+rewritten to package specifiers, every inbound link from the cultures left
+behind, and the dependency declared at both ends. It refuses the two halves that
+need a person: a culture still holding its own language positions (**the tongue
+moves first**, and that is a read against the mnemonic, not a file move), and a
+`../` link that is not a culture-position (a published production carries no
+`../`, so it is resolved before the move).
+
+Why a package: a relative path resolves in this working tree and ships broken,
+and a declared dependency is the only reference npm can check. During the walk a
+culture lives in one of two homes and `tests/culture_sources.mjs` is the only
+file that knows which — every gate asks it, and
+`node tests/production_packages.mjs --report` holds what only this house knows:
+the name rule, every cast specifier declared, a sub-national culture depending on
+its parent, and the umbrella still naming every production it let go. The count
+survives the move (`tests/registry_hybrid.mjs`), because the umbrella's minor is
+the number of cultures and not the number of directories.
+
+See [The Migration Ratchet](management/orders/order_the_migration_ratchet.md).
+A culture is a play before it is a package: every question below this one is
+asked first.
 
 ## Coverage
 
@@ -210,5 +252,5 @@ Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); sources
 are credited where they are in the public domain, never claimed. `main` is
 protected: pull requests and the gate checks (`khai-tests`, `khai-guard`,
 `khai-branch-scope`, `khai-company-coverage`, `khai-subnational-conformance`,
-`khai-persona-wiring`) are
+`khai-persona-wiring`, `khai-plot-zero`, `khai-production-packages`) are
 required before merge.

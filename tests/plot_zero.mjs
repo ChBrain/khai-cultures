@@ -33,26 +33,19 @@
 // a bad plot_00, which is worse than none.
 
 import { readdirSync, existsSync } from "node:fs";
-import { join, dirname } from "node:path";
-import { fileURLToPath, pathToFileURL } from "node:url";
+import { pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 import { cultureIds } from "./company_coverage.mjs";
+import { cultureDir, pathCulture } from "./culture_sources.mjs";
 
-export const ROOT = join(
-  dirname(fileURLToPath(import.meta.url)),
-  "..",
-  "packages",
-  "khai-cultures",
-);
-
-const has = (id, prefix, root) => {
-  const dir = join(root, "cultures", id);
-  if (!existsSync(dir)) return true;
+const has = (id, prefix) => {
+  const dir = cultureDir(id);
+  if (!dir || !existsSync(dir)) return true;
   return readdirSync(dir).some((f) => f.startsWith(prefix));
 };
 
 /** Does this culture answer where it comes from? */
-export const hasOrigin = (id, { root = ROOT } = {}) => has(id, "plot_00", root);
+export const hasOrigin = (id) => has(id, "plot_00");
 
 /**
  * Does it reach the present?
@@ -68,31 +61,34 @@ export const hasOrigin = (id, { root = ROOT } = {}) => has(id, "plot_00", root);
  * the play's Stakes, which is a question and not a claim. A guess must never sit
  * where records sit.
  */
-export const hasPresent = (id, { root = ROOT } = {}) => has(id, "plot_99", root);
+export const hasPresent = (id) => has(id, "plot_99");
 
 /** Cultures missing either marker, by name. */
-export function missing(root = ROOT) {
-  return cultureIds(root)
-    .map((id) => [id, !hasOrigin(id, { root }), !hasPresent(id, { root })])
+export function missing() {
+  return cultureIds()
+    .map((id) => [id, !hasOrigin(id), !hasPresent(id)])
     .filter(([, o, p]) => o || p);
 }
 
 /** The cultures whose PLOTS a change touches. Not the same as touching a culture. */
-export function touchedPlots(paths, root = ROOT) {
-  const prefix = "packages/khai-cultures/cultures/";
+// The literal prefix this used to carry was the #430 bug written a second time:
+// correct on the day, dead the moment a culture's home changed, and silent about
+// it. `pathCulture` knows both homes, so a migrated culture's plots are still
+// asked for their origin.
+export function touchedPlots(paths) {
   const ids = new Set();
   for (const p of paths) {
-    const s = p.trim().replace(/\\/g, "/");
-    if (!s.startsWith(prefix)) continue;
-    const [id, file] = s.slice(prefix.length).split("/");
-    if (id && file && (file.startsWith("plot_") || file.startsWith("play_"))) ids.add(id);
+    const hit = pathCulture(p);
+    if (!hit) continue;
+    const file = hit.file.split("/").pop();
+    if (file && (file.startsWith("plot_") || file.startsWith("play_"))) ids.add(hit.id);
   }
   return [...ids].sort();
 }
 
-function report(root = ROOT) {
-  const rows = missing(root);
-  const all = cultureIds(root).length;
+function report() {
+  const rows = missing();
+  const all = cultureIds().length;
   console.log(`cultures missing a marker: ${rows.length} of ${all}`);
   for (const [id, noOrigin, noPresent] of rows)
     console.log(

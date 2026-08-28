@@ -90,6 +90,9 @@
     ]
   },
   "changesetPolicy": {
-    "countDrivenAdd": ["packages/khai-cultures/cultures/*/play_*.md"]
+    "countDrivenAdd": [
+      "packages/khai-cultures/cultures/*/play_*.md",
+      "packages/khai-cultures-*/play_*.md"
+    ]
   }
 }

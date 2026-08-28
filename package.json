@@ -16,9 +16,9 @@
     "test": "vitest run --test-timeout=30000",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "version": "changeset version && node packages/khai-cultures-tongues/build.mjs --write && npx khai-tests registry build packages/khai-cultures && npx prettier --write packages/khai-cultures/registry.json packages/khai-cultures-tongues",
+    "version": "changeset version && node packages/khai-cultures-tongues/build.mjs --write && npx khai-tests registry build packages/khai-cultures && node tests/registry_hybrid.mjs --write && npx prettier --write packages/khai-cultures/registry.json packages/khai-cultures/package.json packages/khai-cultures-tongues",
     "release": "changeset publish",
-    "registry": "npx khai-tests registry build packages/khai-cultures"
+    "registry": "npx khai-tests registry build packages/khai-cultures && node tests/registry_hybrid.mjs --write && npx prettier --write packages/khai-cultures/registry.json packages/khai-cultures/package.json"
   },
   "devDependencies": {
     "@changesets/cli": "^3.0.1",

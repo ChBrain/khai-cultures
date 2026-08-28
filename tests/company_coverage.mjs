@@ -30,13 +30,25 @@
 // a culture).
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
-import { join, dirname, relative, sep } from "node:path";
+import { join, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
+
+import {
+  cultureDir,
+  cultureIds as sourceCultureIds,
+  touchedCultures as sourceTouchedCultures,
+} from "./culture_sources.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 // The house package. The repository root above it is the workspace container,
 // which holds the tooling and publishes nothing.
+//
+// A culture is no longer always under it: a touched culture migrates into its
+// own production package beside the umbrella, so where a culture SITS is asked
+// of `culture_sources.mjs` and never computed here. ROOT stays exported because
+// callers pass it, and it still names the umbrella; it simply no longer implies
+// that every culture is inside it.
 export const ROOT = join(HERE, "..", "packages", "khai-cultures");
 export const WAIVERS_FILE = "coverage-waivers.json";
 
@@ -78,47 +90,42 @@ function sections(text) {
 }
 
 /** One culture's waivers: { "<file>.md": "<written reason>" }. */
-export function readWaivers(id, root = ROOT) {
-  const path = join(root, "cultures", id, WAIVERS_FILE);
+export function readWaivers(id) {
+  const dir = cultureDir(id);
+  if (!dir) return {};
+  const path = join(dir, WAIVERS_FILE);
   if (!existsSync(path)) return {};
   return JSON.parse(readFileSync(path, "utf8"));
 }
 
 /** Every culture that carries a waiver file, as { id: { file: reason } }. */
-export function allWaivers(root = ROOT) {
+export function allWaivers() {
   const out = {};
-  for (const id of cultureIds(root)) {
-    const w = readWaivers(id, root);
+  for (const id of cultureIds()) {
+    const w = readWaivers(id);
     if (Object.keys(w).length) out[id] = w;
   }
   return out;
 }
 
-export function cultureIds(root = ROOT) {
-  const dir = join(root, "cultures");
-  // A house with no cultures is a resolver that has lost the house, not a house
-  // that is empty. The persona-wiring gate reported `0 findings across 0
-  // cultures` for one merge after the workspace move, because its root still
-  // pointed at the container: clean, green, and reading nothing. A gate that has
-  // gone quiet must go red, so every reader of this list refuses an empty one.
-  if (!existsSync(dir) || !readdirSync(dir).some((e) => statSync(join(dir, e)).isDirectory()))
-    throw new Error(
-      `no cultures under ${dir}: the content root is wrong, and a check reading it would pass by reading nothing`,
-    );
-  if (!existsSync(dir)) return [];
-  return readdirSync(dir, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && !e.name.startsWith("."))
-    .map((e) => e.name)
-    .sort();
+/**
+ * Every culture id in the house, migrated or not.
+ *
+ * The emptiness refusal that used to live here moved to the resolver with the
+ * question it answers: one list, one guard, and a `root` argument would now be a
+ * lie, because half the answer is outside any one package.
+ */
+export function cultureIds() {
+  return sourceCultureIds();
 }
 
 /**
  * Company entries of one culture that no plot fields, minus the one-way kinds
  * and minus anything waived. Returns { dead, waived, company } basenames.
  */
-export function coverage(id, { root = ROOT } = {}) {
-  const dir = join(root, "cultures", id);
-  if (!existsSync(dir) || !statSync(dir).isDirectory())
+export function coverage(id) {
+  const dir = cultureDir(id);
+  if (!dir || !existsSync(dir) || !statSync(dir).isDirectory())
     return { dead: [], waived: [], company: [] };
   const files = readdirSync(dir).filter((f) => f.endsWith(".md"));
   const playFile = files.find((f) => f.startsWith("play_"));
@@ -133,7 +140,7 @@ export function coverage(id, { root = ROOT } = {}) {
     for (const b of linkBasenames(readFileSync(join(dir, plot), "utf8")))
       if (company.has(b)) cast.add(b);
 
-  const waivedHere = readWaivers(id, root);
+  const waivedHere = readWaivers(id);
   const uncast = [...company].filter((b) => !cast.has(b) && !isOneWay(b));
   return {
     dead: uncast.filter((b) => !waivedHere[b]).sort(),
@@ -159,10 +166,10 @@ export function coverage(id, { root = ROOT } = {}) {
  * thread back to the event is real. That is the Virginia test - "invention
  * rather than consequence" - and it belongs to a person.
  */
-export function consequences(root = ROOT) {
+export function consequences() {
   const out = [];
-  for (const id of cultureIds(root)) {
-    const dir = join(root, "cultures", id);
+  for (const id of cultureIds()) {
+    const dir = cultureDir(id);
     const files = readdirSync(dir).filter((f) => f.endsWith(".md"));
     const personas = new Set(files.filter((f) => f.startsWith("persona_")));
     const where = new Map();
@@ -176,26 +183,16 @@ export function consequences(root = ROOT) {
   return out.sort();
 }
 
-/** Cultures a set of changed paths touches. */
-// Where a culture sits, as a repository-relative path, derived from ROOT rather
-// than typed. The workspace move renamed `cultures/<id>/` to
-// `packages/khai-cultures/cultures/<id>/`, and the literal prefix that used to
-// be written here stopped matching anything: every ratchet in this repository
-// runs through `touchedCultures`, so all three reported "no culture touched" on
-// pull requests that added plots and personas, and passed. Deriving it means one
-// move updates all three, and `tests/house.test.mjs` pins it against a path
-// taken out of the real tree so a future move breaks a test instead of a gate.
-const CULTURES_PREFIX = relative(join(HERE, ".."), join(ROOT, "cultures")).split(sep).join("/");
-
 /** The cultures a list of changed repository paths touches. */
+// Derived, never typed. The workspace move renamed `cultures/<id>/` to
+// `packages/khai-cultures/cultures/<id>/`, and the literal prefix that used to be
+// written here stopped matching anything: every ratchet in this repository runs
+// through `touchedCultures`, so all three reported "no culture touched" on pull
+// requests that added plots and personas, and passed. The migration moves the
+// path again, one culture at a time, so the shapes now live in
+// `culture_sources.mjs` and this is the thin forward that keeps every caller.
 export function touchedCultures(paths) {
-  const re = new RegExp(`^${CULTURES_PREFIX}/([^/]+)/`);
-  const ids = new Set();
-  for (const p of paths) {
-    const m = re.exec(p.trim().replace(/\\/g, "/"));
-    if (m) ids.add(m[1]);
-  }
-  return [...ids].sort();
+  return sourceTouchedCultures(paths);
 }
 
 function changedPaths(base, head) {

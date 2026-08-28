@@ -42,6 +42,7 @@
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join, dirname, resolve, sep } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
+import { cultures } from "./culture_sources.mjs";
 
 // Two roots, because they are two things. WORKSPACE holds the packages; ROOT is
 // the house package whose cultures the drift queue reads against.
@@ -116,12 +117,9 @@ export function standalone({ dir = TONGUES } = {}) {
 }
 
 /** Names a culture answers to: what it declares itself, and its id without the code. */
-function cultureNames(root) {
+function cultureNames() {
   const out = new Map();
-  const culturesDir = join(root, "cultures");
-  if (!existsSync(culturesDir)) return out;
-  for (const id of readdirSync(culturesDir)) {
-    const d = join(culturesDir, id);
+  for (const { id, dir: d } of cultures()) {
     if (!existsSync(join(d, "geo.json"))) continue;
     const play = readdirSync(d).find((f) => f.startsWith("play_"));
     if (!play) continue;
@@ -139,14 +137,11 @@ function cultureNames(root) {
 }
 
 /** Cultures that cast a variety, by the package specifier they cast it with. */
-function holders(root, files) {
+function holders(files) {
   // Keyed by the path the specifier carries, which is the path inside the package:
   // flat while the package was flat, `de/...` once a language owns a directory.
   const out = new Map(files.map((f) => [f, new Set()]));
-  const culturesDir = join(root, "cultures");
-  if (!existsSync(culturesDir)) return out;
-  for (const id of readdirSync(culturesDir)) {
-    const d = join(culturesDir, id);
+  for (const { id, dir: d } of cultures()) {
     if (!existsSync(join(d, "geo.json"))) continue;
     for (const md of readdirSync(d).filter((f) => f.endsWith(".md"))) {
       const text = readFileSync(join(d, md), "utf8");
@@ -185,8 +180,8 @@ export function drift({ dir = TONGUES, root = ROOT } = {}) {
   const out = [];
   if (!existsSync(dir)) return out;
   const files = varietyFiles(dir);
-  const names = cultureNames(root);
-  const held = holders(root, files);
+  const names = cultureNames();
+  const held = holders(files);
   for (const file of files) {
     const body = readFileSync(join(dir, file), "utf8").split("## Has")[1] ?? "";
     const foreign = [];

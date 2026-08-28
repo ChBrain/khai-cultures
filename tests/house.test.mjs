@@ -14,10 +14,15 @@ import {
 } from "./company_coverage.mjs";
 import { standalone } from "./tongues_standalone.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
+import { cultures, productions, MONOLITH_DIR } from "./culture_sources.mjs";
+import { findings as productionFindings, umbrellaFindings } from "./production_packages.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = join(here, "..", "packages", "khai-cultures");
-const culturesDir = join(root, "cultures");
+// The umbrella's own collection dir, named by the resolver rather than joined
+// here: during the walk it holds only the cultures that have not migrated yet,
+// and at the end of the walk it may not exist at all.
+const culturesDir = MONOLITH_DIR;
 
 // The khai types every culture must field. A culture is a full play, so the set
 // is the play canon; the cultural meaning of each is the house contract
@@ -35,11 +40,12 @@ const REQUIRED_TYPES = [
   "piece_",
 ];
 
-function cultureIds() {
-  if (!existsSync(culturesDir)) return [];
-  return readdirSync(culturesDir, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && !e.name.startsWith("."))
-    .map((e) => e.name);
+// Where each culture sits, asked of the resolver. During the walk that is two
+// places, and a local readdir of `cultures/` would quietly stop testing every
+// culture that had migrated - each one dropping out of the suite on the day it
+// became a package, which is the day it most needs testing.
+function cultureDirs() {
+  return cultures().map((c) => [c.id, c.dir]);
 }
 
 // Every culture in the house conforms to the canon. Green on an empty house (no
@@ -58,6 +64,14 @@ describe("Cultures house: content conforms to the canon", () => {
       .map((d) => join(root, d))
       .filter((d) => existsSync(d));
     const results = contentDirs.flatMap((dir) => validateProject({ root, contentDir: dir }));
+    // A migrated culture is validated as its own package, rooted on itself, so
+    // the wiring exemptions and the package-specifier resolver come from the
+    // dependencies IT declares rather than from the umbrella's.
+    for (const prod of productions())
+      for (const err of productionFindings(prod))
+        results.push({ file: `${prod.name}/${err}`, errors: [err] });
+    for (const err of umbrellaFindings())
+      results.push({ file: "packages/khai-cultures", errors: [err] });
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
   });
@@ -84,7 +98,10 @@ describe("Cultures house: content conforms to the canon", () => {
   it("every instance satisfies the language policy", () => {
     // Point the validator at the content collection; its default (root/plays)
     // does not exist in a cultures house, which would silently no-op the check.
-    const results = validateProjectLanguages(root, { contentDir: culturesDir });
+    const results = [
+      ...validateProjectLanguages(root, { contentDir: culturesDir }),
+      ...productions().flatMap((p) => validateProjectLanguages(p.dir, { contentDir: p.dir })),
+    ];
     const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
     expect(errors).toEqual([]);
     // Two corrections compounded into real work here. khai-language 0.1.24 derives
@@ -115,13 +132,12 @@ describe("Cultures house: content conforms to the canon", () => {
 // fields the full khai type set and the casting laws (REFERENCE.md). Empty house
 // registers no per-culture cases, so it stays green until the first culture lands.
 describe("Cultures house: every culture is a complete theatre", () => {
-  it("the cultures/ collection folder exists", () => {
-    expect(existsSync(culturesDir)).toBe(true);
+  it("the house holds cultures, in one home or the other", () => {
+    expect(cultures().length).toBeGreaterThan(0);
   });
 
-  for (const id of cultureIds()) {
+  for (const [id, dir] of cultureDirs()) {
     it(`culture "${id}" uses every khai type with the mandatory minimums`, () => {
-      const dir = join(culturesDir, id);
       const files = readdirSync(dir).filter((f) => f.endsWith(".md"));
       const count = (prefix) => files.filter((f) => f.startsWith(prefix)).length;
       const errors = [];
@@ -271,7 +287,7 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
 // asserted to resolve back to the culture it came from. Move the content root
 // again and this test fails, which is the whole point of writing it.
 describe("Cultures house: the ratchets can still see a touched culture", () => {
-  it("resolves a real content path back to its culture", () => {
+  it.skipIf(!existsSync(culturesDir))("resolves a real content path back to its culture", () => {
     const id = readdirSync(culturesDir, { withFileTypes: true })
       .filter((e) => e.isDirectory())
       .map((e) => e.name)
@@ -289,6 +305,19 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
       touchedCultures(["tests/house.test.mjs", "packages/khai-cultures-tongues/de/x.md"]),
     ).toEqual([]);
   });
+
+  // The same proof for the other home. Skipped only while there is nothing to
+  // prove it on; `tests/migration.test.mjs` holds the synthetic case that runs
+  // whether or not a culture has migrated yet.
+  it.skipIf(productions().length === 0)(
+    "resolves a real production path back to its culture",
+    () => {
+      const prod = productions()[0];
+      const file = readdirSync(prod.dir).find((f) => f.endsWith(".md"));
+      const asGitPrints = ["packages", prod.dir.split("/").pop(), file].join("/");
+      expect(touchedCultures([asGitPrints])).toEqual([prod.id]);
+    },
+  );
 });
 
 // A report that hides rows and does not say so is indistinguishable, to the grep
