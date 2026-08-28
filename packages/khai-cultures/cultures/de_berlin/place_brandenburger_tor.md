@@ -25,7 +25,7 @@ Das Brandenburger Tor in Berlin, am Pariser Platz gelegen. Ein klassizistisches 
 
 ## Holds
 
-- die staatliche Einheit und den Wandel im Plot [Der Fall der Mauer 1989](plot_02_reunification_1989.md) : das zentrale Monument der überwundenen Teilung Deutschlands.
+- die staatliche Einheit und den Wandel im Plot [Der Fall der Mauer 1989](plot_03_reunification_1989.md) : das zentrale Monument der überwundenen Teilung Deutschlands.
 
 ## Offers
 

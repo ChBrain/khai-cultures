@@ -25,7 +25,7 @@ Das Berghain in Berlin-Friedrichshain, untergebracht in einem ehemaligen Heizkra
 
 ## Holds
 
-- die Entfaltung der Musikszene im Plot [Der Aufstieg der Techno-Subkultur nach 1990](plot_03_subculture.md) : die Kathedrale des elektronischen Klangs.
+- die Entfaltung der Musikszene im Plot [Der Aufstieg der Techno-Subkultur nach 1990](plot_04_subculture.md) : die Kathedrale des elektronischen Klangs.
 
 ## Offers
 
