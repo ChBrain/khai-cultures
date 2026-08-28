@@ -162,7 +162,20 @@ function changedPaths(base, head) {
   return out.split("\n").filter(Boolean);
 }
 
-function report() {
+const TOP = 20;
+
+// The house-wide picture. It shows the worst cultures, not all of them, because
+// nineteen hundred dead entries across two hundred and ninety cultures is not a
+// list anyone reads - but it now SAYS so on the line where the list stops.
+//
+// It did not, and that cost a pull request. Asking `--report | grep egypt` for a
+// culture sitting below the cut printed nothing, nothing was read as zero, and
+// the culture went into a branch carrying four dead entries that the gate then
+// caught. A truncated list and an empty answer are indistinguishable to a grep,
+// so a report that hides rows has to name the number it is hiding, and there has
+// to be a way to ask about one culture rather than filtering a list that may not
+// contain it. That is what `--culture <id>` is for.
+export function report({ all = false } = {}) {
   let total = 0;
   const rows = [];
   for (const id of cultureIds()) {
@@ -171,11 +184,31 @@ function report() {
     if (dead.length || waived.length) rows.push([id, dead.length, waived.length]);
   }
   rows.sort((a, b) => b[1] - a[1]);
-  for (const [id, d, w] of rows.slice(0, 20)) console.log(`  ${id}: ${d} dead, ${w} waived`);
+  const shown = all ? rows : rows.slice(0, TOP);
+  for (const [id, d, w] of shown) console.log(`  ${id}: ${d} dead, ${w} waived`);
+  if (shown.length < rows.length)
+    console.log(
+      `  ... and ${rows.length - shown.length} more culture(s) NOT SHOWN. ` +
+        `This list is the worst ${TOP}; do not read a culture's absence from it as zero. ` +
+        `Use --all, or --culture <id> for one.`,
+    );
   console.log(
     `cultures carrying dead entries: ${rows.filter((r) => r[1]).length} of ${cultureIds().length}`,
   );
   console.log(`dead Company entries house-wide: ${total}`);
+}
+
+/** One culture, answered directly, so nobody has to grep a list that truncates. */
+function reportCulture(id) {
+  if (!cultureIds().includes(id)) {
+    console.error(`no such culture: ${id}`);
+    return 2;
+  }
+  const { dead, waived, company } = coverage(id);
+  console.log(`${id}: ${dead.length} dead, ${waived.length} waived, ${company.length} in Company`);
+  for (const b of dead) console.log(`  dead   ${b}`);
+  for (const b of waived) console.log(`  waived ${b}`);
+  return 0;
 }
 
 function gate(base, head) {
@@ -215,7 +248,8 @@ function gate(base, head) {
 // module importing the other would run its report as a side effect.
 const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
 const argv = isMain ? process.argv.slice(2) : [];
-if (argv.includes("--report")) report();
+if (argv.includes("--culture")) process.exit(reportCulture(argv[argv.indexOf("--culture") + 1]));
+else if (argv.includes("--report")) report({ all: argv.includes("--all") });
 else if (argv.includes("--gate")) {
   const base = argv[argv.indexOf("--base") + 1];
   const head = argv[argv.indexOf("--head") + 1];

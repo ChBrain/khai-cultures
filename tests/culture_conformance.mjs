@@ -128,11 +128,31 @@ function gate(base, head) {
   return 1;
 }
 
+/**
+ * One culture, answered directly. Every report in this repository is something
+ * someone will reach for with a grep, and a grep cannot tell an absent row from
+ * a hidden one - which is how a culture carrying four dead entries got into a
+ * branch as "clean". This report is not truncated, but the query is the safe
+ * habit, so all three checks offer it.
+ */
+function reportCulture(id) {
+  if (!cultureIds().includes(id)) {
+    console.error(`no such culture: ${id}`);
+    return 2;
+  }
+  const { blocking, advisory } = conformance(id);
+  console.log(`${id}: ${blocking.length} blocking, ${advisory.length} advisory`);
+  for (const f of blocking) console.log(`  blocking ${f}`);
+  for (const f of advisory) console.log(`  advisory ${f}`);
+  return 0;
+}
+
 // Only when run as a command. Without this the CLI fires on import, so one
 // module importing the other would run its report as a side effect.
 const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
 const argv = isMain ? process.argv.slice(2) : [];
-if (argv.includes("--report")) report();
+if (argv.includes("--culture")) process.exit(reportCulture(argv[argv.indexOf("--culture") + 1]));
+else if (argv.includes("--report")) report();
 else if (argv.includes("--gate")) {
   const base = argv[argv.indexOf("--base") + 1];
   const head = argv[argv.indexOf("--head") + 1];
