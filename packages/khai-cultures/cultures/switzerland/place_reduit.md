@@ -26,7 +26,7 @@ Die Alpenfestung, kein einzelner Ort, sondern ein Ring aus Sperrforts, Stollen u
 
 ## Holds
 
-- [die Kriegsjahre 1939 bis 1945](plot_07_kriegsjahre_1939_1945.md): hierhin verlegt General [Guisan](persona_guisan.md) 1940 die Verteidigung des Landes, während das Mittelland im Ernstfall aufgegeben würde.
+- [die Kriegsjahre 1939 bis 1945](plot_09_kriegsjahre_1939_1945.md): hierhin verlegt General [Guisan](persona_guisan.md) 1940 die Verteidigung des Landes, während das Mittelland im Ernstfall aufgegeben würde.
 
 ## Offers
 

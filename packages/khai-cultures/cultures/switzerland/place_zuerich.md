@@ -26,8 +26,8 @@ Die grösste Stadt des Landes, an der Limmat und am See, mit dem Grossmünster �
 
 ## Holds
 
-- [die Reformation und die Kappelerkriege](plot_02_reformation_1531.md): hier predigt [Zwingli](persona_zwingli.md) und setzt die Stadt als erste in Bewegung.
-- [der Wohlstand](plot_05_wohlstand_1934.md): hier verwaltet [das Bankgeheimnis](position_bankgeheimnis.md) einen grossen Teil des Wohlstands, den die Uhren- und Finanzindustrie dem Land bringen.
+- [die Reformation und die Kappelerkriege](plot_04_reformation_1531.md): hier predigt [Zwingli](persona_zwingli.md) und setzt die Stadt als erste in Bewegung.
+- [der Wohlstand](plot_07_wohlstand_1934.md): hier verwaltet [das Bankgeheimnis](position_bankgeheimnis.md) einen grossen Teil des Wohlstands, den die Uhren- und Finanzindustrie dem Land bringen.
 
 ## Offers
 

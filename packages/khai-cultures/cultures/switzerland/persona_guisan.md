@@ -27,7 +27,7 @@ Le général vaudois, seul commandant en chef que le pays nomme entre 1939 et 19
 
 ## Action
 
-Il rassemble ses officiers sur la prairie du [Rütli](plot_01_ruetli_1291.md), là où le pays se jure uni selon la légende de 1291, le 25 juillet 1940, après la défaite de la France, pour leur annoncer le repli vers [le Réduit](place_reduit.md): non pas défendre les frontières ni les villes, mais tenir les Alpes assez cher pour qu'aucun envahisseur n'y trouve son compte, le point le plus aigu de [la neutralité armée](plan_neutralitaet.md) durant [les années de guerre 1939 à 1945](plot_07_kriegsjahre_1939_1945.md).
+Il rassemble ses officiers sur la prairie du [Rütli](plot_03_ruetli_1291.md), là où le pays se jure uni selon la légende de 1291, le 25 juillet 1940, après la défaite de la France, pour leur annoncer le repli vers [le Réduit](place_reduit.md): non pas défendre les frontières ni les villes, mais tenir les Alpes assez cher pour qu'aucun envahisseur n'y trouve son compte, le point le plus aigu de [la neutralité armée](plan_neutralitaet.md) durant [les années de guerre 1939 à 1945](plot_09_kriegsjahre_1939_1945.md).
 
 ## Shadow
 

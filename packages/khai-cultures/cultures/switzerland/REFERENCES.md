@@ -32,7 +32,7 @@ by Hofstede Insights / The Culture Factor Group.
 
 Switzerland has four national languages (Federal Constitution, Art. 4): German,
 French, Italian, and Romansh, Romansh only since the 1938 language article
-staged in [plot_06_sprachenartikel_1938.md](plot_06_sprachenartikel_1938.md).
+staged in [plot_08_sprachenartikel_1938.md](plot_08_sprachenartikel_1938.md).
 The cast is written across all four. The Romansh of
 [persona_gian.md](persona_gian.md) and [persona_menga.md](persona_menga.md) is
 the authors' own composition (Rumantsch Grischun), offered in good faith and
@@ -47,14 +47,14 @@ staging is original work.
 
 | Subject                       | In this culture                                                                                                                              | Scope                                                                                                                        |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| The Reformation, 1523-1531    | [plot_02_reformation_1531.md](plot_02_reformation_1531.md), [persona_zwingli.md](persona_zwingli.md), [persona_calvin.md](persona_calvin.md) | Zwingli's Zurich Reformation, the Kappel wars and the First Kappel Landfriede, and Calvin's 1536 call to Geneva.             |
-| The federal state, 1848       | [plot_03_bundesstaat_1848.md](plot_03_bundesstaat_1848.md), [persona_dufour.md](persona_dufour.md)                                           | General Dufour, the Sonderbund war, and the 1848 Federal Constitution.                                                       |
-| The Red Cross, 1863           | [plot_04_rotes_kreuz_1863.md](plot_04_rotes_kreuz_1863.md), [persona_dunant.md](persona_dunant.md)                                           | Henry Dunant, Solferino, and the founding of the Red Cross in Geneva.                                                        |
-| Wealth and bank secrecy, 1934 | [plot_05_wohlstand_1934.md](plot_05_wohlstand_1934.md), [piece_uhr.md](piece_uhr.md)                                                         | The Huguenot origin of Jura watchmaking and the 1934 Banking Act.                                                            |
-| The language article, 1938    | [plot_06_sprachenartikel_1938.md](plot_06_sprachenartikel_1938.md), [persona_etter.md](persona_etter.md)                                     | Federal Councillor Etter, "geistige Landesverteidigung", and the referendum recognising Romansh.                             |
-| The war years, 1939-1945      | [plot_07_kriegsjahre_1939_1945.md](plot_07_kriegsjahre_1939_1945.md), [persona_guisan.md](persona_guisan.md)                                 | General Guisan, the Rütli address and the Réduit, the J-stamp, and the refugee policy the Bergier Commission later examined. |
-| Women's suffrage, 1971        | [plot_08_frauenstimmrecht_1971.md](plot_08_frauenstimmrecht_1971.md)                                                                         | The federal enfranchisement of Swiss women in 1971.                                                                          |
-| The EEA vote, 1992            | [plot_09_ewr_1992.md](plot_09_ewr_1992.md)                                                                                                   | The 1992 referendum rejecting the European Economic Area and its Röstigraben split.                                          |
+| The Reformation, 1523-1531    | [plot_04_reformation_1531.md](plot_04_reformation_1531.md), [persona_zwingli.md](persona_zwingli.md), [persona_calvin.md](persona_calvin.md) | Zwingli's Zurich Reformation, the Kappel wars and the First Kappel Landfriede, and Calvin's 1536 call to Geneva.             |
+| The federal state, 1848       | [plot_05_bundesstaat_1848.md](plot_05_bundesstaat_1848.md), [persona_dufour.md](persona_dufour.md)                                           | General Dufour, the Sonderbund war, and the 1848 Federal Constitution.                                                       |
+| The Red Cross, 1863           | [plot_06_rotes_kreuz_1863.md](plot_06_rotes_kreuz_1863.md), [persona_dunant.md](persona_dunant.md)                                           | Henry Dunant, Solferino, and the founding of the Red Cross in Geneva.                                                        |
+| Wealth and bank secrecy, 1934 | [plot_07_wohlstand_1934.md](plot_07_wohlstand_1934.md), [piece_uhr.md](piece_uhr.md)                                                         | The Huguenot origin of Jura watchmaking and the 1934 Banking Act.                                                            |
+| The language article, 1938    | [plot_08_sprachenartikel_1938.md](plot_08_sprachenartikel_1938.md), [persona_etter.md](persona_etter.md)                                     | Federal Councillor Etter, "geistige Landesverteidigung", and the referendum recognising Romansh.                             |
+| The war years, 1939-1945      | [plot_09_kriegsjahre_1939_1945.md](plot_09_kriegsjahre_1939_1945.md), [persona_guisan.md](persona_guisan.md)                                 | General Guisan, the Rütli address and the Réduit, the J-stamp, and the refugee policy the Bergier Commission later examined. |
+| Women's suffrage, 1971        | [plot_10_frauenstimmrecht_1971.md](plot_10_frauenstimmrecht_1971.md)                                                                         | The federal enfranchisement of Swiss women in 1971.                                                                          |
+| The EEA vote, 1992            | [plot_11_ewr_1992.md](plot_11_ewr_1992.md)                                                                                                   | The 1992 referendum rejecting the European Economic Area and its Röstigraben split.                                          |
 
 [Wilhelm Tell](persona_tell.md) and the Rütli oath of 1291 are foundational
 legend rather than documented history; they are staged as the myth the country
@@ -76,7 +76,7 @@ Earlier drafts of this culture waived [persona_gian.md](persona_gian.md) and
 [persona_marco.md](persona_marco.md) from company coverage: the moment their
 position turns on, the 1938 standing of Romansh and of Italian against
 fascist claims on Graubünden and Ticino, was not staged. It now is,
-in [plot_06_sprachenartikel_1938.md](plot_06_sprachenartikel_1938.md). Neither
+in [plot_08_sprachenartikel_1938.md](plot_08_sprachenartikel_1938.md). Neither
 persona is staged as having lived through 1938 itself; the plot's own text
 says so ("obwohl beide diesen Tag selbst nicht erlebt haben"). What it casts
 is the causal line from that referendum to what each of them holds today, the

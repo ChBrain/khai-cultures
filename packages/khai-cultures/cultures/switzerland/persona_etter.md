@@ -27,7 +27,7 @@ Der katholisch-konservative Bundesrat aus dem Kanton Zug, Vorsteher des Departem
 
 ## Action
 
-Als Motor der "geistigen Landesverteidigung" bringt er 1938 die Anerkennung des Rätoromanischen als vierte Landessprache vor Volk und Stände, damit dem Ausland, das Rätoromanisch als blossen italienischen Dialekt und die Sprachminderheiten des Landes als sein Eigentum behandelt, die Antwort [der Volksabstimmung](process_volksabstimmung.md) entgegensteht: [der Sprachenartikel 1938](plot_06_sprachenartikel_1938.md).
+Als Motor der "geistigen Landesverteidigung" bringt er 1938 die Anerkennung des Rätoromanischen als vierte Landessprache vor Volk und Stände, damit dem Ausland, das Rätoromanisch als blossen italienischen Dialekt und die Sprachminderheiten des Landes als sein Eigentum behandelt, die Antwort [der Volksabstimmung](process_volksabstimmung.md) entgegensteht: [der Sprachenartikel 1938](plot_08_sprachenartikel_1938.md).
 
 ## Shadow
 
