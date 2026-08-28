@@ -1,5 +1,5 @@
 {
-  "source": ["cultures/**", "packages/**"],
+  "source": ["packages/**"],
   "test": ["tests/**", ".github/workflows/**", ".husky/**"],
   "exemptRenames": true,
   "driftPolicy": {
@@ -15,7 +15,6 @@
       "package.json",
       "packages/*/package.json",
       "package-lock.json",
-      "CHANGELOG.md",
       "packages/*/CHANGELOG.md",
       ".prettierrc",
       ".gitignore",
@@ -24,19 +23,18 @@
       "LICENSE",
       "LICENSE-CODE",
       "SECURITY.md",
-      "registry.json",
       "packages/khai-cultures/registry.json"
     ],
     "lanes": [
       {
         "pattern": "culture/*",
         "layer": "solution",
-        "allow": ["cultures/**", "packages/**"]
+        "allow": ["packages/**"]
       },
       {
         "pattern": "group/*",
         "layer": "solution",
-        "allow": ["groups/**", "packages/khai-cultures/groups/**"]
+        "allow": ["packages/khai-cultures/groups/**"]
       },
       {
         "pattern": "governance/*",
@@ -46,12 +44,9 @@
           ".husky/**",
           "khai-guard.config.json",
           "tests/**",
-          "playwright_instructions.md",
-          "README.md",
           "GEMINI.md",
           "CLAUDE.md",
           "REFERENCE.md",
-          "REFERENCES.md",
           "management/**",
           "packages/khai-cultures/README.md",
           "packages/khai-cultures/REFERENCES.md",
@@ -92,6 +87,6 @@
     ]
   },
   "changesetPolicy": {
-    "countDrivenAdd": ["cultures/*/play_*.md", "packages/khai-cultures/cultures/*/play_*.md"]
+    "countDrivenAdd": ["packages/khai-cultures/cultures/*/play_*.md"]
   }
 }
