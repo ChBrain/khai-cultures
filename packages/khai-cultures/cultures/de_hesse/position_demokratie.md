@@ -30,8 +30,8 @@ Dass man die demokratische Teilhabe stärkt, verfassungsfeindliche Bestrebungen 
 
 ## Loses
 
-An Legitimation, wenn das Vertrauen der Bürger in die Institutionen sinkt oder wenn Extremismus die Grundlagen des Zusammenlebens gefährdet.
+An Legitimation, wenn das Vertrauen der Bürger in die Institutionen sinkt oder wenn Extremismus die Grundlagen des Zusammenlebens gefährdet, bis hin zur Gewalt: 2019 wurde ein Amtsträger für ein demokratisches Wort erschossen.
 
 ## Drives
 
-Fördert die Entstehung des Staates im Plot [Die Gründung des Landes Hessen 1945](plot_02_division_unification_1945.md) und lenkt das Engagement der Wirte und Bürger.
+Fördert die Entstehung des Staates im Plot [Die Gründung des Landes Hessen 1945](plot_02_division_unification_1945.md), lenkt das Engagement der Wirte und Bürger, und wird im Plot [Rechter Terror und die eigenen Akten, 2019 und 2020](plot_99_rechter_terror_2019_2020.md) mit Gewalt angegriffen.

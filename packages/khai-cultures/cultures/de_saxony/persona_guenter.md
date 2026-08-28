@@ -27,7 +27,7 @@ Ein pensionierter sächsischer Porzellanmaler von einundsiebzig Jahren, der jahr
 
 ## Action
 
-Er bemalt in seiner Freizeit weiterhin Porzellan, pflegt die Handwerkstraditionen und erinnert sich an die friedlichen Demonstrationen für [der Bürgerprotest](position_buergerprotest.md).
+Er bemalt in seiner Freizeit weiterhin Porzellan, pflegt die Handwerkstraditionen und erinnert sich an die friedlichen Demonstrationen für [der Bürgerprotest](position_buergerprotest.md). Fährt er mit dem Zug durch die Lausitz, sieht er die zweisprachigen Ortsschilder und weiß, dass [das sorbische Erbe](position_sorbisches_erbe.md) dort älter ist als der Name Sachsen selbst.
 
 ## Shadow
 

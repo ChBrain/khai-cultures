@@ -34,4 +34,4 @@ An Innovationskraft, wenn das Leben zu teuer wird und junge Kreative aus den Zen
 
 ## Drives
 
-Leitet die Arbeit der zugezogenen Kreativen, die in Coworking-Spaces und Digitalagenturen für die Szene arbeiten, und treibt die Entwicklung im Plot [Der Aufstieg der Techno-Subkultur nach 1990](plot_03_subculture.md) an.
+Leitet die Arbeit der zugezogenen Kreativen, die in Coworking-Spaces und Digitalagenturen für die Szene arbeiten, treibt die Entwicklung im Plot [Der Aufstieg der Techno-Subkultur nach 1990](plot_04_subculture.md) an und wird im Plot [Arm, aber sexy: die Startup-Hauptstadt, 2003 bis 2015](plot_05_startup_hauptstadt.md) selbst zum Geschäftsmodell.

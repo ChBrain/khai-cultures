@@ -34,4 +34,4 @@ An Glaubwürdigkeit, wenn reines Spekulantentum über die ehrbare kaufmännische
 
 ## Drives
 
-Lenkt die geschäftlichen Entscheidungen der hanseatischen Kaufleute und prägt die Entwicklung im Plot [Der Bau der Speicherstadt 1888](plot_02_speicherstadt_1888.md).
+Lenkt die geschäftlichen Entscheidungen der hanseatischen Kaufleute, von [dem Bündnis mit Lübeck 1241](plot_02_luebecker_buendnis_1241.md) an, und prägt die Entwicklung im Plot [Der Bau der Speicherstadt 1888](plot_03_speicherstadt_1888.md).
