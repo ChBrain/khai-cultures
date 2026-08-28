@@ -182,6 +182,14 @@ Where the answer is that a culture stands as it is, write the reasoning into its
 `REFERENCES.md` rather than leaving the next hand to ask again. Never stage an
 apology in place of a deed, and never invent a scene to satisfy a counter.
 
+**Every culture answers where it comes from, and the answer is `plot_00`.** The
+origin is not the first event in the chronology but the reply to a different
+question, so it is held out of the numbering and can be prepended when it is
+found. It is gated as a ratchet: touch a culture's plots or its play file and it
+must have one. That the file exists is a gate; whether it is a true origin or a
+state date wearing the number is this dialogue's business and never a counter's.
+See [Plot Zero](management/orders/order_plot_zero.md). Berlin opened at the Wall.
+
 **The answer is a cultural moment, not a constitutional one.** A play can carry
 ten plots and still answer the wrong question: a culture named after a country
 makes the country the obvious material, and foundings, treaties and borders read
