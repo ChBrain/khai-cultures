@@ -13,8 +13,10 @@
     "shared": [
       ".changeset/**",
       "package.json",
+      "packages/*/package.json",
       "package-lock.json",
       "CHANGELOG.md",
+      "packages/*/CHANGELOG.md",
       ".prettierrc",
       ".gitignore",
       ".npmrc",
@@ -22,7 +24,8 @@
       "LICENSE",
       "LICENSE-CODE",
       "SECURITY.md",
-      "registry.json"
+      "registry.json",
+      "packages/khai-cultures/registry.json"
     ],
     "lanes": [
       {
@@ -33,7 +36,7 @@
       {
         "pattern": "group/*",
         "layer": "solution",
-        "allow": ["groups/**"]
+        "allow": ["groups/**", "packages/khai-cultures/groups/**"]
       },
       {
         "pattern": "governance/*",
@@ -49,7 +52,10 @@
           "CLAUDE.md",
           "REFERENCE.md",
           "REFERENCES.md",
-          "management/**"
+          "management/**",
+          "packages/khai-cultures/README.md",
+          "packages/khai-cultures/REFERENCES.md",
+          "packages/khai-cultures/playwright_instructions.md"
         ]
       },
       {
@@ -86,6 +92,6 @@
     ]
   },
   "changesetPolicy": {
-    "countDrivenAdd": ["cultures/*/play_*.md"]
+    "countDrivenAdd": ["cultures/*/play_*.md", "packages/khai-cultures/cultures/*/play_*.md"]
   }
 }
