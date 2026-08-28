@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Das alte Reich altert unter dem greisen Kaiser, und über allem liegt das Gefühl eines nahen Endes. Gerade da, in den [Kaffeehäusern](process_kaffeehaus.md) von [Wien](place_wien.md), entzündet sich ein letztes, helles Aufleuchten.
+Das alte Reich altert unter [dem greisen Kaiser Franz Joseph](persona_franz_joseph.md), und über allem liegt das Gefühl eines nahen Endes. Gerade da, in den [Kaffeehäusern](process_kaffeehaus.md) von [Wien](place_wien.md), entzündet sich ein letztes, helles Aufleuchten.
 
 ## Action
 
@@ -30,6 +30,7 @@ Das alte Reich altert unter dem greisen Kaiser, und über allem liegt das Gefüh
 
 ## Stage
 
+- [Franz Joseph](persona_franz_joseph.md): der greise Kaiser, unter dem das Reich seinem Ende entgegengeht.
 - [Freud](persona_freud.md): der Forscher, der unter die höfliche Oberfläche steigt.
 - [das Kaffeehaus](process_kaffeehaus.md): das Wohnzimmer dieser Moderne.
 - [die Sachertorte](piece_sachertorte.md): die Mehlspeise, an der dieses Kaffeehaus sich selbst wiedererkennt.

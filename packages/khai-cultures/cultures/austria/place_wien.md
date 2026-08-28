@@ -26,8 +26,12 @@ Die Hauptstadt an der Donau, einst die Mitte eines Weltreiches, heute eine Stadt
 
 ## Holds
 
-- [Maria Theresia](plot_01_maria_theresia.md): von hier aus reformiert die Landesmutter das Reich.
-- [Wien um 1900](plot_03_fin_de_siecle.md): in seinen Kaffeehäusern blüht die Moderne.
+- [Die Türkenbelagerung 1683](plot_01_tuerkenbelagerung_1683.md): die Stadt, die am Rand des Falls steht und zur Reichshauptstadt wird.
+- [Maria Theresia](plot_02_maria_theresia.md): von hier aus reformiert die Landesmutter das Reich.
+- [Königgrätz 1866](plot_05_koeniggraetz_1866.md): die Hauptstadt, die die Nachricht der Niederlage empfängt.
+- [Wien um 1900](plot_06_fin_de_siecle.md): in seinen Kaffeehäusern blüht die Moderne.
+- [Der Zerfall 1918](plot_07_zerfall_1918.md): die überdimensionierte Hauptstadt eines auf einmal winzigen Landes.
+- [Der Anschluss 1938](plot_08_anschluss_1938.md): der Heldenplatz, auf dem die Menge den Anschluss bejubelt.
 
 ## Offers
 

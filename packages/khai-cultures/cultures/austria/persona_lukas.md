@@ -27,7 +27,7 @@ Ein junger Wiener Ende zwanzig, daheim in der offenen, vernetzten Welt, in Start
 
 ## Action
 
-Er lebt den [Schmäh](position_schmaeh.md) als lockeren, ironischen Ton, sagt "passt scho" und sitzt im [Kaffeehaus](process_kaffeehaus.md) mit dem Laptop, ehe er am Wochenende auf den Berg fährt. Das Eigene, Nicht-Deutsche trägt er selbstbewusst, ohne sich daran festzuhalten.
+Er lebt den [Schmäh](position_schmaeh.md) als lockeren, ironischen Ton, sagt "passt scho" und sitzt im [Kaffeehaus](process_kaffeehaus.md) mit dem Laptop, ehe er am Wochenende auf den Berg fährt. Das Eigene, Nicht-Deutsche trägt er selbstbewusst, ohne sich daran festzuhalten, und die ehrlichere Sicht auf die eigene Vergangenheit, die erst [die Waldheim-Affäre](plot_10_waldheim_1986.md) erzwang, ist ihm ebenso selbstverständlich wie die Sprachen, zwischen denen er wechselt.
 
 ## Shadow
 
