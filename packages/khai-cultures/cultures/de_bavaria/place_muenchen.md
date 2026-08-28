@@ -26,7 +26,7 @@ Die Landeshauptstadt Bayerns, an der Isar gelegen. Eine Stadt von barocker Prach
 ## Holds
 
 - das [Oktoberfest](process_oktoberfest.md): das weltweit größte Volksfest auf der Theresienwiese.
-- den [Laptop und Lederhose 1980er](plot_03_laptop_lederhosen.md) Wandel: die Metropole, in der die moderne Industrie wächst.
+- den [Laptop und Lederhose 1980er](plot_08_laptop_lederhosen.md) Wandel: die Metropole, in der die moderne Industrie wächst.
 
 ## Offers
 
