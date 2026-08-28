@@ -1747,6 +1747,11 @@
           "taxonomy": "play_austria.md"
         },
         {
+          "file": "place_ischgl.md",
+          "kind": "place",
+          "title": "Ischgl"
+        },
+        {
           "file": "place_salzburg.md",
           "kind": "place",
           "title": "Salzburg"
@@ -1768,7 +1773,7 @@
           "title": "Austria"
         },
         {
-          "file": "plot_01_hallstatt_und_noricum.md",
+          "file": "plot_00_hallstatt_und_noricum.md",
           "kind": "plot",
           "title": "Hallstatt and Noricum",
           "taxonomy": "play_austria.md"
@@ -1837,6 +1842,12 @@
           "file": "plot_12_waldheim_1986.md",
           "kind": "plot",
           "title": "The Waldheim Affair 1986",
+          "taxonomy": "play_austria.md"
+        },
+        {
+          "file": "plot_99_das_video_und_der_berg.md",
+          "kind": "plot",
+          "title": "The Video and the Mountain, since 2015",
           "taxonomy": "play_austria.md"
         },
         {
