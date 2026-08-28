@@ -25,7 +25,7 @@ Die Zeche Zollverein in Essen. Ein weitläufiges Industrieareal, dominiert von d
 
 ## Holds
 
-- die Industriegeschichte im Plot [Die Industrialisierung des Ruhrgebiets ab 1850](plot_01_ruhr_coal_1850.md) : das Symbol des Steinkohlebergbaus.
+- die Industriegeschichte im Plot [Die Industrialisierung des Ruhrgebiets ab 1850](plot_02_ruhr_coal_1850.md) : das Symbol des Steinkohlebergbaus.
 
 ## Offers
 
