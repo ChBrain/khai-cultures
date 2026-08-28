@@ -22,7 +22,7 @@ Parent group: pieces
 
 ## Place
 
-Im Berg, seit der Bronzezeit herausgeholt, in Hallstatt und am Dürrnberg über [Salzburg](place_salzburg.md). Es steckt in den Ortsnamen des halben Landes, in der Salzach, im Salzkammergut, und in der Stadt, deren Burg nach ihm heisst.
+Im Berg, seit der Bronzezeit herausgeholt, in Hallstatt und am Dürrnberg über Hallein, im Land um [Salzburg](place_salzburg.md). Es steckt in den Ortsnamen des halben Landes, in der Salzach, im Salzkammergut, und in der Stadt, deren Burg nach ihm heisst.
 
 ## Load Bearing
 

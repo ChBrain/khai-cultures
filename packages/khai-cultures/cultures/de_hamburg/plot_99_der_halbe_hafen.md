@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Expensive Decade"
-declared: "Das teure Jahrzehnt"
+title: "Half the Port"
+declared: "Der halbe Hafen"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -9,7 +9,7 @@ stamp:
   date: "2026-08-28"
 ---
 
-# Plot: Das teure Jahrzehnt
+# Plot: Der halbe Hafen
 
 ## Taxonomy
 

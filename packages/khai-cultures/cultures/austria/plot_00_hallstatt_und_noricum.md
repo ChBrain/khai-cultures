@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Im Berg über einem See im Salzkammergut liegt [Salz](piece_salz.md), und die Leute holen es seit der Bronzezeit heraus. Um 750 vor Christus ist daraus eine Kultur geworden, die so kennzeichnend ist, dass die europäische Archäologie die ganze ältere Eisenzeit nach diesem Ort benennt: die Hallstattzeit. Dieselben Stollen gibt es am Dürrnberg über [Salzburg](place_salzburg.md), dessen Name nichts anderes sagt.
+Im Berg über einem See im Salzkammergut liegt [Salz](piece_salz.md), und die Leute holen es seit der Bronzezeit heraus. Um 750 vor Christus ist daraus eine Kultur geworden, die so kennzeichnend ist, dass die europäische Archäologie die ganze ältere Eisenzeit nach diesem Ort benennt: die Hallstattzeit. Dieselben Stollen gibt es am Dürrnberg über Hallein, im Land um [Salzburg](place_salzburg.md), dessen Name nichts anderes sagt.
 
 ## Action
 
@@ -31,7 +31,7 @@ Salz macht Fleisch haltbar, und wer es hat, handelt. In den Gräbern von Hallsta
 ## Stage
 
 - [Salz](piece_salz.md): das Mineral, aus dem hier Handel, Reichtum und schliesslich ein Name wurden.
-- [Salzburg](place_salzburg.md): die Salzburg, deren Bergwerke am Dürrnberg dieselben Kelten betrieben.
+- [Salzburg](place_salzburg.md): die Salzburg, in deren Land am Dürrnberg über Hallein dieselben Kelten gruben.
 
 ## Tension
 

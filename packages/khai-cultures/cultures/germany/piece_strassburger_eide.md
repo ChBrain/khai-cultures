@@ -25,7 +25,7 @@ Nicht in einem Museum, sondern in einer Handschrift: der Chronist Nithard hat de
 
 ## Load Bearing
 
-Er ist der Beweis, dass es diese Sprache gab, bevor jemand sie für schreibenswert hielt. Ohne ihn begänne das Deutsche erst bei den Mönchen, die es später aufschrieben, und die Behauptung dieses Landes, es sei ein Volk seiner Sprache und nicht seiner Herrscher, hätte kein Datum.
+Er ist der Beweis, dass diese Sprache staatsfähig war. Geschrieben hatten sie Mönche schon vorher, in Glossaren und in einem Heldenlied; hier aber wird in ihr geschworen, vor Heeren, mit rechtlicher Wirkung und gleichrangig neben dem Romanischen der anderen Seite. Ohne ihn hätte die Behauptung dieses Landes, es sei ein Volk seiner Sprache und nicht seiner Herrscher, kein Datum.
 
 ## Apparent
 

@@ -84,5 +84,37 @@ completed, because the country's reckoning with 1938 to 1945 remained partial
 even after Waldheim and after Vranitzky's 1991 speech, and no plot here invents a
 reckoning more finished than the one the country actually had.
 
+## The word Anschluss, and why it echoes
+
+[plot_00_hallstatt_und_noricum.md](plot_00_hallstatt_und_noricum.md) closes its
+Tension on the habit of growing "durch Anschluss statt durch Eroberung" — by
+accession rather than by conquest — and says that habit will stay Austrian for
+two millennia, "im Guten wie später im Schlimmsten". The word is chosen. It is
+meant to be heard again in [plot_10_anschluss_1938.md](plot_10_anschluss_1938.md),
+and in the 1918 assembly's forbidden vote for union that
+[plot_09_zerfall_1918.md](plot_09_zerfall_1918.md) stages.
+
+That is an interpretive choice and it is recorded here so the next hand reads a
+decision rather than re-litigating one. Read as history it would be indefensible:
+a continuous national character running from Noricum's treaty with Rome to 1938
+is exactly the kind of two-thousand-year teleology historians reject, and it can
+be made to sound like an excuse — the country did not choose, it merely
+continued. No such claim is made anywhere in this culture. The plots that carry
+1938 name the crime as Austria's own doing, and the Moscow Declaration note above
+says why.
+
+It is kept because a play's Tension is not a causal claim; it is the question the
+scene leaves open, and the chapter is written as a habit that can go either way,
+not as a fate. What the origin plot asserts is narrow and defensible: a polity
+formed on a pass and a saltworks lives by connection rather than by force, and a
+country that has grown by joining is a country for which joining is always
+available as an idea. Whether that idea was reached for in 1918 and in 1938 is
+the play's question, asked across nine plots, and it is not answered by the word.
+
+The bound on this framing: it belongs in Tension chapters and nowhere else. No
+plot Stage here explains 1938 by Noricum, and none should. If a later hand finds
+the echo doing more work than a question can carry, the fix is to cut the last
+clause of the origin plot's Tension, not to add a defence of it.
+
 Content is CC-BY-NC-SA, code is MIT; public-domain sources are credited, never
 claimed.
