@@ -33,5 +33,5 @@ Eine backsteinerne Fassade des 19. Jahrhunderts, dicht bemalt mit Parolen und Tr
 
 ## Yearbook
 
-- Im Zentrum der Krawalle um den G20-Gipfel im Plot [Das teure Jahrzehnt](plot_99_das_teure_jahrzehnt.md), ohne dass der Stadt ein Vorgehen gegen das Haus gelingt.
+- Im Zentrum der Krawalle um den G20-Gipfel im Plot [Der halbe Hafen](plot_99_der_halbe_hafen.md), ohne dass der Stadt ein Vorgehen gegen das Haus gelingt.
 - Seit Jahrzehnten Symbol der Auseinandersetzung darüber, wieviel unangepasstes Leben eine sanierte Innenstadt noch trägt, dieselbe Frage wie am Kiez von St. Pauli.
