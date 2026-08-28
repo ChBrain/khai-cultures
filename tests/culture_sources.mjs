@@ -29,6 +29,7 @@
 // The manifest says what a package is; this file only reads it.
 
 import { readdirSync, existsSync, readFileSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 import { join, dirname, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -185,6 +186,101 @@ export function pathCulture(p, workspace = WORKSPACE) {
     }
   }
   return null;
+}
+
+/**
+ * A culture somebody WROTE IN, as opposed to one a rewrite passed through.
+ *
+ * The content ratchets fire on the cultures a pull request touches, and that was
+ * the right rule while every change to a culture was somebody writing in it. The
+ * tongue walk breaks it. Moving one variety into the tongues package rewrites the
+ * link in every culture that casts it - `en_gb` alone is ninety-four - and under
+ * a plain touch rule each of those ninety-four is then asked for zero dead
+ * Company entries, a conforming id and a nesting link it never owed. Twenty-one
+ * were asked on the day this was written, and the answer would have been either a
+ * pull request that renames Illinois and invents scenes in Turkey and Ukraine to
+ * satisfy a counter - which this house forbids in as many words - or no tongue
+ * walk at all.
+ *
+ * So the ratchets ask this instead, and the rule is decidable and narrow: a
+ * culture is AUTHORED when any of its changed files differs in something other
+ * than the target of a markdown link. Rewrite `](../germany/x.md)` to
+ * `](@scope/pkg/x.md)` and the culture is untouched by the ratchets; change one
+ * word of prose in the same file and it is authored, and owes everything it owed
+ * before. Adding a file, deleting one, or renaming one is authoring too: only a
+ * link's destination is exempt, because only a link's destination is something
+ * the walk moves out from under a culture that had no part in it.
+ *
+ * This is the ratchet's own stated intent and not a softening of it: nobody is
+ * asked to pay for a culture they did not open, and the debt still only shrinks.
+ * What is exempted is printed, never silent.
+ */
+const LINK_TARGET = /\]\([^()\s]*\)/g;
+const blindLinks = (text) => text.replace(LINK_TARGET, "](-)");
+
+function show(ref, path, workspace) {
+  try {
+    return execFileSync("git", ["show", `${ref}:${path}`], {
+      cwd: workspace,
+      encoding: "utf8",
+      maxBuffer: 32 * 1024 * 1024,
+      stdio: ["ignore", "pipe", "ignore"],
+    });
+  } catch {
+    return null; // added on one side, deleted on the other: not a relink
+  }
+}
+
+/** Whether a file's whole change is where its links point. */
+export function relinkOnly(path, base, head, workspace = WORKSPACE) {
+  if (!path.endsWith(".md")) return false;
+  const before = show(base, path, workspace);
+  const after = show(head, path, workspace);
+  if (before === null || after === null) return false;
+  return blindLinks(before) === blindLinks(after);
+}
+
+/**
+ * The cultures a change authors, and the ones it only relinked.
+ *
+ * `{ authored: Map<id, string[]>, relinked: string[] }` - the map's values are
+ * the repository paths that carry real changes, so a caller asking "were the
+ * PLOTS authored" reads them rather than running its own diff.
+ */
+export function authoredCultures(base, head, workspace = WORKSPACE) {
+  const changed = execFileSync("git", ["diff", "--name-only", base, head], {
+    cwd: workspace,
+    encoding: "utf8",
+    maxBuffer: 32 * 1024 * 1024,
+  })
+    .split("\n")
+    .filter(Boolean);
+
+  const byCulture = new Map();
+  for (const p of changed) {
+    const hit = pathCulture(p, workspace);
+    if (!hit) continue;
+    if (!byCulture.has(hit.id)) byCulture.set(hit.id, []);
+    byCulture.get(hit.id).push(p.trim().replace(/\\/g, "/"));
+  }
+
+  const authored = new Map();
+  const relinked = [];
+  for (const [id, paths] of byCulture) {
+    const real = paths.filter((p) => !relinkOnly(p, base, head, workspace));
+    if (real.length) authored.set(id, real.sort());
+    else relinked.push(id);
+  }
+  return { authored, relinked: relinked.sort() };
+}
+
+/** One line for a gate to print, so an exemption is never silent. */
+export function relinkNote(relinked) {
+  if (!relinked.length) return null;
+  return (
+    `  ${relinked.length} culture(s) only had a link retargeted and are not charged: ` +
+    `${relinked.join(", ")}`
+  );
 }
 
 /** The cultures a list of changed repository paths touches. */

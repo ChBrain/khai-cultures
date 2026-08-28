@@ -32,12 +32,13 @@
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
-import { execFileSync } from "node:child_process";
 
 import {
   cultureDir,
   cultureIds as sourceCultureIds,
   touchedCultures as sourceTouchedCultures,
+  authoredCultures,
+  relinkNote,
 } from "./culture_sources.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
@@ -195,14 +196,6 @@ export function touchedCultures(paths) {
   return sourceTouchedCultures(paths);
 }
 
-function changedPaths(base, head) {
-  const out = execFileSync("git", ["diff", "--name-only", `${base}`, `${head}`], {
-    encoding: "utf8",
-    maxBuffer: 32 * 1024 * 1024,
-  });
-  return out.split("\n").filter(Boolean);
-}
-
 const TOP = 20;
 
 // The house-wide picture. It shows the worst cultures, not all of them, because
@@ -253,11 +246,17 @@ function reportCulture(id) {
 }
 
 function gate(base, head) {
-  const touched = touchedCultures(changedPaths(base, head));
+  // Authored, not merely touched: a culture whose only change is where a link
+  // points was not opened by this pull request. See authoredCultures().
+  const { authored, relinked } = authoredCultures(base, head);
+  const touched = [...authored.keys()].sort();
+  const note = relinkNote(relinked);
   if (!touched.length) {
-    console.log("Company coverage: no culture touched, nothing to hold to zero.");
+    console.log("Company coverage: no culture authored, nothing to hold to zero.");
+    if (note) console.log(note);
     return 0;
   }
+  if (note) console.log(note);
   const offenders = [];
   const stale = [];
   for (const id of touched) {
@@ -270,11 +269,11 @@ function gate(base, head) {
       );
   }
   if (!offenders.length && !stale.length) {
-    console.log(`Company coverage OK: ${touched.length} touched culture(s), all at zero.`);
+    console.log(`Company coverage OK: ${touched.length} authored culture(s), all at zero.`);
     return 0;
   }
   if (offenders.length) {
-    console.error("::error::Company coverage: a touched culture must come out at zero.");
+    console.error("::error::Company coverage: a culture you write in must come out at zero.");
     for (const [id, dead] of offenders) {
       console.error(`  ${id}: ${dead.length} Company element(s) no plot fields`);
       for (const b of dead) console.error(`    ${b}`);

@@ -65,6 +65,40 @@ should be this culture's own or a dependency somebody has to decide on. A
 published production carries no `../`, so it is decided before the move, not
 after.
 
+## What counts as touching a culture
+
+A culture you **write in**. Not a culture a rewrite passed through.
+
+The distinction was not needed while every change to a culture was somebody
+writing in it, and the tongue walk destroyed that assumption on its first pull
+request. Moving `de_de` into the tongues package retargeted one link in
+twenty-one cultures that had nothing to do with the move, and the coverage and
+conformance ratchets duly asked all twenty-one for zero dead Company entries, a
+conforming id and a nesting link. Turkey owed five, Ukraine seven, Illinois a
+rename. The next variety is `en_gb`, and it is ninety-four.
+
+The two ways out of that were both wrong. Pay it, and the pull request that moves
+one tongue also renames a state and invents scenes in two countries to satisfy a
+counter, which this house forbids in as many words. Do not pay it, and there is
+no tongue walk, and therefore no migration, because the tongue moves first.
+
+So the rule is narrowed to what it always meant: **a culture is authored when any
+of its changed files differs in something other than the target of a markdown
+link.** Retarget `](../germany/x.md)` to `](@scope/pkg/x.md)` and the culture is
+not charged. Change one word of prose in the same file and it is authored, and
+owes everything it owed before. A file added, deleted or renamed is authoring
+either way — only a link's destination is exempt, because only a link's
+destination is a thing the walk moves out from under a culture that had no part
+in it.
+
+Three ratchets take the narrowed rule: coverage, sub-national conformance and
+plot zero. **Persona wiring does not**, and the reason is worth keeping: a
+retargeted tongue link IS a wiring change, and the gate that reads which tongue a
+persona grips is exactly the gate that should look at all ninety-four.
+
+The exemption is never silent. Each of the three prints the cultures it did not
+charge, by name, on the line above its result.
+
 ## What holds the house while it is in two pieces
 
 During the walk a culture lives in one of two homes and both are homes. Three
