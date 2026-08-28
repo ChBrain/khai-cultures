@@ -7401,27 +7401,39 @@
           "title": "Bavaria"
         },
         {
-          "file": "plot_01_kingdom_1806.md",
+          "file": "plot_01_reinheitsgebot_1516.md",
+          "kind": "plot",
+          "title": "The Purity Law 1516",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "plot_02_kingdom_1806.md",
           "kind": "plot",
           "title": "The Kingdom of Bavaria",
           "taxonomy": "play_bavaria.md"
         },
         {
-          "file": "plot_02_ludwig_neuschwanstein.md",
+          "file": "plot_03_drei_staemme_1806.md",
+          "kind": "plot",
+          "title": "The Integration of the Three Tribes",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "plot_04_ludwig_neuschwanstein.md",
           "kind": "plot",
           "title": "The Fairy-Tale King and his Castles",
           "taxonomy": "play_bavaria.md"
         },
         {
-          "file": "plot_03_laptop_lederhosen.md",
+          "file": "plot_05_freistaat_und_ordnungszelle.md",
           "kind": "plot",
-          "title": "Laptop and Lederhosen",
+          "title": "Free State and Ordnungszelle 1918 to 1923",
           "taxonomy": "play_bavaria.md"
         },
         {
-          "file": "plot_04_drei_staemme_1806.md",
+          "file": "plot_06_laptop_lederhosen.md",
           "kind": "plot",
-          "title": "The Integration of the Three Tribes",
+          "title": "Laptop and Lederhosen",
           "taxonomy": "play_bavaria.md"
         },
         {

@@ -73,21 +73,29 @@ Ein Land mit langer eigener Geschichte, das sich als eigenständiger Staat verst
 
 ## Triggers
 
-**[Plot 1: Das Königreich Bayern 1806](plot_01_kingdom_1806.md)**
+**[Plot 1: Das Reinheitsgebot 1516](plot_01_reinheitsgebot_1516.md)**
+
+Zwei Herzöge schreiben 1516 vor, was ins Bier darf, und ein Land macht daraus über Jahrhunderte seinen Ausweis: [das Reinheitsgebot](piece_reinheitsgebot.md) ist der Grund, warum Bayern 1871 nur unter Bedingungen ins Reich geht, und der Biergarten von 1812 übersetzt den Erlass in eine Lebensform.
+
+**[Plot 2: Das Königreich Bayern 1806](plot_02_kingdom_1806.md)**
 
 Bayern wird durch den Vertrag mit Napoleon zum souveränen Königreich erhoben. Es modernisiert seine Verwaltung und Gesetze, bewahrt aber seine Eigenständigkeit gegenüber dem preußischen Norden.
 
-**[Plot 2: Der Märchenkönig und seine Schlösser 1869](plot_02_ludwig_neuschwanstein.md)**
+**[Plot 3: Die Integration der drei Stämme ab 1806](plot_03_drei_staemme_1806.md)**
+
+Die Gebiete Franken und Schwaben werden dem Königreich Bayern angegliedert, wodurch sich die drei großen bayerischen Stämme mit ihren unterschiedlichen Dialekten und Kulturen unter einer Krone vereinen.
+
+**[Plot 4: Der Märchenkönig und seine Schlösser 1869](plot_04_ludwig_neuschwanstein.md)**
 
 König [Ludwig II](persona_ludwig.md) zieht sich aus der Politik zurück und baut in den [Alpen](place_alpen.md) fantastische Schlösser wie [Neuschwanstein](place_neuschwanstein.md). Seine Flucht vor der Realität schafft die steinernen Symbole einer bayerischen Identität.
 
-**[Plot 3: Laptop und Lederhose 1980er](plot_03_laptop_lederhosen.md)**
+**[Plot 5: Freistaat und Ordnungszelle 1918 bis 1923](plot_05_freistaat_und_ordnungszelle.md)**
+
+Kurt Eisner ruft 1918 [den Freistaat](position_freistaat.md) aus und wird drei Monate später erschossen. Aus Räterepublik und Niederschlagung wird die Ordnungszelle Bayern, und in ihren Bierhallen wächst die Bewegung heran, die 1923 den Putsch versucht.
+
+**[Plot 6: Laptop und Lederhose 1980er](plot_06_laptop_lederhosen.md)**
 
 Das agrarisch geprägte Land vollzieht den Strukturwandel zum High-Tech-Standort. [Amalie](persona_amalie.md) arbeitet in der modernen Industrie, während [Gustl](persona_gustl.md) die Traditionen der Heimat bewahrt.
-
-**[Plot 4: Die Integration der drei Stämme ab 1806](plot_04_drei_staemme_1806.md)**
-
-Die Gebiete Franken und Schwaben werden dem Königreich Bayern angegliedert, wodurch sich die drei großen bayerischen Stämme mit ihren unterschiedlichen Dialekten und Kulturen unter einer Krone vereinen.
 
 ## Stakes
 

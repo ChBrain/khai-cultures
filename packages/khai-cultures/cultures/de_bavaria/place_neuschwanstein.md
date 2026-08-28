@@ -25,7 +25,7 @@ Das weiße Schloss auf einem steilen Felsen vor den Bergen bei Füssen, erbaut i
 
 ## Holds
 
-- den [Märchenkönig und seine Schlösser 1869](plot_02_ludwig_neuschwanstein.md): der Ort, an dem sich die Sehnsucht Ludwigs nach absolutem Königtum in Stein manifestierte.
+- den [Märchenkönig und seine Schlösser 1869](plot_04_ludwig_neuschwanstein.md): der Ort, an dem sich die Sehnsucht Ludwigs nach absolutem Königtum in Stein manifestierte.
 
 ## Offers
 

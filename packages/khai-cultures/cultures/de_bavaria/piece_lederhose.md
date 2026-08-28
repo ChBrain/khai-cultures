@@ -35,4 +35,4 @@ Eine kurze oder kniehohe Hose aus gegerbtem Hirsch- oder Ziegenleder, oft reich 
 
 - Getragen von [Gustl](persona_gustl.md) im täglichen Leben und auf dem Hof.
 - Gezeigt auf dem [Oktoberfest](process_oktoberfest.md) als Zeichen der festlichen bayerischen Geselligkeit.
-- Gesehen im Slogan [Laptop und Lederhose 1980er](plot_03_laptop_lederhosen.md) als Symbol für die Bewahrung der Identität im Wandel.
+- Gesehen im Slogan [Laptop und Lederhose 1980er](plot_06_laptop_lederhosen.md) als Symbol für die Bewahrung der Identität im Wandel.
