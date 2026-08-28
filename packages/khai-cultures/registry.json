@@ -32291,7 +32291,7 @@
           "title": "Switzerland"
         },
         {
-          "file": "plot_01_helvetier_und_die_vier_zonen.md",
+          "file": "plot_00_helvetier_und_die_vier_zonen.md",
           "kind": "plot",
           "title": "The Helvetii and the Four Zones",
           "taxonomy": "play_switzerland.md"
@@ -32354,6 +32354,12 @@
           "file": "plot_11_ewr_1992.md",
           "kind": "plot",
           "title": "No to the European Economic Area 1992",
+          "taxonomy": "play_switzerland.md"
+        },
+        {
+          "file": "plot_99_was_halten_sollte.md",
+          "kind": "plot",
+          "title": "What Was Supposed to Hold, since 2014",
           "taxonomy": "play_switzerland.md"
         },
         {
