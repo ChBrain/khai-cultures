@@ -10,6 +10,7 @@
   "type": "module",
   "files": [
     "cultures/**",
+    "groups/**",
     "registry.json",
     "playwright_instructions.md",
     "README.md",
