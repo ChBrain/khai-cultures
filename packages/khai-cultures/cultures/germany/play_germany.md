@@ -62,6 +62,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 **Pieces**
 
 - [das Grundgesetz](piece_grundgesetz.md)
+- [die Straßburger Eide](piece_strassburger_eide.md)
 - [das Hermannsdenkmal](piece_hermannsdenkmal.md)
 - [die Stolpersteine](piece_stolpersteine.md)
 - [das Brot](piece_brot.md)
@@ -77,6 +78,10 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [die Erinnerungskultur](plan_erinnerungskultur.md)
 
 ## Triggers
+
+**[Plot 0: Theodiscus und die Straßburger Eide](plot_00_theodiscus_und_die_strassburger_eide.md)**
+
+786 bekommt die Sprache des Volkes einen Namen, _theodiscus_, und 842 schwören zwei Enkel Karls des Grossen in Strassburg so, dass die Truppen der Gegenseite es verstehen. [Die Eide](piece_strassburger_eide.md) sind der älteste Text dieser Sprache, und aus ihrem Namen wird der Name eines Volkes: kein Stamm, kein Gründer, sondern die Sprache selbst.
 
 **[Plot 1: Die Reformation 1517](plot_01_reformation.md)**
 
@@ -113,6 +118,10 @@ Der Ölschock stellt das Land, das seinen Wohlstand aufs Rad gesetzt hat, für v
 **[Plot 9: Der Mauerfall 1989/90](plot_09_mauerfall.md)**
 
 Die Mauer fällt, und zwei getrennte Hälften wachsen wieder zusammen. [Kohl](persona_kohl.md) treibt die Einheit voran, während [Elke](persona_elke.md), im Osten geprägt, erlebt, wie eine ganze Lebensordnung über Nacht zerbricht und neu gefügt werden muss.
+
+**[Plot 99: Das offene Jahrzehnt, seit 2015](plot_99_das_offene_jahrzehnt.md)**
+
+Eine Million Schutzsuchende, ein neuer Einzug in den Bundestag, die letzte Zeche zu, die letzten Meiler ab und die geburtenstarken Jahrgänge in Rente. Ein Befund und keine Vorhersage: das Jahrzehnt ist noch nicht entschieden.
 
 ## Stakes
 
