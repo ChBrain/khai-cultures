@@ -67,6 +67,16 @@ function section(text, name) {
   return next ? rest.slice(0, next.index) : rest;
 }
 
+/** Every `## Section` of a markdown document, as { name: body }. */
+function sections(text) {
+  const out = {};
+  for (const part of text.split(/^## /m).slice(1)) {
+    const nl = part.indexOf("\n");
+    out[part.slice(0, nl).trim()] = part.slice(nl);
+  }
+  return out;
+}
+
 /** One culture's waivers: { "<file>.md": "<written reason>" }. */
 export function readWaivers(id, root = ROOT) {
   const path = join(root, "cultures", id, WAIVERS_FILE);
@@ -128,8 +138,42 @@ export function coverage(id, { root = ROOT } = {}) {
   return {
     dead: uncast.filter((b) => !waivedHere[b]).sort(),
     waived: uncast.filter((b) => waivedHere[b]).sort(),
+    // A waiver excuses something no plot fields. Once a plot fields it, the
+    // waiver is a second and contradictory statement about the same entry, and
+    // casting by consequence produces exactly that drift: the plot gains the
+    // persona, the waiver that stood in for it stays behind. Both DACH branches
+    // had to remove theirs by hand. See management/orders/order_casting_by_
+    // consequence.md - this is the one part of that order a script can decide.
+    superseded: Object.keys(waivedHere)
+      .filter((b) => cast.has(b))
+      .sort(),
     company: [...company].sort(),
   };
+}
+
+/**
+ * Personas a plot casts only in its Tension: the queue of consequence-castings.
+ *
+ * Reported, never gated. A script can see that a persona is cast as what an
+ * event left rather than as someone present at it; it cannot tell whether the
+ * thread back to the event is real. That is the Virginia test - "invention
+ * rather than consequence" - and it belongs to a person.
+ */
+export function consequences(root = ROOT) {
+  const out = [];
+  for (const id of cultureIds(root)) {
+    const dir = join(root, "cultures", id);
+    const files = readdirSync(dir).filter((f) => f.endsWith(".md"));
+    const personas = new Set(files.filter((f) => f.startsWith("persona_")));
+    const where = new Map();
+    for (const plot of files.filter((f) => f.startsWith("plot_")))
+      for (const [name, body] of Object.entries(sections(readFileSync(join(dir, plot), "utf8"))))
+        for (const b of linkBasenames(body))
+          if (personas.has(b)) (where.get(b) ?? where.set(b, new Set()).get(b)).add(name);
+    for (const [b, secs] of where)
+      if (secs.size === 1 && secs.has("Tension")) out.push(`${id}/${b}`);
+  }
+  return out.sort();
 }
 
 /** Cultures a set of changed paths touches. */
@@ -218,29 +262,46 @@ function gate(base, head) {
     return 0;
   }
   const offenders = [];
+  const stale = [];
   for (const id of touched) {
-    const { dead, waived } = coverage(id);
+    const { dead, waived, superseded } = coverage(id);
+    if (superseded.length) stale.push([id, superseded]);
     if (dead.length) offenders.push([id, dead]);
     else
       console.log(
         `Company coverage OK: "${id}" is at zero${waived.length ? ` (${waived.length} waived)` : ""}.`,
       );
   }
-  if (!offenders.length) {
+  if (!offenders.length && !stale.length) {
     console.log(`Company coverage OK: ${touched.length} touched culture(s), all at zero.`);
     return 0;
   }
-  console.error("::error::Company coverage: a touched culture must come out at zero.");
-  for (const [id, dead] of offenders) {
-    console.error(`  ${id}: ${dead.length} Company element(s) no plot fields`);
-    for (const b of dead) console.error(`    ${b}`);
+  if (offenders.length) {
+    console.error("::error::Company coverage: a touched culture must come out at zero.");
+    for (const [id, dead] of offenders) {
+      console.error(`  ${id}: ${dead.length} Company element(s) no plot fields`);
+      for (const b of dead) console.error(`    ${b}`);
+    }
+    console.error(
+      "\n  Fix: cast each one in the plot whose scene needs it, or drop it from the play's Company.\n" +
+        "  If casting it would be anachronistic or contrived, waive it with a reason in\n" +
+        "  cultures/<id>/coverage-waivers.json. Positions held one way (language, culture),\n" +
+        "  plans and pitches are never counted.",
+    );
   }
-  console.error(
-    "\n  Fix: cast each one in the plot whose scene needs it, or drop it from the play's Company.\n" +
-      "  If casting it would be anachronistic or contrived, waive it with a reason in\n" +
-      "  cultures/<id>/coverage-waivers.json. Positions held one way (language, culture),\n" +
-      "  plans and pitches are never counted.",
-  );
+  if (stale.length) {
+    console.error("::error::Company coverage: a waiver for something a plot now casts.");
+    for (const [id, entries] of stale) {
+      console.error(`  ${id}: ${entries.length} waiver(s) the play has outgrown`);
+      for (const b of entries) console.error(`    ${b}`);
+    }
+    console.error(
+      "\n  A waiver excuses something no plot fields. Once a plot fields it, the waiver is a\n" +
+        "  second and contradictory statement about the same entry - which is the drift casting\n" +
+        "  by consequence produces: the plot gains the persona and the waiver stays behind.\n" +
+        "  Delete the entry (and the file, if it is the last one).",
+    );
+  }
   return 1;
 }
 
@@ -248,7 +309,17 @@ function gate(base, head) {
 // module importing the other would run its report as a side effect.
 const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
 const argv = isMain ? process.argv.slice(2) : [];
-if (argv.includes("--culture")) process.exit(reportCulture(argv[argv.indexOf("--culture") + 1]));
+if (argv.includes("--consequences")) {
+  const rows = consequences();
+  console.log(`cast only by a Tension: ${rows.length}`);
+  for (const r of rows) console.log(`  ${r}`);
+  console.log(
+    "\n  Read each against the Virginia test: does the plot MAKE the world this persona\n" +
+      "  lives in, with a named mechanism? If not it is invention, and wants a waiver or a\n" +
+      "  plot. See management/orders/order_casting_by_consequence.md.",
+  );
+} else if (argv.includes("--culture"))
+  process.exit(reportCulture(argv[argv.indexOf("--culture") + 1]));
 else if (argv.includes("--report")) report({ all: argv.includes("--all") });
 else if (argv.includes("--gate")) {
   const base = argv[argv.indexOf("--base") + 1];

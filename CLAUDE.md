@@ -90,13 +90,24 @@ its plots. Pitches, language and culture positions, and plans are never counted
 (they are keyed or held one way, not fielded in a scene). Check before you push:
 
 ```
-node tests/company_coverage.mjs --report
+node tests/company_coverage.mjs --culture <id>
 ```
+
+Ask about the culture, never grep `--report`: it prints the worst twenty and a
+culture's absence from that list is not zero.
 
 The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
 casting something would be anachronistic or contrived, waive it with a reason in
 `packages/khai-cultures/cultures/<id>/coverage-waivers.json`; never invent a scene
 to satisfy a counter.
+
+A persona born after the last plot has a third option besides a scene and a
+waiver: the plot may cast them in its **Tension** as what the event produced.
+Ohio's Harper works out of the Cleveland the collapse left behind. The test, and
+where it goes, and what it must never be used to dodge, are in
+[Casting by Consequence](management/orders/order_casting_by_consequence.md); the
+one decidable part is a gate, because a waiver the play has outgrown is now an
+error.
 
 ## The tongues stand alone
 
