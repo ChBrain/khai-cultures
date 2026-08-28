@@ -34,8 +34,11 @@ Zwischen Bankentürmen und Apfelweinkneipen liegt kaum ein Kilometer, und genau 
 
 **Places**
 
+- [Geismar](place_geismar.md)
 - [die Paulskirche](place_paulskirche.md)
 - [das Bankenviertel](place_bankenviertel.md)
+- [Kassel](place_kassel.md)
+- [Hanau](place_hanau.md)
 
 **Processes**
 
@@ -53,6 +56,7 @@ Zwischen Bankentürmen und Apfelweinkneipen liegt kaum ein Kilometer, und genau 
 
 - [der Bembel](piece_bembel_jug.md)
 - [die Landesverfassung](piece_charta.md)
+- [die Donar-Eiche](piece_donar_eiche.md)
 
 **Pitches**
 
@@ -63,6 +67,10 @@ Zwischen Bankentürmen und Apfelweinkneipen liegt kaum ein Kilometer, und genau 
 - [die grüne Finanzwirtschaft](plan_finanzplatz.md)
 
 ## Triggers
+
+**[Plot 0: Die Donar-Eiche von Geismar 723](plot_00_donar_eiche_geismar_723.md)**
+
+Bei Geismar unweit Fritzlar fällt der Missionar Bonifatius die dem Donar geweihte Eiche der noch heidnischen Hessi und baut aus ihrem Holz eine erste Kapelle, das Volk, dessen Name einmal Hessen heißen wird, tritt hier als handelnde Gemeinschaft in die Schrift ein.
 
 **[Plot 1: Das Frankfurter Paulskirchenparlament 1848](plot_01_frankfurt_constitution_1848.md)**
 
@@ -76,6 +84,10 @@ Die amerikanische Militärregierung unterzeichnet die Proklamation zur Errichtun
 
 Mit der Gründung der Bank deutscher Länder und der späteren Ansiedlung der EZB wird Frankfurt zum führenden Finanzzentrum Kontinentaleuropas.
 
+**[Plot 99: Rechter Terror und die eigenen Akten, 2019 und 2020](plot_99_rechter_terror_2019_2020.md)**
+
+Ein Regierungspräsident wird 2019 für sein öffentliches Eintreten für Geflüchtete erschossen, ein rassistischer Anschlag tötet 2020 neun Menschen in zwei Hanauer Shisha-Bars, und parallel dazu liefert die eigene Polizei einer rechtsextremen Drohserie die privaten Daten ihrer Ziele.
+
 ## Stakes
 
-Ob eine Region, die Bankenturm und Apfelweinkneipe an einem Tisch verträgt, ihre soziale Balance und ihren bezahlbaren Wohnraum hält, wenn Zuzug und Wirtschaftswachstum das Rhein-Main-Gebiet weiter verdichten.
+Ob eine Region, die Bankenturm und Apfelweinkneipe an einem Tisch verträgt, die Offenheit, die sie sich an diesem Tisch zuschreibt, auch dann trägt, wenn sie angegriffen wird und der eigene Apparat dabei nicht verlässlich auf der richtigen Seite steht, und ob ihre soziale Balance zugleich dem Druck standhält, den Zuzug und Wachstum auf den Wohnraum im Rhein-Main-Gebiet ausüben.
