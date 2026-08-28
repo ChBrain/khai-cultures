@@ -21,3 +21,27 @@ Measured across all 290 cultures and both open DACH branches: Etter, Urs and
 Katharina clean, Vreni — the one real fault, fixed in #425 — still caught. No
 false positives left, so the check stays blocking rather than being demoted to
 a report.
+
+---
+
+**And every ratchet was passing by checking nothing.** Found while this branch
+was in flight, on #429's own CI:
+
+```
+Persona wiring: no culture touched.
+```
+
+— on a pull request that adds five plots and five personas to Switzerland.
+`touchedCultures` matched `^cultures/<id>/` as a literal; the workspace move
+renamed the content root to `packages/khai-cultures/cultures/<id>/`, and all
+three ratchets route through that one function. Coverage, sub-national
+conformance and persona wiring have all been green by reading nothing since the
+move.
+
+This is #424's failure in the sibling function, and #424's guard could not see
+it: the house reads fine, it is the _touched set_ that comes back empty — and
+an empty touched set is legitimate, every governance pull request has one, so
+it cannot simply refuse. The prefix is therefore derived from `ROOT` rather
+than typed, so one move updates all three, and a test pins it: a path taken out
+of the real tree, spelled the way `git diff --name-only` prints it, asserted to
+resolve back to the culture it came from.
