@@ -30,8 +30,8 @@ Dass man die lokalen Wirtshäuser und Streuobstwiesen schützt, den nachbarschaf
 
 ## Loses
 
-An Bedeutung, wenn Gentrifizierung die alten Wirtshäuser verdrängt oder wenn das soziale Zusammenleben zunehmend unpersönlich wird.
+An Bedeutung, wenn Gentrifizierung die alten Wirtshäuser verdrängt oder wenn das soziale Zusammenleben zunehmend unpersönlich wird, und an ihrem eigenen Versprechen gemessen, wenn rassistische Gewalt genau die Orte trifft, an denen es angeblich keine Rolle spielt, wer am Tisch sitzt.
 
 ## Drives
 
-Wird verkörpert durch das Symbol [der Bembel](piece_bembel_jug.md) und lenkt das Handeln der Wirte im Plot [Das Frankfurter Paulskirchenparlament 1848](plot_01_frankfurt_constitution_1848.md).
+Wird verkörpert durch das Symbol [der Bembel](piece_bembel_jug.md), lenkt das Handeln der Wirte im Plot [Das Frankfurter Paulskirchenparlament 1848](plot_01_frankfurt_constitution_1848.md), und wird im Plot [Rechter Terror und die eigenen Akten, 2019 und 2020](plot_99_rechter_terror_2019_2020.md) an ihren eigenen Anspruch erinnert.
