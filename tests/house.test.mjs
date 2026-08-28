@@ -5,7 +5,12 @@ import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { validateProject } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
-import { coverage, cultureIds as coveredCultureIds, allWaivers } from "./company_coverage.mjs";
+import {
+  coverage,
+  cultureIds as coveredCultureIds,
+  allWaivers,
+  touchedCultures,
+} from "./company_coverage.mjs";
 import { standalone } from "./tongues_standalone.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
 
@@ -249,5 +254,38 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
 
   it("the tongues package still declares which tongues nobody acquires first", () => {
     expect(noMotherTongue().size).toBeGreaterThan(0);
+  });
+});
+
+// Every ratchet in this repository - coverage, sub-national conformance, persona
+// wiring - decides what to check by asking `touchedCultures` which cultures a
+// pull request's changed paths belong to. It carried the prefix as a literal,
+// the workspace move renamed the content root out from under it, and all three
+// gates went to "no culture touched" on pull requests that added plots and
+// personas. Green, and reading nothing - the same failure as an empty house,
+// one function over.
+//
+// The prefix is now derived, and this is what holds it there: a path taken out
+// of the real tree, made relative the way `git diff --name-only` prints it, and
+// asserted to resolve back to the culture it came from. Move the content root
+// again and this test fails, which is the whole point of writing it.
+describe("Cultures house: the ratchets can still see a touched culture", () => {
+  it("resolves a real content path back to its culture", () => {
+    const id = readdirSync(culturesDir, { withFileTypes: true })
+      .filter((e) => e.isDirectory())
+      .map((e) => e.name)
+      .sort()[0];
+    const file = readdirSync(join(culturesDir, id)).find((f) => f.endsWith(".md"));
+    const asGitPrints = ["packages", "khai-cultures", "cultures", id, file].join("/");
+    expect(
+      touchedCultures([asGitPrints]),
+      `a ratchet handed ${asGitPrints} saw no culture, so every ratchet is passing by checking nothing`,
+    ).toEqual([id]);
+  });
+
+  it("does not claim a culture for a path outside the content root", () => {
+    expect(
+      touchedCultures(["tests/house.test.mjs", "packages/khai-cultures-tongues/de/x.md"]),
+    ).toEqual([]);
   });
 });
