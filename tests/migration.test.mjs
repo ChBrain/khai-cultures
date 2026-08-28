@@ -209,9 +209,9 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
   it("exempts a culture whose whole change is where a link points", () => {
     const { repo, base, relinked } = twoCommits();
     try {
-      const { authored, relinked: exempt } = authoredCultures(base, relinked, repo);
+      const { authored, spared } = authoredCultures(base, relinked, repo);
       expect([...authored.keys()]).toEqual([]);
-      expect(exempt).toEqual(["alpha"]);
+      expect(spared).toEqual(["alpha"]);
     } finally {
       rmSync(repo, { recursive: true, force: true });
     }
@@ -220,9 +220,9 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
   it("charges a culture for one word of prose in the same file", () => {
     const { repo, base, written } = twoCommits();
     try {
-      const { authored, relinked: exempt } = authoredCultures(base, written, repo);
+      const { authored, spared } = authoredCultures(base, written, repo);
       expect([...authored.keys()]).toEqual(["alpha"]);
-      expect(exempt).toEqual([]);
+      expect(spared).toEqual([]);
     } finally {
       rmSync(repo, { recursive: true, force: true });
     }
@@ -234,6 +234,52 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
     expect(
       relinkOnly("packages/khai-cultures/cultures/nope/persona_nobody.md", "HEAD", "HEAD"),
     ).toBe(false);
+  });
+  it("does not charge a culture for moving into its own package", () => {
+    // The case the first migration found. A culture whose whole change is a
+    // directory rename plus a manifest has not been written in, and demanding an
+    // origin plot for it would be answered with a bad plot_00, which is worse
+    // than none. This house settled the same rule once before, when the
+    // sub-national rename deadlocked against changeset-check.
+    const repo = mkdtempSync(join(tmpdir(), "khai-moved-"));
+    const git = (...args) => execFileSync("git", args, { cwd: repo, encoding: "utf8" });
+    try {
+      git("init", "-q", "-b", "main");
+      git("config", "user.email", "t@example.com");
+      git("config", "user.name", "t");
+      const from = join(repo, "packages", "khai-cultures", "cultures", "alpha");
+      mkdirSync(from, { recursive: true });
+      const play = "---\nkhai: play\n---\n\nA play with no origin plot at all.\n";
+      writeFileSync(join(from, "play_alpha.md"), play);
+      git("add", "-A");
+      git("commit", "-qm", "base");
+      const base = git("rev-parse", "HEAD").trim();
+
+      const to = join(repo, "packages", "khai-cultures-alpha");
+      mkdirSync(to, { recursive: true });
+      git(
+        "mv",
+        "packages/khai-cultures/cultures/alpha/play_alpha.md",
+        "packages/khai-cultures-alpha/play_alpha.md",
+      );
+      writeFileSync(
+        join(to, "package.json"),
+        JSON.stringify({
+          name: "@chbrain/khai-cultures-alpha",
+          khai: { class: "house", production: "alpha", anchor: "play_alpha.md" },
+        }),
+      );
+      writeFileSync(join(to, "LICENSE"), "text\n");
+      git("add", "-A");
+      git("commit", "-qm", "migrate");
+      const moved = git("rev-parse", "HEAD").trim();
+
+      const { authored, spared } = authoredCultures(base, moved, repo);
+      expect([...authored.keys()]).toEqual([]);
+      expect(spared).toEqual(["alpha"]);
+    } finally {
+      rmSync(repo, { recursive: true, force: true });
+    }
   });
 });
 

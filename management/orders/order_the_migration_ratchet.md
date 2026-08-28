@@ -48,7 +48,7 @@ It performs:
   with the umbrella declaring the dependency on their behalf;
 - the umbrella's own dependency on the production it let go.
 
-It refuses two things, and both need a person.
+It refuses three things. Two need a person; the third is an ordering.
 
 **A culture still holding its own language positions.** The tongue moves first.
 That is not a file move: a language position says what the tongue does to
@@ -64,6 +64,19 @@ neighbour's place or piece does not map onto anything: it is either content that
 should be this culture's own or a dependency somebody has to decide on. A
 published production carries no `../`, so it is decided before the move, not
 after.
+
+**A parent that is not a package yet.** The nesting link becomes a specifier and
+a specifier needs a package to point at. The first dry run wrote
+`@chbrain/khai-cultures-usa` into a manifest while usa was still a directory
+under the umbrella — declared, unresolvable, and caught only by the production
+gate afterwards. **The parent goes first**, which means a sub-national culture is
+held by its parent's tongues as well as its own.
+
+The ordering this imposes is worth reading off the queue rather than guessing at.
+`--queue` said six cultures were ready before the check existed; the true answer
+was zero, because all six were sub-nationals whose parents are still directories.
+Nothing migrates until a national culture with no foreign tongue in its cast
+does.
 
 ## What counts as touching a culture
 
@@ -90,6 +103,17 @@ owes everything it owed before. A file added, deleted or renamed is authoring
 either way — only a link's destination is exempt, because only a link's
 destination is a thing the walk moves out from under a culture that had no part
 in it.
+
+A **move** is spared for the same reason and by the same rule, and it has to be:
+a migration is a directory rename with a manifest beside it, and if a move
+demanded the origin plot the culture never had, the answer would be a bad
+`plot_00`, which is worse than none. This house settled that once already — the
+sub-national rename deadlocked against `changeset-check` and cost a batch its
+renames, and the rule it settled on was that a rename pays no debt and incurs
+none. A manifest and a licence pair are spared too: they are packaging, not play.
+`geo.json` and `coverage-waivers.json` are **not** spared, and deliberately — one
+carries the id and the nesting the conformance ratchet reads, the other is a
+written claim that something needs no scene.
 
 Three ratchets take the narrowed rule: coverage, sub-national conformance and
 plot zero. **Persona wiring does not**, and the reason is worth keeping: a
@@ -119,9 +143,18 @@ move, and that no other file has typed the path again.
 **One count.** The minor version IS the culture count, and the kit's registry
 build counts subdirectories. Migrate a culture and the kit's count goes DOWN,
 which lands the release on a version already published.
-`tests/registry_hybrid.mjs` runs after the kit's build and reconciles the whole:
-every culture is in `registry.json` wherever it lives, a migrated entry names
-the `package` that ships it, and the version is the true count.
+`tests/registry_hybrid.mjs` reconciles the whole: every culture is in
+`registry.json` wherever it lives, a migrated entry names the `package` that
+ships it, and the version is the true count.
+
+It **runs the kit's build itself** rather than beside it, and that is not tidying.
+While the two were separate commands the first dry run still took `0.290.1` to
+`0.290.0`: the kit wrote a directory-count version into the manifest, and the
+reconcile then read that number, saw a minor that had moved, and reset the patch.
+A version going down was the precise thing this file exists to prevent, and it
+was reintroducing it one step later in the same command. Reading the version
+before the kit can touch it is what makes this the single writer it always
+claimed to be.
 
 **One gate the workspace cannot fake.** A workspace resolves every member
 whether or not anybody declared it, so a culture that casts a tongue it does not

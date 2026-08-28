@@ -105,7 +105,7 @@ function gate(base, head) {
   // retargets links inside plots and plays across the whole house, and an origin
   // is a research pass: charging one for a rewritten link target would be
   // answered with a bad plot_00, which is worse than none.
-  const { authored, relinked } = authoredCultures(base, head);
+  const { authored, spared } = authoredCultures(base, head);
   const touched = [...authored]
     .filter(([, paths]) =>
       paths.some((p) => {
@@ -115,7 +115,7 @@ function gate(base, head) {
     )
     .map(([id]) => id)
     .sort();
-  const note = relinkNote(relinked);
+  const note = relinkNote(spared);
   if (!touched.length) {
     console.log("Plot 0: no culture's plot line authored.");
     if (note) console.log(note);

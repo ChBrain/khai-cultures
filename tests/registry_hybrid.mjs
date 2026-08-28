@@ -81,20 +81,38 @@ export function migratedEntries(list = productions()) {
   }
 }
 
-/** The registry the house's whole content builds to, and the version that goes with it. */
-export function hybrid() {
+/**
+ * The registry the house's whole content builds to, and the version that goes
+ * with it.
+ *
+ * `from` is the version to reconcile FROM, and it must be the one the house had
+ * before the kit's build ran. The first migration found out why. The kit counts
+ * directories, so lifting a culture out made it derive 0.289.0 and write that
+ * into the manifest; this function then read the manifest, saw a minor that had
+ * moved, and reset the patch - taking 0.290.1 to 0.290.0. A version going DOWN
+ * onto one already published is the exact failure this file exists to prevent,
+ * and it was reintroducing it one step later in the same command.
+ */
+export function hybrid(from = read(HOUSE_PKG).version) {
   const registry = read(REGISTRY);
-  const pkg = read(HOUSE_PKG);
   const mine = (registry.cultures ?? []).filter((e) => !e.package);
   const cultures = [...mine, ...migratedEntries()].sort((a, b) => a.id.localeCompare(b.id));
-  const count = cultures.length;
-  const version = deriveVersionFrom(pkg.version, count);
+  const version = deriveVersionFrom(from, cultures.length);
   return { ...registry, version, cultures, groups: registry.groups ?? [] };
 }
 
-/** Write the reconciled registry and the version it implies. Returns what changed. */
+/**
+ * Build the registry and write the version it implies. Returns what changed.
+ *
+ * The kit's build runs from HERE rather than beside it, so that the version it
+ * is reconciled from is read before the kit can overwrite it. That makes this
+ * the single writer of the number, which is what it has claimed to be since it
+ * was written and was not while the two ran as separate commands.
+ */
 export function write() {
-  const next = hybrid();
+  const from = read(HOUSE_PKG).version;
+  buildRegistry(HOUSE);
+  const next = hybrid(from);
   const pkg = read(HOUSE_PKG);
   const changed = [];
   // Compared as data, not as text. Prettier owns the formatting of this file and
