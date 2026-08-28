@@ -7422,7 +7422,7 @@
           "title": "Bavaria"
         },
         {
-          "file": "plot_01_bajuwaren_und_kloester.md",
+          "file": "plot_00_bajuwaren_und_kloester.md",
           "kind": "plot",
           "title": "The Baiuvarii and the Monasteries",
           "taxonomy": "play_bavaria.md"
@@ -7467,6 +7467,12 @@
           "file": "plot_08_laptop_lederhosen.md",
           "kind": "plot",
           "title": "Laptop and Lederhosen",
+          "taxonomy": "play_bavaria.md"
+        },
+        {
+          "file": "plot_99_die_bestellte_heimat.md",
+          "kind": "plot",
+          "title": "Heimat by Decree, since 2015",
           "taxonomy": "play_bavaria.md"
         },
         {
