@@ -9,7 +9,9 @@ import { coverage, cultureIds as coveredCultureIds, allWaivers } from "./company
 import { standalone } from "./tongues_standalone.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
+const here = dirname(fileURLToPath(import.meta.url));
+const inPackage = join(here, "..", "packages", "khai-cultures");
+const root = existsSync(join(inPackage, "cultures")) ? inPackage : join(here, "..");
 const culturesDir = join(root, "cultures");
 
 // The khai types every culture must field. A culture is a full play, so the set

@@ -26,7 +26,9 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 import { cultureIds, touchedCultures } from "./company_coverage.mjs";
 
-export const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
+const HERE = dirname(fileURLToPath(import.meta.url));
+const inPackage = join(HERE, "..", "packages", "khai-cultures");
+export const ROOT = existsSync(join(inPackage, "cultures")) ? inPackage : join(HERE, "..");
 
 function iso(id, root = ROOT) {
   const p = join(root, "cultures", id, "geo.json");
