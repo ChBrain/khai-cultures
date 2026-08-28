@@ -30,7 +30,7 @@
 // a culture).
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
-import { join, dirname } from "node:path";
+import { join, dirname, relative, sep } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 
@@ -133,10 +133,22 @@ export function coverage(id, { root = ROOT } = {}) {
 }
 
 /** Cultures a set of changed paths touches. */
+// Where a culture sits, as a repository-relative path, derived from ROOT rather
+// than typed. The workspace move renamed `cultures/<id>/` to
+// `packages/khai-cultures/cultures/<id>/`, and the literal prefix that used to
+// be written here stopped matching anything: every ratchet in this repository
+// runs through `touchedCultures`, so all three reported "no culture touched" on
+// pull requests that added plots and personas, and passed. Deriving it means one
+// move updates all three, and `tests/house.test.mjs` pins it against a path
+// taken out of the real tree so a future move breaks a test instead of a gate.
+const CULTURES_PREFIX = relative(join(HERE, ".."), join(ROOT, "cultures")).split(sep).join("/");
+
+/** The cultures a list of changed repository paths touches. */
 export function touchedCultures(paths) {
+  const re = new RegExp(`^${CULTURES_PREFIX}/([^/]+)/`);
   const ids = new Set();
   for (const p of paths) {
-    const m = /^cultures\/([^/]+)\//.exec(p.trim().replace(/\\/g, "/"));
+    const m = re.exec(p.trim().replace(/\\/g, "/"));
     if (m) ids.add(m[1]);
   }
   return [...ids].sort();
