@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Innovationskraft, das technische Know-how und die Tradition des sächsischen Mittelstands. Sie besitzt die Patente der Mikroelektronik und den Ruf, komplexe Fertigungsprobleme zu lösen.
+Die Innovationskraft, das technische Know-how und die Tradition des sächsischen Mittelstands, die im Freiberger Bergbau wurzelt. Sie besitzt die Patente der Mikroelektronik und den Ruf, komplexe Fertigungsprobleme zu lösen.
 
 ## Orders
 
@@ -34,4 +34,4 @@ An Dynamik, wenn Fachkräftemangel die Expansion behindert oder globale Lieferke
 
 ## Drives
 
-Treibt die moderne Chipfertigung der Ingenieurin im Plot [Sachsen als industrieller Vorreiter ab 1830](plot_02_industrial_pioneer.md) voran.
+Treibt den Freiberger Bergbau zur Wissenschaft im Plot [Die Mark Meißen, das Erzgebirgssilber und der geliehene Name Sachsen](plot_00_mark_meissen_und_das_silber.md) und, Jahrhunderte später, die moderne Chipfertigung der Ingenieurin im Plot [Sachsen als industrieller Vorreiter ab 1830](plot_02_industrial_pioneer.md) voran.

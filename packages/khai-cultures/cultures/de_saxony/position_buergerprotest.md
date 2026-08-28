@@ -34,4 +34,4 @@ An Legitimität, wenn radikale Kräfte den Bürgerprotest instrumentalisieren od
 
 ## Drives
 
-Wird dokumentiert durch [der Leipziger Aufruf](piece_friedliche_revolution_manifest.md) und lenkt das Handeln des Porzellanmalers im Plot [Die Friedliche Revolution in Leipzig 1989](plot_03_peaceful_revolution_1989.md).
+Wird dokumentiert durch [der Leipziger Aufruf](piece_friedliche_revolution_manifest.md) und lenkt das Handeln des Porzellanmalers im Plot [Die Friedliche Revolution in Leipzig 1989](plot_03_peaceful_revolution_1989.md). Ihre eigene Losung wird ab 2014 in denselben montäglichen Umzügen für eine ganz andere Sache beansprucht, im Plot [Zwischen Montagsspaziergang und Chipfabrik 2014 bis 2024](plot_99_montagsspaziergang_und_chipfabrik.md).

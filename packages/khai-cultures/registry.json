@@ -8632,6 +8632,11 @@
           "taxonomy": "play_saxony.md"
         },
         {
+          "file": "place_erzgebirge.md",
+          "kind": "place",
+          "title": "The Ore Mountains"
+        },
+        {
           "file": "place_frauenkirche.md",
           "kind": "place",
           "title": "Dresdner Frauenkirche"
@@ -8652,6 +8657,12 @@
           "title": "Sachsen"
         },
         {
+          "file": "plot_00_mark_meissen_und_das_silber.md",
+          "kind": "plot",
+          "title": "The Ore Mountains' Silver and a Borrowed Name",
+          "taxonomy": "play_saxony.md"
+        },
+        {
           "file": "plot_01_august_der_starke_1697.md",
           "kind": "plot",
           "title": "The Era of Augustus the Strong",
@@ -8667,6 +8678,12 @@
           "file": "plot_03_peaceful_revolution_1989.md",
           "kind": "plot",
           "title": "The Peaceful Revolution in Leipzig",
+          "taxonomy": "play_saxony.md"
+        },
+        {
+          "file": "plot_99_montagsspaziergang_und_chipfabrik.md",
+          "kind": "plot",
+          "title": "Between the Monday Walk and the Chip Fab, 2014 to 2025",
           "taxonomy": "play_saxony.md"
         },
         {
@@ -8688,6 +8705,16 @@
           "file": "position_erfindergeist.md",
           "kind": "position",
           "title": "The Saxon Ingenuity"
+        },
+        {
+          "file": "position_sorbisches_erbe.md",
+          "kind": "position",
+          "title": "The Sorbian Heritage"
+        },
+        {
+          "file": "process_bergbau.md",
+          "kind": "process",
+          "title": "Ore Mining"
         },
         {
           "file": "process_porzellanmanufaktur.md",
