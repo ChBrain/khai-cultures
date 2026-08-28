@@ -8218,6 +8218,13 @@
       "iso": "DE-NW",
       "members": [
         {
+          "file": "persona_anton.md",
+          "kind": "persona",
+          "title": "Anton",
+          "type": "archetype",
+          "taxonomy": "position_westfaelische_wortkargheit.md"
+        },
+        {
           "file": "persona_jupp.md",
           "kind": "persona",
           "title": "Jupp",
@@ -8248,9 +8255,19 @@
           "taxonomy": "play_north_rhine_westphalia.md"
         },
         {
+          "file": "place_kloster_corvey.md",
+          "kind": "place",
+          "title": "Corvey Abbey"
+        },
+        {
           "file": "place_koelner_dom.md",
           "kind": "place",
           "title": "Kölner Dom"
+        },
+        {
+          "file": "place_rathaus_muenster.md",
+          "kind": "place",
+          "title": "Münster Town Hall"
         },
         {
           "file": "place_zeche_zollverein.md",
@@ -8268,21 +8285,39 @@
           "title": "Nordrhein-Westfalen"
         },
         {
-          "file": "plot_01_ruhr_coal_1850.md",
+          "file": "plot_00_zwei_urspruenge.md",
+          "kind": "plot",
+          "title": "Two Origins: Colonia and Westphalia",
+          "taxonomy": "play_north_rhine_westphalia.md"
+        },
+        {
+          "file": "plot_01_westfaelischer_friede_1648.md",
+          "kind": "plot",
+          "title": "The Peace of Westphalia 1648",
+          "taxonomy": "play_north_rhine_westphalia.md"
+        },
+        {
+          "file": "plot_02_ruhr_coal_1850.md",
           "kind": "plot",
           "title": "The Industrialization of the Ruhr Valley",
           "taxonomy": "play_north_rhine_westphalia.md"
         },
         {
-          "file": "plot_02_creation_1946.md",
+          "file": "plot_03_creation_1946.md",
           "kind": "plot",
           "title": "Operation Marriage",
           "taxonomy": "play_north_rhine_westphalia.md"
         },
         {
-          "file": "plot_03_coal_exit.md",
+          "file": "plot_04_coal_exit.md",
           "kind": "plot",
           "title": "The End of Coal Mining",
+          "taxonomy": "play_north_rhine_westphalia.md"
+        },
+        {
+          "file": "plot_99_hochwasser_2021.md",
+          "kind": "plot",
+          "title": "The Flood 2021",
           "taxonomy": "play_north_rhine_westphalia.md"
         },
         {
@@ -8304,6 +8339,11 @@
           "file": "position_strukturwandel.md",
           "kind": "position",
           "title": "The Structural Change"
+        },
+        {
+          "file": "position_westfaelische_wortkargheit.md",
+          "kind": "position",
+          "title": "Westphalian Terseness"
         },
         {
           "file": "process_karneval.md",
