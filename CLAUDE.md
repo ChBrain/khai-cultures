@@ -138,7 +138,12 @@ node tests/company_coverage.mjs --culture <id>
 Ask about the culture, never grep `--report`: it prints the worst twenty and a
 culture's absence from that list is not zero.
 
-The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
+The gate runs on the cultures a PR **authors**, so the debt only ever shrinks. A
+culture whose only change is where a link points — what a tongue move does to
+every culture that casts the variety — is named in the gate's output and not
+charged; one word of prose in the same file makes it authored again. Coverage,
+sub-national conformance and plot zero all read it that way; persona wiring does
+not, because a retargeted tongue link is precisely a wiring change. If
 casting something would be anachronistic or contrived, waive it with a reason in
 `packages/khai-cultures/cultures/<id>/coverage-waivers.json`; never invent a scene
 to satisfy a counter.

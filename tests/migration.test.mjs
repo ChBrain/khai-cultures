@@ -22,6 +22,7 @@
 
 import { describe, it, expect } from "vitest";
 import { mkdtempSync, mkdirSync, writeFileSync, rmSync, readFileSync, readdirSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 import { join, dirname } from "node:path";
 import { tmpdir } from "node:os";
 import { fileURLToPath } from "node:url";
@@ -34,6 +35,8 @@ import {
   touchedCultures,
   productions,
   productionName,
+  relinkOnly,
+  authoredCultures,
 } from "./culture_sources.mjs";
 import { drift } from "./registry_hybrid.mjs";
 
@@ -162,6 +165,75 @@ describe("Migration: no gate types a culture's path", () => {
     expect(code, `${file} writes a culture path out as a literal`).not.toMatch(
       /"packages\/khai-cultures\/cultures\//,
     );
+  });
+});
+
+// A tongue move retargets a link in every culture that casts the variety - en_gb
+// alone is ninety-four - and under a plain touch rule each of those is then asked
+// for zero dead Company entries, a conforming id and a nesting link it never
+// owed. The choice would be a pull request that renames Illinois and invents
+// scenes in Turkey to satisfy a counter, which this house forbids in as many
+// words, or no tongue walk at all.
+//
+// So the content ratchets ask what a change AUTHORED. The rule has to hold in
+// both directions or it is a hole: a retargeted link is exempt, and one word of
+// prose in the same file is not. Proven on a real commit pair built here, because
+// the interesting half is the second one and no fixture can fake a git history.
+describe("Migration: a relink is not an authoring, and one word of prose is", () => {
+  function twoCommits() {
+    const repo = mkdtempSync(join(tmpdir(), "khai-authored-"));
+    const git = (...args) => execFileSync("git", args, { cwd: repo, encoding: "utf8" });
+    git("init", "-q", "-b", "main");
+    git("config", "user.email", "t@example.com");
+    git("config", "user.name", "t");
+    const dir = join(repo, "packages", "khai-cultures", "cultures", "alpha");
+    mkdirSync(dir, { recursive: true });
+    const write = (body) => writeFileSync(join(dir, "persona_a.md"), body);
+    write("---\nkhai: persona\n---\n\nShe holds [the tongue](../beta/position_language_x.md).\n");
+    git("add", "-A");
+    git("commit", "-qm", "base");
+    const base = git("rev-parse", "HEAD").trim();
+    write(
+      "---\nkhai: persona\n---\n\nShe holds [the tongue](@scope/pkg/position_language_x.md).\n",
+    );
+    git("commit", "-aqm", "relink");
+    const relinked = git("rev-parse", "HEAD").trim();
+    write(
+      "---\nkhai: persona\n---\n\nShe still holds [the tongue](@scope/pkg/position_language_x.md).\n",
+    );
+    git("commit", "-aqm", "prose");
+    const written = git("rev-parse", "HEAD").trim();
+    return { repo, base, relinked, written };
+  }
+
+  it("exempts a culture whose whole change is where a link points", () => {
+    const { repo, base, relinked } = twoCommits();
+    try {
+      const { authored, relinked: exempt } = authoredCultures(base, relinked, repo);
+      expect([...authored.keys()]).toEqual([]);
+      expect(exempt).toEqual(["alpha"]);
+    } finally {
+      rmSync(repo, { recursive: true, force: true });
+    }
+  });
+
+  it("charges a culture for one word of prose in the same file", () => {
+    const { repo, base, written } = twoCommits();
+    try {
+      const { authored, relinked: exempt } = authoredCultures(base, written, repo);
+      expect([...authored.keys()]).toEqual(["alpha"]);
+      expect(exempt).toEqual([]);
+    } finally {
+      rmSync(repo, { recursive: true, force: true });
+    }
+  });
+
+  it("never calls an added or deleted file a relink", () => {
+    // The exemption is for a link the walk moved out from under a culture. A file
+    // that arrived or left is content either way.
+    expect(
+      relinkOnly("packages/khai-cultures/cultures/nope/persona_nobody.md", "HEAD", "HEAD"),
+    ).toBe(false);
   });
 });
 

@@ -34,9 +34,8 @@
 
 import { readdirSync, existsSync } from "node:fs";
 import { pathToFileURL } from "node:url";
-import { execFileSync } from "node:child_process";
 import { cultureIds } from "./company_coverage.mjs";
-import { cultureDir, pathCulture } from "./culture_sources.mjs";
+import { cultureDir, pathCulture, authoredCultures, relinkNote } from "./culture_sources.mjs";
 
 const has = (id, prefix) => {
   const dir = cultureDir(id);
@@ -102,28 +101,38 @@ function report() {
 }
 
 function gate(base, head) {
-  const changed = execFileSync("git", ["diff", "--name-only", base, head], {
-    encoding: "utf8",
-    maxBuffer: 32 * 1024 * 1024,
-  })
-    .split("\n")
-    .filter(Boolean);
-  const touched = touchedPlots(changed);
+  // The plot line has to be WRITTEN IN, not merely relinked. A tongue move
+  // retargets links inside plots and plays across the whole house, and an origin
+  // is a research pass: charging one for a rewritten link target would be
+  // answered with a bad plot_00, which is worse than none.
+  const { authored, relinked } = authoredCultures(base, head);
+  const touched = [...authored]
+    .filter(([, paths]) =>
+      paths.some((p) => {
+        const file = pathCulture(p)?.file.split("/").pop() ?? "";
+        return file.startsWith("plot_") || file.startsWith("play_");
+      }),
+    )
+    .map(([id]) => id)
+    .sort();
+  const note = relinkNote(relinked);
   if (!touched.length) {
-    console.log("Plot 0: no culture's plot line touched.");
+    console.log("Plot 0: no culture's plot line authored.");
+    if (note) console.log(note);
     return 0;
   }
+  if (note) console.log(note);
   const offenders = touched
     .map((id) => [id, !hasOrigin(id), !hasPresent(id)])
     .filter(([, o, p]) => o || p);
   if (!offenders.length) {
     console.log(
-      `Plot 0 OK: ${touched.length} touched plot line(s), each spanning origin to present.`,
+      `Plot 0 OK: ${touched.length} authored plot line(s), each spanning origin to present.`,
     );
     return 0;
   }
   console.error(
-    "::error::Plot 0: a culture whose plot line you touch must say where it begins and where it now stands.",
+    "::error::Plot 0: a culture whose plot line you write in must say where it begins and where it now stands.",
   );
   for (const [id, noOrigin, noPresent] of offenders)
     console.error(

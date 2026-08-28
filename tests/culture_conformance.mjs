@@ -23,9 +23,14 @@
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
-import { execFileSync } from "node:child_process";
-import { cultureIds, touchedCultures } from "./company_coverage.mjs";
-import { cultureDir, isMigrated, productionName } from "./culture_sources.mjs";
+import { cultureIds } from "./company_coverage.mjs";
+import {
+  cultureDir,
+  isMigrated,
+  productionName,
+  authoredCultures,
+  relinkNote,
+} from "./culture_sources.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 export const ROOT = join(HERE, "..", "packages", "khai-cultures");
@@ -128,26 +133,28 @@ function report() {
 }
 
 function gate(base, head) {
-  const changed = execFileSync("git", ["diff", "--name-only", base, head], {
-    encoding: "utf8",
-    maxBuffer: 32 * 1024 * 1024,
-  })
-    .split("\n")
-    .filter(Boolean);
-  const touched = touchedCultures(changed);
+  // Authored, not merely touched. A tongue move retargets a link in every culture
+  // that casts the variety, and none of them asked for a rename.
+  const { authored, relinked } = authoredCultures(base, head);
+  const touched = [...authored.keys()].sort();
+  const note = relinkNote(relinked);
   if (!touched.length) {
-    console.log("Sub-national conformance: no culture touched.");
+    console.log("Sub-national conformance: no culture authored.");
+    if (note) console.log(note);
     return 0;
   }
+  if (note) console.log(note);
   const seen = touched.map((id) => [id, conformance(id)]);
   for (const [id, { advisory }] of seen)
     for (const line of advisory) console.log(`::notice::${id}: ${line}`);
   const offenders = seen.filter(([, c]) => c.blocking.length);
   if (!offenders.length) {
-    console.log(`Sub-national conformance OK: ${touched.length} touched culture(s).`);
+    console.log(`Sub-national conformance OK: ${touched.length} authored culture(s).`);
     return 0;
   }
-  console.error("::error::Sub-national conformance: a touched culture must come out conforming.");
+  console.error(
+    "::error::Sub-national conformance: a culture you write in must come out conforming.",
+  );
   for (const [id, { blocking }] of offenders)
     for (const line of blocking) console.error(`  ${id}: ${line}`);
   return 1;
