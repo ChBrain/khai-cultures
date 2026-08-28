@@ -34,6 +34,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 import { cultureIds, touchedCultures } from "./company_coverage.mjs";
+import { cultureDir } from "./culture_sources.mjs";
 
 // Two roots, because they are two things. WORKSPACE holds node_modules, where the
 // manifests this gate reads its rules out of are installed; ROOT is the house
@@ -89,9 +90,9 @@ const gripped = (proj) => {
 const projection = (text) => text.split("## Projection")[1]?.split("\n## ")[0] ?? "";
 
 /** What one culture's personas still owe. Every finding blocks. */
-export function wiring(id, { root = ROOT } = {}) {
-  const dir = join(root, "cultures", id);
-  if (!existsSync(dir)) return [];
+export function wiring(id) {
+  const dir = cultureDir(id);
+  if (!dir || !existsSync(dir)) return [];
   const known = widths();
   const unacquired = noMotherTongue();
   const findings = [];
@@ -113,9 +114,9 @@ export function wiring(id, { root = ROOT } = {}) {
   return findings.sort();
 }
 
-function report(root = ROOT) {
-  const rows = cultureIds(root)
-    .map((id) => [id, wiring(id, { root })])
+function report() {
+  const rows = cultureIds()
+    .map((id) => [id, wiring(id)])
     .filter(([, f]) => f.length);
   const n = rows.reduce((a, [, f]) => a + f.length, 0);
   console.log(`persona wiring: ${n} finding(s) across ${rows.length} culture(s)`);
