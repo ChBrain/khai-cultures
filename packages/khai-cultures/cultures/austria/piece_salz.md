@@ -34,6 +34,6 @@ Weiss, gewöhnlich, das Billigste auf jedem Tisch. Nichts sieht weniger nach Ver
 
 ## Yearbook
 
-- Gefördert seit der Bronzezeit, und ab 750 vor Christus in [Hallstatt und Noricum](plot_01_hallstatt_und_noricum.md) Grundlage einer ganzen Epoche.
+- Gefördert seit der Bronzezeit, und ab 750 vor Christus in [Hallstatt und Noricum](plot_00_hallstatt_und_noricum.md) Grundlage einer ganzen Epoche.
 - Gehandelt gegen Bernstein von der Ostsee und Bronzen aus Italien, quer über die Alpen.
 - Geblieben in den Namen: Salzburg, Salzach, Salzkammergut, Hallein, Hallstatt.
