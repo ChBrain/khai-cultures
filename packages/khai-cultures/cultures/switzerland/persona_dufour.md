@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-20"
+  date: "2026-08-28"
 type: real
 ---
 
@@ -27,7 +27,7 @@ Le général genevois qui commanda l'armée fédérale. Ingénieur, cartographe 
 
 ## Action
 
-Dans la [fondation de l'État fédéral en 1848](plot_02_bundesstaat_1848.md), il gagne la guerre du Sonderbund en épargnant le sang et interdit les représailles, ouvrant la voie à une Suisse réconciliée et à la [concordance](position_konkordanz.md) plutôt qu'à la vengeance. Bilingue, il fait le pont entre la Suisse romande et la Suisse alémanique, et c'est par lui que le français d'[Henri Dunant](persona_dunant.md) atteint les cantons de langue allemande.
+Dans la [fondation de l'État fédéral en 1848](plot_03_bundesstaat_1848.md), il gagne la guerre du Sonderbund en épargnant le sang et interdit les représailles, ouvrant la voie à une Suisse réconciliée et à la [concordance](position_konkordanz.md) plutôt qu'à la vengeance. Bilingue, il fait le pont entre la Suisse romande et la Suisse alémanique, et c'est par lui que le français d'[Henri Dunant](persona_dunant.md) atteint les cantons de langue allemande.
 
 ## Shadow
 

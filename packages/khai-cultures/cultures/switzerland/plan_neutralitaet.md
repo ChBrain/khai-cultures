@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-06-21"
+  date: "2026-08-28"
 status: active
 ---
 
@@ -33,13 +33,15 @@ Sich aus fremden Händeln herauszuhalten, dabei aber so bewaffnet zu sein, dass 
 
 ## Implementation
 
-Die Anerkennung der immerwährenden Neutralität durch die Mächte 1815 als völkerrechtlicher Boden; die Milizarmee als Abschreckung statt eines Berufsheers; die guten Dienste, das humanitäre Völkerrecht und das Rote Kreuz von [Genf](place_genf.md) aus als die andere Seite des Heraushaltens; und der bewusste Verzicht auf jedes militärische Bündnis.
+Die Anerkennung der immerwährenden Neutralität durch die Mächte 1815 als völkerrechtlicher Boden; die Milizarmee als Abschreckung statt eines Berufsheers; die guten Dienste, das humanitäre Völkerrecht und das Rote Kreuz von [Genf](place_genf.md) aus als die andere Seite des Heraushaltens; das [Réduit](place_reduit.md) von 1940 als äusserste Form dieser Abschreckung; und der bewusste Verzicht auf jedes militärische Bündnis.
 
 ## Targets
 
 - [x] Die immerwährende Neutralität von den Mächten anerkannt (1815)
 - [x] Dem Land beide Weltkriege erspart, als Insel zwischen den Fronten
 - [x] Genf und das Rote Kreuz als gute Dienste der Neutralität etabliert
+- [x] Das Réduit 1940 unter General [Guisan](persona_guisan.md) als glaubwürdige Abschreckung aufgebaut
+- [F] Die Flüchtlingspolitik der Kriegsjahre 1938 bis 1945, die Tausende an der Grenze abwies und einen Teil von ihnen dem sicheren Tod auslieferte
 - [W] Die Annahme, eine bewaffnete Neutralität allein genüge auf Dauer zur Sicherheit eines kleinen Landes
 - [ ] Die Neutralität unter dem modernen Druck der kollektiven Sicherheit gehalten
 - [ ] Das Heraushalten gegen den Vorwurf verteidigt, es sei Gleichgültigkeit oder ein Geschäft mit allen Seiten
