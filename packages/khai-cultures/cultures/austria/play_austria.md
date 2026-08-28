@@ -43,6 +43,7 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 **Places**
 
 - [Wien](place_wien.md)
+- [Ischgl](place_ischgl.md)
 - [Salzburg](place_salzburg.md)
 
 **Processes**
@@ -80,53 +81,57 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 
 ## Triggers
 
-**[Plot 1: Hallstatt und Noricum](plot_01_hallstatt_und_noricum.md)**
+**[Plot 0: Hallstatt und Noricum](plot_00_hallstatt_und_noricum.md)**
 
 Aus einem Bergwerk und einem Alpenpass entsteht ein Handelsraum, dessen Eisen Rom kauft und den Rom um 15 vor Christus ohne Krieg übernimmt. Was später Österreich heisst, betritt die Geschichte als Durchgang, der sich anschliesst, und nicht als erobertes Land.
 
-**[Plot 2: Die Türkenbelagerung 1683](plot_02_tuerkenbelagerung_1683.md)**
+**[Plot 1: Die Türkenbelagerung 1683](plot_02_tuerkenbelagerung_1683.md)**
 
 Ein Entsatzheer bricht die Belagerung [Wiens](place_wien.md) durch die Osmanen, und der junge [Prinz Eugen von Savoyen](persona_prinz_eugen.md) kämpft zum ersten Mal für das Haus Habsburg; aus dem Sieg wächst das Reich, das bald halb Europa umspannt.
 
-**[Plot 3: Der Barock](plot_03_der_barock.md)**
+**[Plot 2: Der Barock](plot_03_der_barock.md)**
 
 Nach der Gegenreformation ist der Süden katholisch und nach 1683 ist Geld da. [Prinz Eugen](persona_prinz_eugen.md) baut [das Belvedere](piece_belvedere.md), Fischer von Erlach die Kuppeln, und das Land lernt, dass die Form nicht das Gegenteil des Ernstes ist, sondern seine Sprache.
 
-**[Plot 4: Maria Theresia](plot_04_maria_theresia.md)**
+**[Plot 3: Maria Theresia](plot_04_maria_theresia.md)**
 
 Die einzige Frau auf dem Habsburger Thron reformiert von [Wien](place_wien.md) aus Schule, Verwaltung und Heer und wird zur Landesmutter; aus ihrem Apparat wächst die Welt der Ämter und [Titel](position_titel.md).
 
-**[Plot 5: Wien wird zur Hauptstadt der Musik](plot_05_wiener_klassik.md)**
+**[Plot 4: Wien wird zur Hauptstadt der Musik](plot_05_wiener_klassik.md)**
 
 Haydn, [Mozart](persona_mozart.md) und Beethoven machen [Wien](place_wien.md) zur Hauptstadt der Musik, und das Land zieht zum ersten Mal seinen Stolz aus [der Kunst](piece_wiener_klassik.md) statt aus der Macht.
 
-**[Plot 6: Der Wiener Kongress 1815](plot_06_wiener_kongress_1815.md)**
+**[Plot 5: Der Wiener Kongress 1815](plot_06_wiener_kongress_1815.md)**
 
 Nach Napoleon ordnet [Metternich](persona_metternich.md) in [Wien](place_wien.md) ganz Europa neu, und während die Diplomaten verhandeln, tanzt der Kongress den [Walzer](piece_walzer.md).
 
-**[Plot 7: Königgrätz 1866](plot_07_koeniggraetz_1866.md)**
+**[Plot 6: Königgrätz 1866](plot_07_koeniggraetz_1866.md)**
 
 Die Niederlage gegen Preußen bei Königgrätz schließt Österreich für immer aus Deutschland aus, und [Franz Joseph](persona_franz_joseph.md) sucht den Ausgleich mit Ungarn, aus dem Kaisertum wird die Doppelmonarchie.
 
-**[Plot 8: Wien um 1900](plot_08_fin_de_siecle.md)**
+**[Plot 7: Wien um 1900](plot_08_fin_de_siecle.md)**
 
 Während das Reich unter dem greisen [Franz Joseph](persona_franz_joseph.md) altert, blüht in den [Kaffeehäusern](process_kaffeehaus.md) ein letzter Glanz: [Freud](persona_freud.md), Klimt und Mahler erfinden die Moderne, schöpferisch und todesnah zugleich.
 
-**[Plot 9: Der Zerfall 1918](plot_09_zerfall_1918.md)**
+**[Plot 8: Der Zerfall 1918](plot_09_zerfall_1918.md)**
 
 Das Vielvölkerreich zerfällt nach der Kriegsniederlage, und [Karl Renner](persona_karl_renner.md) ruft in [Wien](place_wien.md) die Republik aus, den Staat, den kaum jemand gewollt hat.
 
-**[Plot 10: Der Anschluss 1938](plot_10_anschluss_1938.md)**
+**[Plot 9: Der Anschluss 1938](plot_10_anschluss_1938.md)**
 
 Deutsche Truppen marschieren ein, und ein Großteil des Landes bejubelt den Anschluss, statt sich ihm zu widersetzen; die Erzählung vom reinen Opfer widerspricht dem, was auf dem Heldenplatz in [Wien](place_wien.md) geschieht, von Anfang an.
 
-**[Plot 11: Der Staatsvertrag 1955](plot_11_staatsvertrag_1955.md)**
+**[Plot 10: Der Staatsvertrag 1955](plot_11_staatsvertrag_1955.md)**
 
 Nach [Anschluss](plot_10_anschluss_1938.md), Krieg und Besatzung wird das Land in [Wien](place_wien.md) wieder frei und neutral; "Österreich ist frei!" und sucht sich, diesmal bewusst, als eigene Nation neben Deutschland, gefeiert beim [Walzer](piece_walzer.md).
 
-**[Plot 12: Die Waldheim-Affäre 1986](plot_12_waldheim_1986.md)**
+**[Plot 11: Die Waldheim-Affäre 1986](plot_12_waldheim_1986.md)**
 
 Die verschwiegene Vergangenheit des Präsidentschaftskandidaten [Waldheim](persona_waldheim.md) bricht den Opfermythos auf, den [die österreichische Identität](plan_die_oesterreichische_identitaet.md) sich seit 1945 bequem eingerichtet hatte, und [Lukas](persona_lukas.md)' Generation wächst in der ehrlicheren, aber längst selbstverständlich gewordenen Sicht danach auf.
+
+**[Plot 99: Das Video und der Berg, seit 2015](plot_99_das_video_und_der_berg.md)**
+
+Die Balkanroute, ein sieben Stunden langes Video von einer Finca, [Ischgl](place_ischgl.md) im März 2020, ein Kanzlerrücktritt und 2024 eine stimmenstärkste Partei, die 1986 noch am Rand stand. Ein Befund und keine Vorhersage: der Schmäh trägt, solange nur geredet wird.
 
 ## Stakes
 
