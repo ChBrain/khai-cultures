@@ -44,11 +44,9 @@ import { join, dirname, resolve, sep } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 
 // Two roots, because they are two things. WORKSPACE holds the packages; ROOT is
-// the house package whose cultures the drift queue reads against, resolved in
-// either layout while the repository becomes a workspace.
+// the house package whose cultures the drift queue reads against.
 export const WORKSPACE = join(dirname(fileURLToPath(import.meta.url)), "..");
-const inPackage = join(WORKSPACE, "packages", "khai-cultures");
-export const ROOT = existsSync(join(inPackage, "cultures")) ? inPackage : WORKSPACE;
+export const ROOT = join(WORKSPACE, "packages", "khai-cultures");
 export const TONGUES = join(WORKSPACE, "packages", "khai-cultures-tongues");
 const CULTURE_PKG = /@chbrain\/khai-cultures-(?!tongues)/;
 
