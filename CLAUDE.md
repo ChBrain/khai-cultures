@@ -155,5 +155,6 @@ apology in place of a deed, and never invent a scene to satisfy a counter.
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); sources
 are credited where they are in the public domain, never claimed. `main` is
 protected: pull requests and the gate checks (`khai-tests`, `khai-guard`,
-`khai-branch-scope`, `khai-company-coverage`, `khai-subnational-conformance`) are
+`khai-branch-scope`, `khai-company-coverage`, `khai-subnational-conformance`,
+`khai-persona-wiring`) are
 required before merge.
