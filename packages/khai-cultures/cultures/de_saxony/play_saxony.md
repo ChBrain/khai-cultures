@@ -36,10 +36,12 @@ Understatement ist hier Nationalsport - man quittiert Gewaltiges nur mit einem t
 
 - [die Frauenkirche](place_frauenkirche.md)
 - [das Silicon Saxony](place_silicon_saxony.md)
+- [das Erzgebirge](place_erzgebirge.md)
 
 **Processes**
 
 - [die Porzellanherstellung](process_porzellanmanufaktur.md)
+- [der Bergbau](process_bergbau.md)
 
 **Positions**
 
@@ -47,6 +49,7 @@ Understatement ist hier Nationalsport - man quittiert Gewaltiges nur mit einem t
 - [der Erfindergeist](position_erfindergeist.md)
 - [der Barockstolz](position_barockstolz.md)
 - [der Bürgerprotest](position_buergerprotest.md)
+- [das sorbische Erbe](position_sorbisches_erbe.md)
 - [das sächsische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_sn.md)
 
 **Pieces**
@@ -64,6 +67,10 @@ Understatement ist hier Nationalsport - man quittiert Gewaltiges nur mit einem t
 
 ## Triggers
 
+**[Plot 0: Die Mark Meißen, das Erzgebirgssilber und der geliehene Name Sachsen](plot_00_mark_meissen_und_das_silber.md)**
+
+965 wird die Mark Meißen als Grenzmark gegen die slawischen Sorben eingerichtet; der Silberfund von 1168 bei Freiberg macht die Wettiner reich, und 1423 wandert mit ihrer Kur der Name Sachsen von Wittenberg an die Elbe bei Meißen, obwohl hier nie ein Sachse gesiedelt hatte.
+
 **[Plot 1: Die Epoche Augusts des Starken ab 1697](plot_01_august_der_starke_1697.md)**
 
 Kurfürst Friedrich August I. wird König von Polen und verwandelt Dresden durch prachtvolle Barockbauten und Kunstsammlungen in eine Kulturmetropole.
@@ -75,6 +82,10 @@ Durch den Bau der ersten Ferneisenbahn und die Entwicklung des Maschinenbaus ste
 **[Plot 3: Die Friedliche Revolution in Leipzig 1989](plot_03_peaceful_revolution_1989.md)**
 
 Die Montagsdemonstrationen in Leipzig erreichen am 9. Oktober ihren Höhepunkt, als 70.000 Menschen friedlich demonstrieren und den Fall der Mauer einleiten.
+
+**[Plot 99: Zwischen Montagsspaziergang und Chipfabrik 2014 bis 2025](plot_99_montagsspaziergang_und_chipfabrik.md)**
+
+Pegidas montägliche Umzüge in Dresden ab 2014 beanspruchen die Losung von 1989 für sich, 2018 erlebt Chemnitz tagelange Hetzjagden auf Ausländer, die AfD erzielt 2024 ihr bislang bestes sächsisches Landtagswahlergebnis, Silicon Saxony feiert mit dem Spatenstich für die Chipfabrik ESMC seine größte Investition seit der Wiedervereinigung, das ländliche Erzgebirge schrumpft weiter, und 2025 wirbt Chemnitz als Kulturhauptstadt Europas um ein anderes Bild von sich.
 
 ## Stakes
 

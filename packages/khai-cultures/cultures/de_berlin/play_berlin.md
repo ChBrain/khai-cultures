@@ -29,13 +29,17 @@ Eine Mauer zerschnitt diese Stadt, und ihr Fall machte sie zum Symbol der Freihe
 
 **Personas**
 
+- [Hirschfeld](persona_hirschfeld.md)
 - [Dieter](persona_dieter.md)
 - [Amelie](persona_amelie.md)
 
 **Places**
 
+- [der Französische Dom](place_franzoesischer_dom.md)
+- [das Institut für Sexualwissenschaft](place_institut_sexualwissenschaft.md)
 - [das Brandenburger Tor](place_brandenburger_tor.md)
 - [das Berghain](place_berghain.md)
+- [der Flughafen BER](place_ber.md)
 
 **Processes**
 
@@ -53,6 +57,8 @@ Eine Mauer zerschnitt diese Stadt, und ihr Fall machte sie zum Symbol der Freihe
 
 - [das Mauerstück](piece_mauerstueck.md)
 - [der Einlassstempel](piece_berghain_stamp.md)
+- [die Club-Mate](piece_club_mate.md)
+- [der Mietendeckel](piece_mietendeckel.md)
 
 **Pitches**
 
@@ -64,17 +70,33 @@ Eine Mauer zerschnitt diese Stadt, und ihr Fall machte sie zum Symbol der Freihe
 
 ## Triggers
 
-**[Plot 1: Der Bau der Berliner Mauer 1961](plot_01_division_1961.md)**
+**[Plot 0: Das Edikt von Potsdam 1685](plot_00_edikt_von_potsdam.md)**
+
+Nach den Verwüstungen des Dreißigjährigen Krieges holt der Große Kurfürst vertriebene französische Hugenotten in seine entvölkerte Stadt und macht Zuwanderung, nicht Abstammung, zur Grundlage Berliner Zugehörigkeit.
+
+**[Plot 1: Berlin wird Weltstadt, 1920 bis 1933](plot_01_weltstadt_1920_1933.md)**
+
+Durch das Groß-Berlin-Gesetz auf vier Millionen Einwohner gewachsen, lebt die Stadt in den Goldenen Zwanzigern eine Freiheit der Nacht und der Forschung vor, die die Nationalsozialisten 1933 mit Buchverbrennung und Zerstörung wieder auslöschen.
+
+**[Plot 2: Der Bau der Berliner Mauer 1961](plot_02_division_1961.md)**
 
 Die Regierung der DDR errichtet die Berliner Mauer, wodurch die Stadt über Nacht physisch geteilt wird und Familien zerrissen werden.
 
-**[Plot 2: Der Fall der Mauer 1989](plot_02_reunification_1989.md)**
+**[Plot 3: Der Fall der Mauer 1989](plot_03_reunification_1989.md)**
 
 Nach monatelangen friedlichen Protesten in Ostdeutschland öffnen sich die Grenzübergänge in Berlin, was das Ende der Teilung einläutet.
 
-**[Plot 3: Der Aufstieg der Techno-Subkultur nach 1990](plot_03_subculture.md)**
+**[Plot 4: Der Aufstieg der Techno-Subkultur nach 1990](plot_04_subculture.md)**
 
 In den Leerständen der ehemals geteilten Stadt entwickelt sich eine vitale Clubszene, die Berlin zum globalen Zentrum elektronischer Musik macht.
+
+**[Plot 5: Arm, aber sexy: die Startup-Hauptstadt, 2003 bis 2015](plot_05_startup_hauptstadt.md)**
+
+Billige Mieten und eine feiernde Nachtszene ziehen Gründerinnen und Kreative an, die Berlin zur europäischen Startup-Hauptstadt machen und dabei die Mieten in die Höhe treiben, die sie selbst erst anlockten.
+
+**[Plot 99: Das teure Jahrzehnt, seit 2020](plot_99_das_teure_jahrzehnt.md)**
+
+Der Flughafen BER eröffnet neun Jahre zu spät, der Mietendeckel fällt in Karlsruhe, ein Volksentscheid für die Vergesellschaftung großer Vermieter bleibt ohne Gesetzeskraft, und eine ganze Wahl muss wiederholt werden. Ein Befund und keine Vorhersage: Berlin wird teurer, während es noch darüber streitet, wie es das verhindern will.
 
 ## Stakes
 

@@ -34,4 +34,4 @@ Ein Abdruck aus feuchter, dunkler Stempelfarbe, der oft ein geometrisches Motiv 
 ## Yearbook
 
 - Erhalten und stolz getragen von [Amelie](persona_amelie.md) nach erfolgreichem Passieren der Türkontrolle.
-- Symbol der Zugehörigkeit im Plot [Der Aufstieg der Techno-Subkultur nach 1990](plot_03_subculture.md).
+- Symbol der Zugehörigkeit im Plot [Der Aufstieg der Techno-Subkultur nach 1990](plot_04_subculture.md).

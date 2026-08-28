@@ -25,7 +25,8 @@ Der Kölner Dom, die gotische Kathedrale im Zentrum von Köln, nahe dem Rhein ge
 
 ## Holds
 
-- die religiöse und historische Kontinuität im Plot [Die Operation Marriage 1946](plot_02_creation_1946.md) : das unerschütterliche Symbol des Rheinlandes.
+- die religiöse und historische Kontinuität im Plot [Die Operation Marriage 1946](plot_03_creation_1946.md) : das unerschütterliche Symbol des Rheinlandes.
+- das römisch-christliche Erbe im Plot [Zwei Ursprünge: Colonia und Westfalen](plot_00_zwei_urspruenge.md) : der Ort, an dem seit dem Bischof Maternus im frühen 4. Jahrhundert eine Bischofskirche steht, lange bevor Westfalen einen Namen hat.
 
 ## Offers
 
