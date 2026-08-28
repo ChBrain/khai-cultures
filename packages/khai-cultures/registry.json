@@ -7936,6 +7936,11 @@
           "title": "The Hessian Constitution"
         },
         {
+          "file": "piece_donar_eiche.md",
+          "kind": "piece",
+          "title": "The Donar Oak"
+        },
+        {
           "file": "pitch_hesse.md",
           "kind": "pitch",
           "title": "The Hesse Key",
@@ -7945,6 +7950,21 @@
           "file": "place_bankenviertel.md",
           "kind": "place",
           "title": "Frankfurt Bankenviertel"
+        },
+        {
+          "file": "place_geismar.md",
+          "kind": "place",
+          "title": "Geismar bei Fritzlar"
+        },
+        {
+          "file": "place_hanau.md",
+          "kind": "place",
+          "title": "Hanau"
+        },
+        {
+          "file": "place_kassel.md",
+          "kind": "place",
+          "title": "Kassel"
         },
         {
           "file": "place_paulskirche.md",
@@ -7962,6 +7982,12 @@
           "title": "Hesse"
         },
         {
+          "file": "plot_00_donar_eiche_geismar_723.md",
+          "kind": "plot",
+          "title": "The Felling of the Donar Oak, 723",
+          "taxonomy": "play_hesse.md"
+        },
+        {
           "file": "plot_01_frankfurt_constitution_1848.md",
           "kind": "plot",
           "title": "The Frankfurt Parliament of 1848",
@@ -7977,6 +8003,12 @@
           "file": "plot_03_finance_hub.md",
           "kind": "plot",
           "title": "The Rise of Frankfurt as a Financial Center",
+          "taxonomy": "play_hesse.md"
+        },
+        {
+          "file": "plot_99_rechter_terror_2019_2020.md",
+          "kind": "plot",
+          "title": "Right-Wing Terror and the State's Own Files, 2019 and 2020",
           "taxonomy": "play_hesse.md"
         },
         {
