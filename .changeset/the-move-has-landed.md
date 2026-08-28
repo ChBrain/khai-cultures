@@ -20,3 +20,17 @@ refuse.
 
 The four resolvers that learned both layouts for the move stop hedging, and the
 guard config drops the old paths it carried so renames could pair.
+
+**And the gate was reading its second rule by the wrong measure.** _A tongue nobody
+acquires first is nobody's mother tongue_ was decided by splitting the Projection
+into clauses, which German will not carry: Etter `[spricht] Zugerdeutsch, doch
+seine Radioansprachen [schreibt] er in Hochdeutsch` is one clause and two tongues,
+so the gate accused him of a fault his sentence does not contain — and so did the
+gate for Urs. Taking the tongue that follows the grip instead fixes those two and
+breaks Katharina, whose tongue is named before her grip and whose office language
+after it. Neither order is the order; **distance is.** The grip now takes the
+nearest tongue in the Projection, looking both ways, which is where prose puts it
+whichever way the clause runs. Measured across all 290 cultures and both open
+DACH branches: Etter, Urs and Katharina clean, Vreni — the one real fault, already
+fixed in #425 — still caught. No false positives left, so the check stays blocking
+rather than being demoted to a report.
