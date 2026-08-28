@@ -34,4 +34,4 @@ Die Patentschrift Nummer 37435 für den Benz Patent-Motorwagen Nummer 1, bestehe
 ## Yearbook
 
 - Inspiriert die Arbeit von Gründerin [Frieda](persona_frieda.md) als Ansporn für neue nachhaltige Erfindungen.
-- Historische Geburtsurkunde der Industrie im Plot [Die Erfindung des Automobils 1886](plot_03_automobil_1886.md).
+- Historische Geburtsurkunde der Industrie im Plot [Die Erfindung des Automobils 1886](plot_04_automobil_1886.md).

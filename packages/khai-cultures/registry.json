@@ -7253,15 +7253,30 @@
           "title": "The Patent Motor Car"
         },
         {
+          "file": "piece_bausparvertrag.md",
+          "kind": "piece",
+          "title": "The Building Savings Contract"
+        },
+        {
           "file": "piece_kuckucksuhr.md",
           "kind": "piece",
           "title": "The Cuckoo Clock"
+        },
+        {
+          "file": "piece_landeswappen.md",
+          "kind": "piece",
+          "title": "The State Coat of Arms"
         },
         {
           "file": "pitch_baden_wuerttemberg.md",
           "kind": "pitch",
           "title": "The Baden-Wuerttemberg Key",
           "taxonomy": "play_baden_wuerttemberg.md"
+        },
+        {
+          "file": "place_hohenstaufen.md",
+          "kind": "place",
+          "title": "Hohenstaufen Hill"
         },
         {
           "file": "place_schwarzwald.md",
@@ -7274,6 +7289,16 @@
           "title": "Stuttgarter Becken"
         },
         {
+          "file": "place_tuebinger_stift.md",
+          "kind": "place",
+          "title": "Tuebingen Seminary"
+        },
+        {
+          "file": "place_wuestenrot.md",
+          "kind": "place",
+          "title": "Wuestenrot"
+        },
+        {
           "file": "plan_mobilitat.md",
           "kind": "plan",
           "title": "die Mobilitätswende"
@@ -7284,21 +7309,51 @@
           "title": "Baden-Württemberg"
         },
         {
-          "file": "plot_01_koenigreich_1806.md",
+          "file": "plot_00_alemannen_und_die_sprachgrenze.md",
+          "kind": "plot",
+          "title": "The Alamanni and the Dialect Boundary",
+          "taxonomy": "play_baden_wuerttemberg.md"
+        },
+        {
+          "file": "plot_01_hohenstaufen_1079_1268.md",
+          "kind": "plot",
+          "title": "From a Hill to the Imperial Throne",
+          "taxonomy": "play_baden_wuerttemberg.md"
+        },
+        {
+          "file": "plot_02_tuebinger_stift_1788.md",
+          "kind": "plot",
+          "title": "The Tuebingen Roommates",
+          "taxonomy": "play_baden_wuerttemberg.md"
+        },
+        {
+          "file": "plot_03_koenigreich_1806.md",
           "kind": "plot",
           "title": "The Napoleonic Restructuring",
           "taxonomy": "play_baden_wuerttemberg.md"
         },
         {
-          "file": "plot_02_volksabstimmung_1951.md",
+          "file": "plot_04_automobil_1886.md",
+          "kind": "plot",
+          "title": "The Invention of the Automobile",
+          "taxonomy": "play_baden_wuerttemberg.md"
+        },
+        {
+          "file": "plot_05_wuestenrot_1921.md",
+          "kind": "plot",
+          "title": "Wuestenrot and the Building Savings Contract",
+          "taxonomy": "play_baden_wuerttemberg.md"
+        },
+        {
+          "file": "plot_06_volksabstimmung_1951.md",
           "kind": "plot",
           "title": "The Unification Referendum",
           "taxonomy": "play_baden_wuerttemberg.md"
         },
         {
-          "file": "plot_03_automobil_1886.md",
+          "file": "plot_99_der_lange_abschied_vom_verbrenner.md",
           "kind": "plot",
-          "title": "The Invention of the Automobile",
+          "title": "The Long Goodbye to the Combustion Engine",
           "taxonomy": "play_baden_wuerttemberg.md"
         },
         {
@@ -7315,6 +7370,11 @@
           "file": "position_schaffen.md",
           "kind": "position",
           "title": "The Diligent Work Ethic"
+        },
+        {
+          "file": "position_stille_klugheit.md",
+          "kind": "position",
+          "title": "The Quiet Cleverness"
         },
         {
           "file": "position_tuefteln.md",

@@ -25,7 +25,7 @@ Das Stuttgarter Becken, die Landeshauptstadt in einer Kessellage gelegen. Umgebe
 
 ## Holds
 
-- die politische und industrielle Zentralisierung im Plot [Die Volksabstimmung zum Südweststaat 1951](plot_02_volksabstimmung_1951.md) : das administrative und wirtschaftliche Herz des Bundeslandes.
+- die politische und industrielle Zentralisierung im Plot [Die Volksabstimmung zum Südweststaat 1951](plot_06_volksabstimmung_1951.md) : das administrative und wirtschaftliche Herz des Bundeslandes.
 
 ## Offers
 
