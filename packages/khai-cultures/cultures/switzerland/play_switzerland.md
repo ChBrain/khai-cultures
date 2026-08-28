@@ -89,49 +89,53 @@ Ein kleines Land mitten in Europa, das nicht durch eine Sprache, ein Volk oder e
 
 ## Triggers
 
-**[Plot 1: Die Helvetier und die vier Zonen](plot_01_helvetier_und_die_vier_zonen.md)**
+**[Plot 0: Die Helvetier und die vier Zonen](plot_00_helvetier_und_die_vier_zonen.md)**
 
 Caesar schreibt 58 vor Christus den Namen auf, der heute auf den Münzen steht. Rom nimmt das Mittelland, zieht sich vierhundert Jahre später zurück, und Alemannen, Burgunder und die abgelegenen Täler lassen vier Sprachzonen übrig, deren Grenzen bis heute ungefähr dort liegen.
 
-**[Plot 2: Die Öffnung des Gotthards](plot_02_der_gotthard.md)**
+**[Plot 1: Die Öffnung des Gotthards](plot_02_der_gotthard.md)**
 
 Um 1220 wird die Schöllenen bezwungen und der kürzeste Weg nach Italien geht offen. [Der Säumer](persona_saeumer.md) macht daraus ein Gewerbe, die Talleute verwalten den Weg selbst, und der Kaiser bezahlt ihnen die Reichsfreiheit dafür, dass sie ihn offen halten.
 
-**[Plot 3: Der Rütlischwur 1291](plot_03_ruetli_1291.md)**
+**[Plot 2: Der Rütlischwur 1291](plot_03_ruetli_1291.md)**
 
 Freie Talschaften schwören einen Bund gegen die fremden Vögte; [Tell](persona_tell.md) wird zum Sinnbild des [Milizgedankens](position_milizsystem.md), dass der freie Bürger sich selbst verteidigt.
 
-**[Plot 4: Die Reformation und die Kappelerkriege 1523-1531](plot_04_reformation_1531.md)**
+**[Plot 3: Die Reformation und die Kappelerkriege 1523-1531](plot_04_reformation_1531.md)**
 
 [Zwingli](persona_zwingli.md) reformiert Zürich, der Bund zerfällt in den Kappelerkriegen in zwei Konfessionen, und [Calvin](persona_calvin.md) macht das noch nicht eidgenössische Genf zur zweiten reformierten Hauptstadt; aus dem Streit entsteht [der Konfessionsfrieden](position_konfessionsfriede.md).
 
-**[Plot 5: Der Bundesstaat 1848](plot_05_bundesstaat_1848.md)**
+**[Plot 4: Der Bundesstaat 1848](plot_05_bundesstaat_1848.md)**
 
 Nach dem Sonderbundskrieg beendet [Dufour](persona_dufour.md) den Streit fast ohne Blut, und das Land gibt sich eine Verfassung: ein Bundesstaat mit direkter Demokratie und [Konkordanz](position_konkordanz.md).
 
-**[Plot 6: Das Rote Kreuz 1863](plot_06_rotes_kreuz_1863.md)**
+**[Plot 5: Das Rote Kreuz 1863](plot_06_rotes_kreuz_1863.md)**
 
 In [Genf](place_genf.md) gründet [Dunant](persona_dunant.md) das Rote Kreuz und gibt der [Neutralität](position_neutralitaet.md) eine humanitäre Aufgabe.
 
-**[Plot 7: Der Wohlstand: Uhren und das Bankgeheimnis 1934](plot_07_wohlstand_1934.md)**
+**[Plot 6: Der Wohlstand: Uhren und das Bankgeheimnis 1934](plot_07_wohlstand_1934.md)**
 
 Aus Uhrmacherei und Fremdenverkehr wächst der Wohlstand eines armen Bergland; in [Zürich](place_zuerich.md) macht das Bankengesetz von 1934 [das Bankgeheimnis](position_bankgeheimnis.md) zur Pflicht, mit Licht- und Schattenseiten, die [Urs](persona_urs.md) bis heute verwaltet.
 
-**[Plot 8: Der Sprachenartikel 1938](plot_08_sprachenartikel_1938.md)**
+**[Plot 7: Der Sprachenartikel 1938](plot_08_sprachenartikel_1938.md)**
 
 Gegen faschistische Ansprüche auf Rätoromanisch und Tessin macht Bundesrat [Etter](persona_etter.md) die vierte Landessprache zur Verfassungstatsache; die Grundlage, auf der [Gian](persona_gian.md) und [Marco](persona_marco.md) bis heute stehen.
 
-**[Plot 9: Die Kriegsjahre 1939 bis 1945](plot_09_kriegsjahre_1939_1945.md)**
+**[Plot 8: Die Kriegsjahre 1939 bis 1945](plot_09_kriegsjahre_1939_1945.md)**
 
 General [Guisan](persona_guisan.md) verlegt die Verteidigung ins [Réduit](place_reduit.md) und erspart dem Land die Invasion; dieselbe [Neutralität](position_neutralitaet.md) weist an der Grenze Tausende Flüchtlinge ab.
 
-**[Plot 10: Das Frauenstimmrecht 1971](plot_10_frauenstimmrecht_1971.md)**
+**[Plot 9: Das Frauenstimmrecht 1971](plot_10_frauenstimmrecht_1971.md)**
 
 Erst 1971 dürfen die Frauen auf Bundesebene wählen; bei der nächsten [Volksabstimmung](process_volksabstimmung.md) gehört [Vreni](persona_vreni.md) zu den Ersten, die mitentscheiden.
 
-**[Plot 11: Das Nein zum EWR 1992](plot_11_ewr_1992.md)**
+**[Plot 10: Das Nein zum EWR 1992](plot_11_ewr_1992.md)**
 
 Das Volk lehnt den Beitritt zum Europäischen Wirtschaftsraum hauchdünn ab, entlang eines fast reinen Röstigrabens; die stille Frage der Gründungssage, ob der Wille zur Einheit hält, wenn die Sprachen auseinanderstreben, bekommt ihre bisher klarste Antwort.
+
+**[Plot 99: Was halten sollte, seit 2014](plot_99_was_halten_sollte.md)**
+
+Ein Volksentscheid gegen die Personenfreizügigkeit, das zurückgezogene Beitrittsgesuch, abgebrochene Verhandlungen, das Ende [des Bankgeheimnisses](position_bankgeheimnis.md) gegenüber dem Ausland und der Fall der Credit Suisse an einem Wochenende. Dazwischen geht [der Basistunnel](place_gotthard.md) im Kostenrahmen und vor dem Termin in Betrieb.
 
 ## Stakes
 
