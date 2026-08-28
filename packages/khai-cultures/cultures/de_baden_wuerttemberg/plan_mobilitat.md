@@ -41,3 +41,4 @@ Der Aufbau von Batteriezellfabriken im Land; der Start von Testfeldern für auto
 - [x] Testfelder für autonomes Fahren wurden in Karlsruhe eingerichtet.
 - [W] Der schleppende Ausbau der Schieneninfrastruktur verzögert die geplante Verkehrsverlagerung.
 - [ ] Den Treibhausgasausstoß des Verkehrssektors bis 2030 um 55 Prozent im Vergleich zu 1990 reduzieren.
+- [ ] Den Stellenabbau bei Bosch und Daimler Truck durch neue Arbeitsplätze in Batteriezellfertigung und Mobilitätssoftware auffangen, bevor die alten verschwunden sind.
