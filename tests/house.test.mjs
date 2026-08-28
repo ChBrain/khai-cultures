@@ -10,6 +10,7 @@ import {
   cultureIds as coveredCultureIds,
   allWaivers,
   touchedCultures,
+  report as coverageReport,
 } from "./company_coverage.mjs";
 import { standalone } from "./tongues_standalone.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
@@ -287,5 +288,30 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
     expect(
       touchedCultures(["tests/house.test.mjs", "packages/khai-cultures-tongues/de/x.md"]),
     ).toEqual([]);
+  });
+});
+
+// A report that hides rows and does not say so is indistinguishable, to the grep
+// someone will inevitably reach for, from a report that found nothing. The
+// coverage report shows the worst twenty cultures out of the ~250 carrying debt;
+// grepping it for a culture below that cut printed nothing, nothing was read as
+// zero, and a culture with four dead Company entries went into a branch as
+// "clean". The gate caught it. This pins the line that would have said so.
+describe("Cultures house: a truncated report says that it is truncated", () => {
+  it("names the number of cultures it is not showing", () => {
+    const lines = [];
+    const log = console.log;
+    console.log = (...a) => lines.push(a.join(" "));
+    try {
+      coverageReport();
+    } finally {
+      console.log = log;
+    }
+    const total = Number(/dead entries: (\d+) of/.exec(lines.join("\n"))?.[1] ?? 0);
+    if (total <= 20) return; // nothing hidden, nothing to announce
+    expect(
+      lines.join("\n"),
+      "the coverage report truncates without saying so, so a grep for a hidden culture reads as zero",
+    ).toMatch(/NOT SHOWN/);
   });
 });
