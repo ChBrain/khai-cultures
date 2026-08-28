@@ -2,19 +2,37 @@
 
 This repository is a **khai content house**: a house dedicated to cultures. It is
 structured and governed exactly like a khai **plays** house, but its content
-folder is **`cultures/`** (indexing a `cultures` collection) instead of `plays/`.
+folder is **`packages/khai-cultures/cultures/`** (indexing a `cultures` collection)
+instead of `plays/`.
 
 ## What lives here
 
-- `cultures/` holds the cultures: each a full khai **play** staged as a culture —
+- `packages/khai-cultures/cultures/` holds the cultures: each a full khai **play**
+  staged as a culture —
   a subdirectory of khai instances across the whole play canon (play, pitch,
   plot, persona, position, place, process, piece) anchored by a `play_*.md`. This
   is the only content.
 - The rest is the wiring and the gates, raised once and not improvised.
 
+## The repository is a workspace
+
+The root is a container, `@chbrain/khai-cultures-workspace`, private and forever
+`0.0.0`. It publishes nothing and holds the tooling: the gates, the changesets,
+the workflows, this file. Everything that ships lives in a package beneath it,
+which is how khai itself is arranged, and for the same reason: changesets treats
+a workspace root as the container and not as something it can version, so a root
+that tried to be both would stop being releasable the moment it gained a second
+package.
+
+- `packages/khai-cultures` is the house: the cultures, the groups, the registry.
+- `packages/khai-cultures-tongues` is the tongues, depended on by name and range
+  like any other package, resolved locally here and from the registry by anyone
+  who installs the house.
+
 ## The house is the Estate
 
-`README.md` is this house's **Estate identity**: the production that answers for
+`packages/khai-cultures/README.md` is this house's **Estate identity**: the
+production that answers for
 the run. Every culture logs the house in its `Estate` (E), and the conformance
 test checks the link resolves. A culture with no Estate is not yet a production.
 
@@ -26,10 +44,12 @@ Computed, not chosen. Let the guard pick the lane:
 npx khai-guard branch <topic>
 ```
 
-- `culture/<topic>` owns `cultures/**` (the content).
+- `culture/<topic>` owns `packages/khai-cultures/cultures/**` and
+  `packages/khai-cultures-tongues/**` (the content).
 - `governance/<topic>` owns the gates and config (`.github/**`, `.husky/**`,
-  `khai-guard.config.json`, `tests/**`, `CLAUDE.md`, `GEMINI.md`, `README.md`,
-  `REFERENCE.md`, `REFERENCES.md`, `management/**`).
+  `khai-guard.config.json`, `tests/**`, `CLAUDE.md`, `GEMINI.md`, `management/**`,
+  and the house package's own word about itself: its `README.md`,
+  `REFERENCES.md` and `playwright_instructions.md`).
 - `changeset-release/*` is a bot-controlled general lane for version releases.
 
 A **management order** (`management/orders/**`) is a **rider**: an order directs
@@ -75,7 +95,8 @@ node tests/company_coverage.mjs --report
 
 The gate runs on the cultures a PR touches, so the debt only ever shrinks. If
 casting something would be anachronistic or contrived, waive it with a reason in
-`cultures/<id>/coverage-waivers.json`; never invent a scene to satisfy a counter.
+`packages/khai-cultures/cultures/<id>/coverage-waivers.json`; never invent a scene
+to satisfy a counter.
 
 ## The tongues stand alone
 
