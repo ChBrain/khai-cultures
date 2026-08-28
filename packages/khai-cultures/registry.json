@@ -1726,6 +1726,11 @@
           "title": "The Sachertorte"
         },
         {
+          "file": "piece_salz.md",
+          "kind": "piece",
+          "title": "Salt"
+        },
+        {
           "file": "piece_walzer.md",
           "kind": "piece",
           "title": "The Waltz"
@@ -1763,61 +1768,73 @@
           "title": "Austria"
         },
         {
-          "file": "plot_01_tuerkenbelagerung_1683.md",
+          "file": "plot_01_hallstatt_und_noricum.md",
+          "kind": "plot",
+          "title": "Hallstatt and Noricum",
+          "taxonomy": "play_austria.md"
+        },
+        {
+          "file": "plot_02_tuerkenbelagerung_1683.md",
           "kind": "plot",
           "title": "The Siege of Vienna 1683",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_02_maria_theresia.md",
+          "file": "plot_03_der_barock.md",
+          "kind": "plot",
+          "title": "The Baroque",
+          "taxonomy": "play_austria.md"
+        },
+        {
+          "file": "plot_04_maria_theresia.md",
           "kind": "plot",
           "title": "The Time of Her Reign",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_03_wiener_klassik.md",
+          "file": "plot_05_wiener_klassik.md",
           "kind": "plot",
           "title": "Vienna Becomes the Capital of Music",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_04_wiener_kongress_1815.md",
+          "file": "plot_06_wiener_kongress_1815.md",
           "kind": "plot",
           "title": "The Congress of Vienna 1815",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_05_koeniggraetz_1866.md",
+          "file": "plot_07_koeniggraetz_1866.md",
           "kind": "plot",
           "title": "The Battle of Königgrätz 1866",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_06_fin_de_siecle.md",
+          "file": "plot_08_fin_de_siecle.md",
           "kind": "plot",
           "title": "Vienna around 1900",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_07_zerfall_1918.md",
+          "file": "plot_09_zerfall_1918.md",
           "kind": "plot",
           "title": "The Collapse of 1918",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_08_anschluss_1938.md",
+          "file": "plot_10_anschluss_1938.md",
           "kind": "plot",
           "title": "The Annexation of 1938",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_09_staatsvertrag_1955.md",
+          "file": "plot_11_staatsvertrag_1955.md",
           "kind": "plot",
           "title": "The State Treaty of 1955",
           "taxonomy": "play_austria.md"
         },
         {
-          "file": "plot_10_waldheim_1986.md",
+          "file": "plot_12_waldheim_1986.md",
           "kind": "plot",
           "title": "The Waldheim Affair 1986",
           "taxonomy": "play_austria.md"

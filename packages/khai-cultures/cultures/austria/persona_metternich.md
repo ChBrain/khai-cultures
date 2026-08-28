@@ -27,7 +27,7 @@ Der Staatskanzler, Meister des Gleichgewichts und der feinen Umwege. Kühl, eleg
 
 ## Action
 
-Auf dem [Wiener Kongress 1815](plot_04_wiener_kongress_1815.md) ordnet er Europa zu einem Gleichgewicht und hält den Frieden mit Verhandlung, Geduld und [Schmäh](position_schmaeh.md) statt mit Gewalt. Er macht Wien noch einmal zur Mitte des Kontinents.
+Auf dem [Wiener Kongress 1815](plot_06_wiener_kongress_1815.md) ordnet er Europa zu einem Gleichgewicht und hält den Frieden mit Verhandlung, Geduld und [Schmäh](position_schmaeh.md) statt mit Gewalt. Er macht Wien noch einmal zur Mitte des Kontinents.
 
 ## Shadow
 

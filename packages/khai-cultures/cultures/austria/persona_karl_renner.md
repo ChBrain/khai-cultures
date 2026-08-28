@@ -27,7 +27,7 @@ Der Jurist und Sozialdemokrat, der zweimal einen Staat aus dem Nichts gründet u
 
 ## Action
 
-Als Staatskanzler ruft er 1918 die Republik aus, deren [Zerfall](plot_07_zerfall_1918.md) des alten Reiches sie ist. Zwanzig Jahre später [empfiehlt er öffentlich ein Ja zur Angliederung an das nationalsozialistische Deutschland](plot_08_anschluss_1938.md), ehe er 1945 als erster Präsident die Zweite Republik mitbegründet.
+Als Staatskanzler ruft er 1918 die Republik aus, deren [Zerfall](plot_09_zerfall_1918.md) des alten Reiches sie ist. Zwanzig Jahre später [empfiehlt er öffentlich ein Ja zur Angliederung an das nationalsozialistische Deutschland](plot_10_anschluss_1938.md), ehe er 1945 als erster Präsident die Zweite Republik mitbegründet.
 
 ## Shadow
 

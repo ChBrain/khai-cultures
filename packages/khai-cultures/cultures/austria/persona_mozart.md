@@ -27,7 +27,7 @@ Das Wunderkind, das als Bub durch die Höfe Europas gereicht wird und als Erwach
 
 ## Action
 
-Als [Wien zur Hauptstadt der Musik wird](plot_03_wiener_klassik.md), verlässt er den Dienst des Salzburger Erzbischofs, der ihm den [Titel](position_titel.md) eines Konzertmeisters, aber keine Freiheit lässt, und macht Wien zu seiner Wahlheimat. Er schreibt hier seine großen Opern und stirbt über dem unvollendeten Requiem, dem letzten Werk [der Wiener Klassik](piece_wiener_klassik.md), die er mitbegründet.
+Als [Wien zur Hauptstadt der Musik wird](plot_05_wiener_klassik.md), verlässt er den Dienst des Salzburger Erzbischofs, der ihm den [Titel](position_titel.md) eines Konzertmeisters, aber keine Freiheit lässt, und macht Wien zu seiner Wahlheimat. Er schreibt hier seine großen Opern und stirbt über dem unvollendeten Requiem, dem letzten Werk [der Wiener Klassik](piece_wiener_klassik.md), die er mitbegründet.
 
 ## Shadow
 

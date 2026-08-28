@@ -27,7 +27,7 @@ Der Diplomat, der es bis zum UNO-Generalsekretär bringt und danach Präsident w
 
 ## Action
 
-Im Präsidentschaftswahlkampf [1986](plot_10_waldheim_1986.md) wird seine Wehrmachtsvergangenheit auf dem Balkan öffentlich, die er vierzig Jahre lang in seiner offiziellen Biographie ausgelassen hat. Er weicht jeder direkten Frage aus, gewinnt die Wahl trotzdem und wird später von den Vereinigten Staaten mit einem Einreiseverbot belegt.
+Im Präsidentschaftswahlkampf [1986](plot_12_waldheim_1986.md) wird seine Wehrmachtsvergangenheit auf dem Balkan öffentlich, die er vierzig Jahre lang in seiner offiziellen Biographie ausgelassen hat. Er weicht jeder direkten Frage aus, gewinnt die Wahl trotzdem und wird später von den Vereinigten Staaten mit einem Einreiseverbot belegt.
 
 ## Shadow
 
