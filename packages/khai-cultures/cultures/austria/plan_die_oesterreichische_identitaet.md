@@ -39,5 +39,5 @@ Die Zweite Republik als staatlicher Rahmen; das Österreichische Wörterbuch und
 
 - [x] Österreich hat sich als eigene Nation und Zweite Republik fest etabliert.
 - [x] Das österreichische Deutsch ist als eigene Standardvariante anerkannt, bis in die EU-Verträge.
-- [W] Der Opfermythos verstellte lange den ehrlichen Blick auf die eigene Schuld, bis die Waldheim-Debatte ihn aufbrach.
+- [W] Der Opfermythos verstellte lange den ehrlichen Blick auf die eigene Schuld, bis [die Waldheim-Affäre](plot_10_waldheim_1986.md) ihn aufbrach.
 - [ ] Die eigene Form gegen die ständig wachsende bundesdeutsche Flut aus Medien und Netz lebendig halten.

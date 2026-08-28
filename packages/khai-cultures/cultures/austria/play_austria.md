@@ -29,10 +29,15 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 
 **Personas**
 
+- [Prinz Eugen von Savoyen](persona_prinz_eugen.md)
 - [Maria Theresia](persona_maria_theresia.md)
+- [Wolfgang Amadeus Mozart](persona_mozart.md)
 - [Klemens von Metternich](persona_metternich.md)
+- [Franz Joseph I.](persona_franz_joseph.md)
 - [Sigmund Freud](persona_freud.md)
+- [Karl Renner](persona_karl_renner.md)
 - [Grete](persona_grete.md)
+- [Kurt Waldheim](persona_waldheim.md)
 - [Lukas](persona_lukas.md)
 
 **Places**
@@ -59,6 +64,8 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 
 **Pieces**
 
+- [das Belvedere](piece_belvedere.md)
+- [die Wiener Klassik](piece_wiener_klassik.md)
 - [die Sachertorte](piece_sachertorte.md)
 - [der Walzer](piece_walzer.md)
 
@@ -72,21 +79,45 @@ Einst die Mitte eines Reiches, das halb Europa umspannte, über Nacht zu einem k
 
 ## Triggers
 
-**[Plot 1: Maria Theresia](plot_01_maria_theresia.md)**
+**[Plot 1: Die Türkenbelagerung 1683](plot_01_tuerkenbelagerung_1683.md)**
+
+Ein Entsatzheer bricht die Belagerung [Wiens](place_wien.md) durch die Osmanen, und der junge [Prinz Eugen von Savoyen](persona_prinz_eugen.md) kämpft zum ersten Mal für das Haus Habsburg; aus dem Sieg wächst das Reich, das bald halb Europa umspannt.
+
+**[Plot 2: Maria Theresia](plot_02_maria_theresia.md)**
 
 Die einzige Frau auf dem Habsburger Thron reformiert von [Wien](place_wien.md) aus Schule, Verwaltung und Heer und wird zur Landesmutter; aus ihrem Apparat wächst die Welt der Ämter und [Titel](position_titel.md).
 
-**[Plot 2: Der Wiener Kongress 1815](plot_02_wiener_kongress_1815.md)**
+**[Plot 3: Wien wird zur Hauptstadt der Musik](plot_03_wiener_klassik.md)**
+
+Haydn, [Mozart](persona_mozart.md) und Beethoven machen [Wien](place_wien.md) zur Hauptstadt der Musik, und das Land zieht zum ersten Mal seinen Stolz aus [der Kunst](piece_wiener_klassik.md) statt aus der Macht.
+
+**[Plot 4: Der Wiener Kongress 1815](plot_04_wiener_kongress_1815.md)**
 
 Nach Napoleon ordnet [Metternich](persona_metternich.md) in [Wien](place_wien.md) ganz Europa neu, und während die Diplomaten verhandeln, tanzt der Kongress den [Walzer](piece_walzer.md).
 
-**[Plot 3: Wien um 1900](plot_03_fin_de_siecle.md)**
+**[Plot 5: Königgrätz 1866](plot_05_koeniggraetz_1866.md)**
 
-Während das Reich altert, blüht in den [Kaffeehäusern](process_kaffeehaus.md) ein letzter Glanz: [Freud](persona_freud.md), Klimt und Mahler erfinden die Moderne, schöpferisch und todesnah zugleich.
+Die Niederlage gegen Preußen bei Königgrätz schließt Österreich für immer aus Deutschland aus, und [Franz Joseph](persona_franz_joseph.md) sucht den Ausgleich mit Ungarn, aus dem Kaisertum wird die Doppelmonarchie.
 
-**[Plot 4: Der Staatsvertrag 1955](plot_04_staatsvertrag_1955.md)**
+**[Plot 6: Wien um 1900](plot_06_fin_de_siecle.md)**
 
-Nach Anschluss, Krieg und Besatzung wird das Land in [Wien](place_wien.md) wieder frei und neutral; "Österreich ist frei!" und sucht sich, diesmal bewusst, als eigene Nation neben Deutschland, gefeiert beim [Walzer](piece_walzer.md).
+Während das Reich unter dem greisen [Franz Joseph](persona_franz_joseph.md) altert, blüht in den [Kaffeehäusern](process_kaffeehaus.md) ein letzter Glanz: [Freud](persona_freud.md), Klimt und Mahler erfinden die Moderne, schöpferisch und todesnah zugleich.
+
+**[Plot 7: Der Zerfall 1918](plot_07_zerfall_1918.md)**
+
+Das Vielvölkerreich zerfällt nach der Kriegsniederlage, und [Karl Renner](persona_karl_renner.md) ruft in [Wien](place_wien.md) die Republik aus, den Staat, den kaum jemand gewollt hat.
+
+**[Plot 8: Der Anschluss 1938](plot_08_anschluss_1938.md)**
+
+Deutsche Truppen marschieren ein, und ein Großteil des Landes bejubelt den Anschluss, statt sich ihm zu widersetzen; die Erzählung vom reinen Opfer widerspricht dem, was auf dem Heldenplatz in [Wien](place_wien.md) geschieht, von Anfang an.
+
+**[Plot 9: Der Staatsvertrag 1955](plot_09_staatsvertrag_1955.md)**
+
+Nach [Anschluss](plot_08_anschluss_1938.md), Krieg und Besatzung wird das Land in [Wien](place_wien.md) wieder frei und neutral; "Österreich ist frei!" und sucht sich, diesmal bewusst, als eigene Nation neben Deutschland, gefeiert beim [Walzer](piece_walzer.md).
+
+**[Plot 10: Die Waldheim-Affäre 1986](plot_10_waldheim_1986.md)**
+
+Die verschwiegene Vergangenheit des Präsidentschaftskandidaten [Waldheim](persona_waldheim.md) bricht den Opfermythos auf, den [die österreichische Identität](plan_die_oesterreichische_identitaet.md) sich seit 1945 bequem eingerichtet hatte, und [Lukas](persona_lukas.md)' Generation wächst in der ehrlicheren, aber längst selbstverständlich gewordenen Sicht danach auf.
 
 ## Stakes
 
