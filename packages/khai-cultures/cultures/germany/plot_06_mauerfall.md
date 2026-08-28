@@ -35,4 +35,4 @@ Am Abend des 9. November öffnen sich die Grenzübergänge, und die Mauer fällt
 
 ## Tension
 
-Zwei Hälften wachsen zusammen, doch sie haben Verschiedenes erlebt. Ob aus Sieger und Verlierer ein gemeinsames Land mit einem gemeinsamen Gedächtnis wird, oder ob der Bruch bleibt, ist die Aufgabe, die [Elke](persona_elke.md) und die nachwachsende Generation einander stellen.
+Zwei Hälften wachsen zusammen, doch sie haben Verschiedenes erlebt. Ob aus Sieger und Verlierer ein gemeinsames Land mit einem gemeinsamen Gedächtnis wird, oder ob der Bruch bleibt, ist die Aufgabe, die [Elke](persona_elke.md) und die nachwachsende Generation einander stellen. [Jonas](persona_jonas.md), nach der Einheit geboren, kennt das geteilte Land nur aus Erzählungen: das gemeinsame Land ist ihm selbstverständlich, und gerade daran zeigt sich, ob das gemeinsame Gedächtnis mit übernommen wurde oder ob es bei den Erzählungen geblieben ist.

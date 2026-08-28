@@ -39,4 +39,4 @@ Během několika týdnů padne režim beze střelby. Občanské fórum vedené d
 
 ## Tension
 
-Národ si vezme svobodu po svém, bez mučedníků a bez krve, a potvrdí, že jemnost a ironie mohou zvítězit tam, kde hrdinství selhalo. Ale po vítězství zůstane otázka, kterou nese [české sebevědomí](plan_ceske_sebevedomi.md): zda skeptický národ dokáže svobodu i naplnit, anebo zda se vrátí k malosti a nedůvěře, jakmile pomine nepřítel, proti němuž cinkal.
+Národ si vezme svobodu po svém, bez mučedníků a bez krve, a potvrdí, že jemnost a ironie mohou zvítězit tam, kde hrdinství selhalo. Ale po vítězství zůstane otázka, kterou nese [české sebevědomí](plan_ceske_sebevedomi.md): zda skeptický národ dokáže svobodu i naplnit, anebo zda se vrátí k malosti a nedůvěře, jakmile pomine nepřítel, proti němuž cinkal. [Tomáš](persona_tomas.md), který se do té svobody narodil, je odpovědí i pokračováním té otázky zároveň: pracuje pro firmu za hranicemi, aniž musí odejít, což by před listopadem nešlo ani jedno, a přitom nevěří ani politikům, ani církvi; skepse zůstala, jen už nemá nepřítele, proti němuž by cinkala.
