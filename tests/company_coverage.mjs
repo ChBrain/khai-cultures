@@ -35,12 +35,9 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
-// The house package, wherever it currently sits. The repository is becoming a
-// workspace whose root publishes nothing and whose content lives in a package
-// beneath it; this resolves either layout so the verifiers can learn the new
-// place before the move puts anything there.
-const inPackage = join(HERE, "..", "packages", "khai-cultures");
-export const ROOT = existsSync(join(inPackage, "cultures")) ? inPackage : join(HERE, "..");
+// The house package. The repository root above it is the workspace container,
+// which holds the tooling and publishes nothing.
+export const ROOT = join(HERE, "..", "packages", "khai-cultures");
 export const WAIVERS_FILE = "coverage-waivers.json";
 
 // Held one way (by a persona) or keying the run: never fielded in a scene.
@@ -89,6 +86,15 @@ export function allWaivers(root = ROOT) {
 
 export function cultureIds(root = ROOT) {
   const dir = join(root, "cultures");
+  // A house with no cultures is a resolver that has lost the house, not a house
+  // that is empty. The persona-wiring gate reported `0 findings across 0
+  // cultures` for one merge after the workspace move, because its root still
+  // pointed at the container: clean, green, and reading nothing. A gate that has
+  // gone quiet must go red, so every reader of this list refuses an empty one.
+  if (!existsSync(dir) || !readdirSync(dir).some((e) => statSync(join(dir, e)).isDirectory()))
+    throw new Error(
+      `no cultures under ${dir}: the content root is wrong, and a check reading it would pass by reading nothing`,
+    );
   if (!existsSync(dir)) return [];
   return readdirSync(dir, { withFileTypes: true })
     .filter((e) => e.isDirectory() && !e.name.startsWith("."))
