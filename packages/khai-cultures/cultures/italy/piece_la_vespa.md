@@ -35,5 +35,5 @@ Uno scooter dalla carrozzeria tonda e elegante, di lamiera colorata, leggero e m
 ## Yearbook
 
 - Disegnata nel 1946, all'indomani della guerra, per dare al paese povero un mezzo a buon mercato.
-- Diventata il simbolo del [miracolo economico](plot_04_il_miracolo_economico.md) e della dolce vita degli anni del boom.
+- Diventata il simbolo del [miracolo economico](plot_05_il_miracolo_economico.md) e della dolce vita degli anni del boom.
 - Esportata e amata nel mondo come emblema del design e dello stile di vita italiano.

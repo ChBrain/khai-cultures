@@ -23,7 +23,7 @@ L'Italia, penisola dell'Europa meridionale protesa nel Mediterraneo, fondatrice 
 
 ## Arc
 
-Una civiltà prima di essere uno Stato: Roma e il Rinascimento diedero all'Europa il diritto, l'arte e una lingua, mentre la penisola restava divisa in mille città. Unita tardi e a fatica, nel 1861, su un popolo che parlava dialetti e non italiano, l'Italia ha dovuto "fare gli italiani" dopo aver fatto l'Italia: stendere una lingua comune con la scuola e la televisione, mentre famiglia e campanile restavano più forti dello Stato lontano. Sotto la bellezza e la bella figura corrono un'antica diffidenza del potere e il peso di un passato troppo grande.
+Un nome prima di un popolo e una civiltà prima di uno Stato: "Italia" copre la penisola dal tempo di Augusto, e per diciannove secoli continua a significare qualcosa senza significare nessuno. Roma e il Rinascimento diedero all'Europa il diritto, l'arte e una lingua, mentre dopo il Mille l'unità politica reale non era il regno ma la città, con le sue mura, la sua moneta e il suo campanile. Unita tardi e a fatica, nel 1861, su un popolo che parlava dialetti e non italiano, l'Italia ha dovuto "fare gli italiani" dopo aver fatto l'Italia, e ci è riuscita solo quando un elettrodomestico ha portato ogni sera la stessa lingua in ogni casa, mentre famiglia e campanile restavano più forti dello Stato lontano. Sotto la bellezza e la bella figura corrono un'antica diffidenza del potere e il peso di un passato troppo grande; e oggi, per la prima volta in pace, il popolo che doveva essere fatto diminuisce.
 
 ## Company
 
@@ -67,21 +67,37 @@ Una civiltà prima di essere uno Stato: Roma e il Rinascimento diedero all'Europ
 
 ## Triggers
 
+**[Plot 0: L'Italia prima dello Stato](plot_00_italia_prima_dello_stato.md)**
+
+Gli alleati italici si ribellano nel 91 avanti Cristo per ottenere la cittadinanza, e in due generazioni la penisola ha un solo stato giuridico e, con Augusto, un solo nome: un'Italia che esiste come parola milleottocento anni prima di esistere come Stato.
+
 **[Plot 1: Roma antica](plot_01_roma_antica.md)**
 
-A [Roma](place_roma.md) un impero dà a mezza Europa il diritto e il latino, da cui nascerà l'italiano; ma lascia all'Italia un passato così grande da pesare come ombra su tutto ciò che verrà.
+L'impero che diede all'Europa il diritto, la strada e il latino, e alla penisola un passato che pesa su tutto ciò che viene dopo.
 
-**[Plot 2: Il Rinascimento](plot_02_il_rinascimento.md)**
+**[Plot 2: I comuni](plot_02_i_comuni.md)**
 
-A [Firenze](place_firenze.md) rinascono l'arte e, con [Dante](persona_dante.md), la lingua, ma il genio fiorisce nella divisione, in mille città rivali e nessuno Stato.
+Dopo il Mille le città si giurano un patto e si governano da sé; a Legnano battono l'imperatore, e per settecento anni l'unità reale della penisola è la città e non il regno - da qui [il campanilismo](position_il_campanilismo.md), e da qui la fatica di tutto il resto.
 
-**[Plot 3: Il Risorgimento](plot_03_il_risorgimento.md)**
+**[Plot 3: Il Rinascimento](plot_03_il_rinascimento.md)**
 
-[Garibaldi](persona_garibaldi.md) e i Mille uniscono finalmente la penisola, ma i nuovi italiani parlano [dialetti](position_language_it_it.md): fatta l'Italia, restano da fare gli italiani.
+Le corti in gara fra loro fanno dell'Italia divisa il centro dell'arte e del pensiero europei.
 
-**[Plot 4: Il miracolo economico](plot_04_il_miracolo_economico.md)**
+**[Plot 4: Il Risorgimento](plot_04_il_risorgimento.md)**
 
-Il boom e la televisione danno a tutto il paese, in una generazione, una lingua parlata comune e una vita moderna, al prezzo dei dialetti e del vecchio mondo contadino.
+L'unificazione del 1861, fatta da pochi su un popolo che non si era mai pensato uno solo.
+
+**[Plot 5: Il miracolo economico](plot_05_il_miracolo_economico.md)**
+
+In quindici anni un paese contadino diventa una potenza industriale, e [la Vespa](piece_la_vespa.md) e il cinema danno un volto al boom.
+
+**[Plot 6: La lingua in televisione, 1954-1968](plot_06_la_lingua_in_televisione_1954_1968.md)**
+
+[Manzoni](persona_manzoni.md) aveva scelto una lingua parlata un secolo prima che esistesse un mezzo per portarla a tutti; la televisione lo fa in dieci anni, insegna a leggere agli adulti in diretta, e gli italiani vengono finalmente fatti - mentre i dialetti cominciano a ritirarsi.
+
+**[Plot 99: Il paese che invecchia, dal 2015](plot_99_il_paese_che_invecchia.md)**
+
+I residenti diminuiscono per la prima volta in pace, il contagio del 2020 vieta per legge [la tavola](process_la_tavola.md) e [la passeggiata](process_la_passeggiata.md), e il campanile suona in borghi dove non c'è più chi lo senta.
 
 ## Stakes
 

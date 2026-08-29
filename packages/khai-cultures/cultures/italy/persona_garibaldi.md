@@ -27,7 +27,7 @@ L'eroe dei due mondi, il condottiero che unì l'Italia con la camicia rossa e i 
 
 ## Action
 
-Nel [Risorgimento](plot_03_il_risorgimento.md) sbarca in Sicilia con i Mille, risale la penisola e consegna il Sud al nuovo Regno, vincendo con le armi il [campanilismo](position_il_campanilismo.md) degli stati divisi e facendo, di molti, una nazione sola.
+Nel [Risorgimento](plot_04_il_risorgimento.md) sbarca in Sicilia con i Mille, risale la penisola e consegna il Sud al nuovo Regno, vincendo con le armi il [campanilismo](position_il_campanilismo.md) degli stati divisi e facendo, di molti, una nazione sola.
 
 ## Shadow
 

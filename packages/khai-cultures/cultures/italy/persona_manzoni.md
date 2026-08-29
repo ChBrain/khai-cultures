@@ -27,7 +27,7 @@ Lo scrittore che diede all'Italia unita la sua prosa comune. [Parla e pensa](pro
 
 ## Action
 
-Riscrive il suo romanzo nella lingua di Firenze per offrire all'Italia appena unita un modello di prosa comune, e dà così alla nazione, al tempo del [Risorgimento](plot_03_il_risorgimento.md), una lingua scritta da condividere.
+Riscrive il suo romanzo nella lingua di Firenze per offrire all'Italia appena unita un modello di prosa comune, e dà così alla nazione, al tempo del [Risorgimento](plot_04_il_risorgimento.md), una lingua scritta da condividere.
 
 ## Shadow
 
