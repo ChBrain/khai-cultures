@@ -99,6 +99,16 @@ node tests/migrate_culture.mjs <id> --write    # perform it
 node tests/migrate_culture.mjs --queue         # the whole house, by what holds it
 ```
 
+**Writing a new culture**: take the chapter names from the canon and never from
+memory - `@chbrain/khai-arch` exports them as `types`, and a persona is
+`Projection, Action, Shadow, Tell` with a required `type`, a place is `Shown,
+Holds, Offers, Withheld`, a piece is `Place, Load Bearing, Apparent, Yearbook`, a
+process is `Initiated by, Direction, Lever, Echo`, a pitch is `Tenor, Undertow,
+Nerve, Echo`, each after `Taxonomy` and `Owner`. Write it with package specifiers
+from the start so it owes no `../`, then **commit it and migrate it second**: the
+tool moves an untracked directory by plain rename, but the ratchets read a
+committed rename, and both commits ride the same pull request.
+
 The tool does the mechanical half — the move, the manifest (`khai.class "house"`,
 `khai.production`, the anchoring play, and **no `khai.engine`**), the frozen name
 `@chbrain/khai-cultures-<id with hyphens>`, the licence pair, the outbound links

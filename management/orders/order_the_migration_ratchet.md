@@ -220,6 +220,38 @@ cultures will follow is worth breaking once on purpose, and it is worth breaking
 on a culture that is already finished, so that a real failure and a failure of
 the culture cannot be confused.
 
+## What the first AUTHORED culture found
+
+Uri was written from nothing and migrated in the same pull request, and that is a
+different exercise from restaging one. Two gaps only appear this way round.
+
+**A culture written correctly declares nothing.** The tool derived a package's
+dependencies from the `../` links it rewrote, and a culture authored today is
+written with package specifiers from the start - so it has no `../`, nothing is
+rewritten, and nothing is derived. Uri named its parent and did not depend on it.
+Every specifier a culture ends up carrying is now declared, whether this tool
+wrote it or a person did, with the range taken from the umbrella where the house
+already pins one.
+
+**Git will not move what it has never tracked.** `git mv` is right for a culture
+that has been committed - it records a rename, the ratchets spare it as a rename,
+and the history follows - and it fails outright on a directory authored in the
+same pull request. The tool now falls back to a plain rename when the source is
+untracked, which is what that move is: there is no history to preserve and
+nothing for git to detect. The workflow either way is author, commit, migrate,
+and the pull request carries both commits.
+
+And one thing that is not a tool gap and is worth writing down beside them. The
+chapter names of every element type are the canon's and are exported by
+`@chbrain/khai-arch` as `types`: a persona is `Projection, Action, Shadow, Tell`
+with a required `type` in its frontmatter, a place is `Shown, Holds, Offers,
+Withheld`, a piece is `Place, Load Bearing, Apparent, Yearbook`, a process is
+`Initiated by, Direction, Lever, Echo`, a pitch is `Tenor, Undertow, Nerve, Echo`,
+all of them after `Taxonomy` and `Owner`. Uri was written with invented names for
+all five and the canon validator returned fifteen findings. Whoever writes the
+next culture reads that list first; whoever briefs an agent to write one puts it
+in the brief.
+
 ## The order of the walk, as measured rather than as planned
 
 The design expected the tongues to move in fan-in order, narrowest first, so the

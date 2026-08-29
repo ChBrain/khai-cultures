@@ -21,7 +21,14 @@
 //
 // Dry by default. `--write` performs it, and prints the gates to run after.
 
-import { readFileSync, writeFileSync, readdirSync, existsSync, copyFileSync } from "node:fs";
+import {
+  readFileSync,
+  writeFileSync,
+  readdirSync,
+  existsSync,
+  copyFileSync,
+  renameSync,
+} from "node:fs";
 import { join, relative, sep } from "node:path";
 import { pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
@@ -216,23 +223,32 @@ export function plan(id) {
   const to = join(WORKSPACE, "packages", name.split("/")[1]);
   const spec = `${name}/`;
 
-  // The culture's own outbound links become specifiers.
+  // The culture's own outbound links become specifiers, and EVERY specifier the
+  // culture ends up carrying is declared - the ones this rewrite creates and the
+  // ones that were already written by hand.
+  //
+  // The second half is the correction Uri needed. A culture authored today is
+  // written with package specifiers from the start, so it has no `../` to
+  // rewrite; the tool derived its dependencies from the rewrite alone, and a
+  // culture that had done everything right named its parent and did not depend
+  // on it. The production gate caught it, which is the gate working and the tool
+  // not. Ranges come from the umbrella where it knows one, so a package never
+  // invents a range for something the house already pins.
   const rewrites = [];
   const deps = { ...inheritedDeps() };
+  const houseDeps = read(join(HOUSE, "package.json")).dependencies ?? {};
+  const declare = (spec) => {
+    deps[spec] = houseDeps[spec] ?? deps[spec] ?? "^0.1.0";
+  };
   for (const file of mds(from)) {
     const text = readFileSync(join(from, file), "utf8");
     let next = text;
     for (const m of text.matchAll(/\]\((\.\.\/([a-z0-9_]+)\/([^()\s]+))\)/g)) {
       const dep = productionName(m[2]);
       next = next.split(`](${m[1]})`).join(`](${dep}/${m[3]})`);
-      deps[dep] = "^0.1.0";
+      declare(dep);
     }
-    if (/@chbrain\/khai-cultures-tongues\//.test(next)) {
-      const range = read(join(HOUSE, "package.json")).dependencies?.[
-        "@chbrain/khai-cultures-tongues"
-      ];
-      if (range) deps["@chbrain/khai-cultures-tongues"] = range;
-    }
+    for (const m of next.matchAll(/\]\((@[a-z0-9-]+\/[a-z0-9-]+)\/[^()\s]+\)/g)) declare(m[1]);
     if (next !== text) rewrites.push([join(to, file), next]);
   }
 
@@ -292,8 +308,33 @@ export function plan(id) {
   };
 }
 
+/**
+ * Move the directory, keeping the history where there is history to keep.
+ *
+ * `git mv` is the right move for a culture that has been committed: it records a
+ * rename, the ratchets spare it as a rename, and the history follows. It is the
+ * WRONG move for a culture authored in the same pull request, because git will
+ * not move what it has never tracked, and the first canton hit exactly that with
+ * a stack trace. So the fallback is a plain rename, which is what a rename of
+ * untracked files is: there is no history to preserve and nothing for git to
+ * detect.
+ */
+function move(from, to) {
+  try {
+    execFileSync("git", ["ls-files", "--error-unmatch", "--", rel(from)], {
+      cwd: WORKSPACE,
+      stdio: "ignore",
+    });
+  } catch {
+    renameSync(from, to);
+    return "untracked";
+  }
+  execFileSync("git", ["mv", rel(from), rel(to)], { cwd: WORKSPACE });
+  return "tracked";
+}
+
 function apply(p) {
-  execFileSync("git", ["mv", rel(p.from), rel(p.to)], { cwd: WORKSPACE });
+  p.moved = move(p.from, p.to);
   writeFileSync(join(p.to, "package.json"), `${JSON.stringify(p.manifest, null, 2)}\n`);
   for (const licence of ["LICENSE", "LICENSE-CODE"])
     if (existsSync(join(HOUSE, licence))) copyFileSync(join(HOUSE, licence), join(p.to, licence));
@@ -395,10 +436,13 @@ if (isMain) {
     process.exit(0);
   }
   apply(p);
-  console.log("\n  done. Now:");
-  console.log("    npm install --package-lock-only");
-  console.log("    npx khai-tests registry build packages/khai-cultures");
-  console.log("    node tests/registry_hybrid.mjs --write");
+  console.log(
+    p.moved === "untracked"
+      ? "\n  done (plain rename: the source was not tracked yet). Now:"
+      : "\n  done. Now:",
+  );
+  console.log("    npm install");
+  console.log("    npm run registry");
   console.log("    node tests/production_packages.mjs --report");
   console.log(`    node tests/company_coverage.mjs --culture ${p.id}`);
   console.log("    npm run format && npm test");

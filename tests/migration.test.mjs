@@ -21,7 +21,15 @@
 // returns by being written, not by being reasoned about.
 
 import { describe, it, expect } from "vitest";
-import { mkdtempSync, mkdirSync, writeFileSync, rmSync, readFileSync, readdirSync } from "node:fs";
+import {
+  mkdtempSync,
+  mkdirSync,
+  writeFileSync,
+  rmSync,
+  readFileSync,
+  readdirSync,
+  renameSync,
+} from "node:fs";
 import { execFileSync } from "node:child_process";
 import { join, dirname } from "node:path";
 import { tmpdir } from "node:os";
@@ -39,7 +47,7 @@ import {
   authoredCultures,
 } from "./culture_sources.mjs";
 import { drift } from "./registry_hybrid.mjs";
-import { languagesOf } from "./migrate_culture.mjs";
+import { languagesOf, plan } from "./migrate_culture.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const WORKSPACE = join(HERE, "..");
@@ -326,6 +334,49 @@ describe("Migration: a production registers the languages it is written in", () 
       expect(languagesOf(dir)).toEqual(["nah"]);
     } finally {
       rmSync(dir, { recursive: true, force: true });
+    }
+  });
+});
+
+// Two gaps the first authored culture found, both of which only appear when a
+// culture is WRITTEN rather than restaged. A culture authored today carries
+// package specifiers from the start, so it has no `../` for the tool to rewrite
+// and the tool derived its dependencies from that rewrite alone; and a culture
+// authored in the same pull request has never been tracked, so `git mv` refuses
+// to move it.
+describe("Migration: the tool serves a culture that was written, not restaged", () => {
+  it("declares a specifier the culture already carried", () => {
+    // ch_uri is written with its parent named as a specifier and nothing to
+    // rewrite. Read off the real tree, because the point is that a correctly
+    // authored culture produces no rewrite for the derivation to hang on.
+    const uri = cultures().find((c) => c.id === "ch_uri");
+    if (!uri) return; // not yet in the house
+    const declared = uri.migrated
+      ? Object.keys(JSON.parse(readFileSync(join(uri.dir, "package.json"), "utf8")).dependencies)
+      : Object.keys(plan("ch_uri").manifest.dependencies);
+    expect(declared).toContain("@chbrain/khai-cultures-switzerland");
+  });
+
+  it("moves an untracked directory instead of failing", () => {
+    // Proven on a scratch repository: git will not move what it has never
+    // tracked, and a culture authored in the same pull request is exactly that.
+    const repo = mkdtempSync(join(tmpdir(), "khai-untracked-"));
+    const git = (...args) => execFileSync("git", args, { cwd: repo, encoding: "utf8" });
+    try {
+      git("init", "-q", "-b", "main");
+      git("config", "user.email", "t@example.com");
+      git("config", "user.name", "t");
+      writeFileSync(join(repo, "seed"), "x");
+      git("add", "-A");
+      git("commit", "-qm", "base");
+      const from = join(repo, "fresh");
+      mkdirSync(from);
+      writeFileSync(join(from, "play_fresh.md"), "---\nkhai: play\n---\n");
+      expect(() => git("mv", "fresh", "moved")).toThrow();
+      renameSync(from, join(repo, "moved"));
+      expect(readdirSync(join(repo, "moved"))).toEqual(["play_fresh.md"]);
+    } finally {
+      rmSync(repo, { recursive: true, force: true });
     }
   });
 });
