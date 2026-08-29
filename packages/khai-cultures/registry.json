@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.291.0",
+  "version": "0.294.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5614,6 +5614,392 @@
           "title": "The Polyphonic Singing"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "ch_nidwalden",
+      "title": "Nidwalden",
+      "description": "Nidwalden staged as a culture: the smallest half-canton, which has said no and paid for it.",
+      "iso": "CH-NW",
+      "members": [
+        {
+          "file": "persona_seppi.md",
+          "kind": "persona",
+          "title": "Seppi",
+          "type": "archetype",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "persona_ursi.md",
+          "kind": "persona",
+          "title": "Ursi",
+          "type": "archetype",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "piece_pilatus_porter.md",
+          "kind": "piece",
+          "title": "The Pilatus Porter",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "piece_stanser_brief.md",
+          "kind": "piece",
+          "title": "The Stans Letter",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "piece_winkelrieddenkmal.md",
+          "kind": "piece",
+          "title": "The Winkelried Monument",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "pitch_nidwalden.md",
+          "kind": "pitch",
+          "title": "The Nidwalden Key",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "place_buergenstock.md",
+          "kind": "place",
+          "title": "The Bürgenstock",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "place_stans.md",
+          "kind": "place",
+          "title": "Stans",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "place_wellenberg.md",
+          "kind": "place",
+          "title": "The Wellenberg",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "play_nidwalden.md",
+          "kind": "play",
+          "title": "Nidwalden"
+        },
+        {
+          "file": "plot_00_nid_dem_wald.md",
+          "kind": "plot",
+          "title": "Below the Wood",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "plot_01_unterwalden_1291.md",
+          "kind": "plot",
+          "title": "Unterwalden Seals, 1291",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "plot_02_winkelried_1386.md",
+          "kind": "plot",
+          "title": "Winkelried at Sempach, 1386",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "plot_03_stanser_verkommnis_1481.md",
+          "kind": "plot",
+          "title": "The Stans Agreement, 1481",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "plot_04_der_ueberfall_1798.md",
+          "kind": "plot",
+          "title": "The Assault of 1798",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "plot_05_pestalozzi_1799.md",
+          "kind": "plot",
+          "title": "Pestalozzi in Stans, 1799",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "plot_06_wellenberg.md",
+          "kind": "plot",
+          "title": "Wellenberg, 1995 and 2002",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "plot_99_flugzeuge_und_ein_gipfel.md",
+          "kind": "plot",
+          "title": "Aircraft and a Summit, since 2016",
+          "taxonomy": "play_nidwalden.md"
+        },
+        {
+          "file": "position_culture_nidwaldner_kultur.md",
+          "kind": "position",
+          "title": "Nidwalden Culture"
+        },
+        {
+          "file": "position_das_nein.md",
+          "kind": "position",
+          "title": "The No"
+        },
+        {
+          "file": "process_aelplerchilbi.md",
+          "kind": "process",
+          "title": "The Älplerchilbi",
+          "taxonomy": "play_nidwalden.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-nidwalden"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_obwalden",
+      "title": "Obwalden",
+      "description": "Obwalden staged as a culture: the half above the wood, which gave a country its founding story and kept the file copy.",
+      "iso": "CH-OW",
+      "members": [
+        {
+          "file": "persona_agnes.md",
+          "kind": "persona",
+          "title": "Agnes",
+          "type": "archetype",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "persona_reto.md",
+          "kind": "persona",
+          "title": "Reto",
+          "type": "archetype",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "piece_radbild.md",
+          "kind": "piece",
+          "title": "The Wheel Picture",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "piece_weisses_buch.md",
+          "kind": "piece",
+          "title": "The White Book",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "pitch_obwalden.md",
+          "kind": "pitch",
+          "title": "The Obwalden Key",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "place_engelberg.md",
+          "kind": "place",
+          "title": "Engelberg",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "place_ranft.md",
+          "kind": "place",
+          "title": "The Ranft",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "place_sarnen.md",
+          "kind": "place",
+          "title": "Sarnen",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "play_obwalden.md",
+          "kind": "play",
+          "title": "Obwalden"
+        },
+        {
+          "file": "plot_00_der_kernwald.md",
+          "kind": "plot",
+          "title": "The Kernwald",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "plot_01_unterwalden_1291.md",
+          "kind": "plot",
+          "title": "Unterwalden Seals, 1291",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "plot_02_das_weisse_buch.md",
+          "kind": "plot",
+          "title": "The White Book of Sarnen",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "plot_03_bruder_klaus_1481.md",
+          "kind": "plot",
+          "title": "Brother Klaus and the Counsel of 1481",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "plot_04_engelberg_1815.md",
+          "kind": "plot",
+          "title": "Engelberg, 1815",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "plot_05_das_unwetter_2005.md",
+          "kind": "plot",
+          "title": "The Flood, 2005",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "plot_99_der_billigste_kanton.md",
+          "kind": "plot",
+          "title": "The Cheapest Canton, since 2006",
+          "taxonomy": "play_obwalden.md"
+        },
+        {
+          "file": "position_culture_obwaldner_kultur.md",
+          "kind": "position",
+          "title": "Obwalden Culture"
+        },
+        {
+          "file": "position_der_billige_kanton.md",
+          "kind": "position",
+          "title": "The Cheap Canton"
+        },
+        {
+          "file": "position_ob_dem_wald.md",
+          "kind": "position",
+          "title": "Above the Wood"
+        },
+        {
+          "file": "process_ranftgang.md",
+          "kind": "process",
+          "title": "The Walk to the Ranft",
+          "taxonomy": "play_obwalden.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-obwalden"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_schwyz",
+      "title": "Schwyz",
+      "description": "Schwyz staged as a culture: the valley that gave a country its name and lost the say over it.",
+      "iso": "CH-SZ",
+      "members": [
+        {
+          "file": "persona_beat.md",
+          "kind": "persona",
+          "title": "Beat",
+          "type": "archetype",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "persona_svenja.md",
+          "kind": "persona",
+          "title": "Svenja",
+          "type": "archetype",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "piece_bundesbrief.md",
+          "kind": "piece",
+          "title": "The Federal Charter",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "piece_kreuz_im_banner.md",
+          "kind": "piece",
+          "title": "The Cross in the Banner",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "pitch_schwyz.md",
+          "kind": "pitch",
+          "title": "The Schwyz Key",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "place_die_hoefe.md",
+          "kind": "place",
+          "title": "The Höfe",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "place_einsiedeln.md",
+          "kind": "place",
+          "title": "Einsiedeln",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "place_schwyz.md",
+          "kind": "place",
+          "title": "The Flecken of Schwyz",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "play_schwyz.md",
+          "kind": "play",
+          "title": "Schwyz"
+        },
+        {
+          "file": "plot_00_der_marchenstreit.md",
+          "kind": "plot",
+          "title": "The Marches Quarrel",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "plot_01_die_reichsfreiheit_1240.md",
+          "kind": "plot",
+          "title": "Imperial Immediacy, 1240",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "plot_02_der_bundesbrief_1291.md",
+          "kind": "plot",
+          "title": "The Federal Charter, 1291",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "plot_03_morgarten_1315.md",
+          "kind": "plot",
+          "title": "Morgarten, 1315",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "plot_04_die_reislaeuferei.md",
+          "kind": "plot",
+          "title": "The Mercenary Trade",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "plot_05_der_sonderbund_1847.md",
+          "kind": "plot",
+          "title": "The Sonderbund, 1847",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "plot_99_zwei_kantone_in_einem.md",
+          "kind": "plot",
+          "title": "Two Cantons in One, since 2000",
+          "taxonomy": "play_schwyz.md"
+        },
+        {
+          "file": "position_culture_schwyzer_kultur.md",
+          "kind": "position",
+          "title": "Schwyz Culture"
+        },
+        {
+          "file": "position_der_name.md",
+          "kind": "position",
+          "title": "The Name"
+        },
+        {
+          "file": "process_wallfahrt.md",
+          "kind": "process",
+          "title": "The Pilgrimage",
+          "taxonomy": "play_schwyz.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-schwyz"
     },
     {
       "kind": "culture",
