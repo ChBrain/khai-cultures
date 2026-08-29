@@ -20,7 +20,7 @@ derives the group's `references` from exactly those casts — so the membership 
 never drift from what the play actually links.
 
 - **Members:** [Germany](@chbrain/khai-cultures-germany/play_germany.md),
-  [Austria](../../cultures/austria/play_austria.md),
+  [Austria](@chbrain/khai-cultures-austria/play_austria.md),
   [Switzerland](@chbrain/khai-cultures-switzerland/play_switzerland.md).
 - **Kind:** `group` (the registry stamps it, so the website can tell it from a
   culture and resolve its members on the map).

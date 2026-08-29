@@ -47,7 +47,7 @@ Petrae apostolicae super quam ecclesia aedificata est memoria, quae per saecula 
 - [Civitas Vaticana](position_civitas.md)
 - [Curia Romana](position_curia.md)
 - [Romanitas](position_culture_romanitas.md)
-- [lingua Latina](position_language_la.md)
+- [lingua Latina](@chbrain/khai-cultures-tongues/la/position_language_la.md)
 
 **Pieces**
 

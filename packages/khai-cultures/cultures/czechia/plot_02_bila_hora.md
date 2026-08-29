@@ -26,12 +26,12 @@ Po dvou stoletích, kdy si husitské Čechy uhájily svou víru, se protestantš
 
 ## Action
 
-Stavové prohrají za jedinou hodinu. Následuje poprava sedmadvaceti pánů na Staroměstském náměstí, vyhnání nekatolíků, zabavení statků a násilná rekatolizace. Nastává temno: tři století vlády Vídně, kdy se panským a úředním jazykem stane němčina a [český jazyk](position_language_cs.md) se stáhne z měst na vesnici, mezi prostý lid, a málem vymizí z písma. Jeviště zůstane německé, ale po vsích jezdí loutkáři: [loutka](piece_loutka.md) na drátě mluví řečí, kterou už žádné divadlo nemluví, a udrží ji v uchu, dokud ji obrození nenajde v knihách.
+Stavové prohrají za jedinou hodinu. Následuje poprava sedmadvaceti pánů na Staroměstském náměstí, vyhnání nekatolíků, zabavení statků a násilná rekatolizace. Nastává temno: tři století vlády Vídně, kdy se panským a úředním jazykem stane němčina a [český jazyk](@chbrain/khai-cultures-tongues/cs/position_language_cs.md) se stáhne z měst na vesnici, mezi prostý lid, a málem vymizí z písma. Jeviště zůstane německé, ale po vsích jezdí loutkáři: [loutka](piece_loutka.md) na drátě mluví řečí, kterou už žádné divadlo nemluví, a udrží ji v uchu, dokud ji obrození nenajde v knihách.
 
 ## Stage
 
 - [Praha](place_praha.md): pod jejími hradbami se bitva prohraje a na jejím náměstí padnou hlavy.
-- [český jazyk](position_language_cs.md): řeč zatlačená na venkov, již teprve obrození vzkřísí z knih.
+- [český jazyk](@chbrain/khai-cultures-tongues/cs/position_language_cs.md): řeč zatlačená na venkov, již teprve obrození vzkřísí z knih.
 - [loutka](piece_loutka.md): marioneta na drátě, která mluví česky tam, kde česky nemluví nikdo na jevišti.
 
 ## Tension

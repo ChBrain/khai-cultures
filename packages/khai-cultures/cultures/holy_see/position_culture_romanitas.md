@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Hereditatem petrae apostolicae, [Cathedram Petri](position_cathedra.md), super quam ecclesia per saecula imperiorum ruinam et bella mundana superstes aedificata est. Continet [Civitatem Vaticanam](position_civitas.md), minimam civitatem sui iuris muris cinctam, ubi custodes Helvetii pontificem defendunt, et [Curiam Romanam](position_curia.md), administrationem universalem quae negotia totius catholici orbis moderatur. Sermo eius officialis est [lingua Latina](position_language_la.md), quam pauci nascendo, plurimi discendo gerunt, veste doctrinae potius quam voce cordis.
+Hereditatem petrae apostolicae, [Cathedram Petri](position_cathedra.md), super quam ecclesia per saecula imperiorum ruinam et bella mundana superstes aedificata est. Continet [Civitatem Vaticanam](position_civitas.md), minimam civitatem sui iuris muris cinctam, ubi custodes Helvetii pontificem defendunt, et [Curiam Romanam](position_curia.md), administrationem universalem quae negotia totius catholici orbis moderatur. Sermo eius officialis est [lingua Latina](@chbrain/khai-cultures-tongues/la/position_language_la.md), quam pauci nascendo, plurimi discendo gerunt, veste doctrinae potius quam voce cordis.
 
 ## Orders
 

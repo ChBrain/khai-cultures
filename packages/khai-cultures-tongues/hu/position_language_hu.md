@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Hungarian Language"
+title: "Hungarian"
 declared: "a magyar nyelv"
 language: hu
 license: CC-BY-NC-SA-4.0

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-A magányt egy olyan nép öntudataként, amely ezer éve él a Kárpát-medencében, szlávok és németek gyűrűjében, [a magyar nyelvvel](position_language_hu.md), amely senki szomszédjával nem rokon. Hordozza [Trianon](position_trianon.md) máig eleven sebét, amikor az ország kétharmadát és minden harmadik magyart a határon túlra szakítottak, és hordozza [a szabadságharc](position_szabadsagharc.md) hagyományát, a hősi és bukásra ítélt felkelések sorát 1848-tól 1956-ig, amelyekben a becsület mindig többet ért, mint a megalkuvó túlélés. Sajátja a sírva vigadás: az öröm, amely a gyászt magában hordozza, és a vendégszeretet, amely bizalmatlansággal él együtt a nagyhatalmak iránt.
+A magányt egy olyan nép öntudataként, amely ezer éve él a Kárpát-medencében, szlávok és németek gyűrűjében, [a magyar nyelvvel](@chbrain/khai-cultures-tongues/hu/position_language_hu.md), amely senki szomszédjával nem rokon. Hordozza [Trianon](position_trianon.md) máig eleven sebét, amikor az ország kétharmadát és minden harmadik magyart a határon túlra szakítottak, és hordozza [a szabadságharc](position_szabadsagharc.md) hagyományát, a hősi és bukásra ítélt felkelések sorát 1848-tól 1956-ig, amelyekben a becsület mindig többet ért, mint a megalkuvó túlélés. Sajátja a sírva vigadás: az öröm, amely a gyászt magában hordozza, és a vendégszeretet, amely bizalmatlansággal él együtt a nagyhatalmak iránt.
 
 ## Orders
 
