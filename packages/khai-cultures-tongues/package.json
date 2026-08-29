@@ -60,6 +60,11 @@
         "parent": "de/position_language_de.md"
       },
       {
+        "file": "de/position_language_de_de.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
         "file": "de/position_language_de_de_bb.md",
         "type": "position",
         "parent": "de/position_language_de.md"

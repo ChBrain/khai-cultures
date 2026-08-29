@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Zugehörigkeit zur deutschen Kultur, dem gemeinsamen Boden aus Sprache, Geschichte und Sitte, auf dem die Deutschen stehen. Ihre Sprache ist das [deutschländische Deutsch](position_language_de_de.md); ihre Tugenden sind die Pünktlichkeit, die Gründlichkeit und die Ordnung, ihr Mass die Verlässlichkeit des gegebenen Wortes. Sie hält, was einer als Deutscher selbstverständlich mitbringt, ohne es je gewählt zu haben.
+Die Zugehörigkeit zur deutschen Kultur, dem gemeinsamen Boden aus Sprache, Geschichte und Sitte, auf dem die Deutschen stehen. Ihre Sprache ist das [deutschländische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de.md); ihre Tugenden sind die Pünktlichkeit, die Gründlichkeit und die Ordnung, ihr Mass die Verlässlichkeit des gegebenen Wortes. Sie hält, was einer als Deutscher selbstverständlich mitbringt, ohne es je gewählt zu haben.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Boden an die eigene Bruchlinie, denn die eine Kultur kennt zwei Leben, das westd
 
 ## Drives
 
-Sie treibt die Deutschen, sich an einem gemeinsamen Mass zu erkennen und daran zu messen, wer dazugehört. Sie stiftet die Schrift, in der die Kultur sich selbst lesen lernt; sie gibt dem Reich seine Einheit und der Bundesrepublik ihre Bindung nach Westen; sie führt nach der Wende die getrennten Hälften wieder zusammen; sie zeigt sich an der ostdeutschen Naht, die dieselbe Kultur in zwei Leben spaltet; und sie trägt die junge Generation offen in eine globale Welt. Ihre Sprache aber bleibt das [deutschländische Deutsch](position_language_de_de.md), in dem die Kultur sich ausspricht.
+Sie treibt die Deutschen, sich an einem gemeinsamen Mass zu erkennen und daran zu messen, wer dazugehört. Sie stiftet die Schrift, in der die Kultur sich selbst lesen lernt; sie gibt dem Reich seine Einheit und der Bundesrepublik ihre Bindung nach Westen; sie führt nach der Wende die getrennten Hälften wieder zusammen; sie zeigt sich an der ostdeutschen Naht, die dieselbe Kultur in zwei Leben spaltet; und sie trägt die junge Generation offen in eine globale Welt. Ihre Sprache aber bleibt das [deutschländische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de.md), in dem die Kultur sich ausspricht.
