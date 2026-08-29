@@ -39,6 +39,7 @@ import {
   authoredCultures,
 } from "./culture_sources.mjs";
 import { drift } from "./registry_hybrid.mjs";
+import { languagesOf } from "./migrate_culture.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const WORKSPACE = join(HERE, "..");
@@ -279,6 +280,52 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
       expect(spared).toEqual(["alpha"]);
     } finally {
       rmSync(repo, { recursive: true, force: true });
+    }
+  });
+});
+
+// The house registers twenty-five languages no engine has heard of - Romansh,
+// Bavarian, Nahuatl, Church Slavonic - and while every culture lived under the
+// umbrella one declaration covered all of them. A production is validated rooted
+// on ITSELF, so it must carry the subset its own files are written in. Switzerland
+// found this out by failing on two personas written in Romansh, and fifteen
+// cultures in this house need a list at all.
+//
+// Derived and not copied whole: a package that declared all twenty-five to use
+// one would be telling an installer something untrue about what is in the box.
+describe("Migration: a production registers the languages it is written in", () => {
+  function scratchCulture(langs) {
+    const dir = mkdtempSync(join(tmpdir(), "khai-langs-"));
+    langs.forEach((l, i) =>
+      writeFileSync(join(dir, `persona_${i}.md`), `---\nkhai: persona\nlanguage: ${l}\n---\n`),
+    );
+    return dir;
+  }
+
+  it("declares the house-registered languages its files use", () => {
+    const dir = scratchCulture(["rm", "de", "rm"]);
+    try {
+      expect(languagesOf(dir)).toEqual(["rm"]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("declares nothing for a culture written only in engine languages", () => {
+    const dir = scratchCulture(["de", "fr", "it"]);
+    try {
+      expect(languagesOf(dir)).toEqual([]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
+    }
+  });
+
+  it("does not copy the umbrella's whole list", () => {
+    const dir = scratchCulture(["nah"]);
+    try {
+      expect(languagesOf(dir)).toEqual(["nah"]);
+    } finally {
+      rmSync(dir, { recursive: true, force: true });
     }
   });
 });
