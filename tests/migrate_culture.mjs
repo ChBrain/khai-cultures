@@ -38,6 +38,25 @@ const rel = (p) => relative(WORKSPACE, p).split(sep).join("/");
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
 const mds = (dir) => readdirSync(dir).filter((f) => f.endsWith(".md"));
 
+/**
+ * Every directory of the umbrella's referencing collections, e.g. `groups/*`.
+ *
+ * Read off the manifest rather than typed, because a house that adds a second
+ * referencing collection would otherwise get the same twelve broken links the
+ * groups got.
+ */
+function referencingDirs() {
+  const pkg = read(join(HOUSE, "package.json"));
+  const out = [];
+  for (const collection of pkg.khai?.collections ?? []) {
+    const dir = join(HOUSE, collection.dir);
+    if (!existsSync(dir)) continue;
+    for (const e of readdirSync(dir, { withFileTypes: true }))
+      if (e.isDirectory() && !e.name.startsWith(".")) out.push(join(dir, e.name));
+  }
+  return out;
+}
+
 /** Engine dependencies every culture needs to be validated as a package. */
 function inheritedDeps() {
   const pkg = read(join(HOUSE, "package.json"));
@@ -45,6 +64,79 @@ function inheritedDeps() {
   for (const [name, range] of Object.entries(pkg.dependencies ?? {}))
     if (name.startsWith("@chbrain/khai-engine-")) out[name] = range;
   return out;
+}
+
+/**
+ * The wiring guide a production ships.
+ *
+ * Every package that publishes khai content owes one, and the canon says what it
+ * is for: how a production is DRAWN ON, not what it holds. The umbrella's own
+ * guide is the house's, written once for two hundred and ninety cultures; a
+ * production's is the same law narrowed to the one culture in the box, so an
+ * installer who took this package alone still reads the rule that stops them
+ * casting somebody else's persona. It is generated rather than hand-kept,
+ * because two hundred and ninety hand-kept copies of one rule is two hundred and
+ * ninety chances for them to disagree.
+ */
+function instructions(id, name, position) {
+  const title = id.replace(/_/g, " ").replace(/\b[a-z]/g, (c) => c.toUpperCase());
+  return `---
+khai: instructions
+title: "${title}"
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.1.0
+  date: "${new Date().toISOString().slice(0, 10)}"
+---
+
+# Instructions: ${title}
+
+How a Playwright wires this culture into a play. You wire by linking this
+package's culture-position from your own content; nothing here is edited. Which
+tongue a persona holds is the tongues package's instructions, and how well they
+hold it is the language engine's. This covers only which culture they belong to.
+Authoring guidance, not runtime content, and it does not go on tour.
+
+## Human
+
+- The human decides that a persona belongs to this culture, and that they may
+  belong to more than one. Two belongings are not a contradiction and not a
+  second passport: which one answers depends on who is asking.
+
+## Agent
+
+- Declare \`${name}\` as a dependency, then link${
+    position ? ` \`${name}/${position}\`` : " this culture's culture-position"
+  } from the persona who belongs to it. A relative path resolves in a working tree
+  and ships broken; the dependency is the only reference npm can check.
+
+## Collaboration
+
+- What belonging to this culture gives, orders, costs and drives is the
+  culture-position's; which tongue the persona holds is the tongues package's;
+  the width of their grip on it is the language engine's. A fact belongs to
+  exactly one of them.
+
+## Knowledge
+
+- This package is one culture staged as a full khai play: its own plots, its own
+  cast, its own pitch, anchored by \`${id}\`'s play. You wire to its position,
+  never into its production. A culture's cast is cast in its own scenes and
+  answers to its own key; borrowed into yours it would answer to neither.
+
+## System
+
+- Do link the culture-position, and link the positions of any other cultures the
+  persona belongs to as well.
+- Do let this position carry whatever culture it nests in; linking both says the
+  same thing twice.
+- Do not link this culture's plots, personas, pieces, places or processes. They
+  belong to the play that stages them.
+- Do not restate in your persona what the culture-position already says; carry
+  only what is that person's.
+- Do not edit this package's files; wire only from the play's side.
+`;
 }
 
 /** What stands between this culture and its own package. */
@@ -123,21 +215,26 @@ export function plan(id) {
   // Everyone who linked into it now links the package. Cultures still under the
   // umbrella resolve that specifier through the umbrella's own dependency, which
   // is why the umbrella gains one whether or not it kept any files.
+  //
+  // EVERYONE means the groups too. They were missed on the first real migration
+  // and it cost twelve broken links: a group is a referencing collection, it
+  // reaches a culture from one directory deeper (`../../cultures/<id>/...`), and
+  // nothing that only walked the cultures could see it. So both depths are
+  // rewritten, and the pattern that finds them is fixed rather than built out of
+  // the id, which would be a regex assembled from an argument.
   const inbound = [];
+  const rewrite = (path) => {
+    const text = readFileSync(path, "utf8");
+    let next = text;
+    for (const m of text.matchAll(/\]\((?:\.\.\/)+(?:cultures\/)?([a-z0-9_]+)\/([^()\s]+)\)/g))
+      if (m[1] === id) next = next.split(m[0]).join(`](${spec}${m[2]})`);
+    if (next !== text) inbound.push([path, next]);
+  };
   for (const c of cultures()) {
     if (c.id === id) continue;
-    for (const file of mds(c.dir)) {
-      const path = join(c.dir, file);
-      const text = readFileSync(path, "utf8");
-      // A fixed pattern, then an equality test on what it captured. Building the
-      // pattern out of the id would be a regex assembled from an argument, which
-      // is an injection whatever the argument happens to be today.
-      let next = text;
-      for (const m of text.matchAll(/\]\(\.\.\/([a-z0-9_]+)\/([^()\s]+)\)/g))
-        if (m[1] === id) next = next.split(m[0]).join(`](${spec}${m[2]})`);
-      if (next !== text) inbound.push([path, next]);
-    }
+    for (const file of mds(c.dir)) rewrite(join(c.dir, file));
   }
+  for (const dir of referencingDirs()) for (const file of mds(dir)) rewrite(join(dir, file));
 
   const manifest = {
     name,
@@ -156,7 +253,17 @@ export function plan(id) {
     dependencies: Object.fromEntries(Object.entries(deps).sort()),
   };
 
-  return { id, name, from, to, manifest, rewrites, inbound };
+  const position = readdirSync(from).find((f) => f.startsWith("position_culture_"));
+  return {
+    id,
+    name,
+    from,
+    to,
+    manifest,
+    rewrites,
+    inbound,
+    guide: instructions(id, name, position),
+  };
 }
 
 function apply(p) {
@@ -164,6 +271,7 @@ function apply(p) {
   writeFileSync(join(p.to, "package.json"), `${JSON.stringify(p.manifest, null, 2)}\n`);
   for (const licence of ["LICENSE", "LICENSE-CODE"])
     if (existsSync(join(HOUSE, licence))) copyFileSync(join(HOUSE, licence), join(p.to, licence));
+  writeFileSync(join(p.to, "playwright_instructions.md"), p.guide);
   for (const [path, text] of [...p.rewrites, ...p.inbound]) writeFileSync(path, text);
 
   // The umbrella keeps the reference it no longer keeps the files for.

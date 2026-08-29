@@ -166,6 +166,51 @@ then the four things only this house knows — the name rule, every cast
 specifier declared, a sub-national culture depending on its parent, and the
 umbrella still naming every production it let go.
 
+## What the first real migration cost, and what it bought
+
+The United Kingdom was migrated on a scratch branch and the suite run against it
+before any of this was proposed, twice. Both times it broke, and neither break
+was findable by reading.
+
+**The tool rewrote inbound links from the cultures and not from the groups.**
+Twelve broken links, because a group is a referencing collection and reaches a
+culture from one directory deeper (`../../cultures/<id>/...`). The tool now reads
+the umbrella's referencing collections off its manifest rather than assuming
+there is one kind of inbound link.
+
+**A production owes a Playwright wiring guide**, as every package that publishes
+khai content does, and the tool was not writing one. It is generated rather than
+hand-kept and narrowed to the one culture in the box: two hundred and ninety
+hand-kept copies of one rule is two hundred and ninety chances for them to
+disagree.
+
+**`geo.json` moved untouched and charged the whole culture.** Twenty-eight files
+were spared as pure renames and the one that was not markdown was not, because
+the link exemption was gated on the extension before the move exemption ran. A
+migration would then have demanded coverage of every culture it moved, which is
+the exemption defeated at the first culture that has any debt.
+
+**Two of the kit's registry findings are true of a hybrid house and are not
+faults.** A migrated culture is in the registry with no directory under
+`cultures/`, so `validateCollectionRegistry` reports the missing directory and
+then reports the file as out of date with a build that only counts directories.
+They are dropped in `tests/house.test.mjs` because they are REPLACED:
+`tests/registry_hybrid.mjs` now recomputes the whole registry, both halves built
+by the kit, and compares. Dropping them without that would have left the house
+with no drift check at all, which is the shape of failure this repository keeps
+finding.
+
+**The packing promise split in two.** A migrated culture is in the registry and
+not in the umbrella's tarball, and that is the arrangement rather than a fault -
+so what the umbrella still ships it must ship, what it has let go must be a
+declared dependency, and it must not ship a file for a culture it let go. Three
+assertions where there was one.
+
+None of this was visible from the code. A shape that two hundred and ninety
+cultures will follow is worth breaking once on purpose, and it is worth breaking
+on a culture that is already finished, so that a real failure and a failure of
+the culture cannot be confused.
+
 ## The order of the walk, as measured rather than as planned
 
 The design expected the tongues to move in fan-in order, narrowest first, so the
