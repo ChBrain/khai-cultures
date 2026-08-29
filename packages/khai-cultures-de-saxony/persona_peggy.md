@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Eine vierunddreißigjährige Halbleiter-Ingenieurin, die in einem großen Mikrochipwerk im Dresdner Norden arbeitet. Deutsch ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und fachliche Abstimmungen führt. Ihr Deutsch ist das [sächsische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_sn.md) des Freistaats, der selbstverständliche Grund ihrer fachlichen Rede. [Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md) [trägt sie als übergezogen](process_speaking_worn.md) für die tägliche Kommunikation mit internationalen Chipdesignern. Doch der Verlust liegt in der Naht: Die alte barocke Prachtgeschichte von Dresden und die filigrane Porzellanmalerei von Günter [hört sie nur wie ein leises Echo](process_hearing_followed.md), wenn sie die vollautomatisierten, sterilen Reinräume steuert und die geschäftige Metropolregion ganz im Zeichen globaler Lieferketten steht. Sie gehört [der sächsischen Kultur](position_culture_saechsische_kultur.md) an und trägt deren Erfindergeist in die Chipfabrik von morgen.
+Eine vierunddreißigjährige Halbleiter-Ingenieurin, die in einem großen Mikrochipwerk im Dresdner Norden arbeitet. Deutsch ist ihre Muttersprache, in der sie [spricht](process_speaking_mother_tongue.md) und fachliche Abstimmungen führt. Ihr Deutsch ist das [sächsische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_sn.md) des Freistaats, der selbstverständliche Grund ihrer fachlichen Rede. Englisch hat sie zweimal bekommen und nie in derselben Gestalt. In der Schule war es [das britische](@chbrain/khai-cultures-tongues/en/position_language_en_gb.md), colour mit u und in hospital ohne Artikel, die Schreibung, auf deren Einheitlichkeit im Unterricht bestanden wurde; heute [erkennt sie es nur noch im Lesen wieder](process_reading_followed.md), in der Mail eines Kollegen aus Cambridge. Gearbeitet aber wird im [amerikanischen](@chbrain/khai-cultures-tongues/en/position_language_en_us.md), das der Branche gehört, den Anlagenherstellern, den Spezifikationen und den Handbüchern, und das sie [als übergezogen trägt](process_speaking_worn.md). Doch der Verlust liegt in der Naht: Sie schreibt color ins Waferprotokoll und colour in einen Brief und weiß bei keinem von beiden mehr, ob es ihres ist; gotten hat ihr niemand beigebracht, und sie hört es jeden Tag. Sie gehört [der sächsischen Kultur](position_culture_saechsische_kultur.md) an und trägt deren Erfindergeist in die Chipfabrik von morgen.
 
 ## Action
 
@@ -31,7 +31,7 @@ Sie optimiert die Chipproduktion in [das Silicon Saxony](place_silicon_saxony.md
 
 ## Shadow
 
-Ihr Fokus auf die globale Halbleiterindustrie kann dazu beitragen, dass die verbleibenden sozialen Spaltungen und die wirtschaftlichen Sorgen der Menschen in den ländlichen Randgebieten Sachsens ausgeblendet werden.
+Ihr Fokus auf die globale Halbleiterindustrie kann dazu beitragen, dass die verbleibenden sozialen Spaltungen und die wirtschaftlichen Sorgen der Menschen in den ländlichen Randgebieten Sachsens ausgeblendet werden. Die alte barocke Prachtgeschichte Dresdens und Günters filigrane Porzellanmalerei bleiben ihr dabei ein leises Echo, während sie die vollautomatisierten, sterilen Reinräume steuert und die Metropolregion ganz im Zeichen globaler Lieferketten steht.
 
 ## Tell
 
