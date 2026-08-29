@@ -1,0 +1,32 @@
+# References: Schwyz
+
+## The pitch layer
+
+The pitch is written from Switzerland's national Hofstede profile, inflected by what it does to a canton that is simultaneously the country's origin and one of its smaller minorities: the same low power distance and high individualism, read through a community that has been outvoted and remembers it. No dimension is named in the prose.
+
+Source: Geert Hofstede, Hofstede Insights (the Country Comparison tool and the six-dimensions model of national culture), the national profile for Switzerland. No separate sub-scores for the cantons are claimed.
+
+## Historical sources
+
+The plots, the places, and the pieces are drawn from the public historical record. They are credited here and never claimed; the staging is original work.
+
+| Subject                    | In this culture                                                                                                  | Scope                                                                                                                                                                                                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Marches quarrel        | [plot_00_der_marchenstreit.md](plot_00_der_marchenstreit.md), [place_einsiedeln.md](place_einsiedeln.md)         | The centuries-long dispute between the people of Schwyz and the abbey of Einsiedeln over alpine pasture and the boundary marks, the repeated failure of arbitration, papal bans and royal judgements, and the raid on the abbey on 6 January 1314.                         |
+| Imperial immediacy, 1240   | [plot_01_die_reichsfreiheit_1240.md](plot_01_die_reichsfreiheit_1240.md)                                         | Frederick II's charter of December 1240 taking the people of Schwyz into the immediate lordship of the Empire, and the continuing Habsburg claim to the advocacy.                                                                                                          |
+| The Federal Charter, 1291  | [plot_02_der_bundesbrief_1291.md](plot_02_der_bundesbrief_1291.md), [piece_bundesbrief.md](piece_bundesbrief.md) | The August 1291 charter after Rudolf I's death, its content (mutual aid, arbitration, homicide and arson, the ban on purchased judges), the seal of Schwyz, its nineteenth-century elevation to a founding document, and the Bundesbriefarchiv of 1936.                    |
+| Morgarten, 1315            | [plot_03_morgarten_1315.md](plot_03_morgarten_1315.md), [piece_kreuz_im_banner.md](piece_kreuz_im_banner.md)     | The engagement of 15 November 1315 between the Ägerisee and the slope, the renewal of the league at Brunnen in German, the spread of the name Schwyz to the whole confederation, and the white cross as a Schwyz field sign, attested on the red banner at Laupen in 1339. |
+| The mercenary trade        | [plot_04_die_reislaeuferei.md](plot_04_die_reislaeuferei.md)                                                     | The formal capitulations between foreign crowns and the Landsgemeinde, the officer families, the pensions paid to the authorities, and the resulting stratification of a community that described itself as lordless.                                                      |
+| The Sonderbund, 1847       | [plot_05_der_sonderbund_1847.md](plot_05_der_sonderbund_1847.md)                                                 | The separate league of the seven Catholic cantons from 1845, the twenty-five-day war of November 1847 and its low casualties, the federal constitution of 1848, and the last Schwyz Landsgemeinde in the same year.                                                        |
+| The two Schwyz, since 2000 | [plot_99_zwei_kantone_in_einem.md](plot_99_zwei_kantone_in_einem.md), [place_die_hoefe.md](place_die_hoefe.md)   | Tax-driven immigration into the Bezirk Höfe on the upper Lake Zurich, land prices, the internal financial equalisation dispute, and the contrast with the Talkessel and the Muotatal.                                                                                      |
+| Einsiedeln today           | [process_wallfahrt.md](process_wallfahrt.md)                                                                     | The Benedictine abbey, the black Madonna, the pilgrim routes over the Etzel and from the Inner Alps, and the annual Engelweihe.                                                                                                                                            |
+
+The two defining personas, [Beat](persona_beat.md) and [Svenja](persona_svenja.md), are archetypes, not historical individuals: composites carrying the tension between a canton that stayed and a district that arrived for the arithmetic.
+
+## Two decisions, recorded
+
+**The origin is a pasture and not an oath.** Asked where this culture comes from, the obvious answer is 1291, and it is the wrong one twice over: the charter is a constitutional fact of the kind the house order on the defining question (`management/orders/order_the_defining_question.md`) warns against staging as the culture, and it is not this canton's own. What is this canton's own, and what explains everything after it, is the Marches quarrel: free herdsmen who would not give up an alp, four hundred years of not conceding, and a raid that brought a duke down on them. `plot_00` is that quarrel. It is the less flattering origin and the documented one.
+
+**Tell is not cast, and neither is Morgarten's hero, because there is none.** The legend belongs to the Confederation's play; a culture may reach another's positions and never its cast. What this canton owns is the charter, the field sign and the name - three things it gave away and still keeps the box for - and that is the more honest inventory. The battle is staged without a protagonist because the sources give it none, and inventing one would be the contrived casting the coverage rule warns against.
+
+Content is CC-BY-NC-SA, code is MIT; public-domain sources are credited, never claimed.
