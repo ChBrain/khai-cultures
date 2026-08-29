@@ -51,7 +51,7 @@ Orta Asya bozkırından göçüp gelen bir halk: Türkler 1071'de Malazgirt'te A
 
 - [iki kıta](position_iki_kita.md)
 - [laiklik ve din](position_laiklik_din.md)
-- [Türk dili](position_language_tr_tr.md)
+- [Türk dili](@chbrain/khai-cultures-tongues/tr/position_language_tr.md)
 
 **Pieces**
 
@@ -82,7 +82,7 @@ Bilge Kağan iki taş diktirir ve "Türk" sözü ilk kez bir halkın kendi taş�
 
 **[Plot 3: Cumhuriyet](plot_03_cumhuriyet.md)**
 
-1923'te [Atatürk](persona_ataturk.md) [laik cumhuriyeti](position_laiklik_din.md) kurar; 1928 harf devrimiyle [dili](position_language_tr_tr.md) Osmanlıca'dan koparır ve ulusu Batı'ya çevirir.
+1923'te [Atatürk](persona_ataturk.md) [laik cumhuriyeti](position_laiklik_din.md) kurar; 1928 harf devrimiyle [dili](@chbrain/khai-cultures-tongues/tr/position_language_tr.md) Osmanlıca'dan koparır ve ulusu Batı'ya çevirir.
 
 **[Plot 4: Mübadele, 1923-1924](plot_04_mubadele.md)**
 
@@ -102,4 +102,4 @@ Darbe girişiminden 2023'ün depremine, Ayasofya'nın yeniden camiye çevrilmesi
 
 ## Stakes
 
-İki kıta üstünde, kendi geçmişinden bir kuşakta koparılmış bir [dille](position_language_tr_tr.md) duran, [laik cumhuriyetle](position_laiklik_din.md) dindar Anadolu arasında yarılan bu ulus, Doğu ile Batı arasında köprü olmayı bir bölünme değil bir güç sayıp, yeniden yapılmış dilini kesip attığı Osmanlı geçmişine sahip çıkarak diri tutup, gelmeyen Avrupa'nın kapısında beklemekten vazgeçip kendi yolunu bulabilecek mi.
+İki kıta üstünde, kendi geçmişinden bir kuşakta koparılmış bir [dille](@chbrain/khai-cultures-tongues/tr/position_language_tr.md) duran, [laik cumhuriyetle](position_laiklik_din.md) dindar Anadolu arasında yarılan bu ulus, Doğu ile Batı arasında köprü olmayı bir bölünme değil bir güç sayıp, yeniden yapılmış dilini kesip attığı Osmanlı geçmişine sahip çıkarak diri tutup, gelmeyen Avrupa'nın kapısında beklemekten vazgeçip kendi yolunu bulabilecek mi.

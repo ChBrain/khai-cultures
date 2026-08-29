@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[Türk dili](position_language_tr_tr.md)
+[Türk dili](@chbrain/khai-cultures-tongues/tr/position_language_tr.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Anadolu'lu yaşlı bir kadın, evi, çayı, nazar boncuğunu, namazını ve ailesini tutan bir nine; çocukları ekmek için Almanya'ya göçmüş, o bayramlarda yolunu gözler. Dindar, çalışkan, alçakgönüllü; başına geleni "Allah'tan" diye karşılar. [Türk dilini](position_language_tr_tr.md) ana dili olarak [konuşur, düşünür ve dinler](process_speaking_mother_tongue.md), ama bir ömürde yeniden yapılmış bu dil onu geçmişinden ayırmıştır: büyükannesinin Osmanlıca harflerle yazdığı mektupları [okuyamaz, çözemez](process_reading_deciphered.md), ve namazda andığı [Arapçayı](../saudi_arabia/position_language_ar_sa.md) ezbere söyler ama [anlamadan yakalar](process_reading_caught.md). Çocuklarının diasporadaki [Almancasını](@chbrain/khai-cultures-tongues/de/position_language_de.md) ise telefonda yalnız kırık kırık [duyup yakalar](process_hearing_caught.md). Ne büyükannesinin yazısını okuyabilen, ne namazda andığı dili anlayan, dili bir ömürde yeniden yapılmış kadın - dilin sınırında açılan boşluk. [Türklüğe](position_culture_turkluk.md) aittir ve ona, göçüp giden herkes yokken bile, evi, imanı ve dili sadakatle tutar.
+Anadolu'lu yaşlı bir kadın, evi, çayı, nazar boncuğunu, namazını ve ailesini tutan bir nine; çocukları ekmek için Almanya'ya göçmüş, o bayramlarda yolunu gözler. Dindar, çalışkan, alçakgönüllü; başına geleni "Allah'tan" diye karşılar. [Türk dilini](@chbrain/khai-cultures-tongues/tr/position_language_tr.md) ana dili olarak [konuşur, düşünür ve dinler](process_speaking_mother_tongue.md), ama bir ömürde yeniden yapılmış bu dil onu geçmişinden ayırmıştır: büyükannesinin Osmanlıca harflerle yazdığı mektupları [okuyamaz, çözemez](process_reading_deciphered.md), ve namazda andığı [Arapçayı](../saudi_arabia/position_language_ar_sa.md) ezbere söyler ama [anlamadan yakalar](process_reading_caught.md). Çocuklarının diasporadaki [Almancasını](@chbrain/khai-cultures-tongues/de/position_language_de.md) ise telefonda yalnız kırık kırık [duyup yakalar](process_hearing_caught.md). Ne büyükannesinin yazısını okuyabilen, ne namazda andığı dili anlayan, dili bir ömürde yeniden yapılmış kadın - dilin sınırında açılan boşluk. [Türklüğe](position_culture_turkluk.md) aittir ve ona, göçüp giden herkes yokken bile, evi, imanı ve dili sadakatle tutar.
 
 ## Action
 
-[Türk dilini](position_language_tr_tr.md), imanı ve geleneği başkaları göçüp giderken tutar: torunlarına dua etmeyi ve Türkçeyi öğretir, [çay](process_cay.md) sofrasında ve nazar boncuğunda aileyi bir arada tutar. Bunu büyük sözlerle değil, her günkü sadakatin gücüyle yapar.
+[Türk dilini](@chbrain/khai-cultures-tongues/tr/position_language_tr.md), imanı ve geleneği başkaları göçüp giderken tutar: torunlarına dua etmeyi ve Türkçeyi öğretir, [çay](process_cay.md) sofrasında ve nazar boncuğunda aileyi bir arada tutar. Bunu büyük sözlerle değil, her günkü sadakatin gücüyle yapar.
 
 ## Shadow
 

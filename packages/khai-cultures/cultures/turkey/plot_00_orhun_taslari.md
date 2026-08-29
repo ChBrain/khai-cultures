@@ -31,7 +31,7 @@ Anadolu'dan üç bin kilometre doğuda, Moğolistan'da bir ırmak kıyısında, 
 ## Stage
 
 - [halı](piece_hali.md): göçebenin taşınabilir zemini ve taşınabilir duvarı; bozkırdan Anadolu'ya gelen tek mimarlık.
-- [Türk dili](position_language_tr_tr.md): taşa ilk kez kendi harfleriyle yazılan dil.
+- [Türk dili](@chbrain/khai-cultures-tongues/tr/position_language_tr.md): taşa ilk kez kendi harfleriyle yazılan dil.
 
 ## Tension
 
