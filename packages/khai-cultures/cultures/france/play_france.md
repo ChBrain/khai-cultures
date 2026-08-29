@@ -50,7 +50,7 @@ Un grand pays qui s'est fait par l'État - qui lui a donné sa langue en 1539 av
 - [la République](position_la_republique.md)
 - [la laïcité](position_laicite.md)
 - [une certaine idée de la France](position_culture_une_certaine_idee_de_la_france.md)
-- [la langue française](position_language_fr_fr.md)
+- [la langue française](@chbrain/khai-cultures-tongues/fr/position_language_fr_fr.md)
 
 **Pieces**
 

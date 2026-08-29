@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **63 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **64 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -73,6 +73,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                        | `es`       |
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                | `fr`       |
 | `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                     | `fr`       |
+| `fr/position_language_fr_fr.md`        | French Standard French: an arithmetic in its numbers, and a norm with an address                                     | `fr`       |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                    | `gsw`      |
 | `hr/position_language_hr.md`           | Croatian as such, of which Burgenland Croatian will be a variety                                                     | `hr`       |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                           | `hsb`      |

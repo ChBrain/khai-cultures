@@ -250,6 +250,11 @@
         "parent": "fr/position_language_fr.md"
       },
       {
+        "file": "fr/position_language_fr_fr.md",
+        "type": "position",
+        "parent": "fr/position_language_fr.md"
+      },
+      {
         "file": "gsw/position_language_gsw.md",
         "type": "position",
         "parent": "position_language.md"
