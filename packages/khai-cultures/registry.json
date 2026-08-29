@@ -7509,7 +7509,8 @@
           "kind": "process",
           "title": "Baden-Wuerttemberg Kehrwoche"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-baden-wuerttemberg"
     },
     {
       "kind": "culture",
@@ -7683,7 +7684,8 @@
           "kind": "process",
           "title": "Oktoberfest"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-bavaria"
     },
     {
       "kind": "culture",
@@ -7841,7 +7843,8 @@
           "kind": "process",
           "title": "Berlin Clubbing"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-berlin"
     },
     {
       "kind": "culture",
@@ -7943,7 +7946,8 @@
           "kind": "process",
           "title": "Spreewald Kahnfahrt"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-brandenburg"
     },
     {
       "kind": "culture",
@@ -8045,7 +8049,8 @@
           "kind": "process",
           "title": "Bremen Freimarkt"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-bremen"
     },
     {
       "kind": "culture",
@@ -8202,7 +8207,8 @@
           "kind": "process",
           "title": "Hamburg Fischmarkt"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-hamburg"
     },
     {
       "kind": "culture",
@@ -8336,7 +8342,8 @@
           "kind": "process",
           "title": "Hessian Apfelwein Culture"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-hesse"
     },
     {
       "kind": "culture",
@@ -8438,7 +8445,8 @@
           "kind": "process",
           "title": "East Frisian Tea Ceremony"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-lower-saxony"
     },
     {
       "kind": "culture",
@@ -8540,7 +8548,8 @@
           "kind": "process",
           "title": "Baltic Herring Fishing"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-mecklenburg-western-pomerania"
     },
     {
       "kind": "culture",
@@ -8682,7 +8691,8 @@
           "kind": "process",
           "title": "Rhenish Karneval"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-north-rhine-westphalia"
     },
     {
       "kind": "culture",
@@ -8784,7 +8794,8 @@
           "kind": "process",
           "title": "Weinlese"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-rhineland-palatinate"
     },
     {
       "kind": "culture",
@@ -8886,7 +8897,8 @@
           "kind": "process",
           "title": "Saarland Schwenken"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-saarland"
     },
     {
       "kind": "culture",
@@ -9238,7 +9250,8 @@
           "kind": "process",
           "title": "Environmental Remediation"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-saxony-anhalt"
     },
     {
       "kind": "culture",
@@ -9520,7 +9533,8 @@
           "kind": "process",
           "title": "Lauscha Glassblowing"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-thuringia"
     },
     {
       "kind": "culture",
