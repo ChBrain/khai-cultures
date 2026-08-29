@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **70 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **72 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -33,6 +33,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                       | `bar`      |
 | `bar/position_language_bar_wien.md`    | Viennese: Middle Bavarian with one vowel moved, and a vocabulary the countryside never had                           | `bar`      |
 | `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                           | `cs`       |
+| `cu/position_language_cu.md`           | Church Slavonic: the dual number, three past tenses and a vocative, alive in the altar and never in the mouth        | `cu`       |
 | `da/position_language_da.md`           | Danish as such: the definite article hung on the back of the word, and the stod                                      | `da`       |
 | `de/position_language_de.md`           | German as such, of which every de_* here is a variety                                                                | `de`       |
 | `de/position_language_de_at.md`        | Austrian Standard German: the same grammar with another vocabulary, and one different auxiliary                      | `de`       |
@@ -90,6 +91,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                  | `pfl`      |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                        | `rif`      |
 | `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                  | `rm`       |
+| `ru/position_language_ru.md`           | Russian as such: aspect on every verb, no article, and no copula in the present                                      | `ru`       |
 | `sl/position_language_sl.md`           | Slovene as such: the dual, and six cases                                                                             | `sl`       |
 | `swg/position_language_swg.md`         | Swabian as such: the anchor, and its heartland is in another state                                                   | `swg`      |
 | `swg/position_language_swg_allgaeu.md` | Allgäu Swabian: the variety standing on the Swabian/Alemannic line                                                   | `swg`      |

@@ -48,10 +48,10 @@ stamp:
 **Positions**
 
 - [русскость](position_culture_russkost.md)
-- [русский язык](position_language_ru.md)
+- [русский язык](@chbrain/khai-cultures-tongues/ru/position_language_ru.md)
 - [держава](position_derzhava.md)
 - [русская душа](position_russkaya_dusha.md)
-- [церковнославянский язык](position_language_cu.md)
+- [церковнославянский язык](@chbrain/khai-cultures-tongues/cu/position_language_cu.md)
 
 **Pieces**
 
@@ -74,7 +74,7 @@ stamp:
 
 **[Plot 2: Пушкин](plot_02_pushkin.md)**
 
-В начале XIX века [Александр Пушкин](persona_pushkin.md) создаёт современный литературный [русский язык](position_language_ru.md) и открывает золотой век; за ним идёт великая литература, в которой говорит [русская душа](position_russkaya_dusha.md).
+В начале XIX века [Александр Пушкин](persona_pushkin.md) создаёт современный литературный [русский язык](@chbrain/khai-cultures-tongues/ru/position_language_ru.md) и открывает золотой век; за ним идёт великая литература, в которой говорит [русская душа](position_russkaya_dusha.md).
 
 **[Plot 3: Великая Отечественная](plot_03_velikaya_otechestvennaya.md)**
 
@@ -86,4 +86,4 @@ stamp:
 
 ## Stakes
 
-Сможет ли страна такой глубины дать своей [душе](position_russkaya_dusha.md) и своему [языку](position_language_ru.md) жить свободно от тяжёлой [державы](position_derzhava.md) и от имперского узора, который раз за разом дорого обходится ей самой и её соседям; обратится ли терпение народа в волю распоряжаться собой; и примирит ли она наконец Европу, к которой тянется, с Евразией, в которой лежит, - не отдавая снова свободу той власти, что собирает её силой.
+Сможет ли страна такой глубины дать своей [душе](position_russkaya_dusha.md) и своему [языку](@chbrain/khai-cultures-tongues/ru/position_language_ru.md) жить свободно от тяжёлой [державы](position_derzhava.md) и от имперского узора, который раз за разом дорого обходится ей самой и её соседям; обратится ли терпение народа в волю распоряжаться собой; и примирит ли она наконец Европу, к которой тянется, с Евразией, в которой лежит, - не отдавая снова свободу той власти, что собирает её силой.
