@@ -17,7 +17,7 @@
 // prettier with the repo's own config before it is written or compared, because a
 // generated file and a formatter that disagree will rewrite each other forever.
 
-import { readFileSync, writeFileSync, readdirSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { format, resolveConfig } from "prettier";
@@ -253,6 +253,39 @@ export async function renderManifest(dir = HERE) {
   return formatAs(JSON.stringify(pkg), path);
 }
 
+/**
+ * Bring every manifest in the workspace that depends on this package onto a
+ * range its new version satisfies.
+ *
+ * This package's minor version IS its language count, so adding a language moves
+ * the minor and `^0.20.0` stops matching `0.21.0`. That is not a hypothetical:
+ * adding Turkish did exactly this, npm fell back to a registry where this
+ * package has never been published, and the whole install failed with a 404.
+ *
+ * The build that moves the number is the right place to carry the consequence.
+ * The gate in `tests/production_packages.mjs` still checks it independently,
+ * because a range can also go stale by being written by hand.
+ */
+export async function syncRanges(dir = HERE) {
+  const version = JSON.parse(readFileSync(join(dir, "package.json"), "utf8")).version;
+  const name = JSON.parse(readFileSync(join(dir, "package.json"), "utf8")).name;
+  const root = join(dir, "..", "..");
+  const changed = [];
+  for (const entry of readdirSync(join(root, "packages"), { withFileTypes: true })) {
+    if (!entry.isDirectory()) continue;
+    const path = join(root, "packages", entry.name, "package.json");
+    if (!existsSync(path)) continue;
+    const pkg = JSON.parse(readFileSync(path, "utf8"));
+    if (!pkg.dependencies?.[name]) continue;
+    const want = `^${version}`;
+    if (pkg.dependencies[name] === want) continue;
+    pkg.dependencies[name] = want;
+    writeFileSync(path, await formatAs(JSON.stringify(pkg), path));
+    changed.push(entry.name);
+  }
+  return changed;
+}
+
 const GENERATED = ["README.md", "REFERENCES.md", "package.json"];
 
 /** The rendered file as it will sit on disk. */
@@ -280,8 +313,10 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
   if (process.argv.includes("--write")) {
     for (const name of GENERATED) writeFileSync(join(HERE, name), await rendered(name));
     const pkg = JSON.parse(readFileSync(join(HERE, "package.json"), "utf8"));
+    const synced = await syncRanges();
     console.log(
-      `tongues: ${languages().length} language(s), ${varieties().length} variety(s), version ${pkg.version}`,
+      `tongues: ${languages().length} language(s), ${varieties().length} variety(s), version ${pkg.version}` +
+        (synced.length ? ` -- ranges updated in ${synced.join(", ")}` : ""),
     );
   } else {
     const d = await drift();
