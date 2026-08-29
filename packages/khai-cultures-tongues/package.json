@@ -275,6 +275,11 @@
         "parent": "it/position_language_it.md"
       },
       {
+        "file": "it/position_language_it_it.md",
+        "type": "position",
+        "parent": "it/position_language_it.md"
+      },
+      {
         "file": "ksh/position_language_ksh.md",
         "type": "position",
         "parent": "position_language.md"

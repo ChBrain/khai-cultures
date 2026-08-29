@@ -32,7 +32,7 @@ Le monde que la langue française a construit, et qui la reconstruit à son tour
 - [la France](../../cultures/france/play_france.md) (la source de la langue)
 - [la Belgique](../../cultures/belgium/play_belgium.md)
 - [le Luxembourg](../../cultures/luxembourg/play_luxembourg.md)
-- [la Suisse](../../cultures/switzerland/play_switzerland.md) (la Romandie)
+- [la Suisse](@chbrain/khai-cultures-switzerland/play_switzerland.md) (la Romandie)
 - [Monaco](../../cultures/monaco/play_monaco.md)
 - [le Canada](../../cultures/canada/play_canada.md) (le Québec et l'Acadie)
 - [Haïti](../../cultures/haiti/play_haiti.md) (la première république noire)

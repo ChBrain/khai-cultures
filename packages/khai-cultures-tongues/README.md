@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **62 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **63 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -78,6 +78,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                           | `hsb`      |
 | `it/position_language_it.md`           | Italian as such, of which every it_* here is a variety                                                               | `it`       |
 | `it/position_language_it_ch.md`        | Swiss Italian: a minority twice over, and in two different directions                                                | `it`       |
+| `it/position_language_it_it.md`        | Italian Standard Italian: a standard out of a library, over a second system                                          | `it`       |
 | `ksh/position_language_ksh.md`         | Kölsch: a tongue defined by which sound shifts reached it and which did not                                          | `ksh`      |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                      | `nds`      |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                  | `pfl`      |

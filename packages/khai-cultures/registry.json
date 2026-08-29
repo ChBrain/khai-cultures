@@ -17247,11 +17247,6 @@
           "title": "the Family"
         },
         {
-          "file": "position_language_it_it.md",
-          "kind": "position",
-          "title": "Dialect and the National Tongue"
-        },
-        {
           "file": "process_la_passeggiata.md",
           "kind": "process",
           "title": "the Passeggiata"
@@ -32837,7 +32832,8 @@
           "kind": "process",
           "title": "The Popular Vote"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-switzerland"
     },
     {
       "kind": "culture",
@@ -38180,7 +38176,7 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
-      "references": ["austria", "germany", "switzerland"],
+      "references": ["austria", "germany"],
       "members": [
         {
           "file": "play_dach.md",
@@ -38293,7 +38289,6 @@
         "rwanda",
         "senegal",
         "seychelles",
-        "switzerland",
         "togo",
         "vanuatu"
       ],

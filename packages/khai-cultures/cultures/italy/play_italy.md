@@ -48,7 +48,7 @@ Un nome prima di un popolo e una civiltà prima di uno Stato: "Italia" copre la 
 **Positions**
 
 - [l'italianità](position_culture_italianita.md)
-- [il dialetto](position_language_it_it.md)
+- [il dialetto](@chbrain/khai-cultures-tongues/it/position_language_it_it.md)
 - [il campanilismo](position_il_campanilismo.md)
 - [la famiglia](position_la_famiglia.md)
 
