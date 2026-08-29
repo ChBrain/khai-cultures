@@ -31,13 +31,13 @@ Drei Länder, die dieselbe Sprache schreiben und doch sehr verschieden sind. Kei
 
 - [Deutschland](../../cultures/germany/play_germany.md)
 - [Österreich](../../cultures/austria/play_austria.md)
-- [die Schweiz](../../cultures/switzerland/play_switzerland.md)
+- [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md)
 
 ## Triggers
 
 **Die gemeinsame Sprache**
 
-Das Hochdeutsche als gemeinsame Schriftsprache bindet [Deutschland](../../cultures/germany/play_germany.md), [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](../../cultures/switzerland/play_switzerland.md), auch wo der Alltag Dialekt spricht.
+Das Hochdeutsche als gemeinsame Schriftsprache bindet [Deutschland](../../cultures/germany/play_germany.md), [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md), auch wo der Alltag Dialekt spricht.
 
 **Die enge Wirtschaft**
 

@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[il dialetto](position_language_it_it.md)
+[il dialetto](@chbrain/khai-cultures-tongues/it/position_language_it_it.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Il sommo poeta, esule fiorentino che diede all'Italia una lingua prima ancora che fosse una nazione. [Scrive, legge e pensa](process_writing_mother_tongue.md) nel volgare toscano e ne fa, con la Commedia, [la lingua che sarà l'italiano di tutti](position_language_it_it.md), degna di ogni pensiero, dal cielo all'inferno. Il [latino](../holy_see/position_language_la.md) dei dotti lo [porta come strumento](process_speaking_carried.md) ma sceglie la lingua del popolo. Lì è la frattura: dà una lingua letteraria a una nazione che nascerà sei secoli dopo, e che al momento dell'unità ancora non la parlerà. Appartiene comunque a [l'italianità](position_culture_italianita.md), lui che fu una civiltà prima ancora che esistesse lo Stato capace di riconoscerla.
+Il sommo poeta, esule fiorentino che diede all'Italia una lingua prima ancora che fosse una nazione. [Scrive, legge e pensa](process_writing_mother_tongue.md) nel volgare toscano e ne fa, con la Commedia, [la lingua che sarà l'italiano di tutti](@chbrain/khai-cultures-tongues/it/position_language_it_it.md), degna di ogni pensiero, dal cielo all'inferno. Il [latino](../holy_see/position_language_la.md) dei dotti lo [porta come strumento](process_speaking_carried.md) ma sceglie la lingua del popolo. Lì è la frattura: dà una lingua letteraria a una nazione che nascerà sei secoli dopo, e che al momento dell'unità ancora non la parlerà. Appartiene comunque a [l'italianità](position_culture_italianita.md), lui che fu una civiltà prima ancora che esistesse lo Stato capace di riconoscerla.
 
 ## Action
 
-Scrive la Divina Commedia nel volgare invece che in latino e fonda, di fatto, [il dialetto](position_language_it_it.md) toscano come lingua delle lettere, la parlata di [Firenze](place_firenze.md) che un giorno sarà l'italiano di tutti.
+Scrive la Divina Commedia nel volgare invece che in latino e fonda, di fatto, [il dialetto](@chbrain/khai-cultures-tongues/it/position_language_it_it.md) toscano come lingua delle lettere, la parlata di [Firenze](place_firenze.md) che un giorno sarà l'italiano di tutti.
 
 ## Shadow
 

@@ -69,6 +69,7 @@
   },
   "dependencies": {
     "@chbrain/khai-cultures-liechtenstein": "^0.1.0",
+    "@chbrain/khai-cultures-switzerland": "^0.1.0",
     "@chbrain/khai-cultures-tongues": "^0.20.0",
     "@chbrain/khai-cultures-united-kingdom": "^0.1.0",
     "@chbrain/khai-engine-language": "^0.1.5",

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Il peso di essere una civiltà prima che uno Stato: eredi di Roma e del Rinascimento, che diedero all'Europa il diritto, l'arte e una lingua, mentre la penisola restava divisa in mille città rivali. Porta [il campanilismo](position_il_campanilismo.md), l'attaccamento al proprio campanile prima che alla nazione, e [la famiglia](position_la_famiglia.md), la cellula che regge dove lo Stato non arriva. Porta la bellezza fatta abito quotidiano, la bella figura da difendere anche quando manca il resto, e un'antica diffidenza del potere lontano, imparata in secoli di dominazioni straniere e di campanili in lotta fra loro. Parla, da appena centocinquant'anni, [una sola lingua nazionale](position_language_it_it.md) sopra un continente di dialetti che restano lingue intere.
+Il peso di essere una civiltà prima che uno Stato: eredi di Roma e del Rinascimento, che diedero all'Europa il diritto, l'arte e una lingua, mentre la penisola restava divisa in mille città rivali. Porta [il campanilismo](position_il_campanilismo.md), l'attaccamento al proprio campanile prima che alla nazione, e [la famiglia](position_la_famiglia.md), la cellula che regge dove lo Stato non arriva. Porta la bellezza fatta abito quotidiano, la bella figura da difendere anche quando manca il resto, e un'antica diffidenza del potere lontano, imparata in secoli di dominazioni straniere e di campanili in lotta fra loro. Parla, da appena centocinquant'anni, [una sola lingua nazionale](@chbrain/khai-cultures-tongues/it/position_language_it_it.md) sopra un continente di dialetti che restano lingue intere.
 
 ## Orders
 

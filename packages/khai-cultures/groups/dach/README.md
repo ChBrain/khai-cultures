@@ -21,7 +21,7 @@ never drift from what the play actually links.
 
 - **Members:** [Germany](../../cultures/germany/play_germany.md),
   [Austria](../../cultures/austria/play_austria.md),
-  [Switzerland](../../cultures/switzerland/play_switzerland.md).
+  [Switzerland](@chbrain/khai-cultures-switzerland/play_switzerland.md).
 - **Kind:** `group` (the registry stamps it, so the website can tell it from a
   culture and resolve its members on the map).
 

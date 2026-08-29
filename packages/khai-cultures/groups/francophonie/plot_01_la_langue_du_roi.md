@@ -26,13 +26,13 @@ Avant d'être la langue de cinq continents, le français est la langue d'un roya
 
 ## Action
 
-En 1539, l'ordonnance de Villers-Cotterêts fait du français la langue des actes du royaume à la place du latin ; en 1635, Richelieu fonde l'Académie française pour veiller sur elle ; et du Grand Siècle aux Lumières, la langue de [la France](../../cultures/france/play_france.md) devient celle des cours, des traités et des salons de l'Europe, la langue de Molière, de Voltaire et de la diplomatie. Elle n'est pourtant pas qu'une langue d'export : elle est chez elle chez les voisins, dans les provinces wallonnes de la future [Belgique](../../cultures/belgium/play_belgium.md), dans les cantons romands de [la Suisse](../../cultures/switzerland/play_switzerland.md), au [Luxembourg](../../cultures/luxembourg/play_luxembourg.md) où elle est langue de la loi, et sur le rocher de [Monaco](../../cultures/monaco/play_monaco.md). Ce premier cercle européen, où le français est langue native et non conquête, donne à la future famille son noyau : une langue déjà partagée entre plusieurs États avant que les océans ne l'emportent.
+En 1539, l'ordonnance de Villers-Cotterêts fait du français la langue des actes du royaume à la place du latin ; en 1635, Richelieu fonde l'Académie française pour veiller sur elle ; et du Grand Siècle aux Lumières, la langue de [la France](../../cultures/france/play_france.md) devient celle des cours, des traités et des salons de l'Europe, la langue de Molière, de Voltaire et de la diplomatie. Elle n'est pourtant pas qu'une langue d'export : elle est chez elle chez les voisins, dans les provinces wallonnes de la future [Belgique](../../cultures/belgium/play_belgium.md), dans les cantons romands de [la Suisse](@chbrain/khai-cultures-switzerland/play_switzerland.md), au [Luxembourg](../../cultures/luxembourg/play_luxembourg.md) où elle est langue de la loi, et sur le rocher de [Monaco](../../cultures/monaco/play_monaco.md). Ce premier cercle européen, où le français est langue native et non conquête, donne à la future famille son noyau : une langue déjà partagée entre plusieurs États avant que les océans ne l'emportent.
 
 ## Stage
 
 - [la France](../../cultures/france/play_france.md) : le royaume qui fixe la langue, de Villers-Cotterêts à l'Académie.
 - [la Belgique](../../cultures/belgium/play_belgium.md) : la Wallonie et Bruxelles, le français chez lui au nord du royaume.
-- [la Suisse](../../cultures/switzerland/play_switzerland.md) : la Romandie, le français l'une des langues du pacte confédéral.
+- [la Suisse](@chbrain/khai-cultures-switzerland/play_switzerland.md) : la Romandie, le français l'une des langues du pacte confédéral.
 - [le Luxembourg](../../cultures/luxembourg/play_luxembourg.md) : le grand-duché où le français est langue de la loi.
 - [Monaco](../../cultures/monaco/play_monaco.md) : la principauté de langue française sur la Méditerranée.
 
