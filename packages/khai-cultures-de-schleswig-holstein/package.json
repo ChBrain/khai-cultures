@@ -1,7 +1,7 @@
 {
-  "name": "@chbrain/khai-cultures-de-brandenburg",
+  "name": "@chbrain/khai-cultures-de-schleswig-holstein",
   "version": "0.1.0",
-  "description": "khai cultures: de_brandenburg, one culture staged as a khai play.",
+  "description": "khai cultures: de_schleswig_holstein, one culture staged as a khai play.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   ],
   "khai": {
     "class": "house",
-    "production": "de_brandenburg",
-    "anchor": "play_brandenburg.md"
+    "production": "de_schleswig_holstein",
+    "anchor": "play_schleswig_holstein.md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",

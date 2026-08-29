@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Sjómaður og skald, sum [kvøður](process_speaking_mother_tongue.md) Fuglakvæðið á [Føroyskum máli](position_language_fo.md). Hann [ber við sær](process_speaking_carried.md) [danskt](../denmark/position_language_da.md) mál til Keypmannahavnar fyri at berjast móti einahandilinum. Hann er [Føroyingur](position_culture_foroyingur.md).
+Sjómaður og skald, sum [kvøður](process_speaking_mother_tongue.md) Fuglakvæðið á [Føroyskum máli](position_language_fo.md). Hann [ber við sær](process_speaking_carried.md) [danskt](@chbrain/khai-cultures-tongues/da/position_language_da.md) mál til Keypmannahavnar fyri at berjast móti einahandilinum. Hann er [Føroyingur](position_culture_foroyingur.md).
 
 ## Action
 

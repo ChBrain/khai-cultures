@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **68 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **70 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -33,6 +33,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                       | `bar`      |
 | `bar/position_language_bar_wien.md`    | Viennese: Middle Bavarian with one vowel moved, and a vocabulary the countryside never had                           | `bar`      |
 | `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                           | `cs`       |
+| `da/position_language_da.md`           | Danish as such: the definite article hung on the back of the word, and the stod                                      | `da`       |
 | `de/position_language_de.md`           | German as such, of which every de_* here is a variety                                                                | `de`       |
 | `de/position_language_de_at.md`        | Austrian Standard German: the same grammar with another vocabulary, and one different auxiliary                      | `de`       |
 | `de/position_language_de_ch.md`        | Swiss Standard German: a written form and almost nothing else                                                        | `de`       |
@@ -60,6 +61,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                            | `dsb`      |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                               | `en`       |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                        | `en`       |
+| `en/position_language_en_us.md`        | American English: the larger written form, and the unmarked one                                                      | `en`       |
 | `en/position_language_en_us_oh.md`     | Ohio English, split between the Inland North and the Midland                                                         | `en`       |
 | `en/position_language_en_us_pa.md`     | Pennsylvania English, Pittsburgh and the Dutch country                                                               | `en`       |
 | `en/position_language_en_us_va.md`     | Virginian English, the drawl and the second-person plural English otherwise lost                                     | `en`       |

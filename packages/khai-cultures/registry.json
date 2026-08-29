@@ -9023,7 +9023,8 @@
           "kind": "process",
           "title": "Meissen Porcelain Craftsmanship"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-saxony"
     },
     {
       "kind": "culture",
@@ -9427,7 +9428,8 @@
           "kind": "process",
           "title": "Kiel Week"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-de-schleswig-holstein"
     },
     {
       "kind": "culture",
@@ -9760,11 +9762,6 @@
           "file": "position_kongehuset.md",
           "kind": "position",
           "title": "The Crown"
-        },
-        {
-          "file": "position_language_da.md",
-          "kind": "position",
-          "title": "the Danish Language"
         },
         {
           "file": "process_hygge.md",
@@ -36121,11 +36118,6 @@
           "file": "position_exceptionalism.md",
           "kind": "position",
           "title": "Exceptionalism"
-        },
-        {
-          "file": "position_language_en_us.md",
-          "kind": "position",
-          "title": "American English"
         },
         {
           "file": "position_the_creed.md",

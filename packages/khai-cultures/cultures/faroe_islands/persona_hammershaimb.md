@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Prestur og málfrøðingur, sum í 1846 gevur [Føroyskum máli](position_language_fo.md) [skrift](process_writing_mother_tongue.md) fyrstu ferð. Skúlagongdin ber hann til Danmarkar, har hann [danskt](../denmark/position_language_da.md) mál [ber við sær](process_speaking_carried.md) og [skrivar útkast](process_writing_drafted.md) á. Hann er [Føroyingur](position_culture_foroyingur.md).
+Prestur og málfrøðingur, sum í 1846 gevur [Føroyskum máli](position_language_fo.md) [skrift](process_writing_mother_tongue.md) fyrstu ferð. Skúlagongdin ber hann til Danmarkar, har hann [danskt](@chbrain/khai-cultures-tongues/da/position_language_da.md) mál [ber við sær](process_speaking_carried.md) og [skrivar útkast](process_writing_drafted.md) á. Hann er [Føroyingur](position_culture_foroyingur.md).
 
 ## Action
 

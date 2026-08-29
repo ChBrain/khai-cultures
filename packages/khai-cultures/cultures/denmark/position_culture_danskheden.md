@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Tilhørsforholdet til et lille, fladt land, der engang var en stormagt og tabte sit rige stykke for stykke, og som vendte nederlaget indad i stedet for at søge det ude. Den bærer [Janteloven](position_janteloven.md), den uskrevne lov om, at ingen skal tro, han er mere end de andre, og [du-formen](position_du.md), det ene tiltaleord, der lægger alle på samme niveau i selve sproget. Den bærer [kongehuset](position_kongehuset.md), det ældste, samlende kongehus i verden, og taler [det danske sprog](position_language_da.md). Den bringer tilliden mellem fremmede uden at tælle efter, hyggen om bordet og et pyt til det, man ikke kan ændre, og velfærdsstaten som et løfte, alle betaler til og alle kan regne med, alt sammen noget, man bærer som dansker uden nogensinde at have valgt det.
+Tilhørsforholdet til et lille, fladt land, der engang var en stormagt og tabte sit rige stykke for stykke, og som vendte nederlaget indad i stedet for at søge det ude. Den bærer [Janteloven](position_janteloven.md), den uskrevne lov om, at ingen skal tro, han er mere end de andre, og [du-formen](position_du.md), det ene tiltaleord, der lægger alle på samme niveau i selve sproget. Den bærer [kongehuset](position_kongehuset.md), det ældste, samlende kongehus i verden, og taler [det danske sprog](@chbrain/khai-cultures-tongues/da/position_language_da.md). Den bringer tilliden mellem fremmede uden at tælle efter, hyggen om bordet og et pyt til det, man ikke kan ændre, og velfærdsstaten som et løfte, alle betaler til og alle kan regne med, alt sammen noget, man bærer som dansker uden nogensinde at have valgt det.
 
 ## Orders
 

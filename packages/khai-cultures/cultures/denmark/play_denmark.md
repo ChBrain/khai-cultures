@@ -50,7 +50,7 @@ Et lille, fladt land, der engang var en stormagt og tabte sit rige stykke for st
 - [Janteloven](position_janteloven.md)
 - [du-formen](position_du.md)
 - [kongehuset](position_kongehuset.md)
-- [det danske sprog](position_language_da.md)
+- [det danske sprog](@chbrain/khai-cultures-tongues/da/position_language_da.md)
 
 **Pieces**
 
