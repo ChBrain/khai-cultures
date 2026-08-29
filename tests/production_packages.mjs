@@ -28,6 +28,7 @@ import { join, relative, sep } from "node:path";
 import { pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 import { validateProductionPackage } from "@chbrain/khai-tests";
+import semver from "semver";
 import { WORKSPACE, HOUSE, productions, productionName, pathCulture } from "./culture_sources.mjs";
 import { parentOf } from "./culture_conformance.mjs";
 
@@ -98,6 +99,68 @@ export function findings(prod) {
 }
 
 /**
+ * Every package in this workspace, by name, with its manifest.
+ *
+ * Read off the root's `workspaces` patterns rather than assumed, so a package
+ * added tomorrow is covered without anybody remembering to add it here.
+ */
+function members() {
+  const root = JSON.parse(readFileSync(join(WORKSPACE, "package.json"), "utf8"));
+  const patterns = Array.isArray(root.workspaces)
+    ? root.workspaces
+    : (root.workspaces?.packages ?? []);
+  const out = new Map();
+  for (const pattern of patterns) {
+    const base = String(pattern).replace(/\/\*$/, "");
+    const dir = join(WORKSPACE, base);
+    if (!existsSync(dir)) continue;
+    for (const e of readdirSync(dir, { withFileTypes: true })) {
+      if (!e.isDirectory()) continue;
+      const manifest = join(dir, e.name, "package.json");
+      if (!existsSync(manifest)) continue;
+      const pkg = JSON.parse(readFileSync(manifest, "utf8"));
+      if (pkg.name) out.set(pkg.name, { pkg, path: rel(manifest) });
+    }
+  }
+  return out;
+}
+
+/**
+ * A declared range that this workspace cannot satisfy.
+ *
+ * Declaring a dependency and being able to resolve it are two different things,
+ * and the production gate only ever checked the first. It cost an install: the
+ * tongues package's minor version IS its language count, so adding Turkish took
+ * it from 0.20.0 to 0.21.0, `^0.20.0` stopped matching, and npm fell back to a
+ * registry where this package has never been published and failed the whole
+ * install with a 404. Six manifests carried the stale range; there will be two
+ * hundred and ninety.
+ *
+ * Only workspace members are judged. A range on something published elsewhere is
+ * npm's business and not this house's, and pinning it here would turn every
+ * upstream release into a red build.
+ */
+export function rangeFindings() {
+  const known = members();
+  const out = [];
+  for (const [name, { pkg, path }] of known) {
+    for (const field of ["dependencies", "devDependencies", "peerDependencies"]) {
+      for (const [dep, range] of Object.entries(pkg[field] ?? {})) {
+        const target = known.get(dep);
+        if (!target) continue;
+        if (semver.satisfies(target.pkg.version, range)) continue;
+        out.push(
+          `${path}: ${name} requires ${dep}@${range} and this workspace has ` +
+            `${dep}@${target.pkg.version} -- npm cannot resolve that from the workspace and ` +
+            `falls back to the registry, where it 404s`,
+        );
+      }
+    }
+  }
+  return out.sort();
+}
+
+/**
  * What the umbrella owes: a production it let go must still be a dependency.
  *
  * The count is the house's identity and the install is its promise. Lift a
@@ -121,7 +184,7 @@ export function umbrellaFindings() {
 /** Every finding in the house, by package. */
 export function report() {
   const rows = productions().map((p) => [p.name, findings(p)]);
-  const extra = umbrellaFindings();
+  const extra = [...umbrellaFindings(), ...rangeFindings()];
   const n = rows.reduce((a, [, f]) => a + f.length, 0) + extra.length;
   console.log(`productions: ${rows.length} package(s), ${n} finding(s)`);
   for (const [name, f] of rows) for (const line of f) console.log(`  ${name}/${line}`);
@@ -145,7 +208,11 @@ function gate(base, head) {
     if (hit?.migrated) touched.add(hit.id);
   }
   const scope = touchedManifest ? productions() : productions().filter((p) => touched.has(p.id));
-  const extra = umbrellaFindings();
+  // Unconditional, both of them: a dropped dependency and an unsatisfiable range
+  // are faults of the workspace and not of any one production, and the change
+  // that causes them need not touch a production at all - the tongues version
+  // moves when a language is added.
+  const extra = [...umbrellaFindings(), ...rangeFindings()];
   const rows = scope.map((p) => [p.name, findings(p)]);
   const n = rows.reduce((a, [, f]) => a + f.length, 0) + extra.length;
   if (!n) {

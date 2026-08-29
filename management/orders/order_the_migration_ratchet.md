@@ -252,6 +252,31 @@ all five and the canon validator returned fifteen findings. Whoever writes the
 next culture reads that list first; whoever briefs an agent to write one puts it
 in the brief.
 
+## A declared range is not a resolvable one
+
+The production gate checked that every specifier a culture casts is DECLARED, and
+that is half the question. The other half cost an install.
+
+The tongues package's minor version is its language count, in the same way the
+umbrella's is its culture count. Adding Turkish took it from `0.20.0` to
+`0.21.0`, and `^0.20.0` does not match `0.21.0`, so npm could no longer resolve
+it from the workspace, fell back to the registry where this package has never
+been published, and failed the whole install with a 404. Six manifests carried
+the stale range. There will be two hundred and ninety.
+
+The gate holds it now: every dependency on a workspace member must be satisfiable
+by that member's actual version, checked unconditionally rather than on touched
+productions, because the change that breaks it need not touch a production at all.
+Only workspace members are judged - a range on something published elsewhere is
+npm's business, and pinning it here would turn every upstream release into a red
+build.
+
+The failure was legible and I did not read it. `npm install` printed the 404 and
+I had piped it to `tail -1`. What made it recoverable was that the canon
+validator failed thirty-six times over on the next run; what makes it
+unrepeatable is that the gate now fails on the manifest rather than on the
+symptom.
+
 ## The order of the walk, as measured rather than as planned
 
 The design expected the tongues to move in fan-in order, narrowest first, so the
