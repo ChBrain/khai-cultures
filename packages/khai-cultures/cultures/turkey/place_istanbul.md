@@ -27,7 +27,7 @@ Parent group: places
 ## Holds
 
 - [1453](plot_02_1453.md): Fatih'in burayı alıp üç kıtaya yayılan imparatorluğun başkenti yaptığı şehir.
-- [Laik mi dindar mı](plot_04_laik_mi_dindar_mi.md): Ayasofya'nın kilise-cami-müze-cami yolculuğunda laik ile dindar çatlağının bedenleştiği yer.
+- [Laik mi dindar mı](plot_06_laik_mi_dindar_mi.md): Ayasofya'nın kilise-cami-müze-cami yolculuğunda laik ile dindar çatlağının bedenleştiği yer.
 
 ## Offers
 

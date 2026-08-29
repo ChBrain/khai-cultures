@@ -34642,6 +34642,12 @@
           "title": "Turkey"
         },
         {
+          "file": "plot_00_orhun_taslari.md",
+          "kind": "plot",
+          "title": "The Orkhon Stones, 732",
+          "taxonomy": "play_turkey.md"
+        },
+        {
           "file": "plot_01_anadolu.md",
           "kind": "plot",
           "title": "Anatolia",
@@ -34660,9 +34666,27 @@
           "taxonomy": "play_turkey.md"
         },
         {
-          "file": "plot_04_laik_mi_dindar_mi.md",
+          "file": "plot_04_mubadele.md",
+          "kind": "plot",
+          "title": "The Exchange, 1923 to 1924",
+          "taxonomy": "play_turkey.md"
+        },
+        {
+          "file": "plot_05_rizeye_cay.md",
+          "kind": "plot",
+          "title": "Tea Planted in Rize, 1924 to 1965",
+          "taxonomy": "play_turkey.md"
+        },
+        {
+          "file": "plot_06_laik_mi_dindar_mi.md",
           "kind": "plot",
           "title": "Secular or Religious",
+          "taxonomy": "play_turkey.md"
+        },
+        {
+          "file": "plot_99_sarsilan_on_yil.md",
+          "kind": "plot",
+          "title": "The Decade That Shook, since 2016",
           "taxonomy": "play_turkey.md"
         },
         {

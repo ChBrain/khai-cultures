@@ -68,6 +68,10 @@ Orta Asya bozkırından göçüp gelen bir halk: Türkler 1071'de Malazgirt'te A
 
 ## Triggers
 
+**[Plot 0: Orhun taşları, 732](plot_00_orhun_taslari.md)**
+
+Bilge Kağan iki taş diktirir ve "Türk" sözü ilk kez bir halkın kendi taşına kendi harfleriyle kazınır; batıya yürüyecek olan halk, yanında yalnız [halısını](piece_hali.md) getirecektir.
+
 **[Plot 1: Anadolu](plot_01_anadolu.md)**
 
 1071'de Malazgirt zaferiyle Anadolu'nun kapısı açılır; bozkırdan gelen Türkler bu toprağı Türkleştirip İslamlaştırır ve [Yunus Emre](persona_yunus_emre.md) halka sade Türkçeyle insanca bir [iman](position_laiklik_din.md) verir.
@@ -80,9 +84,21 @@ Orta Asya bozkırından göçüp gelen bir halk: Türkler 1071'de Malazgirt'te A
 
 1923'te [Atatürk](persona_ataturk.md) [laik cumhuriyeti](position_laiklik_din.md) kurar; 1928 harf devrimiyle [dili](position_language_tr_tr.md) Osmanlıca'dan koparır ve ulusu Batı'ya çevirir.
 
-**[Plot 4: Laik mi dindar mı](plot_04_laik_mi_dindar_mi.md)**
+**[Plot 4: Mübadele, 1923-1924](plot_04_mubadele.md)**
+
+Lozan'da sınırla birlikte nüfus da çizilir: ölçüt dil değil mezheptir, Anadolu bin yıldır olduğu karışık yer olmaktan iki yılda çıkar ve [Türklük](position_culture_turkluk.md) pratikte yeniden tanımlanır.
+
+**[Plot 5: Rize'ye çay dikilmesi, 1924-1965](plot_05_rizeye_cay.md)**
+
+Devlet bir bitki diker ve bir kuşakta ülkenin ne içtiği değişir: [çay](process_cay.md) kahvenin yerini alır, ince belli bardak günün saatlerini bölmeye başlar - bu oyundaki tepeden inme devrimlerin en sessizi ve en çok tutanı.
+
+**[Plot 6: Laik mi dindar mı](plot_06_laik_mi_dindar_mi.md)**
 
 Kemalist laik devletle Anadolu'nun dindar yüreği arasındaki [çatlak](position_laiklik_din.md) sürer; gelmeyen Avrupa Birliği ve büyük diaspora, modern ulusun bölünmüş ruhunu sınar.
+
+**[Plot 99: Sarsılan on yıl, 2016'dan beri](plot_99_sarsilan_on_yil.md)**
+
+Darbe girişiminden 2023'ün depremine, Ayasofya'nın yeniden camiye çevrilmesinden yüzüncü yıla: bu oyunun kendisi hakkında söylediği her şey sırayla sınanır, ve [nazar boncuğu](piece_nazar_boncugu.md) hepsinden sağ çıkar.
 
 ## Stakes
 
