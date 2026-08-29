@@ -68,6 +68,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@chbrain/khai-cultures-austria": "^0.1.0",
     "@chbrain/khai-cultures-ch-uri": "^0.1.0",
     "@chbrain/khai-cultures-de-baden-wuerttemberg": "^0.1.0",
     "@chbrain/khai-cultures-de-bavaria": "^0.1.0",
@@ -86,7 +87,7 @@
     "@chbrain/khai-cultures-germany": "^0.1.0",
     "@chbrain/khai-cultures-liechtenstein": "^0.1.0",
     "@chbrain/khai-cultures-switzerland": "^0.1.0",
-    "@chbrain/khai-cultures-tongues": "^0.21.0",
+    "@chbrain/khai-cultures-tongues": "^0.24.0",
     "@chbrain/khai-cultures-united-kingdom": "^0.1.0",
     "@chbrain/khai-engine-language": "^0.1.5",
     "@chbrain/khai-engine-spine": "^0.1.5"

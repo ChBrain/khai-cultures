@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **65 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **68 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -32,6 +32,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                            | `bar`      |
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                       | `bar`      |
 | `bar/position_language_bar_wien.md`    | Viennese: Middle Bavarian with one vowel moved, and a vocabulary the countryside never had                           | `bar`      |
+| `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                           | `cs`       |
 | `de/position_language_de.md`           | German as such, of which every de_* here is a variety                                                                | `de`       |
 | `de/position_language_de_at.md`        | Austrian Standard German: the same grammar with another vocabulary, and one different auxiliary                      | `de`       |
 | `de/position_language_de_ch.md`        | Swiss Standard German: a written form and almost nothing else                                                        | `de`       |
@@ -77,10 +78,12 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                    | `gsw`      |
 | `hr/position_language_hr.md`           | Croatian as such, of which Burgenland Croatian will be a variety                                                     | `hr`       |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                           | `hsb`      |
+| `hu/position_language_hu.md`           | Hungarian as such: agglutination, vowel harmony, and no grammatical gender                                           | `hu`       |
 | `it/position_language_it.md`           | Italian as such, of which every it_* here is a variety                                                               | `it`       |
 | `it/position_language_it_ch.md`        | Swiss Italian: a minority twice over, and in two different directions                                                | `it`       |
 | `it/position_language_it_it.md`        | Italian Standard Italian: a standard out of a library, over a second system                                          | `it`       |
 | `ksh/position_language_ksh.md`         | Kölsch: a tongue defined by which sound shifts reached it and which did not                                          | `ksh`      |
+| `la/position_language_la.md`           | Latin: six cases, free word order, and no living speech community                                                    | `la`       |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                      | `nds`      |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                  | `pfl`      |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                        | `rif`      |

@@ -1880,7 +1880,8 @@
           "kind": "process",
           "title": "The Coffee House"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-austria"
     },
     {
       "kind": "culture",
@@ -7326,11 +7327,6 @@
           "file": "position_culture_cesstvi.md",
           "kind": "position",
           "title": "Czech Culture"
-        },
-        {
-          "file": "position_language_cs.md",
-          "kind": "position",
-          "title": "the Czech Language"
         },
         {
           "file": "position_svejkovani.md",
@@ -15444,11 +15440,6 @@
           "title": "The Roman Curia"
         },
         {
-          "file": "position_language_la.md",
-          "kind": "position",
-          "title": "Latin"
-        },
-        {
           "file": "process_conclave.md",
           "kind": "process",
           "title": "The Papal Conclave"
@@ -15848,11 +15839,6 @@
           "file": "position_culture_magyarsag.md",
           "kind": "position",
           "title": "Hungarian Culture"
-        },
-        {
-          "file": "position_language_hu.md",
-          "kind": "position",
-          "title": "the Hungarian Language"
         },
         {
           "file": "position_szabadsagharc.md",
@@ -38358,7 +38344,6 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
-      "references": ["austria"],
       "members": [
         {
           "file": "play_dach.md",
@@ -38379,7 +38364,6 @@
       "title": "the European Union",
       "description": "The European Union as a group: twenty-seven nations that pooled their sovereignty for peace and prosperity.",
       "references": [
-        "austria",
         "belgium",
         "bulgaria",
         "croatia",

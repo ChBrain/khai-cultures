@@ -1,7 +1,7 @@
 {
-  "name": "@chbrain/khai-cultures-germany",
+  "name": "@chbrain/khai-cultures-austria",
   "version": "0.1.0",
-  "description": "khai cultures: germany, one culture staged as a khai play.",
+  "description": "khai cultures: austria, one culture staged as a khai play.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   ],
   "khai": {
     "class": "house",
-    "production": "germany",
-    "anchor": "play_germany.md"
+    "production": "austria",
+    "anchor": "play_austria.md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",

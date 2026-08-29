@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Czech Language"
+title: "Czech"
 declared: "český jazyk"
 language: cs
 license: CC-BY-NC-SA-4.0

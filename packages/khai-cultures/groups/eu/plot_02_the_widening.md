@@ -26,13 +26,13 @@ The common market of the six prospers, and the nations left outside it begin to 
 
 ## Action
 
-The community widens in waves. In 1973 [Denmark](../../cultures/denmark/play_denmark.md) and [Ireland](../../cultures/ireland/play_ireland.md) join (with the United Kingdom). In 1981 [Greece](../../cultures/greece/play_greece.md) comes in, fresh from the colonels; in 1986 [Spain](../../cultures/spain/play_spain.md) and [Portugal](../../cultures/portugal/play_portugal.md) follow, anchoring the post-dictatorship south to democracy. In 1995 the neutrals [Austria](../../cultures/austria/play_austria.md), [Finland](../../cultures/finland/play_finland.md), and [Sweden](../../cultures/sweden/play_sweden.md) join a Union that has, by then, become more than a market. Each wave makes the community larger, richer, and more various.
+The community widens in waves. In 1973 [Denmark](../../cultures/denmark/play_denmark.md) and [Ireland](../../cultures/ireland/play_ireland.md) join (with the United Kingdom). In 1981 [Greece](../../cultures/greece/play_greece.md) comes in, fresh from the colonels; in 1986 [Spain](../../cultures/spain/play_spain.md) and [Portugal](../../cultures/portugal/play_portugal.md) follow, anchoring the post-dictatorship south to democracy. In 1995 the neutrals [Austria](@chbrain/khai-cultures-austria/play_austria.md), [Finland](../../cultures/finland/play_finland.md), and [Sweden](../../cultures/sweden/play_sweden.md) join a Union that has, by then, become more than a market. Each wave makes the community larger, richer, and more various.
 
 ## Stage
 
 - [Ireland](../../cultures/ireland/play_ireland.md): the small nation transformed by membership.
 - [Greece](../../cultures/greece/play_greece.md), [Spain](../../cultures/spain/play_spain.md), [Portugal](../../cultures/portugal/play_portugal.md): the southern democracies anchored by accession.
-- [Finland](../../cultures/finland/play_finland.md), [Austria](../../cultures/austria/play_austria.md), [Sweden](../../cultures/sweden/play_sweden.md): the neutrals who join in 1995.
+- [Finland](../../cultures/finland/play_finland.md), [Austria](@chbrain/khai-cultures-austria/play_austria.md), [Sweden](../../cultures/sweden/play_sweden.md): the neutrals who join in 1995.
 
 ## Tension
 

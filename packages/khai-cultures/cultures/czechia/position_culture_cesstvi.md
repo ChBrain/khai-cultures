@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Příslušnost k malému slovanskému národu uprostřed Evropy, jenž od husitské vzpoury přes Bílou horu a Mnichov až po dvě totality zjistil, že velké gesto se nevyplácí. Nese v sobě [bezvěrectví](position_bezverectvi.md), hlubokou nedůvěru k vrchnosti pozemské i nebeské, zažehnutou na kostnické hranici, a [švejkování](position_svejkovani.md), obranu chytrostí a předstíranou hloupostí, pojmenovanou po dobrém vojáku z hospodské grotesky. Mluví [českým jazykem](position_language_cs.md), malou řečí, jíž nikdo zvenčí nerozumí a kterou si národ dvakrát uhájil, když ji cizí vrchnost skoro vymýtila z měst do vesnic. Nese knedlík a hospodu, loutku a chalupu, zdravý rozum místo velkých slov, jako to, co si člověk odnáší, aniž si to kdy vybral.
+Příslušnost k malému slovanskému národu uprostřed Evropy, jenž od husitské vzpoury přes Bílou horu a Mnichov až po dvě totality zjistil, že velké gesto se nevyplácí. Nese v sobě [bezvěrectví](position_bezverectvi.md), hlubokou nedůvěru k vrchnosti pozemské i nebeské, zažehnutou na kostnické hranici, a [švejkování](position_svejkovani.md), obranu chytrostí a předstíranou hloupostí, pojmenovanou po dobrém vojáku z hospodské grotesky. Mluví [českým jazykem](@chbrain/khai-cultures-tongues/cs/position_language_cs.md), malou řečí, jíž nikdo zvenčí nerozumí a kterou si národ dvakrát uhájil, když ji cizí vrchnost skoro vymýtila z měst do vesnic. Nese knedlík a hospodu, loutku a chalupu, zdravý rozum místo velkých slov, jako to, co si člověk odnáší, aniž si to kdy vybral.
 
 ## Orders
 

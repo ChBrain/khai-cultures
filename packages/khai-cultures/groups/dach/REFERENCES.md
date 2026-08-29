@@ -16,7 +16,7 @@ from the international vehicle and ISO codes of its three countries:
 | Letter | Country     | Member culture                                                        |
 | ------ | ----------- | --------------------------------------------------------------------- |
 | D      | Deutschland | [germany](@chbrain/khai-cultures-germany/play_germany.md)             |
-| A      | Österreich  | [austria](../../cultures/austria/play_austria.md)                     |
+| A      | Österreich  | [austria](@chbrain/khai-cultures-austria/play_austria.md)             |
 | CH     | Schweiz     | [switzerland](@chbrain/khai-cultures-switzerland/play_switzerland.md) |
 
 It denotes a cultural, linguistic, and economic sphere bound by a shared written
