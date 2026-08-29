@@ -26,7 +26,7 @@ La città dell'Arno, culla del Rinascimento: la cupola del Brunelleschi, gli Uff
 
 ## Holds
 
-- [Il Rinascimento](plot_02_il_rinascimento.md): qui rinascono l'arte e il sapere, e qui [Dante](persona_dante.md) dà al volgare la dignità di una lingua.
+- [Il Rinascimento](plot_03_il_rinascimento.md): qui rinascono l'arte e il sapere, e qui [Dante](persona_dante.md) dà al volgare la dignità di una lingua.
 
 ## Offers
 

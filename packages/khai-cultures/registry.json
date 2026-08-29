@@ -17184,27 +17184,51 @@
           "title": "Italy"
         },
         {
+          "file": "plot_00_italia_prima_dello_stato.md",
+          "kind": "plot",
+          "title": "Italia Before the State",
+          "taxonomy": "play_italy.md"
+        },
+        {
           "file": "plot_01_roma_antica.md",
           "kind": "plot",
           "title": "Ancient Rome",
           "taxonomy": "play_italy.md"
         },
         {
-          "file": "plot_02_il_rinascimento.md",
+          "file": "plot_02_i_comuni.md",
+          "kind": "plot",
+          "title": "The Communes",
+          "taxonomy": "play_italy.md"
+        },
+        {
+          "file": "plot_03_il_rinascimento.md",
           "kind": "plot",
           "title": "The Renaissance",
           "taxonomy": "play_italy.md"
         },
         {
-          "file": "plot_03_il_risorgimento.md",
+          "file": "plot_04_il_risorgimento.md",
           "kind": "plot",
           "title": "The Risorgimento",
           "taxonomy": "play_italy.md"
         },
         {
-          "file": "plot_04_il_miracolo_economico.md",
+          "file": "plot_05_il_miracolo_economico.md",
           "kind": "plot",
           "title": "The Economic Miracle",
+          "taxonomy": "play_italy.md"
+        },
+        {
+          "file": "plot_06_la_lingua_in_televisione_1954_1968.md",
+          "kind": "plot",
+          "title": "The Language on Television, 1954 to 1968",
+          "taxonomy": "play_italy.md"
+        },
+        {
+          "file": "plot_99_il_paese_che_invecchia.md",
+          "kind": "plot",
+          "title": "The Country That Is Ageing, since 2015",
           "taxonomy": "play_italy.md"
         },
         {

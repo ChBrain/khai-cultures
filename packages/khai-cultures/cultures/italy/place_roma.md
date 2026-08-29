@@ -27,8 +27,8 @@ La città eterna sul Tevere, stratificata di tremila anni: il Foro e il Colosseo
 ## Holds
 
 - [Roma antica](plot_01_roma_antica.md): qui si fa l'impero che dà a mezza Europa la sua lingua, il suo diritto e le sue strade.
-- [Il Risorgimento](plot_03_il_risorgimento.md): qui, presa nel 1870, Roma diventa capitale del Regno d'Italia.
-- [Il miracolo economico](plot_04_il_miracolo_economico.md): qui Cinecittà e la dolce vita danno il volto all'Italia del boom.
+- [Il Risorgimento](plot_04_il_risorgimento.md): qui, presa nel 1870, Roma diventa capitale del Regno d'Italia.
+- [Il miracolo economico](plot_05_il_miracolo_economico.md): qui Cinecittà e la dolce vita danno il volto all'Italia del boom.
 
 ## Offers
 
