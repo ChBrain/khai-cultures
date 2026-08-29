@@ -200,6 +200,15 @@ by the kit, and compares. Dropping them without that would have left the house
 with no drift check at all, which is the shape of failure this repository keeps
 finding.
 
+**A production registers its own languages.** The house registers twenty-five
+that no engine has heard of - Romansh, Bavarian, Nahuatl, Church Slavonic - and
+one declaration under the umbrella covered every culture. A production is
+validated rooted on itself, so it carries the subset its own files are written
+in, derived from those files and not copied whole: a package declaring
+twenty-five to use one would be telling an installer something untrue about what
+is in the box. Switzerland found this by failing on two personas written in
+Romansh; fifteen cultures in the house need a list at all.
+
 **The packing promise split in two.** A migrated culture is in the registry and
 not in the umbrella's tarball, and that is the arrangement rather than a fault -
 so what the umbrella still ships it must ship, what it has let go must be a

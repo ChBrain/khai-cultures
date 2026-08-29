@@ -57,6 +57,30 @@ function referencingDirs() {
   return out;
 }
 
+/**
+ * The extra languages a production must register for itself.
+ *
+ * The language engine ships a list of known languages and the house registers
+ * more beside it - Romansh, Bavarian, Nahuatl, Church Slavonic and twenty others
+ * that no engine has heard of. While every culture lived under the umbrella, one
+ * declaration covered all of them. A production is validated rooted on ITSELF,
+ * so it must carry the subset its own files are written in, and Switzerland
+ * found this out by failing on two personas written in Romansh.
+ *
+ * Derived from the files rather than copied whole: a package that declares
+ * twenty-five languages to use one is telling an installer something untrue
+ * about what is in the box. Fifteen cultures in this house need a list at all.
+ */
+export function languagesOf(dir) {
+  const registered = new Set(read(join(HOUSE, "package.json")).khai?.languages ?? []);
+  const found = new Set();
+  for (const file of mds(dir)) {
+    const m = /^language:\s*"?([a-z-]+)"?\s*$/m.exec(readFileSync(join(dir, file), "utf8"));
+    if (m && registered.has(m[1])) found.add(m[1]);
+  }
+  return [...found].sort();
+}
+
 /** Engine dependencies every culture needs to be validated as a package. */
 function inheritedDeps() {
   const pkg = read(join(HOUSE, "package.json"));
@@ -236,6 +260,7 @@ export function plan(id) {
   }
   for (const dir of referencingDirs()) for (const file of mds(dir)) rewrite(join(dir, file));
 
+  const languages = languagesOf(from);
   const manifest = {
     name,
     version: "0.1.0",
@@ -248,6 +273,7 @@ export function plan(id) {
       class: "house",
       production: id,
       anchor: readdirSync(from).find((f) => f.startsWith("play_")),
+      ...(languages.length ? { languages } : {}),
     },
     publishConfig: { registry: "https://npm.pkg.github.com", access: "public" },
     dependencies: Object.fromEntries(Object.entries(deps).sort()),
@@ -362,6 +388,7 @@ if (isMain) {
   console.log(`${p.id} -> ${p.name}`);
   console.log(`  move    ${rel(p.from)} -> ${rel(p.to)}`);
   console.log(`  depends ${Object.keys(p.manifest.dependencies).join(", ") || "(nothing)"}`);
+  if (p.manifest.khai.languages) console.log(`  registers ${p.manifest.khai.languages.join(", ")}`);
   console.log(`  rewrite ${p.rewrites.length} own link file(s), ${p.inbound.length} inbound`);
   if (!argv.includes("--write")) {
     console.log("\n  dry run. Pass --write to perform it.");
