@@ -13067,27 +13067,57 @@
           "title": "France"
         },
         {
-          "file": "plot_01_versailles.md",
+          "file": "plot_00_alesia_et_les_ancetres_choisis.md",
+          "kind": "plot",
+          "title": "Alesia and the Chosen Ancestors, 52 BC",
+          "taxonomy": "play_france.md"
+        },
+        {
+          "file": "plot_01_la_langue_faite_par_l_etat.md",
+          "kind": "plot",
+          "title": "Villers-Cotterêts and the Academy, 1539 and 1635",
+          "taxonomy": "play_france.md"
+        },
+        {
+          "file": "plot_02_versailles.md",
           "kind": "plot",
           "title": "Versailles and the Sun King, c. 1680",
           "taxonomy": "play_france.md"
         },
         {
-          "file": "plot_02_revolution_1789.md",
+          "file": "plot_03_revolution_1789.md",
           "kind": "plot",
           "title": "The French Revolution of 1789",
           "taxonomy": "play_france.md"
         },
         {
-          "file": "plot_03_dreyfus.md",
+          "file": "plot_04_dreyfus.md",
           "kind": "plot",
           "title": "The Dreyfus Affair",
           "taxonomy": "play_france.md"
         },
         {
-          "file": "plot_04_liberation_1944.md",
+          "file": "plot_05_la_loi_de_1905.md",
+          "kind": "plot",
+          "title": "The Law of 1905",
+          "taxonomy": "play_france.md"
+        },
+        {
+          "file": "plot_06_liberation_1944.md",
           "kind": "plot",
           "title": "The Liberation of Paris, 1944",
+          "taxonomy": "play_france.md"
+        },
+        {
+          "file": "plot_07_mai_68.md",
+          "kind": "plot",
+          "title": "May 68",
+          "taxonomy": "play_france.md"
+        },
+        {
+          "file": "plot_99_le_pays_qui_se_dispute.md",
+          "kind": "plot",
+          "title": "The Country That Argues With Itself, since 2015",
           "taxonomy": "play_france.md"
         },
         {

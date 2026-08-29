@@ -26,8 +26,8 @@ La capitale qui centralise le pays, ville lumière de pierre et de boulevards, d
 
 ## Holds
 
-- [la Révolution de 1789](plot_02_revolution_1789.md): ici tombe la Bastille et se proclament les droits de l'homme.
-- [la Libération de Paris en 1944](plot_04_liberation_1944.md): ici la ville se soulève et redevient le cœur de la nation.
+- [la Révolution de 1789](plot_03_revolution_1789.md): ici tombe la Bastille et se proclament les droits de l'homme.
+- [la Libération de Paris en 1944](plot_06_liberation_1944.md): ici la ville se soulève et redevient le cœur de la nation.
 
 ## Offers
 
