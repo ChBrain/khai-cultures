@@ -26,7 +26,7 @@ The port at the narrowest of the Channel, beneath the white cliffs that face the
 
 ## Holds
 
-- [the Finest Hour 1940](plot_03_finest_hour_1940.md): the front line of the island in the war, the cliffs facing an occupied continent across the narrow water.
+- [the Finest Hour 1940](plot_04_finest_hour_1940.md): the front line of the island in the war, the cliffs facing an occupied continent across the narrow water.
 
 ## Offers
 

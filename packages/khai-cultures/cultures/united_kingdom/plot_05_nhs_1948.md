@@ -35,4 +35,4 @@ On the fifth of July the National Health Service opens, run from [London](place_
 
 ## Tension
 
-A health service free to all is a bold claim on a country with little money, and its promise is forever costlier than its purse. It becomes the institution the British hold dearest and defend most fiercely, the proof that the union can share its burdens as well as its history.
+A health service free to all is a bold claim on a country with little money, and its promise is forever costlier than its purse. It becomes the institution the British hold dearest and defend most fiercely, the proof that the union can share its burdens as well as its history. [Margaret](persona_margaret.md) is what it produces rather than who attends it: born into the first generation to be treated without a bill and to be fed on a ration book, she takes both as the ordinary condition of things, which is the surest sign that a settlement has been made.
