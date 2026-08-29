@@ -5625,12 +5625,14 @@
           "file": "persona_nadia.md",
           "kind": "persona",
           "title": "Nadia",
+          "type": "archetype",
           "taxonomy": "play_uri.md"
         },
         {
           "file": "persona_ruedi.md",
           "kind": "persona",
           "title": "Ruedi",
+          "type": "archetype",
           "taxonomy": "play_uri.md"
         },
         {
@@ -5732,7 +5734,8 @@
           "title": "The Tell Play",
           "taxonomy": "play_uri.md"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-ch-uri"
     },
     {
       "kind": "culture",

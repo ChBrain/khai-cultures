@@ -20,14 +20,18 @@ stamp:
 
 - Project: khai-cultures
 
-## Purpose
+## Place
 
 Der Bogen über die Reuss an der engsten Stelle der Schlucht, um 1200 zum ersten Mal geschlagen und seither zweimal ersetzt. Der Bau, der den Gotthard geöffnet hat, und die Sage, die ihn erklärt: der Teufel baut, verlangt die erste Seele, und bekommt einen Geissbock.
 
-## Purpose in the play
+## Load Bearing
 
 - [Die Schöllenen und die Teufelsbrücke](plot_00_die_schoellenen.md): das Bauwerk, mit dem dieses Land entsteht, und die Erzählung, mit der es sich seine eigene Kühnheit erklärt.
 
-## Pressure
+## Apparent
 
 Ein Volk, das etwas fertigbringt, wofür es sich selbst nicht zutraut, schreibt es dem Teufel zu und handelt ihn dann herunter. Die Sage ist keine Schwäche der Überlieferung, sondern ihre genaueste Stelle: sie sagt zugleich, wie unmöglich es schien, und wie schlau man am Ende war.
+
+## Yearbook
+
+- Um 1200 zum ersten Mal geschlagen, seither zweimal ersetzt; die Sage vom Teufel und vom Geissbock ist so alt wie das Erstaunen darüber.

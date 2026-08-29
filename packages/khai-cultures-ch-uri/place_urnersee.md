@@ -20,15 +20,19 @@ stamp:
 
 - Project: khai-cultures
 
-## Purpose
+## Shown
 
 Das südliche Becken des Vierwaldstättersees, zwischen senkrechten Wänden, an dessen Ufern die drei Talschaften liegen. Vor der Axenstrasse der einzige Weg nach Norden: das Land beginnt am Wasser, und wer hereinwollte, kam mit dem Schiff.
 
-## Presence
+## Holds
 
 - [Die Waldstätte 1291](plot_02_die_waldstaette_1291.md): das gemeinsame Wasser der drei, an dem der Bund geschworen wird.
 - [Unter dem Land hindurch, seit 2016](plot_99_unter_dem_land_hindurch.md): das Ufer, das an Auswärtige verkauft wird, vor einem Hinterland, das sich leert.
 
-## Pressure
+## Offers
 
-Ein See, der einmal die Verbindung war und jetzt die Aussicht ist. Was daran teuer geworden ist, ist genau das, was früher unbrauchbar war: die steile Lage über dem Wasser, von der aus man nichts anbauen und gut wohnen kann.
+Die Aussicht und den Weg nach Norden, den das Land vor der Axenstrasse nur über das Wasser hatte.
+
+## Withheld
+
+Das Ufer. Was daran teuer geworden ist, war früher unbrauchbar, und es gehört heute überwiegend Leuten von auswärts.

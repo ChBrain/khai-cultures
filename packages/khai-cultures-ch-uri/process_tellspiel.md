@@ -20,18 +20,18 @@ stamp:
 
 - Project: khai-cultures
 
-## Trigger
+## Initiated by
 
 Alle paar Jahre, wenn das Spielhaus in Altdorf wieder aufmacht und die Rollen im Ort verteilt werden.
 
-## Motion
+## Direction
 
 Die Leute des Ortes spielen ihre eigene Sage: Bauern, Lehrerinnen, Handwerker, ein Kind für den Apfel, oft dieselben Familien über Generationen, ein halbes Jahr Proben nach Feierabend. Gespielt wird auf Hochdeutsch, geredet wird an den Proben Urnerdeutsch, und das Publikum ist zur einen Hälfte aus dem Tal und zur anderen von auswärts angereist.
 
-## Presence
+## Lever
 
 - [Tell in Altdorf](plot_05_tell_in_altdorf.md): die Aufführung, mit der das Land sich seine Sage zurückholt und sie zugleich zeigt.
 
-## Pressure
+## Echo
 
 Ein Ort, der sich selbst spielt, während Fremde zuschauen, muss jedes Mal entscheiden, für wen er spielt. Solange die Rollen im Dorf vergeben werden und nicht besetzt, bleibt es das eine; sobald der Ertrag wichtiger wird als die Besetzung, wird es das andere.

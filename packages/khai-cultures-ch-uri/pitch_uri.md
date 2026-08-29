@@ -15,6 +15,10 @@ stamp:
 
 Die Tonart, in der die Produktion [Uri](play_uri.md) gespielt wird. Sie bestimmt den Klang und das Lebensgefühl, in dem die Geschichte und die Menschen dieser Kultur auftreten.
 
+## Owner
+
+- Project: khai-cultures
+
 ## Tenor
 
 Knapp, trocken und ohne Aufhebens. Man redet wenig, hält was man sagt, und misstraut jedem, der viel verspricht. Gespielt wird in einer tiefen, ruhigen Lage mit langen Pausen, in der ein Satz mehr wiegt als anderswo drei und das Understatement kein Stil ist, sondern die Voraussetzung dafür, ernst genommen zu werden. Darunter liegt ein Stolz, der nie ausgesprochen wird: dass dieses Land seine Freiheit hatte, bevor es den Bund gab.
@@ -26,3 +30,7 @@ Die Kehrseite der Lage. Ein Land, das von der Durchfahrt anderer lebt, entwickel
 ## Nerve
 
 Die Frage, ob dieses Land noch gebraucht wird. Achthundert Jahre lang war die Antwort, dass man hier durchmuss; seit man hier unten durchfährt, ist sie offen. Alles in dieser Tonart hat einen zweiten Boden: das Denkmal, das Spiel, die Alp, das Bleiben - jedes davon ist zugleich gelebt und vorgezeigt, und niemand im Tal sagt gern, wie viel von beidem.
+
+## Echo
+
+Was bleibt, ist die Kenntnis, dass Bedeutung von der Lage kommen kann und mit ihr wieder geht, und dass ein Land deshalb gut daran tut, das zu pflegen, was ihm auch dann bleibt: die Alp, den Wald, die Nachbarn und die eigene Sage.
