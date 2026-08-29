@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.290.1",
+  "version": "0.291.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5611,6 +5611,126 @@
           "file": "process_le_chant_polyphonique.md",
           "kind": "process",
           "title": "The Polyphonic Singing"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "ch_uri",
+      "title": "Uri",
+      "description": "Uri staged as a culture: a valley that became a road, and now the road goes under it.",
+      "iso": "CH-UR",
+      "members": [
+        {
+          "file": "persona_nadia.md",
+          "kind": "persona",
+          "title": "Nadia",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "persona_ruedi.md",
+          "kind": "persona",
+          "title": "Ruedi",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "piece_tellstatue.md",
+          "kind": "piece",
+          "title": "The Tell Monument",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "piece_teufelsbruecke.md",
+          "kind": "piece",
+          "title": "The Devil's Bridge",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "pitch_uri.md",
+          "kind": "pitch",
+          "title": "The Uri Key",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "place_altdorf.md",
+          "kind": "place",
+          "title": "Altdorf",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "place_schoellenen.md",
+          "kind": "place",
+          "title": "The Schöllenen",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "place_urnersee.md",
+          "kind": "place",
+          "title": "Lake Uri",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "play_uri.md",
+          "kind": "play",
+          "title": "Uri"
+        },
+        {
+          "file": "plot_00_die_schoellenen.md",
+          "kind": "plot",
+          "title": "The Schöllenen and the Devil's Bridge",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "plot_01_reichsfreiheit_1231.md",
+          "kind": "plot",
+          "title": "Imperial Immediacy, 1231",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "plot_02_die_waldstaette_1291.md",
+          "kind": "plot",
+          "title": "The Waldstätte, 1291",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "plot_03_suworow_1799.md",
+          "kind": "plot",
+          "title": "Suvorov in the Gorge, 1799",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "plot_04_gotthardbahn_1882.md",
+          "kind": "plot",
+          "title": "The Gotthard Railway, 1882",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "plot_05_tell_in_altdorf.md",
+          "kind": "plot",
+          "title": "Tell in Altdorf, 1895 and 1899",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "plot_99_unter_dem_land_hindurch.md",
+          "kind": "plot",
+          "title": "Under the Country, since 2016",
+          "taxonomy": "play_uri.md"
+        },
+        {
+          "file": "position_culture_urner_kultur.md",
+          "kind": "position",
+          "title": "Uri Culture"
+        },
+        {
+          "file": "position_transit.md",
+          "kind": "position",
+          "title": "The Passage"
+        },
+        {
+          "file": "process_tellspiel.md",
+          "kind": "process",
+          "title": "The Tell Play",
+          "taxonomy": "play_uri.md"
         }
       ]
     },
