@@ -26,7 +26,7 @@ Sur les places des mairies, au fronton des écoles, sur les timbres et les pièc
 
 ## Load Bearing
 
-Elle incarne la République elle-même, la liberté et la nation des citoyens nées de la [Révolution de 1789](plot_02_revolution_1789.md). Plutôt qu'un roi ou un drapeau seul, la France s'est donnée pour emblème une figure et une idée : sans ce visage, la République manquerait son image partagée.
+Elle incarne la République elle-même, la liberté et la nation des citoyens nées de la [Révolution de 1789](plot_03_revolution_1789.md). Plutôt qu'un roi ou un drapeau seul, la France s'est donnée pour emblème une figure et une idée : sans ce visage, la République manquerait son image partagée.
 
 ## Apparent
 

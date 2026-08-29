@@ -26,7 +26,7 @@ Le palais de l'absolutisme, immense demeure de marbre et de dorures, de galerie 
 
 ## Holds
 
-- [Versailles et le Roi-Soleil, vers 1680](plot_01_versailles.md): ici Louis XIV concentre le pouvoir et fonde l'État centralisé.
+- [Versailles et le Roi-Soleil, vers 1680](plot_02_versailles.md): ici Louis XIV concentre le pouvoir et fonde l'État centralisé.
 
 ## Offers
 

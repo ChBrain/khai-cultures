@@ -27,7 +27,7 @@ Le général qui, au moment de la défaite, refuse l'abandon et porte la voix de
 
 ## Action
 
-Dans la [Libération de Paris en 1944](plot_04_liberation_1944.md), il rentre dans la capitale libérée et fait de la France libre l'héritière légitime de l'État, refondant la République au nom de la nation tout entière.
+Dans la [Libération de Paris en 1944](plot_06_liberation_1944.md), il rentre dans la capitale libérée et fait de la France libre l'héritière légitime de l'État, refondant la République au nom de la nation tout entière.
 
 ## Shadow
 

@@ -27,7 +27,7 @@ Le romancier qui ne se contente pas d'écrire le monde mais qui s'en mêle, et q
 
 ## Action
 
-Dans l'[affaire Dreyfus](plot_03_dreyfus.md), il lance ' J'accuse ' à la une d'un journal, accuse l'armée et l'État d'avoir condamné un innocent, et oblige la République à se regarder en face au nom de la justice et de l'universalisme.
+Dans l'[affaire Dreyfus](plot_04_dreyfus.md), il lance ' J'accuse ' à la une d'un journal, accuse l'armée et l'État d'avoir condamné un innocent, et oblige la République à se regarder en face au nom de la justice et de l'universalisme.
 
 ## Shadow
 
