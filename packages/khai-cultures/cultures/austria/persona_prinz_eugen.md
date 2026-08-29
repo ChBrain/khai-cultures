@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Der Feldherr, dem der eigene König keine Kompanie geben wollte und der sie beim Habsburger findet: klein von Wuchs, hässlich nach dem Urteil seiner Zeit, von kalter Unerschrockenheit im Feld. [Er spricht, schreibt und denkt](process_speaking_mother_tongue.md) [Französisch](../france/position_language_fr_fr.md) als Muttersprache, die Sprache des Hofes, den er verlässt; das Deutsch der kaiserlichen Armee und Kanzlei, [das österreichische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_at.md), [trägt er wie ein Kommandowort, geübt, aber nie ganz sein eigenes](process_speaking_worn.md). Er gehört der [österreichischen Kultur](position_culture_oesterreichische_kultur.md) an, ohne in ihrer Sprache zu Hause zu sein, und gewinnt ihr genau damit das Reich, das ihren Stolz erst begründet.
+Der Feldherr, dem der eigene König keine Kompanie geben wollte und der sie beim Habsburger findet: klein von Wuchs, hässlich nach dem Urteil seiner Zeit, von kalter Unerschrockenheit im Feld. [Er spricht, schreibt und denkt](process_speaking_mother_tongue.md) [Französisch](@chbrain/khai-cultures-tongues/fr/position_language_fr.md) als Muttersprache, die Sprache des Hofes, den er verlässt; das Deutsch der kaiserlichen Armee und Kanzlei, [das österreichische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_at.md), [trägt er wie ein Kommandowort, geübt, aber nie ganz sein eigenes](process_speaking_worn.md). Er gehört der [österreichischen Kultur](position_culture_oesterreichische_kultur.md) an, ohne in ihrer Sprache zu Hause zu sein, und gewinnt ihr genau damit das Reich, das ihren Stolz erst begründet.
 
 ## Action
 
