@@ -26,11 +26,11 @@ From a small island off the coast of Europe a language, a law, and a habit of se
 
 ## Action
 
-Across the seventeenth and eighteenth centuries [the United Kingdom](../../cultures/united_kingdom/play_united_kingdom.md) founds settlements far from home, and the English language, the common law, and parliamentary habits travel with the settlers, taking root on ground long held by others. Then the family quarrels: in 1776 the thirteen American colonies declare independence and, after a long war, become [the United States](../../cultures/usa/play_usa.md), the first English-speaking nation to stand on its own, founded on a written creed drawn from the very tradition it was breaking from. The break is bitter, but the inheritance survives it: the new republic keeps the tongue, the common law, and the habit of self-rule, so that the Anglosphere is born already divided between a mother country and a child that left, and bound nonetheless by everything they still share.
+Across the seventeenth and eighteenth centuries [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md) founds settlements far from home, and the English language, the common law, and parliamentary habits travel with the settlers, taking root on ground long held by others. Then the family quarrels: in 1776 the thirteen American colonies declare independence and, after a long war, become [the United States](../../cultures/usa/play_usa.md), the first English-speaking nation to stand on its own, founded on a written creed drawn from the very tradition it was breaking from. The break is bitter, but the inheritance survives it: the new republic keeps the tongue, the common law, and the habit of self-rule, so that the Anglosphere is born already divided between a mother country and a child that left, and bound nonetheless by everything they still share.
 
 ## Stage
 
-- [the United Kingdom](../../cultures/united_kingdom/play_united_kingdom.md): the source from which the language, the law, and the settlers spread.
+- [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md): the source from which the language, the law, and the settlers spread.
 - [the United States](../../cultures/usa/play_usa.md): the first to break free, the child that became a rival and an heir.
 
 ## Tension
