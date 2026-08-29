@@ -51,4 +51,48 @@ Two words were deliberately left unstaged, and the reasoning is recorded here so
 - `Understatement`, `Kaffeesachsen` and `nu freilich` describe a register, not an event: how Saxons talk about what happened, not a thing that happened. They belong to [der sächsische Ton](pitch_saxony.md), which already carries them in its Tenor and Echo, and inventing a scene around a manner of speaking would be exactly the contrived casting the coverage rule warns against.
 - `Freistaat` names Saxony's 1918 transition from kingdom to republic within Weimar Germany, then its 1990 re-founding. Both are constitutional facts of the kind the house order on the defining question (`management/orders/order_the_defining_question.md`) warns against staging as if they were the culture: a change of state form, not a change of what Saxons are. The 1990 half is already the backdrop [plot_03](plot_03_peaceful_revolution_1989.md) ends on; the 1918 half is left unstaged on the same reasoning that keeps Germany's own foundings out of its plot line.
 
+## Peggy holds two Englishes
+
+Her link used to be `../usa/position_language_en_us.md`, which was not a
+judgement anyone made about Saxony. The house used to say "English" by picking a
+country, and retiring `en_gb` swept 165 of that file's 167 links to the `en`
+anchor; nothing swept `en_us`, so hers survived by pointing at the other
+country's file. Across all of DACH the count was 39 links to the anchor and one
+to `en_us`, and the one was hers.
+
+She would also be the wrong German to hold the American one by any account of
+how English reaches Germany. The common story is that the occupation zones
+decided it, and it does not hold: German schools teach a British-normed English
+essentially nationwide, the textbook families and the pronunciation model are
+British, and no Land ties its curriculum to a zone. What the zones left was
+ambient English and not taught English, AFN in the American zone against BFBS in
+the British. Saxony was in neither: it was the Soviet zone, where Russian was
+the compulsory first foreign language and English came second, also on British
+norms.
+
+But the question was worth asking, because underneath it there is a real fact
+and no German culture in this house was staging it: **German school English is
+British and German ambient English is American**, and a German professional
+lives in the seam between them. That is Loses-shaped, and it belongs to a
+persona rather than to a tongue, because it is a relationship to a tongue and
+not a variety with features of its own. It gets no file; it gets Peggy.
+
+So she now holds both, at two different widths. The British one she was taught
+and now only recognises when she reads it. The American one is the industry's,
+carried by the tool vendors, the specifications and the handbooks of a
+semiconductor fab, and she wears it. The seam is where the two files already
+disagree with each other on the page: `colour` against `color`, `in hospital`
+against `in the hospital`, and `gotten`, which `en_gb` records as a lost
+distinction and which she hears every day and was never taught. Her old gap, the
+baroque and Günter's porcelain reaching her as a faint echo, was not a language
+gap at all and was wearing a language process; it moves to her Shadow, where
+what her focus blinds her to already lives.
+
+**Left for the next hand**: Günter is seventy-one, so he was schooled in the DDR,
+where Russian was compulsory from the fifth class, and his file says he speaks no
+foreign language. Both can be true and the pair is the sharper one - the
+compulsory tongue that left nothing beside the optional tongue that took
+everything - but staging it needs `ru` moved into the tongues package first, the
+way `da` was, because this is a package now and it cannot reach `../russia/`.
+
 Content is CC-BY-NC-SA, code is MIT.
