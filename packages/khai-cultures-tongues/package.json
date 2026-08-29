@@ -175,6 +175,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "en/position_language_en_gb.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
         "file": "en/position_language_en_us_oh.md",
         "type": "position",
         "parent": "en/position_language_en.md"

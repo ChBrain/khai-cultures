@@ -50,7 +50,7 @@ An island arrived at for two thousand years and never emptied, layered by every 
 - [the Crown](position_the_crown.md)
 - [Westminster](position_westminster.md)
 - [class](position_class.md)
-- [the common tongue](position_language_en_gb.md)
+- [the common tongue](@chbrain/khai-cultures-tongues/en/position_language_en_gb.md)
 
 **Pieces**
 

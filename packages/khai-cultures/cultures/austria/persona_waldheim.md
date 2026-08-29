@@ -23,7 +23,7 @@ type: real
 
 ## Projection
 
-Der Diplomat, der es bis zum UNO-Generalsekretär bringt und danach Präsident werden will: glatt, gewandt, ein Mann der druckreifen Antwort auf jede Frage, dem im Amt niemand ansieht, was er verschweigt. [Er spricht, schreibt und denkt](process_speaking_mother_tongue.md) [das österreichische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_at.md) als Muttersprache; [das Englisch](../united_kingdom/position_language_en_gb.md) der Diplomatie [trägt er als geübtes Werkzeug seines Amtes](process_speaking_carried.md), zehn Jahre lang an der Spitze der Vereinten Nationen. Er gehört der [österreichischen Kultur](position_culture_oesterreichische_kultur.md) an und treibt ihren Schmäh, die Kunst, die Wahrheit zu umspielen statt sie zu nennen, so weit, dass er selbst daran zerbricht.
+Der Diplomat, der es bis zum UNO-Generalsekretär bringt und danach Präsident werden will: glatt, gewandt, ein Mann der druckreifen Antwort auf jede Frage, dem im Amt niemand ansieht, was er verschweigt. [Er spricht, schreibt und denkt](process_speaking_mother_tongue.md) [das österreichische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_at.md) als Muttersprache; [das Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md) der Diplomatie [trägt er als geübtes Werkzeug seines Amtes](process_speaking_carried.md), zehn Jahre lang an der Spitze der Vereinten Nationen. Er gehört der [österreichischen Kultur](position_culture_oesterreichische_kultur.md) an und treibt ihren Schmäh, die Kunst, die Wahrheit zu umspielen statt sie zu nennen, so weit, dass er selbst daran zerbricht.
 
 ## Action
 
