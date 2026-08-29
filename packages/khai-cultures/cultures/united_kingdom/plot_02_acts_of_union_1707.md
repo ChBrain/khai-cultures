@@ -32,6 +32,7 @@ The two parliaments pass matching Acts of Union, and on the first of May they be
 
 - [London](place_london.md): the capital where the united parliament sits.
 - [Westminster](position_westminster.md): the single sovereign parliament of the new union state.
+- [the Union Jack](piece_union_jack.md): the crosses of the joined kingdoms laid one over another, the union drawn as a single device.
 
 ## Tension
 

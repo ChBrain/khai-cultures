@@ -32,6 +32,7 @@ John sets his seal to the Great Charter, conceding that even the king is bound b
 
 - [London](place_london.md): the kingdom's seat, beside which the charter is sealed at Runnymede.
 - [Westminster](position_westminster.md): the parliamentary tradition that will trace its root to this binding of the crown.
+- [the Crown](position_the_crown.md): the thing the charter binds, and the first institution in the country to be told it is not above the law.
 
 ## Tension
 

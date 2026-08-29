@@ -32,6 +32,8 @@ France has fallen and Europe is overrun. The United Kingdom stands alone against
 
 - [Winston Churchill](persona_churchill.md): the voice that gives the standing-alone its words and refuses surrender.
 - [London](place_london.md): the capital that takes the bombing night after night and does not break.
+- [Dover](place_dover.md): the island's edge, twenty-odd miles from an occupied continent and the closest the war came to being visible from land.
+- [the queue](process_queuing.md): rationing from January, and with it the line that forms itself and needs no marshal, fair order without authority, learned in the year it was hardest.
 
 ## Tension
 

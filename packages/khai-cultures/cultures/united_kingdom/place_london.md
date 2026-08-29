@@ -27,8 +27,8 @@ The capital on the Thames and the seat of the union, a vast and layered city whe
 ## Holds
 
 - [the Acts of Union 1707](plot_02_acts_of_union_1707.md): here the united parliament of Great Britain takes its seat.
-- [the Finest Hour 1940](plot_03_finest_hour_1940.md): here the capital takes the Blitz and does not break.
-- [the founding of the NHS 1948](plot_04_nhs_1948.md): from here the union-wide health service is founded and run.
+- [the Finest Hour 1940](plot_04_finest_hour_1940.md): here the capital takes the Blitz and does not break.
+- [the founding of the NHS 1948](plot_05_nhs_1948.md): from here the union-wide health service is founded and run.
 
 ## Offers
 

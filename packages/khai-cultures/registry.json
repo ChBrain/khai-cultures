@@ -35276,6 +35276,12 @@
           "title": "United Kingdom"
         },
         {
+          "file": "plot_00_the_conquest_and_the_doubled_tongue.md",
+          "kind": "plot",
+          "title": "The Conquest and the Doubled Tongue, 1066",
+          "taxonomy": "play_united_kingdom.md"
+        },
+        {
           "file": "plot_01_magna_carta_1215.md",
           "kind": "plot",
           "title": "Magna Carta, 1215",
@@ -35288,15 +35294,33 @@
           "taxonomy": "play_united_kingdom.md"
         },
         {
-          "file": "plot_03_finest_hour_1940.md",
+          "file": "plot_03_diamond_jubilee_1897.md",
+          "kind": "plot",
+          "title": "The Diamond Jubilee, 1897",
+          "taxonomy": "play_united_kingdom.md"
+        },
+        {
+          "file": "plot_04_finest_hour_1940.md",
           "kind": "plot",
           "title": "The Finest Hour, 1940",
           "taxonomy": "play_united_kingdom.md"
         },
         {
-          "file": "plot_04_nhs_1948.md",
+          "file": "plot_05_nhs_1948.md",
           "kind": "plot",
           "title": "The Founding of the NHS, 1948",
+          "taxonomy": "play_united_kingdom.md"
+        },
+        {
+          "file": "plot_06_windrush_1948_1971.md",
+          "kind": "plot",
+          "title": "Windrush, 1948 to 1971",
+          "taxonomy": "play_united_kingdom.md"
+        },
+        {
+          "file": "plot_99_the_decade_of_leaving.md",
+          "kind": "plot",
+          "title": "The Decade of Leaving, since 2016",
           "taxonomy": "play_united_kingdom.md"
         },
         {

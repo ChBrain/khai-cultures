@@ -27,7 +27,7 @@ The wartime prime minister and orator who put a nation's refusal to surrender in
 
 ## Action
 
-In [the Finest Hour 1940](plot_03_finest_hour_1940.md) he takes office as Europe falls, rejects all talk of terms, and through [London](place_london.md)'s long bombing gives the standing-alone its language, promising blood, toil, tears, and sweat and the country's finest hour.
+In [the Finest Hour 1940](plot_04_finest_hour_1940.md) he takes office as Europe falls, rejects all talk of terms, and through [London](place_london.md)'s long bombing gives the standing-alone its language, promising blood, toil, tears, and sweat and the country's finest hour.
 
 ## Shadow
 
