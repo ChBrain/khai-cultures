@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.294.0",
+  "version": "0.297.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5617,6 +5617,135 @@
     },
     {
       "kind": "culture",
+      "id": "ch_graubuenden",
+      "title": "Graubünden",
+      "description": "Graubünden staged as a culture: a hundred and fifty valleys that were never one country, and the price of that.",
+      "iso": "CH-GR",
+      "members": [
+        {
+          "file": "persona_gian.md",
+          "kind": "persona",
+          "title": "Gian",
+          "type": "archetype",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "persona_luisa.md",
+          "kind": "persona",
+          "title": "Luisa",
+          "type": "archetype",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "piece_rhaetische_bahn.md",
+          "kind": "piece",
+          "title": "The Rhaetian Railway",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "piece_rumantsch_grischun.md",
+          "kind": "piece",
+          "title": "Rumantsch Grischun",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "pitch_graubuenden.md",
+          "kind": "pitch",
+          "title": "The Grisons Key",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "place_chur.md",
+          "kind": "place",
+          "title": "Chur",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "place_nationalpark.md",
+          "kind": "place",
+          "title": "The Swiss National Park",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "place_oberengadin.md",
+          "kind": "place",
+          "title": "The Upper Engadine",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "play_graubuenden.md",
+          "kind": "play",
+          "title": "Graubünden"
+        },
+        {
+          "file": "plot_00_die_taeler.md",
+          "kind": "plot",
+          "title": "The Valleys That Could Not Reach Each Other",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "plot_01_die_drei_buende.md",
+          "kind": "plot",
+          "title": "The Three Leagues",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "plot_02_der_veltliner_mord.md",
+          "kind": "plot",
+          "title": "The Valtellina Murders, 1620",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "plot_03_der_verlust_des_veltlins.md",
+          "kind": "plot",
+          "title": "Losing the Valtellina, 1797",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "plot_04_st_moritz_1864.md",
+          "kind": "plot",
+          "title": "St. Moritz, 1864",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "plot_05_der_nationalpark_1914.md",
+          "kind": "plot",
+          "title": "The National Park, 1914",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "plot_06_rumantsch_grischun.md",
+          "kind": "plot",
+          "title": "Rumantsch Grischun, 1982",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "plot_99_zweitwohnungen.md",
+          "kind": "plot",
+          "title": "Second Homes and Empty Valleys, since 2012",
+          "taxonomy": "play_graubuenden.md"
+        },
+        {
+          "file": "position_culture_buendner_kultur.md",
+          "kind": "position",
+          "title": "Grisons Culture"
+        },
+        {
+          "file": "position_der_kurgast.md",
+          "kind": "position",
+          "title": "The Guest"
+        },
+        {
+          "file": "process_chalandamarz.md",
+          "kind": "process",
+          "title": "Chalandamarz",
+          "taxonomy": "play_graubuenden.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-graubuenden"
+    },
+    {
+      "kind": "culture",
       "id": "ch_nidwalden",
       "title": "Nidwalden",
       "description": "Nidwalden staged as a culture: the smallest half-canton, which has said no and paid for it.",
@@ -6003,6 +6132,141 @@
     },
     {
       "kind": "culture",
+      "id": "ch_ticino",
+      "title": "Ticino",
+      "description": "Ticino staged as a culture: Lombard by geography, Swiss by decision, and a subject land for three centuries.",
+      "iso": "CH-TI",
+      "members": [
+        {
+          "file": "persona_arturo.md",
+          "kind": "persona",
+          "title": "Arturo",
+          "type": "archetype",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "persona_marta.md",
+          "kind": "persona",
+          "title": "Marta",
+          "type": "archetype",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "piece_boccalino.md",
+          "kind": "piece",
+          "title": "The Boccalino",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "piece_tetti_in_piode.md",
+          "kind": "piece",
+          "title": "The Stone-Slab Roofs",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "pitch_ticino.md",
+          "kind": "pitch",
+          "title": "The Ticino Key",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "place_chiasso.md",
+          "kind": "place",
+          "title": "Chiasso",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "place_locarno.md",
+          "kind": "place",
+          "title": "Locarno",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "place_lugano.md",
+          "kind": "place",
+          "title": "Lugano",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "place_monte_verita.md",
+          "kind": "place",
+          "title": "Monte Verità",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "play_ticino.md",
+          "kind": "play",
+          "title": "Ticino"
+        },
+        {
+          "file": "plot_00_la_terra_che_guarda_a_sud.md",
+          "kind": "plot",
+          "title": "The Land That Looks South",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "plot_01_la_conquista.md",
+          "kind": "plot",
+          "title": "The Conquest, 1403-1512",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "plot_02_i_magistri.md",
+          "kind": "plot",
+          "title": "The Master Builders",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "plot_03_liberi_e_svizzeri.md",
+          "kind": "plot",
+          "title": "Free and Swiss, 1798",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "plot_04_l_emigrazione.md",
+          "kind": "plot",
+          "title": "The Emigration",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "plot_05_monte_verita.md",
+          "kind": "plot",
+          "title": "Monte Verità, 1900",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "plot_06_il_gottardo_1882.md",
+          "kind": "plot",
+          "title": "The Gotthard, 1882",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "plot_99_i_frontalieri.md",
+          "kind": "plot",
+          "title": "Cross-Border Workers, since 2016",
+          "taxonomy": "play_ticino.md"
+        },
+        {
+          "file": "position_culture_ticinese.md",
+          "kind": "position",
+          "title": "Ticinese Culture"
+        },
+        {
+          "file": "position_la_frontiera.md",
+          "kind": "position",
+          "title": "The Border"
+        },
+        {
+          "file": "process_il_grotto.md",
+          "kind": "process",
+          "title": "The Grotto",
+          "taxonomy": "play_ticino.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-ticino"
+    },
+    {
+      "kind": "culture",
       "id": "ch_uri",
       "title": "Uri",
       "description": "Uri staged as a culture: a valley that became a road, and now the road goes under it.",
@@ -6123,6 +6387,134 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-uri"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_wallis",
+      "title": "Wallis",
+      "description": "Wallis staged as a culture: a valley too dry to farm that hung its water off the cliffs, and the mountain above it.",
+      "iso": "CH-VS",
+      "members": [
+        {
+          "file": "persona_celine.md",
+          "kind": "persona",
+          "title": "Céline",
+          "type": "archetype",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "persona_gaby.md",
+          "kind": "persona",
+          "title": "Gaby",
+          "type": "archetype",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "piece_die_suone.md",
+          "kind": "piece",
+          "title": "The Suone",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "piece_die_tschaeggaettae.md",
+          "kind": "piece",
+          "title": "The Tschäggättä Masks",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "pitch_wallis.md",
+          "kind": "pitch",
+          "title": "The Valais Key",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "place_grande_dixence.md",
+          "kind": "place",
+          "title": "The Grande Dixence",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "place_loetschental.md",
+          "kind": "place",
+          "title": "The Lötschental",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "place_sitten.md",
+          "kind": "place",
+          "title": "Sitten",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "play_wallis.md",
+          "kind": "play",
+          "title": "Wallis"
+        },
+        {
+          "file": "plot_00_die_suonen.md",
+          "kind": "plot",
+          "title": "The Suonen",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "plot_01_die_walser.md",
+          "kind": "plot",
+          "title": "The Walser Leave",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "plot_02_die_eroberung_1475.md",
+          "kind": "plot",
+          "title": "The Conquest of the Lower Valais, 1475",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "plot_03_zwei_haelften.md",
+          "kind": "plot",
+          "title": "Two Halves, 1798 to 1815",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "plot_04_die_rhonekorrektion.md",
+          "kind": "plot",
+          "title": "Straightening the Rhône",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "plot_05_grande_dixence.md",
+          "kind": "plot",
+          "title": "The Grande Dixence, 1961",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "plot_99_blatten.md",
+          "kind": "plot",
+          "title": "Blatten, since 2025",
+          "taxonomy": "play_wallis.md"
+        },
+        {
+          "file": "position_culture_walliser_kultur.md",
+          "kind": "position",
+          "title": "Valais Culture"
+        },
+        {
+          "file": "position_das_wasser.md",
+          "kind": "position",
+          "title": "The Water"
+        },
+        {
+          "file": "position_die_zwei_haelften.md",
+          "kind": "position",
+          "title": "The Two Halves"
+        },
+        {
+          "file": "process_die_wasserkehr.md",
+          "kind": "process",
+          "title": "The Water Turn",
+          "taxonomy": "play_wallis.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-wallis"
     },
     {
       "kind": "culture",
