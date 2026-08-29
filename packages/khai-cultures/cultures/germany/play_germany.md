@@ -57,7 +57,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [der Meister](position_meister.md)
 - [der Beamte](position_beamte.md)
 - [die deutsche Kultur](position_culture_deutsche_kultur.md)
-- [das deutschländische Deutsch](position_language_de_de.md)
+- [das deutschländische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de.md)
 
 **Pieces**
 
