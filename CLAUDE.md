@@ -103,11 +103,16 @@ The tool does the mechanical half — the move, the manifest (`khai.class "house
 `khai.production`, the anchoring play, and **no `khai.engine`**), the frozen name
 `@chbrain/khai-cultures-<id with hyphens>`, the licence pair, the outbound links
 rewritten to package specifiers, every inbound link from the cultures left
-behind, and the dependency declared at both ends. It refuses the two halves that
-need a person: a culture still holding its own language positions (**the tongue
-moves first**, and that is a read against the mnemonic, not a file move), and a
-`../` link that is not a culture-position (a published production carries no
-`../`, so it is resolved before the move).
+behind, and the dependency declared at both ends. It refuses three things: a
+culture still holding its own language positions (**the tongue moves first**, and
+that is a read against the mnemonic, not a file move); a `../` link that is not a
+culture-position (a published production carries no `../`, so it is resolved
+before the move); and a **parent that is not a package yet**, because the nesting
+link becomes a specifier and a specifier needs a package to point at.
+
+A migration is a rename, so it is spared by the ratchets the way any rename is:
+it pays no debt and incurs none. Otherwise a move would demand the `plot_00` the
+culture never had, and the answer would be a bad one.
 
 Why a package: a relative path resolves in this working tree and ships broken,
 and a declared dependency is the only reference npm can check. During the walk a

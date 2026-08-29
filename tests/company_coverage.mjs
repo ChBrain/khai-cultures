@@ -248,9 +248,9 @@ function reportCulture(id) {
 function gate(base, head) {
   // Authored, not merely touched: a culture whose only change is where a link
   // points was not opened by this pull request. See authoredCultures().
-  const { authored, relinked } = authoredCultures(base, head);
+  const { authored, spared } = authoredCultures(base, head);
   const touched = [...authored.keys()].sort();
-  const note = relinkNote(relinked);
+  const note = relinkNote(spared);
   if (!touched.length) {
     console.log("Company coverage: no culture authored, nothing to hold to zero.");
     if (note) console.log(note);

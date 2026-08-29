@@ -135,9 +135,9 @@ function report() {
 function gate(base, head) {
   // Authored, not merely touched. A tongue move retargets a link in every culture
   // that casts the variety, and none of them asked for a rename.
-  const { authored, relinked } = authoredCultures(base, head);
+  const { authored, spared } = authoredCultures(base, head);
   const touched = [...authored.keys()].sort();
-  const note = relinkNote(relinked);
+  const note = relinkNote(spared);
   if (!touched.length) {
     console.log("Sub-national conformance: no culture authored.");
     if (note) console.log(note);

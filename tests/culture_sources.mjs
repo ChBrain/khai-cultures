@@ -231,55 +231,110 @@ function show(ref, path, workspace) {
   }
 }
 
-/** Whether a file's whole change is where its links point. */
-export function relinkOnly(path, base, head, workspace = WORKSPACE) {
-  if (!path.endsWith(".md")) return false;
-  const before = show(base, path, workspace);
-  const after = show(head, path, workspace);
+/**
+ * Files that are packaging rather than play.
+ *
+ * A migration writes a manifest and a licence pair into the culture's new
+ * directory, and neither is a statement about the culture: the play is the same
+ * play. `geo.json` and `coverage-waivers.json` are NOT here, and deliberately -
+ * one carries the id and the nesting the conformance ratchet reads, the other is
+ * a written claim that something needs no scene, and changing either is
+ * authoring.
+ */
+const PACKAGING = new Set(["package.json", "LICENSE", "LICENSE-CODE"]);
+
+/**
+ * Whether a change to one file is something other than authoring.
+ *
+ * Two exemptions, and the second is the one a migration needs. A file whose
+ * whole change is where its LINKS point was rewritten by a walk it had no part
+ * in. A file that only MOVED is the same file: this house settled that once
+ * already, when the sub-national rename deadlocked against changeset-check and
+ * cost a batch its renames, and the rule it settled on - a rename pays no debt
+ * and incurs none - is the same rule the migration needs, because a migration is
+ * a directory rename with a manifest beside it.
+ *
+ * Take them together and a culture that migrated and nothing else is not
+ * authored, which is correct and is the only thing that makes the migration
+ * ratchet affordable: a move must not demand an origin plot the culture never
+ * had, or the answer will be a bad plot_00, which is worse than none.
+ *
+ * @param {{from: string|null, to: string|null}} change  paths on each side; null
+ *   where the file did not exist, which is an add or a delete and is authoring.
+ */
+export function relinkOnly(change, base, head, workspace = WORKSPACE) {
+  const { from, to } = typeof change === "string" ? { from: change, to: change } : change;
+  // Packaging is judged before existence, because a manifest and a licence
+  // ARRIVE with a migration: asking whether they changed would file every first
+  // migration as authoring and defeat the exemption it needs.
+  if (PACKAGING.has((to ?? from).split("/").pop())) return true;
+  if (!from || !to) return false;
+  if (!to.endsWith(".md")) return false;
+  const before = show(base, from, workspace);
+  const after = show(head, to, workspace);
   if (before === null || after === null) return false;
   return blindLinks(before) === blindLinks(after);
 }
 
-/**
- * The cultures a change authors, and the ones it only relinked.
- *
- * `{ authored: Map<id, string[]>, relinked: string[] }` - the map's values are
- * the repository paths that carry real changes, so a caller asking "were the
- * PLOTS authored" reads them rather than running its own diff.
- */
-export function authoredCultures(base, head, workspace = WORKSPACE) {
-  const changed = execFileSync("git", ["diff", "--name-only", base, head], {
+/** Every path a change touches, as `{from, to}` pairs with renames resolved. */
+function changePairs(base, head, workspace) {
+  const out = [];
+  const raw = execFileSync("git", ["diff", "--name-status", "-M", base, head], {
     cwd: workspace,
     encoding: "utf8",
     maxBuffer: 32 * 1024 * 1024,
-  })
-    .split("\n")
-    .filter(Boolean);
+  });
+  for (const line of raw.split("\n").filter(Boolean)) {
+    const cols = line.split("\t");
+    const status = cols[0];
+    if (status.startsWith("R") || status.startsWith("C")) out.push({ from: cols[1], to: cols[2] });
+    else if (status.startsWith("A")) out.push({ from: null, to: cols[1] });
+    else if (status.startsWith("D")) out.push({ from: cols[1], to: null });
+    else out.push({ from: cols[1], to: cols[1] });
+  }
+  return out;
+}
 
+/**
+ * The cultures a change authors, and the ones it did not.
+ *
+ * `{ authored: Map<id, string[]>, spared: string[] }` - the map's values are the
+ * repository paths that carry real changes, so a caller asking "were the PLOTS
+ * authored" reads them rather than running its own diff. A culture appears in
+ * `spared` when every one of its changed files was a retargeted link, a move, or
+ * packaging.
+ */
+export function authoredCultures(base, head, workspace = WORKSPACE) {
   const byCulture = new Map();
-  for (const p of changed) {
-    const hit = pathCulture(p, workspace);
-    if (!hit) continue;
-    if (!byCulture.has(hit.id)) byCulture.set(hit.id, []);
-    byCulture.get(hit.id).push(p.trim().replace(/\\/g, "/"));
+  for (const change of changePairs(base, head, workspace)) {
+    // A rename is filed under the culture it landed in; a deletion under the one
+    // it left. Both sides of a move across cultures therefore get their say.
+    for (const side of [change.to, change.from]) {
+      if (!side) continue;
+      const hit = pathCulture(side, workspace);
+      if (!hit) continue;
+      if (!byCulture.has(hit.id)) byCulture.set(hit.id, []);
+      const list = byCulture.get(hit.id);
+      if (!list.some((c) => c.from === change.from && c.to === change.to)) list.push(change);
+    }
   }
 
   const authored = new Map();
-  const relinked = [];
-  for (const [id, paths] of byCulture) {
-    const real = paths.filter((p) => !relinkOnly(p, base, head, workspace));
-    if (real.length) authored.set(id, real.sort());
-    else relinked.push(id);
+  const spared = [];
+  for (const [id, changes] of byCulture) {
+    const real = changes.filter((c) => !relinkOnly(c, base, head, workspace));
+    if (real.length) authored.set(id, real.map((c) => c.to ?? c.from).sort());
+    else spared.push(id);
   }
-  return { authored, relinked: relinked.sort() };
+  return { authored, spared: spared.sort() };
 }
 
 /** One line for a gate to print, so an exemption is never silent. */
-export function relinkNote(relinked) {
-  if (!relinked.length) return null;
+export function relinkNote(spared) {
+  if (!spared.length) return null;
   return (
-    `  ${relinked.length} culture(s) only had a link retargeted and are not charged: ` +
-    `${relinked.join(", ")}`
+    `  ${spared.length} culture(s) were only relinked, moved or repackaged and are not ` +
+    `charged: ${spared.join(", ")}`
   );
 }
 

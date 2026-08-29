@@ -64,18 +64,32 @@ export function blockers(id) {
     );
 
   const ids = new Set(cultures().map((c) => c.id));
+  const waiting = new Set();
   for (const file of mds(dir))
     for (const m of readFileSync(join(dir, file), "utf8").matchAll(/\]\((\.\.\/[^()\s]+)\)/g)) {
       const target = m[1];
       const parts = target.split("/");
       const ok =
         parts.length === 3 && ids.has(parts[1]) && parts[2].startsWith("position_culture_");
-      if (!ok)
+      if (!ok) {
         out.push(
           `${file} links ${target}, which is not a culture-position and has no package ` +
             `specifier to become. Resolve it before the move: a published production carries no "../".`,
         );
+        continue;
+      }
+      // A culture-position link becomes a package specifier, and a specifier is
+      // only a reference if the package is there. The first dry run wrote
+      // `@chbrain/khai-cultures-usa` into a manifest while usa was still a
+      // directory under the umbrella: declared, unresolvable, and caught only by
+      // the production gate afterwards. THE PARENT GOES FIRST.
+      if (!isMigrated(parts[1])) waiting.add(parts[1]);
     }
+  for (const parent of [...waiting].sort())
+    out.push(
+      `nests in "${parent}", which is not a package yet. A culture-position link becomes a ` +
+        `package specifier and a specifier needs a package: migrate ${parent} first.`,
+    );
   return out;
 }
 
@@ -180,9 +194,14 @@ export function queue() {
       continue;
     }
     for (const line of stop) {
+      const nests = /^nests in "([a-z0-9_]+)"/.exec(line)?.[1];
       const key =
         /links \.\.\/[a-z0-9_]+\/(position_language_[a-z0-9_]+)\.md/.exec(line)?.[1] ??
-        (line.startsWith("holds its own language position") ? "its own tongue" : "other");
+        (nests
+          ? `its parent ${nests}`
+          : line.startsWith("holds its own language position")
+            ? "its own tongue"
+            : "other");
       if (!held.has(key)) held.set(key, new Set());
       held.get(key).add(c.id);
     }
@@ -199,6 +218,15 @@ if (isMain) {
     for (const id of ready) console.log(`  ${id}`);
     console.log(`\nheld, by what holds them:`);
     for (const [what, ids] of held) console.log(`  ${String(ids.size).padStart(3)}  ${what}`);
+    // The queue is a planning instrument and this is the line worth planning on:
+    // a culture held by one thing is one move from being ready.
+    const one = [];
+    for (const c of cultures()) {
+      if (c.migrated) continue;
+      const stop = blockers(c.id);
+      if (stop.length === 1) one.push([c.id, stop[0].split(",")[0].split(".")[0]]);
+    }
+    console.log(`\none move away: ${one.length}`);
     process.exit(0);
   }
   const asked = argv.find((a) => !a.startsWith("-"));
