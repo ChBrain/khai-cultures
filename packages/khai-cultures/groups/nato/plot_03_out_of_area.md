@@ -32,7 +32,7 @@ NATO reinvents itself by acting beyond its own borders for the first time. Throu
 
 - [the United States](../../cultures/usa/play_usa.md): attacked in 2001, the cause of the alliance's only Article 5 invocation.
 - [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md): foremost among the European allies in the wars that follow.
-- [Germany](../../cultures/germany/play_germany.md): sending forces abroad for the first time since the war, a profound break with its past.
+- [Germany](@chbrain/khai-cultures-germany/play_germany.md): sending forces abroad for the first time since the war, a profound break with its past.
 
 ## Tension
 

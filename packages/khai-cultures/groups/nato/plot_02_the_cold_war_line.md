@@ -26,13 +26,13 @@ Through the 1950s the Cold War hardens into a fixed front across a divided Europ
 
 ## Action
 
-The alliance grows along the front. [Greece](../../cultures/greece/play_greece.md) and [Turkey](../../cultures/turkey/play_turkey.md) join in 1952, anchoring the south-eastern flank against the Soviet south. In 1955 [Germany](../../cultures/germany/play_germany.md), in its western half, is rearmed and admitted, and Moscow answers within days by forming the Warsaw Pact, freezing the two blocs in place. In 1982 [Spain](../../cultures/spain/play_spain.md), newly democratic, comes in from the cold of dictatorship. For forty years the alliance holds the line by deterrence and the nuclear umbrella, never firing on its enemy, keeping a peace that is also a permanent danger.
+The alliance grows along the front. [Greece](../../cultures/greece/play_greece.md) and [Turkey](../../cultures/turkey/play_turkey.md) join in 1952, anchoring the south-eastern flank against the Soviet south. In 1955 [Germany](@chbrain/khai-cultures-germany/play_germany.md), in its western half, is rearmed and admitted, and Moscow answers within days by forming the Warsaw Pact, freezing the two blocs in place. In 1982 [Spain](../../cultures/spain/play_spain.md), newly democratic, comes in from the cold of dictatorship. For forty years the alliance holds the line by deterrence and the nuclear umbrella, never firing on its enemy, keeping a peace that is also a permanent danger.
 
 ## Stage
 
 - [Greece](../../cultures/greece/play_greece.md): the south-eastern flank, admitted 1952.
 - [Turkey](../../cultures/turkey/play_turkey.md): the alliance's longest border with the Soviet bloc, admitted 1952.
-- [Germany](../../cultures/germany/play_germany.md): the divided centre, rearmed and admitted 1955, the spark of the Warsaw Pact.
+- [Germany](@chbrain/khai-cultures-germany/play_germany.md): the divided centre, rearmed and admitted 1955, the spark of the Warsaw Pact.
 - [Spain](../../cultures/spain/play_spain.md): the late western joiner, admitted 1982 after Franco.
 
 ## Tension

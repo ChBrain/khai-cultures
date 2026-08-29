@@ -31,7 +31,7 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 
 - [Belgium](../../cultures/belgium/play_belgium.md) (founder, 1958)
 - [France](../../cultures/france/play_france.md) (founder, 1958)
-- [Germany](../../cultures/germany/play_germany.md) (founder, 1958)
+- [Germany](@chbrain/khai-cultures-germany/play_germany.md) (founder, 1958)
 - [Italy](../../cultures/italy/play_italy.md) (founder, 1958)
 - [Luxembourg](../../cultures/luxembourg/play_luxembourg.md) (founder, 1958)
 - [the Netherlands](../../cultures/netherlands/play_netherlands.md) (founder, 1958)

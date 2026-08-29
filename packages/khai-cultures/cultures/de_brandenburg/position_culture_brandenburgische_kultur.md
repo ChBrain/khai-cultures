@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Zugehörigkeit zur brandenburgischen Kultur, dem gemeinsamen Boden aus Weite, Wald und Wasser, auf dem die Mark seit Jahrhunderten ruht. Ihre Sprache ist das [brandenburgische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_bb.md); ihr Erbe ist [die preußische Tugend](position_preussische_tugend.md) der Reformen Friedrichs des Grossen und [die märkische Ruhe](position_maerkische_ruhe.md) der Kiefernwälder und der sandigen Böden. Sie hält, was einer als Brandenburger selbstverständlich mitbringt, ohne es je gewählt zu haben: die Nähe zu Berlin und den Abstand von ihm zugleich, den Stolz auf die alte Residenzstadt Potsdam und die Genügsamkeit eines Landes, das nie laut auftrat. Sie ist eine Art, [die deutsche Kultur](../germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
+Die Zugehörigkeit zur brandenburgischen Kultur, dem gemeinsamen Boden aus Weite, Wald und Wasser, auf dem die Mark seit Jahrhunderten ruht. Ihre Sprache ist das [brandenburgische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_bb.md); ihr Erbe ist [die preußische Tugend](position_preussische_tugend.md) der Reformen Friedrichs des Grossen und [die märkische Ruhe](position_maerkische_ruhe.md) der Kiefernwälder und der sandigen Böden. Sie hält, was einer als Brandenburger selbstverständlich mitbringt, ohne es je gewählt zu haben: die Nähe zu Berlin und den Abstand von ihm zugleich, den Stolz auf die alte Residenzstadt Potsdam und die Genügsamkeit eines Landes, das nie laut auftrat. Sie ist eine Art, [die deutsche Kultur](@chbrain/khai-cultures-germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
 
 ## Orders
 

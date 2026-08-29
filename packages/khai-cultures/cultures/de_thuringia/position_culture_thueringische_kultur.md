@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Zugehörigkeit zum grünen Herzen Deutschlands, dem Freistaat, der seinen Namen aus dem dichten Wald und den geschichtsträchtigen Orten zieht, die er in sich trägt. Sie hält [die geistige Tiefe](position_geistige_tiefe.md) der Weimarer Klassik und der Bibelübersetzung auf der Wartburg als ihr geistiges Erbe, [den Optikstolz](position_optikstolz.md) der Jenaer Präzisionsindustrie als ihren modernen Ausweis, und [die Waldliebe](position_waldliebe.md) des Thüringer Waldes als das Land, in dem beides wurzelt. Sie trägt das alte Glasbläserhandwerk von Lauscha neben der Laserforschung von Jena, und beides gilt ihr als ebenbürtiges Erbe eines Landes, das nach 1990 als Freistaat neu errichtet wurde. Sie ist eine Art, [die deutsche Kultur](../germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
+Die Zugehörigkeit zum grünen Herzen Deutschlands, dem Freistaat, der seinen Namen aus dem dichten Wald und den geschichtsträchtigen Orten zieht, die er in sich trägt. Sie hält [die geistige Tiefe](position_geistige_tiefe.md) der Weimarer Klassik und der Bibelübersetzung auf der Wartburg als ihr geistiges Erbe, [den Optikstolz](position_optikstolz.md) der Jenaer Präzisionsindustrie als ihren modernen Ausweis, und [die Waldliebe](position_waldliebe.md) des Thüringer Waldes als das Land, in dem beides wurzelt. Sie trägt das alte Glasbläserhandwerk von Lauscha neben der Laserforschung von Jena, und beides gilt ihr als ebenbürtiges Erbe eines Landes, das nach 1990 als Freistaat neu errichtet wurde. Sie ist eine Art, [die deutsche Kultur](@chbrain/khai-cultures-germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
 
 ## Orders
 

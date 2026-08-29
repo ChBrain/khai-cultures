@@ -22,19 +22,19 @@ stamp:
 
 ## Cue
 
-[Deutschland](../../cultures/germany/play_germany.md), [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md) schreiben dieselbe Sprache und doch jedes seine eigene. Was [Luther](../../cultures/germany/persona_luther.md) gesät und Konrad Dudens Wörterbuch gesammelt hat, ist noch kein gemeinsames Gesetz: jeder Staat, jede Schule, jede Druckerei hält ihre eigene Rechtschreibung. 1901 lädt das Reich nach Berlin, um aus vielen Schreibweisen eine zu machen.
+[Deutschland](@chbrain/khai-cultures-germany/play_germany.md), [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md) schreiben dieselbe Sprache und doch jedes seine eigene. Was [Luther](@chbrain/khai-cultures-germany/persona_luther.md) gesät und Konrad Dudens Wörterbuch gesammelt hat, ist noch kein gemeinsames Gesetz: jeder Staat, jede Schule, jede Druckerei hält ihre eigene Rechtschreibung. 1901 lädt das Reich nach Berlin, um aus vielen Schreibweisen eine zu machen.
 
 ## Action
 
-In Berlin einigt sich die II. Orthographische Konferenz auf eine einheitliche deutsche Rechtschreibung, gestützt auf Dudens Arbeit. Das Deutsche Reich macht sie verbindlich; [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md) übernehmen die Regeln, ohne dem Reich beizutreten. So bekommt der deutschsprachige Raum eine gemeinsame Schrift - [das deutschländische Deutsch](../../cultures/germany/play_germany.md) als Maß, an dem sich Wien und Zürich ausrichten und doch ihren eigenen Wortschatz, ihren eigenen Klang und später, in der Schweiz, sogar den Verzicht auf das ß behalten. Aus drei Staaten wird kein Staat, aber eine Schriftgemeinschaft: man schreibt gleich und bleibt verschieden.
+In Berlin einigt sich die II. Orthographische Konferenz auf eine einheitliche deutsche Rechtschreibung, gestützt auf Dudens Arbeit. Das Deutsche Reich macht sie verbindlich; [Österreich](../../cultures/austria/play_austria.md) und [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md) übernehmen die Regeln, ohne dem Reich beizutreten. So bekommt der deutschsprachige Raum eine gemeinsame Schrift - [das deutschländische Deutsch](@chbrain/khai-cultures-germany/play_germany.md) als Maß, an dem sich Wien und Zürich ausrichten und doch ihren eigenen Wortschatz, ihren eigenen Klang und später, in der Schweiz, sogar den Verzicht auf das ß behalten. Aus drei Staaten wird kein Staat, aber eine Schriftgemeinschaft: man schreibt gleich und bleibt verschieden.
 
 ## Stage
 
-- [Deutschland](../../cultures/germany/play_germany.md): das Reich, das die Konferenz einberuft und die Norm festschreibt.
+- [Deutschland](@chbrain/khai-cultures-germany/play_germany.md): das Reich, das die Konferenz einberuft und die Norm festschreibt.
 - [Österreich](../../cultures/austria/play_austria.md): übernimmt die gemeinsame Rechtschreibung und behält den eigenen Wortschatz.
 - [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md): übernimmt die Regeln und geht doch eigene Wege, bis hin zum Verzicht auf das ß.
-- [Luther](../../cultures/germany/persona_luther.md): der die Schrift sät, die der Duden zur Norm ordnet.
-- [das deutschländische Deutsch](../../cultures/germany/play_germany.md): der kodifizierte Standard, der zum gemeinsamen Maß der drei wird.
+- [Luther](@chbrain/khai-cultures-germany/persona_luther.md): der die Schrift sät, die der Duden zur Norm ordnet.
+- [das deutschländische Deutsch](@chbrain/khai-cultures-germany/play_germany.md): der kodifizierte Standard, der zum gemeinsamen Maß der drei wird.
 
 ## Tension
 

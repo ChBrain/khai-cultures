@@ -1,7 +1,7 @@
 {
-  "name": "@chbrain/khai-cultures-ch-uri",
+  "name": "@chbrain/khai-cultures-germany",
   "version": "0.1.0",
-  "description": "khai cultures: ch_uri, one culture staged as a khai play.",
+  "description": "khai cultures: germany, one culture staged as a khai play.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -17,15 +17,14 @@
   ],
   "khai": {
     "class": "house",
-    "production": "ch_uri",
-    "anchor": "play_uri.md"
+    "production": "germany",
+    "anchor": "play_germany.md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "dependencies": {
-    "@chbrain/khai-cultures-switzerland": "^0.1.0",
     "@chbrain/khai-cultures-tongues": "^0.21.0",
     "@chbrain/khai-engine-language": "^0.1.5",
     "@chbrain/khai-engine-spine": "^0.1.5"
