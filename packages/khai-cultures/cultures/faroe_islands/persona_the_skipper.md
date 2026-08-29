@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Gamal skipari av teirri kynslóð, sum ber Føroyar á fiskiskipum. Hann [tosar](process_speaking_mother_tongue.md) [Føroyskt mál](position_language_fo.md), sítt egna. [Danskt](../denmark/position_language_da.md) mál [brúkar hann](process_speaking_worn.md) til pappír og skúla, men ikki til hjartað. Hann er [Føroyingur](position_culture_foroyingur.md).
+Gamal skipari av teirri kynslóð, sum ber Føroyar á fiskiskipum. Hann [tosar](process_speaking_mother_tongue.md) [Føroyskt mál](position_language_fo.md), sítt egna. [Danskt](@chbrain/khai-cultures-tongues/da/position_language_da.md) mál [brúkar hann](process_speaking_worn.md) til pappír og skúla, men ikki til hjartað. Hann er [Føroyingur](position_culture_foroyingur.md).
 
 ## Action
 

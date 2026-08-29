@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The American way, what a person born or made American carries without choosing it: [the creed](position_the_creed.md) that the nation rests on an idea rather than blood or soil, [the frontier](position_the_frontier.md) that a person can light out and remake themselves on open ground, and [exceptionalism](position_exceptionalism.md), the conviction of a chosen nation with an errand to the world. It speaks [American English](position_language_en_us.md), the one tongue told to the immigrant and the native-born alike, both handed the same promise in it. It is the confidence that tomorrow beats yesterday, that anyone can make it, and that the country is still, after two hundred and fifty years, being built.
+The American way, what a person born or made American carries without choosing it: [the creed](position_the_creed.md) that the nation rests on an idea rather than blood or soil, [the frontier](position_the_frontier.md) that a person can light out and remake themselves on open ground, and [exceptionalism](position_exceptionalism.md), the conviction of a chosen nation with an errand to the world. It speaks [American English](@chbrain/khai-cultures-tongues/en/position_language_en_us.md), the one tongue told to the immigrant and the native-born alike, both handed the same promise in it. It is the confidence that tomorrow beats yesterday, that anyone can make it, and that the country is still, after two hundred and fifty years, being built.
 
 ## Orders
 
