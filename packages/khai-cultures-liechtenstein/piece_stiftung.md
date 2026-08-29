@@ -34,4 +34,4 @@ Die schriftlichen Gründungsurkunden und Statuten, verfasst in rechtlich präzis
 ## Yearbook
 
 - Verwaltet und rechtlich betreut von [Katharina](persona_katharina.md) als Kern ihrer täglichen Arbeit.
-- Eingeführt als Grundstein des finanziellen Aufstiegs im Plot [Das wirtschaftliche Wunder nach 1945](plot_03_wirtschaftswunder.md).
+- Eingeführt als Grundstein des finanziellen Aufstiegs im Plot [Das wirtschaftliche Wunder nach 1945](plot_04_wirtschaftswunder.md).
