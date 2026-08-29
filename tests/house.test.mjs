@@ -72,7 +72,24 @@ describe("Cultures house: content conforms to the canon", () => {
         results.push({ file: `${prod.name}/${err}`, errors: [err] });
     for (const err of umbrellaFindings())
       results.push({ file: "packages/khai-cultures", errors: [err] });
-    const errors = results.flatMap((r) => r.errors.map((e) => `${r.file}: ${e}`));
+    // Two of the kit's registry findings are true of a hybrid house and are not
+    // faults: a migrated culture is in the registry with no directory under
+    // cultures/, so `validateCollectionRegistry` reports the missing directory
+    // and then reports the file as out of date with a build that only counts
+    // directories. They are dropped here because they are REPLACED, not waived:
+    // `tests/registry_hybrid.mjs` recomputes the whole registry - both halves
+    // built by the kit - and `tests/migration.test.mjs` asserts it has no drift.
+    // Dropping them without that replacement would leave the house with no drift
+    // check at all, which is the shape of failure this repository keeps finding.
+    const migrated = productions().map((p) => p.id);
+    const hybridNoise = (file, e) =>
+      file.endsWith("registry.json") &&
+      (/registry\.json is out of date with its source/.test(e) ||
+        migrated.some((id) => e.includes(`declares culture "${id}"`)));
+    const errors = results
+      .flatMap((r) => (r.errors ?? []).map((e) => [r.file, e]))
+      .filter(([file, e]) => !hybridNoise(file, e))
+      .map(([file, e]) => `${file}: ${e}`);
     expect(errors).toEqual([]);
   });
 

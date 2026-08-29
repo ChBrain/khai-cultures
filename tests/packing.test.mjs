@@ -47,13 +47,40 @@ describe("Packing: the house ships everything its registry names", () => {
   const promised = (kind, entries) =>
     (entries ?? []).flatMap((e) => (e.members ?? []).map((m) => `${kind}/${e.id}/${m.file}`));
 
-  it("packs every culture file the registry lists", () => {
-    const want = promised("cultures", registry.cultures);
+  // A migrated culture is in the registry and not in this tarball, and that is
+  // the arrangement rather than a fault: the entry names the package that ships
+  // it. So the promise splits in two and BOTH halves are held. What the umbrella
+  // still ships, it must ship; what it has let go, it must still be able to
+  // reach, which means a declared dependency and not a hopeful specifier.
+  const shipped = (registry.cultures ?? []).filter((e) => !e.package);
+  const delegated = (registry.cultures ?? []).filter((e) => e.package);
+
+  it("packs every culture file the registry lists as its own", () => {
+    const want = promised("cultures", shipped);
     expect(want.length).toBeGreaterThan(0);
     const missing = want.filter((p) => !box.has(p));
     expect(
       missing.slice(0, 5),
       `registry.json names ${want.length} culture file(s) and ${missing.length} are not in the tarball`,
+    ).toEqual([]);
+  });
+
+  it("declares a dependency on every culture it has let go", () => {
+    const deps = manifest("khai-cultures").dependencies ?? {};
+    const undeclared = delegated.filter((e) => !deps[e.package]);
+    expect(
+      undeclared.map((e) => `${e.id} -> ${e.package}`),
+      "a registry entry naming a package the umbrella does not depend on is a culture " +
+        "an installer cannot reach: the files are not in the tarball and npm was never told " +
+        "where they are",
+    ).toEqual([]);
+  });
+
+  it("ships no file for a culture it has let go", () => {
+    const strays = promised("cultures", delegated).filter((p) => box.has(p));
+    expect(
+      strays.slice(0, 5),
+      "a migrated culture must be gone from the tarball, not shipped twice",
     ).toEqual([]);
   });
 

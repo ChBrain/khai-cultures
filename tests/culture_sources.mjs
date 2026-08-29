@@ -269,10 +269,19 @@ export function relinkOnly(change, base, head, workspace = WORKSPACE) {
   // migration as authoring and defeat the exemption it needs.
   if (PACKAGING.has((to ?? from).split("/").pop())) return true;
   if (!from || !to) return false;
-  if (!to.endsWith(".md")) return false;
   const before = show(base, from, workspace);
   const after = show(head, to, workspace);
   if (before === null || after === null) return false;
+  // A file that moved and did not change is the same file, whatever its type.
+  // This is checked BEFORE the markdown gate, because it was not, and the first
+  // real migration flagged its culture as authored on `geo.json` alone: twenty-
+  // eight files moved untouched and were spared, and the one that was not
+  // markdown charged the whole culture. A migration would then demand coverage
+  // of every culture it moved, which is the exemption defeated at the first
+  // culture that has any debt.
+  if (before === after) return true;
+  // Only markdown gets the link exemption: a link is a markdown idea.
+  if (!to.endsWith(".md")) return false;
   return blindLinks(before) === blindLinks(after);
 }
 

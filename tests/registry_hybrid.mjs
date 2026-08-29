@@ -33,7 +33,7 @@ import { join, relative, sep } from "node:path";
 import { tmpdir } from "node:os";
 import { pathToFileURL } from "node:url";
 import { buildRegistry, deriveVersionFrom } from "@chbrain/khai-tests";
-import { WORKSPACE, HOUSE, productions, cultureIds } from "./culture_sources.mjs";
+import { WORKSPACE, HOUSE, productions, cultures } from "./culture_sources.mjs";
 
 const rel = (p) => relative(WORKSPACE, p).split(sep).join("/");
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
@@ -42,21 +42,20 @@ const HOUSE_PKG = join(HOUSE, "package.json");
 const REGISTRY = join(HOUSE, "registry.json");
 
 /**
- * Registry entries for the migrated cultures, built by the kit.
+ * Run the kit's build over a scratch house assembled from `dirs`, and take the
+ * culture entries it produces.
  *
- * A scratch house is assembled whose `cultures/` holds a copy of each production
- * package, the kit's build is run over it, and its entries are taken. Copying is
- * bounded by what has migrated, and the alternative - a second implementation of
- * `buildItems` here - is a second set of rules for what an entry contains, which
+ * The alternative is a second implementation of the kit's `buildItems` here,
+ * which would be a second set of rules for what a registry entry contains and
  * would drift from the kit's the first time the kit changed.
  */
-export function migratedEntries(list = productions()) {
-  if (!list.length) return [];
+function builtFrom(dirs, extra = {}) {
+  if (!dirs.length) return [];
   const scratch = mkdtempSync(join(tmpdir(), "khai-registry-"));
   try {
     mkdirSync(join(scratch, "cultures"), { recursive: true });
-    for (const prod of list)
-      cpSync(prod.dir, join(scratch, "cultures", prod.id), {
+    for (const [id, dir] of dirs)
+      cpSync(dir, join(scratch, "cultures", id), {
         recursive: true,
         filter: (src) => !src.split(sep).includes("node_modules"),
       });
@@ -67,18 +66,40 @@ export function migratedEntries(list = productions()) {
           name: read(HOUSE_PKG).name,
           version: "0.0.0",
           khai: { collection: { dir: "cultures", key: "cultures", anchor: "play_" } },
+          ...extra,
         },
         null,
         2,
       ),
     );
     buildRegistry(scratch);
-    const built = read(join(scratch, "registry.json")).cultures ?? [];
-    const byId = new Map(list.map((p) => [p.id, p]));
-    return built.map((e) => ({ ...e, package: byId.get(e.id)?.name }));
+    return read(join(scratch, "registry.json")).cultures ?? [];
   } finally {
     rmSync(scratch, { recursive: true, force: true });
   }
+}
+
+/** Registry entries for the migrated cultures, each naming the package that ships it. */
+export function migratedEntries(list = productions()) {
+  const byId = new Map(list.map((p) => [p.id, p]));
+  return builtFrom(list.map((p) => [p.id, p.dir])).map((e) => ({
+    ...e,
+    package: byId.get(e.id)?.name,
+  }));
+}
+
+/**
+ * Every culture entry the house's source builds to, wherever the culture lives.
+ *
+ * The monolith half is built the same way as the migrated half rather than read
+ * back off the committed file, because reading it back is what a drift check
+ * must not do: it would compare the registry against itself.
+ */
+export function builtCultures() {
+  const mono = cultures().filter((c) => !c.migrated);
+  return [...builtFrom(mono.map((c) => [c.id, c.dir])), ...migratedEntries()].sort((a, b) =>
+    a.id.localeCompare(b.id),
+  );
 }
 
 /**
@@ -95,10 +116,10 @@ export function migratedEntries(list = productions()) {
  */
 export function hybrid(from = read(HOUSE_PKG).version) {
   const registry = read(REGISTRY);
-  const mine = (registry.cultures ?? []).filter((e) => !e.package);
-  const cultures = [...mine, ...migratedEntries()].sort((a, b) => a.id.localeCompare(b.id));
-  const version = deriveVersionFrom(from, cultures.length);
-  return { ...registry, version, cultures, groups: registry.groups ?? [] };
+  const built = (registry.cultures ?? []).filter((e) => !e.package);
+  const all = [...built, ...migratedEntries()].sort((a, b) => a.id.localeCompare(b.id));
+  const version = deriveVersionFrom(from, all.length);
+  return { ...registry, version, cultures: all, groups: registry.groups ?? [] };
 }
 
 /**
@@ -131,32 +152,44 @@ export function write() {
   return { version: next.version, count: next.cultures.length, changed };
 }
 
-/** What the committed registry gets wrong about the house that is actually here. */
+/**
+ * What the committed registry gets wrong about the house that is actually here.
+ *
+ * This REPLACES the kit's own drift check rather than supplementing it, and the
+ * swap is deliberate. `validateCollectionRegistry` compares the committed file
+ * against a build of the collection DIRECTORY, so in a hybrid house it reports
+ * two things that are true and not faults - that a culture in the registry has
+ * no directory, and that the file therefore does not match a directory-only
+ * build. Filtering those without replacing them would leave the house with no
+ * drift check at all, which is the shape of failure this repository keeps
+ * finding. So the whole registry is recomputed here, both halves built by the
+ * kit, and compared.
+ */
 export function drift() {
   const registry = read(REGISTRY);
   const pkg = read(HOUSE_PKG);
   const out = [];
-  const listed = (registry.cultures ?? []).map((e) => e.id).sort();
-  const actual = cultureIds();
-  const missing = actual.filter((id) => !listed.includes(id));
-  const extra = listed.filter((id) => !actual.includes(id));
-  if (missing.length) out.push(`registry.json does not list: ${missing.join(", ")}`);
-  if (extra.length)
-    out.push(`registry.json lists cultures the house has not got: ${extra.join(", ")}`);
 
-  const names = new Map(productions().map((p) => [p.id, p.name]));
-  for (const entry of registry.cultures ?? []) {
-    const want = names.get(entry.id);
-    if (want && entry.package !== want)
+  const built = builtCultures();
+  const listed = registry.cultures ?? [];
+  const key = (e) => JSON.stringify(e);
+  const builtById = new Map(built.map((e) => [e.id, e]));
+  const listedById = new Map(listed.map((e) => [e.id, e]));
+
+  for (const id of [...builtById.keys()].filter((i) => !listedById.has(i)))
+    out.push(`registry.json does not list "${id}"`);
+  for (const id of [...listedById.keys()].filter((i) => !builtById.has(i)))
+    out.push(`registry.json lists "${id}", which the house has not got`);
+  for (const [id, entry] of builtById) {
+    const there = listedById.get(id);
+    if (there && key(there) !== key(entry))
       out.push(
-        `${entry.id}: migrated into ${want} and its registry entry does not say so ` +
-          `(a consumer would look for its files in a tarball that no longer has them)`,
+        `${id}: registry.json is out of date with its source - run \`npm run registry\` ` +
+          `(the build is the single writer; never hand-edit registry.json)`,
       );
-    if (!want && entry.package)
-      out.push(`${entry.id}: names package ${entry.package} and is not a production package`);
   }
 
-  const want = deriveVersionFrom(pkg.version, actual.length);
+  const want = deriveVersionFrom(pkg.version, built.length);
   if (pkg.version !== want)
     out.push(`package.json version ${pkg.version} is not the culture count: ${want}`);
   if (registry.version !== pkg.version)
