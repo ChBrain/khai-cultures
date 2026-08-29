@@ -26,12 +26,12 @@ Twice in thirty years the world goes to war, and the English-speaking nations fi
 
 ## Action
 
-In the two World Wars the dominions answer the call: [Canada](../../cultures/canada/play_canada.md), [Australia](../../cultures/australia/play_australia.md), and [New Zealand](../../cultures/new_zealand/play_new_zealand.md) send their armies far from home, and on the beaches and ridges they find their own nationhood in the cost, the names of those battles becoming the founding legends of nations no longer merely British. Across the Atlantic, [the United States](../../cultures/usa/play_usa.md) enters both wars late and decisive, and in the second forges with [the United Kingdom](../../cultures/united_kingdom/play_united_kingdom.md) a "special relationship" of pooled command, shared science, and common cause, even as leadership of the free world passes from the old power to the new. And in the secret war of codes and signals, Britain and America agree to share what they intercept, the wartime partnership that will become the foundation of everything the family does together afterward.
+In the two World Wars the dominions answer the call: [Canada](../../cultures/canada/play_canada.md), [Australia](../../cultures/australia/play_australia.md), and [New Zealand](../../cultures/new_zealand/play_new_zealand.md) send their armies far from home, and on the beaches and ridges they find their own nationhood in the cost, the names of those battles becoming the founding legends of nations no longer merely British. Across the Atlantic, [the United States](../../cultures/usa/play_usa.md) enters both wars late and decisive, and in the second forges with [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md) a "special relationship" of pooled command, shared science, and common cause, even as leadership of the free world passes from the old power to the new. And in the secret war of codes and signals, Britain and America agree to share what they intercept, the wartime partnership that will become the foundation of everything the family does together afterward.
 
 ## Stage
 
 - [the United States](../../cultures/usa/play_usa.md): the new leader of the English-speaking world, decisive in both wars.
-- [the United Kingdom](../../cultures/united_kingdom/play_united_kingdom.md): the old power that holds the line and forges the special relationship.
+- [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md): the old power that holds the line and forges the special relationship.
 - [Australia](../../cultures/australia/play_australia.md): a dominion that finds its nationhood in the cost of the wars.
 - [New Zealand](../../cultures/new_zealand/play_new_zealand.md): the far dominion that answers the call across the world.
 

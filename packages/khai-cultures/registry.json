@@ -35353,7 +35353,8 @@
           "kind": "process",
           "title": "A Cup of Tea"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-united-kingdom"
     },
     {
       "kind": "culture",
@@ -37908,7 +37909,7 @@
       "id": "anglosphere",
       "title": "the Anglosphere",
       "description": "The Anglosphere as a group: five English-speaking nations bound by language, law, and the Five Eyes.",
-      "references": ["australia", "canada", "new_zealand", "united_kingdom", "usa"],
+      "references": ["australia", "canada", "new_zealand", "usa"],
       "members": [
         {
           "file": "play_anglosphere.md",
@@ -38534,7 +38535,6 @@
         "spain",
         "sweden",
         "turkey",
-        "united_kingdom",
         "usa"
       ],
       "members": [
