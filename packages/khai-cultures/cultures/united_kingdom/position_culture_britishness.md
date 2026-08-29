@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Britishness, the sense of belonging to a union of four nations under one crown and one parliament, carried without ever quite being chosen: the [common tongue](position_language_en_gb.md) that binds Scot, Welsh, English, and Northern Irish across the water and the sea; the old grain of [class](position_class.md) that reads a person's place before they have said a word; the continuity of [the Crown](position_the_crown.md), the one figure under whom the four nations stand together; and the authority of [Westminster](position_westminster.md), the parliament from which the model of representative government spread across much of the world. It is the memory of an empire held and then let go, and the understated pride of a people who mind their place, take their turn, and rarely say out loud how much any of it matters to them.
+Britishness, the sense of belonging to a union of four nations under one crown and one parliament, carried without ever quite being chosen: the [common tongue](@chbrain/khai-cultures-tongues/en/position_language_en_gb.md) that binds Scot, Welsh, English, and Northern Irish across the water and the sea; the old grain of [class](position_class.md) that reads a person's place before they have said a word; the continuity of [the Crown](position_the_crown.md), the one figure under whom the four nations stand together; and the authority of [Westminster](position_westminster.md), the parliament from which the model of representative government spread across much of the world. It is the memory of an empire held and then let go, and the understated pride of a people who mind their place, take their turn, and rarely say out loud how much any of it matters to them.
 
 ## Orders
 

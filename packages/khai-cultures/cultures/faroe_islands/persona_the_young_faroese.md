@@ -23,7 +23,7 @@ type: archetype
 
 ## Projection
 
-Ungur Føroyingur, sum stendur millum tvær heimar: at vera ella at fara. Hann [tosar](process_speaking_mother_tongue.md) og [hugsar](process_thinking_mother_tongue.md) á [Føroyskum máli](position_language_fo.md). [Danskt](../denmark/position_language_da.md) og [enskt](../united_kingdom/position_language_en_gb.md) mál [brúkar hann](process_speaking_worn.md), til skúla og til stóra heimin uttan fyri. Hann er [Føroyingur](position_culture_foroyingur.md).
+Ungur Føroyingur, sum stendur millum tvær heimar: at vera ella at fara. Hann [tosar](process_speaking_mother_tongue.md) og [hugsar](process_thinking_mother_tongue.md) á [Føroyskum máli](position_language_fo.md). [Danskt](../denmark/position_language_da.md) og [enskt](@chbrain/khai-cultures-tongues/en/position_language_en.md) mál [brúkar hann](process_speaking_worn.md), til skúla og til stóra heimin uttan fyri. Hann er [Føroyingur](position_culture_foroyingur.md).
 
 ## Action
 
