@@ -23,7 +23,7 @@ Liechtenstein, das souveräne Fürstentum im Alpenrheintal, gelegen zwischen der
 
 ## Arc
 
-Ein kleines Land von Bergtälern, das durch kluge Diplomatie und die Treue zum Fürstenhaus seine Souveränität über Jahrhunderte bewahrt hat. Ein Rheintal, in dem der Alpabtrieb das Jahr teilt, heute verbunden mit modernster Industrie und einem globalen Finanzplatz. Eine Gemeinschaft, die ihre alemannische Mundart pflegt und ihre Unabhängigkeit inmitten Europas bewahrt.
+Ein Talboden und eine Terrasse darüber, von zwei Völkern besiedelt, die einander bis heute an einem einzigen Satz erkennen: unten die Alemannen des Rheintals, oben die Walser, die um 1300 über die Pässe kamen und ihre Zunge behielten. Der Staat wird vierhundert Jahre später dazugekauft, von einer Wiener Familie, die zweihundertneununddreissig Jahre lang nicht darin wohnt, und aus einem Besitz wird erst ein Land, als der Fürst 1938 einzieht und das Land sich in denselben Jahren vom Osten weg und nach Westen dreht. Ein Rheintal, in dem der Alpabtrieb das Jahr teilt, heute verbunden mit modernster Industrie und einem Finanzplatz, der seine Verschwiegenheit abgegeben hat und weiterbesteht. Eine Gemeinschaft, die ihre alemannische Mundart pflegt, ihre Unabhängigkeit inmitten Europas bewahrt und die Hälfte ihrer Arbeit von Menschen tun lässt, die jeden Abend wieder über die Grenze fahren.
 
 ## Company
 
@@ -65,6 +65,10 @@ Ein kleines Land von Bergtälern, das durch kluge Diplomatie und die Treue zum F
 
 ## Triggers
 
+**[Plot 0: Zwei Täler, zwei Zungen](plot_00_zwei_taeler_zwei_zungen.md)**
+
+Die Alemannen nehmen nach Rom den Talboden, um 1300 siedeln die Walser auf der Terrasse darüber und behalten ihre eigene Mundart; siebenhundert Jahre später hört man an einem Satz, ob einer von unten oder von oben ist, und [der Alpabtrieb](process_alpabtrieb.md) teilt beiden das Jahr.
+
 **[Plot 1: Der Kauf von Schellenberg und Vaduz 1699](plot_01_territorium.md)**
 
 Die Familie Liechtenstein erwirbt die Herrschaft Schellenberg und die Grafschaft Vaduz, um ein reichsunmittelbares Territorium zu besitzen und Sitz und Stimme im Reichsfürstenrat zu erlangen.
@@ -73,9 +77,17 @@ Die Familie Liechtenstein erwirbt die Herrschaft Schellenberg und die Grafschaft
 
 Kaiser Karl VI. erhebt die vereinigten Gebiete Vaduz und Schellenberg zum reichsunmittelbaren Fürstentum Liechtenstein, womit die völkerrechtliche Souveränität begründet wird.
 
-**[Plot 3: Das wirtschaftliche Wunder nach 1945](plot_03_wirtschaftswunder.md)**
+**[Plot 3: Die Wende nach Westen, 1919 bis 1938](plot_03_die_wende_nach_westen_1919_1938.md)**
+
+Der Zollvertrag mit Österreich wird gekündigt, Bern und der Franken treten an die Stelle Wiens und der Krone, und 1938 zieht [das Fürstenhaus](position_fuerstenhaus.md) nach [Vaduz](place_schloss_vaduz.md) - die Treue zum Fürstenhaus beginnt nicht mit dem Kauf, sondern mit dem Umzug.
+
+**[Plot 4: Das wirtschaftliche Wunder nach 1945](plot_04_wirtschaftswunder.md)**
 
 Die rasche Transformation des ehemals bäuerlichen Staates zu einem hochindustrialisierten Land und zu einem weltweit bedeutenden Finanzplatz.
+
+**[Plot 99: Das eingependelte Land, seit 2016](plot_99_das_eingependelte_land.md)**
+
+[Der Finanzplatz](position_finanzplatz.md) gibt seine Verschwiegenheit ab und besteht weiter, 2019 feiert das Land dreihundert Jahre Fürstentum, und jeden Morgen füllt mehr als die Hälfte der Arbeitsplätze jemand, der über eine Grenze fährt.
 
 ## Stakes
 

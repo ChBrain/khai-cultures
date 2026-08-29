@@ -19801,6 +19801,12 @@
           "title": "Liechtenstein"
         },
         {
+          "file": "plot_00_zwei_taeler_zwei_zungen.md",
+          "kind": "plot",
+          "title": "Two Valleys, Two Tongues",
+          "taxonomy": "play_liechtenstein.md"
+        },
+        {
           "file": "plot_01_territorium.md",
           "kind": "plot",
           "title": "The Purchase of Schellenberg and Vaduz",
@@ -19813,9 +19819,21 @@
           "taxonomy": "play_liechtenstein.md"
         },
         {
-          "file": "plot_03_wirtschaftswunder.md",
+          "file": "plot_03_die_wende_nach_westen_1919_1938.md",
+          "kind": "plot",
+          "title": "The Turn to the West, 1919 to 1938",
+          "taxonomy": "play_liechtenstein.md"
+        },
+        {
+          "file": "plot_04_wirtschaftswunder.md",
           "kind": "plot",
           "title": "The Post-War Economic Miracle",
+          "taxonomy": "play_liechtenstein.md"
+        },
+        {
+          "file": "plot_99_das_eingependelte_land.md",
+          "kind": "plot",
+          "title": "The Commuted-Into Country, since 2016",
           "taxonomy": "play_liechtenstein.md"
         },
         {
@@ -19843,7 +19861,8 @@
           "kind": "process",
           "title": "Alpine Cattle Drive"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-liechtenstein"
     },
     {
       "kind": "culture",
