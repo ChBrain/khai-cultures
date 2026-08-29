@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **64 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **65 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -90,6 +90,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `swg/position_language_swg_allgaeu.md` | Allgäu Swabian: the variety standing on the Swabian/Alemannic line                                                   | `swg`      |
 | `swg/position_language_swg_by.md`      | Bavarian Swabian: Swabian on the wrong side of the state border                                                      | `swg`      |
 | `sxu/position_language_sxu.md`         | Upper Saxon: it helped found the written standard and is now judged by it                                            | `sxu`      |
+| `tr/position_language_tr.md`           | Turkish as such: agglutination, vowel harmony, and an evidential in every sentence                                   | `tr`       |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                         | `vmf`      |
 | `wep/position_language_wep.md`         | Westphalian: Low German, with the breaking no other Low German has                                                   | `wep`      |
 

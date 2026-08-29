@@ -1,7 +1,7 @@
 ---
 khai: position
-title: "The Turkish Language"
-declared: "Türk dili"
+title: "Turkish"
+declared: "Türkçe"
 language: tr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: Türk dili
+# Position: Türkçe
 
 ## Taxonomy
 

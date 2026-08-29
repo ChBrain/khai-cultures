@@ -15,7 +15,7 @@ from the international vehicle and ISO codes of its three countries:
 
 | Letter | Country     | Member culture                                                        |
 | ------ | ----------- | --------------------------------------------------------------------- |
-| D      | Deutschland | [germany](../../cultures/germany/play_germany.md)                     |
+| D      | Deutschland | [germany](@chbrain/khai-cultures-germany/play_germany.md)             |
 | A      | Österreich  | [austria](../../cultures/austria/play_austria.md)                     |
 | CH     | Schweiz     | [switzerland](@chbrain/khai-cultures-switzerland/play_switzerland.md) |
 

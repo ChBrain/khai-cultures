@@ -14013,7 +14013,8 @@
           "kind": "process",
           "title": "Punctuality"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-germany"
     },
     {
       "kind": "culture",
@@ -34581,7 +34582,7 @@
           "kind": "persona",
           "title": "Ayse",
           "type": "archetype",
-          "taxonomy": "position_language_tr_tr.md"
+          "taxonomy": "position_language_tr.md"
         },
         {
           "file": "persona_can.md",
@@ -34703,11 +34704,6 @@
           "file": "position_laiklik_din.md",
           "kind": "position",
           "title": "Secularism and Faith"
-        },
-        {
-          "file": "position_language_tr_tr.md",
-          "kind": "position",
-          "title": "The Turkish Language"
         },
         {
           "file": "process_cay.md",
@@ -38348,7 +38344,7 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
-      "references": ["austria", "germany"],
+      "references": ["austria"],
       "members": [
         {
           "file": "play_dach.md",
@@ -38379,7 +38375,6 @@
         "estonia",
         "finland",
         "france",
-        "germany",
         "greece",
         "hungary",
         "ireland",
@@ -38725,7 +38720,6 @@
         "estonia",
         "finland",
         "france",
-        "germany",
         "greece",
         "hungary",
         "iceland",

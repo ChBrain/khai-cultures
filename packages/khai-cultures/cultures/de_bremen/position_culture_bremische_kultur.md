@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Die Zugehörigkeit zur bremischen Kultur, dem gemeinsamen Boden aus Handel, Hafen und republikanischer Eigenständigkeit, auf dem die Freie Hansestadt seit Jahrhunderten steht. Ihre Sprache ist das [bremische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_hb.md); ihr Erbe ist [die Hanse](position_hanse.md) und der Ehrbare Kaufmann, dessen gesprochenes Wort als Vertrag gilt, und [der Bürgerstolz](position_buergerstolz.md), der im steinernen Roland auf dem Markt sein Wahrzeichen hat. Sie hält, was einer als Bremer selbstverständlich mitbringt, ohne es je gewählt zu haben: das Misstrauen gegen monarchischen Prunk, den Blick auf die Weltmeere und das schlichte "Moin" als Gruss für jedermann. Sie ist eine Art, [die deutsche Kultur](../germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
+Die Zugehörigkeit zur bremischen Kultur, dem gemeinsamen Boden aus Handel, Hafen und republikanischer Eigenständigkeit, auf dem die Freie Hansestadt seit Jahrhunderten steht. Ihre Sprache ist das [bremische Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_hb.md); ihr Erbe ist [die Hanse](position_hanse.md) und der Ehrbare Kaufmann, dessen gesprochenes Wort als Vertrag gilt, und [der Bürgerstolz](position_buergerstolz.md), der im steinernen Roland auf dem Markt sein Wahrzeichen hat. Sie hält, was einer als Bremer selbstverständlich mitbringt, ohne es je gewählt zu haben: das Misstrauen gegen monarchischen Prunk, den Blick auf die Weltmeere und das schlichte "Moin" als Gruss für jedermann. Sie ist eine Art, [die deutsche Kultur](@chbrain/khai-cultures-germany/position_culture_deutsche_kultur.md) zu leben, kein zweiter Pass.
 
 ## Orders
 

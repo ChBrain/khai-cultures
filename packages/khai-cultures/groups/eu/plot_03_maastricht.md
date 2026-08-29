@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-At the end of the 1980s the Cold War ends and [Germany](../../cultures/germany/play_germany.md) reunites, and the community decides to match the moment by deepening as well as widening - to bind a bigger Germany and a freer continent into something stronger than a common market.
+At the end of the 1980s the Cold War ends and [Germany](@chbrain/khai-cultures-germany/play_germany.md) reunites, and the community decides to match the moment by deepening as well as widening - to bind a bigger Germany and a freer continent into something stronger than a common market.
 
 ## Action
 
@@ -30,7 +30,7 @@ In 1992 the members sign the Maastricht Treaty, which turns the European Economi
 
 ## Stage
 
-- [Germany](../../cultures/germany/play_germany.md) and [France](../../cultures/france/play_france.md): the axis that drives the deepening, binding a reunited Germany into the Union.
+- [Germany](@chbrain/khai-cultures-germany/play_germany.md) and [France](../../cultures/france/play_france.md): the axis that drives the deepening, binding a reunited Germany into the Union.
 - [Luxembourg](../../cultures/luxembourg/play_luxembourg.md) and [the Netherlands](../../cultures/netherlands/play_netherlands.md): small founders at the heart of the single currency and open borders.
 
 ## Tension
