@@ -31,6 +31,7 @@ import {
   renameSync,
 } from "node:fs";
 import { execFileSync } from "node:child_process";
+import semver from "semver";
 import { join, dirname } from "node:path";
 import { tmpdir } from "node:os";
 import { fileURLToPath } from "node:url";
@@ -47,6 +48,7 @@ import {
   authoredCultures,
 } from "./culture_sources.mjs";
 import { drift } from "./registry_hybrid.mjs";
+import { rangeFindings } from "./production_packages.mjs";
 import { languagesOf, plan } from "./migrate_culture.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
@@ -378,6 +380,26 @@ describe("Migration: the tool serves a culture that was written, not restaged", 
     } finally {
       rmSync(repo, { recursive: true, force: true });
     }
+  });
+});
+
+// Declaring a dependency and being able to resolve it are two different things,
+// and the production gate only ever checked the first. It cost an install: the
+// tongues package's minor IS its language count, so adding Turkish took it from
+// 0.20.0 to 0.21.0, `^0.20.0` stopped matching, and npm fell back to a registry
+// where the package has never been published and failed with a 404. Six manifests
+// carried the stale range; there will be two hundred and ninety.
+describe("Migration: a declared range must be one this workspace can satisfy", () => {
+  it("has no unsatisfiable range in the workspace as it stands", () => {
+    expect(rangeFindings()).toEqual([]);
+  });
+
+  it("is what a stale range looks like when it happens", () => {
+    // Held against the real workspace by construction rather than by fixture:
+    // semver's own answer to the exact comparison that failed.
+    expect(semver.satisfies("0.21.0", "^0.20.0")).toBe(false);
+    expect(semver.satisfies("0.21.0", "^0.21.0")).toBe(true);
+    expect(semver.satisfies("0.21.4", "^0.21.0")).toBe(true);
   });
 });
 
