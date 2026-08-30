@@ -23,7 +23,7 @@ Der moderne Aargauer Pendler in der Agglomeration.
 
 ## Projection
 
-Lucas sieht sich als flexibler Mittelland-Bewohner, der in der Zersiedelung seinen Platz gefunden hat, stets auf dem Weg nach Zürich oder Basel. Er erbt [den Energiekanton](position_der_energiekanton.md), ohne ihn gewählt zu haben, und gehört [der Aargauer Kultur](position_culture_aargauer_kultur.md) als der an, der hier wohnt und anderswo arbeitet. Er [denkt](process_thinking_mother_tongue.md) auf Aargauerdeutsch, tippt seine Mails [auf Englisch](process_writing_drafted.md) und hört im Zug beides nebeneinander.
+Lucas sieht sich als flexibler Mittelland-Bewohner, der in der Zersiedelung seinen Platz gefunden hat, stets auf dem Weg nach Zürich oder Basel. Er erbt [den Energiekanton](position_der_energiekanton.md), ohne ihn gewählt zu haben, und gehört [der Aargauer Kultur](position_culture_aargauer_kultur.md) als der an, der hier wohnt und anderswo arbeitet. Er [denkt](process_thinking_mother_tongue.md) auf [Aargauerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), tippt seine Mails auf [Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md), [das er sich angeeignet hat](process_writing_drafted.md), und liest das [Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) der Pendlerzeitung, ohne hinzusehen.
 
 ## Action
 

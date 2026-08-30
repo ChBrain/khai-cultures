@@ -10,7 +10,7 @@ stamp:
   date: "2026-08-30"
 ---
 
-# Pitch: Aargau
+# Pitch: die Aargauer Tonart
 
 ## Taxonomy
 
