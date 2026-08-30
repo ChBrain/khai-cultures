@@ -140,7 +140,7 @@ for (const f of failed) {
 }
 
 console.log(
-  `\n${results.length - failed.length}/${results.length} gates pass on ${ref} (${base.slice(0, 8)}..${head.slice(0, 8)})`,
+  `\n${results.length - failed.length + (lockOk ? 1 : 0)}/${results.length + 1} checks pass on ${ref} (${base.slice(0, 8)}..${head.slice(0, 8)})`,
 );
 if (dirty) console.log("Uncommitted changes were NOT tested — commit, then run again.");
 process.exit(failed.length || !lockOk ? 1 : 0);
