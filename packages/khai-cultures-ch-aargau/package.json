@@ -1,0 +1,15 @@
+{
+  "name": "@chbrain/khai-cultures-ch-aargau",
+  "version": "0.294.0",
+  "description": "khai culture: ch_aargau (Aargau, Switzerland)",
+  "author": "KAI HACKS AI",
+  "license": "CC-BY-NC-SA-4.0",
+  "khai": {
+    "class": "house",
+    "production": "play_ag.md"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-switzerland": "workspace:*",
+    "@chbrain/khai-cultures-tongues": "workspace:*"
+  }
+}
