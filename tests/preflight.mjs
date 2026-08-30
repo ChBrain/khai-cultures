@@ -68,6 +68,28 @@ function gatesFromWorkflow() {
   return jobs.filter((j) => j.commands.length);
 }
 
+// CI installs with `npm ci`, which refuses a lockfile that does not match the
+// manifests. This runner does not install - it uses the node_modules already
+// here - so a stale lockfile is invisible to every gate below and fatal to all
+// ten above: on a new workspace package, CI failed each job in under twenty
+// seconds at the install step, and not one of them on its own content. The
+// dry run is the same check CI's install would make, and costs half a second.
+function lockfileInSync() {
+  const r = spawnSync("npm", ["ci", "--dry-run"], { cwd: root, encoding: "utf8" });
+  if (r.status === 0) return true;
+  const why = (r.stderr || r.stdout || "")
+    .split("\n")
+    .filter((l) => /can only install|Missing:|Invalid:|Added:|Removed:/.test(l))
+    .map((l) => l.replace(/^npm error\s*/, "  "))
+    .join("\n");
+  console.error("preflight: package-lock.json does not match the manifests, so CI's `npm ci` will");
+  console.error(
+    "fail at install and every gate with it. Run `npm install` and commit the lockfile.\n",
+  );
+  if (why) console.error(why + "\n");
+  return false;
+}
+
 const jobs = gatesFromWorkflow();
 // If the workflow's shape changes, this script must fail loudly rather than
 // quietly report that nothing is wrong. Silence is the one result a gate runner
@@ -87,6 +109,9 @@ if (only && !selected.length) {
   console.error(`preflight: no job named ${only}. Known: ${jobs.map((j) => j.name).join(", ")}`);
   process.exit(2);
 }
+
+const lockOk = lockfileInSync();
+process.stdout.write(`${lockOk ? "PASS" : "FAIL"}  lockfile-in-sync\n`);
 
 const env = { ...process.env, BASE_SHA: base, HEAD_SHA: head, HEAD_REF: ref };
 const results = [];
@@ -118,4 +143,4 @@ console.log(
   `\n${results.length - failed.length}/${results.length} gates pass on ${ref} (${base.slice(0, 8)}..${head.slice(0, 8)})`,
 );
 if (dirty) console.log("Uncommitted changes were NOT tested — commit, then run again.");
-process.exit(failed.length ? 1 : 0);
+process.exit(failed.length || !lockOk ? 1 : 0);
