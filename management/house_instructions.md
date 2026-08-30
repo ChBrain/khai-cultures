@@ -102,12 +102,23 @@ number; never hand-edit it. A fresh, empty house stays `0.0.x`.
 - **A change that ships nothing** (governance, tooling, docs, tests) -> an
   **empty** changeset (`npx changeset add --empty`); it records the PR and merges
   green without republishing identical content.
+- **A package that has never been published declares no bump at all**, whichever
+  of the above brought it into being. `changeset version` bumps FROM the version
+  in `package.json`, so a first release carrying a bump would ship one above its
+  manifest and the version the package was created at would never exist on the
+  registry. The manifest version IS the initial version, and `changeset publish`
+  ships any package whose version is not yet on the registry. This rule outranks
+  the two that follow: name only the umbrella in the changeset, never the new
+  package.
+- **Adding a culture that ships as its own package** -> the umbrella takes the
+  `minor` (the count went up) and the new package takes nothing, per the rule
+  above.
 - **Migrating a culture into its own package** moves no count and adds no
-  culture: the new package takes a `minor` of its own (it is new to the
-  registry), the umbrella takes a `patch`, and the culture count is unchanged, so
-  the reconcile lands on `0.<count>.1`. Never a `minor` on the umbrella for a
-  move — the count has not gone up, and a minor that reconciles against an
-  unchanged count drifts the version and the `changeset-check` gate rejects it.
+  culture: the umbrella takes a `patch`, the new package takes nothing, and the
+  culture count is unchanged, so the reconcile lands on `0.<count>.1`. Never a
+  `minor` on the umbrella for a move - the count has not gone up, and a minor
+  that reconciles against an unchanged count drifts the version and the
+  `changeset-check` gate rejects it.
 
 ## A culture you touch becomes a package
 
@@ -122,17 +133,36 @@ node tests/migrate_culture.mjs --queue         # the whole house, by what holds 
 ```
 
 **Writing a new culture**: take the chapter names from the canon and never from
-memory - `@chbrain/khai-arch` exports them as `types`, and a persona is
-`Projection, Action, Shadow, Tell` with a required `type`, a place is `Shown,
-Holds, Offers, Withheld`, a piece is `Place, Load Bearing, Apparent, Yearbook`, a
-process is `Initiated by, Direction, Lever, Echo`, a pitch is `Tenor, Undertow,
-Nerve, Echo`, each after `Taxonomy` and `Owner`. Write it with package specifiers
-from the start so it owes no `../`, then **commit it and migrate it second**: the
+memory - `@chbrain/khai-arch` exports them as `types`. The whole list, because a
+partial one is worse than none: an author given five kinds and missing three
+fills the gap by extrapolating the vocabulary it was shown, which is how a plan
+came to be written `Intent, Friction, Horizon, Echo`.
+
+| kind     | chapters                                                                |
+| -------- | ----------------------------------------------------------------------- |
+| persona  | `Projection, Action, Shadow, Tell` (plus a required `type`)             |
+| place    | `Shown, Holds, Offers, Withheld`                                        |
+| piece    | `Place, Load Bearing, Apparent, Yearbook`                               |
+| process  | `Initiated by, Direction, Lever, Echo`                                  |
+| position | `Has, Orders, Loses, Drives`                                            |
+| pitch    | `Tenor, Undertow, Nerve, Echo`                                          |
+| plot     | `Cue, Action, Stage, Tension`                                           |
+| plan     | `Direction, Orders, Implementation, Targets` (plus a required `status`) |
+| play     | `Estate, Name, Arc, Company, Triggers, Stakes`                          |
+
+Every one of them follows `Taxonomy` and `Owner` **except the play**, which takes
+neither: the play is the container and its six chapters are the whole file. The
+play's `Company` lists the cast and its `Triggers` chains the plots, one
+paragraph each - the plots do not belong in `Company`.
+
+Write it with package specifiers from the start so it owes no `../`, then **commit it and migrate it second**: the
 tool moves an untracked directory by plain rename, but the ratchets read a
 committed rename, and both commits ride the same pull request.
 
 The tool does the mechanical half — the move, the manifest (`khai.class "house"`,
-`khai.production`, the anchoring play, and **no `khai.engine`**), the frozen name
+`khai.production` **which is the culture id and not a filename**, `khai.anchor`
+which is the `play_*.md` that anchors it, a `files` array without which the
+package publishes empty, and **no `khai.engine`**), the frozen name
 `@chbrain/khai-cultures-<id with hyphens>`, the licence pair, the outbound links
 rewritten to package specifiers, every inbound link from the cultures left
 behind, and the dependency declared at both ends. It refuses three things: a
