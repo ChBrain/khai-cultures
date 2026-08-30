@@ -23,6 +23,8 @@ import { cultures } from "./culture_sources.mjs";
 
 const CAST = ["persona", "position", "piece", "place", "process", "plan"];
 
+const plural = (word, n) => (n === 1 ? word : word.endsWith("s") ? `${word}es` : `${word}s`);
+
 function skeleton(c) {
   const files = existsSync(c.dir) ? readdirSync(c.dir).filter((f) => f.endsWith(".md")) : [];
   const plots = files
@@ -49,7 +51,7 @@ function printSkeleton(s) {
       `  ${p.file.replace(/\.md$/, "").padEnd(44)} ${p.stage.map((x) => x.replace(/\.md$/, "")).join(", ") || "—"}`,
     );
   console.log(
-    `  Company: ${CAST.map((k) => `${s.cast[k].length} ${k}${s.cast[k].length === 1 ? "" : "s"}`).join(", ")}`,
+    `  Company: ${CAST.map((k) => `${s.cast[k].length} ${plural(k, s.cast[k].length)}`).join(", ")}`,
   );
 }
 
@@ -123,10 +125,45 @@ function questions(subjects, all) {
   return out;
 }
 
+// The overlap report asks about one culture at a time. Asked of the house at
+// once, the same question has a different weight: if most cultures share a
+// handful of shapes, the shape is not a property of the places.
+function shapes(all) {
+  const dist = new Map();
+  for (const s of all) {
+    const key = `${s.plots.length}p  ${CAST.map((k) => s.cast[k].length).join("/")}`;
+    if (!dist.has(key)) dist.set(key, []);
+    dist.get(key).push(s.id);
+  }
+  const rows = [...dist.entries()].sort((a, b) => b[1].length - a[1].length);
+  console.log(`\n${all.length} cultures carry ${rows.length} distinct shapes.`);
+  console.log(`plots  ${CAST.join("/")}\n`);
+  for (const [key, ids] of rows.slice(0, 8))
+    console.log(
+      `  ${String(ids.length).padStart(4)}  ${key}   ${ids.slice(0, 3).join(", ")}${ids.length > 3 ? ", …" : ""}`,
+    );
+  const top = rows.slice(0, 3).reduce((n, r) => n + r[1].length, 0);
+  console.log(
+    `\n  ${top} of ${all.length} cultures (${Math.round((top / all.length) * 100)}%) share the three commonest shapes.`,
+  );
+  for (const k of CAST) {
+    const counts = new Map();
+    for (const s of all) counts.set(s.cast[k].length, (counts.get(s.cast[k].length) ?? 0) + 1);
+    const [value, n] = [...counts.entries()].sort((a, b) => b[1] - a[1])[0];
+    const pct = Math.round((n / all.length) * 100);
+    if (pct >= 80) console.log(`  ${plural(k, 2)}: ${value} in ${pct}% of cultures.`);
+  }
+  console.log(`\n  Did three hundred places arrive at these shapes, or did a template?`);
+}
+
 const argv = process.argv.slice(2);
 const ask = argv.includes("--ask");
 const ids = argv.filter((a) => !a.startsWith("--"));
 const all = cultures().map(skeleton);
+if (argv.includes("--shapes")) {
+  shapes(all);
+  process.exit(0);
+}
 const byId = new Map(all.map((s) => [s.id, s]));
 
 let subjects = ids.map((i) => byId.get(i)).filter(Boolean);
