@@ -82,6 +82,45 @@ restages a culture lands as one `culture/` PR); committed alone, an order homes 
 
 Never `--no-verify`. Never merge; open the PR and stop.
 
+## The instruments
+
+Two commands, and the house expects both to have been run.
+
+```
+npm run preflight
+```
+
+Every gate CI runs, run here first. There are ten, and knowing which was once
+tribal: run eight of them and you learn about the other two from a red pull
+request. It reads its list from `.github/workflows/ci.yml`, so it cannot fall
+behind CI. The gates read committed history, so it says plainly when the working
+tree is dirty - a green preflight on the previous commit is not a green push.
+
+```
+npm run skeleton -- <culture> --ask
+```
+
+A culture's plots in order, who is staged in each, and the Company's
+composition, in about ten lines. Those ten lines hold every decision that
+matters, and all of them are made before the two or three thousand that follow:
+read as a plan they are what to argue about, and read on a finished branch they
+are a lens - seven plots each staging the whole Company are seven identical
+lines here, and were invisible in the diff.
+
+`--ask` reports what this culture shares with the rest of the house: a cast
+name, an anchor year, a structural shape. **It never fails, and none of its
+output is a finding.** Sharing is often the truth - Schleswig-Holstein and
+Denmark both anchor 1864, and that is one war seen from two sides. It is also
+how a template shows through, and no counter can tell those apart. So it asks,
+and the asking is the point: an overlap wants an answer before the culture is
+called done, and the answer belongs to whoever is staging it.
+
+Run `npm run skeleton -- --shapes` once and the reason is plain. Three hundred
+cultures carry forty-four shapes, 71% of them share the three commonest, and two
+pieces, two places, two processes and one plan hold across nine cultures in ten
+regardless of the place. A place should get as many pieces as it has, not as
+many as a template has slots.
+
 ## Versioning
 
 The minor version IS the culture count, computed not chosen; the **Version
