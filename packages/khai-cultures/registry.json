@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.297.0",
+  "version": "0.300.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5617,6 +5617,129 @@
     },
     {
       "kind": "culture",
+      "id": "ch_bern",
+      "title": "Bern",
+      "description": "Bern staged as a culture: a city built to a plan, which lost an empire and was handed a country's files.",
+      "iso": "CH-BE",
+      "members": [
+        {
+          "file": "persona_chantal.md",
+          "kind": "persona",
+          "title": "Chantal",
+          "type": "archetype",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "persona_ueli.md",
+          "kind": "persona",
+          "title": "Ueli",
+          "type": "archetype",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "piece_zytglogge.md",
+          "kind": "piece",
+          "title": "The Zytglogge",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "pitch_bern.md",
+          "kind": "pitch",
+          "title": "The Bern Key",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "place_aareschlaufe.md",
+          "kind": "place",
+          "title": "The Bend in the Aare",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "place_bundeshaus.md",
+          "kind": "place",
+          "title": "The Federal Palace",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "place_emmental.md",
+          "kind": "place",
+          "title": "The Emmental",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "play_bern.md",
+          "kind": "play",
+          "title": "Bern"
+        },
+        {
+          "file": "plot_00_die_aareschlaufe_1191.md",
+          "kind": "plot",
+          "title": "The Bend in the Aare, 1191",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "plot_01_murten_1476.md",
+          "kind": "plot",
+          "title": "Murten, 1476",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "plot_02_die_waadt_1536.md",
+          "kind": "plot",
+          "title": "The Vaud, 1536",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "plot_03_der_bauernkrieg_1653.md",
+          "kind": "plot",
+          "title": "The Peasants' War, 1653",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "plot_04_grauholz_1798.md",
+          "kind": "plot",
+          "title": "Grauholz, 1798",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "plot_05_die_bundesstadt_1848.md",
+          "kind": "plot",
+          "title": "The Federal City, 1848",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "plot_06_die_jurafrage_1979.md",
+          "kind": "plot",
+          "title": "The Jura Question, 1979",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "plot_99_der_behaebige_staat.md",
+          "kind": "plot",
+          "title": "The Slow State, since 2015",
+          "taxonomy": "play_bern.md"
+        },
+        {
+          "file": "position_culture_berner_kultur.md",
+          "kind": "position",
+          "title": "Bern Culture"
+        },
+        {
+          "file": "position_die_behaebigkeit.md",
+          "kind": "position",
+          "title": "The Slowness"
+        },
+        {
+          "file": "process_zibelemaerit.md",
+          "kind": "process",
+          "title": "The Zibelemärit",
+          "taxonomy": "play_bern.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-bern"
+    },
+    {
+      "kind": "culture",
       "id": "ch_graubuenden",
       "title": "Graubünden",
       "description": "Graubünden staged as a culture: a hundred and fifty valleys that were never one country, and the price of that.",
@@ -5743,6 +5866,117 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-graubuenden"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_luzern",
+      "title": "Luzern",
+      "description": "Lucerne staged as a culture: a place that began as a crossing and has been looked at ever since.",
+      "iso": "CH-LU",
+      "members": [
+        {
+          "file": "persona_seppi.md",
+          "kind": "persona",
+          "title": "Seppi",
+          "type": "archetype",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "persona_vreni.md",
+          "kind": "persona",
+          "title": "Vreni",
+          "type": "archetype",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "piece_kapellbruecke.md",
+          "kind": "piece",
+          "title": "The Chapel Bridge",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "pitch_luzern.md",
+          "kind": "pitch",
+          "title": "The Lucerne Key",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "place_pilatus.md",
+          "kind": "place",
+          "title": "The Pilatus",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "place_schwanenplatz.md",
+          "kind": "place",
+          "title": "The Schwanenplatz",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "place_vierwaldstaettersee.md",
+          "kind": "place",
+          "title": "Lake Lucerne",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "play_luzern.md",
+          "kind": "play",
+          "title": "Luzern"
+        },
+        {
+          "file": "plot_00_die_bruecke.md",
+          "kind": "plot",
+          "title": "The Bridge over the Reuss",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "plot_01_sempach_1386.md",
+          "kind": "plot",
+          "title": "Sempach, 1386",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "plot_02_das_jesuitenkollegium_1574.md",
+          "kind": "plot",
+          "title": "The Jesuit College, 1574",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "plot_03_der_sonderbund_1847.md",
+          "kind": "plot",
+          "title": "The Sonderbund, 1847",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "plot_04_die_rigibahn_1871.md",
+          "kind": "plot",
+          "title": "The Rigi Railway, 1871",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "plot_99_der_schwanenplatz.md",
+          "kind": "plot",
+          "title": "The Schwanenplatz, since 2015",
+          "taxonomy": "play_luzern.md"
+        },
+        {
+          "file": "position_culture_luzerner_kultur.md",
+          "kind": "position",
+          "title": "Lucerne Culture"
+        },
+        {
+          "file": "position_der_blick.md",
+          "kind": "position",
+          "title": "The Look"
+        },
+        {
+          "file": "process_fasnacht.md",
+          "kind": "process",
+          "title": "The Fasnacht",
+          "taxonomy": "play_luzern.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-luzern"
     },
     {
       "kind": "culture",
@@ -6515,6 +6749,135 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-wallis"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_zuerich",
+      "title": "Zürich",
+      "description": "Zürich staged as a culture: a Roman toll post that never stopped earning on other people's goods.",
+      "iso": "CH-ZH",
+      "members": [
+        {
+          "file": "persona_felix.md",
+          "kind": "persona",
+          "title": "Felix",
+          "type": "archetype",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "persona_sara.md",
+          "kind": "persona",
+          "title": "Sara",
+          "type": "archetype",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "piece_boeoegg.md",
+          "kind": "piece",
+          "title": "The Böögg",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "piece_grossmuenster.md",
+          "kind": "piece",
+          "title": "The Grossmünster",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "pitch_zuerich.md",
+          "kind": "pitch",
+          "title": "The Zürich Key",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "place_langstrasse.md",
+          "kind": "place",
+          "title": "The Langstrasse",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "place_limmat.md",
+          "kind": "place",
+          "title": "The Limmat",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "place_paradeplatz.md",
+          "kind": "place",
+          "title": "The Paradeplatz",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "play_zuerich.md",
+          "kind": "play",
+          "title": "Zürich"
+        },
+        {
+          "file": "plot_00_turicum.md",
+          "kind": "plot",
+          "title": "Turicum, the Toll Post",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "plot_01_die_zunftrevolution_1336.md",
+          "kind": "plot",
+          "title": "The Guild Revolution, 1336",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "plot_02_das_wurstessen_1522.md",
+          "kind": "plot",
+          "title": "The Sausages, 1522",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "plot_03_kappel_1531.md",
+          "kind": "plot",
+          "title": "Kappel, 1531",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "plot_04_der_staefner_handel_1795.md",
+          "kind": "plot",
+          "title": "The Stäfa Affair, 1795",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "plot_05_die_escher_zeit_1853.md",
+          "kind": "plot",
+          "title": "The Escher Years, 1853",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "plot_06_zueri_braennt_1980.md",
+          "kind": "plot",
+          "title": "Züri brännt, 1980",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "plot_99_ein_wochenende_im_maerz.md",
+          "kind": "plot",
+          "title": "A Weekend in March, since 2023",
+          "taxonomy": "play_zuerich.md"
+        },
+        {
+          "file": "position_culture_zuercher_kultur.md",
+          "kind": "position",
+          "title": "Zürich Culture"
+        },
+        {
+          "file": "position_das_zaehlen.md",
+          "kind": "position",
+          "title": "The Counting"
+        },
+        {
+          "file": "process_sechselaeuten.md",
+          "kind": "process",
+          "title": "The Sechseläuten",
+          "taxonomy": "play_zuerich.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-zuerich"
     },
     {
       "kind": "culture",
