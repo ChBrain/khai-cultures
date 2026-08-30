@@ -24,14 +24,14 @@ Die Industrialisierung des Aargaus durch die Elektroindustrie.
 
 Charles E. L. Brown und Walter Boveri gründen ihr Unternehmen in Baden.
 
+## Action
+
+In Baden entsteht mit der Brown, Boveri & Cie (BBC) ein Weltkonzern, der den Aargau zum Motor der schweizerischen Industrialisierung und Elektrotechnik macht.
+
 ## Stage
 
 - `persona`: [Heinrich](persona_heinrich.md)
 - `place`: [Bäder von Baden](place_baeder_von_baden.md)
-
-## Event
-
-In Baden entsteht mit der Brown, Boveri & Cie (BBC) ein Weltkonzern, der den Aargau zum Motor der schweizerischen Industrialisierung und Elektrotechnik macht.
 
 ## Tension
 

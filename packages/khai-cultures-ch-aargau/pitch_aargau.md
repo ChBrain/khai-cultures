@@ -1,7 +1,7 @@
 ---
 khai: pitch
-title: "Pitch: Aargau"
-declared: "Aargau"
+title: "The Aargau Key"
+declared: "die Aargauer Tonart"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:

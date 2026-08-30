@@ -24,14 +24,14 @@ Die Entstehung einer Dynastie auf diesem Boden.
 
 Der Moment der grössten Macht der Grafen von Habsburg vor der Eidgenossenschaft.
 
+## Action
+
+Die mächtige Dynastie der Habsburger hat ihren Stammsitz auf dem Wülpelsberg, im Herzen des heutigen Aargaus, von wo aus sie ihr europäisches Imperium aufbaut.
+
 ## Stage
 
 - `piece`: [Habsburg](piece_habsburg.md)
 - `place`: [Wasserschloss](place_wasserschloss.md)
-
-## Event
-
-Die mächtige Dynastie der Habsburger hat ihren Stammsitz auf dem Wülpelsberg, im Herzen des heutigen Aargaus, von wo aus sie ihr europäisches Imperium aufbaut.
 
 ## Tension
 

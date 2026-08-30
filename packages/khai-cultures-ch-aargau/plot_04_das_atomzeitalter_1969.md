@@ -24,15 +24,15 @@ Die Eröffnung des Kernkraftwerks Beznau I.
 
 Die Inbetriebnahme des ersten Schweizer kommerziellen Atomkraftwerks.
 
+## Action
+
+Beznau I geht ans Netz und begründet die Ära der Kernenergie in der Schweiz, wobei der Aargau die Hauptlast der nationalen Stromproduktion an den Ufern der Aare schultert.
+
 ## Stage
 
 - `piece`: [Brennstab](piece_brennstab.md)
 - `position`: [Der Energiekanton](position_der_energiekanton.md)
 - `place`: [Wasserschloss](place_wasserschloss.md)
-
-## Event
-
-Beznau I geht ans Netz und begründet die Ära der Kernenergie in der Schweiz, wobei der Aargau die Hauptlast der nationalen Stromproduktion an den Ufern der Aare schultert.
 
 ## Tension
 

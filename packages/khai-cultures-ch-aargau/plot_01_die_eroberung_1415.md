@@ -24,15 +24,15 @@ Die Eidgenossen nehmen den Aargau ein.
 
 Die Reichsacht gegen Friedrich IV. und der Einmarsch der Eidgenossen.
 
+## Action
+
+Der Aargau wird von den Eidgenossen erobert, und das einstige Stammland der Habsburger wird zu Gemeinen Herrschaften und Untertanengebieten degradiert, die von Landvögten verwaltet werden.
+
 ## Stage
 
 - `position`: [Untertanengebiet](position_untertanengebiet.md)
 - `place`: [Wasserschloss](place_wasserschloss.md)
 - `piece`: [Habsburg](piece_habsburg.md)
-
-## Event
-
-Der Aargau wird von den Eidgenossen erobert, und das einstige Stammland der Habsburger wird zu Gemeinen Herrschaften und Untertanengebieten degradiert, die von Landvögten verwaltet werden.
 
 ## Tension
 

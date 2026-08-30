@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Heinrich"
+type: archetype
 declared: "Heinrich"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -22,7 +23,7 @@ Der Industriepionier und Ingenieur.
 
 ## Projection
 
-Heinrich verkörpert den Aufbruchsgeist der BBC und der florierenden Elektroindustrie im Aargau. Er sieht sich als Teil einer globalen technischen Avantgarde.
+Heinrich verkörpert den Aufbruchsgeist der BBC und der florierenden Elektroindustrie im Aargau. Er sieht sich als Teil einer globalen technischen Avantgarde. Er hält [den Energiekanton](position_der_energiekanton.md) für eine Leistung und nicht für eine Last, und gehört [der Aargauer Kultur](position_culture_aargauer_kultur.md) als der an, der baut, was andere danach brauchen. Aargauerdeutsch ist die Sprache, in der er [denkt](process_thinking_mother_tongue.md); die Normen, Pflichtenhefte und Patentschriften [setzt er in Hochdeutsch](process_writing_polished.md), und mit den Lieferanten in Mannheim und Birmingham verhandelt er [auf Englisch](process_speaking_worn.md).
 
 ## Action
 

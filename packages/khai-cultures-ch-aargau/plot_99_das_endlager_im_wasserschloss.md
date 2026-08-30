@@ -24,6 +24,10 @@ Die ungelösten Fragen des Transit- und Energiekantons heute.
 
 Der tägliche Stau auf der Autobahn und die Nagra-Entscheidung zum Tiefenlager.
 
+## Action
+
+Während sich der Transitverkehr endlos am Birrfeld staut, steht fest, dass das nationale Tiefenlager Nördlich Lägern im Kanton Zürich gebaut wird, während die Verpackungsanlage in Würenlingen bleibt - - - der Aargau trug die Reaktoren fünfzig Jahre lang, aber der endgültige Abschluss findet nebenan statt.
+
 ## Stage
 
 - `persona`: [Lucas](persona_lucas.md)
@@ -31,10 +35,6 @@ Der tägliche Stau auf der Autobahn und die Nagra-Entscheidung zum Tiefenlager.
 - `piece`: [Rüeblitorte](piece_rueeblitorte.md)
 - `position`: [Der Energiekanton](position_der_energiekanton.md)
 - `plan`: [Tiefenlager](plan_tiefenlager.md)
-
-## Event
-
-Während sich der Transitverkehr endlos am Birrfeld staut, steht fest, dass das nationale Tiefenlager Nördlich Lägern im Kanton Zürich gebaut wird, während die Verpackungsanlage in Würenlingen bleibt – der Aargau trug die Reaktoren fünfzig Jahre lang, aber der endgültige Abschluss findet nebenan statt.
 
 ## Tension
 

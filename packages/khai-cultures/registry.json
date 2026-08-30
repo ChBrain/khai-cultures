@@ -5619,23 +5619,26 @@
       "kind": "culture",
       "id": "ch_aargau",
       "title": "Aargau",
-      "description": "Die Emanzipation eines Transit- und Industriekantons, der den historischen [Ausgleich](process_ausgleich.md) suchen musste, um die Zersiedelung und die Lasten des [Tiefenlagers](plan_tiefenlager.md) zu bewältigen.",
+      "description": "Aargau staged as a culture: the ground the Habsburgs came from, taken, and made to carry what the country needs.",
       "iso": "ch-ag",
       "members": [
         {
           "file": "persona_heinrich.md",
           "kind": "persona",
-          "title": "Persona: Heinrich"
+          "title": "Persona: Heinrich",
+          "type": "archetype"
         },
         {
           "file": "persona_lucas.md",
           "kind": "persona",
-          "title": "Persona: Lucas"
+          "title": "Persona: Lucas",
+          "type": "archetype"
         },
         {
           "file": "persona_martina.md",
           "kind": "persona",
-          "title": "Persona: Martina"
+          "title": "Persona: Martina",
+          "type": "archetype"
         },
         {
           "file": "piece_brennstab.md",
@@ -5655,7 +5658,7 @@
         {
           "file": "pitch_aargau.md",
           "kind": "pitch",
-          "title": "Pitch: Aargau"
+          "title": "The Aargau Key"
         },
         {
           "file": "place_autobahnkreuz_birrfeld.md",
@@ -5675,13 +5678,13 @@
         {
           "file": "plan_tiefenlager.md",
           "kind": "plan",
-          "title": "Plan: Tiefenlager"
+          "title": "Plan: Tiefenlager",
+          "taxonomy": "position_der_energiekanton.md"
         },
         {
-          "file": "play_ag.md",
+          "file": "play_aargau.md",
           "kind": "play",
-          "title": "Aargau",
-          "taxonomy": "position_untertanengebiet.md"
+          "title": "Aargau"
         },
         {
           "file": "plot_00_der_habsburger_kern.md",

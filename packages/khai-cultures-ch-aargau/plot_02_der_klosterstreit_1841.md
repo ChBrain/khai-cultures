@@ -24,15 +24,15 @@ Die Schliessung der Aargauer Klöster.
 
 Radikale und liberale Kräfte beschliessen die Aufhebung der Klöster.
 
+## Action
+
+Der Grosse Rat des Aargaus schliesst radikal alle acht Klöster im Kanton und verstösst damit gegen den Bundesvertrag, was eine nationale Krise auslöst, die auf den Sonderbundskrieg zusteuert.
+
 ## Stage
 
 - `persona`: [Martina](persona_martina.md)
 - `position`: [Untertanengebiet](position_untertanengebiet.md)
 - `process`: [Ausgleich](process_ausgleich.md)
-
-## Event
-
-Der Grosse Rat des Aargaus schliesst radikal alle acht Klöster im Kanton und verstösst damit gegen den Bundesvertrag, was eine nationale Krise auslöst, die auf den Sonderbundskrieg zusteuert.
 
 ## Tension
 

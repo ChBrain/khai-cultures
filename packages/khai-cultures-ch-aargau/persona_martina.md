@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Martina"
+type: archetype
 declared: "Martina"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -22,7 +23,7 @@ Die konservative, ländliche Stimme aus dem Freiamt.
 
 ## Projection
 
-Sie steht für die tiefe Verwurzelung in der katholischen Tradition und dem Widerstand gegen die allzu schnellen Umwälzungen aus Aarau.
+Sie steht für die tiefe Verwurzelung in der katholischen Tradition und dem Widerstand gegen die allzu schnellen Umwälzungen aus Aarau. Sie trägt [das Untertanengebiet](position_untertanengebiet.md) als etwas, das nie ganz vergangen ist, und gehört [der Aargauer Kultur](position_culture_aargauer_kultur.md) als die an, die sich an das Vorher erinnert. Sie [spricht, hört und betet](process_speaking_mother_tongue.md) im Dialekt des Freiamts; das Hochdeutsche der Amtsschreiben [liest sie](process_reading_followed.md), ohne es je zu reden.
 
 ## Action
 
