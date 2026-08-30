@@ -169,6 +169,26 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: node tests/production_packages.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
+  khai-staging:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Not a ratchet, and no base/head: both rules start clean across the whole
+      # house, so they are held outright. Every other gate here checks that
+      # something exists; this one opens the chapter.
+      - name: staging
+        run: node tests/staging.mjs
   khai-changeset-check:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
