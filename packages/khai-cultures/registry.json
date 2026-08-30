@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.300.0",
+  "version": "0.301.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5614,6 +5614,130 @@
           "title": "The Polyphonic Singing"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "ch_aargau",
+      "title": "Aargau",
+      "description": "Aargau staged as a culture: the ground the Habsburgs came from, taken, and made to carry what the country needs.",
+      "iso": "ch-ag",
+      "members": [
+        {
+          "file": "persona_heinrich.md",
+          "kind": "persona",
+          "title": "Persona: Heinrich",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_lucas.md",
+          "kind": "persona",
+          "title": "Persona: Lucas",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_martina.md",
+          "kind": "persona",
+          "title": "Persona: Martina",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_brennstab.md",
+          "kind": "piece",
+          "title": "Piece: Brennstab"
+        },
+        {
+          "file": "piece_habsburg.md",
+          "kind": "piece",
+          "title": "Piece: Habsburg"
+        },
+        {
+          "file": "piece_rueeblitorte.md",
+          "kind": "piece",
+          "title": "Piece: Rüeblitorte"
+        },
+        {
+          "file": "pitch_aargau.md",
+          "kind": "pitch",
+          "title": "The Aargau Key"
+        },
+        {
+          "file": "place_autobahnkreuz_birrfeld.md",
+          "kind": "place",
+          "title": "Place: Autobahnkreuz Birrfeld"
+        },
+        {
+          "file": "place_baeder_von_baden.md",
+          "kind": "place",
+          "title": "Place: Bäder von Baden"
+        },
+        {
+          "file": "place_wasserschloss.md",
+          "kind": "place",
+          "title": "Place: Wasserschloss"
+        },
+        {
+          "file": "plan_tiefenlager.md",
+          "kind": "plan",
+          "title": "Plan: Tiefenlager",
+          "taxonomy": "position_der_energiekanton.md"
+        },
+        {
+          "file": "play_aargau.md",
+          "kind": "play",
+          "title": "Aargau"
+        },
+        {
+          "file": "plot_00_der_habsburger_kern.md",
+          "kind": "plot",
+          "title": "Plot: Der Habsburger Kern"
+        },
+        {
+          "file": "plot_01_die_eroberung_1415.md",
+          "kind": "plot",
+          "title": "Plot: Die Eroberung 1415"
+        },
+        {
+          "file": "plot_02_der_klosterstreit_1841.md",
+          "kind": "plot",
+          "title": "Plot: Der Klosterstreit 1841"
+        },
+        {
+          "file": "plot_03_die_gruendung_der_bbc_1891.md",
+          "kind": "plot",
+          "title": "Plot: Die Gründung der BBC 1891"
+        },
+        {
+          "file": "plot_04_das_atomzeitalter_1969.md",
+          "kind": "plot",
+          "title": "Plot: Das Atomzeitalter 1969"
+        },
+        {
+          "file": "plot_99_das_endlager_im_wasserschloss.md",
+          "kind": "plot",
+          "title": "Plot: Das Endlager im Wasserschloss"
+        },
+        {
+          "file": "position_culture_aargauer_kultur.md",
+          "kind": "position",
+          "title": "Position: Aargauer Kultur"
+        },
+        {
+          "file": "position_der_energiekanton.md",
+          "kind": "position",
+          "title": "Position: Der Energiekanton"
+        },
+        {
+          "file": "position_untertanengebiet.md",
+          "kind": "position",
+          "title": "Position: Untertanengebiet"
+        },
+        {
+          "file": "process_ausgleich.md",
+          "kind": "process",
+          "title": "Process: Ausgleich"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-aargau"
     },
     {
       "kind": "culture",
