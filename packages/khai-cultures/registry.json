@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.291.0",
+  "version": "0.294.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5616,6 +5616,195 @@
     },
     {
       "kind": "culture",
+      "id": "ch_be",
+      "title": "Bern",
+      "description": "Bern: the patrician city-state that became a massive, slow federal administration managing a vast rural hinterland.",
+      "iso": "CH-BE",
+      "members": [
+        {
+          "file": "persona_chantal.md",
+          "kind": "persona",
+          "title": "Chantal",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_ueli.md",
+          "kind": "persona",
+          "title": "Ueli",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_zytglogge.md",
+          "kind": "piece",
+          "title": "der Zytglogge"
+        },
+        {
+          "file": "pitch_bern.md",
+          "kind": "pitch",
+          "title": "die Berner Tonart"
+        },
+        {
+          "file": "place_aareschlaufe.md",
+          "kind": "place",
+          "title": "die Aareschlaufe"
+        },
+        {
+          "file": "place_bundeshaus.md",
+          "kind": "place",
+          "title": "das Bundeshaus"
+        },
+        {
+          "file": "place_emmental.md",
+          "kind": "place",
+          "title": "das Emmental"
+        },
+        {
+          "file": "play_be.md",
+          "kind": "play",
+          "title": "Bern"
+        },
+        {
+          "file": "plot_00_die_aareschlaufe_1191.md",
+          "kind": "plot",
+          "title": "Die Aareschlaufe 1191"
+        },
+        {
+          "file": "plot_01_murten_1476.md",
+          "kind": "plot",
+          "title": "Murten 1476"
+        },
+        {
+          "file": "plot_02_die_waadt_1536.md",
+          "kind": "plot",
+          "title": "Die Waadt 1536"
+        },
+        {
+          "file": "plot_03_der_bauernkrieg_1653.md",
+          "kind": "plot",
+          "title": "Der Bauernkrieg 1653"
+        },
+        {
+          "file": "plot_04_grauholz_1798.md",
+          "kind": "plot",
+          "title": "Grauholz 1798"
+        },
+        {
+          "file": "plot_05_die_bundesstadt_1848.md",
+          "kind": "plot",
+          "title": "Die Bundesstadt 1848"
+        },
+        {
+          "file": "plot_06_die_jura_frage_1979.md",
+          "kind": "plot",
+          "title": "Die Jura-Frage 1979"
+        },
+        {
+          "file": "plot_99_der_behaebige_staat.md",
+          "kind": "plot",
+          "title": "Der behäbige Staat"
+        },
+        {
+          "file": "position_culture_berner_kultur.md",
+          "kind": "position",
+          "title": "die Berner Kultur"
+        },
+        {
+          "file": "process_zibelemaerit.md",
+          "kind": "process",
+          "title": "der Zibelemärit"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-be"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_lu",
+      "title": "Luzern",
+      "description": "Luzern: the Catholic heart of Central Switzerland, caught between its martial past and the global tourism present.",
+      "iso": "CH-LU",
+      "members": [
+        {
+          "file": "persona_seppi.md",
+          "kind": "persona",
+          "title": "Seppi",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_vreni.md",
+          "kind": "persona",
+          "title": "Vreni",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_kapellbruecke.md",
+          "kind": "piece",
+          "title": "die Kapellbrücke"
+        },
+        {
+          "file": "pitch_luzern.md",
+          "kind": "pitch",
+          "title": "die Luzerner Tonart"
+        },
+        {
+          "file": "place_pilatus.md",
+          "kind": "place",
+          "title": "der Pilatus"
+        },
+        {
+          "file": "place_schwanenplatz.md",
+          "kind": "place",
+          "title": "der Schwanenplatz"
+        },
+        {
+          "file": "place_vierwaldstaettersee.md",
+          "kind": "place",
+          "title": "der Vierwaldstättersee"
+        },
+        {
+          "file": "play_lu.md",
+          "kind": "play",
+          "title": "Luzern"
+        },
+        {
+          "file": "plot_00_sempach_1386.md",
+          "kind": "plot",
+          "title": "Sempach 1386"
+        },
+        {
+          "file": "plot_01_das_jesuitenkollegium_1574.md",
+          "kind": "plot",
+          "title": "Das Jesuitenkollegium 1574"
+        },
+        {
+          "file": "plot_02_der_sonderbund_1847.md",
+          "kind": "plot",
+          "title": "Der Sonderbund 1847"
+        },
+        {
+          "file": "plot_03_die_rigibahn_1871.md",
+          "kind": "plot",
+          "title": "Die Rigibahn 1871"
+        },
+        {
+          "file": "plot_99_der_schwanenplatz.md",
+          "kind": "plot",
+          "title": "Die Schwanenplatz-Situation"
+        },
+        {
+          "file": "position_culture_luzerner_kultur.md",
+          "kind": "position",
+          "title": "die Luzerner Kultur"
+        },
+        {
+          "file": "process_fasnacht.md",
+          "kind": "process",
+          "title": "die Fasnacht"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-lu"
+    },
+    {
+      "kind": "culture",
       "id": "ch_uri",
       "title": "Uri",
       "description": "Uri staged as a culture: a valley that became a road, and now the road goes under it.",
@@ -5736,6 +5925,108 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-uri"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_zh",
+      "title": "Zürich",
+      "description": "Zürich: the merchant city turned financial engine, balancing its rural hinterland against its global reach.",
+      "iso": "CH-ZH",
+      "members": [
+        {
+          "file": "persona_felix.md",
+          "kind": "persona",
+          "title": "Felix",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_sara.md",
+          "kind": "persona",
+          "title": "Sara",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_grossmuenster.md",
+          "kind": "piece",
+          "title": "das Grossmünster"
+        },
+        {
+          "file": "piece_hb.md",
+          "kind": "piece",
+          "title": "der Hauptbahnhof"
+        },
+        {
+          "file": "pitch_zuerich.md",
+          "kind": "pitch",
+          "title": "die Zürcher Tonart"
+        },
+        {
+          "file": "place_langstrasse.md",
+          "kind": "place",
+          "title": "die Langstrasse"
+        },
+        {
+          "file": "place_limmat.md",
+          "kind": "place",
+          "title": "die Limmat"
+        },
+        {
+          "file": "place_zuerichsee.md",
+          "kind": "place",
+          "title": "der Zürichsee"
+        },
+        {
+          "file": "play_zh.md",
+          "kind": "play",
+          "title": "Zürich"
+        },
+        {
+          "file": "plot_00_die_zunftrevolution_1336.md",
+          "kind": "plot",
+          "title": "Die Zunftrevolution 1336"
+        },
+        {
+          "file": "plot_01_das_wurstessen_1522.md",
+          "kind": "plot",
+          "title": "Das Wurstessen 1522"
+        },
+        {
+          "file": "plot_02_kappel_1531.md",
+          "kind": "plot",
+          "title": "Kappel 1531"
+        },
+        {
+          "file": "plot_03_der_staefner_handel_1795.md",
+          "kind": "plot",
+          "title": "Der Stäfner Handel 1795"
+        },
+        {
+          "file": "plot_04_die_escher_zeit_1853.md",
+          "kind": "plot",
+          "title": "Die Escher-Zeit ab 1853"
+        },
+        {
+          "file": "plot_05_zueri_braennt_1980.md",
+          "kind": "plot",
+          "title": "Züri brännt 1980"
+        },
+        {
+          "file": "plot_99_die_langstrasse.md",
+          "kind": "plot",
+          "title": "Die Langstrasse heute"
+        },
+        {
+          "file": "position_culture_zuercher_kultur.md",
+          "kind": "position",
+          "title": "die Zürcher Kultur"
+        },
+        {
+          "file": "process_sechselaeuten.md",
+          "kind": "process",
+          "title": "das Sechseläuten"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-zh"
     },
     {
       "kind": "culture",

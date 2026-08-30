@@ -1,0 +1,13 @@
+{
+  "name": "@chbrain/khai-cultures-ch-lu",
+  "version": "0.1.0",
+  "khai": {
+    "class": "house",
+    "production": "ch_lu",
+    "anchor": "play_lu.md"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-switzerland": "^0.1.0",
+    "@chbrain/khai-cultures-tongues": "^0.21.0"
+  }
+}
