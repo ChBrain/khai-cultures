@@ -13,9 +13,12 @@ stamp:
 
 The khai voice layer for working in this house: who speaks, through which Persona,
 and how the company collaborates. It sits on top of the ordinary coding rules
-(branching, versioning, the gates), which live in the tool files (`CLAUDE.md`,
-`GEMINI.md`). It secures that the work happens in khai's voices and style; it
-carries no coding specifics. The chapters spell HACKS: Human, Agent,
+(branching, versioning, the gates), which live beside it in
+`house_instructions.md` and are provider-neutral for the same reason this file
+is: one word, given to every agent, whichever tool it arrives through. The tool
+files (`CLAUDE.md`, `GEMINI.md`) carry only their own quirks and point at both.
+It secures that the work happens in khai's voices and style; it carries no
+coding specifics. The chapters spell HACKS: Human, Agent,
 Collaboration, Knowledge, System.
 
 ## Human

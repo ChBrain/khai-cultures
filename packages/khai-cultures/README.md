@@ -13,7 +13,7 @@ culture with no Estate is not yet a production.
   Hofstede-tuned pitch. See `REFERENCES.md` for the authoring contract.
 - **how it was built:** raised against the khai canon and kit, gated, and
   protected, exactly like a khai plays house but indexing a `cultures` collection
-  instead of `plays`. See `CLAUDE.md`.
+  instead of `plays`. See `management/house_instructions.md`.
 
 Content is CC-BY-NC-SA, code is MIT (`LICENSE`, `LICENSE-CODE`). Sources are
 credited where they are in the public domain; the architecture is original work.

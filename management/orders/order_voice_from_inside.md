@@ -115,7 +115,7 @@ unless noted).**
   gains its creole's own language position beside the Portuguese one.
 - **The rider gap** - RESOLVED: branchScope.riders now declares
   management/orders/** with fallback governance, so an order rides the lane
-  of the change it drives, as CLAUDE.md promises.
+  of the change it drives, as `house_instructions.md` promises.
 
 ## Targets
 

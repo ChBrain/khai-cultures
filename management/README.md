@@ -33,7 +33,7 @@ plays stay entirely each house's own.
 
 [`management_instructions.md`](management_instructions.md) is the voice layer:
 who speaks, through which Persona, and how the company collaborates, in the HACKS
-chapters. It carries no coding specifics -- those are in `CLAUDE.md`.
+chapters. It carries no coding specifics -- those are in `house_instructions.md`.
 
 This README says **why the layer exists and where its boundary is**. That file
 says **how to work inside it**. Read this one once; read that one before writing.
