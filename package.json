@@ -15,6 +15,7 @@
   "scripts": {
     "test": "vitest run --test-timeout=120000 --exclude '**/node_modules/**' --exclude '.claude/**'",
     "preflight": "node tests/preflight.mjs",
+    "skeleton": "node tests/skeleton.mjs",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "version": "changeset version && node packages/khai-cultures-tongues/build.mjs --write && node tests/registry_hybrid.mjs --write && npx prettier --write packages/khai-cultures/registry.json packages/khai-cultures/package.json packages/khai-cultures-tongues",
