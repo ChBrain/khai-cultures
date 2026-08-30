@@ -266,11 +266,43 @@ uses about itself in its Arc, Name, Stakes and pitch, and ask which appear in a
 plot. Switzerland's Name chapter says `Confoederatio Helvetica` and no plot knows
 the Helvetii existed.
 
+## A chapter is written, and a plot stages a scene
+
+Every other gate checks that something **exists**: that a plot has a Cue, that a
+Company element is named in some Stage, that a file called `plot_00` is on disk.
+None of them opens the chapter. A pull request arrived that passed all of them
+and was scaffolding - chapters reading `(cue)` and `(proj)`, and every plot in
+every culture staging the identical full Company, with one Tension saying so in
+its own prose: _"Placeholder for the actual tension, casting all company members
+to satisfy the gate."_ Coverage reported zero, honestly, because it cannot tell.
+
+```
+node tests/staging.mjs
+```
+
+Two facts, both decidable, neither a ratchet, because both start clean across all
+297 cultures - the same footing as the tongues check.
+
+- **A canon chapter carries prose.** No placeholder, and no body under forty
+  characters. The floor is the house's own: the shortest real canon chapter here
+  is forty-two, Bashō's Tell, short because CJK is dense and not because it is
+  unwritten.
+- **A culture's plots do not all stage the same cast.** Coverage asks whether
+  every Company element is fielded by a scene; a play that lists the whole
+  Company under every plot answers that with a tautology. Three or more plots
+  and one single cast throughout is a counter satisfied, not a play staged.
+
+Neither is a quality bar and neither may be treated as one. A culture can clear
+both and still be thin: whether a chapter is **true** is the dialogue
+[The Defining Question](management/orders/order_the_defining_question.md)
+protects, and no counter stands in for it. This gate holds the floor and nothing
+above it.
+
 ## Protection
 
 Content is CC-BY-NC-SA, code is MIT (see `LICENSE` and `LICENSE-CODE`); sources
 are credited where they are in the public domain, never claimed. `main` is
 protected: pull requests and the gate checks (`khai-tests`, `khai-guard`,
 `khai-branch-scope`, `khai-company-coverage`, `khai-subnational-conformance`,
-`khai-persona-wiring`, `khai-plot-zero`, `khai-production-packages`) are
-required before merge.
+`khai-persona-wiring`, `khai-plot-zero`, `khai-production-packages`,
+`khai-staging`) are required before merge.

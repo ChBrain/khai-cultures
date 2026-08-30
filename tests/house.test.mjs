@@ -13,6 +13,7 @@ import {
   report as coverageReport,
 } from "./company_coverage.mjs";
 import { standalone } from "./tongues_standalone.mjs";
+import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
 import { cultures, productions, MONOLITH_DIR } from "./culture_sources.mjs";
 import { findings as productionFindings, umbrellaFindings } from "./production_packages.mjs";
@@ -220,6 +221,26 @@ describe("Cultures house: the company-coverage waivers stay honest", () => {
 describe("Cultures house: the tongues stand alone", () => {
   it("no variety reaches back into a culture", () => {
     const findings = standalone();
+    expect(findings, findings.join("; ")).toEqual([]);
+  });
+});
+
+// Every other gate checks that something EXISTS - that a plot has a Cue, that a
+// Company element is named in some Stage. None of them opens the chapter. A pull
+// request arrived whose chapters read `(cue)` and `(proj)`, whose every plot
+// staged the identical full Company, and whose Tension said so in prose, and the
+// whole suite was green. Both facts are decidable and both start clean across all
+// 297 cultures, so they are held outright rather than paid down. Neither is a
+// quality bar: what a chapter should SAY is the reading the defining question
+// asks for, and no counter stands in for it.
+describe("Cultures house: a chapter is written, a plot stages a scene", () => {
+  it(`no canon chapter is a placeholder or under ${FLOOR} characters`, () => {
+    const findings = substanceFindings();
+    expect(findings, findings.slice(0, 12).join("; ")).toEqual([]);
+  });
+
+  it("no culture stages the same cast in every plot", () => {
+    const findings = sceneFindings();
     expect(findings, findings.join("; ")).toEqual([]);
   });
 });
