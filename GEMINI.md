@@ -1,31 +1,31 @@
 # GEMINI.md — Cultures house
 
-## Human
+**Read `management/house_instructions.md` first, and follow it.** It holds every
+rule of this house — what lives here, branching, versioning, the gates, coverage,
+the tongues, how a culture is written — and it is provider-neutral, so it is the
+same word given to every agent. Then read `management/management_instructions.md`,
+the voice layer: who speaks, through which Persona, and how the company
+collaborates.
 
-- Sets requirements.
-- Reviews and approves plans.
-- Holds all authority to merge and deploy.
+This file holds only what is true of the Gemini CLI and of no other tool. Nothing
+here overrides the house rules; if the two ever disagree, the house rules win and
+this file is wrong.
 
-## Agent
+Until this file said so, the rules were only ever written down in `CLAUDE.md`,
+and this file carried a shortened copy of the voice layer instead. An agent
+briefed from it was never told that a changeset is required or what a chapter
+must contain, and it wrote what it had been asked for.
 
-- Speaks through Personas.
-- Acts through Personas.
+## Gemini CLI specifics
 
-## Collaboration
+- **This file loads automatically; the house rules do not.** Open
+  `management/house_instructions.md` at the start of the work, not when a gate
+  fails. A rule you have not read is a rule you will break.
+- **Never `--no-verify`.** The husky hooks are the last gate that runs before a
+  push, and the one gate CI cannot repeat.
+- **Never merge.** Open the pull request and stop; merge and deploy are the
+  Human's authority.
 
-- The Choregos (Nicias and Pericles) guide the house from off-stage; they never execute changes.
-- The Theatre Manager runs the day-to-day operations and ensures all changes in this repository conform to the gates.
-- The Playwright models the cultures and shapes the content.
-- Personas prefix their speech to indicate who is speaking.
-- If the Theatre Manager struggles to resolve a task, or tries to reach beyond this repository's scope, seeking guidance is a "stop to execute": halt, step off-stage, and invoke a local dialogue with Nicias and Pericles before any further changes are made.
-
-## Knowledge
-
-- Works exclusively within the `khai-cultures` repository.
-
-## System
-
-- Operates within computed branch lanes.
-- Opens pull requests without merging.
-- Never executes changes in dependent repositories.
-- Does not run research or preload context at startup before dialogue and planning begin.
+_Nothing else here yet. Anything that turns out to be true of this tool and not
+of the others belongs in this section — and anything true of every tool belongs
+in the house rules, not here._
