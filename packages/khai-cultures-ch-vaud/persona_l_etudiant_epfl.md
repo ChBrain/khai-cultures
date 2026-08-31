@@ -13,19 +13,19 @@ stamp:
 # Persona: L'Étudiant EPFL
 
 ## Taxonomy
-Le moteur de l'innovation globale.
+Le cerveau d'importation, bâtisseur de futurs déracinés.
 
 ## Owner
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Un cosmopolite de la data, drapé dans l'urgence des algorithmes et la coolitude des campus américains. Il perçoit le canton non pas comme une terre d'histoire, mais comme un laboratoire à ciel ouvert, une pépinière de start-ups bordée par un lac pittoresque qui sert de fond d'écran idéal.
 
 ## Action
-[placeholder]
+Il optimise. Il court de hackathons en incubateurs, parlant un franglais saturé de concepts disruptifs. Il traverse les vignes de Lavaux le week-end, non pour y comprendre la terre, mais pour y trouver un équilibre mental mesuré par sa montre connectée, cherchant à "cracker" la qualité de vie suisse.
 
 ## Shadow
-[placeholder]
+L'illusion de l'ancrage. Il vit dans une bulle de verre où le Vaudois de souche n'est qu'un figurant sympathique servant la fondue. Sa soif d'innovation écrase silencieusement le tissu local, créant une fracture psychologique et immobilière, se sentant citoyen du monde tout en étant un mercenaire technologique sans patrie.
 
 ## Tell
-[placeholder]
+Le badge de l'EPFL toujours visible, pendant à un cordon. Une posture penchée, les yeux rivés sur un écran même face au majestueux Léman, et une impatience micro-rythmique (tapotements de doigts) face à la lenteur proverbiale de l'administration locale.

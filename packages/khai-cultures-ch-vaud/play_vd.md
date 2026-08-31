@@ -14,19 +14,19 @@ stamp:
 # Play: Vaud
 
 ## Taxonomy
-Le cœur fier de la Suisse romande.
+Le cœur fier et rebelle de la Suisse romande.
 
 ## Owner
 - Project: khai-cultures
 
 ## Arc
-L'histoire d'un territoire qui a passé 260 ans sous le joug bernois avant de conquérir pacifiquement son indépendance en 1798. Aujourd'hui, il équilibre un patrimoine agricole profondément enraciné avec le prestige mondial de la Capitale Olympique et de la Riviera, servant de véritable cœur de la Suisse francophone.
+L'histoire viscérale d'un peuple de la terre, humilié et taxé pendant deux siècles et demi par l'oligarchie bernoise, jusqu'à l'explosion d'une révolution silencieuse, bourgeoise mais déterminée en 1798. Désormais souverain, le canton lutte avec une schizophrénie moderne: vénérer la glèbe et la vigne de ses ancêtres tout en devenant le campus technologique et diplomatique le plus mondialisé du pays. 
 
 ## Name
-Le canton de Vaud.
+Le canton de Vaud, la Patrie Vaudoise.
 
 ## Stakes
-Comment maintenir une véritable identité romande ancrée dans la terre quand on abrite l'EPFL et le siège du CIO ?
+Le Vaudois peut-il survivre à l'hyper-modernité du CIO, des géants de l'agroalimentaire et de l'EPFL sans voir son identité rurale réduite à un simple folklore dominical pour expatriés ? Comment rester le garant culturel de la francophonie suisse sans se diluer dans le capitalisme global ?
 
 ## Estate
 - House: packages/khai-cultures/README.md

@@ -13,20 +13,19 @@ stamp:
 # Plot: La Belle Époque
 
 ## Taxonomy
-L'essor de la Riviera.
+L'âge d'or des palaces et de la tuberculose.
 
 ## Owner
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+L'arrivée du chemin de fer et l'essor du tourisme médical de luxe transforment la Riviera en salle de bal pour l'aristocratie européenne.
 
 ## Stage
-- `piece`: [Le Bateau à Vapeur](piece_le_bateau_a_vapeur.md)
-- `position`: [L'Esprit Olympique](position_l_esprit_olympique.md)
+Les quais de Montreux et Vevey, où s'alignent les grands hôtels majestueux. Le paysan côtoie l'impératrice Sissi, Dostoïevski et les exilés fortunés.
 
 ## Event
-[placeholder]
+L'urbanisation de la Riviera et l'internationalisation fulgurante du canton. Les fortunes se construisent sur l'accueil, les banques fleurissent et Lausanne se rêve en métropole, jetant les bases qui attireront plus tard le Comité International Olympique.
 
 ## Tension
-[placeholder]
+La prostitution du paysage. Le Vaudois voit son environnement vendu au plus offrant. Une névrose naît de cette transformation: la fierté d'être le centre du monde civilisé se heurte au dégoût de servir la soupe aux étrangers nantis. C'est la perte de l'innocence rurale face au capitalisme de l'hôtellerie, une compromission que les vignerons toisent depuis leurs terrasses.

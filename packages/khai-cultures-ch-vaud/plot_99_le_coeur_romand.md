@@ -13,22 +13,19 @@ stamp:
 # Plot: Le Cœur Romand
 
 ## Taxonomy
-Le pilier moderne de la francophonie suisse.
+Le pivot central de l'Helvétie francophone.
 
 ## Owner
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+La centralité incontestée de Lausanne et du Vaud comme moteur culturel, éducatif et économique de la Suisse romande face au bloc alémanique.
 
 ## Stage
-- `persona`: [L'Étudiant EPFL](persona_l_etudiant_epfl.md)
-- `place`: [Lavaux](place_lavaux.md)
-- `piece`: [Le Chasselas](piece_le_chasselas.md)
-- `position`: [La Romandie](position_culture_la_romandie.md)
+Des studios de la RTS aux amphithéâtres de l'Université de Lausanne et de l'EPFL, reliant Genève à l'Ouest et Fribourg/Valais à l'Est.
 
 ## Event
-[placeholder]
+La consolidation de son rôle de "grand frère" romand. Vaud porte sur ses épaules le poids de la représentativité francophone à Berne, défendant le service public et le fédéralisme face aux appétits centralisateurs zurichois.
 
 ## Tension
-[placeholder]
+L'arrogance de l'arbitre. Vaud se veut le défenseur de la minorité romande, mais agace souvent ses voisins genevois ou neuchâtelois par sa posture paternaliste. La psychologie vaudoise, tiraillée entre son désir de diriger la Romandie et son obsession de plaire à la Berne fédérale, révèle un besoin maladif de consensus qui finit par aseptiser ses combats les plus passionnés.

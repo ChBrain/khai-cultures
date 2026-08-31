@@ -13,19 +13,19 @@ stamp:
 # Persona: Le Vigneron
 
 ## Taxonomy
-L'âme terrienne vaudoise.
+L'âme terrienne vaudoise, sculptée par les terrasses et le temps.
 
 ## Owner
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Il se dresse comme le gardien silencieux d'une mémoire verticale. Face au lac qui scintille d'arrogance moderne, le vigneron incarne l'humilité de la terre, les mains burinées par la taille et l'esprit ancré dans le Chasselas. Il projette une bonhomie rustique, une sagesse de celui qui sait attendre que la saison décide.
 
 ## Action
-[placeholder]
+Il taille, palisse et récolte, répétant des gestes chorégraphiés par des générations. Il observe les nuages au-dessus des Alpes savoyardes avec une méfiance instinctive, tout en négociant silencieusement avec les promoteurs immobiliers qui lorgnent sur son héritage, jouant de la tradition comme d'un bouclier politique.
 
 ## Shadow
-[placeholder]
+Sous la fierté des terrasses inscrites à l'UNESCO gronde une angoisse d'extinction et une hypocrisie feutrée. Il méprise le citadin de Lausanne tout en dépendant de ses subventions et de sa consommation. Son indépendance farouche cache une peur viscérale d'être le dernier de sa lignée, forcé de vendre au plus offrant de l'EPFL ou d'une multinationale.
 
 ## Tell
-[placeholder]
+Le regard plissé qui juge instantanément si un visiteur sait tenir un verre de Chasselas. Des phalanges calleuses, tachées de terre sombre, contrastant violemment avec le smartphone dernier cri qu'il utilise pour surveiller les capteurs météorologiques de sa parcelle.

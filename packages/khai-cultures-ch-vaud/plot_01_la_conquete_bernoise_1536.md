@@ -13,20 +13,19 @@ stamp:
 # Plot: La Conquête Bernoise 1536
 
 ## Taxonomy
-La longue occupation alémanique.
+La morsure de l'Ours protestant.
 
 ## Owner
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Les armées bernoises déferlent sur le Pays de Vaud sous couvert de libérer Genève et d'imposer la Réforme.
 
 ## Stage
-- `persona`: [Le Vigneron](persona_le_vigneron.md)
-- `position`: [La Romandie](position_culture_la_romandie.md)
+Le château de Chillon tombe, l'évêque s'enfuit, et les châteaux nobles savoyards sont incendiés. Berne installe ses baillis dans les forteresses et impose son joug administratif.
 
 ## Event
-[placeholder]
+L'éradication de la messe et le pillage des richesses. Les Bernois s'approprient les vignobles, les abbayes et redessinent l'identité religieuse du Vaudois par la force. Le protestantisme rigide, teinté de germanité, étouffe la joie de vivre savoyarde.
 
 ## Tension
-[placeholder]
+L'humiliation du sujet. Le Vaudois est réduit au silence pendant 260 ans. La friction est quotidienne: obéir à l'occupant germanophone qui taxe les récoltes tout en méprisant les manières francophones. C'est l'intériorisation d'une colère froide, développant un caractère vaudois faussement docile, sarcastique en privé, mais terrorisé par la puissance martiale de Leurs Excellences de Berne.

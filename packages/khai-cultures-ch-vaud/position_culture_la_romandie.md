@@ -13,19 +13,19 @@ stamp:
 # Position: La Romandie
 
 ## Taxonomy
-Le contrepoids francophone fier.
+Le front culturel latin face au pragmatisme germanique.
 
 ## Owner
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Le poids démographique et géographique qui en fait la pierre angulaire de l'exception francophone suisse.
 
 ## Orders
-[placeholder]
+Le discours médiatique et politique romand. Vaud dicte les normes de la bienséance politique latine, cherchant à unifier des identités cantonales disparates (du Valais à Genève) sous une même bannière.
 
 ## Loses
-[placeholder]
+Son tranchant. À force de se positionner en rassembleur, le canton dilue son propre caractère radical. Il devient tiède, terrifié à l'idée d'être perçu comme clivant, sacrifiant la vision sur l'autel de la fameuse "paix des braves" vaudoise.
 
 ## Drives
-[placeholder]
+Une résistance passive contre la suisse-allemandisation économique. C'est un combat de mots, d'arts et d'appellations contrôlées, une lutte pour prouver qu'on peut être suisse sans avoir une âme comptable.
