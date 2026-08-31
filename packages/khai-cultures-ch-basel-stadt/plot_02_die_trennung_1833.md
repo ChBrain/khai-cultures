@@ -24,15 +24,15 @@ Die Formung der urbanen Exklusivität durch den Verlust des Umlandes.
 
 Der blutige Konflikt und die formelle Spaltung in Basel-Stadt und Basel-Landschaft.
 
+## Action
+
+Nachdem die ländliche Bevölkerung gegen die Vorherrschaft der städtischen Eliten rebelliert, spaltet die Tagsatzung den Kanton. Die Stadt wird auf ihr nacktes urbanes Gebiet reduziert und kultiviert fortan eine noch exklusivere, von alten Familien (dem "Daig") dominierte Stadtkultur.
+
 ## Stage
 
 - `persona`: [Dr. Hoffmann](persona_dr_hoffmann.md)
 - `position`: [Die Grenzstadt](position_die_grenzstadt.md)
 - `piece`: [Basler Läckerli](piece_basler_laeckerli.md)
-
-## Event
-
-Nachdem die ländliche Bevölkerung gegen die Vorherrschaft der städtischen Eliten rebelliert, spaltet die Tagsatzung den Kanton. Die Stadt wird auf ihr nacktes urbanes Gebiet reduziert und kultiviert fortan eine noch exklusivere, von alten Familien (dem "Daig") dominierte Stadtkultur.
 
 ## Tension
 

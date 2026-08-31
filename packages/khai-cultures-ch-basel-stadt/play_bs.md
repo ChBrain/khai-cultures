@@ -13,46 +13,72 @@ stamp:
 
 # Play: Basel-Stadt
 
-## Taxonomy
+## Estate
 
-Ein Stadtkanton, der seine Identität aus dem Humanismus am [Rheinknie](place_rheinknie.md), der exklusiven Abgrenzung seiner patrizischen [Grenzstadt](position_die_grenzstadt.md)-Lage und der globalen Reichweite der [Roche Türme](place_roche_tuerme.md) bezieht.
-
-## Owner
-
-- Project: khai-cultures
-
-## Arc
-
-Die kulturelle Entwicklung von der humanistischen Gelehrtenstadt zur abgeriegelten, bürgerlichen Enklave nach der Kantonstrennung, bis hin zum globalen Zentrum der Life Sciences, das seine Seele im [Morgenstreich](process_morgenstreich.md) bewahrt.
+[khai-cultures](https://github.com/ChBrain/khai-cultures): the house that holds this production and answers for it.
 
 ## Name
 
-Basel-Stadt (die Stadt am Rhein, getrennt von ihrer Landschaft).
+Basel-Stadt, die Stadt am Rheinknie und die zwei Gemeinden neben ihr, vom Marktplatz über die Fasnachtsgassen bis zu den Türmen von Roche. ISO CH-BS, Sprache de. Der kleinste Kanton nach Fläche, die älteste Universität des Landes, und eine Stadt, die an drei Länder grenzt und an keines davon ganz gehört.
 
-## Stakes
+## Arc
 
-Was passiert mit einer tief verwurzelten städtischen Kultur, wenn sie einerseits das umliegende Land verliert und andererseits von einer massiven, transienten globalen Industrie überflutet wird?
-
-## Estate
-
-- House: packages/khai-cultures/README.md
+Eine Stadt, die ihre Bedeutung nie aus ihrer Grösse bezog. Am Rheinknie treffen sich die Wege, und im 15. Jahrhundert kommt mit dem Konzil und der Universität das Wissen dorthin, wo ohnehin alles durchmuss: Basel wird eine Gelehrtenstadt, weil es eine Durchgangsstadt ist. 1529 nehmen die Zünfte die Reformation und mit ihr die Herrschaft, und aus dem Bischofssitz wird ein Bürgerregiment, das genau weiss, wem es gehört. 1833 verliert die Stadt ihre Landschaft, die sich freikämpft, und was übrig bleibt, richtet sich nach innen ein: ein Halbkanton, wohlhabend, abgeschlossen, seiner selbst gewiss. Die Chemie am Rhein macht daraus eine Weltadresse, und die Türme, die heute über der Stadt stehen, gehören Konzernen, deren Forschung auf Englisch stattfindet. Was von der Stadt selbst übrig ist, behauptet sich einmal im Jahr um vier Uhr morgens, wenn alle Lichter ausgehen.
 
 ## Company
 
-- `pitch`: [Basel-Stadt](pitch_basel_stadt.md)
-- `plot_00`: [Der Humanismus](plot_00_der_humanismus.md)
-- `plot_01`: [Die Zunftherrschaft 1529](plot_01_die_zunftherrschaft_1529.md)
-- `plot_02`: [Die Trennung 1833](plot_02_die_trennung_1833.md)
-- `plot_03`: [Die Chemische Wende](plot_03_die_chemische_wende.md)
-- `plot_99`: [Das Globale Dorf](plot_99_das_globale_dorf.md)
-- `persona`: [Dr. Hoffmann](persona_dr_hoffmann.md)
-- `persona`: [Sarah](persona_sarah.md)
-- `persona`: [Ueli](persona_ueli.md)
-- `piece`: [Fasnachtslarve](piece_fasnachts_larve.md)
-- `piece`: [Basler Läckerli](piece_basler_laeckerli.md)
-- `place`: [Marktplatz](place_marktplatz.md)
-- `place`: [Rheinknie](place_rheinknie.md)
-- `place`: [Roche Türme](place_roche_tuerme.md)
-- `position`: [Basler Kultur](position_culture_basler_kultur.md)
-- `position`: [Die Grenzstadt](position_die_grenzstadt.md)
-- `process`: [Morgenstreich](process_morgenstreich.md)
+**Personas**
+
+- [Res](persona_res.md)
+- [Dr. Hoffmann](persona_dr_hoffmann.md)
+- [Sarah](persona_sarah.md)
+
+**Places**
+
+- [der Marktplatz](place_marktplatz.md)
+- [das Rheinknie](place_rheinknie.md)
+- [die Roche Türme](place_roche_tuerme.md)
+
+**Pieces**
+
+- [die Fasnachtslarve](piece_fasnachts_larve.md)
+- [das Basler Läckerli](piece_basler_laeckerli.md)
+
+**Positions**
+
+- [die Basler Kultur](position_culture_basler_kultur.md)
+- [die Grenzstadt](position_die_grenzstadt.md)
+
+**Processes**
+
+- [der Morgenstreich](process_morgenstreich.md)
+
+**Pitch**
+
+- [die Basler Tonart](pitch_basel_stadt.md)
+
+## Triggers
+
+**[Plot 0: Der Humanismus](plot_00_der_humanismus.md)**
+
+Am Rheinknie kreuzen sich die Wege, und das Wissen setzt sich dort ab, wo ohnehin alles durchmuss: eine Stadt, die gelehrt wird, weil sie eine Durchgangsstelle ist.
+
+**[Plot 1: Die Zunftherrschaft 1529](plot_01_die_zunftherrschaft_1529.md)**
+
+Die Zünfte nehmen die Reformation und mit ihr die Stadt, und aus dem Bischofssitz wird ein Bürgerregiment, das genau weiss, wem es gehört und wem nicht.
+
+**[Plot 2: Die Trennung 1833](plot_02_die_trennung_1833.md)**
+
+Die Landschaft kämpft sich frei, und die Stadt bleibt als Halbkanton zurück: was sie an Fläche verliert, richtet sie nach innen wieder ein.
+
+**[Plot 3: Die chemische Wende](plot_03_die_chemische_wende.md)**
+
+Aus Farbstoffen wird Pharma und aus einer Stadt eine Weltadresse: die Chemie am Rhein macht Basel reich und hängt es an Märkte, die nichts von ihm wissen.
+
+**[Plot 99: Das globale Dorf](plot_99_das_globale_dorf.md)**
+
+Die Türme gehören Konzernen, deren Forschung auf Englisch stattfindet, und die Stadt behauptet sich einmal im Jahr um vier Uhr morgens, wenn alle Lichter ausgehen.
+
+## Stakes
+
+Ob eine Stadt, die ihre Bedeutung immer aus dem Durchgang bezog, etwas Eigenes behält, wenn die Durchgehenden nun bleiben, gut bezahlt werden und ihre Sprache nicht sprechen - und was von einer Kultur übrig ist, die sich auf drei Tage im Februar zurückgezogen hat.

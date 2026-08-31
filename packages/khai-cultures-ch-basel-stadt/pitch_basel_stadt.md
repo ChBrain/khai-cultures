@@ -1,7 +1,7 @@
 ---
 khai: pitch
-title: "Pitch: Basel-Stadt"
-declared: "Basel-Stadt"
+title: "The Basel Key"
+declared: "die Basler Tonart"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-08-31"
 ---
 
-# Pitch: Basel-Stadt
+# Pitch: die Basler Tonart
 
 ## Taxonomy
 

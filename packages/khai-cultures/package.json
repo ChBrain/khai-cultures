@@ -70,6 +70,7 @@
   "dependencies": {
     "@chbrain/khai-cultures-austria": "^0.1.0",
     "@chbrain/khai-cultures-ch-aargau": "^0.1.0",
+    "@chbrain/khai-cultures-ch-basel-stadt": "^0.1.0",
     "@chbrain/khai-cultures-ch-bern": "^0.1.0",
     "@chbrain/khai-cultures-ch-graubuenden": "^0.1.0",
     "@chbrain/khai-cultures-ch-luzern": "^0.1.0",

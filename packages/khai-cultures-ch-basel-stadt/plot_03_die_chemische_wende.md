@@ -24,14 +24,14 @@ Der Aufstieg der globalen Pharmaindustrie aus der Seidenfärberei.
 
 Die Transformation der alten Farbstofffabriken am Rhein zu Chemiekonzernen im späten 19. Jahrhundert.
 
+## Action
+
+Aus dem Bedürfnis, Seidenbänder zu färben, entsteht eine chemische Industrie, die rasant wächst. Ciba, Geigy, Sandoz und Roche machen die enge Stadt zu einem Knotenpunkt der globalen Wissenschaft und verändern die finanzielle und soziale Struktur Basels für immer.
+
 ## Stage
 
 - `place`: [Rheinknie](place_rheinknie.md)
 - `persona`: [Dr. Hoffmann](persona_dr_hoffmann.md)
-
-## Event
-
-Aus dem Bedürfnis, Seidenbänder zu färben, entsteht eine chemische Industrie, die rasant wächst. Ciba, Geigy, Sandoz und Roche machen die enge Stadt zu einem Knotenpunkt der globalen Wissenschaft und verändern die finanzielle und soziale Struktur Basels für immer.
 
 ## Tension
 

@@ -24,14 +24,14 @@ Die Entstehung als intellektuelles Zentrum der Renaissance.
 
 Die Gründung der ersten Schweizer Universität 1460 und die Ankunft von Erasmus von Rotterdam.
 
+## Action
+
+Dank der Buchdrucker und der neuen Universität zieht das Rheinknie die grössten Gelehrten Europas an. Basel etabliert eine kulturelle DNA, die den Humanismus, die Bildung und den internationalen Austausch über jede feudale oder eidgenössische Engstirnigkeit stellt.
+
 ## Stage
 
 - `place`: [Rheinknie](place_rheinknie.md)
 - `position`: [Die Grenzstadt](position_die_grenzstadt.md)
-
-## Event
-
-Dank der Buchdrucker und der neuen Universität zieht das Rheinknie die grössten Gelehrten Europas an. Basel etabliert eine kulturelle DNA, die den Humanismus, die Bildung und den internationalen Austausch über jede feudale oder eidgenössische Engstirnigkeit stellt.
 
 ## Tension
 

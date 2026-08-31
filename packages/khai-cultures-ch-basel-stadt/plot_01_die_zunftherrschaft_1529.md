@@ -24,14 +24,14 @@ Die Reformation und die Machtübernahme der Gilden.
 
 Der Bildersturm und die Vertreibung des Fürstbischofs durch die Zünfte.
 
+## Action
+
+Die Handwerkerzünfte erzwingen die Reformation. Religiöse Kunst wird auf dem Marktplatz zerstört, der Adel verliert seine Macht, und harte Arbeit, geschäftlicher Erfolg und bürgerliche Pflicht werden zu den neuen moralischen Pfeilern der Basler Gesellschaft.
+
 ## Stage
 
 - `place`: [Marktplatz](place_marktplatz.md)
-- `persona`: [Ueli](persona_ueli.md)
-
-## Event
-
-Die Handwerkerzünfte erzwingen die Reformation. Religiöse Kunst wird auf dem Marktplatz zerstört, der Adel verliert seine Macht, und harte Arbeit, geschäftlicher Erfolg und bürgerliche Pflicht werden zu den neuen moralischen Pfeilern der Basler Gesellschaft.
+- `persona`: [Res](persona_res.md)
 
 ## Tension
 

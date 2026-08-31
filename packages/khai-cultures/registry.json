@@ -5743,23 +5743,26 @@
       "kind": "culture",
       "id": "ch_basel_stadt",
       "title": "Basel-Stadt",
-      "description": "Die kulturelle Entwicklung von der humanistischen Gelehrtenstadt zur abgeriegelten, bürgerlichen Enklave nach der Kantonstrennung, bis hin zum globalen Zentrum der Life Sciences, das seine Seele im [Morgenstreich](process_morgenstreich.md) bewahrt.",
+      "description": "Basel-Stadt: A humanist city-state at the border, balancing patrician tradition with its global life sciences industry.",
       "iso": "ch-bs",
       "members": [
         {
           "file": "persona_dr_hoffmann.md",
           "kind": "persona",
-          "title": "Persona: Dr. Hoffmann"
+          "title": "Persona: Dr. Hoffmann",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_res.md",
+          "kind": "persona",
+          "title": "Persona: Res",
+          "type": "archetype"
         },
         {
           "file": "persona_sarah.md",
           "kind": "persona",
-          "title": "Persona: Sarah"
-        },
-        {
-          "file": "persona_ueli.md",
-          "kind": "persona",
-          "title": "Persona: Ueli"
+          "title": "Persona: Sarah",
+          "type": "archetype"
         },
         {
           "file": "piece_basler_laeckerli.md",
@@ -5774,7 +5777,7 @@
         {
           "file": "pitch_basel_stadt.md",
           "kind": "pitch",
-          "title": "Pitch: Basel-Stadt"
+          "title": "The Basel Key"
         },
         {
           "file": "place_marktplatz.md",
@@ -5794,8 +5797,7 @@
         {
           "file": "play_bs.md",
           "kind": "play",
-          "title": "Basel-Stadt",
-          "taxonomy": "place_rheinknie.md"
+          "title": "Basel-Stadt"
         },
         {
           "file": "plot_00_der_humanismus.md",

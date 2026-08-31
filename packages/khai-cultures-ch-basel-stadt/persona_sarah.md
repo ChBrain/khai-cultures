@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Sarah"
+type: archetype
 declared: "Sarah"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -22,7 +23,7 @@ Die internationale Pharma-Forscherin.
 
 ## Projection
 
-Sie steht für das moderne, hochqualifizierte, transiente Basel. Für sie ist die Stadt primär ein sauberer, sicherer Campus am Rhein.
+Sie steht für das moderne, hochqualifizierte, transiente Basel. Für sie ist die Stadt primär ein sauberer, sicherer Campus am Rhein. Ihre Arbeitssprache ist [Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md), in dem sie [denkt und publiziert](process_thinking_mother_tongue.md); das [Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) der Behördenpost [entziffert sie](process_reading_deciphered.md), und das [Baseldeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) um sie herum [hört sie als Geräusch](process_hearing_caught.md), nicht als Sprache. Sie erbt [die Grenzstadt](position_die_grenzstadt.md), ohne zu wissen, dass es eine ist, und steht zu [der Basler Kultur](position_culture_basler_kultur.md) als die, die hier arbeitet und anderswo herkommt.
 
 ## Action
 
