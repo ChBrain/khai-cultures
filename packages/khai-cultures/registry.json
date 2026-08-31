@@ -7305,12 +7305,14 @@
         {
           "file": "persona_der_crypto_bro.md",
           "kind": "persona",
-          "title": "Persona: Der Crypto Bro"
+          "title": "Persona: Der Crypto Bro",
+          "type": "archetype"
         },
         {
           "file": "persona_der_einheimische.md",
           "kind": "persona",
-          "title": "Persona: Der Einheimische"
+          "title": "Persona: Der Einheimische",
+          "type": "archetype"
         },
         {
           "file": "piece_das_briefkastenschild.md",

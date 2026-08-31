@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Der Crypto Bro"
+type: archetype
 declared: "Der Crypto Bro"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -19,7 +20,7 @@ Der transiente Tech-Millionär.
 - Project: khai-cultures
 
 ## Projection
-Gibt sich als libertärer Visionär, der das Finanzsystem demokratisieren will, getragen von unerschütterlichem Glauben an die Blockchain. Nach aussen hin pflegt er den Habitus des radikalen Innovators, der in Patagonien-Fleece und Designer-Sneakern die Weltordnung neu schreibt.
+Gibt sich als libertärer Visionär, der das Finanzsystem demokratisieren will, getragen von unerschütterlichem Glauben an die Blockchain. Er nutzt [das Steuerparadies](position_culture_das_steuerparadies.md) für sich und übersetzt [den Pragmatismus](position_der_pragmatismus.md) in eine globale Krypto-Logik. Seine Sprache ist [Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md), mit der er im Alltag [kommuniziert](process_speaking_english.md).
 
 ## Action
 Er dominiert die lokalen Cafés, spricht ausschliesslich Englisch, schliesst Millionendeals über Telegram ab und betrachtet Zug weniger als physischen Ort, sondern als regulatorisches Werkzeug. Die einheimische Kultur ist für ihn nur ein pittoreskes Bühnenbild seiner eigenen Erfolgsgeschichte.

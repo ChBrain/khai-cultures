@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "Pitch: Zug"
-declared: "Zug"
+declared: "Zug (Pitch)"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:

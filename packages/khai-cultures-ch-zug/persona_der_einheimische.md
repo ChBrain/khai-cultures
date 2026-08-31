@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Der Einheimische"
+type: archetype
 declared: "Der Einheimische"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -19,7 +20,7 @@ Die verdrängte lokale Bevölkerung.
 - Project: khai-cultures
 
 ## Projection
-Verkörpert die stolze, katholisch geprägte Bauerntradition. Gibt sich genügsam, heimatverbunden und pocht auf die alten Werte der Gemeinschaft, während er betont, dass Geld nicht alles sei.
+Verkörpert die stolze, katholisch geprägte Bauerntradition. Er weiss, dass der Kanton [das Steuerparadies](position_culture_das_steuerparadies.md) geworden ist und wendet [den Pragmatismus](position_der_pragmatismus.md) an, um in der neuen Realität zu existieren. Seine Sprache ist das lokale [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), in dem er mit Seinesgleichen [redet und denkt](process_speaking_dialect.md), während er amtliche Formulare in [Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) [schreibt](process_writing_standard.md).
 
 ## Action
 Zieht sich in die letzten verbliebenen Stammtische zurück, pflegt das Vereinsleben und spricht breitesten Dialekt als Abgrenzung. Er weigert sich, Englisch zu lernen, und ignoriert die gläsernen Türme und Porsches, als seien sie Halluzinationen eines bösen Traums.

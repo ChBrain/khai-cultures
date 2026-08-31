@@ -15,18 +15,23 @@ stamp:
 ## Taxonomy
 Die Neuerfindung im digitalen Zeitalter.
 
+
 ## Owner
 - Project: khai-cultures
 
+
 ## Cue
 Als Ethereum in Zug seine Stiftung gründet und die Nerds in Hoodies die Nadelstreifen-Banker ablösen.
+
+
+## Action
+Die lokale Regierung akzeptiert Bitcoin für Dienstleistungen. Zug erfindet sich neu: Vom verstaubten Rohstoff-Hafen zum glitzernden Mekka der Krypto-Anarchie.
+
 
 ## Stage
 - `place`: [Crypto Valley Labs](place_crypto_valley_labs.md)
 - `persona`: [Der Crypto Bro](persona_der_crypto_bro.md)
 
-## Event
-Die lokale Regierung akzeptiert Bitcoin für Dienstleistungen. Zug erfindet sich neu: Vom verstaubten Rohstoff-Hafen zum glitzernden Mekka der Krypto-Anarchie.
 
 ## Tension
 Die absurden Kontraste zwischen der staatsfeindlichen Krypto-Ideologie und dem ultimativen staatlichen Protektionismus Zugs. Die Blockchain ist dezentral, aber das Geld konzentriert sich brutal auf einen einzigen Quadratkilometer.
