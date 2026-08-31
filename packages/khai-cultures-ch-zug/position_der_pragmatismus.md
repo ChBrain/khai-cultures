@@ -13,19 +13,25 @@ stamp:
 # Position: Der Pragmatismus
 
 ## Taxonomy
+
 Die moralische Flexibilität gegenüber Kapital.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Has
+
 Einen kalten, kalkulierenden Mechanismus, der jeden Konflikt durch finanzielle Kompensation löst.
 
 ## Orders
+
 Dass Traditionen nur dann gepflegt werden, wenn sie dem Standortmarketing dienen. Jeder Widerstand wird in Subventionen erstickt.
 
 ## Loses
+
 Die authentische Leidenschaft und den Raum für echte politische Reibung. Eine Gesellschaft, die alles kaufen kann, verlernt zu streiten.
 
 ## Drives
+
 Die völlige Apathie gegenüber den globalen Konsequenzen des eigenen Handelns. Solange die Strassen sauber sind, ist die Welt in Ordnung.
