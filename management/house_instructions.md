@@ -87,14 +87,24 @@ Never `--no-verify`. Never merge; open the PR and stop.
 Two commands, and the house expects both to have been run.
 
 ```
-npm run preflight
+npm run gates
 ```
 
-Every gate CI runs, run here first. There are ten, and knowing which was once
-tribal: run eight of them and you learn about the other two from a red pull
-request. It reads its list from `.github/workflows/ci.yml`, so it cannot fall
-behind CI. The gates read committed history, so it says plainly when the working
-tree is dirty - a green preflight on the previous commit is not a green push.
+Every gate CI runs, run here first, in one pass with one exit code and a block
+built to be pasted into a pull request. There are eleven, and knowing which was
+once tribal: run eight of them and you learn about the other two from a red pull
+request. This house used to hand-roll that runner (`tests/preflight.mjs`, reading
+its list from `.github/workflows/ci.yml`), and it worked until the day it did
+not: it used the `node_modules` already on the machine and reported 10/10 while
+CI failed all ten jobs at `npm ci`, because a new workspace package had shipped
+without regenerating the lockfile, and no log said "lockfile". That failure is
+now the kit's, not this house's alone - `khai-tests gates` (declared in the
+`gates` key of `khai-guard.config.json`) is the same idea lifted out of this
+house and given to every khai house, and it says, on every run, that it used the
+installed `node_modules` and not a fresh `npm ci`, so that gap is never silent
+again. It also stops before running a single wall when untracked paths sit under
+`packages/`, for the same reason: a wall that reads git-tracked paths reports the
+old counts on a tree it cannot see, and that is worse than a red gate.
 
 ```
 npm run skeleton -- <culture> --ask

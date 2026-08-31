@@ -7,6 +7,12 @@ same word given to every agent. Then read `management/management_instructions.md
 the voice layer: who speaks, through which Persona, and how the company
 collaborates.
 
+> **Case law too.** `conduct.md` ships with `@chbrain/khai-stage`, read at
+> `node_modules/@chbrain/khai-stage/conduct.md`: the shared case law for working
+> in any khai house. This house is one of its two named cases (the 31-line
+> `GEMINI.md` this file used to be); `CLAUDE.md` and `conduct.md` say the rest,
+> this file adds nothing Gemini-specific to it.
+
 This file holds only what is true of the Gemini CLI and of no other tool. Nothing
 here overrides the house rules; if the two ever disagree, the house rules win and
 this file is wrong.

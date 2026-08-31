@@ -15,8 +15,12 @@ The khai voice layer for working in this house: who speaks, through which Person
 and how the company collaborates. It sits on top of the ordinary coding rules
 (branching, versioning, the gates), which live beside it in
 `house_instructions.md` and are provider-neutral for the same reason this file
-is: one word, given to every agent, whichever tool it arrives through. The tool
-files (`CLAUDE.md`, `GEMINI.md`) carry only their own quirks and point at both.
+is: one word, given to every agent, whichever tool it arrives through. Beneath
+both sits `conduct.md`, the shared case law for how a model reads a rule, measures
+a claim and trusts a check, shipped by `@chbrain/khai-stage` and read at
+`node_modules/@chbrain/khai-stage/conduct.md`; it is common to every khai house,
+not this one's own, and carries no voice and no house rule. The tool files
+(`CLAUDE.md`, `GEMINI.md`) carry only their own quirks and point at all three.
 It secures that the work happens in khai's voices and style; it carries no
 coding specifics. The chapters spell HACKS: Human, Agent,
 Collaboration, Knowledge, System.
