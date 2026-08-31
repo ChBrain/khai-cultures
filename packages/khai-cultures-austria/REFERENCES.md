@@ -87,8 +87,8 @@ reckoning more finished than the one the country actually had.
 ## The word Anschluss, and why it echoes
 
 [plot_00_hallstatt_und_noricum.md](plot_00_hallstatt_und_noricum.md) closes its
-Tension on the habit of growing "durch Anschluss statt durch Eroberung" — by
-accession rather than by conquest — and says that habit will stay Austrian for
+Tension on the habit of growing "durch Anschluss statt durch Eroberung" - by
+accession rather than by conquest - and says that habit will stay Austrian for
 two millennia, "im Guten wie später im Schlimmsten". The word is chosen. It is
 meant to be heard again in [plot_10_anschluss_1938.md](plot_10_anschluss_1938.md),
 and in the 1918 assembly's forbidden vote for union that
@@ -98,7 +98,7 @@ That is an interpretive choice and it is recorded here so the next hand reads a
 decision rather than re-litigating one. Read as history it would be indefensible:
 a continuous national character running from Noricum's treaty with Rome to 1938
 is exactly the kind of two-thousand-year teleology historians reject, and it can
-be made to sound like an excuse — the country did not choose, it merely
+be made to sound like an excuse - the country did not choose, it merely
 continued. No such claim is made anywhere in this culture. The plots that carry
 1938 name the crime as Austria's own doing, and the Moscow Declaration note above
 says why.

@@ -35,8 +35,6 @@ Genève mute en une caricature d'elle-même. C'est l'épicentre du commerce mond
 - `persona`: [Jacques](persona_jacques.md)
 - `position`: [La Ville Internationale](position_la_ville_internationale.md)
 - `position`: [La République](position_culture_la_republique.md)
-- `process`: [Speaking French](process_speaking_french.md)
-- `process`: [Writing French](process_writing_french.md)
 
 ## Tension
 

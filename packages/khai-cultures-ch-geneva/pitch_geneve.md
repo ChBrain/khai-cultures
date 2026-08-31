@@ -1,7 +1,7 @@
 ---
 khai: pitch
-title: "Pitch: Genève"
-declared: "Genève (Pitch)"
+title: "La Note Genevoise"
+declared: "la note genevoise"
 language: fr
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-08-31"
 ---
 
-# Pitch: Genève
+# Pitch: la note genevoise
 
 ## Taxonomy
 

@@ -23,7 +23,7 @@ Le patricien protestant genevois.
 
 ## Projection
 
-Il incarne la vieille République calviniste, discrète et austère. Il détient [La République](position_culture_la_republique.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](process_speaking_french.md) et [écrit](process_writing_french.md) avec une précision presque religieuse.
+Il incarne la vieille République calviniste, discrète et austère. Il détient [La République](position_culture_la_republique.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) avec une précision presque religieuse.
 
 ## Action
 

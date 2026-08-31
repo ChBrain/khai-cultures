@@ -23,7 +23,7 @@ La fonctionnaire internationale déracinée.
 
 ## Projection
 
-Elle incarne l'hubris humanitaire et diplomatique. Elle navigue dans [La Ville Internationale](position_la_ville_internationale.md). Elle maîtrise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'elle [parle](process_speaking_french.md) et [écrit](process_writing_french.md) avec un vocabulaire onusien lissé.
+Elle incarne l'hubris humanitaire et diplomatique. Elle navigue dans [La Ville Internationale](position_la_ville_internationale.md). Elle maîtrise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'elle [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) avec un vocabulaire onusien lissé.
 
 ## Action
 

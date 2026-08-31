@@ -40,8 +40,6 @@ La trajectoire torturée d'une forteresse assiégée devenue la capitale spiritu
 **Processes**
 
 - [La Fête de l'Escalade](process_fete_de_l_escalade.md)
-- [Speaking French](process_speaking_french.md)
-- [Writing French](process_writing_french.md)
 
 **Positions**
 
@@ -56,7 +54,7 @@ La trajectoire torturée d'une forteresse assiégée devenue la capitale spiritu
 
 **Pitches**
 
-- [Genève (Pitch)](pitch_geneve.md)
+- [la note genevoise](pitch_geneve.md)
 
 ## Triggers
 
