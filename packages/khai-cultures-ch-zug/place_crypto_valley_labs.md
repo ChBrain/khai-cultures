@@ -19,13 +19,13 @@ Das Hauptquartier der digitalen Goldgräber.
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Ein lichtdurchfluteter Co-Working-Space, der radikale Transparenz, Start-up-Dynamik und die anarchische Energie einer technologischen Revolution suggeriert.
 
 ## Holds
-[placeholder]
+Das kollektive Delirium von schnellem Reichtum und der Illusion, die Welt durch Code zu verbessern, während man eigentlich nur das nächste Schneeballsystem baut.
 
 ## Offers
-[placeholder]
+Steuerliche Immunität, regulatorische Schlupflöcher und eine Infrastruktur, die exakt darauf ausgerichtet ist, virtuelles Kapital vor realen Staaten zu schützen.
 
 ## Withheld
-[placeholder]
+Die eisige Einsamkeit der digitalen Elite. Hinter den Glaswänden gibt es keine echte Kollaboration, sondern nur die panische Konkurrenz um Venture Capital in einem Markt, der auf Glauben und Gier basiert.

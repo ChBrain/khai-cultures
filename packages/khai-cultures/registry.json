@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.304.0",
+  "version": "0.305.0",
   "cultures": [
     {
       "kind": "culture",
@@ -7294,6 +7294,96 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-zuerich"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_zug",
+      "title": "Zug",
+      "description": "Zug: The radical transformation from a humble Catholic farming village to a hyper-wealthy global commodity and crypto hub.",
+      "iso": "ch-zg",
+      "members": [
+        {
+          "file": "persona_der_crypto_bro.md",
+          "kind": "persona",
+          "title": "Persona: Der Crypto Bro"
+        },
+        {
+          "file": "persona_der_einheimische.md",
+          "kind": "persona",
+          "title": "Persona: Der Einheimische"
+        },
+        {
+          "file": "piece_das_briefkastenschild.md",
+          "kind": "piece",
+          "title": "Piece: Das Briefkastenschild"
+        },
+        {
+          "file": "piece_die_zuger_kirschtorte.md",
+          "kind": "piece",
+          "title": "Piece: Die Zuger Kirschtorte"
+        },
+        {
+          "file": "pitch_zug.md",
+          "kind": "pitch",
+          "title": "Pitch: Zug"
+        },
+        {
+          "file": "place_crypto_valley_labs.md",
+          "kind": "place",
+          "title": "Place: Crypto Valley Labs"
+        },
+        {
+          "file": "place_der_zugersee.md",
+          "kind": "place",
+          "title": "Place: Der Zugersee"
+        },
+        {
+          "file": "play_zg.md",
+          "kind": "play",
+          "title": "Zug"
+        },
+        {
+          "file": "plot_00_das_katholische_dorf.md",
+          "kind": "plot",
+          "title": "Plot: Das Katholische Dorf"
+        },
+        {
+          "file": "plot_01_das_steuergesetz_1946.md",
+          "kind": "plot",
+          "title": "Plot: Das Steuergesetz 1946"
+        },
+        {
+          "file": "plot_02_die_rohstoffhaendler.md",
+          "kind": "plot",
+          "title": "Plot: Die Rohstoffhändler"
+        },
+        {
+          "file": "plot_03_das_crypto_valley_2014.md",
+          "kind": "plot",
+          "title": "Plot: Das Crypto Valley 2014"
+        },
+        {
+          "file": "plot_99_das_reichtumsparadox.md",
+          "kind": "plot",
+          "title": "Plot: Das Reichtumsparadox"
+        },
+        {
+          "file": "position_culture_das_steuerparadies.md",
+          "kind": "position",
+          "title": "Position: Das Steuerparadies"
+        },
+        {
+          "file": "position_der_pragmatismus.md",
+          "kind": "position",
+          "title": "Position: Der Pragmatismus"
+        },
+        {
+          "file": "process_die_firmenansiedlung.md",
+          "kind": "process",
+          "title": "Process: Die Firmenansiedlung"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-zug"
     },
     {
       "kind": "culture",

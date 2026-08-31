@@ -19,14 +19,14 @@ Der Aufstieg zur globalen Handelsmacht.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Als Marc Rich in den 70er Jahren im Kanton eintrifft und die Verschwiegenheit der Behörden testet.
 
 ## Stage
 - `piece`: [Das Briefkastenschild](piece_das_briefkastenschild.md)
 - `position`: [Der Pragmatismus](position_der_pragmatismus.md)
 
 ## Event
-[placeholder]
+Glencore und andere Giganten etablieren sich. Zug wird zum Knotenpunkt des globalen Rohstoffhandels. Milliarden fliessen über die Schreibtische, während im Jemen Krieg herrscht und im Kongo Minen ausgebeutet werden.
 
 ## Tension
-[placeholder]
+Die perverse Dissonanz zwischen der blutigen, schmutzigen Realität des Rohstoffhandels und der sterilen, pedantisch sauberen Idylle der Zuger Strassen. Man wäscht seine Hände im reinen See, während man mit der halben Weltbevölkerung spekuliert.

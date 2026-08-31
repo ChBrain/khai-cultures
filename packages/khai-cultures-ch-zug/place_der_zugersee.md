@@ -19,13 +19,13 @@ Die beschauliche Naturkulisse.
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Ein spiegelglattes, malerisches Gewässer, umrahmt von voralpinen Hügeln – das perfekte Postkartenmotiv der unberührten Innerschweiz.
 
 ## Holds
-[placeholder]
+Die stumme Geschichte der Verdrängung. Seine Ufer, einst Allmend und Arbeitsplatz der Fischer, sind heute lückenlos von den hermetisch abgeriegelten Villen der Milliardäre besetzt.
 
 ## Offers
-[placeholder]
+Eine spiegelnde Oberfläche, auf der sich der neue Adel Zugs in seiner exklusiven Privatsphäre sonnen kann, ungestört vom Pöbel.
 
 ## Withheld
-[placeholder]
+Das trübe Wasser tief unten, das die ökologischen und sozialen Schulden dieses radikalen Wachstums verbirgt. Die öffentliche Zugänglichkeit ist ein Mythos; der See gehört längst denen, die ihn kaufen konnten.

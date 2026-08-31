@@ -19,14 +19,14 @@ Die historischen, ärmlichen Wurzeln.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Als der Regen tagelang nicht aufhört und die Armut in den nassen Gassen der Altstadt riechbar wird.
 
 ## Stage
 - `place`: [Der Zugersee](place_der_zugersee.md)
 - `piece`: [Die Zuger Kirschtorte](piece_die_zuger_kirschtorte.md)
 
 ## Event
-[placeholder]
+Die tiefgläubigen, verarmten Bauern und Handwerker beten in der St. Oswald-Kirche um ein Wunder, während die Landwirtschaft stagniert und die Jungen in die Städte abwandern.
 
 ## Tension
-[placeholder]
+Die fromme Genügsamkeit kollidiert mit der nackten Existenzangst. Die Kirche predigt Armut als Tugend, doch der Neid auf den Reichtum Zürichs sät ein toxisches Bedürfnis nach Rache am Schicksal.

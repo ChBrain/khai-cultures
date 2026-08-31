@@ -19,13 +19,13 @@ Die moralische Flexibilität gegenüber Kapital.
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Einen kalten, kalkulierenden Mechanismus, der jeden Konflikt durch finanzielle Kompensation löst.
 
 ## Orders
-[placeholder]
+Dass Traditionen nur dann gepflegt werden, wenn sie dem Standortmarketing dienen. Jeder Widerstand wird in Subventionen erstickt.
 
 ## Loses
-[placeholder]
+Die authentische Leidenschaft und den Raum für echte politische Reibung. Eine Gesellschaft, die alles kaufen kann, verlernt zu streiten.
 
 ## Drives
-[placeholder]
+Die völlige Apathie gegenüber den globalen Konsequenzen des eigenen Handelns. Solange die Strassen sauber sind, ist die Welt in Ordnung.

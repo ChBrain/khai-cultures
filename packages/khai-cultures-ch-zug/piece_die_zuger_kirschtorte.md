@@ -19,13 +19,13 @@ Das kulinarische Alibi der Tradition.
 - Project: khai-cultures
 
 ## Place
-[placeholder]
+In der Auslage der alteingesessenen Konditoreien, zwischen Macarons und Blattgold-Pralinen.
 
 ## Load Bearing
-[placeholder]
+Sie fungiert als süsses, nostalgisches Sedativum. Sie muss die Illusion einer intakten, biedermeierlichen Folklore aufrechterhalten, während draussen der Hyperkapitalismus tobt.
 
 ## Apparent
-[placeholder]
+Ein rosafarbener, mit Puderzucker bestäubter Traum aus Biskuit, Japonais und einer Überdosis Kirschwasser.
 
 ## Yearbook
-[placeholder]
+Ihre Rezeptur blieb seit 1915 unverändert, doch ihre Käuferschaft wandelte sich vom sonntäglichen Kirchgänger zum Expat, der sie als kurioses Souvenir betrachtet.

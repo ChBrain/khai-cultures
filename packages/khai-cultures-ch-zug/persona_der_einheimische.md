@@ -19,13 +19,13 @@ Die verdrängte lokale Bevölkerung.
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Verkörpert die stolze, katholisch geprägte Bauerntradition. Gibt sich genügsam, heimatverbunden und pocht auf die alten Werte der Gemeinschaft, während er betont, dass Geld nicht alles sei.
 
 ## Action
-[placeholder]
+Zieht sich in die letzten verbliebenen Stammtische zurück, pflegt das Vereinsleben und spricht breitesten Dialekt als Abgrenzung. Er weigert sich, Englisch zu lernen, und ignoriert die gläsernen Türme und Porsches, als seien sie Halluzinationen eines bösen Traums.
 
 ## Shadow
-[placeholder]
+Eine bittere, toxische Resignation. Er hat sein altes Bauernhaus für Millionen an Immobilienentwickler verkauft und klagt nun aus seiner seelenlosen Luxus-Eigentumswohnung in der Nachbargemeinde über den Verlust der Heimat. Sein Traditionalismus ist erkauft, sein Widerstand gegen die Moderne ist durch Heuchelei korrumpiert.
 
 ## Tell
-[placeholder]
+Trägt eine sündhaft teure Rolex unter dem Ärmel seines abgewetzten Jodlerhemds – ein heimlicher Tribut an den Kapitalismus, den er lauthals verachtet.

@@ -19,7 +19,7 @@ Die Verdrängung der eigenen Identität.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Als die letzte Bäckerei in der Altstadt schliesst, weil sie die Miete nicht mehr zahlen kann.
 
 ## Stage
 - `persona`: [Der Einheimische](persona_der_einheimische.md)
@@ -28,7 +28,7 @@ Die Verdrängung der eigenen Identität.
 - `position`: [Der Pragmatismus](position_der_pragmatismus.md)
 
 ## Event
-[placeholder]
+Das Steuersubstrat explodiert, die Staatskassen bersten, doch die Infrastruktur des Alltags kollabiert. Lehrer, Pflegekräfte und Handwerker können sich den Wohnraum nicht mehr leisten und werden in die Nachbarkantone vertrieben.
 
 ## Tension
-[placeholder]
+Die ultimative Ironie der Zuger Erfolgsgeschichte: Der Kanton ist so unermesslich reich geworden, dass er für die Menschen, die ihn einst ausmachten, unbewohnbar ist. Ein vergoldeter Käfig ohne Gesellschaft.

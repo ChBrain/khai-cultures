@@ -19,13 +19,13 @@ Die physische Manifestation der Steueroptimierung.
 - Project: khai-cultures
 
 ## Place
-[placeholder]
+An der verwitterten Fassade eines Altbaus in der Baarerstrasse.
 
 ## Load Bearing
-[placeholder]
+Es ist das architektonische Feigenblatt tausender Scheinfirmen. Dieses kleine Stück Plastik legitimiert den Transfer von Milliarden und manifestiert die juristische Präsenz von Konzernen, die hier nichts ausser Luft besitzen.
 
 ## Apparent
-[placeholder]
+Ein banales, eng bedrucktes Schild mit fünfzig Firmennamen, von denen niemand in der Stadt je gehört hat.
 
 ## Yearbook
-[placeholder]
+Wurde über die Jahrzehnte zur stummen Chronik globaler Rohstoffkrisen, Oligarchengelder und geplatzter Krypto-Träume, wobei die Namen öfter wechseln als die Jahreszeiten.

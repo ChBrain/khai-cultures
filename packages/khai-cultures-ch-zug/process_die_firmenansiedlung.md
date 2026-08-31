@@ -19,13 +19,13 @@ Die bürokratische Willkommenskultur.
 - Project: khai-cultures
 
 ## Initiated by
-[placeholder]
+Einem Anruf eines Zürcher Wirtschaftsanwalts, der Diskretion und einen Briefkasten benötigt.
 
 ## Direction
-[placeholder]
+Rasant und lautlos. Die Bürokratie, andernorts ein Albtraum, agiert hier als hochgeschmierter roter Teppich. Behörden sind keine Regulatoren, sondern Dienstleister.
 
 ## Lever
-[placeholder]
+Der kühle Handschlag eines Regierungsrates und ein vorgefertigtes Steuer-Ruling, das die Gesetze des Heimatlandes aushebelt.
 
 ## Echo
-[placeholder]
+Ein weiteres Namensschild an der Baarerstrasse, eine Million mehr Steuereinnahmen und ein weiterer Einheimischer, der die Miete nicht mehr bezahlen kann.

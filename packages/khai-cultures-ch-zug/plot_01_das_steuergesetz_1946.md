@@ -19,14 +19,14 @@ Der radikale wirtschaftliche Schwenk.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Als die Not so gross wird, dass die Moral dem Pragmatismus weichen muss.
 
 ## Stage
 - `position`: [Das Steuerparadies](position_culture_das_steuerparadies.md)
 - `process`: [Die Firmenansiedlung](process_die_firmenansiedlung.md)
 
 ## Event
-[placeholder]
+Die Kantonsregierung verabschiedet 1946 stillschweigend ein neues Steuergesetz, das Holdinggesellschaften lächerlich niedrige Steuern garantiert. Ein paktieren mit dem Teufel, um das eigene Überleben zu sichern.
 
 ## Tension
-[placeholder]
+Ein zutiefst konservativer, wertorientierter Kanton verkauft seine Seele an die anonymsten Akteure des globalen Kapitals. Der Stolz der Unabhängigkeit wird durch die totale Abhängigkeit vom Geld anderer ersetzt.

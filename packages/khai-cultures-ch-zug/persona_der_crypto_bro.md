@@ -19,13 +19,13 @@ Der transiente Tech-Millionär.
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Gibt sich als libertärer Visionär, der das Finanzsystem demokratisieren will, getragen von unerschütterlichem Glauben an die Blockchain. Nach aussen hin pflegt er den Habitus des radikalen Innovators, der in Patagonien-Fleece und Designer-Sneakern die Weltordnung neu schreibt.
 
 ## Action
-[placeholder]
+Er dominiert die lokalen Cafés, spricht ausschliesslich Englisch, schliesst Millionendeals über Telegram ab und betrachtet Zug weniger als physischen Ort, sondern als regulatorisches Werkzeug. Die einheimische Kultur ist für ihn nur ein pittoreskes Bühnenbild seiner eigenen Erfolgsgeschichte.
 
 ## Shadow
-[placeholder]
+Hinter dem Idealismus der Dezentralisierung verbirgt sich eine zutiefst elitäre Gier. Sein Reichtum ist hochvolatil, sein soziales Netz besteht ausschliesslich aus transaktionalen Bekanntschaften. Die vermeintliche Freiheit der Kryptowelt ist längst in einer neuen, noch opakeren Oligarchie erstarrt, in der er panische Angst vor dem nächsten Crash hat.
 
 ## Tell
-[placeholder]
+Zahlt seinen Hafermilch-Flat-White mit einer Krypto-Kreditkarte, während sein Blick ununterbrochen nervös auf dem Graphen seines Portfolios auf dem Smartphone klebt.
