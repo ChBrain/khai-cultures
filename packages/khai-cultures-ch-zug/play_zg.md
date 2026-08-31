@@ -40,9 +40,6 @@ Die beispiellose Transformation eines armen, konservativ-katholischen Agrarkanto
 **Processes**
 
 - [Die Firmenansiedlung](process_die_firmenansiedlung.md)
-- [Speaking Dialect](process_speaking_dialect.md)
-- [Writing Standard](process_writing_standard.md)
-- [Speaking English](process_speaking_english.md)
 
 **Positions**
 
@@ -58,7 +55,7 @@ Die beispiellose Transformation eines armen, konservativ-katholischen Agrarkanto
 
 **Pitches**
 
-- [Zug (Pitch)](pitch_zug.md)
+- [die Zuger Tonart](pitch_zug.md)
 
 ## Triggers
 

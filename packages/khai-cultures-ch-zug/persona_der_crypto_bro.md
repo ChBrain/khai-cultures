@@ -23,7 +23,7 @@ Der transiente Tech-Millionär.
 
 ## Projection
 
-Gibt sich als libertärer Visionär, der das Finanzsystem demokratisieren will, getragen von unerschütterlichem Glauben an die Blockchain. Er nutzt [das Steuerparadies](position_culture_das_steuerparadies.md) für sich und übersetzt [den Pragmatismus](position_der_pragmatismus.md) in eine globale Krypto-Logik. Seine Sprache ist [Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md), mit der er im Alltag [kommuniziert](process_speaking_english.md).
+Gibt sich als libertärer Visionär, der das Finanzsystem demokratisieren will, getragen von unerschütterlichem Glauben an die Blockchain. Er nutzt [das Steuerparadies](position_culture_das_steuerparadies.md) für sich und übersetzt [den Pragmatismus](position_der_pragmatismus.md) in eine globale Krypto-Logik. Seine Sprache ist [Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md), mit der er im Alltag [kommuniziert](@chbrain/khai-engine-language/process_speaking_borrowed.md).
 
 ## Action
 

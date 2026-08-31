@@ -23,7 +23,7 @@ Die verdrängte lokale Bevölkerung.
 
 ## Projection
 
-Verkörpert die stolze, katholisch geprägte Bauerntradition. Er weiss, dass der Kanton [das Steuerparadies](position_culture_das_steuerparadies.md) geworden ist und wendet [den Pragmatismus](position_der_pragmatismus.md) an, um in der neuen Realität zu existieren. Seine Sprache ist das lokale [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), in dem er mit Seinesgleichen [redet und denkt](process_speaking_dialect.md), während er amtliche Formulare in [Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) [schreibt](process_writing_standard.md).
+Verkörpert die stolze, katholisch geprägte Bauerntradition. Er weiss, dass der Kanton [das Steuerparadies](position_culture_das_steuerparadies.md) geworden ist und wendet [den Pragmatismus](position_der_pragmatismus.md) an, um in der neuen Realität zu existieren. Seine Sprache ist das lokale [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), in dem er mit Seinesgleichen [redet und denkt](@chbrain/khai-engine-language/process_speaking_mother_tongue.md), während er amtliche Formulare in [Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) [schreibt](@chbrain/khai-engine-language/process_writing_polished.md).
 
 ## Action
 

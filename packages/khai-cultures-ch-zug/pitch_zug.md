@@ -1,7 +1,7 @@
 ---
 khai: pitch
-title: "Pitch: Zug"
-declared: "Zug (Pitch)"
+title: "Die Zuger Tonart"
+declared: "die Zuger Tonart"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-08-31"
 ---
 
-# Pitch: Zug
+# Pitch: die Zuger Tonart
 
 ## Taxonomy
 

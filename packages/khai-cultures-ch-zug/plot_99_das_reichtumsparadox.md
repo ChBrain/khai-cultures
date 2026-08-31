@@ -35,9 +35,6 @@ Das Steuersubstrat explodiert, die Staatskassen bersten, doch die Infrastruktur 
 - `position`: [Das Steuerparadies](position_culture_das_steuerparadies.md)
 - `position`: [Der Pragmatismus](position_der_pragmatismus.md)
 - `process`: [Die Firmenansiedlung](process_die_firmenansiedlung.md)
-- `process`: [Speaking Dialect](process_speaking_dialect.md)
-- `process`: [Writing Standard](process_writing_standard.md)
-- `process`: [Speaking English](process_speaking_english.md)
 
 ## Tension
 
