@@ -1,7 +1,7 @@
 ---
 khai: pitch
-title: "Pitch: Basel-Landschaft"
-declared: "Basel-Landschaft"
+title: "The Baselbiet Key"
+declared: "die Baselbieter Tonart"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-08-31"
 ---
 
-# Pitch: Basel-Landschaft
+# Pitch: die Baselbieter Tonart
 
 ## Taxonomy
 

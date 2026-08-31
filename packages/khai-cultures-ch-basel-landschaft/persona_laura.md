@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Laura"
+type: archetype
 declared: "Laura"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -22,7 +23,7 @@ Die pragmatische Pharma-Pendlerin.
 
 ## Projection
 
-Sie verkörpert das moderne "Unterbaselbiet": wohlhabend, gebildet und stark auf das städtische Zentrum ausgerichtet.
+Sie verkörpert das moderne "Unterbaselbiet": wohlhabend, gebildet und stark auf das städtische Zentrum ausgerichtet. Ihr [Baselbieterdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) ist das, worin sie [denkt](process_thinking_mother_tongue.md); die Laborprotokolle und Meetings laufen auf [Englisch](@chbrain/khai-cultures-tongues/en/position_language_en.md), [das sie sich angeeignet hat](process_writing_drafted.md), und das [Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) der Steuererklärung [schreibt sie](process_writing_polished.md), ohne es zu reden. Sie trägt [die Agglomeration](position_die_agglomeration.md) ohne Kränkung, und gehört [der Baselbieter Kultur](position_culture_baselbieter_kultur.md) als die an, die hier wohnt und drüben arbeitet.
 
 ## Action
 

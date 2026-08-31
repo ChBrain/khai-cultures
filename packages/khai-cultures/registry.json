@@ -5749,12 +5749,14 @@
         {
           "file": "persona_fritz.md",
           "kind": "persona",
-          "title": "Persona: Fritz"
+          "title": "Persona: Fritz",
+          "type": "archetype"
         },
         {
           "file": "persona_laura.md",
           "kind": "persona",
-          "title": "Persona: Laura"
+          "title": "Persona: Laura",
+          "type": "archetype"
         },
         {
           "file": "piece_chienbaese.md",
@@ -5769,7 +5771,7 @@
         {
           "file": "pitch_basel_landschaft.md",
           "kind": "pitch",
-          "title": "Pitch: Basel-Landschaft"
+          "title": "The Baselbiet Key"
         },
         {
           "file": "place_liestal.md",
@@ -5784,8 +5786,7 @@
         {
           "file": "play_bl.md",
           "kind": "play",
-          "title": "Basel-Landschaft",
-          "taxonomy": "process_emanzipation.md"
+          "title": "Basel-Landschaft"
         },
         {
           "file": "plot_00_das_untertanengebiet.md",

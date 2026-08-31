@@ -24,15 +24,15 @@ Das moderne Paradoxon der suburbanen Unabhängigkeit.
 
 Die Ablehnung der Wiedervereinigung mit der Stadt an der Urne im Jahr 2014.
 
+## Action
+
+Der Kanton ist reich geworden. Er fungiert als ausgedehnte grüne Wohnzone für die Führungskräfte und Angestellten der städtischen Pharmaindustrie. Man arbeitet, feiert und konsumiert Kultur in der Stadt, weigert sich aber standhaft, die politische Souveränität aufzugeben oder die städtischen Soziallasten mitzutragen.
+
 ## Stage
 
 - `persona`: [Laura](persona_laura.md)
 - `position`: [Die Agglomeration](position_die_agglomeration.md)
 - `piece`: [Kirschbaum](piece_kirschbaum.md)
-
-## Event
-
-Der Kanton ist reich geworden. Er fungiert als ausgedehnte grüne Wohnzone für die Führungskräfte und Angestellten der städtischen Pharmaindustrie. Man arbeitet, feiert und konsumiert Kultur in der Stadt, weigert sich aber standhaft, die politische Souveränität aufzugeben oder die städtischen Soziallasten mitzutragen.
 
 ## Tension
 

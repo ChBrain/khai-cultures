@@ -24,14 +24,14 @@ Die kulturelle Wandlung vom Bauern- zum Arbeiterkanton.
 
 Der Bau der Waldenburgerbahn und die Ansiedlung von Bandwebereien.
 
+## Action
+
+Der arme Agrarkanton industrialisiert sich in den Tälern. Textil- und Uhrenindustrie bringen bescheidenen Wohlstand, verändern aber das soziale Gefüge: Neben den stolzen Landwirten entsteht eine ländliche Arbeiterschaft, die hart arbeitet und stark gewerkschaftlich organisiert ist.
+
 ## Stage
 
 - `place`: [Die Tafeljura-Hügel](place_tafeljura_huegel.md)
 - `persona`: [Fritz](persona_fritz.md)
-
-## Event
-
-Der arme Agrarkanton industrialisiert sich in den Tälern. Textil- und Uhrenindustrie bringen bescheidenen Wohlstand, verändern aber das soziale Gefüge: Neben den stolzen Landwirten entsteht eine ländliche Arbeiterschaft, die hart arbeitet und stark gewerkschaftlich organisiert ist.
 
 ## Tension
 

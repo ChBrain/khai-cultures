@@ -22,17 +22,17 @@ Die gewaltsame und traumatische Spaltung des Kantons.
 
 ## Cue
 
-Die Schlacht an der Hülftenschanz.
+Der Morgen an der Hülftenschanz, an dem die Landschaft auf die Truppen der Stadt trifft und die Trennung nicht mehr verhandelt, sondern entschieden wird.
+
+## Action
+
+Nach Jahren der politischen Benachteiligung erhebt sich die Landschaft. In einem kurzen, aber blutigen Bürgerkrieg besiegen die Baselbieter Truppen das städtische Militär. Die eidgenössische Tagsatzung besiegelt die Trennung in zwei Halbkantone. Die Landschaft wird endlich souverän.
 
 ## Stage
 
 - `place`: [Liestal](place_liestal.md)
 - `piece`: [Chienbäse](piece_chienbaese.md)
 - `process`: [Emanzipation](process_emanzipation.md)
-
-## Event
-
-Nach Jahren der politischen Benachteiligung erhebt sich die Landschaft. In einem kurzen, aber blutigen Bürgerkrieg besiegen die Baselbieter Truppen das städtische Militär. Die eidgenössische Tagsatzung besiegelt die Trennung in zwei Halbkantone. Die Landschaft wird endlich souverän.
 
 ## Tension
 

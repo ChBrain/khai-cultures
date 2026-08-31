@@ -24,14 +24,14 @@ Die kulturelle Prägung durch jahrhundertelange Abhängigkeit.
 
 Die städtischen Vögte verwalten die ländlichen Gebiete und erheben Steuern, ohne politische Mitbestimmung zu gewähren.
 
+## Action
+
+Die Landschaftsgebiete rund um Basel sind reines Untertanengebiet der städtischen Zünfte. Das Landvolk zahlt Zehnten, leistet Militärdienst für die Stadt und hat keine eigenen Rechte, was einen tiefen, lodernden Groll gegen die städtische Obrigkeit schürt.
+
 ## Stage
 
 - `position`: [Baselbieter Kultur](position_culture_baselbieter_kultur.md)
 - `process`: [Emanzipation](process_emanzipation.md)
-
-## Event
-
-Die Landschaftsgebiete rund um Basel sind reines Untertanengebiet der städtischen Zünfte. Das Landvolk zahlt Zehnten, leistet Militärdienst für die Stadt und hat keine eigenen Rechte, was einen tiefen, lodernden Groll gegen die städtische Obrigkeit schürt.
 
 ## Tension
 

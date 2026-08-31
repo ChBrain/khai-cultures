@@ -34,4 +34,4 @@ Die historische und dörfliche Authentizität; viele Gemeinden sind zu gesichtsl
 
 ## Drives
 
-Das Festhalten am Status quo, bei dem man die Vorteile beider Welten – städtischer Arbeitsmarkt und ländliches Wohnen – maximal ausnutzt.
+Das Festhalten am Status quo, bei dem man die Vorteile beider Welten - - - städtischer Arbeitsmarkt und ländliches Wohnen - - - maximal ausnutzt.
