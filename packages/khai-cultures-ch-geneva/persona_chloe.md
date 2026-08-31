@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Chloé"
+type: archetype
 declared: "Chloé"
 language: fr
 license: CC-BY-NC-SA-4.0
@@ -13,21 +14,25 @@ stamp:
 # Persona: Chloé
 
 ## Taxonomy
-La diplomate humanitaire en transit perpétuel.
+
+La fonctionnaire internationale déracinée.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Projection
-Un visage d'empathie globale, portant le poids du monde avec une urgence méticuleusement chorégraphiée, parlant le langage universel des ONG dans les salons lambrissés.
+
+Elle incarne l'hubris humanitaire et diplomatique. Elle navigue dans [La Ville Internationale](position_la_ville_internationale.md). Elle maîtrise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'elle [parle](process_speaking_french.md) et [écrit](process_writing_french.md) avec un vocabulaire onusien lissé.
 
 ## Action
-Elle navigue entre les crises humanitaires via des feuilles de calcul et des déjeuners au bord du lac, ignorant les quartiers populaires locaux tout en dénonçant la pauvreté mondiale.
+
+Elle passe d'une réunion sur les droits de l'homme au Palais des Nations à un cocktail dans le quartier des Eaux-Vives. Pour elle, Genève n'est pas une ville avec une histoire, mais un aéroport de luxe et un centre de conférences permanent.
 
 ## Shadow
-Elle prêche la solidarité universelle mais se complaît dans un confort fiscal dédouané, isolée des réalités locales par l'immunité diplomatique et l'indifférence de classe.
+
+Elle vit dans une bulle dorée, totalement déconnectée des réalités locales. Sous ses discours sur la pauvreté mondiale se cache une incapacité totale à interagir avec le Genevois moyen, qu'elle trouve provincial et hostile. Son humanisme s'arrête aux portes de son badge ONU.
 
 ## Tell
-Un badge d'accès bleu des Nations Unies toujours visible, même lorsqu'elle achète son matcha latte au tarif exorbitant des Eaux-Vives.
 
+Elle porte toujours son badge d'accréditation onusien autour du cou, même au supermarché, comme un talisman d'immunité diplomatique.

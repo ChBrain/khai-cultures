@@ -13,6 +13,7 @@ stamp:
 # Plot: La Bulle Internationale
 
 ## Taxonomy
+
 La ségrégation sociologique par la prospérité.
 
 ## Owner
@@ -20,7 +21,12 @@ La ségrégation sociologique par la prospérité.
 - Project: khai-cultures
 
 ## Cue
+
 Les embouteillages dantesques des travailleurs frontaliers refoulés en France.
+
+## Action
+
+Genève mute en une caricature d'elle-même. C'est l'épicentre du commerce mondial et de la diplomatie onusienne. 40 % de la population ne vote pas, ignorant tout du système politique local. La pression immobilière est si violente que la classe moyenne indigène est expulsée hors des frontières, tandis que l'oligarchie internationale savoure ses privilèges défiscalisés.
 
 ## Stage
 
@@ -28,10 +34,10 @@ Les embouteillages dantesques des travailleurs frontaliers refoulés en France.
 - `persona`: [Chloé](persona_chloe.md)
 - `persona`: [Jacques](persona_jacques.md)
 - `position`: [La Ville Internationale](position_la_ville_internationale.md)
-
-## Event
-Genève mute en une caricature d'elle-même. C'est l'épicentre du commerce mondial et de la diplomatie onusienne. 40 % de la population ne vote pas, ignorant tout du système politique local. La pression immobilière est si violente que la classe moyenne indigène est expulsée hors des frontières, tandis que l'oligarchie internationale savoure ses privilèges défiscalisés.
+- `position`: [La République](position_culture_la_republique.md)
+- `process`: [Speaking French](process_speaking_french.md)
+- `process`: [Writing French](process_writing_french.md)
 
 ## Tension
-Une haine sourde et muette entre l'élite globale qui a volé la ville et les exilés locaux qui doivent traverser une frontière chaque matin pour servir leurs maîtres.
 
+Une haine sourde et muette entre l'élite globale qui a volé la ville et les exilés locaux qui doivent traverser une frontière chaque matin pour servir leurs maîtres.

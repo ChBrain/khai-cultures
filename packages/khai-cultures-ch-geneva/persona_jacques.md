@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Jacques"
+type: archetype
 declared: "Jacques"
 language: fr
 license: CC-BY-NC-SA-4.0
@@ -13,21 +14,25 @@ stamp:
 # Persona: Jacques
 
 ## Taxonomy
-Le patricien calviniste retranché.
+
+Le patricien protestant genevois.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Projection
-Une austérité vestimentaire impeccable qui dissimule une fortune dynastique, le regard froid de celui dont la famille juge la ville depuis quatre siècles.
+
+Il incarne la vieille République calviniste, discrète et austère. Il détient [La République](position_culture_la_republique.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](process_speaking_french.md) et [écrit](process_writing_french.md) avec une précision presque religieuse.
 
 ## Action
-Il gère des capitaux mondiaux colossaux en murmurant, détestant le bruit et le faste, et milite discrètement pour fermer les frontières aux nouveaux arrivants.
+
+Il gère discrètement la fortune familiale dans une banque privée sans enseigne lumineuse. Il siège au conseil de paroisse et participe à l'Escalade avec une ferveur solennelle. Face à l'afflux diplomatique, il se retranche dans les cercles fermés de la vieille ville.
 
 ## Shadow
-Un ressentiment purulent envers cette ville qu'il ne reconnaît plus, couplé à l'hypocrisie de s'enrichir grâce aux mêmes étrangers qu'il méprise profondément.
+
+Son humilité affichée masque un orgueil de classe redoutable. Il méprise secrètement les diplomates de passage et l'argent clinquant de la finance internationale, tout en sachant pertinemment que sa propre banque dépend de ces mêmes flux opaques.
 
 ## Tell
-Une montre de la vallée de Joux, inestimable mais sans aucun diamant, glissée sous la manche d'une chemise élimée au poignet.
 
+Il conduit une Volvo vieille de quinze ans, parfaitement entretenue, pour masquer le fait que son compte en banque comporte huit chiffres.

@@ -13,6 +13,7 @@ stamp:
 # Position: La Ville Internationale
 
 ## Taxonomy
+
 Le théâtre aseptisé de la gouvernance globale.
 
 ## Owner
@@ -20,14 +21,17 @@ Le théâtre aseptisé de la gouvernance globale.
 - Project: khai-cultures
 
 ## Has
+
 Les clés du droit international, des salaires faramineux et un mépris institutionnalisé pour le droit local, masqué par une rhétorique humanitaire boursouflée.
 
 ## Orders
+
 Le nivellement de l'espace urbain en un aéroport VIP géant, où l'anglais écrase le français, et où les loyers excluent quiconque n'est pas subventionné par une ambassade.
 
 ## Loses
+
 Tout ancrage communautaire. C'est une ville sans âme, une plateforme de transit luxueuse où personne n'a l'intention de mourir ou de s'enraciner.
 
 ## Drives
-L'expansion vorace d'une bulle économique parasitaire, qui pompe l'espace et l'énergie de la région tout en s'excluant de ses devoirs sociaux.
 
+L'expansion vorace d'une bulle économique parasitaire, qui pompe l'espace et l'énergie de la région tout en s'excluant de ses devoirs sociaux.
