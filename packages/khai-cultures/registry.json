@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.302.0",
+  "version": "0.303.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5825,6 +5825,109 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-basel-landschaft"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_basel_stadt",
+      "title": "Basel-Stadt",
+      "description": "Basel-Stadt: A humanist city-state at the border, balancing patrician tradition with its global life sciences industry.",
+      "iso": "ch-bs",
+      "members": [
+        {
+          "file": "persona_dr_hoffmann.md",
+          "kind": "persona",
+          "title": "Persona: Dr. Hoffmann",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_res.md",
+          "kind": "persona",
+          "title": "Persona: Res",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_sarah.md",
+          "kind": "persona",
+          "title": "Persona: Sarah",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_basler_laeckerli.md",
+          "kind": "piece",
+          "title": "Piece: Basler Läckerli"
+        },
+        {
+          "file": "piece_fasnachts_larve.md",
+          "kind": "piece",
+          "title": "Piece: Fasnachtslarve"
+        },
+        {
+          "file": "pitch_basel_stadt.md",
+          "kind": "pitch",
+          "title": "The Basel Key"
+        },
+        {
+          "file": "place_marktplatz.md",
+          "kind": "place",
+          "title": "Place: Marktplatz"
+        },
+        {
+          "file": "place_rheinknie.md",
+          "kind": "place",
+          "title": "Place: Rheinknie"
+        },
+        {
+          "file": "place_roche_tuerme.md",
+          "kind": "place",
+          "title": "Place: Roche Türme"
+        },
+        {
+          "file": "play_bs.md",
+          "kind": "play",
+          "title": "Basel-Stadt"
+        },
+        {
+          "file": "plot_00_der_humanismus.md",
+          "kind": "plot",
+          "title": "Plot: Der Humanismus"
+        },
+        {
+          "file": "plot_01_die_zunftherrschaft_1529.md",
+          "kind": "plot",
+          "title": "Plot: Die Zunftherrschaft 1529"
+        },
+        {
+          "file": "plot_02_die_trennung_1833.md",
+          "kind": "plot",
+          "title": "Plot: Die Trennung 1833"
+        },
+        {
+          "file": "plot_03_die_chemische_wende.md",
+          "kind": "plot",
+          "title": "Plot: Die Chemische Wende"
+        },
+        {
+          "file": "plot_99_das_globale_dorf.md",
+          "kind": "plot",
+          "title": "Plot: Das Globale Dorf"
+        },
+        {
+          "file": "position_culture_basler_kultur.md",
+          "kind": "position",
+          "title": "Position: Basler Kultur"
+        },
+        {
+          "file": "position_die_grenzstadt.md",
+          "kind": "position",
+          "title": "Position: Die Grenzstadt"
+        },
+        {
+          "file": "process_morgenstreich.md",
+          "kind": "process",
+          "title": "Process: Morgenstreich"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-basel-stadt"
     },
     {
       "kind": "culture",
