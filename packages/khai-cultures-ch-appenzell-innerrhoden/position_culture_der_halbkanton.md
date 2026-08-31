@@ -9,6 +9,7 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
+
 # Position: Der Halbkanton
 
 ## Taxonomy

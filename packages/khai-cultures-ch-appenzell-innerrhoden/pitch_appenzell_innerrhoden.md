@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "Pitch: Appenzell Innerrhoden"
-declared: "Appenzell Innerrhoden"
+declared: "Appenzell Innerrhoden (Pitch)"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -9,6 +9,7 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
+
 # Pitch: Appenzell Innerrhoden
 
 ## Taxonomy

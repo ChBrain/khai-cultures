@@ -9,6 +9,7 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
+
 # Plot: Die Landteilung 1597
 
 ## Taxonomy
@@ -23,14 +24,14 @@ Der friedliche Schisma als Gründungsakt.
 
 Die Glaubensspaltung frisst sich wie Säure durch die Familien des alten Appenzell, bis der Riss unüberbrückbar wird.
 
+## Action
+
+Anstatt das Land in einem Bruderkrieg in Blut zu ertränken, ziehen sie 1597 einen eiskalten, bürokratischen Strich durch ihre Welt. Sie teilen den Kanton. Innerrhoden zieht sich in den Talkessel zurück, verriegelt die Türen gegen den Protestantismus und entscheidet sich für eine hermetische, katholische Isolation.
+
 ## Stage
 
 - `position`: [Der Halbkanton](position_culture_der_halbkanton.md)
 - `persona`: [Sepp](persona_sepp.md)
-
-## Event
-
-Anstatt das Land in einem Bruderkrieg in Blut zu ertränken, ziehen sie 1597 einen eiskalten, bürokratischen Strich durch ihre Welt. Sie teilen den Kanton. Innerrhoden zieht sich in den Talkessel zurück, verriegelt die Türen gegen den Protestantismus und entscheidet sich für eine hermetische, katholische Isolation.
 
 ## Tension
 

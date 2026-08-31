@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Sepp"
+type: archetype
 declared: "Sepp"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -9,6 +10,7 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
+
 # Persona: Sepp
 
 ## Taxonomy
@@ -21,7 +23,7 @@ Der traditionsbewusste Appenzeller Bauer.
 
 ## Projection
 
-Der archaische, erdverbundene Bergbauer, ein Monument der Beständigkeit. Nach außen verkörpert er das idealisierte Herz der Schweiz: ehrlich, unbeugsam und in perfekter Symbiose mit einer Natur, die keinen Wandel fordert.
+Der archaische, erdverbundene Bergbauer, ein Monument der Beständigkeit. Nach außen verkörpert er das idealisierte Herz der Schweiz: ehrlich, unbeugsam und in perfekter Symbiose mit einer Natur, die keinen Wandel fordert. Er verteidigt [den Halbkanton](position_culture_der_halbkanton.md) und [den Widerstand](position_der_widerstand.md) gegen Bern. Seine Sprache ist sein [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), in dem er [denkt und spricht](process_speaking_dialect.md), während er das [Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) nur widerwillig [schreibt](process_writing_standard.md).
 
 ## Action
 

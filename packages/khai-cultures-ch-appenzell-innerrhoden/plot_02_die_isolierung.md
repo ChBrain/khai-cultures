@@ -9,6 +9,7 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
+
 # Plot: Die Isolierung
 
 ## Taxonomy
@@ -23,14 +24,14 @@ Die bewusste Abwehr der Moderne.
 
 Der rauchende Atem der Textilfabriken, der im 19. Jahrhundert das benachbarte Ausserrhoden in eine nervöse, stampfende Moderne zwingt.
 
+## Action
+
+Während drüben die Webstühle den Reichtum und den proletarischen Schmutz der Industrialisierung gebären, verschließt Innerrhoden die Tore. Keine Schornsteine, keine Massenproduktion. Sie klammern sich an Heugabeln und Rosenkränze und nehmen die schleichende Verarmung als Preis für eine unangetastete, pastorale Seele in Kauf.
+
 ## Stage
 
 - `position`: [Der Widerstand](position_der_widerstand.md)
 - `persona`: [Sepp](persona_sepp.md)
-
-## Event
-
-Während drüben die Webstühle den Reichtum und den proletarischen Schmutz der Industrialisierung gebären, verschließt Innerrhoden die Tore. Keine Schornsteine, keine Massenproduktion. Sie klammern sich an Heugabeln und Rosenkränze und nehmen die schleichende Verarmung als Preis für eine unangetastete, pastorale Seele in Kauf.
 
 ## Tension
 

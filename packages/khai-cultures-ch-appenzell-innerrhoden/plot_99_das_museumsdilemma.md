@@ -9,6 +9,7 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
+
 # Plot: Das Museumsdilemma
 
 ## Taxonomy
@@ -23,15 +24,17 @@ Das Überleben als pittoreske Kulisse.
 
 Das Blitzlichtgewitter asiatischer und amerikanischer Touristen, das die Trachten und Sennen zu einer lebenden Postkarte degradiert.
 
+## Action
+
+Das nackte Überleben hat einen zynischen Preis gefordert. Innerrhoden lebt heute prächtig vom Tourismus. Man verkauft die eigene Rückständigkeit als romantische "Authentizität". Die Bewohner spielen ihre eigenen Ahnen, konservieren ihr Leben wie Insekten in Bernstein, um den melancholischen Hunger der Städter nach einer heilen Welt zu stillen.
+
 ## Stage
 
 - `position`: [Der Halbkanton](position_culture_der_halbkanton.md)
 - `position`: [Der Widerstand](position_der_widerstand.md)
+- `process`: [Speaking Dialect](process_speaking_dialect.md)
+- `process`: [Writing Standard](process_writing_standard.md)
 - `persona`: [Sepp](persona_sepp.md)
-
-## Event
-
-Das nackte Überleben hat einen zynischen Preis gefordert. Innerrhoden lebt heute prächtig vom Tourismus. Man verkauft die eigene Rückständigkeit als romantische "Authentizität". Die Bewohner spielen ihre eigenen Ahnen, konservieren ihr Leben wie Insekten in Bernstein, um den melancholischen Hunger der Städter nach einer heilen Welt zu stillen.
 
 ## Tension
 
