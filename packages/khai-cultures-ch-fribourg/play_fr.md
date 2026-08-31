@@ -1,7 +1,7 @@
-﻿---
+---
 khai: play
 title: "Fribourg"
-description: "Fribourg: The stubborn Catholic bastion that built an intellectual elite and now bridges the French-German linguistic divide."
+description: "Fribourg: The Catholic bastion that built an elite and now bridges the French-German linguistic divide."
 declared: "Fribourg"
 language: fr
 license: CC-BY-NC-SA-4.0
