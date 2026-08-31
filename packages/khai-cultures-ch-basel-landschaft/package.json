@@ -1,0 +1,33 @@
+{
+  "name": "@chbrain/khai-cultures-ch-basel-landschaft",
+  "version": "0.1.0",
+  "description": "khai cultures: ch_basel_landschaft",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "type": "module",
+  "files": [
+    "*.md",
+    "geo.json",
+    "coverage-waivers.json",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "class": "house",
+    "production": "ch_basel_landschaft",
+    "anchor": "play_bl.md"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-switzerland": "^0.1.0",
+    "@chbrain/khai-cultures-tongues": "^0.27.0",
+    "@chbrain/khai-engine-language": "^0.1.5",
+    "@chbrain/khai-engine-spine": "^0.1.5"
+  }
+}
