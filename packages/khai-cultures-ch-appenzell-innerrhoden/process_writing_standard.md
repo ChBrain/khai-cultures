@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Das formelle Schriftdeutsch.
+Das formelle Schriftdeutsch für den Verkehr mit den Bundesbehörden.
 
 ## Owner
 
@@ -22,16 +22,16 @@ Das formelle Schriftdeutsch.
 
 ## Initiated by
 
-Bundesbern und Behörden.
+Bundesbern und Behörden, die schriftliche Formulare und rechtliche Unterlagen einfordern.
 
 ## Direction
 
-Schriftlich.
+Ausschließlich schriftlich, um rechtliche Rahmenbedingungen und Vorschriften zu erfüllen.
 
 ## Lever
 
-Rechtliche Bindung.
+Rechtliche Bindung und die notwendige Interaktion mit dem übergeordneten Staatswesen.
 
 ## Echo
 
-Die formelle Fremdsprache.
+Die formelle Fremdsprache, die den Einheimischen stets daran erinnert, dass er nicht autark ist.

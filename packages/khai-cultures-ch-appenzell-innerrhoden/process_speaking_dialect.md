@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Der archaische Appenzeller Dialekt.
+Der archaische Appenzeller Dialekt, der die Gemeinschaft nach innen bindet.
 
 ## Owner
 
@@ -22,16 +22,16 @@ Der archaische Appenzeller Dialekt.
 
 ## Initiated by
 
-Dem Appenzeller.
+Dem einheimischen Appenzeller, der sich damit bewusst von der städtischen Welt abgrenzt.
 
 ## Direction
 
-Mündlich.
+Mündlich in jedem Alltagsgespräch, auf dem Dorfplatz und bei der Landsgemeinde.
 
 ## Lever
 
-Kulturelle Isolation.
+Die absolute kulturelle Isolation und die Pflege der eigenen, unantastbaren Identität.
 
 ## Echo
 
-Der Zäuerli-Gesang.
+Der Zäuerli-Gesang, der als wortloser Schrei gegen das Vergessen der Tradition ankämpft.
