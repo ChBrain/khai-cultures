@@ -22,7 +22,8 @@ L'âge d'or des palaces et de la tuberculose.
 L'arrivée du chemin de fer et l'essor du tourisme médical de luxe transforment la Riviera en salle de bal pour l'aristocratie européenne.
 
 ## Stage
-Les quais de Montreux et Vevey, où s'alignent les grands hôtels majestueux. Le paysan côtoie l'impératrice Sissi, Dostoïevski et les exilés fortunés.
+- `piece`: [Le Bateau à Vapeur](piece_le_bateau_a_vapeur.md)
+- `position`: [L'Esprit Olympique](position_l_esprit_olympique.md)
 
 ## Event
 L'urbanisation de la Riviera et l'internationalisation fulgurante du canton. Les fortunes se construisent sur l'accueil, les banques fleurissent et Lausanne se rêve en métropole, jetant les bases qui attireront plus tard le Comité International Olympique.

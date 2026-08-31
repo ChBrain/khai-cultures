@@ -22,7 +22,7 @@ L'âge des chevaliers et des abbayes.
 La construction des grands châteaux et l'influence des ducs de Savoie sur les terres lémaniques.
 
 ## Stage
-Un territoire morcelé par des ambitions féodales, où l'évêché de Lausanne tente de maintenir son pouvoir spirituel pendant que la noblesse savoyarde impose sa loi temporelle.
+- `place`: [Le Château de Chillon](place_chateau_de_chillon.md)
 
 ## Event
 L'établissement d'une cour brillante. Les ducs de Savoie fortifient Chillon, Moudon et Yverdon, apportant avec eux la langue, l'administration, et une culture courtoise qui façonne la noblesse locale et trace les premières frontières d'un "Pays de Vaud".

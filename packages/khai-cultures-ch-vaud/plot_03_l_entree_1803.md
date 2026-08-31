@@ -22,7 +22,8 @@ Le couronnement de la patience.
 L'Acte de Médiation imposé par Bonaparte érige enfin le canton de Vaud en État souverain et membre à part entière de la Confédération suisse.
 
 ## Stage
-Le 14 avril, le premier Grand Conseil vaudois se réunit. La devise "Liberté et Patrie" est brodée sur le drapeau cantonal vert et blanc.
+- `position`: [La Romandie](position_culture_la_romandie.md)
+- `persona`: [Le Vigneron](persona_le_vigneron.md)
 
 ## Event
 La construction d'un État. La bourgeoisie fonde ses institutions, rédige sa constitution, et se donne les moyens de son indépendance. Le Vaudois, d'ancien sujet, devient citoyen de sa propre terre et d'une Suisse nouvelle, forgeant une fierté patriotique inébranlable.

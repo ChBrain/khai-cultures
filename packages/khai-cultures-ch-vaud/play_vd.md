@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Vaud"
-description: "Vaud: The proud agricultural and cultural heart of the Romandie, balancing its lake riviera with deep wine-growing roots."
+description: "Vaud: The proud agricultural heart of the Romandie, balancing its lake riviera with deep wine-growing roots."
 declared: "Vaud"
 language: fr
 license: CC-BY-NC-SA-4.0

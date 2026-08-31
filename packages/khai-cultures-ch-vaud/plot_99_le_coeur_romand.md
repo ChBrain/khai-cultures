@@ -22,7 +22,10 @@ Le pivot central de l'Helvétie francophone.
 La centralité incontestée de Lausanne et du Vaud comme moteur culturel, éducatif et économique de la Suisse romande face au bloc alémanique.
 
 ## Stage
-Des studios de la RTS aux amphithéâtres de l'Université de Lausanne et de l'EPFL, reliant Genève à l'Ouest et Fribourg/Valais à l'Est.
+- `persona`: [L'Étudiant EPFL](persona_l_etudiant_epfl.md)
+- `place`: [Lavaux](place_lavaux.md)
+- `piece`: [Le Chasselas](piece_le_chasselas.md)
+- `position`: [La Romandie](position_culture_la_romandie.md)
 
 ## Event
 La consolidation de son rôle de "grand frère" romand. Vaud porte sur ses épaules le poids de la représentativité francophone à Berne, défendant le service public et le fédéralisme face aux appétits centralisateurs zurichois.
