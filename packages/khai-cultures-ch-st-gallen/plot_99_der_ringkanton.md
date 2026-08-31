@@ -19,7 +19,7 @@ Die dezentrale Ostschweizer Metropole.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Ein Politiker aus der Hauptstadt versucht in einem abgelegenen Bergtal eine Rede zu halten und wird von ohrenbetäubenden Treicheln und Gelächter übertönt.
 
 ## Stage
 - `piece`: [Die Olma-Bratwurst](piece_die_olma_bratwurst.md)
@@ -27,7 +27,7 @@ Die dezentrale Ostschweizer Metropole.
 - `process`: [Die Olma](process_die_olma.md)
 
 ## Event
-[placeholder]
+Die schleichende Emanzipation der Talschaften. Der Kanton akzeptiert zähneknirschend seine Natur als dezentrales Netzwerk starker, eigenwilliger Regionen, die das Zentrum nur als Verwaltung dulden.
 
 ## Tension
-[placeholder]
+Die Hauptstadt verliert ihren imperialen Anspruch, während die Peripherie dominiert. Es ist ein permanenter, nervöser Drahtseilakt zwischen Zerfall und pragmatischer Koexistenz.

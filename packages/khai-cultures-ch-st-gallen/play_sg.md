@@ -20,13 +20,13 @@ Das Flickwerk der Exportweltmeister.
 - Project: khai-cultures
 
 ## Arc
-Die Geschichte eines tausendjährigen katholischen Klosterstaates (der Fürstabtei) und der sie bitter bekämpfenden protestantischen Handelsstadt. 1803 schweisste Napoleon diese verfeindeten Gebiete künstlich zu einem "Ringkanton" zusammen. Der Kanton fand seine Einheit erst im späten 19. Jahrhundert durch den globalen Boom der Stickereiindustrie, überlebte deren katastrophalen Zusammenbruch in den 1920er Jahren und besteht heute als dezentraler Kanton der starken Talschaften.
+Die tragische und funkelnde Geschichte eines zerrissenen Raums. Ein tausendjähriger, allmächtiger katholischer Klosterstaat und eine kalte, protestantische Handelsstadt bekämpften sich bis aufs Blut, bevor Napoleons Feder sie 1803 in das künstliche Korsett eines „Ringkantons“ presste. Erst im späten 19. Jahrhundert fand dieses Frankenstein-Gebilde eine flüchtige, delirierende Seele durch den globalen Goldrausch der Stickerei – bis der grausame Kollaps der 1920er Jahre die Stadt in den Abgrund riss und einen traumatisierten, pragmatischen und dezentralen Kanton zurückliess.
 
 ## Name
 Kanton St. Gallen.
 
 ## Stakes
-Wie schafft man eine gemeinsame Identität, wenn man als künstliches Konstrukt verfeindeter Täler geboren wurde und der einzige verbindende Reichtum zusammenbrach?
+Wie überlebt eine künstlich erzwungene Schicksalsgemeinschaft, wenn ihr einziger gemeinsamer Nenner – der wahnwitzige, weltumspannende Reichtum – in Staub zerfallen ist und nur das Misstrauen der Talschaften übrigbleibt?
 
 ## Estate
 - House: packages/khai-cultures/README.md

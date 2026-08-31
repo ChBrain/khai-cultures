@@ -19,14 +19,14 @@ Die künstliche Staatsgründung.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Ein französischer Offizier zeichnet mit einem feinen Kohlestift eine willkürliche Linie über eine Landkarte und zwingt Täler zusammen, die sich seit Jahrhunderten verabscheuen.
 
 ## Stage
 - `position`: [Der Ringkanton](position_culture_der_ringkanton.md)
 - `place`: [Der Stiftsbezirk](place_der_stiftsbezirk.md)
 
 ## Event
-[placeholder]
+Die künstliche Gründung des Kantons St. Gallen. Die Fürstabtei wird zerschlagen, und die stolzen Talschaften werden als "Ringkanton" um eine Stadt geschmiedet, die sie als Fremdkörper empfinden.
 
 ## Tension
-[placeholder]
+Ein administrativer Gewaltakt zwingt stolze, lokale Kulturen in eine Ehe ohne Liebe. Der neue Kanton ist ein Körper ohne Herz, dessen Gliedmassen ständig drohen, sich gegenseitig abzureissen.

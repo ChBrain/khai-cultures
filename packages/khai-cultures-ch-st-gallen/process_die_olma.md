@@ -19,13 +19,13 @@ Die landwirtschaftliche Identitätsmesse.
 - Project: khai-cultures
 
 ## Initiated by
-[placeholder]
+Dem panischen Bedürfnis, den zerstrittenen Ringkanton wenigstens einmal im Jahr an einen gemeinsamen Tisch – oder an eine gemeinsame Bratwurst – zu zwingen.
 
 ## Direction
-[placeholder]
+Sie kanalisiert die agrarische Nostalgie in ein massenkompatibles, alkoholseliges Fest der Volksverbundenheit, das urbane und ländliche Gräben kurzfristig zuschüttet.
 
 ## Lever
-[placeholder]
+Das Schweinerennen und der unerbittliche Verzicht auf Senf zur Bratwurst fungieren als kulturelle Schibboleths, die einen sofortigen, unhinterfragten Konsens erzwingen.
 
 ## Echo
-[placeholder]
+Ein brummender Kater am nächsten Morgen und die wehmütige Erkenntnis, dass die künstliche Einheit nur solange hält, wie das Bier in Strömen fliesst.

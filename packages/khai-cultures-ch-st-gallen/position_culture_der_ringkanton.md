@@ -19,13 +19,13 @@ Die dezentrale künstliche Identität.
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Ein tiefes, genetisches Misstrauen gegenüber jedem Zentralismus, eine zersplitterte, aber wehrhafte Identität der einzelnen Talschaften.
 
 ## Orders
-[placeholder]
+Die ewige Vermittlung zwischen den extremen Polen: See, Land, Berg und Stadt. Er ordnet das Chaos durch stoische Pragmatik und endlose Kompromisse.
 
 ## Loses
-[placeholder]
+Jegliche emotionale Kohäsion. Es gibt kein loderndes patriotisches Feuer für "St. Gallen", sondern nur einen unterkühlten Zweckverband.
 
 ## Drives
-[placeholder]
+Die blanke Notwendigkeit, in der föderalistischen Schweiz als ernstzunehmende Kraft zu überleben, auch wenn man sich innerlich am liebsten in acht Kantone aufteilen würde.

@@ -19,7 +19,7 @@ Das traumatische Ende des Reichtums.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Ein leises Klopfen an der Mahagonitür: Der Buchhalter überreicht dem Stickereibaron ein Telegramm aus New York. Die Bestellungen sind über Nacht storniert.
 
 ## Stage
 - `persona`: [Der Stickereibaron](persona_der_stickereibaron.md)
@@ -27,7 +27,7 @@ Das traumatische Ende des Reichtums.
 - `position`: [Die Exportwirtschaft](position_die_exportwirtschaft.md)
 
 ## Event
-[placeholder]
+Der totale Zusammenbruch in den 1920er Jahren. Mode ändert sich, Märkte brechen weg. Maschinen werden als Schrott verkauft, Villen stehen leer, tausende Familien fallen ins Bodenlose.
 
 ## Tension
-[placeholder]
+Die brutale Desillusionierung einer Stadt, die sich für unverwundbar hielt. Der rasante Aufstieg war eine Lüge des Kapitals; nun müssen die St. Galler mit den Ruinen ihrer Hybris leben.

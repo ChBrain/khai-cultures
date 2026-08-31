@@ -19,13 +19,13 @@ Der kosmopolitische Industrielle.
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Der weltgewandte Pionier, der den globalen Markt beherrscht. Er kleidet sich in Pariser Mode, residiert in palastartigen Villen und glaubt, dass Fleiss und Innovation jeden göttlichen Segen ersetzen.
 
 ## Action
-[placeholder]
+Er baut prunkvolle Geschäftshäuser, knüpft Netzwerke bis nach New York und drückt die Löhne der Heimarbeiterinnen in den dunklen Tälern, um seine Gewinnmarge zu maximieren.
 
 ## Shadow
-[placeholder]
+Eine bodenlose Leere, die sich nur durch immer mehr Prunk betäuben lässt. Er ist ein Parvenü auf Pump, getrieben von der panischen Gewissheit, dass ein Wimpernschlag der Weltbörse sein Imperium zu Staub zermahlen kann.
 
 ## Tell
-[placeholder]
+Ein nervöses Ticken der Taschenuhrkette zwischen Daumen und Zeigefinger, wann immer von neuen Zöllen oder Konkurrenten die Rede ist.

@@ -19,7 +19,7 @@ Der globale Textilboom der Belle Époque.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Das ohrenbetäubende, rhythmische Schlagen der ersten Schifflistickmaschine zerreisst die ländliche Stille und kündigt das Zeitalter des globalen Rausches an.
 
 ## Stage
 - `persona`: [Der Stickereibaron](persona_der_stickereibaron.md)
@@ -27,7 +27,7 @@ Der globale Textilboom der Belle Époque.
 - `position`: [Die Exportwirtschaft](position_die_exportwirtschaft.md)
 
 ## Event
-[placeholder]
+Eine unaufhaltsame Goldgräberstimmung erfasst die Täler. Bauern werden zu Maschinenbedienern, Barone erbauen Villen im Jugendstil. St. Gallen exportiert die Hälfte der Weltproduktion an Spitzen.
 
 ## Tension
-[placeholder]
+Der Rausch der Neureichen überdeckt notdürftig die extreme Ausbeutung der Heimarbeiterinnen. Die Stadt tanzt am Abgrund eines gigantischen Kredits, geblendet von ihrer eigenen weltumspannenden Arroganz.
