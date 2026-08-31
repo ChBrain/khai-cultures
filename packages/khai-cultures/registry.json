@@ -5741,6 +5741,91 @@
     },
     {
       "kind": "culture",
+      "id": "ch_appenzell_innerrhoden",
+      "title": "Appenzell Innerrhoden",
+      "description": "Appenzell Innerrhoden: The archaic rural democracy resisting modern national interference.",
+      "iso": "ch-ai",
+      "members": [
+        {
+          "file": "persona_sepp.md",
+          "kind": "persona",
+          "title": "Persona: Sepp"
+        },
+        {
+          "file": "piece_appenzeller_kaese.md",
+          "kind": "piece",
+          "title": "Piece: Appenzeller Käse"
+        },
+        {
+          "file": "piece_das_seitengewehr.md",
+          "kind": "piece",
+          "title": "Piece: Das Seitengewehr"
+        },
+        {
+          "file": "pitch_appenzell_innerrhoden.md",
+          "kind": "pitch",
+          "title": "Pitch: Appenzell Innerrhoden"
+        },
+        {
+          "file": "place_alpstein.md",
+          "kind": "place",
+          "title": "Place: Der Alpstein"
+        },
+        {
+          "file": "place_landsgemeindeplatz.md",
+          "kind": "place",
+          "title": "Place: Der Landsgemeindeplatz"
+        },
+        {
+          "file": "play_ai.md",
+          "kind": "play",
+          "title": "Appenzell Innerrhoden"
+        },
+        {
+          "file": "plot_00_die_landteilung_1597.md",
+          "kind": "plot",
+          "title": "Plot: Die Landteilung 1597"
+        },
+        {
+          "file": "plot_01_der_alpaufzug.md",
+          "kind": "plot",
+          "title": "Plot: Der Alpaufzug"
+        },
+        {
+          "file": "plot_02_die_isolierung.md",
+          "kind": "plot",
+          "title": "Plot: Die Isolierung"
+        },
+        {
+          "file": "plot_03_das_frauenstimmrecht_1990.md",
+          "kind": "plot",
+          "title": "Plot: Das Frauenstimmrecht 1990"
+        },
+        {
+          "file": "plot_99_das_museumsdilemma.md",
+          "kind": "plot",
+          "title": "Plot: Das Museumsdilemma"
+        },
+        {
+          "file": "position_culture_der_halbkanton.md",
+          "kind": "position",
+          "title": "Position: Der Halbkanton"
+        },
+        {
+          "file": "position_der_widerstand.md",
+          "kind": "position",
+          "title": "Position: Der Widerstand"
+        },
+        {
+          "file": "process_die_landsgemeinde.md",
+          "kind": "process",
+          "title": "Process: Die Landsgemeinde"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-appenzell-innerrhoden"
+    },
+    {
+      "kind": "culture",
       "id": "ch_basel_landschaft",
       "title": "Basel-Landschaft",
       "description": "Basel-Landschaft: The rural hinterland that fought for independence, evolving into an affluent suburban belt.",
