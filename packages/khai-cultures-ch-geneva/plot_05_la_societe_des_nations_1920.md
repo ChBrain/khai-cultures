@@ -13,16 +13,14 @@ stamp:
 # Plot: La Société des Nations 1920
 
 ## Taxonomy
-
-L'établissement de l'infrastructure globale.
+L'invasion extraterritoriale de la diplomatie.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Cue
-
-Genève est choisie comme siège de la SdN.
+Woodrow Wilson pointe Genève sur une carte comme siège du nouveau monde.
 
 ## Stage
 
@@ -30,9 +28,8 @@ Genève est choisie comme siège de la SdN.
 - `persona`: [Chloé](persona_chloe.md)
 
 ## Event
-
-La ville accueille la première organisation politique mondiale (la SdN, ancêtre de l'ONU). Cela transforme physiquement la ville avec le Palais des Nations et attire une vague permanente de diplomates, fonctionnaires et expatriés internationaux.
+Le choix de Genève pour accueillir la Société des Nations brise à jamais le huis clos calviniste. Les rives du lac sont éventrées pour bâtir des palais d'illusions. Des armées de bureaucrates débarquent, implantant un régime parallèle d'immunité, d'impunité et de cocktails guindés.
 
 ## Tension
+L'éradication de l'âme locale par un essaim mondialiste qui traite la ville comme un simple hôtel cinq étoiles de la diplomatie.
 
-La création d'un microcosme extraterritorial géant qui fonctionne de manière complètement indépendante du reste de la Suisse.

@@ -13,16 +13,14 @@ stamp:
 # Plot: L'Entrée 1815
 
 ## Taxonomy
-
-L'adhésion pragmatique à la Suisse.
+Le mariage de raison humiliant.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Cue
-
-La fin de l'annexion napoléonienne et le Congrès de Vienne.
+La chute de l'Empire napoléonien laisse Genève exsangue et désenclavée.
 
 ## Stage
 
@@ -30,9 +28,8 @@ La fin de l'annexion napoléonienne et le Congrès de Vienne.
 - `position`: [La République](position_culture_la_republique.md)
 
 ## Event
-
-Après avoir été un département français, la République de Genève retrouve son indépendance mais réalise qu'elle ne peut plus survivre seule. Elle négocie son entrée dans la Confédération suisse, rattachant physiquement son territoire par le désenclavement (communes réunies).
+Réduite à un chef-lieu français anonyme pendant des années, l'élite patricienne gémit pour retrouver son aura. Incapable de survivre seule militairement, la fière République se résigne à demander la protection des pâtres suisses. Pour se raccorder physiquement au territoire, elle doit annexer des communes catholiques savoyardes et françaises.
 
 ## Tension
+L'humiliation d'une République brillante qui se vautre aux pieds d'une Confédération rustique pour survivre, tout en continuant à mépriser ouvertement ses nouveaux compatriotes.
 
-Devenir un canton suisse par pure nécessité géographique et militaire, tout en se considérant toujours culturellement supérieur au reste du pays.

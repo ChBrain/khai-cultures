@@ -13,25 +13,21 @@ stamp:
 # Piece: Montre de Luxe
 
 ## Taxonomy
-
-L'expression matérielle du calvinisme industriel.
+Le chronographe de l'arrogance discrète.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Place
-
-Aux poignets des banquiers et dans les vitrines blindées de la rue du Rhône.
+Au poignet d'un banquier qui refuse de parler d'argent, enfermée dans un coffre-fort aux Ports Francs, ou brillamment exposée sur la rue du Rhône.
 
 ## Load Bearing
-
-C'est le seul bijou toléré par la morale protestante, devenu l'industrie d'exportation la plus prestigieuse de la ville.
+La sublimation de l'interdit calviniste du bijou en un outil mécanique, permettant l'étalage d'une richesse inouïe sous couvert d'utilité et de précision.
 
 ## Apparent
-
-Un assemblage mécanique d'une complexité vertigineuse (Patek Philippe, Rolex), vendu à des prix exorbitants, sans pile.
+Un instrument de mesure du temps, incarnation du génie artisanal et de la rigueur suisse.
 
 ## Yearbook
+1541 (Calvin interdit l'orfèvrerie) ; 21e siècle (les prix crèvent le plafond).
 
-Le génie technique huguenot transformé en symbole de statut global ultime.

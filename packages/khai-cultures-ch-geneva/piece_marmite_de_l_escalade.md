@@ -13,25 +13,21 @@ stamp:
 # Piece: La Marmite de l'Escalade
 
 ## Taxonomy
-
-Le symbole comestible de la victoire fondatrice.
+Le récipient en chocolat de la défiance civique.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Place
-
-Sur les tables de tous les Genevois en décembre.
+Trônant au centre de la table familiale, débordante de légumes en massepain, prête à être brisée par les poings entrelacés du plus jeune et du plus vieux.
 
 ## Load Bearing
-
-Elle relie l'histoire militaire mythique (la Mère Royaume) à une célébration civique moderne.
+Le dernier vestige tangible d'une cohésion cantonale où patriciens et prolétaires célèbrent ensemble l'annihilation de l'envahisseur savoyard.
 
 ## Apparent
-
-Une marmite en chocolat remplie de légumes en pâte d'amande, accompagnée de pétards.
+Une simple confiserie festive pour enfants, pittoresque et sucrée.
 
 ## Yearbook
+1602 (la Mère Royaume verse la soupe brûlante sur l'ennemi) ; fin du XIXe (apparition de la version en chocolat).
 
-L'outil pédagogique par lequel on apprend aux enfants que Genève a survécu seule, entourée d'ennemis.

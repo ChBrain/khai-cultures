@@ -13,25 +13,21 @@ stamp:
 # Position: La Ville Internationale
 
 ## Taxonomy
-
-Le carrefour humanitaire et diplomatique.
+Le théâtre aseptisé de la gouvernance globale.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Has
-
-Les sièges de l'ONU, du HCR, du CERN, et des salaires de fonctionnaires mondiaux nets d'impôts.
+Les clés du droit international, des salaires faramineux et un mépris institutionnalisé pour le droit local, masqué par une rhétorique humanitaire boursouflée.
 
 ## Orders
-
-Une logistique hôtelière et sécuritaire parfaite pour accueillir les chefs d'État en tout temps, et l'usage de l'anglais comme langue de fait.
+Le nivellement de l'espace urbain en un aéroport VIP géant, où l'anglais écrase le français, et où les loyers excluent quiconque n'est pas subventionné par une ambassade.
 
 ## Loses
-
-Son âme locale: les vieux quartiers disparaissent ou s'embourgeoisent, et les petits commerces ferment pour laisser place aux boutiques de luxe.
+Tout ancrage communautaire. C'est une ville sans âme, une plateforme de transit luxueuse où personne n'a l'intention de mourir ou de s'enraciner.
 
 ## Drives
+L'expansion vorace d'une bulle économique parasitaire, qui pompe l'espace et l'énergie de la région tout en s'excluant de ses devoirs sociaux.
 
-Une bulle économique et immobilière spectaculaire qui repousse la vraie vie genevoise de l'autre côté de la frontière française.

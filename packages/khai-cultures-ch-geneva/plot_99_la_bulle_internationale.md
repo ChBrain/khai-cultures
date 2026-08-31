@@ -13,16 +13,14 @@ stamp:
 # Plot: La Bulle Internationale
 
 ## Taxonomy
-
-La pression de la mondialisation sur l'identité locale.
+La ségrégation sociologique par la prospérité.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Cue
-
-Les expatriés, les fonctionnaires de l'ONU et les frontaliers français se croisent au bord du lac.
+Les embouteillages dantesques des travailleurs frontaliers refoulés en France.
 
 ## Stage
 
@@ -32,9 +30,8 @@ Les expatriés, les fonctionnaires de l'ONU et les frontaliers français se croi
 - `position`: [La Ville Internationale](position_la_ville_internationale.md)
 
 ## Event
-
-Genève abrite l'ONU, l'OMS, l'OMC et le CERN. 40% des habitants sont étrangers. Les prix de l'immobilier explosent à cause des salaires défiscalisés des diplomates. La classe moyenne genevoise est chassée vers la France voisine, créant une ville à deux vitesses: une élite globale hors-sol et des locaux amers.
+Genève mute en une caricature d'elle-même. C'est l'épicentre du commerce mondial et de la diplomatie onusienne. 40 % de la population ne vote pas, ignorant tout du système politique local. La pression immobilière est si violente que la classe moyenne indigène est expulsée hors des frontières, tandis que l'oligarchie internationale savoure ses privilèges défiscalisés.
 
 ## Tension
+Une haine sourde et muette entre l'élite globale qui a volé la ville et les exilés locaux qui doivent traverser une frontière chaque matin pour servir leurs maîtres.
 
-La fragmentation totale: les expatriés ne s'intègrent jamais, les anciens Genevois se replient, et les frontaliers s'épuisent dans les bouchons.

@@ -13,25 +13,21 @@ stamp:
 # Place: Le Jet d'Eau
 
 ## Taxonomy
-
-Le phare touristique accidentel.
+L'exutoire aquatique de l'hybris locale.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Shown
-
-Une colonne d'eau de 140 mètres de haut propulsée dans la rade du lac Léman, visible des avions et des collines.
+Une colonne d'eau jaillissant à 140 mètres de haut, déchirant le ciel gris au-dessus du lac Léman, visible par chaque passager atterrissant à Cointrin.
 
 ## Holds
-
-À l'origine, c'était simplement une soupape de sécurité pour une usine hydraulique de la Coulouvrenière.
+La mégalomanie d'une petite cité qui s'efforce désespérément de marquer son importance géographique à l'échelle du globe.
 
 ## Offers
-
-Le repère visuel immédiat qui signale qu'on est à Genève.
+Une image de carte postale irréprochable et un repère rassurant pour l'élite mondiale en escale.
 
 ## Withheld
+Le fait qu'il s'agissait à l'origine d'une simple valve de surpression industrielle ; une erreur technique glorifiée en monument, rappelant que la beauté genevoise est un sous-produit de l'ingénierie.
 
-Le fait que cette prouesse esthétique était purement fonctionnelle à l'origine, soulignant l'éthique de travail genevoise.

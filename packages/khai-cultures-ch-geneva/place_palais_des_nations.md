@@ -13,25 +13,21 @@ stamp:
 # Place: Le Palais des Nations
 
 ## Taxonomy
-
-Le centre de l'extraterritorialité globale.
+Le mausolée de la paix bureaucratique.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Shown
-
-Un immense bâtiment néoclassique avec des drapeaux du monde entier, entouré de parcs ultra-sécurisés, dominant le lac.
+Un colossal complexe néoclassique ceinturé de drapeaux, de parcs immaculés, et protégé par des barrières de sécurité dignes d'une zone de guerre.
 
 ## Holds
-
-Le siège européen de l'ONU, abritant les négociations de paix mondiales, le désarmement, et la bureaucratie humanitaire.
+Le fossé psychologique insondable entre les idéaux de fraternité universelle et la stérilité des négociations mondiales qui s'y enlisent.
 
 ## Offers
-
-Le statut de "ville mondiale" pour Genève.
+Un sanctuaire extraterritorial où les conflits sanglants du monde sont réduits à des notes de bas de page et des votes procéduraux.
 
 ## Withheld
+L'échec tragique de la Société des Nations, dont l'ombre hante encore les couloirs : un palais construit pour empêcher la guerre, achevé juste à temps pour assister, impuissant, à la Seconde Guerre mondiale.
 
-La lourdeur bureaucratique et l'inefficacité chronique de l'institution, cachées derrière des discours grandiloquents.

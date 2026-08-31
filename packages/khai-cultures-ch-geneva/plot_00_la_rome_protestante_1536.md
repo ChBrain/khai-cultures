@@ -13,16 +13,14 @@ stamp:
 # Plot: La Rome Protestante 1536
 
 ## Taxonomy
-
-La fondation théologique et morale.
+L'incarcération spirituelle de la cité-État.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Cue
-
-L'adoption de la Réforme et l'arrivée de Jean Calvin.
+L'arrivée glaciale de Jean Calvin et le bannissement du clergé catholique.
 
 ## Stage
 
@@ -30,9 +28,8 @@ L'adoption de la Réforme et l'arrivée de Jean Calvin.
 - `persona`: [Jacques](persona_jacques.md)
 
 ## Event
-
-Genève coupe les ponts avec le duc de Savoie et l'évêque, embrassant la Réforme. Calvin instaure une théocratie stricte, interdisant le luxe et les bijoux. La ville devient le centre intellectuel du protestantisme européen.
+Genève tranche ses liens avec son duc et son évêque. Calvin impose un carcan moral d'une dureté implacable. Les auberges sont fermées, le rire est suspect, les parures sont brûlées. La ville devient un séminaire armé, la forteresse intellectuelle d'où la Réforme irradiera l'Europe.
 
 ## Tension
+La mutilation d'une ville commerçante épicurienne au profit d'un dogme terrifiant, forgeant une culture où la richesse doit se cacher sous une apparence de misère volontaire.
 
-L'imposition d'un ordre moral austère sur une population marchande, créant la fameuse retenue genevoise.

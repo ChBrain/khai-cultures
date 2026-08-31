@@ -13,25 +13,21 @@ stamp:
 # Position: La République
 
 ## Taxonomy
-
-La fierté civique patricienne et indépendante.
+L'arrogance glacée de l'exception genevoise.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Has
-
-Un sentiment d'exceptionnalisme absolu: Genève s'est sauvée seule, a réformé la religion seule, et tolère la Suisse plus qu'elle n'en a besoin.
+Un sentiment inébranlable de supériorité morale et intellectuelle. L'intime conviction d'avoir éclairé l'Europe spirituellement, tout en méprisant cordialement le reste du pays.
 
 ## Orders
-
-La discrétion financière, l'arrogance intellectuelle, et le vote progressiste lors des scrutins fédéraux.
+Le repli sur soi, la thésaurisation secrète des richesses, et un mépris silencieux pour l'ostentation des parvenus.
 
 ## Loses
-
-La sympathie du reste de la Suisse alémanique, qui la perçoit comme arrogante, bruyante et perpétuellement endettée.
+Toute capacité d'empathie pour la Suisse intérieure. La Genève patricienne est politiquement toxique, perçue à Berne comme un enfant gâté, braillard et dysfonctionnel.
 
 ## Drives
+Une volonté désespérée de protéger les murs invisibles de la vieille cité contre une modernité vulgaire qui l'a déjà submergée.
 
-Le refus de s'assimiler totalement au modèle helvétique standard, s'appellant toujours fièrement "La République et Canton de Genève".

@@ -13,25 +13,22 @@ stamp:
 # Plot: La Croix-Rouge 1863
 
 ## Taxonomy
-
-L'invention de l'humanitaire neutre.
+La monétisation de la pitié mondiale.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Cue
-
-La fondation du Comité International de la Croix-Rouge par Henri Dunant.
+Les cris agonisants de Solférino traumatisent le banquier Henri Dunant.
 
 ## Stage
 
 - `position`: [La Ville Internationale](position_la_ville_internationale.md)
 
 ## Event
-
-Révolté par le carnage de Solférino, le Genevois Henri Dunant fonde la Croix-Rouge. Cela établit la vocation de Genève comme capitale de la diplomatie humanitaire neutre, protégée par le droit international (Conventions de Genève).
+Dunant, horrifié par le carnage sans soins, orchestre la création d'une agence de secours universelle. Le drapeau suisse inversé devient le bouclier des médecins de guerre. Genève s'arroge le titre de capitale de l'humanitaire, abritant les traités qui dictent comment les nations peuvent s'entretuer légalement.
 
 ## Tension
+L'hypocrisie sublime d'une ville qui panse les plaies des guerres dont ses banques gèrent l'argent occulte.
 
-Idéaliser le secours universel tout en abritant l'argent de ceux qui financent souvent les guerres.

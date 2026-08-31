@@ -13,25 +13,21 @@ stamp:
 # Persona: Chloé
 
 ## Taxonomy
-
-La fonctionnaire internationale hors-sol.
+La diplomate humanitaire en transit perpétuel.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Projection
-
-Elle représente la communauté transitoire qui habite Genève sans jamais vraiment y vivre.
+Un visage d'empathie globale, portant le poids du monde avec une urgence méticuleusement chorégraphiée, parlant le langage universel des ONG dans les salons lambrissés.
 
 ## Action
-
-Elle travaille pour une ONG ou une agence onusienne, gagne son salaire sans payer d'impôts locaux, et quitte la ville le week-end pour Chamonix ou Paris.
+Elle navigue entre les crises humanitaires via des feuilles de calcul et des déjeuners au bord du lac, ignorant les quartiers populaires locaux tout en dénonçant la pauvreté mondiale.
 
 ## Shadow
-
-Elle vit à Genève depuis dix ans mais n'a aucun ami suisse, ignore le fonctionnement du système politique local et fait gonfler les loyers.
+Elle prêche la solidarité universelle mais se complaît dans un confort fiscal dédouané, isolée des réalités locales par l'immunité diplomatique et l'indifférence de classe.
 
 ## Tell
+Un badge d'accès bleu des Nations Unies toujours visible, même lorsqu'elle achète son matcha latte au tarif exorbitant des Eaux-Vives.
 
-Elle mélange l'anglais et le français institutionnel, porte son badge bleu de l'ONU autour du cou même dans le tram, et se plaint de l'ennui genevois.

@@ -14,24 +14,21 @@ stamp:
 # Play: Genève
 
 ## Taxonomy
-
-La république calviniste devenue le carrefour diplomatique du monde, physiquement et psychologiquement isolée du reste du pays.
+Le paradoxe schizophrénique d'un village calviniste dévoré par son propre succès diplomatique.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Arc
-
-Le développement d'une petite cité-état assiégée, devenue la "Rome protestante" sous Calvin, puis une place financière et horlogère mondiale grâce aux réfugiés huguenots, avant de s'imposer comme la capitale humanitaire (Croix-Rouge) et diplomatique (SdN/ONU) de la planète, tout en entrant à reculons dans la Confédération suisse.
+La trajectoire torturée d'une forteresse assiégée devenue la capitale spirituelle de la Réforme, puis une machine à blanchir l'argent et la conscience du monde, jusqu'à se dissoudre dans une bulle internationale hors-sol. Genève, en voulant éclairer le monde, a laissé le monde l'avaler.
 
 ## Name
 
 La République et canton de Genève.
 
 ## Stakes
-
-Comment une si petite cité, encerclée par la France, peut-elle maintenir son identité de république souveraine tout en étant inondée et définie par une énorme communauté internationale transitoire ?
+Combien de temps une enclave peut-elle vendre son âme à la diplomatie mondiale et aux milliards de la finance sans que son tissu social, tendu à l'extrême, ne se déchire sous le poids de la frustration locale ?
 
 ## Estate
 

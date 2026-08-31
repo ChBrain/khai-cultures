@@ -13,16 +13,14 @@ stamp:
 # Plot: Les Réfugiés Huguenots
 
 ## Taxonomy
-
-La transformation économique par l'exil.
+La sainte alliance de l'exil et du profit.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Cue
-
-La Révocation de l'édit de Nantes et l'afflux des protestants français.
+La Révocation de l'édit de Nantes jette les huguenots sur les routes de l'exil.
 
 ## Stage
 
@@ -30,9 +28,8 @@ La Révocation de l'édit de Nantes et l'afflux des protestants français.
 - `position`: [La République](position_culture_la_republique.md)
 
 ## Event
-
-Fuyant les persécutions, des milliers de réfugiés huguenots affluent. Ils apportent avec eux des capitaux, des réseaux commerciaux internationaux et l'art de l'horlogerie. Les orfèvres locaux, interdits de fabriquer des bijoux par Calvin, s'associent à eux pour créer des montres (tolérées car utiles), fondant la haute horlogerie et la banque privée genevoises.
+L'afflux des protestants français inonde Genève de capitaux inavouables et d'une expertise incomparable. Empêchés par le calvinisme de fabriquer des bijoux, les orfèvres locaux épousent la technologie huguenote pour créer la montre mécanique. La ville se transforme en un hub de banquiers discrets et de maîtres-horlogers.
 
 ## Tension
+Le mariage sordide entre l'intolérance religieuse subie et la maximisation impitoyable du profit capitaliste.
 
-Le capitalisme puritain: amasser d'énormes richesses mondiales tout en maintenant une façade de discrétion absolue.

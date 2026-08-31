@@ -13,16 +13,14 @@ stamp:
 # Plot: L'Escalade 1602
 
 ## Taxonomy
-
-La défense fondatrice de l'indépendance.
+Le baptême de sang de l'indépendance.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Cue
-
-L'attaque surprise nocturne des troupes du duc de Savoie.
+Les échelles savoyardes frottant contre les murailles de pierre par une nuit noire et glacée.
 
 ## Stage
 
@@ -30,9 +28,8 @@ L'attaque surprise nocturne des troupes du duc de Savoie.
 - `process`: [La Fête de l'Escalade](process_fete_de_l_escalade.md)
 
 ## Event
-
-Les Savoyards tentent d'escalader les murs de la ville en pleine nuit. Les citoyens, alertés, repoussent l'attaque, aidés par la Mère Royaume qui aurait versé de la soupe brûlante sur les assaillants. Cette victoire cimente l'indépendance de la république face à ses puissants voisins catholiques.
+Le duc de Savoie tente de reprendre sa ville rebelle. Ses mercenaires escaladent les murs dans l'obscurité. Le tocsin résonne, les citoyens en chemise de nuit, armés de hallebardes, repoussent l'assaut dans un carnage viscéral. La Mère Royaume devient le mythe d'un peuple refusant la soumission.
 
 ## Tension
+La paranoïa perpétuelle de l'encerclement par des voisins géants, apaisée seulement par une violence défensive et un patriotisme xénophobe viscéral.
 
-La vulnérabilité permanente d'une petite cité-état face aux empires environnants, surmontée par la cohésion citoyenne.

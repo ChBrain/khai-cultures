@@ -13,25 +13,21 @@ stamp:
 # Pitch: Genève
 
 ## Taxonomy
-
-Le hub mondial à l'extrémité du lac.
+Le cloaque doré de la moralité globale.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Tenor
-
-Nous sommes le bout de la Suisse, encerclés par la France, et nous dialoguons directement avec New York et Paris plutôt qu'avec Berne.
+Une cité qui se veut la conscience du monde, pontifiant sur les droits de l'homme tout en gérant les comptes secrets des dictateurs dans un anonymat de plomb.
 
 ## Undertow
-
-Nous sommes devenus si chers et si globaux que le vrai Genevois, le citoyen de la vieille république, ne reconnaît plus sa ville et n'a plus les moyens d'y habiter.
+La rage étouffée des autochtones, dépossédés de leur propre ville, contraints de fuir en France pour survivre pendant que les diplomates se partagent les rives du lac Léman.
 
 ## Nerve
-
-L'arrogance tranquille de ceux qui savent que le monde entier se réunit chez eux pour prendre des décisions.
+La certitude hautaine que, si le monde doit s'effondrer, ce sera à une table de conférence à Genève, servie par des banquiers locaux imperturbables.
 
 ## Echo
+Le claquement sec d'une montre à un million de francs cachée sous la manche élimée d'un pasteur.
 
-Un mélange de stricte austérité protestante et d'étalage obscène de la richesse internationale.

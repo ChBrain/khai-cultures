@@ -13,25 +13,21 @@ stamp:
 # Persona: Jacques
 
 ## Taxonomy
-
-Le patricien calviniste genevois.
+Le patricien calviniste retranché.
 
 ## Owner
 
 - Project: khai-cultures
 
 ## Projection
-
-L'héritier des vieilles familles de banquiers privés ou d'horlogers, incarnant la vieille République.
+Une austérité vestimentaire impeccable qui dissimule une fortune dynastique, le regard froid de celui dont la famille juge la ville depuis quatre siècles.
 
 ## Action
-
-Il vit dans une grande maison discrète à Cologny, gère la fortune de la famille depuis la Vieille-Ville, et fait de la voile sur le lac.
+Il gère des capitaux mondiaux colossaux en murmurant, détestant le bruit et le faste, et milite discrètement pour fermer les frontières aux nouveaux arrivants.
 
 ## Shadow
-
-Un snobisme glacial et un refus total de se mélanger avec les "expats" ou les confédérés (les autres Suisses).
+Un ressentiment purulent envers cette ville qu'il ne reconnaît plus, couplé à l'hypocrisie de s'enrichir grâce aux mêmes étrangers qu'il méprise profondément.
 
 ## Tell
+Une montre de la vallée de Joux, inestimable mais sans aucun diamant, glissée sous la manche d'une chemise élimée au poignet.
 
-Il parle un français châtié, porte des costumes coûteux mais sans aucune marque apparente (la discrétion protestante), et prononce Genève en avalant le premier 'e'.
