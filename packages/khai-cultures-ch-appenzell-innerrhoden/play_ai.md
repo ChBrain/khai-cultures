@@ -10,7 +10,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Play: Appenzell Innerrhoden
 
 ## Taxonomy
@@ -23,7 +22,7 @@ Die archaische, ländliche Halbkanton-Demokratie in den Voralpen.
 
 ## Arc
 
-Die Geschichte eines Bergvolks, das sich 1597 aus religiösen Gründen friedlich spaltete und fortan die Industrialisierung und den modernen Zeitgeist bewusst abwehrte. Sie bewahrten ihre direkte Demokratie (Landsgemeinde) und ihr katholisch-konservatives Weltbild so hartnäckig, dass erst ein Bundesgerichtsurteil 1990 das Frauenstimmrecht erzwingen konnte. Heute leben sie im Spannungsfeld zwischen gelebter Tradition und der Rolle als museales Touristenziel.
+Die Chronik einer alpinen Zivilisation, die sich der Strömung der Zeit entgegenstemmt. Es begann mit einer religiösen Teilung 1597, eine Operation am offenen Herzen, um rein zu bleiben. Sie verschlossen ihre Täler gegen das Fieber der Industrialisierung, wählten lieber die Armut als den Fabrikrauch, und hüteten ihre archaische, maskuline Landsgemeinde wie einen Götzen. Bis der Blitz der Moderne 1990 einschlug: Ein juristischer Befehl aus Lausanne zwang das Frauenstimmrecht durch und zerbrach die Illusion ihrer Unantastbarkeit. Heute leben sie das Paradox, ihre erbittert verteidigte Tradition als malerisches Produkt an eine Welt verkaufen zu müssen, die sie im Innersten ablehnen.
 
 ## Name
 
@@ -31,7 +30,7 @@ Kanton Appenzell Innerrhoden.
 
 ## Stakes
 
-Wie lange kann sich eine Gesellschaft der totalen politischen Selbstbestimmung und landwirtschaftlichen Tradition in einem Land behaupten, das durch nationales Recht und globale Wirtschaft dominiert wird?
+Was geschieht mit einer Gemeinschaft, die totale politische und kulturelle Isolation als höchstes Gut verehrt, wenn der Druck des universellen Rechts und der globalen Ökonomie sie in die Knie zwingt? Ist der Erhalt der Tradition ein Akt von radikaler Würde, oder lediglich die langsame Versteinerung eines lebenden Freilichtmuseums?
 
 ## Estate
 

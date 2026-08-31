@@ -9,7 +9,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Persona: Sepp
 
 ## Taxonomy
@@ -22,16 +21,16 @@ Der traditionsbewusste Appenzeller Bauer.
 
 ## Projection
 
-Der archaische, ehrliche und sture Bergbauer, der in vollkommener Harmonie mit der Tradition lebt.
+Der archaische, erdverbundene Bergbauer, ein Monument der Beständigkeit. Nach außen verkörpert er das idealisierte Herz der Schweiz: ehrlich, unbeugsam und in perfekter Symbiose mit einer Natur, die keinen Wandel fordert.
 
 ## Action
 
-Er führt im Frühling die Kühe auf die Alp, singt im lokalen Jodelchor und stimmt jeden Frühling auf dem Landsgemeindeplatz per Handzeichen ab.
+Wenn der Schnee vom Alpstein weicht, treibt er das Vieh hinauf, ein archaischer Zyklus. Auf dem Landsgemeindeplatz hebt er das Seitengewehr, seine Stimme verschmilzt mit dem Kollektiv der Männer. Sein Jodeln, das 'Zäuerli', ist ein wortloser Schrei gegen das Vergessen.
 
 ## Shadow
 
-Ein tiefes Misstrauen gegenüber allem Fremden und "Städtischen", das oft in hartnäckige politische Blockaden umschlägt.
+Seine Strenge verdeckt eine tiefe, fast paranoide Verlustangst. Seine Verweigerung der Moderne ist nicht nur Traditionspflege, sondern eine rücksichtslose Ignoranz gegenüber denen, die unter seiner Stagnation leiden. Die Demokratie feiert er nur solange, wie sie sein Weltbild nicht antastet.
 
 ## Tell
 
-Er trägt an Festtagen die typische gelbe Sennentracht mit dem silbernen Löffel im Ohr, spricht einen breiten Innerrhoder Dialekt und sagt geradeheraus, was er denkt.
+Der silberne Löffel im rechten Ohr blitzt auf, wenn er den Kopf stur abwendet. Seine Hände, rissig wie die Karstfelsen des Alpsteins, ballen sich unmerklich zur Faust, sobald ein Fremder das Wort "Fortschritt" ausspricht.

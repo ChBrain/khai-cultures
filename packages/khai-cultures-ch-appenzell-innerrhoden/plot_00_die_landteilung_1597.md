@@ -9,7 +9,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Plot: Die Landteilung 1597
 
 ## Taxonomy
@@ -22,7 +21,7 @@ Der friedliche Schisma als Gründungsakt.
 
 ## Cue
 
-Die religiösen Spannungen der Reformation machen ein Zusammenleben im alten Appenzell unmöglich.
+Die Glaubensspaltung frisst sich wie Säure durch die Familien des alten Appenzell, bis der Riss unüberbrückbar wird.
 
 ## Stage
 
@@ -31,8 +30,8 @@ Die religiösen Spannungen der Reformation machen ein Zusammenleben im alten App
 
 ## Event
 
-Anstatt einen Bürgerkrieg zu führen, teilen die Appenzeller ihr Land 1597 offiziell in zwei Halbkantone: das reformierte Ausserrhoden und das katholische Innerrhoden. Innerrhoden behält den inneren Talkessel und zementiert damit seine isolierte, konservative und urkatholische Identität.
+Anstatt das Land in einem Bruderkrieg in Blut zu ertränken, ziehen sie 1597 einen eiskalten, bürokratischen Strich durch ihre Welt. Sie teilen den Kanton. Innerrhoden zieht sich in den Talkessel zurück, verriegelt die Türen gegen den Protestantismus und entscheidet sich für eine hermetische, katholische Isolation.
 
 ## Tension
 
-Die absolute, fast sture Kompromisslosigkeit bei Fragen des Glaubens und der Tradition, die lieber zur Trennung führt als zur Verwässerung.
+Der paradoxe Akt eines "friedlichen" Risses, der jedoch eine traumatische Amputation war. Der Frieden wurde erkauft durch die radikale Verweigerung von Vielfalt. Ein Überlebenstrick, der die Innerrhoder dazu verdammte, auf ewig Gefangene ihrer eigenen weltanschaulichen Reinheit zu bleiben.

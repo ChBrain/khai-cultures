@@ -9,7 +9,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Plot: Die Isolierung
 
 ## Taxonomy
@@ -22,7 +21,7 @@ Die bewusste Abwehr der Moderne.
 
 ## Cue
 
-Die Textilindustrie erfasst das benachbarte Ausserrhoden und St. Gallen im 19. Jahrhundert.
+Der rauchende Atem der Textilfabriken, der im 19. Jahrhundert das benachbarte Ausserrhoden in eine nervöse, stampfende Moderne zwingt.
 
 ## Stage
 
@@ -31,8 +30,8 @@ Die Textilindustrie erfasst das benachbarte Ausserrhoden und St. Gallen im 19. J
 
 ## Event
 
-Während Ausserrhoden industrialisiert und reich wird, weigert sich Innerrhoden, Fabriken im großen Stil zuzulassen. Sie bleiben Bauern und Handwerker, verpassen den wirtschaftlichen Aufschwung der Industrialisierung, bewahren aber ihre unberührte Landschaft und ihre agrarische Sozialstruktur.
+Während drüben die Webstühle den Reichtum und den proletarischen Schmutz der Industrialisierung gebären, verschließt Innerrhoden die Tore. Keine Schornsteine, keine Massenproduktion. Sie klammern sich an Heugabeln und Rosenkränze und nehmen die schleichende Verarmung als Preis für eine unangetastete, pastorale Seele in Kauf.
 
 ## Tension
 
-Wirtschaftlicher Stillstand als Preis für die Erhaltung der kulturellen und landschaftlichen Reinheit.
+Der stille, erdrückende Neid auf den Reichtum der Nachbarn, der unter einer Maske aus moralischer Überlegenheit verborgen wird. Man rühmt sich der sauberen Luft und der reinen Herzen, während man heimlich zusieht, wie die eigenen Söhne aus wirtschaftlicher Verzweiflung das Tal verlassen müssen.

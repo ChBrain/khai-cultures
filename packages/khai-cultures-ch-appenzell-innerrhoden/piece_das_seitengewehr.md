@@ -9,29 +9,28 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Piece: Das Seitengewehr
 
 ## Taxonomy
 
-Der Ausweis des freien Stimmbürgers.
+Das archaische Instrument der Macht.
 
 ## Owner
 
 - Project: khai-cultures
 
-## Place
+## Projection
 
-An der Hüfte der Männer während der Landsgemeinde in Appenzell.
+Ein ehrenvolles Symbol freier Männlichkeit und wehrhafter Demokratie. Das Erbstück beweist, dass der Träger nicht nur das Recht, sondern die heilige Pflicht hat, sein Land zu formen.
 
-## Load Bearing
+## Action
 
-Es symbolisiert die Verbindung zwischen der historischen Pflicht zur Landesverteidigung und dem Recht auf politische Mitbestimmung.
+Einmal im Jahr, am letzten Sonntag im April, wird die Waffe poliert, umgeschnallt und auf dem Landsgemeindeplatz in die Luft gereckt. Es ersetzt den Stimmzettel; der blanke Stahl ist das sichtbare Votum in der Menge.
 
-## Apparent
+## Shadow
 
-Ein Degen, ein Schwert oder ein Bajonett (Seitengewehr), oft ein Erbstück, das anstatt eines Stimmrechtsausweises getragen wird, um Zugang zum Ring zu erhalten.
+Das Gewehr, das Freiheit symbolisiert, diente jahrhundertelang als eisernes Argument zur Unterdrückung. Es war das ultimative phallische Instrument der Ausgrenzung: Wer keine Waffe trug – die Frauen, die Besitzlosen – hatte keine Stimme. Die Waffe als Werkzeug direkter Demokratie verdeckt ihre inhärente Gewaltandrohung gegen den Wandel.
 
-## Yearbook
+## Tell
 
-Das archaische Objekt, das den Kern der Appenzeller Demokratie sichtbar macht: wehrhaft, männlich-geprägt und von der Moderne völlig unberührt.
+Der abgewetzte Ledergurt, an dem das Bajonett baumelt. Das dumpfe, metallische Klappern tausender Klingen, das über den Platz hallt, wenn die Arme gesenkt werden – ein Rhythmus, der jeden Widerspruch im Keim erstickt.

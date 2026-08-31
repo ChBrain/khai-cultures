@@ -9,29 +9,28 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Place: Der Alpstein
 
 ## Taxonomy
 
-Die dramatische landschaftliche Festung.
+Das geologische Gefängnis und Schutzschild.
 
 ## Owner
 
 - Project: khai-cultures
 
-## Shown
+## Projection
 
-Ein markantes Bergmassiv (mit dem Säntis als höchstem Gipfel), das extrem steil aus den sanften Hügeln des Appenzellerlandes aufsteigt.
+Ein majestätisches, trotziges Gebirgsmassiv. Ein Naturdenkmal, das den Innerrhodern Schutz bietet und ihre alpine Seele formt.
 
-## Holds
+## Action
 
-Die sommerlichen Weideflächen der Sennen und Dutzende von Berggasthäusern, die oft an steilen Felswänden kleben (wie das Äscher).
+Steile Karstwände trennen das Appenzellerland vom restlichen Europa. Hier oben, isoliert von städtischer Betriebsamkeit, kultivieren die Bergbauern ihre Alpwirtschaft, ziehen ihre Herden hinauf und bewahren Gesänge, die so alt sind wie die Felsen selbst.
 
-## Offers
+## Shadow
 
-Eine fast unwirkliche Postkartenkulisse und den Taktgeber für die lokale Landwirtschaft.
+Die Berge sind keine bloße Kulisse, sie sind eine geologische Festungsmauer, die den Geist der Bewohner verengt. Die schroffe Unzugänglichkeit nährt den psychologischen Isolationismus. Die Innerrhoder haben sich so lange hinter dem Fels versteckt, dass sie die Weite der Welt nicht mehr als Versprechen, sondern nur noch als Bedrohung wahrnehmen können.
 
-## Withheld
+## Tell
 
-Die raue, oft gefährliche Lebensrealität der Älpler, die hinter der romantischen Touristenkulisse verborgen bleibt.
+Der scharfe, schneidende Schatten, den der Säntis am späten Nachmittag über das Tal wirft – eine tägliche, düstere Erinnerung daran, dass das Licht der Außenwelt hier stets ein wenig früher erlischt.

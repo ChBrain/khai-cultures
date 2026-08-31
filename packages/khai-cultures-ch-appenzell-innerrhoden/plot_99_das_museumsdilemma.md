@@ -9,7 +9,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Plot: Das Museumsdilemma
 
 ## Taxonomy
@@ -22,7 +21,7 @@ Das Überleben als pittoreske Kulisse.
 
 ## Cue
 
-Die Globalisierung und Landflucht bedrohen die Bergkantone.
+Das Blitzlichtgewitter asiatischer und amerikanischer Touristen, das die Trachten und Sennen zu einer lebenden Postkarte degradiert.
 
 ## Stage
 
@@ -32,8 +31,8 @@ Die Globalisierung und Landflucht bedrohen die Bergkantone.
 
 ## Event
 
-Heute profitiert Appenzell Innerrhoden massiv vom Tourismus: Städter aus Zürich und dem Ausland kommen, um die "authentische" Schweiz zu sehen. Doch die Jungen ziehen oft weg, da die beruflichen Perspektiven begrenzt sind. Der Kanton muss einen Weg finden, sich weiterzuentwickeln, ohne genau das Bild zu zerstören, von dem er lebt.
+Das nackte Überleben hat einen zynischen Preis gefordert. Innerrhoden lebt heute prächtig vom Tourismus. Man verkauft die eigene Rückständigkeit als romantische "Authentizität". Die Bewohner spielen ihre eigenen Ahnen, konservieren ihr Leben wie Insekten in Bernstein, um den melancholischen Hunger der Städter nach einer heilen Welt zu stillen.
 
 ## Tension
 
-Ein lebendiges Freilichtmuseum zu sein sichert zwar Einkommen, droht aber die Kultur von innen auszuhöhlen.
+Der tägliche, schizophrene Spagat: Man verachtet die moderne, urbane Welt zutiefst, ist aber zu hundert Prozent von ihrem Geld abhängig. Die Kultur ist zur Performance geworden. Jeder Jodler und jeder Käsereich ist geprägt von der Angst, dass man längst kein lebendiges Volk mehr ist, sondern das Personal eines alpenländischen Themenparks.

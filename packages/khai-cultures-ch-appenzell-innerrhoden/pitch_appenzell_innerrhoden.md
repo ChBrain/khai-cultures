@@ -9,29 +9,20 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Pitch: Appenzell Innerrhoden
 
 ## Taxonomy
 
-Der katholisch-konservative Mikrokosmos am Berg.
+Der archaische Stolz und sein Preis.
 
 ## Owner
 
 - Project: khai-cultures
 
-## Tenor
+## Pitch
 
-Wir haben unsere Identität bewahrt, indem wir allem Neuen zuerst mit Misstrauen begegnet sind. Unsere Gesetze machen wir auf dem Dorfplatz, von Angesicht zu Angesicht.
+Appenzell Innerrhoden: Das letzte, sture gallische Dorf der Alpen, gefangen zwischen der Poesie der Berge und dem Fluch der eigenen Tradition.
 
-## Undertow
+## Essence
 
-Wir sind das pittoreske Postkartenmotiv der Schweiz, das die Städter am Wochenende besuchen kommen, ohne unsere raue Realität zu verstehen.
-
-## Nerve
-
-Der absolute Unwille, sich von "Denen in Bern" (dem Bund) vorschreiben zu lassen, wie man zu leben hat.
-
-## Echo
-
-Sturer Stolz, archaisches Brauchtum und eine ehrliche, ungefilterte Direktheit.
+Eine archaische Berggesellschaft, die das Recht auf Selbstbestimmung so radikal lebt, dass sie lieber verarmte, als sich der Moderne zu beugen. Die Landsgemeinde ist ihr sakrales Herz – ein Platz, wo direkte Demokratie zelebriert wird, doch der Konformitätsdruck abweichende Stimmen erstickt. Ihr ultimativer Zusammenprall mit der Realität gipfelt 1990, als ein Bundesgerichtsurteil den Männern des Rings ihre absolute Macht entriss und das Frauenstimmrecht erzwang. Heute balanciert der Kanton auf dem schmalen Grat zwischen echtem kulturellem Stolz und der schizophrenen Rolle eines lebenden Freilichtmuseums.

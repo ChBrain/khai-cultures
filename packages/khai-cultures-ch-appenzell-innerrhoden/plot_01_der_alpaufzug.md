@@ -9,7 +9,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Plot: Der Alpaufzug
 
 ## Taxonomy
@@ -22,7 +21,7 @@ Der zyklische Takt der Jahreszeiten.
 
 ## Cue
 
-Das Schmelzen des Schnees am Alpstein und das Heraufziehen des Frühlings.
+Das Aufbrechen des Eises. Der drängende Rhythmus des nahenden Frühlings, der das Tal aus seiner Erstarrung zwingt.
 
 ## Stage
 
@@ -31,8 +30,8 @@ Das Schmelzen des Schnees am Alpstein und das Heraufziehen des Frühlings.
 
 ## Event
 
-Der Alpaufzug (Öberefahre) ist der zentrale kulturelle Ankerpunkt des Jahres. Die Bauern treiben das Vieh in traditioneller Tracht auf die Alp, begleitet von Gesang (Zäuerli) und Glockenklang. Oben in den Bergen wird den Sommer über der Käse hergestellt.
+Der Alpaufzug ist kein bloßes Fest, er ist eine Beschwörung. In archaischer Tracht, den Rhythmus der Kuhglocken tief im Blut, treiben die Bauern ihre Herden in die Höhe. Das gesungene "Zäuerli", frei von Worten, hallt von den Felswänden wider – ein rauer, ungezähmter Dialog zwischen Mensch und Berg.
 
 ## Tension
 
-Die ständige Unterwerfung des menschlichen Rhythmus unter die rauen Gesetze der alpinen Natur, anstatt sie bezwingen zu wollen.
+Die brutale, physische Unterwerfung unter die Diktatur der Jahreszeiten steht im krassen Gegensatz zum politischen Stolz der absoluten Freiheit. Der Innerrhoder, der vor keinem Gesetz aus Bern kniet, beugt sich widerstandslos dem Frost, dem Regen und den Launen des Gesteins.

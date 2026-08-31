@@ -9,7 +9,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Plot: Das Frauenstimmrecht 1990
 
 ## Taxonomy
@@ -22,7 +21,7 @@ Der ultimative Zusammenstoß von Lokalautonomie und Nationalrecht.
 
 ## Cue
 
-Die Landsgemeinde von 1990 lehnt das kantonale Frauenstimmrecht erneut ab.
+Die Abstimmung auf der Landsgemeinde 1990. Wieder reckten sich die Männerarme in den Himmel, wieder fiel das Urteil: Nein. Keine Stimmen für die Frauen.
 
 ## Stage
 
@@ -32,8 +31,8 @@ Die Landsgemeinde von 1990 lehnt das kantonale Frauenstimmrecht erneut ab.
 
 ## Event
 
-Nachdem die männlichen Stimmbürger auf dem Platz das Frauenstimmrecht wiederholt abgelehnt haben (19 Jahre nach dessen Einführung auf Bundesebene), greift das Bundesgericht in Lausanne ein. Es zwingt den Kanton, den Frauen das Stimmrecht zu gewähren, da die Bundesverfassung über der kantonalen Tradition steht.
+Der Tropfen, der das Fass sprengt. Neunzehn Jahre nach der nationalen Einführung zwingt das Bundesgericht in Lausanne den störrischen Halbkanton in die Knie. Per juristischem Diktat wird das Frauenstimmrecht angeordnet. Die reinste Form der direkten Demokratie wird durch ein Bundesurteil übersteuert – ein beispielloser Eingriff in die Souveränität des Ringes.
 
 ## Tension
 
-Der bittere Schock für die traditionalistischen Männer, dass ihre geschätzte, radikal-direkte Demokratie vom nationalen Rechtsstaat übersteuert werden kann.
+Ein tiefes, schwärendes psychologisches Trauma der Männerwelt. Die Erkenntnis, dass ihre archaische Freiheit eine Illusion ist, die vom modernen Rechtsstaat jederzeit zerschmettert werden kann. Der Widerspruch zwischen der hehren, fast religiösen Verklärung der eigenen Demokratie und der brutalen Realität, dass diese Demokratie ein Instrument systematischer Unterdrückung war, das erst von außen gebrochen werden musste.

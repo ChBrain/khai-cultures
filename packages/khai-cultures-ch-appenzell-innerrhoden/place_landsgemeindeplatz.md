@@ -9,29 +9,28 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Place: Der Landsgemeindeplatz
 
 ## Taxonomy
 
-Die Bühne der totalen direkten Demokratie.
+Das Epizentrum der direkten Demokratie.
 
 ## Owner
 
 - Project: khai-cultures
 
-## Shown
+## Projection
 
-Ein großer, offener Platz im Zentrum des Hauptortes Appenzell, umgeben von reich verzierten Wirtshäusern.
+Der reinste Schauplatz direkter Demokratie auf Erden. Ein offener Ring im Zentrum des Ortes, wo jeder Bürger gleich ist und die Gemeinschaft sich selbst regiert, ohne den Filter von Parlamenten.
 
-## Holds
+## Action
 
-Das Parlament des Volkes. Hier versammeln sich einmal im Jahr die stimmberechtigten Bürger, um Gesetze zu erlassen und die Regierung zu wählen.
+Hier versammelt sich die Landsgemeinde. Männer und – spät, aber schließlich – Frauen stehen dicht gedrängt im "Ring", um über Gesetze zu debattieren, den Landammann zu wählen und durch das kollektive Heben von Händen oder Waffen abzustimmen.
 
-## Offers
+## Shadow
 
-Die unverfälschteste und unmittelbarste Form der politischen Mitsprache, die man in Europa noch finden kann.
+Der Platz ist ein Tribunal der sozialen Kontrolle. Die totale Transparenz des Abstimmens erzwingt Konformität; wer hier gegen den Strom stimmt, spürt den stechenden Blick des Nachbarn, des Metzgers, des Chefs. Die viel gerühmte Offenheit ist gleichzeitig ein Gefängnis der Dorfmeinung, das abweichende Stimmen durch sozialen Druck mundtot macht.
 
-## Withheld
+## Tell
 
-Die soziale Kontrolle: Da öffentlich per Handzeichen abgestimmt wird, weiß jeder im Dorf, wie der Nachbar politisch denkt, was nonkonformistische Entscheidungen erschwert.
+Die kreisförmige Anordnung des Kopfsteinpflasters, die wie ein steinerner Trichter wirkt, in dem jeder Flüsterton verstärkt wird und in dessen Zentrum man vor den Blicken Tausender nirgendwohin fliehen kann.

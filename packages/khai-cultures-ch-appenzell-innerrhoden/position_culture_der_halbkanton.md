@@ -9,7 +9,6 @@ stamp:
   version: v0.0.1
   date: "2026-08-31"
 ---
-
 # Position: Der Halbkanton
 
 ## Taxonomy
@@ -22,16 +21,16 @@ Die historische Eigenständigkeit durch Teilung.
 
 ## Has
 
-Die volle staatliche Souveränität nach innen, aber nur eine halbe Standesstimme auf Bundesebene (ein Relikt der historischen Teilung).
+Eine tief gespaltene Identität, geboren aus einem historischen Schisma. Die volle staatsrechtliche Souveränität in den eigenen engen Grenzen, gepaart mit einer institutionalisierten Ohnmacht im Bundeshaus, wo ihre Stimme nur halb zählt.
 
 ## Orders
 
-Eine ständige Unterscheidung vom "anderen" Appenzell (Ausserrhoden) und eine tief verwurzelte katholische Identität.
+Die dogmatische Aufrechterhaltung der Grenze zum reformierten, einst industrialisierten Ausserrhoden. Ein ewiger Abgrenzungskampf, bei dem das Festhalten an der urkatholischen Tradition die einzige Waffe gegen die kulturelle Auslöschung ist.
 
 ## Loses
 
-Politisches Gewicht im nationalen Vergleich aufgrund der geringen Größe (nur ca. 16.000 Einwohner).
+Jeglichen Einfluss auf die große Politik. Die Stagnation wird zur Tugend verklärt, während man auf nationaler Ebene zu einer pittoresken Randnotiz verkommt, über die man bestenfalls lächelt, wenn nicht gar spottet.
 
 ## Drives
 
-Einen extremen Fokus auf den inneren Zusammenhalt und die Bewahrung des eigenen Status quo gegenüber der größeren Eidgenossenschaft.
+Eine verbissene, melancholische Trotzreaktion. Wenn wir schon klein und unbedeutend sind, so der unausgesprochene Konsens, dann werden wir wenigstens das absoluteste, reinste Destillat unserer selbst sein – selbst wenn wir daran ersticken.
