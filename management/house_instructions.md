@@ -181,31 +181,32 @@ node tests/migrate_culture.mjs <id> --write    # perform it
 node tests/migrate_culture.mjs --queue         # the whole house, by what holds it
 ```
 
-**Writing a new culture**: take the chapter names from the canon and never from
-memory - `@chbrain/khai-arch` exports them as `types`. The whole list, because a
-partial one is worse than none: an author given five kinds and missing three
-fills the gap by extrapolating the vocabulary it was shown, which is how a plan
-came to be written `Intent, Friction, Horizon, Echo`.
+**Writing a new culture**: do not type the shape at all.
 
-| kind     | chapters                                                                |
-| -------- | ----------------------------------------------------------------------- |
-| persona  | `Projection, Action, Shadow, Tell` (plus a required `type`)             |
-| place    | `Shown, Holds, Offers, Withheld`                                        |
-| piece    | `Place, Load Bearing, Apparent, Yearbook`                               |
-| process  | `Initiated by, Direction, Lever, Echo`                                  |
-| position | `Has, Orders, Loses, Drives`                                            |
-| pitch    | `Tenor, Undertow, Nerve, Echo`                                          |
-| plot     | `Cue, Action, Stage, Tension`                                           |
-| plan     | `Direction, Orders, Implementation, Targets` (plus a required `status`) |
-| play     | `Estate, Name, Arc, Company, Triggers, Stakes`                          |
+```
+node tests/new_culture.mjs <id> --iso <CODE> [--parent <culture>]
+node tests/new_culture.mjs <id> --add plot:01_die_trennung_1833 --add persona:fritz
+```
 
-Every one of them follows `Taxonomy` and `Owner` **except the play**, which takes
-neither: the play is the container and its six chapters are the whole file. The
-play's `Company` lists the cast and its `Triggers` chains the plots, one
-paragraph each - the plots do not belong in `Company`.
+`@chbrain/khai-arch` ships `templates` for all nine types - complete files, with
+the chapters in the canon's own order and the frontmatter each type requires.
+This stamps them, writes the manifest (`khai.production` is the culture id,
+`khai.anchor` is the play file, and `files` without which the package publishes
+empty), wires the umbrella, and opens the changeset the umbrella alone bumps.
 
-Write it with package specifiers from the start so it owes no `../`, then **commit it and migrate it second**: the
-tool moves an untracked directory by plain rename, but the ratchets read a
+It decides no content. It never picks how many personas a place has or what any
+of them say, and every chapter it writes is marked `TODO` so `khai-staging`
+names it until you have written it. An unedited scaffold cannot pass.
+
+Ten cultures arrived with the same seven defects before this existed, and the
+last nine of them were branched from a base whose rules already said what the
+chapters were. A list you read is not a file you were handed.
+
+Write with package specifiers from the start so it owes no `../`.
+
+**Migrating an existing culture into a package** is the other tool, and the order
+matters: **commit the culture first and migrate it second**, because the tool
+moves an untracked directory by plain rename, but the ratchets read a
 committed rename, and both commits ride the same pull request.
 
 The tool does the mechanical half — the move, the manifest (`khai.class "house"`,
