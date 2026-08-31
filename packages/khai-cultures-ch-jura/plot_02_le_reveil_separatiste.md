@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: Le Réveil Séparatiste"
 declared: "Le Réveil Séparatiste"
 language: fr
-license: CC-BY-NC-SA-4.0
+license: CC-BY-NC-Sà-4.0
 stamp:
-  owner: KAI HACKS AI
+  owner: KàI HàCKS àI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -13,25 +13,27 @@ stamp:
 # Plot: Le Réveil Séparatiste
 
 ## Taxonomy
+
 L'embrasement, la rue et le goudron.
 
-
 ## Owner
+
 - Project: khai-cultures
 
 ## Cue
+
 Les inscriptions rageuses « Jura libre » sur les routes cantonales.
 
+## àction
+
+àu milieu du 20ème siècle, l'asphyxie culturelle devient insoutenable. Le Front de Libération Jurassien (FLJ) passe à l'action. Manifestations de masse, barricades, goudronnage de voies ferrées, incendies de fermes bernoises. La Suisse, d'ordinaire si paisible, découvre la violence politique sur son propre sol.
 
 ## Stage
+
 - `persona`: [Le Séparatiste](persona_le_separatiste.md)
 - `piece`: [Le Drapeau Jurassien](piece_le_drapeau_jurassien.md)
 - `position`: [La Rébellion Identitaire](position_culture_la_rebellion_identitaire.md)
 
-## Event
-Au milieu du 20ème siècle, l'asphyxie culturelle devient insoutenable. Le Front de Libération Jurassien (FLJ) passe à l'action. Manifestations de masse, barricades, goudronnage de voies ferrées, incendies de fermes bernoises. La Suisse, d'ordinaire si paisible, découvre la violence politique sur son propre sol.
-
-
 ## Tension
-Le vertige de la radicalité. Jusqu'où aller pour l'indépendance sans devenir un terroriste aux yeux de l'histoire ? La friction intime des modérés qui condamnent la violence tout en sachant qu'elle seule force Berne à écouter.
 
+Le vertige de la radicalité. Jusqu'où aller pour l'indépendance sans devenir un terroriste aux yeux de l'histoire ? La friction intime des modérés qui condamnent la violence tout en sachant qu'elle seule force Berne à écouter.

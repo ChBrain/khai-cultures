@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Le Paysan Horloger"
+type: archetype
 declared: "Le Paysan Horloger"
 language: fr
 license: CC-BY-NC-SA-4.0
@@ -13,22 +14,25 @@ stamp:
 # Persona: Le Paysan Horloger
 
 ## Taxonomy
-Le gardien mutique du temps et de la terre.
 
+L'ancrage territorial et industriel.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+
+Il incarne la pérennité du territoire et [Le Canton Souverain](position_le_canton_souverain.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](process_speaking_french.md) avec rudesse et simplicité.
 
 ## Action
-[placeholder]
+
+Il partage son temps entre les travaux agricoles dans les vallées isolées des Franches-Montagnes et l'assemblage minutieux de pièces horlogères dans un petit atelier. Il maintient une tradition d'indépendance économique qui a permis au Jura de survivre économiquement à son isolement politique.
 
 ## Shadow
-Sa fierté silencieuse masque un profond complexe d'infériorité face aux citadins bernois, compensé par un entêtement qui confine à l'autosabotage.
 
+Il se sent souvent oublié, même par son propre nouveau gouvernement basé à Delémont, craignant que l'indépendance politique n'ait rien changé à son éloignement des centres de décision suisses.
 
 ## Tell
-Des mains calleuses, tachées de terre et d'huile de précision, manipulant un verre de Damassine avec une délicatesse inattendue.
 
+Il vérifie l'heure sur une montre mécanique complexe fabriquée de ses propres mains.

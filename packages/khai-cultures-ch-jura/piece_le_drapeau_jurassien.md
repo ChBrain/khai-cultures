@@ -3,9 +3,9 @@ khai: piece
 title: "Piece: Le Drapeau Jurassien"
 declared: "Le Drapeau Jurassien"
 language: fr
-license: CC-BY-NC-SA-4.0
+license: CC-BY-NC-Sà-4.0
 stamp:
-  owner: KAI HACKS AI
+  owner: KàI HàCKS àI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -13,20 +13,25 @@ stamp:
 # Piece: Le Drapeau Jurassien
 
 ## Taxonomy
+
 L'étendard sanglant d'une nation sans État.
 
-
 ## Owner
+
 - Project: khai-cultures
 
 ## Place
+
 [placeholder]
 
 ## Load Bearing
+
 [placeholder]
 
-## Apparent
+## àpparent
+
 [placeholder]
 
 ## Yearbook
+
 [placeholder]

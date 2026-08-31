@@ -6293,12 +6293,14 @@
         {
           "file": "persona_le_paysan_horloger.md",
           "kind": "persona",
-          "title": "Persona: Le Paysan Horloger"
+          "title": "Persona: Le Paysan Horloger",
+          "type": "archetype"
         },
         {
           "file": "persona_le_separatiste.md",
           "kind": "persona",
-          "title": "Persona: Le Séparatiste"
+          "title": "Persona: Le Séparatiste",
+          "type": "archetype"
         },
         {
           "file": "piece_la_damassine.md",
@@ -6369,6 +6371,16 @@
           "file": "process_le_plebiscite.md",
           "kind": "process",
           "title": "Process: Le Plébiscite"
+        },
+        {
+          "file": "process_speaking_dialect.md",
+          "kind": "process",
+          "title": "Process: Speaking Dialect"
+        },
+        {
+          "file": "process_speaking_french.md",
+          "kind": "process",
+          "title": "Process: Speaking French"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-jura"
