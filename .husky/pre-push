@@ -1,3 +1,30 @@
 #!/usr/bin/env sh
-npx khai-guard
-npx khai-guard branch-check
+# The last gate before a push, and the one CI cannot repeat in time to help.
+#
+# It used to run khai-guard alone, which checks lane and source/test separation
+# and nothing else. Two culture branches were pushed past it failing six of
+# eleven walls, announced as "successfully validated" - validated by running a
+# registry BUILDER and an advisory reporter that always exits 0. Neither can
+# fail, so neither found anything, and nothing between the author and the remote
+# disagreed.
+#
+# `npm run gates` runs the walls this house declares, and `tests/gates_manifest.test.mjs`
+# holds that declaration to ci.yml. It takes a couple of minutes, most of it the
+# conformance suite. That is the price of not spending a CI round and a review on
+# something the author could have seen.
+#
+# Never `--no-verify`. The house forbids it, and this is the hook it defeats.
+
+# The gates run against the installed node_modules and say so themselves. A
+# stale lockfile is invisible to them and fatal in CI, which installs with
+# `npm ci` and fails every job at the install step: half a second here, ten red
+# jobs and a silent log there.
+if ! npm ci --dry-run >/dev/null 2>&1; then
+  echo "pre-push: package-lock.json does not match the manifests."
+  echo "CI installs with \`npm ci\` and will fail every job at the install step."
+  npm ci --dry-run 2>&1 | grep -E "can only install|Missing:|Invalid:" | sed 's/^npm error/  /'
+  echo "  Run \`npm install\` and commit the lockfile."
+  exit 1
+fi
+
+npm run gates
