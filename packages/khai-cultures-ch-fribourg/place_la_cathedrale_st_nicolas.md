@@ -1,4 +1,4 @@
----
+﻿---
 khai: place
 title: "Place: La Cathédrale St-Nicolas"
 declared: "La Cathédrale St-Nicolas"
@@ -19,13 +19,15 @@ Le monument de la foi inébranlable.
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+La fleche inachevee transpercant le ciel bilingue, un poing de pierre de la suprÃ©matie de Rome.
 
 ## Holds
-[placeholder]
+Les echos des prieres vaincues du Sonderbund, enfermes dans des vitraux modernes.
 
 ## Offers
-[placeholder]
+Un asile vertical, cachant la rigidite du dogme par une redemption esthetique.
 
 ## Withheld
-[placeholder]
+Le silence des heresies etouffees, les fantomes des reformateurs chasses.
+
+

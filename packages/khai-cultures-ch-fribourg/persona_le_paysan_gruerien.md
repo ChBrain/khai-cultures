@@ -1,4 +1,4 @@
----
+﻿---
 khai: persona
 title: "Persona: Le Paysan Gruérien"
 declared: "Le Paysan Gruérien"
@@ -19,13 +19,15 @@ L'ancrage rural et traditionnel.
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Action
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Shadow
-[placeholder]
+Il vend son image d'authenticite aux touristes, devenant l'acteur d'une mascarade traditionnelle tout en meprisant l'urbain dont depend sa survie.
 
 ## Tell
-[placeholder]
+Des mains burinees et un dialecte rugueux qui exclut instantanement quiconque n'est pas ne a l'ombre du Moleson.
+
+

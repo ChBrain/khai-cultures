@@ -1,4 +1,4 @@
----
+﻿---
 khai: play
 title: "Fribourg"
 description: "Fribourg: The stubborn Catholic bastion that built an intellectual elite and now bridges the French-German linguistic divide."
@@ -47,3 +47,4 @@ Comment préserver une identité catholique conservatrice et rurale tout en deve
 - `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
 - `position`: [Le Pont des Langues](position_le_pont_des_langues.md)
 - `process`: [La Poya](process_la_poya.md)
+

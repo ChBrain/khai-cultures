@@ -1,4 +1,4 @@
----
+﻿---
 khai: plot
 title: "Plot: L'Université 1889"
 declared: "L'Université 1889"
@@ -19,14 +19,16 @@ La contre-attaque intellectuelle.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+La force des armes ayant echoue, il faut conquerir les esprits.
 
 ## Stage
 - `persona`: [L'Étudiant Catholique](persona_l_etudiant_catholique.md)
 - `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
 
 ## Event
-[placeholder]
+Le conseiller Georges Python fonde une universite catholique de toutes pieces dans la pauvrete.
 
 ## Tension
-[placeholder]
+Le paradoxe d'un canton se saignant pour financer une elite. L'intellect devient une arme de revanche sociale.
+
+

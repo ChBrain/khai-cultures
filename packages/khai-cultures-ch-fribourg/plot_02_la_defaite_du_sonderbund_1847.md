@@ -1,4 +1,4 @@
----
+﻿---
 khai: plot
 title: "Plot: La Défaite du Sonderbund 1847"
 declared: "La Défaite du Sonderbund 1847"
@@ -19,14 +19,16 @@ Le traumatisme de la guerre civile.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+L'ultimatum de la Diete federale exigeant la dissolution de l'alliance catholique.
 
 ## Stage
 - `persona`: [Le Paysan Gruérien](persona_le_paysan_gruerien.md)
 - `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
 
 ## Event
-[placeholder]
+L'armee catholique s'effondre sans combattre, humiliee par la machine de guerre liberale.
 
 ## Tension
-[placeholder]
+La honte viscerale de l'impuissance. Fribourg s'agenouille devant la modernite, nourrissant un deuil et un ressentiment brulants.
+
+

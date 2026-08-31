@@ -1,4 +1,4 @@
----
+﻿---
 khai: piece
 title: "Piece: Le Bilinguisme"
 declared: "Le Bilinguisme"
@@ -19,13 +19,14 @@ L'outil d'intégration nationale.
 - Project: khai-cultures
 
 ## Place
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Load Bearing
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Apparent
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Yearbook
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
+

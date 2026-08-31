@@ -1,4 +1,4 @@
----
+﻿---
 khai: plot
 title: "Plot: La Fondation Zähringen 1157"
 declared: "La Fondation Zähringen 1157"
@@ -19,14 +19,16 @@ Les origines médiévales.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+La necessite de fortifier la frontiere par une dynastie ambitieuse.
 
 ## Stage
 - `place`: [La Sarine](place_la_sarine.md)
 - `position`: [Le Pont des Langues](position_le_pont_des_langues.md)
 
 ## Event
-[placeholder]
+Les Zahringen plantent une ville sur un meandre impossible, defi geologique contre le vide.
 
 ## Tension
-[placeholder]
+La volonte imperiale heurte la geographie romande, une anomalie agressive contre l'ordre des rives.
+
+

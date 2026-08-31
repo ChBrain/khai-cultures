@@ -1,4 +1,4 @@
----
+﻿---
 khai: persona
 title: "Persona: L'Étudiant Catholique"
 declared: "L'Étudiant Catholique"
@@ -19,13 +19,15 @@ La pépinière de l'élite conservatrice.
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Action
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Shadow
-[placeholder]
+Sous sa soif de purete morale bouillonne un complexe de superiorite qui l'isole, double d'une peur panique face au chaos seculier.
 
 ## Tell
-[placeholder]
+Une epinglette discrete sur le revers de son veston, jaugeant perpetuellement la moralite de son interlocuteur.
+
+

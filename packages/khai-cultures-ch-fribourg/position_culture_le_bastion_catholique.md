@@ -1,4 +1,4 @@
----
+﻿---
 khai: position
 title: "Position: Le Bastion Catholique"
 declared: "Le Bastion Catholique"
@@ -19,13 +19,15 @@ La forteresse spirituelle et politique.
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Le monopole moral sur l'histoire, la culpabilite ancree dans la pierre.
 
 ## Orders
-[placeholder]
+Le repli sur soi, la preservation des dogmes contre le relativisme.
 
 ## Loses
-[placeholder]
+La pertinence au sein de la jeunesse et la capacite a dialoguer avec la modernite.
 
 ## Drives
-[placeholder]
+La fondation d'institutions pour defendre une verite deja ecrite, creant une tension creatrice.
+
+

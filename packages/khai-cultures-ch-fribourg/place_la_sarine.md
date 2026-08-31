@@ -1,4 +1,4 @@
----
+﻿---
 khai: place
 title: "Place: La Sarine"
 declared: "La Sarine"
@@ -19,13 +19,15 @@ La frontière liquide du Röstigraben.
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Une cicatrice liquide, tranchant la pierre et separant les mondes latin et germanique.
 
 ## Holds
-[placeholder]
+Les murmures des frontieres et le poids geopolitique du Rostigraben.
 
 ## Offers
-[placeholder]
+Une ligne de clivage claire justifiant la difference.
 
 ## Withheld
-[placeholder]
+Le fait que l'eau coule indifferemment: la division n'est qu'une fiction d'hommes terrorises par l'alterite.
+
+

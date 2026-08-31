@@ -1,1 +1,2 @@
-Instructions for playwrights touching this culture.
+﻿Instructions for playwrights touching this culture.
+

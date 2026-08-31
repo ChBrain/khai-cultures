@@ -1,4 +1,4 @@
----
+﻿---
 khai: plot
 title: "Plot: Le Bastion Catholique"
 declared: "Le Bastion Catholique"
@@ -19,14 +19,16 @@ La résistance à la Réforme.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Les echos de la Reforme engloutissant Berne et Geneve, laissant Fribourg isolee.
 
 ## Stage
 - `place`: [La Cathédrale St-Nicolas](place_la_cathedrale_st_nicolas.md)
 - `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
 
 ## Event
-[placeholder]
+Fribourg ferme ses portes, rejetant le protestantisme pour devenir l'ile romaine.
 
 ## Tension
-[placeholder]
+L'etouffement psychologique d'etre la derniere citadelle pure, confondant paranoÃ¯a et foi.
+
+

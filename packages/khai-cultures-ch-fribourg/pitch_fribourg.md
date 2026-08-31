@@ -1,4 +1,4 @@
----
+﻿---
 khai: pitch
 title: "Pitch: Fribourg"
 declared: "Fribourg"
@@ -19,13 +19,14 @@ La foi, le fromage et la frontière.
 - Project: khai-cultures
 
 ## Tenor
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Undertow
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Nerve
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Echo
-[placeholder]
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
+

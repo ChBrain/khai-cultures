@@ -1,4 +1,4 @@
----
+﻿---
 khai: process
 title: "Process: La Poya"
 declared: "La Poya"
@@ -19,13 +19,15 @@ La procession sacrée de l'alpage.
 - Project: khai-cultures
 
 ## Initiated by
-[placeholder]
+L'instinct ancestral de quitter la vallee corrompue pour la purete des hauteurs.
 
 ## Direction
-[placeholder]
+Une ascension physique et spirituelle vers l'isolement sacre des alpages.
 
 ## Lever
-[placeholder]
+La codification esthetique transformant la migration agricole en fierte identitaire.
 
 ## Echo
-[placeholder]
+Le retour inevitable rappelant que toute elevation est temporaire et que la montagne ne peut nourrir eternellement.
+
+

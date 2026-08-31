@@ -1,4 +1,4 @@
----
+﻿---
 khai: plot
 title: "Plot: Le Pont des Langues"
 declared: "Le Pont des Langues"
@@ -19,7 +19,7 @@ L'identité bilingue moderne.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+La globalisation forcant la Suisse a s'unifier.
 
 ## Stage
 - `piece`: [Le Bilinguisme](piece_le_bilinguisme.md)
@@ -28,7 +28,9 @@ L'identité bilingue moderne.
 - `process`: [La Poya](process_la_poya.md)
 
 ## Event
-[placeholder]
+Fribourg se metamorphose de forteresse en carrefour bilingue intellectuel.
 
 ## Tension
-[placeholder]
+L'erosion de l'identite pure. Le pont devient un lieu de passage ou l'on risque de perdre son essence.
+
+

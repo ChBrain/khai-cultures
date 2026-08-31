@@ -1,4 +1,4 @@
----
+﻿---
 khai: position
 title: "Position: Le Pont des Langues"
 declared: "Le Pont des Langues"
@@ -19,13 +19,15 @@ L'entremetteur de la Confédération.
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Le pragmatisme linguistique, la traduction culturelle et le fardeau de l'incomprehension.
 
 ## Orders
-[placeholder]
+L'integration forcee, le compromis permanent, la dilution des frontieres.
 
 ## Loses
-[placeholder]
+La purete des extremes; tout devient nuance jusqu'a l'affadissement identitaire.
 
 ## Drives
-[placeholder]
+Fribourg devient l'arbitre incontournable, tirant sa puissance de sa fluidite bilingue.
+
+
