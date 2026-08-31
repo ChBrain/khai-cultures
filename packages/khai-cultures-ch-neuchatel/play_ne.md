@@ -20,13 +20,13 @@ La république horlogère.
 - Project: khai-cultures
 
 ## Arc
-Un territoire à la trajectoire politique unique : principauté sous la couronne prussienne tout en étant alliée suisse, refuge de penseurs radicaux, berceau de l'industrialisation horlogère, avant de s'affranchir de la monarchie par une révolution pacifique en 1848. Aujourd'hui, c'est une république laïque fière, naviguant entre héritage industriel et innovation de pointe.
+Un territoire à la trajectoire politique unique : principauté sous la couronne prussienne tout en étant alliée suisse, refuge de penseurs radicaux et d'anarchistes, berceau brutal de l'industrialisation horlogère, avant de s'affranchir de la monarchie par une révolution idyllique en 1848. Aujourd'hui, c'est une république fière, naviguant avec angoisse entre un héritage mécanique magnifié et une innovation de pointe qui menace de l'effacer.
 
 ## Name
 La République et Canton de Neuchâtel.
 
 ## Stakes
-Comment se réinventer quand l'industrie horlogère qui a littéralement dicté la forme de vos villes subit des crises existentielles ?
+Comment se réinventer quand l'industrie horlogère qui a littéralement dicté la forme de vos villes, le rythme de votre sommeil et la structure de votre âme subit des crises existentielles à l'ère numérique ? La perfection technique peut-elle sauver de l'obsolescence, ou n'est-elle qu'une élégante prison ?
 
 ## Estate
 - House: packages/khai-cultures/README.md

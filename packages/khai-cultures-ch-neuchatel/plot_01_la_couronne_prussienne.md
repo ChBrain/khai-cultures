@@ -19,14 +19,14 @@ L'ère de la domination royale distante.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+L'allégeance jurée à un monarque lointain qui règne sans jamais fouler la terre qu'il possède.
 
 ## Stage
 - `place`: [Le Château de Neuchâtel](place_le_chateau_de_neuchatel.md)
 - `position`: [La République](position_culture_la_republique.md)
 
 ## Event
-[placeholder]
+Neuchâtel devient une curiosité géopolitique : une principauté prussienne au cœur de la Suisse. Les élites locales cultivent des manières de cour et un snobisme intellectuel, accueillant Rousseau et les Lumières sous la protection paradoxale d'un roi despote.
 
 ## Tension
-[placeholder]
+La schizophrénie politique. Comment se revendiquer de la liberté des Lumières tout en tirant sa légitimité et sa fierté d'un maître étranger ? Une noblesse de salon qui méprise le peuple tout en théorisant l'égalité.

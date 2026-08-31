@@ -19,7 +19,7 @@ Le carrefour moderne de la précision.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+La désindustrialisation et les crises horlogères successives frappent les vallées autrefois triomphantes.
 
 ## Stage
 - `persona`: [L'Horloger](persona_l_horloger.md)
@@ -27,7 +27,7 @@ Le carrefour moderne de la précision.
 - `position`: [L'Esprit Innovateur](position_l_esprit_innovateur.md)
 
 ## Event
-[placeholder]
+Le passage douloureux de la mécanique traditionnelle à l'ère électronique et aux microtechniques de pointe. La République doit réinventer son mythe fondateur sans renier la culture de l'atelier qui a forgé son âme.
 
 ## Tension
-[placeholder]
+Le vertige de l'obsolescence. Face aux bouleversements mondiaux, l'arrogance d'antan se mue en un doute lancinant : et si la maîtrise du temps n'était qu'une illusion ? Le territoire lutte pour conserver son identité laïque et pionnière face à la standardisation du monde.

@@ -19,13 +19,13 @@ La commémoration révolutionnaire fondatrice.
 - Project: khai-cultures
 
 ## Initiated by
-[placeholder]
+Les républicains des montagnes, las des compromissions des élites du bas.
 
 ## Direction
-[placeholder]
+Du haut vers le bas. Des cimes glacées vers le confort du bord du lac, balayant l'ancien ordre au passage.
 
 ## Lever
-[placeholder]
+Le pouvoir symbolique du peuple en mouvement. La menace de la violence mécanique couplée à une discipline militaire étonnante pour des civils.
 
 ## Echo
-[placeholder]
+Chaque année, la commémoration réveille la fierté, mais révèle aussi une certaine hypocrisie contemporaine, où les héritiers des révolutionnaires sont devenus les notables confortables qu'ils dénonçaient autrefois.

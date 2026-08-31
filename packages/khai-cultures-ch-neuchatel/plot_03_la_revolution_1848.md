@@ -19,7 +19,7 @@ La marche républicaine victorieuse.
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Le souffle de 1848 traverse l'Europe et réveille les montagnards engourdis.
 
 ## Stage
 - `persona`: [Le Républicain](persona_le_republicain.md)
@@ -27,7 +27,7 @@ La marche républicaine victorieuse.
 - `position`: [La République](position_culture_la_republique.md)
 
 ## Event
-[placeholder]
+La marche du 1er mars depuis les montagnes jusqu'au château. Une révolution étonnamment pacifique où la force mécanique des horlogers et le courage des paysans balaient l'administration prussienne. La République est proclamée dans un élan de pureté idéaliste.
 
 ## Tension
-[placeholder]
+Le triomphe du peuple sur les élites ne résout pas la fracture intime. Les révolutionnaires découvrent que détruire un roi lointain est facile, mais que gouverner une société fracturée par l'industrie demande des compromis qui trahissent leur idéal premier.

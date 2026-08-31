@@ -19,13 +19,13 @@ L'objet-monde de l'économie neuchâteloise.
 - Project: khai-cultures
 
 ## Place
-[placeholder]
+Au poignet des puissants de ce monde, mais fabriquée dans le silence des montagnes glaciales.
 
 ## Load Bearing
-[placeholder]
+Le symbole de l'ingéniosité humaine triomphant sur le caractère éphémère de l'existence.
 
 ## Apparent
-[placeholder]
+Un joyau d'acier, d'or et de rubis, dont le tic-tac rassurant prouve que l'univers est ordonné.
 
 ## Yearbook
-[placeholder]
+Ce n'est pas seulement un instrument de mesure, c'est une prison dorée. Le propriétaire croit posséder le temps, mais c'est la montre qui dicte son rythme, rappelant cruellement chaque seconde perdue vers la mort.

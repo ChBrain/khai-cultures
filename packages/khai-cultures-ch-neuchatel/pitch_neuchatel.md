@@ -19,13 +19,13 @@ La précision mécanique et l'esprit rebelle.
 - Project: khai-cultures
 
 ## Tenor
-[placeholder]
+Le murmure constant des engrenages sous la glace. Une terre de contrastes où le rationalisme le plus froid des Lumières côtoie la fièvre incandescente d'une révolution libertaire.
 
 ## Undertow
-[placeholder]
+L'obsession de la précision cache une angoisse existentielle du vide. En quadrillant l'espace par des usines et en mesurant le temps à la microseconde, on tente d'exorciser la dureté des montagnes et l'ombre d'un roi lointain.
 
 ## Nerve
-[placeholder]
+L'arrogance tranquille de l'artisan qui sait que sans ses aiguilles, le monde moderne perd son rythme. Un esprit farouchement indépendant qui refuse l'autorité non méritée.
 
 ## Echo
-[placeholder]
+Le tic-tac métallique résonne dans les vallées froides, rappelant constamment que le temps est une machine que l'on peut maîtriser, mais jamais arrêter.

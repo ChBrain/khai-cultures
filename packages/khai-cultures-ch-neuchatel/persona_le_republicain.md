@@ -19,13 +19,13 @@ Le citoyen affranchi.
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+Le citoyen-soldat fier, ancré dans le terroir, porteur des valeurs de 1848, défenseur intransigeant de la laïcité et du bien commun.
 
 ## Action
-[placeholder]
+Pérore dans les brasseries, vote à chaque scrutin, défend le modèle égalitaire avec une ferveur presque religieuse.
 
 ## Shadow
-[placeholder]
+Une intolérance masquée par la rhétorique démocratique. Son amour de l'égalité se transforme souvent en un refus viscéral de la différence, écrasant toute nuance sous le poids du consensus forcé.
 
 ## Tell
-[placeholder]
+Une façon de citer les textes de loi avec la gravité d'un pasteur, portant toujours une écharpe rouge discrète, relique sentimentale d'une révolution qu'il n'a pas vécue.

@@ -19,13 +19,13 @@ La ville-manufacture en échiquier.
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Une grille urbaine implacable, conçue pour maximiser l'ensoleillement des fenêtres des ateliers. L'ordre industriel fait ville.
 
 ## Holds
-[placeholder]
+Des milliers de petites mains usées par le limage, et un brassage d'idées radicales où l'anarchisme a fleuri à l'ombre des manufactures.
 
 ## Offers
-[placeholder]
+L'illusion que la vie peut être organisée aussi parfaitement qu'un mouvement d'horlogerie.
 
 ## Withheld
-[placeholder]
+La froideur inhumaine d'un urbanisme dicté par le profit, où chaque rue perpendiculaire enferme l'âme dans une géométrie sans pitié, étouffant la spontanéité sous la rigueur.

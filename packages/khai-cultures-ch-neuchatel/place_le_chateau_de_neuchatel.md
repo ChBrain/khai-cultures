@@ -19,13 +19,13 @@ Le siège du pouvoir disputé.
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Une forteresse austère de pierre jaune qui domine le lac, symbole du pouvoir inébranlable depuis le Moyen Âge.
 
 ## Holds
-[placeholder]
+Les fantômes des gouverneurs prussiens et les échos des pas des révolutionnaires qui s'en sont emparés sans verser de sang.
 
 ## Offers
-[placeholder]
+Un panorama imprenable sur les Alpes, rappelant que la République regarde loin par-delà ses propres frontières.
 
 ## Withheld
-[placeholder]
+La culpabilité bourgeoise. Le château abrite aujourd'hui le gouvernement démocratique, mais ses murs suintent toujours la complaisance des anciennes élites qui préféraient un tyran lointain au peuple grondant.

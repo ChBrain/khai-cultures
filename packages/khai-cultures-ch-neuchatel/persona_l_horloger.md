@@ -19,13 +19,13 @@ L'artisan de l'infiniment petit.
 - Project: khai-cultures
 
 ## Projection
-[placeholder]
+L'ascète de l'établi, penché sur sa loupe, maître absolu d'un univers micrométrique où le chaos n'a pas sa place.
 
 ## Action
-[placeholder]
+Assemble des calibres d'une complexité folle, invente des complications inutiles par pure provocation intellectuelle.
 
 ## Shadow
-[placeholder]
+Une obsession du contrôle qui frise la pathologie. Dans sa quête de la montre parfaite, il néglige la vie humaine, incapable de gérer les émotions qui ne se règlent pas avec une pince à épiler.
 
 ## Tell
-[placeholder]
+Des doigts tachés d'huile fine, une posture courbée même hors de l'atelier, et un tic oculaire constant, comme s'il vérifiait mentalement l'échappement d'un mécanisme invisible.

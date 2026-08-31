@@ -19,13 +19,13 @@ La ferveur démocratique et laïque.
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Un esprit de corps indéfectible, forgé dans la rupture avec l'Ancien Régime.
 
 ## Orders
-[placeholder]
+L'intégration stricte, le primat de la chose publique sur la sphère privée, et une laïcité militante.
 
 ## Loses
-[placeholder]
+La douceur des traditions anciennes, sacrifiant l'esprit de contradiction sur l'autel d'un consensus parfois étouffant.
 
 ## Drives
-[placeholder]
+La nécessité de prouver au reste du monde que des montagnards sans roi peuvent gérer la complexité d'un État industriel moderne avec une probité mathématique.
