@@ -13,6 +13,7 @@
     "packages/*"
   ],
   "scripts": {
+    "prepare": "husky",
     "test": "vitest run --test-timeout=120000 --exclude '**/node_modules/**' --exclude '.claude/**'",
     "gates": "khai-tests gates .",
     "skeleton": "node tests/skeleton.mjs",

@@ -1,0 +1,14 @@
+# Line endings are normalised on the way in, so a file written on Windows or by
+# a tool defaulting to CRLF lands in the repository as LF like everything else.
+#
+# Eight culture branches arrived carrying 121 CRLF findings between them. The
+# canon validator catches them, but only after a push and a CI round, and
+# `prettier` did not: its `endOfLine` was "auto", which preserves whatever it
+# finds rather than deciding. Both halves are fixed - this normalises on commit,
+# and prettier now writes LF.
+* text=auto eol=lf
+
+# Binaries must not be touched.
+*.png binary
+*.jpg binary
+*.pdf binary

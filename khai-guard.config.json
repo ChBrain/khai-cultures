@@ -97,6 +97,7 @@
         "allow": [
           ".github/**",
           ".husky/**",
+          ".gitattributes",
           "khai-guard.config.json",
           "tests/**",
           "GEMINI.md",
