@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Le Républicain"
+type: archetype
 declared: "Le Républicain"
 language: fr
 license: CC-BY-NC-SA-4.0
@@ -13,19 +14,25 @@ stamp:
 # Persona: Le Républicain
 
 ## Taxonomy
-Le citoyen affranchi.
+
+Le défenseur farouche des institutions.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Projection
-Le citoyen-soldat fier, ancré dans le terroir, porteur des valeurs de 1848, défenseur intransigeant de la laïcité et du bien commun.
+
+Il est la voix de l'indépendance et de [La République](position_culture_la_republique.md) neuchâteloise. Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](process_speaking_french.md) et [écrit](process_writing_french.md) avec un ton empreint de fierté civique.
 
 ## Action
-Pérore dans les brasseries, vote à chaque scrutin, défend le modèle égalitaire avec une ferveur presque religieuse.
+
+Il milite, débat et participe à chaque commémoration de la Marche du 1er Mars. Il conçoit l'État non comme un souverain, mais comme le garant strict des libertés gagnées contre le roi de Prusse en 1848.
 
 ## Shadow
-Une intolérance masquée par la rhétorique démocratique. Son amour de l'égalité se transforme souvent en un refus viscéral de la différence, écrasant toute nuance sous le poids du consensus forcé.
+
+Sa fierté républicaine masque souvent un complexe d'infériorité face aux grands cantons urbains comme Genève ou Vaud. Son attachement viscéral aux idéaux de 1848 peut parfois se muer en un conservatisme déguisé, bloquant les réformes sous prétexte de protéger l'héritage révolutionnaire.
 
 ## Tell
-Une façon de citer les textes de loi avec la gravité d'un pasteur, portant toujours une écharpe rouge discrète, relique sentimentale d'une révolution qu'il n'a pas vécue.
+
+Il ne manque jamais de souligner qu'il habite une "République" avant d'être un "Canton", et corrige quiconque oublie la nuance, le ton ferme mais courtois.

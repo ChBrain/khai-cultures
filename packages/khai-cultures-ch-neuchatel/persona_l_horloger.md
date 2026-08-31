@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: L'Horloger"
+type: archetype
 declared: "L'Horloger"
 language: fr
 license: CC-BY-NC-SA-4.0
@@ -13,19 +14,25 @@ stamp:
 # Persona: L'Horloger
 
 ## Taxonomy
-L'artisan de l'infiniment petit.
+
+L'artisan méticuleux des montagnes.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Projection
-L'ascète de l'établi, penché sur sa loupe, maître absolu d'un univers micrométrique où le chaos n'a pas sa place.
+
+Il incarne l'obsession neuchâteloise pour la précision et [L'Esprit Innovateur](position_l_esprit_innovateur.md). Il s'exprime dans le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](process_speaking_french.md) et [écrit](process_writing_french.md) avec une exactitude quasi clinique.
 
 ## Action
-Assemble des calibres d'une complexité folle, invente des complications inutiles par pure provocation intellectuelle.
+
+Il passe ses journées courbé sur un établi dans la grisaille de La Chaux-de-Fonds, manipulant des pièces microscopiques. Sa vie est structurée par la rigueur protestante et le rythme des manufactures. Il innove constamment, non par passion flamboyante, mais par nécessité de perfectionnement.
 
 ## Shadow
-Une obsession du contrôle qui frise la pathologie. Dans sa quête de la montre parfaite, il néglige la vie humaine, incapable de gérer les émotions qui ne se règlent pas avec une pince à épiler.
+
+Sa quête de perfection cache une rigidité psychologique écrasante. Il est terrifié par l'imprévu, le chaos et tout ce qui ne peut être mesuré. Il regarde souvent de haut ceux qui ne maîtrisent pas la microtechnique, s'enfermant dans une bulle d'élitisme technique.
 
 ## Tell
-Des doigts tachés d'huile fine, une posture courbée même hors de l'atelier, et un tic oculaire constant, comme s'il vérifiait mentalement l'échappement d'un mécanisme invisible.
+
+Ses doigts portent de minuscules cicatrices régulières. Lorsqu'on lui parle, ses yeux dérivent inévitablement vers le poignet de son interlocuteur pour évaluer le mouvement de sa montre.

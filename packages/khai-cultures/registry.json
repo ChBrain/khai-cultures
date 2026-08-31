@@ -6404,17 +6404,19 @@
         {
           "file": "persona_l_horloger.md",
           "kind": "persona",
-          "title": "Persona: L'Horloger"
+          "title": "Persona: L'Horloger",
+          "type": "archetype"
         },
         {
           "file": "persona_le_republicain.md",
           "kind": "persona",
-          "title": "Persona: Le Républicain"
+          "title": "Persona: Le Républicain",
+          "type": "archetype"
         },
         {
           "file": "piece_l_absinthe.md",
           "kind": "piece",
-          "title": "Piece: L'Absinthe"
+          "title": "Piece: L'àbsinthe"
         },
         {
           "file": "piece_la_montre_mecanique.md",
@@ -6480,6 +6482,16 @@
           "file": "process_la_marche_du_1er_mars.md",
           "kind": "process",
           "title": "Process: La Marche du 1er Mars"
+        },
+        {
+          "file": "process_speaking_french.md",
+          "kind": "process",
+          "title": "Process: Speaking French"
+        },
+        {
+          "file": "process_writing_french.md",
+          "kind": "process",
+          "title": "Process: Writing French"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-neuchatel"
