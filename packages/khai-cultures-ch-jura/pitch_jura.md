@@ -13,7 +13,8 @@ stamp:
 # Pitch: Jura
 
 ## Taxonomy
-L'indépendance arrachée de haute lutte.
+La cicatrice ouverte de la Confédération, saignante de mots et de pierres.
+
 
 ## Owner
 - Project: khai-cultures

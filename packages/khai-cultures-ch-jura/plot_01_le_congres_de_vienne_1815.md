@@ -13,20 +13,24 @@ stamp:
 # Plot: Le Congrès de Vienne 1815
 
 ## Taxonomy
-La domination imposée.
+La punition diplomatique et l'asservissement.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Un trait de plume à Vienne qui efface une nation.
+
 
 ## Stage
 - `position`: [La Rébellion Identitaire](position_culture_la_rebellion_identitaire.md)
 - `place`: [Le Château de Porrentruy](place_le_chateau_de_porrentruy.md)
 
 ## Event
-[placeholder]
+En 1815, les grandes puissances européennes redessinent la carte. Pour compenser le canton de Berne de la perte de Vaud et de l'Argovie, on lui offre l'ancien évêché de Bâle. Le Jura, catholique et francophone, est offert en cadeau de consolation à un État protestant, germanophone, et autoritaire.
+
 
 ## Tension
-[placeholder]
+Le ressentiment brûlant d'être traité comme une simple monnaie d'échange. La naissance de la haine interculturelle, alors que l'administration bernoise tente d'imposer sa langue et sa religion à un peuple perçu comme rebelle et inférieur.
+

@@ -13,19 +13,24 @@ stamp:
 # Place: Le Château de Porrentruy
 
 ## Taxonomy
-Le siège de l'ancien prince-évêque.
+Le fantôme de la grandeur épiscopale.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Une forteresse imposante dominant la ville, rappelant l'époque fastueuse où les Princes-Évêques de Bâle régnaient en souverains absolus sur le territoire.
+
 
 ## Holds
-[placeholder]
+Les archives silencieuses d'une indépendance perdue, et l'écho des pas des nobles qui contrastaient avec la pauvreté des campagnes environnantes.
+
 
 ## Offers
-[placeholder]
+Une légitimité historique indispensable : la preuve de pierre que le Jura fut un jour maître de son propre destin.
+
 
 ## Withheld
-[placeholder]
+Le souvenir humiliant de 1815, lorsque ces murs ont été vidés de leur pouvoir pour devenir de simples bureaux administratifs de l'occupant bernois.
+

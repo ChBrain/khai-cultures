@@ -13,7 +13,8 @@ stamp:
 # Persona: Le Séparatiste
 
 ## Taxonomy
-Le militant de l'indépendance.
+L'artisan de la rupture, nourri d'une sainte colère.
+
 
 ## Owner
 - Project: khai-cultures
@@ -25,7 +26,9 @@ Le militant de l'indépendance.
 [placeholder]
 
 ## Shadow
-[placeholder]
+Il a tellement défini son existence par l'opposition à Berne qu'il craint secrètement le jour de la victoire complète ; sans ennemi, il n'est plus qu'un homme fatigué.
+
 
 ## Tell
-[placeholder]
+Une lueur de défiance immédiate dans le regard à l'entente d'un accent suisse-allemand, et le port ostentatoire, presque agressif, d'une cravate ou d'un pin's aux couleurs rouge et blanche.
+

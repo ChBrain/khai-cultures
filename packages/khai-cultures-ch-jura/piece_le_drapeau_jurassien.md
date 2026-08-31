@@ -13,7 +13,8 @@ stamp:
 # Piece: Le Drapeau Jurassien
 
 ## Taxonomy
-L'étendard de ralliement de la crosse épiscopale.
+L'étendard sanglant d'une nation sans État.
+
 
 ## Owner
 - Project: khai-cultures

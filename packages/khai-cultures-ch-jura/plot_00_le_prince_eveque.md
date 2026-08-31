@@ -13,20 +13,24 @@ stamp:
 # Plot: Le Prince Évêque
 
 ## Taxonomy
-L'ère de l'indépendance médiévale.
+L'âge d'or mythifié de l'autonomie.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+La splendeur de la cour de Porrentruy face à la rudesse paysanne.
+
 
 ## Stage
 - `place`: [Le Château de Porrentruy](place_le_chateau_de_porrentruy.md)
 - `persona`: [Le Paysan Horloger](persona_le_paysan_horloger.md)
 
 ## Event
-[placeholder]
+Pendant des siècles, le Jura vit sous la tutelle du Prince-Évêque de Bâle. Une époque de semi-indépendance, souvent idéalisée par les séparatistes modernes, mais qui cachait une fracture profonde entre une noblesse cléricale opulente et un peuple de paysans-horlogers luttant contre la faim et le froid.
+
 
 ## Tension
-[placeholder]
+La contradiction entre l'idéalisation romantique d'un passé souverain et la réalité d'une sujétion féodale. Le mythe fondateur est bâti sur l'oubli sélectif de la misère.
+

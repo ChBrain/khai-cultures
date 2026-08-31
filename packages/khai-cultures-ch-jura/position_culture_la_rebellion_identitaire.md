@@ -13,19 +13,24 @@ stamp:
 # Position: La Rébellion Identitaire
 
 ## Taxonomy
-L'antagonisme fondateur.
+L'ADN de l'insoumission.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Une culture de la contestation, une mémoire collective des barricades et des manifestations, des chants patriotiques imprégnés de défi.
+
 
 ## Orders
-[placeholder]
+Le rassemblement immédiat face à toute ingérence fédérale ou bernoise, la solidarité tribale dans l'adversité.
+
 
 ## Loses
-[placeholder]
+Sa raison d'être dans un climat apaisé ; la rébellion s'atrophie et devient folklore quand l'ennemi disparaît.
+
 
 ## Drives
-[placeholder]
+La politique jurassienne, souvent orientée à gauche, solidaire des autres minorités, et toujours prompte à s'opposer au pouvoir central de Berne.
+

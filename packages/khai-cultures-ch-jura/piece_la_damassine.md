@@ -13,7 +13,8 @@ stamp:
 # Piece: La Damassine
 
 ## Taxonomy
-Le spiritueux des jours de fête.
+L'élixir brûlant du terroir rebelle.
+
 
 ## Owner
 - Project: khai-cultures

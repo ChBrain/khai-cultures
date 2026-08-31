@@ -13,13 +13,15 @@ stamp:
 # Plot: La Question Jurassienne
 
 ## Taxonomy
-La frontière inachevée.
+Le fantôme des frontières inachevées.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Des recours en justice interminables pour le sort de Moutier.
+
 
 ## Stage
 - `place`: [Moutier](place_moutier.md)
@@ -28,7 +30,9 @@ La frontière inachevée.
 - `persona`: [Le Séparatiste](persona_le_separatiste.md)
 
 ## Event
-[placeholder]
+La création du canton n'a pas réglé le sort des communes limitrophes. Des décennies plus tard, la ville de Moutier vote pour rejoindre le canton du Jura, déclenchant une guerre juridique, des accusations de fraude électorale et des revotes sous surveillance fédérale.
+
 
 ## Tension
-[placeholder]
+L'obsession morbide du rattachement total. Le refus de passer à autre chose. Tant que le dernier village ne sera pas libéré, l'identité jurassienne restera accrochée à ce combat, incapable de se tourner sereinement vers l'avenir.
+

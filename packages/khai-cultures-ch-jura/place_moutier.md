@@ -13,19 +13,24 @@ stamp:
 # Place: Moutier
 
 ## Taxonomy
-La ville déchirée de la frontière.
+La ville écartelée, la cicatrice urbaine.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Une bourgade industrielle nichée au fond d'une vallée, où chaque rue, chaque façade semble porter les stigmates d'une guerre civile froide.
+
 
 ## Holds
-[placeholder]
+La population la plus divisée du pays ; des familles qui ne se parlent plus, des balcons arborant des drapeaux antagonistes, des votes qui se jouent à une poignée de voix.
+
 
 ## Offers
-[placeholder]
+Le point de friction ultime, le champ de bataille démocratique où se décide l'achèvement du rêve séparatiste.
+
 
 ## Withheld
-[placeholder]
+La paix sociale véritable. Même après la victoire dans les urnes, la méfiance reste incrustée dans les pavés et les regards en coin au supermarché.
+

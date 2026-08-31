@@ -13,7 +13,8 @@ stamp:
 # Persona: Le Paysan Horloger
 
 ## Taxonomy
-La double nature laborieuse de l'arc jurassien.
+Le gardien mutique du temps et de la terre.
+
 
 ## Owner
 - Project: khai-cultures
@@ -25,7 +26,9 @@ La double nature laborieuse de l'arc jurassien.
 [placeholder]
 
 ## Shadow
-[placeholder]
+Sa fierté silencieuse masque un profond complexe d'infériorité face aux citadins bernois, compensé par un entêtement qui confine à l'autosabotage.
+
 
 ## Tell
-[placeholder]
+Des mains calleuses, tachées de terre et d'huile de précision, manipulant un verre de Damassine avec une délicatesse inattendue.
+

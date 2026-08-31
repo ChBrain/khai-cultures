@@ -13,19 +13,24 @@ stamp:
 # Process: Le Plébiscite
 
 ## Taxonomy
-L'outil d'affranchissement démocratique.
+L'arme à double tranchant de la démocratie directe.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Initiated by
-[placeholder]
+Les autorités fédérales et bernoises, acculées par la pression séparatiste, forcées d'organiser des votes en cascade pour déterminer l'appartenance cantonale.
+
 
 ## Direction
-[placeholder]
+Vers une division chirurgicale du territoire, commune par commune, district par district, selon la loi impitoyable de la majorité à 50% plus 1 voix.
+
 
 ## Lever
-[placeholder]
+Le bulletin de vote utilisé comme un scalpel pour découper l'histoire, transformant des voisins de palier en étrangers cantonaux.
+
 
 ## Echo
-[placeholder]
+Des blessures familiales irréparables, des bagarres à la sortie des bistrots, et un profond traumatisme démocratique où chaque voix dissidente est vue comme une trahison.
+

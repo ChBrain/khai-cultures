@@ -14,19 +14,22 @@ stamp:
 # Play: Jura
 
 ## Taxonomy
-La victoire séparatiste de la minorité.
+La victoire séparatiste de la minorité : un triomphe né du ressentiment.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Arc
-L'histoire d'un peuple francophone catholique, autrefois fier et indépendant sous le Prince-Évêque de Bâle, brutalement rattaché au canton germanophone et protestant de Berne en 1815. Après 160 ans d'étouffement culturel et de lutte politique féroce, le mouvement séparatiste arrache la création démocratique du 26e et plus jeune canton suisse en 1979.
+L'histoire d'un peuple francophone et catholique, autrefois fier et indépendant sous la mitre du Prince-Évêque de Bâle, brutalement rattaché au canton germanophone et protestant de Berne par le Congrès de Vienne en 1815. Après 160 ans d'asphyxie culturelle, de vexations administratives et d'une lutte politique féroce qui a frôlé la guerre civile, le mouvement séparatiste arrache, par le sang et le vote, la création du 26e et plus jeune canton suisse en 1979.
+
 
 ## Name
 Le canton du Jura.
 
 ## Stakes
-Comment construire une identité étatique pacifique quand le ciment de la nation a été forgé dans la colère, la rébellion et l'animosité envers le voisin bernois ?
+Comment construire une identité étatique pacifique quand le ciment même de la nation a été forgé dans la colère, la rébellion, et l'animosité viscérale envers le voisin bernois ? L'indépendance gagnée, le spectre du vide identitaire menace : exister par soi-même est infiniment plus lourd que d'exister contre un autre.
+
 
 ## Estate
 - House: packages/khai-cultures/README.md

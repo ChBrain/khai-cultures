@@ -13,13 +13,15 @@ stamp:
 # Plot: Le Réveil Séparatiste
 
 ## Taxonomy
-La fronde et l'action directe.
+L'embrasement, la rue et le goudron.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Cue
-[placeholder]
+Les inscriptions rageuses « Jura libre » sur les routes cantonales.
+
 
 ## Stage
 - `persona`: [Le Séparatiste](persona_le_separatiste.md)
@@ -27,7 +29,9 @@ La fronde et l'action directe.
 - `position`: [La Rébellion Identitaire](position_culture_la_rebellion_identitaire.md)
 
 ## Event
-[placeholder]
+Au milieu du 20ème siècle, l'asphyxie culturelle devient insoutenable. Le Front de Libération Jurassien (FLJ) passe à l'action. Manifestations de masse, barricades, goudronnage de voies ferrées, incendies de fermes bernoises. La Suisse, d'ordinaire si paisible, découvre la violence politique sur son propre sol.
+
 
 ## Tension
-[placeholder]
+Le vertige de la radicalité. Jusqu'où aller pour l'indépendance sans devenir un terroriste aux yeux de l'histoire ? La friction intime des modérés qui condamnent la violence tout en sachant qu'elle seule force Berne à écouter.
+

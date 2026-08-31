@@ -13,19 +13,24 @@ stamp:
 # Position: Le Canton Souverain
 
 ## Taxonomy
-La fierté de l'autodétermination étatique.
+L'ivresse de la souveraineté nouvelle.
+
 
 ## Owner
 - Project: khai-cultures
 
 ## Has
-[placeholder]
+Une constitution moderne, un gouvernement jeune, et le désir ardent de prouver au reste de la Suisse qu'il peut s'administrer seul.
+
 
 ## Orders
-[placeholder]
+La construction accélérée d'institutions pour marquer sa légitimité, quitte à surendetter le jeune État.
+
 
 ## Loses
-[placeholder]
+L'excuse de l'oppression bernoise pour justifier ses propres échecs économiques ou politiques.
+
 
 ## Drives
-[placeholder]
+Une soif de reconnaissance internationale, une ouverture sur la France voisine pour compenser son isolement au sein de la Suisse germanophone.
+
