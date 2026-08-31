@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Zug"
-description: "Zug: The radical transformation from a humble Catholic farming village to a hyper-wealthy global commodity and crypto hub."
+description: "Zug: The transformation from a humble Catholic farming village to a hyper-wealthy commodity and crypto hub."
 declared: "Zug"
 language: de
 license: CC-BY-NC-SA-4.0
