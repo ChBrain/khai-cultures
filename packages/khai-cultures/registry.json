@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.302.0",
+  "version": "0.303.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5738,6 +5738,93 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-aargau"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_basel_landschaft",
+      "title": "Basel-Landschaft",
+      "description": "Basel-Landschaft: The rural hinterland that fought for independence, evolving into an affluent suburban belt.",
+      "iso": "ch-bl",
+      "members": [
+        {
+          "file": "persona_fritz.md",
+          "kind": "persona",
+          "title": "Persona: Fritz",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_laura.md",
+          "kind": "persona",
+          "title": "Persona: Laura",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_chienbaese.md",
+          "kind": "piece",
+          "title": "Piece: Chienbäse"
+        },
+        {
+          "file": "piece_kirschbaum.md",
+          "kind": "piece",
+          "title": "Piece: Kirschbaum"
+        },
+        {
+          "file": "pitch_basel_landschaft.md",
+          "kind": "pitch",
+          "title": "The Baselbiet Key"
+        },
+        {
+          "file": "place_liestal.md",
+          "kind": "place",
+          "title": "Place: Liestal"
+        },
+        {
+          "file": "place_tafeljura_huegel.md",
+          "kind": "place",
+          "title": "Place: Die Tafeljura-Hügel"
+        },
+        {
+          "file": "play_bl.md",
+          "kind": "play",
+          "title": "Basel-Landschaft"
+        },
+        {
+          "file": "plot_00_das_untertanengebiet.md",
+          "kind": "plot",
+          "title": "Plot: Das Untertanengebiet"
+        },
+        {
+          "file": "plot_01_die_trennung_1833.md",
+          "kind": "plot",
+          "title": "Plot: Die Trennung 1833"
+        },
+        {
+          "file": "plot_02_die_industrialisierung_der_taeler.md",
+          "kind": "plot",
+          "title": "Plot: Die Industrialisierung der Täler"
+        },
+        {
+          "file": "plot_99_der_wohnkanton.md",
+          "kind": "plot",
+          "title": "Plot: Der Wohnkanton"
+        },
+        {
+          "file": "position_culture_baselbieter_kultur.md",
+          "kind": "position",
+          "title": "Position: Baselbieter Kultur"
+        },
+        {
+          "file": "position_die_agglomeration.md",
+          "kind": "position",
+          "title": "Position: Die Agglomeration"
+        },
+        {
+          "file": "process_emanzipation.md",
+          "kind": "process",
+          "title": "Process: Emanzipation"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-basel-landschaft"
     },
     {
       "kind": "culture",
