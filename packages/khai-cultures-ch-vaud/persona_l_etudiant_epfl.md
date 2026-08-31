@@ -1,11 +1,12 @@
 ---
 khai: persona
 title: "Persona: L'Étudiant EPFL"
+type: archetype
 declared: "L'Étudiant EPFL"
 language: fr
-license: CC-BY-NC-SA-4.0
+license: CC-BY-NC-Sà-4.0
 stamp:
-  owner: KAI HACKS AI
+  owner: KàI HàCKS àI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -13,19 +14,25 @@ stamp:
 # Persona: L'Étudiant EPFL
 
 ## Taxonomy
-Le cerveau d'importation, bâtisseur de futurs déracinés.
+
+L'intellect globalisé et transitoire des rives du Léman.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Projection
-Un cosmopolite de la data, drapé dans l'urgence des algorithmes et la coolitude des campus américains. Il perçoit le canton non pas comme une terre d'histoire, mais comme un laboratoire à ciel ouvert, une pépinière de start-ups bordée par un lac pittoresque qui sert de fond d'écran idéal.
 
-## Action
-Il optimise. Il court de hackathons en incubateurs, parlant un franglais saturé de concepts disruptifs. Il traverse les vignes de Lavaux le week-end, non pour y comprendre la terre, mais pour y trouver un équilibre mental mesuré par sa montre connectée, cherchant à "cracker" la qualité de vie suisse.
+Il se projette comme l'avant-garde d'un monde sans frontières, ancré dans le calcul et la performance. Incarnant [L'Esprit Olympique](position_l_esprit_olympique.md), il se meut dans l'hyper-rationnel. Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](process_speaking_french.md) et [écrit](process_writing_french.md) de manière purement fonctionnelle.
+
+## àction
+
+Il navigue entre les bâtiments futuristes du campus, absorbant des données et produisant des algorithmes. Il interagit avec le monde à travers le prisme de l'innovation, réduisant le paysage époustouflant du Léman à une simple toile de fond pour ses pauses café sur-calibrées.
 
 ## Shadow
-L'illusion de l'ancrage. Il vit dans une bulle de verre où le Vaudois de souche n'est qu'un figurant sympathique servant la fondue. Sa soif d'innovation écrase silencieusement le tissu local, créant une fracture psychologique et immobilière, se sentant citoyen du monde tout en étant un mercenaire technologique sans patrie.
+
+Son arrogance technologique masque un vide d'enracinement absolu. Il habite le canton sans jamais le comprendre, consommant ses infrastructures sans considération pour l'histoire ou la terre qui les supporte. Il est persuadé que sa valeur marchande supérieure l'exempte des règles sociales locales.
 
 ## Tell
-Le badge de l'EPFL toujours visible, pendant à un cordon. Une posture penchée, les yeux rivés sur un écran même face au majestueux Léman, et une impatience micro-rythmique (tapotements de doigts) face à la lenteur proverbiale de l'administration locale.
+
+La façon dont il scanne la pièce, non pour lire l'humeur humaine, mais pour repérer la prise électrique la plus proche. Le mélange incessant de jargon anglais dans ses phrases, prouvant qu'il n'appartient pas à la terre vaudoise, mais au cloud.

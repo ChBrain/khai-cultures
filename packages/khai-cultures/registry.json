@@ -7329,12 +7329,14 @@
         {
           "file": "persona_l_etudiant_epfl.md",
           "kind": "persona",
-          "title": "Persona: L'Étudiant EPFL"
+          "title": "Persona: L'Étudiant EPFL",
+          "type": "archetype"
         },
         {
           "file": "persona_le_vigneron.md",
           "kind": "persona",
-          "title": "Persona: Le Vigneron"
+          "title": "Persona: Le Vigneron",
+          "type": "archetype"
         },
         {
           "file": "piece_le_bateau_a_vapeur.md",
@@ -7410,6 +7412,16 @@
           "file": "process_la_fete_des_vignerons.md",
           "kind": "process",
           "title": "Process: La Fête des Vignerons"
+        },
+        {
+          "file": "process_speaking_french.md",
+          "kind": "process",
+          "title": "Process: Speaking French"
+        },
+        {
+          "file": "process_writing_french.md",
+          "kind": "process",
+          "title": "Process: Writing French"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-vaud"

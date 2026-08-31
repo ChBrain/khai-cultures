@@ -13,7 +13,7 @@ stamp:
 # Plot: Le Cœur Romand
 
 ## Taxonomy
-Le pivot central de l'Helvétie francophone.
+L'axe Vaud-Genève, moteur de la Suisse romande.
 
 ## Owner
 - Project: khai-cultures
@@ -21,14 +21,17 @@ Le pivot central de l'Helvétie francophone.
 ## Cue
 La centralité incontestée de Lausanne et du Vaud comme moteur culturel, éducatif et économique de la Suisse romande face au bloc alémanique.
 
-## Stage
-- `persona`: [L'Étudiant EPFL](persona_l_etudiant_epfl.md)
-- `place`: [Lavaux](place_lavaux.md)
-- `piece`: [Le Chasselas](piece_le_chasselas.md)
-- `position`: [La Romandie](position_culture_la_romandie.md)
+## Action
+Vaud assume son rôle de leader romand. Il navigue entre la protection jalouse de son terroir rural (incarnée par les vignerons) et son statut de pôle hyper-technologique et sportif global. Le canton rassemble les contradictions de la Romandie, servant de pont entre la métropole internationale de Genève et les traditions terriennes du reste de la Suisse romande.
 
-## Event
-La consolidation de son rôle de "grand frère" romand. Vaud porte sur ses épaules le poids de la représentativité francophone à Berne, défendant le service public et le fédéralisme face aux appétits centralisateurs zurichois.
+## Stage
+- `persona`: [Le Vigneron](persona_le_vigneron.md)
+- `persona`: [L'Étudiant EPFL](persona_l_etudiant_epfl.md)
+- `position`: [La Romandie](position_culture_la_romandie.md)
+- `position`: [L'Esprit Olympique](position_l_esprit_olympique.md)
+- `process`: [Speaking French](process_speaking_french.md)
+- `process`: [Writing French](process_writing_french.md)
+- `place`: [Lavaux](place_lavaux.md)
 
 ## Tension
-L'arrogance de l'arbitre. Vaud se veut le défenseur de la minorité romande, mais agace souvent ses voisins genevois ou neuchâtelois par sa posture paternaliste. La psychologie vaudoise, tiraillée entre son désir de diriger la Romandie et son obsession de plaire à la Berne fédérale, révèle un besoin maladif de consensus qui finit par aseptiser ses combats les plus passionnés.
+L'équilibre précaire entre devenir une métropole mondiale déracinée et préserver l'identité d'un canton agricole où la lenteur et la "douceur de vivre" sont des dogmes inviolables.
