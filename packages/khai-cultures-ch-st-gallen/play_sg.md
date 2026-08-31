@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "St. Gallen"
-description: "St. Gallen: The ring canton that evolved from a monastic superpower to a booming, vulnerable textile empire."
+description: "Sankt Gallen: The ring canton that evolved from a monastic superpower to a booming, vulnerable textile empire."
 declared: "St. Gallen"
 language: de
 license: CC-BY-NC-SA-4.0
