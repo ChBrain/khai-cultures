@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Jura"
-description: "Jura: The separatist struggle of a francophone people to break free from Bern and democratically forge Switzerland's youngest canton."
+description: "Jura: The separatist struggle of a francophone people to break free from Bern and forge the youngest canton."
 declared: "Jura"
 language: fr
 license: CC-BY-NC-SA-4.0
