@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Neuchâtel"
-description: "Neuchâtel: The watchmaking micro-republic that threw off the Prussian crown to forge a fiercely secular and innovative identity."
+description: "Neuchâtel: The watchmaking republic that threw off the Prussian crown to forge a secular and innovative identity."
 declared: "Neuchâtel"
 language: fr
 license: CC-BY-NC-SA-4.0

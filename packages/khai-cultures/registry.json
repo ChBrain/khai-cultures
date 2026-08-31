@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.305.0",
+  "version": "0.306.0",
   "cultures": [
     {
       "kind": "culture",
@@ -6393,6 +6393,96 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-luzern"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_neuchatel",
+      "title": "Neuchâtel",
+      "description": "Neuchâtel: The watchmaking republic that threw off the Prussian crown to forge a secular and innovative identity.",
+      "iso": "ch-ne",
+      "members": [
+        {
+          "file": "persona_l_horloger.md",
+          "kind": "persona",
+          "title": "Persona: L'Horloger"
+        },
+        {
+          "file": "persona_le_republicain.md",
+          "kind": "persona",
+          "title": "Persona: Le Républicain"
+        },
+        {
+          "file": "piece_l_absinthe.md",
+          "kind": "piece",
+          "title": "Piece: L'Absinthe"
+        },
+        {
+          "file": "piece_la_montre_mecanique.md",
+          "kind": "piece",
+          "title": "Piece: La Montre Mécanique"
+        },
+        {
+          "file": "pitch_neuchatel.md",
+          "kind": "pitch",
+          "title": "Pitch: Neuchâtel"
+        },
+        {
+          "file": "place_la_chaux_de_fonds.md",
+          "kind": "place",
+          "title": "Place: La Chaux-de-Fonds"
+        },
+        {
+          "file": "place_le_chateau_de_neuchatel.md",
+          "kind": "place",
+          "title": "Place: Le Château de Neuchâtel"
+        },
+        {
+          "file": "play_ne.md",
+          "kind": "play",
+          "title": "Neuchâtel"
+        },
+        {
+          "file": "plot_00_le_comte_et_la_reforme.md",
+          "kind": "plot",
+          "title": "Plot: Le Comté et la Réforme"
+        },
+        {
+          "file": "plot_01_la_couronne_prussienne.md",
+          "kind": "plot",
+          "title": "Plot: La Couronne Prussienne"
+        },
+        {
+          "file": "plot_02_la_metropole_horlogere.md",
+          "kind": "plot",
+          "title": "Plot: La Métropole Horlogère"
+        },
+        {
+          "file": "plot_03_la_revolution_1848.md",
+          "kind": "plot",
+          "title": "Plot: La Révolution 1848"
+        },
+        {
+          "file": "plot_99_la_republique_industrielle.md",
+          "kind": "plot",
+          "title": "Plot: La République Industrielle"
+        },
+        {
+          "file": "position_culture_la_republique.md",
+          "kind": "position",
+          "title": "Position: La République"
+        },
+        {
+          "file": "position_l_esprit_innovateur.md",
+          "kind": "position",
+          "title": "Position: L'Esprit Innovateur"
+        },
+        {
+          "file": "process_la_marche_du_1er_mars.md",
+          "kind": "process",
+          "title": "Process: La Marche du 1er Mars"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-neuchatel"
     },
     {
       "kind": "culture",
