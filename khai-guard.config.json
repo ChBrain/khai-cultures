@@ -25,17 +25,17 @@
     {
       "name": "company-coverage",
       "command": "node tests/company_coverage.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
-      "count": "Company coverage OK: (.+)"
+      "count": "Company coverage(?: OK)?: (.+)"
     },
     {
       "name": "subnational-conformance",
       "command": "node tests/culture_conformance.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
-      "count": "Sub-national conformance OK: (.+)"
+      "count": "Sub-national conformance(?: OK)?: (.+)"
     },
     {
       "name": "persona-wiring",
       "command": "node tests/persona_wiring.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
-      "count": "Persona wiring OK: (.+)"
+      "count": "Persona wiring(?: OK)?: (.+)"
     },
     {
       "name": "plot-zero",
