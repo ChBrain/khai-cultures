@@ -1,11 +1,11 @@
-﻿---
+---
 khai: pitch
 title: "Pitch: Fribourg"
-declared: "Fribourg"
+declared: "Fribourg (Pitch)"
 language: fr
-license: CC-BY-NC-SA-4.0
+license: CC-BY-NC-Sà-4.0
 stamp:
-  owner: KAI HACKS AI
+  owner: KàI HàCKS àI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -13,20 +13,25 @@ stamp:
 # Pitch: Fribourg
 
 ## Taxonomy
+
 La foi, le fromage et la frontière.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Tenor
+
 Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Undertow
+
 Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Nerve
+
 Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
 ## Echo
-Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.
 
+Un point de rupture silencieux et immuable au coeur de l'identite fribourgeoise.

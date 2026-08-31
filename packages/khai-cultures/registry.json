@@ -6062,12 +6062,14 @@
         {
           "file": "persona_l_etudiant_catholique.md",
           "kind": "persona",
-          "title": "Persona: L'Étudiant Catholique"
+          "title": "Persona: L'Étudiant Catholique",
+          "type": "archetype"
         },
         {
           "file": "persona_le_paysan_gruerien.md",
           "kind": "persona",
-          "title": "Persona: Le Paysan Gruérien"
+          "title": "Persona: Le Paysan Gruérien",
+          "type": "archetype"
         },
         {
           "file": "piece_le_bilinguisme.md",
@@ -6138,6 +6140,16 @@
           "file": "process_la_poya.md",
           "kind": "process",
           "title": "Process: La Poya"
+        },
+        {
+          "file": "process_speaking_dialect.md",
+          "kind": "process",
+          "title": "Process: Speaking Dialect"
+        },
+        {
+          "file": "process_speaking_french.md",
+          "kind": "process",
+          "title": "Process: Speaking French"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-fribourg"
