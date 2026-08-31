@@ -7,6 +7,13 @@ same word given to every agent. Then read `management/management_instructions.md
 the voice layer: who speaks, through which Persona, and how the company
 collaborates.
 
+> **Case law too.** `conduct.md` ships with `@chbrain/khai-stage`, read at
+> `node_modules/@chbrain/khai-stage/conduct.md`: the shared case law for working
+> in any khai house, how a model reads a rule, measures a claim, trusts a check.
+> Two of its cases are this house's own (a 31-line `GEMINI.md`; a local runner
+> that read 10/10 while CI failed all ten); this file stays this house's own
+> quirks, not that reasoning.
+
 This file holds only what is true of Claude Code and of no other tool. Nothing
 here overrides the house rules; if the two ever disagree, the house rules win and
 this file is wrong.

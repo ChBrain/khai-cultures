@@ -2,6 +2,62 @@
   "source": ["packages/**"],
   "test": ["tests/**", ".github/workflows/**", ".husky/**"],
   "exemptRenames": true,
+  "gates": [
+    {
+      "name": "prettier",
+      "command": "npm run format:check",
+      "fix": "npm run format"
+    },
+    {
+      "name": "conformance",
+      "command": "npm test"
+    },
+    {
+      "name": "khai-guard",
+      "command": "npx khai-guard",
+      "count": "KHAI-Guard OK: (.+)"
+    },
+    {
+      "name": "branch-scope",
+      "command": "npx khai-guard branch-check",
+      "count": "KHAI-Guard branch-check OK: (.+)"
+    },
+    {
+      "name": "company-coverage",
+      "command": "node tests/company_coverage.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Company coverage(?: OK)?: (.+)"
+    },
+    {
+      "name": "subnational-conformance",
+      "command": "node tests/culture_conformance.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Sub-national conformance(?: OK)?: (.+)"
+    },
+    {
+      "name": "persona-wiring",
+      "command": "node tests/persona_wiring.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Persona wiring(?: OK)?: (.+)"
+    },
+    {
+      "name": "plot-zero",
+      "command": "node tests/plot_zero.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Plot 0(?: OK)?: (.+)"
+    },
+    {
+      "name": "production-packages",
+      "command": "node tests/production_packages.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Productions(?: OK)?: (.+)"
+    },
+    {
+      "name": "staging",
+      "command": "node tests/staging.mjs",
+      "count": "staging: (\\d+ finding\\(s\\))"
+    },
+    {
+      "name": "changeset-check",
+      "command": "npx khai-guard changeset-check",
+      "fix": "npx changeset add (or npx changeset add --empty for a change that ships no package content)"
+    }
+  ],
   "driftPolicy": {
     "scopes": ["@chbrain/"]
   },
