@@ -9,6 +9,9 @@
     "url": "git+https://github.com/ChBrain/khai-cultures.git"
   },
   "type": "module",
+  "engines": {
+    "npm": ">=11"
+  },
   "workspaces": [
     "packages/*"
   ],
