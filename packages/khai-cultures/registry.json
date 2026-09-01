@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.303.0",
+  "version": "0.304.0",
   "cultures": [
     {
       "kind": "culture",
@@ -6051,6 +6051,108 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-bern"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_geneva",
+      "title": "Genève",
+      "description": "Genève: From a strict Calvinist republic to a global humanitarian and diplomatic hub.",
+      "iso": "ch-ge",
+      "members": [
+        {
+          "file": "persona_chloe.md",
+          "kind": "persona",
+          "title": "Persona: Chloé",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_jacques.md",
+          "kind": "persona",
+          "title": "Persona: Jacques",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_marmite_de_l_escalade.md",
+          "kind": "piece",
+          "title": "Piece: La Marmite de l'Escalade"
+        },
+        {
+          "file": "piece_montre_de_luxe.md",
+          "kind": "piece",
+          "title": "Piece: Montre de Luxe"
+        },
+        {
+          "file": "pitch_geneve.md",
+          "kind": "pitch",
+          "title": "La Note Genevoise"
+        },
+        {
+          "file": "place_jet_d_eau.md",
+          "kind": "place",
+          "title": "Place: Le Jet d'Eau"
+        },
+        {
+          "file": "place_palais_des_nations.md",
+          "kind": "place",
+          "title": "Place: Le Palais des Nations"
+        },
+        {
+          "file": "play_ge.md",
+          "kind": "play",
+          "title": "Genève"
+        },
+        {
+          "file": "plot_00_la_rome_protestante_1536.md",
+          "kind": "plot",
+          "title": "Plot: La Rome Protestante 1536"
+        },
+        {
+          "file": "plot_01_l_escalade_1602.md",
+          "kind": "plot",
+          "title": "Plot: L'Escalade 1602"
+        },
+        {
+          "file": "plot_02_les_refugies_huguenots.md",
+          "kind": "plot",
+          "title": "Plot: Les Réfugiés Huguenots"
+        },
+        {
+          "file": "plot_03_l_entree_1815.md",
+          "kind": "plot",
+          "title": "Plot: L'Entrée 1815"
+        },
+        {
+          "file": "plot_04_la_croix_rouge_1863.md",
+          "kind": "plot",
+          "title": "Plot: La Croix-Rouge 1863"
+        },
+        {
+          "file": "plot_05_la_societe_des_nations_1920.md",
+          "kind": "plot",
+          "title": "Plot: La Société des Nations 1920"
+        },
+        {
+          "file": "plot_99_la_bulle_internationale.md",
+          "kind": "plot",
+          "title": "Plot: La Bulle Internationale"
+        },
+        {
+          "file": "position_culture_la_republique.md",
+          "kind": "position",
+          "title": "Position: La République"
+        },
+        {
+          "file": "position_la_ville_internationale.md",
+          "kind": "position",
+          "title": "Position: La Ville Internationale"
+        },
+        {
+          "file": "process_fete_de_l_escalade.md",
+          "kind": "process",
+          "title": "Process: La Fête de l'Escalade"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-geneva"
     },
     {
       "kind": "culture",
