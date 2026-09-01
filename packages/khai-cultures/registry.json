@@ -6315,7 +6315,7 @@
         {
           "file": "pitch_jura.md",
           "kind": "pitch",
-          "title": "Pitch: Jura"
+          "title": "La Note Jurassienne"
         },
         {
           "file": "place_le_chateau_de_porrentruy.md",
@@ -6371,16 +6371,6 @@
           "file": "process_le_plebiscite.md",
           "kind": "process",
           "title": "Process: Le Plébiscite"
-        },
-        {
-          "file": "process_speaking_dialect.md",
-          "kind": "process",
-          "title": "Process: Speaking Dialect"
-        },
-        {
-          "file": "process_speaking_french.md",
-          "kind": "process",
-          "title": "Process: Speaking French"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-jura"
