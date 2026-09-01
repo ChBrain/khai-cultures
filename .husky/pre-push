@@ -19,10 +19,19 @@
 # stale lockfile is invisible to them and fatal in CI, which installs with
 # `npm ci` and fails every job at the install step: half a second here, ten red
 # jobs and a silent log there.
-if ! npm ci --dry-run >/dev/null 2>&1; then
+if ! ci_out=$(npm ci --dry-run 2>&1); then
+  # The root declares `engines`, so a wrong npm is refused here rather than at
+  # the lockfile. Say which of the two it is; the message used to name the
+  # lockfile either way, and for the engine case printed no evidence at all.
+  if printf '%s' "$ci_out" | grep -q "notsup\|EBADENGINE"; then
+    echo "pre-push: your npm does not satisfy the engines the root declares."
+    printf '%s' "$ci_out" | grep -E "Required:|Actual:" | sed 's/^npm error/  /'
+    echo "  npm 10 writes a lockfile CI rejects. Use the node in .nvmrc."
+    exit 1
+  fi
   echo "pre-push: package-lock.json does not match the manifests."
   echo "CI installs with \`npm ci\` and will fail every job at the install step."
-  npm ci --dry-run 2>&1 | grep -E "can only install|Missing:|Invalid:" | sed 's/^npm error/  /'
+  printf '%s' "$ci_out" | grep -E "can only install|Missing:|Invalid:" | sed 's/^npm error/  /'
   echo "  Run \`npm install\` and commit the lockfile."
   exit 1
 fi
