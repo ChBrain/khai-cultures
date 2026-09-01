@@ -26,7 +26,7 @@ Das Aufbrechen des Eises. Der drängende Rhythmus des nahenden Frühlings, der d
 
 ## Action
 
-Der Alpaufzug ist kein bloßes Fest, er ist eine Beschwörung. In archaischer Tracht, den Rhythmus der Kuhglocken tief im Blut, treiben die Bauern ihre Herden in die Höhe. Das gesungene "Zäuerli", frei von Worten, hallt von den Felswänden wider – ein rauer, ungezähmter Dialog zwischen Mensch und Berg.
+Der Alpaufzug ist kein bloßes Fest, er ist eine Beschwörung. In archaischer Tracht, den Rhythmus der Kuhglocken tief im Blut, treiben die Bauern ihre Herden in die Höhe. Das gesungene "Zäuerli", frei von Worten, hallt von den Felswänden wider - ein rauer, ungezähmter Dialog zwischen Mensch und Berg.
 
 ## Stage
 

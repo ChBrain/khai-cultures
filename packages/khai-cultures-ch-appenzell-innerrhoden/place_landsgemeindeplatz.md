@@ -26,7 +26,7 @@ Ein offener, kreisförmiger Ring im Zentrum des Ortes, wo die Gemeinschaft sich 
 
 ## Holds
 
-Männer und – spät, aber schließlich – Frauen stehen dicht gedrängt, um über Gesetze zu debattieren und abzustimmen.
+Männer und - spät, aber schließlich - Frauen stehen dicht gedrängt, um über Gesetze zu debattieren und abzustimmen.
 
 ## Offers
 

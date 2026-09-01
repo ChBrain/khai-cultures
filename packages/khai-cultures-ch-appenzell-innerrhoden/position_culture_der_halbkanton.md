@@ -34,4 +34,4 @@ Jeglichen Einfluss auf die große Politik. Die Stagnation wird zur Tugend verkl�
 
 ## Drives
 
-Eine verbissene, melancholische Trotzreaktion. Wenn wir schon klein und unbedeutend sind, so der unausgesprochene Konsens, dann werden wir wenigstens das absoluteste, reinste Destillat unserer selbst sein – selbst wenn wir daran ersticken.
+Eine verbissene, melancholische Trotzreaktion. Wenn wir schon klein und unbedeutend sind, so der unausgesprochene Konsens, dann werden wir wenigstens das absoluteste, reinste Destillat unserer selbst sein - selbst wenn wir daran ersticken.

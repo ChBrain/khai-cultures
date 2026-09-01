@@ -26,7 +26,7 @@ Die Abstimmung auf der Landsgemeinde 1990. Wieder reckten sich die Männerarme i
 
 ## Action
 
-Der Tropfen, der das Fass sprengt. Neunzehn Jahre nach der nationalen Einführung zwingt das Bundesgericht in Lausanne den störrischen Halbkanton in die Knie. Per juristischem Diktat wird das Frauenstimmrecht angeordnet. Die reinste Form der direkten Demokratie wird durch ein Bundesurteil übersteuert – ein beispielloser Eingriff in die Souveränität des Ringes.
+Der Tropfen, der das Fass sprengt. Neunzehn Jahre nach der nationalen Einführung zwingt das Bundesgericht in Lausanne den störrischen Halbkanton in die Knie. Per juristischem Diktat wird das Frauenstimmrecht angeordnet. Die reinste Form der direkten Demokratie wird durch ein Bundesurteil übersteuert - ein beispielloser Eingriff in die Souveränität des Ringes.
 
 ## Stage
 
