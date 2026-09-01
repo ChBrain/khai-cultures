@@ -51,6 +51,15 @@ package.
   like any other package, resolved locally here and from the registry by anyone
   who installs the house.
 
+The root declares `"engines": { "npm": ">=11" }`, and `.npmrc` has long carried
+`engine-strict=true`, which does nothing until something is declared. npm 10
+writes a lockfile without the platform-optional entries npm 11 requires, so a
+machine on the wrong npm produces a lockfile that installs here and fails every
+CI job at `npm ci` - which is what happened to Fribourg. `.nvmrc` says node 24,
+whose bundled npm is 11; declaring the npm range makes the wrong one refuse to
+install rather than quietly write a lockfile CI will reject. `npm run` is
+unaffected, so the gates still run wherever you are; it is the install that stops.
+
 ## The house is the Estate
 
 `packages/khai-cultures/README.md` is this house's **Estate identity**: the
