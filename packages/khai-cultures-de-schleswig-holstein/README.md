@@ -21,13 +21,12 @@ Estate; a culture with no Estate is not yet a production.
   naming no dimension.
 - **Plots (history):** the Hanseatic League (Lübeck, Queen of the Hanse), the
   Great Drowning of 1362 (the flood that sank Rungholt and remade the coast), the
-  Second Schleswig War 1864, the Kiel mutiny 1918, the Schleswig plebiscite 1920
-  — each casting the elements that event needs (a figure, a place, a practice, or
+  Second Schleswig War 1864, the Kiel mutiny 1918, the Schleswig plebiscite 1920 - each casting the elements that event needs (a figure, a place, a practice, or
   an object; the Mandränke casts only a piece and a position, no persona).
 - **Personas:** Jürgen Wullenwever, Theodor Storm, and Karl Artelt as the
   historic cast, plus defining personas in generational and regional tension:
   Okke (older, the dyke-and-sea life) and Merle (younger, wind energy and the
-  open, connected world), and two **Plattdeutsch-speaking** archetypes — Sönke
+  open, connected world), and two **Plattdeutsch-speaking** archetypes - Sönke
   (Flensburg, the border life) and Wiebke (Husum, the tides and the grey sea),
   written in Low German (`nds`).
 - **Positions:** der Deichgraf (the dyke master), der Kaufmann (the Hanseatic

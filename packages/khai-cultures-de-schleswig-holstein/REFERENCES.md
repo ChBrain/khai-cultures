@@ -11,9 +11,9 @@ behind the plots, personas, places, and pieces.
 ## Hofstede source data
 
 The pitch [pitch_sh.md](pitch_sh.md) is written from Germany's profile on Geert
-Hofstede's model of national culture — Schleswig-Holstein is a German Land, so
+Hofstede's model of national culture - Schleswig-Holstein is a German Land, so
 the national scores are the base, inflected by the region's coastal, border
-character — and it names no dimension and carries no number. The scores and
+character - and it names no dimension and carries no number. The scores and
 their source are recorded here so the data is on the record without entering the
 prose.
 
@@ -48,8 +48,7 @@ staging is original work.
 
 The defining personas [Okke](persona_okke.md), [Merle](persona_merle.md),
 [Sönke](persona_soenke.md), and [Wiebke](persona_wiebke.md) are archetypes, not
-historical individuals: composites that carry the culture's living tensions —
-the older coast against the younger connected generation (Okke / Merle), and the
+historical individuals: composites that carry the culture's living tensions - the older coast against the younger connected generation (Okke / Merle), and the
 Plattdeutsch-speaking coast of the border (Sönke, Flensburg) and the tides
 (Wiebke, Husum). Sönke and Wiebke are written in Low German (`nds`); the
 Plattdeutsch is the authors' own composition, not a quoted source.

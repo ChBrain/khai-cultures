@@ -8,7 +8,7 @@ The provenance behind this culture: the Hofstede source data that tunes the pitc
 
 ## Hofstede source data
 
-The pitch [pitch_bavaria.md](pitch_bavaria.md) is written from Germany's profile on Geert Hofstede's model of national culture — Bavaria is a German Land, so the national scores are the base, inflected by the region's strong local identity and federalist self-conception — and it names no dimension and carries no number. The scores and their source are recorded here so the data is on the record without entering the prose.
+The pitch [pitch_bavaria.md](pitch_bavaria.md) is written from Germany's profile on Geert Hofstede's model of national culture - Bavaria is a German Land, so the national scores are the base, inflected by the region's strong local identity and federalist self-conception - and it names no dimension and carries no number. The scores and their source are recorded here so the data is on the record without entering the prose.
 
 | Dimension                     | Germany score (approx.) |
 | ----------------------------- | ----------------------- |
@@ -32,6 +32,6 @@ The plots, the historic personas they cast, the places, and the pieces are drawn
 | Laptop & Lederhosen (1980s)     | [plot_08_laptop_lederhosen.md](plot_08_laptop_lederhosen.md)                                                 | The transition from agricultural base to high-tech and industrial dominance.     |
 | Reinheitsgebot (1516)           | [piece_reinheitsgebot.md](piece_reinheitsgebot.md)                                                           | The Bavarian beer purity law of 1516, standardizing production and ingredients.  |
 
-The defining personas [Gustl](persona_gustl.md) and [Amalie](persona_amalie.md) are archetypes, not historical individuals: composites that carry the culture's living tensions — the older traditional mountain agricultural life against the younger tech-focused city-goer, expressing their views in the Bavarian dialect variety (_Bairisch_).
+The defining personas [Gustl](persona_gustl.md) and [Amalie](persona_amalie.md) are archetypes, not historical individuals: composites that carry the culture's living tensions - the older traditional mountain agricultural life against the younger tech-focused city-goer, expressing their views in the Bavarian dialect variety (_Bairisch_).
 
 Content is CC-BY-NC-SA, code is MIT; public-domain sources are credited, never claimed.

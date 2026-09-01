@@ -24,9 +24,9 @@ Parent group: positions
 
 A code that other people already hold, which is what separates a language from a
 private system: its worth to whoever holds it is exactly the set of people it
-reaches. It has five channels and they are not one thing — speaking and writing
+reaches. It has five channels and they are not one thing - speaking and writing
 carry meaning out, hearing and reading let it in, thinking runs underneath and
-never reaches the room — and a holder stands at a different depth in each, so the
+never reaches the room - and a holder stands at a different depth in each, so the
 same language can be a body to think in and an object to write with. It has a range
 of registers, so that holding it includes knowing which of them a room is asking
 for. And it carries recognition: it says something about its holder before they
@@ -36,8 +36,8 @@ have said anything, to anyone else who holds it.
 
 It orders the choice of itself, first and at every turn, because a holder of more
 than one is choosing between them in every sentence and the choice is never free of
-what it signals. It orders whatever its own grammar marks obligatorily — a gender,
-a case, a tense, a distance to the person addressed — and a holder cannot decline
+what it signals. It orders whatever its own grammar marks obligatorily - a gender,
+a case, a tense, a distance to the person addressed - and a holder cannot decline
 to mark them, only choose wrongly. And it orders a depth per channel that the
 holder does not get to pick: under pressure they fall back to the channel they hold
 most firmly, whatever the room is asking for.
