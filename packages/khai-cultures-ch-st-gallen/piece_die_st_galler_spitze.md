@@ -13,19 +13,19 @@ stamp:
 # Piece: Die St. Galler Spitze
 
 ## Taxonomy
-Das weltberühmte Luxusprodukt.
+Der Faden, der die Welt eroberte.
 
 ## Owner
 - Project: khai-cultures
 
 ## Place
-[placeholder]
+In den historischen Archiven und auf den Laufstegen von Paris und Mailand.
 
 ## Load Bearing
-[placeholder]
+Sie repräsentiert den einstigen unermesslichen Reichtum und die globale Vernetzung der St. Galler Textilindustrie.
 
 ## Apparent
-[placeholder]
+Filigrane, meisterhafte Stickereikunstwerke von unfassbarer Detailtreue.
 
 ## Yearbook
-[placeholder]
+Der rasante Aufstieg und Fall der Industrie, der das Gesicht der Stadt architektonisch für immer prägte.

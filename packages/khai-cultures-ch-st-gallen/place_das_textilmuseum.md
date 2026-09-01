@@ -19,13 +19,13 @@ Der Tresor der goldenen Ära.
 - Project: khai-cultures
 
 ## Shown
-[placeholder]
+Ein prachtvoller Palazzo, vollgestopft mit historischen Mustern und Stoffbüchern.
 
 ## Holds
-[placeholder]
+Die materielle Erinnerung an die Zeit, als St. Gallen die Welt mit Stickereien dominierte.
 
 ## Offers
-[placeholder]
+Einen melancholischen Blick auf verblassten Ruhm und technische Genialität.
 
 ## Withheld
-[placeholder]
+Die Schreie der ausgebeuteten Heimarbeiter, die in den feuchten Kellern für den Reichtum der Barone schufteten.

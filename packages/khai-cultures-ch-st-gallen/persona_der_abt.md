@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Der Abt"
+type: archetype
 declared: "Der Abt"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -19,7 +20,7 @@ Der geistliche und weltliche Herrscher.
 - Project: khai-cultures
 
 ## Projection
-Der erleuchtete Hirte, der mit Samthandschuhen und unerschütterlichem Glauben die Welt des Wissens hütet. Er inszeniert sich als unantastbarer Regent eines göttlichen Herrschaftsgebiets.
+Der erleuchtete Hirte, der mit Samthandschuhen und unerschütterlichem Glauben die Welt des Wissens hütet. Er verkörpert [Der Ringkanton](position_culture_der_ringkanton.md). Er benutzt das [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), das er mit einer feierlichen Arroganz [spricht](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) und in Dokumenten auf Latein [schreibt](@chbrain/khai-engine-language/process_writing_polished.md).
 
 ## Action
 Er sammelt Manuskripte, erlässt Dekrete aus den eiskalten Bibliotheken und versucht, die aufkeimende, freche Bürgerschaft durch theologische Überlegenheit in die Knie zu zwingen.

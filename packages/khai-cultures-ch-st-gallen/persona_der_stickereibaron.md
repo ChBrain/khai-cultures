@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Der Stickereibaron"
+type: archetype
 declared: "Der Stickereibaron"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -19,7 +20,7 @@ Der kosmopolitische Industrielle.
 - Project: khai-cultures
 
 ## Projection
-Der weltgewandte Pionier, der den globalen Markt beherrscht. Er kleidet sich in Pariser Mode, residiert in palastartigen Villen und glaubt, dass Fleiss und Innovation jeden göttlichen Segen ersetzen.
+Ein charismatischer Visionär und rücksichtsloser Kapitalist. Er verkörpert [Die Exportwirtschaft](position_die_exportwirtschaft.md). Er benutzt das [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), das er geschäftsmäßig [spricht](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) und [schreibt](@chbrain/khai-engine-language/process_writing_polished.md).
 
 ## Action
 Er baut prunkvolle Geschäftshäuser, knüpft Netzwerke bis nach New York und drückt die Löhne der Heimarbeiterinnen in den dunklen Tälern, um seine Gewinnmarge zu maximieren.

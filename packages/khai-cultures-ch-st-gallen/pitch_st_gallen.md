@@ -1,7 +1,7 @@
 ---
 khai: pitch
-title: "Pitch: St. Gallen"
-declared: "St. Gallen"
+title: "Die Sankt Galler Tonart"
+declared: "die Sankt Galler Tonart"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-08-31"
 ---
 
-# Pitch: St. Gallen
+# Pitch: die Sankt Galler Tonart
 
 ## Taxonomy
 Der klösterliche Ursprung und der globale Faden.

@@ -19,13 +19,13 @@ Das unantastbare kulinarische Dogma (ohne Senf).
 - Project: khai-cultures
 
 ## Place
-[placeholder]
+In der Hand jedes Besuchers auf dem Olma-Messegelände.
 
 ## Load Bearing
-[placeholder]
+Sie ist das einzige unbestrittene Kulturgut, das den zerrissenen Kanton kulinarisch vereint.
 
 ## Apparent
-[placeholder]
+Eine pralle, weiße Kalbsbratwurst, knusprig gegrillt und pur genossen.
 
 ## Yearbook
-[placeholder]
+Das jährliche Ritual der Olma, wo der Verzehr mit Senf als Verrat am Heimatkanton geahndet wird.
