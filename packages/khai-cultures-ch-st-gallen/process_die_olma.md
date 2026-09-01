@@ -19,7 +19,7 @@ Die landwirtschaftliche Identitätsmesse.
 - Project: khai-cultures
 
 ## Initiated by
-Dem panischen Bedürfnis, den zerstrittenen Ringkanton wenigstens einmal im Jahr an einen gemeinsamen Tisch – oder an eine gemeinsame Bratwurst – zu zwingen.
+Dem panischen Bedürfnis, den zerstrittenen Ringkanton wenigstens einmal im Jahr an einen gemeinsamen Tisch - oder an eine gemeinsame Bratwurst - zu zwingen.
 
 ## Direction
 Sie kanalisiert die agrarische Nostalgie in ein massenkompatibles, alkoholseliges Fest der Volksverbundenheit, das urbane und ländliche Gräben kurzfristig zuschüttet.

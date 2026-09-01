@@ -20,7 +20,7 @@ stamp:
 Kanton St. Gallen, der Ringkanton der Ostschweiz.
 
 ## Arc
-Die tragische und funkelnde Geschichte eines zerrissenen Raums. Ein tausendjähriger, allmächtiger katholischer Klosterstaat und eine kalte, protestantische Handelsstadt bekämpften sich bis aufs Blut, bevor Napoleons Feder sie 1803 in das künstliche Korsett eines Ringkantons presste. Erst im späten 19. Jahrhundert fand dieses Frankenstein-Gebilde eine flüchtige, delirierende Seele durch den globalen Goldrausch der Stickerei – bis der grausame Kollaps der 1920er Jahre die Stadt in den Abgrund riss und einen traumatisierten, pragmatischen und dezentralen Kanton zurückliess.
+Die tragische und funkelnde Geschichte eines zerrissenen Raums. Ein tausendjähriger, allmächtiger katholischer Klosterstaat und eine kalte, protestantische Handelsstadt bekämpften sich bis aufs Blut, bevor Napoleons Feder sie 1803 in das künstliche Korsett eines Ringkantons presste. Erst im späten 19. Jahrhundert fand dieses Frankenstein-Gebilde eine flüchtige, delirierende Seele durch den globalen Goldrausch der Stickerei - bis der grausame Kollaps der 1920er Jahre die Stadt in den Abgrund riss und einen traumatisierten, pragmatischen und dezentralen Kanton zurückliess.
 
 ## Company
 
@@ -68,4 +68,4 @@ Der katastrophale Zusammenbruch der Textilindustrie, der den Kanton in eine tief
 Das ständige Bemühen, die zentrifugalen Kräfte der verschiedenen Regionen zusammenzuhalten.
 
 ## Stakes
-Wie überlebt eine künstlich erzwungene Schicksalsgemeinschaft, wenn ihr einziger gemeinsamer Nenner – der wahnwitzige, weltumspannende Reichtum – in Staub zerfallen ist und nur das Misstrauen der Talschaften übrigbleibt?
+Wie überlebt eine künstlich erzwungene Schicksalsgemeinschaft, wenn ihr einziger gemeinsamer Nenner - der wahnwitzige, weltumspannende Reichtum - in Staub zerfallen ist und nur das Misstrauen der Talschaften übrigbleibt?
