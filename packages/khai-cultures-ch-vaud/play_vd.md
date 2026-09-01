@@ -4,9 +4,9 @@ title: "Vaud"
 description: "Vaud: The proud agricultural heart of the Romandie, balancing its lake riviera with deep wine-growing roots."
 declared: "Vaud"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -21,7 +21,7 @@ stamp:
 
 Le canton de Vaud, la Patrie Vaudoise.
 
-## àrc
+## Arc
 
 L'histoire viscérale d'un peuple de la terre, humilié et taxé pendant deux siècles et demi par l'oligarchie bernoise, jusqu'à l'explosion d'une révolution silencieuse, bourgeoise mais déterminée en 1798. Désormais souverain, le canton lutte avec une schizophrénie moderne: vénérer la glèbe et la vigne de ses ancêtres tout en devenant le campus technologique et diplomatique le plus mondialisé du pays.
 
@@ -40,8 +40,6 @@ L'histoire viscérale d'un peuple de la terre, humilié et taxé pendant deux si
 **Processes**
 
 - [La Fête des Vignerons](process_la_fete_des_vignerons.md)
-- [Speaking French](process_speaking_french.md)
-- [Writing French](process_writing_french.md)
 
 **Positions**
 

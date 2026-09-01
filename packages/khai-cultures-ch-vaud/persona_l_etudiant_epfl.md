@@ -4,9 +4,9 @@ title: "Persona: L'Étudiant EPFL"
 type: archetype
 declared: "L'Étudiant EPFL"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -23,9 +23,9 @@ L'intellect globalisé et transitoire des rives du Léman.
 
 ## Projection
 
-Il se projette comme l'avant-garde d'un monde sans frontières, ancré dans le calcul et la performance. Incarnant [L'Esprit Olympique](position_l_esprit_olympique.md), il se meut dans l'hyper-rationnel. Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](process_speaking_french.md) et [écrit](process_writing_french.md) de manière purement fonctionnelle.
+Il se projette comme l'avant-garde d'un monde sans frontières, ancré dans le calcul et la performance. Il incarne [L'Innovation Ouverte](position_innovation_ouverte.md) et l'excellence académique. Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) de manière fonctionnelle, souvent mélangé à du jargon anglais.
 
-## àction
+## Action
 
 Il navigue entre les bâtiments futuristes du campus, absorbant des données et produisant des algorithmes. Il interagit avec le monde à travers le prisme de l'innovation, réduisant le paysage époustouflant du Léman à une simple toile de fond pour ses pauses café sur-calibrées.
 

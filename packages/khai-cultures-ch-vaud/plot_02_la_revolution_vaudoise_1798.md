@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Révolution Vaudoise 1798"
 declared: "La Révolution Vaudoise 1798"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ L'éclatement de la colère verte.
 
 Les troupes napoléoniennes approchent et l'idéal révolutionnaire français enflamme l'esprit des bourgeois de Lausanne et des vignerons.
 
-## àction
+## Action
 
 Le 24 janvier 1798, les baillis bernois, sentant le vent tourner et craignant l'invasion française, quittent le territoire sans effusion de sang. La République Lémanique est proclamée, brisant deux siècles et demi de soumission dans l'allégresse d'un peuple ivre de sa propre audace.
 

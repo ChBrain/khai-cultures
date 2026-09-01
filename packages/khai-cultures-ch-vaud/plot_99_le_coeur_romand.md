@@ -29,8 +29,6 @@ Vaud assume son rôle de leader romand. Il navigue entre la protection jalouse d
 - `persona`: [L'Étudiant EPFL](persona_l_etudiant_epfl.md)
 - `position`: [La Romandie](position_culture_la_romandie.md)
 - `position`: [L'Esprit Olympique](position_l_esprit_olympique.md)
-- `process`: [Speaking French](process_speaking_french.md)
-- `process`: [Writing French](process_writing_french.md)
 - `place`: [Lavaux](place_lavaux.md)
 
 ## Tension

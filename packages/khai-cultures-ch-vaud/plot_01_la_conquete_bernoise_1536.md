@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Conquête Bernoise 1536"
 declared: "La Conquête Bernoise 1536"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ La morsure de l'Ours protestant.
 
 Les armées bernoises déferlent sur le Pays de Vaud sous couvert de libérer Genève et d'imposer la Réforme.
 
-## àction
+## Action
 
 L'éradication de la messe et le pillage des richesses. Les Bernois s'approprient les vignobles, les abbayes et redessinent l'identité religieuse du Vaudois par la force. Le protestantisme rigide, teinté de germanité, étouffe la joie de vivre savoyarde.
 

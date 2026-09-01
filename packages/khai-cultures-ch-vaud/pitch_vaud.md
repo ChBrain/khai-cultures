@@ -1,16 +1,16 @@
 ---
 khai: pitch
-title: "Pitch: Vaud"
-declared: "Vaud (Pitch)"
+title: "La Note Vaudoise"
+declared: "la note vaudoise"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
 
-# Pitch: Vaud
+# Pitch: la note vaudoise
 
 ## Taxonomy
 

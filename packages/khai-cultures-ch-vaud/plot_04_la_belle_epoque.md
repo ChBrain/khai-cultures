@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Belle Époque"
 declared: "La Belle Époque"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ L'âge d'or des palaces et de la tuberculose.
 
 L'arrivée du chemin de fer et l'essor du tourisme médical de luxe transforment la Riviera en salle de bal pour l'aristocratie européenne.
 
-## àction
+## Action
 
 L'urbanisation de la Riviera et l'internationalisation fulgurante du canton. Les fortunes se construisent sur l'accueil, les banques fleurissent et Lausanne se rêve en métropole, jetant les bases qui attireront plus tard le Comité International Olympique.
 

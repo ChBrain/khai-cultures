@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: L'Époque Savoyarde"
 declared: "L'Époque Savoyarde"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ L'âge des chevaliers et des abbayes.
 
 La construction des grands châteaux et l'influence des ducs de Savoie sur les terres lémaniques.
 
-## àction
+## Action
 
 L'établissement d'une cour brillante. Les ducs de Savoie fortifient Chillon, Moudon et Yverdon, apportant avec eux la langue, l'administration, et une culture courtoise qui façonne la noblesse locale et trace les premières frontières d'un "Pays de Vaud".
 

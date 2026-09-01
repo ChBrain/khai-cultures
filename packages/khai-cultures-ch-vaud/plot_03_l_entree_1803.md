@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: L'Entrée 1803"
 declared: "L'Entrée 1803"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ Le couronnement de la patience.
 
 L'àcte de Médiation imposé par Bonaparte érige enfin le canton de Vaud en État souverain et membre à part entière de la Confédération suisse.
 
-## àction
+## Action
 
 La construction d'un État. La bourgeoisie fonde ses institutions, rédige sa constitution, et se donne les moyens de son indépendance. Le Vaudois, d'ancien sujet, devient citoyen de sa propre terre et d'une Suisse nouvelle, forgeant une fierté patriotique inébranlable.
 
