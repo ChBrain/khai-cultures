@@ -6084,7 +6084,7 @@
         {
           "file": "pitch_fribourg.md",
           "kind": "pitch",
-          "title": "Pitch: Fribourg"
+          "title": "La Note Fribourgeoise"
         },
         {
           "file": "place_la_cathedrale_st_nicolas.md",
@@ -6127,29 +6127,19 @@
           "title": "Plot: Le Pont des Langues"
         },
         {
-          "file": "position_culture_le_bastion_catholique.md",
+          "file": "position_culture_fribourgeoise.md",
           "kind": "position",
-          "title": "Position: Le Bastion Catholique"
+          "title": "Fribourg Culture"
         },
         {
           "file": "position_le_pont_des_langues.md",
           "kind": "position",
-          "title": "Position: Le Pont des Langues"
+          "title": "Permanent Compromise"
         },
         {
           "file": "process_la_poya.md",
           "kind": "process",
           "title": "Process: La Poya"
-        },
-        {
-          "file": "process_speaking_dialect.md",
-          "kind": "process",
-          "title": "Process: Speaking Dialect"
-        },
-        {
-          "file": "process_speaking_french.md",
-          "kind": "process",
-          "title": "Process: Speaking French"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-fribourg"
