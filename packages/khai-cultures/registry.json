@@ -5747,6 +5747,12 @@
       "iso": "ch-ai",
       "members": [
         {
+          "file": "persona_regula.md",
+          "kind": "persona",
+          "title": "Persona: Regula",
+          "type": "archetype"
+        },
+        {
           "file": "persona_sepp.md",
           "kind": "persona",
           "title": "Persona: Sepp",
