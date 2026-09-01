@@ -23,7 +23,7 @@ L'intellect globalisé et transitoire des rives du Léman.
 
 ## Projection
 
-Il se projette comme l'avant-garde d'un monde sans frontières, ancré dans le calcul et la performance. Il incarne [L'Innovation Ouverte](position_innovation_ouverte.md) et l'excellence académique. Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) de manière fonctionnelle, souvent mélangé à du jargon anglais.
+Il se projette comme l'avant-garde d'un monde sans frontières, ancré dans le calcul et la performance. Il étudie dans la ville qui porte [L'Esprit Olympique](position_l_esprit_olympique.md), et incarne l'excellence académique. Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) de manière fonctionnelle, souvent mélangé à du jargon anglais.
 
 ## Action
 

@@ -23,7 +23,7 @@ L'âme terrienne vaudoise, sculptée par les terrasses et le temps.
 
 ## Projection
 
-Il se dresse comme le gardien silencieux d'une mémoire verticale. Face au lac qui scintille d'arrogance moderne, le vigneron incarne la patience et le respect du terroir, défendant [La Douceur de Vivre](position_culture_douceur_de_vivre.md). Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) avec un accent chantant et des expressions paysannes.
+Il se dresse comme le gardien silencieux d'une mémoire verticale. Face au lac qui scintille d'arrogance moderne, le vigneron incarne la patience et le respect du terroir, défendant [La Romandie](position_culture_la_romandie.md). Il utilise le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) avec un accent chantant et des expressions paysannes.
 
 ## Action
 
