@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.306.0",
+  "version": "0.307.0",
   "cultures": [
     {
       "kind": "culture",
@@ -6282,6 +6282,98 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-graubuenden"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_jura",
+      "title": "Jura",
+      "description": "Jura: The separatist struggle of a francophone people to break free from Bern and forge the youngest canton.",
+      "iso": "ch-ju",
+      "members": [
+        {
+          "file": "persona_le_paysan_horloger.md",
+          "kind": "persona",
+          "title": "Persona: Le Paysan Horloger",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_le_separatiste.md",
+          "kind": "persona",
+          "title": "Persona: Le Séparatiste",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_la_damassine.md",
+          "kind": "piece",
+          "title": "Piece: La Damassine"
+        },
+        {
+          "file": "piece_le_drapeau_jurassien.md",
+          "kind": "piece",
+          "title": "Piece: Le Drapeau Jurassien"
+        },
+        {
+          "file": "pitch_jura.md",
+          "kind": "pitch",
+          "title": "La Note Jurassienne"
+        },
+        {
+          "file": "place_le_chateau_de_porrentruy.md",
+          "kind": "place",
+          "title": "Place: Le Château de Porrentruy"
+        },
+        {
+          "file": "place_moutier.md",
+          "kind": "place",
+          "title": "Place: Moutier"
+        },
+        {
+          "file": "play_ju.md",
+          "kind": "play",
+          "title": "Jura"
+        },
+        {
+          "file": "plot_00_le_prince_eveque.md",
+          "kind": "plot",
+          "title": "Plot: Le Prince Évêque"
+        },
+        {
+          "file": "plot_01_le_congres_de_vienne_1815.md",
+          "kind": "plot",
+          "title": "Plot: Le Congrès de Vienne 1815"
+        },
+        {
+          "file": "plot_02_le_reveil_separatiste.md",
+          "kind": "plot",
+          "title": "Plot: Le Réveil Séparatiste"
+        },
+        {
+          "file": "plot_03_la_creation_du_canton_1979.md",
+          "kind": "plot",
+          "title": "Plot: La Création du Canton 1979"
+        },
+        {
+          "file": "plot_99_la_question_jurassienne.md",
+          "kind": "plot",
+          "title": "Plot: La Question Jurassienne"
+        },
+        {
+          "file": "position_culture_la_rebellion_identitaire.md",
+          "kind": "position",
+          "title": "Position: La Rébellion Identitaire"
+        },
+        {
+          "file": "position_le_canton_souverain.md",
+          "kind": "position",
+          "title": "Position: Le Canton Souverain"
+        },
+        {
+          "file": "process_le_plebiscite.md",
+          "kind": "process",
+          "title": "Process: Le Plébiscite"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-jura"
     },
     {
       "kind": "culture",
