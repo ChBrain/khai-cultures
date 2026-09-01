@@ -1,4 +1,4 @@
-﻿---
+---
 khai: piece
 title: "Piece: Le Bilinguisme"
 declared: "Le Bilinguisme"

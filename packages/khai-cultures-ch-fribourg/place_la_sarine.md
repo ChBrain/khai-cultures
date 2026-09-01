@@ -1,4 +1,4 @@
-﻿---
+---
 khai: place
 title: "Place: La Sarine"
 declared: "La Sarine"

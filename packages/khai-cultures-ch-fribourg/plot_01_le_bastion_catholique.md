@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "Plot: Le Bastion Catholique"
 declared: "Le Bastion Catholique"
@@ -31,7 +31,7 @@ Fribourg ferme ses portes, rejetant le protestantisme pour devenir l'ile romaine
 ## Stage
 
 - `place`: [La Cathédrale St-Nicolas](place_la_cathedrale_st_nicolas.md)
-- `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
+- `position`: [Le Bastion Catholique](position_culture_fribourgeoise.md)
 
 ## Tension
 

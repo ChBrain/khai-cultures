@@ -43,7 +43,7 @@ L'histoire d'un bastion farouchement indépendant qui est resté l'ancre catholi
 
 **Positions**
 
-- [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
+- [Le Bastion Catholique](position_culture_fribourgeoise.md)
 - [Le Pont des Langues](position_le_pont_des_langues.md)
 - [Le Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md)
 - [Das Schweizerdeutsche](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md)

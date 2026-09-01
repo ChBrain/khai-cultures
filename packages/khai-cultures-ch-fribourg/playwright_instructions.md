@@ -21,7 +21,7 @@ hold it is the language engine's. This covers only which culture they belong to.
 
 ## Agent
 
-- Links `position_culture_le_bastion_catholique.md` from the persona that belongs here.
+- Links `position_culture_fribourgeoise.md` from the persona that belongs here.
 - Edits nothing in this package.
 
 ## Collaboration

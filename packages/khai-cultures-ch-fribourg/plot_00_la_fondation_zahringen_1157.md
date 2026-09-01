@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "Plot: La Fondation Zähringen 1157"
 declared: "La Fondation Zähringen 1157"

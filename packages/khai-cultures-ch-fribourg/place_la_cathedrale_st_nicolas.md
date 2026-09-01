@@ -1,4 +1,4 @@
-﻿---
+---
 khai: place
 title: "Place: La Cathédrale St-Nicolas"
 declared: "La Cathédrale St-Nicolas"

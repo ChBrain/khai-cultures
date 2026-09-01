@@ -23,7 +23,7 @@ Le gardien des traditions alpestres et catholiques.
 
 ## Projection
 
-Il incarne l'enracinement total et [Le Bastion Catholique](position_culture_le_bastion_catholique.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) avec la lenteur et la sagesse des montagnes.
+Il incarne l'enracinement total et [Le Bastion Catholique](position_culture_fribourgeoise.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) avec la lenteur et la sagesse des montagnes.
 
 ## Action
 

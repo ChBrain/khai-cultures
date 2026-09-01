@@ -31,7 +31,7 @@ L'armee catholique s'effondre sans combattre, humiliee par la machine de guerre 
 ## Stage
 
 - `persona`: [Le Paysan Gruérien](persona_le_paysan_gruerien.md)
-- `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
+- `position`: [Le Bastion Catholique](position_culture_fribourgeoise.md)
 - `piece`: [Le Gruyère](piece_le_gruyere.md)
 - `process`: [La Poya](process_la_poya.md)
 

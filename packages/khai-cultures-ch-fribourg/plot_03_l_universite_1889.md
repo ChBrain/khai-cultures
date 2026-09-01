@@ -1,4 +1,4 @@
-﻿---
+---
 khai: plot
 title: "Plot: L'Université 1889"
 declared: "L'Université 1889"
@@ -31,7 +31,7 @@ Le conseiller Georges Python fonde une universite catholique de toutes pieces da
 ## Stage
 
 - `persona`: [L'Étudiant Catholique](persona_l_etudiant_catholique.md)
-- `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
+- `position`: [Le Bastion Catholique](position_culture_fribourgeoise.md)
 
 ## Tension
 

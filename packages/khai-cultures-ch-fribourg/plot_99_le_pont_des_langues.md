@@ -32,7 +32,7 @@ Fribourg assume sa schizophrénie linguistique avec fierté. Seul canton avec Be
 
 - `persona`: [Le Paysan Gruérien](persona_le_paysan_gruerien.md)
 - `persona`: [L'Étudiant Catholique](persona_l_etudiant_catholique.md)
-- `position`: [Le Bastion Catholique](position_culture_le_bastion_catholique.md)
+- `position`: [Le Bastion Catholique](position_culture_fribourgeoise.md)
 - `position`: [Le Pont des Langues](position_le_pont_des_langues.md)
 - `place`: [La Sarine](place_la_sarine.md)
 - `piece`: [Le Bilinguisme](piece_le_bilinguisme.md)

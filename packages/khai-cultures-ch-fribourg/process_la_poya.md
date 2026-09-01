@@ -1,4 +1,4 @@
-﻿---
+---
 khai: process
 title: "Process: La Poya"
 declared: "La Poya"

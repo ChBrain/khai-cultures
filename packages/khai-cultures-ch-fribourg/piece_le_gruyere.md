@@ -1,4 +1,4 @@
-﻿---
+---
 khai: piece
 title: "Piece: Le Gruyère"
 declared: "Le Gruyère"
