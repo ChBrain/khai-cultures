@@ -23,7 +23,7 @@ L'ancrage territorial et industriel.
 
 ## Projection
 
-Il incarne la pérennité du territoire et [Le Canton Souverain](position_le_canton_souverain.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](process_speaking_french.md) avec rudesse et simplicité.
+Il incarne la pérennité du territoire et [Le Canton Souverain](position_le_canton_souverain.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) avec rudesse et simplicité.
 
 ## Action
 

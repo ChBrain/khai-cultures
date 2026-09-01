@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Création du Canton 1979"
 declared: "La Création du Canton 1979"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ Le triomphe amer des urnes.
 
 Les larmes de joie sur la place du village, mêlées aux insultes des perdants.
 
-## àction
+## Action
 
 àprès des plébiscites déchirants, le peuple suisse accepte la création du 26e canton en 1978, qui devient effectif en 1979. Le Jura est enfin libre. Mais les frontières sont tracées sur des lignes de faille : les districts du sud (Jura bernois) ont voté pour rester bernois, amputant le nouveau canton d'une partie de son territoire historique.
 

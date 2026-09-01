@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: Le Réveil Séparatiste"
 declared: "Le Réveil Séparatiste"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ L'embrasement, la rue et le goudron.
 
 Les inscriptions rageuses « Jura libre » sur les routes cantonales.
 
-## àction
+## Action
 
 àu milieu du 20ème siècle, l'asphyxie culturelle devient insoutenable. Le Front de Libération Jurassien (FLJ) passe à l'action. Manifestations de masse, barricades, goudronnage de voies ferrées, incendies de fermes bernoises. La Suisse, d'ordinaire si paisible, découvre la violence politique sur son propre sol.
 

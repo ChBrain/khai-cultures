@@ -1,9 +1,9 @@
 ---
 khai: instructions
 title: "Ch Jura"
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.1.0
   date: "2026-08-31"
 ---
@@ -19,7 +19,7 @@ hold it is the language engine's. This covers only which culture they belong to.
 
 - Decides whether a persona belongs to this culture.
 
-## àgent
+## Agent
 
 - Links `position_culture_la_rebellion_identitaire.md` from the persona that belongs here.
 - Edits nothing in this package.

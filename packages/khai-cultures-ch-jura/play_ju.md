@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-Le canton du Jura.
+La République et Canton du Jura, le plus jeune canton suisse.
 
 ## Arc
 
@@ -40,8 +40,6 @@ L'histoire d'un peuple francophone et catholique, autrefois fier et indépendant
 **Processes**
 
 - [Le Plébiscite](process_le_plebiscite.md)
-- [Speaking French](process_speaking_french.md)
-- [Speaking Dialect](process_speaking_dialect.md)
 
 **Positions**
 
@@ -57,7 +55,7 @@ L'histoire d'un peuple francophone et catholique, autrefois fier et indépendant
 
 **Pitches**
 
-- [Jura (Pitch)](pitch_jura.md)
+- [la note jurassienne](pitch_jura.md)
 
 ## Triggers
 

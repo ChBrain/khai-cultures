@@ -34,8 +34,6 @@ Même après 1979, la blessure originelle n'est pas refermée. La ville de Mouti
 - `persona`: [Le Paysan Horloger](persona_le_paysan_horloger.md)
 - `position`: [La Rébellion Identitaire](position_culture_la_rebellion_identitaire.md)
 - `position`: [Le Canton Souverain](position_le_canton_souverain.md)
-- `process`: [Speaking French](process_speaking_french.md)
-- `process`: [Speaking Dialect](process_speaking_dialect.md)
 - `place`: [Moutier](place_moutier.md)
 
 ## Tension

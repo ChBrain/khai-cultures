@@ -23,7 +23,7 @@ Le militant pour l'indépendance jurassienne.
 
 ## Projection
 
-Il incarne [La Rébellion Identitaire](position_culture_la_rebellion_identitaire.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](process_speaking_french.md) avec fougue, mais il comprend intimement la violence du [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) bernois qu'il [pratique](process_speaking_dialect.md) parfois pour narguer l'autorité.
+Il incarne [La Rébellion Identitaire](position_culture_la_rebellion_identitaire.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) avec fougue, mais il comprend intimement la violence du [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) bernois qu'il [pratique](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) parfois pour narguer l'autorité.
 
 ## Action
 

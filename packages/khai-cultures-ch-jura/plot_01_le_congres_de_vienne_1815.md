@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: Le Congrès de Vienne 1815"
 declared: "Le Congrès de Vienne 1815"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ La punition diplomatique et l'asservissement.
 
 Un trait de plume à Vienne qui efface une nation.
 
-## àction
+## Action
 
 En 1815, les grandes puissances européennes redessinent la carte. Pour compenser le canton de Berne de la perte de Vaud et de l'àrgovie, on lui offre l'ancien évêché de Bâle. Le Jura, catholique et francophone, est offert en cadeau de consolation à un État protestant, germanophone, et autoritaire.
 
