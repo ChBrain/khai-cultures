@@ -1,7 +1,7 @@
 ---
 khai: pitch
-title: "Pitch: Appenzell Innerrhoden"
-declared: "Appenzell Innerrhoden (Pitch)"
+title: "Die Appenzeller Tonart"
+declared: "die Appenzeller Tonart"
 language: de
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-08-31"
 ---
 
-# Pitch: Appenzell Innerrhoden
+# Pitch: die Appenzeller Tonart
 
 ## Taxonomy
 
@@ -20,10 +20,18 @@ Der archaische Stolz und sein Preis.
 
 - Project: khai-cultures
 
-## Pitch
+## Tenor
 
-Appenzell Innerrhoden: Das letzte, sture gallische Dorf der Alpen, gefangen zwischen der Poesie der Berge und dem Fluch der eigenen Tradition.
+Eine archaische Berggesellschaft, die das Recht auf Selbstbestimmung so radikal lebt, dass sie lieber verarmte, als sich der Moderne zu beugen. Die Landsgemeinde ist ihr sakrales Herz.
 
-## Essence
+## Undertow
 
-Eine archaische Berggesellschaft, die das Recht auf Selbstbestimmung so radikal lebt, dass sie lieber verarmte, als sich der Moderne zu beugen. Die Landsgemeinde ist ihr sakrales Herz – ein Platz, wo direkte Demokratie zelebriert wird, doch der Konformitätsdruck abweichende Stimmen erstickt. Ihr ultimativer Zusammenprall mit der Realität gipfelt 1990, als ein Bundesgerichtsurteil den Männern des Rings ihre absolute Macht entriss und das Frauenstimmrecht erzwang. Heute balanciert der Kanton auf dem schmalen Grat zwischen echtem kulturellem Stolz und der schizophrenen Rolle eines lebenden Freilichtmuseums.
+Der Konformitätsdruck, der abweichende Stimmen erstickt, während der Kanton auf dem schmalen Grat zwischen echtem kulturellem Stolz und der schizophrenen Rolle eines lebenden Freilichtmuseums balanciert.
+
+## Nerve
+
+Der absolute Unwille, von außen diktierte Regeln zu akzeptieren, der im Urteil zum Frauenstimmrecht 1990 schmerzhaft gebrochen wurde.
+
+## Echo
+
+Der hallende Klang von Abstimmungsschwertern auf dem Landsgemeindeplatz, gefolgt von der drückenden Stille einer geschlossenen Gesellschaft.

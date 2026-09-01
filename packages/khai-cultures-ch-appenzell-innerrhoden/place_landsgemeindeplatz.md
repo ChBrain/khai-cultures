@@ -20,18 +20,18 @@ Das Epizentrum der direkten Demokratie.
 
 - Project: khai-cultures
 
-## Projection
+## Shown
 
-Der reinste Schauplatz direkter Demokratie auf Erden. Ein offener Ring im Zentrum des Ortes, wo jeder Bürger gleich ist und die Gemeinschaft sich selbst regiert, ohne den Filter von Parlamenten.
+Ein offener, kreisförmiger Ring im Zentrum des Ortes, wo die Gemeinschaft sich versammelt, um die direkte Demokratie zelebrieren.
 
-## Action
+## Holds
 
-Hier versammelt sich die Landsgemeinde. Männer und – spät, aber schließlich – Frauen stehen dicht gedrängt im "Ring", um über Gesetze zu debattieren, den Landammann zu wählen und durch das kollektive Heben von Händen oder Waffen abzustimmen.
+Männer und – spät, aber schließlich – Frauen stehen dicht gedrängt, um über Gesetze zu debattieren und abzustimmen.
 
-## Shadow
+## Offers
 
-Der Platz ist ein Tribunal der sozialen Kontrolle. Die totale Transparenz des Abstimmens erzwingt Konformität; wer hier gegen den Strom stimmt, spürt den stechenden Blick des Nachbarn, des Metzgers, des Chefs. Die viel gerühmte Offenheit ist gleichzeitig ein Gefängnis der Dorfmeinung, das abweichende Stimmen durch sozialen Druck mundtot macht.
+Die ultimative Form der Bürgerbeteiligung, bei der jede Stimme öffentlich durch das Heben der Hand oder der Waffe sichtbar wird.
 
-## Tell
+## Withheld
 
-Die kreisförmige Anordnung des Kopfsteinpflasters, die wie ein steinerner Trichter wirkt, in dem jeder Flüsterton verstärkt wird und in dessen Zentrum man vor den Blicken Tausender nirgendwohin fliehen kann.
+Das Geheimnis der Wahlkabine. Die totale Transparenz erzwingt Konformität und erstickt abweichende Stimmen durch den stechenden Blick der Dorfgemeinschaft.

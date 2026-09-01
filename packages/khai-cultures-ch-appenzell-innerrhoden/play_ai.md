@@ -39,8 +39,6 @@ Die Chronik einer alpinen Zivilisation, die sich der Strömung der Zeit entgegen
 **Processes**
 
 - [Die Landsgemeinde](process_die_landsgemeinde.md)
-- [Speaking Dialect](process_speaking_dialect.md)
-- [Writing Standard](process_writing_standard.md)
 
 **Positions**
 
@@ -56,7 +54,7 @@ Die Chronik einer alpinen Zivilisation, die sich der Strömung der Zeit entgegen
 
 **Pitches**
 
-- [Appenzell Innerrhoden (Pitch)](pitch_appenzell_innerrhoden.md)
+- [die Appenzeller Tonart](pitch_appenzell_innerrhoden.md)
 
 ## Triggers
 

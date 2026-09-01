@@ -20,18 +20,18 @@ Das geologische Gefängnis und Schutzschild.
 
 - Project: khai-cultures
 
-## Projection
+## Shown
 
 Ein majestätisches, trotziges Gebirgsmassiv. Ein Naturdenkmal, das den Innerrhodern Schutz bietet und ihre alpine Seele formt.
 
-## Action
+## Holds
 
-Steile Karstwände trennen das Appenzellerland vom restlichen Europa. Hier oben, isoliert von städtischer Betriebsamkeit, kultivieren die Bergbauern ihre Alpwirtschaft, ziehen ihre Herden hinauf und bewahren Gesänge, die so alt sind wie die Felsen selbst.
+Steile Karstwände, isolierte Alphütten, und eine tief verwurzelte Bergbauernkultur, die sich hier oben hartnäckig gegen die städtische Betriebsamkeit behauptet.
 
-## Shadow
+## Offers
 
-Die Berge sind keine bloße Kulisse, sie sind eine geologische Festungsmauer, die den Geist der Bewohner verengt. Die schroffe Unzugänglichkeit nährt den psychologischen Isolationismus. Die Innerrhoder haben sich so lange hinter dem Fels versteckt, dass sie die Weite der Welt nicht mehr als Versprechen, sondern nur noch als Bedrohung wahrnehmen können.
+Rückzug und Bewahrung traditioneller Gesänge und Lebensformen, abgeschirmt vom Rest der Schweiz und der Welt.
 
-## Tell
+## Withheld
 
-Der scharfe, schneidende Schatten, den der Säntis am späten Nachmittag über das Tal wirft – eine tägliche, düstere Erinnerung daran, dass das Licht der Außenwelt hier stets ein wenig früher erlischt.
+Die Weite des Horizonts. Die schroffe Unzugänglichkeit nährt den psychologischen Isolationismus und verstellt den Blick auf die Moderne.

@@ -20,18 +20,18 @@ Das archaische Instrument der Macht.
 
 - Project: khai-cultures
 
-## Projection
+## Place
 
-Ein ehrenvolles Symbol freier Männlichkeit und wehrhafter Demokratie. Das Erbstück beweist, dass der Träger nicht nur das Recht, sondern die heilige Pflicht hat, sein Land zu formen.
+Getragen an der Hüfte des Stimmbürgers auf dem Landsgemeindeplatz, ein sichtbares Zeichen der politischen Mündigkeit.
 
-## Action
+## Load Bearing
 
-Einmal im Jahr, am letzten Sonntag im April, wird die Waffe poliert, umgeschnallt und auf dem Landsgemeindeplatz in die Luft gereckt. Es ersetzt den Stimmzettel; der blanke Stahl ist das sichtbare Votum in der Menge.
+Es legitimierte jahrhundertelang die exklusive Herrschaft der wehrfähigen Männer über die Geschicke des Kantons.
 
-## Shadow
+## Apparent
 
-Das Gewehr, das Freiheit symbolisiert, diente jahrhundertelang als eisernes Argument zur Unterdrückung. Es war das ultimative phallische Instrument der Ausgrenzung: Wer keine Waffe trug – die Frauen, die Besitzlosen – hatte keine Stimme. Die Waffe als Werkzeug direkter Demokratie verdeckt ihre inhärente Gewaltandrohung gegen den Wandel.
+Ein historisches Schwert oder Bajonett, das die archaische Form der direkten Demokratie symbolisiert, oft als Erbstück von Vater zu Sohn weitergegeben.
 
-## Tell
+## Yearbook
 
-Der abgewetzte Ledergurt, an dem das Bajonett baumelt. Das dumpfe, metallische Klappern tausender Klingen, das über den Platz hallt, wenn die Arme gesenkt werden – ein Rhythmus, der jeden Widerspruch im Keim erstickt.
+Der letzte Sonntag im April, wenn tausende dieser Waffen in den Himmel gereckt werden, um politische Entscheidungen zu treffen.

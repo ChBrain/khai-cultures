@@ -30,11 +30,11 @@ Das nackte Überleben hat einen zynischen Preis gefordert. Innerrhoden lebt heut
 
 ## Stage
 
+- `persona`: [Sepp](persona_sepp.md)
 - `position`: [Der Halbkanton](position_culture_der_halbkanton.md)
 - `position`: [Der Widerstand](position_der_widerstand.md)
-- `process`: [Speaking Dialect](process_speaking_dialect.md)
-- `process`: [Writing Standard](process_writing_standard.md)
-- `persona`: [Sepp](persona_sepp.md)
+- `place`: [Der Alpstein](place_alpstein.md)
+- `piece`: [Appenzeller Käse](piece_appenzeller_kaese.md)
 
 ## Tension
 

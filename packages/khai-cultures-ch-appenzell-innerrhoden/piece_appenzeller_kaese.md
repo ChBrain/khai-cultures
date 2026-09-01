@@ -20,18 +20,18 @@ Das konservierte Erbe in Laibform.
 
 - Project: khai-cultures
 
-## Projection
+## Place
 
-Ein kulinarisches Wahrzeichen, das streng gehütete Geheimnis einer ganzen Region. Er steht für handwerkliche Perfektion und unverfälschte Natürlichkeit.
+Ein kulinarisches Wahrzeichen, das streng gehütete Geheimnis einer ganzen Region. Er steht für handwerkliche Perfektion und unverfälschte Natürlichkeit in den Kellern der lokalen Käsereien.
 
-## Action
+## Load Bearing
 
-In rußigen Alphütten wird die Rohmilch über dem offenen Feuer erhitzt, der Käsebruch in Formen gepresst. Die Reifung erfolgt durch die sagenumwobene Kräutersulz, die den Laiben ihre rissige, intensive Rinde verleiht, bevor sie in die ganze Welt exportiert werden.
+Der Käse trägt die Identität einer isolierten Bergregion in die Welt hinaus und dient als wirtschaftlicher Anker, der die Milchwirtschaft in den Hügeln am Leben erhält.
 
-## Shadow
+## Apparent
 
-Der Käse ist ein Paradoxon: Ein Symbol lokaler Isolation, das ironischerweise zum globalen Exportgut wurde. Die Geheimhaltung des Rezepts offenbart die fast wahnhafte Obsession der Innerrhoder, ihr kulturelles Kapital vor der Außenwelt abzuschirmen, während sie gleichzeitig wirtschaftlich von ihr abhängig sind.
+Die würzige Kruste, das Geheimnis der Kräutersulz, und das Bild der alten Sennentradition, das in jeder Werbekampagne zelebriert wird.
 
-## Tell
+## Yearbook
 
-Der Geruch der Kräutersulz, ein stechender, archaischer Duft, der sich tief in die Holzwände der Keller und die Kleidung der Sennen frisst – eine olfaktorische Grenze zwischen denen, die dazugehören, und den Fremden.
+Die Rezeptur der Kräutersulz bleibt seit Generationen ein gut gehütetes Geheimnis, das den Käse von allen anderen unterscheidet.
