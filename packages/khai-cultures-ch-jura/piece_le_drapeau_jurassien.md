@@ -13,19 +13,25 @@ stamp:
 # Piece: Le Drapeau Jurassien
 
 ## Taxonomy
+
 L'étendard rouge et blanc de la crosse et des bandes.
 
 ## Owner
+
 - Project: khai-cultures
 
-## Shown
-Un drapeau frappé de la crosse épiscopale de Bâle et des sept bandes rouges et blanches, flottant fièrement sur les balcons, les fermes et lors des rassemblements politiques.
+## Place
 
-## Holds
-L'histoire d'une émancipation arrachée par la lutte. Il est le symbole matériel du Rassemblement Jurassien, représentant à la fois l'héritage de la principauté épiscopale et le sang versé (métaphoriquement) pour la liberté.
+Aux balcons des fermes et des maisons, sur les mâts des communes, et en tête des rassemblements politiques. Il flotte sur les six districts de la République et Canton du Jura, et pas sur le Jura bernois - c'est là que sa géographie devient un argument.
 
-## Offers
-Un point de ralliement identitaire immédiat. Il permet aux Jurassiens de se reconnaître, d'affirmer leur existence face à la confédération et de marquer physiquement leur territoire.
+## Load Bearing
 
-## Withheld
-L'unité totale de la région. Derrière l'étendard fédérateur, se cachent les cicatrices toujours ouvertes de la division avec le Jura bernois, rappelant que la crosse et les bandes ne flottent pas sur l'intégralité du territoire historique rêvé.
+Retirez-le et l'émancipation n'a plus de forme visible. Le Rassemblement Jurassien s'est reconnu à ce signe avant d'avoir un canton ; sans lui, il ne reste que des procès-verbaux. Il porte aussi ce que personne ne dit à voix haute : la frontière où il s'arrête.
+
+## Apparent
+
+Sept bandes rouges et blanches, et la crosse épiscopale de Bâle en canton. Rouge et blanc, sans dégradé, lisible de loin. Rien dans le dessin ne rappelle la Confédération.
+
+## Yearbook
+
+La crosse vient de la principauté épiscopale, l'étendard de la lutte qui a suivi le rattachement à Berne en 1815. Il a précédé le canton, l'a accompagné jusqu'au plébiscite de 1974, et flotte depuis 1979 sur un territoire plus petit que celui qu'il revendiquait. Les cicatrices de la division avec le Jura bernois sont toujours ouvertes, et le drapeau les rappelle chaque fois qu'on regarde où il s'arrête.
