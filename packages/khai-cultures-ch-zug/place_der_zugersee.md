@@ -22,7 +22,7 @@ Die beschauliche Naturkulisse.
 
 ## Shown
 
-Ein spiegelglattes, malerisches Gewässer, umrahmt von voralpinen Hügeln – das perfekte Postkartenmotiv der unberührten Innerschweiz.
+Ein spiegelglattes, malerisches Gewässer, umrahmt von voralpinen Hügeln - das perfekte Postkartenmotiv der unberührten Innerschweiz.
 
 ## Holds
 

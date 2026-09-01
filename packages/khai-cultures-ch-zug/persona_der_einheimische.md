@@ -35,4 +35,4 @@ Eine bittere, toxische Resignation. Er hat sein altes Bauernhaus für Millionen 
 
 ## Tell
 
-Trägt eine sündhaft teure Rolex unter dem Ärmel seines abgewetzten Jodlerhemds – ein heimlicher Tribut an den Kapitalismus, den er lauthals verachtet.
+Trägt eine sündhaft teure Rolex unter dem Ärmel seines abgewetzten Jodlerhemds - ein heimlicher Tribut an den Kapitalismus, den er lauthals verachtet.
