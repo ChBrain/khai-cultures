@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.307.0",
+  "version": "0.308.0",
   "cultures": [
     {
       "kind": "culture",
@@ -6963,6 +6963,103 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-schwyz"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_st_gallen",
+      "title": "St. Gallen",
+      "description": "Sankt Gallen: The ring canton that evolved from a monastic superpower to a booming, vulnerable textile empire.",
+      "iso": "ch-sg",
+      "members": [
+        {
+          "file": "persona_der_abt.md",
+          "kind": "persona",
+          "title": "Persona: Der Abt",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_der_stickereibaron.md",
+          "kind": "persona",
+          "title": "Persona: Der Stickereibaron",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_die_olma_bratwurst.md",
+          "kind": "piece",
+          "title": "Piece: Die Olma-Bratwurst"
+        },
+        {
+          "file": "piece_die_st_galler_spitze.md",
+          "kind": "piece",
+          "title": "Piece: Die St. Galler Spitze"
+        },
+        {
+          "file": "pitch_st_gallen.md",
+          "kind": "pitch",
+          "title": "Die Sankt Galler Tonart"
+        },
+        {
+          "file": "place_das_textilmuseum.md",
+          "kind": "place",
+          "title": "Place: Das Textilmuseum"
+        },
+        {
+          "file": "place_der_stiftsbezirk.md",
+          "kind": "place",
+          "title": "Place: Der Stiftsbezirk"
+        },
+        {
+          "file": "play_sg.md",
+          "kind": "play",
+          "title": "St. Gallen"
+        },
+        {
+          "file": "plot_00_die_fuerstabtei.md",
+          "kind": "plot",
+          "title": "Plot: Die Fürstabtei"
+        },
+        {
+          "file": "plot_01_die_gespaltene_stadt.md",
+          "kind": "plot",
+          "title": "Plot: Die Gespaltene Stadt"
+        },
+        {
+          "file": "plot_02_napoleons_flickenteppich_1803.md",
+          "kind": "plot",
+          "title": "Plot: Napoleons Flickenteppich 1803"
+        },
+        {
+          "file": "plot_03_die_stickereibluete.md",
+          "kind": "plot",
+          "title": "Plot: Die Stickereiblüte"
+        },
+        {
+          "file": "plot_04_der_stickereikollaps.md",
+          "kind": "plot",
+          "title": "Plot: Der Stickereikollaps"
+        },
+        {
+          "file": "plot_99_der_ringkanton.md",
+          "kind": "plot",
+          "title": "Plot: Der Ringkanton"
+        },
+        {
+          "file": "position_culture_der_ringkanton.md",
+          "kind": "position",
+          "title": "Sankt Gallen Culture"
+        },
+        {
+          "file": "position_die_exportwirtschaft.md",
+          "kind": "position",
+          "title": "Position: Die Exportwirtschaft"
+        },
+        {
+          "file": "process_die_olma.md",
+          "kind": "process",
+          "title": "Process: Die Olma"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-st-gallen"
     },
     {
       "kind": "culture",
