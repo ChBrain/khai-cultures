@@ -6426,7 +6426,7 @@
         {
           "file": "pitch_neuchatel.md",
           "kind": "pitch",
-          "title": "Pitch: Neuchâtel"
+          "title": "La Note de Neuchatel"
         },
         {
           "file": "place_la_chaux_de_fonds.md",
@@ -6482,16 +6482,6 @@
           "file": "process_la_marche_du_1er_mars.md",
           "kind": "process",
           "title": "Process: La Marche du 1er Mars"
-        },
-        {
-          "file": "process_speaking_french.md",
-          "kind": "process",
-          "title": "Process: Speaking French"
-        },
-        {
-          "file": "process_writing_french.md",
-          "kind": "process",
-          "title": "Process: Writing French"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-neuchatel"
