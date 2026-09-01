@@ -6974,12 +6974,14 @@
         {
           "file": "persona_der_abt.md",
           "kind": "persona",
-          "title": "Persona: Der Abt"
+          "title": "Persona: Der Abt",
+          "type": "archetype"
         },
         {
           "file": "persona_der_stickereibaron.md",
           "kind": "persona",
-          "title": "Persona: Der Stickereibaron"
+          "title": "Persona: Der Stickereibaron",
+          "type": "archetype"
         },
         {
           "file": "piece_die_olma_bratwurst.md",
@@ -6994,7 +6996,7 @@
         {
           "file": "pitch_st_gallen.md",
           "kind": "pitch",
-          "title": "Pitch: St. Gallen"
+          "title": "Die Sankt Galler Tonart"
         },
         {
           "file": "place_das_textilmuseum.md",
@@ -7044,7 +7046,7 @@
         {
           "file": "position_culture_der_ringkanton.md",
           "kind": "position",
-          "title": "Position: Der Ringkanton"
+          "title": "Sankt Gallen Culture"
         },
         {
           "file": "position_die_exportwirtschaft.md",
