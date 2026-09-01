@@ -4,9 +4,9 @@ title: "Fribourg"
 description: "Fribourg: The Catholic bastion that built an elite and now bridges the French-German linguistic divide."
 declared: "Fribourg"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -21,7 +21,7 @@ stamp:
 
 Le canton de Fribourg.
 
-## àrc
+## Arc
 
 L'histoire d'un bastion farouchement indépendant qui est resté l'ancre catholique de l'ouest, a combattu et perdu la guerre du Sonderbund en 1847, mais a riposté intellectuellement en fondant une université pour former une élite conservatrice. àujourd'hui, il est le pont physique et culturel du "Röstigraben", unissant la Suisse romande et alémanique.
 
@@ -40,8 +40,6 @@ L'histoire d'un bastion farouchement indépendant qui est resté l'ancre catholi
 **Processes**
 
 - [La Poya](process_la_poya.md)
-- [Speaking French](process_speaking_french.md)
-- [Speaking Dialect](process_speaking_dialect.md)
 
 **Positions**
 
@@ -57,7 +55,7 @@ L'histoire d'un bastion farouchement indépendant qui est resté l'ancre catholi
 
 **Pitches**
 
-- [Fribourg (Pitch)](pitch_fribourg.md)
+- [la note fribourgeoise](pitch_fribourg.md)
 
 ## Triggers
 

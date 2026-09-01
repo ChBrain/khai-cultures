@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: Le Bastion Catholique"
 declared: "Le Bastion Catholique"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ La résistance à la Réforme.
 
 Les echos de la Reforme engloutissant Berne et Geneve, laissant Fribourg isolee.
 
-## àction
+## Action
 
 Fribourg ferme ses portes, rejetant le protestantisme pour devenir l'ile romaine.
 

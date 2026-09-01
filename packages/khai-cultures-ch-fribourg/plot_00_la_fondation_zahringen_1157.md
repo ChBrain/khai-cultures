@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Fondation Zähringen 1157"
 declared: "La Fondation Zähringen 1157"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ Les origines médiévales.
 
 La necessite de fortifier la frontiere par une dynastie ambitieuse.
 
-## àction
+## Action
 
 Les Zahringen plantent une ville sur un meandre impossible, defi geologique contre le vide.
 

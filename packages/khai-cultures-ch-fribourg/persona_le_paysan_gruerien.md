@@ -4,9 +4,9 @@ title: "Persona: Le Paysan Gruérien"
 type: archetype
 declared: "Le Paysan Gruérien"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -23,9 +23,9 @@ Le gardien des traditions alpestres et catholiques.
 
 ## Projection
 
-Il incarne l'enracinement total et [Le Bastion Catholique](position_culture_le_bastion_catholique.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](process_speaking_french.md) avec la lenteur et la sagesse des montagnes.
+Il incarne l'enracinement total et [Le Bastion Catholique](position_culture_le_bastion_catholique.md). Sa langue est le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md) qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) avec la lenteur et la sagesse des montagnes.
 
-## àction
+## Action
 
 Il mène ses vaches à l'alpage lors de la Poya, fabrique le fromage qui porte le nom de sa région, et assiste scrupuleusement à la messe dominicale. Son rythme de vie est dicté par les saisons et les fêtes religieuses, ignorant superbement les débats intellectuels de la capitale cantonale.
 

@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: L'Université 1889"
 declared: "L'Université 1889"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ La contre-attaque intellectuelle.
 
 La force des armes ayant echoue, il faut conquerir les esprits.
 
-## àction
+## Action
 
 Le conseiller Georges Python fonde une universite catholique de toutes pieces dans la pauvrete.
 

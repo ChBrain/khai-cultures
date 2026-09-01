@@ -1,16 +1,16 @@
 ---
 khai: pitch
-title: "Pitch: Fribourg"
-declared: "Fribourg (Pitch)"
+title: "La Note Fribourgeoise"
+declared: "la note fribourgeoise"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
 
-# Pitch: Fribourg
+# Pitch: la note fribourgeoise
 
 ## Taxonomy
 

@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Défaite du Sonderbund 1847"
 declared: "La Défaite du Sonderbund 1847"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ Le traumatisme de la guerre civile.
 
 L'ultimatum de la Diete federale exigeant la dissolution de l'alliance catholique.
 
-## àction
+## Action
 
 L'armee catholique s'effondre sans combattre, humiliee par la machine de guerre liberale.
 
