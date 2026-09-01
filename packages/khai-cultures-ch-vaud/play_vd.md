@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-Le canton de Vaud, la Patrie Vaudoise.
+Vaud, le canton entre le Léman et le Jura, de Lausanne aux terrasses de Lavaux et jusqu'aux Alpes du Chablais. ISO CH-VD, langue fr. Le plus grand canton romand, et la Patrie vaudoise que ses habitants nomment ainsi sans ironie.
 
 ## Arc
 
