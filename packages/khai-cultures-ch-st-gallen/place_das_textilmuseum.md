@@ -13,19 +13,25 @@ stamp:
 # Place: Das Textilmuseum
 
 ## Taxonomy
+
 Der Tresor der goldenen Ära.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Shown
+
 Ein prachtvoller Palazzo, vollgestopft mit historischen Mustern und Stoffbüchern.
 
 ## Holds
+
 Die materielle Erinnerung an die Zeit, als St. Gallen die Welt mit Stickereien dominierte.
 
 ## Offers
+
 Einen melancholischen Blick auf verblassten Ruhm und technische Genialität.
 
 ## Withheld
+
 Die Schreie der ausgebeuteten Heimarbeiter, die in den feuchten Kellern für den Reichtum der Barone schufteten.

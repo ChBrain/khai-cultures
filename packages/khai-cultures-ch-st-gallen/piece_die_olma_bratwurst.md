@@ -13,19 +13,25 @@ stamp:
 # Piece: Die Olma-Bratwurst
 
 ## Taxonomy
+
 Das unantastbare kulinarische Dogma (ohne Senf).
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Place
+
 In der Hand jedes Besuchers auf dem Olma-Messegelände.
 
 ## Load Bearing
+
 Sie ist das einzige unbestrittene Kulturgut, das den zerrissenen Kanton kulinarisch vereint.
 
 ## Apparent
+
 Eine pralle, weiße Kalbsbratwurst, knusprig gegrillt und pur genossen.
 
 ## Yearbook
+
 Das jährliche Ritual der Olma, wo der Verzehr mit Senf als Verrat am Heimatkanton geahndet wird.
