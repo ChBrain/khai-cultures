@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Couronne Prussienne"
 declared: "La Couronne Prussienne"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ L'ère de la domination royale distante.
 
 L'allégeance jurée à un monarque lointain qui règne sans jamais fouler la terre qu'il possède.
 
-## àction
+## Action
 
 Neuchâtel devient une curiosité géopolitique : une principauté prussienne au cœur de la Suisse. Les élites locales cultivent des manières de cour et un snobisme intellectuel, accueillant Rousseau et les Lumières sous la protection paradoxale d'un roi despote.
 

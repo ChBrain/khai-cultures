@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Métropole Horlogère"
 declared: "La Métropole Horlogère"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ L'industrialisation des montagnes.
 
 Le tracé impitoyable des rues au cordeau dans les hautes vallées pour maximiser la lumière des ateliers.
 
-## àction
+## Action
 
 La Chaux-de-Fonds et Le Locle brûlent, puis renaissent non pas comme des villes, mais comme des machines à habiter. La rationalité industrielle s'imprime dans la pierre. Les paysans deviennent des ouvriers spécialisés, asservis au rythme des échappements.
 

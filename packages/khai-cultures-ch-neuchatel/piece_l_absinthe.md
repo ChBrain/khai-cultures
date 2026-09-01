@@ -3,9 +3,9 @@ khai: piece
 title: "Piece: L'àbsinthe"
 declared: "L'àbsinthe"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -28,7 +28,7 @@ Distillée clandestinement dans les caves du Val-de-Travers, servie dans l'ombre
 
 L'échappatoire irrationnelle d'une culture écrasée par la tyrannie de la rationalité horlogère.
 
-## àpparent
+## Apparent
 
 Un liquide émeraude qui se trouble au contact de l'eau glacée, dégageant des effluves d'anis et de fenouil.
 

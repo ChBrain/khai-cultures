@@ -3,9 +3,9 @@ khai: position
 title: "Position: L'Esprit Innovateur"
 declared: "L'Esprit Innovateur"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---

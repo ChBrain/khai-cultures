@@ -1,16 +1,16 @@
 ---
 khai: pitch
-title: "Pitch: Neuchâtel"
-declared: "Neuchâtel (Pitch)"
+title: "La Note de Neuchatel"
+declared: "la note de neuchatel"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
 
-# Pitch: Neuchâtel
+# Pitch: la note de neuchatel
 
 ## Taxonomy
 

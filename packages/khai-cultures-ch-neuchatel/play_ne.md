@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-La République et Canton de Neuchâtel.
+La République et Canton de Neuchâtel, un état souverain niché dans les montagnes jurassiennes.
 
 ## Arc
 
@@ -40,8 +40,6 @@ Un territoire à la trajectoire politique unique : principauté sous la couronne
 **Processes**
 
 - [La Marche du 1er Mars](process_la_marche_du_1er_mars.md)
-- [Speaking French](process_speaking_french.md)
-- [Writing French](process_writing_french.md)
 
 **Positions**
 
@@ -56,7 +54,7 @@ Un territoire à la trajectoire politique unique : principauté sous la couronne
 
 **Pitches**
 
-- [Neuchâtel (Pitch)](pitch_neuchatel.md)
+- [la note de neuchatel](pitch_neuchatel.md)
 
 ## Triggers
 

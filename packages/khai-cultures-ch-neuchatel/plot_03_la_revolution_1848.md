@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: La Révolution 1848"
 declared: "La Révolution 1848"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ La marche républicaine victorieuse.
 
 Le souffle de 1848 traverse l'Europe et réveille les montagnards engourdis.
 
-## àction
+## Action
 
 La marche du 1er mars depuis les montagnes jusqu'au château. Une révolution étonnamment pacifique où la force mécanique des horlogers et le courage des paysans balaient l'administration prussienne. La République est proclamée dans un élan de pureté idéaliste.
 

@@ -23,7 +23,7 @@ L'artisan méticuleux des montagnes.
 
 ## Projection
 
-Il incarne l'obsession neuchâteloise pour la précision et [L'Esprit Innovateur](position_l_esprit_innovateur.md). Il s'exprime dans le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](process_speaking_french.md) et [écrit](process_writing_french.md) avec une exactitude quasi clinique.
+Il incarne l'obsession neuchâteloise pour la précision et [L'Esprit Innovateur](position_l_esprit_innovateur.md). Il s'exprime dans le [Français de Suisse](@chbrain/khai-cultures-tongues/fr/position_language_fr_ch.md), qu'il [parle](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) et [écrit](@chbrain/khai-engine-language/process_writing_polished.md) avec une exactitude quasi clinique.
 
 ## Action
 

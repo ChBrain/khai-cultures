@@ -3,9 +3,9 @@ khai: plot
 title: "Plot: Le Comté et la Réforme"
 declared: "Le Comté et la Réforme"
 language: fr
-license: CC-BY-NC-Sà-4.0
+license: CC-BY-NC-SA-4.0
 stamp:
-  owner: KàI HàCKS àI
+  owner: KAI HACKS AI
   version: v0.0.1
   date: "2026-08-31"
 ---
@@ -24,7 +24,7 @@ Les origines et le basculement protestant.
 
 L'arrivée des prédicateurs réformés, apportant des idées qui secouent les fondations d'un comté assoupi.
 
-## àction
+## Action
 
 Les églises sont dépouillées de leurs dorures pour embrasser une austérité nouvelle. La Réforme ne s'impose pas seulement comme un dogme, mais comme une restructuration psychologique totale, préparant le terrain à la rigueur de l'horlogerie.
 

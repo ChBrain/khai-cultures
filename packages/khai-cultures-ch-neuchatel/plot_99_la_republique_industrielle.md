@@ -34,8 +34,6 @@ Neuchâtel se bat pour que son héritage industriel ne devienne pas un simple mu
 - `persona`: [Le Républicain](persona_le_republicain.md)
 - `position`: [La République](position_culture_la_republique.md)
 - `position`: [L'Esprit Innovateur](position_l_esprit_innovateur.md)
-- `process`: [Speaking French](process_speaking_french.md)
-- `process`: [Writing French](process_writing_french.md)
 - `place`: [La Chaux-de-Fonds](place_la_chaux_de_fonds.md)
 - `piece`: [La Montre Mécanique](piece_la_montre_mecanique.md)
 
