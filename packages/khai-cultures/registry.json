@@ -5765,7 +5765,7 @@
         {
           "file": "pitch_appenzell_innerrhoden.md",
           "kind": "pitch",
-          "title": "Pitch: Appenzell Innerrhoden"
+          "title": "Die Appenzeller Tonart"
         },
         {
           "file": "place_alpstein.md",
@@ -5821,16 +5821,6 @@
           "file": "process_die_landsgemeinde.md",
           "kind": "process",
           "title": "Process: Die Landsgemeinde"
-        },
-        {
-          "file": "process_speaking_dialect.md",
-          "kind": "process",
-          "title": "Process: Speaking Dialect"
-        },
-        {
-          "file": "process_writing_standard.md",
-          "kind": "process",
-          "title": "Process: Writing Standard"
         }
       ],
       "package": "@chbrain/khai-cultures-ch-appenzell-innerrhoden"
