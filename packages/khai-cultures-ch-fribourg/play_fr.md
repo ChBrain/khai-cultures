@@ -19,7 +19,7 @@ stamp:
 
 ## Name
 
-Le canton de Fribourg.
+Fribourg / Freiburg, le canton que la Sarine coupe en deux, de la vieille ville gothique aux collines de la Gruyère et au district alémanique de la Singine. ISO CH-FR, langues fr et de. Le canton dont le nom se dit dans les deux langues et dont ni l'une ni l'autre n'est la traduction.
 
 ## Arc
 
