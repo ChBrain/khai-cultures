@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.309.0",
+  "version": "0.310.0",
   "cultures": [
     {
       "kind": "culture",
@@ -6051,6 +6051,98 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-bern"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_fribourg",
+      "title": "Fribourg",
+      "description": "Fribourg: The Catholic bastion that built an elite and now bridges the French-German linguistic divide.",
+      "iso": "ch-fr",
+      "members": [
+        {
+          "file": "persona_l_etudiant_catholique.md",
+          "kind": "persona",
+          "title": "Persona: L'Étudiant Catholique",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_le_paysan_gruerien.md",
+          "kind": "persona",
+          "title": "Persona: Le Paysan Gruérien",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_le_bilinguisme.md",
+          "kind": "piece",
+          "title": "Piece: Le Bilinguisme"
+        },
+        {
+          "file": "piece_le_gruyere.md",
+          "kind": "piece",
+          "title": "Piece: Le Gruyère"
+        },
+        {
+          "file": "pitch_fribourg.md",
+          "kind": "pitch",
+          "title": "La Note Fribourgeoise"
+        },
+        {
+          "file": "place_la_cathedrale_st_nicolas.md",
+          "kind": "place",
+          "title": "Place: La Cathédrale St-Nicolas"
+        },
+        {
+          "file": "place_la_sarine.md",
+          "kind": "place",
+          "title": "Place: La Sarine"
+        },
+        {
+          "file": "play_fr.md",
+          "kind": "play",
+          "title": "Fribourg"
+        },
+        {
+          "file": "plot_00_la_fondation_zahringen_1157.md",
+          "kind": "plot",
+          "title": "Plot: La Fondation Zähringen 1157"
+        },
+        {
+          "file": "plot_01_le_bastion_catholique.md",
+          "kind": "plot",
+          "title": "Plot: Le Bastion Catholique"
+        },
+        {
+          "file": "plot_02_la_defaite_du_sonderbund_1847.md",
+          "kind": "plot",
+          "title": "Plot: La Défaite du Sonderbund 1847"
+        },
+        {
+          "file": "plot_03_l_universite_1889.md",
+          "kind": "plot",
+          "title": "Plot: L'Université 1889"
+        },
+        {
+          "file": "plot_99_le_pont_des_langues.md",
+          "kind": "plot",
+          "title": "Plot: Le Pont des Langues"
+        },
+        {
+          "file": "position_culture_fribourgeoise.md",
+          "kind": "position",
+          "title": "Fribourg Culture"
+        },
+        {
+          "file": "position_le_pont_des_langues.md",
+          "kind": "position",
+          "title": "Permanent Compromise"
+        },
+        {
+          "file": "process_la_poya.md",
+          "kind": "process",
+          "title": "Process: La Poya"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-fribourg"
     },
     {
       "kind": "culture",
