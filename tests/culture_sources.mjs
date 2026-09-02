@@ -20,18 +20,34 @@
 // returns refuses to be empty, because a resolver that has lost the house must go
 // red rather than green.
 //
+// THIS FILE IS NOW A THIN ADAPTER. Finding a house by the manifest that
+// declares it, and walking its units, is the kit's (`resolveHouse`, `unitsOf`
+// in `@chbrain/khai-tests`); so is the relink RULE itself, whether one changed
+// file's whole difference is a rewritten link target rather than authoring
+// (`defaultRelink`) - because two implementations of one rule diverge, and this
+// house's was the first draft of what the kit now carries for every khai house.
+// What stays here is what is true of THIS house and nowhere else: the shape a
+// caller gets back (`{id, dir, migrated, packageName, packageDir}`, not the
+// kit's bare `{id, dir}`), the culture-specific error wording callers and tests
+// are pinned to, and `authoredCultures`'s per-FILE grouping - the kit's own
+// `touchedUnits` only ever answers "was this unit authored" as a whole and
+// hands back a unit's entire changed-file list either way, which is not enough
+// for a caller (plot_zero.mjs's gate) asking whether the PLOT files specifically
+// were authored, so that grouping is walked here, over the kit's relink rule.
+//
 // WHAT MAKES A DIRECTORY A CULTURE. Under the umbrella, being a subdirectory of
 // `cultures/` is enough - that is the collection khai-tests counts. Beside it, a
 // package is a culture when its manifest declares the production layer:
 // `khai.class === "house"` with a `khai.production` id. Not the directory name,
 // which is the npm name and carries hyphens where an id carries underscores, and
 // not a glob over `packages/*`, which would count the umbrella and the tongues.
-// The manifest says what a package is; this file only reads it.
+// The manifest says what a package is; `resolveHouse` only reads it.
 
-import { readdirSync, existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { join, dirname, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
+import { resolveHouse, unitsOf, defaultRelink } from "@chbrain/khai-tests";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 
@@ -44,6 +60,11 @@ export const PACKAGES = join(WORKSPACE, "packages");
 
 /** The production layer's class, as khai-arch names it. */
 export const PRODUCTION_CLASS = "house";
+
+/** The declaring package name `resolveHouse` picks the umbrella out by, among
+ * every workspace package (the tongues package indexes its own collection too,
+ * and would otherwise be a second, ambiguous candidate). */
+const HOUSE_NAME = "@chbrain/khai-cultures";
 
 // Relative to the workspace being asked about, which is not always this one:
 // the migration pin builds a synthetic workspace in a scratch directory, and a
@@ -65,40 +86,53 @@ function manifest(dir) {
 }
 
 /**
+ * The kit's house at `workspace`, or null when it finds none.
+ *
+ * `resolveHouse` throws on a workspace with no manifest declaring
+ * `khai.collection` (a scratch fixture with no package.json at all, or one that
+ * has not yet written the field), and its message is about the kit's own
+ * vocabulary. This house's callers - and the tests pinned to them - read a
+ * house-specific one instead ({@link cultures}'s "pass by reading nothing"),
+ * so the kit's error is caught here and never surfaced directly.
+ */
+function findHouse(workspace) {
+  try {
+    return resolveHouse(workspace, { name: HOUSE_NAME });
+  } catch {
+    return null;
+  }
+}
+
+/** `house.productions`, filtered and shaped to this file's own contract: an id
+ * (never the npm name, which carries hyphens where an id carries underscores),
+ * and only a package that actually declares one - a package on `khai.class
+ * "house"` with no `khai.production` is not yet a production this house
+ * recognizes, whatever `resolveHouse` itself would fall back to. Internal: both
+ * exported readers below build on one `findHouse` call rather than each other,
+ * so a caller asking for the whole house (`cultures`) or one path in it
+ * (`pathCulture`) does not resolve it twice. */
+function productionsOf(house) {
+  if (!house) return [];
+  return house.productions
+    .filter((p) => p.pkg?.khai?.production)
+    .map((p) => ({
+      id: String(p.pkg.khai.production),
+      name: p.name,
+      dir: p.dir,
+      anchor: p.pkg.khai.anchor,
+      pkg: p.pkg,
+    }))
+    .sort((a, b) => a.id.localeCompare(b.id));
+}
+
+/**
  * Every culture that has been lifted into its own package.
  *
  * Empty is a legitimate answer here and only here: before the first migration
  * there are none, and the walk starts somewhere.
  */
 export function productions(workspace = WORKSPACE) {
-  const dir = join(workspace, "packages");
-  if (!existsSync(dir)) return [];
-  const out = [];
-  for (const e of readdirSync(dir, { withFileTypes: true })) {
-    if (!e.isDirectory() || e.name.startsWith(".")) continue;
-    const pkgDir = join(dir, e.name);
-    const pkg = manifest(pkgDir);
-    const khai = pkg?.khai;
-    if (!khai || khai.class !== PRODUCTION_CLASS || !khai.production) continue;
-    out.push({
-      id: String(khai.production),
-      name: pkg.name,
-      dir: pkgDir,
-      anchor: khai.anchor,
-      pkg,
-    });
-  }
-  return out.sort((a, b) => a.id.localeCompare(b.id));
-}
-
-/** Cultures still living as directories under the umbrella. */
-function monolith(workspace = WORKSPACE) {
-  const dir = join(workspace, "packages", "khai-cultures", "cultures");
-  if (!existsSync(dir)) return [];
-  return readdirSync(dir, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && !e.name.startsWith("."))
-    .map((e) => ({ id: e.name, dir: join(dir, e.name) }))
-    .sort((a, b) => a.id.localeCompare(b.id));
+  return productionsOf(findHouse(workspace));
 }
 
 /**
@@ -110,38 +144,35 @@ function monolith(workspace = WORKSPACE) {
  * otherwise pass by reading nothing.
  */
 export function cultures(workspace = WORKSPACE) {
-  const house = join(workspace, "packages", "khai-cultures");
-  const out = [
-    ...monolith(workspace).map((c) => ({
-      ...c,
-      migrated: false,
-      packageName: manifest(house)?.name,
-      packageDir: house,
-    })),
-    ...productions(workspace).map((p) => ({
-      id: p.id,
-      dir: p.dir,
-      migrated: true,
-      packageName: p.name,
-      packageDir: p.dir,
-    })),
-  ];
-  if (!out.length)
+  const houseDir = join(workspace, "packages", "khai-cultures");
+  const fail = () => {
     throw new Error(
       `no cultures found under ${rel(join(workspace, "packages"), workspace)}: ` +
-        `neither ${rel(join(house, "cultures"), workspace)}/* nor a package declaring ` +
+        `neither ${rel(join(houseDir, "cultures"), workspace)}/* nor a package declaring ` +
         `khai.class "${PRODUCTION_CLASS}". The content root is wrong, and a check ` +
         `reading it would pass by reading nothing.`,
     );
-  const seen = new Map();
-  for (const c of out) {
-    if (seen.has(c.id))
-      throw new Error(
-        `culture "${c.id}" is in two places at once: ${rel(seen.get(c.id).dir, workspace)} and ` +
-          `${rel(c.dir, workspace)}. A migration moves a culture; it never copies one.`,
-      );
-    seen.set(c.id, c);
-  }
+  };
+  const house = findHouse(workspace);
+  if (!house) fail();
+
+  const units = unitsOf(house); // throws its own "two places at once" on a real duplicate
+  if (!units.length) fail();
+
+  const prods = new Map(productionsOf(house).map((p) => [p.id, p]));
+  const housePkgName = manifest(house.packageDir)?.name;
+  const out = units.map((u) => {
+    const p = prods.get(u.id);
+    return p
+      ? { id: u.id, dir: u.dir, migrated: true, packageName: p.name, packageDir: p.dir }
+      : {
+          id: u.id,
+          dir: u.dir,
+          migrated: false,
+          packageName: housePkgName,
+          packageDir: house.packageDir,
+        };
+  });
   return out.sort((a, b) => a.id.localeCompare(b.id));
 }
 
@@ -170,6 +201,18 @@ export function isMigrated(id, workspace = WORKSPACE) {
  */
 export function pathCulture(p, workspace = WORKSPACE) {
   const s = String(p).trim().replace(/\\/g, "/");
+  // The monolith branch is a STRING match on the path's own shape, never a
+  // listing of `cultures/` - deliberately, and kept local rather than read off
+  // `unitsOf` (which does list it). A migration's own diff carries the culture's
+  // OLD path on the delete/rename side after the directory it named has already
+  // gone empty on disk (`git mv` moves the file, not the now-empty parent), so a
+  // check keyed on "does this directory currently exist" would call that leg of
+  // a migrating culture's own rename unowned - and worse, an emptied monolith
+  // directory a migration has not yet finished cleaning up would collide with
+  // the production package claiming the same id, which is `unitsOf`'s "two
+  // places at once" and not a real duplicate at all. Parsing the id out of the
+  // path's own shape has neither failure mode: it does not care whether
+  // anything is still there.
   const monolithPrefix = `${rel(join(workspace, "packages", "khai-cultures", "cultures"), workspace)}/`;
   if (s.startsWith(monolithPrefix)) {
     const rest = s.slice(monolithPrefix.length);
@@ -214,78 +257,30 @@ export function pathCulture(p, workspace = WORKSPACE) {
  * This is the ratchet's own stated intent and not a softening of it: nobody is
  * asked to pay for a culture they did not open, and the debt still only shrinks.
  * What is exempted is printed, never silent.
- */
-const LINK_TARGET = /\]\([^()\s]*\)/g;
-const blindLinks = (text) => text.replace(LINK_TARGET, "](-)");
-
-function show(ref, path, workspace) {
-  try {
-    return execFileSync("git", ["show", `${ref}:${path}`], {
-      cwd: workspace,
-      encoding: "utf8",
-      maxBuffer: 32 * 1024 * 1024,
-      stdio: ["ignore", "pipe", "ignore"],
-    });
-  } catch {
-    return null; // added on one side, deleted on the other: not a relink
-  }
-}
-
-/**
- * Files that are packaging rather than play.
  *
- * A migration writes a manifest and a licence pair into the culture's new
- * directory, and neither is a statement about the culture: the play is the same
- * play. `geo.json` and `coverage-waivers.json` are NOT here, and deliberately -
- * one carries the id and the nesting the conformance ratchet reads, the other is
- * a written claim that something needs no scene, and changing either is
- * authoring.
- */
-const PACKAGING = new Set(["package.json", "LICENSE", "LICENSE-CODE"]);
-
-/**
- * Whether a change to one file is something other than authoring.
- *
- * Two exemptions, and the second is the one a migration needs. A file whose
- * whole change is where its LINKS point was rewritten by a walk it had no part
- * in. A file that only MOVED is the same file: this house settled that once
- * already, when the sub-national rename deadlocked against changeset-check and
- * cost a batch its renames, and the rule it settled on - a rename pays no debt
- * and incurs none - is the same rule the migration needs, because a migration is
- * a directory rename with a manifest beside it.
- *
- * Take them together and a culture that migrated and nothing else is not
- * authored, which is correct and is the only thing that makes the migration
- * ratchet affordable: a move must not demand an origin plot the culture never
- * had, or the answer will be a bad plot_00, which is worse than none.
- *
- * @param {{from: string|null, to: string|null}} change  paths on each side; null
- *   where the file did not exist, which is an add or a delete and is authoring.
+ * The comparison itself - packaging judged before existence, a moved-but-
+ * unchanged file spared before the markdown gate, only markdown getting the
+ * link exemption - is now `@chbrain/khai-tests`' `defaultRelink`, byte-identical
+ * to what this house wrote first: same `PACKAGING` set (`package.json`,
+ * `LICENSE`, `LICENSE-CODE`), same blind-link comparison. This function stays
+ * only to accept the shape callers already pass it: a bare path (both sides the
+ * same) as well as a `{from, to}` pair.
  */
 export function relinkOnly(change, base, head, workspace = WORKSPACE) {
-  const { from, to } = typeof change === "string" ? { from: change, to: change } : change;
-  // Packaging is judged before existence, because a manifest and a licence
-  // ARRIVE with a migration: asking whether they changed would file every first
-  // migration as authoring and defeat the exemption it needs.
-  if (PACKAGING.has((to ?? from).split("/").pop())) return true;
-  if (!from || !to) return false;
-  const before = show(base, from, workspace);
-  const after = show(head, to, workspace);
-  if (before === null || after === null) return false;
-  // A file that moved and did not change is the same file, whatever its type.
-  // This is checked BEFORE the markdown gate, because it was not, and the first
-  // real migration flagged its culture as authored on `geo.json` alone: twenty-
-  // eight files moved untouched and were spared, and the one that was not
-  // markdown charged the whole culture. A migration would then demand coverage
-  // of every culture it moved, which is the exemption defeated at the first
-  // culture that has any debt.
-  if (before === after) return true;
-  // Only markdown gets the link exemption: a link is a markdown idea.
-  if (!to.endsWith(".md")) return false;
-  return blindLinks(before) === blindLinks(after);
+  const pair = typeof change === "string" ? { from: change, to: change } : change;
+  return defaultRelink(pair, base, head, workspace);
 }
 
-/** Every path a change touches, as `{from, to}` pairs with renames resolved. */
+/** Every path a diff range touches, as `{from, to}` pairs with renames resolved.
+ * Kept local rather than read off `touchedUnits`: that function groups by unit
+ * and reports a unit's WHOLE changed-file list regardless of which of those
+ * files the relink rule exempts, because its own callers only ever ask
+ * "was this unit authored" (a boolean). This house's callers ask a finer
+ * question - plot_zero.mjs's gate reads `authored.get(id)` for the PLOT and PLAY
+ * files specifically, to tell "the plot line was authored" from "something else
+ * in this culture was, and a link inside a plot happened to get rewritten" -
+ * so the per-file filter has to survive into the returned list, which means the
+ * diff is walked here rather than through the kit's unit-level summary. */
 function changePairs(base, head, workspace) {
   const out = [];
   const raw = execFileSync("git", ["diff", "--name-status", "-M", base, head], {
@@ -331,7 +326,7 @@ export function authoredCultures(base, head, workspace = WORKSPACE) {
   const authored = new Map();
   const spared = [];
   for (const [id, changes] of byCulture) {
-    const real = changes.filter((c) => !relinkOnly(c, base, head, workspace));
+    const real = changes.filter((c) => !defaultRelink(c, base, head, workspace));
     if (real.length) authored.set(id, real.map((c) => c.to ?? c.from).sort());
     else spared.push(id);
   }

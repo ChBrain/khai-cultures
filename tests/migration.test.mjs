@@ -66,9 +66,19 @@ delete scratchEnv.GIT_INDEX_FILE;
 function scratchWorkspace({ monolith = [], migrated = [] } = {}) {
   const root = mkdtempSync(join(tmpdir(), "khai-migration-"));
   mkdirSync(join(root, "packages", "khai-cultures", "cultures"), { recursive: true });
+  // A workspace root of its own too: resolveHouse enumerates packages off the
+  // ROOT's `workspaces` field (workspacePackages), not by walking `packages/`
+  // itself, so a scratch tree with no root manifest is a workspace of nothing.
+  writeFileSync(
+    join(root, "package.json"),
+    JSON.stringify({ name: "scratch-workspace", private: true, workspaces: ["packages/*"] }),
+  );
   writeFileSync(
     join(root, "packages", "khai-cultures", "package.json"),
-    JSON.stringify({ name: "@chbrain/khai-cultures" }),
+    JSON.stringify({
+      name: "@chbrain/khai-cultures",
+      khai: { collection: { dir: "cultures", key: "cultures", anchor: "play_" } },
+    }),
   );
   for (const id of monolith) {
     const dir = join(root, "packages", "khai-cultures", "cultures", id);
@@ -208,6 +218,19 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
     git("config", "user.name", "t");
     const dir = join(repo, "packages", "khai-cultures", "cultures", "alpha");
     mkdirSync(dir, { recursive: true });
+    // resolveHouse reads the working tree, not the git object at either commit,
+    // so a manifest written once here holds for every commit built on top of it.
+    writeFileSync(
+      join(repo, "package.json"),
+      JSON.stringify({ name: "scratch-workspace", private: true, workspaces: ["packages/*"] }),
+    );
+    writeFileSync(
+      join(repo, "packages", "khai-cultures", "package.json"),
+      JSON.stringify({
+        name: "@chbrain/khai-cultures",
+        khai: { collection: { dir: "cultures", key: "cultures", anchor: "play_" } },
+      }),
+    );
     const write = (body) => writeFileSync(join(dir, "persona_a.md"), body);
     write("---\nkhai: persona\n---\n\nShe holds [the tongue](../beta/position_language_x.md).\n");
     git("add", "-A");
@@ -270,6 +293,17 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
       git("config", "user.name", "t");
       const from = join(repo, "packages", "khai-cultures", "cultures", "alpha");
       mkdirSync(from, { recursive: true });
+      writeFileSync(
+        join(repo, "package.json"),
+        JSON.stringify({ name: "scratch-workspace", private: true, workspaces: ["packages/*"] }),
+      );
+      writeFileSync(
+        join(repo, "packages", "khai-cultures", "package.json"),
+        JSON.stringify({
+          name: "@chbrain/khai-cultures",
+          khai: { collection: { dir: "cultures", key: "cultures", anchor: "play_" } },
+        }),
+      );
       const play = "---\nkhai: play\n---\n\nA play with no origin plot at all.\n";
       writeFileSync(join(from, "play_alpha.md"), play);
       git("add", "-A");
