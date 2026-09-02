@@ -231,6 +231,10 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
         khai: { collection: { dir: "cultures", key: "cultures", anchor: "play_" } },
       }),
     );
+    // The unit's own anchor: `unitsOf` only counts a content-dir directory as a
+    // unit while it holds one, so the fixture needs it even though nothing in
+    // these three commits ever touches it.
+    writeFileSync(join(dir, "play_alpha.md"), "---\nkhai: play\n---\n");
     const write = (body) => writeFileSync(join(dir, "persona_a.md"), body);
     write("---\nkhai: persona\n---\n\nShe holds [the tongue](../beta/position_language_x.md).\n");
     git("add", "-A");
