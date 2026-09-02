@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.315.0",
+  "version": "0.316.0",
   "cultures": [
     {
       "kind": "culture",
@@ -7468,6 +7468,121 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-schwyz"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_solothurn",
+      "title": "Solothurn",
+      "description": "Solothurn: der elfte Ort, der Sitz des französischen Gesandten, und der Bahnhof, an dem sich die Schweiz trifft.",
+      "iso": "CH-SO",
+      "members": [
+        {
+          "file": "persona_der_eisenbahner.md",
+          "kind": "persona",
+          "title": "Persona: Der Eisenbahner",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_der_eisengiesser.md",
+          "kind": "persona",
+          "title": "Persona: Der Eisengiesser",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_der_patrizier.md",
+          "kind": "persona",
+          "title": "Persona: Der Patrizier",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_die_bahnhofswirtin.md",
+          "kind": "persona",
+          "title": "Persona: Die Bahnhofswirtin",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_das_oeufi_bier.md",
+          "kind": "piece",
+          "title": "Piece: Das Öufi-Bier"
+        },
+        {
+          "file": "piece_die_solothurner_torte.md",
+          "kind": "piece",
+          "title": "Piece: Die Solothurner Torte"
+        },
+        {
+          "file": "pitch_solothurn.md",
+          "kind": "pitch",
+          "title": "Pitch: die Solothurner Tonart"
+        },
+        {
+          "file": "place_das_von_roll_areal.md",
+          "kind": "place",
+          "title": "Place: Das Von-Roll-Areal"
+        },
+        {
+          "file": "place_der_bahnhof_olten.md",
+          "kind": "place",
+          "title": "Place: Der Bahnhof Olten"
+        },
+        {
+          "file": "place_die_st_ursen_kathedrale.md",
+          "kind": "place",
+          "title": "Place: Die St.-Ursen-Kathedrale"
+        },
+        {
+          "file": "play_solothurn.md",
+          "kind": "play",
+          "title": "Solothurn"
+        },
+        {
+          "file": "plot_00_die_elf_1481.md",
+          "kind": "plot",
+          "title": "Plot: Die Elf 1481"
+        },
+        {
+          "file": "plot_01_die_ambassadorenstadt.md",
+          "kind": "plot",
+          "title": "Plot: Die Ambassadorenstadt"
+        },
+        {
+          "file": "plot_02_das_oltener_aktionskomitee_1918.md",
+          "kind": "plot",
+          "title": "Plot: Das Oltener Aktionskomitee 1918"
+        },
+        {
+          "file": "plot_03_der_industriekollaps.md",
+          "kind": "plot",
+          "title": "Plot: Der Industriekollaps"
+        },
+        {
+          "file": "plot_99_das_bahnkreuz_olten.md",
+          "kind": "plot",
+          "title": "Plot: Das Bahnkreuz Olten"
+        },
+        {
+          "file": "position_culture_die_solothurner_kultur.md",
+          "kind": "position",
+          "title": "Position: Die Solothurner Kultur",
+          "taxonomy": "position_culture_schweizer_kultur.md"
+        },
+        {
+          "file": "position_das_bahnkreuz.md",
+          "kind": "position",
+          "title": "Position: Das Bahnkreuz"
+        },
+        {
+          "file": "position_die_elf.md",
+          "kind": "position",
+          "title": "Position: Die Elf"
+        },
+        {
+          "file": "process_das_umsteigen.md",
+          "kind": "process",
+          "title": "Process: Das Umsteigen"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-solothurn"
     },
     {
       "kind": "culture",
