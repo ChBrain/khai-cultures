@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.312.0",
+  "version": "0.313.0",
   "cultures": [
     {
       "kind": "culture",
