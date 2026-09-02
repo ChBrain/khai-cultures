@@ -1,4 +1,13 @@
 #!/usr/bin/env sh
+# Git exports GIT_DIR into every hook it runs, and under some hooks
+# GIT_WORK_TREE and GIT_INDEX_FILE beside it. The suite this hook runs builds
+# scratch repositories in a temp directory to prove the ratchets on, and with
+# those variables inherited every `git init` and `git commit` in a scratch
+# directory acts on THIS repository instead: the suite once wrote its "base"
+# and "migrate" commits onto the branch being pushed and flipped the checkout
+# to bare. A hook that runs the suite drops them first.
+unset GIT_DIR GIT_WORK_TREE GIT_INDEX_FILE
+
 # The last gate before a push, and the one CI cannot repeat in time to help.
 #
 # It used to run khai-guard alone, which checks lane and source/test separation
