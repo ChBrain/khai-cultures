@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-cultures-ch-glarus",
   "version": "0.1.0",
-  "description": "khai cultures: ch_glarus",
+  "description": "khai cultures: ch_glarus, one culture staged as a khai play.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "khai": {
     "class": "house",
     "production": "ch_glarus",
-    "anchor": "play_gl.md"
+    "anchor": "play_glarus.md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",

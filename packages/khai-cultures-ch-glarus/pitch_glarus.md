@@ -13,19 +13,25 @@ stamp:
 # Pitch: die Glarner Tonart
 
 ## Taxonomy
-Der dumpfe Klang des Abstimmungsschwerts.
+
+Die Schroffheit einer Mehrheit, die sich nie rechtfertigen musste.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Tenor
-Die tiefe, unbeugsame Schwere eines Bergtals, in dem das Licht im Winter früh verschwindet und die Arbeit immer hart war. Es ist eine Sprache, die keinen Raum für Sentimentalität lässt.
+
+Direkt bis zur Grobheit, kurz angebunden, ohne Umweg über die Form. Man sagt hier, was man will, weil man es am Sonntag ohnehin vor allen sagen muss, und man hält Höflichkeit, die eine Meinung verdeckt, für Unaufrichtigkeit.
 
 ## Undertow
-Ein ständiges Pochen auf Gleichberechtigung und Kontrolle. Jeder Glarner weiss, dass der reichste Fabrikant auf dem Ring im Ring genau eine Stimme hat – genau wie der einfachste Arbeiter.
+
+Das Wissen, klein zu sein und es durch Entschlossenheit auszugleichen. Darunter die Sorge, dass die Entschlossenheit nichts mehr trägt: Die Industrie ist weg, die Jungen studieren in Zürich, und der Ring füllt sich aus einem Tal, das leerer wird.
 
 ## Nerve
-Die klaffende Wunde des industriellen Niedergangs. Die alten Textilfabriken stehen als zerfallende Zeugen eines Reichtums, der längst nach Asien abgewandert ist, und hinterlassen ein Tal, das sich mühsam neu erfinden muss.
+
+Die Frage, ob die Landsgemeinde noch zeitgemäss sei. Sie trifft nicht ein Verfahren, sondern die Verfassung, die Schlacht und die Fahrt zugleich, und sie wird deshalb nicht als Frage gehört, sondern als Angriff.
 
 ## Echo
-Das scharfe Klackern der Holzmühlen und der laute Ruf des Landammanns, wenn die Menge unter freiem Himmel über die Zukunft des Kantons entscheidet.
+
+Ein Platz voller erhobener Arme, ein Landammann, der schätzt statt zählt, und danach die Stille von zwölf Monaten, in denen dort Autos stehen.
