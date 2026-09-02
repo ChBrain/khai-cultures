@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.311.0",
+  "version": "0.312.0",
   "cultures": [
     {
       "kind": "culture",
@@ -5738,6 +5738,99 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-aargau"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_appenzell_ausserrhoden",
+      "title": "Appenzell Ausserrhoden",
+      "description": "Appenzell Ausserrhoden: Der reformierte Halbkanton, der sich der Welt öffnete und darüber seine Mitte verlor.",
+      "iso": "CH-AR",
+      "members": [
+        {
+          "file": "persona_der_fabrikant.md",
+          "kind": "persona",
+          "title": "Persona: Der Fabrikant",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_die_heimstickerin.md",
+          "kind": "persona",
+          "title": "Persona: Die Heimstickerin",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_die_chlausenhaube.md",
+          "kind": "piece",
+          "title": "Piece: Die Chlaushaube"
+        },
+        {
+          "file": "piece_die_handstickerei.md",
+          "kind": "piece",
+          "title": "Piece: Die Handstickerei"
+        },
+        {
+          "file": "pitch_appenzell_ausserrhoden.md",
+          "kind": "pitch",
+          "title": "Pitch: die Ausserrhoder Tonart"
+        },
+        {
+          "file": "place_der_landsgemeindeplatz_trogen.md",
+          "kind": "place",
+          "title": "Place: Der Landsgemeindeplatz Trogen"
+        },
+        {
+          "file": "place_herisau.md",
+          "kind": "place",
+          "title": "Place: Herisau"
+        },
+        {
+          "file": "play_appenzell_ausserrhoden.md",
+          "kind": "play",
+          "title": "Appenzell Ausserrhoden"
+        },
+        {
+          "file": "plot_00_die_landteilung_1597.md",
+          "kind": "plot",
+          "title": "Plot: Die Landteilung 1597"
+        },
+        {
+          "file": "plot_01_das_weberland.md",
+          "kind": "plot",
+          "title": "Plot: Das Weberland"
+        },
+        {
+          "file": "plot_02_der_stickereikollaps.md",
+          "kind": "plot",
+          "title": "Plot: Der Stickereikollaps"
+        },
+        {
+          "file": "plot_03_die_letzte_landsgemeinde_1997.md",
+          "kind": "plot",
+          "title": "Plot: Die letzte Landsgemeinde 1997"
+        },
+        {
+          "file": "plot_99_der_kanton_ohne_mitte.md",
+          "kind": "plot",
+          "title": "Plot: Der Kanton ohne Mitte"
+        },
+        {
+          "file": "position_culture_die_ausserrhoder_kultur.md",
+          "kind": "position",
+          "title": "Position: Die Ausserrhoder Kultur",
+          "taxonomy": "position_culture_schweizer_kultur.md"
+        },
+        {
+          "file": "position_die_offene_flanke.md",
+          "kind": "position",
+          "title": "Position: Die offene Flanke"
+        },
+        {
+          "file": "process_das_silvesterchlausen.md",
+          "kind": "process",
+          "title": "Process: Das Silvesterchlausen"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-appenzell-ausserrhoden"
     },
     {
       "kind": "culture",
