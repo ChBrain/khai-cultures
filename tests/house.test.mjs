@@ -7,6 +7,7 @@ import {
   verifyGatesAgainstCi,
   verifyRelease,
   packedFiles,
+  checkPacking,
   checkRegistryPacking,
   checkManagement,
   resolveHouse,
@@ -285,31 +286,6 @@ describe("Cultures house: engines are declared as content dependencies", () => {
   });
 });
 
-// Filenames must be ASCII. A non-ASCII filename (Danish oe/ae written as the raw
-// letter, German umlauts, and the like) breaks its links across platforms: macOS
-// stores paths decomposed (NFD) and Linux composed (NFC), so a link's bytes stop
-// matching the stored name, and tooling and zip-bundling mishandle the UTF-8
-// path. The house convention transliterates; this guard makes that a gate, not a
-// habit.
-describe("House: filenames are ASCII", () => {
-  it("no file carries a non-ASCII name", () => {
-    const offenders = [];
-    const walk = (dir) => {
-      for (const e of readdirSync(dir, { withFileTypes: true })) {
-        if (e.name === "node_modules" || e.name.startsWith(".")) continue;
-        const full = join(dir, e.name);
-        if (/[^\x00-\x7F]/.test(e.name)) offenders.push(full.slice(root.length + 1));
-        if (e.isDirectory()) walk(full);
-      }
-    };
-    walk(root);
-    expect(
-      offenders,
-      `non-ASCII filenames break links across platforms (NFC/NFD); transliterate them: ${offenders.join(", ")}`,
-    ).toEqual([]);
-  });
-});
-
 // The persona-wiring gate reads its two rules out of two manifests rather than
 // carrying them: the widths a grip can take from the language engine, and the
 // tongues nobody acquires first from the tongues package. Neither is asserted
@@ -420,10 +396,47 @@ describe("Cultures house: the walls the kit holds", () => {
 
   it("registry.json's promise is held against the tarball (packing completeness)", () => {
     const packed = packedFiles(workspaceRoot);
-    const findings = checkRegistryPacking(workspaceRoot, packed);
-    expect(findings, findings.map((f) => `${f.package}/${f.path}: ${f.reason}`).join("; ")).toEqual(
-      [],
+    // checkPacking proves a manifest's own promise ships (khai.members, `main`,
+    // an on-disk playwright_instructions.md) - the tongues package's failure
+    // mode, `files: ["*.md"]` reaching only the package root while every one of
+    // its sixty varieties lived below it. checkRegistryPacking proves the
+    // registry's promise against the same box: a shipped entry's anchor file is
+    // in the tarball, a delegated entry names a declared dependency and ships no
+    // file of its own here.
+    const findings = [
+      ...checkPacking(workspaceRoot, packed),
+      ...checkRegistryPacking(workspaceRoot, packed),
+    ].map((f) =>
+      f.missing ? `${f.package}: ${f.missing.join(", ")}` : `${f.package}/${f.path}: ${f.reason}`,
     );
+
+    // Two of this house's own packing incidents sit outside both kit walls, and
+    // stay local for it. `checkRegistryPacking` reads only the PRIMARY
+    // collection a package's manifest declares (`resolveCollection`), which for
+    // the umbrella is "cultures" - `groups` is a second, house-specific
+    // collection the kit has no way to know about, and the house shipped a
+    // registry describing nineteen groups with none of them in the box before
+    // this existed. And for a SHIPPED entry it proves only the anchor file
+    // (`play_<id>.md`) is packed, not every member - the anchor is what the
+    // tongues incident above would have failed on, but a `files` glob that
+    // reaches play_*.md and not persona_*.md would still pass it. So both stay
+    // held here, off the same box the kit walls above were just given.
+    const registry = JSON.parse(readFileSync(join(root, "registry.json"), "utf8"));
+    const box = packed.get("@chbrain/khai-cultures") ?? new Set();
+    const promised = (kind, entries) =>
+      (entries ?? []).flatMap((e) => (e.members ?? []).map((m) => `${kind}/${e.id}/${m.file}`));
+    const shipped = (registry.cultures ?? []).filter((e) => !e.package);
+    const missing = [
+      ...promised("cultures", shipped).filter((p) => !box.has(p)),
+      ...promised("groups", registry.groups).filter((p) => !box.has(p)),
+    ];
+    if (missing.length)
+      findings.push(
+        `registry.json names ${missing.length} file(s) not in the tarball, e.g. ${missing.slice(0, 5).join(", ")}`,
+      );
+    if (!box.has("registry.json")) findings.push("registry.json itself is not in the tarball");
+
+    expect(findings, findings.join("; ")).toEqual([]);
   }, 120000);
 
   it("management converges with the blueprint core", () => {
@@ -442,5 +455,23 @@ describe("Cultures house: the walls the kit holds", () => {
     const house = resolveHouse(workspaceRoot, { name: "@chbrain/khai-cultures" });
     const findings = filenameErrors(house);
     expect(findings, findings.map((f) => f.file).join("; ")).toEqual([]);
+  });
+});
+
+// `khai-guard changeset-check` has read the corpus (every changeset names a
+// package this workspace has) since 0.3.1 - see `workspaceNames` in
+// @chbrain/khai-guard/index.mjs. What is not the guard's to check is which
+// LANE a repair to that corpus lands on: `.changeset/**` has to be a rider, not
+// `shared`, because `shared` is for build artefacts that are never the whole of
+// a change, and a changeset REPAIR (a wrong package name, nothing else touched)
+// is exactly that - the misfits house hit this once, with nowhere to commit the
+// fix.
+describe("Cultures house: a changeset can be committed on a lane the guard computes", () => {
+  it("holds .changeset/** as a rider, not as shared", () => {
+    const { branchScope } = JSON.parse(
+      readFileSync(join(workspaceRoot, "khai-guard.config.json"), "utf8"),
+    );
+    expect(branchScope.shared).not.toContain(".changeset/**");
+    expect(branchScope.riders).toContainEqual({ pattern: ".changeset/**", fallback: "governance" });
   });
 });
