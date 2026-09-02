@@ -82,16 +82,6 @@
     ],
     "lanes": [
       {
-        "pattern": "culture/*",
-        "layer": "solution",
-        "allow": ["packages/**"]
-      },
-      {
-        "pattern": "group/*",
-        "layer": "solution",
-        "allow": ["packages/khai-cultures/groups/**"]
-      },
-      {
         "pattern": "governance/*",
         "layer": "governance",
         "allow": [
@@ -100,14 +90,26 @@
           ".gitattributes",
           "khai-guard.config.json",
           "tests/**",
+          "AGENTS.md",
           "GEMINI.md",
           "CLAUDE.md",
+          "PERPLEXITY.md",
           "REFERENCE.md",
           "management/**",
           "packages/khai-cultures/README.md",
           "packages/khai-cultures/REFERENCES.md",
           "packages/khai-cultures/playwright_instructions.md"
         ]
+      },
+      {
+        "pattern": "culture/*",
+        "layer": "solution",
+        "allow": ["packages/**"]
+      },
+      {
+        "pattern": "group/*",
+        "layer": "solution",
+        "allow": ["packages/khai-cultures/groups/**"]
       },
       {
         "pattern": "changeset-release/*",

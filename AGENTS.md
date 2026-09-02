@@ -1,22 +1,100 @@
----
-khai: instructions
-title: "The House"
-language: english
-license: CC-BY-NC-SA-4.0
-stamp:
-  owner: KAI HACKS AI
-  version: v0.0.1
-  date: "2026-08-30"
----
+# AGENTS.md, the Cultures house
 
-# Instructions: The House
+This is the Cultures production house (`@chbrain/khai-cultures`), raised by
+khai-stage. Its productions are cultures, each staged as a full khai play under
+`packages/khai-cultures/cultures/` (and, once migrated, in its own
+`packages/khai-cultures-<id>/`), written separately, in khai-playwright mode.
+
+**This is the coding contract, and it is vendor agnostic.** It applies in full to
+every agent that works on this repository, named here or not. If you were given
+no other file, this is your file: read it and follow it.
+
+A vendor file carries one tool's quirks and closes by sending you here. None
+points at another: a contract living in one vendor's file makes that vendor its
+owner, and these rules belong to the house. And none outranks this one, which is
+why each says so in its own text: where a vendor file and this one appear to
+disagree, this one wins and the vendor file is wrong.
+
+**A vendor file earns its place by being the one home for that tool's quirks**,
+not by being auto-loaded. One file per provider or tool you actually work with,
+so a quirk has exactly one place to land and never ends up in another tool's
+file. That justification holds whether or not anything discovers the file on its
+own, which is why an empty one is worth keeping: it is the address a future
+quirk already has.
+
+**Discovery is a separate question, and do not assume it.** `CLAUDE.md`, `GEMINI.md`
+and `.github/copilot-instructions.md` are loaded by their tools as a documented
+behaviour. Everything else, `PERPLEXITY.md` included, is a supplementary
+convention that is reached because `README.md` links it or because a human
+opened it. That is why the README carries the pointer: it is the one path that
+does not depend on any tool's discovery rules.
+
+**A vendor file is added on documented behaviour, never on a model's account of
+itself.** Asked directly, one model described a root-scanning heuristic that
+would find a file named after it, then retracted it: no such convention is
+documented. The retraction cost nothing because it arrived early. A self-report
+is a hypothesis, and this house does not encode hypotheses as mechanism.
+
+You may see other vendors' files while working here. They hold one other tool's
+quirks each: a rule in one of them, a branch-naming habit say, is about that
+tool and not about this house.
+
+**Two axes, and the same vendor sits on both.** An agent pointed at this
+repository _works the house_: it branches, writes, runs the guard, opens a pull
+request, and its quirks belong beside this file. A deployment _receives_ a
+finished production (a Space, a Gem, a Project) and never edits anything; its
+quirks belong in that Venue's own adaption, in `khai-engine-spine`. One vendor
+can be both, with different quirks in each place, and the two must never be
+merged: how a tool behaves while editing a repository says nothing about how it
+behaves while performing a play.
+
+**Voice first.** Operate under the
+[management instructions](management/management_instructions.md): the khai
+**voice and mechanics** (who speaks, the company, management orders). _Then_ this
+file is the **coding contract** for the house. Voice and mechanics there; coding
+rules here. The order matters: management voice first, coding second.
+
+> **Case law next.** [conduct.md](node_modules/@chbrain/khai-stage/conduct.md)
+> ships with `@chbrain/khai-stage`, the package that raised this house, and is
+> the shared case law for working in any khai house: how a model reads a rule,
+> measures a claim, trusts a check. This file stays the short, executable
+> contract; it does not restate that reasoning.
+
+## Starting a file
+
+Do not hand-write a khai file from memory of its chapters. Every type ships a
+complete, valid skeleton in the canon, and `@chbrain/khai-arch` is already a
+dependency of this house, so all nine are installed here:
+
+```
+ls node_modules/@chbrain/khai-arch/templates/
+cp node_modules/@chbrain/khai-arch/templates/template_process.md plays/<play>/process_<name>.md
+```
+
+One per type (persona, piece, pitch, place, plan, play, plot, position,
+process): right chapters, in the right order, with the right frontmatter. The
+kit proves each one valid against its own type contract, so the whole class of
+defect where a file invents a chapter name or drops a required one cannot
+survive the first step.
+
+This is not a style preference. A house once took in ten productions that
+arrived with the same wrong chapter names, from a base whose own rules already
+tabled the correct ones: a list you read is not a file you were handed.
+
+**Then write it.** A stamped template validates, which is what makes it a safe
+starting point and also what makes an unedited one shippable. The prose under
+each heading is the canon's account of what that chapter is for; it is
+instruction to you, never content to leave behind.
+
+`templates` starts a file, `types` checks one. Both are exports of
+`@chbrain/khai-arch`.
 
 The ordinary coding rules for working in this house: what lives here, how it is
 branched, versioned, gated and written. It sits beneath the voice layer
 (`management_instructions.md`), which says who speaks and how the company
 collaborates and carries no coding specifics.
 
-These rules are **provider-neutral**. Every agent reads this file, whichever tool
+These rules are **provider-neutral**. Every agent reads AGENTS.md, whichever tool
 it arrives through; `CLAUDE.md` and `GEMINI.md` hold only the quirks of their own
 tool and point here for everything else. A rule that lives in a tool file is a
 rule the other agent does not have, which is how a house ends up with two
@@ -40,7 +118,7 @@ instead of `plays/`.
 
 The root is a container, `@chbrain/khai-cultures-workspace`, private and forever
 `0.0.0`. It publishes nothing and holds the tooling: the gates, the changesets,
-the workflows, this file. Everything that ships lives in a package beneath it,
+the workflows, AGENTS.md. Everything that ships lives in a package beneath it,
 which is how khai itself is arranged, and for the same reason: changesets treats
 a workspace root as the container and not as something it can version, so a root
 that tried to be both would stop being releasable the moment it gained a second
@@ -93,7 +171,9 @@ Never `--no-verify`. Never merge; open the PR and stop.
 
 ## The instruments
 
-Two commands, and the house expects both to have been run.
+Two commands, and the house expects both to have been run. Run the gates
+through `npx`, from the repository root (`npx khai-guard`, `npx khai-tests`,
+`node tests/<gate>.mjs`).
 
 ```
 npm run gates
@@ -245,7 +325,7 @@ its parent, and the umbrella still naming every production it let go. The count
 survives the move (`tests/registry_hybrid.mjs`), because the umbrella's minor is
 the number of cultures and not the number of directories.
 
-See [The Migration Ratchet](orders/order_the_migration_ratchet.md).
+See [The Migration Ratchet](management/orders/order_the_migration_ratchet.md).
 A culture is a play before it is a package: every question below this one is
 asked first.
 
@@ -278,7 +358,7 @@ A persona born after the last plot has a third option besides a scene and a
 waiver: the plot may cast them in its **Tension** as what the event produced.
 Ohio's Harper works out of the Cleveland the collapse left behind. The test, and
 where it goes, and what it must never be used to dodge, are in
-[Casting by Consequence](orders/order_casting_by_consequence.md); the
+[Casting by Consequence](management/orders/order_casting_by_consequence.md); the
 one decidable part is a gate, because a waiver the play has outgrown is now an
 error.
 
@@ -350,7 +430,7 @@ staging its whole memory apparatus and no plot between 1871 and 1949.
 
 This is a dialogue, culture by culture, not a rule: the house has cultures that
 name their catastrophe and cultures that stage the recovery instead, and both can
-be right. See [The Defining Question](orders/order_the_defining_question.md).
+be right. See [The Defining Question](management/orders/order_the_defining_question.md).
 Where the answer is that a culture stands as it is, write the reasoning into its
 `REFERENCES.md` rather than leaving the next hand to ask again. Never stage an
 apology in place of a deed, and never invent a scene to satisfy a counter.
@@ -366,7 +446,7 @@ still resolving, never a forecast, held at the far end so it stays last and is
 renumbered into the sequence once its events settle. Where a culture is _going_ is
 a judgement and by design likely wrong, so it never becomes a plot; it lives in
 that plot's Tension and in the play's Stakes, which is a question and not a claim.
-See [Plot Zero](orders/order_plot_zero.md). Berlin opened at the Wall
+See [Plot Zero](management/orders/order_plot_zero.md). Berlin opened at the Wall
 and Wales ends in 1588.
 
 **The answer is a cultural moment, not a constitutional one.** A play can carry
@@ -405,7 +485,7 @@ Two facts, both decidable, neither a ratchet, because both start clean across al
 
 Neither is a quality bar and neither may be treated as one. A culture can clear
 both and still be thin: whether a chapter is **true** is the dialogue
-[The Defining Question](orders/order_the_defining_question.md)
+[The Defining Question](management/orders/order_the_defining_question.md)
 protects, and no counter stands in for it. This gate holds the floor and nothing
 above it.
 

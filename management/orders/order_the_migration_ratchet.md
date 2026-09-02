@@ -56,7 +56,7 @@ whoever holds it — `Has / Orders / Loses / Drives` **of the office** — and a
 variety written inside a culture's directory has almost always absorbed that
 culture's institutions into chapters that have no room for them. The read
 against the mnemonic is the work; `tests/tongues_standalone.mjs` gates the
-result. See the tongues section of `house_instructions.md`.
+result. See the tongues section of [`AGENTS.md`](../../AGENTS.md).
 
 **A `../` link that is not a culture-position.** The sub-national nesting links
 map onto a specifier exactly and the tool rewrites them. A link to a
