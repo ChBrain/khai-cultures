@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-cultures-ch-thurgau",
   "version": "0.1.0",
-  "description": "khai cultures: ch_thurgau",
+  "description": "khai cultures: ch_thurgau, one culture staged as a khai play.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "khai": {
     "class": "house",
     "production": "ch_thurgau",
-    "anchor": "play_tg.md"
+    "anchor": "play_thurgau.md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",

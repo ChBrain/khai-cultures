@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Der Zürcher Pendler"
+type: archetype
 declared: "Der Zürcher Pendler"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -13,19 +14,25 @@ stamp:
 # Persona: Der Zürcher Pendler
 
 ## Taxonomy
-Der Schläfer im Flachland.
+
+Der Einwohner ohne Ort.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Projection
-Er trägt einen Anzug, Noise-Cancelling-Kopfhörer und wirkt permanent gehetzt. Er lebt im Thurgau, hat aber kaum Berührungspunkte mit [Der Thurgauer Kultur](position_culture_thurgauer_kultur.md). Er [formuliert](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) sein [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) im schnellen, geschäftigen Zürcher Rhythmus.
+
+Er wohnt im Thurgau und lebt in Zürich, und er hat [die Thurgauer Kultur](position_culture_die_thurgauer_kultur.md) nie betreten, obwohl er in ihr schläft. Sein [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) ist das, in dem er [denkt und spricht](@chbrain/khai-engine-language/process_speaking_mother_tongue.md), im schnellen Zürcher Takt; sein Arbeitstag läuft auf [Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md), das er [den ganzen Tag sorgfältig schreibt](@chbrain/khai-engine-language/process_writing_polished.md).
 
 ## Action
-Er steht jeden Morgen um 6 Uhr auf, steigt in den Schnellzug nach Zürich, arbeitet zehn Stunden im Banken- oder IT-Sektor und kehrt im Dunkeln zurück in sein neu gebautes Einfamilienhaus im Thurgau. Er zahlt hier Steuern, aber er verbringt sein Leben woanders.
+
+Er steht um sechs auf, nimmt denselben Zug wie die halbe Gemeinde, arbeitet zehn Stunden und kommt im Dunkeln zurück in ein Haus, das jünger ist als sein Arbeitsvertrag. Er zahlt hier Steuern, wählt hier, und hat noch nie an einer Gemeindeversammlung teilgenommen.
 
 ## Shadow
-Die völlige Entwurzelung. Er kennt seine Nachbarn nicht und weiss nicht einmal, wer der Gemeindepräsident seines Wohnortes ist.
+
+Er hält den Thurgau für eine Preisentscheidung und würde das nie so sagen. Wenn er von Heimat spricht, meint er die Gegend, aus der er weggezogen ist, und er merkt nicht, dass seine Kinder das hier meinen werden.
 
 ## Tell
-Das reflexartige Überprüfen der SBB-Fahrplan-App auf seinem Smartphone.
+
+Er nennt Ortschaften nach ihrer Fahrzeit statt nach ihrer Lage: Weinfelden ist zwölf Minuten, Zürich ist eine Stunde.

@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Der Apfelbauer"
+type: archetype
 declared: "Der Apfelbauer"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -13,19 +14,25 @@ stamp:
 # Persona: Der Apfelbauer
 
 ## Taxonomy
+
 Der Wächter der Bäume.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Projection
-Er tritt auf mit einer stoischen, erdverbundenen Ruhe, die Hände rau von der Feldarbeit. Er verkörpert [Die Thurgauer Kultur](position_culture_thurgauer_kultur.md) und pflegt [Die Apfelblüte](position_die_apfelbluete.md) als Lebensrhythmus. Er [spricht](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) ein unverkennbar breites [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md).
+
+Stoisch, erdverbunden, die Hände rau von der Feldarbeit. Er verkörpert [die Thurgauer Kultur](position_culture_die_thurgauer_kultur.md), lebt [die Apfelblüte](position_die_apfelbluete.md) als Jahresordnung und trägt [das Untertanenland](position_das_untertanenland.md) weiter, ohne es je so zu nennen. Er [spricht als Muttersprache](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) ein breites, langsames [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md). Die Direktzahlungsformulare kommen in [Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md), und er [liest sie Zeile für Zeile](@chbrain/khai-engine-language/process_reading_followed.md), weil dort steht, wofür er noch Geld bekommt.
 
 ## Action
-Er pflegt in vierter Generation die endlosen Obstplantagen des Kantons. Er presst Most, brennt Schnaps und wehrt sich verzweifelt gegen Bauherren, die ihm sein Land abkaufen wollen, um die nächste Wohnsiedlung hochzuziehen.
+
+Er pflegt in vierter Generation die Hochstämme seines Vaters, presst Most, brennt Schnaps und rechnet im Winter durch, welcher Baum sich noch trägt. Zweimal im Jahr sitzt ein Bauherr an seinem Küchentisch und nennt eine Zahl, und zweimal im Jahr sagt er nein und rechnet danach noch einmal.
 
 ## Shadow
-Die schmerzhafte Erkenntnis, dass er mit seinen Äpfeln nie so viel Geld verdienen wird, wie wenn er den Boden einfach als Bauland verkaufen würde.
+
+Er weiss, dass er mit Äpfeln nie verdienen wird, was der Boden als Bauland brächte, und er nennt seine Weigerung Treue. Sie ist auch Angst davor, danach niemand mehr zu sein: Ohne die Bäume ist er ein Mann mit Geld und ohne Beschäftigung.
 
 ## Tell
-Ein prüfender Blick in den Himmel, um das Wetter für die Ernte abzuschätzen, selbst wenn er in einem geschlossenen Raum ist.
+
+Ein prüfender Blick nach oben, wenn ein Gespräch stockt, auch in einem Raum ohne Fenster. Und er sagt nie "meine Bäume", sondern immer "die Bäume".
