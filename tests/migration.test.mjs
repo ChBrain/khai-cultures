@@ -55,6 +55,14 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const WORKSPACE = join(HERE, "..");
 
 /** A workspace with `monolith` cultures under the umbrella and `migrated` beside it. */
+// A scratch repository must never inherit the caller's git environment. Git
+// exports GIT_DIR into hooks, so a suite run from pre-push would otherwise
+// `init` and `commit` against the real repository from a temp directory.
+const scratchEnv = { ...process.env };
+delete scratchEnv.GIT_DIR;
+delete scratchEnv.GIT_WORK_TREE;
+delete scratchEnv.GIT_INDEX_FILE;
+
 function scratchWorkspace({ monolith = [], migrated = [] } = {}) {
   const root = mkdtempSync(join(tmpdir(), "khai-migration-"));
   mkdirSync(join(root, "packages", "khai-cultures", "cultures"), { recursive: true });
@@ -193,7 +201,8 @@ describe("Migration: no gate types a culture's path", () => {
 describe("Migration: a relink is not an authoring, and one word of prose is", () => {
   function twoCommits() {
     const repo = mkdtempSync(join(tmpdir(), "khai-authored-"));
-    const git = (...args) => execFileSync("git", args, { cwd: repo, encoding: "utf8" });
+    const git = (...args) =>
+      execFileSync("git", args, { cwd: repo, encoding: "utf8", env: scratchEnv });
     git("init", "-q", "-b", "main");
     git("config", "user.email", "t@example.com");
     git("config", "user.name", "t");
@@ -253,7 +262,8 @@ describe("Migration: a relink is not an authoring, and one word of prose is", ()
     // than none. This house settled the same rule once before, when the
     // sub-national rename deadlocked against changeset-check.
     const repo = mkdtempSync(join(tmpdir(), "khai-moved-"));
-    const git = (...args) => execFileSync("git", args, { cwd: repo, encoding: "utf8" });
+    const git = (...args) =>
+      execFileSync("git", args, { cwd: repo, encoding: "utf8", env: scratchEnv });
     try {
       git("init", "-q", "-b", "main");
       git("config", "user.email", "t@example.com");
@@ -363,7 +373,8 @@ describe("Migration: the tool serves a culture that was written, not restaged", 
     // Proven on a scratch repository: git will not move what it has never
     // tracked, and a culture authored in the same pull request is exactly that.
     const repo = mkdtempSync(join(tmpdir(), "khai-untracked-"));
-    const git = (...args) => execFileSync("git", args, { cwd: repo, encoding: "utf8" });
+    const git = (...args) =>
+      execFileSync("git", args, { cwd: repo, encoding: "utf8", env: scratchEnv });
     try {
       git("init", "-q", "-b", "main");
       git("config", "user.email", "t@example.com");
