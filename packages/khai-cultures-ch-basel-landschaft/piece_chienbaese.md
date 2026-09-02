@@ -30,7 +30,7 @@ Es ist das wilde, ländliche und brandgefährliche Gegenstück zur geordneten st
 
 ## Apparent
 
-Männer in feuerfesten Anzügen, die brennende, zentnerschwere Kiefernholzbündel ("Chienbäse") und gewaltige Feuerwagen durch eine dichte Menschenmenge ziehen, während die Hitze die Fensterscheiben der Fachwerkhäuser bedroht.
+Männer in feuerfesten Anzügen, die brennende, zentnerschwere Kiefernholzbündel ("Chienbäse") und gewaltige Feuerwagen durch eine dichte Menschenmenge ziehen, so nah an die Fachwerkhäuser heran, dass der Lack an den Türen Blasen wirft.
 
 ## Yearbook
 
