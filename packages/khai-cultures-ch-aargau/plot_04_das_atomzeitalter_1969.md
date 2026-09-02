@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die Eröffnung des Kernkraftwerks Beznau I.
+Das nukleare Martyrium.
 
 ## Owner
 
@@ -22,11 +22,11 @@ Die Eröffnung des Kernkraftwerks Beznau I.
 
 ## Cue
 
-Die Inbetriebnahme des ersten Schweizer kommerziellen Atomkraftwerks.
+Die unheimliche Stille der kontrollierten Kettenreaktion an den Ufern der Aare.
 
 ## Action
 
-Beznau I geht ans Netz und begründet die Ära der Kernenergie in der Schweiz, wobei der Aargau die Hauptlast der nationalen Stromproduktion an den Ufern der Aare schultert.
+Beznau I geht ans Netz und macht den Kanton zur pulsierenden Batterie der Nation. Der Aargau umarmt die unsichtbare Gefahr der Radioaktivität, schluckt das Risiko und macht sich unentbehrlich – denn wer die Lichter in Zürich und Bern am Brennen hält, kann nicht länger ignoriert werden.
 
 ## Stage
 
@@ -36,4 +36,5 @@ Beznau I geht ans Netz und begründet die Ära der Kernenergie in der Schweiz, w
 
 ## Tension
 
-Der Aargau produziert den Wohlstand der Schweiz, muss aber mit den Risiken leben.
+Die paradoxe Macht des Dienenden: Der Aargau kontrolliert den Lebensnerv der Schweiz, doch um diesen Einfluss zu behalten, muss er bereit sein, auf einem Pulverfass aus Uran zu schlafen.
+

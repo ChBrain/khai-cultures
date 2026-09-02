@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die fortwährende Balance zwischen Konfessionen und Regionen.
+Die Zwangsjacke des Frankenstein-Kantons.
 
 ## Owner
 
@@ -22,16 +22,17 @@ Die fortwährende Balance zwischen Konfessionen und Regionen.
 
 ## Initiated by
 
-Das Zusammenwachsen historisch völlig unterschiedlicher Regionen (Untertanengebiete, Fricktal) zu einem einzigen Kunstkanton 1803.
+Dem Diktat Napoleons 1803, der feindliche, historisch völlig inkompatible Gebiete – das stolze Fricktal und die ausgebeuteten Untertanengebiete – gewaltsam aneinanderkettete.
 
 ## Direction
 
-Konflikte zwischen ländlich-katholischen und städtisch-reformierten Kräften müssen entschärft und in politische Kompromisse überführt werden, um den Kanton nicht zu zerreissen.
+Eine permanente, zermürbende Schadensbegrenzung; der Versuch, die tiefsitzende katholische Verbitterung des ländlichen Südens mit der kalten reformierten Technokratie des Nordens so auszutarieren, dass das Gebilde nicht unter seinem eigenen Hass zerreisst.
 
 ## Lever
 
-Der Grosse Rat und die dezentrale Verwaltung, die jeder Region ihre Eigenheiten lässt.
+Eine schwache Zentrale und ein überblähter Grosser Rat, der die Macht so stark verdünnt, dass niemand mehr laut genug schreien kann, um die anderen zu übertönen.
 
 ## Echo
 
-Ein politisches Klima, das Extreme meidet und stets den Mittelweg sucht, auch wenn dieser zäh und langwierig ist.
+Ein politisches Klima, das jede Radikalität mit tonnenschwerem Kompromiss erstickt; der Ausgleich ist hier keine Tugend, sondern der pure Überlebensinstinkt einer Gesellschaft, die weiss, dass sie eigentlich nicht zusammengehört.
+

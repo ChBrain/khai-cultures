@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die Stammburg einer Weltmacht auf Aargauer Boden.
+Die amputierte Wurzel eines Weltreichs.
 
 ## Owner
 
@@ -22,16 +22,17 @@ Die Stammburg einer Weltmacht auf Aargauer Boden.
 
 ## Place
 
-Auf dem Wülpelsberg, weithin sichtbar über dem Aaretal.
+Verlassen auf dem Wülpelsberg thronend, ein steinerner Zeuge, der hochmütig und still über das industrialisierte Aaretal hinabblickt.
 
 ## Load Bearing
 
-Sie verankert die historische Tatsache, dass der Aargau einst das Herzland einer Herrschaftsdynastie war, bevor er unterworfen wurde.
+Sie trägt die schwerste historische Wunde des Aargaus: Den Beweis, dass dieser Boden Herrscher hervorbringen konnte, nur um sie zu verlieren und selbst zum stummen Untertan der restlichen Schweiz degradiert zu werden.
 
 ## Apparent
 
-Verwitterte Steinmauern, ein Turm und ein Palas, die von einer viel grösseren Vergangenheit zeugen.
+Zerfressene Steinquader, deren Fugen vom Moos aufgesprengt werden; ein stolzer Palas, der jetzt nur noch als Kulisse für Touristen und Schulklassen dient, bar jeder echten Autorität.
 
 ## Yearbook
 
-Ein beliebtes Ausflugsziel, das von der Eidgenossenschaft vereinnahmt wurde.
+Das steingewordene Phantomschmerz-Gefühl eines Kantons, der weiss, dass er einst das Zentrum Europas war, bevor ihm die Geschichte in den Rücken fiel.
+

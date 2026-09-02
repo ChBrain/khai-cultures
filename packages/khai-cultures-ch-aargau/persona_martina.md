@@ -15,7 +15,7 @@ stamp:
 
 ## Taxonomy
 
-Die konservative, ländliche Stimme aus dem Freiamt.
+Das katholische Gedächtnis des Widerstands.
 
 ## Owner
 
@@ -23,16 +23,17 @@ Die konservative, ländliche Stimme aus dem Freiamt.
 
 ## Projection
 
-Sie steht für die tiefe Verwurzelung in der katholischen Tradition und dem Widerstand gegen die allzu schnellen Umwälzungen aus Aarau. Sie trägt [das Untertanengebiet](position_untertanengebiet.md) als etwas, das nie ganz vergangen ist, und gehört [der Aargauer Kultur](position_culture_aargauer_kultur.md) als die an, die sich an das Vorher erinnert. Sie [spricht, hört und betet](process_speaking_mother_tongue.md) im [Dialekt des Freiamts](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md); das [Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) der Amtsschreiben und der Predigt [liest sie](process_reading_followed.md), ohne es je zu reden.
+Martina ist der verbitterte, aber stolze Überrest einer Zeit, bevor der Kanton zum Maschinenraum degradiert wurde. Sie verwurzelt sich trotzig in der katholischen Erde des Freiamts und verachtet den Fortschrittsrausch von Aarau. Sie trägt [das Untertanengebiet](position_untertanengebiet.md) nicht als Schande, sondern als eine Wunde, die sie absichtlich offen hält – ein ständiger Beweis, dass man dem Zentrum nicht trauen darf. Sie gehört [der Aargauer Kultur](position_culture_aargauer_kultur.md) als die Wächterin des Vergangenen an. Sie [spricht, hört und betet](process_speaking_mother_tongue.md) im [Dialekt des Freiamts](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md), scharf und erdverwachsen; das [Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md) der Amtsschreiben und der Predigt [liest sie](process_reading_followed.md) mit der kühlen Verachtung einer Frau, die weiss, dass das wahre Gesetz im Boden liegt, nicht auf dem Papier.
 
 ## Action
 
-Sie bewahrt Brauchtum, wehrt sich gegen die Schliessung von Klöstern und pocht auf die Autonomie der ländlichen Gemeinden.
+Sie verteidigt Klöster wie Festungen, blockiert Strassenbauprojekte mit jahrzehntealten Beschwerden und giesst die Asche der Tradition auf jeden Funken moderner Veränderung.
 
 ## Shadow
 
-Eine sture Ablehnung von fremden Einflüssen und eine tiefe Skepsis gegenüber der industriellen Moderne.
+Ihre heimliche Genugtuung über jeden Misserfolg der Moderne, auch wenn er ihr eigenes Land vergiftet; sie würde lieber in einer reinen, aber toten Vergangenheit herrschen, als in einer lebendigen Zukunft zu dienen.
 
 ## Tell
 
-Sie spricht bedächtig, traditionell gefärbt und mit einem stetigen Misstrauen gegenüber dem Zentrum.
+Ein schwerer Silberring mit einem abgegriffenen Kreuz an der rechten Hand; sie zieht bei jedem lauten Geräusch aus dem Tal fast unmerklich die Schultern hoch, als erwarte sie den nächsten Verrat.
+

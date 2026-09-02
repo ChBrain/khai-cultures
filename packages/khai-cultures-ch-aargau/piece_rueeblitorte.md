@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Das kulinarische Klischee des Aargaus.
+Die süsse Maske der Bedeutungslosigkeit.
 
 ## Owner
 
@@ -22,16 +22,17 @@ Das kulinarische Klischee des Aargaus.
 
 ## Place
 
-In den Bäckereien von Aarau und auf den Kaffeetischen der gesamten Schweiz.
+Klebrig verpackt in den Bäckereien entlang der Aare und als falsches Symbol ländlicher Harmlosigkeit auf jedem Kantonsfest präsentiert.
 
 ## Load Bearing
 
-Ein Stück Identität für einen Kanton, der sich nach aussen oft schwer tut, ein eigenes Profil zu zeigen, das über Industrie hinausgeht.
+Sie stützt eine gewollte Illusion. Ein Kanton aus Asphalt, Turbinen und Atomkraft versteckt sich hinter einem harmlosen, fast lächerlichen Stück Gebäck, um der übrigen Schweiz nicht als das Monster der Moderne aufzufallen.
 
 ## Apparent
 
-Ein süsser Kuchen aus Karotten und Mandeln, meist dekoriert mit einer kleinen Marzipan-Rüebli.
+Eine schwere, feuchte Masse aus Karotten und Mandeln, gekrönt von glattem weissem Zuckerguss und einer künstlich geformten Marzipan-Karotte – so konstruiert wie die Identität des Kantons selbst.
 
 ## Yearbook
 
-Das freundliche, aber etwas belächelte Markenzeichen des "Rüeblilands", das die industriellen Realitäten überdeckt.
+Der zuckersüsse Abwehrmechanismus, der jeden Konflikt im Keim erstickt; wer einen Kuchen anbietet, von dem wird niemand verlangen, seine dunkle Geschichte zu erklären.
+

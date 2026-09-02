@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die Schliessung der Aargauer Klöster.
+Der brutale Befreiungsschlag.
 
 ## Owner
 
@@ -22,11 +22,11 @@ Die Schliessung der Aargauer Klöster.
 
 ## Cue
 
-Radikale und liberale Kräfte beschliessen die Aufhebung der Klöster.
+Die angestaute Wut des ehemaligen Untertans explodiert gegen die eigenen Heiligtümer.
 
 ## Action
 
-Der Grosse Rat des Aargaus schliesst radikal alle acht Klöster im Kanton und verstösst damit gegen den Bundesvertrag, was eine nationale Krise auslöst, die auf den Sonderbundskrieg zusteuert.
+Der junge, erst kurz freie Kanton reisst das katholische Fundament aus dem Boden und schliesst alle Klöster. Es ist ein Akt gewaltsamer Selbstermächtigung, der rücksichtslos den Bundesvertrag bricht und das ganze Land kaltblütig an den Rand eines Bürgerkriegs zerrt. Der Aargau will nicht länger ruhig sein.
 
 ## Stage
 
@@ -36,4 +36,5 @@ Der Grosse Rat des Aargaus schliesst radikal alle acht Klöster im Kanton und ve
 
 ## Tension
 
-Der schmerzhafte Versuch eines Ausgleichs zwischen katholischer Tradition und liberaler Moderne.
+Die Zerrissenheit zwischen dem verzweifelten Wunsch, endlich eine laute, radikale Stimme in der Schweiz zu haben, und dem Preis, dafür die eigene ländliche Identität zu opfern.
+

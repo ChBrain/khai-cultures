@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die Identität als Stromlieferant der Nation.
+Das Stigma des nützlichen Maschinisten.
 
 ## Owner
 
@@ -22,16 +22,17 @@ Die Identität als Stromlieferant der Nation.
 
 ## Has
 
-Das Bewusstsein, mit Reaktoren und Flusskraftwerken massgeblich zum wirtschaftlichen Erfolg der Schweiz beigetragen zu haben.
+Das dunkle, zwiespältige Bewusstsein, dass der Schweizer Reichtum direkt aus den kochenden Reaktoren und betonierten Flusskraftwerken des eigenen Bodens gesaugt wird – man ist der Wirt, an dem das Land parasitiert.
 
 ## Orders
 
-Technisches Verständnis und eine nüchterne Akzeptanz von Grossinfrastrukturen, die in anderen Kantonen auf massiven Widerstand stossen würden.
+Die emotionslose Unterwerfung unter das Diktat der Grossinfrastruktur. Wo andere Kantone wegen eines Windrades revoltieren, schluckt der Aargau schweigend Kühltürme, Hochspannungsleitungen und nukleare Gefahren.
 
 ## Loses
 
-Die unberührte Landschaft und das Gefühl von vollkommener Sicherheit, das dem Fortschrittsglauben weichen musste.
+Jeden Anspruch auf Unberührtheit und natürliche Schönheit; die Landschaft wurde schon vor Generationen an den Fortschrittsglauben und den Energiehunger der Nation verkauft.
 
 ## Drives
 
-Die Bereitschaft, nationale Verantwortung zu übernehmen, auch wenn dies bedeutet, die Verpackungsanlagen für radioaktiven Abfall zu beherbergen, während das Endlager zum Nachbarn wandert.
+Eine verdrehte Bereitschaft, das Risiko zu monopolisieren: Man hält die strahlenden Brennstäbe in den eigenen Händen, zementiert die Verpackungsanlagen für den radioaktiven Müll, weil nur wer das absolute Risiko trägt, sich unersetzlich machen kann.
+

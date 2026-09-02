@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Das historische Erbe der Fremdherrschaft.
+Die unverheilte Wunde der Knechtschaft.
 
 ## Owner
 
@@ -22,16 +22,17 @@ Das historische Erbe der Fremdherrschaft.
 
 ## Has
 
-Die historische Erinnerung daran, jahrhundertelang von fremden Landvögten verwaltet und von den alten eidgenössischen Orten ausgebeutet worden zu sein.
+Das genetisch verankerte Gedächtnis, jahrhundertelang der stumme, rechtlose Befehlsempfänger fremder Landvögte gewesen zu sein – ausgebeutet von den Nachbarn, ohne eine eigene Stimme erheben zu dürfen.
 
 ## Orders
 
-Ein tiefes Misstrauen gegenüber jedem starken Zentrum und einen Hang zur regionalen Autonomie.
+Ein radikales, fast paranoides Misstrauen gegenüber jedem Machtzentrum; wer einmal vierhundert Jahre lang gehorchen musste, wird nie wieder zulassen, dass Bern oder Zürich ihm das Gesetz diktieren, ohne Widerstand zu leisten.
 
 ## Loses
 
-Die heroischen Gründungsmythen, wie sie die Urschweiz pflegt; die Geschichte des Aargaus ist eine der Unterwerfung und späten Befreiung.
+Das Privileg eines heroischen Gründungsmytos. Während die Innerschweiz sich mit Rütlischwüren feiert, ist die Geschichte des Aargaus eine Geschichte der Demütigung, der Unterwerfung und der erst späten, gewaltsamen Rache.
 
 ## Drives
 
-Den Willen, sich durch Fleiss und Industrie eine eigene, unverzichtbare Position in der modernen Schweiz zu erarbeiten, um nie wieder nur Befehlsempfänger zu sein.
+Einen geradezu besessenen Willen zur maschinellen und wirtschaftlichen Unersetzlichkeit; der Kanton flieht in die Industrie, weil er gelernt hat: Nur wer die Schalter bedient, kann nicht länger herumgeschubst werden.
+

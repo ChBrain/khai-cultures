@@ -15,8 +15,7 @@ status: active
 
 ## Taxonomy
 
-Ein **Auftrag**: die geologische Entsorgung der nuklearen Altlasten, die im
-[Energiekanton](position_der_energiekanton.md) entstanden sind.
+Ein **Verdikt**: Das Einsperren der strahlenden Sünden im Boden des [Energiekantons](position_der_energiekanton.md).
 
 ## Owner
 
@@ -24,27 +23,20 @@ Ein **Auftrag**: die geologische Entsorgung der nuklearen Altlasten, die im
 
 ## Direction
 
-Die radioaktiven Abfälle aus den Aargauer Kernkraftwerken sollen sicher und für
-Jahrtausende tief in der Erde lagern, damit die Verantwortung nicht an künftige
-Generationen weitergereicht wird. Wer den Strom geliefert hat, schiebt den Rest
-nicht weiter.
+Das nukleare Gift, das den Reichtum des ganzen Landes befeuerte, soll nun tief unter dem Aargau vergraben werden, verplombt für eine Ewigkeit. Es ist der ultimative Zynismus der Nation: Wer jahrzehntelang den nützlichen Maschinenraum spielte, wird am Ende zum ewigen Friedhof der Altlasten erklärt.
 
 ## Orders
 
-Die Nagra sucht und begründet den Standort, der Bund entscheidet, und der Kanton
-trägt, was beschlossen wird. Keiner der drei kann den Teil des anderen
-übernehmen, und genau daran arbeitet sich der [Ausgleich](process_ausgleich.md)
-ab.
+Die Experten aus Bern zeichnen Karten, der Bund erlässt den Befehl, und der Aargau, gehorsam bis zur Selbstzerstörung, öffnet seinen eigenen Leib, um den strahlenden Müll aufzunehmen. Dagegen sträubt sich der [Ausgleich](process_ausgleich.md) verzweifelt, im Wissen, dass ein Einspruch die Heuchelei der ganzen Eidgenossenschaft entlarven würde.
 
 ## Implementation
 
-Das Standortverfahren gegen den Widerstand vor Ort; die Verpackungsanlage für die
-Brennelemente; der [Brennstab](piece_brennstab.md) als das, was tatsächlich
-gelagert werden muss, wenn die Debatte vorbei ist.
+Der kalte, technokratische Akt des Vergrabens: das Niederwalzen des lokalen Widerstands durch Gutachten; die Konstruktion massiver Betonhüllen für den tödlichen [Brennstab](piece_brennstab.md); der Versuch, ein Problem zu lösen, indem man es einfach tief genug aus dem Blickfeld der Städte räumt.
 
 ## Targets
 
-- [ ] der Standort ist entschieden und begründet
-- [ ] die Verpackung der Abfälle ist im Kanton geregelt
-- [ ] die Region ist am Entscheid beteiligt und nicht nur von ihm betroffen
-- [ ] das Lager ist verschlossen und die Ära der Atomkraft abgeschlossen
+- [ ] Der Boden ist als Opferplatz für den Bund rechtlich gesichert.
+- [ ] Die tödliche Fracht wird im Kanton zementiert.
+- [ ] Der Widerstand der Anwohner ist bürokratisch betäubt und formal "beteiligt" worden.
+- [ ] Das Stigma der Radioaktivität ist für die nächsten hunderttausend Jahre unauslöschlich in die Landschaft gebrannt.
+

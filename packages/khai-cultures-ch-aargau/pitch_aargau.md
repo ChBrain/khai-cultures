@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Ein Transit- und Industriekanton.
+Das dumpfe Summen des Maschinenraums.
 
 ## Owner
 
@@ -22,16 +22,17 @@ Ein Transit- und Industriekanton.
 
 ## Tenor
 
-Wir machen den Strom und halten die Infrastruktur am Laufen, ihr in den Städten nutzt ihn.
+Wir betonieren den Boden, bauen die Rotoren und spalten das Atom, damit ihr in den sauberen Städten das Licht anknipsen und über uns die Nase rümpfen könnt.
 
 ## Undertow
 
-Wir werden immer als Durchgangsort gesehen.
+Der tiefsitzende Groll, ein reines Nutztier der Eidgenossenschaft zu sein – gebraucht, konsumiert, durchquert, aber niemals bewundert.
 
 ## Nerve
 
-Der Stolz auf die Industrie und die Infrastruktur.
+Ein brutaler, trotziger Stolz auf die eigene Hässlichkeit; die Weigerung, sich für die Schwerindustrie, den Asphalt und die Kühltürme zu entschuldigen.
 
 ## Echo
 
-Der Kanton, in dem die grossen Flüsse und die wichtigsten Verkehrsachsen der Schweiz aufeinandertreffen.
+Der unablässige Lärm von Sechsspurautobahnen und stürzendem Kühlwasser, der jede feine Melodie des historischen Stolzes rücksichtslos übertönt.
+

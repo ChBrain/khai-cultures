@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Der gigantische Verkehrsknotenpunkt der Schweiz.
+Das Betongefäss der Flucht.
 
 ## Owner
 
@@ -22,16 +22,17 @@ Der gigantische Verkehrsknotenpunkt der Schweiz.
 
 ## Shown
 
-Eine breite, von Fahrzeugen gefüllte Betonlandschaft, wo sich die Achsen Ost-West und Nord-Süd kreuzen.
+Eine massive, kreischende Wunde aus übereinander geschichtetem Asphalt, auf der sich die Ost-West- und Nord-Süd-Arterien der Schweiz wie ein gigantischer, rauchender Knoten umeinanderwickeln.
 
 ## Holds
 
-Den unaufhörlichen Fluss von Pendlern und Gütern, die den Kanton Aargau täglich als Transitraum nutzen.
+Den rastlosen Puls eines Landes, das den Aargau nicht als Ziel, sondern nur als lästiges Hindernis begreift, durch das man so schnell wie möglich hindurchmuss.
 
 ## Offers
 
-Die schnelle Anbindung in alle Richtungen, jedoch um den Preis von Dauerstau und Lärmbelastung.
+Die absolute, anonyme Effizienz des Transits; die Freiheit, überallhin zu entkommen, erkauft mit einem endlosen, ohrenbetäubenden Stau, der die umgebenden Dörfer langsam in Lärm ersticken lässt.
 
 ## Withheld
 
-Die ursprüngliche Landschaft und die Stille, die unter dem Asphaltgewirr für immer verloren gingen.
+Die Stille des ursprünglichen Feldes, die unter Abertausenden Tonnen Schotter und Gummiabrieb begraben wurde – ein Ort, der aufgehört hat, ein Ort zu sein, und nur noch eine Koordinate des Durchgangs ist.
+
