@@ -13,19 +13,25 @@ stamp:
 # Pitch: die Schaffhauser Tonart
 
 ## Taxonomy
-Die Verteidigung der Zugehörigkeit.
+
+Die Empfindlichkeit dessen, der leicht vergessen wird.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Tenor
-Ein ruhiger, fast stoischer Stolz. Es ist die Sprache von Menschen, die wissen, dass sie am Rand stehen, und genau deshalb lauter sprechen müssen, um im Zentrum gehört zu werden.
+
+Trocken, sachlich, mit einer Spur Ungeduld. Man kommt hier schnell zur Sache, weil man davon ausgeht, dass die Aufmerksamkeit des Gegenübers begrenzt ist, und man erklärt ungern, wo der Kanton liegt.
 
 ## Undertow
-Das ständige Gefühl, von Bern vergessen zu werden. Eine tiefsitzende Paranoia, dass die natürliche Grenze des Rheins die politische Realität überstimmt.
+
+Die Erfahrung, am Rand zu sein und es täglich zu bemerken: an der Autofahrt durch Deutschland, an der Wetterkarte, die hier oben endet, an jedem Bericht über die Ostschweiz, in dem St. Gallen vorkommt und Schaffhausen nicht.
 
 ## Nerve
-Das Trauma der Bombardierung von 1944. Die Erinnerung daran, dass Geografie im Ernstfall wichtiger ist als die Farbe des Passes, und dass Neutralität keinen Schutz bietet, wenn man auf der falschen Seite des Flusses lebt.
+
+Der Vorschlag, sich Zürich anzuschliessen, und alles, was danach klingt. Er wird nicht diskutiert, sondern abgewiesen, und die Schärfe der Abweisung steht in keinem Verhältnis zur Ernsthaftigkeit des Vorschlags - was genau das Thema ist.
 
 ## Echo
-Das unaufhörliche, donnernde Rauschen des Rheinfalls, das alle anderen Geräusche überdeckt.
+
+Fünf Minuten Glockenschlag um neun Uhr abends über einer Stadt, in der niemand mehr Tore schliesst, und danach der Verkehr auf der Brücke, der in beide Richtungen weiterläuft.

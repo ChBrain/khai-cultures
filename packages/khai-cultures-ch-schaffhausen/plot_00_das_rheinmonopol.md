@@ -13,20 +13,27 @@ stamp:
 # Plot: Das Rheinmonopol
 
 ## Taxonomy
-Der Reichtum durch das Hindernis.
+
+Die Herkunft als Hindernis.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Cue
-Jedes Schiff, das den Rhein befährt, muss vor dem gewaltigen Wasserfall anhalten.
+
+Der Rhein ist eine Wasserstrasse, bis er es nicht mehr ist: Wenige Kilometer unterhalb der Stadt stürzt er über eine Kante, und kein Schiff kommt weiter.
 
 ## Action
-Im Mittelalter wird Schaffhausen unermesslich reich, weil der Rheinfall eine natürliche Barriere bildet. Alle Güter müssen abgeladen, auf Karren um den Wasserfall herum transportiert und neu verladen werden. Die Stadt erhebt Zölle, kontrolliert den Verkehr und baut eine Machtposition auf, die ausschliesslich auf der Tatsache beruht, dass das Wasser hier in die Tiefe stürzt. Ein Monopol, gestiftet von der Geografie.
+
+Was nicht weiterfahren kann, muss ausgeladen werden. Waren gehen bei Schaffhausen von Bord, werden auf Karren um den Fall herumgeführt und unterhalb wieder verladen, und wer das organisiert, verlangt dafür Geld. Die Stadt lebt vom Umschlag, erhebt Zölle, stellt Fuhrleute, Lagerhäuser und Kräne, und wird gross an einer Stelle, an der die Natur den Verkehr zwingt anzuhalten. Ihr Name trägt die Boote noch mit sich.
 
 ## Stage
+
 - `place`: [Der Rheinfall](place_der_rheinfall.md)
 - `persona`: [Der Rheinschiffer](persona_der_rheinschiffer.md)
+- `position`: [Die Schaffhauser Kultur](position_culture_die_schaffhauser_kultur.md)
 
 ## Tension
-Ein künstlicher Reichtum, der vollständig von einem physischen Hindernis abhängt und zusammenbricht, sobald neue Verkehrswege (wie die Eisenbahn) gebaut werden.
+
+Ein Reichtum, der niemandem gehört, sondern einer Stelle. Schaffhausen hat nichts erfunden und nichts erobert; es stand an der richtigen Kante. Das erklärt beides: die Nüchternheit, mit der man hier Geschäfte betrachtet, und die Angst, die nie ganz weggeht - denn wer von einer Lage lebt, verliert alles, sobald jemand einen Weg daran vorbei baut. Die Eisenbahn hat das später getan.

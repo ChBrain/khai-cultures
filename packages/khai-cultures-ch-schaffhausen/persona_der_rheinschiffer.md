@@ -1,6 +1,7 @@
 ---
 khai: persona
 title: "Persona: Der Rheinschiffer"
+type: archetype
 declared: "Der Rheinschiffer"
 language: de
 license: CC-BY-NC-SA-4.0
@@ -13,19 +14,25 @@ stamp:
 # Persona: Der Rheinschiffer
 
 ## Taxonomy
-Der Profiteur des Wasserfalls.
+
+Der Mann, der vom Hindernis lebt.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Projection
-Er tritt auf als wettergegerbter, ruhiger Mann, der den Fluss besser lesen kann als jede Strassenkarte. Er repräsentiert [Die Schaffhauser Kultur](position_culture_schaffhauser_kultur.md) in ihrer reinsten Form. Er bedient sich des [Schweizerdeutschen](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) und [spricht](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) es in kurzen, knappen Sätzen.
+
+Wettergegerbt, ruhig, liest den Fluss besser als jede Karte. Er trägt [die Schaffhauser Kultur](position_culture_die_schaffhauser_kultur.md) in ihrer ältesten Form und kennt [das Inseldenken](position_das_inseldenken.md) vom Wasser aus, wo Grenzen erst recht keinen Sinn ergeben. Er [spricht als Muttersprache](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) ein knappes [Schweizerdeutsch](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md); die Schifffahrtsvorschriften stehen in [Schweizer Hochdeutsch](@chbrain/khai-cultures-tongues/de/position_language_de_ch.md), und er [liest sie genau](@chbrain/khai-engine-language/process_reading_followed.md), weil auf diesem Fluss zwei Staaten mitreden.
 
 ## Action
-Er navigiert Touristenboote gefährlich nah an die tosenden Wassermassen des Rheinfalls. Historisch gesehen ist er der Nachfahre der Männer, die das Monopol besassen, alle Waren um den Wasserfall herumzutragen, weil der Fluss hier unpassierbar war. Er lebt von dem Hindernis.
+
+Er fährt Boote so nah an den Fall, wie es zulässig ist, und ein Stück näher, wenn das Wasser es hergibt. Er ist der Nachfahre der Leute, die Waren um dieselbe Kante herumtrugen; sein Gewerbe hat sich vom Transport zur Aussicht verschoben, der Standort ist derselbe geblieben.
 
 ## Shadow
-Die Melancholie, dass der Rheinfall heute nur noch eine Touristenattraktion ist und nicht mehr das pulsierende wirtschaftliche Herz der Region.
+
+Er weiss, dass er heute Bilder verkauft und nicht Fracht, und er nennt das ungern beim Namen. Die Melancholie darüber lässt er nicht zu, weil sie im Preis nicht vorkommt.
 
 ## Tell
-Ein starrer, unbewegter Blick, selbst wenn ohrenbetäubender Lärm ihn umgibt.
+
+Ein unbewegter Blick im ohrenbetäubenden Lärm, und er dreht das Boot immer zuerst gegen die Strömung, auch wo es nicht nötig ist.

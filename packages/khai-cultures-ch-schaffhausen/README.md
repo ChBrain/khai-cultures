@@ -1,2 +1,3 @@
 # ch_schaffhausen
-This package stages the Swiss canton of Schaffhausen.
+
+This package stages Schaffhausen for the khai content house.

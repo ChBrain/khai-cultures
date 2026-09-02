@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-cultures-ch-schaffhausen",
   "version": "0.1.0",
-  "description": "khai cultures: ch_schaffhausen",
+  "description": "khai cultures: ch_schaffhausen, one culture staged as a khai play.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "khai": {
     "class": "house",
     "production": "ch_schaffhausen",
-    "anchor": "play_sh.md"
+    "anchor": "play_schaffhausen.md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",

@@ -13,20 +13,28 @@ stamp:
 # Plot: Die Exklave im Norden
 
 ## Taxonomy
-Der Alltag im Grenzland.
+
+Die Gegenwart über eine Staatsgrenze verteilt.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Cue
-Wer von Zürich nach Schaffhausen will, muss oft über deutsches Staatsgebiet fahren.
+
+Wer von Zürich in den nördlichen Kantonsteil fährt, fährt ein Stück durch Deutschland, und wer in Schaffhausen einkauft, hat die Wahl zwischen zwei Währungen.
 
 ## Action
-Der moderne Kanton lebt in einer paradoxen Realität. Die Grenze zu Deutschland verläuft mitten durch Dörfer, Strassen und Wohngebiete. Die Wirtschaft boomt durch internationale Firmen, doch psychologisch bleibt Schaffhausen die "vergessene Exklave" im Norden. Der Munot, die stolze Festung, thront über der Stadt wie ein Trotzsymbol gegen diese Isolation, während jeden Tag Zehntausende Deutsche zur Arbeit über die Grenze strömen.
+
+Die Grenze läuft durch Felder, Strassen und Wohnquartiere; Büsingen ist eine deutsche Gemeinde mitten im Kanton, versorgt mit Schweizer Post und Schweizer Franken. Mehrere tausend Grenzgängerinnen und Grenzgänger fahren täglich zur Arbeit herein, Schaffhauser fahren zum Einkaufen hinaus, und die Industrie rechnet in beiden Märkten. Innenpolitisch hält der Kanton an einer Besonderheit fest, die er als einziger noch hat: Wer nicht abstimmt, zahlt.
 
 ## Stage
-- `persona`: [Der Grenzwächter](persona_der_grenzwaechter.md)
-- `process`: [Der Grenzverkehr](process_grenzverkehr.md)
+
+- `persona`: [Die Grenzgängerin](persona_die_grenzgaengerin.md)
+- `process`: [Der Grenzverkehr](process_der_grenzverkehr.md)
+- `process`: [Die Stimmpflicht](process_die_stimmpflicht.md)
+- `position`: [Das Inseldenken](position_das_inseldenken.md)
 
 ## Tension
-Der permanente Spagat zwischen völliger wirtschaftlicher Verflechtung mit Deutschland und dem verzweifelten Festhalten an der schweizerischen Kernidentität.
+
+Was in diesem Jahrzehnt offen ist: ob ein Kanton, dessen Wirtschaft, Wege und Belegschaften längst grenzüberschreitend sind, seine Zugehörigkeit weiter über Abgrenzung bestimmen kann. Die Stimmpflicht ist dafür der Prüfstein. Sie ist die letzte Institution, die sagt: Hier gehört man dazu, indem man erscheint - und sie steht in einem Kanton, in dem jeden Morgen Tausende zur Arbeit erscheinen, die gar nicht abstimmen dürfen.

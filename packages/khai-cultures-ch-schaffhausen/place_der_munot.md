@@ -13,19 +13,25 @@ stamp:
 # Place: Der Munot
 
 ## Taxonomy
-Die nutzlose Zinne.
+
+Die nutzlose Festung als Wahrzeichen.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Shown
-Eine massive, kreisrunde Festung aus dem 16. Jahrhundert, die dominant auf einem Hügel über der Altstadt thront.
+
+Ein kreisrunder Wehrbau auf dem Emmersberg über der Altstadt, mit begehbarem Wall, einer Kasemattenhalle darunter und einem Turm, in dem eine Wohnung liegt. Im Wallgraben stehen Damhirsche, an der Südflanke wächst Wein.
 
 ## Holds
-Den Trotz und das Sicherheitsbedürfnis einer Stadt, die sich auf der falschen Seite des Rheins stets bedroht fühlte.
+
+Einundzwanzig Jahre Fronarbeit der Bürgerschaft, 1564 bis 1585, nach einer Bauform, die schon bei Baubeginn als überholt galt. Er wurde nie belagert und hat nie eine Schlacht gesehen. Was er hält, ist deshalb keine Verteidigungsgeschichte, sondern der Beweis, dass diese Stadt ihre Leute antreten lassen konnte.
 
 ## Offers
-Einen perfekten Panoramablick über die Stadt, den Rhein und bis tief nach Deutschland hinein.
+
+Die Glocke um neun, von Hand geläutet, jeden Abend. Dazu die Kasemattenhalle für Bälle und Feste und einen Rundgang, von dem aus man den Rhein und die deutsche Seite in einem Blick hat.
 
 ## Withheld
-Militärischen Nutzen. Der Munot war schon bei seiner Fertigstellung veraltet und wurde nie ernsthaft zur Verteidigung eingesetzt – er ist ein reines psychologisches Monument.
+
+Einen militärischen Sinn, den er nie hatte. Wer nach dem Nutzen fragt, bekommt keine Antwort, sondern das Läuten - und genau das ist die Antwort: Der Bau hat nichts abgewehrt und alles zusammengehalten.

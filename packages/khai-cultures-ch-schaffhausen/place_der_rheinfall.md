@@ -13,19 +13,25 @@ stamp:
 # Place: Der Rheinfall
 
 ## Taxonomy
-Das tobende Hindernis.
+
+Die Kante, die alles entschieden hat.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Shown
-Der grösste Wasserfall Europas. Gewaltige Wassermassen, die mit ohrenbetäubendem Lärm über eine 23 Meter hohe Felsklippe stürzen.
+
+Der grösste Wasserfall Europas nach Wassermenge, dreiundzwanzig Meter hoch, hundertfünfzig breit, mit einem Felsen mittendrin, auf den man über eine Treppe steigen kann. Ringsum Aussichtsplattformen und ein Parkplatz.
 
 ## Holds
-Die historische Existenzberechtigung der Stadt Schaffhausen, die sich nur hier entwickelte, weil der Flussschiffverkehr an dieser Stelle zwingend unterbrochen werden musste.
+
+Den Grund für die Existenz der Stadt. Weil hier kein Schiff weiterkommt, entstand der Umschlag, und aus dem Umschlag die Zölle, die Lagerhäuser und der Reichtum. Später hielt dieselbe Fallhöhe die Turbinen, die aus dem Handelsplatz einen Industriekanton machten.
 
 ## Offers
-Ein rohes, visuelles Spektakel von unkontrollierbarer Naturgewalt.
+
+Ein Naturschauspiel, das man in zwanzig Minuten gesehen hat, und die vollständige Erklärung eines Kantons, wenn man weiss, wonach man schaut.
 
 ## Withheld
-Die Stille. Wer hier steht, kann sein eigenes Wort nicht mehr verstehen.
+
+Die Durchfahrt. Der Fall hat den Rhein hier für immer geteilt: flussabwärts eine Wasserstrasse bis zur Nordsee, flussaufwärts ein anderer Fluss. Alles, was Schaffhausen ist, folgt aus dieser einen Unterbrechung.

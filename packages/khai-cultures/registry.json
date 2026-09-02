@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.314.0",
+  "version": "0.315.0",
   "cultures": [
     {
       "kind": "culture",
@@ -7236,6 +7236,115 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-obwalden"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_schaffhausen",
+      "title": "Schaffhausen",
+      "description": "Schaffhausen: der Kanton auf der falschen Seite seines eigenen Flusses.",
+      "iso": "CH-SH",
+      "members": [
+        {
+          "file": "persona_der_munotwaechter.md",
+          "kind": "persona",
+          "title": "Persona: Der Munotwächter",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_der_rheinschiffer.md",
+          "kind": "persona",
+          "title": "Persona: Der Rheinschiffer",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_die_grenzgaengerin.md",
+          "kind": "persona",
+          "title": "Persona: Die Grenzgängerin",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_das_erkerhaus.md",
+          "kind": "piece",
+          "title": "Piece: Das Erkerhaus"
+        },
+        {
+          "file": "piece_die_iwc_uhr.md",
+          "kind": "piece",
+          "title": "Piece: Die IWC-Uhr"
+        },
+        {
+          "file": "pitch_schaffhausen.md",
+          "kind": "pitch",
+          "title": "Pitch: die Schaffhauser Tonart"
+        },
+        {
+          "file": "place_der_munot.md",
+          "kind": "place",
+          "title": "Place: Der Munot"
+        },
+        {
+          "file": "place_der_rheinfall.md",
+          "kind": "place",
+          "title": "Place: Der Rheinfall"
+        },
+        {
+          "file": "play_schaffhausen.md",
+          "kind": "play",
+          "title": "Schaffhausen"
+        },
+        {
+          "file": "plot_00_das_rheinmonopol.md",
+          "kind": "plot",
+          "title": "Plot: Das Rheinmonopol"
+        },
+        {
+          "file": "plot_01_der_munot_1564.md",
+          "kind": "plot",
+          "title": "Plot: Der Munot 1564"
+        },
+        {
+          "file": "plot_02_die_kraft_am_wasser.md",
+          "kind": "plot",
+          "title": "Plot: Die Kraft am Wasser"
+        },
+        {
+          "file": "plot_03_die_bombardierung_1944.md",
+          "kind": "plot",
+          "title": "Plot: Die Bombardierung 1944"
+        },
+        {
+          "file": "plot_99_die_exklave_im_norden.md",
+          "kind": "plot",
+          "title": "Plot: Die Exklave im Norden"
+        },
+        {
+          "file": "position_culture_die_schaffhauser_kultur.md",
+          "kind": "position",
+          "title": "Position: Die Schaffhauser Kultur",
+          "taxonomy": "position_culture_schweizer_kultur.md"
+        },
+        {
+          "file": "position_das_inseldenken.md",
+          "kind": "position",
+          "title": "Position: Das Inseldenken"
+        },
+        {
+          "file": "position_die_anwesenheitspflicht.md",
+          "kind": "position",
+          "title": "Position: Die Anwesenheitspflicht"
+        },
+        {
+          "file": "process_der_grenzverkehr.md",
+          "kind": "process",
+          "title": "Process: Der Grenzverkehr"
+        },
+        {
+          "file": "process_die_stimmpflicht.md",
+          "kind": "process",
+          "title": "Process: Die Stimmpflicht"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-schaffhausen"
     },
     {
       "kind": "culture",
