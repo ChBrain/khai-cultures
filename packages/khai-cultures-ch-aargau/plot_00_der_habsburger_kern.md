@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Das Ausbrüten einer imperialen Arroganz.
+Die Entstehung einer Dynastie auf diesem Boden.
 
 ## Owner
 
@@ -22,11 +22,11 @@ Das Ausbrüten einer imperialen Arroganz.
 
 ## Cue
 
-Der Moment, bevor die Herren Europas erkennen, dass sie ihren eigenen Ursprung verlieren werden.
+Der Moment der grössten Macht der Grafen von Habsburg vor der Eidgenossenschaft.
 
 ## Action
 
-Die Grafen von Habsburg rammen ihre Festung tief in den Wülpelsberg und formen aus dem Lehm des Aargaus den Grundstein für ein Weltreich. Hier wird die absolute Macht geboren, gelernt und geübt, während der umliegende Boden sich unbewusst an den Gehorsam gewöhnt.
+Die mächtige Dynastie der Habsburger hat ihren Stammsitz auf dem Wülpelsberg, im Herzen des heutigen Aargaus, von wo aus sie ihr europäisches Imperium aufbaut.
 
 ## Stage
 
@@ -35,5 +35,4 @@ Die Grafen von Habsburg rammen ihre Festung tief in den Wülpelsberg und formen 
 
 ## Tension
 
-Die tragische Ironie eines Bodens, der Herrscher heranzüchtet, die gross genug werden, um die Welt zu beherrschen, aber unfähig sind, ihre eigene Heimat zu beschützen.
-
+Eine Region, die den Herrschern Europas gehört, bevor sie zu einem unterworfenen Gebiet wird.

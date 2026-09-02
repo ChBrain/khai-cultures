@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Das glühende Herz des industriellen Paktes.
+Der Inbegriff der Atomkraft und der Aargauer Energiewirtschaft.
 
 ## Owner
 
@@ -22,17 +22,16 @@ Das glühende Herz des industriellen Paktes.
 
 ## Place
 
-Eingesperrt tief unter Beznau oder Leibstadt, in dunklen, kochenden Reaktorbecken, umhüllt von Blei, Beton und der Angst einer ganzen Nation.
+Tief im Reaktor von Beznau oder Leibstadt, unter strengsten Sicherheitsvorkehrungen gelagert.
 
 ## Load Bearing
 
-Er trägt das gesamte Paradoxon des Aargaus in sich: Die immense Macht, das Licht der Schweiz am Brennen zu halten, gepaart mit dem Stigma, der verseuchte Abfalleimer des Landes zu sein.
+Er generiert die gewaltigen Energiemengen, die den Wohlstand und die Wirtschaftskraft des Kantons über Jahrzehnte sicherten.
 
 ## Apparent
 
-Ein stiller, unauffälliger Zylinder aus Zirkoniumlegierung, der in seinem Inneren genug radioaktive Gewalt birgt, um die Geschichte auszulöschen, und von aussen völlig kalt wirkt.
+Ein metallisches, hochtechnologisches Element, das die unsichtbare und gefürchtete Radioaktivität birgt.
 
 ## Yearbook
 
-Das verhasste und doch unverzichtbare Relikt einer Ära, in der der Aargau die Kontrolle über die Natur an sich riss, und das nun eine Halbwertszeit hat, die jede menschliche Erinnerung überdauern wird.
-
+Das Symbol einer ausklingenden Ära, in der der Aargau voller Stolz die Schweiz elektrifizierte.

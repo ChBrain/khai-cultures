@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Der diplomatische Sumpf unter dem Industriedunst.
+Die historischen Thermalquellen und der Treffpunkt der Eidgenossenschaft.
 
 ## Owner
 
@@ -22,17 +22,16 @@ Der diplomatische Sumpf unter dem Industriedunst.
 
 ## Shown
 
-Schwere, nach Schwefel riechende Thermalquellen, aus der Tiefe gedrückt, die heute von glattem Beton und sterilem Glas der modernen Wellness-Architektur überbaut sind.
+Warme Quellen am Ufer der Limmat, eingefasst in historische und moderne Bäderbauten.
 
 ## Holds
 
-Die geisterhafte Erinnerung an eine Zeit, als die Eidgenossen sich hier halbnackt im heissen Wasser stritten und verhandelten – lange bevor die Hämmer der Brown, Boveri & Cie das Ufer mit Maschinentakt überzogen.
+Jahrhundertealte Traditionen als Kurort, wo sich einst die Abgesandten der eidgenössischen Orte zur Tagsatzung trafen, bevor die BBC die Stadt veränderte.
 
 ## Offers
 
-Eine physische Hitze aus dem Erdkern, die Linderung verspricht, während draussen die nackte Effizienz des Maschinenraums pulsiert; ein Ort, an dem sich die Arbeiterklasse und die Diplomatie immer schon im selben Dampf verloren haben.
+Heilung, Entspannung und einen Ort des diplomatischen und gesellschaftlichen Austauschs in einem pulsierenden Industrietal.
 
 ## Withheld
 
-Die heidnische, ungezähmte Herkunft des Wassers, das in ordentliche Becken gezwungen wurde, um vergessen zu machen, dass tief unten die Natur die eigentliche Macht besitzt.
-
+Die Erinnerung an die römischen Legionäre und mittelalterlichen Diplomaten, die tief unter dem modernen Kur- und Industriebetrieb verborgen liegt.

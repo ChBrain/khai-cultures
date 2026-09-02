@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die Amputation des Stolzes.
+Die Eidgenossen nehmen den Aargau ein.
 
 ## Owner
 
@@ -22,11 +22,11 @@ Die Amputation des Stolzes.
 
 ## Cue
 
-Die Reichsacht fällt, und die Eidgenossen reissen die historische Wurzel aus dem Boden.
+Die Reichsacht gegen Friedrich IV. und der Einmarsch der Eidgenossen.
 
 ## Action
 
-Unter dem Vorwand des Rechts marschieren die Eidgenossen ein und kastrieren die Region politisch. Der ehemals stolze Stammsitz eines Weltreichs wird brutal in Stücke gehackt und zu einer verwalteten Kolonie degradiert; fremde Landvögte ziehen ein und zwingen das Volk in ein Jahrhundertestillschweigen.
+Der Aargau wird von den Eidgenossen erobert, und das einstige Stammland der Habsburger wird zu Gemeinen Herrschaften und Untertanengebieten degradiert, die von Landvögten verwaltet werden.
 
 ## Stage
 
@@ -36,5 +36,4 @@ Unter dem Vorwand des Rechts marschieren die Eidgenossen ein und kastrieren die 
 
 ## Tension
 
-Der tiefsitzende Phantomschmerz einer Gesellschaft, die weiss, dass sie zur Grösse bestimmt war, aber gezwungen wird, zweihundert Jahre lang als gehorsamer Knecht der Nachbarn zu dienen.
-
+Der Verlust der Eigenständigkeit, der Jahrhunderte andauern wird.

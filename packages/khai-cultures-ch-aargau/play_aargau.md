@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Aargau, zerschnitten von der Aare, ein Land zwischen dem stolzen Wülpelsberg, den heissen Bädern von Baden und dem trotzigen Freiamt. ISO CH-AG, Sprache de. Der Boden, der einst Könige gebar und heute widerwillig das Licht der ganzen Nation am Brennen hält.
+Aargau, benannt nach der Aare, die den Kanton durchschneidet, vom Wülpelsberg über die Bäder von Baden bis ins Freiamt. ISO CH-AG, Sprache de. Der Kanton, aus dem die Habsburger kamen, und der Kanton, der die Schweiz mit Strom versorgt.
 
 ## Arc
 
-Ein Boden, der Herrscher ausspuckte, nur um danach selbst in Fesseln gelegt zu werden. Von hier aus bauten die Grafen von Habsburg ein Imperium, das Europa in den Schatten stellte – bis die Eidgenossen 1415 einritten, den Stammsitz rasierten und die Quelle der Macht zum geknechteten Untertanengebiet degradierten. Zweihundert Jahre Stille, verwaltet von Fremden, ohne eigene Stimme. Doch 1841 schlägt der gedemütigte Kanton zurück, hebt in einem Akt beispielloser Aggression seine Klöster auf, sprengt den Bundesvertrag und entzündet den Sonderbundskrieg. Wer jahrhundertelang geknebelt war, schreit, wenn er den Mund aufmacht. Dann der kalte, eiserne Wechsel: 1891 reissen Brown und Boveri in Baden die Landschaft auf und verwandeln den Bauernstaat in den pulsierenden, dreckigen Maschinenraum der Schweiz. 1969 wird in Beznau das Atom gespalten – der Maschinenraum mutiert zum Energiekanton, der bereitwillig die radioaktiven Sünden der Eidgenossenschaft auf sich nimmt, um unentbehrlich zu bleiben. Heute erstickt er am Transit, blutet durch die Zersiedelung aus und muss den strahlenden Müll schlucken, den die sauberen Städte nicht haben wollen.
+Ein Boden, der zuerst Herren hervorbringt und danach keine mehr haben darf. Die Grafen von Habsburg bauen von hier aus ein europäisches Imperium, und 1415 nehmen die Eidgenossen ihnen genau diesen Stammsitz ab: aus dem Ursprung einer Dynastie wird ein Untertanengebiet, zweihundert Jahre lang verwaltet und nicht gefragt. 1841 hebt der junge Kanton seine Klöster auf, bricht damit den Bundesvertrag und liefert dem Sonderbundskrieg seinen Anlass - wer lange nichts zu sagen hatte, sagt es dann laut. 1891 gründen Brown und Boveri in Baden eine Maschinenfabrik, und der Kanton wird zum Maschinenraum des Landes. 1969 geht in Beznau das erste Kernkraftwerk der Schweiz ans Netz, und aus dem Maschinenraum wird der Energiekanton: der Ort, an dem der Strom entsteht, den anderswo verbraucht wird. Heute trägt er den Transit, die Zersiedelung und die Frage, wohin der Abfall soll.
 
 ## Company
 
@@ -67,29 +67,28 @@ Ein Boden, der Herrscher ausspuckte, nur um danach selbst in Fesseln gelegt zu w
 
 **[Plot 0: Der Habsburger Kern](plot_00_der_habsburger_kern.md)**
 
-Die Habsburger treiben ihre Herrschaftsansprüche wie Pfähle in den Wülpelsberg; ein unbarmherziger Ursprung, der die Welt regieren will, bevor er selbst begreift, was er ist.
+Die Grafen von Habsburg haben ihren Stammsitz auf dem Wülpelsberg und bauen von diesem Boden aus ein europäisches Imperium: der Ort bringt die Herren hervor, bevor er welche bekommt.
 
 **[Plot 1: Die Eroberung 1415](plot_01_die_eroberung_1415.md)**
 
-Die Eidgenossen reissen das Herzland der Habsburger an sich und ersticken jede Autonomie; das Brutgebiet eines Imperiums wird zur stummen Kolonie der Nachbarn, verurteilt zum Gehorsam.
+Die Eidgenossen nehmen den Aargau den Habsburgern ab, und ausgerechnet der Stammsitz der Dynastie wird verwaltetes Untertanengebiet: zweihundert Jahre lang gehört das Land denen, die anderswo darueber entscheiden.
 
 **[Plot 2: Der Klosterstreit 1841](plot_02_der_klosterstreit_1841.md)**
 
-In einem brutalen Befreiungsschlag zerschlägt der Kanton seine eigenen Heiligtümer, provoziert den Sonderbundskrieg und zwingt die Eidgenossenschaft, den lange ignorierten Untertanen endlich zu fürchten.
+Der junge Kanton hebt seine Klöster auf, bricht den Bundesvertrag und gibt dem Sonderbundskrieg seinen Anlass: der ehemalige Untertan handelt zum ersten Mal so laut, dass es das ganze Land angeht.
 
 **[Plot 3: Die Gründung der BBC 1891](plot_03_die_gruendung_der_bbc_1891.md)**
 
-Der ländliche Stolz wird gegen Kupfer und Stahl eingetauscht; die Flüsse werden zu Kraftquellen degradiert, und der Aargau verschreibt seine Seele der maschinellen Effizienz, um unverzichtbar zu werden.
+Brown und Boveri gründen in Baden eine Maschinenfabrik, und aus dem Agrarkanton wird der Maschinenraum der Schweiz: die Kraft des Wassers wird zur Ware.
 
 **[Plot 4: Das Atomzeitalter 1969](plot_04_das_atomzeitalter_1969.md)**
 
-In Beznau beginnt das Spiel mit dem nuklearen Feuer; der Kanton nimmt bereitwillig das grösste Risiko des Landes auf sich, als verzweifelte Wette um Relevanz und wirtschaftliche Macht.
+In Beznau geht das erste Kernkraftwerk der Schweiz ans Netz, und der Kanton übernimmt eine Aufgabe, die das Land braucht und niemand sonst haben will.
 
 **[Plot 99: Das Endlager im Wasserschloss](plot_99_das_endlager_im_wasserschloss.md)**
 
-Das Ende der Verwertungskette: Der Boden, der einst den Strom für den Wohlstand lieferte, wird aufgebrochen, um als ewiges Grab für den tödlichen Abfall der ganzen Nation zu dienen.
+Zersiedelung, Transitverkehr und die Frage nach dem Abfall treffen auf demselben Boden zusammen: der Kanton hat den Strom geliefert und diskutiert nun, was davon bleibt.
 
 ## Stakes
 
-Ob ein Kanton, der sich nach Jahrhunderten der Knechtschaft zum unverzichtbaren, aber verachteten Maschinisten der Nation hochgedient hat, jemals eine eigene Würde finden kann – oder ob er am Ende nichts weiter bleibt als die ausgenutzte, zubetonierte Batterie der Schweiz, in der man den Dreck vergräbt, wenn das Licht ausgeht.
-
+Ob ein Ort, der zuerst Herren hervorbrachte und danach zweihundert Jahre keine sein durfte, etwas Eigenes behält, wenn seine Rolle im Land darin besteht, zu tragen, was anderswo gebraucht wird - und wer entscheidet, wie lange das so bleibt.

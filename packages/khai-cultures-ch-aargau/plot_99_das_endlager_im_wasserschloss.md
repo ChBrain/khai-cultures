@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Das letzte, bittere Erbe des Nutzens.
+Die ungelösten Fragen des Transit- und Energiekantons heute.
 
 ## Owner
 
@@ -22,11 +22,11 @@ Das letzte, bittere Erbe des Nutzens.
 
 ## Cue
 
-Die Stille des Entscheids, während die Autobahnen unter dem Gewicht der Pendler zusammenbrechen.
+Der tägliche Stau auf der Autobahn und die Nagra-Entscheidung zum Tiefenlager.
 
 ## Action
 
-Während der Transitverkehr am Birrfeld tagtäglich die Lungen des Kantons füllt, wird das endgültige Schicksal besiegelt: Die Reaktoren brannten ein halbes Jahrhundert lang im Aargau, und nun wird die tödliche Asche in Form von verpackten Brennstäben vergraben. Der Aargau durfte die Maschine sein, aber das Endlager drückt die Schweiz in einen fremden Boden, während die Verpackungsanlage als letzter giftiger Rest im Kanton verbleibt.
+Während sich der Transitverkehr endlos am Birrfeld staut, steht fest, dass das nationale Tiefenlager Nördlich Lägern im Kanton Zürich gebaut wird, während die Verpackungsanlage in Würenlingen bleibt - - - der Aargau trug die Reaktoren fünfzig Jahre lang, aber der endgültige Abschluss findet nebenan statt.
 
 ## Stage
 
@@ -38,5 +38,4 @@ Während der Transitverkehr am Birrfeld tagtäglich die Lungen des Kantons füll
 
 ## Tension
 
-Die entlarvende Gewissheit, dass man sich durch Pflichterfüllung weder Respekt noch Identität kauft; man wird als Durchgangsort zerschnitten und am Ende einfach mit dem Abfall der eigenen Nützlichkeit zurückgelassen.
-
+Die fortwährende Belastung durch Infrastruktur und das Suchen nach einer Identität jenseits der Rüeblitorte.

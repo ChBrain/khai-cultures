@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Das dumpfe Summen des Maschinenraums.
+Ein Transit- und Industriekanton.
 
 ## Owner
 
@@ -22,17 +22,16 @@ Das dumpfe Summen des Maschinenraums.
 
 ## Tenor
 
-Wir betonieren den Boden, bauen die Rotoren und spalten das Atom, damit ihr in den sauberen Städten das Licht anknipsen und über uns die Nase rümpfen könnt.
+Wir machen den Strom und halten die Infrastruktur am Laufen, ihr in den Städten nutzt ihn.
 
 ## Undertow
 
-Der tiefsitzende Groll, ein reines Nutztier der Eidgenossenschaft zu sein – gebraucht, konsumiert, durchquert, aber niemals bewundert.
+Wir werden immer als Durchgangsort gesehen.
 
 ## Nerve
 
-Ein brutaler, trotziger Stolz auf die eigene Hässlichkeit; die Weigerung, sich für die Schwerindustrie, den Asphalt und die Kühltürme zu entschuldigen.
+Der Stolz auf die Industrie und die Infrastruktur.
 
 ## Echo
 
-Der unablässige Lärm von Sechsspurautobahnen und stürzendem Kühlwasser, der jede feine Melodie des historischen Stolzes rücksichtslos übertönt.
-
+Der Kanton, in dem die grossen Flüsse und die wichtigsten Verkehrsachsen der Schweiz aufeinandertreffen.

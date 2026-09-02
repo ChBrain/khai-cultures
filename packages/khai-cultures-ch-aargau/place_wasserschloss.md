@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Der hydroelektrische Würgegriff.
+Der Zusammenfluss von Aare, Reuss und Limmat.
 
 ## Owner
 
@@ -22,17 +22,16 @@ Der hydroelektrische Würgegriff.
 
 ## Shown
 
-Ein gewaltiger, naturbelassener Trichter, an dem Aare, Reuss und Limmat aufeinanderprallen und die gesammelte Nässe der halben Schweiz in einem brutalen, schäumenden Zusammenfluss bündeln.
+Ein weites, naturbelassenes Mündungsgebiet, in dem die drei grossen Flüsse der Schweiz zusammenströmen.
 
 ## Holds
 
-Das paradoxe Zentrum des Kantons: Die Wassermassen, die das Land durchströmen, werden hier für einen Moment zu einer bedrohlichen, unkontrollierbaren Macht, bevor sie in Dämme und Turbinen gezwungen werden.
+Das geografische Herzstück des Kantons, das enorme Wassermassen aus dem ganzen Land sammelt, bevor sie in den Rhein fliessen.
 
 ## Offers
 
-Kühlwasser für die Reaktoren und kinetische Gewalt für die Generatoren; ein scheinbar idyllisches Naherholungsgebiet, das in Wahrheit die flüssige Batterie der Nation darstellt.
+Kühlwasser für die Industrie und Kraftwerke sowie ein Naherholungsgebiet mitten im dicht besiedelten Aargau.
 
 ## Withheld
 
-Das ständige Risiko des Ertrinkens; die tiefe, gurgelnde Wahrheit, dass dieses Wasser nicht den Ingenieuren gehört, sondern jederzeit die Ufer sprengen und sich die industriell zerschnittene Landschaft zurückholen könnte.
-
+Die rohe Kraft des Wassers, die vor den Flusskorrektionen das ganze Gebiet beherrschte. Dieses Wasser gehört den Ingenieuren nicht, es ist ihnen nur geliehen.

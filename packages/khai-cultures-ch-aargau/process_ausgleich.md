@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die Zwangsjacke des Frankenstein-Kantons.
+Die fortwährende Balance zwischen Konfessionen und Regionen.
 
 ## Owner
 
@@ -22,17 +22,16 @@ Die Zwangsjacke des Frankenstein-Kantons.
 
 ## Initiated by
 
-Dem Diktat Napoleons 1803, der feindliche, historisch völlig inkompatible Gebiete – das stolze Fricktal und die ausgebeuteten Untertanengebiete – gewaltsam aneinanderkettete.
+Das Zusammenwachsen historisch völlig unterschiedlicher Regionen (Untertanengebiete, Fricktal) zu einem einzigen Kunstkanton 1803.
 
 ## Direction
 
-Eine permanente, zermürbende Schadensbegrenzung; der Versuch, die tiefsitzende katholische Verbitterung des ländlichen Südens mit der kalten reformierten Technokratie des Nordens so auszutarieren, dass das Gebilde nicht unter seinem eigenen Hass zerreisst.
+Konflikte zwischen ländlich-katholischen und städtisch-reformierten Kräften müssen entschärft und in politische Kompromisse überführt werden, um den Kanton nicht zu zerreissen.
 
 ## Lever
 
-Eine schwache Zentrale und ein überblähter Grosser Rat, der die Macht so stark verdünnt, dass niemand mehr laut genug schreien kann, um die anderen zu übertönen.
+Der Grosse Rat und die dezentrale Verwaltung, die jeder Region ihre Eigenheiten lässt.
 
 ## Echo
 
-Ein politisches Klima, das jede Radikalität mit tonnenschwerem Kompromiss erstickt; der Ausgleich ist hier keine Tugend, sondern der pure Überlebensinstinkt einer Gesellschaft, die weiss, dass sie eigentlich nicht zusammengehört.
-
+Ein politisches Klima, das Extreme meidet und den Mittelweg sucht, auch wenn er zäh und langwierig ist. Der Ausgleich ist hier keine Tugend, sondern der Überlebensinstinkt eines Kantons, dessen Teile nie zueinander gehört haben.

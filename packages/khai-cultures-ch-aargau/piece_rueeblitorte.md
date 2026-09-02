@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Die süsse Maske der Bedeutungslosigkeit.
+Das kulinarische Klischee des Aargaus.
 
 ## Owner
 
@@ -22,17 +22,16 @@ Die süsse Maske der Bedeutungslosigkeit.
 
 ## Place
 
-Klebrig verpackt in den Bäckereien entlang der Aare und als falsches Symbol ländlicher Harmlosigkeit auf jedem Kantonsfest präsentiert.
+In den Bäckereien von Aarau und auf den Kaffeetischen der gesamten Schweiz.
 
 ## Load Bearing
 
-Sie stützt eine gewollte Illusion. Ein Kanton aus Asphalt, Turbinen und Atomkraft versteckt sich hinter einem harmlosen, fast lächerlichen Stück Gebäck, um der übrigen Schweiz nicht als das Monster der Moderne aufzufallen.
+Sie stützt eine gewollte Illusion: Ein Kanton aus Asphalt, Turbinen und Atomkraft versteckt sich hinter einem harmlosen Stück Gebäck, um der übrigen Schweiz nicht als Maschinenraum aufzufallen.
 
 ## Apparent
 
-Eine schwere, feuchte Masse aus Karotten und Mandeln, gekrönt von glattem weissem Zuckerguss und einer künstlich geformten Marzipan-Karotte – so konstruiert wie die Identität des Kantons selbst.
+Ein süsser Kuchen aus Karotten und Mandeln, meist dekoriert mit einer kleinen Marzipan-Rüebli.
 
 ## Yearbook
 
-Der zuckersüsse Abwehrmechanismus, der jeden Konflikt im Keim erstickt; wer einen Kuchen anbietet, von dem wird niemand verlangen, seine dunkle Geschichte zu erklären.
-
+Das freundliche, etwas belächelte Markenzeichen des "Rüeblilands": Wer einen Kuchen anbietet, von dem verlangt niemand, dass er seine Kraftwerke erklärt.

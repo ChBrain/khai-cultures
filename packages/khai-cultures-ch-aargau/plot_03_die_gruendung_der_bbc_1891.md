@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-Der Pakt mit der Maschine.
+Die Industrialisierung des Aargaus durch die Elektroindustrie.
 
 ## Owner
 
@@ -22,11 +22,11 @@ Der Pakt mit der Maschine.
 
 ## Cue
 
-Kupfer und Stahl zerschneiden die idyllischen Ufer der Limmat.
+Charles E. L. Brown und Walter Boveri gründen ihr Unternehmen in Baden.
 
 ## Action
 
-Brown und Boveri giessen in Baden ein gigantisches Fundament, das den Aargau für immer verändert. Der ländliche Kanton verkauft seine Unschuld an die Schwerindustrie, zähmt die Flüsse zu Kraftressourcen und erhebt sich dröhnend zum unersetzlichen Motorraum der Schweizer Industrialisierung.
+In Baden entsteht mit der Brown, Boveri & Cie (BBC) ein Weltkonzern, der den Aargau zum Motor der schweizerischen Industrialisierung und Elektrotechnik macht.
 
 ## Stage
 
@@ -35,5 +35,4 @@ Brown und Boveri giessen in Baden ein gigantisches Fundament, das den Aargau fü
 
 ## Tension
 
-Der Faustsche Handel: Um nie wieder als Agrarprovinz übersehen zu werden, verwandelt sich der Kanton freiwillig in ein ruheloses Werkzeug, das seine eigene Landschaft dem maschinellen Fortschritt opfert.
-
+Die schnelle Transformation eines ländlichen Kantons in eine Hochburg der Ingenieurskunst.
