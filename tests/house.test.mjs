@@ -2,7 +2,18 @@ import { describe, it, expect } from "vitest";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
-import { validateProject } from "@chbrain/khai-tests";
+import {
+  validateProject,
+  verifyGatesAgainstCi,
+  verifyRelease,
+  packedFiles,
+  checkRegistryPacking,
+  checkManagement,
+  resolveHouse,
+  isolationErrors,
+  filenameErrors,
+  loadIsolationPolicy,
+} from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
 import {
@@ -20,6 +31,10 @@ import { findings as productionFindings, umbrellaFindings } from "./production_p
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = join(here, "..", "packages", "khai-cultures");
+// The repository root: where the gates manifest, the release workflow, and the
+// workspace's own package.json live, and where the kit's delivery and house
+// content walls are meant to be asked from.
+const workspaceRoot = join(here, "..");
 // The umbrella's own collection dir, named by the resolver rather than joined
 // here: during the walk it holds only the cultures that have not migrated yet,
 // and at the end of the walk it may not exist at all.
@@ -380,5 +395,52 @@ describe("Cultures house: a truncated report says that it is truncated", () => {
       lines.join("\n"),
       "the coverage report truncates without saying so, so a grep for a hidden culture reads as zero",
     ).toMatch(/NOT SHOWN/);
+  });
+});
+
+// The kit's own delivery and house content walls: the manifest, the release,
+// the box, and (for a workspace house mid-migration) the cross-unit idiom this
+// house has documented and the ASCII filename rule. Each is a wall the kit
+// ships, held here the same way this house holds every other wall - a finding
+// list asked to be empty. `verifyRegistry`, the kit's own registry drift check,
+// is deliberately not among these: it builds from the collection DIRECTORY
+// alone, so on this hybrid house it reports every migrated culture as a
+// missing directory. `tests/registry_hybrid.mjs`'s `drift()` replaces it, the
+// same way it replaces the kit's registry build for this house's own reasons.
+describe("Cultures house: the walls the kit holds", () => {
+  it("the gates manifest matches the CI workflow's own job ids", () => {
+    const findings = verifyGatesAgainstCi(workspaceRoot);
+    expect(findings, findings.join("; ")).toEqual([]);
+  });
+
+  it("the release workflow is pinned to the changesets v2 input names", () => {
+    const findings = verifyRelease(workspaceRoot);
+    expect(findings, findings.join("; ")).toEqual([]);
+  });
+
+  it("registry.json's promise is held against the tarball (packing completeness)", () => {
+    const packed = packedFiles(workspaceRoot);
+    const findings = checkRegistryPacking(workspaceRoot, packed);
+    expect(findings, findings.map((f) => `${f.package}/${f.path}: ${f.reason}`).join("; ")).toEqual(
+      [],
+    );
+  }, 120000);
+
+  it("management converges with the blueprint core", () => {
+    const errors = checkManagement(workspaceRoot);
+    expect(errors, errors.join("; ")).toEqual([]);
+  });
+
+  it("no relative link escapes its own unit, beyond the house's declared idiom", () => {
+    const house = resolveHouse(workspaceRoot, { name: "@chbrain/khai-cultures" });
+    const policy = loadIsolationPolicy(workspaceRoot);
+    const findings = isolationErrors(house, { allow: policy.allow });
+    expect(findings, findings.map((f) => f.message).join("; ")).toEqual([]);
+  });
+
+  it("every unit's filenames are ASCII", () => {
+    const house = resolveHouse(workspaceRoot, { name: "@chbrain/khai-cultures" });
+    const findings = filenameErrors(house);
+    expect(findings, findings.map((f) => f.file).join("; ")).toEqual([]);
   });
 });

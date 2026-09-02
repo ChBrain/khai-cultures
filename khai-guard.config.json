@@ -58,6 +58,12 @@
       "fix": "npx changeset add (or npx changeset add --empty for a change that ships no package content)"
     }
   ],
+  "ciPolicy": {
+    "split": { "khai-tests": ["prettier", "conformance"] }
+  },
+  "isolationPolicy": {
+    "allow": ["position_language_*.md", "position_culture_*.md"]
+  },
   "driftPolicy": {
     "scopes": ["@chbrain/"]
   },
