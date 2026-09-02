@@ -20,20 +20,31 @@
 // returns refuses to be empty, because a resolver that has lost the house must go
 // red rather than green.
 //
-// THIS FILE IS NOW A THIN ADAPTER. Finding a house by the manifest that
-// declares it, and walking its units, is the kit's (`resolveHouse`, `unitsOf`
-// in `@chbrain/khai-tests`); so is the relink RULE itself, whether one changed
-// file's whole difference is a rewritten link target rather than authoring
-// (`defaultRelink`) - because two implementations of one rule diverge, and this
-// house's was the first draft of what the kit now carries for every khai house.
+// THIS FILE IS NOW A THIN ADAPTER, and both limits it once kept locally are now
+// the kit's. Finding a house by the manifest that declares it, and walking its
+// units, is the kit's (`resolveHouse`, `unitsOf` in `@chbrain/khai-tests`); so
+// is the relink RULE itself, whether one changed file's whole difference is a
+// rewritten link target rather than authoring (`defaultRelink`) - because two
+// implementations of one rule diverge, and this house's was the first draft of
+// what the kit now carries for every khai house. `pathCulture` used to carry a
+// hand-rolled string match on the monolith branch because `unitsOf` once saw a
+// moved unit twice when a migration's `git mv` left the old directory empty on
+// disk; `unitsOf` now counts only a content-dir directory that still holds the
+// collection's own anchor file, and a caller that wants the leftover directories
+// themselves has `emptyUnitDirs`, so `pathCulture` now just walks `unitsOf`'s
+// list like any other reader. And `authoredCultures` used to walk its own
+// per-file diff grouping (`changePairs`) because the kit's `touchedUnits` only
+// ever answered "was this unit authored" as a whole, handing back a unit's
+// entire changed-file list regardless of which file earned the verdict - not
+// enough for a caller (plot_zero.mjs's gate) asking whether the PLOT files
+// specifically were authored. `touchedUnits` now carries that verdict per file
+// (`files[].authored`), and `authoredFiles` is the same answer reshaped as a
+// lookup by unit id, so `authoredCultures` is now built on those instead.
+//
 // What stays here is what is true of THIS house and nowhere else: the shape a
 // caller gets back (`{id, dir, migrated, packageName, packageDir}`, not the
-// kit's bare `{id, dir}`), the culture-specific error wording callers and tests
-// are pinned to, and `authoredCultures`'s per-FILE grouping - the kit's own
-// `touchedUnits` only ever answers "was this unit authored" as a whole and
-// hands back a unit's entire changed-file list either way, which is not enough
-// for a caller (plot_zero.mjs's gate) asking whether the PLOT files specifically
-// were authored, so that grouping is walked here, over the kit's relink rule.
+// kit's bare `{id, dir}`), and the culture-specific error wording callers and
+// tests are pinned to.
 //
 // WHAT MAKES A DIRECTORY A CULTURE. Under the umbrella, being a subdirectory of
 // `cultures/` is enough - that is the collection khai-tests counts. Beside it, a
@@ -44,10 +55,15 @@
 // The manifest says what a package is; `resolveHouse` only reads it.
 
 import { existsSync, readFileSync } from "node:fs";
-import { execFileSync } from "node:child_process";
 import { join, dirname, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
-import { resolveHouse, unitsOf, defaultRelink } from "@chbrain/khai-tests";
+import {
+  resolveHouse,
+  unitsOf,
+  touchedUnits,
+  authoredFiles,
+  defaultRelink,
+} from "@chbrain/khai-tests";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 
@@ -200,32 +216,21 @@ export function isMigrated(id, workspace = WORKSPACE) {
  * splitting the path again.
  */
 export function pathCulture(p, workspace = WORKSPACE) {
+  const house = findHouse(workspace);
+  if (!house) return null;
   const s = String(p).trim().replace(/\\/g, "/");
-  // The monolith branch is a STRING match on the path's own shape, never a
-  // listing of `cultures/` - deliberately, and kept local rather than read off
-  // `unitsOf` (which does list it). A migration's own diff carries the culture's
-  // OLD path on the delete/rename side after the directory it named has already
-  // gone empty on disk (`git mv` moves the file, not the now-empty parent), so a
-  // check keyed on "does this directory currently exist" would call that leg of
-  // a migrating culture's own rename unowned - and worse, an emptied monolith
-  // directory a migration has not yet finished cleaning up would collide with
-  // the production package claiming the same id, which is `unitsOf`'s "two
-  // places at once" and not a real duplicate at all. Parsing the id out of the
-  // path's own shape has neither failure mode: it does not care whether
-  // anything is still there.
-  const monolithPrefix = `${rel(join(workspace, "packages", "khai-cultures", "cultures"), workspace)}/`;
-  if (s.startsWith(monolithPrefix)) {
-    const rest = s.slice(monolithPrefix.length);
-    const slash = rest.indexOf("/");
-    if (slash < 1) return null;
-    return { id: rest.slice(0, slash), file: rest.slice(slash + 1), migrated: false };
-  }
-  for (const prod of productions(workspace)) {
-    const prefix = `${rel(prod.dir, workspace)}/`;
+  // `unitsOf` only counts a content-dir directory when it still holds the
+  // collection's own anchor file, so an emptied monolith directory a migration
+  // left behind is never a unit here and never collides with the production
+  // package the culture moved to - `unitsOf` throws its own "two places at
+  // once" only on a genuine duplicate, both still carrying an anchor.
+  const prods = new Map(productionsOf(house).map((x) => [x.id, x]));
+  for (const u of unitsOf(house)) {
+    const prefix = `${rel(u.dir, workspace)}/`;
     if (s.startsWith(prefix)) {
       const file = s.slice(prefix.length);
       if (!file) return null;
-      return { id: prod.id, file, migrated: true };
+      return { id: u.id, file, migrated: prods.has(u.id) };
     }
   }
   return null;
@@ -271,34 +276,6 @@ export function relinkOnly(change, base, head, workspace = WORKSPACE) {
   return defaultRelink(pair, base, head, workspace);
 }
 
-/** Every path a diff range touches, as `{from, to}` pairs with renames resolved.
- * Kept local rather than read off `touchedUnits`: that function groups by unit
- * and reports a unit's WHOLE changed-file list regardless of which of those
- * files the relink rule exempts, because its own callers only ever ask
- * "was this unit authored" (a boolean). This house's callers ask a finer
- * question - plot_zero.mjs's gate reads `authored.get(id)` for the PLOT and PLAY
- * files specifically, to tell "the plot line was authored" from "something else
- * in this culture was, and a link inside a plot happened to get rewritten" -
- * so the per-file filter has to survive into the returned list, which means the
- * diff is walked here rather than through the kit's unit-level summary. */
-function changePairs(base, head, workspace) {
-  const out = [];
-  const raw = execFileSync("git", ["diff", "--name-status", "-M", base, head], {
-    cwd: workspace,
-    encoding: "utf8",
-    maxBuffer: 32 * 1024 * 1024,
-  });
-  for (const line of raw.split("\n").filter(Boolean)) {
-    const cols = line.split("\t");
-    const status = cols[0];
-    if (status.startsWith("R") || status.startsWith("C")) out.push({ from: cols[1], to: cols[2] });
-    else if (status.startsWith("A")) out.push({ from: null, to: cols[1] });
-    else if (status.startsWith("D")) out.push({ from: cols[1], to: null });
-    else out.push({ from: cols[1], to: cols[1] });
-  }
-  return out;
-}
-
 /**
  * The cultures a change authors, and the ones it did not.
  *
@@ -307,30 +284,25 @@ function changePairs(base, head, workspace) {
  * authored" reads them rather than running its own diff. A culture appears in
  * `spared` when every one of its changed files was a retargeted link, a move, or
  * packaging.
+ *
+ * Built on the kit's own per-file verdict: `touchedUnits(house, { base, head })`
+ * classifies each unit (and, inside it, each changed file) as authored or
+ * relink-only under `defaultRelink`, and `authoredFiles` is that same verdict
+ * reshaped as `Map<unit id, string[]>` of exactly the files that earned it - the
+ * finer question plot_zero.mjs's gate asks (were the PLOT files specifically
+ * authored, as opposed to some other file in the same culture) reads straight
+ * off that map rather than off a per-culture diff walked here.
  */
 export function authoredCultures(base, head, workspace = WORKSPACE) {
-  const byCulture = new Map();
-  for (const change of changePairs(base, head, workspace)) {
-    // A rename is filed under the culture it landed in; a deletion under the one
-    // it left. Both sides of a move across cultures therefore get their say.
-    for (const side of [change.to, change.from]) {
-      if (!side) continue;
-      const hit = pathCulture(side, workspace);
-      if (!hit) continue;
-      if (!byCulture.has(hit.id)) byCulture.set(hit.id, []);
-      const list = byCulture.get(hit.id);
-      if (!list.some((c) => c.from === change.from && c.to === change.to)) list.push(change);
-    }
-  }
-
-  const authored = new Map();
-  const spared = [];
-  for (const [id, changes] of byCulture) {
-    const real = changes.filter((c) => !defaultRelink(c, base, head, workspace));
-    if (real.length) authored.set(id, real.map((c) => c.to ?? c.from).sort());
-    else spared.push(id);
-  }
-  return { authored, spared: spared.sort() };
+  const house = findHouse(workspace);
+  if (!house) return { authored: new Map(), spared: [] };
+  const units = touchedUnits(house, { base, head });
+  const authored = authoredFiles(house, { base, head });
+  const spared = units
+    .filter((u) => u.relinkOnly)
+    .map((u) => u.id)
+    .sort();
+  return { authored, spared };
 }
 
 /** One line for a gate to print, so an exemption is never silent. */
