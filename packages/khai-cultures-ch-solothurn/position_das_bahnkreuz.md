@@ -13,13 +13,25 @@ stamp:
 # Position: Das Bahnkreuz
 
 ## Taxonomy
-Das logistische Bewusstsein.
+
+Die Erreichbarkeit als einzige Ressource.
 
 ## Owner
+
 - Project: khai-cultures
 
-## Grip
-Die innere Gewissheit, dass man den Schalter der Schweiz in der Hand hält. Das Gefühl absoluter Zentralität ohne das Bedürfnis nach Repräsentation.
+## Has
 
-## Value
-Effizienz, Taktgefühl, und ein gewisser Zynismus gegenüber dem Rest des Landes, der von dieser Effizienz abhängt.
+Den Punkt, an dem sich die Hauptlinien des Landes kreuzen, und damit eine Fahrzeit, die für das halbe Land ungefähr gleich ist. Dazu Werkstätten, Logistik, Pendlerverkehr in alle vier Himmelsrichtungen und Wohnraum, der billiger ist als in den Städten ringsum.
+
+## Orders
+
+Verfügbar zu sein. Wer vom Treffpunkt lebt, muss offen haben, wenn andere kommen, und darf nicht fragen, warum sie kommen. Das gilt für die Bahnhofswirtschaft wie für den Kanton.
+
+## Loses
+
+Den Anlass zu bleiben. Perfekte Anbindung heisst, dass niemand übernachten muss; ein Ort, den alle in einer Stunde erreichen, ist ein Ort, den alle in einer Stunde wieder verlassen. Der Kanton hat die Wege gewonnen und den Aufenthalt verloren.
+
+## Drives
+
+Eine gelassene Zweckmässigkeit, die sich selten beklagt und selten begeistert. Man weiss hier, dass man gebraucht wird, und man weiss auch, wofür - und es kommt niemand auf die Idee, mehr daraus zu machen, als es ist.

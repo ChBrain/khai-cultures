@@ -13,21 +13,29 @@ stamp:
 # Plot: Das Bahnkreuz Olten
 
 ## Taxonomy
-Das Schicksal des Durchgangsorts.
+
+Die Gegenwart als Durchgang.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Cue
-Das Buffet im Bahnhof Olten ist der inoffizielle Mittelpunkt der Schweiz.
+
+Der bekannteste Ort des Kantons ist ein Bahnhof, und bekannt ist er dafür, dass man dort aussteigt, um weiterzufahren.
 
 ## Action
-Alle Eisenbahnlinien der Schweiz – von Genf nach St. Gallen, von Basel ins Tessin – kreuzen sich in Olten. Das macht den Ort zur logistischen Mitte des Landes. Sitzungen nationaler Verbände, Treffen von Parteien, alles findet im Bahnhofsbuffet Olten statt, weil jeder exakt gleich lang dorthin braucht. Der Ort ist so perfekt angebunden, dass niemand einen Grund hat, hier zu übernachten. Olten existiert als Transitraum.
+
+In Olten kreuzen sich die Linien von Basel, Bern, Zürich und Luzern, und der Ort liegt für das halbe Land ungefähr gleich weit weg. Verbände tagen hier, Delegiertenversammlungen finden hier statt, Verhandlungen werden hier angesetzt, weil niemand länger fährt als die anderen. Der Kanton profitiert: kurze Wege, Logistik, erschwinglicher Wohnraum, wachsende Bevölkerung. Und er zahlt dafür, dass sein Zentrum ein Ort ist, an dem die Leute mit Blick auf die Anzeigetafel sitzen.
 
 ## Stage
-- `place`: [Der Bahnhof Olten](place_bahnhof_olten.md)
-- `process`: [Das Umsteigen](process_umsteigen.md)
-- `persona`: [Der SBB Gewerkschafter](persona_der_sbb_gewerkschafter.md)
+
+- `place`: [Der Bahnhof Olten](place_der_bahnhof_olten.md)
+- `process`: [Das Umsteigen](process_das_umsteigen.md)
+- `persona`: [Die Bahnhofswirtin](persona_die_bahnhofswirtin.md)
+- `piece`: [Das Öufi-Bier](piece_das_oeufi_bier.md)
+- `position`: [Das Bahnkreuz](position_das_bahnkreuz.md)
 
 ## Tension
-Der tragische Fluch, der logistische Nabel eines ganzen Landes zu sein, ohne je als kulturelles Ziel wahrgenommen zu werden.
+
+Was in diesem Jahrzehnt offen ist: ob ein Kanton, dessen Stärke die Erreichbarkeit ist, daraus je einen eigenen Ort machen kann. Solothurn hat eine der schönsten Barockstädte des Landes und eine Zahl, die niemand sonst hat, und wird trotzdem hauptsächlich als Fahrplanknoten wahrgenommen. Ob das ein Marketingproblem ist oder eine zutreffende Beschreibung, entscheidet sich daran, ob jemand aussteigt und bleibt.

@@ -1,7 +1,7 @@
 {
   "name": "@chbrain/khai-cultures-ch-solothurn",
   "version": "0.1.0",
-  "description": "khai cultures: ch_solothurn",
+  "description": "khai cultures: ch_solothurn, one culture staged as a khai play.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "khai": {
     "class": "house",
     "production": "ch_solothurn",
-    "anchor": "play_so.md"
+    "anchor": "play_solothurn.md"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",

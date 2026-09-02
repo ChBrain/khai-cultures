@@ -13,19 +13,25 @@ stamp:
 # Pitch: die Solothurner Tonart
 
 ## Taxonomy
-Das vornehme Verblassen.
+
+Die Ironie dessen, der weiss, dass die Kulisse geliehen war.
 
 ## Owner
+
 - Project: khai-cultures
 
 ## Tenor
-Eine eigenartige Mischung aus feingliedriger, fast französischer Höflichkeit in der Hauptstadt und der knurrenden, rauen Direktheit des Arbeiter-Oltens.
+
+Umgänglich, trocken, mit einer Neigung zur Untertreibung. Man macht hier wenig Aufhebens um sich, kennt die eigenen Sehenswürdigkeiten und erwähnt sie erst, wenn jemand fragt.
 
 ## Undertow
-Die tiefe Wehmut einer Stadt, die einst auf Augenhöhe mit den europäischen Monarchen verkehrte, und eines Industriegürtels, der einst die Schienen goss, auf denen die Schweiz fährt – beide wissen, dass ihre beste Zeit in der Vergangenheit liegt.
+
+Das Wissen, dreimal von aussen wichtig gemacht und dreimal wieder entlassen worden zu sein: der Gesandte, das Eisen, der Fahrplan. Darunter die Frage, was übrig bleibt, wenn auch die Erreichbarkeit selbstverständlich wird.
 
 ## Nerve
-Die Schizophrenie des Kantons. Wer von Solothurn spricht, muss eigentlich definieren, ob er die Aristokraten an der Aare oder die Maschinisten an der Dünnern meint.
+
+Der Witz über Olten als Ort, an dem man nur umsteigt. Er stimmt, er wird ständig gemacht, und er trifft trotzdem - weil er die Hauptstadt, die Kathedrale und vierhundert Jahre Elf in einem Satz für irrelevant erklärt.
 
 ## Echo
-Das schrille Pfeifen der Abfahrtsweichen am Bahnhof Olten, das das Ende jeder lokalen Illusion verkündet: Hier beginnt und endet jede Schweizer Reise.
+
+Elf Stufen, noch einmal elf, noch einmal elf, und oben eine Kathedrale, die für diese Stadt zu gross ist. Und, dreissig Kilometer weiter, eine Anzeigetafel, die klappert.
