@@ -22,16 +22,16 @@ Das getragene Bauwerk.
 
 ## Place
 
-Auf dem Kopf der Schönchläuse beim Silvesterchlausen, vor allem im Hinterland um Urnäsch. Kein Hut, sondern eine Haube: ein Aufbau aus Karton, Draht, Perlen, Pailletten und ausgeschnittenen Figuren, mehrere Kilo schwer, ein Jahr Arbeit für eine Nacht.
+Auf dem zitternden Kopf der "Schönchläuse" während des Silvesterchlausens, tief in der Kälte des Hinterlandes um Urnäsch. Es ist kein schützender Hut, sondern eine architektonische Last: ein absurder, meterhoher Aufbau aus Karton, Draht, tausenden Perlen, Pailletten und filigran ausgeschnittenen Figuren. Mehrere Kilo totes Gewicht auf den Schultern eines Mannes, der tausend Stunden Arbeit eines ganzen Jahres investiert, um in einer einzigen, eisigen Nacht als mystische Gestalt zu leuchten.
 
 ## Load Bearing
 
-Sie hält die einzige Bildsprache, die dieser Kanton selbst hervorgebracht hat. Auf den Hauben stehen Szenen des Landlebens - Alpaufzug, Heuet, Käserei, gelegentlich eine Maschine oder eine Baustelle -, und so schreibt eine Gemeinde ihre eigene Chronik weiter, ohne sie je aufzuschreiben.
+Sie trägt die einzige rein visuelle Bildsprache, die dieser sprachkarge Kanton aus sich selbst hervorgebracht hat. Auf den gewölbten Bühnen der Hauben spielen sich idealisierte Szenen des Landlebens ab – ein Alpaufzug ohne Dreck, eine Heuet ohne Schweiss, eine Käserei ohne Gestank, und dazwischen das Dröhnen einer modernen Baustelle. So erzählt eine verschlossene Gesellschaft ihre eigene Geschichte unaufhörlich weiter und formt ihre Identität in Draht, gerade weil ihr die Worte dafür fehlen.
 
 ## Apparent
 
-Der Glanz. Hunderte Spiegelplättchen und Perlen fangen im Dezemberdunkel jedes Laternenlicht, und der Träger wird von einem Menschen zu einer leuchtenden Fassade, die sich langsam durch den Schnee bewegt.
+Der gnadenlose Glanz. Hunderte winzige Spiegelplättchen und Glasperlen saugen im undurchdringlichen Dezemberdunkel jedes flackernde Laternenlicht auf. Unter der Haube wird der schwitzende, atmende Träger ausgelöscht und verschmilzt zu einer leuchtenden, klingenden Fassade, die sich wie ein wandelndes Götzenbild majestätisch durch den tiefen Schnee schiebt.
 
 ## Yearbook
 
-Wer eine Haube baut, sagt nicht, woran er arbeitet. Die Motive bleiben bis zur Nacht geheim, und weil jede Haube neu gebaut und nicht wiederverwendet wird, ist der Aufwand pro Auftritt unverhältnismässig - was genau der Punkt ist.
+Wer an einer Haube baut, schweigt oder lügt, wenn man ihn danach fragt, und verriegelt die Tür zur Werkstatt. Die neuen Motive sind ein streng gehütetes Geheimnis, eine stille Obsession, die bis zur dunkelsten Nacht des Jahres verborgen bleibt. Und weil jede Haube von Grund auf neu erdacht, zusammengeleimt und nicht für das nächste Jahr aufgehoben wird, steht der wahnwitzige Aufwand in keinem vernünftigen Verhältnis zu ihrem kurzen Auftritt – eine radikale, verschwenderische Rebellion gegen den protestantischen Geiz des Alltags.

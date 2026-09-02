@@ -22,11 +22,11 @@ Die Gegenwart als Vorortslage.
 
 ## Cue
 
-Der Kanton hat eine Regierung, ein Gericht, ein Spital und keinen Ort, an dem seine Bewohner sich begegnen.
+Der Kanton hat eine verwaltende Regierung, ein strafendes Gericht, ein rettendes Spital und verliert genau dadurch den einzigen Ort, an dem seine Bewohner sich noch als Schicksalsgemeinschaft begegnen könnten.
 
 ## Action
 
-Das Vorderland schaut ins Rheintal, das Hinterland nach Wil und Winterthur, das Mittelland nach St. Gallen, und St. Gallen ist die Stadt, in der die Ausserrhoder einkaufen, arbeiten und ins Spital gehen, ohne dass sie ihnen gehört. Herisau verwaltet, Trogen richtet, Urnäsch feiert; keines davon ist ein Zentrum. Die Bevölkerung wächst wieder, aber sie wächst als Pendlergürtel, und die alten Stickereihäuser mit den grossen Fenstern werden von Leuten bewohnt, die in einem anderen Kanton arbeiten.
+Das zersiedelte Vorderland blickt verlangend ins St. Galler Rheintal, das Hinterland pendelt fluchtartig nach Wil und Winterthur, das Mittelland wird vom Sog St. Gallens verschluckt. St. Gallen ist die übermächtige Stadt, in der die Ausserrhoder einkaufen, Karriere machen und ins Spital gehen, ohne dass ihnen auch nur ein einziger Pflasterstein davon gehört. Herisau stempelt Papiere, Trogen spricht Urteile, Urnäsch zelebriert Kulte; keines davon ist ein echtes Gravitationszentrum. Die Bevölkerung wächst zwar wieder, aber sie wächst nur als gesichtsloser Pendlergürtel. Die alten Stickereihäuser mit ihren riesigen, kalten Fenstern werden heute von Menschen bewohnt, die ihr Leben und ihre Seele längst in einem anderen Kanton lassen.
 
 ## Stage
 
@@ -37,4 +37,4 @@ Das Vorderland schaut ins Rheintal, das Hinterland nach Wil und Winterthur, das 
 
 ## Tension
 
-Was in diesem Jahrzehnt noch offen ist: ob ein Kanton, dessen Alltag vollständig ausserhalb seiner Grenzen stattfindet, mehr sein kann als eine Verwaltungseinheit mit schöner Aussicht. Das Silvesterchlausen zieht Zehntausende an und ist echt; die Frage ist, ob ein Brauch ein Zentrum ersetzen kann, oder ob er nur der letzte Termin ist, an dem alle am selben Ort stehen.
+Was in diesem Jahrzehnt zur brutalen Disposition steht: Ob ein Kanton, dessen Blutkreislauf und Alltag vollständig ausserhalb seiner Grenzen stattfindet, überhaupt noch mehr sein kann als eine pure Verwaltungseinheit mit malerischer Aussicht. Das Silvesterchlausen zieht zwar Zehntausende an und ist unbestreitbar echt; die existenzielle Frage ist jedoch, ob ein archaischer Brauch den totalen Verlust einer Mitte maskieren kann, oder ob er nur noch der letzte verzweifelte Termin im Jahr ist, an dem alle Ausserrhoder zufällig am selben Ort stehen.

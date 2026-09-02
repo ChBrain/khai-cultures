@@ -22,16 +22,16 @@ Der Hauptort, der keine Hauptstadt ist.
 
 ## Shown
 
-Ein grosses Dorf, das nie beschlossen hat, eine Stadt zu werden: Regierungssitz und Kantonsparlament, ein Bahnhof, an dem drei Bahnen sich treffen, und ringsum Streusiedlung bis an den Hügelrand.
+Ein unförmiges, zersiedeltes Dorf, das nie den Mut oder den Willen gefunden hat, sich als Stadt zu behaupten. Es ist Regierungssitz und Versammlungsort, besitzt einen Bahnhof, an dem drei Bahnen einander kurz streifen, und zerfasert danach sofort in eine unentschlossene Streusiedlung, die sich wie Treibgut an die Hügelränder klammert.
 
 ## Holds
 
-Die Verwaltung eines Kantons, der ihr nie ganz zugestimmt hat, dazu das Erbe der Textilzeit - Fabrikantenvillen an den Hängen, Stickereihäuser mit übergrossen Fenstern, ein Ortsbild, das reicher aussieht, als der Ort heute ist.
+Die müde Verwaltung eines Kantons, der seiner eigenen Hauptstadt nie wirklich zugestimmt hat. Darüber hinaus das erstarrte Erbe der Textilära: protzige Fabrikantenvillen an den Hängen und Stickereihäuser mit übergrossen Fenstern – ein architektonischer Panzer, der wesentlich reicher und weltmännischer aussieht, als das schrumpfende Dorf in seinem Inneren heute ist.
 
 ## Offers
 
-Alles, was ein Kanton an einem Ort braucht: Regierung, Spital, Gymnasium, Gericht in Reichweite. Wer etwas von Ausserrhoden will, findet es hier.
+Den bürokratischen Mindestbedarf. Alles, was ein zersplitterter Kanton an einem Ort notgedrungen bündeln muss: Regierung, Kantonspital, Gymnasium, Gericht in funktionaler Nähe. Wer etwas Amtliches von Ausserrhoden verlangt, muss nach Herisau, doch niemand verweilt länger, als der Termin es verlangt.
 
 ## Withheld
 
-Die Zugehörigkeit. Herisau ist Hauptort per Beschluss, nicht per Anziehung; das Vorderland fährt nach Rheineck und Heiden, alle zusammen fahren nach St. Gallen. Der Ort verwaltet einen Kanton, der sein Leben anderswo führt.
+Jede Form von seelischer Zugehörigkeit oder Gravitation. Herisau ist Hauptort per politischem Beschluss, eine Vernunftehe ohne Leidenschaft und ohne Zentrumskraft. Das Vorderland fährt nach Rheineck, das Mittelland orientiert sich nach Teufen, und alle zusammen fliehen ins städtische St. Gallen. Herisau verwaltet nur den Stempel eines Kantons, der sein echtes Leben konsequent woanders führt.

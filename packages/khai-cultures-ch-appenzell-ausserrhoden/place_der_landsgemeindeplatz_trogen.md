@@ -22,16 +22,16 @@ Der leergeräumte Ring.
 
 ## Shown
 
-Ein gepflasterter Platz zwischen der Kirche und den Palästen der Textilherren, umstellt von den Zellweger-Häusern, die eine Handelsfamilie hier hinstellte, als das Aussenland Geld hatte. Bis 1997 stand hier jedes zweite Jahr die Landsgemeinde, im Wechsel mit Hundwil.
+Ein gepflasterter, zugiger Platz zwischen der barocken Kirche und den massiven Steinpalästen der Textilherren, eng umstellt von den Zellweger-Häusern – Denkmäler eines fremden Reichtums, erbaut, als das Aussenland noch den Weltmarkt diktierte. Bis 1997 versammelte sich hier in jedem zweiten Frühling die Landsgemeinde im Wechsel mit Hundwil. Heute ist es ein versiegelter Raum.
 
 ## Holds
 
-Den Beweis, dass dieser Kanton einmal einen Ort hatte, an dem er ganz war. Und die Erinnerung daran, dass ausgerechnet der reichste Platz des Landes für die Versammlung der Ärmsten hergegeben wurde, weil die Zellweger sich das leisten konnten und es ihnen nützte.
+Den steinernen Beweis, dass dieser geographisch und seelisch zerrissene Kanton einmal einen Ort hatte, an dem er für ein paar Stunden im Jahr "ganz" war. Und die historische Demütigung, dass ausgerechnet der prächtigste, von Kapital durchdrungene Platz des Landes für die Versammlung der oft besitzlosen Bürger hergegeben wurde, weil die Textilbarone sich diese demokratische Kulisse leisten konnten und ihre Herrschaft darin spiegelten.
 
 ## Offers
 
-Ein Bild, das ohne Erklärung auskommt: Bürgerhäuser im barocken Massstab um einen leeren Platz, an dem nichts mehr stattfindet. Wer verstehen will, was Ausserrhoden abgegeben hat, muss nur hier stehen.
+Ein monumentales Bild, das keine Erklärtafel braucht: Bürgerhäuser im europäischen Massstab, gebaut um eine Leere, an der nichts mehr stattfindet. Wer die psychologische Wunde von Ausserrhoden verstehen will – das freiwillige Aufgeben der eigenen Mitte –, muss sich nur mitten auf dieses leere Kopfsteinpflaster stellen.
 
 ## Withheld
 
-Die Versammlung selbst. Der Platz ist nicht verfallen, er ist ausser Betrieb - eine Bühne in gutem Zustand, für ein Stück, das der Kanton abgesetzt hat.
+Die Macht, die Masse, die Versammlung selbst. Der Platz ist nicht verfallen, er ist nur klinisch tot – eine perfekt erhaltene, im Wind liegende Bühne für ein Stück radikaler Selbstverwaltung, das der Kanton 1997 mit eigenen Händen abgewürgt und für immer abgesetzt hat.

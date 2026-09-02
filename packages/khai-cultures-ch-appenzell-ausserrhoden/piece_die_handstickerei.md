@@ -22,16 +22,16 @@ Die Ware, an der ein ganzer Kanton hing.
 
 ## Place
 
-Der Stickrahmen am grossen Stubenfenster, dort, wo das Tageslicht am längsten steht. Die Appenzeller Feinstickerei ging von hier in die Modehäuser von Paris, London und New York, ohne dass die Stickerin je erfuhr, an wessen Kleid ihr Muster endete.
+Der schwere Holzrahmen vor dem grossen Stubenfenster, exakt dort, wo das kalte Tageslicht am längsten einfällt. Die sogenannte Appenzeller Feinstickerei wanderte von diesen isolierten Bauernstuben direkt in die luxuriösen Modehäuser von Paris, London und New York, ohne dass die gebeugte Stickerin je erfuhr, an wessen Schulter ihr Muster endete, oder wie das Meer aussah, über das ihre Arbeit verschifft wurde.
 
 ## Load Bearing
 
-Sie trug die Wirtschaft eines Kantons ohne Rohstoffe und ohne Ackerland, und sie trug mehr als das: Weil die Arbeit im Haus stattfand, entschied sie, wie ein Ausserrhoder Tag aussah, wer wann am Fenster sass und ab welchem Alter ein Kind mithalf.
+Sie trug die gesamte fragile Wirtschaft eines Kantons, der weder nennenswerte Rohstoffe noch weites Ackerland besass, und sie bestimmte weit mehr als das Einkommen: Weil die "Fabrik" im eigenen Haus stand, diktierte sie gnadenlos den Rhythmus jedes Ausserrhoder Tages. Sie entschied, wer wann am Fenster sass, wie hastig gegessen wurde, und ab welchem Alter die weichen Hände eines Kindes als notwendiges Werkzeug galten.
 
 ## Apparent
 
-Der Lochstich, die durchbrochene Weissstickerei auf feinem Batist, eine Arbeit, deren Wert man erst im Gegenlicht sieht. Heute steht sie in Vitrinen und auf der Tracht, und die Museen nennen sie ein Kunsthandwerk.
+Der legendäre Lochstich, die durchbrochene Weissstickerei auf hauchfeinem Batist – eine mikroskopische Arbeit, deren vollen Wert man erst im extremen Gegenlicht erkennt. Heute erstarrt sie in klimatisierten Vitrinen und auf der Sonntagstracht, wo die Museen sie ehrfürchtig als romantisches "Kunsthandwerk" verklären.
 
 ## Yearbook
 
-Sie war nie ein Kunsthandwerk, sondern Akkord. Was heute als Beweis für die Geschicklichkeit einer Region gezeigt wird, wurde nach Stichzahl bezahlt, meist an Frauen, oft mit Kinderhänden, und es hörte auf, als es sich nicht mehr rechnete - nicht, als es nicht mehr schön war.
+Sie war jedoch niemals ein freies Kunsthandwerk, sondern brutaler, industrieller Akkord. Was heute als stolzer Beweis für die Fingerfertigkeit und den Fleiss einer ganzen Region zelebriert wird, wurde nach abertausenden Stichen bezahlt, meist an verarmte Frauen, oft an schweigende Kinder. Und diese "Tradition" hörte schlagartig auf, als sie sich auf dem Weltmarkt nicht mehr rechnete – nicht, als sie nicht mehr schön war. Die Kunst war nur das ästhetische Abfallprodukt eines täglichen Überlebenskampfes.

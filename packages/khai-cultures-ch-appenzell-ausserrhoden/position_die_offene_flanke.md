@@ -22,16 +22,16 @@ Die Durchlässigkeit als Wirtschaftsform und als Wunde.
 
 ## Has
 
-Den Zugang. Das Aussenland liegt an den Strassen ins St. Galler Rheintal, an den Märkten des Bodensees, am Weg nach Zürich. Wer hier wohnt, hat den Weltmarkt vor der Tür - und der Weltmarkt hat ihn.
+Den ungeschützten Zugang. Das Aussenland liegt aufgerissen an den Strassen ins St. Galler Rheintal, an den Häfen des Bodensees, am Weg nach Zürich. Wer hier wohnt, hat den Weltmarkt permanent vor der Tür – und der Weltmarkt hat ihn, mit Haut und Haaren.
 
 ## Orders
 
-Alles aufzunehmen, was von aussen kommt: die Reformation, die Baumwolle, den Verlagsherrn, die Maschine, den Pendlerverkehr. Die Flanke wird nie geschlossen, weil das Schliessen genau das ist, was Innerrhoden tut, und weil man von der Öffnung einmal sehr gut gelebt hat.
+Alles aufzunehmen, was von aussen hereinbricht: die Reformation, die Baumwolle, den ausländischen Verlagsherrn, die dröhnende Maschine, den modernen Pendlerverkehr. Die Flanke wird niemals geschlossen, weil das Schliessen genau der sture Akt ist, den Innerrhoden vollzieht, und weil man sich in Ausserrhoden einredet, von dieser bedingungslosen Öffnung einmal sehr gut gelebt zu haben.
 
 ## Loses
 
-Jeden Schutz, wenn die Bewegung kippt. Dieselbe Offenheit, die im 18. Jahrhundert den Reichtum hereinliess, liess nach 1920 die Arbeit hinaus und die Menschen hinterher. Ein Kanton ohne Flanke hat keine Rückseite, hinter die er sich zurückziehen kann.
+Jeden psychologischen und wirtschaftlichen Schutz, wenn die Bewegung plötzlich kippt. Dieselbe unkontrollierte Offenheit, die im 18. Jahrhundert den globalen Reichtum hereinliess, liess nach 1920 die Arbeit hinaus und ganze Generationen von Menschen verzweifelt hinterherfliehen. Ein Kanton ohne Flanke hat keine Rückseite, keine schützende Bastion, hinter die er sich zurückziehen kann, wenn die Welt sich von ihm abwendet.
 
 ## Drives
 
-Die Überzeugung, dass Anpassung immer die klügere Wahl ist, und die leise Bitterkeit darüber, dass die Kluge nicht die Überlebende war. Innerrhoden hat sich verweigert und ist geblieben, was es war. Ausserrhoden hat mitgemacht und ist ausgewandert.
+Die eiserne Überzeugung, dass reibungslose Anpassung immer die klügere Wahl ist, und die schleichende, giftige Bitterkeit darüber, dass die "Klugen" am Ende nicht die Überlebenden waren. Innerrhoden hat sich blind verweigert und ist im Kern geblieben, was es war. Ausserrhoden hat fleissig mitgemacht, sich restlos verbraucht und ist schliesslich ausgewandert.
