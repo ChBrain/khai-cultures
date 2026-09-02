@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.312.0",
+  "version": "0.313.0",
   "cultures": [
     {
       "kind": "culture",
@@ -7337,6 +7337,94 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-st-gallen"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_thurgau",
+      "title": "Thurgau",
+      "description": "Thurgau: 338 Jahre Untertanenland, dann ein Kanton von fremder Hand, heute das Schlafzimmer von Zürich.",
+      "iso": "CH-TG",
+      "members": [
+        {
+          "file": "persona_der_apfelbauer.md",
+          "kind": "persona",
+          "title": "Persona: Der Apfelbauer",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_der_zuercher_pendler.md",
+          "kind": "persona",
+          "title": "Persona: Der Zürcher Pendler",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_der_most.md",
+          "kind": "piece",
+          "title": "Piece: Der Most"
+        },
+        {
+          "file": "pitch_thurgau.md",
+          "kind": "pitch",
+          "title": "Pitch: die Thurgauer Tonart"
+        },
+        {
+          "file": "place_das_schloss_frauenfeld.md",
+          "kind": "place",
+          "title": "Place: Das Schloss Frauenfeld"
+        },
+        {
+          "file": "place_der_bodensee.md",
+          "kind": "place",
+          "title": "Place: Der Bodensee"
+        },
+        {
+          "file": "play_thurgau.md",
+          "kind": "play",
+          "title": "Thurgau"
+        },
+        {
+          "file": "plot_00_die_gemeine_herrschaft_1460.md",
+          "kind": "plot",
+          "title": "Plot: Die Gemeine Herrschaft 1460"
+        },
+        {
+          "file": "plot_01_der_kanton_von_1803.md",
+          "kind": "plot",
+          "title": "Plot: Der Kanton von 1803"
+        },
+        {
+          "file": "plot_02_mostindien.md",
+          "kind": "plot",
+          "title": "Plot: Mostindien"
+        },
+        {
+          "file": "plot_99_der_pendlerkanton.md",
+          "kind": "plot",
+          "title": "Plot: Der Pendlerkanton"
+        },
+        {
+          "file": "position_culture_die_thurgauer_kultur.md",
+          "kind": "position",
+          "title": "Position: Die Thurgauer Kultur",
+          "taxonomy": "position_culture_schweizer_kultur.md"
+        },
+        {
+          "file": "position_das_untertanenland.md",
+          "kind": "position",
+          "title": "Position: Das Untertanenland"
+        },
+        {
+          "file": "position_die_apfelbluete.md",
+          "kind": "position",
+          "title": "Position: Die Apfelblüte"
+        },
+        {
+          "file": "process_das_pendeln.md",
+          "kind": "process",
+          "title": "Process: Das Pendeln"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-thurgau"
     },
     {
       "kind": "culture",
