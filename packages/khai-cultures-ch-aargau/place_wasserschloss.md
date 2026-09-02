@@ -34,4 +34,4 @@ Kühlwasser für die Industrie und Kraftwerke sowie ein Naherholungsgebiet mitte
 
 ## Withheld
 
-Die rohe, ungebändigte Kraft des Wassers, die vor den Zeiten der Flusskorrektionen das ganze Gebiet dominierte.
+Die rohe Kraft des Wassers, die vor den Flusskorrektionen das ganze Gebiet beherrschte. Dieses Wasser gehört den Ingenieuren nicht, es ist ihnen nur geliehen.

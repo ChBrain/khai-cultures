@@ -26,7 +26,7 @@ In den Bäckereien von Aarau und auf den Kaffeetischen der gesamten Schweiz.
 
 ## Load Bearing
 
-Ein Stück Identität für einen Kanton, der sich nach aussen oft schwer tut, ein eigenes Profil zu zeigen, das über Industrie hinausgeht.
+Sie stützt eine gewollte Illusion: Ein Kanton aus Asphalt, Turbinen und Atomkraft versteckt sich hinter einem harmlosen Stück Gebäck, um der übrigen Schweiz nicht als Maschinenraum aufzufallen.
 
 ## Apparent
 
@@ -34,4 +34,4 @@ Ein süsser Kuchen aus Karotten und Mandeln, meist dekoriert mit einer kleinen M
 
 ## Yearbook
 
-Das freundliche, aber etwas belächelte Markenzeichen des "Rüeblilands", das die industriellen Realitäten überdeckt.
+Das freundliche, etwas belächelte Markenzeichen des "Rüeblilands": Wer einen Kuchen anbietet, von dem verlangt niemand, dass er seine Kraftwerke erklärt.

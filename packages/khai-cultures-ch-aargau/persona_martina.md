@@ -35,4 +35,4 @@ Eine sture Ablehnung von fremden Einflüssen und eine tiefe Skepsis gegenüber d
 
 ## Tell
 
-Sie spricht bedächtig, traditionell gefärbt und mit einem stetigen Misstrauen gegenüber dem Zentrum.
+Ein schwerer Silberring mit abgegriffenem Kreuz an der rechten Hand, und bei jedem lauten Geräusch aus dem Tal hebt sie unmerklich die Schultern.
