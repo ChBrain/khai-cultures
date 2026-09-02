@@ -1,34 +1,20 @@
 # CLAUDE.md, the Cultures house
 
-**Read `management/house_instructions.md` first, and follow it.** It holds every
-rule of this house — what lives here, branching, versioning, the gates, coverage,
-the tongues, how a culture is written — and it is provider-neutral, so it is the
-same word given to every agent. Then read `management/management_instructions.md`,
-the voice layer: who speaks, through which Persona, and how the company
-collaborates.
+Claude-specific notes for this house, and nothing else.
 
-> **Case law too.** `conduct.md` ships with `@chbrain/khai-stage`, read at
-> `node_modules/@chbrain/khai-stage/conduct.md`: the shared case law for working
-> in any khai house, how a model reads a rule, measures a claim, trusts a check.
-> Two of its cases are this house's own (a 31-line `GEMINI.md`; a local runner
-> that read 10/10 while CI failed all ten); this file stays this house's own
-> quirks, not that reasoning.
+## Branch names
 
-This file holds only what is true of Claude Code and of no other tool. Nothing
-here overrides the house rules; if the two ever disagree, the house rules win and
-this file is wrong.
+Claude offers a `claude/<something>` branch by default. This house's lanes do not
+include one, so the guard refuses it, and renaming afterwards costs a push. Do
+not name a branch by hand at all: make the edits first and let the guard compute
+the lane from the diff.
 
-## Claude Code specifics
+```
+npx khai-guard branch <topic>
+```
 
-- **This file loads automatically; the house rules do not.** Open
-  `management/house_instructions.md` at the start of the work, not when a gate
-  fails. A rule you have not read is a rule you will break.
-- **Never `--no-verify`.** The husky hooks are the last gate that runs before a
-  push, and the one gate CI cannot repeat.
-- **Never merge.** Open the pull request and stop; merge and deploy are the
-  Human's authority.
-- Run the gates through `npx`, from the repository root
-  (`npx khai-guard`, `npx khai-tests`, `node tests/<gate>.mjs`).
-- Do not report a test count or a gate result you have not just run. CI publishes
-  every check on the pull request, so a claim about them in a PR body is either
-  redundant or wrong.
+---
+
+**Now read [AGENTS.md](AGENTS.md).** It is this house's coding contract, it is
+vendor agnostic, and it applies to you in full: voice first, then branching,
+versioning, authoring and the gates. Nothing above replaces any of it.

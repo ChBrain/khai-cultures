@@ -1,6 +1,6 @@
 # Company coverage: the ratchet
 
-**Status:** design of record for the company-coverage gate, adopted 2026-08-25. The rule itself is in `REFERENCES.md` (Restrictions) and `house_instructions.md` (Coverage); the implementation is `tests/company_coverage.mjs`, gated by the `khai-company-coverage` job in CI.
+**Status:** design of record for the company-coverage gate, adopted 2026-08-25. The rule itself is in `REFERENCES.md` (Restrictions) and [`AGENTS.md`](../../AGENTS.md) (Coverage); the implementation is `tests/company_coverage.mjs`, gated by the `khai-company-coverage` job in CI.
 
 ## The finding
 
