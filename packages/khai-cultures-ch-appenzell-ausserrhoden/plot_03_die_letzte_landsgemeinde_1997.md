@@ -22,11 +22,11 @@ Die Selbstabschaffung durch Handmehr.
 
 ## Cue
 
-Der Ring auf dem Dorfplatz wird jedes Jahr voller von gaffenden Zuschauern und spürbar leerer an wirklichen Stimmenden, und die quälende Frage, wer hier eigentlich noch mit welcher Legitimität abstimmt, lässt sich nicht mehr verdrängen.
+Der Ring wird jedes Jahr voller Zuschauer und leerer an Stimmenden, und die Frage, wer hier eigentlich noch abstimmt, lässt sich nicht mehr abweisen.
 
 ## Action
 
-1989 hatte die Ausserrhoder Landsgemeinde den Frauen das Stimmrecht gegeben – aus zähem, aber eigenem Entschluss, ein Jahr bevor das archaische Innerrhoden durch das Bundesgericht dazu gezwungen wurde. Nur acht Jahre später, 1997, gibt sich der Ring selbst den Todesstoss. Die Stimmberechtigten heben ein allerletztes Mal die Hand dafür, dass sie künftig nicht mehr öffentlich die Hand heben müssen, und verlegen die Macht an die Urne, wo sie anonym, berechenbar und für Berufstätige erreichbar ist. Der historische Ring in Hundwil und Trogen wird nicht von aussen verboten, er wird in einem Akt kollektiver Erschöpfung abbestellt.
+1989 hatte die Landsgemeinde den Frauen das Stimmrecht gegeben - aus eigenem Entschluss, ein Jahr bevor Innerrhoden vom Bundesgericht dazu gezwungen wurde. Acht Jahre später gibt sie sich selbst auf. Die Stimmberechtigten heben die Hand dafür, dass sie künftig nicht mehr öffentlich die Hand heben, und verlegen den Entscheid an die Urne, wo er geheim ist, planbar und für Berufstätige erreichbar. Der Ring in Hundwil und Trogen wird nicht verboten, er wird abbestellt.
 
 ## Stage
 
@@ -36,4 +36,4 @@ Der Ring auf dem Dorfplatz wird jedes Jahr voller von gaffenden Zuschauern und s
 
 ## Tension
 
-Der einzige staatspolitische Akt in dieser langen Geschichte, der absolut freiwillig war, und ausgerechnet er kostete den Kanton sein allerletztes unverwechselbares Merkmal. Ausserrhoden hat sich nichts nehmen lassen; es hat sein eigenes Herz auf den Tisch gelegt. Seither muss es mühsam erklären, was es eigentlich ist, statt es einmal im Jahr körperlich zu beweisen – und diese Erklärung fällt verzweifelt schwer, wenn nichts Sichtbares mehr da ist.
+Der einzige Akt in dieser Geschichte, der wirklich freiwillig war, und ausgerechnet er kostete den Kanton sein letztes unverwechselbares Merkmal. Ausserrhoden hat sich nichts nehmen lassen; es hat abgegeben. Seither muss es erklären, was es ist, statt es einmal im Jahr zu zeigen - und die Erklärung fällt schwerer als das Zeigen.

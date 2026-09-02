@@ -22,11 +22,11 @@ Das Ende einer Monokultur.
 
 ## Cue
 
-Nach dem Weltkrieg verschwindet die Mode, die den ganzen Kanton auf ihren Schultern getragen hat: Die durchbrochene, weisse Bluse gilt plötzlich als altmodisch, und mit diesem winzigen Geschmackswandel in Paris oder London stürzt eine ganze Region ab.
+Nach dem Weltkrieg verschwindet die Mode, die den Kanton getragen hat: Die bestickte Bluse gilt als altmodisch, und mit ihr wird ein ganzes Land altmodisch.
 
 ## Action
 
-Die ausländischen Bestellungen bleiben über Nacht aus, die reichen Verleger ziehen sich geräuschlos zurück, die Rahmen in den Stuben verstummen in einer erdrückenden Stille. Es gibt keine zweite Industrie, in die man sich flüchten könnte, weil es nie eine gab – der Kanton hatte sein kollektives Schicksal auf ein einziges, zynisches Gewerbe gesetzt, das in jedem Haus stand. Wer bleiben will, hat absolut nichts zu tun; also geht man. Ausserrhoden verliert in den qualvollen Jahrzehnten nach 1920 rund ein Viertel seiner Bevölkerung. Die Häuser, aus denen sie ihre Habseligkeiten tragen, sind riesige Stickereihäuser mit übergrossen Fenstern, gebaut für das kalte Licht der Feinarbeit – hohle Augen, die fortan auf stumme Hügel blicken.
+Die Bestellungen bleiben aus, die Verleger geben auf, die Maschinen in den Stuben verstummen. Es gibt keine zweite Industrie, in die man wechseln könnte, weil es nie eine gab - der Kanton hatte alles auf ein Gewerbe gesetzt, das in jedem Haus stand. Wer bleiben will, hat nichts zu tun; also geht man. Ausserrhoden verliert in den Jahrzehnten nach 1920 rund ein Viertel seiner Bevölkerung, und die Häuser, aus denen sie ausziehen, sind Stickereihäuser mit den grossen Fenstern, die man für die Feinarbeit gebraucht hatte: hohle Augen, die fortan auf stumme Hügel blicken.
 
 ## Stage
 
@@ -37,4 +37,4 @@ Die ausländischen Bestellungen bleiben über Nacht aus, die reichen Verleger zi
 
 ## Tension
 
-Ein historischer Zusammenbruch ohne jedes greifbare Katastrophenbild. Es gab keinen feindlichen Brand, keine epische Schlacht, keine Flut – nur eine weltweite Nachfrage, die einfach aufhörte, und eine demütigende, lautlose Abwanderung, die dreissig Jahre dauerte. Der Kanton hat seinen Bevölkerungshöchststand von 1910 nie wieder erreicht. Weil dieses Sterben so quälend langsam und unheroisch geschah, hat man nie gelernt, es als Trauma zu erzählen. Man schwieg die Katastrophe einfach aus.
+Ein Zusammenbruch ohne Katastrophenbild. Es gab keinen Brand, keine Schlacht, keine Flut - nur eine Nachfrage, die aufhörte, und eine Abwanderung, die dreissig Jahre dauerte. Der Kanton hat seinen Höchststand von 1910 nie wieder erreicht, und weil das langsam geschah, hat er nie gelernt, es als das zu erzählen, was es war. Man schwieg die Katastrophe einfach aus.

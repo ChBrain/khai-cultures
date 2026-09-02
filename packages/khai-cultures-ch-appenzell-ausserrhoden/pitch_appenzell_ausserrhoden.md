@@ -22,16 +22,16 @@ Die Nüchternheit dessen, der schon einmal alles verloren hat.
 
 ## Tenor
 
-Hart, knochentrocken, extrem verdichtet und vollkommen ohne Pathos. Man spricht hier über Geld, Wetter, den Preis von Holz und die Härte der Arbeit. Man spricht niemals über Identität. Wer nach dem "Wesen" des Kantons fragt, bekommt als Antwort eine Wegbeschreibung. Höflichkeit bedeutet hier in erster Linie, keine grossen Worte zu machen, Gefühle zu verbergen und dem anderen nicht zu nah auf den Leib zu rücken.
+Trocken, knapp, ohne Pathos. Man spricht hier über Geld, Wetter und Arbeit und nicht über Identität, und wer nach dem Wesen des Kantons fragt, bekommt eine Ortsangabe zur Antwort. Höflichkeit heisst, nicht zu übertreiben.
 
 ## Undertow
 
-Ein massiver, aber eingekapselter Stolz, der sich niemals offen zeigen darf, weil das folkloristische Zeigen den Innerrhodern überlassen wurde. Darunter pocht eine chronische, stumme Kränkung: im Gesamtbild der Schweiz faktisch nicht mehr vorzukommen. Und ganz tief unten die unverheilte Wunde einer Landschaft, die einmal zu den wohlhabendsten, globalisiertesten der Welt gehörte und dann über Nacht still, fast schämig verarmte.
+Ein Stolz, der sich nicht zeigen darf, weil das Zeigen den Innerrhodern gehört. Darunter die Kränkung, mit einem Zehntel der Fläche und einem Bruchteil der Geschichte im Bild der Schweiz kaum vorzukommen, und darunter die ältere Kränkung: einmal wohlhabend gewesen und dann still verarmt zu sein.
 
 ## Nerve
 
-Die ständige, zermürbende Verwechslung. Wer "Appenzell" sagt und dabei an Innerrhoden denkt – die wehende Landsgemeinde, das goldene Ohrringlein, den Käse –, trifft eine Stelle, an der dieser reformierte Halbkanton absolut nichts erwidern kann. Denn es stimmt: Er hat alles, was ihn nach aussen hin unterscheidbar machte, im Tausch gegen die Moderne und den Profit aus freien Stücken aufgegeben.
+Die Verwechslung. Wer Appenzell sagt und Innerrhoden meint - die Landsgemeinde, das Ohrringlein, den Käse -, trifft eine Stelle, an der dieser Kanton nichts zu erwidern hat, weil es stimmt und weil er selbst abgegeben hat, was ihn unterscheidbar machte.
 
 ## Echo
 
-Ein wortloses Zäuerli in einer überheizten Stube, archaisch mehrstimmig und fast schon bedrohlich nah. Und danach die sofortige, unüberbrückbare Stille von jemandem, der aufsteht und wortlos in der Tür steht, die Jacke bereits halb angezogen.
+Ein wortloses Zäuerli in einer geheizten Stube, mehrstimmig und sehr nah, und danach die Stille von jemandem, der schon die Jacke anzieht.

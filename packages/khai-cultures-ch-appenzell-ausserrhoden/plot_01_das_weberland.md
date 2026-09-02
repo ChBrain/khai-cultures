@@ -22,11 +22,11 @@ Die Fabrik ohne Fabrikgebäude.
 
 ## Cue
 
-Ein karges Land ohne fruchtbares Ackerland und mit viel zu vielen Menschen sucht verzweifelt eine Einnahmequelle, um nicht zu verhungern – und der städtische Verlagsherr bringt den Hunger direkt als Geschäft in ihre Stuben.
+Ein Land ohne fruchtbares Ackerland und mit zu vielen Menschen sucht eine zweite Einnahme, und der Verlagsherr aus der Stadt bringt sie ins Haus.
 
 ## Action
 
-Leinwand zuerst, dann feine Baumwolle, zuletzt die mörderische Stickerei: Das Garn kommt auf Kredit vom Verleger, das Tuch geht exakt gewogen an den Verleger zurück, und dazwischen reibt sich die ganze Familie in der eigenen Stube auf. Die zersplitterte Streusiedlung, die dem Kanton jede politische Mitte nahm, wird nun zum gnadenlosen industriellen Vorteil – jedes isolierte Haus wird zu einem kontrollierbaren Betrieb, jeder steile Hang eine Werkstatt, in der man die Konkurrenz nicht sieht. Um 1800 gehört das Aussenland zu den am dichtesten besiedelten und gewerblich extremsten Landschaften Europas: ein Bauernkanton, in dem niemand mehr Bauer ist, sondern Taglöhner am Fenster.
+Leinwand zuerst, dann Baumwolle, zuletzt die Stickerei: Das Garn kommt vom Verleger, das Tuch geht an den Verleger zurück, und dazwischen arbeitet die ganze Familie in der eigenen Stube. Die Streusiedlung, die dem Kanton jede Mitte nahm, wird zum Vorteil - jedes Haus ein Betrieb, jeder Hang eine Werkstatt. Um 1800 gehört das Aussenland zu den am dichtesten besiedelten und gewerblich durchdrungensten Landschaften Europas, ein Bauernkanton, der keiner mehr ist.
 
 ## Stage
 
@@ -38,4 +38,4 @@ Leinwand zuerst, dann feine Baumwolle, zuletzt die mörderische Stickerei: Das G
 
 ## Tension
 
-Wohlstand ohne den geringsten Boden der Sicherheit. Die Heimarbeit macht niemanden zum geschützten Fabrikarbeiter und lässt niemanden ein freier Bauer bleiben, sondern degradiert die Menschen zu beidem und zu keinem: scheinbar frei in der Einteilung des Tages, aber existenziell und verschuldet abhängig von einem anonymen Weltmarkt, den man nie zu Gesicht bekommt. Der Kanton lernt in diesen Jahrzehnten, in nie gekanntem Reichtum zu leben, und weigert sich fatalerweise zu lernen, wie man sich gegen den nahenden Absturz absichert.
+Wohlstand ohne Sicherheit. Die Heimarbeit macht niemanden zum Fabrikarbeiter und niemanden zum Bauern, sondern zu beidem und keinem: frei in der Einteilung des Tages, vollständig abhängig von einem Markt, den man nie zu Gesicht bekommt. Der Kanton lernt, gut zu leben, und lernt nicht, sich abzusichern.

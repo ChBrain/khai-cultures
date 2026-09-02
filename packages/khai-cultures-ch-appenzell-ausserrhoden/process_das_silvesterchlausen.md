@@ -22,16 +22,16 @@ Der Jahreswechsel, zweimal begangen.
 
 ## Initiated by
 
-Der absoluten Dunkelheit des 31. Dezember, und dann noch einmal der Kälte des 13. Januar – dem Silvester des alten julianischen Kalenders, den das starrsinnige Hinterland bis heute nie aufgegeben hat. Ein Trotz gegen die päpstliche Zeitrechnung, der zur eigenen, rauen Zeitrechnung wurde.
+Der Dunkelheit des 31. Dezember, und dann noch einmal der des 13. Januar - dem Silvester des alten Kalenders, den das Hinterland nie aufgegeben hat: ein Trotz gegen die päpstliche Zeitrechnung, der zur eigenen wurde.
 
 ## Direction
 
-Noch vor dem ersten Tagesanbruch ziehen die "Schuppel" los, verschworene Gruppen von sechs Männern: die Schönen mit den glitzernden, monströsen Hauben, die Wüsten in schwerem Tannreisig und feuchtem Moos, die Schö-Wüeschte als groteske Mischung dazwischen. Sie schleppen sich durch den Schnee von Hof zu Hof, durchbrechen die Stille mit dem ohrenbetäubenden Lärm ihrer Schellenglocken, treten in die engen Wohnstuben, zäuerlen ein uraltes, schwermütiges Naturjodel ohne Worte und ziehen ab. Sie bleiben vollkommen stumm, ausser im Gesang, und sie treiben diese körperliche Erschöpfung voran, bis in die tiefe, schwarze Nacht.
+Vor Tagesanbruch ziehen die Schuppel los, Gruppen von sechs Männern: die Schönen mit den gebauten Hauben, die Wüsten in Tannreisig und Moos, die Schö-Wüeschte dazwischen. Sie gehen von Hof zu Hof, schellen mit Roll- und Schellenglocken, treten in die Stube, zäuerlen ein Naturjodel ohne Worte und ziehen weiter. Sie bleiben stumm ausser im Gesang, und sie machen das den ganzen Tag, bis in die Nacht.
 
 ## Lever
 
-Die fanatische Beharrlichkeit. Niemand wird bezahlt, niemand fragt nach Publikum, niemand will gefilmt werden, und niemand hört auf, nur weil der Sturm schneidet. Ein archaischer Brauch, der bis heute zwei Termine hat, weil man sich vor vierhundert Jahren über einen Kalender nicht einigen wollte, behauptet damit in jedem Winter, dass das Einlenken niemals nötig war – ein radikaler Akt der Verweigerung.
+Die Beharrlichkeit. Niemand wird bezahlt, niemand wird gefilmt, wenn er nicht will, und niemand hört auf, weil es kalt ist. Ein Brauch, der zwei Termine hat, weil man sich vor vierhundert Jahren über einen Kalender nicht einigen konnte, behauptet damit jedes Jahr, dass die Einigung nicht nötig war.
 
 ## Echo
 
-Der einzige Tag, an dem ein Kanton ohne Zentrum plötzlich ein psychologisches Gravitationszentrum besitzt, und er hat es ausgerechnet in Urnäsch, einem abgeschiedenen Dorf mit gut zweitausend Seelen. Was am Ende bleibt, ist das Zäuerli in der Stube: wortlos, archaisch mehrstimmig, extrem nah – und für Zugereiste fast unaushaltbar, weil es keine rettende Bühne gibt, hinter der man sich verbergen könnte.
+Der einzige Tag, an dem ein Kanton ohne Zentrum ein Zentrum hat, und er hat es in Urnäsch, einem Dorf mit gut zweitausend Einwohnern. Was bleibt, ist das Zäuerli in der Stube: wortlos, mehrstimmig, sehr nah - und für Zugereiste kaum auszuhalten, weil es keine Bühne gibt, hinter der man sich hätte verstecken können.

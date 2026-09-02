@@ -19,11 +19,11 @@ stamp:
 
 ## Name
 
-Kanton Appenzell Ausserrhoden. ISO CH-AR, Sprache de. Der reformierte Halbkanton: ein zerrissenes Hufeisen aus Streusiedlungen, das sich klammernd um ein fremdes Herz legt und selbst keines mehr hat.
+Kanton Appenzell Ausserrhoden. ISO CH-AR, Sprache de. Der reformierte Halbkanton: ein Hufeisen aus Streusiedlungen, das sich um ein fremdes Herz legt und selbst keines hat.
 
 ## Arc
 
-Die gnadenlose Chronik einer Landschaft, die sich für die absolute Durchlässigkeit entschied und den seelischen Preis dafür bis heute zahlt. 1597 fiel beim hasserfüllten Bruch mit Innerrhoden das Aussenland an die Reformierten – die exponierten Rhoden hin zu den Strassen, den Märkten, dem Flachland. Was als Trauma des Zentrumsverlusts begann, wurde schnell in kaltes Vermögen umgemünzt: In den einsamen Stuben von Herisau, Teufen und Trogen entstand paradoxerweise eines der am dichtesten industrialisierten Gebiete Europas. Zuerst Leinwand, dann Baumwolle, zuletzt die auszehrende Handstickerei; ein Bauernkanton, in dem fast jeder isolierte Haushalt am Tropf des Weltmarkts hing. Dann brach dieser Markt über Nacht weg. Nach 1920 raubte der Stickereikollaps dem Kanton die Lebensgrundlage und ein Viertel seiner Menschen; er hat seine schöpferische Wucht von damals nie wieder erreicht. 1997 gab Ausserrhoden schliesslich endgültig auf, was Innerrhoden bis heute zäh verteidigt: Die Landsgemeinde wurde abgeschafft, per Handmehr derer, die sie besassen. Heute ist es ein zersplitterter Kanton aus drei Landschaften, die einander fremd sind, mit einer müden Regierung in Herisau, einem strafenden Gericht in Trogen und einem Zentrum, das in St. Gallen liegt und jemand anderem gehört.
+Die Chronik einer Landschaft, die sich für die Durchlässigkeit entschied und den Preis dafür bis heute zahlt. 1597 fiel beim Bruch mit Innerrhoden das Aussenland an die Reformierten - die Rhoden an den Strassen, den Märkten, dem Flachland zu. Was als Verlust der Mitte begann, wurde zum Vermögen: In den Stuben von Herisau, Teufen und Trogen entstand eines der am dichtesten industrialisierten Gebiete Europas, Leinwand, Baumwolle, zuletzt die Handstickerei, ein Kanton, in dem fast jeder Haushalt für den Weltmarkt arbeitete. Dann brach der Weltmarkt weg. Nach 1920 nahm der Stickereizusammenbruch dem Kanton die Arbeit und ein Viertel seiner Menschen, und er hat seine Bevölkerung von damals nie wieder erreicht. 1997 gab Ausserrhoden ab, was Innerrhoden verteidigte: Die Landsgemeinde wurde abgeschafft, mit den Stimmen derer, die sie besassen. Heute ist es ein Kanton aus drei Landschaften, die einander kaum kennen, mit einer Regierung in Herisau, einem Gericht in Trogen und einem Zentrum, das in St. Gallen liegt und einem anderen Kanton gehört.
 
 ## Company
 
@@ -61,24 +61,24 @@ Die gnadenlose Chronik einer Landschaft, die sich für die absolute Durchlässig
 
 **[Plot 0: Die Landteilung 1597](plot_00_die_landteilung_1597.md)**
 
-Beim Bruch des alten Appenzell fällt den Reformierten das aufgerissene Aussenland zu: die Rhoden an den Strassen, ohne Hauptort und ohne Mitte.
+Beim Bruch des alten Appenzell fällt den Reformierten das Aussenland zu: die Rhoden an den Strassen, ohne Hauptort und ohne Mitte.
 
 **[Plot 1: Das Weberland](plot_01_das_weberland.md)**
 
-Die rücksichtslose Heimindustrie macht aus einem Bauernland eine unsichtbare Fabrik, in der jede Stube am seidenen Faden des Weltmarkts hängt.
+Die Heimindustrie macht aus einem Bauernland eine Fabrik ohne Fabrikgebäude, in der jede Stube am Weltmarkt hängt.
 
 **[Plot 2: Der Stickereikollaps](plot_02_der_stickereikollaps.md)**
 
-Nach 1920 bricht die globale Nachfrage ab. Der Kanton verliert seine Arbeit und ein Viertel seiner Menschen in die lautlose Abwanderung.
+Nach 1920 bricht die Nachfrage weg. Der Kanton verliert seine Arbeit und ein Viertel seiner Menschen, und holt beides nie zurück.
 
 **[Plot 3: Die letzte Landsgemeinde 1997](plot_03_die_letzte_landsgemeinde_1997.md)**
 
-Ausserrhoden schafft sein politisches Herz ab – nicht auf Befehl von aussen, sondern in einem Akt der Erschöpfung durch Handmehr derer, die auf dem Ring standen.
+Ausserrhoden schafft seine Landsgemeinde ab - nicht auf Befehl von aussen, sondern durch Handmehr derer, die auf dem Ring standen.
 
 **[Plot 99: Der Kanton ohne Mitte](plot_99_der_kanton_ohne_mitte.md)**
 
-Drei Landschaften, die einander fremd geworden sind, eine stempelnde Regierung in Herisau und ein städtisches Zentrum, das einem anderen Kanton gehört.
+Drei Landschaften, die einander fremd sind, eine Regierung in Herisau und ein Zentrum, das in einem anderen Kanton liegt.
 
 ## Stakes
 
-Was bleibt am Ende von einer Gemeinschaft, die im Namen des Fortschritts jede ihrer Grenzen freiwillig geöffnet hat – die Konfession dem Handel, die Stube dem Weltmarkt, den Ring der geheimen Urne? Ausserrhoden hat nie etwas verbarrikadiert, was Innerrhoden verteidigte, und ist doch aus demselben Holz geschnitzt. Ist diese radikale Offenheit das Erwachsenwerden eines Kantons, der sich mutig der Wirklichkeit stellte, oder ist sie die bittere Chronik einer Auflösung, an deren Ende eine leere Verwaltung ohne Volk steht?
+Was bleibt von einer Gemeinschaft, die jede ihrer Grenzen freiwillig geöffnet hat - die Konfession dem Handel, die Stube dem Weltmarkt, den Ring der Urne? Ausserrhoden hat nie etwas verteidigt, was Innerrhoden verteidigte, und ist doch dasselbe Land. Ist die Offenheit das Erwachsenwerden eines Kantons, der sich der Wirklichkeit stellte, oder die Chronik einer Auflösung, an deren Ende eine Verwaltung ohne Volk steht?
