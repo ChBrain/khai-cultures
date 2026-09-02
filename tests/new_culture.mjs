@@ -191,6 +191,37 @@ ${parent ? `- The culture-position nests on \`@chbrain/khai-cultures-${parent.re
   );
   console.log(`  instructions playwright_instructions.md`);
 
+  // A culture carries its own README and REFERENCES, like a play, and
+  // `tests/house.test.mjs` fails the culture without them. Two cultures reached
+  // a pull request missing one each, both found by the gate rather than by the
+  // author, so the scaffold writes them instead of leaving them to memory.
+  writeFileSync(
+    join(dir, "README.md"),
+    `# ${id}\n\nThis package stages ${Title} for the khai content house.\n`,
+  );
+  // REFERENCES is where the defining question is answered and where a decision
+  // to leave something unstaged is recorded, so the file arrives asking for
+  // both rather than as an empty heading.
+  writeFileSync(
+    join(dir, "REFERENCES.md"),
+    `# References
+
+This is a creative staging; sources are generic historical encyclopedias (e.g. HLS).
+
+## The defining question
+
+TODO: answer it here, and delete this line.
+
+**What defines ${Title}, and does the play stage it?** Coverage is a counter and
+cannot tell you whether a play is true. Take the words the play uses about itself
+in its Arc, Name, Stakes and pitch, and ask which of them appear in a plot.
+
+Record what is deliberately NOT staged, and why, so the next hand argues with a
+reason instead of asking the question again.
+`,
+  );
+  console.log(`  front matter README.md, REFERENCES.md`);
+
   // The umbrella keeps the reference or the culture is unreachable to installers.
   const up = join(root, "packages/khai-cultures/package.json");
   const u = JSON.parse(readFileSync(up, "utf8"));
@@ -224,14 +255,23 @@ for (const a of adds) {
 }
 
 const have = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith(".md")) : [];
+const count = (p) => have.filter((f) => f.startsWith(p)).length;
 const need = [];
+// What `tests/house.test.mjs` requires of a culture, asked here instead of two
+// gate runs later. It listed four things while the gate checks nine, so a
+// scaffold could look complete and fail on a missing type or a third plot.
+for (const t of ["pitch_", "position_", "place_", "process_", "piece_"])
+  if (!count(t)) need.push(`at least one ${t}*.md (--add ${t.slice(0, -1)}:<name>)`);
 if (!have.some((f) => f.startsWith("position_culture_")))
   need.push("a culture-position (--add position:culture_<name>), nesting its parent's");
 if (!have.some((f) => f.startsWith("plot_00")))
   need.push("a plot_00: the origin, not the founding (see orders/order_plot_zero.md)");
 if (!have.some((f) => f.startsWith("plot_99"))) need.push("a plot_99: the present");
-if (!have.some((f) => f.startsWith("persona_")))
-  need.push("personas, each holding a position and linking a tongue with a grip on it");
+if (count("plot_") < 3) need.push(`at least three plots, the history; you have ${count("plot_")}`);
+if (count("persona_") < 2)
+  need.push(
+    `at least two personas, each holding a position and linking a tongue with a grip on it; you have ${count("persona_")}`,
+  );
 
 console.log(`\nEvery file above is the canon's own template, prose and all. Replace the
 prose: unedited, it reads as a placeholder and khai-staging says so.`);
