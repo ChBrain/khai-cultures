@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.313.0",
+  "version": "0.314.0",
   "cultures": [
     {
       "kind": "culture",
@@ -6430,6 +6430,125 @@
         }
       ],
       "package": "@chbrain/khai-cultures-ch-geneva"
+    },
+    {
+      "kind": "culture",
+      "id": "ch_glarus",
+      "title": "Glarus",
+      "description": "Glarus: ein Tal, das 1388 Habsburg schlug und seither jedes Jahr darüber abstimmt, wer es ist.",
+      "iso": "CH-GL",
+      "members": [
+        {
+          "file": "persona_der_auswanderer.md",
+          "kind": "persona",
+          "title": "Persona: Der Auswanderer",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_der_textilfabrikant.md",
+          "kind": "persona",
+          "title": "Persona: Der Textilfabrikant",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_die_glarnerin.md",
+          "kind": "persona",
+          "title": "Persona: Die Glarnerin",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_das_glarner_tuechli.md",
+          "kind": "piece",
+          "title": "Piece: Das Glarner Tüechli"
+        },
+        {
+          "file": "piece_der_schabziger.md",
+          "kind": "piece",
+          "title": "Piece: Der Schabziger"
+        },
+        {
+          "file": "pitch_glarus.md",
+          "kind": "pitch",
+          "title": "Pitch: die Glarner Tonart"
+        },
+        {
+          "file": "place_das_schlachtfeld_naefels.md",
+          "kind": "place",
+          "title": "Place: Das Schlachtfeld Näfels"
+        },
+        {
+          "file": "place_der_kloentalersee.md",
+          "kind": "place",
+          "title": "Place: Der Klöntalersee"
+        },
+        {
+          "file": "place_der_zaunplatz.md",
+          "kind": "place",
+          "title": "Place: Der Zaunplatz"
+        },
+        {
+          "file": "play_glarus.md",
+          "kind": "play",
+          "title": "Glarus"
+        },
+        {
+          "file": "plot_00_naefels_1388.md",
+          "kind": "plot",
+          "title": "Plot: Näfels 1388"
+        },
+        {
+          "file": "plot_01_die_zwei_landsgemeinden.md",
+          "kind": "plot",
+          "title": "Plot: Die zwei Landsgemeinden"
+        },
+        {
+          "file": "plot_02_der_zeugdruck.md",
+          "kind": "plot",
+          "title": "Plot: Der Zeugdruck"
+        },
+        {
+          "file": "plot_03_das_fabrikgesetz_1864.md",
+          "kind": "plot",
+          "title": "Plot: Das Fabrikgesetz 1864"
+        },
+        {
+          "file": "plot_04_die_gemeindefusion_2011.md",
+          "kind": "plot",
+          "title": "Plot: Die Gemeindefusion 2011"
+        },
+        {
+          "file": "plot_99_der_ring_haelt.md",
+          "kind": "plot",
+          "title": "Plot: Der Ring hält"
+        },
+        {
+          "file": "position_culture_die_glarner_kultur.md",
+          "kind": "position",
+          "title": "Position: Die Glarner Kultur",
+          "taxonomy": "position_culture_schweizer_kultur.md"
+        },
+        {
+          "file": "position_die_radikale_demokratie.md",
+          "kind": "position",
+          "title": "Position: Die radikale Demokratie"
+        },
+        {
+          "file": "position_die_zwei_konfessionen.md",
+          "kind": "position",
+          "title": "Position: Die zwei Konfessionen"
+        },
+        {
+          "file": "process_die_landsgemeinde.md",
+          "kind": "process",
+          "title": "Process: Die Landsgemeinde"
+        },
+        {
+          "file": "process_die_naefelser_fahrt.md",
+          "kind": "process",
+          "title": "Process: Die Näfelser Fahrt"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-ch-glarus"
     },
     {
       "kind": "culture",
