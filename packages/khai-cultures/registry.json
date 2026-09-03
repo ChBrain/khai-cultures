@@ -8,6 +8,10 @@
       "id": "afghanistan",
       "title": "Afghanistan",
       "description": "Afghanistan staged as a culture: the ancient crossroads of Asia, a land of poetry, mountains, and open doors.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/afghanistan"
+      },
       "iso": "AF",
       "members": [
         {
@@ -148,6 +152,10 @@
       "id": "alabama",
       "title": "Alabama",
       "description": "Alabama staged: the Heart of Dixie of civil rights boycotts, Huntsville space rockets, and Birmingham steel mills.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/alabama"
+      },
       "iso": "US-AL",
       "members": [
         {
@@ -255,6 +263,10 @@
       "id": "alaska",
       "title": "Alaska",
       "description": "Alaska staged: the Last Frontier State of Prudhoe Bay pipelines, Inupiat whale hunts, and glaciated marine fjords.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/alaska"
+      },
       "iso": "US-AK",
       "members": [
         {
@@ -362,6 +374,10 @@
       "id": "albania",
       "title": "Albania",
       "description": "Albania staged as a culture: a tongue kin to none, a sworn word, a nation above creed, scattered and rising.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/albania"
+      },
       "iso": "AL",
       "members": [
         {
@@ -492,6 +508,10 @@
       "id": "algeria",
       "title": "Algeria",
       "description": "Algeria staged as a culture: the largest land in Africa, Amazigh root and Arab branch, desert, dignity, and song.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/algeria"
+      },
       "iso": "DZ",
       "members": [
         {
@@ -632,6 +652,10 @@
       "id": "andorra",
       "title": "Andorra",
       "description": "Andorra posada en escena: el coprincipat dels Pirineus, tancat entre muntanyes, definit per la seva neutralitat.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/andorra"
+      },
       "iso": "AD",
       "members": [
         {
@@ -734,6 +758,10 @@
       "id": "angola",
       "title": "Angola",
       "description": "Angola staged as a culture: old kingdoms, great music, and a people of many tongues on the Atlantic.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/angola"
+      },
       "iso": "AO",
       "members": [
         {
@@ -874,6 +902,10 @@
       "id": "antigua_and_barbuda",
       "title": "Antigua and Barbuda",
       "description": "Two small islands that turned a sugar colony's chains into a free nation with a wide reach.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/antigua_and_barbuda"
+      },
       "iso": "AG",
       "members": [
         {
@@ -1014,6 +1046,10 @@
       "id": "argentina",
       "title": "Argentina",
       "description": "A nation of immigrants and passion, haunted by a greatness it once held and lost.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/argentina"
+      },
       "iso": "AR",
       "members": [
         {
@@ -1154,6 +1190,10 @@
       "id": "arizona",
       "title": "Arizona",
       "description": "Arizona staged: the Grand Canyon State of desert resilience, Navajo code talkers, and copper mining boomtowns.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/arizona"
+      },
       "iso": "US-AZ",
       "members": [
         {
@@ -1261,6 +1301,10 @@
       "id": "arkansas",
       "title": "Arkansas",
       "description": "Arkansas staged: the Natural State of Hot Springs bathhouses, Ozark mountain valleys, and Wal-Mart retail hubs.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/arkansas"
+      },
       "iso": "US-AR",
       "members": [
         {
@@ -1368,6 +1412,10 @@
       "id": "armenia",
       "title": "Armenia",
       "description": "An ancient highland nation kept by faith, the letter, and the mountain it cannot reach.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/armenia"
+      },
       "iso": "AM",
       "members": [
         {
@@ -1503,6 +1551,10 @@
       "id": "australia",
       "title": "Australia",
       "description": "A young nation on the oldest land, closing the gap between the fair go and its first peoples.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/australia"
+      },
       "iso": "AU",
       "members": [
         {
@@ -1643,6 +1695,10 @@
       "id": "austria",
       "title": "Austria",
       "description": "Austria staged as a culture: the same German tongue as its neighbour, in a softer, baroque, charming key.",
+      "source": {
+        "package": "@chbrain/khai-cultures-austria",
+        "path": ""
+      },
       "iso": "AT",
       "members": [
         {
@@ -1888,6 +1944,10 @@
       "id": "azerbaijan",
       "title": "Azerbaijan",
       "description": "Azerbaijan staged as a culture: the Land of Fire, where mugham, poetry, and the loom keep an ancient flame.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/azerbaijan"
+      },
       "iso": "AZ",
       "members": [
         {
@@ -2028,6 +2088,10 @@
       "id": "bahamas",
       "title": "The Bahamas",
       "description": "An archipelago of seven hundred islands, sharing the wealth of its sea and steering its own course.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/bahamas"
+      },
       "iso": "BS",
       "members": [
         {
@@ -2168,6 +2232,10 @@
       "id": "bahrain",
       "title": "Bahrain",
       "description": "Bahrain staged as a culture: ancient Dilmun, the two seas, and the pearl drawn from the deep.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/bahrain"
+      },
       "iso": "BH",
       "members": [
         {
@@ -2308,6 +2376,10 @@
       "id": "bangladesh",
       "title": "Bangladesh",
       "description": "Bangladesh staged as a culture: a delta of rivers and rice, born of the mother tongue.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/bangladesh"
+      },
       "iso": "BD",
       "members": [
         {
@@ -2443,6 +2515,10 @@
       "id": "barbados",
       "title": "Barbados",
       "description": "An island built on the plantation it pioneered, now a republic reckoning with its own creation.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/barbados"
+      },
       "iso": "BB",
       "members": [
         {
@@ -2583,6 +2659,10 @@
       "id": "basque_country",
       "title": "País Vasco",
       "description": "País Vasco representado: los astilleros del Nervión, la pelota vasca en el frontón y el euskera del caserío.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/basque_country"
+      },
       "iso": "ES-PV",
       "members": [
         {
@@ -2695,6 +2775,10 @@
       "id": "belarus",
       "title": "Belarus",
       "description": "Belarus staged as a culture: a long-quiet nation whose chancery tongue, once an empire's, now wakes.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/belarus"
+      },
       "iso": "BY",
       "members": [
         {
@@ -2830,6 +2914,10 @@
       "id": "belgium",
       "title": "Belgium",
       "description": "Belgium staged as a culture: a country with no common tongue, held across its language border.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/belgium"
+      },
       "iso": "BE",
       "members": [
         {
@@ -2975,6 +3063,10 @@
       "id": "belize",
       "title": "Belize",
       "description": "A small, late-born, English-speaking nation holding its many peoples as one between forest and reef.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/belize"
+      },
       "iso": "BZ",
       "members": [
         {
@@ -3115,6 +3207,10 @@
       "id": "benin",
       "title": "Benin",
       "description": "Benin staged as a culture: berceau du Vodun et héritier d'Abomey, un pays qui se souvient debout.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/benin"
+      },
       "iso": "BJ",
       "members": [
         {
@@ -3255,6 +3351,10 @@
       "id": "bhutan",
       "title": "Bhutan",
       "description": "Bhutan staged as a culture: the Land of the Thunder Dragon, held by the dharma, the mountains, and happiness.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/bhutan"
+      },
       "iso": "BT",
       "members": [
         {
@@ -3395,6 +3495,10 @@
       "id": "bolivia",
       "title": "Bolivia",
       "description": "Bolivia escenificada como cultura: la nación más indígena de América, una y plural en lo alto de los Andes.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/bolivia"
+      },
       "iso": "BO",
       "members": [
         {
@@ -3535,6 +3639,10 @@
       "id": "bosnia",
       "title": "Bosnia and Herzegovina",
       "description": "Bosnia staged as a culture: the bridge between East and West, three peoples and one tongue, bound and divided.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/bosnia"
+      },
       "iso": "BA",
       "members": [
         {
@@ -3675,6 +3783,10 @@
       "id": "botswana",
       "title": "Botswana",
       "description": "Botswana staged as a culture: a quiet land of botho and the kgotla, of cattle and the desert that holds water.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/botswana"
+      },
       "iso": "BW",
       "members": [
         {
@@ -3810,6 +3922,10 @@
       "id": "brazil",
       "title": "Brazil",
       "description": "A continental nation of three peoples, the country of the future still arriving.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/brazil"
+      },
       "iso": "BR",
       "members": [
         {
@@ -3950,6 +4066,10 @@
       "id": "brunei",
       "title": "Brunei",
       "description": "Brunei staged as a culture: the abode of peace, an enduring sultanate on the river of Borneo.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/brunei"
+      },
       "iso": "BN",
       "members": [
         {
@@ -4085,6 +4205,10 @@
       "id": "bulgaria",
       "title": "Bulgaria",
       "description": "Bulgaria staged as a culture: the nation that gave the Slavs their alphabet and held through five centuries of yoke.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/bulgaria"
+      },
       "iso": "BG",
       "members": [
         {
@@ -4220,6 +4344,10 @@
       "id": "burkina_faso",
       "title": "Burkina Faso",
       "description": "The land of upright people staged as a culture: integrity, the old courts, and a cinema capital in the Sahel.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/burkina_faso"
+      },
       "iso": "BF",
       "members": [
         {
@@ -4357,6 +4485,10 @@
       "id": "burundi",
       "title": "Burundi",
       "description": "Burundi staged as a culture: the land of the sacred drum, the hills, the cattle, and one shared tongue.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/burundi"
+      },
       "iso": "BI",
       "members": [
         {
@@ -4492,6 +4624,10 @@
       "id": "california",
       "title": "California",
       "description": "California staged: the Golden State of gold rushes, Hollywood dreams, and Silicon Valley tech innovations.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/california"
+      },
       "iso": "US-CA",
       "members": [
         {
@@ -4599,6 +4735,10 @@
       "id": "cambodia",
       "title": "Cambodia",
       "description": "Cambodia staged as a culture: the heirs of Angkor, a people of the wat and the rice, enduring and renewed.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/cambodia"
+      },
       "iso": "KH",
       "members": [
         {
@@ -4739,6 +4879,10 @@
       "id": "cameroon",
       "title": "Cameroon",
       "description": "Cameroon staged as a culture: Africa in miniature, two tongues and a hundred peoples held as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/cameroon"
+      },
       "iso": "CM",
       "members": [
         {
@@ -4874,6 +5018,10 @@
       "id": "canada",
       "title": "Canada",
       "description": "Canada staged as a culture: a bilingual federation of two peoples and a mosaic, reckoning with its founding wrong.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/canada"
+      },
       "iso": "CA",
       "members": [
         {
@@ -5019,6 +5167,10 @@
       "id": "cape_verde",
       "title": "Cape Verde",
       "description": "Ten volcanic islands of sodade and morabeza, one creole people scattered across the sea.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/cape_verde"
+      },
       "iso": "CV",
       "members": [
         {
@@ -5164,6 +5316,10 @@
       "id": "castile_and_leon",
       "title": "Castilla y León",
       "description": "Castilla y León representada: los campos de trigo de la meseta, las murallas medievales y el pastoreo del Duero.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/castile_and_leon"
+      },
       "iso": "ES-CL",
       "members": [
         {
@@ -5271,6 +5427,10 @@
       "id": "castilla_la_mancha",
       "title": "Castilla-La Mancha",
       "description": "Castilla-La Mancha representada: los molinos de viento de Consuegra, las Tablas de Daimiel y la flor del azafrán.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/castilla_la_mancha"
+      },
       "iso": "ES-CM",
       "members": [
         {
@@ -5378,6 +5538,10 @@
       "id": "catalonia",
       "title": "Cataluña",
       "description": "Cataluña representada: la cuna del modernismo de Gaudí, los castells de la plaza y las viñas del Penedès.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/catalonia"
+      },
       "iso": "ES-CT",
       "members": [
         {
@@ -5485,6 +5649,10 @@
       "id": "central_african_republic",
       "title": "Central African Republic",
       "description": "A land of many peoples bound by Sango and the creed that every person is a person.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/central_african_republic"
+      },
       "iso": "CF",
       "members": [
         {
@@ -5620,6 +5788,10 @@
       "id": "ch_aargau",
       "title": "Aargau",
       "description": "Aargau staged as a culture: the ground the Habsburgs came from, taken, and made to carry what the country needs.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-aargau",
+        "path": ""
+      },
       "iso": "CH-AG",
       "members": [
         {
@@ -5744,6 +5916,10 @@
       "id": "ch_appenzell_ausserrhoden",
       "title": "Appenzell Ausserrhoden",
       "description": "Appenzell Ausserrhoden: Der reformierte Halbkanton, der sich der Welt öffnete und darüber seine Mitte verlor.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-appenzell-ausserrhoden",
+        "path": ""
+      },
       "iso": "CH-AR",
       "members": [
         {
@@ -5837,6 +6013,10 @@
       "id": "ch_appenzell_innerrhoden",
       "title": "Appenzell Innerrhoden",
       "description": "Appenzell Innerrhoden: The archaic rural democracy resisting modern national interference.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-appenzell-innerrhoden",
+        "path": ""
+      },
       "iso": "CH-AI",
       "members": [
         {
@@ -5929,6 +6109,10 @@
       "id": "ch_basel_landschaft",
       "title": "Basel-Landschaft",
       "description": "Basel-Landschaft: The rural hinterland that fought for independence, evolving into an affluent suburban belt.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-basel-landschaft",
+        "path": ""
+      },
       "iso": "CH-BL",
       "members": [
         {
@@ -6016,6 +6200,10 @@
       "id": "ch_basel_stadt",
       "title": "Basel-Stadt",
       "description": "Basel-Stadt: A humanist city-state at the border, balancing patrician tradition with its global life sciences industry.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-basel-stadt",
+        "path": ""
+      },
       "iso": "CH-BS",
       "members": [
         {
@@ -6119,6 +6307,10 @@
       "id": "ch_bern",
       "title": "Bern",
       "description": "Bern staged as a culture: a city built to a plan, which lost an empire and was handed a country's files.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-bern",
+        "path": ""
+      },
       "iso": "CH-BE",
       "members": [
         {
@@ -6242,6 +6434,10 @@
       "id": "ch_fribourg",
       "title": "Fribourg",
       "description": "Fribourg: The Catholic bastion that built an elite and now bridges the French-German linguistic divide.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-fribourg",
+        "path": ""
+      },
       "iso": "CH-FR",
       "members": [
         {
@@ -6334,6 +6530,10 @@
       "id": "ch_geneva",
       "title": "Genève",
       "description": "Genève: From a strict Calvinist republic to a global humanitarian and diplomatic hub.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-geneva",
+        "path": ""
+      },
       "iso": "CH-GE",
       "members": [
         {
@@ -6436,6 +6636,10 @@
       "id": "ch_glarus",
       "title": "Glarus",
       "description": "Glarus: ein Tal, das 1388 Habsburg schlug und seither jedes Jahr darüber abstimmt, wer es ist.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-glarus",
+        "path": ""
+      },
       "iso": "CH-GL",
       "members": [
         {
@@ -6555,6 +6759,10 @@
       "id": "ch_graubuenden",
       "title": "Graubünden",
       "description": "Graubünden staged as a culture: a hundred and fifty valleys that were never one country, and the price of that.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-graubuenden",
+        "path": ""
+      },
       "iso": "CH-GR",
       "members": [
         {
@@ -6684,6 +6892,10 @@
       "id": "ch_jura",
       "title": "Jura",
       "description": "Jura: The separatist struggle of a francophone people to break free from Bern and forge the youngest canton.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-jura",
+        "path": ""
+      },
       "iso": "CH-JU",
       "members": [
         {
@@ -6776,6 +6988,10 @@
       "id": "ch_luzern",
       "title": "Luzern",
       "description": "Lucerne staged as a culture: a place that began as a crossing and has been looked at ever since.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-luzern",
+        "path": ""
+      },
       "iso": "CH-LU",
       "members": [
         {
@@ -6887,6 +7103,10 @@
       "id": "ch_neuchatel",
       "title": "Neuchâtel",
       "description": "Neuchâtel: The watchmaking republic that threw off the Prussian crown to forge a secular and innovative identity.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-neuchatel",
+        "path": ""
+      },
       "iso": "CH-NE",
       "members": [
         {
@@ -6979,6 +7199,10 @@
       "id": "ch_nidwalden",
       "title": "Nidwalden",
       "description": "Nidwalden staged as a culture: the smallest half-canton, which has said no and paid for it.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-nidwalden",
+        "path": ""
+      },
       "iso": "CH-NW",
       "members": [
         {
@@ -7114,6 +7338,10 @@
       "id": "ch_obwalden",
       "title": "Obwalden",
       "description": "Obwalden staged as a culture: the half above the wood, which gave a country its founding story and kept the file copy.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-obwalden",
+        "path": ""
+      },
       "iso": "CH-OW",
       "members": [
         {
@@ -7242,6 +7470,10 @@
       "id": "ch_schaffhausen",
       "title": "Schaffhausen",
       "description": "Schaffhausen: der Kanton auf der falschen Seite seines eigenen Flusses.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-schaffhausen",
+        "path": ""
+      },
       "iso": "CH-SH",
       "members": [
         {
@@ -7351,6 +7583,10 @@
       "id": "ch_schwyz",
       "title": "Schwyz",
       "description": "Schwyz staged as a culture: the valley that gave a country its name and lost the say over it.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-schwyz",
+        "path": ""
+      },
       "iso": "CH-SZ",
       "members": [
         {
@@ -7474,6 +7710,10 @@
       "id": "ch_solothurn",
       "title": "Solothurn",
       "description": "Solothurn: der elfte Ort, der Sitz des französischen Gesandten, und der Bahnhof, an dem sich die Schweiz trifft.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-solothurn",
+        "path": ""
+      },
       "iso": "CH-SO",
       "members": [
         {
@@ -7589,6 +7829,10 @@
       "id": "ch_st_gallen",
       "title": "St. Gallen",
       "description": "Sankt Gallen: The ring canton that evolved from a monastic superpower to a booming, vulnerable textile empire.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-st-gallen",
+        "path": ""
+      },
       "iso": "CH-SG",
       "members": [
         {
@@ -7686,6 +7930,10 @@
       "id": "ch_thurgau",
       "title": "Thurgau",
       "description": "Thurgau: 338 Jahre Untertanenland, dann ein Kanton von fremder Hand, heute das Schlafzimmer von Zürich.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-thurgau",
+        "path": ""
+      },
       "iso": "CH-TG",
       "members": [
         {
@@ -7774,6 +8022,10 @@
       "id": "ch_ticino",
       "title": "Ticino",
       "description": "Ticino staged as a culture: Lombard by geography, Swiss by decision, and a subject land for three centuries.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-ticino",
+        "path": ""
+      },
       "iso": "CH-TI",
       "members": [
         {
@@ -7909,6 +8161,10 @@
       "id": "ch_uri",
       "title": "Uri",
       "description": "Uri staged as a culture: a valley that became a road, and now the road goes under it.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-uri",
+        "path": ""
+      },
       "iso": "CH-UR",
       "members": [
         {
@@ -8032,6 +8288,10 @@
       "id": "ch_vaud",
       "title": "Vaud",
       "description": "Vaud: The proud agricultural heart of the Romandie, balancing its lake riviera with deep wine-growing roots.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-vaud",
+        "path": ""
+      },
       "iso": "CH-VD",
       "members": [
         {
@@ -8139,6 +8399,10 @@
       "id": "ch_wallis",
       "title": "Wallis",
       "description": "Wallis staged as a culture: a valley too dry to farm that hung its water off the cliffs, and the mountain above it.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-wallis",
+        "path": ""
+      },
       "iso": "CH-VS",
       "members": [
         {
@@ -8267,6 +8531,10 @@
       "id": "ch_zuerich",
       "title": "Zürich",
       "description": "Zürich staged as a culture: a Roman toll post that never stopped earning on other people's goods.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-zuerich",
+        "path": ""
+      },
       "iso": "CH-ZH",
       "members": [
         {
@@ -8396,6 +8664,10 @@
       "id": "ch_zug",
       "title": "Zug",
       "description": "Zug: The transformation from a humble Catholic farming village to a hyper-wealthy commodity and crypto hub.",
+      "source": {
+        "package": "@chbrain/khai-cultures-ch-zug",
+        "path": ""
+      },
       "iso": "CH-ZG",
       "members": [
         {
@@ -8488,6 +8760,10 @@
       "id": "chad",
       "title": "Chad",
       "description": "Chad staged as a culture: one shore of many peoples, where Sahara and Sahel meet the green south.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/chad"
+      },
       "iso": "TD",
       "members": [
         {
@@ -8626,6 +8902,10 @@
       "id": "chile",
       "title": "Chile",
       "description": "A long sober land of poets between the Andes and the sea, reckoning with its memory.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/chile"
+      },
       "iso": "CL",
       "members": [
         {
@@ -8771,6 +9051,10 @@
       "id": "china",
       "title": "China",
       "description": "China staged as a culture: a civilization that has endured five thousand years, one writing binding the many.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/china"
+      },
       "iso": "CN",
       "members": [
         {
@@ -8916,6 +9200,10 @@
       "id": "colombia",
       "title": "Colombia",
       "description": "A land of magical realism and resilient joy, on the long road from its wound to peace.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/colombia"
+      },
       "iso": "CO",
       "members": [
         {
@@ -9056,6 +9344,10 @@
       "id": "colorado",
       "title": "Colorado",
       "description": "Colorado staged: the Centennial State of Pike's Peak gold rushes, Aspen ski booms, and Rocky Mountain parks.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/colorado"
+      },
       "iso": "US-CO",
       "members": [
         {
@@ -9163,6 +9455,10 @@
       "id": "comoros",
       "title": "Comoros",
       "description": "The Perfumed Islands staged as a culture: Islam, the sea, and the grand mariage that confers a man's place.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/comoros"
+      },
       "iso": "KM",
       "members": [
         {
@@ -9303,6 +9599,10 @@
       "id": "connecticut",
       "title": "Connecticut",
       "description": "Connecticut staged: the Constitution State of Yale gothic campuses, Groton shipyards, and Waterbury brass clocks.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/connecticut"
+      },
       "iso": "US-CT",
       "members": [
         {
@@ -9410,6 +9710,10 @@
       "id": "costa_rica",
       "title": "Costa Rica",
       "description": "Costa Rica en escena: una pequeña democracia sin ejercito que guarda su paz, su igualdad y su verde abundancia.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/costa_rica"
+      },
       "iso": "CR",
       "members": [
         {
@@ -9550,6 +9854,10 @@
       "id": "croatia",
       "title": "Croatia",
       "description": "Croatia staged as a culture: the Adriatic bulwark of Christendom, late to its own state.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/croatia"
+      },
       "iso": "HR",
       "members": [
         {
@@ -9680,6 +9988,10 @@
       "id": "cuba",
       "title": "Cuba",
       "description": "Cuba en escena: una isla de música y resistencia, partida entre dos orillas.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/cuba"
+      },
       "iso": "CU",
       "members": [
         {
@@ -9820,6 +10132,10 @@
       "id": "cyprus",
       "title": "Cyprus",
       "description": "Cyprus staged as a culture: an island crossroads, Greek and Turkish, split since 1974 and still unhealed.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/cyprus"
+      },
       "iso": "CY",
       "members": [
         {
@@ -9965,6 +10281,10 @@
       "id": "czechia",
       "title": "Czechia",
       "description": "Czechia staged as a culture: a small, skeptical, godless nation that survives by irony, not by heroics.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/czechia"
+      },
       "iso": "CZ",
       "members": [
         {
@@ -10095,6 +10415,10 @@
       "id": "de_baden_wuerttemberg",
       "title": "Baden-Württemberg",
       "description": "Baden-Württemberg inszeniert: die Heimat von Erfindern, geprägt von schwäbischem Fleiß und badischer Lebenslust.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-baden-wuerttemberg",
+        "path": ""
+      },
       "iso": "DE-BW",
       "members": [
         {
@@ -10258,6 +10582,10 @@
       "id": "de_bavaria",
       "title": "Bavaria",
       "description": "Bavaria staged as a culture: the Free State of mountains, beer, and high-tech innovation, defined by local pride.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-bavaria",
+        "path": ""
+      },
       "iso": "DE-BY",
       "members": [
         {
@@ -10433,6 +10761,10 @@
       "id": "de_berlin",
       "title": "Berlin",
       "description": "Berlin als Kultur inszeniert: die ehemals geteilte Metropole, geprägt von Freiheit, Techno und ständiger Neuerfindung.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-berlin",
+        "path": ""
+      },
       "iso": "DE-BE",
       "members": [
         {
@@ -10592,6 +10924,10 @@
       "id": "de_brandenburg",
       "title": "Brandenburg",
       "description": "Brandenburg inszeniert: das märkische Land um Berlin, geprägt von preußischer Geschichte, Wäldern und Solarenergie.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-brandenburg",
+        "path": ""
+      },
       "iso": "DE-BB",
       "members": [
         {
@@ -10695,6 +11031,10 @@
       "id": "de_bremen",
       "title": "Bremen",
       "description": "Bremen als Kultur inszeniert: die alte Hansestadt an der Weser, geprägt von Bürgerstolz, Seefahrt und Weltoffenheit.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-bremen",
+        "path": ""
+      },
       "iso": "DE-HB",
       "members": [
         {
@@ -10798,6 +11138,10 @@
       "id": "de_hamburg",
       "title": "Hamburg",
       "description": "Hamburg als Kultur inszeniert: die Freie und Hansestadt an der Elbe, geprägt von Kaufmannsstolz und Weltoffenheit.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-hamburg",
+        "path": ""
+      },
       "iso": "DE-HH",
       "members": [
         {
@@ -10956,6 +11300,10 @@
       "id": "de_hesse",
       "title": "Hesse",
       "description": "Hessen inszeniert: das demokratische Herz Deutschlands, geprägt von Frankfurt-Finanzen und Apfelweinkultur.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-hesse",
+        "path": ""
+      },
       "iso": "DE-HE",
       "members": [
         {
@@ -11091,6 +11439,10 @@
       "id": "de_lower_saxony",
       "title": "Niedersachsen",
       "description": "Niedersachsen inszeniert: das weite Land zwischen Küste und Harz, geprägt von Industrie und sturmfester Gelassenheit.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-lower-saxony",
+        "path": ""
+      },
       "iso": "DE-NI",
       "members": [
         {
@@ -11194,6 +11546,10 @@
       "id": "de_mecklenburg_western_pomerania",
       "title": "Mecklenburg-Vorpommern",
       "description": "Mecklenburg-Vorpommern inszeniert: das Land der Seen und Ostseeküste, geprägt von Hanse-Tradition und Naturschutz.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-mecklenburg-western-pomerania",
+        "path": ""
+      },
       "iso": "DE-MV",
       "members": [
         {
@@ -11297,6 +11653,10 @@
       "id": "de_north_rhine_westphalia",
       "title": "Nordrhein-Westfalen",
       "description": "NRW inszeniert: das einstige Kohle- und Stahlzentrum, geprägt von Kumpelmentalität, Strukturwandel und Karneval.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-north-rhine-westphalia",
+        "path": ""
+      },
       "iso": "DE-NW",
       "members": [
         {
@@ -11440,6 +11800,10 @@
       "id": "de_rhineland_palatinate",
       "title": "Rheinland-Pfalz",
       "description": "Rheinland-Pfalz inszeniert: das Land des Weins, geprägt von römischer Antike, Gutenberg-Erbe und Hambacher Freiheit.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-rhineland-palatinate",
+        "path": ""
+      },
       "iso": "DE-RP",
       "members": [
         {
@@ -11543,6 +11907,10 @@
       "id": "de_saarland",
       "title": "Saarland",
       "description": "Saarland inszeniert: das Grenzland zwischen Kohle, Stahl und Savoir-vivre, geprägt von französischer Nähe.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-saarland",
+        "path": ""
+      },
       "iso": "DE-SL",
       "members": [
         {
@@ -11646,6 +12014,10 @@
       "id": "de_saxony",
       "title": "Sachsen",
       "description": "Sachsen inszeniert: die Wiege deutscher Industrie, geprägt von Dresdner Barock, Erfindergeist und Bürgerprotest.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-saxony",
+        "path": ""
+      },
       "iso": "DE-SN",
       "members": [
         {
@@ -11776,6 +12148,10 @@
       "id": "de_saxony_anhalt",
       "title": "Sachsen-Anhalt",
       "description": "Sachsen-Anhalt inszeniert: das Land von Luther und Bauhaus, geprägt von Chemieparks und Magdeburger Börde.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-saxony-anhalt",
+        "path": ""
+      },
       "iso": "DE-ST",
       "members": [
         {
@@ -12000,6 +12376,10 @@
       "id": "de_schleswig_holstein",
       "title": "Schleswig-Holstein",
       "description": "Schleswig-Holstein staged as a culture: a land between the seas, steadied by few words and a high dyke.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-schleswig-holstein",
+        "path": ""
+      },
       "iso": "DE-SH",
       "members": [
         {
@@ -12181,6 +12561,10 @@
       "id": "de_thuringia",
       "title": "Thüringen",
       "description": "Thüringen inszeniert: das grüne Herz Deutschlands, geprägt von Weimarer Klassik, Jenaer Optik und Wartburg-Erbe.",
+      "source": {
+        "package": "@chbrain/khai-cultures-de-thuringia",
+        "path": ""
+      },
       "iso": "DE-TH",
       "members": [
         {
@@ -12284,6 +12668,10 @@
       "id": "delaware",
       "title": "Delaware",
       "description": "Delaware staged: the First State of corporate chancery courts, DuPont gunpowder mills, and constitutional history.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/delaware"
+      },
       "iso": "US-DE",
       "members": [
         {
@@ -12391,6 +12779,10 @@
       "id": "denmark",
       "title": "Denmark",
       "description": "Denmark staged as a culture: a flat, trusting land where no one stands above and the good-enough wins.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/denmark"
+      },
       "iso": "DK",
       "members": [
         {
@@ -12525,6 +12917,10 @@
       "id": "djibouti",
       "title": "Djibouti",
       "description": "Djibouti staged as a culture: two peoples, one threshold at the mouth of the Red Sea.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/djibouti"
+      },
       "iso": "DJ",
       "members": [
         {
@@ -12665,6 +13061,10 @@
       "id": "dominica",
       "title": "Dominica",
       "description": "The Nature Isle, last refuge of the Kalinago, a wild Creole nation rebuilding stronger after the storm.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/dominica"
+      },
       "iso": "DM",
       "members": [
         {
@@ -12805,6 +13205,10 @@
       "id": "dominican_republic",
       "title": "Dominican Republic",
       "description": "La cuna del Nuevo Mundo: memoria, una isla compartida y un pueblo de ritmo y resiliencia.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/dominican_republic"
+      },
       "iso": "DO",
       "members": [
         {
@@ -12945,6 +13349,10 @@
       "id": "dr_congo",
       "title": "Democratic Republic of the Congo",
       "description": "A subcontinent of a country, joined by its river and its music: Kinshasa la belle and the rumba.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/dr_congo"
+      },
       "iso": "CD",
       "members": [
         {
@@ -13085,6 +13493,10 @@
       "id": "ecuador",
       "title": "Ecuador",
       "description": "El Ecuador puesto en escena: un pequeño país plurinacional en la mitad del mundo, entre sierra y costa.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/ecuador"
+      },
       "iso": "EC",
       "members": [
         {
@@ -13225,6 +13637,10 @@
       "id": "egypt",
       "title": "Egypt",
       "description": "Egypt staged as a culture: the gift of the Nile, a deep civilization of faith, learning, and song.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/egypt"
+      },
       "iso": "EG",
       "members": [
         {
@@ -13360,6 +13776,10 @@
       "id": "el_salvador",
       "title": "El Salvador",
       "description": "El Salvador en escena: el país más pequeño del istmo, herido por su guerra y unido a sus hijos lejanos.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/el_salvador"
+      },
       "iso": "SV",
       "members": [
         {
@@ -13500,6 +13920,10 @@
       "id": "england",
       "title": "England",
       "description": "England staged as a culture: a green, ironic land of fair play, the amateur, and mustn't grumble.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/england"
+      },
       "iso": "GB-ENG",
       "members": [
         {
@@ -13632,6 +14056,10 @@
       "id": "equatorial_guinea",
       "title": "Equatorial Guinea",
       "description": "Africa's only Spanish-speaking nation, an island and a mainland bound into one across the Atlantic.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/equatorial_guinea"
+      },
       "iso": "GQ",
       "members": [
         {
@@ -13767,6 +14195,10 @@
       "id": "eritrea",
       "title": "Eritrea",
       "description": "Eritrea staged as a culture: nine peoples and two faiths, held as one by hard-won self-reliance.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/eritrea"
+      },
       "iso": "ER",
       "members": [
         {
@@ -13907,6 +14339,10 @@
       "id": "es_andalusia",
       "title": "Andalucía",
       "description": "Andalucía representada: los infinitos olivos de Jaén, el cante jondo del tablao y el orgullo del jornalero rural.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_andalusia"
+      },
       "iso": "ES-AN",
       "members": [
         {
@@ -14009,6 +14445,10 @@
       "id": "es_aragon",
       "title": "Aragón",
       "description": "Aragón representado: las cumbres del Pirineo, la jota en la plaza del Pilar y el pastoreo de las tierras secas.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_aragon"
+      },
       "iso": "ES-AR",
       "members": [
         {
@@ -14111,6 +14551,10 @@
       "id": "es_asturias",
       "title": "Asturias",
       "description": "Asturias representada: las cumbres de los Picos de Europa, el escanciado de sidra y las cuencas mineras de carbón.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_asturias"
+      },
       "iso": "ES-AS",
       "members": [
         {
@@ -14213,6 +14657,10 @@
       "id": "es_balearic_islands",
       "title": "Islas Baleares",
       "description": "Islas Baleares representada: las terrazas de la Tramuntana, la ensaimada de Palma y las praderas de Posidonia.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_balearic_islands"
+      },
       "iso": "ES-IB",
       "members": [
         {
@@ -14315,6 +14763,10 @@
       "id": "es_canary_islands",
       "title": "Islas Canarias",
       "description": "Islas Canarias representada: el pico del Teide, el silbo gomero entre barrancos y las plataneras del Atlántico.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_canary_islands"
+      },
       "iso": "ES-CN",
       "members": [
         {
@@ -14417,6 +14869,10 @@
       "id": "es_cantabria",
       "title": "Cantabria",
       "description": "Cantabria representada: las cuevas de Altamira, las marismas de Santoña y las verdes cabañas de los valles pasiegos.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_cantabria"
+      },
       "iso": "ES-CB",
       "members": [
         {
@@ -14519,6 +14975,10 @@
       "id": "es_ceuta",
       "title": "Ceuta",
       "description": "Ceuta representada: el monte Hacho sobre el Estrecho, las Murallas Reales y el pulso diario de la frontera.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_ceuta"
+      },
       "iso": "ES-CE",
       "members": [
         {
@@ -14616,6 +15076,10 @@
       "id": "es_melilla",
       "title": "Melilla",
       "description": "Melilla representada: la ciudadela sobre el mar de Alborán, el ensanche modernista y la raya de Beni Enzar.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/es_melilla"
+      },
       "iso": "ES-ML",
       "members": [
         {
@@ -14713,6 +15177,10 @@
       "id": "estonia",
       "title": "Estonia",
       "description": "Estonia staged as a culture: a small Finnic nation, long ruled by others, reborn through song and code.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/estonia"
+      },
       "iso": "EE",
       "members": [
         {
@@ -14848,6 +15316,10 @@
       "id": "eswatini",
       "title": "Eswatini",
       "description": "Eswatini staged as a culture: a living kingdom of reed and first fruits, the nation and its king as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/eswatini"
+      },
       "iso": "SZ",
       "members": [
         {
@@ -14988,6 +15460,10 @@
       "id": "ethiopia",
       "title": "Ethiopia",
       "description": "Ethiopia staged as a culture: an ancient, never-conquered land of faith, coffee, and many peoples as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/ethiopia"
+      },
       "iso": "ET",
       "members": [
         {
@@ -15128,6 +15604,10 @@
       "id": "extremadura",
       "title": "Extremadura",
       "description": "Extremadura representada: los encinares de la dehesa, los secanos de la frontera y los pimientos de La Vera.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/extremadura"
+      },
       "iso": "ES-EX",
       "members": [
         {
@@ -15235,6 +15715,10 @@
       "id": "faroe_islands",
       "title": "Faroe Islands",
       "description": "A green archipelago in the North Atlantic that made a nation of its language and its sea.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/faroe_islands"
+      },
       "iso": "FO",
       "members": [
         {
@@ -15353,6 +15837,10 @@
       "id": "fiji",
       "title": "Fiji",
       "description": "Na lewe rua e tiko e dua na vanua: na iTaukei kei na kai Idia, e dua na Viti.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/fiji"
+      },
       "iso": "FJ",
       "members": [
         {
@@ -15493,6 +15981,10 @@
       "id": "finland",
       "title": "Finland",
       "description": "Finland staged as a culture: a quiet, hardy land of forest and lake where sisu, equality, and trust hold it together.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/finland"
+      },
       "iso": "FI",
       "members": [
         {
@@ -15638,6 +16130,10 @@
       "id": "florida",
       "title": "Florida",
       "description": "Florida staged: the Sunshine State of Spanish fortresses, tourism booms, Everglades airboats, and Cape Canaveral.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/florida"
+      },
       "iso": "US-FL",
       "members": [
         {
@@ -15745,6 +16241,10 @@
       "id": "fr_corsica",
       "title": "Corsica",
       "description": "Corsica: l'isula chì hè stata una republica prima d'esse un dipartimentu, è chì ùn hà mai cunsentitu.",
+      "source": {
+        "package": "@chbrain/khai-cultures-fr-corsica",
+        "path": ""
+      },
       "iso": "FR-20R",
       "members": [
         {
@@ -15865,6 +16365,10 @@
       "id": "france",
       "title": "France",
       "description": "France staged as a culture: a republic of ideas and grandeur, where the state, laicite and the art de vivre meet.",
+      "source": {
+        "package": "@chbrain/khai-cultures-france",
+        "path": ""
+      },
       "iso": "FR",
       "members": [
         {
@@ -16030,6 +16534,10 @@
       "id": "gabon",
       "title": "Gabon",
       "description": "Le Gabon mis en scene comme culture: un peuple petit sous une grande foret au bord de l'ocean.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/gabon"
+      },
       "iso": "GA",
       "members": [
         {
@@ -16170,6 +16678,10 @@
       "id": "galicia",
       "title": "Galicia",
       "description": "Galicia representada: las rías pesqueras del Atlántico, el sonido de la gaita y la morriña del emigrante rural.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/galicia"
+      },
       "iso": "ES-GA",
       "members": [
         {
@@ -16277,6 +16789,10 @@
       "id": "gambia",
       "title": "The Gambia",
       "description": "A nation shaped by its river, held by the jali's word and the warmth of teranga.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/gambia"
+      },
       "iso": "GM",
       "members": [
         {
@@ -16417,6 +16933,10 @@
       "id": "georgia",
       "title": "Georgia",
       "description": "Georgia staged as a culture: an ancient Christian land of mountains, wine, song, and the sacred guest.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/georgia"
+      },
       "iso": "GE",
       "members": [
         {
@@ -16547,6 +17067,10 @@
       "id": "georgia_us",
       "title": "Georgia",
       "description": "Georgia staged: the Peach State of Savannah plans, cotton plantation kingdoms, and Atlanta civil rights pulpits.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/georgia_us"
+      },
       "iso": "US-GA",
       "members": [
         {
@@ -16654,6 +17178,10 @@
       "id": "germany",
       "title": "Germany",
       "description": "Germany staged as a culture: the correct way found by competence, said plainly, kept across a long memory.",
+      "source": {
+        "package": "@chbrain/khai-cultures-germany",
+        "path": ""
+      },
       "iso": "DE",
       "members": [
         {
@@ -16894,6 +17422,10 @@
       "id": "ghana",
       "title": "Ghana",
       "description": "Ghana staged as a culture: the Black Star, warm with akwaaba, holding chieftaincy and the proverb.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/ghana"
+      },
       "iso": "GH",
       "members": [
         {
@@ -17034,6 +17566,10 @@
       "id": "greece",
       "title": "Greece",
       "description": "Greece staged as a culture: the oldest living European tongue, carried three thousand years through every empire.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/greece"
+      },
       "iso": "GR",
       "members": [
         {
@@ -17169,6 +17705,10 @@
       "id": "greenland",
       "title": "Kalaallit Nunaat",
       "description": "Kalaallit Nunaat staged: the Arctic island of ice, hunting heritage, and the journey toward self-government.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/greenland"
+      },
       "iso": "GL",
       "members": [
         {
@@ -17260,6 +17800,10 @@
       "id": "grenada",
       "title": "Grenada",
       "description": "The Spice Isle, healing the memory of its revolution and carrying a small nation forward as one people.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/grenada"
+      },
       "iso": "GD",
       "members": [
         {
@@ -17400,6 +17944,10 @@
       "id": "guatemala",
       "title": "Guatemala",
       "description": "Guatemala como cultura: el corazón vivo del mundo maya y un país de muchos pueblos por reconciliar.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/guatemala"
+      },
       "iso": "GT",
       "members": [
         {
@@ -17540,6 +18088,10 @@
       "id": "guinea",
       "title": "Guinea",
       "description": "Guinea staged as a culture: the heartland of old Mali, the water tower of West Africa, the country that said no.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/guinea"
+      },
       "iso": "GN",
       "members": [
         {
@@ -17680,6 +18232,10 @@
       "id": "guinea_bissau",
       "title": "Guinea-Bissau",
       "description": "Guinea-Bissau staged as a culture: many peoples bound by Kriol, the sacred Bijagos, and the cashew harvest.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/guinea_bissau"
+      },
       "iso": "GW",
       "members": [
         {
@@ -17825,6 +18381,10 @@
       "id": "guyana",
       "title": "Guyana",
       "description": "One plural nation of many peoples and rivers, healing its divide and stewarding a sudden windfall.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/guyana"
+      },
       "iso": "GY",
       "members": [
         {
@@ -17965,6 +18525,10 @@
       "id": "haiti",
       "title": "Haiti",
       "description": "Premye repiblik nwa a, ki te libere tet li, kanpe ak fyete sou chimen diyite.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/haiti"
+      },
       "iso": "HT",
       "members": [
         {
@@ -18105,6 +18669,10 @@
       "id": "hawaii",
       "title": "Hawaii",
       "description": "Hawaii staged: the Aloha State of Polynesian voyaging canoes, kingdom overthrows, and Pearl Harbor memorials.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/hawaii"
+      },
       "iso": "US-HI",
       "members": [
         {
@@ -18212,6 +18780,10 @@
       "id": "holy_see",
       "title": "Holy See",
       "description": "Sancta Sedes in scaenam producta: minima civitas vaticana, apostolica auctoritas, et linguae latinae monumentum.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/holy_see"
+      },
       "iso": "VA",
       "members": [
         {
@@ -18314,6 +18886,10 @@
       "id": "honduras",
       "title": "Honduras",
       "description": "Honduras puesta en escena: una nación moldeada desde fuera que busca su soberanía y su dignidad.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/honduras"
+      },
       "iso": "HN",
       "members": [
         {
@@ -18454,6 +19030,10 @@
       "id": "hong_kong",
       "title": "Hong Kong",
       "description": "A barren rock made the harbour where East meets West, a borrowed place that grew a city and a people all its own.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/hong_kong"
+      },
       "iso": "HK",
       "members": [
         {
@@ -18600,6 +19180,10 @@
       "id": "hungary",
       "title": "Hungary",
       "description": "Hungary staged as a culture: a people alone in Europe, bound by a kinless tongue, a wound, and doomed defiance.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/hungary"
+      },
       "iso": "HU",
       "members": [
         {
@@ -18730,6 +19314,10 @@
       "id": "iceland",
       "title": "Iceland",
       "description": "Iceland staged as a culture: a small, tough island nation that trusts it will sort itself out and lets none stand above.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/iceland"
+      },
       "iso": "IS",
       "members": [
         {
@@ -18863,6 +19451,10 @@
       "id": "idaho",
       "title": "Idaho",
       "description": "Idaho staged: the Gem State of Snake River irrigation canals, Sun Valley ski slopes, and Nez Perce tribal heritage.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/idaho"
+      },
       "iso": "US-ID",
       "members": [
         {
@@ -18970,6 +19562,10 @@
       "id": "illinois",
       "title": "Illinois",
       "description": "Illinois staged: the Prairie State of Lincoln's home, rebuilding fires, skyscraper loops, and vast cornfields.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/illinois"
+      },
       "iso": "US-IL",
       "members": [
         {
@@ -19077,6 +19673,10 @@
       "id": "india",
       "title": "India",
       "description": "An ancient and living civilization, many languages and faiths held as one: unity in diversity.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/india"
+      },
       "iso": "IN",
       "members": [
         {
@@ -19217,6 +19817,10 @@
       "id": "indiana",
       "title": "Indiana",
       "description": "Indiana staged: the Hoosier State of Indy 500 racing speedways, Bedford limestone quarries, and agricultural fields.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/indiana"
+      },
       "iso": "US-IN",
       "members": [
         {
@@ -19324,6 +19928,10 @@
       "id": "indonesia",
       "title": "Indonesia",
       "description": "An archipelago of thousands of islands made one nation by a chosen tongue and a shared creed.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/indonesia"
+      },
       "iso": "ID",
       "members": [
         {
@@ -19469,6 +20077,10 @@
       "id": "iowa",
       "title": "Iowa",
       "description": "Iowa staged: the Hawkeye State of corn hybridization, Writers' Workshop seminars, and Iowa State Fair contests.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/iowa"
+      },
       "iso": "US-IA",
       "members": [
         {
@@ -19576,6 +20188,10 @@
       "id": "iran",
       "title": "Iran",
       "description": "Iran staged as a culture: an ancient civilization that kept its tongue, its poets, and its spring.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/iran"
+      },
       "iso": "IR",
       "members": [
         {
@@ -19711,6 +20327,10 @@
       "id": "iraq",
       "title": "Iraq",
       "description": "Mesopotamia, the cradle of writing and cities, staged from Babylon to Baghdad between two rivers.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/iraq"
+      },
       "iso": "IQ",
       "members": [
         {
@@ -19846,6 +20466,10 @@
       "id": "ireland",
       "title": "Ireland",
       "description": "Ireland staged as a culture: a nation that reveres a first language it barely speaks and lives in English.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/ireland"
+      },
       "iso": "IE",
       "members": [
         {
@@ -19986,6 +20610,10 @@
       "id": "israel",
       "title": "Israel",
       "description": "Israel staged as a culture: an ancient people of the book that brought its sacred tongue back to daily life.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/israel"
+      },
       "iso": "IL",
       "members": [
         {
@@ -20121,6 +20749,10 @@
       "id": "italy",
       "title": "Italy",
       "description": "Italy staged as a culture: a civilization before a state, its national tongue laid late over a peninsula of dialects.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/italy"
+      },
       "iso": "IT",
       "members": [
         {
@@ -20275,6 +20907,10 @@
       "id": "ivory_coast",
       "title": "Cote d'Ivoire",
       "description": "Cote d'Ivoire staged as a culture: a land of mixed peoples and faiths, cocoa, and the joy that refuses to break.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/ivory_coast"
+      },
       "iso": "CI",
       "members": [
         {
@@ -20416,6 +21052,10 @@
       "id": "jamaica",
       "title": "Jamaica",
       "description": "A small island that became a global cultural superpower, likkle but tallawah.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/jamaica"
+      },
       "iso": "JM",
       "members": [
         {
@@ -20551,6 +21191,10 @@
       "id": "japan",
       "title": "Japan",
       "description": "An island country of four seasons and long continuity, forever joining the old way and the new.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/japan"
+      },
       "iso": "JP",
       "members": [
         {
@@ -20691,6 +21335,10 @@
       "id": "jordan",
       "title": "Jordan",
       "description": "Jordan staged as a culture: a land of carved rock and open desert, where the guest is sacred and the table is shared.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/jordan"
+      },
       "iso": "JO",
       "members": [
         {
@@ -20831,6 +21479,10 @@
       "id": "kansas",
       "title": "Kansas",
       "description": "Kansas staged: the Sunflower State of Wichita aviation hangars, winter wheat fields, and Bleeding Kansas history.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kansas"
+      },
       "iso": "US-KS",
       "members": [
         {
@@ -20938,6 +21590,10 @@
       "id": "kazakhstan",
       "title": "Kazakhstan",
       "description": "Kazakhstan staged as a culture: the boundless steppe, the nomad's word, and a young nation reaching for the stars.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kazakhstan"
+      },
       "iso": "KZ",
       "members": [
         {
@@ -21073,6 +21729,10 @@
       "id": "kentucky",
       "title": "Kentucky",
       "description": "Kentucky staged: the Bluegrass State of Churchill Downs horse races, Appalachian coal mines, and Bourbon distilleries.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kentucky"
+      },
       "iso": "US-KY",
       "members": [
         {
@@ -21180,6 +21840,10 @@
       "id": "kenya",
       "title": "Kenya",
       "description": "Kenya staged as a culture: many peoples pulling together as one, under Kiswahili and harambee.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kenya"
+      },
       "iso": "KE",
       "members": [
         {
@@ -21315,6 +21979,10 @@
       "id": "kiribati",
       "title": "Kiribati",
       "description": "Te botanaomata n Mikronesia i aon abamwakoro aika a uarereke, e tei imwain te taari ae e a rake.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kiribati"
+      },
       "iso": "KI",
       "members": [
         {
@@ -21455,6 +22123,10 @@
       "id": "kosovo",
       "title": "Kosovo",
       "description": "Kosova e vënë në skenë: republika e re e Ballkanit, mes qëndresës, besës, këngës dhe ndërtimit të shtetit.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kosovo"
+      },
       "iso": "XK",
       "members": [
         {
@@ -21557,6 +22229,10 @@
       "id": "kuwait",
       "title": "Kuwait",
       "description": "Kuwait staged as a culture: a seafaring people of the dhow and the pearl, the desert and the diwaniya.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kuwait"
+      },
       "iso": "KW",
       "members": [
         {
@@ -21697,6 +22373,10 @@
       "id": "kyrgyzstan",
       "title": "Kyrgyzstan",
       "description": "Kyrgyzstan staged as a culture: a land of high mountains, the nomad, and the longest of all epics.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/kyrgyzstan"
+      },
       "iso": "KG",
       "members": [
         {
@@ -21837,6 +22517,10 @@
       "id": "la_rioja",
       "title": "La Rioja",
       "description": "La Rioja representada: las vides del Ebro, los monasterios de San Millán y las conservas vegetales de Calahorra.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/la_rioja"
+      },
       "iso": "ES-RI",
       "members": [
         {
@@ -21944,6 +22628,10 @@
       "id": "laos",
       "title": "Laos",
       "description": "Laos staged as a culture: the land of the wat, the river, and the unhurried heart of sticky rice.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/laos"
+      },
       "iso": "LA",
       "members": [
         {
@@ -22084,6 +22772,10 @@
       "id": "latvia",
       "title": "Latvia",
       "description": "Latvia staged as a culture: a peasant nation under foreign lords that sang itself into being and freedom.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/latvia"
+      },
       "iso": "LV",
       "members": [
         {
@@ -22219,6 +22911,10 @@
       "id": "lebanon",
       "title": "Lebanon",
       "description": "Lebanon staged as a culture: the cedars and the sea, an ancient mosaic that turned hardship into song.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/lebanon"
+      },
       "iso": "LB",
       "members": [
         {
@@ -22359,6 +23055,10 @@
       "id": "lesotho",
       "title": "Lesotho",
       "description": "Lesotho staged as a culture: the Mountain Kingdom in the sky, gathered by Moshoeshoe and held by the blanket.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/lesotho"
+      },
       "iso": "LS",
       "members": [
         {
@@ -22499,6 +23199,10 @@
       "id": "liberia",
       "title": "Liberia",
       "description": "Liberia staged as a culture: one nation made of two heritages under the love of liberty.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/liberia"
+      },
       "iso": "LR",
       "members": [
         {
@@ -22639,6 +23343,10 @@
       "id": "libya",
       "title": "Libya",
       "description": "Libya staged as a culture: a great desert nation between the sea and the deep Sahara, ancient and hospitable.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/libya"
+      },
       "iso": "LY",
       "members": [
         {
@@ -22779,6 +23487,10 @@
       "id": "liechtenstein",
       "title": "Liechtenstein",
       "description": "Liechtenstein als Kultur inszeniert: das souveräne Fürstentum im Rheintal, geprägt von Alpen und Finanzplatz.",
+      "source": {
+        "package": "@chbrain/khai-cultures-liechtenstein",
+        "path": ""
+      },
       "iso": "LI",
       "members": [
         {
@@ -22900,6 +23612,10 @@
       "id": "lithuania",
       "title": "Lithuania",
       "description": "Lithuania staged as a culture: an archaic Baltic nation, once vast, that survived a press ban and exile to break free.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/lithuania"
+      },
       "iso": "LT",
       "members": [
         {
@@ -23035,6 +23751,10 @@
       "id": "louisiana",
       "title": "Louisiana",
       "description": "Louisiana staged: the Pelican State of Creole mixtures, Mississippi floods, jazz funerals, and bayou crawfish boils.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/louisiana"
+      },
       "iso": "US-LA",
       "members": [
         {
@@ -23142,6 +23862,10 @@
       "id": "luxembourg",
       "title": "Luxembourg",
       "description": "Luxembourg staged as a culture: a micro-state that lives in three languages and survives by remaining what it is.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/luxembourg"
+      },
       "iso": "LU",
       "members": [
         {
@@ -23282,6 +24006,10 @@
       "id": "madagascar",
       "title": "Madagascar",
       "description": "The great red island staged as a culture: a world apart, bound by fihavanana and the ancestors.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/madagascar"
+      },
       "iso": "MG",
       "members": [
         {
@@ -23422,6 +24150,10 @@
       "id": "madrid",
       "title": "Madrid",
       "description": "Madrid representado: las avenidas de la capitalidad, la Puerta del Sol y las tabernas donde hierve el cocido.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/madrid"
+      },
       "iso": "ES-MD",
       "members": [
         {
@@ -23529,6 +24261,10 @@
       "id": "maine",
       "title": "Maine",
       "description": "Maine staged: the Pine Tree State of Portland Head lighthouses, Acadia conifer forests, and lobster fishery smacks.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/maine"
+      },
       "iso": "US-ME",
       "members": [
         {
@@ -23636,6 +24372,10 @@
       "id": "malawi",
       "title": "Malawi",
       "description": "Malawi staged as a culture: the Warm Heart of Africa, its great lake, and many peoples held as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/malawi"
+      },
       "iso": "MW",
       "members": [
         {
@@ -23771,6 +24511,10 @@
       "id": "malaysia",
       "title": "Malaysia",
       "description": "Malaysia staged as a culture: many peoples and faiths bound into one nation by muhibbah.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/malaysia"
+      },
       "iso": "MY",
       "members": [
         {
@@ -23906,6 +24650,10 @@
       "id": "maldives",
       "title": "Maldives",
       "description": "A nation of coral atolls held by one faith, one tongue, and the sea that gives and takes.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/maldives"
+      },
       "iso": "MV",
       "members": [
         {
@@ -24041,6 +24789,10 @@
       "id": "mali",
       "title": "Mali",
       "description": "Mali staged as a culture: land of the great Sahelian empires, the Niger, and the griot's living word.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/mali"
+      },
       "iso": "ML",
       "members": [
         {
@@ -24181,6 +24933,10 @@
       "id": "malta",
       "title": "Malta",
       "description": "Malta staged as a culture: a tiny island fortress at the heart of the Mediterranean, Semitic in tongue yet Catholic.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/malta"
+      },
       "iso": "MT",
       "members": [
         {
@@ -24316,6 +25072,10 @@
       "id": "marshall_islands",
       "title": "Marshall Islands",
       "description": "Aelon in ri-jerakrok eo, kinie baam eo, im juon aelon ej jutak iturin lometo eo ej wanlontak.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/marshall_islands"
+      },
       "iso": "MH",
       "members": [
         {
@@ -24456,6 +25216,10 @@
       "id": "maryland",
       "title": "Maryland",
       "description": "Maryland staged: the Old Line State of Chesapeake Bay watermen, Fort McHenry defense, and biotech research labs.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/maryland"
+      },
       "iso": "US-MD",
       "members": [
         {
@@ -24563,6 +25327,10 @@
       "id": "massachusetts",
       "title": "Massachusetts",
       "description": "Massachusetts staged: the Bay State of Pilgrim landings, revolutionary tea parties, and Cambridge biotech hubs.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/massachusetts"
+      },
       "iso": "US-MA",
       "members": [
         {
@@ -24670,6 +25438,10 @@
       "id": "mauritania",
       "title": "Mauritania",
       "description": "The desert bridge of caravans and manuscripts, of tea and the tent, where the Maghreb meets the river south.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/mauritania"
+      },
       "iso": "MR",
       "members": [
         {
@@ -24810,6 +25582,10 @@
       "id": "mauritius",
       "title": "Mauritius",
       "description": "Mauritius staged as a culture: a rainbow island where many peoples live as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/mauritius"
+      },
       "iso": "MU",
       "members": [
         {
@@ -24940,6 +25716,10 @@
       "id": "mexico",
       "title": "Mexico",
       "description": "Una nación mestiza nacida del choque de dos mundos, cerrando la herida de la conquista.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/mexico"
+      },
       "iso": "MX",
       "members": [
         {
@@ -25090,6 +25870,10 @@
       "id": "michigan",
       "title": "Michigan",
       "description": "Michigan staged: the Great Lakes State of Ford assembly lines, Detroit Motown beats, and Flint union strikes.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/michigan"
+      },
       "iso": "US-MI",
       "members": [
         {
@@ -25197,6 +25981,10 @@
       "id": "micronesia",
       "title": "Micronesia",
       "description": "A federation of four island tongues held as one nation by English and a shared ocean.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/micronesia"
+      },
       "iso": "FM",
       "members": [
         {
@@ -25337,6 +26125,10 @@
       "id": "minnesota",
       "title": "Minnesota",
       "description": "Minnesota staged: the Land of 10,000 Lakes of iron mining, Boundary Waters protection, and Minneapolis sound music.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/minnesota"
+      },
       "iso": "US-MN",
       "members": [
         {
@@ -25444,6 +26236,10 @@
       "id": "mississippi",
       "title": "Mississippi",
       "description": "Mississippi staged: the Hospitality State of blues plantations, cotton fields, and civil rights freedom schools.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/mississippi"
+      },
       "iso": "US-MS",
       "members": [
         {
@@ -25551,6 +26347,10 @@
       "id": "missouri",
       "title": "Missouri",
       "description": "Missouri staged: the Show-Me State of the Gateway Arch, Kansas City jazz clubs, and Mississippi River trade.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/missouri"
+      },
       "iso": "US-MO",
       "members": [
         {
@@ -25658,6 +26458,10 @@
       "id": "moldova",
       "title": "Moldova",
       "description": "Moldova staged as a culture: vineyards and deep cellars, identity not a puzzle but a table set for whoever knocks.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/moldova"
+      },
       "iso": "MD",
       "members": [
         {
@@ -25762,6 +26566,10 @@
       "id": "monaco",
       "title": "Monaco",
       "description": "Monaco mis en scène : la principauté souveraine du Rocher, entre héritage Grimaldi, luxe et extension maritime.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/monaco"
+      },
       "iso": "MC",
       "members": [
         {
@@ -25869,6 +26677,10 @@
       "id": "mongolia",
       "title": "Mongolia",
       "description": "Mongolia staged as a culture: the great steppe under the eternal blue sky, a nation of herders and horsemen.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/mongolia"
+      },
       "iso": "MN",
       "members": [
         {
@@ -26009,6 +26821,10 @@
       "id": "montana",
       "title": "Montana",
       "description": "Montana staged: the Treasure State of Butte copper mines, Glacier National Park valleys, and Crow tribal heritage.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/montana"
+      },
       "iso": "US-MT",
       "members": [
         {
@@ -26116,6 +26932,10 @@
       "id": "montenegro",
       "title": "Montenegro",
       "description": "Montenegro staged as a culture: a warrior nation of the Black Mountain whose tongue is split by its own name.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/montenegro"
+      },
       "iso": "ME",
       "members": [
         {
@@ -26251,6 +27071,10 @@
       "id": "morocco",
       "title": "Morocco",
       "description": "Morocco staged as a culture: where Amazigh root and Arab branch meet, between the Atlas and the desert.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/morocco"
+      },
       "iso": "MA",
       "members": [
         {
@@ -26391,6 +27215,10 @@
       "id": "mozambique",
       "title": "Mozambique",
       "description": "Mozambique staged as a culture: a long Indian Ocean coast, many peoples, and a nation of poets.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/mozambique"
+      },
       "iso": "MZ",
       "members": [
         {
@@ -26526,6 +27354,10 @@
       "id": "murcia",
       "title": "Murcia",
       "description": "Murcia representada: el regadío de la huerta, las salinas del Mar Menor y la historia cantonal de Cartagena.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/murcia"
+      },
       "iso": "ES-MC",
       "members": [
         {
@@ -26633,6 +27465,10 @@
       "id": "myanmar",
       "title": "Myanmar",
       "description": "Myanmar staged as a culture: a golden land of pagodas, river, and merit, one union of many peoples.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/myanmar"
+      },
       "iso": "MM",
       "members": [
         {
@@ -26773,6 +27609,10 @@
       "id": "namibia",
       "title": "Namibia",
       "description": "Namibia staged as a culture: the oldest desert, many peoples held in one dignity, a land that keeps its wild.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/namibia"
+      },
       "iso": "NA",
       "members": [
         {
@@ -26913,6 +27753,10 @@
       "id": "nauru",
       "title": "Nauru",
       "description": "Nauru: the world's smallest republic, a phosphate fortune won and lost, and the population that twice nearly vanished.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/nauru"
+      },
       "iso": "NR",
       "members": [
         {
@@ -27053,6 +27897,10 @@
       "id": "navarre",
       "title": "Navarra",
       "description": "Navarra representada: los hayedos de la selva de Irati, los encierros de Pamplona y los espárragos de la Ribera.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/navarre"
+      },
       "iso": "ES-NC",
       "members": [
         {
@@ -27160,6 +28008,10 @@
       "id": "nebraska",
       "title": "Nebraska",
       "description": "Nebraska staged: the Cornhusker State of Chimney Rock trail landmarks, Sandhills ranches, and Arbor Day forestry.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/nebraska"
+      },
       "iso": "US-NE",
       "members": [
         {
@@ -27267,6 +28119,10 @@
       "id": "nepal",
       "title": "Nepal",
       "description": "Nepal staged as a culture: the land in the lap of the Himalaya, where many peoples and two faiths live as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/nepal"
+      },
       "iso": "NP",
       "members": [
         {
@@ -27407,6 +28263,10 @@
       "id": "netherlands",
       "title": "Netherlands",
       "description": "The Netherlands staged as a culture: a low country won from the sea by tolerance and consensus.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/netherlands"
+      },
       "iso": "NL",
       "members": [
         {
@@ -27547,6 +28407,10 @@
       "id": "nevada",
       "title": "Nevada",
       "description": "Nevada staged: the Silver State of Las Vegas Strip casinos, Hoover Dam concrete, and desert solar arrays.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/nevada"
+      },
       "iso": "US-NV",
       "members": [
         {
@@ -27654,6 +28518,10 @@
       "id": "new_hampshire",
       "title": "New Hampshire",
       "description": "New Hampshire staged: the Granite State of Mount Washington cog railways, maple sugarhouses, and primary elections.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/new_hampshire"
+      },
       "iso": "US-NH",
       "members": [
         {
@@ -27761,6 +28629,10 @@
       "id": "new_jersey",
       "title": "New Jersey",
       "description": "New Jersey staged: the Garden State of Menlo Park inventions, boardwalk empires, and Pine Barrens wilderness.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/new_jersey"
+      },
       "iso": "US-NJ",
       "members": [
         {
@@ -27868,6 +28740,10 @@
       "id": "new_mexico",
       "title": "New Mexico",
       "description": "New Mexico staged: the Land of Enchantment of Los Alamos nuclear labs, Taos Pueblo adobes, and desert solar science.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/new_mexico"
+      },
       "iso": "US-NM",
       "members": [
         {
@@ -27975,6 +28851,10 @@
       "id": "new_york",
       "title": "New York",
       "description": "New York staged: the Empire State of canals, mass immigration, Wall Street crashes, and Broadway lights.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/new_york"
+      },
       "iso": "US-NY",
       "members": [
         {
@@ -28082,6 +28962,10 @@
       "id": "new_zealand",
       "title": "New Zealand",
       "description": "Two peoples bound by a founding treaty, an egalitarian nation at the edge of the world.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/new_zealand"
+      },
       "iso": "NZ",
       "members": [
         {
@@ -28222,6 +29106,10 @@
       "id": "nicaragua",
       "title": "Nicaragua",
       "description": "Nicaragua, tierra de lagos y volcanes y de poetas, dos veces dividida entre el Pacífico y el Caribe.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/nicaragua"
+      },
       "iso": "NI",
       "members": [
         {
@@ -28362,6 +29250,10 @@
       "id": "niger",
       "title": "Niger",
       "description": "Niger staged as a culture: a Sahelian land of desert, river and caravan, where patience and the given word hold.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/niger"
+      },
       "iso": "NE",
       "members": [
         {
@@ -28502,6 +29394,10 @@
       "id": "nigeria",
       "title": "Nigeria",
       "description": "Nigeria staged as a culture: the giant of Africa, many peoples in one, loud with life and never carrying last.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/nigeria"
+      },
       "iso": "NG",
       "members": [
         {
@@ -28642,6 +29538,10 @@
       "id": "north_carolina",
       "title": "North Carolina",
       "description": "North Carolina staged: the Tar Heel State of Roanoke colonies, Kitty Hawk flights, and Research Triangle labs.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/north_carolina"
+      },
       "iso": "US-NC",
       "members": [
         {
@@ -28749,6 +29649,10 @@
       "id": "north_dakota",
       "title": "North Dakota",
       "description": "North Dakota staged: the Flickertail State of Red River wheat farms, Bakken shale oil wells, and Missouri River dams.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/north_dakota"
+      },
       "iso": "US-ND",
       "members": [
         {
@@ -28856,6 +29760,10 @@
       "id": "north_korea",
       "title": "North Korea",
       "description": "North Korea staged as a culture: one Korean people, the northern land, and the longing for reunion.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/north_korea"
+      },
       "iso": "KP",
       "members": [
         {
@@ -28991,6 +29899,10 @@
       "id": "north_macedonia",
       "title": "North Macedonia",
       "description": "North Macedonia staged as a culture: a young nation whose name, tongue, church and history each neighbour contests.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/north_macedonia"
+      },
       "iso": "MK",
       "members": [
         {
@@ -29126,6 +30038,10 @@
       "id": "northern_ireland",
       "title": "Northern Ireland",
       "description": "Northern Ireland staged as a culture: two traditions held in one small place, and a hard-won peace they made together.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/northern_ireland"
+      },
       "iso": "GB-NIR",
       "members": [
         {
@@ -29274,6 +30190,10 @@
       "id": "norway",
       "title": "Norway",
       "description": "Norway staged as a culture: a steep land of mountains and sea where people belong to nature and share the work.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/norway"
+      },
       "iso": "NO",
       "members": [
         {
@@ -29407,6 +30327,10 @@
       "id": "oklahoma",
       "title": "Oklahoma",
       "description": "Oklahoma staged: the Sooner State of oil drilling derricks, Cherokee heritage centers, and prairie farms.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/oklahoma"
+      },
       "iso": "US-OK",
       "members": [
         {
@@ -29514,6 +30438,10 @@
       "id": "oman",
       "title": "Oman",
       "description": "Oman staged as a culture: the land of frankincense and the navigators of the Indian Ocean.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/oman"
+      },
       "iso": "OM",
       "members": [
         {
@@ -29654,6 +30582,10 @@
       "id": "oregon",
       "title": "Oregon",
       "description": "Oregon staged: the Beaver State of Oregon Trail migrations, industrial timber booms, and Portland coffee culture.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/oregon"
+      },
       "iso": "US-OR",
       "members": [
         {
@@ -29761,6 +30693,10 @@
       "id": "pakistan",
       "title": "Pakistan",
       "description": "Pakistan staged as a culture: the land of the Indus and of faith, of poetry, the rivers, and the people.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/pakistan"
+      },
       "iso": "PK",
       "members": [
         {
@@ -29896,6 +30832,10 @@
       "id": "palau",
       "title": "Palau",
       "description": "A Belau el beluu el oba a telungalek ma bai, e diak a nuclear, e mesisiich a omenged.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/palau"
+      },
       "iso": "PW",
       "members": [
         {
@@ -30036,6 +30976,10 @@
       "id": "palestine",
       "title": "Palestine",
       "description": "Palestine staged as a culture: the olive and the land, the tatreez and the song, and the steadfast keeping of memory.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/palestine"
+      },
       "iso": "PS",
       "members": [
         {
@@ -30176,6 +31120,10 @@
       "id": "panama",
       "title": "Panama",
       "description": "Panamá puesta como cultura: el istmo, el cruce del mundo, un crisol que pelea por su soberanía.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/panama"
+      },
       "iso": "PA",
       "members": [
         {
@@ -30316,6 +31264,10 @@
       "id": "papua_new_guinea",
       "title": "Papua New Guinea",
       "description": "Wanpela kantri wantaim 800 tok ples, holim wantaim long Tok Pisin na wantok.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/papua_new_guinea"
+      },
       "iso": "PG",
       "members": [
         {
@@ -30451,6 +31403,10 @@
       "id": "paraguay",
       "title": "Paraguay",
       "description": "Una nación bilingüe forjada en el aislamiento y la pérdida, que guarda su alma guaraní y se rehízo de pie.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/paraguay"
+      },
       "iso": "PY",
       "members": [
         {
@@ -30591,6 +31547,10 @@
       "id": "peru",
       "title": "Peru",
       "description": "Una nación de todas las sangres que busca volver compartida su antigua grandeza andina.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/peru"
+      },
       "iso": "PE",
       "members": [
         {
@@ -30731,6 +31691,10 @@
       "id": "philippines",
       "title": "Philippines",
       "description": "The Philippines staged as a culture: an archipelago of many islands held as one by kapwa, family, and faith.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/philippines"
+      },
       "iso": "PH",
       "members": [
         {
@@ -30866,6 +31830,10 @@
       "id": "poland",
       "title": "Poland",
       "description": "Poland staged as a culture: a nation that outlived its own erasure, held by tongue and faith.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/poland"
+      },
       "iso": "PL",
       "members": [
         {
@@ -31001,6 +31969,10 @@
       "id": "portugal",
       "title": "Portugal",
       "description": "Portugal staged as a culture: a small Atlantic land of saudade, gentle ways, and a vast seafaring memory.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/portugal"
+      },
       "iso": "PT",
       "members": [
         {
@@ -31134,6 +32106,10 @@
       "id": "qatar",
       "title": "Qatar",
       "description": "Qatar staged as a culture: a pearling people of the Gulf and the desert, keeping its heritage through swift change.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/qatar"
+      },
       "iso": "QA",
       "members": [
         {
@@ -31274,6 +32250,10 @@
       "id": "republic_of_congo",
       "title": "Republic of the Congo",
       "description": "Congo-Brazzaville staged as a culture: the river, the rumba, and the elegance of la SAPE.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/republic_of_congo"
+      },
       "iso": "CG",
       "members": [
         {
@@ -31414,6 +32394,10 @@
       "id": "rhode_island",
       "title": "Rhode Island",
       "description": "Rhode Island staged: the Ocean State of Narragansett Bay boatyards, Newport mansions, and Roger Williams charter.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/rhode_island"
+      },
       "iso": "US-RI",
       "members": [
         {
@@ -31521,6 +32505,10 @@
       "id": "romania",
       "title": "Romania",
       "description": "Romania staged as a culture: a Latin island in a Slavic-Hungarian sea, descended from Rome's Dacia.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/romania"
+      },
       "iso": "RO",
       "members": [
         {
@@ -31656,6 +32644,10 @@
       "id": "russia",
       "title": "Russia",
       "description": "Russia staged as a culture: a vast land and a strong state, a great soul and literature, and the weight they carry.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/russia"
+      },
       "iso": "RU",
       "members": [
         {
@@ -31786,6 +32778,10 @@
       "id": "rwanda",
       "title": "Rwanda",
       "description": "Rwanda staged as a culture: the land of a thousand hills, one tongue, and the bond of the cow.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/rwanda"
+      },
       "iso": "RW",
       "members": [
         {
@@ -31926,6 +32922,10 @@
       "id": "saint_kitts_and_nevis",
       "title": "Saint Kitts and Nevis",
       "description": "The smallest nation of the Americas, two islands cradle of the sugar empire, holding its federation beyond the cane.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/saint_kitts_and_nevis"
+      },
       "iso": "KN",
       "members": [
         {
@@ -32066,6 +33066,10 @@
       "id": "saint_lucia",
       "title": "Saint Lucia",
       "description": "A small Creole island fought over fourteen times that gave the world two Nobel laureates.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/saint_lucia"
+      },
       "iso": "LC",
       "members": [
         {
@@ -32206,6 +33210,10 @@
       "id": "saint_vincent_and_the_grenadines",
       "title": "Saint Vincent and the Grenadines",
       "description": "An archipelago of deep Garifuna roots under a living volcano, scattered isles carried forward as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/saint_vincent_and_the_grenadines"
+      },
       "iso": "VC",
       "members": [
         {
@@ -32346,6 +33354,10 @@
       "id": "samoa",
       "title": "Samoa",
       "description": "Samoa o le fatu o Polenisia, o le faaSamoa ma le aiga e tausi i le lalolagi fou.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/samoa"
+      },
       "iso": "WS",
       "members": [
         {
@@ -32481,6 +33493,10 @@
       "id": "san_marino",
       "title": "San Marino",
       "description": "San Marino messo in scena: la più antica repubblica sovrana del Titano, custode di libertà, democrazia e statuti.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/san_marino"
+      },
       "iso": "SM",
       "members": [
         {
@@ -32588,6 +33604,10 @@
       "id": "sao_tome_principe",
       "title": "Sao Tome and Principe",
       "description": "Two equatorial islands of cocoa and forest, a creole nation born of the roça.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/sao_tome_principe"
+      },
       "iso": "ST",
       "members": [
         {
@@ -32723,6 +33743,10 @@
       "id": "saudi_arabia",
       "title": "Saudi Arabia",
       "description": "Saudi Arabia staged as a culture: the heartland of Arabia, the cradle of Islam, and the open hand of the desert.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/saudi_arabia"
+      },
       "iso": "SA",
       "members": [
         {
@@ -32863,6 +33887,10 @@
       "id": "scotland",
       "title": "Scotland",
       "description": "Scotland staged as a culture: a proud, egalitarian nation that kept its mind, its kirk, and its independence of spirit.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/scotland"
+      },
       "iso": "GB-SCT",
       "members": [
         {
@@ -33012,6 +34040,10 @@
       "id": "senegal",
       "title": "Senegal",
       "description": "Senegal staged as a culture: the land of teranga, where the word is given and the door stays open.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/senegal"
+      },
       "iso": "SN",
       "members": [
         {
@@ -33152,6 +34184,10 @@
       "id": "serbia",
       "title": "Serbia",
       "description": "Serbia staged as a culture: an Orthodox nation of defiant inat, marked by the Kosovo covenant and loss.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/serbia"
+      },
       "iso": "RS",
       "members": [
         {
@@ -33287,6 +34323,10 @@
       "id": "seychelles",
       "title": "Seychelles",
       "description": "A Creole nation woven from many peoples on the oldest ocean islands, one Seselwa people and tongue.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/seychelles"
+      },
       "iso": "SC",
       "members": [
         {
@@ -33422,6 +34462,10 @@
       "id": "sierra_leone",
       "title": "Sierra Leone",
       "description": "Salone staged as a culture: a home for returned Africans, green mountains, and warm Krio hospitality.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/sierra_leone"
+      },
       "iso": "SL",
       "members": [
         {
@@ -33562,6 +34606,10 @@
       "id": "singapore",
       "title": "Singapore",
       "description": "A little red dot that turned scarcity into a global city, holding many peoples at one shared table.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/singapore"
+      },
       "iso": "SG",
       "members": [
         {
@@ -33702,6 +34750,10 @@
       "id": "slovakia",
       "title": "Slovakia",
       "description": "Slovakia staged as a culture: a young nation, long ruled by others, that found its voice and its own state late.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/slovakia"
+      },
       "iso": "SK",
       "members": [
         {
@@ -33832,6 +34884,10 @@
       "id": "slovenia",
       "title": "Slovenia",
       "description": "Slovenia staged as a culture: a small Alpine nation that left Yugoslavia almost bloodlessly and turned West.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/slovenia"
+      },
       "iso": "SI",
       "members": [
         {
@@ -33962,6 +35018,10 @@
       "id": "solomon_islands",
       "title": "Solomon Islands",
       "description": "Solomon Aelan: planti aelan, planti tok ples, wanfala wantok.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/solomon_islands"
+      },
       "iso": "SB",
       "members": [
         {
@@ -34102,6 +35162,10 @@
       "id": "somalia",
       "title": "Somalia",
       "description": "Somalia staged as a culture: the Nation of Poets on the longest coast, bound by faith and the word.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/somalia"
+      },
       "iso": "SO",
       "members": [
         {
@@ -34232,6 +35296,10 @@
       "id": "south_africa",
       "title": "South Africa",
       "description": "A rainbow nation of many peoples who chose to forgive and build one home together.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/south_africa"
+      },
       "iso": "ZA",
       "members": [
         {
@@ -34367,6 +35435,10 @@
       "id": "south_carolina",
       "title": "South Carolina",
       "description": "South Carolina staged: the Palmetto State of Gullah basket weaving, Charleston preservation, and Fort Sumter history.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/south_carolina"
+      },
       "iso": "US-SC",
       "members": [
         {
@@ -34474,6 +35546,10 @@
       "id": "south_dakota",
       "title": "South Dakota",
       "description": "South Dakota staged: the Mount Rushmore State of Black Hills mining, presidential monuments, and Lakota heritage.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/south_dakota"
+      },
       "iso": "US-SD",
       "members": [
         {
@@ -34581,6 +35657,10 @@
       "id": "south_korea",
       "title": "South Korea",
       "description": "Korea staged as a culture: a people of deep feeling who made an alphabet, a family bond, and a wave the world follows.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/south_korea"
+      },
       "iso": "KR",
       "members": [
         {
@@ -34716,6 +35796,10 @@
       "id": "south_sudan",
       "title": "South Sudan",
       "description": "The world's newest nation, staged through its rivers, its cattle, and its many peoples.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/south_sudan"
+      },
       "iso": "SS",
       "members": [
         {
@@ -34856,6 +35940,10 @@
       "id": "spain",
       "title": "Spain",
       "description": "Spain staged as a culture: a plurinational land of warmth and family, one and many at once.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/spain"
+      },
       "iso": "ES",
       "members": [
         {
@@ -35002,6 +36090,10 @@
       "id": "sri_lanka",
       "title": "Sri Lanka",
       "description": "The resplendent island staged as a culture: tank and dagoba, faith and many peoples, one island home.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/sri_lanka"
+      },
       "iso": "LK",
       "members": [
         {
@@ -35142,6 +36234,10 @@
       "id": "sudan",
       "title": "Sudan",
       "description": "Sudan staged as a culture: land of Kush and the two Niles, of Sufism and a hospitality that knows no stranger.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/sudan"
+      },
       "iso": "SD",
       "members": [
         {
@@ -35282,6 +36378,10 @@
       "id": "suriname",
       "title": "Suriname",
       "description": "Het meest plurale land van de Amerika's, een natie als een boom met vele bladeren.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/suriname"
+      },
       "iso": "SR",
       "members": [
         {
@@ -35417,6 +36517,10 @@
       "id": "sweden",
       "title": "Sweden",
       "description": "Sweden staged as a culture: a reserved land of consensus and lagom, where the people's home keeps everyone in.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/sweden"
+      },
       "iso": "SE",
       "members": [
         {
@@ -35556,6 +36660,10 @@
       "id": "switzerland",
       "title": "Switzerland",
       "description": "Switzerland staged as a culture: a nation made by will, holding four languages together as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures-switzerland",
+        "path": ""
+      },
       "iso": "CH",
       "members": [
         {
@@ -35842,6 +36950,10 @@
       "id": "syria",
       "title": "Syria",
       "description": "Syria staged as a culture: the cradle of cities and the first letters, the land of jasmine and the word.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/syria"
+      },
       "iso": "SY",
       "members": [
         {
@@ -35977,6 +37089,10 @@
       "id": "taiwan",
       "title": "Taiwan",
       "description": "Taiwan staged as a culture: a layered island of many peoples, faiths, and tongues, made new by its own hands.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/taiwan"
+      },
       "iso": "TW",
       "members": [
         {
@@ -36112,6 +37228,10 @@
       "id": "tajikistan",
       "title": "Tajikistan",
       "description": "The Persian heart of Central Asia, staged as a culture of poetry, mountains, and an old language kept whole.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/tajikistan"
+      },
       "iso": "TJ",
       "members": [
         {
@@ -36247,6 +37367,10 @@
       "id": "tanzania",
       "title": "Tanzania",
       "description": "Tanzania staged as a culture: more than a hundred peoples bound into one nation by Kiswahili.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/tanzania"
+      },
       "iso": "TZ",
       "members": [
         {
@@ -36382,6 +37506,10 @@
       "id": "tennessee",
       "title": "Tennessee",
       "description": "Tennessee staged: the Volunteer State of Nashville country songwriting, Memphis blues, and Great Smoky Mountains.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/tennessee"
+      },
       "iso": "US-TN",
       "members": [
         {
@@ -36489,6 +37617,10 @@
       "id": "texas",
       "title": "Texas",
       "description": "Texas staged: the Lone Star State of cowboys, oil booms, and space exploration, defined by rugged independence.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/texas"
+      },
       "iso": "US-TX",
       "members": [
         {
@@ -36596,6 +37728,10 @@
       "id": "thailand",
       "title": "Thailand",
       "description": "Thailand staged as a culture: the never-colonized land of the smile, bending to keep what it holds dear.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/thailand"
+      },
       "iso": "TH",
       "members": [
         {
@@ -36736,6 +37872,10 @@
       "id": "timor_leste",
       "title": "Timor-Leste",
       "description": "Timor Lorosae staged as a culture: the land of the rising sun, held by lulik, faith, and the long road to freedom.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/timor_leste"
+      },
       "iso": "TL",
       "members": [
         {
@@ -36866,6 +38006,10 @@
       "id": "togo",
       "title": "Togo",
       "description": "Togo staged as a culture: a slender land that holds north and south as one.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/togo"
+      },
       "iso": "TG",
       "members": [
         {
@@ -37006,6 +38150,10 @@
       "id": "tonga",
       "title": "Tonga",
       "description": "Ko Tonga ko e fonua Pasifika na'e 'ikai 'aupito pule'i, mo'ui pe 'a e Tu'i mo e tui.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/tonga"
+      },
       "iso": "TO",
       "members": [
         {
@@ -37146,6 +38294,10 @@
       "id": "trinidad_and_tobago",
       "title": "Trinidad and Tobago",
       "description": "A plural, oil-rich twin-island nation that turned its callaloo mix into pan, mas and letters.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/trinidad_and_tobago"
+      },
       "iso": "TT",
       "members": [
         {
@@ -37281,6 +38433,10 @@
       "id": "tunisia",
       "title": "Tunisia",
       "description": "Tunisia staged as a culture: a small Mediterranean land of ancient layers, faith, learning, the olive, and the sea.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/tunisia"
+      },
       "iso": "TN",
       "members": [
         {
@@ -37421,6 +38577,10 @@
       "id": "turkey",
       "title": "Turkey",
       "description": "Turkey staged as a culture: a steppe people astride two continents, between a secular republic and a devout heartland.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/turkey"
+      },
       "iso": "TR",
       "members": [
         {
@@ -37575,6 +38735,10 @@
       "id": "turkmenistan",
       "title": "Turkmenistan",
       "description": "Turkmenistan staged as a culture: the desert and the golden horse, the carpet and the poet's word.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/turkmenistan"
+      },
       "iso": "TM",
       "members": [
         {
@@ -37715,6 +38879,10 @@
       "id": "tuvalu",
       "title": "Tuvalu",
       "description": "Te fenua foliki e tu i te tafa o te moana, e tau ma te peau e maluga aka.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/tuvalu"
+      },
       "iso": "TV",
       "members": [
         {
@@ -37855,6 +39023,10 @@
       "id": "uganda",
       "title": "Uganda",
       "description": "The Pearl of Africa, many peoples and old kingdoms held as one nation at the source of the Nile.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/uganda"
+      },
       "iso": "UG",
       "members": [
         {
@@ -37994,6 +39166,10 @@
       "id": "ukraine",
       "title": "Ukraine",
       "description": "Ukraine staged as a culture: a distinct nation defending its freedom, dignity, and survival against an empire.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/ukraine"
+      },
       "iso": "UA",
       "members": [
         {
@@ -38129,6 +39305,10 @@
       "id": "united_arab_emirates",
       "title": "United Arab Emirates",
       "description": "A coast of pearl divers and a desert of Bedouin, gathered by Zayed into one union under the date palm.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/united_arab_emirates"
+      },
       "iso": "AE",
       "members": [
         {
@@ -38269,6 +39449,10 @@
       "id": "united_kingdom",
       "title": "United Kingdom",
       "description": "The United Kingdom staged as a culture: a union of nations bound by law, understatement, and fair play.",
+      "source": {
+        "package": "@chbrain/khai-cultures-united-kingdom",
+        "path": ""
+      },
       "iso": "GB",
       "members": [
         {
@@ -38421,6 +39605,10 @@
       "id": "uruguay",
       "title": "Uruguay",
       "description": "Una pequeña república laica que cuida su rara igualdad y pega por encima de su tamaño.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/uruguay"
+      },
       "iso": "UY",
       "members": [
         {
@@ -38561,6 +39749,10 @@
       "id": "us_ohio",
       "title": "Ohio",
       "description": "Ohio staged: the Buckeye State of the Northwest Ordinance, industrial rust belt valleys, and Wright aviation.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/us_ohio"
+      },
       "iso": "US-OH",
       "members": [
         {
@@ -38663,6 +39855,10 @@
       "id": "us_pennsylvania",
       "title": "Pennsylvania",
       "description": "Pennsylvania staged: the Keystone State of Quaker tolerance, independence halls, and Pittsburgh steel furnaces.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/us_pennsylvania"
+      },
       "iso": "US-PA",
       "members": [
         {
@@ -38765,6 +39961,10 @@
       "id": "us_virginia",
       "title": "Virginia",
       "description": "Virginia staged: the Old Dominion of Jamestown covenants, presidential dynasties, Yorktown battles, and NoVa defense.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/us_virginia"
+      },
       "iso": "US-VA",
       "members": [
         {
@@ -38867,6 +40067,10 @@
       "id": "usa",
       "title": "United States",
       "description": "A nation founded on a creed, forever closing the gap between its promise and its reality.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/usa"
+      },
       "iso": "US",
       "members": [
         {
@@ -39002,6 +40206,10 @@
       "id": "utah",
       "title": "Utah",
       "description": "Utah staged: the Beehive State of Salt Lake pioneer temples, Silicon Slopes tech, and Zion red-rock canyons.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/utah"
+      },
       "iso": "US-UT",
       "members": [
         {
@@ -39109,6 +40317,10 @@
       "id": "uzbekistan",
       "title": "Uzbekistan",
       "description": "The heart of the Silk Road staged as a culture: jewelled cities, the golden age of learning, and the mahalla.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/uzbekistan"
+      },
       "iso": "UZ",
       "members": [
         {
@@ -39249,6 +40461,10 @@
       "id": "valencian_community",
       "title": "Comunidad Valenciana",
       "description": "Comunidad Valenciana representada: los arrozales de la Albufera, el estallido de las Fallas y la huerta de naranjos.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/valencian_community"
+      },
       "iso": "ES-VC",
       "members": [
         {
@@ -39361,6 +40577,10 @@
       "id": "vanuatu",
       "title": "Vanuatu",
       "description": "Wan nasen blong kastom mo tufala kala blong waet man, hem i stap hapi long fored laen blong klaemet.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/vanuatu"
+      },
       "iso": "VU",
       "members": [
         {
@@ -39496,6 +40716,10 @@
       "id": "venezuela",
       "title": "Venezuela",
       "description": "La cuna de la independencia de un continente, hoy entre el petróleo y la diáspora.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/venezuela"
+      },
       "iso": "VE",
       "members": [
         {
@@ -39636,6 +40860,10 @@
       "id": "vermont",
       "title": "Vermont",
       "description": "Vermont staged: the Green Mountain State of maple sugarhouses, independent town meetings, and artisanal dairy craft.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/vermont"
+      },
       "iso": "US-VT",
       "members": [
         {
@@ -39743,6 +40971,10 @@
       "id": "vietnam",
       "title": "Vietnam",
       "description": "Vietnam staged as a culture: a people of the rice deltas, bound by family and an enduring will to remain themselves.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/vietnam"
+      },
       "iso": "VN",
       "members": [
         {
@@ -39883,6 +41115,10 @@
       "id": "wales",
       "title": "Wales",
       "description": "Wales staged as a culture: a small nation that lost its princes and kept its language, its song, and its solidarity.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/wales"
+      },
       "iso": "GB-WLS",
       "members": [
         {
@@ -40022,6 +41258,10 @@
       "id": "washington",
       "title": "Washington",
       "description": "Washington staged: the Evergreen State of Oregon treaties, Boeing assembly bays, Hanford sites, and Cascade hikes.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/washington"
+      },
       "iso": "US-WA",
       "members": [
         {
@@ -40129,6 +41369,10 @@
       "id": "washington_dc",
       "title": "Washington, D.C.",
       "description": "Washington, D.C. staged: the federal capital of grand plans, civil rights marches, U Street jazz, and local home rule.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/washington_dc"
+      },
       "iso": "US-DC",
       "members": [
         {
@@ -40236,6 +41480,10 @@
       "id": "west_virginia",
       "title": "West Virginia",
       "description": "West Virginia staged: the Mountain State of Blair labor battles, New River Gorge rafts, and Appalachian coal mines.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/west_virginia"
+      },
       "iso": "US-WV",
       "members": [
         {
@@ -40343,6 +41591,10 @@
       "id": "wisconsin",
       "title": "Wisconsin",
       "description": "Wisconsin staged: the Dairyland of cheese cooperatives, Milwaukee brewing booms, and progressive reforms.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/wisconsin"
+      },
       "iso": "US-WI",
       "members": [
         {
@@ -40450,6 +41702,10 @@
       "id": "wyoming",
       "title": "Wyoming",
       "description": "Wyoming staged: the Equality State of Yellowstone geysers, women's suffrage milestones, and alpine wilderness trails.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/wyoming"
+      },
       "iso": "US-WY",
       "members": [
         {
@@ -40557,6 +41813,10 @@
       "id": "yemen",
       "title": "Yemen",
       "description": "Yemen staged as a culture: Arabia Felix, home of Sheba, the incense road, and the world's first coffee.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/yemen"
+      },
       "iso": "YE",
       "members": [
         {
@@ -40692,6 +41952,10 @@
       "id": "zambia",
       "title": "Zambia",
       "description": "Seventy peoples bound as one nation in equal dignity, kept in peace beside the mighty Zambezi.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/zambia"
+      },
       "iso": "ZM",
       "members": [
         {
@@ -40827,6 +42091,10 @@
       "id": "zimbabwe",
       "title": "Zimbabwe",
       "description": "A nation named for its houses of stone, where two peoples carry one country to the rhythm of the mbira.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/zimbabwe"
+      },
       "iso": "ZW",
       "members": [
         {
@@ -40964,7 +42232,11 @@
       "id": "anglosphere",
       "title": "the Anglosphere",
       "description": "The Anglosphere as a group: five English-speaking nations bound by language, law, and the Five Eyes.",
-      "references": ["australia", "canada", "new_zealand", "usa"],
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/anglosphere"
+      },
+      "references": ["australia", "canada", "new_zealand", "united_kingdom", "usa"],
       "members": [
         {
           "file": "play_anglosphere.md",
@@ -41002,6 +42274,10 @@
       "id": "asean",
       "title": "ASEAN",
       "description": "ASEAN as a group: the Association of Southeast Asian Nations, eleven neighbours grown from five, bound by the ASEAN Way.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/asean"
+      },
       "references": [
         "brunei",
         "cambodia",
@@ -41052,6 +42328,10 @@
       "id": "baltics",
       "title": "The Baltics",
       "description": "The Baltics as a group: Estonia, Latvia, and Lithuania, bound by a shared occupation and a sung freedom.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/baltics"
+      },
       "references": ["estonia", "latvia", "lithuania"],
       "members": [
         {
@@ -41072,6 +42352,10 @@
       "id": "benelux",
       "title": "Benelux",
       "description": "Benelux as a group: Belgium, the Netherlands, and Luxembourg, the small delta union that prototyped Europe.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/benelux"
+      },
       "references": ["belgium", "luxembourg", "netherlands"],
       "members": [
         {
@@ -41092,6 +42376,10 @@
       "id": "caricom",
       "title": "the Caribbean Community",
       "description": "CARICOM as a group: the Caribbean Community, small states bound by a plantation past and a shared future.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/caricom"
+      },
       "references": [
         "antigua_and_barbuda",
         "bahamas",
@@ -41145,6 +42433,10 @@
       "id": "central_america",
       "title": "Central America",
       "description": "Central America as a group: the isthmus of the SICA bloc, from the Maya world to a system of integration.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/central_america"
+      },
       "references": [
         "belize",
         "costa_rica",
@@ -41192,6 +42484,11 @@
       "id": "dach",
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/dach"
+      },
+      "references": ["austria", "germany", "switzerland"],
       "members": [
         {
           "file": "play_dach.md",
@@ -41211,7 +42508,12 @@
       "id": "eu",
       "title": "the European Union",
       "description": "The European Union as a group: twenty-seven nations that pooled their sovereignty for peace and prosperity.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/eu"
+      },
       "references": [
+        "austria",
         "belgium",
         "bulgaria",
         "croatia",
@@ -41220,6 +42522,8 @@
         "denmark",
         "estonia",
         "finland",
+        "france",
+        "germany",
         "greece",
         "hungary",
         "ireland",
@@ -41274,6 +42578,10 @@
       "id": "francophonie",
       "title": "the Francophone World",
       "description": "The Francophonie as a group: the nations of official French on five continents, one tongue whose future is African.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/francophonie"
+      },
       "references": [
         "belgium",
         "benin",
@@ -41287,6 +42595,7 @@
         "djibouti",
         "dr_congo",
         "equatorial_guinea",
+        "france",
         "gabon",
         "guinea",
         "haiti",
@@ -41300,6 +42609,7 @@
         "rwanda",
         "senegal",
         "seychelles",
+        "switzerland",
         "togo",
         "vanuatu"
       ],
@@ -41340,6 +42650,10 @@
       "id": "hispanidad",
       "title": "the Hispanophone World",
       "description": "Hispanidad as a group: the Spanish-speaking world, from Spain across the Americas, one tongue over an ocean.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/hispanidad"
+      },
       "references": [
         "argentina",
         "bolivia",
@@ -41398,6 +42712,10 @@
       "id": "iberia",
       "title": "Iberia",
       "description": "Iberia as a group: Spain and Portugal, the peninsula that once divided the world between its two crowns.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/iberia"
+      },
       "references": ["portugal", "spain"],
       "members": [
         {
@@ -41418,6 +42736,10 @@
       "id": "latin_america",
       "title": "Latin America",
       "description": "Latin America as a group: the Iberian-and-French Americas bound by Latin tongues, faith, and mestizaje.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/latin_america"
+      },
       "references": [
         "argentina",
         "bolivia",
@@ -41477,6 +42799,10 @@
       "id": "lusophone",
       "title": "the Lusophone World",
       "description": "The Lusophone world as a group: Portugal and Brazil, one tongue carried across the Atlantic by the sea.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/lusophone"
+      },
       "references": ["brazil", "portugal"],
       "members": [
         {
@@ -41515,6 +42841,10 @@
       "id": "mercosur",
       "title": "the Southern Common Market",
       "description": "Mercosur as a group: the Southern Cone common market, born of rivals reconciled into a river-basin union.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/mercosur"
+      },
       "references": ["argentina", "bolivia", "brazil", "paraguay", "uruguay"],
       "members": [
         {
@@ -41553,6 +42883,10 @@
       "id": "nato",
       "title": "NATO",
       "description": "NATO as a group: the transatlantic alliance that grew from twelve to thirty-two, bound by Article 5.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/nato"
+      },
       "references": [
         "albania",
         "belgium",
@@ -41563,6 +42897,8 @@
         "denmark",
         "estonia",
         "finland",
+        "france",
+        "germany",
         "greece",
         "hungary",
         "iceland",
@@ -41582,6 +42918,7 @@
         "spain",
         "sweden",
         "turkey",
+        "united_kingdom",
         "usa"
       ],
       "members": [
@@ -41621,6 +42958,10 @@
       "id": "nordics",
       "title": "The Nordics",
       "description": "The Nordics as a group: Denmark, Sweden, Norway, Finland, and Iceland, bound by a shared model and a common north.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/nordics"
+      },
       "references": ["denmark", "finland", "iceland", "norway", "sweden"],
       "members": [
         {
@@ -41635,6 +42976,10 @@
       "id": "the_americas",
       "title": "the Americas",
       "description": "The Americas as a group: two continents and the Caribbean, the New World from first peoples to republics.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/the_americas"
+      },
       "references": [
         "antigua_and_barbuda",
         "argentina",
@@ -41709,6 +43054,10 @@
       "id": "the_andes",
       "title": "the Andean Community",
       "description": "The Andes as a group: the Andean Community, heirs of the Inca along the great cordillera.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/the_andes"
+      },
       "references": ["bolivia", "colombia", "ecuador", "peru"],
       "members": [
         {
@@ -41747,6 +43096,10 @@
       "id": "visegrad",
       "title": "The Visegrad Four",
       "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/visegrad"
+      },
       "references": ["czechia", "hungary", "poland", "slovakia"],
       "members": [
         {
