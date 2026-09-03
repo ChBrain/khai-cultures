@@ -22,7 +22,7 @@ Die dezentrale künstliche Identität.
 
 ## Has
 
-Ein tiefes, genetisches Misstrauen gegenüber jedem Zentralismus, eine zersplitterte, aber wehrhafte Identität der einzelnen Talschaften.
+Ein tiefes, genetisches Misstrauen gegenüber jedem Zentralismus, eine zersplitterte, aber wehrhafte Identität der einzelnen Talschaften. Sie ist eine Art, [die Schweizer Kultur](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md) zu leben, nämlich die eines Kantons, den Napoleon 1803 aus Resten zusammensetzte und der seine Einheit seither verwaltet, statt sie zu haben.
 
 ## Orders
 

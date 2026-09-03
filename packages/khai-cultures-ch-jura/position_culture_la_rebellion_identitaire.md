@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-L'àDN de l'insoumission.
+L'ADN de l'insoumission.
 
 ## Owner
 
@@ -22,7 +22,7 @@ L'àDN de l'insoumission.
 
 ## Has
 
-Une culture de la contestation, une mémoire collective des barricades et des manifestations, des chants patriotiques imprégnés de défi.
+Une culture de la contestation, une mémoire collective des barricades et des manifestations, des chants patriotiques imprégnés de défi. C'est une manière de vivre [la culture suisse](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md), celle qui a dû se battre pour y avoir sa place, et l'a obtenue en 1979 comme seul canton né d'une sécession.
 
 ## Orders
 

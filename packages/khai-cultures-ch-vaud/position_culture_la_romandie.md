@@ -22,7 +22,7 @@ Le front culturel latin face au pragmatisme germanique.
 
 ## Has
 
-Le poids démographique et géographique qui en fait la pierre angulaire de l'exception francophone suisse.
+Le poids démographique et géographique qui en fait la pierre angulaire de l'exception francophone suisse. C'est une manière de vivre [la culture suisse](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md), celle qui la parle en français, avec le poids de le rappeler.
 
 ## Orders
 

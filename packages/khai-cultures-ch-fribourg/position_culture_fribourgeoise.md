@@ -22,7 +22,7 @@ La forteresse spirituelle et politique.
 
 ## Has
 
-Le monopole moral sur l'histoire, la culpabilite ancree dans la pierre.
+Le monopole moral sur l'histoire, la culpabilite ancree dans la pierre. C'est une manière de vivre [la culture suisse](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md), celle du pont entre les deux langues, restée catholique là où le pays voisin s'est fait réformé.
 
 ## Orders
 

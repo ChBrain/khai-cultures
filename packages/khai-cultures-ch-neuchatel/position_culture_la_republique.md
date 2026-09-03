@@ -22,7 +22,7 @@ La ferveur démocratique et laïque.
 
 ## Has
 
-Un esprit de corps indéfectible, forgé dans la rupture avec l'àncien Régime.
+Un esprit de corps indéfectible, forgé dans la rupture avec l'Ancien Régime. C'est une manière de vivre [la culture suisse](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md), celle qui fut principauté prussienne jusqu'en 1848 et qui date sa république de la rupture.
 
 ## Orders
 
