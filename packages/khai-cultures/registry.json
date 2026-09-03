@@ -5620,7 +5620,7 @@
       "id": "ch_aargau",
       "title": "Aargau",
       "description": "Aargau staged as a culture: the ground the Habsburgs came from, taken, and made to carry what the country needs.",
-      "iso": "ch-ag",
+      "iso": "CH-AG",
       "members": [
         {
           "file": "persona_heinrich.md",
@@ -5837,7 +5837,7 @@
       "id": "ch_appenzell_innerrhoden",
       "title": "Appenzell Innerrhoden",
       "description": "Appenzell Innerrhoden: The archaic rural democracy resisting modern national interference.",
-      "iso": "ch-ai",
+      "iso": "CH-AI",
       "members": [
         {
           "file": "persona_regula.md",
@@ -5929,7 +5929,7 @@
       "id": "ch_basel_landschaft",
       "title": "Basel-Landschaft",
       "description": "Basel-Landschaft: The rural hinterland that fought for independence, evolving into an affluent suburban belt.",
-      "iso": "ch-bl",
+      "iso": "CH-BL",
       "members": [
         {
           "file": "persona_fritz.md",
@@ -6016,7 +6016,7 @@
       "id": "ch_basel_stadt",
       "title": "Basel-Stadt",
       "description": "Basel-Stadt: A humanist city-state at the border, balancing patrician tradition with its global life sciences industry.",
-      "iso": "ch-bs",
+      "iso": "CH-BS",
       "members": [
         {
           "file": "persona_dr_hoffmann.md",
@@ -6242,7 +6242,7 @@
       "id": "ch_fribourg",
       "title": "Fribourg",
       "description": "Fribourg: The Catholic bastion that built an elite and now bridges the French-German linguistic divide.",
-      "iso": "ch-fr",
+      "iso": "CH-FR",
       "members": [
         {
           "file": "persona_l_etudiant_catholique.md",
@@ -6334,7 +6334,7 @@
       "id": "ch_geneva",
       "title": "Genève",
       "description": "Genève: From a strict Calvinist republic to a global humanitarian and diplomatic hub.",
-      "iso": "ch-ge",
+      "iso": "CH-GE",
       "members": [
         {
           "file": "persona_chloe.md",
@@ -6684,7 +6684,7 @@
       "id": "ch_jura",
       "title": "Jura",
       "description": "Jura: The separatist struggle of a francophone people to break free from Bern and forge the youngest canton.",
-      "iso": "ch-ju",
+      "iso": "CH-JU",
       "members": [
         {
           "file": "persona_le_paysan_horloger.md",
@@ -6887,7 +6887,7 @@
       "id": "ch_neuchatel",
       "title": "Neuchâtel",
       "description": "Neuchâtel: The watchmaking republic that threw off the Prussian crown to forge a secular and innovative identity.",
-      "iso": "ch-ne",
+      "iso": "CH-NE",
       "members": [
         {
           "file": "persona_l_horloger.md",
@@ -7589,7 +7589,7 @@
       "id": "ch_st_gallen",
       "title": "St. Gallen",
       "description": "Sankt Gallen: The ring canton that evolved from a monastic superpower to a booming, vulnerable textile empire.",
-      "iso": "ch-sg",
+      "iso": "CH-SG",
       "members": [
         {
           "file": "persona_der_abt.md",
@@ -8032,7 +8032,7 @@
       "id": "ch_vaud",
       "title": "Vaud",
       "description": "Vaud: The proud agricultural heart of the Romandie, balancing its lake riviera with deep wine-growing roots.",
-      "iso": "ch-vd",
+      "iso": "CH-VD",
       "members": [
         {
           "file": "persona_l_etudiant_epfl.md",
@@ -8396,7 +8396,7 @@
       "id": "ch_zug",
       "title": "Zug",
       "description": "Zug: The transformation from a humble Catholic farming village to a hyper-wealthy commodity and crypto hub.",
-      "iso": "ch-zg",
+      "iso": "CH-ZG",
       "members": [
         {
           "file": "persona_der_crypto_bro.md",
