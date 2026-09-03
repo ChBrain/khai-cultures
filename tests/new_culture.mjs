@@ -98,6 +98,32 @@ if (!existsSync(dir)) {
     console.error("a new culture needs --iso (e.g. CH-AG); geo.json is not guessable.");
     process.exit(2);
   }
+  // Every dependency range the scaffold writes is read from the workspace as it
+  // stands, never typed. A hardcoded `^0.27.0` against a workspace at 0.28.0 is
+  // unsatisfiable -- a caret on a 0.x minor does not reach across it -- so npm
+  // falls through to the registry and 404s. That is what shipped with Corsica,
+  // and a typed range is wrong the moment anything it names is released again.
+  // tests/migration.test.mjs catches it, but only after the package is written.
+  const rangeFor = (name) => {
+    for (const p of [
+      join(root, "packages", name.replace("@chbrain/", "")),
+      join(root, "node_modules", name),
+    ]) {
+      const manifest = join(p, "package.json");
+      if (!existsSync(manifest)) continue;
+      try {
+        const { version } = JSON.parse(readFileSync(manifest, "utf8"));
+        if (version) return `^${version}`;
+      } catch {}
+    }
+    // Not resolvable here is not the scaffold's call to guess at. Say so and let
+    // the author decide, rather than writing a number nothing was measured from.
+    throw new Error(
+      `cannot resolve ${name} from the workspace or node_modules; ` +
+        "run `npm install` before scaffolding, so the range is measured and not typed",
+    );
+  };
+
   const parent = flag("parent");
   mkdirSync(dir, { recursive: true });
   console.log(`${pkgName}\n`);
@@ -120,10 +146,15 @@ if (!existsSync(dir)) {
         khai: { class: "house", production: id, anchor: `play_${stem}.md` },
         publishConfig: { registry: "https://npm.pkg.github.com", access: "public" },
         dependencies: {
-          ...(parent ? { [`@chbrain/khai-cultures-${parent.replace(/_/g, "-")}`]: "^0.1.0" } : {}),
-          "@chbrain/khai-cultures-tongues": "^0.27.0",
-          "@chbrain/khai-engine-language": "^0.1.5",
-          "@chbrain/khai-engine-spine": "^0.1.5",
+          ...(parent
+            ? (() => {
+                const n = `@chbrain/khai-cultures-${parent.replace(/_/g, "-")}`;
+                return { [n]: rangeFor(n) };
+              })()
+            : {}),
+          "@chbrain/khai-cultures-tongues": rangeFor("@chbrain/khai-cultures-tongues"),
+          "@chbrain/khai-engine-language": rangeFor("@chbrain/khai-engine-language"),
+          "@chbrain/khai-engine-spine": rangeFor("@chbrain/khai-engine-spine"),
         },
       },
       null,
