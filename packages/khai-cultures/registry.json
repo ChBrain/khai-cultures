@@ -15902,7 +15902,8 @@
           "kind": "process",
           "title": "The Gastronomic Meal"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-france"
     },
     {
       "kind": "culture",
@@ -41099,7 +41100,6 @@
         "denmark",
         "estonia",
         "finland",
-        "france",
         "greece",
         "hungary",
         "ireland",
@@ -41167,7 +41167,6 @@
         "djibouti",
         "dr_congo",
         "equatorial_guinea",
-        "france",
         "gabon",
         "guinea",
         "haiti",
@@ -41444,7 +41443,6 @@
         "denmark",
         "estonia",
         "finland",
-        "france",
         "greece",
         "hungary",
         "iceland",

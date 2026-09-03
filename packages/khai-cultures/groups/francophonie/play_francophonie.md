@@ -29,7 +29,7 @@ Le monde que la langue française a construit, et qui la reconstruit à son tour
 
 **Membres**
 
-- [la France](../../cultures/france/play_france.md) (la source de la langue)
+- [la France](@chbrain/khai-cultures-france/play_france.md) (la source de la langue)
 - [la Belgique](../../cultures/belgium/play_belgium.md)
 - [le Luxembourg](../../cultures/luxembourg/play_luxembourg.md)
 - [la Suisse](@chbrain/khai-cultures-switzerland/play_switzerland.md) (la Romandie)
@@ -63,7 +63,7 @@ Le monde que la langue française a construit, et qui la reconstruit à son tour
 
 **La langue française**
 
-La langue partagée est le vrai sol du groupe : née dans un royaume d'Europe, veillée par une Académie, elle est aujourd'hui la langue officielle de vingt-neuf États sur cinq continents, et la majorité de ses locuteurs vit en Afrique, de sorte que [la République démocratique du Congo](../../cultures/dr_congo/play_dr_congo.md) compte plus de francophones que [la France](../../cultures/france/play_france.md), et que l'avenir de la langue s'écrit au sud.
+La langue partagée est le vrai sol du groupe : née dans un royaume d'Europe, veillée par une Académie, elle est aujourd'hui la langue officielle de vingt-neuf États sur cinq continents, et la majorité de ses locuteurs vit en Afrique, de sorte que [la République démocratique du Congo](../../cultures/dr_congo/play_dr_congo.md) compte plus de francophones que [la France](@chbrain/khai-cultures-france/play_france.md), et que l'avenir de la langue s'écrit au sud.
 
 **L'empire et sa mémoire**
 

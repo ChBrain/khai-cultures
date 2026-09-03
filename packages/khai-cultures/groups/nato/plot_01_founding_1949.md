@@ -26,14 +26,14 @@ In the years after the Second World War the Soviet Union holds eastern Europe, c
 
 ## Action
 
-On 4 April 1949 twelve nations sign the North Atlantic Treaty in Washington. Its Article 5 declares that an armed attack on one is an attack on all, and for the first time the United States binds itself to the defence of Europe in peacetime. The founders are the two North American powers, [the United States](../../cultures/usa/play_usa.md) and [Canada](../../cultures/canada/play_canada.md), and ten of Europe's west: [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md), [France](../../cultures/france/play_france.md), [Italy](../../cultures/italy/play_italy.md), the Benelux three, the Nordic pair of [Denmark](../../cultures/denmark/play_denmark.md) and [Norway](../../cultures/norway/play_norway.md), [Iceland](../../cultures/iceland/play_iceland.md), and [Portugal](../../cultures/portugal/play_portugal.md). Its first secretary general sums the purpose up: to keep the Americans in, the Russians out, and the Germans down.
+On 4 April 1949 twelve nations sign the North Atlantic Treaty in Washington. Its Article 5 declares that an armed attack on one is an attack on all, and for the first time the United States binds itself to the defence of Europe in peacetime. The founders are the two North American powers, [the United States](../../cultures/usa/play_usa.md) and [Canada](../../cultures/canada/play_canada.md), and ten of Europe's west: [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md), [France](@chbrain/khai-cultures-france/play_france.md), [Italy](../../cultures/italy/play_italy.md), the Benelux three, the Nordic pair of [Denmark](../../cultures/denmark/play_denmark.md) and [Norway](../../cultures/norway/play_norway.md), [Iceland](../../cultures/iceland/play_iceland.md), and [Portugal](../../cultures/portugal/play_portugal.md). Its first secretary general sums the purpose up: to keep the Americans in, the Russians out, and the Germans down.
 
 ## Stage
 
 - [the United States](../../cultures/usa/play_usa.md): the power whose commitment to Europe is the treaty's whole point.
 - [Canada](../../cultures/canada/play_canada.md): the other North American founder, binding the alliance across the ocean.
 - [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md): the prime mover among the Europeans.
-- [France](../../cultures/france/play_france.md): a founder that will later test the alliance from within.
+- [France](@chbrain/khai-cultures-france/play_france.md): a founder that will later test the alliance from within.
 
 ## Tension
 
