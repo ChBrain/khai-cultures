@@ -34,4 +34,4 @@ Der Grosse Rat und die dezentrale Verwaltung, die jeder Region ihre Eigenheiten 
 
 ## Echo
 
-Ein politisches Klima, das Extreme meidet und stets den Mittelweg sucht, auch wenn dieser zäh und langwierig ist.
+Ein politisches Klima, das Extreme meidet und den Mittelweg sucht, auch wenn er zäh und langwierig ist. Der Ausgleich ist hier keine Tugend, sondern der Überlebensinstinkt eines Kantons, dessen Teile nie zueinander gehört haben.
