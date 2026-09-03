@@ -1,48 +1,44 @@
 ---
 ---
 
-**Records what `geo.json` carries, and removes the only geometry in the house.**
+**Records what `geo.json` carries: `iso` stays one string, `covers` says what to
+paint.**
 
-`geo.json` is not a cartographic key. Its ISO code is the id, the permanent npm
-package name, the parent-nesting check, and on the website the display name, the
-region colour, the parent and whether a page exists at all. It is the primary key
-of the whole consumer surface, which is why it is rigid and why anything flexible
-has to go somewhere else.
+`iso` does five jobs - permanent package name, id prefix the conformance gate
+checks, display name, region colour, page URL. A list can be none of them, so
+making it polymorphic breaks five consumers to serve a sixth.
 
-**Geometry stays out permanently.** GADM is not redistributable and OSM's ODbL
-share-alike propagates, so real boundaries would have to be licence-cleared three
-hundred times. OSM relation ids are explicitly unstable. And the renderer already
-owns projection in a space that is not longitude and latitude - Spain ships the
-Canaries as a fake-coordinate inset, the United States as a pre-projected Albers
-composite - so a file carrying real coordinates would force every file to declare
-which space it is in. The eleven `lat`/`lon` points were one generator's artefact,
-not a precedent; they are removed, and `geo.json` now holds `iso` 316 times and
-nothing else.
+Some cultures are more than one shape. Germany never is: a Bundesland is both the
+map and the culture. France is, because its 2016 regions are administrative
+mergers while its departements, drawn in 1790 on the old provinces, fit the
+cultures. So `covers` carries the drawing and the anchor keeps naming the
+culture, and the two are allowed to disagree - `FR-BRE` anchors Brittany, and the
+list includes `FR-44`, which holds Nantes and sits outside the region.
 
-**Extent, when the code is not the whole answer.** Cohn and Gotts's egg-yolk:
-`core` certainly in, `maximal` possibly in, the disagreement being the difference.
-Absence means crisp, so no field is added to the three hundred cultures that need
-none. `disputed` and `undrawn` are available, and a recorded refusal is a stronger
-claim than a boundary, because a boundary can only be wrong. It is codes and never
-shapes, which keeps it projection-free and lets a renderer choose a
-non-territorial symbology instead of the state-shaped grammar a merged polygon
-has already chosen for it. `asOf` is required: France redrew its regions in 2016
-and `FR-6AE` only came into being in 2021. The reasoning goes in REFERENCES.md,
-where the house already records judgement; a `note` field would become a second,
-worse REFERENCES that no gate reads.
+Absent `covers` means paint the anchor, so the three hundred single-shape
+cultures are untouched.
 
-**What it found.** None of the nineteen groups carries a `geo.json`, so a member
-list is doing the work of a boundary. `dach` names three, and Liechtenstein
-appears nowhere in it - not in the play, README, REFERENCES or plot - although it
-is German-speaking, Alemannic, inside the Swiss customs union, and already a
-culture here. It is absent because the acronym has four letters and none is L.
-Extent lets the group keep its name and say that its maximal is four, and names
-South Tyrol and German-speaking Belgium as maximal members that do not exist in
-this house at all.
+Internal borders stay. A dissolved outline is the grammar maps use for states, so
+Brittany-with-Nantes drawn with one hard edge would make a claim in the symbology
+that the data never made. Five units in one fill reads as _these five places_.
 
-For a culture the pair describes a boundary nobody agrees on; for a group, the
-same pair describes membership nobody agrees on.
+Geometry stays out: GADM is not redistributable, OSM relation ids are unstable
+and ODbL propagates, and the renderer joins codes to boundaries offline from
+geoBoundaries, which carries France at ADM2 where Natural Earth stops at ADM1.
 
-The lowercase ISO codes are deliberately left alone. Normalising them switches on
-a nesting check that nine of those eleven cultures currently fail, and that debt
-is fixed before the case is, not after.
+Where `covers` cannot be written, the honest answer is not to draw. The French
+Basque Country is half of `FR-64`, but the Communaute d'agglomeration Pays Basque
+exists as a real body and can be pointed at if `covers` admits namespaced non-ISO
+codes. Occitania has no such answer at any depth - its boundary is an isogloss
+and the smallest unit that could trace it is the commune, of which France has
+34,000. Label it, do not draw it, and no point either: a dot on Toulouse asserts
+Occitania is at Toulouse, which is more wrong than silence.
+
+Supersedes the first draft of this record, which proposed a core-and-maximal
+extent formalism and used DACH as its example. Both were wrong. `covers` is the
+same idea in working clothes, and the DACH case failed on its own evidence: that
+group's arc is the making of the written standard - its one plot is the 1901
+Orthographic Conference - and `de_li` in this house already says Liechtenstein
+Standard German is "a written norm the country did not make". Liechtenstein
+receives the standard rather than making it, so it is not a member, and adding it
+would have put two files here in contradiction.
