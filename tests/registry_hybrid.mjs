@@ -33,7 +33,7 @@ import { join, relative, sep } from "node:path";
 import { tmpdir } from "node:os";
 import { pathToFileURL } from "node:url";
 import { buildRegistry, deriveVersionFrom } from "@chbrain/khai-tests";
-import { WORKSPACE, HOUSE, productions, cultures } from "./culture_sources.mjs";
+import { WORKSPACE, HOUSE, productions, cultures, packageIds } from "./culture_sources.mjs";
 
 const rel = (p) => relative(WORKSPACE, p).split(sep).join("/");
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
@@ -79,11 +79,27 @@ function builtFrom(dirs, extra = {}) {
   }
 }
 
-/** Registry entries for the migrated cultures, each naming the package that ships it. */
+/**
+ * Registry entries for the migrated cultures, each naming the package that
+ * ships it and where inside that package its files sit.
+ *
+ * `source` is the kit's own field and the kit stamps it on every entry, but it
+ * stamps what is true of the SCRATCH tree `builtFrom` hands it: the umbrella's
+ * name, and `cultures/<id>`. That is right for a culture still under the
+ * umbrella and false for one that has left, so this overwrites it with the two
+ * facts only the house knows - the production's npm name, and the empty path
+ * that says the package root IS the unit.
+ *
+ * `package` rides alongside for one minor as a deprecated mirror of
+ * `source.package`. It was this house's own field before the kit had one, it is
+ * published, and a consumer that adopted it should not find it gone without
+ * warning. Nothing in this house reads it any more.
+ */
 export function migratedEntries(list = productions()) {
   const byId = new Map(list.map((p) => [p.id, p]));
   return builtFrom(list.map((p) => [p.id, p.dir])).map((e) => ({
     ...e,
+    source: { package: byId.get(e.id)?.name, path: "" },
     package: byId.get(e.id)?.name,
   }));
 }
@@ -116,7 +132,12 @@ export function builtCultures() {
  */
 export function hybrid(from = read(HOUSE_PKG).version) {
   const registry = read(REGISTRY);
-  const built = (registry.cultures ?? []).filter((e) => !e.package);
+  // The kit's build has just rewritten this file and could only see the
+  // umbrella's own directories, so every entry in it is a monolith one. Read
+  // that off `source` rather than off the absence of `package`: an entry under
+  // the umbrella carries a path below it, one that has left carries "". The
+  // house no longer asks a deprecated field where a unit lives.
+  const built = (registry.cultures ?? []).filter((e) => e.source?.path !== "");
   const all = [...built, ...migratedEntries()].sort((a, b) => a.id.localeCompare(b.id));
   const version = deriveVersionFrom(from, all.length);
   return { ...registry, version, cultures: all, groups: registry.groups ?? [] };
@@ -132,7 +153,13 @@ export function hybrid(from = read(HOUSE_PKG).version) {
  */
 export function write() {
   const from = read(HOUSE_PKG).version;
-  buildRegistry(HOUSE);
+  // The map is what lets a group whose members have migrated still derive them.
+  // Its casts became package specifiers when they left, and the kit's link rule
+  // reads that shape only when somebody says which package is which culture.
+  // Without it DACH derives nothing - and since the kit now treats a referencing
+  // entry that derives nothing as a build error, a forgotten map goes red here
+  // rather than shipping a hollow group, which is exactly what it did before.
+  buildRegistry(HOUSE, { packageIds: packageIds() });
   const next = hybrid(from);
   const pkg = read(HOUSE_PKG);
   const changed = [];
