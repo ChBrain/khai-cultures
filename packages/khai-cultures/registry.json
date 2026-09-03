@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.316.0",
+  "version": "0.317.0",
   "cultures": [
     {
       "kind": "culture",
@@ -15739,6 +15739,126 @@
           "title": "Florida Citrus Harvesting"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "fr_corsica",
+      "title": "Corsica",
+      "description": "Corsica: l'isula chì hè stata una republica prima d'esse un dipartimentu, è chì ùn hà mai cunsentitu.",
+      "iso": "FR-20R",
+      "members": [
+        {
+          "file": "persona_a_maestra.md",
+          "kind": "persona",
+          "title": "Persona: A maestra",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_u_funziunariu.md",
+          "kind": "persona",
+          "title": "Persona: U funziunariu",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_u_paolistu.md",
+          "kind": "persona",
+          "title": "Persona: U paolistu",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_a_bandera_di_a_testa_mora.md",
+          "kind": "piece",
+          "title": "Piece: A Bandera di a Testa Mora"
+        },
+        {
+          "file": "piece_u_brocciu.md",
+          "kind": "piece",
+          "title": "Piece: U Brocciu"
+        },
+        {
+          "file": "pitch_corsica.md",
+          "kind": "pitch",
+          "title": "Pitch: U Tonu Corsu",
+          "taxonomy": "play_corsica.md"
+        },
+        {
+          "file": "place_aiacciu.md",
+          "kind": "place",
+          "title": "Place: Aiacciu"
+        },
+        {
+          "file": "place_corti.md",
+          "kind": "place",
+          "title": "Place: Corti"
+        },
+        {
+          "file": "place_ponte_novu.md",
+          "kind": "place",
+          "title": "Place: Ponte Novu"
+        },
+        {
+          "file": "play_corsica.md",
+          "kind": "play",
+          "title": "Corsica"
+        },
+        {
+          "file": "plot_00_a_republica_di_paoli_1755.md",
+          "kind": "plot",
+          "title": "Plot: A Republica di Paoli 1755"
+        },
+        {
+          "file": "plot_01_ponte_novu_1769.md",
+          "kind": "plot",
+          "title": "Plot: Ponte Novu 1769"
+        },
+        {
+          "file": "plot_02_l_isula_chi_parte.md",
+          "kind": "plot",
+          "title": "Plot: L'isula chì parte"
+        },
+        {
+          "file": "plot_03_u_riacquistu.md",
+          "kind": "plot",
+          "title": "Plot: U Riacquistu"
+        },
+        {
+          "file": "plot_04_u_populu_corsu_1991.md",
+          "kind": "plot",
+          "title": "Plot: U populu corsu 1991"
+        },
+        {
+          "file": "plot_99_una_lingua_senza_statutu.md",
+          "kind": "plot",
+          "title": "Plot: Una lingua senza statutu"
+        },
+        {
+          "file": "position_a_pulinumia.md",
+          "kind": "position",
+          "title": "Position: A pulinumia"
+        },
+        {
+          "file": "position_culture_a_cultura_corsa.md",
+          "kind": "position",
+          "title": "Position: A cultura corsa",
+          "taxonomy": "position_culture_une_certaine_idee_de_la_france.md"
+        },
+        {
+          "file": "position_u_statutu_particulare.md",
+          "kind": "position",
+          "title": "Position: U statutu particulare"
+        },
+        {
+          "file": "process_a_paghjella.md",
+          "kind": "process",
+          "title": "Process: A Paghjella"
+        },
+        {
+          "file": "process_u_catenacciu.md",
+          "kind": "process",
+          "title": "Process: U Catenacciu"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-fr-corsica"
     },
     {
       "kind": "culture",
