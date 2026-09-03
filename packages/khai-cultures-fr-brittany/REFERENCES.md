@@ -176,10 +176,12 @@ the next hand argues with a reason instead of asking again:
   documented and are not given a scene. This culture's arc is an administrative
   argument, not a security file: every non-answer in the plot line is a decree
   or a reform, and a plot about explosives would answer a question about
-  violence that the Arc, the Name and the Stakes never ask. Corsica's
-  [plot_03](@chbrain/khai-cultures-fr-corsica/plot_03_u_riacquistu.md) stages
-  Aleria because there the violence changed the legal argument; here it did not
-  change anything, which is precisely the difference the two cultures are for.
+  violence that the Arc, the Name and the Stakes never ask. Corsica stages
+  Aleria in its own third plot because there the violence changed the legal
+  argument; here it did not change anything, which is precisely the difference
+  the two cultures are for. That comparison is named and not linked: a
+  documentation cross-reference is not a reason for this package to declare a
+  dependency on Corsica's.
 - **The wartime collaboration as its own plot.** It is held inside
   [position_an_emsav](position_an_emsav.md), where it belongs: it is not an
   event in the country's arc but a permanent condition of the movement that

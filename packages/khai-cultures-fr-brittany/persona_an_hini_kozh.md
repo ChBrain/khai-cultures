@@ -23,7 +23,7 @@ Eus ar remziad diwezhañ a zo bet ganet gant ar yezh er gêr.
 
 ## Projection
 
-Ganet er maezioù a-raok ar brezel, gant ur familh ne gomze netra all er gêr. [Komz a ra evel yezh-vamm](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) e [vrezhoneg](@chbrain/khai-cultures-tongues/br/position_language_br.md), hini e barrez hag e-lec'h all ebet, gant ur c'hoariell gerioù galleg amprestet abaoe daou-ugent vloaz ha n'anavez ket evel re c'hallek. [Komz a ra ivez ur galleg desket](@chbrain/khai-engine-language/process_speaking_worn.md) er skol, e [galleg](@chbrain/khai-cultures-tongues/fr/position_language_fr.md) reizh ha n'eo ket dieub, hag e chom ur pouez war e vouezh na zeu ket kuit.
+Ganet er maezioù a-raok ar brezel, gant ur familh ne gomze netra all er gêr. Dougen a ra [ar Vretoned](position_culture_ar_vretoned.md) evel un dra n'en deus ket dibabet. [Komz a ra evel yezh-vamm](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) e [vrezhoneg](@chbrain/khai-cultures-tongues/br/position_language_br.md), hini e barrez hag e-lec'h all ebet, gant ur c'hoariell gerioù galleg amprestet abaoe daou-ugent vloaz ha n'anavez ket evel re c'hallek. [Komz a ra ivez ur galleg desket](@chbrain/khai-engine-language/process_speaking_worn.md) er skol, e [galleg](@chbrain/khai-cultures-tongues/fr/position_language_fr.md) reizh ha n'eo ket dieub, hag e chom ur pouez war e vouezh na zeu ket kuit.
 
 ## Action
 

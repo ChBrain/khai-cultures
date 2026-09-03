@@ -23,7 +23,7 @@ Eus ar remziad kentañ o tont d'ar yezh dre ar skol ha n'eo ket dre an ti.
 
 ## Projection
 
-Kaset d'ar skol soubidigezh a-raok gouzout lenn, gant kerent ha ne gomzont ket ar yezh. [Komz a ra evel yezh-vamm](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) e [c'halleg](@chbrain/khai-cultures-tongues/fr/position_language_fr.md), rak eno eo e vev. [Komz a ra ur brezhoneg gwisket](@chbrain/khai-engine-language/process_speaking_worn.md), gwiskadur ne ziwisk ket, hag e [vrezhoneg](@chbrain/khai-cultures-tongues/br/position_language_br.md) a zo hini ar c'hlas: peurunvan, resis, leun a c'herioù savet e-pad e vuhez.
+Kaset d'ar skol soubidigezh a-raok gouzout lenn, gant kerent ha ne gomzont ket ar yezh: un dra n'eus ket bet goulennet an aotre evitañ, ha setu [an Emsav](position_an_emsav.md) e-unan. [Komz a ra evel yezh-vamm](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) e [c'halleg](@chbrain/khai-cultures-tongues/fr/position_language_fr.md), rak eno eo e vev. [Komz a ra ur brezhoneg gwisket](@chbrain/khai-engine-language/process_speaking_worn.md), gwiskadur ne ziwisk ket, hag e [vrezhoneg](@chbrain/khai-cultures-tongues/br/position_language_br.md) a zo hini ar c'hlas: peurunvan, resis, leun a c'herioù savet e-pad e vuhez.
 
 ## Action
 

@@ -23,7 +23,7 @@ Eus ar re a zoug ar yezh er sonerezh a-raok he dougen er gomz.
 
 ## Projection
 
-Desket en deus kanañ e-kichen ar re gozh e-pad ugent vloaz a festoù-noz. [Tapout a ra dre ar skouarn](@chbrain/khai-engine-language/process_hearing_caught.md) ar [brezhoneg](@chbrain/khai-cultures-tongues/br/position_language_br.md) a gan, gerioù a oar dre spered hep gouzout atav pep hini anezho, hag e [gomz evel yezh-vamm](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) e [c'halleg](@chbrain/khai-cultures-tongues/fr/position_language_fr.md) an devezh a-bezh.
+Desket en deus kanañ e-kichen ar re gozh e-pad ugent vloaz a festoù-noz, e Naoned evel e Karaez, ha dre-se e oar dre e dreid ar pezh a lavar [ar pempvet departamant](position_ar_pempvet_departamant.md). [Tapout a ra dre ar skouarn](@chbrain/khai-engine-language/process_hearing_caught.md) ar [brezhoneg](@chbrain/khai-cultures-tongues/br/position_language_br.md) a gan, gerioù a oar dre spered hep gouzout atav pep hini anezho, hag e [gomz evel yezh-vamm](@chbrain/khai-engine-language/process_speaking_mother_tongue.md) e [c'halleg](@chbrain/khai-cultures-tongues/fr/position_language_fr.md) an devezh a-bezh.
 
 ## Action
 

@@ -32,6 +32,7 @@ Adalek ar bloavezhioù 1970 e teuas an distro. Alan Stivell a lakaas an delenn h
 
 - `persona`: [An diwaner](persona_an_diwaner.md)
 - `persona`: [Ar soner](persona_ar_soner.md)
+- `place`: [Karaez](place_karaez.md)
 - `piece`: [Ar Gwenn-ha-Du](piece_ar_gwenn_ha_du.md)
 - `process`: [Ar fest-noz](process_ar_fest_noz.md)
 
