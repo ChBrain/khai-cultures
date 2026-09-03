@@ -18,7 +18,10 @@
   "khai": {
     "class": "house",
     "production": "fr_alsace",
-    "anchor": "play_alsace.md"
+    "anchor": "play_alsace.md",
+    "languages": [
+      "gsw"
+    ]
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",

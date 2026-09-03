@@ -1,7 +1,7 @@
 ---
 khai: play
 title: "Alsace"
-description: "s Elsass: s Land, wo fenf Mol s Land gwächslet het un jedes Mol hätt solle beweise, ass es scho ìmmer zuem neje ghert het."
+description: "s Elsass: s Land zwische zwei Staate, wo fenf Mol d Sitt gwächslet het un jedes Mol het meesse beweise, wo s ane ghert."
 declared: "s Elsass"
 language: gsw
 license: CC-BY-NC-SA-4.0
