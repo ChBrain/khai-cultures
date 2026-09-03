@@ -26,13 +26,13 @@ La langue du royaume prend la mer. Vers le nord, elle fonde une Nouvelle-France 
 
 ## Action
 
-En 1608, Champlain fonde Québec, et la Nouvelle-France enracine le français sur le Saint-Laurent et en Acadie ; cédée à la couronne britannique en 1763, elle refuse de disparaître, et c'est la survivance : quatre siècles durant, le [Canada](../../cultures/canada/play_canada.md) français garde sa langue contre la marée anglophone du continent, paroisse par paroisse puis loi par loi, jusqu'à en faire l'une des deux langues officielles de la fédération et la langue du Québec. Aux Antilles, l'histoire est plus sombre : Saint-Domingue, la plus riche colonie du monde, est bâtie sur la plantation et sur l'esclavage, tenu ici avec sobriété, d'après le registre public et sans détail d'atrocité ; en 1804, les esclaves insurgés en font [Haïti](../../cultures/haiti/play_haiti.md), la première république noire de l'histoire, qui garde la langue du maître vaincu aux côtés du créole né des siècles de la plantation, et la retourne en langue de sa propre liberté. Des deux rives, la leçon est la même : la langue de [la France](../../cultures/france/play_france.md) peut vivre sans la France.
+En 1608, Champlain fonde Québec, et la Nouvelle-France enracine le français sur le Saint-Laurent et en Acadie ; cédée à la couronne britannique en 1763, elle refuse de disparaître, et c'est la survivance : quatre siècles durant, le [Canada](../../cultures/canada/play_canada.md) français garde sa langue contre la marée anglophone du continent, paroisse par paroisse puis loi par loi, jusqu'à en faire l'une des deux langues officielles de la fédération et la langue du Québec. Aux Antilles, l'histoire est plus sombre : Saint-Domingue, la plus riche colonie du monde, est bâtie sur la plantation et sur l'esclavage, tenu ici avec sobriété, d'après le registre public et sans détail d'atrocité ; en 1804, les esclaves insurgés en font [Haïti](../../cultures/haiti/play_haiti.md), la première république noire de l'histoire, qui garde la langue du maître vaincu aux côtés du créole né des siècles de la plantation, et la retourne en langue de sa propre liberté. Des deux rives, la leçon est la même : la langue de [la France](@chbrain/khai-cultures-france/play_france.md) peut vivre sans la France.
 
 ## Stage
 
 - [le Canada](../../cultures/canada/play_canada.md) : la Nouvelle-France devenue survivance, le Québec et l'Acadie gardant la langue quatre siècles.
 - [Haïti](../../cultures/haiti/play_haiti.md) : la colonie esclavagiste devenue première république noire, la langue retournée en liberté.
-- [la France](../../cultures/france/play_france.md) : la métropole qui sème puis perd ses Amériques, et dont la langue reste.
+- [la France](@chbrain/khai-cultures-france/play_france.md) : la métropole qui sème puis perd ses Amériques, et dont la langue reste.
 
 ## Tension
 

@@ -34,7 +34,7 @@ En 1970, à Niamey, la Francophonie institutionnelle naît de la volonté du sud
 - [le Niger](../../cultures/niger/play_niger.md) : la terre de la fondation de 1970, et l'un des trois États du Sahel partis en 2025.
 - [la République démocratique du Congo](../../cultures/dr_congo/play_dr_congo.md) : le plus grand pays francophone du monde, Kinshasa première ville de la langue.
 - [le Mali](../../cultures/mali/play_mali.md) : la rupture de 2025, quitter l'organisation sans quitter la langue.
-- [la France](../../cultures/france/play_france.md) : l'ancienne métropole devenue minoritaire dans sa propre langue.
+- [la France](@chbrain/khai-cultures-france/play_france.md) : l'ancienne métropole devenue minoritaire dans sa propre langue.
 
 ## Tension
 
