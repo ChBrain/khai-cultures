@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.318.0",
+  "version": "0.319.0",
   "cultures": [
     {
       "kind": "culture",
@@ -16235,6 +16235,145 @@
           "title": "Florida Citrus Harvesting"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "fr_alsace",
+      "title": "Alsace",
+      "description": "s Elsass: s Land, wo fenf Mol s Land gwächslet het un jedes Mol hätt solle beweise, ass es scho ìmmer zuem neje ghert het.",
+      "source": {
+        "package": "@chbrain/khai-cultures-fr-alsace",
+        "path": ""
+      },
+      "iso": "FR-6AE",
+      "members": [
+        {
+          "file": "persona_d_lehrere.md",
+          "kind": "persona",
+          "title": "Persona: D Lehrere",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_de_grenzgaenger.md",
+          "kind": "persona",
+          "title": "Persona: De Grenzgänger",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_de_grossvadder.md",
+          "kind": "persona",
+          "title": "Persona: De Grossvadder",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_s_rot_un_wiss.md",
+          "kind": "piece",
+          "title": "Piece: S Rot un Wiss",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "piece_s_storichenaescht.md",
+          "kind": "piece",
+          "title": "Piece: S Storichenäscht",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "pitch_alsace.md",
+          "kind": "pitch",
+          "title": "Pitch: De elsässisch Ton",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_colmar.md",
+          "kind": "place",
+          "title": "Place: Colmar",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_de_rhin.md",
+          "kind": "place",
+          "title": "Place: De Rhin",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_strossburi.md",
+          "kind": "place",
+          "title": "Place: Strossburi",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "play_alsace.md",
+          "kind": "play",
+          "title": "Alsace"
+        },
+        {
+          "file": "plot_00_s_rich_kummt_zue_frankrich_1681.md",
+          "kind": "plot",
+          "title": "Plot: S Rich kummt zue Frankrich 1681",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_01_de_rhin_wurd_e_graenz_1789.md",
+          "kind": "plot",
+          "title": "Plot: De Rhin wurd e Gränz 1789",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_02_s_richsland_1871.md",
+          "kind": "plot",
+          "title": "Plot: S Richsland 1871",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_03_d_kartle_a_b_c_d_1918.md",
+          "kind": "plot",
+          "title": "Plot: D Kartle A B C D 1918",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_04_d_malgre_nous_1942.md",
+          "kind": "plot",
+          "title": "Plot: D Malgré-nous 1942",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_99_kei_gsetz_het_s_verbote.md",
+          "kind": "plot",
+          "title": "Plot: Kei Gsetz het s verbote",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "position_culture_d_elsasser.md",
+          "kind": "position",
+          "title": "Position: D Elsasser",
+          "taxonomy": "position_culture_une_certaine_idee_de_la_france.md"
+        },
+        {
+          "file": "position_d_malgre_nous.md",
+          "kind": "position",
+          "title": "Position: D Malgré-nous",
+          "taxonomy": "position_culture_d_elsasser.md"
+        },
+        {
+          "file": "position_s_droit_local.md",
+          "kind": "position",
+          "title": "Position: S Droit local",
+          "taxonomy": "position_culture_d_elsasser.md"
+        },
+        {
+          "file": "process_s_christkindelsmaerik.md",
+          "kind": "process",
+          "title": "Process: S Christkindelsmärik",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "process_s_messti.md",
+          "kind": "process",
+          "title": "Process: S Messti",
+          "taxonomy": "play_alsace.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-fr-alsace"
     },
     {
       "kind": "culture",
