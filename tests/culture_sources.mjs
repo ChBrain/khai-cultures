@@ -152,6 +152,23 @@ export function productions(workspace = WORKSPACE) {
 }
 
 /**
+ * The npm name of every migrated culture, mapped to the culture id it ships.
+ *
+ * What the kit's registry build needs to read a cast that has become a package
+ * specifier: `](@chbrain/khai-cultures-germany/play_germany.md)` names a culture
+ * only if somebody can say which. The kit will not derive it, and is right not
+ * to - the name is this house's own rule, frozen before the first publish, and a
+ * kit that hard-coded it would be wrong for the next house to walk. So the house
+ * that owns the rule hands over the answer.
+ *
+ * Derived from the productions actually present, never a maintained list, so it
+ * is correct at every point of a one-way walk including both of its ends.
+ */
+export function packageIds(workspace = WORKSPACE) {
+  return new Map(productions(workspace).map((p) => [p.name, p.id]));
+}
+
+/**
  * Every culture in the house, wherever it lives, as
  * `{ id, dir, migrated, packageName, packageDir }`.
  *
