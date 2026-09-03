@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.317.0",
+  "version": "0.318.0",
   "cultures": [
     {
       "kind": "culture",
@@ -16235,6 +16235,145 @@
           "title": "Florida Citrus Harvesting"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "fr_brittany",
+      "title": "Brittany",
+      "description": "Breizh: ar vro a zo bet un dugelezh gant he breujoù he-unan, hag a zo bet troc'het e pemp ha neuze e pevar.",
+      "source": {
+        "package": "@chbrain/khai-cultures-fr-brittany",
+        "path": ""
+      },
+      "iso": "FR-BRE",
+      "members": [
+        {
+          "file": "persona_an_diwaner.md",
+          "kind": "persona",
+          "title": "Persona: An diwaner",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_an_hini_kozh.md",
+          "kind": "persona",
+          "title": "Persona: An hini kozh",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_ar_soner.md",
+          "kind": "persona",
+          "title": "Persona: Ar soner",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_ar_gwenn_ha_du.md",
+          "kind": "piece",
+          "title": "Piece: Ar Gwenn-ha-Du",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "piece_ar_symbol.md",
+          "kind": "piece",
+          "title": "Piece: Ar symbol",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "pitch_brittany.md",
+          "kind": "pitch",
+          "title": "Pitch: Ton Breizh",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "place_karaez.md",
+          "kind": "place",
+          "title": "Place: Karaez",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "place_naoned.md",
+          "kind": "place",
+          "title": "Place: Naoned",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "place_roazhon.md",
+          "kind": "place",
+          "title": "Place: Roazhon",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "play_brittany.md",
+          "kind": "play",
+          "title": "Brittany"
+        },
+        {
+          "file": "plot_00_rouantelezh_ha_dugelezh_851.md",
+          "kind": "plot",
+          "title": "Rouantelezh ha dugelezh 851",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "plot_01_unvaniezh_1532.md",
+          "kind": "plot",
+          "title": "An unvaniezh 1532",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "plot_02_pemp_departamant_1790.md",
+          "kind": "plot",
+          "title": "Pemp departamant 1790",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "plot_03_ar_symbol_er_skol.md",
+          "kind": "plot",
+          "title": "Ar symbol er skol",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "plot_04_naoned_er_maez_1941.md",
+          "kind": "plot",
+          "title": "Naoned er-maez 1941",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "plot_99_ur_yezh_hep_statud.md",
+          "kind": "plot",
+          "title": "Ur yezh hep statud",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "position_an_emsav.md",
+          "kind": "position",
+          "title": "Position: An Emsav",
+          "taxonomy": "position_culture_ar_vretoned.md"
+        },
+        {
+          "file": "position_ar_pempvet_departamant.md",
+          "kind": "position",
+          "title": "Position: Ar pempvet departamant",
+          "taxonomy": "position_culture_ar_vretoned.md"
+        },
+        {
+          "file": "position_culture_ar_vretoned.md",
+          "kind": "position",
+          "title": "Position: Ar Vretoned",
+          "taxonomy": "position_culture_une_certaine_idee_de_la_france.md"
+        },
+        {
+          "file": "process_ar_fest_noz.md",
+          "kind": "process",
+          "title": "Process: Ar fest-noz",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "process_ar_pardon.md",
+          "kind": "process",
+          "title": "Process: Ar pardon",
+          "taxonomy": "play_brittany.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-fr-brittany"
     },
     {
       "kind": "culture",
