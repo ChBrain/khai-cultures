@@ -98,10 +98,24 @@ describe("Cultures house: content conforms to the canon", () => {
     // built by the kit - and `tests/migration.test.mjs` asserts it has no drift.
     // Dropping them without that replacement would leave the house with no drift
     // check at all, which is the shape of failure this repository keeps finding.
+    // A third finding of the same kind, and it arrives with the link rule that
+    // fixed the groups. `validateCollectionRegistry` rebuilds the registry to
+    // compare against, and that rebuild sees only the umbrella's directories, so
+    // a group whose members have all migrated derives no references and the
+    // kit's new "a group is defined by what it references" error stops the
+    // rebuild outright. The reference is not missing - DACH casts all three, by
+    // package specifier - and reading that shape needs a packageIds map the kit
+    // has no way to build for itself. `buildRegistry` takes one; `verifyRegistry`
+    // and `validateCollectionRegistry` do not yet, which is a gap in the kit and
+    // NOT this house's to paper over: it is filed for khai-tests, and until it
+    // lands the finding is dropped on exactly the terms the other two are - the
+    // kit's drift check is REPLACED here by registry_hybrid.mjs, which passes
+    // the map, rebuilds both halves and reports no drift.
     const migrated = productions().map((p) => p.id);
     const hybridNoise = (file, e) =>
       file.endsWith("registry.json") &&
       (/registry\.json is out of date with its source/.test(e) ||
+        /could not rebuild registry\.json to check it for drift/.test(e) ||
         migrated.some((id) => e.includes(`declares culture "${id}"`)));
     const errors = results
       .flatMap((r) => (r.errors ?? []).map((e) => [r.file, e]))
