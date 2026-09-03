@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **75 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **76 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -82,6 +82,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `fr/position_language_fr_fr.md`        | French Standard French: an arithmetic in its numbers, and a norm with an address                                                                     | `fr`         |
 | `gallo/position_language_gallo.md`     | Gallo: a langue d'oil of upper Brittany, sister to French rather than daughter, and the only tongue in this package with no code of its own anywhere | `fr-x-gallo` |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                                                    | `gsw`        |
+| `gsw/position_language_gsw_fr.md`      | Alsatian: the Alemannic variety whose written roof was removed rather than replaced                                                                  | `gsw`        |
 | `hr/position_language_hr.md`           | Croatian as such, of which Burgenland Croatian will be a variety                                                                                     | `hr`         |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                                                           | `hsb`        |
 | `hu/position_language_hu.md`           | Hungarian as such: agglutination, vowel harmony, and no grammatical gender                                                                           | `hu`         |

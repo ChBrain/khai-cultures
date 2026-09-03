@@ -295,6 +295,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "gsw/position_language_gsw_fr.md",
+        "type": "position",
+        "parent": "gsw/position_language_gsw.md"
+      },
+      {
         "file": "hr/position_language_hr.md",
         "type": "position",
         "parent": "position_language.md"
