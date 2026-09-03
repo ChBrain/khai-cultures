@@ -23,8 +23,7 @@ Corsican, and it should be treated as staged prose awaiting native review, not
 as attested usage. The likely faults are the ones a non-speaker makes: the
 initial-consonant lenition the tongue position names as its Orders is a
 pronunciation rule and does not surface in spelling, so nothing here proves it
-was respected; the polynomic question — which variety a given form belongs to —
-is answered here by defaulting to the northern written norm rather than by
+was respected; the polynomic question - which variety a given form belongs to - is answered here by defaulting to the northern written norm rather than by
 choice; and the French administrative vocabulary the tongue position lists under
 Loses is worked around in prose (`statutu particulare`, `Cullettività`) where a
 speaker might simply use the French. A native reader should expect to change
@@ -76,11 +75,12 @@ historical encyclopedias and the published texts of the decisions named.
 | Polynomy                  | [position_a_pulinumia](position_a_pulinumia.md)                     | The Corsican doctrine, formulated at the university from the 1980s, that the language is the set of its varieties and has no single correct form.                                                            |
 | The statut particulier    | [position_u_statutu_particulare](position_u_statutu_particulare.md) | The 1982 Defferre statute, the 1991 Joxe statute, the 2002 Matignon process, and the single Collectivité de Corse of 2018.                                                                                   |
 
-The three personas — [u paolistu](persona_u_paolistu.md),
+The three personas - [u paolistu](persona_u_paolistu.md),
 [u funziunariu](persona_u_funziunariu.md) and [a maestra](persona_a_maestra.md)
-— are archetypes, not historical people: the man who dates the island's
-legitimacy from 1755, the Corsican who staffed the French state, and the teacher
-who carries the tongue into a classroom where it has no legal standing.
+
+- are archetypes, not historical people: the man who dates the island's
+  legitimacy from 1755, the Corsican who staffed the French state, and the teacher
+  who carries the tongue into a classroom where it has no legal standing.
 
 ## The defining question, asked of Corsica
 
@@ -97,7 +97,7 @@ runs to six rather than the house floor of three: the claim is made and struck
 four separate times (1769, 1991, 2003, 2021), and collapsing any pair of them
 would turn a pattern into an incident. `u modu d'appartene` from the Name is the
 Stakes restated, and it is staged as the shape of the sequence rather than as
-one scene, which is correct — no single plot can carry a question that is only
+one scene, which is correct - no single plot can carry a question that is only
 visible across four erasures.
 
 Three things are deliberately not staged, and the reasoning is recorded here so
@@ -105,7 +105,7 @@ the next hand argues with a reason instead of asking again:
 
 - **Napoleon.** He is born three months after Ponte Novu and appears in
   [plot_01](plot_01_ponte_novu_1769.md) as exactly that: the timing. He belongs
-  to France's play, not to Corsica's — he is the Corsican who completed the
+  to France's play, not to Corsica's - he is the Corsican who completed the
   absorption, and staging him here as a Corsican plot would make the culture's
   most famous son the answer to a question he spent his life on the other side
   of. The house rule that a persona belongs to one culture settles it.
@@ -118,8 +118,8 @@ the next hand argues with a reason instead of asking again:
   every erasure in the plot line is a court or a legislature, and a plot about
   explosives would answer a question about violence that the Arc, the Name and
   the Stakes never ask. The violence is present where it changed the legal
-  argument — Aleria, because it is the moment cultural reclamation became a
-  question of public order — and nowhere else.
+  argument - Aleria, because it is the moment cultural reclamation became a
+  question of public order - and nowhere else.
 - **Bonifaziu and Calvi.** Bonifacio speaks a Ligurian, Calvi a Genoese
   remnant; neither is the `co` this package is written in, and both sit inside
   the same ISO code. They are a tongues-package question (a variety needs its

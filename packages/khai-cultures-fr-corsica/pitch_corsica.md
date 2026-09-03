@@ -1,7 +1,7 @@
 ---
 khai: pitch
 title: "Pitch: U Tonu Corsu"
-declared: "U tonu corsu"
+declared: "U Tonu Corsu"
 language: co
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -16,9 +16,13 @@ stamp:
 
 A produzzione [Corsica](play_corsica.md): i sei plot da a Republica di u 1755 à a sentenza di u 2021, sunati in una sola chjave.
 
+## Owner
+
+- Project: khai-cultures
+
 ## Tenor
 
-U lamentu. Micca a còllera: u lamentu, chì hè u genaru chì st'isula hà da sempre per dì ciò ch'ella hà persu — si canta u mortu, è cantendulu si dice ancu ciò ch'ellu era duvutu à u mortu è chì ùn hè statu fattu. Ogni scena di sta produzzione hè una perdita ghjustificata da un attu legale: una vendita, una battaglia, una partenza, una sentenza. A voce ùn alza micca. Cunta.
+U lamentu. Micca a còllera: u lamentu, chì hè u genaru chì st'isula hà da sempre per dì ciò ch'ella hà persu - si canta u mortu, è cantendulu si dice ancu ciò ch'ellu era duvutu à u mortu è chì ùn hè statu fattu. Ogni scena di sta produzzione hè una perdita ghjustificata da un attu legale: una vendita, una battaglia, una partenza, una sentenza. A voce ùn alza micca. Cunta.
 
 ## Undertow
 
@@ -26,7 +30,7 @@ L'orgogliu, è sottu à l'orgogliu l'irunia. Quellu chì si lamenta di l'imperu 
 
 ## Nerve
 
-L'appartenenza rifiutata cù e parolle chì tù stessu ai scelte. Ciò chì piglia à u spettatore ùn hè micca a cunquista — a cunquista si capisce — hè u mumentu duv'ellu s'accorge ch'ellu hà digià dettu sì, quattru volte, è chì hè u sì chì hè statu sguassatu. Nimu ùn hà dettu à Corsica ch'ella ùn hè micca francese. L'hè statu dettu ch'ella ùn pò micca esse francese cusì.
+L'appartenenza rifiutata cù e parolle chì tù stessu ai scelte. Ciò chì piglia à u spettatore ùn hè micca a cunquista - a cunquista si capisce - hè u mumentu duv'ellu s'accorge ch'ellu hà digià dettu sì, quattru volte, è chì hè u sì chì hè statu sguassatu. Nimu ùn hà dettu à Corsica ch'ella ùn hè micca francese. L'hè statu dettu ch'ella ùn pò micca esse francese cusì.
 
 ## Echo
 

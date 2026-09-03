@@ -1,7 +1,7 @@
 ---
 khai: process
 title: "Process: A Paghjella"
-declared: "A paghjella"
+declared: "A Paghjella"
 language: co
 license: CC-BY-NC-SA-4.0
 stamp:

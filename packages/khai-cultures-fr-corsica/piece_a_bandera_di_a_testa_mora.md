@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "Piece: A Bandera di a Testa Mora"
-declared: "A bandera di a testa mora"
+declared: "A Bandera di a Testa Mora"
 language: co
 license: CC-BY-NC-SA-4.0
 stamp:

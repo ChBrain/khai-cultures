@@ -1,7 +1,7 @@
 ---
 khai: piece
 title: "Piece: U Brocciu"
-declared: "U brocciu"
+declared: "U Brocciu"
 language: co
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -34,4 +34,4 @@ Biancu, mollu, senza croscia, senza forma propia: piglia quella di u canestru di
 
 ## Yearbook
 
-Nisunu sà quandu hè cuminciatu, chì i pastori ùn scrivianu micca. Hè entratu in i testi in u 1983 cù l'AOC, a prima di l'isula, in a listessa decina d'anni chì [u Riacquistu](plot_03_u_riacquistu.md) — a lingua è u casgiu sò stati messi in regula à l'istessu mumentu, è micca per casu. Da tandu porta un cartulare, un periodu di prudduzione dichiaratu, è un cuntrollu. Ciò chì era u restu di u casgiu hè oramai un pruduttu prutettu, è u pruverbiu chì dice ch'ellu ùn hè corsu quellu chì ùn hà micca brocciu hè statu dettu in un'Assemblea, micca in un casgile.
+Nisunu sà quandu hè cuminciatu, chì i pastori ùn scrivianu micca. Hè entratu in i testi in u 1983 cù l'AOC, a prima di l'isula, in a listessa decina d'anni chì [u Riacquistu](plot_03_u_riacquistu.md) - a lingua è u casgiu sò stati messi in regula à l'istessu mumentu, è micca per casu. Da tandu porta un cartulare, un periodu di prudduzione dichiaratu, è un cuntrollu. Ciò chì era u restu di u casgiu hè oramai un pruduttu prutettu, è u pruverbiu chì dice ch'ellu ùn hè corsu quellu chì ùn hà micca brocciu hè statu dettu in un'Assemblea, micca in un casgile.
