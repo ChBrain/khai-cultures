@@ -1,0 +1,30 @@
+# Language-detector exceptions for this package, and only for the structural
+# link lists.
+#
+# A `## Stage` chapter is not prose. It is a list of khai type labels against
+# the names of cast files:
+#
+#   - `position`: [A cultura corsa](position_culture_a_cultura_corsa.md)
+#   - `persona`: [U paolistu](persona_u_paolistu.md)
+#
+# The detector strips the links and sees the labels against a run of Corsican
+# proper nouns. For every other culture in this house that run is German,
+# English or French and no detector confuses it; Corsican is the first language
+# here whose proper nouns are indistinguishable from its Romance neighbours, so
+# four of the six plot lines were read as Papiamento, Interlingua and Occitan.
+#
+# `## Company` and `## Triggers` are the same shape and khai-language already
+# excludes them as structural. `## Stage` is not on that list, which is an
+# upstream gap rather than anything about Corsica; until it is closed, the six
+# labels below take a Stage bullet out of the prose scan. A paragraph that
+# contains one of them is a cast list by construction and never prose, so the
+# exception cannot swallow a real Corsican mistake.
+#
+# Nothing else is excepted. All of this package's actual prose is scanned, and
+# it passes.
+position :
+persona :
+place :
+piece :
+process :
+pitch :

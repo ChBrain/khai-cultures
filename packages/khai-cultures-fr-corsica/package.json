@@ -12,6 +12,7 @@
     "*.md",
     "geo.json",
     "coverage-waivers.json",
+    "language_exceptions.txt",
     "LICENSE",
     "LICENSE-CODE"
   ],
