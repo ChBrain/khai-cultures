@@ -22,7 +22,7 @@ Die Kultur des emanzipierten ländlichen Umlands.
 
 ## Has
 
-Eine starke Vereinskultur, Blasmusik, Turnfeste und einen ausgeprägten dörflichen Zusammenhalt, der sich aus der historischen Befreiung nährt.
+Eine starke Vereinskultur, Blasmusik, Turnfeste und einen ausgeprägten dörflichen Zusammenhalt, der sich aus der historischen Befreiung nährt. Sie ist eine Art, [die Schweizer Kultur](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md) zu leben, nämlich die des Landes, das sich 1833 von seiner Stadt losgesagt hat und die Trennung seither als Gründung führt.
 
 ## Orders
 

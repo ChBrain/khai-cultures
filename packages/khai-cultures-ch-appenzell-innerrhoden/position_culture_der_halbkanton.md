@@ -22,7 +22,7 @@ Die historische Eigenständigkeit durch Teilung.
 
 ## Has
 
-Eine tief gespaltene Identität, geboren aus einem historischen Schisma. Die volle staatsrechtliche Souveränität in den eigenen engen Grenzen, gepaart mit einer institutionalisierten Ohnmacht im Bundeshaus, wo ihre Stimme nur halb zählt.
+Eine tief gespaltene Identität, geboren aus einem historischen Schisma. Die volle staatsrechtliche Souveränität in den eigenen engen Grenzen, gepaart mit einer institutionalisierten Ohnmacht im Bundeshaus, wo ihre Stimme nur halb zählt. Sie ist eine Art, [die Schweizer Kultur](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md) zu leben, nämlich die, die den Föderalismus beim Wort nimmt: lieber ein halber Kanton mit ganzer Souveränität als ein ganzer mit geteilter.
 
 ## Orders
 

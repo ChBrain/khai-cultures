@@ -22,7 +22,7 @@ L'arrogance glacée de l'exception genevoise.
 
 ## Has
 
-Un sentiment inébranlable de supériorité morale et intellectuelle. L'intime conviction d'avoir éclairé l'Europe spirituellement, tout en méprisant cordialement le reste du pays.
+Un sentiment inébranlable de supériorité morale et intellectuelle. L'intime conviction d'avoir éclairé l'Europe spirituellement, tout en méprisant cordialement le reste du pays. C'est une manière de vivre [la culture suisse](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md), celle qui est entrée la dernière, en 1815, et se tient pour la première.
 
 ## Orders
 

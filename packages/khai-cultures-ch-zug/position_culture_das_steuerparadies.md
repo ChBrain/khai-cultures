@@ -22,7 +22,7 @@ Die aggressive fiskalische Anziehungskraft.
 
 ## Has
 
-Eine gnadenlose Effizienz in der Gesetzgebung und eine eiserne Omertà gegenüber ausländischen Steuerbehörden.
+Eine gnadenlose Effizienz in der Gesetzgebung und eine eiserne Omertà gegenüber ausländischen Steuerbehörden. Sie ist eine Art, [die Schweizer Kultur](@chbrain/khai-cultures-switzerland/position_culture_schweizer_kultur.md) zu leben, nämlich die des Steuerwettbewerbs unter Kantonen, beim Wort genommen und bis an sein Ende betrieben.
 
 ## Orders
 
