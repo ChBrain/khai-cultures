@@ -1,6 +1,6 @@
 {
   "source": ["packages/**"],
-  "test": ["tests/**", ".github/workflows/**", ".husky/**"],
+  "test": ["tests/**/*.test.mjs", ".github/workflows/**", ".husky/**"],
   "exemptRenames": true,
   "gates": [
     {
