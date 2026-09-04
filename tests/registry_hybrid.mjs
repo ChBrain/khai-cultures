@@ -28,12 +28,28 @@
 // it lives. The umbrella's identity is the count; the walk moves files, not
 // cultures.
 
-import { readFileSync, writeFileSync, mkdtempSync, rmSync, mkdirSync, cpSync } from "node:fs";
+import {
+  readFileSync,
+  writeFileSync,
+  mkdtempSync,
+  rmSync,
+  mkdirSync,
+  cpSync,
+  readdirSync,
+} from "node:fs";
 import { join, relative, sep } from "node:path";
 import { tmpdir } from "node:os";
 import { pathToFileURL } from "node:url";
 import { buildRegistry, deriveVersionFrom } from "@chbrain/khai-tests";
-import { WORKSPACE, HOUSE, productions, cultures, packageIds } from "./culture_sources.mjs";
+import {
+  WORKSPACE,
+  HOUSE,
+  productions,
+  cultures,
+  packageIds,
+  migratedGroups,
+  houseGroups,
+} from "./culture_sources.mjs";
 
 const rel = (p) => relative(WORKSPACE, p).split(sep).join("/");
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
@@ -104,6 +120,111 @@ export function migratedEntries(list = productions()) {
   }));
 }
 
+/** Run `fn` with the kit's console output dropped. Errors are not swallowed. */
+function quiet(fn) {
+  const { log, warn, error } = console;
+  console.log = console.warn = console.error = () => {};
+  try {
+    return fn();
+  } finally {
+    Object.assign(console, { log, warn, error });
+  }
+}
+
+/**
+ * Run the kit's build over a scratch house whose `groups/` holds `dirs`, and
+ * take the group entries it produces.
+ *
+ * The same trick as `builtFrom` and for the same reason - the kit decides what
+ * an entry contains, not this file - with two differences that are the group's.
+ * The scratch manifest declares the referencing collection as well as the
+ * cultures one, because a group entry without `references` is a build error in
+ * the kit. And `packageIds` goes in, because every member cast in a migrated
+ * group is a package specifier and the kit resolves those only when somebody
+ * says which package is which culture. The `cultures/` directory is created and
+ * left empty on purpose: the references resolve through the map, not through
+ * files, and copying three hundred cultures in to prove it would cost minutes
+ * per build.
+ */
+function builtGroupsFrom(dirs) {
+  if (!dirs.length) return [];
+  const scratch = mkdtempSync(join(tmpdir(), "khai-registry-groups-"));
+  try {
+    mkdirSync(join(scratch, "cultures"), { recursive: true });
+    mkdirSync(join(scratch, "groups"), { recursive: true });
+    // Every culture, as its play file and nothing else. The kit checks each
+    // derived reference against the cultures collection, so an empty one turns
+    // every group into "references X, which is not a cultures member" and turns
+    // a fully migrated group - DACH, whose casts are all package specifiers -
+    // into a build failure. The whole directories would also do it and cost
+    // minutes; a play file is the vertex, and membership is all this scratch
+    // tree is asked for.
+    for (const c of cultures()) {
+      const play = readdirSync(c.dir).find((f) => f.startsWith("play_") && f.endsWith(".md"));
+      if (!play) continue;
+      mkdirSync(join(scratch, "cultures", c.id), { recursive: true });
+      cpSync(join(c.dir, play), join(scratch, "cultures", c.id, play));
+    }
+    for (const [id, dir] of dirs)
+      cpSync(dir, join(scratch, "groups", id), {
+        recursive: true,
+        filter: (src) => !src.split(sep).includes("node_modules"),
+      });
+    writeFileSync(
+      join(scratch, "package.json"),
+      JSON.stringify(
+        {
+          name: read(HOUSE_PKG).name,
+          version: "0.0.0",
+          khai: {
+            collection: { dir: "cultures", key: "cultures", anchor: "play_" },
+            collections: [{ dir: "groups", anchor: "play_", references: "cultures" }],
+          },
+        },
+        null,
+        2,
+      ),
+    );
+    // Built quietly, and this is the one place that is warranted.
+    //
+    // `buildRegistry` derives the group's references correctly from the map it
+    // is given, and then re-verifies what it just wrote WITHOUT that map. For a
+    // group whose members have all migrated - today only DACH - the casts are
+    // package specifiers, the re-verification cannot read them, and it prints
+    // that the group casts nothing. The entries this returns are right; the
+    // complaint is the kit talking to itself about a scratch tree, and printing
+    // it on every `npm run registry` would teach a reader to ignore a line that
+    // means something real elsewhere. A throw still throws.
+    quiet(() => buildRegistry(scratch, { packageIds: packageIds() }));
+    return read(join(scratch, "registry.json")).groups ?? [];
+  } finally {
+    rmSync(scratch, { recursive: true, force: true });
+  }
+}
+
+/**
+ * Registry entries for the migrated groups, each naming the package that ships
+ * it. `source` is overwritten for the same reason a culture's is: the kit
+ * stamps what is true of the scratch tree, which says the umbrella and
+ * `groups/<id>`, and both are false once the group has left.
+ */
+export function migratedGroupEntries(list = migratedGroups()) {
+  const byId = new Map(list.map((g) => [g.id, g]));
+  return builtGroupsFrom(list.map((g) => [g.id, g.dir])).map((e) => ({
+    ...e,
+    source: { package: byId.get(e.id)?.name, path: "" },
+  }));
+}
+
+/** Every group entry the house's source builds to, wherever the group lives. */
+export function builtGroups() {
+  const migratedIds = new Set(migratedGroups().map((g) => g.id));
+  const mono = houseGroups().filter(([id]) => !migratedIds.has(id));
+  return [...builtGroupsFrom(mono), ...migratedGroupEntries()].sort((a, b) =>
+    a.id.localeCompare(b.id),
+  );
+}
+
 /**
  * Every culture entry the house's source builds to, wherever the culture lives.
  *
@@ -140,7 +261,15 @@ export function hybrid(from = read(HOUSE_PKG).version) {
   const built = (registry.cultures ?? []).filter((e) => e.source?.path !== "");
   const all = [...built, ...migratedEntries()].sort((a, b) => a.id.localeCompare(b.id));
   const version = deriveVersionFrom(from, all.length);
-  return { ...registry, version, cultures: all, groups: registry.groups ?? [] };
+  // Groups reconcile exactly as cultures do, and for the same reason: the kit's
+  // build has just walked `groups/` and can only have seen the ones still in it.
+  // Before this, a migrated group would simply have vanished from the registry -
+  // the pass-through said `registry.groups ?? []`, and the kit cannot list a
+  // directory that is not there. Unlike a culture, that loss would have been
+  // silent, because groups are not counted and no version would have moved.
+  const builtG = (registry.groups ?? []).filter((e) => e.source?.path !== "");
+  const groups = [...builtG, ...migratedGroupEntries()].sort((a, b) => a.id.localeCompare(b.id));
+  return { ...registry, version, cultures: all, groups };
 }
 
 /**
@@ -209,6 +338,26 @@ export function drift() {
     out.push(`registry.json lists "${id}", which the house has not got`);
   for (const [id, entry] of builtById) {
     const there = listedById.get(id);
+    if (there && key(there) !== key(entry))
+      out.push(
+        `${id}: registry.json is out of date with its source - run \`npm run registry\` ` +
+          `(the build is the single writer; never hand-edit registry.json)`,
+      );
+  }
+
+  // The same three questions asked of the groups. A migrated group drifts
+  // silently otherwise: nothing about it moves the version, so the count checks
+  // below would stay green with the entry gone.
+  const builtG = builtGroups();
+  const listedG = registry.groups ?? [];
+  const gBuilt = new Map(builtG.map((e) => [e.id, e]));
+  const gListed = new Map(listedG.map((e) => [e.id, e]));
+  for (const id of [...gBuilt.keys()].filter((i) => !gListed.has(i)))
+    out.push(`registry.json does not list the group "${id}"`);
+  for (const id of [...gListed.keys()].filter((i) => !gBuilt.has(i)))
+    out.push(`registry.json lists the group "${id}", which the house has not got`);
+  for (const [id, entry] of gBuilt) {
+    const there = gListed.get(id);
     if (there && key(there) !== key(entry))
       out.push(
         `${id}: registry.json is out of date with its source - run \`npm run registry\` ` +
