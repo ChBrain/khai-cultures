@@ -20,15 +20,22 @@ name: plot-line-audit
 # the house first, the way order_plot_zero.md measured 290 opening dates before
 # fixing anything.
 #
-# It is useful with no secrets at all. Unwired, it posts the question itself, and
-# anyone can paste it into any model or answer it by hand in a minute. Wire it by
-# setting the AUDIT_API_KEY secret and the AUDIT_ENDPOINT and AUDIT_MODEL
-# variables; the call is the OpenAI-compatible chat-completions shape, which the
-# usual gateways and Gemini's compatibility endpoint all speak.
+# It needs no secret. GitHub Models serves inference to a workflow against the
+# built-in GITHUB_TOKEN, given `models: read` below, over the OpenAI-compatible
+# chat-completions shape - so the endpoint and model are defaulted here and the
+# lane runs on a fresh clone with nothing configured. AUDIT_ENDPOINT, AUDIT_MODEL
+# and AUDIT_API_KEY remain as overrides for a house that would rather point this
+# at its own gateway.
+#
+# If a default is ever wrong - they are GitHub's to change, not this repository's
+# - the call fails, the step is `continue-on-error`, and the lane posts the
+# question instead of an answer. A stale default costs a comment saying the
+# reader could not be reached. It never costs a red build, which is the property
+# that makes defaulting them safe at all.
 #
 # Do not point it at the model that writes the cultures. A model auditing its own
 # plot line is a mirror, and the whole value here is that the reader is somebody
-# else.
+# else. The default is deliberately not the house's author, for that reason.
 #
 # Fork pull requests get the unwired path by design: `pull_request` withholds
 # secrets from forks, and that is the correct trade.
@@ -42,6 +49,9 @@ on:
 permissions:
   contents: read
   pull-requests: write
+  # What GitHub Models reads the built-in token for. Without it the token is
+  # refused for inference and the lane falls back to posting the question.
+  models: read
 
 jobs:
   audit:
@@ -67,9 +77,11 @@ jobs:
         id: ask
         continue-on-error: true
         env:
-          AUDIT_API_KEY: ${{ secrets.AUDIT_API_KEY }}
-          AUDIT_ENDPOINT: ${{ vars.AUDIT_ENDPOINT }}
-          AUDIT_MODEL: ${{ vars.AUDIT_MODEL }}
+          # The built-in token is the default reader. A house that wants its own
+          # gateway sets the secret and the two variables, and those win.
+          AUDIT_API_KEY: ${{ secrets.AUDIT_API_KEY || secrets.GITHUB_TOKEN }}
+          AUDIT_ENDPOINT: ${{ vars.AUDIT_ENDPOINT || 'https://models.github.ai/inference/chat/completions' }}
+          AUDIT_MODEL: ${{ vars.AUDIT_MODEL || 'openai/gpt-4o-mini' }}
         run: |
           if [ -z "$AUDIT_API_KEY" ] || [ -z "$AUDIT_ENDPOINT" ] || [ -z "$AUDIT_MODEL" ]; then
             echo "wired=false" >> "$GITHUB_OUTPUT"
@@ -108,12 +120,13 @@ jobs:
               if [ "$ASKED" = "failure" ]; then
                 echo "**The second reader could not be reached**, so here is the question instead."
               else
-                echo "**No second reader is wired**, so here is the question instead. Paste it"
-                echo "into any model that did not write this culture, or answer it by hand -"
-                echo "it takes about a minute per culture."
+                echo "**No second reader answered**, so here is the question instead. Paste"
+                echo "it into any model that did not write this culture, or answer it by hand"
+                echo "- it takes about a minute per culture."
                 echo
-                echo "To wire it: set the \`AUDIT_API_KEY\` secret and the \`AUDIT_ENDPOINT\`"
-                echo "and \`AUDIT_MODEL\` variables."
+                echo "This lane defaults to GitHub Models on the built-in token and needs no"
+                echo "secret. If it is quiet, the default endpoint or model id has moved; set"
+                echo "the \`AUDIT_ENDPOINT\` and \`AUDIT_MODEL\` variables to point it elsewhere."
               fi
               echo
               echo "<details><summary>The question</summary>"
