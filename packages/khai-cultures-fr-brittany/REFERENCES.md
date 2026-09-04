@@ -23,12 +23,15 @@ package indistinguishable from France's, which is the whole reason the house
 writes a culture in its own tongue: the question this culture is about is what
 happened to that tongue, and it cannot be asked in the one that replaced it.
 
-The same decision has a cost the reader should know. Gallo, the Romance speech
-of upper Brittany, is as native to the country as Breton and is not staged here
-at all - it has no position in the tongues package, so there is nothing to write
-it against. The culture-position names it under Has and says it is never
-counted. That is honest but it is not staging, and a Gallo position in the
-tongues package is the thing that would fix it.
+Gallo, the Romance speech of upper Brittany, is now staged alongside it. When
+this culture first shipped there was no Gallo position in the tongues package,
+and the culture-position named it as the thing that is never counted - honest,
+and not sufficient. `gallo/position_language_gallo.md` closed that, and this
+restaging casts it: the tongue is in the Company, the culture-position's Has
+opens on two languages rather than one, and [ar gallaouer](persona_ar_gallaouer.md)
+is a persona who speaks it and no Breton at all. The line between the two runs
+through the middle of the country and is on no map, which is what
+[plot_00](plot_00_tremen_ar_mor.md) is about.
 
 **The Breton in this package has not been read by a speaker.** It was written by
 the agent that staged the culture, in peurunvan, from the tongue position and
@@ -113,82 +116,79 @@ Nerve is the feeling of losing something with nobody attacking it.
 Drawn from the public historical record; the reference sources are generic
 historical encyclopedias and the published texts of the acts named.
 
-| Subject                   | In this culture                                                       | Scope                                                                                                                                                                                        |
-| ------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kingdom and duchy         | [plot_00](plot_00_rouantelezh_ha_dugelezh_851.md)                     | Nominoë at Ballon, 845; Erispoë at Jengland, 851, and the recognition that followed, with Rennes and Nantes; the duchy that succeeded it; the Parlement de Bretagne sitting until 1789.      |
-| The Union (1532)          | [plot_01](plot_01_unvaniezh_1532.md)                                  | Anne of Brittany's two marriages, 1491 and 1499; the edict of union proclaimed at Vannes, August 1532; the conditions retained - the Parlement, Breton law, exemption from the gabelle.      |
-| Five departments (1790)   | [plot_02](plot_02_pemp_departamant_1790.md)                           | The abolition of provincial privilege in 1789; the division into five departments in 1790; the Parlement closed; the Chouannerie from 1793 and its suppression.                              |
-| The symbole in the school | [plot_03](plot_03_ar_symbol_er_skol.md)                               | French-only schooling from the 1880s; the token passed child to child, the last holder punished; the Deixonne law of 1951 and Breton's late inclusion; transmission already failing by then. |
-| Nantes removed (1941)     | [plot_04](plot_04_naoned_er_maez_1941.md)                             | The decree of 30 June 1941 creating a four-department Brittany; the 1950s regional programmes and the 1972 reform confirming it; the question refused again in the 2014 regional reform.     |
-| A tongue without a status | [plot_99](plot_99_ur_yezh_hep_statud.md)                              | Alan Stivell and the revival from 1970; fest-noz leaving the parish; the first Diwan school, 1977; no official status for the language, the European Charter unratified, no reunification.   |
-| Naoned                    | [place_naoned](place_naoned.md)                                       | Nantes: the ducal château, the tombs of Francis II and Anne; the Edict of 1598; the slave-trade port of the eighteenth century; administratively in Pays de la Loire.                        |
-| Roazhon                   | [place_roazhon](place_roazhon.md)                                     | Rennes: the Parlement de Bretagne, 1554 to 1789, burned in February 1994 and rebuilt; the seat of the four-department region.                                                                |
-| Karaez                    | [place_karaez](place_karaez.md)                                       | Carhaix: the Diwan headquarters; the Vieilles Charrues festival, founded 1992, the largest in the country, in a town of some seven thousand.                                                 |
-| The Gwenn-ha-Du           | [piece_ar_gwenn_ha_du](piece_ar_gwenn_ha_du.md)                       | Designed 1923 by Morvan Marchal; nine bands and an ermine canton; compromised by wartime association; general from the 1960s onward.                                                         |
-| The symbole               | [piece_ar_symbol](piece_ar_symbol.md)                                 | The object - clog, coin, token, block - passed to the child caught speaking Breton; never written into any law; known also as "ar vuoc'h"; now a museum object.                              |
-| Fest-noz                  | [process_ar_fest_noz](process_ar_fest_noz.md)                         | The night dance; kan ha diskan call-and-response; the open chain that anyone joins; inscribed on the UNESCO Representative List in 2012.                                                     |
-| The pardon                | [process_ar_pardon](process_ar_pardon.md)                             | The parish pilgrimage on the saint's day; the procession out and back, often to a fountain; the one public occasion where Breton is sung without being a political act.                      |
-| The Emsav                 | [position_an_emsav](position_an_emsav.md)                             | The Breton movement: associations, publishers, schools, lexicography, from the nineteenth century; and the wartime collaboration of part of it, and its long cost.                           |
-| The fifth department      | [position_ar_pempvet_departamant](position_ar_pempvet_departamant.md) | The reunification question: five historical departments, four in the region, asked and refused since 1941.                                                                                   |
+| Subject                    | In this culture                                                       | Scope                                                                                                                                                                           |
+| -------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Crossing the sea           | [plot_00](plot_00_tremen_ar_mor.md)                                   | Brittonic migration from Britain, fifth to seventh centuries; settlement of the west; the Romance east unchanged; the Breton/Gallo line, never drawn on any map.                |
+| The parish close           | [plot_01](plot_01_mein_al_lin.md)                                     | Linen and hemp sold to England and Spain for ships' canvas, 1550 to 1700; parishes competing to build higher calvaries; the trade's collapse leaving several closes unfinished. |
+| The sea and the Icelanders | [plot_02](plot_02_ar_mor_hag_an_islandiz.md)                          | Newfoundland cod from the sixteenth century; the Paimpol Iceland fishery 1852 to 1935, February to September, some 2,000 lost; the sardine canneries; Penn Sardin strike, 1924. |
+| The symbole in the school  | [plot_03](plot_03_ar_symbol_er_skol.md)                               | French-only schooling from the 1880s; the token passed child to child; the Deixonne law of 1951; transmission already failing by then.                                          |
+| Going to Paris             | [plot_04](plot_04_mont_da_bariz.md)                                   | Around a million leaving Brittany 1850 to 1950; the rail line to Montparnasse; domestic service; the Breton quarter and its papers; remittances sustaining rural households.    |
+| Nantes removed             | [plot_05](plot_05_naoned_er_maez_1941.md)                             | The 1532 conditions broken in 1789 and five departments made in 1790; the decree of 30 June 1941 creating a four-department Brittany; confirmed 1972; refused again in 2014.    |
+| The fields get big         | [plot_06](plot_06_ar_parkeier_a_zeu_bras.md)                          | Remembrement from the 1950s; thousands of kilometres of bocage cleared; pig, poultry and dairy; France's first meat region; green algae from the 1970s; the Saint-Michel death. |
+| A tongue without a status  | [plot_99](plot_99_ur_yezh_hep_statud.md)                              | The revival from 1970; fest-noz leaving the parish; the first Diwan school, 1977; no official status, the European Charter unratified, no reunification.                        |
+| Argoad                     | [place_argoad](place_argoad.md)                                       | The interior: bocage and its clearing, the food industry that followed, and the Breton/Gallo line running through it unmarked.                                                  |
+| Pempoull                   | [place_pempoull](place_pempoull.md)                                   | Paimpol: the Iceland fishery and the memorial wall of names; the households run by women for six months a year.                                                                 |
+| Naoned                     | [place_naoned](place_naoned.md)                                       | Nantes: the ducal château, the tombs of Francis II and Anne; the Edict of 1598; the slave-trade port; administratively in Pays de la Loire.                                     |
+| Roazhon                    | [place_roazhon](place_roazhon.md)                                     | Rennes: the Parlement de Bretagne, 1554 to 1789, burned in 1994 and rebuilt; the seat of the four-department region.                                                            |
+| Karaez                     | [place_karaez](place_karaez.md)                                       | Carhaix: the Diwan headquarters; the Vieilles Charrues festival, founded 1992, in a town of some seven thousand.                                                                |
+| An enkloz parrezel         | [piece_an_enkloz_parrezel](piece_an_enkloz_parrezel.md)               | The parish close: wall, triumphal arch, church, ossuary, calvary with two or three hundred figures; some eighty still standing, chiefly in Léon and upper Cornouaille.          |
+| Ar Gwenn-ha-Du             | [piece_ar_gwenn_ha_du](piece_ar_gwenn_ha_du.md)                       | Designed 1923 by Morvan Marchal; nine bands and an ermine canton; compromised by wartime association; general from the 1960s.                                                   |
+| Ar symbol                  | [piece_ar_symbol](piece_ar_symbol.md)                                 | The object passed to the child caught speaking Breton; never written into law; known also as "ar vuoc'h"; now a museum object.                                                  |
+| Ar fest-noz                | [process_ar_fest_noz](process_ar_fest_noz.md)                         | The night dance; kan ha diskan; the open chain; inscribed on the UNESCO Representative List in 2012.                                                                            |
+| Ar pardon                  | [process_ar_pardon](process_ar_pardon.md)                             | The parish pilgrimage on the saint's day; the procession out and back; the one public occasion where Breton is sung without being a political act.                              |
+| An Emsav                   | [position_an_emsav](position_an_emsav.md)                             | The Breton movement: associations, publishers, schools, lexicography; and the wartime collaboration of part of it, and its long cost.                                           |
+| Ar pempvet departamant     | [position_ar_pempvet_departamant](position_ar_pempvet_departamant.md) | The reunification question: five historical departments, four in the region, asked and refused since 1941.                                                                      |
 
-The three personas - [an hini kozh](persona_an_hini_kozh.md),
-[an diwaner](persona_an_diwaner.md) and [ar soner](persona_ar_soner.md) - are
-archetypes, not historical people: the last generation born into the language at
-home, the first generation to receive it from a school instead, and the singer
-who carries it in songs without claiming to speak it.
+The four personas - [an hini kozh](persona_an_hini_kozh.md),
+[an diwaner](persona_an_diwaner.md), [ar soner](persona_ar_soner.md) and
+[ar gallaouer](persona_ar_gallaouer.md) - are archetypes, not historical people:
+the last generation born into Breton at home, the first to receive it from a
+school instead, the singer who carries it in songs without claiming to speak it,
+and the man from the other half of the country who speaks the other language and
+is not counted when the country talks about its language.
 
 ## The defining question, asked of Brittany
 
-Checked against the house order on the defining question
-(`management/orders/order_the_defining_question.md`): the Arc names `rouantelezh`,
-`emglev`, `divizoù`, `pemp departamant`, `ar symbol`, `Liger-Atlantel`, `Diwan`
-and `statud`; the Name names `ISO FR-BRE`, `yezh br` and `pevar departamant eus
-ar pemp`; the Stakes name `un doare da vezañ enni n'he deus ket c'hoazh desket
-skrivañ`; the pitch names `pasianted`, `ur fulor n'eo ket bet lavaret` and the
-question never answered.
+**This section replaces an earlier one, and the replacement is the point.**
 
-Every word of the Arc lands in a plot. The plot line runs to six rather than the
-house floor of three because the shape of this culture is a sequence of
-non-answers, and three of them would read as bad luck: 1789 removes the treaty,
-1790 removes the province, the school removes the transmission, 1941 removes the
-capital, and 2014 declines to give it back. What makes it one arc rather than
-five incidents is that no single one of them was ever argued in public as a
-decision about Brittany.
+The first staging answered the defining question with a constitutional line: six
+plots, five of them a state acting on a people - 851, 1532, 1790, the school,
+1941, no status - with an Arc and Stakes built on being received by treaty and
+dismantled by decree. It ran the tell that `order_the_defining_question.md`
+prescribes, take the words the play uses about itself in Arc, Name, Stakes and
+pitch and ask which appear in a plot, and it passed, because those words were
+themselves constitutional. **A play whose self-description is a passport passes
+that tell perfectly.** The order names this exact failure - "a play that stages
+only the statehood has described a passport" - and the first staging cited the
+order by name while committing it.
 
-The comparison with Corsica, staged one release earlier, is the reason both are
-worth having. Both are French sub-national cultures whose central question is
-the standing of a tongue. Corsica's four erasures are all courts and
-legislatures - the claim is made, and struck, in public, on the record. Brittany's
-are decrees, school practice and reforms that simply did not include it. Neither
-country got what it asked for; only one of them was ever told no.
+The line now runs: a people arriving by sea and splitting the country in two
+languages; linen money turned into stone; three centuries of men at sea and
+women running what they left; a million people leaving for Paris; and the bocage
+cleared for a food industry. Around three of eight plots are a state acting,
+which is where the house sits (Aargau 3 of 6, Hesse 3 of 5, Bavaria 3 of 9).
+**The politics did not go away and should not have.** The symbole and Nantes are
+defining, and 1532 and 1790 keep their place in the Arc and in the Cue of the
+Nantes plot.
 
-Four things are deliberately not staged, and the reasoning is recorded here so
-the next hand argues with a reason instead of asking again:
+What the rewrite found is that the political plots were not only over-weighted,
+they were answering a different question from the one the culture asks. The Arc
+now names what all of it has in common: a country that has always lived on what
+lies outside it - the sea, cloth sold to the English, money sent from Paris,
+meat sold to the state - and has paid for each with something of its own. The
+language question is the same shape: nobody is destroying it, someone is
+offering something else instead, and the offer is accepted.
 
-- **Gallo.** The Romance speech of upper Brittany is native to the country and
-  has no position in the tongues package, so there is nothing here to write it
-  against. It is named in the culture-position's Has, as the thing that is never
-  counted, which is the most this package can honestly do. A Gallo position in
-  the tongues package is the fix, and it is a tongues question, not a culture
-  one.
-- **The armed campaign.** The FLB and ARB bombings of the 1960s to 1980s,
-  including the 1978 explosion at Versailles and the 2000 death at Quévert, are
-  documented and are not given a scene. This culture's arc is an administrative
-  argument, not a security file: every non-answer in the plot line is a decree
-  or a reform, and a plot about explosives would answer a question about
-  violence that the Arc, the Name and the Stakes never ask. Corsica stages
-  Aleria in its own third plot because there the violence changed the legal
-  argument; here it did not change anything, which is precisely the difference
-  the two cultures are for. That comparison is named and not linked: a
-  documentation cross-reference is not a reason for this package to declare a
-  dependency on Corsica's.
-- **The wartime collaboration as its own plot.** It is held inside
-  [position_an_emsav](position_an_emsav.md), where it belongs: it is not an
-  event in the country's arc but a permanent condition of the movement that
-  carries the language, and it works in this culture as a thing that can always
-  be raised instead of answering.
-- **The Bonnets Rouges of 2013.** The eco-tax revolt wore the name of a
-  seventeenth-century Breton rising and was, in substance, a dispute about road
-  haulage and agriculture. Staging it would put a plot in the line whose subject
-  is not the question the line is about, and the coverage rule warns against
-  exactly that.
+Four things are deliberately not staged:
+
+- **851 and 1532 as plots of their own.** Both are in the Arc, and 1532 is in
+  the Cue of [plot_05](plot_05_naoned_er_maez_1941.md). The duchy's frame
+  mattered and its removal mattered, and two of eight plots spent on the shape
+  of an administration is what produced the passport.
+- **The FLB and ARB bombings.** This arc is not a security file, and the
+  violence changed nothing in it.
+- **The wartime collaboration**, held inside [an Emsav](position_an_emsav.md),
+  where it is a permanent condition of the movement rather than an event in the
+  country's arc.
+- **The 2013 Bonnets Rouges**, a seventeenth-century Breton name over a dispute
+  about road haulage.
