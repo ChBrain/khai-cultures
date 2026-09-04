@@ -53,6 +53,14 @@
 // which is the npm name and carries hyphens where an id carries underscores, and
 // not a glob over `packages/*`, which would count the umbrella and the tongues.
 // The manifest says what a package is; `resolveHouse` only reads it.
+//
+// AND A GROUP PACKAGE IS NOT ONE. A migrated group also declares
+// `khai.class === "house"`, because it is a play that ships as a package like
+// any other, so the kit's `unitsOf` hands it back as a unit. It is not a
+// culture: it has no `khai.production`, it must not move the minor, and the
+// culture minimums do not apply to it - a group has no place, no process and no
+// piece unless its arc needs one, and DACH's needs none. So `cultures()` drops
+// the migrated groups by directory, and the two readers stay disjoint.
 
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join, dirname, relative, sep } from "node:path";
@@ -189,7 +197,10 @@ export function cultures(workspace = WORKSPACE) {
   const house = findHouse(workspace);
   if (!house) fail();
 
-  const units = unitsOf(house); // throws its own "two places at once" on a real duplicate
+  const all = unitsOf(house); // throws its own "two places at once" on a real duplicate
+  // A migrated group is a unit and not a culture. See the note at the top.
+  const groupDirs = new Set(groupsOf(house).map((g) => g.dir));
+  const units = all.filter((u) => !groupDirs.has(u.dir));
   if (!units.length) fail();
 
   const prods = new Map(productionsOf(house).map((p) => [p.id, p]));
