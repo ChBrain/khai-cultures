@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.318.0",
+  "version": "0.319.0",
   "cultures": [
     {
       "kind": "culture",
@@ -16235,6 +16235,175 @@
           "title": "Florida Citrus Harvesting"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "fr_alsace",
+      "title": "Alsace",
+      "description": "s Elsass: s schmale Bord zwische Sumpf un Fels, wo vier Gmeinschafte ei Dorf gdeilt hän un kei Sitt het gwunne.",
+      "source": {
+        "package": "@chbrain/khai-cultures-fr-alsace",
+        "path": ""
+      },
+      "iso": "FR-6AE",
+      "members": [
+        {
+          "file": "persona_d_lehrere.md",
+          "kind": "persona",
+          "title": "Persona: D Lehrere",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_de_grenzgaenger.md",
+          "kind": "persona",
+          "title": "Persona: De Grenzgänger",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_de_grossvadder.md",
+          "kind": "persona",
+          "title": "Persona: De Grossvadder",
+          "type": "archetype"
+        },
+        {
+          "file": "piece_d_simultankirch.md",
+          "kind": "piece",
+          "title": "Piece: D Simultankìrch",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "piece_s_rot_un_wiss.md",
+          "kind": "piece",
+          "title": "Piece: S Rot un Wiss",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "piece_s_storichenaescht.md",
+          "kind": "piece",
+          "title": "Piece: S Storichenäscht",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "pitch_alsace.md",
+          "kind": "pitch",
+          "title": "Pitch: De elsässisch Ton",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_colmar.md",
+          "kind": "place",
+          "title": "Place: Colmar",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_de_rhin.md",
+          "kind": "place",
+          "title": "Place: De Rhin",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_de_ried.md",
+          "kind": "place",
+          "title": "Place: De Ried",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_milhuesa.md",
+          "kind": "place",
+          "title": "Place: Milhüsa",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_strossburi.md",
+          "kind": "place",
+          "title": "Place: Strossburi",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "play_alsace.md",
+          "kind": "play",
+          "title": "Alsace"
+        },
+        {
+          "file": "plot_00_s_ried_un_de_wingert.md",
+          "kind": "plot",
+          "title": "Plot: S Ried un de Wingert",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_01_d_vier_gmeinschafte.md",
+          "kind": "plot",
+          "title": "Plot: D vier Gmeinschafte",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_02_tulla_macht_de_rhin_grad_1817.md",
+          "kind": "plot",
+          "title": "Plot: Tulla macht de Rhin grad 1817",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_03_de_stoff_un_s_kali.md",
+          "kind": "plot",
+          "title": "Plot: De Stoff un s Kali",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_04_d_kartle_a_b_c_d_1918.md",
+          "kind": "plot",
+          "title": "Plot: D Kartle A B C D 1918",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_05_d_malgre_nous_1942.md",
+          "kind": "plot",
+          "title": "Plot: D Malgré-nous 1942",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_99_kei_gsetz_het_s_verbote.md",
+          "kind": "plot",
+          "title": "Plot: Kei Gsetz het s verbote",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "position_culture_d_elsasser.md",
+          "kind": "position",
+          "title": "Position: D Elsasser",
+          "taxonomy": "position_culture_une_certaine_idee_de_la_france.md"
+        },
+        {
+          "file": "position_d_malgre_nous.md",
+          "kind": "position",
+          "title": "Position: D Malgré-nous",
+          "taxonomy": "position_culture_d_elsasser.md"
+        },
+        {
+          "file": "position_s_droit_local.md",
+          "kind": "position",
+          "title": "Position: S Droit local",
+          "taxonomy": "position_culture_d_elsasser.md"
+        },
+        {
+          "file": "process_de_herbscht.md",
+          "kind": "process",
+          "title": "Process: De Herbscht",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "process_s_christkindelsmaerik.md",
+          "kind": "process",
+          "title": "Process: S Christkindelsmärik",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "process_s_messti.md",
+          "kind": "process",
+          "title": "Process: S Messti",
+          "taxonomy": "play_alsace.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-fr-alsace"
     },
     {
       "kind": "culture",

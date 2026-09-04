@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures",
-  "version": "0.318.0",
+  "version": "0.319.0",
   "description": "khai cultures: the Cultures content house. Cultures modelled with khai; sources are credited where they are in the public domain.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
@@ -111,6 +111,7 @@
     "@chbrain/khai-cultures-de-saxony-anhalt": "^0.1.0",
     "@chbrain/khai-cultures-de-schleswig-holstein": "^0.1.0",
     "@chbrain/khai-cultures-de-thuringia": "^0.1.0",
+    "@chbrain/khai-cultures-fr-alsace": "^0.1.0",
     "@chbrain/khai-cultures-fr-brittany": "^0.1.0",
     "@chbrain/khai-cultures-fr-corsica": "^0.1.0",
     "@chbrain/khai-cultures-france": "^0.1.0",
