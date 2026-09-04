@@ -33,19 +33,41 @@ Drei Länder, die dieselbe Sprache schreiben und doch sehr verschieden sind. Kei
 - [Österreich](@chbrain/khai-cultures-austria/play_austria.md)
 - [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md)
 
+**Personen**
+
+- [die Delegierte](persona_die_delegierte.md)
+
+**Positionen**
+
+- [die Schriftgemeinschaft](position_die_schriftgemeinschaft.md)
+- [der Rat für deutsche Rechtschreibung](position_der_rat.md)
+
+**Besetzt aus den Mitgliedern**
+
+- [Luther](@chbrain/khai-cultures-germany/persona_luther.md)
+- [der Duden](@chbrain/khai-cultures-germany/piece_der_duden.md)
+
+**Tonlagen**
+
+- [der DACH-Ton](pitch_dach.md)
+
 ## Triggers
 
-**Die gemeinsame Sprache**
+**[Plot 0: die meißnische Kanzlei und Luthers Bibel](plot_00_meissnische_kanzlei_und_luthers_bibel.md)**
 
-Das Hochdeutsche als gemeinsame Schriftsprache bindet [Deutschland](@chbrain/khai-cultures-germany/play_germany.md), [Österreich](@chbrain/khai-cultures-austria/play_austria.md) und [die Schweiz](@chbrain/khai-cultures-switzerland/play_switzerland.md), auch wo der Alltag Dialekt spricht.
+Eine Schriftform verbreitet sich über hundert Territorien, weil sie sich verkauft, und nicht weil jemand sie anordnet.
 
-**Die enge Wirtschaft**
+**[Plot 1: die Orthographische Konferenz 1901](plot_01_orthographische_konferenz_1901.md)**
 
-Handel, Pendler und Unternehmen verflechten die drei Länder enger miteinander als mit jedem anderen Nachbarn.
+Berlin macht aus vielen Schreibweisen eine; Wien und Zürich übernehmen sie, ohne dem Reich beizutreten.
 
-**Die getrennten Wege**
+**[Plot 2: die Rechtschreibreform 1996](plot_02_rechtschreibreform_1996.md)**
 
-Bei aller Nähe gehen die drei politisch eigene Wege: das eine in der EU und im Euro, das andere neutral und ausserhalb, jedes mit seinem eigenen Ton und seiner eigenen Geschichte.
+Diesmal unterschreiben alle drei - und das Publikum sagt nein, worauf ein Rat entsteht, den es vorher nicht gab.
+
+**[Plot 99: drei Standards, eine Schreibung](plot_99_drei_standards_eine_schreibung.md)**
+
+Die Schreibung hält, während das Gesprochene auseinandergeht: Wien sichert seine Wörter völkerrechtlich, die Schweiz wird untertitelt.
 
 ## Stakes
 

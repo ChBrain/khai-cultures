@@ -42884,14 +42884,56 @@
       "references": ["austria", "germany", "switzerland"],
       "members": [
         {
+          "file": "persona_die_delegierte.md",
+          "kind": "persona",
+          "title": "Persona: die Delegierte",
+          "type": "archetype"
+        },
+        {
+          "file": "pitch_dach.md",
+          "kind": "pitch",
+          "title": "Pitch: der DACH-Ton",
+          "taxonomy": "play_dach.md"
+        },
+        {
           "file": "play_dach.md",
           "kind": "play",
           "title": "DACH"
         },
         {
+          "file": "plot_00_meissnische_kanzlei_und_luthers_bibel.md",
+          "kind": "plot",
+          "title": "The Meissen Chancery and Luther's Bible",
+          "taxonomy": "play_dach.md"
+        },
+        {
           "file": "plot_01_orthographische_konferenz_1901.md",
           "kind": "plot",
           "title": "The Orthographic Conference 1901",
+          "taxonomy": "play_dach.md"
+        },
+        {
+          "file": "plot_02_rechtschreibreform_1996.md",
+          "kind": "plot",
+          "title": "The 1996 Reform",
+          "taxonomy": "play_dach.md"
+        },
+        {
+          "file": "plot_99_drei_standards_eine_schreibung.md",
+          "kind": "plot",
+          "title": "Three Standards, One Spelling",
+          "taxonomy": "play_dach.md"
+        },
+        {
+          "file": "position_der_rat.md",
+          "kind": "position",
+          "title": "Position: der Rat für deutsche Rechtschreibung",
+          "taxonomy": "position_die_schriftgemeinschaft.md"
+        },
+        {
+          "file": "position_die_schriftgemeinschaft.md",
+          "kind": "position",
+          "title": "Position: die Schriftgemeinschaft",
           "taxonomy": "play_dach.md"
         }
       ]
