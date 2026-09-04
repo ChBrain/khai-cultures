@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@chbrain/khai-cultures-switzerland": "^0.1.0",
-    "@chbrain/khai-cultures-tongues": "^0.30.0",
+    "@chbrain/khai-cultures-tongues": "^0.34.0",
     "@chbrain/khai-engine-language": "^0.1.5",
     "@chbrain/khai-engine-spine": "^0.1.5"
   }

@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **76 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **86 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -36,6 +36,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `co/position_language_co.md`           | Corsican: a polynomic language, where no variety is the norm because none was ever wanted                                                            | `co`         |
 | `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                                                           | `cs`         |
 | `cu/position_language_cu.md`           | Church Slavonic: the dual number, three past tenses and a vocative, alive in the altar and never in the mouth                                        | `cu`         |
+| `cy/position_language_cy.md`           | Welsh: the mutation that rewrites a word's first letter according to what stands before it, and cynghanedd                                           | `cy`         |
 | `da/position_language_da.md`           | Danish as such: the definite article hung on the back of the word, and the stod                                                                      | `da`         |
 | `de/position_language_de.md`           | German as such, of which every de_* here is a variety                                                                                                | `de`         |
 | `de/position_language_de_at.md`        | Austrian Standard German: the same grammar with another vocabulary, and one different auxiliary                                                      | `de`         |
@@ -64,6 +65,10 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                                                            | `dsb`        |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                                                               | `en`         |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                                                        | `en`         |
+| `en/position_language_en_gb_eng.md`    | English English: currently the en anchor's material under England's name                                                                             | `en`         |
+| `en/position_language_en_gb_nir.md`    | Ulster English: the rise on the declarative, and the softeners in front of every claim                                                               | `en`         |
+| `en/position_language_en_gb_sct.md`    | Scottish English: standard English grammar held in a mouth that keeps the r, the wh and its own vowel timing                                         | `en`         |
+| `en/position_language_en_gb_wls.md`    | Welsh English: the older tongue's prosody and word order surviving inside the newer one                                                              | `en`         |
 | `en/position_language_en_us.md`        | American English: the larger written form, and the unmarked one                                                                                      | `en`         |
 | `en/position_language_en_us_oh.md`     | Ohio English, split between the Inland North and the Midland                                                                                         | `en`         |
 | `en/position_language_en_us_pa.md`     | Pennsylvania English, Pittsburgh and the Dutch country                                                                                               | `en`         |
@@ -80,7 +85,10 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                                                | `fr`         |
 | `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                                                     | `fr`         |
 | `fr/position_language_fr_fr.md`        | French Standard French: an arithmetic in its numbers, and a norm with an address                                                                     | `fr`         |
+| `ga/position_language_ga.md`           | Irish: initial mutation, verb-first order, the two verbs to be, and no word for yes                                                                  | `ga`         |
+| `ga/position_language_ga_gb_nir.md`    | Ulster Irish: currently the Irish anchor in three chapters of four, with cha for its own                                                             | `ga`         |
 | `gallo/position_language_gallo.md`     | Gallo: a langue d'oil of upper Brittany, sister to French rather than daughter, and the only tongue in this package with no code of its own anywhere | `fr-x-gallo` |
+| `gd/position_language_gd.md`           | Scottish Gaelic: possession as a preposition rather than a verb, and no single word for yes                                                          | `gd`         |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                                                    | `gsw`        |
 | `gsw/position_language_gsw_fr.md`      | Alsatian: the Alemannic variety whose written roof was removed rather than replaced                                                                  | `gsw`        |
 | `hr/position_language_hr.md`           | Croatian as such, of which Burgenland Croatian will be a variety                                                                                     | `hr`         |
@@ -96,6 +104,8 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                                                        | `rif`        |
 | `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                                                  | `rm`         |
 | `ru/position_language_ru.md`           | Russian as such: aspect on every verb, no article, and no copula in the present                                                                      | `ru`         |
+| `sco/position_language_sco.md`         | Scots: negation fastened to the verb, the Northern Subject Rule, and no settled spelling                                                             | `sco`        |
+| `sco/position_language_sco_gb_nir.md`  | Ulster Scots: currently three quarters of the Scots anchor now sitting above it                                                                      | `sco`        |
 | `sl/position_language_sl.md`           | Slovene as such: the dual, and six cases                                                                                                             | `sl`         |
 | `swg/position_language_swg.md`         | Swabian as such: the anchor, and its heartland is in another state                                                                                   | `swg`        |
 | `swg/position_language_swg_allgaeu.md` | Allgäu Swabian: the variety standing on the Swabian/Alemannic line                                                                                   | `swg`        |

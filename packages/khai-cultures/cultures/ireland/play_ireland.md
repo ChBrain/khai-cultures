@@ -48,7 +48,7 @@ A nation that lost its language and the half of its people to famine and to empi
 **Positions**
 
 - [Irishness](position_culture_irishness.md)
-- [an Ghaeilge](position_language_ga_ie.md)
+- [an Ghaeilge](@chbrain/khai-cultures-tongues/ga/position_language_ga.md)
 - [the Church](position_the_church.md)
 - [emigration](position_emigration.md)
 - [Hiberno-English](position_language_en_ie.md)
@@ -74,7 +74,7 @@ The Great Famine halves the population, scatters a diaspora the world over throu
 
 **[Plot 2: The Easter Rising, 1916](plot_02_easter_rising_1916.md)**
 
-Out of that same grievance [Pádraig Pearse](persona_pearse.md) and the rebels proclaim the Republic above in [Dublin](place_dublin.md); the executions turn the country toward independence, but sure the new state is born already speaking English, with [an Ghaeilge](position_language_ga_ie.md) only an aspiration and nothing more.
+Out of that same grievance [Pádraig Pearse](persona_pearse.md) and the rebels proclaim the Republic above in [Dublin](place_dublin.md); the executions turn the country toward independence, but sure the new state is born already speaking English, with [an Ghaeilge](@chbrain/khai-cultures-tongues/ga/position_language_ga.md) only an aspiration and nothing more.
 
 **[Plot 3: The Literary Revival](plot_03_the_literary_revival.md)**
 

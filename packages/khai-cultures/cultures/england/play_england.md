@@ -50,7 +50,7 @@ An old country that learned, after conquest from across the Channel, to govern i
 - [understatement](position_understatement.md)
 - [the amateur](position_the_amateur.md)
 - [Englishness](position_culture_englishness.md)
-- [the King's English](position_language_en_gb_eng.md)
+- [the King's English](@chbrain/khai-cultures-tongues/en/position_language_en_gb_eng.md)
 
 **Pieces**
 
