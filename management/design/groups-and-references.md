@@ -1,10 +1,12 @@
 # Design of Record — Groups, Cross-Play Casting, and the Registry/Website Contract
 
-**Status:** agreed design (paper trail), reviewed from both the khai-cultures and
-website ends. **No code, schema, or `groups/` content has changed yet** — this
-document is the contract the implementation work will land against.
+**Status:** agreed design, now partly built. Nineteen groups exist under
+`groups/`, the registry carries them, and `groups/dach/` is a full play with a
+plot line, its own positions, its own persona and a pitch. Where this document
+and the house disagree, the house is the record and this document is corrected;
+§2.1 has been corrected once already, and says so.
 
-**Date:** 2026-06-20
+**Date:** 2026-06-20, amended 2026-09-03
 
 ---
 
@@ -25,11 +27,44 @@ top-level `groups/` collection parallel to `cultures/`. "Culture" vs "group" is 
 **kind** of play (`kind ∈ {culture, group}`), not a different type. The kind sets
 the conformance minimums:
 
-- a **culture**-play requires a Hofstede `pitch_` (and the rest of the canon);
-- a **group**-play has **no** `pitch_` (an alliance has no Hofstede score) and is
-  defined by casting **≥1 member play**.
+- a **culture**-play requires a `pitch_` tuned against Hofstede source data (and
+  the rest of the canon);
+- a **group**-play is defined by casting **≥1 member play**, and **may carry a
+  `pitch_`**.
 
 Groups are **not counted** in the version: the minor stays the **culture** count.
+
+> **Correction, 2026-09-03.** This section previously read "a group-play has
+> **no** `pitch_` (an alliance has no Hofstede score)". That is wrong, and the
+> reasoning is where it went wrong: **a pitch is a tone, not a score.** Its
+> chapters are Tenor, Undertow, Nerve and Echo, and no number appears in any of
+> them - the Hofstede table lives in a culture's `REFERENCES.md` and never in the
+> pitch file. What a group lacks is the source data, not the tone. DACH's tone is
+> the sound of a meeting going through a paragraph, with the comedy underneath
+> that after a thousand years of inheriting, invading and administering each
+> other, what the three agreed on was the commas; a play that cannot say that has
+> lost something real.
+>
+> The rule also only ever existed here. The house's conformance accepts a group
+> pitch: 378 tests pass with `groups/dach/pitch_dach.md` in place, and nothing in
+> `tests/house.test.mjs` or the kit ever refused one. A minimum stated in a design
+> document and in no gate is a minimum that binds only whoever reads the document,
+> which in practice meant every group went without a pitch for no reason.
+
+### 2.1.1 A group play chains plots
+
+A group-play's `## Triggers` chains its plots, exactly as a culture-play's does.
+This was never written down, and the omission had a measurable cost: **19 of 19
+groups had a Triggers chapter that linked no plot**, three prose blocks each,
+essays where an arc belongs. Six had zero or one plot at all, and `groups/dach/`
+had a plot file on disk that its own play never referenced - the word "plot" did
+not appear in `play_dach.md`.
+
+A group's arc is what its members did **together**, and it is usually not a
+treaty: DACH's runs from a written form that spread because it sold, through the
+1901 conference, to a reform the public rejected. `order_the_passport.md` applies
+to a group exactly as it does to a culture, and a group is the easier place to
+get it wrong, because the obvious material for an alliance is the alliance.
 
 ### 2.2 Casting is type-agnostic
 
@@ -186,8 +221,8 @@ khai stays clean either way.
   (retire isolation); geo iso-only; generalize the plot-casting rows to "casts
   the elements the event needs".
 - `tests/house.test.mjs`: **remove** the isolation test and the persona-only plot
-  law; add **kind-based** conformance (group minimums: no `pitch_`, ≥1 member
-  cast).
+  law; add **kind-based** conformance (group minimum: ≥1 member cast). A group
+  pitch is permitted - see the correction in §2.1.
 - _(later)_ `groups/` content, e.g. `groups/dach/`.
 
 ### → website
