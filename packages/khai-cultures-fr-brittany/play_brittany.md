@@ -72,7 +72,7 @@ Istor un hanter-enez a zo bet leuniet div wech. Etre ar Vvet hag ar VIIvet kantv
 
 Ar Vretoned a dreuz ar mor, a gemer ar c'hornôg hag a lez ar reter d'ar re a oa eno: div yezh en un hanter-enez.
 
-**[Plot 1: An enkloz parrezel](plot_01_an_enkloz_parrezel.md)**
+**[Plot 1: Mein al lin](plot_01_mein_al_lin.md)**
 
 Arc'hant al lin a ya e mein, hag ar barrezioù a genstriv an eil ouzh eben da sevel kalvarioù uheloc'h.
 

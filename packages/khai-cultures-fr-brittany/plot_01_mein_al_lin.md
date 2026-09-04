@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Plot: An enkloz parrezel"
-declared: "An enkloz parrezel"
+title: "Plot: Mein al lin"
+declared: "Mein al lin"
 language: br
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-09-03"
 ---
 
-# Plot: An enkloz parrezel
+# Plot: Mein al lin
 
 ## Taxonomy
 
