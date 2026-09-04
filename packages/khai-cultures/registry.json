@@ -17638,6 +17638,12 @@
           "title": "The Car"
         },
         {
+          "file": "piece_der_duden.md",
+          "kind": "piece",
+          "title": "Piece: der Duden",
+          "taxonomy": "play_germany.md"
+        },
+        {
           "file": "piece_grundgesetz.md",
           "kind": "piece",
           "title": "The Basic Law"
