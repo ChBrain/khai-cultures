@@ -1,0 +1,142 @@
+name: plot-line-audit
+
+# The audit lane from management/orders/order_the_passport.md, and the second
+# half of it: `tests/plot_line_audit.mjs` builds the question, this sends it to a
+# reader that is not the author, and posts the answer on the pull request.
+#
+# It asks one thing. For each plot in a touched culture, who or what acts in its
+# Cue, and is that the state or one of its instruments. A plot line where nearly
+# every answer is the state has described a passport rather than a culture, which
+# is the failure the order records: three cultures shipped that way in a week,
+# eighteen plots with sixteen of them a state acting, and the author cited the
+# order in all three while breaking it. That is the case for a second reader
+# rather than a better rule. The one who wrote a plot line is the one who cannot
+# see this in it.
+#
+# It never fails the build, and it never scores. The order measured two
+# mechanical counters for this against all 322 plots in the house and both fail,
+# one passing the worst offender and one inverted, so this lane reports and a
+# person decides. If it is ever gated, the order asks for a distribution across
+# the house first, the way order_plot_zero.md measured 290 opening dates before
+# fixing anything.
+#
+# It is useful with no secrets at all. Unwired, it posts the question itself, and
+# anyone can paste it into any model or answer it by hand in a minute. Wire it by
+# setting the AUDIT_API_KEY secret and the AUDIT_ENDPOINT and AUDIT_MODEL
+# variables; the call is the OpenAI-compatible chat-completions shape, which the
+# usual gateways and Gemini's compatibility endpoint all speak.
+#
+# Do not point it at the model that writes the cultures. A model auditing its own
+# plot line is a mirror, and the whole value here is that the reader is somebody
+# else.
+#
+# Fork pull requests get the unwired path by design: `pull_request` withholds
+# secrets from forks, and that is the correct trade.
+
+on:
+  pull_request:
+    paths:
+      - "packages/khai-cultures-*/plot_*.md"
+      - "packages/khai-cultures-*/play_*.md"
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+
+      # No install: the extractor uses node builtins only, deliberately, so this
+      # lane cannot be broken by a registry it does not need.
+      - name: build the question
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node tests/plot_line_audit.mjs --base "$BASE_SHA" --head "$HEAD_SHA" > question.md
+
+      - name: ask the second reader
+        id: ask
+        continue-on-error: true
+        env:
+          AUDIT_API_KEY: ${{ secrets.AUDIT_API_KEY }}
+          AUDIT_ENDPOINT: ${{ vars.AUDIT_ENDPOINT }}
+          AUDIT_MODEL: ${{ vars.AUDIT_MODEL }}
+        run: |
+          if [ -z "$AUDIT_API_KEY" ] || [ -z "$AUDIT_ENDPOINT" ] || [ -z "$AUDIT_MODEL" ]; then
+            echo "wired=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          jq -n --rawfile q question.md --arg m "$AUDIT_MODEL" \
+            '{model: $m, messages: [{role: "user", content: $q}]}' > body.json
+          curl -sS --fail-with-body --max-time 180 "$AUDIT_ENDPOINT" \
+            -H "Authorization: Bearer $AUDIT_API_KEY" \
+            -H "content-type: application/json" \
+            --data @body.json > reply.json
+          jq -r '.choices[0].message.content // empty' reply.json > answer.md
+          [ -s answer.md ] || { echo "empty answer"; exit 1; }
+          echo "wired=true" >> "$GITHUB_OUTPUT"
+
+      - name: post it
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+          WIRED: ${{ steps.ask.outputs.wired }}
+          ASKED: ${{ steps.ask.outcome }}
+        run: |
+          MARK="<!-- plot-line-audit -->"
+          {
+            echo "$MARK"
+            echo "## Plot line audit"
+            echo
+            if [ "$WIRED" = "true" ] && [ -s answer.md ]; then
+              cat answer.md
+              echo
+              echo "---"
+              echo
+              echo "Advisory. This lane never fails a build and never scores; see"
+              echo "\`management/orders/order_the_passport.md\` for why a counter was not built."
+            else
+              if [ "$ASKED" = "failure" ]; then
+                echo "**The second reader could not be reached**, so here is the question instead."
+              else
+                echo "**No second reader is wired**, so here is the question instead. Paste it"
+                echo "into any model that did not write this culture, or answer it by hand -"
+                echo "it takes about a minute per culture."
+                echo
+                echo "To wire it: set the \`AUDIT_API_KEY\` secret and the \`AUDIT_ENDPOINT\`"
+                echo "and \`AUDIT_MODEL\` variables."
+              fi
+              echo
+              echo "<details><summary>The question</summary>"
+              echo
+              echo '```markdown'
+              cat question.md
+              echo '```'
+              echo
+              echo "</details>"
+            fi
+          } > comment.md
+
+          # `--paginate` runs `--jq` once per page and concatenates, so `last`
+          # can yield one id per page; `tail -1` keeps this to a single value.
+          ID="$(gh api "repos/${GITHUB_REPOSITORY}/issues/${PR}/comments" --paginate \
+                --jq "[.[] | select(.body | startswith(\"$MARK\"))] | last | .id // empty" \
+                | tail -1)"
+          if [ -n "$ID" ]; then
+            gh api -X PATCH "repos/${GITHUB_REPOSITORY}/issues/comments/${ID}" \
+              -F body=@comment.md > /dev/null
+            echo "updated comment $ID"
+          else
+            gh api -X POST "repos/${GITHUB_REPOSITORY}/issues/${PR}/comments" \
+              -F body=@comment.md > /dev/null
+            echo "posted a new comment"
+          fi
