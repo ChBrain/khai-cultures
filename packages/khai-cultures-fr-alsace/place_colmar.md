@@ -22,16 +22,16 @@ Rummel driwer: Ort vum [Elsass](play_alsace.md)
 
 ## Shown
 
-Fachwerkhiiser an eme Kanal, e alt Kloschter, wo hitt e Museum isch, un e Grichtsgebäude us em nintzähnte Johrhundert an eme ruhige Platz. D Stadt sieht so us, wie s Elsass uf de Poschtkarte usssieht, un des isch nit vun sälwer kumme.
+Fachwerkhiiser an eme Kanal, e alt Kloschter, wo hitt e Museum isch, un ummi ummi de Hang mit de Räbe. D Stadt liggt genau uf de Linie zwische em nasse Land un em trockene, un se het de wenigschte Rege im ganze Land.
 
 ## Holds
 
-De Isenheimer Altar, wo im Kloschter hangt. Un s Gricht, wo 1928 de Autonomischteprozäss gsi isch: Redakteure un Politiker uf dr Bank, wil se e Sälbschtverwaltung gwellt hän, un zwei devun kurz drufhär in d Chamber gwählt.
+De Isenheimer Altar, wo im Kloschter hangt, un wo fer e Spital gmolt worre isch un nit fer e Kìrch. D Wiistrooss, wo do dur lauft, un s Kapital vun de Winzergenossenschafte. Un s Gedächtnis vun de Reformationszit, wo d Stadt lang katholisch bliebe isch, wo ummi ummi anderi luthärisch worre sin.
 
 ## Offers
 
-De Bewiis, ass e Urteil kei Antwort isch. D Stadt zeigt, was passiert, wenn e Staat e politischi Frog vor s Gricht bringt: s Gricht sajt schuldig, un s Land sajt bi de nächschte Wahl ebbis anders, un beids gilt.
+Di Linie, wo me se sähe kann. Wer verstoh will, worum s [elsässische Derfer](position_culture_d_elsasser.md) uf ere Reih stehn, kann vun do us in beid Richtunge laufe: e halbi Stund abwärts stoht me im Nasse, e halbi Stund ufwärts im Fels.
 
 ## Withheld
 
-s git s Bild nit her, wo alli erwarte. Wer wege de Fachwerkhiiser kummt, geht widder, ohne ass er ghert het, was in dem Grichtssaal gsi isch, un d Stadt lauft dem au nit noch.
+s git kei Land her, sondern e Bild. D Stadt isch s Ussähe worre, wo alli vum Elsass erwarte, un s meischte, was do bassiert isch, isch nit s Bild - awer s Bild isch, was gsuecht wurd.

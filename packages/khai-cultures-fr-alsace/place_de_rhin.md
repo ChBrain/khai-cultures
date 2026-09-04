@@ -22,15 +22,15 @@ Rummel driwer: Ort vum [Elsass](play_alsace.md)
 
 ## Shown
 
-E breite, begradigte Fluss mit Schleuse un Industrie an beide Ufer, e Handvoll Brucke un e Rodwäj, wo uf eim Damm lauft. Vum Wasser us sieht ei Sitt us wie di ander.
+E breite, grade Fluss in eme Bett, wo me ihm aasieht, ass s gmacht worre isch: Schleuse, Dämm, Industrie an beide Ufer, un dernäbe do un dert e Altwasser, wo nirgends anekummt. Vum Wasser us sieht ei Sitt us wie di ander.
 
 ## Holds
 
-D Zollgränz, wo 1790 dohär gschobe worre isch un vorhär im Weste gläge het. D Bruck vun Kehl, wo fenf Mol gsprengt un fenf Mol widder ufbaut worre isch. Un de Nàme vun eme Kriejslied, wo noch dem Fluss un noch dere Armee heisst, wo dodrà gläge isch.
+Di achtzig Kilometer, wo Tulla ab 1817 usse gschnitte het, un di zweidusend Schlinge, wo nimmi do sin. S Fieber, wo mit ne verschwunde isch, un d Aue, wo mit ne verschwunde sin. D Bruck vun Kehl, wo fenf Mol gsprengt un fenf Mol widder ufbaut worre isch. Un de Nàme vun eme Kriejslied, wo noch dere Armee heisst, wo dodrà gläge isch.
 
 ## Offers
 
-De Sinn vum ganze Ding in eim Bild. E Tal het e Mitt; e Land het e Kant. Derselb Fluss isch beids gsi, un [d Elsasser](position_culture_d_elsasser.md) sin d Litt, wo an dere Stell gwohnt hän, wo s gwächslet het.
+De ganze Sinn in eim Bild. E Aue het e Mitt, e Linie het zwei Sitte. Derselb Fluss isch beids gsi, un e Ingenieur het s gmacht, nit e Vertrag - un [d Elsasser](position_culture_d_elsasser.md) sin d Litt, wo an dere Stell gwohnt hän, wo s gwächslet het.
 
 ## Withheld
 

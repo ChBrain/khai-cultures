@@ -16240,7 +16240,7 @@
       "kind": "culture",
       "id": "fr_alsace",
       "title": "Alsace",
-      "description": "s Elsass: s Land zwische zwei Staate, wo fenf Mol d Sitt gwächslet het un jedes Mol het meesse beweise, wo s ane ghert.",
+      "description": "s Elsass: s schmale Bord zwische Sumpf un Fels, wo vier Gmeinschafte ei Dorf gdeilt hän un kei Sitt het gwunne.",
       "source": {
         "package": "@chbrain/khai-cultures-fr-alsace",
         "path": ""
@@ -16264,6 +16264,12 @@
           "kind": "persona",
           "title": "Persona: De Grossvadder",
           "type": "archetype"
+        },
+        {
+          "file": "piece_d_simultankirch.md",
+          "kind": "piece",
+          "title": "Piece: D Simultankìrch",
+          "taxonomy": "play_alsace.md"
         },
         {
           "file": "piece_s_rot_un_wiss.md",
@@ -16296,6 +16302,18 @@
           "taxonomy": "play_alsace.md"
         },
         {
+          "file": "place_de_ried.md",
+          "kind": "place",
+          "title": "Place: De Ried",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "place_milhuesa.md",
+          "kind": "place",
+          "title": "Place: Milhüsa",
+          "taxonomy": "play_alsace.md"
+        },
+        {
           "file": "place_strossburi.md",
           "kind": "place",
           "title": "Place: Strossburi",
@@ -16307,31 +16325,37 @@
           "title": "Alsace"
         },
         {
-          "file": "plot_00_s_rich_kummt_zue_frankrich_1681.md",
+          "file": "plot_00_s_ried_un_de_wingert.md",
           "kind": "plot",
-          "title": "Plot: S Rich kummt zue Frankrich 1681",
+          "title": "Plot: S Ried un de Wingert",
           "taxonomy": "play_alsace.md"
         },
         {
-          "file": "plot_01_de_rhin_wurd_e_graenz_1789.md",
+          "file": "plot_01_d_vier_gmeinschafte.md",
           "kind": "plot",
-          "title": "Plot: De Rhin wurd e Gränz 1789",
+          "title": "Plot: D vier Gmeinschafte",
           "taxonomy": "play_alsace.md"
         },
         {
-          "file": "plot_02_s_richsland_1871.md",
+          "file": "plot_02_tulla_macht_de_rhin_grad_1817.md",
           "kind": "plot",
-          "title": "Plot: S Richsland 1871",
+          "title": "Plot: Tulla macht de Rhin grad 1817",
           "taxonomy": "play_alsace.md"
         },
         {
-          "file": "plot_03_d_kartle_a_b_c_d_1918.md",
+          "file": "plot_03_de_stoff_un_s_kali.md",
+          "kind": "plot",
+          "title": "Plot: De Stoff un s Kali",
+          "taxonomy": "play_alsace.md"
+        },
+        {
+          "file": "plot_04_d_kartle_a_b_c_d_1918.md",
           "kind": "plot",
           "title": "Plot: D Kartle A B C D 1918",
           "taxonomy": "play_alsace.md"
         },
         {
-          "file": "plot_04_d_malgre_nous_1942.md",
+          "file": "plot_05_d_malgre_nous_1942.md",
           "kind": "plot",
           "title": "Plot: D Malgré-nous 1942",
           "taxonomy": "play_alsace.md"
@@ -16359,6 +16383,12 @@
           "kind": "position",
           "title": "Position: S Droit local",
           "taxonomy": "position_culture_d_elsasser.md"
+        },
+        {
+          "file": "process_de_herbscht.md",
+          "kind": "process",
+          "title": "Process: De Herbscht",
+          "taxonomy": "play_alsace.md"
         },
         {
           "file": "process_s_christkindelsmaerik.md",

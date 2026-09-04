@@ -30,7 +30,7 @@ Ass me s nit erklärt, sondern bruucht. Wer im Elsass wohnt, findet des alles no
 
 ## Loses
 
-D Erklärung, wo me gern hätt. s Droit local isch nit gholte worre, wil s ebber gwellt het, sondern wil 1918 kèiner Zit ghett het, s abzschaffe, un dernoch isch s ze spot gsi. s ganze Ding steht uf em, wo me vergesse het.
+D Erklärung, wo me gern hätt. s Droit local isch nit gholte worre, wil s ebber gwellt het, sondern wil 1918 kèiner Zit ghett het, s abzschaffe, un dernoch isch s ze spot gsi. Un s wurd as ditschi Hinterlossenschaft glese, wo s in Wohret elter isch as des: d Pfarrer vun drei Konfessione were zahlt, wil in dene Derfer drei Konfessione [ei Kìrch gdeilt](piece_d_simultankirch.md) hän, lang bevor e Kaiser ebbis dodermit ze tue ghett het.
 
 ## Drives
 

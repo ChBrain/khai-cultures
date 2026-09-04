@@ -26,7 +26,7 @@ E rote Sandsteikìrch mit eim Turm un nit mit zwei, e Altstadt uf re Insel, un e
 
 ## Holds
 
-D Stadt, wo 1681 ohne Schuss ufgmacht het. s Huus, wo 1792 s Kriejslied fer d Rhinarmee gschriwe worre isch, wo hitt d Marseillaise heisst. D Universität us de ditsche Zit, wo as Modell fer anderi baut worre isch. Un sitt 1949 de Europarot un dernoch s Parlament, wo do gsetzt worre sin, wil s Land dezwische liggt.
+D Stadt, wo 1681 ohne Schuss vor em franzesische Kenig ufgmacht het un dernoch hundert Johr lang ihri Sproch, ihri Kìrch un ihr Recht bhalte het. s Huus, wo 1792 s Kriejslied fer d Rhinarmee gschriwe worre isch, wo hitt d Marseillaise heisst. D Universität us de ditsche Zit, wo as Modell fer anderi baut worre isch. Un sitt 1949 de Europarot un dernoch s Parlament, wo do gsetzt worre sin, wil s Land dezwische liggt.
 
 ## Offers
 

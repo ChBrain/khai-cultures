@@ -70,37 +70,42 @@ Source: Geert Hofstede, Hofstede Insights (France). No regional Alsatian profile
 exists; the base scores are France's, and the pitch's Tenor and Undertow are
 written from the historical record below rather than from the table.
 
-The inflection worth recording completes a set. France's very high Uncertainty
-Avoidance produces, in Corsica, a state that strikes words out of a statute; in
-Brittany, a state that never answers; in Alsace, a state that **asks** - with
-cards, with a deadline, with a uniform. Same score, three different instruments,
-and the third is the only one where the demand was made by both sides in turn.
-That is why the pitch's Tenor is restraint rather than grievance: a land asked
-five times learns that anything it says will be quoted back by whoever comes
-next.
+The inflection worth recording is not about how the French state behaves. France's
+very high Uncertainty Avoidance describes a state that wants one answer, and that
+matters here only because it is the thing this culture is least able to give.
+What tunes the pitch is the other side of that: four hundred years of villages
+that ran on an arrangement rather than a verdict, and a people whose one real
+skill has no word that can be said out loud without sounding small. The Tenor is
+`Uskumft`, accommodation, and not grievance; the Nerve is knowing something
+nameless.
 
 ## Historical sources
 
 Drawn from the public historical record; the reference sources are generic
 historical encyclopedias and the published texts of the acts named.
 
-| Subject                   | In this culture                                                   | Scope                                                                                                                                                                                         |
-| ------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Into France, 1648 to 1681 | [plot_00](plot_00_s_rich_kummt_zue_frankrich_1681.md)             | Westphalia's ambiguous cession of the Habsburg holdings; the réunions; Strasbourg surrenders 30 September 1681; language, Lutheran church, local law and customs status all left in place.    |
-| The Rhine becomes an edge | [plot_01](plot_01_de_rhin_wurd_e_graenz_1789.md)                  | The two departments, 1790; the customs frontier moved to the river; full citizenship for Alsace's Jews, 27 September 1791, the first in Europe; the Marseillaise written in Strasbourg, 1792. |
-| The Reichsland, 1871      | [plot_02](plot_02_s_richsland_1871.md)                            | Annexation of 10 May 1871; the Reichsland under direct imperial administration; the option deadline of 1 October 1872 and the roughly 131,000 who opted; the 1911 constitution.               |
-| The A B C D cards         | [plot_03](plot_03_d_kartle_a_b_c_d_1918.md)                       | The 1918 to 1919 triage commissions sorting inhabitants by grandparents' origin; differential exchange rates; expulsions; French-only schooling; the Colmar autonomist trial of 1928.         |
-| The Malgré-nous           | [plot_04](plot_04_d_malgre_nous_1942.md)                          | De facto annexation, 1940; conscription decreed 25 August 1942; roughly 131,000 conscripted, mostly to the Eastern Front; Tambov; the Bordeaux trial of 1953 and the amnesty.                 |
-| No law forbade it         | [plot_99](plot_99_kei_gsetz_het_s_verbote.md)                     | German out of primary schooling after 1945; the "C'est chic de parler français" campaign; transmission collapsing in two generations; Grand Est, 2016; the collectivité, 2021.                |
-| Strossburi                | [place_strossburi](place_strossburi.md)                           | Strasbourg: the 1681 surrender; the Marseillaise; the German-era university; the Council of Europe from 1949 and the European Parliament.                                                     |
-| Colmar                    | [place_colmar](place_colmar.md)                                   | The Isenheim altarpiece at the Unterlinden; the 1928 autonomist trial, and two of the convicted elected to the Chamber shortly after.                                                         |
-| De Rhin                   | [place_de_rhin](place_de_rhin.md)                                 | The Rhine: a valley's middle until 1790, a state edge after; the Kehl bridge destroyed and rebuilt repeatedly.                                                                                |
-| S Rot un Wiss             | [piece_s_rot_un_wiss](piece_s_rot_un_wiss.md)                     | The red-and-white with the white bend; nineteenth-century as a whole-province emblem; taken up by the autonomists; banned in 1940; adopted officially by the Regional Council in 2008.        |
-| S Storichenäscht          | [piece_s_storichenaescht](piece_s_storichenaescht.md)             | The white stork's nest; fewer than ten pairs left in Alsace by 1974; reintroduction programmes; several hundred pairs today.                                                                  |
-| S Christkindelsmärik      | [process_s_christkindelsmaerik](process_s_christkindelsmaerik.md) | The Strasbourg Christmas market from 1570, when the Lutheran reform replaced the Saint Nicholas fair and put the Christ-child in his place; the name is what survives of that.                |
-| S Messti                  | [process_s_messti](process_s_messti.md)                           | The village patronal festival: mass, stalls, dance, on a fixed saint's day; the one public occasion where Alsatian is spoken in front of everyone without meaning anything by it.             |
-| S Droit local             | [position_s_droit_local](position_s_droit_local.md)               | The Alsace-Moselle local law: the 1801 Concordat with salaried clergy, religious education in state schools, two extra holidays, the 1883 social insurance, still in force.                   |
-| D Malgré-nous             | [position_d_malgre_nous](position_d_malgre_nous.md)               | The name the conscripted gave themselves; the statute recognising forced incorporation, 1981.                                                                                                 |
+| Subject              | In this culture                                                   | Scope                                                                                                                                                                                       |
+| -------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The strip            | [plot_00](plot_00_s_ried_un_de_wingert.md)                        | The braided Rhine floodplain, seasonally flooded and malarial; the Vosges rain shadow and viticulture on the piedmont since Roman settlement; the village line on the terrace between.      |
+| The four communities | [plot_01](plot_01_d_vier_gmeinschafte.md)                         | Reformation in a land of free cities, Habsburg holdings and noble houses; the simultaneum after 1648, over 150 shared churches; rural Jewish Alsace, Yédisch-Daïtsch; emancipation, 1791.   |
+| Tulla's Rhine        | [plot_02](plot_02_tulla_macht_de_rhin_grad_1817.md)               | Johann Gottfried Tulla's rectification from 1817: some 2,000 meanders cut, the course shortened by roughly 80 km, malaria ended, floodplain drained, the braided forest economy destroyed.  |
+| Cloth and potash     | [plot_03](plot_03_de_stoff_un_s_kali.md)                          | Mulhouse an independent republic allied to the Swiss, cotton printing from 1746, its own vote to join France in 1798; potash found in the Sundgau in 1904, mined to 2002; immigrant labour. |
+| The A B C D cards    | [plot_04](plot_04_d_kartle_a_b_c_d_1918.md)                       | The 1918 to 1919 triage commissions sorting inhabitants by grandparents' origin; differential exchange rates; expulsions; French-only schooling. Annexation of 1871 as its Cue.             |
+| The Malgré-nous      | [plot_05](plot_05_d_malgre_nous_1942.md)                          | De facto annexation, 1940; conscription decreed 25 August 1942; roughly 131,000 conscripted, mostly to the Eastern Front; Tambov; the Bordeaux trial of 1953 and the amnesty.               |
+| No law forbade it    | [plot_99](plot_99_kei_gsetz_het_s_verbote.md)                     | German out of primary schooling after 1945; the "C'est chic de parler français" campaign; transmission collapsing in two generations; Grand Est, 2016; the collectivité, 2021.              |
+| De Ried              | [place_de_ried](place_de_ried.md)                                 | The floodplain: remnant oxbows and alluvial forest, the largest groundwater body in central Europe beneath it, and no villages on it.                                                       |
+| De Rhin              | [place_de_rhin](place_de_rhin.md)                                 | The river before and after Tulla; the Kehl bridge destroyed and rebuilt repeatedly.                                                                                                         |
+| Colmar               | [place_colmar](place_colmar.md)                                   | The Isenheim altarpiece, painted for a hospital; the wine road and the growers' cooperatives; the driest place in the country; Catholic while its neighbours turned Lutheran.               |
+| Milhüsa              | [place_milhuesa](place_milhuesa.md)                               | Mulhouse: self-governing republic, cotton printing from 1746, a Protestant industrial bourgeoisie and its schools and collections, the 1798 vote, and the potash basin around it.           |
+| Strossburi           | [place_strossburi](place_strossburi.md)                           | Strasbourg: the 1681 surrender and the century of retained language, church and law; the Marseillaise; the German-era university; the Council of Europe and the European Parliament.        |
+| D Simultankìrch      | [piece_d_simultankirch](piece_d_simultankirch.md)                 | The shared church: nave to one confession, choir to the other, a grille between; over 150 in Alsace after 1648; a number still in shared use.                                               |
+| S Rot un Wiss        | [piece_s_rot_un_wiss](piece_s_rot_un_wiss.md)                     | The red-and-white with the white bend; a whole-province emblem from the nineteenth century; taken up by the autonomists; banned in 1940; adopted officially in 2008.                        |
+| S Storichenäscht     | [piece_s_storichenaescht](piece_s_storichenaescht.md)             | The white stork's nest; fewer than ten pairs left by 1974, in part from the drainage that followed the rectification; reintroduction; several hundred pairs today.                          |
+| De Herbscht          | [process_de_herbscht](process_de_herbscht.md)                     | The grape harvest: date set by sugar reading and not by calendar, worked downhill row by row, the whole village on the same slope at the same time.                                         |
+| S Christkindelsmärik | [process_s_christkindelsmaerik](process_s_christkindelsmaerik.md) | The Strasbourg Christmas market from 1570, when the Lutheran reform replaced the Saint Nicholas fair and put the Christ-child in his place; the name is what survives of that.              |
+| S Messti             | [process_s_messti](process_s_messti.md)                           | The village patronal festival: mass, stalls, dance, on a fixed saint's day; the one public occasion where Alsatian is spoken in front of everyone without meaning anything by it.           |
+| S Droit local        | [position_s_droit_local](position_s_droit_local.md)               | The Alsace-Moselle local law: the 1801 Concordat with salaried clergy of three confessions and rabbis, religious education in state schools, two extra holidays, the 1883 social insurance. |
+| D Malgré-nous        | [position_d_malgre_nous](position_d_malgre_nous.md)               | The name the conscripted gave themselves; the statute recognising forced incorporation, 1981.                                                                                               |
 
 The three personas - [de Grossvadder](persona_de_grossvadder.md),
 [d Lehrere](persona_d_lehrere.md) and
@@ -111,47 +116,51 @@ generation for whom the dialect pays.
 
 ## The defining question, asked of Alsace
 
-Checked against the house order on the defining question
-(`management/orders/order_the_defining_question.md`): the Arc names `1681`,
-`de Rhin`, `s Richsland`, `Kartle A B C D`, `d Malgré-nous`, `kei Gsetz`,
-`Grand Est` and `d Kollektivität`; the Name names `ISO FR-6AE`, `Sproch gsw` and
-`fenf Mol d Sitt gwächslet`; the Stakes ask whether this is a land that lost its
-language or one that learned that speaking is dangerous and silence is not; the
-pitch names `Zruckhaltung`, the tenderness that only comes out indoors, and the
-silence left when someone stops talking.
+**This section replaces an earlier one, and the replacement is the point.**
 
-Every word of the Arc lands in a plot. Six rather than the house floor of three,
-because the count is the content: five changes of side is the claim the Name
-makes, and a plot line that showed three of them would not support it.
+The first staging of this culture answered the defining question with a
+constitutional line: six plots, five of them a state acting on a people, and an
+Arc, Name and Stakes built on five changes of nationality. It ran the tell that
+`order_the_defining_question.md` prescribes - take the words the play uses about
+itself in Arc, Name, Stakes and pitch, and ask which appear in a plot - and it
+passed, because those words were themselves constitutional. **A play whose
+self-description is a passport passes that tell perfectly.** The order names this
+exact failure ("a play that stages only the statehood has described a passport")
+and the first staging cited the order by name while committing it.
 
-This completes a set of three French sub-national cultures, and the three are
-worth holding together because the same state behaves differently in each.
-Corsica is told no, on the record, by courts. Brittany is not answered. Alsace is
-asked - and it is the only one of the three where the asking came from both
-sides in turn, which is why its culture-position's Orders is not to say which
-side you are on.
+What the plot line stages now: the land that leaves one habitable strip, the four
+communities that shared one church because none could win, the engineer who
+straightened the river, and the two industries the country chose for itself.
+Three of seven plots are a state acting, which is the range the house sits in
+(Aargau 3 of 6, Hesse 3 of 5, Bavaria 3 of 9). **The politics did not go away and
+should not have** - the cards and the conscription are defining, and the third
+plot's Tension now says why they cut so deep: they demanded the one thing four
+hundred years of village practice had never had to produce, a single answer.
 
-Four things are deliberately not staged, and the reasoning is recorded here so
+Checked against the order: the Arc names `Bord`, `Ried`, `Räbe`, `Simultankìrch`,
+`vier Gmeinschafte`, `Tulla`, `Milhüsa`, `Kali`, `Kartle`, `Malgré-nous` and
+`kei Gsetz`; the Name names the strip, the shared church and the five demands;
+the Stakes ask what becomes of a country whose one real skill has no name; the
+pitch names `Uskumft` and the grille in the church. Every one lands in a plot.
+
+Five things are deliberately not staged, and the reasoning is recorded here so
 the next hand argues with a reason instead of asking again:
 
-- **The Struthof.** The only Nazi concentration camp on French soil is in
-  Alsace, and it is not given a scene. It is a camp the Reich built in a place it
-  had annexed, and the people in it were overwhelmingly not Alsatian; staging it
-  here would make the country's arc absorb a crime that happened on its ground
-  rather than to it. The house rule that a play stages its own culture settles
-  it, and this is the case where that rule does the most work.
-- **Oradour-sur-Glane itself.** The massacre belongs to the Limousin. What is
-  staged in [plot_04](plot_04_d_malgre_nous_1942.md) is the 1953 Bordeaux trial
-  and the amnesty, because that is where the event entered Alsace's arc - not
-  as a crime but as the moment the rest of France and Alsace read the same verdict
-  in opposite directions.
-- **Lorraine, and Moselle in particular.** The local law is Alsace-Moselle, the
-  conscription took Mosellans too, and the 1871 annexation took part of
-  Lorraine. Moselle is a Francique-speaking country with its own arc and it is
-  not a part of Alsace; folding it in to make the legal story tidy would be
-  precisely the border-driven staging this house refuses. It is named where the
-  facts require it and staged nowhere.
-- **The 2013 referendum on merging the two departments**, which failed on
-  turnout in Bas-Rhin. It is a procedural episode inside the same open question
-  that [plot_99](plot_99_kei_gsetz_het_s_verbote.md) already carries, and giving
-  it a scene would add a date without adding a turn.
+- **1681 and 1871 as plots of their own.** Both are in the Arc, and 1871 is the
+  Cue of the cards. Neither carries a scene, because the annexations are the
+  weather this culture lives in rather than turns in it: what the country did
+  under each of them is the same, and staging both would spend two of seven
+  plots restating that the border moved.
+- **The Struthof.** The only Nazi camp on French soil is in Alsace and gets no
+  scene. The Reich built it on ground it had annexed and the people in it were
+  overwhelmingly not Alsatian; staging it would make this arc absorb a crime that
+  happened _on_ the country rather than _to_ it.
+- **Oradour-sur-Glane itself**, which belongs to the Limousin. What is staged is
+  the 1953 trial, where the event entered Alsace's arc.
+- **Moselle.** The local law is Alsace-Moselle and the conscription took
+  Mosellans, but Moselle is a Francique country with its own arc; folding it in
+  to tidy the legal story would be the border-driven staging this house refuses.
+- **The 1928 Colmar autonomist trial and the 2013 referendum.** Both were in the
+  first staging. Both are procedural episodes inside questions other plots
+  already carry, and both were there because constitutional material is cheap to
+  find - which is the habit this rewrite exists to break.

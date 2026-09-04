@@ -22,16 +22,16 @@ Rummel driwer: Ton vum [Elsass](play_alsace.md)
 
 ## Tenor
 
-Zruckhaltung. In dem Stick wurd nit gschrejt un nit klagt. Was gsajt wurd, wurd langsam gsajt, un s meischte wurd nit gsajt - nit us Schwäche, sondern wil in dere Landschaft ebbis Gsajts scho emol uf re Kärtel gstande isch.
+Uskumft. In dem Stick wurd nit gwunne un nit verlore, s wurd iigrichtet. Zwei Konfessione in eim Chor, zwei Sproche in eim Muul, e Fluss, wo Wäg un Kant zueglich isch: alles, was do vorkummt, isch e Arrangemänt, wo funktioniert, solang alli s bruche.
 
 ## Undertow
 
-E Zärtlichkeit, wo nur dehèim usskummt. Dieselbe Litt, wo usse kärg sin, sin am eigene Disch e ganz anderi Sach, un s ganze Stick spielt zwische dene zwei Zimmer.
+s Wisse, ass e Arrangemänt kei Ìwerzejung isch. Wenn eini stark gnue wurd, hert s uf, un s isch scho ufghert - mit de Kartle, mit de Uniforme, mit de Plakat. Dodrunder lauft di Angscht, ass di Zit vun 1918 bis 1945 nit e Uusnahm gsi isch, sondern nur de erschte, wo stark gnue gsi isch.
 
 ## Nerve
 
-s Gfiehl, ebbis beweise ze meesse, wo me nit beweise kann. Fenf Mol isch dem Land d Frog gstellt worre, uf wellere Sitt s steht, un jedes Mol vun eim mit re Uniform.
+s Gfiehl, ebbis ze kenne, wo kei Nàme het. s Land het vierhundert Johr lang ebbis gmacht, wo suscht niene gmacht worre isch, un s kann s nit saan, wil kèiner stolz dodruf isch, ass er sich verstande het mit em Nochber.
 
 ## Echo
 
-s Stillsi, wo bliibt, wenn ebber ufghert het ze verzehle un me weiss, ass do noch ebbis wär.
+s Gitter in de Kìrch, wo hitt e Sehenswürdigkeit isch un emol e Waffestillstand gsi isch.

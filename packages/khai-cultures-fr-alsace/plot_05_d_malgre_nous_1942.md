@@ -36,4 +36,4 @@ Am 25. August 1942 wurd d Wehrpflicht iigfüehrt, wo s noch em Velkerrecht kei R
 
 ## Tension
 
-E Mensch, wo in re Uniform gsteckt het, wo er nit gwellt het, kann noch em Kriej zwei Sache saan un beid sin wohr: er isch Opfer un er isch dert gsi. Kei Staat kann des verwalte. Frankrich het s mit re Amnestie probiert, un e Amnestie sajt, s isch ebbis gsi, wo me verzeihe muess - un genau des isch, was kèiner het here welle.
+E Mensch, wo in re Uniform gsteckt het, wo er nit gwellt het, kann noch em Kriej zwei Sache saan un beid sin wohr: er isch Opfer un er isch dert gsi. Des isch di alt elsässisch Uskumft - zwei Sache in eim Huus, un kei muess gwinne - un s isch s einzige Mol, wo se nit gholfe het. Kei Staat kann des verwalte. Frankrich het s mit re Amnestie probiert, un e Amnestie sajt, s isch ebbis gsi, wo me verzeihe muess - un genau des isch, was kèiner het here welle.

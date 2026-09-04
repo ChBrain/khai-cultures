@@ -22,7 +22,7 @@ Rummel driwer: Plots vum [Elsass](play_alsace.md)
 
 ## Cue
 
-Ditschland verliert de Kriej, s Elsass kummt an Frankrich zruck, un Frankrich findet e Bevelkerung vor, wo zuem grosse Deil noch 1871 uf d Wält kumme isch un kei Franzesisch kann.
+Frankrich het s Land 1871 an s neje Ditsche Rich verlore un kriegt s 1918 zruck, un findet e Bevelkerung vor, wo zuem grosse Deil noch 1871 uf d Wält kumme isch un kei Franzesisch kann.
 
 ## Action
 
@@ -36,4 +36,4 @@ D Kommissione hän jedem e Kärtel gebe. A fer die, wo alli vier Grosseltere vor
 
 ## Tension
 
-Wenn e Staat, wo befreit het, aafangt, d Grosseltere vun de Befreite ze zähle, het er ebbis gsajt, wo er nimmi zrucknemme kann. Vun do a weiss jede im Land, ass s Dezuegheere e Sach isch, wo me ihm gebe un widder nemme kann - un ass es nit dodervun abhangt, was er isch, sondern dervun, wer grad rechnet.
+Wenn e Staat, wo befreit het, aafangt, d Grosseltere vun de Befreite ze zähle, het er ebbis gsajt, wo er nimmi zrucknemme kann. Un er het ebbis verlangt, wo s Land noch nie het meesse liefere: ei Antwort. Vierhundert Johr lang hän in dene Derfer zwei Konfessione ei Kìrch gdeilt, wil kèiner het meesse saan, welli di richtig isch. Jetz stoht s uf eme Kärtel.
