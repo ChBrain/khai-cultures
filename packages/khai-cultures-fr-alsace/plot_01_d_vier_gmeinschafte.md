@@ -31,6 +31,7 @@ Wo de Stàb gfalle isch, isch s Land nit uf ei Sitt kumme. Strossburi un vill St
 ## Stage
 
 - `piece`: [D Simultankìrch](piece_d_simultankirch.md)
+- `place`: [Strossburi](place_strossburi.md)
 - `position`: [S Droit local](position_s_droit_local.md)
 - `position`: [D Elsasser](position_culture_d_elsasser.md)
 

@@ -16,6 +16,10 @@ stamp:
 
 E Art, [franzesisch](@chbrain/khai-cultures-france/position_culture_une_certaine_idee_de_la_france.md) ze sin: die, wo uf eme Bord wohnt, wo me nit usswiche kann.
 
+## Owner
+
+- Project: khai-cultures
+
 ## Has
 
 E Ìebung im Näbenenander, wo vierhundert Johr alt isch. Wo zwei Konfessione in eim Dorf gsi sin, hän se [ei Kìrch gdeilt](piece_d_simultankirch.md), un in de gliche Derfer het di greschti ländlichi jüdischi Bevelkerung vum Weste gläbt. Dodervun isch [s Droit local](position_s_droit_local.md) ìbrig, wo hitt no d Pfarrer vun drei Konfessione un d Rabbiner zahlt, in eme Staat, wo sich laizistisch nennt. Un e Sproch, wo alemannisch isch un franzesisch gschriibe wurd, uf eme Streife Land zwische eme Sumpf un eme Berg.
