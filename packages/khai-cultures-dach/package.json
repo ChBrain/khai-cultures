@@ -1,0 +1,32 @@
+{
+  "name": "@chbrain/khai-cultures-dach",
+  "version": "0.1.0",
+  "description": "khai cultures: dach, one group of cultures staged as a khai play.",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "type": "module",
+  "files": [
+    "*.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "class": "house",
+    "group": "dach",
+    "anchor": "play_dach.md"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-austria": "^0.1.0",
+    "@chbrain/khai-cultures-germany": "^0.1.0",
+    "@chbrain/khai-cultures-switzerland": "^0.1.0",
+    "@chbrain/khai-cultures-tongues": "^0.30.0",
+    "@chbrain/khai-engine-language": "^0.1.5"
+  }
+}
