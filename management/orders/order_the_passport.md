@@ -161,8 +161,13 @@ twenty-two Alsatian files passed the language wall by being skipped.
 - [x] Record what the rewrites taught: the political plots were answering a
       different question, not merely crowding out others
 - [x] State that politics is not the fault, with the house's own range as evidence
-- [ ] Carry the Cue-subject test into `tests/new_culture.mjs`, where the titles
-      are chosen and nothing has been written yet
+- [x] Carry the Cue-subject test into `tests/new_culture.mjs`, where the titles
+      are chosen and nothing has been written yet: printed against the plot
+      titles at scaffold time, and written into the culture's `REFERENCES.md`
+      as a table with a row per plot, so answering it costs a word per plot
+      instead of a nod
+- [x] Correct the scaffold's `REFERENCES.md` stub, which carried the defective
+      tell as its only question and so put it into every culture written from it
 - [ ] Wire the advisory audit lane: English plot line only, distribution before
       threshold, into the LLM slot that already exists and is empty
 - [ ] Ask it of cultures as they are touched, never as a sweep
