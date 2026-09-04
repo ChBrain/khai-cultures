@@ -26,7 +26,7 @@ Sopra à i palazzi di a Cullettività in Aiacciu è in Bastia, è sopra à ogni 
 
 ## Load Bearing
 
-Senza a bandera, trà [a Republica di u 1755](plot_00_a_republica_di_paoli_1755.md) è oghje ùn ci hè nisuna cosa visibile chì duri. U statu hè cascatu à [Ponte Novu](place_ponte_novu.md), l'università hè stata chjosa duiecentododici anni, u statutu hè statu sguassatu quattru volte. Sguassate a bandera è a cuntinuità diventa un argumentu; cù ella, hè un ughjettu chì si vede.
+Senza a bandera, trà [a Republica di u 1755](plot_03_a_republica_di_paoli_1755.md) è oghje ùn ci hè nisuna cosa visibile chì duri. U statu hè cascatu à [Ponte Novu](place_ponte_novu.md), l'università hè stata chjosa duiecentododici anni, u statutu hè statu sguassatu quattru volte. Sguassate a bandera è a cuntinuità diventa un argumentu; cù ella, hè un ughjettu chì si vede.
 
 ## Apparent
 
@@ -34,4 +34,4 @@ Campu biancu. Una testa d'omu neru di prufilu, vultata versu l'asta. Sopra à u 
 
 ## Yearbook
 
-L'urigine hè disputata è resta disputata: si trova nantì à l'insegne aragunesi di u dodicesimu seculu, è a Sardegna ne porta quattru. Théodore de Neuhoff l'aduprò in u 1736. In u 1755 a Cunsulta di [Corti](place_corti.md) a pigliò cum'è bandera di a Republica, è quì hè accadutu ciò chì cunta: a benda, chì prima cuprìa l'ochji, hè stata alzata à u fronte. Un pòpulu chì vede, è micca un pòpulu ligatu. Dopu à u 1769 a Francia ùn l'hà micca pruibita ma l'hà scurdata; hè stata ripigliata cù [u Riacquistu](plot_03_u_riacquistu.md) è oghje hè l'emblema ufficiale di a Cullettività di Corsica. Hè un attu di u 1755 chì hè sempre in vigore, u solu.
+L'urigine hè disputata è resta disputata: si trova nantì à l'insegne aragunesi di u dodicesimu seculu, è a Sardegna ne porta quattru. Théodore de Neuhoff l'aduprò in u 1736. In u 1755 a Cunsulta di [Corti](place_corti.md) a pigliò cum'è bandera di a Republica, è quì hè accadutu ciò chì cunta: a benda, chì prima cuprìa l'ochji, hè stata alzata à u fronte. Un pòpulu chì vede, è micca un pòpulu ligatu. Dopu à u 1769 a Francia ùn l'hà micca pruibita ma l'hà scurdata; hè stata ripigliata cù [u Riacquistu](plot_07_u_riacquistu.md) è oghje hè l'emblema ufficiale di a Cullettività di Corsica. Hè un attu di u 1755 chì hè sempre in vigore, u solu.
