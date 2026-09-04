@@ -26,9 +26,11 @@ In l'anni sessanta a lingua si perde à vista d'ochju: si parla in casa è ùn s
 
 ## Action
 
-In l'anni settanta a lingua torna à esse pigliata. Si canta: Canta u Populu Corsu si mette in piazza in u 1973 è u repertoriu ricumencia à circulà. Si scrive: a grafia si mette d'accunciu, si stampa, s'insegna. È si dumanda: u Riacquistu ùn hè micca solu culturale, hè ancu una rivendicazione, è u 21 d'aostu 1975 à Aleria l'occupazione d'una cantina finisce cù duie morti trà i gendarmi. L'annu dopu nasce u FLNC. Ciò chì era statu una dumanda di lingua diventa una questione d'ordine publicu, è ci resterà trent'anni.
+In l'anni settanta a lingua torna à esse pigliata. Si canta: Canta u Populu Corsu si mette in piazza in u 1973 è u repertoriu ricumencia à circulà. Si scrive: a grafia si mette d'accunciu, si stampa, s'insegna. È si dumanda: u Riacquistu ùn hè micca solu culturale, hè ancu una rivendicazione, è u 21 d'aostu 1975 à Aleria l'occupazione d'una cantina finisce cù duie morti trà i gendarmi. A cantina era quella d'un rimpatriatu, in [a piaghja](place_a_piaghja_d_aleria.md) chì u DDT avia apertu trent'anni prima: ùn hè micca un locu sceltu à casu, hè u locu induve a terra nova era andata à qualchidunu altru. L'annu dopu nasce u FLNC. Ciò chì era statu una dumanda di lingua diventa una questione d'ordine publicu, è ci resterà trent'anni.
 
 ## Stage
+
+- `place`: [A piaghja d'Aleria](place_a_piaghja_d_aleria.md)
 
 - `persona`: [A maestra](persona_a_maestra.md)
 - `position`: [A pulinumia](position_a_pulinumia.md)

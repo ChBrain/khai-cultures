@@ -34,4 +34,4 @@ A forza hè u votu: qualcosa hè accadutu à st'omu chì li dà a vulintà di pu
 
 ## Echo
 
-Un paese sanu sà ch'unu di elli hè statu perdunatu è nisunu sà quale. Sartè si porta à casa un sicretu ch'ella hà accettatu di tene, è u tene: ùn hè mai statu rivelatu un nome. Hè u solu locu di sta cultura induve u sicretu ùn hè micca omertà ma liturgia - è a listessa capacità di ùn dì hè quella chì hà fattu, à l'altra mano, [l'isula chì parte](plot_02_l_isula_chi_parte.md) tantu difficile à amministrà.
+Un paese sanu sà ch'unu di elli hè statu perdunatu è nisunu sà quale. Sartè si porta à casa un sicretu ch'ella hà accettatu di tene, è u tene: ùn hè mai statu rivelatu un nome. Hè u solu locu di sta cultura induve u sicretu ùn hè micca omertà ma liturgia - è a listessa capacità di ùn dì hè quella chì hà fattu, à l'altra mano, [l'isula chì parte](plot_05_l_isula_chi_parte.md) tantu difficile à amministrà.

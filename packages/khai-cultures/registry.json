@@ -16584,7 +16584,7 @@
       "kind": "culture",
       "id": "fr_corsica",
       "title": "Corsica",
-      "description": "Corsica: l'isula chì hè stata una republica prima d'esse un dipartimentu, è chì ùn hà mai cunsentitu.",
+      "description": "Corsica: una muntagna cù u mare intornu, chì hà campatu in altura perchè u pianu l'ammazzava.",
       "source": {
         "package": "@chbrain/khai-cultures-fr-corsica",
         "path": ""
@@ -16615,6 +16615,12 @@
           "title": "Piece: A Bandera di a Testa Mora"
         },
         {
+          "file": "piece_a_farina_castagnina.md",
+          "kind": "piece",
+          "title": "Piece: A farina castagnina",
+          "taxonomy": "play_corsica.md"
+        },
+        {
           "file": "piece_u_brocciu.md",
           "kind": "piece",
           "title": "Piece: U Brocciu"
@@ -16623,6 +16629,18 @@
           "file": "pitch_corsica.md",
           "kind": "pitch",
           "title": "Pitch: U Tonu Corsu",
+          "taxonomy": "play_corsica.md"
+        },
+        {
+          "file": "place_a_castagniccia.md",
+          "kind": "place",
+          "title": "Place: A Castagniccia",
+          "taxonomy": "play_corsica.md"
+        },
+        {
+          "file": "place_a_piaghja_d_aleria.md",
+          "kind": "place",
+          "title": "Place: A piaghja d'Aleria",
           "taxonomy": "play_corsica.md"
         },
         {
@@ -16646,29 +16664,48 @@
           "title": "Corsica"
         },
         {
-          "file": "plot_00_a_republica_di_paoli_1755.md",
+          "file": "plot_00_a_piaghja_chi_tomba.md",
+          "kind": "plot",
+          "title": "Plot: A piaghja chì tomba",
+          "taxonomy": "play_corsica.md"
+        },
+        {
+          "file": "plot_01_u_castagnu.md",
+          "kind": "plot",
+          "title": "Plot: U castagnu",
+          "taxonomy": "play_corsica.md"
+        },
+        {
+          "file": "plot_02_a_vindetta_e_u_voceru.md",
+          "kind": "plot",
+          "title": "Plot: A vindetta è u voceru",
+          "taxonomy": "play_corsica.md"
+        },
+        {
+          "file": "plot_03_a_republica_di_paoli_1755.md",
           "kind": "plot",
           "title": "Plot: A Republica di Paoli 1755"
         },
         {
-          "file": "plot_01_ponte_novu_1769.md",
+          "file": "plot_04_ponte_novu_1769.md",
           "kind": "plot",
           "title": "Plot: Ponte Novu 1769"
         },
         {
-          "file": "plot_02_l_isula_chi_parte.md",
+          "file": "plot_05_l_isula_chi_parte.md",
           "kind": "plot",
           "title": "Plot: L'isula chì parte"
         },
         {
-          "file": "plot_03_u_riacquistu.md",
+          "file": "plot_06_u_ddt_e_a_piaghja_chi_s_apre.md",
           "kind": "plot",
-          "title": "Plot: U Riacquistu"
+          "title": "Plot: U DDT è a piaghja chì s'apre",
+          "taxonomy": "play_corsica.md"
         },
         {
-          "file": "plot_04_u_populu_corsu_1991.md",
+          "file": "plot_07_u_riacquistu.md",
           "kind": "plot",
-          "title": "Plot: U populu corsu 1991"
+          "title": "Plot: U Riacquistu"
         },
         {
           "file": "plot_99_una_lingua_senza_statutu.md",
@@ -16700,6 +16737,12 @@
           "file": "process_u_catenacciu.md",
           "kind": "process",
           "title": "Process: U Catenacciu"
+        },
+        {
+          "file": "process_u_voceru.md",
+          "kind": "process",
+          "title": "Process: U voceru",
+          "taxonomy": "play_corsica.md"
         }
       ],
       "package": "@chbrain/khai-cultures-fr-corsica"
