@@ -42878,8 +42878,8 @@
       "title": "DACH",
       "description": "The German-speaking sphere as a group: Germany, Austria, and Switzerland, bound by a common tongue, not a common state.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/dach"
+        "package": "@chbrain/khai-cultures-dach",
+        "path": ""
       },
       "references": ["austria", "germany", "switzerland"],
       "members": [
