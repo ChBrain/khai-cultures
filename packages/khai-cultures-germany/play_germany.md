@@ -65,6 +65,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st√
 - [die Stra√üburger Eide](piece_strassburger_eide.md)
 - [das Hermannsdenkmal](piece_hermannsdenkmal.md)
 - [die Stolpersteine](piece_stolpersteine.md)
+- [der Duden](piece_der_duden.md)
 - [das Brot](piece_brot.md)
 - [das Auto](piece_das_auto.md)
 
