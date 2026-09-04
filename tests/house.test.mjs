@@ -27,7 +27,7 @@ import {
 import { standalone } from "./tongues_standalone.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
-import { cultures, productions, MONOLITH_DIR } from "./culture_sources.mjs";
+import { cultures, productions, migratedGroups, MONOLITH_DIR } from "./culture_sources.mjs";
 import { findings as productionFindings, umbrellaFindings } from "./production_packages.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -111,12 +111,21 @@ describe("Cultures house: content conforms to the canon", () => {
     // lands the finding is dropped on exactly the terms the other two are - the
     // kit's drift check is REPLACED here by registry_hybrid.mjs, which passes
     // the map, rebuilds both halves and reports no drift.
+    //
+    // A migrated GROUP is the same finding with a different noun, and it arrives
+    // for the same reason: `validateCollectionRegistry` walks `groups/` and a
+    // group that has left is not in it. Dropped on the same terms, and the
+    // replacement is the same one - `registry_hybrid.mjs` now reconciles the
+    // groups as well and `drift()` asks them the three questions it asks the
+    // cultures, so the check is moved rather than lost.
     const migrated = productions().map((p) => p.id);
+    const movedGroups = migratedGroups().map((g) => g.id);
     const hybridNoise = (file, e) =>
       file.endsWith("registry.json") &&
       (/registry\.json is out of date with its source/.test(e) ||
         /could not rebuild registry\.json to check it for drift/.test(e) ||
-        migrated.some((id) => e.includes(`declares culture "${id}"`)));
+        migrated.some((id) => e.includes(`declares culture "${id}"`)) ||
+        movedGroups.some((id) => e.includes(`declares group "${id}"`)));
     const errors = results
       .flatMap((r) => (r.errors ?? []).map((e) => [r.file, e]))
       .filter(([file, e]) => !hybridNoise(file, e))
@@ -440,9 +449,16 @@ describe("Cultures house: the walls the kit holds", () => {
     const promised = (kind, entries) =>
       (entries ?? []).flatMap((e) => (e.members ?? []).map((m) => `${kind}/${e.id}/${m.file}`));
     const shipped = (registry.cultures ?? []).filter((e) => !e.package);
+    // A migrated group's files are not in the umbrella's box and must not be
+    // looked for there. Read that off `source.path`, the same way the hybrid
+    // registry does: an entry still under the umbrella carries a path below it,
+    // one that has left carries the empty string that says its package root IS
+    // the unit. Asking the umbrella to ship what it no longer holds is how a
+    // green wall would have gone red on a correct move.
+    const shippedGroups = (registry.groups ?? []).filter((e) => e.source?.path !== "");
     const missing = [
       ...promised("cultures", shipped).filter((p) => !box.has(p)),
-      ...promised("groups", registry.groups).filter((p) => !box.has(p)),
+      ...promised("groups", shippedGroups).filter((p) => !box.has(p)),
     ];
     if (missing.length)
       findings.push(
