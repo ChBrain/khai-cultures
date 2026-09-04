@@ -26,7 +26,7 @@ I naziunalisti tenenu l'Assemblea da u 2015, l'isula hà una sola cullettività 
 
 ## Action
 
-In u 2021 l'Assemblea di Corsica vota u corsu lingua cundivisa cù u francese. U tribunale amministrativu l'annulla: u francese hè a sola lingua di a Republica, è nisuna assemblea regiunale pò dì altru. In u 2023 u Presidente vene in Aiacciu è parla d'una autunumia in a Republica; in u 2024 si discute una rivisione custituziunale. Nunda hè chjosu. À tempu, u numeru di quelli chì parlanu currettamente cala d'una generazione à l'altra, è l'UNESCO tene u corsu trà e lingue in periculu.
+Ùn hè micca a prima volta. In u 1991 u statutu Joxe scrivia "u populu corsu, cumpunente di u populu francese", è u Cunsigliu custituziunale hà sguassatu e duie prime parolle: ùn ci hè chè un populu francese, è ùn si pò nominà altru. In u 2003 l'isula stessa hà dettu nò à u so propiu statutu. Poi, in u 2021, l'Assemblea di Corsica vota u corsu lingua cundivisa cù u francese. U tribunale amministrativu l'annulla: u francese hè a sola lingua di a Republica, è nisuna assemblea regiunale pò dì altru. In u 2023 u Presidente vene in Aiacciu è parla d'una autunumia in a Republica; in u 2024 si discute una rivisione custituziunale. Nunda hè chjosu. À tempu, u numeru di quelli chì parlanu currettamente cala d'una generazione à l'altra, è l'UNESCO tene u corsu trà e lingue in periculu.
 
 ## Stage
 
