@@ -22,7 +22,7 @@ Un doare da vezañ [gall](@chbrain/khai-cultures-france/position_culture_une_cer
 
 ## Has
 
-Un destenn. N'eus ket kalz a vroioù e Bro-C'hall o tougen un deiziad ma voe skrivet war baper ar pezh a oa bet aotreet dezho, hag e tougen Breizh unan: 1532, gant e zivizoù. Dougen a ra ivez ur yezh keltiek war un dachenn romanek, ar yezh geltiek diwezhañ war ar c'hevandir, ha war he zu ur c'hornôg gallek, ar gallaoueg, a zo eus ar vro ivez ha ne vez ket kontet gwech ebet. Ha dougen a ra ur bevenn a red e-kreiz he c'horf: pemp departamant istorel, pevar er rannvro.
+Div yezh, ha n'int ket kevnidet. [Ar brezhoneg](@chbrain/khai-cultures-tongues/br/position_language_br.md) er c'hornôg, ar yezh geltiek diwezhañ war ar c'hevandir, degaset dre vor; [ar gallaoueg](@chbrain/khai-cultures-tongues/gallo/position_language_gallo.md) er reter, ur yezh a oil a zo bet amañ a-raok ar re all hag a zo ken breizhat hag hi. Ar vevenn etrezo a red e-kreiz korf ar vro ha n'eo war gartenn ebet. Dougen a ra ivez un destenn, 1532 gant he divizoù, hag ur bevenn all a zo war ar gartenn: pemp departamant istorel, pevar er rannvro.
 
 ## Orders
 
@@ -30,7 +30,7 @@ Da lenn an testenn a-raok krediñ ar respont. Pa vez lavaret n'eo ket posupl - a
 
 ## Loses
 
-Ar sav-boent eeun. N'eus ket un doare hepken da vezañ Breton: an hini a gomz ar yezh hag an hini n'he c'homz ket, an hini eus ar pevar hag an hini eus ar pemp, an hini eus an Emsav hag an hini a gav anezhañ re. Bep gwech ma vez goulennet un dra e ranker termeniñ piv a c'houlenn, hag e vez kollet amzer gant an dermenañ.
+Ar sav-boent eeun. N'eus ket un doare hepken da vezañ Breton: an hini a gomz ar brezhoneg hag an hini a gomz ar gallaoueg, an hini eus ar pevar hag an hini eus ar pemp, an hini eus an Emsav hag an hini a gav anezhañ re. Pep tro ma vez komzet eus `yezh Breizh` en unander e vez lakaet an hanter eus ar vro er-maez, hag alies ne vez ket merzet. Bep gwech ma vez goulennet un dra e ranker termeniñ piv a c'houlenn, hag e vez kollet amzer gant an dermenañ.
 
 ## Drives
 

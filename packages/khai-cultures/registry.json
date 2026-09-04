@@ -16409,7 +16409,7 @@
       "kind": "culture",
       "id": "fr_brittany",
       "title": "Brittany",
-      "description": "Breizh: ar vro a zo bet un dugelezh gant he breujoù he-unan, hag a zo bet troc'het e pemp ha neuze e pevar.",
+      "description": "Breizh: an hanter-enez a zo bet degaset dezhi he anv dre vor, hag a zo bet troc'het e div gant an hevelep tremenadenn.",
       "source": {
         "package": "@chbrain/khai-cultures-fr-brittany",
         "path": ""
@@ -16429,10 +16429,22 @@
           "type": "archetype"
         },
         {
+          "file": "persona_ar_gallaouer.md",
+          "kind": "persona",
+          "title": "Persona: Ar gallaouer",
+          "type": "archetype"
+        },
+        {
           "file": "persona_ar_soner.md",
           "kind": "persona",
           "title": "Persona: Ar soner",
           "type": "archetype"
+        },
+        {
+          "file": "piece_an_enkloz_parrezel.md",
+          "kind": "piece",
+          "title": "Piece: An enkloz parrezel",
+          "taxonomy": "play_brittany.md"
         },
         {
           "file": "piece_ar_gwenn_ha_du.md",
@@ -16453,6 +16465,12 @@
           "taxonomy": "play_brittany.md"
         },
         {
+          "file": "place_argoad.md",
+          "kind": "place",
+          "title": "Place: Argoad",
+          "taxonomy": "play_brittany.md"
+        },
+        {
           "file": "place_karaez.md",
           "kind": "place",
           "title": "Place: Karaez",
@@ -16462,6 +16480,12 @@
           "file": "place_naoned.md",
           "kind": "place",
           "title": "Place: Naoned",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "place_pempoull.md",
+          "kind": "place",
+          "title": "Place: Pempoull",
           "taxonomy": "play_brittany.md"
         },
         {
@@ -16476,21 +16500,21 @@
           "title": "Brittany"
         },
         {
-          "file": "plot_00_rouantelezh_ha_dugelezh_851.md",
+          "file": "plot_00_tremen_ar_mor.md",
           "kind": "plot",
-          "title": "Rouantelezh ha dugelezh 851",
+          "title": "Plot: Tremen ar mor",
           "taxonomy": "play_brittany.md"
         },
         {
-          "file": "plot_01_unvaniezh_1532.md",
+          "file": "plot_01_an_enkloz_parrezel.md",
           "kind": "plot",
-          "title": "An unvaniezh 1532",
+          "title": "Plot: An enkloz parrezel",
           "taxonomy": "play_brittany.md"
         },
         {
-          "file": "plot_02_pemp_departamant_1790.md",
+          "file": "plot_02_ar_mor_hag_an_islandiz.md",
           "kind": "plot",
-          "title": "Pemp departamant 1790",
+          "title": "Plot: Ar mor hag an Islandiz",
           "taxonomy": "play_brittany.md"
         },
         {
@@ -16500,9 +16524,21 @@
           "taxonomy": "play_brittany.md"
         },
         {
-          "file": "plot_04_naoned_er_maez_1941.md",
+          "file": "plot_04_mont_da_bariz.md",
+          "kind": "plot",
+          "title": "Plot: Mont da Bariz",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "plot_05_naoned_er_maez_1941.md",
           "kind": "plot",
           "title": "Naoned er-maez 1941",
+          "taxonomy": "play_brittany.md"
+        },
+        {
+          "file": "plot_06_ar_parkeier_a_zeu_bras.md",
+          "kind": "plot",
+          "title": "Plot: Ar parkeier a zeu bras",
           "taxonomy": "play_brittany.md"
         },
         {

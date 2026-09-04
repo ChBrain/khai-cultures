@@ -22,7 +22,7 @@ Rummad a-us: plotoù [Breizh](play_brittany.md)
 
 ## Cue
 
-Ar gouarnamant a savas e Vichy a glask rannañ ar vro e takadoù melestradurel nevez, ha ne rank ket goulenn digant den.
+Kollet he doa ar vro he framm dija: an divizoù eus 1532 a voe torret e 1789, hag e 1790 e voe rannet Breizh e pemp departamant hep goulenn digant den. Ar gouarnamant a savas e Vichy a glask adrannañ ar memes tiriad, ha ne rank ket goulenn kennebeut.
 
 ## Action
 
