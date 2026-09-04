@@ -59,7 +59,9 @@
     }
   ],
   "ciPolicy": {
-    "split": { "khai-tests": ["prettier", "conformance"] }
+    "split": {
+      "khai-tests": ["prettier", "conformance"]
+    }
   },
   "isolationPolicy": {
     "allow": ["position_language_*.md", "position_culture_*.md"]
@@ -157,6 +159,7 @@
   "changesetPolicy": {
     "countDrivenAdd": [
       "packages/khai-cultures/cultures/*/play_*.md",
+      "packages/khai-cultures/groups/*/play_*.md",
       "packages/khai-cultures-*/play_*.md"
     ]
   }
