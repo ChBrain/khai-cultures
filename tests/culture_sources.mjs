@@ -54,7 +54,7 @@
 // not a glob over `packages/*`, which would count the umbrella and the tongues.
 // The manifest says what a package is; `resolveHouse` only reads it.
 
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join, dirname, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 import {
@@ -350,6 +350,54 @@ export function touchedCultures(paths, workspace = WORKSPACE) {
  * conformance requires, so `@chbrain/khai-cultures-de-bavaria` is both forms of
  * the rule at once. Underscores become hyphens; an npm name has no others.
  */
+/**
+ * Every GROUP that has been lifted into its own package.
+ *
+ * Keyed on `khai.group` and never on `khai.production`, and the difference is
+ * the version. `productionsOf` counts what it finds, the minor IS the culture
+ * count, and a group is not a culture: a migrated group declaring
+ * `khai.production` would move the number by existing. So the two markers are
+ * disjoint by construction, and a package carrying both is a mistake this
+ * house would rather fail on than average out.
+ */
+function groupsOf(house) {
+  if (!house) return [];
+  return house.productions
+    .filter((p) => p.pkg?.khai?.group)
+    .map((p) => ({
+      id: String(p.pkg.khai.group),
+      name: p.name,
+      dir: p.dir,
+      anchor: p.pkg.khai.anchor,
+      pkg: p.pkg,
+    }))
+    .sort((a, b) => a.id.localeCompare(b.id));
+}
+
+/** Every migrated group. Empty is legitimate: the walk starts somewhere. */
+export function migratedGroups(workspace = WORKSPACE) {
+  return groupsOf(findHouse(workspace));
+}
+
+/** The umbrella's own groups, the ones that have not moved: `[id, dir]`. */
+export function houseGroups(workspace = WORKSPACE) {
+  const dir = join(workspace, "packages", "khai-cultures", "groups");
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir, { withFileTypes: true })
+    .filter((e) => e.isDirectory())
+    .map((e) => [e.name, join(dir, e.name)])
+    .sort((a, b) => a[0].localeCompare(b[0]));
+}
+
+/**
+ * The npm name of a group package. Same shape as a culture's, because a play
+ * vertex id is unique across both collections and the manifest says which kind
+ * it is. Kept as its own function so a caller reads what it meant.
+ */
+export function groupName(id) {
+  return `@chbrain/khai-cultures-${id.replace(/_/g, "-")}`;
+}
+
 export function productionName(id) {
   return `@chbrain/khai-cultures-${id.replace(/_/g, "-")}`;
 }
