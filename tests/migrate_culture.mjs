@@ -39,6 +39,9 @@ import {
   cultureDir,
   productionName,
   isMigrated,
+  houseGroups,
+  migratedGroups,
+  groupName,
 } from "./culture_sources.mjs";
 
 const rel = (p) => relative(WORKSPACE, p).split(sep).join("/");
@@ -308,6 +311,194 @@ export function plan(id) {
   };
 }
 
+// ---------------------------------------------------------------------------
+// Groups.
+//
+// A group is a play and migrates like one, so everything below reuses the
+// machinery above rather than copying it. Four things differ, and each is a fact
+// about groups rather than a special case.
+//
+// The manifest says `khai.group` where a culture says `khai.production`. That is
+// the whole of what keeps the version honest: the minor IS the culture count, and
+// a group carrying the culture marker would move the number by existing.
+//
+// A group has no `geo.json` and no `coverage-waivers.json`, so its `files` list
+// does not promise them.
+//
+// It reaches its members from one directory deeper - `../../cultures/<id>/` - so
+// the rewrite that turns a link into a specifier looks for that shape.
+//
+// And it cannot go until its members have gone. That is the ordering the whole
+// migration runs on: a group pulls on its members and its members pull on the
+// tongues. Measured when this was written, one group of nineteen qualified.
+
+/** The umbrella directory of a group that has not moved yet. */
+function groupDir(id) {
+  return houseGroups().find(([gid]) => gid === id)?.[1];
+}
+
+/** The member ids a group's play casts, however the cast is written. */
+function membersOf(dir) {
+  const play = readdirSync(dir).find((f) => f.startsWith("play_"));
+  if (!play) return [];
+  const text = readFileSync(join(dir, play), "utf8");
+  const out = new Set();
+  for (const m of text.matchAll(/\]\(@chbrain\/khai-cultures-([a-z0-9-]+)\/play_/g))
+    out.add(m[1].replace(/-/g, "_"));
+  for (const m of text.matchAll(/\]\((?:\.\.\/)+cultures\/([a-z0-9_]+)\/play_/g)) out.add(m[1]);
+  return [...out].sort();
+}
+
+/** What stands between this group and its own package. */
+export function groupBlockers(id) {
+  const dir = groupDir(id);
+  if (!dir) {
+    return migratedGroups().some((g) => g.id === id)
+      ? [`"${id}" is already a package`]
+      : [`no group "${id}" in this house`];
+  }
+  const members = membersOf(dir);
+  if (!members.length)
+    return [`its play casts no member: a group is defined by what it references`];
+  const migrated = new Set(
+    cultures()
+      .filter((c) => c.migrated)
+      .map((c) => c.id),
+  );
+  const waiting = members.filter((m) => !migrated.has(m));
+  return waiting.length
+    ? [
+        `${waiting.length} of ${members.length} member(s) are still under the umbrella: ` +
+          `${waiting.join(", ")}. A group cannot be a package before the cultures it casts ` +
+          `are, because its manifest has to depend on them by name.`,
+      ]
+    : [];
+}
+
+/** The wiring guide a group ships. */
+function groupInstructions(id, name, members) {
+  return `---
+khai: instructions
+title: "${id}"
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.1.0
+  date: "${new Date().toISOString().slice(0, 10)}"
+---
+
+# Instructions: ${id}
+
+How a Playwright draws on this group. It is a play like any other and it holds
+nothing of its members: it casts them, and what it owns is only what none of them
+could own alone.
+
+## Human
+
+- Decides whether a persona or a scene belongs to the group rather than to one of
+  its members.
+
+## Agent
+
+- Links this group's own positions, never its members' files through it.
+- Edits nothing in this package.
+
+## Collaboration
+
+- A fact about one member belongs to that member. A fact that exists only between
+  them belongs here.
+
+## Knowledge
+
+- This group casts ${members.length} member play(s): ${members.join(", ")}.
+- The group is not counted in the house version; the minor is the culture count.
+
+## System
+
+- Depend on \`${name}\` and link by specifier from your content.
+`;
+}
+
+/** The plan for lifting a group into its own package. */
+export function groupPlan(id) {
+  const from = groupDir(id);
+  const name = groupName(id);
+  const to = join(WORKSPACE, "packages", name.split("/")[1]);
+  const spec = `${name}/`;
+
+  const rewrites = [];
+  // No inherited engines. A culture takes every engine the umbrella declares
+  // because the canon expects a culture to field the full type set and be
+  // validated against all of them; a group fields whatever its arc needs and
+  // nothing else. DACH links the language engine, through the grips in its one
+  // persona, and does not link the spine - it was hand-written that way, it
+  // passes every wall, and this reproduces that manifest rather than a fuller
+  // one. Declare what you link.
+  const deps = {};
+  const houseDeps = read(join(HOUSE, "package.json")).dependencies ?? {};
+  const declare = (spec) => {
+    deps[spec] = houseDeps[spec] ?? deps[spec] ?? "^0.1.0";
+  };
+  for (const file of mds(from)) {
+    const text = readFileSync(join(from, file), "utf8");
+    let next = text;
+    // A group reaches a culture from one directory deeper than a culture does.
+    for (const m of text.matchAll(/\]\(((?:\.\.\/)+cultures\/([a-z0-9_]+)\/([^()\s]+))\)/g)) {
+      const dep = productionName(m[2]);
+      next = next.split(`](${m[1]})`).join(`](${dep}/${m[3]})`);
+      declare(dep);
+    }
+    for (const m of next.matchAll(/\]\((@[a-z0-9-]+\/[a-z0-9-]+)\/[^()\s]+\)/g)) declare(m[1]);
+    if (next !== text) rewrites.push([join(to, file), next]);
+  }
+
+  // Anything that linked into the group now links the package. Nothing does
+  // today - a culture does not reach into a group - but a second group might,
+  // and the pass costs one walk.
+  const inbound = [];
+  const rewriteInbound = (path) => {
+    const text = readFileSync(path, "utf8");
+    let next = text;
+    for (const m of text.matchAll(/\]\((?:\.\.\/)+groups\/([a-z0-9_]+)\/([^()\s]+)\)/g))
+      if (m[1] === id) next = next.split(m[0]).join(`](${spec}${m[2]})`);
+    if (next !== text) inbound.push([path, next]);
+  };
+  for (const c of cultures()) for (const file of mds(c.dir)) rewriteInbound(join(c.dir, file));
+  for (const dir of referencingDirs())
+    if (dir !== from) for (const file of mds(dir)) rewriteInbound(join(dir, file));
+
+  const languages = languagesOf(from);
+  const manifest = {
+    name,
+    version: "0.1.0",
+    description: `khai cultures: ${id}, one group of cultures staged as a khai play.`,
+    license: "SEE LICENSE IN LICENSE and LICENSE-CODE",
+    repository: read(join(HOUSE, "package.json")).repository,
+    type: "module",
+    files: ["*.md", "LICENSE", "LICENSE-CODE"],
+    khai: {
+      class: "house",
+      group: id,
+      anchor: readdirSync(from).find((f) => f.startsWith("play_")),
+      ...(languages.length ? { languages } : {}),
+    },
+    publishConfig: { registry: "https://npm.pkg.github.com", access: "public" },
+    dependencies: Object.fromEntries(Object.entries(deps).sort()),
+  };
+
+  return {
+    id,
+    name,
+    from,
+    to,
+    manifest,
+    rewrites,
+    inbound,
+    guide: groupInstructions(id, name, membersOf(from)),
+    members: membersOf(from),
+  };
+}
+
 /**
  * Move the directory, keeping the history where there is history to keep.
  *
@@ -404,10 +595,65 @@ if (isMain) {
     console.log(`\none move away: ${one.length}`);
     process.exit(0);
   }
+  // The group queue, printed on the same terms as the culture one: a group is
+  // held by its members and by nothing else, so the list is short and the
+  // ordering is somebody else's work.
+  if (argv.includes("--groups")) {
+    const ready = [];
+    const held = [];
+    for (const [id] of houseGroups()) {
+      const stop = groupBlockers(id);
+      (stop.length ? held : ready).push(stop.length ? [id, stop[0]] : id);
+    }
+    console.log(`groups ready to migrate: ${ready.length}`);
+    for (const id of ready) console.log(`  ${id}`);
+    console.log(`\nheld, by their members:`);
+    for (const [id, why] of held) {
+      const n = /^(\d+) of (\d+)/.exec(why);
+      console.log(`  ${id.padEnd(18)} ${n ? `${n[1]} of ${n[2]} still under the umbrella` : why}`);
+    }
+    process.exit(0);
+  }
+
+  const isGroup = argv.includes("--group");
   const asked = argv.find((a) => !a.startsWith("-"));
   if (!asked) {
     console.error("usage: migrate_culture.mjs <id> [--write]");
+    console.error("       migrate_culture.mjs <id> --group [--write]");
+    console.error("       migrate_culture.mjs --queue | --groups");
     process.exit(2);
+  }
+
+  if (isGroup) {
+    // Same discipline as the culture path: the argument selects, it never
+    // becomes a path. Everything below uses the id off the discovered record.
+    const found = houseGroups().find(([gid]) => gid === asked);
+    const stop = groupBlockers(asked);
+    if (stop.length) {
+      console.error(`${asked} cannot migrate yet:`);
+      for (const line of stop) console.error(`  - ${line}`);
+      process.exit(1);
+    }
+    const g = groupPlan(found[0]);
+    console.log(`${g.id} -> ${g.name}  (group)`);
+    console.log(`  move    ${rel(g.from)} -> ${rel(g.to)}`);
+    console.log(`  members ${g.members.join(", ")}`);
+    console.log(`  depends ${Object.keys(g.manifest.dependencies).join(", ") || "(nothing)"}`);
+    console.log(`  rewrite ${g.rewrites.length} own link file(s), ${g.inbound.length} inbound`);
+    if (!argv.includes("--write")) {
+      console.log("\n  dry run. Pass --write to perform it.");
+      process.exit(0);
+    }
+    apply(g);
+    console.log(
+      g.moved === "untracked"
+        ? "\n  done (plain rename: the source was not tracked yet). Now:"
+        : "\n  done. Now:",
+    );
+    console.log("    npm install");
+    console.log("    npm run registry");
+    console.log("    npm run format && npm test");
+    process.exit(0);
   }
   // The argument selects a culture; it never becomes one. Everything below uses
   // the id off the discovered record, so no path this tool renames, no file it
