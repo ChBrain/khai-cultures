@@ -138,14 +138,28 @@ compliance and not truth, and the counters that would make a sweep cheap are the
 counters this order has just shown do not work.
 
 **On a second model auditing the first.** The house is wiring an advisory NLP
-lane, and two constraints follow from what is written above. It must judge the
-plot line in English - the titles and the Cues - and never the staged prose: a
-model grading prose a model wrote, in a tongue neither can verify, is a mirror.
-And it prints a distribution before it sets any threshold, the way
-`order_plot_zero.md` measured 290 opening dates before fixing anything. There is
-already an unfilled slot for it: a file whose language is in `khai.languages`
-logs `routed to assistant/LLM verification` and returns nothing, which is how all
-twenty-two Alsatian files passed the language wall by being skipped.
+lane, and three constraints follow from what is written above.
+
+It reads the plot line - each plot's title and Cue - and never the staged prose.
+A model grading prose a model wrote, in a tongue neither can verify, is a mirror.
+Naming who acts in a Cue is a far lower bar than judging how it is written, and
+it is the only thing to ask for. This corrects an earlier wording of this order,
+which said the lane must judge the plot line "in English": the Cues are written
+in the culture's own tongue and cannot be anything else. It is the answer that
+comes back in English, not the question.
+
+It sets no threshold, and if one is ever wanted the house measures a
+distribution first, the way `order_plot_zero.md` measured 290 opening dates
+before fixing anything.
+
+And it is not pointed at the model that wrote the culture. The value here is
+entirely that the reader is somebody else; an author auditing its own plot line
+reproduces the failure rather than finding it.
+
+There is already an unfilled slot of this kind elsewhere: a file whose language
+is in `khai.languages` logs `routed to assistant/LLM verification` and returns
+nothing, which is how all twenty-two Alsatian files passed the language wall by
+being skipped.
 
 ## Targets
 
@@ -168,6 +182,12 @@ twenty-two Alsatian files passed the language wall by being skipped.
       instead of a nod
 - [x] Correct the scaffold's `REFERENCES.md` stub, which carried the defective
       tell as its only question and so put it into every culture written from it
-- [ ] Wire the advisory audit lane: English plot line only, distribution before
-      threshold, into the LLM slot that already exists and is empty
+- [x] Wire the advisory audit lane: `tests/plot_line_audit.mjs` builds the
+      question from the plot lines a change touches,
+      `.github/workflows/plot-line-audit.yml` sends it to a reader that is not
+      the author and posts the answer on the pull request. It never fails a
+      build and never scores, and unwired it posts the question itself
+- [x] Correct this order's own wording: the lane cannot read the plot line "in
+      English", because the Cues are in the culture's tongue. English is the
+      answer, not the question
 - [ ] Ask it of cultures as they are touched, never as a sweep
