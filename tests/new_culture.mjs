@@ -233,6 +233,23 @@ ${parent ? `- The culture-position nests on \`@chbrain/khai-cultures-${parent.re
   // REFERENCES is where the defining question is answered and where a decision
   // to leave something unstaged is recorded, so the file arrives asking for
   // both rather than as an empty heading.
+  //
+  // It arrives asking TWO questions, because for a long time it asked one and
+  // that one cannot find the failure it was written for. The coverage tell -
+  // do the words the play uses about itself land in a plot - measures the
+  // agreement between a play's self-description and its scenes. A play whose
+  // Arc, Name and Stakes are themselves constitutional passes it perfectly, and
+  // three cultures did, with this stub's own sentence quoted in their
+  // REFERENCES. See management/orders/order_the_passport.md. The second
+  // question is the content one, and the table is here rather than in prose so
+  // that answering it means writing a word per plot instead of nodding.
+  const plotRows = adds
+    .map((a) => a.split(":"))
+    .filter(([type]) => type === "plot")
+    .map(([, name]) => name)
+    .sort()
+    .map((name) => `| \`plot_${name}\` | | |`)
+    .join("\n");
   writeFileSync(
     join(dir, "REFERENCES.md"),
     `# References
@@ -246,6 +263,37 @@ TODO: answer it here, and delete this line.
 **What defines ${Title}, and does the play stage it?** Coverage is a counter and
 cannot tell you whether a play is true. Take the words the play uses about itself
 in its Arc, Name, Stakes and pitch, and ask which of them appear in a plot.
+
+That question finds a play that does not stage what it claims. It cannot find a
+play that claims the wrong thing, because it only checks the two halves against
+each other. So there is a second one.
+
+## What acts in this plot line
+
+TODO: fill the table, then answer the question under it, then delete this line.
+
+**Name the subject of each plot's Cue: who or what acts.** Not the theme, not the
+period - the thing that moves first.
+
+| plot | subject of the Cue | state or its instruments? |
+| ---- | ------------------ | ------------------------- |
+${plotRows || "| | | |"}
+
+A house plot line that is doing its work has cues like an irrigation channel in a
+dry valley, a duke ordering pure beer, an oak felled at Geismar, an engineering
+company founded, chestnuts ordered planted, a mosquito. A passport has a king, a
+parliament, an army, a commission, a court.
+
+**If most of the column is yes, this is a passport**, whatever the Arc says. A
+culture is not its statehood. Politics belongs here - the house runs at about
+three state plots in six to nine, and a rule against them would be as wrong as
+the habit it corrects - but a plot line with the state as its only actor has only
+one question available to it, and that is never the whole of a culture.
+
+Do not turn this into a counter. Two were measured against the whole house and
+both fail; \`management/orders/order_the_passport.md\` records which and why.
+
+## Not staged
 
 Record what is deliberately NOT staged, and why, so the next hand argues with a
 reason instead of asking the question again.
@@ -309,5 +357,28 @@ prose: unedited, it reads as a placeholder and khai-staging says so.`);
 if (need.length) {
   console.log("\nStill to stage:");
   for (const n of need) console.log(`  - ${n}`);
+}
+
+// The one question worth asking before any prose exists, and the only moment it
+// is free: the titles have just been chosen and nothing has been written against
+// them. Three cultures were staged as passports in a week, eighteen plots with
+// sixteen of them a state acting, and every one of those eighteen titles was
+// picked in a single invocation of this script. Printed rather than enforced,
+// because order_the_passport.md measured two counters for this against the whole
+// house and both fail - one passes the worst offender, the other is inverted.
+const plots = have.filter((f) => f.startsWith("plot_")).sort();
+if (plots.length) {
+  console.log("\nBefore you write: name the subject of each Cue - who or what acts.");
+  for (const f of plots) console.log(`  ${f.replace(/\.md$/, "")}`);
+  console.log(`
+A working plot line has cues like an irrigation channel in a dry valley, a duke
+ordering pure beer, an oak felled at Geismar, a company founded, a mosquito. A
+passport has a king, a parliament, an army, a commission, a court. If most of
+these are the second kind, change the titles now: it costs nothing today and a
+restaging later. Politics belongs in a culture - the house runs at about three
+state plots in six to nine - but a plot line with the state as its only actor
+has one question available to it, and that is never the whole of a culture.
+The table in REFERENCES.md is where the answer is written down. See
+management/orders/order_the_passport.md.`);
 }
 console.log(`\nThen: npm install && npm run registry && npm run gates`);
