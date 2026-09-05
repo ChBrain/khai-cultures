@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **86 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **87 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -32,6 +32,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                                                            | `bar`        |
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                                                       | `bar`        |
 | `bar/position_language_bar_wien.md`    | Viennese: Middle Bavarian with one vowel moved, and a vocabulary the countryside never had                                                           | `bar`        |
+| `bfi/position_language_bfi.md`         | British Sign Language: simultaneity, grammar on the face, and reference placed in space                                                              | `bfi`        |
 | `br/position_language_br.md`           | Breton: the only Celtic language on the continent, and the one whose speakers had to choose an orthography rather than decline to                    | `br`         |
 | `co/position_language_co.md`           | Corsican: a polynomic language, where no variety is the norm because none was ever wanted                                                            | `co`         |
 | `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                                                           | `cs`         |
@@ -114,5 +115,17 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `tr/position_language_tr.md`           | Turkish as such: agglutination, vowel harmony, and an evidential in every sentence                                                                   | `tr`         |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                                                         | `vmf`        |
 | `wep/position_language_wep.md`         | Westphalian: Low German, with the breaking no other Low German has                                                                                   | `wep`        |
+
+## Tongues that are not languages
+
+A tongue is an office somebody holds and stands at a depth in, channel by channel.
+A language is a system with its own grammar and lexicon. Every entry above is
+both, which is why nobody had to tell them apart. These are the first that are
+only the first thing, so they hang from the root, carry no language code, and move
+no number: the version's minor is the **language** count.
+
+| Tongue                | What it is                                                                                                              | Channels held                                                                      |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `position_braille.md` | braille: a tongue that is not a language, holding two of the five channels and no allegiance to any tongue in the cells | reading and writing only, tactile; no speaking, no hearing, no thinking of its own |
 
 <!-- Rendered by build.mjs. Edit provenance.json or the varieties, then run `node build.mjs --write`. -->
