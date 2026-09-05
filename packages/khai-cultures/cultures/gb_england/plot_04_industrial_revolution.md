@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Industrial Revolution"
-declared: "The Industrial Revolution"
+title: "The Industrial Revolution, from 1780"
+declared: "The Industrial Revolution, from 1780"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: The Industrial Revolution
+# Plot: The Industrial Revolution, from 1780
 
 ## Taxonomy
 
