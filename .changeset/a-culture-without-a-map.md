@@ -51,6 +51,19 @@ and a URL and two cultures cannot hold one; take a group's shape, since it has n
 member plays; or be written as a grievance, since the difficulty goes where every
 culture's difficulty goes.
 
+**A region is not automatically a place the house can hold, and Denmark is the
+proof.** ISO 3166-2 gives Denmark five subdivisions, the health-administration
+regions of the 2007 reform, and Sønderjylland is not among them: it sits inside
+`DK-83` and its ground is four municipalities, which ISO does not carry. `covers`
+does not reach it either, since both uses in the house are ISO throughout. So
+there are two ways to have no `iso` and they want opposite answers - a minority
+has no ground and must not be painted, while Sønderjylland has ground and must be
+painted and cannot be. The order settles the first and leaves the second open
+deliberately, having established that it is a real gap rather than a Danish quirk:
+it is every historical region in a state whose administrative map was drawn for
+something other than culture, and the geo record already predicts it by saying the
+level is chosen per culture.
+
 **It does not say every minority earns a culture.** The test is the one a variety
 file already has to pass: can a play be staged from it? A community with schools,
 press, party and a name for itself can be. A population that exists as a census

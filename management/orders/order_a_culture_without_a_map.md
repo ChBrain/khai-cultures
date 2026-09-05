@@ -103,10 +103,49 @@ links only the kin has described an exile.
   is staged like any other, and the difficulty goes where every culture's
   difficulty goes, in the Loses chapter and in the Stakes.
 
-**A region is still a place, and needs nothing new.** Sønderjylland is
-`dk_sonderjylland` with a `geo.json`, an ISO and a culture-position linking
-`denmark`, exactly as `gb_wales` links `united_kingdom`. The only thing tier three
-adds is the ordering: after the state culture, before any group that casts it.
+**A region is not automatically a place the house can hold, and Denmark is the
+proof.** This section said the opposite in the first draft. It claimed Sønderjylland
+would be `dk_sonderjylland` with a `geo.json` and an ISO, exactly as `gb_wales`
+nests in `united_kingdom`, and that tier three therefore added nothing but
+ordering. That is wrong, and the correction matters because it is the **opposite**
+break to the one above.
+
+ISO 3166-2 gives Denmark five subdivisions and no more: `DK-81` Nordjylland,
+`DK-82` Midtjylland, `DK-83` Syddanmark, `DK-84` Hovedstaden, `DK-85` Sjælland.
+They are the health-administration regions drawn in the 2007 reform, they replaced
+the counties, and they carry close to no cultural content. **Sønderjylland is not
+among them.** It sits inside `DK-83` and its ground is four municipalities, and
+ISO carries no Danish municipality. There is no code for it at any level.
+
+Nor does `covers` reach it. Both uses of `covers` in the house are ISO throughout,
+`FR-6AE` over two departments and `FR-BRE` over five, and the mechanism was built
+to let the anchor and the painted area disagree, not to let the painted area be
+made of units ISO does not have.
+
+So there are two ways a culture can fail to have an `iso`, and they want opposite
+answers:
+
+| kind                                 | ground   | code     | paint                              |
+| ------------------------------------ | -------- | -------- | ---------------------------------- |
+| an ordinary culture                  | yes      | yes      | yes                                |
+| a region with no code, Sønderjylland | yes      | **none** | **must be painted, and cannot be** |
+| a minority, the two above            | **none** | none     | **must not be painted**            |
+
+The minority case is settled by _no geo, no fill_. The coded-region case is not
+settled by anything and is left open here deliberately rather than decided in
+passing. What is decided is that it is a real gap and not a Danish quirk: it is
+every historical region in a state whose administrative map was redrawn for
+something other than culture, and this house has already written the doctrine that
+predicts it, in `../design/what-a-geo-json-carries.md` — **the level is chosen per
+culture**, and Germany, where the Land is both the map and the culture, is the
+easy case rather than the normal one.
+
+Two routes exist and one of them is already half-built. `covers` could take a
+sub-ISO level, which is exactly what the geo record says geoBoundaries supplies at
+ADM2 under a licence the house can use; or the anchor could stop being an ISO
+string for such a culture and let the id carry the package name and the URL, which
+it can, leaving only the colour to source. Whichever is chosen, it is chosen before
+Sønderjylland is written and not during.
 
 **What this order does not say.** It does not say every minority earns a culture.
 The test is the ordinary one and it is the same test a variety file has to pass:
@@ -125,3 +164,6 @@ go, not so that the count can grow.
 - [ ] `new_culture.mjs` stops demanding `--iso`, which it currently calls
       not guessable, for a culture that is not a place.
 - [ ] The first two are written before the first mapless culture ships, not after.
+- [ ] The coded-region gap is decided before the first culture with ground and no
+      ISO is written: either `covers` takes a sub-ISO level, or the anchor stops
+      being an ISO string and the id carries what it can.
