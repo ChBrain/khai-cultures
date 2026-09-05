@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **86 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **88 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -32,6 +32,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                                                            | `bar`        |
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                                                       | `bar`        |
 | `bar/position_language_bar_wien.md`    | Viennese: Middle Bavarian with one vowel moved, and a vocabulary the countryside never had                                                           | `bar`        |
+| `bfi/position_language_bfi.md`         | British Sign Language: simultaneity, grammar on the face, and reference placed in space                                                              | `bfi`        |
 | `br/position_language_br.md`           | Breton: the only Celtic language on the continent, and the one whose speakers had to choose an orthography rather than decline to                    | `br`         |
 | `co/position_language_co.md`           | Corsican: a polynomic language, where no variety is the norm because none was ever wanted                                                            | `co`         |
 | `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                                                           | `cs`         |
@@ -64,6 +65,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `de/position_language_de_x_mos.md`     | Moselle Franconian: the tongue that says dat Dorf, which is the only one that does                                                                   | `de-x-mos`   |
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                                                            | `dsb`        |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                                                               | `en`         |
+| `en/position_language_en_brai.md`      | English in braille: a script and not a tongue, admitted as a variety under the language it writes                                                    | `en-Brai`    |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                                                        | `en`         |
 | `en/position_language_en_gb_eng.md`    | English English: the variety whose diagnostics are read as a rank rather than as a place                                                             | `en`         |
 | `en/position_language_en_gb_nir.md`    | Ulster English: the rise on the declarative, and the softeners in front of every claim                                                               | `en`         |
