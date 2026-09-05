@@ -34,6 +34,27 @@ export const COLLECTION = { dir: ".", key: "tongues", anchor: "position_language
 /** A language directory's anchor, by convention: `de/position_language_de.md`. */
 const anchorOf = (lang) => `${lang}/position_language_${lang}.md`;
 
+/**
+ * The tongues here that are NOT languages, sorted. A tongue is an office somebody
+ * holds and stands at a depth in, channel by channel; a language is a system with
+ * its own grammar and lexicon. Until braille the two always coincided, so the
+ * package was named for the first and counts the second without anyone noticing
+ * they are different tests. Braille is a tongue and not a language: it has no
+ * grammar and no words, and it is not English's, because the same sixty-three
+ * cells carry Arabic, Chinese, music and mathematics.
+ *
+ * They live at the package root rather than in a directory, which is exactly what
+ * keeps the version honest: `languages()` and the kit's `countItems` both walk
+ * directories, so a root-level position is a member, has provenance, renders, and
+ * moves no number. Any future one - a manual coding of a spoken language,
+ * speech-to-text - goes here the same way.
+ */
+export function nonLanguages(dir = HERE) {
+  return readdirSync(dir)
+    .filter((f) => f.startsWith("position_") && f.endsWith(".md") && f !== ROOT_FILE)
+    .sort();
+}
+
 /** The language directories, sorted. A directory is a language iff it holds its anchor. */
 export function languages(dir = HERE) {
   return readdirSync(dir, { withFileTypes: true })
@@ -86,6 +107,7 @@ export function members(dir = HERE) {
     for (const v of varieties(dir).filter((x) => x.lang === lang && !x.anchor))
       out.push({ file: v.file, type: "position", parent: anchorOf(lang) });
   }
+  for (const file of nonLanguages(dir)) out.push({ file, type: "position", parent: ROOT_FILE });
   return out;
 }
 
@@ -141,6 +163,9 @@ export function renderReadme(dir = HERE) {
   const rows = v
     .map((x) => `| \`${x.file}\` | ${p[x.file]?.tongue ?? "?"} | \`${x.language}\` |`)
     .join("\n");
+  const plain = nonLanguages(dir)
+    .map((f) => `| \`${f}\` | ${p[f]?.tongue ?? "?"} | ${p[f]?.channels ?? "?"} |`)
+    .join("\n");
   return `# khai-cultures-tongues
 
 The tongues of the Cultures house: one khai **position** per language variety,
@@ -173,14 +198,27 @@ leaves the reach of the house's \`validateProjectLanguages\` when it leaves
 | --- | --- | --- |
 ${rows}
 
+## Tongues that are not languages
+
+A tongue is an office somebody holds and stands at a depth in, channel by channel.
+A language is a system with its own grammar and lexicon. Every entry above is
+both, which is why nobody had to tell them apart. These are the first that are
+only the first thing, so they hang from the root, carry no language code, and move
+no number: the version's minor is the **language** count.
+
+| Tongue | What it is | Channels held |
+| --- | --- | --- |
+${plain}
+
 <!-- Rendered by build.mjs. Edit provenance.json or the varieties, then run \`node build.mjs --write\`. -->
 `;
 }
 
 export function renderReferences(dir = HERE) {
   const p = provenance(dir);
-  const rows = varieties(dir)
-    .map((x) => {
+  const rows = [...varieties(dir).map((x) => x.file), ...nonLanguages(dir)]
+    .map((file) => {
+      const x = { file };
       const e = p[x.file] ?? {};
       const flag = e.review === "native" ? "**The prose is flagged for native review.** " : "";
       const from = e.from ? ` Came here from \`cultures/${e.from}\`, which wrote it.` : "";

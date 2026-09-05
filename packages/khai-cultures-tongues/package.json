@@ -210,11 +210,6 @@
         "parent": "position_language.md"
       },
       {
-        "file": "en/position_language_en_brai.md",
-        "type": "position",
-        "parent": "en/position_language_en.md"
-      },
-      {
         "file": "en/position_language_en_gb.md",
         "type": "position",
         "parent": "en/position_language_en.md"
@@ -461,6 +456,11 @@
       },
       {
         "file": "wep/position_language_wep.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "position_braille.md",
         "type": "position",
         "parent": "position_language.md"
       }

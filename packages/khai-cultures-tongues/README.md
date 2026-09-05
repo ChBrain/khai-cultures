@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **88 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **87 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -65,7 +65,6 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `de/position_language_de_x_mos.md`     | Moselle Franconian: the tongue that says dat Dorf, which is the only one that does                                                                   | `de-x-mos`   |
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                                                            | `dsb`        |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                                                               | `en`         |
-| `en/position_language_en_brai.md`      | English in braille: a script and not a tongue, admitted as a variety under the language it writes                                                    | `en-Brai`    |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                                                        | `en`         |
 | `en/position_language_en_gb_eng.md`    | English English: the variety whose diagnostics are read as a rank rather than as a place                                                             | `en`         |
 | `en/position_language_en_gb_nir.md`    | Ulster English: the rise on the declarative, and the softeners in front of every claim                                                               | `en`         |
@@ -116,5 +115,17 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `tr/position_language_tr.md`           | Turkish as such: agglutination, vowel harmony, and an evidential in every sentence                                                                   | `tr`         |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                                                         | `vmf`        |
 | `wep/position_language_wep.md`         | Westphalian: Low German, with the breaking no other Low German has                                                                                   | `wep`        |
+
+## Tongues that are not languages
+
+A tongue is an office somebody holds and stands at a depth in, channel by channel.
+A language is a system with its own grammar and lexicon. Every entry above is
+both, which is why nobody had to tell them apart. These are the first that are
+only the first thing, so they hang from the root, carry no language code, and move
+no number: the version's minor is the **language** count.
+
+| Tongue                | What it is                                                                                                              | Channels held                                                                      |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `position_braille.md` | braille: a tongue that is not a language, holding two of the five channels and no allegiance to any tongue in the cells | reading and writing only, tactile; no speaking, no hearing, no thinking of its own |
 
 <!-- Rendered by build.mjs. Edit provenance.json or the varieties, then run `node build.mjs --write`. -->

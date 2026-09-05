@@ -65,21 +65,29 @@ missing word.
 
 ## Loses
 
-It cannot be written. Not badly, not partially, not yet: there is no orthography
-this community uses to send a letter, keep a diary, sign a contract or publish a
-novel. Notations exist and are read by researchers rather than by signers.
-Everything this language has ever said survives as video, as a memory, or as a
-translation into the written language of the country around it, so a tongue with
-a literature, a poetics, a humour and eight hundred years of Deaf community
-behind it has no archive in its own hand. This document is itself the proof: it
-is a position about a language, written in another one, because there was no
-alternative.
+Two of the five channels, whole. A tongue is spoken and heard, written and read,
+and thought in; this one is signed, watched and thought in, and the durable pair
+is not weak here but missing. There is no orthography a signer uses to send a
+letter, keep a diary, sign a contract or publish a novel. Notations exist and are
+read by researchers rather than by signers. So a language with a literature, a
+poetics, a humour and centuries of Deaf community behind it has no archive in its
+own hand: everything it has ever said survives as video, as a memory, or as a
+translation into the written language of the country around it. This document is
+the proof of it, being a position about a tongue written in another one, because
+there was no alternative.
 
-It loses the ordinary line of descent. Around nine in ten deaf children are born
-to hearing parents, so most of its native users do not learn it from their
-families. It passes sideways instead, from other children, in schools and clubs
-and from deaf adults met later, which makes the school the family and gives the
-language a transmission that any change of education policy can cut.
+What the missing pair costs is not access to books, which translation supplies.
+It is the absent-interlocutor case. A tongue with writing can reach someone who is
+not in the room and not alive, and can be corrected, redrafted and consulted; this
+one has to be present, in a room, with both parties looking, every time. Its
+holder can be fluent in it and illiterate in it at once, and those two words stop
+describing the same axis.
+
+It loses the ordinary line of descent as well. Around nine in ten deaf children
+are born to hearing parents, so most of its native users do not learn it from
+their families. It passes sideways instead, from other children, in schools and
+clubs and from deaf adults met later, which makes the school the family and gives
+the language a transmission that any change of education policy can cut.
 
 And it was cut. From the Milan congress of 1880 the schools across Europe turned
 to oralism and the hands were sat on, sometimes literally, for the better part of
