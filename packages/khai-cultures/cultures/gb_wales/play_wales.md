@@ -68,6 +68,10 @@ A small nation that lost its last native prince to the conqueror, saw its land r
 
 ## Triggers
 
+**[Plot 0: Cymry and Wealas, from 550](plot_00_cymry_and_wealas.md)**
+
+The Britons of the west name themselves for belonging together while their neighbours name them the strangers, [yr iaith](@chbrain/khai-cultures-tongues/cy/position_language_cy.md) separates out of British, and the oldest poetry in any living tongue of these islands opens by mourning a country already lost.
+
 **[Plot 1: The Death of Llywelyn 1282](plot_01_llywelyn_1282.md)**
 
 Llywelyn ap Gruffudd, the last native Prince of Wales, falls in 1282; Edward I rings [Eryri](place_eryri.md) with castles and breaks native rule, but cannot break [yr iaith](@chbrain/khai-cultures-tongues/cy/position_language_cy.md), the tongue of the conquered.
@@ -80,9 +84,25 @@ Llywelyn ap Gruffudd, the last native Prince of Wales, falls in 1282; Edward I r
 
 William Morgan gives Wales [the Bible](piece_welsh_bible.md) in its own tongue, saving and standardising [yr iaith](@chbrain/khai-cultures-tongues/cy/position_language_cy.md) and laying the root of Welsh literacy and Nonconformity.
 
-**[Plot 4: Coal and Bevan](plot_04_coal_and_bevan.md)**
+**[Plot 4: Coal and Bevan, 1840 to 1948](plot_04_coal_and_bevan.md)**
 
 Coal draws a people into [the Valleys](place_the_valleys.md), where the pit and the chapel forge a working-class solidarity that carries [Aneurin Bevan](persona_bevan.md) from a miner's cottage to the national stage.
+
+**[Plot 5: Brad y Llyfrau Gleision, 1847](plot_05_brad_y_llyfrau_gleision_1847.md)**
+
+Three English commissioners who speak no Welsh report that the language and [the chapel](position_y_capel.md) are the cause of a people's degradation, and Wales answers not with a rebellion but with [the eisteddfod](process_eisteddfod.md), the Sunday school and a century of relentless respectability.
+
+**[Plot 6: The Match and the Anthem, 1905](plot_06_the_match_and_the_anthem_1905.md)**
+
+A crowd answers the haka by singing, Wales beat the New Zealanders by a single try, and a nation with no state finds a body to be a nation in: [rugby](process_rugby.md), for eighty minutes at a time.
+
+**[Plot 7: Aberfan, 1966](plot_07_aberfan_1966.md)**
+
+A colliery tip comes down on a school and kills a hundred and sixteen children, the Board is blamed and nobody is dismissed, and [solidariaeth](position_solidariaeth.md) is shown to have been a bargain the industry never kept.
+
+**[Plot 99: The Count and the Congregation, since 2011](plot_99_the_count_and_the_congregation.md)**
+
+The Senedd gets its law-making powers, the census finds the language down to 17.8 per cent against a declared target of a million speakers, and [Gwen](persona_gwen.md) and [Rhys](persona_rhys.md) hold two halves of a country that no longer quite meet.
 
 ## Stakes
 
