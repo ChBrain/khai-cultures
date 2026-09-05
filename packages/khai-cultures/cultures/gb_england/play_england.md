@@ -67,6 +67,10 @@ An old country that learned, after conquest from across the Channel, to govern i
 
 ## Triggers
 
+**[Plot 0: The Angelcynn, from 450](plot_00_the_angelcynn.md)**
+
+Rome leaves, the Angles, Saxons and Jutes settle among the people already there, and over three centuries a people and a tongue become one and take a name four hundred years before the kingdom does.
+
 **[Plot 1: The Norman Conquest 1066](plot_01_norman_conquest_1066.md)**
 
 At the field by Hastings the old English order falls to an invader from across the Channel; the land is conquered, surveyed, and made over from the top down, and learns to carry its loss inward.
@@ -79,9 +83,25 @@ The common people march from the country to demand their freedom, and the figure
 
 [Henry VIII](persona_henry_viii.md) breaks the Church in England from Rome and makes the king its head, cutting the country loose to settle its own faith in its own way.
 
-**[Plot 4: The Industrial Revolution](plot_04_industrial_revolution.md)**
+**[Plot 4: The Industrial Revolution, from 1780](plot_04_industrial_revolution.md)**
 
 In [Manchester](place_manchester.md) and the mill towns of the north, England becomes the workshop of the world, and [Charles Dickens](persona_dickens.md) holds the human cost of it up to the light.
+
+**[Plot 5: The Laws Written in Taverns, 1863](plot_05_the_laws_written_in_taverns_1863.md)**
+
+Eleven London clubs take a room at a tavern to write one set of rules for a game they each play differently, and the country that codifies its games before much else gives the world both fair play and a neat instrument of class.
+
+**[Plot 6: The Mass Trespass on Kinder Scout, 1932](plot_06_the_mass_trespass_1932.md)**
+
+Four hundred ramblers out of [Manchester](place_manchester.md) walk onto a private moor, five go to prison for it, and the green and pleasant land turns out to be something that had to be taken rather than inherited.
+
+**[Plot 7: The Flag Comes Back, 1996](plot_07_the_flag_comes_back_1996.md)**
+
+A crowd picks up [the St George's Cross](piece_st_georges_cross.md) instead of the union flag, and England asks out loud, for the first time in living memory, what it is on its own.
+
+**[Plot 99: The Question Nobody Answers, since 1999](plot_99_the_question_nobody_answers.md)**
+
+The other three nations get bodies of their own and England does not, twice declines to be given one, and goes on being carried by [the pub](process_the_pub.md), the parish and the game while those are the things closing.
 
 ## Stakes
 

@@ -17255,6 +17255,12 @@
           "title": "England"
         },
         {
+          "file": "plot_00_the_angelcynn.md",
+          "kind": "plot",
+          "title": "The Angelcynn, from 450",
+          "taxonomy": "play_england.md"
+        },
+        {
           "file": "plot_01_norman_conquest_1066.md",
           "kind": "plot",
           "title": "The Norman Conquest 1066",
@@ -17275,7 +17281,31 @@
         {
           "file": "plot_04_industrial_revolution.md",
           "kind": "plot",
-          "title": "The Industrial Revolution",
+          "title": "The Industrial Revolution, from 1780",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "plot_05_the_laws_written_in_taverns_1863.md",
+          "kind": "plot",
+          "title": "The Laws Written in Taverns, 1863",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "plot_06_the_mass_trespass_1932.md",
+          "kind": "plot",
+          "title": "The Mass Trespass on Kinder Scout, 1932",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "plot_07_the_flag_comes_back_1996.md",
+          "kind": "plot",
+          "title": "The Flag Comes Back, 1996",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "plot_99_the_question_nobody_answers.md",
+          "kind": "plot",
+          "title": "The Question Nobody Answers, since 1999",
           "taxonomy": "play_england.md"
         },
         {

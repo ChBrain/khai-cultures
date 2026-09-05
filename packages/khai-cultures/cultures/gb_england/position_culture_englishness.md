@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The ground of an old, once-conquered country that learned to govern its feeling rather than show it, and made an island of itself in temper as well as geography. It carries [fair play](position_fair_play.md), the conviction that the rules of the game matter more than the prize; it carries [the amateur](position_the_amateur.md), the trust in the gifted all-rounder over the grinding professional; and it carries [understatement](position_understatement.md), the dry word held above the loud one. It carries too a self-image of a green and pleasant land, and an old, stubborn dissent from below that answers back to power. It speaks itself in [the King's English](@chbrain/khai-cultures-tongues/en/position_language_en_gb_eng.md), though it means more than it ever troubles to say.
+The ground of an old, once-conquered country that learned to govern its feeling rather than show it, and made an island of itself in temper as well as geography. It carries [fair play](position_fair_play.md), the conviction that the rules of the game matter more than the prize; it carries [the amateur](position_the_amateur.md), the trust in the gifted all-rounder over the grinding professional; and it carries [understatement](position_understatement.md), the dry word held above the loud one. It carries too a self-image of a green and pleasant land, and an old, stubborn dissent from below that answers back to power. It speaks itself in [the King's English](@chbrain/khai-cultures-tongues/en/position_language_en_gb_eng.md), though it means more than it ever troubles to say. And it is one way of being [British](@chbrain/khai-cultures-united-kingdom/position_culture_britishness.md), the way that has the hardest time telling the two apart, because for three hundred years it did not have to.
 
 ## Orders
 
@@ -30,7 +30,7 @@ It orders that a person be measured by whether they keep their word and play the
 
 ## Loses
 
-It loses ground in the old habit of turning loss inward instead of showing it, learned the day the country was conquered from across the Channel and made over from the top down. It loses ground when its reserve reads, to outsiders, as mere coldness or smugness rather than feeling held in check. It loses ground in the grief its pastoral self-image quietly carries for the workshop the mills built and then let go quiet. And it loses ground now that it must say, in its own plain words, what it stands for, having led a union it can no longer simply assume.
+It loses ground in the old habit of turning loss inward instead of showing it, learned the day the country was conquered from across the Channel and made over from the top down. It loses ground when its reserve reads, to outsiders, as mere coldness or smugness rather than feeling held in check. It loses ground in the grief its pastoral self-image quietly carries for the workshop the mills built and then let go quiet. And it loses ground now that it must say, in its own plain words, what it stands for, having led a union it can no longer simply assume: the other three nations each have a body that speaks for them by name and a way of being [British](@chbrain/khai-cultures-united-kingdom/position_culture_britishness.md) that is plainly not the same as being English, and this one has neither the body nor the distance.
 
 ## Drives
 
