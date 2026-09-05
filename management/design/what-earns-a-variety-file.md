@@ -182,6 +182,63 @@ That gives two shapes, and a language takes whichever is true of it:
   its whole extent recognises.
 - **siblings, no anchor** — North Frisian. A family that does not.
 
+## A language with no writing, and writing with no language
+
+Sign and braille were proposed together, and taken together they break the same
+assumption from opposite ends. Every one of the eighty-six files in this package
+is a spoken tongue simulated through writing, and `build.mjs` says so in its own
+comment. That works because for a spoken tongue the language and the medium are
+the same axis. They are not the same axis, and these two are the proof:
+
+|                     | its own grammar and lexicon  | a written form of its own  |
+| ------------------- | ---------------------------- | -------------------------- |
+| a spoken tongue     | yes                          | yes                        |
+| **a sign language** | **yes**                      | **no**                     |
+| **braille**         | **no, it carries another's** | **yes, that is all it is** |
+
+A sign language is a language you cannot write. Braille is writing with no
+language of its own. The package has room for both, and they go in different
+places, because the standards that name them already know the difference: `bfi`
+is an ISO 639-3 **language** code, and `Brai` is an ISO 15924 **script** code.
+
+**A sign language is a tongue and takes an anchor.** It passes every part of the
+test above except point 4, visibility in writing, and it fails that one totally
+rather than partly. So the file is written in the surrounding written language
+and the provenance says so in as many words. That is not a licence, and it does
+not extend to spoken varieties: a spoken tongue that cannot be written here is
+unwritten because the hand at the desk lacks the source, which is the middle
+failure above and is answered by a source. A sign language cannot be written by
+anyone, and no source will change it.
+
+What keeps this honest is that the inability is not a hole in the file. It is the
+most important thing about the language and it belongs in the position's own
+**Loses**: a tongue with no orthography has no archive of its own, keeps no
+letters and no diaries, and is recorded only on video or in transcription into
+somebody else's language. The mnemonic absorbs the exception instead of being
+bent around it, which is the test of whether an exception is real.
+
+Sign languages do not form one family and must never be given a shared anchor.
+BSL and ASL are unrelated; ASL descends from French sign and BSL does not. Each
+takes its own anchor, the shape `co` and `br` already have.
+
+**Braille is not a tongue and takes no anchor.** It has no grammar and no
+lexicon; it is English, or German, or Arabic, set in cells. It therefore hangs
+under the language it writes, as `en-Brai` under `en/`, where it adds a variety
+and not a language and the count stays honest. Its file is written in ordinary
+print for the opposite reason to the sign file: not because it cannot be written
+in its own medium, but because it can, and doing so would produce the same text
+re-encoded rather than a second text. A transliteration is not a translation, and
+a page of Unicode braille cells would demonstrate the point by making it
+unreadable rather than by stating it.
+
+It still earns a position, because a script has an office even when it has no
+lexicon: what it gives its holder, what it forces at every use, what it cannot
+do, and how it sorts the world are all answerable for a medium. What it may never
+do is claim to be a variety of the language in the sense the test above means.
+Nothing about `en-Brai` differs from English in phonology, grammar or word stock,
+and the provenance must say that plainly so the next reader does not go looking
+for a minimal pair that cannot exist.
+
 ## Sourcing a variety, when it is written
 
 For any variety grounded in attested text rather than the author's own command, the
