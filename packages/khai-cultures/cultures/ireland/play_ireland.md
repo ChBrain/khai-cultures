@@ -51,7 +51,7 @@ A nation that lost its language and the half of its people to famine and to empi
 - [an Ghaeilge](@chbrain/khai-cultures-tongues/ga/position_language_ga.md)
 - [the Church](position_the_church.md)
 - [emigration](position_emigration.md)
-- [Hiberno-English](position_language_en_ie.md)
+- [Hiberno-English](@chbrain/khai-cultures-tongues/en/position_language_en_ie.md)
 
 **Pieces**
 
