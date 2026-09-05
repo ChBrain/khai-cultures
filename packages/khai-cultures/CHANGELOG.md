@@ -1,5 +1,1518 @@
 # @chbrain/khai-cultures
 
+## 0.268.0
+
+### Minor Changes
+
+- ca4cc37: Added culture for Appenzell Innerrhoden
+- 5d0bb20: Appenzell Ausserrhoden joins the house.
+- f60b2c5: Glarus joins the house.
+- f60b2c5: Schaffhausen joins the house.
+- f60b2c5: Solothurn joins the house.
+- f60b2c5: Thurgau joins the house.
+- cb895f3: Alsace joins the house.
+- 5d0bb20: Brittany joins the house.
+- 850d456: Corsica joins the house, written in Corsican and nesting France. The Corsican prose has not been read by a speaker; REFERENCES.md says so and says what a native reader should expect to change.
+- 17f3feb: Added culture for Fribourg
+- 5d0bb20: Added culture for Geneva
+- 773079a: Added culture for Jura
+- 2bc45fc: Added culture for Neuchâtel
+- 655a404: Added culture for St. Gallen
+- cb895f3: Added culture for Vaud
+- f60b2c5: Added culture for Zug
+- 6cf5d9b: Zürich, Bern and Luzern. The three largest cantons by population, written off
+  current `main` after #487 was found to be scaffolding.
+
+  **The plot lines come from #487 and are its real contribution** - Zürich's guild
+  revolution, sausages, Kappel, Stäfa, Escher and Züri brännt; Bern's Aare loop,
+  Murten, the Vaud, the peasants' war, the Grauholz, the federal city and the Jura
+  question; Luzern's Sempach, the Jesuit college, the Sonderbund and the Rigi
+  railway. Those selections took judgement and they survive here. Everything else
+  is written.
+
+  **Zürich** does not open at 1336. The guild revolution is a constitutional act,
+  and the origin that actually explains this place is older and less flattering:
+  the Romans put no settlement at the narrows where the lake becomes a river, they
+  put an office that counted other people's goods and kept a share, and the town
+  formed around the office rather than the reverse. Read from there, everything
+  else changes register - the Reformation's work ethic lands on a book-keeping that
+  was already present, and Escher's bank is the toll post in its penultimate form.
+  Its second position is `das Zählen`. Its `plot_99` closes the arc `plot_05` opens
+  at the same address: over the weekend of 18 and 19 March 2023, the bank Escher
+  founded in 1856 is handed to its neighbour on the other side of the Paradeplatz.
+
+  **Bern** begins with a landform. A city built on a sandstone peninsula, where
+  correcting is expensive and space cannot be added, has to plan before it builds -
+  and has done everything that way since. That is `die Behäbigkeit`, and the play
+  holds it up in both directions: it lost an empire in a single morning at the
+  Grauholz because gründlich is not the same as fast, and fifty years later it was
+  handed the administration of a country **because** it was no longer dangerous.
+  The old lordship is staged plainly, not apologised for: three centuries over a
+  French-speaking population that was never asked, a treaty broken in 1653 once the
+  troops were ready, and a secession resolved in thirty-one years of plebiscites.
+
+  **Luzern** does not open at Sempach either, for the same reason. It exists where
+  boat becomes road, and its first and greatest building is therefore a bridge with
+  its own history hanging in the roof. Everything since is that arrangement with
+  different travellers: pack trains, then pilgrims, then - after the Sonderbund is
+  lost here in 1847 and a new trade has to be found - the visitors that the first
+  mountain railway in Europe brings in 1871. Its position is `der Blick`, and its
+  `plot_99` is ninety minutes at the Schwanenplatz.
+
+  The three refuse the obvious casting and say so. Zwingli and Escher are staged
+  and not cast; so is the Lion Monument, which is the most photographed object in
+  Lucerne and commemorates something that belongs to France and to the mercenary
+  trade rather than to what that city does. Tell and the Rütli are left to the
+  neighbours whose plays already stage them.
+
+  Three cultures, so a `minor`: 297 to 300, and the umbrella lands on `0.300.0`.
+  The three new packages declare no bump of their own; none has been published.
+  They are named `ch-zuerich`, `ch-bern` and `ch-luzern`, in full, like the seven
+  cantons already here - an npm name is permanent, and `ch-zh` would have been the
+  only ISO-coded one in the house.
+
+- 83d5442: Uri, the first Swiss canton, authored and migrated in one motion:
+  `@chbrain/khai-cultures-ch-uri`.
+
+  A valley that was a dead end until somebody hung a bridge in the Schöllenen
+  around 1200 and made it the shortest crossing of the Alps. Its freedom of 1231 is
+  bought with the pass, its oath of 1291 is an insurance among neighbours, and
+  every improvement of the road since - the tunnel of 1882, the motorway, the flat
+  tunnel of 2016 - has made the passage larger and this country's share of it
+  smaller, until the traffic goes under it in twenty minutes without seeing it.
+
+  Born package-clean: it links no `../` at all, and casts only tongues already in
+  the tongues package. The new package declares no bump of its own.
+
+- 50f0295: Basel-Landschaft joins the house: a canton that took its existence by force in
+  1833 and defends it hardest now that it commutes into the city every morning.
+
+  The culture ships as its own package, which declares no bump of its own - a first
+  release IS its manifest version. Only the umbrella carries one.
+
+- c2336fb: Aargau joins the house: the ground the Habsburgs came from, taken from them in
+  1415, and made to carry the country's electricity five centuries later.
+
+  The culture ships as its own package. A package that has never been published
+  declares no bump of its own - its manifest version IS its first release - so only
+  the umbrella carries one, and the culture count goes up by one.
+
+- 64daa0a: The three cantons that carry Switzerland's languages. Its play rests on four of
+  them and had one plot about any: Graubünden, Ticino and Wallis are now written,
+  and `rm`, `it_ch` and `fr_ch` are finally held by the cultures that speak them.
+
+  **Graubünden** has no founding, only a geography: a hundred and fifty valleys
+  draining in three directions with a pass between each pair, which is why there
+  are three languages, five written Romansh idioms and once fifty jurisdictions
+  that each thought themselves sovereign. That is `plot_00`, and the point of it is
+  that the plurality is not decay but the original form. The canton did not build
+  one league but three, was an associate of the Confederation rather than a member
+  until 1803, and in 1620 nearly killed itself with the same plurality. In 1864 a
+  hotelier bet English summer guests they would sit in the sun in January, won, and
+  invented winter tourism; in 1914 the same canton took a hundred and seventy square
+  kilometres out of use to watch what happens when nobody manages anything. In 1982
+  it built itself a common written language because five were too expensive, and
+  from 2011 the communes took their idioms back.
+
+  **Ticino** looks south and belongs north, and every later fact follows from a
+  border drawn along a watershed rather than a line of life. It did not join the
+  Confederation; between 1403 and 1512 it was taken, and administered for three
+  centuries as eight bailiwicks by bailiffs drawn by lot - the exact inverse of the
+  cantons that took it, whose whole story is never having been anyone's subject.
+  Its founding decision is `liberi e svizzeri`, February 1798: free overnight, the
+  square in Lugano chose the former master over the people who spoke its language,
+  and the choice has never been revised or entirely explained. Today the work comes
+  in from the south every morning and the young go north in two hours and mostly
+  stay.
+
+  **Wallis** begins with a bill for water. A valley drier than parts of Spain hung
+  its water off the cliffs in channels kilometres long, built and maintained by
+  cooperatives and allocated by recorded hours that hold at two in the morning -
+  and everything this culture is comes from that: a community that cannot survive
+  without cooperation and writes down every hour of it. Its bilingualism starts as
+  a conquest in 1475 and becomes, after 1815, a scrupulous alternation. It sold
+  eighty years of its meltwater for a royalty. In May 2025 the Birch glacier
+  collapsed onto Blatten, nine days after the village was evacuated, and the
+  measuring and the obeying held even though the mountain did not.
+
+  Each records what it deliberately did not do. Rumantsch Grischun is a **piece**
+  and not a tongue file, because a language position says what a tongue gives
+  whoever holds it and nobody holds this one first - it was built for
+  administration and works there. The Ticinese dialect and Walliserdeutsch get no
+  file either, and the reason is stated rather than hidden: this house does not
+  ship a variety until someone can name its rule, give the minimal pair on both
+  sides, and say whether it survives in writing. Walliserdeutsch is the strongest
+  outstanding candidate in the house.
+
+  Three cultures, so a `minor`: 294 to 297, and the umbrella lands on `0.297.0`.
+  The three new packages declare no bump of their own; none has been published.
+
+- 048b903: Basel-Stadt joins the house: a city that never drew its importance from its size,
+  and behaves once a year at four in the morning as though it still could.
+
+  The culture ships as its own package, which declares no bump of its own - a first
+  release IS its manifest version. Only the umbrella carries one.
+
+- 32eefbe: The other two Waldstätte. Uri's `plot_02` stages a pact between three valleys of
+  which only one existed in this house; Schwyz, Obwalden and Nidwalden are now
+  written, and all three are born as production packages.
+
+  **Schwyz** is the canton that gave the country its name, its field sign and the
+  charter it keeps in a box, and got the say over none of them. Its `plot_00` is
+  deliberately not 1291: the origin is the Marches quarrel, four hundred years of
+  free herdsmen refusing to give up an alp to the abbey of Einsiedeln, ending in
+  the raid of 1314 that brought a duke down on them and produced Morgarten. That is
+  the less flattering origin and the documented one, and everything after it -
+  the stubbornness, the certainty of being in the right without a charter - reads
+  from there. Its second position is `der Name`, the office of having supplied the
+  word a country goes by, which it lost the interpretation of at the Sonderbund in
+  1847 and has been touchy about ever since. Today it is two landscapes that do not
+  know each other: the Talkessel behind the mountain, and the Höfe on the other
+  lake, where people move for the arithmetic.
+
+  **Obwalden** comes from a compass direction rather than a founding: the half
+  above a wood, which sealed in 1291 under a name it does not use internally and
+  kept the double bookkeeping for five hundred years. It gave the Confederation its
+  entire founding story - the White Book of Sarnen, written around 1470 by a clerk
+  between two certified copies - and kept nothing but the file copy; the monument
+  and the play are in the neighbouring canton. Brother Klaus is staged and not
+  cast: what he did was sit still three hundred metres from his farm and let half
+  of Europe come down the steps, and the counsel that held the Confederation
+  together in 1481 was never written down. In 2006 the poorest canton made its one
+  untouchable competence into a business and became the cheapest.
+
+  **Nidwalden** is the office of refusal. It said no to the oath on the Helvetic
+  constitution in 1798 and paid for it in one day with four hundred dead and a
+  burnt capital; three months later a failed Zürcher took in the orphans and found
+  modern pedagogy in five months, so the most important thing that ever left this
+  place is not from it and would not exist without the worst thing that happened
+  there. It said no twice more, in 1995 and 2002, to the nation's nuclear
+  repository. It owns the one man in the national story who dies so the others get
+  through and cannot prove he existed. Today it builds aircraft whose buyers are
+  argued over in Bern, and lent its mountain to a peace conference in 2024.
+
+  Each answers the defining question in its own `REFERENCES.md`, and each records
+  what it deliberately did **not** stage. Nidwalden's is the sharpest: there is no
+  museum of 9 September in Stans and no festival play, and not narrating is the
+  form in which that landscape holds it - staging a commemoration it does not hold
+  would have been an invention.
+
+  Three cultures, so a `minor`: the count goes 291 to 294 and the umbrella lands on
+  `0.294.0`. The three new packages declare no bump of their own; none has been
+  published. The umbrella declares all three as dependencies, because it keeps the
+  count and so must keep the reference.
+
+### Patch Changes
+
+- d4c6697: The order lands on the four cultures it settles.
+
+  **Three waivers retired.** Germany's Jonas, Czechia's Tomáš and Melilla's Alba
+  are now cast by consequence, each in the Tension of the plot that made the world
+  they live in, with the mechanism named rather than the atmosphere:
+
+  - **Jonas** — the Mauerfall Tension already ended on the question `Elke` and the
+    next generation put to each other. He is that generation, and what he shows is
+    the specific thing the plot leaves open: the united country is self-evident to
+    him, so whether the shared memory came with it is visible in him or nowhere.
+  - **Tomáš** — the Velvet Revolution Tension asks whether a sceptical nation can
+    fill freedom once the enemy is gone. He works for a firm abroad without having
+    to leave, which before November was impossible twice over, and trusts neither
+    politicians nor church: the scepticism outlived the enemy it was aimed at.
+  - **Alba** — the 1986 Tension is that the city got the documents and not the
+    conversation. She runs crews in which half are the neighbours those papers
+    recognised, and on the scaffold that is the one thing nobody discusses.
+
+  **Switzerland's placement corrected.** Gian and Marco were cast in the `Action`
+  and the `Stage` of `Sprachenartikel 1938` with `obwohl beide diesen Tag selbst
+nicht erlebt haben` undoing it. Honest prose, wrong chapter: a Stage line still
+  listed them as cast in a 1938 scene. They move to the Tension, where the plot's
+  own open question — whether overwhelming agreement saves a language or only
+  slows its decline — turns out to have one of them on each side. Gian can invoke
+  1938 but has to invoke it, because recognition did not stop the shrinking; Marco
+  has nothing to invoke, because the same day settled Ticino's belonging so
+  completely that nobody notices it.
+
+  All four come out at zero dead Company entries with no waiver file left between
+  them. The `--consequences` queue goes from three to eight, which is the point:
+  the castings are now visible to whoever reads it next instead of being spread
+  across five waiver files.
+
+- abebdac: Austria gets the two things its Arc names and never staged.
+
+  Ten plots opening in 1683, every counter clean — and the words the play uses
+  about itself told a different story. `barock` appeared in the Arc, the pitch, the
+  culture-position, Salzburg and the Belvedere, and **in no plot**. The play had a
+  place whose name means _salt fortress_ and no salt, no Hallstatt, no Noricum.
+
+  **Hallstatt und Noricum** opens the culture two and a half millennia earlier than
+  1683, and it is not a state-founding: it is a mineral and a route. Salt out of the
+  mountain from the Bronze Age, an Iron Age so characteristic that European
+  archaeology names the whole epoch after this one Austrian village, amber from the
+  Baltic and Italian bronzes in its graves. Then the Celtic kingdom of Noricum,
+  whose iron Rome bought as _ferrum Noricum_ for its blades, and which Rome took
+  around 15 BC **without a war** — trading partner to province, royal seat to Roman
+  town. Its Tension is the habit that starts there: a country that grows by
+  connecting rather than by conquering, which is the same country whose Arc says its
+  pride comes `nicht aus der Macht, sondern aus der Form` — and the same habit that
+  gave a later century a word this play stages in `plot_10`.
+
+  **Der Barock** stages the word. Its Cue is the Counter-Reformation, because the
+  Baroque is what re-Catholicisation looks like once it is built: Ferdinand II and
+  the Reformationskommissionen, convert or sell and leave, the Jesuits given the
+  schools, and a German-speaking world that comes out of thirty years of war split
+  so that _dem Norden bleibt das Wort, dem Süden das Bild_. Its Action is what
+  followed 1683, when the danger lifted and the money arrived: Fischer von Erlach
+  and Hildebrandt, Melk over the Danube, the Karlskirche, and Prinz Eugen — the
+  soldier of `plot_02` — building the Belvedere and living in it as a man with
+  nothing left to prove. The Belvedere stops being a palace cast in a 1955 treaty
+  plot because that is where the treaty was signed.
+
+  That plot is also where the Arc's central claim is decided rather than asserted:
+  this is the fork at which Austria separates from the Protestant north, and both
+  halves of what follows come out of it — the music, the theatre, politeness as an
+  art form, the Kaffeehaus as a stage; and the practice of taking the effect more
+  seriously than what stands behind it, which two hundred and fifty years later a
+  whole country used as an excuse.
+
+  Ten plots become twelve, renumbered chronologically. One new piece: `das Salz`,
+  which finally gives Salzburg its name back.
+
+- bfaba44: Austria's plot line now carries its whole arc, not just four of its ten stops.
+
+  The Arc made four claims the plots never staged: the empire was won (1683 was
+  absent), it became a small country "over Nacht" (1918 never appeared at all,
+  though the Arc is built on it), it is "mit allem Nachdruck nicht deutsch" (1866
+  was absent, and 1938 lived only as a clause in the Staatsvertrag plot's Cue),
+  and its pride is drawn "aus Musik" first (no music plot existed at all).
+
+  Six new plots close those gaps, renumbered chronologically alongside the four
+  that already existed: `1683 Türkenbelagerung`, `1740 Maria Theresia`, `Wien wird
+zur Hauptstadt der Musik` (Haydn, Mozart, Beethoven), `1815 Wiener Kongress`,
+  `1866 Königgrätz`, `1900 Fin de Siècle`, `1918 Zerfall`, `1938 Anschluss`, `1955
+Staatsvertrag`, `1986 Waldheim-Affäre`. The Anschluss plot is staged on the
+  standard this house set for itself in Germany's Zivilisationsbruch plot: the
+  Heldenplatz crowd, the immediate persecution, and the Republic's own founder
+  recommending a "yes", not a country acted upon alone.
+
+  Five new personas (Prinz Eugen, Mozart, Franz Joseph, Karl Renner, Waldheim) and
+  two new pieces (das Belvedere, die Wiener Klassik) carry the new plots and stay
+  linked back into the ones that already existed. Lukas's coverage waiver, open
+  since the culture shipped because no plot existed after 1955, is retired: the
+  Waldheim plot gives his generation the scene his own Shadow chapter already
+  implied, and casts him without inventing one.
+
+  Coverage, conformance and persona wiring all come out clean for Austria.
+
+- 182c41b: Austria spans origin to present.
+
+  Hallstatt und Noricum was already the origin and only carried the wrong number;
+  it becomes `plot_00` and nothing else moves.
+
+  **`plot_99` Das Video und der Berg, seit 2015.** A record and not a forecast, and
+  it says so. The Balkan route through Nickelsdorf and its closure a year later. In
+  May 2019 a seven-hour video from a finca on Ibiza, two years old, in which the
+  vice-chancellor offers public contracts to a supposed oligarch's niece in exchange
+  for campaign help and the takeover of a newspaper; the government is gone within
+  days. In March 2020 Ischgl becomes the country's best-known address for the wrong
+  reason, as half of Europe is infected in the après-ski bars while the authorities
+  hesitate because the season is still running, and departing guests carry it into a
+  dozen countries. A chancellor resigns under investigation in 2021, and in 2024 a
+  party that stood at the margin in 1986 finishes first.
+
+  Its Tension finds the pattern rather than predicting from it, and the pattern is
+  `plot_12`'s: **the Schmäh holds as long as it is only talk.** It does not hold
+  against a video that runs for seven hours and forgets nothing, and it does not
+  hold against a virus indifferent to the season. Twice in five years the
+  uncomfortable thing was one that could not be talked around, and both times the
+  country tried anyway. Whether a culture that draws its worth
+  [from form](plot_03_der_barock.md) can separate the talking-around from the form
+  without losing both is what these years leave open.
+
+  One new place: `Ischgl` — a village of sixteen hundred with beds for many times
+  that, which can live a year on one winter, and that explains nearly everything
+  decided there.
+
+- e689370: Baden-Württemberg spans origin to present.
+
+  The play opened at 1806 and 1951, two constitutional facts about a state built
+  by decree and by referendum, and never asked where the culture predates either.
+  `plot_00` fixes that: **Die Alamannen und die Sprachgrenze**, the tribal
+  settlement whose dialect boundary between Alemannic and Swabian still runs
+  through the Land today, older than any of the borders drawn across it.
+
+  Two plots fill the gap the tell found in the Arc and Stakes: `Dialekt` and
+  `Häusle` were claimed and never staged. **Vom Hohenstaufen zum Kaiserthron
+  1079 bis 1268** stages the one stretch of the Land's history spent ruling
+  rather than being ruled, and the coat of arms it left behind. **Die Tübinger
+  Stiftler 1788** names the Pietist root of the pitch's own `stille Klugheit`.
+  **Wüstenrot und der Bausparvertrag 1921** stages `Häusle` as an institution,
+  the Bausparkasse, not only a word in the Arc. The 1886 automobile plot's
+  Tension was anachronistic (a fear of leaving the combustion engine, staged in
+  1886); it now carries Bertha Benz's own 1888 proof drive instead, and the
+  combustion-engine anxiety moves to where it actually belongs.
+
+  **`plot_99` Der lange Abschied vom Verbrenner.** A record, not a forecast.
+  Stuttgart's diesel bans since 2019, a Green minister-president governing a
+  combustion-engine economy since 2011, Bosch and Daimler Truck cutting tens of
+  thousands of jobs while investing in batteries and software, and Stuttgart 21
+  still unfinished under the same city, its cost more than doubled since
+  groundbreaking. Whether the new jobs arrive before the old ones are gone is
+  left open, as the Stakes already ask.
+
+  Three new places (`der Hohenstaufen`, `das Tübinger Stift`, `Wüstenrot`), two
+  new pieces (`das Landeswappen`, `der Bausparvertrag`) and one new position
+  (`die stille Klugheit`, held by Karl alongside `das Tüfteln`). Zero dead
+  Company entries; the 1806 and 1951 plots are renumbered, not rewritten.
+
+  ***
+
+  _One repair beyond the brief._ The 1886 automobile plot carried a Tension about
+  the electric transition - an anxiety of the 2020s attached to an event of 1886.
+  It now ends on Bertha Benz's drive from Mannheim to Pforzheim in August 1888,
+  which is what actually followed, and the transition anxiety moved to `plot_99`
+  where it has a decade to belong to.
+
+  _On sourcing._ Outbound browsing is blocked in this environment, so nothing here
+  rests on a source opened during the work; search summaries and model knowledge are
+  the ceiling. Two claims were hedged rather than asserted for that reason: the
+  Stauferstelen are `mehr als hundert` with `der überwiegende Teil` in this Land
+  rather than a counted total, and Schwäbisch Hall is described as offering its
+  contracts from the town since the 1930s rather than being founded there, because
+  the company was in fact registered in Cologne in 1931.
+
+- ca925d7: Bavaria spans origin to present, and DACH is complete.
+
+  Die Bajuwaren und die Klöster was already the origin; it becomes `plot_00` and
+  nothing else moves.
+
+  **`plot_99` Die bestellte Heimat, seit 2015.** A record and not a forecast. The
+  years after 2015 turn what was taken for granted into a programme. In 2018 the
+  state government orders a cross hung in the entrance of every state authority,
+  expressly as an avowal of historical and cultural character — and the churches
+  object first, because a cross the state orders stops being the thing they take it
+  for. In the same year the governing party loses the absolute majority it had held,
+  with one exception, since 1962. In 2019 the most successful Volksbegehren in the
+  state's history tells farming how to farm, and Gustl and Sepp take their
+  conditions from a majority that lives in the city. Munich becomes the most
+  expensive place in the country to live in. And the glaciers go: the remnants of
+  the Nördlicher Schneeferner are officially not a glacier any more from 2022.
+
+  Its Tension names the movement rather than predicting from it: **what was
+  self-evident is now decreed.** A land that
+  [placed itself under a patroness in 1638](plot_03_patrona_bavariae_1638.md) hangs
+  crosses by decree in 2018 and has to be told by the churches that these are not
+  the same thing. The party that for fifty-eight years appeared to _be_ the state is
+  one among several. The Tracht, the Fest and the mountains have become an offer,
+  well sold and well attended, and the mountain itself is getting warmer.
+
+  No new cast: Gustl, Sepp, die Alpen, München and the identity plan were all
+  already in the Company.
+
+  Two of my own errors, caught before merge and worth recording because no gate
+  holds either: the plot first linked `../germany/place_berlin.md`, which breaks the
+  containment rule this house measured at 712 cross-culture links all pointing at
+  positions and none at a place; and a soft hyphen had crept into one word. Both
+  fixed, and both invisible to every check in the repository.
+
+- 14b50c8: Bavaria opened in 1806 and had a century missing in the middle.
+
+  Its four plots ran 1806, 1806, 1864 to 1886, and then the present day: a kingdom,
+  three tribes, a fairy-tale king, and laptops. **Nothing between 1886 and the late
+  twentieth century** — no 1918, no 1919, no 1933 to 1945 — in the state where the
+  party began. That is Germany's own original fault reproduced in its largest child,
+  and it was invisible to every counter because the play was complete.
+
+  **Freistaat und Ordnungszelle 1918 bis 1923** stages it. The Arc and the Stakes
+  both rest on the word `Freistaat`, and the word is Kurt Eisner's: a theatre critic
+  from Berlin, a Jew, a socialist and in Munich an incomer, who proclaimed it in
+  November 1918 and was shot on his way to the Landtag three months later. Then the
+  Räterepublik, the hostage shootings, and the Freikorps ending it in May with
+  several hundred dead. Then the Ordnungszelle: a Bavaria where the right was safe
+  and the courts lenient, in whose beer halls a movement grew until it tried the
+  coup in the Bürgerbräukeller in November 1923 and got five years' Festungshaft, of
+  which its leader served nine months and wrote a book.
+
+  Its Tension is the uncomfortable one this culture owes itself: the pride in being
+  different from those in the north **took its name from a man this country shot
+  four months later and then largely forgot**, and the self-reliance the Freistaat
+  invokes is precisely what made it the Ordnungszelle — a justice of its own that
+  was mild where it should have been severe, and a government that fended off the
+  Reich while letting something grow that then took everything from the Reich.
+  Munich is officially Hauptstadt der Bewegung from 1935, and the regime's first
+  camp stands at Dachau from March 1933, twenty kilometres out.
+
+  **Das Reinheitsgebot 1516** answers the other half of the Arc, which names `das
+Bier, die Tracht, das Fest` and staged the beer nowhere: `bier` appeared in no
+  plot, and `piece_reinheitsgebot` was cast only in the modern laptops-and-Lederhosen
+  plot. Now it has its 1516 — barley, hops and water, no yeast because nobody knew
+  of it — the price controls, the grain protected from the brew kettle, and the 1812
+  beer-garden permit with the condition that says everything: pour, yes; sell food,
+  no; bring your own Brotzeit, allowed. Its Tension makes the bench that is open to
+  everyone the same hall the later plot needs.
+
+  Four plots become six, renumbered chronologically — which also fixes an existing
+  disorder, since `drei_staemme_1806` sat after Ludwig II. No new cast: the
+  Reinheitsgebot, the Freistaat and München were all already in the Company and only
+  ever cast in the wrong century.
+
+  Still open and noted rather than fixed here: `Tracht` as an invented tradition —
+  the Trachtenvereine of the nineteenth century — remains unstaged. `piece_lederhose`
+  is cast in the plot named for it, which is fair.
+
+  ***
+
+  **And then a second look said the opening was still a state date.** Four plots
+  became six and the earliest was a beer law of 1516, with the play proper still
+  starting when Napoleon made a kingdom. That is the same substitution the order
+  warns about, made one pull request after writing it down, so it is fixed here
+  rather than merged wrong.
+
+  **Die Bajuwaren und die Klöster** opens the culture in the sixth century. Rome
+  leaves; Regensburg was Castra Regina since 179 and goes quiet. Then a name appears
+  in the sources that did not exist before, Baiuvarii, and the people it names are
+  not an immigration but a coalescence: Romans who stayed, Alemanni from the west,
+  Goths and Lombards passing through, newcomers from Bohemia. Bonifatius orders the
+  church in 739 into four bishoprics whose shape the land keeps for a thousand
+  years, longer than any duchy, and in their shadow the monasteries clear, copy and
+  brew — which is where the beer of the next plot actually comes from. In 788
+  Charlemagne deposes the last Agilolfing.
+
+  Its Tension: the people proudest of being from here and nowhere else is itself a
+  mixture that agreed on a name, and the independence this land calls its core was
+  taken from it for the first time in **788**, a thousand years before Napoleon.
+
+  **Patrona Bavariae 1638** answers `der Stolz, anders zu sein als die im Norden`,
+  which the play had only ever demonstrated politically. The dukes choose against
+  Wittenberg, the Jesuits get Ingolstadt, Maximilian I leads the Catholic League,
+  and in 1638 he puts up the Marian column and formally places his land under a
+  patroness. The square is called Marienplatz ever since, and the white and blue are
+  the Wittelsbach lozenges and the colour of a cloak at the same time. The Tension
+  names both halves: the feast, the church music and the calendar on one side; a
+  league that spent thirty years in the field against other Germans, and the habit
+  of defining oneself by what one stands against, on the other.
+
+  This is the same argument made for Austria in the Baroque plot, and it should
+  have been made here first: two Catholic Baroque neighbours whose Arcs both claim
+  to be emphatically not-northern, for a reason that is confessional before it is
+  constitutional.
+
+  Four plots become **eight**. Two new pieces of cast, both cast where they belong:
+  `place_regensburg` and `piece_mariensaeule`.
+
+- e764e31: Berlin gets an origin and a present, and the three centuries between founding
+  and Wall stop being empty.
+
+  The plot line opened in 1961, at the Wall: the single worst example the
+  plot-zero order named by name, for a city founded around 1237, capital of
+  Prussia, of the Kaiserreich and of Weimar. Fixed as a research pass, not a
+  sweep, and only within `de_berlin`.
+
+  **`plot_00` Das Edikt von Potsdam 1685.** After the Thirty Years' War halves
+  Berlin and Cölln, the Great Elector's edict invites Huguenot refugees into the
+  empty city; within a generation roughly a fifth of Berliners speak French. Not
+  the founding of the settlement and not a state date - the point at which
+  something still true of Berlin (a belonging built on people arriving, not on
+  descent) first gets made rather than merely stated.
+
+  **`plot_01` Berlin wird Weltstadt, 1920 bis 1933.** The Greater Berlin Act
+  quadruples the city to a world capital of nearly four million; the Institut fur
+  Sexualwissenschaft and the club scene around it live a freedom of the night and
+  of research that the play's own Arc otherwise dates to 1990. NS students raid
+  and burn it in May 1933. Answers the "cultural moment, not constitutional one"
+  test directly: filling this gap with "capital of Prussia" or "capital of the
+  Kaiserreich" would have been easy, true, and beside the point.
+
+  **`plot_05` Arm, aber sexy: die Startup-Hauptstadt, 2003 bis 2015.** Wowereit's
+  2003 line and the startup wave it named, cast against the same cheap rent it
+  consumed.
+
+  **`plot_99` Das teure Jahrzehnt, seit 2020.** A record: BER opening nine years
+  late, the Mietendeckel voided by Karlsruhe in 2021, the "Deutsche Wohnen & Co
+  enteignen" referendum passing without legal force, the 2023 full election
+  rerun. Berlin's own decade, not Germany's.
+
+  Three new places (`der Franzoesische Dom`, `das Institut fur
+Sexualwissenschaft`, `der Flughafen BER`), one new persona (`Hirschfeld`,
+  `type: real`) and two new pieces (`die Club-Mate`, `der Mietendeckel`). The
+  three existing plots (division, fall of the Wall, techno subculture) were
+  renumbered to `plot_02` through `plot_04` with every cross-reference in the
+  culture repointed; their own text is unchanged. The play's Arc, Name and
+  Stakes were left untouched.
+
+  ***
+
+  _Review notes._ Two corrections were made in review. The Edict of Potsdam is dated
+  29 October 1685 in Brandenburg and the Revocation 18 October 1685 in France, but
+  Brandenburg was still on the Julian calendar and France on the Gregorian, so
+  subtracting the two gives eleven days where the real gap is about three weeks. The
+  plot now says `wenige Wochen`, which is what can be said without a calendar
+  conversion in the sentence. And Hirschfeld had not stayed away "since 1932": he
+  left on a world tour in 1930 and never came back, which is the sadder and more
+  accurate version.
+
+  _On sourcing._ Outbound browsing is blocked in this environment - verified by
+  `curl` to arbitrary domains, not only inferred from a failed fetch - so no claim
+  in this culture rests on a source opened during the work. Search summaries and
+  model knowledge are the ceiling, and the plots were written to survive that:
+  figures are kept only where they are uncontroversial and load-bearing.
+
+- 31991ad: Corrections from an external review of the DACH restagings.
+
+  Germany's origin plot and the Straßburger Eide piece both claimed the Oaths were
+  the oldest surviving text in Old High German. They are not: the Abrogans and the
+  Hildebrandslied precede them, and it is the Romance half of the Oaths that holds
+  that distinction. Both now say what is actually new in 842 — the vernacular
+  standing beside Latin and Romance as an equal, in an act of state.
+
+  Austria's present plot said the FPÖ stood at the margin in 1986; it had been in
+  federal government until that year. The scene now stages what 1986 was: Haider's
+  Innsbruck takeover, in the same year as Waldheim. The Dürrnberg saltworks is
+  above Hallein, not Salzburg, in the origin plot and in the salt piece.
+
+  Hamburg's present plot is retitled "Der halbe Hafen", so that Berlin's "Das teure
+  Jahrzehnt" is one culture's title rather than two.
+
+  Austria's REFERENCES now records why the word Anschluss echoes from Noricum to
+  1938 in the origin plot's Tension, what the framing is bounded to, and what would
+  be done if it ever carried more than a question can.
+
+- 937abb7: American English is read against the mnemonic, and the second half of the
+  `en_gb` sweep finally runs.
+
+  The move was a plain rename, byte for byte, so the reading is its own act. The
+  file arrived carrying rhoticity, which is sound and cannot go in a text file,
+  and the productive verbing of nouns, which `en_gb` does too - neither of which
+  separated it from its own sibling on the page. It now carries what survives in
+  writing: the spelling system that was regularised on purpose; `gotten` alive as
+  a distinction the other form has lost, _has got_ being possession and _has
+  gotten_ acquisition; the noun/verb spelling pairs collapsed to one, so the two
+  files now agree about the same fact from opposite sides; the obligatory article
+  on the institution; and the singular verb on a collective. Sources are in the
+  provenance entry. Its General American material stopped explaining the pressure
+  toward the standard by broadcasting and national schooling, which are a
+  country's institutions and not a tongue's business.
+
+  Then the sweep. Retiring `en_gb` moved 165 of its 167 links to the `en` anchor,
+  because the house used to say "English" by picking a country and most of those
+  cultures meant English as such. Nothing had ever swept `en_us`, so the same
+  fault sat in it untouched. Eight holders say in their own words that they mean
+  the anchor - Bob Marley's "the world's standard English", Can's "the world's and
+  the job's English", Wangari's "the English of her science" in a British colony,
+  Ljubica's "the English of the sanctions", which was NATO's, Stefan's "the
+  English of the emigration" to Austria, Germany or America, Man Naghol's "the
+  tourists' English", where the tourists are Australian, Fukuzawa's 英学 as the
+  successor to 蘭学, and Saxony's Peggy, wearing English for international chip
+  designers - and all eight now hold it.
+
+  Peggy is the one worth naming. Across all of DACH the count was 39 links to the
+  anchor and one to `en_us`, and hers was not a judgement anyone made: it survived
+  the `en_gb` sweep only by pointing at the other country's file, and it was
+  Saxony's last migration blocker. She would also be the wrong German to hold it
+  on any account of how English reaches Germany, Saxony having been the zone where
+  Russian was the compulsory first foreign language and English the second, taught
+  on British norms.
+
+  The 34 files that keep it each meet the American one specifically: the United
+  States' own cast, Latin America's English of the north and of the company, the
+  Pacific the United States administered, the Philippines, and the individuals
+  made in America - Bruce Lee, Ilves, Gibran, Morris Chang, and de Gaulle, who
+  calls it `l'anglais américain` and means Roosevelt's.
+
+- 7a27c1b: France answers the defining question.
+
+  The tell failed on the two words the Arc leans on hardest. **Laïcité** is named
+  in the Arc and again in the Stakes and stood in no plot; **la langue française**,
+  called a bien commun, was equally unstaged. Two more followed: the taste for
+  descending into the street, with `process_la_manif` dead, and the art of living,
+  with the meal and the baguette dead beside it.
+
+  `plot_00` answers the origin with a defeat this country chose rather than a
+  victory it won: the Gauls are the ancestors the Third Republic selected and
+  taught identically in the Cantal and in Dakar. `plot_01` stages the language as
+  two acts of state, 1539 and 1635. `plot_05` gives laïcité its law. `plot_07`
+  stages May 68, after which no government governs on the ballot alone. `plot_99`
+  records the decade since 2015.
+
+  A prerequisite: retiring `position_language_fr_fr` authors France, so France has
+  to come out at zero first.
+
+- 52b5d02: Germany becomes the first culture to span origin to present.
+
+  It is the culture the defining question was written about and the one whose gaps
+  justified `order_plot_zero.md`, so it should be the first to satisfy it. It did
+  not: it opened on the Reformation and stopped at the Mauerfall.
+
+  **`plot_00` Theodiscus und die Straßburger Eide.** The Reformation is a language
+  _standard_, not a beginning. This culture is named after its own speech: in 786 a
+  report to the Pope records decrees read `tam latine quam theodisce` — in Latin and
+  in _theodiscus_, which means nothing grander than _the language of the people_.
+  On 14 February 842 two grandsons of Charlemagne swear alliance at Strasbourg, each
+  in the other side's tongue so the opposing troops can hear what is promised, and
+  the chronicler Nithard writes both down. That text is the oldest surviving German.
+  A year later Verdun divides the empire roughly along the line the languages had
+  already drawn.
+
+  Its Tension is the question the name creates and the country never escapes: a
+  people called after its speech has no borders except where it is understood, so
+  **who belongs, and who decides that?** The plot ends by pointing at
+  `plot_07`, twelve hundred years later, when people arrive who do not speak it yet.
+
+  **`plot_99` Das offene Jahrzehnt, seit 2015.** A record, not a forecast, and it
+  says so in its own Tension. More than a million protection-seekers in a few
+  months; a party to the right of the Union entering the Bundestag in 2017 for the
+  first time since the fifties and becoming the strongest force in several eastern
+  states — where Elke lived through the second rupture of her life; Prosper-Haniel,
+  the last hard-coal mine, closing in December 2018, so the Ruhr where Mehmet stood
+  at the line mines nothing; sixteen years of a chancellorship ending in 2021; the
+  last reactors off in 2023; and behind all of it a number that owes nothing to
+  politics, as the largest cohorts retire and too few follow.
+
+  Its Tension gathers two old questions rather than predicting anything. The first
+  is `plot_00`'s: the country took thirty years to call itself an immigration
+  country and does not have thirty for the next round. The second is `Erinnern`'s:
+  it held while there were witnesses, and the last are dying now.
+
+  **Nothing was renumbered.** Nine plots stayed exactly where they were, which is
+  what the two reserved numbers are for — four restagings this week each paid the
+  renumbering cost that this convention removes.
+
+  One new piece: `die Straßburger Eide`.
+
+- 9b59e37: Germany stages the culture and not only the state.
+
+  It is the culture the defining question was written about, and it had drifted
+  back into the same shape. Six plots, all of them constitutional or catastrophic:
+  a Reformation, a founding, a rupture, a Basic Law, an oil shock, a wall. Every
+  counter clean. And read against the rule the order now carries — the words a play
+  uses about itself, checked against its plots — three things it says about itself
+  were staged nowhere.
+
+  **There was no poet.** The cast was Luther, Bismarck, Adenauer, Kohl and two
+  contemporaries: two churchmen and statesmen, two chancellors. Goethe and Weimar
+  appeared in `REFERENCES.md` and in the file for the motorway. A culture whose Arc
+  rests on `Können statt Rang` had staged every chancellor and no craft, and its
+  Arc opens on a country that _grew together out of many parts_ while the play left
+  354 years between 1517 and 1871 entirely empty — after a Tension that promises
+  "die Spaltung, die daraus folgt" and then stages nothing that the split did.
+  **Weimar und die Kulturnation** fills it: a duchy of a hundred thousand, a town of
+  six thousand, and the claim that the nation exists as culture because it does not
+  exist as a state. The Kleinstaaterei stops being a defect to be overcome in 1871
+  and becomes the reason there is an opera house in every mid-sized German city.
+
+  **There was no Gastarbeiter.** Zero occurrences, house-wide: no Anwerbeabkommen,
+  no Turkey, no immigration, in the culture of the country that has them.
+  **Wir riefen Arbeitskräfte** stages 1955 to 1973 and Mehmet, who came for a few
+  years and stayed a life. Its Tension is the one a rule-keeping culture owes:
+  thirty years calling immigrants guests and building the law around their leaving,
+  until the 2000 citizenship reform tied belonging to birthplace and not only to
+  descent.
+
+  **And the origin was borrowed.** Germany tells its beginning as resistance to
+  Rome, but the sources put the formation of anything German in the early Middle
+  Ages, not in the year 9. So the plot is not the battle. **Hermann und die
+  erfundene Vorzeit 1875** stages the deed that actually happened: a state four
+  years old completing a fifty-three-metre monument to a Cheruscan it had to rename
+  to recognise. The long `Erinnern` this country is known for begins here as its own
+  opposite — a memory built because none was there — and the plot says so.
+
+  Six plots become nine, renumbered chronologically. New cast: Goethe, who is
+  Geheimrat as seriously as he is a poet; Mehmet; Weimar; the Hermannsdenkmal.
+  Nothing was rehomed: reading the scenes rather than the casting map, `der Meister`
+  is properly staged in Reichsgründung on the 1897 Meisterbrief law, and
+  `das Ruhrgebiet` is properly staged in the Grundgesetz plot, which already carries
+  the Wirtschaftswunder.
+
+  Zero dead entries, zero wiring findings, zero conformance findings.
+
+- 329f41b: Hamburg gains an origin, a present, and the plots the defining question found missing between them.
+
+  **`plot_00` Die Hammaburg und Ansgars Norden.** Not the 1189 Freibrief the culture
+  already celebrated, which is a privilege granted to an existing city, not the
+  city's beginning. The Hammaburg, fortified around 808 at the Alster/Elbe
+  confluence, gives the city its name. In 834 it becomes an archbishopric under
+  Ansgar, aimed at Scandinavia, and in 845 a Danish fleet burns it down; the
+  archbishopric moves to Bremen and the name stays behind on a place that no
+  longer holds it. The plot stages the myth as a myth: what survives is mostly
+  Rimbert's hagiography of his own predecessor, which modern scholarship reads
+  with real caution.
+
+  **Two words in the play's own Name and Arc that no plot carried.** "Hansestadt"
+  and "Kaufmannsrepublik" were both asserted and never staged: the culture had a
+  position for Hanseatic identity and no plot showing where it came from. `plot_02`
+  Das Bündnis mit Lübeck 1241 stages the mutual-protection treaty commonly cited
+  as the Hanseatic League's founding moment, a city-to-city alliance with no
+  emperor or prince behind it, unlike the 1189 charter it now sits beside.
+
+  **Two catastrophes the culture staged nothing between 1888 and the present
+  tense of its gentrification plot.** `plot_04` Der Feuersturm 1943 stages the
+  Hamburg firestorm and the district, Hammerbrook, that was never rebuilt as
+  housing. `plot_05` Die Sturmflut 1962 stages the North Sea flood that drowned
+  Wilhelmsburg while the Kontore on the Alster stayed dry, the same class line
+  `das Hanseatentum` already named.
+
+  **`plot_99` Das teure Jahrzehnt.** A record of 2017 to 2024: the Elbphilharmonie
+  opening at roughly ten times its early budget, the G20 riots at the Rote Flora,
+  and the port operator HHLA selling nearly half of itself to MSC while Antwerp
+  and Rotterdam gain on Hamburg's own trade. Its Tension leaves open whether a
+  port city that sells into its own harbor is still the merchant republic of 1241
+  or something that has only kept the name, a question for the Stakes to hold, not
+  a plot to answer.
+
+  **Renumbered:** the 1888 Speicherstadt plot moves from `plot_02` to `plot_03`;
+  the St. Pauli plot moves from `plot_03` to `plot_06`. Every cross-reference is
+  repointed. Three new places (die Hammaburg, Hammerbrook, Wilhelmsburg) and two
+  new pieces (das Mahnmal St. Nikolai, die Rote Flora) join the Company, each
+  cast in the plot that introduces it.
+
+  ***
+
+  _On sourcing._ Outbound browsing is blocked in this environment - confirmed by
+  `curl` to arbitrary domains, not merely inferred from a failed fetch - so nothing
+  here rests on a source opened during the work. Search summaries and model
+  knowledge are the ceiling. The plots were written to survive that: the 1943 death
+  toll is given as `mehr als 34.000` rather than a precise figure the sources
+  disagree about, and the 1241 alliance is staged as a founding moment of the Hanse
+  while noting the formal league came only in 1356.
+
+- 6ee7a14: Hesse now spans from its origin to its present, and the present is the one that
+  actually happened.
+
+  The culture had three plots, all sound, all Hessen-specific: the Paulskirche of
+  1848, the founding of the state in 1945, and the rise of the Frankfurt finance
+  hub. But its plot line began at 1848 and stopped at the postwar decades.
+
+  `plot_00_donar_eiche_geismar_723.md` closes the floor: Bonifatius felling the
+  oak sacred to Donar at Geismar bei Fritzlar in 723, in the land of the Hessi
+  whose name becomes Hessen, staged explicitly as the telling Willibald's later
+  hagiography gives and not as a neutral record (its Tension is exactly that
+  gap). New Company: `place_geismar.md`, `piece_donar_eiche.md`.
+
+  The first pass at the present staged Rhein-Main rent pressure. QA rejected it:
+  real, but not what this decade did to Hessen, and the comfortable thing to
+  write next to the harder one. Between June 2019 and February 2020 this Land
+  was the site of three linked events the play omitted entirely. Kassel's
+  Regierungspräsident, Walter Lübcke, was shot dead for publicly defending the reception of
+  refugees, the first murder of a politician by the far right in the history of
+  the Federal Republic. A racist attack in Hanau killed nine people, Gökhan
+  Gültekin, Sedat Gürbüz, Said Nesar Hashemi, Mercedes Kierpacz, Hamza Kurtović,
+  Vili Viorel Păun, Fatih Saraçoğlu, Ferhat Unvar, and Kaloyan Velkov, in and
+  around two shisha bars. And the "NSU 2.0" threat letters, whose first target's
+  personal data had been pulled from a Frankfurt police station's own computer,
+  ran for years and cost Hesse's Landespolizeipräsident his post. Three events,
+  one Land, one thread: the far right, and the state's own apparatus entangled
+  with it.
+
+  `plot_99_rechter_terror_2019_2020.md` stages that, handled at the register
+  Germany's own Zivilisationsbruch plot sets: named victims, no euphemism, no
+  passive voice standing in for who did what. It casts the murder against `die
+Demokratie`, the position built on 1848, at the exact point Lübcke was
+  exercising it, and the Hanau attack against `die Gemütlichkeit`, the position
+  built on "alle gleich am Tisch," at the exact places that promise is supposed
+  to hold. Both positions' `Loses` and `Drives` chapters are updated to carry
+  that weight rather than leaving it to the plot alone. The police-data thread
+  links `../germany/position_beamte.md`, the only kind of cross-culture link this
+  house allows, because the same administrative thoroughness Germany's own plot
+  named is what turned against the people it was supposed to protect. New
+  Company: `place_kassel.md`, `place_hanau.md`. The Rhein-Main housing plot and
+  `place_europaviertel.md` are dropped rather than kept as a lesser numbered
+  plot; the play's Stakes chapter is rewritten to ask what the new plot_99
+  actually tests, not what the old one did.
+
+  Coverage, sub-national conformance and persona wiring all come out clean for
+  de_hesse; `node tests/plot_zero.mjs --report` no longer lists it.
+
+  ***
+
+  _Review note._ The first draft of `plot_99` staged rents in Rhein-Main and did not
+  mention Lübcke, Hanau or NSU 2.0. That was rejected in review: this house exists
+  because Germany once staged its whole memory apparatus and no plot between 1871
+  and 1949, and a Hessen that stages the Mietpreisbremse while omitting Hanau is
+  that failure in miniature.
+
+  The Stakes chapter was also rewritten to match the new plot and has been put back
+  to a question. **The tell is defeated if the self-description is edited to match
+  the plots:** the defining question works by comparing what a play claims about
+  itself against what it stages, so a Stakes rewritten to narrate `plot_99`
+  guarantees a match and tests nothing. It now carries both open questions - whether
+  the openness claimed at the Bembel table survives being attacked, and whether the
+  social balance holds against the pressure on housing - and it narrates neither.
+
+- c94db70: Italy answers the defining question.
+
+  Its arc was already a civilisation arc rather than a constitutional one, so the
+  tell found holes rather than a wrong subject - and all four were words the Arc
+  used about itself: campanile, famiglia, la televisione, Nord e Sud, none of them
+  in a plot, and all eight dead Company entries sitting in those holes.
+
+  `plot_00` answers the origin with a name rather than an empire: the Italic allies
+  fight Rome in 91 BC in order to join it, and Italia exists as a word for nineteen
+  centuries before it exists as a government. `plot_02` stages the communes, where
+  campanilismo actually comes from. `plot_06` stages the television that finished
+  what Manzoni started. `plot_99` records the first peacetime population decline
+  since unification.
+
+- 4c5227a: Fourteen of the sixteen German Länder become production packages, each declaring
+  `@chbrain/khai-cultures-germany` as the parent its culture-position names.
+
+  No content changed and no link was rewritten: every one of the fourteen was
+  already at zero, already conforming, and already pointing at Germany by package
+  specifier, because Germany's own migration rewrote those links when it moved. One
+  command each.
+
+  Schleswig-Holstein waits on `da` and Saxony on `en_us` and a REFERENCES link that
+  escapes the package into `management/orders`. The new packages declare no bump of
+  their own: none has been published.
+
+- c78bc90: Liechtenstein answers the defining question, and becomes a package.
+
+  Its three plots were a land purchase, an imperial elevation and a tax regime -
+  the clearest case the house has found of a play staging a state and calling it a
+  culture. `plot_00` answers the origin with the two settlements rather than the
+  purchase: the Alemanni take the valley floor after Rome, the Walser come over the
+  passes around 1300 and take the terrace above, and seven hundred years later the
+  two are still audible in one sentence. `plot_03` gives the loyalty to the
+  princely house a moment it can actually begin at - 1938, when the prince moved
+  in, two hundred and thirty-nine years after the purchase. `plot_99` records the
+  decade of the compliant financial centre and the commuted-in workforce.
+
+  `@chbrain/khai-cultures-liechtenstein` is the second production package. It
+  declares no bump of its own: never published, so its manifest version IS its
+  initial version.
+
+- 5593d15: The United Kingdom becomes the first production package,
+  `@chbrain/khai-cultures-united-kingdom`.
+
+  The umbrella keeps the count and gains the dependency it no longer keeps the
+  files for; the registry lists all 290 and this entry names the package that ships
+  it. Nine links elsewhere in the house - two personas and seven group files - are
+  now package specifiers rather than relative paths, which is the whole point: a
+  relative path resolves in this working tree and ships broken.
+
+  Two links whose prose already named British English are corrected to point at the
+  variety rather than the anchor; both were missed when `en_gb` moved.
+
+  The new package declares no bump of its own: it has never been published, so its
+  manifest version IS its initial version.
+
+- a229c33: Saxony-Anhalt gets an origin, a present, and a Reformation plot staged from its
+  own side instead of Germany's.
+
+  The culture already existed but opened on Luther's theology (a plot Germany's
+  own play already carries) and closed on a generic 1990 reunification, with
+  no `plot_00` and no `plot_99`.
+
+  **`plot_00` Die ottonische Gründung.** Heinrich I dies at Memleben in 936 and is
+  buried at the Quedlinburg abbey his widow Mathilde founds; his son Otto makes
+  Magdeburg his own seat and secures its archbishopric in 968, the first east of
+  the Elbe, and is buried there in 973 beside Eadgyth of England. For a few
+  decades the centre of an empire that did not exist before sits on this ground;
+  then the crown moves on and this territory spends the next nine centuries as
+  someone else's province, a tension the 1990s state and the 1999 disc both
+  inherit unresolved.
+
+  **`plot_01`, restaged.** Wittenberg's Reformation is now staged as what it meant
+  to this place rather than the theology: Lucas Cranach's print shop turns
+  Luther's translation into Europe's first mass-produced, branded religious
+  media, printing the 1522 September Testament and the 1534 complete Bible and
+  painting Luther's portrait into a trademark.
+
+  **`plot_03`, restaged.** The 1990 reunification plot is replaced with the full
+  administrative history: the 1945 merger of two Prussian provinces and the
+  Free State of Anhalt, the 1947 constitution, the 1952 dissolution into
+  Bezirke, and the 1990 Ländereinführungsgesetz reassembly, none of which ever
+  shared a political history before the occupying power's own filing cabinet.
+
+  **`plot_04`, new.** The chemical triangle (Leuna 1916, Buna-Werke Schkopau's
+  1936 forced-labour synthetic rubber, Bitterfeld-Wolfen's post-1990 reputation
+  as Europe's most polluted industrial area, and the roughly seventeen-billion
+  euro remediation that followed) gets its own plot instead of a clause in the
+  old reunification plot's Tension.
+
+  **`plot_05`, new.** The Nebra sky disc: looted by metal detectorists in 1999,
+  recovered in a 2002 sting, and made within a decade into the young Land's own
+  borrowed founding icon, a tension deliberately mirrored against `plot_00`.
+
+  **`plot_99` Das Jahrzehnt der Abrechnung, seit 2019.** A record, not a
+  forecast: the 9 October 2019 Halle synagogue attack, whose locked door held
+  and whose victims, Jana L. and Kevin S., are named; the Magdeburg chip fab,
+  announced in 2022 as the largest single foreign investment in German
+  industrial history and abandoned by Intel in July 2025 before any
+  groundbreaking; a population down roughly a quarter since the 1950s; and a
+  Landtag election on 6 September 2026 whose outcome this record cannot know.
+
+  Five new personas (Otto, Cranach, Ingrid, Frank, Sophie), four new positions,
+  five new pieces and places between them, two new processes and a second plan
+  carry the new plots. Two self-descriptions in the existing Arc, one calling the
+  Börde's famously fertile soil "karge Erde" and one naming only Halle and
+  Magdeburg while dropping Anhalt from its own account of 1990, were left
+  untouched and written up as disagreements in `REFERENCES.md` instead.
+
+  Coverage, sub-national conformance and persona wiring all come out clean for
+  Saxony-Anhalt.
+
+  ***
+
+  _Review note on scope._ This pass replaced two existing plots rather than only
+  adding. Both replacements were checked and both stand.
+
+  `plot_01` was Luther and the theses staged as theology, which is what the parent
+  culture already does - so the child was restating its parent instead of saying
+  what the Reformation was **here**. It is now Cranach's workshop: a court painter
+  running a press from 1522, the woodcuts for the September Testament, Luther
+  painted in series until the same face is itself the message, and out of a
+  theological quarrel Europe's first media industry in one small town. The Arc's
+  monk is still in the Cue; what changed is that the plot now explains why a
+  university dispute in a town of a few thousand did not stay one.
+
+  `plot_03` was an unexplained 1990 reunification. It is now the assembly,
+  dissolution and reassembly from 1945 to 1990 - still an administrative fact, but
+  an honest one rather than one dressed as an origin.
+
+  _Two disagreements with the play's own self-description_, written into
+  `REFERENCES.md` and deliberately not acted on, because editing the claim to match
+  the staging defeats the defining question. The Arc calls this Land's earth `karg`
+  while the Magdeburger Börde is some of the most fertile black earth in Germany;
+  and the Arc says the Land was refitted in 1990 `aus Halle und Magdeburg`, which
+  drops Anhalt, half of the Land's own name.
+
+  _On sourcing._ Outbound browsing is blocked here, so nothing rests on a source
+  opened during the work. The Nebra disc's dating is hedged rather than asserted,
+  because specialists dispute it.
+
+- 7d0a586: North Rhine-Westphalia gets the half of its own name it never staged.
+
+  Three plots, every counter clean, and the play's own Name and Arc named a state
+  that is "bevölkerungsreichste Land... zwischen Rhein und Ruhr" and a temperament
+  split "rheinaufwärts... woll?" against "westfälisch weiter oben herrscht
+  Schweigen" - but the plot line opened in 1850, after both halves already
+  existed, and Westfalen appeared nowhere except as the silent, administratively
+  joined other half of a 1946 marriage. Rheinland got a cathedral, a carnival, and
+  a position of its own; Westfalen got an adjective in one Tension chapter.
+
+  **`plot_00` (Zwei Ursprünge: Colonia und Westfalen)** opens the culture where the
+  split actually starts, six to eleven centuries before any Land: Rome makes
+  Cologne a colonia in 50 AD and its bishopric is attested by 313/314, while the
+  Saxon lands to the east have neither city nor script until Charlemagne's Saxon
+  Wars (772-804) - the name "Westfalen" itself is first recorded in 775, in the
+  Frankish annals of the war that conquered it. Corvey's monks give the conquered
+  Saxons their first written self-account in the late 10th century. Then, in 1180,
+  the Archbishop of Cologne becomes Duke of Westphalia and rules both banks in
+  person for six hundred years without producing one people - the exact gap
+  "Operation Marriage" tried to close a second time in 1946, this time by
+  administrative decree instead of by inheritance.
+
+  **`plot_01` (Der Westfälische Friede 1648)** was first drafted as a paragraph
+  inside the 1946 plot and corrected on review: an event this consequential,
+  named after this place, signed in a room whose 1577 panelling is still on the
+  wall, is not a paragraph inside another plot. It now stands on its own between
+  `plot_00` and the Ruhr, staging Münster's Friedenssaal, the Thirty Years' War's
+  end on 24 October 1648, and the irony underneath the word "westfälisch"
+  international law still uses for state sovereignty: the Falen who gave the name
+  its weight were the host and the backdrop, never a party at the table, a pattern
+  1946 repeats. The existing plot line renumbers as a result (`plot_01` Ruhr
+  Industrialization becomes `plot_02`, `plot_02` Operation Marriage becomes
+  `plot_03`, `plot_03` Coal Phase-out becomes `plot_04`); `plot_00` and `plot_99`
+  are untouched. `plot_03` keeps the 1648 material out and its own Tension about
+  the two temperaments stands on the 1180-to-1803 rule this order already
+  provided, not on the treaty.
+
+  A new position, `die westfälische Wortkargheit`, fields the terseness the Arc
+  names opposite Rhenish geniality, cast in `plot_00`, `plot_01`, and `plot_03`.
+  A new persona, `Anton`, a Münsterland Mittelstand archetype, holds it, since a
+  position file needs a persona's Taxonomy to claim it.
+
+  **`plot_99` (Das Hochwasser 2021 und die Braunkohle)** now carries two beats from
+  the same still-resolving decade: the July 2021 flood (storm "Bernd", the
+  Erftstadt-Blessem gravel-pit collapse, at least 49 dead in the Land), and the
+  accelerated lignite phase-out agreed 4 October 2022, which brought the Rhenish
+  coal exit forward to 2030 and cost the village of Lützerath, cleared for the
+  Garzweiler mine from 11 January 2023. Water arriving and coal still being dug in
+  the same Land in the same decade is one story, and more specifically NRW's than
+  either half alone; the parent culture stages the Ruhr hard-coal closure but says
+  nothing about lignite.
+
+  Three plots become six (plus the two reserved outside the numbered sequence).
+  Two new places (`Kloster Corvey`, `das Rathaus Münster`), one new position
+  (`die westfälische Wortkargheit`), and one new persona (`Anton`), all cast.
+
+- d9fe718: Saxony's plot line had a floor and a ceiling missing, and both were invisible.
+
+  The Name chapter names `Erzgebirge`, and no plot ever staged it. The three
+  existing plots (August der Starke 1697, the industrial rise from 1830, Leipzig 1989) all stage what the mineral wealth and the mining tradition later paid for,
+  and never the wealth itself: a mining margravate rich enough that in 1423 it
+  inherited an electoral title and a name, Sachsen, that belonged to a different
+  people three hundred kilometres away. The land the name now covers was the Mark
+  Meißen, settled by the Slavic Sorbs since the sixth century, before German
+  miners ever reached it. **Die Mark Meißen, das Erzgebirgssilber und der
+  geliehene Name Sachsen** is the new `plot_00`: 965 (the march founded against
+  the Sorbs), 1168 (the Freiberg silver find), 1423 (the name's move from
+  Wittenberg to Meißen). Three new Company members carry it: `place_erzgebirge`,
+  `process_bergbau` (whose Echo is the throughline from Bergakademie Freiberg,
+  1765, to the microelectronics `der Erfindergeist` already claimed), and
+  `position_sorbisches_erbe`, the Sorbian minority the land was settled from and
+  still holds today, roughly 40,000 strong in the Saxon Oberlausitz (the wider
+  West Slavic Sorbian population, including the Lower Sorbs of Brandenburg, is
+  larger, and the file says so rather than folding one into the other).
+  `der Erfindergeist`'s Drives and `die sächsische Kultur`'s Has now name this
+  root as well.
+
+  The Stakes chapter asks whether Saxony manages rural demographic decline and
+  grows its Hightech industry without losing Wohlstand, and no plot had staged
+  either as something that had actually happened, only as an open question. **Zwischen
+  Montagsspaziergang und Chipfabrik 2014 bis 2025** is the new `plot_99`: Pegida's
+  Monday walks in Dresden from October 2014, borrowing 1989's own slogan `Wir
+sind das Volk` for a different cause; the killing of Daniel Hillig in Chemnitz
+  on 26 August 2018 and the video-documented street chases and days of far-right
+  riots that followed, which a chancellor called `Hetzjagden`; the AfD's best-yet
+  Saxon result in the 1 September 2024 Landtagswahl (31.9 percent for the CDU,
+  30.6 for the AfD, consistently stronger on the land than in Dresden or
+  Leipzig); the 20 August 2024 groundbreaking for the ESMC chip fab in Dresden,
+  Saxony's largest single investment since reunification; and Chemnitz, seven
+  years after 2018, spending 2025 as European Capital of Culture. No new
+  Company: it casts `der Bürgerprotest`, `der Erfindergeist`, `das Silicon
+Saxony`, `Peggy` and `Günter`, and both `der Bürgerprotest` and `die
+sächsische Kultur` now name in their own Drives and Loses that the 1989
+  slogan gets reused this way.
+
+  Two Arc and Name words were checked and deliberately left unstaged, with the
+  reasoning recorded in `REFERENCES.md`: `Understatement`/`Kaffeesachsen` name a
+  register the pitch already carries, not an event, and `Freistaat` names a state
+  form change (1918, 1990) rather than a change in what Saxons are, on the same
+  reasoning that keeps foundings out of Germany's own plot line.
+
+  QA caught two numbers that should not have shipped: the constituency-level
+  election percentages and the Erzgebirgskreis's 2040 population forecast were
+  both dropped, since I had not opened either source and the sentences work
+  without them. `position_sorbisches_erbe` also conflated the Sorbs as a whole
+  (about 60,000, including the Lower Sorbs around Cottbus in Brandenburg) with
+  Saxony's own Upper Sorbian population (about 40,000); the file now gives the
+  Saxon figure and says explicitly that Lower Lusatia lies in Brandenburg.
+
+  Coverage, sub-national conformance, persona wiring and `plot_zero` all come out
+  clean for `de_saxony`.
+
+- 0049a72: Switzerland stages where its four languages came from, and the pass it exists
+  because of.
+
+  Its **Name** chapter says `Confoederatio Helvetica`, and the Helvetii appeared in
+  no other file in the culture. `alemann`, `burgund` and `römer`: zero each.
+  `gotthard`: one passing mention, `säumer` and `transit`: none, and no mountain
+  anywhere in a Company whose Arc rests on `Berg und Stadt`.
+
+  **Die Helvetier und die vier Zonen** takes the culture's defining fact away from
+  politics. Caesar stops the Helvetii at Bibracte in 58 BC and writes down the name
+  that is on the coins today. Rome takes the Mittelland, and four hundred years
+  later leaves. The Alemanni arrive in numbers and the Latin disappears with them;
+  the Burgundians take the west as a thin ruling layer and adopt the speech they
+  find, so the Latin survives there and becomes French; the high eastern valleys are
+  too remote for either and keep a Latin of their own; and south of the Alps Rome
+  never left. Four zones, drawn between the fifth and the seventh century, still
+  roughly where they came to lie — staged with the four places the culture already
+  had, one per zone.
+
+  Its Tension is the correction: four languages are **not a decision, a merit or a
+  compromise**. They are what an empire's reach and the direction of its collapse
+  left behind, fourteen hundred years before anyone made a Bund of it, and what
+  `plot_08` confirms at the ballot box in 1938 is the late recognition of a
+  situation that predates the Confederation.
+
+  **Die Öffnung des Gotthards** supplies the mountain, and it is a trade and not a
+  legend. Around 1220 the Schöllenen gorge is bridged and the shortest line to Italy
+  opens. `der Säumer` drives the mule trains, salt and cloth up, rice and wine down;
+  the valley men run the transport themselves in cooperatives, maintain the road
+  nobody maintains for them, and grow rich. The emperor, who wants the road open,
+  gives Uri its Reichsfreiheit in 1231 and Schwyz in 1240.
+
+  Its Tension says the awkward part out loud: **this freedom was given, not won.**
+  The emperor needed the pass and paid for it with self-government, which sits at an
+  angle to the story the country tells about itself on the Rütli. What does begin
+  here and holds: a polity whose worth is that everyone has to pass through it, that
+  administers the route rather than being administered, and that is well advised to
+  take nobody's side because it wants to be needed by all. The neutrality this
+  country later raises to a principle is here first a business model.
+
+  Nine plots become eleven. New: `place_gotthard` and `persona_saeumer`.
+
+  **Nothing was rehomed.** `piece_fondue` and `process_jassen` are cast only in the
+  1971 suffrage plot, which looked like parking and is not: the Jass table is where
+  the motion is argued out before it reaches the urn, and the fondue is the common
+  pot the country declared its own dish in those same years. Read the scene, not the
+  casting map.
+
+- dd979ae: Switzerland stages the arc its own Arc already claimed. Five new plots fill the gaps between the four that existed: die Reformation und die Kappelerkriege 1523-1531 (Zwingli in Zurich, Calvin's call to a not-yet-Swiss Geneva, and der Konfessionsfrieden that lets two confessions share one Bund), der Wohlstand 1934 (Huguenot refugees founding the Jura watch industry, and das Bankgeheimnis cut into law), der Sprachenartikel 1938 (Bundesrat Etter's "geistige Landesverteidigung" against fascist claims on Romansh and Ticino, which finally casts Gian and Marco honestly and retires both their coverage waivers), die Kriegsjahre 1939 bis 1945 (General Guisan's Rutli address and the Reduit, told beside the J-stamp and the refugee policy that turned thousands back at the border, some to their deaths, in the register the Zivilisationsbruch plot in Germany's own culture sets as the standard of honesty), and das Nein zum EWR 1992 (the Arc's closing question, whether the will to unity holds when the languages pull apart, answered on a map split almost exactly along the Rostigraben). The four existing plots renumber to their chronological places (02 to 08, with the new plot_02 and plot_05 through plot_09 taking the gaps) and every cross-reference is repointed. New cast: personas Zwingli, Calvin, Etter, Guisan, and the banker Urs; places Zurich, die Surselva, das Tessin, and das Reduit; the piece die Uhr; and the positions der Konfessionsfrieden and das Bankgeheimnis. Switzerland comes out at zero dead Company entries and zero persona-wiring findings, with coverage-waivers.json removed. Existing content, no new culture: a patch.
+- a695721: Switzerland spans origin to present.
+
+  Die Helvetier und die vier Zonen was already the origin; it becomes `plot_00` and
+  nothing else moves.
+
+  **`plot_99` Was halten sollte, seit 2014.** A record and not a forecast. On 9
+  February 2014 the people accept an immigration initiative by 50.3 per cent that
+  does not fit the free movement in the bilateral treaties, and the country spends
+  years implementing a vote without losing the treaties. It formally withdraws its
+  1992 membership application in 2016 and breaks off seven years of framework talks
+  in 2021. Meanwhile two things that were supposed to be permanent end: from 2017
+  account data is exchanged automatically, so `das Bankgeheimnis` — written into law
+  in 1934 — no longer holds against foreign states; and in March 2023 Credit Suisse
+  falls over a weekend after a hundred and sixty-seven years, absorbed by UBS under
+  federal supervision, leaving one big bank on the Paradeplatz where Urs learned the
+  trade. In between, in 2016, the Gotthard base tunnel opens: fifty-seven
+  kilometres, within budget and ahead of schedule.
+
+  Its Tension reads the distribution rather than predicting from it:
+
+  > Was dieses Land selbst gebaut und selbst verwaltet hat, hält, wie seit
+  > achthundert Jahren am Berg; was seinen Wert daraus zog, dass andere es brauchten
+  > und niemand hineinsah, hält nicht mehr, weil die anderen es nicht mehr
+  > hinnehmen.
+
+  That closes a circuit with `plot_02`, which established that the neutrality was
+  first a business model — and a business model ends when the customers change the
+  terms. The question left open is the one the country has deferred since 1992:
+  whether a Sonderfall can stay one when it is enclosed on all sides by a single
+  market it already shares most things with.
+
+  No new cast. Urs, the Bankgeheimnis, Zürich and the Gotthard were all already in
+  the Company.
+
+- 5ef8b9d: The groups were never in the tarball.
+
+  `files` listed `cultures/**` and not `groups/**`, so `npm pack` produced 7,038
+  files and **not one of the 19 groups** — the Anglosphere, ASEAN, the Baltics,
+  DACH, the EU, the Visegrád four and thirteen more, 114 files in all. They are
+  the second half of what CLAUDE.md says this package is: _the cultures, the
+  groups, the registry._
+
+  It is the tongues bug again, one package over and caught before the release
+  instead of after. There, `files: ["*.md"]` packed 5 of 65 because every variety
+  lives in a subdirectory. Here the pattern was right and the directory was
+  missing, and the effect is identical: **`registry.json` ships describing all 19
+  groups, and every path it names 404s** for anyone who installs the house rather
+  than checking it out.
+
+  Nothing else had to change. The linkage runs one way — 873 links from the groups
+  into the cultures, none the other way — so the cultures were always
+  self-sufficient and the groups were the only casualty. With them packed, all
+  1,043 relative links inside `groups/**` resolve within the tarball, checked by
+  resolving each one against the packed tree.
+
+  7,038 files becomes 7,152.
+
+- d52e85f: **The registry says where every culture lives, and five groups get their members
+  back.**
+
+  A consumer reading this house resolved a culture one way: the umbrella's
+  collection directory, one subdirectory per unit. The ratchet made that false for
+  a growing share of the entries, and the registry said so for the migrated ones
+  only — `package` on those, nothing on the rest. Absence was left to mean "under
+  the umbrella", and a reader cannot tell an entry it understood from one it
+  merely defaulted.
+
+  Every entry now carries the kit's `source`: the npm package that ships the
+  culture and the path below its root. `cultures/<id>` under the umbrella, `""`
+  for a culture that has become its own package — there the package root IS the
+  unit. `package` stays for one minor as a deprecated mirror of `source.package`.
+
+  The groups are the part that was already wrong in public. `references` is
+  derived from a group play's casts, and a cast that became a package specifier
+  stopped being read — so the derivation returned fewer members, or none, and said
+  nothing. Five of nineteen groups were short: `anglosphere` missing
+  `united_kingdom`, `eu` missing `austria` and `germany`, `francophonie` missing
+  `switzerland`, `nato` missing `germany` and `united_kingdom`, and `dach` missing
+  all three of its members. Nine memberships. Only `dach` was noticed, because
+  only `dach` went to zero.
+
+  The kit reads both link shapes now, and this house hands it the one thing it
+  cannot know: `packageIds`, the npm name of every production mapped to the
+  culture it ships, derived from the productions present rather than kept as a
+  list. Every group derives its full membership again, and a group that derives
+  none is a build failure rather than a quietly empty field.
+
+- c6f2f26: German Standard German becomes a variety, and stops being the language wearing a
+  variety's name.
+
+  What germany held as `position_language_de_de.md` was the anchor's material word
+  for word — the compound noun, the Satzklammer, three genders and four cases,
+  Sie/du — under a variety's title. It is retired rather than moved, and a real
+  `de/position_language_de_de.md` is written in the tongues package: the sharp s
+  and the distinctions it can write, the unmarked lexicon, `Januar` against
+  `Jänner`, `habe gesessen` against `bin gesessen`, the compound without the
+  Fugen-s, and the one fact that carries both its Has and its Loses — it is the
+  variety the dictionaries of the whole area leave unmarked.
+
+  The twenty-two cultures that linked the old file are relinked, and not all to the
+  same place: germany's modern cast, its culture-position and its play hold the
+  variety; Luther, Goethe and the 842 origin plot hold the anchor, as does every
+  culture that held a foreign, inherited or historical German.
+
+  The tongues package declares no bump: it has never been published, so its manifest version IS its initial version and a bump here would skip it.
+
+- 7924b4d: British English becomes a variety, and stops being the language wearing a
+  variety's name.
+
+  What united_kingdom held as `position_language_en_gb.md` was the `en` anchor's
+  material - the doubled vocabulary, the phrasal verbs, the strict word order, the
+  flat `you` - and nothing in it distinguished this variety from any other English.
+  It is retired, and a real `en/position_language_en_gb.md` is written: the
+  noun/verb spelling pairs the other large form collapsed, the bare institution,
+  agreement by sense with a collective, the unlearnable spelling list, and the
+  absence of `gotten` as a lost distinction rather than a lost irregular.
+
+  Of the 167 links to the old file only two were mother-tongue processes, so the
+  relink follows the holding: united_kingdom's own cast and one Briton abroad hold
+  the variety, and the other ninety-three cultures - who carried English as a tool
+  or wore it as an imposition - hold the anchor.
+
+  The tongues package declares no bump: it has never been published, so its
+  manifest version IS its initial version.
+
+- f67dcfb: French Standard French becomes a variety.
+
+  The fourth file in a row that was the language wearing a variety's name, and the
+  fourth time the anchor stated the shared material better. The real one earns its
+  file on the numerals (`soixante-dix` against `septante`), the meals - the same
+  three words for three other moments of the day a few hours away - the unmarked
+  lexicon, and the feminisation of job titles that other standards settled in the
+  eighties and this one admitted in 2019, which is the clearest case of a norm that
+  is decided rather than observed.
+
+  The relink was read culture by culture rather than counted, because unlike the
+  previous three this tongue has many foreign mother-tongue holders. Every one
+  resolved to the anchor: Prince Eugene was born in 1663, Haiti's own prose calls
+  it `lang lakoloni an`, and Mauritius's Chazal holds Mauritian French.
+
+- e5a0844: Italian Standard Italian becomes a variety, and Switzerland becomes the third
+  production package.
+
+  What italy held as `position_language_it_it.md` was the `it` anchor's material -
+  pro-drop, the congiuntivo, gender agreement, the geminates - and the anchor
+  states the geminates better, as a capacity rather than a loss. It is retired, and
+  a real one is written: the unmarked lexicon against the CH-marked one, the
+  passato remoto the written norm requires of speakers half of whom no longer say
+  it, a standard modelled on a library rather than an administration, and the
+  second system almost every holder has beside it.
+
+  Of the links to the old file, not one outside italy was a mother-tongue process,
+  so italy's own cast holds the variety and the other sixteen cultures hold the
+  anchor. `it_it` was switzerland's last blocker.
+
+- 0fa5a28: Turkish moves as the anchor it always was, and Germany becomes a package.
+
+  The four tongues before this one were each the language wearing a variety's name
+  and were retired, because the package already held an anchor that said the same
+  material better. This one is the same kind of file and the opposite case: it IS
+  the Turkish language, correctly written, and the package held no `tr` anchor at
+  all - its own frontmatter said `The Turkish Language`. So it moves rather than
+  retires, and no `tr_tr` variety is invented, because there is no sibling to
+  distinguish it from.
+
+  `tr` was germany's last blocker. `@chbrain/khai-cultures-germany` is the fifth
+  production package, and it unblocks fourteen of the sixteen Länder at once.
+
+  The declared range on the tongues package moves from `^0.20.0` to `^0.21.0` in
+  every manifest that carries it: the tongues minor is its language count, so a new
+  language invalidates every range that pinned the old one.
+
+- b6e1c18: Danish and American English leave the cultures that were holding them, and the
+  last two German Länder become packages. Sixteen of sixteen.
+
+  `da` moves as an anchor, the fifth tongue to do so after `tr`, `hu`, `la` and
+  `cs`: what `denmark` held was the Danish language and not a variety of it - its
+  own frontmatter said `det danske sprog` - and the package had no `da` anchor. No
+  `da_dk` is invented, because there is no sibling here to distinguish it from.
+  Seven cultures held it and all seven now hold the anchor.
+
+  `en_us` is the first tongue that needed neither retiring nor inventing: already
+  a variety, already correctly named, only ever in the wrong package. So it is a
+  plain rename into the `en` anchor that was already there, byte for byte, and
+  the reading against the mnemonic is deliberately kept out of the move. It still
+  owes the entry price - what it carries is rhoticity, which is sound and cannot
+  go in a text file, and verbing nouns, which `en_gb` does too - and its
+  provenance entry now says so, along with what it should carry instead and what
+  its General American material wants trimming for. That reading is the next pull
+  request, and it charges nobody, because by then the file lives here.
+
+  With their blockers gone, `de_schleswig_holstein` and `de_saxony` migrate. Saxony
+  also loses two `REFERENCES.md` links that escaped four levels up into
+  `management/orders`; the order is now cited the way every other migrated package
+  cites it, by path in backticks.
+
+  The tongues package's minor IS its language count, and Danish is the
+  twenty-fifth, so its build moved it `0.24.0 -> 0.25.0` and its own `syncRanges`
+  carried that into all twenty-one dependants - which is exactly the failure that
+  function was written for. It declares no bump of its own; it has never been
+  published. Neither do the two new Länder packages.
+
+- 31f2718: Hungarian, Latin and Czech move as the anchors they always were, and Austria
+  becomes a package - so all four DACH countries are now productions.
+
+  None of the three was a variety wearing a language's name or the reverse: each
+  was the language itself, correctly written, with no anchor for it in the package.
+  So all three move and nothing is invented. Latin is the notable one: thirty-seven
+  cultures hold it, every single one as a carried, read or deciphered tongue and
+  none as a mother tongue, and it is the clearest case for the package's own rule -
+  a tongue is held by the speech community that speaks it, and Latin has none at
+  all.
+
+  Austria needed exactly these three. It is the twentieth production package.
+
+- 94511d6: The tongues package publishes, and the house pulls it.
+
+  Four things were between it and a working release, and the first would have made
+  the release a no-op.
+
+  **It packed 5 files of 65.** `files: ["*.md"]` reaches only the package root and
+  all sixty tongues live in subdirectories, so a publish would have shipped a
+  README, a REFERENCES and the root position while every one of the 236 links in
+  `cultures/**` still 404ed. `**/*.md` packs 65.
+
+  **Changesets could not see it.** No `workspaces` field, so the release managed one
+  package. Added in the window the last Version Packages opened: #373 showed that
+  adding it invalidates pending changesets, and there were none.
+
+  **Its version rule had no seat in the release.** `build.mjs --write` now runs
+  inside the `version` script, where the registry build already sits for the root,
+  so a changeset bump cannot drift the package off its language count.
+
+  **And it was private, and a devDependency.** `private` is gone and it carries the
+  same `publishConfig` the root already uses — GitHub Packages, public access — so
+  nothing global changed. It moved to `dependencies` at `^0.20.0`, because a package
+  must pull what its content links: installing the house now installs the tongues.
+
+  After this release the 236 links resolve for the first time for anyone who
+  installs the house rather than checking it out.
+
+- 9c241d9: Russian and Church Slavonic leave `russia`, which was holding both of them for
+  everybody else.
+
+  `ru` moves as an anchor, the sixth after `tr`, `hu`, `la`, `cs` and `da`. What
+  `russia` held was the Russian language and not a variety of it - its own
+  frontmatter said `русский язык` - and the package had no `ru` anchor. No `ru_ru`
+  is invented; there is no sibling here to distinguish it from. It is **the widest
+  move this package has taken in: 57 files**, more than any tongue before it,
+  reaching well past the Slavic world, because Russian is the tongue an empire and
+  then a union taught to everyone inside it.
+
+  `cu` moves with it, and for the reason `la` did: **this is the Latin case in
+  Cyrillic.** A liturgical tongue is not a country's property, it has no speech
+  community at all, and of the thirteen files holding it nine are outside `russia`
+
+  - belarus, bulgaria, lithuania, moldova, montenegro, romania, serbia and ukraine
+    twice - each reaching into another culture's directory for the language of its
+    own altar. It belonged under `russia` even less than the others belonged under
+    theirs. It is written in itself, in the pre-reform orthography, and its own best
+    sentence is its `Loses`: the dual number and the aorist have no place left in
+    living speech, because the Russian born from it collapsed the past tenses into
+    one and kept the dual only in traces, `очи`, `плечи`.
+
+  Both were read against the mnemonic on the way through and nothing was cut.
+
+  Two findings are recorded in `cu`'s provenance and deliberately not acted on
+  here, because a move is a move. The file says in its own `Drives` that a book
+  language can stay alive in the altar having never been alive in the mouth, which
+  is exactly the criterion `mother_tongue: false` exists for - and it is not
+  flagged, because `la` is not flagged either, and Latin is the clearest
+  never-acquired-first tongue in the house at 37 cultures. Flagging one means
+  deciding the other. What such a flag would catch is the second finding: eleven of
+  the twelve personas holding this tongue read it at `process_reading_followed`,
+  and montenegro's Njegoš alone reads it at `process_reading_mother_tongue`, in a
+  sentence that calls it the tongue `свога владичанског чина и службе` in the same
+  breath. He is the outlier against the house's own practice. Fixing him is not
+  cheap: montenegro carries five dead Company entries, so authoring him owes a
+  Montenegro content pass.
+
+  The move unblocks four cultures at once - czechia, france, holy_see and usa are
+  now ready to migrate - and leaves `russia` itself blocked on one link only,
+  Pyotr's Dutch.
+
+- aaa94e3: Turkey answers the defining question.
+
+  Its Arc was already cultural, and the tell still found three holes, all of them
+  things the Arc says about itself. The steppe: the play opened at Manzikert, four
+  hundred years after the people set out, so `plot_00` goes to the Orkhon stones of
+  732, where this people writes about itself for the first time and carves the word
+  Türk - an origin that is an act of writing, in the first of the three alphabets
+  its name has been written in. The two continents: `plot_04` stages the exchange
+  of 1923, which settled who lived on them by a list and a criterion. And the
+  everyday: five dead entries were the whole material culture, so `plot_05` stages
+  the quietest revolution in the play - the state planted tea in Rize in 1924 and
+  within a generation the country drank something else, and nobody counted it a
+  loss.
+
+  A prerequisite: retiring `position_language_tr_tr` authors Turkey, and Turkey is
+  the last tongue between Germany and its package.
+
+- 26cacea: The United Kingdom answers the defining question.
+
+  The play's own words named a global power, the world it once ruled, the common
+  tongue and the orderly queue, and not one of them appeared in a plot: four plots
+  stood here and all four were moments of the constitution. Three answer it. 1066,
+  because the play had no origin and the Conquest is where the island stops being
+  conquered and starts being layered, leaving the doubled tongue and the order of
+  rank carried in the choice between its halves. 1897, because an empire of a
+  quarter of the world cannot be a thing the Stakes allude to and no scene admits.
+  1948 to 1971, because the empire came home and that is what made the Britain the
+  modern cast lives in. `plot_99` records the decade of leaving.
+
+  Coverage goes to zero with no waivers: ten dead Company entries, every one of
+  them a fact the play already asserted about itself with nowhere to stand.
+
+- 14244d0: Vreni writes Standard German as the second language it is.
+
+  The link on `schreibt` was `process_writing_mother_tongue`, in the same sentence
+  that says _"eine Sprache, die sie so gar nicht spricht"_. The prose was right and
+  the wiring contradicted it: her mother tongue is Schwiizerdütsch, which she never
+  writes, and the German she writes she has never spoken.
+
+  It is `process_writing_polished` now — _"the turn that sounds native"_, which is
+  exactly the width. She writes it well enough to pass, and it is still not hers.
+
+  Found by the persona-wiring gate on its first run, in a file I had read closely
+  and called the best statement of the diglossia in the house. I read the sentences
+  and never checked the link.
+
+- dbc6886: Five personas named their tongue in prose and never linked it.
+
+  The persona-wiring gate's first rule is that a grip needs a tongue: a Projection
+  that says how well someone speaks and never says _what_ has named a width with
+  nothing under it. Nine personas stood in that debt. Five of them were only ever
+  a missing link — Mahfouz and Umm Kulthum open on `العربية`, Munshi, Ramlee and
+  Usman on `Bahasa Melayu`, and both `position_language_ar_eg.md` and
+  `position_language_ms_my.md` were already written and sitting in the culture
+  beside them. The word is now the link. No prose changed.
+
+  **Four are left, and they are a different thing.** Nauru's catcher and miner
+  hold Nauruan as their mother tongue; Equatorial Guinea's Ndongo and Nsue hear
+  Fang at home and write Spanish. Nauru ships only `position_language_en_nr.md`
+  and Equatorial Guinea only `position_language_es_gq.md`, so those grips have no
+  tongue to link because **the tongue does not exist yet** — not because nobody
+  linked it.
+
+  Linking the English and Spanish positions would have cleared all four findings,
+  because the rule is read per persona rather than per grip. That would have been
+  green by the letter and false by the sentence: it would have put Nauruan
+  speech under an English position. The four findings stay reported instead, which
+  is what the debt actually looks like. Writing the two missing positions means
+  writing Has / Orders / Loses / Drives _in_ Nauruan and _in_ Fang, and that is
+  its own piece of work, not a link.
+
+  **And touching two cultures brought their coverage debt with it**, which is what
+  the ratchet is for. Egypt was carrying four dead Company entries and Malaysia
+  six — all of them things the plots were already about and never linked. The
+  obelisk and the papyrus go into the Pharaonic plot, where the Action already has
+  the scribe cutting script into stone and papyrus and the Tension already has the
+  king's name outlasting the man who raised the block; the flood joins it as the
+  rhythm the state and the field were both built on. The oud goes under Umm
+  Kulthum's voice in the Nahda, and the ahwa gives Mahfouz the seat he watched his
+  alley from. Melaka's plot gains Islam taking root in the port before it spread
+  through the archipelago, and the songket that marked rank in its hall. The
+  Federation plot gains the everyday the nation was actually assembled out of —
+  the mamak table that seats every community past midnight, the yearly balik
+  kampung, Pak Tua keeping the adat that is returned to, and the wau still going
+  up over the village.
+
+  No scene was invented to satisfy the counter: every one of the ten was cast
+  where the plot was already standing.
+
 ## 0.289.0
 
 ### Patch Changes
