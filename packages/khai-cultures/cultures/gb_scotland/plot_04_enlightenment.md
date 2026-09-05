@@ -1,6 +1,6 @@
 ---
 khai: plot
-title: "The Scottish Enlightenment"
+title: "The Scottish Enlightenment, from 1740"
 declared: "the Scottish Enlightenment"
 language: en
 license: CC-BY-NC-SA-4.0
