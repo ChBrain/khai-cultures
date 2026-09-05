@@ -17728,6 +17728,12 @@
           "title": "Wales"
         },
         {
+          "file": "plot_00_cymry_and_wealas.md",
+          "kind": "plot",
+          "title": "Cymry and Wealas, from 550",
+          "taxonomy": "play_wales.md"
+        },
+        {
           "file": "plot_01_llywelyn_1282.md",
           "kind": "plot",
           "title": "The Death of Llywelyn 1282",
@@ -17748,7 +17754,31 @@
         {
           "file": "plot_04_coal_and_bevan.md",
           "kind": "plot",
-          "title": "Coal and Bevan",
+          "title": "Coal and Bevan, 1840 to 1948",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "plot_05_brad_y_llyfrau_gleision_1847.md",
+          "kind": "plot",
+          "title": "Brad y Llyfrau Gleision, 1847",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "plot_06_the_match_and_the_anthem_1905.md",
+          "kind": "plot",
+          "title": "The Match and the Anthem, 1905",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "plot_07_aberfan_1966.md",
+          "kind": "plot",
+          "title": "Aberfan, 1966",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "plot_99_the_count_and_the_congregation.md",
+          "kind": "plot",
+          "title": "The Count and the Congregation, since 2011",
           "taxonomy": "play_wales.md"
         },
         {

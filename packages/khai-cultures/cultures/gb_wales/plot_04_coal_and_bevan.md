@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "Coal and Bevan"
-declared: "Coal and Bevan"
+title: "Coal and Bevan, 1840 to 1948"
+declared: "Coal and Bevan, 1840 to 1948"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: Coal and Bevan
+# Plot: Coal and Bevan, 1840 to 1948
 
 ## Taxonomy
 
