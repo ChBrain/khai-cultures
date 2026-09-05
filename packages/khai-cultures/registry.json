@@ -13917,137 +13917,6 @@
     },
     {
       "kind": "culture",
-      "id": "england",
-      "title": "England",
-      "description": "England staged as a culture: a green, ironic land of fair play, the amateur, and mustn't grumble.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/england"
-      },
-      "iso": "GB-ENG",
-      "members": [
-        {
-          "file": "persona_dickens.md",
-          "kind": "persona",
-          "title": "Charles Dickens",
-          "type": "real",
-          "taxonomy": "position_fair_play.md"
-        },
-        {
-          "file": "persona_edith.md",
-          "kind": "persona",
-          "title": "Edith",
-          "type": "archetype",
-          "taxonomy": "position_understatement.md"
-        },
-        {
-          "file": "persona_henry_viii.md",
-          "kind": "persona",
-          "title": "Henry VIII",
-          "type": "real",
-          "taxonomy": "position_the_amateur.md"
-        },
-        {
-          "file": "persona_liam.md",
-          "kind": "persona",
-          "title": "Liam",
-          "type": "archetype",
-          "taxonomy": "position_fair_play.md"
-        },
-        {
-          "file": "piece_full_english.md",
-          "kind": "piece",
-          "title": "The Full English"
-        },
-        {
-          "file": "piece_st_georges_cross.md",
-          "kind": "piece",
-          "title": "The St George's Cross"
-        },
-        {
-          "file": "pitch_en.md",
-          "kind": "pitch",
-          "title": "The English Key",
-          "taxonomy": "play_england.md"
-        },
-        {
-          "file": "place_cotswolds.md",
-          "kind": "place",
-          "title": "The Cotswolds"
-        },
-        {
-          "file": "place_manchester.md",
-          "kind": "place",
-          "title": "Manchester"
-        },
-        {
-          "file": "plan_the_worlds_tongue.md",
-          "kind": "plan",
-          "title": "the world's tongue"
-        },
-        {
-          "file": "play_england.md",
-          "kind": "play",
-          "title": "England"
-        },
-        {
-          "file": "plot_01_norman_conquest_1066.md",
-          "kind": "plot",
-          "title": "The Norman Conquest 1066",
-          "taxonomy": "play_england.md"
-        },
-        {
-          "file": "plot_02_peasants_revolt_1381.md",
-          "kind": "plot",
-          "title": "The Peasants' Revolt 1381",
-          "taxonomy": "play_england.md"
-        },
-        {
-          "file": "plot_03_reformation_1534.md",
-          "kind": "plot",
-          "title": "The English Reformation 1534",
-          "taxonomy": "play_england.md"
-        },
-        {
-          "file": "plot_04_industrial_revolution.md",
-          "kind": "plot",
-          "title": "The Industrial Revolution",
-          "taxonomy": "play_england.md"
-        },
-        {
-          "file": "position_culture_englishness.md",
-          "kind": "position",
-          "title": "English Culture"
-        },
-        {
-          "file": "position_fair_play.md",
-          "kind": "position",
-          "title": "Fair Play"
-        },
-        {
-          "file": "position_the_amateur.md",
-          "kind": "position",
-          "title": "The Amateur"
-        },
-        {
-          "file": "position_understatement.md",
-          "kind": "position",
-          "title": "Understatement"
-        },
-        {
-          "file": "process_cricket.md",
-          "kind": "process",
-          "title": "Village Cricket"
-        },
-        {
-          "file": "process_the_pub.md",
-          "kind": "process",
-          "title": "The Pub"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "equatorial_guinea",
       "title": "Equatorial Guinea",
       "description": "Africa's only Spanish-speaking nation, an island and a mainland bound into one across the Atlantic.",
@@ -17307,6 +17176,545 @@
           "file": "process_the_naming.md",
           "kind": "process",
           "title": "The Naming Ceremony"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "gb_england",
+      "title": "England",
+      "description": "England staged as a culture: a green, ironic land of fair play, the amateur, and mustn't grumble.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/gb_england"
+      },
+      "iso": "GB-ENG",
+      "members": [
+        {
+          "file": "persona_dickens.md",
+          "kind": "persona",
+          "title": "Charles Dickens",
+          "type": "real",
+          "taxonomy": "position_fair_play.md"
+        },
+        {
+          "file": "persona_edith.md",
+          "kind": "persona",
+          "title": "Edith",
+          "type": "archetype",
+          "taxonomy": "position_understatement.md"
+        },
+        {
+          "file": "persona_henry_viii.md",
+          "kind": "persona",
+          "title": "Henry VIII",
+          "type": "real",
+          "taxonomy": "position_the_amateur.md"
+        },
+        {
+          "file": "persona_liam.md",
+          "kind": "persona",
+          "title": "Liam",
+          "type": "archetype",
+          "taxonomy": "position_fair_play.md"
+        },
+        {
+          "file": "piece_full_english.md",
+          "kind": "piece",
+          "title": "The Full English"
+        },
+        {
+          "file": "piece_st_georges_cross.md",
+          "kind": "piece",
+          "title": "The St George's Cross"
+        },
+        {
+          "file": "pitch_en.md",
+          "kind": "pitch",
+          "title": "The English Key",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "place_cotswolds.md",
+          "kind": "place",
+          "title": "The Cotswolds"
+        },
+        {
+          "file": "place_manchester.md",
+          "kind": "place",
+          "title": "Manchester"
+        },
+        {
+          "file": "plan_the_worlds_tongue.md",
+          "kind": "plan",
+          "title": "the world's tongue"
+        },
+        {
+          "file": "play_england.md",
+          "kind": "play",
+          "title": "England"
+        },
+        {
+          "file": "plot_01_norman_conquest_1066.md",
+          "kind": "plot",
+          "title": "The Norman Conquest 1066",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "plot_02_peasants_revolt_1381.md",
+          "kind": "plot",
+          "title": "The Peasants' Revolt 1381",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "plot_03_reformation_1534.md",
+          "kind": "plot",
+          "title": "The English Reformation 1534",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "plot_04_industrial_revolution.md",
+          "kind": "plot",
+          "title": "The Industrial Revolution",
+          "taxonomy": "play_england.md"
+        },
+        {
+          "file": "position_culture_englishness.md",
+          "kind": "position",
+          "title": "English Culture"
+        },
+        {
+          "file": "position_fair_play.md",
+          "kind": "position",
+          "title": "Fair Play"
+        },
+        {
+          "file": "position_the_amateur.md",
+          "kind": "position",
+          "title": "The Amateur"
+        },
+        {
+          "file": "position_understatement.md",
+          "kind": "position",
+          "title": "Understatement"
+        },
+        {
+          "file": "process_cricket.md",
+          "kind": "process",
+          "title": "Village Cricket"
+        },
+        {
+          "file": "process_the_pub.md",
+          "kind": "process",
+          "title": "The Pub"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "gb_northern_ireland",
+      "title": "Northern Ireland",
+      "description": "Northern Ireland staged as a culture: two traditions held in one small place, and a hard-won peace they made together.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/gb_northern_ireland"
+      },
+      "iso": "GB-NIR",
+      "members": [
+        {
+          "file": "persona_davy.md",
+          "kind": "persona",
+          "title": "Davy",
+          "type": "archetype",
+          "taxonomy": "position_unionism.md"
+        },
+        {
+          "file": "persona_hume.md",
+          "kind": "persona",
+          "title": "John Hume",
+          "type": "real",
+          "taxonomy": "position_nationalism.md"
+        },
+        {
+          "file": "persona_niamh.md",
+          "kind": "persona",
+          "title": "Niamh",
+          "type": "archetype",
+          "taxonomy": "position_nationalism.md"
+        },
+        {
+          "file": "persona_trimble.md",
+          "kind": "persona",
+          "title": "David Trimble",
+          "type": "real",
+          "taxonomy": "position_unionism.md"
+        },
+        {
+          "file": "piece_samson_and_goliath.md",
+          "kind": "piece",
+          "title": "Samson and Goliath"
+        },
+        {
+          "file": "piece_ulster_fry.md",
+          "kind": "piece",
+          "title": "The Ulster Fry"
+        },
+        {
+          "file": "pitch_nir.md",
+          "kind": "pitch",
+          "title": "The Northern Irish Key",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "place_belfast.md",
+          "kind": "place",
+          "title": "Belfast"
+        },
+        {
+          "file": "place_derry_londonderry.md",
+          "kind": "place",
+          "title": "Derry/Londonderry"
+        },
+        {
+          "file": "plan_parity_of_esteem.md",
+          "kind": "plan",
+          "title": "parity of esteem",
+          "taxonomy": "position_the_two_tongues.md"
+        },
+        {
+          "file": "play_northern_ireland.md",
+          "kind": "play",
+          "title": "Northern Ireland"
+        },
+        {
+          "file": "plot_01_plantation_1609.md",
+          "kind": "plot",
+          "title": "The Plantation of Ulster 1609",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "plot_02_partition_1921.md",
+          "kind": "plot",
+          "title": "Partition and the Founding of Northern Ireland 1921",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "plot_03_titanic.md",
+          "kind": "plot",
+          "title": "The Shipyards and the Titanic",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "plot_04_good_friday_1998.md",
+          "kind": "plot",
+          "title": "The Troubles and the Good Friday Agreement 1998",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "position_culture_northern_irish_culture.md",
+          "kind": "position",
+          "title": "Northern Irish Culture"
+        },
+        {
+          "file": "position_nationalism.md",
+          "kind": "position",
+          "title": "Nationalism"
+        },
+        {
+          "file": "position_the_peace.md",
+          "kind": "position",
+          "title": "The Peace"
+        },
+        {
+          "file": "position_the_two_tongues.md",
+          "kind": "position",
+          "title": "the two tongues"
+        },
+        {
+          "file": "position_unionism.md",
+          "kind": "position",
+          "title": "Unionism"
+        },
+        {
+          "file": "process_gaa.md",
+          "kind": "process",
+          "title": "Gaelic Games"
+        },
+        {
+          "file": "process_the_twelfth.md",
+          "kind": "process",
+          "title": "The Twelfth"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "gb_scotland",
+      "title": "Scotland",
+      "description": "Scotland staged as a culture: a proud, egalitarian nation that kept its mind, its kirk, and its independence of spirit.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/gb_scotland"
+      },
+      "iso": "GB-SCT",
+      "members": [
+        {
+          "file": "persona_bruce.md",
+          "kind": "persona",
+          "title": "Robert the Bruce",
+          "type": "real",
+          "taxonomy": "position_the_clan.md"
+        },
+        {
+          "file": "persona_burns.md",
+          "kind": "persona",
+          "title": "Robert Burns",
+          "type": "real",
+          "taxonomy": "position_the_kirk.md"
+        },
+        {
+          "file": "persona_eilidh.md",
+          "kind": "persona",
+          "title": "Eilidh",
+          "type": "archetype",
+          "taxonomy": "position_egalitarianism.md"
+        },
+        {
+          "file": "persona_mairi.md",
+          "kind": "persona",
+          "title": "Mairi",
+          "type": "archetype",
+          "taxonomy": "position_the_clan.md"
+        },
+        {
+          "file": "piece_saltire.md",
+          "kind": "piece",
+          "title": "The Saltire"
+        },
+        {
+          "file": "piece_whisky.md",
+          "kind": "piece",
+          "title": "Whisky"
+        },
+        {
+          "file": "pitch_sct.md",
+          "kind": "pitch",
+          "title": "The Scottish Key",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "place_edinburgh.md",
+          "kind": "place",
+          "title": "Edinburgh"
+        },
+        {
+          "file": "place_the_highlands.md",
+          "kind": "place",
+          "title": "The Highlands"
+        },
+        {
+          "file": "plan_the_gaelic_revival.md",
+          "kind": "plan",
+          "title": "the Gaelic revival",
+          "taxonomy": "persona_mairi.md"
+        },
+        {
+          "file": "plan_the_national_question.md",
+          "kind": "plan",
+          "title": "the national question",
+          "taxonomy": "persona_eilidh.md"
+        },
+        {
+          "file": "play_scotland.md",
+          "kind": "play",
+          "title": "Scotland"
+        },
+        {
+          "file": "plot_01_bannockburn_1314.md",
+          "kind": "plot",
+          "title": "Bannockburn 1314",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "plot_02_reformation_1560.md",
+          "kind": "plot",
+          "title": "The Reformation 1560",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "plot_03_culloden_1746.md",
+          "kind": "plot",
+          "title": "Culloden 1746",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "plot_04_enlightenment.md",
+          "kind": "plot",
+          "title": "The Scottish Enlightenment",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "position_culture_scottishness.md",
+          "kind": "position",
+          "title": "Scottish Culture"
+        },
+        {
+          "file": "position_egalitarianism.md",
+          "kind": "position",
+          "title": "Egalitarianism"
+        },
+        {
+          "file": "position_the_clan.md",
+          "kind": "position",
+          "title": "The Clan"
+        },
+        {
+          "file": "position_the_kirk.md",
+          "kind": "position",
+          "title": "The Kirk"
+        },
+        {
+          "file": "process_ceilidh.md",
+          "kind": "process",
+          "title": "The Ceilidh"
+        },
+        {
+          "file": "process_hogmanay.md",
+          "kind": "process",
+          "title": "Hogmanay"
+        }
+      ]
+    },
+    {
+      "kind": "culture",
+      "id": "gb_wales",
+      "title": "Wales",
+      "description": "Wales staged as a culture: a small nation that lost its princes and kept its language, its song, and its solidarity.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "cultures/gb_wales"
+      },
+      "iso": "GB-WLS",
+      "members": [
+        {
+          "file": "persona_bevan.md",
+          "kind": "persona",
+          "title": "Aneurin Bevan",
+          "type": "real",
+          "taxonomy": "position_solidariaeth.md"
+        },
+        {
+          "file": "persona_glyndwr.md",
+          "kind": "persona",
+          "title": "Owain Glyndwr",
+          "type": "real",
+          "taxonomy": "position_language_cy.md"
+        },
+        {
+          "file": "persona_gwen.md",
+          "kind": "persona",
+          "title": "Gwen",
+          "type": "archetype",
+          "taxonomy": "position_language_cy.md"
+        },
+        {
+          "file": "persona_rhys.md",
+          "kind": "persona",
+          "title": "Rhys",
+          "type": "archetype",
+          "taxonomy": "position_solidariaeth.md"
+        },
+        {
+          "file": "piece_welsh_bible.md",
+          "kind": "piece",
+          "title": "The Welsh Bible"
+        },
+        {
+          "file": "piece_y_ddraig_goch.md",
+          "kind": "piece",
+          "title": "The Red Dragon"
+        },
+        {
+          "file": "pitch_wls.md",
+          "kind": "pitch",
+          "title": "The Welsh Key",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "place_eryri.md",
+          "kind": "place",
+          "title": "Eryri"
+        },
+        {
+          "file": "place_the_valleys.md",
+          "kind": "place",
+          "title": "The Valleys"
+        },
+        {
+          "file": "plan_cymraeg_2050.md",
+          "kind": "plan",
+          "title": "Cymraeg 2050",
+          "taxonomy": "position_language_cy.md"
+        },
+        {
+          "file": "plan_datganoli.md",
+          "kind": "plan",
+          "title": "Datganoli",
+          "taxonomy": "persona_glyndwr.md"
+        },
+        {
+          "file": "play_wales.md",
+          "kind": "play",
+          "title": "Wales"
+        },
+        {
+          "file": "plot_01_llywelyn_1282.md",
+          "kind": "plot",
+          "title": "The Death of Llywelyn 1282",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "plot_02_glyndwr_1400.md",
+          "kind": "plot",
+          "title": "The Rising of Glyndwr 1400",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "plot_03_welsh_bible_1588.md",
+          "kind": "plot",
+          "title": "The Welsh Bible 1588",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "plot_04_coal_and_bevan.md",
+          "kind": "plot",
+          "title": "Coal and Bevan",
+          "taxonomy": "play_wales.md"
+        },
+        {
+          "file": "position_culture_cymreictod.md",
+          "kind": "position",
+          "title": "Welsh Culture"
+        },
+        {
+          "file": "position_solidariaeth.md",
+          "kind": "position",
+          "title": "Solidarity"
+        },
+        {
+          "file": "position_y_capel.md",
+          "kind": "position",
+          "title": "The Chapel"
+        },
+        {
+          "file": "process_eisteddfod.md",
+          "kind": "process",
+          "title": "The Eisteddfod"
+        },
+        {
+          "file": "process_rugby.md",
+          "kind": "process",
+          "title": "Rugby"
         }
       ]
     },
@@ -30418,143 +30826,6 @@
     },
     {
       "kind": "culture",
-      "id": "northern_ireland",
-      "title": "Northern Ireland",
-      "description": "Northern Ireland staged as a culture: two traditions held in one small place, and a hard-won peace they made together.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/northern_ireland"
-      },
-      "iso": "GB-NIR",
-      "members": [
-        {
-          "file": "persona_davy.md",
-          "kind": "persona",
-          "title": "Davy",
-          "type": "archetype",
-          "taxonomy": "position_unionism.md"
-        },
-        {
-          "file": "persona_hume.md",
-          "kind": "persona",
-          "title": "John Hume",
-          "type": "real",
-          "taxonomy": "position_nationalism.md"
-        },
-        {
-          "file": "persona_niamh.md",
-          "kind": "persona",
-          "title": "Niamh",
-          "type": "archetype",
-          "taxonomy": "position_nationalism.md"
-        },
-        {
-          "file": "persona_trimble.md",
-          "kind": "persona",
-          "title": "David Trimble",
-          "type": "real",
-          "taxonomy": "position_unionism.md"
-        },
-        {
-          "file": "piece_samson_and_goliath.md",
-          "kind": "piece",
-          "title": "Samson and Goliath"
-        },
-        {
-          "file": "piece_ulster_fry.md",
-          "kind": "piece",
-          "title": "The Ulster Fry"
-        },
-        {
-          "file": "pitch_nir.md",
-          "kind": "pitch",
-          "title": "The Northern Irish Key",
-          "taxonomy": "play_northern_ireland.md"
-        },
-        {
-          "file": "place_belfast.md",
-          "kind": "place",
-          "title": "Belfast"
-        },
-        {
-          "file": "place_derry_londonderry.md",
-          "kind": "place",
-          "title": "Derry/Londonderry"
-        },
-        {
-          "file": "plan_parity_of_esteem.md",
-          "kind": "plan",
-          "title": "parity of esteem",
-          "taxonomy": "position_the_two_tongues.md"
-        },
-        {
-          "file": "play_northern_ireland.md",
-          "kind": "play",
-          "title": "Northern Ireland"
-        },
-        {
-          "file": "plot_01_plantation_1609.md",
-          "kind": "plot",
-          "title": "The Plantation of Ulster 1609",
-          "taxonomy": "play_northern_ireland.md"
-        },
-        {
-          "file": "plot_02_partition_1921.md",
-          "kind": "plot",
-          "title": "Partition and the Founding of Northern Ireland 1921",
-          "taxonomy": "play_northern_ireland.md"
-        },
-        {
-          "file": "plot_03_titanic.md",
-          "kind": "plot",
-          "title": "The Shipyards and the Titanic",
-          "taxonomy": "play_northern_ireland.md"
-        },
-        {
-          "file": "plot_04_good_friday_1998.md",
-          "kind": "plot",
-          "title": "The Troubles and the Good Friday Agreement 1998",
-          "taxonomy": "play_northern_ireland.md"
-        },
-        {
-          "file": "position_culture_northern_irish_culture.md",
-          "kind": "position",
-          "title": "Northern Irish Culture"
-        },
-        {
-          "file": "position_nationalism.md",
-          "kind": "position",
-          "title": "Nationalism"
-        },
-        {
-          "file": "position_the_peace.md",
-          "kind": "position",
-          "title": "The Peace"
-        },
-        {
-          "file": "position_the_two_tongues.md",
-          "kind": "position",
-          "title": "the two tongues"
-        },
-        {
-          "file": "position_unionism.md",
-          "kind": "position",
-          "title": "Unionism"
-        },
-        {
-          "file": "process_gaa.md",
-          "kind": "process",
-          "title": "Gaelic Games"
-        },
-        {
-          "file": "process_the_twelfth.md",
-          "kind": "process",
-          "title": "The Twelfth"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "norway",
       "title": "Norway",
       "description": "Norway staged as a culture: a steep land of mountains and sea where people belong to nature and share the work.",
@@ -34247,144 +34518,6 @@
           "file": "process_almajlis.md",
           "kind": "process",
           "title": "the Majlis and the Coffee"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "scotland",
-      "title": "Scotland",
-      "description": "Scotland staged as a culture: a proud, egalitarian nation that kept its mind, its kirk, and its independence of spirit.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/scotland"
-      },
-      "iso": "GB-SCT",
-      "members": [
-        {
-          "file": "persona_bruce.md",
-          "kind": "persona",
-          "title": "Robert the Bruce",
-          "type": "real",
-          "taxonomy": "position_the_clan.md"
-        },
-        {
-          "file": "persona_burns.md",
-          "kind": "persona",
-          "title": "Robert Burns",
-          "type": "real",
-          "taxonomy": "position_the_kirk.md"
-        },
-        {
-          "file": "persona_eilidh.md",
-          "kind": "persona",
-          "title": "Eilidh",
-          "type": "archetype",
-          "taxonomy": "position_egalitarianism.md"
-        },
-        {
-          "file": "persona_mairi.md",
-          "kind": "persona",
-          "title": "Mairi",
-          "type": "archetype",
-          "taxonomy": "position_the_clan.md"
-        },
-        {
-          "file": "piece_saltire.md",
-          "kind": "piece",
-          "title": "The Saltire"
-        },
-        {
-          "file": "piece_whisky.md",
-          "kind": "piece",
-          "title": "Whisky"
-        },
-        {
-          "file": "pitch_sct.md",
-          "kind": "pitch",
-          "title": "The Scottish Key",
-          "taxonomy": "play_scotland.md"
-        },
-        {
-          "file": "place_edinburgh.md",
-          "kind": "place",
-          "title": "Edinburgh"
-        },
-        {
-          "file": "place_the_highlands.md",
-          "kind": "place",
-          "title": "The Highlands"
-        },
-        {
-          "file": "plan_the_gaelic_revival.md",
-          "kind": "plan",
-          "title": "the Gaelic revival",
-          "taxonomy": "persona_mairi.md"
-        },
-        {
-          "file": "plan_the_national_question.md",
-          "kind": "plan",
-          "title": "the national question",
-          "taxonomy": "persona_eilidh.md"
-        },
-        {
-          "file": "play_scotland.md",
-          "kind": "play",
-          "title": "Scotland"
-        },
-        {
-          "file": "plot_01_bannockburn_1314.md",
-          "kind": "plot",
-          "title": "Bannockburn 1314",
-          "taxonomy": "play_scotland.md"
-        },
-        {
-          "file": "plot_02_reformation_1560.md",
-          "kind": "plot",
-          "title": "The Reformation 1560",
-          "taxonomy": "play_scotland.md"
-        },
-        {
-          "file": "plot_03_culloden_1746.md",
-          "kind": "plot",
-          "title": "Culloden 1746",
-          "taxonomy": "play_scotland.md"
-        },
-        {
-          "file": "plot_04_enlightenment.md",
-          "kind": "plot",
-          "title": "The Scottish Enlightenment",
-          "taxonomy": "play_scotland.md"
-        },
-        {
-          "file": "position_culture_scottishness.md",
-          "kind": "position",
-          "title": "Scottish Culture"
-        },
-        {
-          "file": "position_egalitarianism.md",
-          "kind": "position",
-          "title": "Egalitarianism"
-        },
-        {
-          "file": "position_the_clan.md",
-          "kind": "position",
-          "title": "The Clan"
-        },
-        {
-          "file": "position_the_kirk.md",
-          "kind": "position",
-          "title": "The Kirk"
-        },
-        {
-          "file": "process_ceilidh.md",
-          "kind": "process",
-          "title": "The Ceilidh"
-        },
-        {
-          "file": "process_hogmanay.md",
-          "kind": "process",
-          "title": "Hogmanay"
         }
       ]
     },
@@ -41460,139 +41593,6 @@
           "file": "process_tet.md",
           "kind": "process",
           "title": "Tet"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "wales",
-      "title": "Wales",
-      "description": "Wales staged as a culture: a small nation that lost its princes and kept its language, its song, and its solidarity.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/wales"
-      },
-      "iso": "GB-WLS",
-      "members": [
-        {
-          "file": "persona_bevan.md",
-          "kind": "persona",
-          "title": "Aneurin Bevan",
-          "type": "real",
-          "taxonomy": "position_solidariaeth.md"
-        },
-        {
-          "file": "persona_glyndwr.md",
-          "kind": "persona",
-          "title": "Owain Glyndwr",
-          "type": "real",
-          "taxonomy": "position_language_cy.md"
-        },
-        {
-          "file": "persona_gwen.md",
-          "kind": "persona",
-          "title": "Gwen",
-          "type": "archetype",
-          "taxonomy": "position_language_cy.md"
-        },
-        {
-          "file": "persona_rhys.md",
-          "kind": "persona",
-          "title": "Rhys",
-          "type": "archetype",
-          "taxonomy": "position_solidariaeth.md"
-        },
-        {
-          "file": "piece_welsh_bible.md",
-          "kind": "piece",
-          "title": "The Welsh Bible"
-        },
-        {
-          "file": "piece_y_ddraig_goch.md",
-          "kind": "piece",
-          "title": "The Red Dragon"
-        },
-        {
-          "file": "pitch_wls.md",
-          "kind": "pitch",
-          "title": "The Welsh Key",
-          "taxonomy": "play_wales.md"
-        },
-        {
-          "file": "place_eryri.md",
-          "kind": "place",
-          "title": "Eryri"
-        },
-        {
-          "file": "place_the_valleys.md",
-          "kind": "place",
-          "title": "The Valleys"
-        },
-        {
-          "file": "plan_cymraeg_2050.md",
-          "kind": "plan",
-          "title": "Cymraeg 2050",
-          "taxonomy": "position_language_cy.md"
-        },
-        {
-          "file": "plan_datganoli.md",
-          "kind": "plan",
-          "title": "Datganoli",
-          "taxonomy": "persona_glyndwr.md"
-        },
-        {
-          "file": "play_wales.md",
-          "kind": "play",
-          "title": "Wales"
-        },
-        {
-          "file": "plot_01_llywelyn_1282.md",
-          "kind": "plot",
-          "title": "The Death of Llywelyn 1282",
-          "taxonomy": "play_wales.md"
-        },
-        {
-          "file": "plot_02_glyndwr_1400.md",
-          "kind": "plot",
-          "title": "The Rising of Glyndwr 1400",
-          "taxonomy": "play_wales.md"
-        },
-        {
-          "file": "plot_03_welsh_bible_1588.md",
-          "kind": "plot",
-          "title": "The Welsh Bible 1588",
-          "taxonomy": "play_wales.md"
-        },
-        {
-          "file": "plot_04_coal_and_bevan.md",
-          "kind": "plot",
-          "title": "Coal and Bevan",
-          "taxonomy": "play_wales.md"
-        },
-        {
-          "file": "position_culture_cymreictod.md",
-          "kind": "position",
-          "title": "Welsh Culture"
-        },
-        {
-          "file": "position_solidariaeth.md",
-          "kind": "position",
-          "title": "Solidarity"
-        },
-        {
-          "file": "position_y_capel.md",
-          "kind": "position",
-          "title": "The Chapel"
-        },
-        {
-          "file": "process_eisteddfod.md",
-          "kind": "process",
-          "title": "The Eisteddfod"
-        },
-        {
-          "file": "process_rugby.md",
-          "kind": "process",
-          "title": "Rugby"
         }
       ]
     },
