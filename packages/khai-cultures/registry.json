@@ -17417,6 +17417,12 @@
           "title": "Northern Ireland"
         },
         {
+          "file": "plot_00_the_twelve_miles_of_water.md",
+          "kind": "plot",
+          "title": "The Twelve Miles of Water, from 500",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
           "file": "plot_01_plantation_1609.md",
           "kind": "plot",
           "title": "The Plantation of Ulster 1609",
@@ -17431,13 +17437,37 @@
         {
           "file": "plot_03_titanic.md",
           "kind": "plot",
-          "title": "The Shipyards and the Titanic",
+          "title": "The Shipyards and the Titanic, 1912",
           "taxonomy": "play_northern_ireland.md"
         },
         {
           "file": "plot_04_good_friday_1998.md",
           "kind": "plot",
           "title": "The Troubles and the Good Friday Agreement 1998",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "plot_05_the_diamond_and_the_lodge_1795.md",
+          "kind": "plot",
+          "title": "The Diamond and the Lodge, 1795",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "plot_06_the_parish_and_the_pitch_1884.md",
+          "kind": "plot",
+          "title": "The Parish and the Pitch, 1884 to 2001",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "plot_07_the_dove_on_the_shorts_1985.md",
+          "kind": "plot",
+          "title": "The Dove on the Shorts, 1985",
+          "taxonomy": "play_northern_ireland.md"
+        },
+        {
+          "file": "plot_99_the_fry_and_the_gate.md",
+          "kind": "plot",
+          "title": "The Fry and the Gate, since 2007",
           "taxonomy": "play_northern_ireland.md"
         },
         {
