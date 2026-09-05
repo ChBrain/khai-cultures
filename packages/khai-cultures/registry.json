@@ -17560,6 +17560,12 @@
           "title": "Scotland"
         },
         {
+          "file": "plot_00_beyond_the_wall.md",
+          "kind": "plot",
+          "title": "Beyond the Wall, 122 to 563",
+          "taxonomy": "play_scotland.md"
+        },
+        {
           "file": "plot_01_bannockburn_1314.md",
           "kind": "plot",
           "title": "Bannockburn 1314",
@@ -17580,7 +17586,31 @@
         {
           "file": "plot_04_enlightenment.md",
           "kind": "plot",
-          "title": "The Scottish Enlightenment",
+          "title": "The Scottish Enlightenment, from 1740",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "plot_05_the_kilmarnock_edition_1786.md",
+          "kind": "plot",
+          "title": "The Kilmarnock Edition, 1786",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "plot_06_the_licensed_still_1823.md",
+          "kind": "plot",
+          "title": "The Licensed Still, 1823",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "plot_07_the_schoolroom_and_the_mod_1892.md",
+          "kind": "plot",
+          "title": "The Schoolroom and the Mòd, 1872 to 1892",
+          "taxonomy": "play_scotland.md"
+        },
+        {
+          "file": "plot_99_the_question_asked_and_left_open.md",
+          "kind": "plot",
+          "title": "The Question Asked and Left Open, since 1999",
           "taxonomy": "play_scotland.md"
         },
         {
