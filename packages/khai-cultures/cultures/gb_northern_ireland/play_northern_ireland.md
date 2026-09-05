@@ -70,6 +70,10 @@ A small place shaped by two peoples who share one ground and have long read its 
 
 ## Triggers
 
+**[Plot 0: The Twelve Miles of Water, from 500](plot_00_the_twelve_miles_of_water.md)**
+
+Ulster can see Scotland and cannot easily reach Dublin, so a thousand years of traffic runs east and west across the water before anything is planted, and both of [the two tongues](position_the_two_tongues.md) arrive by that crossing rather than by any land route.
+
 **[Plot 1: The Plantation of Ulster 1609](plot_01_plantation_1609.md)**
 
 The Crown settles Scots and English Protestants on the lands of Ulster, planting in [Derry/Londonderry](place_derry_londonderry.md) - whose newer name comes from the London livery companies - the two peoples whose long story becomes both [unionism](position_unionism.md) and [nationalism](position_nationalism.md).
@@ -78,13 +82,29 @@ The Crown settles Scots and English Protestants on the lands of Ulster, planting
 
 Ireland is partitioned; a new state is founded with its seat at [Belfast](place_belfast.md), built to secure the [unionist](position_unionism.md) majority, while a large nationalist minority is left within the new border.
 
-**[Plot 3: The shipyards and the Titanic](plot_03_titanic.md)**
+**[Plot 3: The Shipyards and the Titanic, 1912](plot_03_titanic.md)**
 
 At the height of its industry [Belfast](place_belfast.md) builds the greatest ships in the world at Harland and Wolff, and the [great cranes](piece_samson_and_goliath.md) rise over a civic pride shared across both communities.
 
 **[Plot 4: The Troubles and the Good Friday Agreement 1998](plot_04_good_friday_1998.md)**
 
 After three decades of the Troubles, [John Hume](persona_hume.md) and [David Trimble](persona_trimble.md) lead their traditions to the table, and [the peace](position_the_peace.md) of the Good Friday, or Belfast, Agreement is settled by consent of both communities.
+
+**[Plot 5: The Diamond and the Lodge, 1795](plot_05_the_diamond_and_the_lodge_1795.md)**
+
+A crossroads fight in Armagh ends with a society of lodges founded the same day and a parade fixed to the twelfth of July, giving one community [a day a year](process_the_twelfth.md) on which it is unmistakably itself in public.
+
+**[Plot 6: The Parish and the Pitch, 1884 to 2001](plot_06_the_parish_and_the_pitch_1884.md)**
+
+[Gaelic games](process_gaa.md) tie a club to a parish and a parish to a county and become the other community's own ground, and the clubs then vote away two of the rules that had defined the body.
+
+**[Plot 7: The Dove on the Shorts, 1985](plot_07_the_dove_on_the_shorts_1985.md)**
+
+A featherweight refuses both flags, comes in under the dove and his father's singing, and the Falls and the Shankill cheer the same man on the same night in the worst decade the place has had.
+
+**[Plot 99: The Fry and the Gate, since 2007](plot_99_the_fry_and_the_gate.md)**
+
+The institutions rise and fall and rise, the walls stand, the schools stay separate, and [the fry](piece_ulster_fry.md) goes on to the same pans on both sides of a gate that still shuts at night.
 
 ## Stakes
 

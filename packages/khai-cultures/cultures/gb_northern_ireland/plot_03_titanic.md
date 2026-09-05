@@ -1,7 +1,7 @@
 ---
 khai: plot
-title: "The Shipyards and the Titanic"
-declared: "The Shipyards and the Titanic"
+title: "The Shipyards and the Titanic, 1912"
+declared: "The Shipyards and the Titanic, 1912"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-21"
 ---
 
-# Plot: The Shipyards and the Titanic
+# Plot: The Shipyards and the Titanic, 1912
 
 ## Taxonomy
 
