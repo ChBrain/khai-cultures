@@ -21383,8 +21383,8 @@
       "title": "Ireland",
       "description": "Ireland staged as a culture: a nation that reveres a first language it barely speaks and lives in English.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/ireland"
+        "package": "@chbrain/khai-cultures-ireland",
+        "path": ""
       },
       "iso": "IE",
       "members": [
@@ -21509,7 +21509,8 @@
           "kind": "process",
           "title": "Gaelic Games"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-ireland"
     },
     {
       "kind": "culture",
