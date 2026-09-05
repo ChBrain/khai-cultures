@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **87 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **88 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -70,6 +70,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `en/position_language_en_gb_nir.md`    | Ulster English: the rise on the declarative, and the softeners in front of every claim                                                               | `en`         |
 | `en/position_language_en_gb_sct.md`    | Scottish English: standard English grammar held in a mouth that keeps the r, the wh and its own vowel timing                                         | `en`         |
 | `en/position_language_en_gb_wls.md`    | Welsh English: the older tongue's prosody and word order surviving inside the newer one                                                              | `en`         |
+| `en/position_language_en_ie.md`        | Hiberno-English: the after-perfect, the habitual does be, and an answer that has to echo the verb                                                    | `en`         |
 | `en/position_language_en_us.md`        | American English: the larger written form, and the unmarked one                                                                                      | `en`         |
 | `en/position_language_en_us_oh.md`     | Ohio English, split between the Inland North and the Midland                                                                                         | `en`         |
 | `en/position_language_en_us_pa.md`     | Pennsylvania English, Pittsburgh and the Dutch country                                                                                               | `en`         |
