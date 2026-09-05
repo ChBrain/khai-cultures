@@ -43659,6 +43659,71 @@
     },
     {
       "kind": "group",
+      "id": "these_islands",
+      "title": "these islands",
+      "description": "The archipelago as a group: five cultures, two states, two centuries of people moving both ways, and no agreed name.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/these_islands"
+      },
+      "references": ["gb_england", "gb_northern_ireland", "gb_scotland", "gb_wales", "ireland"],
+      "members": [
+        {
+          "file": "persona_the_cousin.md",
+          "kind": "persona",
+          "title": "Persona: the Cousin",
+          "type": "archetype"
+        },
+        {
+          "file": "pitch_these_islands.md",
+          "kind": "pitch",
+          "title": "Pitch: the key of these islands",
+          "taxonomy": "play_these_islands.md"
+        },
+        {
+          "file": "play_these_islands.md",
+          "kind": "play",
+          "title": "these islands"
+        },
+        {
+          "file": "plot_00_one_written_language.md",
+          "kind": "plot",
+          "title": "One Written Language, 1200 to 1650",
+          "taxonomy": "play_these_islands.md"
+        },
+        {
+          "file": "plot_01_liverpool_and_the_clyde.md",
+          "kind": "plot",
+          "title": "Liverpool and the Clyde, 1845 to 1852",
+          "taxonomy": "play_these_islands.md"
+        },
+        {
+          "file": "plot_02_the_navvies_and_the_nurses.md",
+          "kind": "plot",
+          "title": "The Navvies and the Nurses, 1945 to 1970",
+          "taxonomy": "play_these_islands.md"
+        },
+        {
+          "file": "plot_03_the_arrangement_nobody_signed.md",
+          "kind": "plot",
+          "title": "The Arrangement Nobody Signed, from 1923",
+          "taxonomy": "play_these_islands.md"
+        },
+        {
+          "file": "plot_99_a_border_in_the_sea.md",
+          "kind": "plot",
+          "title": "A Border in the Sea, since 2016",
+          "taxonomy": "play_these_islands.md"
+        },
+        {
+          "file": "position_the_neighbour.md",
+          "kind": "position",
+          "title": "the neighbour"
+        }
+      ]
+    },
+    {
+      "kind": "group",
       "id": "visegrad",
       "title": "The Visegrad Four",
       "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
