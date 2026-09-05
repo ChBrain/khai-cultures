@@ -51,9 +51,9 @@ A small place shaped by two peoples who share one ground and have long read its 
 - [the peace](position_the_peace.md)
 - [the two tongues](position_the_two_tongues.md)
 - [Northern Irish culture](position_culture_northern_irish_culture.md)
-- [Northern Irish English](position_language_en_gb_nir.md)
-- [Ulster Irish](position_language_ga_gb_nir.md)
-- [Ulster Scots](position_language_sco_gb_nir.md)
+- [Northern Irish English](@chbrain/khai-cultures-tongues/en/position_language_en_gb_nir.md)
+- [Ulster Irish](@chbrain/khai-cultures-tongues/ga/position_language_ga_gb_nir.md)
+- [Ulster Scots](@chbrain/khai-cultures-tongues/sco/position_language_sco_gb_nir.md)
 
 **Pieces**
 

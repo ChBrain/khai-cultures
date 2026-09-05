@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The ground of an old, once-conquered country that learned to govern its feeling rather than show it, and made an island of itself in temper as well as geography. It carries [fair play](position_fair_play.md), the conviction that the rules of the game matter more than the prize; it carries [the amateur](position_the_amateur.md), the trust in the gifted all-rounder over the grinding professional; and it carries [understatement](position_understatement.md), the dry word held above the loud one. It carries too a self-image of a green and pleasant land, and an old, stubborn dissent from below that answers back to power. It speaks itself in [the King's English](position_language_en_gb_eng.md), though it means more than it ever troubles to say.
+The ground of an old, once-conquered country that learned to govern its feeling rather than show it, and made an island of itself in temper as well as geography. It carries [fair play](position_fair_play.md), the conviction that the rules of the game matter more than the prize; it carries [the amateur](position_the_amateur.md), the trust in the gifted all-rounder over the grinding professional; and it carries [understatement](position_understatement.md), the dry word held above the loud one. It carries too a self-image of a green and pleasant land, and an old, stubborn dissent from below that answers back to power. It speaks itself in [the King's English](@chbrain/khai-cultures-tongues/en/position_language_en_gb_eng.md), though it means more than it ever troubles to say.
 
 ## Orders
 

@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures-tongues",
-  "version": "0.30.0",
+  "version": "0.34.0",
   "description": "The tongues of the Cultures house: one khai position per language variety, held by the speech community that speaks it rather than owned by a country.",
   "type": "module",
   "exports": {
@@ -61,6 +61,11 @@
       },
       {
         "file": "cu/position_language_cu.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "cy/position_language_cy.md",
         "type": "position",
         "parent": "position_language.md"
       },
@@ -205,6 +210,26 @@
         "parent": "en/position_language_en.md"
       },
       {
+        "file": "en/position_language_en_gb_eng.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
+        "file": "en/position_language_en_gb_nir.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
+        "file": "en/position_language_en_gb_sct.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
+        "file": "en/position_language_en_gb_wls.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
         "file": "en/position_language_en_us.md",
         "type": "position",
         "parent": "en/position_language_en.md"
@@ -285,7 +310,22 @@
         "parent": "fr/position_language_fr.md"
       },
       {
+        "file": "ga/position_language_ga.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "ga/position_language_ga_gb_nir.md",
+        "type": "position",
+        "parent": "ga/position_language_ga.md"
+      },
+      {
         "file": "gallo/position_language_gallo.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "gd/position_language_gd.md",
         "type": "position",
         "parent": "position_language.md"
       },
@@ -363,6 +403,16 @@
         "file": "ru/position_language_ru.md",
         "type": "position",
         "parent": "position_language.md"
+      },
+      {
+        "file": "sco/position_language_sco.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "sco/position_language_sco_gb_nir.md",
+        "type": "position",
+        "parent": "sco/position_language_sco.md"
       },
       {
         "file": "sl/position_language_sl.md",

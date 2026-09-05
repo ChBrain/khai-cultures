@@ -50,9 +50,9 @@ A small, hard-won nation that fought free on the field, reformed its faith into 
 - [the Kirk](position_the_kirk.md)
 - [egalitarianism](position_egalitarianism.md)
 - [the clan](position_the_clan.md)
-- [the Scots tongue](position_language_sco_gb_sct.md)
-- [Scottish English](position_language_en_gb_sct.md)
-- [Scottish Gaelic](position_language_gd.md)
+- [the Scots tongue](@chbrain/khai-cultures-tongues/sco/position_language_sco.md)
+- [Scottish English](@chbrain/khai-cultures-tongues/en/position_language_en_gb_sct.md)
+- [Scottish Gaelic](@chbrain/khai-cultures-tongues/gd/position_language_gd.md)
 
 **Pieces**
 

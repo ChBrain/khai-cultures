@@ -14025,11 +14025,6 @@
           "title": "Fair Play"
         },
         {
-          "file": "position_language_en_gb_eng.md",
-          "kind": "position",
-          "title": "the King's English"
-        },
-        {
           "file": "position_the_amateur.md",
           "kind": "position",
           "title": "The Amateur"
@@ -20870,14 +20865,14 @@
           "kind": "persona",
           "title": "Bríd",
           "type": "archetype",
-          "taxonomy": "position_language_ga_ie.md"
+          "taxonomy": "position_language_ga.md"
         },
         {
           "file": "persona_cian.md",
           "kind": "persona",
           "title": "Cian",
           "type": "archetype",
-          "taxonomy": "position_language_ga_ie.md"
+          "taxonomy": "position_language_ga.md"
         },
         {
           "file": "persona_joyce.md",
@@ -20898,7 +20893,7 @@
           "kind": "persona",
           "title": "Patrick Pearse",
           "type": "real",
-          "taxonomy": "position_language_ga_ie.md"
+          "taxonomy": "position_language_ga.md"
         },
         {
           "file": "piece_the_harp.md",
@@ -20930,7 +20925,7 @@
           "file": "plan_athbheochan_na_gaeilge.md",
           "kind": "plan",
           "title": "The Revival of Irish",
-          "taxonomy": "position_language_ga_ie.md"
+          "taxonomy": "position_language_ga.md"
         },
         {
           "file": "play_ireland.md",
@@ -20975,11 +20970,6 @@
           "file": "position_language_en_ie.md",
           "kind": "position",
           "title": "Hiberno-English"
-        },
-        {
-          "file": "position_language_ga_ie.md",
-          "kind": "position",
-          "title": "the Irish Language"
         },
         {
           "file": "position_the_church.md",
@@ -30532,21 +30522,6 @@
           "title": "Northern Irish Culture"
         },
         {
-          "file": "position_language_en_gb_nir.md",
-          "kind": "position",
-          "title": "Northern Irish English"
-        },
-        {
-          "file": "position_language_ga_gb_nir.md",
-          "kind": "position",
-          "title": "Ulster Irish"
-        },
-        {
-          "file": "position_language_sco_gb_nir.md",
-          "kind": "position",
-          "title": "Ulster Scots"
-        },
-        {
           "file": "position_nationalism.md",
           "kind": "position",
           "title": "Nationalism"
@@ -34390,21 +34365,6 @@
           "file": "position_egalitarianism.md",
           "kind": "position",
           "title": "Egalitarianism"
-        },
-        {
-          "file": "position_language_en_gb_sct.md",
-          "kind": "position",
-          "title": "Scottish English"
-        },
-        {
-          "file": "position_language_gd.md",
-          "kind": "position",
-          "title": "Scottish Gaelic"
-        },
-        {
-          "file": "position_language_sco_gb_sct.md",
-          "kind": "position",
-          "title": "Scots"
         },
         {
           "file": "position_the_clan.md",
@@ -41613,16 +41573,6 @@
           "file": "position_culture_cymreictod.md",
           "kind": "position",
           "title": "Welsh Culture"
-        },
-        {
-          "file": "position_language_cy.md",
-          "kind": "position",
-          "title": "Welsh"
-        },
-        {
-          "file": "position_language_en_gb_wls.md",
-          "kind": "position",
-          "title": "Welsh English"
         },
         {
           "file": "position_solidariaeth.md",
