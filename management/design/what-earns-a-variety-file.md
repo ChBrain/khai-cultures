@@ -182,62 +182,100 @@ That gives two shapes, and a language takes whichever is true of it:
   its whole extent recognises.
 - **siblings, no anchor** — North Frisian. A family that does not.
 
-## A language with no writing, and writing with no language
+## A tongue is not a language, and this package counts the second
 
-Sign and braille were proposed together, and taken together they break the same
-assumption from opposite ends. Every one of the eighty-six files in this package
-is a spoken tongue simulated through writing, and `build.mjs` says so in its own
-comment. That works because for a spoken tongue the language and the medium are
-the same axis. They are not the same axis, and these two are the proof:
+Sign and braille were proposed together, and between them they made the house say
+out loud a distinction it had been carrying without needing. A **tongue** is an
+office somebody holds and stands at a depth in, channel by channel. A **language**
+is a system with its own grammar and lexicon. Every position here was both, so
+nobody ever had to tell the two tests apart, and the package could be named for
+the first while its version counts the second without the difference showing.
 
-|                     | its own grammar and lexicon  | a written form of its own  |
-| ------------------- | ---------------------------- | -------------------------- |
-| a spoken tongue     | yes                          | yes                        |
-| **a sign language** | **yes**                      | **no**                     |
-| **braille**         | **no, it carries another's** | **yes, that is all it is** |
+`position_language.md`, the root every tongue hangs from, already set the office:
+**speaking and writing carry meaning out, hearing and reading let it in, thinking
+runs underneath and never reaches the room.** So a candidate is asked two things,
+not one: which channels does it hold in its own right, and is it a language.
 
-A sign language is a language you cannot write. Braille is writing with no
-language of its own. The package has room for both, and they go in different
-places, because the standards that name them already know the difference: `bfi`
-is an ISO 639-3 **language** code, and `Brai` is an ISO 15924 **script** code.
+|                     | out, live | in, live | thinking | out, durable | in, durable | a language |
+| ------------------- | --------- | -------- | -------- | ------------ | ----------- | ---------- |
+| a spoken tongue     | speaking  | hearing  | yes      | writing      | reading     | yes        |
+| **a sign language** | signing   | watching | yes      | **none**     | **none**    | **yes**    |
+| **braille**         | **none**  | **none** | **none** | writing      | reading     | **no**     |
 
-**A sign language is a tongue and takes an anchor.** It passes every part of the
-test above except point 4, visibility in writing, and it fails that one totally
-rather than partly. So the file is written in the surrounding written language
-and the provenance says so in as many words. That is not a licence, and it does
-not extend to spoken varieties: a spoken tongue that cannot be written here is
-unwritten because the hand at the desk lacks the source, which is the middle
-failure above and is answered by a source. A sign language cannot be written by
-anyone, and no source will change it.
+### A sign language is both, and takes an anchor
 
-What keeps this honest is that the inability is not a hole in the file. It is the
-most important thing about the language and it belongs in the position's own
-**Loses**: a tongue with no orthography has no archive of its own, keeps no
-letters and no diaries, and is recorded only on video or in transcription into
-somebody else's language. The mnemonic absorbs the exception instead of being
-bent around it, which is the test of whether an exception is real.
+The live pair maps without straining, because the channel names are functional
+rather than anatomical: signing carries meaning out of a person and into a room,
+watching lets it in, both need the other party present, and neither leaves a
+record. That is exactly the work speaking and hearing do. Thinking runs underneath
+as in any tongue.
 
-Sign languages do not form one family and must never be given a shared anchor.
-BSL and ASL are unrelated; ASL descends from French sign and BSL does not. Each
-takes its own anchor, the shape `co` and `br` already have.
+What is absent is the durable pair, and it is absent rather than weak. There is no
+orthography a signer uses to send a letter, keep a diary or publish, so a tongue
+with a literature and a poetics has no archive in its own hand. That belongs in
+the position's own **Loses**, which is the test of whether an exception is
+admissible: the mnemonic absorbs it instead of being bent around it.
 
-**Braille is not a tongue and takes no anchor.** It has no grammar and no
-lexicon; it is English, or German, or Arabic, set in cells. It therefore hangs
-under the language it writes, as `en-Brai` under `en/`, where it adds a variety
-and not a language and the count stays honest. Its file is written in ordinary
-print for the opposite reason to the sign file: not because it cannot be written
-in its own medium, but because it can, and doing so would produce the same text
-re-encoded rather than a second text. A transliteration is not a translation, and
-a page of Unicode braille cells would demonstrate the point by making it
-unreadable rather than by stating it.
+The consequence is mechanical and checkable. A persona holding a sign language can
+be wired to `process_speaking_*`, `process_hearing_*` and `process_thinking_*` in
+it, and **cannot be wired to `process_reading_*` or `process_writing_*` in it at
+all** — not `drafted`, not `deciphered`, not at any depth, because there is no
+channel to stand at a depth in.
 
-It still earns a position, because a script has an office even when it has no
-lexicon: what it gives its holder, what it forces at every use, what it cannot
-do, and how it sorts the world are all answerable for a medium. What it may never
-do is claim to be a variety of the language in the sense the test above means.
-Nothing about `en-Brai` differs from English in phonology, grammar or word stock,
-and the provenance must say that plainly so the next reader does not go looking
-for a minimal pair that cannot exist.
+One further consequence is that the file cannot be written in its own tongue, so
+it is written in the surrounding written language and the provenance says so. That
+exception is bounded to a language nobody can write. It never covers a spoken
+variety this house happens to lack a source for, which is the middle failure above
+and is answered by getting a source.
+
+Sign languages get no shared anchor, ever. BSL and ASL are unrelated — ASL
+descends from French sign and BSL does not — so each takes its own, the shape `co`
+and `br` already have.
+
+### Braille is a tongue and not a language, and hangs from the root
+
+It has no grammar and no words, and it is nobody's. The same sixty-three cells
+carry Arabic, Chinese, Greek and Hebrew, carry mathematics in their own codes and
+carry music in a notation read the same way in Osaka and São Paulo, and the first
+ten letters are the same cells in nearly every alphabetic braille because they
+still follow the assignment Louis Braille made at fifteen.
+
+It was first drafted as `en/position_language_en_brai.md`, a variety of English,
+and that was wrong twice: it made braille English's property when English is only
+one of the things poured into it, and it invited the next reader to hunt for a
+minimal pair against English that cannot exist. Withdrawn and rewritten at the
+package root.
+
+**The root is what keeps the version honest.** `languages()` and the kit's
+`countItems` both walk directories, so a position sitting at the top level is a
+member, carries provenance, renders in both documents, and moves no number. The
+minor is the language count, and braille is not one. `build.mjs` holds the slot as
+`nonLanguages()`, and any future occupant goes in the same way: a manual coding of
+a spoken language, speech-to-text, anything held in some channels without being a
+system of its own.
+
+Its own **Loses** is the finding stated plainly: three of the five channels, never
+had. Nobody speaks braille, nobody hears it and nobody thinks in it, because the
+thinking underneath belongs to whatever language is in the cells.
+
+### Why sign is not the same proposition, and what would be
+
+The obvious objection is that if braille is a medium then signing might be one
+too. It is not, and the thing that settles it is that signing has a medium of its
+own alongside it. **Signed English is to speech what braille is to print**: a
+manual re-encoding of another language, no grammar of its own, whatever you pour
+into it. BSL is not that, and Deaf communities distinguish the two sharply and for
+exactly this reason.
+
+|               | a re-encoding, no grammar of its own | a language         |
+| ------------- | ------------------------------------ | ------------------ |
+| touch         | braille                              | —                  |
+| hand and eye  | a manual coding of a spoken language | BSL, and its kin   |
+| sound and ear | —                                    | the spoken tongues |
+
+So the two questions stay separate and both get asked. Braille passes the tongue
+test and fails the language test. A sign language passes both and merely holds
+three channels rather than five.
 
 ## Sourcing a variety, when it is written
 
