@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures-tongues",
-  "version": "0.35.0",
+  "version": "0.36.0",
   "description": "The tongues of the Cultures house: one khai position per language variety, held by the speech community that speaks it rather than owned by a country.",
   "type": "module",
   "exports": {
@@ -23,6 +23,11 @@
         "file": "position_language.md",
         "type": "position",
         "parent": null
+      },
+      {
+        "file": "ar/position_language_ar.md",
+        "type": "position",
+        "parent": "position_language.md"
       },
       {
         "file": "bar/position_language_bar.md",

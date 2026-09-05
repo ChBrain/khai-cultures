@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **88 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **89 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -28,6 +28,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 
 | Variety                                | Tongue                                                                                                                                               | Language     |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| `ar/position_language_ar.md`           | Arabic as such: the triliteral root and its patterns, and one tongue held in two systems at once                                                     | `ar`         |
 | `bar/position_language_bar.md`         | Bavarian as such: the family, spoken across three states and owned by none of them                                                                   | `bar`        |
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                                                            | `bar`        |
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                                                       | `bar`        |
