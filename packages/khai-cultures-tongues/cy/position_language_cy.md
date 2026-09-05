@@ -22,15 +22,15 @@ Parent group: positions
 
 ## Has
 
-Mae'r Gymraeg yn cadw un o ryfeddodau ieithoedd Celtaidd Ewrop, y treiglad, lle mae sain gyntaf gair yn newid yn ol beth sy'n dod o'i flaen, car yn troi'n gar meddal, yn nghar trwynol neu'n char llaes yn ol y cyd destun gramadegol. Mae hefyd yn cynnal cynghanedd, y patrwm caeth o gyseinedd ac odl o fewn un llinell sy'n unigryw i farddoniaeth Gymraeg, gan roi i'r iaith gerddoriaeth fewnol na all cyfieithiad byth ei dal yn llawn.
+Mae'r Gymraeg yn cadw un o ryfeddodau ieithoedd Celtaidd Ewrop, y treiglad, lle mae sain gyntaf gair yn newid yn ôl beth sy'n dod o'i flaen, car yn troi'n gar meddal, yn nghar trwynol neu'n char llaes yn ôl y cyd-destun gramadegol. Mae hefyd yn cynnal cynghanedd, y patrwm caeth o gyseinedd ac odl o fewn un llinell sy'n unigryw i farddoniaeth Gymraeg, gan roi i'r iaith gerddoriaeth fewnol na all cyfieithiad byth ei dal yn llawn.
 
 ## Orders
 
-Mae'n gorfodi'r siaradwr i dreiglo cytsain gyntaf gair bron ym mhob brawddeg, ar ol arddodiad, ar ol enw benywaidd, ar ol rhagenw meddiannol, fel bod pob gair yn cario ol traed y gair o'i flaen. Mae'n gosod y ferf ar flaen y frawddeg, cyn yr wrthrych a chyn yr goddrych, felly rhaid enwi'r weithred cyn dweud pwy sy'n ei gwneud. Ac mae'n mynnu dewis rhwng ti a chi bob tro yr eneir rhywun, ti i'r cyfarwydd ac i'r plentyn, chi i'r dieithryn ac i'r henuriad, fel na ellir byth gyfarch heb ddewis pa mor agos yw'r berthynas.
+Mae'n gorfodi'r siaradwr i dreiglo cytsain gyntaf gair bron ym mhob brawddeg, ar ôl arddodiad, ar ôl enw benywaidd, ar ôl rhagenw meddiannol, fel bod pob gair yn cario ôl traed y gair o'i flaen. Mae'n gosod y ferf ar flaen y frawddeg, cyn y gwrthrych a chyn y goddrych, felly rhaid enwi'r weithred cyn dweud pwy sy'n ei gwneud. Ac mae'n mynnu dewis rhwng ti a chi bob tro y cyferchir rhywun, ti i'r cyfarwydd ac i'r plentyn, chi i'r dieithryn ac i'r henuriad, fel na ellir byth gyfarch heb ddewis pa mor agos yw'r berthynas.
 
 ## Loses
 
-Mae'n colli hwylustod i'r dysgwr, oherwydd nid yw geiriadur yn dangos y gair ar ol iddo dreiglo, a rhaid dyfalu'r gwreiddyn cyn dod o hyd iddo. Mae'n colli hefyd wrth i drefn Saesneg, y goddrych o flaen y ferf, lithro i mewn i leferydd y sawl sy'n meddwl yn Saesneg gyntaf, gan wanhau'r drefn ferf gyntaf sy'n nodweddu'r Gymraeg ei hun. A phan gollir yr iaith o gwbl, collir hefyd y gynghanedd, canys ni ellir ei chyfieithu, dim ond ei cholli.
+Mae'n colli hwylustod i'r dysgwr, oherwydd nid yw geiriadur yn dangos y gair ar ôl iddo dreiglo, a rhaid dyfalu'r gwreiddyn cyn dod o hyd iddo. Mae'n colli hefyd wrth i drefn Saesneg, y goddrych o flaen y ferf, lithro i mewn i leferydd y sawl sy'n meddwl yn Saesneg gyntaf, gan wanhau'r drefn ferf gyntaf sy'n nodweddu'r Gymraeg ei hun. A phan gollir yr iaith o gwbl, collir hefyd y gynghanedd, canys ni ellir ei chyfieithu, dim ond ei cholli.
 
 ## Drives
 

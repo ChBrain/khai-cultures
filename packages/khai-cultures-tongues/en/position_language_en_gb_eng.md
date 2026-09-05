@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-09"
+  date: "2026-09-05"
 ---
 
 # Position: the King's English
@@ -22,16 +22,69 @@ Parent group: positions
 
 ## Has
 
-A double vocabulary, Germanic root beside Norman French and Latin loan, that gives near-synonyms at different registers for the same thing (kingly, royal, regal); the free conversion of noun into verb and back without changing a letter (to email, a look, to look); and the phrasal verb, a small verb plus a preposition that multiplies meaning without ever minting a new root (look up, put off, take in). Its thin grammar lets it borrow and coin new words fast.
+One vowel drawn across the middle of the country. Bath, grass, laugh, castle,
+past: north of a line running roughly from the Severn to the Wash they take the
+short vowel of cat, south of it the long vowel of father, and there is no third
+option and no way to avoid the words. No other English carries an internal
+boundary that ordinary, in that many everyday words, with that little ceremony
+around it.
+
+An r that is written and not sounded, in cart and bird and far, and the same r
+grown back where no letter stands for it: law and order, drawing, the idea of
+it. Having lost the consonant where it is spelled, this variety puts it in where
+it is not, so the letter and the sound have come fully apart.
+
+And an accent with a name and no place. Received Pronunciation is the only
+accent in the English-speaking world named after its reception rather than after
+a city, a county or a coast; it is spoken by a small minority and recognised by
+nearly everyone, which is a combination no regional accent achieves. Beside it
+run the two audible rungs the rest of the country is measured on, the dropped h
+in house and hundred, and the swallowed t in water, butter and bottle.
 
 ## Orders
 
-That tense and aspect be marked by a chain of auxiliary verbs rather than a single ending, every time (is doing, has done, will have done); that near enough every noun phrase carry a marked article for definiteness (a, the); that grammatical role be fixed by word order, since case has all but vanished except in the pronoun (I/me, he/him); and that every question and every negative be built with "do" wherever no other auxiliary is present (do you go, I don't know).
+It orders a vowel in bath before a speaker has said anything else, and the words
+that carry it are too common to be steered around. Ask for a glass, mention the
+grass, say last, and the placing is done. It is not a choice made once and
+settled; it is re-declared every few sentences for a lifetime.
+
+It orders the h, at the front of hundreds of ordinary words, and orders the t in
+the middle of hundreds more, and neither can be left unmarked. Every one of
+those is heard, not as a region, but as a station.
+
+And it orders a second register from anyone whose first will not carry them,
+because the same standard that is nobody's local speech is everybody's job
+interview. The holder of this tongue is required to know how they sound, which
+is a demand no other English makes so relentlessly of so many of its speakers.
 
 ## Loses
 
-Grammatical gender on the noun, so it cannot sort a thing into a class the way many tongues still do; and, above all, the line between close and formal address, since "you" now serves both and the old second-person split (thou for the near, you for the distant) is gone. What other tongues carry in the pronoun itself, English must carry instead in tone, title, and the words chosen around it, or else leave uncarried.
+It loses the r it goes on writing, and with it the readiest handle for spelling:
+the letter earns nothing in the ear, so the ear cannot check the page.
+
+It loses the ability to be heard as a place. Scottish English, Welsh English and
+Ulster English are each taken by outsiders as a nation speaking; this one is
+taken as a rank. A speaker from Sunderland or Bristol cannot present a region
+without a class arriving with it, and cannot present the standard without being
+heard to have left the region behind.
+
+And it loses its own north in writing. The written norm was settled on the
+vowels and the vocabulary of the south, so half the country's speech reaches the
+page only as dialect writing, quoted and spelled oddly, never as the plain way
+of putting it.
 
 ## Drives
 
-It trains the ear to listen for standing in accent and word choice rather than in grammar, since the grammar itself gives no peg for it; it habituates the speaker to build tense and aspect through a string of auxiliaries instead of a single suffix; and its thin inflection leaves it open to any foreign word with little resistance, so borrowing becomes a reflex rather than an effort. It shapes a mind alert to nuance of register where the grammar itself stays plain.
+It trains the ear to grade a stranger inside a single sentence, on the strength
+of one vowel and one missing consonant, and to do it before any judgement of
+what was said. Nobody is taught this and few will own it, but everyone raised in
+it can do it.
+
+It drives its holder to hold two ways of speaking and to move between them by
+room, which teaches that speech is a thing you operate rather than a thing you
+have.
+
+And because the accent has already announced the standing, it frees the words to
+deny it. Not bad means excellent, a bit of a problem means a disaster, and I
+might be wrong about this means I am not. Understatement is not modesty here; it
+is what is left to say once the voice has said the rest.
