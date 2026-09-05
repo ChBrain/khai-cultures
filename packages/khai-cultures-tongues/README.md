@@ -65,7 +65,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                                                            | `dsb`        |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                                                               | `en`         |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                                                        | `en`         |
-| `en/position_language_en_gb_eng.md`    | English English: currently the en anchor's material under England's name                                                                             | `en`         |
+| `en/position_language_en_gb_eng.md`    | English English: the variety whose diagnostics are read as a rank rather than as a place                                                             | `en`         |
 | `en/position_language_en_gb_nir.md`    | Ulster English: the rise on the declarative, and the softeners in front of every claim                                                               | `en`         |
 | `en/position_language_en_gb_sct.md`    | Scottish English: standard English grammar held in a mouth that keeps the r, the wh and its own vowel timing                                         | `en`         |
 | `en/position_language_en_gb_wls.md`    | Welsh English: the older tongue's prosody and word order surviving inside the newer one                                                              | `en`         |
@@ -86,7 +86,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                                                     | `fr`         |
 | `fr/position_language_fr_fr.md`        | French Standard French: an arithmetic in its numbers, and a norm with an address                                                                     | `fr`         |
 | `ga/position_language_ga.md`           | Irish: initial mutation, verb-first order, the two verbs to be, and no word for yes                                                                  | `ga`         |
-| `ga/position_language_ga_gb_nir.md`    | Ulster Irish: currently the Irish anchor in three chapters of four, with cha for its own                                                             | `ga`         |
+| `ga/position_language_ga_gb_nir.md`    | Ulster Irish: cha beside ní, the pronoun left standing, and the stress that never moves                                                              | `ga`         |
 | `gallo/position_language_gallo.md`     | Gallo: a langue d'oil of upper Brittany, sister to French rather than daughter, and the only tongue in this package with no code of its own anywhere | `fr-x-gallo` |
 | `gd/position_language_gd.md`           | Scottish Gaelic: possession as a preposition rather than a verb, and no single word for yes                                                          | `gd`         |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                                                    | `gsw`        |
@@ -105,7 +105,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                                                  | `rm`         |
 | `ru/position_language_ru.md`           | Russian as such: aspect on every verb, no article, and no copula in the present                                                                      | `ru`         |
 | `sco/position_language_sco.md`         | Scots: negation fastened to the verb, the Northern Subject Rule, and no settled spelling                                                             | `sco`        |
-| `sco/position_language_sco_gb_nir.md`  | Ulster Scots: currently three quarters of the Scots anchor now sitting above it                                                                      | `sco`        |
+| `sco/position_language_sco_gb_nir.md`  | Ulster Scots: the only Scots with a standing in law, and the written practice built to sit apart from Scotland's                                     | `sco`        |
 | `sl/position_language_sl.md`           | Slovene as such: the dual, and six cases                                                                                                             | `sl`         |
 | `swg/position_language_swg.md`         | Swabian as such: the anchor, and its heartland is in another state                                                                                   | `swg`        |
 | `swg/position_language_swg_allgaeu.md` | Allgäu Swabian: the variety standing on the Swabian/Alemannic line                                                                                   | `swg`        |
