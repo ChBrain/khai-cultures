@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-The belonging to a small place shared, unchosen, by two peoples who read its one story two ways: an [unionist](position_unionism.md) tradition that holds to the Crown and Britain, and a [nationalist](position_nationalism.md) tradition that holds to an Irish identity and the hope of a united Ireland. It carries the plantation that first set the two peoples on this ground, the partition that drew the border around them, and the civic pride, shared across both communities, of the great cranes that once built the greatest ships in the world at Belfast. It carries, too, [the peace](position_the_peace.md) of 1998, the achievement that belongs to neither tradition alone, and [the two tongues](position_the_two_tongues.md), Irish and Ulster-Scots, each a badge held by one side though both live daily life in the same English.
+The belonging to a small place shared, unchosen, by two peoples who read its one story two ways: an [unionist](position_unionism.md) tradition that holds to the Crown and Britain, and a [nationalist](position_nationalism.md) tradition that holds to an Irish identity and the hope of a united Ireland. It carries the plantation that first set the two peoples on this ground, the partition that drew the border around them, and the civic pride, shared across both communities, of the great cranes that once built the greatest ships in the world at Belfast. It carries, too, [the peace](position_the_peace.md) of 1998, the achievement that belongs to neither tradition alone, and [the two tongues](position_the_two_tongues.md), Irish and Ulster-Scots, each a badge held by one side though both live daily life in the same English. And it carries a way of being [British](@chbrain/khai-cultures-united-kingdom/position_culture_britishness.md) that is unlike the other three in one decisive respect: here it is a live question rather than a background fact, held with conviction by one tradition, declined by the other, and settled for both by an agreement that put the right to be either, or both, in writing.
 
 ## Orders
 
@@ -30,7 +30,7 @@ That a name, a street sign, a greeting be read as a flag before it is heard as s
 
 ## Loses
 
-Ground at its own fault-line, for it is one small place that has never fully agreed what it is, unionist or nationalist, British or Irish, Protestant or Catholic, and the marching season or the Gaelic games can still be read as triumph over a neighbour rather than as one community's own life. It loses ground when old grievance is given the last word, when the tongues are turned into political footballs rather than living speech, and it loses ground, too, in the growing number who claim neither label and find no seat set for them at either table.
+Ground at its own fault-line, for it is one small place that has never fully agreed what it is, unionist or nationalist, British or Irish, Protestant or Catholic, and the marching season or the Gaelic games can still be read as triumph over a neighbour rather than as one community's own life. It loses ground when old grievance is given the last word, when the tongues are turned into political footballs rather than living speech, and it loses ground, too, in the growing number who claim neither label and find no seat set for them at either table, in a place where the census now returns three answers to the identity question, [British](@chbrain/khai-cultures-united-kingdom/position_culture_britishness.md), Irish and Northern Irish, and a majority for none of them.
 
 ## Drives
 
