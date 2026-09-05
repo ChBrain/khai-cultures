@@ -43598,6 +43598,71 @@
     },
     {
       "kind": "group",
+      "id": "the_four_nations",
+      "title": "the Four Nations",
+      "description": "The four nations of the UK as a group: one state, four teams, and the games they built to keep it that way.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "groups/the_four_nations"
+      },
+      "references": ["gb_england", "gb_northern_ireland", "gb_scotland", "gb_wales"],
+      "members": [
+        {
+          "file": "persona_the_secretary.md",
+          "kind": "persona",
+          "title": "Persona: the Secretary",
+          "type": "archetype"
+        },
+        {
+          "file": "pitch_four_nations.md",
+          "kind": "pitch",
+          "title": "Pitch: the four-nation key",
+          "taxonomy": "play_the_four_nations.md"
+        },
+        {
+          "file": "play_the_four_nations.md",
+          "kind": "play",
+          "title": "the Four Nations"
+        },
+        {
+          "file": "plot_00_the_games_before_the_rules.md",
+          "kind": "plot",
+          "title": "The Games Before the Rules, before 1860",
+          "taxonomy": "play_the_four_nations.md"
+        },
+        {
+          "file": "plot_01_the_first_international_1872.md",
+          "kind": "plot",
+          "title": "The First International, 1872",
+          "taxonomy": "play_the_four_nations.md"
+        },
+        {
+          "file": "plot_02_the_board_that_writes_the_laws_1886.md",
+          "kind": "plot",
+          "title": "The Board That Writes the Laws, 1886",
+          "taxonomy": "play_the_four_nations.md"
+        },
+        {
+          "file": "plot_03_the_championship_and_the_lions.md",
+          "kind": "plot",
+          "title": "The Championship and the Lions, 1883 to 1984",
+          "taxonomy": "play_the_four_nations.md"
+        },
+        {
+          "file": "plot_99_four_teams_four_rules.md",
+          "kind": "plot",
+          "title": "Four Teams, Four Rules, since 1999",
+          "taxonomy": "play_the_four_nations.md"
+        },
+        {
+          "file": "position_the_four_teams.md",
+          "kind": "position",
+          "title": "the four teams"
+        }
+      ]
+    },
+    {
+      "kind": "group",
       "id": "visegrad",
       "title": "The Visegrad Four",
       "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
