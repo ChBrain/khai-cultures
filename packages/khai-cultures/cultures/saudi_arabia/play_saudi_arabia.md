@@ -51,7 +51,7 @@ stamp:
 - [الحرمان الشريفان](position_alharamayn.md)
 - [الضيافة](position_aldiyafa.md)
 - [البادية](position_albadiya.md)
-- [لسان العرب](position_language_ar_sa.md)
+- [لسان العرب](@chbrain/khai-cultures-tongues/ar/position_language_ar.md)
 
 **Pieces**
 
