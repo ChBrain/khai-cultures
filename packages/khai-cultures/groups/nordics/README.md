@@ -20,7 +20,7 @@ group's `references` from exactly those casts - so the membership can never drif
 from what the play actually links. Its language is **English**, the group's
 logical lingua franca, since the five members share no single tongue.
 
-- **Members:** [Denmark](../../cultures/denmark/play_denmark.md),
+- **Members:** [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md),
   [Sweden](../../cultures/sweden/play_sweden.md),
   [Norway](../../cultures/norway/play_norway.md),
   [Finland](../../cultures/finland/play_finland.md),

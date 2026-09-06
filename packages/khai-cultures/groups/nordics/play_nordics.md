@@ -44,7 +44,7 @@ English.
 
 **Members**
 
-- [Denmark](../../cultures/denmark/play_denmark.md)
+- [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md)
 - [Sweden](../../cultures/sweden/play_sweden.md)
 - [Norway](../../cultures/norway/play_norway.md)
 - [Finland](../../cultures/finland/play_finland.md)
@@ -61,7 +61,7 @@ English.
 **Cast from the members**
 
 - [det danske sprog](@chbrain/khai-cultures-tongues/da/position_language_da.md)
-- [Janteloven](../../cultures/denmark/position_janteloven.md)
+- [Janteloven](@chbrain/khai-cultures-denmark/position_janteloven.md)
 
 **Pitches**
 

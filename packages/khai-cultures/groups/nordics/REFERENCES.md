@@ -15,13 +15,13 @@ together with their associated territories. The membership recorded in the
 registry is **build-derived** from the member plays this group casts, not authored
 by hand.
 
-| ISO | Country | Member culture                                    |
-| --- | ------- | ------------------------------------------------- |
-| DK  | Denmark | [denmark](../../cultures/denmark/play_denmark.md) |
-| SE  | Sweden  | [sweden](../../cultures/sweden/play_sweden.md)    |
-| NO  | Norway  | [norway](../../cultures/norway/play_norway.md)    |
-| FI  | Finland | [finland](../../cultures/finland/play_finland.md) |
-| IS  | Iceland | [iceland](../../cultures/iceland/play_iceland.md) |
+| ISO | Country | Member culture                                            |
+| --- | ------- | --------------------------------------------------------- |
+| DK  | Denmark | [denmark](@chbrain/khai-cultures-denmark/play_denmark.md) |
+| SE  | Sweden  | [sweden](../../cultures/sweden/play_sweden.md)            |
+| NO  | Norway  | [norway](../../cultures/norway/play_norway.md)            |
+| FI  | Finland | [finland](../../cultures/finland/play_finland.md)         |
+| IS  | Iceland | [iceland](../../cultures/iceland/play_iceland.md)         |
 
 The grouping is bound by a shared social and economic model and a long history of
 cooperation, formalised in bodies such as the Nordic Council (1952) and the Nordic
