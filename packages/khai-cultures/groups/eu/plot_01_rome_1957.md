@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-A decade after a war that left Europe in ruins, six nations look for a way to make another war between them impossible. In 1951 they pool their coal and steel - the very sinews of war - in a single community, so that [France](@chbrain/khai-cultures-france/play_france.md) and [Germany](@chbrain/khai-cultures-germany/play_germany.md) can never again arm against each other unseen. The experiment works, and the Benelux customs union next door shows that dropping borders can make nations richer, not weaker.
+A crate of Ruhr coal reaches a steelworks in Lorraine, and for the first time in living memory nobody in either place had to ask a government whether it could. A decade after a war that left the continent in ruins, the men who dig the one and smelt the other are the first people whose working day is changed. In 1951 they pool their coal and steel - the very sinews of war - in a single community, so that [France](@chbrain/khai-cultures-france/play_france.md) and [Germany](@chbrain/khai-cultures-germany/play_germany.md) can never again arm against each other unseen. The experiment works, and the Benelux customs union next door shows that dropping borders can make nations richer, not weaker.
 
 ## Action
 

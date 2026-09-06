@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-With the Cold War over, the nations of the East, freed from Soviet rule, ask to come home to Europe, and the Union prepares its largest enlargement ever - a reunification of the continent that will also test how much weight the Union can carry.
+A plumber in Katowice, a nurse in Riga and a builder in Vilnius each know somebody who has already gone west without papers and is working without protection. What accession offers them is not a flag; it is the difference between that and a contract. With the Cold War over, the nations of the East ask to come home to Europe, and the Union prepares its largest enlargement ever - which will also test how much weight it can carry.
 
 ## Action
 

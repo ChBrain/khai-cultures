@@ -57,19 +57,39 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 - [Romania](../../cultures/romania/play_romania.md) (2007)
 - [Croatia](../../cultures/croatia/play_croatia.md) (2013)
 
+**Personas**
+
+- [the Returner](persona_the_returner.md)
+
+**Positions**
+
+- [the licence to move](position_the_licence_to_move.md)
+
 ## Triggers
 
-**The single market**
+**[Plot 0: The Licence to Teach Anywhere, from 1088](plot_00_the_licence_to_teach_anywhere.md)**
 
-The four freedoms - the free movement of goods, services, capital, and people - bind the members' economies into one market, the core that everything else is built around.
+A boy walks from Swabia to Bologna without papers because there is nobody to ask him for any, and passes an examination that entitles him to teach anywhere; for four hundred years [a qualification travels with the person holding it](position_the_licence_to_move.md), with no state behind it, until the vernaculars rise and the borders harden and it has to be rebuilt by treaty.
 
-**The shared law and institutions**
+**[Plot 1: The Treaty of Rome 1957](plot_01_rome_1957.md)**
 
-A common body of law stands above the member states, made and judged by shared institutions - the Commission, the Parliament, the Court of Justice - with a single currency, the euro, for most of them.
+Coal crosses from the Ruhr to Lorraine without a government being asked, and six nations turn the arrangement into a common market with a promise of ever-closer union in its preamble: a market built to do the work of a peace treaty.
 
-**Ever-closer union**
+**[Plot 2: The Widening](plot_02_the_widening.md)**
 
-The founding aspiration and the open door carried the Union from six members to twenty-eight and from a common market to a Union with its own citizenship, and keep alive the perennial argument over how much closer it should go.
+The nations on the edge of the six can see what is happening inside it, and come in wave by wave - the north in 1973, the post-dictatorship south in 1981 and 1986, the neutrals in 1995 - each accession anchoring a young democracy as much as an economy.
+
+**[Plot 3: Maastricht and the Single Currency](plot_03_maastricht.md)**
+
+A haulier's folder of currencies and customs forms is the problem; a citizenship, a currency and the erasure of the border posts are the answer, and the community becomes a Union with a leap in integration no sovereign states had made before.
+
+**[Plot 4: The Big Bang and the Strains](plot_04_big_bang_and_strains.md)**
+
+Ten nations join at once in 2004 and three more follow, reuniting the continent - and then the euro crisis, 2015, and the rule-of-law clashes arrive, and the first member ever to leave walks out.
+
+**[Plot 99: The Returners, since 1987](plot_99_the_returners.md)**
+
+An exchange scheme named after a wandering scholar moves fifteen million people and produces [a generation](persona_the_returner.md) for whom the Union is not a policy but a memory of being twenty - while the towns their neighbours left do not experience [the same right](position_the_licence_to_move.md) as a freedom at all.
 
 ## Stakes
 
