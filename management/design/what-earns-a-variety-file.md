@@ -158,6 +158,78 @@ rather than isolated spellings; a stated target region, because `gsw` is far too
 broad to imply one voice; and `review: "native"` until a competent reader confirms
 the prose holds together.
 
+### Bornholmsk — earns a file, and the spine had to be corrected
+
+Researched before writing, on the rule that a variety this house cannot source is
+a variety it does not write. The research cleared it, and refuted half of what the
+requester had assumed, which is the reason for asking.
+
+**Three genders: confirmed.** Bornholmsk retains masculine, feminine and neuter
+where Standard Danish merged the first two into a common gender, and the agreement
+is morphologically visible in articles, adjectives, past participles and
+possessive pronouns rather than being a lexical noun class. The digital revision of
+the Thomsen and Wimmer grammar states the three genders are still completely
+preserved.
+
+|           | Bornholmsk  | Standard Danish |
+| --------- | ----------- | --------------- |
+| a boy     | `ejn horra` | `en dreng`      |
+| a girl    | `en peia`   | `en pige`       |
+| a house   | `eð hu:z`   | `et hus`        |
+| the boy   | `horrijn`   | `drengen`       |
+| the girl  | `peian`     | `pigen`         |
+| the house | `hu:zeð`    | `huset`         |
+
+That is a paradigmatic contrast rather than a single phonological minimal pair,
+and the research could not find a tightly controlled pair proving all three
+genders in one line. **The gap is recorded rather than filled**, which is the
+whole point of asking.
+
+**The stød claim: half right, and the wrong half was the interesting one.** The
+requester proposed that Bornholmsk is Danish without the stød and with a Swedish
+style pitch accent instead, and wanted that as the file's spine. No stød is
+**confirmed**. Pitch accent is **refuted**: Derczynski and Kjeldsen describe a
+special intonation and specify that neither glottal stop nor pitch accent is used.
+
+So the defensible line is a contrast by absence plus a distinct intonational
+system, and not an alignment with Swedish. It is still an excellent spine against
+a `da` anchor that names the stød as one of Danish's two defining possessions, but
+it is a narrower claim than the one that was nearly written. Had this been written
+from memory, the file would have asserted a tonal system that the literature
+denies.
+
+**Writability: the third case, not the middle one.** There is no official or
+normative orthography, and there is not orthographic emptiness either: there is an
+established but variable dialect-orthography tradition, and the Bornholmsk Ordbog
+project at the University of Copenhagen maintains a coherent current editorial
+convention for its headwords and grammar. That convention is what a file follows,
+recorded in provenance as an editorial convention and never as a standard.
+
+Continuous attested prose exists and is reachable, which is what clears the
+middle failure:
+
+- J. P. Kuhre, _Borrinjholmska Sansåger: Bornholmske folkeæventyr og dyrefabler_,
+  Danmarks Folkeminder 45, Schønberg, Copenhagen, 1938 — consistently spelled and
+  translated sentence by sentence, giving roughly a thousand aligned
+  Bornholmsk-Danish sentence pairs. This is the best source in the set, because
+  alignment is what lets a writer check rather than guess.
+- Otto J. Lund, _Bråfolk å Stommene_, Eget Forlag, Aakirkeby, 1941 — long prose
+  fiction, about 35,000 tokens digitised.
+- Otto J. Lund, _Vår Larkan ryggar_, Eget Forlag, Aakirkeby, 1935, pp. 5–139.
+- Otto J. Lund, _Lyngblomster_, Henry Andersen, Aakirkeby, 1930 — verse.
+
+**So it ships with `review: "native"`, and the flag means more here than usual.**
+The research is explicit that sourceability is enough to describe the variety and
+to quote attributed samples, and not enough to generate new native-sounding prose
+without a competent reader. That is exactly what the flag says and exactly what it
+does not excuse: written from the sources, not from the ear.
+
+**One thing for the Loses.** The speaker base has shifted hard toward Standard
+Danish over roughly the last two decades and the corpus material is largely from
+speakers aged sixty and above. The variety is living and endangered at once, and
+the file should say so rather than write in a present tense the island no longer
+fully supports.
+
 ## A language with no form to write its family in
 
 North Frisian forced this and the answer generalises. It is nine dialects across an
