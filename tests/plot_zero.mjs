@@ -35,11 +35,30 @@
 import { readdirSync, existsSync } from "node:fs";
 import { pathToFileURL } from "node:url";
 import { cultureIds } from "./company_coverage.mjs";
-import { cultureDir, pathCulture, authoredCultures, relinkNote } from "./culture_sources.mjs";
+import {
+  cultureDir,
+  pathCulture,
+  authoredCultures,
+  relinkNote,
+  cultureUnits,
+  notCultureNote,
+} from "./culture_sources.mjs";
 
+// An id with no directory used to answer TRUE here, which is a wall reporting a
+// marker it never looked for. It went unnoticed because nothing unresolvable
+// reached it until a migrated group did, and then the gate printed "each
+// spanning origin to present" about a directory it had not opened. Callers now
+// hand this only real culture ids - see the gate below - so an unresolvable one
+// is a fault in the caller and says so instead of passing quietly. Fail closed,
+// loudly, and never in the direction of green.
 const has = (id, prefix) => {
   const dir = cultureDir(id);
-  if (!dir || !existsSync(dir)) return true;
+  if (!dir || !existsSync(dir))
+    throw new Error(
+      `plot_zero: "${id}" has no culture directory. ` +
+        `Only culture ids reach here; a unit that is not a culture must be split ` +
+        `off with cultureUnits() before it is asked about plot markers.`,
+    );
   return readdirSync(dir).some((f) => f.startsWith(prefix));
 };
 
@@ -122,12 +141,22 @@ function gate(base, head) {
     return 0;
   }
   if (note) console.log(note);
-  const offenders = touched
+  // A migrated group is a unit and not a culture, and it carries plot files, so
+  // it reaches this filter where the others let it through on a name. See
+  // management/orders/order_a_group_is_not_a_culture.md.
+  const { cultures: charged, notCultures } = cultureUnits(touched);
+  const skipped = notCultureNote(notCultures);
+  if (skipped) console.log(skipped);
+  if (!charged.length) {
+    console.log("Plot 0: no culture's plot line authored.");
+    return 0;
+  }
+  const offenders = charged
     .map((id) => [id, !hasOrigin(id), !hasPresent(id)])
     .filter(([, o, p]) => o || p);
   if (!offenders.length) {
     console.log(
-      `Plot 0 OK: ${touched.length} authored plot line(s), each spanning origin to present.`,
+      `Plot 0 OK: ${charged.length} authored plot line(s), each spanning origin to present.`,
     );
     return 0;
   }

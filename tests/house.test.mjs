@@ -27,7 +27,15 @@ import {
 import { standalone } from "./tongues_standalone.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
-import { cultures, productions, migratedGroups, MONOLITH_DIR } from "./culture_sources.mjs";
+import {
+  cultures,
+  productions,
+  migratedGroups,
+  cultureUnits,
+  notCultureNote,
+  MONOLITH_DIR,
+} from "./culture_sources.mjs";
+import { hasOrigin } from "./plot_zero.mjs";
 import { findings as productionFindings, umbrellaFindings } from "./production_packages.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -263,6 +271,45 @@ describe("Cultures house: the company-coverage waivers stay honest", () => {
       for (const key of ["dead", "waived", "superseded", "company"])
         expect(Array.isArray(c[key]), `coverage("${id}").${key} must be an array`).toBe(true);
     }
+  });
+});
+
+// A unit is anything the house packs; a culture is a unit the count is taken
+// over, and a migrated group is the first thing that is one without being the
+// other. Every content wall used to decide what to do about that separately,
+// which is to say by accident: one crashed, two reported the group as a culture
+// they had checked, one never saw it. The answer is one function now, and these
+// hold it there. See management/orders/order_a_group_is_not_a_culture.md.
+describe("Cultures house: a group is a unit and not a culture", () => {
+  it("cultureUnits splits a migrated group off from the cultures", () => {
+    const groups = migratedGroups().map((g) => g.id);
+    const real = coveredCultureIds().slice(0, 2);
+    const { cultures: kept, notCultures } = cultureUnits([...real, ...groups]);
+    expect(kept).toEqual(real);
+    expect(notCultures).toEqual(groups);
+  });
+
+  it("no migrated group is in the culture list, so none can move the count", () => {
+    const ids = new Set(coveredCultureIds());
+    const leaked = migratedGroups()
+      .map((g) => g.id)
+      .filter((id) => ids.has(id));
+    expect(leaked, `groups counted as cultures: ${leaked.join(", ")}`).toEqual([]);
+  });
+
+  it("notCultureNote is silent for none and names them otherwise", () => {
+    expect(notCultureNote([])).toBeNull();
+    const line = notCultureNote(["@scope/a", "@scope/b"]);
+    expect(line).toContain("2 authored unit(s) are not cultures");
+    expect(line).toContain("@scope/a, @scope/b");
+  });
+
+  // The fail-open this order was written to remove: an id with no directory
+  // used to answer "yes, it has plot_00", so the wall reported a marker it
+  // never looked for.
+  it("plot_zero refuses an id that is not a culture instead of passing it", () => {
+    expect(() => hasOrigin("no_such_culture_at_all")).toThrow(/no culture directory/);
+    for (const g of migratedGroups()) expect(() => hasOrigin(g.id)).toThrow(/no culture directory/);
   });
 });
 

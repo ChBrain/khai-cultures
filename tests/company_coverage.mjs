@@ -38,6 +38,8 @@ import {
   cultureIds as sourceCultureIds,
   touchedCultures as sourceTouchedCultures,
   authoredCultures,
+  cultureUnits,
+  notCultureNote,
   relinkNote,
 } from "./culture_sources.mjs";
 
@@ -261,21 +263,13 @@ function gate(base, head) {
     return 0;
   }
   if (note) console.log(note);
-  // `authoredCultures` answers in UNITS, and a migrated group is a unit. The
-  // culture list deliberately is not: see the note in culture_sources.mjs, a
-  // migrated group is a unit and not a culture, because the minor IS the
-  // culture count and a group must not move it. So the two lists disagree by
-  // design, and this wall reads cultures. Skip what it does not hold - and say
-  // which, because an exemption this wall applies silently is the same fault
-  // `relinkNote` exists to prevent.
-  const known = new Set(cultureIds());
-  const notCultures = touched.filter((id) => !known.has(id));
-  const charged = touched.filter((id) => known.has(id));
-  if (notCultures.length)
-    console.log(
-      `  ${notCultures.length} authored unit(s) are not cultures and are not charged ` +
-        `by this wall: ${notCultures.join(", ")}`,
-    );
+  // A migrated group is a unit and not a culture, and this wall reads cultures.
+  // The split and the line that announces it are shared, so the four content
+  // walls cannot answer it four different ways again. See
+  // management/orders/order_a_group_is_not_a_culture.md.
+  const { cultures: charged, notCultures } = cultureUnits(touched);
+  const skipped = notCultureNote(notCultures);
+  if (skipped) console.log(skipped);
   if (!charged.length) {
     console.log("Company coverage: no culture authored, nothing to hold to zero.");
     return 0;

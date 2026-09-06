@@ -29,6 +29,8 @@ import {
   isMigrated,
   productionName,
   authoredCultures,
+  cultureUnits,
+  notCultureNote,
   relinkNote,
 } from "./culture_sources.mjs";
 
@@ -144,12 +146,24 @@ function gate(base, head) {
     return 0;
   }
   if (note) console.log(note);
-  const seen = touched.map((id) => [id, conformance(id)]);
+  // A migrated group is a unit and not a culture. `conformance()` answered it
+  // with an empty verdict - correctly, since a group has no parent ISO code to
+  // nest under - and the count below then reported a culture this wall had
+  // checked, which it had not. See
+  // management/orders/order_a_group_is_not_a_culture.md.
+  const { cultures: charged, notCultures } = cultureUnits(touched);
+  const skipped = notCultureNote(notCultures);
+  if (skipped) console.log(skipped);
+  if (!charged.length) {
+    console.log("Sub-national conformance: no culture authored.");
+    return 0;
+  }
+  const seen = charged.map((id) => [id, conformance(id)]);
   for (const [id, { advisory }] of seen)
     for (const line of advisory) console.log(`::notice::${id}: ${line}`);
   const offenders = seen.filter(([, c]) => c.blocking.length);
   if (!offenders.length) {
-    console.log(`Sub-national conformance OK: ${touched.length} authored culture(s).`);
+    console.log(`Sub-national conformance OK: ${charged.length} authored culture(s).`);
     return 0;
   }
   console.error(

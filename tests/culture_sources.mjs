@@ -333,6 +333,48 @@ export function authoredCultures(base, head, workspace = WORKSPACE) {
   return { authored, spared };
 }
 
+/**
+ * Split what `authoredCultures` answered into the cultures and the rest.
+ *
+ * The two lists disagree BY DESIGN and nothing used to join them. A unit is
+ * anything the house packs; a culture is a unit the count is taken over. A
+ * migrated group is a unit and not a culture - see the note at the top of this
+ * file - because the umbrella's minor IS the culture count and a group must not
+ * move it by existing. So `authoredCultures` answers `@chbrain/khai-cultures-
+ * nordics` and `cultureIds()` has never heard of it.
+ *
+ * Every content wall then had to decide what to do about that, and each decided
+ * separately, which is to say by accident. One crashed. Two counted the group as
+ * a culture they had checked and checked nothing. One never saw it at all. The
+ * question "is this unit a culture" has one answer and it is here, so a wall
+ * asks it once and the four cannot drift apart again.
+ *
+ * See management/orders/order_a_group_is_not_a_culture.md.
+ */
+export function cultureUnits(ids, workspace = WORKSPACE) {
+  const known = new Set(cultureIds(workspace));
+  const list = [...ids];
+  return {
+    cultures: list.filter((id) => known.has(id)),
+    notCultures: list.filter((id) => !known.has(id)),
+  };
+}
+
+/**
+ * One line for a gate to print, so a unit it declined to charge is never silent.
+ *
+ * The sibling of `relinkNote`, and for the same reason. A wall that quietly
+ * drops an input is indistinguishable from a wall that checked it and found
+ * nothing, and the second is what the reader will assume.
+ */
+export function notCultureNote(notCultures) {
+  if (!notCultures.length) return null;
+  return (
+    `  ${notCultures.length} authored unit(s) are not cultures and are not charged ` +
+    `by this wall: ${notCultures.join(", ")}`
+  );
+}
+
 /** One line for a gate to print, so an exemption is never silent. */
 export function relinkNote(spared) {
   if (!spared.length) return null;
