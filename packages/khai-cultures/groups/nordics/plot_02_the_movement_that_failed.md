@@ -33,7 +33,7 @@ What survives is the observation the students started from. The three languages 
 ## Stage
 
 - [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md): the country that went to the war expecting company and lost a third of itself without it.
-- [Sweden](../../cultures/sweden/play_sweden.md): the country that stayed out, and has been the north's cautious centre ever since.
+- [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md): the country that stayed out, and has been the north's cautious centre ever since.
 - [Norway](../../cultures/norway/play_norway.md): in union with Sweden at the time, and with a language question of its own that the movement could not help with.
 - [det danske sprog](@chbrain/khai-cultures-tongues/da/position_language_da.md): the one the other two can read most easily and understand least easily, which is the joke the north has made about it since.
 
