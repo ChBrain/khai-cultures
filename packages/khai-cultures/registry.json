@@ -42907,15 +42907,50 @@
       "references": ["estonia", "latvia", "lithuania"],
       "members": [
         {
+          "file": "persona_the_singer.md",
+          "kind": "persona",
+          "title": "Persona: the Singer",
+          "type": "archetype"
+        },
+        {
           "file": "play_baltics.md",
           "kind": "play",
           "title": "The Baltics"
         },
         {
-          "file": "plot_01_baltijos_kelias_1989.md",
+          "file": "plot_00_the_song_grounds.md",
+          "kind": "plot",
+          "title": "The Song Grounds, from 1869",
+          "taxonomy": "play_baltics.md"
+        },
+        {
+          "file": "plot_01_the_hour_to_pack.md",
+          "kind": "plot",
+          "title": "An Hour to Pack, 1941 and 1949",
+          "taxonomy": "play_baltics.md"
+        },
+        {
+          "file": "plot_02_the_night_song_festivals_1988.md",
+          "kind": "plot",
+          "title": "The Night Song Festivals, 1987 to 1988",
+          "taxonomy": "play_baltics.md"
+        },
+        {
+          "file": "plot_03_baltijos_kelias_1989.md",
           "kind": "plot",
           "title": "The Baltic Way, 1989",
           "taxonomy": "play_baltics.md"
+        },
+        {
+          "file": "plot_99_the_last_cord.md",
+          "kind": "plot",
+          "title": "The Last Cord, February 2025",
+          "taxonomy": "play_baltics.md"
+        },
+        {
+          "file": "position_the_festival.md",
+          "kind": "position",
+          "title": "the festival"
         }
       ]
     },

@@ -22,8 +22,15 @@ actually links.
   [Latvia](../../cultures/latvia/play_latvia.md),
   [Lithuania](../../cultures/lithuania/play_lithuania.md).
 - **Kind:** `group`.
-- **Shared plot:** [the Baltic Way, 1989](plot_01_baltijos_kelias_1989.md), the
-  two-million-strong human chain across all three nations.
+- **The plot line:**
+  - [the Song Grounds, from 1869](plot_00_the_song_grounds.md) - the origin, outside the chronology: three peoples each independently discovering that a choir counts a nation.
+  - [an Hour to Pack, 1941 and 1949](plot_01_the_hour_to_pack.md) - the deportations that welded three unlike nations into a family, by the same hand on the same dates.
+  - [the Night Song Festivals, 1987 to 1988](plot_02_the_night_song_festivals_1988.md) - a quarter of a nation in one field, using a century-old instrument.
+  - [the Baltic Way, 1989](plot_03_baltijos_kelias_1989.md) - the two-million-strong human chain across all three nations.
+  - [the Last Cord, February 2025](plot_99_the_last_cord.md) - the present: the electricity clock cut in one weekend, and the question of who is inside the nation left open.
+- **Its own Company:** [the festival](position_the_festival.md) and
+  [the Singer](persona_the_singer.md), both belonging to the space between the
+  members rather than to any of them.
 
 ## Provenance
 
