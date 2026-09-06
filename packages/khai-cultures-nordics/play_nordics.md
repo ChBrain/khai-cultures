@@ -87,7 +87,7 @@ Five countries agree that their people may cross, live and work among each other
 
 **[Plot 99: The Meeting Switches to English, since 1990](plot_99_the_meeting_switches_to_english.md)**
 
-The young of three countries that could always follow each other test worse at it than their parents and better at English, and the room, out of courtesy, changes language.
+The young of three countries that could always follow each other test worse at it than their parents and better at English, and the room, out of courtesy, changes language; [the Interpreter](persona_the_interpreter.md), the only one at the table who was taught the neighbour tongue rather than given it, is the only one who feels it as a loss.
 
 ## Stakes
 
