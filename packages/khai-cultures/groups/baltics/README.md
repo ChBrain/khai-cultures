@@ -18,7 +18,7 @@ casts the member plays, and the registry build derives the group's `references`
 from exactly those casts, so the membership can never drift from what the play
 actually links.
 
-- **Members:** [Estonia](../../cultures/estonia/play_estonia.md),
+- **Members:** [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md),
   [Latvia](../../cultures/latvia/play_latvia.md),
   [Lithuania](../../cultures/lithuania/play_lithuania.md).
 - **Kind:** `group`.

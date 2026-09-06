@@ -67,6 +67,10 @@ Väike soomeugri rahvas Läänemere ääres, kelle keel ei kuulu indoeuroopa per
 
 ## Triggers
 
+**[Plot 0: Maarahvas ja hiied, enne kirja](plot_00_maarahvas_ja_hiied.md)**
+
+Enne sõna "eestlane" nimetab rahvas end maarahvaks; keel on liiga võõras naabrite omadele, et lahustuda, mälu hoitakse [regilaulus ja kandles](piece_kannel.md), ja pühakojad on [metsas](process_metsas_kaimine.md), kuhu paruni käsk ei ulatu.
+
 **[Plot 1: Ärkamisaeg](plot_01_arkamisaeg.md)**
 
 19. sajandi teisel poolel ärkab maarahvas: [Lydia Koidula](persona_koidula.md) teeb talupojakeelest luule ja teatri, esimene [laulupidu](process_laulupidu.md) 1869. aastal äratab rahva, kes pole veel saanud ei riiki ega täit häält, [oma keele](@chbrain/khai-cultures-tongues/et/position_language_et.md) kaudu.
@@ -82,6 +86,18 @@ Väike soomeugri rahvas Läänemere ääres, kelle keel ei kuulu indoeuroopa per
 **[Plot 4: Laulev revolutsioon](plot_04_laulev_revolutsioon.md)**
 
 1988-1991 koguneb rahvas öölaulupidudele [Tallinna](place_tallinn.md) lauluväljakule, Balti kett 1989 seob kolm rahvast, ja iseseisvus taastatakse lauluga, ilma verd valamata.
+
+**[Plot 5: Põhjala poole, 1991-2001](plot_05_pohjala_poole_1991_2001.md)**
+
+[Lennart Meri](persona_meri.md) vaidleb oma maa geograafia ümber: okupatsioon on see, mis nendega tehti, mitte see, mis nad on, ja [sild üle lahe](position_soome_sild.md), mis algas soome telekast, saab Eesti tegelikuks suunaks - hinnaga, et kolmest saab kolm suunda.
+
+**[Plot 6: Tiigrihüpe ja pronksiöö, 1996-2007](plot_06_tiigrihupe_ja_pronksioo.md)**
+
+[Ilves](persona_ilves.md) ja teised panevad kõik koolid võrku, [ID-kaart](piece_id_kaart.md) teeb [e-Eesti](position_e_eesti.md) päris, ja siis põleb pronkssõduri pärast kaks ööd ja kolm nädalat kestab rünnak, mis ei tulista: riik, mis mahub taskusse, avastab, et taskut saab tühjaks teha.
+
+**[Plot 99: Praam ja mets](plot_99_praam_ja_mets.md)**
+
+[Kristjan](persona_kristjan.md) töötab nädala Helsingis ja tuleb reedel koju, digiriik on kolmkümmend aastat vana ja vajab ülalpidamist, piiri taga käib sõda - ja sügisel läheb ta ikka [metsa](process_metsas_kaimine.md), ainsa asja juurde, mis pole muutunud.
 
 ## Stakes
 
