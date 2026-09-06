@@ -76,6 +76,38 @@ from the sources, not from the ear. And its Loses has to say that the speaker ba
 has shifted hard to Standard Danish over about two decades and the corpus is
 largely speakers aged sixty and up — living and endangered at once.
 
+## What the renderer answered
+
+The separation was put to the website side before any entry shipped. All four
+questions came back decided, and one settles something this record has carried
+unresolved since France.
+
+**Paintability is decided by geometry and never by ISO** -
+`paintable = entry.kind === "culture" && entry.geo != null`. That generalises _no
+geo, no fill_ into something better than the house had, and produces a row nobody
+here had thought about: **a culture can hold an ISO code and still not be drawn.**
+An ISO code buys nothing on the map. Listing without painting is confirmed cheap
+and first-class, with no fill, no polygon and no centroid marker, which would
+pretend to a territory the culture does not have.
+
+**The geometry build belongs to the website**, which closes a question this record
+has been carrying: it has long said the geo build script is worth writing before
+France rather than after, without saying whose it is. The package declares
+identity, containment, a selector and source metadata; the website reads a pinned
+release into immutable artifacts with a provenance manifest, and the browser never
+resolves upstream geography live. So the house ships no geometry and now also
+ships no fetch.
+
+**The QID goes in the entry as an identifier and never a payload**, with the
+condition the house would have asked for anyway: a page must render if Wikidata is
+unavailable. They explicitly rejected reverse-resolving by name or ISO, which is
+what a consumer reaches for when the id is missing and is ambiguous exactly where
+this registry is getting more culturally accurate.
+
+**And one requirement came back the other way:** an untyped `parents` array lets a
+page render two parents and not label them, so the registry emits the relation
+typed as `host` and `kin`. That is recorded in the order rather than here.
+
 ## What is still open
 
 The research declined to establish three things and said so, which is the answer

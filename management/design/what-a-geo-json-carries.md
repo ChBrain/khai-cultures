@@ -171,6 +171,71 @@ Occitania is unaffected by any of this and stays undrawable: its boundary is an
 isogloss and no namespace at any depth fixes that. The rule from the section above
 holds unchanged — label it, list its members, record why, and do not draw.
 
+## What the renderer answered
+
+The three-way separation above was put to the website side before any entry
+shipped, with four questions. All four came back decided, and one of them settles
+a question this document has been carrying unresolved since France.
+
+**Paintability is decided by geometry and never by ISO.** The renderer's rule is
+one line and it is the right one:
+
+```
+paintable = entry.kind === "culture" && entry.geo != null
+```
+
+That generalises _no geo, no fill_ into something better than the house had.
+Listing without painting is confirmed cheap and a first-class state rather than a
+special page type, so a mapless culture appears in search, listings, indexes and
+routing, has an ordinary page, appears under each parent, and gets no fill, no
+clickable polygon, and **no centroid marker**, which would pretend to a territory
+it does not have. The resulting table has a row this house had not thought about:
+
+| entry                        | listed | page | fill    |
+| ---------------------------- | ------ | ---- | ------- |
+| group                        | yes    | yes  | no      |
+| culture, ISO, geometry       | yes    | yes  | yes     |
+| culture, no ISO, geometry    | yes    | yes  | **yes** |
+| culture, ISO, no geometry    | yes    | yes  | **no**  |
+| culture, no ISO, no geometry | yes    | yes  | no      |
+
+The third row is Bornholm and the fourth is the one worth noticing: **an ISO code
+buys nothing on the map.** A culture can hold a code and still not be drawn, which
+is exactly the case this document already described as _do not draw_ for Occitania
+and had been treating as an exception rather than as a row in a table.
+
+**The geometry build belongs to the website, and this closes an open question.**
+This document has said the build script for geo sources is worth writing before
+France rather than after, without saying whose it is. It is the website's. The
+package declares identity, containment, an optional selector and the source
+metadata; the website build reads a **pinned** release, extracts, validates,
+simplifies and stores immutable artifacts with a provenance manifest, and the
+browser touches only the built artifact and never resolves upstream geography
+live. Five failure modes named on their side and all five are real: a published
+package changing silently when an upstream dataset moves, browser-side fetch
+failures becoming map failures, attribution becoming an accidental client
+dependency, raw geometry shipped to every visitor, and the two sides releasing
+different understandings of one boundary.
+
+So the licensing instinct in the section above holds and gets sharper. **The house
+ships no geometry, and now also ships no fetch**: it ships a selector, and the
+consumer owns the pin.
+
+**The QID goes in the registry entry, as an identifier and never a payload.**
+Confirmed from the other side, with the condition the house would have asked for
+anyway: a culture page must resolve, navigate and render if Wikidata is
+unavailable or changes. Enrichment is optional and lives on the consumer side
+along with freshness, language selection and display. The alternative they
+explicitly rejected is worth recording, because it is the thing a consumer reaches
+for when the id is missing: reverse-resolving by name or by ISO code, both of
+which are ambiguous exactly where this registry is becoming more culturally
+accurate.
+
+**And one requirement came back the other way**, recorded in
+`../orders/order_a_culture_without_a_map.md`: an untyped `parents` array lets a
+page render two parents and not label them, so the registry emits the relation
+typed as `host` and `kin`.
+
 ## What this costs, and where the cost actually is
 
 Per country, not per culture: one level decision, sometimes one source join.
