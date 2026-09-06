@@ -57,10 +57,10 @@ export const WAIVERS_FILE = "coverage-waivers.json";
 
 // Held one way (by a persona) or keying the run: never fielded in a scene.
 const ONE_WAY = ["pitch_", "position_language_", "position_culture_", "plan_"];
-const isOneWay = (base) => ONE_WAY.some((p) => base.startsWith(p));
+export const isOneWay = (base) => ONE_WAY.some((p) => base.startsWith(p));
 
 /** Basenames of every relative markdown link target in a block of text. */
-function linkBasenames(text) {
+export function linkBasenames(text) {
   const out = [];
   const re = /\]\(([^()\s]+)\)/g;
   let m;
@@ -73,7 +73,7 @@ function linkBasenames(text) {
 }
 
 /** The body of one `## Section` of a markdown document. */
-function section(text, name) {
+export function section(text, name) {
   const re = new RegExp(`^## ${name}[ \\t]*$`, "m");
   const m = re.exec(text);
   if (!m) return null;
