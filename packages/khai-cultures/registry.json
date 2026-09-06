@@ -43573,8 +43573,8 @@
       "title": "The Nordics",
       "description": "The Nordics as a group: how a church made five countries read, and what they could then say to each other.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/nordics"
+        "package": "@chbrain/khai-cultures-nordics",
+        "path": ""
       },
       "references": ["denmark", "finland", "iceland", "norway", "sweden"],
       "members": [
