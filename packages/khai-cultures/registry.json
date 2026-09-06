@@ -12780,8 +12780,8 @@
       "title": "Denmark",
       "description": "Denmark staged as a culture: a flat, trusting land where no one stands above and the good-enough wins.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/denmark"
+        "package": "@chbrain/khai-cultures-denmark",
+        "path": ""
       },
       "iso": "DK",
       "members": [
@@ -12857,6 +12857,12 @@
           "title": "Denmark"
         },
         {
+          "file": "plot_00_danevirke_og_baelterne.md",
+          "kind": "plot",
+          "title": "The Danevirke and the Belts, from 500",
+          "taxonomy": "play_denmark.md"
+        },
+        {
           "file": "plot_01_jelling.md",
           "kind": "plot",
           "title": "The Jelling Stones c. 965",
@@ -12878,6 +12884,24 @@
           "file": "plot_04_besaettelsen_1943.md",
           "kind": "plot",
           "title": "The Occupation and the Rescue of the Jews, 1943",
+          "taxonomy": "play_denmark.md"
+        },
+        {
+          "file": "plot_05_kvinderne_og_vuggestuerne.md",
+          "kind": "plot",
+          "title": "The Women and the Nurseries, 1960 to 1975",
+          "taxonomy": "play_denmark.md"
+        },
+        {
+          "file": "plot_06_du_reformen.md",
+          "kind": "plot",
+          "title": "The Du Reform, around 1970",
+          "taxonomy": "play_denmark.md"
+        },
+        {
+          "file": "plot_99_lyset_klokken_tre.md",
+          "kind": "plot",
+          "title": "The Light at Three, since 2015",
           "taxonomy": "play_denmark.md"
         },
         {
@@ -12910,7 +12934,8 @@
           "kind": "process",
           "title": "Pyt"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-denmark"
     },
     {
       "kind": "culture",

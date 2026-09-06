@@ -68,6 +68,10 @@ Et lille, fladt land, der engang var en stormagt og tabte sit rige stykke for st
 
 ## Triggers
 
+**[Plot 0: Danevirke og bælterne, fra 500](plot_00_danevirke_og_baelterne.md)**
+
+Et folk på en halvø og fire hundrede øer sejler, hvor andre går, og lukker sin ene landgrænse med en vold, som ingen landsby kunne bygge alene; myndigheden kan aflæses af jordarbejdet to hundrede år før den første konge er nævnt.
+
 **[Plot 1: Jellingstenene ca. 965](plot_01_jelling.md)**
 
 [Harald Blåtand](persona_harald.md) rejser stenen i [Jelling](place_jelling.md), samler danerne til ét rige og gør dem kristne; stenen kaldes Danmarks dåbsattest.
@@ -83,6 +87,18 @@ Landet taber Slesvig til Preussen og bliver lille. Hvad udad tabes, skal indad v
 **[Plot 4: Besættelsen og jødernes redning 1943](plot_04_besaettelsen_1943.md)**
 
 Under besættelsen sejler almindelige danskere deres jødiske naboer i sikkerhed over Øresund fra [København](place_koebenhavn.md); [Dannebrog](piece_dannebrog.md) dækker en hel nation, der nægter at svigte.
+
+**[Plot 5: Kvinderne og vuggestuerne, 1960 til 1975](plot_05_kvinderne_og_vuggestuerne.md)**
+
+Sambeskatningen falder, kommunerne bygger vuggestuer, og på halvandet årti bliver toindkomstfamilien normalen; tilliden til fremmede holder op med at være en medfødt egenskab og bliver en indretning.
+
+**[Plot 6: Du-reformen, omkring 1970](plot_06_du_reformen.md)**
+
+Et helt sprogsamfund afskaffer [De](position_du.md) på et årti, uden lov og uden dato, og bagefter kan næsten ingen huske at have besluttet noget.
+
+**[Plot 99: Lyset klokken tre, siden 2015](plot_99_lyset_klokken_tre.md)**
+
+[Hyggen](process_hygge.md) bliver en eksportvare, landet skal forklare og ikke kan, [pyt](process_pyt.md) får en knap på væggen, og [Inger](persona_inger.md) og [Mads](persona_mads.md) er enige uden at have talt om det.
 
 ## Stakes
 
