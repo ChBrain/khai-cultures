@@ -62,19 +62,39 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Finland](@chbrain/khai-cultures-finland/play_finland.md) (2023)
 - [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md) (2024)
 
+**Personas**
+
+- [the Technician](persona_the_technician.md)
+
+**Positions**
+
+- [the same words](position_the_same_words.md)
+
 ## Triggers
 
-**Article 5**
+**[Plot 0: The Convoy, 1939 to 1945](plot_00_the_convoy.md)**
 
-The pledge that an armed attack on one member is an attack on all binds the thirty-two into a single body of collective defence, the heart from which everything else hangs.
+The alliance is named after an ocean, and for five years and eight months merchant crews of every nationality on both shores keep the lane across it open, civilians in civilian ships with no rank; ships from eight countries can only sail in one formation because somebody agreed in advance what the signals mean, and [the same words](position_the_same_words.md) start there.
 
-**The transatlantic link**
+**[Plot 1: The Founding 1949](plot_01_founding_1949.md)**
 
-NATO is the one standing alliance that ties North America, [the United States](../../cultures/usa/play_usa.md) and [Canada](../../cultures/canada/play_canada.md), to Europe across the ocean, joining two continents in one defence.
+Coal is flown into a blockaded city for eleven months, and twelve nations turn the lesson into a treaty: a binding peacetime promise that North America will not retreat across the ocean and leave Europe to a great land power.
 
-**The open door**
+**[Plot 2: The Cold War Line](plot_02_the_cold_war_line.md)**
 
-Article 10's policy of enlargement carried the alliance from twelve members to thirty-two, admitting any European democracy able to meet its obligations and willing to be bound by consensus among sovereign equals.
+The front hardens from the Baltic to the Alps, the flanks are extended, and the question that cannot be deferred - how to defend Europe without rearming the nation just defeated - is answered by rearming it inside the alliance.
+
+**[Plot 3: Out of Area](plot_03_out_of_area.md)**
+
+The enemy the alliance was built against ceases to exist, and a body designed for one purpose has to find another: out of area or out of business.
+
+**[Plot 4: The Return East](plot_04_the_return_east.md)**
+
+The nations of the East ask to come in rather than wait to be courted, the door opens toward ground the alliance once faced across the line, and a new Russian war returns it to its first purpose and brings in even the old neutrals.
+
+**[Plot 99: Alpha Bravo Charlie, and the Nozzle](plot_99_alpha_bravo_charlie.md)**
+
+The alliance's most-used export is a way of saying letters aloud, and its real daily work is several thousand agreements at the altitude of a hose fitting; [the Technician](persona_the_technician.md) turns around aircraft that are not her air force's, and the exact part of her job is the part where language is not involved.
 
 ## Stakes
 

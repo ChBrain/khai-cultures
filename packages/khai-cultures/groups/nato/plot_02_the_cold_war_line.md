@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Through the 1950s the Cold War hardens into a fixed front across a divided Europe, and the young alliance must lengthen its line and find the strength to hold it. The flanks are exposed in the south-east, and the great question of the German centre, how to defend Europe without rearming the nation just defeated, cannot be put off.
+A farmer in Lower Saxony learns that the field behind his house has a number, and that once a year a foreign brigade will drive across it and the state will pay him for the crop. Manoeuvre damage compensation becomes an ordinary part of rural income along a line that runs from the Baltic to the Alps. Through the 1950s the Cold War hardens into a fixed front across a divided Europe, and the young alliance must lengthen that line and find the strength to hold it. The flanks are exposed in the south-east, and the great question of the German centre, how to defend Europe without rearming the nation just defeated, cannot be put off.
 
 ## Action
 

@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Freed from Soviet rule, the nations of the East do not wait to be courted; they ask to come in, determined never again to be left in a grey zone between great powers. The alliance opens its door eastward, toward the very ground it once faced across the line, and toward the border of a Russia that watches the advance with deepening anger.
+A Polish officer who spent his career learning Soviet doctrine in Russian is sent on a language course at forty-one, and is told the rest of his professional life will be conducted in a second language he does not yet have. Tens of thousands across the East are doing a version of the same thing. Freed from Soviet rule, those nations do not wait to be courted; they ask to come in, determined never again to be left in a grey zone between great powers. The alliance opens its door eastward, toward the very ground it once faced across the line, and toward the border of a Russia that watches the advance with deepening anger.
 
 ## Action
 

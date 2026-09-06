@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-In the years after the Second World War the Soviet Union holds eastern Europe, communist coups and the blockade of Berlin alarm the West, and a ruined Europe doubts it can stand alone. The Western democracies want what they have never had in peacetime: a binding promise that [the United States](../../cultures/usa/play_usa.md) will not again retreat across the ocean and leave them to a great land power.
+Aircrews fly coal into a blockaded city for eleven months, one landing every few minutes, day and night, because the alternative is that two million people freeze. It is a logistics operation and it is the whole argument: the West discovers it can supply a city over the heads of an army, and that doing so takes agreement about schedules, fuel and radio procedure rather than about principles. In the years after the war the Soviet Union holds eastern Europe, communist coups alarm the West, and a ruined continent doubts it can stand alone. The Western democracies want what they have never had in peacetime: a binding promise that [the United States](../../cultures/usa/play_usa.md) will not again retreat across the ocean and leave them to a great land power.
 
 ## Action
 
