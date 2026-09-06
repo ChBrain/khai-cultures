@@ -50,7 +50,7 @@ Et fattig utkantland av fjell og fjord, lenge styrt fra Danmark og siden i union
 - [Janteloven](position_janteloven.md)
 - [oljefondet](position_oljefondet.md)
 - [norsk kultur](position_culture_norsk_kultur.md)
-- [målstriden](position_language_no.md)
+- [målstriden](@chbrain/khai-cultures-tongues/no/position_language_no.md)
 
 **Pieces**
 

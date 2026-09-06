@@ -25,7 +25,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@chbrain/khai-cultures-tongues": "^0.36.0",
+    "@chbrain/khai-cultures-tongues": "^0.40.0",
     "@chbrain/khai-engine-language": "^0.1.5",
     "@chbrain/khai-engine-spine": "^0.1.5"
   }

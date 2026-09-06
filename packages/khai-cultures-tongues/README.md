@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **89 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **94 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -85,6 +85,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                                                               | `es`         |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                    | `es`         |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                        | `es`         |
+| `fi/position_language_fi.md`           | Finnish: fifteen cases doing the work of prepositions, and consonant gradation reshaping the stem as it inflects                                     | `fi`         |
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                                                | `fr`         |
 | `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                                                     | `fr`         |
 | `fr/position_language_fr_fr.md`        | French Standard French: an arithmetic in its numbers, and a norm with an address                                                                     | `fr`         |
@@ -97,12 +98,14 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `hr/position_language_hr.md`           | Croatian as such, of which Burgenland Croatian will be a variety                                                                                     | `hr`         |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                                                           | `hsb`        |
 | `hu/position_language_hu.md`           | Hungarian as such: agglutination, vowel harmony, and no grammatical gender                                                                           | `hu`         |
+| `is/position_language_is.md`           | Icelandic: four cases carried nearly unchanged for eight centuries, and words built from native roots rather than borrowed                           | `is`         |
 | `it/position_language_it.md`           | Italian as such, of which every it_* here is a variety                                                                                               | `it`         |
 | `it/position_language_it_ch.md`        | Swiss Italian: a minority twice over, and in two different directions                                                                                | `it`         |
 | `it/position_language_it_it.md`        | Italian Standard Italian: a standard out of a library, over a second system                                                                          | `it`         |
 | `ksh/position_language_ksh.md`         | Kölsch: a tongue defined by which sound shifts reached it and which did not                                                                          | `ksh`        |
 | `la/position_language_la.md`           | Latin: six cases, free word order, and no living speech community                                                                                    | `la`         |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                      | `nds`        |
+| `no/position_language_no.md`           | Norwegian: two written norms, no spoken standard at all, and a dialect permitted anywhere                                                            | `no`         |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                                                  | `pfl`        |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                                                        | `rif`        |
 | `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                                                  | `rm`         |
@@ -110,6 +113,8 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `sco/position_language_sco.md`         | Scots: negation fastened to the verb, the Northern Subject Rule, and no settled spelling                                                             | `sco`        |
 | `sco/position_language_sco_gb_nir.md`  | Ulster Scots: the only Scots with a standing in law, and the written practice built to sit apart from Scotland's                                     | `sco`        |
 | `sl/position_language_sl.md`           | Slovene as such: the dual, and six cases                                                                                                             | `sl`         |
+| `sv/position_language_sv.md`           | Swedish as such: definiteness hung on the end of the word, and a tonal accent that separates two identical spellings                                 | `sv`         |
+| `sv/position_language_sv_fi.md`        | Finland Swedish: currently the sv anchor's material under a variety's name                                                                           | `sv`         |
 | `swg/position_language_swg.md`         | Swabian as such: the anchor, and its heartland is in another state                                                                                   | `swg`        |
 | `swg/position_language_swg_allgaeu.md` | Allgäu Swabian: the variety standing on the Swabian/Alemannic line                                                                                   | `swg`        |
 | `swg/position_language_swg_by.md`      | Bavarian Swabian: Swabian on the wrong side of the state border                                                                                      | `swg`        |

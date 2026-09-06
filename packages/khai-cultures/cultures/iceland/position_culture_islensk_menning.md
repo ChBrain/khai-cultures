@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Tilheyrslan við litla, harða eyju sem byggðist af fólki er flúði konungsvald og setti sér eigið þing áður en flestar þjóðir áttu eitt. Hún ber [Alþingisarfinn](position_althingisarfurinn.md), þá arfleifð að leysa málin sjálf með lögum og samkomulagi fremur en með sverði; hún ber [jafnréttið](position_jafnrettid.md), þá vissu að enginn eigi að standa öðrum ofar; og hún ber [þetta reddast](position_thetta_reddast.md), traustið á að smæðin sé ekki bölvun heldur styrkur, ef fólk heldur saman. Tungumál hennar er [íslenskan](position_language_is.md), hið gamla mál sem hélt sögunum lifandi öldum saman í fátækt og undir erlendu valdi. Þetta ber sá einn sem elst upp á eyjunni, án þess að hafa nokkru sinni valið það sjálfur.
+Tilheyrslan við litla, harða eyju sem byggðist af fólki er flúði konungsvald og setti sér eigið þing áður en flestar þjóðir áttu eitt. Hún ber [Alþingisarfinn](position_althingisarfurinn.md), þá arfleifð að leysa málin sjálf með lögum og samkomulagi fremur en með sverði; hún ber [jafnréttið](position_jafnrettid.md), þá vissu að enginn eigi að standa öðrum ofar; og hún ber [þetta reddast](position_thetta_reddast.md), traustið á að smæðin sé ekki bölvun heldur styrkur, ef fólk heldur saman. Tungumál hennar er [íslenskan](@chbrain/khai-cultures-tongues/is/position_language_is.md), hið gamla mál sem hélt sögunum lifandi öldum saman í fátækt og undir erlendu valdi. Þetta ber sá einn sem elst upp á eyjunni, án þess að hafa nokkru sinni valið það sjálfur.
 
 ## Orders
 

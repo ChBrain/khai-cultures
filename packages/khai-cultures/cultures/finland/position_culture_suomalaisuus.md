@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Kuulumisen pieneen, hiljaiseen kansaan idän ja lännen välissä, joka eli pitkään vieraan vallan alla ja kokosi itsensä omasta kielestään ja sitkeydestään. Kantaa [sisua](position_sisu.md), voimaa jaksaa eteenpäin silloinkin, kun voimat ovat lopussa; kantaa [tasa-arvoa](position_tasa_arvo.md), uskoa siihen, ettei kenenkään arvo riipu syntyperästä tai varallisuudesta; kantaa [jokamiehenoikeutta](position_jokamiehenoikeus.md), vapautta liikkua metsissä ja vesillä, jotka kuuluvat kaikille. Puhuu [suomen kieltä](position_language_fi.md), mutta rannikolla ja saaristossa myös [finlandssvenskania](position_language_sv_fi.md), kahta kieltä yhden kansan sisällä. Saa ilman valitsemista niukkuuden, vaatimattomuuden ja hiljaisuuden sietämisen, tavan luottaa toiseen ilman suuria sopimuksia ja ilman suuria sanoja.
+Kuulumisen pieneen, hiljaiseen kansaan idän ja lännen välissä, joka eli pitkään vieraan vallan alla ja kokosi itsensä omasta kielestään ja sitkeydestään. Kantaa [sisua](position_sisu.md), voimaa jaksaa eteenpäin silloinkin, kun voimat ovat lopussa; kantaa [tasa-arvoa](position_tasa_arvo.md), uskoa siihen, ettei kenenkään arvo riipu syntyperästä tai varallisuudesta; kantaa [jokamiehenoikeutta](position_jokamiehenoikeus.md), vapautta liikkua metsissä ja vesillä, jotka kuuluvat kaikille. Puhuu [suomen kieltä](@chbrain/khai-cultures-tongues/fi/position_language_fi.md), mutta rannikolla ja saaristossa myös [finlandssvenskania](@chbrain/khai-cultures-tongues/sv/position_language_sv_fi.md), kahta kieltä yhden kansan sisällä. Saa ilman valitsemista niukkuuden, vaatimattomuuden ja hiljaisuuden sietämisen, tavan luottaa toiseen ilman suuria sopimuksia ja ilman suuria sanoja.
 
 ## Orders
 

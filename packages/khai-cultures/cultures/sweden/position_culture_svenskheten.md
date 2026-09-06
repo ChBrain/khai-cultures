@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Tillhörigheten till ett stort men glesbefolkat land som en gång var en stormakt och steg för steg vände sin styrka inåt, mot [lagom](position_lagom.md) som ideal och mot [folkhemmet](position_folkhemmet.md), tanken om landet som ett hem där ingen ska känna sig som styvbarn. Den bär [allemansrätten](position_allemansratten.md), rätten att vandra, tälta och plocka bär i skog och mark som tillhör någon annan, en frihet som tas för given av den som växer upp med den. Den talar [svenskan](position_language_sv_se.md) lågmält och rakt, utan stora ord, och håller tystnaden lika värdefull som talet. Den bär minnet av en union som bröts 1523, av en stormaktstid som lämnades för freden, och av en neutralitet som ändå kunde bära humanitärt mod ut i världens mörkaste stunder.
+Tillhörigheten till ett stort men glesbefolkat land som en gång var en stormakt och steg för steg vände sin styrka inåt, mot [lagom](position_lagom.md) som ideal och mot [folkhemmet](position_folkhemmet.md), tanken om landet som ett hem där ingen ska känna sig som styvbarn. Den bär [allemansrätten](position_allemansratten.md), rätten att vandra, tälta och plocka bär i skog och mark som tillhör någon annan, en frihet som tas för given av den som växer upp med den. Den talar [svenskan](@chbrain/khai-cultures-tongues/sv/position_language_sv.md) lågmält och rakt, utan stora ord, och håller tystnaden lika värdefull som talet. Den bär minnet av en union som bröts 1523, av en stormaktstid som lämnades för freden, och av en neutralitet som ändå kunde bära humanitärt mod ut i världens mörkaste stunder.
 
 ## Orders
 
