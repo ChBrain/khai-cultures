@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Kuulumise pisikesse soomeugri rahvasse, kelle [keel](position_language_et.md) ei ole sugulane ühelegi naabrile, vaid ainult soomlastele üle lahe, mille poole see rahvas alati [vaatab](position_soome_sild.md). Kannab sajandite jooksul teiste, taani, saksa, rootsi ja vene võimu all elamise kogemust, ja seda, mida see andis: vaikset visadust, umbusku suurte sõnade vastu, harjumust hoida oma asjad korras ja öelda vähe. Kannab ka [e-Eesti](position_e_eesti.md) uut kihti, väikese rahva otsust leiutada end pärast taasiseseisvumist tehnoloogia kaudu uuesti, sest raha ja suuri asutusi tal polnud. Selle põhjas on mets, laulupidu ja teadmine, et keel ja laul on ainus, mis pidas rahva koos ka siis, kui riiki ei olnud.
+Kuulumise pisikesse soomeugri rahvasse, kelle [keel](@chbrain/khai-cultures-tongues/et/position_language_et.md) ei ole sugulane ühelegi naabrile, vaid ainult soomlastele üle lahe, mille poole see rahvas alati [vaatab](position_soome_sild.md). Kannab sajandite jooksul teiste, taani, saksa, rootsi ja vene võimu all elamise kogemust, ja seda, mida see andis: vaikset visadust, umbusku suurte sõnade vastu, harjumust hoida oma asjad korras ja öelda vähe. Kannab ka [e-Eesti](position_e_eesti.md) uut kihti, väikese rahva otsust leiutada end pärast taasiseseisvumist tehnoloogia kaudu uuesti, sest raha ja suuri asutusi tal polnud. Selle põhjas on mets, laulupidu ja teadmine, et keel ja laul on ainus, mis pidas rahva koos ka siis, kui riiki ei olnud.
 
 ## Orders
 
@@ -34,4 +34,4 @@ Pinda kaotab, kui vaikne visadus jäätub umbusuks kõige uue ja võõra vastu, 
 
 ## Drives
 
-Elab laulupeo lauluväljakul, kus tuhanded seisavad koos ja laulavad ilma suurte žestideta; elab metsas käimises, mis on nii iseenesestmõistetav, et selle üle ei mõtlegi. Ajab eestlast hoidma oma [keelt](position_language_et.md) inglise ja vene vahel, vaatama [põhja](position_soome_sild.md) ega lõunasse ega itta, ja ehitama end uuesti [nutikuse](position_e_eesti.md) kaudu, kui jõudu või raha napib. Lõpuks ajab ta väikest rahvast seisma vaikselt ja kindlalt suure naabri kõrval, kaotamata iseennast.
+Elab laulupeo lauluväljakul, kus tuhanded seisavad koos ja laulavad ilma suurte žestideta; elab metsas käimises, mis on nii iseenesestmõistetav, et selle üle ei mõtlegi. Ajab eestlast hoidma oma [keelt](@chbrain/khai-cultures-tongues/et/position_language_et.md) inglise ja vene vahel, vaatama [põhja](position_soome_sild.md) ega lõunasse ega itta, ja ehitama end uuesti [nutikuse](position_e_eesti.md) kaudu, kui jõudu või raha napib. Lõpuks ajab ta väikest rahvast seisma vaikselt ja kindlalt suure naabri kõrval, kaotamata iseennast.

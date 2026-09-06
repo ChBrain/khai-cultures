@@ -15179,11 +15179,6 @@
           "title": "Digital Estonia"
         },
         {
-          "file": "position_language_et.md",
-          "kind": "position",
-          "title": "the Estonian Language"
-        },
-        {
           "file": "position_soome_sild.md",
           "kind": "position",
           "title": "the Finnish Bridge"
@@ -23858,11 +23853,6 @@
           "title": "Song"
         },
         {
-          "file": "position_language_lv.md",
-          "kind": "position",
-          "title": "the Latvian Language"
-        },
-        {
           "file": "position_starp_kaiminiem.md",
           "kind": "position",
           "title": "Between Great Neighbours"
@@ -24701,11 +24691,6 @@
           "file": "position_katalikybe.md",
           "kind": "position",
           "title": "Catholicism"
-        },
-        {
-          "file": "position_language_lt.md",
-          "kind": "position",
-          "title": "the Lithuanian Language"
         },
         {
           "file": "process_jonines.md",

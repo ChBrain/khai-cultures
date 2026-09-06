@@ -15,7 +15,7 @@ type: real
 
 ## Taxonomy
 
-[eesti keel](position_language_et.md)
+[eesti keel](@chbrain/khai-cultures-tongues/et/position_language_et.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: real
 
 ## Projection
 
-Eesti luule ja teatri ema, ärkamisaja hääl, kes tegi maarahva talupojakeelest luule ja näitelava ning kirjutas "Mu isamaa on minu arm", mida laulupidudel trotsiga lauldi. Tundeline, julge, oma rahvale pühendunud, suri noorelt võõrsil. Eesti keele saab ta tervena ja annab sellele ise kuju: ta [kõneleb](process_speaking_mother_tongue.md), [mõtleb](process_thinking_mother_tongue.md) ja [kirjutab](process_writing_mother_tongue.md) [emakeeles](position_language_et.md) nii, et tõstab talupojakeele esimest korda luuleks. Lettritud baltisaksa maailma keelt, [saksa keelt](@chbrain/khai-cultures-tongues/de/position_language_de.md), milles ta isaga ärkamisaja lehte tegi, [kannab ta kui tööriista](process_speaking_carried.md) ja [loeb seda](process_reading_followed.md) vabalt; krooni [vene keelt](@chbrain/khai-cultures-tongues/ru/position_language_ru.md) [püüab ta kuulmise järgi](process_hearing_caught.md), nii palju kui vaja. Andis talupojakeelele luule, kuid kõik lettritud ümber oli saksa ja riik vene: see, mida ta tõstis, polnud veel ühegi suure keele silmis keel. Ta kannab [eestlust](position_culture_eestlus.md) selle esimese tõendina, et keelest ja laulust piisab, et olla omaette rahvas ka ilma riigita.
+Eesti luule ja teatri ema, ärkamisaja hääl, kes tegi maarahva talupojakeelest luule ja näitelava ning kirjutas "Mu isamaa on minu arm", mida laulupidudel trotsiga lauldi. Tundeline, julge, oma rahvale pühendunud, suri noorelt võõrsil. Eesti keele saab ta tervena ja annab sellele ise kuju: ta [kõneleb](process_speaking_mother_tongue.md), [mõtleb](process_thinking_mother_tongue.md) ja [kirjutab](process_writing_mother_tongue.md) [emakeeles](@chbrain/khai-cultures-tongues/et/position_language_et.md) nii, et tõstab talupojakeele esimest korda luuleks. Lettritud baltisaksa maailma keelt, [saksa keelt](@chbrain/khai-cultures-tongues/de/position_language_de.md), milles ta isaga ärkamisaja lehte tegi, [kannab ta kui tööriista](process_speaking_carried.md) ja [loeb seda](process_reading_followed.md) vabalt; krooni [vene keelt](@chbrain/khai-cultures-tongues/ru/position_language_ru.md) [püüab ta kuulmise järgi](process_hearing_caught.md), nii palju kui vaja. Andis talupojakeelele luule, kuid kõik lettritud ümber oli saksa ja riik vene: see, mida ta tõstis, polnud veel ühegi suure keele silmis keel. Ta kannab [eestlust](position_culture_eestlus.md) selle esimese tõendina, et keelest ja laulust piisab, et olla omaette rahvas ka ilma riigita.
 
 ## Action
 
-[Ärkamisajas](plot_01_arkamisaeg.md) teeb ta talupojakeelest luule ja teatri ning äratab rahva. Andes [keelele](position_language_et.md) luule ja lava, annab ta maarahvale esimese tõendi, et see on omaette rahvas, ka siis, kui tal pole veel riiki.
+[Ärkamisajas](plot_01_arkamisaeg.md) teeb ta talupojakeelest luule ja teatri ning äratab rahva. Andes [keelele](@chbrain/khai-cultures-tongues/et/position_language_et.md) luule ja lava, annab ta maarahvale esimese tõendi, et see on omaette rahvas, ka siis, kui tal pole veel riiki.
 
 ## Shadow
 

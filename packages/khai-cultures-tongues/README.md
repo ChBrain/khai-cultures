@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **94 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **97 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -85,6 +85,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                                                               | `es`         |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                    | `es`         |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                        | `es`         |
+| `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                     | `et`         |
 | `fi/position_language_fi.md`           | Finnish: fifteen cases doing the work of prepositions, and consonant gradation reshaping the stem as it inflects                                     | `fi`         |
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                                                | `fr`         |
 | `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                                                     | `fr`         |
@@ -104,6 +105,8 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `it/position_language_it_it.md`        | Italian Standard Italian: a standard out of a library, over a second system                                                                          | `it`         |
 | `ksh/position_language_ksh.md`         | Kölsch: a tongue defined by which sound shifts reached it and which did not                                                                          | `ksh`        |
 | `la/position_language_la.md`           | Latin: six cases, free word order, and no living speech community                                                                                    | `la`         |
+| `lt/position_language_lt.md`           | Lithuanian: seven cases and two pitch accents on long syllables, the most conservative of the living Indo-European languages                         | `lt`         |
+| `lv/position_language_lv.md`           | Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables            | `lv`         |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                      | `nds`        |
 | `no/position_language_no.md`           | Norwegian: two written norms, no spoken standard at all, and a dialect permitted anywhere                                                            | `no`         |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                                                  | `pfl`        |
