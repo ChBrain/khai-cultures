@@ -27,7 +27,7 @@ Sotilas ja valtiomies, joka palveli ensin keisarin armeijassa ja palasi sitten j
 
 ## Action
 
-[Talvisodassa 1939-1940](plot_03_talvisota.md) hän johtaa puolustusta ylivoimaa vastaan ja pitää pienen armeijan koossa pakkasessa ja epätoivossa. Hän on [sisun](position_sisu.md) inhimillinen hahmo: tyyni johtaja, joka ei luovuta, kun voimat eivät riitä.
+[Talvisodassa 1939-1940](plot_04_talvisota.md) hän johtaa puolustusta ylivoimaa vastaan ja pitää pienen armeijan koossa pakkasessa ja epätoivossa. Hän on [sisun](position_sisu.md) inhimillinen hahmo: tyyni johtaja, joka ei luovuta, kun voimat eivät riitä.
 
 ## Shadow
 

@@ -15871,8 +15871,8 @@
       "title": "Finland",
       "description": "Finland staged as a culture: a quiet, hardy land of forest and lake where sisu, equality, and trust hold it together.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/finland"
+        "package": "@chbrain/khai-cultures-finland",
+        "path": ""
       },
       "iso": "FI",
       "members": [
@@ -15949,6 +15949,12 @@
           "title": "Finland"
         },
         {
+          "file": "plot_00_kaski_ja_sauna.md",
+          "kind": "plot",
+          "title": "Swidden and Sauna, before Writing",
+          "taxonomy": "play_finland.md"
+        },
+        {
           "file": "plot_01_kalevala_1835.md",
           "kind": "plot",
           "title": "The Kalevala, 1835",
@@ -15961,15 +15967,33 @@
           "taxonomy": "play_finland.md"
         },
         {
-          "file": "plot_03_talvisota.md",
+          "file": "plot_03_sisallissota_1918.md",
+          "kind": "plot",
+          "title": "The Civil War and Suomenlinna 1918",
+          "taxonomy": "play_finland.md"
+        },
+        {
+          "file": "plot_04_talvisota.md",
           "kind": "plot",
           "title": "The Winter War, 1939-1940",
           "taxonomy": "play_finland.md"
         },
         {
-          "file": "plot_04_koulutusihme.md",
+          "file": "plot_05_korvike_ja_kahvitauko.md",
+          "kind": "plot",
+          "title": "Substitute Coffee and the Coffee Break, 1939-1954",
+          "taxonomy": "play_finland.md"
+        },
+        {
+          "file": "plot_06_koulutusihme.md",
           "kind": "plot",
           "title": "The Education Miracle",
+          "taxonomy": "play_finland.md"
+        },
+        {
+          "file": "plot_99_raja_ja_onnellisin_maa.md",
+          "kind": "plot",
+          "title": "The Border and the Happiest Country",
           "taxonomy": "play_finland.md"
         },
         {
@@ -16002,7 +16026,8 @@
           "kind": "process",
           "title": "Sauna"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-finland"
     },
     {
       "kind": "culture",

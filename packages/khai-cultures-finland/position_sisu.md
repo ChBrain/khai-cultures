@@ -34,4 +34,4 @@ Maaperää, jolla sitkeys muuttuu jääräpäisyydeksi ja avun pyytäminen häpe
 
 ## Drives
 
-Se kantaa puolustusta, joka johdettiin ylivoimaa vastaan, ja se elää arjessa, joka ei valita vaan jatkaa; se koeteltiin [talvisodassa 1939-1940](plot_03_talvisota.md), kun pieni maa ei antautunut.
+Se kantaa puolustusta, joka johdettiin ylivoimaa vastaan, ja se elää arjessa, joka ei valita vaan jatkaa; se koeteltiin [talvisodassa 1939-1940](plot_04_talvisota.md), kun pieni maa ei antautunut.

@@ -26,7 +26,7 @@ Nostettuna salkoon pihoilla ja juhlapäivinä ympäri maan, valkoinen lippu, jos
 
 ## Load Bearing
 
-Se kantaa pienen maan kuvaa itsestään: järvet, talvi ja oma valtio yhdessä merkissä. Itsenäisyyden jälkeen se nostettiin oman maan tunnukseksi, ja [talvisodassa 1939-1940](plot_03_talvisota.md) sen alla puolustettiin vapautta. Ilman tätä vaatimatonta, yhteistä merkkiä kansallistunteelta puuttuisi kuvansa.
+Se kantaa pienen maan kuvaa itsestään: järvet, talvi ja oma valtio yhdessä merkissä. Itsenäisyyden jälkeen se nostettiin oman maan tunnukseksi, ja [talvisodassa 1939-1940](plot_04_talvisota.md) sen alla puolustettiin vapautta. Ilman tätä vaatimatonta, yhteistä merkkiä kansallistunteelta puuttuisi kuvansa.
 
 ## Apparent
 

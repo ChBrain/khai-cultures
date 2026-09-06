@@ -27,7 +27,7 @@ Pääkaupunki meren rannalla, vaalea, matala kaupunki saaria, satamia ja avaria 
 ## Holds
 
 - [Itsenäisyys 1917](plot_02_itsenaisyys_1917.md): täällä julistetaan oman valtion synty.
-- [Koulutusihme](plot_04_koulutusihme.md): täältä ohjataan tasaisen koulun politiikkaa.
+- [Koulutusihme](plot_06_koulutusihme.md): täältä ohjataan tasaisen koulun politiikkaa.
 
 ## Offers
 
