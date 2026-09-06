@@ -21,7 +21,7 @@ by hand.
 | SE  | Sweden  | [sweden](@chbrain/khai-cultures-sweden/play_sweden.md)    |
 | NO  | Norway  | [norway](@chbrain/khai-cultures-norway/play_norway.md)    |
 | FI  | Finland | [finland](@chbrain/khai-cultures-finland/play_finland.md) |
-| IS  | Iceland | [iceland](../../cultures/iceland/play_iceland.md)         |
+| IS  | Iceland | [iceland](@chbrain/khai-cultures-iceland/play_iceland.md) |
 
 The grouping is bound by a shared social and economic model and a long history of
 cooperation, formalised in bodies such as the Nordic Council (1952) and the Nordic

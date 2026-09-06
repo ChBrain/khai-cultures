@@ -30,7 +30,7 @@ Að menn láti ekki bugast af mótlæti, heldur taki því sem að höndum ber m
 
 ## Loses
 
-Land þar sem bjartsýnin verður að andvaraleysi og menn vanrækja að búa sig undir það sem fyrirsjáanlegt var. Þetta reddast tapar þegar það breytist í afsökun fyrir kæruleysi, eins og sást þegar [Hrunið 2008](plot_04_hrunid_2008.md) sannaði að bjartsýnin ein dugði ekki.
+Land þar sem bjartsýnin verður að andvaraleysi og menn vanrækja að búa sig undir það sem fyrirsjáanlegt var. Þetta reddast tapar þegar það breytist í afsökun fyrir kæruleysi, eins og sást þegar [Hrunið 2008](plot_07_hrunid_2008.md) sannaði að bjartsýnin ein dugði ekki.
 
 ## Drives
 
