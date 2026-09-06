@@ -20271,8 +20271,8 @@
       "title": "Iceland",
       "description": "Iceland staged as a culture: a small, tough island nation that trusts it will sort itself out and lets none stand above.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/iceland"
+        "package": "@chbrain/khai-cultures-iceland",
+        "path": ""
       },
       "iso": "IS",
       "members": [
@@ -20342,6 +20342,12 @@
           "title": "Iceland"
         },
         {
+          "file": "plot_00_landnamid_og_afretturinn.md",
+          "kind": "plot",
+          "title": "The Settlement and the Common Highland, from 874",
+          "taxonomy": "play_iceland.md"
+        },
+        {
           "file": "plot_01_althingi_930.md",
           "kind": "plot",
           "title": "The Althing at Thingvellir, 930",
@@ -20354,15 +20360,39 @@
           "taxonomy": "play_iceland.md"
         },
         {
-          "file": "plot_03_lydveldid_1944.md",
+          "file": "plot_03_snorri_og_gamli_sattmali.md",
+          "kind": "plot",
+          "title": "Snorri and the Old Covenant, 1241-1262",
+          "taxonomy": "play_iceland.md"
+        },
+        {
+          "file": "plot_04_lydveldid_1944.md",
           "kind": "plot",
           "title": "The Republic of 1944",
           "taxonomy": "play_iceland.md"
         },
         {
-          "file": "plot_04_hrunid_2008.md",
+          "file": "plot_05_heimaey_1973.md",
+          "kind": "plot",
+          "title": "Heimaey 1973",
+          "taxonomy": "play_iceland.md"
+        },
+        {
+          "file": "plot_06_kvennafridagurinn_1975.md",
+          "kind": "plot",
+          "title": "The Women's Day Off 1975",
+          "taxonomy": "play_iceland.md"
+        },
+        {
+          "file": "plot_07_hrunid_2008.md",
           "kind": "plot",
           "title": "The Crash of 2008",
+          "taxonomy": "play_iceland.md"
+        },
+        {
+          "file": "plot_99_potturinn_og_tveir_milljonir.md",
+          "kind": "plot",
+          "title": "The Hot Tub and Two Million Visitors",
           "taxonomy": "play_iceland.md"
         },
         {
@@ -20395,7 +20425,8 @@
           "kind": "process",
           "title": "The Swimming Pool"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-iceland"
     },
     {
       "kind": "culture",

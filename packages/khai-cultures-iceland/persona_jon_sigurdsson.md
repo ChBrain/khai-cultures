@@ -27,7 +27,7 @@ Fræðimaðurinn og leiðtoginn sem leiddi sjálfstæðisbaráttuna á nítjánd
 
 ## Action
 
-Hann ryður brautina að [Lýðveldinu 1944](plot_03_lydveldid_1944.md), endurreisir Alþingi sem vettvang þjóðarinnar og heldur [Alþingisarfinum](position_althingisarfurinn.md) lifandi: þeirri kröfu að þjóðin ráði sjálf málum sínum með rökum og samkomulagi.
+Hann ryður brautina að [Lýðveldinu 1944](plot_04_lydveldid_1944.md), endurreisir Alþingi sem vettvang þjóðarinnar og heldur [Alþingisarfinum](position_althingisarfurinn.md) lifandi: þeirri kröfu að þjóðin ráði sjálf málum sínum með rökum og samkomulagi.
 
 ## Shadow
 

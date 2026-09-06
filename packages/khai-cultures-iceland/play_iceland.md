@@ -67,6 +67,10 @@ Lítil og hörð eyja, byggð af fólki sem flúði konungsvald og stofnaði þi
 
 ## Triggers
 
+**[Plot 0: Landnámið og afrétturinn, frá 874](plot_00_landnamid_og_afretturinn.md)**
+
+Landið býður upp á beit en ekki korn, svo féð gengur laust á hálendi sem enginn á og [réttirnar](process_rettir.md) í september verða verk sem enginn kemst í gegnum einn; [málið](@chbrain/khai-cultures-tongues/is/position_language_is.md) kemur með fólkinu og stendur kyrrt, því enginn er til að breyta því.
+
 **[Plot 1: Alþingi á Þingvöllum 930](plot_01_althingi_930.md)**
 
 Á [Þingvöllum](place_thingvellir.md) stofna landnámsmenn Alþingi, eitt elsta þing heims, og setja sér lög í stað konungs.
@@ -75,13 +79,29 @@ Lítil og hörð eyja, byggð af fólki sem flúði konungsvald og stofnaði þi
 
 Á [Þingvöllum](place_thingvellir.md) tekur þjóðin kristni með einni sáttargjörð, án blóðsúthellinga, og lætur [Alþingisarfinn](position_althingisarfurinn.md) leysa málið með samkomulagi.
 
-**[Plot 3: Lýðveldið 1944](plot_03_lydveldid_1944.md)**
+**[Plot 3: Snorri og Gamli sáttmáli, 1241-1262](plot_03_snorri_og_gamli_sattmali.md)**
+
+[Snorri Sturluson](persona_snorri.md) er drepinn í kjallara sínum að skipun konungs, og tveimur áratugum síðar afhenda höfðingjarnir sjálfir ríkið sem þeir gátu ekki haldið friði í; sama öldin skrifar [handritin](piece_handritin.md), það eina sem þjóðin á næstu sex hundruð árin.
+
+**[Plot 4: Lýðveldið 1944](plot_04_lydveldid_1944.md)**
 
 Eftir aldir undir Danakonungi stofnar þjóðin lýðveldi; [Jón Sigurðsson](persona_jon_sigurdsson.md) hefur rutt brautina og fullveldið er fagnað í [Reykjavík](place_reykjavik.md).
 
-**[Plot 4: Hrunið 2008](plot_04_hrunid_2008.md)**
+**[Plot 5: Heimaey 1973](plot_05_heimaey_1973.md)**
+
+Fimm þúsund manns eru fluttir af eyju á einni nóttu með fiskiflotanum sem lá í höfn, og svo er sjó dælt á rennandi hraun mánuðum saman til að bjarga höfninni; [þetta reddast](position_thetta_reddast.md) reynist vera vinnuregla en ekki bjartsýni.
+
+**[Plot 6: Kvennafrídagurinn 1975](plot_06_kvennafridagurinn_1975.md)**
+
+Níu af hverjum tíu konum leggja niður störf í einn dag og landið stöðvast á stöðum sem enginn hafði skráð; [jafnréttið](position_jafnrettid.md) verður sýnilegt með fjarveru og er skrifað í lög árið eftir.
+
+**[Plot 7: Hrunið 2008](plot_07_hrunid_2008.md)**
 
 Bankakerfið hrynur og [Reykjavík](place_reykjavik.md) stendur frammi fyrir gjaldþroti heillar þjóðar, en eyjan rís aftur á fætur.
+
+**[Plot 99: Potturinn og tvær milljónir gesta](plot_99_potturinn_og_tveir_milljonir.md)**
+
+Tvær milljónir gesta koma til fjögur hundruð þúsund manna þjóðar, [sundlaugin](process_sundlaugin.md) er síðasta herbergið þar sem [Guðrún](persona_gudrun.md) og [Birna](persona_birna.md) sitja í sama vatni, og [málræktin](plan_malraektin.md) fjármagnar íslensku inn í máltæknina.
 
 ## Stakes
 

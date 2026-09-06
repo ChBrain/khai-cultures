@@ -26,8 +26,8 @@ Höfuðstaðurinn við Faxaflóa, nyrsta höfuðborg heims, lágreist borg úr l
 
 ## Holds
 
-- [Lýðveldið 1944](plot_03_lydveldid_1944.md): hér fagnar þjóðin endurheimtu sjálfstæði.
-- [Hrunið 2008](plot_04_hrunid_2008.md): hér dynur hrunið yfir og mótmælin hefjast.
+- [Lýðveldið 1944](plot_04_lydveldid_1944.md): hér fagnar þjóðin endurheimtu sjálfstæði.
+- [Hrunið 2008](plot_07_hrunid_2008.md): hér dynur hrunið yfir og mótmælin hefjast.
 
 ## Offers
 
