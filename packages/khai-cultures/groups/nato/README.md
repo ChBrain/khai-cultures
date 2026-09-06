@@ -1,6 +1,6 @@
 # NATO: a khai group
 
-NATO (the North Atlantic Treaty Organization) staged as a khai **group** — a play
+NATO (the North Atlantic Treaty Organization) staged as a khai **group** - a play
 in the shared `groups/` collection that **references its member cultures** rather
 than being a country of its own. The transatlantic alliance of thirty-two
 democracies, bound by Article 5, that grew from twelve members to thirty-two and
@@ -25,10 +25,15 @@ house, casting all thirty-two members.
 - **Kind:** `group`.
 - **The growth story:** unlike the other groups, NATO's plots trace its
   **evolution**, not a single event:
-  - [the Founding, 1949](plot_01_founding_1949.md) — the Washington Treaty and Article 5.
-  - [the Cold War Line](plot_02_the_cold_war_line.md) — Greece and Turkey, West Germany, Spain; deterrence across a divided continent.
-  - [Out of Area or Out of Business](plot_03_out_of_area.md) — the post-1991 reinvention, the Balkans, and the only Article 5 invocation after 9/11.
-  - [the Return East](plot_04_the_return_east.md) — the eastward enlargement and the return of collective defence, ending with Finland and Sweden at thirty-two.
+  - [the Convoy, 1939 to 1945](plot_00_the_convoy.md) - the origin, outside the chronology: the ocean the alliance is named after, kept open by civilians in civilian ships.
+  - [the Founding, 1949](plot_01_founding_1949.md) - the Washington Treaty and Article 5.
+  - [the Cold War Line](plot_02_the_cold_war_line.md) - Greece and Turkey, West Germany, Spain; deterrence across a divided continent.
+  - [Out of Area or Out of Business](plot_03_out_of_area.md) - the post-1991 reinvention, the Balkans, and the only Article 5 invocation after 9/11.
+  - [the Return East](plot_04_the_return_east.md) - the eastward enlargement and the return of collective defence, ending with Finland and Sweden at thirty-two.
+  - [Alpha Bravo Charlie, and the Nozzle](plot_99_alpha_bravo_charlie.md) - the present: standardisation as the alliance's real daily output, and the one part of it the whole world uses.
+- **Its own Company:** [the same words](position_the_same_words.md) and
+  [the Technician](persona_the_technician.md), both belonging to the space between
+  the members rather than to any of them.
 
 ## Provenance
 

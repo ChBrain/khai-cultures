@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-In 1989 the Berlin Wall falls; in 1991 the Soviet Union and the Warsaw Pact dissolve. The enemy the alliance was built against simply ceases to exist, and a body designed for one purpose faces a question that armies rarely survive: with the threat gone, why go on at all? The watchword of the decade becomes blunt - out of area or out of business.
+A conscript in Bavaria is told that the exercise scheduled for the spring is cancelled, and then that the next one is too, and within two years his barracks is a business park. In 1989 the Berlin Wall falls; in 1991 the Soviet Union and the Warsaw Pact dissolve. The enemy the alliance was built against simply ceases to exist, and a body designed for one purpose faces a question that armies rarely survive: with the threat gone, why go on at all? The watchword of the decade becomes blunt - out of area or out of business.
 
 ## Action
 

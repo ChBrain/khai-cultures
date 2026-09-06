@@ -43560,9 +43560,21 @@
       ],
       "members": [
         {
+          "file": "persona_the_technician.md",
+          "kind": "persona",
+          "title": "Persona: the Technician",
+          "type": "archetype"
+        },
+        {
           "file": "play_nato.md",
           "kind": "play",
           "title": "NATO"
+        },
+        {
+          "file": "plot_00_the_convoy.md",
+          "kind": "plot",
+          "title": "The Convoy, 1939 to 1945",
+          "taxonomy": "play_nato.md"
         },
         {
           "file": "plot_01_founding_1949.md",
@@ -43587,6 +43599,17 @@
           "kind": "plot",
           "title": "The Return East",
           "taxonomy": "play_nato.md"
+        },
+        {
+          "file": "plot_99_alpha_bravo_charlie.md",
+          "kind": "plot",
+          "title": "Alpha Bravo Charlie, and the Nozzle",
+          "taxonomy": "play_nato.md"
+        },
+        {
+          "file": "position_the_same_words.md",
+          "kind": "position",
+          "title": "Position: the same words"
         }
       ]
     },
