@@ -33,7 +33,7 @@ What it produces is a generation of movement that shows up in the demography rat
 ## Stage
 
 - [Finland](../../cultures/finland/play_finland.md): the country the movement mostly went out of, into Swedish industry, in numbers that reshaped its own west.
-- [Sweden](../../cultures/sweden/play_sweden.md): the one it mostly went into, which is why the largest minority language in Sweden's recent history was Finnish.
+- [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md): the one it mostly went into, which is why the largest minority language in Sweden's recent history was Finnish.
 - [Iceland](../../cultures/iceland/play_iceland.md): the far end of the arrangement, with a whole professional class educated in Copenhagen.
 - [Norway](../../cultures/norway/play_norway.md): the destination once the oil arrives, and the demonstration that the flow reverses when the money moves.
 

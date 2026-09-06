@@ -32,7 +32,7 @@ And nearly nobody can write. Writing is a separate skill, taught to those who wi
 
 ## Stage
 
-- [Sweden](../../cultures/sweden/play_sweden.md): the church law that made the annual examination routine and wrote the results down.
+- [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md): the church law that made the annual examination routine and wrote the results down.
 - [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md): the same end by the other road, through a confirmation nobody could marry without.
 - [Finland](../../cultures/finland/play_finland.md): inside the Swedish realm and under the same law, examined in its own language by clergy who had to learn it.
 - [Iceland](../../cultures/iceland/play_iceland.md): no schools, no towns, and the highest literacy in Europe, taught at the fireside over the winter.

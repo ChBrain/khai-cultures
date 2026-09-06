@@ -68,6 +68,10 @@ Ett stort men glesbefolkat land som en gång var en stormakt kring Östersjön o
 
 ## Triggers
 
+**[Plot 0: Gamla Uppsala och tinget, från 500](plot_00_gamla_uppsala.md)**
+
+Tre gravhögar och ett ting på slätten dit alla kom: en kung hyllas av tinget och måste sedan rida Eriksgatan och tas emot av varje landskap för sig, så makten kommer nedifrån och i flertal.
+
 **[Plot 1: Gustav Vasa och självständigheten 1523](plot_01_vasa_1523.md)**
 
 [Gustav Vasa](persona_vasa.md) väljs till kung i [Stockholm](place_stockholm.md), bryter unionen med Danmark och grundar ett självständigt Sverige.
@@ -83,6 +87,22 @@ I [Stockholm](place_stockholm.md) talas om [folkhemmet](position_folkhemmet.md):
 **[Plot 4: Kvinnlig rösträtt 1921](plot_04_rostratt_1921.md)**
 
 För första gången går kvinnor till valurnorna i [Stockholm](place_stockholm.md) och i hela landet; folkstyret blir helt när halva folket äntligen får rösta.
+
+**[Plot 5: Kaffeförbuden, 1756 till 1823](plot_05_kaffeforbuden.md)**
+
+Kronan förbjuder kaffet ett halvdussin gånger och förlorar varje gång, tyst och utan uppror, och kvar blir inte drycken utan [fikan](process_fika.md).
+
+**[Plot 6: Semesterlagen 1938](plot_06_semesterlagen_1938.md)**
+
+Två veckors ledighet med lön möter en [allemansrätt](position_allemansratten.md) som är äldre än lagarna, och sommaren får sin form.
+
+**[Plot 7: Dalahästen i New York, 1939](plot_07_dalahasten_i_new_york.md)**
+
+En snidad vinterleksak från Dalarna blir vad världen menar när den säger Sverige, och [lagom](position_lagom.md) blir en vara utåt och inte bara en oskriven lag inåt.
+
+**[Plot 99: Det kontantlösa landet, sedan 2015](plot_99_det_kontantlosa_landet.md)**
+
+Landet avskaffar kontanterna utan beslut och med full enighet, och [Astrid](persona_astrid.md) märker först att kassan inte tar emot.
 
 ## Stakes
 

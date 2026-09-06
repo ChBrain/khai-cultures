@@ -21,7 +21,7 @@ from what the play actually links. Its language is **English**, the group's
 logical lingua franca, since the five members share no single tongue.
 
 - **Members:** [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md),
-  [Sweden](../../cultures/sweden/play_sweden.md),
+  [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md),
   [Norway](../../cultures/norway/play_norway.md),
   [Finland](../../cultures/finland/play_finland.md),
   [Iceland](../../cultures/iceland/play_iceland.md).

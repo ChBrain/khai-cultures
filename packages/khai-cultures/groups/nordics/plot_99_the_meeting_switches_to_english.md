@@ -31,7 +31,7 @@ The comprehension the students found in 1843 is measurably weaker in their great
 ## Stage
 
 - [the neighbour tongue](position_the_neighbour_tongue.md): the office that made the north exceptional, now practised by fewer people every decade.
-- [Sweden](../../cultures/sweden/play_sweden.md): two hundred years of staying out of everything, ended in a season.
+- [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md): two hundred years of staying out of everything, ended in a season.
 - [Finland](../../cultures/finland/play_finland.md): the member that always had to learn its way into the language family, and is now the one that argues most about whether to keep teaching it.
 - [Janteloven](@chbrain/khai-cultures-denmark/position_janteloven.md): the shared temper the five still recognise in each other instantly, in whichever language they are speaking.
 

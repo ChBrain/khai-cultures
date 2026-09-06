@@ -37120,8 +37120,8 @@
       "title": "Sweden",
       "description": "Sweden staged as a culture: a reserved land of consensus and lagom, where the people's home keeps everyone in.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/sweden"
+        "package": "@chbrain/khai-cultures-sweden",
+        "path": ""
       },
       "iso": "SE",
       "members": [
@@ -37197,6 +37197,12 @@
           "title": "Sweden"
         },
         {
+          "file": "plot_00_gamla_uppsala.md",
+          "kind": "plot",
+          "title": "Gamla Uppsala and the Thing, from 500",
+          "taxonomy": "play_sweden.md"
+        },
+        {
           "file": "plot_01_vasa_1523.md",
           "kind": "plot",
           "title": "Gustav Vasa and Independence 1523",
@@ -37218,6 +37224,30 @@
           "file": "plot_04_rostratt_1921.md",
           "kind": "plot",
           "title": "Women's Suffrage 1921",
+          "taxonomy": "play_sweden.md"
+        },
+        {
+          "file": "plot_05_kaffeforbuden.md",
+          "kind": "plot",
+          "title": "The Coffee Bans, 1756 to 1823",
+          "taxonomy": "play_sweden.md"
+        },
+        {
+          "file": "plot_06_semesterlagen_1938.md",
+          "kind": "plot",
+          "title": "The Holiday Act, 1938",
+          "taxonomy": "play_sweden.md"
+        },
+        {
+          "file": "plot_07_dalahasten_i_new_york.md",
+          "kind": "plot",
+          "title": "The Dala Horse in New York, 1939",
+          "taxonomy": "play_sweden.md"
+        },
+        {
+          "file": "plot_99_det_kontantlosa_landet.md",
+          "kind": "plot",
+          "title": "The Cashless Country, since 2015",
           "taxonomy": "play_sweden.md"
         },
         {
@@ -37250,7 +37280,8 @@
           "kind": "process",
           "title": "Midsummer"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-sweden"
     },
     {
       "kind": "culture",
