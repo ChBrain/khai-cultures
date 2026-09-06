@@ -43428,7 +43428,7 @@
       "kind": "group",
       "id": "nordics",
       "title": "The Nordics",
-      "description": "The Nordics as a group: Denmark, Sweden, Norway, Finland, and Iceland, bound by a shared model and a common north.",
+      "description": "The Nordics as a group: how a church made five countries read, and what they could then say to each other.",
       "source": {
         "package": "@chbrain/khai-cultures",
         "path": "groups/nordics"
@@ -43436,9 +43436,56 @@
       "references": ["denmark", "finland", "iceland", "norway", "sweden"],
       "members": [
         {
+          "file": "persona_the_interpreter.md",
+          "kind": "persona",
+          "title": "Persona: the Interpreter",
+          "type": "archetype"
+        },
+        {
+          "file": "pitch_nordics.md",
+          "kind": "pitch",
+          "title": "Pitch: the Nordic key",
+          "taxonomy": "play_nordics.md"
+        },
+        {
           "file": "play_nordics.md",
           "kind": "play",
           "title": "The Nordics"
+        },
+        {
+          "file": "plot_00_the_thing_and_the_danish_tongue.md",
+          "kind": "plot",
+          "title": "The Thing and the Danish Tongue, 930 to 1300",
+          "taxonomy": "play_nordics.md"
+        },
+        {
+          "file": "plot_01_the_household_examination.md",
+          "kind": "plot",
+          "title": "The Household Examination, from 1686",
+          "taxonomy": "play_nordics.md"
+        },
+        {
+          "file": "plot_02_the_movement_that_failed.md",
+          "kind": "plot",
+          "title": "The Movement That Failed and the Understanding That Did Not, 1840 to 1864",
+          "taxonomy": "play_nordics.md"
+        },
+        {
+          "file": "plot_03_no_passport.md",
+          "kind": "plot",
+          "title": "No Passport, from 1952",
+          "taxonomy": "play_nordics.md"
+        },
+        {
+          "file": "plot_99_the_meeting_switches_to_english.md",
+          "kind": "plot",
+          "title": "The Meeting Switches to English, since 1990",
+          "taxonomy": "play_nordics.md"
+        },
+        {
+          "file": "position_the_neighbour_tongue.md",
+          "kind": "position",
+          "title": "the neighbour tongue"
         }
       ]
     },

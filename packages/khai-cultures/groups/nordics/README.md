@@ -28,6 +28,29 @@ logical lingua franca, since the five members share no single tongue.
 - **Kind:** `group` (the registry stamps it, so the website can tell it from a
   culture and resolve its members on the map).
 
+## The spine
+
+`management/design/groups-and-references.md` §2.1.1 says a group's arc is what its
+members did **together**, and warns that the obvious material for an alliance is
+the alliance. The obvious material here is the Nordic Council and the welfare
+model, and neither is the arc.
+
+What the five actually did together is build a reading public and then work out
+what they could say to each other with it. The plot line runs from assemblies held
+in one shared language, through a church that made reading a condition of
+marrying, to a student movement that failed politically and left the comprehension
+behind, to the free movement of people forty years before the rest of Europe, and
+ends with the room switching to English.
+
+- **Spine:** reading, and what the north could say to itself once everybody could.
+- **Own position:** [the neighbour tongue](position_the_neighbour_tongue.md), a
+  language you were never taught and are expected to follow.
+- **Own persona:** [the Interpreter](persona_the_interpreter.md), the Finn who had
+  to learn the thing the other three think is free.
+
+Before this change the play had **no plots at all** and a `## Triggers` chapter of
+three prose blocks, which is the defect §2.1.1 was written about.
+
 ## Provenance
 
 The Nordic countries are a long-recognised grouping, formalised in bodies such as
