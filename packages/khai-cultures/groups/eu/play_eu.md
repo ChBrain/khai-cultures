@@ -45,7 +45,7 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 - [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md) (1995)
 - [Cyprus](../../cultures/cyprus/play_cyprus.md) (2004)
 - [Czechia](../../cultures/czechia/play_czechia.md) (2004)
-- [Estonia](../../cultures/estonia/play_estonia.md) (2004)
+- [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md) (2004)
 - [Hungary](../../cultures/hungary/play_hungary.md) (2004)
 - [Latvia](../../cultures/latvia/play_latvia.md) (2004)
 - [Lithuania](../../cultures/lithuania/play_lithuania.md) (2004)

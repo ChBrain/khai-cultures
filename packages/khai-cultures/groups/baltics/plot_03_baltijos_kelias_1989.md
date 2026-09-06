@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-By 1989 the three occupied republics of [Estonia](../../cultures/estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md), and [Lithuania](../../cultures/lithuania/play_lithuania.md) are stirring, their popular fronts pressing for freedom as the Soviet grip weakens. The 23rd of August marks fifty years since the Molotov-Ribbentrop Pact, the secret deal by which Hitler and Stalin handed the three to the USSR, the very crime that erased them from the map.
+By 1989 the three occupied republics of [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md), and [Lithuania](../../cultures/lithuania/play_lithuania.md) are stirring, their popular fronts pressing for freedom as the Soviet grip weakens. The 23rd of August marks fifty years since the Molotov-Ribbentrop Pact, the secret deal by which Hitler and Stalin handed the three to the USSR, the very crime that erased them from the map.
 
 ## Action
 
@@ -30,7 +30,7 @@ On that anniversary, around two million people join hands in a single unbroken c
 
 ## Stage
 
-- [Estonia](../../cultures/estonia/play_estonia.md): the northern end of the chain, at Tallinn.
+- [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md): the northern end of the chain, at Tallinn.
 - [Latvia](../../cultures/latvia/play_latvia.md): the centre, at Riga, where the chain crosses the middle nation.
 - [Lithuania](../../cultures/lithuania/play_lithuania.md): the southern end, at Vilnius.
 
