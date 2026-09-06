@@ -34,6 +34,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 import { cultureIds, touchedCultures } from "./company_coverage.mjs";
+import { cultureUnits, notCultureNote } from "./culture_sources.mjs";
 import { cultureDir } from "./culture_sources.mjs";
 
 // Two roots, because they are two things. WORKSPACE holds node_modules, where the
@@ -135,9 +136,19 @@ function gate(base, head) {
     console.log("Persona wiring: no culture touched.");
     return 0;
   }
-  const offenders = touched.map((id) => [id, wiring(id)]).filter(([, f]) => f.length);
+  // A migrated group is a unit and not a culture, and `touchedCultures` maps
+  // paths through `pathCulture`, which answers in units. See
+  // management/orders/order_a_group_is_not_a_culture.md.
+  const { cultures: charged, notCultures } = cultureUnits(touched);
+  const skipped = notCultureNote(notCultures);
+  if (skipped) console.log(skipped);
+  if (!charged.length) {
+    console.log("Persona wiring: no culture touched.");
+    return 0;
+  }
+  const offenders = charged.map((id) => [id, wiring(id)]).filter(([, f]) => f.length);
   if (!offenders.length) {
-    console.log(`Persona wiring OK: ${touched.length} touched culture(s).`);
+    console.log(`Persona wiring OK: ${charged.length} touched culture(s).`);
     return 0;
   }
   console.error("::error::Persona wiring: a touched culture must come out wired.");
