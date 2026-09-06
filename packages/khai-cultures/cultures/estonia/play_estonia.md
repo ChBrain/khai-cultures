@@ -48,7 +48,7 @@ Väike soomeugri rahvas Läänemere ääres, kelle keel ei kuulu indoeuroopa per
 **Positions**
 
 - [eestlus](position_culture_eestlus.md)
-- [eesti keel](position_language_et.md)
+- [eesti keel](@chbrain/khai-cultures-tongues/et/position_language_et.md)
 - [e-Eesti](position_e_eesti.md)
 - [Soome sild](position_soome_sild.md)
 
@@ -69,7 +69,7 @@ Väike soomeugri rahvas Läänemere ääres, kelle keel ei kuulu indoeuroopa per
 
 **[Plot 1: Ärkamisaeg](plot_01_arkamisaeg.md)**
 
-19. sajandi teisel poolel ärkab maarahvas: [Lydia Koidula](persona_koidula.md) teeb talupojakeelest luule ja teatri, esimene [laulupidu](process_laulupidu.md) 1869. aastal äratab rahva, kes pole veel saanud ei riiki ega täit häält, [oma keele](position_language_et.md) kaudu.
+19. sajandi teisel poolel ärkab maarahvas: [Lydia Koidula](persona_koidula.md) teeb talupojakeelest luule ja teatri, esimene [laulupidu](process_laulupidu.md) 1869. aastal äratab rahva, kes pole veel saanud ei riiki ega täit häält, [oma keele](@chbrain/khai-cultures-tongues/et/position_language_et.md) kaudu.
 
 **[Plot 2: Vabadussõda](plot_02_vabadussoda.md)**
 
@@ -85,4 +85,4 @@ Väike soomeugri rahvas Läänemere ääres, kelle keel ei kuulu indoeuroopa per
 
 ## Stakes
 
-Kas pisike soomeugri rahvas, kelle ainus keelesugulane on üle lahe ja kes peaaegu kogu ajaloo kuulus teistele, suudab vabas riigis ja avatud maailmas jääda iseendaks: hoida [oma keelt](position_language_et.md) lääne inglise keele ja idanaabri vene keele vahel, lõimida venekeelset vähemust, hoida [pilku põhja](position_soome_sild.md) Põhjala poole, ja seista [digitaalselt](position_e_eesti.md) ja kindlalt püsti suure naabri kõrval, kaotamata inimest ja metsa ekraani taha.
+Kas pisike soomeugri rahvas, kelle ainus keelesugulane on üle lahe ja kes peaaegu kogu ajaloo kuulus teistele, suudab vabas riigis ja avatud maailmas jääda iseendaks: hoida [oma keelt](@chbrain/khai-cultures-tongues/et/position_language_et.md) lääne inglise keele ja idanaabri vene keele vahel, lõimida venekeelset vähemust, hoida [pilku põhja](position_soome_sild.md) Põhjala poole, ja seista [digitaalselt](position_e_eesti.md) ja kindlalt püsti suure naabri kõrval, kaotamata inimest ja metsa ekraani taha.

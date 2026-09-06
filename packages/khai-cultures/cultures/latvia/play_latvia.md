@@ -48,7 +48,7 @@ Zemnieku tauta, kas septiņus gadsimtus dzīvoja zem svešiem kungiem: vāciešu
 **Positions**
 
 - [latvietība](position_culture_latvietiba.md)
-- [latviešu valoda](position_language_lv.md)
+- [latviešu valoda](@chbrain/khai-cultures-tongues/lv/position_language_lv.md)
 - [dziesma](position_dziesma.md)
 - [starp kaimiņiem](position_starp_kaiminiem.md)
 
@@ -73,7 +73,7 @@ Kopš Livonijas krusta kara septiņus gadsimtus latvietis dzīvo [zem svešiem k
 
 **[Plot 2: Atmoda](plot_02_atmoda.md)**
 
-19. gadsimta vidū [jaunlatvieši ar Valdemāru](persona_valdemars.md) pacēlu tautu no zemnieka kārtas, un [Barons](persona_barons.md) sāk glābt [dainas](position_dziesma.md); [latviešu valoda](position_language_lv.md) kļūst par tautas lepnumu, ne kunga apsmieklu.
+19. gadsimta vidū [jaunlatvieši ar Valdemāru](persona_valdemars.md) pacēlu tautu no zemnieka kārtas, un [Barons](persona_barons.md) sāk glābt [dainas](position_dziesma.md); [latviešu valoda](@chbrain/khai-cultures-tongues/lv/position_language_lv.md) kļūst par tautas lepnumu, ne kunga apsmieklu.
 
 **[Plot 3: Okupācijas](plot_03_okupacijas.md)**
 
@@ -85,4 +85,4 @@ Brīvvalsts 1918. gadā, tad 1940. gada padomju okupācija, nacisti un atkal pad
 
 ## Stakes
 
-Vai maza tauta, kas septiņus gadsimtus kalpoja zem svešiem kungiem un savu valsti atguva tikai vakar, spēj noturēt [valodu](position_language_lv.md) un [dziesmu](position_dziesma.md) kā dzīvas saknes, savu valsti starp lielajiem kaimiņiem, iekļaut krievvalodīgo mazākumu vienā tautā, nezaudējot valodu, un apturēt smago izceļošanu, vai arī izsīkt klusi, kā maza zeme [starp varenajiem kaimiņiem](position_starp_kaiminiem.md).
+Vai maza tauta, kas septiņus gadsimtus kalpoja zem svešiem kungiem un savu valsti atguva tikai vakar, spēj noturēt [valodu](@chbrain/khai-cultures-tongues/lv/position_language_lv.md) un [dziesmu](position_dziesma.md) kā dzīvas saknes, savu valsti starp lielajiem kaimiņiem, iekļaut krievvalodīgo mazākumu vienā tautā, nezaudējot valodu, un apturēt smago izceļošanu, vai arī izsīkt klusi, kā maza zeme [starp varenajiem kaimiņiem](position_starp_kaiminiem.md).

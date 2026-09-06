@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Piederību zemnieku tautai, kas septiņus gadsimtus dzīvoja [starp varenajiem kaimiņiem](position_starp_kaiminiem.md), zem baltvācu baroniem un vēlāk zem cara un padomju varas, un kas tieši tāpēc mācījās turēties pie sava. Tā nes [dziesmu](position_dziesma.md), miljonu tautasdziesmu, kurās zemnieks ielika savu dzīvi, kamēr kungu valoda bija sveša un raksta viņam nebija, un dziesmu svētkus, kur desmitiem tūkstošu balsu saplūst vienā korī. Tā satur savu valodu, [latviešu valodu](position_language_lv.md), ko jaunlatvieši pacēla no zemnieka mēles līdz tautas lepnumam, un piemiņu par valsti, kas dabūta 1918. gadā, zaudēta okupācijās un 1991. gadā atgūta dziedot, bez asinīm.
+Piederību zemnieku tautai, kas septiņus gadsimtus dzīvoja [starp varenajiem kaimiņiem](position_starp_kaiminiem.md), zem baltvācu baroniem un vēlāk zem cara un padomju varas, un kas tieši tāpēc mācījās turēties pie sava. Tā nes [dziesmu](position_dziesma.md), miljonu tautasdziesmu, kurās zemnieks ielika savu dzīvi, kamēr kungu valoda bija sveša un raksta viņam nebija, un dziesmu svētkus, kur desmitiem tūkstošu balsu saplūst vienā korī. Tā satur savu valodu, [latviešu valodu](@chbrain/khai-cultures-tongues/lv/position_language_lv.md), ko jaunlatvieši pacēla no zemnieka mēles līdz tautas lepnumam, un piemiņu par valsti, kas dabūta 1918. gadā, zaudēta okupācijās un 1991. gadā atgūta dziedot, bez asinīm.
 
 ## Orders
 

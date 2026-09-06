@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Priklausymas seniausiai gyvai indoeuropiečių tautai, kuri kadaise valdė [Didžiąją Kunigaikštystę](position_didzioji_kunigaikstyste.md), didžiausią valstybę Europoje nuo jūros iki jūros, o paskui šimtmečius gyveno be savo valstybės, tik su [kalba](position_language_lt.md) ir [tikėjimu](position_katalikybe.md), kuriuos caras ir sovietai bandė atimti. Lietuviškumas neša paskutinio pakrikštyto Europoje krašto atmintį, todėl po katalikybe iki šiol rusena sena, pagoniška gamtos religija; jis neša Vyčio ir gintaro ženklus, Joninių laužus ir Kryžių kalno kryžius, kuriuos buldozeriai vertė, o žmonės vėl statė. Jis neša ir 1990 metų atmintį, kai maža tauta pirmoji ištrūko iš sovietų gniaužtų.
+Priklausymas seniausiai gyvai indoeuropiečių tautai, kuri kadaise valdė [Didžiąją Kunigaikštystę](position_didzioji_kunigaikstyste.md), didžiausią valstybę Europoje nuo jūros iki jūros, o paskui šimtmečius gyveno be savo valstybės, tik su [kalba](@chbrain/khai-cultures-tongues/lt/position_language_lt.md) ir [tikėjimu](position_katalikybe.md), kuriuos caras ir sovietai bandė atimti. Lietuviškumas neša paskutinio pakrikštyto Europoje krašto atmintį, todėl po katalikybe iki šiol rusena sena, pagoniška gamtos religija; jis neša Vyčio ir gintaro ženklus, Joninių laužus ir Kryžių kalno kryžius, kuriuos buldozeriai vertė, o žmonės vėl statė. Jis neša ir 1990 metų atmintį, kai maža tauta pirmoji ištrūko iš sovietų gniaužtų.
 
 ## Orders
 

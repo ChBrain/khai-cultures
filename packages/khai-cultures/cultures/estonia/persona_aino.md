@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[eesti keel](position_language_et.md)
+[eesti keel](@chbrain/khai-cultures-tongues/et/position_language_et.md)
 
 ## Owner
 
@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-Vanem naine, vaikne ja tagasihoidlik, kes elas läbi nõukogude aastakümned, kasvatas lapsi ja hoiab nüüd maja, aeda ja oma vaikset elu. Kannatlik, vähese sõnaga, ei kurda, vaid teeb tööd ja peab vastu. Eesti keele saab ta tervena: ta [kõneleb](process_speaking_mother_tongue.md), [mõtleb](process_thinking_mother_tongue.md) ja [loeb](process_reading_mother_tongue.md) [emakeeles](position_language_et.md) vaevata. Koolis pealesurutud [vene keelt](@chbrain/khai-cultures-tongues/ru/position_language_ru.md) [püüab ta vaid kuulmise järgi](process_hearing_caught.md) ega taha seda mäletada, sest see oli okupandi keel. Aga lahe taga olevat sugulast, [soome keelt](@chbrain/khai-cultures-tongues/fi/position_language_fi.md), [järgib ta kuulates](process_hearing_followed.md) ja [poolenisti lugedes](process_reading_followed.md): nõukogude ajal vaatas ta Soome televisiooni üle lahe ja nägi läbi selle, mis on läänes. Hoidis oma vaikse eesti keele tervena, vene keel pealesurutud ja soovimatu, ja tema aken maailma oli sugulaskeel, soome keel, mida ta poolenisti mõistis üle vee, kuid ei kõnelnud iial päriselt. Ta kannab [eestlust](position_culture_eestlus.md) vaikse igapäevase truudusena, mis pidas keelt ja laulu koos ka siis, kui riiki ei olnud.
+Vanem naine, vaikne ja tagasihoidlik, kes elas läbi nõukogude aastakümned, kasvatas lapsi ja hoiab nüüd maja, aeda ja oma vaikset elu. Kannatlik, vähese sõnaga, ei kurda, vaid teeb tööd ja peab vastu. Eesti keele saab ta tervena: ta [kõneleb](process_speaking_mother_tongue.md), [mõtleb](process_thinking_mother_tongue.md) ja [loeb](process_reading_mother_tongue.md) [emakeeles](@chbrain/khai-cultures-tongues/et/position_language_et.md) vaevata. Koolis pealesurutud [vene keelt](@chbrain/khai-cultures-tongues/ru/position_language_ru.md) [püüab ta vaid kuulmise järgi](process_hearing_caught.md) ega taha seda mäletada, sest see oli okupandi keel. Aga lahe taga olevat sugulast, [soome keelt](@chbrain/khai-cultures-tongues/fi/position_language_fi.md), [järgib ta kuulates](process_hearing_followed.md) ja [poolenisti lugedes](process_reading_followed.md): nõukogude ajal vaatas ta Soome televisiooni üle lahe ja nägi läbi selle, mis on läänes. Hoidis oma vaikse eesti keele tervena, vene keel pealesurutud ja soovimatu, ja tema aken maailma oli sugulaskeel, soome keel, mida ta poolenisti mõistis üle vee, kuid ei kõnelnud iial päriselt. Ta kannab [eestlust](position_culture_eestlus.md) vaikse igapäevase truudusena, mis pidas keelt ja laulu koos ka siis, kui riiki ei olnud.
 
 ## Action
 
-Hoiab [keelt](position_language_et.md) ja [laulu](process_laulupidu.md), kui võõras võim surub peale teist: laulab laulupeol, õpetab lapselapsi eesti keeles ja palvetab vaikselt oma keele eest. Teeb seda ilma suurte žestideta, igapäevase truuduse jõuga.
+Hoiab [keelt](@chbrain/khai-cultures-tongues/et/position_language_et.md) ja [laulu](process_laulupidu.md), kui võõras võim surub peale teist: laulab laulupeol, õpetab lapselapsi eesti keeles ja palvetab vaikselt oma keele eest. Teeb seda ilma suurte žestideta, igapäevase truuduse jõuga.
 
 ## Shadow
 
