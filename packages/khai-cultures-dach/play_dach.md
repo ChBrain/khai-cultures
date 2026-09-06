@@ -67,7 +67,7 @@ Diesmal unterschreiben alle drei - und das Publikum sagt nein, worauf ein Rat en
 
 **[Plot 99: drei Standards, eine Schreibung](plot_99_drei_standards_eine_schreibung.md)**
 
-Die Schreibung hält, während das Gesprochene auseinandergeht: Wien sichert seine Wörter völkerrechtlich, die Schweiz wird untertitelt.
+Die Schreibung hält, während das Gesprochene auseinandergeht: Wien sichert seine Wörter völkerrechtlich, die Schweiz wird untertitelt - und [die Delegierte](persona_die_delegierte.md) fährt für das Land hin, das den Rat am wenigsten braucht, weil Fernbleiben hiesse, es den anderen zu überlassen.
 
 ## Stakes
 

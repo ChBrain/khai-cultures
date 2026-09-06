@@ -33,5 +33,11 @@ credited here and never claimed; the staging is original work.
 | -------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | The Orthographic Conference 1901 | [plot_01_orthographische_konferenz_1901.md](plot_01_orthographische_konferenz_1901.md) | The Second Orthographic Conference (Berlin, 1901), Konrad Duden's dictionary, and the unified German spelling adopted across D, A, and CH. |
 
+[Die Delegierte](persona_die_delegierte.md) ist ein Archetyp und keine benannte
+Person: einer der Sitze im Rat, getragen von jemandem, der für jedes der drei
+Länder stehen könnte. Sie ist das eigene Company-Element dieser Gruppe und wird
+nur in deren eigenen Plots besetzt, nie in dem eines Mitglieds, weil es das Amt
+nur dort gibt, wo die drei zusammenkommen.
+
 Content is CC-BY-NC-SA, code is MIT; the grouping is a matter of public record,
 credited and never claimed.
