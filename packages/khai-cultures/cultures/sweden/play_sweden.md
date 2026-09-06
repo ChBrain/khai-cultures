@@ -50,7 +50,7 @@ Ett stort men glesbefolkat land som en gång var en stormakt kring Östersjön o
 - [lagom](position_lagom.md)
 - [allemansrätten](position_allemansratten.md)
 - [folkhemmet](position_folkhemmet.md)
-- [svenskan](position_language_sv_se.md)
+- [svenskan](@chbrain/khai-cultures-tongues/sv/position_language_sv.md)
 
 **Pieces**
 

@@ -15958,16 +15958,6 @@
           "title": "Everyman's Right"
         },
         {
-          "file": "position_language_fi.md",
-          "kind": "position",
-          "title": "Finnish"
-        },
-        {
-          "file": "position_language_sv_fi.md",
-          "kind": "position",
-          "title": "Finland Swedish"
-        },
-        {
           "file": "position_sisu.md",
           "kind": "position",
           "title": "Sisu"
@@ -20339,11 +20329,6 @@
           "file": "position_jafnrettid.md",
           "kind": "position",
           "title": "Equality"
-        },
-        {
-          "file": "position_language_is.md",
-          "kind": "position",
-          "title": "the Icelandic Language"
         },
         {
           "file": "position_thetta_reddast.md",
@@ -31056,11 +31041,6 @@
           "title": "The Law of Jante"
         },
         {
-          "file": "position_language_no.md",
-          "kind": "position",
-          "title": "Bokmål and Nynorsk"
-        },
-        {
           "file": "position_oljefondet.md",
           "kind": "position",
           "title": "The Oil Fund"
@@ -37234,11 +37214,6 @@
           "file": "position_lagom.md",
           "kind": "position",
           "title": "Lagom"
-        },
-        {
-          "file": "position_language_sv_se.md",
-          "kind": "position",
-          "title": "the Swedish Language"
         },
         {
           "file": "process_fika.md",
