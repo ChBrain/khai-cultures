@@ -125,6 +125,32 @@ replacement**, because it stops at Europe and this house does not. And **Wikidat
 QIDs are the interlink of choice**: CC0, global, stable, and available for
 historical and non-administrative regions that no administrative system carries.
 
+On the CC0, three precisions, because a licence line in a design record gets
+quoted later by someone who will not re-check it:
+
+- The house stores an **identifier and not content**, which is the safest use
+  available. A QID is a short string and almost certainly not a copyrightable work
+  at all, so the licence is a belt over braces rather than the thing doing the
+  work.
+- CC0 waives copyright **and sui generis database rights**, which is the clause
+  that matters in the EU and is exactly what ODbL does not do. Attribution is
+  requested and not legally required.
+- CC0 does **not** cover trademark or patent, warrants nothing about third-party
+  rights, and does not extend to media files, which carry their own licences. None
+  of those bite on an identifier.
+
+The adjacent trap is not Wikidata and is worth naming here because the two get
+conflated: **Wikipedia text is CC BY-SA**, with a share-alike obligation that
+propagates into derived work. Citing a Wikipedia article as a source is ordinary;
+lifting its prose into a published package is a different licence from the one
+this section is about.
+
+**Unverified from inside the house.** These statements are written from knowledge
+and the licensing page could not be reached from the build environment, which
+blocks egress. They are stable and long-standing rather than obscure, and they
+should still be confirmed against `wikidata.org` before the first package actually
+ships a QID.
+
 For the colour, geoBoundaries stays what the section above already made it, with
 one addition: the release is pinned, because a boundary dataset that moves under a
 published package is a silent change to what a culture is.

@@ -27,6 +27,16 @@ non-administrative regions no administrative system carries. geoBoundaries keeps
 the colour, with the release pinned, because a boundary dataset that moves under a
 published package is a silent change to what a culture is.
 
+The CC0 claim is written out rather than left as two letters, because a licence
+line in a design record gets quoted later by someone who will not re-check it. The
+house stores an identifier and not content, which is the safest use available;
+CC0 waives database rights as well as copyright, which is the clause ODbL lacks;
+and CC0 covers neither trademark nor media files, none of which bites on an id.
+The adjacent trap is named too, since the two get conflated: Wikipedia text is
+CC BY-SA with share-alike, so citing an article is ordinary and lifting its prose
+into a package is not. All of it is flagged unverified from inside the house: the
+licensing page could not be reached, because the build environment blocks egress.
+
 Bornholm turns out to be the second instance of the French Basque case and the
 **easier** one: the Basque Country has a unit that only approximates it, while
 Bornholm is coterminous with a municipality and a NUTS 3 region at once, so
