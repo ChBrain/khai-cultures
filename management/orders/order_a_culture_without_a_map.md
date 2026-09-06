@@ -147,6 +147,26 @@ string for such a culture and let the id carry the package name and the URL, whi
 it can, leaving only the colour to source. Whichever is chosen, it is chosen before
 Sønderjylland is written and not during.
 
+**The two parents must be typed, and this is a change the renderer asked for.**
+The order first said only that a mapless culture has two parents and that its id
+and its culture-position name both. The website side, asked before anything
+shipped, agreed the shape is renderable in an ordinary information architecture
+and returned one requirement: an untyped list will not do.
+
+> If the registry presently offers only an untyped `parents: string[]`, the
+> renderer can still render two parents, but it cannot honestly label why each
+> relationship exists.
+
+That is correct and it is the house's problem rather than theirs. A page has to be
+able to say _governed within_ over one parent and _cultural and linguistic kin_
+over the other, and it cannot infer which is which from an array of ids. Denmark
+is the kin of the Danish minority in South Schleswig and Schleswig-Holstein is its
+host, and reversing them would describe a different and wrong thing.
+
+So the registry emits the relation with its kind, not a bare list, and the two
+kinds are **host** and **kin**. Nothing else in the house needs them yet, which is
+the argument for typing them now rather than after a consumer has guessed.
+
 **What this order does not say.** It does not say every minority earns a culture.
 The test is the ordinary one and it is the same test a variety file has to pass:
 can a play be staged from it? A community with its own schools, press, party and
@@ -167,3 +187,5 @@ go, not so that the count can grow.
 - [ ] The coded-region gap is decided before the first culture with ground and no
       ISO is written: either `covers` takes a sub-ISO level, or the anchor stops
       being an ISO string and the id carries what it can.
+- [ ] The registry emits parents **typed** as `host` and `kin` rather than as a
+      bare list, so a page can label each relation rather than guess it.

@@ -64,6 +64,15 @@ it is every historical region in a state whose administrative map was drawn for
 something other than culture, and the geo record already predicts it by saying the
 level is chosen per culture.
 
+**The two parents are typed, at the renderer's request.** Asked before anything
+shipped, the website side agreed the shape is renderable in an ordinary
+information architecture and returned one requirement: an untyped `parents` array
+lets a page render two parents but not honestly label why each relation exists. A
+page must be able to say _governed within_ over one and _cultural and linguistic
+kin_ over the other, and Denmark is the kin of the Danish minority while
+Schleswig-Holstein is its host, so reversing them describes a different and wrong
+thing. The registry therefore emits the relation with its kind, `host` and `kin`.
+
 **It does not say every minority earns a culture.** The test is the one a variety
 file already has to pass: can a play be staged from it? A community with schools,
 press, party and a name for itself can be. A population that exists as a census
