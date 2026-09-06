@@ -36,6 +36,13 @@ import {
   MONOLITH_DIR,
 } from "./culture_sources.mjs";
 import { hasOrigin } from "./plot_zero.mjs";
+import {
+  groups as allGroups,
+  groupIds,
+  coverage as groupCoverage,
+  findings as groupFindings,
+  pathGroup,
+} from "./group_coverage.mjs";
 import { findings as productionFindings, umbrellaFindings } from "./production_packages.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -310,6 +317,57 @@ describe("Cultures house: a group is a unit and not a culture", () => {
   it("plot_zero refuses an id that is not a culture instead of passing it", () => {
     expect(() => hasOrigin("no_such_culture_at_all")).toThrow(/no culture directory/);
     for (const g of migratedGroups()) expect(() => hasOrigin(g.id)).toThrow(/no culture directory/);
+  });
+});
+
+// The group ratchet reads groups the way the culture ratchets read cultures, and
+// what runs here is the hygiene of its inputs: the gate itself needs a diff and
+// runs in CI. Nineteen of twenty-one groups owe something today and that is not
+// an error - the ratchet fires on what a pull request opens, so the debt shrinks
+// and the house stays green. See management/orders/order_the_group_ratchet.md.
+describe("Cultures house: the group ratchet reads both homes", () => {
+  it("sees every group, under the umbrella and in a package", () => {
+    const ids = groupIds();
+    expect(ids.length).toBeGreaterThan(0);
+    expect(new Set(ids).size, "a group in two places at once").toBe(ids.length);
+    for (const g of migratedGroups()) expect(ids).toContain(g.id);
+  });
+
+  it("maps a path in either home back to its group", () => {
+    for (const g of allGroups()) {
+      const rel = g.dir.split("/packages/")[1];
+      expect(pathGroup(`packages/${rel}/play_x.md`), `${g.id} in ${g.dir}`).toBe(g.id);
+    }
+    // Derived, never typed: a culture's path is the resolver's to know, and
+    // this file is held to that by migration.test.mjs.
+    const someCulture = cultures()[0];
+    const cultureRel = someCulture.dir.split("/packages/")[1];
+    expect(pathGroup(`packages/${cultureRel}/play_x.md`), someCulture.id).toBeNull();
+    expect(pathGroup("tests/house.test.mjs")).toBeNull();
+  });
+
+  it("charges only a group's own files, never a member it points at", () => {
+    // Every group names its members as package-qualified links out. If those
+    // were counted, every group would owe one dead entry per member forever.
+    for (const id of groupIds()) {
+      const { dead } = groupCoverage(id);
+      for (const f of dead) expect(f).not.toMatch(/^play_/);
+    }
+  });
+
+  it("answers with the same shape for a group the house has not got", () => {
+    const c = groupCoverage("no_such_group_at_all");
+    for (const key of ["unlinked", "orphans", "broken", "dead", "plots"])
+      expect(Array.isArray(c[key]), `coverage.${key} must be an array`).toBe(true);
+    expect(groupFindings("no_such_group_at_all")).toEqual([]);
+  });
+
+  it("the four whole groups stay whole, so a regression in them is caught here", () => {
+    // These four were brought up to the standard by hand before the wall
+    // existed. They are the only groups that can be held at zero today, so they
+    // are held here rather than only in a gate that needs a diff.
+    for (const id of ["nordics", "these_islands"])
+      expect(groupFindings(id), `${id}: ${groupFindings(id).join("; ")}`).toEqual([]);
   });
 });
 

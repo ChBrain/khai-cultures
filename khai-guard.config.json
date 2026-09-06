@@ -43,6 +43,11 @@
       "count": "Plot 0(?: OK)?: (.+)"
     },
     {
+      "name": "group-ratchet",
+      "command": "node tests/group_coverage.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Group ratchet(?: OK)?: (.+)"
+    },
+    {
       "name": "production-packages",
       "command": "node tests/production_packages.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
       "count": "Productions(?: OK)?: (.+)"
