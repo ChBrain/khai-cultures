@@ -251,6 +251,19 @@ describe("Cultures house: the company-coverage waivers stay honest", () => {
     }
     expect(errors, errors.join("; ")).toEqual([]);
   });
+
+  // The gate destructures four keys off coverage() and reads their lengths.
+  // Three of its returns used to carry only three, so an id the culture list
+  // does not hold - a migrated GROUP, which is a unit and not a culture - made
+  // the wall throw rather than report. A wall that throws says nothing while
+  // looking as though it failed on the content, which is the worst of both.
+  it("coverage answers with every key, including for an id the house has not got", () => {
+    for (const id of ["nordics", "no_such_culture_at_all", ...coveredCultureIds().slice(0, 3)]) {
+      const c = coverage(id);
+      for (const key of ["dead", "waived", "superseded", "company"])
+        expect(Array.isArray(c[key]), `coverage("${id}").${key} must be an array`).toBe(true);
+    }
+  });
 });
 
 // The tongues package is not a culture and must never need one. This runs on

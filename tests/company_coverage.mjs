@@ -125,16 +125,20 @@ export function cultureIds() {
  * and minus anything waived. Returns { dead, waived, company } basenames.
  */
 export function coverage(id) {
+  // Every return here carries all four keys. The gate destructures `superseded`
+  // and reads its length, so an early return that omits it does not report a
+  // clean culture, it throws - and a wall that throws is a wall that says
+  // nothing while looking like it failed on the content.
+  const empty = { dead: [], waived: [], superseded: [], company: [] };
   const dir = cultureDir(id);
-  if (!dir || !existsSync(dir) || !statSync(dir).isDirectory())
-    return { dead: [], waived: [], company: [] };
+  if (!dir || !existsSync(dir) || !statSync(dir).isDirectory()) return empty;
   const files = readdirSync(dir).filter((f) => f.endsWith(".md"));
   const playFile = files.find((f) => f.startsWith("play_"));
-  if (!playFile) return { dead: [], waived: [], company: [] };
+  if (!playFile) return empty;
 
   const companyBody = section(readFileSync(join(dir, playFile), "utf8"), "Company");
   const company = new Set(companyBody ? linkBasenames(companyBody) : []);
-  if (company.size === 0) return { dead: [], waived: [], company: [] };
+  if (company.size === 0) return empty;
 
   const cast = new Set();
   for (const plot of files.filter((f) => f.startsWith("plot_")))
@@ -257,9 +261,28 @@ function gate(base, head) {
     return 0;
   }
   if (note) console.log(note);
+  // `authoredCultures` answers in UNITS, and a migrated group is a unit. The
+  // culture list deliberately is not: see the note in culture_sources.mjs, a
+  // migrated group is a unit and not a culture, because the minor IS the
+  // culture count and a group must not move it. So the two lists disagree by
+  // design, and this wall reads cultures. Skip what it does not hold - and say
+  // which, because an exemption this wall applies silently is the same fault
+  // `relinkNote` exists to prevent.
+  const known = new Set(cultureIds());
+  const notCultures = touched.filter((id) => !known.has(id));
+  const charged = touched.filter((id) => known.has(id));
+  if (notCultures.length)
+    console.log(
+      `  ${notCultures.length} authored unit(s) are not cultures and are not charged ` +
+        `by this wall: ${notCultures.join(", ")}`,
+    );
+  if (!charged.length) {
+    console.log("Company coverage: no culture authored, nothing to hold to zero.");
+    return 0;
+  }
   const offenders = [];
   const stale = [];
-  for (const id of touched) {
+  for (const id of charged) {
     const { dead, waived, superseded } = coverage(id);
     if (superseded.length) stale.push([id, superseded]);
     if (dead.length) offenders.push([id, dead]);
@@ -269,7 +292,7 @@ function gate(base, head) {
       );
   }
   if (!offenders.length && !stale.length) {
-    console.log(`Company coverage OK: ${touched.length} authored culture(s), all at zero.`);
+    console.log(`Company coverage OK: ${charged.length} authored culture(s), all at zero.`);
     return 0;
   }
   if (offenders.length) {
