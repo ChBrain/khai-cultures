@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-The common market of the six prospers, and the nations left outside it begin to want in. Over three decades the community opens its door, north and west and then south, drawing in nations that seek the prosperity of the market and, for some, the anchor of a young democracy to a community of law.
+A woman in Cork counts what her brother sends home from Birmingham, and reckons it against what a job in Dublin would pay if there were one. Whole regions on the edge of the six are doing that sum in the 1960s, and the answer keeps coming out the same way. The common market prospers, and the people outside it can see it. Over three decades the community opens its door, north and west and then south, drawing in nations that seek the prosperity of the market and, for some, the anchor of a young democracy to a community of law.
 
 ## Action
 

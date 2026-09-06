@@ -43157,9 +43157,21 @@
       ],
       "members": [
         {
+          "file": "persona_the_returner.md",
+          "kind": "persona",
+          "title": "Persona: the Returner",
+          "type": "archetype"
+        },
+        {
           "file": "play_eu.md",
           "kind": "play",
           "title": "the European Union"
+        },
+        {
+          "file": "plot_00_the_licence_to_teach_anywhere.md",
+          "kind": "plot",
+          "title": "The Licence to Teach Anywhere, from 1088",
+          "taxonomy": "play_eu.md"
         },
         {
           "file": "plot_01_rome_1957.md",
@@ -43184,6 +43196,17 @@
           "kind": "plot",
           "title": "The Big Bang and the Strains",
           "taxonomy": "play_eu.md"
+        },
+        {
+          "file": "plot_99_the_returners.md",
+          "kind": "plot",
+          "title": "The Returners, since 1987",
+          "taxonomy": "play_eu.md"
+        },
+        {
+          "file": "position_the_licence_to_move.md",
+          "kind": "position",
+          "title": "Position: the licence to move"
         }
       ]
     },

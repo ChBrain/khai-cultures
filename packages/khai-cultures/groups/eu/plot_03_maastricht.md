@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-At the end of the 1980s the Cold War ends and [Germany](@chbrain/khai-cultures-germany/play_germany.md) reunites, and the community decides to match the moment by deepening as well as widening - to bind a bigger Germany and a freer continent into something stronger than a common market.
+A haulier keeps a folder of currencies in the cab and a second folder of customs forms, and loses a morning at every frontier to both. Somebody works out that a traveller changing money in each of the ten members and spending none of it arrives home with roughly half of what they set out with. At the end of the 1980s the Cold War ends and [Germany](@chbrain/khai-cultures-germany/play_germany.md) reunites, and the community decides to match the moment by deepening as well as widening.
 
 ## Action
 
