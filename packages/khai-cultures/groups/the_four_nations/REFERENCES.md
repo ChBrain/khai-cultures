@@ -37,13 +37,18 @@ Kingdom's group, which is wrong in a way a website would render.
 
 ## Historical sources
 
-| Subject                 | In this group                                                                                    | Scope                                                                                                                                  |
-| ----------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Folk football           | [plot_00_the_games_before_the_rules.md](plot_00_the_games_before_the_rules.md)                   | Shrovetide football, the Kirkwall Ba', _cnapan_ and _caid_ as the pre-codification games of the four; several are still played.        |
-| The first international | [plot_01_the_first_international_1872.md](plot_01_the_first_international_1872.md)               | Scotland v England, Hamilton Crescent, Partick, 30 November 1872, goalless; the first international association football match played. |
-| The laws board          | [plot_02_the_board_that_writes_the_laws_1886.md](plot_02_the_board_that_writes_the_laws_1886.md) | The four associations form the board in 1886; the world body joins in 1913; eight votes today, four with the world body and one each.  |
-| Championship and Lions  | [plot_03_the_championship_and_the_lions.md](plot_03_the_championship_and_the_lions.md)           | The annual four-nation football championship, 1883/84 to 1984; the touring side drawn from the four and Ireland, from the 1880s.       |
-| Four teams, four rules  | [plot_99_four_teams_four_rules.md](plot_99_four_teams_four_rules.md)                             | Devolution from 1999; the associations' resistance to a single Olympic side; the four-nation public-health divergence of 2020 to 2022. |
+| Subject                 | In this group                                                                                    | Scope                                                                                                                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Folk football           | [plot_00_the_games_before_the_rules.md](plot_00_the_games_before_the_rules.md)                   | Shrovetide football, the Kirkwall Ba', _cnapan_ and _caid_ as the pre-codification games of the four; several are still played.                                               |
+| The first international | [plot_01_the_first_international_1872.md](plot_01_the_first_international_1872.md)               | Scotland v England, Hamilton Crescent, Partick, 30 November 1872, goalless; the first international association football match played.                                        |
+| The laws board          | [plot_02_the_board_that_writes_the_laws_1886.md](plot_02_the_board_that_writes_the_laws_1886.md) | The four associations form the board in 1886; the world body joins in 1913; eight votes today, four with the world body and one each.                                         |
+| Championship and Lions  | [plot_03_the_championship_and_the_lions.md](plot_03_the_championship_and_the_lions.md)           | The annual four-nation football championship, 1883/84 to 1984; the touring side drawn from the four and Ireland, from the 1880s.                                              |
+| Four teams, four rules  | [plot_99_four_teams_four_rules.md](plot_99_four_teams_four_rules.md)                             | Devolution from 1999; the associations' resistance to a single Olympic side; the four-nation public-health divergence of 2020 to 2022; the board's eight votes as they stand. |
+
+[The Secretary](persona_the_secretary.md) is an archetype and not a named person:
+one of the four board seats, carried by someone who could be any of the four. She
+is the group's own Company and is staged only in its own plots, never in a
+member's, because the office exists only where the four sit down together.
 
 ## A note on the arc
 

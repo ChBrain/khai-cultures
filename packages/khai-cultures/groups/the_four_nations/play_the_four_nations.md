@@ -75,7 +75,7 @@ The four play each other every year for a century, and when the fixture finally 
 
 **[Plot 99: Four Teams, Four Rules, since 1999](plot_99_four_teams_four_rules.md)**
 
-Devolution gives the four what the fixture list gave them in 1884, and a pandemic runs the country the way the sport always had: four sets of rules, four announcements, one island in the middle of it.
+Devolution gives the four what the fixture list gave them in 1884, and a pandemic runs the country the way the sport always had: four sets of rules, four announcements, one island in the middle of it; and [the Secretary](persona_the_secretary.md) still holds one of the four seats that write the laws of a world game.
 
 ## Stakes
 
