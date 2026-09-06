@@ -34,4 +34,4 @@ Bakke, der fristelsen til å bruke mer enn regelen tillater vokser, og der rikdo
 
 ## Drives
 
-Det reiser seg av [Oljen i Nordsjøen 1969](plot_04_oljen_1969.md) som landets svar på rikdommen: et valg om å holde igjen, så et lite folk kan bli rikt uten å miste hodet.
+Det reiser seg av [Oljen i Nordsjøen 1969](plot_07_oljen_1969.md) som landets svar på rikdommen: et valg om å holde igjen, så et lite folk kan bli rikt uten å miste hodet.

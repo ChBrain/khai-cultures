@@ -26,7 +26,7 @@ Hovedstaden innerst i Oslofjorden, en lavmælt by mellom fjord og skog, med mark
 
 ## Holds
 
-- [Unionsoppløsningen 1905](plot_03_unionsopplosning_1905.md): her erklærer Stortinget unionen oppløst.
+- [Unionsoppløsningen 1905](plot_05_unionsopplosning_1905.md): her erklærer Stortinget unionen oppløst.
 - [oljefondet](position_oljefondet.md): her forvaltes og voktes rikdommen for kommende slekter.
 
 ## Offers
