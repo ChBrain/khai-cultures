@@ -30956,8 +30956,8 @@
       "title": "Norway",
       "description": "Norway staged as a culture: a steep land of mountains and sea where people belong to nature and share the work.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/norway"
+        "package": "@chbrain/khai-cultures-norway",
+        "path": ""
       },
       "iso": "NO",
       "members": [
@@ -31027,6 +31027,12 @@
           "title": "Norway"
         },
         {
+          "file": "plot_00_odelen_og_tinget.md",
+          "kind": "plot",
+          "title": "The Odal Right and the Thing, from 900",
+          "taxonomy": "play_norway.md"
+        },
+        {
           "file": "plot_01_stiklestad.md",
           "kind": "plot",
           "title": "The Battle of Stiklestad 1030",
@@ -31039,15 +31045,39 @@
           "taxonomy": "play_norway.md"
         },
         {
-          "file": "plot_03_unionsopplosning_1905.md",
+          "file": "plot_03_morgedal_og_gudbrandsdalen.md",
+          "kind": "plot",
+          "title": "Morgedal and Gudbrandsdalen, the 1860s",
+          "taxonomy": "play_norway.md"
+        },
+        {
+          "file": "plot_04_bunaden_1903.md",
+          "kind": "plot",
+          "title": "The Costume 1903",
+          "taxonomy": "play_norway.md"
+        },
+        {
+          "file": "plot_05_unionsopplosning_1905.md",
           "kind": "plot",
           "title": "The Dissolution of the Union 1905",
           "taxonomy": "play_norway.md"
         },
         {
-          "file": "plot_04_oljen_1969.md",
+          "file": "plot_06_nansenpasset_1922.md",
+          "kind": "plot",
+          "title": "The Nansen Passport 1922",
+          "taxonomy": "play_norway.md"
+        },
+        {
+          "file": "plot_07_oljen_1969.md",
           "kind": "plot",
           "title": "The Oil in the North Sea 1969",
+          "taxonomy": "play_norway.md"
+        },
+        {
+          "file": "plot_99_hyttene_og_elbilene.md",
+          "kind": "plot",
+          "title": "The Cabins and the Electric Cars",
           "taxonomy": "play_norway.md"
         },
         {
@@ -31080,7 +31110,8 @@
           "kind": "process",
           "title": "Friluftsliv"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-norway"
     },
     {
       "kind": "culture",

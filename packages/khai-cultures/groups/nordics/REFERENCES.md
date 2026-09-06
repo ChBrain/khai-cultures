@@ -19,7 +19,7 @@ by hand.
 | --- | ------- | --------------------------------------------------------- |
 | DK  | Denmark | [denmark](@chbrain/khai-cultures-denmark/play_denmark.md) |
 | SE  | Sweden  | [sweden](@chbrain/khai-cultures-sweden/play_sweden.md)    |
-| NO  | Norway  | [norway](../../cultures/norway/play_norway.md)            |
+| NO  | Norway  | [norway](@chbrain/khai-cultures-norway/play_norway.md)    |
 | FI  | Finland | [finland](../../cultures/finland/play_finland.md)         |
 | IS  | Iceland | [iceland](../../cultures/iceland/play_iceland.md)         |
 

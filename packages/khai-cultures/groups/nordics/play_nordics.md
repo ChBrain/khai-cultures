@@ -46,7 +46,7 @@ English.
 
 - [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md)
 - [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md)
-- [Norway](../../cultures/norway/play_norway.md)
+- [Norway](@chbrain/khai-cultures-norway/play_norway.md)
 - [Finland](../../cultures/finland/play_finland.md)
 - [Iceland](../../cultures/iceland/play_iceland.md)
 

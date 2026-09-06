@@ -33,7 +33,7 @@ They do this everywhere in the north and they do it in one language. Iceland's a
 - [Iceland](../../cultures/iceland/play_iceland.md): the assembly that survived, wrote itself down, and is still standing on the ground it met on.
 - [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md): the country the shared language was named after by people who were not in it.
 - [det danske sprog](@chbrain/khai-cultures-tongues/da/position_language_da.md): the modern descendant of the one that got its name onto the whole family.
-- [Norway](../../cultures/norway/play_norway.md): the middle of the speech area, and the route the settlement of Iceland came out of.
+- [Norway](@chbrain/khai-cultures-norway/play_norway.md): the middle of the speech area, and the route the settlement of Iceland came out of.
 
 ## Tension
 

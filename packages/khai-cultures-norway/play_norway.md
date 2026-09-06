@@ -67,6 +67,10 @@ Et fattig utkantland av fjell og fjord, lenge styrt fra Danmark og siden i union
 
 ## Triggers
 
+**[Plot 0: Odelen og tinget, fra 900](plot_00_odelen_og_tinget.md)**
+
+Et land av spredte garder får odelsretten, som holder jorda hos ætta og hindrer et herregodsvelde, og tinget, der loven kvedes fram og en konge må tas imot av hver landsdel for seg; det som blir for tungt for én gard, gjøres til [dugnad](process_dugnad.md).
+
 **[Plot 1: Slaget ved Stiklestad 1030](plot_01_stiklestad.md)**
 
 [Olav den hellige](persona_olav.md) faller i slaget og blir landets evige konge og helgen; med ham slår kristendommen rot, og veien fra [Oslo](place_oslo.md) og kysten innover binder landet sammen til ett rike og én tro.
@@ -75,13 +79,29 @@ Et fattig utkantland av fjell og fjord, lenge styrt fra Danmark og siden i union
 
 På [Eidsvoll](place_eidsvoll.md) skriver mennene en av Europas frieste grunnlover og erklærer Norge selvstendig; selv om unionen med Sverige kommer like etter, blir loven landets fundament og dets stolthet.
 
-**[Plot 3: Unionsoppløsningen 1905](plot_03_unionsopplosning_1905.md)**
+**[Plot 3: Morgedal og Gudbrandsdalen, 1860-årene](plot_03_morgedal_og_gudbrandsdalen.md)**
+
+To husmannspåfunn i et fattig tiår blir det landet siden viser fram: Sondre Norheims binding og svung gjør skien til [friluftsliv](process_friluftsliv.md), og Anne Hovs kokte myse blir [brunosten](piece_brunost.md), vist fram først da byen i [Oslo](place_oslo.md) tar dem opp.
+
+**[Plot 4: Bunaden 1903](plot_04_bunaden_1903.md)**
+
+Hulda Garborg samler og skriver opp bygdedraktene og gir dem tilbake som [bunaden](piece_bunad.md), uten å slå dem sammen til én; samme prosjekt som [målstriden](@chbrain/khai-cultures-tongues/no/position_language_no.md), og med samme utfall: landet nekter å velge ett svar.
+
+**[Plot 5: Unionsoppløsningen 1905](plot_05_unionsopplosning_1905.md)**
 
 I [Oslo](place_oslo.md) løser Norge fredelig unionen med Sverige og blir et eget rike igjen; et folk stemmer seg til frihet uten å løsne et skudd.
 
-**[Plot 4: Oljen i Nordsjøen 1969](plot_04_oljen_1969.md)**
+**[Plot 6: Nansenpasset 1922](plot_06_nansenpasset_1922.md)**
+
+[Fridtjof Nansen](persona_nansen.md) bruker polfarerberømmelsen sin på de statsløse og får verden til å godta et papir for mennesker uten land; med Nobelprisen samme år blir [fredsnasjonen](plan_fredsnasjonen.md) landets rolle ute i verden.
+
+**[Plot 7: Oljen i Nordsjøen 1969](plot_07_oljen_1969.md)**
 
 Funnet av olje i Nordsjøen gjør et fattig land søkkrikt; men i stedet for å bruke pengene opp, legger landet dem i [oljefondet](position_oljefondet.md) og holder rikdommen i tømme for slektene som kommer.
+
+**[Plot 99: Hyttene og elbilene](plot_99_hyttene_og_elbilene.md)**
+
+Dugnad kåres til nasjonalord i et land som er rikt nok til å betale seg ut av alt; [Kari](persona_kari.md) møter fortsatt opp, [Sondre](persona_sondre.md) kjøper seg fri, og bilparken går elektrisk på penger tjent på olje.
 
 ## Stakes
 

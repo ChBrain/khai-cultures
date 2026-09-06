@@ -27,7 +27,7 @@ Polfareren, vitenskapsmannen og humanisten som først krysset Grønland på ski 
 
 ## Action
 
-Etter [Unionsoppløsningen 1905](plot_03_unionsopplosning_1905.md) blir han det unge landets stemme ute i verden, og han lever [friluftslivet](process_friluftsliv.md) som grunnholdning - fra polisen til flyktningleirene, der nøkternhet og utholdenhet blir til hjelp for andre.
+Etter [Unionsoppløsningen 1905](plot_05_unionsopplosning_1905.md) blir han det unge landets stemme ute i verden, og han lever [friluftslivet](process_friluftsliv.md) som grunnholdning - fra polisen til flyktningleirene, der nøkternhet og utholdenhet blir til hjelp for andre.
 
 ## Shadow
 

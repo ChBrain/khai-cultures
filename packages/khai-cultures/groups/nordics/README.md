@@ -22,7 +22,7 @@ logical lingua franca, since the five members share no single tongue.
 
 - **Members:** [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md),
   [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md),
-  [Norway](../../cultures/norway/play_norway.md),
+  [Norway](@chbrain/khai-cultures-norway/play_norway.md),
   [Finland](../../cultures/finland/play_finland.md),
   [Iceland](../../cultures/iceland/play_iceland.md).
 - **Kind:** `group` (the registry stamps it, so the website can tell it from a
