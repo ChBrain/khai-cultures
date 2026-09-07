@@ -16,7 +16,7 @@ this group casts, not authored by hand.
 
 | ISO | Country  | Member culture                                            |
 | --- | -------- | --------------------------------------------------------- |
-| PL  | Poland   | [poland](../../cultures/poland/play_poland.md)            |
+| PL  | Poland   | [poland](@chbrain/khai-cultures-poland/play_poland.md)    |
 | CZ  | Czechia  | [czechia](@chbrain/khai-cultures-czechia/play_czechia.md) |
 | SK  | Slovakia | [slovakia](../../cultures/slovakia/play_slovakia.md)      |
 | HU  | Hungary  | [hungary](@chbrain/khai-cultures-hungary/play_hungary.md) |

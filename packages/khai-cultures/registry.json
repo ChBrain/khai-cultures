@@ -32735,8 +32735,8 @@
       "title": "Poland",
       "description": "Poland staged as a culture: a nation that outlived its own erasure, held by tongue and faith.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/poland"
+        "package": "@chbrain/khai-cultures-poland",
+        "path": ""
       },
       "iso": "PL",
       "members": [
@@ -32813,6 +32813,12 @@
           "title": "Poland"
         },
         {
+          "file": "plot_00_lech_i_orzel.md",
+          "kind": "plot",
+          "title": "Lech and the Eagle",
+          "taxonomy": "play_poland.md"
+        },
+        {
           "file": "plot_01_rozbiory.md",
           "kind": "plot",
           "title": "The Partitions",
@@ -32834,6 +32840,12 @@
           "file": "plot_04_wolna_polska.md",
           "kind": "plot",
           "title": "Free Poland",
+          "taxonomy": "play_poland.md"
+        },
+        {
+          "file": "plot_99_kraj_do_ktorego_sie_przyjezdza.md",
+          "kind": "plot",
+          "title": "A Country People Arrive In",
           "taxonomy": "play_poland.md"
         },
         {
@@ -32861,7 +32873,8 @@
           "kind": "process",
           "title": "Christmas Eve Supper"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-poland"
     },
     {
       "kind": "culture",

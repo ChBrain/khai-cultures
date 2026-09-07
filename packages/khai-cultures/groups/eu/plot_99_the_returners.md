@@ -38,7 +38,7 @@ Then in 2022 the Union opened to several million people in a matter of weeks, by
 
 - [the Returner](persona_the_returner.md): the generation the exchange made, who has the thing and did not negotiate it.
 - [the licence to move](position_the_licence_to_move.md): most felt by those who used it, most resented where it emptied a town.
-- [Poland](../../cultures/poland/play_poland.md): the member that sent the most people west and is now receiving them, and the one where both halves of the argument are held by the same families.
+- [Poland](@chbrain/khai-cultures-poland/play_poland.md): the member that sent the most people west and is now receiving them, and the one where both halves of the argument are held by the same families.
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md): a country whose entire modern history is emigration, and the first to find that membership reversed the direction.
 
 ## Tension

@@ -18,7 +18,7 @@ Like DACH and the Nordics, the Visegrad Four is a **group**, not a country. It h
 `references` from exactly those casts, so the membership can never drift from what
 the play actually links.
 
-- **Members:** [Poland](../../cultures/poland/play_poland.md),
+- **Members:** [Poland](@chbrain/khai-cultures-poland/play_poland.md),
   [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md),
   [Slovakia](../../cultures/slovakia/play_slovakia.md),
   [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md).
