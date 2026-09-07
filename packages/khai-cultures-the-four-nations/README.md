@@ -13,8 +13,8 @@ that holds this production and answers for it.
 ## A group, not a culture
 
 The state above these four is already a culture in this house,
-`united_kingdom` - named here and deliberately **not linked**, for the same reason
-Ireland is not - and it stages Britishness: the Crown, Westminster, class, the Union Jack. This
+[united_kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md),
+and it stages Britishness: the Crown, Westminster, class, the Union Jack. This
 group is deliberately not that. It stages what the four made **with each other**,
 which per `management/design/groups-and-references.md` §2.1.1 is what a group's
 arc is for, and which in this case is emphatically not the Union.
