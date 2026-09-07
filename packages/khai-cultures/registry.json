@@ -43551,8 +43551,8 @@
       "title": "the Lusophone World",
       "description": "The Lusophone world as a group: Portugal and Brazil, one tongue carried across the Atlantic by the sea.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/lusophone"
+        "package": "@chbrain/khai-cultures-lusophone",
+        "path": ""
       },
       "references": ["brazil", "portugal"],
       "members": [
@@ -43560,6 +43560,12 @@
           "file": "play_lusophone.md",
           "kind": "play",
           "title": "the Lusophone World"
+        },
+        {
+          "file": "plot_00_a_lingua_antes_dos_paises.md",
+          "kind": "plot",
+          "title": "The Tongue Before the Countries",
+          "taxonomy": "play_lusophone.md"
         },
         {
           "file": "plot_01_the_seafaring_nation.md",
@@ -43583,6 +43589,12 @@
           "file": "plot_04_the_shared_tongue.md",
           "kind": "plot",
           "title": "the Shared Tongue",
+          "taxonomy": "play_lusophone.md"
+        },
+        {
+          "file": "plot_99_a_lingua_volta_pelo_ecra.md",
+          "kind": "plot",
+          "title": "The Tongue Comes Back Through the Screen",
           "taxonomy": "play_lusophone.md"
         }
       ]

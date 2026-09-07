@@ -42,12 +42,14 @@ creditada aqui, nunca reivindicada; a encenação é trabalho original. A colôn
 escravidão e a expropriação dos primeiros povos são encenadas com sobriedade, a
 partir do registro público, sem detalhe de atrocidade.
 
-| Tema                  | Neste grupo                                                              | Alcance                                                                                   |
-| --------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| As navegações         | [plot_01_the_seafaring_nation.md](plot_01_the_seafaring_nation.md)       | Portugal e a Era dos Descobrimentos, as rotas do mar em torno da África e pelo Atlântico. |
-| A fundação do Brasil  | [plot_02_the_atlantic_crossing.md](plot_02_the_atlantic_crossing.md)     | O aporte de 1500, a colônia de açúcar e ouro, a escravidão e a língua criando raízes.     |
-| Corte e independência | [plot_03_the_court_and_the_crown.md](plot_03_the_court_and_the_crown.md) | A fuga da corte para o Rio em 1808 e a independência do Brasil como império em 1822.      |
-| A Lusofonia moderna   | [plot_04_the_shared_tongue.md](plot_04_the_shared_tongue.md)             | O português em dois continentes, a saudade, a música e as letras, o futebol e a CPLP.     |
+| Tema                   | Neste grupo                                                                  | Alcance                                                                                                |
+| ---------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| A língua antes de nós  | [plot_00_a_lingua_antes_dos_paises.md](plot_00_a_lingua_antes_dos_paises.md) | O galego-português dos séculos XII a XIV e as cantigas de amigo, anteriores a ambos os países.         |
+| As navegações          | [plot_01_the_seafaring_nation.md](plot_01_the_seafaring_nation.md)           | Portugal e a Era dos Descobrimentos, as rotas do mar em torno da África e pelo Atlântico.              |
+| A fundação do Brasil   | [plot_02_the_atlantic_crossing.md](plot_02_the_atlantic_crossing.md)         | O aporte de 1500, a colônia de açúcar e ouro, a escravidão e a língua criando raízes.                  |
+| Corte e independência  | [plot_03_the_court_and_the_crown.md](plot_03_the_court_and_the_crown.md)     | A fuga da corte para o Rio em 1808 e a independência do Brasil como império em 1822.                   |
+| A Lusofonia moderna    | [plot_04_the_shared_tongue.md](plot_04_the_shared_tongue.md)                 | O português em dois continentes, a saudade, a música e as letras, o futebol e a CPLP.                  |
+| A inversão da corrente | [plot_99_a_lingua_volta_pelo_ecra.md](plot_99_a_lingua_volta_pelo_ecra.md)   | O peso demográfico brasileiro nos media em português, e o Acordo Ortográfico de 1990 ainda contestado. |
 
 O conteúdo é CC-BY-NC-SA, o código é MIT; o agrupamento e o seu registro são
 matéria de registro público, creditados e nunca reivindicados.

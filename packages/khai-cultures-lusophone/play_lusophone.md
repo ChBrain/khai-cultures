@@ -34,21 +34,29 @@ O mundo que a língua portuguesa construiu. De Portugal, a pequena nação volta
 
 ## Triggers
 
-**A língua portuguesa**
+**[Plot 0: A língua antes dos países](plot_00_a_lingua_antes_dos_paises.md)**
 
-A língua compartilhada é o verdadeiro chão do agrupamento: a mesma língua, nascida numa pequena costa atlântica, hoje falada em dois continentes e ao redor do mundo, carregando uma única literatura e um único nome para o anseio até dois lares muito diferentes.
+Entre os séculos XII e XIV forma-se o galego-português e nele se cantam as cantigas de amigo, na voz de quem espera o que partiu por mar; a língua tem a sua matéria e a sua queixa antes de ter os seus donos.
 
-**A era das navegações**
+**[Plot 1: A nação navegadora](plot_01_the_seafaring_nation.md)**
 
-Da Era dos Descobrimentos vieram os caminhos do mar que uniram este mundo: [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) abrindo as rotas em torno da África e através do Atlântico, e os navios que levaram a língua, a cruz e a colônia até a margem distante onde o [Brasil](@chbrain/khai-cultures-brazil/play_brazil.md) haveria de crescer.
+Uma nação pequena na orla ocidental da Europa, de costas para a terra e de rosto para o Atlântico, faz do mar a saída que a península estreita não dá, e abre as rotas em torno de África.
 
-**A saudade**
+**[Plot 2: A travessia do Atlântico](plot_02_the_atlantic_crossing.md)**
 
-Ambos os povos reivindicam a saudade, esse anseio português intraduzível por aquilo que está ausente ou perdido, tecido tanto no fado quanto na bossa nova, uma estrutura de sentimento que a língua carrega e que marca a família lusófona como sua.
+Em 1500 uma frota a caminho da Índia é levada para oeste e aporta numa terra vasta; o que começa como ponto de passagem torna-se colónia, e a língua cria raízes do outro lado do oceano.
 
-**A CPLP**
+**[Plot 3: A corte e a coroa](plot_03_the_court_and_the_crown.md)**
 
-A Comunidade dos Países de Língua Portuguesa (CPLP) une as nações de língua portuguesa num só círculo, e nomeia com honestidade aquilo que este grupo ainda não encenou: Angola, Moçambique, Cabo Verde e as demais, os membros africanos e asiáticos de uma Lusofonia muito maior do que o seu núcleo atlântico.
+Em 1808 a casa real portuguesa embarca inteira à frente dos exércitos de Napoleão e vai governar o império a partir da sua colónia, coisa que nenhuma monarquia europeia fizera.
+
+**[Plot 4: A língua compartilhada](plot_04_the_shared_tongue.md)**
+
+Cinco séculos depois da primeira travessia, a mesma língua dá à pequena terra-mãe e à nação continental duas vozes muito diferentes, e uma só palavra para o que falta.
+
+**[Plot 99: A língua volta pelo ecrã](plot_99_a_lingua_volta_pelo_ecra.md)**
+
+A corrente inverte-se: duzentos milhões produzem mais do que dez, e crianças portuguesas apanham o [português brasileiro](@chbrain/khai-cultures-tongues/pt/position_language_pt_br.md) no telemóvel sem terem atravessado o Atlântico.
 
 ## Stakes
 
