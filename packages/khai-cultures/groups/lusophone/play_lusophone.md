@@ -29,7 +29,7 @@ O mundo que a língua portuguesa construiu. De Portugal, a pequena nação volta
 
 **Membros**
 
-- [Portugal](../../cultures/portugal/play_portugal.md) (a terra-mãe, a nação navegadora)
+- [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) (a terra-mãe, a nação navegadora)
 - [o Brasil](../../cultures/brazil/play_brazil.md) (a colônia que cresceu até se tornar a maior nação de língua portuguesa)
 
 ## Triggers
@@ -40,7 +40,7 @@ A língua compartilhada é o verdadeiro chão do agrupamento: a mesma língua, n
 
 **A era das navegações**
 
-Da Era dos Descobrimentos vieram os caminhos do mar que uniram este mundo: [Portugal](../../cultures/portugal/play_portugal.md) abrindo as rotas em torno da África e através do Atlântico, e os navios que levaram a língua, a cruz e a colônia até a margem distante onde o [Brasil](../../cultures/brazil/play_brazil.md) haveria de crescer.
+Da Era dos Descobrimentos vieram os caminhos do mar que uniram este mundo: [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) abrindo as rotas em torno da África e através do Atlântico, e os navios que levaram a língua, a cruz e a colônia até a margem distante onde o [Brasil](../../cultures/brazil/play_brazil.md) haveria de crescer.
 
 **A saudade**
 

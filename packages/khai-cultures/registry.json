@@ -32877,8 +32877,8 @@
       "title": "Portugal",
       "description": "Portugal staged as a culture: a small Atlantic land of saudade, gentle ways, and a vast seafaring memory.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/portugal"
+        "package": "@chbrain/khai-cultures-portugal",
+        "path": ""
       },
       "iso": "PT",
       "members": [
@@ -32948,6 +32948,12 @@
           "title": "Portugal"
         },
         {
+          "file": "plot_00_a_terra_acaba.md",
+          "kind": "plot",
+          "title": "Where the Land Ends",
+          "taxonomy": "play_portugal.md"
+        },
+        {
           "file": "plot_01_descobrimentos.md",
           "kind": "plot",
           "title": "The Age of Discovery",
@@ -32969,6 +32975,12 @@
           "file": "plot_04_revolucao_dos_cravos_1974.md",
           "kind": "plot",
           "title": "The Carnation Revolution, 1974",
+          "taxonomy": "play_portugal.md"
+        },
+        {
+          "file": "plot_99_a_fachada_fica.md",
+          "kind": "plot",
+          "title": "The Façade Stays",
           "taxonomy": "play_portugal.md"
         },
         {
@@ -33001,7 +33013,8 @@
           "kind": "process",
           "title": "Fado"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-portugal"
     },
     {
       "kind": "culture",

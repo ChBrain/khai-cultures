@@ -19,7 +19,7 @@ from exactly those casts, so the membership can never drift from what the play
 actually links.
 
 - **Members:** [Spain](../../cultures/spain/play_spain.md),
-  [Portugal](../../cultures/portugal/play_portugal.md).
+  [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md).
 - **Kind:** `group`.
 - **Shared plot:** [the Treaty of Tordesillas, 1494](plot_01_tordesilhas_1494.md),
   the line down the globe by which the two crowns divided the unexplored world.

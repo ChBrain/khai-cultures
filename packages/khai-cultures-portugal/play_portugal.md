@@ -67,6 +67,10 @@ Uma nação pequena e antiga que, voltada ao mar, partiu de uma orla estreita pa
 
 ## Triggers
 
+**[Plot 0: Onde a terra acaba](plot_00_a_terra_acaba.md)**
+
+Uma faixa estreita de terra com a Espanha a fechar-lhe as costas faz do oceano a sua estrada; a [vocação atlântica](position_o_atlantico.md) nasce da geografia, e com ela o hábito de procurar lá fora o que a terra não dava.
+
 **[Plot 1: Os Descobrimentos](plot_01_descobrimentos.md)**
 
 [Vasco da Gama](persona_da_gama.md) parte de [Lisboa](place_lisboa.md) e abre o caminho marítimo para a Índia em 1498; na caravela, um país pequeno torna-se senhor dos mares.
@@ -82,6 +86,10 @@ O grande terramoto arrasa [Lisboa](place_lisboa.md); o Marquês de Pombal reergu
 **[Plot 4: A Revolução dos Cravos, 1974](plot_04_revolucao_dos_cravos_1974.md)**
 
 Em 25 de Abril de 1974, quase sem sangue, cai a ditadura e regressa a democracia a [Lisboa](place_lisboa.md); os cravos nas espingardas dizem [os brandos costumes](position_o_brando.md) feitos revolução.
+
+**[Plot 99: A fachada fica](plot_99_a_fachada_fica.md)**
+
+O turismo e o dinheiro de fora enchem [Lisboa](place_lisboa.md) e o Porto, as rendas sobem mais depressa do que os salários e os bairros esvaziam-se de quem lá nasceu; conserva-se tudo, [azulejo](piece_azulejo.md) e [fado](process_fado.md), e o que sai são as pessoas.
 
 ## Stakes
 
