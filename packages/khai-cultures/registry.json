@@ -35500,8 +35500,8 @@
       "title": "Slovakia",
       "description": "Slovakia staged as a culture: a young nation, long ruled by others, that found its voice and its own state late.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/slovakia"
+        "package": "@chbrain/khai-cultures-slovakia",
+        "path": ""
       },
       "iso": "SK",
       "members": [
@@ -35578,6 +35578,12 @@
           "title": "Slovakia"
         },
         {
+          "file": "plot_00_po_hrebenoch.md",
+          "kind": "plot",
+          "title": "Along the Ridges",
+          "taxonomy": "play_slovakia.md"
+        },
+        {
           "file": "plot_01_janosik.md",
           "kind": "plot",
           "title": "Janosik",
@@ -35602,6 +35608,12 @@
           "taxonomy": "play_slovakia.md"
         },
         {
+          "file": "plot_99_salas_a_linka.md",
+          "kind": "plot",
+          "title": "The Sheepfold and the Line",
+          "taxonomy": "play_slovakia.md"
+        },
+        {
           "file": "position_culture_mlady_narod.md",
           "kind": "position",
           "title": "the Young Nation"
@@ -35621,7 +35633,8 @@
           "kind": "process",
           "title": "The Pilgrimage"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-slovakia"
     },
     {
       "kind": "culture",

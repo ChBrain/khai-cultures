@@ -26,13 +26,13 @@ In 1991 the Soviet bloc is dissolving and three newly free states, [Poland](@chb
 
 ## Action
 
-On 15 February 1991 the three sign the Visegrad Declaration and pledge to coordinate their return to Europe. When Czechoslovakia parts in the 1993 Velvet Divorce, the three become four as [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md) and [Slovakia](../../cultures/slovakia/play_slovakia.md) each take their place. The group steers its members together into NATO (1999 and 2004) and the European Union (2004), and endures afterward as the V4, the standing voice of Central Europe, agreeing and quarrelling by turns.
+On 15 February 1991 the three sign the Visegrad Declaration and pledge to coordinate their return to Europe. When Czechoslovakia parts in the 1993 Velvet Divorce, the three become four as [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md) and [Slovakia](@chbrain/khai-cultures-slovakia/play_slovakia.md) each take their place. The group steers its members together into NATO (1999 and 2004) and the European Union (2004), and endures afterward as the V4, the standing voice of Central Europe, agreeing and quarrelling by turns.
 
 ## Stage
 
 - [Poland](@chbrain/khai-cultures-poland/play_poland.md): the largest partner, with [Walesa](@chbrain/khai-cultures-poland/persona_walesa.md) at the table.
 - [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md): half of the splitting Czechoslovakia, with [Havel](@chbrain/khai-cultures-czechia/persona_havel.md) the moral voice of the turn.
-- [Slovakia](../../cultures/slovakia/play_slovakia.md): the other half, which takes its own seat after 1993.
+- [Slovakia](@chbrain/khai-cultures-slovakia/play_slovakia.md): the other half, which takes its own seat after 1993.
 - [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md): the host, at the town that gave the group its name and its 1335 precedent.
 
 ## Tension

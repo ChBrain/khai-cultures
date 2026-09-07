@@ -66,6 +66,10 @@ Národ z vrchov a dolín, drotárov, čo so škopkom na chrbte chodili po svete 
 
 ## Triggers
 
+**[Plot 0: Po hrebeňoch](plot_00_po_hrebenoch.md)**
+
+Od 14. storočia prichádza po hrebeňoch Karpát pastierska kolonizácia a usádza sa na holiach; národ si vezme krajinu zhora, bez vlastných pánov, a z ovce, dreva a spevu si spraví [jedlo](piece_bryndza.md), [nástroj](piece_fujara.md) a pamäť.
+
 **[Plot 1: Jánošík](plot_01_janosik.md)**
 
 Roku 1713 obesia v Liptove zbojníka [Juraja Jánošíka](persona_janosik.md); z chlapca z hôr sa stane večný symbol [malého ľudu](position_culture_mlady_narod.md), čo sa vzoprel pánom, a hrdina národa, ktorý ešte nemal ani reč, ani štát.
@@ -81,6 +85,10 @@ V roku 1968 vedie Slovák [Alexander Dubček](persona_dubcek.md) pokus o "social
 **[Plot 4: Samostatnosť](plot_04_samostatnost.md)**
 
 Po nežnej revolúcii sa Česko-Slovensko roku 1993 pokojne rozdelí a v [Bratislave](place_bratislava.md) vznikne samostatné Slovensko; mladý národ je konečne pánom sám nad sebou.
+
+**[Plot 99: Salaš a linka](plot_99_salas_a_linka.md)**
+
+Za jeden ľudský vek sa z krajiny salašov stane krajina s najvyššou výrobou áut na hlavu na svete; dedina, ktorá držala [vieru](position_viera.md) a [spev](process_folklor.md), ostáva cez týždeň prázdna, a na [púť](process_put.md) príde aj tak niekoľkostotisíc ľudí.
 
 ## Stakes
 
