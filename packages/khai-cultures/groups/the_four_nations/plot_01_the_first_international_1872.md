@@ -30,9 +30,9 @@ It finishes nought each. The Scotland side is drawn entirely from one club, Quee
 
 ## Stage
 
-- [Scotland](../../cultures/gb_scotland/play_scotland.md): eleven men from a single Glasgow club, inventing the passing game in the process of needing one.
+- [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md): eleven men from a single Glasgow club, inventing the passing game in the process of needing one.
 - [England](../../cultures/gb_england/play_england.md): the side that brought the code and lost the argument about how to play it.
-- [the Saltire](../../cultures/gb_scotland/piece_saltire.md): a nation's own mark on a fixture list, forty years before any of this becomes a constitutional question.
+- [the Saltire](@chbrain/khai-cultures-gb-scotland/piece_saltire.md): a nation's own mark on a fixture list, forty years before any of this becomes a constitutional question.
 
 ## Tension
 

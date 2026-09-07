@@ -31,9 +31,9 @@ Two states that cannot agree on a name for the place they share, and have never 
 
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md)
 - [England](../../cultures/gb_england/play_england.md)
-- [Scotland](../../cultures/gb_scotland/play_scotland.md)
-- [Wales](../../cultures/gb_wales/play_wales.md)
-- [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md)
+- [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md)
+- [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md)
+- [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md)
 
 **Personas**
 
@@ -46,7 +46,7 @@ Two states that cannot agree on a name for the place they share, and have never 
 **Cast from the members**
 
 - [Scottish Gaelic](@chbrain/khai-cultures-tongues/gd/position_language_gd.md)
-- [the Highlands](../../cultures/gb_scotland/place_the_highlands.md)
+- [the Highlands](@chbrain/khai-cultures-gb-scotland/place_the_highlands.md)
 - [Manchester](../../cultures/gb_england/place_manchester.md)
 - [the pub](../../cultures/gb_england/process_the_pub.md)
 

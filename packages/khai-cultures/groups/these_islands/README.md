@@ -37,9 +37,9 @@ minor stays the culture count.
 
 - **Members:** [Ireland](../../../khai-cultures-ireland/play_ireland.md),
   [England](../../cultures/gb_england/play_england.md),
-  [Scotland](../../cultures/gb_scotland/play_scotland.md),
-  [Wales](../../cultures/gb_wales/play_wales.md),
-  [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md).
+  [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md),
+  [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md),
+  [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md).
 - **Kind:** `group`.
 - **Spine:** the movement of people across the water, in both directions, over
   eight centuries, and the arrangement that still lets it happen.
@@ -50,7 +50,7 @@ minor stays the culture count.
 members did **together** and warns that the obvious material for an alliance is
 the alliance. The obvious material here is the British-Irish Council, the Good
 Friday Agreement's Strand Three, and none of it is staged: the Agreement belongs
-to [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md),
+to [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md),
 which stages it already.
 
 What the five actually did together is move among each other, continuously, and

@@ -31,9 +31,9 @@ They form a board between them to hold one set of laws, four bodies with an equa
 ## Stage
 
 - [England](../../cultures/gb_england/play_england.md): the association that wrote the first code and did not get to keep it to itself.
-- [Scotland](../../cultures/gb_scotland/play_scotland.md): the second association, and the one whose separate existence made a board necessary at all.
-- [Wales](../../cultures/gb_wales/play_wales.md): a nation with no parliament of its own holding one vote in eight over a global rulebook.
-- [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md): the seat that stayed after the island it sat on was partitioned, and is held to this day.
+- [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md): the second association, and the one whose separate existence made a board necessary at all.
+- [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md): a nation with no parliament of its own holding one vote in eight over a global rulebook.
+- [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md): the seat that stayed after the island it sat on was partitioned, and is held to this day.
 
 ## Tension
 
