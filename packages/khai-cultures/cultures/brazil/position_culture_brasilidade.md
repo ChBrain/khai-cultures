@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-A pertença a um povo que não se explica por um só sangue, mas pelo encontro de três: [a miscigenação](position_a_miscigenacao.md) dos indígenas, dos africanos trazidos a ferros e dos portugueses que foram reivindicando a terra, fundida num rosto novo que fala [o português brasileiro](position_language_pt_br.md). Carrega, sem ter escolhido, o calor da relação posta acima da regra, [o jeitinho](position_o_jeitinho.md) que acha caminho onde não tem caminho, a saudade que dói doce, a festa erguida ao lado da dificuldade, e a fé antiga de que este é [o país do futuro](position_o_pais_do_futuro.md), um continente do tamanho de uma promessa que nunca acaba de chegar.
+A pertença a um povo que não se explica por um só sangue, mas pelo encontro de três: [a miscigenação](position_a_miscigenacao.md) dos indígenas, dos africanos trazidos a ferros e dos portugueses que foram reivindicando a terra, fundida num rosto novo que fala [o português brasileiro](@chbrain/khai-cultures-tongues/pt/position_language_pt_br.md). Carrega, sem ter escolhido, o calor da relação posta acima da regra, [o jeitinho](position_o_jeitinho.md) que acha caminho onde não tem caminho, a saudade que dói doce, a festa erguida ao lado da dificuldade, e a fé antiga de que este é [o país do futuro](position_o_pais_do_futuro.md), um continente do tamanho de uma promessa que nunca acaba de chegar.
 
 ## Orders
 
