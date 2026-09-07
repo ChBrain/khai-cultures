@@ -62,6 +62,7 @@
 // piece unless its arc needs one, and DACH's needs none. So `cultures()` drops
 // the migrated groups by directory, and the two readers stay disjoint.
 
+import { execFileSync } from "node:child_process";
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join, dirname, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -301,7 +302,89 @@ export function pathCulture(p, workspace = WORKSPACE) {
  */
 export function relinkOnly(change, base, head, workspace = WORKSPACE) {
   const pair = typeof change === "string" ? { from: change, to: change } : change;
-  return defaultRelink(pair, base, head, workspace);
+  return houseRelink(pair, base, head, workspace);
+}
+
+/** One markdown table row, padded to whatever width its widest cell needs. */
+const TABLE_ROW = /^\s*\|.*\|\s*$/;
+
+/**
+ * A markdown table with its columns re-padded, so two tables that differ only in
+ * how wide the pipes sit compare equal.
+ *
+ * Column width is not content. Prettier computes it from the widest cell, so
+ * changing ONE cell rewrites every row of the table - including rows nobody
+ * touched, and including the `---` separator, which is nothing but width.
+ *
+ * Exported because it is the whole of the argument below and a rule this house
+ * now depends on; a reader should be able to run it.
+ */
+export function normaliseTables(text) {
+  return text
+    .split("\n")
+    .map((line) =>
+      TABLE_ROW.test(line)
+        ? line
+            .replace(/-{3,}/g, "---")
+            .replace(/[ \t]+/g, " ")
+            .trim()
+        : line,
+    )
+    .join("\n");
+}
+
+const LINK_TARGET = /\]\([^()\s]*\)/g;
+const blindLinks = (text) => text.replace(LINK_TARGET, "](-)");
+
+const show = (root, ref, path) => {
+  try {
+    return execFileSync("git", ["show", `${ref}:${path}`], {
+      cwd: root,
+      encoding: "utf8",
+      maxBuffer: 32 * 1024 * 1024,
+      stdio: ["ignore", "pipe", "ignore"],
+    });
+  } catch {
+    return null;
+  }
+};
+
+/**
+ * This house's answer to "did this change author the file", which is the kit's
+ * answer plus one case the kit cannot see.
+ *
+ * THE CASE. A member migrating rewrites the group files that link it, from
+ * `../../cultures/portugal/play_portugal.md` to
+ * `@chbrain/khai-cultures-portugal/play_portugal.md`. The specifier is longer
+ * than the path, so when that link sits in a markdown table the column grows,
+ * and prettier re-pads EVERY row - the rows about other members, and the `---`
+ * separator, which carries no content at all. `defaultRelink` blinds link
+ * targets and then compares text, so it sees those re-padded rows as writing and
+ * calls the change an authoring.
+ *
+ * The group is then charged for whatever it owes, by a pull request that opened
+ * a culture. Measured three times before it was fixed: `visegrad` when czechia
+ * left, and `iberia` when portugal did - four findings, none of them portugal's,
+ * all of them older than the change that surfaced them.
+ *
+ * THE RULE. Blind the link targets, as the kit does, AND normalise table column
+ * width, which is layout and not content. Everything else still counts: a word
+ * changed inside a cell survives both normalisations and is an authoring, which
+ * is the case the test holds.
+ *
+ * Deliberately not pushed into the kit. `defaultRelink` is a general rule and
+ * table padding is a consequence of THIS house's formatter and THIS house's
+ * habit of listing members in tables; the kit takes an `isRelink` for exactly
+ * this, and the house passes its own.
+ */
+export function houseRelink(change, base, head, workspace = WORKSPACE) {
+  if (defaultRelink(change, base, head, workspace)) return true;
+  const { from, to } = change;
+  if (!from || !to || !to.endsWith(".md")) return false;
+  const before = show(workspace, base, from);
+  const after = show(workspace, head, to);
+  if (before === null || after === null) return false;
+  return blindLinks(normaliseTables(before)) === blindLinks(normaliseTables(after));
 }
 
 /**
@@ -324,8 +407,8 @@ export function relinkOnly(change, base, head, workspace = WORKSPACE) {
 export function authoredCultures(base, head, workspace = WORKSPACE) {
   const house = findHouse(workspace);
   if (!house) return { authored: new Map(), spared: [] };
-  const units = touchedUnits(house, { base, head });
-  const authored = authoredFiles(house, { base, head });
+  const units = touchedUnits(house, { base, head, isRelink: houseRelink });
+  const authored = authoredFiles(house, { base, head, relink: houseRelink });
   const spared = units
     .filter((u) => u.relinkOnly)
     .map((u) => u.id)
