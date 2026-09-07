@@ -189,6 +189,30 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: node tests/production_packages.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
+  khai-links:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Charges the units this change wrote AND any unit whose links point at
+      # ground it moved: a migration can break a link in a unit it never opened,
+      # which is how a group link pointed at an emptied directory for two pull
+      # requests with every other job here green.
+      - name: links
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node tests/link_resolution.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
   khai-staging:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest

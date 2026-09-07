@@ -29,10 +29,11 @@ import {
   readFileSync,
   readdirSync,
   renameSync,
+  existsSync,
 } from "node:fs";
 import { execFileSync } from "node:child_process";
 import semver from "semver";
-import { join, dirname } from "node:path";
+import { join, dirname, relative, sep } from "node:path";
 import { tmpdir } from "node:os";
 import { fileURLToPath } from "node:url";
 import {
@@ -50,6 +51,9 @@ import {
 import { drift } from "./registry_hybrid.mjs";
 import { rangeFindings } from "./production_packages.mjs";
 import { languagesOf, plan } from "./migrate_culture.mjs";
+import { units, packagesByName, addresses, underminedBy } from "./link_resolution.mjs";
+import { groups } from "./group_coverage.mjs";
+import { groupName } from "./culture_sources.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const WORKSPACE = join(HERE, "..");
@@ -462,5 +466,65 @@ describe("Migration: the registry keeps the whole house", () => {
       readFileSync(join(WORKSPACE, "packages", "khai-cultures", "package.json"), "utf8"),
     );
     expect(pkg.version.split(".")[1]).toBe(String(cultureIds().length));
+  });
+});
+
+describe("Migration: an address resolves for whoever installs it", () => {
+  it("reads every unit in the house, groups in both homes included", () => {
+    const ids = new Set(units().map((u) => u.id));
+    // The gap this wall was written for: `unitsOf` keys a migrated group by its
+    // npm name and so covers the five that left, and does not know the groups
+    // still under the umbrella at all. Both arrive here, and neither is asked
+    // for by a literal - the resolvers are.
+    for (const g of groups()) expect(ids.has(g.id) || ids.has(groupName(g.id))).toBe(true);
+    expect(units().length).toBeGreaterThan(groups().length);
+  });
+
+  it("resolves a specifier through node_modules, not only through packages/", () => {
+    // Every culture casts the language engine, which is a dependency and never a
+    // workspace package. A resolver that read `packages/*` alone would call all
+    // of them broken, which is how this wall failed on its first run.
+    const byName = packagesByName();
+    const engine = [...byName.keys()].find((n) => n.startsWith("@chbrain/khai-engine-"));
+    expect(engine, "the house depends on at least one engine").toBeTruthy();
+    expect(existsSync(byName.get(engine).dir)).toBe(true);
+  });
+
+  it("takes a bare name as a name and a slashed target as an address", () => {
+    // `process_speaking_mother_tongue.md` is a name the engine answers to; it is
+    // not a path and must not be read as one. Anything carrying a separator is.
+    expect(addresses("[a](process_x.md) [b](../y/z.md) [c](https://example.com)")).toEqual([
+      "process_x.md",
+      "../y/z.md",
+    ]);
+    expect(addresses("[d](play_x.md#name)")).toEqual(["play_x.md"]);
+  });
+
+  it("charges a unit whose ground a change moved, not only the unit it wrote in", () => {
+    // The whole failure as a fixture: one unit links another by relative path,
+    // the change moves the second away, and the first - never opened - is the
+    // one left holding a dead link. A ratchet scoped to authored units cannot
+    // see this, which is why the wall is not one.
+    const root = mkdtempSync(join(tmpdir(), "khai-undermined-"));
+    try {
+      const near = join(root, "near");
+      const far = join(root, "far");
+      mkdirSync(near, { recursive: true });
+      mkdirSync(far, { recursive: true });
+      writeFileSync(join(near, "README.md"), "[far](../far/play_far.md)\n");
+      writeFileSync(join(far, "play_far.md"), "# far\n");
+      const list = [
+        { id: "near", dir: near, pkg: null },
+        { id: "far", dir: far, pkg: null },
+      ];
+      const removed = [relative(WORKSPACE, join(far, "play_far.md")).split(sep).join("/")];
+      expect(underminedBy(removed, list)).toEqual(["near"]);
+      // And the unit that was actually written is not charged twice for it.
+      expect(underminedBy(removed, list, new Set(["near"]))).toEqual([]);
+      // A link that lands somewhere the change did not touch is not a finding.
+      expect(underminedBy(["some/other/path.md"], list)).toEqual([]);
+    } finally {
+      rmSync(root, { recursive: true, force: true });
+    }
   });
 });
