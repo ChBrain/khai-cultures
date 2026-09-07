@@ -19,7 +19,7 @@ is a _referencing_ entry. Its `Company` casts the member plays, and the registry
 build derives the group's `references` from exactly those casts, so the membership
 can never drift from what the play actually links.
 
-- **Members:** [Belgium](../../cultures/belgium/play_belgium.md),
+- **Members:** [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md),
   [the Netherlands](../../cultures/netherlands/play_netherlands.md),
   [Luxembourg](../../cultures/luxembourg/play_luxembourg.md).
 - **Kind:** `group` (the registry stamps it, so the website can tell it from a

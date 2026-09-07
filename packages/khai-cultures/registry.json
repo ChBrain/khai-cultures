@@ -2915,8 +2915,8 @@
       "title": "Belgium",
       "description": "Belgium staged as a culture: a country with no common tongue, held across its language border.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/belgium"
+        "package": "@chbrain/khai-cultures-belgium",
+        "path": ""
       },
       "iso": "BE",
       "members": [
@@ -2993,6 +2993,12 @@
           "title": "Belgium"
         },
         {
+          "file": "plot_00_le_pays_des_autres.md",
+          "kind": "plot",
+          "title": "Other People's Country",
+          "taxonomy": "play_belgium.md"
+        },
+        {
           "file": "plot_01_independance_1830.md",
           "kind": "plot",
           "title": "Independence, 1830",
@@ -3014,6 +3020,12 @@
           "file": "plot_04_belgique_federale.md",
           "kind": "plot",
           "title": "Federal Belgium",
+          "taxonomy": "play_belgium.md"
+        },
+        {
+          "file": "plot_99_on_se_parle_en_anglais.md",
+          "kind": "plot",
+          "title": "We Speak English to Each Other",
           "taxonomy": "play_belgium.md"
         },
         {
@@ -3046,7 +3058,8 @@
           "kind": "process",
           "title": "the Carnival"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-belgium"
     },
     {
       "kind": "culture",
