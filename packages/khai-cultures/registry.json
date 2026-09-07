@@ -23756,8 +23756,8 @@
       "title": "Latvia",
       "description": "Latvia staged as a culture: a peasant nation under foreign lords that sang itself into being and freedom.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/latvia"
+        "package": "@chbrain/khai-cultures-latvia",
+        "path": ""
       },
       "iso": "LV",
       "members": [
@@ -23834,6 +23834,12 @@
           "title": "Latvia"
         },
         {
+          "file": "plot_00_dainas_un_ugunskurs.md",
+          "kind": "plot",
+          "title": "The Dainas and the Bonfire, before Writing",
+          "taxonomy": "play_latvia.md"
+        },
+        {
           "file": "plot_01_vacu_laiki.md",
           "kind": "plot",
           "title": "The German Centuries",
@@ -23855,6 +23861,18 @@
           "file": "plot_04_dziesmota_revolucija.md",
           "kind": "plot",
           "title": "The Singing Revolution",
+          "taxonomy": "play_latvia.md"
+        },
+        {
+          "file": "plot_05_aizbrauksana_no_2004.md",
+          "kind": "plot",
+          "title": "The Leaving, from 2004",
+          "taxonomy": "play_latvia.md"
+        },
+        {
+          "file": "plot_99_pusotrs_miljons.md",
+          "kind": "plot",
+          "title": "A Million and a Half, and Two Languages",
           "taxonomy": "play_latvia.md"
         },
         {
@@ -23882,7 +23900,8 @@
           "kind": "process",
           "title": "Jani (Midsummer)"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-latvia"
     },
     {
       "kind": "culture",

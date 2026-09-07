@@ -19,7 +19,7 @@ from exactly those casts, so the membership can never drift from what the play
 actually links.
 
 - **Members:** [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md),
-  [Latvia](../../cultures/latvia/play_latvia.md),
+  [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md),
   [Lithuania](../../cultures/lithuania/play_lithuania.md).
 - **Kind:** `group`.
 - **The plot line:**
