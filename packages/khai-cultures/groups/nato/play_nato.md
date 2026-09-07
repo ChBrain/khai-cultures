@@ -50,7 +50,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Hungary](../../cultures/hungary/play_hungary.md) (1999)
 - [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md) (2004)
 - [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md) (2004)
-- [Lithuania](../../cultures/lithuania/play_lithuania.md) (2004)
+- [Lithuania](@chbrain/khai-cultures-lithuania/play_lithuania.md) (2004)
 - [Slovakia](../../cultures/slovakia/play_slovakia.md) (2004)
 - [Slovenia](../../cultures/slovenia/play_slovenia.md) (2004)
 - [Romania](../../cultures/romania/play_romania.md) (2004)

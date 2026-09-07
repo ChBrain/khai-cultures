@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-21"
+updated: "2026-09-06"
 ---
 
 # Lithuania: References
@@ -43,6 +43,23 @@ staging is original work.
 | The restoration of independence      | [plot_04_kovo_11.md](plot_04_kovo_11.md), [persona_landsbergis.md](persona_landsbergis.md)                           | March 11, 1990, Sąjūdis, the Singing Revolution, the Baltic Way, and the January 1991 TV-tower defence. |
 | Vilnius and the Vytis                | [place_vilnius.md](place_vilnius.md), [piece_vytis.md](piece_vytis.md)                                               | The Grand Duchy's capital, the lost "Jerusalem of the North," and the white knight of the coat of arms. |
 | Baltic amber and the sea             | [piece_gintaras.md](piece_gintaras.md), [process_jonines.md](process_jonines.md)                                     | "Lithuanian gold," the Jūratė and Kastytis legend, and the pagan-rooted Midsummer of Rasos.             |
+| Amber and the late baptism           | [plot_00_gintaras_ir_rasos.md](plot_00_gintaras_ir_rasos.md)                                                         | The Roman notice of northern tribes gathering amber; the 1387 baptism, the last in Europe.              |
+| Barcelona 1992                       | [plot_05_barselona_1992.md](plot_05_barselona_1992.md)                                                               | The first Games as an independent state since 1928, the Grateful Dead's sponsorship, and the bronze.    |
+| The present                          | [plot_99_grizimas.md](plot_99_grizimas.md)                                                                           | Emigration after 2004 and the turn to net inward migration; the 1991 grant of citizenship to residents. |
+
+Two things are stated to the record and no further.
+[plot_05_barselona_1992.md](plot_05_barselona_1992.md) names no player and no
+scoreline: what it stages is the team arriving with nothing, being funded and
+clothed by an American rock band nobody had asked, and taking the medals in those
+shirts in front of the country. Several of that squad had won gold for the Soviet
+Union four years earlier, which the plot records as the fact it is.
+
+And [plot_99_grizimas.md](plot_99_grizimas.md) sets Lithuania beside the other
+two deliberately: **citizenship was granted in 1991 to everyone resident, without
+condition**, which is why the question that will not close in Estonia and Latvia
+does not arise here. That is a difference of one decision taken in one year, and
+the plot says so without making it a verdict on the other two. Population figures
+are given in round terms.
 
 The two defining personas, [Ona](persona_ona.md) and [Mantas](persona_mantas.md),
 are archetypes, not historical individuals: composites that carry the tension

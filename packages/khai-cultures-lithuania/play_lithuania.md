@@ -67,6 +67,10 @@ Senas baltų tautos kraštas, kalbantis archajiškiausia gyva indoeuropiečių k
 
 ## Triggers
 
+**[Plot 0: Gintaras ir Rasos, iki krikšto](plot_00_gintaras_ir_rasos.md)**
+
+Pirmoji eilutė, kurią pasaulis apie šiuos žmones užrašo, yra apie [gintarą](piece_gintaras.md), kurį išmeta jūra; krikštas ateina paskutinis visoje Europoje, todėl tai, kas buvo prieš jį - [Rasos](process_jonines.md), giraitės, ugnis - buvo gyva dar vakar, o kalba liko tokia, kokia buvo, nes ilgai nebuvo kam jos keisti.
+
 **[Plot 1: Žalgiris](plot_01_zalgiris.md)**
 
 1410 metais ties Žalgiriu [Vytautas Didysis](persona_vytautas_didysis.md) ir lenkai sutriuškina Kryžiuočių ordiną; [Didžioji Kunigaikštystė](position_didzioji_kunigaikstyste.md) pasiekia galybės viršūnę, kraštą nuo jūros iki jūros.
@@ -82,6 +86,14 @@ Senas baltų tautos kraštas, kalbantis archajiškiausia gyva indoeuropiečių k
 **[Plot 4: Kovo 11](plot_04_kovo_11.md)**
 
 1990 metų kovo 11 dieną [Vytautas Landsbergis](persona_landsbergis.md) ir Sąjūdis paskelbia atkurią nepriklausomybę; Lietuva pirmoji ištrūksta iš Sovietų Sąjungos, o [Vilnius](place_vilnius.md) gina televizijos bokštą prieš tankus.
+
+**[Plot 5: Barselona 1992](plot_05_barselona_1992.md)**
+
+Rinktinė be pinigų ir be aprangos gauna ją iš amerikiečių roko grupės, laimi bronzą prieš buvusios Sąjungos komandą ir atsiima medalius dažytais marškinėliais po [Vyčiu](piece_vytis.md), kuris buvo draustas penkiasdešimt metų; nuo čia [krepšinis](process_krepsinis.md) yra antroji religija.
+
+**[Plot 99: Grįžimas](plot_99_grizimas.md)**
+
+Trisdešimt metų tauta tirpo, o paskui, vienintelė iš trijų, nustojo - ne todėl, kad čia pasidarė gera, o todėl, kad aplinkui pasidarė blogiau; [Mantas](persona_mantas.md) vis dar grįžta per šventes, ir vienas 1991-ųjų sprendimas dėl pilietybės iki šiol skiria šį kraštą nuo dviejų kitų.
 
 ## Stakes
 
