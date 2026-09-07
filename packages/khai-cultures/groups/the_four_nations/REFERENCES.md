@@ -15,9 +15,9 @@ sporting language, and became the standard term for the divergent public-health
 regimes of 2020 to 2022. The membership recorded in the registry is
 **build-derived** from the member plays this group casts, not authored by hand.
 
-| ISO    | Nation           | Member culture                                                                     |
-| ------ | ---------------- | ---------------------------------------------------------------------------------- |
-| GB-ENG | England          | [gb_england](../../cultures/gb_england/play_england.md)                            |
+| ISO    | Nation           | Member culture                                                                             |
+| ------ | ---------------- | ------------------------------------------------------------------------------------------ |
+| GB-ENG | England          | [gb_england](../../cultures/gb_england/play_england.md)                                    |
 | GB-SCT | Scotland         | [gb_scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md)                         |
 | GB-WLS | Wales            | [gb_wales](@chbrain/khai-cultures-gb-wales/play_wales.md)                                  |
 | GB-NIR | Northern Ireland | [gb_northern_ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md) |
