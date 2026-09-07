@@ -19,7 +19,7 @@ this group casts, not authored by hand.
 | PL  | Poland   | [poland](../../cultures/poland/play_poland.md)            |
 | CZ  | Czechia  | [czechia](@chbrain/khai-cultures-czechia/play_czechia.md) |
 | SK  | Slovakia | [slovakia](../../cultures/slovakia/play_slovakia.md)      |
-| HU  | Hungary  | [hungary](../../cultures/hungary/play_hungary.md)         |
+| HU  | Hungary  | [hungary](@chbrain/khai-cultures-hungary/play_hungary.md) |
 
 The grouping is bound by a shared history under the Habsburg and Soviet empires,
 the near-simultaneous revolutions of 1989, and the Visegrad Declaration of 15
