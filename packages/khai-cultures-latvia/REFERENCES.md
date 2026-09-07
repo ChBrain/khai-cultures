@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-21"
+updated: "2026-09-06"
 ---
 
 # Latvia: References
@@ -43,6 +43,22 @@ staging is original work.
 | The occupations (1918-1991)           | [plot_03_okupacijas.md](plot_03_okupacijas.md), [place_latgale.md](place_latgale.md)                                       | Independence 1918, the Soviet and Nazi occupations, Siberian deportations, and post-war Russification. |
 | The Singing Revolution                | [plot_04_dziesmota_revolucija.md](plot_04_dziesmota_revolucija.md), [persona_vike_freiberga.md](persona_vike_freiberga.md) | The Baltic Way (1989), the 1991 barricades, and Vaira Vīķe-Freiberga's return from exile.              |
 | The Song Festival and the dainas      | [process_dziesmu_svetki.md](process_dziesmu_svetki.md), [piece_lielvardes_josta.md](piece_lielvardes_josta.md)             | The five-yearly Dziesmu svētki (UNESCO heritage) and the Lielvārde belt of Latvian folk textile.       |
+| The dainas, Jāņi and rye bread        | [plot_00_dainas_un_ugunskurs.md](plot_00_dainas_un_ugunskurs.md)                                                           | The quatrain tradition and its pre-Christian world; the summer-solstice observance; sourdough rye.     |
+| The first Song Festival, 1873         | [plot_02_atmoda.md](plot_02_atmoda.md)                                                                                     | The first Vispārējie latviešu Dziesmu svētki in Riga, licensed as culture rather than as politics.     |
+| Emigration after 2004                 | [plot_05_aizbrauksana_no_2004.md](plot_05_aizbrauksana_no_2004.md), [persona_roberts.md](persona_roberts.md)               | Free movement from accession, and the population decline from roughly 2.6 million to under 2 million.  |
+| The present                           | [plot_99_pusotrs_miljons.md](plot_99_pusotrs_miljons.md)                                                                   | The Russian-speaking share, the 2012 referendum on a second state language, and the school transition. |
+
+Three things are stated to the public record and no further. The signs on the
+[Lielvārde belt](piece_lielvardes_josta.md) are **argued about**, and
+[plot_00_dainas_un_ugunskurs.md](plot_00_dainas_un_ugunskurs.md) says so rather
+than repeating any reading of them as fact. The population figures in
+[plot_05_aizbrauksana_no_2004.md](plot_05_aizbrauksana_no_2004.md) are given in
+round terms and the plot separates the two causes it can separate - departure
+after accession, and the post-occupation return east - without apportioning them.
+And the language shares and the 2012 referendum in
+[plot_99_pusotrs_miljons.md](plot_99_pusotrs_miljons.md) are recorded as what
+happened; the plot stages both readings of the school transition and gives a
+verdict on neither, because it is not this house's to give.
 
 The two defining personas, [Marta](persona_marta.md) and
 [Roberts](persona_roberts.md), are archetypes, not historical individuals:

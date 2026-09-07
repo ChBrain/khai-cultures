@@ -30,7 +30,7 @@ Three small nations on the same exposed shore that share one fate almost to the 
 **Members**
 
 - [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md)
-- [Latvia](../../cultures/latvia/play_latvia.md)
+- [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md)
 - [Lithuania](../../cultures/lithuania/play_lithuania.md)
 
 **Personas**

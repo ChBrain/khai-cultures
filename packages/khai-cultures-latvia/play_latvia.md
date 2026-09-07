@@ -67,6 +67,10 @@ Zemnieku tauta, kas septiņus gadsimtus dzīvoja zem svešiem kungiem: vāciešu
 
 ## Triggers
 
+**[Plot 0: Dainas un ugunskurs, pirms raksta](plot_00_dainas_un_ugunskurs.md)**
+
+Sieviete pļauj un dzied četras rindas, ko viņa nav mācījusies, bet zina; miljons dainu tur veselu pasauli bez viena burta, un tajā ir [rudzu maize](piece_rudzu_maize.md), [Jāņu uguns](process_jani.md) un [josta](piece_lielvardes_josta.md) ar zīmēm, kas nav burti.
+
 **[Plot 1: Vācu laiki](plot_01_vacu_laiki.md)**
 
 Kopš Livonijas krusta kara septiņus gadsimtus latvietis dzīvo [zem svešiem kungiem](position_starp_kaiminiem.md): baltvācu baroni ir muižas saimnieki, bet zemnieks - dzimtcilvēks, kura valoda paliek bez raksta un bez varas.
@@ -82,6 +86,14 @@ Brīvvalsts 1918. gadā, tad 1940. gada padomju okupācija, nacisti un atkal pad
 **[Plot 4: Dziesmotā revolūcija](plot_04_dziesmota_revolucija.md)**
 
 1988.-1991. gadā tauta atgūst brīvību dziedādama: Baltijas ceļš 1989. gadā, barikādes 1991. gadā, un [Vīķe-Freiberga](persona_vike_freiberga.md) pārnāk no trimdas, lai vestu atjaunoto valsti.
+
+**[Plot 5: Aizbraukšana, no 2004](plot_05_aizbrauksana_no_2004.md)**
+
+Ar iestāšanos Savienībā atveras tiesības aizbraukt un strādāt jebkur, un trīsdesmit gados zeme zaudē trešdaļu no sevis; [Roberts](persona_roberts.md) pārnāk uz [Jāņiem](process_jani.md), un tā pati brīvība, ko tauta izcīnīja dziedot, ir tā, kas šo zemi iztukšo.
+
+**[Plot 99: Pusotrs miljons un divas valodas](plot_99_pusotrs_miljons.md)**
+
+Trešdaļa mājās runā krieviski, skola pāriet uz vienu valodu, un ik pēc pieciem gadiem [Dziesmu svētki](process_dziesmu_svetki.md) joprojām piepilda estrādi - rīks, kas saskaita tos, kas ir klāt un dzied to pašu, divos jautājumos, uz kuriem nedrīkst atbildēt nepareizi.
 
 ## Stakes
 
