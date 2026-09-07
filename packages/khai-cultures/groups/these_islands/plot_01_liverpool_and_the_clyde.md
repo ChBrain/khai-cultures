@@ -31,9 +31,9 @@ The nearest shore takes the overflow of a catastrophe. In the worst year somethi
 ## Stage
 
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md): the country the crossing empties, and which has never regained the population it had before it.
-- [England](../../cultures/gb_england/play_england.md): the receiving shore, its nearest port taking more people in a year than it held.
+- [England](@chbrain/khai-cultures-gb-england/play_england.md): the receiving shore, its nearest port taking more people in a year than it held.
 - [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md): the Clyde, taking its share while clearing its own north at the same time.
-- [Manchester](../../cultures/gb_england/place_manchester.md): the mill towns behind the port, where the labour goes and stays.
+- [Manchester](@chbrain/khai-cultures-gb-england/place_manchester.md): the mill towns behind the port, where the labour goes and stays.
 
 ## Tension
 

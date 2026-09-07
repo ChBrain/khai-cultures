@@ -29,7 +29,7 @@ One state that fields four teams, which no other state does, and which the four 
 
 **Members**
 
-- [England](../../cultures/gb_england/play_england.md)
+- [England](@chbrain/khai-cultures-gb-england/play_england.md)
 - [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md)
 - [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md)
 - [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md)
@@ -44,10 +44,10 @@ One state that fields four teams, which no other state does, and which the four 
 
 **Cast from the members**
 
-- [village cricket](../../cultures/gb_england/process_cricket.md)
+- [village cricket](@chbrain/khai-cultures-gb-england/process_cricket.md)
 - [rugby](@chbrain/khai-cultures-gb-wales/process_rugby.md)
 - [Gaelic games](@chbrain/khai-cultures-gb-northern-ireland/process_gaa.md)
-- [the St George's Cross](../../cultures/gb_england/piece_st_georges_cross.md)
+- [the St George's Cross](@chbrain/khai-cultures-gb-england/piece_st_georges_cross.md)
 - [the Saltire](@chbrain/khai-cultures-gb-scotland/piece_saltire.md)
 - [Y Ddraig Goch](@chbrain/khai-cultures-gb-wales/piece_y_ddraig_goch.md)
 

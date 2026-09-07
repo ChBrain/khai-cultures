@@ -13,8 +13,8 @@ that holds this production and answers for it.
 ## A group, not a culture
 
 The state above these four is already a culture in this house,
-[united_kingdom](../../../khai-cultures-united-kingdom/play_united_kingdom.md),
-and it stages Britishness: the Crown, Westminster, class, the Union Jack. This
+`united_kingdom` - named here and deliberately **not linked**, for the same reason
+Ireland is not - and it stages Britishness: the Crown, Westminster, class, the Union Jack. This
 group is deliberately not that. It stages what the four made **with each other**,
 which per `management/design/groups-and-references.md` §2.1.1 is what a group's
 arc is for, and which in this case is emphatically not the Union.
@@ -22,7 +22,7 @@ arc is for, and which in this case is emphatically not the Union.
 It has **no `geo.json`** and it is **not counted** in the registry version: the
 minor stays the culture count.
 
-- **Members:** [England](../../cultures/gb_england/play_england.md),
+- **Members:** [England](@chbrain/khai-cultures-gb-england/play_england.md),
   [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md),
   [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md),
   [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md).

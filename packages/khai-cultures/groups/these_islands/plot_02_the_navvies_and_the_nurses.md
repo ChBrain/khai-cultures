@@ -32,8 +32,8 @@ Through the 1950s the traffic runs one way and heavily: hundreds of thousands le
 
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md): the state whose independence arrives before its economy, exporting the generation that voted for it.
 - [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md): the nation that produced the health service the nurses came for.
-- [England](../../cultures/gb_england/play_england.md): the shore doing the recruiting and the refusing at the same time, often on the same street.
-- [the pub](../../cultures/gb_england/process_the_pub.md): where the work was got, the money was wired and the county was found, and the one English institution the arrivals were reliably let into.
+- [England](@chbrain/khai-cultures-gb-england/play_england.md): the shore doing the recruiting and the refusing at the same time, often on the same street.
+- [the pub](@chbrain/khai-cultures-gb-england/process_the_pub.md): where the work was got, the money was wired and the county was found, and the one English institution the arrivals were reliably let into.
 
 ## Tension
 
