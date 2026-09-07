@@ -28,7 +28,7 @@
     "@chbrain/khai-cultures-iceland": "^0.1.0",
     "@chbrain/khai-cultures-norway": "^0.1.0",
     "@chbrain/khai-cultures-sweden": "^0.1.0",
-    "@chbrain/khai-cultures-tongues": "^0.48.0",
+    "@chbrain/khai-cultures-tongues": "^0.50.0",
     "@chbrain/khai-engine-language": "^0.1.5"
   }
 }

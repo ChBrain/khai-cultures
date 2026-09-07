@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-De grond die niemand koos maar iedereen meekreeg: een laag land dat zelf uit de zee is gewonnen, drooggehouden bij de gratie van de dijk waaraan iedereen meedoet. Zij draagt [het gedogen](position_gedogen.md), de koopmansverdraagzaamheid die liever regelt dan verbiedt, en [het poldermodel](position_het_poldermodel.md), de gewoonte om elk geschil aan tafel op te lossen voor het escaleert. Zij spreekt [het Nederlands](position_language_nl_nl.md) als landstaal en houdt in Friesland een tweede, oudere taal, [it Frysk](position_it_frysk.md), naast zich overeind. Zij draagt de zuinigheid van de calvinist en de handelsgeest van de koopman in één en dezelfde hand, en het besef dat welvaart en droog land nooit vanzelfsprekend waren, maar bevochten.
+De grond die niemand koos maar iedereen meekreeg: een laag land dat zelf uit de zee is gewonnen, drooggehouden bij de gratie van de dijk waaraan iedereen meedoet. Zij draagt [het gedogen](position_gedogen.md), de koopmansverdraagzaamheid die liever regelt dan verbiedt, en [het poldermodel](position_het_poldermodel.md), de gewoonte om elk geschil aan tafel op te lossen voor het escaleert. Zij spreekt [het Nederlands](@chbrain/khai-cultures-tongues/nl/position_language_nl.md) als landstaal en houdt in Friesland een tweede, oudere taal, [it Frysk](position_it_frysk.md), naast zich overeind. Zij draagt de zuinigheid van de calvinist en de handelsgeest van de koopman in één en dezelfde hand, en het besef dat welvaart en droog land nooit vanzelfsprekend waren, maar bevochten.
 
 ## Orders
 

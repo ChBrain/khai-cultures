@@ -48,7 +48,7 @@ stamp:
 **Positions**
 
 - [η ελληνικότητα](position_culture_ellinikotita.md)
-- [η ελληνική γλώσσα](position_language_el_gr.md)
+- [η ελληνική γλώσσα](@chbrain/khai-cultures-tongues/el/position_language_el.md)
 - [η Ορθοδοξία](position_i_orthodoxia.md)
 - [το φιλότιμο](position_to_filotimo.md)
 
@@ -73,7 +73,7 @@ stamp:
 
 **[Plot 2: Το Βυζάντιο και η Τουρκοκρατία](plot_02_byzantio.md)**
 
-Όταν χάνεται το κράτος, η [Ορθοδοξία](position_i_orthodoxia.md) και η [γλώσσα](position_language_el_gr.md) κρατούν το έθνος ζωντανό μέσα από χίλια χρόνια Βυζαντίου και τέσσερις αιώνες σκλαβιάς.
+Όταν χάνεται το κράτος, η [Ορθοδοξία](position_i_orthodoxia.md) και η [γλώσσα](@chbrain/khai-cultures-tongues/el/position_language_el.md) κρατούν το έθνος ζωντανό μέσα από χίλια χρόνια Βυζαντίου και τέσσερις αιώνες σκλαβιάς.
 
 **[Plot 3: Η Επανάσταση του 1821](plot_03_epanastasi_1821.md)**
 

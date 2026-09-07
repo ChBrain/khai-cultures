@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-Une directive de production : le dessein, mené à l'école et par la loi, de faire vivre ensemble les langues du pays et d'y faire entrer ceux qui arrivent, ce que [le français](position_language_fr_lu.md), [l'allemand](position_language_de_lu.md) et [le portugais](position_language_pt_lu.md) déclinent chacun au quotidien.
+Une directive de production : le dessein, mené à l'école et par la loi, de faire vivre ensemble les langues du pays et d'y faire entrer ceux qui arrivent, ce que [le français](@chbrain/khai-cultures-tongues/fr/position_language_fr_lu.md), [l'allemand](@chbrain/khai-cultures-tongues/de/position_language_de_lu.md) et [le portugais](@chbrain/khai-cultures-tongues/pt/position_language_pt_lu.md) déclinent chacun au quotidien.
 
 ## Owner
 

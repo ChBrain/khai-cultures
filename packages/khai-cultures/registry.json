@@ -3032,16 +3032,6 @@
           "title": "the Language Border"
         },
         {
-          "file": "position_language_fr_be.md",
-          "kind": "position",
-          "title": "Belgian French"
-        },
-        {
-          "file": "position_language_nl_be.md",
-          "kind": "position",
-          "title": "Belgian Dutch"
-        },
-        {
           "file": "position_le_compromis_belge.md",
           "kind": "position",
           "title": "the Belgian Compromise"
@@ -18570,21 +18560,21 @@
           "kind": "persona",
           "title": "Nikos",
           "type": "archetype",
-          "taxonomy": "position_language_el_gr.md"
+          "taxonomy": "position_language_el.md"
         },
         {
           "file": "persona_omiros.md",
           "kind": "persona",
           "title": "Homer",
           "type": "real",
-          "taxonomy": "position_language_el_gr.md"
+          "taxonomy": "position_language_el.md"
         },
         {
           "file": "persona_solomos.md",
           "kind": "persona",
           "title": "Dionysios Solomos",
           "type": "real",
-          "taxonomy": "position_language_el_gr.md"
+          "taxonomy": "position_language_el.md"
         },
         {
           "file": "persona_stavros.md",
@@ -18623,7 +18613,7 @@
           "file": "plan_glossiko_zitima.md",
           "kind": "plan",
           "title": "The Language Question",
-          "taxonomy": "position_language_el_gr.md"
+          "taxonomy": "position_language_el.md"
         },
         {
           "file": "play_greece.md",
@@ -18663,11 +18653,6 @@
           "file": "position_i_orthodoxia.md",
           "kind": "position",
           "title": "Orthodoxy"
-        },
-        {
-          "file": "position_language_el_gr.md",
-          "kind": "position",
-          "title": "the Greek Language"
         },
         {
           "file": "position_to_filotimo.md",
@@ -25013,21 +24998,6 @@
           "title": "the Financial Centre"
         },
         {
-          "file": "position_language_de_lu.md",
-          "kind": "position",
-          "title": "Luxembourg Standard German"
-        },
-        {
-          "file": "position_language_fr_lu.md",
-          "kind": "position",
-          "title": "Luxembourg French"
-        },
-        {
-          "file": "position_language_pt_lu.md",
-          "kind": "position",
-          "title": "Portuguese of Luxembourg"
-        },
-        {
           "file": "process_la_schueberfouer.md",
           "kind": "process",
           "title": "the Schueberfouer"
@@ -29422,11 +29392,6 @@
           "file": "position_it_frysk.md",
           "kind": "position",
           "title": "Frisian"
-        },
-        {
-          "file": "position_language_nl_nl.md",
-          "kind": "position",
-          "title": "the Dutch Language"
         },
         {
           "file": "process_de_borrel.md",
