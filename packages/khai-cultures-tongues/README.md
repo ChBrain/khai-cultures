@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **97 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **99 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -66,6 +66,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `de/position_language_de_x_mos.md`     | Moselle Franconian: the tongue that says dat Dorf, which is the only one that does                                                                   | `de-x-mos`   |
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                                                            | `dsb`        |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                                                               | `en`         |
+| `en/position_language_en_ca.md`        | Canadian English: raising of the diphthongs before a voiceless consonant, and a spelling standard taken from both neighbours at once                 | `en`         |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                                                        | `en`         |
 | `en/position_language_en_gb_eng.md`    | English English: the variety whose diagnostics are read as a rank rather than as a place                                                             | `en`         |
 | `en/position_language_en_gb_nir.md`    | Ulster English: the rise on the declarative, and the softeners in front of every claim                                                               | `en`         |
@@ -88,6 +89,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                     | `et`         |
 | `fi/position_language_fi.md`           | Finnish: fifteen cases doing the work of prepositions, and consonant gradation reshaping the stem as it inflects                                     | `fi`         |
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                                                | `fr`         |
+| `fr/position_language_fr_ca.md`        | Canadian French: diphthongisation of long stressed vowels, and the interrogative particle tu with no relation to the pronoun                         | `fr`         |
 | `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                                                     | `fr`         |
 | `fr/position_language_fr_fr.md`        | French Standard French: an arithmetic in its numbers, and a norm with an address                                                                     | `fr`         |
 | `ga/position_language_ga.md`           | Irish: initial mutation, verb-first order, the two verbs to be, and no word for yes                                                                  | `ga`         |

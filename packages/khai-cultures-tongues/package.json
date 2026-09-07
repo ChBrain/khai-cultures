@@ -215,6 +215,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "en/position_language_en_ca.md",
+        "type": "position",
+        "parent": "en/position_language_en.md"
+      },
+      {
         "file": "en/position_language_en_gb.md",
         "type": "position",
         "parent": "en/position_language_en.md"
@@ -323,6 +328,11 @@
         "file": "fr/position_language_fr.md",
         "type": "position",
         "parent": "position_language.md"
+      },
+      {
+        "file": "fr/position_language_fr_ca.md",
+        "type": "position",
+        "parent": "fr/position_language_fr.md"
       },
       {
         "file": "fr/position_language_fr_ch.md",
