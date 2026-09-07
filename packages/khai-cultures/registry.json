@@ -33408,7 +33408,7 @@
           "kind": "persona",
           "title": "Andrei",
           "type": "archetype",
-          "taxonomy": "position_language_ro_ro.md"
+          "taxonomy": "position_language_ro.md"
         },
         {
           "file": "persona_brancusi.md",
@@ -33422,7 +33422,7 @@
           "kind": "persona",
           "title": "Mihai Eminescu",
           "type": "real",
-          "taxonomy": "position_language_ro_ro.md"
+          "taxonomy": "position_language_ro.md"
         },
         {
           "file": "persona_maria.md",
@@ -33468,7 +33468,7 @@
           "file": "plan_a_razbi.md",
           "kind": "plan",
           "title": "to pull through",
-          "taxonomy": "position_language_ro_ro.md"
+          "taxonomy": "position_language_ro.md"
         },
         {
           "file": "play_romania.md",
@@ -33508,11 +33508,6 @@
           "file": "position_dor.md",
           "kind": "position",
           "title": "Dor"
-        },
-        {
-          "file": "position_language_ro_ro.md",
-          "kind": "position",
-          "title": "the Romanian Language"
         },
         {
           "file": "position_latinitatea.md",
