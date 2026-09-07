@@ -14,12 +14,12 @@ The Visegrad Four (V4) is the standard name for the Central European bloc. The
 membership recorded in the registry is **build-derived** from the member plays
 this group casts, not authored by hand.
 
-| ISO | Country  | Member culture                                            |
-| --- | -------- | --------------------------------------------------------- |
-| PL  | Poland   | [poland](@chbrain/khai-cultures-poland/play_poland.md)    |
-| CZ  | Czechia  | [czechia](@chbrain/khai-cultures-czechia/play_czechia.md) |
-| SK  | Slovakia | [slovakia](../../cultures/slovakia/play_slovakia.md)      |
-| HU  | Hungary  | [hungary](@chbrain/khai-cultures-hungary/play_hungary.md) |
+| ISO | Country  | Member culture                                               |
+| --- | -------- | ------------------------------------------------------------ |
+| PL  | Poland   | [poland](@chbrain/khai-cultures-poland/play_poland.md)       |
+| CZ  | Czechia  | [czechia](@chbrain/khai-cultures-czechia/play_czechia.md)    |
+| SK  | Slovakia | [slovakia](@chbrain/khai-cultures-slovakia/play_slovakia.md) |
+| HU  | Hungary  | [hungary](@chbrain/khai-cultures-hungary/play_hungary.md)    |
 
 The grouping is bound by a shared history under the Habsburg and Soviet empires,
 the near-simultaneous revolutions of 1989, and the Visegrad Declaration of 15

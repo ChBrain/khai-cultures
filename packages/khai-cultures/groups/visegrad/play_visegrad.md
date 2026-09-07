@@ -31,7 +31,7 @@ Four nations in the middle of Europe, between the German lands and Russia, that 
 
 - [Poland](@chbrain/khai-cultures-poland/play_poland.md)
 - [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md)
-- [Slovakia](../../cultures/slovakia/play_slovakia.md)
+- [Slovakia](@chbrain/khai-cultures-slovakia/play_slovakia.md)
 - [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md)
 
 **Personas**
