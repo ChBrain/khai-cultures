@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **104 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **106 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -115,6 +115,8 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `no/position_language_no.md`           | Norwegian: two written norms, no spoken standard at all, and a dialect permitted anywhere                                                                 | `no`         |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                                                       | `pfl`        |
 | `pl/position_language_pl.md`           | Polish: seven cases, an aspect pair on every verb, graded diminutives, and a plural that marks whether there are men in the group                         | `pl`         |
+| `pt/position_language_pt.md`           | Portuguese: ser against estar, the personal infinitive no other Romance language keeps, a living future subjunctive, and saudade                          | `pt`         |
+| `pt/position_language_pt_br.md`        | Brazilian Portuguese: the gerund against estou a fazer, voce displacing tu, and a formality distance that has closed                                      | `pt`         |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                                                             | `rif`        |
 | `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                                                       | `rm`         |
 | `ro/position_language_ro.md`           | Romanian: case still on the noun, a neuter that is masculine in the singular and feminine in the plural, and the definite article on the tail of the word | `ro`         |
