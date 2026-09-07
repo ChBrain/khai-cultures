@@ -22,14 +22,21 @@ regimes of 2020 to 2022. The membership recorded in the registry is
 | GB-WLS | Wales            | [gb_wales](@chbrain/khai-cultures-gb-wales/play_wales.md)                                  |
 | GB-NIR | Northern Ireland | [gb_northern_ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md) |
 
-The state above them is a culture in its own right, `united_kingdom`, and stages
-Britishness. This group stages what the four did with each other, which is not the
-Union. It is **named and not linked**, on the same rule as Ireland below and for
-the same reason: the registry derives a group's `references` from what its files
-link, and the state above four members is not a fifth member. While this group sat
-under the umbrella the link was relative and cost nothing; as a package it escapes
-the unit, which is how the isolation wall found it and why the rule the house had
-already written for Ireland now applies here too.
+The state above them is a culture in its own right,
+[united_kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md), and
+stages Britishness. This group stages what the four did with each other, which is
+not the Union.
+
+The link is by package specifier and not relative. While this group sat under the
+umbrella a `../../../` path resolved and cost nothing; as a package it escapes the
+unit, and the isolation wall found it on the day of the move. **Linking it does not
+make it a member**: a group's `references` are derived from the play's Company, not
+from what README and REFERENCES mention, so the state above the four is named and
+linked here without becoming a fifth nation. That is a different rule from the one
+governing Ireland below, which is **not linked at all** - the question there is one
+of membership, the question here only one of reachability. The package declares the
+dependency, because a published production that links a package it does not depend
+on fails closed at install.
 
 Ireland is **not** a member and is deliberately **not linked**, though plot 3 turns
 on it: the touring side that outlived the four's own championship is the one that
