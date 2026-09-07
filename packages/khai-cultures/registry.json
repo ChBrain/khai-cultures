@@ -3923,8 +3923,8 @@
       "title": "Brazil",
       "description": "A continental nation of three peoples, the country of the future still arriving.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/brazil"
+        "package": "@chbrain/khai-cultures-brazil",
+        "path": ""
       },
       "iso": "BR",
       "members": [
@@ -4001,6 +4001,12 @@
           "title": "Brazil"
         },
         {
+          "file": "plot_00_a_terra_nao_acaba.md",
+          "kind": "plot",
+          "title": "The Land Does Not End",
+          "taxonomy": "play_brazil.md"
+        },
+        {
           "file": "plot_01_o_encontro_e_a_colonia.md",
           "kind": "plot",
           "title": "The Meeting and the Colony",
@@ -4022,6 +4028,12 @@
           "file": "plot_04_o_gigante_moderno.md",
           "kind": "plot",
           "title": "The Modern Giant",
+          "taxonomy": "play_brazil.md"
+        },
+        {
+          "file": "plot_99_o_futuro_que_nao_chega.md",
+          "kind": "plot",
+          "title": "The Future That Does Not Arrive",
           "taxonomy": "play_brazil.md"
         },
         {
@@ -4054,7 +4066,8 @@
           "kind": "process",
           "title": "Football"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-brazil"
     },
     {
       "kind": "culture",

@@ -26,12 +26,12 @@ Two great powers rise on either side of the Rio de la Plata basin, heirs to the 
 
 ## Action
 
-From the colonial era onward [Brazil](../../cultures/brazil/play_brazil.md) and [Argentina](../../cultures/argentina/play_argentina.md) inherit the old contest of the Iberian crowns for the south and for the mouth of the great river. They struggle over the buffer lands of the basin, over [Paraguay](../../cultures/paraguay/play_paraguay.md) and the small states between them, and over who shall lead the Southern Cone. Through the nineteenth and twentieth centuries the two giants twice come near to war and long arm against each other, each measuring the other as its chief rival, each building its strength with the other in mind. The rivalry is never settled by force; it hardens instead into a fixed posture of suspicion, two large nations facing each other across the river basin, neither willing to concede the south to the other, while the smaller nations of the watershed live in the shadow of the contest.
+From the colonial era onward [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) and [Argentina](../../cultures/argentina/play_argentina.md) inherit the old contest of the Iberian crowns for the south and for the mouth of the great river. They struggle over the buffer lands of the basin, over [Paraguay](../../cultures/paraguay/play_paraguay.md) and the small states between them, and over who shall lead the Southern Cone. Through the nineteenth and twentieth centuries the two giants twice come near to war and long arm against each other, each measuring the other as its chief rival, each building its strength with the other in mind. The rivalry is never settled by force; it hardens instead into a fixed posture of suspicion, two large nations facing each other across the river basin, neither willing to concede the south to the other, while the smaller nations of the watershed live in the shadow of the contest.
 
 ## Stage
 
 - [Argentina](../../cultures/argentina/play_argentina.md): the southern giant, rival for the Plata and for the lead of the Cone.
-- [Brazil](../../cultures/brazil/play_brazil.md): the northern giant, the largest power of the south and the chief rival.
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md): the northern giant, the largest power of the south and the chief rival.
 - [Paraguay](../../cultures/paraguay/play_paraguay.md): the small nation of the basin caught between the two and shaped by their contest.
 
 ## Tension

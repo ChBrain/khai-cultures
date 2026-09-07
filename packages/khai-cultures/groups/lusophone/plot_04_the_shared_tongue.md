@@ -26,11 +26,11 @@ Cinco séculos depois da primeira travessia, a língua portuguesa é falada por 
 
 ## Action
 
-No mundo moderno, o [Brasil](../../cultures/brazil/play_brazil.md), tornado potência continental e a maior nação de língua portuguesa da Terra, e [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md), o pequeno país europeu onde a língua começou, estão unidos por muito mais do que a história: por uma só língua e a sua literatura, pela saudade e pela música que a carrega do fado à bossa nova e ao samba, pelo futebol e pelo longo trânsito de gente e cultura através do Atlântico, e pela Comunidade dos Países de Língua Portuguesa (CPLP), que reúne as nações lusófonas num só círculo. Estão também separados, pelo oceano, pela escala e por cinco séculos que fizeram da mesma língua a sua casa em dois mundos diferentes. E a família é mais ampla do que este núcleo atlântico: as nações africanas de Angola, Moçambique, Cabo Verde e as demais falam a mesma língua e pertencem à mesma CPLP, uma Lusofonia muito maior do que as duas culturas até agora encenadas aqui. A língua compartilhada é o vínculo vivo e a questão aberta de todo o agrupamento.
+No mundo moderno, o [Brasil](@chbrain/khai-cultures-brazil/play_brazil.md), tornado potência continental e a maior nação de língua portuguesa da Terra, e [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md), o pequeno país europeu onde a língua começou, estão unidos por muito mais do que a história: por uma só língua e a sua literatura, pela saudade e pela música que a carrega do fado à bossa nova e ao samba, pelo futebol e pelo longo trânsito de gente e cultura através do Atlântico, e pela Comunidade dos Países de Língua Portuguesa (CPLP), que reúne as nações lusófonas num só círculo. Estão também separados, pelo oceano, pela escala e por cinco séculos que fizeram da mesma língua a sua casa em dois mundos diferentes. E a família é mais ampla do que este núcleo atlântico: as nações africanas de Angola, Moçambique, Cabo Verde e as demais falam a mesma língua e pertencem à mesma CPLP, uma Lusofonia muito maior do que as duas culturas até agora encenadas aqui. A língua compartilhada é o vínculo vivo e a questão aberta de todo o agrupamento.
 
 ## Stage
 
-- [o Brasil](../../cultures/brazil/play_brazil.md): a potência continental e maior nação de língua portuguesa, ancorando a Lusofonia moderna.
+- [o Brasil](@chbrain/khai-cultures-brazil/play_brazil.md): a potência continental e maior nação de língua portuguesa, ancorando a Lusofonia moderna.
 - [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md): a pequena terra-mãe onde a língua começou, unida à margem distante pela língua e pela saudade.
 
 ## Tension

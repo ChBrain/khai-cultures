@@ -26,12 +26,12 @@ The four-nation treaty of the river basin grows. The common market reaches beyon
 
 ## Action
 
-In the decades after Asuncion the bloc widens and matures. [Bolivia](../../cultures/bolivia/play_bolivia.md), long an associate, completes its accession as a full member, carrying Mercosur up from the river basin into the Andes and adding a highland nation to a union born on the plains. The bloc becomes one of the world's great suppliers of grain and protein, its beef and soy and the trade of the basin flowing out through the river ports of [Argentina](../../cultures/argentina/play_argentina.md), [Brazil](../../cultures/brazil/play_brazil.md), and their neighbors. Yet the working union is never without strain: recurring economic crises in the giants ripple through the smaller members, the old asymmetry between large and small endures, and the members argue without end over how open the market should be, toward each other and toward the world beyond. Mercosur stands today as a real bloc bound by the river basin and the Southern Cone, and as an unfinished one, more treaty than full union in the eyes of many of its own.
+In the decades after Asuncion the bloc widens and matures. [Bolivia](../../cultures/bolivia/play_bolivia.md), long an associate, completes its accession as a full member, carrying Mercosur up from the river basin into the Andes and adding a highland nation to a union born on the plains. The bloc becomes one of the world's great suppliers of grain and protein, its beef and soy and the trade of the basin flowing out through the river ports of [Argentina](../../cultures/argentina/play_argentina.md), [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md), and their neighbors. Yet the working union is never without strain: recurring economic crises in the giants ripple through the smaller members, the old asymmetry between large and small endures, and the members argue without end over how open the market should be, toward each other and toward the world beyond. Mercosur stands today as a real bloc bound by the river basin and the Southern Cone, and as an unfinished one, more treaty than full union in the eyes of many of its own.
 
 ## Stage
 
 - [Bolivia](../../cultures/bolivia/play_bolivia.md): the highland nation completing full accession, carrying the bloc into the Andes.
-- [Brazil](../../cultures/brazil/play_brazil.md): the largest member, anchor of the bloc's weight in the world.
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md): the largest member, anchor of the bloc's weight in the world.
 - [Argentina](../../cultures/argentina/play_argentina.md): the southern giant, partner and rival within the union.
 - [Paraguay](../../cultures/paraguay/play_paraguay.md): the small founder at the heart of the basin.
 - [Uruguay](../../cultures/uruguay/play_uruguay.md): the small founder pressing for a more open market.
