@@ -32,6 +32,7 @@ Les lois de 1962-63 tranchent : on fixe une fois pour toutes une [frontière lin
 
 - [la frontière linguistique](position_la_frontiere_linguistique.md) : la ligne désormais inscrite dans la loi et sur la carte.
 - [Bruxelles](place_bruxelles.md) : l'exception bilingue enclavée en terre flamande.
+- [Hendrik Conscience](persona_conscience.md) : celui qui, un siècle plus tôt, avait rendu au flamand une langue écrite dont on pouvait être fier, et sans lequel il n'y aurait pas de mouvement pour réclamer cette ligne.
 
 ## Tension
 

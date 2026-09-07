@@ -16,7 +16,7 @@ this group casts, not authored by hand.
 
 | ISO | Country         | Member culture                                                |
 | --- | --------------- | ------------------------------------------------------------- |
-| BE  | Belgium         | [belgium](../../cultures/belgium/play_belgium.md)             |
+| BE  | Belgium         | [belgium](@chbrain/khai-cultures-belgium/play_belgium.md)     |
 | NL  | the Netherlands | [netherlands](../../cultures/netherlands/play_netherlands.md) |
 | LU  | Luxembourg      | [luxembourg](../../cultures/luxembourg/play_luxembourg.md)    |
 

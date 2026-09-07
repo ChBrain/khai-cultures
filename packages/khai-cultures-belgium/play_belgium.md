@@ -69,6 +69,10 @@ Un pays inventé comme État tampon, neutre et garanti, et bâti en français su
 
 ## Triggers
 
+**[Plot 0 : Le pays des autres](plot_00_le_pays_des_autres.md)**
+
+[La ligne](position_la_frontiere_linguistique.md) entre le parler germanique et le parler roman traverse ce sol depuis la fin de l'Empire romain, et par-dessus elle passent les Bourguignons, les Habsbourg, l'Espagne, l'Autriche, la France : jamais un maître d'ici, et pour héritage [la table](process_la_table.md), [le carnaval](process_le_carnaval.md) et l'ironie.
+
 **[Plot 1 : L'indépendance, 1830](plot_01_independance_1830.md)**
 
 À [Bruxelles](place_bruxelles.md), la révolution arrache un royaume neuf à la tutelle hollandaise et le bâtit en français sur une majorité néerlandophone, posant sans le savoir [la frontière linguistique](position_la_frontiere_linguistique.md) à venir.
@@ -84,6 +88,10 @@ Pour apaiser cette revendication, les lois de 1962-63 fixent [la frontière ling
 **[Plot 4 : La Belgique fédérale](plot_04_belgique_federale.md)**
 
 La langue devenue territoire, l'État unitaire se défait en une fédération de communautés que seuls [le compromis](position_le_compromis_belge.md) et [la Couronne](position_la_couronne.md) tiennent encore ensemble, laissant la question du pays ouverte pour de bon.
+
+**[Plot 99 : On se parle en anglais](plot_99_on_se_parle_en_anglais.md)**
+
+Chaque communauté vit sa vie entière dans sa langue et les deux se croisent dans une troisième ; le pays bat des records de mois sans gouvernement et continue de tourner, et ce qui reste vraiment commun tient dans [un cornet](piece_les_frites.md) et dans [une toile](piece_la_pipe_de_magritte.md).
 
 ## Stakes
 
