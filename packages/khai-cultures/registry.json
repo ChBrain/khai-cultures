@@ -24605,8 +24605,8 @@
       "title": "Lithuania",
       "description": "Lithuania staged as a culture: an archaic Baltic nation, once vast, that survived a press ban and exile to break free.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/lithuania"
+        "package": "@chbrain/khai-cultures-lithuania",
+        "path": ""
       },
       "iso": "LT",
       "members": [
@@ -24683,6 +24683,12 @@
           "title": "Lithuania"
         },
         {
+          "file": "plot_00_gintaras_ir_rasos.md",
+          "kind": "plot",
+          "title": "Amber and the Solstice, before the Baptism",
+          "taxonomy": "play_lithuania.md"
+        },
+        {
           "file": "plot_01_zalgiris.md",
           "kind": "plot",
           "title": "Zalgiris",
@@ -24704,6 +24710,18 @@
           "file": "plot_04_kovo_11.md",
           "kind": "plot",
           "title": "March 11",
+          "taxonomy": "play_lithuania.md"
+        },
+        {
+          "file": "plot_05_barselona_1992.md",
+          "kind": "plot",
+          "title": "Barcelona 1992",
+          "taxonomy": "play_lithuania.md"
+        },
+        {
+          "file": "plot_99_grizimas.md",
+          "kind": "plot",
+          "title": "The Turn Back",
           "taxonomy": "play_lithuania.md"
         },
         {
@@ -24731,7 +24749,8 @@
           "kind": "process",
           "title": "Basketball"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-lithuania"
     },
     {
       "kind": "culture",
@@ -42915,8 +42934,8 @@
       "title": "The Baltics",
       "description": "The Baltics as a group: Estonia, Latvia, and Lithuania, bound by a shared occupation and a sung freedom.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/baltics"
+        "package": "@chbrain/khai-cultures-baltics",
+        "path": ""
       },
       "references": ["estonia", "latvia", "lithuania"],
       "members": [

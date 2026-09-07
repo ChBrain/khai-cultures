@@ -20,7 +20,7 @@ actually links.
 
 - **Members:** [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md),
   [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md),
-  [Lithuania](../../cultures/lithuania/play_lithuania.md).
+  [Lithuania](@chbrain/khai-cultures-lithuania/play_lithuania.md).
 - **Kind:** `group`.
 - **The plot line:**
   - [the Song Grounds, from 1869](plot_00_the_song_grounds.md) - the origin, outside the chronology: three peoples each independently discovering that a choir counts a nation.

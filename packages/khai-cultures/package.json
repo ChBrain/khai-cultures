@@ -69,6 +69,7 @@
   },
   "dependencies": {
     "@chbrain/khai-cultures-austria": "^0.1.0",
+    "@chbrain/khai-cultures-baltics": "^0.1.0",
     "@chbrain/khai-cultures-ch-aargau": "^0.1.0",
     "@chbrain/khai-cultures-ch-appenzell-ausserrhoden": "^0.1.0",
     "@chbrain/khai-cultures-ch-appenzell-innerrhoden": "^0.1.0",
@@ -124,6 +125,7 @@
     "@chbrain/khai-cultures-ireland": "^0.1.0",
     "@chbrain/khai-cultures-latvia": "^0.1.0",
     "@chbrain/khai-cultures-liechtenstein": "^0.1.0",
+    "@chbrain/khai-cultures-lithuania": "^0.1.0",
     "@chbrain/khai-cultures-nordics": "^0.1.0",
     "@chbrain/khai-cultures-norway": "^0.1.0",
     "@chbrain/khai-cultures-sweden": "^0.1.0",

@@ -37,7 +37,7 @@ The three did not coordinate any of this. It was done _to_ them, identically, by
 ## Stage
 
 - [the Singer](persona_the_singer.md): five generations of turning up, one of them on a train.
-- [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md), [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md) and [Lithuania](../../cultures/lithuania/play_lithuania.md): three countries whose worst dates are the same dates, without ever having arranged it.
+- [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md), [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md) and [Lithuania](@chbrain/khai-cultures-lithuania/play_lithuania.md): three countries whose worst dates are the same dates, without ever having arranged it.
 
 ## Tension
 
