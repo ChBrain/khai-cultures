@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Po dvou stoletích, kdy si husitské Čechy uhájily svou víru, se protestantští stavové vzbouří proti katolickým Habsburkům. Roku 1620 se střetnou s císařským vojskem na Bílé hoře nad [Prahou](place_praha.md), v bitvě, jež rozhodne na celé generace.
+Sedlák na panství, kde se dvě generace chodilo do kostela po husitsku, se dozví, že se bude chodit jinak, a že o tom nerozhodl on ani jeho farář. Po dvou stoletích, kdy si husitské Čechy uhájily svou víru, se protestantští stavové vzbouří proti katolickým Habsburkům. Roku 1620 se střetnou s císařským vojskem na Bílé hoře nad [Prahou](place_praha.md), v bitvě, jež rozhodne na celé generace.
 
 ## Action
 

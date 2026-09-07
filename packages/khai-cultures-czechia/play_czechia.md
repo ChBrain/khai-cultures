@@ -67,6 +67,10 @@ Malý slovanský národ ve středu Evropy, který od husitů přes Bílou horu p
 
 ## Triggers
 
+**[Plot 0: Kotlina a chmel, před kronikou](plot_00_kotlina_a_chmel.md)**
+
+Skoro dokonalá mísa obtočená horami, s hranicí, která se za tisíc let sotva pohnula: co se přihodí, přihodí se všem najednou a není kam ustoupit ani kam se rozšířit; ze žateckých zahrad jde chmel do světa, a [hospoda](process_hospoda.md) je jediná místnost ve vsi, která nepatří ani faráři, ani vrchnosti - a proto tam [jazyk](@chbrain/khai-cultures-tongues/cs/position_language_cs.md) přežije i to, že zmizí z úřadů.
+
 **[Plot 1: Jan Hus](plot_01_jan_hus.md)**
 
 V roce 1415 upálí kostnický koncil [Jana Husa](persona_hus.md) za to, že kázal pravdu proti církvi; jeho smrt zažehne husitskou vzpouru a založí české [bezvěrectví](position_bezverectvi.md), nedůvěru k vrchnosti pozemské i nebeské.
@@ -82,6 +86,10 @@ V roce 1938 vydají spojenci v Mnichově [pohraničí](place_pohranici.md) Hitle
 **[Plot 4: Sametová revoluce](plot_04_sametova_revoluce.md)**
 
 V listopadu 1989 svrhne národ komunismus beze střelby a do čela postaví dramatika [Václava Havla](persona_havel.md); pravda zvítězí v rukavičkách, jemně a s ironií.
+
+**[Plot 99: Chalupa a granáty](plot_99_chalupa_a_granaty.md)**
+
+[Chataření](process_chatareni.md) vzniklo za normalizace jako způsob, jak se vyhnout veřejnému životu, a přežilo to, před čím se utíkalo; a v roce 2024 tatáž povaha - žádná gesta, jenom sehnat, co je potřeba, přes známého - zorganizuje dodávku granátů, kterou větší a hlasitější státy nedokázaly dát dohromady.
 
 ## Stakes
 

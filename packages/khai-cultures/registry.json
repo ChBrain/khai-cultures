@@ -10267,8 +10267,8 @@
       "title": "Czechia",
       "description": "Czechia staged as a culture: a small, skeptical, godless nation that survives by irony, not by heroics.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/czechia"
+        "package": "@chbrain/khai-cultures-czechia",
+        "path": ""
       },
       "iso": "CZ",
       "members": [
@@ -10345,6 +10345,12 @@
           "title": "Czechia"
         },
         {
+          "file": "plot_00_kotlina_a_chmel.md",
+          "kind": "plot",
+          "title": "The Basin and the Hops, before the Chronicle",
+          "taxonomy": "play_czechia.md"
+        },
+        {
           "file": "plot_01_jan_hus.md",
           "kind": "plot",
           "title": "The Constance Pyre",
@@ -10366,6 +10372,12 @@
           "file": "plot_04_sametova_revoluce.md",
           "kind": "plot",
           "title": "The Velvet Revolution",
+          "taxonomy": "play_czechia.md"
+        },
+        {
+          "file": "plot_99_chalupa_a_granaty.md",
+          "kind": "plot",
+          "title": "The Cottage and the Shells",
           "taxonomy": "play_czechia.md"
         },
         {
@@ -10393,7 +10405,8 @@
           "kind": "process",
           "title": "The Pub"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-czechia"
     },
     {
       "kind": "culture",
@@ -44008,15 +44021,38 @@
       "references": ["czechia", "hungary", "poland", "slovakia"],
       "members": [
         {
+          "file": "persona_the_haulier.md",
+          "kind": "persona",
+          "title": "Persona: the Haulier",
+          "type": "archetype"
+        },
+        {
           "file": "play_visegrad.md",
           "kind": "play",
           "title": "The Visegrad Four"
+        },
+        {
+          "file": "plot_00_the_staple_and_the_road.md",
+          "kind": "plot",
+          "title": "The Staple and the Road, 1335",
+          "taxonomy": "play_visegrad.md"
         },
         {
           "file": "plot_01_deklaracia_1991.md",
           "kind": "plot",
           "title": "The Visegrad Declaration, 1991",
           "taxonomy": "play_visegrad.md"
+        },
+        {
+          "file": "plot_99_the_station_and_the_bloc.md",
+          "kind": "plot",
+          "title": "The Station and the Bloc, since 2022",
+          "taxonomy": "play_visegrad.md"
+        },
+        {
+          "file": "position_the_room_next_door.md",
+          "kind": "position",
+          "title": "the room next door"
         }
       ]
     }

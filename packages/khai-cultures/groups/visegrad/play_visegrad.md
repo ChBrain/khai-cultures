@@ -30,23 +30,31 @@ Four nations in the middle of Europe, between the German lands and Russia, that 
 **Members**
 
 - [Poland](../../cultures/poland/play_poland.md)
-- [Czechia](../../cultures/czechia/play_czechia.md)
+- [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md)
 - [Slovakia](../../cultures/slovakia/play_slovakia.md)
 - [Hungary](../../cultures/hungary/play_hungary.md)
 
+**Personas**
+
+- [the Haulier](persona_the_haulier.md)
+
+**Positions**
+
+- [the room next door](position_the_room_next_door.md)
+
 ## Triggers
 
-**The shared empires**
+**[Plot 0: The Staple and the Road, 1335](plot_00_the_staple_and_the_road.md)**
 
-Centuries under powers not their own, Habsburg and then Soviet, gave [Poland](../../cultures/poland/play_poland.md), [Czechia](../../cultures/czechia/play_czechia.md), [Slovakia](../../cultures/slovakia/play_slovakia.md), and [Hungary](../../cultures/hungary/play_hungary.md) a common Central European fate.
+A carter hauling copper north is stopped at Vienna, whose staple right makes him unpack and sell before he may go on; three kings meet at Visegrád and agree a route around it, not out of friendship but because on that one thing all three stood outside the same door - and [the room next door](position_the_room_next_door.md) is named here by its one exception.
 
-**The return to Europe**
+**[Plot 1: Deklarácia 1991](plot_01_deklaracia_1991.md)**
 
-Freed in 1989 within months of each other, the four coordinated their way into NATO and the European Union together, the bloc built to leave the East and rejoin the West.
+Six hundred and fifty-six years later the same four meet in the same town and pledge to cross into the West together; when Czechoslovakia splits, the three become four.
 
-**The Visegrad pledge**
+**[Plot 99: The Station and the Bloc, since 2022](plot_99_the_station_and_the_bloc.md)**
 
-The 1991 declaration that named the group revived the memory of the 1335 royal congress at the same town, binding the four to a shared road even as their politics diverge.
+Women stand on platforms with cardboard signs saying how many people they can house, and the four take a share of the largest movement in Europe since the war - while in the same months the bloc splits over that war and goes quiet, because an office built on getting through the door has nothing to say once you are inside it.
 
 ## Stakes
 

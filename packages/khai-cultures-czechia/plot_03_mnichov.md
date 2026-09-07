@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-Demokratické Československo, vzkříšené roku 1918, má dobrou armádu i opevněné [pohraničí](place_pohranici.md) a je odhodláno se Hitlerovi bránit. Velmoci se ale chtějí vyhnout válce: na konferenci v Mnichově roku 1938 rozhodnou Německo, Itálie, Británie a Francie o osudu země, aniž by ji k jednání vůbec pozvaly.
+Vojáci sedí v betonových srubech na hřebeni, na hranici, kterou dva roky stavěli, a čekají rozkaz, který nepřijde. Demokratické Československo, vzkříšené roku 1918, má dobrou armádu i opevněné [pohraničí](place_pohranici.md) a je odhodláno se Hitlerovi bránit. Velmoci se ale chtějí vyhnout válce: na konferenci v Mnichově roku 1938 rozhodnou Německo, Itálie, Británie a Francie o osudu země, aniž by ji k jednání vůbec pozvaly.
 
 ## Action
 
