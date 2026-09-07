@@ -34,7 +34,7 @@ The oldest part of the arrangement is the part nobody sees, and [the Secretary](
 
 - [the four teams](position_the_four_teams.md): the arrangement itself, older than the devolution that copied it and harder to reform.
 - [the Secretary](persona_the_secretary.md): one of the four seats, voting on the laws of a world game for a country whose parliament she could not name the member of.
-- [the St George's Cross](../../cultures/gb_england/piece_st_georges_cross.md): the flag of the nation that has a team, a flag and no anthem, and borrows the state's.
+- [the St George's Cross](@chbrain/khai-cultures-gb-england/piece_st_georges_cross.md): the flag of the nation that has a team, a flag and no anthem, and borrows the state's.
 - [Y Ddraig Goch](@chbrain/khai-cultures-gb-wales/piece_y_ddraig_goch.md): flown by a crowd whose team wears the badge of an English prince.
 - [Gaelic games](@chbrain/khai-cultures-gb-northern-ireland/process_gaa.md): the fourth nation's other set of teams, playing in a competition organised across a border the fixture list does not recognise.
 

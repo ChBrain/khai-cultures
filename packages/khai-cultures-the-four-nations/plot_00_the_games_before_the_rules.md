@@ -30,7 +30,7 @@ They are all playing it and none of them is playing the same one. Shrovetide foo
 
 ## Stage
 
-- [England](../../cultures/gb_england/play_england.md): the Shrovetide games of the market towns, and later the schools that will write the first rules down.
+- [England](@chbrain/khai-cultures-gb-england/play_england.md): the Shrovetide games of the market towns, and later the schools that will write the first rules down.
 - [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md): the Ba' in the northern burghs, played through the streets and still played.
 - [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md): _cnapan_ in the west, hundreds a side across open country.
 - [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md): the Ulster end of a game the whole island played as _caid_ before either code came.

@@ -17,15 +17,19 @@ regimes of 2020 to 2022. The membership recorded in the registry is
 
 | ISO    | Nation           | Member culture                                                                             |
 | ------ | ---------------- | ------------------------------------------------------------------------------------------ |
-| GB-ENG | England          | [gb_england](../../cultures/gb_england/play_england.md)                                    |
+| GB-ENG | England          | [gb_england](@chbrain/khai-cultures-gb-england/play_england.md)                            |
 | GB-SCT | Scotland         | [gb_scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md)                         |
 | GB-WLS | Wales            | [gb_wales](@chbrain/khai-cultures-gb-wales/play_wales.md)                                  |
 | GB-NIR | Northern Ireland | [gb_northern_ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md) |
 
-The state above them is a culture in its own right,
-[united_kingdom](../../../khai-cultures-united-kingdom/play_united_kingdom.md),
-and stages Britishness. This group stages what the four did with each other, which
-is not the Union.
+The state above them is a culture in its own right, `united_kingdom`, and stages
+Britishness. This group stages what the four did with each other, which is not the
+Union. It is **named and not linked**, on the same rule as Ireland below and for
+the same reason: the registry derives a group's `references` from what its files
+link, and the state above four members is not a fifth member. While this group sat
+under the umbrella the link was relative and cost nothing; as a package it escapes
+the unit, which is how the isolation wall found it and why the rule the house had
+already written for Ireland now applies here too.
 
 Ireland is **not** a member and is deliberately **not linked**, though plot 3 turns
 on it: the touring side that outlived the four's own championship is the one that

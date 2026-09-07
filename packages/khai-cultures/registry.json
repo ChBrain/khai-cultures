@@ -17243,8 +17243,8 @@
       "title": "England",
       "description": "England staged as a culture: a green, ironic land of fair play, the amateur, and mustn't grumble.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/gb_england"
+        "package": "@chbrain/khai-cultures-gb-england",
+        "path": ""
       },
       "iso": "GB-ENG",
       "members": [
@@ -17396,7 +17396,8 @@
           "kind": "process",
           "title": "The Pub"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-gb-england"
     },
     {
       "kind": "culture",
@@ -43883,8 +43884,8 @@
       "title": "the Four Nations",
       "description": "The four nations of the UK as a group: one state, four teams, and the games they built to keep it that way.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/the_four_nations"
+        "package": "@chbrain/khai-cultures-the-four-nations",
+        "path": ""
       },
       "references": ["gb_england", "gb_northern_ireland", "gb_scotland", "gb_wales"],
       "members": [

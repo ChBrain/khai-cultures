@@ -33,7 +33,7 @@ For most of a century it is the fixture the calendar is built around, and it doe
 - [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md): the fixture two of the others would not travel to, and the place whose rugby has never been partitioned.
 - [rugby](@chbrain/khai-cultures-gb-wales/process_rugby.md): the code that built the side uniting the archipelago, while the other code was dismantling the one that divided it.
 - [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md): a nation that assembles itself around a fixture, and had a century of them.
-- [England](../../cultures/gb_england/play_england.md): one of the two that would not travel, and the association the abolished trophy had belonged to longest.
+- [England](@chbrain/khai-cultures-gb-england/play_england.md): one of the two that would not travel, and the association the abolished trophy had belonged to longest.
 
 ## Tension
 
