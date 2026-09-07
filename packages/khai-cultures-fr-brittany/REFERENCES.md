@@ -74,7 +74,7 @@ This is the case `management/design/what-a-geo-json-carries.md` was written for,
 and it names Brittany as its worked example. The anchor names the culture and
 `covers` says what to paint; they are allowed to disagree, and here they must.
 A Brittany drawn without Nantes would contradict
-[plot_04](plot_04_naoned_er_maez_1941.md),
+[plot_05](plot_05_naoned_er_maez_1941.md),
 [place_naoned](place_naoned.md) and
 [position_ar_pempvet_departamant](position_ar_pempvet_departamant.md), all three
 of which exist because the culture and the administrative region are not the
