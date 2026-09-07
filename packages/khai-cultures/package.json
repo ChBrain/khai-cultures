@@ -142,6 +142,7 @@
     "@chbrain/khai-cultures-these-islands": "^0.1.0",
     "@chbrain/khai-cultures-tongues": "^0.47.0",
     "@chbrain/khai-cultures-united-kingdom": "^0.1.0",
+    "@chbrain/khai-cultures-visegrad": "^0.1.0",
     "@chbrain/khai-engine-language": "^0.1.5",
     "@chbrain/khai-engine-spine": "^0.1.5"
   }
