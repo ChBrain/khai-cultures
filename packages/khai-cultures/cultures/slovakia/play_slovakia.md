@@ -47,7 +47,7 @@ Národ z vrchov a dolín, drotárov, čo so škopkom na chrbte chodili po svete 
 
 **Positions**
 
-- [slovenčina](position_language_sk.md)
+- [slovenčina](@chbrain/khai-cultures-tongues/sk/position_language_sk.md)
 - [mladý národ](position_culture_mlady_narod.md)
 - [viera](position_viera.md)
 
@@ -72,7 +72,7 @@ Roku 1713 obesia v Liptove zbojníka [Juraja Jánošíka](persona_janosik.md); z
 
 **[Plot 2: Štúr a slovenčina](plot_02_stur_slovencina.md)**
 
-V roku 1843 [Ľudovít Štúr](persona_stur.md) uzákoní spisovnú [slovenčinu](position_language_sk.md) a prebudí národ proti pomaďarčovaniu; reč, ktorú dostal neskoro, sa mu stane vlasťou.
+V roku 1843 [Ľudovít Štúr](persona_stur.md) uzákoní spisovnú [slovenčinu](@chbrain/khai-cultures-tongues/sk/position_language_sk.md) a prebudí národ proti pomaďarčovaniu; reč, ktorú dostal neskoro, sa mu stane vlasťou.
 
 **[Plot 3: Pražská jar](plot_03_prazska_jar.md)**
 
@@ -84,4 +84,4 @@ Po nežnej revolúcii sa Česko-Slovensko roku 1993 pokojne rozdelí a v [Bratis
 
 ## Stakes
 
-Či mladý národ, ktorý takmer celé dejiny slúžil pod cudzou vrchnosťou a sám sebou je len od včera, dokáže vo vlastnom štáte a v otvorenej Európe dospieť k pokojnej sebadôvere, udržať si [reč](position_language_sk.md) medzi češtinou a angličtinou a [vieru](position_viera.md) i pieseň ako živé korene, a nezostať navždy malým bratom, čo čaká, čo povedia väčší.
+Či mladý národ, ktorý takmer celé dejiny slúžil pod cudzou vrchnosťou a sám sebou je len od včera, dokáže vo vlastnom štáte a v otvorenej Európe dospieť k pokojnej sebadôvere, udržať si [reč](@chbrain/khai-cultures-tongues/sk/position_language_sk.md) medzi češtinou a angličtinou a [vieru](position_viera.md) i pieseň ako živé korene, a nezostať navždy malým bratom, čo čaká, čo povedia väčší.

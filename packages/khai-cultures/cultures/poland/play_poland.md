@@ -48,7 +48,7 @@ Wielki niegdyś kraj, Rzeczpospolita wielu narodów, który w końcu XVIII wieku
 **Positions**
 
 - [polskość](position_culture_polskosc.md)
-- [język polski](position_language_pl.md)
+- [język polski](@chbrain/khai-cultures-tongues/pl/position_language_pl.md)
 - [Kościół](position_kosciol.md)
 - [martyrologia](position_martyrologia.md)
 
@@ -69,7 +69,7 @@ Wielki niegdyś kraj, Rzeczpospolita wielu narodów, który w końcu XVIII wieku
 
 **[Plot 1: Rozbiory](plot_01_rozbiory.md)**
 
-W latach 1772-1795 Rosja, Prusy i Austria dzielą między siebie Rzeczpospolitą i wymazują Polskę z mapy; państwa nie ma, a [język polski](position_language_pl.md) staje się ostatnią ojczyzną narodu.
+W latach 1772-1795 Rosja, Prusy i Austria dzielą między siebie Rzeczpospolitą i wymazują Polskę z mapy; państwa nie ma, a [język polski](@chbrain/khai-cultures-tongues/pl/position_language_pl.md) staje się ostatnią ojczyzną narodu.
 
 **[Plot 2: II wojna światowa](plot_02_ii_wojna_swiatowa.md)**
 

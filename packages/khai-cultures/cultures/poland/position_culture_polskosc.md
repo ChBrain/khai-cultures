@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Przynależność do narodu, który przetrwał wymazanie z mapy nie jako państwo, lecz jako naród trzymający się mowy, wiary i pamięci. Przez sto dwadzieścia trzy lata zaborów, przez dwie okupacje i przez komunizm, [język polski](position_language_pl.md) był ostatnią ojczyzną, a [Kościół](position_kosciol.md) jedyną wolną instytucją narodu, gdy nie było wolnego państwa. Nosi w sobie [martyrologię](position_martyrologia.md), romantyczny mit narodu-ofiary, Polski jako Chrystusa narodów, wciąż powstającej i wciąż gnieciony, dla której powstanie, choćby bez szans, i ofiara mają większą cenę niż chłodny rachunek. Trzyma pamięć wielkiej niegdyś Rzeczypospolitej wielu narodów i pamięć jej upadku, a w wolności, odzyskanej w 1918 i raz jeszcze w 1989, niesie pytanie, czym ma być polskość, gdy nie broni jej już zaborca ani okupant.
+Przynależność do narodu, który przetrwał wymazanie z mapy nie jako państwo, lecz jako naród trzymający się mowy, wiary i pamięci. Przez sto dwadzieścia trzy lata zaborów, przez dwie okupacje i przez komunizm, [język polski](@chbrain/khai-cultures-tongues/pl/position_language_pl.md) był ostatnią ojczyzną, a [Kościół](position_kosciol.md) jedyną wolną instytucją narodu, gdy nie było wolnego państwa. Nosi w sobie [martyrologię](position_martyrologia.md), romantyczny mit narodu-ofiary, Polski jako Chrystusa narodów, wciąż powstającej i wciąż gnieciony, dla której powstanie, choćby bez szans, i ofiara mają większą cenę niż chłodny rachunek. Trzyma pamięć wielkiej niegdyś Rzeczypospolitej wielu narodów i pamięć jej upadku, a w wolności, odzyskanej w 1918 i raz jeszcze w 1989, niesie pytanie, czym ma być polskość, gdy nie broni jej już zaborca ani okupant.
 
 ## Orders
 
