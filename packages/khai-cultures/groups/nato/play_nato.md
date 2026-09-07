@@ -40,7 +40,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md) (1949)
 - [Norway](@chbrain/khai-cultures-norway/play_norway.md) (1949)
 - [Iceland](@chbrain/khai-cultures-iceland/play_iceland.md) (1949)
-- [Portugal](../../cultures/portugal/play_portugal.md) (1949)
+- [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) (1949)
 - [Greece](../../cultures/greece/play_greece.md) (1952)
 - [Turkey](../../cultures/turkey/play_turkey.md) (1952)
 - [Germany](@chbrain/khai-cultures-germany/play_germany.md) (1955)

@@ -26,11 +26,11 @@ Os exércitos de Napoleão marcham sobre Lisboa e, em vez de cair, a corte portu
 
 ## Action
 
-A fuga da corte transforma o [Brasil](../../cultures/brazil/play_brazil.md) de colônia em sede do império, e o Rio torna-se uma capital por direito próprio, elevado em estatura e amor-próprio enquanto [Portugal](../../cultures/portugal/play_portugal.md) suporta a ocupação e a guerra em casa. Quando o rei enfim regressa a Lisboa, deixa o filho para trás como regente e, em 1822, instado a não se curvar a um parlamento que queria rebaixar de novo a colônia, o príncipe declara a independência do Brasil e é coroado seu imperador. Assim, a maior nação de língua portuguesa conquista a sua liberdade não por uma guerra de revolução, mas como império sob o próprio príncipe da antiga dinastia, uma continuidade diferente de qualquer outra ruptura nas Américas. A corte e a coroa traçam o caminho lusófono singular: uma independência passada dentro da família, a mesma casa real sentada em dois tronos separados por um oceano.
+A fuga da corte transforma o [Brasil](../../cultures/brazil/play_brazil.md) de colônia em sede do império, e o Rio torna-se uma capital por direito próprio, elevado em estatura e amor-próprio enquanto [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) suporta a ocupação e a guerra em casa. Quando o rei enfim regressa a Lisboa, deixa o filho para trás como regente e, em 1822, instado a não se curvar a um parlamento que queria rebaixar de novo a colônia, o príncipe declara a independência do Brasil e é coroado seu imperador. Assim, a maior nação de língua portuguesa conquista a sua liberdade não por uma guerra de revolução, mas como império sob o próprio príncipe da antiga dinastia, uma continuidade diferente de qualquer outra ruptura nas Américas. A corte e a coroa traçam o caminho lusófono singular: uma independência passada dentro da família, a mesma casa real sentada em dois tronos separados por um oceano.
 
 ## Stage
 
-- [Portugal](../../cultures/portugal/play_portugal.md): a terra-mãe cuja corte fugiu através do oceano e cuja dinastia deu ao Brasil a sua coroa.
+- [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md): a terra-mãe cuja corte fugiu através do oceano e cuja dinastia deu ao Brasil a sua coroa.
 - [o Brasil](../../cultures/brazil/play_brazil.md): a colônia que se tornou sede do império e depois um império independente sob a mesma casa.
 
 ## Tension

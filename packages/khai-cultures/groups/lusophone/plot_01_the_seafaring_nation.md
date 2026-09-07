@@ -26,11 +26,11 @@ Uma pequena nação na orla ocidental da Europa, de costas para a terra e de ros
 
 ## Action
 
-Ao longo do século XV, [Portugal](../../cultures/portugal/play_portugal.md) abre os caminhos do mar que nenhum europeu havia traçado: descendo a longa costa da África, contornando o Cabo da Boa Esperança, atravessando o Oceano Índico até os portos das especiarias e seguindo pelo Atlântico rumo ao oeste desconhecido. A caravela, a carta náutica e a escola de navegação fazem de um pequeno país a primeira potência marítima global, plantando feitorias e a língua portuguesa nas costas de três continentes. O mesmo impulso para fora que alcança a Índia e o Oriente haverá de, quase de passagem, levar uma frota através do Atlântico e pôr pés portugueses na costa de uma nova terra, a semente de tudo o que a Lusofonia viria a ser. A nação navegadora é a fonte: a partir desta pequena costa atlântica partiram a língua e os navios que construiriam um mundo.
+Ao longo do século XV, [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) abre os caminhos do mar que nenhum europeu havia traçado: descendo a longa costa da África, contornando o Cabo da Boa Esperança, atravessando o Oceano Índico até os portos das especiarias e seguindo pelo Atlântico rumo ao oeste desconhecido. A caravela, a carta náutica e a escola de navegação fazem de um pequeno país a primeira potência marítima global, plantando feitorias e a língua portuguesa nas costas de três continentes. O mesmo impulso para fora que alcança a Índia e o Oriente haverá de, quase de passagem, levar uma frota através do Atlântico e pôr pés portugueses na costa de uma nova terra, a semente de tudo o que a Lusofonia viria a ser. A nação navegadora é a fonte: a partir desta pequena costa atlântica partiram a língua e os navios que construiriam um mundo.
 
 ## Stage
 
-- [Portugal](../../cultures/portugal/play_portugal.md): a pequena nação voltada para o Atlântico que abriu os caminhos do oceano e se tornou a primeira potência marítima global.
+- [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md): a pequena nação voltada para o Atlântico que abriu os caminhos do oceano e se tornou a primeira potência marítima global.
 
 ## Tension
 
