@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **101 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **103 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -114,11 +114,13 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                      | `nds`        |
 | `no/position_language_no.md`           | Norwegian: two written norms, no spoken standard at all, and a dialect permitted anywhere                                                            | `no`         |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                                                  | `pfl`        |
+| `pl/position_language_pl.md`           | Polish: seven cases, an aspect pair on every verb, graded diminutives, and a plural that marks whether there are men in the group                    | `pl`         |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                                                        | `rif`        |
 | `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                                                  | `rm`         |
 | `ru/position_language_ru.md`           | Russian as such: aspect on every verb, no article, and no copula in the present                                                                      | `ru`         |
 | `sco/position_language_sco.md`         | Scots: negation fastened to the verb, the Northern Subject Rule, and no settled spelling                                                             | `sco`        |
 | `sco/position_language_sco_gb_nir.md`  | Ulster Scots: the only Scots with a standing in law, and the written practice built to sit apart from Scotland's                                     | `sco`        |
+| `sk/position_language_sk.md`           | Slovak: six cases, aspect pairs, no article, and a Czech so close that the difference dissolves in ordinary speech                                   | `sk`         |
 | `sl/position_language_sl.md`           | Slovene as such: the dual, and six cases                                                                                                             | `sl`         |
 | `sv/position_language_sv.md`           | Swedish as such: definiteness hung on the end of the word, and a tonal accent that separates two identical spellings                                 | `sv`         |
 | `sv/position_language_sv_fi.md`        | Finland Swedish: currently the sv anchor's material under a variety's name                                                                           | `sv`         |
