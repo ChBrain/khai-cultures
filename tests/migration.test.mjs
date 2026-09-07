@@ -46,6 +46,7 @@ import {
   productions,
   productionName,
   relinkOnly,
+  normaliseTables,
   authoredCultures,
 } from "./culture_sources.mjs";
 import { drift } from "./registry_hybrid.mjs";
@@ -526,5 +527,45 @@ describe("Migration: an address resolves for whoever installs it", () => {
     } finally {
       rmSync(root, { recursive: true, force: true });
     }
+  });
+});
+
+describe("Migration: a table re-padded is not an authoring", () => {
+  it("sees through the column width a longer link forces", () => {
+    // The case, verbatim from iberia when portugal migrated: one cell's link
+    // grows from a path to a specifier, and prettier re-pads every row of the
+    // table -- the row about Spain, which nobody touched, and the `---`
+    // separator, which is nothing but width.
+    const before = [
+      "| ISO | Country  | Member culture                                       |",
+      "| --- | -------- | ---------------------------------------------------- |",
+      "| ES  | Spain    | [spain](../../cultures/spain/play_spain.md)          |",
+      "| PT  | Portugal | [portugal](../../cultures/portugal/play_portugal.md) |",
+    ].join("\n");
+    const after = [
+      "| ISO | Country  | Member culture                                               |",
+      "| --- | -------- | ------------------------------------------------------------ |",
+      "| ES  | Spain    | [spain](../../cultures/spain/play_spain.md)                  |",
+      "| PT  | Portugal | [portugal](@chbrain/khai-cultures-portugal/play_portugal.md) |",
+    ].join("\n");
+    const blind = (t) => t.replace(/\]\([^()\s]*\)/g, "](-)");
+    expect(blind(normaliseTables(before))).toBe(blind(normaliseTables(after)));
+  });
+
+  it("still charges a word changed inside a cell", () => {
+    // The normalisation must not become a licence. Padding is layout; a word is
+    // content, and it survives both normalisations.
+    const before = "| ES  | Spain  | [spain](a.md)  |";
+    const after = "| ES  | Espana | [spain](b.md) |";
+    const blind = (t) => t.replace(/\]\([^()\s]*\)/g, "](-)");
+    expect(blind(normaliseTables(before))).not.toBe(blind(normaliseTables(after)));
+  });
+
+  it("leaves every line that is not a table row alone", () => {
+    // Prose is never re-padded by the formatter the way a table is, so the rule
+    // is confined to lines that open and close with a pipe.
+    const prose = "Roman  Hispania,   and   the  long Reconquista.";
+    expect(normaliseTables(prose)).toBe(prose);
+    expect(normaliseTables("| a  |  b |")).toBe("| a | b |");
   });
 });
