@@ -31,9 +31,9 @@ The learned classes of Ireland and Gaelic Scotland hold one literary language be
 ## Stage
 
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md): the source of the standard, the schools that taught it, and the families that carried it over.
-- [Scotland](../../cultures/gb_scotland/play_scotland.md): the other half of the shared page, and the half where a statute was written specifically to end it.
+- [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md): the other half of the shared page, and the half where a statute was written specifically to end it.
 - [Scottish Gaelic](@chbrain/khai-cultures-tongues/gd/position_language_gd.md): what was left when the common standard went, close enough to its Irish sibling that the strait is still narrower than the border.
-- [the Highlands](../../cultures/gb_scotland/place_the_highlands.md): the ground the poets crossed to, and the ground the schooling was aimed at.
+- [the Highlands](@chbrain/khai-cultures-gb-scotland/place_the_highlands.md): the ground the poets crossed to, and the ground the schooling was aimed at.
 
 ## Tension
 

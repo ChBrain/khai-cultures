@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **100 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **101 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -79,6 +79,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `en/position_language_en_us_pa.md`     | Pennsylvania English, Pittsburgh and the Dutch country                                                                                               | `en`         |
 | `en/position_language_en_us_va.md`     | Virginian English, the drawl and the second-person plural English otherwise lost                                                                     | `en`         |
 | `es/position_language_es.md`           | Spanish as such, of which every es_* here is a variety                                                                                               | `es`         |
+| `es/position_language_es_es.md`        | Peninsular Spanish: the vosotros that the Americas dropped, and the distinción of c and z against s                                                  | `es`         |
 | `es/position_language_es_es_an.md`     | Andalusian Spanish: the open vowel doing the work the lost consonant did                                                                             | `es`         |
 | `es/position_language_es_es_ar.md`     | Aragonese Spanish: the -ico diminutive and the apocope, and the Aragonese underneath both                                                            | `es`         |
 | `es/position_language_es_es_as.md`     | Asturian Spanish: the -in diminutive and the metaphony the Asturian underneath pushes up                                                             | `es`         |

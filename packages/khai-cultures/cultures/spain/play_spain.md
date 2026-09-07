@@ -51,7 +51,7 @@ Una tierra antigua que fue imperio y lo perdió, hecha de muchos reinos cosidos 
 - [las autonomías](position_las_autonomias.md)
 - [la familia](position_la_familia.md)
 - [el catolicismo](position_el_catolicismo.md)
-- [el español de España](position_language_es_es.md)
+- [el español de España](@chbrain/khai-cultures-tongues/es/position_language_es_es.md)
 
 **Pieces**
 

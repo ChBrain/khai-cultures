@@ -30,9 +30,9 @@ One state that fields four teams, which no other state does, and which the four 
 **Members**
 
 - [England](../../cultures/gb_england/play_england.md)
-- [Scotland](../../cultures/gb_scotland/play_scotland.md)
-- [Wales](../../cultures/gb_wales/play_wales.md)
-- [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md)
+- [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md)
+- [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md)
+- [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md)
 
 **Personas**
 
@@ -45,11 +45,11 @@ One state that fields four teams, which no other state does, and which the four 
 **Cast from the members**
 
 - [village cricket](../../cultures/gb_england/process_cricket.md)
-- [rugby](../../cultures/gb_wales/process_rugby.md)
-- [Gaelic games](../../cultures/gb_northern_ireland/process_gaa.md)
+- [rugby](@chbrain/khai-cultures-gb-wales/process_rugby.md)
+- [Gaelic games](@chbrain/khai-cultures-gb-northern-ireland/process_gaa.md)
 - [the St George's Cross](../../cultures/gb_england/piece_st_georges_cross.md)
-- [the Saltire](../../cultures/gb_scotland/piece_saltire.md)
-- [Y Ddraig Goch](../../cultures/gb_wales/piece_y_ddraig_goch.md)
+- [the Saltire](@chbrain/khai-cultures-gb-scotland/piece_saltire.md)
+- [Y Ddraig Goch](@chbrain/khai-cultures-gb-wales/piece_y_ddraig_goch.md)
 
 **Pitches**
 

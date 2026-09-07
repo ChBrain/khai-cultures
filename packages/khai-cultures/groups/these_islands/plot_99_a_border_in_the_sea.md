@@ -30,7 +30,7 @@ One state leaves the union the other stays in, and the two hundred miles of land
 
 ## Stage
 
-- [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md): the only part of this group with a frontier of two unions running through its arrangements, and the reason there is no post on the road.
+- [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md): the only part of this group with a frontier of two unions running through its arrangements, and the reason there is no post on the road.
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md): now the group's only member inside the union the others left, and the one whose passport the others' citizens can sometimes hold.
 - [the Cousin](persona_the_cousin.md): unaffected, which is the finding.
 - [the neighbour](position_the_neighbour.md): tested against the hardest thing yet asked of it, and holding.

@@ -23,9 +23,9 @@ It has **no `geo.json`** and it is **not counted** in the registry version: the
 minor stays the culture count.
 
 - **Members:** [England](../../cultures/gb_england/play_england.md),
-  [Scotland](../../cultures/gb_scotland/play_scotland.md),
-  [Wales](../../cultures/gb_wales/play_wales.md),
-  [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md).
+  [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md),
+  [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md),
+  [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md).
 - **Kind:** `group`.
 - **Spine:** the codified games and the bodies that govern them — the one thing
   the four built together, in the same three decades, and the one that still

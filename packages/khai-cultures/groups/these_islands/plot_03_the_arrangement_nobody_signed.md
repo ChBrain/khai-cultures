@@ -32,7 +32,7 @@ Officials on both sides work out, quietly and without a treaty, that the alterna
 
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md): the state that had just left, and kept the door.
 - [the neighbour](position_the_neighbour.md): the office this arrangement creates, which is neither foreigner nor fellow citizen and has no other example.
-- [Northern Ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md): the land border the whole thing exists to avoid manning.
+- [Northern Ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md): the land border the whole thing exists to avoid manning.
 - [the Cousin](persona_the_cousin.md): the person for whom none of this is policy, only the reason she does not need to think about it.
 
 ## Tension

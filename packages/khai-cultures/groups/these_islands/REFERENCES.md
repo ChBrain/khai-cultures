@@ -14,13 +14,13 @@ Two states and five cultures on one archipelago. The membership recorded in the
 registry is **build-derived** from the member plays this group casts, not authored
 by hand.
 
-| ISO    | Culture          | Member                                                                             |
-| ------ | ---------------- | ---------------------------------------------------------------------------------- |
-| IE     | Ireland          | [ireland](../../../khai-cultures-ireland/play_ireland.md)                          |
-| GB-ENG | England          | [gb_england](../../cultures/gb_england/play_england.md)                            |
-| GB-SCT | Scotland         | [gb_scotland](../../cultures/gb_scotland/play_scotland.md)                         |
-| GB-WLS | Wales            | [gb_wales](../../cultures/gb_wales/play_wales.md)                                  |
-| GB-NIR | Northern Ireland | [gb_northern_ireland](../../cultures/gb_northern_ireland/play_northern_ireland.md) |
+| ISO    | Culture          | Member                                                                                     |
+| ------ | ---------------- | ------------------------------------------------------------------------------------------ |
+| IE     | Ireland          | [ireland](../../../khai-cultures-ireland/play_ireland.md)                                  |
+| GB-ENG | England          | [gb_england](../../cultures/gb_england/play_england.md)                                    |
+| GB-SCT | Scotland         | [gb_scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md)                         |
+| GB-WLS | Wales            | [gb_wales](@chbrain/khai-cultures-gb-wales/play_wales.md)                                  |
+| GB-NIR | Northern Ireland | [gb_northern_ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md) |
 
 The state above four of them, [united_kingdom](../../../khai-cultures-united-kingdom/play_united_kingdom.md),
 is a culture in its own right and is **not** a member here: including both it and
@@ -52,7 +52,7 @@ group takes the workaround as its title and stages the need for a workaround.
 The obvious material for a group of these five is the British-Irish Council and
 the 1998 Agreement, which is precisely the failure `order_the_passport.md`
 describes, and the Agreement is already staged where it belongs, in
-[gb_northern_ireland](../../cultures/gb_northern_ireland/plot_04_good_friday_1998.md).
+[gb_northern_ireland](@chbrain/khai-cultures-gb-northern-ireland/plot_04_good_friday_1998.md).
 Every Cue here has a non-state subject: a poet taking service across the water, a
 family selling up for a deck passage, a woman answering a newspaper advertisement,
 a man walking off a boat at Holyhead, and a queue for passports that is not at a

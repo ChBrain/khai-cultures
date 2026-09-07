@@ -280,6 +280,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "es/position_language_es_es.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
         "file": "es/position_language_es_es_an.md",
         "type": "position",
         "parent": "es/position_language_es.md"
