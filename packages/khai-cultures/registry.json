@@ -44032,8 +44032,8 @@
       "title": "The Visegrad Four",
       "description": "The Visegrad Four as a group: Poland, Czechia, Slovakia, and Hungary, bound by the return to Europe.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/visegrad"
+        "package": "@chbrain/khai-cultures-visegrad",
+        "path": ""
       },
       "references": ["czechia", "hungary", "poland", "slovakia"],
       "members": [
