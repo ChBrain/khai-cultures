@@ -26,7 +26,7 @@ A forerunner rises first: in 1804 the enslaved of a French colony break their ch
 
 ## Action
 
-The break begins with [Haiti](../../cultures/haiti/play_haiti.md), where in 1804 a revolution of the enslaved founds the first independent state of Latin America and the only republic born of a successful slave revolt, a forerunner to all that follows. On the mainland, with Spain in crisis, the creole revolts open: the priest Hidalgo raises [Mexico](../../cultures/mexico/play_mexico.md) in 1810, and from north and south the great liberators march, Simon Bolivar from [Colombia](../../cultures/colombia/play_colombia.md) and Venezuela, Jose de San Martin up from [Argentina](../../cultures/argentina/play_argentina.md) through Chile to Peru. Between 1810 and 1825 the Spanish American republics win their freedom, and Bolivar's vision of a single union, Gran Colombia, rises and then falls apart. [Brazil](../../cultures/brazil/play_brazil.md) takes a wholly different road: in 1822 the heir to the Portuguese throne declares it independent and rules it as an empire, a monarchy in a continent of republics. By 1825 a dozen new nations stand where two empires had ruled, free at last and already divided by the borders the liberators drew and could not dissolve.
+The break begins with [Haiti](../../cultures/haiti/play_haiti.md), where in 1804 a revolution of the enslaved founds the first independent state of Latin America and the only republic born of a successful slave revolt, a forerunner to all that follows. On the mainland, with Spain in crisis, the creole revolts open: the priest Hidalgo raises [Mexico](../../cultures/mexico/play_mexico.md) in 1810, and from north and south the great liberators march, Simon Bolivar from [Colombia](../../cultures/colombia/play_colombia.md) and Venezuela, Jose de San Martin up from [Argentina](../../cultures/argentina/play_argentina.md) through Chile to Peru. Between 1810 and 1825 the Spanish American republics win their freedom, and Bolivar's vision of a single union, Gran Colombia, rises and then falls apart. [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) takes a wholly different road: in 1822 the heir to the Portuguese throne declares it independent and rules it as an empire, a monarchy in a continent of republics. By 1825 a dozen new nations stand where two empires had ruled, free at last and already divided by the borders the liberators drew and could not dissolve.
 
 ## Stage
 
@@ -34,7 +34,7 @@ The break begins with [Haiti](../../cultures/haiti/play_haiti.md), where in 1804
 - [Colombia](../../cultures/colombia/play_colombia.md): Bolivar's base and the heart of Gran Colombia.
 - [Argentina](../../cultures/argentina/play_argentina.md): San Martin's republic and the southern campaign.
 - [Haiti](../../cultures/haiti/play_haiti.md): the forerunner, free in 1804, the first of all.
-- [Brazil](../../cultures/brazil/play_brazil.md): independence by an imperial path in 1822.
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md): independence by an imperial path in 1822.
 
 ## Tension
 

@@ -52,7 +52,7 @@ Two continents joined by an isthmus, peopled first by indigenous civilizations -
 - [Antigua and Barbuda](../../cultures/antigua_and_barbuda/play_antigua_and_barbuda.md) (the Leeward twin islands)
 - [Dominica](../../cultures/dominica/play_dominica.md) (the rugged island of the Caribs)
 - [Saint Kitts and Nevis](../../cultures/saint_kitts_and_nevis/play_saint_kitts_and_nevis.md) (the smallest American state, the mother colony)
-- [Brazil](../../cultures/brazil/play_brazil.md) (the Portuguese giant of the south)
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) (the Portuguese giant of the south)
 - [Argentina](../../cultures/argentina/play_argentina.md) (the southern cone of the pampas)
 - [Colombia](../../cultures/colombia/play_colombia.md) (the gateway of South America, Bolivar's republic)
 - [Chile](../../cultures/chile/play_chile.md) (the long Pacific republic)
@@ -69,15 +69,15 @@ Two continents joined by an isthmus, peopled first by indigenous civilizations -
 
 **The encounter and the mixing**
 
-The deepest bond of the hemisphere is the New World itself: the encounter of 1492, the conquest that followed, the largest forced migration of enslaved Africans in history, and the centuries of mixing that made every American nation a meeting of the indigenous, the European, and the African in some proportion of its own. [Mexico](../../cultures/mexico/play_mexico.md), [Peru](../../cultures/peru/play_peru.md), [Brazil](../../cultures/brazil/play_brazil.md), [Cuba](../../cultures/cuba/play_cuba.md), and [Haiti](../../cultures/haiti/play_haiti.md) each carry that meeting in a different key, but none of the hemisphere stands outside it.
+The deepest bond of the hemisphere is the New World itself: the encounter of 1492, the conquest that followed, the largest forced migration of enslaved Africans in history, and the centuries of mixing that made every American nation a meeting of the indigenous, the European, and the African in some proportion of its own. [Mexico](../../cultures/mexico/play_mexico.md), [Peru](../../cultures/peru/play_peru.md), [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md), [Cuba](../../cultures/cuba/play_cuba.md), and [Haiti](../../cultures/haiti/play_haiti.md) each carry that meeting in a different key, but none of the hemisphere stands outside it.
 
 **The wars of independence**
 
-Across a single long age of revolution from 1776 to 1825 the New World broke from its old masters: [the United States](../../cultures/usa/play_usa.md) first, then [Haiti](../../cultures/haiti/play_haiti.md) in 1804, then the Spanish American wars of liberation carried by Bolivar through [Colombia](../../cultures/colombia/play_colombia.md) and [Venezuela](../../cultures/venezuela/play_venezuela.md) and by San Martin through [Argentina](../../cultures/argentina/play_argentina.md) and the south, while [Brazil](../../cultures/brazil/play_brazil.md) took its own imperial path. The islands of the Caribbean, from [Jamaica](../../cultures/jamaica/play_jamaica.md) to [Barbados](../../cultures/barbados/play_barbados.md), completed the work across the twentieth century.
+Across a single long age of revolution from 1776 to 1825 the New World broke from its old masters: [the United States](../../cultures/usa/play_usa.md) first, then [Haiti](../../cultures/haiti/play_haiti.md) in 1804, then the Spanish American wars of liberation carried by Bolivar through [Colombia](../../cultures/colombia/play_colombia.md) and [Venezuela](../../cultures/venezuela/play_venezuela.md) and by San Martin through [Argentina](../../cultures/argentina/play_argentina.md) and the south, while [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) took its own imperial path. The islands of the Caribbean, from [Jamaica](../../cultures/jamaica/play_jamaica.md) to [Barbados](../../cultures/barbados/play_barbados.md), completed the work across the twentieth century.
 
 **The OAS and Pan-Americanism**
 
-The ideal of a hemisphere of republics found its institution in the Organization of American States, where every state of the Americas takes a seat, the loosest of the bonds and the most explicit. Pan-Americanism gathers [the United States](../../cultures/usa/play_usa.md) and the nations of Latin America and the Caribbean into one hemispheric conversation, however unequal, from [Mexico](../../cultures/mexico/play_mexico.md) to [Brazil](../../cultures/brazil/play_brazil.md) to [Panama](../../cultures/panama/play_panama.md) and the islands.
+The ideal of a hemisphere of republics found its institution in the Organization of American States, where every state of the Americas takes a seat, the loosest of the bonds and the most explicit. Pan-Americanism gathers [the United States](../../cultures/usa/play_usa.md) and the nations of Latin America and the Caribbean into one hemispheric conversation, however unequal, from [Mexico](../../cultures/mexico/play_mexico.md) to [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) to [Panama](../../cultures/panama/play_panama.md) and the islands.
 
 ## Stakes
 

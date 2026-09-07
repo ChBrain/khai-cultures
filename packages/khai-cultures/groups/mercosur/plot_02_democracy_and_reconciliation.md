@@ -26,12 +26,12 @@ The long night of military rule across the Southern Cone ends, and civilian gove
 
 ## Action
 
-Through the 1980s the military governments that had held [Argentina](../../cultures/argentina/play_argentina.md), [Brazil](../../cultures/brazil/play_brazil.md), and [Uruguay](../../cultures/uruguay/play_uruguay.md) give way to elected civilian rule, a return to democracy across the region. The new democratic leaders of the two giants choose to turn a century of rivalry into partnership: a series of accords in the second half of the decade builds economic and political cooperation between Argentina and Brazil, replacing the old posture of suspicion with one of trust. The rapprochement of the giants makes a wider union thinkable for the first time, and the smaller democracies of the basin, with [Uruguay](../../cultures/uruguay/play_uruguay.md) among them, are drawn into the conversation. The reconciliation of the two who had been rivals is the hinge on which the whole bloc turns; without it there could be no common market of the south.
+Through the 1980s the military governments that had held [Argentina](../../cultures/argentina/play_argentina.md), [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md), and [Uruguay](../../cultures/uruguay/play_uruguay.md) give way to elected civilian rule, a return to democracy across the region. The new democratic leaders of the two giants choose to turn a century of rivalry into partnership: a series of accords in the second half of the decade builds economic and political cooperation between Argentina and Brazil, replacing the old posture of suspicion with one of trust. The rapprochement of the giants makes a wider union thinkable for the first time, and the smaller democracies of the basin, with [Uruguay](../../cultures/uruguay/play_uruguay.md) among them, are drawn into the conversation. The reconciliation of the two who had been rivals is the hinge on which the whole bloc turns; without it there could be no common market of the south.
 
 ## Stage
 
 - [Argentina](../../cultures/argentina/play_argentina.md): the southern giant returning to democracy and choosing partnership.
-- [Brazil](../../cultures/brazil/play_brazil.md): the northern giant returning to civilian rule and reaching toward its old rival.
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md): the northern giant returning to civilian rule and reaching toward its old rival.
 - [Uruguay](../../cultures/uruguay/play_uruguay.md): the small democracy of the basin drawn into the new cooperation.
 
 ## Tension

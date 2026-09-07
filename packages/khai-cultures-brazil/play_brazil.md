@@ -68,6 +68,10 @@ Uma terra que já vinha abrigando centenas de povos indígenas quando os portugu
 
 ## Triggers
 
+**[Plot 0: A terra não acaba](plot_00_a_terra_nao_acaba.md)**
+
+Um continente grande demais pra ser mandado de qualquer lugar: a lei chega tarde, chega mudada, ou não chega, e no espaço entre a regra e a vida nasce [o jeitinho](position_o_jeitinho.md), séculos antes de haver nação pra ter um gênio.
+
 **[Plot 1: o Encontro e a Colônia](plot_01_o_encontro_e_a_colonia.md)**
 
 Em 1500 Cabral aporta numa costa que já vinha abrigando centenas de povos indígenas, e os portugueses vão erguendo uma colônia de açúcar e depois de café em cima do trabalho da maior sociedade escravista de africanos das Américas - o encontro dos três povos que faz [a miscigenação](position_a_miscigenacao.md), e a resistência dos quilombos onde [Zumbi dos Palmares](persona_zumbi.md) vai resistindo pela liberdade.
@@ -83,6 +87,10 @@ Em 1888 o Brasil abole a escravidão por último em todas as Américas e vira re
 **[Plot 4: o Gigante Moderno](plot_04_o_gigante_moderno.md)**
 
 No século XX [Getúlio Vargas](persona_vargas.md) vai construindo o Estado moderno e centralizado, uma capital nova vai surgindo em Brasília, [Pelé](persona_pele.md) leva o gênio brasileiro pro mundo, e o país vai atravessando os anos militares de volta pra democracia - o gigante continental acordando, segurando debaixo do braço tanto a Amazônia quanto a maior desigualdade do mundo.
+
+**[Plot 99: O futuro que não chega](plot_99_o_futuro_que_nao_chega.md)**
+
+As quatro provas que o país mostrava ao mundo viram coisa do mundo, [o futebol](process_o_futebol.md) e [o Carnaval](process_o_carnaval.md) à frente, enquanto a renda passa duas décadas parada e a distância entre o morro e o asfalto segue aberta; [o país do futuro](position_o_pais_do_futuro.md) começa a ser cobrado com data.
 
 ## Stakes
 

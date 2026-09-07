@@ -39,7 +39,7 @@ A grouping bound not by one government but by a shared root and a shared wound. 
 - [Cuba](../../cultures/cuba/play_cuba.md) (the largest Antille, last of the Spanish Caribbean)
 - [the Dominican Republic](../../cultures/dominican_republic/play_dominican_republic.md) (the Spanish half of Hispaniola)
 - [Haiti](../../cultures/haiti/play_haiti.md) (French and Creole, the first to break its chains in 1804)
-- [Brazil](../../cultures/brazil/play_brazil.md) (the Portuguese giant, half the continent and its people)
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) (the Portuguese giant, half the continent and its people)
 - [Argentina](../../cultures/argentina/play_argentina.md) (the southern cone and San Martin's republic)
 - [Colombia](../../cultures/colombia/play_colombia.md) (Bolivar's Gran Colombia at its core)
 - [Chile](../../cultures/chile/play_chile.md) (the long Pacific coast and the Andean wall)

@@ -30,7 +30,7 @@ The Southern Common Market, the economic union of the Southern Cone. For more th
 **Members**
 
 - [Argentina](../../cultures/argentina/play_argentina.md) (a founder, 1991)
-- [Brazil](../../cultures/brazil/play_brazil.md) (a founder, the largest member)
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) (a founder, the largest member)
 - [Paraguay](../../cultures/paraguay/play_paraguay.md) (a founder, the heart of the basin)
 - [Uruguay](../../cultures/uruguay/play_uruguay.md) (a founder, the mouth of the Plata)
 - [Bolivia](../../cultures/bolivia/play_bolivia.md) (full accession, into the Andes)
@@ -39,7 +39,7 @@ The Southern Common Market, the economic union of the Southern Cone. For more th
 
 **The Rio de la Plata basin and its rivers**
 
-The great Rio de la Plata basin and the rivers that feed it, the Parana, the Paraguay, and the Uruguay, are the true ground of the grouping: the waters bind [Argentina](../../cultures/argentina/play_argentina.md), [Brazil](../../cultures/brazil/play_brazil.md), [Paraguay](../../cultures/paraguay/play_paraguay.md), and [Uruguay](../../cultures/uruguay/play_uruguay.md) into one watershed long before any treaty, the highways of the south down which trade and history have always run.
+The great Rio de la Plata basin and the rivers that feed it, the Parana, the Paraguay, and the Uruguay, are the true ground of the grouping: the waters bind [Argentina](../../cultures/argentina/play_argentina.md), [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md), [Paraguay](../../cultures/paraguay/play_paraguay.md), and [Uruguay](../../cultures/uruguay/play_uruguay.md) into one watershed long before any treaty, the highways of the south down which trade and history have always run.
 
 **Beef, soy, and the world's grain and protein**
 
@@ -47,7 +47,7 @@ The bloc is one of the planet's great breadbaskets and feedlots: beef from the p
 
 **Democracy's return and the Southern Cone union**
 
-The bloc was made possible only when democracy returned to the south in the 1980s, turning a century of rivalry between the giants into reconciliation, and out of that rapprochement came the dream of a Southern union that could bargain with the world as one, joining [Argentina](../../cultures/argentina/play_argentina.md) and [Brazil](../../cultures/brazil/play_brazil.md) to [Paraguay](../../cultures/paraguay/play_paraguay.md), [Uruguay](../../cultures/uruguay/play_uruguay.md), and later [Bolivia](../../cultures/bolivia/play_bolivia.md).
+The bloc was made possible only when democracy returned to the south in the 1980s, turning a century of rivalry between the giants into reconciliation, and out of that rapprochement came the dream of a Southern union that could bargain with the world as one, joining [Argentina](../../cultures/argentina/play_argentina.md) and [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) to [Paraguay](../../cultures/paraguay/play_paraguay.md), [Uruguay](../../cultures/uruguay/play_uruguay.md), and later [Bolivia](../../cultures/bolivia/play_bolivia.md).
 
 ## Stakes
 

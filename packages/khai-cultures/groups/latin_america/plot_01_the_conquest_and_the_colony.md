@@ -26,13 +26,13 @@ In 1492 ships from the Iberian crowns reach a world already full of peoples, cit
 
 ## Action
 
-From 1492 the Spanish crown overruns the great indigenous states, the Aztec confederacy at the heart of [Mexico](../../cultures/mexico/play_mexico.md) and the Inca realm centered on [Peru](../../cultures/peru/play_peru.md) among them, and builds the viceroyalties of New Spain and Peru over their ruins. Portugal claims the eastern coast that becomes [Brazil](../../cultures/brazil/play_brazil.md), and the islands of the Caribbean, [Cuba](../../cultures/cuba/play_cuba.md) chief among them, become the first ground of the conquest. Across three centuries the colonial order takes shape: the Catholic Church and its missions, the encomienda and the mita, the silver of the high Andes around [Bolivia](../../cultures/bolivia/play_bolivia.md), and the great forced migration of enslaved Africans to the plantations and the mines. Out of indigenous, European, and African peoples a new world is ground together, mestizo and creole and mulatto, Catholic in faith and Iberian in tongue. The colony is born unequal, ruled from across the ocean by a crown and a Church, and it carries within it both the synthesis and the wound that will mark Latin America ever after.
+From 1492 the Spanish crown overruns the great indigenous states, the Aztec confederacy at the heart of [Mexico](../../cultures/mexico/play_mexico.md) and the Inca realm centered on [Peru](../../cultures/peru/play_peru.md) among them, and builds the viceroyalties of New Spain and Peru over their ruins. Portugal claims the eastern coast that becomes [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md), and the islands of the Caribbean, [Cuba](../../cultures/cuba/play_cuba.md) chief among them, become the first ground of the conquest. Across three centuries the colonial order takes shape: the Catholic Church and its missions, the encomienda and the mita, the silver of the high Andes around [Bolivia](../../cultures/bolivia/play_bolivia.md), and the great forced migration of enslaved Africans to the plantations and the mines. Out of indigenous, European, and African peoples a new world is ground together, mestizo and creole and mulatto, Catholic in faith and Iberian in tongue. The colony is born unequal, ruled from across the ocean by a crown and a Church, and it carries within it both the synthesis and the wound that will mark Latin America ever after.
 
 ## Stage
 
 - [Mexico](../../cultures/mexico/play_mexico.md): the heart of New Spain, raised over the Aztec capital.
 - [Peru](../../cultures/peru/play_peru.md): the seat of the viceroyalty of Peru, over the Inca ground.
-- [Brazil](../../cultures/brazil/play_brazil.md): Portugal's vast claim, sugar, gold, and the largest enslaved population.
+- [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md): Portugal's vast claim, sugar, gold, and the largest enslaved population.
 - [Cuba](../../cultures/cuba/play_cuba.md): the early Caribbean ground of the Spanish conquest.
 - [Bolivia](../../cultures/bolivia/play_bolivia.md): the high Andes and the silver that funded an empire.
 
