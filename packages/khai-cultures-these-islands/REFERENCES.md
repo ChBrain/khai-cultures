@@ -16,13 +16,13 @@ by hand.
 
 | ISO    | Culture          | Member                                                                                     |
 | ------ | ---------------- | ------------------------------------------------------------------------------------------ |
-| IE     | Ireland          | [ireland](../../../khai-cultures-ireland/play_ireland.md)                                  |
+| IE     | Ireland          | [ireland](@chbrain/khai-cultures-ireland/play_ireland.md)                                  |
 | GB-ENG | England          | [gb_england](@chbrain/khai-cultures-gb-england/play_england.md)                            |
 | GB-SCT | Scotland         | [gb_scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md)                         |
 | GB-WLS | Wales            | [gb_wales](@chbrain/khai-cultures-gb-wales/play_wales.md)                                  |
 | GB-NIR | Northern Ireland | [gb_northern_ireland](@chbrain/khai-cultures-gb-northern-ireland/play_northern_ireland.md) |
 
-The state above four of them, [united_kingdom](../../../khai-cultures-united-kingdom/play_united_kingdom.md),
+The state above four of them, [united_kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md),
 is a culture in its own right and is **not** a member here: including both it and
 its four parts would count the same ground twice. The four appear because the
 relationships this group stages are with them severally, not with the state.
