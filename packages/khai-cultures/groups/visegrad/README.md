@@ -19,10 +19,17 @@ Like DACH and the Nordics, the Visegrad Four is a **group**, not a country. It h
 the play actually links.
 
 - **Members:** [Poland](../../cultures/poland/play_poland.md),
-  [Czechia](../../cultures/czechia/play_czechia.md),
+  [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md),
   [Slovakia](../../cultures/slovakia/play_slovakia.md),
   [Hungary](../../cultures/hungary/play_hungary.md).
 - **Kind:** `group`.
+- **The plot line:**
+  - [the Staple and the Road, 1335](plot_00_the_staple_and_the_road.md) - the origin, outside the chronology: a corridor with no natural frontier, and three kings agreeing one route because all three stood outside the same door.
+  - [Deklarácia 1991](plot_01_deklaracia_1991.md) - the same four in the same town, six hundred and fifty-six years later.
+  - [the Station and the Bloc, since 2022](plot_99_the_station_and_the_bloc.md) - the present: the largest reception in Europe since the war, and the format going quiet in the same months.
+- **Its own Company:** [the room next door](position_the_room_next_door.md) and
+  [the Haulier](persona_the_haulier.md), both belonging to the space between the
+  members rather than to any of them.
 - **Shared plot:** [the Visegrad Declaration, 1991](plot_01_deklaracia_1991.md),
   the founding pledge that revived the 1335 royal congress and grew from three
   members to four after the Velvet Divorce.

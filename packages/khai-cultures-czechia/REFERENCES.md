@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-21"
+updated: "2026-09-06"
 ---
 
 # Czechia: References
@@ -41,6 +41,17 @@ staging is original work.
 | Munich (1938)                | [plot_03_mnichov.md](plot_03_mnichov.md), [place_pohranici.md](place_pohranici.md)                 | The Munich Agreement, the ceding of the Sudetenland, and the occupation that followed.         |
 | Jaroslav Hašek and Švejk     | [persona_hasek.md](persona_hasek.md), [position_svejkovani.md](position_svejkovani.md)             | The author of The Good Soldier Švejk and the national figure of ironic passive resistance.     |
 | The Velvet Revolution (1989) | [plot_04_sametova_revoluce.md](plot_04_sametova_revoluce.md), [persona_havel.md](persona_havel.md) | The near-bloodless fall of communism and Václav Havel, dissident playwright and president.     |
+| Hops, brewing and the inn    | [plot_00_kotlina_a_chmel.md](plot_00_kotlina_a_chmel.md)                                           | Žatec/Saaz hop cultivation and export; monastic and village brewing; the village inn.          |
+| The present                  | [plot_99_chalupa_a_granaty.md](plot_99_chalupa_a_granaty.md)                                       | Second-home density, beer consumption per head, declared irreligion, and the 2024 shell drive. |
+
+Three limits are worth stating. The 993 date for brewing at Břevnov is a claim
+the house **repeats as a claim** and the plot writes it that way. The figures in
+[plot_99_chalupa_a_granaty.md](plot_99_chalupa_a_granaty.md) - the count of
+second homes, beer per head, and the share declaring no religion - are published
+estimates given in round terms. And the 2024 initiative to source artillery
+ammunition for Ukraine is staged for **what it was in character** - procurement
+and logistics rather than a gesture - and not as a verdict on anybody else's
+contribution.
 
 The two defining personas, [Jiřina](persona_jirina.md) and [Tomáš](persona_tomas.md),
 are archetypes, not historical individuals: composites that carry the tension
