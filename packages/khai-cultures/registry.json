@@ -43949,8 +43949,8 @@
       "title": "these islands",
       "description": "The archipelago as a group: five cultures, two states, two centuries of people moving both ways, and no agreed name.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/these_islands"
+        "package": "@chbrain/khai-cultures-these-islands",
+        "path": ""
       },
       "references": ["gb_england", "gb_northern_ireland", "gb_scotland", "gb_wales", "ireland"],
       "members": [

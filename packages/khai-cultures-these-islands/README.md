@@ -35,7 +35,7 @@ house whose members do not share a word for the group.
 It has **no `geo.json`** and it is **not counted** in the registry version: the
 minor stays the culture count.
 
-- **Members:** [Ireland](../../../khai-cultures-ireland/play_ireland.md),
+- **Members:** [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md),
   [England](@chbrain/khai-cultures-gb-england/play_england.md),
   [Scotland](@chbrain/khai-cultures-gb-scotland/play_scotland.md),
   [Wales](@chbrain/khai-cultures-gb-wales/play_wales.md),
@@ -60,7 +60,7 @@ free-movement arrangement that no treaty made and that has outlasted every treat
 that did.
 
 This group deliberately does **not** duplicate
-[the Four Nations](../the_four_nations/play_the_four_nations.md), which stages what
+[the Four Nations](@chbrain/khai-cultures-the-four-nations/play_the_four_nations.md), which stages what
 the four built with each other inside one state. The two share four members and no
 material.
 

@@ -1,0 +1,36 @@
+{
+  "name": "@chbrain/khai-cultures-these-islands",
+  "version": "0.1.0",
+  "description": "khai cultures: these_islands, one group of cultures staged as a khai play.",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "type": "module",
+  "files": [
+    "*.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "class": "house",
+    "group": "these_islands",
+    "anchor": "play_these_islands.md"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-gb-england": "^0.1.0",
+    "@chbrain/khai-cultures-gb-northern-ireland": "^0.1.0",
+    "@chbrain/khai-cultures-gb-scotland": "^0.1.0",
+    "@chbrain/khai-cultures-gb-wales": "^0.1.0",
+    "@chbrain/khai-cultures-ireland": "^0.1.0",
+    "@chbrain/khai-cultures-the-four-nations": "^0.1.0",
+    "@chbrain/khai-cultures-tongues": "^0.44.0",
+    "@chbrain/khai-cultures-united-kingdom": "^0.1.0",
+    "@chbrain/khai-engine-language": "^0.1.5"
+  }
+}
