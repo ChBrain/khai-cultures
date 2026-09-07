@@ -1,7 +1,7 @@
 ---
 khai: position
 title: "Castilian Spanish"
-declared: "el espanol de Espana"
+declared: "el español de España"
 language: es
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: el espanol de Espana
+# Position: el español de España
 
 ## Taxonomy
 

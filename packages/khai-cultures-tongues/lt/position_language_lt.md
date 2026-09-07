@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Lithuanian Language"
+title: "Lithuanian"
 declared: "lietuvių kalba"
 language: lt
 license: CC-BY-NC-SA-4.0

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Latvian Language"
+title: "Latvian"
 declared: "latviešu valoda"
 language: lv
 license: CC-BY-NC-SA-4.0

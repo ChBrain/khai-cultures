@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Swedish Language"
+title: "Swedish"
 declared: "svenskan"
 language: sv
 license: CC-BY-NC-SA-4.0

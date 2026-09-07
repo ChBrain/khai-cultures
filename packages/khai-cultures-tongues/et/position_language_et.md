@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Estonian Language"
+title: "Estonian"
 declared: "eesti keel"
 language: et
 license: CC-BY-NC-SA-4.0

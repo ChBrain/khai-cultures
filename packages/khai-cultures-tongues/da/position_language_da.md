@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Danish Language"
+title: "Danish"
 declared: "det danske sprog"
 language: da
 license: CC-BY-NC-SA-4.0
