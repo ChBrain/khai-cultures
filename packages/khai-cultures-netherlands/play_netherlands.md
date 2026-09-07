@@ -68,6 +68,10 @@ Een land dat zijn eigen grond uit de zee maakte en alleen droog blijft zolang ie
 
 ## Triggers
 
+**[Plot 0: De dijk van de buurman](plot_00_de_dijk_van_de_buurman.md)**
+
+Eeuwen voor er een staat is dijken de bewoners van deze kust hun land droog, en omdat een dijk zo sterk is als het stuk van de buurman ontstaan de waterschappen: [het poldermodel](position_het_poldermodel.md) is hier waterbouw en geen deugd, en op diezelfde terpen houdt [it Frysk](position_it_frysk.md) zich staande.
+
 **[Plot 1: De Opstand](plot_01_de_opstand.md)**
 
 [Willem van Oranje](persona_willem_van_oranje.md) leidt de gewesten in opstand tegen Spanje en sticht een republiek van kooplieden en calvinisten, verdraagzaam uit noodzaak, die de kiem van de Gouden Eeuw en van het [gedogen](position_gedogen.md) in zich draagt.
@@ -83,6 +87,10 @@ De zee haalt haar tol in [Zeeland](place_zeeland.md) en dwingt de samenwerking, 
 **[Plot 4: De jaren zestig](plot_04_de_jaren_zestig.md)**
 
 De oude verzuiling breekt open, het [gedogen](position_gedogen.md) wordt de landsaard, en het tolerante Nederland van nu ontstaat, met al de vrijheid en al de ontwijking die daarbij horen.
+
+**[Plot 99: De borrel in het Engels](plot_99_de_borrel_in_het_engels.md)**
+
+Het land dat trots was ieders taal te spreken merkt dat de eigen taal daardoor optioneel wordt: [Daan](persona_daan.md) leeft de helft in het Engels, [Baukje](persona_baukje.md) geeft aan het andere eind [it Frysk](position_it_frysk.md) door, en de [borrel](process_de_borrel.md) gaat over op een taal die niemand aan tafel als eerste leerde.
 
 ## Stakes
 
