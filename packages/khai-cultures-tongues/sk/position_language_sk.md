@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Slovak Language"
+title: "Slovak"
 declared: "slovenčina"
 language: sk
 license: CC-BY-NC-SA-4.0
