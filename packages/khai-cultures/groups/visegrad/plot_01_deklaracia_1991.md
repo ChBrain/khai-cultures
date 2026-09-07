@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-In 1991 the Soviet bloc is dissolving and three newly free states, [Poland](../../cultures/poland/play_poland.md), Czechoslovakia, and [Hungary](../../cultures/hungary/play_hungary.md), face the same question: how to make the break from Moscow permanent and reach the West. Their leaders, [Lech Walesa](../../cultures/poland/persona_walesa.md), [Vaclav Havel](@chbrain/khai-cultures-czechia/persona_havel.md), and Jozsef Antall, choose to do it together, and to meet in the Hungarian town of Visegrad, where in 1335 the kings of Poland, Bohemia, and Hungary had once forged an alliance.
+In 1991 the Soviet bloc is dissolving and three newly free states, [Poland](../../cultures/poland/play_poland.md), Czechoslovakia, and [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md), face the same question: how to make the break from Moscow permanent and reach the West. Their leaders, [Lech Walesa](../../cultures/poland/persona_walesa.md), [Vaclav Havel](@chbrain/khai-cultures-czechia/persona_havel.md), and Jozsef Antall, choose to do it together, and to meet in the Hungarian town of Visegrad, where in 1335 the kings of Poland, Bohemia, and Hungary had once forged an alliance.
 
 ## Action
 
@@ -33,7 +33,7 @@ On 15 February 1991 the three sign the Visegrad Declaration and pledge to coordi
 - [Poland](../../cultures/poland/play_poland.md): the largest partner, with [Walesa](../../cultures/poland/persona_walesa.md) at the table.
 - [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md): half of the splitting Czechoslovakia, with [Havel](@chbrain/khai-cultures-czechia/persona_havel.md) the moral voice of the turn.
 - [Slovakia](../../cultures/slovakia/play_slovakia.md): the other half, which takes its own seat after 1993.
-- [Hungary](../../cultures/hungary/play_hungary.md): the host, at the town that gave the group its name and its 1335 precedent.
+- [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md): the host, at the town that gave the group its name and its 1335 precedent.
 
 ## Tension
 

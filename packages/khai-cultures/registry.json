@@ -20159,8 +20159,8 @@
       "title": "Hungary",
       "description": "Hungary staged as a culture: a people alone in Europe, bound by a kinless tongue, a wound, and doomed defiance.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/hungary"
+        "package": "@chbrain/khai-cultures-hungary",
+        "path": ""
       },
       "iso": "HU",
       "members": [
@@ -20237,7 +20237,7 @@
           "title": "Hungary"
         },
         {
-          "file": "plot_01_honfoglalas.md",
+          "file": "plot_00_honfoglalas.md",
           "kind": "plot",
           "title": "The Conquest",
           "taxonomy": "play_hungary.md"
@@ -20258,6 +20258,12 @@
           "file": "plot_04_1956.md",
           "kind": "plot",
           "title": "1956",
+          "taxonomy": "play_hungary.md"
+        },
+        {
+          "file": "plot_99_az_ures_hely.md",
+          "kind": "plot",
+          "title": "The Empty Place",
           "taxonomy": "play_hungary.md"
         },
         {
@@ -20285,7 +20291,8 @@
           "kind": "process",
           "title": "The Revelry"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-hungary"
     },
     {
       "kind": "culture",

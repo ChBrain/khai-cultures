@@ -47,7 +47,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Spain](../../cultures/spain/play_spain.md) (1982)
 - [Poland](../../cultures/poland/play_poland.md) (1999)
 - [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md) (1999)
-- [Hungary](../../cultures/hungary/play_hungary.md) (1999)
+- [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md) (1999)
 - [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md) (2004)
 - [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md) (2004)
 - [Lithuania](@chbrain/khai-cultures-lithuania/play_lithuania.md) (2004)

@@ -21,7 +21,7 @@ the play actually links.
 - **Members:** [Poland](../../cultures/poland/play_poland.md),
   [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md),
   [Slovakia](../../cultures/slovakia/play_slovakia.md),
-  [Hungary](../../cultures/hungary/play_hungary.md).
+  [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md).
 - **Kind:** `group`.
 - **The plot line:**
   - [the Staple and the Road, 1335](plot_00_the_staple_and_the_road.md) - the origin, outside the chronology: a corridor with no natural frontier, and three kings agreeing one route because all three stood outside the same door.

@@ -67,7 +67,7 @@ Egy nép, amely egyedül áll Európában: a magyar, finnugor eredetű nemzet, a
 
 ## Triggers
 
-**[Plot 1: Honfoglalás](plot_01_honfoglalas.md)**
+**[Plot 0: Honfoglalás](plot_00_honfoglalas.md)**
 
 895 körül a magyar törzsek elfoglalják a Kárpát-medencét, és egy rokontalan, finnugor nép telepszik meg szlávok és németek között; megszületik [a magyar nyelv](@chbrain/khai-cultures-tongues/hu/position_language_hu.md) magánya Európa szívében.
 
@@ -82,6 +82,10 @@ Egy nép, amely egyedül áll Európában: a magyar, finnugor eredetű nemzet, a
 **[Plot 4: 1956](plot_04_1956.md)**
 
 1956-ban [Budapest](place_budapest.md) fellázad a szovjet uralom ellen, [Nagy Imre](persona_nagy_imre.md) kihirdeti a szabadságot, a tankok pedig vérbe fojtják a forradalmat.
+
+**[Plot 99: Az üres hely](plot_99_az_ures_hely.md)**
+
+2004 után a fiatalok százezrei mennek nyugatra dolgozni, miközben a határon túli magyarok magyar útlevelet kapnak; a nemzet nyelvben és papíron egésszé válik, és ugyanabban az évtizedben fogy el a falu, ahol [Erzsi](persona_erzsi.md) egy tányérral többet tesz az asztalra.
 
 ## Stakes
 
