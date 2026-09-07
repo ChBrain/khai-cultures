@@ -38,7 +38,7 @@ A painter looking at it writes the phrase _the singing revolution_, and it stick
 
 - [the festival](position_the_festival.md): the century-old instrument, used at last for what it was always capable of.
 - [the Singer](persona_the_singer.md): who did not need to be told where to go or what to sing.
-- [Estonia](../../cultures/estonia/play_estonia.md): the northern one, where the grounds hold the quarter.
+- [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md): the northern one, where the grounds hold the quarter.
 
 ## Tension
 

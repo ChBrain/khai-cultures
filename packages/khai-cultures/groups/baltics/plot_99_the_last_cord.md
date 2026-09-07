@@ -38,7 +38,7 @@ And [the festival](position_the_festival.md) still fills the grounds. It is on a
 
 - [the festival](position_the_festival.md): still on its cycle, still filling the stand, now also a heritage listing and a tourist season.
 - [the Singer](persona_the_singer.md): who can name the year of every celebration she has sung at and not the year of any election.
-- [Estonia](../../cultures/estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md) and [Lithuania](../../cultures/lithuania/play_lithuania.md): three grids cut loose on the same weekend, because there was no way to do it one at a time.
+- [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md) and [Lithuania](../../cultures/lithuania/play_lithuania.md): three grids cut loose on the same weekend, because there was no way to do it one at a time.
 
 ## Tension
 

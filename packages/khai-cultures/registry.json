@@ -15067,8 +15067,8 @@
       "title": "Estonia",
       "description": "Estonia staged as a culture: a small Finnic nation, long ruled by others, reborn through song and code.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/estonia"
+        "package": "@chbrain/khai-cultures-estonia",
+        "path": ""
       },
       "iso": "EE",
       "members": [
@@ -15145,6 +15145,12 @@
           "title": "Estonia"
         },
         {
+          "file": "plot_00_maarahvas_ja_hiied.md",
+          "kind": "plot",
+          "title": "The Land People and the Groves, before Writing",
+          "taxonomy": "play_estonia.md"
+        },
+        {
           "file": "plot_01_arkamisaeg.md",
           "kind": "plot",
           "title": "The National Awakening",
@@ -15166,6 +15172,24 @@
           "file": "plot_04_laulev_revolutsioon.md",
           "kind": "plot",
           "title": "The Singing Revolution",
+          "taxonomy": "play_estonia.md"
+        },
+        {
+          "file": "plot_05_pohjala_poole_1991_2001.md",
+          "kind": "plot",
+          "title": "Turning North, 1991 to 2001",
+          "taxonomy": "play_estonia.md"
+        },
+        {
+          "file": "plot_06_tiigrihupe_ja_pronksioo.md",
+          "kind": "plot",
+          "title": "The Tiger Leap and the Bronze Night, 1996 to 2007",
+          "taxonomy": "play_estonia.md"
+        },
+        {
+          "file": "plot_99_praam_ja_mets.md",
+          "kind": "plot",
+          "title": "The Ferry and the Forest",
           "taxonomy": "play_estonia.md"
         },
         {
@@ -15193,7 +15217,8 @@
           "kind": "process",
           "title": "Going to the Forest"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-estonia"
     },
     {
       "kind": "culture",

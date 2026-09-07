@@ -14,11 +14,11 @@ cultures.
 Baltic shore. The membership recorded in the registry is **build-derived** from
 the member plays this group casts, not authored by hand.
 
-| ISO | Country   | Member culture                                          |
-| --- | --------- | ------------------------------------------------------- |
-| EE  | Estonia   | [estonia](../../cultures/estonia/play_estonia.md)       |
-| LV  | Latvia    | [latvia](../../cultures/latvia/play_latvia.md)          |
-| LT  | Lithuania | [lithuania](../../cultures/lithuania/play_lithuania.md) |
+| ISO | Country   | Member culture                                            |
+| --- | --------- | --------------------------------------------------------- |
+| EE  | Estonia   | [estonia](@chbrain/khai-cultures-estonia/play_estonia.md) |
+| LV  | Latvia    | [latvia](../../cultures/latvia/play_latvia.md)            |
+| LT  | Lithuania | [lithuania](../../cultures/lithuania/play_lithuania.md)   |
 
 The grouping is bound by a parallel modern history (independence around 1918,
 Soviet annexation in 1940, deportations, and the restoration of independence in

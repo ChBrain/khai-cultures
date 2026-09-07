@@ -26,12 +26,12 @@ A plumber in Katowice, a nurse in Riga and a builder in Vilnius each know somebo
 
 ## Action
 
-In 2004 ten nations join at once, the big bang: [Poland](../../cultures/poland/play_poland.md), the Baltic states [Estonia](../../cultures/estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md), and [Lithuania](../../cultures/lithuania/play_lithuania.md), the central Europeans, and the Mediterranean pair [Malta](../../cultures/malta/play_malta.md) and [Cyprus](../../cultures/cyprus/play_cyprus.md). [Bulgaria](../../cultures/bulgaria/play_bulgaria.md) and [Romania](../../cultures/romania/play_romania.md) follow in 2007, [Croatia](../../cultures/croatia/play_croatia.md) in 2013, bringing the Union to twenty-eight. Then come the strains: the eurozone debt crisis nearly breaks the single currency, the 2015 migration crisis splits the members over who should bear it, and clashes over the rule of law set the Union against some of its own governments. In 2020 the United Kingdom becomes the first member ever to leave, and the twenty-eight fall back to twenty-seven.
+In 2004 ten nations join at once, the big bang: [Poland](../../cultures/poland/play_poland.md), the Baltic states [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md), and [Lithuania](../../cultures/lithuania/play_lithuania.md), the central Europeans, and the Mediterranean pair [Malta](../../cultures/malta/play_malta.md) and [Cyprus](../../cultures/cyprus/play_cyprus.md). [Bulgaria](../../cultures/bulgaria/play_bulgaria.md) and [Romania](../../cultures/romania/play_romania.md) follow in 2007, [Croatia](../../cultures/croatia/play_croatia.md) in 2013, bringing the Union to twenty-eight. Then come the strains: the eurozone debt crisis nearly breaks the single currency, the 2015 migration crisis splits the members over who should bear it, and clashes over the rule of law set the Union against some of its own governments. In 2020 the United Kingdom becomes the first member ever to leave, and the twenty-eight fall back to twenty-seven.
 
 ## Stage
 
 - [Poland](../../cultures/poland/play_poland.md): the largest of the eastern joiners, reuniting the continent.
-- [Estonia](../../cultures/estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md), [Lithuania](../../cultures/lithuania/play_lithuania.md): the Baltic states crossing from the Soviet past into the Union.
+- [Estonia](@chbrain/khai-cultures-estonia/play_estonia.md), [Latvia](../../cultures/latvia/play_latvia.md), [Lithuania](../../cultures/lithuania/play_lithuania.md): the Baltic states crossing from the Soviet past into the Union.
 - [Croatia](../../cultures/croatia/play_croatia.md): the twenty-eighth member, the most recent to join.
 
 ## Tension

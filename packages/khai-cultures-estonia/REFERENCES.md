@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-21"
+updated: "2026-09-06"
 ---
 
 # Estonia: References
@@ -44,6 +44,10 @@ staging is original work.
 | The Singing Revolution (1988-91)  | [plot_04_laulev_revolutsioon.md](plot_04_laulev_revolutsioon.md), [place_tallinn.md](place_tallinn.md) | The mass night song-festivals, the Baltic Way (1989), and independence restored without bloodshed.     |
 | Toomas Hendrik Ilves (b. 1953)    | [persona_ilves.md](persona_ilves.md), [piece_id_kaart.md](piece_id_kaart.md)                           | The president and architect of e-Estonia and the digital ID card behind the digital state.             |
 | The kannel and the Song Festival  | [piece_kannel.md](piece_kannel.md), [process_laulupidu.md](process_laulupidu.md)                       | The Baltic-Finnic zither of the runo-song and the laulupidu tradition (UNESCO heritage).               |
+| Maarahvas, regilaul and the hiis  | [plot_00_maarahvas_ja_hiied.md](plot_00_maarahvas_ja_hiied.md)                                         | The pre-national self-designation, the runo-song tradition, and the sacred groves.                     |
+| Turning north (1991-2001)         | [plot_05_pohjala_poole_1991_2001.md](plot_05_pohjala_poole_1991_2001.md)                               | Meri's argument that Estonia is a Nordic rather than a Baltic country, and Finnish television.         |
+| Tiger Leap and the Bronze Night   | [plot_06_tiigrihupe_ja_pronksioo.md](plot_06_tiigrihupe_ja_pronksioo.md)                               | Tiigrihüpe from 1996, the ID card (2002), internet voting (2005), Skype, and April 2007.               |
+| The present                       | [plot_99_praam_ja_mets.md](plot_99_praam_ja_mets.md)                                                   | Work migration across the gulf, the maturing digital state, and the Russian-speaking minority.         |
 
 The two defining personas, [Aino](persona_aino.md) and
 [Kristjan](persona_kristjan.md), are archetypes, not historical individuals:
@@ -51,6 +55,14 @@ composites that carry the tension between the older generation (the Soviet
 decades, the mother tongue kept whole, Finnish TV across the gulf as the window
 to the West) and the younger one (the post-2004 work migration to Finland and the
 pull of global English on a small Finnic language).
+
+Two things in [plot_06_tiigrihupe_ja_pronksioo.md](plot_06_tiigrihupe_ja_pronksioo.md)
+are stated to the public record and no further: the April 2007 unrest around the
+relocation of the Soviet-era memorial, in which one person died, and the
+three-week campaign of network attacks that followed it. The plot stages the
+Bronze Night as **two memories in one city** rather than as a verdict on either,
+because it is not this house's to give. Shares of the Russian-speaking population
+are given in round terms throughout, as published ranges.
 
 Content is CC-BY-NC-SA, code is MIT; public-domain sources are credited, never
 claimed.
