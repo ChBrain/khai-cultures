@@ -26,7 +26,7 @@ A woman stands on a platform in a border town holding a piece of cardboard with 
 
 ## Action
 
-What happens next is the largest movement of people in Europe since the war, and the four countries on this corridor take a share of it that no one had planned for. [Poland](../../cultures/poland/play_poland.md) receives the most by a long way; [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md) takes among the most per head of anywhere. It is done at first almost entirely by people with cars and spare rooms, which is to say by the same means as everything else that has ever worked on this ground.
+What happens next is the largest movement of people in Europe since the war, and the four countries on this corridor take a share of it that no one had planned for. [Poland](@chbrain/khai-cultures-poland/play_poland.md) receives the most by a long way; [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md) takes among the most per head of anywhere. It is done at first almost entirely by people with cars and spare rooms, which is to say by the same means as everything else that has ever worked on this ground.
 
 And in the same months, the bloc stops working. The four had spent thirty years acting as one body - into NATO, into the Union, at every negotiation where four votes were worth more than one. On the question of the war they split, and they split hard: two of them among the most forward-leaning states in Europe, and the others taking a position their partners regard as the opposite. Summits are cancelled. The format goes quiet.
 
@@ -40,7 +40,7 @@ It also completes [the room next door](position_the_room_next_door.md). The offi
 
 - [the room next door](position_the_room_next_door.md): an office that ends at the door it was built to get through.
 - [the Haulier](persona_the_haulier.md): the corridor's constant, unchanged by any of it.
-- [Poland](../../cultures/poland/play_poland.md) and [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md): the two that took the most and lean the furthest forward.
+- [Poland](@chbrain/khai-cultures-poland/play_poland.md) and [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md): the two that took the most and lean the furthest forward.
 
 ## Tension
 

@@ -67,6 +67,10 @@ Wielki niegdyś kraj, Rzeczpospolita wielu narodów, który w końcu XVIII wieku
 
 ## Triggers
 
+**[Plot 0: Lech i orzeł](plot_00_lech_i_orzel.md)**
+
+Podanie osadza naród na wielkiej równinie i daje mu za znak [białego orła](piece_orzel_bialy.md); kraj bierze nazwę od pola, a nie od rodu, i od początku ma znak zamiast granicy.
+
 **[Plot 1: Rozbiory](plot_01_rozbiory.md)**
 
 W latach 1772-1795 Rosja, Prusy i Austria dzielą między siebie Rzeczpospolitą i wymazują Polskę z mapy; państwa nie ma, a [język polski](@chbrain/khai-cultures-tongues/pl/position_language_pl.md) staje się ostatnią ojczyzną narodu.
@@ -82,6 +86,10 @@ W 1980 w [Gdańsku](place_gdansk.md) [Wałęsa](persona_walesa.md) staje na czel
 **[Plot 4: Wolna Polska](plot_04_wolna_polska.md)**
 
 W 1989 komunizm upada niemal bez krwi i Polska odzyskuje siebie; naród, który tylekroć ginął, raz jeszcze zmartwychwstaje i wraca do Europy.
+
+**[Plot 99: Kraj, do którego się przyjeżdża](plot_99_kraj_do_ktorego_sie_przyjezdza.md)**
+
+Po dwóch dekadach wyjazdów kraj zaczyna się zapełniać, najpierw za pracą, po 2022 roku w ucieczce; naród, który dwieście lat liczył tych, co odeszli, po raz pierwszy liczy tych, co przyszli, i sprawdza na nich [pusty talerz](process_wigilia.md).
 
 ## Stakes
 

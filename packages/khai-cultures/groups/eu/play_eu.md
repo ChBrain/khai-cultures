@@ -50,7 +50,7 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 - [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md) (2004)
 - [Lithuania](@chbrain/khai-cultures-lithuania/play_lithuania.md) (2004)
 - [Malta](../../cultures/malta/play_malta.md) (2004)
-- [Poland](../../cultures/poland/play_poland.md) (2004)
+- [Poland](@chbrain/khai-cultures-poland/play_poland.md) (2004)
 - [Slovakia](../../cultures/slovakia/play_slovakia.md) (2004)
 - [Slovenia](../../cultures/slovenia/play_slovenia.md) (2004)
 - [Bulgaria](../../cultures/bulgaria/play_bulgaria.md) (2007)
