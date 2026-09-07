@@ -419,9 +419,32 @@ could own alone.
 `;
 }
 
+/**
+ * Every `](../...)` the rewrite passes did not resolve, read off the text that
+ * would actually be written.
+ *
+ * THE BACKSTOP. Each rewrite pass above knows one shape - a member, a package
+ * that already left, a sibling group - and a shape nobody anticipated is exactly
+ * what shipped broken before. So the last question is not "did I match the
+ * patterns" but "is there a `../` left", asked of the destination content and
+ * not of the source. A published unit carries none, and a migration that cannot
+ * make that true must say so and stop rather than write a package whose links
+ * resolve here and nowhere else.
+ */
+function stranded(from, rewrites, to) {
+  const written = new Map(rewrites.map(([path, text]) => [path, text]));
+  const out = [];
+  for (const file of mds(from)) {
+    const text = written.get(join(to, file)) ?? readFileSync(join(from, file), "utf8");
+    for (const m of text.matchAll(/\]\((\.\.\/[^()\s]+)\)/g)) out.push([file, m[1]]);
+  }
+  return out;
+}
+
 /** The plan for lifting a group into its own package. */
 export function groupPlan(id) {
   const from = groupDir(id);
+
   const name = groupName(id);
   const to = join(WORKSPACE, "packages", name.split("/")[1]);
   const spec = `${name}/`;
@@ -448,18 +471,48 @@ export function groupPlan(id) {
       next = next.split(`](${m[1]})`).join(`](${dep}/${m[3]})`);
       declare(dep);
     }
+    // And the units that had ALREADY left. A group written while its neighbours
+    // were still under the umbrella addresses them by relative path, and those
+    // paths were correct until this move: `../../../khai-cultures-ireland/...`
+    // resolved from `groups/<id>/` and lands above the repository from
+    // `packages/<name>/`. The same for a sibling group one level up. Neither is
+    // a member, so the member pass above never looks at them, and both ship
+    // broken. Rewrite by the package's own name rather than by counting `../`.
+    for (const m of next.matchAll(/\]\((?:\.\.\/)+(khai-cultures-[a-z0-9-]+)\/([^()\s]+)\)/g)) {
+      const dep = `@chbrain/${m[1]}`;
+      next = next.split(m[0]).join(`](${dep}/${m[2]})`);
+      declare(dep);
+    }
+    for (const g of migratedGroups()) {
+      if (g.id === id) continue;
+      for (const m of next.matchAll(/\]\((?:\.\.\/)+(?:groups\/)?([a-z0-9_]+)\/([^()\s]+)\)/g)) {
+        if (m[1] !== g.id) continue;
+        const dep = groupName(g.id);
+        next = next.split(m[0]).join(`](${dep}/${m[2]})`);
+        declare(dep);
+      }
+    }
     for (const m of next.matchAll(/\]\((@[a-z0-9-]+\/[a-z0-9-]+)\/[^()\s]+\)/g)) declare(m[1]);
     if (next !== text) rewrites.push([join(to, file), next]);
   }
 
-  // Anything that linked into the group now links the package. Nothing does
-  // today - a culture does not reach into a group - but a second group might,
-  // and the pass costs one walk.
+  // Anything that linked into the group now links the package. A culture reaches
+  // it as `../../groups/<id>/...`; ANOTHER GROUP REACHES IT AS `../<id>/...`,
+  // with no `groups/` segment at all, because from inside `groups/<sibling>/`
+  // the neighbour is one level up and nothing more.
+  //
+  // That second shape is why this pass reported `0 inbound` on #602 while
+  // `these_islands` held `[the Four Nations](../the_four_nations/...)`, and why
+  // that link pointed at an emptied directory for two pull requests. The comment
+  // here said a second group might link one and the walk would cost nothing; the
+  // walk happened and the pattern could not see it. So `groups/` is optional,
+  // exactly as `cultures/` already is in the pass above - which was made optional
+  // for the same reason, after missing the group depth cost twelve broken links.
   const inbound = [];
   const rewriteInbound = (path) => {
     const text = readFileSync(path, "utf8");
     let next = text;
-    for (const m of text.matchAll(/\]\((?:\.\.\/)+groups\/([a-z0-9_]+)\/([^()\s]+)\)/g))
+    for (const m of text.matchAll(/\]\((?:\.\.\/)+(?:groups\/)?([a-z0-9_]+)\/([^()\s]+)\)/g))
       if (m[1] === id) next = next.split(m[0]).join(`](${spec}${m[2]})`);
     if (next !== text) inbound.push([path, next]);
   };
@@ -494,6 +547,7 @@ export function groupPlan(id) {
     manifest,
     rewrites,
     inbound,
+    stranded: stranded(from, rewrites, to),
     guide: groupInstructions(id, name, membersOf(from)),
     members: membersOf(from),
   };
@@ -640,6 +694,19 @@ if (isMain) {
     console.log(`  members ${g.members.join(", ")}`);
     console.log(`  depends ${Object.keys(g.manifest.dependencies).join(", ") || "(nothing)"}`);
     console.log(`  rewrite ${g.rewrites.length} own link file(s), ${g.inbound.length} inbound`);
+    if (g.stranded.length) {
+      console.error(
+        `\n  ${g.stranded.length} link(s) would leave this package carrying "../", which ` +
+          `resolves\n  here and nowhere else:`,
+      );
+      for (const [file, target] of g.stranded) console.error(`    ${file}: ${target}`);
+      console.error(
+        "\n  Rewrite each one by the name of the package it reaches, declare that package,\n" +
+          "  and run this again. The rewrite passes know a member, a package that already\n" +
+          "  left, and a sibling group; anything else is yours to name.",
+      );
+      process.exit(1);
+    }
     if (!argv.includes("--write")) {
       console.log("\n  dry run. Pass --write to perform it.");
       process.exit(0);
