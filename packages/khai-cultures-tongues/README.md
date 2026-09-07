@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **106 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **113 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -62,10 +62,12 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `de/position_language_de_de_st.md`     | Saxony-Anhalt German, the Anhalt and Mansfeld sound that fed the chancery language                                                                        | `de`         |
 | `de/position_language_de_de_th.md`     | Thuringian German, singing and soft, and closest of all to the standard it helped make                                                                    | `de`         |
 | `de/position_language_de_li.md`        | Liechtenstein Standard German: a written norm the country did not make                                                                                    | `de`         |
+| `de/position_language_de_lu.md`        | Luxembourg Standard German: the written German of a country that speaks Luxembourgish                                                                     | `de`         |
 | `de/position_language_de_x_brl.md`     | Berlinisch: a Low German city's High German, with the commonest words left unshifted                                                                      | `de-x-brl`   |
 | `de/position_language_de_x_hes.md`     | Rhine Franconian of the Untermain: Hessian inside Bavaria, and the first tongue here with no ISO code                                                     | `de-x-hes`   |
 | `de/position_language_de_x_mos.md`     | Moselle Franconian: the tongue that says dat Dorf, which is the only one that does                                                                        | `de-x-mos`   |
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                                                                 | `dsb`        |
+| `el/position_language_el.md`           | Greek: four cases with a vocative still used to call someone by name, and a written continuity no other European language keeps                           | `el`         |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                                                                    | `en`         |
 | `en/position_language_en_ca.md`        | Canadian English: raising of the diphthongs before a voiceless consonant, and a spelling standard taken from both neighbours at once                      | `en`         |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                                                             | `en`         |
@@ -91,9 +93,11 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                          | `et`         |
 | `fi/position_language_fi.md`           | Finnish: fifteen cases doing the work of prepositions, and consonant gradation reshaping the stem as it inflects                                          | `fi`         |
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                                                     | `fr`         |
+| `fr/position_language_fr_be.md`        | Belgian French: the French of a state whose weight moved to the other half                                                                                | `fr`         |
 | `fr/position_language_fr_ca.md`        | Canadian French: diphthongisation of long stressed vowels, and the interrogative particle tu with no relation to the pronoun                              | `fr`         |
 | `fr/position_language_fr_ch.md`        | Swiss French: septante and nonante, and the meals a word earlier                                                                                          | `fr`         |
 | `fr/position_language_fr_fr.md`        | French Standard French: an arithmetic in its numbers, and a norm with an address                                                                          | `fr`         |
+| `fr/position_language_fr_lu.md`        | Luxembourg French: the language of the law and the administration in a trilingual state                                                                   | `fr`         |
 | `ga/position_language_ga.md`           | Irish: initial mutation, verb-first order, the two verbs to be, and no word for yes                                                                       | `ga`         |
 | `ga/position_language_ga_gb_nir.md`    | Ulster Irish: cha beside ní, the pronoun left standing, and the stress that never moves                                                                   | `ga`         |
 | `gallo/position_language_gallo.md`     | Gallo: a langue d'oil of upper Brittany, sister to French rather than daughter, and the only tongue in this package with no code of its own anywhere      | `fr-x-gallo` |
@@ -112,11 +116,14 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `lt/position_language_lt.md`           | Lithuanian: seven cases and two pitch accents on long syllables, the most conservative of the living Indo-European languages                              | `lt`         |
 | `lv/position_language_lv.md`           | Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables                 | `lv`         |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                           | `nds`        |
+| `nl/position_language_nl.md`           | Dutch: the -je diminutive on almost any noun, a throat-g no neighbour shares, and modal particles that carry a stance                                     | `nl`         |
+| `nl/position_language_nl_be.md`        | Belgian Dutch: the northern grammar carried on a soft palatal g                                                                                           | `nl`         |
 | `no/position_language_no.md`           | Norwegian: two written norms, no spoken standard at all, and a dialect permitted anywhere                                                                 | `no`         |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                                                       | `pfl`        |
 | `pl/position_language_pl.md`           | Polish: seven cases, an aspect pair on every verb, graded diminutives, and a plural that marks whether there are men in the group                         | `pl`         |
 | `pt/position_language_pt.md`           | Portuguese: ser against estar, the personal infinitive no other Romance language keeps, a living future subjunctive, and saudade                          | `pt`         |
 | `pt/position_language_pt_br.md`        | Brazilian Portuguese: the gerund against estou a fazer, voce displacing tu, and a formality distance that has closed                                      | `pt`         |
+| `pt/position_language_pt_lu.md`        | Portuguese of Luxembourg: a language brought by migration and taught in the schools of a country it did not start in                                      | `pt`         |
 | `rif/position_language_rif.md`         | Tarifit, the Riffian Amazigh of the Rif coast                                                                                                             | `rif`        |
 | `rm/position_language_rm.md`           | Romansh: five written idioms and a sixth made to hold them together                                                                                       | `rm`         |
 | `ro/position_language_ro.md`           | Romanian: case still on the noun, a neuter that is masculine in the singular and feminine in the plural, and the definite article on the tail of the word | `ro`         |

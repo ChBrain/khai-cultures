@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures-tongues",
-  "version": "0.48.0",
+  "version": "0.50.0",
   "description": "The tongues of the Cultures house: one khai position per language variety, held by the speech community that speaks it rather than owned by a country.",
   "type": "module",
   "exports": {
@@ -195,6 +195,11 @@
         "parent": "de/position_language_de.md"
       },
       {
+        "file": "de/position_language_de_lu.md",
+        "type": "position",
+        "parent": "de/position_language_de.md"
+      },
+      {
         "file": "de/position_language_de_x_brl.md",
         "type": "position",
         "parent": "de/position_language_de.md"
@@ -211,6 +216,11 @@
       },
       {
         "file": "dsb/position_language_dsb.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "el/position_language_el.md",
         "type": "position",
         "parent": "position_language.md"
       },
@@ -340,6 +350,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "fr/position_language_fr_be.md",
+        "type": "position",
+        "parent": "fr/position_language_fr.md"
+      },
+      {
         "file": "fr/position_language_fr_ca.md",
         "type": "position",
         "parent": "fr/position_language_fr.md"
@@ -351,6 +366,11 @@
       },
       {
         "file": "fr/position_language_fr_fr.md",
+        "type": "position",
+        "parent": "fr/position_language_fr.md"
+      },
+      {
+        "file": "fr/position_language_fr_lu.md",
         "type": "position",
         "parent": "fr/position_language_fr.md"
       },
@@ -445,6 +465,16 @@
         "parent": "position_language.md"
       },
       {
+        "file": "nl/position_language_nl.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "nl/position_language_nl_be.md",
+        "type": "position",
+        "parent": "nl/position_language_nl.md"
+      },
+      {
         "file": "no/position_language_no.md",
         "type": "position",
         "parent": "position_language.md"
@@ -466,6 +496,11 @@
       },
       {
         "file": "pt/position_language_pt_br.md",
+        "type": "position",
+        "parent": "pt/position_language_pt.md"
+      },
+      {
+        "file": "pt/position_language_pt_lu.md",
         "type": "position",
         "parent": "pt/position_language_pt.md"
       },

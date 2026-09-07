@@ -203,6 +203,13 @@
     "orthography": "deutsche Rechtschreibung, schweizerische Variante ohne ß",
     "tongue": "Liechtenstein Standard German: a written norm the country did not make"
   },
+  "de/position_language_de_lu.md": {
+    "from": "luxembourg",
+    "note": "Moved byte for byte. This pass serves three cultures at once - belgium, netherlands and luxembourg - so it is its own pull request, and the limit set at #608 applies: one edited byte would author all three and charge them for every dead Company element they carry, which belongs to their own migrations. Nothing is edited and all three stay relink-only. Luxembourg Standard German, joining de_at, de_ch, de_li and the German Laender under the de anchor.",
+    "orthography": "die deutsche Rechtschreibung",
+    "review": "native",
+    "tongue": "Luxembourg Standard German: the written German of a country that speaks Luxembourgish"
+  },
   "de/position_language_de_x_brl.md": {
     "note": "Written here, and split out of the Berlin regional-standard file in the same commit - the same correction Bavaria got, where a `de_de_*` file was carrying a dialect's shibboleths as if they were the standard's. The rule that earns it a file: Berlinisch carries the second sound shift out everywhere except in a closed, short list of the highest-frequency words, which stay unshifted - ick, icke, det, dit, wat, uff, Kopp, Pund. The minimal pair is three-way and clean: `ick mache` here, `ik maak` in Low German, `ich mache` in the standard. Nothing else in the metrolekt is unshifted; machen is never maken. Categorical, because the list is closed, and fully visible in writing. Its second layer is the j for initial g (jut, jehn, Jeld), the contracted diphthongs (ooch, koofen, loofen, een, keen, Beene) and the emphatic -e forms of the city's own rhyme (icke, dette, kieke). Its Orders is that the list is a list and not a rule, so it cannot be read up, only heard - and that dative and accusative fall together into one form, so a sentence that needs the difference has to change language mid-breath. Sourced to the right side: Agathe Lasch, Berlinisch. Eine berlinische Sprachgeschichte (1928), and Hans Meyer, Der richtige Berliner in Woertern und Redensarten (1878), both a history of this metrolekt and not of the region around it. Carries `language: de-x-brl`, a BCP-47 private-use tag on the de-x-hes precedent, and lives under `de/` so it does not inflate the language count. Checked against every German sibling in the package: five own markers present, zero in bar, swg, nds, wep, ksh, sxu, pfl, hes or mos; token overlap 4-11 percent.",
     "orthography": "author's own, on Berlin Mundartliteratur",
@@ -225,6 +232,13 @@
     "orthography": "dolnoserbski pšawopis",
     "review": "native",
     "tongue": "Lower Sorbian: the smaller of the two, and taught rather than handed down"
+  },
+  "el/position_language_el.md": {
+    "from": "greece",
+    "note": "Moved byte for byte, and this is the care point again, exactly as with ro. It is here because netherlands' persona_erasmus links it - Erasmus read and wrote Greek and edited the New Testament in it - and a published production carries no \"../\". But GREECE IS NOT A MEMBER OF BENELUX and never will be, so editing this file would author a culture nobody opened. It lands unchanged. RENAMED TO THE ANCHOR: it arrived as el_gr and is not a mainland variety - its declared name is η ελληνική γλώσσα and its Has is the language, four cases including a vocative still in daily use for calling someone by name. cyprus holds el_cy, which IS a genuine variety and now has an anchor to hang from; it moves when cyprus does. THE REACH THIS OPENS IS THE WIDEST IN THIS PASS: seventeen files across eight cultures linked greece's copy - albania, bulgaria, netherlands, north_macedonia, serbia, turkey and ukraine among them - and every one of them now reaches an anchor by specifier instead of reaching into one modern state for the language of the New Testament and the classics. A TITLE IS LEFT WRONG ON PURPOSE: it reads \"the Greek Language\", and it is corrected when greece migrates. Flagged for native review.",
+    "orthography": "η νεοελληνική ορθογραφία",
+    "review": "native",
+    "tongue": "Greek: four cases with a vocative still used to call someone by name, and a written continuity no other European language keeps"
   },
   "en/position_language_en.md": {
     "note": "Written here, not carried in from a culture. It holds what every English variety shares, which is where that material always belonged: the varieties found thin in the Länder walk were thin because they were spending their four chapters on the language and had nothing left for themselves. With an anchor to carry the lost inflection, the doubled lexicon, the word order that is the grammar and the one second person, a variety is free to say only what is its own.",
@@ -377,6 +391,13 @@
     "orthography": "orthographe française standard",
     "tongue": "French as such, of which every fr_* here is a variety"
   },
+  "fr/position_language_fr_be.md": {
+    "from": "belgium",
+    "note": "Moved byte for byte. This pass serves three cultures at once - belgium, netherlands and luxembourg - so it is its own pull request, and the limit set at #608 applies: one edited byte would author all three and charge them for every dead Company element they carry, which belongs to their own migrations. Nothing is edited and all three stay relink-only. A national variety of French, joining fr_ca, fr_ch and fr_fr under an anchor that was already here.",
+    "orthography": "l'orthographe française",
+    "review": "native",
+    "tongue": "Belgian French: the French of a state whose weight moved to the other half"
+  },
   "fr/position_language_fr_ca.md": {
     "from": "canada",
     "note": "Moved byte for byte. canada carries dead Company elements, and a single edited byte during a tongue move stops the change counting as a rename, authors the culture and charges it for all of them. That trap was hit on #562 and again on #576 and is not being hit a third time. Migrated from canada, and a genuine variety: long stressed vowels break into two movements where the French of France holds one, and a closed question can take a final particle tu that has nothing to do with the pronoun tu - Tu viens-tu? It also keeps words carried from the seventeenth century or remade against English. Moved for the same reason as its sibling: latvia's persona_vike_freiberga links both, and the move must precede the culture. Flagged for native review.",
@@ -395,6 +416,13 @@
     "note": "Written here, not migrated - the fourth file in a row that was the language wearing a variety's name, and the fourth time the anchor states the shared material better: it has the nasal vowels and the written-against-spoken split (je parle, tu parles, ils parlent: three spellings, one sound) where the retired file had the subjunctive, gender agreement, tu/vous and liaison, all of it common to every French there is. THE ENTRY PRICE, PAID against the one sibling in this package, fr_ch. The numerals, categorical and codified: soixante-dix, quatre-vingts, quatre-vingt-dix-neuf against septante, huitante, nonante - a vigesimal remnant that makes a speaker do an addition and a multiplication before saying a price. The meals, which are the treacherous kind of difference because it is not another word for the same thing but the same word for another: petit-dejeuner, dejeuner, diner here against dejeuner, diner, souper a few hours away. The unmarked lexicon: portable, serpilliere, sac, promotion, de rien stand without a mention while natel, panosse, cornet, action and service carry one. And the feminisation of job titles, which other standards of this language settled in the nineteen-eighties and this one debated for thirty years and admitted in 2019 - dated, in writing, and the clearest case of what it means that the norm here is decided rather than observed. The office it describes is that last fact generalised: a norm with an address, a company founded to give the language certain rules and still sitting, so that whether a turn of phrase is correct is a question with a written answer rather than a matter of usage. RELINKED, and this one was read culture by culture rather than by counting processes, because unlike de_de, en_gb and it_it it has many foreign mother-tongue holders. Every one of them resolved to the anchor on reading. Prince Eugene of Savoy holds French as a mother tongue and was born in 1663, which is the rule already applied to Luther and Goethe: a national standard cannot be held before there is a nation to mark it against. Haiti's whole cast holds what its own prose calls lang lakoloni an and lang elit la. Mauritius's Chazal holds Mauritian French, the Seychelles' cast holds French beside Creole, and Pushkin, Tolstoy, Ruben Dario and Joyce read or carried it. So france's own cast, its culture-position and its play hold the variety, and fifty-two cultures hold the anchor.",
     "orthography": "orthographe francaise",
     "tongue": "French Standard French: an arithmetic in its numbers, and a norm with an address"
+  },
+  "fr/position_language_fr_lu.md": {
+    "from": "luxembourg",
+    "note": "Moved byte for byte. This pass serves three cultures at once - belgium, netherlands and luxembourg - so it is its own pull request, and the limit set at #608 applies: one edited byte would author all three and charge them for every dead Company element they carry, which belongs to their own migrations. Nothing is edited and all three stay relink-only. The French of the Luxembourg state, one of the three the country declines daily.",
+    "orthography": "l'orthographe française",
+    "review": "native",
+    "tongue": "Luxembourg French: the language of the law and the administration in a trilingual state"
   },
   "ga/position_language_ga.md": {
     "from": "ireland",
@@ -509,6 +537,20 @@
     "orthography": "SASS-Schreibung, carried in and not verified against the norm",
     "tongue": "Low German, the northern branch that never took the High German consonant shift"
   },
+  "nl/position_language_nl.md": {
+    "from": "netherlands",
+    "note": "Moved byte for byte. This pass serves three cultures at once - belgium, netherlands and luxembourg - so it is its own pull request, and the limit set at #608 applies: one edited byte would author all three and charge them for every dead Company element they carry, which belongs to their own migrations. Nothing is edited and all three stay relink-only. RENAMED TO THE ANCHOR, on the ar, ro and pt precedent, and for the same hard reason as ro: build.mjs holds a directory as a language only if it holds its anchor, so landing this as nl_nl would have made an nl/ that is not a language at all. It arrived as nl_nl and is not a northern variety: its declared name is het Nederlands and every chapter is language-wide - the -je diminutive that can tame almost any noun into something small and familiar, huisje and biertje and momentje; the scraped throat-g that no neighbouring language pronounces quite that way; compounding on the German pattern though less exuberant; and the scatter of modal particles that carry the speaker's stance without a word of their own. NO nl_nl IS WRITTEN: what netherlands held was the language, so the file moves and nothing is invented. A TITLE IS LEFT WRONG ON PURPOSE: it reads \"the Dutch Language\" where this package writes the bare name, and it is corrected when netherlands migrates. Flagged for native review.",
+    "orthography": "de spelling van de Nederlandse Taalunie",
+    "review": "native",
+    "tongue": "Dutch: the -je diminutive on almost any noun, a throat-g no neighbour shares, and modal particles that carry a stance"
+  },
+  "nl/position_language_nl_be.md": {
+    "from": "belgium",
+    "note": "Moved byte for byte. This pass serves three cultures at once - belgium, netherlands and luxembourg - so it is its own pull request, and the limit set at #608 applies: one edited byte would author all three and charge them for every dead Company element they carry, which belongs to their own migrations. Nothing is edited and all three stay relink-only. A genuine variety, and it says so itself in its first line: the same grammar as the Dutch above the border, verb second in the main clause and final in the subordinate, the de/het split - and then its own soft g, a palatal breath where the northern standard has a harder, further-back scrape. That is a variety describing itself against its anchor, which is what a variety file is for, and it now has the anchor to hang from.",
+    "orthography": "de spelling van de Nederlandse Taalunie",
+    "review": "native",
+    "tongue": "Belgian Dutch: the northern grammar carried on a soft palatal g"
+  },
   "no/position_language_no.md": {
     "from": "norway",
     "note": "Moved byte for byte. Every member of the Nordics carries dead Company elements - denmark six, sweden nine, norway seven, finland eight, iceland eight, thirty-eight between them - and a single edited byte during a tongue move stops the change counting as a rename, authors the culture and charges it for all of them. That trap was hit on #562 and again on #576 and is not being hit a third time. Migrated from norway and already correctly named and already the anchor, which makes it the exception in a walk of four corrections. It is declared målstriden, the language struggle, and its Has is the thing itself: Norwegian has no normed spoken standard whatsoever, only two written norms, and anyone may speak their own dialect in school, in court and on the state broadcaster without it being heard as an error - a freedom very few European languages give. Beside that, tonelag, the pitch distinction that separates bønder from bønner. A tongue whose defining fact is that it refuses to have a standard could not have been filed under a country in the first place without the file arguing with itself, and it never was. Flagged for native review.",
@@ -553,6 +595,13 @@
     "orthography": "o Acordo Ortográfico de 1990",
     "review": "native",
     "tongue": "Brazilian Portuguese: the gerund against estou a fazer, voce displacing tu, and a formality distance that has closed"
+  },
+  "pt/position_language_pt_lu.md": {
+    "from": "luxembourg",
+    "note": "Moved byte for byte. This pass serves three cultures at once - belgium, netherlands and luxembourg - so it is its own pull request, and the limit set at #608 applies: one edited byte would author all three and charge them for every dead Company element they carry, which belongs to their own migrations. Nothing is edited and all three stay relink-only. The Portuguese of Luxembourg, and the first variety in this package that a migration brought rather than a homeland: it exists because roughly a sixth of the country is of Portuguese descent. It hangs from the anchor portugal's file became at #614, which is what makes it placeable at all.",
+    "orthography": "o Acordo Ortográfico de 1990",
+    "review": "native",
+    "tongue": "Portuguese of Luxembourg: a language brought by migration and taught in the schools of a country it did not start in"
   },
   "rif/position_language_rif.md": {
     "from": "es_melilla",

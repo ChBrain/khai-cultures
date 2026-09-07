@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-L'appartenance à un pays sans langue commune, tenu non par une nation mais par un faisceau de liens modestes et par le sens très sûr de l'absurde. Elle parle au nord [het Belgisch Nederlands](position_language_nl_be.md) et au sud [le français de Belgique](position_language_fr_be.md), sans qu'aucune des deux ne soit tout à fait la sienne à elle seule ; elle porte [la Couronne](position_la_couronne.md) comme le seul lien qui se tienne au-dessus des communautés, et [la frontière linguistique](position_la_frontiere_linguistique.md) comme la faille posée en son centre même depuis 1830. Elle tient, sans l'avoir choisi, le goût de la bière d'abbaye et des frites du fritkot, la tendresse pour la bande dessinée et le trait clair, et une autodérision qui précède toujours la fierté.
+L'appartenance à un pays sans langue commune, tenu non par une nation mais par un faisceau de liens modestes et par le sens très sûr de l'absurde. Elle parle au nord [het Belgisch Nederlands](@chbrain/khai-cultures-tongues/nl/position_language_nl_be.md) et au sud [le français de Belgique](@chbrain/khai-cultures-tongues/fr/position_language_fr_be.md), sans qu'aucune des deux ne soit tout à fait la sienne à elle seule ; elle porte [la Couronne](position_la_couronne.md) comme le seul lien qui se tienne au-dessus des communautés, et [la frontière linguistique](position_la_frontiere_linguistique.md) comme la faille posée en son centre même depuis 1830. Elle tient, sans l'avoir choisi, le goût de la bière d'abbaye et des frites du fritkot, la tendresse pour la bande dessinée et le trait clair, et une autodérision qui précède toujours la fierté.
 
 ## Orders
 
