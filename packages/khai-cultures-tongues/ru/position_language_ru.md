@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Russian Language"
+title: "Russian"
 declared: "русский язык"
 language: ru
 license: CC-BY-NC-SA-4.0

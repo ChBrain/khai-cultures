@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Icelandic Language"
+title: "Icelandic"
 declared: "íslenskan"
 language: is
 license: CC-BY-NC-SA-4.0

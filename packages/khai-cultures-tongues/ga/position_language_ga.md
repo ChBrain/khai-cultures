@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Irish Language"
+title: "Irish"
 declared: "an Ghaeilge"
 language: ga
 license: CC-BY-NC-SA-4.0

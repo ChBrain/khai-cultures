@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "Saudi Arabic"
+title: "Arabic"
 declared: "لسان العرب"
 language: ar
 license: CC-BY-NC-SA-4.0

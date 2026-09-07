@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Croatian Language"
+title: "Croatian"
 declared: "hrvatski jezik"
 language: hr
 license: CC-BY-NC-SA-4.0

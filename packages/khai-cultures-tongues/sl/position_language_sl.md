@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Slovene Language"
+title: "Slovene"
 declared: "slovenščina"
 language: sl
 license: CC-BY-NC-SA-4.0
