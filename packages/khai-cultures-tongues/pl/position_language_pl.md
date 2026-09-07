@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Polish Language"
+title: "Polish"
 declared: "język polski"
 language: pl
 license: CC-BY-NC-SA-4.0

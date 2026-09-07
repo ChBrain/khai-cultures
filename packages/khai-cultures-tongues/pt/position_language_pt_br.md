@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-O que o português permite dizer com uma forma verbal que quase nenhuma outra língua tem: o infinitivo pessoal, que se flexiona pela pessoa e pelo número mesmo sem sujeito próprio, "para eles chegarem" carrega em si quem chega, coisa que o infinitivo de outras línguas nunca marca. Tem também o futuro do subjuntivo, um tempo verbal que sobreviveu quase só aqui, "quando ele chegar" guarda uma condição futura que o presente do subjuntivo de outras línguas românicas não sabe mais dizer sozinho. E tem vogais e ditongos nasais, não, mão, põe, um som que se faz pelo nariz e que muda o sentido de uma palavra só por essa nasalidade, distinção que falantes de outras línguas latinas têm dificuldade até de ouvir.
+Vogais átonas que se pronunciam inteiras, todas elas, de modo que "telefone" sai com as quatro sílabas soando e não reduzida a duas como sai do outro lado do Atlântico; é essa abertura que faz o brasileiro achar que fala devagar e que o português fala engolindo, e é a diferença que um ouvido treinado pega antes de qualquer palavra. Tem a próclise como forma natural, o pronome vindo antes do verbo mesmo abrindo frase, "me diz", "te amo", ordem que a gramática do outro lado não admite e que aqui é o que se fala e cada vez mais o que se escreve. E tem "a gente" virando pronome de primeira pessoa do plural inteiro, com o verbo no singular, "a gente vai", uma pessoa gramatical nova que a língua criou depois de atravessar e que o português europeu não tem.
 
 ## Orders
 

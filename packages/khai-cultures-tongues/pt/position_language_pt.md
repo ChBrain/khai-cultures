@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Portuguese Language"
+title: "Portuguese"
 declared: "a língua portuguesa"
 language: pt
 license: CC-BY-NC-SA-4.0
