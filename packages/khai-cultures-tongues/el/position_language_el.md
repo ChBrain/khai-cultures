@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Greek Language"
+title: "Greek"
 declared: "η ελληνική γλώσσα"
 language: el
 license: CC-BY-NC-SA-4.0

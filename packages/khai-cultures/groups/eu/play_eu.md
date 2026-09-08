@@ -37,7 +37,7 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 - [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md) (founder, 1958)
 - [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md) (1973)
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md) (1973)
-- [Greece](../../cultures/greece/play_greece.md) (1981)
+- [Greece](@chbrain/khai-cultures-greece/play_greece.md) (1981)
 - [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) (1986)
 - [Spain](@chbrain/khai-cultures-spain/play_spain.md) (1986)
 - [Austria](@chbrain/khai-cultures-austria/play_austria.md) (1995)

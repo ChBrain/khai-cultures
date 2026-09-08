@@ -18570,8 +18570,8 @@
       "title": "Greece",
       "description": "Greece staged as a culture: the oldest living European tongue, carried three thousand years through every empire.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/greece"
+        "package": "@chbrain/khai-cultures-greece",
+        "path": ""
       },
       "iso": "GR",
       "members": [
@@ -18648,6 +18648,12 @@
           "title": "Greece"
         },
         {
+          "file": "plot_00_prin_apo_tin_poli.md",
+          "kind": "plot",
+          "title": "Before the City",
+          "taxonomy": "play_greece.md"
+        },
+        {
           "file": "plot_01_klasiki_athina.md",
           "kind": "plot",
           "title": "Classical Athens",
@@ -18669,6 +18675,18 @@
           "file": "plot_04_katastrofi_1922.md",
           "kind": "plot",
           "title": "The Asia Minor Catastrophe, 1922",
+          "taxonomy": "play_greece.md"
+        },
+        {
+          "file": "plot_05_i_krisi.md",
+          "kind": "plot",
+          "title": "The Crisis",
+          "taxonomy": "play_greece.md"
+        },
+        {
+          "file": "plot_99_o_kosmos_erchetai.md",
+          "kind": "plot",
+          "title": "The World Comes",
           "taxonomy": "play_greece.md"
         },
         {
@@ -18696,7 +18714,8 @@
           "kind": "process",
           "title": "the Kafeneio"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-greece"
     },
     {
       "kind": "culture",
