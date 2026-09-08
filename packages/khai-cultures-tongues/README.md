@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **116 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **121 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -70,6 +70,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `de/position_language_de_x_mos.md`     | Moselle Franconian: the tongue that says dat Dorf, which is the only one that does                                                                        | `de-x-mos`   |
 | `dsb/position_language_dsb.md`         | Lower Sorbian: the smaller of the two, and taught rather than handed down                                                                                 | `dsb`        |
 | `el/position_language_el.md`           | Greek: four cases with a vocative still used to call someone by name, and a written continuity no other European language keeps                           | `el`         |
+| `el/position_language_el_cy.md`        | Cypriot Greek: the double consonants the mainland stopped pronouncing                                                                                     | `el`         |
 | `en/position_language_en.md`           | English as such, of which every en_* here is a variety                                                                                                    | `en`         |
 | `en/position_language_en_ca.md`        | Canadian English: raising of the diphthongs before a voiceless consonant, and a spelling standard taken from both neighbours at once                      | `en`         |
 | `en/position_language_en_gb.md`        | British English: the older of the two large written forms, and the marked one                                                                             | `en`         |
@@ -92,6 +93,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                                                                    | `es`         |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                         | `es`         |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                             | `es`         |
+| `es/position_language_es_uy.md`        | Uruguayan Spanish: the voseo with its own conjugation, vos tenés and vos sos                                                                              | `es`         |
 | `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                          | `et`         |
 | `eu/position_language_eu.md`           | Basque: ergative-absolutive case, one auxiliary carrying subject, object and indirect object, and no relatives anywhere                                   | `eu`         |
 | `fi/position_language_fi.md`           | Finnish: fifteen cases doing the work of prepositions, and consonant gradation reshaping the stem as it inflects                                          | `fi`         |
@@ -118,6 +120,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `la/position_language_la.md`           | Latin: six cases, free word order, and no living speech community                                                                                         | `la`         |
 | `lt/position_language_lt.md`           | Lithuanian: seven cases and two pitch accents on long syllables, the most conservative of the living Indo-European languages                              | `lt`         |
 | `lv/position_language_lv.md`           | Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables                 | `lv`         |
+| `mt/position_language_mt.md`           | Maltese: the only Semitic language in Latin script, carrying a triconsonantal root and a Romance vocabulary in the same word                              | `mt`         |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                           | `nds`        |
 | `nl/position_language_nl.md`           | Dutch: the -je diminutive on almost any noun, a throat-g no neighbour shares, and modal particles that carry a stance                                     | `nl`         |
 | `nl/position_language_nl_be.md`        | Belgian Dutch: the northern grammar carried on a soft palatal g                                                                                           | `nl`         |
@@ -135,6 +138,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `sco/position_language_sco_gb_nir.md`  | Ulster Scots: the only Scots with a standing in law, and the written practice built to sit apart from Scotland's                                          | `sco`        |
 | `sk/position_language_sk.md`           | Slovak: six cases, aspect pairs, no article, and a Czech so close that the difference dissolves in ordinary speech                                        | `sk`         |
 | `sl/position_language_sl.md`           | Slovene as such: the dual, and six cases                                                                                                                  | `sl`         |
+| `sr/position_language_sr.md`           | Serbian: seven cases carrying every noun's role without a preposition                                                                                     | `sr`         |
 | `sv/position_language_sv.md`           | Swedish as such: definiteness hung on the end of the word, and a tonal accent that separates two identical spellings                                      | `sv`         |
 | `sv/position_language_sv_fi.md`        | Finland Swedish: currently the sv anchor's material under a variety's name                                                                                | `sv`         |
 | `swg/position_language_swg.md`         | Swabian as such: the anchor, and its heartland is in another state                                                                                        | `swg`        |
@@ -142,6 +146,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `swg/position_language_swg_by.md`      | Bavarian Swabian: Swabian on the wrong side of the state border                                                                                           | `swg`        |
 | `sxu/position_language_sxu.md`         | Upper Saxon: it helped found the written standard and is now judged by it                                                                                 | `sxu`        |
 | `tr/position_language_tr.md`           | Turkish as such: agglutination, vowel harmony, and an evidential in every sentence                                                                        | `tr`         |
+| `tr/position_language_tr_cy.md`        | Cypriot Turkish: as written, the anchor's agglutination under an island's name, and flagged as such                                                       | `tr`         |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                                                              | `vmf`        |
 | `wep/position_language_wep.md`         | Westphalian: Low German, with the breaking no other Low German has                                                                                        | `wep`        |
 

@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-L-appartenenza għal gżira ċkejkna li kulħadd xtaqha u ftit ħallewha: il-Feniċi, ir-Rumani, l-Għarab, in-Normanni, il-Kavallieri, Napuljun u l-Imperu Brittaniku kollha għaddew minnha jew żammewha, u minkejja kollox baqgħu tagħha tliet ħwejjeġ, [il-fidi](position_il_fidi.md), [il-fortizza](position_il_fortizza.md) u [il-Malti](position_language_mt.md), l-uniku lsien Semitiku miktub bl-ittri Latini. Iġġib il-mejda mimlija u l-festa tar-raħal, il-koppla fiċ-ċentru tal-pjazza u l-każin li jkanta l-banda, u l-kburija ta' poplu li darba żamm lura żewġ imperi u ħareġ b'salib fuq sidru. Iġġib ukoll l-uġigħ ta' min kellu jitlaq jaħdem barra minn gżira li darba ma kellhiex biżżejjed x'toffri lil uliedha.
+L-appartenenza għal gżira ċkejkna li kulħadd xtaqha u ftit ħallewha: il-Feniċi, ir-Rumani, l-Għarab, in-Normanni, il-Kavallieri, Napuljun u l-Imperu Brittaniku kollha għaddew minnha jew żammewha, u minkejja kollox baqgħu tagħha tliet ħwejjeġ, [il-fidi](position_il_fidi.md), [il-fortizza](position_il_fortizza.md) u [il-Malti](@chbrain/khai-cultures-tongues/mt/position_language_mt.md), l-uniku lsien Semitiku miktub bl-ittri Latini. Iġġib il-mejda mimlija u l-festa tar-raħal, il-koppla fiċ-ċentru tal-pjazza u l-każin li jkanta l-banda, u l-kburija ta' poplu li darba żamm lura żewġ imperi u ħareġ b'salib fuq sidru. Iġġib ukoll l-uġigħ ta' min kellu jitlaq jaħdem barra minn gżira li darba ma kellhiex biżżejjed x'toffri lil uliedha.
 
 ## Orders
 

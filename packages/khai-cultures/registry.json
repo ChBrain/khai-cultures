@@ -10231,16 +10231,6 @@
           "title": "Greekness"
         },
         {
-          "file": "position_language_el_cy.md",
-          "kind": "position",
-          "title": "Cypriot Greek"
-        },
-        {
-          "file": "position_language_tr_cy.md",
-          "kind": "position",
-          "title": "Cypriot Turkish"
-        },
-        {
           "file": "position_to_stavrodromi.md",
           "kind": "position",
           "title": "the Crossroads"
@@ -26070,11 +26060,6 @@
           "title": "the Fortress"
         },
         {
-          "file": "position_language_mt.md",
-          "kind": "position",
-          "title": "the Maltese Language"
-        },
-        {
           "file": "process_il_festa.md",
           "kind": "process",
           "title": "The Festa"
@@ -35056,11 +35041,6 @@
           "title": "the Kosovo Covenant"
         },
         {
-          "file": "position_language_sr.md",
-          "kind": "position",
-          "title": "the Serbian Language"
-        },
-        {
           "file": "process_guslanje.md",
           "kind": "process",
           "title": "Epic Singing to the Gusle"
@@ -40522,11 +40502,6 @@
           "file": "position_la_patria_oriental.md",
           "kind": "position",
           "title": "the Eastern Homeland"
-        },
-        {
-          "file": "position_language_es_uy.md",
-          "kind": "position",
-          "title": "Uruguayan Spanish"
         },
         {
           "file": "process_el_mate.md",
