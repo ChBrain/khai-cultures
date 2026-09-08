@@ -28,9 +28,11 @@ single language or a single state.
 
 ## Historical sources
 
-| Subject                   | In this group                                    | Scope                                                                           |
-| ------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------- |
-| The Benelux Customs Union | [plot_01_douane_unie.md](plot_01_douane_unie.md) | The 1944 London customs convention (in force 1948) and the 1958 Benelux Treaty. |
+| Subject                   | In this group                                                                      | Scope                                                                                                             |
+| ------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| The delta                 | [plot_00_the_delta.md](plot_00_the_delta.md)                                       | The Rhine, Meuse and Scheldt mouths, the cloth towns and the ports, and the delta as everyone else's battlefield. |
+| The Benelux Customs Union | [plot_01_douane_unie.md](plot_01_douane_unie.md)                                   | The 1944 London customs convention (in force 1948) and the 1958 Benelux Treaty.                                   |
+| The union nobody notices  | [plot_99_the_border_that_is_not_there.md](plot_99_the_border_that_is_not_there.md) | The 2008 indefinite renewal of the Benelux Union, and the internal belonging question in each of the three.       |
 
 Content is CC-BY-NC-SA, code is MIT; the grouping is a matter of public record,
 credited and never claimed.

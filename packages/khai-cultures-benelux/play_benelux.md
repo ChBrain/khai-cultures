@@ -35,17 +35,17 @@ Three small countries on the flat, wet edge of the continent that turned their s
 
 ## Triggers
 
-**The customs union**
+**[Plot 0: The Delta](plot_00_the_delta.md)**
 
-The agreement to drop the borders between [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md), and [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md) became the first working model of the integration that built the European Union.
+The Rhine, the Meuse and the Scheldt reach the sea in one low corner of Europe, and everything half a continent makes must pass through it: that single fact makes these three one economy centuries before they are three countries, and somebody else's battlefield just as long.
 
-**The trading delta**
+**[Plot 1: De douane-unie](plot_01_douane_unie.md)**
 
-The great ports and rivers - Rotterdam, Antwerp, the Rhine and the Scheldt - knit the three into one merchant economy facing the sea and the world.
+Sitting in exile in London, the three bind their economies together so the delta they share can never again be played off one against another, and build the first working model of the integration that becomes the European Union.
 
-**The small-state compromise**
+**[Plot 99: The Border That Is Not There](plot_99_the_border_that_is_not_there.md)**
 
-Three small lands wedged between France and Germany made a habit of negotiation and host between them the seats of Europe - Brussels, Luxembourg, The Hague - turning their exposed position into a vocation.
+The union succeeded past the point of being noticed - the frontier is a change in the colour of the road markings - while each of the three, in the same decade, found itself unsure at home who "we" is.
 
 ## Stakes
 
