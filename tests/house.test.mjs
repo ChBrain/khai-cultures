@@ -146,24 +146,23 @@ describe("Cultures house: content conforms to the canon", () => {
       .filter(([file, e]) => !hybridNoise(file, e))
       .map(([file, e]) => `${file}: ${e}`);
     expect(errors).toEqual([]);
-    // THE SCAN IS O(HOUSE) AND THE HOUSE KEEPS GROWING. This one test validates
-    // every instance in every content collection against the canon, then every
-    // migrated production against its own package root. Measured on this machine
-    // at 319 cultures and 72 packages it takes ~72s, and it is not the change in
-    // front of you that makes it so: main and the branch that first hit the
-    // ceiling both measured within 300ms of each other.
+    // THIS SCAN WAS 69 SECONDS AND IS NOW ABOUT 4, AND THE TIMEOUT IS BACK TO
+    // THE SUITE'S DEFAULT ON PURPOSE.
     //
-    // The suite default is 120s (`--test-timeout` in the test script), which was
-    // set when the house was smaller. 72s of headroom on a fast machine is none
-    // at all on a CI runner, and #622 timed out there while passing here. So this
-    // test carries its own limit rather than the suite's, and the suite's stays
-    // where it is: a test that should take a second must still fail fast.
+    // #623 gave this test its own 600s limit after it timed out on CI, on the
+    // reading that the scan is O(house) and the house is growing. The reading
+    // was wrong. Measured: the umbrella's whole content collection - 247
+    // cultures and 14 groups - validates in 1.5s, while 72 packages took 65.5s.
+    // 247 in one and a half seconds against 72 in sixty-five is not scale, it is
+    // a bug, and it was `parentOf` walking every culture and re-reading every
+    // geo.json once per sub-national package. See tests/culture_conformance.mjs.
     //
-    // This buys time and is not a fix. The scan grows with the house, and the
-    // house is deliberately growing. When this bites again the answer is to make
-    // the scan incremental - validate what a diff touched - not to raise the
-    // number a third time.
-  }, 600000);
+    // So the ceiling stays tight, because A TIGHT TIMEOUT IS A REGRESSION
+    // DETECTOR. At 600s the same fault could come back and cost a minute a run
+    // with nobody noticing; at the suite default it announces itself. If this
+    // ever times out again, the first question is what became quadratic, not
+    // what number to raise.
+  });
 
   it("the management cast is complete: every position has a persona", () => {
     // The voice layer mirrors a plays house (REFERENCE.md, the blueprint in
