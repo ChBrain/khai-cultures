@@ -28,10 +28,13 @@ Pas Luftës së Dytë Botërore, Enver Hoxha vendos në Shqipëri një regjim st
 
 Regjimi e kthen Shqipërinë në vendin më të mbyllur të Evropës. Më 1967 shpall ndalimin e fesë dhe e bën Shqipërinë shtetin e parë zyrtarisht ateist në botë: mbyllen xhamia, kisha e teqe, dhe besimi ndiqet me forcë. Nga frika e pushtimit, vendi mbushet me rreth njëqind e shtatëdhjetë mijë bunkere betoni. Kufijtë mbyllen, ikja dënohet me vdekje, dhe një popull i tërë jeton në varfëri, përgjim dhe heshtje deri në vdekjen e Hoxhës më 1985.
 
+Dhe pikërisht në ato vite, shqiptarja më e njohur në botë është një murgeshë. [Nënë Tereza](persona_nene_tereza.md), e lindur në Shkup, punon ndër më të varfrit e Kalkutës dhe e bën [mikpritjen](process_mikpritja.md) e malit të saj një shërbim pa kufi, ndërsa vendi i të parëve të saj ka ndaluar me ligj atë për të cilën ajo jeton. Nuk lejohet të vijë. Vjen vetëm më 1989, kur Hoxha ka vdekur, për të parë varret e së ëmës dhe të së motrës, të cilat nuk i pa të gjalla. Regjimi mund ta shpallte kombin ateist; nuk mundi ta bënte që bota, kur thoshte "shqiptare", të mos kujtonte të parën atë.
+
 ## Stage
 
 - [Tirana](place_tirana.md): kryeqyteti i regjimit, ku ngrihet piramida dhe vendoset pushteti.
 - [shqiptaria](position_culture_shqiptaria.md): kombi i detyruar ateist, me të katër besimet të ndaluara me forcë.
+- [Nënë Tereza](persona_nene_tereza.md): shqiptarja më e njohur në botë pikërisht kur feja ndalohet në atdhe, dhe që nuk lejohet të kthehet.
 
 ## Tension
 

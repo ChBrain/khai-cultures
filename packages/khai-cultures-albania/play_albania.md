@@ -66,6 +66,10 @@ Një popull i lashtë me një gjuhë që nuk i ngjan asnjë gjuhe tjetër të gj
 
 ## Triggers
 
+**[Plot 0: Shtëpia e Zotit dhe e mikut](plot_00_shtepia_e_zotit_dhe_e_mikut.md)**
+
+Shekuj me radhë malësia rron pa shtet, e sunduar nga një Kanun që nuk shkruhet askund, dhe shtylla e tij është [besa](position_besa.md): miku që kalon pragun bëhet i paprekshëm, e në 1943 po ai rregull i fsheh hebrenjtë dhe nuk i dorëzon.
+
 **[Plot 1: Skënderbeu](plot_01_skenderbeu.md)**
 
 Në shekullin e pesëmbëdhjetë [Skënderbeu](persona_skenderbeu.md) i mban Osmanët njëzet e pesë vjet dhe bashkon princat shqiptarë; nga [Kruja](place_kruja.md) lind heroi i [shqiptarisë](position_culture_shqiptaria.md), kombit mbi fe.
@@ -81,6 +85,10 @@ Diktatura staliniste e mbyll Shqipërinë në izolim, ndalon fenë më 1967 dhe 
 **[Plot 4: Largimi](plot_04_largimi.md)**
 
 Pas rënies së komunizmit, varkat e vitit 1991 drejt Italisë dhe kaosi i vitit 1997 nxjerrin nga vendi një mërgatë të tërë; [Arditi](persona_ardit.md) ikën dhe [gjuha shqipe](@chbrain/khai-cultures-tongues/sq/position_language_sq.md) shpërndahet me të.
+
+**[Plot 99: Shqiponja me dy duar](plot_99_shqiponja_me_dy_duar.md)**
+
+Regjistrimi i 2023-shit numëron rreth dy milionë e katërqind mijë banorë dhe kurrë s'kanë qenë më shumë shqiptarët jashtë se brenda; kombi mbahet nga [shqiponja](piece_shqiponja.md) e bërë me dy duar dhe nga [iso-polifonia](process_isopolifonia.md), kënga që askush nuk e këndon dot vetëm.
 
 ## Stakes
 

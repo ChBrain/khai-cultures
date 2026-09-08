@@ -375,8 +375,8 @@
       "title": "Albania",
       "description": "Albania staged as a culture: a tongue kin to none, a sworn word, a nation above creed, scattered and rising.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/albania"
+        "package": "@chbrain/khai-cultures-albania",
+        "path": ""
       },
       "iso": "AL",
       "members": [
@@ -453,6 +453,12 @@
           "title": "Albania"
         },
         {
+          "file": "plot_00_shtepia_e_zotit_dhe_e_mikut.md",
+          "kind": "plot",
+          "title": "The House of God and of the Guest",
+          "taxonomy": "play_albania.md"
+        },
+        {
           "file": "plot_01_skenderbeu.md",
           "kind": "plot",
           "title": "The Union of the Princes",
@@ -477,6 +483,12 @@
           "taxonomy": "play_albania.md"
         },
         {
+          "file": "plot_99_shqiponja_me_dy_duar.md",
+          "kind": "plot",
+          "title": "The Eagle Made With Two Hands",
+          "taxonomy": "play_albania.md"
+        },
+        {
           "file": "position_besa.md",
           "kind": "position",
           "title": "Besa"
@@ -496,7 +508,8 @@
           "kind": "process",
           "title": "Hospitality"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-albania"
     },
     {
       "kind": "culture",
