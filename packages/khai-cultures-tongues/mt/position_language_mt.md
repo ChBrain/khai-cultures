@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Maltese Language"
+title: "Maltese"
 declared: "il-Malti"
 language: mt
 license: CC-BY-NC-SA-4.0

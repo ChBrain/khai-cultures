@@ -67,6 +67,10 @@ Gżira ċkejkna fin-nofs tal-baħar, dejjem mixtieqa minħabba fejn tinsab: il-F
 
 ## Triggers
 
+**[Plot 0: Qabel kulħadd](plot_00_qabel_kulhadd.md)**
+
+Madwar tlett elef u sitt mitt sena qabel Kristu l-ewwel nies ta' din il-blata jibnu bil-[ġebla](piece_il_gebla.md) tagħha t-tempji megalitiċi, fost l-eqdem binjiet tal-ġebel li jieqfu waħedhom fid-dinja, imbagħad jisparixxu bla ma jħallu la ilsien u lanqas isem; tibqa' l-ġebla, li minnha nbena kollox minn dakinhar sal-lum.
+
 **[Plot 1: San Pawl](plot_01_san_pawl.md)**
 
 Madwar is-sena 60 [San Pawl](persona_san_pawl.md) jinġarraf fuq Malta u, skont it-tradizzjoni, iġib il-Kristjaneżmu lill-gżira; minn dak il-jum [il-fidi](position_il_fidi.md) issir l-għerq l-aktar fond tal-poplu.
@@ -82,6 +86,10 @@ Taħt il-Brittaniċi titqajjem id-Domanda tal-Ilsien bejn it-Taljan, l-Ingliż u
 **[Plot 4: il-George Cross](plot_04_george_cross.md)**
 
 L-assedju aħrax tat-Tieni Gwerra Dinjija jġib lil Malta l-George Cross fl-1942, u wara l-indipendenza tal-1964, ir-repubblika u s-sħubija fl-Unjoni jagħmlu mill-gżira [fortizza](position_il_fortizza.md) nazzjon żgħir li jiqaf waħdu.
+
+**[Plot 99: It-tmienja ta' Settembru](plot_99_it_tmienja_ta_settembru.md)**
+
+Fil-jum li fih il-gżira tiftakar li żammet lil kulħadd barra darbtejn, [ir-regatta](process_ir_regatta.md) taqdef fuq Port il-Kbir quddiem folla li nofsha mhijiex mill-gżira: il-popolazzjoni qabżet in-nofs miljun bl-aktar tkabbir mgħaġġel tal-Unjoni, u din id-darba ħadd ma ħabbat il-bieb.
 
 ## Stakes
 
