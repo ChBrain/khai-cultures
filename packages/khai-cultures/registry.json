@@ -9156,16 +9156,6 @@
           "title": "Chinese Civilization"
         },
         {
-          "file": "position_language_lzh.md",
-          "kind": "position",
-          "title": "Literary Chinese"
-        },
-        {
-          "file": "position_language_zh_cn.md",
-          "kind": "position",
-          "title": "the Chinese Language"
-        },
-        {
           "file": "position_sanjiao.md",
           "kind": "position",
           "title": "the Three Teachings"
@@ -20157,16 +20147,6 @@
           "file": "position_culture_hongkonger.md",
           "kind": "position",
           "title": "the Hongkonger"
-        },
-        {
-          "file": "position_language_en_hk.md",
-          "kind": "position",
-          "title": "Hong Kong English"
-        },
-        {
-          "file": "position_language_yue_hk.md",
-          "kind": "position",
-          "title": "Cantonese"
         },
         {
           "file": "position_lion_rock_spirit.md",

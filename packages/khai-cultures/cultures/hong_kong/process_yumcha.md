@@ -34,4 +34,4 @@ It is driven by a Cantonese conviction that food is best enjoyed in small portio
 
 ## Echo
 
-Yum cha makes audible what [the Hongkonger](position_culture_hongkonger.md) carries as its own tongue and its own table manners at once: that [Cantonese](position_language_yue_hk.md), the language of the tea house and the trolley call, is also the language of belonging to a family that still sits down together. The pot goes round, the fingers tap the cloth, and the whole crowded week is set aside for as long as the tea stays hot.
+Yum cha makes audible what [the Hongkonger](position_culture_hongkonger.md) carries as its own tongue and its own table manners at once: that [Cantonese](@chbrain/khai-cultures-tongues/yue/position_language_yue.md), the language of the tea house and the trolley call, is also the language of belonging to a family that still sits down together. The pot goes round, the fingers tap the cloth, and the whole crowded week is set aside for as long as the tea stays hot.

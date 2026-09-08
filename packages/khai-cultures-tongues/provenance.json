@@ -317,6 +317,13 @@
     "orthography": "British spelling, -ise",
     "tongue": "Welsh English: the older tongue's prosody and word order surviving inside the newer one"
   },
+  "en/position_language_en_hk.md": {
+    "from": "hong_kong",
+    "note": "Moved byte for byte, and the only straightforward one of the four: en already had its anchor, en_hk is a genuine variety of it, and it slots into en/ with no rename and no question. It arrived correctly titled, \"Hong Kong English\", and opens no deferral. What it holds is the register of a place where English was the language of law and administration and never of the street: the codeswitch mid-sentence, the loans that went both ways, and a vocabulary of officialdom that has no equivalent in any other English. Six files linked it, all inside hong_kong.",
+    "orthography": "Hong Kong English usage",
+    "review": "native",
+    "tongue": "Hong Kong English: the tongue of the ordinance and the office in a city that did its living in another"
+  },
   "en/position_language_en_ie.md": {
     "from": "ireland",
     "note": "Migrated from ireland and MOVED WHOLE. Read against the mnemonic on the way through and nothing had to be cut, which is worth recording because the last English variety this house moved, en_gb_eng, was the en anchor entire and had to be rewritten. This one spends every chapter on itself, and every feature in it is a substrate feature with Irish behind it. What it holds: the immediate perfect built with after, I'm after telling him, which marks an action as just completed in a way no other English manages; the habitual does be, which marks the recurring against the single occasion; and the cleft that fronts the important word, It's Irish he speaks. What its grammar makes a speaker mark: the answer, which has to be built by echoing the question's verb, I am, I amn't, I will, I won't, because the tongue underneath never had a word for yes or no - the same fact the ga anchor records from the other side, and the two files now sit in the same package where a reader can see the substrate crossing. What it cannot say: a bare yes or no, and a single flat past, since the speaker must choose among ways of marking whether a thing is over, just now, or often, and the schoolbook grammar above it recognises none of them. It sits under en beside en_gb and the four en_gb_* rather than under any of them: what marks it is spoken and, unlike them, mostly inherited from another language rather than from another England. THE BLOCKER IT CLEARS: this was ireland's last held tongue and the only thing standing between that culture and its own package. ga_ie moved in the same walk that took the nine United Kingdom tongues and became the ga anchor. RELINKED: ireland's cast, its culture-position and its play, and two personas elsewhere who hold it as a mother tongue rather than as a global language, in chile and croatia, which removes two more cross-culture links.",
@@ -594,6 +601,13 @@
     "review": "native",
     "tongue": "Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables"
   },
+  "lzh/position_language_lzh.md": {
+    "from": "china",
+    "note": "Moved byte for byte, correctly filed and correctly titled - \"Literary Chinese\" is already the bare name - so no deferral is opened. It is an anchor and not a variety of zh: lzh is its own ISO code, and the file argues its own case, that meaning sits in each character without inflection, that number and tense are carried by context alone, and that parallelism and tonal balance are structural rather than ornamental. It is the widest-reaching file in this pass and the reason the pass was worth extending: thirteen files across FIVE cultures link it - china, japan, south_korea, taiwan and vietnam - and four of those five are outside the culture that held it. A written language shared across a continent had been sitting inside one country's directory, and this is the care point in its clearest form yet.",
+    "orthography": "傳統漢字，文言句讀",
+    "review": "native",
+    "tongue": "Literary Chinese: a written language four countries read and none of them spoke, in which every character is meaning and nothing inflects"
+  },
   "mk/position_language_mk.md": {
     "from": "north_macedonia",
     "note": "Moved byte for byte and correctly named on arrival. What it holds is the rarest thing in the Slavic family's grammar: three definite articles suffixed to the noun rather than one, marking near, far and neutral, so that a speaker cannot name a thing without saying where it stands relative to him. Nine files linked it, all inside north_macedonia. A TITLE WAS LEFT WRONG ON PURPOSE: it read \"the Macedonian Language\" where this package writes the bare name, to be corrected when north_macedonia migrates. THE DEFERRAL IS DISCHARGED. The title now reads \"Macedonian\"; north_macedonia is a package in the same change and no longer holds the file, so the correction authored nothing. The bare name is the right one here for a reason worth stating: this package files a tongue by what it is and not by whose it is said to be, and mk is its own ISO code. The culture that wrote this file has had its state renamed and its language disputed by two neighbours in living memory; the tongue keeps its own name in this package regardless, on the same ground as cnr. Flagged for native review.",
@@ -807,5 +821,19 @@
     "orthography": "author's own, Westphalian dialect-writing practice",
     "review": "native",
     "tongue": "Westphalian: Low German, with the breaking no other Low German has"
+  },
+  "yue/position_language_yue.md": {
+    "from": "hong_kong",
+    "note": "Moved byte for byte and RENAMED TO THE ANCHOR. This is the SIXTH instance of the shape first recorded at sv_fi, and the plainest yet: the file arrived as yue_hk and was ALREADY TITLED \"Cantonese\", with its declared name the bare 廣東話. Its Has is Cantonese entire - the entering tone and the stop codas kept from Middle Chinese, so that Tang and Song verse still scans when read in it; six to nine tones; the whole set of sentence-final particles by which a single character at the end of a clause fixes the speaker's attitude. NOT ONE of those is Hong Kong's as against Guangzhou's. Only the casual mixing-in of English leans to the city, and that is a register note, not a grammar. There was no yue/ directory, and this package holds a directory as a language only if it holds its anchor, so a yue/ containing only yue_hk would not have been a language at all. NO yue_hk IS WRITTEN: a genuine Hong Kong Cantonese variety may be written later, and inventing one now to fill the hole a rename left would be the opposite of this correction. NO DEFERRAL IS OPENED - the title was already the bare name. Ten files linked it, nine inside hong_kong and one in canada, where Jun carries it across the Pacific. Flagged for native review.",
+    "orthography": "繁體字，粵語書面用字",
+    "review": "native",
+    "tongue": "Cantonese: the entering tone kept from Middle Chinese, so that Tang verse still scans when read aloud in it"
+  },
+  "zh/position_language_zh.md": {
+    "from": "china",
+    "note": "Moved byte for byte and RENAMED TO THE ANCHOR, on the ar, ro, pt, sq and fa precedent: its own title reads \"the Chinese Language\" and its declared name is the bare 汉语, and there was no zh/ directory for it to be a variety inside. THE CARE POINT APPLIES: china is in no group being run and nobody opened it, so the file lands unchanged and its title is not touched. A TITLE IS LEFT WRONG ON PURPOSE: \"the Chinese Language\" where this package writes the bare name, corrected when china migrates. ONE SUBSTANTIVE FLAG FOR THE NATIVE REVIEWER, recorded rather than silently fixed: the Has chapter names four tones - 阴平, 阳平, 上声, 去声 - which is Standard Mandarin's system and not Chinese-wide, and the yue file moved in this same pass contradicts it in its own Has with six to nine. Either this file is the anchor and that paragraph is a variety's material inside it, or the file is cmn under a country's name. It is filed as the anchor because that is what it calls itself twice over, and the paragraph is left for a reader who can judge it. Twelve files linked it, across china, hong_kong and singapore; all now reach the anchor by specifier.",
+    "orthography": "简化字，《通用规范汉字表》",
+    "review": "native",
+    "tongue": "Chinese: meaning carried by tone and by measure word, and never by a change in the shape of the word itself"
   }
 }
