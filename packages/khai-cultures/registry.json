@@ -20041,8 +20041,8 @@
       "title": "Hong Kong",
       "description": "A barren rock made the harbour where East meets West, a borrowed place that grew a city and a people all its own.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/hong_kong"
+        "package": "@chbrain/khai-cultures-hong-kong",
+        "path": ""
       },
       "iso": "HK",
       "members": [
@@ -20120,6 +20120,12 @@
           "title": "Hong Kong"
         },
         {
+          "file": "plot_00_the_fragrant_harbour.md",
+          "kind": "plot",
+          "title": "The Fragrant Harbour",
+          "taxonomy": "play_hong_kong.md"
+        },
+        {
           "file": "plot_01_cession.md",
           "kind": "plot",
           "title": "the cession and the free port",
@@ -20141,6 +20147,12 @@
           "file": "plot_04_the_contested_autonomy.md",
           "kind": "plot",
           "title": "the contested autonomy",
+          "taxonomy": "play_hong_kong.md"
+        },
+        {
+          "file": "plot_99_one_bag_packed.md",
+          "kind": "plot",
+          "title": "One Bag Packed",
           "taxonomy": "play_hong_kong.md"
         },
         {
@@ -20173,7 +20185,8 @@
           "kind": "process",
           "title": "yum cha"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-hong-kong"
     },
     {
       "kind": "culture",

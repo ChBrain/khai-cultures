@@ -66,6 +66,10 @@ A place that began as what the Qing court called a barren rock and the British E
 
 ## Triggers
 
+**[Plot 0: the fragrant harbour](plot_00_the_fragrant_harbour.md)**
+
+Centuries before any treaty the estuary is worked from the water by people who hold no land, and the anchorage ships out the incense wood that names it; the Qing court sees a barren rock and the British see the water beside it, but neither of them made the harbour, and [the entrepot](position_the_entrepot.md) is older than both.
+
 **[Plot 1: the cession and the free port](plot_01_cession.md)**
 
 After the Opium Wars the barren rock is ceded to Britain island by island and lease by lease, and turned into a free harbour where the trade of China meets the world; the colonial [entrepot](position_the_entrepot.md) is founded on the water of [Victoria Harbour](place_victoria_harbour.md), the crossroads the whole later city is built upon.
@@ -81,6 +85,10 @@ The colony is returned to China under [one country, two systems](position_one_co
 **[Plot 4: the contested autonomy](plot_04_the_contested_autonomy.md)**
 
 Through the decades after the handover the meaning of the fifty-year promise is tested again and again, in the streets and the courts and the ballot; [the young Hongkonger](persona_the_young_hongkonger.md) comes of age inside that unresolved question of what the city is and what it is allowed to be.
+
+**[Plot 99: one bag packed](plot_99_one_bag_packed.md)**
+
+[The neon](piece_the_neon_signs.md) comes down by enforcement notice and well over a hundred thousand people leave on a colonial passport nobody expected to need, while [the Star Ferry](piece_the_star_ferry.md) still crosses, [the races](process_the_races.md) are still called and [yum cha](process_yumcha.md) still runs long - the rituals intact, the roll of who is at the table changed.
 
 ## Stakes
 
