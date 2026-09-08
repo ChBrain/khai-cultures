@@ -35628,8 +35628,8 @@
       "title": "Slovenia",
       "description": "Slovenia staged as a culture: a small Alpine nation that left Yugoslavia almost bloodlessly and turned West.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/slovenia"
+        "package": "@chbrain/khai-cultures-slovenia",
+        "path": ""
       },
       "iso": "SI",
       "members": [
@@ -35706,6 +35706,12 @@
           "title": "Slovenia"
         },
         {
+          "file": "plot_00_voda_ki_gre_pod_zemljo.md",
+          "kind": "plot",
+          "title": "The Water That Goes Under",
+          "taxonomy": "play_slovenia.md"
+        },
+        {
           "file": "plot_01_trubarjeve_knjige.md",
           "kind": "plot",
           "title": "Trubar's Books",
@@ -35727,6 +35733,12 @@
           "file": "plot_04_osamosvojitev.md",
           "kind": "plot",
           "title": "Independence",
+          "taxonomy": "play_slovenia.md"
+        },
+        {
+          "file": "plot_99_voda_ki_se_vrne.md",
+          "kind": "plot",
+          "title": "The Water That Comes Back",
           "taxonomy": "play_slovenia.md"
         },
         {
@@ -35754,7 +35766,8 @@
           "kind": "process",
           "title": "Going to the Mountains"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-slovenia"
     },
     {
       "kind": "culture",

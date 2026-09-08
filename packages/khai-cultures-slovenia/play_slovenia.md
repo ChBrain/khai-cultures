@@ -67,6 +67,10 @@ Majhen slovanski narod, ki je stoletja živel pod nemškimi, habsburškimi gospo
 
 ## Triggers
 
+**[Plot 0: Voda, ki gre pod zemljo](plot_00_voda_ki_gre_pod_zemljo.md)**
+
+V šestem stoletju se slovanski rodovi naselijo na najnižjem prehodu skozi alpski zid, na apnenem svetu, po katerem ves svet danes imenuje kraški pojav; tam se [slovenščina](@chbrain/khai-cultures-tongues/sl/position_language_sl.md) loči od sosed in obdrži dvojino, narod pa se nauči trajati tako, kakor traja voda, ki gre pod zemljo in se pod drugim imenom vrne na dan.
+
 **[Plot 1: Trubarjeve knjige](plot_01_trubarjeve_knjige.md)**
 
 Leta 1550 [Primož Trubar](persona_trubar.md) natisne prvi slovenski knjigi; reformacija da neslišani [slovenščini](@chbrain/khai-cultures-tongues/sl/position_language_sl.md) prve črke in iz nje naredi knjižni jezik naroda, ki še nima ne države ne meja.
@@ -82,6 +86,10 @@ Dolga stoletja živi narod pod habsburškimi gospodi, [Ljubljana](place_ljubljan
 **[Plot 4: Osamosvojitev](plot_04_osamosvojitev.md)**
 
 Leta 1991 se Slovenija v desetdnevni vojni skoraj brez krvi izvije iz Jugoslavije, [Triglav](place_triglav.md) postavi na zastavo nove države in se obrne na zahod, v Unijo in v evro.
+
+**[Plot 99: Voda, ki se vrne](plot_99_voda_ki_se_vrne.md)**
+
+Avgusta 2023 zajame najhujša naravna nesreča samostojne države dve tretjini občin; na tisoče ljudi se z lopatami pripelje v doline, ki jih ne poznajo, in [pridnost](position_pridnost.md), ki sicer dela tiho, je za nekaj tednov vsa na cesti in vidna.
 
 ## Stakes
 
