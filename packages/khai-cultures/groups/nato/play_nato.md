@@ -52,7 +52,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md) (2004)
 - [Lithuania](@chbrain/khai-cultures-lithuania/play_lithuania.md) (2004)
 - [Slovakia](@chbrain/khai-cultures-slovakia/play_slovakia.md) (2004)
-- [Slovenia](../../cultures/slovenia/play_slovenia.md) (2004)
+- [Slovenia](@chbrain/khai-cultures-slovenia/play_slovenia.md) (2004)
 - [Romania](../../cultures/romania/play_romania.md) (2004)
 - [Bulgaria](../../cultures/bulgaria/play_bulgaria.md) (2004)
 - [Albania](../../cultures/albania/play_albania.md) (2009)
