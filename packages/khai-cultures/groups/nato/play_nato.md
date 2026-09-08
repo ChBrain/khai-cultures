@@ -58,7 +58,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Albania](@chbrain/khai-cultures-albania/play_albania.md) (2009)
 - [Croatia](@chbrain/khai-cultures-croatia/play_croatia.md) (2009)
 - [Montenegro](@chbrain/khai-cultures-montenegro/play_montenegro.md) (2017)
-- [North Macedonia](../../cultures/north_macedonia/play_north_macedonia.md) (2020)
+- [North Macedonia](@chbrain/khai-cultures-north-macedonia/play_north_macedonia.md) (2020)
 - [Finland](@chbrain/khai-cultures-finland/play_finland.md) (2023)
 - [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md) (2024)
 

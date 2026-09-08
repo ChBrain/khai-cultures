@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Macedonian Language"
+title: "Macedonian"
 declared: "македонскиот јазик"
 language: mk
 license: CC-BY-NC-SA-4.0
