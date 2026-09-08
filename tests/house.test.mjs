@@ -146,7 +146,24 @@ describe("Cultures house: content conforms to the canon", () => {
       .filter(([file, e]) => !hybridNoise(file, e))
       .map(([file, e]) => `${file}: ${e}`);
     expect(errors).toEqual([]);
-  });
+    // THE SCAN IS O(HOUSE) AND THE HOUSE KEEPS GROWING. This one test validates
+    // every instance in every content collection against the canon, then every
+    // migrated production against its own package root. Measured on this machine
+    // at 319 cultures and 72 packages it takes ~72s, and it is not the change in
+    // front of you that makes it so: main and the branch that first hit the
+    // ceiling both measured within 300ms of each other.
+    //
+    // The suite default is 120s (`--test-timeout` in the test script), which was
+    // set when the house was smaller. 72s of headroom on a fast machine is none
+    // at all on a CI runner, and #622 timed out there while passing here. So this
+    // test carries its own limit rather than the suite's, and the suite's stays
+    // where it is: a test that should take a second must still fail fast.
+    //
+    // This buys time and is not a fix. The scan grows with the house, and the
+    // house is deliberately growing. When this bites again the answer is to make
+    // the scan incremental - validate what a diff touched - not to raise the
+    // number a third time.
+  }, 600000);
 
   it("the management cast is complete: every position has a persona", () => {
     // The voice layer mirrors a plays house (REFERENCE.md, the blueprint in
