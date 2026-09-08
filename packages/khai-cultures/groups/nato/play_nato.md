@@ -54,7 +54,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Slovakia](@chbrain/khai-cultures-slovakia/play_slovakia.md) (2004)
 - [Slovenia](@chbrain/khai-cultures-slovenia/play_slovenia.md) (2004)
 - [Romania](../../cultures/romania/play_romania.md) (2004)
-- [Bulgaria](../../cultures/bulgaria/play_bulgaria.md) (2004)
+- [Bulgaria](@chbrain/khai-cultures-bulgaria/play_bulgaria.md) (2004)
 - [Albania](../../cultures/albania/play_albania.md) (2009)
 - [Croatia](@chbrain/khai-cultures-croatia/play_croatia.md) (2009)
 - [Montenegro](../../cultures/montenegro/play_montenegro.md) (2017)

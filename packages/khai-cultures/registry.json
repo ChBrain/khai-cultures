@@ -4207,8 +4207,8 @@
       "title": "Bulgaria",
       "description": "Bulgaria staged as a culture: the nation that gave the Slavs their alphabet and held through five centuries of yoke.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/bulgaria"
+        "package": "@chbrain/khai-cultures-bulgaria",
+        "path": ""
       },
       "iso": "BG",
       "members": [
@@ -4285,6 +4285,12 @@
           "title": "Bulgaria"
         },
         {
+          "file": "plot_00_po_stari_ot_imeto.md",
+          "kind": "plot",
+          "title": "Older Than the Name",
+          "taxonomy": "play_bulgaria.md"
+        },
+        {
           "file": "plot_01_zlatniyat_vek.md",
           "kind": "plot",
           "title": "The Golden Age",
@@ -4306,6 +4312,12 @@
           "file": "plot_04_narodna_republika.md",
           "kind": "plot",
           "title": "The People's Republic",
+          "taxonomy": "play_bulgaria.md"
+        },
+        {
+          "file": "plot_99_podkvasata.md",
+          "kind": "plot",
+          "title": "The Starter",
           "taxonomy": "play_bulgaria.md"
         },
         {
@@ -4333,7 +4345,8 @@
           "kind": "process",
           "title": "The Rose Harvest"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-bulgaria"
     },
     {
       "kind": "culture",
