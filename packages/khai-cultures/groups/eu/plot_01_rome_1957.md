@@ -26,12 +26,12 @@ A crate of Ruhr coal reaches a steelworks in Lorraine, and for the first time in
 
 ## Action
 
-On 25 March 1957 the six sign the Treaty of Rome, founding the European Economic Community, in force from 1958: a common market with goods, workers, and capital crossing the borders freely, and a promise in the preamble of "an ever-closer union among the peoples of Europe." The founders are the inner six of western Europe: [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [France](@chbrain/khai-cultures-france/play_france.md), [Germany](@chbrain/khai-cultures-germany/play_germany.md), [Italy](../../cultures/italy/play_italy.md), [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md), and [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md). A market is built to do the work of a peace treaty.
+On 25 March 1957 the six sign the Treaty of Rome, founding the European Economic Community, in force from 1958: a common market with goods, workers, and capital crossing the borders freely, and a promise in the preamble of "an ever-closer union among the peoples of Europe." The founders are the inner six of western Europe: [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [France](@chbrain/khai-cultures-france/play_france.md), [Germany](@chbrain/khai-cultures-germany/play_germany.md), [Italy](@chbrain/khai-cultures-italy/play_italy.md), [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md), and [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md). A market is built to do the work of a peace treaty.
 
 ## Stage
 
 - [France](@chbrain/khai-cultures-france/play_france.md) and [Germany](@chbrain/khai-cultures-germany/play_germany.md): the old enemies whose reconciliation is the whole point.
-- [Italy](../../cultures/italy/play_italy.md): the third large founder.
+- [Italy](@chbrain/khai-cultures-italy/play_italy.md): the third large founder.
 - [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md), [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md): the Benelux three whose customs union is the working prototype.
 
 ## Tension
