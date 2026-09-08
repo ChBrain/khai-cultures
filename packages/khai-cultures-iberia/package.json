@@ -1,0 +1,29 @@
+{
+  "name": "@chbrain/khai-cultures-iberia",
+  "version": "0.1.0",
+  "description": "khai cultures: iberia, one group of cultures staged as a khai play.",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "type": "module",
+  "files": [
+    "*.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "class": "house",
+    "group": "iberia",
+    "anchor": "play_iberia.md"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-portugal": "^0.1.0",
+    "@chbrain/khai-cultures-spain": "^0.1.0"
+  }
+}

@@ -43478,8 +43478,8 @@
       "title": "Iberia",
       "description": "Iberia as a group: Spain and Portugal, the peninsula that once divided the world between its two crowns.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/iberia"
+        "package": "@chbrain/khai-cultures-iberia",
+        "path": ""
       },
       "references": ["portugal", "spain"],
       "members": [
@@ -43489,9 +43489,21 @@
           "title": "Iberia"
         },
         {
+          "file": "plot_00_the_shared_ground.md",
+          "kind": "plot",
+          "title": "The Shared Ground",
+          "taxonomy": "play_iberia.md"
+        },
+        {
           "file": "plot_01_tordesilhas_1494.md",
           "kind": "plot",
           "title": "The Treaty of Tordesillas, 1494",
+          "taxonomy": "play_iberia.md"
+        },
+        {
+          "file": "plot_99_one_grid.md",
+          "kind": "plot",
+          "title": "One Grid",
           "taxonomy": "play_iberia.md"
         }
       ]
