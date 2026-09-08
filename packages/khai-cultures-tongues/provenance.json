@@ -254,6 +254,13 @@
     "review": "native",
     "tongue": "Greek: four cases with a vocative still used to call someone by name, and a written continuity no other European language keeps"
   },
+  "el/position_language_el_cy.md": {
+    "from": "cyprus",
+    "note": "Moved byte for byte. This pass serves cyprus and malta at once, so it is its own pull request and the limit set at #608 applies: one edited byte would author both and charge them for every dead Company element they carry, which belongs to their own migrations. A genuine variety, and it now hangs from the anchor greece's file became at #620. What it keeps is what common Modern Greek let go: the double consonants, heard and not merely written, which make άλλος and Πάφος sound to a mainland ear like a slower, harder Greek. A variety that holds an older state of the language rather than an innovation is the rarer kind, and it is why the island's speech is often taken for archaic when it is simply conservative.",
+    "orthography": "η νεοελληνική ορθογραφία",
+    "review": "native",
+    "tongue": "Cypriot Greek: the double consonants the mainland stopped pronouncing"
+  },
   "en/position_language_en.md": {
     "note": "Written here, not carried in from a culture. It holds what every English variety shares, which is where that material always belonged: the varieties found thin in the Länder walk were thin because they were spending their four chapters on the language and had nothing left for themselves. With an anchor to carry the lost inflection, the doubled lexicon, the word order that is the grammar and the one second person, a variety is free to say only what is its own.",
     "orthography": "standard English orthography",
@@ -385,6 +392,13 @@
     "note": "Read against the mnemonic on the way through: two things were cut from its opening. It placed itself on the Rif coast, and where is not one of the four; and it explained its own closeness to the standard by who lives in the city, its garrison and its civil service, which is a claim about a place and not about a tongue. What stays is the strongest thing it says: that it orders its holder to state where they are from and since when before saying what they want.",
     "orthography": "ortografía académica (RAE)",
     "tongue": "Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation"
+  },
+  "es/position_language_es_uy.md": {
+    "from": "uruguay",
+    "note": "Moved byte for byte, and this is the care point. It is here because an EU member cannot migrate while it reaches across a relative path for a tongue, and a published production carries no \"../\". But the culture that holds this file is NOT a member of the eu and is not in this walk, so editing it would author a culture nobody opened. Nothing is changed. It is here because italy's play reaches for it - the Italian emigration to the Rio de la Plata is in italy's own material, and roughly half of Uruguay claims Italian descent. A genuine variety: the voseo with its own conjugation, vos tenes and vos cantas and vos sos, which separates the address between equals from the peninsular tu. It hangs from the es anchor, which was already here. uruguay is a member of mercosur and of latin_america, not of the eu, and this file moves for a group it does not belong to.",
+    "orthography": "la ortografía académica",
+    "review": "native",
+    "tongue": "Uruguayan Spanish: the voseo with its own conjugation, vos tenés and vos sos"
   },
   "et/position_language_et.md": {
     "from": "estonia",
@@ -552,6 +566,13 @@
     "review": "native",
     "tongue": "Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables"
   },
+  "mt/position_language_mt.md": {
+    "from": "malta",
+    "note": "Moved byte for byte. This pass serves cyprus and malta at once, so it is its own pull request and the limit set at #608 applies: one edited byte would author both and charge them for every dead Company element they carry, which belongs to their own migrations. A NEW ANCHOR, and it arrived already correctly named - the third in this walk after eu and ca, and for the same reason: Maltese is nobody's regional variety, so nobody filed it under a country code. What it holds is one of the genuinely singular facts in European language: it is the only Semitic language written in the Latin alphabet, and it carries two inheritances in every word - the triconsonantal root building a broken plural from the Semitic side, and Romance and English vocabulary and syntax laid over it. A TITLE IS LEFT WRONG ON PURPOSE: \"the Maltese Language\" where this package writes the bare name, corrected when malta migrates. Flagged for native review.",
+    "orthography": "l-ortografija tal-Malti",
+    "review": "native",
+    "tongue": "Maltese: the only Semitic language in Latin script, carrying a triconsonantal root and a Romance vocabulary in the same word"
+  },
   "nds/position_language_nds.md": {
     "from": "de_schleswig_holstein",
     "note": "Read against the mnemonic on the way through: nothing was cut, and it is the cleanest position in the package. Written in Low German itself. Every chapter is the office: the unshifted p, t and k that keep Water from becoming Wasser, two noun forms where High German holds four, the verb in second place even where High German would hold it back, and no settled orthography, so a language that once ran from Bruges to Novgorod still looks for one rule to write itself by. Note that this is a language and not a variety of German - `language: nds`, registered in the house's `khai.languages` - and that it is held here by one Land while Hamburg, Bremen, Lower Saxony and Mecklenburg-Vorpommern all name Platt in their own varieties without linking it. Now that it sits in the package they could, by specifier; that is a later pass and not this one.",
@@ -677,6 +698,13 @@
     "orthography": "slovenski pravopis",
     "tongue": "Slovene as such: the dual, and six cases"
   },
+  "sr/position_language_sr.md": {
+    "from": "serbia",
+    "note": "Moved byte for byte, and this is the care point. It is here because an EU member cannot migrate while it reaches across a relative path for a tongue, and a published production carries no \"../\". But the culture that holds this file is NOT a member of the eu and is not in this walk, so editing it would author a culture nobody opened. Nothing is changed. It is here because slovenia AND croatia both reach for it, which is the whole difficulty of the region compressed into a dependency graph: two EU members cannot become packages until a non-member's tongue is placeable. A NEW ANCHOR, already correctly named. What it holds is language-wide: seven cases, so that every noun carries its own role in the sentence without a preposition doing the work. A TITLE IS LEFT WRONG ON PURPOSE, \"the Serbian Language\" where the package writes the bare name, and it waits on serbia's own migration, which is not in any group being run. Flagged for native review.",
+    "orthography": "српски правопис",
+    "review": "native",
+    "tongue": "Serbian: seven cases carrying every noun's role without a preposition"
+  },
   "sv/position_language_sv.md": {
     "from": "sweden",
     "note": "Moved byte for byte. Every member of the Nordics carries dead Company elements - denmark six, sweden nine, norway seven, finland eight, iceland eight, thirty-eight between them - and a single edited byte during a tongue move stops the change counting as a rename, authors the culture and charges it for all of them. That trap was hit on #562 and again on #576 and is not being hit a third time. Migrated from sweden and RENAMED to the anchor, the FIFTH time this house has made the same correction after da, sco, ga and ar. The file arrived as sv_se and its own frontmatter gives it away: titled the Swedish Language, declared svenskan, and every chapter language-wide - the definite article suffixed onto the word so that bilen and huset carry definiteness in the body of the word rather than in front of it; the tonal accent that separates two otherwise identical words by melody alone, anden the bird against anden the spirit, which most Germanic languages lack entirely; and free compounding. Nothing in it is Swedish-of-Sweden as against Swedish-of-Finland. NO sv_se IS WRITTEN, the ga shape rather than the da one: there IS a sibling here, sv_fi, and it hangs beneath this anchor, exactly as ga_gb_nir hangs beneath ga. A Sweden-Swedish variety may be written later and would have real material; inventing one now to fill a rename's hole would be the opposite of this correction. Flagged for native review. The title was corrected to \"Swedish\" in the package-only naming pass; it had read \"the Swedish Language\".",
@@ -718,6 +746,13 @@
     "note": "MIGRATED AS THE ANCHOR, not retired and replaced. The four tongues before this one - de_de, en_gb, it_it, fr_fr - were each the language wearing a variety's name, and each was retired because the package already held an anchor that said the same material better. This file is the same kind of thing and the opposite case: it is the Turkish language, correctly written, and the package held no tr anchor at all. Its own frontmatter said so - title \"The Turkish Language\", declared \"Türk dili\" - so it was never a variety and only ever a filename. So it moves, and nothing is invented: no tr_tr variety is written, because there is no sibling in this package to distinguish it from and no culture in the house casting a Turkish that is not this one, and this house does not give a file to a variety whose distinguishing feature cannot be named. What it holds is language-wide: the suffix chain that builds evlerimizdekiler out of ev, the vowel harmony that admits no exception and makes a word sound woven from one colour end to end, the verb at the end so the hearer holds the whole sentence before it means anything, and the -mis against -di that makes a speaker mark, in every sentence, whether they saw it or were told. RELINKED: all nine cultures that held it now hold the anchor, and no variety is asserted for any of them. tr_tr was germany's last blocker.",
     "orthography": "Türk alfabesi",
     "tongue": "Turkish as such: agglutination, vowel harmony, and an evidential in every sentence"
+  },
+  "tr/position_language_tr_cy.md": {
+    "from": "cyprus",
+    "note": "Moved byte for byte. This pass serves cyprus and malta at once, so it is its own pull request and the limit set at #608 applies: one edited byte would author both and charge them for every dead Company element they carry, which belongs to their own migrations. AND ITS Has IS THE ANCHOR'S, which is the third time this walk has found that shape and is recorded here rather than repaired. It opens on Türkçenin gücü, the power of Turkish, and describes agglutination: suffix upon suffix from one root carrying a whole sentence in a single word. That is pan-Turkish and it is the tr anchor's material. What is genuinely Cypriot - the Greek loanwords, the retained q, the intonation a mainland speaker hears immediately - is not in the chapter. It is not repaired because this pass serves two member cultures and an edit would charge both; it belongs to cyprus's own migration, which will author it anyway. That makes three: sv_fi, pt_br in one chapter, ar_dz whole, and now this.",
+    "orthography": "Türk Dil Kurumu yazım kuralları",
+    "review": "native",
+    "tongue": "Cypriot Turkish: as written, the anchor's agglutination under an island's name, and flagged as such"
   },
   "vmf/position_language_vmf.md": {
     "from": "de_bavaria",

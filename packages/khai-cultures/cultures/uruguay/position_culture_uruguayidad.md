@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La uruguayidad es lo que carga sin haberlo elegido un hijo de esta orilla: el ideal fundador de [la patria oriental](position_la_patria_oriental.md), federal e igualitaria; el temple de [la garra charrua](position_la_garra_charrua.md), que planta cara al grande sin achicarse; y la apuesta de [el Estado laico y solidario](position_el_estado_laico_y_solidario.md), que hizo del país una republica pareja antes que rica. Habla [el español uruguayo](position_language_es_uy.md), el del vos y el che compartido con la otra orilla, pero dicho en un timbre propio, bajo y sobrio. Es la modestia orgullosa de un país chico que se sabe parejo y decente sin necesitar gritarlo.
+La uruguayidad es lo que carga sin haberlo elegido un hijo de esta orilla: el ideal fundador de [la patria oriental](position_la_patria_oriental.md), federal e igualitaria; el temple de [la garra charrua](position_la_garra_charrua.md), que planta cara al grande sin achicarse; y la apuesta de [el Estado laico y solidario](position_el_estado_laico_y_solidario.md), que hizo del país una republica pareja antes que rica. Habla [el español uruguayo](@chbrain/khai-cultures-tongues/es/position_language_es_uy.md), el del vos y el che compartido con la otra orilla, pero dicho en un timbre propio, bajo y sobrio. Es la modestia orgullosa de un país chico que se sabe parejo y decente sin necesitar gritarlo.
 
 ## Orders
 

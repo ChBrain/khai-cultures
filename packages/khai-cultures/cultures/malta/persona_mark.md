@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[il-Malti](position_language_mt.md)
+[il-Malti](@chbrain/khai-cultures-tongues/mt/position_language_mt.md)
 
 ## Owner
 
