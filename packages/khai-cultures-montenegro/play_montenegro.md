@@ -67,6 +67,10 @@ Plemenski junački narod Crne planine, one visoravni koju Osmanlije nikad do kra
 
 ## Triggers
 
+**[Plot 0: Kamen koji niko nije htio](plot_00_kamen_koji_niko_nije_htio.md)**
+
+Osmanlije uzeše ravnice, gradove i puteve, a [kamen](position_brdjanski_kamen.md) ostaviše, jer se vojska na kršu ne može nahraniti; gora se uredi sama, po plemenima i datoj riječi, a na saboru se hvata [oro](process_oro.md), bez ijedne svirke.
+
 **[Plot 1: Vjekovi otpora](plot_01_vjekovi_otpora.md)**
 
 Vjekovima se gorska plemena i vladike na [brđanskom kamenu](position_brdjanski_kamen.md) biju za slobodu i drže Osmanlije pod sam kamen; iz "zemlje koja nikad ne bi pod Turcima" rodi se ponos slobode koji nosi cijeli narod.
@@ -82,6 +86,10 @@ Od 1830. do 1851. vlada [Njegoš](persona_njegos.md), vladika-pjesnik, koji u "G
 **[Plot 4: Nezavisnost 2006](plot_04_nezavisnost_2006.md)**
 
 Godine 2006. referendumom (55,5 posto) Crna Gora vrati [crnogorstvo](position_culture_crnogorstvo.md) u državu i sloboda se obnovi; ostaju sporovi oko jezika i crkve, a zemlja krene u NATO i ka Evropi.
+
+**[Plot 99: Popis](plot_99_popis.md)**
+
+Na popisu 2023. više se popisanih izjasnilo da im je jezik srpski nego crnogorski, u državi koja se zove Crna Gora; [Milena](persona_milena.md) na to pitanje ćuti duže nego na sva ostala, a [kapu](piece_kapa_crnogorska.md) na slavi nosi i unuk koji ga zove drukčije od nje.
 
 ## Stakes
 
