@@ -48,6 +48,13 @@
     "review": "native",
     "tongue": "Bulgarian: a full aspect system, and an evidential mood that marks whether the speaker saw a thing or is repeating it"
   },
+  "bn/position_language_bn.md": {
+    "from": "bangladesh",
+    "note": "Moved byte for byte and correctly filed under bn, though not correctly titled. What it holds is a grammar with no grammatical gender at all and a verb that inflects instead for the standing of the person addressed, so that the same act is said three ways depending on who is being spoken to. A TITLE IS LEFT WRONG ON PURPOSE, and this one is not a style slip: it reads \"the Mother Tongue\", which is not the name of a language. The phrase is not arbitrary - this is the tongue whose speakers were shot for it in 1952 and whose day the world now keeps as International Mother Language Day - but a title is a name, and the resonance belongs in the prose where it already is. Corrected when bangladesh migrates. Fourteen files linked it, thirteen inside bangladesh and one in albania, where Nene Tereza carries it from Calcutta. Flagged for native review.",
+    "orthography": "বাংলা বানান",
+    "review": "native",
+    "tongue": "Bengali: no grammatical gender anywhere, and a verb that inflects for the standing of the person spoken to"
+  },
   "br/position_language_br.md": {
     "note": "Written here, not carried in from a culture: no culture in this house held Breton, and Brittany has no play yet. Every chapter is the office rather than the map. What it gives, the initial mutations that change a word's first letter rather than its last according to what stands before it, the prepositions that inflect for person so that ganin and ganit are one word and not two, vigesimal counting that French around it gave up, and two great varieties, KLT and Vannetais, over which the orthographic argument was fought to three competing answers rather than left unsettled; what its grammar makes a speaker mark, the element in focus, since there is no neutral word order to fall back on and a subject placed before the verb leaves that verb in the third singular however many the subject is, so every sentence declares what its speaker put forward; what it cannot say, itself with one vocabulary, because administration and science arrived in French and the Breton words built to replace them were built by learners, leaving the neo-Breton of the schools and the inherited Breton of the old speakers mutually thin, and because speaking it in Brittany is now always a statement about the language and never merely a way of saying something; and how it sorts the world, by making the join between two words audible so that no word can be lifted out of its sentence, and by requiring the ranking to be settled before the mouth opens rather than repaired afterwards by stress.",
     "orthography": "peurunvan, the unified spelling of 1941 taught in Diwan and most widely written today",
@@ -60,6 +67,13 @@
     "orthography": "la normativa de l'Institut d'Estudis Catalans",
     "review": "native",
     "tongue": "Catalan: the periphrastic past vaig fer, and the weak pronouns hi and en that stand in for a place and a quantity"
+  },
+  "cnr/position_language_cnr.md": {
+    "from": "montenegro",
+    "note": "Moved byte for byte. It arrived correctly named and it is an anchor, not a variety: cnr is its own ISO code and the file is filed under it. What it holds against its neighbours is the pair of letters that no other standard of this speech writes. A TITLE IS LEFT WRONG ON PURPOSE: it reads \"the Montenegrin Language\" where this package writes the bare name, corrected when montenegro migrates. Montenegro is one move from ready and this file was the whole of that move: seven files linked it, every one of them inside montenegro itself. Flagged for native review.",
+    "orthography": "pravopis crnogorskoga jezika",
+    "review": "native",
+    "tongue": "Montenegrin: the letters s with an acute and z with an acute, which no neighbouring standard of the same speech writes"
   },
   "co/position_language_co.md": {
     "note": "Written here, not carried in from a culture: no culture in this house held Corsican, and none could, because the island has no play yet. Every chapter is the office rather than the map. What it keeps that Tuscan let go, the article from ILLU and the ghj/chj that no neighbour writes the same way; what its grammar makes a speaker mark, the initial consonant that changes with whatever stands before it, so that no word can be said alone, and in the south the cacuminal that puts the speaker's own end of the island into every sentence; what it cannot say, the administrative and technical vocabulary that arrives in French unaltered because Corsican was never an official language for a single day, and the impossibility of speaking it from nowhere, since a tongue without a norm offers nobody a place to hide; and how it sorts the world, by teaching that one's own parlata is one among several equally right, which is what polynomy actually is in the mouth rather than in the literature.",
@@ -414,6 +428,13 @@
     "review": "native",
     "tongue": "Basque: ergative-absolutive case, one auxiliary carrying subject, object and indirect object, and no relatives anywhere"
   },
+  "fa/position_language_fa.md": {
+    "from": "iran",
+    "note": "Moved byte for byte and RENAMED TO THE ANCHOR, and this is the fifth instance of the shape first recorded at sv_fi: the anchor's material carried under a country's name. It arrived as fa_ir with the title \"Iranian Persian\", and NOT ONE CHAPTER names anything Iran's as against Afghanistan's or Tajikistan's. The ezafe binding two nouns with no conjunction, compound verbs built by hanging a noun on kardan or dadan, and the aruz metre a thousand years of poetry rests on are Persian entire; Dari and Tajik have all three. Its own declared name is the bare \"Persian\". THE CARE POINT APPLIES IN FULL: iran is not a member of nato and nobody opened it, so this file moves byte for byte and the title is not touched, on the ro precedent where the same care point was written. A TITLE IS LEFT WRONG ON PURPOSE and it is wrong in substance and not only in style - it names a national variety for a file that is the language - corrected when iran migrates. NO fa_ir IS WRITTEN. This is the widest-reaching tongue moved in this walk: twenty-two files across eleven cultures linked it - iran, uzbekistan, turkmenistan, turkey, azerbaijan, pakistan, morocco, kazakhstan, jordan, bangladesh and albania - and the queue held ten cultures behind it, more than any other single file. Flagged for native review.",
+    "orthography": "دستور خط فارسی",
+    "review": "native",
+    "tongue": "Persian: the ezafe, an unwritten vowel that binds two nouns into one phrase with no preposition and no conjunction"
+  },
   "fi/position_language_fi.md": {
     "from": "finland",
     "note": "Moved byte for byte. Every member of the Nordics carries dead Company elements - denmark six, sweden nine, norway seven, finland eight, iceland eight, thirty-eight between them - and a single edited byte during a tongue move stops the change counting as a rename, authors the culture and charges it for all of them. That trap was hit on #562 and again on #576 and is not being hit a third time. Migrated from finland as the anchor, and the only tongue in this walk that is not Germanic or Indo-European at all. What finland held was the language: fifteen cases carrying place, direction and state where its neighbours use a preposition, talossa and taloon and talosta off one stem; consonant gradation, which alters the stem regularly as it inflects, kukka to kukan and matto to maton; and long transparent compounds. It is the reason the Nordics group has to keep accounting for Finland: four of the five are in one language family and this one is in another, and every shared arrangement in that group had to be built across that fact rather than on top of it. Flagged for native review.",
@@ -498,6 +519,13 @@
     "review": "native",
     "tongue": "Alsatian: the Alemannic variety whose written roof was removed rather than replaced"
   },
+  "hi/position_language_hi.md": {
+    "from": "india",
+    "note": "Moved byte for byte, correctly filed and THE ONLY ONE OF THE SIX THAT ARRIVED CORRECTLY TITLED: it reads \"Hindi\", which is what this package writes. No deferral is opened for it. Thirteen files linked it, seven inside india and six spread further than any other tongue in this pass except fa - trinidad_and_tobago, suriname, mauritius, kuwait, fiji and albania - which is the indenture and the labour migration written into the link graph. Flagged for native review.",
+    "orthography": "हिन्दी वर्तनी",
+    "review": "native",
+    "tongue": "Hindi: the same speech that, written in another script and under another name, is counted as a second language"
+  },
   "hr/position_language_hr.md": {
     "from": "croatia",
     "note": "Migrated with nothing cut. Written in Croatian, its own anchor. Migrated now rather than later because it is the anchor Burgenland Croatian will hang from: gradiscanskohrvatski has cleared the entry price on research - a codified written norm with writable diagnostics against the standard, ca against sto, va lozi against u lozu, the ikavian ric and dite - but it is not written yet, because writing a variety needs authored prose in it to work from and none has been obtained. The directory is here and the file is not, which is the honest state. The title was corrected to \"Croatian\" in the package-only naming pass; it had read \"the Croatian Language\".",
@@ -565,6 +593,13 @@
     "orthography": "latviešu pareizrakstība",
     "review": "native",
     "tongue": "Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables"
+  },
+  "mk/position_language_mk.md": {
+    "from": "north_macedonia",
+    "note": "Moved byte for byte and correctly named on arrival. What it holds is the rarest thing in the Slavic family's grammar: three definite articles suffixed to the noun rather than one, marking near, far and neutral, so that a speaker cannot name a thing without saying where it stands relative to him. Nine files linked it, all inside north_macedonia. A TITLE IS LEFT WRONG ON PURPOSE: it reads \"the Macedonian Language\" where this package writes the bare name, corrected when north_macedonia migrates. Flagged for native review.",
+    "orthography": "македонски правопис",
+    "review": "native",
+    "tongue": "Macedonian: three definite articles suffixed to the noun, near, far and neutral, where its sisters have one"
   },
   "mt/position_language_mt.md": {
     "from": "malta",
@@ -697,6 +732,13 @@
     "note": "Migrated with nothing cut; it needed nothing. Written in Slovene, and it is its own anchor since sl is the ISO code the file declares. Its Has leads with the feature that earns it at family level and that most of its Slavic relatives gave up: the dual, a grammatical number for exactly two, marked on noun, pronoun and verb alike - midva, midve, sva. Six cases, and a dialect spread the file describes honestly as wider from village to village than many larger languages manage between whole provinces. Migrated in this batch because Austria needs to cast it: Article 7 of the Staatsvertrag guarantees the Carinthian Slovene community its language, and the research settled that what that community writes is Standard Slovene and not a separate Carinthian written norm, so sl is the right file and the Carinthian part belongs in Austria's prose. The title was corrected to \"Slovene\" in the package-only naming pass; it had read \"the Slovene Language\".",
     "orthography": "slovenski pravopis",
     "tongue": "Slovene as such: the dual, and six cases"
+  },
+  "sq/position_language_sq.md": {
+    "from": "albania",
+    "note": "Moved byte for byte, and RENAMED TO THE ANCHOR, on the ar, ro and pt precedent, because it was never a variety. It arrived as sq_al, and nothing in it is Albania's as against Kosovo's or Gheg's: the admirative mood, the definite article suffixed to the noun (mal, mali), and a full case system carrying the noun's role without a preposition are Albanian-wide. Its own declared name is already \"gjuha shqipe\", the Albanian language, and not the Albanian of Albania. The package holds a directory as a language only if that directory holds its anchor, so an sq/ containing only sq_al would have been a directory that is not a language at all. NO sq_al IS WRITTEN: a genuine Kosovo or Gheg variety may be written later, and inventing one now to fill the hole a rename left would be the opposite of this correction. A TITLE IS LEFT WRONG ON PURPOSE: it reads \"the Albanian Language\" where this package writes the bare name, corrected when albania migrates, which is the next pull request in this walk. Ten files linked it, nine inside albania and one in north_macedonia, whose persona_stefan grows up inside both; all now reach the anchor by specifier. Flagged for native review.",
+    "orthography": "drejtshkrimi i gjuhës shqipe",
+    "review": "native",
+    "tongue": "Albanian: the admirative mood, a verb form marking the speaker's own surprise, or that he has the thing only at second hand"
   },
   "sr/position_language_sr.md": {
     "from": "serbia",
