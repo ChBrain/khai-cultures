@@ -55,8 +55,8 @@ stamp:
 - [天命](position_tianming.md)
 - [孝](position_xiao.md)
 - [三教](position_sanjiao.md)
-- [汉语](position_language_zh_cn.md)
-- [文言文](position_language_lzh.md)
+- [汉语](@chbrain/khai-cultures-tongues/zh/position_language_zh.md)
+- [文言文](@chbrain/khai-cultures-tongues/lzh/position_language_lzh.md)
 
 **Pieces**
 

@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **127 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **131 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -80,6 +80,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `en/position_language_en_gb_nir.md`    | Ulster English: the rise on the declarative, and the softeners in front of every claim                                                                    | `en`         |
 | `en/position_language_en_gb_sct.md`    | Scottish English: standard English grammar held in a mouth that keeps the r, the wh and its own vowel timing                                              | `en`         |
 | `en/position_language_en_gb_wls.md`    | Welsh English: the older tongue's prosody and word order surviving inside the newer one                                                                   | `en`         |
+| `en/position_language_en_hk.md`        | Hong Kong English: the tongue of the ordinance and the office in a city that did its living in another                                                    | `en`         |
 | `en/position_language_en_ie.md`        | Hiberno-English: the after-perfect, the habitual does be, and an answer that has to echo the verb                                                         | `en`         |
 | `en/position_language_en_us.md`        | American English: the larger written form, and the unmarked one                                                                                           | `en`         |
 | `en/position_language_en_us_oh.md`     | Ohio English, split between the Inland North and the Midland                                                                                              | `en`         |
@@ -124,6 +125,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `la/position_language_la.md`           | Latin: six cases, free word order, and no living speech community                                                                                         | `la`         |
 | `lt/position_language_lt.md`           | Lithuanian: seven cases and two pitch accents on long syllables, the most conservative of the living Indo-European languages                              | `lt`         |
 | `lv/position_language_lv.md`           | Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables                 | `lv`         |
+| `lzh/position_language_lzh.md`         | Literary Chinese: a written language four countries read and none of them spoke, in which every character is meaning and nothing inflects                 | `lzh`        |
 | `mk/position_language_mk.md`           | Macedonian: three definite articles suffixed to the noun, near, far and neutral, where its sisters have one                                               | `mk`         |
 | `mt/position_language_mt.md`           | Maltese: the only Semitic language in Latin script, carrying a triconsonantal root and a Romance vocabulary in the same word                              | `mt`         |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                           | `nds`        |
@@ -155,6 +157,8 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `tr/position_language_tr_cy.md`        | Cypriot Turkish: as written, the anchor's agglutination under an island's name, and flagged as such                                                       | `tr`         |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                                                              | `vmf`        |
 | `wep/position_language_wep.md`         | Westphalian: Low German, with the breaking no other Low German has                                                                                        | `wep`        |
+| `yue/position_language_yue.md`         | Cantonese: the entering tone kept from Middle Chinese, so that Tang verse still scans when read aloud in it                                               | `zh`         |
+| `zh/position_language_zh.md`           | Chinese: meaning carried by tone and by measure word, and never by a change in the shape of the word itself                                               | `zh`         |
 
 ## Tongues that are not languages
 

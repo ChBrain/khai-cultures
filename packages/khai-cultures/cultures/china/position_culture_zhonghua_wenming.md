@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-对一个绵延数千年、从未真正中断的文明的归属，一个把[汉语](position_language_zh_cn.md)与[文言文](position_language_lzh.md)所写的[汉字](piece_hanzi.md)当作共同书契的民族，纵使南腔北调、方音互不相通，写下来却仍是同一部书。它带着[天命](position_tianming.md)所立的那条兴衰道理，带着儒道释[三教](position_sanjiao.md)合养出的从容与中和，带着以[孝](position_xiao.md)为根、家国相连的人伦。它是一个人不必选择便已带来的东西：先人后己的分寸，重家族甚于重一己的眼光，把自己安放在一条比一生更长的时间之流里的那份踏实。
+对一个绵延数千年、从未真正中断的文明的归属，一个把[汉语](@chbrain/khai-cultures-tongues/zh/position_language_zh.md)与[文言文](@chbrain/khai-cultures-tongues/lzh/position_language_lzh.md)所写的[汉字](piece_hanzi.md)当作共同书契的民族，纵使南腔北调、方音互不相通，写下来却仍是同一部书。它带着[天命](position_tianming.md)所立的那条兴衰道理，带着儒道释[三教](position_sanjiao.md)合养出的从容与中和，带着以[孝](position_xiao.md)为根、家国相连的人伦。它是一个人不必选择便已带来的东西：先人后己的分寸，重家族甚于重一己的眼光，把自己安放在一条比一生更长的时间之流里的那份踏实。
 
 ## Orders
 
