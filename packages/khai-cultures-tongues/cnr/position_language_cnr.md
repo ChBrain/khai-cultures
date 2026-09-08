@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Montenegrin Language"
+title: "Montenegrin"
 declared: "crnogorski jezik"
 language: cnr
 license: CC-BY-NC-SA-4.0

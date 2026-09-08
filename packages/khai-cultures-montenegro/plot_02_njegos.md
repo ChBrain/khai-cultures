@@ -28,11 +28,15 @@ Sredinom 19. vijeka Crna Gora je još plemenska teokratija pod vladikom, mala i 
 
 Od 1830. do 1851. Njegoš vlada i pjeva: smiruje plemena, gradi državu iz kamena i piše "Gorski vijenac", spjev koji sažima junaštvo i čojstvo, slobodu i tragiku gorskoga naroda. Kad umre mlad, sahrane ga, po njegovoj želji, na vrh Lovćena, najbliže nebu i iznad cijele zemlje. Gorski knez postaje pjesnik nacije, a njegov stih njen vrhovni glas.
 
+Dvaput se, dakle, ovaj kodeks spašava od zaborava, i drugi put ga spašava čovjek koji nije pjesnik. [Marko Miljanov](persona_marko_miljanov.md), glavar plemena Kuča i junak bezbroj bojeva, ostade nepismen do starosti, pa onda, već star, nauči slova da bi zapisao "Primjere čojstva i junaštva". Mač koji je postao pero, i jedina definicija koju ovaj narod svuda citira: junaštvo je kad braniš sebe od drugoga, čojstvo je kad braniš drugoga od sebe. [Gorski vijenac](piece_gorski_vijenac.md) i ta knjiga zajedno stavljaju usmeni zakon gore na hartiju - na jeziku kome ime tada još nikoga nije dijelilo.
+
 ## Stage
 
 - [Njegoš](persona_njegos.md): vladika-pjesnik koji narodu daje spjev i Lovćen za svetinju.
 - [junaštvo i čojstvo](position_junastvo_cojstvo.md): kodeks gorskih ratnika sažet u stih.
 - [Lovćen](place_lovcen.md): sveti vrh na kome Njegoš počiva, kruna nacije i slobode.
+- [Gorski vijenac](piece_gorski_vijenac.md): spjev u koji je kodeks stao, i koji narod otad zna napamet.
+- [Marko Miljanov](persona_marko_miljanov.md): glavar Kuča, koji star nauči slova da čojstvo i junaštvo prenese s usta na hartiju.
 
 ## Tension
 

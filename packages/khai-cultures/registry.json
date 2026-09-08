@@ -28002,8 +28002,8 @@
       "title": "Montenegro",
       "description": "Montenegro staged as a culture: a warrior nation of the Black Mountain whose tongue is split by its own name.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/montenegro"
+        "package": "@chbrain/khai-cultures-montenegro",
+        "path": ""
       },
       "iso": "ME",
       "members": [
@@ -28080,6 +28080,12 @@
           "title": "Montenegro"
         },
         {
+          "file": "plot_00_kamen_koji_niko_nije_htio.md",
+          "kind": "plot",
+          "title": "The Stone Nobody Wanted",
+          "taxonomy": "play_montenegro.md"
+        },
+        {
           "file": "plot_01_vjekovi_otpora.md",
           "kind": "plot",
           "title": "Centuries of Resistance",
@@ -28101,6 +28107,12 @@
           "file": "plot_04_nezavisnost_2006.md",
           "kind": "plot",
           "title": "Independence 2006",
+          "taxonomy": "play_montenegro.md"
+        },
+        {
+          "file": "plot_99_popis.md",
+          "kind": "plot",
+          "title": "The Census",
           "taxonomy": "play_montenegro.md"
         },
         {
@@ -28128,7 +28140,8 @@
           "kind": "process",
           "title": "The Oro"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-montenegro"
     },
     {
       "kind": "culture",
