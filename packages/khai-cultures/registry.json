@@ -385,7 +385,7 @@
           "kind": "persona",
           "title": "Ardit",
           "type": "archetype",
-          "taxonomy": "position_language_sq_al.md"
+          "taxonomy": "position_language_sq.md"
         },
         {
           "file": "persona_drita.md",
@@ -399,7 +399,7 @@
           "kind": "persona",
           "title": "Naim Frasheri",
           "type": "real",
-          "taxonomy": "position_language_sq_al.md"
+          "taxonomy": "position_language_sq.md"
         },
         {
           "file": "persona_nene_tereza.md",
@@ -445,7 +445,7 @@
           "file": "plan_shqiponja_ngrihet.md",
           "kind": "plan",
           "title": "the eagle rises",
-          "taxonomy": "position_language_sq_al.md"
+          "taxonomy": "position_language_sq.md"
         },
         {
           "file": "play_albania.md",
@@ -485,11 +485,6 @@
           "file": "position_culture_shqiptaria.md",
           "kind": "position",
           "title": "Albanianism"
-        },
-        {
-          "file": "position_language_sq_al.md",
-          "kind": "position",
-          "title": "the Albanian Language"
         },
         {
           "file": "process_isopolifonia.md",
@@ -2477,11 +2472,6 @@
           "file": "position_culture_bangaliyana.md",
           "kind": "position",
           "title": "Bengaliness"
-        },
-        {
-          "file": "position_language_bn.md",
-          "kind": "position",
-          "title": "the Mother Tongue"
         },
         {
           "file": "position_nadir_desh.md",
@@ -20846,11 +20836,6 @@
           "title": "Dharma"
         },
         {
-          "file": "position_language_hi.md",
-          "kind": "position",
-          "title": "Hindi"
-        },
-        {
           "file": "process_tyohar.md",
           "kind": "process",
           "title": "The Festival"
@@ -21349,11 +21334,6 @@
           "file": "position_honar.md",
           "kind": "position",
           "title": "The Arts"
-        },
-        {
-          "file": "position_language_fa_ir.md",
-          "kind": "position",
-          "title": "Iranian Persian"
         },
         {
           "file": "position_sher.md",
@@ -28126,11 +28106,6 @@
           "title": "Heroism and Humanity"
         },
         {
-          "file": "position_language_cnr.md",
-          "kind": "position",
-          "title": "the Montenegrin Language"
-        },
-        {
           "file": "process_guslanje.md",
           "kind": "process",
           "title": "Singing to the Gusle"
@@ -31089,11 +31064,6 @@
           "file": "position_culture_makedonstvo.md",
           "kind": "position",
           "title": "Macedonian Culture"
-        },
-        {
-          "file": "position_language_mk.md",
-          "kind": "position",
-          "title": "the Macedonian Language"
         },
         {
           "file": "position_ohrid.md",

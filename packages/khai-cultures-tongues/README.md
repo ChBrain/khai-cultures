@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **121 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **127 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -36,8 +36,10 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bar/position_language_bar_wien.md`    | Viennese: Middle Bavarian with one vowel moved, and a vocabulary the countryside never had                                                                | `bar`        |
 | `bfi/position_language_bfi.md`         | British Sign Language: simultaneity, grammar on the face, and reference placed in space                                                                   | `bfi`        |
 | `bg/position_language_bg.md`           | Bulgarian: a full aspect system, and an evidential mood that marks whether the speaker saw a thing or is repeating it                                     | `bg`         |
+| `bn/position_language_bn.md`           | Bengali: no grammatical gender anywhere, and a verb that inflects for the standing of the person spoken to                                                | `bn`         |
 | `br/position_language_br.md`           | Breton: the only Celtic language on the continent, and the one whose speakers had to choose an orthography rather than decline to                         | `br`         |
 | `ca/position_language_ca.md`           | Catalan: the periphrastic past vaig fer, and the weak pronouns hi and en that stand in for a place and a quantity                                         | `ca`         |
+| `cnr/position_language_cnr.md`         | Montenegrin: the letters s with an acute and z with an acute, which no neighbouring standard of the same speech writes                                    | `cnr`        |
 | `co/position_language_co.md`           | Corsican: a polynomic language, where no variety is the norm because none was ever wanted                                                                 | `co`         |
 | `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                                                                | `cs`         |
 | `cu/position_language_cu.md`           | Church Slavonic: the dual number, three past tenses and a vocative, alive in the altar and never in the mouth                                             | `cu`         |
@@ -96,6 +98,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_uy.md`        | Uruguayan Spanish: the voseo with its own conjugation, vos tenés and vos sos                                                                              | `es`         |
 | `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                          | `et`         |
 | `eu/position_language_eu.md`           | Basque: ergative-absolutive case, one auxiliary carrying subject, object and indirect object, and no relatives anywhere                                   | `eu`         |
+| `fa/position_language_fa.md`           | Persian: the ezafe, an unwritten vowel that binds two nouns into one phrase with no preposition and no conjunction                                        | `fa`         |
 | `fi/position_language_fi.md`           | Finnish: fifteen cases doing the work of prepositions, and consonant gradation reshaping the stem as it inflects                                          | `fi`         |
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                                                     | `fr`         |
 | `fr/position_language_fr_be.md`        | Belgian French: the French of a state whose weight moved to the other half                                                                                | `fr`         |
@@ -109,6 +112,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `gd/position_language_gd.md`           | Scottish Gaelic: possession as a preposition rather than a verb, and no single word for yes                                                               | `gd`         |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                                                         | `gsw`        |
 | `gsw/position_language_gsw_fr.md`      | Alsatian: the Alemannic variety whose written roof was removed rather than replaced                                                                       | `gsw`        |
+| `hi/position_language_hi.md`           | Hindi: the same speech that, written in another script and under another name, is counted as a second language                                            | `hi`         |
 | `hr/position_language_hr.md`           | Croatian as such, of which Burgenland Croatian will be a variety                                                                                          | `hr`         |
 | `hsb/position_language_hsb.md`         | Upper Sorbian: West Slavic, and it still has a living dual                                                                                                | `hsb`        |
 | `hu/position_language_hu.md`           | Hungarian as such: agglutination, vowel harmony, and no grammatical gender                                                                                | `hu`         |
@@ -120,6 +124,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `la/position_language_la.md`           | Latin: six cases, free word order, and no living speech community                                                                                         | `la`         |
 | `lt/position_language_lt.md`           | Lithuanian: seven cases and two pitch accents on long syllables, the most conservative of the living Indo-European languages                              | `lt`         |
 | `lv/position_language_lv.md`           | Latvian: diminutives on almost any noun or adjective, definite and indefinite adjective forms, and three pitch contours on long syllables                 | `lv`         |
+| `mk/position_language_mk.md`           | Macedonian: three definite articles suffixed to the noun, near, far and neutral, where its sisters have one                                               | `mk`         |
 | `mt/position_language_mt.md`           | Maltese: the only Semitic language in Latin script, carrying a triconsonantal root and a Romance vocabulary in the same word                              | `mt`         |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                           | `nds`        |
 | `nl/position_language_nl.md`           | Dutch: the -je diminutive on almost any noun, a throat-g no neighbour shares, and modal particles that carry a stance                                     | `nl`         |
@@ -138,6 +143,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `sco/position_language_sco_gb_nir.md`  | Ulster Scots: the only Scots with a standing in law, and the written practice built to sit apart from Scotland's                                          | `sco`        |
 | `sk/position_language_sk.md`           | Slovak: six cases, aspect pairs, no article, and a Czech so close that the difference dissolves in ordinary speech                                        | `sk`         |
 | `sl/position_language_sl.md`           | Slovene as such: the dual, and six cases                                                                                                                  | `sl`         |
+| `sq/position_language_sq.md`           | Albanian: the admirative mood, a verb form marking the speaker's own surprise, or that he has the thing only at second hand                               | `sq`         |
 | `sr/position_language_sr.md`           | Serbian: seven cases carrying every noun's role without a preposition                                                                                     | `sr`         |
 | `sv/position_language_sv.md`           | Swedish as such: definiteness hung on the end of the word, and a tonal accent that separates two identical spellings                                      | `sv`         |
 | `sv/position_language_sv_fi.md`        | Finland Swedish: currently the sv anchor's material under a variety's name                                                                                | `sv`         |

@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures-tongues",
-  "version": "0.54.0",
+  "version": "0.60.0",
   "description": "The tongues of the Cultures house: one khai position per language variety, held by the speech community that speaks it rather than owned by a country.",
   "type": "module",
   "exports": {
@@ -65,12 +65,22 @@
         "parent": "position_language.md"
       },
       {
+        "file": "bn/position_language_bn.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
         "file": "br/position_language_br.md",
         "type": "position",
         "parent": "position_language.md"
       },
       {
         "file": "ca/position_language_ca.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "cnr/position_language_cnr.md",
         "type": "position",
         "parent": "position_language.md"
       },
@@ -365,6 +375,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "fa/position_language_fa.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
         "file": "fi/position_language_fi.md",
         "type": "position",
         "parent": "position_language.md"
@@ -430,6 +445,11 @@
         "parent": "gsw/position_language_gsw.md"
       },
       {
+        "file": "hi/position_language_hi.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
         "file": "hr/position_language_hr.md",
         "type": "position",
         "parent": "position_language.md"
@@ -481,6 +501,11 @@
       },
       {
         "file": "lv/position_language_lv.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "mk/position_language_mk.md",
         "type": "position",
         "parent": "position_language.md"
       },
@@ -571,6 +596,11 @@
       },
       {
         "file": "sl/position_language_sl.md",
+        "type": "position",
+        "parent": "position_language.md"
+      },
+      {
+        "file": "sq/position_language_sq.md",
         "type": "position",
         "parent": "position_language.md"
       },
