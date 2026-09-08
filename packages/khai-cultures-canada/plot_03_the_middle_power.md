@@ -28,11 +28,14 @@ In the years after the Second World War, a middle-sized country beside a superpo
 
 Pearson's idea becomes UN peacekeeping, and he wins the 1956 Nobel Peace Prize for it; the blue beret becomes a Canadian vocation. As prime minister he gives the country its own maple-leaf flag in 1965, brings in medicare, and lays the groundwork for the official multiculturalism declared in 1971. Piece by piece a not-American Canada takes shape: the middle power, the peacekeeper, the welcoming mosaic, the quieter and more communitarian North that holds the common defence of peace in honour and knows itself by its difference from the elephant next door.
 
+The flag is the part that is easy to underrate. Until 1965 the country flew an ensign with another nation's flag in the corner, and the debate over replacing it ran bitterly for months. What went up instead was [the maple leaf](piece_the_maple_leaf.md): no crown, no cross, no other country's canton - a leaf off a tree that grows here. It is the first emblem this dominion ever had that did not point somewhere else.
+
 ## Stage
 
 - [peace, order, and good government](position_pogg.md): the communitarian, not-American temper that finds its vocation in the world.
 - [the mosaic](position_the_mosaic.md): the welcoming, many-peopled country made official policy in 1971.
 - [Lester Pearson](persona_pearson.md): the diplomat and prime minister who gives Canada peacekeeping, the flag, and medicare.
+- [the maple leaf](piece_the_maple_leaf.md): the flag of 1965, the first emblem of this country that is not somebody else's.
 
 ## Tension
 
