@@ -15,6 +15,10 @@ written from this profile and never names a dimension or a number.
 
 ## History behind the plots
 
+- **The fragrant harbour** — the boat-dwelling Tanka of the Pearl River
+  estuary, the salt and pearl trades of the delta, the incense-wood cargo that
+  gave Heung Gong its name, and the natural deep-water anchorage at the river's
+  mouth, all of it before any cession.
 - **The cession and the free port** — the Opium Wars and the cession of Hong Kong
   Island (1842), Kowloon (1860), and the lease of the New Territories (1898); the
   founding of the colonial free port and entrepot.
@@ -27,6 +31,10 @@ written from this profile and never names a dimension or a number.
 - **The contested autonomy** — the constitutional and civic disputes of the
   post-handover decades over the meaning and limits of the autonomy the handover
   promised.
+- **One bag packed** — the removal of the neon signboards under enforcement of
+  the rules on unauthorised structures, the British National (Overseas) route
+  opened in 2021 and the emigration that followed, the Star Ferry's financial
+  difficulty, and the loss of the Jumbo floating restaurant under tow in 2022.
 
 ## Personas from the public record
 

@@ -28,11 +28,14 @@ The mid-twentieth century convulses the mainland, civil war, then revolution, th
 
 [The refugee industrialist](persona_the_refugee_industrialist.md) is the figure who makes that economy: a spare room, a borrowed sewing machine, a single loom, and within a few years a factory turning out textiles, plastics, or toys for export to the world. Thousands of stories like it, multiplied across the resettlement estates, become a manufacturing city almost overnight, all of it worked under the shadow of [the Lion Rock spirit](position_lion_rock_spirit.md), the grit of people with nothing behind them who refuse to be beaten by the climb in front of them. The same hustle finds its way onto film: [Bruce Lee](persona_bruce_lee.md) grows up in the crowded streets of this refugee city and carries its speed, its discipline, and its refusal to yield out into Cantonese cinema and, from there, to the world, so that the fists that once slaved over sewing machines and factory floors are answered, on screen, by fists that never lose.
 
+All of it lands on one peninsula. [Kowloon](place_kowloon.md) takes the arrivals the Island has no room for: the resettlement estates thrown up block by block after the squatter fires, the rooftop schools, the tenement flats where a family lives in one room and a workshop runs in the next. The factories are not in an industrial zone, they are upstairs. **The place that had to hold everyone the harbour could not is where the manufacturing city is actually built**, and its crowded streets are still legible in the city that came after.
+
 ## Stage
 
 - [the refugee industrialist](persona_the_refugee_industrialist.md): the maker who turns a borrowed sewing machine into a factory and a factory into an export economy.
 - [Bruce Lee](persona_bruce_lee.md): the refugee city's discipline and speed, carried out of Cantonese cinema to the whole world.
 - [the Lion Rock spirit](position_lion_rock_spirit.md): the grit of the dispossessed, worked out on tenement roofs and factory floors, that gives the era its name.
+- [Kowloon](place_kowloon.md): the peninsula that had to hold everyone the harbour could not, and did.
 
 ## Tension
 
