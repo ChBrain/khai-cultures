@@ -30985,8 +30985,8 @@
       "title": "North Macedonia",
       "description": "North Macedonia staged as a culture: a young nation whose name, tongue, church and history each neighbour contests.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/north_macedonia"
+        "package": "@chbrain/khai-cultures-north-macedonia",
+        "path": ""
       },
       "iso": "MK",
       "members": [
@@ -31063,6 +31063,12 @@
           "title": "North Macedonia"
         },
         {
+          "file": "plot_00_ezeroto_i_patot.md",
+          "kind": "plot",
+          "title": "The Lake and the Road",
+          "taxonomy": "play_north_macedonia.md"
+        },
+        {
           "file": "plot_01_ohridska_skola.md",
           "kind": "plot",
           "title": "The Ohrid Literary School",
@@ -31084,6 +31090,12 @@
           "file": "plot_04_prespa.md",
           "kind": "plot",
           "title": "The Prespa Agreement",
+          "taxonomy": "play_north_macedonia.md"
+        },
+        {
+          "file": "plot_99_ramo_do_ramo.md",
+          "kind": "plot",
+          "title": "Shoulder to Shoulder",
           "taxonomy": "play_north_macedonia.md"
         },
         {
@@ -31111,7 +31123,8 @@
           "kind": "process",
           "title": "Vodici"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-north-macedonia"
     },
     {
       "kind": "culture",
