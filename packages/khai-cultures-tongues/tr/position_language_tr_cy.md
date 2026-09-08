@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Türkçenin, tek bir kökten onlarca eki üst üste dizerek koca bir cümleyi tek sözcükte taşıma gücü: "-den beri", "-ecekmiş gibi", "-ebilseydik" zincirleri bir düşünceyi çekim ekleriyle inşa eder, başka dilin birkaç sözcükle söylediğini tek kelimeye sığdırır. Ünlü uyumu her heceyi bir öncekinin sesine bağlar, sözü tek bir ezgi gibi akıtır; ve öğrenilmiş bilgiyle görülmüş bilgiyi ayıran -miş ve -di ekleri, söylenen her şeyin kaynağını daha söylerken belli eder.
+Adanın Türkçesi, standart Türkiye Türkçesinden ayrılan kendi kurallarıyla: soru, mI ekiyle değil, sesin yükselmesiyle sorulur, öyle ki yazıya geçirildiğinde soru olduğu görünmez bile. Görülen ile duyulan geçmişi ayıran -mIş, günlük konuşmada büyük ölçüde kullanılmaz; -dI her ikisinin yerine geçer, ve konuşan kişi bildiğini nereden bildiğini işaretlemek zorunda kalmaz. Yüklem cümlenin sonunda durmayı bırakır, sık sık nesneden önce gelir, ki bu ada Rumcasıyla yüzyıllarca yan yana yaşamanın izidir. Ünsüzlerin tonu standarttan başkadır. Söz varlığı da kendinindir: 1571'den kalma, anavatanın çoktan bıraktığı eski Anadolu sözcükleri; İngiliz yıllarından kalan İngilizce; ve ada Rumcasıyla ortak olan, iki toplumun aynı şey için aynı kelimeyi kullandığı yerel sözler.
 
 ## Orders
 
-Her fiilde, olayı gözüyle görüp mü söylediğini yoksa duyup mu aktardığını (-di/-miş) seçmeyi buyurur; her ekte ünlü uyumuna uymayı zorunlu kılar, aksi hâl kulağa yanlış gelir; ve yüklemin cümlenin sonunda gelmesini, önce özneyi ve nesneyi, ekleri üst üste dizerek kurmayı, anlamı ancak son ekle kapamayı emreder.
+İki Türkçe arasında yer seçmeyi buyurur: evde, sokakta ve kahvehanede adanın ağzı, okulda, haberde ve yazıda standart Türkiye Türkçesi, ve konuşan kişi hangi odada olduğunu duyar duymaz geçiş yapar. Soruyu sesle sormayı, ek eklemeden; geçmişi düz söylemeyi, gördüm mü duydum mu diye işaretlemeden; ve adanın şeyleri için adanın sözcüklerini kullanmayı emreder - çizginin öteki yanındaki komşunun da çoğu kez kullandığı sözcükleri.
 
 ## Loses
 
-Fransızca ya da İngilizce gibi dillerin ayırdığı eril/dişil zamiri hiç bilmez; "o" tek başına kadını, erkeği ve nesneyi aynı sözcükle karşılar, oysa komşu diller burada ayrım ister. Ada ağzının kendine has ezgisi ve Osmanlı'dan kalma sözcükleri, standart Türkiye Türkçesinin baskısı altında sivrilmekten çok geriler; İngilizceyle iç içe geçen günlük konuşmada da ödünç sözcükler asıl kökün yerini almaya başlar.
+Yer kaybettiği yer bellidir: okul, televizyon ve anavatanın yayını standardı taşır, ve konuşan kişi kendi ağzını köylü sayıp İstanbul'a doğru düzeltir, öyle ki adanın kendi biçimleri resmî her durumda geri çekilir. İkinci kayıp daha sessizdir: ada Rumcasıyla ortak olan sözcükler, bu ağız Kıbrıslılığından çok Türklüğüyle savunulduğunda ilk bırakılanlardır - yani çizginin iki yanını hâlâ birbirine bağlayan sözler, tam da bağladıkları için atılır.
 
 ## Drives
 
-Onda düşünen kişiyi, sözü söylemeden önce ekleri zihinde sırayla dizmeye, cümleyi ancak sonda kapatılacak bir yapı gibi kurmaya alıştırır; her anlattığı şeyde bunu kendi gözüyle mi gördüğünü yoksa başkasından mı duyduğunu ayırmaya zorlar. Böylece bu dilde büyüyen kişi, konuşmadan önce tamamlamayı ve bildiğini nereden bildiğini işaretlemeyi bir düşünme alışkanlığı hâline getirir.
+Onda büyüyen kişiyi, odanın hangi Türkçeyi istediğini duymaya ve karşılığında geçiş yapmaya alıştırır; iki kayıtla yaşamayı, ikisini de kendi saymayı öğretir. Ve gündelik sözcüklerin içinde, çizginin ayırdığı insanlarla ortak bir ada söz varlığını canlı tutar: aynı peynirin, aynı kahvenin ve aynı panayırın adı, iki dilde, hâlâ aynı köktendir.

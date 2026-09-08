@@ -10140,8 +10140,8 @@
       "title": "Cyprus",
       "description": "Cyprus staged as a culture: an island crossroads, Greek and Turkish, split since 1974 and still unhealed.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/cyprus"
+        "package": "@chbrain/khai-cultures-cyprus",
+        "path": ""
       },
       "iso": "CY",
       "members": [
@@ -10218,6 +10218,12 @@
           "title": "Cyprus"
         },
         {
+          "file": "plot_00_o_chalkos.md",
+          "kind": "plot",
+          "title": "The Copper",
+          "taxonomy": "play_cyprus.md"
+        },
+        {
           "file": "plot_01_stavrodromi.md",
           "kind": "plot",
           "title": "Layer upon Layer",
@@ -10239,6 +10245,12 @@
           "file": "plot_04_entaxi_ee.md",
           "kind": "plot",
           "title": "EU Accession",
+          "taxonomy": "play_cyprus.md"
+        },
+        {
+          "file": "plot_99_challoumi_kai_hellim.md",
+          "kind": "plot",
+          "title": "Halloumi and Hellim",
           "taxonomy": "play_cyprus.md"
         },
         {
@@ -10271,7 +10283,8 @@
           "kind": "process",
           "title": "The Festival"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-cyprus"
     },
     {
       "kind": "culture",
