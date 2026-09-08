@@ -27,9 +27,11 @@ but Iberia is not one tongue or one state.
 
 ## Historical sources
 
-| Subject                   | In this group                                              | Scope                                                                               |
-| ------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| The Treaty of Tordesillas | [plot_01_tordesilhas_1494.md](plot_01_tordesilhas_1494.md) | The 1494 division of the unexplored world between the crowns of Spain and Portugal. |
+| Subject                   | In this group                                                | Scope                                                                                                   |
+| ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| The shared ground         | [plot_00_the_shared_ground.md](plot_00_the_shared_ground.md) | Roman Hispania, al-Andalus, the parallel reconquest columns, and the 1297 Treaty of Alcanices.          |
+| The Treaty of Tordesillas | [plot_01_tordesilhas_1494.md](plot_01_tordesilhas_1494.md)   | The 1494 division of the unexplored world between the crowns of Spain and Portugal.                     |
+| One grid                  | [plot_99_one_grid.md](plot_99_one_grid.md)                   | The April 2025 Iberian blackout, the shared river basins, and depopulation on both sides of the border. |
 
 Content is CC-BY-NC-SA, code is MIT; the grouping is a matter of public record,
 credited and never claimed.

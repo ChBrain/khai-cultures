@@ -34,17 +34,17 @@ Two nations who share a peninsula, a long history, and a pair of close-kin tongu
 
 ## Triggers
 
-**The shared peninsula**
+**[Plot 0: The Shared Ground](plot_00_the_shared_ground.md)**
 
-Roman Hispania, Moorish al-Andalus, and the long Reconquista shaped [Spain](@chbrain/khai-cultures-spain/play_spain.md) and [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) on the same ground before they were two nations.
+Roman Hispania, then al-Andalus, then a reconquest that goes south in parallel columns: the line between [Spain](@chbrain/khai-cultures-spain/play_spain.md) and [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) is where two armies going the same way at the same time stopped touching, fixed in 1297 and the oldest continuous border in Europe.
 
-**The age of discovery**
+**[Plot 1: Tordesilhas, 1494](plot_01_tordesilhas_1494.md)**
 
-The two seaborne crowns opened the ocean routes and, at Tordesillas, divided the unexplored world between them, building rival empires across three continents.
+The two seaborne crowns open the ocean routes and, at Tordesillas, divide the unexplored world between them, building rival empires across three continents.
 
-**The parallel paths**
+**[Plot 99: One Grid](plot_99_one_grid.md)**
 
-Both lost their empires, endured long 20th-century dictatorships, and returned together to democracy and to Europe in 1986, walking the same road a step apart.
+The 2025 blackout takes the whole peninsula down in seconds and makes plain what the rivers, the drought and the emptying interior already showed: one system, joined to Europe by a thread, and two countries in the habit of looking past each other.
 
 ## Stakes
 
