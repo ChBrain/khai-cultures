@@ -32,6 +32,7 @@ In de zestiende eeuw liggen de Lage Landen onder het Spaanse Habsburgse gezag. H
 
 - [Willem van Oranje](persona_willem_van_oranje.md): de edelman die de opstand leidt en er zijn leven voor geeft.
 - [gedogen](position_gedogen.md): de verdraagzaamheid die de handel en de strijd allebei nodig hebben.
+- [Erasmus](persona_erasmus.md): de man die een mensenleven eerder Europa de milde spot en het gesprek boven de brandstapel had voorgehouden, en zonder wie het latere [gedogen](position_gedogen.md) geen wortel heeft.
 
 ## Tension
 

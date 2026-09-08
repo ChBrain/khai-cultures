@@ -20,7 +20,7 @@ build derives the group's `references` from exactly those casts, so the membersh
 can never drift from what the play actually links.
 
 - **Members:** [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md),
-  [the Netherlands](../../cultures/netherlands/play_netherlands.md),
+  [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md),
   [Luxembourg](../../cultures/luxembourg/play_luxembourg.md).
 - **Kind:** `group` (the registry stamps it, so the website can tell it from a
   culture and resolve its members on the map).
