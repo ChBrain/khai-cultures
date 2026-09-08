@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-At the close of the 15th century the two crowns of the peninsula are racing onto the ocean. [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) has crept down the coast of Africa for decades, and [Spain](../../cultures/spain/play_spain.md), fresh from taking Granada, has just sent Columbus west and come back claiming a new world. Two Iberian neighbours suddenly need to decide who owns what across waters neither has finished crossing.
+At the close of the 15th century the two crowns of the peninsula are racing onto the ocean. [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) has crept down the coast of Africa for decades, and [Spain](@chbrain/khai-cultures-spain/play_spain.md), fresh from taking Granada, has just sent Columbus west and come back claiming a new world. Two Iberian neighbours suddenly need to decide who owns what across waters neither has finished crossing.
 
 ## Action
 
@@ -30,7 +30,7 @@ In 1494, with the Pope's blessing, Spain and Portugal sign the Treaty of Tordesi
 
 ## Stage
 
-- [Spain](../../cultures/spain/play_spain.md): the crown of Castile and Aragon, taking the western hemisphere.
+- [Spain](@chbrain/khai-cultures-spain/play_spain.md): the crown of Castile and Aragon, taking the western hemisphere.
 - [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md): the seafaring kingdom, taking the eastern route and Brazil.
 
 ## Tension

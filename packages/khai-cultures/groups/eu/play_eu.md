@@ -39,7 +39,7 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 - [Ireland](@chbrain/khai-cultures-ireland/play_ireland.md) (1973)
 - [Greece](../../cultures/greece/play_greece.md) (1981)
 - [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) (1986)
-- [Spain](../../cultures/spain/play_spain.md) (1986)
+- [Spain](@chbrain/khai-cultures-spain/play_spain.md) (1986)
 - [Austria](@chbrain/khai-cultures-austria/play_austria.md) (1995)
 - [Finland](@chbrain/khai-cultures-finland/play_finland.md) (1995)
 - [Sweden](@chbrain/khai-cultures-sweden/play_sweden.md) (1995)

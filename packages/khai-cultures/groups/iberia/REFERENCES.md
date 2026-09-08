@@ -16,7 +16,7 @@ member plays this group casts, not authored by hand.
 
 | ISO | Country  | Member culture                                               |
 | --- | -------- | ------------------------------------------------------------ |
-| ES  | Spain    | [spain](../../cultures/spain/play_spain.md)                  |
+| ES  | Spain    | [spain](@chbrain/khai-cultures-spain/play_spain.md)          |
 | PT  | Portugal | [portugal](@chbrain/khai-cultures-portugal/play_portugal.md) |
 
 The grouping is bound by a shared geography and history: Roman Hispania, Moorish

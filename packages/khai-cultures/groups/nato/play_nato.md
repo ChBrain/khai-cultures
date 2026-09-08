@@ -44,7 +44,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Greece](../../cultures/greece/play_greece.md) (1952)
 - [Turkey](../../cultures/turkey/play_turkey.md) (1952)
 - [Germany](@chbrain/khai-cultures-germany/play_germany.md) (1955)
-- [Spain](../../cultures/spain/play_spain.md) (1982)
+- [Spain](@chbrain/khai-cultures-spain/play_spain.md) (1982)
 - [Poland](@chbrain/khai-cultures-poland/play_poland.md) (1999)
 - [Czechia](@chbrain/khai-cultures-czechia/play_czechia.md) (1999)
 - [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md) (1999)
