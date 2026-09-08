@@ -49,7 +49,7 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 - [Hungary](@chbrain/khai-cultures-hungary/play_hungary.md) (2004)
 - [Latvia](@chbrain/khai-cultures-latvia/play_latvia.md) (2004)
 - [Lithuania](@chbrain/khai-cultures-lithuania/play_lithuania.md) (2004)
-- [Malta](../../cultures/malta/play_malta.md) (2004)
+- [Malta](@chbrain/khai-cultures-malta/play_malta.md) (2004)
 - [Poland](@chbrain/khai-cultures-poland/play_poland.md) (2004)
 - [Slovakia](@chbrain/khai-cultures-slovakia/play_slovakia.md) (2004)
 - [Slovenia](@chbrain/khai-cultures-slovenia/play_slovenia.md) (2004)

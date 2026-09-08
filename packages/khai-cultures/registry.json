@@ -25970,8 +25970,8 @@
       "title": "Malta",
       "description": "Malta staged as a culture: a tiny island fortress at the heart of the Mediterranean, Semitic in tongue yet Catholic.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/malta"
+        "package": "@chbrain/khai-cultures-malta",
+        "path": ""
       },
       "iso": "MT",
       "members": [
@@ -26048,6 +26048,12 @@
           "title": "Malta"
         },
         {
+          "file": "plot_00_qabel_kulhadd.md",
+          "kind": "plot",
+          "title": "Before Everyone",
+          "taxonomy": "play_malta.md"
+        },
+        {
           "file": "plot_01_san_pawl.md",
           "kind": "plot",
           "title": "St Paul's Shipwreck",
@@ -26069,6 +26075,12 @@
           "file": "plot_04_george_cross.md",
           "kind": "plot",
           "title": "The George Cross and Independence",
+          "taxonomy": "play_malta.md"
+        },
+        {
+          "file": "plot_99_it_tmienja_ta_settembru.md",
+          "kind": "plot",
+          "title": "The Eighth of September",
           "taxonomy": "play_malta.md"
         },
         {
@@ -26096,7 +26108,8 @@
           "kind": "process",
           "title": "The Regatta"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-malta"
     },
     {
       "kind": "culture",
