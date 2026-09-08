@@ -33461,8 +33461,8 @@
       "title": "Romania",
       "description": "Romania staged as a culture: a Latin island in a Slavic-Hungarian sea, descended from Rome's Dacia.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/romania"
+        "package": "@chbrain/khai-cultures-romania",
+        "path": ""
       },
       "iso": "RO",
       "members": [
@@ -33539,6 +33539,12 @@
           "title": "Romania"
         },
         {
+          "file": "plot_00_drumul_oilor.md",
+          "kind": "plot",
+          "title": "The Sheep Road",
+          "taxonomy": "play_romania.md"
+        },
+        {
           "file": "plot_01_dacia.md",
           "kind": "plot",
           "title": "Dacia",
@@ -33560,6 +33566,12 @@
           "file": "plot_04_revolutia_1989.md",
           "kind": "plot",
           "title": "The 1989 Revolution",
+          "taxonomy": "play_romania.md"
+        },
+        {
+          "file": "plot_99_hora_de_august.md",
+          "kind": "plot",
+          "title": "The August Hora",
           "taxonomy": "play_romania.md"
         },
         {
@@ -33587,7 +33599,8 @@
           "kind": "process",
           "title": "The Hora"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-romania"
     },
     {
       "kind": "culture",
