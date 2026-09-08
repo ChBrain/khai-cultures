@@ -33,7 +33,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md) (1949)
 - [France](@chbrain/khai-cultures-france/play_france.md) (1949)
 - [Canada](../../cultures/canada/play_canada.md) (1949)
-- [Italy](../../cultures/italy/play_italy.md) (1949)
+- [Italy](@chbrain/khai-cultures-italy/play_italy.md) (1949)
 - [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md) (1949)
 - [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md) (1949)
 - [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md) (1949)

@@ -21733,8 +21733,8 @@
       "title": "Italy",
       "description": "Italy staged as a culture: a civilization before a state, its national tongue laid late over a peninsula of dialects.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/italy"
+        "package": "@chbrain/khai-cultures-italy",
+        "path": ""
       },
       "iso": "IT",
       "members": [
@@ -21883,7 +21883,8 @@
           "kind": "process",
           "title": "the Table"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-italy"
     },
     {
       "kind": "culture",
