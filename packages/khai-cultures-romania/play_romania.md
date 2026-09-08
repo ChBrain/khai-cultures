@@ -67,6 +67,10 @@ O insulă latină într-o mare de slavi și de unguri: o limbă romanică născu
 
 ## Triggers
 
+**[Plot 0: Drumul oilor](plot_00_drumul_oilor.md)**
+
+După retragerea Romei, peste șes trece toată lumea, iar muntele nu; oamenii cu oile poartă o [limbă latină](@chbrain/khai-cultures-tongues/ro/position_language_ro.md) nescrisă vreme de aproape o mie de ani, până la scrisoarea din 1521, ținută nu de stat și nu de carte, ci de [doină](process_doina.md).
+
 **[Plot 1: Dacia](plot_01_dacia.md)**
 
 În anul 106 Traian îl învinge pe Decebal, Roma colonizează Dacia, și în Carpați se naște o [limbă latină](@chbrain/khai-cultures-tongues/ro/position_language_ro.md) care va rămâne dovada vie a [latinității](position_latinitatea.md) neamului.
@@ -82,6 +86,10 @@ O insulă latină într-o mare de slavi și de unguri: o limbă romanică născu
 **[Plot 4: Revoluția din 1989](plot_04_revolutia_1989.md)**
 
 În decembrie 1989, la [București](place_bucuresti.md), cade și e împușcat Ceaușescu, în singura revoluție sângeroasă din blocul răsăritean, iar [poporul](position_dor.md) intră, prin sânge, în lumea de după comunism.
+
+**[Plot 99: Hora de august](plot_99_hora_de_august.md)**
+
+După 2007 pleacă mai multă lume decât în orice alt răstimp, milioane tocmai printre verii latini din Italia și Spania: [ia](piece_ia.md) se poartă azi în mai multe orașe decât oricând, [hora](process_hora.md) se face în tot mai puține, și amândouă sunt ale acelorași oameni.
 
 ## Stakes
 

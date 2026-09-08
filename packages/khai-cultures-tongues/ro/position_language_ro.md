@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Romanian Language"
+title: "Romanian"
 declared: "limba română"
 language: ro
 license: CC-BY-NC-SA-4.0
