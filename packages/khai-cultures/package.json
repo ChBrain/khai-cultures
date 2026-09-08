@@ -68,6 +68,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@chbrain/khai-cultures-albania": "^0.1.0",
     "@chbrain/khai-cultures-austria": "^0.1.0",
     "@chbrain/khai-cultures-baltics": "^0.1.0",
     "@chbrain/khai-cultures-belgium": "^0.1.0",

@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "the Albanian Language"
+title: "Albanian"
 declared: "gjuha shqipe"
 language: sq
 license: CC-BY-NC-SA-4.0
