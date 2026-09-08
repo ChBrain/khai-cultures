@@ -43324,8 +43324,8 @@
       "title": "the European Union",
       "description": "The European Union as a group: twenty-seven nations that pooled their sovereignty for peace and prosperity.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/eu"
+        "package": "@chbrain/khai-cultures-eu",
+        "path": ""
       },
       "references": [
         "austria",
