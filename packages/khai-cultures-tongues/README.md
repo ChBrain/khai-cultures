@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **113 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **116 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -29,6 +29,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | Variety                                | Tongue                                                                                                                                                    | Language     |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | `ar/position_language_ar.md`           | Arabic as such: the triliteral root and its patterns, and one tongue held in two systems at once                                                          | `ar`         |
+| `ar/position_language_ar_dz.md`        | Algerian Arabic: as written, the anchor's material under a country's name, and flagged as such                                                            | `ar`         |
 | `bar/position_language_bar.md`         | Bavarian as such: the family, spoken across three states and owned by none of them                                                                        | `bar`        |
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                                                                 | `bar`        |
 | `bar/position_language_bar_nord.md`    | Northern Bavarian: the Oberpfalz, and the gestürzte Diphthonge                                                                                            | `bar`        |
@@ -36,6 +37,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bfi/position_language_bfi.md`         | British Sign Language: simultaneity, grammar on the face, and reference placed in space                                                                   | `bfi`        |
 | `bg/position_language_bg.md`           | Bulgarian: a full aspect system, and an evidential mood that marks whether the speaker saw a thing or is repeating it                                     | `bg`         |
 | `br/position_language_br.md`           | Breton: the only Celtic language on the continent, and the one whose speakers had to choose an orthography rather than decline to                         | `br`         |
+| `ca/position_language_ca.md`           | Catalan: the periphrastic past vaig fer, and the weak pronouns hi and en that stand in for a place and a quantity                                         | `ca`         |
 | `co/position_language_co.md`           | Corsican: a polynomic language, where no variety is the norm because none was ever wanted                                                                 | `co`         |
 | `cs/position_language_cs.md`           | Czech: seven cases, aspect on every verb, and a written form nobody speaks                                                                                | `cs`         |
 | `cu/position_language_cu.md`           | Church Slavonic: the dual number, three past tenses and a vocative, alive in the altar and never in the mouth                                             | `cu`         |
@@ -91,6 +93,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                         | `es`         |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                             | `es`         |
 | `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                          | `et`         |
+| `eu/position_language_eu.md`           | Basque: ergative-absolutive case, one auxiliary carrying subject, object and indirect object, and no relatives anywhere                                   | `eu`         |
 | `fi/position_language_fi.md`           | Finnish: fifteen cases doing the work of prepositions, and consonant gradation reshaping the stem as it inflects                                          | `fi`         |
 | `fr/position_language_fr.md`           | French as such, of which every fr_* here is a variety                                                                                                     | `fr`         |
 | `fr/position_language_fr_be.md`        | Belgian French: the French of a state whose weight moved to the other half                                                                                | `fr`         |

@@ -47,7 +47,7 @@ El seny manda en el taller y en la bodega, la rauxa manda en la plaza el día de
 - [el modernismo](position_modernisme_art.md)
 - [la identidad catalana](position_culture_identidad_catalana.md)
 - [el español de Cataluña](position_language_es_es_ct.md)
-- [el català](position_language_ca.md)
+- [el català](@chbrain/khai-cultures-tongues/ca/position_language_ca.md)
 
 **Pieces**
 
