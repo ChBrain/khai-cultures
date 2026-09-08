@@ -50,9 +50,37 @@ function iso(id) {
 }
 
 /** The culture that owns a country code, e.g. "DE" -> "germany". */
+/**
+ * ISO country code -> the culture that holds it, built once.
+ *
+ * WHY THIS IS A MAP AND NOT A LOOP. `parentOf` used to walk every culture in the
+ * house and read each one's `geo.json` until it matched. That is O(house) per
+ * call, and `production_packages.findings` calls it once per SUB-NATIONAL
+ * package, inside a loop over every package - so the canon test paid
+ * O(house x packages) and spent 65 of its 69 seconds here, about 836ms a call
+ * over some seventy sub-national packages, re-reading the same ~319 geo.json
+ * files each time.
+ *
+ * Both halves of that product are things this house is deliberately growing, so
+ * it was getting worse in both directions at once.
+ *
+ * The index is built on first use and held for the process. That is correct for
+ * a test run, which reads a fixed tree; anything that wrote a geo.json mid-run
+ * would need to clear it, and nothing does.
+ */
+let isoIndex = null;
+function isoOwners() {
+  if (isoIndex) return isoIndex;
+  isoIndex = new Map();
+  for (const id of cultureIds()) {
+    const code = iso(id);
+    if (code && !isoIndex.has(code)) isoIndex.set(code, id);
+  }
+  return isoIndex;
+}
+
 export function parentOf(code) {
-  for (const id of cultureIds()) if (iso(id) === code) return id;
-  return null;
+  return isoOwners().get(code) ?? null;
 }
 
 /**
