@@ -67,6 +67,10 @@ Narod na granici: stoljećima predziđe kršćanstva, katolički Zapad okrenut p
 
 ## Triggers
 
+**[Plot 0: Svoja slova](plot_00_svoja_slova.md)**
+
+Oko 1100. na Krku svećenik uklesuje kamenu ploču svojim, slavenskim jezikom i glagoljicom, trećim pismom koje nije ni Rimovo ni istočno; Rim to hrvatskim glagoljašima izrijekom dopušta, i [hrvatstvo](position_culture_hrvatstvo.md) počinje kao pripadnost Zapadu koja se ne poklapa s njegovim jezikom.
+
 **[Plot 1: Dubrovačka Republika](plot_01_dubrovacka_republika.md)**
 
 Stoljećima slobodni trgovački grad-država [Dubrovnik](place_dubrovnik.md) drži svoju Libertas vještom diplomacijom između Venecije i Osmanlija; na [Jadranu](position_jadran.md) cvjeta zlatno doba iz kojega izlazi i [Ruđer Bošković](persona_boskovic.md).
@@ -82,6 +86,10 @@ U 1830-ima i 1840-ima [Ljudevit Gaj](persona_gaj.md) standardizira [hrvatski jez
 **[Plot 4: Domovinski rat](plot_04_domovinski_rat.md)**
 
 Godine 1991. Hrvatska se osamostaljuje od Jugoslavije; pod opsadom padaju [Vukovar](place_vukovar.md) i topovima [Dubrovnik](place_dubrovnik.md), a skupom obranom rađa se vlastita država.
+
+**[Plot 99: Sezona](plot_99_sezona.md)**
+
+Nakon ulaska u Uniju 2013. i u europodručje 2023. popis 2021. broji gotovo desetinu ljudi manje nego deset godina prije, dok je [Jadran](position_jadran.md) puniji nego ikad; [Ivan](persona_ivan.md) radi sezonu i zimuje vani, a [Kata](persona_kata.md) ostaje.
 
 ## Stakes
 

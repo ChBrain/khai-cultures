@@ -55,7 +55,7 @@ Out of the ruins of a continent that had torn itself apart twice in thirty years
 - [Slovenia](@chbrain/khai-cultures-slovenia/play_slovenia.md) (2004)
 - [Bulgaria](../../cultures/bulgaria/play_bulgaria.md) (2007)
 - [Romania](../../cultures/romania/play_romania.md) (2007)
-- [Croatia](../../cultures/croatia/play_croatia.md) (2013)
+- [Croatia](@chbrain/khai-cultures-croatia/play_croatia.md) (2013)
 
 **Personas**
 
