@@ -117,6 +117,44 @@ unless noted).**
   management/orders/** with fallback governance, so an order rides the lane
   of the change it drives, as [`AGENTS.md`](../../AGENTS.md) promises.
 
+**What `language:` means, and what it does not.** The bar above is enforced
+against the language a file declares, and finding 3 above is a list of files
+that broke it. But the field itself was never defined anywhere in this house,
+and it needs to be, because a great many cultures hold more than one language
+and the field holds only one. Measured across all 340 plays: **38 stage more
+than one language family in their own Company.** Switzerland stages five under
+`language: de`; Austria and Bavaria four; Luxembourg three under `fr`; Cyprus
+two under `el`.
+
+The field is not a census and it is not a claim about which language matters
+most. **`language:` is the language the culture meets in** - the one where it
+conducts itself with itself - and for a group, the language the group meets in.
+Switzerland stages Romansh and does not meet in it. That is why the field holds
+one value while the Company holds five, and why the two are not in conflict.
+
+Three things follow, and they are the whole rule:
+
+1. **The declared language is where the play, its plots and its prose are
+   written.** A file that declares one language and is written in another is
+   finding 3, whatever else it stages.
+2. **The other languages are staged, not written in.** They live in the
+   Company as language positions and in the personas who carry them, and a
+   persona may be written in the language that persona meets the world in -
+   which is why cyprus's `persona_mehmet.md` is Turkish inside an `el` culture
+   and is correct.
+3. **A plot has no language of its own.** It inherits the play's, and there is
+   no mechanism for a bilingual plot. That is a real cost and it is accepted
+   here rather than hidden: **cyprus stages a Turkish-speaking community in
+   Greek prose**, because Greek is where that culture meets - even though the
+   play's own Arc says the two communities meet, if they meet, in English. The
+   culture whose defining wound is that it has no shared language is the one
+   this field serves worst. It is still the right field, because the
+   alternative - writing the plot in the language of one community, or in a
+   third - is a heavier claim than the one being avoided.
+
+Where a play's declared language is _not_ where the culture meets, the field is
+wrong and is a defect of the same class as finding 3, not a matter of taste.
+
 ## Targets
 
 - [x] Review the full house - all 288 cultures, play and pitch read in full -
@@ -131,3 +169,9 @@ unless noted).**
       fixes
 - [x] Name the decision items the house must choose: Nauru, Greenland and the
       Faroes, North Korea's register, the Kriol declarations, the rider gap
+- [x] Define `language:` - the language the culture meets in, one value beside
+      a Company that may hold five - and measure the 38 plays that stage more
+      than one
+- [ ] Read the 38 multi-language plays against the definition: a declared
+      language that is not where the culture meets is a defect, and nobody has
+      checked which of the 38 are wrong
