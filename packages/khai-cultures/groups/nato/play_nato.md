@@ -35,7 +35,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 - [Canada](../../cultures/canada/play_canada.md) (1949)
 - [Italy](../../cultures/italy/play_italy.md) (1949)
 - [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md) (1949)
-- [the Netherlands](../../cultures/netherlands/play_netherlands.md) (1949)
+- [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md) (1949)
 - [Luxembourg](../../cultures/luxembourg/play_luxembourg.md) (1949)
 - [Denmark](@chbrain/khai-cultures-denmark/play_denmark.md) (1949)
 - [Norway](@chbrain/khai-cultures-norway/play_norway.md) (1949)
