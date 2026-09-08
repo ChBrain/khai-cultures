@@ -68,6 +68,10 @@ Un État minuscule, longtemps une forteresse convoitée, qui a appris à survivr
 
 ## Triggers
 
+**[Plot 0 : Le Gibraltar du Nord](plot_00_le_gibraltar_du_nord.md)**
+
+Un rocher que tout le monde convoite, fortifié tour à tour par les Bourguignons, les Espagnols, les Français, les Autrichiens et les Prussiens : les gens du pays ne choisissent pas la garnison, apprennent à traiter dans sa langue, et gardent ce qui ne s'occupe pas.
+
 **[Plot 1 : Jean l'Aveugle et Crécy, 1346](plot_01_jean_l_aveugle.md)**
 
 [Jean l'Aveugle](persona_jean_l_aveugle.md) fait d'un comté de carrefour une légende et meurt à Crécy, léguant à un petit pays la [volonté de durer](position_culture_mir_welle_bleiwe.md) plus que les moyens de le faire par la force.
@@ -83,6 +87,10 @@ La minette du [Minett](place_le_minett.md) et l'acier enrichissent l'État neutr
 **[Plot 4 : Luxembourg et l'Europe](plot_04_luxembourg_et_l_europe.md)**
 
 Sur les ruines de l'acier, [Robert Schuman](persona_schuman.md) et l'Europe, puis la [place financière](position_la_place_financiere.md), font du carrefour une capitale, au prix d'une ouverture et d'une dépendance qui ne se referment jamais.
+
+**[Plot 99 : Qui est d'ici](plot_99_qui_est_d_ici.md)**
+
+Près d'un résident sur deux n'a pas la nationalité et près d'un travailleur sur deux [franchit une frontière](process_le_trajet_frontalier.md) chaque matin ; « [rester ce que nous sommes](position_culture_mir_welle_bleiwe.md) » ne demande plus qui prendra le pays, mais qui en est.
 
 ## Stakes
 

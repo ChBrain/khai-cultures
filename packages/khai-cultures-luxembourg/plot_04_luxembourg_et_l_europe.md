@@ -32,6 +32,7 @@ La déclaration Schuman lance la construction européenne, et [Luxembourg-Ville]
 
 - [Robert Schuman](persona_schuman.md): l'homme de la frontière qui fait de l'entre-deux une union.
 - [Luxembourg-Ville](place_luxembourg_ville.md): la capitale du carrefour devenue capitale européenne et financière.
+- [la Gëlle Fra](piece_la_gelle_fra.md): déboulonnée par l'occupant et remontée quarante ans plus tard, le signe qu'un pays plusieurs fois envahi entend durer, et qu'il compte ses morts avant de compter ses banques.
 
 ## Tension
 

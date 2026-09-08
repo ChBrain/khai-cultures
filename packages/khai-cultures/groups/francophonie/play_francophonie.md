@@ -31,7 +31,7 @@ Le monde que la langue française a construit, et qui la reconstruit à son tour
 
 - [la France](@chbrain/khai-cultures-france/play_france.md) (la source de la langue)
 - [la Belgique](@chbrain/khai-cultures-belgium/play_belgium.md)
-- [le Luxembourg](../../cultures/luxembourg/play_luxembourg.md)
+- [le Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md)
 - [la Suisse](@chbrain/khai-cultures-switzerland/play_switzerland.md) (la Romandie)
 - [Monaco](../../cultures/monaco/play_monaco.md)
 - [le Canada](../../cultures/canada/play_canada.md) (le Québec et l'Acadie)

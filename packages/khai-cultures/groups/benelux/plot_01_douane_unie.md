@@ -22,7 +22,7 @@ stamp:
 
 ## Cue
 
-In the last years of the Second World War the governments of [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md), and [Luxembourg](../../cultures/luxembourg/play_luxembourg.md) sit together in exile in London, three small states overrun by a great power for the second time in a generation. Rather than wait to be rescued, they decide to bind their three economies together so that the delta they share can never again be played off, one against another.
+In the last years of the Second World War the governments of [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md), and [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md) sit together in exile in London, three small states overrun by a great power for the second time in a generation. Rather than wait to be rescued, they decide to bind their three economies together so that the delta they share can never again be played off, one against another.
 
 ## Action
 
@@ -32,7 +32,7 @@ In London in 1944 the three sign the customs convention that comes into force in
 
 - [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md): host of the union's seat and soon of the European capital itself.
 - [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md): the trading nation that drives the opening of the delta.
-- [Luxembourg](../../cultures/luxembourg/play_luxembourg.md): the smallest partner, already in customs union with Belgium, that helps prototype the whole.
+- [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md): the smallest partner, already in customs union with Belgium, that helps prototype the whole.
 
 ## Tension
 
