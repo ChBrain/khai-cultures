@@ -32,6 +32,7 @@ En pocos años, y sin nueva guerra, España pasa de la dictadura a la democracia
 
 - [Madrid](place_madrid.md): la capital donde se pacta la Constitución de 1978.
 - [las autonomías](position_las_autonomias.md): el reconocimiento de que España es una y a la vez plural.
+- [Antoni Gaudí](persona_gaudi.md): muerto medio siglo antes, el emblema de lo que las autonomías devuelven, una Cataluña que se reconoce en su propia lengua y en su propio genio sin dejar de ser parte.
 
 ## Tension
 

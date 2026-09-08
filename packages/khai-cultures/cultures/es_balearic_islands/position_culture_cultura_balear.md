@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La pertenencia a una cultura insular forjada por el mar y por siglos de aislamiento mediterráneo: la lengua catalana llegada con la conquista de Jaime I en 1229, el catalán mallorquín que se habla en cada terraza y cada cala, y los oficios heredados del olivar en bancales, la pesca de cofradía y el horneado paciente de la ensaimada. Sus gentes llevan consigo la solidaridad de quien vive rodeado de agua, dependiente del barco y del avión para todo lo que la isla no produce, y el orgullo tranquilo de una tierra pequeña que ha sabido guardar sus praderas de Posidonia bajo el mar como quien guarda un tesoro invisible. Es una manera de ser [española](../spain/position_culture_espanolidad.md), no un segundo pasaporte: la de unas islas que hablan otra lengua en casa sin que eso las ponga fuera.
+La pertenencia a una cultura insular forjada por el mar y por siglos de aislamiento mediterráneo: la lengua catalana llegada con la conquista de Jaime I en 1229, el catalán mallorquín que se habla en cada terraza y cada cala, y los oficios heredados del olivar en bancales, la pesca de cofradía y el horneado paciente de la ensaimada. Sus gentes llevan consigo la solidaridad de quien vive rodeado de agua, dependiente del barco y del avión para todo lo que la isla no produce, y el orgullo tranquilo de una tierra pequeña que ha sabido guardar sus praderas de Posidonia bajo el mar como quien guarda un tesoro invisible. Es una manera de ser [española](@chbrain/khai-cultures-spain/position_culture_espanolidad.md), no un segundo pasaporte: la de unas islas que hablan otra lengua en casa sin que eso las ponga fuera.
 
 ## Orders
 

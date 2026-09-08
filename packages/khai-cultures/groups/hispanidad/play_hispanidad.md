@@ -29,7 +29,7 @@ El mundo que construyó la lengua española. Desde Castilla, la lengua de Cervan
 
 **Miembros**
 
-- [España](../../cultures/spain/play_spain.md) (la madre patria)
+- [España](@chbrain/khai-cultures-spain/play_spain.md) (la madre patria)
 - [México](../../cultures/mexico/play_mexico.md)
 - [Guatemala](../../cultures/guatemala/play_guatemala.md)
 - [Honduras](../../cultures/honduras/play_honduras.md)
@@ -53,7 +53,7 @@ El mundo que construyó la lengua española. Desde Castilla, la lengua de Cervan
 
 **La lengua castellana**
 
-La lengua compartida es el verdadero fundamento de la agrupación: desde [España](../../cultures/spain/play_spain.md) la lengua castellana cruzó el océano y se hizo la lengua materna de dos continentes americanos, de modo que un niño en Buenos Aires y un niño en Madrid crecen en las mismas palabras, la lengua materna más ampliamente compartida de la tierra, un parentesco hablado cada día por cientos de millones.
+La lengua compartida es el verdadero fundamento de la agrupación: desde [España](@chbrain/khai-cultures-spain/play_spain.md) la lengua castellana cruzó el océano y se hizo la lengua materna de dos continentes americanos, de modo que un niño en Buenos Aires y un niño en Madrid crecen en las mismas palabras, la lengua materna más ampliamente compartida de la tierra, un parentesco hablado cada día por cientos de millones.
 
 **La fe católica**
 
@@ -61,11 +61,11 @@ Con la lengua vino la fe católica, llevada por los misioneros junto a la conqui
 
 **Las letras de Cervantes y el Boom**
 
-Una sola literatura corre desde el Siglo de Oro de [España](../../cultures/spain/play_spain.md) hasta el Boom latinoamericano del siglo veinte, Cervantes y García Márquez escribiendo en una sola lengua a través de un océano y de cuatrocientos años, regida en común por las academias española y americanas, de modo que los libros de una orilla son la herencia de la otra.
+Una sola literatura corre desde el Siglo de Oro de [España](@chbrain/khai-cultures-spain/play_spain.md) hasta el Boom latinoamericano del siglo veinte, Cervantes y García Márquez escribiendo en una sola lengua a través de un océano y de cuatrocientos años, regida en común por las academias española y americanas, de modo que los libros de una orilla son la herencia de la otra.
 
 **El Día de la Hispanidad**
 
-Cada octubre el mundo hispanohablante señala el Día de la Hispanidad, el aniversario de la llegada de 1492, una fecha que es ella misma disputada: en [España](../../cultures/spain/play_spain.md) una fiesta nacional de la herencia compartida, en América diversamente un día de orgullo, de resistencia indígena o de duelo por la conquista, una sola fecha leída de maneras opuestas por una sola familia.
+Cada octubre el mundo hispanohablante señala el Día de la Hispanidad, el aniversario de la llegada de 1492, una fecha que es ella misma disputada: en [España](@chbrain/khai-cultures-spain/play_spain.md) una fiesta nacional de la herencia compartida, en América diversamente un día de orgullo, de resistencia indígena o de duelo por la conquista, una sola fecha leída de maneras opuestas por una sola familia.
 
 ## Stakes
 

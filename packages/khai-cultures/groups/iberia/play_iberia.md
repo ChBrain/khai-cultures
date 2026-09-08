@@ -29,14 +29,14 @@ Two nations who share a peninsula, a long history, and a pair of close-kin tongu
 
 **Members**
 
-- [Spain](../../cultures/spain/play_spain.md)
+- [Spain](@chbrain/khai-cultures-spain/play_spain.md)
 - [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md)
 
 ## Triggers
 
 **The shared peninsula**
 
-Roman Hispania, Moorish al-Andalus, and the long Reconquista shaped [Spain](../../cultures/spain/play_spain.md) and [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) on the same ground before they were two nations.
+Roman Hispania, Moorish al-Andalus, and the long Reconquista shaped [Spain](@chbrain/khai-cultures-spain/play_spain.md) and [Portugal](@chbrain/khai-cultures-portugal/play_portugal.md) on the same ground before they were two nations.
 
 **The age of discovery**
 

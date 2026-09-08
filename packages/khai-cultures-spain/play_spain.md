@@ -69,6 +69,10 @@ Una tierra antigua que fue imperio y lo perdió, hecha de muchos reinos cosidos 
 
 ## Triggers
 
+**[Plot 0: El cruce de los pueblos](plot_00_el_cruce_de_los_pueblos.md)**
+
+Por la península pasan y se quedan iberos, fenicios, griegos, romanos, visigodos, judíos, bereberes y árabes, y ninguno borra del todo al anterior: de ese apilamiento salen [Granada](place_granada.md), [la guitarra](piece_la_guitarra.md) y un país que nunca termina de acordar cuál de sus capas es la de verdad.
+
 **[Plot 1: 1492](plot_01_1492.md)**
 
 Los Reyes Católicos toman [Granada](place_granada.md) y cierran la Reconquista; el mismo año zarpan las naves hacia un mundo nuevo, y [el catolicismo](position_el_catolicismo.md) queda como cimiento del reino unido.
@@ -84,6 +88,10 @@ Entre 1936 y 1939 el país se parte en dos y se desangra; [Madrid](place_madrid.
 **[Plot 4: La Transición](plot_04_transicion.md)**
 
 Muerto Franco, el país se da a sí mismo en [Madrid](place_madrid.md) una Constitución y el estado de [las autonomías](position_las_autonomias.md), reconociendo que España es una y a la vez plural.
+
+**[Plot 99: El pueblo en agosto](plot_99_el_pueblo_en_agosto.md)**
+
+La mitad del territorio se ha quedado casi sin gente y los pueblos siguen abriendo una semana al año: [la fiesta](process_la_fiesta.md) y [la sobremesa](process_la_sobremesa.md) funcionan perfectamente en agosto, que es también como funciona un museo.
 
 ## Stakes
 
