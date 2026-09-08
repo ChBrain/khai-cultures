@@ -69,6 +69,10 @@ A country built by joining rather than breaking: the British North American colo
 
 ## Triggers
 
+**[Plot 0: Kanata](plot_00_kanata.md)**
+
+Before there is any road there is water, and [the canoe](piece_the_canoe.md) the first peoples had already built for it; the fur trade runs on their routes, their knowledge and their consent, the [Metis](position_les_deux_peuples.md) are born of it, and Cartier writes down a borrowed word for a village as the name of everything.
+
 **[Plot 1: Confederation (1867)](plot_01_confederation_1867.md)**
 
 In 1867 the British North America Act federates the colonies into a dominion of [peace, order, and good government](position_pogg.md), with [John A. Macdonald](persona_macdonald.md) as its first prime minister and a railway to bind it - a founding that comes at a hard cost to the [first peoples](plot_04_reconciliation.md) and the West.
@@ -84,6 +88,10 @@ The country carries [two peoples](position_les_deux_peuples.md) who mostly canno
 **[Plot 4: reconciliation](plot_04_reconciliation.md)**
 
 The residential schools, the Indian Act, and the harm done to First Nations, Metis, and Inuit are named on the public record; the Truth and Reconciliation Commission begins the reckoning that the [dominion](position_pogg.md) owes the first peoples it was built upon.
+
+**[Plot 99: Forty Million](plot_99_forty_million.md)**
+
+The country passes forty million in 2023 growing faster than any in the G7, then cuts the targets in 2024 because there is nowhere to live; [hockey](process_hockey.md) has to be handed back to the people who play it and [the Timmies run](process_tim_hortons.md) turns out to be owned abroad.
 
 ## Stakes
 

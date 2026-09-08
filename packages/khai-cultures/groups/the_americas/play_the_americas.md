@@ -30,7 +30,7 @@ Two continents joined by an isthmus, peopled first by indigenous civilizations -
 **Members**
 
 - [the United States](../../cultures/usa/play_usa.md) (the colossus of the north, independent 1776)
-- [Canada](../../cultures/canada/play_canada.md) (the northern federation, two founding tongues)
+- [Canada](@chbrain/khai-cultures-canada/play_canada.md) (the northern federation, two founding tongues)
 - [Mexico](../../cultures/mexico/play_mexico.md) (the Aztec heartland and the great mestizo nation)
 - [Guatemala](../../cultures/guatemala/play_guatemala.md) (the Maya highlands of Central America)
 - [Belize](../../cultures/belize/play_belize.md) (the English-speaking corner of Central America)

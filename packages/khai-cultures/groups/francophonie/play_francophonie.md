@@ -34,7 +34,7 @@ Le monde que la langue française a construit, et qui la reconstruit à son tour
 - [le Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md)
 - [la Suisse](@chbrain/khai-cultures-switzerland/play_switzerland.md) (la Romandie)
 - [Monaco](../../cultures/monaco/play_monaco.md)
-- [le Canada](../../cultures/canada/play_canada.md) (le Québec et l'Acadie)
+- [le Canada](@chbrain/khai-cultures-canada/play_canada.md) (le Québec et l'Acadie)
 - [Haïti](../../cultures/haiti/play_haiti.md) (la première république noire)
 - [le Sénégal](../../cultures/senegal/play_senegal.md) (la patrie de Senghor)
 - [le Mali](../../cultures/mali/play_mali.md)
@@ -71,7 +71,7 @@ Avec la langue vinrent les empires : la conquête coloniale française et belge 
 
 **Une seule littérature**
 
-Une littérature d'un seul tenant court de Molière et Hugo à la négritude de Senghor et de Césaire, puis aux lettres africaines, antillaises et québécoises d'aujourd'hui : les écrivains d'[Haïti](../../cultures/haiti/play_haiti.md), du [Sénégal](../../cultures/senegal/play_senegal.md) et du [Canada](../../cultures/canada/play_canada.md) écrivent dans la langue de Paris et la font autre, une bibliothèque commune où chaque rive lit l'autre.
+Une littérature d'un seul tenant court de Molière et Hugo à la négritude de Senghor et de Césaire, puis aux lettres africaines, antillaises et québécoises d'aujourd'hui : les écrivains d'[Haïti](../../cultures/haiti/play_haiti.md), du [Sénégal](../../cultures/senegal/play_senegal.md) et du [Canada](@chbrain/khai-cultures-canada/play_canada.md) écrivent dans la langue de Paris et la font autre, une bibliothèque commune où chaque rive lit l'autre.
 
 **L'OIF**
 

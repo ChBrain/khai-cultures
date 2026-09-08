@@ -5031,8 +5031,8 @@
       "title": "Canada",
       "description": "Canada staged as a culture: a bilingual federation of two peoples and a mosaic, reckoning with its founding wrong.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/canada"
+        "package": "@chbrain/khai-cultures-canada",
+        "path": ""
       },
       "iso": "CA",
       "members": [
@@ -5109,6 +5109,12 @@
           "title": "Canada"
         },
         {
+          "file": "plot_00_kanata.md",
+          "kind": "plot",
+          "title": "Kanata",
+          "taxonomy": "play_canada.md"
+        },
+        {
           "file": "plot_01_confederation_1867.md",
           "kind": "plot",
           "title": "Confederation (1867)",
@@ -5130,6 +5136,12 @@
           "file": "plot_04_reconciliation.md",
           "kind": "plot",
           "title": "Reconciliation",
+          "taxonomy": "play_canada.md"
+        },
+        {
+          "file": "plot_99_forty_million.md",
+          "kind": "plot",
+          "title": "Forty Million",
           "taxonomy": "play_canada.md"
         },
         {
@@ -5162,7 +5174,8 @@
           "kind": "process",
           "title": "The Tim Hortons Run"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-canada"
     },
     {
       "kind": "culture",

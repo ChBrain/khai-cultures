@@ -26,7 +26,7 @@ Long before any sail crossed the ocean, the Americas were home to peoples of the
 
 ## Action
 
-For millennia the two continents grow their own civilizations without contact with the Old World: the Aztec in the valley of [Mexico](../../cultures/mexico/play_mexico.md), the Maya across the highlands of [Guatemala](../../cultures/guatemala/play_guatemala.md) and the lowlands beyond, the Inca ruling the Andes from [Peru](../../cultures/peru/play_peru.md) through [Bolivia](../../cultures/bolivia/play_bolivia.md), and across the north the many nations whose lands would become [the United States](../../cultures/usa/play_usa.md) and [Canada](../../cultures/canada/play_canada.md). The encounter that begins in 1492 brings conquest, and within decades the great empires fall to small bands of Europeans armed with steel, horses, and above all the diseases the New World had never known. The demographic catastrophe that follows is the largest in recorded history: across the hemisphere the indigenous population collapses by a great fraction in the first century after contact, through epidemic, war, and the breaking of whole societies. Yet the first peoples do not vanish. They endure, dispossessed and remade, surviving in the highland nations where they remain the majority and woven into the mestizo peoples of the rest, so that the encounter is at once a catastrophe and the first thread of everything the Americas would become.
+For millennia the two continents grow their own civilizations without contact with the Old World: the Aztec in the valley of [Mexico](../../cultures/mexico/play_mexico.md), the Maya across the highlands of [Guatemala](../../cultures/guatemala/play_guatemala.md) and the lowlands beyond, the Inca ruling the Andes from [Peru](../../cultures/peru/play_peru.md) through [Bolivia](../../cultures/bolivia/play_bolivia.md), and across the north the many nations whose lands would become [the United States](../../cultures/usa/play_usa.md) and [Canada](@chbrain/khai-cultures-canada/play_canada.md). The encounter that begins in 1492 brings conquest, and within decades the great empires fall to small bands of Europeans armed with steel, horses, and above all the diseases the New World had never known. The demographic catastrophe that follows is the largest in recorded history: across the hemisphere the indigenous population collapses by a great fraction in the first century after contact, through epidemic, war, and the breaking of whole societies. Yet the first peoples do not vanish. They endure, dispossessed and remade, surviving in the highland nations where they remain the majority and woven into the mestizo peoples of the rest, so that the encounter is at once a catastrophe and the first thread of everything the Americas would become.
 
 ## Stage
 
@@ -35,7 +35,7 @@ For millennia the two continents grow their own civilizations without contact wi
 - [Bolivia](../../cultures/bolivia/play_bolivia.md): the high Andean heart, where the indigenous majority endures most strongly.
 - [Guatemala](../../cultures/guatemala/play_guatemala.md): the Maya highlands, where the first peoples remain a great part of the nation.
 - [the United States](../../cultures/usa/play_usa.md): the northern continent's many nations and the long story of their dispossession.
-- [Canada](../../cultures/canada/play_canada.md): the First Nations, Inuit, and Metis of the far north.
+- [Canada](@chbrain/khai-cultures-canada/play_canada.md): the First Nations, Inuit, and Metis of the far north.
 
 ## Tension
 
