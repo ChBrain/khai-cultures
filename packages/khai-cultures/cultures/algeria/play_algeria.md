@@ -51,7 +51,7 @@ stamp:
 - [الضِّيافة](position_al_diyafa.md)
 - [الأصل الأمازيغيّ](position_al_amazigh.md)
 - [الإيمان](position_al_iman.md)
-- [العربيّة الجزائريّة](position_language_ar_dz.md)
+- [العربيّة الجزائريّة](@chbrain/khai-cultures-tongues/ar/position_language_ar_dz.md)
 
 **Pieces**
 

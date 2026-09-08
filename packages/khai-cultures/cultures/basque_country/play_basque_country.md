@@ -48,7 +48,7 @@ Hitza hitz: la palabra dada sostiene aquí más pactos que cualquier ley, en est
 - [el derecho foral](position_foral_right.md)
 - [el euskera](position_euskera_heritage.md)
 - [el español del País Vasco](position_language_es_es_pv.md)
-- [euskara](position_language_eu.md)
+- [euskara](@chbrain/khai-cultures-tongues/eu/position_language_eu.md)
 
 **Pieces**
 

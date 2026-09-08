@@ -631,11 +631,6 @@
           "title": "Algerian Identity"
         },
         {
-          "file": "position_language_ar_dz.md",
-          "kind": "position",
-          "title": "Algerian Arabic"
-        },
-        {
           "file": "process_al_couscous.md",
           "kind": "process",
           "title": "Couscous"
@@ -2752,11 +2747,6 @@
           "file": "position_language_es_es_pv.md",
           "kind": "position",
           "title": "Spanish of the Basque Country"
-        },
-        {
-          "file": "position_language_eu.md",
-          "kind": "position",
-          "title": "The Basque Language"
         },
         {
           "file": "process_cider_pouring.md",
@@ -5612,11 +5602,6 @@
           "file": "position_culture_identidad_catalana.md",
           "kind": "position",
           "title": "La Identidad Catalana"
-        },
-        {
-          "file": "position_language_ca.md",
-          "kind": "position",
-          "title": "The Catalan Language"
         },
         {
           "file": "position_language_es_es_ct.md",

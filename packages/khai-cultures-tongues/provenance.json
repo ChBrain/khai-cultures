@@ -6,6 +6,13 @@
     "review": "native",
     "tongue": "Arabic as such: the triliteral root and its patterns, and one tongue held in two systems at once"
   },
+  "ar/position_language_ar_dz.md": {
+    "from": "algeria",
+    "note": "Moved byte for byte, and this is the care point. It is here because spain cannot migrate while it reaches across a relative path for a tongue, and a published production carries no \"../\". But the culture that holds this file is NOT a member of iberia and never will be, so editing it would author a culture nobody opened and charge it for whatever it carries dead. Nothing is changed. It is here because spain's persona_cervantes links it: Cervantes spent five years a captive in Algiers, and the Arabic he heard there is in his Projection. AND IT IS THE sv_fi FAULT WHOLE, not confined to one chapter as pt_br's was. Read against the ar anchor: its Has is the triliteral root deriving dozens of words, its Orders is obligatory gender and the dual, its Loses is the short vowels that are not written, and its Drives is hearing the root echo in every new word. Every one of those is in the anchor, and NOT ONE of them is Algerian - there is no French borrowing, no Berber substrate, no Maghrebi vowel reduction, nothing that would distinguish the Arabic of Algiers from the Arabic of anywhere. It is the anchor's material under a country's name. It is NOT repaired here, because algeria is not a member of iberia and rewriting it would author a culture this walk never opened; that repair belongs to algeria's own migration, which is the pull request that will author it anyway. Nineteen Arabic country files remain in their cultures and this is the first one read closely: on this evidence at least some of the others will be carrying anchor material too, which the ar note predicted. Eight files linked it. Flagged for native review.",
+    "orthography": "الرسم الإملائي المعاصر",
+    "review": "native",
+    "tongue": "Algerian Arabic: as written, the anchor's material under a country's name, and flagged as such"
+  },
   "bar/position_language_bar.md": {
     "note": "Written here as the anchor the family needed. The file that carried this name held Munich's Mittelbairisch under the family's title - the same mistake das bayerische Hochdeutsch was making with Bairisch features - so its content moved down to `bar_mitt` and the anchor was written fresh. What belongs at family level is what every Bairisch variety shares: the -l, the article before a name, es and enk from the old dual, and the missing preterite. Its strongest chapter is Loses, and it is the reason this package exists: Bairisch is spoken in Bavaria, Austria and South Tyrol by some fourteen million people, so the same dialect is a Mundart in one state and close to the state language in another - was in Wien fast s Amtsdeitsch is, gilt in München scho ois Bauernsproch.",
     "orthography": "author's own, Bairisch dialect-writing practice",
@@ -46,6 +53,13 @@
     "orthography": "peurunvan, the unified spelling of 1941 taught in Diwan and most widely written today",
     "review": "native",
     "tongue": "Breton: the only Celtic language on the continent, and the one whose speakers had to choose an orthography rather than decline to"
+  },
+  "ca/position_language_ca.md": {
+    "from": "catalonia",
+    "note": "Moved byte for byte, and this is the care point. It is here because spain cannot migrate while it reaches across a relative path for a tongue, and a published production carries no \"../\". But the culture that holds this file is NOT a member of iberia and never will be, so editing it would author a culture nobody opened and charge it for whatever it carries dead. Nothing is changed. Also already correctly named as the anchor. What it holds is language-wide: the periphrastic past, vaig fer, which replaces the simple preterite in ordinary speech and which no neighbouring Romance language shares in that form; and the weak pronouns hi and en, which stand in for a place and a quantity where Spanish has to repeat the noun. andorra holds ca_ad and valencian_community holds ca_vc, and both are genuine varieties that now have an anchor to hang from; each moves when its own culture does. A TITLE IS LEFT WRONG ON PURPOSE: \"The Catalan Language\" where the package writes the bare name, corrected when catalonia migrates. Five files linked it. Flagged for native review.",
+    "orthography": "la normativa de l'Institut d'Estudis Catalans",
+    "review": "native",
+    "tongue": "Catalan: the periphrastic past vaig fer, and the weak pronouns hi and en that stand in for a place and a quantity"
   },
   "co/position_language_co.md": {
     "note": "Written here, not carried in from a culture: no culture in this house held Corsican, and none could, because the island has no play yet. Every chapter is the office rather than the map. What it keeps that Tuscan let go, the article from ILLU and the ghj/chj that no neighbour writes the same way; what its grammar makes a speaker mark, the initial consonant that changes with whatever stands before it, so that no word can be said alone, and in the south the cacuminal that puts the speaker's own end of the island into every sentence; what it cannot say, the administrative and technical vocabulary that arrives in French unaltered because Corsican was never an official language for a single day, and the impossibility of speaking it from nowhere, since a tongue without a norm offers nobody a place to hide; and how it sorts the world, by teaching that one's own parlata is one among several equally right, which is what polynomy actually is in the mouth rather than in the literature.",
@@ -378,6 +392,13 @@
     "orthography": "eesti õigekiri",
     "review": "native",
     "tongue": "Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound"
+  },
+  "eu/position_language_eu.md": {
+    "from": "basque_country",
+    "note": "Moved byte for byte, and this is the care point. It is here because spain cannot migrate while it reaches across a relative path for a tongue, and a published production carries no \"../\". But the culture that holds this file is NOT a member of iberia and never will be, so editing it would author a culture nobody opened and charge it for whatever it carries dead. Nothing is changed. It arrived already correctly named as the anchor, which is the first time in this walk that has been true and is worth noting: euskara is nobody's national standard, so nobody filed it under a country code. What it holds could not be a variety of anything: an ergative-absolutive case that marks the doer apart from the undergoer, where the Spanish and French on either side of it name both the same way; and a single auxiliary verb that carries subject, object and indirect object at once. It is a language isolate, related to none of its neighbours and to nothing else on the continent, which is the fact the Iberia group has to keep accounting for: the peninsula's oldest tongue is the one that came from nowhere else. A TITLE IS LEFT WRONG ON PURPOSE: it reads \"The Basque Language\" where this package writes the bare name, and it is corrected when basque_country migrates. Six files linked it. Flagged for native review.",
+    "orthography": "Euskaltzaindiaren araugintza",
+    "review": "native",
+    "tongue": "Basque: ergative-absolutive case, one auxiliary carrying subject, object and indirect object, and no relatives anywhere"
   },
   "fi/position_language_fi.md": {
     "from": "finland",
