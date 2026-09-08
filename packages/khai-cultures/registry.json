@@ -9836,8 +9836,8 @@
       "title": "Croatia",
       "description": "Croatia staged as a culture: the Adriatic bulwark of Christendom, late to its own state.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/croatia"
+        "package": "@chbrain/khai-cultures-croatia",
+        "path": ""
       },
       "iso": "HR",
       "members": [
@@ -9914,6 +9914,12 @@
           "title": "Croatia"
         },
         {
+          "file": "plot_00_svoja_slova.md",
+          "kind": "plot",
+          "title": "Their Own Letters",
+          "taxonomy": "play_croatia.md"
+        },
+        {
           "file": "plot_01_dubrovacka_republika.md",
           "kind": "plot",
           "title": "The Republic of Ragusa",
@@ -9935,6 +9941,12 @@
           "file": "plot_04_domovinski_rat.md",
           "kind": "plot",
           "title": "The Homeland War",
+          "taxonomy": "play_croatia.md"
+        },
+        {
+          "file": "plot_99_sezona.md",
+          "kind": "plot",
+          "title": "The Season",
           "taxonomy": "play_croatia.md"
         },
         {
@@ -9962,7 +9974,8 @@
           "kind": "process",
           "title": "Klapa Singing"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-croatia"
     },
     {
       "kind": "culture",
