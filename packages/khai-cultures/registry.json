@@ -43043,8 +43043,8 @@
       "title": "Benelux",
       "description": "Benelux as a group: Belgium, the Netherlands, and Luxembourg, the small delta union that prototyped Europe.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "groups/benelux"
+        "package": "@chbrain/khai-cultures-benelux",
+        "path": ""
       },
       "references": ["belgium", "luxembourg", "netherlands"],
       "members": [
@@ -43054,9 +43054,21 @@
           "title": "Benelux"
         },
         {
+          "file": "plot_00_the_delta.md",
+          "kind": "plot",
+          "title": "The Delta",
+          "taxonomy": "play_benelux.md"
+        },
+        {
           "file": "plot_01_douane_unie.md",
           "kind": "plot",
           "title": "The Customs Union",
+          "taxonomy": "play_benelux.md"
+        },
+        {
+          "file": "plot_99_the_border_that_is_not_there.md",
+          "kind": "plot",
+          "title": "The Border That Is Not There",
           "taxonomy": "play_benelux.md"
         }
       ]

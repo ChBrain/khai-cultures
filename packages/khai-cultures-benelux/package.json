@@ -1,0 +1,30 @@
+{
+  "name": "@chbrain/khai-cultures-benelux",
+  "version": "0.1.0",
+  "description": "khai cultures: benelux, one group of cultures staged as a khai play.",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "type": "module",
+  "files": [
+    "*.md",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "class": "house",
+    "group": "benelux",
+    "anchor": "play_benelux.md"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-belgium": "^0.1.0",
+    "@chbrain/khai-cultures-luxembourg": "^0.1.0",
+    "@chbrain/khai-cultures-netherlands": "^0.1.0"
+  }
+}
