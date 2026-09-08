@@ -31,13 +31,13 @@ Three small countries on the flat, wet edge of the continent that turned their s
 
 - [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md)
 - [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md)
-- [Luxembourg](../../cultures/luxembourg/play_luxembourg.md)
+- [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md)
 
 ## Triggers
 
 **The customs union**
 
-The agreement to drop the borders between [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md), and [Luxembourg](../../cultures/luxembourg/play_luxembourg.md) became the first working model of the integration that built the European Union.
+The agreement to drop the borders between [Belgium](@chbrain/khai-cultures-belgium/play_belgium.md), [the Netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md), and [Luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md) became the first working model of the integration that built the European Union.
 
 **The trading delta**
 

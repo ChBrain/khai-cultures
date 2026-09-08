@@ -18,7 +18,7 @@ this group casts, not authored by hand.
 | --- | --------------- | --------------------------------------------------------------------- |
 | BE  | Belgium         | [belgium](@chbrain/khai-cultures-belgium/play_belgium.md)             |
 | NL  | the Netherlands | [netherlands](@chbrain/khai-cultures-netherlands/play_netherlands.md) |
-| LU  | Luxembourg      | [luxembourg](../../cultures/luxembourg/play_luxembourg.md)            |
+| LU  | Luxembourg      | [luxembourg](@chbrain/khai-cultures-luxembourg/play_luxembourg.md)    |
 
 The grouping is bound by a real treaty union: the customs convention signed in
 London in 1944 (in force 1948), deepened into the Benelux Economic Union by the

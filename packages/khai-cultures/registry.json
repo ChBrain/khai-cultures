@@ -24899,8 +24899,8 @@
       "title": "Luxembourg",
       "description": "Luxembourg staged as a culture: a micro-state that lives in three languages and survives by remaining what it is.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/luxembourg"
+        "package": "@chbrain/khai-cultures-luxembourg",
+        "path": ""
       },
       "iso": "LU",
       "members": [
@@ -24977,6 +24977,12 @@
           "title": "Luxembourg"
         },
         {
+          "file": "plot_00_le_gibraltar_du_nord.md",
+          "kind": "plot",
+          "title": "The Gibraltar of the North",
+          "taxonomy": "play_luxembourg.md"
+        },
+        {
           "file": "plot_01_jean_l_aveugle.md",
           "kind": "plot",
           "title": "John the Blind and Crécy, 1346",
@@ -25001,6 +25007,12 @@
           "taxonomy": "play_luxembourg.md"
         },
         {
+          "file": "plot_99_qui_est_d_ici.md",
+          "kind": "plot",
+          "title": "Who Is From Here",
+          "taxonomy": "play_luxembourg.md"
+        },
+        {
           "file": "position_culture_mir_welle_bleiwe.md",
           "kind": "position",
           "title": "We Want to Remain What We Are"
@@ -25020,7 +25032,8 @@
           "kind": "process",
           "title": "the Cross-Border Commute"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-luxembourg"
     },
     {
       "kind": "culture",
