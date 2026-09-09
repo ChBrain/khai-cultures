@@ -15004,8 +15004,8 @@
       "title": "Ceuta",
       "description": "Ceuta representada: el monte Hacho sobre el Estrecho, las Murallas Reales y el pulso diario de la frontera.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_ceuta"
+        "package": "@chbrain/khai-cultures-es-ceuta",
+        "path": ""
       },
       "iso": "ES-CE",
       "members": [
@@ -15055,6 +15055,12 @@
           "title": "Ceuta"
         },
         {
+          "file": "plot_00_catorce_kilometros.md",
+          "kind": "plot",
+          "title": "Fourteen Kilometres",
+          "taxonomy": "play_ceuta.md"
+        },
+        {
           "file": "plot_01_la_conquista_de_1415.md",
           "kind": "plot",
           "title": "The Conquest of Ceuta",
@@ -15070,6 +15076,12 @@
           "file": "plot_03_el_estatuto_de_1995.md",
           "kind": "plot",
           "title": "The Statute of Autonomy",
+          "taxonomy": "play_ceuta.md"
+        },
+        {
+          "file": "plot_99_la_raya_ya_no_da_de_comer.md",
+          "kind": "plot",
+          "title": "The Line No Longer Feeds",
           "taxonomy": "play_ceuta.md"
         },
         {
@@ -15097,7 +15109,8 @@
           "kind": "process",
           "title": "the round of the four calendars"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-ceuta"
     },
     {
       "kind": "culture",
