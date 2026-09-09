@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **147 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **148 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -31,6 +31,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `an/position_language_an.md`           | Aragonese: the f- and the -it- Castilian let go, and the en/bi that Castilian has no way to say                                                           | `an`         |
 | `ar/position_language_ar.md`           | Arabic as such: the triliteral root and its patterns, and one tongue held in two systems at once                                                          | `ar`         |
 | `ar/position_language_ar_dz.md`        | Algerian Arabic: as written, the anchor's material under a country's name, and flagged as such                                                            | `ar`         |
+| `ar/position_language_ar_ma.md`        | Arabic in Morocco: one root growing a family of words, and two tongues inside one                                                                         | `ar`         |
 | `ast/position_language_ast.md`         | Asturian: the neuter of matter, the -es plural, and a language many of its best speakers were taught not to count                                         | `ast`        |
 | `bar/position_language_bar.md`         | Bavarian as such: the family, spoken across three states and owned by none of them                                                                        | `bar`        |
 | `bar/position_language_bar_mitt.md`    | Central Bavarian: the Danube belt, Munich and Vienna both                                                                                                 | `bar`        |
