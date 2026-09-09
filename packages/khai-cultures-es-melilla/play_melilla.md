@@ -61,6 +61,10 @@ Aquí la ciudad se lee de fuera hacia dentro y cada anillo es una época: la Rus
 
 ## Triggers
 
+**[Plot 0: El único abrigo](plot_00_el_unico_abrigo.md)**
+
+Un peñón con agua abrigada detrás de un cabo, el único fondeadero en muchas millas de una costa sin puertos, al pie de una montaña poblada y difícil de gobernar: esto no controla una travesía, es la puerta de una comarca, y vive de lo que baja de detrás.
+
 **[Plot 1: La Toma de 1497](plot_01_la_toma_de_1497.md)**
 
 Una expedición del duque de Medina Sidonia ocupa en septiembre la Melilla arruinada y vacía, y la convierte en presidio y plaza fuerte encerrada en sí misma durante cuatrocientos años.
@@ -72,6 +76,10 @@ Los ataques a los obreros del ferrocarril minero abren en 1909 la guerra del Rif
 **[Plot 3: La Ciudadanía de 1986](plot_03_la_ciudadania_de_1986.md)**
 
 La ley de extranjería deja como extranjeros en su propia ciudad a miles de melillenses musulmanes, que se organizan hasta conseguir el documento que los nombra españoles.
+
+**[Plot 99: La puerta cerrada](plot_99_la_puerta_cerrada.md)**
+
+La aduana comercial que esta ciudad tenía desde el XIX se cerró desde el otro lado en 2018, el porteo se acabó detrás y la frontera entera estuvo cerrada más de dos años; el 24 de junio de 2022 el perímetro vivió lo más grave de su historia reciente, y lo que queda en pie es el ensanche que pagó el trato que ya no existe.
 
 ## Stakes
 

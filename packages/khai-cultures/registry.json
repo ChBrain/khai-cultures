@@ -15589,8 +15589,8 @@
       "title": "Melilla",
       "description": "Melilla representada: la ciudadela sobre el mar de Alborán, el ensanche modernista y la raya de Beni Enzar.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_melilla"
+        "package": "@chbrain/khai-cultures-es-melilla",
+        "path": ""
       },
       "iso": "ES-ML",
       "members": [
@@ -15640,6 +15640,12 @@
           "title": "Melilla"
         },
         {
+          "file": "plot_00_el_unico_abrigo.md",
+          "kind": "plot",
+          "title": "The Only Shelter",
+          "taxonomy": "play_melilla.md"
+        },
+        {
           "file": "plot_01_la_toma_de_1497.md",
           "kind": "plot",
           "title": "The Taking of Melilla",
@@ -15655,6 +15661,12 @@
           "file": "plot_03_la_ciudadania_de_1986.md",
           "kind": "plot",
           "title": "The Citizenship Fight",
+          "taxonomy": "play_melilla.md"
+        },
+        {
+          "file": "plot_99_la_puerta_cerrada.md",
+          "kind": "plot",
+          "title": "The Closed Door",
           "taxonomy": "play_melilla.md"
         },
         {
@@ -15682,7 +15694,8 @@
           "kind": "process",
           "title": "the daily crossing at Beni Enzar"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-melilla"
     },
     {
       "kind": "culture",
