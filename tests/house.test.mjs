@@ -37,6 +37,14 @@ import {
 } from "./culture_sources.mjs";
 import { hasOrigin } from "./plot_zero.mjs";
 import {
+  body as proseBody,
+  declaredLanguage,
+  marked,
+  flat,
+  accentUsing,
+  findings as flatFindings,
+} from "./diacritic_conformance.mjs";
+import {
   groups as allGroups,
   groupIds,
   coverage as groupCoverage,
@@ -637,5 +645,61 @@ describe("Cultures house: a changeset can be committed on a lane the guard compu
     );
     expect(branchScope.shared).not.toContain(".changeset/**");
     expect(branchScope.riders).toContainEqual({ pattern: ".changeset/**", fallback: "governance" });
+  });
+});
+
+// The wall that reads whether prose is spelled in the language it claims. What
+// runs here is the reading, not the gate: the gate needs a diff and runs in CI.
+// Fifty files are flat today and that is not an error - the ratchet fires on
+// prose a pull request writes, so the count comes down as the house is walked.
+// See management/orders/order_the_written_accent.md.
+describe("Cultures house: prose is spelled in the language it declares", () => {
+  const es = { name: "es", accented: new Set(["es"]) };
+  const fm = (lang, prose) => `---\nkhai: position\nlanguage: ${lang}\n---\n\n${prose}`;
+  const long = (w) => Array.from({ length: 80 }, () => w).join(" ");
+
+  it("reads the declared language and drops the frontmatter from the prose", () => {
+    const text = fm("es", "una frase cualquiera");
+    expect(declaredLanguage(text)).toBe("es");
+    expect(proseBody(text)).not.toContain("khai:");
+    expect(proseBody(text)).toContain("una frase");
+  });
+
+  it("sees a combining mark however the file is normalised", () => {
+    expect(marked("cancion")).toBe(false);
+    expect(marked("canci\u00f3n")).toBe(true); // precomposed
+    expect(marked("cancio\u0301n")).toBe(true); // decomposed
+  });
+
+  // The whole reason the wall asks about zero marks and not about too few: both
+  // spellings below are correct Spanish, and no counter can choose between them.
+  it("does not read individual words, only whether the file has any mark at all", () => {
+    expect(flat(fm("es", long("est\u00e1")), es.accented)).toBeNull();
+    expect(flat(fm("es", `${long("esta")} caf\u00e9`), es.accented)).toBeNull();
+    expect(flat(fm("es", long("esta")), es.accented)).toBe("es");
+  });
+
+  it("says nothing about a language this house does not write with accents", () => {
+    expect(flat(fm("en", long("plain")), es.accented)).toBeNull();
+  });
+
+  it("spares a stub, which is too short to have owed an accent", () => {
+    expect(flat(fm("es", "una linea corta"), es.accented)).toBeNull();
+  });
+
+  it("decides which languages are accented from the house itself", () => {
+    const accented = accentUsing();
+    for (const l of ["es", "fr", "pt", "it", "de"]) expect(accented.has(l)).toBe(true);
+    for (const l of ["en", "ms", "id"]) expect(accented.has(l)).toBe(false);
+  });
+
+  // The finding this wall was written for, held as a fact so it cannot be lost:
+  // the flat files are two different faults wearing one symptom, and the larger
+  // one is a `language:` that names a language the file is not written in.
+  it("finds the flat files, and most of them are creole declared as Portuguese", () => {
+    const rows = flatFindings();
+    expect(rows.length).toBeGreaterThan(0);
+    const pt = rows.filter(([, l]) => l === "pt").map(([p]) => p);
+    expect(pt.every((p) => /cape_verde|guinea_bissau/.test(p))).toBe(true);
   });
 });

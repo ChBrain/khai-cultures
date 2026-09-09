@@ -53,6 +53,11 @@
       "count": "Productions(?: OK)?: (.+)"
     },
     {
+      "name": "diacritics",
+      "command": "node tests/diacritic_conformance.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Diacritics(?: OK)?: (.+)"
+    },
+    {
       "name": "links",
       "command": "node tests/link_resolution.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
       "count": "Links(?: OK)?: (.+)"
