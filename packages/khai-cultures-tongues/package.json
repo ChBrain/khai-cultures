@@ -40,6 +40,11 @@
         "parent": "ar/position_language_ar.md"
       },
       {
+        "file": "ar/position_language_ar_ma.md",
+        "type": "position",
+        "parent": "ar/position_language_ar.md"
+      },
+      {
         "file": "ast/position_language_ast.md",
         "type": "position",
         "parent": "position_language.md"
