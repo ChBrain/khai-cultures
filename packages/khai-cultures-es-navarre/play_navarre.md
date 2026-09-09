@@ -47,7 +47,7 @@ El fuero es aquí palabra vieja que todavía manda, y el encierro de San Fermín
 - [la cultura navarra](position_culture_cultura_navarra.md)
 - [los fueros navarros](position_navarrese_fueros.md)
 - [la Navarra montañesa](position_navarra_montanesa.md)
-- [el español navarro](position_language_es_es_nc.md)
+- [el español navarro](@chbrain/khai-cultures-tongues/es/position_language_es_es_nc.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ El fuero es aquí palabra vieja que todavía manda, y el encierro de San Fermín
 
 ## Triggers
 
+**[Plot 0: La puerta](plot_00_la_puerta.md)**
+
+En el extremo occidental del Pirineo está el único paso cómodo, y por él entró en Iberia todo lo que entró por tierra; guardar esa puerta hace nacer un reino que sostiene a la vez la montaña y la Ribera, dos mitades que se necesitan sin parecerse, y por eso su ley es [pacto](position_navarrese_fueros.md) y no decreto.
+
 **[Plot 1: La Batalla de Roncesvalles 778](plot_01_roncesvalles.md)**
 
 Los vascones emboscan y derrotan a las tropas de Carlomagno en el paso pirenaico, cantada en el Cantar de Roldán.
@@ -75,6 +79,10 @@ La novela de Hemingway difunde internacionalmente los encierros y la feria tauri
 **[Plot 3: La Protección de Irati 1990](plot_03_irati.md)**
 
 La comunidad foral aprueba la normativa de protección de la selva de Irati, preservando el mayor hayedo-abetal de Europa.
+
+**[Plot 99: La ciudad de todos](plot_99_la_ciudad_de_todos.md)**
+
+Una fiesta sin entrada averigua que no tener puerta no es lo mismo que ser segura para cualquiera: de una agresión en los sanfermines de 2016 sale una sentencia, la mayor manifestación en la propia Pamplona y, en 2022, un cambio en la ley penal del país entero.
 
 ## Stakes
 

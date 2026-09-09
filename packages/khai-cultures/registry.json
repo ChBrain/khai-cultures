@@ -15222,6 +15222,125 @@
     },
     {
       "kind": "culture",
+      "id": "es_navarre",
+      "title": "Navarra",
+      "description": "Navarra representada: los hayedos de la selva de Irati, los encierros de Pamplona y los espárragos de la Ribera.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-navarre",
+        "path": ""
+      },
+      "iso": "ES-NC",
+      "members": [
+        {
+          "file": "persona_ane.md",
+          "kind": "persona",
+          "title": "Ane",
+          "type": "archetype",
+          "taxonomy": "position_navarra_montanesa.md"
+        },
+        {
+          "file": "persona_fermin.md",
+          "kind": "persona",
+          "title": "Fermin",
+          "type": "archetype",
+          "taxonomy": "position_navarrese_fueros.md"
+        },
+        {
+          "file": "piece_beechwood_she_stick.md",
+          "kind": "piece",
+          "title": "La Vara de Haya de la Selva de Irati"
+        },
+        {
+          "file": "piece_red_pamplona_scarf.md",
+          "kind": "piece",
+          "title": "El Pañuelico Rojo de San Fermín"
+        },
+        {
+          "file": "pitch_navarre.md",
+          "kind": "pitch",
+          "title": "El Tono Navarro",
+          "taxonomy": "play_navarre.md"
+        },
+        {
+          "file": "place_estafeta_street.md",
+          "kind": "place",
+          "title": "La Calle Estafeta de Pamplona"
+        },
+        {
+          "file": "place_irati_forest.md",
+          "kind": "place",
+          "title": "La Selva de Irati"
+        },
+        {
+          "file": "plan_irati_forest_conservation.md",
+          "kind": "plan",
+          "title": "El Plan de Conservación del Hayedo de Irati"
+        },
+        {
+          "file": "play_navarre.md",
+          "kind": "play",
+          "title": "Navarra"
+        },
+        {
+          "file": "plot_00_la_puerta.md",
+          "kind": "plot",
+          "title": "The Door",
+          "taxonomy": "play_navarre.md"
+        },
+        {
+          "file": "plot_01_roncesvalles.md",
+          "kind": "plot",
+          "title": "La Batalla de Roncesvalles",
+          "taxonomy": "play_navarre.md"
+        },
+        {
+          "file": "plot_02_san_fermin.md",
+          "kind": "plot",
+          "title": "Fiesta y Encierro",
+          "taxonomy": "play_navarre.md"
+        },
+        {
+          "file": "plot_03_irati.md",
+          "kind": "plot",
+          "title": "La Protección de Irati",
+          "taxonomy": "play_navarre.md"
+        },
+        {
+          "file": "plot_99_la_ciudad_de_todos.md",
+          "kind": "plot",
+          "title": "Everyone's City",
+          "taxonomy": "play_navarre.md"
+        },
+        {
+          "file": "position_culture_cultura_navarra.md",
+          "kind": "position",
+          "title": "Navarrese Culture"
+        },
+        {
+          "file": "position_navarra_montanesa.md",
+          "kind": "position",
+          "title": "La Navarra Montañesa"
+        },
+        {
+          "file": "position_navarrese_fueros.md",
+          "kind": "position",
+          "title": "Los Fueros Navarros"
+        },
+        {
+          "file": "process_asparagus_peeling.md",
+          "kind": "process",
+          "title": "pelado y procesado artesanal de Espárrago de Navarra"
+        },
+        {
+          "file": "process_bull_running.md",
+          "kind": "process",
+          "title": "encierro tradicional de toros en San Fermín"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-navarre"
+    },
+    {
+      "kind": "culture",
       "id": "es_valencian_community",
       "title": "Comunidad Valenciana",
       "description": "Comunidad Valenciana representada: los arrozales de la Albufera, el estallido de las Fallas y la huerta de naranjos.",
@@ -29110,117 +29229,6 @@
           "file": "process_frigatebird_catching.md",
           "kind": "process",
           "title": "Frigatebird Catching"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "navarre",
-      "title": "Navarra",
-      "description": "Navarra representada: los hayedos de la selva de Irati, los encierros de Pamplona y los espárragos de la Ribera.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/navarre"
-      },
-      "iso": "ES-NC",
-      "members": [
-        {
-          "file": "persona_ane.md",
-          "kind": "persona",
-          "title": "Ane",
-          "type": "archetype",
-          "taxonomy": "position_navarra_montanesa.md"
-        },
-        {
-          "file": "persona_fermin.md",
-          "kind": "persona",
-          "title": "Fermin",
-          "type": "archetype",
-          "taxonomy": "position_navarrese_fueros.md"
-        },
-        {
-          "file": "piece_beechwood_she_stick.md",
-          "kind": "piece",
-          "title": "La Vara de Haya de la Selva de Irati"
-        },
-        {
-          "file": "piece_red_pamplona_scarf.md",
-          "kind": "piece",
-          "title": "El Pañuelico Rojo de San Fermín"
-        },
-        {
-          "file": "pitch_navarre.md",
-          "kind": "pitch",
-          "title": "El Tono Navarro",
-          "taxonomy": "play_navarre.md"
-        },
-        {
-          "file": "place_estafeta_street.md",
-          "kind": "place",
-          "title": "La Calle Estafeta de Pamplona"
-        },
-        {
-          "file": "place_irati_forest.md",
-          "kind": "place",
-          "title": "La Selva de Irati"
-        },
-        {
-          "file": "plan_irati_forest_conservation.md",
-          "kind": "plan",
-          "title": "El Plan de Conservación del Hayedo de Irati"
-        },
-        {
-          "file": "play_navarre.md",
-          "kind": "play",
-          "title": "Navarra"
-        },
-        {
-          "file": "plot_01_roncesvalles.md",
-          "kind": "plot",
-          "title": "La Batalla de Roncesvalles",
-          "taxonomy": "play_navarre.md"
-        },
-        {
-          "file": "plot_02_san_fermin.md",
-          "kind": "plot",
-          "title": "Fiesta y Encierro",
-          "taxonomy": "play_navarre.md"
-        },
-        {
-          "file": "plot_03_irati.md",
-          "kind": "plot",
-          "title": "La Protección de Irati",
-          "taxonomy": "play_navarre.md"
-        },
-        {
-          "file": "position_culture_cultura_navarra.md",
-          "kind": "position",
-          "title": "Navarrese Culture"
-        },
-        {
-          "file": "position_language_es_es_nc.md",
-          "kind": "position",
-          "title": "Navarrese Spanish"
-        },
-        {
-          "file": "position_navarra_montanesa.md",
-          "kind": "position",
-          "title": "La Navarra Montañesa"
-        },
-        {
-          "file": "position_navarrese_fueros.md",
-          "kind": "position",
-          "title": "Los Fueros Navarros"
-        },
-        {
-          "file": "process_asparagus_peeling.md",
-          "kind": "process",
-          "title": "pelado y procesado artesanal de Espárrago de Navarra"
-        },
-        {
-          "file": "process_bull_running.md",
-          "kind": "process",
-          "title": "encierro tradicional de toros en San Fermín"
         }
       ]
     },
