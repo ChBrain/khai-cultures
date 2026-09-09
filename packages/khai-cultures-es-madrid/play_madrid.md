@@ -47,7 +47,7 @@ Nadie es forastero del todo en esta ciudad de acogida: aquí se dice que "de Mad
 - [la madrileñidad](position_culture_madrilenidad.md)
 - [la capitalidad](position_madrid_capitality.md)
 - [el habla madrileña](position_castilian_dialect.md)
-- [el espanol madrileno](position_language_es_es_md.md)
+- [el espanol madrileno](@chbrain/khai-cultures-tongues/es/position_language_es_es_md.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ Nadie es forastero del todo en esta ciudad de acogida: aquí se dice que "de Mad
 
 ## Triggers
 
+**[Plot 0: El agua que no se ve](plot_00_el_agua_que_no_se_ve.md)**
+
+Aquí no hay río ni puerto ni motivo: solo el agua que baja por debajo desde [el Guadarrama](place_guadarrama.md) y los puertos de esa sierra, que explican la fortaleza del siglo IX y la corte de 1561, elegida por no tener nada propio que defender.
+
 **[Plot 1: La Elección de la Corte 1561](plot_01_capitality.md)**
 
 Felipe II traslada la corte imperial de Toledo a Madrid, transformando la villa castellana en la capital permanente.
@@ -75,6 +79,10 @@ El pueblo madrileño se alza en armas contra las tropas de Napoleón, iniciando 
 **[Plot 3: El Estatuto de Madrid 1983](plot_03_statute.md)**
 
 Madrid se constituye en comunidad autónoma uniprovincial, asumiendo competencias plenas de educación y sanidad.
+
+**[Plot 99: El aire y el alquiler](plot_99_el_aire_y_el_alquiler.md)**
+
+La zona de bajas emisiones limpió el aire del centro, que es lo que se arregla con un expediente; el mismo centro se llenó de pisos turísticos y de un alquiler que la villa no sabe tramitar, como ya le pasó al llegar la corte en 1561.
 
 ## Stakes
 

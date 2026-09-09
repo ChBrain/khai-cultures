@@ -15121,6 +15121,125 @@
     },
     {
       "kind": "culture",
+      "id": "es_madrid",
+      "title": "Madrid",
+      "description": "Madrid representado: las avenidas de la capitalidad, la Puerta del Sol y las tabernas donde hierve el cocido.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-madrid",
+        "path": ""
+      },
+      "iso": "ES-MD",
+      "members": [
+        {
+          "file": "persona_elena.md",
+          "kind": "persona",
+          "title": "Elena",
+          "type": "archetype",
+          "taxonomy": "position_castilian_dialect.md"
+        },
+        {
+          "file": "persona_felipe.md",
+          "kind": "persona",
+          "title": "Felipe",
+          "type": "archetype",
+          "taxonomy": "position_madrid_capitality.md"
+        },
+        {
+          "file": "piece_capitol_model.md",
+          "kind": "piece",
+          "title": "La Maqueta de Bronce del Congreso"
+        },
+        {
+          "file": "piece_cocido_clay_pot.md",
+          "kind": "piece",
+          "title": "El Puchero Tradicional de Barro"
+        },
+        {
+          "file": "pitch_madrid.md",
+          "kind": "pitch",
+          "title": "El Tono Madrileño",
+          "taxonomy": "play_madrid.md"
+        },
+        {
+          "file": "place_guadarrama.md",
+          "kind": "place",
+          "title": "La Sierra de Guadarrama"
+        },
+        {
+          "file": "place_puerta_sol.md",
+          "kind": "place",
+          "title": "La Puerta del Sol"
+        },
+        {
+          "file": "plan_madrid_clean_air.md",
+          "kind": "plan",
+          "title": "El Plan de Aire Limpio de Madrid"
+        },
+        {
+          "file": "play_madrid.md",
+          "kind": "play",
+          "title": "Madrid"
+        },
+        {
+          "file": "plot_00_el_agua_que_no_se_ve.md",
+          "kind": "plot",
+          "title": "The Water You Cannot See",
+          "taxonomy": "play_madrid.md"
+        },
+        {
+          "file": "plot_01_capitality.md",
+          "kind": "plot",
+          "title": "La Elección de la Corte",
+          "taxonomy": "play_madrid.md"
+        },
+        {
+          "file": "plot_02_uprising.md",
+          "kind": "plot",
+          "title": "El Levantamiento del Dos de Mayo",
+          "taxonomy": "play_madrid.md"
+        },
+        {
+          "file": "plot_03_statute.md",
+          "kind": "plot",
+          "title": "El Estatuto de Madrid",
+          "taxonomy": "play_madrid.md"
+        },
+        {
+          "file": "plot_99_el_aire_y_el_alquiler.md",
+          "kind": "plot",
+          "title": "The Air and the Rent",
+          "taxonomy": "play_madrid.md"
+        },
+        {
+          "file": "position_castilian_dialect.md",
+          "kind": "position",
+          "title": "El Habla Madrileña"
+        },
+        {
+          "file": "position_culture_madrilenidad.md",
+          "kind": "position",
+          "title": "Madrid Culture"
+        },
+        {
+          "file": "position_madrid_capitality.md",
+          "kind": "position",
+          "title": "La Capitalidad"
+        },
+        {
+          "file": "process_cocido_cooking.md",
+          "kind": "process",
+          "title": "cocción tradicional de Cocido Madrileño"
+        },
+        {
+          "file": "process_tapas_crawl.md",
+          "kind": "process",
+          "title": "tapeo tradicional de Taberna"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-madrid"
+    },
+    {
+      "kind": "culture",
       "id": "es_melilla",
       "title": "Melilla",
       "description": "Melilla representada: la ciudadela sobre el mar de Alborán, el ensanche modernista y la raya de Beni Enzar.",
@@ -25466,117 +25585,6 @@
           "file": "process_ny_fambolena_vary.md",
           "kind": "process",
           "title": "the Growing of Rice"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "madrid",
-      "title": "Madrid",
-      "description": "Madrid representado: las avenidas de la capitalidad, la Puerta del Sol y las tabernas donde hierve el cocido.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/madrid"
-      },
-      "iso": "ES-MD",
-      "members": [
-        {
-          "file": "persona_elena.md",
-          "kind": "persona",
-          "title": "Elena",
-          "type": "archetype",
-          "taxonomy": "position_castilian_dialect.md"
-        },
-        {
-          "file": "persona_felipe.md",
-          "kind": "persona",
-          "title": "Felipe",
-          "type": "archetype",
-          "taxonomy": "position_madrid_capitality.md"
-        },
-        {
-          "file": "piece_capitol_model.md",
-          "kind": "piece",
-          "title": "La Maqueta de Bronce del Congreso"
-        },
-        {
-          "file": "piece_cocido_clay_pot.md",
-          "kind": "piece",
-          "title": "El Puchero Tradicional de Barro"
-        },
-        {
-          "file": "pitch_madrid.md",
-          "kind": "pitch",
-          "title": "El Tono Madrileño",
-          "taxonomy": "play_madrid.md"
-        },
-        {
-          "file": "place_guadarrama.md",
-          "kind": "place",
-          "title": "La Sierra de Guadarrama"
-        },
-        {
-          "file": "place_puerta_sol.md",
-          "kind": "place",
-          "title": "La Puerta del Sol"
-        },
-        {
-          "file": "plan_madrid_clean_air.md",
-          "kind": "plan",
-          "title": "El Plan de Aire Limpio de Madrid"
-        },
-        {
-          "file": "play_madrid.md",
-          "kind": "play",
-          "title": "Madrid"
-        },
-        {
-          "file": "plot_01_capitality.md",
-          "kind": "plot",
-          "title": "La Elección de la Corte",
-          "taxonomy": "play_madrid.md"
-        },
-        {
-          "file": "plot_02_uprising.md",
-          "kind": "plot",
-          "title": "El Levantamiento del Dos de Mayo",
-          "taxonomy": "play_madrid.md"
-        },
-        {
-          "file": "plot_03_statute.md",
-          "kind": "plot",
-          "title": "El Estatuto de Madrid",
-          "taxonomy": "play_madrid.md"
-        },
-        {
-          "file": "position_castilian_dialect.md",
-          "kind": "position",
-          "title": "El Habla Madrileña"
-        },
-        {
-          "file": "position_culture_madrilenidad.md",
-          "kind": "position",
-          "title": "Madrid Culture"
-        },
-        {
-          "file": "position_language_es_es_md.md",
-          "kind": "position",
-          "title": "Madrid Spanish"
-        },
-        {
-          "file": "position_madrid_capitality.md",
-          "kind": "position",
-          "title": "La Capitalidad"
-        },
-        {
-          "file": "process_cocido_cooking.md",
-          "kind": "process",
-          "title": "cocción tradicional de Cocido Madrileño"
-        },
-        {
-          "file": "process_tapas_crawl.md",
-          "kind": "process",
-          "title": "tapeo tradicional de Taberna"
         }
       ]
     },

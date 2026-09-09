@@ -429,6 +429,13 @@
     "orthography": "ortografía académica (RAE)",
     "tongue": "Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down"
   },
+  "es/position_language_es_es_md.md": {
+    "from": "es_madrid",
+    "note": "Moved byte for byte, the fourteenth regional Spanish variety in es/, correctly titled \"Madrid Spanish\" on arrival and opening no deferral. Only es_madrid linked it, so step 3 and step 4 rode together under the limit set at #608. It is the odd one of the fourteen, and instructively so: the other thirteen describe a Castilian coloured by something next door, and this one is the Castilian of the place where the standard was made, so it has almost nothing next door to point at. What it ends up describing is Spanish itself - ser against estar, the s/z distinction, vosotros, the subjunctive - with exactly one local claim in it, the castizo laismo. That is the honest shape of a variety that is the reference: it can only be described as the thing everything else is measured against, plus one habit the norm itself does not accept. Its body is written without accents, as es_es_ct and es_es_nc are; reported, not repaired, since the move carries it unchanged.",
+    "orthography": "ortografia de la RAE",
+    "review": "native",
+    "tongue": "Madrid Spanish: the variety that is the reference, and can say little about itself except laismo"
+  },
   "es/position_language_es_es_ml.md": {
     "from": "es_melilla",
     "note": "Read against the mnemonic on the way through: two things were cut from its opening. It placed itself on the Rif coast, and where is not one of the four; and it explained its own closeness to the standard by who lives in the city, its garrison and its civil service, which is a claim about a place and not about a tongue. What stays is the strongest thing it says: that it orders its holder to state where they are from and since when before saying what they want.",
