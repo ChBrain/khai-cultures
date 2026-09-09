@@ -47,7 +47,7 @@ Hitza hitz: la palabra dada sostiene aquí más pactos que cualquier ley, en est
 - [la cultura vasca](position_culture_cultura_vasca.md)
 - [el derecho foral](position_foral_right.md)
 - [el euskera](position_euskera_heritage.md)
-- [el español del País Vasco](position_language_es_es_pv.md)
+- [el español del País Vasco](@chbrain/khai-cultures-tongues/es/position_language_es_es_pv.md)
 - [euskara](@chbrain/khai-cultures-tongues/eu/position_language_eu.md)
 
 **Pieces**
@@ -65,6 +65,10 @@ Hitza hitz: la palabra dada sostiene aquí más pactos que cualquier ley, en est
 
 ## Triggers
 
+**[Plot 0: La lengua que vino de ningún sitio](plot_00_la_lengua_que_vino_de_ningun_sitio.md)**
+
+Aquí uno se llama como la casa y no como su padre, y lo dice en [una lengua](@chbrain/khai-cultures-tongues/eu/position_language_eu.md) que no tiene parientes vivos en ninguna parte; de un país de [caseríos](place_baserri_farm.md) que se gobiernan solos salen [el derecho foral](position_foral_right.md) y el hitza hitz.
+
 **[Plot 1: La Abolición de los Fueros 1876](plot_01_fueros.md)**
 
 Tras las guerras carlistas, las Cortes españolas suprimen los fueros históricos vascos, sembrando la resistencia foral.
@@ -76,6 +80,10 @@ Se fundan los grandes altos hornos en Bilbao, transformando la ría en un motor 
 **[Plot 3: El Concierto Económico 1981](plot_03_concert.md)**
 
 Se restablece el Concierto Económico foral, devolviendo a las provincias la gestión y recaudación de sus impuestos.
+
+**[Plot 99: Los que lo aprendieron](plot_99_los_que_lo_aprendieron.md)**
+
+El euskera crece y crece sobre todo entre los jóvenes, al revés que casi toda lengua pequeña de Europa, porque volvió por el aula: [el plan de normalización](plan_euskera_normalisation.md) funcionó, y adelgazan justo los dialectos de [Amaia](persona_amaia.md) y de [Iñaki](persona_inaki.md) que lo trajeron hasta aquí.
 
 ## Stakes
 

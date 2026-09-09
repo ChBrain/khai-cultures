@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **134 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **135 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -98,6 +98,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_ga.md`     | Spanish of Galicia: Castilian with the other tongue's melody still on it, and its habits underneath                                                       | `es`         |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                         | `es`         |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                             | `es`         |
+| `es/position_language_es_es_pv.md`     | Spanish of the Basque Country: Castilian arranged by a grammar that came from nowhere else                                                                | `es`         |
 | `es/position_language_es_uy.md`        | Uruguayan Spanish: the voseo with its own conjugation, vos tenés and vos sos                                                                              | `es`         |
 | `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                          | `et`         |
 | `eu/position_language_eu.md`           | Basque: ergative-absolutive case, one auxiliary carrying subject, object and indirect object, and no relatives anywhere                                   | `eu`         |
