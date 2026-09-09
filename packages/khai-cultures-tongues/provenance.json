@@ -87,6 +87,13 @@
     "review": "native",
     "tongue": "Catalan: the periphrastic past vaig fer, and the weak pronouns hi and en that stand in for a place and a quantity"
   },
+  "ca/position_language_ca_ib.md": {
+    "from": "es_balearic_islands",
+    "note": "Written here rather than moved, because there was nothing to move. es_balearic_islands casts two personas whose mother tongue the play names as \"el catalán mallorquín\" and links nowhere, while their second language links correctly to es_es_ib - the same unlinked-mother-tongue fault found in es_aragon at #664 and es_asturias at #666, and the third instance. It differs from those two in cost and in kind: Aragonese and Asturian were missing languages, and this one was a missing variety of a language the house already held, so it adds a variety and not a language and rippled nothing. The culture keeps position_insular_bilingualism.md, which is about co-officiality and school normalisation - a culture position about the language's standing, not the office of the tongue, the same distinction drawn for Asturian. What this variety holds above all is the salted article, and what it loses is the same thing, since that is the feature its speakers are taught to leave at the door when the writing is serious.",
+    "orthography": "normativa de l'IEC, amb les formes pròpies de les Illes",
+    "review": "native",
+    "tongue": "Balearic Catalan: the salted article for every day and the other one for what is solemn"
+  },
   "ca/position_language_ca_vc.md": {
     "from": "es_valencian_community",
     "note": "Moved byte for byte, and it is the variety the ca entry named as waiting: when catalonia migrated at #650 the ledger recorded that andorra held ca_ad and valencian_community held ca_vc, and that each would move when its own culture did. This is that. It arrived correctly titled and opens no deferral. It is filed as a variety of ca on linguistic grounds and the file itself says so; that this is contested inside the culture is a fact about the culture and not about the filing, and the house records it here rather than arguing it in the prose. Only es_valencian_community linked it, so step 3 and step 4 rode together under the limit set at #608. What it holds is the Valencian of the huerta and the city: the open vowels of the coast, the verb forms the northern standard does not use, and the vocabulary of irrigation and rice that no other variety of this language needed to invent. Flagged for native review. ca_ad remains, and moves when andorra does.",

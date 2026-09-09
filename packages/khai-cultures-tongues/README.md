@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **148 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **149 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -42,6 +42,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `bn/position_language_bn.md`           | Bengali: no grammatical gender anywhere, and a verb that inflects for the standing of the person spoken to                                                | `bn`         |
 | `br/position_language_br.md`           | Breton: the only Celtic language on the continent, and the one whose speakers had to choose an orthography rather than decline to                         | `br`         |
 | `ca/position_language_ca.md`           | Catalan: the periphrastic past vaig fer, and the weak pronouns hi and en that stand in for a place and a quantity                                         | `ca`         |
+| `ca/position_language_ca_ib.md`        | Balearic Catalan: the salted article for every day and the other one for what is solemn                                                                   | `ca`         |
 | `ca/position_language_ca_vc.md`        | Valencian: the coast's open vowels and a thousand years of words for water arriving by turn                                                               | `ca`         |
 | `cnr/position_language_cnr.md`         | Montenegrin: the letters s with an acute and z with an acute, which no neighbouring standard of the same speech writes                                    | `cnr`        |
 | `co/position_language_co.md`           | Corsican: a polynomic language, where no variety is the norm because none was ever wanted                                                                 | `co`         |

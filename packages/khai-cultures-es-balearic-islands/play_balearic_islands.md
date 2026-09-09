@@ -64,6 +64,10 @@ Rodeado de mar por los cuatro costados, el archipiélago vive con la calma insul
 
 ## Triggers
 
+**[Plot 0: Torres para mirar el mar](plot_00_torres_para_mirar_el_mar.md)**
+
+Lo primero y lo más construido en estas islas fueron cientos de torres de piedra desde donde se ve el agua: una isla en el cruce de todas las rutas no está aislada, está expuesta, y todo lo que sostiene a alguien aquí -el aljibe, el bancal, la terraza- hubo que hacerlo a mano contra un mar que no se bebe.
+
 **[Plot 1: La Conquista de Mallorca 1229](plot_01_conquest.md)**
 
 Las naves del rey Jaime I desembarcan en Santa Ponsa, incorporando el archipiélago a la Corona de Aragón y al ámbito cultural catalán.
@@ -75,6 +79,10 @@ La apertura del aeropuerto de Palma de Mallorca desata una inmensa edificación 
 **[Plot 3: El Decreto de la Posidonia 2018](plot_03_posidonia.md)**
 
 El parlamento balear aprueba la ley que prohíbe el fondeo libre de yates sobre las praderas de algas marinas en las calas.
+
+**[Plot 99: Dieciséis millones](plot_99_dieciseis_millones.md)**
+
+Un millón de residentes y más de quince millones de visitantes al año: el alquiler expulsa a quien trabaja aquí, el acuífero se sala por sacar de más, y la pradera que mantiene el agua clara la arranca el ancla de quien viene a verla.
 
 ## Stakes
 

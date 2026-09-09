@@ -14176,8 +14176,8 @@
       "title": "Islas Baleares",
       "description": "Islas Baleares representada: las terrazas de la Tramuntana, la ensaimada de Palma y las praderas de Posidonia.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_balearic_islands"
+        "package": "@chbrain/khai-cultures-es-balearic-islands",
+        "path": ""
       },
       "iso": "ES-IB",
       "members": [
@@ -14232,6 +14232,12 @@
           "title": "Islas Baleares"
         },
         {
+          "file": "plot_00_torres_para_mirar_el_mar.md",
+          "kind": "plot",
+          "title": "Towers to Watch the Sea",
+          "taxonomy": "play_balearic_islands.md"
+        },
+        {
           "file": "plot_01_conquest.md",
           "kind": "plot",
           "title": "La Conquista de Mallorca",
@@ -14247,6 +14253,12 @@
           "file": "plot_03_posidonia.md",
           "kind": "plot",
           "title": "El Decreto de la Posidonia",
+          "taxonomy": "play_balearic_islands.md"
+        },
+        {
+          "file": "plot_99_dieciseis_millones.md",
+          "kind": "plot",
+          "title": "Sixteen Million",
           "taxonomy": "play_balearic_islands.md"
         },
         {
@@ -14274,7 +14286,8 @@
           "kind": "process",
           "title": "control ecológico de las praderas de Posidonia"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-balearic-islands"
     },
     {
       "kind": "culture",
