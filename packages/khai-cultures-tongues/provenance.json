@@ -443,6 +443,13 @@
     "orthography": "ortografía académica (RAE)",
     "tongue": "Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down"
   },
+  "es/position_language_es_es_mc.md": {
+    "from": "es_murcia",
+    "note": "The eighteenth regional Spanish variety in es/, the fourth tongue repaired on the way through, and the last flat Spanish file that was still sitting in the umbrella. It arrived flat, body and declared name both - \"el espanol murciano\" - and sixteen words were restored, the declared name with them, and nothing else touched. Fourth tick of the ratchet, 47 to 46. Only es_murcia linked it, so step 3 and step 4 rode together under the limit set at #608. Of the eighteen it is the one that keeps the most Arabic still doing daily work: acequia, noria, azud, alberca are not heritage words here, they are the vocabulary for naming the water that arrives, in a place that has always had to name it exactly. And its phonology says the same thing the other way, opening the vowel where the standard closes a consonant.",
+    "orthography": "ortografía de la RAE",
+    "review": "native",
+    "tongue": "Murcian Spanish: the open vowel of the southeast, and the Arabic still in daily use for naming water"
+  },
   "es/position_language_es_es_md.md": {
     "from": "es_madrid",
     "note": "Moved byte for byte, the fourteenth regional Spanish variety in es/, correctly titled \"Madrid Spanish\" on arrival and opening no deferral. Only es_madrid linked it, so step 3 and step 4 rode together under the limit set at #608. It is the odd one of the fourteen, and instructively so: the other thirteen describe a Castilian coloured by something next door, and this one is the Castilian of the place where the standard was made, so it has almost nothing next door to point at. What it ends up describing is Spanish itself - ser against estar, the s/z distinction, vosotros, the subjunctive - with exactly one local claim in it, the castizo laismo. That is the honest shape of a variety that is the reference: it can only be described as the thing everything else is measured against, plus one habit the norm itself does not accept. Its body is written without accents, as es_es_ct and es_es_nc are; reported, not repaired, since the move carries it unchanged.",
