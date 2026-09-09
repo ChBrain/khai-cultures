@@ -47,7 +47,7 @@ La dehesa enseña a esperar: bajo la sombra ancha de las encinas se cría el cer
 - [la extremeñidad](position_culture_extremenidad.md)
 - [la dehesa](position_dehesa_stewardship.md)
 - [el secano extremeño](position_borderland_reliance.md)
-- [el espanol extremeno](position_language_es_es_ex.md)
+- [el español extremeño](@chbrain/khai-cultures-tongues/es/position_language_es_es_ex.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ La dehesa enseña a esperar: bajo la sombra ancha de las encinas se cría el cer
 
 ## Triggers
 
+**[Plot 0: Lo que tarda](plot_00_lo_que_tarda.md)**
+
+El suelo delgado prohíbe la cosecha rápida, así que hubo que inventar la dehesa, donde el corcho se saca cada nueve años y la bellota llega tras décadas; una tierra que solo da a largo plazo cría gente paciente y no logra quedarse con ella.
+
 **[Plot 1: La Emigración Conquistadora 1530](plot_01_emigration.md)**
 
 Miles de hombres jóvenes de Cáceres y Badajoz se enrolan en las expediciones de Indias, provocando una honda quiebra demográfica rural.
@@ -75,6 +79,10 @@ El régimen inaugura un inmenso plan de embalses y regadíos sobre el río Guadi
 **[Plot 3: El Decreto de la Dehesa 1990](plot_03_dehesa.md)**
 
 La junta regional promulga las directrices de protección del alcornocal y encinar, prohibiendo la tala para cultivos intensivos.
+
+**[Plot 99: El sol se va por el cable](plot_99_el_sol_se_va_por_el_cable.md)**
+
+La región con las rentas más bajas es una de las mayores productoras solares de Europa, con las dos plantas mayores del continente bautizadas con los nombres de dos que se fueron de aquí; la luz sale por el cable mientras la seca se lleva las encinas que nadie replanta.
 
 ## Stakes
 
