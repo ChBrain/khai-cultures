@@ -14057,8 +14057,8 @@
       "title": "Asturias",
       "description": "Asturias representada: las cumbres de los Picos de Europa, el escanciado de sidra y las cuencas mineras de carbón.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_asturias"
+        "package": "@chbrain/khai-cultures-es-asturias",
+        "path": ""
       },
       "iso": "ES-AS",
       "members": [
@@ -14113,6 +14113,12 @@
           "title": "Asturias"
         },
         {
+          "file": "plot_00_nada_se_guarda_solo.md",
+          "kind": "plot",
+          "title": "Nothing Keeps by Itself",
+          "taxonomy": "play_asturias.md"
+        },
+        {
           "file": "plot_01_covadonga.md",
           "kind": "plot",
           "title": "La Batalla de Covadonga",
@@ -14128,6 +14134,12 @@
           "file": "plot_03_picos.md",
           "kind": "plot",
           "title": "El Parque de los Picos",
+          "taxonomy": "play_asturias.md"
+        },
+        {
+          "file": "plot_99_lo_que_vuelve.md",
+          "kind": "plot",
+          "title": "What Comes Back",
           "taxonomy": "play_asturias.md"
         },
         {
@@ -14155,7 +14167,8 @@
           "kind": "process",
           "title": "escanciado tradicional de Sidra Asturiana"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-asturias"
     },
     {
       "kind": "culture",
