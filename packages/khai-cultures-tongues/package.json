@@ -95,6 +95,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "ca/position_language_ca_ib.md",
+        "type": "position",
+        "parent": "ca/position_language_ca.md"
+      },
+      {
         "file": "ca/position_language_ca_vc.md",
         "type": "position",
         "parent": "ca/position_language_ca.md"
