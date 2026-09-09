@@ -46,7 +46,7 @@ El seny manda en el taller y en la bodega, la rauxa manda en la plaza el día de
 
 - [el modernismo](position_modernisme_art.md)
 - [la identidad catalana](position_culture_identidad_catalana.md)
-- [el español de Cataluña](position_language_es_es_ct.md)
+- [el español de Cataluña](@chbrain/khai-cultures-tongues/es/position_language_es_es_ct.md)
 - [el català](@chbrain/khai-cultures-tongues/ca/position_language_ca.md)
 
 **Pieces**
@@ -64,6 +64,10 @@ El seny manda en el taller y en la bodega, la rauxa manda en la plaza el día de
 
 ## Triggers
 
+**[Plot 0: El Consulado del Mar](plot_00_el_consulado_del_mar.md)**
+
+En el siglo catorce dos mercaderes sin señor común resuelven su pleito ante un tribunal de mercaderes, y el libro que aplica acaba siendo el derecho comercial del Mediterráneo: la aportación de este país no es un imperio sino un procedimiento, y de ese mostrador salen el seny, la feina ben feta y el pactisme.
+
 **[Plot 1: La Renaixença 1859](plot_01_renaixenca.md)**
 
 Los Jocs Florals se restauran en Barcelona, impulsando la resurrección literaria y la conciencia nacional del catalán.
@@ -75,6 +79,10 @@ Barcelona abre su exposición internacional, consagrando el modernismo industria
 **[Plot 3: El Estatuto de Sau 1979](plot_03_statute.md)**
 
 La Generalitat recupera su autogobierno y el catalán vuelve a ser lengua cooficial, abriendo el plan de inmersión.
+
+**[Plot 99: La pinya](plot_99_la_pinya.md)**
+
+La década de la división llega hasta el vino, con [el cava](process_cava_making.md) repartido en dos denominaciones desde 2019, y hasta la escuela, con [el plan de inmersión](plan_catalan_immersion.md) convertido en cuota; mientras tanto [los castells](process_castells_building.md) siguen levantándose sobre una pinya en la que no se pregunta a nadie de dónde viene.
 
 ## Stakes
 

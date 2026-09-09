@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "The Catalan Language"
+title: "Catalan"
 declared: "el català"
 language: ca
 license: CC-BY-NC-SA-4.0
