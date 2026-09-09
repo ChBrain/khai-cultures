@@ -27,7 +27,7 @@
   "dependencies": {
     "@chbrain/khai-cultures-es-basque-country": "^0.1.0",
     "@chbrain/khai-cultures-spain": "^0.1.0",
-    "@chbrain/khai-cultures-tongues": "^0.65.0",
+    "@chbrain/khai-cultures-tongues": "^0.66.0",
     "@chbrain/khai-engine-language": "^0.1.5",
     "@chbrain/khai-engine-spine": "^0.1.5"
   }

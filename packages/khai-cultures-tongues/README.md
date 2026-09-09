@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **145 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **146 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -28,6 +28,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 
 | Variety                                | Tongue                                                                                                                                                    | Language     |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| `an/position_language_an.md`           | Aragonese: the f- and the -it- Castilian let go, and the en/bi that Castilian has no way to say                                                           | `an`         |
 | `ar/position_language_ar.md`           | Arabic as such: the triliteral root and its patterns, and one tongue held in two systems at once                                                          | `ar`         |
 | `ar/position_language_ar_dz.md`        | Algerian Arabic: as written, the anchor's material under a country's name, and flagged as such                                                            | `ar`         |
 | `bar/position_language_bar.md`         | Bavarian as such: the family, spoken across three states and owned by none of them                                                                        | `bar`        |

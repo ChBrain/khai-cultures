@@ -25,6 +25,6 @@
   "dependencies": {
     "@chbrain/khai-cultures-brazil": "^0.1.0",
     "@chbrain/khai-cultures-portugal": "^0.1.0",
-    "@chbrain/khai-cultures-tongues": "^0.65.0"
+    "@chbrain/khai-cultures-tongues": "^0.66.0"
   }
 }
