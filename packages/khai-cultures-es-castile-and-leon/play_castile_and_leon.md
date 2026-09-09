@@ -47,7 +47,7 @@ Fue cabeza de imperio y hoy se queda con el silencio: la gran meseta septentrion
 - [la cultura castellanoleonesa](position_culture_cultura_castellanoleonesa.md)
 - [la meseta](position_meseta_reliance.md)
 - [el derecho de pastos](position_pasture_rights.md)
-- [el espanol castellano de Castilla y Leon](position_language_es_es_cl.md)
+- [el español castellano de Castilla y León](@chbrain/khai-cultures-tongues/es/position_language_es_es_cl.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ Fue cabeza de imperio y hoy se queda con el silencio: la gran meseta septentrion
 
 ## Triggers
 
+**[Plot 0: La tierra que hubo que regalar](plot_00_la_tierra_que_hubo_que_regalar.md)**
+
+El valle del Duero fue frontera durante dos siglos, y una tierra de nadie no se puebla con órdenes: se pobló con cartas, fueros y comunales, pagando en libertades a quien aceptara vivir donde podían matarlo.
+
 **[Plot 1: La Unión de los Reinos 1230](plot_01_union.md)**
 
 Fernando III unifica definitivamente las coronas de Castilla y León, consolidando el gran poder territorial de la meseta.
@@ -75,6 +79,10 @@ Las ciudades castellanas se alzan contra el rey Carlos I en defensa de sus liber
 **[Plot 3: El Tratado del Duero 1927](plot_03_duero.md)**
 
 España y Portugal firman el acuerdo para el aprovechamiento hidroeléctrico y de riego del tramo internacional del río.
+
+**[Plot 99: Nueve por kilómetro cuadrado](plot_99_nueve_por_kilometro_cuadrado.md)**
+
+La comunidad más extensa de España se vacía porque el trabajo dejó de necesitar gente; la respuesta llegó por la política -la Revuelta de 2019, Soria ¡Ya! en las Cortes en 2022- y el pulso más duro se libra por el lobo al norte del Duero.
 
 ## Stakes
 

@@ -5217,117 +5217,6 @@
     },
     {
       "kind": "culture",
-      "id": "castile_and_leon",
-      "title": "Castilla y León",
-      "description": "Castilla y León representada: los campos de trigo de la meseta, las murallas medievales y el pastoreo del Duero.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/castile_and_leon"
-      },
-      "iso": "ES-CL",
-      "members": [
-        {
-          "file": "persona_mateo.md",
-          "kind": "persona",
-          "title": "Mateo",
-          "type": "archetype",
-          "taxonomy": "position_meseta_reliance.md"
-        },
-        {
-          "file": "persona_teresa.md",
-          "kind": "persona",
-          "title": "Teresa",
-          "type": "archetype",
-          "taxonomy": "position_pasture_rights.md"
-        },
-        {
-          "file": "piece_roasting_clay_dish.md",
-          "kind": "piece",
-          "title": "El Plato Ovalado de Barro de Asar"
-        },
-        {
-          "file": "piece_shepherds_leather_bag.md",
-          "kind": "piece",
-          "title": "El Zurrón Tradicional de Cuero"
-        },
-        {
-          "file": "pitch_castile_and_leon.md",
-          "kind": "pitch",
-          "title": "El Tono Castellanoleonés",
-          "taxonomy": "play_castile_and_leon.md"
-        },
-        {
-          "file": "place_aqueduct_segovia.md",
-          "kind": "place",
-          "title": "El Acueducto de Segovia"
-        },
-        {
-          "file": "place_duero_valley.md",
-          "kind": "place",
-          "title": "El Valle del Duero"
-        },
-        {
-          "file": "plan_duero_water_conservation.md",
-          "kind": "plan",
-          "title": "El Plan de Conservación del Duero"
-        },
-        {
-          "file": "play_castile_and_leon.md",
-          "kind": "play",
-          "title": "Castilla y León"
-        },
-        {
-          "file": "plot_01_union.md",
-          "kind": "plot",
-          "title": "La Unión de los Reinos",
-          "taxonomy": "play_castile_and_leon.md"
-        },
-        {
-          "file": "plot_02_comuneros.md",
-          "kind": "plot",
-          "title": "La Revolución Comunera",
-          "taxonomy": "play_castile_and_leon.md"
-        },
-        {
-          "file": "plot_03_duero.md",
-          "kind": "plot",
-          "title": "El Tratado del Duero",
-          "taxonomy": "play_castile_and_leon.md"
-        },
-        {
-          "file": "position_culture_cultura_castellanoleonesa.md",
-          "kind": "position",
-          "title": "Castilian-Leonese Culture"
-        },
-        {
-          "file": "position_language_es_es_cl.md",
-          "kind": "position",
-          "title": "Castilian Spanish of Castile-Leon"
-        },
-        {
-          "file": "position_meseta_reliance.md",
-          "kind": "position",
-          "title": "La Meseta"
-        },
-        {
-          "file": "position_pasture_rights.md",
-          "kind": "position",
-          "title": "El Derecho de Pastos"
-        },
-        {
-          "file": "process_grain_harvesting.md",
-          "kind": "process",
-          "title": "cosecha tradicional de Cereal en la meseta"
-        },
-        {
-          "file": "process_roast_pig_oven.md",
-          "kind": "process",
-          "title": "asado tradicional de Cochinillo en horno de leña"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "castilla_la_mancha",
       "title": "Castilla-La Mancha",
       "description": "Castilla-La Mancha representada: los molinos de viento de Consuegra, las Tablas de Daimiel y la flor del azafrán.",
@@ -14789,6 +14678,125 @@
           "title": "horneado tradicional de Sobao Pasiego"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_castile_and_leon",
+      "title": "Castilla y León",
+      "description": "Castilla y León representada: los campos de trigo de la meseta, las murallas medievales y el pastoreo del Duero.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-castile-and-leon",
+        "path": ""
+      },
+      "iso": "ES-CL",
+      "members": [
+        {
+          "file": "persona_mateo.md",
+          "kind": "persona",
+          "title": "Mateo",
+          "type": "archetype",
+          "taxonomy": "position_meseta_reliance.md"
+        },
+        {
+          "file": "persona_teresa.md",
+          "kind": "persona",
+          "title": "Teresa",
+          "type": "archetype",
+          "taxonomy": "position_pasture_rights.md"
+        },
+        {
+          "file": "piece_roasting_clay_dish.md",
+          "kind": "piece",
+          "title": "El Plato Ovalado de Barro de Asar"
+        },
+        {
+          "file": "piece_shepherds_leather_bag.md",
+          "kind": "piece",
+          "title": "El Zurrón Tradicional de Cuero"
+        },
+        {
+          "file": "pitch_castile_and_leon.md",
+          "kind": "pitch",
+          "title": "El Tono Castellanoleonés",
+          "taxonomy": "play_castile_and_leon.md"
+        },
+        {
+          "file": "place_aqueduct_segovia.md",
+          "kind": "place",
+          "title": "El Acueducto de Segovia"
+        },
+        {
+          "file": "place_duero_valley.md",
+          "kind": "place",
+          "title": "El Valle del Duero"
+        },
+        {
+          "file": "plan_duero_water_conservation.md",
+          "kind": "plan",
+          "title": "El Plan de Conservación del Duero"
+        },
+        {
+          "file": "play_castile_and_leon.md",
+          "kind": "play",
+          "title": "Castilla y León"
+        },
+        {
+          "file": "plot_00_la_tierra_que_hubo_que_regalar.md",
+          "kind": "plot",
+          "title": "The Land That Had to Be Given Away",
+          "taxonomy": "play_castile_and_leon.md"
+        },
+        {
+          "file": "plot_01_union.md",
+          "kind": "plot",
+          "title": "La Unión de los Reinos",
+          "taxonomy": "play_castile_and_leon.md"
+        },
+        {
+          "file": "plot_02_comuneros.md",
+          "kind": "plot",
+          "title": "La Revolución Comunera",
+          "taxonomy": "play_castile_and_leon.md"
+        },
+        {
+          "file": "plot_03_duero.md",
+          "kind": "plot",
+          "title": "El Tratado del Duero",
+          "taxonomy": "play_castile_and_leon.md"
+        },
+        {
+          "file": "plot_99_nueve_por_kilometro_cuadrado.md",
+          "kind": "plot",
+          "title": "Nine to the Square Kilometre",
+          "taxonomy": "play_castile_and_leon.md"
+        },
+        {
+          "file": "position_culture_cultura_castellanoleonesa.md",
+          "kind": "position",
+          "title": "Castilian-Leonese Culture"
+        },
+        {
+          "file": "position_meseta_reliance.md",
+          "kind": "position",
+          "title": "La Meseta"
+        },
+        {
+          "file": "position_pasture_rights.md",
+          "kind": "position",
+          "title": "El Derecho de Pastos"
+        },
+        {
+          "file": "process_grain_harvesting.md",
+          "kind": "process",
+          "title": "cosecha tradicional de Cereal en la meseta"
+        },
+        {
+          "file": "process_roast_pig_oven.md",
+          "kind": "process",
+          "title": "asado tradicional de Cochinillo en horno de leña"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-castile-and-leon"
     },
     {
       "kind": "culture",

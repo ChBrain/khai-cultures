@@ -403,6 +403,13 @@
     "orthography": "ortografía académica (RAE)",
     "tongue": "Ceutan Spanish, Andalusian in its sounds and full of Darija that nobody hears as borrowed"
   },
+  "es/position_language_es_es_cl.md": {
+    "from": "es_castile_and_leon",
+    "note": "The fifteenth regional Spanish variety in es/, and the first tongue this house has repaired on the way through rather than carried unchanged. It arrived flat: correct Spanish with every accent removed, in its body and in its declared name both - \"el espanol castellano de Castilla y Leon\", where the culture that held it had been writing the accented form in its own prose all along. Fifteen words were restored and the declared name with them; nothing else was touched. It is the first tick of the ratchet the diacritics wall was built for, 50 to 49. Only es_castile_and_leon linked it, so step 3 and step 4 rode together under the limit set at #608. What it holds is the variety that the rest of the language is measured against from the other side than Madrid: not the norm because power sat there, but because the s/z distinction and the living vosotros survive here in ordinary speech.",
+    "orthography": "ortografía de la RAE",
+    "review": "native",
+    "tongue": "Castilian of Castile and León: the northern meseta speech taken for the cleanest form of the language"
+  },
   "es/position_language_es_es_cn.md": {
     "from": "es_canary_islands",
     "note": "Read against the mnemonic on the way through: nothing was cut. Every chapter is the office. It reaches toward the American varieties rather than the peninsular ones, and says so about the tongue and not about the islands.",
