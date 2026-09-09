@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-La pertenencia a una tierra partida en dos por la misma agua: [la huerta murciana](position_huerta_murciana.md) del regadío del Segura, vergel labrado por acequias y norias andalusíes desde el siglo X, y [el secano costero](position_secano_costero.md) de las salinas y la albufera del Mar Menor. Habla [el espanol murciano](position_language_es_es_mc.md), la panocha de la huerta y la habla salada del litoral. Trae, sin haberlo elegido, la memoria del Cantón federal de Cartagena de 1873, que declaró su soberanía y resistió meses de asedio, y el gusto por el limón, la hueva de mújol y el trabajo paciente de quien vive del agua y de la sal.
+La pertenencia a una tierra partida en dos por la misma agua: [la huerta murciana](position_huerta_murciana.md) del regadío del Segura, vergel labrado por acequias y norias andalusíes desde el siglo X, y [el secano costero](position_secano_costero.md) de las salinas y la albufera del Mar Menor. Habla [el español murciano](@chbrain/khai-cultures-tongues/es/position_language_es_es_mc.md), la panocha de la huerta y la habla salada del litoral. Trae, sin haberlo elegido, la memoria del Cantón federal de Cartagena de 1873, que declaró su soberanía y resistió meses de asedio, y el gusto por el limón, la hueva de mújol y el trabajo paciente de quien vive del agua y de la sal. Es una manera de ser [español](@chbrain/khai-cultures-spain/position_culture_espanolidad.md), no un segundo pasaporte.
 
 ## Orders
 

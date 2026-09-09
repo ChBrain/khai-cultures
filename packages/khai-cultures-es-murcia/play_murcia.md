@@ -47,7 +47,7 @@ Acho, el agua se cuenta aquí por turnos y por horas, que en tierra de secano co
 - [la cultura murciana](position_culture_cultura_murciana.md)
 - [la huerta murciana](position_huerta_murciana.md)
 - [el secano costero](position_secano_costero.md)
-- [el espanol murciano](position_language_es_es_mc.md)
+- [el español murciano](@chbrain/khai-cultures-tongues/es/position_language_es_es_mc.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ Acho, el agua se cuenta aquí por turnos y por horas, que en tierra de secano co
 
 ## Triggers
 
+**[Plot 0: El agua que viene de fuera](plot_00_el_agua_que_viene_de_fuera.md)**
+
+En el rincón más seco de Europa pasa un río que nace a doscientos kilómetros: un agua traída no se administra como una lluvia, hay que decir quién riega y cuánto, y de ahí sale el turno de agua y la asamblea que lo reparte.
+
 **[Plot 1: El Regadío Andalusí X](plot_01_irrigation.md)**
 
 Los ingenieros árabes diseñan la red de acequias y norias del río Segura, convirtiendo el valle en un inmenso vergel hortícola.
@@ -75,6 +79,10 @@ La junta revolucionaria federalista de Cartagena declara su independencia del Es
 **[Plot 3: La Ley del Mar Menor 2020](plot_03_marmenor.md)**
 
 La asamblea aprueba medidas de urgencia ambiental para regular los abonos de la agricultura intensiva y salvar la laguna costera.
+
+**[Plot 99: La laguna que fue a juicio](plot_99_la_laguna_que_fue_a_juicio.md)**
+
+El Mar Menor se puso verde en 2016 y devolvió peces muertos a la orilla en 2019 y 2021; en 2022, tras una iniciativa popular, las Cortes le reconocieron personalidad jurídica, y la tierra del tribunal de aguas tiene ahora un compareciente más.
 
 ## Stakes
 

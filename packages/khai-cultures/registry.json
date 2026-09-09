@@ -15476,6 +15476,125 @@
     },
     {
       "kind": "culture",
+      "id": "es_murcia",
+      "title": "Murcia",
+      "description": "Murcia representada: el regadío de la huerta, las salinas del Mar Menor y la historia cantonal de Cartagena.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-murcia",
+        "path": ""
+      },
+      "iso": "ES-MC",
+      "members": [
+        {
+          "file": "persona_encarna.md",
+          "kind": "persona",
+          "title": "Encarna",
+          "type": "archetype",
+          "taxonomy": "position_secano_costero.md"
+        },
+        {
+          "file": "persona_gines.md",
+          "kind": "persona",
+          "title": "Gines",
+          "type": "archetype",
+          "taxonomy": "position_huerta_murciana.md"
+        },
+        {
+          "file": "piece_fish_salting_press.md",
+          "kind": "piece",
+          "title": "La Prensa de Madera de Salazón de Pescado"
+        },
+        {
+          "file": "piece_water_wheel_model.md",
+          "kind": "piece",
+          "title": "La Maqueta de Madera de Noria de la Huerta"
+        },
+        {
+          "file": "pitch_murcia.md",
+          "kind": "pitch",
+          "title": "El Tono Murciano",
+          "taxonomy": "play_murcia.md"
+        },
+        {
+          "file": "place_cartagena_roman_theater.md",
+          "kind": "place",
+          "title": "El Teatro Romano de Cartagena"
+        },
+        {
+          "file": "place_mar_menor.md",
+          "kind": "place",
+          "title": "La Laguna Salada del Mar Menor"
+        },
+        {
+          "file": "plan_mar_menor_restoration.md",
+          "kind": "plan",
+          "title": "El Plan de Restauración de la Laguna del Mar Menor"
+        },
+        {
+          "file": "play_murcia.md",
+          "kind": "play",
+          "title": "Murcia"
+        },
+        {
+          "file": "plot_00_el_agua_que_viene_de_fuera.md",
+          "kind": "plot",
+          "title": "The Water That Comes From Elsewhere",
+          "taxonomy": "play_murcia.md"
+        },
+        {
+          "file": "plot_01_irrigation.md",
+          "kind": "plot",
+          "title": "El Regadío Andalusí",
+          "taxonomy": "play_murcia.md"
+        },
+        {
+          "file": "plot_02_canton.md",
+          "kind": "plot",
+          "title": "El Cantón de Cartagena",
+          "taxonomy": "play_murcia.md"
+        },
+        {
+          "file": "plot_03_marmenor.md",
+          "kind": "plot",
+          "title": "La Ley del Mar Menor",
+          "taxonomy": "play_murcia.md"
+        },
+        {
+          "file": "plot_99_la_laguna_que_fue_a_juicio.md",
+          "kind": "plot",
+          "title": "The Lagoon That Went to Court",
+          "taxonomy": "play_murcia.md"
+        },
+        {
+          "file": "position_culture_cultura_murciana.md",
+          "kind": "position",
+          "title": "Murcian Culture"
+        },
+        {
+          "file": "position_huerta_murciana.md",
+          "kind": "position",
+          "title": "La Huerta Murciana"
+        },
+        {
+          "file": "position_secano_costero.md",
+          "kind": "position",
+          "title": "El Secano Costero"
+        },
+        {
+          "file": "process_fish_salting.md",
+          "kind": "process",
+          "title": "curado y prensado artesanal de Salazón de Pescado del Mar Menor"
+        },
+        {
+          "file": "process_lemon_harvesting.md",
+          "kind": "process",
+          "title": "recolección y calibrado tradicional de Limón de la huerta murciana"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-murcia"
+    },
+    {
+      "kind": "culture",
       "id": "es_navarre",
       "title": "Navarra",
       "description": "Navarra representada: los hayedos de la selva de Irati, los encierros de Pamplona y los espárragos de la Ribera.",
@@ -28718,117 +28837,6 @@
           "file": "process_o_mapiko.md",
           "kind": "process",
           "title": "mapiko"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "murcia",
-      "title": "Murcia",
-      "description": "Murcia representada: el regadío de la huerta, las salinas del Mar Menor y la historia cantonal de Cartagena.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/murcia"
-      },
-      "iso": "ES-MC",
-      "members": [
-        {
-          "file": "persona_encarna.md",
-          "kind": "persona",
-          "title": "Encarna",
-          "type": "archetype",
-          "taxonomy": "position_secano_costero.md"
-        },
-        {
-          "file": "persona_gines.md",
-          "kind": "persona",
-          "title": "Gines",
-          "type": "archetype",
-          "taxonomy": "position_huerta_murciana.md"
-        },
-        {
-          "file": "piece_fish_salting_press.md",
-          "kind": "piece",
-          "title": "La Prensa de Madera de Salazón de Pescado"
-        },
-        {
-          "file": "piece_water_wheel_model.md",
-          "kind": "piece",
-          "title": "La Maqueta de Madera de Noria de la Huerta"
-        },
-        {
-          "file": "pitch_murcia.md",
-          "kind": "pitch",
-          "title": "El Tono Murciano",
-          "taxonomy": "play_murcia.md"
-        },
-        {
-          "file": "place_cartagena_roman_theater.md",
-          "kind": "place",
-          "title": "El Teatro Romano de Cartagena"
-        },
-        {
-          "file": "place_mar_menor.md",
-          "kind": "place",
-          "title": "La Laguna Salada del Mar Menor"
-        },
-        {
-          "file": "plan_mar_menor_restoration.md",
-          "kind": "plan",
-          "title": "El Plan de Restauración de la Laguna del Mar Menor"
-        },
-        {
-          "file": "play_murcia.md",
-          "kind": "play",
-          "title": "Murcia"
-        },
-        {
-          "file": "plot_01_irrigation.md",
-          "kind": "plot",
-          "title": "El Regadío Andalusí",
-          "taxonomy": "play_murcia.md"
-        },
-        {
-          "file": "plot_02_canton.md",
-          "kind": "plot",
-          "title": "El Cantón de Cartagena",
-          "taxonomy": "play_murcia.md"
-        },
-        {
-          "file": "plot_03_marmenor.md",
-          "kind": "plot",
-          "title": "La Ley del Mar Menor",
-          "taxonomy": "play_murcia.md"
-        },
-        {
-          "file": "position_culture_cultura_murciana.md",
-          "kind": "position",
-          "title": "Murcian Culture"
-        },
-        {
-          "file": "position_huerta_murciana.md",
-          "kind": "position",
-          "title": "La Huerta Murciana"
-        },
-        {
-          "file": "position_language_es_es_mc.md",
-          "kind": "position",
-          "title": "Murcian Spanish"
-        },
-        {
-          "file": "position_secano_costero.md",
-          "kind": "position",
-          "title": "El Secano Costero"
-        },
-        {
-          "file": "process_fish_salting.md",
-          "kind": "process",
-          "title": "curado y prensado artesanal de Salazón de Pescado del Mar Menor"
-        },
-        {
-          "file": "process_lemon_harvesting.md",
-          "kind": "process",
-          "title": "recolección y calibrado tradicional de Limón de la huerta murciana"
         }
       ]
     },
