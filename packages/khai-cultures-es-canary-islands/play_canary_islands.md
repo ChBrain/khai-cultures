@@ -64,6 +64,10 @@ Lejos de la Península y cerca de África y América, el archipiélago volcánic
 
 ## Triggers
 
+**[Plot 0: Agua del aire](plot_00_agua_del_aire.md)**
+
+Unas islas sin un solo río, donde el bosque peina la niebla y la gente perfora el monte y cubre la tierra de picón para hacer lo mismo; alcanzadas una vez desde África y luego sin barcos, hasta que cada isla fue un mundo aparte y un silbo cruzó los barrancos que las piernas no cruzaban.
+
 **[Plot 1: El Fin de la Conquista 1496](plot_01_conquest.md)**
 
 Castilla derrota a los guanches en la batalla de Aguere, completando la anexión de las islas a la Corona.
@@ -75,6 +79,10 @@ Cristóbal Colón repara y avitualle sus naves en Gran Canaria y La Gomera antes
 **[Plot 3: El Observatorio del Teide 1964](plot_03_teide.md)**
 
 Se inaugura el observatorio astronómico internacional, consagrando el Teide como santuario científico de cielos limpios.
+
+**[Plot 99: Lo que llega por el mar](plot_99_lo_que_llega_por_el_mar.md)**
+
+Casi toda el agua que se bebe hoy se fabrica desalando el mar; quince millones de visitantes sobre dos de residentes sacaron a la calle a todas las islas en 2024; por la ruta más mortal llega quien puede; y en 2021 un volcán enterró barrios y plataneras y dejó hectáreas nuevas.
 
 ## Stakes
 
