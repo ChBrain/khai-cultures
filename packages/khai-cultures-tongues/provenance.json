@@ -470,6 +470,13 @@
     "review": "native",
     "tongue": "Spanish of the Basque Country: Castilian arranged by a grammar that came from nowhere else"
   },
+  "es/position_language_es_es_ri.md": {
+    "from": "es_la_rioja",
+    "note": "The seventeenth regional Spanish variety in es/, and the third tongue repaired on the way through. It arrived flat, body and declared name both - \"el espanol riojano\" - and seventeen words were restored, the declared name with them, and nothing else touched. Third tick of the ratchet, 48 to 47. The irony is worth recording rather than smoothing over: this is the file of the one place in the world where Castilian was first written down, in the margins of a Latin codex at San Millan, and it had reached this house spelled without a single accent. Only es_la_rioja linked it, so step 3 and step 4 rode together under the limit set at #608. It completes a set: this variety is leista, es_es_cm and es_es_md are laista, and the three of them sit within two hundred kilometres of each other, which is a sharper picture of the centre of the language than any of them gives alone.",
+    "orthography": "ortografía de la RAE",
+    "review": "native",
+    "tongue": "Riojan Spanish: the leismo of the Ebro corridor, from the ground where the language was first written"
+  },
   "es/position_language_es_es_vc.md": {
     "from": "es_valencian_community",
     "note": "Moved byte for byte, the twelfth regional Spanish variety in es/, correctly titled on arrival and opening no deferral. Only es_valencian_community linked it. It is the Castilian of a coast that has been bilingual for centuries and whose two tongues are close enough to lend each other structure without either noticing: the vocabulary of the huerta and the festival crossing over whole, and the intonation the rest of Spain places instantly. It moved in the same change as ca_vc, which is why this culture held two language positions.",

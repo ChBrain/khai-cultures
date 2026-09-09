@@ -47,7 +47,7 @@ Aquí el calendario lo marca la vendimia y el vino se habla como palabra mayor, 
 - [la riojanidad](position_culture_la_riojanidad.md)
 - [la ribera del Ebro](position_ebro_ribera.md)
 - [la sierra riojana](position_sierra_riojana.md)
-- [el espanol riojano](position_language_es_es_ri.md)
+- [el español riojano](@chbrain/khai-cultures-tongues/es/position_language_es_es_ri.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ Aquí el calendario lo marca la vendimia y el vino se habla como palabra mayor, 
 
 ## Triggers
 
+**[Plot 0: Todo pasa por aquí](plot_00_todo_pasa_por_aqui.md)**
+
+El Ebro abre entre dos sierras el pasillo por el que se va a todas partes, y un pasillo se llena de lo que otros dejan: la vid romana, el camino de peregrinos, tres reinos discutiéndose la frontera y unos monasterios donde el latín ya no se entendía del todo.
+
 **[Plot 1: Las Glosas Emilianenses X](plot_01_glosses.md)**
 
 Un monje del monasterio de Suso escribe anotaciones en romance en los márgenes de un códice en latín, primer registro escrito del castellano.
@@ -75,6 +79,10 @@ Se constituye el primer Consejo Regulador de España en Rioja, sentando las base
 **[Plot 3: El Plan del Saso 1990](plot_03_riparian.md)**
 
 La junta regional promulga el plan de protección de los sotos de ribera del Ebro, prohibiendo la explanación de parcelas fluviales.
+
+**[Plot 99: Cómo llamarlo](plot_99_como_llamarlo.md)**
+
+La comarca se pasa la década peleando por una palabra: vinos de pueblo y de viñedo singular en 2017, la Rioja Baja rebautizada Oriental en 2018, y la Rioja alavesa queriendo denominación propia entre tribunales, mientras el viñedo se va subiendo a la sierra a buscar el frío.
 
 ## Stakes
 

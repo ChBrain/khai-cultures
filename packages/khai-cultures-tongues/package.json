@@ -405,6 +405,11 @@
         "parent": "es/position_language_es.md"
       },
       {
+        "file": "es/position_language_es_es_ri.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
         "file": "es/position_language_es_es_vc.md",
         "type": "position",
         "parent": "es/position_language_es.md"
