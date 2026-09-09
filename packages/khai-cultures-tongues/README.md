@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **143 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **144 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -98,6 +98,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_cm.md`     | Manchegan Spanish: the plain's laismo, and what it costs to speak a form the norm calls an error                                                          | `es`         |
 | `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                                                                    | `es`         |
 | `es/position_language_es_es_ct.md`     | Spanish of Catalonia: Castilian spoken with another language's intonation behind it, and calqued where the other one gets there first                     | `es`         |
+| `es/position_language_es_es_ex.md`     | Extremaduran Spanish: the southern aspirations over a Leonese floor, and the -ino that proves it                                                          | `es`         |
 | `es/position_language_es_es_ga.md`     | Spanish of Galicia: Castilian with the other tongue's melody still on it, and its habits underneath                                                       | `es`         |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                         | `es`         |
 | `es/position_language_es_es_mc.md`     | Murcian Spanish: the open vowel of the southeast, and the Arabic still in daily use for naming water                                                      | `es`         |

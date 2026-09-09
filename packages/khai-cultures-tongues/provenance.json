@@ -430,6 +430,13 @@
     "review": "native",
     "tongue": "Spanish of Catalonia: Castilian spoken with another language's intonation behind it, and calqued where the other one gets there first"
   },
+  "es/position_language_es_es_ex.md": {
+    "from": "es_extremadura",
+    "note": "The nineteenth regional Spanish variety in es/, and the one that shows where the diacritics wall does not yet reach. It was not flat by the wall's measure - the body carried extremeña, perdío, friín, so it never appeared in the count of fifty - and yet its declared name read \"el espanol extremeno\" and sixteen further words were missing their accents. Repaired anyway, declared name included, because the culture was being authored regardless. It is the evidence behind the open Target in order_the_written_accent.md: a rule that asks for one mark leaves a file with two marks and thirty faults standing. The variety itself is the southern set - seseo, aspirated final s, intervocalic d gone - over a Leonese floor that the rest of Spanish does not have, which is what the -ino diminutive is doing there.",
+    "orthography": "ortografía de la RAE",
+    "review": "native",
+    "tongue": "Extremaduran Spanish: the southern aspirations over a Leonese floor, and the -ino that proves it"
+  },
   "es/position_language_es_es_ga.md": {
     "from": "es_galicia",
     "note": "Moved byte for byte, the tenth regional Spanish variety in es/, correctly titled \"Spanish of Galicia\" on arrival, and opening no deferral. Only es_galicia linked it. What it holds is the Castilian of speakers whose other tongue is next door in the same mouth: the rising, sung intonation the rest of Spain identifies instantly, the verbal habits carried over from Galician - the perfect avoided, the diminutive used where no smallness is meant - and the conditional answer that this culture's own Arc opens on. It is the counterpart file to gl, moved in the same change, and the two together are the reason es_galicia held two language positions rather than one.",
