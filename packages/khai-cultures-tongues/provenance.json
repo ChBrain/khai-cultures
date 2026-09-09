@@ -68,6 +68,13 @@
     "review": "native",
     "tongue": "Catalan: the periphrastic past vaig fer, and the weak pronouns hi and en that stand in for a place and a quantity"
   },
+  "ca/position_language_ca_vc.md": {
+    "from": "es_valencian_community",
+    "note": "Moved byte for byte, and it is the variety the ca entry named as waiting: when catalonia migrated at #650 the ledger recorded that andorra held ca_ad and valencian_community held ca_vc, and that each would move when its own culture did. This is that. It arrived correctly titled and opens no deferral. It is filed as a variety of ca on linguistic grounds and the file itself says so; that this is contested inside the culture is a fact about the culture and not about the filing, and the house records it here rather than arguing it in the prose. Only es_valencian_community linked it, so step 3 and step 4 rode together under the limit set at #608. What it holds is the Valencian of the huerta and the city: the open vowels of the coast, the verb forms the northern standard does not use, and the vocabulary of irrigation and rice that no other variety of this language needed to invent. Flagged for native review. ca_ad remains, and moves when andorra does.",
+    "orthography": "normes de Castello / AVL",
+    "review": "native",
+    "tongue": "Valencian: the coast's open vowels and a thousand years of words for water arriving by turn"
+  },
   "cnr/position_language_cnr.md": {
     "from": "montenegro",
     "note": "Moved byte for byte. It arrived correctly named and it is an anchor, not a variety: cnr is its own ISO code and the file is filed under it. What it holds against its neighbours is the pair of letters that no other standard of this speech writes. A TITLE WAS LEFT WRONG ON PURPOSE: it read \"the Montenegrin Language\" where this package writes the bare name, to be corrected when montenegro migrates. THE DEFERRAL IS DISCHARGED. The title now reads \"Montenegrin\"; montenegro is a package in the same change and no longer holds the file, so the correction authored nothing. The correction lands in the same pull request whose plot_99 records that more of montenegro's people named their language Serbian than Montenegrin on the 2023 census - so this package now writes the bare name of a language whose own speakers are divided about the name. That is the right outcome and not an awkward one: this package files a tongue by what it is, and cnr is its own ISO code. Montenegro is one move from ready and this file was the whole of that move: seven files linked it, every one of them inside montenegro itself. Flagged for native review.",
@@ -434,6 +441,13 @@
     "orthography": "ortografia de la RAE",
     "review": "native",
     "tongue": "Spanish of the Basque Country: Castilian arranged by a grammar that came from nowhere else"
+  },
+  "es/position_language_es_es_vc.md": {
+    "from": "es_valencian_community",
+    "note": "Moved byte for byte, the twelfth regional Spanish variety in es/, correctly titled on arrival and opening no deferral. Only es_valencian_community linked it. It is the Castilian of a coast that has been bilingual for centuries and whose two tongues are close enough to lend each other structure without either noticing: the vocabulary of the huerta and the festival crossing over whole, and the intonation the rest of Spain places instantly. It moved in the same change as ca_vc, which is why this culture held two language positions.",
+    "orthography": "ortografia de la RAE",
+    "review": "native",
+    "tongue": "Spanish of the Valencian Community: Castilian on a coast that never stopped speaking the other one beside it"
   },
   "es/position_language_es_uy.md": {
     "from": "uruguay",

@@ -80,6 +80,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "ca/position_language_ca_vc.md",
+        "type": "position",
+        "parent": "ca/position_language_ca.md"
+      },
+      {
         "file": "cnr/position_language_cnr.md",
         "type": "position",
         "parent": "position_language.md"
@@ -376,6 +381,11 @@
       },
       {
         "file": "es/position_language_es_es_pv.md",
+        "type": "position",
+        "parent": "es/position_language_es.md"
+      },
+      {
+        "file": "es/position_language_es_es_vc.md",
         "type": "position",
         "parent": "es/position_language_es.md"
       },
