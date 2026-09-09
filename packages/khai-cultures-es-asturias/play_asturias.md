@@ -64,6 +64,10 @@ La señardá tiñe de melancolía verde esta cornisa cantábrica de desfiladeros
 
 ## Triggers
 
+**[Plot 0: Nada se guarda solo](plot_00_nada_se_guarda_solo.md)**
+
+Una franja de pie donde llueve casi siempre y nada aguanta en el suelo: el hórreo, la sidra y el queso de cueva son tres soluciones al mismo problema de conservar, y la cordillera que sirve de nevera es la misma pared que dejó este rincón sin terminar de conquistar.
+
 **[Plot 1: La Batalla de Covadonga 722](plot_01_covadonga.md)**
 
 Las tropas de Pelayo derrotan al ejército omeya en el desfiladero, fundando el Reino de Asturias como el primer foco de resistencia.
@@ -75,6 +79,10 @@ Los mineros del carbón de las cuencas del Nalón y el Caudal protagonizan un le
 **[Plot 3: El Parque de los Picos 1995](plot_03_picos.md)**
 
 Se crea el Parque Nacional de los Picos de Europa, unificando y ampliando la protección del hábitat montañoso del oso pardo cantábrico.
+
+**[Plot 99: Lo que vuelve](plot_99_lo_que_vuelve.md)**
+
+El último pozo de carbón cerró con fecha a finales de 2018, negociado en asamblea como aquí se hace; muere más gente de la que nace desde hace décadas, y por los valles que se vacían suben el monte y el oso, recuperado de menos de cien a varios cientos justamente porque la gente se fue.
 
 ## Stakes
 
