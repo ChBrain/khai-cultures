@@ -14533,8 +14533,8 @@
       "title": "Cantabria",
       "description": "Cantabria representada: las cuevas de Altamira, las marismas de Santoña y las verdes cabañas de los valles pasiegos.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_cantabria"
+        "package": "@chbrain/khai-cultures-es-cantabria",
+        "path": ""
       },
       "iso": "ES-CB",
       "members": [
@@ -14589,6 +14589,12 @@
           "title": "Cantabria"
         },
         {
+          "file": "plot_00_una_mano_en_la_pared.md",
+          "kind": "plot",
+          "title": "A Hand on the Wall",
+          "taxonomy": "play_cantabria.md"
+        },
+        {
           "file": "plot_01_altamira.md",
           "kind": "plot",
           "title": "El Descubrimiento de Altamira",
@@ -14604,6 +14610,12 @@
           "file": "plot_03_sanitation.md",
           "kind": "plot",
           "title": "El Saneamiento de las Bahías",
+          "taxonomy": "play_cantabria.md"
+        },
+        {
+          "file": "plot_99_saber_parar.md",
+          "kind": "plot",
+          "title": "Knowing When to Stop",
           "taxonomy": "play_cantabria.md"
         },
         {
@@ -14631,7 +14643,8 @@
           "kind": "process",
           "title": "horneado tradicional de Sobao Pasiego"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-cantabria"
     },
     {
       "kind": "culture",
