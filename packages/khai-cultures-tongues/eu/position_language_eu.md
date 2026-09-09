@@ -1,6 +1,6 @@
 ---
 khai: position
-title: "The Basque Language"
+title: "Basque"
 declared: "euskara"
 language: eu
 license: CC-BY-NC-SA-4.0

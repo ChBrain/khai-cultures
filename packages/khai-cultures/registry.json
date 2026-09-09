@@ -2654,117 +2654,6 @@
     },
     {
       "kind": "culture",
-      "id": "basque_country",
-      "title": "País Vasco",
-      "description": "País Vasco representado: los astilleros del Nervión, la pelota vasca en el frontón y el euskera del caserío.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/basque_country"
-      },
-      "iso": "ES-PV",
-      "members": [
-        {
-          "file": "persona_amaia.md",
-          "kind": "persona",
-          "title": "Amaia",
-          "type": "archetype",
-          "taxonomy": "position_foral_right.md"
-        },
-        {
-          "file": "persona_inaki.md",
-          "kind": "persona",
-          "title": "Iñaki",
-          "type": "archetype",
-          "taxonomy": "position_euskera_heritage.md"
-        },
-        {
-          "file": "piece_txapela.md",
-          "kind": "piece",
-          "title": "La Txapela Tradicional de Lana"
-        },
-        {
-          "file": "piece_txistera.md",
-          "kind": "piece",
-          "title": "La Txistera de Mimbre"
-        },
-        {
-          "file": "pitch_basque_country.md",
-          "kind": "pitch",
-          "title": "El Tono Vasco",
-          "taxonomy": "play_basque_country.md"
-        },
-        {
-          "file": "place_baserri_farm.md",
-          "kind": "place",
-          "title": "El Caserío Vasco"
-        },
-        {
-          "file": "place_nervion_estuary.md",
-          "kind": "place",
-          "title": "La Ría del Nervión"
-        },
-        {
-          "file": "plan_euskera_normalisation.md",
-          "kind": "plan",
-          "title": "El Plan de Normalización del Euskera"
-        },
-        {
-          "file": "play_basque_country.md",
-          "kind": "play",
-          "title": "País Vasco"
-        },
-        {
-          "file": "plot_01_fueros.md",
-          "kind": "plot",
-          "title": "La Abolición de los Fueros",
-          "taxonomy": "play_basque_country.md"
-        },
-        {
-          "file": "plot_02_nervion.md",
-          "kind": "plot",
-          "title": "La Industrialización del Nervión",
-          "taxonomy": "play_basque_country.md"
-        },
-        {
-          "file": "plot_03_concert.md",
-          "kind": "plot",
-          "title": "El Concierto Económico",
-          "taxonomy": "play_basque_country.md"
-        },
-        {
-          "file": "position_culture_cultura_vasca.md",
-          "kind": "position",
-          "title": "Basque Culture"
-        },
-        {
-          "file": "position_euskera_heritage.md",
-          "kind": "position",
-          "title": "El Euskera"
-        },
-        {
-          "file": "position_foral_right.md",
-          "kind": "position",
-          "title": "El Derecho Foral"
-        },
-        {
-          "file": "position_language_es_es_pv.md",
-          "kind": "position",
-          "title": "Spanish of the Basque Country"
-        },
-        {
-          "file": "process_cider_pouring.md",
-          "kind": "process",
-          "title": "escanciado tradicional de Sidra"
-        },
-        {
-          "file": "process_pelota_play.md",
-          "kind": "process",
-          "title": "juego tradicional de Pelota"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "belarus",
       "title": "Belarus",
       "description": "Belarus staged as a culture: a long-quiet nation whose chancery tongue, once an empire's, now wakes.",
@@ -14569,6 +14458,125 @@
           "title": "control ecológico de las praderas de Posidonia"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_basque_country",
+      "title": "País Vasco",
+      "description": "País Vasco representado: los astilleros del Nervión, la pelota vasca en el frontón y el euskera del caserío.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-basque-country",
+        "path": ""
+      },
+      "iso": "ES-PV",
+      "members": [
+        {
+          "file": "persona_amaia.md",
+          "kind": "persona",
+          "title": "Amaia",
+          "type": "archetype",
+          "taxonomy": "position_foral_right.md"
+        },
+        {
+          "file": "persona_inaki.md",
+          "kind": "persona",
+          "title": "Iñaki",
+          "type": "archetype",
+          "taxonomy": "position_euskera_heritage.md"
+        },
+        {
+          "file": "piece_txapela.md",
+          "kind": "piece",
+          "title": "La Txapela Tradicional de Lana"
+        },
+        {
+          "file": "piece_txistera.md",
+          "kind": "piece",
+          "title": "La Txistera de Mimbre"
+        },
+        {
+          "file": "pitch_basque_country.md",
+          "kind": "pitch",
+          "title": "El Tono Vasco",
+          "taxonomy": "play_basque_country.md"
+        },
+        {
+          "file": "place_baserri_farm.md",
+          "kind": "place",
+          "title": "El Caserío Vasco"
+        },
+        {
+          "file": "place_nervion_estuary.md",
+          "kind": "place",
+          "title": "La Ría del Nervión"
+        },
+        {
+          "file": "plan_euskera_normalisation.md",
+          "kind": "plan",
+          "title": "El Plan de Normalización del Euskera"
+        },
+        {
+          "file": "play_basque_country.md",
+          "kind": "play",
+          "title": "País Vasco"
+        },
+        {
+          "file": "plot_00_la_lengua_que_vino_de_ningun_sitio.md",
+          "kind": "plot",
+          "title": "The Tongue That Came From Nowhere",
+          "taxonomy": "play_basque_country.md"
+        },
+        {
+          "file": "plot_01_fueros.md",
+          "kind": "plot",
+          "title": "La Abolición de los Fueros",
+          "taxonomy": "play_basque_country.md"
+        },
+        {
+          "file": "plot_02_nervion.md",
+          "kind": "plot",
+          "title": "La Industrialización del Nervión",
+          "taxonomy": "play_basque_country.md"
+        },
+        {
+          "file": "plot_03_concert.md",
+          "kind": "plot",
+          "title": "El Concierto Económico",
+          "taxonomy": "play_basque_country.md"
+        },
+        {
+          "file": "plot_99_los_que_lo_aprendieron.md",
+          "kind": "plot",
+          "title": "Those Who Learned It",
+          "taxonomy": "play_basque_country.md"
+        },
+        {
+          "file": "position_culture_cultura_vasca.md",
+          "kind": "position",
+          "title": "Basque Culture"
+        },
+        {
+          "file": "position_euskera_heritage.md",
+          "kind": "position",
+          "title": "El Euskera"
+        },
+        {
+          "file": "position_foral_right.md",
+          "kind": "position",
+          "title": "El Derecho Foral"
+        },
+        {
+          "file": "process_cider_pouring.md",
+          "kind": "process",
+          "title": "escanciado tradicional de Sidra"
+        },
+        {
+          "file": "process_pelota_play.md",
+          "kind": "process",
+          "title": "juego tradicional de Pelota"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-basque-country"
     },
     {
       "kind": "culture",
