@@ -64,6 +64,10 @@ Entre el cierzo que no cede y la maña que todo lo resuelve se templa el caráct
 
 ## Triggers
 
+**[Plot 0: El nombre de un río pequeño](plot_00_el_nombre_de_un_rio_pequeno.md)**
+
+Unos valles con más piedra que gente tomaron el nombre de un arroyo pirenaico y acabaron mandando en medio Mediterráneo: no por la fuerza, que nunca tuvieron, sino pactando, y dejando a cada pieza que se unía sus propias leyes.
+
 **[Plot 1: La Unión de los Reinos 1137](plot_01_union.md)**
 
 El matrimonio de Petronila de Aragón y Ramón Berenguer IV sella la unión con Cataluña, naciendo la Corona de Aragón.
@@ -75,6 +79,10 @@ Los ciudadanos de Zaragoza resisten dos duros asedios de las tropas de Napoleón
 **[Plot 3: El Riego de los Monegros 1915](plot_03_monegros.md)**
 
 Comienzan las obras del canal de Aragón y Cataluña, transformando la estepa desértica en campos de cultivo.
+
+**[Plot 99: De quién es el Ebro](plot_99_de_quien_es_el_ebro.md)**
+
+Los pantanos anegaron los valles de arriba para regar abajo, en 2001 Zaragoza salió a la calle contra el trasvase del Ebro y en 2004 se derogó; ahora media comunidad vive en una ciudad, un escaño vecinal negocia desde la parte pequeña y llegan centros de datos a pedir agua y energía.
 
 ## Stakes
 

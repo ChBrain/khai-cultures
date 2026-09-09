@@ -13938,8 +13938,8 @@
       "title": "Aragón",
       "description": "Aragón representado: las cumbres del Pirineo, la jota en la plaza del Pilar y el pastoreo de las tierras secas.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_aragon"
+        "package": "@chbrain/khai-cultures-es-aragon",
+        "path": ""
       },
       "iso": "ES-AR",
       "members": [
@@ -13994,6 +13994,12 @@
           "title": "Aragón"
         },
         {
+          "file": "plot_00_el_nombre_de_un_rio_pequeno.md",
+          "kind": "plot",
+          "title": "The Name of a Small River",
+          "taxonomy": "play_aragon.md"
+        },
+        {
           "file": "plot_01_union.md",
           "kind": "plot",
           "title": "La Unión de los Reinos",
@@ -14009,6 +14015,12 @@
           "file": "plot_03_monegros.md",
           "kind": "plot",
           "title": "El Riego de los Monegros",
+          "taxonomy": "play_aragon.md"
+        },
+        {
+          "file": "plot_99_de_quien_es_el_ebro.md",
+          "kind": "plot",
+          "title": "Whose Ebro Is It",
           "taxonomy": "play_aragon.md"
         },
         {
@@ -14036,7 +14048,8 @@
           "kind": "process",
           "title": "asado tradicional de Ternasco de Aragón"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-aragon"
     },
     {
       "kind": "culture",
