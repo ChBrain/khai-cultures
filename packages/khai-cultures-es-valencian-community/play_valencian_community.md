@@ -47,8 +47,8 @@ Truena la mascletà a mediodía y la traca contesta al anochecer: así suena la 
 - [la cultura valenciana](position_culture_cultura_valenciana.md)
 - [la huerta](position_huerta_farming.md)
 - [el valenciano](position_valencian_language.md)
-- [el español de la Comunidad Valenciana](position_language_es_es_vc.md)
-- [el valencià](position_language_ca_vc.md)
+- [el español de la Comunidad Valenciana](@chbrain/khai-cultures-tongues/es/position_language_es_es_vc.md)
+- [el valencià](@chbrain/khai-cultures-tongues/ca/position_language_ca_vc.md)
 
 **Pieces**
 
@@ -65,6 +65,10 @@ Truena la mascletà a mediodía y la traca contesta al anochecer: así suena la 
 
 ## Triggers
 
+**[Plot 0: El Tribunal de las Aguas](plot_00_el_tribunal_de_las_aguas.md)**
+
+Desde hace mil años ocho regantes fallan al aire libre, sin abogados ni acta, los pleitos por el turno de riego de [la huerta](position_huerta_farming.md): en una costa seca el problema fundacional no es la tierra sino la cola, y la ley la dicta quien la va a cumplir.
+
 **[Plot 1: La Expulsión de los Moriscos 1609](plot_01_moriscos.md)**
 
 Felipe III decreta la expulsión de los moriscos, despoblando y arruinando el regadío de la huerta valenciana.
@@ -76,6 +80,10 @@ Las tropas borbónicas derrotan a los austracistas, aboliendo los fueros histór
 **[Plot 3: El Nacimiento de las Fallas 1850](plot_03_fallas.md)**
 
 Los fuegos primaverales de los carpinteros evolucionan hacia monumentos satíricos y artísticos de cartón piedra.
+
+**[Plot 99: El barro](plot_99_el_barro.md)**
+
+La DANA del 29 de octubre de 2024 mata a más de doscientas personas en los pueblos de la huerta, y a los pocos días decenas de miles de vecinos cruzan los puentes a pie con escobas: la cultura que ordenó el agua que falta no tenía ninguna regla para la que sobra.
 
 ## Stakes
 
