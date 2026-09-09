@@ -15137,6 +15137,125 @@
     },
     {
       "kind": "culture",
+      "id": "es_la_rioja",
+      "title": "La Rioja",
+      "description": "La Rioja representada: las vides del Ebro, los monasterios de San Millán y las conservas vegetales de Calahorra.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-la-rioja",
+        "path": ""
+      },
+      "iso": "ES-RI",
+      "members": [
+        {
+          "file": "persona_gonzalo.md",
+          "kind": "persona",
+          "title": "Gonzalo",
+          "type": "archetype",
+          "taxonomy": "position_ebro_ribera.md"
+        },
+        {
+          "file": "persona_olaya.md",
+          "kind": "persona",
+          "title": "Olaya",
+          "type": "archetype",
+          "taxonomy": "position_sierra_riojana.md"
+        },
+        {
+          "file": "piece_vineyard_pruning_shears.md",
+          "kind": "piece",
+          "title": "La Tijera Metálica de Podar el Viñedo"
+        },
+        {
+          "file": "piece_wine_oak_barrel.md",
+          "kind": "piece",
+          "title": "La Barrica de Roble Americano de Rioja"
+        },
+        {
+          "file": "pitch_la_rioja.md",
+          "kind": "pitch",
+          "title": "El Tono Riojano",
+          "taxonomy": "play_la_rioja.md"
+        },
+        {
+          "file": "place_rioja_vineyards.md",
+          "kind": "place",
+          "title": "Los Viñedos de Rioja"
+        },
+        {
+          "file": "place_san_millan_monasteries.md",
+          "kind": "place",
+          "title": "Los Monasterios de San Millán de la Cogolla"
+        },
+        {
+          "file": "plan_ebro_riparian_conservation.md",
+          "kind": "plan",
+          "title": "El Plan de Conservación de los Sotos del Ebro"
+        },
+        {
+          "file": "play_la_rioja.md",
+          "kind": "play",
+          "title": "La Rioja"
+        },
+        {
+          "file": "plot_00_todo_pasa_por_aqui.md",
+          "kind": "plot",
+          "title": "Everything Passes Through Here",
+          "taxonomy": "play_la_rioja.md"
+        },
+        {
+          "file": "plot_01_glosses.md",
+          "kind": "plot",
+          "title": "Las Glosas Emilianenses",
+          "taxonomy": "play_la_rioja.md"
+        },
+        {
+          "file": "plot_02_classification.md",
+          "kind": "plot",
+          "title": "La Clasificación de Rioja",
+          "taxonomy": "play_la_rioja.md"
+        },
+        {
+          "file": "plot_03_riparian.md",
+          "kind": "plot",
+          "title": "El Plan del Saso",
+          "taxonomy": "play_la_rioja.md"
+        },
+        {
+          "file": "plot_99_como_llamarlo.md",
+          "kind": "plot",
+          "title": "What to Call It",
+          "taxonomy": "play_la_rioja.md"
+        },
+        {
+          "file": "position_culture_la_riojanidad.md",
+          "kind": "position",
+          "title": "Riojan Culture"
+        },
+        {
+          "file": "position_ebro_ribera.md",
+          "kind": "position",
+          "title": "La Ribera del Ebro"
+        },
+        {
+          "file": "position_sierra_riojana.md",
+          "kind": "position",
+          "title": "La Sierra Riojana"
+        },
+        {
+          "file": "process_vegetable_canning.md",
+          "kind": "process",
+          "title": "procesado y envasado tradicional de conservas de la vega del Ebro"
+        },
+        {
+          "file": "process_wine_barrel_aging.md",
+          "kind": "process",
+          "title": "crianza tradicional de vino de Rioja en barrica de roble"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-la-rioja"
+    },
+    {
+      "kind": "culture",
       "id": "es_madrid",
       "title": "Madrid",
       "description": "Madrid representado: las avenidas de la capitalidad, la Puerta del Sol y las tabernas donde hierve el cocido.",
@@ -23942,117 +24061,6 @@
           "file": "process_manas_aytuu.md",
           "kind": "process",
           "title": "Reciting Manas"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "la_rioja",
-      "title": "La Rioja",
-      "description": "La Rioja representada: las vides del Ebro, los monasterios de San Millán y las conservas vegetales de Calahorra.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/la_rioja"
-      },
-      "iso": "ES-RI",
-      "members": [
-        {
-          "file": "persona_gonzalo.md",
-          "kind": "persona",
-          "title": "Gonzalo",
-          "type": "archetype",
-          "taxonomy": "position_ebro_ribera.md"
-        },
-        {
-          "file": "persona_olaya.md",
-          "kind": "persona",
-          "title": "Olaya",
-          "type": "archetype",
-          "taxonomy": "position_sierra_riojana.md"
-        },
-        {
-          "file": "piece_vineyard_pruning_shears.md",
-          "kind": "piece",
-          "title": "La Tijera Metálica de Podar el Viñedo"
-        },
-        {
-          "file": "piece_wine_oak_barrel.md",
-          "kind": "piece",
-          "title": "La Barrica de Roble Americano de Rioja"
-        },
-        {
-          "file": "pitch_la_rioja.md",
-          "kind": "pitch",
-          "title": "El Tono Riojano",
-          "taxonomy": "play_la_rioja.md"
-        },
-        {
-          "file": "place_rioja_vineyards.md",
-          "kind": "place",
-          "title": "Los Viñedos de Rioja"
-        },
-        {
-          "file": "place_san_millan_monasteries.md",
-          "kind": "place",
-          "title": "Los Monasterios de San Millán de la Cogolla"
-        },
-        {
-          "file": "plan_ebro_riparian_conservation.md",
-          "kind": "plan",
-          "title": "El Plan de Conservación de los Sotos del Ebro"
-        },
-        {
-          "file": "play_la_rioja.md",
-          "kind": "play",
-          "title": "La Rioja"
-        },
-        {
-          "file": "plot_01_glosses.md",
-          "kind": "plot",
-          "title": "Las Glosas Emilianenses",
-          "taxonomy": "play_la_rioja.md"
-        },
-        {
-          "file": "plot_02_classification.md",
-          "kind": "plot",
-          "title": "La Clasificación de Rioja",
-          "taxonomy": "play_la_rioja.md"
-        },
-        {
-          "file": "plot_03_riparian.md",
-          "kind": "plot",
-          "title": "El Plan del Saso",
-          "taxonomy": "play_la_rioja.md"
-        },
-        {
-          "file": "position_culture_la_riojanidad.md",
-          "kind": "position",
-          "title": "Riojan Culture"
-        },
-        {
-          "file": "position_ebro_ribera.md",
-          "kind": "position",
-          "title": "La Ribera del Ebro"
-        },
-        {
-          "file": "position_language_es_es_ri.md",
-          "kind": "position",
-          "title": "Riojan Spanish"
-        },
-        {
-          "file": "position_sierra_riojana.md",
-          "kind": "position",
-          "title": "La Sierra Riojana"
-        },
-        {
-          "file": "process_vegetable_canning.md",
-          "kind": "process",
-          "title": "procesado y envasado tradicional de conservas de la vega del Ebro"
-        },
-        {
-          "file": "process_wine_barrel_aging.md",
-          "kind": "process",
-          "title": "crianza tradicional de vino de Rioja en barrica de roble"
         }
       ]
     },

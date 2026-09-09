@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **141 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **142 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -104,6 +104,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                             | `es`         |
 | `es/position_language_es_es_nc.md`     | Navarrese Spanish: Castilian that changes what it carries halfway up the valley                                                                           | `es`         |
 | `es/position_language_es_es_pv.md`     | Spanish of the Basque Country: Castilian arranged by a grammar that came from nowhere else                                                                | `es`         |
+| `es/position_language_es_es_ri.md`     | Riojan Spanish: the leismo of the Ebro corridor, from the ground where the language was first written                                                     | `es`         |
 | `es/position_language_es_es_vc.md`     | Spanish of the Valencian Community: Castilian on a coast that never stopped speaking the other one beside it                                              | `es`         |
 | `es/position_language_es_uy.md`        | Uruguayan Spanish: the voseo with its own conjugation, vos tenés and vos sos                                                                              | `es`         |
 | `et/position_language_et.md`           | Estonian: fourteen cases doing the work of prepositions, and three contrastive lengths on one and the same sound                                          | `et`         |
