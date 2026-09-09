@@ -29,7 +29,7 @@
     "@chbrain/khai-cultures-gb-wales": "^0.1.0",
     "@chbrain/khai-cultures-ireland": "^0.1.0",
     "@chbrain/khai-cultures-the-four-nations": "^0.1.0",
-    "@chbrain/khai-cultures-tongues": "^0.66.0",
+    "@chbrain/khai-cultures-tongues": "^0.67.0",
     "@chbrain/khai-cultures-united-kingdom": "^0.1.0",
     "@chbrain/khai-engine-language": "^0.1.5"
   }
