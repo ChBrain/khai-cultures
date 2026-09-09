@@ -13819,8 +13819,8 @@
       "title": "Andalucía",
       "description": "Andalucía representada: los infinitos olivos de Jaén, el cante jondo del tablao y el orgullo del jornalero rural.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_andalusia"
+        "package": "@chbrain/khai-cultures-es-andalusia",
+        "path": ""
       },
       "iso": "ES-AN",
       "members": [
@@ -13875,6 +13875,12 @@
           "title": "Andalucía"
         },
         {
+          "file": "plot_00_el_monte_de_las_anforas.md",
+          "kind": "plot",
+          "title": "The Hill of Amphorae",
+          "taxonomy": "play_andalusia.md"
+        },
+        {
           "file": "plot_01_exposition.md",
           "kind": "plot",
           "title": "La Exposición Iberoamericana de Sevilla",
@@ -13890,6 +13896,12 @@
           "file": "plot_03_referendum.md",
           "kind": "plot",
           "title": "El Referéndum de Autonomía",
+          "taxonomy": "play_andalusia.md"
+        },
+        {
+          "file": "plot_99_el_mar_de_plastico.md",
+          "kind": "plot",
+          "title": "The Sea of Plastic",
           "taxonomy": "play_andalusia.md"
         },
         {
@@ -13917,7 +13929,8 @@
           "kind": "process",
           "title": "prensado tradicional de Aceituna"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-andalusia"
     },
     {
       "kind": "culture",

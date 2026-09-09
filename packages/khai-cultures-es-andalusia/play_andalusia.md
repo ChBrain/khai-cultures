@@ -64,6 +64,10 @@ El compás manda antes que el reloj en esta tierra de calor humano y herencia mu
 
 ## Triggers
 
+**[Plot 0: El monte de las ánforas](plot_00_el_monte_de_las_anforas.md)**
+
+Un valle fértil con una sola puerta, y da al océano: por el único río navegable de la península ha salido plata, aceite y todo lo que llegaba de América, y a un almacén con muelle no le hace falta gente que posea, sino gente que cargue.
+
 **[Plot 1: La Exposición Iberoamericana de Sevilla 1929](plot_01_exposition.md)**
 
 Sevilla inaugura su exposición iberoamericana, consagrando el estilo neomudéjar y los lazos históricos con América.
@@ -75,6 +79,10 @@ Los jornaleros del campo exigen el reparto de las grandes fincas terratenientes,
 **[Plot 3: El Referéndum de Autonomía 1980](plot_03_referendum.md)**
 
 Andalucía consigue por votación popular masiva su autonomía plena por la vía rápida constitucional del artículo 151.
+
+**[Plot 99: El mar de plástico](plot_99_el_mar_de_plastico.md)**
+
+La misma forma con otro cultivo: decenas de miles de hectáreas de invernadero surten al norte en invierno con brazos que llegan por campaña, la sequía encarece el aceite en la casa que lo hace, y en 2023 Doñana marca el límite de cuánta agua más puede cargarse.
 
 ## Stakes
 
