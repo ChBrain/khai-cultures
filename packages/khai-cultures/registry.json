@@ -14414,8 +14414,8 @@
       "title": "Islas Canarias",
       "description": "Islas Canarias representada: el pico del Teide, el silbo gomero entre barrancos y las plataneras del Atlántico.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/es_canary_islands"
+        "package": "@chbrain/khai-cultures-es-canary-islands",
+        "path": ""
       },
       "iso": "ES-CN",
       "members": [
@@ -14470,6 +14470,12 @@
           "title": "Islas Canarias"
         },
         {
+          "file": "plot_00_agua_del_aire.md",
+          "kind": "plot",
+          "title": "Water Out of Air",
+          "taxonomy": "play_canary_islands.md"
+        },
+        {
           "file": "plot_01_conquest.md",
           "kind": "plot",
           "title": "El Fin de la Conquista",
@@ -14485,6 +14491,12 @@
           "file": "plot_03_teide.md",
           "kind": "plot",
           "title": "El Observatorio del Teide",
+          "taxonomy": "play_canary_islands.md"
+        },
+        {
+          "file": "plot_99_lo_que_llega_por_el_mar.md",
+          "kind": "plot",
+          "title": "What Arrives by Sea",
           "taxonomy": "play_canary_islands.md"
         },
         {
@@ -14512,7 +14524,8 @@
           "kind": "process",
           "title": "lenguaje silbado tradicional del Silbo Gomero"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-es-canary-islands"
     },
     {
       "kind": "culture",

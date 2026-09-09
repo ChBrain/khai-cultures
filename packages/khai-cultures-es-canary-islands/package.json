@@ -1,0 +1,33 @@
+{
+  "name": "@chbrain/khai-cultures-es-canary-islands",
+  "version": "0.1.0",
+  "description": "khai cultures: es_canary_islands, one culture staged as a khai play.",
+  "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChBrain/khai-cultures.git"
+  },
+  "type": "module",
+  "files": [
+    "*.md",
+    "geo.json",
+    "coverage-waivers.json",
+    "LICENSE",
+    "LICENSE-CODE"
+  ],
+  "khai": {
+    "class": "house",
+    "production": "es_canary_islands",
+    "anchor": "play_canary_islands.md"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "dependencies": {
+    "@chbrain/khai-cultures-spain": "^0.1.0",
+    "@chbrain/khai-cultures-tongues": "^0.67.0",
+    "@chbrain/khai-engine-language": "^0.1.5",
+    "@chbrain/khai-engine-spine": "^0.1.5"
+  }
+}
