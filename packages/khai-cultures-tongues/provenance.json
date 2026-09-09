@@ -435,6 +435,13 @@
     "orthography": "ortografía académica (RAE)",
     "tongue": "Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation"
   },
+  "es/position_language_es_es_nc.md": {
+    "from": "es_navarre",
+    "note": "Moved byte for byte, the thirteenth regional Spanish variety in es/, correctly titled \"Navarrese Spanish\" on arrival and opening no deferral. Only es_navarre linked it, so step 3 and step 4 rode together under the limit set at #608. It is the only one of the thirteen that describes itself as two things at once: it says plainly that in the northern valleys it carries the sung intonation of euskera underneath while the words stay Castilian, and in the Ribera it does not. So a single variety file holds both halves of a territory that has been split between a language isolate and a Romance since before either had a name - which is the same split the culture's own Arc opens on. Its whole body is written without accents, as es_es_ct is; reported, not repaired, since the move carries it unchanged.",
+    "orthography": "ortografia de la RAE",
+    "review": "native",
+    "tongue": "Navarrese Spanish: Castilian that changes what it carries halfway up the valley"
+  },
   "es/position_language_es_es_pv.md": {
     "from": "es_basque_country",
     "note": "Moved byte for byte, the eleventh regional Spanish variety in es/, correctly titled on arrival and opening no deferral. Only es_basque_country linked it, so step 3 and step 4 rode together under the limit set at #608. It is the most interesting of the eleven for one reason: the other ten are Castilian coloured by another Romance next door, and this one is Castilian coloured by a language that is related to nothing at all - the flattened intonation, the word order carried over from a tongue that puts the verb last, and the pull toward marking who did the thing, which euskera obliges and Castilian does not. Flagged for native review.",
