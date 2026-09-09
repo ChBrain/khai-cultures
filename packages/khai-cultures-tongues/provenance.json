@@ -361,6 +361,12 @@
     "orthography": "standard English orthography",
     "tongue": "Virginian English, the drawl and the second-person plural English otherwise lost"
   },
+  "eo/position_language_eo.md": {
+    "note": "Written here rather than carried in from a culture, like the other anchors that no single culture owns, and it is the only one that could not have come from a culture at all. The package opens by claiming that a variety is held by the speech community that speaks it and not by a country; Esperanto is the one language in the house where that is exclusively true, because there is no country to mistake it for. The definition in position_language.md admits it without amendment: it is a code other people already hold, it has the five channels, it has registers, it has speakers who were raised in it, and its last clause - that a language recruits - is not a metaphor here. Flagged for native review, which for this language means a fluent reader rather than a first-language one, and there are both.",
+    "orthography": "la Fundamenta ortografio, kun la ĉapelitaj literoj",
+    "review": "native",
+    "tongue": "Esperanto: the only tongue here that nobody was born into and nobody was made to take"
+  },
   "es/position_language_es.md": {
     "note": "Written here, not carried in from a culture. It holds what every Spanish variety shares, which is where that material always belonged: the varieties found thin in the Länder walk were thin because they were spending their four chapters on the language and had nothing left for themselves. With an anchor to carry the agreement, the subjunctive, the person carried in the verb and the tú/usted decision, a variety is free to say only what is its own.",
     "orthography": "ortografía académica (RAE)",
