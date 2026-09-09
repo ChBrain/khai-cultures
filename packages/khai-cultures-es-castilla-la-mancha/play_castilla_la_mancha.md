@@ -47,7 +47,7 @@ Castilla-La Mancha, comunidad autónoma y nacionalidad histórica del centro de 
 - [la cultura manchega](position_culture_cultura_manchega.md)
 - [la llanura](position_llanura_identity.md)
 - [el derecho de pozos](position_well_rights.md)
-- [el espanol manchego](position_language_es_es_cm.md)
+- [el español manchego](@chbrain/khai-cultures-tongues/es/position_language_es_es_cm.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ Castilla-La Mancha, comunidad autónoma y nacionalidad histórica del centro de 
 
 ## Triggers
 
+**[Plot 0: Los ojos del Guadiana](plot_00_los_ojos_del_guadiana.md)**
+
+El nombre de esta llanura significa tierra seca en árabe andalusí, y la llanura flota sobre uno de los mayores acuíferos de Europa: un río que se hunde y vuelve a salir por unos hoyos, de donde sale que aquí lo que ordena la vida sea el derecho de pozos.
+
 **[Plot 1: Las Navas de Tolosa 1212](plot_01_las_navas.md)**
 
 La coalición cristiana derrota a los almohades en Jaén, abriendo la colonización y repoblación de los campos de La Mancha.
@@ -75,6 +79,10 @@ Miguel de Cervantes publica la historia de Don Quijote, convirtiendo la meseta m
 **[Plot 3: El Acuífero Protegido 1987](plot_03_aquifer.md)**
 
 El gobierno declara la sobreexplotación del acuífero 23, interviniendo la perforación de pozos de riego agrícola.
+
+**[Plot 99: El nombre y la cosa](plot_99_el_nombre_y_la_cosa.md)**
+
+Las bombas cerraron los ojos y en 2009 el humedal seco ardió por debajo; con los pozos vigilados volvieron a manar algunos años. Arriba la llanura sigue cosechando viento, y de sus dos nombres el queso conservó el suyo y el azafrán lo perdió.
 
 ## Stakes
 
