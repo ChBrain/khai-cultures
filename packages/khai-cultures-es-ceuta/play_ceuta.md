@@ -60,6 +60,10 @@ Aquí la ciudad se lee por capas y todas siguen a la vista: la plaza fenicia y r
 
 ## Triggers
 
+**[Plot 0: Catorce kilómetros](plot_00_catorce_kilometros.md)**
+
+Todo el intercambio entre dos mares pasa por un embudo de catorce kilómetros, y quien tiene puerto y altura sobre ese paso no tiene una costa sino una llave: de ahí las capas que no se borraron unas a otras y las cuatro comunidades que se quedaron de tanto hacer escala.
+
 **[Plot 1: La Conquista de 1415](plot_01_la_conquista_de_1415.md)**
 
 La flota portuguesa toma la ciudad musulmana en una sola jornada de agosto y la orilla africana del Estrecho pasa a manos europeas, primer paso de una expansión que seguirá costa abajo.
@@ -71,6 +75,10 @@ Ceuta, española por voluntad propia desde la separación de las coronas, resist
 **[Plot 3: El Estatuto de 1995](plot_03_el_estatuto_de_1995.md)**
 
 La ciudad recibe estatuto de autonomía y gobierno propio, y con él la tarea de administrar en su nombre la convivencia, la frontera y una economía que depende de lo que cruza.
+
+**[Plot 99: La raya ya no da de comer](plot_99_la_raya_ya_no_da_de_comer.md)**
+
+El porteo se apagó sin decreto entre 2019 y la pandemia; en mayo de 2021 miles de personas cruzaron en cuarenta y ocho horas, muchas a nado; y en 2023 cruzaron camiones con papeles por primera vez en seiscientos años. Tres cosas distintas en cinco años, ninguna decidida aquí.
 
 ## Stakes
 
