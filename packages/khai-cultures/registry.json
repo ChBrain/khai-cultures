@@ -5550,112 +5550,6 @@
     },
     {
       "kind": "culture",
-      "id": "catalonia",
-      "title": "Cataluña",
-      "description": "Cataluña representada: la cuna del modernismo de Gaudí, los castells de la plaza y las viñas del Penedès.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/catalonia"
-      },
-      "iso": "ES-CT",
-      "members": [
-        {
-          "file": "persona_jordi.md",
-          "kind": "persona",
-          "title": "Jordi",
-          "type": "archetype",
-          "taxonomy": "position_modernisme_art.md"
-        },
-        {
-          "file": "persona_montserrat.md",
-          "kind": "persona",
-          "title": "Montserrat",
-          "type": "archetype",
-          "taxonomy": "position_culture_identidad_catalana.md"
-        },
-        {
-          "file": "piece_gralla.md",
-          "kind": "piece",
-          "title": "La Gralla de Madera"
-        },
-        {
-          "file": "piece_porro.md",
-          "kind": "piece",
-          "title": "El Porro de Vidrio Soplado"
-        },
-        {
-          "file": "pitch_catalonia.md",
-          "kind": "pitch",
-          "title": "El Tono Catalán",
-          "taxonomy": "play_catalonia.md"
-        },
-        {
-          "file": "place_penedes.md",
-          "kind": "place",
-          "title": "El Penedès"
-        },
-        {
-          "file": "place_sagrada_familia.md",
-          "kind": "place",
-          "title": "La Sagrada Família"
-        },
-        {
-          "file": "plan_catalan_immersion.md",
-          "kind": "plan",
-          "title": "El Plan de Inmersión Lingüística"
-        },
-        {
-          "file": "play_catalonia.md",
-          "kind": "play",
-          "title": "Cataluña"
-        },
-        {
-          "file": "plot_01_renaixenca.md",
-          "kind": "plot",
-          "title": "La Renaixença",
-          "taxonomy": "play_catalonia.md"
-        },
-        {
-          "file": "plot_02_exposition.md",
-          "kind": "plot",
-          "title": "La Exposición Universal de Barcelona",
-          "taxonomy": "play_catalonia.md"
-        },
-        {
-          "file": "plot_03_statute.md",
-          "kind": "plot",
-          "title": "El Estatuto de Sau",
-          "taxonomy": "play_catalonia.md"
-        },
-        {
-          "file": "position_culture_identidad_catalana.md",
-          "kind": "position",
-          "title": "La Identidad Catalana"
-        },
-        {
-          "file": "position_language_es_es_ct.md",
-          "kind": "position",
-          "title": "Spanish of Catalonia"
-        },
-        {
-          "file": "position_modernisme_art.md",
-          "kind": "position",
-          "title": "El Modernismo"
-        },
-        {
-          "file": "process_castells_building.md",
-          "kind": "process",
-          "title": "construcción popular de Castells"
-        },
-        {
-          "file": "process_cava_making.md",
-          "kind": "process",
-          "title": "elaboración tradicional de Cava"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "central_african_republic",
       "title": "Central African Republic",
       "description": "A land of many peoples bound by Sango and the creed that every person is a person.",
@@ -14887,6 +14781,120 @@
           "title": "horneado tradicional de Sobao Pasiego"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "es_catalonia",
+      "title": "Cataluña",
+      "description": "Cataluña representada: la cuna del modernismo de Gaudí, los castells de la plaza y las viñas del Penedès.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-catalonia",
+        "path": ""
+      },
+      "iso": "ES-CT",
+      "members": [
+        {
+          "file": "persona_jordi.md",
+          "kind": "persona",
+          "title": "Jordi",
+          "type": "archetype",
+          "taxonomy": "position_modernisme_art.md"
+        },
+        {
+          "file": "persona_montserrat.md",
+          "kind": "persona",
+          "title": "Montserrat",
+          "type": "archetype",
+          "taxonomy": "position_culture_identidad_catalana.md"
+        },
+        {
+          "file": "piece_gralla.md",
+          "kind": "piece",
+          "title": "La Gralla de Madera"
+        },
+        {
+          "file": "piece_porro.md",
+          "kind": "piece",
+          "title": "El Porro de Vidrio Soplado"
+        },
+        {
+          "file": "pitch_catalonia.md",
+          "kind": "pitch",
+          "title": "El Tono Catalán",
+          "taxonomy": "play_catalonia.md"
+        },
+        {
+          "file": "place_penedes.md",
+          "kind": "place",
+          "title": "El Penedès"
+        },
+        {
+          "file": "place_sagrada_familia.md",
+          "kind": "place",
+          "title": "La Sagrada Família"
+        },
+        {
+          "file": "plan_catalan_immersion.md",
+          "kind": "plan",
+          "title": "El Plan de Inmersión Lingüística"
+        },
+        {
+          "file": "play_catalonia.md",
+          "kind": "play",
+          "title": "Cataluña"
+        },
+        {
+          "file": "plot_00_el_consulado_del_mar.md",
+          "kind": "plot",
+          "title": "The Consulate of the Sea",
+          "taxonomy": "play_catalonia.md"
+        },
+        {
+          "file": "plot_01_renaixenca.md",
+          "kind": "plot",
+          "title": "La Renaixença",
+          "taxonomy": "play_catalonia.md"
+        },
+        {
+          "file": "plot_02_exposition.md",
+          "kind": "plot",
+          "title": "La Exposición Universal de Barcelona",
+          "taxonomy": "play_catalonia.md"
+        },
+        {
+          "file": "plot_03_statute.md",
+          "kind": "plot",
+          "title": "El Estatuto de Sau",
+          "taxonomy": "play_catalonia.md"
+        },
+        {
+          "file": "plot_99_la_pinya.md",
+          "kind": "plot",
+          "title": "The Base of the Tower",
+          "taxonomy": "play_catalonia.md"
+        },
+        {
+          "file": "position_culture_identidad_catalana.md",
+          "kind": "position",
+          "title": "La Identidad Catalana"
+        },
+        {
+          "file": "position_modernisme_art.md",
+          "kind": "position",
+          "title": "El Modernismo"
+        },
+        {
+          "file": "process_castells_building.md",
+          "kind": "process",
+          "title": "construcción popular de Castells"
+        },
+        {
+          "file": "process_cava_making.md",
+          "kind": "process",
+          "title": "elaboración tradicional de Cava"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-catalonia"
     },
     {
       "kind": "culture",

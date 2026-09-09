@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **131 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **132 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -94,6 +94,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_cb.md`     | Cantabrian Spanish: the unhurried line and a vocabulary split between the sea and the high pasture                                                        | `es`         |
 | `es/position_language_es_es_ce.md`     | Ceutan Spanish, Andalusian in its sounds and full of Darija that nobody hears as borrowed                                                                 | `es`         |
 | `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                                                                    | `es`         |
+| `es/position_language_es_es_ct.md`     | Spanish of Catalonia: Castilian spoken with another language's intonation behind it, and calqued where the other one gets there first                     | `es`         |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                         | `es`         |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                             | `es`         |
 | `es/position_language_es_uy.md`        | Uruguayan Spanish: the voseo with its own conjugation, vos tenés and vos sos                                                                              | `es`         |
