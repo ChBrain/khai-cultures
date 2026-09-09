@@ -46,8 +46,8 @@ Depende, dicen aquí, y depende también de la lluvia y de la ría: verde, marí
 
 - [la vida marítima](position_atlantic_maritime.md)
 - [la identidad gallega](position_culture_identidad_gallega.md)
-- [el español de Galicia](position_language_es_es_ga.md)
-- [o galego](position_language_gl.md)
+- [el español de Galicia](@chbrain/khai-cultures-tongues/es/position_language_es_es_ga.md)
+- [o galego](@chbrain/khai-cultures-tongues/gl/position_language_gl.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ Depende, dicen aquí, y depende también de la lluvia y de la ría: verde, marí
 
 ## Triggers
 
+**[Plot 0: Donde se acaba la tierra](plot_00_donde_se_acaba_la_tierra.md)**
+
+Los romanos llamaron a esta costa el fin de la tierra, y aquí conviven dos hechos: [la ría](place_rias_baixas.md) da de comer a quien baje a la arena con la marea, y el minifundio no da nunca para mantener a los hijos; de ahí salen [el marisqueo](process_shellfishing.md), la barca y el vapor a Buenos Aires.
+
 **[Plot 1: El Rexurdimento 1863](plot_01_rexurdimento.md)**
 
 Rosalía de Castro publica Cantares Gallegos, iniciando la restauración literaria y la dignidad de la lengua gallega.
@@ -75,6 +79,10 @@ Miles de gallegos zarpan de los puertos de Vigo y A Coruña hacia Buenos Aires y
 **[Plot 3: El Estatuto de Galicia 1981](plot_03_statute.md)**
 
 Galicia aprueba su Estatuto de Autonomía, declarando al gallego lengua oficial y regulando la pesca costera.
+
+**[Plot 99: Depende](plot_99_depende.md)**
+
+Entre 2023 y 2024 la almeja y el berberecho se hunden en las rías y [el galego](@chbrain/khai-cultures-tongues/gl/position_language_gl.md) queda por primera vez como lengua habitual de menos de la mitad; mientras tanto la gaita de [Rosalía](persona_rosalia.md) tiene lista de espera, porque el instrumento se enseña y la lengua se daba por hecha.
 
 ## Stakes
 

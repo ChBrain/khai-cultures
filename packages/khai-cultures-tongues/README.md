@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **132 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **134 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -95,6 +95,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `es/position_language_es_es_ce.md`     | Ceutan Spanish, Andalusian in its sounds and full of Darija that nobody hears as borrowed                                                                 | `es`         |
 | `es/position_language_es_es_cn.md`     | Canarian Spanish: seseo, ustedes, and an Atlantic rather than peninsular set of tenses                                                                    | `es`         |
 | `es/position_language_es_es_ct.md`     | Spanish of Catalonia: Castilian spoken with another language's intonation behind it, and calqued where the other one gets there first                     | `es`         |
+| `es/position_language_es_es_ga.md`     | Spanish of Galicia: Castilian with the other tongue's melody still on it, and its habits underneath                                                       | `es`         |
 | `es/position_language_es_es_ib.md`     | Balearic Spanish: Castilian grammar carrying a Mallorcan ear it cannot write down                                                                         | `es`         |
 | `es/position_language_es_es_ml.md`     | Melillan Spanish, close to the standard and carrying the complete vocabulary of accreditation                                                             | `es`         |
 | `es/position_language_es_uy.md`        | Uruguayan Spanish: the voseo with its own conjugation, vos tenés and vos sos                                                                              | `es`         |
@@ -112,6 +113,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `ga/position_language_ga_gb_nir.md`    | Ulster Irish: cha beside ní, the pronoun left standing, and the stress that never moves                                                                   | `ga`         |
 | `gallo/position_language_gallo.md`     | Gallo: a langue d'oil of upper Brittany, sister to French rather than daughter, and the only tongue in this package with no code of its own anywhere      | `fr-x-gallo` |
 | `gd/position_language_gd.md`           | Scottish Gaelic: possession as a preposition rather than a verb, and no single word for yes                                                               | `gd`         |
+| `gl/position_language_gl.md`           | Galician: an infinitive that inflects for person, so a subordinate clause names its own subject before the verb is finished                               | `gl`         |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                                                         | `gsw`        |
 | `gsw/position_language_gsw_fr.md`      | Alsatian: the Alemannic variety whose written roof was removed rather than replaced                                                                       | `gsw`        |
 | `hi/position_language_hi.md`           | Hindi: the same speech that, written in another script and under another name, is counted as a second language                                            | `hi`         |

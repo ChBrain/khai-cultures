@@ -409,6 +409,13 @@
     "review": "native",
     "tongue": "Spanish of Catalonia: Castilian spoken with another language's intonation behind it, and calqued where the other one gets there first"
   },
+  "es/position_language_es_es_ga.md": {
+    "from": "es_galicia",
+    "note": "Moved byte for byte, the tenth regional Spanish variety in es/, correctly titled \"Spanish of Galicia\" on arrival, and opening no deferral. Only es_galicia linked it. What it holds is the Castilian of speakers whose other tongue is next door in the same mouth: the rising, sung intonation the rest of Spain identifies instantly, the verbal habits carried over from Galician - the perfect avoided, the diminutive used where no smallness is meant - and the conditional answer that this culture's own Arc opens on. It is the counterpart file to gl, moved in the same change, and the two together are the reason es_galicia held two language positions rather than one.",
+    "orthography": "ortografia de la RAE",
+    "review": "native",
+    "tongue": "Spanish of Galicia: Castilian with the other tongue's melody still on it, and its habits underneath"
+  },
   "es/position_language_es_es_ib.md": {
     "from": "es_balearic_islands",
     "note": "Read against the mnemonic on the way through: nothing was cut. Its Loses is the good one and it is precisely stated - the salted article, es and sa, cannot cross into Castilian because Castilian grammar has no slot for it, so the feature stays trapped in the language of the house and never reaches the language of dealings. It names Mallorcan as the tongue next door, which is the allowance.",
@@ -520,6 +527,13 @@
     "orthography": "Gaelic Orthographic Conventions",
     "review": "native",
     "tongue": "Scottish Gaelic: possession as a preposition rather than a verb, and no single word for yes"
+  },
+  "gl/position_language_gl.md": {
+    "from": "es_galicia",
+    "note": "Moved byte for byte. A NEW ANCHOR, and one that arrived in unusually good order: correctly named gl, correctly titled with the bare \"Galician\", and written in Galician rather than about it. Its Has is language-wide and none of it is Spain's: the inflected infinitive, which it shares with Portuguese and which Castilian does not have at all, so that ao chegarmos and para falares already say who is acting without a pronoun; the xa and ainda pair, which does the work other languages give to a compound tense, marking a thing finished or a thing still pending where Castilian would reach for he cantado; and the seven falling diphthongs of sei, foi, ouro, seu, viu, moi and vai, in which the closed vowel follows the open one inside a single syllable and never breaks into hiatus. NO DEFERRAL IS OPENED. Only es_galicia linked it, which is why step 3 and step 4 rode together here under the limit set at #608. Its nearest relative in this package is pt, and the pair is worth reading together: Galician and Portuguese are one medieval tongue that a border divided, and the inflected infinitive is the piece of evidence they still hold in common. Flagged for native review.",
+    "orthography": "normativa oficial do galego (RAG e ILG)",
+    "review": "native",
+    "tongue": "Galician: an infinitive that inflects for person, so a subordinate clause names its own subject before the verb is finished"
   },
   "gsw/position_language_gsw.md": {
     "note": "Placed by the rule this batch settled: the directory is the ISO code the file declares, the members tree is composition and not descent, and linguistic descent lives in the prose. So `gsw` sits beside `swg` in the filesystem even though Swabian is a branch of Alemannic and not its neighbour - the registry makes them siblings, linguistics does not, and the file says so in its own text rather than encoding the registry's error in the structure. Its Has is the old monophthongs, Huus and Zit and Lüt where High German diphthongised, which is a sound state preserved rather than a colour added. Its Loses is that it loses itself to state borders: the same tongue is a dialect to be ashamed of in one country and the educated colloquial in another, and nothing about the sound changes, only the standing. Exempt, and khai refused gsw for detection on measured grounds - this file is evidence for that refusal rather than against it, since franc scores it deu:1.00 with gsw third at 0.98, inside the margin. It is offered to khai as the real Alemannic prose they asked for.",

@@ -14999,6 +14999,120 @@
     },
     {
       "kind": "culture",
+      "id": "es_galicia",
+      "title": "Galicia",
+      "description": "Galicia representada: las rías pesqueras del Atlántico, el sonido de la gaita y la morriña del emigrante rural.",
+      "source": {
+        "package": "@chbrain/khai-cultures-es-galicia",
+        "path": ""
+      },
+      "iso": "ES-GA",
+      "members": [
+        {
+          "file": "persona_rosalia.md",
+          "kind": "persona",
+          "title": "Rosalía",
+          "type": "archetype",
+          "taxonomy": "position_culture_identidad_gallega.md"
+        },
+        {
+          "file": "persona_xoan.md",
+          "kind": "persona",
+          "title": "Xoán",
+          "type": "archetype",
+          "taxonomy": "position_atlantic_maritime.md"
+        },
+        {
+          "file": "piece_gaita.md",
+          "kind": "piece",
+          "title": "La Gaita Tradicional Gallega"
+        },
+        {
+          "file": "piece_pote.md",
+          "kind": "piece",
+          "title": "El Pote Gallego de Tres Pies"
+        },
+        {
+          "file": "pitch_galicia.md",
+          "kind": "pitch",
+          "title": "El Tono Gallego",
+          "taxonomy": "play_galicia.md"
+        },
+        {
+          "file": "place_rias_baixas.md",
+          "kind": "place",
+          "title": "Las Rías Baixas"
+        },
+        {
+          "file": "place_santiago_cathedral.md",
+          "kind": "place",
+          "title": "La Catedral de Santiago"
+        },
+        {
+          "file": "plan_rias_estuary_protection.md",
+          "kind": "plan",
+          "title": "El Plan de Protección de las Rías"
+        },
+        {
+          "file": "play_galicia.md",
+          "kind": "play",
+          "title": "Galicia"
+        },
+        {
+          "file": "plot_00_donde_se_acaba_la_tierra.md",
+          "kind": "plot",
+          "title": "Where the Land Ends",
+          "taxonomy": "play_galicia.md"
+        },
+        {
+          "file": "plot_01_rexurdimento.md",
+          "kind": "plot",
+          "title": "El Rexurdimento",
+          "taxonomy": "play_galicia.md"
+        },
+        {
+          "file": "plot_02_emigration.md",
+          "kind": "plot",
+          "title": "La Gran Emigración",
+          "taxonomy": "play_galicia.md"
+        },
+        {
+          "file": "plot_03_statute.md",
+          "kind": "plot",
+          "title": "El Estatuto de Galicia",
+          "taxonomy": "play_galicia.md"
+        },
+        {
+          "file": "plot_99_depende.md",
+          "kind": "plot",
+          "title": "It Depends",
+          "taxonomy": "play_galicia.md"
+        },
+        {
+          "file": "position_atlantic_maritime.md",
+          "kind": "position",
+          "title": "La Vida Marítima"
+        },
+        {
+          "file": "position_culture_identidad_gallega.md",
+          "kind": "position",
+          "title": "La Identidad Gallega"
+        },
+        {
+          "file": "process_octopus_cooking.md",
+          "kind": "process",
+          "title": "hervido tradicional de Pulpo"
+        },
+        {
+          "file": "process_shellfishing.md",
+          "kind": "process",
+          "title": "marisqueo tradicional a pie"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-es-galicia"
+    },
+    {
+      "kind": "culture",
       "id": "es_melilla",
       "title": "Melilla",
       "description": "Melilla representada: la ciudadela sobre el mar de Alborán, el ensanche modernista y la raya de Beni Enzar.",
@@ -17018,117 +17132,6 @@
           "file": "process_le_bwiti.md",
           "kind": "process",
           "title": "The Bwiti"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
-      "id": "galicia",
-      "title": "Galicia",
-      "description": "Galicia representada: las rías pesqueras del Atlántico, el sonido de la gaita y la morriña del emigrante rural.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/galicia"
-      },
-      "iso": "ES-GA",
-      "members": [
-        {
-          "file": "persona_rosalia.md",
-          "kind": "persona",
-          "title": "Rosalía",
-          "type": "archetype",
-          "taxonomy": "position_culture_identidad_gallega.md"
-        },
-        {
-          "file": "persona_xoan.md",
-          "kind": "persona",
-          "title": "Xoán",
-          "type": "archetype",
-          "taxonomy": "position_atlantic_maritime.md"
-        },
-        {
-          "file": "piece_gaita.md",
-          "kind": "piece",
-          "title": "La Gaita Tradicional Gallega"
-        },
-        {
-          "file": "piece_pote.md",
-          "kind": "piece",
-          "title": "El Pote Gallego de Tres Pies"
-        },
-        {
-          "file": "pitch_galicia.md",
-          "kind": "pitch",
-          "title": "El Tono Gallego",
-          "taxonomy": "play_galicia.md"
-        },
-        {
-          "file": "place_rias_baixas.md",
-          "kind": "place",
-          "title": "Las Rías Baixas"
-        },
-        {
-          "file": "place_santiago_cathedral.md",
-          "kind": "place",
-          "title": "La Catedral de Santiago"
-        },
-        {
-          "file": "plan_rias_estuary_protection.md",
-          "kind": "plan",
-          "title": "El Plan de Protección de las Rías"
-        },
-        {
-          "file": "play_galicia.md",
-          "kind": "play",
-          "title": "Galicia"
-        },
-        {
-          "file": "plot_01_rexurdimento.md",
-          "kind": "plot",
-          "title": "El Rexurdimento",
-          "taxonomy": "play_galicia.md"
-        },
-        {
-          "file": "plot_02_emigration.md",
-          "kind": "plot",
-          "title": "La Gran Emigración",
-          "taxonomy": "play_galicia.md"
-        },
-        {
-          "file": "plot_03_statute.md",
-          "kind": "plot",
-          "title": "El Estatuto de Galicia",
-          "taxonomy": "play_galicia.md"
-        },
-        {
-          "file": "position_atlantic_maritime.md",
-          "kind": "position",
-          "title": "La Vida Marítima"
-        },
-        {
-          "file": "position_culture_identidad_gallega.md",
-          "kind": "position",
-          "title": "La Identidad Gallega"
-        },
-        {
-          "file": "position_language_es_es_ga.md",
-          "kind": "position",
-          "title": "Spanish of Galicia"
-        },
-        {
-          "file": "position_language_gl.md",
-          "kind": "position",
-          "title": "Galician"
-        },
-        {
-          "file": "process_octopus_cooking.md",
-          "kind": "process",
-          "title": "hervido tradicional de Pulpo"
-        },
-        {
-          "file": "process_shellfishing.md",
-          "kind": "process",
-          "title": "marisqueo tradicional a pie"
         }
       ]
     },
