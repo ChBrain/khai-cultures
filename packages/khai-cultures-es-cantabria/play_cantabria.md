@@ -64,6 +64,10 @@ Aquí la montaña baja hasta mojarse los pies en el mar, entre puertos pesqueros
 
 ## Triggers
 
+**[Plot 0: Una mano en la pared](plot_00_una_mano_en_la_pared.md)**
+
+Una cornisa estrecha de caliza agujereada que siguió siendo habitable cuando el hielo bajó: aquí no se marchó nadie en cuarenta mil años y quedaron decenas de cuevas pintadas; sin llano, la vida se organiza en vertical, de cabaña en cabaña y de rada en rada.
+
 **[Plot 1: El Descubrimiento de Altamira 1879](plot_01_altamira.md)**
 
 Marcelino Sanz de Sautuola halla las pinturas de bisontes en Santillana, iniciando el reconocimiento internacional del arte paleolítico.
@@ -75,6 +79,10 @@ Un viento huracanado propaga un incendio que destruye por completo el centro his
 **[Plot 3: El Saneamiento de las Bahías 1990](plot_03_sanitation.md)**
 
 Se inicia el plan de depuración de aguas residuales urbanas e industriales de la bahía de Santander y Santoña.
+
+**[Plot 99: Saber parar](plot_99_saber_parar.md)**
+
+Cinco campañas sin pescar bocarte para que volviera a haberlo, una cueva cerrada con sorteo semanal de unos pocos visitantes, y unas rías devueltas por plan; lo que no se ha resuelto es la otra mitad de esa habilidad, cuándo y para qué se vuelve a abrir.
 
 ## Stakes
 
