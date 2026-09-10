@@ -37,6 +37,13 @@ import {
 } from "./culture_sources.mjs";
 import { hasOrigin } from "./plot_zero.mjs";
 import {
+  plotYear,
+  backwards,
+  units as plotUnits,
+  findings as orderFindings,
+  BRACKETS,
+} from "./plot_sequence.mjs";
+import {
   body as proseBody,
   declaredLanguage,
   marked,
@@ -701,5 +708,59 @@ describe("Cultures house: prose is spelled in the language it declares", () => {
     expect(rows.length).toBeGreaterThan(0);
     const pt = rows.filter(([, l]) => l === "pt").map(([p]) => p);
     expect(pt.every((p) => /cape_verde|guinea_bissau/.test(p))).toBe(true);
+  });
+});
+
+// The wall that reads whether a plot line runs forwards. What runs here is the
+// arithmetic and the exclusions; the gate needs a diff and runs in CI. Twenty-three
+// units are out of order today and that is not an error - the ratchet fires on plot
+// prose a change writes, so the count comes down as the house is walked.
+// See management/orders/order_a_plot_line_runs_forwards.md.
+describe("Cultures house: a plot line runs forwards", () => {
+  const plot = (declared, cue) =>
+    `---\nkhai: plot\ndeclared: "${declared}"\n---\n\n## Cue\n\n${cue ?? "Sin fecha."}\n\n## Action\n\nx\n`;
+
+  it("takes the year from the declared name first, and the Cue as fallback", () => {
+    expect(plotYear(plot("The Opry Founding 1925", "In 1954 something else."))).toBe(1925);
+    expect(plotYear(plot("La puerta", "En agosto de 1415 la flota cruza."))).toBe(1415);
+  });
+
+  it("takes the first year, because these are written subject-first", () => {
+    expect(plotYear(plot("El Estatuto de 1995", "En 1995, tras la ley de 1978."))).toBe(1995);
+  });
+
+  it("returns null for a plot that names no year, which is legitimate", () => {
+    expect(plotYear(plot("Agua del aire", "El bosque peina la niebla."))).toBeNull();
+  });
+
+  it("holds the origin and the present outside the chronology", () => {
+    expect(BRACKETS.has(0)).toBe(true);
+    expect(BRACKETS.has(99)).toBe(true);
+    expect(BRACKETS.has(1)).toBe(false);
+  });
+
+  it("allows two plots in the same year, and refuses a year that goes backwards", () => {
+    const rows = (...ys) => ys.map((y, i) => ({ n: i + 1, year: y, file: `plot_0${i + 1}_x.md` }));
+    expect(backwards(rows(1900, 1900, 1901))).toEqual([]);
+    expect(backwards(rows(1900, 1901, 1902))).toEqual([]);
+    expect(backwards(rows(1496, 1492))).toHaveLength(1);
+    expect(backwards(rows(1861, 1745, 2006))).toHaveLength(1);
+  });
+
+  it("walks directories, so cultures, groups and packages all reach it", () => {
+    const all = plotUnits();
+    expect(all.size).toBeGreaterThan(200);
+    const keys = [...all.keys()].join("\n");
+    expect(keys).toMatch(/packages\/khai-cultures\/cultures\//); // umbrella
+    expect(keys).toMatch(/packages\/khai-cultures-[a-z]/); // migrated package
+  });
+
+  // The finding this wall was written for, kept as a fact: the author of the wall
+  // shipped a disordered line three changes before writing it.
+  it("finds the out-of-order lines, es_canary_islands among them", () => {
+    const rows = orderFindings();
+    expect(rows.length).toBeGreaterThan(0);
+    const units_ = rows.map(([u]) => u);
+    expect(units_.some((u) => u.endsWith("khai-cultures-es-canary-islands"))).toBe(true);
   });
 });
