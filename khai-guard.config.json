@@ -43,6 +43,11 @@
       "count": "Plot 0(?: OK)?: (.+)"
     },
     {
+      "name": "plot-order",
+      "command": "node tests/plot_sequence.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Plot order(?: OK)?: (.+)"
+    },
+    {
       "name": "group-ratchet",
       "command": "node tests/group_coverage.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
       "count": "Group ratchet(?: OK)?: (.+)"
