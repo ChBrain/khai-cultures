@@ -147,6 +147,28 @@ export function findings(files = sources(), read = readCached) {
 }
 
 /**
+ * The content of a path AT a commit, or null.
+ *
+ * Read from the commit and not from the working tree. The gates invoke these
+ * walls with `--head $(git rev-parse HEAD)` on a checked-out head, so disk and
+ * head agree in ordinary use and reading disk looked fine - until the first
+ * replay of an older range, where every path resolved to a file that does not
+ * exist on the branch in hand and the scope came back empty. A gate that goes
+ * quiet when it cannot find a file is a gate that passes for the wrong reason.
+ */
+function atCommit(commit, path) {
+  try {
+    return execFileSync("git", ["show", `${commit}:${path}`], {
+      cwd: WORKSPACE,
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"],
+    });
+  } catch {
+    return null;
+  }
+}
+
+/**
  * What a change wrote, ignoring a move that carried the bytes unaltered.
  *
  * Rename detection is not a nicety here. Every culture that leaves the umbrella
@@ -171,21 +193,13 @@ export function written(base, head) {
     const was = status.startsWith("R") ? a : a;
     if (!path || !path.endsWith(".md") || !path.startsWith("packages/")) continue;
     if (status.startsWith("D")) continue;
-    const now = readCached(path);
-    if (now === null) continue;
     if (status === "R100") continue; // the bytes did not move, only the file did
-    let before = null;
-    if (!status.startsWith("A")) {
-      try {
-        before = execFileSync("git", ["show", `${base}:${was}`], {
-          cwd: WORKSPACE,
-          encoding: "utf8",
-          stdio: ["ignore", "pipe", "ignore"],
-        });
-      } catch {
-        before = null;
-      }
-    }
+    // Read from the commit, not the working tree: the same defect found in
+    // plot_sequence.mjs, where replaying an older range resolved every path
+    // against the branch in hand and quietly found nothing.
+    const now = atCommit(head, path);
+    if (now === null) continue;
+    const before = status.startsWith("A") ? null : atCommit(base, was);
     if (before !== now) out.push(path);
   }
   return out;

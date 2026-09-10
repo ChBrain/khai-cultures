@@ -41,6 +41,7 @@ import {
   backwards,
   units as plotUnits,
   findings as orderFindings,
+  plotNumber,
   BRACKETS,
 } from "./plot_sequence.mjs";
 import {
@@ -755,12 +756,26 @@ describe("Cultures house: a plot line runs forwards", () => {
     expect(keys).toMatch(/packages\/khai-cultures-[a-z]/); // migrated package
   });
 
-  // The finding this wall was written for, kept as a fact: the author of the wall
-  // shipped a disordered line three changes before writing it.
-  it("finds the out-of-order lines, es_canary_islands among them", () => {
-    const rows = orderFindings();
-    expect(rows.length).toBeGreaterThan(0);
-    const units_ = rows.map(([u]) => u);
-    expect(units_.some((u) => u.endsWith("khai-cultures-es-canary-islands"))).toBe(true);
+  // This asserted a census on its first draft - "es_canary_islands is among the
+  // offenders" - and then the next change fixed es_canary_islands and the test
+  // failed. A wall's tests must hold its CONTRACT, which does not move, and not
+  // its findings, which are supposed to go to zero. What is asserted here is the
+  // invariant: findings() reports a unit if and only if that unit really has a
+  // pair running backwards.
+  it("reports a unit if and only if its dated plots run backwards", () => {
+    const all = plotUnits();
+    const reported = new Set(orderFindings(all).map(([u]) => u));
+    for (const [unit, rows] of all) expect(reported.has(unit)).toBe(backwards(rows).length > 0);
+  });
+
+  it("counts a renumber as written, and a move that keeps its numbers as not", () => {
+    expect(plotNumber("packages/x/plot_02_a.md")).toBe(2);
+    expect(plotNumber("packages/x/plot_00_a.md")).toBe(0);
+    expect(plotNumber("packages/x/play_x.md")).toBeNull();
+    // a migration keeps the number and changes the home; a renumber does the reverse
+    expect(plotNumber("cultures/es_x/plot_01_a.md")).toBe(
+      plotNumber("packages/khai-cultures-es-x/plot_01_a.md"),
+    );
+    expect(plotNumber("x/plot_01_a.md")).not.toBe(plotNumber("x/plot_02_a.md"));
   });
 });

@@ -34,4 +34,4 @@ Una vasija cóncava pesada labrada en piedra de basalto negra porosa con tres pa
 ## Yearbook
 
 - Utilizado y documentado por la agrónoma platanera [Yaiza](persona_yaiza.md) en sus cocinas familiares de preparación de mojo.
-- Objeto de piedra tradicional destacado en el relato [El Fin de la Conquista 1496](plot_01_conquest.md).
+- Objeto de piedra tradicional destacado en el relato [El Fin de la Conquista 1496](plot_02_conquest.md).

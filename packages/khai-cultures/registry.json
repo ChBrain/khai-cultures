@@ -13699,15 +13699,15 @@
           "taxonomy": "play_canary_islands.md"
         },
         {
-          "file": "plot_01_conquest.md",
+          "file": "plot_01_columbus.md",
           "kind": "plot",
-          "title": "El Fin de la Conquista",
+          "title": "La Escala de Colón",
           "taxonomy": "play_canary_islands.md"
         },
         {
-          "file": "plot_02_columbus.md",
+          "file": "plot_02_conquest.md",
           "kind": "plot",
-          "title": "La Escala de Colón",
+          "title": "El Fin de la Conquista",
           "taxonomy": "play_canary_islands.md"
         },
         {
@@ -42023,8 +42023,8 @@
       "title": "United States",
       "description": "A nation founded on a creed, forever closing the gap between its promise and its reality.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/usa"
+        "package": "@chbrain/khai-cultures-usa",
+        "path": ""
       },
       "iso": "US",
       "members": [
@@ -42101,6 +42101,12 @@
           "title": "United States"
         },
         {
+          "file": "plot_00_three_months_behind.md",
+          "kind": "plot",
+          "title": "Three Months Behind",
+          "taxonomy": "play_usa.md"
+        },
+        {
           "file": "plot_01_founding_1776.md",
           "kind": "plot",
           "title": "The Founding",
@@ -42122,6 +42128,12 @@
           "file": "plot_04_american_century.md",
           "kind": "plot",
           "title": "The American Century",
+          "taxonomy": "play_usa.md"
+        },
+        {
+          "file": "plot_99_the_count.md",
+          "kind": "plot",
+          "title": "The Count",
           "taxonomy": "play_usa.md"
         },
         {
@@ -42154,7 +42166,8 @@
           "kind": "process",
           "title": "The Road Trip"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-usa"
     },
     {
       "kind": "culture",
