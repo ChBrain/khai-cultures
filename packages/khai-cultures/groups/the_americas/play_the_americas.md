@@ -29,7 +29,7 @@ Two continents joined by an isthmus, peopled first by indigenous civilizations -
 
 **Members**
 
-- [the United States](../../cultures/usa/play_usa.md) (the colossus of the north, independent 1776)
+- [the United States](@chbrain/khai-cultures-usa/play_usa.md) (the colossus of the north, independent 1776)
 - [Canada](@chbrain/khai-cultures-canada/play_canada.md) (the northern federation, two founding tongues)
 - [Mexico](../../cultures/mexico/play_mexico.md) (the Aztec heartland and the great mestizo nation)
 - [Guatemala](../../cultures/guatemala/play_guatemala.md) (the Maya highlands of Central America)
@@ -73,11 +73,11 @@ The deepest bond of the hemisphere is the New World itself: the encounter of 149
 
 **The wars of independence**
 
-Across a single long age of revolution from 1776 to 1825 the New World broke from its old masters: [the United States](../../cultures/usa/play_usa.md) first, then [Haiti](../../cultures/haiti/play_haiti.md) in 1804, then the Spanish American wars of liberation carried by Bolivar through [Colombia](../../cultures/colombia/play_colombia.md) and [Venezuela](../../cultures/venezuela/play_venezuela.md) and by San Martin through [Argentina](../../cultures/argentina/play_argentina.md) and the south, while [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) took its own imperial path. The islands of the Caribbean, from [Jamaica](../../cultures/jamaica/play_jamaica.md) to [Barbados](../../cultures/barbados/play_barbados.md), completed the work across the twentieth century.
+Across a single long age of revolution from 1776 to 1825 the New World broke from its old masters: [the United States](@chbrain/khai-cultures-usa/play_usa.md) first, then [Haiti](../../cultures/haiti/play_haiti.md) in 1804, then the Spanish American wars of liberation carried by Bolivar through [Colombia](../../cultures/colombia/play_colombia.md) and [Venezuela](../../cultures/venezuela/play_venezuela.md) and by San Martin through [Argentina](../../cultures/argentina/play_argentina.md) and the south, while [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) took its own imperial path. The islands of the Caribbean, from [Jamaica](../../cultures/jamaica/play_jamaica.md) to [Barbados](../../cultures/barbados/play_barbados.md), completed the work across the twentieth century.
 
 **The OAS and Pan-Americanism**
 
-The ideal of a hemisphere of republics found its institution in the Organization of American States, where every state of the Americas takes a seat, the loosest of the bonds and the most explicit. Pan-Americanism gathers [the United States](../../cultures/usa/play_usa.md) and the nations of Latin America and the Caribbean into one hemispheric conversation, however unequal, from [Mexico](../../cultures/mexico/play_mexico.md) to [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) to [Panama](../../cultures/panama/play_panama.md) and the islands.
+The ideal of a hemisphere of republics found its institution in the Organization of American States, where every state of the Americas takes a seat, the loosest of the bonds and the most explicit. Pan-Americanism gathers [the United States](@chbrain/khai-cultures-usa/play_usa.md) and the nations of Latin America and the Caribbean into one hemispheric conversation, however unequal, from [Mexico](../../cultures/mexico/play_mexico.md) to [Brazil](@chbrain/khai-cultures-brazil/play_brazil.md) to [Panama](../../cultures/panama/play_panama.md) and the islands.
 
 ## Stakes
 

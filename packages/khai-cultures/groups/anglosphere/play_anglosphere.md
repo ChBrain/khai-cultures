@@ -30,7 +30,7 @@ A grouping bound not by a treaty or a border but by a language and the world it 
 **Members**
 
 - [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md) (the mother country)
-- [the United States](../../cultures/usa/play_usa.md) (independent 1776)
+- [the United States](@chbrain/khai-cultures-usa/play_usa.md) (independent 1776)
 - [Canada](@chbrain/khai-cultures-canada/play_canada.md) (a dominion from 1867)
 - [Australia](../../cultures/australia/play_australia.md) (federated 1901)
 - [New Zealand](../../cultures/new_zealand/play_new_zealand.md) (a dominion from 1907)
@@ -43,11 +43,11 @@ The shared language and the common-law tradition are the true ground of the grou
 
 **The Five Eyes**
 
-Out of the wartime UKUSA agreement grew the Five Eyes, the intelligence-sharing alliance that binds [the United States](../../cultures/usa/play_usa.md), [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md), [Canada](@chbrain/khai-cultures-canada/play_canada.md), [Australia](../../cultures/australia/play_australia.md), and [New Zealand](../../cultures/new_zealand/play_new_zealand.md) into one trusted circle, sharing what they hear with each other and with no one else.
+Out of the wartime UKUSA agreement grew the Five Eyes, the intelligence-sharing alliance that binds [the United States](@chbrain/khai-cultures-usa/play_usa.md), [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md), [Canada](@chbrain/khai-cultures-canada/play_canada.md), [Australia](../../cultures/australia/play_australia.md), and [New Zealand](../../cultures/new_zealand/play_new_zealand.md) into one trusted circle, sharing what they hear with each other and with no one else.
 
 **The shared Crown and Commonwealth**
 
-Four of the five share a Crown and all but one belong to the Commonwealth, the kinship of the English-speaking peoples carried in a common head of state and a family of nations, with [the United States](../../cultures/usa/play_usa.md) the great exception that broke away and led.
+Four of the five share a Crown and all but one belong to the Commonwealth, the kinship of the English-speaking peoples carried in a common head of state and a family of nations, with [the United States](@chbrain/khai-cultures-usa/play_usa.md) the great exception that broke away and led.
 
 ## Stakes
 

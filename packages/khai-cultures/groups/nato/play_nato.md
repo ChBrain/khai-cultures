@@ -29,7 +29,7 @@ The one alliance that binds North America to Europe across an ocean, and the rar
 
 **Members**
 
-- [the United States](../../cultures/usa/play_usa.md) (1949)
+- [the United States](@chbrain/khai-cultures-usa/play_usa.md) (1949)
 - [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md) (1949)
 - [France](@chbrain/khai-cultures-france/play_france.md) (1949)
 - [Canada](@chbrain/khai-cultures-canada/play_canada.md) (1949)

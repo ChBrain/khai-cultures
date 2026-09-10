@@ -26,11 +26,11 @@ A conscript in Bavaria is told that the exercise scheduled for the spring is can
 
 ## Action
 
-NATO reinvents itself by acting beyond its own borders for the first time. Through the 1990s it intervenes in the Balkan wars, in Bosnia and then over Kosovo, no longer defending its own soil but enforcing a peace abroad. Then on 11 September 2001 the United States is attacked, and the alliance invokes Article 5 for the only time in its history - not to defend Europe from the East, but to stand with [the United States](../../cultures/usa/play_usa.md), its European members joining a long war in Afghanistan far from the North Atlantic. The defensive pact of the Cold War becomes an expeditionary one.
+NATO reinvents itself by acting beyond its own borders for the first time. Through the 1990s it intervenes in the Balkan wars, in Bosnia and then over Kosovo, no longer defending its own soil but enforcing a peace abroad. Then on 11 September 2001 the United States is attacked, and the alliance invokes Article 5 for the only time in its history - not to defend Europe from the East, but to stand with [the United States](@chbrain/khai-cultures-usa/play_usa.md), its European members joining a long war in Afghanistan far from the North Atlantic. The defensive pact of the Cold War becomes an expeditionary one.
 
 ## Stage
 
-- [the United States](../../cultures/usa/play_usa.md): attacked in 2001, the cause of the alliance's only Article 5 invocation.
+- [the United States](@chbrain/khai-cultures-usa/play_usa.md): attacked in 2001, the cause of the alliance's only Article 5 invocation.
 - [the United Kingdom](@chbrain/khai-cultures-united-kingdom/play_united_kingdom.md): foremost among the European allies in the wars that follow.
 - [Germany](@chbrain/khai-cultures-germany/play_germany.md): sending forces abroad for the first time since the war, a profound break with its past.
 

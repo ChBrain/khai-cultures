@@ -68,6 +68,10 @@ A nation unlike the old ones: not a people who slowly became a state, but a stat
 
 ## Triggers
 
+**[Plot 0: three months behind](plot_00_three_months_behind.md)**
+
+Under sail an order is a season old on arrival, so for a hundred and fifty years the colonies decided things themselves and the theory came later to explain the habit; behind the coast lay the best farmland on earth on the world's largest navigable river system, and it looked empty because disease had gone inland ahead of anyone who wrote it down.
+
 **[Plot 1: the Founding (1776)](plot_01_founding_1776.md)**
 
 In 1776 a generation of colonists declares independence and writes [the creed](position_the_creed.md) into being - "all men are created equal" - then frames a Constitution that opens "We the People," led by men like [Thomas Jefferson](persona_jefferson.md), founding a republic on an idea and going for broke on it, while leaving slavery in place.
@@ -83,6 +87,10 @@ In 1861 the union splits over slavery and goes to war with itself; [Abraham Linc
 **[Plot 4: the American Century](plot_04_american_century.md)**
 
 In the twentieth century the United States rises to the world's leading power, its reach an [exceptionalism](position_exceptionalism.md) felt the whole world over, while at home [Martin Luther King Jr.](persona_mlk.md) marches to hold the nation to its own creed and give the excluded a fair shake.
+
+**[Plot 99: the count](plot_99_the_count.md)**
+
+The decade the country lost its agreement about arithmetic: a million dead of one disease, life expectancy falling two years running, the largest protest wave in its history, a certification interrupted in 2021, and in 2022 a recognised right removed so that a line on a map decides the law.
 
 ## Stakes
 
