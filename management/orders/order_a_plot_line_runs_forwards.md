@@ -116,6 +116,19 @@ is whether the date is right and not whether the number is.
 - [x] Verify it refuses the change that prompted it, #670, when replayed
 - [x] Verify it passes a change that wrote plots into an ordered line, #673
 - [x] Register it in the gates as `plot-order`
+- [x] Use it once, and repair what using it exposed: the wall did not charge a
+      renumber, because a renumber carries its bytes unaltered and a content
+      comparison reports nothing changed — so the first fix the wall demanded
+      would have passed it unexamined
+- [x] Repair the deeper fault the same replay exposed, in this wall and in
+      `diacritic_conformance.mjs` both: the scope was read from the working tree
+      rather than from the commits, so replaying any range that was not checked
+      out resolved every path against the branch in hand and came back empty. A
+      gate that goes quiet when it cannot find a file passes for the wrong reason
+- [x] Stop a test asserting a census: the first draft asserted that
+      `es_canary_islands` was among the offenders, and the next change fixed
+      `es_canary_islands` and the test failed. A wall's tests hold its contract,
+      which does not move, not its findings, which are meant to reach zero
 - [ ] `es_canary_islands` first, because it is the one this house shipped knowing
       better, and its fix is a renumber of two plots
 - [ ] The nine shipped packages, as each is next touched, never as a sweep

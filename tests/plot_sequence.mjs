@@ -57,6 +57,34 @@ const YEAR = /\b(1[0-9]{3}|20[0-2][0-9])\b/;
 export const BRACKETS = new Set([0, 99]);
 
 /**
+ * The content of a path AT a commit, or null.
+ *
+ * Read from the commit and not from the working tree. The gates invoke these
+ * walls with `--head $(git rev-parse HEAD)` on a checked-out head, so disk and
+ * head agree in ordinary use and reading disk looked fine - until the first
+ * replay of an older range, where every path resolved to a file that does not
+ * exist on the branch in hand and the scope came back empty. A gate that goes
+ * quiet when it cannot find a file is a gate that passes for the wrong reason.
+ */
+function atCommit(commit, path) {
+  try {
+    return execFileSync("git", ["show", `${commit}:${path}`], {
+      cwd: WORKSPACE,
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"],
+    });
+  } catch {
+    return null;
+  }
+}
+
+/** The number in a plot filename, or null. */
+export function plotNumber(path) {
+  const m = NUMBERED.exec((path ?? "").split("/").pop() ?? "");
+  return m ? Number(m[1]) : null;
+}
+
+/**
  * The year a plot claims, or null.
  *
  * The declared name is asked first because that is where these plots put it -
@@ -76,6 +104,10 @@ export function plotYear(text) {
 
 /**
  * Every directory in the house that holds numbered plots, with those plots.
+ *
+ * Read from the working tree, so the gate is defined for a checked-out head -
+ * which is how khai-guard invokes it, with `--head $(git rev-parse HEAD)`. The
+ * SCOPE is read from the commits; the ORDER is read from the tree.
  *
  * Directories and not ids, deliberately. Cultures carry plots, groups carry
  * plots, and a migrated package carries plots; walking the tree reads all three
@@ -143,26 +175,24 @@ export function written(base, head) {
   for (const [status, a, b] of rows) {
     const path = status.startsWith("R") ? b : a;
     if (!path || !NUMBERED.exec(path.split("/").pop() ?? "")) continue;
-    if (status.startsWith("D") || status === "R100") continue;
-    let now = null;
-    try {
-      now = readFileSync(join(WORKSPACE, path), "utf8");
-    } catch {
-      continue;
+    if (status.startsWith("D")) continue;
+    // Charged for either of two things, and the second is easy to miss.
+    //
+    // A RENUMBER moves a plot's number and carries its bytes unaltered, so a
+    // content comparison alone reports nothing changed - which is how the first
+    // fix this wall demanded slipped past it unexamined. A renumber is precisely
+    // the remedy the wall asks for, so it is precisely what has to be re-read.
+    //
+    // A MIGRATION also renames every plot byte-identically, but it keeps the
+    // numbers and only changes the home, so it stays spared.
+    const renumbered = status.startsWith("R") && plotNumber(a) !== plotNumber(path);
+    if (!renumbered) {
+      const now = atCommit(head, path);
+      if (now === null) continue;
+      const before = status.startsWith("A") ? null : atCommit(base, a);
+      if (before === now) continue;
     }
-    let before = null;
-    if (!status.startsWith("A")) {
-      try {
-        before = execFileSync("git", ["show", `${base}:${a}`], {
-          cwd: WORKSPACE,
-          encoding: "utf8",
-          stdio: ["ignore", "pipe", "ignore"],
-        });
-      } catch {
-        before = null;
-      }
-    }
-    if (before !== now) out.add(relative(WORKSPACE, join(WORKSPACE, dirname(path))));
+    out.add(dirname(path));
   }
   return out;
 }
