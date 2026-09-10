@@ -68,13 +68,13 @@ Lejos de la Península y cerca de África y América, el archipiélago volcánic
 
 Unas islas sin un solo río, donde el bosque peina la niebla y la gente perfora el monte y cubre la tierra de picón para hacer lo mismo; alcanzadas una vez desde África y luego sin barcos, hasta que cada isla fue un mundo aparte y un silbo cruzó los barrancos que las piernas no cruzaban.
 
-**[Plot 1: El Fin de la Conquista 1496](plot_01_conquest.md)**
-
-Castilla derrota a los guanches en la batalla de Aguere, completando la anexión de las islas a la Corona.
-
-**[Plot 2: La Escala de Colón 1492](plot_02_columbus.md)**
+**[Plot 1: La Escala de Colón 1492](plot_01_columbus.md)**
 
 Cristóbal Colón repara y avitualle sus naves en Gran Canaria y La Gomera antes de emprender el viaje al nuevo mundo.
+
+**[Plot 2: El Fin de la Conquista 1496](plot_02_conquest.md)**
+
+Castilla derrota a los guanches en la batalla de Aguere, completando la anexión de las islas a la Corona.
 
 **[Plot 3: El Observatorio del Teide 1964](plot_03_teide.md)**
 

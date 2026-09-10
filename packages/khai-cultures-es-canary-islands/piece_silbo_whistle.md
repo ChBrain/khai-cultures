@@ -34,4 +34,4 @@ Un silbato cilíndrico corto de madera de brezo pulida de unos ocho centímetros
 ## Yearbook
 
 - Afinado y utilizado por el guardabosques [Ayose](persona_ayose.md) en sus labores de vigilancia forestal.
-- Objeto de comunicación de barrancos destacado en el relato [La Escala de Colón 1492](plot_02_columbus.md).
+- Objeto de comunicación de barrancos destacado en el relato [La Escala de Colón 1492](plot_01_columbus.md).

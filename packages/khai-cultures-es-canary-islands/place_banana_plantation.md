@@ -25,7 +25,7 @@ Las plantaciones de plátano escalonadas en terrazas costeras de Tenerife y La P
 
 ## Holds
 
-- la historia del cultivo en el relato [La Escala de Colón 1492](plot_02_columbus.md) : las terrazas escalonadas de riego.
+- la historia del cultivo en el relato [La Escala de Colón 1492](plot_01_columbus.md) : las terrazas escalonadas de riego.
 
 ## Offers
 
