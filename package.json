@@ -27,7 +27,7 @@
     "registry": "node tests/registry_hybrid.mjs --write && npx prettier --write packages/khai-cultures/registry.json packages/khai-cultures/package.json"
   },
   "devDependencies": {
-    "@changesets/cli": "^3.0.1",
+    "@changesets/cli": "^3.0.2",
     "@chbrain/khai-arch": "^0.1.27",
     "@chbrain/khai-guard": "^0.3.2",
     "@chbrain/khai-language": "^0.1.25",
@@ -38,6 +38,6 @@
     "husky": "^9.1.0",
     "prettier": "^3.9.6",
     "semver": "^7.6.0",
-    "vitest": "^4.1.11"
+    "vitest": "^5.0.0"
   }
 }
