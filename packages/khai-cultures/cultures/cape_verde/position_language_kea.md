@@ -3,7 +3,6 @@ khai: position
 title: "Kabuverdianu"
 declared: "kabuverdianu"
 language: kea
-review: "native"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

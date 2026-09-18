@@ -52,6 +52,21 @@ staged soberly on the public record and take no political side.
 | Mindelo, Fogo, and the islands' arts | [place_mindelo.md](place_mindelo.md), [place_fogo.md](place_fogo.md), [piece_grogue.md](piece_grogue.md) | Mindelo and its carnival on Sao Vicente, the Fogo volcano with its coffee and wine, and the cuisine and the grogue.                                                                                     |
 | What gets sold                       | [plot_99_o_que_se_vende.md](plot_99_o_que_se_vende.md), [process_morna.md](process_morna.md)             | Morna inscribed on the UNESCO Representative List in 2019, tourism dependence and the 2020 collapse, kachupa and grogue as products, food and water imports, the diaspora, and Kriolu still unofficial. |
 
+## The Kabuverdianu anchor, and what it still needs
+
+[position_language_kea.md](position_language_kea.md) is written in Kabuverdianu,
+because this house writes every language anchor in the language it describes. It
+is the only file in this culture that is in Kriolu; everything else here is
+Portuguese, which is what it has always been.
+
+**It was not written by a native speaker, and it needs one.** The orthography
+follows ALUPEC as closely as it could be held, the variety leans Santiago, and
+the grammar it describes - the invariant verb, the preverbal particles `ta`,
+`sta ta` and `dja`, the obligatory subject pronoun - is the grammar it is
+written in. But `kea` has no detection model in `khai-language`: it false-fails
+to its Upper Guinea sibling `pov`, so no wall in this house can check a word of
+it. Review here means rewriting it in Kabuverdianu, not proofreading it.
+
 The defining persona [a kantadeira di sodade](persona_kantadeira.md) is an
 archetype, not a historical individual: a composite of the woman who stays on the
 island while the men and children leave, who keeps the home, the language, and the
