@@ -369,6 +369,13 @@
     "orthography": "American spelling, -or and -er and -ize",
     "tongue": "American English: the larger written form, and the unmarked one"
   },
+  "en/position_language_en_us_az.md": {
+    "from": "us_arizona",
+    "note": "Moved byte for byte, the fourth American state variety in en/ after Ohio, Pennsylvania and Virginia, and the first of the forty-eight to move in the walk that follows. Only us_arizona linked it, so step 3 and step 4 rode together under the limit set at #608. Recorded here because the walk ahead will repeat it forty-seven more times and the shape should be on the record once: these state files are not what the other varieties in this package are. A variety like es_es_nc or ca_ib describes a grammar or a phonology that differs from its anchor; this one describes a register and a setting - the Western cadence of a safety briefing on a mine floor - which is a claim about an occupation more than about a tongue. It moves unaltered because the move is not the place to relitigate it, and the question is left open in order_voice_from_inside.md where it belongs.",
+    "orthography": "American spelling",
+    "review": "native",
+    "tongue": "Arizonan English: a direct Western cadence, described by its workplaces rather than by its grammar"
+  },
   "en/position_language_en_us_oh.md": {
     "from": "us_ohio",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut.",

@@ -47,7 +47,7 @@ Arizona is scaled by the canyon and rationed by the aquifer, desert light doing 
 - [Arizona culture](position_culture_arizona_culture.md)
 - [desert resilience](position_desert_resilience.md)
 - [southwest frontier](position_southwest_frontier.md)
-- [Arizonan English](position_language_en_us_az.md)
+- [Arizonan English](@chbrain/khai-cultures-tongues/en/position_language_en_us_az.md)
 
 **Pieces**
 
@@ -64,6 +64,10 @@ Arizona is scaled by the canyon and rationed by the aquifer, desert light doing 
 
 ## Triggers
 
+**[Plot 0: the canals, dug twice](plot_00_the_canals_dug_twice.md)**
+
+The Hohokam moved river water hundreds of miles across this desert for eight centuries and were ended by flood, drought and the salt their own irrigation left behind; four hundred years later the next arrivals cleared the same ditches, reused them, and named the town for a bird that rises from ashes.
+
 **[Plot 1: Grand Canyon National Park Act 1919](plot_01_grand_canyon.md)**
 
 Congress establishes Grand Canyon National Park, protecting the massive canyon and surrounding forests from mining and commercial logging.
@@ -75,6 +79,10 @@ Navajo marines develop an unbreakable military code using their native language,
 **[Plot 3: The Central Arizona Project 1968](plot_03_central_arizona_project.md)**
 
 President Lyndon B. Johnson signs the bill authorizing the Central Arizona Project, constructing a massive canal system to transport Colorado River water across the desert.
+
+**[Plot 99: the order of the cuts](plot_99_the_order_of_the_cuts.md)**
+
+The canal was authorised in 1968 at the price of junior priority, so when the first federal shortage was declared in 2021 this state was cut first and deepest, by contract; the hundred-year groundwater test failed for parts of Phoenix in 2023, and the Supreme Court held the United States owes the Navajo Nation no water.
 
 ## Stakes
 
