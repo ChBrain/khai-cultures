@@ -2,7 +2,7 @@
 khai: pitch
 title: "The Guinean Tone"
 declared: "o tom guineense"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

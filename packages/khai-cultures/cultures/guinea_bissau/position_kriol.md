@@ -2,7 +2,7 @@
 khai: position
 title: "Kriol"
 declared: "o Kriol"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -2,7 +2,7 @@
 khai: plot
 title: "The Road to Independence"
 declared: "o kaminhu pa indepedensia"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

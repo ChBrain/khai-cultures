@@ -2,7 +2,7 @@
 khai: plot
 title: "The Peoples and Kriol"
 declared: "os povu i o Kriol"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

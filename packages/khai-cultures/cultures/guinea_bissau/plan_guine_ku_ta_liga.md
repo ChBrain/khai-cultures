@@ -2,7 +2,7 @@
 khai: plan
 title: "the Guinea that binds all its people"
 declared: "a Guine ku ta liga tudu genti"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

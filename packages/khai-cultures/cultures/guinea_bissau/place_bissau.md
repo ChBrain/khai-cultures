@@ -2,7 +2,7 @@
 khai: place
 title: "Bissau"
 declared: "Bissau"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

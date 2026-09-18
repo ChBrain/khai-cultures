@@ -61,13 +61,17 @@ Un pais pikininu i hibridu, nasidu di mui povu i di un so lingua ku inventa-l. A
 
 **Pitches**
 
-- [o tom guineense](pitch_pt.md)
+- [o tom guineense](pitch_pov.md)
 
 **Plans**
 
 - [a Guine ku ta liga tudu genti](plan_guine_ku_ta_liga.md)
 
 ## Triggers
+
+**[Plot 0: ningin ta nasi djintadu](plot_00_ningin_ta_nasi_djintadu.md)**
+
+Antis di kualker praso i di kualker navio, un lei ku ka sta na libru: ningin ta nasi djintadu. I [o fanadu](process_fanadu.md) ku ta fasi di o mininu un genti, karegandu [a mascara](piece_mascara.md) di o bes bravu, i i [a tabanca](position_tabanca.md) ku ta manda - pabia o poder ta bin di a idadi i ka di sangui, ningin na es kosta ka pudi manda tudu os otu.
 
 **[Plot 1: os Bijagos i as ilhas sagradas](plot_01_bijagos.md)**
 
@@ -84,6 +88,10 @@ Na terra firmi mui povu - Balanta, Fula, Mandinga, Manjako, Papel - ta vivi djun
 **[Plot 4: o caju, o gumbe i o carnaval](plot_04_caju_gumbe.md)**
 
 Na pais novu o caju enche os kampu i da a kastanha ku ta sustenta a kasa, [Jose Carlos Schwarz](persona_schwarz.md) ta da boz a [o Kriol](position_kriol.md) na gumbe, i o carnaval di [Bissau](place_bissau.md) ta djunta tudu as mascaras na un so festa.
+
+**[Plot 99: o presu i a lingua](plot_99_o_presu_i_a_lingua.md)**
+
+Gosi [a kolheita di caju](process_kolheita_di_caju.md) ta manda na kada kasa, ma a kastanha ta sai kru i o presu ta bin di fora; i o Stadu ta papia portugues kuandu a genti ta papia [o Kriol](position_language_pov.md), ku [Abdulai Sila](persona_sila.md) ta sigura os libru di es terra na Bissau.
 
 ## Stakes
 

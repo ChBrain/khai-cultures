@@ -2,7 +2,7 @@
 khai: persona
 title: "Abdulai Sila"
 declared: "Abdulai Sila"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
