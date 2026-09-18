@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **149 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **150 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -150,6 +150,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `nl/position_language_nl.md`           | Dutch: the -je diminutive on almost any noun, a throat-g no neighbour shares, and modal particles that carry a stance                                     | `nl`         |
 | `nl/position_language_nl_be.md`        | Belgian Dutch: the northern grammar carried on a soft palatal g                                                                                           | `nl`         |
 | `no/position_language_no.md`           | Norwegian: two written norms, no spoken standard at all, and a dialect permitted anywhere                                                                 | `no`         |
+| `nv/position_language_nv.md`           | Navajo: the shape of the thing is inside the verb, and there is no vague form to retreat to                                                               | `en`         |
 | `pfl/position_language_pfl.md`         | Palatine: Rhine Franconian, which made the sound shift only halfway                                                                                       | `pfl`        |
 | `pl/position_language_pl.md`           | Polish: seven cases, an aspect pair on every verb, graded diminutives, and a plural that marks whether there are men in the group                         | `pl`         |
 | `pt/position_language_pt.md`           | Portuguese: ser against estar, the personal infinitive no other Romance language keeps, a living future subjunctive, and saudade                          | `pt`         |
