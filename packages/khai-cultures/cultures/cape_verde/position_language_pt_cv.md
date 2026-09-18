@@ -26,7 +26,7 @@ O português guarda o infinitivo pessoal, flexionado por pessoa (para eu falar, 
 
 ## Orders
 
-Obriga a declinar o infinitivo consoante quem pratica a ação, mesmo quando o sujeito da oração principal é outro, e impõe a escolha entre o pretérito perfeito simples, que fecha o facto no passado, e o composto, que o estende até agora. Exige ainda a concordância de género em todo o adjetivo e a nasalização vocálica correta, sem a qual a palavra muda de sentido.
+Obriga a declinar o infinitivo consoante quem prática a ação, mesmo quando o sujeito da oração principal é outro, e impõe a escolha entre o pretérito perfeito simples, que fecha o facto no passado, e o composto, que o estende até agora. Exige ainda a concordância de género em todo o adjetivo e a nasalização vocálica correta, sem a qual a palavra muda de sentido.
 
 ## Loses
 

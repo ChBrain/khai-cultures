@@ -4595,6 +4595,12 @@
           "title": "Cape Verde"
         },
         {
+          "file": "plot_00_as_ilhas_sem_ninguem.md",
+          "kind": "plot",
+          "title": "The Islands With Nobody On Them",
+          "taxonomy": "play_cape_verde.md"
+        },
+        {
           "file": "plot_01_povoamento.md",
           "kind": "plot",
           "title": "The Settlement",
@@ -4616,6 +4622,12 @@
           "file": "plot_04_morna_no_mundu.md",
           "kind": "plot",
           "title": "The Morna Goes Out to the World",
+          "taxonomy": "play_cape_verde.md"
+        },
+        {
+          "file": "plot_99_o_que_se_vende.md",
+          "kind": "plot",
+          "title": "What Gets Sold",
           "taxonomy": "play_cape_verde.md"
         },
         {

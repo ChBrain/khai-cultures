@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "Amilcar Cabral"
-declared: "Amilcar Cabral"
+declared: "Amílcar Cabral"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Amilcar Cabral
+# Persona: Amílcar Cabral
 
 ## Taxonomy
 
@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-Agronomu di formason, filhu das ilhas e da Guine, pensador sobriu e organizadu, o nome ligadu ao kaminho que levou Cabo Verde a tornar-se nasao dona di si. Homem di livrus e di kampu antes que di outra koisa, estudou a terra e a genti, e falava da kultura komo do korason di um povu. O [kriolu](position_language_kea.md) e a sua lingua di kasa e di proximidade: nele [fala](process_speaking_mother_tongue.md) kom os seus e nele [pensa](process_thinking_mother_tongue.md) a terra-mae; o [portuges](position_language_pt_cv.md) das eskolas de Lisboa [domina-o por inteiru](process_speaking_carried.md), [le](process_reading_followed.md) e [eskreve](process_writing_drafted.md) nele as suas ideias e os seus relatorius. Movia-se entre a lingua-mae das ilhas e a lingua aprendida do estudu, e sabia que a alma di um povu mora na sua kultura e na sua fala, ali onde a lingua di fora nunka entra di todu e so a lingua-mae alkansa. Pertense a [a kabuverdianidade](position_culture_kabuverdianidade.md) komo o pensador que fez da uniao do povu e da sua kultura o korason di uma nasao nasente.
+Agrónomo de formação, filho das ilhas e da Guiné, pensador sóbrio e organizado, o nome ligado ao caminho que levou Cabo Verde a tornar-se nação dona de si. Homem de livros e de campo antes que de outra coisa, estudou a terra e a gente, e falava da cultura como do coração de um povo. O [kriolu](position_language_kea.md) é a sua língua de casa e de proximidade: nele [fala](process_speaking_mother_tongue.md) com os seus e nele [pensa](process_thinking_mother_tongue.md) a terra-mãe; o [português](position_language_pt_cv.md) das escolas de Lisboa [domina-o por inteiro](process_speaking_carried.md), [lê](process_reading_followed.md) e [escreve](process_writing_drafted.md) nele as suas ideias e os seus relatórios. Movia-se entre a língua-mãe das ilhas e a língua aprendida do estudo, e sabia que a alma de um povo mora na sua cultura e na sua fala, ali onde a língua de fora nunca entra de todo e só a língua-mãe alcança. Pertence a [a kabuverdianidade](position_culture_kabuverdianidade.md) como o pensador que fez da união do povo e da sua cultura o coração de uma nação nascente.
 
 ## Action
 
-Em [a independensia (1975)](plot_03_independencia.md) e a figura a kuja memoria se liga o kaminho que torna as ilhas nasao dona do seu destinu, sem que ele chegue a ver o dia. Ao poer a kultura e a uniao do povu no korason do projetu, deixa a nasao nasente unida e firmi na sua [morabeza](position_morabeza.md).
+Em [a independência (1975)](plot_03_independencia.md) e a figura a cuja memória se liga o caminho que torna as ilhas nação dona do seu destino, sem que ele chegue a ver o dia. Ao pôr a cultura e a união do povo no coração do projeto, deixa a nação nascente unida e firme na sua [morabeza](position_morabeza.md).
 
 ## Shadow
 
-Nao chegou a ver a nasao que ajudou a sonhar: kaiu antes do dia da independensia, e o seu nome fika maior na memoria do que pode ser em vida. A historia que o serka e sobria e partilhada, e aqui guarda-se sem tomar partidu, komo memoria di um povu e nao komo bandeira di um lado.
+Não chegou a ver a nação que ajudou a sonhar: caiu antes do dia da independência, e o seu nome fica maior na memória do que pode ser em vida. A história que o cerca e sóbria e partilhada, e aqui guarda-se sem tomar partido, como memória de um povo e não como bandeira de um lado.
 
 ## Tell
 
-Falava da kultura komo da raiz di tudu, e dizia que um povu que guarda a sua lingua e o seu jeitu de ser ja e, no fundu, dono de si.
+Falava da cultura como da raiz de tudo, e dizia que um povo que guarda a sua língua e o seu jeito de ser já e, no fundo, dono de si.

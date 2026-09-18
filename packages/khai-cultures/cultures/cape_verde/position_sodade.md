@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-O sentimentu maior das ilhas, a sua palavra-korason: a sodade, esse mal dosi di kem fika a olhar o mar por kem partiu, da terra, da genti, do tempu que ja foi. Nao e so tristeza nem so saudade: e as duas misturadas, o doer e o amar ao mesmu tempu, a presensa di uma ausensia. Nasse da partida sem fim, da seka que empurra os filhus para os navios, e fika sendo o jeitu kabuverdianu di amar de longe. E a alma da morna, kantada na voz descalsa di kem a leva ao mundu inteiru, e a unika koisa que atravessa o mar nos dois sentidus: vai kom kem parte e fika kom kem espera.
+O sentimento maior das ilhas, a sua palavra-coração: a sodade, esse mal doce de quem fica a olhar o mar por quem partiu, da terra, da gente, do tempo que já foi. Não é só tristeza nem só saudade: e as duas misturadas, o doer e o amar ao mesmo tempo, a presença de uma ausência. Nasce da partida sem fim, da seca que empurra os filhos para os navios, e fica sendo o jeito kabuverdianu de amar de longe. E a alma da morna, cantada na voz descalça de quem a leva ao mundo inteiro, e a única coisa que atravessa o mar nos dois sentidos: vai com quem parte e fica com quem espera.
 
 ## Orders
 
-Que a perda e a distansia se karregam kantando, nao se kalando: que a magoa vira morna, vira poema, vira musika, e assim se torna suportavel e ate bela. Manda que a ilha fique dentru di kada um que parte, e que kada um que fika guarde lugar para o que ha-di voltar; e faz da sodade nao um pezu mortu, mas o fiu invisivel que segura o povu da diaspora ligadu a terra-mae.
+Que a perda e a distância se carregam cantando, não se calando: que a mágoa vira morna, vira poema, vira música, e assim se torna suportável e até bela. Manda que a ilha fique dentro de cada um que parte, e que cada um que fica guarde lugar para o que há-de voltar; e faz da sodade não um peso morto, mas o fio invisível que segura o povo da diáspora ligado à terra-mãe.
 
 ## Loses
 
-Terreni quando vira so lamentason e resignason, kem fika so a chorar o que partiu sem fazer da terra um lugar onde valha a pena fikar; e terreni, tambem, quandu a distansia e os anus apagam de vez o fiu, e o netu nasidu la longe ja nao sente sodade nenhuma da ilha que nunka konheseu nem da lingua que ja nao fala.
+Terreno quando vira só lamentação e resignação, quem fica só a chorar o que partiu sem fazer da terra um lugar onde valha a pena ficar; e terreno, também, quando a distância e os anos apagam de vez o fio, e o neto nascido lá longe já não sente sodade nenhuma da ilha que nunca conheceu nem da língua que já não fala.
 
 ## Drives
 
-Vive em kem levou a sodade kantada ao mundu inteiru kom os pes no chao, e em kem the deu forma na morna e fez da despedida musika. Ela empurra Cabo Verde a karregar a perda kantando, e a segurar, de un mar ao outru, o korason di um so povu.
+Vive em quem levou a sodade cantada ao mundo inteiro com os pés no chão, e em quem lhe deu forma na morna e fez da despedida música. Ela empurra Cabo Verde a carregar a perda cantando, e a segurar, de um mar ao outro, o coração de um só povo.

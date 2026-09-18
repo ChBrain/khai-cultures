@@ -3,7 +3,7 @@ khai: play
 title: "Cape Verde"
 description: "Ten volcanic islands of sodade and morabeza, one creole people scattered across the sea."
 declared: "Cabo Verde"
-language: kea
+language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -15,25 +15,25 @@ stamp:
 
 ## Estate
 
-[khai-cultures](https://github.com/ChBrain/khai-cultures): a casa que sostiene esta produson e responde por ela.
+[khai-cultures](https://github.com/ChBrain/khai-cultures): a casa que sostiene esta produção e responde por ela.
 
 ## Name
 
-Cabo Verde, dez ilhas vulkanikas no Atlantiku, a umas seiscentas milhas da kosta da Afrika, partidas em dois brasos: o Barlavento, a norte, onde bate o vento, e o Sotavento, a sul, mais kalmo. ISO CV, lingua pt na lei, mas o kriolu, o kabuverdianu, na boka di tudu mundu. Praia, na ilha di Santiago, e a kapital; Mindelo, na ilha di Sao Vicente, e o korason kantadu. Um povu pequeninu numa terra seka, mas grandi na maneira di resebe quem chega: isso e a morabeza.
+Cabo Verde, dez ilhas vulcânicas no Atlântico, a umas seiscentas milhas da costa da África, partidas em dois brasos: o Barlavento, a norte, onde bate o vento, e o Sotavento, a sul, mais calmo. ISO CV, língua pt na lei, mas o kriolu, o kabuverdianu, na boca de tudo mundo. Praia, na ilha de Santiago, e a capital; Mindelo, na ilha de São Vicente, e o coração cantado. Um povo pequenino numa terra seca, mas grande na maneira de recebe quem chega: isso é a morabeza.
 
 ## Arc
 
-Quando os portugeses chegaram, por volta de 1460, estas ilhas estavam vazias de gente: nao havia aqui povu nenhum a espera. Entao a terra foi povoada de fora, do norte e do sul do mundo, e do enkontru nasceu uma genti nova, mestisa, krioula, que nao e nem so de la nem so de ka, mas das ilhas: um povu inteiru inventadu no meiu do mar. Dessa mistura nasceu tambem uma lingua propria, o kriolu, a lingua-mae, a lingua di kasa e di korason. A terra, porem, e dura: o ceu fika anus sem chover, a seka aperta, e a fome ja levou muita genti. Por isso o kabuverdianu aprendeu sedu o kaminho do mar: foi nos navios para a Amerika, para a Europa, para Sao Tome, ate haver hoje mais kabuverdianus la fora do que ka dentru. E dessa partida sem fim nasceu a sodade, esse mal dosi de quem fika a olhar o mar por quem foi embora, kantadu na morna lenta e na koladeira mais alegri, levadu ao mundu inteiru pela voz descalsa di Cesaria Evora. Em 1975 as ilhas tornaram-se nasao, donas do seu proprio destinu. Por baixu di tudu kore um so nervu: que ser kabuverdianu e karregar a sodade da terra e da genti que fika longe, e responder a vida dura com musika, com kachupa na mesa e com a porta sempre aberta.
+Quando os portugeses chegaram, por volta de 1460, estas ilhas estavam vazias de gente: não havia aqui povo nenhum a espera. Então a terra foi povoada de fora, do norte e do sul do mundo, e do encontro nasceu uma gente nova, mestisa, crioula, que não e nem só de lá nem só de cá, mas das ilhas: um povo inteiro inventado no meio do mar. Dessa mistura nasceu também uma língua própria, o kriolu, a língua-mãe, a língua de casa e de coração. A terra, porém, e dura: o céu fica anos sem chover, a seca aperta, e a fome já levou muita gente. Por isso o kabuverdianu aprendeu cedo o caminho do mar: foi nos navios para a América, para a Europa, para São Tome, até haver hoje mais kabuverdianus lá fora do que cá dentro. E dessa partida sem fim nasceu a sodade, esse mal doce de quem fica a olhar o mar por quem foi embora, cantado na morna lenta e na koladeira mais alegre, levado ao mundo inteiro pela voz descalça de Cesária Évora. Em 1975 as ilhas tornaram-se nação, donas do seu próprio destino. Por baixo de tudo corre um só nervo: que ser kabuverdianu e carregar a sodade da terra e da gente que fica longe, e responder a vida dura com música, com kachupa na mesa e com a porta sempre aberta.
 
 ## Company
 
 **Personas**
 
-- [Cesaria Evora](persona_cesaria.md)
-- [Eugenio Tavares](persona_tavares.md)
+- [Cesária Évora](persona_cesaria.md)
+- [Eugénio Tavares](persona_tavares.md)
 - [B.Leza](persona_bleza.md)
-- [Amilcar Cabral](persona_cabral.md)
-- [a kantadeira di sodade](persona_kantadeira.md)
+- [Amílcar Cabral](persona_cabral.md)
+- [a kantadeira de sodade](persona_kantadeira.md)
 
 **Places**
 
@@ -65,26 +65,34 @@ Quando os portugeses chegaram, por volta de 1460, estas ilhas estavam vazias de 
 
 **Plans**
 
-- [um so povu](plan_um_so_povu.md)
+- [um só povo](plan_um_so_povu.md)
 
 ## Triggers
 
+**[Plot 0: as ilhas sem ninguém](plot_00_as_ilhas_sem_ninguem.md)**
+
+Antes de qualquer barco, dez ilhas de rocha sem um povo, sem uma língua e sem dono: o [Fogo](place_fogo.md) a arder sem quem o visse e a baía de [Mindelo](place_mindelo.md) aberta à espera de navios que não existiam. Nada foi herdado, e por isso [a kabuverdianidade](position_culture_kabuverdianidade.md) teve de ser inteiramente inventada aqui.
+
 **[Plot 1: o povoamento](plot_01_povoamento.md)**
 
-Por volta de 1460 os portugeses pisam umas ilhas sem genti e povoam-nas de fora; do enkontru di mundus nasce um povu novu e nasce [o kriolu](position_kriolu.md), a lingua-mae das ilhas.
+Por volta de 1460 os portugeses pisam umas ilhas sem gente e povoam-nas de fora; do encontro de mundos nasce um povo novo e nasce [o kriolu](position_kriolu.md), a língua-mãe das ilhas.
 
-**[Plot 2: a seka e a emigrason](plot_02_seca_emigracao.md)**
+**[Plot 2: a seca e a emigração](plot_02_seca_emigracao.md)**
 
-Sekulus de seka e di fome empurram o kabuverdianu para os navios; [Eugenio Tavares](persona_tavares.md) kanta a hora di bai no kais, e da partida sem fim nasce [a sodade](position_sodade.md).
+Séculos de seca e de fome empurram o kabuverdianu para os navios; [Eugénio Tavares](persona_tavares.md) canta a hora di bai no cais, e da partida sem fim nasce [a sodade](position_sodade.md).
 
-**[Plot 3: a independensia (1975)](plot_03_independencia.md)**
+**[Plot 3: a independência (1975)](plot_03_independencia.md)**
 
-Depois di um longu kaminho ligadu ao nome di [Amilcar Cabral](persona_cabral.md), em 1975 as ilhas tornam-se nasao, donas do seu destinu, e a [morabeza](position_morabeza.md) fika sendo a marka da kasa.
+Depois de um longo caminho ligado ao nome de [Amílcar Cabral](persona_cabral.md), em 1975 as ilhas tornam-se nação, donas do seu destino, e a [morabeza](position_morabeza.md) fica sendo a marca da casa.
 
-**[Plot 4: a morna no mundu](plot_04_morna_no_mundu.md)**
+**[Plot 4: a morna no mundo](plot_04_morna_no_mundu.md)**
 
-[Cesaria Evora](persona_cesaria.md), a diva descalsa de [Mindelo](place_mindelo.md), leva a morna e [a sodade](position_sodade.md) ao mundu inteiru, e a diaspora torna-se o segundu korason da nasao.
+[Cesária Évora](persona_cesaria.md), a diva descalça de [Mindelo](place_mindelo.md), leva a morna e [a sodade](position_sodade.md) ao mundo inteiro, e a diáspora torna-se o segundo coração da nação.
+
+**[Plot 99: o que se vende](plot_99_o_que_se_vende.md)**
+
+[A morna](process_morna.md) entra na lista da UNESCO em 2019 com o seu [cavaquinho](piece_cavaquinho.md), [a kachupa](process_kachupa.md) passa à ementa do hotel e o [grogue](piece_grogue.md) sai engarrafado, enquanto o turismo cai quinze por cento em 2020 e o [kriolu](position_language_kea.md) continua sem ser língua oficial.
 
 ## Stakes
 
-Si um povu pequeninu, nasidu da mistura no meiu do mar e espalhadu pelo mundu, com mais filhus la fora do que ka dentru, pode kontinuar a ser um so povu di um so korason; si pode segurar o kriolu, a sodade e a morabeza enquantu os seus partem e os netus la longe ja mal falam a lingua-mae; e si a terra seka, agora nasao livre, pode dar di komer e di sonhar aos que fikam, sem perder a alma kantada que a fez konhesida do mundu inteiru.
+Si um povo pequenino, nascido da mistura no meio do mar e espalhado pelo mundo, com mais filhos lá fora do que cá dentro, pode continuar a ser um só povo de um só coração; si pode segurar o kriolu, a sodade e a morabeza enquanto os seus partem e os netos lá longe já mal falam a língua-mãe; e si a terra seca, agora nação livre, pode dar de comer e de sonhar aos que ficam, sem perder a alma cantada que a fez conhecida do mundo inteiro.

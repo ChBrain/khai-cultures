@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-A sidade do Porto Grande, na ilha di Sao Vicente, abrigada na baia que foi karvoeiru dos navios do Atlantiku: a sidade mais kantada das ilhas, o korason musikal di Cabo Verde. Kasas koloridas viradas para o mar, o kafe e o bar onde a morna nao para, e uma genti fina e brincalhona que se gaba do seu sotaki e do seu jeitu. E aqui, todus os anus, o grande karnaval, o mais alegri das ilhas, e foi aqui que kresceu a voz di Cesaria Evora. Sidade da despedida e da festa, do kais por onde se parte e do bar onde se kanta a quem partiu.
+A cidade do Porto Grande, na ilha de São Vicente, abrigada na baía que foi carvoeiro dos navios do Atlântico: a cidade mais cantada das ilhas, o coração musical de Cabo Verde. Casas coloridas viradas para o mar, o café e o bar onde a morna não para, e uma gente fina e brincalhona que se gaba do seu sotaque e do seu jeito. E aqui, todos os anos, o grande carnaval, o mais alegre das ilhas, e foi aqui que cresceu a voz de Cesária Évora. Cidade da despedida e da festa, do cais por onde se parte e do bar onde se canta a quem partiu.
 
 ## Holds
 
-- [a seka e a emigrason](plot_02_seca_emigracao.md): o Porto Grande, o kais di onde tantus partiram pelo mar.
-- [a morna no mundu](plot_04_morna_no_mundu.md): o korason musikal di onde a morna sai para o mundu inteiru.
+- [a seca e a emigração](plot_02_seca_emigracao.md): o Porto Grande, o cais de onde tantos partiram pelo mar.
+- [a morna no mundo](plot_04_morna_no_mundu.md): o coração musical de onde a morna sai para o mundo inteiro.
 
 ## Offers
 
-Um lugar onde a tristeza da partida vira musika e a vida dura vira festa: a sidade que ensinou as ilhas a kantar a sua sodade e a rir da propria pena, e que deu ao mundu a sua morna. Aqui a koladeira leva a noiti ate de manha, o karnaval poe a sidade na rua, e o forasteiru e resebidu kom morabeza komo si ja fosse di kasa.
+Um lugar onde a tristeza da partida vira música e a vida dura vira festa: a cidade que ensinou as ilhas a cantar a sua sodade e a rir da própria pena, e que deu ao mundo a sua morna. Aqui a koladeira leva a noite até de manhã, o carnaval põe a cidade na rua, e o forasteiro e recebido com morabeza como si já fosse de casa.
 
 ## Withheld
 
-A inosensia da festa sem fundu. Por baixu da alegria de Mindelo esta o kais das despedidas, a sidade que viu partir mais genti do que a que segurou, e a sodade que mora em kada morna kantada nos seus bares. A sua musika nao e fuga da dor: e o jeitu di a karregar, e por isso a sua alegria tem sempre, no fundu, o sal das lagrimas do kais.
+A inocência da festa sem fundo. Por baixo da alegria de Mindelo esta o cais das despedidas, a cidade que viu partir mais gente do que a que segurou, e a sodade que mora em cada morna cantada nos seus bares. A sua música não e fuga da dor: é o jeito de a carregar, e por isso a sua alegria tem sempre, no fundo, o sal das lágrimas do cais.

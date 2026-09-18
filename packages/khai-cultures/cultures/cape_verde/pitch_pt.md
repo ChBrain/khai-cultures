@@ -14,7 +14,7 @@ stamp:
 
 ## Taxonomy
 
-A klave em que se toka a produson di [Cabo Verde](play_cape_verde.md). Nao muda nada do que akontese, nem o povoamento, nem a seka, nem a partida, nem a independensia: marka so o jeitu komo soa, o tom em que toda a pesa e dada.
+A clave em que se toca a produção de [Cabo Verde](play_cape_verde.md). Não muda nada do que acontece, nem o povoamento, nem a seca, nem a partida, nem a independência: marca só o jeito como soa, o tom em que toda a pesa e dada.
 
 ## Owner
 
@@ -22,16 +22,16 @@ A klave em que se toka a produson di [Cabo Verde](play_cape_verde.md). Nao muda 
 
 ## Tenor
 
-Toka-se devagar, kom dosura e kom kalor. E um povu que nao tem prisa, que poe a genti antes do relojiu e a kombersa antes do negosiu, e que resebe quem chega komo si fosse di kasa: isso e a morabeza, a porta aberta, o pratu a mais na mesa, o "fika la, nho fika" ditu di korason. Trata-se por nho e nha kom respeitu, fala-se baixu e dosi, e o estranjeiru vira amigu antes di akabar a primeira noiti. Ha aqui uma alegria mansa, di kem sabe fazer festa kom poucu, dansar koladeira e funana ate de manha e rir da propria pena; mas e uma alegria que nunka esta longe da tristeza, porque debaixu da festa esta sempre a sodade di alguem que partiu pelo mar.
+Toca-se devagar, com doçura e com calor. E um povo que não tem pressa, que põe a gente antes do relógio e a conversa antes do negócio, e que recebe quem chega como si fosse de casa: isso é a morabeza, a porta aberta, o prato a mais na mesa, o "fica lá, nho fica" dito de coração. Trata-se por nho e nha com respeito, fala-se baixo e doce, e o estrangeiro vira amigo antes de acabar a primeira noite. Há aqui uma alegria mansa, de quem sabe fazer festa com pouco, dançar koladeira e funana até de manhã e rir da própria pena; mas é uma alegria que nunca esta longe da tristeza, porque debaixo da festa esta sempre a sodade de alguém que partiu pelo mar.
 
 ## Undertow
 
-Por baixu da dosura kore a sodade, esse mal dosi que nao tem kura: a saudade da terra, da genti, do tempu que foi, di um amor ou di um filhu que atravessou o mar e talvez nao volte. E um povu da partida, treinadu desde sempre a dizer adeus no kais, e por isso a sua alegria tem sempre um fundu di melankolia, komo a morna que kora dosi e doi ao mesmu tempu. Ha tambem o kansasu da terra dura, da seka que volta e volta, e a paciensia resignada di kem aprendeu a esperar pela chuva e pela karta di la fora. A morabeza, levada longe demais, pode virar o jeitu di nunka dizer nao e di engolir a propria magoa kom um sorrisu.
+Por baixo da doçura corre a sodade, esse mal doce que não tem cura: a saudade da terra, da gente, do tempo que foi, de um amor ou de um filho que atravessou o mar e talvez não volte. E um povo da partida, treinado desde sempre a dizer adeus no cais, e por isso a sua alegria tem sempre um fundo de melancolia, como a morna que chora doce e dói ao mesmo tempo. Há também o cansaço da terra dura, da seca que volta e volta, e a paciência resignada de quem aprendeu a esperar pela chuva e pela carta de lá fora. A morabeza, levada longe demais, pode virar o jeito de nunca dizer não e de engolir a própria mágoa com um sorriso.
 
 ## Nerve
 
-Bate na korda da sodade e da volta: a kerteza di que, por mais longe que se va, a ilha fika dentru di um, e que um dia se volta, nem que seja so na musika. Toka no orgulho di um povu pequeninu que se fez sozinho no meiu do mar, que inventou a sua lingua e a sua genti, e que respondeu a fome e a partida kom morna, kom kachupa e kom a mao aberta. Toka tambem na dor por baixu: a di despedir-se sempre, a di amar de longe, a di pertenser a uma terra que nem sempre pode segurar os seus.
+Bate na corda da sodade e da volta: a certeza de que, por mais longe que se vá, a ilha fica dentro de um, e que um dia se volta, nem que seja só na música. Toca no orgulho de um povo pequenino que se fez sozinho no meio do mar, que inventou a sua língua e a sua gente, e que respondeu a fome e a partida com morna, com kachupa e com a mão aberta. Toca também na dor por baixo: a de despedir-se sempre, a de amar de longe, a de pertencer a uma terra que nem sempre pode segurar os seus.
 
 ## Echo
 
-O que fika e a imajem di um povu dosi e forti ao mesmu tempu: kalmu, akolhedor, kantadu, treinadu na perda mas nunka vensidu por ela. Uma nasao espalhada pelo mundu que segura o seu korason na morna e na morabeza, e que, mesmu kom os pes na terra seka e os olhus no mar, kontinua a kantar a sodade komo kem reza por kem ha-di voltar.
+O que fica é a imagem de um povo doce e forte ao mesmo tempo: calmo, acolhedor, cantado, treinado na perda mas nunca vencido por ela. Uma nação espalhada pelo mundo que segura o seu coração na morna e na morabeza, e que, mesmo com os pés na terra seca e os olhos no mar, continua a cantar a sodade como quem reza por quem há-de voltar.

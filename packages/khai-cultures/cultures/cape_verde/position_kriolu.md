@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A lingua-mae das ilhas, o kabuverdianu, o kriolu: nasidu no povoamento, do enkontru do portuges kom as linguas da Afrika de quem foi trazidu para ka, e tornadu, de gerason em gerason, lingua propria, kompleta, kom a sua gramatika e a sua musika. E a primeira lingua di kuasi tudu kabuverdianu, a lingua di kasa, da rua, do amor e da morna; o portuges fika para a eskola, os papeis e o estadu. Mais que uma lingua, e a prova viva di que aqui nasceu um povu novu: falar kriolu e ser das ilhas, e e o mesmu fiu que liga o kabuverdianu di Praia ao di Boston e ao di Lisboa.
+A língua-mãe das ilhas, o kabuverdianu, o kriolu: nascido no povoamento, do encontro do português com as línguas da África de quem foi trazido para cá, e tornado, de geração em geração, língua própria, completa, com a sua gramática e a sua música. E a primeira língua de quase tudo kabuverdianu, a língua de casa, da rua, do amor e da morna; o português fica para a escola, os papéis e o estado. Mais que uma língua, é a prova viva de que aqui nasceu um povo novo: falar kriolu e ser das ilhas, e é o mesmo fio que liga o kabuverdianu de Praia ao de Boston e ao de Lisboa.
 
 ## Orders
 
-Que a alma das ilhas se diga na sua propria lingua: que o korason se abra em kriolu, ainda que a kaneta eskreva em portuges, e que a kanson, a piada e a reza sejam na lingua-mae. Manda que o povu se reconheca uno na sua fala krioula, di ilha a ilha apesar das variantes, e que a diaspora segure o kriolu komo o ultimu fiu que prende os netus longe a terra que talvez nunka pisem.
+Que a alma das ilhas se diga na sua própria língua: que o coração se abra em kriolu, ainda que a caneta escreva em português, e que a canção, a piada e a reza sejam na língua-mãe. Manda que o povo se reconheca uno na sua fala crioula, de ilha a ilha apesar das variantes, e que a diáspora segure o kriolu como o último fio que prende os netos longe a terra que talvez nunca pisem.
 
 ## Loses
 
-Terreni quando e tratadu komo fala menor, koisa di kasa que nao serve para a eskola nem para os papeis, e os proprius filhus aprendem a ter vergonha da sua lingua-mae; e terreni, sobretudu, na diaspora, quando o netu nasidu la fora ja so fala a lingua do pais que o akolheu, e o kriolu morre na boka di uma gerason longe do mar.
+Terreno quando e tratado como fala menor, coisa de casa que não serve para a escola nem para os papéis, e os próprios filhos aprendem a ter vergonha da sua língua-mãe; e terreno, sobretudo, na diáspora, quando o neto nascido lá fora já só fala a língua do país que o acolheu, e o kriolu morre na boca de uma geração longe do mar.
 
 ## Drives
 
-Vive onde alguem tem a koragem di fazer poesia na lingua-mae, numa altura em que isso ainda nao se fazia, e levanta o kriolu a dignidade da arte. Ele empurra Cabo Verde a dizer-se na sua propria lingua, e a guardar nela, de un mar ao outru, a prova di que aqui nasceu um povu novu.
+Vive onde alguém tem a coragem de fazer poesia na língua-mãe, numa altura em que isso ainda não se fazia, e levanta o kriolu a dignidade da arte. Ele empurra Cabo Verde a dizer-se na sua própria língua, e a guardar nela, de um mar ao outro, a prova de que aqui nasceu um povo novo.
