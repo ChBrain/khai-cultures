@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-Belonging to a desert state of geological scale, where the land itself, the canyon, the rock, the aquifer, sets the terms everyone else has to live by. It carries [desert resilience](position_desert_resilience.md), the water-conserving, land-stewarding half of its character, and [southwest frontier](position_southwest_frontier.md), the mining, engineering, self-reliant half, side by side without either one erasing the other. It speaks [Arizonan English](position_language_en_us_az.md), a direct Western cadence shaped as much by the mine and the reservation as by the city. It holds, without ever having chosen it, the mineral wealth of copper beneath the rock and the older wisdom of the tribal nations who read the same desert as a living thing rather than an ore body.
+Belonging to a desert state of geological scale, where the land itself, the canyon, the rock, the aquifer, sets the terms everyone else has to live by. It carries [desert resilience](position_desert_resilience.md), the water-conserving, land-stewarding half of its character, and [southwest frontier](position_southwest_frontier.md), the mining, engineering, self-reliant half, side by side without either one erasing the other. It speaks [Arizonan English](@chbrain/khai-cultures-tongues/en/position_language_en_us_az.md), a direct Western cadence shaped as much by the mine and the reservation as by the city. It holds, without ever having chosen it, the mineral wealth of copper beneath the rock and the older wisdom of the tribal nations who read the same desert as a living thing rather than an ore body. It is a way of being [American](@chbrain/khai-cultures-usa/position_culture_american_way.md), not a second passport.
 
 ## Orders
 

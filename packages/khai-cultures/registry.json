@@ -968,117 +968,6 @@
     },
     {
       "kind": "culture",
-      "id": "arizona",
-      "title": "Arizona",
-      "description": "Arizona staged: the Grand Canyon State of desert resilience, Navajo code talkers, and copper mining boomtowns.",
-      "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/arizona"
-      },
-      "iso": "US-AZ",
-      "members": [
-        {
-          "file": "persona_ramon.md",
-          "kind": "persona",
-          "title": "Ramon",
-          "type": "archetype",
-          "taxonomy": "position_southwest_frontier.md"
-        },
-        {
-          "file": "persona_yazhi.md",
-          "kind": "persona",
-          "title": "Yazhi",
-          "type": "archetype",
-          "taxonomy": "position_desert_resilience.md"
-        },
-        {
-          "file": "piece_copper_ore.md",
-          "kind": "piece",
-          "title": "The Copper Ore Specimen"
-        },
-        {
-          "file": "piece_navajo_rug.md",
-          "kind": "piece",
-          "title": "The Hand-Woven Navajo Rug"
-        },
-        {
-          "file": "pitch_arizona.md",
-          "kind": "pitch",
-          "title": "The Arizona Key",
-          "taxonomy": "play_arizona.md"
-        },
-        {
-          "file": "place_bisbee_mine.md",
-          "kind": "place",
-          "title": "Bisbee Mine"
-        },
-        {
-          "file": "place_grand_canyon.md",
-          "kind": "place",
-          "title": "The Grand Canyon"
-        },
-        {
-          "file": "plan_groundwater_management.md",
-          "kind": "plan",
-          "title": "The Groundwater Management Plan"
-        },
-        {
-          "file": "play_arizona.md",
-          "kind": "play",
-          "title": "Arizona"
-        },
-        {
-          "file": "plot_01_grand_canyon.md",
-          "kind": "plot",
-          "title": "The Grand Canyon National Park Act",
-          "taxonomy": "play_arizona.md"
-        },
-        {
-          "file": "plot_02_code_talkers.md",
-          "kind": "plot",
-          "title": "The Navajo Code Talkers",
-          "taxonomy": "play_arizona.md"
-        },
-        {
-          "file": "plot_03_central_arizona_project.md",
-          "kind": "plot",
-          "title": "The Central Arizona Project",
-          "taxonomy": "play_arizona.md"
-        },
-        {
-          "file": "position_culture_arizona_culture.md",
-          "kind": "position",
-          "title": "Arizona Culture"
-        },
-        {
-          "file": "position_desert_resilience.md",
-          "kind": "position",
-          "title": "Desert Resilience"
-        },
-        {
-          "file": "position_language_en_us_az.md",
-          "kind": "position",
-          "title": "Arizonan English"
-        },
-        {
-          "file": "position_southwest_frontier.md",
-          "kind": "position",
-          "title": "Southwest Frontier"
-        },
-        {
-          "file": "process_copper_smelting.md",
-          "kind": "process",
-          "title": "Arizona Copper Smelting"
-        },
-        {
-          "file": "process_navajo_weaving.md",
-          "kind": "process",
-          "title": "Traditional Navajo Weaving"
-        }
-      ]
-    },
-    {
-      "kind": "culture",
       "id": "armenia",
       "title": "Armenia",
       "description": "An ancient highland nation kept by faith, the letter, and the mountain it cannot reach.",
@@ -36703,6 +36592,125 @@
           "title": "subsistence Salmon Fishing"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "us_arizona",
+      "title": "Arizona",
+      "description": "Arizona staged: the Grand Canyon State of desert resilience, Navajo code talkers, and copper mining boomtowns.",
+      "source": {
+        "package": "@chbrain/khai-cultures-us-arizona",
+        "path": ""
+      },
+      "iso": "US-AZ",
+      "members": [
+        {
+          "file": "persona_ramon.md",
+          "kind": "persona",
+          "title": "Ramon",
+          "type": "archetype",
+          "taxonomy": "position_southwest_frontier.md"
+        },
+        {
+          "file": "persona_yazhi.md",
+          "kind": "persona",
+          "title": "Yazhi",
+          "type": "archetype",
+          "taxonomy": "position_desert_resilience.md"
+        },
+        {
+          "file": "piece_copper_ore.md",
+          "kind": "piece",
+          "title": "The Copper Ore Specimen"
+        },
+        {
+          "file": "piece_navajo_rug.md",
+          "kind": "piece",
+          "title": "The Hand-Woven Navajo Rug"
+        },
+        {
+          "file": "pitch_arizona.md",
+          "kind": "pitch",
+          "title": "The Arizona Key",
+          "taxonomy": "play_arizona.md"
+        },
+        {
+          "file": "place_bisbee_mine.md",
+          "kind": "place",
+          "title": "Bisbee Mine"
+        },
+        {
+          "file": "place_grand_canyon.md",
+          "kind": "place",
+          "title": "The Grand Canyon"
+        },
+        {
+          "file": "plan_groundwater_management.md",
+          "kind": "plan",
+          "title": "The Groundwater Management Plan"
+        },
+        {
+          "file": "play_arizona.md",
+          "kind": "play",
+          "title": "Arizona"
+        },
+        {
+          "file": "plot_00_the_canals_dug_twice.md",
+          "kind": "plot",
+          "title": "The Canals, Dug Twice",
+          "taxonomy": "play_arizona.md"
+        },
+        {
+          "file": "plot_01_grand_canyon.md",
+          "kind": "plot",
+          "title": "The Grand Canyon National Park Act",
+          "taxonomy": "play_arizona.md"
+        },
+        {
+          "file": "plot_02_code_talkers.md",
+          "kind": "plot",
+          "title": "The Navajo Code Talkers",
+          "taxonomy": "play_arizona.md"
+        },
+        {
+          "file": "plot_03_central_arizona_project.md",
+          "kind": "plot",
+          "title": "The Central Arizona Project",
+          "taxonomy": "play_arizona.md"
+        },
+        {
+          "file": "plot_99_the_order_of_the_cuts.md",
+          "kind": "plot",
+          "title": "The Order of the Cuts",
+          "taxonomy": "play_arizona.md"
+        },
+        {
+          "file": "position_culture_arizona_culture.md",
+          "kind": "position",
+          "title": "Arizona Culture"
+        },
+        {
+          "file": "position_desert_resilience.md",
+          "kind": "position",
+          "title": "Desert Resilience"
+        },
+        {
+          "file": "position_southwest_frontier.md",
+          "kind": "position",
+          "title": "Southwest Frontier"
+        },
+        {
+          "file": "process_copper_smelting.md",
+          "kind": "process",
+          "title": "Arizona Copper Smelting"
+        },
+        {
+          "file": "process_navajo_weaving.md",
+          "kind": "process",
+          "title": "Traditional Navajo Weaving"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-us-arizona"
     },
     {
       "kind": "culture",
