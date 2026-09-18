@@ -12,15 +12,55 @@
 // have sat unread ever since. The house has thirteen walls and not one of them
 // looks at whether the prose is spelled in the language it claims.
 //
-// WHY ZERO AND NOT "TOO FEW". Spanish cannot be spell-checked by machine here,
-// and the corpus proves it: que/qué, como/cómo, solo/sólo, esta/está, paso/pasó,
+// NO WORD IS EVER JUDGED. Spanish cannot be spell-checked by machine here, and
+// the corpus proves it: que/qué, como/cómo, solo/sólo, esta/está, paso/pasó,
 // mas/más, este/esté are all real pairs of real words with different meanings,
 // and all of them occur in this house in both spellings, correctly. A counter
 // that added accents by frequency would corrupt the prose it was hired to
-// protect. So this wall asks the one question that needs no dictionary and
-// admits no false positive: a body of running prose in an accented language,
-// with not one diacritic in it, is wrong. That is decidable. Which word is
-// missing which accent is a reading, and readings are not a counter's business.
+// protect. Which word is missing which accent is a reading, and readings are
+// not a counter's business. That has not changed and must not.
+//
+// WHAT CHANGED, AND WHY IT HAD TO. This wall first asked whether a file carried
+// ONE mark, and a file with one passed. That is the same question asked of three
+// hundred words as of sixty, and it let the wall be bought off for a single
+// character. Three of guinea_bissau's twenty-one mislabelled files were invisible
+// to it for exactly that reason - one stray accent each - and worse, so was
+// `position_language_es_es_md.md`, THE FILE THIS WALL WAS WRITTEN FOR. It still
+// reads "la conjugacion del verbo", "la distincion entre la ese y la zeta", "el
+// laismo", and three surviving marks (español, América, acompaña) hid all of it.
+// A wall that cannot see its own founding example is not measuring what it says.
+//
+// SO THE QUESTION IS NOW ABOUT DENSITY, AND STILL NOT ABOUT WORDS. A file is
+// flat when it carries almost nothing of what its own language carries: at most
+// SHARE of the marks that language's own files show over prose this long. The
+// density is the language's own median, taken from the corpus exactly as
+// accentUsing takes membership from it - no external list, no dictionary.
+//
+// TWO GUARDS KEEP IT HONEST. A rate alone would be useless: the house spans
+// three orders of magnitude, from Sesotho at 3.3 marks per hundred words to
+// Vietnamese at 613, and the low tail runs continuously through legitimate
+// Sesotho. So the comparison is always to the file's OWN language, and it is
+// only made when that language would owe at least MIN_EXPECTED marks over prose
+// this long - the same reasoning as FLOOR, since a language that owes four
+// marks cannot be said to be missing them. Lesotho and San Marino sit below
+// that line and are not scored, which is correct: their question is a reading.
+//
+// A POISSON TAIL TEST WAS TRIED FIRST AND IS WRONG. Marks cluster by topic and
+// by name, so the variance is nothing like Poisson: at lambda 1318 the tail is
+// razor-thin and a perfectly good Vietnamese file of 933 marks scored p = 0.
+// It flagged ordinary variation in dense languages and was abandoned.
+//
+// THE THRESHOLD SITS IN A MEASURED GAP. Across the house, 15% and 20% catch the
+// same four files and nothing lies between 11.6% and 21.1%, so the choice is
+// not delicate. SHARE is the low end of that plateau. The four are flagrant -
+// accent-stripped French Canadian ("Quebec", "Revolution tranquille", "etre
+// maitre") and accent-stripped Spanish ("distincion", "acompana", "preterito").
+//
+// AND IT STILL DOES NOT CATCH EVERYTHING, BY DESIGN. Just above the plateau sits
+// es_gq at 21%, which is PARTLY stripped - "numero", "prestamo", "lexico" flat
+// while español, género and ndowé stand. Partial stripping is a continuum and a
+// counter cannot cut it; that is the same limit the first paragraph states. This
+// wall catches the flagrant case and says so. It does not claim the rest.
 //
 // THERE ARE TWO REMEDIES AND THE WALL DOES NOT CHOOSE. Thirty-nine of the fifty
 // are the cape_verde and guinea_bissau cultures, whose files declare `language:
@@ -61,6 +101,10 @@ const MARKS = /\p{Mn}/u;
 /** Does this prose carry a single combining mark? */
 export const marked = (prose) => MARKS.test(prose.normalize("NFD"));
 
+const ALL_MARKS = /\p{Mn}/gu;
+/** How many combining marks this prose carries, however it is normalised. */
+export const markCount = (prose) => (prose.normalize("NFD").match(ALL_MARKS) ?? []).length;
+
 const WORDS = /[^\W\d_]{3,}/gu;
 /** Enough running prose to have owed an accent. A stub proves nothing. */
 export const FLOOR = 60;
@@ -92,6 +136,16 @@ export function sources(root = PACKAGES) {
  */
 export const QUORUM = 8;
 export const MAJORITY = 0.7;
+
+/**
+ * A Map, not a Set, and the value carries the weight.
+ *
+ * `.has(lang)` answers the old question, so every caller that only asked
+ * whether a language is accented still reads the same. `.get(lang)` is that
+ * language's own density: the MEDIAN marks-per-word across its marked files.
+ * The median and not the mean, because the flat files are in this corpus too
+ * and a mean would let them drag down the very line they are measured against.
+ */
 export function accentUsing(files = sources(), read = readCached) {
   const seen = new Map();
   for (const p of files) {
@@ -100,17 +154,37 @@ export function accentUsing(files = sources(), read = readCached) {
     const lang = declaredLanguage(text);
     if (!lang) continue;
     const prose = body(text);
-    if (wordCount(prose) < FLOOR) continue;
-    const row = seen.get(lang) ?? { files: 0, marked: 0 };
+    const words = wordCount(prose);
+    if (words < FLOOR) continue;
+    const row = seen.get(lang) ?? { files: 0, marked: 0, rates: [] };
     row.files += 1;
-    if (marked(prose)) row.marked += 1;
+    const n = markCount(prose);
+    if (n > 0) {
+      row.marked += 1;
+      row.rates.push(n / words);
+    }
     seen.set(lang, row);
   }
-  const out = new Set();
-  for (const [lang, r] of seen)
-    if (r.files >= QUORUM && r.marked / r.files >= MAJORITY) out.add(lang);
+  const out = new Map();
+  for (const [lang, r] of seen) {
+    if (r.files < QUORUM || r.marked / r.files < MAJORITY) continue;
+    const sorted = r.rates.sort((a, b) => a - b);
+    out.set(lang, sorted[Math.floor(sorted.length / 2)]);
+  }
   return out;
 }
+
+/**
+ * How few marks is too few, once the language is known to use them.
+ *
+ * SHARE sits at the low end of a measured plateau: across the house 15% and
+ * 20% catch the same four files, and nothing lies between 11.6% and 21.1%.
+ * MIN_EXPECTED is FLOOR's argument applied to marks instead of words - a
+ * language that would owe four marks over this much prose cannot be said to be
+ * missing them, so the wall does not score that file at all.
+ */
+export const SHARE = 0.15;
+export const MIN_EXPECTED = 10;
 
 const cache = new Map();
 function readCached(p) {
@@ -124,13 +198,31 @@ function readCached(p) {
   return cache.get(p);
 }
 
-/** Is this file's prose flat: an accented language, and not one mark in it? */
+/**
+ * Is this file's prose flat: an accented language, and almost nothing of it?
+ *
+ * Two questions, in order. No mark at all is the original one and still
+ * decides on its own. Otherwise the marks are weighed against what this
+ * language's own files carry over prose this long, and the file is flat only
+ * when it holds at most SHARE of that. No word is ever looked at.
+ *
+ * `accented` is the Map from accentUsing. A bare Set is accepted and means
+ * "accented, density unknown", which degrades to the zero-mark question alone -
+ * safe, because it can only report less, never more.
+ */
 export function flat(text, accented) {
   const lang = declaredLanguage(text);
   if (!lang || !accented.has(lang)) return null;
   const prose = body(text);
-  if (wordCount(prose) < FLOOR) return null;
-  return marked(prose) ? null : lang;
+  const words = wordCount(prose);
+  if (words < FLOOR) return null;
+  const n = markCount(prose);
+  if (n === 0) return lang;
+  const density = typeof accented.get === "function" ? accented.get(lang) : undefined;
+  if (!density) return null;
+  const expected = density * words;
+  if (expected < MIN_EXPECTED) return null;
+  return n <= SHARE * expected ? lang : null;
 }
 
 /** Every flat file in the house, as [path, language]. */
@@ -212,6 +304,24 @@ const CURE =
   "  same to a counter. Read the file and pick the true one.\n" +
   "  See management/orders/order_the_written_accent.md and order_voice_from_inside.md.";
 
+/**
+ * What was actually found, in the file's own numbers.
+ *
+ * The wall exists because a file claimed something untrue about itself, so its
+ * findings say what they measured. "not one mark in it" was accurate while zero
+ * was the only question and is a falsehood about a file holding one.
+ */
+export function describe(path, lang, accented) {
+  const prose = body(readCached(path) ?? "");
+  const n = markCount(prose);
+  if (n === 0) return `declares "${lang}", not one mark in it`;
+  const expected = (accented.get?.(lang) ?? 0) * wordCount(prose);
+  return (
+    `declares "${lang}", ${n} mark(s) in ${wordCount(prose)} words ` +
+    `where this language carries about ${Math.round(expected)}`
+  );
+}
+
 function report() {
   const rows = findings();
   const byLang = new Map();
@@ -219,7 +329,10 @@ function report() {
   console.log(`flat files: ${rows.length} in ${byLang.size} language(s)`);
   for (const [l, ps] of [...byLang].sort((a, b) => b[1].length - a[1].length)) {
     console.log(`  ${l}: ${ps.length}`);
-    for (const p of ps) console.log(`    ${p}`);
+    for (const p of ps) {
+      const n = markCount(body(readCached(p) ?? ""));
+      console.log(`    ${p}${n ? `  (${n} mark(s), near-zero)` : ""}`);
+    }
   }
   console.log(CURE);
 }
@@ -239,7 +352,7 @@ function gate(base, head) {
   console.error(
     "::error::Diacritics: prose you write in an accented language must carry its accents.",
   );
-  for (const [p, l] of offenders) console.error(`  ${p}: declares "${l}", not one mark in it`);
+  for (const [p, l] of offenders) console.error(`  ${p}: ${describe(p, l, accented)}`);
   console.error(CURE);
   return 1;
 }

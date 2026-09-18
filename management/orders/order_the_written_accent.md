@@ -27,14 +27,17 @@ at whether the prose was spelled in the language it claimed.
 
 ## What was actually there
 
-| What                                                           | How many         |
-| -------------------------------------------------------------- | ---------------- |
-| files declaring an accented language and carrying no mark      | **50**           |
-| of those, `cape_verde` and `guinea_bissau` declaring `pt`      | 39               |
-| Spanish `position_language_*` files                            | 9                |
-| one `fr` (`khai-cultures-canada`), one `it` (`san_marino`)     | 2                |
-| languages affected                                             | 4 of 52 measured |
-| files at a mark density below a sixth of their language median | 9 more, not held |
+| What                                                         | At first | Now    |
+| ------------------------------------------------------------ | -------- | ------ |
+| files declaring an accented language and carrying no mark    | **50**   | 28     |
+| of those, `cape_verde` and `guinea_bissau` declaring `pt`    | 39       | 21     |
+| files holding some marks but under a sixth of their language | 9, held  | **4**  |
+| total the wall reports                                       | 50       | **32** |
+| languages affected                                           | 4        | 4      |
+
+The nine near-zero files were an estimate at a looser line; measured against the
+threshold actually chosen, there are four. The count went up by four and down by
+eighteen in the same breath, and both movements are the wall working.
 
 ## The fault is two faults
 
@@ -114,12 +117,28 @@ first place.
       as each culture is walked
 - [ ] `cape_verde`: 22 files from `pt` to `kea`, and `kea` authored in the
       tongues package
-- [ ] `guinea_bissau`: 22 files from `pt` to `pov`, and `pov` authored in the
-      tongues package
+- [x] `guinea_bissau`: 21 files from `pt` to `pov`. Not 22 — `position_language_pt_gw.md`
+      keeps `pt`, because it is genuine Portuguese (70 marks, no Kiriol) and is
+      the file that proves the others were not. `pitch_pt.md` became `pitch_pov.md`
+- [ ] `pov` authored in the tongues package. It stayed inside the culture: the
+      relabel did not need it moved, and a move is its own change
 - [ ] `khai-cultures-canada/position_les_deux_peuples.md` (`fr`, already
       shipped) and `san_marino/position_language_it_sm.md`
-- [ ] Tighten from zero marks to a density floor once the fifty are clear; nine
-      near-zero files are waiting behind it
+- [x] Tighten from zero marks to a density floor. **Taken early, and the
+      condition it was given is the thing that had to go.** "Once the fifty are
+      clear" assumed the blind spot only hid files already counted. It did not:
+      three of `guinea_bissau`'s twenty-one were invisible to the wall for one
+      stray accent each, and so was `position_language_es_es_md.md` — the file
+      this order opens with. A wall that cannot see its own founding example
+      should not be left standing while more prose is written against it.
+      A file is now flat when it holds at most 15% of the marks its own language
+      carries over prose that long, scored only where the language would owe at
+      least ten. The threshold sits in a measured gap: 15% and 20% catch the same
+      four files, and nothing lies between 11.6% and 21.1%
+- [ ] Partial stripping, which the density floor deliberately does not cut.
+      `es_gq` sits just above the plateau at 21% with `numero`, `prestamo` and
+      `lexico` flat while `español`, `género` and `ndowé` stand. That is a
+      continuum and a counter cannot decide it; it needs a reading
 - [ ] Read the 38 multi-language plays against the definition —
       `order_voice_from_inside.md`, still unchecked, and now the same finding
       from a third direction
