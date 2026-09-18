@@ -1,5 +1,5 @@
 ---
-updated: "2026-06-24"
+updated: "2026-09-18"
 ---
 
 # Guinea-Bissau: References
@@ -39,13 +39,15 @@ from the public record. They are credited here and never claimed; the staging is
 original work. The path to independence is staged soberly on the public record,
 taking no political side and carrying no atrocity detail.
 
-| Subject                              | In this culture                                                                                            | Scope                                                                                                              |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| The Bijagos and the sacred islands   | [plot_01_bijagos.md](plot_01_bijagos.md), [position_matriarkadu_bijago.md](position_matriarkadu_bijago.md) | The Bijagos archipelago, its matrilineal and mother-led island societies, initiation, and carved figures.          |
-| The peoples and Kriol                | [plot_02_povos_kriol.md](plot_02_povos_kriol.md), [position_kriol.md](position_kriol.md)                   | The many peoples (Balanta, Fula, Mandinga, Manjaco, Papel, Bijago) and Guinea-Bissau Kriol as the binding tongue.  |
-| The road to independence             | [plot_03_independencia.md](plot_03_independencia.md), [persona_cabral.md](persona_cabral.md)               | Amilcar Cabral the agronomist and thinker and the road to national independence, staged soberly as national pride. |
-| Cashew, gumbe and carnival           | [plot_04_caju_gumbe.md](plot_04_caju_gumbe.md), [persona_schwarz.md](persona_schwarz.md)                   | The cashew economy and harvest, gumbe music, the carnival of Bissau, and the writer Abdulai Sila.                  |
-| Bissau, the Bijagos, and the harvest | [place_bissau.md](place_bissau.md), [place_bijagos.md](place_bijagos.md), [piece_caju.md](piece_caju.md)   | The capital, the sacred archipelago, the cashew nut, the Bijago mask, the fanadu, and the tabanca and bolanha.     |
+| Subject                              | In this culture                                                                                                            | Scope                                                                                                                                                                                                                         |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nobody is born grown                 | [plot_00_ningin_ta_nasi_djintadu.md](plot_00_ningin_ta_nasi_djintadu.md), [process_fanadu.md](process_fanadu.md)           | Age-grade initiation across the peoples of the coast, the masked initiate, and authority held by the tabanca rather than by any single ruler.                                                                                 |
+| The Bijagos and the sacred islands   | [plot_01_bijagos.md](plot_01_bijagos.md), [position_matriarkadu_bijago.md](position_matriarkadu_bijago.md)                 | The Bijagos archipelago, its matrilineal and mother-led island societies, initiation, and carved figures.                                                                                                                     |
+| The peoples and Kriol                | [plot_02_povos_kriol.md](plot_02_povos_kriol.md), [position_kriol.md](position_kriol.md)                                   | The many peoples (Balanta, Fula, Mandinga, Manjaco, Papel, Bijago) and Guinea-Bissau Kriol as the binding tongue.                                                                                                             |
+| The road to independence             | [plot_03_independencia.md](plot_03_independencia.md), [persona_cabral.md](persona_cabral.md)                               | Amilcar Cabral the agronomist and thinker and the road to national independence, staged soberly as national pride.                                                                                                            |
+| Cashew, gumbe and carnival           | [plot_04_caju_gumbe.md](plot_04_caju_gumbe.md), [persona_schwarz.md](persona_schwarz.md)                                   | The cashew economy and harvest, gumbe music, the carnival of Bissau, and the writer Abdulai Sila.                                                                                                                             |
+| Bissau, the Bijagos, and the harvest | [place_bissau.md](place_bissau.md), [place_bijagos.md](place_bijagos.md), [piece_caju.md](piece_caju.md)                   | The capital, the sacred archipelago, the cashew nut, the Bijago mask, the fanadu, and the tabanca and bolanha.                                                                                                                |
+| The price and the language           | [plot_99_o_presu_i_a_lingua.md](plot_99_o_presu_i_a_lingua.md), [process_kolheita_di_caju.md](process_kolheita_di_caju.md) | The cashew export economy and the raw-nut trade, rice imports, Portuguese as the language of state and school beside Kriol as the spoken tongue, the interrupted terms of office, and Abdulai Sila's Bissau publishing house. |
 
 The historic personas - [Amilcar Cabral](persona_cabral.md), [Jose Carlos
 Schwarz](persona_schwarz.md), [Okinka Pampa](persona_okinka_pampa.md), and

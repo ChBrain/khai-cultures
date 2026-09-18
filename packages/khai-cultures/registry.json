@@ -18966,6 +18966,12 @@
           "title": "Guinea-Bissau"
         },
         {
+          "file": "plot_00_ningin_ta_nasi_djintadu.md",
+          "kind": "plot",
+          "title": "Nobody Is Born Grown",
+          "taxonomy": "play_guinea_bissau.md"
+        },
+        {
           "file": "plot_01_bijagos.md",
           "kind": "plot",
           "title": "The Bijagos and the Sacred Islands",
@@ -18987,6 +18993,12 @@
           "file": "plot_04_caju_gumbe.md",
           "kind": "plot",
           "title": "Cashew, Gumbe and Carnival",
+          "taxonomy": "play_guinea_bissau.md"
+        },
+        {
+          "file": "plot_99_o_presu_i_a_lingua.md",
+          "kind": "plot",
+          "title": "The Price and the Language",
           "taxonomy": "play_guinea_bissau.md"
         },
         {
