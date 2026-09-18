@@ -2,7 +2,7 @@
 khai: position
 title: "Guinea-Bissauan Culture"
 declared: "a bissau-guineensidade"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

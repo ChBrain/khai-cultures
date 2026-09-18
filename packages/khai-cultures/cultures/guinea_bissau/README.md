@@ -16,7 +16,7 @@ Estate; a culture with no Estate is not yet a production.
 ## The production
 
 - **Anchor:** [play_guinea_bissau.md](play_guinea_bissau.md), the culture itself.
-- **Pitch:** [pitch_pt.md](pitch_pt.md), the Hofstede layer, written from
+- **Pitch:** [pitch_pov.md](pitch_pov.md), the Hofstede layer, written from
   Guinea-Bissau's profile (a strongly communal, group-first society of extended
   family and village, with respect for age and authority, a warm present-focused
   indulgence, and life lived together rather than alone) and naming no dimension.

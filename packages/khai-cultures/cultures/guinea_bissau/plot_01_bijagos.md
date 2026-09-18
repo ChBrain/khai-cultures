@@ -2,7 +2,7 @@
 khai: plot
 title: "The Bijagos and the Sacred Islands"
 declared: "os Bijagos i as ilhas sagradas"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

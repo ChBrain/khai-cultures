@@ -61,7 +61,7 @@ Un pais pikininu i hibridu, nasidu di mui povu i di un so lingua ku inventa-l. A
 
 **Pitches**
 
-- [o tom guineense](pitch_pt.md)
+- [o tom guineense](pitch_pov.md)
 
 **Plans**
 

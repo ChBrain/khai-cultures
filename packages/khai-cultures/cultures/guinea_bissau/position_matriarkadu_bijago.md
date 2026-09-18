@@ -2,7 +2,7 @@
 khai: position
 title: "the Bijago Matriarchy"
 declared: "o matriarkadu Bijago"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

@@ -2,7 +2,7 @@
 khai: piece
 title: "The Bijago Mask"
 declared: "a mascara Bijago"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

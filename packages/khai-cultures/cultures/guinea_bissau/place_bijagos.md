@@ -2,7 +2,7 @@
 khai: place
 title: "the Bijagos"
 declared: "os Bijagos"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

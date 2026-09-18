@@ -2,7 +2,7 @@
 khai: persona
 title: "Okinka Pampa"
 declared: "Okinka Pampa"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

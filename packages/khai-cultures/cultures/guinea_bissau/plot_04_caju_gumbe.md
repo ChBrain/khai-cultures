@@ -2,7 +2,7 @@
 khai: plot
 title: "Cashew, Gumbe and Carnival"
 declared: "o caju, o gumbe i o carnaval"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

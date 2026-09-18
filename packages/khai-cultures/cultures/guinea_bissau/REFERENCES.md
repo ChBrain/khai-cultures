@@ -10,7 +10,7 @@ sources behind the plots, personas, places, and pieces.
 
 ## Hofstede source data
 
-The pitch [pitch_pt.md](pitch_pt.md) is written from Guinea-Bissau's orientation on
+The pitch [pitch_pov.md](pitch_pov.md) is written from Guinea-Bissau's orientation on
 Geert Hofstede's model of national culture and names no dimension and carries no
 number. Hofstede Insights does not publish a full standalone score set for
 Guinea-Bissau; the pitch is written from the broadly attested West African

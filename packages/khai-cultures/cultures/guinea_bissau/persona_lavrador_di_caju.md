@@ -2,7 +2,7 @@
 khai: persona
 title: "the Cashew Farmer"
 declared: "o lavrador di caju"
-language: pt
+language: pov
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
