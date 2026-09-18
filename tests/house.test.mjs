@@ -48,6 +48,8 @@ import {
   body as proseBody,
   declaredLanguage,
   marked,
+  markCount,
+  describe as describeFinding,
   flat,
   accentUsing,
   findings as flatFindings,
@@ -658,13 +660,20 @@ describe("Cultures house: a changeset can be committed on a lane the guard compu
 
 // The wall that reads whether prose is spelled in the language it claims. What
 // runs here is the reading, not the gate: the gate needs a diff and runs in CI.
-// Fifty files are flat today and that is not an error - the ratchet fires on
+// Thirty-two files are flat today and that is not an error - the ratchet fires on
 // prose a pull request writes, so the count comes down as the house is walked.
 // See management/orders/order_the_written_accent.md.
 describe("Cultures house: prose is spelled in the language it declares", () => {
+  // A Set means "accented, density unknown"; a Map carries the language's own
+  // marks-per-word. Both are exercised here, because the wall takes either and
+  // must answer less with the Set, never more.
   const es = { name: "es", accented: new Set(["es"]) };
+  // 0.1149 is Spanish's real density in this house, measured: ~11.5 marks per
+  // hundred words. Hard-coded here so these cases do not drift with the corpus.
+  const esDense = new Map([["es", 0.1149]]);
   const fm = (lang, prose) => `---\nkhai: position\nlanguage: ${lang}\n---\n\n${prose}`;
   const long = (w) => Array.from({ length: 80 }, () => w).join(" ");
+  const words = (n, w) => Array.from({ length: n }, () => w).join(" ");
 
   it("reads the declared language and drops the frontmatter from the prose", () => {
     const text = fm("es", "una frase cualquiera");
@@ -679,12 +688,65 @@ describe("Cultures house: prose is spelled in the language it declares", () => {
     expect(marked("cancio\u0301n")).toBe(true); // decomposed
   });
 
-  // The whole reason the wall asks about zero marks and not about too few: both
-  // spellings below are correct Spanish, and no counter can choose between them.
-  it("does not read individual words, only whether the file has any mark at all", () => {
-    expect(flat(fm("es", long("est\u00e1")), es.accented)).toBeNull();
-    expect(flat(fm("es", `${long("esta")} caf\u00e9`), es.accented)).toBeNull();
+  // The guarantee that must never be traded away: both spellings below are
+  // correct Spanish, and no counter can choose between them. The wall reads the
+  // file's mark density and never a word, so prose at its language's own
+  // density passes whatever it spells.
+  it("never judges an individual word", () => {
+    expect(flat(fm("es", long("est\u00e1")), esDense)).toBeNull();
     expect(flat(fm("es", long("esta")), es.accented)).toBe("es");
+  });
+
+  // The defect this rule was written for. One stray accent used to buy a pass
+  // for a whole file, which is how three of guinea_bissau's mislabelled files
+  // and position_language_es_es_md.md - the file the wall exists because of -
+  // stayed invisible. 300 Spanish words owe about 34 marks; one is not "some".
+  it("is not bought off by a single stray accent in three hundred words", () => {
+    const strayed = fm("es", `${words(299, "esta")} caf\u00e9`);
+    expect(markCount(proseBody(strayed))).toBe(1);
+    expect(flat(strayed, esDense)).toBe("es");
+  });
+
+  it("passes prose that carries its language's own density", () => {
+    // 300 words with 34 marks: right at the Spanish median, so not a finding.
+    expect(flat(fm("es", `${words(266, "esta")} ${words(34, "est\u00e1")}`), esDense)).toBeNull();
+  });
+
+  // FLOOR's argument, applied to marks. A language that would owe only a few
+  // marks over this much prose cannot be said to be missing them, so the wall
+  // declines to score the file at all rather than guess. This is what keeps
+  // legitimate Sesotho and Italian, which genuinely carry few accents, out.
+  it("declines to score a file whose language would owe too few marks", () => {
+    const sparse = new Map([["es", 0.01]]); // 100 words would owe 1 mark
+    const text = fm("es", `${words(199, "esta")} caf\u00e9`);
+    expect(flat(text, sparse)).toBeNull(); // expected 2, under MIN_EXPECTED
+    expect(flat(text, esDense)).toBe("es"); // same file, a dense language
+  });
+
+  // A Set carries no density, so the wall must fall back to the original
+  // question and report less. Reporting more from a Set would be a silent
+  // change of meaning for every old caller.
+  it("degrades to the zero-mark question when given a bare Set", () => {
+    const strayed = fm("es", `${words(299, "esta")} caf\u00e9`);
+    expect(flat(strayed, es.accented)).toBeNull();
+    expect(flat(strayed, esDense)).toBe("es");
+  });
+
+  // Found by running the gate against a probe rather than by reading the code:
+  // the message still said "not one mark in it" about a file holding one. This
+  // wall exists because a file claimed something untrue about itself, so its own
+  // findings have to say what they measured.
+  it("reports a near-zero finding in the file's own numbers", () => {
+    const accented = accentUsing();
+    // The wall's own findings supply the examples, so this types no culture
+    // path and does not go stale when one of them is packaged.
+    const said = flatFindings().map(([p, l]) => describeFinding(p, l, accented));
+    const zero = said.filter((t) => t.includes("not one mark in it"));
+    const near = said.filter((t) => !t.includes("not one mark in it"));
+    expect(zero.length, "the zero-mark rule should still hold findings").toBeGreaterThan(0);
+    expect(near.length, "the near-zero rule should hold at least one finding").toBeGreaterThan(0);
+    for (const t of near)
+      expect(t).toMatch(/\d+ mark\(s\) in \d+ words where this language carries about \d+/);
   });
 
   it("says nothing about a language this house does not write with accents", () => {
@@ -699,6 +761,19 @@ describe("Cultures house: prose is spelled in the language it declares", () => {
     const accented = accentUsing();
     for (const l of ["es", "fr", "pt", "it", "de"]) expect(accented.has(l)).toBe(true);
     for (const l of ["en", "ms", "id"]) expect(accented.has(l)).toBe(false);
+  });
+
+  // The density comes from the corpus too, never from a table. Asserted as a
+  // wide band, not a number, so ordinary drift in the house does not fail it:
+  // what matters is the ORDER, that the house's low-accent and high-accent
+  // languages land decades apart, which is why one global rate cannot work.
+  it("carries each language's own density, and they differ by orders of magnitude", () => {
+    const accented = accentUsing();
+    const per100 = (l) => accented.get(l) * 100;
+    expect(per100("es")).toBeGreaterThan(5);
+    expect(per100("es")).toBeLessThan(20);
+    expect(per100("st")).toBeLessThan(per100("es")); // Sesotho carries few
+    expect(per100("vi")).toBeGreaterThan(per100("es") * 10); // Vietnamese carries many
   });
 
   // The finding this wall was written for, held as a fact so it cannot be lost:
