@@ -64,17 +64,25 @@ Ohio made its name on what its hands could build and what its ground could grow.
 
 ## Triggers
 
+**[Plot 0: the carry between waters](plot_00_the_carry_between_waters.md)**
+
+For millennia, Indigenous travelers carry boats and goods eight miles between the Cuyahoga and the Tuscarawas, joining the Great Lakes to the Ohio and Mississippi valleys; the route is a middle ground before later surveyors turn it into a boundary.
+
 **[Plot 1: The Northwest Ordinance 1787](plot_01_northwest_ordinance.md)**
 
 Congress draws up a territory that bans slavery here and puts a public schoolhouse in the bargain before a soul has settled - the heartland's foundation, laid down first in the paperwork.
 
-**[Plot 2: The Industrial Boom and Rust Belt 1920](plot_02_rust_belt.md)**
+**[Plot 2: The Birth of Aviation 1903](plot_02_aviation_birth.md)**
+
+In a Dayton workshop, the Wright brothers work out the first powered aircraft a person can actually control - proof that plain, patient people get off the ground.
+
+**[Plot 3: The Industrial Boom and Rust Belt 1920](plot_03_rust_belt.md)**
 
 Steel out of Cleveland and rubber out of Akron make Ohio an industrial powerhouse running flat out - then the shifts thin out, and the back half of the century becomes the long work of what comes next.
 
-**[Plot 3: The Birth of Aviation 1903](plot_03_aviation_birth.md)**
+**[Plot 99: the factory in the cornfield](plot_99_the_factory_in_the_cornfield.md)**
 
-In a Dayton workshop, the Wright brothers work out the first powered aircraft a person can actually control - proof that plain, patient people get off the ground.
+The 2020s put battery production into Lordstown and a vast chip-factory basement into former farmland east of Columbus; one line stops and restarts while the other misses its first production date, leaving factory hand, farmer, old valley and new corridor inside the same unsettled industrial turn.
 
 ## Stakes
 

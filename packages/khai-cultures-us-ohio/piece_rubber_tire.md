@@ -34,4 +34,4 @@ A heavy, black vulcanized rubber passenger car tire, featuring a deep tread patt
 ## Yearbook
 
 - Analyzed by researcher [Harper](persona_harper.md) during industrial brownfield redevelopment studies.
-- Heavy manufacturing artifact in the plot [The Industrial Boom and Rust Belt 1920](plot_02_rust_belt.md).
+- Heavy manufacturing artifact in the plot [The Industrial Boom and Rust Belt 1920](plot_03_rust_belt.md).

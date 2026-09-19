@@ -25,7 +25,7 @@ The historic grassy pasture near Dayton, featuring a replica hangar and catapult
 
 ## Holds
 
-- the engineering breakthroughs in the plot [The Birth of Aviation 1903](plot_03_aviation_birth.md) : the testing grounds of flight.
+- the engineering breakthroughs in the plot [The Birth of Aviation 1903](plot_02_aviation_birth.md) : the testing grounds of flight.
 
 ## Offers
 

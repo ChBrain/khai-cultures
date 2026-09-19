@@ -34,4 +34,4 @@ A large biplane constructed of spruce wood, muslin canvas, and steel wire riggin
 ## Yearbook
 
 - Displayed and documented by researcher [Harper](persona_harper.md) in aviation archives.
-- Experimental aircraft featured in the plot [The Birth of Aviation 1903](plot_03_aviation_birth.md).
+- Experimental aircraft featured in the plot [The Birth of Aviation 1903](plot_02_aviation_birth.md).
