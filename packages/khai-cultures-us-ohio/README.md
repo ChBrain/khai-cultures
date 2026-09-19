@@ -10,7 +10,7 @@ Ohio staged as a full khai play, ISO US-OH, language en. The Buckeye State: its 
 
 - **Anchor:** [play_ohio.md](play_ohio.md), the culture itself.
 - **Pitch:** [pitch_ohio.md](pitch_ohio.md), the Ohio key.
-- **Plots (history):** the Northwest Ordinance of 1787, the industrial rubber/steel boom and rust belt, and the Wright brothers' aviation experiments in Dayton in 1903.
+- **Plots (history):** the ancient Portage Path between the Cuyahoga and Tuscarawas watersheds; the Northwest Ordinance of 1787; the industrial rubber and steel boom and rust belt; the Wright brothers' aviation experiments in Dayton in 1903; and the 2020s turn from Lordstown batteries to a chip factory built in central Ohio farmland.
 - **Personas:** Harper (Cleveland industrial researcher) and Samuel (western Ohio farmer), written in English.
 - **Positions:** the industrial heartland (manufacturing competence), the middle ground (moderate consensus).
 - **Places:** the Cleveland Flats, Huffman Prairie.

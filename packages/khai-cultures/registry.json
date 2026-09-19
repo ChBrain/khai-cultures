@@ -40183,8 +40183,8 @@
       "title": "Ohio",
       "description": "Ohio staged: the Buckeye State of the Northwest Ordinance, industrial rust belt valleys, and Wright aviation.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/us_ohio"
+        "package": "@chbrain/khai-cultures-us-ohio",
+        "path": ""
       },
       "iso": "US-OH",
       "members": [
@@ -40239,21 +40239,33 @@
           "title": "Ohio"
         },
         {
+          "file": "plot_00_the_carry_between_waters.md",
+          "kind": "plot",
+          "title": "The Carry Between Waters",
+          "taxonomy": "play_ohio.md"
+        },
+        {
           "file": "plot_01_northwest_ordinance.md",
           "kind": "plot",
           "title": "The Northwest Ordinance",
           "taxonomy": "play_ohio.md"
         },
         {
-          "file": "plot_02_rust_belt.md",
+          "file": "plot_02_aviation_birth.md",
+          "kind": "plot",
+          "title": "The Birth of Aviation",
+          "taxonomy": "play_ohio.md"
+        },
+        {
+          "file": "plot_03_rust_belt.md",
           "kind": "plot",
           "title": "The Industrial Boom and Rust Belt Transition",
           "taxonomy": "play_ohio.md"
         },
         {
-          "file": "plot_03_aviation_birth.md",
+          "file": "plot_99_the_factory_in_the_cornfield.md",
           "kind": "plot",
-          "title": "The Birth of Aviation",
+          "title": "The Factory in the Cornfield",
           "taxonomy": "play_ohio.md"
         },
         {
@@ -40281,7 +40293,8 @@
           "kind": "process",
           "title": "Akron Tire Vulcanization"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-us-ohio"
     },
     {
       "kind": "culture",
