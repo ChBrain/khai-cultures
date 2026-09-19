@@ -1,7 +1,7 @@
 ---
 khai: plan
 title: "one single people"
-declared: "um so povu"
+declared: "um só povo"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,11 +11,11 @@ stamp:
 status: active
 ---
 
-# Plan: um so povu
+# Plan: um só povo
 
 ## Taxonomy
 
-A tarefa que a nasao das ilhas poe diante de si: segurar-se komo um so povu di um so korason apesar do mar que a parte, guardando [a sodade](position_sodade.md) komo fiu que liga a terra e a diaspora, [a morabeza](position_morabeza.md) komo a sua marka diante do mundu, e [o kriolu](position_kriolu.md) komo a lingua-mae que prende os filhus longe a ilha que talvez nunka pisem.
+A tarefa que a nação das ilhas põe diante de si: segurar-se como um só povo de um só coração apesar do mar que a parte, guardando [a sodade](position_sodade.md) como fio que liga a terra e a diáspora, [a morabeza](position_morabeza.md) como a sua marca diante do mundo, e [o kriolu](position_kriolu.md) como a língua-mãe que prende os filhos longe a ilha que talvez nunca pisem.
 
 ## Owner
 
@@ -23,24 +23,24 @@ A tarefa que a nasao das ilhas poe diante de si: segurar-se komo um so povu di u
 
 ## Direction
 
-Fazer da terra livre um lugar onde valha a pena fikar, vensendu a seka kom agua, kom trabalhu e kom engenhu; segurar o fiu da diaspora, para que os que partem e os netus nasidus la fora kontinuem a sentir-se das ilhas; guardar o kriolu e a morna komo alma do povu, sem vergonha e sem perda; e levar a morabeza ao mundu sem a vender, fazendu da akolhida e da musika a marka e o sustentu da nasao.
+Fazer da terra livre um lugar onde valha a pena ficar, vencendo a seca com água, com trabalho e com engenho; segurar o fio da diáspora, para que os que partem e os netos nascidos lá fora continuem a sentir-se das ilhas; guardar o kriolu e a morna como alma do povo, sem vergonha e sem perda; e levar a morabeza ao mundo sem a vender, fazendo da acolhida e da música a marca e o sustento da nação.
 
 ## Orders
 
-- Ao que parte, komo a genti de [a kantadeira di sodade](persona_kantadeira.md): leva a ilha dentru di ti, manda noticia e dinheiru, e volta, nem que seja so no verao e na morna.
-- Ao que kanta, komo [Cesaria Evora](persona_cesaria.md): leva a sodade das ilhas ao mundu kom os pes no chao, e nao a deixes virar so mercadoria.
-- A nasao: faz da terra dura um lugar onde se possa fikar, e segura o povu uno, di un mar ao outru, na lingua, na musika e na mesa aberta.
+- Ao que parte, como a gente de [a kantadeira de sodade](persona_kantadeira.md): leva a ilha dentro de ti, manda notícia e dinheiro, e volta, nem que seja só no verão e na morna.
+- Ao que canta, como [Cesária Évora](persona_cesaria.md): leva a sodade das ilhas ao mundo com os pés no chão, e não a deixes virar só mercadoria.
+- A nação: faz da terra dura um lugar onde se possa ficar, e segura o povo uno, de um mar ao outro, na língua, na música e na mesa aberta.
 
 ## Implementation
 
-Uma nasao jovem, livre desde 1975, kom mais filhus la fora do que ka dentru, que fez da estabilidade e da paz a sua marka e da musika a sua voz no mundu, mas que kontinua refem da seka e da partida: a chuva que falta, os filhus que partem, e os netus da diaspora que ja mal falam o kriolu. O kaminho fika por andar entre segurar os que fikam e nao perder os que vao.
+Uma nação jovem, livre desde 1975, com mais filhos lá fora do que cá dentro, que fez da estabilidade e da paz a sua marca e da música a sua voz no mundo, mas que continua refém da seca e da partida: a chuva que falta, os filhos que partem, e os netos da diáspora que já mal falam o kriolu. O caminho fica por andar entre segurar os que ficam e não perder os que vão.
 
 ## Targets
 
-- [x] Nasao livre e dona do seu destinu desde 1975, kom paz e estabilidade.
-- [x] A morna levada ao mundu e reconhesida komo patrimoniu da humanidade.
-- [x] O kriolu vivu komo lingua-mae di tudu o povu, ka e na diaspora.
-- [W] Vencer a seka e dar a terra livre agua e trabalhu para quem fika.
-- [W] Segurar o fiu da diaspora para que os netus nasidus la fora nao se percam da ilha.
-- [ ] Guardar o kriolu na boka das gerasoes longe do mar.
-- [ ] Levar a morabeza e a musika ao mundu sem as vender, komo marka e sustentu da nasao.
+- [x] Nação livre e dona do seu destino desde 1975, com paz e estabilidade.
+- [x] A morna levada ao mundo e reconhecida como património da humanidade.
+- [x] O kriolu vivo como língua-mãe de tudo o povo, cá e na diáspora.
+- [W] Vencer a seca e dar a terra livre água e trabalho para quem fica.
+- [W] Segurar o fio da diáspora para que os netos nascidos lá fora não se percam da ilha.
+- [ ] Guardar o kriolu na boca das gerações longe do mar.
+- [ ] Levar a morabeza e a música ao mundo sem as vender, como marca e sustento da nação.

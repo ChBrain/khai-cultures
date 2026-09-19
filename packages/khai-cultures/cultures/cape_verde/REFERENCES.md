@@ -42,13 +42,30 @@ staging is original work. The sober matters - the colonial period, the trade of
 that time, the recurring droughts and famine, and the road to independence - are
 staged soberly on the public record and take no political side.
 
-| Subject                              | In this culture                                                                                          | Scope                                                                                                               |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Settlement and the creole people     | [plot_01_povoamento.md](plot_01_povoamento.md), [position_kriolu.md](position_kriolu.md)                 | The uninhabited islands settled from c. 1460, the birth of a creole people and of the Kriolu mother tongue.         |
-| Drought, emigration, and the morna   | [plot_02_seca_emigracao.md](plot_02_seca_emigracao.md), [persona_tavares.md](persona_tavares.md)         | The recurring droughts, the emigration by sea, sodade, and Eugenio Tavares and B.Leza shaping the morna.            |
-| Independence and Amilcar Cabral      | [plot_03_independencia.md](plot_03_independencia.md), [persona_cabral.md](persona_cabral.md)             | The road to nationhood, the independence of 1975, and Amilcar Cabral, handled soberly and with no political side.   |
-| The morna, the diaspora, and Cesaria | [plot_04_morna_no_mundu.md](plot_04_morna_no_mundu.md), [persona_cesaria.md](persona_cesaria.md)         | Cesaria Evora the barefoot diva, the morna carried to the world and onto the UNESCO list, and the growing diaspora. |
-| Mindelo, Fogo, and the islands' arts | [place_mindelo.md](place_mindelo.md), [place_fogo.md](place_fogo.md), [piece_grogue.md](piece_grogue.md) | Mindelo and its carnival on Sao Vicente, the Fogo volcano with its coffee and wine, and the cuisine and the grogue. |
+| Subject                              | In this culture                                                                                          | Scope                                                                                                                                                                                                   |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The islands with nobody on them      | [plot_00_as_ilhas_sem_ninguem.md](plot_00_as_ilhas_sem_ninguem.md), [place_fogo.md](place_fogo.md)       | The archipelago uninhabited before c.1460, its position on the trade winds and in the Sahel drought belt, and a people with nothing to inherit.                                                         |
+| Settlement and the creole people     | [plot_01_povoamento.md](plot_01_povoamento.md), [position_kriolu.md](position_kriolu.md)                 | The uninhabited islands settled from c. 1460, the birth of a creole people and of the Kriolu mother tongue.                                                                                             |
+| Drought, emigration, and the morna   | [plot_02_seca_emigracao.md](plot_02_seca_emigracao.md), [persona_tavares.md](persona_tavares.md)         | The recurring droughts, the emigration by sea, sodade, and Eugenio Tavares and B.Leza shaping the morna.                                                                                                |
+| Independence and Amilcar Cabral      | [plot_03_independencia.md](plot_03_independencia.md), [persona_cabral.md](persona_cabral.md)             | The road to nationhood, the independence of 1975, and Amilcar Cabral, handled soberly and with no political side.                                                                                       |
+| The morna, the diaspora, and Cesaria | [plot_04_morna_no_mundu.md](plot_04_morna_no_mundu.md), [persona_cesaria.md](persona_cesaria.md)         | Cesaria Evora the barefoot diva, the morna carried to the world and onto the UNESCO list, and the growing diaspora.                                                                                     |
+| Mindelo, Fogo, and the islands' arts | [place_mindelo.md](place_mindelo.md), [place_fogo.md](place_fogo.md), [piece_grogue.md](piece_grogue.md) | Mindelo and its carnival on Sao Vicente, the Fogo volcano with its coffee and wine, and the cuisine and the grogue.                                                                                     |
+| What gets sold                       | [plot_99_o_que_se_vende.md](plot_99_o_que_se_vende.md), [process_morna.md](process_morna.md)             | Morna inscribed on the UNESCO Representative List in 2019, tourism dependence and the 2020 collapse, kachupa and grogue as products, food and water imports, the diaspora, and Kriolu still unofficial. |
+
+## The Kabuverdianu anchor, and what it still needs
+
+[position_language_kea.md](position_language_kea.md) is written in Kabuverdianu,
+because this house writes every language anchor in the language it describes. It
+is the only file in this culture that is in Kriolu; everything else here is
+Portuguese, which is what it has always been.
+
+**It was not written by a native speaker, and it needs one.** The orthography
+follows ALUPEC as closely as it could be held, the variety leans Santiago, and
+the grammar it describes - the invariant verb, the preverbal particles `ta`,
+`sta ta` and `dja`, the obligatory subject pronoun - is the grammar it is
+written in. But `kea` has no detection model in `khai-language`: it false-fails
+to its Upper Guinea sibling `pov`, so no wall in this house can check a word of
+it. Review here means rewriting it in Kabuverdianu, not proofreading it.
 
 The defining persona [a kantadeira di sodade](persona_kantadeira.md) is an
 archetype, not a historical individual: a composite of the woman who stays on the

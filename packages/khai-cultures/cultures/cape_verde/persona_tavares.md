@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "Eugenio Tavares"
-declared: "Eugenio Tavares"
+declared: "Eugénio Tavares"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -11,7 +11,7 @@ stamp:
 type: real
 ---
 
-# Persona: Eugenio Tavares
+# Persona: Eugénio Tavares
 
 ## Taxonomy
 
@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-O poeta da ilha Brava, o homem que teve a koragem di fazer poesia na lingua-mae quando os doutus ainda diziam que o kriolu nao servia para a arte. Fino, sensivel e teimosu, deu a sua genti as mornas mais kantadas, komo a "Hora di Bai", a hora amarga da despedida no kais, e levantou o kabuverdianu a dignidade da letra eskrita. O [kriolu](position_language_kea.md) e a sua lingua di korason: nele [pensa](process_thinking_mother_tongue.md), nele [fala](process_speaking_mother_tongue.md) kom a sua genti, e nele teve o atrevimentu di [eskrever](process_writing_mother_tongue.md) versus quando isso ainda quasi nao se fazia. O [portuges](position_language_pt_cv.md) [domina-o komo ferramenta](process_speaking_carried.md), [le](process_reading_followed.md) nele os poetas do imperiu e ate nele eskreve para os jornais, mas guarda para o kriolu o que the doi mais fundu: poe o sentimentu inteiru na lingua-mae e deixa a outra para a razao, porque ha koisas da alma das ilhas que so se dizem na lingua em que se naseu, e que se perdem inteiras na que se aprendeu. Pertense a [a kabuverdianidade](position_culture_kabuverdianidade.md) komo o poeta que primeiru teve a koragem di dizer a alma das ilhas na sua propria lingua.
+O poeta da ilha Brava, o homem que teve a coragem de fazer poesia na língua-mãe quando os doutos ainda diziam que o kriolu não servia para a arte. Fino, sensível e teimoso, deu a sua gente as mornas mais cantadas, como a "Hora de Bai", a hora amarga da despedida no cais, e levantou o kabuverdianu a dignidade da letra escrita. O [kriolu](position_language_kea.md) é a sua língua de coração: nele [pensa](process_thinking_mother_tongue.md), nele [fala](process_speaking_mother_tongue.md) com a sua gente, e nele teve o atrevimento de [escrever](process_writing_mother_tongue.md) versus quando isso ainda quase não se fazia. O [português](position_language_pt_cv.md) [domina-o como ferramenta](process_speaking_carried.md), [lê](process_reading_followed.md) nele os poetas do império e até nele escreve para os jornais, mas guarda para o kriolu o que the dói mais fundo: põe o sentimento inteiro na língua-mãe e deixa a outra para a razão, porque há coisas da alma das ilhas que só se dizem na língua em que se nasceu, e que se perdem inteiras na que se aprendeu. Pertence a [a kabuverdianidade](position_culture_kabuverdianidade.md) como o poeta que primeiro teve a coragem de dizer a alma das ilhas na sua própria língua.
 
 ## Action
 
-Em [a seka e a emigrason](plot_02_seca_emigracao.md) da a hora da partida a sua morna e a sua letra, e faz da despedida no kais a primeira grande kanson da nasao, eskrita em [kriolu](position_kriolu.md). Ao dizer a sodade na lingua-mae, ensina o povu a karregar a perda kantando e prova que a sua lingua e materia di arte.
+Em [a seca e a emigração](plot_02_seca_emigracao.md) da a hora da partida a sua morna e a sua letra, e faz da despedida no cais a primeira grande canção da nação, escrita em [kriolu](position_kriolu.md). Ao dizer a sodade na língua-mãe, ensina o povo a carregar a perda cantando e prova que a sua língua e matéria de arte.
 
 ## Shadow
 
-Foi profeta da lingua-mae numa terra que ainda tinha vergonha dela, e muitu do que eskreveu so foi reconhesidu depois di mortu. O homem que deu dignidade ao kriolu viveu num tempu que ainda o tratava komo fala menor, e a sua koragem so virou orgulho da nasao gerasoes mais tarde.
+Foi profeta da língua-mãe numa terra que ainda tinha vergonha dela, e muito do que escreveu só foi reconhecido depois de morto. O homem que deu dignidade ao kriolu viveu num tempo que ainda o tratava como fala menor, e a sua coragem só virou orgulho da nação gerações mais tarde.
 
 ## Tell
 
-Poe a dor inteira da despedida em quatru linhas de kriolu, e faz um povu kantar a sua propria partida sem deixar di a sentir.
+Põe a dor inteira da despedida em quatro linhas de kriolu, e faz um povo cantar a sua própria partida sem deixar de a sentir.

@@ -22,17 +22,17 @@ Parent group: places
 
 ## Shown
 
-A ilha do vulkao, a sul, no Sotavento: um koni negru que se levanta do mar, o Pico do Fogo, o pontu mais altu de todu o pais. La em sima, dentru da kratera, vive a genti de Cha das Kaldeiras, em kasas erguidas na lava, plantando a vinha que da o vinho do Fogo e o kafe nas enkostas. Terra preta e fertil di sinza vulkanika, onde se faz o queiju do leiti das kabras e onde o vulkao, que de tempus a tempus akorda e kobre tudu di lava, e ao mesmu tempu a amesa e o sustentu da ilha.
+A ilha do vulcão, a sul, no Sotavento: um cone negro que se levanta do mar, o Pico do Fogo, o ponto mais alto de todo o país. Lá em cima, dentro da cratera, vive a gente de Chã das Caldeiras, em casas erguidas na lava, plantando a vinha que da o vinho do Fogo e o café nas encostas. Terra preta e fértil de cinza vulcânica, onde se faz o queijo do leite das cabras e onde o vulcão, que de tempos a tempos acorda e cobre tudo de lava, e ao mesmo tempo a ameaça e o sustento da ilha.
 
 ## Holds
 
-- [o povoamento](plot_01_povoamento.md): uma das primeiras ilhas povoadas, onde se plantou a vinha e o kafe.
-- [a independensia (1975)](plot_03_independencia.md): a ilha do vulkao e da terra dura que a nasao livre asume komo sua.
+- [o povoamento](plot_01_povoamento.md): uma das primeiras ilhas povoadas, onde se plantou a vinha e o café.
+- [a independência (1975)](plot_03_independencia.md): a ilha do vulcão e da terra dura que a nação livre assume como sua.
 
 ## Offers
 
-Um lugar onde a genti vive em frenti a frenti kom a terra que the da e the tira: a teimosia di plantar vinha na lava, di voltar a kasa depois de kada erupson e komesar di novu. Oferese o vinho e o kafe do Fogo, o ar limpu da kratera, e a lison di um povu que faz da terra mais dura o seu jardim, e que nunka desiste dela por mais que ela troveje.
+Um lugar onde a gente vive em frente a frente com a terra que the da e the tira: a teimosia de plantar vinha na lava, de voltar a casa depois de cada erupção e começar de novo. Oferece o vinho e o café do Fogo, o ar limpo da cratera, e a lição de um povo que faz da terra mais dura o seu jardim, e que nunca desiste dela por mais que ela troveje.
 
 ## Withheld
 
-A seguransa di um chao que nao se mexe. O Fogo nao promete sosegu: a lava ja kobriu kasas e rosas, e a genti sabe que o vulkao volta. E a imajem inteira do pais numa so ilha, a beleza e o perigu juntus, a terra que da pouku e pede muitu, e o jeitu kabuverdianu di amar uma terra dura que nem sempre pode segurar os seus.
+A segurança de um chão que não se mexe. O Fogo não promete sossego: a lava já cobriu casas e rosas, e a gente sabe que o vulcão volta. É a imagem inteira do país numa só ilha, a beleza e o perigo juntos, a terra que da pouco e pede muito, e o jeito kabuverdianu de amar uma terra dura que nem sempre pode segurar os seus.

@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Morna Goes Out to the World"
-declared: "a morna no mundu"
+declared: "a morna no mundo"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: a morna no mundu
+# Plot: a morna no mundo
 
 ## Taxonomy
 
@@ -22,19 +22,19 @@ stamp:
 
 ## Cue
 
-Ja nasao livre, mas ainda pequenina e espalhada pelo mundu, Cabo Verde tem uma riqueza que nao seka: a sua musika. Nos bares di [Mindelo](place_mindelo.md), a morna e a koladeira tokam-se ha gerasoes, e numa dessas mesas esta uma mulher que kanta a sodade kom uma kalma que ningem teve antes: [Cesaria Evora](persona_cesaria.md).
+Já nação livre, mas ainda pequenina e espalhada pelo mundo, Cabo Verde tem uma riqueza que não seca: a sua música. Nos bares de [Mindelo](place_mindelo.md), a morna e a koladeira tocam-se há gerações, e numa dessas mesas esta uma mulher que canta a sodade com uma calma que ninguém teve antes: [Cesária Évora](persona_cesaria.md).
 
 ## Action
 
-Ja velha, descalsa komo sempre, Cesaria Evora sai das ilhas e leva a morna aos palkus do mundu inteiru. O mundu, que nao entende kriolu, chora kom ela mesmu assim, porque a sodade nao presisa di tradusao. Cabo Verde, terra pequenina e seka, fika konhesidu do mundu inteiru pela sua voz, e a morna entra ate na lista do patrimoniu da humanidade. Ao mesmu tempu, a diaspora kresce e amaduresse: de Boston a Roterdao a Lisboa, os filhus das ilhas mandam dinheiru, voltam no verao, e seguram, nos festivais e nas kasas, o kriolu e a [sodade](position_sodade.md). A terra e o mar tornam-se um so korason kantadu, e [a kantadeira di sodade](persona_kantadeira.md) guarda a kasa para quem ha-di voltar.
+Já velha, descalça como sempre, Cesária Évora sai das ilhas e leva a morna aos palcos do mundo inteiro. O mundo, que não entende kriolu, chora com ela mesmo assim, porque a sodade não precisa de tradução. Cabo Verde, terra pequenina e seca, fica conhecido do mundo inteiro pela sua voz, e a morna entra até na lista do património da humanidade. Ao mesmo tempo, a diáspora cresce e amadurece: de Boston a Roterdão a Lisboa, os filhos das ilhas mandam dinheiro, voltam no verão, e seguram, nos festivais e nas casas, o kriolu e a [sodade](position_sodade.md). A terra e o mar tornam-se um só coração cantado, e [a kantadeira de sodade](persona_kantadeira.md) guarda a casa para quem há-de voltar.
 
 ## Stage
 
-- [Cesaria Evora](persona_cesaria.md): a Diva Descalsa que leva a morna e a sodade ao mundu.
-- [a kantadeira di sodade](persona_kantadeira.md): o korason que fika na terra a segurar a lingua e a mesa.
-- [a sodade](position_sodade.md): o sentimentu que, kantadu, atravessa o mar nos dois sentidus.
-- [Mindelo](place_mindelo.md): o korason musikal das ilhas, di onde a morna parte para o mundu.
+- [Cesária Évora](persona_cesaria.md): a Diva Descalça que leva a morna e a sodade ao mundo.
+- [a kantadeira de sodade](persona_kantadeira.md): o coração que fica na terra a segurar a língua e a mesa.
+- [a sodade](position_sodade.md): o sentimento que, cantado, atravessa o mar nos dois sentidos.
+- [Mindelo](place_mindelo.md): o coração musical das ilhas, de onde a morna parte para o mundo.
 
 ## Tension
 
-A nasao mais pequena e mais espalhada faz-se konhesida do mundu inteiru pela sua dor mais funda, kantada por uma mulher descalsa. Mas a mesma diaspora que leva a morna longe e a que ameasa apagar, gerason apos gerason, o kriolu e a sodade nos netus nasidus la fora. A pergunta fika no ar: pode um so povu, partidu entre a terra e o mar, segurar-se uno enquantu kanta a sua propria distansia.
+A nação mais pequena e mais espalhada faz-se conhecida do mundo inteiro pela sua dor mais funda, cantada por uma mulher descalça. Mas a mesma diáspora que leva a morna longe e a que ameaça apagar, geração após geração, o kriolu e a sodade nos netos nascidos lá fora. A pergunta fica no ar: pode um só povo, partido entre a terra e o mar, segurar-se uno enquanto canta a sua própria distância.

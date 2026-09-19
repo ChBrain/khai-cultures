@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-A maneira kabuverdiana di resebe e di tratar a genti: a morabeza, palavra que nao se traduz inteira, mas que e a porta sempre aberta, o pratu a mais na mesa, o "nho fika" ditu di korason, o kalor mansu kom que se akolhe quem chega, seja vizinhu ou estranjeiru. Nasse di um povu pequeninu numa terra dura, que aprendeu que a riqueza nao esta no que se tem mas no jeitu komo se da; e da mistura krioula, que fez di akolher o diferenti a propria origem da nasao. E a hospitalidade feita karater, a dosura komo modu di estar no mundu.
+A maneira kabuverdiana de receber e de tratar a gente: a morabeza, palavra que não se traduz inteira, mas que é a porta sempre aberta, o prato a mais na mesa, o "nho fica" dito de coração, o calor manso com que se acolhe quem chega, seja vizinho ou estrangeiro. Nasce de um povo pequenino numa terra dura, que aprendeu que a riqueza não esta no que se tem mas no jeito como se da; e da mistura crioula, que fez de acolher o diferente a própria origem da nação. E a hospitalidade feita carácter, a doçura como modo de estar no mundo.
 
 ## Orders
 
-Que ningem que chega seja deixadu de fora nem de mao vazia: que se ofereca o que ha, ainda que seja poucu, e que se faca o estranhu sentir-se em kasa. Manda tratar kom respeitu e kom dosura, falar baixu, rir junto, e poer a genti e a kombersa antes da prisa e do negosiu; e faz da ilha, por mais seka que seja a terra, um lugar onde o korason e largu.
+Que ninguém que chega seja deixado de fora nem de mão vazia: que se ofereça o que há, ainda que seja pouco, e que se faca o estranho sentir-se em casa. Manda tratar com respeito e com doçura, falar baixo, rir junto, e pôr a gente e a conversa antes da pressa e do negócio; e faz da ilha, por mais seca que seja a terra, um lugar onde o coração e largo.
 
 ## Loses
 
-Terreni quando vira so fachada para o turista, dosura vendida que ja nao sai do korason; e terreni, tambem, quando levada longe demais vira o jeitu di nunka saber dizer nao, di engolir a propria magoa kom um sorrisu e di se dar tantu aos outrus que se esquese di si mesmu.
+Terreno quando vira só fachada para o turista, doçura vendida que já não sai do coração; e terreno, também, quando levada longe demais vira o jeito de nunca saber dizer não, de engolir a própria mágoa com um sorriso e de se dar tanto aos outros que se esquece de si mesmo.
 
 ## Drives
 
-Vive em quem sonhou um povu dono de si mas sem perder a dosura e a uniao das ilhas, e em quem resebe o forasteiru kom musika e kom mesa posta. Ela empurra Cabo Verde a responder a vida dura kom a mao aberta, e a fazer da akolhida a sua marka diante do mundu.
+Vive em quem sonhou um povo dono de si mas sem perder a doçura e a união das ilhas, e em quem recebe o forasteiro com música e com mesa posta. Ela empurra Cabo Verde a responder a vida dura com a mão aberta, e a fazer da acolhida a sua marca diante do mundo.

@@ -22,18 +22,18 @@ Parent group: pieces
 
 ## Place
 
-No kopinhu di quem chega, na mesa da festa e no balkao do bar: a aguardenti di kana-de-asukar das ilhas, destilada no trapichi, branka e forti, o espiritu da terra feitu bebida. Bebe-se puru para resebir o visitanti, junta-se ao mel das ilhas para fazer o ponche, e nao falta em batizadu, kasamentu nem veloriu. E o que se oferese a quem entra em kasa, o primeiru sinal da morabeza.
+No copinho de quem chega, na mesa da festa e no balcão do bar: a aguardente de cana-de-açúcar das ilhas, destilada no trapiche, branca e forte, o espírito da terra feito bebida. Bebe-se puro para receber o visitante, junta-se ao mel das ilhas para fazer o ponche, e não falta em batizado, casamento nem velório. E o que se oferece a quem entra em casa, o primeiro sinal da morabeza.
 
 ## Load Bearing
 
-E a bebida da uniao e da akolhida: nao ha festa, nem despedida, nem regressu da diaspora sem um kopu di grogue na mao, e oferese-lo a quem chega e dizer-lhe, sem palavras, que e bem-vindu. Feitu da kana plantada na terra dura das ilhas, e tambem o fruti do trabalhu do kampu e um pequenu sustentu de muita familia. No kopu di grogue partilhadu junta-se a genti, selam-se amizades e konversa-se a noiti inteira: e a morabeza servida, o jeitu das ilhas di abrir a porta e o korason.
+E a bebida da união e da acolhida: não há festa, nem despedida, nem regresso da diáspora sem um copo de grogue na mão, e oferece-lo a quem chega e dizer-lhe, sem palavras, que e bem-vindo. Feito da cana plantada na terra dura das ilhas, e também o fruto do trabalho do campo e um pequeno sustento de muita família. No copo de grogue partilhado junta-se a gente, selam-se amizades e conversa-se a noite inteira: é a morabeza servida, o jeito das ilhas de abrir a porta e o coração.
 
 ## Apparent
 
-Visto di fora, e so uma aguardenti de kana komo tantas, branka e forti, feita no trapichi kom o engenhu de sempre. Todu o seu pezu esta no jeitu komo se oferese e se partilha: no kopu estendidu a quem chega, na roda di amigus no bar, e na festa onde, sem ele, faltaria o sinal da akolhida.
+Visto de fora, é só uma aguardente de cana como tantas, branca e forte, feita no trapiche com o engenho de sempre. Todo o seu peso esta no jeito como se oferece e se partilha: no copo estendido a quem chega, na roda de amigos no bar, e na festa onde, sem ele, faltaria o sinal da acolhida.
 
 ## Yearbook
 
-- Nasse da kana-de-asukar plantada nas ilhas desde o tempu do povoamento, destilada no trapichi.
-- Tornou-se a bebida da festa, da akolhida e di todus os momentus da vida, do batizadu ao veloriu.
-- Acompanhou o emigrante e o regressu da diaspora, o kopu kom que se resebe quem volta da terra do mar.
+- Nasce da cana-de-açúcar plantada nas ilhas desde o tempo do povoamento, destilada no trapiche.
+- Tornou-se a bebida da festa, da acolhida e de todos os momentos da vida, do batizado ao velório.
+- Acompanhou o emigrante e o regresso da diáspora, o copo com que se recebe quem volta da terra do mar.

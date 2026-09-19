@@ -1,7 +1,7 @@
 ---
 khai: plot
 title: "The Drought and the Emigration"
-declared: "a seka e a emigrason"
+declared: "a seca e a emigração"
 language: pt
 license: CC-BY-NC-SA-4.0
 stamp:
@@ -10,7 +10,7 @@ stamp:
   date: "2026-06-24"
 ---
 
-# Plot: a seka e a emigrason
+# Plot: a seca e a emigração
 
 ## Taxonomy
 
@@ -22,19 +22,19 @@ stamp:
 
 ## Cue
 
-A terra das ilhas e dura e o ceu sovina: ha anus em que a chuva nao vem, a fonti seka, a roca morre, e a fome aperta. Sekulu apos sekulu, a seka volta komo uma maldison konhesida, e o kabuverdianu olha do alto da ilha para o uniku kaminho que sobra: o mar.
+A terra das ilhas e dura e o céu sovina: há anos em que a chuva não vem, a fonte seca, a roca morre, e a fome aperta. Século após século, a seca volta como uma maldição conhecida, e o kabuverdianu olha do alto da ilha para o único caminho que sobra: o mar.
 
 ## Action
 
-Diante da seka e da fome, a genti das ilhas faz do mar o seu kaminho. Os baleeiros amerikanus levam os primeirus para a Nova Inglaterra; depois vai-se para Sao Tome nas rosas, para Lisboa, para a Holanda, para tudu o ladu onde haja trabalhu e pao. No kais di [Mindelo](place_mindelo.md), o Porto Grande, repete-se sem fim a mesma sena: o navio que parte, a familia que fika a asenar, a hora amarga di bai. [Eugenio Tavares](persona_tavares.md) da a essa hora a sua morna, e [B.Leza](persona_bleza.md) da-lhe a sua forma; e da partida sem fim, da terra e da genti deixadas para tras, nasse o sentimentu maior das ilhas. Chega o dia em que ha mais kabuverdianus la fora do que ka dentru, e a diaspora vira o segundu korason da nasao.
+Diante da seca e da fome, a gente das ilhas faz do mar o seu caminho. Os baleeiros americanos levam os primeiros para a Nova Inglaterra; depois vai-se para São Tome nas rosas, para Lisboa, para a Holanda, para tudo o lado onde haja trabalho e pão. No cais de [Mindelo](place_mindelo.md), o Porto Grande, repete-se sem fim a mesma sena: o navio que parte, a família que fica a acenar, a hora amarga de bai. [Eugénio Tavares](persona_tavares.md) da a essa hora a sua morna, e [B.Leza](persona_bleza.md) da-lhe a sua forma; e da partida sem fim, da terra e da gente deixadas para trás, nasce o sentimento maior das ilhas. Chega o dia em que há mais kabuverdianus lá fora do que cá dentro, e a diáspora vira o segundo coração da nação.
 
 ## Stage
 
-- [Eugenio Tavares](persona_tavares.md): o poeta que kanta em kriolu a hora da partida no kais.
-- [B.Leza](persona_bleza.md): o kompositor que da a morna da despedida a sua forma.
-- [a sodade](position_sodade.md): o mal dosi que nasse da partida sem fim e da espera.
-- [Mindelo](place_mindelo.md): o Porto Grande, o kais di onde se parte e para onde se sonha voltar.
+- [Eugénio Tavares](persona_tavares.md): o poeta que canta em kriolu a hora da partida no cais.
+- [B.Leza](persona_bleza.md): o compositor que da a morna da despedida a sua forma.
+- [a sodade](position_sodade.md): o mal doce que nasce da partida sem fim e da espera.
+- [Mindelo](place_mindelo.md): o Porto Grande, o cais de onde se parte e para onde se sonha voltar.
 
 ## Tension
 
-A mesma seka que mata empurra o povu para o mundu, e a mesma partida que parte a kasa segura-a viva kom o dinheiru e as kartas di la fora. A emigrason e ferida e salvason ao mesmu tempu, e dela sai a sodade: a dor di amar di longe que se faz kanson, e o fiu que prende, di un mar ao outru, um povu que so kresce partindo.
+A mesma seca que mata empurra o povo para o mundo, e a mesma partida que parte a casa segura-a viva com o dinheiro e as cartas de lá fora. A emigração e ferida e salvação ao mesmo tempo, e dela sai a sodade: a dor de amar de longe que se faz canção, e o fio que prende, de um mar ao outro, um povo que só cresce partindo.

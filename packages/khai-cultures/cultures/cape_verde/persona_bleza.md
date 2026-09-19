@@ -23,16 +23,16 @@ type: real
 
 ## Projection
 
-O kompositor di Mindelo, Francisco Xavier da Cruz, a quem tudu mundu chama B.Leza, o homem que deu a morna a sua forma moderna e the abriu a porta a dosura da meia-tom brasileira. Boemiu, generosu, sempre kom o violao na mao nos seroes do Porto Grande, eskreveu mornas que toda a genti kanta sem saber de quem sao, ate Cesaria as levar ao mundu muitu depois dele. O [kriolu](position_language_kea.md) e a sua lingua di kasa e di kanson: nele [fala](process_speaking_mother_tongue.md), nele [pensa](process_thinking_mother_tongue.md) a musika, e nele [eskreve](process_writing_mother_tongue.md) as letras que viraram a alma das ilhas. O [portuges](position_language_pt_cv.md) [maneja-o komo ferramenta](process_speaking_carried.md) e a musika [brasileira](@chbrain/khai-cultures-tongues/pt/position_language_pt_br.md) que vinha pelos navios [seguia-a de ouvidu](process_hearing_followed.md) para a kasar kom a morna; mas a sodade, essa, so a soube dizer na lingua-mae, porque ha um lugar no fundu da kanson onde a lingua aprendida nunka kabe e so o kriolu alkansa. Pertense a [a kabuverdianidade](position_culture_kabuverdianidade.md) komo o homem que deu forma a dor di um povu inteiru antes di kem quer que fosse a levar ao mundu.
+O compositor de Mindelo, Francisco Xavier da Cruz, a quem tudo mundo chama B.Leza, o homem que deu a morna a sua forma moderna e the abriu a porta a doçura da meia-tom brasileira. Boémio, generoso, sempre com o violão na mão nos serões do Porto Grande, escreveu mornas que toda a gente canta sem saber de quem são, até Cesária as levar ao mundo muito depois dele. O [kriolu](position_language_kea.md) é a sua língua de casa e de canção: nele [fala](process_speaking_mother_tongue.md), nele [pensa](process_thinking_mother_tongue.md) a música, e nele [escreve](process_writing_mother_tongue.md) as letras que viraram a alma das ilhas. O [português](position_language_pt_cv.md) [maneja-o como ferramenta](process_speaking_carried.md) e a música [brasileira](@chbrain/khai-cultures-tongues/pt/position_language_pt_br.md) que vinha pelos navios [seguia-a de ouvido](process_hearing_followed.md) para a casar com a morna; mas a sodade, essa, só a soube dizer na língua-mãe, porque há um lugar no fundo da canção onde a língua aprendida nunca cabe e só o kriolu alcança. Pertence a [a kabuverdianidade](position_culture_kabuverdianidade.md) como o homem que deu forma a dor de um povo inteiro antes de quem quer que fosse a levar ao mundo.
 
 ## Action
 
-Em [a seka e a emigrason](plot_02_seca_emigracao.md) da a [sodade](position_sodade.md) a forma da morna moderna, e faz da despedida e da perda uma musika que um povu inteiru passa a kantar. Ao apurar a forma da kanson das ilhas, deixa pronta a morna que, gerasoes depois, levara a voz di Cabo Verde ao mundu.
+Em [a seca e a emigração](plot_02_seca_emigracao.md) da a [sodade](position_sodade.md) a forma da morna moderna, e faz da despedida e da perda uma música que um povo inteiro passa a cantar. Ao apurar a forma da canção das ilhas, deixa pronta a morna que, gerações depois, levaria a voz de Cabo Verde ao mundo.
 
 ## Shadow
 
-Morreu pobre e sem ver a morna sair das ilhas, e muitas das suas kansoes andaram pelo mundu sem o seu nome, kantadas komo si fossem di ningem. O homem que deu forma a alma musikal da nasao foi esquesidu em vida pela mesma terra que hoje nao para di kantar o que ele eskreveu.
+Morreu pobre e sem ver a morna sair das ilhas, e muitas das suas canções andaram pelo mundo sem o seu nome, cantadas como si fossem de ninguém. O homem que deu forma a alma musical da nação foi esquecido em vida pela mesma terra que hoje não para de cantar o que ele escreveu.
 
 ## Tell
 
-Tirava do violao, numa noiti so, uma morna que o povu inteiru passaria a kantar komo sua, sem nunka saber que era dele.
+Tirava do violão, numa noite só, uma morna que o povo inteiro passaria a cantar como sua, sem nunca saber que era dele.

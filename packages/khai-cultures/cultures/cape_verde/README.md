@@ -21,11 +21,12 @@ Estate; a culture with no Estate is not yet a production.
   enjoyment of life and a patient endurance of a hard land) and naming no
   dimension. It is written in a Cape Verdean register, not a Lisbon one, warmly
   coloured by Kriolu.
-- **Plots (history):** the settlement and the birth of the creole people, the
-  drought and the great emigration, independence (1975), and the morna going out
-  to the world with the diaspora - each casting the elements it needs, and the
-  colonial period, the trade of that time, and independence all staged soberly
-  and taking no political side.
+- **Plots (history):** the islands with nobody on them (the origin, held at 00),
+  the settlement and the birth of the creole people, the drought and the great
+  emigration, independence (1975), the morna going out to the world with the
+  diaspora, and what gets sold (the present, held at 99) - each casting the
+  elements it needs, and the colonial period, the trade of that time, and
+  independence all staged soberly and taking no political side.
 - **Personas:** Cesaria Evora (the barefoot diva), Eugenio Tavares (the poet who
   gave Kriolu the dignity of art), B.Leza (the composer who shaped the modern
   morna), and Amilcar Cabral (handled soberly, the name linked to the road to

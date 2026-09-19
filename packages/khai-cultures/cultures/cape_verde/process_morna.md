@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Qualker um kom um violao, um cavaquinho e uma magoa para kantar: um seron num bar de Mindelo, uma despedida no kais, um amigu que pega no instrumentu e komesa a morna baixinho ate a mesa inteira akompanhar. Basta a noiti, a roda di genti e a sodade de alguem que partiu, e a morna komesa, lenta, di kompassu dosi e triste.
+Qualquer um com um violão, um cavaquinho e uma mágoa para cantar: um serão num bar de Mindelo, uma despedida no cais, um amigo que pega no instrumento e começa a morna baixinho até a mesa inteira acompanhar. Basta a noite, a roda de gente e a sodade de alguém que partiu, e a morna começa, lenta, de compasso doce e triste.
 
 ## Direction
 
-Para a sodade kantada: a morna e o jeitu kabuverdianu di poer a perda em musika, di dizer a despedida, o amor de longe e a terra deixada para tras sem se deixar venser pela dor. Nao e fuga da tristeza, e o modu di a karregar; kanta-se em kriolu, devagar, e ao kantar junta-se quem fika e, no korason, quem ja partiu. A koladeira, sua irma mais alegri, faz o mesmu pelo aveso, rindo da pena para a poder suportar.
+Para a sodade cantada: a morna é o jeito kabuverdianu de pôr a perda em música, de dizer a despedida, o amor de longe e a terra deixada para trás sem se deixar vencer pela dor. Não e fuga da tristeza, e o modo de a carregar; canta-se em kriolu, devagar, e ao cantar junta-se quem fica e, no coração, quem já partiu. A koladeira, sua irmã mais alegre, faz o mesmo pelo avesso, rindo da pena para a poder suportar.
 
 ## Lever
 
-E movida pela kerteza di que a magoa partilhada e a magoa kantada pesa menos, e pela tradison que passa de gerason em gerason nos seroes e nas festas das ilhas. Aguenta kontra a distansia, a partida e o esquesimentu; kontra ela esta o risku de virar so lamentason, ou di se perder quando os netus da diaspora ja nao tem a lingua em que a morna se kanta.
+E movida pela certeza de que a mágoa partilhada e a mágoa cantada pesa menos, e pela tradição que passa de geração em geração nos serões e nas festas das ilhas. Aguenta contra a distância, a partida e o esquecimento; contra ela esta o risco de virar só lamentação, ou de se perder quando os netos da diáspora já não tem a língua em que a morna se canta.
 
 ## Echo
 
-A morna torna ouvivel o que e [a sodade](position_sodade.md): que a perda das ilhas se karrega kantando, e nao kalando. Foi nesta musika que [Cesaria Evora](persona_cesaria.md), descalsa, levou o korason di Cabo Verde ao mundu inteiru.
+A morna torna ouvível o que é [a sodade](position_sodade.md): que a perda das ilhas se carrega cantando, e não calando. Foi nesta música que [Cesária Évora](persona_cesaria.md), descalça, levou o coração de Cabo Verde ao mundo inteiro.

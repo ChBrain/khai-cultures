@@ -22,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Uma dona di kasa kom milhu, feijao, tempu e poucu mais: poe-se o milhu e o feijao de molho na vespera, e no dia seginti komesa o kosimentu lentu, hora apos hora, juntandu o que houver, a mandioka, a batata-dosi, um pedasu di karni ou di peixi se a kasa o tiver. Basta um tachu grandi, um fogu mansu e a paciensia di quem nao tem prisa: a kachupa nao se faz depressa.
+Uma dona de casa com milho, feijão, tempo e pouco mais: põe-se o milho e o feijão de molho na véspera, e no dia seguinte começa o cozimento lento, hora após hora, juntando o que houver, a mandioca, a batata-doce, um pedaço de carne ou de peixe se a casa o tiver. Basta um tacho grande, um fogo manso e a paciência de quem não tem pressa: a kachupa não se faz depressa.
 
 ## Direction
 
-Para a mesa farta feita de pouku: a kachupa e o pratu nasional, o jeitu kabuverdianu di fazer um banketi da terra dura, juntandu num so tachu o que o milhu da e o que sobrar. E pratu di partilha, que estika para quem chegar, e di reaproveitamentu: a kachupa rika do almosu vira, no dia seginti, a kachupa refogada do pequenu-almosu. E a morabeza feita komida, o pratu que diz que aqui nunka falta lugar nem kolher para mais um.
+Para a mesa farta feita de pouco: a kachupa é o prato nacional, o jeito kabuverdianu de fazer um banquete da terra dura, juntando num só tacho o que o milho da e o que sobrar. E prato de partilha, que estica para quem chegar, e de reaproveitamento: a kachupa rica do almoço vira, no dia seguinte, a kachupa refogada do pequeno-almoço. E a morabeza feita comida, o prato que diz que aqui nunca falta lugar nem colher para mais um.
 
 ## Lever
 
-E movida pela sabedoria di um povu que aprendeu a fazer muitu kom pouku, e pela tradison da mesa larga onde ningem fika di fora. Aguenta kontra a seka e a karestia, transformandu o pouku da terra em fartura; kontra ela esta a prisa do mundu di hoje, que nao da tempu ao tachu lentu, e a tentason di trokar o pratu da terra pelo que vem di fora.
+E movida pela sabedoria de um povo que aprendeu a fazer muito com pouco, e pela tradição da mesa larga onde ninguém fica de fora. Aguenta contra a seca e a carestia, transformando o pouco da terra em fartura; contra ela esta a pressa do mundo de hoje, que não da tempo ao tacho lento, e a tentação de trocar o prato da terra pelo que vem de fora.
 
 ## Echo
 
-A kachupa torna visivel o que e [a morabeza](position_morabeza.md): que a riqueza das ilhas esta no jeitu di partilhar, nao no que se tem. A este tachu [a kantadeira di sodade](persona_kantadeira.md) poe sempre mais um pratu, para o vizinhu, para o forasteiru e para o filhu que talvez volte.
+A kachupa torna visível o que é [a morabeza](position_morabeza.md): que a riqueza das ilhas esta no jeito de partilhar, não no que se tem. A este tacho [a kantadeira de sodade](persona_kantadeira.md) põe sempre mais um prato, para o vizinho, para o forasteiro e para o filho que talvez volte.
