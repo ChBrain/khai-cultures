@@ -3,7 +3,6 @@ khai: position
 title: "Moselle Franconian"
 declared: "et Muselfränkesch"
 language: de-x-mos
-review: "native"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -57,14 +56,13 @@ een noch dat anner.
 ## Loses
 
 Et verliert sein Nome. Wat ma dovun kennt, heescht no Gegenden un no Läner un
-net no der Sproch: Eifler Platt, Trierer Platt, Hunsrücker Platt, Saarlännisch —
-un jeder mengt dermet en Eck un keener dat Ganze. Der letzte vun deene Nomen
+net no der Sproch: Eifler Platt, Trierer Platt, Hunsrücker Platt, Saarlännisch - un jeder mengt dermet en Eck un keener dat Ganze. Der letzte vun deene Nomen
 deckt sogar zwee Sprochen op eemol, meng un die vum südlichen Nober, un de Grenz
 zwischen deene beeden leit metten dodrin.
 
 Et verliert an die Sproch, die et selwer es un die en Nome kritt hat. Wat op
 Muselfränkesch gedreckt es, es meeschtens op Lëtzebuergesch gedreckt, un wat
-dodrun net metgeschriwwe es — de Eifel, de Hunsrück, de Musel selwer — hat keen
+dodrun net metgeschriwwe es - de Eifel, de Hunsrück, de Musel selwer - hat keen
 Schreft, an die et sech halen kann, un schreiwt sech drum jeder no seinem eegene
 Ohr.
 

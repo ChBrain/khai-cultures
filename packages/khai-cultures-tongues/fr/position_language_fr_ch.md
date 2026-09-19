@@ -10,7 +10,7 @@ stamp:
   date: "2026-07-09"
 ---
 
-# Position: le francais de Suisse
+# Position: le français de Suisse
 
 ## Taxonomy
 

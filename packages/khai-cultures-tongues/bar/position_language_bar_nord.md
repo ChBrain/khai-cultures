@@ -25,8 +25,8 @@ Parent group: positions
 S Nordboarische is s Boarische vo da Oberpfoiz, und wos as vo alle andan
 Boarisch-Sortn schaidt, is a oanziga Zug, owa der geht durch a jeds Wort: de oidn
 Zwielaut kippan bei uns in di andare Richtung. Wo s Mittlboarische aus m uo a ua
-macht, macht s Nordboarische a ou — da Brouda und s Bouch, ned da Bruada und s
-Buach. Wo dort aus m ie a ia wird, wird do a ei — leib und Leicht, ned liab und
+macht, macht s Nordboarische a ou - da Brouda und s Bouch, ned da Bruada und s
+Buach. Wo dort aus m ie a ia wird, wird do a ei - leib und Leicht, ned liab und
 Liacht. Und aus m üe wird a ei oda eu, meid statt miad. Drum sogt ma bei uns
 gestürzte Zwielaut dazua: de gleiche oide Form, bloß dass s Nordboarische an andan
 Weg gnumma hod ois olle seine Nochbarn.
