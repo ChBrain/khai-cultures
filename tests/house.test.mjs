@@ -14,6 +14,7 @@ import {
   isolationErrors,
   filenameErrors,
   loadIsolationPolicy,
+  validateInstanceFile,
 } from "@chbrain/khai-tests";
 import { referenceCard } from "@chbrain/khai-arch";
 import { validateProjectLanguages } from "@chbrain/khai-language";
@@ -24,7 +25,7 @@ import {
   touchedCultures,
   report as coverageReport,
 } from "./company_coverage.mjs";
-import { standalone } from "./tongues_standalone.mjs";
+import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import { widths, noMotherTongue } from "./persona_wiring.mjs";
 import {
@@ -122,6 +123,19 @@ describe("Cultures house: content conforms to the canon", () => {
         results.push({ file: `${prod.name}/${err}`, errors: [err] });
     for (const err of umbrellaFindings())
       results.push({ file: "packages/khai-cultures", errors: [err] });
+    const tongueFiles = tonguePackageFiles().filter(
+      (file) => !["README.md", "REFERENCES.md"].includes(file.split("/").pop()),
+    );
+    expect(tongueFiles).toContain("de/position_language_de_ch.md");
+    for (const file of tongueFiles) {
+      const path = join(TONGUES, file);
+      const errors = validateInstanceFile(readFileSync(path, "utf8"), {
+        baseDir: dirname(path),
+      })
+        .filter((finding) => finding.level === "fail")
+        .map((finding) => finding.message);
+      results.push({ file: path, errors });
+    }
     // Two of the kit's registry findings are true of a hybrid house and are not
     // faults: a migrated culture is in the registry with no directory under
     // cultures/, so `validateCollectionRegistry` reports the missing directory
@@ -159,9 +173,18 @@ describe("Cultures house: content conforms to the canon", () => {
         /could not rebuild registry\.json to check it for drift/.test(e) ||
         migrated.some((id) => e.includes(`declares culture "${id}"`)) ||
         movedGroups.some((id) => e.includes(`declares group "${id}"`)));
+    // The canon does not yet admit `mother_tongue` as a position extra, but the
+    // tongues package owns that key as wiring rather than prose: its build turns
+    // the false values into `khai.wiring.noMotherTongue`, and persona_wiring.mjs
+    // enforces that list. Drop only the canon's exact unknown-key finding here,
+    // for this package, because that check is REPLACED by the build plus the
+    // persona-wiring contract. Any other finding on either file still gates.
+    // khai-arch admitting the key would let this replacement disappear.
+    const tongueWiringNoise = (file, e) =>
+      file.startsWith(`${TONGUES}/`) && e === "unknown frontmatter key: mother_tongue";
     const errors = results
       .flatMap((r) => (r.errors ?? []).map((e) => [r.file, e]))
-      .filter(([file, e]) => !hybridNoise(file, e))
+      .filter(([file, e]) => !hybridNoise(file, e) && !tongueWiringNoise(file, e))
       .map(([file, e]) => `${file}: ${e}`);
     expect(errors).toEqual([]);
     // THIS SCAN WAS 69 SECONDS AND IS NOW ABOUT 4, AND THE TIMEOUT IS BACK TO
