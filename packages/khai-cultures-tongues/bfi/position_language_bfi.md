@@ -3,7 +3,6 @@ khai: position
 title: "British Sign Language"
 declared: "British Sign Language"
 language: bfi
-review: "native"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI

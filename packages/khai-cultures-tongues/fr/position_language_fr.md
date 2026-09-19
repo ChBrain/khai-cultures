@@ -27,7 +27,7 @@ qu'il faut donc apprendre avec le mot. Deux langues dans une seule : celle qui
 s'écrit garde des marques que celle qui se parle a laissé tomber, si bien que je
 parle, tu parles et ils parlent s'écrivent de trois façons et se disent d'une
 seule. La liaison, qui réveille devant une voyelle la consonne finale qu'on
-n'entendait pas. Les voyelles nasales, brin, brun, blanc, blond — quatre timbres
+n'entendait pas. Les voyelles nasales, brin, brun, blanc, blond - quatre timbres
 que la plupart des langues voisines n'ont pas du tout. Et deux passés qui ne se
 rencontrent jamais : le passé simple, qui ne vit plus que sur la page, et le
 passé composé, qui a pris toute la parole.

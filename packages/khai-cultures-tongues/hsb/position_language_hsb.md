@@ -43,7 +43,7 @@ přikazuje jedyn pad ze sydom, w kóždej sadźe, na kóždym mjenje, bjez wuwza
 
 Wona nima jednorěčneho rěčnika. Nichtó ju njema sam: kóždy, kiž ju ma, ma tež
 druhu rěč, a to njeje wuběr, ale połoženje, dokelž so rozmołwa móže kóždy wokomik
-přeměnić a husto so přeměni. Wona traci pola, dokelž njeje wšudźe doma — w zawodźe,
+přeměnić a husto so přeměni. Wona traci pola, dokelž njeje wšudźe doma - w zawodźe,
 na zarjedźe, w interneće so lóžčišo za tu druhu rěč sahnje. A dual traci wona
 najprjedy: młódši rěčnicy jón hižo cyle njewužiwaja, a tak so runje to zhubja, štož
 ju najbóle wuznamjenja.

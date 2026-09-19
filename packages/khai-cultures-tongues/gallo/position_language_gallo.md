@@ -16,6 +16,10 @@ stamp:
 
 Parent group: positions
 
+## Owner
+
+- Project: khai-cultures
+
 ## Has
 
 Le galo est ene lang d'oill, seur du francës e non pas sa mauvaise copiy: les deus sont venus du meme latin, e l'ene a pris Paris tandis qe l'aotr est demourée dan les bourgs. Il tient co le passë simpl dan la bouch, qe le francës n'a pus qe dan les livrs, e ene mouissonn de mots qe le francës n'a jamês eüs, pour le temp qi vient, la terr qi coll ao souléy, les betts e l'ouvrage dés champs. Il tient ossi dés mots pris ao bertoun, sur la ligne qi coup la Bertaign en deus depés mill ans. E il a treis maniérs de s'écrir - l'ELG, le MOGA, l'ABCD - qe presqe personn ne conaît, pas meme la moitië de ceus qi le parlent.

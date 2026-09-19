@@ -3,7 +3,6 @@ khai: position
 title: "Berlinisch"
 declared: "det Berlinische"
 language: de-x-brl
-review: "native"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -45,7 +44,7 @@ kann eener sich anlesen; det Berlinische hat keene Regel, et hat en Verzeichnis,
 un det Verzeichnis steht nirjends. Wer ick sagt un denn ooch noch maken sagt,
 weil er meent, det jehörte zusammen, hat sich verraten, un zwar nach de falsche
 Seite: mit maken steht er nich in de Stadt, sondern draußen in de Mark. De alten
-Formen sind jenau die, die keener nachschlagen muss — man hat se im Ohr oder man
+Formen sind jenau die, die keener nachschlagen muss - man hat se im Ohr oder man
 hat se nich, un det is der janze Witz an de Sache.
 
 Un et verlangt eene Form für zwee Fälle. Dativ un Akkusativ sind hier eener, un

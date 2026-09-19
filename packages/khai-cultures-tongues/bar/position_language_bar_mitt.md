@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-S Mittlboarische is des Boarische vom Donaugürtl: Obabayern und Niedabayern, und weida naus üba Salzburg bis Wien, so dass de zwoa greßtn Städt vom ganzn boarischn Raum, München und Wien, de gleiche Sortn redn — owa net den gleichn Vokal. Es macht aus m alt-hochdeitschn uo a ua und aus m ie a ia, da Bruada und s Liacht und guad, und aus m ei a oa, an Stoa fian Stein und hoaß fia heiß; bloß am östlichn End, in da Stodt, geht des oa oft no an Schritt weida zum langa a, und ausm Stoa wead a Staa und ausm hoaß a haaß. Und es vokalisiert s l vor am Mitlaut, so dass s Gold zum Goid wird, da Wald zum Woid und s Salz zum Soiz — a Laut, der wo in da Schrift gar nia vorkummt.
+S Mittlboarische is des Boarische vom Donaugürtl: Obabayern und Niedabayern, und weida naus üba Salzburg bis Wien, so dass de zwoa greßtn Städt vom ganzn boarischn Raum, München und Wien, de gleiche Sortn redn - owa net den gleichn Vokal. Es macht aus m alt-hochdeitschn uo a ua und aus m ie a ia, da Bruada und s Liacht und guad, und aus m ei a oa, an Stoa fian Stein und hoaß fia heiß; bloß am östlichn End, in da Stodt, geht des oa oft no an Schritt weida zum langa a, und ausm Stoa wead a Staa und ausm hoaß a haaß. Und es vokalisiert s l vor am Mitlaut, so dass s Gold zum Goid wird, da Wald zum Woid und s Salz zum Soiz - a Laut, der wo in da Schrift gar nia vorkummt.
 
 ## Orders
 
@@ -30,7 +30,7 @@ Es verlangt de Vokalisierung mitzmacha: wer s l no ausspricht, wo s Mittlboarisc
 
 ## Loses
 
-Es verliert am wenigstn von alle boarischn Sortn, und des is sei eigntlicha Preis: es is de Sortn, de wo de andern verdrängt. Wer aus da Oberpfalz nach München zaht, legt in a paar Joahr sei Ou und sei Ei o und nimmt s Ua und s Ia, und ned umgekehrt — so wachst s Mittlboarische auf Kostn von seine Nachbarn, ohne dass wer wos dafia dad. Und es verliert de Möglichkeit, ois Dialekt gheart z wern: wei s de Mehrheit is, gilt es vui Leit ois s Boarische überhaupt, und de andern Sortn ois Abweichung davo.
+Es verliert am wenigstn von alle boarischn Sortn, und des is sei eigntlicha Preis: es is de Sortn, de wo de andern verdrängt. Wer aus da Oberpfalz nach München zaht, legt in a paar Joahr sei Ou und sei Ei o und nimmt s Ua und s Ia, und ned umgekehrt - so wachst s Mittlboarische auf Kostn von seine Nachbarn, ohne dass wer wos dafia dad. Und es verliert de Möglichkeit, ois Dialekt gheart z wern: wei s de Mehrheit is, gilt es vui Leit ois s Boarische überhaupt, und de andern Sortn ois Abweichung davo.
 
 ## Drives
 
