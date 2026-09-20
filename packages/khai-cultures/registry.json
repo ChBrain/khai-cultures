@@ -41420,8 +41420,8 @@
       "title": "Virginia",
       "description": "Virginia staged: the Old Dominion of Jamestown covenants, presidential dynasties, Yorktown battles, and NoVa defense.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/us_virginia"
+        "package": "@chbrain/khai-cultures-us-virginia",
+        "path": ""
       },
       "iso": "US-VA",
       "members": [
@@ -41476,21 +41476,33 @@
           "title": "Virginia"
         },
         {
+          "file": "plot_00_the_river_the_sea_entered.md",
+          "kind": "plot",
+          "title": "The River the Sea Entered",
+          "taxonomy": "play_virginia.md"
+        },
+        {
           "file": "plot_01_jamestown.md",
           "kind": "plot",
           "title": "The Founding of Jamestown",
           "taxonomy": "play_virginia.md"
         },
         {
-          "file": "plot_02_virginia_dynasty.md",
+          "file": "plot_02_yorktown.md",
+          "kind": "plot",
+          "title": "The Siege of Yorktown",
+          "taxonomy": "play_virginia.md"
+        },
+        {
+          "file": "plot_03_virginia_dynasty.md",
           "kind": "plot",
           "title": "The Virginia Dynasty",
           "taxonomy": "play_virginia.md"
         },
         {
-          "file": "plot_03_yorktown.md",
+          "file": "plot_99_the_grid_behind_the_cloud.md",
           "kind": "plot",
-          "title": "The Siege of Yorktown",
+          "title": "The Grid Behind the Cloud",
           "taxonomy": "play_virginia.md"
         },
         {
@@ -41518,7 +41530,8 @@
           "kind": "process",
           "title": "Virginia Tobacco Curing"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-us-virginia"
     },
     {
       "kind": "culture",
