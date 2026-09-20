@@ -10,7 +10,7 @@ Pennsylvania staged as a full khai play, ISO US-PA, language en. The Keystone St
 
 - **Anchor:** [play_pennsylvania.md](play_pennsylvania.md), the culture itself.
 - **Pitch:** [pitch_pennsylvania.md](pitch_pennsylvania.md), the Pennsylvania key.
-- **Plots (history):** Penn's Holy Experiment of 1681, the Declaration of Independence of 1776, and the rise of the steel/coal industry in Pittsburgh.
+- **Plots (history):** the Great Shamokin Path across the ridges, Penn's Holy Experiment of 1681, the Declaration of Independence of 1776, the rise of the steel/coal industry in Pittsburgh, and Shell Polymers Monaca on the old zinc-smelter ground.
 - **Personas:** Clara (Philadelphia archivist) and John (retired Pittsburgh steelworker), written in English.
 - **Positions:** religious tolerance (pluralism), industrial grit (manufacturing legacy).
 - **Places:** Independence Hall (Philadelphia), Pittsburgh Point.

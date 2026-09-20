@@ -40524,8 +40524,8 @@
       "title": "Pennsylvania",
       "description": "Pennsylvania staged: the Keystone State of Quaker tolerance, independence halls, and Pittsburgh steel furnaces.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/us_pennsylvania"
+        "package": "@chbrain/khai-cultures-us-pennsylvania",
+        "path": ""
       },
       "iso": "US-PA",
       "members": [
@@ -40580,6 +40580,12 @@
           "title": "Pennsylvania"
         },
         {
+          "file": "plot_00_the_path_across_the_ridges.md",
+          "kind": "plot",
+          "title": "The Path Across the Ridges",
+          "taxonomy": "play_pennsylvania.md"
+        },
+        {
           "file": "plot_01_holy_experiment.md",
           "kind": "plot",
           "title": "William Penn's Holy Experiment",
@@ -40595,6 +40601,12 @@
           "file": "plot_03_steel_and_coal.md",
           "kind": "plot",
           "title": "The Industrialization of Pennsylvania",
+          "taxonomy": "play_pennsylvania.md"
+        },
+        {
+          "file": "plot_99_the_new_furnace_on_the_old_ground.md",
+          "kind": "plot",
+          "title": "The New Furnace on the Old Ground",
           "taxonomy": "play_pennsylvania.md"
         },
         {
@@ -40622,7 +40634,8 @@
           "kind": "process",
           "title": "Pennsylvania Steel Smelting"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-us-pennsylvania"
     },
     {
       "kind": "culture",
