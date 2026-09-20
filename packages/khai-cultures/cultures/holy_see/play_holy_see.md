@@ -23,7 +23,7 @@ Sancta Sedes, sedes regiminis Ecclesiae Catholicae et minima civitas sui iuris i
 
 ## Arc
 
-Petrae apostolicae super quam ecclesia aedificata est memoria, quae per saecula imperiorum ruinam et bella mundana superstes fuit. Parva civitas vaticana muris cincta, ubi Helvetii custodes pontificem defendunt et purpurati patres in conclavi conveniunt. Populus parvus, qui linguam latinam tamquam linguam officialem adhibet et traditionem liturgicam conservat.
+Domuum christianarum ante cathedram memoria, deinde petrae apostolicae super quam ecclesia aedificata est memoria, quae per saecula imperiorum ruinam et bella mundana superstes fuit. Parva civitas vaticana muris cincta, ubi Helvetii custodes pontificem defendunt et purpurati patres in conclavi conveniunt. Populus parvus, qui linguam latinam tamquam linguam officialem adhibet et traditionem liturgicam usque ad electionem Leonis XIV conservat.
 
 ## Company
 
@@ -64,6 +64,10 @@ Petrae apostolicae super quam ecclesia aedificata est memoria, quae per saecula 
 
 ## Triggers
 
+**[Plot 0: Domus ante Cathedram](plot_00_domus_ante_cathedram.md)**
+
+Paulus ad communitatem christianam iam Romae exsistentem scribit: plures domus et linguae unum corpus efficiunt ante basilicam, cathedram vel territorium.
+
 **[Plot 1: Martyrium Sancti Petri](plot_01_petrus.md)**
 
 Petrus apostolus Romae sub Nerone crucifigitur, cuius sepulcrum fundamentum primatus episcopi romani efficitur.
@@ -75,6 +79,10 @@ Pipinus Brevis rex Francorum terras in Italia summo pontifici donat, unde patrim
 **[Plot 3: Pacta Lateranensia 1929](plot_03_lateran_1929.md)**
 
 Sedes Apostolica et regnum Italiae pacta subscribunt, quibus status sui iuris Civitatis Vaticanae constituitur.
+
+**[Plot 99: Fumus Albus et Anulus Novus](plot_99_fumus_albus_et_anulus_novus.md)**
+
+Francisco mortuo, centum triginta tres cardinales Leonem XIV eligunt, et vetus conclave novo pontifici Anulum Piscatoris tradit.
 
 ## Stakes
 
