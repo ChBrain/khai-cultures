@@ -23,7 +23,7 @@ Sancta Sedes, sedes regiminis Ecclesiae Catholicae et minima civitas sui iuris i
 
 ## Arc
 
-Domuum christianarum ante cathedram memoria, deinde petrae apostolicae super quam ecclesia aedificata est memoria, quae per saecula imperiorum ruinam et bella mundana superstes fuit. Parva civitas vaticana muris cincta, ubi Helvetii custodes pontificem defendunt et purpurati patres in conclavi conveniunt. Populus parvus, qui linguam latinam tamquam linguam officialem adhibet et traditionem liturgicam usque ad electionem Leonis XIV conservat.
+Domuum christianarum ante cathedram memoria, deinde petrae apostolicae super quam ecclesia aedificata est memoria, quae per saecula imperiorum ruinam et bella mundana superstes fuit. Ex codicibus discordibus Vulgata Latina coalescit et linguam doctrinae in textum communem Occidentis vertit. Parva civitas vaticana muris cincta, ubi Helvetii custodes pontificem defendunt et purpurati patres in conclavi conveniunt. Populus parvus, qui linguam latinam tamquam linguam officialem adhibet et traditionem liturgicam usque ad electionem Leonis XIV conservat.
 
 ## Company
 
@@ -51,6 +51,7 @@ Domuum christianarum ante cathedram memoria, deinde petrae apostolicae super qua
 
 **Pieces**
 
+- [Vulgata Latina](piece_vulgata.md)
 - [Tiara Papalis](piece_tiara.md)
 - [Anulus Piscatoris](piece_anulus.md)
 
@@ -72,11 +73,15 @@ Paulus ad communitatem christianam iam Romae exsistentem scribit: plures domus e
 
 Petrus apostolus Romae sub Nerone crucifigitur, cuius sepulcrum fundamentum primatus episcopi romani efficitur.
 
-**[Plot 2: Donatio Pipini 754](plot_02_pipinus_754.md)**
+**[Plot 2: Tot Paene Textus Quot Codices](plot_02_tot_paene_textus_quot_codices.md)**
+
+Duo codices evangeliorum Latini inter se dissentiunt; correctio Hieronymi et textus aliunde recepti per saecula in Vulgatam communem coalescunt.
+
+**[Plot 3: Donatio Pipini 754](plot_03_pipinus_754.md)**
 
 Pipinus Brevis rex Francorum terras in Italia summo pontifici donat, unde patrimonium Sancti Petri et status pontificius oriuntur.
 
-**[Plot 3: Pacta Lateranensia 1929](plot_03_lateran_1929.md)**
+**[Plot 4: Pacta Lateranensia 1929](plot_04_lateran_1929.md)**
 
 Sedes Apostolica et regnum Italiae pacta subscribunt, quibus status sui iuris Civitatis Vaticanae constituitur.
 

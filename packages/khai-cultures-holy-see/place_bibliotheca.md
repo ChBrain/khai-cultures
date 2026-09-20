@@ -25,7 +25,7 @@ Bibliotheca Apostolica Vaticana ac Tabularium Secretum, scrinia ac bibliothecae 
 
 ## Holds
 
-- conservatio pactorum in Plot [Pacta Lateranensia 1929](plot_03_lateran_1929.md) : historica documenta quae libertatem civitatis vaticanae tuentur.
+- conservatio pactorum in Plot [Pacta Lateranensia 1929](plot_04_lateran_1929.md) : historica documenta quae libertatem civitatis vaticanae tuentur.
 
 ## Offers
 

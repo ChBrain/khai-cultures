@@ -34,4 +34,4 @@ Annulus aureus in quo imago Sancti Petri piscantis ex cymba et nomen pontificis 
 ## Yearbook
 
 - Inspectus et veritus a [Maria](persona_maria.md) super antiquas curiae chartas.
-- Introductus ut instrumentum curialis auctoritatis in Plot [Donatio Pipini 754](plot_02_pipinus_754.md).
+- Introductus ut instrumentum curialis auctoritatis in Plot [Donatio Pipini 754](plot_03_pipinus_754.md).

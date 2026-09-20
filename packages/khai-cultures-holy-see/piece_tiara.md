@@ -34,4 +34,4 @@ Corona excelsa argentea, tribus diadematis aureis ornata, super quam Reichsapfel
 ## Yearbook
 
 - Venerata a [Petrus](persona_petrus_arch.md) ut symbolum regiae ac sacrae maiestatis.
-- Constituta ut insignia libertatis temporalis post Plot [Pacta Lateranensia 1929](plot_03_lateran_1929.md).
+- Constituta ut insignia libertatis temporalis post Plot [Pacta Lateranensia 1929](plot_04_lateran_1929.md).
