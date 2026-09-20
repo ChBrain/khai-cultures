@@ -1,14 +1,14 @@
 ---
 khai: play
 title: "Virginia"
-description: "Virginia staged: the Old Dominion of Jamestown covenants, presidential dynasties, Yorktown battles, and NoVa defense."
+description: "Virginia staged through the people who turn river, labor, money, music, and infrastructure back into authorship."
 declared: "Virginia"
 language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-06"
+  date: "2026-09-20"
 ---
 
 # Play: Virginia
@@ -23,67 +23,81 @@ Virginia, the Old Dominion in the South Atlantic region of the United States. IS
 
 ## Arc
 
-Virginia claims a peculiar seniority: the colony that named itself before the country it helped write even existed. From the early struggles of Jamestown and the decisive victory at Yorktown to the political dominance of the Virginia Dynasty that framed the constitution and the high-tech defense corridor of Northern Virginia, the record runs unbroken. Traditional southern hospitality and historic preservation still keep close company here with the demands of a global military and technology economy, each expecting the same formality of the other.
+Virginia keeps mistaking authority for origin. Before the colony, tribal nations made the tidal rivers lived country. Tobacco then turned ground, water, and coerced hands into an export order whose manners survived its law. Against that order, three men rowed to Fort Monroe before freedom had a policy; Maggie Walker pooled small money into institutions; and musicians carried braided Appalachian practice into a Bristol microphone. The present repeats the question in Northern Virginia, where global data becomes local load. The line is not a parade of state achievements. It is the repeated work by which people treated as land, labor, audience, or infrastructure take authorship of the place back.
 
 ## Company
 
 **Personas**
 
-- [Thomas](persona_thomas.md)
-- [Sasha](persona_sasha.md)
+- [Lena](persona_lena.md)
+- [Maggie Walker](persona_maggie_walker.md)
+- [Aya](persona_aya.md)
+- [Caleb](persona_caleb.md)
+- [Nadiya](persona_nadiya.md)
 
 **Places**
 
-- [Colonial Williamsburg](place_colonial_williamsburg.md)
-- [the Shenandoah Valley](place_shenandoah_valley.md)
+- [the Pamunkey River](place_pamunkey_river.md)
+- [Fort Monroe](place_fort_monroe.md)
+- [Jackson Ward](place_jackson_ward.md)
+- [State Street](place_bristol_state_street.md)
+- [the Loudoun data-center corridor](place_loudoun_data_center_corridor.md)
 
 **Processes**
 
+- [Pamunkey pottery](process_pamunkey_pottery.md)
 - [tobacco curing](process_tobacco_curing.md)
-- [shipbuilding](process_shipbuilding.md)
+- [mutual-aid banking](process_mutual_aid_banking.md)
+- [the string-band session](process_string_band_session.md)
 
 **Positions**
 
 - [the Old Dominion](position_culture_old_dominion.md)
-- [Cavalier heritage](position_cavalier_heritage.md)
-- [Cradle of Presidents](position_cradle_of_presidents.md)
+- [tidewater continuance](position_tidewater_continuance.md)
+- [Black self-possession](position_black_self_possession.md)
+- [mountain exchange](position_mountain_exchange.md)
+- [systems stewardship](position_systems_stewardship.md)
 - [Virginian English](@chbrain/khai-cultures-tongues/en/position_language_en_us_va.md)
 
 **Pieces**
 
-- [tobacco pipe](piece_tobacco_pipe.md)
-- [draft constitution](piece_draft_constitution.md)
+- [the St. Luke Herald](piece_st_luke_herald.md)
+- [a Bristol session disc](piece_bristol_session_disc.md)
 
 **Pitches**
 
 - [the Virginia key](pitch_virginia.md)
 
-**Plans**
+**An operational plan**
 
 - [the Chesapeake Bay plan](plan_chesapeake_bay_cleanup.md)
 
 ## Triggers
 
-**[Plot 0: The River the Sea Entered](plot_00_the_river_the_sea_entered.md)**
+**[Plot 0: the rivers already had names](plot_00_the_rivers_already_had_names.md)**
 
-Rising seas drown the Susquehanna valley and enter Virginia's rivers, making a tidal road to the fall line and one watershed beneath later borders.
+Algonquian-speaking peoples make the tidal rivers homeland, road, pantry, and relation long before Virginia has its English name, and Pamunkey work carries that origin into the present.
 
-**[Plot 1: Jamestown Founding 1607](plot_01_jamestown.md)**
+**[Plot 1: tobacco makes the labor line](plot_01_tobacco_makes_the_labor_line.md)**
 
-English colonists establish Jamestown, surviving disease and famine to build a permanent settlement fueled by a tobacco export economy.
+An export leaf takes Indigenous land, demands controllable labor, and helps harden African descent into lifelong, inheritable enslavement while planter order calls the result heritage.
 
-**[Plot 2: The Siege of Yorktown 1781](plot_02_yorktown.md)**
+**[Plot 2: three men cross the water](plot_02_three_men_cross_the_water.md)**
 
-American and French forces surround the British army at Yorktown, securing a decisive victory that guarantees national independence.
+Frank Baker, Shepard Mallory, and James Townsend row to Fort Monroe in 1861 and force federal policy to follow an act of freedom they have already completed.
 
-**[Plot 3: The Virginia Dynasty 1789](plot_03_virginia_dynasty.md)**
+**[Plot 3: put our money together](plot_03_put_our_money_together.md)**
 
-A succession of Virginian presidents shapes the early republic, drafting the constitution and expanding the nation's territory.
+Maggie Walker builds a newspaper and bank from the Independent Order of St. Luke, turning small pooled means into machinery Black Richmond can use.
 
-**[Plot 99: The Grid Behind the Cloud](plot_99_the_grid_behind_the_cloud.md)**
+**[Plot 4: the microphone on State Street](plot_04_the_microphone_on_state_street.md)**
 
-Northern Virginia's data centers become the world's largest concentration, and two mass disconnections reveal the regional grid behind the cloud.
+The 1927 Bristol Sessions make Appalachian performance portable and marketable while the disc label narrows the Black and white exchange from which the music came.
+
+**[Plot 99: the grid behind the cloud](plot_99_the_grid_behind_the_cloud.md)**
+
+Northern Virginia becomes the world's largest data-center market, and its jobs, taxes, grid events, construction, noise, power, and neighbors expose the physical system behind a placeless name.
 
 ## Stakes
 
-Whether a state defined by its deep historical roots and traditional elite networks can manage environmental runoff to protect the Chesapeake Bay while hosting massive federal defense installations.
+Whether Virginia's inherited authority can become answerable to the people whose land, labor, money, music, and infrastructure made the place work, or whether each new system will again treat them as material rather than authors.

@@ -1,6 +1,6 @@
 # Virginia: a khai culture
 
-Virginia staged as a full khai play, ISO US-VA, language en. The Old Dominion: its history as the plot line, its people as the cast, the roles its colonial, constitutional, and modern technological defense life encodes, its places, its practices, and its defining objects, all tuned by a single pitch.
+Virginia staged as a full khai play, ISO US-VA, language en. The Old Dominion is not treated as a single colonial inheritance but as a contested authorship: tribal river continuity, the labor order tobacco made, Black self-emancipation and institution-building, Appalachian musical exchange, and the people living and working inside Northern Virginia's physical cloud.
 
 ## Estate
 
@@ -10,16 +10,16 @@ Virginia staged as a full khai play, ISO US-VA, language en. The Old Dominion: i
 
 - **Anchor:** [play_virginia.md](play_virginia.md), the culture itself.
 - **Pitch:** [pitch_virginia.md](pitch_virginia.md), the Virginia key.
-- **Plots (history):** the Chesapeake river system beneath the colony, the founding of Jamestown in 1607, the Siege of Yorktown in 1781, the Virginia Dynasty of presidential leadership, and the present data-center grid in Northern Virginia.
-- **Personas:** Thomas (Williamsburg docent) and Sasha (defense policy analyst in Northern Virginia), written in English.
-- **Positions:** Cavalier heritage (traditional aristocracy), Cradle of Presidents (leadership and public service).
-- **Places:** Colonial Williamsburg, the Shenandoah Valley.
-- **Processes:** tobacco curing (colonial agriculture), shipbuilding (naval yards).
-- **Pieces:** a tobacco pipe, a draft constitution.
-- **Plan:** the Chesapeake Bay cleanup plan.
+- **Plots:** [the rivers already had names](plot_00_the_rivers_already_had_names.md), [tobacco makes the labor line](plot_01_tobacco_makes_the_labor_line.md), [three men cross the water](plot_02_three_men_cross_the_water.md), [put our money together](plot_03_put_our_money_together.md), [the microphone on State Street](plot_04_the_microphone_on_state_street.md), and [the grid behind the cloud](plot_99_the_grid_behind_the_cloud.md).
+- **Personas:** Lena, Maggie Walker, Aya, Caleb, and Nadiya.
+- **Positions:** tidewater continuance, Black self-possession, mountain exchange, systems stewardship, and the Old Dominion recast as an accountable cultural claim.
+- **Places:** the Pamunkey River, Fort Monroe, Jackson Ward, State Street in Bristol, and the Loudoun data-center corridor.
+- **Processes:** Pamunkey pottery, tobacco curing, mutual-aid banking, and the string-band session.
+- **Pieces:** the St. Luke Herald and a Bristol session disc.
+- **Plan:** the Chesapeake Bay plan.
 
 ## Provenance
 
-The Hofstede scores and public-domain historical sources are documented in [REFERENCES.md](REFERENCES.md).
+The tuning basis, historical record, living cultural sources, and archetype construction are documented in [REFERENCES.md](REFERENCES.md).
 
 Content is CC-BY-NC-SA, code is MIT.

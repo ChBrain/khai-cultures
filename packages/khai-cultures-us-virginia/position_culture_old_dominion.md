@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-10"
+  date: "2026-09-20"
 ---
 
 # Position: the Old Dominion
@@ -22,16 +22,16 @@ Parent group: positions
 
 ## Has
 
-Belonging to the colony old enough to have named itself before the nation it helped found existed: the first permanent English foothold at Jamestown, and from it a claim to have written the republic's operating manual before anyone else got the chance. It carries [Cavalier heritage](position_cavalier_heritage.md), the traditional southern courtesy, land-bound custom, and hierarchical social order handed down from the tobacco planters; and it carries [Cradle of Presidents](position_cradle_of_presidents.md), the legacy of constitutional design and public service left by the Virginia Dynasty that drafted the nation's founding charter. It speaks [Virginian English](@chbrain/khai-cultures-tongues/en/position_language_en_us_va.md), carried alike by the Williamsburg interpreter and the Arlington policy office. What it hands to whoever grows up in it is a confidence that governing well is a family trade, and an old debt, never quite settled, between the manners it is proud of and the hierarchy that manners were built to excuse. It is a way of being [American](@chbrain/khai-cultures-usa/position_culture_american_way.md), not a second passport.
+A disputed claim to age, order, and public consequence. The old name remembers English loyalty and colonial seniority, but Virginia begins earlier in [tidewater continuance](position_tidewater_continuance.md), acquires wealth by making a racial labor line around tobacco, and is repeatedly remade by people taking authorship from the order that classified them. It speaks [Virginian English](@chbrain/khai-cultures-tongues/en/position_language_en_us_va.md) across Tidewater, Richmond, the southwest mountains, and Northern Virginia without mistaking one accent or one corridor for the whole. It is a way of being [American](@chbrain/khai-cultures-usa/position_culture_american_way.md), not a second passport.
 
 ## Orders
 
-That one act with the courtesy and formality the Old Dominion expects of anyone claiming its name, and treat historical preservation and public service as duties owed to the past and the future at once. That the docent explain the plantation honestly rather than only handsomely, and that the policymaker read precedent before writing anything new, weighing every modern decision against the founders' template. That land, custom, and constitutional office all be handled as inheritances held in trust, not as property to spend down.
+That inherited authority give an account of what it rests on. That the old building name the labor, the river plan name the first relation to the water, the freedom record begin with the people who moved, the music history credit exchange, and the infrastructure ledger include the neighbor. That public formality serve answerability rather than conceal hierarchy.
 
 ## Loses
 
-Moral ground where its traditional hierarchies once organized themselves around a racial order the state cannot now merely commemorate, the plantation legacy that built its Cavalier courtesy on a foundation of enslaved labor no interpretive hall can gloss over. It loses ground, too, between the slow, history-minded south of Colonial Williamsburg and the quick-moving defense-and-technology corridor of Northern Virginia, each treating the other's calendar as an obstacle: the docent reading federal contracts as indifference to the past, the contractor reading historical preservation as a drag on modernization. And it loses authority when bureaucracy and defense contracts distance governance from the immediate needs of the citizens the Cradle of Presidents was built to serve.
+Whenever "old" is allowed to mean that English settlement was first, plantation manners stand in for culture, presidents stand in for citizens, or the fast-growing north and mountain southwest are treated as deviations from a Tidewater center. It also loses when a history of exclusion is answered only with heroic exceptions, leaving the institution that excluded them intact.
 
 ## Drives
 
-Lives in the interpreter who reads the state through its colonial brick and the contractor who reads it through her policy brief, two trades off the same old claim to have founded the republic that neither quite trusts to understand the other. It drives Virginians toward a confidence that leadership and public service are things one is raised to, carried from the framers who drafted the constitution to the analysts who still weigh policy against it. And it drives the state to hold its founding claim and its founding wrong in the same hand, obligated to preserve both the achievement and the reckoning honestly, rather than choosing to remember only the part that flatters it.
+Virginia to keep contesting who may author the place. [Lena](persona_lena.md) refuses the colonial beginning, [Maggie Walker](persona_maggie_walker.md) and [Aya](persona_aya.md) build usable power in Richmond, [Caleb](persona_caleb.md) returns sources to a commercial origin story, and [Nadiya](persona_nadiya.md) insists that the newest global system answer to its local ground. The dominion survives here only by becoming accountable to those it once treated as land, labor, audience, or load.

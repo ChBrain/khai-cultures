@@ -1,12 +1,13 @@
 ---
 khai: process
-title: "Virginia Tobacco Curing"
+title: "Tobacco Curing"
 declared: "tobacco curing"
+language: en
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-06"
+  date: "2026-09-20"
 ---
 
 # Process: tobacco curing
@@ -21,16 +22,16 @@ Parent group: processes
 
 ## Initiated by
 
-Virginia tobacco growers and curing barn managers, conducted annually in the late summer and autumn.
+The workers who cut mature tobacco, carry it from the field, and arrange it for a controlled transformation after harvest. In colonial Virginia, much of that skilled work was coerced from indentured and enslaved laborers rather than authored by the planter whose name remained in the ledger.
 
 ## Direction
 
-In the wooden curing barns. Hanging harvested leaves from rafters, regulating ventilation and temperature using open air (air-curing) or flues (flue-curing) to dry and color the leaves.
+Leaves are hung with room for air and monitored as moisture leaves and color changes. Ventilation, heat, humidity, and time are adjusted to prevent mold, brittleness, or an uneven cure before the crop is sorted and packed.
 
 ## Lever
 
-The traditional agricultural process that sustained the early colonial economy and defined regional trade. It supports farming families and historical preservation, though it is limited by health regulations and reduced global demand.
+Curing turns a perishable leaf into a durable export, making distant sale possible. The same technical success tied field skill to a system that exhausted land, displaced Indigenous communities, and demanded an increasingly racialized, inheritable labor force.
 
 ## Echo
 
-The curing process provides a historical link. It defines the educational presentations of [Thomas](persona_thomas.md) at Williamsburg, while analyst [Sasha](persona_sasha.md) respects the method as an early model of export logistics.
+In [tobacco makes the labor line](plot_01_tobacco_makes_the_labor_line.md), the process keeps knowledge with the hands that performed it and refuses to let the finished hogshead represent only colonial enterprise.
