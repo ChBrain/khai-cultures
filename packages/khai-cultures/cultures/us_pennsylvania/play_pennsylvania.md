@@ -64,6 +64,10 @@ Set the keystone and the whole arch holds - that's Pennsylvania's claim on its o
 
 ## Triggers
 
+**[Plot 0: The Path Across the Ridges](plot_00_the_path_across_the_ridges.md)**
+
+The Great Shamokin Path joins the Susquehanna and Allegheny valleys across the Appalachian ridges, carrying trade and kinship before it also carries displaced Lenape families west.
+
 **[Plot 1: Penn's Holy Experiment 1681](plot_01_holy_experiment.md)**
 
 William Penn receives the charter and establishes a colony based on religious freedom, peace with native tribes, and democratic principles.
@@ -75,6 +79,10 @@ Delegates gather at Independence Hall in Philadelphia to draft and sign the Decl
 **[Plot 3: The Rise of Steel and Coal 1875](plot_03_steel_and_coal.md)**
 
 The expansion of coal mining and the Carnegie steel mills transforms western Pennsylvania into the industrial engine of the United States.
+
+**[Plot 99: The New Furnace on the Old Ground](plot_99_the_new_furnace_on_the_old_ground.md)**
+
+Shell Polymers Monaca replaces a century-old zinc smelter with an ethane cracker, and a 2025 furnace explosion exposes what the new industrial work demands.
 
 ## Stakes
 
