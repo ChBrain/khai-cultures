@@ -19379,6 +19379,11 @@
           "title": "The Papal Tiara"
         },
         {
+          "file": "piece_vulgata.md",
+          "kind": "piece",
+          "title": "The Latin Vulgate"
+        },
+        {
           "file": "pitch_holy_see.md",
           "kind": "pitch",
           "title": "The Latin Key",
@@ -19417,13 +19422,19 @@
           "taxonomy": "play_holy_see.md"
         },
         {
-          "file": "plot_02_pipinus_754.md",
+          "file": "plot_02_tot_paene_textus_quot_codices.md",
+          "kind": "plot",
+          "title": "Almost as Many Texts as Manuscripts",
+          "taxonomy": "play_holy_see.md"
+        },
+        {
+          "file": "plot_03_pipinus_754.md",
           "kind": "plot",
           "title": "The Donation of Pepin",
           "taxonomy": "play_holy_see.md"
         },
         {
-          "file": "plot_03_lateran_1929.md",
+          "file": "plot_04_lateran_1929.md",
           "kind": "plot",
           "title": "The Lateran Treaty",
           "taxonomy": "play_holy_see.md"
