@@ -19349,8 +19349,8 @@
       "title": "Holy See",
       "description": "Sancta Sedes in scaenam producta: minima civitas vaticana, apostolica auctoritas, et linguae latinae monumentum.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/holy_see"
+        "package": "@chbrain/khai-cultures-holy-see",
+        "path": ""
       },
       "iso": "VA",
       "members": [
@@ -19405,6 +19405,12 @@
           "title": "Holy See"
         },
         {
+          "file": "plot_00_domus_ante_cathedram.md",
+          "kind": "plot",
+          "title": "Domus ante Cathedram",
+          "taxonomy": "play_holy_see.md"
+        },
+        {
           "file": "plot_01_petrus.md",
           "kind": "plot",
           "title": "The Martyrdom of St. Peter",
@@ -19420,6 +19426,12 @@
           "file": "plot_03_lateran_1929.md",
           "kind": "plot",
           "title": "The Lateran Treaty",
+          "taxonomy": "play_holy_see.md"
+        },
+        {
+          "file": "plot_99_fumus_albus_et_anulus_novus.md",
+          "kind": "plot",
+          "title": "Fumus Albus et Anulus Novus",
           "taxonomy": "play_holy_see.md"
         },
         {
@@ -19447,7 +19459,8 @@
           "kind": "process",
           "title": "The Papal Conclave"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-holy-see"
     },
     {
       "kind": "culture",
