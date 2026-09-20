@@ -7,7 +7,7 @@ license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
   version: v0.0.1
-  date: "2026-07-06"
+  date: "2026-09-20"
 status: active
 ---
 
@@ -15,7 +15,7 @@ status: active
 
 ## Taxonomy
 
-An operational directive: the strategic planning and environmental management designed to clean and protect the Chesapeake Bay watershed.
+An operational directive: Virginia's part in the interstate work to reduce pollution, restore habitat, and keep the Chesapeake watershed able to support the people and species living through it.
 
 ## Owner
 
@@ -23,21 +23,22 @@ An operational directive: the strategic planning and environmental management de
 
 ## Direction
 
-Restore water quality by constructing retention basins, upgrading sewage plants, planting forested buffers, and restricting phosphorus discharges.
+Reduce nitrogen, phosphorus, and sediment entering tidal water; restore stream buffers, wetlands, fisheries, and shoreline habitat; upgrade wastewater and stormwater systems; and make land-use and infrastructure decisions account for their watershed effects.
 
 ## Orders
 
-- To the Department of Environmental Quality: Regulate and monitor industrial discharges along the bay's tributaries.
-- To policy analysts like [Sasha](persona_sasha.md): Coordinate inter-state data sharing and watershed run-off modeling systems.
-- To historic sites led by coordinators like [Thomas](persona_thomas.md): Adopt sustainable land use practices and native shoreline landscaping.
+- To watershed agencies and local governments: publish measured loads, enforce permits, fund upgrades, and report where restoration commitments remain incomplete.
+- To [Lena](persona_lena.md) and other tribal river workers: bring lived observation and sovereign knowledge into decisions without being reduced to symbolic consultation.
+- To [Nadiya](persona_nadiya.md) and infrastructure operators: place power, water, backup generation, construction, and land conversion in the same environmental record as service reliability.
+- To residents, farmers, and businesses: treat runoff and habitat as consequences of daily land use, not as a distant problem at the mouth of the bay.
 
 ## Implementation
 
-The agricultural runoff inspections; the construction of wastewater filtration basins; and the deployment of bay water quality monitors.
+Wastewater upgrades, agricultural conservation practices, stormwater controls, forested buffers, wetland and shoreline restoration, fish monitoring, permit enforcement, and public measurement across the rivers feeding the bay.
 
 ## Targets
 
-- [x] The Chesapeake Bay Watershed Agreement was signed.
-- [x] Upgrades to major municipal sewage treatment plants in Richmond were completed.
-- [W] Nitrogen runoff from agricultural regions during spring rains exceeds target safety limits.
-- [ ] Reduce overall sediment runoff entering the bay by 40% by 2035.
+- [x] Virginia joined the Chesapeake Bay Watershed Agreement and established watershed implementation plans.
+- [x] Major wastewater facilities reduced nutrient discharges through treatment upgrades.
+- [W] Pollution-reduction and habitat goals remain incomplete across the watershed.
+- [ ] Set and enforce the next measurable milestones with tribal nations, local communities, and infrastructure hosts present in the accounting.

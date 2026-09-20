@@ -41442,7 +41442,7 @@
       "kind": "culture",
       "id": "us_virginia",
       "title": "Virginia",
-      "description": "Virginia staged: the Old Dominion of Jamestown covenants, presidential dynasties, Yorktown battles, and NoVa defense.",
+      "description": "Virginia staged through the people who turn river, labor, money, music, and infrastructure back into authorship.",
       "source": {
         "package": "@chbrain/khai-cultures-us-virginia",
         "path": ""
@@ -41450,28 +41450,49 @@
       "iso": "US-VA",
       "members": [
         {
-          "file": "persona_sasha.md",
+          "file": "persona_aya.md",
           "kind": "persona",
-          "title": "Sasha",
+          "title": "Aya",
           "type": "archetype",
-          "taxonomy": "position_cradle_of_presidents.md"
+          "taxonomy": "position_black_self_possession.md"
         },
         {
-          "file": "persona_thomas.md",
+          "file": "persona_caleb.md",
           "kind": "persona",
-          "title": "Thomas",
+          "title": "Caleb",
           "type": "archetype",
-          "taxonomy": "position_cavalier_heritage.md"
+          "taxonomy": "position_mountain_exchange.md"
         },
         {
-          "file": "piece_draft_constitution.md",
-          "kind": "piece",
-          "title": "The Virginia Draft Constitution"
+          "file": "persona_lena.md",
+          "kind": "persona",
+          "title": "Lena",
+          "type": "archetype",
+          "taxonomy": "position_tidewater_continuance.md"
         },
         {
-          "file": "piece_tobacco_pipe.md",
+          "file": "persona_maggie_walker.md",
+          "kind": "persona",
+          "title": "Maggie Lena Walker",
+          "type": "real",
+          "taxonomy": "position_black_self_possession.md"
+        },
+        {
+          "file": "persona_nadiya.md",
+          "kind": "persona",
+          "title": "Nadiya",
+          "type": "archetype",
+          "taxonomy": "position_systems_stewardship.md"
+        },
+        {
+          "file": "piece_bristol_session_disc.md",
           "kind": "piece",
-          "title": "The Colonial Tobacco Pipe"
+          "title": "A Bristol Session Disc"
+        },
+        {
+          "file": "piece_st_luke_herald.md",
+          "kind": "piece",
+          "title": "The St. Luke Herald"
         },
         {
           "file": "pitch_virginia.md",
@@ -41480,14 +41501,29 @@
           "taxonomy": "play_virginia.md"
         },
         {
-          "file": "place_colonial_williamsburg.md",
+          "file": "place_bristol_state_street.md",
           "kind": "place",
-          "title": "Colonial Williamsburg"
+          "title": "State Street"
         },
         {
-          "file": "place_shenandoah_valley.md",
+          "file": "place_fort_monroe.md",
           "kind": "place",
-          "title": "The Shenandoah Valley"
+          "title": "Fort Monroe"
+        },
+        {
+          "file": "place_jackson_ward.md",
+          "kind": "place",
+          "title": "Jackson Ward"
+        },
+        {
+          "file": "place_loudoun_data_center_corridor.md",
+          "kind": "place",
+          "title": "The Loudoun Data-Center Corridor"
+        },
+        {
+          "file": "place_pamunkey_river.md",
+          "kind": "place",
+          "title": "The Pamunkey River"
         },
         {
           "file": "plan_chesapeake_bay_cleanup.md",
@@ -41500,27 +41536,33 @@
           "title": "Virginia"
         },
         {
-          "file": "plot_00_the_river_the_sea_entered.md",
+          "file": "plot_00_the_rivers_already_had_names.md",
           "kind": "plot",
-          "title": "The River the Sea Entered",
+          "title": "The Rivers Already Had Names",
           "taxonomy": "play_virginia.md"
         },
         {
-          "file": "plot_01_jamestown.md",
+          "file": "plot_01_tobacco_makes_the_labor_line.md",
           "kind": "plot",
-          "title": "The Founding of Jamestown",
+          "title": "Tobacco Makes the Labor Line",
           "taxonomy": "play_virginia.md"
         },
         {
-          "file": "plot_02_yorktown.md",
+          "file": "plot_02_three_men_cross_the_water.md",
           "kind": "plot",
-          "title": "The Siege of Yorktown",
+          "title": "Three Men Cross the Water",
           "taxonomy": "play_virginia.md"
         },
         {
-          "file": "plot_03_virginia_dynasty.md",
+          "file": "plot_03_put_our_money_together.md",
           "kind": "plot",
-          "title": "The Virginia Dynasty",
+          "title": "Put Our Money Together",
+          "taxonomy": "play_virginia.md"
+        },
+        {
+          "file": "plot_04_the_microphone_on_state_street.md",
+          "kind": "plot",
+          "title": "The Microphone on State Street",
           "taxonomy": "play_virginia.md"
         },
         {
@@ -41530,14 +41572,9 @@
           "taxonomy": "play_virginia.md"
         },
         {
-          "file": "position_cavalier_heritage.md",
+          "file": "position_black_self_possession.md",
           "kind": "position",
-          "title": "Cavalier Heritage"
-        },
-        {
-          "file": "position_cradle_of_presidents.md",
-          "kind": "position",
-          "title": "Cradle of Presidents"
+          "title": "Black Self-Possession"
         },
         {
           "file": "position_culture_old_dominion.md",
@@ -41545,14 +41582,39 @@
           "title": "the Old Dominion"
         },
         {
-          "file": "process_shipbuilding.md",
+          "file": "position_mountain_exchange.md",
+          "kind": "position",
+          "title": "Mountain Exchange"
+        },
+        {
+          "file": "position_systems_stewardship.md",
+          "kind": "position",
+          "title": "Systems Stewardship"
+        },
+        {
+          "file": "position_tidewater_continuance.md",
+          "kind": "position",
+          "title": "Tidewater Continuance"
+        },
+        {
+          "file": "process_mutual_aid_banking.md",
           "kind": "process",
-          "title": "Virginia Shipbuilding"
+          "title": "Mutual-Aid Banking"
+        },
+        {
+          "file": "process_pamunkey_pottery.md",
+          "kind": "process",
+          "title": "Pamunkey Pottery"
+        },
+        {
+          "file": "process_string_band_session.md",
+          "kind": "process",
+          "title": "The String-Band Session"
         },
         {
           "file": "process_tobacco_curing.md",
           "kind": "process",
-          "title": "Virginia Tobacco Curing"
+          "title": "Tobacco Curing"
         }
       ],
       "package": "@chbrain/khai-cultures-us-virginia"
