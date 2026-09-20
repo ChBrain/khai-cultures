@@ -188,6 +188,7 @@
     "@chbrain/khai-cultures-us-arizona": "^0.1.0",
     "@chbrain/khai-cultures-us-ohio": "^0.1.0",
     "@chbrain/khai-cultures-us-pennsylvania": "^0.1.0",
+    "@chbrain/khai-cultures-us-virginia": "^0.1.0",
     "@chbrain/khai-cultures-usa": "^0.1.0",
     "@chbrain/khai-cultures-visegrad": "^0.1.0",
     "@chbrain/khai-engine-language": "^0.1.5",

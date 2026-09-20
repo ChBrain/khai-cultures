@@ -25,7 +25,7 @@ The agricultural valley between the Blue Ridge and Allegheny mountains, featurin
 
 ## Holds
 
-- the agricultural supply and transport routes in the plot [The Siege of Yorktown 1781](plot_03_yorktown.md) : the breadbasket of the south.
+- the agricultural supply and transport routes in the plot [The Siege of Yorktown 1781](plot_02_yorktown.md) : the breadbasket of the south.
 
 ## Offers
 
