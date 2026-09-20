@@ -25,7 +25,7 @@ The industrial river valley along the Cuyahoga River in Cleveland, featuring ste
 
 ## Holds
 
-- the industrial boom in the plot [The Industrial Boom and Rust Belt 1920](plot_02_rust_belt.md) : the valley of steel.
+- the industrial boom in the plot [The Industrial Boom and Rust Belt 1920](plot_03_rust_belt.md) : the valley of steel.
 
 ## Offers
 
