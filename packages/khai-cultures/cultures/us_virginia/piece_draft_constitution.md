@@ -34,4 +34,4 @@ A set of handwritten parchment sheets containing constitutional articles, margin
 ## Yearbook
 
 - Analyzed by federal policy analyst [Sasha](persona_sasha.md) in government policy studies.
-- Constitutional document drafted in the plot [The Virginia Dynasty 1789](plot_02_virginia_dynasty.md).
+- Constitutional document drafted in the plot [The Virginia Dynasty 1789](plot_03_virginia_dynasty.md).

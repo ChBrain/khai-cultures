@@ -23,7 +23,7 @@ Virginia, the Old Dominion in the South Atlantic region of the United States. IS
 
 ## Arc
 
-Virginia claims a peculiar seniority: the colony that named itself before the country it helped write even existed. From the early struggles of Jamestown and the political dominance of the Virginia Dynasty that framed the constitution, to the decisive victory at Yorktown and the high-tech defense corridor of Northern Virginia, the record runs unbroken. Traditional southern hospitality and historic preservation still keep close company here with the demands of a global military and technology economy, each expecting the same formality of the other.
+Virginia claims a peculiar seniority: the colony that named itself before the country it helped write even existed. From the early struggles of Jamestown and the decisive victory at Yorktown to the political dominance of the Virginia Dynasty that framed the constitution and the high-tech defense corridor of Northern Virginia, the record runs unbroken. Traditional southern hospitality and historic preservation still keep close company here with the demands of a global military and technology economy, each expecting the same formality of the other.
 
 ## Company
 
@@ -64,17 +64,25 @@ Virginia claims a peculiar seniority: the colony that named itself before the co
 
 ## Triggers
 
+**[Plot 0: The River the Sea Entered](plot_00_the_river_the_sea_entered.md)**
+
+Rising seas drown the Susquehanna valley and enter Virginia's rivers, making a tidal road to the fall line and one watershed beneath later borders.
+
 **[Plot 1: Jamestown Founding 1607](plot_01_jamestown.md)**
 
 English colonists establish Jamestown, surviving disease and famine to build a permanent settlement fueled by a tobacco export economy.
 
-**[Plot 2: The Virginia Dynasty 1789](plot_02_virginia_dynasty.md)**
+**[Plot 2: The Siege of Yorktown 1781](plot_02_yorktown.md)**
+
+American and French forces surround the British army at Yorktown, securing a decisive victory that guarantees national independence.
+
+**[Plot 3: The Virginia Dynasty 1789](plot_03_virginia_dynasty.md)**
 
 A succession of Virginian presidents shapes the early republic, drafting the constitution and expanding the nation's territory.
 
-**[Plot 3: The Siege of Yorktown 1781](plot_03_yorktown.md)**
+**[Plot 99: The Grid Behind the Cloud](plot_99_the_grid_behind_the_cloud.md)**
 
-American and French forces surround the British army at Yorktown, securing a decisive victory that guarantees national independence.
+Northern Virginia's data centers become the world's largest concentration, and two mass disconnections reveal the regional grid behind the cloud.
 
 ## Stakes
 

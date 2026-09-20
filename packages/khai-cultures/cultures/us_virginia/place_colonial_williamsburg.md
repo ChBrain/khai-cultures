@@ -25,7 +25,7 @@ The historic restored area in Williamsburg, featuring red-brick public buildings
 
 ## Holds
 
-- the political debates of the revolution in the plot [The Virginia Dynasty 1789](plot_02_virginia_dynasty.md) : the nursery of early statesmen.
+- the political debates of the revolution in the plot [The Virginia Dynasty 1789](plot_03_virginia_dynasty.md) : the nursery of early statesmen.
 
 ## Offers
 
