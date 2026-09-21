@@ -2,7 +2,7 @@
 khai: position
 title: "Cantonese"
 declared: "廣東話"
-language: zh
+language: yue
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
