@@ -25,7 +25,7 @@ Il Palazzo Pubblico della Repubblica di San Marino, situato in Piazza della Libe
 
 ## Holds
 
-- la sovranità repubblicana nel Plot [L'adozione degli Statuti del 1600](plot_02_statuto_1600.md) : la sede delle deliberazioni democratiche sammarinesi.
+- la sovranità repubblicana nel Plot [L'adozione degli Statuti del 1600](plot_05_statuto_1600.md) : la sede delle deliberazioni democratiche sammarinesi.
 
 ## Offers
 

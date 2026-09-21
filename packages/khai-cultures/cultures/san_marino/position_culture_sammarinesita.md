@@ -22,7 +22,7 @@ Parent group: positions
 
 ## Has
 
-L'appartenenza a un popolo che si è rifugiato su una sola montagna e non ne è mai sceso, tenendo per oltre diciassette secoli quella che chiama [la libertà perpetua](position_liberta.md), l'esenzione da ogni potere esterno tramandata dal tagliapietre fondatore. Ha il rifugio de [il Monte Titano](position_titano.md) come casa e come mura, la roccia stessa da cui i sammarinesi cavano la pietra e da cui traggono il carattere fermo di chi vive arroccato. Ha [l'italiano sammarinese](position_language_it_sm.md), colorato dal dialetto romagnolo del monte, come lingua propria di un popolo che si considera tutto alla pari, senza signori né vassalli. Porta con sé, senza averla scelta, l'orgoglio di un'indipendenza ininterrotta in mezzo a una penisola che ha visto cadere imperi, regni e repubbliche ben più grandi.
+L'appartenenza a un popolo che si è rifugiato su una montagna e che dal 1463 non abita più soltanto quella, tenendo per oltre diciassette secoli quella che chiama [la libertà perpetua](position_liberta.md), l'esenzione da ogni potere esterno tramandata dal tagliapietre fondatore. Ha il rifugio de [il Monte Titano](position_titano.md) come casa e come mura, la roccia stessa da cui i sammarinesi hanno cavato la pietra dei propri muri e da cui traggono il carattere fermo di chi vive arroccato. Ha [l'italiano sammarinese](position_language_it_sm.md), colorato dal dialetto romagnolo del monte, come lingua propria di un popolo che si considera tutto alla pari, senza signori né vassalli. Porta con sé, senza averla scelta, l'orgoglio di un'indipendenza ininterrotta in mezzo a una penisola che ha visto cadere imperi, regni e repubbliche ben più grandi.
 
 ## Orders
 

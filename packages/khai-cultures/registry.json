@@ -30781,21 +30781,51 @@
           "title": "San Marino"
         },
         {
+          "file": "plot_00_la_pietra_ricorda.md",
+          "kind": "plot",
+          "title": "The Stone Remembers Differently",
+          "taxonomy": "play_san_marino.md"
+        },
+        {
           "file": "plot_01_marino_301.md",
           "kind": "plot",
           "title": "The Foundation by Saint Marinus",
           "taxonomy": "play_san_marino.md"
         },
         {
-          "file": "plot_02_statuto_1600.md",
+          "file": "plot_02_il_confine_ricordato.md",
+          "kind": "plot",
+          "title": "The Boundary Remembered",
+          "taxonomy": "play_san_marino.md"
+        },
+        {
+          "file": "plot_03_due_seggi_una_comunita.md",
+          "kind": "plot",
+          "title": "Two Chairs, One Community",
+          "taxonomy": "play_san_marino.md"
+        },
+        {
+          "file": "plot_04_i_forestieri_diventano_vicini.md",
+          "kind": "plot",
+          "title": "The Strangers Become Neighbours",
+          "taxonomy": "play_san_marino.md"
+        },
+        {
+          "file": "plot_05_statuto_1600.md",
           "kind": "plot",
           "title": "The Statutes of 1600",
           "taxonomy": "play_san_marino.md"
         },
         {
-          "file": "plot_03_garibaldi_1849.md",
+          "file": "plot_06_garibaldi_1849.md",
           "kind": "plot",
           "title": "The Refugee of Garibaldi",
+          "taxonomy": "play_san_marino.md"
+        },
+        {
+          "file": "plot_99_i_confini_del_1463.md",
+          "kind": "plot",
+          "title": "The Borders of 1463",
           "taxonomy": "play_san_marino.md"
         },
         {

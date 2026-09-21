@@ -25,7 +25,7 @@ Le tre torri fortificate (Guaita, Cesta e Montale) edificate sulle tre vette del
 
 ## Holds
 
-- la difesa militare e l'indipendenza territoriale nel Plot [Lo scampo di Garibaldi 1849](plot_03_garibaldi_1849.md) : le sentinelle storiche della libertà repubblicana.
+- la difesa militare e l'indipendenza territoriale nel Plot [Lo scampo di Garibaldi 1849](plot_06_garibaldi_1849.md) : le sentinelle storiche della libertà repubblicana.
 
 ## Offers
 
