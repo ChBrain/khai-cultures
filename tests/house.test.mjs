@@ -546,6 +546,27 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
     rmSync(tmp, { recursive: true, force: true });
   });
 
+  // One tongue link answers which tongue, and not whose grip. Okinka Pampa says
+  // in her own prose that her language is Bijago - a tongue this house does not
+  // hold - and the only tongue she LINKS is the Portuguese she carries from far
+  // off. A first cut read that link as her mother tongue and charged her for prose
+  // that was right, so the tongue must now sit nearer a mother grip than any other.
+  it("declines the one tongue when another grip is closer to it than the mother's", () => {
+    const tmp = mkdtempSync(join(tmpdir(), "khai-grip-"));
+    writeFileSync(join(tmp, "position_language_xx.md"), "---\nlanguage: xx\n---\n");
+    const far = " and so on,".repeat(12);
+    const borrowed =
+      `her language is Bijago, which she [speaks](process_speaking_mother_tongue.md)${far} ` +
+      "the [xx](position_language_xx.md) she [carries](process_speaking_borrowed.md)";
+    expect(soleTongue(borrowed, tmp)).toBeNull();
+    // and the other way round: beside the mother grip, it still answers
+    const mother =
+      "the [xx](position_language_xx.md) she [speaks](process_speaking_mother_tongue.md)" +
+      `${far} Latin she [writes](process_writing_polished.md)`;
+    expect(soleTongue(mother, tmp)?.language).toBe("xx");
+    rmSync(tmp, { recursive: true, force: true });
+  });
+
   it("reads a Projection out of a file and nothing else", () => {
     const text =
       "---\nkhai: persona\n---\n\n## Bio\n\nbio text\n\n## Projection\n\nproj text\n\n## Stake\n\nstake\n";

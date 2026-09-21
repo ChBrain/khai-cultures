@@ -29,14 +29,12 @@ not in the language of the state they live in.
 | of those, linking **exactly one** tongue - decidable      | 662                      |
 | linking more than one - **not asked**                     | 588                      |
 | carrying no `language:` of their own, inheriting the play | 18                       |
-| findings this order adds                                  | **6**, across 4 cultures |
+| findings this order adds                                  | **4**, across 3 cultures |
 
-The six: two in `ch_st_gallen` and `switzerland/persona_tell.md`, written in `de`
-and holding Alemannic as a mother tongue; `de_schleswig_holstein/persona_wullenwever.md`,
-written in `de` and holding Low German; and two in `guinea_bissau`, written in
-`pov` and pointing their mother tongue at `position_language_pt_gw.md`, which is
-genuine Portuguese and was deliberately left that way when that culture was
-relabelled. That last pair is residue from the relabel, not an old fault.
+The four: two in `ch_st_gallen` and `switzerland/persona_tell.md`, written in `de`
+and holding Alemannic as a mother tongue; and
+`de_schleswig_holstein/persona_wullenwever.md`, written in `de` and holding Low
+German. All four are written in the standard and speak the dialect.
 
 **The tongue side is already right.** `gsw/position_language_gsw.md` is written in
 Alemannic - _"S Alemannische het das, wo s Hochdüütsche verlore het: d alte
@@ -69,6 +67,31 @@ separates a persona naming its tongue from a persona describing it.
 their Alemannic alongside the Hochdeutsch they write in, which is the truthful
 thing to say about a Swiss speaker and also the thing that puts them beyond a
 counter.
+
+## And the one tongue has to be the mother's, not merely the only one
+
+One tongue link removes the question Chloe's case poses - which of several tongues
+the mother grip takes - and leaves a second one, which the first cut of this rule
+missed: **whether that single tongue belongs to the mother grip at all.**
+
+`guinea_bissau/persona_okinka_pampa.md` says in her own prose that her language is
+**Bijago**, and the only tongue she LINKS is the Portuguese she _"ta karega di
+longi"_ - carries from far off, under a `borrowed` grip. The rule read the one link
+as her mother tongue and charged her, and her prose was right all along. Her
+sister finding, `persona_lavrador_di_caju.md`, was wrong the same way.
+
+So the single tongue must sit nearer a mother grip than to any other grip. That is
+a distance test, and a much weaker one than the test that failed: it is not
+choosing between tongues, only asking which grip the one tongue stands beside. Der
+Abt keeps his finding, because `[Schweizerdeutsch](gsw)` sits next to the verb he
+_spricht_ and the Latin he writes in is named in prose without a link. Okinka Pampa
+loses hers.
+
+**Her real fault is a different one, and it is the Aragonese fault again**: a
+mother tongue named in prose that links nowhere, because this house holds no
+Bijago. `persona_wiring` still cannot see that - it asks whether a grip has a
+tongue, not whether the tongue a persona is SAID to think in exists - and it is
+carried below.
 
 ## Two other corrections this order records
 
@@ -113,11 +136,19 @@ part of that is narrower and is carried as a Target below.
       eighteen personas for inheriting
 - [x] Hold it as a ratchet in `persona_wiring.mjs`, beside the two edges already
       there
-- [ ] The two `guinea_bissau` personas: their mother tongue points at the one
-      Portuguese file in a Kriol culture. A wiring fix, not a rewrite
+- [x] Require the one tongue to stand nearer a mother grip than any other grip.
+      Without it, `guinea_bissau`'s two personas were charged for prose that was
+      right: Okinka Pampa's language is Bijago and the only tongue she links is the
+      Portuguese she carries from far off
+- [ ] **Bijago is named and not held.** Okinka Pampa is said to think in a tongue
+      this house has no file for, which is the fault `an`'s provenance note opened
+      about Aragonese and the one that brought Yiddish to light. A rule for it
+      would ask whether the tongue a persona is SAID to think in exists, which
+      means reading prose for a language name, which no counter here does yet
 - [ ] `ch_st_gallen` and `switzerland/persona_tell.md`, and
       `de_schleswig_holstein/persona_wullenwever.md`: written in the standard,
-      speaking the dialect. These are rewrites and each wants a reader
+      speaking the dialect. These are rewrites and each wants a reader - and a
+      native one, since nothing in this house can check Alemannic or Low German
 - [ ] The 588 that name more than one tongue. Not a counter's business; the
       playwright instructions' queue
 - [ ] **Swiss orthography has no eszett**, which is one decidable difference

@@ -143,6 +143,9 @@ export function languageOf(text, dir) {
 /** Every tongue a Projection actually LINKS, as written targets. */
 const TONGUE_LINK = /\[[^\]]*\]\(([^()\s]*position_language_[a-z0-9_]+\.md)\)/g;
 
+/** Every grip in a Projection, with which width it is. */
+const GRIP_KIND = /process_(?:speaking|hearing|reading|writing|thinking)_([a-z_]+)\.md/g;
+
 /**
  * The one tongue a Projection links, or null when it links none or several.
  *
@@ -154,9 +157,39 @@ const TONGUE_LINK = /\[[^\]]*\]\(([^()\s]*position_language_[a-z0-9_]+\.md)\)/g;
  * sibling directories, and the finding was an artefact of not following the link.
  */
 export function soleTongue(proj, fromDir) {
-  const targets = [...new Set([...proj.matchAll(TONGUE_LINK)].map((m) => m[1]))];
+  const links = [...proj.matchAll(TONGUE_LINK)];
+  const targets = [...new Set(links.map((m) => m[1]))];
   if (targets.length !== 1) return null;
   const target = targets[0];
+
+  // AND IT HAS TO BE THE MOTHER'S TONGUE, NOT MERELY THE ONLY ONE.
+  //
+  // One tongue link removes the question Chloe's case poses - which of several
+  // tongues the mother grip takes - and leaves a second one, which the first cut
+  // of this rule missed: whether that single tongue belongs to the mother grip at
+  // all. `guinea_bissau/persona_okinka_pampa.md` says in her own prose that her
+  // language is Bijago, a tongue this house does not hold, and the only tongue she
+  // LINKS is the Portuguese she "ta karega di longi" - carries from far off. The
+  // rule read the one link as her mother tongue and charged her for prose that was
+  // right.
+  //
+  // So the tongue must sit nearer a mother grip than to any other grip. That is a
+  // distance test, and a much weaker one than the test that failed: it is not
+  // choosing between tongues, only asking which grip this one tongue is beside.
+  // Der Abt keeps his finding - `[Schweizerdeutsch](gsw)` sits next to `spricht`
+  // and the Latin he writes in is named in prose without a link - and Okinka Pampa
+  // loses hers, because `borrowed` is closer to the Portuguese than her mother
+  // grips are.
+  const at = links[0].index;
+  const end = at + links[0][0].length;
+  let mother = Infinity;
+  let other = Infinity;
+  for (const g of proj.matchAll(GRIP_KIND)) {
+    const d = g.index >= end ? g.index - end : at - (g.index + g[0].length);
+    if (g[1] === "mother_tongue") mother = Math.min(mother, d);
+    else other = Math.min(other, d);
+  }
+  if (!(mother < other)) return null;
   const path = target.startsWith(TONGUES_SPEC)
     ? join(WORKSPACE, "packages", "khai-cultures-tongues", target.slice(TONGUES_SPEC.length))
     : resolve(fromDir, target);
