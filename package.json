@@ -20,6 +20,7 @@
     "test": "vitest run --test-timeout=120000 --exclude '**/node_modules/**' --exclude '.claude/**'",
     "gates": "khai-tests gates .",
     "skeleton": "node tests/skeleton.mjs",
+    "next": "node tests/next.mjs",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "version": "changeset version && node packages/khai-cultures-tongues/build.mjs --write && node tests/registry_hybrid.mjs --write && npx prettier --write packages/khai-cultures/registry.json packages/khai-cultures/package.json packages/khai-cultures-tongues",
