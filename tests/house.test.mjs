@@ -39,6 +39,7 @@ import {
 import { hasOrigin } from "./plot_zero.mjs";
 import {
   plotYear,
+  LATEST,
   backwards,
   units as plotUnits,
   findings as orderFindings,
@@ -830,6 +831,51 @@ describe("Cultures house: a plot line runs forwards", () => {
 
   it("returns null for a plot that names no year, which is legitimate", () => {
     expect(plotYear(plot("Agua del aire", "El bosque peina la niebla."))).toBeNull();
+  });
+
+  // The nine plots the old four-digit pattern could not express. Each of these is
+  // the shape of a real declared name in the house: a bare three-digit year, a
+  // parenthesised one, and one hedged with "ca.".
+  it("reads a year before 1000, which four digits could not express", () => {
+    expect(plotYear(plot("La fondazione da parte di San Marino 301"))).toBe(301);
+    expect(plotYear(plot("Այբուբենի ստեղծումը (405)"))).toBe(405);
+    expect(plotYear(plot("Jellingstenene ca. 965"))).toBe(965);
+    expect(plotYear(plot("Sin año", "Alþingi kom saman á Þingvöllum árið 930."))).toBe(930);
+  });
+
+  // Why the widening is a precedence and not just a wider pattern. Both of these
+  // are real declared names, and both put a number that is not a year before the
+  // year, so "first number wins" dates them 500 and 128.
+  it("lets four digits outrank three in the same field, so a race is not a year", () => {
+    expect(plotYear(plot("The Indianapolis 500 Inauguration 1911"))).toBe(1911);
+    expect(plotYear(plot("The Route 128 Tech Boom 1970"))).toBe(1970);
+  });
+
+  // One and two digits are refused on both sides of the same coin: they can mean
+  // a year without saying which century, and they can mean no year at all.
+  it("refuses one and two digits, which never say which century", () => {
+    expect(plotYear(plot("Mai 68"))).toBeNull();
+    expect(plotYear(plot("Kovo 11"))).toBeNull();
+    expect(plotYear(plot("Sin año", "Eran 60 hombres en el naufragio."))).toBeNull();
+  });
+
+  // The bound is what keeps the widening from reading counts as years, and the
+  // year after next decade is what the old bound of 2029 could not reach.
+  it("reads past 2029 and stops at a stated bound", () => {
+    expect(plotYear(plot("The Plan of 2030"))).toBe(2030);
+    expect(plotYear(plot(`El plan de ${LATEST}`))).toBe(LATEST);
+    expect(plotYear(plot(`El plan de ${LATEST + 1}`))).toBeNull();
+    expect(plotYear(plot("Sin año", "Vinieron 3000 personas al puerto."))).toBeNull();
+  });
+
+  // Asked of the house and not of a fabricated string, because the point of the
+  // widening is that these years are really in the corpus. If the pattern is ever
+  // narrowed back, this is the test that goes red - the fabricated ones above
+  // would keep passing against a reader that no file exercises.
+  it("finds pre-1000 years in the house itself, not only in test strings", () => {
+    const early = [...plotUnits().values()].flat().filter((r) => r.year < 1000);
+    expect(early.length).toBeGreaterThanOrEqual(9);
+    expect(early.every((r) => /^plot_\d{2}_/.test(r.file.split("/").pop()))).toBe(true);
   });
 
   it("holds the origin and the present outside the chronology", () => {

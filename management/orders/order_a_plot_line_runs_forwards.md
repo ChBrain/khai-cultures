@@ -82,6 +82,61 @@ number in the filename and the year in the prose.
   1925"_, _"In November 1925, WSM radio…"_ — so the first year is the subject and
   a later one is context.
 
+## What a year is, and why four digits was not enough
+
+The first draft read `1[0-9]{3}|20[0-2][0-9]`, which cannot express a year before
+1000 or after 2029. **An inexpressible year is not an error; it is silence.** Nine
+middle plots name a year the wall could not see, and it reported each of their
+lines as checked:
+
+| Unit          | Plot      | Names   |
+| ------------- | --------- | ------- |
+| `armenia`     | `plot_01` | 301     |
+| `armenia`     | `plot_02` | 405     |
+| `san_marino`  | `plot_01` | 301     |
+| `es-asturias` | `plot_01` | 722     |
+| `holy-see`    | `plot_03` | 754     |
+| `es-navarre`  | `plot_01` | 778     |
+| `iceland`     | `plot_01` | 930     |
+| `denmark`     | `plot_01` | ca. 965 |
+| `greenland`   | `plot_01` | 982     |
+
+That is the worse of the two failures this wall can have, because it arrives as a
+pass. And it made its own findings misleading in the other direction too:
+`iceland` reads `01:930 02:1000`, so what looked like a line opening at the year
+1000 was a line opening at the earliest year the pattern could say.
+
+Three digits are now a year as well, under two rules that are both measured and
+not guessed:
+
+- **Four digits outrank three wherever both appear in the same field.** This is a
+  precedence, not a guess about which number comes first. _"The Indianapolis 500
+  Inauguration 1911"_ and _"The Route 128 Tech Boom 1970"_ are real declared names
+  that put a non-year number before the year, and a plain widening dates them 500
+  and 128.
+- **One and two digits are refused outright.** _"Mai 68"_, _"Kovo 11"_ and
+  _"1989/90"_ all mean a year and none says which century, while _"60 men"_ and
+  _"the 19th century"_ are not years at all and read identically. Malta's
+  shipwreck of AD 60 stays undated for that reason, and undated is legitimate.
+
+The upper bound is now stated as a number rather than hidden in a pattern, and it
+stops at 2100 — because the same prose that carries years carries counts, and
+_"3000 people"_ is not the year 3000. The old bound of 2029 would have expired
+without saying so.
+
+Measured across all 1334 middle plots before the change was kept: **nine plots
+gain a year, none moves, and none loses one.** It was checked that way round on
+purpose. A reader that changes an existing answer has to be argued about; this one
+changes none, so the widening adds nothing to the standing count of lines out of
+order — it adds nine plots to what the wall can see.
+
+**A year before Christ is still inexpressible, deliberately.** The only one in the
+house is France's _"Alésia et les ancêtres choisis, 52 av. J.-C."_, and it sits in
+a `plot_00`, outside the chronology by construction. A BC middle plot would read
+as undated and be skipped — silence again, but silence that cannot misorder
+anything. Reading one means reading an era marker in every language the house
+writes in, and that is a larger change than this one.
+
 ## What it cannot decide
 
 Given `01:1955` and `03:1880` it cannot tell whether the numbering is wrong or a
@@ -129,6 +184,17 @@ is whether the date is right and not whether the number is.
       `es_canary_islands` was among the offenders, and the next change fixed
       `es_canary_islands` and the test failed. A wall's tests hold its contract,
       which does not move, not its findings, which are meant to reach zero
+- [x] Widen what counts as a year: the four-digit pattern could express neither a
+      year before 1000 nor one after 2029, so nine dated plots read as undated and
+      their lines reported as checked. Four digits outrank three in the same field,
+      one and two digits are refused, the upper bound is named rather than hidden,
+      and the change gives nine plots a year without moving any existing one
+- [ ] A year before Christ, when a middle plot needs one. Today the only BC date
+      in the house is France's `plot_00`, outside the chronology by construction,
+      and a BC middle plot reads as undated rather than misordered. The fix is an
+      era marker read in every language the house writes in
+- [ ] Malta's `plot_01`, whose AD 60 is a two-digit year this wall will not read
+      and should not guess at
 - [ ] `es_canary_islands` first, because it is the one this house shipped knowing
       better, and its fix is a renumber of two plots
 - [ ] The nine shipped packages, as each is next touched, never as a sweep
