@@ -15,9 +15,17 @@ wrong.
 
 ## The rule that follows, which needs no heuristic
 
-Every person grew up dominant in exactly one language. So a Projection that names
-grips and never names that one has left out the fact the other three rules stand
-on - and that is decidable by looking, with no distance test and no guessing.
+Nearly everyone grew up dominant in one language. So a Projection that names grips
+and never names that one has left out the fact the other three rules stand on -
+and that is decidable by looking, with no distance test and no guessing.
+
+**It is a default and not a law.** Two at mother-tongue level is possible and very
+unlikely; none at all is possible and very unlikely. The finding is a prompt to
+read, answered three ways: name the dominant language, or say in the file that this
+persona holds two, or that they hold none. What it refuses is silence. And a
+persona who really holds two has no single language their file must be written in,
+so the rule above already declines them - their Projection links more than one
+tongue.
 
 **Seven do.** `angola/persona_pepetela`, `ch_zug/persona_der_crypto_bro`,
 `georgia/persona_nino`, `jordan/persona_abdullah`, `jordan/persona_aretas`,

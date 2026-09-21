@@ -21,9 +21,20 @@
 //      the only place it is asked. See WHY ONLY ONE, below, which is the whole
 //      care in this rule.
 //
-//   4. A persona HAS a mother tongue. Every person grew up dominant in one
+//   4. A persona HAS a mother tongue. Nearly everyone grew up dominant in one
 //      language, so a Projection that names grips and never names that one has
 //      left out the fact the other three rules stand on.
+//
+// HOW STRONG THAT FOURTH CLAIM IS, BECAUSE IT IS NOT A LAW. Two languages at
+// mother-tongue level is possible and very unlikely. None at all is possible and
+// very unlikely. So rule 4 is a default, and its finding is a prompt to read
+// rather than a verdict: it is answered by naming the dominant language, or by
+// the file saying that this persona genuinely holds two, or genuinely holds
+// none. What it refuses is silence, which is the one thing that cannot be read.
+//
+// A persona who really does hold two has no single language their file must be
+// written in, and rule 3 already declines them - the Projection links more than
+// one tongue, so it is not asked.
 //
 // WHAT "MOTHER TONGUE" MEANS HERE, BECAUSE THE WORD MISLEADS. It is the one
 // language a persona grew up dominant in. It is not the language their mother
@@ -249,8 +260,8 @@ export function wiring(id) {
     // are worth saying out loud, and neither is decided here.
     if (grips.length && !MOTHER.test(proj)) {
       findings.push(
-        `${file}: grips but no mother tongue; every persona grew up dominant in ` +
-          `one language and this Projection never says which`,
+        `${file}: grips but no mother tongue; nearly everyone grew up dominant in ` +
+          `one language, so say which - or say that this one holds two, or none`,
       );
       continue;
     }

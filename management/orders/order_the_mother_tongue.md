@@ -35,9 +35,19 @@ heritage, that wiring looks right. Read as dominance, it is backwards.** Her
 dominant language is English, the file is already written in English, and only the
 grip is wrong.
 
-Every person has exactly one such language, which makes a further thing decidable
-and needs no heuristic at all: a Projection that names grips and never names the
-dominant one has left out the fact the rest of this order stands on. **Seven do.**
+Nearly everyone has exactly one such language, which makes a further thing
+decidable and needs no heuristic at all: a Projection that names grips and never
+names the dominant one has left out the fact the rest of this order stands on.
+**Seven do.**
+
+**It is a default and not a law.** Two languages at mother-tongue level is
+possible and very unlikely; none at all is possible and very unlikely. So the
+finding is a prompt to read, answered three ways: by naming the dominant language,
+or by the file saying this persona genuinely holds two, or genuinely holds none.
+What it refuses is silence, which is the one thing a reader cannot weigh. And a
+persona who really holds two has no single language their file must be written in -
+their Projection links more than one tongue, so the rule above already declines
+them.
 
 They come in two shapes, and only one can be cleared by wiring:
 
