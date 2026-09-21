@@ -28,6 +28,38 @@
 // that names no year makes no claim about when, which is legitimate, and several
 // plots in this house are written that way on purpose.
 //
+// WHAT COUNTS AS A YEAR, AND WHY FOUR DIGITS WAS NOT ENOUGH. This wall read
+// `1[0-9]{3}|20[0-2][0-9]`, which cannot express a year before 1000 or after
+// 2029, and an inexpressible year is not an error - it is silence. Nine middle
+// plots name a year this wall could not see: Armenia's 301 and 405, San Marino's
+// 301, Asturias' 722, the Holy See's 754, Navarre's 778, Iceland's 930,
+// Denmark's ca. 965, Greenland's 982. Every one of them sat in a line the wall
+// then reported it had checked. That is the worse of the two failures this file
+// can have, because it arrives as a pass.
+//
+// So three digits are a year too - but only where nothing stronger is present,
+// and never one or two. The precedence is not a nicety: "The Indianapolis 500
+// Inauguration 1911" and "The Route 128 Tech Boom 1970" both put a non-year
+// number before the year, and a plain widening dates them 500 and 128. Four
+// digits therefore win over three wherever both appear in the same field, which
+// is a precedence and not a guess about which comes first. One and two digits
+// are refused outright, because "Mai 68", "Kovo 11" and "1989/90" all mean a
+// year and none of them says which century, while "60 men" and "the 19th
+// century" are not years at all and read identically. Malta's shipwreck of AD 60
+// stays undated for that reason, and undated is a legitimate state here.
+//
+// Measured across all 1334 middle plots before the change was kept: the widening
+// gives nine plots a year, moves none, and takes none away. It was checked that
+// way round on purpose. A reader that changes an existing answer is a reader
+// that has to be argued about; this one changes none.
+//
+// A year before Christ is still inexpressible, deliberately. The only one in the
+// house is France's "Alésia et les ancêtres choisis, 52 av. J.-C.", and it sits
+// in a plot_00, outside the chronology by construction. A BC middle plot would
+// read as undated and be skipped - silence again, but silence that cannot
+// misorder anything. Reading one means reading an era marker in every language
+// the house writes in, and that is a larger change than this.
+//
 // WHY NON-DECREASING AND NOT INCREASING. Two plots can share a year. A play that
 // stages two things from 1936 is not disordered, and a wall that called it
 // disordered would be answered by moving a date.
@@ -51,7 +83,19 @@ import { pathToFileURL } from "node:url";
 import { WORKSPACE, PACKAGES } from "./culture_sources.mjs";
 
 const NUMBERED = /^plot_(\d{2})_.*\.md$/;
-const YEAR = /\b(1[0-9]{3}|20[0-2][0-9])\b/;
+
+/** Every three- or four-digit run in a field, as candidate years. */
+const DIGITS = /\b([1-9][0-9]{2,3})\b/g;
+
+/**
+ * The last year a four-digit number may be read as.
+ *
+ * A stated bound and not an open end, because the same prose that carries years
+ * carries counts, and "3000 people" is not the year 3000. The previous bound was
+ * 2029, hidden inside the pattern, where it would have expired without saying
+ * so. This one is named, and it expires in 2100.
+ */
+export const LATEST = 2100;
 
 /** The origin and the present sit outside the chronology they bracket. */
 export const BRACKETS = new Set([0, 99]);
@@ -85,21 +129,37 @@ export function plotNumber(path) {
 }
 
 /**
+ * The year one field claims, or null.
+ *
+ * Four digits inside the window outrank three digits anywhere in the field, so
+ * the year in "The Route 128 Tech Boom 1970" is 1970 and not 128. Below 1000 the
+ * three-digit reading stands alone, which is the pre-1000 case the header names.
+ * One and two digits are not years here, and a four-digit number past LATEST is
+ * a count.
+ */
+function yearIn(field) {
+  const found = [...field.matchAll(DIGITS)].map((m) => Number(m[1]));
+  return found.find((n) => n >= 1000 && n <= LATEST) ?? found.find((n) => n < 1000) ?? null;
+}
+
+/**
  * The year a plot claims, or null.
  *
  * The declared name is asked first because that is where these plots put it -
  * "The Grand Ole Opry Founding 1925" - and the Cue is the fallback, because some
  * carry the date only in the prose. The FIRST year wins in both: these are
  * written as "The X of 1925" and "In November 1925, ...", so the first year is
- * the subject and any later one is context.
+ * the subject and any later one is context. First among four-digit years, that
+ * is; `yearIn` says what "first" means when the field holds both widths.
  */
 export function plotYear(text) {
   const declared = /^declared:\s*"(.*)"\s*$/m.exec(text);
-  const fromDeclared = declared && YEAR.exec(declared[1]);
-  if (fromDeclared) return Number(fromDeclared[1]);
+  if (declared) {
+    const fromDeclared = yearIn(declared[1]);
+    if (fromDeclared !== null) return fromDeclared;
+  }
   const cue = /^## Cue\s*\n+([\s\S]*?)(?:\n\n|$)/m.exec(text);
-  const fromCue = cue && YEAR.exec(cue[1]);
-  return fromCue ? Number(fromCue[1]) : null;
+  return cue ? yearIn(cue[1]) : null;
 }
 
 /**
