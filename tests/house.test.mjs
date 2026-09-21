@@ -38,6 +38,19 @@ import {
 } from "./culture_sources.mjs";
 import { hasOrigin } from "./plot_zero.mjs";
 import {
+  RUNGS,
+  SETTLED,
+  rungOf,
+  rungName,
+  median as rungMedian,
+  survey as nextSurvey,
+  order as cultureOrder,
+  queue as nextQueue,
+  next as nextCulture,
+  owed,
+  asks,
+} from "./next.mjs";
+import {
   plotYear,
   LATEST,
   backwards,
@@ -921,5 +934,93 @@ describe("Cultures house: a plot line runs forwards", () => {
       plotNumber("packages/khai-cultures-es-x/plot_01_a.md"),
     );
     expect(plotNumber("x/plot_01_a.md")).not.toBe(plotNumber("x/plot_02_a.md"));
+  });
+});
+
+// What to do next. Not a wall: it ranks work, and a ranking is a reading. What
+// is held here is its CONTRACT - that the order is lexicographic and not a
+// score, that the pick is total and therefore deterministic, that a named
+// culture always arrives with its reasons, and that it stays out of the gates.
+// The counts it prints are findings and are meant to move, so none is asserted.
+// See management/orders/order_what_to_do_next.md.
+describe("Cultures house: what to do next", () => {
+  it("holds the rung order as data, because the order is the whole policy", () => {
+    expect(RUNGS.map((r) => r.name)).toEqual(["wrong", "unbracketed", "thin", "unmigrated"]);
+    for (const r of RUNGS) {
+      expect(typeof r.says).toBe("string");
+      expect(typeof r.holds).toBe("function");
+    }
+    expect(SETTLED).toBe(RUNGS.length);
+    expect(rungName(SETTLED)).toBe("settled");
+  });
+
+  // The difference between a ladder and a score, asserted: a culture that is
+  // both wrong AND thin is wrong. A score would add the two and rank it above a
+  // culture that is only wrong, which is exactly the arithmetic this refuses.
+  it("answers to the first rung that holds, never to a sum of several", () => {
+    const clean = {
+      disordered: false,
+      flat: [],
+      blocking: 0,
+      origin: true,
+      present: true,
+      uncast: [],
+      hollow: false,
+      migrated: true,
+    };
+    expect(rungOf(clean)).toBe(SETTLED);
+    expect(rungOf({ ...clean, disordered: true, uncast: ["x.md"], migrated: false })).toBe(0);
+    expect(rungOf({ ...clean, uncast: ["x.md"] })).toBe(2);
+    expect(rungOf({ ...clean, origin: false, uncast: ["x.md"] })).toBe(1);
+    expect(rungOf({ ...clean, migrated: false })).toBe(3);
+  });
+
+  it("drops zeros before the median, so an absent span cannot lower the line", () => {
+    expect(rungMedian([0, 0, 0, 10, 20, 30])).toBe(20);
+    expect(rungMedian([])).toBe(0);
+    expect(rungMedian([0])).toBe(0);
+  });
+
+  it("gives every culture in the house the first rung that holds for it", () => {
+    for (const r of nextSurvey().rows) expect(r.rung).toBe(rungOf(r));
+  });
+
+  // Total, or it is not deterministic - and re-running the queue does not prove
+  // it, because the rows arrive in the same order twice and a comparator that
+  // ties somewhere would pass anyway. What is asserted is the property itself:
+  // permute the input and the answer does not move, and no adjacent pair ties.
+  it("orders the queue totally, so the input order cannot change the result", () => {
+    const q = nextQueue();
+    expect(q.length).toBeGreaterThan(0);
+    const half = Math.floor(q.length / 2);
+    for (const permuted of [[...q].reverse(), [...q.slice(half), ...q.slice(0, half)]])
+      expect([...permuted].sort(cultureOrder).map((r) => r.id)).toEqual(q.map((r) => r.id));
+    for (let i = 1; i < q.length; i += 1) expect(cultureOrder(q[i - 1], q[i])).not.toBe(0);
+    expect(nextCulture().id).toBe(q[0].id);
+  });
+
+  it("queues everything that owes something and nothing that does not", () => {
+    const { rows } = nextSurvey();
+    const settled = rows.filter((r) => r.rung === SETTLED).length;
+    expect(nextQueue().length + settled).toBe(rows.length);
+    expect(nextQueue().every((r) => r.rung < SETTLED)).toBe(true);
+  });
+
+  // A name alone would send someone to read the culture and guess. Every culture
+  // it names carries its ledger, and every culture on a rung that needs a
+  // reading carries the questions too - rung 4 is a migration and asks nothing.
+  it("never names a culture without saying what it owes", () => {
+    for (const r of nextQueue()) {
+      expect(owed(r).length, r.id).toBeGreaterThan(0);
+      if (r.rung < 3) expect(asks(r).length, r.id).toBeGreaterThan(0);
+    }
+  });
+
+  // The distinction this file rests on, held so it survives the next reader.
+  it("stays out of the gates manifest, because a ranking is a reading", () => {
+    const { gates } = JSON.parse(
+      readFileSync(join(workspaceRoot, "khai-guard.config.json"), "utf8"),
+    );
+    expect(gates.some((g) => (g.command ?? "").includes("next.mjs"))).toBe(false);
   });
 });
