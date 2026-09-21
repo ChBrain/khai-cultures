@@ -38,6 +38,7 @@ import {
 } from "./persona_wiring.mjs";
 import {
   cultures,
+  cultureDir,
   productions,
   migratedGroups,
   cultureUnits,
@@ -588,6 +589,27 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
     rmSync(join(tmp, "play_x.md"));
     expect(languageOf("---\nkhai: persona\n---\n", tmp)).toBeNull();
     rmSync(tmp, { recursive: true, force: true });
+  });
+
+  // A mother tongue here is the one language a persona grew up dominant in - not
+  // the language their mother speaks, and not family heritage. Every person has
+  // one, so a Projection with grips and none of them naming it has left out the
+  // fact the other rules stand on. Asserted as a contract over the house: every
+  // finding of this class really is one.
+  it("reports a persona with grips and no dominant language, and only those", () => {
+    const owed = coveredCultureIds().flatMap((id) =>
+      personaWiring(id)
+        .filter((f) => /grips but no mother tongue/.test(f))
+        .map((f) => [id, f.split(":")[0]]),
+    );
+    expect(owed.length).toBeGreaterThan(0);
+    const GRIP = /process_(?:speaking|hearing|reading|writing|thinking)_[a-z_]+\.md/;
+    const MOTHER = /process_(?:speaking|hearing|reading|writing|thinking)_mother_tongue\.md/;
+    for (const [id, file] of owed) {
+      const proj = personaProjection(readFileSync(join(cultureDir(id), file), "utf8"));
+      expect(GRIP.test(proj), `${id}/${file} has no grip at all`).toBe(true);
+      expect(MOTHER.test(proj), `${id}/${file} does name a mother tongue`).toBe(false);
+    }
   });
 
   // The findings are meant to move, so the census is not asserted - only that

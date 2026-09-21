@@ -21,6 +21,36 @@ three flags on it.
 the file that describes someone is written in the language that person thinks in,
 not in the language of the state they live in.
 
+## What "mother tongue" means here, because the word misleads
+
+**It is the one language a persona grew up dominant in.** Not the language their
+mother speaks, and not family heritage. Those are extremely often the same thing,
+and the sameness is not the point - dominance is.
+
+`united_kingdom/persona_aisha.md` is what the distinction costs. English is
+_"already on her lip before she reaches for it"_ and carries _"every public hour of
+her day"_, and the file wires it `worn`. Her parents' language, which she was
+_"never schooled in"_ and keeps _"for the family table"_, is the heritage. **Read as
+heritage, that wiring looks right. Read as dominance, it is backwards.** Her
+dominant language is English, the file is already written in English, and only the
+grip is wrong.
+
+Every person has exactly one such language, which makes a further thing decidable
+and needs no heuristic at all: a Projection that names grips and never names the
+dominant one has left out the fact the rest of this order stands on. **Seven do.**
+
+They come in two shapes, and only one can be cleared by wiring:
+
+- **The dominant language is there under another grip.** Aisha's case. The prose is
+  already right and the grip is wrong.
+- **The dominant language is one this house cannot hold.**
+  `libya/persona_septimius.md` grew up in Punic - _"لغة أهله ومدينته"_, carried as
+  one carries the language of home - which is extinct and unheld, so his file is in
+  Arabic, a language that reached that coast centuries after he died. No wiring
+  clears that, and writing him in Punic is not available. It is the same shape as
+  Bijago and as a BC plot in `order_a_plot_line_runs_forwards.md`: a thing the rule
+  wants that the world does not supply.
+
 ## What was actually there
 
 | What                                                      | How many                 |
@@ -29,7 +59,8 @@ not in the language of the state they live in.
 | of those, linking **exactly one** tongue - decidable      | 662                      |
 | linking more than one - **not asked**                     | 588                      |
 | carrying no `language:` of their own, inheriting the play | 18                       |
-| findings this order adds                                  | **4**, across 3 cultures |
+| findings for the wrong written language                   | **4**, across 3 cultures |
+| Projections naming grips and no dominant language         | **7**, across 6 cultures |
 
 The four: two in `ch_st_gallen` and `switzerland/persona_tell.md`, written in `de`
 and holding Alemannic as a mother tongue; and
@@ -140,6 +171,13 @@ part of that is narrower and is carried as a Target below.
       Without it, `guinea_bissau`'s two personas were charged for prose that was
       right: Okinka Pampa's language is Bijago and the only tongue she links is the
       Portuguese she carries from far off
+- [x] Ask that a persona HAS a dominant language, not only that it is written in
+      it. Seven Projections name grips and never name the one that says which
+      language the person grew up in, which needs no heuristic to see
+- [ ] The seven. `persona_aisha.md` and the others whose dominant language is
+      present under another grip are wiring fixes with the prose already right.
+      `libya/persona_septimius.md` is not: he grew up in Punic, which is extinct
+      and unheld, and no wiring clears that
 - [ ] **Bijago is named and not held.** Okinka Pampa is said to think in a tongue
       this house has no file for, which is the fault `an`'s provenance note opened
       about Aragonese and the one that brought Yiddish to light. A rule for it

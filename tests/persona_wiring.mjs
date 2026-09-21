@@ -21,6 +21,22 @@
 //      the only place it is asked. See WHY ONLY ONE, below, which is the whole
 //      care in this rule.
 //
+//   4. A persona HAS a mother tongue. Every person grew up dominant in one
+//      language, so a Projection that names grips and never names that one has
+//      left out the fact the other three rules stand on.
+//
+// WHAT "MOTHER TONGUE" MEANS HERE, BECAUSE THE WORD MISLEADS. It is the one
+// language a persona grew up dominant in. It is not the language their mother
+// speaks, and it is not family heritage - those are extremely often the same
+// thing and the sameness is not the point.
+//
+// `united_kingdom/persona_aisha.md` is what the distinction costs. English is
+// "already on her lip before she reaches for it" and carries "every public hour
+// of her day", and it is wired `worn`; her parents' language, which she was
+// "never schooled in" and keeps "for the family table", is the heritage. Her
+// dominant language is English and the file says she wears it. Read as heritage,
+// the wiring looks right. Read as dominance, it is backwards.
+//
 // THE LANGUAGE IS RESOLVED, NOT READ. Eighteen personas carry no `language:` of
 // their own, and a first draft of rule 3 called that a finding - which would have
 // invented a requirement the canon explicitly declines to make.
@@ -221,6 +237,23 @@ export function wiring(id) {
       if (unacquired.has(t))
         findings.push(`${file}: holds ${t} as a mother tongue, which nobody acquires first`);
 
+    // Rule 4, and it needs no heuristic at all: grips, and none of them the one
+    // that says which language this person grew up dominant in.
+    //
+    // Two shapes come out of it. `persona_aisha.md` holds her dominant language
+    // under `worn`, which is a wiring fault with the prose already right. And
+    // `libya/persona_septimius.md` grew up in Punic - "لغة أهله ومدينته", carried
+    // as one carries the language of home - which this house does not hold and
+    // cannot, so his file is in Arabic, a language that reached that coast
+    // centuries after he died. The second shape cannot be cleared by wiring. Both
+    // are worth saying out loud, and neither is decided here.
+    if (grips.length && !MOTHER.test(proj)) {
+      findings.push(
+        `${file}: grips but no mother tongue; every persona grew up dominant in ` +
+          `one language and this Projection never says which`,
+      );
+      continue;
+    }
     if (!MOTHER.test(proj)) continue;
     const wrote = languageOf(readFileSync(join(dir, file), "utf8"), dir);
     if (!wrote) continue;
