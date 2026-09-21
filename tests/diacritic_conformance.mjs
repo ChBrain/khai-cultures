@@ -105,7 +105,47 @@ const ALL_MARKS = /\p{Mn}/gu;
 /** How many combining marks this prose carries, however it is normalised. */
 export const markCount = (prose) => (prose.normalize("NFD").match(ALL_MARKS) ?? []).length;
 
-const WORDS = /[^\W\d_]{3,}/gu;
+/**
+ * A word, in any script the house writes in.
+ *
+ * THIS WAS ASCII-ONLY AND THE WALL DID NOT KNOW IT. The pattern was
+ * `[^\W\d_]{3,}`, and `\w` stays ASCII under the `u` flag, so `\W` matched every
+ * letter outside A-Z. Greek, Cyrillic, Armenian, Arabic, Hebrew, Devanagari,
+ * Georgian, kana and han all counted as nothing, and the only words such a file
+ * scored were the Latin words in its own scaffolding - `Parent group: positions`,
+ * `Project: khai-cultures`. Thirteen of them, in a file of two thousand letters.
+ *
+ * MEASURED: 1,199 files in this house hold more than four hundred letters of real
+ * prose and scored below FLOOR, so `flat` declined every one of them. The Greek
+ * files are the ones that show what it cost: `plot_99_o_kosmos_erchetai.md` carries
+ * 289 combining marks and was scored at 41 words. Greek prose with its accents
+ * stripped is the same fault as the Spanish and French this wall was written for,
+ * and the wall could not see a single instance of it. A gate that goes quiet when
+ * it cannot read a file passes for the wrong reason.
+ *
+ * `\p{M}` rides along with `\p{L}` so a base letter and its marks count as one
+ * word and not as two, which matters for every script that writes a vowel as a
+ * mark rather than a letter.
+ *
+ * WHAT THE WIDENING ADDS, measured before it was kept: twenty-three languages enter
+ * the wall's scope, 36 to 59 - be bg bn div dzo el fa hi ja kk km ky lo mk mn my ne
+ * ru si tg th uk ur, and none lost - and it reports NO new findings. The ten standing findings are the
+ * same ten. The house's non-Latin prose is already spelled correctly; the wall
+ * simply had no way to say so.
+ *
+ * WHAT IT STILL DOES NOT DO. Chinese and Cantonese carry no combining marks, so
+ * they never reach the accented set and are never scored, which is right - there
+ * is no accent to strip. And in a script written without spaces, `{3,}` counts
+ * RUNS and not words, which is crude; it is also self-consistent, because the
+ * density a file is measured against is computed from the same corpus with the
+ * same counter. That is the argument this wall already makes for taking each
+ * language's own median instead of one global rate.
+ *
+ * And Yiddish, which is the case that exposed all of this, is still not scored: a
+ * single file cannot reach QUORUM, so `yi` never becomes an accented language. The
+ * fix this file needed was never about Yiddish. It was about the twenty-three.
+ */
+const WORDS = /[\p{L}\p{M}]{3,}/gu;
 /** Enough running prose to have owed an accent. A stub proves nothing. */
 export const FLOOR = 60;
 export const wordCount = (prose) => (prose.match(WORDS) ?? []).length;
@@ -217,10 +257,28 @@ export function flat(text, accented) {
   const words = wordCount(prose);
   if (words < FLOOR) return null;
   const n = markCount(prose);
-  if (n === 0) return lang;
   const density = typeof accented.get === "function" ? accented.get(lang) : undefined;
+  // A bare Set carries no density, so it can only ask the old question.
+  if (density === undefined) return n === 0 ? lang : null;
   if (!density) return null;
   const expected = density * words;
+  // MIN_EXPECTED GUARDS THE ZERO-MARK CASE TOO, AND IT USED TO NOT.
+  //
+  // `if (n === 0) return lang` sat above this line and returned before the guard
+  // could speak, so the density argument was applied to the thin case and not to
+  // the empty one - and the header above claimed both. It read "a language that
+  // would owe four cannot be said to be missing them", which was false whenever
+  // the count was zero.
+  //
+  // It was invisible for as long as the wall could only read Latin script, because
+  // a Spanish or French file of sixty words essentially always carries an accent,
+  // so zero marks really was a finding. Widening the word counter brought in
+  // Macedonian, where the only letters that decompose to a mark are ѓ, ќ, ѐ and ѝ -
+  // all rare - and `place_ohrid.md` was accused of being unspelled for containing
+  // none of them in a hundred and nine words of sound Macedonian, where its own
+  // language owes about two. Five files, all Macedonian, all correct.
+  //
+  // Silence proves nothing about a language that had little to say.
   if (expected < MIN_EXPECTED) return null;
   return n <= SHARE * expected ? lang : null;
 }

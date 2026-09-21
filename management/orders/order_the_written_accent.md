@@ -99,6 +99,59 @@ in an afternoon to clear a counter would be fifty files nobody read**, and
 thirty-nine of them would be wrong, because they never needed accents in the
 first place.
 
+## The wall could only read Latin script, and did not know it
+
+**A gate that goes quiet when it cannot read a file passes for the wrong reason.**
+This wall counted words with `[^\W\d_]{3,}`, and `\w` stays ASCII under the `u`
+flag, so `\W` matched every letter outside A-Z. Greek, Cyrillic, Armenian, Arabic,
+Hebrew, Devanagari, Georgian, kana and han all counted as nothing.
+
+**Measured: 1,199 files in this house hold more than four hundred letters of real
+prose and scored below `FLOOR`**, so `flat` declined every one of them. The Greek
+files show the cost plainly: `plot_99_o_kosmos_erchetai.md` carries 289 combining
+marks and was scored at forty-one words, because the only words it could count
+were the Latin ones in its own scaffolding — _Parent group: positions_, _Project:
+khai-cultures_. Greek prose with its accents stripped is the same fault as the
+Spanish and French this wall was written for, and the wall could not see a single
+instance of it.
+
+Widening the counter to `[\p{L}\p{M}]{3,}` brings **twenty-three languages** into
+scope — `be bg bn div dzo el fa hi ja kk km ky lo mk mn my ne ru si tg th uk ur` —
+and `\p{M}` rides along so a base letter and its marks count as one word, which
+matters wherever a vowel is written as a mark.
+
+Chinese and Cantonese stay out, correctly: they carry no combining marks, so there
+is no accent to strip. And in a script written without spaces `{3,}` counts runs
+rather than words, which is crude and is also self-consistent, because the density
+a file is measured against is computed from the same corpus with the same counter.
+
+### And the widening exposed a guard that was only half applied
+
+The first version of this widening reported **five new findings, all Macedonian,
+all of them wrong**, and the reason was in this wall and not in the prose.
+
+`flat` read `if (n === 0) return lang` **above** the `MIN_EXPECTED` check, so the
+density argument was applied to the thin case and never to the empty one — while
+the order and the wall's own header claimed both, in the words _"a language that
+would owe four cannot be said to be missing them."_
+
+It stayed invisible for exactly as long as the wall could only read Latin script,
+because a Spanish or French file past `FLOOR` essentially always carries an accent,
+so zero marks really was a finding. Macedonian is the counter-example: its only
+letters that decompose to a combining mark are **ѓ, ќ, ѐ and ѝ**, all rare, so
+`place_ohrid.md` carries none in a hundred and nine words of sound Macedonian —
+where its own language owes about two. The guard now covers the empty case too.
+
+**Silence proves nothing about a language that had little to say.**
+
+|                                | before | after                              |
+| ------------------------------ | ------ | ---------------------------------- |
+| languages in scope             | 36     | **59**                             |
+| files with unreadable prose    | 1,199  | **0**                              |
+| flat findings                  | 10     | **10**, the same ten               |
+| files the guard newly declines | –      | **5**, all Macedonian, all correct |
+| diacritics tests               | 13     | **16**                             |
+
 ## Targets
 
 - [x] Measure it: 50 flat files, 4 languages, ~4,800 undecidable word-level
@@ -113,6 +166,18 @@ first place.
 - [x] Verified it fires: a flattened `persona_fermin` is refused, a pure rename
       of an already-flat file is not
 - [x] Register it in the gates as `diacritics`
+- [x] Read scripts other than Latin. The word counter was ASCII-only, so 1,199
+      files of real prose scored under `FLOOR` and were never judged — Greek among
+      them, carrying 289 marks and counted at 41 words. Twenty-three languages enter
+      scope, none is lost, and the ten standing findings do not move
+- [x] Apply `MIN_EXPECTED` to the zero-mark case, which it never covered. The
+      short-circuit returned before the guard could speak, and the first Macedonian
+      file the wall could finally read was accused of being unspelled for lacking
+      two rare letters
+- [ ] Yiddish is the case that exposed all of this and is still not scored: one
+      file cannot reach `QUORUM`, and `yi` has no detector model either, so it is
+      exempt twice over. A tongue this house cannot check is a tongue whose
+      provenance note must say so
 - [ ] The nine Spanish `position_language_*` files: body and `declared:` name,
       as each culture is walked
 - [ ] `cape_verde`: 22 files from `pt` to `kea`, and `kea` authored in the
