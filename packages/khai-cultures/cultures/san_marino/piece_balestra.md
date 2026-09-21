@@ -21,7 +21,7 @@ Parent group: pieces
 
 ## Place
 
-Conservata nelle sedi dei balestrieri e imbracciata durante le rievocazioni storiche sulla Cava del Titano.
+Conservata nelle sedi dei balestrieri e imbracciata durante le rievocazioni storiche alla Cava dei Balestrieri.
 
 ## Load Bearing
 
@@ -34,4 +34,4 @@ Un'arma da lancio in legno pregiato e acciaio battuto, dotata di un meccanismo d
 ## Yearbook
 
 - Custodita e imbracciata da [Marino](persona_marino.md) durante il Palio cittadino.
-- Emblema della preparazione alla difesa nel Plot [Lo scampo di Garibaldi 1849](plot_03_garibaldi_1849.md).
+- Emblema della preparazione alla difesa nel Plot [Lo scampo di Garibaldi 1849](plot_06_garibaldi_1849.md).

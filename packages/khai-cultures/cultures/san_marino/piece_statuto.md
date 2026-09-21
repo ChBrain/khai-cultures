@@ -34,4 +34,4 @@ Sei volumi cartacei rilegati in pergamena, scritti in latino rinascimentale, che
 ## Yearbook
 
 - Consultati e applicati da [Giulia](persona_giulia.md) nello svolgimento dei suoi doveri pubblici.
-- Adottati come fondamento costituzionale nel Plot [L'adozione degli Statuti del 1600](plot_02_statuto_1600.md).
+- Adottati come fondamento costituzionale nel Plot [L'adozione degli Statuti del 1600](plot_05_statuto_1600.md).
