@@ -64,6 +64,7 @@ import {
   declaredLanguage,
   marked,
   markCount,
+  wordCount,
   describe as describeFinding,
   flat,
   accentUsing,
@@ -758,6 +759,47 @@ describe("Cultures house: prose is spelled in the language it declares", () => {
     const text = fm("es", `${words(199, "esta")} caf\u00e9`);
     expect(flat(text, sparse)).toBeNull(); // expected 2, under MIN_EXPECTED
     expect(flat(text, esDense)).toBe("es"); // same file, a dense language
+  });
+
+  // The same guard, on the empty case, which is where it used to be missing: the
+  // zero-mark branch returned before MIN_EXPECTED could speak. Macedonian is the
+  // real instance - its only letters that decompose to a mark are ѓ, ќ, ѐ and ѝ,
+  // all rare, so sound Macedonian prose of a hundred words carries none and owes
+  // about two.
+  it("declines a file with no marks at all when its language owes too few", () => {
+    const sparse = new Map([["mk", 0.0219]]); // Macedonian's real density here
+    const bare = fm("mk", words(109, "\u043e\u0445\u0440\u0438\u0434"));
+    expect(flat(bare, sparse)).toBeNull();
+    // and the empty case still reports where the language really owes marks
+    expect(flat(fm("es", words(199, "esta")), esDense)).toBe("es");
+  });
+
+  // The counter was `[^\W\d_]{3,}`, and \w stays ASCII under the u flag, so every
+  // letter outside A-Z counted as nothing. A file of two thousand Greek letters
+  // scored the dozen Latin words in its own scaffolding and fell under FLOOR.
+  it("counts words in the scripts the old pattern could not see", () => {
+    const samples = {
+      greek: "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+      cyrillic: "\u043e\u0445\u0440\u0438\u0434\u0441\u043a\u0438",
+      hebrew: "\u05d9\u05d9\u05b4\u05d3\u05d9\u05e9",
+      devanagari: "\u0939\u093f\u0928\u094d\u0926\u0940",
+      armenian: "\u0570\u0561\u0575\u0565\u0580\u0565\u0576",
+    };
+    for (const [name, w] of Object.entries(samples))
+      expect(wordCount(words(70, w)), name).toBeGreaterThanOrEqual(70);
+    // and the old exclusions hold: digits and underscores are not words
+    expect(wordCount("123 4567 ____ __")).toBe(0);
+  });
+
+  // Asked of the house, because the point of the widening is that this prose is
+  // really here. Greek carries a tonos on almost every word and was invisible;
+  // Chinese carries no combining mark at all and must stay out, since there is no
+  // accent to strip.
+  it("brings the non-Latin scripts into scope, and leaves out what has no marks", () => {
+    const accented = accentUsing();
+    for (const lang of ["el", "ru", "uk", "bg", "mk"]) expect(accented.has(lang), lang).toBe(true);
+    for (const lang of ["zh", "yue"]) expect(accented.has(lang), lang).toBe(false);
+    expect(accented.get("el")).toBeGreaterThan(accented.get("es"));
   });
 
   // A Set carries no density, so the wall must fall back to the original
