@@ -25,16 +25,40 @@
 //      language, so a Projection that names grips and never names that one has
 //      left out the fact the other three rules stand on.
 //
-// HOW STRONG THAT FOURTH CLAIM IS, BECAUSE IT IS NOT A LAW. Two languages at
-// mother-tongue level is possible and very unlikely. None at all is possible and
-// very unlikely. So rule 4 is a default, and its finding is a prompt to read
-// rather than a verdict: it is answered by naming the dominant language, or by
-// the file saying that this persona genuinely holds two, or genuinely holds
-// none. What it refuses is silence, which is the one thing that cannot be read.
+// HOW STRONG THAT FOURTH CLAIM IS, AND IT IS WEAKER THAN IT FIRST READ. A draft
+// of this header said two mother tongues was "possible and very unlikely". That
+// is not what the research says. About half the world is functionally bilingual
+// and the majority of those bilinguals are native speakers of BOTH their
+// languages; native bilingual communities across South America, Africa and Asia
+// are places where a monolingual norm may not exist at all; and Canada's census
+// recognises more than one mother tongue outright, where the languages were
+// learned at the same time and are both still understood. In a house of three
+// hundred and nineteen world cultures, two is not an exception.
 //
-// A persona who really does hold two has no single language their file must be
-// written in, and rule 3 already declines them - the Projection links more than
-// one tongue, so it is not asked.
+// So rule 4 asks only that the file SAY. Its finding is a prompt to read, and it
+// is answered three ways: name the language, or say this persona holds two, or
+// say they hold none. What it refuses is silence, which is the one thing a reader
+// cannot weigh. A persona who really holds two has no single language their file
+// must be written in, and rule 3 already declines them - the Projection links
+// more than one tongue, so it is not asked.
+//
+// AND THE FORK THIS HOUSE HAS NOT DECIDED. "Mother tongue" and "dominant
+// language" are different things and the literature keeps them apart: L1 is the
+// order of acquisition, mother tongue and heritage name family and culture, and
+// dominance names institutions and present proficiency. They diverge
+// systematically in one population - heritage speakers, who acquire the home
+// language first and then shift, because "most often their language dominance
+// shifts with schooling".
+//
+// That is `united_kingdom/persona_aisha.md`, and it means the reading below has a
+// twin. UNESCO, the UN and Canada all define mother tongue by CHILDHOOD HOME
+// ACQUISITION, and on that definition her parents' language is her mother tongue,
+// English is her dominant language, and a file that names English `worn` is
+// describing acquisition correctly. On a dominance definition the wiring is
+// backwards. Rule 3 keys on the grip the engine ships, which is named
+// `mother_tongue`, so it currently follows the first reading - and which of the
+// two governs "the language the file is written in" is not a counter's call. It
+// is carried in order_the_mother_tongue.md as the open question it is.
 //
 // WHAT "MOTHER TONGUE" MEANS HERE, BECAUSE THE WORD MISLEADS. It is the one
 // language a persona grew up dominant in. It is not the language their mother

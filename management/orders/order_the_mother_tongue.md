@@ -40,14 +40,46 @@ decidable and needs no heuristic at all: a Projection that names grips and never
 names the dominant one has left out the fact the rest of this order stands on.
 **Seven do.**
 
-**It is a default and not a law.** Two languages at mother-tongue level is
-possible and very unlikely; none at all is possible and very unlikely. So the
-finding is a prompt to read, answered three ways: by naming the dominant language,
-or by the file saying this persona genuinely holds two, or genuinely holds none.
-What it refuses is silence, which is the one thing a reader cannot weigh. And a
-persona who really holds two has no single language their file must be written in -
-their Projection links more than one tongue, so the rule above already declines
-them.
+**It is a default, and weaker than it first read here.** A draft of this order
+said two mother tongues was _"possible and very unlikely"_. **That is not what the
+research says.** About half the world is functionally bilingual and the majority of
+those bilinguals are native speakers of _both_ their languages; the native
+bilingual communities of South America, Africa and Asia are places where a
+monolingual norm may not exist at all; and Canada's census recognises more than
+one mother tongue outright, where the languages were learned at the same time and
+are both still understood. In a house of three hundred and nineteen world
+cultures, two is not an exception.
+
+So the rule asks only that the file **say**. Its finding is a prompt to read,
+answered three ways: name the language, or say this persona holds two, or say they
+hold none. What it refuses is silence, which is the one thing a reader cannot
+weigh. A persona who really holds two has no single language their file must be
+written in - their Projection links more than one tongue, so the rule above
+already declines them.
+
+## The fork this house has not decided
+
+**"Mother tongue" and "dominant language" are different things**, and the
+literature keeps them apart: L1 is the order of acquisition, mother tongue and
+heritage name family and culture, and dominance names institutions and present
+proficiency. They diverge systematically in one population - heritage speakers,
+who acquire the home language first and then shift, because _"most often their
+language dominance shifts with schooling"_.
+
+That population is not small, and this house is full of it.
+
+**So the Aisha reading above has a twin.** UNESCO, the UN and Canada all define
+mother tongue by **childhood home acquisition**. On that definition her parents'
+language is her mother tongue, English is her dominant language, and a file naming
+English `worn` describes acquisition correctly. On a dominance definition the
+wiring is backwards, which is what this order claimed without qualification.
+
+The rule keys on the grip the engine ships, and that grip is named
+`mother_tongue`, so today it follows the acquisition reading. **Which of the two
+governs "the language the file is written in" is not a counter's call**, and the
+consequences differ sharply: on acquisition, every heritage-speaker persona should
+be written in the home language they may barely write; on dominance, in the
+majority language they actually think in. It is carried below.
 
 They come in two shapes, and only one can be cleared by wiring:
 
@@ -184,8 +216,14 @@ part of that is narrower and is carried as a Target below.
 - [x] Ask that a persona HAS a dominant language, not only that it is written in
       it. Seven Projections name grips and never name the one that says which
       language the person grew up in, which needs no heuristic to see
+- [ ] **Decide the fork: acquisition or dominance.** They coincide for most
+      personas and diverge for every heritage speaker, and the house is full of
+      them. The engine ships a grip named `mother_tongue` and nothing that marks
+      dominance, so keying on dominance would need an engine change upstream. This
+      is the Human's, and the rest of the campaign waits on it
 - [ ] The seven. `persona_aisha.md` and the others whose dominant language is
-      present under another grip are wiring fixes with the prose already right.
+      present under another grip are wiring fixes **if the fork resolves to
+      dominance**, and are correct as they stand if it resolves to acquisition.
       `libya/persona_septimius.md` is not: he grew up in Punic, which is extinct
       and unheld, and no wiring clears that
 - [ ] **Bijago is named and not held.** Okinka Pampa is said to think in a tongue

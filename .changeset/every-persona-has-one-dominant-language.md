@@ -19,13 +19,29 @@ Nearly everyone grew up dominant in one language. So a Projection that names gri
 and never names that one has left out the fact the other three rules stand on -
 and that is decidable by looking, with no distance test and no guessing.
 
-**It is a default and not a law.** Two at mother-tongue level is possible and very
-unlikely; none at all is possible and very unlikely. The finding is a prompt to
-read, answered three ways: name the dominant language, or say in the file that this
-persona holds two, or that they hold none. What it refuses is silence. And a
-persona who really holds two has no single language their file must be written in,
-so the rule above already declines them - their Projection links more than one
-tongue.
+**It is a default, and weaker than a draft of this said.** That draft called two
+mother tongues _"possible and very unlikely"_, and the research does not support
+it: about half the world is functionally bilingual and the majority of those
+bilinguals are native speakers of _both_ their languages, the native bilingual
+communities of South America, Africa and Asia may have no monolingual norm at all,
+and Canada's census recognises more than one mother tongue outright. Across 319
+world cultures, two is not an exception.
+
+So the rule asks only that the file **say**: name the language, or say this persona
+holds two, or say they hold none. What it refuses is silence. A persona who really
+holds two has no single language their file must be written in, so the rule above
+already declines them.
+
+**And a fork this house has not decided.** "Mother tongue" and "dominant language"
+are different things - L1 is order of acquisition, mother tongue and heritage name
+family and culture, dominance names institutions and present proficiency - and they
+diverge in exactly one population, heritage speakers, whose dominance shifts with
+schooling. UNESCO, the UN and Canada all define mother tongue by childhood home
+acquisition, so **the Aisha reading below has a twin**: on acquisition her parents'
+language is her mother tongue and naming English `worn` is correct; on dominance the
+wiring is backwards. The rule keys on the grip the engine ships, which is named
+`mother_tongue`, so it follows acquisition today. Which one governs the language a
+file is written in is the Human's call, and the order carries it.
 
 **Seven do.** `angola/persona_pepetela`, `ch_zug/persona_der_crypto_bro`,
 `georgia/persona_nino`, `jordan/persona_abdullah`, `jordan/persona_aretas`,
