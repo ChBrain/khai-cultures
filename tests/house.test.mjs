@@ -1,7 +1,8 @@
 import { describe, it, expect } from "vitest";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { readFileSync, readdirSync, existsSync } from "node:fs";
+import { readFileSync, readdirSync, existsSync, mkdtempSync, writeFileSync, rmSync } from "node:fs";
+import { tmpdir } from "node:os";
 import {
   validateProject,
   verifyGatesAgainstCi,
@@ -27,7 +28,14 @@ import {
 } from "./company_coverage.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
-import { widths, noMotherTongue } from "./persona_wiring.mjs";
+import {
+  widths,
+  noMotherTongue,
+  projection as personaProjection,
+  soleTongue,
+  languageOf,
+  wiring as personaWiring,
+} from "./persona_wiring.mjs";
 import {
   cultures,
   productions,
@@ -513,6 +521,66 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
 
   it("the tongues package still declares which tongues nobody acquires first", () => {
     expect(noMotherTongue().size).toBeGreaterThan(0);
+  });
+
+  // The care in the mother-tongue rule is what it DECLINES to answer. A
+  // Projection that links several tongues names a mother tongue, a worn one and a
+  // followed one in the same paragraph, and no distance test separates them:
+  // us_california/persona_chloe.md says Californian English is her mother tongue
+  // and Spanish is what she puts on like a coat, and the coat sits closer to the
+  // mother-tongue process than the mother tongue does. So one tongue is asked and
+  // several are not.
+  it("declines to name a mother tongue when the Projection links more than one", () => {
+    // Real files, because the first version of this test linked two targets that
+    // did not exist: soleTongue answered null because nothing resolved, the guard
+    // was never reached, and weakening the guard did not fail the test. A probe
+    // caught it. The tongues have to be on disk for the guard to be the thing
+    // under test.
+    const tmp = mkdtempSync(join(tmpdir(), "khai-mother-"));
+    writeFileSync(join(tmp, "position_language_xx.md"), "---\nlanguage: xx\n---\n");
+    writeFileSync(join(tmp, "position_language_yy.md"), "---\nlanguage: yy\n---\n");
+    const one = "[X](position_language_xx.md) is her [mother](process_speaking_mother_tongue.md)";
+    const two = `${one}, and [Y](position_language_yy.md) she [wears](process_speaking_worn.md)`;
+    expect(soleTongue(one, tmp)?.language).toBe("xx");
+    expect(soleTongue(two, tmp)).toBeNull();
+    rmSync(tmp, { recursive: true, force: true });
+  });
+
+  it("reads a Projection out of a file and nothing else", () => {
+    const text =
+      "---\nkhai: persona\n---\n\n## Bio\n\nbio text\n\n## Projection\n\nproj text\n\n## Stake\n\nstake\n";
+    expect(personaProjection(text).trim()).toBe("proj text");
+    expect(personaProjection("no projection here")).toBe("");
+  });
+
+  // Eighteen personas carry no `language:` and are entitled to their play's, by
+  // the language engine's own file -> play -> house precedence. A first draft of
+  // this rule called the missing field a finding, which would have invented a
+  // requirement the canon declines to make. The precedence is what is asserted -
+  // an earlier version of this test only checked that a message no longer in the
+  // code was absent, which could never fail.
+  it("resolves a persona's language file first and then its play", () => {
+    const tmp = mkdtempSync(join(tmpdir(), "khai-inherit-"));
+    writeFileSync(join(tmp, "play_x.md"), "---\nkhai: play\nlanguage: de\n---\n");
+    expect(languageOf("---\nkhai: persona\nlanguage: nds\n---\n", tmp)).toBe("nds");
+    expect(languageOf("---\nkhai: persona\n---\n", tmp)).toBe("de");
+    rmSync(join(tmp, "play_x.md"));
+    expect(languageOf("---\nkhai: persona\n---\n", tmp)).toBeNull();
+    rmSync(tmp, { recursive: true, force: true });
+  });
+
+  // The findings are meant to move, so the census is not asserted - only that
+  // every finding of this class really is one: a resolved language that differs
+  // from the one tongue the persona holds as a mother tongue.
+  it("reports a mother-tongue mismatch only where the two really differ", () => {
+    const rows = coveredCultureIds().flatMap((id) => personaWiring(id));
+    const mism = rows.filter((f) => /a persona is written in the tongue they speak/.test(f));
+    for (const f of mism) {
+      const m =
+        /written in "([^"]+)" and holds (\S+) as its mother tongue, which is "([^"]+)"/.exec(f);
+      expect(m, f).not.toBeNull();
+      expect(m[1], f).not.toBe(m[3]);
+    }
   });
 });
 

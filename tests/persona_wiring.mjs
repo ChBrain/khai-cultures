@@ -16,6 +16,34 @@
 //      spoken; two personas held it as a first language anyway, because prose
 //      cannot be checked and a flag can.
 //
+//   3. A persona is written in its mother tongue. This is the house's rule, and it
+//      is only decidable where the Projection links exactly ONE tongue, so that is
+//      the only place it is asked. See WHY ONLY ONE, below, which is the whole
+//      care in this rule.
+//
+// THE LANGUAGE IS RESOLVED, NOT READ. Eighteen personas carry no `language:` of
+// their own, and a first draft of rule 3 called that a finding - which would have
+// invented a requirement the canon explicitly declines to make.
+// `resolveLanguageTag` in the language engine has a stated file -> play -> house
+// precedence, so a persona without the field inherits its play's language by
+// design, and 1,243 of 1,261 declare one only because that is the habit here and
+// not because it is owed. So this rule resolves the same way the canon does, and
+// asks about the language the file is ACTUALLY written in rather than about the
+// presence of a field.
+//
+// WHY ONLY ONE, AND WHAT IT COST TO LEARN. The first measurement of rule 4 used
+// `gripped` - the nearest-tongue heuristic rule 2 relies on - and reported 247
+// personas across 120 cultures. That number was almost entirely wrong.
+// `us_california/persona_chloe.md` says in plain words that Californian English is
+// her mother tongue and that Spanish is what she "puts on like a coat", and the
+// heuristic returned the Spanish, because the coat sits a few characters closer to
+// the mother-tongue process than the mother tongue does. Distance is enough for
+// rule 2, which only asks whether a tongue is one nobody acquires first and can
+// absorb an occasional mis-pick; it is not enough to decide which language a file
+// must be WRITTEN in. So rule 4 declines to guess: 662 personas link one tongue
+// and are asked, 588 link more and are not, and those 588 belong to the packages'
+// playwright instructions for the same reason the paragraph below gives.
+//
 // Neither rule is typed here. The widths come from the language engine's own
 // manifest and the tongues from `khai.wiring` in the tongues package, because a
 // rule written in two places is a rule that will disagree with itself.
@@ -30,7 +58,7 @@
 // sub-national conformance. Touch a culture, leave it wired.
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
-import { join, dirname } from "node:path";
+import { join, dirname, resolve } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { execFileSync } from "node:child_process";
 import { cultureIds, touchedCultures } from "./company_coverage.mjs";
@@ -62,7 +90,11 @@ export function noMotherTongue() {
 const WIDTH = /process_(?:speaking|hearing|reading|writing|thinking)_[a-z_]+\.md/g;
 const TONGUE = /position_language_[a-z0-9_]+\.md/g;
 
-const MOTHER = /process_(?:speaking|hearing|reading|writing|thinking)_mother_tongue\.md/g;
+// Two objects for one pattern: `matchAll` needs the /g flag and `test` on a /g
+// regex carries lastIndex between calls, which silently answers false every other
+// time it is asked. The bug that costs an afternoon.
+const MOTHER_ALL = /process_(?:speaking|hearing|reading|writing|thinking)_mother_tongue\.md/g;
+const MOTHER = /process_(?:speaking|hearing|reading|writing|thinking)_mother_tongue\.md/;
 
 /**
  * The tongue a grip grips: the nearest tongue link in the Projection, measured
@@ -81,14 +113,58 @@ const MOTHER = /process_(?:speaking|hearing|reading|writing|thinking)_mother_ton
  */
 const gripped = (proj) => {
   const tongues = [...proj.matchAll(TONGUE)].map((m) => ({ t: m[0], i: m.index }));
-  return [...proj.matchAll(MOTHER)].map((g) => {
+  return [...proj.matchAll(MOTHER_ALL)].map((g) => {
     const distance = (t) =>
       t.i >= g.index ? t.i - (g.index + g[0].length) : g.index - (t.i + t.t.length);
     return tongues.reduce((a, b) => (a === null || distance(b) < distance(a) ? b : a), null)?.t;
   });
 };
 
-const projection = (text) => text.split("## Projection")[1]?.split("\n## ")[0] ?? "";
+export const projection = (text) => text.split("## Projection")[1]?.split("\n## ")[0] ?? "";
+
+/** What a file says it is written in, or null. */
+const declaredLanguage = (text) => /^language:\s*(\S+)/m.exec(text)?.[1] ?? null;
+
+/**
+ * The language a file is written in, resolved the way the canon resolves it.
+ *
+ * File first, then the play beside it. That precedence is the language engine's
+ * own (`resolveLanguageTag`: file -> play -> house), and reading only the file
+ * would charge eighteen personas for inheriting a language they are entitled to
+ * inherit.
+ */
+export function languageOf(text, dir) {
+  const own = declaredLanguage(text);
+  if (own) return own;
+  const play = readdirSync(dir).find((f) => f.startsWith("play_"));
+  return play ? declaredLanguage(readFileSync(join(dir, play), "utf8")) : null;
+}
+
+/** Every tongue a Projection actually LINKS, as written targets. */
+const TONGUE_LINK = /\[[^\]]*\]\(([^()\s]*position_language_[a-z0-9_]+\.md)\)/g;
+
+/**
+ * The one tongue a Projection links, or null when it links none or several.
+ *
+ * Targets and not basenames, because a persona reaches a tongue three ways and
+ * two of them leave the culture: its own directory, a sibling culture's
+ * (`../australia/position_language_en_au.md`, which is how Somare holds Tok
+ * Inglis), and the tongues package by specifier. A first pass resolved basenames
+ * and reported seven tongues the house did not hold; all seven were held, in
+ * sibling directories, and the finding was an artefact of not following the link.
+ */
+export function soleTongue(proj, fromDir) {
+  const targets = [...new Set([...proj.matchAll(TONGUE_LINK)].map((m) => m[1]))];
+  if (targets.length !== 1) return null;
+  const target = targets[0];
+  const path = target.startsWith(TONGUES_SPEC)
+    ? join(WORKSPACE, "packages", "khai-cultures-tongues", target.slice(TONGUES_SPEC.length))
+    : resolve(fromDir, target);
+  if (!existsSync(path)) return null;
+  return { target, language: declaredLanguage(readFileSync(path, "utf8")) };
+}
+
+const TONGUES_SPEC = "@chbrain/khai-cultures-tongues/";
 
 /** What one culture's personas still owe. Every finding blocks. */
 export function wiring(id) {
@@ -111,6 +187,16 @@ export function wiring(id) {
     for (const t of new Set(gripped(proj)))
       if (unacquired.has(t))
         findings.push(`${file}: holds ${t} as a mother tongue, which nobody acquires first`);
+
+    if (!MOTHER.test(proj)) continue;
+    const wrote = languageOf(readFileSync(join(dir, file), "utf8"), dir);
+    if (!wrote) continue;
+    const sole = soleTongue(proj, dir);
+    if (sole && sole.language && sole.language !== wrote)
+      findings.push(
+        `${file}: written in "${wrote}" and holds ${sole.target} as its mother tongue, ` +
+          `which is "${sole.language}"; a persona is written in the tongue they speak`,
+      );
   }
   return findings.sort();
 }
