@@ -18,68 +18,100 @@ three flags on it.
 
 `order_voice_from_inside.md` already holds this for a culture and
 `order_the_written_accent.md` holds it for spelling. This holds it for the person:
-the file that describes someone is written in the language that person thinks in,
-not in the language of the state they live in.
+the file that describes someone is written in the language that person is left
+with, not in the language of the state they live in.
 
-## What "mother tongue" means here, because the word misleads
+## What the engine says it is, because the word misleads and the engine does not use it the way the word does
 
-**It is the one language a persona grew up dominant in.** Not the language their
-mother speaks, and not family heritage. Those are extremely often the same thing,
-and the sameness is not the point - dominance is.
+`@chbrain/khai-engine-language` ships the grip, so it owns the definition, and
+**its definition is neither acquisition nor dominance.**
 
-`united_kingdom/persona_aisha.md` is what the distinction costs. English is
-_"already on her lip before she reaches for it"_ and carries _"every public hour of
-her day"_, and the file wires it `worn`. Her parents' language, which she was
-_"never schooled in"_ and keeps _"for the family table"_, is the heritage. **Read as
-heritage, that wiring looks right. Read as dominance, it is backwards.** Her
-dominant language is English, the file is already written in English, and only the
-grip is wrong.
+`process_speaking_mother_tongue.md` is _"Initiated by: Not need, not task, not the
+room. **Collapse.**"_ - the width _"surfaces when the position can no longer manage
+itself. It was running under the other languages the whole time."_
+`process_thinking_mother_tongue.md` is _"the language the persona returns to when
+effort relaxes"_, and its Direction is the shortest sentence in the engine: _"The
+language is the persona."_
 
-Nearly everyone has exactly one such language, which makes a further thing
-decidable and needs no heuristic at all: a Projection that names grips and never
-names the dominant one has left out the fact the rest of this order stands on.
-**Seven do.**
+**The criterion is what is LEFT.** Not when it was learned, not how much of the day
+it carries. That is a third thing, and it is the one this house keys on, because it
+is the one the grip in the files actually means.
 
-**It is a default, and weaker than it first read here.** A draft of this order
-said two mother tongues was _"possible and very unlikely"_. **That is not what the
-research says.** About half the world is functionally bilingual and the majority of
-those bilinguals are native speakers of _both_ their languages; the native
-bilingual communities of South America, Africa and Asia are places where a
-monolingual norm may not exist at all; and Canada's census recognises more than
-one mother tongue outright, where the languages were learned at the same time and
-are both still understood. In a house of three hundred and nineteen world
-cultures, two is not an exception.
-
-So the rule asks only that the file **say**. Its finding is a prompt to read,
-answered three ways: name the language, or say this persona holds two, or say they
-hold none. What it refuses is silence, which is the one thing a reader cannot
-weigh. A persona who really holds two has no single language their file must be
-written in - their Projection links more than one tongue, so the rule above
-already declines them.
-
-## The fork this house has not decided
+## The fork this house had not decided, and the engine retires it
 
 **"Mother tongue" and "dominant language" are different things**, and the
 literature keeps them apart: L1 is the order of acquisition, mother tongue and
 heritage name family and culture, and dominance names institutions and present
 proficiency. They diverge systematically in one population - heritage speakers,
 who acquire the home language first and then shift, because _"most often their
-language dominance shifts with schooling"_.
+language dominance shifts with schooling"_. That population is not small, and this
+house is full of it.
 
-That population is not small, and this house is full of it.
+This order carried the choice between the two as an open question for the Human.
+**It is not one, because the engine already answers it with neither.** On
+acquisition, `united_kingdom/persona_aisha.md`'s parents' language is her mother
+tongue; on dominance it is English. On the engine's criterion the question is
+_which language is she left with when she can no longer manage_ - and that is a
+reader's call about one person, answerable from her own prose, not a policy the
+house has to fix once for all three hundred and nineteen cultures.
 
-**So the Aisha reading above has a twin.** UNESCO, the UN and Canada all define
-mother tongue by **childhood home acquisition**. On that definition her parents'
-language is her mother tongue, English is her dominant language, and a file naming
-English `worn` describes acquisition correctly. On a dominance definition the
-wiring is backwards, which is what this order claimed without qualification.
+So no counter here settles it, and none should. What the counter asks is only that
+the file **say**.
 
-The rule keys on the grip the engine ships, and that grip is named
-`mother_tongue`, so today it follows the acquisition reading. **Which of the two
-governs "the language the file is written in" is not a counter's call**, and the
-consequences differ sharply: on acquisition, every heritage-speaker persona should
-be written in the home language they may barely write; on dominance, in the
-majority language they actually think in. It is carried below.
+## More than one is admitted, and in two senses
+
+**Nothing in the engine caps the floor at one language.** Every sentence that
+sounds like it does is a _floor_ claim and not a _count_ claim: _"There is no width
+below this. There is no language the persona can think in that sits closer"_ says
+nothing sits lower, and two can be level. The engine's law slides a persona under
+pressure toward _"the width it holds most firmly"_, not toward a unique language.
+
+The research says the same. About half the world is functionally bilingual and the
+majority of those are native speakers of _both_; native bilingual communities
+across South America, Africa and Asia may have no monolingual norm at all; Canada's
+census recognises more than one mother tongue outright. **In a house of three
+hundred and nineteen world cultures, two is not an exception.**
+
+**And there is a second, sharper sense the house had not seen: per channel.** The
+engine's card says _"One channel may sit at a different width than another in the
+same language; widths do not move together"_, and its playwright instructions
+forbid the shortcut outright: _"Do not collapse it to one fluency label; the
+channels are separate loops."_ So a persona can stand at the floor in one language
+for speaking and at the floor in another for writing - **two mother tongues with no
+bilingual childhood at all.** It is the ordinary Swiss case.
+`ch_st_gallen/persona_der_abt.md` speaks Alemannic at the floor and writes _"in
+Dokumenten auf Latein"_ at `polished`.
+
+So the rule asks only that the file **say**, and its finding is a prompt to read,
+answered three ways: name the language, or say this persona holds two, or say they
+hold none. What it refuses is silence, which is the one thing a reader cannot
+weigh. A persona who really holds two has no single language their file must be
+written in - their Projection links more than one tongue, so the rule above already
+declines them.
+
+## Which channel decides the file is not the engine's question
+
+The engine has no opinion about house files. It describes a persona using
+language, not a repository describing a persona.
+
+A draft of this order keyed the written-language rule on the **writing** channel
+alone, reasoning that a persona file is a written object. Measured, that dropped
+the rule's reach from **476 personas to 46** and cleared **three of the four**
+findings the house is holding open - der Abt and the Stickereibaron, who write at
+`polished`, and `switzerland/persona_tell.md`, who carries no writing grip at all
+and whose prose says so: _"er ist in der Mundart geboren und gehört im Geschriebenen
+keinem"_. Only Wullenwever survived it.
+
+**That is a large silent narrowing bought with an inference the engine does not
+make, so it was not taken.** All four findings stand.
+
+What the distinction does change is what a finding **asks for**. Der Abt's fix is
+not Alemannic prose alone: his Projection wires a writing grip with no tongue under
+it, and until that has one, nothing says which language he is written down in. So
+the finding now carries the writing grip when there is one below the floor, and
+fires either way.
+
+## The two shapes a missing mother tongue comes in
 
 They come in two shapes, and only one can be cleared by wiring:
 
@@ -98,11 +130,13 @@ They come in two shapes, and only one can be cleared by wiring:
 | What                                                      | How many                 |
 | --------------------------------------------------------- | ------------------------ |
 | personas carrying a Projection                            | 1,261                    |
-| of those, linking **exactly one** tongue - decidable      | 662                      |
-| linking more than one - **not asked**                     | 588                      |
+| of those, linking **exactly one** tongue - decidable      | 667                      |
+| linking more than one - **not asked**                     | 590                      |
+| of the 667, standing beside a mother grip - **asked**     | 476                      |
+| of those 476, writing at the floor too, not only speaking | 46                       |
 | carrying no `language:` of their own, inheriting the play | 18                       |
 | findings for the wrong written language                   | **4**, across 3 cultures |
-| Projections naming grips and no dominant language         | **7**, across 6 cultures |
+| findings for a Projection naming grips and no floor       | **7**, across 6 cultures |
 
 The four: two in `ch_st_gallen` and `switzerland/persona_tell.md`, written in `de`
 and holding Alemannic as a mother tongue; and
@@ -131,12 +165,12 @@ the mother-tongue process than the mother tongue does.
 Distance is enough for the rule it was built for, which only asks whether a tongue
 is one nobody acquires first and can absorb an occasional mis-pick. It is not
 enough to decide which language a file must be **written in**. So this rule asks
-the 662 personas that link one tongue and declines the 588 that link more, which
+the 667 personas that link one tongue and declines the 590 that link more, which
 belong to the packages' playwright instructions for the same reason
 `persona_wiring.mjs` already gives about a neighbouring question: no check
 separates a persona naming its tongue from a persona describing it.
 
-**The Swiss case is mostly in the 588.** Three are found; most Swiss personas name
+**The Swiss case is mostly in the 590.** Three are found; most Swiss personas name
 their Alemannic alongside the Hochdeutsch they write in, which is the truthful
 thing to say about a Swiss speaker and also the thing that puts them beyond a
 counter.
@@ -185,10 +219,11 @@ found only because the play supplies the `de` its own frontmatter omits.
 ## How it is held
 
 A ratchet, inside `persona_wiring.mjs`, on the cultures a pull request touches -
-the third edge in a file that already holds two. Six findings stand today and the
-house is green, because the ratchet fires on what a change opens. Six personas
-rewritten in an afternoon to clear a counter would be six personas nobody read,
-and two of them are a wiring question and not a prose one.
+the third and fourth edges in a file that already held two. Eleven findings stand
+today across nine cultures and the house is green, because the ratchet fires on
+what a change opens. Eleven personas rewritten in an afternoon to clear a counter
+would be eleven personas nobody read, and several of them are a wiring question
+and not a prose one.
 
 ## What it cannot do
 
@@ -198,7 +233,8 @@ part of that is narrower and is carried as a Target below.
 
 ## Targets
 
-- [x] Measure it: 662 of 1,261 personas decidable, 6 findings across 4 cultures
+- [x] Measure it: 667 of 1,261 personas decidable, 476 asked, 11 findings across 9
+      cultures
 - [x] Establish that the tongue side is already right, so the material exists:
       `gsw` is written in Alemannic
 - [x] Ask only where the Projection links one tongue, after the nearest-tongue
@@ -216,16 +252,30 @@ part of that is narrower and is carried as a Target below.
 - [x] Ask that a persona HAS a dominant language, not only that it is written in
       it. Seven Projections name grips and never name the one that says which
       language the person grew up in, which needs no heuristic to see
-- [ ] **Decide the fork: acquisition or dominance.** They coincide for most
-      personas and diverge for every heritage speaker, and the house is full of
-      them. The engine ships a grip named `mother_tongue` and nothing that marks
-      dominance, so keying on dominance would need an engine change upstream. This
-      is the Human's, and the rest of the campaign waits on it
-- [ ] The seven. `persona_aisha.md` and the others whose dominant language is
-      present under another grip are wiring fixes **if the fork resolves to
-      dominance**, and are correct as they stand if it resolves to acquisition.
+- [x] **The fork, acquisition or dominance: retired by the engine, which answers
+      neither.** `process_speaking_mother_tongue.md` is initiated by _Collapse_ and
+      `process_thinking_mother_tongue.md` is _"the language the persona returns to
+      when effort relaxes"_. The criterion is what is LEFT, which is a reader's call
+      about one person and not a policy the house fixes once. The campaign no longer
+      waits on it
+- [x] **Admit more than one mother tongue**, because the engine caps nothing - every
+      uniqueness-sounding line in it is a floor claim, and two languages can be
+      level - and because about half the world is functionally bilingual. Held as a
+      contract in `house.test.mjs` rather than as a side effect of rule 3 declining
+      multi-tongue links
+- [x] **Refuse to key the written-language rule on the writing channel alone.**
+      Measured at 476 personas asked today against 46 if it keyed on writing, which
+      would have cleared three of the four open findings on an inference the engine
+      does not make. The channel note rides along in the finding instead
+- [ ] The seven. `persona_aisha.md` and the others hold a grip on every channel but
+      the floor, and what is left when she can no longer manage is a question her
+      own prose can answer - it is a read, not a policy.
       `libya/persona_septimius.md` is not: he grew up in Punic, which is extinct
       and unheld, and no wiring clears that
+- [ ] **Der Abt and the Stickereibaron write at `polished` with no tongue under the
+      writing grip.** Two floors on two channels is the ordinary Swiss shape and the
+      engine holds it; the wiring has to name the second tongue before the file can
+      say which language it is written down in
 - [ ] **Bijago is named and not held.** Okinka Pampa is said to think in a tongue
       this house has no file for, which is the fault `an`'s provenance note opened
       about Aragonese and the one that brought Yiddish to light. A rule for it
@@ -235,7 +285,7 @@ part of that is narrower and is carried as a Target below.
       `de_schleswig_holstein/persona_wullenwever.md`: written in the standard,
       speaking the dialect. These are rewrites and each wants a reader - and a
       native one, since nothing in this house can check Alemannic or Low German
-- [ ] The 588 that name more than one tongue. Not a counter's business; the
+- [ ] The 590 that name more than one tongue. Not a counter's business; the
       playwright instructions' queue
 - [ ] **Swiss orthography has no eszett**, which is one decidable difference
       between a Swiss German text and a German one, needing no dictionary and

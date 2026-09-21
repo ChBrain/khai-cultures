@@ -1,4 +1,4 @@
-// Persona wiring: the two edges a script can hold, as a ratchet.
+// Persona wiring: the four edges a script can hold, as a ratchet.
 //
 // A linguistic fact about a person is held by three forces at once. The language
 // engine owns the width of a grip - how well, on which channel - and ships that
@@ -7,7 +7,7 @@
 // only what is true of them and of nobody else holding the same tongue at the
 // same width.
 //
-// Two of those edges are decidable and so belong here rather than in a document:
+// Four of those edges are decidable and so belong here rather than in a document:
 //
 //   1. A grip needs a tongue. A Projection that says how well someone speaks and
 //      never says what, has named a width with nothing under it.
@@ -21,56 +21,71 @@
 //      the only place it is asked. See WHY ONLY ONE, below, which is the whole
 //      care in this rule.
 //
-//   4. A persona HAS a mother tongue. Nearly everyone grew up dominant in one
-//      language, so a Projection that names grips and never names that one has
-//      left out the fact the other three rules stand on.
+//   4. A persona HAS a mother tongue. A Projection that names grips and never
+//      names the language left when the persona can no longer manage has left out
+//      the fact the other three rules stand on.
 //
-// HOW STRONG THAT FOURTH CLAIM IS, AND IT IS WEAKER THAN IT FIRST READ. A draft
-// of this header said two mother tongues was "possible and very unlikely". That
-// is not what the research says. About half the world is functionally bilingual
-// and the majority of those bilinguals are native speakers of BOTH their
-// languages; native bilingual communities across South America, Africa and Asia
-// are places where a monolingual norm may not exist at all; and Canada's census
-// recognises more than one mother tongue outright, where the languages were
-// learned at the same time and are both still understood. In a house of three
-// hundred and nineteen world cultures, two is not an exception.
+// WHAT THE ENGINE SAYS A MOTHER TONGUE IS, BECAUSE THE WORD MISLEADS AND THE
+// ENGINE DOES NOT USE IT THE WAY THE WORD DOES. `@chbrain/khai-engine-language`
+// ships the grip, so it owns the definition, and its definition is neither
+// acquisition nor dominance. `process_speaking_mother_tongue` is "Initiated by:
+// Not need, not task, not the room. Collapse" - the width "surfaces when the
+// position can no longer manage itself. It was running under the other languages
+// the whole time." `process_thinking_mother_tongue` is "the language the persona
+// returns to when effort relaxes". The criterion is what is LEFT, not when it was
+// learned and not how much of the day it carries.
 //
-// So rule 4 asks only that the file SAY. Its finding is a prompt to read, and it
-// is answered three ways: name the language, or say this persona holds two, or
-// say they hold none. What it refuses is silence, which is the one thing a reader
-// cannot weigh. A persona who really holds two has no single language their file
-// must be written in, and rule 3 already declines them - the Projection links
-// more than one tongue, so it is not asked.
+// That matters because this house spent a while trying to decide between the two
+// readings the literature offers - L1 by order of acquisition, versus dominance by
+// institutions and present proficiency - and they diverge for every heritage
+// speaker, of whom this house is full. `united_kingdom/persona_aisha.md` is the
+// case: English is "already on her lip before she reaches for it" and carries
+// "every public hour of her day"; her parents' language she was "never schooled
+// in" and keeps "for the family table". On acquisition her parents' language is
+// the mother tongue; on dominance it is English. On the ENGINE'S criterion the
+// question is a third one and answerable from the prose: which language is she
+// left with when she cannot manage. That is a reader's call about one person, not
+// a policy this house has to fix for all of them, and it is why no counter here
+// tries to settle it.
 //
-// AND THE FORK THIS HOUSE HAS NOT DECIDED. "Mother tongue" and "dominant
-// language" are different things and the literature keeps them apart: L1 is the
-// order of acquisition, mother tongue and heritage name family and culture, and
-// dominance names institutions and present proficiency. They diverge
-// systematically in one population - heritage speakers, who acquire the home
-// language first and then shift, because "most often their language dominance
-// shifts with schooling".
+// AND MORE THAN ONE IS ADMITTED. Nothing in the engine caps the floor at one
+// language. Every sentence that sounds like it does is a FLOOR claim and not a
+// COUNT claim - "There is no width below this. There is no language the persona
+// can think in that sits closer" says nothing sits lower, and two can be level.
+// The law slides a persona under pressure toward "the width it holds most firmly",
+// not toward a unique language. The research agrees: about half the world is
+// functionally bilingual and the majority of those are native speakers of BOTH;
+// native bilingual communities may have no monolingual norm at all; Canada's
+// census recognises more than one mother tongue outright. In a house of three
+// hundred and nineteen world cultures, two is not an exception, and a persona who
+// holds two is not a fault. Rule 3 declines them, because they have no single
+// language their file must be in, and rule 4 accepts "two" as an answer.
 //
-// That is `united_kingdom/persona_aisha.md`, and it means the reading below has a
-// twin. UNESCO, the UN and Canada all define mother tongue by CHILDHOOD HOME
-// ACQUISITION, and on that definition her parents' language is her mother tongue,
-// English is her dominant language, and a file that names English `worn` is
-// describing acquisition correctly. On a dominance definition the wiring is
-// backwards. Rule 3 keys on the grip the engine ships, which is named
-// `mother_tongue`, so it currently follows the first reading - and which of the
-// two governs "the language the file is written in" is not a counter's call. It
-// is carried in order_the_mother_tongue.md as the open question it is.
+// AND MORE THAN ONE AGAIN, IN A SHARPER SENSE: PER CHANNEL. The engine's card
+// says "One channel may sit at a different width than another in the same
+// language; widths do not move together", and its playwright instructions say "Do
+// not collapse it to one fluency label; the channels are separate loops". So a
+// persona can stand at the floor in one language for speaking and at the floor in
+// another for writing, and that is two mother tongues without any bilingual
+// childhood at all. It is the ordinary Swiss case:
+// `ch_st_gallen/persona_der_abt.md` speaks Alemannic at the floor and writes "in
+// Dokumenten auf Latein" at `polished`, and `persona_der_stickereibaron.md` is the
+// same shape.
 //
-// WHAT "MOTHER TONGUE" MEANS HERE, BECAUSE THE WORD MISLEADS. It is the one
-// language a persona grew up dominant in. It is not the language their mother
-// speaks, and it is not family heritage - those are extremely often the same
-// thing and the sameness is not the point.
+// WHICH CHANNEL DECIDES THE FILE IS NOT THE ENGINE'S QUESTION, AND IT IS NOT
+// ANSWERED HERE. The engine has no opinion about house files; it describes a
+// persona using language, not a repository describing a persona. A draft of this
+// rule keyed on the writing channel alone, on the reasoning that a file is a
+// written object, and it dropped rule 3's reach from 476 personas to 46 and
+// cleared three of the four findings the house is holding open. That is a large
+// silent narrowing bought with an inference the engine does not make, so it was
+// not taken.
 //
-// `united_kingdom/persona_aisha.md` is what the distinction costs. English is
-// "already on her lip before she reaches for it" and carries "every public hour
-// of her day", and it is wired `worn`; her parents' language, which she was
-// "never schooled in" and keeps "for the family table", is the heritage. Her
-// dominant language is English and the file says she wears it. Read as heritage,
-// the wiring looks right. Read as dominance, it is backwards.
+// What the distinction does change is what a finding ASKS FOR. Der Abt's fix is
+// not only Alemannic prose: his Projection wires a writing grip with no tongue of
+// its own, and until that has one the file cannot say which language he is written
+// down in. So the finding carries the writing grip when there is one below the
+// floor, and fires either way.
 //
 // THE LANGUAGE IS RESOLVED, NOT READ. Eighteen personas carry no `language:` of
 // their own, and a first draft of rule 3 called that a finding - which would have
@@ -82,7 +97,7 @@
 // asks about the language the file is ACTUALLY written in rather than about the
 // presence of a field.
 //
-// WHY ONLY ONE, AND WHAT IT COST TO LEARN. The first measurement of rule 4 used
+// WHY ONLY ONE, AND WHAT IT COST TO LEARN. The first measurement of rule 3 used
 // `gripped` - the nearest-tongue heuristic rule 2 relies on - and reported 247
 // personas across 120 cultures. That number was almost entirely wrong.
 // `us_california/persona_chloe.md` says in plain words that Californian English is
@@ -91,8 +106,8 @@
 // the mother-tongue process than the mother tongue does. Distance is enough for
 // rule 2, which only asks whether a tongue is one nobody acquires first and can
 // absorb an occasional mis-pick; it is not enough to decide which language a file
-// must be WRITTEN in. So rule 4 declines to guess: 662 personas link one tongue
-// and are asked, 588 link more and are not, and those 588 belong to the packages'
+// must be WRITTEN in. So rule 3 declines to guess: 667 personas link one tongue
+// and are asked, 590 link more and are not, and those 590 belong to the packages'
 // playwright instructions for the same reason the paragraph below gives.
 //
 // Neither rule is typed here. The widths come from the language engine's own
@@ -194,11 +209,12 @@ export function languageOf(text, dir) {
 /** Every tongue a Projection actually LINKS, as written targets. */
 const TONGUE_LINK = /\[[^\]]*\]\(([^()\s]*position_language_[a-z0-9_]+\.md)\)/g;
 
-/** Every grip in a Projection, with which width it is. */
-const GRIP_KIND = /process_(?:speaking|hearing|reading|writing|thinking)_([a-z_]+)\.md/g;
+/** Every grip in a Projection, with its channel and its width, both captured. */
+const GRIP_KIND = /process_(speaking|hearing|reading|writing|thinking)_([a-z_]+)\.md/g;
 
 /**
- * The one tongue a Projection links, or null when it links none or several.
+ * The one tongue a Projection links, the grip it stands beside, and what the
+ * persona's writing channel is doing - or null when nothing is decidable.
  *
  * Targets and not basenames, because a persona reaches a tongue three ways and
  * two of them leave the culture: its own directory, a sibling culture's
@@ -235,17 +251,21 @@ export function soleTongue(proj, fromDir) {
   const end = at + links[0][0].length;
   let mother = Infinity;
   let other = Infinity;
+  // The writing channel is carried out of the same pass, because it changes what
+  // the finding ASKS FOR and not whether it fires. See WHICH CHANNEL in the header.
+  let writes = null;
   for (const g of proj.matchAll(GRIP_KIND)) {
     const d = g.index >= end ? g.index - end : at - (g.index + g[0].length);
-    if (g[1] === "mother_tongue") mother = Math.min(mother, d);
+    if (g[2] === "mother_tongue") mother = Math.min(mother, d);
     else other = Math.min(other, d);
+    if (g[1] === "writing" && g[2] !== "mother_tongue") writes = g[0];
   }
   if (!(mother < other)) return null;
   const path = target.startsWith(TONGUES_SPEC)
     ? join(WORKSPACE, "packages", "khai-cultures-tongues", target.slice(TONGUES_SPEC.length))
     : resolve(fromDir, target);
   if (!existsSync(path)) return null;
-  return { target, language: declaredLanguage(readFileSync(path, "utf8")) };
+  return { target, language: declaredLanguage(readFileSync(path, "utf8")), writes };
 }
 
 const TONGUES_SPEC = "@chbrain/khai-cultures-tongues/";
@@ -272,20 +292,28 @@ export function wiring(id) {
       if (unacquired.has(t))
         findings.push(`${file}: holds ${t} as a mother tongue, which nobody acquires first`);
 
-    // Rule 4, and it needs no heuristic at all: grips, and none of them the one
-    // that says which language this person grew up dominant in.
+    // Rule 4, and it needs no heuristic at all: grips, and none of them the floor.
     //
-    // Two shapes come out of it. `persona_aisha.md` holds her dominant language
-    // under `worn`, which is a wiring fault with the prose already right. And
-    // `libya/persona_septimius.md` grew up in Punic - "لغة أهله ومدينته", carried
-    // as one carries the language of home - which this house does not hold and
-    // cannot, so his file is in Arabic, a language that reached that coast
-    // centuries after he died. The second shape cannot be cleared by wiring. Both
-    // are worth saying out loud, and neither is decided here.
+    // The wording is the engine's, not this house's. `process_speaking_mother_tongue`
+    // is initiated by "Not need, not task, not the room. Collapse", and
+    // `process_thinking_mother_tongue` is "the language the persona returns to when
+    // effort relaxes". So the question a Projection must answer is not when the
+    // persona learned a language or how much of their day it carries - it is what
+    // is left when they can no longer manage. Two languages can both be left, and
+    // the engine nowhere says otherwise.
+    //
+    // Two shapes come out of it. `persona_aisha.md` holds English under `worn`,
+    // which is a wiring fault if the language left at collapse is English and
+    // correct as it stands if it is her parents'. And `libya/persona_septimius.md`
+    // grew up in Punic - "لغة أهله ومدينته", carried as one carries the language of
+    // home - which this house does not hold and cannot, so his file is in Arabic, a
+    // language that reached that coast centuries after he died. The second shape
+    // cannot be cleared by wiring. Both are worth saying out loud, and neither is
+    // decided here.
     if (grips.length && !MOTHER.test(proj)) {
       findings.push(
-        `${file}: grips but no mother tongue; nearly everyone grew up dominant in ` +
-          `one language, so say which - or say that this one holds two, or none`,
+        `${file}: grips but no mother tongue; say which language is left when this ` +
+          `one can no longer manage - or that two are, or that none is`,
       );
       continue;
     }
@@ -296,7 +324,11 @@ export function wiring(id) {
     if (sole && sole.language && sole.language !== wrote)
       findings.push(
         `${file}: written in "${wrote}" and holds ${sole.target} as its mother tongue, ` +
-          `which is "${sole.language}"; a persona is written in the tongue they speak`,
+          `which is "${sole.language}"; a persona is written in the tongue they speak` +
+          // The channels do not move together, so a persona whose writing sits below
+          // the floor needs that wired too, and the reader should not have to open
+          // the file to find out. It changes the fix, never the finding.
+          (sole.writes ? ` (and writes at ${sole.writes}, which wants a tongue of its own)` : ""),
       );
   }
   return findings.sort();

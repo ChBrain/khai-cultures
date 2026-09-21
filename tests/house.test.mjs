@@ -612,6 +612,47 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
     }
   });
 
+  // MORE THAN ONE MOTHER TONGUE IS ADMITTED, AND THAT HAS TO BE A CONTRACT RATHER
+  // THAN A SIDE EFFECT. The language engine caps nothing: every sentence in it
+  // that sounds like uniqueness is a floor claim - "There is no width below this.
+  // There is no language the persona can think in that sits closer" - and two
+  // languages can be level. The research agrees, and about half the world is
+  // functionally bilingual. So a Projection holding two tongues at mother-tongue
+  // width must not be charged by either rule, and this asserts it rather than
+  // leaving it to the fact that rule 3 happens to decline multi-tongue links.
+  it("charges nothing for a persona that holds two mother tongues", () => {
+    const tmp = mkdtempSync(join(tmpdir(), "khai-two-"));
+    writeFileSync(join(tmp, "position_language_xx.md"), "---\nlanguage: xx\n---\n");
+    writeFileSync(join(tmp, "position_language_yy.md"), "---\nlanguage: yy\n---\n");
+    const both =
+      "she [speaks](process_speaking_mother_tongue.md) [xx](position_language_xx.md) " +
+      "and [yy](position_language_yy.md) she also [speaks](process_speaking_mother_tongue.md)";
+    // Rule 3 declines: two floors, so there is no single language the file owes.
+    expect(soleTongue(both, tmp)).toBeNull();
+    // Rule 4 is satisfied: a mother grip is named, which is all it asks.
+    expect(/process_speaking_mother_tongue\.md/.test(both)).toBe(true);
+    rmSync(tmp, { recursive: true, force: true });
+  });
+
+  // AND ONE PERSONA CAN HOLD TWO FLOORS ON TWO CHANNELS, WHICH IS THE ORDINARY
+  // SWISS CASE. The engine's card: "One channel may sit at a different width than
+  // another in the same language; widths do not move together." A persona whose
+  // writing sits below the floor still gets the finding - which channel decides a
+  // house FILE is not the engine's question and is not answered by this rule - but
+  // the finding has to carry the writing grip, because the fix is not prose alone:
+  // der Abt writes "in Dokumenten auf Latein" under a grip with no tongue at all.
+  it("says so in the finding when the writing channel sits below the floor", () => {
+    const tmp = mkdtempSync(join(tmpdir(), "khai-chan-"));
+    writeFileSync(join(tmp, "position_language_xx.md"), "---\nlanguage: xx\n---\n");
+    const spoken =
+      "the [xx](position_language_xx.md) he [speaks](process_speaking_mother_tongue.md)" +
+      " and in documents [writes](process_writing_polished.md) in Latin";
+    expect(soleTongue(spoken, tmp)?.writes).toBe("process_writing_polished.md");
+    const floor = "the [xx](position_language_xx.md) he [writes](process_writing_mother_tongue.md)";
+    expect(soleTongue(floor, tmp)?.writes).toBeNull();
+    rmSync(tmp, { recursive: true, force: true });
+  });
+
   // The findings are meant to move, so the census is not asserted - only that
   // every finding of this class really is one: a resolved language that differs
   // from the one tongue the persona holds as a mother tongue.
