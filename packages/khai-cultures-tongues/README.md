@@ -177,7 +177,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `tr/position_language_tr_cy.md`        | Cypriot Turkish: as written, the anchor's agglutination under an island's name, and flagged as such                                                       | `tr`         |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                                                              | `vmf`        |
 | `wep/position_language_wep.md`         | Westphalian: Low German, with the breaking no other Low German has                                                                                        | `wep`        |
-| `yue/position_language_yue.md`         | Cantonese: the entering tone kept from Middle Chinese, so that Tang verse still scans when read aloud in it                                               | `zh`         |
+| `yue/position_language_yue.md`         | Cantonese: the entering tone kept from Middle Chinese, so that Tang verse still scans when read aloud in it                                               | `yue`        |
 | `zh/position_language_zh.md`           | Chinese: meaning carried by tone and by measure word, and never by a change in the shape of the word itself                                               | `zh`         |
 
 ## Tongues that are not languages
