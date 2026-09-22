@@ -749,6 +749,31 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
   // Asserted over the real tree rather than over a pattern, because the pattern
   // is what was wrong. Both a migrated culture and an umbrella one must come back
   // with plots.
+  // AND IT MUST DO IT WITH NODE BUILTINS ONLY, WHICH IS A CONTRACT THAT WAS ONLY
+  // EVER A COMMENT. The workflow runs the extractor on a fresh clone with no
+  // `npm install` - its own step says so: "No install: the extractor uses node
+  // builtins only, deliberately, so this lane cannot be broken by a registry it
+  // does not need." Nothing enforced it. The first fix for the umbrella blindness
+  // reached for `cultureDir` and `touchedCultures`, which pull in
+  // `@chbrain/khai-tests`, and the lane died with ERR_MODULE_NOT_FOUND on the very
+  // pull request it was meant to read - the one restaging the culture it had
+  // failed to catch.
+  //
+  // Reaching for the house's own resolver is right everywhere else in this
+  // repository and wrong here, which is exactly why it needs a test rather than a
+  // comment.
+  it("builds the passport question with node builtins only", () => {
+    const src = readFileSync(join(here, "plot_line_audit.mjs"), "utf8");
+    const imports = [...src.matchAll(/^import\s[^"']*["']([^"']+)["']/gm)].map((m) => m[1]);
+    expect(imports.length).toBeGreaterThan(0);
+    for (const spec of imports) {
+      expect(
+        spec.startsWith("node:"),
+        `plot_line_audit.mjs imports ${spec}; the audit lane runs with no node_modules`,
+      ).toBe(true);
+    }
+  });
+
   it("builds the passport question for a culture in either home", () => {
     const umbrella = readdirSync(culturesDir, { withFileTypes: true })
       .filter((e) => e.isDirectory())

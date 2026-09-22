@@ -22,11 +22,16 @@
 // Usage:
 //   node tests/plot_line_audit.mjs --base <sha> --head <sha>   # what a PR touches
 //   node tests/plot_line_audit.mjs --culture fr_corsica        # one, by id
+// NODE BUILTINS ONLY, AND THAT IS A CONTRACT AND NOT A PREFERENCE. The workflow
+// runs this on a fresh clone with no `npm install`, so any import that resolves
+// through node_modules takes the lane down. It did: a first fix for the umbrella
+// blindness below reached for `cultureDir` and `touchedCultures`, which pull in
+// `@chbrain/khai-tests`, and the lane died with ERR_MODULE_NOT_FOUND on the very
+// pull request it was meant to read. The invariant was written in a comment above
+// the workflow step and nothing enforced it; `house.test.mjs` now does.
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { join } from "node:path";
-import { cultureDir } from "./culture_sources.mjs";
-import { touchedCultures } from "./company_coverage.mjs";
 
 const argv = process.argv.slice(2);
 const flag = (n) => {
@@ -42,43 +47,64 @@ const chapter = (text, name) => {
 const field = (text, key) => new RegExp(`^${key}:\\s*"?([^"\\n]+)"?`, "m").exec(text)?.[1] ?? "";
 const h1 = (text) => /^# \w+: (.*)$/m.exec(text)?.[1] ?? "";
 
+/** The two homes a culture can live in, as path shapes. */
+const UMBRELLA = "packages/khai-cultures/cultures";
+const MIGRATED = /^packages\/khai-cultures-[^/]+$/;
+
 /**
- * Culture directories a diff touches through their plots or play.
+ * A changed path's culture directory, or null.
  *
- * IT USED TO SEE ONLY THE MIGRATED HALF OF THE HOUSE, WHICH IS THE HALF THAT
- * NEEDS IT LEAST. The pattern here was `packages/khai-cultures-[^/]+/(plot_|play_)`,
- * and a culture still in the umbrella lives at
- * `packages/khai-cultures/cultures/<id>/plot_*.md` - no hyphen suffix, and one
- * path segment deeper. Measured when this was found: 795 plot files across 206
- * umbrella cultures matched nothing, against 748 files across 123 migrated ones
- * that matched. The workflow's own `paths:` filter had the same shape and the
- * same blindness, so the lane never ran on two thirds of the house.
+ * IT USED TO SEE ONLY THE MIGRATED HALF, WHICH IS THE HALF THAT NEEDS IT LEAST.
+ * The pattern was `packages/khai-cultures-[^/]+/(plot_|play_)`, and a culture in
+ * the umbrella sits at `packages/khai-cultures/cultures/<id>/plot_*.md` - no
+ * hyphen suffix, one segment deeper. Measured when found: 795 plot files across
+ * 206 umbrella cultures matched nothing against 748 across 123 migrated ones that
+ * matched, so the lane had never run on two thirds of the house. San Marino,
+ * Hawaii and Andorra were all staged in the umbrella and read by nobody; Andorra
+ * shipped with seven of eleven Cues a state acting.
  *
- * What it cost is exactly what the order predicted it would. San Marino, Hawaii
- * and Andorra were staged in one session, all three in the umbrella, and the
- * second reader that `order_the_passport.md` commissioned because "the one who
- * wrote a plot line is the one who cannot see this in it" never looked at any of
- * them. Andorra shipped with seven of eleven Cues a state acting.
- *
- * So the path shape is no longer written out here. `touchedCultures` maps a path
- * to its culture in either home and `cultureDir` resolves the id back, both of
- * which the house already had.
+ * The house has `cultureDir` for this and it cannot be used here - see the import
+ * note above. So both shapes are written out, and `house.test.mjs` asserts the
+ * extractor returns plots for a real culture in each home, which is the check the
+ * original pattern would have failed.
  */
+function dirOf(path) {
+  const parts = path.split("/");
+  const file = parts[parts.length - 1];
+  if (!/^(plot_|play_)/.test(file)) return null;
+  const dir = parts.slice(0, -1).join("/");
+  if (dir.startsWith(`${UMBRELLA}/`) && parts.length === 5) return dir;
+  if (MIGRATED.test(dir)) return dir;
+  return null;
+}
+
+/** Culture directories a diff touches through their plots or play. */
 function touched(base, head) {
   const out = execFileSync("git", ["diff", "--name-only", `${base}..${head}`], {
     encoding: "utf8",
     cwd: root,
   });
-  const paths = out
-    .split("\n")
-    .map((l) => l.trim())
-    .filter((l) => /\/(plot_|play_)[^/]*\.md$/.test(l));
-  return touchedCultures(paths);
+  const dirs = new Set();
+  for (const line of out.split("\n")) {
+    const d = dirOf(line.trim());
+    if (d) dirs.add(d);
+  }
+  return [...dirs].sort();
 }
 
-function readCulture(id) {
-  const abs = cultureDir(id);
-  if (!abs || !existsSync(abs)) return null;
+/** A culture id resolved to whichever home holds it. */
+function dirFor(id) {
+  const umbrella = join(UMBRELLA, id);
+  if (existsSync(join(root, umbrella))) return umbrella;
+  const migrated = `packages/khai-cultures-${id.replace(/_/g, "-")}`;
+  if (existsSync(join(root, migrated))) return migrated;
+  return null;
+}
+
+function readCulture(dir) {
+  if (!dir) return null;
+  const abs = join(root, dir);
+  if (!existsSync(abs)) return null;
   const files = readdirSync(abs).filter((f) => f.endsWith(".md"));
   const playFile = files.find((f) => f.startsWith("play_"));
   const play = playFile ? readFileSync(join(abs, playFile), "utf8") : "";
@@ -90,7 +116,9 @@ function readCulture(id) {
       return { file: f, title: h1(t), cue: chapter(t, "Cue") };
     });
   return {
-    id,
+    id: dir.startsWith(`${UMBRELLA}/`)
+      ? dir.slice(UMBRELLA.length + 1)
+      : dir.replace("packages/khai-cultures-", "").replace(/-/g, "_"),
     language: field(play, "language") || "unknown",
     declared: field(play, "declared"),
     plots,
@@ -143,9 +171,9 @@ function render(cultures) {
 }
 
 const one = flag("culture");
-const ids = one ? [one] : touched(flag("base") ?? "origin/main", flag("head") ?? "HEAD");
+const dirs = one ? [dirFor(one)] : touched(flag("base") ?? "origin/main", flag("head") ?? "HEAD");
 
-const cultures = ids.map(readCulture).filter((c) => c && c.plots.length);
+const cultures = dirs.map(readCulture).filter((c) => c && c.plots.length);
 if (!cultures.length) {
   console.error("plot-line audit: no culture plot line touched, nothing to ask.");
   process.exit(0);
