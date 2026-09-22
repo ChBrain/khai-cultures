@@ -700,6 +700,41 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
     ).toEqual([]);
   });
 
+  // AND THE THREE RATCHETS MUST AGREE ON WHAT COUNTS AS TOUCHED, WHICH THEY DID
+  // NOT. `company-coverage` and `subnational-conformance` both gate on
+  // `authoredCultures`; `persona-wiring` gated on `touchedCultures`, and the two
+  // answer differently the moment a change edits many packages without authoring
+  // any of them. Adding one tongue that raises the language count bumps the
+  // tongues package's count-derived version and the build rewrites the dependency
+  // range in 119 packages: `touchedCultures` called that 117 touched cultures,
+  // `authoredCultures` called it 0 authored and 117 spared, and the wiring gate
+  // demanded two unrelated personas' mother tongues as the price of adding a
+  // tongue file.
+  //
+  // THIS IS A SOURCE CHECK AND SAYS SO. The selection happens inside each gate,
+  // against a git range, and a first draft of this test asserted
+  // `authoredCultures("HEAD", "HEAD")` was empty - which is true of any repository
+  // in any state and would have passed with the bug still in. What is actually
+  // load-bearing is which function each gate reaches for, so that is what is
+  // asserted.
+  it("gates all three ratchets on what a change authored, not what it touched", () => {
+    const gates = {
+      "persona_wiring.mjs": readFileSync(join(here, "persona_wiring.mjs"), "utf8"),
+      "company_coverage.mjs": readFileSync(join(here, "company_coverage.mjs"), "utf8"),
+      "culture_conformance.mjs": readFileSync(join(here, "culture_conformance.mjs"), "utf8"),
+    };
+    for (const [file, src] of Object.entries(gates)) {
+      const gate = src.slice(src.indexOf("function gate(base, head)"));
+      expect(gate, `${file}: its gate does not ask authoredCultures`).toContain(
+        "authoredCultures(base, head)",
+      );
+      expect(
+        /\btouchedCultures\(/.test(gate.slice(0, gate.indexOf("\nfunction ") + 1 || undefined)),
+        `${file}: its gate still selects cultures with touchedCultures`,
+      ).toBe(false);
+    }
+  });
+
   // The same proof for the other home. Skipped only while there is nothing to
   // prove it on; `tests/migration.test.mjs` holds the synthetic case that runs
   // whether or not a culture has migrated yet.
