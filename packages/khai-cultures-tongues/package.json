@@ -540,6 +540,11 @@
         "parent": "position_language.md"
       },
       {
+        "file": "gsw/position_language_gsw_ch.md",
+        "type": "position",
+        "parent": "gsw/position_language_gsw.md"
+      },
+      {
         "file": "gsw/position_language_gsw_fr.md",
         "type": "position",
         "parent": "gsw/position_language_gsw.md"

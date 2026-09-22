@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **151 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **152 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -131,6 +131,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `gd/position_language_gd.md`           | Scottish Gaelic: possession as a preposition rather than a verb, and no single word for yes                                                               | `gd`         |
 | `gl/position_language_gl.md`           | Galician: an infinitive that inflects for person, so a subordinate clause names its own subject before the verb is finished                               | `gl`         |
 | `gsw/position_language_gsw.md`         | Alemannic: the monophthongs High German lost, across three states                                                                                         | `gsw`        |
+| `gsw/position_language_gsw_ch.md`      | Swiss German: all three Alemannic steps in one country, under a roof nobody is born into                                                                  | `gsw`        |
 | `gsw/position_language_gsw_fr.md`      | Alsatian: the Alemannic variety whose written roof was removed rather than replaced                                                                       | `gsw`        |
 | `hi/position_language_hi.md`           | Hindi: the same speech that, written in another script and under another name, is counted as a second language                                            | `hi`         |
 | `hr/position_language_hr.md`           | Croatian as such, of which Burgenland Croatian will be a variety                                                                                          | `hr`         |
