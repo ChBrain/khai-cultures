@@ -28,8 +28,8 @@ The plots, the historic personas they cast, the places, and the pieces are drawn
 | Subject                    | In this culture                                    | Scope                                                                                               |
 | -------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Polynesian Voyaging        | [plot_01_voyaging.md](plot_01_voyaging.md)         | The settlement of the islands by skilled navigators using double-hulled outrigger canoes.           |
-| Overthrow of the Kingdom   | [plot_02_overthrow.md](plot_02_overthrow.md)       | The 1893 coup d'état by sugar planters and US marines against Queen Liliʻuokalani.                  |
-| Pearl Harbor Attack (1941) | [plot_03_pearl_harbor.md](plot_03_pearl_harbor.md) | The surprise military bombardment that drew the United States into WWII.                            |
+| Overthrow of the Kingdom   | [plot_08_overthrow.md](plot_08_overthrow.md)       | The 1893 coup d'état by sugar planters and US marines against Queen Liliʻuokalani.                  |
+| Pearl Harbor Attack (1941) | [plot_09_pearl_harbor.md](plot_09_pearl_harbor.md) | The surprise military bombardment that drew the United States into WWII.                            |
 | Pearl Harbor Memorial      | [place_pearl_harbor.md](place_pearl_harbor.md)     | The historic military port and national memorial over the sunken USS Arizona.                       |
 | Na Pali Coast              | [place_na_pali.md](place_na_pali.md)               | The secluded coastal valleys on Kauai, representing traditional agricultural and natural isolation. |
 

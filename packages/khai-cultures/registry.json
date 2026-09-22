@@ -37629,21 +37629,69 @@
           "title": "Hawaii"
         },
         {
+          "file": "plot_00_haloa.md",
+          "kind": "plot",
+          "title": "The Elder Sibling",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
           "file": "plot_01_voyaging.md",
           "kind": "plot",
           "title": "Polynesian Voyaging",
           "taxonomy": "play_hawaii.md"
         },
         {
-          "file": "plot_02_overthrow.md",
+          "file": "plot_02_paao.md",
+          "kind": "plot",
+          "title": "Pāʻao Brings the Walled Heiau",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
+          "file": "plot_03_mailikukahi.md",
+          "kind": "plot",
+          "title": "Māʻilikūkahi Divides Oʻahu",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
+          "file": "plot_04_cook_1778.md",
+          "kind": "plot",
+          "title": "The Ships at Waimea",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
+          "file": "plot_05_kamehameha_1795.md",
+          "kind": "plot",
+          "title": "Kamehameha Takes the Islands",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
+          "file": "plot_06_ai_noa_1819.md",
+          "kind": "plot",
+          "title": "The Free Eating",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
+          "file": "plot_07_mahele_1848.md",
+          "kind": "plot",
+          "title": "The Great Māhele",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
+          "file": "plot_08_overthrow.md",
           "kind": "plot",
           "title": "The Overthrow of the Hawaiian Kingdom",
           "taxonomy": "play_hawaii.md"
         },
         {
-          "file": "plot_03_pearl_harbor.md",
+          "file": "plot_09_pearl_harbor.md",
           "kind": "plot",
           "title": "The Attack on Pearl Harbor",
+          "taxonomy": "play_hawaii.md"
+        },
+        {
+          "file": "plot_99_olelo_hawaii.md",
+          "kind": "plot",
+          "title": "The Count of Speakers",
           "taxonomy": "play_hawaii.md"
         },
         {
