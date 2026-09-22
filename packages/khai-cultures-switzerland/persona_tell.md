@@ -2,7 +2,7 @@
 khai: persona
 title: "William Tell"
 declared: "Wilhelm Tell"
-language: de
+language: gsw
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -15,7 +15,7 @@ type: archetype
 
 ## Taxonomy
 
-[der Milizgedanke](position_milizsystem.md)
+[de Milizgedanke](position_milizsystem.md)
 
 ## Owner
 
@@ -23,16 +23,16 @@ type: archetype
 
 ## Projection
 
-Der sagenhafte Freiheitsheld der Innerschweiz, der Armbrustschütze aus Uri. Ob er wirklich lebte, ist offen; was er bedeutet, ist gewiss: der freie Bauer, der sich keinem Vogt beugt. Er [spricht](process_speaking_mother_tongue.md) [den Dialekt](@chbrain/khai-cultures-tongues/gsw/position_language_gsw.md) der Innerschweizer Täler, knapp und trotzig, und er [hört](process_hearing_mother_tongue.md) ihn auch nur dort, in der Mundart von Uri, wo die Sage geboren ist. Doch die Geschichte selbst gehört keiner einzigen Zunge: Welsch und Tessin, Bünden und die Deutschschweiz erzählen sie alle in der eigenen Sprache nach. Er ist in der Mundart geboren und gehört im Geschriebenen keinem; die vier Sprachregionen reichen ihn weiter, jede in ihrem eigenen Wort. Er gehört [der Schweizer Kultur](position_culture_schweizer_kultur.md) an und steht an ihrem Ursprung: der freie Bürger, der sich selbst verteidigt, aus dem der Milizgedanke wächst, auf dem das ganze Land seither ruht.
+De sagehaft Freiheitsheld vo dr Innerschwiiz, de Armbruschtschütz us Uri. Ob er würklich gläbt hät, isch offe; was er bedütet, isch gwüss: de freii Puur, wo sich keim Vogt beugt. Er [redt](process_speaking_mother_tongue.md) [de Dialäkt](@chbrain/khai-cultures-tongues/gsw/position_language_gsw_ch.md) vo de Innerschwiizer Täler, churz und trotzig, und er [ghört](process_hearing_mother_tongue.md) en au nur det, i dr Mundart vo Uri, wo d Sag gebore isch. Aber d Gschicht sälber ghört keinere einzige Zunge: s Welsche und s Tessin, Bünde und d Dütschschwiiz verzellet si alli i dr eigene Sproch nach. Er isch i dr Mundart gebore und ghört im Gschriebne keim; die vier Sprachregione reichet en witer, jedi i ihrem eigene Wort - und s Wort vo dr Dütschschwiiz isch das do, nid das vom Amt. Er ghört zu [dr Schwiizer Kultur](position_culture_schweizer_kultur.md) und staat a ihrem Ursprung: de freii Bürger, wo sich sälber verteidigt, us em de Milizgedanke wachst, uf dem s ganze Land sithär ruet.
 
 ## Action
 
-Im Geist des [Rütlischwurs 1291](plot_03_ruetli_1291.md) verweigert er dem fremden Vogt den Gehorsam, trifft den Apfel und wird zum Sinnbild des [Milizgedankens](position_milizsystem.md): der bewaffnete, freie Bürger, der sein Land selbst verteidigt.
+Im Geischt vom [Rütlischwur 1291](plot_03_ruetli_1291.md) verweigeret er em fremde Vogt de Ghorsam, trifft de Öpfel und wird zum Sinnbild vom [Milizgedanke](position_milizsystem.md): de bewaffnet, freii Bürger, wo sis Land sälber verteidigt.
 
 ## Shadow
 
-Der Mythos vom unbeugsamen Einzelnen kann zur Selbstgerechtigkeit werden und zur Ausrede, sich gegen die Welt abzuschotten und jede Einmischung als Bevormundung zu lesen.
+De Mythos vom unbügsame Einzelne cha zur Sälbstgrächtigkeit werde und zur Uusred, sich gäge d Wält abzschotte und jedi Iimischig als Bevormundig z läse.
 
 ## Tell
 
-Er beugt sich keiner fremden Obrigkeit und greift lieber zur Armbrust, als den Hut eines Vogts zu grüssen.
+Er bügt sich keinere fremde Obrigkeit und griift lieber zur Armbruscht, als dass er em Huet vom ene Vogt grüesst.

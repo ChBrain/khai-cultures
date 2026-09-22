@@ -18,7 +18,10 @@
   "khai": {
     "class": "house",
     "production": "ch_st_gallen",
-    "anchor": "play_sg.md"
+    "anchor": "play_sg.md",
+    "languages": [
+      "gsw"
+    ]
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
