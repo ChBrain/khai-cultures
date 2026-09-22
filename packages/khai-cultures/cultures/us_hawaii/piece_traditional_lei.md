@@ -34,4 +34,4 @@ A circular, hand-woven garland constructed of fresh, fragrant white ginger bloss
 ## Yearbook
 
 - Prepared and documented by historian [Leilani](persona_leilani.md) during archival ceremonies.
-- Diplomatic respect piece featured in the plot [The Overthrow of the Hawaiian Kingdom 1893](plot_02_overthrow.md).
+- Diplomatic respect piece featured in the plot [The Overthrow of the Hawaiian Kingdom 1893](plot_08_overthrow.md).

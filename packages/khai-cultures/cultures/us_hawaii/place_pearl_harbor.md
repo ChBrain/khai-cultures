@@ -25,7 +25,7 @@ The historic military harbor in Oahu, featuring navy ships, active dry docks, an
 
 ## Holds
 
-- the military history in the plot [The Pearl Harbor Attack 1941](plot_03_pearl_harbor.md) : the Pacific bastion.
+- the military history in the plot [The Pearl Harbor Attack 1941](plot_09_pearl_harbor.md) : the Pacific bastion.
 
 ## Offers
 
