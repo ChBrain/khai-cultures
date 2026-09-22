@@ -120,15 +120,16 @@
 // is the tongue's job done twice. It belongs to the packages' playwright
 // instructions, where it is applied while the prose is being written.
 //
-// Held as a ratchet on the cultures a pull request touches, like coverage and
-// sub-national conformance. Touch a culture, leave it wired.
+// Held as a ratchet on the cultures a pull request AUTHORS, like coverage and
+// sub-national conformance. Touch a culture, leave it wired - and a dependency
+// range the build rewrote is not a touch. See the note on `gate` below, which
+// is where this wall used to differ from the two it claims kinship with.
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { join, dirname, resolve } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
-import { execFileSync } from "node:child_process";
-import { cultureIds, touchedCultures } from "./company_coverage.mjs";
-import { cultureUnits, notCultureNote } from "./culture_sources.mjs";
+import { cultureIds } from "./company_coverage.mjs";
+import { cultureUnits, notCultureNote, authoredCultures, relinkNote } from "./culture_sources.mjs";
 import { cultureDir } from "./culture_sources.mjs";
 
 // Two roots, because they are two things. WORKSPACE holds node_modules, where the
@@ -344,33 +345,52 @@ function report() {
 }
 
 function gate(base, head) {
-  const changed = execFileSync("git", ["diff", "--name-only", base, head], {
-    encoding: "utf8",
-    maxBuffer: 32 * 1024 * 1024,
-  })
-    .split("\n")
-    .filter(Boolean);
-  const touched = touchedCultures(changed);
+  // AUTHORED, NOT MERELY TOUCHED, WHICH IS WHAT THE TWO SIBLING RATCHETS ALREADY
+  // DO AND THIS ONE DID NOT.
+  //
+  // The header above says this is held "like coverage and sub-national
+  // conformance". It was not. Both of those ask `authoredCultures`, which knows
+  // the difference between a culture whose prose a pull request wrote and one
+  // whose files it merely moved past; this wall asked `touchedCultures`, which
+  // maps any changed path to its culture and cannot tell the two apart.
+  //
+  // The difference is invisible until something edits many packages without
+  // authoring any of them, and then it is the whole gate. Adding one tongue that
+  // raises the language count bumps the tongues package's count-derived version,
+  // and the build rewrites the dependency range in every package that casts a
+  // variety - 119 of them, none of which asked for it. Measured on that change:
+  // `touchedCultures` answered 117 cultures and `authoredCultures` answered 0
+  // authored and 117 spared. This wall then demanded that two personas' mother
+  // tongues be settled, in cultures the pull request had not opened, as the price
+  // of adding a tongue file - and `company-coverage` and `subnational-conformance`
+  // both correctly reported that no culture had been authored at all.
+  //
+  // Standing debt is not a fault this wall may collect from a version bump. The
+  // ratchet is "touch a culture, leave it wired", and a range bump is not a touch.
+  const { authored, spared } = authoredCultures(base, head);
+  const touched = [...authored.keys()].sort();
+  const note = relinkNote(spared);
   if (!touched.length) {
-    console.log("Persona wiring: no culture touched.");
+    console.log("Persona wiring: no culture authored.");
+    if (note) console.log(note);
     return 0;
   }
-  // A migrated group is a unit and not a culture, and `touchedCultures` maps
-  // paths through `pathCulture`, which answers in units. See
-  // management/orders/order_a_group_is_not_a_culture.md.
+  if (note) console.log(note);
+  // A migrated group is a unit and not a culture, and the answer above is in
+  // units. See management/orders/order_a_group_is_not_a_culture.md.
   const { cultures: charged, notCultures } = cultureUnits(touched);
   const skipped = notCultureNote(notCultures);
   if (skipped) console.log(skipped);
   if (!charged.length) {
-    console.log("Persona wiring: no culture touched.");
+    console.log("Persona wiring: no culture authored.");
     return 0;
   }
   const offenders = charged.map((id) => [id, wiring(id)]).filter(([, f]) => f.length);
   if (!offenders.length) {
-    console.log(`Persona wiring OK: ${charged.length} touched culture(s).`);
+    console.log(`Persona wiring OK: ${charged.length} authored culture(s).`);
     return 0;
   }
-  console.error("::error::Persona wiring: a touched culture must come out wired.");
+  console.error("::error::Persona wiring: an authored culture must come out wired.");
   for (const [id, f] of offenders) for (const line of f) console.error(`  ${id}/${line}`);
   return 1;
 }
