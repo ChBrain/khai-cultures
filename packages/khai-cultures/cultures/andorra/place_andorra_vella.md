@@ -25,7 +25,7 @@ La capital d'Andorra, situada a la confluència de dos rius, a les altures dels 
 
 ## Holds
 
-- govern de la Constitució en el plot [La Constitució de 1993](plot_02_constitution.md): la seu del govern i de les noves institucions democràtiques.
+- govern de la Constitució en el plot [La Constitució de 1993](plot_09_constitution.md): la seu del govern i de les noves institucions democràtiques.
 
 ## Offers
 

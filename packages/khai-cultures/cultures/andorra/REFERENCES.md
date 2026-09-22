@@ -28,8 +28,8 @@ The plots, the historic personas they cast, the places, and the pieces are drawn
 | Subject             | In this culture                                    | Scope                                                                                                  |
 | ------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Pareatges of 1278   | [plot_01_pareatges.md](plot_01_pareatges.md)       | The arbitral decisions defining shared sovereignty between the Bishop of Urgell and the Count of Foix. |
-| 1993 Constitution   | [plot_02_constitution.md](plot_02_constitution.md) | Transformation of Andorra into a parliamentary co-principality, entering the UN.                       |
-| Economic Transition | [plot_03_tourism.md](plot_03_tourism.md)           | 20th-century transition from subsistence pastoralism to duty-free shopping/skiing.                     |
+| 1993 Constitution   | [plot_09_constitution.md](plot_09_constitution.md) | Transformation of Andorra into a parliamentary co-principality, entering the UN.                       |
+| Economic Transition | [plot_08_tourism.md](plot_08_tourism.md)           | 20th-century transition from subsistence pastoralism to duty-free shopping/skiing.                     |
 | Madriu Valley       | [place_madriu.md](place_madriu.md)                 | UNESCO World Heritage site, illustrating Pyrenean pastoral systems and landscape.                      |
 | Grandvalira         | [piece_grandvalira.md](piece_grandvalira.md)       | Largest ski resort in the Pyrenees, representing modern tourism infrastructure.                        |
 
