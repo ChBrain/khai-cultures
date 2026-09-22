@@ -38,6 +38,7 @@ import {
 } from "./persona_wiring.mjs";
 import {
   cultures,
+  cultureDir,
   productions,
   migratedGroups,
   cultureUnits,
@@ -587,6 +588,68 @@ describe("Cultures house: the persona-wiring contract is readable", () => {
     expect(languageOf("---\nkhai: persona\n---\n", tmp)).toBe("de");
     rmSync(join(tmp, "play_x.md"));
     expect(languageOf("---\nkhai: persona\n---\n", tmp)).toBeNull();
+    rmSync(tmp, { recursive: true, force: true });
+  });
+
+  // A mother tongue here is the one language a persona grew up dominant in - not
+  // the language their mother speaks, and not family heritage. Every person has
+  // one, so a Projection with grips and none of them naming it has left out the
+  // fact the other rules stand on. Asserted as a contract over the house: every
+  // finding of this class really is one.
+  it("reports a persona with grips and no dominant language, and only those", () => {
+    const owed = coveredCultureIds().flatMap((id) =>
+      personaWiring(id)
+        .filter((f) => /grips but no mother tongue/.test(f))
+        .map((f) => [id, f.split(":")[0]]),
+    );
+    expect(owed.length).toBeGreaterThan(0);
+    const GRIP = /process_(?:speaking|hearing|reading|writing|thinking)_[a-z_]+\.md/;
+    const MOTHER = /process_(?:speaking|hearing|reading|writing|thinking)_mother_tongue\.md/;
+    for (const [id, file] of owed) {
+      const proj = personaProjection(readFileSync(join(cultureDir(id), file), "utf8"));
+      expect(GRIP.test(proj), `${id}/${file} has no grip at all`).toBe(true);
+      expect(MOTHER.test(proj), `${id}/${file} does name a mother tongue`).toBe(false);
+    }
+  });
+
+  // MORE THAN ONE MOTHER TONGUE IS ADMITTED, AND THAT HAS TO BE A CONTRACT RATHER
+  // THAN A SIDE EFFECT. The language engine caps nothing: every sentence in it
+  // that sounds like uniqueness is a floor claim - "There is no width below this.
+  // There is no language the persona can think in that sits closer" - and two
+  // languages can be level. The research agrees, and about half the world is
+  // functionally bilingual. So a Projection holding two tongues at mother-tongue
+  // width must not be charged by either rule, and this asserts it rather than
+  // leaving it to the fact that rule 3 happens to decline multi-tongue links.
+  it("charges nothing for a persona that holds two mother tongues", () => {
+    const tmp = mkdtempSync(join(tmpdir(), "khai-two-"));
+    writeFileSync(join(tmp, "position_language_xx.md"), "---\nlanguage: xx\n---\n");
+    writeFileSync(join(tmp, "position_language_yy.md"), "---\nlanguage: yy\n---\n");
+    const both =
+      "she [speaks](process_speaking_mother_tongue.md) [xx](position_language_xx.md) " +
+      "and [yy](position_language_yy.md) she also [speaks](process_speaking_mother_tongue.md)";
+    // Rule 3 declines: two floors, so there is no single language the file owes.
+    expect(soleTongue(both, tmp)).toBeNull();
+    // Rule 4 is satisfied: a mother grip is named, which is all it asks.
+    expect(/process_speaking_mother_tongue\.md/.test(both)).toBe(true);
+    rmSync(tmp, { recursive: true, force: true });
+  });
+
+  // AND ONE PERSONA CAN HOLD TWO FLOORS ON TWO CHANNELS, WHICH IS THE ORDINARY
+  // SWISS CASE. The engine's card: "One channel may sit at a different width than
+  // another in the same language; widths do not move together." A persona whose
+  // writing sits below the floor still gets the finding - which channel decides a
+  // house FILE is not the engine's question and is not answered by this rule - but
+  // the finding has to carry the writing grip, because the fix is not prose alone:
+  // der Abt writes "in Dokumenten auf Latein" under a grip with no tongue at all.
+  it("says so in the finding when the writing channel sits below the floor", () => {
+    const tmp = mkdtempSync(join(tmpdir(), "khai-chan-"));
+    writeFileSync(join(tmp, "position_language_xx.md"), "---\nlanguage: xx\n---\n");
+    const spoken =
+      "the [xx](position_language_xx.md) he [speaks](process_speaking_mother_tongue.md)" +
+      " and in documents [writes](process_writing_polished.md) in Latin";
+    expect(soleTongue(spoken, tmp)?.writes).toBe("process_writing_polished.md");
+    const floor = "the [xx](position_language_xx.md) he [writes](process_writing_mother_tongue.md)";
+    expect(soleTongue(floor, tmp)?.writes).toBeNull();
     rmSync(tmp, { recursive: true, force: true });
   });
 
