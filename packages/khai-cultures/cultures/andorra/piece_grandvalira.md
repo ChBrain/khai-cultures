@@ -34,4 +34,4 @@ Una gran xarxa de remuntadors, telefèrics, pistes d'esquí abalisades i hotels 
 ## Yearbook
 
 - El lloc on [Laia](persona_laia.md) ensenya esquí durant els mesos d'hivern.
-- Creat a partir del desenvolupament econòmic recollit en el plot [El boom comercial i turístic 1950](plot_03_tourism.md).
+- Creat a partir del desenvolupament econòmic recollit en el plot [El boom comercial i turístic 1950](plot_08_tourism.md).

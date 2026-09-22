@@ -1,0 +1,44 @@
+---
+khai: plot
+title: "All But One"
+declared: "totes les valls menys una, 1659"
+license: CC-BY-NC-SA-4.0
+stamp:
+  owner: KAI HACKS AI
+  version: v0.0.1
+  date: "2026-09-22"
+---
+
+# Plot: totes les valls menys una, 1659
+
+## Taxonomy
+
+[play_andorra](play_andorra.md)
+
+## Owner
+
+- Project: khai-cultures
+
+## Cue
+
+El 7 de novembre de 1659, França i Espanya signen el Tractat dels Pirineus i fixen la frontera a la serralada. Les valls pirinenques es reparteixen entre els dos estats. Totes menys una.
+
+## Action
+
+Andorra no hi surt guanyant res ni hi perd res, i això és precisament el que passa. Mentre al Rosselló i a la Cerdanya es tallen comarques pel mig i queden pobles a l'altra banda d'una línia nova, aquí no es mou res. Les valls no es reparteixen perquè ja estaven repartides des de 1278, i perquè cap dels dos estats no en treu prou per discutir-ho amb l'altre.
+
+L'efecte, però, no és cap: **el que el 1659 canvia és què són els dos coprínceps.** Fins ara eren dos senyors feudals en un mateix món cristià, un bisbe i un comte, competint per una jurisdicció. A partir d'ara, el que hi ha a banda i banda de la muntanya són dos estats sobirans amb una frontera al mig, i Andorra es troba amb un cap d'estat a cada costat d'aquella frontera.
+
+> El mecanisme que salva Andorra no és tenir dos senyors. És tenir-los en dos països que no es fien l'un de l'altre.
+
+És aquí que la raresa deixa de ser una herència medieval i es converteix en una posició geopolítica. Tot el que ve després - la petició a Napoleó, la neutralitat escrita al Manual, els gendarmes de 1933, la sobirania de 1993 - es juga sobre aquesta línia. El país no és neutral per virtut: és neutral perquè està a cavall d'una frontera que ningú no vol tocar.
+
+## Stage
+
+- [el coprincipat](position_coprincipat.md): la institució que passa de ser un pacte entre senyors a ser un peu a cada estat.
+- [el Pirineu](position_pirineu.md): la serralada en el moment que deixa de ser un lloc i es converteix en una frontera internacional.
+- [la cultura andorrana](position_culture_cultura_andorrana.md): la pertinença que queda sencera perquè no valia prou la pena partir-la.
+
+## Tension
+
+La sort d'un territori prou pobre i prou petit per no entrar en un repartiment que va trossejar tots els seus veïns, i la posició immillorable que això li deixa. I la fragilitat que hi va unida: Andorra existeix perquè dos estats grans en tenen prou amb l'equilibri, i no per cap dret que pugui invocar contra ells si algun dia deixen de tenir-n'hi prou.

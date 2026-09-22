@@ -490,21 +490,69 @@
           "title": "Andorra"
         },
         {
+          "file": "plot_00_els_prats_comunals.md",
+          "kind": "plot",
+          "title": "The Common Pastures",
+          "taxonomy": "play_andorra.md"
+        },
+        {
           "file": "plot_01_pareatges.md",
           "kind": "plot",
           "title": "The Pareatges of 1278",
           "taxonomy": "play_andorra.md"
         },
         {
-          "file": "plot_02_constitution.md",
+          "file": "plot_02_consell_de_la_terra.md",
+          "kind": "plot",
+          "title": "The Council of the Land",
+          "taxonomy": "play_andorra.md"
+        },
+        {
+          "file": "plot_03_totes_menys_una.md",
+          "kind": "plot",
+          "title": "All But One",
+          "taxonomy": "play_andorra.md"
+        },
+        {
+          "file": "plot_04_manual_digest.md",
+          "kind": "plot",
+          "title": "The Manual Digest",
+          "taxonomy": "play_andorra.md"
+        },
+        {
+          "file": "plot_05_napoleo_restaura.md",
+          "kind": "plot",
+          "title": "Napoleon Restores the Co-Principality",
+          "taxonomy": "play_andorra.md"
+        },
+        {
+          "file": "plot_06_nova_reforma.md",
+          "kind": "plot",
+          "title": "The New Reform",
+          "taxonomy": "play_andorra.md"
+        },
+        {
+          "file": "plot_07_revolucio_1933.md",
+          "kind": "plot",
+          "title": "The Revolution of 1933",
+          "taxonomy": "play_andorra.md"
+        },
+        {
+          "file": "plot_08_tourism.md",
+          "kind": "plot",
+          "title": "The Commercial and Tourist Boom",
+          "taxonomy": "play_andorra.md"
+        },
+        {
+          "file": "plot_09_constitution.md",
           "kind": "plot",
           "title": "The Constitution of 1993",
           "taxonomy": "play_andorra.md"
         },
         {
-          "file": "plot_03_tourism.md",
+          "file": "plot_99_l_habitatge.md",
           "kind": "plot",
-          "title": "The Commercial and Tourist Boom",
+          "title": "The Housing Demonstration",
           "taxonomy": "play_andorra.md"
         },
         {
