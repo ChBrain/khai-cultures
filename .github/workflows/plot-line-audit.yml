@@ -43,8 +43,17 @@ name: plot-line-audit
 on:
   pull_request:
     paths:
+      # Both homes. A migrated culture is `packages/khai-cultures-<id>/`; one
+      # still in the umbrella is `packages/khai-cultures/cultures/<id>/`, which
+      # the first two patterns cannot match - no hyphen suffix, one segment
+      # deeper. Measured when that was found: 795 plot files across 206 umbrella
+      # cultures matched nothing against 748 across 123 migrated ones, so this
+      # lane had never run on two thirds of the house, including the three
+      # cultures whose staging prompted it.
       - "packages/khai-cultures-*/plot_*.md"
       - "packages/khai-cultures-*/play_*.md"
+      - "packages/khai-cultures/cultures/*/plot_*.md"
+      - "packages/khai-cultures/cultures/*/play_*.md"
 
 permissions:
   contents: read

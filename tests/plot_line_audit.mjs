@@ -24,7 +24,9 @@
 //   node tests/plot_line_audit.mjs --culture fr_corsica        # one, by id
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
-import { join, basename } from "node:path";
+import { join } from "node:path";
+import { cultureDir } from "./culture_sources.mjs";
+import { touchedCultures } from "./company_coverage.mjs";
 
 const argv = process.argv.slice(2);
 const flag = (n) => {
@@ -40,23 +42,43 @@ const chapter = (text, name) => {
 const field = (text, key) => new RegExp(`^${key}:\\s*"?([^"\\n]+)"?`, "m").exec(text)?.[1] ?? "";
 const h1 = (text) => /^# \w+: (.*)$/m.exec(text)?.[1] ?? "";
 
-/** Culture package directories a diff touches through their plots or play. */
+/**
+ * Culture directories a diff touches through their plots or play.
+ *
+ * IT USED TO SEE ONLY THE MIGRATED HALF OF THE HOUSE, WHICH IS THE HALF THAT
+ * NEEDS IT LEAST. The pattern here was `packages/khai-cultures-[^/]+/(plot_|play_)`,
+ * and a culture still in the umbrella lives at
+ * `packages/khai-cultures/cultures/<id>/plot_*.md` - no hyphen suffix, and one
+ * path segment deeper. Measured when this was found: 795 plot files across 206
+ * umbrella cultures matched nothing, against 748 files across 123 migrated ones
+ * that matched. The workflow's own `paths:` filter had the same shape and the
+ * same blindness, so the lane never ran on two thirds of the house.
+ *
+ * What it cost is exactly what the order predicted it would. San Marino, Hawaii
+ * and Andorra were staged in one session, all three in the umbrella, and the
+ * second reader that `order_the_passport.md` commissioned because "the one who
+ * wrote a plot line is the one who cannot see this in it" never looked at any of
+ * them. Andorra shipped with seven of eleven Cues a state acting.
+ *
+ * So the path shape is no longer written out here. `touchedCultures` maps a path
+ * to its culture in either home and `cultureDir` resolves the id back, both of
+ * which the house already had.
+ */
 function touched(base, head) {
   const out = execFileSync("git", ["diff", "--name-only", `${base}..${head}`], {
     encoding: "utf8",
     cwd: root,
   });
-  const dirs = new Set();
-  for (const line of out.split("\n")) {
-    const m = /^(packages\/khai-cultures-[^/]+)\/(plot_|play_)/.exec(line.trim());
-    if (m) dirs.add(m[1]);
-  }
-  return [...dirs].sort();
+  const paths = out
+    .split("\n")
+    .map((l) => l.trim())
+    .filter((l) => /\/(plot_|play_)[^/]*\.md$/.test(l));
+  return touchedCultures(paths);
 }
 
-function readCulture(dir) {
-  const abs = join(root, dir);
-  if (!existsSync(abs)) return null;
+function readCulture(id) {
+  const abs = cultureDir(id);
+  if (!abs || !existsSync(abs)) return null;
   const files = readdirSync(abs).filter((f) => f.endsWith(".md"));
   const playFile = files.find((f) => f.startsWith("play_"));
   const play = playFile ? readFileSync(join(abs, playFile), "utf8") : "";
@@ -68,7 +90,7 @@ function readCulture(dir) {
       return { file: f, title: h1(t), cue: chapter(t, "Cue") };
     });
   return {
-    id: basename(dir).replace("khai-cultures-", ""),
+    id,
     language: field(play, "language") || "unknown",
     declared: field(play, "declared"),
     plots,
@@ -121,11 +143,9 @@ function render(cultures) {
 }
 
 const one = flag("culture");
-const dirs = one
-  ? [`packages/khai-cultures-${one.replace(/_/g, "-")}`]
-  : touched(flag("base") ?? "origin/main", flag("head") ?? "HEAD");
+const ids = one ? [one] : touched(flag("base") ?? "origin/main", flag("head") ?? "HEAD");
 
-const cultures = dirs.map(readCulture).filter((c) => c && c.plots.length);
+const cultures = ids.map(readCulture).filter((c) => c && c.plots.length);
 if (!cultures.length) {
   console.error("plot-line audit: no culture plot line touched, nothing to ask.");
   process.exit(0);

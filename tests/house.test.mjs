@@ -3,6 +3,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { readFileSync, readdirSync, existsSync, mkdtempSync, writeFileSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
+import { execFileSync } from "node:child_process";
 import {
   validateProject,
   verifyGatesAgainstCi,
@@ -732,6 +733,43 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
         /\btouchedCultures\(/.test(gate.slice(0, gate.indexOf("\nfunction ") + 1 || undefined)),
         `${file}: its gate still selects cultures with touchedCultures`,
       ).toBe(false);
+    }
+  });
+
+  // AND THE AUDIT LANE MUST REACH BOTH HOMES, WHICH IT DID NOT.
+  // `order_the_passport.md` commissioned a second reader because "the one who
+  // wrote a plot line is the one who cannot see this in it". Its extractor
+  // matched `packages/khai-cultures-<id>/(plot_|play_)` and its workflow filtered
+  // the same shape, so a culture still in the umbrella - one segment deeper and
+  // with no hyphen suffix - matched neither. Measured when found: 795 plot files
+  // across 206 umbrella cultures unseen, against 748 across 123 migrated ones
+  // seen. San Marino, Hawaii and Andorra were all staged in the umbrella and the
+  // lane read none of them; Andorra shipped with seven of eleven Cues a state.
+  //
+  // Asserted over the real tree rather than over a pattern, because the pattern
+  // is what was wrong. Both a migrated culture and an umbrella one must come back
+  // with plots.
+  it("builds the passport question for a culture in either home", () => {
+    const umbrella = readdirSync(culturesDir, { withFileTypes: true })
+      .filter((e) => e.isDirectory())
+      .map((e) => e.name)
+      .find((id) => readdirSync(join(culturesDir, id)).some((f) => f.startsWith("plot_")));
+    const migrated = productions().find((p) =>
+      readdirSync(p.dir).some((f) => f.startsWith("plot_")),
+    )?.id;
+    for (const [home, id] of [
+      ["umbrella", umbrella],
+      ["migrated", migrated],
+    ]) {
+      if (!id) continue;
+      const out = execFileSync("node", [join(here, "plot_line_audit.mjs"), "--culture", id], {
+        encoding: "utf8",
+        cwd: join(here, ".."),
+      });
+      expect(
+        (out.match(/^### plot_/gm) ?? []).length,
+        `the audit lane read no plots for ${home} culture ${id}`,
+      ).toBeGreaterThan(0);
     }
   });
 
