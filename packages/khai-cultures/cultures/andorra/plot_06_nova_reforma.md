@@ -21,13 +21,13 @@ stamp:
 
 ## Cue
 
-El 22 d'abril de 1866, el coprincep episcopal Josep Caixal i Estradé decreta la Nova Reforma, impulsada per Guillem d'Areny-Plandolit. El vot deixa de ser només dels caps de casa i s'estén a tots els homes caps de família.
+Hi ha andorrans que paguen, treballen i no seuen enlloc. No encapçalen cap de les cases que ocupen el Consell de pares a fills, i per tant no compten. El 1866, empesa per Guillem d'Areny-Plandolit, la Nova Reforma estén el vot a tots els homes caps de família.
 
 ## Action
 
 És la primera vegada que l'edifici de 1419 es toca per dins. Durant quatre segles i mig el Consell havia representat cases; ara comença a representar, encara que sigui a mitges, persones.
 
-El conflicte no és entre Andorra i els seus senyors sinó entre andorrans. Les cases fortes, que havien ocupat el Consell de pares a fills, no hi guanyen res; qui empeny és una part del país que paga, treballa i no seu. Que la reforma la decreti un coprincep és el detall revelador: **per canviar el repartiment intern del poder calia anar a buscar l'autoritat de fora que el garantia.**
+El conflicte no és entre Andorra i els seus senyors sinó entre andorrans: les cases fortes, que havien ocupat el Consell de pares a fills, no hi guanyen res. Que la reforma s'acabi decretant des del coprincipat és el detall revelador: **per moure el repartiment intern del poder calia anar a buscar l'autoritat de fora que el garantia.**
 
 > L'antiguitat de la institució, que havia estat la defensa del país davant dels forasters, era ara el principal argument dels de dins per no cedir.
 
