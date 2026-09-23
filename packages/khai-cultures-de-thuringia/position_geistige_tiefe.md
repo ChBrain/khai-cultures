@@ -34,4 +34,4 @@ An Bedeutung, wenn Bildungskürzungen die Kulturpflege erschweren oder Konsum da
 
 ## Drives
 
-Wird gefördert im Plot [Die Weimarer Klassik ab 1775](plot_01_weimar_classic_1775.md) und lenkt das Traditionsbewusstsein im Glasbläserhandwerk.
+Beginnt im Plot [Luthers Bibelübersetzung auf der Wartburg 1521](plot_02_luthers_bibel_1521.md) als Sprachsache, wird im Plot [Die Weimarer Klassik ab 1775](plot_04_goethe_in_weimar_1775.md) zur Dichtung und steht im Plot [die Dicke Eiche, 1937](plot_08_die_dicke_eiche_1937.md) als Erbe da, das nicht geschützt hat.

@@ -25,7 +25,8 @@ Das Jenaer Saaletal, die Universitätsstadt Jena eingebettet in ein enges Tal, u
 
 ## Holds
 
-- die optische Industrie- und Wissenschaftsentwicklung im Plot [Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md) : das wissenschaftliche Herz Thüringens.
+- die Stiftung, nach der die Stadt gebaut ist, im Plot [das Stiftungsstatut, 1896](plot_06_das_stiftungsstatut_1896.md) : Werk, Hochschule und Ruhegeld aus einer Kasse.
+- die Zerlegung und das, was sie überdauert, im Plot [Die Wiedererrichtung des Freistaats 1990](plot_09_der_freistaat_1990.md) : das Können bleibt, das Kombinat nicht.
 
 ## Offers
 

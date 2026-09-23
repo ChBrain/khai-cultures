@@ -25,7 +25,7 @@ Die Wartburg bei Eisenach, eine geschichtsträchtige Höhenburg auf einem Felspl
 
 ## Holds
 
-- die religiöse Zuflucht und Sprachgestaltung im Plot [Luthers Bibelübersetzung auf der Wartburg 1521](plot_02_wartburg_translation_1521.md) : das Symbol protestantischen Erbes.
+- die religiöse Zuflucht und Sprachgestaltung im Plot [Luthers Bibelübersetzung auf der Wartburg 1521](plot_02_luthers_bibel_1521.md) : das Symbol protestantischen Erbes.
 
 ## Offers
 

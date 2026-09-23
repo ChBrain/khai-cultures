@@ -34,4 +34,5 @@ Eine mittelfeine, ca. 15-20 cm lange Grillwurst im Naturdarm, gewürzt mit Kümm
 ## Yearbook
 
 - Genossen von [Dieter](persona_dieter.md) und Maria bei jedem regionalen Grillfest.
-- Symbol des gesellschaftlichen Beisammenseins im Plot [Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md).
+- Zuerst aktenkundig im Plot [Därme zu Bratwürsten, 1404](plot_01_die_rostbratwurst_1404.md), als Ausgabe für Gedärm.
+- Symbol des gesellschaftlichen Beisammenseins im Plot [Die Wiedererrichtung des Freistaats 1990](plot_09_der_freistaat_1990.md).

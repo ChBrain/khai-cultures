@@ -36,6 +36,10 @@ Eine echte Thüringer Rostbratwurst verteidigt man hier leidenschaftlicher als m
 
 - [die Wartburg](place_wartburg.md)
 - [das Jenaer Saaletal](place_jena_valley.md)
+- [der Rennsteig](place_rennsteig.md)
+- [Lauscha](place_lauscha.md)
+- [Weimar](place_weimar.md)
+- [der Ettersberg](place_ettersberg.md)
 
 **Processes**
 
@@ -64,17 +68,49 @@ Eine echte Thüringer Rostbratwurst verteidigt man hier leidenschaftlicher als m
 
 ## Triggers
 
-**[Plot 1: Die Weimarer Klassik ab 1775](plot_01_weimar_classic_1775.md)**
+**[Plot 0: der Kamm](plot_00_der_kamm.md)**
 
-Johann Wolfgang von Goethe trifft in Weimar ein und begründet gemeinsam mit Friedrich Schiller eine Epoche literarischer und philosophischer Blüte.
+Vor jeder Grenze liegt der bewaldete Rücken quer durch das Land: Holz, Sand und Wasser und kein Korn, das satt macht. Jedes Gewerbe dieses Landes ist eine Antwort darauf.
 
-**[Plot 2: Luthers Bibelübersetzung auf der Wartburg 1521](plot_02_wartburg_translation_1521.md)**
+**[Plot 1: Därme zu Bratwürsten, 1404](plot_01_die_rostbratwurst_1404.md)**
 
-Martin Luther übersetzt auf der Wartburg das Neue Testament in elf Wochen ins Deutsche und prägt damit die deutsche Schriftsprache.
+Ein Arnstädter Propst verbucht einen Groschen für Därme zu Bratwürsten. Das älteste Zeugnis der Thüringer Rostbratwurst ist ein Ausgabenposten, und der Streit um die Zutaten ist fast genauso alt.
 
-**[Plot 3: Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md)**
+**[Plot 2: Luthers Bibelübersetzung auf der Wartburg 1521](plot_02_luthers_bibel_1521.md)**
 
-Im Zuge der deutschen Wiedervereinigung wird der Freistaat Thüringen am 14. Oktober 1990 aus den drei ehemaligen DDR-Bezirken neu gebildet.
+Ein Geächteter übersetzt in elf Wochen das Neue Testament und legt dabei das Deutsch an, in dem später alle schreiben, auch die, deren Mundart es verdrängt.
+
+**[Plot 3: die Glashütte im Lauschetal, 1597](plot_03_die_glashuette_lauscha_1597.md)**
+
+Zwei Glasmacher wählen ein Tal nach Holz, Sand und Wasser aus. Daraus wird ein Ort, der eine einzige Sache kann und keinen zweiten Plan hat.
+
+**[Plot 4: Die Weimarer Klassik ab 1775](plot_04_goethe_in_weimar_1775.md)**
+
+Ein Herzogtum ohne Gewicht steckt sein Kapital in Dichter, und die Wette geht auf, zwei Tagesmärsche von der Armut entfernt, die sie nicht aufnimmt.
+
+**[Plot 5: die erste Kugel, 1847](plot_05_die_erste_kugel_1847.md)**
+
+Aus derselben Flamme kommt das erste Ding ohne Zweck. Lauscha erfindet nicht den Weihnachtsbaum, sondern das, woran man ihn erkennt, und hängt seinen Wohlstand an fremde Feiertage.
+
+**[Plot 6: das Stiftungsstatut, 1896](plot_06_das_stiftungsstatut_1896.md)**
+
+Ernst Abbe schreibt hundertzweiundzwanzig Paragrafen und enterbt sich selbst. Ruhegeld, Urlaub und Achtstundentag stehen danach nicht im Ermessen eines Eigentümers, weil es keinen mehr gibt.
+
+**[Plot 7: das Bauhaus in Weimar, 1919](plot_07_das_bauhaus_weimar_1919.md)**
+
+Weimar bringt die Moderne hervor, weil es Weimar ist, und wählt sie sechs Jahre später ab. Der Landtag halbiert den Etat, die Meister gehen nach Dessau.
+
+**[Plot 8: die Dicke Eiche, 1937](plot_08_die_dicke_eiche_1937.md)**
+
+Die SS lässt den Buchenwald über Weimar roden und einen Baum stehen, weil Goethe unter ihm gesessen haben soll. Acht Kilometer bergab steht sein Haus.
+
+**[Plot 9: Die Wiedererrichtung des Freistaats 1990](plot_09_der_freistaat_1990.md)**
+
+Das Land bekommt seinen Umriss zurück, während das Kombinat zerlegt wird. Was die Abwicklung überlebt, ist nicht das Werk, sondern das Können.
+
+**[Plot 99: die Fichte geht](plot_99_die_fichte_geht.md)**
+
+Der Stand, nicht die Vorhersage: Dürre und Borkenkäfer nehmen die Fichte vom Kamm. Was eingeht, ist keine Urlandschaft, sondern die Pflanzung, mit der man den ersten Wald ersetzt hat.
 
 ## Stakes
 

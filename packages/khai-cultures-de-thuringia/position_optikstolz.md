@@ -34,4 +34,4 @@ An Geltung, wenn die Konkurrenz durch asiatische Massenhersteller thüringische 
 
 ## Drives
 
-Lenkt die Forschungsarbeit der Optikingenieure und treibt die Entwicklung im Plot [Die Wiedererrichtung des Freistaats 1990](plot_03_reunification_1990.md) voran.
+Wird im Plot [das Stiftungsstatut, 1896](plot_06_das_stiftungsstatut_1896.md) zu mehr als Präzision, weil dort geregelt wird, wem der Ertrag gehört, und trägt im Plot [Die Wiedererrichtung des Freistaats 1990](plot_09_der_freistaat_1990.md) als einziges Kapital durch die Abwicklung.
