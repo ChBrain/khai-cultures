@@ -203,4 +203,12 @@ being skipped.
       and never asked. `--post301 --post302 --post303`, and the hop count and
       final URL are read out, because the first fix could say what came back
       and not where from
+- [x] Check whether anything was listening, which should have come first: with
+      the redirect gone the endpoint answers the POST directly, HTTP 200 after
+      0 redirects, body `OK`. GitHub retired GitHub Models on 30 July 2026, the
+      whole of it, about eight weeks before this lane first ran. Three fixes
+      went into the call before that was checked, and all three were real bugs
+      in a call that could never have been answered. The lane ships unwired now
+      and says so; the question it posts is the working mode, and a person is
+      the strongest reader "not the author" allows
 - [ ] Ask it of cultures as they are touched, never as a sweep
