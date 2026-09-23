@@ -11471,14 +11471,34 @@
           "taxonomy": "play_thuringia.md"
         },
         {
+          "file": "place_ettersberg.md",
+          "kind": "place",
+          "title": "The Ettersberg"
+        },
+        {
           "file": "place_jena_valley.md",
           "kind": "place",
           "title": "Jenaer Saaletal"
         },
         {
+          "file": "place_lauscha.md",
+          "kind": "place",
+          "title": "Lauscha"
+        },
+        {
+          "file": "place_rennsteig.md",
+          "kind": "place",
+          "title": "The Rennsteig"
+        },
+        {
           "file": "place_wartburg.md",
           "kind": "place",
           "title": "Eisenach Wartburg"
+        },
+        {
+          "file": "place_weimar.md",
+          "kind": "place",
+          "title": "Weimar"
         },
         {
           "file": "plan_optikforschung.md",
@@ -11491,21 +11511,69 @@
           "title": "Thüringen"
         },
         {
-          "file": "plot_01_weimar_classic_1775.md",
+          "file": "plot_00_der_kamm.md",
           "kind": "plot",
-          "title": "Weimar Classicism",
+          "title": "The Ridge",
           "taxonomy": "play_thuringia.md"
         },
         {
-          "file": "plot_02_wartburg_translation_1521.md",
+          "file": "plot_01_die_rostbratwurst_1404.md",
+          "kind": "plot",
+          "title": "Casings for Bratwurst",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_02_luthers_bibel_1521.md",
           "kind": "plot",
           "title": "Luther's Bible Translation at the Wartburg",
           "taxonomy": "play_thuringia.md"
         },
         {
-          "file": "plot_03_reunification_1990.md",
+          "file": "plot_03_die_glashuette_lauscha_1597.md",
+          "kind": "plot",
+          "title": "The Lauscha Glassworks",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_04_goethe_in_weimar_1775.md",
+          "kind": "plot",
+          "title": "Weimar Classicism",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_05_die_erste_kugel_1847.md",
+          "kind": "plot",
+          "title": "The First Glass Bauble",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_06_das_stiftungsstatut_1896.md",
+          "kind": "plot",
+          "title": "The Zeiss Foundation Statute",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_07_das_bauhaus_weimar_1919.md",
+          "kind": "plot",
+          "title": "The Bauhaus in Weimar",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_08_die_dicke_eiche_1937.md",
+          "kind": "plot",
+          "title": "The Thick Oak on the Ettersberg",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_09_der_freistaat_1990.md",
           "kind": "plot",
           "title": "The Re-establishment of the Free State of Thuringia",
+          "taxonomy": "play_thuringia.md"
+        },
+        {
+          "file": "plot_99_die_fichte_geht.md",
+          "kind": "plot",
+          "title": "The Spruce Is Leaving",
           "taxonomy": "play_thuringia.md"
         },
         {

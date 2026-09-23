@@ -34,4 +34,4 @@ Eine mundgeblasene, innen versilberte und außen kunstvoll von Hand bemalte Glas
 ## Yearbook
 
 - Mit Stolz gefertigt von Glasbläsermeister [Dieter](persona_dieter.md) vor der Werkstattflamme.
-- Symbol des handwerklichen Stolzes im Plot [Luthers Bibelübersetzung auf der Wartburg 1521](plot_02_wartburg_translation_1521.md).
+- Entstanden im Plot [die erste Kugel, 1847](plot_05_die_erste_kugel_1847.md), aus einem Ersatz für Äpfel und Nüsse.
