@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-L'11 de febrer de 1419, el bisbe d'Urgell Francesc de Tovia autoritza els homes de les valls a reunir-se i a elegir cada any els qui s'ocuparan dels afers comuns. El coprincep francès ho accepta poc després. Neix el Consell de la Terra.
+Les cases de les valls fa generacions que es reuneixen: cal repartir els prats d'estiu, fixar els torns de l'aigua i resoldre on acaba una pastura i on en comença una altra. El 1419 aquell costum obté una firma. El bisbe d'Urgell autoritza la reunió i el coprincep francès ho accepta, i allò que ja es feia passa a dir-se Consell de la Terra.
 
 ## Action
 
-El permís no crea l'assemblea, la legalitza. Les cases ja es reunien per repartir els prats i els torns d'aigua; el que arriba el 1419 és el dret a fer-ho davant dels senyors i en nom de totes les valls alhora.
+El que arriba el 1419 no és la reunió sinó el dret a fer-la davant dels senyors i en nom de totes les valls alhora. El costum passa a ser una institució sense canviar de feina: continua repartint el mateix.
 
 Qui hi seu no hi seu com a persona. Hi seu com a cap de casa, i la casa és el que dura: el representant es mor i la casa continua enviant-hi qui li toca. Per això aquesta assemblea no s'assembla a un parlament modern amb el sufragi encongit, sinó a una altra cosa: una cambra de propietats, no de ciutadans.
 

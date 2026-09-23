@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-El Consell General encarrega a Antoni Fiter i Rossell, doctor en dret d'Ordino, que reculli en un sol volum els costums, els privilegis i les maneres de les valls. El 1748 el lliura: el Manual Digest.
+El dret de les valls viu escampat: uns quants pergamins per arxiu parroquial, unes còpies que no diuen ben bé el mateix, i la resta a la memòria d'uns quants vells que es van morint. El 1748 Antoni Fiter i Rossell, d'Ordino, ho aplega tot en un volum i el lliura al Consell General: el Manual Digest.
 
 ## Action
 

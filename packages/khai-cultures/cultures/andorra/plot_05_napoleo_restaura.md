@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-La Revolució Francesa havia esborrat el senyoriu francès sobre les valls per feudal. El 1806, després que els andorrans ho demanin, Napoleó el restableix i torna a assumir el títol que la República havia abolit.
+Uns andorrans fan el camí fins a París per demanar que els tornin un senyor. La Revolució havia esborrat el senyoriu francès per feudal i les valls s'havien quedat amb un sol coprincep, que és una altra manera de dir que s'havien quedat sense defensa. El 1806 Napoleó els fa cas i reprèn el títol.
 
 ## Action
 

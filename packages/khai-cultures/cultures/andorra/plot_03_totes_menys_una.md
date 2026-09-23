@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-El 7 de novembre de 1659, França i Espanya signen el Tractat dels Pirineus i fixen la frontera a la serralada. Les valls pirinenques es reparteixen entre els dos estats. Totes menys una.
+El 1659 una línia nova travessa els Pirineus i trenta-tres pobles de la Cerdanya es lleven un matí a França. Llívia no: el text cedia "pobles" i Llívia era vila, de manera que es queda espanyola i envoltada. Una paraula en un paper decideix de quin costat es lleva cadascú. A les valls d'Andorra no passa res.
 
 ## Action
 
-Andorra no hi surt guanyant res ni hi perd res, i això és precisament el que passa. Mentre al Rosselló i a la Cerdanya es tallen comarques pel mig i queden pobles a l'altra banda d'una línia nova, aquí no es mou res. Les valls no es reparteixen perquè ja estaven repartides des de 1278, i perquè cap dels dos estats no en treu prou per discutir-ho amb l'altre.
+El Tractat dels Pirineus, signat el 7 de novembre, no anomena Andorra. Les valls no es reparteixen perquè ja estaven repartides des de 1278, i perquè cap dels dos estats no en treu prou per discutir-ho amb l'altre. Andorra no hi guanya res ni hi perd res, i això és precisament el que passa: és la categoria que el tractat no tenia.
 
 L'efecte, però, no és cap: **el que el 1659 canvia és què són els dos coprínceps.** Fins ara eren dos senyors feudals en un mateix món cristià, un bisbe i un comte, competint per una jurisdicció. A partir d'ara, el que hi ha a banda i banda de la muntanya són dos estats sobirans amb una frontera al mig, i Andorra es troba amb un cap d'estat a cada costat d'aquella frontera.
 
