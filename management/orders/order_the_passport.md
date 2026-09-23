@@ -196,4 +196,11 @@ being skipped.
       302, which `--fail-with-body` passes because it only fails from 400 up, so
       `jq` met the redirect stub and died. It follows the redirect now, reads the
       status itself, and the comment carries the line it would otherwise swallow
+- [x] Follow the redirect as the request it was: the second live run said
+      `HTTP 200, and a reply that is not the chat-completions shape`, and the
+      reply was the word `OK`. Curl drops the method and the body on a 301, 302
+      or 303 unless told otherwise, so the question had been turned into a GET
+      and never asked. `--post301 --post302 --post303`, and the hop count and
+      final URL are read out, because the first fix could say what came back
+      and not where from
 - [ ] Ask it of cultures as they are touched, never as a sweep

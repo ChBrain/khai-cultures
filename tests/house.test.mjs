@@ -789,6 +789,13 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
     expect(call, "the audit lane's curl call was not found").toContain("curl -sS");
     expect(/\s-L[\s\\]/.test(call), "the audit lane must follow a redirect").toBe(true);
     expect(call, "the audit lane must read the status itself").toContain("%{http_code}");
+    // Curl drops the method and the body on a 301, 302 or 303 unless told not
+    // to, so a followed redirect asked the reader nothing and brought back the
+    // endpoint's bare `OK`.
+    for (const keep of ["--post301", "--post302", "--post303"]) {
+      expect(call, `the audit lane must keep the POST across a redirect (${keep})`).toContain(keep);
+    }
+    expect(call, "the audit lane must say where a redirect landed").toContain("%{url_effective}");
     expect(
       call.includes("--location-trusted"),
       "--location-trusted hands the token to whatever host the redirect names",
