@@ -40,9 +40,20 @@ const flag = (n) => {
 };
 const root = execFileSync("git", ["rev-parse", "--show-toplevel"], { encoding: "utf8" }).trim();
 
+// `\\Z` IS NOT JAVASCRIPT. This read `(?=^## |\\Z)` and meant "up to the next
+// chapter or the end of the file"; JS has no `\\Z` escape, so it compiled to the
+// literal letter Z and every Cue was cut at its first capital one. Measured
+// across the house when found: of 1,551 plots with a Cue, 63 were truncated
+// mid-sentence and 9 came back empty because their Cue opens on a Z - Thüringen's
+// glassworks plot begins "Zwei Glasmacher" and the lane reported it as having no
+// Cue chapter at all. No regex end-of-input escape here: find the heading, take
+// everything to the next one.
 const chapter = (text, name) => {
-  const m = new RegExp(`^## ${name}\\n(.*?)(?=^## |\\Z)`, "ms").exec(text);
-  return (m?.[1] ?? "").trim();
+  const start = new RegExp(`^## ${name}\\s*$`, "m").exec(text);
+  if (!start) return "";
+  const rest = text.slice(start.index + start[0].length);
+  const next = /^## /m.exec(rest);
+  return (next ? rest.slice(0, next.index) : rest).trim();
 };
 const field = (text, key) => new RegExp(`^${key}:\\s*"?([^"\\n]+)"?`, "m").exec(text)?.[1] ?? "";
 const h1 = (text) => /^# \w+: (.*)$/m.exec(text)?.[1] ?? "";

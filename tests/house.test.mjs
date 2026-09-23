@@ -802,6 +802,45 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
     ).toBe(false);
   });
 
+  // `\Z` is not a JavaScript escape. The chapter reader ended `(?=^## |\Z)`,
+  // which compiled to the literal letter Z, so every Cue was cut at its first
+  // capital one: 63 of the house's 1,551 Cues truncated mid-sentence and 9
+  // emptied outright, among them Schwyz's origin plot, which opens "Zwischen dem
+  // Talkessel". The second reader was shown "(no Cue chapter)" and asked who
+  // acts in it. Any culture with such a Cue holds the line.
+  it("reads a Cue whole when it contains a capital Z", () => {
+    const homes = [
+      ...readdirSync(culturesDir, { withFileTypes: true })
+        .filter((e) => e.isDirectory())
+        .map((e) => [e.name, join(culturesDir, e.name)]),
+      ...productions().map((p) => [p.id, p.dir]),
+    ];
+    let found = null;
+    for (const [id, dir] of homes) {
+      for (const f of readdirSync(dir).filter((f) => f.startsWith("plot_"))) {
+        const cue = /^## Cue\s*$/m.exec(readFileSync(join(dir, f), "utf8"));
+        if (!cue) continue;
+        const rest = readFileSync(join(dir, f), "utf8").slice(cue.index + cue[0].length);
+        const body = (rest.slice(0, /^## /m.exec(rest)?.index ?? rest.length) ?? "").trim();
+        const z = body.indexOf("Z");
+        if (z > 0 && body.length > z + 20) {
+          found = { id, tail: body.slice(z, z + 20) };
+          break;
+        }
+      }
+      if (found) break;
+    }
+    expect(found, "no Cue in the house contains a capital Z to hold this with").not.toBe(null);
+    const out = execFileSync("node", [join(here, "plot_line_audit.mjs"), "--culture", found.id], {
+      encoding: "utf8",
+      cwd: join(here, ".."),
+    });
+    expect(
+      out.includes(found.tail),
+      `the audit lane cut ${found.id}'s Cue at a capital Z; it must read the chapter whole`,
+    ).toBe(true);
+  });
+
   it("builds the passport question for a culture in either home", () => {
     const umbrella = readdirSync(culturesDir, { withFileTypes: true })
       .filter((e) => e.isDirectory())
