@@ -774,6 +774,27 @@ describe("Cultures house: the ratchets can still see a touched culture", () => {
     }
   });
 
+  // The lane reached the reader and said it could not. The endpoint answered a
+  // 302, `--fail-with-body` fails only from 400 up, so curl exited 0 and `jq`
+  // died on the redirect stub `<a href="...">Found</a>.` at column 3. The step
+  // now follows the redirect and reads the status itself, and this holds it
+  // there - the last contract of this lane that lived in a YAML comment was
+  // broken by the fix above, and comments do not run.
+  it("follows a redirect and reads the status itself", () => {
+    const yml = readFileSync(
+      join(here, "..", ".github", "workflows", "plot-line-audit.yml"),
+      "utf8",
+    );
+    const call = yml.slice(yml.indexOf("curl -sS"), yml.indexOf("wired=true"));
+    expect(call, "the audit lane's curl call was not found").toContain("curl -sS");
+    expect(/\s-L[\s\\]/.test(call), "the audit lane must follow a redirect").toBe(true);
+    expect(call, "the audit lane must read the status itself").toContain("%{http_code}");
+    expect(
+      call.includes("--location-trusted"),
+      "--location-trusted hands the token to whatever host the redirect names",
+    ).toBe(false);
+  });
+
   it("builds the passport question for a culture in either home", () => {
     const umbrella = readdirSync(culturesDir, { withFileTypes: true })
       .filter((e) => e.isDirectory())

@@ -190,4 +190,10 @@ being skipped.
 - [x] Correct this order's own wording: the lane cannot read the plot line "in
       English", because the Cues are in the culture's tongue. English is the
       answer, not the question
+- [x] Prove the lane on live traffic and fix what that proved: on Andorra's
+      eleven plots it extracted every Cue and posted them, then said the reader
+      could not be reached without saying why. The reader had answered - with a
+      302, which `--fail-with-body` passes because it only fails from 400 up, so
+      `jq` met the redirect stub and died. It follows the redirect now, reads the
+      status itself, and the comment carries the line it would otherwise swallow
 - [ ] Ask it of cultures as they are touched, never as a sweep

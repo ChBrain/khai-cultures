@@ -31,7 +31,8 @@ name: plot-line-audit
 # - the call fails, the step is `continue-on-error`, and the lane posts the
 # question instead of an answer. A stale default costs a comment saying the
 # reader could not be reached. It never costs a red build, which is the property
-# that makes defaulting them safe at all.
+# that makes defaulting them safe at all. The comment says what the lane saw, so
+# a default that has moved is one comment away from being read, not a silence.
 #
 # Do not point it at the model that writes the cultures. A model auditing its own
 # plot line is a mirror, and the whole value here is that the reader is somebody
@@ -98,12 +99,57 @@ jobs:
           fi
           jq -n --rawfile q question.md --arg m "$AUDIT_MODEL" \
             '{model: $m, messages: [{role: "user", content: $q}]}' > body.json
-          curl -sS --fail-with-body --max-time 180 "$AUDIT_ENDPOINT" \
+          # `-L` because the endpoint may answer with a redirect. Curl drops the
+          # Authorization header when a redirect crosses to another host, and that
+          # is the property that makes following one safe here. Never
+          # `--location-trusted`: it hands the token to whatever host the redirect
+          # names.
+          #
+          # The status is read here rather than left to `--fail-with-body`, which
+          # only fails from 400 up. A 302 walked straight through it: curl exited
+          # 0, `jq` met the redirect stub `<a href="...">Found</a>.` and died on
+          # column 3, and the lane could say only that the reader could not be
+          # reached. Each outcome now writes one line to `why.txt`, the comment
+          # carries that line, and the reply's first bytes go to the job log.
+          set +e
+          CODE="$(curl -sS -L --max-time 180 -o reply.json -w '%{http_code}' \
+            "$AUDIT_ENDPOINT" \
             -H "Authorization: Bearer $AUDIT_API_KEY" \
             -H "content-type: application/json" \
-            --data @body.json > reply.json
-          jq -r '.choices[0].message.content // empty' reply.json > answer.md
-          [ -s answer.md ] || { echo "empty answer"; exit 1; }
+            --data @body.json)"
+          RC=$?
+          set -e
+          if [ "$RC" -ne 0 ]; then
+            echo "the endpoint never answered, curl exit $RC" > why.txt
+            cat why.txt
+            exit 1
+          fi
+          echo "the endpoint answered HTTP $CODE"
+          if [ "$CODE" != "200" ]; then
+            echo "the endpoint answered HTTP $CODE, not 200" > why.txt
+            cat why.txt
+            echo "--- the first 400 bytes of the reply ---"
+            head -c 400 reply.json
+            echo
+            exit 1
+          fi
+          if ! jq -r '.choices[0].message.content // empty' reply.json > answer.md; then
+            echo "HTTP 200, and a reply that is not the chat-completions shape" > why.txt
+            cat why.txt
+            echo "--- the first 400 bytes of the reply ---"
+            head -c 400 reply.json
+            echo
+            exit 1
+          fi
+          # Not `[ -s answer.md ]`: a `content` of "" leaves `jq -r` a newline,
+          # which has a size, and the lane would have posted an empty reading as
+          # though a reader had spoken.
+          if ! grep -q '[^[:space:]]' answer.md; then
+            : > answer.md
+            echo "HTTP 200, the chat-completions shape, and an empty answer" > why.txt
+            cat why.txt
+            exit 1
+          fi
           echo "wired=true" >> "$GITHUB_OUTPUT"
 
       - name: post it
@@ -128,6 +174,11 @@ jobs:
             else
               if [ "$ASKED" = "failure" ]; then
                 echo "**The second reader could not be reached**, so here is the question instead."
+                if [ -s why.txt ]; then
+                  echo
+                  echo "What the lane saw: $(cat why.txt). The job log for this run holds the"
+                  echo "first bytes of the reply."
+                fi
               else
                 echo "**No second reader answered**, so here is the question instead. Paste"
                 echo "it into any model that did not write this culture, or answer it by hand"
