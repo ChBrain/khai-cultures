@@ -20,19 +20,26 @@ name: plot-line-audit
 # the house first, the way order_plot_zero.md measured 290 opening dates before
 # fixing anything.
 #
-# It needs no secret. GitHub Models serves inference to a workflow against the
-# built-in GITHUB_TOKEN, given `models: read` below, over the OpenAI-compatible
-# chat-completions shape - so the endpoint and model are defaulted here and the
-# lane runs on a fresh clone with nothing configured. AUDIT_ENDPOINT, AUDIT_MODEL
-# and AUDIT_API_KEY remain as overrides for a house that would rather point this
-# at its own gateway.
+# THERE IS NO DEFAULT READER, AND THAT IS NOT AN OVERSIGHT. This lane was written
+# against GitHub Models, which served inference to a workflow on the built-in
+# GITHUB_TOKEN and needed no secret. GitHub retired GitHub Models on 30 July
+# 2026 - playground, model catalog, inference API and bring-your-own-key, for
+# every customer - about eight weeks before this lane first ran. The endpoint is
+# still up and still answers the POST with HTTP 200 and the body `OK`, which is
+# why three fixes went into the calling code before anyone checked whether
+# anything was listening: a 302 that killed `jq`, a `-L` that turned the POST
+# into a GET, and only then the bare `OK` from a retired API with no redirect in
+# front of it. The call was wrong all three times. It was also never going to
+# work.
 #
-# If a default is ever wrong - they are GitHub's to change, not this repository's
-# - the call fails, the step is `continue-on-error`, and the lane posts the
-# question instead of an answer. A stale default costs a comment saying the
-# reader could not be reached. It never costs a red build, which is the property
-# that makes defaulting them safe at all. The comment says what the lane saw, so
-# a default that has moved is one comment away from being read, not a silence.
+# So the lane ships unwired, and unwired is a working mode: it posts the question
+# with every Cue extracted, and a person answers it in about a minute per
+# culture. `order_the_passport.md` asks for a reader who is not the author, and a
+# person is the strongest reader that description allows.
+#
+# To wire a machine reader, set the `AUDIT_ENDPOINT` and `AUDIT_MODEL` variables
+# and the `AUDIT_API_KEY` secret to something that serves the OpenAI-compatible
+# chat-completions shape. Do not point it at the model that writes the cultures.
 #
 # Do not point it at the model that writes the cultures. A model auditing its own
 # plot line is a mirror, and the whole value here is that the reader is somebody
@@ -59,9 +66,6 @@ on:
 permissions:
   contents: read
   pull-requests: write
-  # What GitHub Models reads the built-in token for. Without it the token is
-  # refused for inference and the lane falls back to posting the question.
-  models: read
 
 jobs:
   audit:
@@ -87,11 +91,12 @@ jobs:
         id: ask
         continue-on-error: true
         env:
-          # The built-in token is the default reader. A house that wants its own
-          # gateway sets the secret and the two variables, and those win.
-          AUDIT_API_KEY: ${{ secrets.AUDIT_API_KEY || secrets.GITHUB_TOKEN }}
-          AUDIT_ENDPOINT: ${{ vars.AUDIT_ENDPOINT || 'https://models.github.ai/inference/chat/completions' }}
-          AUDIT_MODEL: ${{ vars.AUDIT_MODEL || 'openai/gpt-4o-mini' }}
+          # All three are empty unless a house sets them. The service that used to
+          # fill them is retired, and a default nobody can reach is worse than
+          # none: it reports a failed reader instead of an unwired lane.
+          AUDIT_API_KEY: ${{ secrets.AUDIT_API_KEY }}
+          AUDIT_ENDPOINT: ${{ vars.AUDIT_ENDPOINT }}
+          AUDIT_MODEL: ${{ vars.AUDIT_MODEL }}
         run: |
           if [ -z "$AUDIT_API_KEY" ] || [ -z "$AUDIT_ENDPOINT" ] || [ -z "$AUDIT_MODEL" ]; then
             echo "wired=false" >> "$GITHUB_OUTPUT"
@@ -201,9 +206,10 @@ jobs:
                 echo "it into any model that did not write this culture, or answer it by hand"
                 echo "- it takes about a minute per culture."
                 echo
-                echo "This lane defaults to GitHub Models on the built-in token and needs no"
-                echo "secret. If it is quiet, the default endpoint or model id has moved; set"
-                echo "the \`AUDIT_ENDPOINT\` and \`AUDIT_MODEL\` variables to point it elsewhere."
+                echo "No reader is wired here. GitHub Models, which this lane was written"
+                echo "against, was retired on 30 July 2026. To wire another, set the"
+                echo "\`AUDIT_ENDPOINT\` and \`AUDIT_MODEL\` variables and the \`AUDIT_API_KEY\`"
+                echo "secret - and not to the model that writes these cultures."
               fi
               echo
               echo "<details><summary>The question</summary>"
