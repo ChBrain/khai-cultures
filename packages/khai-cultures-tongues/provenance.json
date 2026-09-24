@@ -983,5 +983,16 @@
     "orthography": "简化字，《通用规范汉字表》",
     "review": "native",
     "tongue": "Chinese: meaning carried by tone and by measure word, and never by a change in the shape of the word itself"
+  },
+  "na/position_language_na.md": {
+    "tongue": "Nauruan: a language in no trouble when spoken and in trouble when typed, because it ships two orthographies and neither won",
+    "orthography": "Latin script, and that is the whole problem. The missionary spelling and the 1938 committee revision are both in live use, so the tilde vowels and the n-tilde are present or absent by the writer's schooling rather than by rule. ANY SPELLING OF A NAURUAN WORD IN THIS FILE IS THE LIKELIEST PLACE FOR ERROR, and the prose therefore quotes none.",
+    "review": "native",
+    "note": "Written here because two personas carry mother-tongue depth in a language the house did not hold. khai-cultures/cultures/nauru/persona_the_miner.md says in plain prose \"Nauruan is the miner's mother tongue\" and then wires speaking, thinking and hearing at mother-tongue depth with nothing to point at; persona_the_frigatebird_catcher.md does the same. Nauru's only language position was en_nr, English as spoken there, so the two personas whose tongue is NOT English were the two with no address. This is the tier-1 fault named in management/orders/order_a_tongue_without_an_address.md, and it was the whole of it: the house-wide scan for a persona carrying channel depth whose file wires no tongue returned exactly these two files. The prose is in English on the nv precedent - the grammar is described accurately, but four chapters composed IN Nauruan would be invention, and a wrong sentence in a language of twelve thousand speakers is not a small thing to publish."
+  },
+  "xpu/position_language_xpu.md": {
+    "tongue": "Punic: dead in the mouth and open on the page, which are two facts and usually said as one",
+    "orthography": "The Phoenician abjad, consonants only; Neo-Punic later pressed some letters into vowel duty but never systematically. The declared name is written in Phoenician script. THE LIKELIEST PLACE FOR ERROR IS THE DECLARED FORM AND ANY VOCALISATION: what is certain is the consonantal skeleton, and every vowel in any reading of Punic is reconstructed from Greek and Latin transcription.",
+    "note": "Written here because persona_septimius.md carries this tongue at process_speaking_carried.md and names it in Arabic prose alone, while wiring Latin to la and Arabic to its own culture. The file therefore PASSES the tier-1 rule in management/orders/order_a_tongue_without_an_address.md - it does wire tongues, just not this one - and is the order's named example of tier 2, the fault only a reader finds. It was found by reading. The prose is in English on the nv precedent. Note the review field: it is absent rather than \"native\", because there is no native reader to flag it for and has not been since about the fifth century. What this file wants instead is an epigrapher."
   }
 }
