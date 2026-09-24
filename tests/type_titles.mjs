@@ -35,7 +35,7 @@ import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { pathToFileURL } from "node:url";
 
-import { charged, mds, units } from "./link_resolution.mjs";
+import { charged, isMarkdown, mds, units } from "./link_resolution.mjs";
 
 const FM = /^---\n([\s\S]*?)\n---/;
 
@@ -84,7 +84,10 @@ function gate(base, head) {
   // `charged` returns written as a sorted ARRAY. Asking it for `.size` reads
   // undefined and silently turns the wall off; link_names.mjs was written that
   // way first and reported "no unit written" over a file it had just been handed.
-  const { written } = charged(base, head, list);
+  // Only markdown charges this wall. A tongues release rewrites the dependency
+  // range in 120 manifests, which would otherwise make every unit in the house
+  // answerable for prose nobody opened.
+  const { written } = charged(base, head, list, isMarkdown);
   if (!written.length) {
     console.log("Type titles: no unit written.");
     return 0;

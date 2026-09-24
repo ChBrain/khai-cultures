@@ -31,7 +31,7 @@ import { conformance } from "./culture_conformance.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { repeats, register, proseRepeats, findings as nameFindings } from "./link_names.mjs";
 import { declared, restatesType } from "./type_titles.mjs";
-import { charged, units as linkUnits } from "./link_resolution.mjs";
+import { charged, isMarkdown, units as linkUnits } from "./link_resolution.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import {
   widths,
@@ -1593,6 +1593,18 @@ describe("Cultures house: a name reads as prose", () => {
 // because the whole rule turns on telling a label from a name.
 // See management/orders/order_a_title_names_the_thing.md.
 describe("Cultures house: a title names the thing", () => {
+  // A tongues release rewrites the dependency range in 120 manifests. Both prose
+  // walls read only markdown, so charging them off a version bump made 117 units
+  // answerable for READMEs nobody opened - measured, the first time a tongue was
+  // added after these walls landed, and both went red on other packages' prose.
+  // `links` keeps the wide default on purpose: a cast specifier must be a declared
+  // dependency, so a manifest edit really is its business.
+  it("is charged by prose and not by a dependency bump", () => {
+    expect(isMarkdown("packages/khai-cultures-albania/README.md")).toBe(true);
+    expect(isMarkdown("packages/khai-cultures-albania/package.json")).toBe(false);
+    expect(isMarkdown("package-lock.json")).toBe(false);
+  });
+
   it("knows a label from a name", () => {
     expect(restatesType("place", "Place: Corti")).toBe(true);
     expect(restatesType("plot", "Plot - U Riacquistu")).toBe(true);

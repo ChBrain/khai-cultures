@@ -44,7 +44,7 @@ import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { pathToFileURL } from "node:url";
 
-import { charged, mds, units } from "./link_resolution.mjs";
+import { charged, isMarkdown, mds, units } from "./link_resolution.mjs";
 
 const LINK = /\[([^\]\n]+)\]\(([^)\s]+?\.md)(?:#[^)\s]*)?\)/g;
 
@@ -122,7 +122,10 @@ function gate(base, head) {
   // reads undefined, which is falsy, which silently turns this wall off - it was
   // written that way first and reported "no unit written" over a README it had
   // just been handed.
-  const { written } = charged(base, head, list);
+  // Only markdown charges this wall. A tongues release rewrites the dependency
+  // range in 120 manifests, which would otherwise make every unit in the house
+  // answerable for prose nobody opened.
+  const { written } = charged(base, head, list, isMarkdown);
   if (!written.length) {
     console.log("Link names: no unit written.");
     return 0;

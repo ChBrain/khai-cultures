@@ -222,7 +222,25 @@ export function report(list = units()) {
  * `the_four_nations`. So every removed path is collected, and any unit holding a
  * link that resolves onto one is charged alongside the units actually written.
  */
-export function charged(base, head, list = units()) {
+/**
+ * Which units this change is answerable for.
+ *
+ * `keep` narrows what counts as writing a unit. It defaults to every path,
+ * which is what the link wall wants: a manifest edit CAN break a link here,
+ * because a cast specifier has to be a declared dependency, so a change that
+ * only touches package.json is still this wall's business.
+ *
+ * A wall that reads only markdown must pass a narrower one. When
+ * `khai-cultures-tongues` gains a tongue, its build rewrites the dependency
+ * range in 120 manifests, and every unit in the house becomes "written" -
+ * charging 117 of them for prose in READMEs nobody opened. A wall that turns
+ * the house red on a version bump is a wall that gets bypassed, which is the
+ * thing both prose orders here exist to avoid.
+ */
+/** A `keep` for walls that only ever read prose: markdown wrote it, or nothing did. */
+export const isMarkdown = (path) => path.endsWith(".md");
+
+export function charged(base, head, list = units(), keep = () => true) {
   const lines = execFileSync("git", ["diff", "--name-status", "-M", base, head], {
     encoding: "utf8",
     maxBuffer: 32 * 1024 * 1024,
@@ -236,10 +254,10 @@ export function charged(base, head, list = units()) {
     const status = parts[0];
     if (status.startsWith("R")) {
       removed.add(parts[1]);
-      touched.add(parts[2]);
+      if (keep(parts[2])) touched.add(parts[2]);
     } else if (status === "D") {
       removed.add(parts[1]);
-    } else {
+    } else if (keep(parts[1])) {
       touched.add(parts[1]);
     }
   }
