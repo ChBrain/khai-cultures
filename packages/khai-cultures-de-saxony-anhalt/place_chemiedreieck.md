@@ -31,7 +31,7 @@ Ein Gürtel aus Chemiewerken zwischen Leuna, Schkopau, Bitterfeld-Wolfen und Hal
 
 ## Offers
 
-Arbeit im grossen Massstab, seit über hundert Jahren: Leuna allein beschäftigte in der DDR rund achtundzwanzigtausend Menschen, und heute bietet der Chemiepark, verkleinert, aber technologisch erneuert, Ansiedlungsflächen für die nächste Generation der Grundstoffchemie.
+Arbeit im großen Maßstab, seit über hundert Jahren: Leuna allein beschäftigte in der DDR rund achtundzwanzigtausend Menschen, und heute bietet der Chemiepark, verkleinert, aber technologisch erneuert, Ansiedlungsflächen für die nächste Generation der Grundstoffchemie.
 
 ## Withheld
 

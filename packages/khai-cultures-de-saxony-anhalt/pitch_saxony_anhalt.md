@@ -21,15 +21,15 @@ Die Tonart der Produktion [Sachsen-Anhalt](play_saxony_anhalt.md) - sie ändert 
 
 ## Tenor
 
-Eine schlichte Sachlichkeit, die weiss, dass sie mehr vorzuweisen hat, als der eigene Name verrät, und die das lieber beiläufig erwähnt als grossspurig behauptet. Man spricht kurz, arbeitet ehrlich, und misst eine Sache am Ergebnis, nicht am Auftreten.
+Eine schlichte Sachlichkeit, die weiß, dass sie mehr vorzuweisen hat, als der eigene Name verrät, und die das lieber beiläufig erwähnt als großspurig behauptet. Man spricht kurz, arbeitet ehrlich, und misst eine Sache am Ergebnis, nicht am Auftreten.
 
 ## Undertow
 
-Unter der Sachlichkeit liegt eine Art Warten auf den nächsten Rückschlag: Wer schon einen Landesnamen, ein Werk und ein grosses Investitionsversprechen verschwinden sah, glaubt an Dauerhaftigkeit nur noch mit einem stillen Vorbehalt. Dahinter steht der Ärger darüber, in der gesamtdeutschen Wahrnehmung vor allem als das zu gelten, was fehlt: Einwohner, Betriebe, Aufmerksamkeit.
+Unter der Sachlichkeit liegt eine Art Warten auf den nächsten Rückschlag: Wer schon einen Landesnamen, ein Werk und ein großes Investitionsversprechen verschwinden sah, glaubt an Dauerhaftigkeit nur noch mit einem stillen Vorbehalt. Dahinter steht der Ärger darüber, in der gesamtdeutschen Wahrnehmung vor allem als das zu gelten, was fehlt: Einwohner, Betriebe, Aufmerksamkeit.
 
 ## Nerve
 
-Getroffen wird die stille Genugtuung, wenn sich zeigt, dass hier tatsächlich mehr Anfang lag, als aussen vermutet wird, und die trockene Erleichterung, wenn etwas, das man kaum noch geglaubt hat, doch noch hält: eine Tür, eine Sanierung, ein Betrieb, der überlebt.
+Getroffen wird die stille Genugtuung, wenn sich zeigt, dass hier tatsächlich mehr Anfang lag, als außen vermutet wird, und die trockene Erleichterung, wenn etwas, das man kaum noch geglaubt hat, doch noch hält: eine Tür, eine Sanierung, ein Betrieb, der überlebt.
 
 ## Echo
 

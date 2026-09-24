@@ -22,7 +22,7 @@ type: archetype
 
 ## Projection
 
-Eine 2000 in Halle geborene junge Frau, die am 9. Oktober 2019 als Neunzehnjährige nur wenige Strassen von der Synagoge entfernt wohnte, als dort geschossen wurde, und die heute, mit sechsundzwanzig, zwischen einem Job in einer Grossstadt und dem Bleiben in ihrer eigenen Stadt entscheiden muss. Sie [spricht](process_speaking_mother_tongue.md) das [sachsen-anhaltische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_st.md) ihrer Generation, ohne den ostdeutschen Bruch ihrer Grosseltern selbst erlebt zu haben. Sie gehört [der sachsen-anhaltischen Kultur](position_culture_sachsen_anhaltische_kultur.md) an als jemand, für die diese Kultur nicht Reformation und Kaiserzeit bedeutet, sondern eine sehr konkrete Strasse, an einem sehr konkreten Tag.
+Eine 2000 in Halle geborene junge Frau, die am 9. Oktober 2019 als Neunzehnjährige nur wenige Straßen von der Synagoge entfernt wohnte, als dort geschossen wurde, und die heute, mit sechsundzwanzig, zwischen einem Job in einer Großstadt und dem Bleiben in ihrer eigenen Stadt entscheiden muss. Sie [spricht](process_speaking_mother_tongue.md) das [sachsen-anhaltische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_st.md) ihrer Generation, ohne den ostdeutschen Bruch ihrer Großeltern selbst erlebt zu haben. Sie gehört [der sachsen-anhaltischen Kultur](position_culture_sachsen_anhaltische_kultur.md) an als jemand, für die diese Kultur nicht Reformation und Kaiserzeit bedeutet, sondern eine sehr konkrete Straße, an einem sehr konkreten Tag.
 
 ## Action
 

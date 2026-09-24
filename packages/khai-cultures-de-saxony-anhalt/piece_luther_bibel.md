@@ -34,5 +34,5 @@ Ein historischer Druck der vollständigen deutschen Bibelübersetzung aus dem Ja
 ## Yearbook
 
 - 1522 erscheint als erste Fassung das von Cranach illustrierte Septembertestament, Luthers Übersetzung allein des Neuen Testaments.
-- 1534 folgt die vollständige Bibel mit Cranachs Holzschnitten, aus [seiner Werkstatt in Wittenberg](plot_01_cranachs_werkstatt.md) heraus in hoher Auflage gedruckt und verkauft.
+- 1534 folgt die vollständige Bibel mit Cranachs Holzschnitten, aus [seiner Werkstatt in Wittenberg](plot_02_cranachs_werkstatt.md) heraus in hoher Auflage gedruckt und verkauft.
 - Bis heute in der Lutherhalle Wittenberg als Sprachdenkmal ausgestellt und in Kirchen weltweit im Gebrauch.

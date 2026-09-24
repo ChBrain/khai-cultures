@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Neun Jahre nach seiner zweiten Gründung ist [das Land](plot_03_ein_land_ohne_eigenes_werden.md) noch immer, was es 1990 war: zwei preussische Provinzen und ein Herzogtum unter einem gemeinsamen Namen, ohne gemeinsame Geschichte vor 1945, die diesen Namen tragen könnte.
+Neun Jahre nach seiner zweiten Gründung ist [das Land](plot_08_ein_land_ohne_eigenes_werden.md) noch immer, was es 1990 war: zwei preußische Provinzen und ein Herzogtum unter einem gemeinsamen Namen, ohne gemeinsame Geschichte vor 1945, die diesen Namen tragen könnte.
 
 ## Action
 
@@ -34,4 +34,4 @@ Neun Jahre nach seiner zweiten Gründung ist [das Land](plot_03_ein_land_ohne_ei
 
 ## Tension
 
-Ein Land, das sich selbst erst 1990 wieder zusammengesetzt hat, greift nach einem Gegenstand, der mit diesem Land nichts zu tun hat: Die Menschen, die die Scheibe vor dreieinhalbtausend Jahren vergruben, wussten nichts von Sachsen, nichts von Anhalt, nichts von einer Elbe-Saale-Region als Einheit. Trotzdem füllt die Scheibe genau die Lücke, die [die ottonische Gründung](plot_00_ottonische_gruendung.md) offen liess: Tiefe ohne Kontinuität wird durch Tiefe ohne Bezug ersetzt, ein geliehener Ursprung für ein Land, das seinen eigenen erst noch finden muss. Ob das reicht, oder ob ein Land am Ende mehr braucht als ein geborgtes Wahrzeichen, ist eine Frage, [die das Jahrzehnt danach](plot_99_das_jahrzehnt_der_abrechnung.md) unbeantwortet lässt.
+Ein Land, das sich selbst erst 1990 wieder zusammengesetzt hat, greift nach einem Gegenstand, der mit diesem Land nichts zu tun hat: Die Menschen, die die Scheibe vor dreieinhalbtausend Jahren vergruben, wussten nichts von Sachsen, nichts von Anhalt, nichts von einer Elbe-Saale-Region als Einheit. Trotzdem füllt die Scheibe genau die Lücke, die [die ottonische Gründung](plot_00_ottonische_gruendung.md) offen ließ: Tiefe ohne Kontinuität wird durch Tiefe ohne Bezug ersetzt, ein geliehener Ursprung für ein Land, das seinen eigenen erst noch finden muss. Ob das reicht, oder ob ein Land am Ende mehr braucht als ein geborgtes Wahrzeichen, ist eine Frage, [die das Jahrzehnt danach](plot_99_das_jahrzehnt_der_abrechnung.md) unbeantwortet lässt.

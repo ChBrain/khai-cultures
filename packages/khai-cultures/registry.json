@@ -11118,6 +11118,11 @@
           "title": "The Chemical Triangle"
         },
         {
+          "file": "place_halle.md",
+          "kind": "place",
+          "title": "Halle (Saale)"
+        },
+        {
           "file": "place_magdeburg.md",
           "kind": "place",
           "title": "Magdeburg"
@@ -11131,6 +11136,11 @@
           "file": "place_wittenberg.md",
           "kind": "place",
           "title": "Wittenberg"
+        },
+        {
+          "file": "place_woerlitz.md",
+          "kind": "place",
+          "title": "Wörlitz"
         },
         {
           "file": "plan_chemieparks.md",
@@ -11156,31 +11166,55 @@
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
-          "file": "plot_01_cranachs_werkstatt.md",
+          "file": "plot_01_die_halloren_1491.md",
+          "kind": "plot",
+          "title": "The Salters' Brotherhood at Halle",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_02_cranachs_werkstatt.md",
           "kind": "plot",
           "title": "Cranach's Workshop",
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
-          "file": "plot_02_bauhaus_dessau_1925.md",
+          "file": "plot_03_die_magdeburger_hochzeit_1631.md",
           "kind": "plot",
-          "title": "The Relocation of Bauhaus to Dessau",
+          "title": "The Sack of Magdeburg",
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
-          "file": "plot_03_ein_land_ohne_eigenes_werden.md",
+          "file": "plot_04_guerickes_halbkugeln_1654.md",
           "kind": "plot",
-          "title": "A Land With No Becoming of Its Own",
+          "title": "Guericke's Hemispheres",
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
-          "file": "plot_04_chemiedreieck.md",
+          "file": "plot_05_das_gartenreich_1765.md",
+          "kind": "plot",
+          "title": "The Garden Realm at Wörlitz",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_06_chemiedreieck.md",
           "kind": "plot",
           "title": "The Chemical Triangle: War, Poison, Rebuild",
           "taxonomy": "play_saxony_anhalt.md"
         },
         {
-          "file": "plot_05_himmelsscheibe.md",
+          "file": "plot_07_bauhaus_dessau_1925.md",
+          "kind": "plot",
+          "title": "The Relocation of Bauhaus to Dessau",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_08_ein_land_ohne_eigenes_werden.md",
+          "kind": "plot",
+          "title": "A Land With No Becoming of Its Own",
+          "taxonomy": "play_saxony_anhalt.md"
+        },
+        {
+          "file": "plot_09_himmelsscheibe.md",
           "kind": "plot",
           "title": "The Sky Disc: Looted, Rescued, Made Into an Icon",
           "taxonomy": "play_saxony_anhalt.md"

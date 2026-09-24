@@ -25,7 +25,7 @@ Das Bauhaus-Gebäude in Dessau. Ein asymmetrischer Stahlskelettbau mit einer mar
 
 ## Holds
 
-- die architektonische Moderne im Plot [Der Umzug des Bauhauses nach Dessau 1925](plot_02_bauhaus_dessau_1925.md) : das Denkmal des modernen Designs.
+- die architektonische Moderne im Plot [Der Umzug des Bauhauses nach Dessau 1925](plot_07_bauhaus_dessau_1925.md) : das Denkmal des modernen Designs.
 
 ## Offers
 

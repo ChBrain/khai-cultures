@@ -21,7 +21,7 @@ Parent group: positions
 
 ## Has
 
-Ein Gerät, ein Gelände und die Ortskenntnis, die kein Amt hat: Er weiss, welcher Hügel schon immer als "der Berg, wo die Bauern manchmal was finden" gilt, und geht ihn nachts ab, wenn niemand fragt, mit welcher Genehmigung.
+Ein Gerät, ein Gelände und die Ortskenntnis, die kein Amt hat: Er weiß, welcher Hügel schon immer als "der Berg, wo die Bauern manchmal was finden" gilt, und geht ihn nachts ab, wenn niemand fragt, mit welcher Genehmigung.
 
 ## Orders
 
@@ -33,4 +33,4 @@ Den Zusammenhang, in dem ein Fund etwas bedeutet. Sobald das Stück aus dem Bode
 
 ## Drives
 
-Er treibt einen Handel im Verborgenen, der Funde manchmal jahrelang durch die Hände von Hehlern schickt, ehe sie, wenn überhaupt, wieder auftauchen, und er liefert der Forschung, gerade weil er ausserhalb ihrer Regeln sucht, gelegentlich einen Fund, den sie selbst nie gemacht hätte.
+Er treibt einen Handel im Verborgenen, der Funde manchmal jahrelang durch die Hände von Hehlern schickt, ehe sie, wenn überhaupt, wieder auftauchen, und er liefert der Forschung, gerade weil er außerhalb ihrer Regeln sucht, gelegentlich einen Fund, den sie selbst nie gemacht hätte.

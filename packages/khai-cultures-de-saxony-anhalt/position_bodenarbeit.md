@@ -34,4 +34,4 @@ An Kraft, wenn großflächige Flächenversiegelung den fruchtbaren Boden vernich
 
 ## Drives
 
-Treibt die Bodenreform von 1945/46 an, mit der [das neu gefügte Land](plot_03_ein_land_ohne_eigenes_werden.md) beginnt, und bleibt danach der Grund, auf dem sowohl die Landwirtschaft der Börde als auch, nach 1990, die Chemieparks stehen.
+Treibt die Bodenreform von 1945/46 an, mit der [das neu gefügte Land](plot_08_ein_land_ohne_eigenes_werden.md) beginnt, und bleibt danach der Grund, auf dem sowohl die Landwirtschaft der Börde als auch, nach 1990, die Chemieparks stehen.

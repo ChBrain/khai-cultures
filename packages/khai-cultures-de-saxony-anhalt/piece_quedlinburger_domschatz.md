@@ -25,7 +25,7 @@ In der Schatzkammer der Stiftskirche St. Servatii auf dem Schlossberg von [Quedl
 
 ## Load Bearing
 
-Er ist der materielle Beweis der ottonischen Gründung selbst: Reliquiare, liturgische Handschriften und Kreuze, die von den Königinnen und Äbtissinnen des Stifts über zehn Jahrhunderte gestiftet und gehütet wurden. Fehlte er, bliebe von der Osterhoftage-Zeit nur ein Ort ohne Gegenstände, ein Gebäude ohne die Sache, an der sich seine Bedeutung ablesen liesse.
+Er ist der materielle Beweis der ottonischen Gründung selbst: Reliquiare, liturgische Handschriften und Kreuze, die von den Königinnen und Äbtissinnen des Stifts über zehn Jahrhunderte gestiftet und gehütet wurden. Fehlte er, bliebe von der Osterhoftage-Zeit nur ein Ort ohne Gegenstände, ein Gebäude ohne die Sache, an der sich seine Bedeutung ablesen ließe.
 
 ## Apparent
 

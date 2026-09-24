@@ -35,4 +35,4 @@ Den Anspruch, Kaiserstadt gewesen zu sein: eine Erzählung, die die Stadt bis he
 
 ## Withheld
 
-Die Kontinuität, die dieser Anspruch verspricht. Zwischen dem ottonischen Magdeburg und der heutigen Stadt liegen ein 1631 im Dreissigjährigen Krieg fast vollständig niedergebranntes Magdeburg, eine preussische Festungsstadt, eine im [Chemiedreieck](place_chemiedreieck.md) industrialisierte DDR-Bezirksstadt und eine Landeshauptstadt, die 1990 neu bestimmt werden musste, weil das alte Sachsen-Anhalt keine hatte.
+Die Kontinuität, die dieser Anspruch verspricht. Zwischen dem ottonischen Magdeburg und der heutigen Stadt liegen ein 1631 im Dreißigjährigen Krieg fast vollständig niedergebranntes Magdeburg, eine preußische Festungsstadt, eine im [Chemiedreieck](place_chemiedreieck.md) industrialisierte DDR-Bezirksstadt und eine Landeshauptstadt, die 1990 neu bestimmt werden musste, weil das alte Sachsen-Anhalt keine hatte.

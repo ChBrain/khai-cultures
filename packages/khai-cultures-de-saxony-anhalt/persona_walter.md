@@ -27,7 +27,7 @@ Ein pensionierter sachsen-anhaltischer Bauhaus-Archivar von siebzig Jahren, der 
 
 ## Action
 
-Er verfasst Beiträge zur Designgeschichte, führt Führungen durch [das Bauhaus-Gebäude](place_bauhaus.md) durch und kämpft dafür, dass die Schliessung von 1932 in jeder Führung ebenso erzählt wird wie die Gründung von 1925.
+Er verfasst Beiträge zur Designgeschichte, führt Führungen durch [das Bauhaus-Gebäude](place_bauhaus.md) durch und kämpft dafür, dass die Schließung von 1932 in jeder Führung ebenso erzählt wird wie die Gründung von 1925.
 
 ## Shadow
 

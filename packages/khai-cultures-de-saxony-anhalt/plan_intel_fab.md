@@ -14,7 +14,7 @@ status: active
 
 ## Taxonomy
 
-Eine Entwicklungsvorgabe: die Ansiedlung einer grossen Halbleiterfabrik auf einem Feld am Rand von [Magdeburg](place_magdeburg.md), einmal als die grösste ausländische Einzelinvestition in der deutschen Industriegeschichte angekündigt.
+Eine Entwicklungsvorgabe: die Ansiedlung einer großen Halbleiterfabrik auf einem Feld am Rand von [Magdeburg](place_magdeburg.md), einmal als die größte ausländische Einzelinvestition in der deutschen Industriegeschichte angekündigt.
 
 ## Owner
 
@@ -32,11 +32,11 @@ Aus einem freien Acker am Stadtrand einen europäischen Vorzeigestandort für di
 
 ## Implementation
 
-Ein rund dreissig Milliarden Euro schweres Vorhaben mit rund zehn Milliarden Euro deutscher Förderung, geplant für zwei Fabrikhallen mit modernster Chipfertigung.
+Ein rund dreißig Milliarden Euro schweres Vorhaben mit rund zehn Milliarden Euro deutscher Förderung, geplant für zwei Fabrikhallen mit modernster Chipfertigung.
 
 ## Targets
 
-- [x] 2022 Standortentscheidung für Magdeburg bekanntgegeben, als grösste ausländische Einzelinvestition der deutschen Industriegeschichte gefeiert.
+- [x] 2022 Standortentscheidung für Magdeburg bekanntgegeben, als größte ausländische Einzelinvestition der deutschen Industriegeschichte gefeiert.
 - [x] 2023 Fördervolumen mit Bund und Land auf rund zehn Milliarden Euro erhöht.
 - [W] 2024 Baubeginn zunächst um zwei Jahre verschoben, offiziell wegen der schwachen Nachfrage nach Chips.
 - [F] Im Juli 2025 zieht sich Intel vollständig aus dem Projekt zurück; ein Spatenstich hat nie stattgefunden.

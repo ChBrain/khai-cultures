@@ -21,11 +21,11 @@ Parent group: positions
 
 ## Has
 
-Die Macht, einen Ort durch blosse Anwesenheit zur Mitte zu machen: eine Pfalz, ein Bistum, eine Grablege entstehen dort, wo der König sie will, nicht dort, wo eine Verwaltung sie vorsieht. Es gibt noch kein Land mit festen Grenzen, das diese Macht trägt, nur den Hof, der mit dem König reist, und die Orte, die er sich aussucht.
+Die Macht, einen Ort durch bloße Anwesenheit zur Mitte zu machen: eine Pfalz, ein Bistum, eine Grablege entstehen dort, wo der König sie will, nicht dort, wo eine Verwaltung sie vorsieht. Es gibt noch kein Land mit festen Grenzen, das diese Macht trägt, nur den Hof, der mit dem König reist, und die Orte, die er sich aussucht.
 
 ## Orders
 
-Dass Treue durch Anwesenheit erneuert wird, nicht durch Papier: der König muss reisen, muss sich zeigen, muss die grossen Feste, Ostern und Weihnachten, an wechselnden Pfalzen begehen, damit die Herzöge und Bischöfe ihn sehen und ihm dienen.
+Dass Treue durch Anwesenheit erneuert wird, nicht durch Papier: der König muss reisen, muss sich zeigen, muss die großen Feste, Ostern und Weihnachten, an wechselnden Pfalzen begehen, damit die Herzöge und Bischöfe ihn sehen und ihm dienen.
 
 ## Loses
 

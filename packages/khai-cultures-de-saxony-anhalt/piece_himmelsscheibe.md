@@ -29,11 +29,11 @@ Sie trägt den Anspruch, mit dem das Land sich heute vorstellt: als Ort, an dem 
 
 ## Apparent
 
-Eine bronzene Scheibe von rund zweiunddreissig Zentimetern Durchmesser mit aufgelegten Goldapplikationen: Sonne oder Vollmond, eine Mondsichel, ein Sternhaufen, der als Plejaden gedeutet wird, und später hinzugefügte goldene Horizontbögen.
+Eine bronzene Scheibe von rund zweiunddreißig Zentimetern Durchmesser mit aufgelegten Goldapplikationen: Sonne oder Vollmond, eine Mondsichel, ein Sternhaufen, der als Plejaden gedeutet wird, und später hinzugefügte goldene Horizontbögen.
 
 ## Yearbook
 
-- Um 1600 vor Christus vergraben, zusammen mit zwei Schwertern, zwei Beilen, zwei Armspiralen und einem Meissel, von Menschen der bronzezeitlichen Aunjetitzer Kultur.
+- Um 1600 vor Christus vergraben, zusammen mit zwei Schwertern, zwei Beilen, zwei Armspiralen und einem Meißel, von Menschen der bronzezeitlichen Aunjetitzer Kultur.
 - 1999 von den Sondengängern Henry Westphal und Mario Renner illegal ausgegraben und über mehrere Hehler weiterverkauft.
 - 2002 in einer polizeilichen Undercover-Aktion sichergestellt und für die Forschung gerettet, wenn auch ohne den ursprünglichen Grabungsbefund, den die Raubgrabung zerstört hatte.
 - 2013 von der UNESCO in das Weltdokumentenerbe aufgenommen und seither vielfach als die älteste konkrete Himmelsdarstellung der Welt bezeichnet, ein Anspruch, den einzelne Fachleute in Datierung und Deutung weiterhin diskutieren.
