@@ -39,18 +39,62 @@ request opens. That is the right design and it has a blind spot shaped exactly
 like this order: a ratchet can tell you a change is sound. It cannot tell you
 which change to make.
 
-## A ladder, not a score
+## A ladder, and then a score
 
-A score is the obvious shape and the wrong one. Weighting _"out of order"_ against
-_"no plot_00"_ against _"still in the umbrella"_ means inventing numbers, and then
-every argument about priority becomes an argument about a number nobody can
-defend. Numbers like that drift, and they drift towards whatever the last person
-wanted to work on.
+This order first said a score was the obvious shape and the wrong one: weighting
+_"out of order"_ against _"no plot_00"_ against _"still in the umbrella"_ means
+inventing numbers, and then every argument about priority becomes an argument
+about a number nobody can defend, and numbers like that drift towards whatever
+the last person wanted to work on.
 
-So the ordering is **lexicographic**. Each rung is a yes-or-no fact the house
-already computes. The first rung a culture answers to is its rung. The only
-policy in the whole file is the **order of the rungs**, which is argued here,
-once, and lives in `tests/next.mjs` as data rather than as control flow.
+That objection was right about the risk and wrong about the remedy, and two facts
+overturned it.
+
+**The ladder could not say "a country before a state."** Depth in the tree is not
+a yes-or-no fault, so a ladder made of yes-or-no facts cannot hold it. What
+happened in practice: `de_thuringia` and then `de_saxony_anhalt` were authored on
+two consecutive working days while `sweden`, a level-1 culture, waited behind
+them, because all three were "wrong" and the tiebreak was hole width.
+
+**And severity did not add.** One blocking finding and a line that is backwards
+with three placeholder chapters and nine findings were the same rung, separated
+only by how wide the hole was. Measured when the score landed:
+`us_south_carolina` owes seven things at once and sat fifth, behind cultures
+owing one thing each.
+
+So the ordering is now **points, highest first**, with the id as the last term so
+it stays total. The rungs remain, and remain data: they name the fault in the
+report and they are still the first thing a reader sees. What changed is that the
+rung no longer decides the order by itself.
+
+### What answers the drift
+
+Not a promise. Two devices.
+
+- **The arithmetic is printed with every row.** `sweden 101 = 40 backwards + 20
+hollow + 24 level 1 + 13 hole 405y + 4 span 421y`. A weight is therefore always
+  argued against a named culture and never in the abstract, which is the thing
+  the original objection actually feared.
+- **The weights are pinned by a test.** `house.test.mjs` asserts the table
+  exactly, so a number cannot move without that line moving in the same diff,
+  where a reader sees it. Probed by changing `disordered` from 40 to 95: the test
+  fails.
+
+And a third, which is the point of the whole file: **this ranks work, it refuses
+nothing.** A score that is read and overruled has done its job. The failure it
+exists to prevent is not a wrong number; it is a queue chosen by whatever the
+last reader happened to be looking at.
+
+### The one thing the ladder guaranteed and the score does not
+
+Under the ladder, anything false ranked above anything merely missing. Under
+points, a culture owing five missing things outranks a culture owing one false
+one: the rung bands overlap, measured at mean 132 for `wrong` against 121 for
+`unbracketed`, with a `wrong` low of 58 and an `unbracketed` high of 184.
+
+That is the intended trade and not a side effect. If the guarantee is ever wanted
+back, it is one line - add `rung * 1000` to the score and the bands separate
+again, with the points ordering inside each.
 
 ## It names a culture, never a task
 
@@ -68,7 +112,7 @@ to choose, and its **ledger** is the change's scope. `tests/next.mjs` prints the
 ledger with the name, because the name alone would send someone to read the
 culture and guess.
 
-## Why the rungs are in this order, which is the only opinion here
+## Why the rungs are in this order, which the weights inherit
 
 **A culture that says something untrue outranks everything else.** The house's
 entire claim is that what it writes down is so. A plot line running backwards, a
@@ -82,6 +126,12 @@ casting a persona forces no brackets. Ordering by which repair _contains_ which
 is what stops a culture needing three pull requests where one would do. That is
 an argument about cost, not about what matters more, and it is the one that
 should be attacked first if this order is ever wrong.
+
+The weights were set to inherit this argument rather than to restate it, and the
+house can be measured to check that they did: mean points come out at 132 for
+`wrong`, 121 for `unbracketed`, 60 for `thin` and 37 for `unmigrated`, which is
+the rung order surviving as a tendency instead of as a gate. Where a weight and
+this section disagree, this section is the one that was argued.
 
 ## The thresholds are the house's own medians
 
@@ -158,6 +208,8 @@ twelve behind it.
 
 - [x] Measure it: 264 of 319 cultures owe something, across four rungs
 - [x] Establish that a score cannot be defended, and order lexicographically
+- [x] Overturn that, with the reasons written above rather than the line deleted:
+      the ladder cannot express depth in the tree, and severity did not add
       instead, with the rung order as the only policy and as data
 - [x] Name a culture rather than a task, because authoring wakes the whole recipe
       and writing and repairing are therefore the same pull request
@@ -177,6 +229,9 @@ twelve behind it.
 - [ ] `san_marino`, the head of the queue: the flat tongue, the brackets, the
       crossbow, and the 1299-year hole — one pull request, in the culture lane
 - [ ] The 57 on rung 1, as each is next named, never as a sweep
+- [ ] Calibrate the weights against work actually done, not against taste: the
+      first numbers are a starting point and the arithmetic in the report is what
+      makes a better one arguable
 - [ ] Read whether rung 2 belongs above rung 3. The argument here is subsumption
       and it is the weakest claim in this order
 - [ ] Groups are out of scope and would rank if they were in it. They have their
