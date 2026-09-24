@@ -56,6 +56,9 @@ import {
   survey as nextSurvey,
   order as cultureOrder,
   queue as nextQueue,
+  WEIGHTS,
+  scoreOf,
+  levelOf,
   next as nextCulture,
   owed,
   asks,
@@ -1313,9 +1316,11 @@ describe("Cultures house: what to do next", () => {
     expect(rungName(SETTLED)).toBe("settled");
   });
 
-  // The difference between a ladder and a score, asserted: a culture that is
-  // both wrong AND thin is wrong. A score would add the two and rank it above a
-  // culture that is only wrong, which is exactly the arithmetic this refuses.
+  // The rung is still the first that holds and never a sum: a culture that is
+  // both wrong AND thin is wrung as wrong, and that is what names the fault in
+  // the report. The order is a different question, and since the score landed it
+  // does add the two - see the scoring tests below. Keeping rungOf arithmetic
+  // free is what lets the score explain itself in the rung's words.
   it("answers to the first rung that holds, never to a sum of several", () => {
     const clean = {
       disordered: false,
@@ -1342,6 +1347,106 @@ describe("Cultures house: what to do next", () => {
 
   it("gives every culture in the house the first rung that holds for it", () => {
     for (const r of nextSurvey().rows) expect(r.rung).toBe(rungOf(r));
+  });
+
+  // The weights, pinned. Not tautology: `order_what_to_do_next.md` refused a
+  // score because invented numbers "drift towards whatever the last person
+  // wanted to work on", and this is the answer to that. A weight cannot move
+  // without this line moving with it, in the same diff, where it can be argued.
+  it("pins the weights, so a number cannot move quietly", () => {
+    expect(WEIGHTS).toEqual({
+      disordered: 40,
+      blocking: 25,
+      flat: 15,
+      origin: 30,
+      present: 30,
+      hollow: 20,
+      uncast: 6,
+      unmigrated: 10,
+      level: 12,
+      holeYears: 20,
+      spanYears: 50,
+    });
+  });
+
+  // The property the score exists for, and the one the ladder could not hold:
+  // owing five things ranks above owing one, whatever rung each answers to.
+  it("adds severity, so many faults outrank one", () => {
+    const clean = {
+      disordered: false,
+      flat: [],
+      blocking: 0,
+      origin: true,
+      present: true,
+      uncast: [],
+      hollow: false,
+      migrated: true,
+      level: 1,
+      span: 0,
+      hole: 0,
+    };
+    const oneFault = { ...clean, disordered: true };
+    const many = {
+      ...clean,
+      origin: false,
+      present: false,
+      hollow: true,
+      uncast: ["a.md", "b.md"],
+    };
+    // level 1 is two steps above the deepest, so it carries 2 x the level weight
+    expect(scoreOf(oneFault).total).toBe(WEIGHTS.disordered + 2 * WEIGHTS.level);
+    expect(scoreOf(many).total).toBeGreaterThan(scoreOf(oneFault).total);
+    // and the arithmetic adds up to what is printed, or the explanation lies
+    for (const l of [oneFault, many]) {
+      const { total, terms } = scoreOf(l);
+      expect(terms.reduce((n, [p]) => n + p, 0)).toBe(total);
+    }
+  });
+
+  // Level is the reason the score was built - a level-2 outranked a level-1 for
+  // two working days - but it is a nudge and never a veto: a country owing one
+  // thing does not outrank a state owing three.
+  it("weighs level without letting it dominate", () => {
+    const clean = {
+      disordered: false,
+      flat: [],
+      blocking: 0,
+      origin: true,
+      present: true,
+      uncast: [],
+      hollow: false,
+      migrated: true,
+      span: 0,
+      hole: 0,
+    };
+    const country = { ...clean, level: 1, disordered: true };
+    const state = { ...clean, level: 2, disordered: true };
+    expect(scoreOf(country).total).toBeGreaterThan(scoreOf(state).total);
+    const brokenState = { ...clean, level: 2, disordered: true, origin: false, present: false };
+    expect(scoreOf(brokenState).total).toBeGreaterThan(scoreOf(country).total);
+  });
+
+  // A score that reproduced the ladder would be ceremony. This asserts it does
+  // not: the two orders disagree on the house as it actually stands.
+  it("ranks differently from the ladder it replaced", () => {
+    const q = nextQueue();
+    const ladder = [...q].sort(
+      (a, b) => a.rung - b.rung || b.hole - a.hole || b.span - a.span || a.id.localeCompare(b.id),
+    );
+    expect(ladder.map((r) => r.id)).not.toEqual(q.map((r) => r.id));
+    expect(q.every((r) => typeof r.score === "number" && Array.isArray(r.terms))).toBe(true);
+  });
+
+  // Level comes from the culture's own geo.json and never from its id, because
+  // ids lie: el_salvador and dr_congo are countries whose ids read sub-national.
+  it("reads level from geo.json, not from the id", () => {
+    const { rows } = nextSurvey();
+    const byId = new Map(rows.map((r) => [r.id, r]));
+    for (const id of ["el_salvador", "dr_congo"])
+      if (byId.has(id)) expect(byId.get(id).level).toBe(1);
+    expect(levelOf("packages/khai-cultures-de-thuringia")).toBe(2);
+    expect(levelOf("packages/khai-cultures-sweden")).toBe(1);
+    expect(levelOf(null)).toBe(1);
   });
 
   // Total, or it is not deterministic - and re-running the queue does not prove

@@ -82,6 +82,77 @@ import { coverage } from "./company_coverage.mjs";
 const NUMBERED = /^plot_(\d{2})_.*\.md$/;
 
 /**
+ * What each fault is worth, as data and never as control flow, for the same
+ * reason the rungs are data: a number that cannot be read without reading code
+ * cannot be argued with.
+ *
+ * `order_what_to_do_next.md` rejected a score once, and the objection was good:
+ * invented numbers drift toward whatever the last person wanted to work on. Two
+ * things answer it here. The weights are printed with every row, as the
+ * arithmetic that produced the rank, so a number is always argued against a
+ * culture and never in the abstract. And `house.test.mjs` pins the head and the
+ * shape of the top of the queue, so moving a weight to move a favourite to the
+ * front fails a test and shows up in a diff.
+ *
+ * What the ladder could not say is why this order was built: a level-2 culture
+ * outranked a level-1 for two working days, and German states were authored
+ * while a country waited, because "country before state" is not a yes-or-no
+ * fault and a ladder can only hold yes-or-no facts.
+ */
+export const WEIGHTS = {
+  disordered: 40,
+  blocking: 25,
+  flat: 15,
+  origin: 30,
+  present: 30,
+  hollow: 20,
+  uncast: 6,
+  unmigrated: 10,
+  level: 12,
+  holeYears: 20,
+  spanYears: 50,
+};
+
+/** The depth of a culture in the tree, from its own `geo.json`. */
+export function levelOf(dir) {
+  if (!dir) return 1;
+  const geo = join(WORKSPACE, dir, "geo.json");
+  if (!existsSync(geo)) return 1;
+  try {
+    const iso = String(JSON.parse(readFileSync(geo, "utf8")).iso ?? "");
+    return iso ? iso.split("-").length : 1;
+  } catch {
+    return 1;
+  }
+}
+
+/**
+ * What a culture owes, in points, with the arithmetic that produced it.
+ *
+ * Severity adds, which is the whole difference from the ladder: one blocking
+ * finding and a line that is backwards with three placeholder chapters and nine
+ * findings were the same rung, separated only by how wide the hole was.
+ */
+export function scoreOf(l, medianSpan = 0, medianHole = 0) {
+  const terms = [];
+  const add = (points, says) => {
+    if (points > 0) terms.push([Math.round(points), says]);
+  };
+  add(l.disordered ? WEIGHTS.disordered : 0, "backwards");
+  add(l.blocking * WEIGHTS.blocking, `${l.blocking} blocking`);
+  add(l.flat.length * WEIGHTS.flat, `${l.flat.length} flat`);
+  add(l.origin ? 0 : WEIGHTS.origin, "no origin");
+  add(l.present ? 0 : WEIGHTS.present, "no present");
+  add(l.hollow ? WEIGHTS.hollow : 0, "hollow");
+  add(l.uncast.length * WEIGHTS.uncast, `${l.uncast.length} uncast`);
+  add(l.migrated ? 0 : WEIGHTS.unmigrated, "unmigrated");
+  add(Math.max(0, 3 - l.level) * WEIGHTS.level, `level ${l.level}`);
+  add(Math.max(0, l.hole - medianHole) / WEIGHTS.holeYears, `hole ${l.hole}y`);
+  add(Math.max(0, l.span - medianSpan) / WEIGHTS.spanYears, `span ${l.span}y`);
+  return { total: terms.reduce((n, [p]) => n + p, 0), terms };
+}
+
+/**
  * The rungs, in the order that is the whole policy of this file.
  *
  * Data and not branches, so a test can assert the order and the order can be
@@ -223,6 +294,7 @@ export function survey() {
       superseded: cover?.superseded ?? [],
       origin: hasOrigin(id),
       present: hasPresent(id),
+      level: levelOf(relative(WORKSPACE, dir)),
     });
   }
 
@@ -231,13 +303,16 @@ export function survey() {
   for (const r of rows) {
     r.hollow = r.span >= spans && r.hole >= holes && spans > 0;
     r.rung = rungOf(r);
+    const { total, terms } = scoreOf(r, spans, holes);
+    r.score = total;
+    r.terms = terms;
   }
   surveyed = { rows, medianSpan: spans, medianHole: holes };
   return surveyed;
 }
 
 /**
- * The order two cultures stand in: rung, widest hole, longest span, then id.
+ * The order two cultures stand in: points first, then id.
  *
  * TOTAL, and that is the whole claim to determinism. The id can never tie, so
  * this never returns 0 for two distinct cultures, so the sort cannot depend on
@@ -246,8 +321,7 @@ export function survey() {
  * answer. A comparator that ties somewhere would pass a re-run - the rows arrive
  * in the same order twice - and fail a reader who added a culture above it.
  */
-export const order = (a, b) =>
-  a.rung - b.rung || b.hole - a.hole || b.span - a.span || a.id.localeCompare(b.id);
+export const order = (a, b) => b.score - a.score || a.id.localeCompare(b.id);
 
 /**
  * The queue: every culture with something owed, worst first.
@@ -334,8 +408,9 @@ function report(limit = 12) {
     console.log("\nNothing owed. Read order_what_to_do_next.md before believing that.");
     return;
   }
-  console.log(`\nNext: ${head.id}  (${rungName(head.rung)})`);
+  console.log(`\nNext: ${head.id}  ${head.score} points  (${rungName(head.rung)})`);
   console.log(`  ${head.unit}`);
+  console.log(`  ${head.terms.map(([n, says]) => `${n} ${says}`).join("  +  ")}`);
   console.log("  What it owes:");
   for (const line of owed(head)) console.log(`    - ${line}`);
   console.log("  What has to be answered outside this repository:");
@@ -343,7 +418,10 @@ function report(limit = 12) {
 
   console.log(`\nBehind it:`);
   for (const r of q.slice(1, limit + 1))
-    console.log(`  ${rungName(r.rung).padEnd(12)} ${r.id.padEnd(24)} ${owed(r)[0] ?? ""}`);
+    console.log(
+      `  ${String(r.score).padStart(4)}  L${r.level}  ${r.id.padEnd(24)} ` +
+        r.terms.map(([n, says]) => `${n} ${says}`).join("  "),
+    );
   console.log(
     `\n  ${q.length} culture(s) owe something. This ranks work; it refuses nothing.\n` +
       "  See management/orders/order_what_to_do_next.md.",
