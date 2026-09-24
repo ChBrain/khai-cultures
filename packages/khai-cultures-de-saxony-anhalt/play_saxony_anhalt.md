@@ -40,8 +40,10 @@ Hier widersprach 1517 ein Mönch in Wittenberg der Kirche und löste die Reforma
 **Places**
 
 - [Magdeburg](place_magdeburg.md)
+- [Halle](place_halle.md)
 - [Quedlinburg](place_quedlinburg.md)
 - [Wittenberg](place_wittenberg.md)
+- [Wörlitz](place_woerlitz.md)
 - [das Bauhaus-Gebäude](place_bauhaus.md)
 - [das Chemiedreieck](place_chemiedreieck.md)
 
@@ -85,23 +87,39 @@ Hier widersprach 1517 ein Mönch in Wittenberg der Kirche und löste die Reforma
 
 936 stirbt Heinrich I. in Memleben und wird in Quedlinburg begraben; sein Sohn Otto macht Magdeburg 968 zum ersten Erzbistum östlich der Elbe und wird 973 dort bestattet. Für ein paar Jahrzehnte liegt hier die Mitte eines Reiches, ehe die Krone weiterzieht und dieser Boden für die nächsten neun Jahrhunderte Provinz von etwas anderem bleibt.
 
-**[Plot 1: Cranachs Werkstatt, 1517 bis 1546](plot_01_cranachs_werkstatt.md)**
+**[Plot 1: Die Salzwirker im Thale, 1491](plot_01_die_halloren_1491.md)**
+
+Über vier Solequellen mitten in Halle wird Salz gesotten, und 1491 schließen sich die Männer an den Pfannen zu einer Brüderschaft zusammen, die das Sieden überlebt hat und es noch gibt.
+
+**[Plot 2: Cranachs Werkstatt, 1517 bis 1546](plot_02_cranachs_werkstatt.md)**
 
 Ein Mönch schlägt in Wittenberg seine Thesen an, doch was daraus eine Bewegung macht, ist die Druckpresse in Cranachs Werkstatt am Markt, die Luthers Bibel in Serie druckt und sein Porträt zur Marke macht.
 
-**[Plot 2: Der Umzug des Bauhauses nach Dessau, 1925](plot_02_bauhaus_dessau_1925.md)**
+**[Plot 3: Die Magdeburger Hochzeit, 20. Mai 1631](plot_03_die_magdeburger_hochzeit_1631.md)**
 
-Die Kunstschule Bauhaus verlässt Weimar und bezieht 1926 das neue, von Walter Gropius entworfene Gebäude in Dessau, ehe konservative und völkische Kräfte den Standort 1932 schliessen.
+Ein kaiserliches Heer stürmt Magdeburg; von fünfunddreißigtausend Einwohnern sterben rund zwanzigtausend, und acht Jahre später leben in der Stadt noch vierhundertfünfzig Menschen.
 
-**[Plot 3: Ein Land ohne eigenes Werden, 1945 bis 1990](plot_03_ein_land_ohne_eigenes_werden.md)**
+**[Plot 4: Guerickes Halbkugeln, 1654](plot_04_guerickes_halbkugeln_1654.md)**
 
-Aus zwei preussischen Provinzen und dem Herzogtum Anhalt entsteht 1947 das Land Sachsen-Anhalt, das 1952 wieder aufgelöst und 1990 aus den Bezirken Halle und Magdeburg neu zusammengefügt wird, ohne dass seine Teile je eine gemeinsame politische Geschichte gehabt hätten.
+Derselbe Mann, der 1631 im Rat sass, ist ab 1646 dreißig Jahre lang Bürgermeister der zerstörten Stadt und führt vor, dass zwei Pferdegespanne eine leergepumpte Kugel nicht auseinanderbekommen.
 
-**[Plot 4: Das Chemiedreieck: Krieg, Gift, Umbau](plot_04_chemiedreieck.md)**
+**[Plot 5: Das Gartenreich, ab 1765](plot_05_das_gartenreich_1765.md)**
 
-Seit 1916 wächst zwischen Leuna, Schkopau und Bitterfeld eine Chemieindustrie, die erst Kriegsmaterial, dann sozialistischen Fortschritt und schliesslich, nach 1990, eine der am stärksten verschmutzten Landschaften Europas hinterlässt, ehe eine milliardenschwere Sanierung sie sauberer und zugleich viel kleiner macht.
+Ein Fürst legt an der Elbe den ersten englischen Landschaftsgarten des Kontinents an, offen für jeden und als Anleitung gemeint, und stellt 1790 eine Synagoge hinein, nachdem er den alten Betraum am Markt hat abreissen lassen.
 
-**[Plot 5: Die Himmelsscheibe: geraubt, gerettet, zur Ikone gemacht](plot_05_himmelsscheibe.md)**
+**[Plot 6: Das Chemiedreieck: Krieg, Gift, Umbau](plot_06_chemiedreieck.md)**
+
+Seit 1916 wächst zwischen Leuna, Schkopau und Bitterfeld eine Chemieindustrie, die erst Kriegsmaterial, dann sozialistischen Fortschritt und schließlich eine der am stärksten verschmutzten Landschaften Europas hinterlässt, ehe eine milliardenschwere Sanierung sie sauberer und zugleich viel kleiner macht.
+
+**[Plot 7: Der Umzug des Bauhauses nach Dessau, 1925](plot_07_bauhaus_dessau_1925.md)**
+
+Die Kunstschule Bauhaus verlässt Weimar und bezieht 1926 das neue, von Walter Gropius entworfene Gebäude in Dessau, ehe konservative und völkische Kräfte den Standort 1932 schließen.
+
+**[Plot 8: Ein Land ohne eigenes Werden, 1945 bis 1990](plot_08_ein_land_ohne_eigenes_werden.md)**
+
+Aus zwei preußischen Provinzen und dem Herzogtum Anhalt entsteht 1947 das Land Sachsen-Anhalt, das 1952 wieder aufgelöst und 1990 aus den Bezirken Halle und Magdeburg neu zusammengefügt wird, ohne dass seine Teile je eine gemeinsame politische Geschichte gehabt hätten.
+
+**[Plot 9: Die Himmelsscheibe: geraubt, gerettet, zur Ikone gemacht](plot_09_himmelsscheibe.md)**
 
 1999 graben Sondengänger bei Nebra eine bronzezeitliche Himmelsscheibe aus und verkaufen sie über Hehler weiter; erst 2002 wird sie sichergestellt, ehe das junge Land sie binnen weniger Jahre zu seinem Wahrzeichen macht.
 

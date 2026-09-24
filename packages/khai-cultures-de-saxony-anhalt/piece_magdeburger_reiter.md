@@ -25,7 +25,7 @@ Das Original steht im Kulturhistorischen Museum [Magdeburg](place_magdeburg.md);
 
 ## Load Bearing
 
-Er ist der Beweis, dass diese Stadt sich, dreihundert Jahre nachdem die Krone weitergezogen war, immer noch über ihren Kaiser definiert: eine freistehende Reiterstatue in Lebensgrösse, wie sie seit der Antike auf diesem Boden niemand mehr gewagt hatte. Ohne ihn wäre Ottos Magdeburg nur eine Zeile in einer Chronik; mit ihm steht er, in Stein, mitten auf dem Marktplatz.
+Er ist der Beweis, dass diese Stadt sich, dreihundert Jahre nachdem die Krone weitergezogen war, immer noch über ihren Kaiser definiert: eine freistehende Reiterstatue in Lebensgröße, wie sie seit der Antike auf diesem Boden niemand mehr gewagt hatte. Ohne ihn wäre Ottos Magdeburg nur eine Zeile in einer Chronik; mit ihm steht er, in Stein, mitten auf dem Marktplatz.
 
 ## Apparent
 
@@ -33,6 +33,6 @@ Ein geharnischter Reiter zu Pferd, um 1240 aus Sandstein gehauen, begleitet von 
 
 ## Yearbook
 
-- Um 1240 als erste freistehende Reiterstatue nördlich der Alpen seit der Antike errichtet, mutmasslich zum Gedenken an [Otto den Grossen](persona_otto.md), fast dreihundert Jahre nach dessen Tod.
-- Über Jahrhunderte am Alten Markt Wetter und Krieg ausgesetzt, unter anderem der fast vollständigen Zerstörung Magdeburgs im Dreissigjährigen Krieg 1631.
+- Um 1240 als erste freistehende Reiterstatue nördlich der Alpen seit der Antike errichtet, mutmasslich zum Gedenken an [Otto den Großen](persona_otto.md), fast dreihundert Jahre nach dessen Tod.
+- Über Jahrhunderte am Alten Markt Wetter und Krieg ausgesetzt, unter anderem der fast vollständigen Zerstörung Magdeburgs im Dreißigjährigen Krieg 1631.
 - Zum Schutz vor weiterem Verfall ins Kulturhistorische Museum verbracht; eine 1966 geschaffene Nachbildung tritt an seine alte Stelle im Freien und wird im Jahr 2000 vergoldet.

@@ -22,11 +22,11 @@ type: archetype
 
 ## Projection
 
-Eine 1928 in der Magdeburger Börde geborene Frau, die 1946 als junge Verwaltungsangestellte bei der Bodenreform mitarbeitet, die die grossen Güter aufteilt, danach vierzig Jahre lang in derselben Amtsstube in Halle oder Magdeburg sitzt, nur unter wechselndem Briefkopf. Sie [spricht](process_speaking_mother_tongue.md) und [schreibt](process_writing_mother_tongue.md) das [sachsen-anhaltische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_st.md) der Amtsstuben, nüchtern, formelhaft, nie mehr Wörter als nötig. Sie gehört [der sachsen-anhaltischen Kultur](position_culture_sachsen_anhaltische_kultur.md) an, obwohl das Land, in dessen Namen sie ihre Akten führt, in ihrem eigenen Berufsleben dreimal einen anderen Namen trägt.
+Eine 1928 in der Magdeburger Börde geborene Frau, die 1946 als junge Verwaltungsangestellte bei der Bodenreform mitarbeitet, die die großen Güter aufteilt, danach vierzig Jahre lang in derselben Amtsstube in Halle oder Magdeburg sitzt, nur unter wechselndem Briefkopf. Sie [spricht](process_speaking_mother_tongue.md) und [schreibt](process_writing_mother_tongue.md) das [sachsen-anhaltische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de_st.md) der Amtsstuben, nüchtern, formelhaft, nie mehr Wörter als nötig. Sie gehört [der sachsen-anhaltischen Kultur](position_culture_sachsen_anhaltische_kultur.md) an, obwohl das Land, in dessen Namen sie ihre Akten führt, in ihrem eigenen Berufsleben dreimal einen anderen Namen trägt.
 
 ## Action
 
-Sie verteilt 1946 [Land aus der Bodenreform](position_bodenarbeit.md) an kleine Bauern und Vertriebene, führt ihre Akten weiter, als [das erste Land Sachsen-Anhalt 1952 aufgelöst wird](plot_03_ein_land_ohne_eigenes_werden.md) und ihre Behörde über Nacht zu einem Bezirksamt wird, und hilft 1990, mit zweiundsechzig Jahren, kurz vor der Rente, noch bei der Übergabe der Akten an die neu gegründete Landesregierung.
+Sie verteilt 1946 [Land aus der Bodenreform](position_bodenarbeit.md) an kleine Bauern und Vertriebene, führt ihre Akten weiter, als [das erste Land Sachsen-Anhalt 1952 aufgelöst wird](plot_08_ein_land_ohne_eigenes_werden.md) und ihre Behörde über Nacht zu einem Bezirksamt wird, und hilft 1990, mit zweiundsechzig Jahren, kurz vor der Rente, noch bei der Übergabe der Akten an die neu gegründete Landesregierung.
 
 ## Shadow
 

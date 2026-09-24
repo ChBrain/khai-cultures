@@ -30,7 +30,7 @@ In seiner Werkstatt entstehen 1522 die Holzschnitte für das Septembertestament,
 
 ## Shadow
 
-Er kann eine Überzeugung so gut verkaufen, dass er selbst nicht mehr genau weiss, wo der Glaube endet und das Geschäft beginnt: Er bleibt Luthers Freund und Trauzeuge und druckt zugleich für Geld, was gerade gefragt ist, auch Werke, die der reinen Lehre eher schaden als nützen.
+Er kann eine Überzeugung so gut verkaufen, dass er selbst nicht mehr genau weiß, wo der Glaube endet und das Geschäft beginnt: Er bleibt Luthers Freund und Trauzeuge und druckt zugleich für Geld, was gerade gefragt ist, auch Werke, die der reinen Lehre eher schaden als nützen.
 
 ## Tell
 

@@ -21,7 +21,7 @@ Parent group: positions
 
 ## Has
 
-Die Presse, die Werkstatt und das Bildrecht an einer Sache, die grösser ist als er selbst: Wer diese Position hält, besitzt nicht die Lehre, sondern die Mittel, sie zu vervielfältigen, ihr ein Gesicht zu geben und sie zu verkaufen. Er hält Apotheke, Weinschank und Grundbesitz neben der Druckerei, denn eine Werkstatt, die von einer einzigen Sache lebt, ist zu schwach für den Ernstfall.
+Die Presse, die Werkstatt und das Bildrecht an einer Sache, die größer ist als er selbst: Wer diese Position hält, besitzt nicht die Lehre, sondern die Mittel, sie zu vervielfältigen, ihr ein Gesicht zu geben und sie zu verkaufen. Er hält Apotheke, Weinschank und Grundbesitz neben der Druckerei, denn eine Werkstatt, die von einer einzigen Sache lebt, ist zu schwach für den Ernstfall.
 
 ## Orders
 
@@ -29,7 +29,7 @@ Dass die Botschaft ein wiedererkennbares Bild bekommt, ehe sie ein zweites Mal g
 
 ## Loses
 
-Die Unschuld der reinen Überzeugung. Wer aus einem Gewissensstreit eine Werkstatt macht, verkauft am Ende auch das, wovon er selbst nicht mehr sicher weiss, ob er es aus Glauben oder aus Auflage druckt.
+Die Unschuld der reinen Überzeugung. Wer aus einem Gewissensstreit eine Werkstatt macht, verkauft am Ende auch das, wovon er selbst nicht mehr sicher weiß, ob er es aus Glauben oder aus Auflage druckt.
 
 ## Drives
 

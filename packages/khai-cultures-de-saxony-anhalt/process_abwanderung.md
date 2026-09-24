@@ -21,7 +21,7 @@ Parent group: processes
 
 ## Initiated by
 
-Der Wegfall der Arbeit, die einen Ort bisher zusammenhielt: eine Zeche, ein Werk, eine Behörde, die schliesst oder schrumpft, und mit ihr die Aussicht, hierzubleiben und trotzdem ein Auskommen zu haben.
+Der Wegfall der Arbeit, die einen Ort bisher zusammenhielt: eine Zeche, ein Werk, eine Behörde, die schließt oder schrumpft, und mit ihr die Aussicht, hierzubleiben und trotzdem ein Auskommen zu haben.
 
 ## Direction
 
@@ -29,7 +29,7 @@ Von den Dörfern und Mittelstädten in Richtung der Landeshauptstädte, Leipzigs
 
 ## Lever
 
-Die Aussicht auf Arbeit anderswo trifft auf die Bindung an ein Haus, eine Familie, einen Ort, den man kennt; wo Ersteres über Jahrzehnte stärker wiegt, verliert das Land seit den 1950er Jahren rund ein Viertel seiner Bevölkerung, mit den grössten Einschnitten unmittelbar nach der Grenzöffnung 1989 und in den ersten Jahren danach.
+Die Aussicht auf Arbeit anderswo trifft auf die Bindung an ein Haus, eine Familie, einen Ort, den man kennt; wo Ersteres über Jahrzehnte stärker wiegt, verliert das Land seit den 1950er Jahren rund ein Viertel seiner Bevölkerung, mit den größten Einschnitten unmittelbar nach der Grenzöffnung 1989 und in den ersten Jahren danach.
 
 ## Echo
 

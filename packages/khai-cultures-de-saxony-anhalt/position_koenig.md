@@ -25,7 +25,7 @@ Die Macht, einen Ort durch blosse Anwesenheit zur Mitte zu machen: eine Pfalz, e
 
 ## Orders
 
-Dass Treue durch Anwesenheit erneuert wird, nicht durch Papier: der König muss reisen, muss sich zeigen, muss die grossen Feste, Ostern und Weihnachten, an wechselnden Pfalzen begehen, damit die Herzöge und Bischöfe ihn sehen und ihm dienen.
+Dass Treue durch Anwesenheit erneuert wird, nicht durch Papier: der König muss reisen, muss sich zeigen, muss die großen Feste, Ostern und Weihnachten, an wechselnden Pfalzen begehen, damit die Herzöge und Bischöfe ihn sehen und ihm dienen.
 
 ## Loses
 

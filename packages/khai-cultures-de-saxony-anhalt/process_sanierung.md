@@ -29,8 +29,8 @@ Von der Stilllegung der schmutzigsten Altanlagen über den Bau moderner Filter u
 
 ## Lever
 
-Rund siebzehn Milliarden Euro Investitionen an den grossen Standorten treiben die Sanierung voran, gegen den Widerstand von Zehntausenden Arbeitsplätzen, die im selben Zug verschwinden: Die Luft wird sauberer, während die Belegschaft von Leuna von rund achtundzwanzigtausend auf wenige Tausend schrumpft.
+Rund siebzehn Milliarden Euro Investitionen an den großen Standorten treiben die Sanierung voran, gegen den Widerstand von Zehntausenden Arbeitsplätzen, die im selben Zug verschwinden: Die Luft wird sauberer, während die Belegschaft von Leuna von rund achtundzwanzigtausend auf wenige Tausend schrumpft.
 
 ## Echo
 
-Der Schwefeldioxid-Ausstoss in Bitterfeld-Wolfen fällt von rund hundertachtzig auf unter zwanzig Mikrogramm pro Kubikmeter, die Gesamtbelastung der Luft seit den 1990er Jahren um rund neunzig Prozent. Was [Elisabeth](persona_elisabeth.md) heute misst, ist eine Region, die sauberer ist als je zuvor in ihrem eigenen Leben und zugleich leerer an Arbeitsplätzen, als sie es je war.
+Der Schwefeldioxid-Ausstoß in Bitterfeld-Wolfen fällt von rund hundertachtzig auf unter zwanzig Mikrogramm pro Kubikmeter, die Gesamtbelastung der Luft seit den 1990er Jahren um rund neunzig Prozent. Was [Elisabeth](persona_elisabeth.md) heute misst, ist eine Region, die sauberer ist als je zuvor in ihrem eigenen Leben und zugleich leerer an Arbeitsplätzen, als sie es je war.

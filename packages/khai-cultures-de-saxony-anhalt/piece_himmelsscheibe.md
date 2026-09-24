@@ -29,7 +29,7 @@ Sie trägt den Anspruch, mit dem das Land sich heute vorstellt: als Ort, an dem 
 
 ## Apparent
 
-Eine bronzene Scheibe von rund zweiunddreissig Zentimetern Durchmesser mit aufgelegten Goldapplikationen: Sonne oder Vollmond, eine Mondsichel, ein Sternhaufen, der als Plejaden gedeutet wird, und später hinzugefügte goldene Horizontbögen.
+Eine bronzene Scheibe von rund zweiunddreißig Zentimetern Durchmesser mit aufgelegten Goldapplikationen: Sonne oder Vollmond, eine Mondsichel, ein Sternhaufen, der als Plejaden gedeutet wird, und später hinzugefügte goldene Horizontbögen.
 
 ## Yearbook
 

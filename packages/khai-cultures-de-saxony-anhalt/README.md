@@ -10,10 +10,10 @@ Saxony-Anhalt staged as a full khai play, ISO DE-ST, language de. A land that ca
 
 - **Anchor:** [play_saxony_anhalt.md](play_saxony_anhalt.md), the culture itself.
 - **Pitch:** [pitch_saxony_anhalt.md](pitch_saxony_anhalt.md), der Ton der Börde.
-- **Plots (history):** the Ottonian founding at Magdeburg and Quedlinburg (936 to 973); Cranach's workshop turning the Reformation into Europe's first media industry (1517 to 1546); the Bauhaus building and its 1932 closure in Dessau (1925 to 1932); the Land assembled, dissolved and reassembled (1945 to 1990); the chemical triangle from war material to poison to cleanup (1916 to the 2000s); the Nebra sky disc looted, recovered and made into the state's icon (1999 to 2013); and the decade since 2019, a record and not a forecast.
+- **Plots (history):** eleven, running forwards. The Ottonian founding at Magdeburg and Quedlinburg (936 to 973); the Halle salters' brotherhood (1491); Cranach's workshop turning the Reformation into Europe's first media industry (1517 to 1546); the sack of Magdeburg (1631); Guericke's hemispheres (1654); the Dessau-Wörlitz Garden Realm (from 1765); the chemical triangle from war material to poison to cleanup (1916 to the 2000s); the Bauhaus building and its 1932 closure in Dessau (1925 to 1932); the Land assembled, dissolved and reassembled (1945 to 1990); the Nebra sky disc looted, recovered and made into the state's icon (1999 to 2013); and the decade since 2019, a record and not a forecast.
 - **Personas:** Otto the Great and Lucas Cranach as the historic cast; Ingrid, Elisabeth and Sophie as three generations of the one who stayed; Walter as the Bauhaus archivist; Frank as the metal-detector hobbyist who found more than he understood.
 - **Positions:** der König, der Verleger, der Fortschritt, die Bodenarbeit, der Sondengänger, die Daheimgebliebene.
-- **Places:** Magdeburg, Quedlinburg, Wittenberg, the Bauhaus building in Dessau, the chemical triangle.
+- **Places:** Magdeburg, Halle, Quedlinburg, Wittenberg, Wörlitz, the Bauhaus building in Dessau, the chemical triangle.
 - **Processes:** Reformation remembrance turned tourism brand, the environmental remediation of the chemical belt, outmigration.
 - **Pieces:** the Magdeburg Rider, the Quedlinburg cathedral treasury, the Luther Bible, the Bauhaus lamp, the Nebra sky disc.
 - **Plans:** the green-hydrogen conversion of the chemical parks; the Magdeburg chip fab that was announced, delayed and abandoned.

@@ -35,4 +35,4 @@ Das Hauptportal der Schlosskirche mit den seit dem 19. Jahrhundert in Bronze geg
 
 ## Withheld
 
-Das Original. Die hölzerne Thesentür wurde im Siebenjährigen Krieg durch Feuer zerstört; wer heute die Bronzetür liest, liest ein Denkmal aus dem 19. Jahrhundert und nicht das Holz, an dem 1517 tatsächlich etwas hing. Ebenso verbirgt der Ruf der Lutherstadt, wie sehr die eigentliche Reichweite der Reformation der Werkstatt am Markt zu verdanken war und nicht allein der Kirche am anderen Ende der Strasse.
+Das Original. Die hölzerne Thesentür wurde im Siebenjährigen Krieg durch Feuer zerstört; wer heute die Bronzetür liest, liest ein Denkmal aus dem 19. Jahrhundert und nicht das Holz, an dem 1517 tatsächlich etwas hing. Ebenso verbirgt der Ruf der Lutherstadt, wie sehr die eigentliche Reichweite der Reformation der Werkstatt am Markt zu verdanken war und nicht allein der Kirche am anderen Ende der Straße.

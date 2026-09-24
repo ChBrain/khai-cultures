@@ -21,7 +21,7 @@ Parent group: positions
 
 ## Has
 
-Das Wissen um einen Ort, der sich unter einem selbst mehrfach verändert, ohne dass man ihn verlässt: dieselbe Strasse unter vier verschiedenen Verwaltungen, denselben Betrieb unter drei verschiedenen Eigentümern, dieselbe Kirche unter wechselnder Zahl von Kirchgängern. Wer hier bleibt, besitzt die Kontinuität, die dem Ort selbst fehlt.
+Das Wissen um einen Ort, der sich unter einem selbst mehrfach verändert, ohne dass man ihn verlässt: dieselbe Straße unter vier verschiedenen Verwaltungen, denselben Betrieb unter drei verschiedenen Eigentümern, dieselbe Kirche unter wechselnder Zahl von Kirchgängern. Wer hier bleibt, besitzt die Kontinuität, die dem Ort selbst fehlt.
 
 ## Orders
 
@@ -29,7 +29,7 @@ Weiterzuarbeiten, während sich die Regeln ändern: die Akte weiterzuführen, we
 
 ## Loses
 
-Die Selbstverständlichkeit, dass Bleiben die normale Wahl ist. Wo jedes Jahr mehr gehen als kommen, wird aus dem Dableiben eine Entscheidung, die erklärt werden muss, und aus dem Ort selbst, still und ohne dass es einer beschliesst, das am dünnsten besiedelte Land der alten Bundesrepublik-Massstäbe.
+Die Selbstverständlichkeit, dass Bleiben die normale Wahl ist. Wo jedes Jahr mehr gehen als kommen, wird aus dem Dableiben eine Entscheidung, die erklärt werden muss, und aus dem Ort selbst, still und ohne dass es einer beschließt, das am dünnsten besiedelte Land der alten Bundesrepublik-Massstäbe.
 
 ## Drives
 

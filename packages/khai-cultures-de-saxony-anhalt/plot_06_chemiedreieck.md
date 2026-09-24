@@ -21,11 +21,11 @@ stamp:
 
 ## Cue
 
-[Das neu gefügte Land](plot_03_ein_land_ohne_eigenes_werden.md) erbt eine Landschaft, die schon Jahrzehnte vor seiner eigenen Gründung zur Chemieregion geworden war: Auf den Feldern der Börde stehen seit 1916 Werke, die nichts mit Landwirtschaft zu tun haben.
+1916 errichtet die BASF bei Merseburg die Leunawerke, um aus Luft Ammoniak zu machen, und aus dem Ammoniak Sprengstoff für einen Krieg, der ohne Salpeter aus Übersee geführt werden muss. Die Werke stehen auf der Börde, dem fettesten Ackerboden Deutschlands, und haben mit Landwirtschaft nichts zu tun.
 
 ## Action
 
-1916 errichtet die BASF bei Merseburg die Leunawerke zur Ammoniaksynthese, gebraucht für Sprengstoff im Ersten Weltkrieg; ab 1936 folgen die Buna-Werke Schkopau, die zwei Drittel des deutschen Synthesekautschuks für die Wehrmacht liefern und dafür Tausende Kriegsgefangene und KZ-Häftlinge einsetzen, ein Lagerkomplex mit rund siebzehntausend Menschen um 1943. Unter der DDR wächst [das Chemiedreieck](place_chemiedreieck.md) weiter, bis Bitterfeld-Wolfen 1990 als am stärksten verschmutzte Stadt Europas gilt, mit einem Schwefeldioxid- und Staubausstoss, der den mehrerer ganzer westdeutscher Flächenländer zusammen übertrifft. Die Wende bringt zugleich Rettung und Ruin: Die Treuhandanstalt verkauft Leuna 1990/91 unter dem Schatten der später aufgedeckten Leuna-Affäre an den französischen Konzern Elf Aquitaine, und die Belegschaft schrumpft von rund achtundzwanzigtausend auf wenige Tausend, während [die Sanierung](process_sanierung.md) mit rund siebzehn Milliarden Euro Investition die Luft binnen weniger Jahre um rund neunzig Prozent sauberer macht.
+Ab 1936 folgen die Buna-Werke Schkopau, die zwei Drittel des deutschen Synthesekautschuks für die Wehrmacht liefern und dafür Tausende Kriegsgefangene und KZ-Häftlinge einsetzen, ein Lagerkomplex mit rund siebzehntausend Menschen um 1943. Unter der DDR wächst [das Chemiedreieck](place_chemiedreieck.md) weiter, bis Bitterfeld-Wolfen 1990 als am stärksten verschmutzte Stadt Europas gilt, mit einem Schwefeldioxid- und Staubausstoß, der den mehrerer ganzer westdeutscher Flächenländer zusammen übertrifft. Die Wende bringt zugleich Rettung und Ruin: Die Treuhandanstalt verkauft Leuna 1990/91 unter dem Schatten der später aufgedeckten Leuna-Affäre an den französischen Konzern Elf Aquitaine, und die Belegschaft schrumpft von rund achtundzwanzigtausend auf wenige Tausend, während [die Sanierung](process_sanierung.md) mit rund siebzehn Milliarden Euro Investition die Luft binnen weniger Jahre um rund neunzig Prozent sauberer macht.
 
 ## Stage
 

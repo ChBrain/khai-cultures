@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Im Frühjahr 1925 zieht die Kunstschule Bauhaus unter der Leitung von Walter Gropius von Weimar nach Dessau um, in eine mittelgrosse Industriestadt ohne jede Kunstschul-Tradition, die der Schule aber Bauland und Aufträge bietet, die Weimar ihr verweigert hatte.
+Im Frühjahr 1925 zieht die Kunstschule Bauhaus unter der Leitung von Walter Gropius von Weimar nach Dessau um, in eine mittelgroße Industriestadt ohne jede Kunstschul-Tradition, die der Schule aber Bauland und Aufträge bietet, die Weimar ihr verweigert hatte.
 
 ## Action
 

@@ -1,7 +1,7 @@
 ---
 khai: persona
 title: "Otto"
-declared: "Otto der Grosse"
+declared: "Otto der Große"
 license: CC-BY-NC-SA-4.0
 stamp:
   owner: KAI HACKS AI
@@ -10,7 +10,7 @@ stamp:
 type: real
 ---
 
-# Persona: Otto der Grosse
+# Persona: Otto der Große
 
 ## Taxonomy
 
