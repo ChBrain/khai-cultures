@@ -31,7 +31,7 @@ Die sowjetische Militäradministration vereinigt beide Provinzen und den Freista
 
 - [Ingrid](persona_ingrid.md), [die Daheimgebliebene](position_daheimgebliebene.md): die Verwaltungsangestellte, deren Aktenzeichen drei Landesnamen überlebt.
 - [Magdeburg](place_magdeburg.md): 1990 zur Landeshauptstadt bestimmt, weil das alte Sachsen-Anhalt von 1947 nie eine gebraucht hatte.
-- [die Bodenarbeit](position_bodenarbeit.md): die Bodenreform von 1945/46, mit der die neue Provinz beginnt, Großgüter über hundert Hektar entschädigungslos zu enteignen und an kleine Bauern und Vertriebene zu verteilen, ein Eingriff, dessen Rechtmässigkeit noch die Gerichte nach 1990 beschäftigt.
+- [die Bodenarbeit](position_bodenarbeit.md): die Bodenreform von 1945/46, mit der die neue Provinz beginnt, Großgüter über hundert Hektar entschädigungslos zu enteignen und an kleine Bauern und Vertriebene zu verteilen, ein Eingriff, dessen Rechtmäßigkeit noch die Gerichte nach 1990 beschäftigt.
 
 ## Tension
 

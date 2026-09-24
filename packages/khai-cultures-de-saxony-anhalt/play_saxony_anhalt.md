@@ -101,11 +101,11 @@ Ein kaiserliches Heer stürmt Magdeburg; von fünfunddreißigtausend Einwohnern 
 
 **[Plot 4: Guerickes Halbkugeln, 1654](plot_04_guerickes_halbkugeln_1654.md)**
 
-Derselbe Mann, der 1631 im Rat sass, ist ab 1646 dreißig Jahre lang Bürgermeister der zerstörten Stadt und führt vor, dass zwei Pferdegespanne eine leergepumpte Kugel nicht auseinanderbekommen.
+Derselbe Mann, der 1631 im Rat saß, ist ab 1646 dreißig Jahre lang Bürgermeister der zerstörten Stadt und führt vor, dass zwei Pferdegespanne eine leergepumpte Kugel nicht auseinanderbekommen.
 
 **[Plot 5: Das Gartenreich, ab 1765](plot_05_das_gartenreich_1765.md)**
 
-Ein Fürst legt an der Elbe den ersten englischen Landschaftsgarten des Kontinents an, offen für jeden und als Anleitung gemeint, und stellt 1790 eine Synagoge hinein, nachdem er den alten Betraum am Markt hat abreissen lassen.
+Ein Fürst legt an der Elbe den ersten englischen Landschaftsgarten des Kontinents an, offen für jeden und als Anleitung gemeint, und stellt 1790 eine Synagoge hinein, nachdem er den alten Betraum am Markt hat abreißen lassen.
 
 **[Plot 6: Das Chemiedreieck: Krieg, Gift, Umbau](plot_06_chemiedreieck.md)**
 

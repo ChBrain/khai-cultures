@@ -29,7 +29,7 @@ Weiterzuarbeiten, während sich die Regeln ändern: die Akte weiterzuführen, we
 
 ## Loses
 
-Die Selbstverständlichkeit, dass Bleiben die normale Wahl ist. Wo jedes Jahr mehr gehen als kommen, wird aus dem Dableiben eine Entscheidung, die erklärt werden muss, und aus dem Ort selbst, still und ohne dass es einer beschließt, das am dünnsten besiedelte Land der alten Bundesrepublik-Massstäbe.
+Die Selbstverständlichkeit, dass Bleiben die normale Wahl ist. Wo jedes Jahr mehr gehen als kommen, wird aus dem Dableiben eine Entscheidung, die erklärt werden muss, und aus dem Ort selbst, still und ohne dass es einer beschließt, das am dünnsten besiedelte Land der alten Bundesrepublik-Maßstäbe.
 
 ## Drives
 

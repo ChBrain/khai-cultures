@@ -21,7 +21,7 @@ Parent group: processes
 
 ## Initiated by
 
-Die Wiedervereinigung selbst: Erst 1990, als westliche Messwerte auf ostdeutsche Werke treffen, wird amtlich, was Anwohner längst rochen und sahen, dass [das Chemiedreieck](place_chemiedreieck.md) mehr Schwefeldioxid und Staub ausstiess als ganze westdeutsche Bundesländer zusammen.
+Die Wiedervereinigung selbst: Erst 1990, als westliche Messwerte auf ostdeutsche Werke treffen, wird amtlich, was Anwohner längst rochen und sahen, dass [das Chemiedreieck](place_chemiedreieck.md) mehr Schwefeldioxid und Staub ausstieß als ganze westdeutsche Bundesländer zusammen.
 
 ## Direction
 

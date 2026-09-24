@@ -29,7 +29,7 @@ Unter der Sachlichkeit liegt eine Art Warten auf den nächsten Rückschlag: Wer 
 
 ## Nerve
 
-Getroffen wird die stille Genugtuung, wenn sich zeigt, dass hier tatsächlich mehr Anfang lag, als aussen vermutet wird, und die trockene Erleichterung, wenn etwas, das man kaum noch geglaubt hat, doch noch hält: eine Tür, eine Sanierung, ein Betrieb, der überlebt.
+Getroffen wird die stille Genugtuung, wenn sich zeigt, dass hier tatsächlich mehr Anfang lag, als außen vermutet wird, und die trockene Erleichterung, wenn etwas, das man kaum noch geglaubt hat, doch noch hält: eine Tür, eine Sanierung, ein Betrieb, der überlebt.
 
 ## Echo
 

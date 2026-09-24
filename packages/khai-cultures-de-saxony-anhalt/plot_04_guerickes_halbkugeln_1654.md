@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Derselbe Mann, der 1631 im Rat sass und aufschrieb, was er in [Magdeburg](place_magdeburg.md) gesehen hatte, legt zwei kupferne Halbkugeln aneinander, pumpt die Luft heraus und lässt Pferde daran ziehen. Sie bekommen die Kugel nicht auseinander. Es ist nichts darin, und genau das hält sie zusammen.
+Derselbe Mann, der 1631 im Rat saß und aufschrieb, was er in [Magdeburg](place_magdeburg.md) gesehen hatte, legt zwei kupferne Halbkugeln aneinander, pumpt die Luft heraus und lässt Pferde daran ziehen. Sie bekommen die Kugel nicht auseinander. Es ist nichts darin, und genau das hält sie zusammen.
 
 ## Action
 

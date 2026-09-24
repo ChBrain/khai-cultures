@@ -44,4 +44,4 @@ Im Rat der Stadt sitzt in diesem Jahr ein Ingenieur namens Otto Guericke. Er üb
 
 ## Tension
 
-Der Krieg kommt von aussen und wird hier zur Eigenschaft des Ortes. Magdeburg ist danach eine Stadt, die weiß, dass sie ausgelöscht werden kann, und diese Erfahrung wiederholt sich 1945 mit Bombern und 1990 mit Bilanzen. Wer diesem Land vorwirft, es sei misstrauisch gegen das, was von aussen über es entschieden wird, sollte bei diesem Datum anfangen zu zählen.
+Der Krieg kommt von außen und wird hier zur Eigenschaft des Ortes. Magdeburg ist danach eine Stadt, die weiß, dass sie ausgelöscht werden kann, und diese Erfahrung wiederholt sich 1945 mit Bombern und 1990 mit Bilanzen. Wer diesem Land vorwirft, es sei misstrauisch gegen das, was von außen über es entschieden wird, sollte bei diesem Datum anfangen zu zählen.

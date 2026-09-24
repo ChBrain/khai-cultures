@@ -30,7 +30,7 @@ Was als sachsen-anhaltisch gilt: die schlichte Sachlichkeit und ehrliche Direkth
 
 ## Loses
 
-Boden, wenn der Anspruch auf Tiefe zur blossen Werbeformel wird und niemand mehr fragt, was ein tausend Jahre altes Erzbistum oder eine dreieinhalbtausend Jahre alte Scheibe mit den Menschen zu tun hat, die heute hier leben. Boden, jedes Jahr messbar, an [die Abwanderung](process_abwanderung.md), die dem Land überdurchschnittlich seine Jungen nimmt und sein Durchschnittsalter steigen lässt. Und Boden an den eigenen Argwohn: Wer schon einmal einen Landesnamen, einmal einen Arbeitsplatz und einmal ein großes Versprechen verschwinden sah, glaubt dem nächsten Versprechen nur noch mit Vorbehalt, selbst wenn es diesmal hielte.
+Boden, wenn der Anspruch auf Tiefe zur bloßen Werbeformel wird und niemand mehr fragt, was ein tausend Jahre altes Erzbistum oder eine dreieinhalbtausend Jahre alte Scheibe mit den Menschen zu tun hat, die heute hier leben. Boden, jedes Jahr messbar, an [die Abwanderung](process_abwanderung.md), die dem Land überdurchschnittlich seine Jungen nimmt und sein Durchschnittsalter steigen lässt. Und Boden an den eigenen Argwohn: Wer schon einmal einen Landesnamen, einmal einen Arbeitsplatz und einmal ein großes Versprechen verschwinden sah, glaubt dem nächsten Versprechen nur noch mit Vorbehalt, selbst wenn es diesmal hielte.
 
 ## Drives
 

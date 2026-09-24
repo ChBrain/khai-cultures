@@ -34,4 +34,4 @@ Den Zugang, der seit zweihundertsechzig Jahren gilt: der Park ist offen, und er 
 
 ## Withheld
 
-Wieviel Herrschaft in der Großzügigkeit steckt. Alles hier ist Absicht, bis zum Obstbaum in der Sichtachse, und der Fürst, der die Aufklärung anlegen lässt, ist derselbe, der den alten Betraum am Markt für ein Rathaus abreissen ließ.
+Wieviel Herrschaft in der Großzügigkeit steckt. Alles hier ist Absicht, bis zum Obstbaum in der Sichtachse, und der Fürst, der die Aufklärung anlegen lässt, ist derselbe, der den alten Betraum am Markt für ein Rathaus abreißen ließ.

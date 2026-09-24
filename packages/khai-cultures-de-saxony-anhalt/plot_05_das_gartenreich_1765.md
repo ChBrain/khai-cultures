@@ -27,7 +27,7 @@ Ab 1765 lässt Fürst Leopold III. Friedrich Franz von Anhalt-Dessau an der Elbe
 
 [Wörlitz](place_woerlitz.md) ist kein Schlossgarten, der zufällig groß geraten ist. Der Leitsatz ist von Horaz geborgt, das Nützliche mit dem Angenehmen zu verbinden, und er wird wörtlich genommen: Obstbäume stehen in den Sichtachsen, die Deiche sind Wege, die Wiesen werden beweidet. Das Land ist klein und arm, und die Anlage ist zugleich Landesverschönerung, Musterlandwirtschaft und Schule.
 
-Und 1789/90 lässt der Fürst am Rand des Parks eine Synagoge bauen, nach Entwurf von Erdmannsdorff und nach dem Vorbild des Vestatempels in Rom. Vorher hatte er den alten Betraum am Markt abreissen lassen, weil dort ein klassizistisches Rathaus hinsollte. Die jüdische Gemeinde bekommt also einen Tempel im Park des Fürsten, weil ihr Bethaus einem Rathaus gewichen ist.
+Und 1789/90 lässt der Fürst am Rand des Parks eine Synagoge bauen, nach Entwurf von Erdmannsdorff und nach dem Vorbild des Vestatempels in Rom. Vorher hatte er den alten Betraum am Markt abreißen lassen, weil dort ein klassizistisches Rathaus hinsollte. Die jüdische Gemeinde bekommt also einen Tempel im Park des Fürsten, weil ihr Bethaus einem Rathaus gewichen ist.
 
 > Aufklärung, wie dieses Land sie bekommt: geschenkt, gut gemeint, und im Garten eines Fürsten gelegen, der sie jederzeit hätte zurücknehmen können.
 
