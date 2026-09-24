@@ -28,6 +28,8 @@ import {
   report as coverageReport,
 } from "./company_coverage.mjs";
 import { conformance } from "./culture_conformance.mjs";
+import { cultureIds as auditCultureIds, dirFor, readCulture } from "./plot_line_audit.mjs";
+import { cueDigest, statusOf, readings } from "./plot_line_readings.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { repeats, register, proseRepeats, findings as nameFindings } from "./link_names.mjs";
 import { declared, restatesType } from "./type_titles.mjs";
@@ -1603,6 +1605,72 @@ describe("Cultures house: a name reads as prose", () => {
 // never once been offered as work. Held here is what widening must NOT do - move
 // a culture - and the mapping that lets a group be read on the same ledger.
 // See management/orders/order_what_to_do_next.md.
+// A second reader, and the record that makes one possible. The lane could always
+// ask; it could never record, so 319 cultures had been read by nobody and the
+// house could not name one. What is held here is the shape of the record, the
+// staleness rule, and the duplication the audit lane chose over a dependency.
+// See management/orders/order_a_second_reader.md.
+describe("Cultures house: a reading that is not recorded did not happen", () => {
+  // The audit lane runs with NO INSTALL so a registry it does not need cannot
+  // break it, so it enumerates cultures itself rather than importing
+  // culture_sources, which reaches for @chbrain/khai-tests. A duplication chosen
+  // over a dependency is only safe while the two agree, so they are held to it.
+  it("enumerates the same cultures as culture_sources, by a different route", () => {
+    expect(auditCultureIds()).toEqual([...coveredCultureIds()].sort());
+  });
+
+  it("digests the Cues and nothing else, so an Action edit does not stale a reading", () => {
+    const one = { plots: [{ file: "plot_00_a.md", cue: "En mose." }] };
+    const same = { plots: [{ file: "plot_00_a.md", cue: "En mose." }] };
+    const moved = { plots: [{ file: "plot_00_a.md", cue: "En anden mose." }] };
+    const added = { plots: [...one.plots, { file: "plot_01_b.md", cue: "Og en tyr." }] };
+    expect(cueDigest(one)).toBe(cueDigest(same));
+    expect(cueDigest(one)).not.toBe(cueDigest(moved));
+    expect(cueDigest(one)).not.toBe(cueDigest(added));
+    expect(cueDigest(null)).toBe(null);
+  });
+
+  it("calls a culture never read, read, or stale, against that digest", () => {
+    const id = coveredCultureIds()[0];
+    expect(statusOf(id, {}).status).toBe("never");
+    const fresh = readCulture(dirFor(id));
+    const good = {
+      [id]: [
+        { read: "2026-09-24", reader: "gemini", plots: fresh.plots.length, cues: cueDigest(fresh) },
+      ],
+    };
+    expect(statusOf(id, good).status).toBe("current");
+    const wrong = {
+      [id]: [
+        { read: "2026-09-24", reader: "gemini", plots: fresh.plots.length, cues: "000000000000" },
+      ],
+    };
+    expect(statusOf(id, wrong).status).toBe("stale");
+  });
+
+  // The digest is what a reader copies into the record, and it used to be
+  // computed inside the branch that already had a reading - so the one path that
+  // most needs it, a culture nobody has read, printed `"cues": "undefined"`.
+  it("offers the digest on the never-read path, which is the path that needs it", () => {
+    const s = statusOf(coveredCultureIds()[0], {});
+    expect(s.status).toBe("never");
+    expect(s.digest).toMatch(/^[0-9a-f]{12}$/);
+  });
+
+  it("holds the record parseable, and counts what it does not yet hold", () => {
+    const r = readings();
+    expect(typeof r).toBe("object");
+    for (const [id, list] of Object.entries(r)) {
+      expect(Array.isArray(list), `readings["${id}"] must be an array`).toBe(true);
+      for (const e of list) {
+        expect(typeof e.read).toBe("string");
+        expect(typeof e.reader, `readings["${id}"] needs a named reader`).toBe("string");
+        expect(e.reader.length).toBeGreaterThan(0);
+      }
+    }
+  });
+});
+
 describe("Cultures house: the queue reads groups and sunken too", () => {
   const s = nextSurvey();
 
