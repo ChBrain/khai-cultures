@@ -67,9 +67,32 @@ An array, because a culture is read more than once: a line that gains a plot owe
 another reading.
 
 `reader` is **free text and never an enum**, because the list moves - it has
-already been GitHub Models and is now three others. The one value that is always
+already been GitHub Models, is now Codex, Gemini and Perplexity, and will be
+others. A field that had to be extended before a new reader could be recorded
+would be a field that quietly discouraged using one. The one value that is always
 wrong is the author's own. No field can prevent that; what the record does is
 make it visible, which is the whole of the protection available.
+
+## How it is run, which is not on every pull request
+
+A reading is a deliberate act, not a debt owed by each change. The command names
+the culture, because choosing which one is the point:
+
+```
+node tests/plot_line_readings.mjs --ask denmark
+```
+
+What it prints is a prompt **pointing at the repository**, not the prose pasted
+in. That is how the readers here are actually used: Codex, Gemini or Perplexity,
+given a link and told to go and read. The URL is derived from the git remote
+rather than typed, so a fork or a rename cannot send a reader to somebody else's
+house.
+
+It points at `main`, deliberately. A reading is of what the house **ships**, not
+of what a branch proposes, which is the same reason this is not a per-pull-request
+act. A pull request still says whether the culture it wrote has ever been read -
+that is a nudge and costs nothing - but it does not ask for a reading, and nobody
+owes one to merge.
 
 ## What a reading goes stale against
 

@@ -36,6 +36,7 @@
 // always wrong is the author's own, and no field can stop that: the order says
 // it and the name in the record is what makes it visible.
 
+import { execFileSync } from "node:child_process";
 import { createHash } from "node:crypto";
 import { existsSync, readFileSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -43,11 +44,32 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 
 // All three from the audit lane, which is builtin-only on purpose: this module
 // is read by the workflow that runs with no install.
-import { cultureIds, dirFor, readCulture, touchedCultures } from "./plot_line_audit.mjs";
+import { PREAMBLE, cultureIds, dirFor, readCulture, touchedCultures } from "./plot_line_audit.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const WORKSPACE = join(HERE, "..");
 export const RECORD = join(WORKSPACE, "management", "readings.json");
+
+/**
+ * The repository a reader is pointed AT, from the git remote.
+ *
+ * The readers this house uses are given a pointer and read the repo themselves,
+ * rather than being handed the prose in a paste. So the question needs a URL and
+ * not a dump, and the URL is derived rather than typed: a fork or a rename would
+ * otherwise send every reader to somebody else's house.
+ */
+export function repoUrl(workspace = WORKSPACE) {
+  try {
+    const remote = execFileSync("git", ["remote", "get-url", "origin"], {
+      cwd: workspace,
+      encoding: "utf8",
+    }).trim();
+    const m = /github\.com[:/](.+?)(?:\.git)?$/.exec(remote);
+    return m ? `https://github.com/${m[1]}` : null;
+  } catch {
+    return null;
+  }
+}
 
 /** The judged data: `{ id: [ { read, reader, plots, cues, state, says } ] }`. */
 export function readings(path = RECORD) {
@@ -129,6 +151,43 @@ if (isMain) {
     }
     process.exit(0);
   }
+  // --ask is the deliberate one: a reading is a specific choice, not something
+  // owed on every pull request. It prints a prompt to hand to whichever reader is
+  // being used today, pointing AT the repo rather than pasting the prose in.
+  if (argv.includes("--ask")) {
+    const ids = argv.slice(argv.indexOf("--ask") + 1).filter((a) => !a.startsWith("--"));
+    if (!ids.length) {
+      console.error("usage: plot_line_readings.mjs --ask <culture> [<culture>...]");
+      process.exit(2);
+    }
+    const base = repoUrl();
+    const record = readings();
+    console.log(PREAMBLE.trim());
+    console.log();
+    for (const id of ids) {
+      const s = statusOf(id, record);
+      if (!s.culture) {
+        console.error(`plot-line readings: no culture "${id}".`);
+        process.exit(2);
+      }
+      const dir = dirFor(id);
+      console.log(`---\n`);
+      console.log(`## Culture: ${id}${s.culture.declared ? ` (${s.culture.declared})` : ""}`);
+      console.log(
+        `\nRead it here: ${base ? `${base}/tree/main/${dir}` : dir}` +
+          `\nStaged prose is in \`${s.culture.language}\`. ${s.culture.plots.length} plots, each with a Cue chapter:\n`,
+      );
+      for (const p of s.culture.plots) console.log(`- \`${p.file}\` - ${p.title}`);
+      console.log(
+        `\nWhen you have the answer, record it in \`management/readings.json\`:\n\n` +
+          "```json\n" +
+          `"${id}": [{ "read": "<date>", "reader": "<who>", "plots": ${s.culture.plots.length}, "cues": "${s.digest}", "state": <n>, "says": "<one line>" }]\n` +
+          "```\n",
+      );
+    }
+    process.exit(0);
+  }
+
   const one = argv.includes("--culture") ? argv[argv.indexOf("--culture") + 1] : null;
   if (one) {
     const s = statusOf(one);

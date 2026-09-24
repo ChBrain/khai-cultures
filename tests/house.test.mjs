@@ -29,7 +29,7 @@ import {
 } from "./company_coverage.mjs";
 import { conformance } from "./culture_conformance.mjs";
 import { cultureIds as auditCultureIds, dirFor, readCulture } from "./plot_line_audit.mjs";
-import { cueDigest, statusOf, readings } from "./plot_line_readings.mjs";
+import { cueDigest, statusOf, readings, repoUrl } from "./plot_line_readings.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { repeats, register, proseRepeats, findings as nameFindings } from "./link_names.mjs";
 import { declared, restatesType } from "./type_titles.mjs";
@@ -1655,6 +1655,15 @@ describe("Cultures house: a reading that is not recorded did not happen", () => 
     const s = statusOf(coveredCultureIds()[0], {});
     expect(s.status).toBe("never");
     expect(s.digest).toMatch(/^[0-9a-f]{12}$/);
+  });
+
+  // The reader is pointed AT the repo rather than handed the prose, so the URL is
+  // load-bearing - and derived from the remote, because a fork or a rename would
+  // otherwise send every reader to somebody else's house.
+  it("derives the repository a reader is pointed at, rather than carrying one", () => {
+    const url = repoUrl();
+    expect(url).toMatch(/^https:\/\/github\.com\/[^/]+\/[^/]+$/);
+    expect(url.endsWith(".git")).toBe(false);
   });
 
   it("holds the record parseable, and counts what it does not yet hold", () => {

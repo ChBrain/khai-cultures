@@ -176,7 +176,7 @@ export function readCulture(dir) {
   };
 }
 
-const PREAMBLE = `You are a second reader for a house of staged world cultures. You are auditing
+export const PREAMBLE = `You are a second reader for a house of staged world cultures. You are auditing
 one thing and nothing else.
 
 Every culture here is staged as a play whose plots are its history. A recurring

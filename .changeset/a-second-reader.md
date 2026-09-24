@@ -32,8 +32,16 @@ goes stale against the plot count and a digest of the Cues in plot order: a new 
 count, a rewritten Cue moves the digest, and editing an Action chapter does neither — the
 audit asks about Cues, so a reading covers Cues.
 
-The PR comment now leads with whether anyone has ever read the culture, and hands over the
-exact JSON line to paste.
+**How it is run: not on every pull request.** A reading is a deliberate choice of culture, so
+the command names one — `node tests/plot_line_readings.mjs --ask denmark` — and what it prints
+is a prompt **pointing at the repository**, not the prose pasted in. That is how these readers
+are actually used: given a link and told to go and read. The URL is derived from the git
+remote rather than typed, so a fork or a rename cannot send a reader to somebody else's house,
+and it points at `main` because a reading is of what the house ships, not of what a branch
+proposes.
+
+A pull request still says whether the culture it wrote has ever been read — a nudge that costs
+nothing — but it does not ask for a reading and nobody owes one to merge.
 
 Two things found on the way. `plot_line_audit.mjs` had **no `isMain` guard**, alone among the
 modules in `tests/`, so importing it ran the CLI and wrote a question to stdout as a side
