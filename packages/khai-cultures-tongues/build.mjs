@@ -214,17 +214,47 @@ ${plain}
 `;
 }
 
+/**
+ * Whether a file is written in the tongue it is about.
+ *
+ * The tag is read by subtag, not by prefix, because `fr-x-gallo` IS Gallo
+ * performed - the private-use subtag is how BCP-47 says so - while `en` on a
+ * file under `nv/` is not Navajo by any reading.
+ */
+export const performsItsTongue = (lang, language) =>
+  String(language ?? "")
+    .toLowerCase()
+    .split("-")
+    .includes(lang.toLowerCase());
+
 export function renderReferences(dir = HERE) {
   const p = provenance(dir);
-  const rows = [...varieties(dir).map((x) => x.file), ...nonLanguages(dir)]
+  const all = varieties(dir);
+  const described = all.filter((x) => !performsItsTongue(x.lang, x.language));
+  const writtenIn = new Map(all.map((x) => [x.file, x]));
+  const rows = [...all.map((x) => x.file), ...nonLanguages(dir)]
     .map((file) => {
       const x = { file };
       const e = p[x.file] ?? {};
+      const v = writtenIn.get(file);
+      // The column used to print the orthography alone, which claimed a
+      // performance three files do not give: nv read "the Navajo alphabet, with
+      // tone and nasal marks" while being written in English. Say it first.
+      const fallback =
+        v && !performsItsTongue(v.lang, v.language)
+          ? `**Written in \`${v.language}\`, not in this tongue: it describes rather than performs, and is owed a rewrite by someone who can.** `
+          : "";
       const flag = e.review === "native" ? "**The prose is flagged for native review.** " : "";
       const from = e.from ? ` Came here from \`cultures/${e.from}\`, which wrote it.` : "";
-      return `| \`${x.file}\` | ${e.orthography ?? ""} | ${flag}${e.note ?? ""}${from} |`;
+      return `| \`${x.file}\` | ${fallback}${e.orthography ?? ""} | ${flag}${e.note ?? ""}${from} |`;
     })
     .join("\n");
+  const debt = described.length
+    ? `\n**${described.length} of ${all.length} describe rather than perform** - ` +
+      `${described.map((x) => `\`${x.lang}\``).join(", ")} - and each is a debt rather than a ` +
+      `settled choice. English here is the last resort, taken only where nobody could write the ` +
+      `tongue rather than where nobody could read it.\n`
+    : "";
   return `# Tongues: References
 
 Each variety carries the provenance of its own prose. What is recorded here is
@@ -236,7 +266,7 @@ Each also records how it is written. A tongue file is that tongue performed
 rather than described, and where the tongue has no codified spelling somebody had
 to choose one; \`author's own\` marks the files where that somebody was this house,
 and the reader is owed that distinction.
-
+${debt}
 | Variety | Written in | Provenance |
 | --- | --- | --- |
 ${rows}
