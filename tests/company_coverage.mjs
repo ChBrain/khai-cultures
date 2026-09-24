@@ -128,12 +128,28 @@ export function cultureIds() {
  */
 export function coverage(id) {
   // Every return here carries all four keys. The gate destructures `superseded`
-  // and reads its length, so an early return that omits it does not report a
-  // clean culture, it throws - and a wall that throws is a wall that says
-  // nothing while looking like it failed on the content.
+  // and reads its length, so an early return that omits it kills the gate on a
+  // TypeError raised deep inside itself - a failure that says nothing while
+  // looking as though the content was at fault.
+  //
+  // That is not an argument against the named refusal below. A TypeError from a
+  // missing key names nothing; a refusal names the id, says the caller asked the
+  // wrong module, and cannot be mistaken for a content finding. One is a wall
+  // falling over, the other is a wall answering.
   const empty = { dead: [], waived: [], superseded: [], company: [] };
   const dir = cultureDir(id);
-  if (!dir || !existsSync(dir) || !statSync(dir).isDirectory()) return empty;
+  // An id that resolves to no directory is not a clean culture, it is the wrong
+  // question. A group has its own coverage in group_coverage.mjs, with its own
+  // ledger; a typo has nothing. Returning `empty` here answered both with a
+  // clean bill - `eu` and `nonexistent_xyz` got the same spotless report as a
+  // culture that had actually been read. Fail closed, loudly, and never in the
+  // direction of green, the way plot_zero.mjs already does.
+  if (!dir || !existsSync(dir) || !statSync(dir).isDirectory())
+    throw new Error(
+      `company_coverage: "${id}" has no culture directory. Only culture ids reach ` +
+        `here; a group is asked through group_coverage.mjs, and any other unit must ` +
+        `be split off with cultureUnits() before it is asked about its Company.`,
+    );
   const files = readdirSync(dir).filter((f) => f.endsWith(".md"));
   const playFile = files.find((f) => f.startsWith("play_"));
   if (!playFile) return empty;
