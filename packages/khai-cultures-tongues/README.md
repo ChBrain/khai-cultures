@@ -17,7 +17,7 @@ that thinks in it. Where it is spoken is not one of the four.
 
 **Under construction, and private.** The varieties arrive one at a time,
 narrowest first, as the walk described in the Cultures house design record
-(`management/design/cultures-as-packages.md`) reaches them. **153 landed.**
+(`management/design/cultures-as-packages.md`) reaches them. **155 landed.**
 
 Before this package publishes it owes the composite ceremony: the WIRES card, the
 Playwright wiring guide, `index.mjs`, and its own language check, since a variety
@@ -148,6 +148,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `lzh/position_language_lzh.md`         | Literary Chinese: a written language four countries read and none of them spoke, in which every character is meaning and nothing inflects                 | `lzh`        |
 | `mk/position_language_mk.md`           | Macedonian: three definite articles suffixed to the noun, near, far and neutral, where its sisters have one                                               | `mk`         |
 | `mt/position_language_mt.md`           | Maltese: the only Semitic language in Latin script, carrying a triconsonantal root and a Romance vocabulary in the same word                              | `mt`         |
+| `na/position_language_na.md`           | Nauruan: a language in no trouble when spoken and in trouble when typed, because it ships two orthographies and neither won                               | `en`         |
 | `nds/position_language_nds.md`         | Low German, the northern branch that never took the High German consonant shift                                                                           | `nds`        |
 | `nl/position_language_nl.md`           | Dutch: the -je diminutive on almost any noun, a throat-g no neighbour shares, and modal particles that carry a stance                                     | `nl`         |
 | `nl/position_language_nl_be.md`        | Belgian Dutch: the northern grammar carried on a soft palatal g                                                                                           | `nl`         |
@@ -178,6 +179,7 @@ leaves the reach of the house's `validateProjectLanguages` when it leaves
 | `tr/position_language_tr_cy.md`        | Cypriot Turkish: as written, the anchor's agglutination under an island's name, and flagged as such                                                       | `tr`         |
 | `vmf/position_language_vmf.md`         | East Franconian: no hard consonants, -la, and a gendered two                                                                                              | `vmf`        |
 | `wep/position_language_wep.md`         | Westphalian: Low German, with the breaking no other Low German has                                                                                        | `wep`        |
+| `xpu/position_language_xpu.md`         | Punic: dead in the mouth and open on the page, which are two facts and usually said as one                                                                | `en`         |
 | `yi/position_language_yi.md`           | Yiddish: a fusion whose spelling shows the seam, and a language that lost its speakers rather than its usefulness                                         | `yi`         |
 | `yue/position_language_yue.md`         | Cantonese: the entering tone kept from Middle Chinese, so that Tang verse still scans when read aloud in it                                               | `yue`        |
 | `zh/position_language_zh.md`           | Chinese: meaning carried by tone and by measure word, and never by a change in the shape of the word itself                                               | `zh`         |
