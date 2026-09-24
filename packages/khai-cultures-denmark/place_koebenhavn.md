@@ -27,7 +27,7 @@ Hovedstaden ved Øresund, en lav, cyklende by af havn, tårne og brede pladser. 
 ## Holds
 
 - [Grundloven 1849](plot_02_grundloven_1849.md): her giver landet sig selv sit folkestyre.
-- [jødernes redning 1943](plot_04_besaettelsen_1943.md): herfra sejler bådene mod Sverige.
+- [jødernes redning 1943](plot_05_besaettelsen_1943.md): herfra sejler bådene mod Sverige.
 
 ## Offers
 

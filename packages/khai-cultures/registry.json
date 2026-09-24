@@ -11678,9 +11678,19 @@
           "taxonomy": "position_du.md"
         },
         {
+          "file": "piece_cimbrertyren.md",
+          "kind": "piece",
+          "title": "The Cimbrian Bull"
+        },
+        {
           "file": "piece_dannebrog.md",
           "kind": "piece",
           "title": "The Danish Flag"
+        },
+        {
+          "file": "piece_gundestrupkarret.md",
+          "kind": "piece",
+          "title": "The Gundestrup Cauldron"
         },
         {
           "file": "piece_rugbroed.md",
@@ -11692,6 +11702,11 @@
           "kind": "pitch",
           "title": "The Danish Tone",
           "taxonomy": "play_denmark.md"
+        },
+        {
+          "file": "place_himmerland.md",
+          "kind": "place",
+          "title": "Himmerland"
         },
         {
           "file": "place_jelling.md",
@@ -11745,19 +11760,24 @@
           "taxonomy": "play_denmark.md"
         },
         {
-          "file": "plot_04_besaettelsen_1943.md",
+          "file": "plot_04_gundestrupkarret_1891.md",
+          "kind": "plot",
+          "title": "The Gundestrup Cauldron, 1891"
+        },
+        {
+          "file": "plot_05_besaettelsen_1943.md",
           "kind": "plot",
           "title": "The Occupation and the Rescue of the Jews, 1943",
           "taxonomy": "play_denmark.md"
         },
         {
-          "file": "plot_05_kvinderne_og_vuggestuerne.md",
+          "file": "plot_06_kvinderne_og_vuggestuerne.md",
           "kind": "plot",
           "title": "The Women and the Nurseries, 1960 to 1975",
           "taxonomy": "play_denmark.md"
         },
         {
-          "file": "plot_06_du_reformen.md",
+          "file": "plot_07_du_reformen.md",
           "kind": "plot",
           "title": "The Du Reform, around 1970",
           "taxonomy": "play_denmark.md"

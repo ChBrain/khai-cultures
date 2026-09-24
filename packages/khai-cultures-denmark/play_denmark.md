@@ -38,6 +38,7 @@ Et lille, fladt land, der engang var en stormagt og tabte sit rige stykke for st
 
 - [København](place_koebenhavn.md)
 - [Jelling](place_jelling.md)
+- [Himmerland](place_himmerland.md)
 
 **Processes**
 
@@ -55,6 +56,8 @@ Et lille, fladt land, der engang var en stormagt og tabte sit rige stykke for st
 **Pieces**
 
 - [Dannebrog](piece_dannebrog.md)
+- [Gundestrupkarret](piece_gundestrupkarret.md)
+- [Cimbrertyren](piece_cimbrertyren.md)
 - [rugbrødet](piece_rugbroed.md)
 
 **Pitches**
@@ -84,15 +87,19 @@ Enevælden lægges fredeligt i graven, og landet giver sig selv en grundlov i [K
 
 Landet taber Slesvig til Preussen og bliver lille. Hvad udad tabes, skal indad vindes: [Grundtvig](persona_grundtvig.md)s højskoler vender sorgen til en folkelig rejsning.
 
-**[Plot 4: Besættelsen og jødernes redning 1943](plot_04_besaettelsen_1943.md)**
+**[Plot 4: Gundestrupkarret 1891](plot_04_gundestrupkarret_1891.md)**
+
+To tørvearbejdere finder [et thrakisk sølvkar](piece_gundestrupkarret.md) i en mose i [Himmerland](place_himmerland.md), og egnen læser et vidnesbyrd om forbindelse som et vidnesbyrd om afstamning; i 1937 står [kimbrertyren](piece_cimbrertyren.md) i bronze i Aalborg.
+
+**[Plot 5: Besættelsen og jødernes redning 1943](plot_05_besaettelsen_1943.md)**
 
 Under besættelsen sejler almindelige danskere deres jødiske naboer i sikkerhed over Øresund fra [København](place_koebenhavn.md); [Dannebrog](piece_dannebrog.md) dækker en hel nation, der nægter at svigte.
 
-**[Plot 5: Kvinderne og vuggestuerne, 1960 til 1975](plot_05_kvinderne_og_vuggestuerne.md)**
+**[Plot 6: Kvinderne og vuggestuerne, 1960 til 1975](plot_06_kvinderne_og_vuggestuerne.md)**
 
 Sambeskatningen falder, kommunerne bygger vuggestuer, og på halvandet årti bliver toindkomstfamilien normalen; tilliden til fremmede holder op med at være en medfødt egenskab og bliver en indretning.
 
-**[Plot 6: Du-reformen, omkring 1970](plot_06_du_reformen.md)**
+**[Plot 7: Du-reformen, omkring 1970](plot_07_du_reformen.md)**
 
 Et helt sprogsamfund afskaffer [De](position_du.md) på et årti, uden lov og uden dato, og bagefter kan næsten ingen huske at have besluttet noget.
 
