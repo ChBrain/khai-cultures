@@ -201,7 +201,20 @@ export function cultures(workspace = WORKSPACE) {
   const all = unitsOf(house); // throws its own "two places at once" on a real duplicate
   // A migrated group is a unit and not a culture. See the note at the top.
   const groupDirs = new Set(groupsOf(house).map((g) => g.dir));
-  const units = all.filter((u) => !groupDirs.has(u.dir));
+  // NEITHER IS A SUNKEN PRODUCTION, and this line was written by being handed one.
+  // `order_the_sunken.md` says the count must not move by a sunken play existing,
+  // and then says nothing in the split "needs to learn the word sunken" - true of
+  // `cultureUnits`, which splits on membership of this list, and false of this
+  // function, which DEFINES that membership. Staging `cimbri` put it straight into
+  // `cultureIds()`: the umbrella's minor went to 320, the complete-theatre wall
+  // demanded a pitch and a process of a people that ended in 101 BC, and the
+  // order's own first rule was broken by its own first play.
+  const sunken = new Set(
+    all
+      .filter((u) => manifest(u.dir)?.khai?.sunken || manifest(u.packageDir ?? u.dir)?.khai?.sunken)
+      .map((u) => u.dir),
+  );
+  const units = all.filter((u) => !groupDirs.has(u.dir) && !sunken.has(u.dir));
   if (!units.length) fail();
 
   const prods = new Map(productionsOf(house).map((p) => [p.id, p]));
