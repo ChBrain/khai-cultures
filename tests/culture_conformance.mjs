@@ -94,6 +94,17 @@ export function parentOf(code) {
  * rename can travel in the same pull request as the content it belongs to.
  */
 export function conformance(id) {
+  // Empty here means "not a sub-national unit", which is the right answer for a
+  // country-level culture and the wrong one for an id that names nothing. Both
+  // used to get it, so a group and a misspelling read as conformant. Resolve
+  // first, then decide whether the wall applies.
+  const dir = cultureDir(id);
+  if (!dir || !existsSync(dir))
+    throw new Error(
+      `culture_conformance: "${id}" has no culture directory. Only culture ids ` +
+        `reach here; a unit that is not a culture must be split off with ` +
+        `cultureUnits() before it is asked how it nests.`,
+    );
   const code = iso(id).split("-")[0];
   if (!code || !iso(id).includes("-")) return { blocking: [], advisory: [], findings: [] };
   const blocking = [];

@@ -27,6 +27,7 @@ import {
   touchedCultures,
   report as coverageReport,
 } from "./company_coverage.mjs";
+import { conformance } from "./culture_conformance.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { repeats, register, proseRepeats, findings as nameFindings } from "./link_names.mjs";
 import { charged, units as linkUnits } from "./link_resolution.mjs";
@@ -354,16 +355,38 @@ describe("Cultures house: the company-coverage waivers stay honest", () => {
     expect(errors, errors.join("; ")).toEqual([]);
   });
 
+  // Two guarantees that were once confused for each other.
+  //
   // The gate destructures four keys off coverage() and reads their lengths.
-  // Three of its returns used to carry only three, so an id the culture list
-  // does not hold - a migrated GROUP, which is a unit and not a culture - made
-  // the wall throw rather than report. A wall that throws says nothing while
-  // looking as though it failed on the content, which is the worst of both.
-  it("coverage answers with every key, including for an id the house has not got", () => {
-    for (const id of ["nordics", "no_such_culture_at_all", ...coveredCultureIds().slice(0, 3)]) {
+  // Three of its returns used to carry only three, so the gate died on a
+  // TypeError deep inside itself - a throw that says nothing while looking as
+  // though it failed on the content, which is the worst of both. Every return
+  // carrying four keys fixed that, and this still holds it.
+  //
+  // But that fix also handed a CLEAN BILL to any id that resolves to no
+  // directory: `nordics` (a group, which is a unit and not a culture) and
+  // `no_such_culture_at_all` (a typo) both came back spotless, indistinguishable
+  // from a culture that had been read. A named refusal is not the same failure
+  // as a TypeError: it says which id, and which module should have been asked.
+  // plot_zero.mjs already refuses this exact case - "fail closed, loudly, and
+  // never in the direction of green" - so the house held two policies for one
+  // situation. It now holds one.
+  it("coverage answers with every key for a culture it can resolve", () => {
+    for (const id of coveredCultureIds().slice(0, 5)) {
       const c = coverage(id);
       for (const key of ["dead", "waived", "superseded", "company"])
         expect(Array.isArray(c[key]), `coverage("${id}").${key} must be an array`).toBe(true);
+    }
+  });
+
+  it("refuses an id it cannot resolve rather than reporting it clean", () => {
+    for (const id of ["nordics", "no_such_culture_at_all"]) {
+      expect(() => coverage(id), `coverage("${id}") must refuse, not answer`).toThrow(
+        /has no culture directory/,
+      );
+      expect(() => conformance(id), `conformance("${id}") must refuse, not answer`).toThrow(
+        /has no culture directory/,
+      );
     }
   });
 });
