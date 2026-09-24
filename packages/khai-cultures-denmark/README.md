@@ -33,7 +33,7 @@ Estate; a culture with no Estate is not yet a production.
 ## Provenance
 
 The Hofstede scores behind the pitch and the public-domain historical sources are
-recorded in [REFERENCES.md](REFERENCES.md). The data never enters the prose; the
+recorded [alongside this play](REFERENCES.md). The data never enters the prose; the
 pitch is its invisible hand. Sources in the public domain are credited, never
 claimed; the staging and the architecture are original work.
 

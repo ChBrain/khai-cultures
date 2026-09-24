@@ -26,7 +26,7 @@ Hejst over hus og have, ved fødselsdage og fester i hele landet, det røde flag
 
 ## Load Bearing
 
-Det står for et fællesskab, der dækker alle lige. Et af verdens ældste flag, men brugt jævnt og dagligt, til fest mere end til magt; under [jødernes redning 1943](plot_04_besaettelsen_1943.md) dækkede det dem, ingen ville svigte. Uden dette jævne, fælles tegn ville ligheden mangle sit billede.
+Det står for et fællesskab, der dækker alle lige. Et af verdens ældste flag, men brugt jævnt og dagligt, til fest mere end til magt; under [jødernes redning 1943](plot_05_besaettelsen_1943.md) dækkede det dem, ingen ville svigte. Uden dette jævne, fælles tegn ville ligheden mangle sit billede.
 
 ## Apparent
 
