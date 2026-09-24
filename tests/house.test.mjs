@@ -28,6 +28,8 @@ import {
   report as coverageReport,
 } from "./company_coverage.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
+import { repeats, register, proseRepeats, findings as nameFindings } from "./link_names.mjs";
+import { charged, units as linkUnits } from "./link_resolution.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import {
   widths,
@@ -1486,5 +1488,74 @@ describe("Cultures house: what to do next", () => {
       readFileSync(join(workspaceRoot, "khai-guard.config.json"), "utf8"),
     );
     expect(gates.some((g) => (g.command ?? "").includes("next.mjs"))).toBe(false);
+  });
+});
+
+// A link's name is not its target's filename. The wall in ci.yml is a ratchet
+// over written units, because the 635 findings in README.md and REFERENCES.md
+// cannot all be repaired in one lane. What is held HERE is the half that is
+// already absolute: the culture prose - every play, plot, persona, place, piece,
+// position and process - carries zero, and this is what keeps it at zero without
+// waiting for someone to touch the file. The classifier is pinned separately,
+// because the whole rule turns on telling a sentence from a register.
+// See management/orders/order_a_name_reads_as_prose.md.
+describe("Cultures house: a name reads as prose", () => {
+  it("knows the three spellings of naming a link after its file", () => {
+    expect(repeats("pitch_corsica.md", "pitch_corsica.md")).toBe(true);
+    expect(repeats("play_bern", "play_bern.md")).toBe(true);
+    expect(repeats("play bern", "play_bern.md")).toBe(true);
+    expect(repeats("PLAY BERN", "play_bern.md")).toBe(true);
+    expect(repeats("REFERENCES.md", "../a/REFERENCES.md")).toBe(true);
+    expect(repeats("The pitch", "pitch_corsica.md")).toBe(false);
+    expect(repeats("Bern, which decides slowly", "play_bern.md")).toBe(false);
+  });
+
+  // The carve-out is the whole reason this wall is holdable: 5,494 of the 6,129
+  // repeats are places where the filename IS the information, and a wall that
+  // counted them would be the counter order_the_passport.md forbids.
+  it("tells a register from a sentence, because only a sentence is prose", () => {
+    expect(register("| Corti | [place_corti](place_corti.md) | The interior capital |")).toBe(true);
+    expect(register("- **Anchor:** [play_bern.md](play_bern.md), the culture itself.")).toBe(true);
+    expect(register("[play_bern](play_bern.md)")).toBe(true);
+    expect(register("## [play_bern](play_bern.md)")).toBe(true);
+    expect(register("The pitch [pitch_corsica.md](pitch_corsica.md) is written from France.")).toBe(
+      false,
+    );
+  });
+
+  it("does not read a fenced block, where a filename is the example", () => {
+    const fenced = ["```", "The pitch [pitch_x.md](pitch_x.md) is written from here.", "```"].join(
+      "\n",
+    );
+    expect(proseRepeats(fenced)).toEqual([]);
+    expect(proseRepeats("The pitch [pitch_x.md](pitch_x.md) is written from here.")).toHaveLength(
+      1,
+    );
+  });
+
+  // The absolute half. The ratchet in ci.yml can only charge a unit somebody
+  // opened; this charges the house. It is the claim the order makes, and the
+  // only thing standing between the voice and the first plot that says
+  // "see [plot_04_x.md](plot_04_x.md)".
+  // The shape this wall's scoping reads. `charged` returns a sorted array; a Set
+  // was assumed once and `!written.size` is undefined-and-falsy, so the wall
+  // answered "no unit written" over a README it had just been handed and exited
+  // 0. Nothing else would have caught that: the gate is green either way.
+  it("is handed written units as an array, which is what the gate counts", () => {
+    const head = execFileSync("git", ["rev-parse", "HEAD"], {
+      cwd: workspaceRoot,
+      encoding: "utf8",
+    }).trim();
+    const { written } = charged(head, head);
+    expect(Array.isArray(written)).toBe(true);
+  });
+
+  it("holds the culture prose at zero, which is where it already is", () => {
+    const spec = new Set(["README.md", "REFERENCES.md"]);
+    const offenders = [];
+    for (const u of linkUnits())
+      for (const line of nameFindings(u))
+        if (!spec.has(line.split(":")[0])) offenders.push(`${u.id}: ${line}`);
+    expect(offenders).toEqual([]);
   });
 });

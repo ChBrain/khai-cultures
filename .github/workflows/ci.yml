@@ -261,6 +261,30 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: node tests/link_resolution.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
+  khai-link-names:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # A sibling question to the one above, asked of the same links: that one
+      # checks the address points at something, this one checks the name is not
+      # the address typed twice. Charges written units only - a name goes wrong
+      # when its sentence is rewritten, never when somebody else moves a file.
+      - name: link-names
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node tests/link_names.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
   khai-staging:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest

@@ -123,7 +123,7 @@ export function units(workspace = WORKSPACE) {
   return out.sort((a, b) => a.id.localeCompare(b.id));
 }
 
-const mds = (dir) =>
+export const mds = (dir) =>
   existsSync(dir) && statSync(dir).isDirectory()
     ? readdirSync(dir)
         .filter((f) => f.endsWith(".md"))
