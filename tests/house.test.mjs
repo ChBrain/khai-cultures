@@ -66,6 +66,7 @@ import {
   next as nextCulture,
   owed,
   asks,
+  sunkenUnits,
 } from "./next.mjs";
 import {
   plotYear,
@@ -1355,6 +1356,7 @@ describe("Cultures house: what to do next", () => {
       origin: true,
       present: true,
       uncast: [],
+      chain: [],
       hollow: false,
       migrated: true,
     };
@@ -1388,6 +1390,7 @@ describe("Cultures house: what to do next", () => {
       present: 30,
       hollow: 20,
       uncast: 6,
+      chain: 6,
       unmigrated: 10,
       level: 12,
       holeYears: 20,
@@ -1405,6 +1408,7 @@ describe("Cultures house: what to do next", () => {
       origin: true,
       present: true,
       uncast: [],
+      chain: [],
       hollow: false,
       migrated: true,
       level: 1,
@@ -1440,6 +1444,7 @@ describe("Cultures house: what to do next", () => {
       origin: true,
       present: true,
       uncast: [],
+      chain: [],
       hollow: false,
       migrated: true,
       span: 0,
@@ -1592,6 +1597,96 @@ describe("Cultures house: a name reads as prose", () => {
 // settled types can never drift back. The classifier is pinned separately,
 // because the whole rule turns on telling a label from a name.
 // See management/orders/order_a_title_names_the_thing.md.
+// What to do next, over three populations. The queue used to enumerate cultures
+// alone, so twenty-one groups answered to the group ratchet and to nothing that
+// ranked them: `latin_america` owes eight chain faults and both brackets and had
+// never once been offered as work. Held here is what widening must NOT do - move
+// a culture - and the mapping that lets a group be read on the same ledger.
+// See management/orders/order_what_to_do_next.md.
+describe("Cultures house: the queue reads groups and sunken too", () => {
+  const s = nextSurvey();
+
+  it("carries every unit with a kind, and cultures are no longer all of them", () => {
+    const kinds = new Set(s.rows.map((r) => r.kind));
+    expect([...kinds].sort()).toEqual(expect.arrayContaining(["culture", "group"]));
+    for (const r of s.rows) expect(["culture", "group", "sunken"]).toContain(r.kind);
+    expect(s.rows.filter((r) => r.kind === "group").length).toBe(allGroups().length);
+  });
+
+  // The medians are per kind, and this is the guard on the reason why. Most
+  // groups have no dated plot at all, so one house-wide median would drag the
+  // span down and re-wring cultures nobody had touched - a widening that
+  // re-ranked the queue as a side effect of looking somewhere new.
+  it("holds a median per kind, so one population cannot re-rank another", () => {
+    expect(s.medianSpanBy.get("culture")).toBe(s.medianSpan);
+    expect(s.medianHoleBy.get("culture")).toBe(s.medianHole);
+    const groupSpans = s.rows.filter((r) => r.kind === "group").map((r) => r.span);
+    const allSpans = s.rows.map((r) => r.span);
+    // The two populations really are different, or this guard proves nothing.
+    expect(Math.max(...groupSpans)).toBeLessThan(Math.max(...allSpans));
+  });
+
+  // group_coverage answers where company_coverage refuses. `dead` IS uncast, and
+  // noOrigin/noPresent are the same two questions asked of any plot line.
+  it("reads a group off its own wall, mapped onto the same ledger", () => {
+    for (const g of allGroups()) {
+      const row = s.rows.find((r) => r.kind === "group" && r.id === g.id);
+      expect(row, `${g.id} must be in the survey`).toBeTruthy();
+      const c = groupCoverage(g.id);
+      expect(row.origin).toBe(!c.noOrigin);
+      expect(row.present).toBe(!c.noPresent);
+      expect(row.uncast).toEqual(c.dead);
+      expect(row.chain.length).toBe(c.unlinked.length + c.orphans.length + c.broken.length);
+      // Level 1 deliberately: a group is not in the ISO tree, it collects the
+      // things that are, so it stands where a country stands.
+      expect(row.level).toBe(1);
+      expect(row.migrated).toBe(g.migrated);
+    }
+  });
+
+  it("wrings a broken chain as wrong, because the chapter claims a chain it has not got", () => {
+    const clean = {
+      disordered: false,
+      flat: [],
+      blocking: 0,
+      origin: true,
+      present: true,
+      uncast: [],
+      chain: [],
+      hollow: false,
+      migrated: true,
+    };
+    expect(rungOf(clean)).toBe(SETTLED);
+    expect(rungOf({ ...clean, chain: ["a plot no entry chains"] })).toBe(0);
+  });
+
+  it("counts chain faults per item, so eight orphans outrank one", () => {
+    const base = {
+      disordered: false,
+      flat: [],
+      blocking: 0,
+      origin: true,
+      present: true,
+      uncast: [],
+      chain: [],
+      hollow: false,
+      migrated: true,
+      level: 1,
+    };
+    const one = scoreOf({ ...base, chain: ["a"] }).total;
+    const eight = scoreOf({ ...base, chain: [..."abcdefgh"] }).total;
+    expect(eight - one).toBe(7 * WEIGHTS.chain);
+  });
+
+  // Zero today, and the point is that it is zero rather than absent: the first
+  // sunken production arrives already ranked instead of waiting for somebody to
+  // remember this file exists.
+  it("counts the sunken, which is a population of none until one is authored", () => {
+    expect(sunkenUnits()).toEqual([]);
+    expect(s.rows.filter((r) => r.kind === "sunken")).toEqual([]);
+  });
+});
+
 describe("Cultures house: a title names the thing", () => {
   // A tongues release rewrites the dependency range in 120 manifests. Both prose
   // walls read only markdown, so charging them off a version bump made 117 units

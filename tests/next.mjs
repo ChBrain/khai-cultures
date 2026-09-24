@@ -78,6 +78,7 @@ import { findings as flatFindings } from "./diacritic_conformance.mjs";
 import { hasOrigin, hasPresent } from "./plot_zero.mjs";
 import { conformance } from "./culture_conformance.mjs";
 import { coverage } from "./company_coverage.mjs";
+import { coverage as groupCoverage, findings as groupFindings, groups } from "./group_coverage.mjs";
 
 const NUMBERED = /^plot_(\d{2})_.*\.md$/;
 
@@ -107,6 +108,17 @@ export const WEIGHTS = {
   present: 30,
   hollow: 20,
   uncast: 6,
+  // A group's Triggers chapter is its chain: an entry linking no plot is a summary
+  // standing where a chain belongs, and a plot no entry links is a scene the play
+  // does not know it has - group_coverage.mjs's own words.
+  //
+  // Rated at `uncast`, and deliberately not higher. The two are nearly the same
+  // fault said twice: a declared thing with no staging behind it. Counting them
+  // per ITEM rather than per category is what carries the magnitude - eight
+  // orphaned plots is not the same problem as one - and picking a new, larger
+  // number here would have put every group above every culture on a weight
+  // nobody had argued for.
+  chain: 6,
   unmigrated: 10,
   level: 12,
   holeYears: 20,
@@ -145,6 +157,7 @@ export function scoreOf(l, medianSpan = 0, medianHole = 0) {
   add(l.present ? 0 : WEIGHTS.present, "no present");
   add(l.hollow ? WEIGHTS.hollow : 0, "hollow");
   add(l.uncast.length * WEIGHTS.uncast, `${l.uncast.length} uncast`);
+  add(l.chain.length * WEIGHTS.chain, `${l.chain.length} chain`);
   add(l.migrated ? 0 : WEIGHTS.unmigrated, "unmigrated");
   add(Math.max(0, 3 - l.level) * WEIGHTS.level, `level ${l.level}`);
   add(Math.max(0, l.hole - medianHole) / WEIGHTS.holeYears, `hole ${l.hole}y`);
@@ -163,7 +176,7 @@ export const RUNGS = [
   {
     name: "wrong",
     says: "says something that is not so",
-    holds: (l) => l.disordered || l.flat.length > 0 || l.blocking > 0,
+    holds: (l) => l.disordered || l.flat.length > 0 || l.blocking > 0 || l.chain.length > 0,
   },
   {
     name: "unbracketed",
@@ -265,6 +278,34 @@ let surveyed = null;
  * `diacritic_conformance.mjs` makes for `readCached`. A caller that edits files
  * and wants a second opinion needs a second process.
  */
+/** Whether a directory ships a plot with this prefix. */
+const hasPlot = (dir, prefix) =>
+  existsSync(dir) && readdirSync(dir).some((f) => f.startsWith(prefix));
+
+/**
+ * The sunken productions: `{ id, dir }` for every package declaring `khai.sunken`.
+ *
+ * Zero today. `order_the_sunken.md` sets the bar - no successor community AND
+ * already carried by a living culture - and nothing has been authored to it yet.
+ */
+export function sunkenUnits(workspace = WORKSPACE) {
+  const root = join(workspace, "packages");
+  if (!existsSync(root)) return [];
+  const out = [];
+  for (const name of readdirSync(root).sort()) {
+    const manifest = join(root, name, "package.json");
+    if (!existsSync(manifest)) continue;
+    try {
+      const m = JSON.parse(readFileSync(manifest, "utf8"));
+      if (m?.khai?.sunken)
+        out.push({ id: m.khai.sunken === true ? name : m.khai.sunken, dir: join(root, name) });
+    } catch {
+      /* a manifest that will not parse is production_packages' business, not this file's */
+    }
+  }
+  return out;
+}
+
 export function survey() {
   if (surveyed) return surveyed;
   const disordered = new Set(orderFindings().map(([unit]) => unit));
@@ -283,6 +324,7 @@ export function survey() {
     const cover = coverage(id);
     const conf = conformance(id);
     rows.push({
+      kind: "culture",
       id,
       unit,
       migrated: isMigrated(id),
@@ -292,22 +334,104 @@ export function survey() {
       blocking: Array.isArray(conf?.blocking) ? conf.blocking.length : (conf?.blocking ?? 0),
       uncast: cover?.dead ?? [],
       superseded: cover?.superseded ?? [],
+      chain: [],
       origin: hasOrigin(id),
       present: hasPresent(id),
       level: levelOf(relative(WORKSPACE, dir)),
     });
   }
 
-  const spans = median(rows.map((r) => r.span));
-  const holes = median(rows.map((r) => r.hole));
+  // Groups, on the same ledger and out of their own wall.
+  //
+  // `company_coverage` and `culture_conformance` are not asked here: they refuse
+  // a group outright, which is the whole point of that refusal. `group_coverage`
+  // answers instead, and its fields line up - `dead` IS uncast, both being a
+  // Company element no plot fields, and noOrigin/noPresent are the same two
+  // questions the plot line asks anywhere. What has no culture equivalent is the
+  // Triggers chain, so it is carried as its own term rather than bent into one.
+  //
+  // LEVEL 1, deliberately and not by levelOf's fallback. A group ships no
+  // geo.json because it is not in the ISO tree at all: it collects cultures
+  // rather than nesting under one, so it stands where a country stands. The tree
+  // term is about depth, and a group has none to be measured.
+  for (const g of groups()) {
+    const unit = relative(WORKSPACE, g.dir);
+    const c = groupCoverage(g.id);
+    const chain = [
+      ...c.unlinked.map((e) => `Trigger entry "${e}" links no plot`),
+      ...c.orphans.map((f) => `${f} is a plot no Trigger entry chains`),
+      ...c.broken.map((f) => `a Trigger entry links ${f}, which is not here`),
+    ];
+    rows.push({
+      kind: "group",
+      id: g.id,
+      unit,
+      migrated: g.migrated,
+      ...chronology(g.dir),
+      disordered: disordered.has(unit),
+      flat: flatBy.get(unit) ?? [],
+      blocking: 0,
+      uncast: c.dead ?? [],
+      superseded: [],
+      chain,
+      origin: !c.noOrigin,
+      present: !c.noPresent,
+      level: 1,
+    });
+  }
+
+  // The sunken, when there are any. `order_the_sunken.md` defines the third
+  // production type and nothing carries `khai.sunken` yet, so this reads zero
+  // today - included so the first one arrives already ranked rather than waiting
+  // for somebody to remember this file exists.
+  for (const s of sunkenUnits()) {
+    const unit = relative(WORKSPACE, s.dir);
+    rows.push({
+      kind: "sunken",
+      id: s.id,
+      unit,
+      migrated: true,
+      ...chronology(s.dir),
+      disordered: disordered.has(unit),
+      flat: flatBy.get(unit) ?? [],
+      blocking: 0,
+      uncast: [],
+      superseded: [],
+      chain: [],
+      origin: hasPlot(s.dir, "plot_00"),
+      present: hasPlot(s.dir, "plot_99"),
+      level: 1,
+    });
+  }
+
+  // MEDIANS PER KIND, because hollow is a comparison against what is normal and
+  // the kinds are not normal in the same way. Most groups have no dated plots at
+  // all, so folding twenty-one of them into one house median drags the span down
+  // and quietly re-wrings cultures that had not changed - the widening would have
+  // re-ranked the whole queue as a side effect of looking at something else.
+  const spanBy = new Map();
+  const holeBy = new Map();
+  for (const kind of new Set(rows.map((r) => r.kind))) {
+    const of = rows.filter((r) => r.kind === kind);
+    spanBy.set(kind, median(of.map((r) => r.span)));
+    holeBy.set(kind, median(of.map((r) => r.hole)));
+  }
   for (const r of rows) {
+    const spans = spanBy.get(r.kind) ?? 0;
+    const holes = holeBy.get(r.kind) ?? 0;
     r.hollow = r.span >= spans && r.hole >= holes && spans > 0;
     r.rung = rungOf(r);
     const { total, terms } = scoreOf(r, spans, holes);
     r.score = total;
     r.terms = terms;
   }
-  surveyed = { rows, medianSpan: spans, medianHole: holes };
+  surveyed = {
+    rows,
+    medianSpan: spanBy.get("culture") ?? 0,
+    medianHole: holeBy.get("culture") ?? 0,
+    medianSpanBy: spanBy,
+    medianHoleBy: holeBy,
+  };
   return surveyed;
 }
 
@@ -348,6 +472,7 @@ export function owed(r) {
   if (!r.present) out.push("no plot_99: the line has no present");
   for (const c of r.uncast) out.push(`its play declares ${c} and no plot casts it`);
   for (const c of r.superseded) out.push(`${c} is cast and still carries a waiver`);
+  for (const c of r.chain) out.push(c);
   if (r.hollow && r.pair)
     out.push(
       `${r.span}y of line with a ${r.hole}y hole in it, ` +
@@ -386,14 +511,21 @@ export function asks(r) {
     out.push(`${f}: is the prose in the wrong language, or is the spelling stripped?`);
   if (r.disordered)
     out.push("Is the numbering wrong, or is a date in the prose wrong? Look before renumbering.");
+  if (r.chain.length)
+    out.push(
+      "Does the Triggers chapter chain the plots that are here, or summarise them? " +
+        "A grouping that cannot chain its own scenes may be a list rather than a play.",
+    );
   return out;
 }
 
 function report(limit = 12) {
   const s = survey();
   const q = queue(s);
+  const by = (k) => s.rows.filter((r) => r.kind === k).length;
   console.log(
-    `cultures: ${s.rows.length}   house median span ${s.medianSpan}y   median hole ${s.medianHole}y`,
+    `units: ${s.rows.length} (${by("culture")} culture, ${by("group")} group, ${by("sunken")} sunken)` +
+      `   culture median span ${s.medianSpan}y   median hole ${s.medianHole}y`,
   );
   const tally = new Map();
   for (const r of s.rows) tally.set(r.rung, (tally.get(r.rung) ?? 0) + 1);
@@ -408,7 +540,7 @@ function report(limit = 12) {
     console.log("\nNothing owed. Read order_what_to_do_next.md before believing that.");
     return;
   }
-  console.log(`\nNext: ${head.id}  ${head.score} points  (${rungName(head.rung)})`);
+  console.log(`\nNext: ${head.id}  ${head.kind}  ${head.score} points  (${rungName(head.rung)})`);
   console.log(`  ${head.unit}`);
   console.log(`  ${head.terms.map(([n, says]) => `${n} ${says}`).join("  +  ")}`);
   console.log("  What it owes:");
@@ -419,11 +551,11 @@ function report(limit = 12) {
   console.log(`\nBehind it:`);
   for (const r of q.slice(1, limit + 1))
     console.log(
-      `  ${String(r.score).padStart(4)}  L${r.level}  ${r.id.padEnd(24)} ` +
+      `  ${String(r.score).padStart(4)}  ${r.kind === "culture" ? `L${r.level}` : r.kind.slice(0, 2).toUpperCase()}  ${r.id.padEnd(24)} ` +
         r.terms.map(([n, says]) => `${n} ${says}`).join("  "),
     );
   console.log(
-    `\n  ${q.length} culture(s) owe something. This ranks work; it refuses nothing.\n` +
+    `\n  ${q.length} unit(s) owe something. This ranks work; it refuses nothing.\n` +
       "  See management/orders/order_what_to_do_next.md.",
   );
 }
