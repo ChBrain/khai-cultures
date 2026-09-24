@@ -96,6 +96,44 @@ That is the intended trade and not a side effect. If the guarantee is ever wante
 back, it is one line - add `rung * 1000` to the score and the bands separate
 again, with the points ordering inside each.
 
+## Three populations, one ledger
+
+The queue enumerated cultures and nothing else, so twenty-one groups answered to
+`group-ratchet` and to nothing that ranked them. It now reads **340 units: 319
+cultures, 21 groups, and the sunken, of which there are none yet.**
+
+A group is read off its own wall, because `company_coverage` and
+`culture_conformance` refuse one outright and that refusal is correct.
+`group_coverage` answers instead, and the fields line up almost exactly:
+
+| the ledger asks | a culture answers from  | a group answers from            |
+| --------------- | ----------------------- | ------------------------------- |
+| origin, present | `plot_zero`             | `noOrigin`, `noPresent`         |
+| uncast          | `company_coverage.dead` | `group_coverage.dead`           |
+| blocking        | `culture_conformance`   | — not a sub-national unit       |
+| chain           | —                       | `unlinked`, `orphans`, `broken` |
+
+`dead` **is** uncast in both: a Company element no plot fields. What has no
+culture equivalent is the Triggers chain, so it is carried as its own term rather
+than bent into one, rated at `uncast` because the two are nearly the same fault
+said twice, and counted per item because eight orphaned plots is not the same
+problem as one.
+
+A group is **level 1**, deliberately and not by the fallback. It ships no
+`geo.json` because it is not in the ISO tree at all: it collects the things that
+are, so it stands where a country stands. The tree term measures depth, and a
+group has none.
+
+### What it found on the first run
+
+`latin_america` came **third in the whole house** — 312 years of line with a
+312-year hole in it, neither bracket, and eight chain faults — having never once
+been offered as work. **Fifteen of twenty-one groups owe something**, and eight of
+those sit together at 142 points with the identical four faults: no origin, no
+present, four Trigger entries linking nothing, four plots no entry chains. That
+is one authoring era, not fifteen decisions, which is the same shape
+`order_a_title_names_the_thing.md` found in the Swiss cantons.
+
 ## It names a culture, never a task
 
 This is what dissolves the question of whether to build or to repair.
@@ -145,6 +183,12 @@ than one global rate.
 Zeros are dropped before the median is taken. A culture with fewer than two dated
 plots has no span at all, and counting those as span zero would drag the line
 down until half the house cleared it without changing.
+
+**And the median is taken per kind.** Most groups have no dated plot at all, so
+one house-wide median would drag the span down and re-wring cultures nobody had
+touched — a widening that re-ranked the queue as a side effect of looking
+somewhere new. The culture median is what it was before groups were let in, and
+a test holds that.
 
 ## The queue is total, so it is deterministic
 
@@ -234,5 +278,9 @@ twelve behind it.
       makes a better one arguable
 - [ ] Read whether rung 2 belongs above rung 3. The argument here is subsumption
       and it is the weakest claim in this order
-- [ ] Groups are out of scope and would rank if they were in it. They have their
-      own ratchet and their own walk — see `order_the_group_ratchet.md`
+- [x] Groups are in scope. They ranked the moment they were let in, and
+      `latin_america` came third in the whole house
+- [ ] The fifteen groups that owe something, as each is named — eight of them
+      sit together at 142 with the same four faults, which is an authoring era
+      rather than fifteen decisions
+- [ ] The first sunken production, which will arrive already ranked
