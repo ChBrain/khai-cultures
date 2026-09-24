@@ -1,5 +1,4 @@
 ---
-"@chbrain/khai-cultures-de-saxony-anhalt": patch
 ---
 
 **`npm run next` named two faults and asked one question before either could be fixed.**
