@@ -73,6 +73,11 @@
       "count": "Link names(?: OK)?: (.+)"
     },
     {
+      "name": "type-titles",
+      "command": "node tests/type_titles.mjs --gate --base \"$(git merge-base origin/main HEAD)\" --head \"$(git rev-parse HEAD)\"",
+      "count": "Type titles(?: OK)?: (.+)"
+    },
+    {
       "name": "staging",
       "command": "node tests/staging.mjs",
       "count": "staging: (\\d+ finding\\(s\\))"

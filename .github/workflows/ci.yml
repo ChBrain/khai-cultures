@@ -285,6 +285,30 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: node tests/link_names.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
+  khai-type-titles:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - name: install
+        run: npm ci
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # The front matter already says what a node is. This asks that the title
+      # beside it does not open by saying it again. A ratchet over written units:
+      # 342 findings sit in 28 packages, and the three types already at zero are
+      # held outright in house.test.mjs instead.
+      - name: type-titles
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node tests/type_titles.mjs --gate --base "$BASE_SHA" --head "$HEAD_SHA"
   khai-staging:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest

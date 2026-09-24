@@ -30,6 +30,7 @@ import {
 import { conformance } from "./culture_conformance.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { repeats, register, proseRepeats, findings as nameFindings } from "./link_names.mjs";
+import { declared, restatesType } from "./type_titles.mjs";
 import { charged, units as linkUnits } from "./link_resolution.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import {
@@ -1579,6 +1580,59 @@ describe("Cultures house: a name reads as prose", () => {
     for (const u of linkUnits())
       for (const line of nameFindings(u))
         if (!spec.has(line.split(":")[0])) offenders.push(`${u.id}: ${line}`);
+    expect(offenders).toEqual([]);
+  });
+});
+
+// A title is not its type said twice. The wall in ci.yml is a ratchet over
+// written units, because 342 findings sit in 28 packages and cannot land in one
+// lane. What is held HERE is the half already at zero: `play`, `order` and
+// `instructions` carry the prefix not once across 485 nodes, which is how the
+// house decided this in the first place, and holding them outright means the
+// settled types can never drift back. The classifier is pinned separately,
+// because the whole rule turns on telling a label from a name.
+// See management/orders/order_a_title_names_the_thing.md.
+describe("Cultures house: a title names the thing", () => {
+  it("knows a label from a name", () => {
+    expect(restatesType("place", "Place: Corti")).toBe(true);
+    expect(restatesType("plot", "Plot - U Riacquistu")).toBe(true);
+    expect(restatesType("persona", "Persona: the Singer")).toBe(true);
+    expect(restatesType("position", "position: a pulinumia")).toBe(true);
+    // Begins with the word, but nothing is bolted on: these are what the thing
+    // is called, and a wall that flagged them would be renaming real places.
+    expect(restatesType("place", "Place de la Concorde")).toBe(false);
+    expect(restatesType("plan", "Plan B: the fallback")).toBe(false);
+    expect(restatesType("place", "Corti")).toBe(false);
+  });
+
+  it("reads the type and title off the front matter, or answers null", () => {
+    expect(declared('---\nkhai: place\ntitle: "Corti"\n---\n\n# Corti')).toEqual({
+      kind: "place",
+      title: "Corti",
+    });
+    expect(declared("# Corti\n\nNo front matter here.")).toBe(null);
+    expect(declared("---\nstamp: x\n---\n")).toBe(null);
+  });
+
+  // The absolute half. 485 nodes of three types, at zero, and this is what keeps
+  // them there - the ratchet in ci.yml can only charge a unit somebody opened.
+  it("holds play, order and instructions at zero, which is where they already are", () => {
+    const roots = [join(workspaceRoot, "packages"), join(workspaceRoot, "management")];
+    const settled = new Set(["play", "order", "instructions"]);
+    const offenders = [];
+    const walk = (dir) => {
+      for (const e of readdirSync(dir, { withFileTypes: true })) {
+        if (e.name === "node_modules" || e.name.startsWith(".")) continue;
+        const full = join(dir, e.name);
+        if (e.isDirectory()) walk(full);
+        else if (e.name.endsWith(".md")) {
+          const d = declared(readFileSync(full, "utf8"));
+          if (d && settled.has(d.kind) && restatesType(d.kind, d.title))
+            offenders.push(`${full.slice(workspaceRoot.length + 1)}: "${d.title}"`);
+        }
+      }
+    };
+    for (const r of roots) if (existsSync(r)) walk(r);
     expect(offenders).toEqual([]);
   });
 });
