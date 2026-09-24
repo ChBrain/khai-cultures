@@ -87,6 +87,15 @@ jobs:
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: node tests/plot_line_audit.mjs --base "$BASE_SHA" --head "$HEAD_SHA" > question.md
 
+      # What the house already knows about this culture's reading history, so the
+      # comment says whether anyone has ever answered rather than only asking
+      # again. Builtin-only, like the extractor, for the same reason.
+      - name: has anyone read it
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: node tests/plot_line_readings.mjs --touched --base "$BASE_SHA" --head "$HEAD_SHA" > readings.md || true
+
       - name: ask the second reader
         id: ask
         continue-on-error: true
@@ -186,6 +195,13 @@ jobs:
             echo "$MARK"
             echo "## Plot line audit"
             echo
+            # Reading history first: whether anyone has ever answered for this
+            # culture is the thing a reader needs before deciding to spend a
+            # minute, and the record is what turns the answer into state.
+            if [ -s readings.md ]; then
+              cat readings.md
+              echo
+            fi
             if [ "$WIRED" = "true" ] && [ -s answer.md ]; then
               cat answer.md
               echo

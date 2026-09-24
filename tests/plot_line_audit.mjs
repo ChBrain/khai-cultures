@@ -32,6 +32,7 @@
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { join } from "node:path";
+import { pathToFileURL } from "node:url";
 
 const argv = process.argv.slice(2);
 const flag = (n) => {
@@ -103,8 +104,47 @@ function touched(base, head) {
   return [...dirs].sort();
 }
 
+/** The ids of the cultures a change wrote, for a caller that wants ids not dirs. */
+export function touchedCultures(base, head) {
+  return touched(base, head)
+    .map((d) => readCulture(d))
+    .filter(Boolean)
+    .map((c) => c.id);
+}
+
 /** A culture id resolved to whichever home holds it. */
-function dirFor(id) {
+/**
+ * Every culture id, from the filesystem alone.
+ *
+ * Deliberately not `culture_sources.cultureIds()`, which reaches for
+ * `@chbrain/khai-tests`. This lane runs with NO INSTALL so that a registry it
+ * does not need cannot break it, and that invariant is worth more here than
+ * sharing one enumerator. The two are held to agreeing by a test.
+ */
+export function cultureIds() {
+  const out = [];
+  const umbrella = join(root, UMBRELLA);
+  if (existsSync(umbrella))
+    for (const e of readdirSync(umbrella, { withFileTypes: true }))
+      if (e.isDirectory()) out.push(e.name);
+  const packages = join(root, "packages");
+  if (existsSync(packages))
+    for (const e of readdirSync(packages, { withFileTypes: true })) {
+      if (!e.isDirectory() || !e.name.startsWith("khai-cultures-")) continue;
+      const dir = join(packages, e.name);
+      const manifest = join(dir, "package.json");
+      if (!existsSync(manifest)) continue;
+      try {
+        if (!JSON.parse(readFileSync(manifest, "utf8"))?.khai?.production) continue;
+      } catch {
+        continue;
+      }
+      out.push(e.name.replace("khai-cultures-", "").replace(/-/g, "_"));
+    }
+  return [...new Set(out)].sort();
+}
+
+export function dirFor(id) {
   const umbrella = join(UMBRELLA, id);
   if (existsSync(join(root, umbrella))) return umbrella;
   const migrated = `packages/khai-cultures-${id.replace(/_/g, "-")}`;
@@ -112,7 +152,7 @@ function dirFor(id) {
   return null;
 }
 
-function readCulture(dir) {
+export function readCulture(dir) {
   if (!dir) return null;
   const abs = join(root, dir);
   if (!existsSync(abs)) return null;
@@ -136,7 +176,7 @@ function readCulture(dir) {
   };
 }
 
-const PREAMBLE = `You are a second reader for a house of staged world cultures. You are auditing
+export const PREAMBLE = `You are a second reader for a house of staged world cultures. You are auditing
 one thing and nothing else.
 
 Every culture here is staged as a play whose plots are its history. A recurring
@@ -181,12 +221,18 @@ function render(cultures) {
   return parts.join("\n");
 }
 
-const one = flag("culture");
-const dirs = one ? [dirFor(one)] : touched(flag("base") ?? "origin/main", flag("head") ?? "HEAD");
+// Guarded, so the question can be BUILT by an importer without being PRINTED.
+// Everything else in tests/ does this; this file did not, so importing it ran the
+// CLI and wrote a question to stdout as a side effect of asking it anything.
+const isMain = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href;
+if (isMain) {
+  const one = flag("culture");
+  const dirs = one ? [dirFor(one)] : touched(flag("base") ?? "origin/main", flag("head") ?? "HEAD");
 
-const cultures = dirs.map(readCulture).filter((c) => c && c.plots.length);
-if (!cultures.length) {
-  console.error("plot-line audit: no culture plot line touched, nothing to ask.");
-  process.exit(0);
+  const cultures = dirs.map(readCulture).filter((c) => c && c.plots.length);
+  if (!cultures.length) {
+    console.error("plot-line audit: no culture plot line touched, nothing to ask.");
+    process.exit(0);
+  }
+  process.stdout.write(render(cultures));
 }
-process.stdout.write(render(cultures));
