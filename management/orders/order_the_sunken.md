@@ -169,11 +169,47 @@ What is not paid: the sunken has no walls of its own. Neither do groups, and
 `order_a_group_is_not_a_culture.md` still carries that as an open Target. The two
 should be answered together rather than twice.
 
+## Where a sunken play lives, found the hard way
+
+This order said "like a group" and then let the first play be built as a package
+standing beside the umbrella. That is not what a group is. Every culture and every
+group in this house was authored INSIDE the umbrella and migrated out later, and
+`the_four_nations` carries the whole route in its own two changesets: a `minor` on
+the umbrella to author it in `groups/`, an EMPTY changeset to move it out. The
+first is legal because `groups/**` ships; the second because a rename whose source
+matched the count glob is exempt - a moved play is not a new play.
+
+Cultures have `cultures/`. Groups have `groups/`. The sunken had nowhere, so
+`cimbri` was born as a package - the one shape the route does not have - and three
+gates refused it. All three were right.
+
+The sunken is now the umbrella's third collection, declared beside the group's:
+
+```json
+"collections": [
+  { "dir": "groups", "anchor": "play_", "references": "cultures" },
+  { "dir": "sunken", "anchor": "play_", "references": "cultures" }
+]
+```
+
+The kit needed no change for it. `computeRegistry` already builds one array per
+declared collection and keys it by its own key, and takes the version from the
+primary alone - so `registry.json` gained a `sunken` array and the minor stayed at
+the culture count, 319, by the machinery that was already there.
+
+**And the name does not carry the kind.** `groupName` and `productionName` are
+byte-identical on purpose, because a play vertex id is unique across the
+collections and the manifest says which kind it is. A `khai-sunken-*` prefix was
+proposed here and rejected: it would make the sunken the one unit type that spells
+its kind in its name, and the id would stop being the id.
+
 ## Targets
 
-- [ ] Name the collection and fix the marking: `khai.sunken`, never
+- [x] Name the collection and fix the marking: `khai.sunken`, never
       `khai.production`, so the culture count cannot move by a sunken play
-      existing
+      existing. The collection is `sunken/`, declared beside `groups/`; the count
+      is taken over `cultures/` alone, so the property is structural now and not
+      a rule anything has to remember
 - [ ] Write the bar into the authoring contract: no successor community, and
       already carried by a living culture; both halves, or neither
 - [ ] State that `plot_99` is custody and not exemption, with the chapter meaning
