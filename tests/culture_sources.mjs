@@ -596,6 +596,21 @@ export function houseSunken(workspace = WORKSPACE) {
 }
 
 /**
+ * Every sunken unit, under the umbrella and in a package alike:
+ * `{ id, dir, migrated }`.
+ *
+ * Composed exactly as `groups()` in `group_coverage.mjs` composes its two
+ * homes, and kept here rather than in a `sunken_coverage.mjs` because there is
+ * no sunken coverage wall to hang it on yet - the open Target this house still
+ * owes both the sunken and the groups. When that wall exists, this moves.
+ */
+export function sunken(workspace = WORKSPACE) {
+  const out = houseSunken(workspace).map(([id, dir]) => ({ id, dir, migrated: false }));
+  for (const s of migratedSunken(workspace)) out.push({ id: s.id, dir: s.dir, migrated: true });
+  return out.sort((a, b) => a.id.localeCompare(b.id));
+}
+
+/**
  * The npm name of a sunken package. The same shape as a group's and a
  * culture's, and deliberately so: a play vertex id is unique across the
  * collections and the manifest says which kind it is, so the NAME never

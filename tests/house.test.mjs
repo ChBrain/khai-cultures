@@ -33,7 +33,7 @@ import { cueDigest, statusOf, readings, repoUrl } from "./plot_line_readings.mjs
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
 import { repeats, register, proseRepeats, findings as nameFindings } from "./link_names.mjs";
 import { declared, restatesType } from "./type_titles.mjs";
-import { charged, isMarkdown, units as linkUnits } from "./link_resolution.mjs";
+import { charged, isMarkdown, mds, units as linkUnits } from "./link_resolution.mjs";
 import { substanceFindings, sceneFindings, FLOOR } from "./staging.mjs";
 import {
   widths,
@@ -50,6 +50,7 @@ import {
   migratedGroups,
   migratedSunken,
   houseSunken,
+  sunken,
   sunkenName,
   groupName,
   productionName,
@@ -519,6 +520,23 @@ describe("Cultures house: the sunken is a collection and not a culture", () => {
       doubled.map((u) => `${u.name}: ${u.marks.join(" + ")}`),
       "a package carrying more than one kind marker",
     ).toEqual([]);
+  });
+
+  it("the link walls can see the sunken, which for a while they could not", () => {
+    // The failure this closes: `units()` was `unitsOf(house)` plus `groups()`,
+    // and `unitsOf` walks `cultures/` and the packages. A sunken unit under the
+    // umbrella is in neither, so `links`, `link-names` and `type-titles` all
+    // reported "no unit written" about the thirteen files of the first sunken
+    // play. Not a refusal by name - they never saw it. Found by planting
+    // `[REFERENCES.md](REFERENCES.md)` in one of those files and watching the
+    // wall stay green.
+    const here = sunken();
+    expect(here.length, "no sunken unit to check the readers with").toBeGreaterThan(0);
+    const byDir = new Map(linkUnits().map((u) => [u.dir, u]));
+    for (const s of here) {
+      expect(byDir.has(s.dir), `${s.id} is not in units(), so no link wall reads it`).toBe(true);
+      expect(mds(s.dir).length, `${s.id} contributes no markdown to the walls`).toBeGreaterThan(0);
+    }
   });
 
   it("the changeset gate treats a sunken add as it treats a group add", () => {

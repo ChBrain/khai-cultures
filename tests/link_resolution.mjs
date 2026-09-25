@@ -62,6 +62,7 @@ import { dirname, join, relative, resolve, sep } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { resolveHouse, unitsOf } from "@chbrain/khai-tests";
 import { groups } from "./group_coverage.mjs";
+import { sunken } from "./culture_sources.mjs";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const WORKSPACE = join(HERE, "..");
@@ -101,21 +102,35 @@ export function packagesByName(workspace = WORKSPACE) {
 }
 
 /**
- * Every unit in the house, cultures and groups alike: `{ id, dir, pkg }`, where
- * `pkg` is the manifest when the unit ships as a package of its own and null
- * when it still lives inside the umbrella.
+ * Every unit in the house - cultures, groups and the sunken alike:
+ * `{ id, dir, pkg }`, where `pkg` is the manifest when the unit ships as a
+ * package of its own and null when it still lives inside the umbrella.
  *
- * `unitsOf` is asked first and answers for the cultures and for the five group
- * packages, which it keys by npm name; `groups()` is asked for the groups and
- * answers for both homes. The overlap is dropped by directory, so a migrated
- * group is one unit and not two, and the sixteen umbrella groups - which
- * `unitsOf` does not know at all - arrive from `groups()` alone.
+ * `unitsOf` is asked first and answers for the cultures and for the group and
+ * sunken PACKAGES, which it keys by npm name; `groups()` and `sunken()` are
+ * asked for both homes each. The overlap is dropped by directory, so a
+ * migrated unit is one unit and not two, and the umbrella's own groups and
+ * sunken units - which `unitsOf` does not know at all, because it walks
+ * `cultures/` and nothing else - arrive from those two readers alone.
+ *
+ * The sunken was missing here and the walls that read this went quiet on it.
+ * `links`, `link-names` and `type-titles` all reported "no unit written" for
+ * the thirteen files of the first sunken play, which is the failure the group
+ * order warned about: not a wall that refuses a unit it does not understand,
+ * but a wall that passes green having inspected nothing. A test plants a
+ * violation in the sunken and requires this list to carry it.
  */
 export function units(workspace = WORKSPACE) {
   const house = resolveHouse(workspace, { name: "@chbrain/khai-cultures" });
   const out = unitsOf(house).map((u) => ({ id: u.id, dir: u.dir }));
   const seen = new Set(out.map((u) => u.dir));
-  for (const g of groups()) if (!seen.has(g.dir)) out.push({ id: g.id, dir: g.dir });
+  // `seen` grows as each reader is folded in, so the two readers compose
+  // rather than only being checked against `unitsOf`.
+  for (const u of [...groups(), ...sunken()]) {
+    if (seen.has(u.dir)) continue;
+    seen.add(u.dir);
+    out.push({ id: u.id, dir: u.dir });
+  }
   for (const u of out) {
     const manifest = join(u.dir, "package.json");
     u.pkg = existsSync(manifest) ? JSON.parse(readFileSync(manifest, "utf8")) : null;
