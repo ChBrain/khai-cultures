@@ -1911,6 +1911,11 @@ describe("Cultures house: the queue reads groups and sunken too", () => {
   // a people that ended in 101 BC.
   it("ranks the sunken as sunken, and never as a culture", () => {
     const ids = sunkenUnits().map((u) => u.id);
+    // This asserted nothing for as long as the reader found nothing: an empty
+    // list makes every loop below vacuous and the final comparison `[]` to `[]`.
+    // The survey reported "0 sunken" in its own header while a sunken play sat
+    // in the umbrella, and this test passed throughout.
+    expect(ids.length, "no sunken unit found, so this test checks nothing").toBeGreaterThan(0);
     for (const id of ids) {
       expect(coveredCultureIds(), `"${id}" is sunken and must not be a culture`).not.toContain(id);
       const row = s.rows.find((r) => r.id === id);
@@ -1918,6 +1923,19 @@ describe("Cultures house: the queue reads groups and sunken too", () => {
       expect(row.kind).toBe("sunken");
     }
     expect(s.rows.filter((r) => r.kind === "sunken").map((r) => r.id)).toEqual(ids);
+  });
+
+  // `migrated` was hardcoded `true` on the sunken row while the only shape a
+  // sunken unit could have was a package. Read rather than assumed now, because
+  // a unit authored in the umbrella that claims to have left it drops the
+  // `unmigrated` weight and the line of advice that says where it is.
+  it("reads whether a sunken unit has left the umbrella, rather than assuming", () => {
+    const rows = s.rows.filter((r) => r.kind === "sunken");
+    expect(rows.length, "no sunken row to check").toBeGreaterThan(0);
+    for (const r of rows) {
+      const inUmbrella = r.unit.startsWith("packages/khai-cultures/sunken/");
+      expect(r.migrated, `${r.id} is at ${r.unit}`).toBe(!inUmbrella);
+    }
   });
 });
 

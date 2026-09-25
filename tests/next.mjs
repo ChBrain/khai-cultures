@@ -72,7 +72,7 @@
 import { readdirSync, readFileSync, existsSync } from "node:fs";
 import { join, relative } from "node:path";
 import { pathToFileURL } from "node:url";
-import { WORKSPACE, cultureIds, cultureDir, isMigrated } from "./culture_sources.mjs";
+import { WORKSPACE, cultureIds, cultureDir, isMigrated, sunken } from "./culture_sources.mjs";
 import { plotYear, BRACKETS, findings as orderFindings } from "./plot_sequence.mjs";
 import { findings as flatFindings } from "./diacritic_conformance.mjs";
 import { hasOrigin, hasPresent } from "./plot_zero.mjs";
@@ -283,27 +283,21 @@ const hasPlot = (dir, prefix) =>
   existsSync(dir) && readdirSync(dir).some((f) => f.startsWith(prefix));
 
 /**
- * The sunken productions: `{ id, dir }` for every package declaring `khai.sunken`.
+ * The sunken units: `{ id, dir }` for each one, in either home.
  *
- * Zero today. `order_the_sunken.md` sets the bar - no successor community AND
- * already carried by a living culture - and nothing has been authored to it yet.
+ * This walked `packages/*` for a manifest declaring `khai.sunken` and nothing
+ * else, which was right for the only shape a sunken unit could have when it was
+ * written and wrong the moment one was authored. Every culture and every group
+ * in this house is authored INSIDE the umbrella and migrated out later, and the
+ * sunken is no different: `cimbri` went into `sunken/cimbri/`, carries no
+ * manifest of its own, and this reported zero while the header said so out loud.
+ *
+ * It reads `sunken()` now, which composes both homes exactly as `groups()` does
+ * - which is how the group half of this survey was already right. A survey that
+ * cannot see a unit does not rank it low; it does not rank it at all.
  */
 export function sunkenUnits(workspace = WORKSPACE) {
-  const root = join(workspace, "packages");
-  if (!existsSync(root)) return [];
-  const out = [];
-  for (const name of readdirSync(root).sort()) {
-    const manifest = join(root, name, "package.json");
-    if (!existsSync(manifest)) continue;
-    try {
-      const m = JSON.parse(readFileSync(manifest, "utf8"));
-      if (m?.khai?.sunken)
-        out.push({ id: m.khai.sunken === true ? name : m.khai.sunken, dir: join(root, name) });
-    } catch {
-      /* a manifest that will not parse is production_packages' business, not this file's */
-    }
-  }
-  return out;
+  return sunken(workspace).map((s) => ({ id: s.id, dir: s.dir, migrated: s.migrated }));
 }
 
 export function survey() {
@@ -380,17 +374,21 @@ export function survey() {
     });
   }
 
-  // The sunken, when there are any. `order_the_sunken.md` defines the third
-  // production type and nothing carries `khai.sunken` yet, so this reads zero
-  // today - included so the first one arrives already ranked rather than waiting
-  // for somebody to remember this file exists.
+  // The sunken. `order_the_sunken.md` defines the third collection, and this read
+  // zero for as long as the only shape it looked for was a package - which is
+  // every day between the survey learning the word and the first play being
+  // authored in the umbrella, where every unit in this house starts.
   for (const s of sunkenUnits()) {
     const unit = relative(WORKSPACE, s.dir);
     rows.push({
       kind: "sunken",
       id: s.id,
       unit,
-      migrated: true,
+      // Read, not assumed. Hardcoding `true` was harmless while the only shape
+      // was a package and wrong the moment one was authored in the umbrella: it
+      // would drop the `unmigrated` weight and the line that says so. The group
+      // rows above have always carried `g.migrated` for the same reason.
+      migrated: s.migrated,
       ...chronology(s.dir),
       disordered: disordered.has(unit),
       flat: flatBy.get(unit) ?? [],
