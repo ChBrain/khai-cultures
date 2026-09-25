@@ -44811,5 +44811,75 @@
         }
       ]
     }
+  ],
+  "sunken": [
+    {
+      "kind": "sunken",
+      "id": "cimbri",
+      "title": "The Cimbri",
+      "description": "Known almost entirely through the accounts of those who destroyed them, and held\nnow by people who are not their heirs.",
+      "source": {
+        "package": "@chbrain/khai-cultures",
+        "path": "sunken/cimbri"
+      },
+      "references": ["denmark"],
+      "members": [
+        {
+          "file": "persona_boiorix.md",
+          "kind": "persona",
+          "title": "Boiorix"
+        },
+        {
+          "file": "persona_the_seeress.md",
+          "kind": "persona",
+          "title": "The seeress"
+        },
+        {
+          "file": "place_raudine_plain.md",
+          "kind": "place",
+          "title": "The Raudine Plain"
+        },
+        {
+          "file": "play_cimbri.md",
+          "kind": "play",
+          "title": "The Cimbri"
+        },
+        {
+          "file": "plot_00_the_edge_of_the_map.md",
+          "kind": "plot",
+          "title": "A name at the edge of the map"
+        },
+        {
+          "file": "plot_01_the_people_move_113.md",
+          "kind": "plot",
+          "title": "The people move, 113 BC"
+        },
+        {
+          "file": "plot_02_the_blood_in_the_cauldron.md",
+          "kind": "plot",
+          "title": "The blood in the cauldron"
+        },
+        {
+          "file": "plot_03_the_ally_who_never_came_102.md",
+          "kind": "plot",
+          "title": "The ally who never came, 102 BC"
+        },
+        {
+          "file": "plot_04_the_wagons_at_vercellae_101.md",
+          "kind": "plot",
+          "title": "The wagons at Vercellae, 101 BC"
+        },
+        {
+          "file": "plot_99_two_custodies.md",
+          "kind": "plot",
+          "title": "Two custodies"
+        },
+        {
+          "file": "position_culture_the_cimbri.md",
+          "kind": "position",
+          "title": "Being Cimbri"
+        }
+      ]
+    }
   ]
 }
