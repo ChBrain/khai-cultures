@@ -75,6 +75,8 @@ import {
   owed,
   asks,
   sunkenUnits,
+  inherit,
+  dependencies,
 } from "./next.mjs";
 import {
   plotYear,
@@ -437,6 +439,109 @@ describe("Cultures house: a group is a unit and not a culture", () => {
   it("plot_zero refuses an id that is not a culture instead of passing it", () => {
     expect(() => hasOrigin("no_such_culture_at_all")).toThrow(/no culture directory/);
     for (const g of migratedGroups()) expect(() => hasOrigin(g.id)).toThrow(/no culture directory/);
+  });
+});
+
+// The queue named `us_south_carolina` and it could not be worked: thirty of its
+// points were `no origin`, and that origin waits on the Gullah Geechee being a
+// culture of their own. A survey that scores every row alone cannot see the work
+// that makes work payable. See management/orders/order_what_to_do_next.md.
+describe("Cultures house: a score is owed by whatever blocks it", () => {
+  const rowsOf = (spec) =>
+    Object.entries(spec).map(([id, own]) => ({ id, own, kind: "culture", unit: `x/${id}` }));
+  // These cases need a graph the filesystem does not hold - a cycle, a chain
+  // three deep - so the dependency map is injected and the REAL `inherit` runs.
+  // A local reimplementation would assert against its own copy and keep passing
+  // after the shipped walk broke.
+  const spread = (rows, edges) => {
+    const deps = new Map(rows.map((r) => [r.id, new Set(edges[r.id] ?? [])]));
+    inherit(rows, deps);
+    return new Map(rows.map((r) => [r.id, r]));
+  };
+
+  it("bolivia carries the five groups that wait on it, and leads because of them", () => {
+    // The real case, and the reason the rule is not a hypothesis. bolivia owes a
+    // middling amount of its own and sits in five of the twenty-one groups.
+    const rows = nextSurvey().rows;
+    const b = rows.find((r) => r.id === "bolivia");
+    expect(b, "bolivia is not in the survey").toBeTruthy();
+    expect(b.blocks).toEqual([
+      "hispanidad",
+      "latin_america",
+      "mercosur",
+      "the_americas",
+      "the_andes",
+    ]);
+    expect(b.inherited).toBeGreaterThan(b.own);
+    expect(b.score).toBe(b.own + b.inherited);
+    const ahead = rows.filter((r) => r.score > b.score);
+    expect(
+      ahead.map((r) => r.id),
+      "nothing should outrank bolivia",
+    ).toEqual([]);
+  });
+
+  it("adds the whole score to each dependency and never a share of it", () => {
+    // Five groups waiting on one culture are five debts hanging on it, not five
+    // fifths of one. A split would say that doing it half-moves each of them.
+    // One group with TWO members is what catches a split: with one member each,
+    // a share and a whole are the same number and the fault is invisible. This
+    // case was written that way first and passed with the split planted.
+    const rows = rowsOf({ g: 100, m1: 7, m2: 3 });
+    const by = spread(rows, { g: ["m1", "m2"] });
+    expect(by.get("m1").inherited, "a share would be 50").toBe(100);
+    expect(by.get("m2").inherited, "a share would be 50").toBe(100);
+    expect(by.get("m1").score).toBe(107);
+    expect(by.get("m2").score).toBe(103);
+    // And two groups on one member add rather than replace.
+    const two = rowsOf({ g1: 60, g2: 40, member: 1 });
+    const byTwo = spread(two, { g1: ["member"], g2: ["member"] });
+    expect(byTwo.get("member").inherited).toBe(100);
+  });
+
+  it("walks the chain, because a dependency of a dependency still blocks", () => {
+    const rows = rowsOf({ top: 50, middle: 5, bottom: 1 });
+    const by = spread(rows, { top: ["middle"], middle: ["bottom"] });
+    expect(by.get("middle").inherited).toBe(50);
+    expect(by.get("bottom").inherited, "50 from top through middle, plus 5").toBe(55);
+    expect(by.get("bottom").score).toBe(56);
+  });
+
+  it("survives a cycle instead of hanging on one", () => {
+    // Groups cannot cycle today, casting only cultures. The guard is for the
+    // declared edges the order still owes, where a and b can wait on each other.
+    const rows = rowsOf({ a: 10, b: 20 });
+    const by = spread(rows, { a: ["b"], b: ["a"] });
+    expect(by.get("a").inherited).toBe(20);
+    expect(by.get("b").inherited).toBe(10);
+  });
+
+  it("reads the rung from the unit's own ledger, never from what it inherits", () => {
+    // A culture is not in worse condition because something waits on it. The
+    // terms and the rung describe this unit; only the ORDER carries the rest.
+    for (const r of nextSurvey().rows) {
+      expect(
+        r.terms.reduce((n, [p]) => n + p, 0),
+        `${r.id} terms must sum to own`,
+      ).toBe(r.own);
+      expect(r.rung).toBe(rungOf(r));
+    }
+  });
+
+  it("derives a group's members and never declares them", () => {
+    const rows = nextSurvey().rows;
+    const deps = dependencies(rows);
+    const edges = [...deps.values()].reduce((n, s) => n + s.size, 0);
+    expect(edges, "no group-to-member edge derived").toBeGreaterThan(0);
+    expect(deps.get("the_andes")).toEqual(new Set(["bolivia", "colombia", "ecuador", "peru"]));
+    // A culture depends on nothing derivable today: what it waits on is either a
+    // unit that exists and it does not cast, or one that does not exist at all.
+    for (const r of rows.filter((x) => x.kind === "culture"))
+      expect(deps.get(r.id)?.size ?? 0, `${r.id} should derive no dependency yet`).toBe(0);
+  });
+
+  it("is exported so a caller can propagate over rows it built itself", () => {
+    expect(typeof inherit).toBe("function");
   });
 });
 

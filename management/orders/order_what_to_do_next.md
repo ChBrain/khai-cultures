@@ -242,6 +242,60 @@ looked.** The burden of proof runs the other way round, and the only reason this
 was caught is that a person said so. That is why rung 3 is a question and not a
 finding.
 
+## A score that cannot be paid is owed by whatever blocks it
+
+The queue named `us_south_carolina` and it could not be worked.
+
+Its line ran backwards, it had no origin and no present, three Company members
+were cast by nothing, and it nested in `usa` without saying so: a hundred and
+ninety-two points, the head of the queue, and the right answer to the question
+this file was asking. Thirty of those points were `no origin`, and the origin of
+the Lowcountry cannot be written until the Gullah Geechee are a culture of their
+own, because a play that staged them inside South Carolina would contain a people
+it should cast. The Gullah Geechee are not a unit. They have no row here, and
+no points, and the queue could not see them at any rank.
+
+So the file was answering **which unit owes most** while the reader's question was
+**what do I do first, so that the most owed work becomes payable**. Those are the
+same question only when nothing blocks anything, and the day they came apart the
+queue sent a person at a wall.
+
+**A unit's score is added, whole, to everything it depends on.** Not divided
+between them: each dependency is a thing that, done, moves the dependent, and a
+half share would say that doing it half-moves it. `bolivia` owes a hundred and
+twenty-four of its own and sits in five of the twenty-one groups - `hispanidad`,
+`latin_america`, `mercosur`, `the_americas`, `the_andes`. Five groups wait on it.
+Their debts are not five fifths of one debt; they are five debts, and all five
+hang on the same culture.
+
+**Measured.** Over the two hundred and forty group-to-member edges the house
+already records, `bolivia` goes from seventieth to first: 124 of its own plus 737
+owed by the groups above it. `greenland`, which was the head of the queue, blocks
+nothing and falls below every culture in that table. It is not that greenland
+stopped owing what it owes. It is that eleven cultures were holding up more.
+
+**It is transitive, and it is cycle-safe.** A dependency of a dependency is still
+something the work waits on, so the sum walks the whole chain; a visited set per
+source means a cast that comes back on itself costs a skipped edge rather than a
+hang. Groups cannot cycle today, casting only cultures, and the guard is there for
+the declared edges below rather than for the ones derived now.
+
+**The totals are not the old totals.** A group passing its score to twenty members
+puts that score into the ledger twenty times, so the numbers inflate and no longer
+mean what a single unit's ledger meant. The report says so in its own header
+rather than leaving a reader to infer that eight hundred is six times worse than a
+hundred and twenty-four. The ORDER is what changed and the order is what to read.
+
+**What is derived and what must be declared.** A group's members are derived,
+because the play casts them and `castIds` reads that cast the same way the
+registry build does - both shapes, relative link and package specifier, because
+which one a cast wears is a fact about the migration and not about membership.
+What cannot be derived is a dependency on a unit that does not exist. Nothing in
+South Carolina's files says its origin waits on the Gullah Geechee; that was
+established by reading the history, in a conversation, and a survey that inferred
+it would be guessing. So the derived edges ship here and the declared ones are a
+Target: a unit that has found what it waits on must be able to write it down.
+
 ## How it is held
 
 Read, never enforced. `npm run next` from the repository root prints the medians,
@@ -256,6 +310,14 @@ twelve behind it.
       the ladder cannot express depth in the tree, and severity did not add
       instead, with the rung order as the only policy and as data
 - [x] Name a culture rather than a task, because authoring wakes the whole recipe
+- [x] Add a unit's score, whole, to everything it depends on, so the queue ranks
+      what unblocks rather than what is blocked. Derived over the group-to-member
+      edges, transitive, cycle-safe
+- [ ] Let a unit declare what it waits on, so a dependency that is not yet a unit
+      can carry the weight of the work it blocks. `us_south_carolina` waits on the
+      Gullah Geechee and no file says so
+- [ ] Carry the tongues, which a migrated culture depends on and which have no row
+      in this survey at all
       and writing and repairing are therefore the same pull request
 - [x] Take every fact from the house's own walls. The first draft hand-rolled a
       directory scan for board members no plot links, which is
