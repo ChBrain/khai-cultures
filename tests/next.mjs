@@ -72,7 +72,15 @@
 import { readdirSync, readFileSync, existsSync } from "node:fs";
 import { join, relative } from "node:path";
 import { pathToFileURL } from "node:url";
-import { WORKSPACE, cultureIds, cultureDir, isMigrated, sunken } from "./culture_sources.mjs";
+import {
+  WORKSPACE,
+  cultureIds,
+  cultureDir,
+  isMigrated,
+  sunken,
+  packageIds,
+} from "./culture_sources.mjs";
+import { castIds } from "@chbrain/khai-foyer";
 import { plotYear, BRACKETS, findings as orderFindings } from "./plot_sequence.mjs";
 import { findings as flatFindings } from "./diacritic_conformance.mjs";
 import { hasOrigin, hasPresent } from "./plot_zero.mjs";
@@ -420,9 +428,10 @@ export function survey() {
     r.hollow = r.span >= spans && r.hole >= holes && spans > 0;
     r.rung = rungOf(r);
     const { total, terms } = scoreOf(r, spans, holes);
-    r.score = total;
+    r.own = total;
     r.terms = terms;
   }
+  inherit(rows);
   surveyed = {
     rows,
     medianSpan: spanBy.get("culture") ?? 0,
@@ -431,6 +440,88 @@ export function survey() {
     medianHoleBy: holeBy,
   };
   return surveyed;
+}
+
+/**
+ * What each unit depends on: `id -> Set(id)`, derived and never declared.
+ *
+ * A group depends on the cultures it casts, because a group is defined by its
+ * members and cannot be finished while one of them is not. `castIds` is the
+ * kit's own reader and answers for both shapes - a relative link and a package
+ * specifier - since which one a cast wears is a fact about how far the migration
+ * has got and not about who belongs to the group.
+ *
+ * Nothing else is derivable today. A culture's dependency on a unit that does
+ * not exist yet - `us_south_carolina` on the Gullah Geechee - cannot be read off
+ * any file, and is the open Target in `order_what_to_do_next.md`.
+ */
+export function dependencies(rows) {
+  const unitsDir = join(WORKSPACE, "packages", "khai-cultures", "cultures");
+  const pids = packageIds();
+  const out = new Map(rows.map((r) => [r.id, new Set()]));
+  const known = new Set(rows.map((r) => r.id));
+  for (const r of rows) {
+    if (r.kind !== "group") continue;
+    const dir = join(WORKSPACE, r.unit);
+    const anchor = readdirSync(dir).find((f) => f.startsWith("play_") && f.endsWith(".md"));
+    if (!anchor) continue;
+    for (const id of castIds(join(dir, anchor), unitsDir, pids)) {
+      if (id !== r.id && known.has(id)) out.get(r.id).add(id);
+    }
+  }
+  return out;
+}
+
+/**
+ * Add each unit's own score, WHOLE, to everything it depends on.
+ *
+ * Whole and not divided: each dependency is a thing that, once done, moves the
+ * dependent, and a half share would say it half-moves it. Five groups waiting on
+ * `bolivia` are five debts hanging on one culture, not five fifths of one.
+ *
+ * Transitive, because a dependency of a dependency is still something the work
+ * waits on. The visited set is per SOURCE, so a cast that comes back on itself
+ * costs one skipped edge rather than a hang - groups cannot cycle today, casting
+ * only cultures, and the guard is for the declared edges the order still owes.
+ *
+ * Sets `own`, `inherited`, `score` and `blocks` on every row. `score` is what the
+ * queue orders by; `own` is the ledger the terms add up to and is what the rung
+ * was read from, because a unit's condition is its own and is not inherited.
+ *
+ * `deps` is injectable so a caller can propagate over a graph the filesystem does
+ * not hold - a cycle, a chain three deep - and still be running THIS function.
+ * A test that reimplemented the walk to reach those cases would be asserting
+ * against its own copy, and would keep passing after this one broke.
+ *
+ * @param {object[]} rows
+ * @param {Map<string, Set<string>>} [deps] `id -> what it depends on`
+ */
+export function inherit(rows, deps = dependencies(rows)) {
+  const by = new Map(rows.map((r) => [r.id, r]));
+  for (const r of rows) {
+    r.inherited = 0;
+    r.blocks = [];
+  }
+  for (const r of rows) {
+    if (!r.own) continue;
+    const seen = new Set([r.id]);
+    const stack = [...(deps.get(r.id) ?? [])];
+    while (stack.length) {
+      const id = stack.pop();
+      if (seen.has(id)) continue;
+      seen.add(id);
+      const d = by.get(id);
+      if (!d) continue;
+      d.inherited += r.own;
+      d.blocks.push(r.id);
+      for (const next of deps.get(id) ?? []) stack.push(next);
+    }
+  }
+  for (const r of rows) {
+    r.blocks.sort((a, b) => a.localeCompare(b));
+    r.score = r.own + r.inherited;
+  }
+  return rows;
 }
 
 /**
@@ -541,6 +632,13 @@ function report(limit = 12) {
   console.log(`\nNext: ${head.id}  ${head.kind}  ${head.score} points  (${rungName(head.rung)})`);
   console.log(`  ${head.unit}`);
   console.log(`  ${head.terms.map(([n, says]) => `${n} ${says}`).join("  +  ")}`);
+  // The inherited half is printed apart from the ledger and never folded into
+  // it: the terms are what THIS unit owes, and a reader who saw 737 inside them
+  // would go looking for a fault here that belongs to five other units.
+  if (head.inherited)
+    console.log(
+      `  ${head.own} its own  +  ${head.inherited} owed by ${head.blocks.length} unit(s) waiting on it: ${head.blocks.join(", ")}`,
+    );
   console.log("  What it owes:");
   for (const line of owed(head)) console.log(`    - ${line}`);
   console.log("  What has to be answered outside this repository:");
@@ -550,10 +648,13 @@ function report(limit = 12) {
   for (const r of q.slice(1, limit + 1))
     console.log(
       `  ${String(r.score).padStart(4)}  ${r.kind === "culture" ? `L${r.level}` : r.kind.slice(0, 2).toUpperCase()}  ${r.id.padEnd(24)} ` +
+        (r.inherited ? `+${r.inherited} blocking ${r.blocks.length}  ` : "") +
         r.terms.map(([n, says]) => `${n} ${says}`).join("  "),
     );
   console.log(
     `\n  ${q.length} unit(s) owe something. This ranks work; it refuses nothing.\n` +
+      "  A score is this unit's own plus, whole, the score of everything waiting on it,\n" +
+      "  so totals are larger than one unit can owe and only the ORDER is comparable.\n" +
       "  See management/orders/order_what_to_do_next.md.",
   );
 }
