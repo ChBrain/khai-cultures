@@ -137,9 +137,34 @@ export function plotNumber(path) {
  * One and two digits are not years here, and a four-digit number past LATEST is
  * a count.
  */
+/**
+ * The eras this house can say "before" in.
+ *
+ * A year is a magnitude and a direction, and until the first line that ran
+ * entirely before the common era every plot here was after it, so the direction
+ * went unwritten. `cimbri` runs 113 to 101 and the wall read that as backwards:
+ * forwards in time, decreasing as integers.
+ *
+ * Matched immediately after the year, because that is where every one of these
+ * goes, and per language because the prose is per language. Extend it when a
+ * culture writes a date this list cannot read - and a marker this misses costs a
+ * false "backwards", never a silent pass, which is the safe direction to fail.
+ */
+const BEFORE =
+  /^\s*(?:BCE?|B\.C\.(?:E\.)?|f\.\s?Kr\.|v\.\s?Chr\.|vor\s+Christus|av\.\s?J\.-?C\.|a\.\s?C\.|p\.n\.e\.|e\.Kr\.f)/i;
+
 function yearIn(field) {
-  const found = [...field.matchAll(DIGITS)].map((m) => Number(m[1]));
-  return found.find((n) => n >= 1000 && n <= LATEST) ?? found.find((n) => n < 1000) ?? null;
+  const hits = [...field.matchAll(DIGITS)].map((m) => ({
+    n: Number(m[1]),
+    // Negative for a year the prose marks as before the common era, so the
+    // comparison that orders a line is arithmetic rather than a special case.
+    before: BEFORE.test(field.slice(m.index + m[0].length)),
+  }));
+  const signed = (h) => (h.before ? -h.n : h.n);
+  const wide = hits.find((h) => h.n >= 1000 && h.n <= LATEST && !h.before);
+  if (wide) return signed(wide);
+  const first = hits.find((h) => h.before) ?? hits.find((h) => h.n < 1000);
+  return first ? signed(first) : null;
 }
 
 /**

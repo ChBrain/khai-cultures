@@ -1610,6 +1610,36 @@ describe("Cultures house: a name reads as prose", () => {
 // house could not name one. What is held here is the shape of the record, the
 // staleness rule, and the duplication the audit lane chose over a dependency.
 // See management/orders/order_a_second_reader.md.
+// A year is a magnitude and a direction, and the direction went unwritten until a
+// line ran entirely before the common era. `plot_sequence` compared magnitudes, so
+// 113 followed by 101 read as backwards when it is forwards. Held here: the
+// markers, per language, and that nothing in the existing house moves - measured
+// over all 719 plot years, and only the two BC ones changed.
+describe("Cultures house: a line can run before the common era", () => {
+  it("reads the era off the prose, in the languages the house writes in", () => {
+    const cue = (s) => `## Cue\n\n${s}\n\n`;
+    expect(plotYear(cue("In 113 BC a people arrives."))).toBe(-113);
+    expect(plotYear(cue("On 30 July 101 BC the line breaks."))).toBe(-101);
+    expect(plotYear(cue("omkring 500 f. Kr. kom de."))).toBe(-500);
+    expect(plotYear(cue("Um 800 v. Chr. herrschte."))).toBe(-800);
+  });
+
+  it("leaves a year with no era marker exactly where it was", () => {
+    const cue = (s) => `## Cue\n\n${s}\n\n`;
+    expect(plotYear(cue("I 1864 taber landet Slesvig."))).toBe(1864);
+    expect(plotYear(cue("The Grand Ole Opry 1925 founding."))).toBe(1925);
+    expect(plotYear(cue("Den 28. maj 1891 skaerer to toervearbejdere."))).toBe(1891);
+  });
+
+  // A marker this list misses costs a false "backwards", never a silent pass.
+  // That is the safe direction to fail, and it is why the list can be extended
+  // later without anything having shipped wrong in the meantime.
+  it("fails towards a complaint, never towards a quiet pass", () => {
+    const cue = (s) => `## Cue\n\n${s}\n\n`;
+    expect(plotYear(cue("In 113 vor unserer Zeitrechnung."))).toBe(113);
+  });
+});
+
 describe("Cultures house: a reading that is not recorded did not happen", () => {
   // The audit lane runs with NO INSTALL so a registry it does not need cannot
   // break it, so it enumerates cultures itself rather than importing
@@ -1755,12 +1785,20 @@ describe("Cultures house: the queue reads groups and sunken too", () => {
     expect(eight - one).toBe(7 * WEIGHTS.chain);
   });
 
-  // Zero today, and the point is that it is zero rather than absent: the first
-  // sunken production arrives already ranked instead of waiting for somebody to
-  // remember this file exists.
-  it("counts the sunken, which is a population of none until one is authored", () => {
-    expect(sunkenUnits()).toEqual([]);
-    expect(s.rows.filter((r) => r.kind === "sunken")).toEqual([]);
+  // Written when the population was empty, and rewritten by the first play that
+  // filled it. What matters is not the count but that a sunken unit is ranked as
+  // sunken and is NOT a culture: `cimbri` entering `cultureIds()` moved the
+  // umbrella's minor to 320 and had the complete-theatre wall demanding a pitch of
+  // a people that ended in 101 BC.
+  it("ranks the sunken as sunken, and never as a culture", () => {
+    const ids = sunkenUnits().map((u) => u.id);
+    for (const id of ids) {
+      expect(coveredCultureIds(), `"${id}" is sunken and must not be a culture`).not.toContain(id);
+      const row = s.rows.find((r) => r.id === id);
+      expect(row, `"${id}" must be in the survey`).toBeTruthy();
+      expect(row.kind).toBe("sunken");
+    }
+    expect(s.rows.filter((r) => r.kind === "sunken").map((r) => r.id)).toEqual(ids);
   });
 });
 

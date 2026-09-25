@@ -150,6 +150,21 @@ by `notCultureNote`, rather than passing green having inspected nothing, which i
 what happened the first time a group was handed to them. Nothing in that split
 needs to learn the word "sunken".
 
+**That last sentence was true and incomplete, and staging `cimbri` proved it.**
+`cultureUnits` splits on membership of `cultureIds()` and needs to learn nothing.
+But `cultures()`, which _defines_ that membership, filters migrated groups out by
+directory and filtered nothing else - so the first sunken package walked straight
+into `cultureIds()`. The umbrella's minor went to 320, the complete-theatre wall
+demanded a pitch and a process of a people that ended in 101 BC, and the registry
+counted a culture that is not one. The order's own first rule, broken by the
+order's own first play.
+
+`cultures()` now declines a unit whose manifest declares `khai.sunken`, on the
+line above the one that declines a group. The prediction at the top of this order
+was right about the mechanism and wrong about where the payment fell due: the
+walls found out about the sunken by being handed one, exactly as they did with
+groups.
+
 What is not paid: the sunken has no walls of its own. Neither do groups, and
 `order_a_group_is_not_a_culture.md` still carries that as an open Target. The two
 should be answered together rather than twice.
@@ -165,7 +180,10 @@ should be answered together rather than twice.
       written down before the first play is authored
 - [ ] Prove the split holds: a test that hands the four content walls a sunken
       unit and requires each to decline it by name
-- [ ] Stage `unetice` as the first sunken play, casting the disc from
+- [x] Stage the first sunken play. It was `cimbri` rather than `unetice`, because
+      Denmark was made to carry the Cimbri first and that is the half of the bar
+      the house can actually author; `unetice` still waits on nothing but a decision
+- [ ] Stage `unetice` as the second, casting the disc from
       `de_saxony_anhalt` and carrying its own line to the custody present
 - [ ] Repoint `de_saxony_anhalt` at it, so that `plot_09`'s "geliehener Ursprung"
       borrows from a node that stands on its own
