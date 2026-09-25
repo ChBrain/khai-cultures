@@ -48,6 +48,11 @@ import {
   cultureDir,
   productions,
   migratedGroups,
+  migratedSunken,
+  houseSunken,
+  sunkenName,
+  groupName,
+  productionName,
   cultureUnits,
   notCultureNote,
   MONOLITH_DIR,
@@ -431,6 +436,102 @@ describe("Cultures house: a group is a unit and not a culture", () => {
   it("plot_zero refuses an id that is not a culture instead of passing it", () => {
     expect(() => hasOrigin("no_such_culture_at_all")).toThrow(/no culture directory/);
     for (const g of migratedGroups()) expect(() => hasOrigin(g.id)).toThrow(/no culture directory/);
+  });
+});
+
+// The sunken is the third collection, and it is a referencing one like groups:
+// it collects what the living are holding and adds a line of its own. These
+// hold the two things that make it a collection rather than a special case -
+// the count cannot move by it existing, and its name cannot say what it is.
+// See management/orders/order_the_sunken.md.
+describe("Cultures house: the sunken is a collection and not a culture", () => {
+  it("names a sunken unit exactly as a group and a culture are named", () => {
+    // The kind lives in the manifest and never in the name. A `khai-sunken-*`
+    // prefix was proposed and is wrong: it would make the sunken the one unit
+    // type that spells its kind in its name, and `groupName` already settled
+    // the question for the first unit type that was not a culture.
+    for (const id of ["cimbri", "unetice", "two_words"]) {
+      expect(sunkenName(id)).toBe(groupName(id));
+      expect(sunkenName(id)).toBe(productionName(id));
+    }
+    expect(sunkenName("cimbri")).toBe("@chbrain/khai-cultures-cimbri");
+  });
+
+  it("reads both homes, and an absent collection is empty and not a throw", () => {
+    // The umbrella half before the collection is declared: no directory is a
+    // fact about the house, not a fault. `houseGroups` answers the same way for
+    // a house with no groups, and a throw here would make the readers
+    // undeployable in the PR that adds them.
+    expect(Array.isArray(houseSunken())).toBe(true);
+    expect(Array.isArray(migratedSunken())).toBe(true);
+    for (const [id, dir] of houseSunken()) {
+      expect(typeof id).toBe("string");
+      expect(dir.endsWith(`/sunken/${id}`)).toBe(true);
+    }
+  });
+
+  it("no unit marked other than a production is in the culture list", () => {
+    // The property `order_the_sunken.md` puts first, and it was broken once by
+    // the order's own first play: `cultures()` DEFINES the membership that
+    // `cultureUnits` merely splits on, so a marker it does not read walks in.
+    //
+    // Asserted over both non-production markers together rather than over the
+    // sunken alone. There is no sunken unit in the house until the collection
+    // is declared, so a sunken-only assertion would pass by iterating nothing -
+    // and would still pass if the filter line were deleted. The groups give the
+    // same line real data today, and the sunken joins them without a new test.
+    const dirs = new Set(cultures().map((c) => c.dir));
+    const ids = new Set(cultures().map((c) => c.id));
+    const notCultures = [...migratedGroups(), ...migratedSunken()];
+    expect(notCultures.length, "no non-production unit to check the filter with").toBeGreaterThan(
+      0,
+    );
+    const leaked = notCultures.filter((u) => dirs.has(u.dir) || ids.has(u.id));
+    expect(
+      leaked.map((u) => u.name),
+      `counted as cultures: ${leaked.map((u) => u.name).join(", ")}`,
+    ).toEqual([]);
+  });
+
+  it("the three markers are disjoint, so no unit is counted twice or not at all", () => {
+    // `khai.production`, `khai.group` and `khai.sunken` are what tell the kinds
+    // apart now that the NAME does not. A package carrying two of them is a
+    // mistake this house would rather fail on than average out.
+    // Read off every package manifest rather than off `productions()`, which
+    // is already filtered to `khai.production` and so could never hold a unit
+    // carrying a second marker - it would iterate 113 packages and find, by
+    // construction, nothing.
+    const dir = join(workspaceRoot, "packages");
+    const seen = [];
+    for (const e of readdirSync(dir, { withFileTypes: true })) {
+      if (!e.isDirectory()) continue;
+      const file = join(dir, e.name, "package.json");
+      if (!existsSync(file)) continue;
+      const khai = JSON.parse(readFileSync(file, "utf8")).khai ?? {};
+      const marks = ["production", "group", "sunken"].filter((m) => khai[m]);
+      if (marks.length > 0) seen.push({ name: e.name, marks });
+    }
+    expect(seen.length, "no marked package found: the walk is looking in the wrong place").toBe(
+      productions().length + migratedGroups().length + migratedSunken().length,
+    );
+    const doubled = seen.filter((u) => u.marks.length > 1);
+    expect(
+      doubled.map((u) => `${u.name}: ${u.marks.join(" + ")}`),
+      "a package carrying more than one kind marker",
+    ).toEqual([]);
+  });
+
+  it("the changeset gate treats a sunken add as it treats a group add", () => {
+    // Not because a sunken play moves the count - it does not, and neither does
+    // a group - but because both ADD umbrella content that has to be
+    // republished. The glob list is named for the count and does the other job;
+    // leaving `sunken/` out of it lets a play merge green and publish nothing.
+    const { changesetPolicy } = JSON.parse(
+      readFileSync(join(workspaceRoot, "khai-guard.config.json"), "utf8"),
+    );
+    const globs = changesetPolicy?.countDrivenAdd ?? [];
+    expect(globs).toContain("packages/khai-cultures/groups/*/play_*.md");
+    expect(globs).toContain("packages/khai-cultures/sunken/*/play_*.md");
   });
 });
 

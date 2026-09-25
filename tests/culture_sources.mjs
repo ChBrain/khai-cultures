@@ -209,12 +209,13 @@ export function cultures(workspace = WORKSPACE) {
   // `cultureIds()`: the umbrella's minor went to 320, the complete-theatre wall
   // demanded a pitch and a process of a people that ended in 101 BC, and the
   // order's own first rule was broken by its own first play.
-  const sunken = new Set(
-    all
-      .filter((u) => manifest(u.dir)?.khai?.sunken || manifest(u.packageDir ?? u.dir)?.khai?.sunken)
-      .map((u) => u.dir),
-  );
-  const units = all.filter((u) => !groupDirs.has(u.dir) && !sunken.has(u.dir));
+  //
+  // Read through `sunkenOf` rather than by scanning manifests here, so the two
+  // kinds of non-culture unit are declined by the same shape of line. The scan
+  // this replaces asked `all` about `khai.sunken` directly; a sunken unit is a
+  // production and nothing else, so the two sets are the same one.
+  const sunkenDirs = new Set(sunkenOf(house).map((s) => s.dir));
+  const units = all.filter((u) => !groupDirs.has(u.dir) && !sunkenDirs.has(u.dir));
   if (!units.length) fail();
 
   const prods = new Map(productionsOf(house).map((p) => [p.id, p]));
@@ -548,6 +549,60 @@ export function groupName(id) {
 }
 
 export function productionName(id) {
+  return `@chbrain/khai-cultures-${id.replace(/_/g, "-")}`;
+}
+
+/**
+ * Every SUNKEN production that has been lifted into its own package.
+ *
+ * Keyed on `khai.sunken`, and the three markers are disjoint for one reason:
+ * the minor IS the culture count, so a unit that is not a culture must not
+ * declare `khai.production`. `groupsOf` made that rule; this reads it for the
+ * second kind of unit it applies to. See management/orders/order_the_sunken.md.
+ */
+function sunkenOf(house) {
+  if (!house) return [];
+  return house.productions
+    .filter((p) => p.pkg?.khai?.sunken)
+    .map((p) => ({
+      id: String(p.pkg.khai.sunken),
+      name: p.name,
+      dir: p.dir,
+      anchor: p.pkg.khai.anchor,
+      pkg: p.pkg,
+    }))
+    .sort((a, b) => a.id.localeCompare(b.id));
+}
+
+/** Every migrated sunken unit. Empty is legitimate, as it is for groups. */
+export function migratedSunken(workspace = WORKSPACE) {
+  return sunkenOf(findHouse(workspace));
+}
+
+/**
+ * The umbrella's own sunken units, the ones that have not moved: `[id, dir]`.
+ *
+ * Reads `sunken/` the way `houseGroups` reads `groups/`, and returns empty
+ * before the collection is declared - a house without the directory has no
+ * sunken unit, which is a fact about the house and not a fault.
+ */
+export function houseSunken(workspace = WORKSPACE) {
+  const dir = join(workspace, "packages", "khai-cultures", "sunken");
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir, { withFileTypes: true })
+    .filter((e) => e.isDirectory())
+    .map((e) => [e.name, join(dir, e.name)])
+    .sort((a, b) => a[0].localeCompare(b[0]));
+}
+
+/**
+ * The npm name of a sunken package. The same shape as a group's and a
+ * culture's, and deliberately so: a play vertex id is unique across the
+ * collections and the manifest says which kind it is, so the NAME never
+ * carries the kind. A `khai-sunken-*` prefix would make this the one unit type
+ * that spells its kind in its name, and the id would stop being the id.
+ */
+export function sunkenName(id) {
   return `@chbrain/khai-cultures-${id.replace(/_/g, "-")}`;
 }
 

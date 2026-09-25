@@ -49,6 +49,8 @@ import {
   packageIds,
   migratedGroups,
   houseGroups,
+  migratedSunken,
+  houseSunken,
 } from "./culture_sources.mjs";
 
 const rel = (p) => relative(WORKSPACE, p).split(sep).join("/");
@@ -132,11 +134,17 @@ function quiet(fn) {
 }
 
 /**
- * Run the kit's build over a scratch house whose `groups/` holds `dirs`, and
- * take the group entries it produces.
+ * Run the kit's build over a scratch house whose `<key>/` holds `dirs`, and
+ * take the entries it produces for that referencing collection.
+ *
+ * Parameterised over the key because the sunken is the second collection to
+ * need this and a copy would drift: the kit builds every referencing
+ * collection the same way, so one scratch reads them all. `groups` and
+ * `sunken` differ in the word and in nothing else.
  *
  * The same trick as `builtFrom` and for the same reason - the kit decides what
- * an entry contains, not this file - with two differences that are the group's.
+ * an entry contains, not this file - with two differences that are the
+ * referencing collection's.
  * The scratch manifest declares the referencing collection as well as the
  * cultures one, because a group entry without `references` is a build error in
  * the kit. And `packageIds` goes in, because every member cast in a migrated
@@ -146,15 +154,15 @@ function quiet(fn) {
  * files, and copying three hundred cultures in to prove it would cost minutes
  * per build.
  */
-function builtGroupsFrom(dirs) {
+function builtReferencingFrom(key, dirs) {
   if (!dirs.length) return [];
-  const scratch = mkdtempSync(join(tmpdir(), "khai-registry-groups-"));
+  const scratch = mkdtempSync(join(tmpdir(), `khai-registry-${key}-`));
   try {
     mkdirSync(join(scratch, "cultures"), { recursive: true });
-    mkdirSync(join(scratch, "groups"), { recursive: true });
+    mkdirSync(join(scratch, key), { recursive: true });
     // Every culture, as its play file and nothing else. The kit checks each
     // derived reference against the cultures collection, so an empty one turns
-    // every group into "references X, which is not a cultures member" and turns
+    // every entry into "references X, which is not a cultures member" and turns
     // a fully migrated group - DACH, whose casts are all package specifiers -
     // into a build failure. The whole directories would also do it and cost
     // minutes; a play file is the vertex, and membership is all this scratch
@@ -166,7 +174,7 @@ function builtGroupsFrom(dirs) {
       cpSync(join(c.dir, play), join(scratch, "cultures", c.id, play));
     }
     for (const [id, dir] of dirs)
-      cpSync(dir, join(scratch, "groups", id), {
+      cpSync(dir, join(scratch, key, id), {
         recursive: true,
         filter: (src) => !src.split(sep).includes("node_modules"),
       });
@@ -178,7 +186,7 @@ function builtGroupsFrom(dirs) {
           version: "0.0.0",
           khai: {
             collection: { dir: "cultures", key: "cultures", anchor: "play_" },
-            collections: [{ dir: "groups", anchor: "play_", references: "cultures" }],
+            collections: [{ dir: key, anchor: "play_", references: "cultures" }],
           },
         },
         null,
@@ -196,7 +204,7 @@ function builtGroupsFrom(dirs) {
     // it on every `npm run registry` would teach a reader to ignore a line that
     // means something real elsewhere. A throw still throws.
     quiet(() => buildRegistry(scratch, { packageIds: packageIds() }));
-    return read(join(scratch, "registry.json")).groups ?? [];
+    return read(join(scratch, "registry.json"))[key] ?? [];
   } finally {
     rmSync(scratch, { recursive: true, force: true });
   }
@@ -210,7 +218,10 @@ function builtGroupsFrom(dirs) {
  */
 export function migratedGroupEntries(list = migratedGroups()) {
   const byId = new Map(list.map((g) => [g.id, g]));
-  return builtGroupsFrom(list.map((g) => [g.id, g.dir])).map((e) => ({
+  return builtReferencingFrom(
+    "groups",
+    list.map((g) => [g.id, g.dir]),
+  ).map((e) => ({
     ...e,
     source: { package: byId.get(e.id)?.name, path: "" },
   }));
@@ -220,7 +231,34 @@ export function migratedGroupEntries(list = migratedGroups()) {
 export function builtGroups() {
   const migratedIds = new Set(migratedGroups().map((g) => g.id));
   const mono = houseGroups().filter(([id]) => !migratedIds.has(id));
-  return [...builtGroupsFrom(mono), ...migratedGroupEntries()].sort((a, b) =>
+  return [...builtReferencingFrom("groups", mono), ...migratedGroupEntries()].sort((a, b) =>
+    a.id.localeCompare(b.id),
+  );
+}
+
+/**
+ * Registry entries for the migrated sunken units, each naming the package that
+ * ships it. Identical to the group's, for the reason the group's is identical
+ * to a culture's: the kit stamps what is true of the scratch tree, and a unit
+ * that has left the umbrella is under neither the path nor the package that
+ * tree says.
+ */
+export function migratedSunkenEntries(list = migratedSunken()) {
+  const byId = new Map(list.map((s) => [s.id, s]));
+  return builtReferencingFrom(
+    "sunken",
+    list.map((s) => [s.id, s.dir]),
+  ).map((e) => ({
+    ...e,
+    source: { package: byId.get(e.id)?.name, path: "" },
+  }));
+}
+
+/** Every sunken entry the house's source builds to, wherever the unit lives. */
+export function builtSunken() {
+  const migratedIds = new Set(migratedSunken().map((s) => s.id));
+  const mono = houseSunken().filter(([id]) => !migratedIds.has(id));
+  return [...builtReferencingFrom("sunken", mono), ...migratedSunkenEntries()].sort((a, b) =>
     a.id.localeCompare(b.id),
   );
 }
@@ -269,7 +307,15 @@ export function hybrid(from = read(HOUSE_PKG).version) {
   // silent, because groups are not counted and no version would have moved.
   const builtG = (registry.groups ?? []).filter((e) => e.source?.path !== "");
   const groups = [...builtG, ...migratedGroupEntries()].sort((a, b) => a.id.localeCompare(b.id));
-  return { ...registry, version, cultures: all, groups };
+  // The sunken reconciles as groups do, and is ABSENT rather than empty until
+  // the collection exists. The key is spread in only when the house actually
+  // holds a sunken unit, in either home: emitting `sunken: []` unconditionally
+  // would add a key to the shipped registry of a house that has no such
+  // collection, and the drift check would demand that key forever after.
+  const builtS = (registry.sunken ?? []).filter((e) => e.source?.path !== "");
+  const sunken = [...builtS, ...migratedSunkenEntries()].sort((a, b) => a.id.localeCompare(b.id));
+  const hasSunken = sunken.length > 0 || registry.sunken !== undefined;
+  return { ...registry, version, cultures: all, groups, ...(hasSunken ? { sunken } : {}) };
 }
 
 /**
