@@ -459,26 +459,32 @@ describe("Cultures house: a score is owed by whatever blocks it", () => {
     return new Map(rows.map((r) => [r.id, r]));
   };
 
-  it("bolivia carries the five groups that wait on it, and leads because of them", () => {
-    // The real case, and the reason the rule is not a hypothesis. bolivia owes a
-    // middling amount of its own and sits in five of the twenty-one groups.
+  it("derives no edge from a group to its members, because casting is not blocking", () => {
+    // This test replaces one that asserted bolivia leads the queue, carrying 737
+    // points from five groups. It did lead, and the 737 was arithmetic nobody
+    // could fault - and every one of those points was a group's own `no origin`,
+    // `no present` and unchained Triggers, which writing bolivia cannot touch.
+    // An edge belongs in the graph only when the dependent cannot proceed until
+    // the dependency is done, and a group casting a member is not that.
     const rows = nextSurvey().rows;
-    const b = rows.find((r) => r.id === "bolivia");
-    expect(b, "bolivia is not in the survey").toBeTruthy();
-    expect(b.blocks).toEqual([
-      "hispanidad",
-      "latin_america",
-      "mercosur",
-      "the_americas",
-      "the_andes",
-    ]);
-    expect(b.inherited).toBeGreaterThan(b.own);
-    expect(b.score).toBe(b.own + b.inherited);
-    const ahead = rows.filter((r) => r.score > b.score);
-    expect(
-      ahead.map((r) => r.id),
-      "nothing should outrank bolivia",
-    ).toEqual([]);
+    const deps = dependencies(rows);
+    const edges = [...deps.values()].reduce((n, d) => n + d.size, 0);
+    expect(edges, "a derived edge is back: check it blocks rather than composes").toBe(0);
+    for (const r of rows) {
+      expect(r.inherited, `${r.id} inherited from somewhere`).toBe(0);
+      expect(r.score).toBe(r.own);
+    }
+  });
+
+  it("names the case the mechanism is for, which no file records yet", () => {
+    // `us_south_carolina` cannot write its origin until the Gullah Geechee are a
+    // culture of their own. That is a blocking edge and nothing in the repository
+    // says so - the open Target in order_what_to_do_next.md. Held here so the day
+    // a declaration lands, this fails and asks to be rewritten.
+    const rows = nextSurvey().rows;
+    const sc = rows.find((r) => r.id === "us_south_carolina");
+    expect(sc, "us_south_carolina left the house").toBeTruthy();
+    expect(dependencies(rows).get("us_south_carolina").size).toBe(0);
   });
 
   it("adds the whole score to each dependency and never a share of it", () => {
@@ -526,18 +532,6 @@ describe("Cultures house: a score is owed by whatever blocks it", () => {
       ).toBe(r.own);
       expect(r.rung).toBe(rungOf(r));
     }
-  });
-
-  it("derives a group's members and never declares them", () => {
-    const rows = nextSurvey().rows;
-    const deps = dependencies(rows);
-    const edges = [...deps.values()].reduce((n, s) => n + s.size, 0);
-    expect(edges, "no group-to-member edge derived").toBeGreaterThan(0);
-    expect(deps.get("the_andes")).toEqual(new Set(["bolivia", "colombia", "ecuador", "peru"]));
-    // A culture depends on nothing derivable today: what it waits on is either a
-    // unit that exists and it does not cast, or one that does not exist at all.
-    for (const r of rows.filter((x) => x.kind === "culture"))
-      expect(deps.get(r.id)?.size ?? 0, `${r.id} should derive no dependency yet`).toBe(0);
   });
 
   it("is exported so a caller can propagate over rows it built itself", () => {

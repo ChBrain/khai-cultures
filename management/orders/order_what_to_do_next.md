@@ -262,39 +262,55 @@ queue sent a person at a wall.
 
 **A unit's score is added, whole, to everything it depends on.** Not divided
 between them: each dependency is a thing that, done, moves the dependent, and a
-half share would say that doing it half-moves it. `bolivia` owes a hundred and
-twenty-four of its own and sits in five of the twenty-one groups - `hispanidad`,
-`latin_america`, `mercosur`, `the_americas`, `the_andes`. Five groups wait on it.
-Their debts are not five fifths of one debt; they are five debts, and all five
-hang on the same culture.
+half share would say that doing it half-moves it.
 
-**Measured.** Over the two hundred and forty group-to-member edges the house
-already records, `bolivia` goes from seventieth to first: 124 of its own plus 737
-owed by the groups above it. `greenland`, which was the head of the queue, blocks
-nothing and falls below every culture in that table. It is not that greenland
-stopped owing what it owes. It is that eleven cultures were holding up more.
+**An edge counts only when the dependent cannot proceed until the dependency is
+done.** That is narrower than "refers to", and the difference is the whole
+correctness of the score.
+
+## The edge that looked right and was not
+
+The first implementation derived group-to-member edges from `castIds`, because a
+group casts its members and the cast is there to be read. Over the two hundred
+and forty edges the house records, `bolivia` - sitting in five of the twenty-one
+groups - went from seventieth in the queue to first, carrying seven hundred and
+thirty-seven points from `hispanidad`, `latin_america`, `mercosur`,
+`the_americas` and `the_andes`. The arithmetic was correct and the result was
+satisfying, and the satisfaction is what stopped the checking.
+
+Then the five groups were asked what they owe. All of it is their own:
+
+```
+latin_america  30 no origin, 30 no present, 20 hollow, 48 8 chain, 10 unmigrated,
+               24 level 1, 11 hole 312y, 4 span 312y
+```
+
+Writing bolivia's origin gives `latin_america` no origin. Its chain findings are
+its own Triggers summarising where they should chain and its own plots going
+unchained; `broken`, the last candidate, reads `!files.includes(f)` and is a plot
+file missing from the group's own directory rather than a member that is not
+there. **Seven hundred and thirty-seven points were attributed to a culture that
+could not discharge one of them** - the exact fault this mechanism was built to
+remove, arriving by the other door.
+
+**A group composes its members. It does not block on them.** Composition and
+blocking look alike from the outside and the queue is only ever right about one
+of them.
+
+So nothing in the house records a blocking edge today, `dependencies` returns
+empty, and returning empty is the honest answer rather than the absence of one.
+The machinery stands, tested over injected graphs, and waits for the case it was
+built for: a unit that has found what it waits on and can write it down.
 
 **It is transitive, and it is cycle-safe.** A dependency of a dependency is still
 something the work waits on, so the sum walks the whole chain; a visited set per
-source means a cast that comes back on itself costs a skipped edge rather than a
-hang. Groups cannot cycle today, casting only cultures, and the guard is there for
-the declared edges below rather than for the ones derived now.
+source means an edge that comes back on itself costs a skipped step rather than a
+hang.
 
-**The totals are not the old totals.** A group passing its score to twenty members
-puts that score into the ledger twenty times, so the numbers inflate and no longer
-mean what a single unit's ledger meant. The report says so in its own header
-rather than leaving a reader to infer that eight hundred is six times worse than a
-hundred and twenty-four. The ORDER is what changed and the order is what to read.
-
-**What is derived and what must be declared.** A group's members are derived,
-because the play casts them and `castIds` reads that cast the same way the
-registry build does - both shapes, relative link and package specifier, because
-which one a cast wears is a fact about the migration and not about membership.
-What cannot be derived is a dependency on a unit that does not exist. Nothing in
-South Carolina's files says its origin waits on the Gullah Geechee; that was
-established by reading the history, in a conversation, and a survey that inferred
-it would be guessing. So the derived edges ship here and the declared ones are a
-Target: a unit that has found what it waits on must be able to write it down.
+**The totals will not be the old totals.** A unit passing its score to several
+dependencies puts that score into the ledger several times, so once edges exist
+the numbers inflate and stop meaning what a single unit's ledger meant. The
+report says so in its own header rather than leaving a reader to infer it.
 
 ## How it is held
 
@@ -311,8 +327,10 @@ twelve behind it.
       instead, with the rung order as the only policy and as data
 - [x] Name a culture rather than a task, because authoring wakes the whole recipe
 - [x] Add a unit's score, whole, to everything it depends on, so the queue ranks
-      what unblocks rather than what is blocked. Derived over the group-to-member
-      edges, transitive, cycle-safe
+      what unblocks rather than what is blocked. Transitive, cycle-safe
+- [x] Retract the group-to-member edge. It shipped, it moved `bolivia` from
+      seventieth to first, and every point it moved was a debt bolivia cannot
+      pay: a group composes its members and does not block on them
 - [ ] Let a unit declare what it waits on, so a dependency that is not yet a unit
       can carry the weight of the work it blocks. `us_south_carolina` waits on the
       Gullah Geechee and no file says so

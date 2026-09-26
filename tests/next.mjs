@@ -72,15 +72,7 @@
 import { readdirSync, readFileSync, existsSync } from "node:fs";
 import { join, relative } from "node:path";
 import { pathToFileURL } from "node:url";
-import {
-  WORKSPACE,
-  cultureIds,
-  cultureDir,
-  isMigrated,
-  sunken,
-  packageIds,
-} from "./culture_sources.mjs";
-import { castIds } from "@chbrain/khai-foyer";
+import { WORKSPACE, cultureIds, cultureDir, isMigrated, sunken } from "./culture_sources.mjs";
 import { plotYear, BRACKETS, findings as orderFindings } from "./plot_sequence.mjs";
 import { findings as flatFindings } from "./diacritic_conformance.mjs";
 import { hasOrigin, hasPresent } from "./plot_zero.mjs";
@@ -443,33 +435,36 @@ export function survey() {
 }
 
 /**
- * What each unit depends on: `id -> Set(id)`, derived and never declared.
+ * What each unit BLOCKS on: `id -> Set(id)`, and empty today.
  *
- * A group depends on the cultures it casts, because a group is defined by its
- * members and cannot be finished while one of them is not. `castIds` is the
- * kit's own reader and answers for both shapes - a relative link and a package
- * specifier - since which one a cast wears is a fact about how far the migration
- * has got and not about who belongs to the group.
+ * An edge belongs here only when the dependent cannot proceed until the
+ * dependency is done. That is a narrower thing than "refers to", and the
+ * difference is the whole correctness of the score.
  *
- * Nothing else is derivable today. A culture's dependency on a unit that does
- * not exist yet - `us_south_carolina` on the Gullah Geechee - cannot be read off
- * any file, and is the open Target in `order_what_to_do_next.md`.
+ * **A group casting a member is not one.** This function derived exactly that
+ * edge on the day it was written, from `castIds`, because the cast was there to
+ * be read and the arithmetic came out satisfying: `bolivia` sat in five groups
+ * and went from seventieth in the queue to first. Then the five groups were
+ * asked what they owe, and all of it was their own - `no origin`, `no present`,
+ * a Triggers chapter that summarises where it should chain, `unmigrated`,
+ * `level`. Writing bolivia's origin gives `latin_america` no origin. Seven
+ * hundred and thirty-seven points were attributed to a culture that could not
+ * discharge a single one of them, which is the fault this whole mechanism was
+ * built to remove, arriving by the other door.
+ *
+ * `broken` was the last candidate and is not one either: it reads
+ * `!files.includes(f)`, a plot file missing from the group's own directory, not
+ * a member that is not there.
+ *
+ * So a group composes and does not block, and nothing else in the house records
+ * a blocking edge at all. A culture waiting on a unit that does not exist -
+ * `us_south_carolina` on the Gullah Geechee - is the real case and cannot be
+ * read off any file: it is the open Target in `order_what_to_do_next.md`. This
+ * returns empty until a unit can say what it waits on, and returning empty is
+ * the honest answer rather than the absence of one.
  */
 export function dependencies(rows) {
-  const unitsDir = join(WORKSPACE, "packages", "khai-cultures", "cultures");
-  const pids = packageIds();
-  const out = new Map(rows.map((r) => [r.id, new Set()]));
-  const known = new Set(rows.map((r) => r.id));
-  for (const r of rows) {
-    if (r.kind !== "group") continue;
-    const dir = join(WORKSPACE, r.unit);
-    const anchor = readdirSync(dir).find((f) => f.startsWith("play_") && f.endsWith(".md"));
-    if (!anchor) continue;
-    for (const id of castIds(join(dir, anchor), unitsDir, pids)) {
-      if (id !== r.id && known.has(id)) out.get(r.id).add(id);
-    }
-  }
-  return out;
+  return new Map(rows.map((r) => [r.id, new Set()]));
 }
 
 /**
