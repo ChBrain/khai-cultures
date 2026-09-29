@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.321.0",
+  "version": "0.322.0",
   "cultures": [
     {
       "kind": "culture",
@@ -39881,6 +39881,162 @@
           "title": "Glacier Park Trail Conservation"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "us_navajo",
+      "title": "Navajo",
+      "description": "Diné: a people who stopped between four mountains, were walked away from them, and walked back.",
+      "source": {
+        "package": "@chbrain/khai-cultures-us-navajo",
+        "path": ""
+      },
+      "members": [
+        {
+          "file": "persona_asdzaa_tsosie.md",
+          "kind": "persona",
+          "title": "Asdzáá Tsosie",
+          "type": "archetype",
+          "taxonomy": "position_ke.md"
+        },
+        {
+          "file": "persona_delvina_yellowhair.md",
+          "kind": "persona",
+          "title": "Delvina Yellowhair",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_harrison_begay.md",
+          "kind": "persona",
+          "title": "Harrison Begay",
+          "type": "archetype",
+          "taxonomy": "position_hozho.md"
+        },
+        {
+          "file": "piece_naaltsoos_sani.md",
+          "kind": "piece",
+          "title": "The Old Paper",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "piece_the_water_barrel.md",
+          "kind": "piece",
+          "title": "The Water Barrel",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "pitch_navajo.md",
+          "kind": "pitch",
+          "title": "Navajo Key",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "place_dinetah.md",
+          "kind": "place",
+          "title": "The Land Between the Four Mountains",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "place_hweeldi.md",
+          "kind": "place",
+          "title": "Bosque Redondo",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "place_tseyi.md",
+          "kind": "place",
+          "title": "Canyon de Chelly",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "play_navajo.md",
+          "kind": "play",
+          "title": "Navajo"
+        },
+        {
+          "file": "plot_00_the_people_who_stopped_between_four_mountains.md",
+          "kind": "plot",
+          "title": "The people who stopped between four mountains",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_01_the_ewe.md",
+          "kind": "plot",
+          "title": "The ewe",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_02_the_orchards_at_tseyi.md",
+          "kind": "plot",
+          "title": "The orchards at Tséyi'",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_03_the_mountain_coming_into_view.md",
+          "kind": "plot",
+          "title": "The mountain coming into view",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_04_a_child_punished_for_a_word.md",
+          "kind": "plot",
+          "title": "A child punished for a word",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_05_the_sheep_in_the_arroyos.md",
+          "kind": "plot",
+          "title": "The sheep in the arroyos",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_06_the_language_no_enemy_could_read.md",
+          "kind": "plot",
+          "title": "The language no enemy could read",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_07_the_water_coming_down_the_puerco.md",
+          "kind": "plot",
+          "title": "The water coming down the Puerco",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "plot_99_a_tap_that_has_never_run.md",
+          "kind": "plot",
+          "title": "A tap that has never run",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "position_culture_dine.md",
+          "kind": "position",
+          "title": "Navajo Culture",
+          "taxonomy": "position_culture_american_way.md"
+        },
+        {
+          "file": "position_hozho.md",
+          "kind": "position",
+          "title": "Walking in Balance"
+        },
+        {
+          "file": "position_ke.md",
+          "kind": "position",
+          "title": "Clan Kinship"
+        },
+        {
+          "file": "process_hauling_water.md",
+          "kind": "process",
+          "title": "Hauling Water",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "process_running_sheep.md",
+          "kind": "process",
+          "title": "Running Sheep",
+          "taxonomy": "play_navajo.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-us-navajo"
     },
     {
       "kind": "culture",
