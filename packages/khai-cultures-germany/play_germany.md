@@ -38,6 +38,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [Elke](persona_elke.md)
 - [Jonas](persona_jonas.md)
 - [Karl May](persona_karl_may.md)
+- [Eugen Fischer](persona_eugen_fischer.md)
 
 **Places**
 
@@ -46,6 +47,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [das Ruhrgebiet](place_ruhrgebiet.md)
 - [die Autobahn](place_die_autobahn.md)
 - [das Karl-May-Museum](place_karl_may_museum.md)
+- [die Haifischinsel](place_haifischinsel.md)
 
 **Processes**
 
@@ -73,6 +75,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [das Brot](piece_brot.md)
 - [das Auto](piece_das_auto.md)
 - [Winnetou](piece_winnetou.md)
+- [der Vernichtungsbefehl](piece_der_vernichtungsbefehl.md)
 
 **Pitches**
 
@@ -109,23 +112,27 @@ Vier Jahre nach der Gründung stellt sich das neue Reich einen Ahnen aus dem Jah
 
 Ein Land fast ohne Kolonien und ohne eigene Grenze im Westen liest sich seine Fremde an. [Karl May](persona_karl_may.md), der nie dort war, erfindet [Winnetou](piece_winnetou.md) und mit ihm [die Blutsbrüderschaft](position_blutsbruderschaft.md): den Platz des Bruders neben dem Besiegten, auf dem man bei einer Vernichtung dabei sein kann, ohne an ihr beteiligt zu sein.
 
-**[Plot 6: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_06_zivilisationsbruch.md)**
+**[Plot 6: Die Rinderpest 1897](plot_06_die_rinderpest.md)**
+
+Eine Seuche nimmt den Herero das Vieh, Siedler kaufen das Land, und 1904 erlässt ein General [den Befehl](piece_der_vernichtungsbefehl.md), sie auszurotten. Die Überlebenden kommen in Lager, das tödlichste auf [der Haifischinsel](place_haifischinsel.md), und [Eugen Fischer](persona_eugen_fischer.md) vermisst in der Kolonie Menschen: die eine Linie aus dieser Zeit, die belegt nach 1933 führt.
+
+**[Plot 7: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_07_zivilisationsbruch.md)**
 
 Der Hang, der Obrigkeit zu folgen, wird eingelöst: das Land übergibt sich auf legalem Weg, benutzt seine eigene Verwaltung zur Entrechtung und ermordet sechs Millionen Juden und Millionen weitere Menschen. 1945 liegt es besetzt und in Trümmern, und der Bruch ist von Deutschen begangen.
 
-**[Plot 7: Grundgesetz und Wirtschaftswunder 1949](plot_07_grundgesetz.md)**
+**[Plot 8: Grundgesetz und Wirtschaftswunder 1949](plot_08_grundgesetz.md)**
 
 Nach dem Sturz in die Katastrophe gibt sich das Land ein neues Fundament. [Adenauer](persona_adenauer.md) führt es aus den Trümmern, das Grundgesetz stellt die Würde des Menschen voran, und aus Fleiß und Maß wächst der Wohlstand wieder.
 
-**[Plot 8: Wir riefen Arbeitskräfte 1955 bis 1973](plot_08_gastarbeiter.md)**
+**[Plot 9: Wir riefen Arbeitskräfte 1955 bis 1973](plot_09_gastarbeiter.md)**
 
 Der Wiederaufbau braucht mehr Hände, als das Land hat, und es wirbt sie an. [Mehmet](persona_mehmet.md) kommt für ein paar Jahre und bleibt ein Leben, und aus vorübergehender Arbeit wird eine Einwanderung, für die das Land dreissig Jahre lang kein Wort und kein Recht hat.
 
-**[Plot 9: Die autofreien Sonntage 1973](plot_09_autofreie_sonntage.md)**
+**[Plot 10: Die autofreien Sonntage 1973](plot_10_autofreie_sonntage.md)**
 
 Der Ölschock stellt das Land, das seinen Wohlstand aufs Rad gesetzt hat, für vier Sonntage auf die leere [Autobahn](place_die_autobahn.md). Aus dem Streit um das Tempo geht 1978 kein Gesetz hervor, sondern eine Empfehlung, und ausgerechnet [das Auto](piece_das_auto.md) wird die eine Sache, bei der das Land sich selbst keine bindende Regel gibt.
 
-**[Plot 10: Der Mauerfall 1989/90](plot_10_mauerfall.md)**
+**[Plot 11: Der Mauerfall 1989/90](plot_11_mauerfall.md)**
 
 Die Mauer fällt, und zwei getrennte Hälften wachsen wieder zusammen. [Kohl](persona_kohl.md) treibt die Einheit voran, während [Elke](persona_elke.md), im Osten geprägt, erlebt, wie eine ganze Lebensordnung über Nacht zerbricht und neu gefügt werden muss.
 
