@@ -1,6 +1,6 @@
 {
   "name": "@chbrain/khai-cultures",
-  "version": "0.319.0",
+  "version": "0.320.0",
   "description": "khai cultures: the Cultures content house. Cultures modelled with khai; sources are credited where they are in the public domain.",
   "license": "SEE LICENSE IN LICENSE and LICENSE-CODE",
   "repository": {
@@ -193,6 +193,7 @@
     "@chbrain/khai-cultures-turkey": "^0.1.0",
     "@chbrain/khai-cultures-united-kingdom": "^0.1.0",
     "@chbrain/khai-cultures-us-arizona": "^0.1.0",
+    "@chbrain/khai-cultures-us-gullah-geechee": "^0.1.0",
     "@chbrain/khai-cultures-us-ohio": "^0.1.0",
     "@chbrain/khai-cultures-us-pennsylvania": "^0.1.0",
     "@chbrain/khai-cultures-us-virginia": "^0.1.0",

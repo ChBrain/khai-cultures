@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.319.0",
+  "version": "0.320.0",
   "cultures": [
     {
       "kind": "culture",
@@ -37736,6 +37736,152 @@
           "title": "Georgia Peach Harvesting"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "us_gullah_geechee",
+      "title": "Gullah Geechee",
+      "description": "Gullah Geechee: a people mek pon de Sea Islan, wa hole e tongue an da lose e groun.",
+      "source": {
+        "package": "@chbrain/khai-cultures-us-gullah-geechee",
+        "path": ""
+      },
+      "members": [
+        {
+          "file": "persona_binah.md",
+          "kind": "persona",
+          "title": "Binah",
+          "type": "archetype",
+          "taxonomy": "position_marsh_keepin.md"
+        },
+        {
+          "file": "persona_cuffee.md",
+          "kind": "persona",
+          "title": "Cuffee",
+          "type": "archetype",
+          "taxonomy": "position_marsh_keepin.md"
+        },
+        {
+          "file": "persona_hagar.md",
+          "kind": "persona",
+          "title": "Hagar",
+          "type": "archetype",
+          "taxonomy": "position_marsh_keepin.md"
+        },
+        {
+          "file": "piece_fanner_basket.md",
+          "kind": "piece",
+          "title": "De Fanna Basket",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "piece_trunk_gate.md",
+          "kind": "piece",
+          "title": "De Trunk Gate",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "pitch_gullah_geechee.md",
+          "kind": "pitch",
+          "title": "Gullah Geechee Key",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "place_mount_pleasant.md",
+          "kind": "place",
+          "title": "Mount Pleasant",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "place_st_helena.md",
+          "kind": "place",
+          "title": "St. Helena Islan",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "play_gullah_geechee.md",
+          "kind": "play",
+          "title": "Gullah Geechee"
+        },
+        {
+          "file": "plot_00_de_rice_wa_bring_we.md",
+          "kind": "plot",
+          "title": "De rice wa bring we",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_01_de_skeeter_an_de_summa.md",
+          "kind": "plot",
+          "title": "De skeeter an de summa",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_02_de_praise_house.md",
+          "kind": "plot",
+          "title": "De praise house",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_03_de_fanna_basket.md",
+          "kind": "plot",
+          "title": "De basket wa outlib de rice",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_04_de_crop_nobody_come_back_fa.md",
+          "kind": "plot",
+          "title": "De crop nobody come back fa",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_05_de_song_nobody_could_tell.md",
+          "kind": "plot",
+          "title": "De song nobody could tell",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_06_de_lan_wid_no_paper.md",
+          "kind": "plot",
+          "title": "De lan wid no paper",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_07_de_bridge.md",
+          "kind": "plot",
+          "title": "De bridge",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "plot_99_de_sweetgrass.md",
+          "kind": "plot",
+          "title": "De sweetgrass",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "position_culture_gullah_geechee.md",
+          "kind": "position",
+          "title": "Gullah Geechee Culture",
+          "taxonomy": "position_culture_american_way.md"
+        },
+        {
+          "file": "position_marsh_keepin.md",
+          "kind": "position",
+          "title": "Marsh Keepin"
+        },
+        {
+          "file": "process_coil_de_basket.md",
+          "kind": "process",
+          "title": "Coil De Basket",
+          "taxonomy": "play_gullah_geechee.md"
+        },
+        {
+          "file": "process_ring_shout.md",
+          "kind": "process",
+          "title": "De Ring Shout",
+          "taxonomy": "play_gullah_geechee.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-us-gullah-geechee"
     },
     {
       "kind": "culture",
