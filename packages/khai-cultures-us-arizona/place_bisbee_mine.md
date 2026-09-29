@@ -25,7 +25,7 @@ The historic copper mining district in Cochise County, featuring steep mountains
 
 ## Holds
 
-- the mineral boom in the plot [The Central Arizona Project 1968](plot_03_central_arizona_project.md) : the copper capital.
+- the mineral boom in the plot [The Central Arizona Project 1968](plot_02_central_arizona_project.md) : the copper capital.
 
 ## Offers
 
