@@ -37,6 +37,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [Mehmet](persona_mehmet.md)
 - [Elke](persona_elke.md)
 - [Jonas](persona_jonas.md)
+- [Karl May](persona_karl_may.md)
 
 **Places**
 
@@ -50,12 +51,14 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [Pünktlichkeit](process_puenktlichkeit.md)
 - [Mülltrennung](process_muelltrennung.md)
 - [Erinnern](process_erinnern.md)
+- [die Indianistik](process_indianistik.md)
 
 **Positions**
 
 - [Sie und Du](position_sie_du.md)
 - [der Meister](position_meister.md)
 - [der Beamte](position_beamte.md)
+- [die Blutsbrüderschaft](position_blutsbruderschaft.md)
 - [die deutsche Kultur](position_culture_deutsche_kultur.md)
 - [das deutschländische Deutsch](@chbrain/khai-cultures-tongues/de/position_language_de_de.md)
 
@@ -68,6 +71,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [der Duden](piece_der_duden.md)
 - [das Brot](piece_brot.md)
 - [das Auto](piece_das_auto.md)
+- [Winnetou](piece_winnetou.md)
 
 **Pitches**
 
@@ -100,23 +104,27 @@ Aus vielen Fürstentümern wird ein Reich. [Bismarck](persona_bismarck.md) schmi
 
 Vier Jahre nach der Gründung stellt sich das neue Reich einen Ahnen aus dem Jahr 9 hin, den es umbenennen musste, um ihn zu erkennen. [Das Hermannsdenkmal](piece_hermannsdenkmal.md) ist die Tat: ein Gedächtnis, das gebaut wird, weil es fehlt.
 
-**[Plot 5: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_05_zivilisationsbruch.md)**
+**[Plot 5: Der erfundene Bruder 1893](plot_05_der_erfundene_bruder.md)**
+
+Ein Land fast ohne Kolonien und ohne eigene Grenze im Westen liest sich seine Fremde an. [Karl May](persona_karl_may.md), der nie dort war, erfindet [Winnetou](piece_winnetou.md) und mit ihm [die Blutsbrüderschaft](position_blutsbruderschaft.md): den Platz des Bruders neben dem Besiegten, auf dem man bei einer Vernichtung dabei sein kann, ohne an ihr beteiligt zu sein.
+
+**[Plot 6: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_06_zivilisationsbruch.md)**
 
 Der Hang, der Obrigkeit zu folgen, wird eingelöst: das Land übergibt sich auf legalem Weg, benutzt seine eigene Verwaltung zur Entrechtung und ermordet sechs Millionen Juden und Millionen weitere Menschen. 1945 liegt es besetzt und in Trümmern, und der Bruch ist von Deutschen begangen.
 
-**[Plot 6: Grundgesetz und Wirtschaftswunder 1949](plot_06_grundgesetz.md)**
+**[Plot 7: Grundgesetz und Wirtschaftswunder 1949](plot_07_grundgesetz.md)**
 
 Nach dem Sturz in die Katastrophe gibt sich das Land ein neues Fundament. [Adenauer](persona_adenauer.md) führt es aus den Trümmern, das Grundgesetz stellt die Würde des Menschen voran, und aus Fleiß und Maß wächst der Wohlstand wieder.
 
-**[Plot 7: Wir riefen Arbeitskräfte 1955 bis 1973](plot_07_gastarbeiter.md)**
+**[Plot 8: Wir riefen Arbeitskräfte 1955 bis 1973](plot_08_gastarbeiter.md)**
 
 Der Wiederaufbau braucht mehr Hände, als das Land hat, und es wirbt sie an. [Mehmet](persona_mehmet.md) kommt für ein paar Jahre und bleibt ein Leben, und aus vorübergehender Arbeit wird eine Einwanderung, für die das Land dreissig Jahre lang kein Wort und kein Recht hat.
 
-**[Plot 8: Die autofreien Sonntage 1973](plot_08_autofreie_sonntage.md)**
+**[Plot 9: Die autofreien Sonntage 1973](plot_09_autofreie_sonntage.md)**
 
 Der Ölschock stellt das Land, das seinen Wohlstand aufs Rad gesetzt hat, für vier Sonntage auf die leere [Autobahn](place_die_autobahn.md). Aus dem Streit um das Tempo geht 1978 kein Gesetz hervor, sondern eine Empfehlung, und ausgerechnet [das Auto](piece_das_auto.md) wird die eine Sache, bei der das Land sich selbst keine bindende Regel gibt.
 
-**[Plot 9: Der Mauerfall 1989/90](plot_09_mauerfall.md)**
+**[Plot 10: Der Mauerfall 1989/90](plot_10_mauerfall.md)**
 
 Die Mauer fällt, und zwei getrennte Hälften wachsen wieder zusammen. [Kohl](persona_kohl.md) treibt die Einheit voran, während [Elke](persona_elke.md), im Osten geprägt, erlebt, wie eine ganze Lebensordnung über Nacht zerbricht und neu gefügt werden muss.
 

@@ -18037,6 +18037,13 @@
           "taxonomy": "position_sie_du.md"
         },
         {
+          "file": "persona_karl_may.md",
+          "kind": "persona",
+          "title": "Karl May",
+          "type": "real",
+          "taxonomy": "position_blutsbruderschaft.md"
+        },
+        {
           "file": "persona_kohl.md",
           "kind": "persona",
           "title": "Kohl",
@@ -18070,7 +18077,7 @@
         {
           "file": "piece_der_duden.md",
           "kind": "piece",
-          "title": "Piece: der Duden",
+          "title": "Der Duden",
           "taxonomy": "play_germany.md"
         },
         {
@@ -18092,6 +18099,12 @@
           "file": "piece_strassburger_eide.md",
           "kind": "piece",
           "title": "The Strasbourg Oaths"
+        },
+        {
+          "file": "piece_winnetou.md",
+          "kind": "piece",
+          "title": "Winnetou",
+          "taxonomy": "play_germany.md"
         },
         {
           "file": "pitch_germany.md",
@@ -18167,31 +18180,37 @@
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_05_zivilisationsbruch.md",
+          "file": "plot_05_der_erfundene_bruder.md",
+          "kind": "plot",
+          "title": "The Invented Brother 1893",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_06_zivilisationsbruch.md",
           "kind": "plot",
           "title": "The Seizure of Power and the Break with Civilisation 1933 to 1945",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_06_grundgesetz.md",
+          "file": "plot_07_grundgesetz.md",
           "kind": "plot",
           "title": "Basic Law and the Economic Miracle 1949",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_07_gastarbeiter.md",
+          "file": "plot_08_gastarbeiter.md",
           "kind": "plot",
           "title": "We Called for Workers 1955 to 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_08_autofreie_sonntage.md",
+          "file": "plot_09_autofreie_sonntage.md",
           "kind": "plot",
           "title": "The Car-Free Sundays 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_09_mauerfall.md",
+          "file": "plot_10_mauerfall.md",
           "kind": "plot",
           "title": "The Fall of the Wall 1989/90",
           "taxonomy": "play_germany.md"
@@ -18206,6 +18225,11 @@
           "file": "position_beamte.md",
           "kind": "position",
           "title": "The Civil Servant"
+        },
+        {
+          "file": "position_blutsbruderschaft.md",
+          "kind": "position",
+          "title": "Blood Brotherhood"
         },
         {
           "file": "position_culture_deutsche_kultur.md",
@@ -18226,6 +18250,12 @@
           "file": "process_erinnern.md",
           "kind": "process",
           "title": "Remembrance"
+        },
+        {
+          "file": "process_indianistik.md",
+          "kind": "process",
+          "title": "Indian Hobbyism",
+          "taxonomy": "play_germany.md"
         },
         {
           "file": "process_muelltrennung.md",

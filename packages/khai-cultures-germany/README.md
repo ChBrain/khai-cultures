@@ -13,8 +13,8 @@ Estate; a culture with no Estate is not yet a production.
 
 ## The production
 
-- **Anchor:** [play_germany.md](play_germany.md), the culture itself.
-- **Pitch:** [pitch_germany.md](pitch_germany.md), the Hofstede layer, written
+- **Anchor:** [Deutschland](play_germany.md), the culture itself.
+- **Pitch:** [die deutsche Tonart](pitch_germany.md), the Hofstede layer, written
   from Germany's profile and naming no dimension.
 - **Plots (history):** the Reformation 1517, the founding of the Reich 1871, the
   seizure of power and the break with civilisation 1933 to 1945, Basic Law and
@@ -32,7 +32,7 @@ Estate; a culture with no Estate is not yet a production.
 ## Provenance
 
 The Hofstede scores behind the pitch and the public-domain historical sources
-are recorded in [REFERENCES.md](REFERENCES.md). The data never enters the prose;
+are recorded in [the references](REFERENCES.md). The data never enters the prose;
 the pitch is its invisible hand. Sources in the public domain are credited, never
 claimed; the staging and the architecture are original work.
 

@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Fünfundzwanzig Jahre nach [der Einheit](plot_09_mauerfall.md) steht das Land wohlhabend, exportstark und mit sich selbst weitgehend im Reinen da. Dann kommt ein Jahr, in dem mehrere Dinge zugleich fällig werden, die es lange vor sich hergeschoben hat.
+Fünfundzwanzig Jahre nach [der Einheit](plot_10_mauerfall.md) steht das Land wohlhabend, exportstark und mit sich selbst weitgehend im Reinen da. Dann kommt ein Jahr, in dem mehrere Dinge zugleich fällig werden, die es lange vor sich hergeschoben hat.
 
 ## Action
 
