@@ -21,7 +21,7 @@ Parent group: piece of [Deutschland](play_germany.md)
 
 ## Place
 
-In jedem zweiten Bücherregal des Landes, in einer Freilichtarena in Bad Segeberg, in einer Villa in Radebeul, die nach seinem Blutsbruder heisst.
+In jedem zweiten Bücherregal des Landes, in einer Freilichtarena in Bad Segeberg, und in [dem Museum in Radebeul](place_karl_may_museum.md), das in einer Villa sitzt, die nach seinem Blutsbruder heisst.
 
 ## Load Bearing
 
@@ -39,4 +39,4 @@ Er hat jedes Regime dieses Landes überlebt, und jedes hat ihn für seinen eigen
 
 2022 zog ein Verlag ein Begleitbuch zurück, die ARD nahm die alten Filme aus dem Programm, und das Land stritt einen Sommer lang über Cancel Culture. Im selben Jahr sahen in Bad Segeberg mehr als vierhundertdreissigtausend Menschen das Stück, so viele wie in siebzig Jahren nie.
 
-Im Museum in Radebeul lagen siebzehn Skalpe, echte menschliche Überreste. 2014 forderte Cecil Pavlat vom Sault-Ste.-Marie-Stamm der Chippewa sie zurück. Das Haus lehnte zunächst ab, nahm sie dann aus der Vitrine, liess die Herkunft untersuchen und gab 2021 einen zurück.
+Was er an Wirklichem nach sich gezogen hat, liegt in [dem Museum in Radebeul](place_karl_may_museum.md), und was dieses Haus davon nicht herausgibt, steht dort.

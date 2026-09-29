@@ -45,6 +45,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st√
 - [Weimar](place_weimar.md)
 - [das Ruhrgebiet](place_ruhrgebiet.md)
 - [die Autobahn](place_die_autobahn.md)
+- [das Karl-May-Museum](place_karl_may_museum.md)
 
 **Processes**
 

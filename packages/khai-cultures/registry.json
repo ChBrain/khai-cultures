@@ -18123,6 +18123,12 @@
           "title": "The Autobahn"
         },
         {
+          "file": "place_karl_may_museum.md",
+          "kind": "place",
+          "title": "The Karl May Museum",
+          "taxonomy": "play_germany.md"
+        },
+        {
           "file": "place_ruhrgebiet.md",
           "kind": "place",
           "title": "The Ruhr Region"
