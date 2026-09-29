@@ -13,8 +13,15 @@
 // right chapters, right order, right frontmatter. This stamps them.
 //
 //   node tests/new_culture.mjs <id> --iso <CODE> [--parent <culture>]
+//   node tests/new_culture.mjs <id> --mapless [--parent <culture>]
 //   node tests/new_culture.mjs <id> --add plot:die_trennung_1833
 //   node tests/new_culture.mjs <id> --add persona:fritz --add place:liestal
+//
+// A culture without a map takes `--mapless` and gets no `geo.json`: see
+// management/orders/order_a_culture_without_a_map.md. It is a flag and not
+// simply an absent `--iso` because the old refusal was right about the thing
+// that matters - the tool cannot guess - and "I forgot the code" and "this
+// people holds no ground" must never be the same keystroke.
 //
 // It decides no content. It never picks how many personas a place has, which
 // plots it stages or what any of them say - that is the staging, and a tool
@@ -32,6 +39,7 @@ import {
 } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { join } from "node:path";
+import { parentOf } from "./culture_conformance.mjs";
 
 const argv = process.argv.slice(2);
 const id = argv.find((a) => !a.startsWith("--"));
@@ -42,7 +50,8 @@ const flag = (n) => {
 const adds = argv.reduce((a, v, i) => (argv[i - 1] === "--add" ? [...a, v] : a), []);
 if (!id || !/^[a-z0-9_]+$/.test(id)) {
   console.error(
-    "usage: node tests/new_culture.mjs <id> --iso <CODE> [--parent <culture>] [--add <type>:<name>]",
+    "usage: node tests/new_culture.mjs <id> (--iso <CODE> | --mapless) " +
+      "[--parent <culture>] [--add <type>:<name>]",
   );
   process.exit(2);
 }
@@ -94,8 +103,22 @@ function stamp(type, name, title) {
 
 if (!existsSync(dir)) {
   const iso = flag("iso");
-  if (!iso) {
-    console.error("a new culture needs --iso (e.g. CH-AG); geo.json is not guessable.");
+  const mapless = argv.includes("--mapless");
+  // Exactly one. The original refusal said geo.json is not guessable and it was
+  // right; what it got wrong was treating "no code" as the only unguessable
+  // thing. A culture with no ground is a deliberate shape, so it is declared,
+  // and a forgotten flag still stops the tool rather than quietly producing a
+  // different kind of culture.
+  if (iso && mapless) {
+    console.error("--iso and --mapless contradict each other: a culture is mapped or it is not.");
+    process.exit(2);
+  }
+  if (!iso && !mapless) {
+    console.error(
+      "a new culture needs --iso (e.g. CH-AG); geo.json is not guessable. " +
+        "For a culture that holds no ground, say --mapless " +
+        "(management/orders/order_a_culture_without_a_map.md).",
+    );
     process.exit(2);
   }
   // Every dependency range the scaffold writes is read from the workspace as it
@@ -124,7 +147,25 @@ if (!existsSync(dir)) {
     );
   };
 
-  const parent = flag("parent");
+  // A mapless culture's host is its id prefix, exactly as culture_conformance
+  // reads it, because with no sidecar nothing else in the unit can name one.
+  // Derived rather than demanded as a second flag, and printed rather than
+  // derived silently: the wall BLOCKS on the host link, so a scaffold that left
+  // the host out would hand the author a package that cannot pass the wall
+  // shipped alongside it.
+  let parent = flag("parent");
+  if (mapless && !parent) {
+    parent = parentOf((/^([a-z]{2})_/.exec(id)?.[1] ?? "").toUpperCase());
+    if (!parent) {
+      console.error(
+        `--mapless needs a host: "${id}" must begin with the lowercased ISO country ` +
+          "code of the polity that hosts it, resolving to a culture this house holds, " +
+          "or name one with --parent.",
+      );
+      process.exit(2);
+    }
+    console.log(`  host derived from the id prefix: ${parent}\n`);
+  }
   mkdirSync(dir, { recursive: true });
   console.log(`${pkgName}\n`);
 
@@ -142,7 +183,16 @@ if (!existsSync(dir)) {
         license: "SEE LICENSE IN LICENSE and LICENSE-CODE",
         repository: { type: "git", url: "git+https://github.com/ChBrain/khai-cultures.git" },
         type: "module",
-        files: ["*.md", "geo.json", "coverage-waivers.json", "LICENSE", "LICENSE-CODE"],
+        files: [
+          "*.md",
+          // Not listed when there is none. `files` naming a file the package
+          // does not carry is a small lie, and this is the manifest a reader
+          // checks to find out whether a culture is mapped.
+          ...(mapless ? [] : ["geo.json"]),
+          "coverage-waivers.json",
+          "LICENSE",
+          "LICENSE-CODE",
+        ],
         khai: { class: "house", production: id, anchor: `play_${stem}.md` },
         publishConfig: { registry: "https://npm.pkg.github.com", access: "public" },
         dependencies: {
@@ -161,12 +211,14 @@ if (!existsSync(dir)) {
       2,
     ) + "\n",
   );
-  writeFileSync(join(dir, "geo.json"), JSON.stringify({ iso }) + "\n");
+  if (!mapless) writeFileSync(join(dir, "geo.json"), JSON.stringify({ iso }) + "\n");
   for (const l of ["LICENSE", "LICENSE-CODE"]) {
     const src = join(root, "packages/khai-cultures", l);
     if (existsSync(src)) copyFileSync(src, join(dir, l));
   }
-  console.log(`  manifest package.json, geo.json (${iso}), licence pair`);
+  console.log(
+    `  manifest package.json, ${mapless ? "no geo.json (mapless)" : `geo.json (${iso})`}, licence pair`,
+  );
 
   stamp("play", stem, Title);
   // The pitch may not carry the play's declared name: two kinds sharing one
@@ -213,7 +265,11 @@ hold it is the language engine's. This covers only which culture they belong to.
 
 ## Knowledge
 
-${parent ? `- The culture-position nests on \`@chbrain/khai-cultures-${parent.replace(/_/g, "-")}/position_culture_*.md\`.` : "- The culture-position stands on its own; this is not a sub-national culture."}
+${
+  parent
+    ? `- The culture-position nests on \`@chbrain/khai-cultures-${parent.replace(/_/g, "-")}/position_culture_*.md\`${mapless ? ", which hosts it" : ""}.`
+    : "- The culture-position stands on its own; this is not a sub-national culture."
+}
 
 ## System
 
