@@ -1,7 +1,15 @@
 import { describe, it, expect } from "vitest";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { readFileSync, readdirSync, existsSync, mkdtempSync, writeFileSync, rmSync } from "node:fs";
+import {
+  readFileSync,
+  readdirSync,
+  existsSync,
+  mkdirSync,
+  mkdtempSync,
+  writeFileSync,
+  rmSync,
+} from "node:fs";
 import { tmpdir } from "node:os";
 import { execFileSync } from "node:child_process";
 import {
@@ -27,7 +35,7 @@ import {
   touchedCultures,
   report as coverageReport,
 } from "./company_coverage.mjs";
-import { conformance } from "./culture_conformance.mjs";
+import { conformance, parentOf } from "./culture_conformance.mjs";
 import { cultureIds as auditCultureIds, dirFor, readCulture } from "./plot_line_audit.mjs";
 import { cueDigest, statusOf, readings, repoUrl } from "./plot_line_readings.mjs";
 import { packageFiles as tonguePackageFiles, standalone, TONGUES } from "./tongues_standalone.mjs";
@@ -2092,5 +2100,193 @@ describe("Cultures house: a title names the thing", () => {
     };
     for (const r of roots) if (existsSync(r)) walk(r);
     expect(offenders).toEqual([]);
+  });
+});
+
+// A culture without a map is a shape this house has defined and not yet built:
+// management/orders/order_a_culture_without_a_map.md. Measured when these were
+// written, 319 cultures, every one of them carrying a geo.json, so every
+// assertion below runs against a fixture house and none of it against the real
+// one. That is the point. The wall used to read `geo.json` for an ISO code and
+// return an empty verdict when there was none, so a mapless culture was skipped
+// whole and one nesting in nothing would have passed - blindness that no
+// culture in the house could ever have exercised.
+//
+// Each of these was run against the wall as it stood before the change, and
+// each failed there. A test for a branch nothing reaches is worth exactly as
+// much as the fault it has been shown to catch.
+describe("Cultures house: the wall sees a culture with no map", () => {
+  // The smallest tree culture_sources will read as a house: the umbrella's
+  // manifest declaring its collection, then a directory per culture with a
+  // play. `geo` and `links` are what these tests vary.
+  const fixture = (cultures) => {
+    const root = mkdtempSync(join(tmpdir(), "khai-mapless-"));
+    const house = join(root, "packages", "khai-cultures");
+    mkdirSync(house, { recursive: true });
+    // resolveHouse enumerates packages off the ROOT manifest's `workspaces`,
+    // not by walking `packages/`, so a tree without one is a workspace of
+    // nothing and every assertion below dies on "no cultures found".
+    writeFileSync(
+      join(root, "package.json"),
+      JSON.stringify({ name: "scratch-workspace", private: true, workspaces: ["packages/*"] }),
+    );
+    // One object, written into the manifest and then used to place the files,
+    // so the fixture cannot disagree with itself about where its cultures live
+    // - and so this file states the layout no more than the umbrella it is
+    // pretending to be. `culture_sources.mjs` is the only module allowed to
+    // know the shape; a fixture reads it back from what it declared.
+    const collection = { dir: "cultures", key: "cultures", anchor: "play_" };
+    writeFileSync(
+      join(house, "package.json"),
+      JSON.stringify({ name: "@chbrain/khai-cultures", khai: { collection } }),
+    );
+    for (const [id, { geo, links = [] }] of Object.entries(cultures)) {
+      const dir = join(house, collection.dir, id);
+      mkdirSync(dir, { recursive: true });
+      writeFileSync(join(dir, `play_${id}.md`), "---\nkhai: play\n---\n");
+      if (geo !== undefined) writeFileSync(join(dir, "geo.json"), geo);
+      writeFileSync(
+        join(dir, `position_culture_${id}.md`),
+        `---\nkhai: position\n---\n` +
+          links.map((l) => `It belongs to [that](../${l}/position_culture_${l}.md).`).join("\n"),
+      );
+    }
+    return root;
+  };
+
+  const withFixture = (cultures, fn) => {
+    const root = fixture(cultures);
+    try {
+      fn(root);
+    } finally {
+      rmSync(root, { recursive: true, force: true });
+    }
+  };
+
+  it("charges a mapless culture that nests in nothing", () => {
+    withFixture(
+      {
+        usa: { geo: '{"iso":"US"}' },
+        us_gullah_geechee: {},
+      },
+      (root) => {
+        const { blocking } = conformance("us_gullah_geechee", root);
+        expect(blocking.length, "a mapless culture linking no host must not pass").toBe(1);
+        expect(blocking[0]).toMatch(/hosted by "usa" and does not say so/);
+      },
+    );
+  });
+
+  it("clears a mapless culture that links its host", () => {
+    withFixture(
+      {
+        usa: { geo: '{"iso":"US"}' },
+        us_gullah_geechee: { links: ["usa"] },
+      },
+      (root) => {
+        expect(conformance("us_gullah_geechee", root).blocking).toEqual([]);
+      },
+    );
+  });
+
+  it("refuses a mapless id whose prefix names no host", () => {
+    withFixture(
+      {
+        usa: { geo: '{"iso":"US"}' },
+        zz_nowhere: { links: ["usa"] },
+      },
+      (root) => {
+        const { blocking } = conformance("zz_nowhere", root);
+        // Linking usa is not enough: with no sidecar the id is the only thing
+        // that can name a host, and "zz" names nothing this house holds.
+        expect(blocking.length).toBe(1);
+        expect(blocking[0]).toMatch(/must begin with the lowercased ISO country code/);
+      },
+    );
+  });
+
+  it("holds a two-parent id to two parents, and a one-parent id to one", () => {
+    withFixture(
+      {
+        germany: { geo: '{"iso":"DE"}' },
+        denmark: { geo: '{"iso":"DK"}' },
+        de_danish_minority: { links: ["germany"] },
+      },
+      (root) => {
+        const { blocking } = conformance("de_danish_minority", root);
+        expect(blocking.length, "_minority claims a kin, so one link is not enough").toBe(1);
+        expect(blocking[0]).toMatch(/links fewer than two parents/);
+      },
+    );
+    withFixture(
+      {
+        germany: { geo: '{"iso":"DE"}' },
+        denmark: { geo: '{"iso":"DK"}' },
+        de_danish_minority: { links: ["germany", "denmark"] },
+      },
+      (root) => {
+        expect(conformance("de_danish_minority", root).blocking).toEqual([]);
+      },
+    );
+    // The same file without the suffix owes only the host, which is the whole
+    // of the one-parent case: formed or indigenous in place, no kin to link.
+    withFixture(
+      {
+        usa: { geo: '{"iso":"US"}' },
+        us_catawba: { links: ["usa"] },
+      },
+      (root) => {
+        expect(conformance("us_catawba", root).blocking).toEqual([]);
+      },
+    );
+  });
+
+  it("charges a geo.json that declares no iso instead of skipping it", () => {
+    // Not a mapless culture and not a mapped one: a sidecar that says nothing
+    // is the one input the router cannot read. Both shapes, because `iso()`
+    // answers "" for an unreadable file exactly as it does for an empty one.
+    for (const geo of ['{"iso":""}', "{ not json"]) {
+      withFixture({ usa: { geo: '{"iso":"US"}' }, broken: { geo } }, (root) => {
+        const { blocking } = conformance("broken", root);
+        expect(blocking.length, `geo.json ${geo} must be charged`).toBe(1);
+        expect(blocking[0]).toMatch(/declares no usable "iso"/);
+      });
+    }
+  });
+
+  it("leaves the country-level and sub-national verdicts as they were", () => {
+    withFixture(
+      {
+        usa: { geo: '{"iso":"US"}' },
+        us_south_carolina: { geo: '{"iso":"US-SC"}' },
+        wrongly_named: { geo: '{"iso":"US-NC"}', links: ["usa"] },
+      },
+      (root) => {
+        // A country-level culture nests in nothing and is asked nothing.
+        expect(conformance("usa", root).blocking).toEqual([]);
+        // A sub-national culture still owes its parent link...
+        expect(conformance("us_south_carolina", root).blocking).toEqual([
+          expect.stringMatching(/nests in "usa" and does not say so/),
+        ]);
+        // ...and still owes its prefix, linked parent or not.
+        expect(conformance("wrongly_named", root).blocking).toEqual([
+          expect.stringMatching(/must carry its parent's code/),
+        ]);
+      },
+    );
+  });
+
+  it("does not answer one house with another house's ISO owners", () => {
+    // The index behind parentOf was one map for the process, built from
+    // whichever tree asked first. Every test above would have passed anyway on
+    // a single cache - they would simply have been answered by the real house -
+    // and this is the one that fails without the fix, which is why it is here.
+    withFixture({ first: { geo: '{"iso":"US"}' } }, (a) => {
+      withFixture({ second: { geo: '{"iso":"US"}' } }, (b) => {
+        expect(parentOf("US", a)).toBe("first");
+        expect(parentOf("US", b)).toBe("second");
+        expect(parentOf("US")).toBe("usa");
+      });
+    });
   });
 });
