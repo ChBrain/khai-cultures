@@ -193,22 +193,39 @@ go, not so that the count can grow.
 
 ## Targets
 
-- [ ] `subnational-conformance` sees a mapless culture at all. This target was
-      written the wrong way round and is corrected here: the wall does not
-      over-require, it under-checks. `conformance(id)` reads `geo.json` for an
-      ISO code, and where there is none it returns an empty verdict and stops —
-      so a culture with no map is skipped entirely, and one nesting in nothing
-      would pass. Measured on this tree: 206 cultures under the umbrella and 113
-      migrated productions, 319 with a `geo.json` and none without, so the
-      blindness has never once been exercised. The first mapless culture is the
-      thing that exercises it.
-- [ ] The wall learns both nestings: two parents where there is a kin, one where
-      there is not, and neither satisfied by silence.
-- [ ] The registry and the website agree that a culture with no `iso` is listed
-      and not painted.
+- [x] `subnational-conformance` sees a mapless culture at all. This target was
+      written the wrong way round and was corrected before it was done: the wall
+      did not over-require, it under-checked. `conformance(id)` read `geo.json`
+      for an ISO code and returned an empty verdict where there was none, so a
+      culture with no map was skipped entirely and one nesting in nothing would
+      have passed. Measured: 319 cultures, 200 country-level, 119 sub-national,
+      none without a sidecar — the blindness was never once exercised.
+      The sidecar now routes instead of gating.
+- [x] The wall learns both nestings: two parents where there is a kin, one where
+      there is not, and neither satisfied by silence. A mapless culture takes its
+      host from its id prefix, because with no sidecar nothing else in the unit
+      can name one, and must link that host's culture-position. A `_minority` id
+      must link a second parent; which culture the kin is cannot be checked
+      (`danish` is not an id and no rule makes it one), that a kin is linked can.
+- [x] A `geo.json` that declares no `iso` is charged rather than skipped. Not in
+      the original list, and not scope taken on: the mapless branch keys on the
+      sidecar being **absent**, so a sidecar that is present and says nothing had
+      to be told apart from one that is not there, or a broken file would have
+      been read as a culture with no ground. Also measured at zero.
+- [x] The registry lists a culture with no `iso` and does not paint it — already
+      true, and verified rather than assumed. `@chbrain/khai-tests`
+      `src/registry.mjs` reads the sidecar leniently and writes the key only when
+      it finds one (`const iso = readGeoIso(itemSubdir); if (iso) entry.iso = iso;`),
+      its own comment calling an absent file or absent `iso` "non-mappable"; and
+      `src/validate.mjs` holds `iso` optional, checking only that a present one is
+      a non-empty string. Nothing in this house had to change for it.
+- [ ] The website agrees: listed under its host, and nothing filled. Split from
+      the registry above because that half was already done and this half is not
+      in this repository, so it cannot be closed from here.
 - [ ] `new_culture.mjs` stops demanding `--iso`, which it currently calls
       not guessable, for a culture that is not a place.
 - [ ] The wall and the registry are done before the first mapless culture ships,
       not after. This target counted "the first two" until a target was inserted
       above it and the count quietly meant something else; it names them now.
-      `new_culture.mjs` is convenience and can follow.
+      Both are done. `new_culture.mjs` is convenience and can follow, and the
+      website is a separate repository's to close.

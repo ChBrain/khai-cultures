@@ -117,9 +117,14 @@ export function allWaivers() {
  * The emptiness refusal that used to live here moved to the resolver with the
  * question it answers: one list, one guard, and a `root` argument would now be a
  * lie, because half the answer is outside any one package.
+ *
+ * A `workspace` is not a root and does forward: a root names one package and
+ * half the answer lives outside it, while a workspace names the whole tree,
+ * which is exactly what the resolver already takes. It is what lets a test
+ * build a fixture house and ask the real walls about it.
  */
-export function cultureIds() {
-  return sourceCultureIds();
+export function cultureIds(workspace) {
+  return sourceCultureIds(workspace);
 }
 
 /**
