@@ -77,7 +77,7 @@ being echoed; a title is otherwise read in the language it was written in.
 
 ## Two bars, because the types are in different places
 
-`play`, `order` and `instructions` are at zero, so **`house.test.mjs` holds those
+`play`, `order` and `instructions` are at zero, so **`house_prose.test.mjs` holds those
 three outright**, across packages and management both. The settled types cannot
 drift back.
 

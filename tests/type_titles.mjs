@@ -26,7 +26,7 @@
 // is English, and that is what is being echoed.
 //
 // TWO PIECES, BECAUSE THEY HAVE DIFFERENT BARS. `play`, `order` and `instructions`
-// are at zero across 485 nodes, so house.test.mjs holds those three outright and
+// are at zero across 485 nodes, so house_prose.test.mjs holds those three outright and
 // they can never drift. The other nine are a ratchet over written units, because
 // 342 findings in 28 packages cannot land in one lane and a wall that turns them
 // all red is a wall that gets bypassed.

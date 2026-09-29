@@ -303,7 +303,7 @@ jobs:
       # The front matter already says what a node is. This asks that the title
       # beside it does not open by saying it again. A ratchet over written units:
       # 342 findings sit in 28 packages, and the three types already at zero are
-      # held outright in house.test.mjs instead.
+      # held outright in house_prose.test.mjs instead.
       - name: type-titles
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}

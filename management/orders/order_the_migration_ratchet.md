@@ -194,7 +194,7 @@ the exemption defeated at the first culture that has any debt.
 faults.** A migrated culture is in the registry with no directory under
 `cultures/`, so `validateCollectionRegistry` reports the missing directory and
 then reports the file as out of date with a build that only counts directories.
-They are dropped in `tests/house.test.mjs` because they are REPLACED:
+They are dropped in `tests/house_canon.test.mjs` because they are REPLACED:
 `tests/registry_hybrid.mjs` now recomputes the whole registry, both halves built
 by the kit, and compares. Dropping them without that would have left the house
 with no drift check at all, which is the shape of failure this repository keeps
