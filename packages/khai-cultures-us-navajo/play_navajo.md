@@ -34,7 +34,7 @@ They came from the north, stopped between four mountains and took up everything 
 ## Triggers
 
 - [The people who stopped between four mountains](plot_00_the_people_who_stopped_between_four_mountains.md) makes the people: a northern tongue that halted here.
-- [The ewe](plot_01_the_ewe.md) turns unfarmable land into wealth, and makes that wealth countable.
+- [The ewe](plot_01_the_ewe.md) turns unfarmable land into wealth, puts the wool on the loom, and makes that wealth countable.
 - [The orchards at Tséyi'](plot_02_the_orchards_at_tseyi.md) is the starvation that produced the march.
 - [The mountain coming into view](plot_03_the_mountain_coming_into_view.md) is the return, and the paper that allowed it.
 - [A child punished for a word](plot_04_a_child_punished_for_a_word.md) installs the injury the nation now carries out on itself.

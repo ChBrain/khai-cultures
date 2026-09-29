@@ -36881,7 +36881,7 @@
       "kind": "culture",
       "id": "us_arizona",
       "title": "Arizona",
-      "description": "Arizona staged: the Grand Canyon State of desert resilience, Navajo code talkers, and copper mining boomtowns.",
+      "description": "Arizona staged: a desert state scaled by a canyon, rationed by an aquifer, and paid for by copper.",
       "source": {
         "package": "@chbrain/khai-cultures-us-arizona",
         "path": ""
@@ -36906,11 +36906,6 @@
           "file": "piece_copper_ore.md",
           "kind": "piece",
           "title": "The Copper Ore Specimen"
-        },
-        {
-          "file": "piece_navajo_rug.md",
-          "kind": "piece",
-          "title": "The Hand-Woven Navajo Rug"
         },
         {
           "file": "pitch_arizona.md",
@@ -36951,13 +36946,7 @@
           "taxonomy": "play_arizona.md"
         },
         {
-          "file": "plot_02_code_talkers.md",
-          "kind": "plot",
-          "title": "The Navajo Code Talkers",
-          "taxonomy": "play_arizona.md"
-        },
-        {
-          "file": "plot_03_central_arizona_project.md",
+          "file": "plot_02_central_arizona_project.md",
           "kind": "plot",
           "title": "The Central Arizona Project",
           "taxonomy": "play_arizona.md"
@@ -36987,11 +36976,6 @@
           "file": "process_copper_smelting.md",
           "kind": "process",
           "title": "Arizona Copper Smelting"
-        },
-        {
-          "file": "process_navajo_weaving.md",
-          "kind": "process",
-          "title": "Traditional Navajo Weaving"
         }
       ],
       "package": "@chbrain/khai-cultures-us-arizona"
@@ -39919,6 +39903,12 @@
           "taxonomy": "play_navajo.md"
         },
         {
+          "file": "piece_the_rug.md",
+          "kind": "piece",
+          "title": "The Rug",
+          "taxonomy": "play_navajo.md"
+        },
+        {
           "file": "piece_the_water_barrel.md",
           "kind": "piece",
           "title": "The Water Barrel",
@@ -40033,6 +40023,12 @@
           "file": "process_running_sheep.md",
           "kind": "process",
           "title": "Running Sheep",
+          "taxonomy": "play_navajo.md"
+        },
+        {
+          "file": "process_weaving.md",
+          "kind": "process",
+          "title": "Weaving at the Upright Loom",
           "taxonomy": "play_navajo.md"
         }
       ],

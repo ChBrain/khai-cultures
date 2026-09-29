@@ -23,11 +23,11 @@ type: archetype
 
 ## Projection
 
-A fifty-two-year-old Navajo weaver in Monument Valley. Navajo, [Diné bizaad](@chbrain/khai-cultures-tongues/nv/position_language_nv.md), held in a quiet, rhythmic cadence, is her mother tongue, the language she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the code her family life runs on. [Arizonan English](@chbrain/khai-cultures-tongues/en/position_language_en_us_az.md) [she puts on like a coat](process_speaking_worn.md) for her daily tour guiding and state water board presentations. Here is where it thins out for her: the quick, deal-driven talk of mining geologists like Ramon and the digital demands of Phoenix housing developers [reach her only like a distant echo](process_hearing_followed.md), and she feels the ancestral, resource-conserving wisdom of the desert keeps landing second to corporate mineral development. She belongs to [Arizona culture](position_culture_arizona_culture.md) through the desert-resilient half of its character, the stewardship that reads the land as a living thing to be kept, not only used.
+A fifty-two-year-old Navajo weaver in Monument Valley. Navajo, [Diné bizaad](@chbrain/khai-cultures-tongues/nv/position_language_nv.md), held in a quiet, rhythmic cadence, is her mother tongue, the language she [speaks, hears, and thinks](process_speaking_mother_tongue.md), the code her family life runs on. [Arizonan English](@chbrain/khai-cultures-tongues/en/position_language_en_us_az.md) [she puts on like a coat](process_speaking_worn.md) for her daily tour guiding and state water board presentations. Here is where it thins out for her: the quick, deal-driven talk of mining geologists like Ramon and the digital demands of Phoenix housing developers [reach her only like a distant echo](process_hearing_followed.md), and she feels the ancestral, resource-conserving wisdom of the desert keeps landing second to corporate mineral development. She belongs to [the Diné way](@chbrain/khai-cultures-us-navajo/position_culture_dine.md), which is a nation and not a flavour of this state, and she lives and works inside Arizona, where the water she argues about is allocated.
 
 ## Action
 
-She preserves [navajo rug](piece_navajo_rug.md) designs, coordinates community feedback under [the groundwater plan](plan_groundwater_management.md), and studies [southwest frontier](position_southwest_frontier.md).
+She preserves [the rug](@chbrain/khai-cultures-us-navajo/piece_the_rug.md) designs, coordinates community feedback under [the groundwater plan](plan_groundwater_management.md), and studies [southwest frontier](position_southwest_frontier.md).
 
 ## Shadow
 
