@@ -91,7 +91,7 @@ const NUMBERED = /^plot_(\d{2})_.*\.md$/;
  * invented numbers drift toward whatever the last person wanted to work on. Two
  * things answer it here. The weights are printed with every row, as the
  * arithmetic that produced the rank, so a number is always argued against a
- * culture and never in the abstract. And `house.test.mjs` pins the head and the
+ * culture and never in the abstract. And `house_reports.test.mjs` pins the head and the
  * shape of the top of the queue, so moving a weight to move a favourite to the
  * front fails a test and shows up in a diff.
  *

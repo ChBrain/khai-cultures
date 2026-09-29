@@ -75,7 +75,7 @@ Not a promise. Two devices.
 hollow + 24 level 1 + 13 hole 405y + 4 span 421y`. A weight is therefore always
   argued against a named culture and never in the abstract, which is the thing
   the original objection actually feared.
-- **The weights are pinned by a test.** `house.test.mjs` asserts the table
+- **The weights are pinned by a test.** `house_reports.test.mjs` asserts the table
   exactly, so a number cannot move without that line moving in the same diff,
   where a reader sees it. Probed by changing `disordered` from 40 to 95: the test
   fails.

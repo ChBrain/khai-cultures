@@ -28,7 +28,7 @@
 // blindness below reached for `cultureDir` and `touchedCultures`, which pull in
 // `@chbrain/khai-tests`, and the lane died with ERR_MODULE_NOT_FOUND on the very
 // pull request it was meant to read. The invariant was written in a comment above
-// the workflow step and nothing enforced it; `house.test.mjs` now does.
+// the workflow step and nothing enforced it; `house_nesting.test.mjs` now does.
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { join } from "node:path";
@@ -76,7 +76,7 @@ const MIGRATED = /^packages\/khai-cultures-[^/]+$/;
  * shipped with seven of eleven Cues a state acting.
  *
  * The house has `cultureDir` for this and it cannot be used here - see the import
- * note above. So both shapes are written out, and `house.test.mjs` asserts the
+ * note above. So both shapes are written out, and `house_nesting.test.mjs` asserts the
  * extractor returns plots for a real culture in each home, which is the check the
  * original pattern would have failed.
  */

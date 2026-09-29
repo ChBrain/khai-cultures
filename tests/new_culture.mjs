@@ -279,7 +279,7 @@ ${
   console.log(`  instructions playwright_instructions.md`);
 
   // A culture carries its own README and REFERENCES, like a play, and
-  // `tests/house.test.mjs` fails the culture without them. Two cultures reached
+  // `tests/house_personas.test.mjs` fails the culture without them. Two cultures reached
   // a pull request missing one each, both found by the gate rather than by the
   // author, so the scaffold writes them instead of leaving them to memory.
   writeFileSync(
@@ -392,7 +392,7 @@ for (const a of adds) {
 const have = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith(".md")) : [];
 const count = (p) => have.filter((f) => f.startsWith(p)).length;
 const need = [];
-// What `tests/house.test.mjs` requires of a culture, asked here instead of two
+// What `tests/house_personas.test.mjs` requires of a culture, asked here instead of two
 // gate runs later. It listed four things while the gate checks nine, so a
 // scaffold could look complete and fail on a missing type or a third plot.
 for (const t of ["pitch_", "position_", "place_", "process_", "piece_"])

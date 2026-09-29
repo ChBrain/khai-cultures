@@ -127,6 +127,7 @@
           ".husky/**",
           ".gitattributes",
           "khai-guard.config.json",
+          "vitest.config.mjs",
           "tests/**",
           "AGENTS.md",
           "GEMINI.md",

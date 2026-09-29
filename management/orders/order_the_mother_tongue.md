@@ -261,7 +261,7 @@ part of that is narrower and is carried as a Target below.
 - [x] **Admit more than one mother tongue**, because the engine caps nothing - every
       uniqueness-sounding line in it is a floor claim, and two languages can be
       level - and because about half the world is functionally bilingual. Held as a
-      contract in `house.test.mjs` rather than as a side effect of rule 3 declining
+      contract in `house_personas.test.mjs` rather than as a side effect of rule 3 declining
       multi-tongue links
 - [x] **Refuse to key the written-language rule on the writing channel alone.**
       Measured at 476 personas asked today against 46 if it keyed on writing, which
