@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "name": "@chbrain/khai-cultures",
-  "version": "0.320.0",
+  "version": "0.321.0",
   "cultures": [
     {
       "kind": "culture",
@@ -37181,6 +37181,145 @@
           "title": "Napa Valley Winemaking"
         }
       ]
+    },
+    {
+      "kind": "culture",
+      "id": "us_catawba",
+      "title": "Catawba",
+      "description": "Catawba: a river people who took in their neighbours' survivors, and hold a language nobody speaks.",
+      "source": {
+        "package": "@chbrain/khai-cultures-us-catawba",
+        "path": ""
+      },
+      "members": [
+        {
+          "file": "persona_ada.md",
+          "kind": "persona",
+          "title": "Ada",
+          "type": "archetype",
+          "taxonomy": "position_river_people.md"
+        },
+        {
+          "file": "persona_junie.md",
+          "kind": "persona",
+          "title": "Junie",
+          "type": "archetype"
+        },
+        {
+          "file": "persona_wendell.md",
+          "kind": "persona",
+          "title": "Wendell",
+          "type": "archetype",
+          "taxonomy": "position_river_people.md"
+        },
+        {
+          "file": "piece_the_burnishing_stone.md",
+          "kind": "piece",
+          "title": "The Burnishing Stone",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "piece_the_wordlist.md",
+          "kind": "piece",
+          "title": "The Wordlist",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "pitch_catawba.md",
+          "kind": "pitch",
+          "title": "Catawba Key",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "place_nation_ford.md",
+          "kind": "place",
+          "title": "Nation Ford",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "place_the_clay_holes.md",
+          "kind": "place",
+          "title": "The Clay Holes",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "play_catawba.md",
+          "kind": "play",
+          "title": "Catawba"
+        },
+        {
+          "file": "plot_00_the_towns_that_came_in.md",
+          "kind": "plot",
+          "title": "The towns that came in",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "plot_01_the_war_party_came_home.md",
+          "kind": "plot",
+          "title": "The war party came home",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "plot_02_the_pots_that_never_stopped.md",
+          "kind": "plot",
+          "title": "The pots that never stopped",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "plot_03_the_rent_on_our_own_land.md",
+          "kind": "plot",
+          "title": "The rent on our own land",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "plot_04_two_men_walking.md",
+          "kind": "plot",
+          "title": "Two men walking",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "plot_05_the_last_mouth.md",
+          "kind": "plot",
+          "title": "The last mouth",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "plot_06_a_cloud_on_every_deed.md",
+          "kind": "plot",
+          "title": "A cloud on every deed",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "plot_99_a_language_off_the_page.md",
+          "kind": "plot",
+          "title": "A language off the page",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "position_culture_catawba.md",
+          "kind": "position",
+          "title": "Catawba Culture",
+          "taxonomy": "position_culture_american_way.md"
+        },
+        {
+          "file": "position_river_people.md",
+          "kind": "position",
+          "title": "River People"
+        },
+        {
+          "file": "process_coiling_and_burning.md",
+          "kind": "process",
+          "title": "Coiling and Burning",
+          "taxonomy": "play_catawba.md"
+        },
+        {
+          "file": "process_teaching_from_paper.md",
+          "kind": "process",
+          "title": "Teaching from Paper",
+          "taxonomy": "play_catawba.md"
+        }
+      ],
+      "package": "@chbrain/khai-cultures-us-catawba"
     },
     {
       "kind": "culture",
