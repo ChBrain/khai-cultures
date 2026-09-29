@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Fünfundzwanzig Jahre nach [der Einheit](plot_09_mauerfall.md) steht das Land wohlhabend, exportstark und mit sich selbst weitgehend im Reinen da. Dann kommt ein Jahr, in dem mehrere Dinge zugleich fällig werden, die es lange vor sich hergeschoben hat.
+Fünfundzwanzig Jahre nach [der Einheit](plot_10_mauerfall.md) steht das Land wohlhabend, exportstark und mit sich selbst weitgehend im Reinen da. Dann kommt ein Jahr, in dem mehrere Dinge zugleich fällig werden, die es lange vor sich hergeschoben hat.
 
 ## Action
 
@@ -33,6 +33,7 @@ Fünfundzwanzig Jahre nach [der Einheit](plot_09_mauerfall.md) steht das Land wo
 - [Elke](persona_elke.md): im Osten, wo das Vertrauen in die Ordnung am dünnsten geworden ist.
 - [das Ruhrgebiet](place_ruhrgebiet.md): das Revier ohne Kohle, das zum zweiten Mal etwas anderes werden muss.
 - [die Energiewende](plan_energiewende.md): der Umbau, dessen schwerere Etappe noch aussteht.
+- [das Karl-May-Museum](place_karl_may_museum.md): wo 2021 ein Skalp zurückging und 2022 das Land über [Winnetou](piece_winnetou.md) stritt.
 
 ## Tension
 

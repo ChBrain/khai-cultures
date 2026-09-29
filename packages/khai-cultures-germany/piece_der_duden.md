@@ -1,6 +1,6 @@
 ---
 khai: piece
-title: "Piece: der Duden"
+title: "Der Duden"
 declared: "der Duden"
 language: de
 license: CC-BY-NC-SA-4.0
