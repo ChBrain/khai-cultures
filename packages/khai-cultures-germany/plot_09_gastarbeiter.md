@@ -21,7 +21,7 @@ stamp:
 
 ## Cue
 
-Der Wiederaufbau, den [das Grundgesetz](plot_07_grundgesetz.md) begleitet, läuft schneller, als das Land Hände hat. Im [Ruhrgebiet](place_ruhrgebiet.md) und in den Fabriken des Südens fehlen Arbeiter, und der Mauerbau von 1961 schneidet den Zuzug aus dem Osten ab.
+Der Wiederaufbau, den [das Grundgesetz](plot_08_grundgesetz.md) begleitet, läuft schneller, als das Land Hände hat. Im [Ruhrgebiet](place_ruhrgebiet.md) und in den Fabriken des Südens fehlen Arbeiter, und der Mauerbau von 1961 schneidet den Zuzug aus dem Osten ab.
 
 ## Action
 

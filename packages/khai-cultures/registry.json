@@ -18023,6 +18023,12 @@
           "taxonomy": "position_sie_du.md"
         },
         {
+          "file": "persona_eugen_fischer.md",
+          "kind": "persona",
+          "title": "Eugen Fischer",
+          "type": "real"
+        },
+        {
           "file": "persona_goethe.md",
           "kind": "persona",
           "title": "Goethe",
@@ -18081,6 +18087,12 @@
           "taxonomy": "play_germany.md"
         },
         {
+          "file": "piece_der_vernichtungsbefehl.md",
+          "kind": "piece",
+          "title": "The Extermination Order",
+          "taxonomy": "play_germany.md"
+        },
+        {
           "file": "piece_grundgesetz.md",
           "kind": "piece",
           "title": "The Basic Law"
@@ -18121,6 +18133,12 @@
           "file": "place_die_autobahn.md",
           "kind": "place",
           "title": "The Autobahn"
+        },
+        {
+          "file": "place_haifischinsel.md",
+          "kind": "place",
+          "title": "Shark Island",
+          "taxonomy": "play_germany.md"
         },
         {
           "file": "place_karl_may_museum.md",
@@ -18192,31 +18210,37 @@
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_06_zivilisationsbruch.md",
+          "file": "plot_06_die_rinderpest.md",
+          "kind": "plot",
+          "title": "The Cattle Plague 1897",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_07_zivilisationsbruch.md",
           "kind": "plot",
           "title": "The Seizure of Power and the Break with Civilisation 1933 to 1945",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_07_grundgesetz.md",
+          "file": "plot_08_grundgesetz.md",
           "kind": "plot",
           "title": "Basic Law and the Economic Miracle 1949",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_08_gastarbeiter.md",
+          "file": "plot_09_gastarbeiter.md",
           "kind": "plot",
           "title": "We Called for Workers 1955 to 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_09_autofreie_sonntage.md",
+          "file": "plot_10_autofreie_sonntage.md",
           "kind": "plot",
           "title": "The Car-Free Sundays 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_10_mauerfall.md",
+          "file": "plot_11_mauerfall.md",
           "kind": "plot",
           "title": "The Fall of the Wall 1989/90",
           "taxonomy": "play_germany.md"
