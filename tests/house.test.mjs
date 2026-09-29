@@ -2290,3 +2290,61 @@ describe("Cultures house: the wall sees a culture with no map", () => {
     });
   });
 });
+
+// The scaffold decides no content, but it does decide a KIND: whether the
+// culture it writes holds ground. `--iso` used to be mandatory with the
+// refusal "geo.json is not guessable", which was right about the thing that
+// matters and wrong about the only shape a culture can have. Now a culture
+// with no map takes `--mapless`.
+//
+// What is held here is the refusal, not the scaffold. A missed flag must never
+// be the difference between two kinds of culture, and the three ways of
+// getting it wrong all have to stop the tool BEFORE it writes: each of these
+// asserts a non-zero exit and an untouched packages/ directory, and each was
+// run against a version with its own guard removed and failed there.
+describe("Cultures house: the scaffold will not guess whether a culture holds ground", () => {
+  const cli = (...args) => {
+    const before = readdirSync(join(here, "..", "packages")).length;
+    let code = 0;
+    let err = "";
+    try {
+      execFileSync("node", [join(here, "new_culture.mjs"), ...args], {
+        encoding: "utf8",
+        cwd: join(here, ".."),
+        stdio: ["ignore", "pipe", "pipe"],
+      });
+    } catch (e) {
+      code = e.status;
+      err = String(e.stderr ?? "");
+    }
+    // The refusal is only a refusal if nothing was written. A guard that fires
+    // after mkdirSync has already left a package behind.
+    expect(readdirSync(join(here, "..", "packages")).length, "refused and still wrote").toBe(
+      before,
+    );
+    return { code, err };
+  };
+
+  it("refuses when neither --iso nor --mapless is given", () => {
+    const { code, err } = cli("us_probe_neither");
+    expect(code).not.toBe(0);
+    expect(err).toMatch(/geo\.json is not guessable/);
+    // And it says what the other shape is, or the author cannot act on it.
+    expect(err).toMatch(/--mapless/);
+  });
+
+  it("refuses when both --iso and --mapless are given", () => {
+    const { code, err } = cli("us_probe_both", "--iso", "US-SC", "--mapless");
+    expect(code).not.toBe(0);
+    expect(err).toMatch(/contradict each other/);
+  });
+
+  it("refuses --mapless when the id prefix names no host", () => {
+    // The host of a mapless culture is its id prefix and nothing else can be,
+    // so a prefix that resolves to no culture is a culture nesting in nothing.
+    const { code, err } = cli("zz_probe_nowhere", "--mapless");
+    expect(code).not.toBe(0);
+    expect(err).toMatch(/--mapless needs a host/);
+    expect(err).toMatch(/--parent/);
+  });
+});

@@ -219,13 +219,23 @@ go, not so that the count can grow.
       its own comment calling an absent file or absent `iso` "non-mappable"; and
       `src/validate.mjs` holds `iso` optional, checking only that a present one is
       a non-empty string. Nothing in this house had to change for it.
-- [ ] The website agrees: listed under its host, and nothing filled. Split from
-      the registry above because that half was already done and this half is not
-      in this repository, so it cannot be closed from here.
-- [ ] `new_culture.mjs` stops demanding `--iso`, which it currently calls
-      not guessable, for a culture that is not a place.
-- [ ] The wall and the registry are done before the first mapless culture ships,
-      not after. This target counted "the first two" until a target was inserted
-      above it and the count quietly meant something else; it names them now.
-      Both are done. `new_culture.mjs` is convenience and can follow, and the
-      website is a separate repository's to close.
+- [x] `new_culture.mjs` stops demanding `--iso`, which it called not guessable,
+      for a culture that is not a place. It takes `--mapless` instead, and the
+      old refusal survives in the new one: the tool still cannot guess, so a
+      flag is required either way and "I forgot the code" is never the same
+      keystroke as "this people holds no ground". A mapless scaffold writes no
+      `geo.json`, drops it from `files`, and takes its host from the id prefix
+      exactly as the wall reads it — derived and printed rather than demanded
+      as a second flag, because the wall BLOCKS on the host link and a scaffold
+      that left it out would hand the author a package that cannot pass.
+- [x] The wall, the registry and the scaffold are done before the first mapless
+      culture ships, not after. This target counted "the first two" until a
+      target was inserted above it and the count quietly meant something else;
+      it names them now, and they are done. Nothing in this house is left
+      between here and the first mapless culture.
+
+**The website is not this house's to hold.** A target was opened here for it and
+is struck rather than left standing: it lives in another repository, nobody here
+can close it, and an order that keeps score of work it cannot do is an order
+nobody can finish reading honestly. What this house owes is a registry entry
+with no `iso`, and that is above and done.
