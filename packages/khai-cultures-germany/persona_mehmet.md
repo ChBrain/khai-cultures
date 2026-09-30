@@ -26,7 +26,7 @@ Ein Mann, der 1969 aus Anatolien angeworben wurde, im Revier blieb und dort alt 
 
 ## Action
 
-Er kommt in den Jahren, in denen [Arbeitskräfte gerufen werden](plot_10_gastarbeiter.md), steht am Band, holt die Familie nach und lernt zuerst die [Pünktlichkeit](process_puenktlichkeit.md), an der man hier gemessen wird. Sein Können macht ihn zum Vorarbeiter, den Brief [des Meisters](position_meister.md) bekommt er nie, weil dafür ein Deutsch verlangt wird, das die Werkbank ihm nicht beigebracht hat.
+Er kommt in den Jahren, in denen [Arbeitskräfte gerufen werden](plot_11_gastarbeiter.md), steht am Band, holt die Familie nach und lernt zuerst die [Pünktlichkeit](process_puenktlichkeit.md), an der man hier gemessen wird. Sein Können macht ihn zum Vorarbeiter, den Brief [des Meisters](position_meister.md) bekommt er nie, weil dafür ein Deutsch verlangt wird, das die Werkbank ihm nicht beigebracht hat.
 
 ## Shadow
 

@@ -41,6 +41,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [Eugen Fischer](persona_eugen_fischer.md)
 - [Frieda](persona_frieda.md)
 - [Hindenburg](persona_hindenburg.md)
+- [Emil](persona_emil.md)
 
 **Places**
 
@@ -79,6 +80,7 @@ Ein Land, das aus vielen Teilen zusammenwuchs und einmal in eine Katastrophe st�
 - [Winnetou](piece_winnetou.md)
 - [der Vernichtungsbefehl](piece_der_vernichtungsbefehl.md)
 - [die Lebensmittelkarte](piece_die_lebensmittelkarte.md)
+- [der Geldschein](piece_der_geldschein.md)
 
 **Pitches**
 
@@ -123,23 +125,27 @@ Eine Seuche nimmt den Herero das Vieh, Siedler kaufen das Land, und 1904 erläss
 
 Die Kartoffeln verfaulen, die Blockade hält, und die Städte essen Rüben. [Frieda](persona_frieda.md) presst Granaten und steht danach in der Schlange, [die Karte](piece_die_lebensmittelkarte.md) verspricht mehr, als es gibt, und nach der Niederlage erklärt [Hindenburg](persona_hindenburg.md), die Heimat habe das Heer erdolcht: eine Lüge über einen wirklichen Hunger, erzählt von dem Mann, der 1933 den Kanzler ernennt.
 
-**[Plot 8: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_08_zivilisationsbruch.md)**
+**[Plot 8: Die Inflation 1923](plot_08_die_inflation.md)**
+
+[Der Geldschein](piece_der_geldschein.md) ist am Abend weniger wert als am Mittag. [Emil](persona_emil.md) reicht die erste Lohntüte durchs Fabriktor zu [Frieda](persona_frieda.md) und trägt die zweite selbst nach Hause, Ersparnisse und Kriegsanleihen lösen sich auf, und im Vox-Haus spricht zum ersten Mal das Radio. Die Lehre, die das Land daraus zog, wurde später gebaut und reicht bis zur Schuldenbremse.
+
+**[Plot 9: Machtübernahme und Zivilisationsbruch 1933 bis 1945](plot_09_zivilisationsbruch.md)**
 
 Der Hang, der Obrigkeit zu folgen, wird eingelöst: das Land übergibt sich auf legalem Weg, benutzt seine eigene Verwaltung zur Entrechtung und ermordet sechs Millionen Juden und Millionen weitere Menschen. 1945 liegt es besetzt und in Trümmern, und der Bruch ist von Deutschen begangen.
 
-**[Plot 9: Grundgesetz und Wirtschaftswunder 1949](plot_09_grundgesetz.md)**
+**[Plot 10: Grundgesetz und Wirtschaftswunder 1949](plot_10_grundgesetz.md)**
 
 Nach dem Sturz in die Katastrophe gibt sich das Land ein neues Fundament. [Adenauer](persona_adenauer.md) führt es aus den Trümmern, das Grundgesetz stellt die Würde des Menschen voran, und aus Fleiß und Maß wächst der Wohlstand wieder.
 
-**[Plot 10: Wir riefen Arbeitskräfte 1955 bis 1973](plot_10_gastarbeiter.md)**
+**[Plot 11: Wir riefen Arbeitskräfte 1955 bis 1973](plot_11_gastarbeiter.md)**
 
 Der Wiederaufbau braucht mehr Hände, als das Land hat, und es wirbt sie an. [Mehmet](persona_mehmet.md) kommt für ein paar Jahre und bleibt ein Leben, und aus vorübergehender Arbeit wird eine Einwanderung, für die das Land dreissig Jahre lang kein Wort und kein Recht hat.
 
-**[Plot 11: Die autofreien Sonntage 1973](plot_11_autofreie_sonntage.md)**
+**[Plot 12: Die autofreien Sonntage 1973](plot_12_autofreie_sonntage.md)**
 
 Der Ölschock stellt das Land, das seinen Wohlstand aufs Rad gesetzt hat, für vier Sonntage auf die leere [Autobahn](place_die_autobahn.md). Aus dem Streit um das Tempo geht 1978 kein Gesetz hervor, sondern eine Empfehlung, und ausgerechnet [das Auto](piece_das_auto.md) wird die eine Sache, bei der das Land sich selbst keine bindende Regel gibt.
 
-**[Plot 12: Der Mauerfall 1989/90](plot_12_mauerfall.md)**
+**[Plot 13: Der Mauerfall 1989/90](plot_13_mauerfall.md)**
 
 Die Mauer fällt, und zwei getrennte Hälften wachsen wieder zusammen. [Kohl](persona_kohl.md) treibt die Einheit voran, während [Elke](persona_elke.md), im Osten geprägt, erlebt, wie eine ganze Lebensordnung über Nacht zerbricht und neu gefügt werden muss.
 
