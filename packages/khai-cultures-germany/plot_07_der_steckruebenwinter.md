@@ -37,4 +37,4 @@ Die Ernte fällt aus, die Blockade hält, und was an Nahrung bleibt, geht zuerst
 
 Im November 1919 sagt Hindenburg vor dem Untersuchungsausschuss des Reichstags, die Armee sei von hinten erdolcht worden, und schiebt den Satz einem englischen General zu. Der Hunger war wirklich; die Geschichte, die man aus ihm machte, war eine Lüge. Die Heeresleitung hatte den Waffenstillstand selbst verlangt, und die Schuld wurde denen gegeben, die Rüben gegessen hatten. Schon die erste Zahl der Toten war ein Argument in einer Verhandlung.
 
-Der Mann, der den Satz sprach, wird 1925 Reichspräsident und ernennt am 30. Januar 1933 den Kanzler, mit dem [der Zivilisationsbruch](plot_08_zivilisationsbruch.md) beginnt. Das ist keine Deutung. Es ist seine Unterschrift.
+Der Mann, der den Satz sprach, wird 1925 Reichspräsident und ernennt am 30. Januar 1933 den Kanzler, mit dem [der Zivilisationsbruch](plot_09_zivilisationsbruch.md) beginnt. Das ist keine Deutung. Es ist seine Unterschrift.

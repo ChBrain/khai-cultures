@@ -18023,6 +18023,13 @@
           "taxonomy": "position_sie_du.md"
         },
         {
+          "file": "persona_emil.md",
+          "kind": "persona",
+          "title": "Emil",
+          "type": "archetype",
+          "taxonomy": "position_meister.md"
+        },
+        {
           "file": "persona_eugen_fischer.md",
           "kind": "persona",
           "title": "Eugen Fischer",
@@ -18096,6 +18103,12 @@
           "file": "piece_der_duden.md",
           "kind": "piece",
           "title": "Der Duden",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "piece_der_geldschein.md",
+          "kind": "piece",
+          "title": "The Banknote",
           "taxonomy": "play_germany.md"
         },
         {
@@ -18240,31 +18253,37 @@
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_08_zivilisationsbruch.md",
+          "file": "plot_08_die_inflation.md",
+          "kind": "plot",
+          "title": "The Inflation 1923",
+          "taxonomy": "play_germany.md"
+        },
+        {
+          "file": "plot_09_zivilisationsbruch.md",
           "kind": "plot",
           "title": "The Seizure of Power and the Break with Civilisation 1933 to 1945",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_09_grundgesetz.md",
+          "file": "plot_10_grundgesetz.md",
           "kind": "plot",
           "title": "Basic Law and the Economic Miracle 1949",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_10_gastarbeiter.md",
+          "file": "plot_11_gastarbeiter.md",
           "kind": "plot",
           "title": "We Called for Workers 1955 to 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_11_autofreie_sonntage.md",
+          "file": "plot_12_autofreie_sonntage.md",
           "kind": "plot",
           "title": "The Car-Free Sundays 1973",
           "taxonomy": "play_germany.md"
         },
         {
-          "file": "plot_12_mauerfall.md",
+          "file": "plot_13_mauerfall.md",
           "kind": "plot",
           "title": "The Fall of the Wall 1989/90",
           "taxonomy": "play_germany.md"
