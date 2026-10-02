@@ -388,6 +388,13 @@
     "orthography": "standard English orthography",
     "tongue": "Pennsylvania English, Pittsburgh and the Dutch country"
   },
+  "en/position_language_en_us_sc.md": {
+    "from": "us_south_carolina",
+    "note": "Rewritten on the way through, not moved byte for byte. The file us_south_carolina wrote held two tongues in one English: the Charleston vowels, and Gullah's preverbal markers and dropped copula presented as a register of this variety. Gullah has its own tongue in gul/ now, and its grammar is not English's to hold, so it was cut and the English keeps only the words that passed into it from Gullah. The reading also corrected the Charleston vowel itself: the file said Charleston holds a long i level where the rest of American English glides it, which is the Inland South and the opposite of Charleston, where the glide survives and the long a and long o are the ones that inglide (Baranowski's apparent-time study of the city). The variety is now described as two, Lowcountry and Upcountry, split by the fall line, and the Lowcountry sound as receding.",
+    "orthography": "American spelling",
+    "review": "native",
+    "tongue": "South Carolina English: Lowcountry and Upcountry, split by the fall line, and a Charleston accent that is going"
+  },
   "en/position_language_en_us_va.md": {
     "from": "us_virginia",
     "note": "Read against the mnemonic on the way through: it names itself and describes its own internal variation, which is the tongue's business, so nothing was cut.",

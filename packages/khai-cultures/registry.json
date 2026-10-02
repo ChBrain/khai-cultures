@@ -41564,10 +41564,10 @@
       "kind": "culture",
       "id": "us_south_carolina",
       "title": "South Carolina",
-      "description": "South Carolina staged: the Palmetto State of Gullah basket weaving, Charleston preservation, and Fort Sumter history.",
+      "description": "South Carolina staged: a colony that landed as a slave society, the refusal it was built on, and a kept city.",
       "source": {
-        "package": "@chbrain/khai-cultures",
-        "path": "cultures/us_south_carolina"
+        "package": "@chbrain/khai-cultures-us-south-carolina",
+        "path": ""
       },
       "iso": "US-SC",
       "members": [
@@ -41586,14 +41586,36 @@
           "taxonomy": "position_plantation_resistance.md"
         },
         {
+          "file": "persona_robert_smalls.md",
+          "kind": "persona",
+          "title": "Robert Smalls",
+          "type": "real",
+          "taxonomy": "position_plantation_resistance.md"
+        },
+        {
           "file": "piece_lime_mortar.md",
           "kind": "piece",
           "title": "The Traditional Lime Mortar Mix"
         },
         {
-          "file": "piece_sweetgrass_basket.md",
+          "file": "piece_the_flag.md",
           "kind": "piece",
-          "title": "The Coiled Sweetgrass Basket"
+          "title": "The Flag"
+        },
+        {
+          "file": "piece_the_indigo_cake.md",
+          "kind": "piece",
+          "title": "The Indigo Cake"
+        },
+        {
+          "file": "piece_the_school_bus.md",
+          "kind": "piece",
+          "title": "The School Bus"
+        },
+        {
+          "file": "piece_the_slave_code.md",
+          "kind": "piece",
+          "title": "The Slave Code"
         },
         {
           "file": "pitch_south_carolina.md",
@@ -41622,21 +41644,45 @@
           "title": "South Carolina"
         },
         {
-          "file": "plot_01_fort_sumter.md",
+          "file": "plot_00_the_colony_of_a_colony.md",
           "kind": "plot",
-          "title": "The Battle of Fort Sumter",
+          "title": "The Colony of a Colony",
           "taxonomy": "play_south_carolina.md"
         },
         {
-          "file": "plot_02_indigo_trade.md",
+          "file": "plot_01_stono.md",
           "kind": "plot",
-          "title": "The Indigo and Rice Trade Boom",
+          "title": "Stono",
           "taxonomy": "play_south_carolina.md"
         },
         {
-          "file": "plot_03_gullah_geechee.md",
+          "file": "plot_02_the_indigo_crop.md",
           "kind": "plot",
-          "title": "The Gullah Geechee Heritage Corridor",
+          "title": "The Indigo Crop",
+          "taxonomy": "play_south_carolina.md"
+        },
+        {
+          "file": "plot_03_the_planter.md",
+          "kind": "plot",
+          "title": "The Planter",
+          "taxonomy": "play_south_carolina.md"
+        },
+        {
+          "file": "plot_04_the_school_bus.md",
+          "kind": "plot",
+          "title": "The School Bus",
+          "taxonomy": "play_south_carolina.md"
+        },
+        {
+          "file": "plot_05_mother_emanuel.md",
+          "kind": "plot",
+          "title": "Mother Emanuel",
+          "taxonomy": "play_south_carolina.md"
+        },
+        {
+          "file": "plot_99_the_wharf.md",
+          "kind": "plot",
+          "title": "The Wharf",
           "taxonomy": "play_south_carolina.md"
         },
         {
@@ -41650,11 +41696,6 @@
           "title": "Historic Stewardship"
         },
         {
-          "file": "position_language_en_us_sc.md",
-          "kind": "position",
-          "title": "South Carolina English"
-        },
-        {
           "file": "position_plantation_resistance.md",
           "kind": "position",
           "title": "Plantation Resistance"
@@ -41663,13 +41704,9 @@
           "file": "process_historic_masonry.md",
           "kind": "process",
           "title": "Charleston Historic Masonry"
-        },
-        {
-          "file": "process_sweetgrass_weaving.md",
-          "kind": "process",
-          "title": "Gullah Sweetgrass Weaving"
         }
-      ]
+      ],
+      "package": "@chbrain/khai-cultures-us-south-carolina"
     },
     {
       "kind": "culture",
